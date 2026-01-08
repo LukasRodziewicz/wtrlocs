@@ -1,0 +1,230 @@
+$GEN_059_DOC_1_HEADER
+Compilado por: Nathan d’Essiraf
+$GEN_059_DOC_1_00
+	Anne de Korff, de 67 años, es una <a name="1" class="hidden">viuda</a> que actualmente posee una enorme fortuna heredada de su difunto esposo, el barón de Clichy. Antes de la Revolución, fue una de las <a name="3" class="hidden">cortesanas de confianza</a> de María Antonieta. Tras los sucesos de 1789, rompió lazos con la corte; sin embargo, recientemente se ha convertido en una visitante frecuente de <a name="4" class="hidden">las Tullerías</a>, donde se encontraba la familia Capeto. También participó en el plan del conde de Fersen para facilitar la huida de los monarcas de las Tullerías.
+$GEN_059_DOC_1_01
+	Siguiendo las órdenes de de Fersen, de Korff supuestamente compró <a name="6" class="hidden">un carruaje nuevo</a> a su nombre. La adquisición de una berlina para seis pasajeros, suficiente para trasladar a los Capeto fuera de París, se realizó en el taller de Jean Louis. El ayuda de cámara de la baronesa, Gilbert, declaró que el carruaje fue entregado al conde poco antes de la fuga.
+$GEN_059_DOC_1_02
+	Es bien sabido que el propio de Fersen, disfrazado de cochero, condujo el carruaje hasta Bondy. Curiosamente, cuando los monarcas fueron detenidos en Varennes, María Antonieta llevaba <a name="7" class="hidden">un pasaporte recién emitido</a> a nombre de Anne de Korff, que utilizaba durante el viaje.
+$GEN_059_DOC_1_03
+	Las calles de París zumban de rumores. Dicen que Anne ayudó al conde no por simpatía hacia los monárquicos, sino por un romance que tuvieron en el pasado y por el <a name="8" class="hidden">deseo insaciable</a> de la anciana aristócrata.
+$GEN_059_DOC_1_04
+Prueba: <a name="9" class="hidden">Un recibo</a> presentado por Jean Louis.
+$GEN_059_DOC_2_TOOLTIP
+Recibo
+$GEN_059_DOC_2_00
+Estimada Baronesa,  
+	
+La berlina personalizada que solicitó está lista. Sus indicaciones han sido seguidas con esmero al pie de la letra. Le ruego abonar los 70.000 francos pendientes a través de Durand.  
+	
+Siempre a su servicio, J. L.
+$GEN_059_OnStart_00
+¡Cómplice de la tiranía!
+$GEN_059_OnStart_01
+Por favor, preséntese.
+$GEN_059_OnStart_02
+Baronesa Anne de Korff.
+$GEN_059_OnStart_03
+Anne de Korff, se le acusa de conspirar para facilitar la huida de los Capetos de Francia. ¿Se declara culpable?
+$GEN_059_OnStart_04
+¡Señor juez, esto es un malentendido! ¡Yo no tengo nada que ver con eso!
+$GEN_059_OnStart_05
+Las pruebas incriminan al acusado.
+$GEN_059_OnStart_06
+¡Eso es imposible!
+$GEN_059_OnGuilty_00
+¡Condeno a la ciudadana Anne de Korff a la guillotina! Saquen a la condenada.
+$GEN_059_OnGuilty_01
+¡Así acabarán todos los seguidores de Capeto!
+$GEN_059_OnGuilty_02
+¡Bravo!
+$GEN_059_OnPrison_00
+¡Condeno a la ciudadana Anne de Korff a prisión! Saquen a la condenada.
+$GEN_059_OnPrison_01
+¡¿Cómo?!
+$GEN_059_OnPrison_02
+¿¡Dónde está la justicia!?
+$GEN_059_OnNotGuilty_00
+¡El veredicto en el caso de Anne de Korff es... inocente! Saquen a la acusada.
+$GEN_059_OnNotGuilty_01
+¡Escándalo! ¡Traición!
+$GEN_059_OnNotGuilty_02
+¿Acaso también estás conspirando con de Fersen?
+$GEN_059_02x06_00_QTitle
+¿Cuántos carruajes hay en la cochera del acusado?
+$GEN_059_02x06_00_00
+¿Cuántos carruajes hay en la cochera del acusado?
+$GEN_059_02x06_00_01
+Si mal no recuerdo, tres.
+$GEN_059_02x06_00_02
+No recordamos la última vez que comimos carne, ¡y ella ni siquiera sabe cuántos carruajes tiene!
+$GEN_059_02x06_00_03
+Entonces, ¿por qué encargó otro carruaje en el taller de Jean Louis? ¿De verdad una viuda solitaria necesita un cuarto carruaje?
+$GEN_059_02x06_00_04
+Porque mi fortuna me lo permite, monsieur le juge. ¿Desde cuándo gastar dinero en caprichos femeninos es un crimen?
+$GEN_059_02x06_00_05
+Desde que esos caprichos sirven a la conspiración del conde de Fersen. Sabemos que fue él quien le ordenó comprarlo.
+$GEN_059_02x06_00_06
+¡Disparates! ¡Lo compré para mi propio viaje a Montmédy!
+$GEN_059_06x09_01_QTitle
+¿Podría describir el carruaje que encargó a Jean Louis?
+$GEN_059_06x09_01_00
+¿Podría describir el carruaje que encargó a Jean Louis?
+$GEN_059_06x09_01_01
+Era una berlina lujosa, pintada de verde y amarillo.
+$GEN_059_06x09_01_02
+Los Capetos intentaron huir en un carruaje que coincide exactamente con esta descripción. ¿Dónde está ese carruaje ahora?
+$GEN_059_06x09_01_03
+¡Juro que no tuve nada que ver con la huida de Luis y su esposa de las Tullerías!
+$GEN_059_06x09_01_04
+¡Responda a la pregunta!
+$GEN_059_06x09_01_05
+Yo... Bueno... Le presté la carroza al conde de Fersen... ¡Pero juro por todo lo sagrado que no conocía las verdaderas intenciones de ese canalla!
+$GEN_059_06x09_01_06
+¿De verdad crees que alguien te va a creer eso?
+$GEN_059_06x09_01_07
+¿Para qué pensaba el acusado que iba a usarla?
+$GEN_059_06x09_01_08
+Dijo que la usaría el embajador sueco. ¿Por qué habría de dudar de las palabras del conde?
+$GEN_059_05x07_02_QTitle
+¿Cómo es posible que el pasaporte del acusado estuviera en manos de María Antonieta?
+$GEN_059_05x07_02_00
+¿Cómo es posible que el pasaporte del acusado estuviera en manos de María Antonieta?
+$GEN_059_05x07_02_01
+Lo robaron de mi apartamento... ¡Seguro que fue el conde de Fersen!
+$GEN_059_05x07_02_02
+Y, por supuesto, ¿informó del robo de inmediato?
+$GEN_059_05x07_02_03
+Le ordené a mi ayuda de cámara Gilbert que se encargara de eso.
+$GEN_059_05x07_02_04
+Qué curioso que la policía de París no haya recibido ninguna denuncia semejante.
+$GEN_059_05x07_02_05
+No sé qué decir... No tengo idea de por qué Gilbert no obedeció mi orden...
+$GEN_059_05x07_02_06
+¿Y el ciudadano no se dio cuenta de que eso ocurrió?
+$GEN_059_05x07_02_07
+Soy una persona bastante ocupada, debió de habérseme pasado por alto.
+$GEN_059_05x07_02_08
+Esos aristócratas mugrientos sí que trabajan duro, ¿verdad?
+$GEN_059_04x07_03_QTitle
+¿Por qué habría de visitar el acusado a los Capetos en las Tullerías?
+$GEN_059_04x07_03_00
+¿Por qué habría de visitar el acusado a los Capetos en las Tullerías?
+$GEN_059_04x07_03_01
+La visita fue puramente social. Como persona mayor, sufro mucho la soledad en París.
+$GEN_059_04x07_03_02
+Eso resulta muy extraño, considerando que el acusado rompió toda relación con la corte real al comenzar la Revolución.
+$GEN_059_04x07_03_03
+Quisiera ver a todas las personas que conocí en Versalles antes de morir. ¿Acaso es tan malo?
+$GEN_059_04x07_03_04
+¿Fue durante la visita cuando entregó su pasaporte a María Antonieta?
+$GEN_059_04x07_03_05
+¡Por supuesto que no! Había un guardia que no apartaba la vista ni un segundo. Esos seres terribles no se separan de ella, la pobre mujer atormentada.
+$GEN_059_04x07_03_06
+Y aun así, por algún milagro, su pasaporte terminó en sus manos.
+$GEN_059_04x07_03_07
+¡Yo no tuve nada que ver con eso!
+$GEN_059_03x05_04_QTitle
+El acusado solicitó apresuradamente un nuevo carruaje y un pasaporte. ¿Por qué?
+$GEN_059_03x05_04_00
+El acusado solicitó con urgencia un nuevo carruaje y un pasaporte. ¿Por qué?
+$GEN_059_03x05_04_01
+Madame de Gasperi me invitó a Montmédy.
+$GEN_059_03x05_04_02
+¡Qué extraña coincidencia! ¡Justo allí debían llevar a los Capetos!
+$GEN_059_03x05_04_03
+Ciertamente, pero no fue más que una coincidencia. Suelen ser extrañas y poco comunes.
+$GEN_059_03x05_04_04
+¡Se está burlando de nosotros!
+$GEN_059_05x08_05_QTitle
+¿Cuál es su relación con el conde de Fersen?
+$GEN_059_05x08_05_00
+¿Cuál es su relación con el conde de Fersen?
+$GEN_059_05x08_05_01
+Solo amistad, monsieur le juge. A mi edad, no puedo esperar nada más… por desgracia.
+$GEN_059_05x08_05_02
+¿Hubo algo más entre ustedes en el pasado?
+$GEN_059_05x08_05_03
+No tanto como les gusta imaginar a los de la corte.
+$GEN_059_05x08_05_04
+Pero se conocían bien.
+$GEN_059_05x08_05_05
+Podría decirse que sí, en aquel entonces confiaba en él. Pero ahora, por su culpa, soy una anciana atrapada en una celda.
+$GEN_059_03x04_06_QTitle
+¿Qué opina el acusado sobre la monarquía?
+$GEN_059_03x04_06_00
+¿Qué opina el acusado sobre la monarquía?
+$GEN_059_03x04_06_01
+No sé mucho de política, pero apoyo la Revolución, si es eso lo que me pregunta, monsieur le juge.
+$GEN_059_03x04_06_02
+¿Es por eso que abandonó el tribunal?
+$GEN_059_03x04_06_03
+Esa es una historia completamente distinta y no tiene nada que ver con la política.
+$GEN_059_03x04_06_04
+¿A qué estaba relacionado entonces?
+$GEN_059_03x04_06_05
+Tuve que enfrentar acusaciones infundadas sobre un pequeño escándalo que me involucraba con un general casado.
+$GEN_059_03x04_06_06
+¿A pesar de esas circunstancias, el acusado mantuvo buenas relaciones con la esposa del ciudadano Capeto? ¿Lo suficientemente buenas como para ayudarla?
+$GEN_059_03x04_06_07
+Solo podía rezar por ella. A mi edad, ya no quedan fuerzas para conspiraciones.
+$GEN_059_01x06_07_QTitle
+¿Por qué necesitaría una mujer sola un carruaje para nada menos que seis pasajeros?
+$GEN_059_01x06_07_00
+¿Por qué necesitaría una mujer sola un carruaje para nada menos que seis pasajeros?
+$GEN_059_01x06_07_01
+Porque una mujer sola desea viajar acompañada. Todavía hay algunas personas a las que puedo invitar.
+$GEN_059_01x06_07_02
+O podrías planear ayudar a la Familia Real, compuesta exactamente por seis personas, a escapar.
+$GEN_059_01x06_07_03
+No soy la única persona en esta ciudad que posee una berlina para seis personas, monsieur le juge.
+$GEN_059_01x06_07_04
+Pero los demás propietarios no conspiran contra el Estado…
+$GEN_059_01x06_07_05
+Quizá no recurran al uso de carruajes.
+$GEN_059_01x06_07_06
+¡Cierto, estamos rodeados de serpientes!
+$GEN_059_KEY_01
+Viuda de 67 años
+$GEN_059_KEY_02
+Fortuna enorme
+$GEN_059_KEY_03
+Cortesana de confianza
+$GEN_059_KEY_04
+Huésped frecuente en las Tullerías
+$GEN_059_KEY_05
+La organización de la fuga
+$GEN_059_KEY_06
+Nuevo carruaje
+$GEN_059_KEY_07
+Nuevo pasaporte para la Reina
+$GEN_059_KEY_08
+Las necesidades y deseos del acusado
+$GEN_059_KEY_09
+Un recibo por la construcción de un carruaje
+$GEN_059_LastDialog_00
+¿Por qué quiere matarme? ¡No tiene ninguna prueba!
+$GEN_059_UNIQUE_QUESTION_00
+¿Por qué necesitaba la acusada un pasaporte y un carruaje?
+$GEN_059_UNIQUE_ANSWER_CORRECT_00_00
+Ella quería viajar a Montmédy.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Quería visitar a su familia en Ruan.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Iba a comprar una casa en Marsella.
+$GEN_059_UNIQUE_QUESTION_01
+Según el testimonio, ¿quién estaba usando el carruaje de la viuda?
+$GEN_059_UNIQUE_ANSWER_CORRECT_01_00
+El embajador sueco.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Su hermano.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_01_01
+General Aldric.
+$GEN_059_UNIQUE_QUESTION_02
+¿Dónde encontraron los investigadores el pasaporte de Anne de Korff?
+$GEN_059_UNIQUE_ANSWER_CORRECT_02_00
+Con María Antonieta.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Con el conde de Fersen.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Con uno de los sirvientes de la Reina.

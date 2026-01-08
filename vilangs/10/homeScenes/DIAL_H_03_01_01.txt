@@ -1,0 +1,26 @@
+$DIAL_H_03_01_01_001_JUDGE
+Bugün nasıl hissediyorsun, Bernard?
+$DIAL_H_03_01_01_002_BERNARD
+Ne görüyorsun?
+$DIAL_H_03_01_01_003_JUDGE
+Affedersiniz?
+$DIAL_H_03_01_01_004_BERNARD
+Sana ne gördüğünü sordum.
+$DIAL_H_03_01_01_005_JUDGE
+Seni, oğlum.
+$DIAL_H_03_01_01_006_BERNARD
+Hayır. Bir canavar görüyorsun. Sakatlanmış, aşağılanmış ve hayallerinden mahrum bırakılmış.
+$DIAL_H_03_01_01_007_JUDGE
+Bu doğru değil. Seni hâlâ bekleyen çok şey var…
+$DIAL_H_03_01_01_008_BERNARD
+Beni ne bekliyor şimdi?! Bir kariyer mi? Bana bak! Bir daha asla çalamayacağım! Bunu istedin, değil mi? Söyle!
+$DIAL_H_03_01_01_009_JUDGE
+Asla.
+$DIAL_H_03_01_01_010_BERNARD
+Sana inanmıyorum! Ve bir daha asla inanmayacağım. Eskiden bize bakacağını söylerdin, ama bu deliliği, bu korkunç Devrimi kimse durduramaz. Ya da bu lanet aileyi, mezarlarından kalkıp yaşayanları rahatsız eden cesetleriyle.
+$DIAL_H_03_01_01_011_BERNARD
+Yoksa bu da zamanın bir işareti mi? Senin yüzünden başı kesilen insanlar ne olacak? Onlar da geri dönüp bizi öldürecek mi? Belki de Kral’ın kendisi mezarından çıkıp, bende hâlâ durduğu için bacaklarımı koparacak!
+$DIAL_H_03_01_01_012_JUDGE
+Üzgünüm, oğlum. Gerçekten üzgünüm.
+$DIAL_H_03_01_01_013_BERNARD
+Ben de üzgünüm. Şimdi müsaadenle, senin acımasız merhametinle bağışladığın bu hayatın geri kalanını nasıl harcayacağımı düşünmem gerek.

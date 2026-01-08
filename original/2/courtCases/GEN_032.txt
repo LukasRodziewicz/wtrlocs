@@ -1,0 +1,238 @@
+$GEN_032_DOC_1_HEADER
+Compilé par : Nathan d'Essiraf
+$GEN_032_DOC_1_00
+Est présenté devant la Cour Sébastien Thil, 19 ans, fils d'un boucher et célèbre dans toute la section pour les <a name="1" class="hidden">excellents pâtés</a> qu'il prépare suivant sa recette personnelle. Malheureusement, des accusations sérieuses ont récemment été portées à son encontre : il confectionnerait les pâtés à partir de viande de chat.
+$GEN_032_DOC_1_01
+Les accusations proviennent de la déposition d'une certaine <a name="3" class="hidden">Anna Renan</a>, qui a été arrêtée dans la rue avec <a name="4" class="hidden">un sac contenant des chatons</a>. Elle dit avoir attrapé des animaux <a name="5" class="hidden">pour le compte de Sébastien Thil</a>. On raconte que ses célèbres pâtés seraient faits avec ces chats.
+$GEN_032_DOC_1_02
+Lors de l'arrestation du jeune cuisinier, les enquêteurs ont trouvé des <a name="6" class="hidden">carcasses de chats</a> dans la maison du boucher, au milieu d'autres types de viandes. Une caisse entière se trouvait sous la table.
+$GEN_032_OnStart_00
+Donner des chats à manger aux honnêtes gens ? C'est un scandale !
+$GEN_032_OnStart_01
+Citoyen, comment t'appelles-tu ?
+$GEN_032_OnStart_02
+Sébastien Thil, M'sieur.
+$GEN_032_OnStart_03
+Tu es accusé d'avoir fait manger aux habitants de Paris du pâté confectionné avec de la viande de chat. Que plaides-tu face à ces accusations ?
+$GEN_032_OnStart_04
+Hein ?! C'est qui qui dit ça ? J'parie que c'est un des autres bouchers, les salauds sont en compétition avec moi ! Ils mentent ! Ce sont des sales menteurs, M'sieur !
+$GEN_032_OnStart_05
+Mieux vaut mentir que manger du chat.
+$GEN_032_OnStart_06
+La personne qui le prétend est ta fournisseuse, qui a été prise la main dans le sac avec une cargaison toute fraîche de chatons.
+$GEN_032_OnStart_07
+Quelle fournisseuse ?
+$GEN_032_OnStart_08
+Faire l'innocent ne te sauvera pas. As-tu tant de fournisseurs que tu en perds le compte ?
+$GEN_032_OnStart_09
+Renan, hein ?
+$GEN_032_OnStart_10
+C'est exact. Vous avouez ?
+$GEN_032_OnStart_11
+Pas du tout ! P't'êt' qu'elle fait du pâté de chat elle-même ?
+$GEN_032_OnGuilty_00
+Je condamne le citoyen Sébastien Thil à être guillotiné ! Emmenez le condamné.
+$GEN_032_OnGuilty_01
+Où sont les preuves ?! C'est ça la justice ?!
+$GEN_032_OnGuilty_02
+C'est une dure sentence, mais la santé publique ne doit pas être prise à la légère.
+$GEN_032_OnNotGuilty_00
+Sébastien Thil est jugé… non coupable ! Emmenez l'accusé.
+$GEN_032_OnNotGuilty_01
+C'est scandaleux ! Il va continuer à nous refiler de la viande de chat !
+$GEN_032_OnNotGuilty_02
+Objection ! C'est un crime contre l'estomac des Parisiens !
+$GEN_032_04x05_00_QTitle
+Pour quelle raison as-tu acheté les chats ?
+$GEN_032_04x05_00_00
+Pour quelle raison as-tu acheté les chats ?
+$GEN_032_04x05_00_01
+C'est pour… c'est-à-dire, M'sieur… pour un usage médical.
+$GEN_032_04x05_00_02
+Que veux-tu dire ?
+$GEN_032_04x05_00_03
+Eh bien, pour leur peau et leur fourrure. Ça fait des miracles pour les problèmes de dos. Je voulais juste gagner quelques sous de plus.
+$GEN_032_04x05_00_04
+Menteur ! Les gens venaient t'acheter du pâté, pas des peaux !
+$GEN_032_04x05_00_05
+Tu tuais des chats ?
+$GEN_032_04x05_00_06
+Ouais, mais pas pour les faire manger aux gens.
+$GEN_032_04x05_00_07
+Pourriez-vous nous donner le nom d'au moins un client qui vous aurait acheté un sac ?
+$GEN_032_04x05_00_08
+J'ai pas pris de notes, M'sieur. Des tas de gens sont venus et repartis, ils achetaient les sacs et ils s'en allaient.
+$GEN_032_04x05_00_09
+C'est bien pratique de ne pas se souvenir.
+$GEN_032_01x06_01_QTitle
+Dis-moi, où est passée la viande des chats que tu as achetés ?
+$GEN_032_01x06_01_00
+Dis-moi, où est passée la viande des chats que tu as achetés ?
+$GEN_032_01x06_01_01
+Elle a été vendue à des aristocrates qui ont des chenils, comme le reste des abats.
+$GEN_032_01x06_01_02
+Tu n'en as pas fait du pâté ?
+$GEN_032_01x06_01_03
+Bien sûr que non ! Je ferais pas une chose pareille !
+$GEN_032_01x06_01_04
+Et quand on ne te livrait pas de viande ? On a manqué de nourriture récemment, tu n'en as pas ajouté ne serait-ce qu'un peu ?
+$GEN_032_01x06_01_05
+Gâcher mon pâté avec de la viande douteuse ? Jamais !
+$GEN_032_01x06_01_06
+À l'entendre, c'est un saint. Pourquoi il ne le prouve pas ?
+$GEN_032_01x06_01_07
+Les carcasses de chiens ont été trouvées par terre, nan ? C'est ça ma preuve ! Je ne stocke jamais par terre la viande destinée à mes clients !
+$GEN_032_03x05_02_QTitle
+Confirmes-tu avoir payé Anna Renan pour attraper des chats ?
+$GEN_032_03x05_02_00
+Confirmes-tu avoir payé Anna Renan pour attraper des chats ?
+$GEN_032_03x05_02_01
+Elle est venue me voir pour me proposer de m'amener des chats à écorcher. J'ai accepté, bien sûr. Je suis boucher, je peux écorcher un porc, alors pourquoi pas un chat ?
+$GEN_032_03x05_02_02
+Et après il le donne à manger aux gens ! Il n'a pas honte ?
+$GEN_032_03x05_02_03
+Peu importe l'animal, c'est du pareil au même pour toi ?
+$GEN_032_03x05_02_04
+Eh ben, à vrai dire, c'est plus facile de découper un porc parce que c'est beaucoup plus gros. Les petits chats, ça demande plus d'efforts parce qu'ils…
+$GEN_032_03x05_02_05
+Tu découperais un homme de la même façon ?
+$GEN_032_03x05_02_06
+Seigneur !
+$GEN_032_03x05_02_07
+Quelle idée atroce !
+$GEN_032_03x05_02_08
+Je suis boucher, pas assassin !
+$GEN_032_01x02_03_QTitle
+Quels ingrédients utilises-tu pour ton célèbre pâté ?
+$GEN_032_01x02_03_00
+Quels ingrédients utilises-tu pour ton célèbre pâté ?
+$GEN_032_01x02_03_01
+Uniquement des ingrédients naturels, M'sieur : du foie, de l'épaule de porc, un peu de filet aussi, évidemment, sinon c'est trop sec. On peut aussi y ajouter du lard.
+$GEN_032_01x02_03_02
+Assez…
+$GEN_032_01x02_03_03
+J'essaie toujours d'utiliser quatre viandes différentes. Pour que ça soit encore meilleur, on peut ajouter de l'oignon ou un petit verre de cognac. C'est délicieux, je l'jure.
+$GEN_032_01x02_03_04
+L'accusé a oublié de mentionner les chats, c'est une part importante de la recette.
+$GEN_032_01x02_03_05
+C'est pas vrai. Est-ce qu'il y a une seule personne qui m'a vu ajouter du chat à mon pâté ? Juste une ?
+$GEN_032_01x02_03_06
+Je suis certain que tu as fait bien attention à ne pas te faire voir. Quelle tirade dramatique !
+$GEN_032_03x04_04_QTitle
+Faites venir à la barre le témoin, Anna Renan.
+$GEN_032_03x04_04_00
+Faites venir à la barre le témoin, Anna Renan.
+$GEN_032_03x04_04_02
+Je te prie de te présenter, citoyenne.
+$GEN_032_03x04_04_03
+Anna Renan, on s'est croisés…
+$GEN_032_03x04_04_04
+Oui, je me souviens…
+$GEN_032_WIT_00_A_QTitle
+Comment sais-tu que le pâté est fait avec de la viande de chat ?
+$GEN_032_WIT_00_A_00
+Comment sais-tu que le pâté est fait avec de la viande de chat ?
+$GEN_032_WIT_00_A_01
+C'est le jeune Thil qui me l'a dit. Un jour il m'a crié dessus parce que je lui ai amené des vieux chats. Il a dit qu'ils étaient galeux et que la viande était trop coriace pour être mangée même par un chien.
+$GEN_032_WIT_00_A_02
+Il n'a donc jamais dit directement qu'il utilisait cette viande pour son pâté ?
+$GEN_032_WIT_00_A_03
+Qu'est-ce qu'il en ferait à part sa spécialité ? Il a dit que les vieux chats étaient durs, alors je lui ai ramené des chatons, pour faire un bon pâté.
+$GEN_032_WIT_00_A_04
+As-tu déjà vu comment était préparé le pâté ?
+$GEN_032_WIT_00_A_05
+Non.
+$GEN_032_WIT_00_A_06
+Si tu étais au courant, pourquoi n'en as-tu pas immédiatement informé la Garde ?
+$GEN_032_WIT_00_A_07
+Je sais que j'aurais dû, mais le prix du pain n'arrête pas d'augmenter et je ne suis pas riche. Je dois bien gagner ma vie, hein ?
+$GEN_032_WIT_00_B_QTitle
+Depuis combien de temps livres-tu des chats à l'accusé ?
+$GEN_032_WIT_00_B_00
+Depuis combien de temps livres-tu des chats à l'accusé ?
+$GEN_032_WIT_00_B_01
+C'était seulement le troisième sac quand Monsieur le juge m'est rentré dedans dans la rue…
+$GEN_032_WIT_00_B_02
+Tu as donc commencé très récemment ?
+$GEN_032_WIT_00_B_03
+Il y a une semaine, j'ai entendu une rumeur comme quoi le fils du boucher achetait des chats. Je me suis dit que je pouvais me faire quelques sous moi aussi.
+$GEN_032_WIT_00_B_04
+Où as-tu entendu dire ça ?
+$GEN_032_WIT_00_B_05
+C'est Adèle, elle vend des légumes au marché, et elle avait pas menti. Thil m'a promis 5 sous par chat.
+$GEN_032_WIT_00_B_06
+Au lieu de le signaler à la Garde, tu es immédiatement allée le voir ?
+$GEN_032_WIT_00_B_07
+Eh ben… Ouais. Attraper un chat c'est vraiment pas dur, et si ça paie…
+$GEN_032_WIT_00_B_08
+Des rumeurs… Adèle lui a dit ? Pff !
+$GEN_032_WIT_01_A_QTitle
+As-tu goûté le pâté douteux ?
+$GEN_032_WIT_01_A_00
+As-tu goûté le pâté douteux ?
+$GEN_032_WIT_01_A_01
+Comment je pourrais ? J'ai pas les moyens.
+$GEN_032_WIT_01_A_02
+Et si tu pouvais, tu le goûterais ? En sachant ce qu'il y a dedans ?
+$GEN_032_WIT_01_A_03
+Pourquoi pas ? Ça me tuerait pas. Et tout le monde dit qu'ils sont délicieux, alors peut-être que la viande de chat c'est pas aussi mauvais qu'on le pense.
+$GEN_032_WIT_01_A_04
+Faites sortir le témoin.
+$GEN_032_WIT_01_A_06
+Souhaites-tu répondre à cela ?
+$GEN_032_WIT_01_A_07
+Je fais pas du pâté de chat, c'est tout ce que j'ai à dire.
+$GEN_032_WIT_01_B_QTitle
+Donne-nous les noms d'autres personnes qui ont pu apporter des chats à l'accusé.
+$GEN_032_WIT_01_B_00
+Donne-nous les noms d'autres personnes qui ont pu apporter des chats à l'accusé.
+$GEN_032_WIT_01_B_01
+Je les connais pas, mais je suis pas la seule qui a attrapé des chats pour le jeune Thil, ça j'en suis sûre.
+$GEN_032_WIT_01_B_02
+Tu n'as jamais rencontré d'autre fournisseur en allant chez le boucher ?
+$GEN_032_WIT_01_B_03
+Non, mais je venais juste de commencer à travailler pour lui.
+$GEN_032_WIT_01_B_04
+Faites sortir le témoin.
+$GEN_032_WIT_01_B_06
+Souhaites-tu répondre à cela ?
+$GEN_032_WIT_01_B_07
+Différentes personnes m'apportent différentes sortes de viandes. Je n'ai pas d'employés réguliers.
+$GEN_032_KEY_01
+Célèbre pâté
+$GEN_032_KEY_02
+Viande de chat
+$GEN_032_KEY_03
+Anna Renan
+$GEN_032_KEY_04
+Sac de chatons
+$GEN_032_KEY_05
+Pour Sébastien Thil
+$GEN_032_KEY_06
+Carcasses de chats
+$GEN_032_LastDialog_00
+Maman ! Au secours, ils veulent me tuer !
+$GEN_032_UNIQUE_QUESTION_00
+Qu'est-il arrivé à la viande de chat selon Thil ?
+$GEN_032_UNIQUE_ANSWER_CORRECT_00_00
+Elle a été livrée aux chenils.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Elle a été jetée dans la rivière.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Elle a été donnée aux nécessiteux.
+$GEN_032_UNIQUE_QUESTION_01
+Comment le boucher a-t-il expliqué son achat de chats ?
+$GEN_032_UNIQUE_ANSWER_CORRECT_01_00
+Il vendait leur peau comme remède.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Il vendait leurs pattes comme porte-bonheur.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il vendait leur bile aux herboristes du village.
+$GEN_032_UNIQUE_QUESTION_02
+Que portait la citoyenne Renan au moment de son arrestation ?
+$GEN_032_UNIQUE_ANSWER_CORRECT_02_00
+Un sac de chatons.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_02_00
+De la viande de chat.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Du cuir de chat.

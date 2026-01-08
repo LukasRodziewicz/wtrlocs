@@ -1,0 +1,22 @@
+$EVE_012_TITLE
+Son Çare
+$EVE_012_MAIN_01
+Mahkeme binasının önünde, eşinizle yaşıt bir kadını fark ediyorsunuz. Sizi görür görmez yolunuzu kesiyor ve sonraki birkaç dakika boyunca, aile yadigârlarını satan ve son franklarını içkiye yatıran bir kocadan bahseden bir hikâyeyi dinliyorsunuz. Elbette çocukları da açlıktan kırılıyor. Hiçbir şey sizi şaşırtmıyor, ta ki kadın hikâyesini bitirip... kocasını hapse göndermenizi isteyene kadar. Yeter ki o adam hücreye girsin, gerekirse her türlü ifadeyi vereceğine söz veriyor.
+$EVE_012_MAIN_01_C1
+Sarhoşu hapisle tehdit et
+$EVE_012_MAIN_01_C2
+Adamı tutuklayıp bir süre hapiste tut
+$EVE_012_MAIN_01_C3
+Onu görmezden gel
+$EVE_012_MAIN_02A
+Adamı daha çok neyin korkuttuğunu söylemek güç: silahlı Muhafızın görüntüsü mü, yoksa karısının çektiği acıları bir bir sayması mı? Bir süre sorun çıkarmayacaktır; eğer tekrar şişeye uzanırsa, senin kabadayılarından yiyeceği dayağa da hazırlıklı olmalı…
+$EVE_012_MAIN_02B
+Muhafızın cüssesi ve sizin sağlam gerekçeleriniz yeterli olmalıydı, ama ayyaşın kafası öylesine dumanlıydı ki hiçbir şey anlamadı. Çoğu zaman muhafızı eski meyhanedeki dostu sandı, hatta geçmişten kalma borçlarını ödemesini bile istedi. Zavallı adama dayak emri vermemeniz iyi olmuş, hiçbir şey değişmezdi.
+$EVE_012_MAIN_02B_C1
+Durumu tamamen görmezden gel
+$EVE_012_MAIN_02B_C2
+Adamı tutuklayıp bir süre hapiste tutun
+$EVE_012_MAIN_02C
+Sarhoş, tutuklanmaya hiç direnmedi. O kadar içmişti ki, onu kimin götürdüğünü ya da nereye gittiğini muhtemelen fark etmedi bile. Karakolun yarısında, Muhafız’ın pantolonuna kustu; bunun karşılığında birkaç tekme yedi. Yarın, sırtının neden bu kadar ağrıdığını ve bir kavgaya mı karıştığını merak edecek muhtemelen. Hapiste geçireceği, alkolden uzak zaman ona bazı şeyleri düşündürmeli. Bu arada ailesi biraz huzur bulacak, karısı ise evin işlerini yoluna koyabilecek.
+$EVE_012_MAIN_02D
+Gözlerinin içine bakıyor, sanki isteksizliğinin sebebini arıyor. Ayrılırken arkandan hafif bir hıçkırık duyuyorsun.

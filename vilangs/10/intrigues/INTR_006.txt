@@ -1,0 +1,30 @@
+$INTRIGUE_TITLE_006
+Germaine de Staël
+$INTRIGUE_006_DESC
+Madame de Staël, şehrin zayıf anını kadın hakları için mücadele etmek adına kullandı. Başkalarının niyetlerini sorgulamak bana düşmez, fakat onu bugün durdurmazsak, yarına uyanamayabiliriz.
+$INTR_006_B01_TITLE
+Kadın Hakları Bildirgesi
+$INTR_006_B01_DESC
+Paris sokaklarında kadınlar toplandı. Belediye binasına yürüyüp sloganlar eşliğinde bir salonunu işgal ettiler ve Devrim Fransası’nda kadın haklarını tartıştılar. Onlara, Paris’in siyasi salonlarından birinin eğitimli ve hırslı kurucusu Madame de Staël önderlik ediyordu. Destekçilerini, Devrim’in kadınlara özgürlük, eşitlik ve kardeşlik getirmediğine ve bunun için bizzat mücadele etmeleri gerektiğine ikna etti. Tehditler ve ateşli bildiriler, etkinliğe katılan herkesin imzaladığı Kadın Hakları Bildirgesi’nin kendiliğinden ortaya çıkmasına yol açtı. Zamanlama tesadüf değildi. Madame de Staël, mevcut durumumuzu kendi ve diğer kadınların lehine çevirmekten çekinmeyecek. Gelişmeleri bekleyin…
+$INTR_006_B02_TITLE
+Erkekleri ikna etmek
+$INTR_006_B02_DESC
+De Staël’in teklifi, belki de şantajı, bizi derhal ve düşünmeden harekete geçmeye zorluyor. Kadın Hakları Bildirgesi’ni imzalamamızı istiyor. Diğer erkeklerin desteği olmadan boyun eğerseniz, kendi idam fermanınızı da imzalamış olursunuz. Onları değişiklikleri kabul etmeye ve oğullarına vaat ettikleri gücü bırakmaya ikna etmelisiniz.
+$INTR_006_B03_TITLE
+Grace Elliot’in Desteğini Kazanmak
+$INTR_006_B03_DESC
+Madame de Staël kadınlar arasındaki birliğe güveniyor. Ona gösterelim ki kadın dayanışması, erkekler arasındaki bağlar kadar kırılgandır. Söz konusu olan güç ve para olunca, empati ve merhametin hiçbir önemi kalmaz. Madame de Staël hakkında bilgi verebilecek kadınlar arasında, Grace Elliott en etkili olanıdır. Madame’ın dünyasını yakından tanır. İnce oyunlara vakit yok. Onu hapse atın, sonra da bilgi karşılığında serbest bırakma sözü verin.
+$INTR_006_B04_TITLE
+Kadın İsyanı
+$INTR_006_B04_DESC
+De Staël açıkça sizi harekete geçmeye teşvik etmek istedi. Şehirdeki kadınlar çalışmayı reddediyor. Görevlerine ancak liderleri Deklareyi imzaladığımızı onayladığında dönecekler. Yetersiz iş gücü savunmamızı zayıflatacaktır. Buna daha fazla izin veremeyiz.
+$INTR_006_B05_TITLE
+Bildirgeyi yak ve de Staël’i tutukla
+$INTR_006_B05_DESC
+Sizi kimse şantajla tehdit edemez, çünkü şantajı yapan sizsiniz. Düşmanlarınızı yok edersiniz ve asla yenilmezsiniz! Kadınlara kim ihtiyaç duyar ki? Bırakın evlerinde otursunlar, zaten yerleri orası. De Staël hariç. Onun için hazırladığımız hücreye kapatılmalı. Merak ediyorum, giyotin bıçağının altına başı konduğunda da aynı inatçılığı gösterecek mi?
+$INTR_006_B06_TITLE
+Bildiriyi imzala, kadınların desteğini kazan
+$INTR_006_B06_DESC
+Fransa geri dönülmez bir şekilde değişti. Eşitsizliğin son kalesi yıkılıyor ve bunu durdurmaya çalışmak akıl dışı olurdu. Parisli kadınların desteğini kazanmak, düşmana karşı süren mücadeleniz için hayati önem taşıyor. İmzanız, gerçek eşitliğin bir ifadesi olacak. Bir kardeşlik eylemi!
+$INTR_006_B06_DECISION
+Beyannameyle ne yapacağınıza karar verin

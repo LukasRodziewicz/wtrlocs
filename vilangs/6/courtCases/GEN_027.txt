@@ -1,0 +1,244 @@
+$GEN_027_DOC_01_HEADER
+Compilado por: Nathan d'Essiraf
+$GEN_027_DOC_01_00
+Jean-François Vary, un ex chef de 38 años que trabajó para el marqués de Rougé, espera juicio en una celda de la prisión. Su antiguo patrón era un monárquico y conspirador, condenado a la guillotina y despojado de su fortuna. Hemos comprobado que Vary no solo era cocinero, sino también <a name="2" class="hidden">amigo del marqués</a>. No sabemos qué hizo tras el arresto de su empleador, pero un año después abrió en París <a name="3" class="hidden">un restaurante lujoso</a> llamado Bajo la Quimera Dorada. Es especialmente popular entre la aristocracia y los comerciantes y fabricantes adinerados.
+$GEN_027_DOC_01_01
+Vary fue entregado a la Guardia Nacional por una multitud furiosa después de que <a name="4" class="hidden">colgara un cartel</a> sobre el restaurante con la inscripción “Los mejores ciudadanos son bienvenidos”. Los parisinos que realizaron el arresto sin autorización acusaron al restaurador de tener ideas contrarrevolucionarias y de oponerse al pueblo de París. Los soldados llegaron rápidamente al lugar. Aunque no lograron salvar el cartel, impidieron que la multitud incendiara el restaurante y a sus comensales.
+$GEN_027_DOC_01_02
+La investigación reveló que Vary ofrecía a los clientes de clases bajas un <a name="6" class="hidden">trato mucho peor</a> que a los aristócratas. Incluso les cobraba de más o se negaba a atenderlos por completo.
+$GEN_027_DOC_01_03
+Uno de los incidentes más reveladores fue la indignación que sintió el rico y respetado zapatero <a name="7" class="hidden">Paul Idrac</a> cuando lo obligaron públicamente a abandonar el restaurante. Se dice que Vary escoltó personalmente a Idrac hasta la puerta y lo llamó “un plebeyo indigno de comer junto a sus superiores”.
+$GEN_027_OnStart_00
+¡Ese maldito cocinero se cree mejor que nosotros!
+$GEN_027_OnStart_01
+Por favor, preséntese.
+$GEN_027_OnStart_02
+Me llamo Jean-François Vary, monsieur le juge.
+$GEN_027_OnStart_03
+Jean-François, se le acusa de sostener y actuar según ideas contrarias a los logros de la Revolución. ¿Qué responde ante estos cargos?
+$GEN_027_OnStart_04
+Esas acusaciones son absurdas. No es más que calumnias y... y... actividades ilegales de gente que envidia mi negocio.
+$GEN_027_OnStart_05
+Los expedientes dejan claro que fue usted quien infringió la ley.
+$GEN_027_OnStart_06
+Dígame, ¿cuándo y cómo infringí la ley?
+$GEN_027_OnStart_07
+Negó el servicio a ciudadanos que consideraba inferiores. Además, lo admitió abiertamente ante los propios afectados y ante todos los presentes.
+$GEN_027_OnStart_08
+Esto no es más que un malentendido entre mis clientes y yo, sin relevancia para el tribunal.
+$GEN_027_OnGuilty_00
+¡Condeno a Jean-François a la guillotina! Saquen al condenado.
+$GEN_027_OnGuilty_01
+¡Que sepa cuál es su lugar!
+$GEN_027_OnGuilty_02
+¡Bravo!
+$GEN_027_OnGuilty_03
+Hoy nos pusimos del lado de los parisinos comunes.
+$GEN_027_OnNotGuilty_00
+El veredicto en el caso de Jean-François es... ¡inocente! El acusado queda en libertad.
+$GEN_027_OnNotGuilty_01
+¿Está loco?!
+$GEN_027_OnNotGuilty_02
+¡Estás liberando a un enemigo del pueblo!
+$GEN_027_OnNotGuilty_03
+¿Espera una buena mesa y la cena gratis?
+$GEN_027_02x04_00_QTitle
+¿A qué ciudadanos se refiere usted como “los mejores”?
+$GEN_027_02x04_00_00
+¿A qué ciudadanos se refiere usted como “los mejores”?
+$GEN_027_02x04_00_01
+Aquellos que dominan la etiqueta y pagan su comida — el precio completo.
+$GEN_027_02x04_00_02
+¿Y quién cumple con esos requisitos?
+$GEN_027_02x04_00_03
+Por experiencia sé que, en su mayoría, son aristócratas e industriales. La llamada alta sociedad, como suelen decir.
+$GEN_027_02x04_00_04
+Entonces, ¿según su punto de vista, los aristócratas son ciudadanos superiores?
+$GEN_027_02x04_00_05
+Nunca tuve la intención de dividir a las personas en superiores e inferiores.
+$GEN_027_02x04_00_06
+Pero lo hizo. Su letrero negó la entrada a quienes consideraba inferiores.
+$GEN_027_02x04_00_07
+¿Lo vio con sus propios ojos?
+$GEN_027_02x04_00_08
+No, la multitud lo destruyó.
+$GEN_027_02x04_00_09
+Solo escribí que en Bajo la Quimera Dorada comen los mejores ciudadanos. ¿Qué tiene eso de contrarrevolucionario?
+$GEN_027_02x04_00_10
+¡Mentiroso! Sabemos lo que vimos.
+$GEN_027_02x04_00_11
+¡Ni siquiera saben leer, zánganos!
+$GEN_027_02x05_01_QTitle
+¿Cómo recuerda usted los tiempos antes de la Revolución?
+$GEN_027_02x05_01_00
+¿Cómo recuerda usted los tiempos antes de la Revolución?
+$GEN_027_02x05_01_01
+Como maestro de mi oficio, llevé una vida digna.
+$GEN_027_02x05_01_02
+¿Eso era lo único que te importaba?
+$GEN_027_02x05_01_03
+No, no es que yo...
+$GEN_027_02x05_01_04
+¡Porque tú y el marqués se engordaron a costa de nuestra desgracia!
+$GEN_027_02x05_01_05
+¿Entonces no apoya usted la Revolución?
+$GEN_027_02x05_01_06
+¡Eso no es cierto! Solo quiero decir que nunca he sufrido la increíble injusticia que han padecido otros.
+$GEN_027_02x05_01_07
+Por supuesto que no, vivías en un palacio, no en un establo.
+$GEN_027_02x05_01_08
+Señor juez, me gané mis privilegios con esfuerzo. No nací en una familia rica y tuve que trabajar por mi pan como todos los demás.
+$GEN_027_04x05_02_QTitle
+¿Colgó usted el letrero sobre su restaurante?
+$GEN_027_04x05_02_00
+¿Colgó usted el letrero sobre su restaurante?
+$GEN_027_04x05_02_01
+Sí, señor juez, lo hice.
+$GEN_027_04x05_02_02
+¿Por qué lo hizo? El mensaje del cartel contradecía claramente los ideales revolucionarios de igualdad y fraternidad.
+$GEN_027_04x05_02_03
+Solo quería informar a todos que mi restaurante satisface las exigencias incluso de los clientes más exigentes.
+$GEN_027_04x05_02_04
+¿Y qué hay de la gente común y sus demandas?
+$GEN_027_04x05_02_05
+Yo comería allí, ¿por qué no?
+$GEN_027_04x05_02_06
+No es lo que piensa. Hay una gran variedad de restaurantes, tanto económicos como caros. Solo quería que mis clientes supieran qué pueden esperar dentro.
+$GEN_027_04x05_02_07
+El letrero indica que no son bienvenidos muchos tipos de clientes.
+$GEN_027_04x05_02_08
+Todos son bienvenidos, siempre que sepan comportarse y paguen lo que consumen. Al menos puedo esperar de ellos el dinero que deben y un poco de educación, ¿no es así?
+$GEN_027_04x05_02_09
+¡Qué hijo de puta tan arrogante y codicioso!
+$GEN_027_04x05_02_10
+¿Oyes el desprecio en su voz?
+$GEN_027_06x07_03_QTitle
+Llamen al testigo, Paul Idrac.
+$GEN_027_06x07_03_00
+Llamen al testigo, Paul Idrac.
+$GEN_027_06x07_03_02
+Por favor, preséntese.
+$GEN_027_06x07_03_03
+Soy Paul Idrac.
+$GEN_027_06x07_03_04
+¿A qué se dedica?
+$GEN_027_06x07_03_05
+Soy zapatero, monsieur le juge, como mi padre y mi abuelo.
+$GEN_027_05x06_04_QTitle
+¿Es normal que un restaurador rechace a sus clientes?
+$GEN_027_05x06_04_00
+¿Es normal que un restaurador rechace a sus clientes?
+$GEN_027_05x06_04_01
+Cuando un hombre cuyos bolsillos no tienen más que agujeros entra en una tienda y pide una tabaquera de oro, ¿cree que alguien le atendería?
+$GEN_027_05x06_04_02
+¿Entonces pidió usted a la gente que mostrara el contenido de sus bolsillos en la entrada?
+$GEN_027_05x06_04_03
+No.
+$GEN_027_05x06_04_04
+Entonces, ¿cómo sabía a quién debía servir?
+$GEN_027_05x06_04_05
+Es evidente a primera vista.
+$GEN_027_05x06_04_06
+¡No le gustaron nuestras caras toscas!
+$GEN_027_03x04_05_QTitle
+¿Tiene usted prejuicios contra las personas que no provienen de la aristocracia?
+$GEN_027_03x04_05_00
+¿Tiene prejuicios contra las personas que no provienen de la aristocracia?
+$GEN_027_03x04_05_01
+¿Por qué habría de estarlo? Yo tampoco vengo de ellos.
+$GEN_027_03x04_05_02
+Su comportamiento indica lo contrario.
+$GEN_027_03x04_05_03
+A la gente que puede permitirse comer en mi restaurante le gusta que la halaguen.
+$GEN_027_03x04_05_04
+¿Y a los demás les gusta que los insulten?
+$GEN_027_03x04_05_05
+¡No he insultado a nadie!
+$GEN_027_03x04_05_06
+¿Lo oíste? No insultó a nadie.
+$GEN_027_WIT_00_A_QTitle
+¿Le dio usted al acusado algún motivo para echarlo del restaurante?
+$GEN_027_WIT_00_A_00
+¿Le dio usted al acusado algún motivo para echarlo del restaurante?
+$GEN_027_WIT_00_A_01
+¡En absoluto! ¡Vary me echó porque a los grandes señores no les gusta la compañía de un zapatero!
+$GEN_027_WIT_00_A_02
+¿Te comportaste de manera inapropiada? ¿Quizás fuiste demasiado ruidoso?
+$GEN_027_WIT_00_A_03
+No, la única preocupación era mi origen.
+$GEN_027_WIT_00_A_04
+¿Cómo sabe que esa fue la razón?
+$GEN_027_WIT_00_A_05
+¡Vary me lo dijo él mismo, incluso antes de abrir la puerta! Le mostré el dinero para demostrar que podía pagar, pero no quiso escuchar. Por supuesto, al barón Laval y a su amante no les hacía gracia compartir la habitación con un zapatero.
+$GEN_027_WIT_01_A_QTitle
+¿Conoce a otras personas que hayan sido obligadas a abandonar el restaurante?
+$GEN_027_WIT_01_A_00
+¿Conoce a otras personas que hayan sido obligadas a abandonar el restaurante?
+$GEN_027_WIT_01_A_01
+Por supuesto, conozco al menos a algunas personas que fueron expulsadas por destacar entre los demás clientes; ya sabes, porque no eran aristócratas.
+$GEN_027_WIT_01_A_03
+Señor juez, está mintiendo. Le ordené que se fuera porque lo sorprendí intentando robar la cubertería.
+$GEN_027_WIT_01_A_04
+¿Ha notificado a las autoridades correspondientes?
+$GEN_027_WIT_01_A_05
+Bueno... no. Decidí que no hubo delito, ya que no logró robar nada.
+$GEN_027_WIT_01_B_QTitle
+¿Qué sabe usted sobre las opiniones políticas del acusado?
+$GEN_027_WIT_01_B_00
+¿Qué sabe sobre las opiniones políticas del acusado?
+$GEN_027_WIT_01_B_01
+Señor juez, he sido revolucionario desde el primer día y puedo oler a un monárquico a leguas. Este es un enemigo declarado de la Revolución.
+$GEN_027_WIT_01_B_02
+¿Cómo puedes estar tan seguro?
+$GEN_027_WIT_01_B_03
+Bastaba con oír lo que dijo al echarme.
+$GEN_027_WIT_01_B_04
+Adelante.
+$GEN_027_WIT_01_B_05
+Cuando caí en el barro, dijo que antes la plebe conocía su lugar, pero que la Revolución lo había trastocado todo, y maldita sea la Revolución.
+$GEN_027_WIT_01_B_06
+¿Puede demostrarlo?
+$GEN_027_WIT_01_B_07
+¿Acaso no soy yo la prueba?
+$GEN_027_WIT_01_B_09
+Señor juez, no recuerdo haber dicho tales palabras. ¡Este hombre intenta calumniarme descaradamente!
+$GEN_027_KEY_01
+Chef
+$GEN_027_KEY_02
+Amigo del marqués
+$GEN_027_KEY_03
+Restaurante exclusivo
+$GEN_027_KEY_04
+Letrero
+$GEN_027_KEY_05
+Ideas contrarrevolucionarias
+$GEN_027_KEY_06
+Trato a los clientes
+$GEN_027_KEY_07
+Obligar al zapatero a marcharse
+$GEN_027_LastDialog_00
+¡Esto es un error evidente y atroz! ¡No se puede matar a la gente por algo así! ¡Ayuda!
+$GEN_027_UNIQUE_QUESTION_01
+¿Qué tipo de personas considera el acusado como “los mejores ciudadanos”?
+$GEN_027_UNIQUE_ANSWER_CORRECT_01_00
+Quienes dominan la etiqueta.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_01_00
+A quienes son humildes y tranquilos.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_01_01
+A los generosos y elegantes.
+$GEN_027_UNIQUE_QUESTION_02
+¿Cómo explicó el acusado el hecho de haber rechazado atender a algunos clientes?
+$GEN_027_UNIQUE_ANSWER_CORRECT_02_00
+Cobraba precios más altos.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_02_00
+No tenía suficientes mesas.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_02_01
+No permitió la entrada a los ciudadanos pobres que llevaban zapatos sucios.
+$GEN_027_UNIQUE_QUESTION_03
+¿De qué acusó el acusado al ciudadano Idrac?
+$GEN_027_UNIQUE_ANSWER_CORRECT_03_00
+Intentando robar la cubertería de plata.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Ser grosero con las damas.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Embriaguez y gritos.

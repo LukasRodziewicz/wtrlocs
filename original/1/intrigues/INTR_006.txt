@@ -1,0 +1,30 @@
+$INTRIGUE_TITLE_006
+Germaine de Staël
+$INTRIGUE_006_DESC
+Madame de Staël has used the city’s moment of weakness to fight for women’s rights. I am not one to judge the motivations of other people, but if we do not stop her today, we may not wake up tomorrow.
+$INTR_006_B01_TITLE
+The Declaration of Women’s Rights
+$INTR_006_B01_DESC
+Women took to the streets of Paris. They marched to the town hall chanting and occupied one of its halls to debate the rights of women in Revolutionary France. They were led by Madame de Staël – the educated and ambitious founder of one of Paris’s political salons. She convinced her supporters that the Revolution has not given women freedom, equality, and brotherhood, and that they must fight for it themselves. The threats and intense announcements led to the spontaneous creation of the Declaration of Women’s Rights, signed by every participant of the event. The timing was not accidental. Madame de Staël will surely use our current situation to her and other women’s benefit. Await further information…
+$INTR_006_B02_TITLE
+Convincing Men
+$INTR_006_B02_DESC
+De Staël’s proposition, or perhaps blackmail, forces us to take immediate and spontaneous action. She wants us to sign the Declaration of Women’s Rights. If you comply without the support of other men, you may as well sign your own death sentence. You must convince them to accept the changes and give away the power they have promised their sons.
+$INTR_006_B03_TITLE
+Winning Over Grace Elliot
+$INTR_006_B03_DESC
+Madame de Staël counts on unity among women. Let us show her that female unity is as fragile as the bonds between men. When power and money are at stake, empathy and compassion cease to be important. Of all the women who could have something on Madame de Staël, Grace Elliott would be the most efficient. She knows the Madame’s world well. There is no time for subtleties. Imprison her, then promise to let her go in exchange for information.
+$INTR_006_B04_TITLE
+Women’s Rebellion
+$INTR_006_B04_DESC
+De Staël clearly wanted to motivate you to make a move. Throughout the city, women are refusing to work. They will only resume their duties once their leader confirms we have signed the Declaration. An insufficient labour force will have a detrimental effect on our defences. We cannot allow this to last.
+$INTR_006_B05_TITLE
+Burn the Declaration and Arrest de Staël
+$INTR_006_B05_DESC
+You will not be blackmailed, because it is you who does the blackmailing. You destroy your enemies and are undefeated! Who needs women? Let them stay at home, that is their place anyway. Except de Staël. She should be locked up in the cell we have prepared for her. I wonder if she will be as stubborn with her head placed beneath the guillotine’s blade?
+$INTR_006_B06_TITLE
+Sign the Declaration and Gain the Support of Women
+$INTR_006_B06_DESC
+France has changed irreversibly. The last bastion of inequality is falling and trying to stop it would be unreasonable. Gaining support from the women of Paris is essential for your continued battle against the enemy. Your signature will be an expression of true equality. An act of brotherhood!
+$INTR_006_B06_DECISION
+Decide what to do with the Declaration

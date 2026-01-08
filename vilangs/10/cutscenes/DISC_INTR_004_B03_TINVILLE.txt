@@ -1,0 +1,60 @@
+$DISC_INTR_004_B03_TINVILLE_001_JUDGE
+Danton, görevinden her an istifa etmeye hazır.
+$DISC_INTR_004_B03_TINVILLE_002_TINVILLE
+Her şey şüpheli derecede hızlı ilerliyor.
+$DISC_INTR_004_B03_TINVILLE_003_JUDGE
+Çünkü bunu beklemiyordunuz. Tarafsız bir gözlemci, bu terfiyi hak etmek için çok çalıştığınızı söylerdi.
+$DISC_INTR_004_B03_TINVILLE_004_TINVILLE
+Bu aynı zamanda apaçık bir tuzak olabilir.
+$DISC_INTR_004_B03_TINVILLE_005_JUDGE_AGGR
+Devrimin kurallarını savunmaya yemin ettiniz – tıpkı benim gibi. Yeminize sadık kalın!
+$DISC_INTR_004_B03_TINVILLE_006_JUDGE_MANI
+Bize yardım etmezseniz, sonuçları vicdanınıza kalır. Robespierre kadar suçlu olacaksınız!
+$DISC_INTR_004_B03_TINVILLE_007_JUDGE_JOKE
+Başkasının sizin işinizi yapmasına katlanabilecek biri gibi görünmüyorsunuz. Benim mahkemede yaptığım gibi.
+$DISC_INTR_004_B03_TINVILLE_008_JUDGE_HUMI
+Şehirdeki durum kontrolden çıktı. Bana yardım edecek kimse kalmadı.
+$DISC_INTR_004_B03_TINVILLE_009_TINVILLE_INTR
+Beni onurlandırıyorsunuz.
+$DISC_INTR_004_B03_TINVILLE_010_TINVILLE_DOUB
+Kamu Güvenliği Komitesi'nin itibarını kurtaracak doğru kişi ben değilim. Bu iş için daha iyi ve daha tecrübeli adaylar var.
+$DISC_INTR_004_B03_TINVILLE_011_TINVILLE_IRRI
+Bu saçmalık. Bütün şehir, Devrim’in tüm kahramanları elinizde, ama yine de Paris’i kurtarmamı benden, sıradan bir savcıdan mı istiyorsunuz?
+$DISC_INTR_004_B03_TINVILLE_012_JUDGE_AGGR
+Robespierre ya da Danton kadar güçlü değil misiniz? Onlar da iktidara gelmek için kendilerinden daha kudretli rakiplere karşı durmak zorundaydı.
+$DISC_INTR_004_B03_TINVILLE_013_JUDGE_MANI
+Böyle bir fırsatı nasıl geri tepersiniz? Hiç mi kariyer hayaliniz yok? Robespierre tereddüt etmezdi.
+$DISC_INTR_004_B03_TINVILLE_014_JUDGE_JOKE
+Robespierre zirveye çıkabildiyse, siz neden aynısını yapamayasınız? Onun kadar iyisiniz.
+$DISC_INTR_004_B03_TINVILLE_015_JUDGE_HUMI
+Bu, Devrim’in kahramanları arasında sonsuza dek yerinizi alma fırsatınız. Fırsatı yakalayın, tıpkı bir zamanlar Danton’un yaptığı gibi.
+$DISC_INTR_004_B03_TINVILLE_016_JUDGE_AGGR
+Eğer siz korkarsanız, bu yükü kim taşıyacak? Danton gidiyor, insanlar Robespierre’e yalnızca korkudan katılıyor. Yeni bir örnek, yeni bir lider gerekiyor!
+$DISC_INTR_004_B03_TINVILLE_017_JUDGE_MANI
+Komite denetlenmeli. Şeffaf ve yasal olmalı. Bu zorlu görevi başka kim üstlenebilir?
+$DISC_INTR_004_B03_TINVILLE_018_JUDGE_JOKE
+Bunu başka kim yapabilir? O deli Marat mı? Yoksa oğlum mu?
+$DISC_INTR_004_B03_TINVILLE_019_JUDGE_HUMI
+Ne olur, anlamaya çalışın. Savaştan ya da maliyeden anlayan bakanlara ihtiyacımız yok. Halkın, Cumhuriyet’te hâlâ adaletin var olduğunu gösterecek birine ihtiyacı var.
+$DISC_INTR_004_B03_TINVILLE_020_JUDGE_AGGR
+Benden yüz çevirmeye kalkışmayın. O iki sürekli didişen horozu, Danton ve Hébert’i, birlikte hareket etmeye ve sizi desteklemeye ikna etmek için çok uğraştım!
+$DISC_INTR_004_B03_TINVILLE_021_JUDGE_MANI
+Danton ve Hébert, en uygun adayın siz olduğuna karar verdiler. Fikrimi sordular, ben de onlara katıldım. Artık arkanızda güçlü bir destek var, bu hayatınızın fırsatı.
+$DISC_INTR_004_B03_TINVILLE_022_JUDGE_JOKE
+Danton ve Hébert liderlikten yoruldular, değişime öncülük edecek taze bir kan istiyorlar. Bir boşluk var ve onların istediği gibi, ben de bu görevi sizin üstlenmenizi arzuluyorum.
+$DISC_INTR_004_B03_TINVILLE_023_JUDGE_HUMI
+Yorgun düşmüş, özgürlük için can atan Fransa’nın sesine kulak verin. Danton, Hébert ve ben, bu özgürlüğü Fransa’ya vermek istiyoruz ve anlıyoruz. Lütfen, evet deyin ve adaleti sağlayın.
+$DISC_INTR_004_B03_TINVILLE_024_TINVILLE_INTR
+Pekâlâ, bunu iyice düşüneceğim ve cevabımı yarın mahkemede vereceğim.
+$DISC_INTR_004_B03_TINVILLE_025_TINVILLE_DOUB
+Bunu iyice düşünmem gerek. Bu konuşma bana pek net gelmedi.
+$DISC_INTR_004_B03_TINVILLE_026_TINVILLE_IRRI
+Sanırım beni bir şeye bulaştırmak istiyorsunuz, belki de bir şekilde Robespierre’e teslim etmeyi düşünüyorsunuz. Her zamanki gibi kendi çıkarlarınız peşindesiniz. Size son bir şans vereceğim – hadi zar oynayalım. Kazanırsanız, istediğinizi yapacağım.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_01
+Durumu kontrol altına almamıza yardım etmelisiniz.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_02
+En büyükler güce işte böyle uzandı.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_03
+Sizden daha uygun biri yok.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_04
+Desteğimiz sizinle.

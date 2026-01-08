@@ -1,0 +1,48 @@
+$DISC_INTR_003_B08_DANTON_001_JUDGE_AGGR
+Artık sokaklardaki durumu kontrol edemiyoruz. Kaos herkesi hedef alabilir ve kalabalığı yatıştırmak kolay değil.
+$DISC_INTR_003_B08_DANTON_002_JUDGE_MANI
+Durum artık bizim kontrolümüzde değil. Dün, isyancılara casusluk yaptığı şüphesiyle bir kız dövüldü. Sıradaki hedeflerinin kim olacağını kim bilebilir – siz, ben…
+$DISC_INTR_003_B08_DANTON_003_JUDGE_JOKE
+İnsanlar rastgele hedeflere çürük domates fırlatmakla yetinirken durum kabul edilebilirdi, ama şimdi ellerinde tahta sopalar var.
+$DISC_INTR_003_B08_DANTON_004_JUDGE_HUMI
+Halka hizmet edeceğime ve özgürlüğü savunacağıma söz verdiğimi biliyorum, ama yurttaşlarımız işi fazlasıyla abarttı.
+$DISC_INTR_003_B08_DANTON_005_DANTON_SATI
+Durum endişe verici, katılıyorum. İnsanlar dışarı çıkmaktan korkuyor. Bu meseleyle ilgilenmek istemene sevindim, fakat planını bilmiyorum.
+$DISC_INTR_003_B08_DANTON_006_DANTON_INTR
+Bizim konumumuzdaki insanlar kalabalıklarla ilgilenmez, yalnızca yolumuza çıkan huzursuz kişilerle ilgilenir. Sanırım yakında onlardan haber alacağım.
+$DISC_INTR_003_B08_DANTON_007_DANTON_DOUB
+Her zaman bu durumdan fayda sağlayıp sağlamayacağınızı merak etmiştim.
+$DISC_INTR_003_B08_DANTON_008_JUDGE_AGGR
+Her şeyi mahvetti Gobel! Böyle bir sırrı varken, ortaya çıkmaması için elinden geleni yapmalıydı, ama çocuk gibi davrandı!
+$DISC_INTR_003_B08_DANTON_009_JUDGE_MANI
+Eğer söylentiler doğruysa, Gobel’in varlığı durumu daha da kötüleştirecek. İnsanların yetkililerin yozlaştığını düşünmesini ister miyiz? Hem benim hem de senin ve Konvansiyon’daki dostlarının itibarı tehlikede.
+$DISC_INTR_003_B08_DANTON_010_JUDGE_JOKE
+Gobel en kötü zamanda başını belaya soktu. Belki de Papa sonunda intikamını aldı? Tanrı dualarını işitti ve başpiskoposu anayasal olarak atanmanın cezasını vermeye karar verdi…
+$DISC_INTR_003_B08_DANTON_011_JUDGE_HUMI
+Gıyabında hüküm vermek istemem, fakat halkın öfkesi bazı eski sırları açığa çıkarmış gibi görünüyor – mesela Başpiskopos Gobel’in sırrı. Belki de bu konuda bir şeyler yapmalıyız?
+$DISC_INTR_003_B08_DANTON_012_DANTON_SATI
+Gobel’le, Konvansiyon onun davranışlarını kontrol etme yetisini kaybetmeden önce ilgilenmeliyiz.
+$DISC_INTR_003_B08_DANTON_013_DANTON_INTR
+Gobel gerçekten baş belası oldu, ama onun durumunu anlıyorum – zenginler her zaman gerçekte yaptıklarından fazlasıyla suçlanır.
+$DISC_INTR_003_B08_DANTON_014_DANTON_DOUB
+Bundan ne elde edeceğinizi hâlâ bilmiyorum.
+$DISC_INTR_003_B08_DANTON_015_JUDGE_AGGR
+Bir grubun davranışlarının bedelini ödeyemeyiz. Kilise, yalanları ve çürümüşlüğüyle halkın öfkesini fazlasıyla hak etti. Onunla hesaplaşalım ve artık huzur içinde yaşayalım.
+$DISC_INTR_003_B08_DANTON_016_JUDGE_MANI
+Öfkeli kaplana parçalayacak bir av vermek gerek, böylece başka hiçbir şeye aldırmaz ve biz de huzur içinde yaşarız. Madem kaplan dişlerini ruhban sınıfına geçirmek istiyor...
+$DISC_INTR_003_B08_DANTON_017_JUDGE_JOKE
+Gerçekten başka bir seçeneğimiz yok. Din adamlarını istiyorlar, o halde onlara din adamlarını verelim. Eğer onları vatana ihanetten suçluyorlarsa, biz de onların sözlerini yineleyelim. Basit ve etkili.
+$DISC_INTR_003_B08_DANTON_018_JUDGE_HUMI
+Kiliseye zarar vermekten yana değilim. Zaten kendine zararı, yurttaşlarımızın lanetlediği soysuzların eliyle oluyor. O grubun tamamıyla bağlarımızı koparmalıyız. Toplumun iyiliği için.
+$DISC_INTR_003_B08_DANTON_019_DANTON_SATI
+Sizin argümanlarınızı ikna edici buluyorum. Kilise, beceriksiz siyaseti için bedel ödemeli ve madem ki bu işlere karışmaya karar verdi...
+$DISC_INTR_003_B08_DANTON_020_DANTON_INTR
+Radikal çözümler hiçbir zaman bana cazip gelmedi; her zaman fazlasıyla pahalıya patlarlar. Fakat bugün başka bir yol göremiyorum.
+$DISC_INTR_003_B08_DANTON_021_DANTON_DOUB
+Kendi sebepleriniz olduğunu anlıyorum ve bunları açıklamamanızı akıllıca buluyorum. Ancak, kaybedecek çok şeyim olduğu için argümanlarınız beni ikna etmiyor.
+$DISC_INTR_003_B08_DANTON_TOPIC_01
+Sokaktaki durumu kontrol etmek giderek zorlaşıyor.
+$DISC_INTR_003_B08_DANTON_TOPIC_02
+Gobel’le yaşanan sıkıntılar yaraya tuz basmak oldu.
+$DISC_INTR_003_B08_DANTON_TOPIC_03
+Birini cezalandırıp ibret olmalı, halk ise din adamlarına yönelmiş durumda.

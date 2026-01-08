@@ -1,0 +1,29 @@
+$CUT_036_JUDGE_WON_BROTHER_001
+The traces of our crime will be washed away by the morning rain.
+$CUT_036_JUDGE_WON_BROTHER_002
+We will not be there since, once again, brother will kill brother.
+$CUT_036_JUDGE_WON_BROTHER_003
+Who would want to be a hero in such a world?
+$CUT_036_JUDGE_WON_004
+<BOOM>
+$CUT_036_JUDGE_LOST_BROTHER_001
+It is time for us to die, brother.
+$CUT_036_JUDGE_LOST_BROTHER_002
+Tomorrow, when the morning rain will wash away the traces of our crimes, people will return to killing each other, 
+explaining that there is a new revolution.
+$CUT_036_JUDGE_LOST_003
+<BOOM>
+$CUT_036_CROWD_001
+Winner!
+$CUT_036_CROWD_002
+Napoleon saved us!
+$CUT_036_CROWD_003
+Hero!
+$CUT_036_JUDGE_004
+Hero…
+$CUT_036_BOY_005
+Hero.
+$CUT_036_PUPPETEER_006
+Who won?
+$CUT_036_PUPPETEER_007
+Who shall be next?

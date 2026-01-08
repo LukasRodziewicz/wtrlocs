@@ -1,0 +1,46 @@
+$EXECUTION_START_TIP
+Pull the rope to perform the execution
+$SUMMON_GUARDS
+Summon the guards
+$SKIP_SPEECH
+Skip the speech
+$PEOPLE_ATTITUDE
+[Common folk’s attitude]
+$PEOPLE_ATTITUDE_DESC
+Common Folk’s Attitude: What it is and how it works.
+$PEOPLE_ATTITUDE_LV1
+Aggression
+$PEOPLE_ATTITUDE_LV2
+Disapproval
+$PEOPLE_ATTITUDE_LV3
+Indifference
+$PEOPLE_ATTITUDE_LV4
+Favour
+$PEOPLE_ATTITUDE_LV5
+Happiness
+$GUILLOTINE_ATTACK_SUCCESS_DESC
+The crowd assembled in the execution square was not pleased with your words. Fists and bludgeons were involved. Unfortunately, the guards were too far away and could not react in time. You had to face the enraged crowd alone.
+$GUILLOTINE_ATTACK_FAILURE_DESC
+The crowd assembled in the execution square was not pleased with your words. They wished to mark their discontent on your body with their fists. Luckily, the guards were prepared and quickly resolved the situation. Your reputation has been damaged, but you still can go on with the execution.
+$GUILLOTINE_START_SPEECH
+Speak to the Common Folk.
+$GUILLOTINE_SPEECH_START_LOW_JUSTICE
+They seem distrustful…
+$GUILLOTINE_SPEECH_START_NEUTRAL_JUSTICE
+Maybe I could win the heart of the crowd.
+$GUILLOTINE_SPEECH_START_HIGH_JUSTICE
+I have them in the palm of my hand, they trust me.
+$GUILLOTINE_HEART_LOW_JUSTICE
+They don’t trust me.
+$GUILLOTINE_HEART_NEUTRAL_JUSTICE
+Distrust.
+$GUILLOTINE_HEART_HIGH_JUSTICE
+They trust me.
+$TIMERGUARD
+We’ve been stalling for too long. The people are agitated!
+#GUILLOTINE_COMMENT_000
+Off with his head!
+#GUILLOTINE_COMMENT_001
+Pull the rope!
+#GUILLOTINE_COMMENT_002
+For the Revolution!

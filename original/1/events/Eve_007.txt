@@ -1,0 +1,24 @@
+$EVE_007_TITLE
+God Save the Queen
+$EVE_007_MAIN_01
+What do you know about the person who introduced himself as “Ramel”? Everyone deserves to know the truth about their colleagues. Meet me at 10 p.m. in the alley behind the Café Procope. Come alone, and you will learn the truth about Ramel’s past. It is for your own good.
+$EVE_007_MAIN_01_C1
+Go to the meeting
+$EVE_007_MAIN_01_C2
+Do not go to the meeting
+$EVE_007_MAIN_02A
+The street is almost empty, with only a drunkard or an amused student to be seen as you arrive at the meeting place. You call out, but no one answers. Too focused on looking around for whoever sent the note, you stumble over something on the ground. Under your feet lies the body of a man, his throat cut. It is likely you are looking at your would-be informant. You search the body and fail to find anything that might explain the situation, then hurry to leave, looking over your shoulder as you go.
+$EVE_007_MAIN_03A
+I used to live on the street, eating what I stole or found. So I started to spy, selling information for a living. I recently spent some time near the British court. I will not tell you who sent me there. It seems my past is trying to reach out to me… Why now, when I am finally doing something I believe in, for me… and for someone else?  I suggest you refrain from meeting strangers in dark alleys… If someone claims to know detailed information about my life, they probably want me dead.  RAMEL.
+$EVE_007_MAIN_04B
+You made a mistake. We wanted to give the information to you for free, as a token of our good will. We sent someone to you, a man who knew certain things about your friend, but today we learned that his throat was cut. We are giving you one last chance. Arrange a meeting with Ramel, or whatever you call him, unless you would prefer to share the fate of our friend. We want to meet him today at 9 p.m., same place.
+$EVE_007_MAIN_04B_C1
+Send a Spy
+$EVE_007_MAIN_04B_C2
+Send Guards
+$EVE_007_MAIN_05A
+All those slit throats will surely raise the crime statistics. The authors of the letter were old, and angry, friends of your spy. It would appear that Ramel was attached to his knife, and he used it with cruel efficiency against the trio that came to kill him. He managed to force a few words about the dark depths of Parisian society from his last victim before he ended his suffering. Maybe you will be able to use this information somehow.
+$EVE_007_MAIN_05B
+You were choosing between a stalking cat and several angry bulls. No doubt you have heard about the fights near Le Procope by now. The entire trio you were supposed to meet is dead. Furthermore, a nearby store caught fire and stray bullets injured a local baker and one of the Guards. Not to mention all the broken windows… The current owner of Le Procope recognised the Guards as your employees. Now every guest will hear about the Tribunal judge who arranges gunfights in the streets of Paris.
+$EVE_007_MAIN_05C
+Three against one. Your spy is talented, but even he was unable to leave unscathed when faced with three experienced English agents. Consider it a draw – this time. The trio are dead, but Ramel is seriously injured. Don’t underestimate danger when it appears right under your nose…

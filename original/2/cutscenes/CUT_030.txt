@@ -1,0 +1,138 @@
+$CUT_030_001_JUDGE
+Ton regard n'a jamais été aussi vide.
+$CUT_030_002_JUDGE
+Et aujourd'hui… je veux que tu sois fier de moi.
+$CUT_030_003_THUG
+Suis-moi, Monsieur le juge.
+$CUT_030_004_JUDGE
+Fils !
+$CUT_030_005_BROTHER
+Bienvenue… cher frère.
+$CUT_030_006_BROTHER
+Cela fait si longtemps que tu ignores tout.
+$CUT_030_007_JUDGE
+Bruno ? Est-ce vraiment toi ? Comment… comment est-ce possible ?
+$CUT_030_008_BROTHER
+On t'a dit ce qu'il te fallait penser.
+$CUT_030_009_BROTHER
+Il fallait que je cesse d'être le fils chéri de notre père pour pouvoir renaître.
+$CUT_030_010_BROTHER
+Renaître pour le faire payer.
+$CUT_030_011_JUDGE
+Je ne comprends pas… À quoi tout cela rime-t-il ?
+$CUT_030_012_BROTHER
+Je suis revenu reprendre tout ce que j'ai perdu à cause de toi. Ma famille, mon bonheur…
+$CUT_030_013_BROTHER
+Pendant que tu menais une paisible vie bourgeoise, je rampais dans la boue d'un champ de bataille.
+$CUT_030_014_JUDGE
+Nous pensions tous que tu étais mort.
+$CUT_030_015_BROTHER
+Cela était bien plus commode, n'est-ce pas ? J'étais mort et ai connu l'enfer, cher frère.
+$CUT_030_016_BROTHER
+Paris m'avait abandonné. Toutes les portes se refermaient à l'évocation de mon nom.
+$CUT_030_017_BROTHER
+C'est alors que l'enfer me happa.
+$CUT_030_018_BROTHER
+Je m'engageai dans l'armée, espérant une noble mort.
+$CUT_030_019_BROTHER
+Au lieu de cela, on me captura. On me séquestra. On me tortura.
+$CUT_030_020_BROTHER
+Les soldats ennemis me proposèrent une partie de dés.
+$CUT_030_021_BROTHER
+Si je gagnais, on me rendrait la liberté.
+$CUT_030_022_BROTHER
+Mais à chaque manche perdue, je perdrais une main.
+$CUT_030_023_BROTHER
+La première manche me fut favorable…
+$CUT_030_024_BROTHER
+… quant à la deuxième…
+$CUT_030_025_BROTHER
+M'étant échappé, je me mis à élaborer ma vengeance… contre notre famille, contre Père.
+$CUT_030_026_BROTHER
+Contre tous ceux qui m'avaient désavoué.
+$CUT_030_027_JUDGE
+Une vengeance ? Contre nous ? Tu devrais en vouloir à Clément Renard, c'est lui qui --
+$CUT_030_028_BROTHER
+Je vous en veux à tous ! À Père, à toi, à la France…
+$CUT_030_029_JUDGE
+Tu veux faire souffrir ta propre famille ?!
+$CUT_030_030_BROTHER
+Vous m'avez désavoué ! Comme Dieu a désavoué Caïn.
+$CUT_030_031_BROTHER
+Père a abandonné son propre fils, et tu n'as même pas cherché à me défendre.
+$CUT_030_032_JUDGE
+J'étais jeune…
+$CUT_030_033_BROTHER
+Et maintenant tu es adulte et notre père te verra tomber en disgrâce, le plus bas possible.
+$CUT_030_034_BROTHER
+Il finira par t'abandonner, comme il le fit pour moi.
+$CUT_030_035_BROTHER
+J'ai fini par comprendre que la mort ne lui ferait aussi mal
+$CUT_030_036_BROTHER
+que de voir son autre fils sombrer et devenir un monstre, lui aussi.
+$CUT_030_037_BROTHER
+Et tu as été parfait dans ton rôle. Tu les as détruits.
+$CUT_030_038_BROTHER
+Les Roland.
+$CUT_030_039_BROTHER
+Pache et sa fille.
+$CUT_030_040_BROTHER
+Gobel et son fils bâtard.
+$CUT_030_041_BROTHER
+Et maintenant, Robespierre.
+$CUT_030_042_BROTHER
+Tu as fait tout ce que j'avais prévu. Il ne me restait plus qu'à exciter ta soif de pouvoir.
+$CUT_030_043_BROTHER
+Je me suis assuré que tu chuterais avec moi, sous les yeux de Père.
+$CUT_030_044_BROTHER
+Il va voir à présent que nous sommes pareils, toi et moi.
+$CUT_030_045_JUDGE
+Avais-tu aussi prévu de faire mourir mon fils ?
+$CUT_030_046_BROTHER
+Je l'ai exécuté par l'entremise de Renard et de ton mentor adoré.
+$CUT_030_047_BROTHER
+Je lui ai rendu visite et lui ai fait croire que son fils était emprisonné.
+$CUT_030_048_BROTHER
+Il est alors devenu l'un des nôtres. Un monstre.
+$CUT_030_049_BROTHER
+Il m'a aidé à tuer ton fils pour sauver le sien.
+$CUT_030_050_BROTHER
+J'avais besoin de ma propre révolution, vois-tu.
+$CUT_030_051_BROTHER
+Un lieu pour ceux que tu appelles criminels, parce qu'ils n'ont aucune place dans ta société.
+$CUT_030_052_BROTHER
+Je suis à la tête d'une armée des réprouvés de Paris.
+$CUT_030_053_BROTHER
+L'armée des enfants délaissés après que tu as guillotiné leurs mères.
+$CUT_030_054_BROTHER
+Des personnes qui ont tout perdu à cause de la Révolution, qui ont été rejetées, forcées de vivre à l'étranger.
+$CUT_030_055_BROTHER
+Dans quelques jours, nous attaquerons Paris et rebâtirons notre foyer sur ses ruines. Un lieu où un père veillera sans cesse sur tous ses fils.
+$CUT_030_056_JUDGE
+Es-tu fou à lier ?!
+$CUT_030_057_BROTHER
+Attends de voir ce que je réserve à ton deuxième fils…
+$CUT_030_058_JUDGE
+Il n'a rien fait !
+$CUT_030_059_BROTHER
+Il doit payer pour les fautes de son père. Tout le monde le doit, comme moi j'ai payé la lâcheté du nôtre.
+$CUT_030_060_BROTHER
+Nous allons jouer aux dés. En deux manches.
+$CUT_030_061_BROTHER
+À chaque manche que tu perdras, il perdra une main.
+$CUT_030_062_BROTHER
+C'est le prix que j'ai dû payer. À présent, c'est au tour de ton fils.
+$CUT_030_063_BROTHER
+Le prix est acceptable, compte tenu de tes fautes.
+$CUT_030_064_JUDGE
+Ramel… mon ami.
+$CUT_030_065_JUDGE
+Il m'a sauvé.
+$CUT_030_066_JUDGE
+Il a sauvé mon fils.
+$CUT_030_067_JUDGE
+Mais il ne pouvait pas sauver ce qui s'était déjà brisé en mille morceaux.
+$CUT_030_068_JUDGE
+Son regard n'était pas vide.
+$CUT_030_069_JUDGE
+Elle et son regard…

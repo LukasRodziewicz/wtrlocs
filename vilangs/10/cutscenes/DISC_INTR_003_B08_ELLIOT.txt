@@ -1,0 +1,54 @@
+$DISC_INTR_003_B08_ELLIOTT_001_JUDGE
+Şu Gobel meselesi… Her şey öyle aniden oldu ki. Eğer harekete geçmezsek, insanlar şüphelenir.
+$DISC_INTR_003_B08_ELLIOTT_002_ELLIOT
+Bizi yalancıların ve hainlerin tarafında mı sanacaklar?
+$DISC_INTR_003_B08_ELLIOTT_003_JUDGE
+Doğru.
+$DISC_INTR_003_B08_ELLIOTT_004_JUDGE_AGGR
+Artık sokaklardaki durumu kontrol edemiyoruz. Kaos herkesi hedef alabilir ve kalabalıkları yatıştırmak kolay değil.
+$DISC_INTR_003_B08_ELLIOTT_005_JUDGE_MANI
+Durum artık bizim kontrolümüzde değil. Dün, isyancılara casusluk yaptığı şüphesiyle bir kız dövüldü. Sıradaki hedeflerinin kim olacağını kim bilebilir – siz, ben…
+$DISC_INTR_003_B08_ELLIOTT_006_JUDGE_JOKE
+İnsanlar rastgele hedeflere çürük domates atarken durum kabul edilebilirdi. Ama şimdi ellerinde tahta sopalar var. Bilmiyorum siz ne düşünüyorsunuz, ama ben korkmaya başladım.
+$DISC_INTR_003_B08_ELLIOTT_007_JUDGE_HUMI
+Halka hizmet edeceğime ve özgürlüğü savunacağıma söz verdiğimi biliyorum, ama yurttaşlarımız işi fazlasıyla abarttı.
+$DISC_INTR_003_B08_ELLIOTT_008_ELLIOT_SATI
+Her pazara gittiğimde toplumun öfkesini iliklerime kadar hissediyorum. Yer sarsılıyor, insanlar intikam istiyor ama henüz hedeflerini bulamadılar.
+$DISC_INTR_003_B08_ELLIOTT_009_ELLIOT_INTR
+Böyle şeyler durup dururken olmaz, değil mi? Neyse, devam edin.
+$DISC_INTR_003_B08_ELLIOTT_010_ELLIOT_DOUB
+Bütün bu işte sizin de payınız var, değil mi? Gobel’le bazı sorunlarınız olduğunu duydum.
+$DISC_INTR_003_B08_ELLIOTT_011_JUDGE_AGGR
+Her şeyi mahvetti Gobel! Böyle bir sırrı varken, kimsenin öğrenmemesi için elinden geleni yapmalıydı, ama o ise çocuk gibi davrandı!
+$DISC_INTR_003_B08_ELLIOTT_012_JUDGE_MANI
+Eğer söylentiler doğruysa, Gobel’in orada olması durumu daha da kötüleştirecek. Halkın, yetkililerin yozlaştığını düşünmesini ister miyiz? Hem benim hem de senin ve Konvansiyon’daki dostlarının itibarı tehlikede.
+$DISC_INTR_003_B08_ELLIOTT_013_JUDGE_JOKE
+Gobel en kötü zamanda başını belaya soktu. Belki de Papa sonunda intikamını aldı? Tanrı dualarını işitti ve başpiskoposu anayasal olarak atanmanın cezasını vermeye karar verdi…
+$DISC_INTR_003_B08_ELLIOTT_014_JUDGE_HUMI
+Gıyabında hüküm vermek istemem, fakat halkın öfkesi bazı eski sırları açığa çıkarmış gibi görünüyor – mesela Başpiskopos Gobel’in sırrı. Belki de bu konuda bir şeyler yapmalıyız?
+$DISC_INTR_003_B08_ELLIOTT_015_ELLIOT_SATI
+Ondan hiç hoşlanmadım. Köle ticaretine karıştığına dair söylentiler duydum, ama bunlar asla doğrulanmadı.
+$DISC_INTR_003_B08_ELLIOTT_016_ELLIOT_INTR
+Bakıyorum, gözünüz yükseklerde. Peki, ne öneriyorsunuz?
+$DISC_INTR_003_B08_ELLIOTT_017_ELLIOT_DOUB
+Gobel inancından vazgeçmiş olabilir, ama diğer ileri gelenleri öyle kolayca yüzüstü bırakacağını sanmam. Kalabalık senden yana olsa bile, mücadele etmeden pes etmeyecektir.
+$DISC_INTR_003_B08_ELLIOTT_018_JUDGE_AGGR
+Bir grubun davranışlarının bedelini biz ödeyemeyiz. Kilise, yalanları ve çürümüşlüğüyle halkın öfkesini fazlasıyla hak etti. Onunla hesaplaşalım ve artık huzur içinde yaşayalım.
+$DISC_INTR_003_B08_ELLIOTT_019_JUDGE_MANI
+Öfkeli kaplana parçalayacak bir av vermeli ki, başka hiçbir şeye dikkat etmesin ve biz de huzur içinde yaşayabilelim. Madem kaplan dişlerini ruhban sınıfına geçirmek istiyor...
+$DISC_INTR_003_B08_ELLIOTT_020_JUDGE_JOKE
+Gerçekten başka bir seçeneğimiz yok. Din adamlarını istiyorlar, o halde onlara verelim. Din adamlarını ihanetten suçluyorlarsa, biz de onların sözlerini yineleyelim. Basit ve etkili.
+$DISC_INTR_003_B08_ELLIOTT_021_JUDGE_HUMI
+Kiliseye zarar vermekten yana değilim. Zaten kendine en büyük zararı, yurttaşlarımızın lanetlediği soysuzların eliyle veriyor. O grupla tüm bağlarımızı koparmalıyız. Toplumun iyiliği için.
+$DISC_INTR_003_B08_ELLIOTT_022_ELLIOT_SATI
+Desteğim sizden yana. Birkaç bağlantımı kullanıp Konvansiyon’daki dostlarımla konuşacağım.
+$DISC_INTR_003_B08_ELLIOTT_023_ELLIOT_INTR
+Eğer bu, ateşli kafaları yatıştırmaya yetecekse bu adımı atmaya hazırım. Sokaklarda huzur, benim için bir başpiskopostan daha değerli.
+$DISC_INTR_003_B08_ELLIOTT_024_ELLIOT_DOUB
+Gerçek niyetlerinizi bilmeden Gobel’e karşı gelmek istemem. Üzgünüm.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_01
+Sokaktaki durumu kontrol etmek giderek zorlaşıyor.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_02
+Gobel’le yaşanan sıkıntı, yaraya tuz basmak oldu.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_03
+Birini cezalandırıp ibret olmalı, halk ise ruhban sınıfını hedef almak istiyor.

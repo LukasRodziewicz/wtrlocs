@@ -1,0 +1,95 @@
+$PROLOG_PRE_01_MT
+Bir dahaki sefere bu bulanık zehiri içmekten vazgeçmek istediğimi bana hatırlat. Hem de içmeden önce hatırlat. Themis’i rezil ediyoruz, hah… Biri mi geliyor?
+$PROLOG_PRE_02_WF
+Bunun böyle olacağı belliydi…
+$PROLOG_PRE_03_ES
+Sana söylemiştim...
+$PROLOG_PRE_04_YS
+Baba, gideceğiz demiştin… Söz vermiştin…
+$PROLOG_PRE_05_MT
+Babanın... çok işi vardı.
+$PROLOG_PRE_06_ES
+Evet, pek çok ağır kadeh…
+$PROLOG_PRE_07_WF
+Bana söz vermiştin… Artık dayanamıyorum… Yalvarmaktan bıktım.
+$PROLOG_PRE_08_YS
+Anne kızgın, çünkü…
+$PROLOG_PRE_09_ES
+Sessiz ol.
+$PROLOG_PRE_10_WF
+Bugün gözde oğlun, babasından daha onurlu olduğunu kanıtlamak istedi ve kavga çıkardı. Beş yaşında bir çocuk, Tanrı aşkına!
+$PROLOG_PRE_11_WF
+Komşularımız senden bunu açıklamanı istediler ama… sen adalet için savaşıyordun. Bir handa. Kahretsin seni, lanet olası ayyaş…
+$PROLOG_PRE_12_ES
+Anne...
+$PROLOG_DOC_01_HEADER
+Aurélie Dupond’dan Mektup
+$PROLOG_CASE_DOC_HEADER
+Yargıç Alexis Fidèle'ye,
+$PROLOG_CASE_DOC_MAIN
+Yargıç Alexis Fidèle,
+	 oğlunuzdan böyle bir davranış beklemiyorduk, gerçi görünüşe göre beklemeliydik. <a name="1" class="hidden">Masum</a> bir çocuk oyunu, <a name="2" class="hidden">saldırıya</a> dönüştü ve çocuklarımıza zarar verdi. 
+	
+	 Küçük olan, <a name="3" class="hidden">Antoine</a>, şimdi <a name="4" class="hidden">ön dişi kırık</a>. Çocuğunuzu uygun şekilde cezalandıracağınızı umuyoruz! Durum tekrarlanırsa, daha kararlı davranacağız. Kumarbaz ve ayyaş biriyle, isterse yargıç olsun, başa çıkmasını biliriz… Çocuklarımızın zarar görmesine asla izin vermeyeceğiz!
+$PROLOG_KEYWORD_01
+Çocuk oyuncağı
+$PROLOG_KEYWORD_02
+Kavga eden çocuklar
+$PROLOG_KEYWORD_03
+Yaralı Antoine
+$PROLOG_KEYWORD_04
+Çatlamış diş
+$PROLOG_KEYWORD_05
+Tekrarlama olasılığı
+$PROLOG_01_D1_01_JD
+Oyununuz nasıl oldu da kavgaya dönüştü?
+$PROLOG_01_D1_02_YS
+Komşularımız Antoine ve Jean… Senin hakkında kötü şeyler söylüyorlardı. Gardiyanlar oynuyorduk, benden sarhoşu canlandırmamı istediler, sonra da… hani…
+$PROLOG_01_D1_03_JD
+İkisiyle birden mi dövüştün?
+$PROLOG_01_D1_04_YS
+Zorundaydım.
+$PROLOG_02_D1_01_JD
+Tam olarak ne söylüyorlardı?
+$PROLOG_02_D1_02_ES
+Tahmin edemeyecek kadar sarhoş musun?
+$PROLOG_02_D1_03_JD
+Sana sormadım.
+$PROLOG_02_D1_04_YS
+Bağırıyorlardı ki sen… yani… onlara bunun doğru olmadığını söyledim, sonra bana hakaret etmeye başladılar. Bana “sarhoşun oğlu” dediler.
+$PROLOG_03_D1_01_JD
+Kavgayı kim başlattı?
+$PROLOG_03_D1_02_ES
+Sana kimin bitirdiğini söyleyebilirim...
+$PROLOG_03_D1_03_YS
+Hmm, sanırım… bendim. Soldakine tekme attım, sonra sağdakine de ulaşmak istedim ama…
+$PROLOG_03_D1_04_ES
+Ama sonunu onlar getirdi.
+$PROLOG_03_D1_05_YS
+Beni yere serip, onlara vurduğumun hesabını kestiler.
+$PROLOG_04_D1_01_JD
+Gerçekten Antoine’ın dişini mi kırdın?
+$PROLOG_04_D1_02_ES
+Frédéric daha çocuk.
+$PROLOG_04_D1_03_YS
+Bilmiyorum... Sanmıyorum.
+$PROLOG_04_D1_04_JD
+Yüzüne vurdun mu?
+$PROLOG_04_D1_05_YS
+Sanırım ona tekme attım, ama o kadar da sert değildi…
+$PROLOG_CASE_ON_GUILTY
+Ne yazık ki, sebebi ne olursa olsun kavga başlatmamalısın.
+$PROLOG_CASE_ON_NOTGUILTY
+İyi iş çıkardın. Bir adam, ne olursa olsun ailesinin onurunu korumalıdır.
+$PROLOG_POST_01_WF
+O çocuklar daha küçücük, ama gerçeği çoktan biliyorlar – çocuklarımın babası yalancı, ayyaş ve kumarbazın biri. Bernard bir zamanlar sana hayrandı, ama çabuk büyüdü. Şimdi ise sokaklarda yankılanan gerçeği öğrenme sırası Frédéric’te.
+$PROLOG_POST_02_WF
+Ya sen, Raymond? Kocamın akıl hocası olman gerekiyordu – ona öğretmek istediğin şey bu muydu? Kendi hatalarını tekrarlamayı ve ailesini kaybetmeyi mi?
+$PROLOG_POST_03_MT
+Mathilde’in bu kadar öfkeli olabileceğini bilmiyordum.
+$PROLOG_POST_04_JD
+Ben de öyle…
+$PROLOG_POST_05_WF
+Her zamanki gibi, dışarıda bekleyeceğiz.
+$PROLOG_GUILTY
+Suçlu

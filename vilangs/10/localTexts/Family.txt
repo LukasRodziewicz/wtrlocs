@@ -1,0 +1,222 @@
+#CHOOSE_FAMILY_ACTION
+Eylemi gerçekleştir
+#CHOOSED_ACTION
+Seçilen eylem
+$STORY_EVENT_LABEL
+Hikaye olayı
+#YoungerSon
+Frédéric
+#ElderSon
+Bernard
+#Father
+Aldric
+#LOCKED_ACTION_TOOLTIP
+Bu işlemi değiştiremezsiniz.
+$REVOLUTIONARIES_ICON
+Devrimciler Üzerindeki Etki
+$PEOPLE_ICON
+Halk Üzerindeki Etki
+$REPUTATION_ICON
+İtibar üzerindeki etkisi
+$FAMILY_ICON
+Aile ilişkileri üzerindeki etkisi
+$FAMILY_ACTION_TITLE
+Aileyle ilişkiler
+$FAMILY_ACTION_HEADER_PLACEHOLDER
+Soldaki panelden bir eylem seçin.
+$FAMILY_ACTION_DESC_PLACEHOLDER
+Açıklamasını görmek için bir eylem seçmelisiniz.
+$FAMILY_ACTION_HEADER_COURT
+Mahkemedeki eylemlerinizin etkisi
+$FAMILY_ACTION_DESC_COURT
+Mahkemedeki kararlarınız aile içindeki ilişkilerinizi etkileyebilir.
+$FAMILY_ACTION_1000_TITLE
+Kumarhanede Bir Akşam
+$FAMILY_ACTION_1000_DESC
+Ailen yerine eğlenceyi ve içkiyi seçtin.
+$FAMILY_ACTION_1001_TITLE
+Yarının Duruşmasına Hazırlan
+$FAMILY_ACTION_1001_DESC
+Mahkemede daha fazla soru etkisi açılacak.
+$FAMILY_ACTION_1002_TITLE
+Heykelin İnşasını Destekle
+$FAMILY_ACTION_1002_DESC
+Heykelin inşa hızını artırır.
+$FAMILY_ACTION_501_TITLE
+Konvansiyon’dan Arkadaşlarla Akşam Yemeği
+$FAMILY_ACTION_501_DESC
+Birkaç milletvekili yemeğe gelecek. Ne hoş, böyle cömert bir ev sahibi olmanız. Ne hoş, onların da bunu tüm arkadaşlarına anlatacak olması.
+$FAMILY_ACTION_502_TITLE
+Yetimhaneye Bağış Toplama
+$FAMILY_ACTION_502_DESC
+Zor zamanlar, çocuklar için daha da zorlu bir çocukluk demektir. Bu çocuklara ailelerini geri veremeyiz, ama onlara biraz umut verebiliriz.
+$FAMILY_ACTION_601_TITLE
+Taslak
+$FAMILY_ACTION_601_DESC
+Bazı mültecilerin içinde hâlâ bir umut kıpırdanıyor. Belki en azından birkaçını peşinizden savaşa sürüklemeye ikna edebilirsiniz?
+$FAMILY_ACTION_602_TITLE
+Askerlerle Akşam
+$FAMILY_ACTION_602_DESC
+Askerler, bir canavarın değil, bir insanın emrinde savaştıklarını görmeli. Onlarla biraz vakit geçirip, içlerini ısıtan bir şeyler için.
+$FAMILY_ACTION_001_TITLE
+Akşam Yürüyüşü
+$FAMILY_ACTION_001_DESC
+Ailenizle birlikte Paris sokaklarında akşam yürüyüşüne çıkıyorsunuz. Babanız da böylece biraz olsun kemiklerini esnetmiş olacak.
+$FAMILY_ACTION_002_TITLE
+Akşam Kumarı
+$FAMILY_ACTION_002_DESC
+Ara sıra babanla vakit geçirmelisin. Ona kendi dünyanı göster. Belki de hoşuna gider.
+$FAMILY_ACTION_003_TITLE
+Gösteri
+$FAMILY_ACTION_003_DESC
+Oğullarınızı devrim yanlısı bir gösteriye götürün. Gerçek hayatı yakından görsünler.
+$FAMILY_ACTION_004_TITLE
+Viyola Konçertosu
+$FAMILY_ACTION_004_DESC
+Bernard profesyonel bir müzisyen olmak istiyorsa sahne korkusunu yenmeyi öğrenmeli. Sen ise bir saatlik gürültüye katlanmak zorunda kalacaksın.
+$FAMILY_ACTION_005_TITLE
+Birlikte Okuma
+$FAMILY_ACTION_005_DESC
+Aileyle birlikte, iyi bir kitap ve sıcak bir şöminenin yanında oturmanın yerini hiçbir şey tutamaz. Kimileri bunun… sıkıcı olduğunu düşünse de.
+$FAMILY_ACTION_006_TITLE
+Dede ile Akşam
+$FAMILY_ACTION_006_DESC
+Babanızla oturup geçmiş günlerin hikâyelerini dinleyin.
+$FAMILY_ACTION_007_TITLE
+Paragraflar ve Maddeler
+$FAMILY_ACTION_007_DESC
+Bernard’ın müzikle ilgilenmesi bir yana, daha faydalı beceriler de öğrenmesi gerek. Hem hukuk da başlı başına bir sanat olabilir.
+$FAMILY_ACTION_008_TITLE
+Çocuklarla Oyun Zamanı
+$FAMILY_ACTION_008_DESC
+Akşamınızı ve enerjinizi oğullarınızla kaygısız oyunlara ayırın. Eşinizin ihtiyaçları bekleyebilir.
+$FAMILY_ACTION_009_TITLE
+Siyasi Tartışma
+$FAMILY_ACTION_009_DESC
+Artık devrimimizin başarılarını büyüklerin konuşma vakti geldi. İlginç bir fikir alışverişi olacak.
+$FAMILY_ACTION_010_TITLE
+Tiyatroda Prömiyer Gecesi
+$FAMILY_ACTION_010_DESC
+Bu akşam Comédie-Française sahnesinde yeni bir oyun sahneleniyor. Gerçeklerden biraz uzaklaşmak için iyi bir fırsat.
+$FAMILY_ACTION_081_TITLE
+Ay Işığında Kumar
+$FAMILY_ACTION_081_DESC
+David’le birlikte kart oynamaya gittiniz.
+$FAMILY_ACTION_082_TITLE
+Simoneau
+$FAMILY_ACTION_082_DESC
+Lince edilen yetkili anısına düzenlenen geçit törenine katıldınız.
+$FAMILY_ACTION_083_TITLE
+Burel ve İsyan
+$FAMILY_ACTION_083_DESC
+Protestoculara karşı ölümcül güç kullanımına onay verdiniz. Aileniz bu akşam sizinle konuşmak istemiyor.
+$FAMILY_ACTION_084_TITLE
+Yaralı
+$FAMILY_ACTION_084_DESC
+O hain saldırıdan sonra dinlenip iyileşmen gerekiyor.
+$FAMILY_ACTION_085_TITLE
+Belediye Başkanıyla Akşam
+$FAMILY_ACTION_085_DESC
+Akşamı, Pache’yi dostluk vaatleriyle kandırarak geçirdiniz. Ailenizden kimse, yarı sarhoş halinizle eve dönmenizi bekleyecek kadar geç oturmadı.
+$FAMILY_ACTION_086_TITLE
+İşkence
+$FAMILY_ACTION_086_DESC
+Akşamı, inatçı bir kızı ve ondan da inatçı bir politikacıyı iradene boyun eğdirmeye çalışarak geçirdin.
+$FAMILY_ACTION_087_TITLE
+Oğlun Ölümü
+$FAMILY_ACTION_087_DESC
+Böyle bir günde nasıl olur da gezintiye çıkmayı düşünebilirsin?
+$FAMILY_ACTION_088_TITLE
+Marie Hayatta
+$FAMILY_ACTION_088_DESC
+Ailenizin beklentilerine karşı geldiniz. Bugün size bir dakika bile ayırmaları pek mümkün görünmüyor.
+$FAMILY_ACTION_089_TITLE
+Kırık Kumbara
+$FAMILY_ACTION_089_DESC
+Béatrice’i rüşvetle kandırmak için ailenizin tüm birikimlerini harcadınız. Onların size kırgın olmaması zor.
+$FAMILY_ACTION_101_TITLE
+Akşam Gezintisi
+$FAMILY_ACTION_101_DESC
+Ailenizle birlikte akşam Paris sokaklarında dolaşıyorsunuz. Ya da daha doğrusu, ailenizden geriye kalanlarla…
+$FAMILY_ACTION_102_TITLE
+Viyola Konçertosu
+$FAMILY_ACTION_102_DESC
+Bernard, profesyonel bir müzisyen olmak istiyorsa sahne korkusunu yenmeyi öğrenmeli. Ailenizin son umudu...
+$FAMILY_ACTION_103_TITLE
+Paragraflar ve Maddeler
+$FAMILY_ACTION_103_DESC
+Bernard’ın müzikle ilgilenmesine rağmen, daha faydalı beceriler de öğrenmesi gerekiyor. Hukuk da başlı başına bir sanat olabilir ve son yaşananlar nedeniyle, Bernard’ın ileride yaşlanan ebeveynlerine tek başına bakması gerekecek gibi görünüyor.
+$FAMILY_ACTION_104_TITLE
+Siyasi Münazara
+$FAMILY_ACTION_104_DESC
+Artık devrimdeki başarıları konuşma vakti, büyüklerin arasında. İlginç bir fikir alışverişi olacak. Küçük oğlunuzun ölümünden sonra, bu sefer her zamankinden farklı geçebilir.
+$FAMILY_ACTION_105_TITLE
+Frédéric’in Mezarını Ziyaret
+$FAMILY_ACTION_105_DESC
+Her ziyaret, yüreğinizdeki bıçakları daha derine saplar. Kimi hatırlamak ister, kimi ise bir an önce unutmak.
+$FAMILY_ACTION_106_TITLE
+Birlikte Okuma
+$FAMILY_ACTION_106_DESC
+Ailenizle birlikte, sıcak bir şöminenin yanında güzel bir kitapla oturmanın yerini hiçbir şey tutamaz. Kimileri bunun… sıkıcı olduğunu düşünse de.
+$FAMILY_ACTION_107_TITLE
+Tiyatroda Prömiyer Gecesi
+$FAMILY_ACTION_107_DESC
+Bu akşam Comédie-Française sahnesinde yeni bir oyun prömiyer yapıyor. Belki de hüzne en iyi çare, biraz kahkahadır.
+$FAMILY_ACTION_108_TITLE
+Alışveriş
+$FAMILY_ACTION_108_DESC
+Klişe olsa da, belki bu küçük zevk, Mathilde’in yaralı kalbine biraz olsun sevinç getirir.
+$FAMILY_ACTION_109_TITLE
+Café Procope
+$FAMILY_ACTION_109_DESC
+Fidèle ailesinin adamlarını toplar ve tek ve eşsiz Café Procope’daki siyasi tartışmaya katılırsınız. Umarız bu sefer yumruklar konuşmaz.
+$FAMILY_ACTION_110_TITLE
+Tavan Arasını Temizlemek
+$FAMILY_ACTION_110_DESC
+Tavan arası tozlanmış ve dağılmış durumda. Mathilde son zamanlarda ev işleriyle pek ilgilenmiyor, ki onu suçlamak da zor. Ailenin erkekleri kolları sıvayıp temizliği üstlensin.
+$FAMILY_ACTION_181_TITLE
+Baldan Sonra
+$FAMILY_ACTION_181_DESC
+Siz baloda eğlenirken, aileniz şehirde gezintiye çıktı.
+$FAMILY_ACTION_182_TITLE
+Ateş ve Su
+$FAMILY_ACTION_182_DESC
+Danton ve Hébert’i işbirliğine ikna etmeye öylesine odaklandınız ki ailenize hiç vakit kalmadı – herkes çoktan uyumuş.
+$FAMILY_ACTION_183_TITLE
+Gerçek Düşman
+$FAMILY_ACTION_183_DESC
+Oğlunuz daha yeni sakat kalmışken, birini birlikte güzel vakit geçirmeye davet edebileceğinizi hayal edebiliyor musunuz?
+$FAMILY_ACTION_184_TITLE
+Hakimin Gerçek Yüzü
+$FAMILY_ACTION_184_DESC
+Marat günahlarınızı gün yüzüne çıkardı. Sevdikleriniz artık göz göze gelmekten kaçınıyor.
+$FAMILY_ACTION_185_TITLE
+Hakimin Gerçek Yüzü 2
+$FAMILY_ACTION_185_DESC
+Marat, mezarın ötesinden saldırılarına devam ediyor. Ailenizin size olan küçümsemesi daha da derinleşiyor.
+$FAMILY_ACTION_186_TITLE
+İçteki yaralar
+$FAMILY_ACTION_186_DESC
+Oğlunuzun ellerini kurtardınız. Ama evinizde keskin bir sessizlik hâkim, en ufak bir fısıltı bile hemen dikkat çekiyor. Herkes olağanüstü tetikte – sanki kâbus her an geri dönecekmiş gibi.
+$FAMILY_ACTION_201_TITLE
+Güvenli Yol
+$FAMILY_ACTION_201_DESC
+Gençliğinde Bernard sık sık gizlice evden çıkar, Paris’in sokaklarını keşfe çıkardı. Belki de şimdi, sahip olduğu bu bilgiler mültecilerin hayatını kurtarmaya yarayabilir.
+$FAMILY_ACTION_202_TITLE
+Subaylarla Akşam Yemeği
+$FAMILY_ACTION_202_DESC
+Gerçek bir çatının altında yenecek sıcak, ev yapımı bir yemek en güvenilir subaylarınıza çok iyi gelecektir. Eşiniz her zaman mükemmel bir aşçı olmuştur.
+$FAMILY_ACTION_203_TITLE
+Erzak ve İlaç
+$FAMILY_ACTION_203_DESC
+Kalmayı seçenler, askerler savaşırken öylece oturamaz. Ellerinde ne kaldıysa, katkıda bulunmak zorundalar…
+$FAMILY_ACTION_204_TITLE
+Barikatlar
+$FAMILY_ACTION_204_DESC
+Mobilya, moloz, varil—barikat kurmak için her şey kullanılabilir. Askerlerimizi koruyup stratejik noktaları kapatalım.
+$FAMILY_ACTION_281_TITLE
+Terk edilmiş
+$FAMILY_ACTION_281_DESC
+İtibarınız o kadar düşük ki artık kimse sizinle vakit geçirmek istemiyor. Her zamanki gibi, yanınızda sadece babanız var.
+#Wife
+

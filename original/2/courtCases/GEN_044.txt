@@ -1,0 +1,186 @@
+$GEN_044_DOC_01_HEADER
+Compilé par : Nathan d'Essiraf
+$GEN_044_DOC_01_00
+	<a name="1" class="hidden">La veuve du conspirateur</a>, le comte Cyrille de la Montagne, âgée de 19 ans, est accusée d'agression sur un officier. L'incident eut lieu lors de l'exécution publique de son époux, condamné à mort trois mois plus tôt. D'après le dossier, il prévoyait d'assassiner les principaux chefs de la Révolution.
+$GEN_044_DOC_01_01
+	La décapitation se déroula devant l'Hôtel de Ville de Paris. Peu de temps après, Roger Plessis, capitaine de la Garde nationale, perdit un œil, supposément à cause de la comtesse de la Montagne. Elle serait <a name="3" class="hidden">responsable d'avoir agité</a> la foule, puis <a name="4" class="hidden">d'avoir lancé une pierre</a> vers le capitaine Plessis, qui se trouvait sur l'échafaud. La victime la vit dans la foule et la comtesse fut immédiatement arrêtée par les gardes en service pendant l'exécution.
+$GEN_044_DOC_01_02
+	Tout indique que la blessure du capitaine n'était pas un dommage collatéral, mais plutôt une agression volontaire commise par de la Montagne. C'est Plessis qui <a name="5" class="hidden">découvrit le complot</a> et arrêta le comte et quatre de ses complices, tous des aristocrates étroitement liés à la cour royale pré-révolutionnaire.
+$GEN_044_DOC_01_03
+	Désormais privé de l'un de ses yeux, le capitaine Plessis ne tient pas compte du sexe, de l'âge et de la grossesse de la comtesse. Il l'accuse d'avoir participé à des activités contre-révolutionnaires et exige la peine maximale.
+$GEN_044_OnStart_00
+Tuez l'anti-révolutionnaire !
+$GEN_044_OnStart_01
+À mort l'aristocratie !
+$GEN_044_OnStart_02
+Sont-ils fous ?
+$GEN_044_OnStart_03
+Le juge Nanou s'est habilement libéré de cette affaire, mentionnant ses liens de parenté avec le capitaine Plessis. Il a déclaré : « Je ne peux être juge dans le procès qui concerne mon cousin. Un cousin éloigné certes, mais un cousin quand même. »
+$GEN_044_OnStart_04
+Pauvre lâche... Citoyenne, comment t'appelles-tu ?
+$GEN_044_OnStart_05
+Comtesse Isabelle de la Montagne. N'imaginez pas que je suis impressionnée par votre air sérieux, ma famille et moi avons déjà assez souffert de votre... Révolution.
+$GEN_044_OnStart_06
+Vous avez entendu cette peau de vache effrontée ?!
+$GEN_044_OnStart_07
+Silence ! Je suggère à l'accusée de coopérer avec le tribunal. Il n'y a pas que ta vie qui est en jeu, ne l'oublie pas.
+$GEN_044_OnStart_08
+Ni moi, ni mon bébé à naître ne sommes coupables de la blessure de Plessis.
+$GEN_044_OnStart_09
+La pierre a atteint mon œil toute seule, c'est sûr ! De plus, quelle indécence de se cacher derrière un enfant à naître. Tu devrais avoir honte !
+$GEN_044_OnGuilty_00
+Je condamne la citoyenne Isabelle de la Montagne à mort ! Emmenez-la.
+$GEN_044_OnGuilty_01
+Une fin parfaite pour l'aristocratie et ses ordures !
+$GEN_044_OnGuilty_02
+La preuve était irréfutable, la justice l'a emporté.
+$GEN_044_OnPrison_00
+Je condamne la citoyenne Isabelle de la Montagne à être emprisonnée ! Emmenez-la.
+$GEN_044_OnPrison_01
+Elle devrait être guillotinée !
+$GEN_044_OnPrison_02
+Tout ça parce qu'elle fait partie de l'aristocratie ! Un citoyen lambda serait pendu !
+$GEN_044_OnPrison_03
+On a laissé une chance à leur enfant, espérons qu'il la saisisse.
+$GEN_044_OnNotGuilty_00
+Je déclare la comtesse Isabelle de la Montagne... non coupable ! Libérez-la.
+$GEN_044_OnNotGuilty_01
+Quel lâche !
+$GEN_044_OnNotGuilty_02
+Les aristocrates sont-ils toujours autant privilégiés ?
+$GEN_044_OnNotGuilty_03
+Il y en a marre de cette justice !
+$GEN_044_02x04_00_QTitle
+As-tu lancé la pierre qui a blessé la victime ?
+$GEN_044_02x04_00_00
+As-tu lancé la pierre qui a blessé la victime ?
+$GEN_044_02x04_00_01
+J'ignore l'auteur du lancer, mais je suis ravie qu'il n'ait pas manqué sa cible.
+$GEN_044_02x04_00_02
+Le capitaine t'accuse. Il est difficile de lui donner tort car il observait la scène depuis l'échafaud.
+$GEN_044_02x04_00_03
+Regardez-moi bien. Je ne suis pas forte, je suis enceinte de cinq mois et j'ai été éloignée de l'échafaud par des soldats et par la foule. Il était à au moins 20 mètres de moi, comment aurais-je pu l'atteindre à cette distance ?
+$GEN_044_02x04_00_04
+Tu étais sous le coup de l'émotion, ce qui peut grandement augmenter les facultés physiques d'une personne.
+$GEN_044_02x04_00_05
+Je ne pouvais rien faire d'autre que pleurer !
+$GEN_044_02x04_00_06
+Tu étais aussi en colère que maintenant.
+$GEN_044_02x04_00_07
+Que tu dis, mais la colère serait justifiée dans une telle situation, et on peut agir différemment sous son emprise.
+$GEN_044_03x04_01_QTitle
+As-tu incité à l'émeute pour pouvoir te venger sur la victime ?
+$GEN_044_03x04_01_00
+As-tu incité à l'émeute pour pouvoir te venger sur la victime ?
+$GEN_044_03x04_01_01
+Je n'ai incité à rien du tout. Tout ce dont je me souviens est d'être tombée sur un homme qui se tenait derrière moi... il y avait une bagarre... puis les soldats m'ont sortie de la foule.
+$GEN_044_03x04_01_02
+Donc, tu ne te souviens pas de grand-chose.
+$GEN_044_03x04_01_03
+Non.
+$GEN_044_03x04_01_04
+Alors tu ne peux pas être certaine de ton innocence.
+$GEN_044_01x05_02_QTitle
+Confirmes-tu avoir lancé une pierre en direction de la victime…
+$GEN_044_01x05_02_00
+Confirmes-tu avoir lancé une pierre en direction de la victime responsable de la mort de ton époux ?
+$GEN_044_01x05_02_01
+Malheureusement, je n'ai pas blessé ce scélérat, bien que c'est lui qui devrait être guillotiné - au-delà de la mort de mon mari.
+$GEN_044_01x05_02_02
+Que veux-tu dire ?
+$GEN_044_01x05_02_03
+Je me suis offerte à lui ! Je l'ai fait car il avait promis l'immunité à mon mari en échange. Et me voilà enceinte de lui ! Tu as quelque chose à dire, Plessis, espèce de salaud ?!
+$GEN_044_01x05_02_04
+Elle ment, cette maudite garce !
+$GEN_044_01x05_02_05
+C'est un mensonge, Monsieur le juge ! Il faut la bâillonner !
+$GEN_044_01x05_02_06
+N'importe quelle femme pourrait porter de telles accusations. Nous voulons des preuves.
+$GEN_044_01x05_02_07
+Je vais mettre cet enfant au monde, Plessis, pour que tout le monde voie la ressemblance !
+$GEN_044_01x05_02_08
+Silence, silence ! Faut-il vraiment que je me répète ? Faites entrer le capitaine Plessis en qualité de témoin.
+$GEN_044_01x03_03_QTitle
+Décris ton rôle dans cette émeute.
+$GEN_044_01x03_03_00
+Décris ton rôle dans cette émeute.
+$GEN_044_01x03_03_01
+Je n'ai joué aucun rôle ! Pourquoi l'aurais-je incitée ou y aurais-je participé ? Cela m'aurait-il ramené mon mari ?
+$GEN_044_01x03_03_02
+Au vu des crimes du comte, il est difficile de croire que sa femme n'était pas encline à participer à des activités compromettant la sécurité publique.
+$GEN_044_01x03_03_03
+Je n'avais rien à voir avec les occupations de mon mari. Comme vous pouvez le voir, je suis seulement coupable d'être née au sein de la cour et non dans un marché quelconque...
+$GEN_044_WIT_00_A_QTitle
+Quelle est ta réaction face à la déclaration surprenante de l'accusée ?
+$GEN_044_WIT_00_A_00
+Quelle est ta réaction face à la déclaration surprenante de l'accusée ?
+$GEN_044_WIT_00_A_01
+Le simple fait que tu me poses cette question est scandaleux ! Je certifie sur l'honneur n'avoir jamais mis cette sorcière enceinte !
+$GEN_044_WIT_00_A_02
+L'accusée semble être sûre d'elle. Avez-vous eu des relations sexuelles ? As-tu accepté ce pot-de-vin honteux ?
+$GEN_044_WIT_00_A_03
+J'ai perdu un œil ! Comment suis-je censé servir le pays à présent ?
+$GEN_044_WIT_00_A_04
+Réponds à la question !
+$GEN_044_WIT_00_A_05
+L'accusée m'a rendu visite le jour précédent le procès de son mari. Elle m'a demandé d'intervenir en son nom, mais j'ai refusé.
+$GEN_044_WIT_01_A_QTitle
+Alors, qui est le père de l'enfant ?
+$GEN_044_WIT_01_A_00
+Alors, qui est le père de l'enfant ?
+$GEN_044_WIT_01_A_01
+Ce traître de comte, j'imagine. Cela fait trois mois qu'il a été guillotiné. Il a sûrement dû s'amuser avant...
+$GEN_044_WIT_01_A_02
+Le conspirateur a été guillotiné il y a trois mois, mais il a été arrêté il y a cinq mois.
+$GEN_044_WIT_01_A_03
+Alors il l'a mise enceinte juste avant son arrestation !
+$GEN_044_WIT_01_A_04
+C'est peut-être toi qui l'a mise enceinte, juste après l'arrestation.
+$GEN_044_WIT_01_A_05
+Quelle honte ! J'exige satisfaction !
+$GEN_044_WIT_01_A_06
+Dans notre salle de tribunal, c'est nous qui exigeons quelque chose de toi, pas l'inverse !
+$GEN_044_WIT_01_B_QTitle
+Comment peux-tu être aussi certain que c'est l'accusée qui a lancé la pierre ?
+$GEN_044_WIT_01_B_00
+Comment peux-tu être aussi certain que c'est l'accusée qui a lancé la pierre ? J'ai entendu dire que de nombreuses personnes s'étaient attroupées autour du lieu de l'exécution.
+$GEN_044_WIT_01_B_01
+Une seule pierre a été lancée. Les gens se frappaient entre eux, mais personne n'aurait osé lever la main sur un officier qui ne faisait qu'obéir aux ordres.
+$GEN_044_WIT_01_B_02
+Cela ne prouve rien.
+$GEN_044_WIT_01_B_03
+Non, mais une femme qui crie « mort à ces traîtres de gardes ! » juste après la décapitation d'un homme ne laisse planer aucun doute.
+$GEN_044_WIT_01_B_04
+L'as-tu vue de tes propres yeux ?
+$GEN_044_WIT_01_B_05
+Je l'ai vue, et j'ai vu la pierre venir d'où elle se trouvait.
+$GEN_044_WIT_01_B_06
+Il n'y a même pas lieu de réfléchir.
+$GEN_044_KEY_01
+Veuve d'un conspirateur
+$GEN_044_KEY_02
+Perte d'un œil
+$GEN_044_KEY_03
+Incitation à l'émeute
+$GEN_044_KEY_04
+Lancer de pierre
+$GEN_044_KEY_05
+Découverte du complot
+$GEN_044_LastDialog_00
+Vous tuez deux innocents d'un seul coup !
+$GEN_044_UNIQUE_QUESTION_00
+Comment la comtesse a-t-elle tenté de soudoyer l'officier Plessis ?
+$GEN_044_UNIQUE_ANSWER_CORRECT_00_00
+Elle s'est donnée à lui.
+$GEN_044_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Elle lui a donné de l'or.
+$GEN_044_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Elle lui a donné sa maison.
+$GEN_044_UNIQUE_QUESTION_01
+Que criait la prévenue d'après les dires du témoin ?
+$GEN_044_UNIQUE_ANSWER_CORRECT_01_00
+Mort à ces traîtres de gardes !
+$GEN_044_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Mort à toi, Plessis !
+$GEN_044_UNIQUE_ANSWER_NOT_CORRECT_01_01
+À bas la Révolution !

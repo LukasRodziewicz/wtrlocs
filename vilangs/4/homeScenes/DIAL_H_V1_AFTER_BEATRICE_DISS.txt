@@ -1,0 +1,12 @@
+$DIAL_H_V1_AFTER_BEATRICE_DISS_001_WIFE
+Willst du mir vielleicht sagen, was mit unseren Ersparnissen passiert ist?
+$DIAL_H_V1_AFTER_BEATRICE_DISS_002_JUDGE
+Ich musste es tun. Unsere Sicherheit hing davon ab.
+$DIAL_H_V1_AFTER_BEATRICE_DISS_003_WIFE
+Natürlich. Hatten Sie wohl kein Glück beim Kartenspiel?
+$DIAL_H_V1_AFTER_BEATRICE_DISS_004_JUDGE
+Ich habe es nicht für Glücksspiele ausgegeben.
+$DIAL_H_V1_AFTER_BEATRICE_DISS_005_WIFE
+Ich verstehe. Also war es Wein… Unsere Kinder werden niemals den Tag vergessen, an dem ihr Vater das Familiengeld für Alkohol vergeudet hat. Verdammt sollst du sein!
+$DIAL_H_V1_AFTER_BEATRICE_DISS_006_JUDGE
+Hm…

@@ -1,0 +1,30 @@
+$DIAL_H_01_01_06_001_GRANDFATHER
+Güzel bir kazanç elde ettik. Refaha ulaşma şansımız vardı...
+$DIAL_H_01_01_06_002_ELDERSON
+Renard ailesi neden dükkanını ele geçirmek istesin, büyükbaba?
+$DIAL_H_01_01_06_003_GRANDFATHER
+Kâr ve iktidar için. Sebep hep aynı, bu devirde de değişen bir şey yok.
+$DIAL_H_01_01_06_004_ELDERSON
+Bugün eşitlik için buradayız; onurlu bir yaşam sadece soylulara ait olmasın diye.
+$DIAL_H_01_01_06_005_GRANDFATHER
+Büyü artık, oğlum. Gerçeği ancak oğlumu, senin amcanı, idama mahkûm etmeye kalktıklarında görebildim. Bir anda anladım ki, aslında önemli olan tek şey sahip olamadığım güç ve hiç önemsemediğim bağlantılardı.
+$DIAL_H_01_01_06_006_JUDGE
+Adil olmak istedin, oysa adaletsizlik bir veba gibi yayılıyordu. Bunun için pişmanlık duymamalısın.
+$DIAL_H_01_01_06_007_GRANDFATHER
+Hayır, pişman değilim. Ama yine de kardeşinin yaşamasını, iki oğlumun olmasını isterdim.
+$DIAL_H_01_01_06_008_YOUNGERSON
+Bir kardeşin var mı baba? Nerede şimdi?
+$DIAL_H_01_01_06_009_JUDGE
+O, sen doğmadan çok önce, uzun zaman önce öldü.
+$DIAL_H_01_01_06_010_YOUNGERSON
+Neden öldü?
+$DIAL_H_01_01_06_011_JUDGE
+Yemek yerken bu kadar konuşma.
+$DIAL_H_01_01_06_012_GRANDFATHER
+Amcan savaşa gitti ve çatışmada hayatını kaybetti. Sizin kuşağınız, dünyaya verdiğimiz zararın boyutunu yakında fark edecek. Eskiden, Pochard gibi namuslu insanlar mahkemelerden ya da Tribünallerden endişe etmezdi, ama şimdi…
+$DIAL_H_01_01_06_013_JUDGE
+Pochard’ın suçlu olma ihtimalini hiç düşündün mü?
+$DIAL_H_01_01_06_014_YOUNGERSON
+Hayır! Bay Pochard olmasın!
+$DIAL_H_01_01_06_015_GRANDFATHER
+O, hiçbirimizden daha suçlu değildi… Oğlum, Renard’ları gözünden ayırma.

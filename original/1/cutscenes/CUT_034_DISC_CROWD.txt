@@ -1,0 +1,88 @@
+$CUT_034_DISC_CROWD_001_CROWD
+They want to rule!
+$CUT_034_DISC_CROWD_002_CROWD
+What are they thinking?!
+$CUT_034_DISC_CROWD_003_CROWD
+I’ll beat some sense into my wife later!
+$CUT_034_DISC_CROWD_004_MAN
+Just prepare our food and bear our children!
+$CUT_034_DISC_CROWD_005_MAN
+No women will rule us!
+$CUT_034_DISC_CROWD_006_CROWD
+Remember your place…
+$CUT_034_DISC_CROWD_007_CROWD
+… or we will help you!
+$CUT_034_DISC_CROWD_004_JUDGE_AGGR
+What they did is disgusting at a time like this, but we have no choice. We have to consent to their demands. At least for now…
+$CUT_034_DISC_CROWD_005_JUDGE_MANI
+Admit it, you did not expect this – and neither did I! They attacked when we were not looking, and now we have to give in to them.
+$CUT_034_DISC_CROWD_006_JUDGE_JOKE
+All hope is gone… We have to accept their conditions.
+$CUT_034_DISC_CROWD_007_JUDGE_HUMI
+Judging by their behaviour, they are extremely determined. They will not give up. This blow will not be the last one if we do not consent to their demands.
+$CUT_034_DISC_CROWD_008_JUDGE_AGGR
+It is a trifling amount, Citizens. Give it to them! Do not let your pride and instinct misguide you. Do not be fools!
+$CUT_034_DISC_CROWD_009_JUDGE_MANI
+Think on it for a moment – you will give them a small amount of power, yet win yourselves peace for the rest of your lives.
+$CUT_034_DISC_CROWD_010_JUDGE_JOKE
+You will give them a few rights that do not matter in the light of changes that have taken place in France recently. It is little more than dust from the Bastille’s ruins.
+$CUT_034_DISC_CROWD_011_JUDGE_HUMI
+I know your blood is up, but the truth is, they do not want much. This consent will cost you little.
+$CUT_034_DISC_CROWD_012_CROWD_DOUB
+You may have your arguments, but we have ours. Those of men. We have built our world on them, and we will not drop them just like that.
+$CUT_034_DISC_CROWD_013_CROWD_IRRI
+Have you had too much to drink again? You are speaking as if we don’t know our women well. They will walk all over us if we consent to this!
+$CUT_034_DISC_CROWD_014_CROWD_AGGR
+Give them an inch and they will take a mile. Give them a hand, and they will tear out your heart. Don’t you know what women are like?
+$CUT_034_DISC_CROWD_015_JUDGE_AGGR
+There is no time for such discussions, Citizens. The enemy is in the streets, while you ponder whether your wives deserve to stop being treated like servants or slaves!
+$CUT_034_DISC_CROWD_016_JUDGE_MANI
+Put yourselves in their shoes. They have not gained much from the Revolution, unlike you, and they end up on the guillotine just as frequently. Who supported you when you were bearing the standards of the Revolution? They carried them at your sides with you!
+$CUT_034_DISC_CROWD_017_JUDGE_JOKE
+Is it so difficult to stop the habit of beating your wives? They are often smarter then you, so let them speak, damn it!
+$CUT_034_DISC_CROWD_018_JUDGE_HUMI
+Citizens, you must give in. Women deserve better treatment. They have earned their share in the Revolution as much as you gentlemen did. They have suffered enough to get this right.
+$CUT_034_DISC_CROWD_019_CROWD_DOUB
+But we can’t treat them any better.
+$CUT_034_DISC_CROWD_020_CROWD_IRRI
+We slog our guts out to feed them, we give them children. Don’t we do enough already? It’s said that in savage countries, women have it worse and don’t complain.
+$CUT_034_DISC_CROWD_021_CROWD_AGGR
+No, we’ve been too good for them. They should be given the whip and reminded who is the master of the house! Then they won’t feel like rebelling!
+$CUT_034_DISC_CROWD_022_JUDGE_AGGR
+If it was not for them, you would never have had your Revolution! Without their support, you would still be mucking out your aristocrats’ stables instead of enjoying every sunrise. They have always stood next to you, but the Revolution did nothing to repay them.
+$CUT_034_DISC_CROWD_023_JUDGE_MANI
+Thanks to the Revolution, you men have won equality and freedom, but women have remained in the background. They support us, but as soon as we get our rest, we drive them into a corner! Is this how we want to treat our women?
+$CUT_034_DISC_CROWD_024_JUDGE_JOKE
+We have set ourselves up nicely indeed. We seized power from the monarchy, taken it for ourselves, yet our women still wash our dirty undergarments.
+$CUT_034_DISC_CROWD_025_JUDGE_HUMI
+The Revolution has not done much for them. They are still in chains, shackled by those who view them as fit only to bear children when they could be warriors and politicians.
+$CUT_034_DISC_CROWD_026_JUDGE_AGGR
+Do you want to go back to the old world and the old ways? If not, remember that you shouted the slogan “Freedom. Equality. Brotherhood.” Brotherhood, damn it! What are the slogans worth if you refuse to share what you have with women?
+$CUT_034_DISC_CROWD_027_JUDGE_MANI
+You have a chance to show the real power of the Revolutionary brotherhood. Only if we all stand together to fight for our freedom will the slogan “Freedom. Equality. Brotherhood.” be truly fulfilled.
+$CUT_034_DISC_CROWD_028_JUDGE_JOKE
+The slogan “Freedom. Equality. Brotherhood.” is now just empty words. At this crucial moment, we cannot deny women the last part of it – brotherhood. If we do that, we may as well shout “Cook. Clean. Bear children.”
+$CUT_034_DISC_CROWD_029_JUDGE_HUMI
+The world has changed, Citizens. If you wanted these changes just for yourselves, you could have made sure that no female blood was shed during the Revolution. Only by standing together to fight can we fulfil our dream of a full Revolutionary brotherhood! We owe it to them.
+$CUT_034_DISC_CROWD_030_CROWD_DOUB
+Now you’ve confused us. What on earth made you negotiate with hags?
+$CUT_034_DISC_CROWD_031_CROWD_IRRI
+If they’re so smart, let’s give them muskets and have them fight against the enemy, how about that? Let’s see if they’re so eager to be equal with us when they see their female friends get their guts torn out by bayonets!
+$CUT_034_DISC_CROWD_032_CROWD_AGGR
+You should know better what happens, when you are lenient with women – our own wives will stab us to death the first chance they get if we let them! Or they’ll poison us! We won’t be having any of that!
+$CUT_034_DISC_CROWD_033_MAN
+Rule of women…
+$CUT_034_DISC_CROWD_034_CROWD
+They can have a brothel – let them rule that.
+$CUT_034_DISC_CROWD_035_CROWD
+For the glory of the new world!
+$CUT_034_DISC_TOPIC_01
+We must accept the women’s conditions.
+$CUT_034_DISC_TOPIC_02
+They are not demanding much.
+$CUT_034_DISC_TOPIC_03
+They deserve better treatment.
+$CUT_034_DISC_TOPIC_04
+The Revolution was supposed to give everyone equal status.
+$CUT_034_DISC_TOPIC_05
+Only a real brotherhood can bring us victory.

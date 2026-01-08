@@ -1,0 +1,312 @@
+$GEN_022_DOC_1_HEADER
+Sporządził: Pierre Daquin
+$GEN_022_DOC_1_00
+	<a name="1" class="hidden">Sławny</a> wśród paryskiego ludu Jean Ibert, ulicznik, który zabił w Bastylii naczelnika  de Launaya i nosił jego głowę zatkniętą na pice, trafił do celi. Po zwycięstwie rewolucji oskarżony stoczył się na dno, ale wciąż dla wielu pozostał bohaterem. Dla ulicy nie miało żadnego znaczenia to, że paryskie archiwa pełne są <a name="2" class="hidden">skarg</a> na niego, dotyczących napaści na kobiety, kradzieży i pobić.
+$GEN_022_DOC_1_01
+	Tym razem sprawa jest poważna – Ibert został posądzony o <a name="3" class="hidden">gwałt</a> na 16-letniej <a name="4" class="hidden">Élodie de Pontalbie</a>. Akt oskarżenia wniósł ojciec pokrzywdzonej, baron Thomas de Pontalba, o którym powszechnie wiadomo, że był <a name="5" class="hidden">krewnym</a> i przyjacielem naczelnika Bastylii de Launaya.
+$GEN_022_DOC_1_02
+	Do przestępstwa miało dojść w kamienicy należącej do rodziny ofiary. Jean ujęty został w trakcie ucieczki z budynku, przez pracujących na zewnątrz robotników. Pokrzywdzona Élodie złożyła pisemne zeznanie, zgodnie z którym Jean wykorzystał nieobecność barona oraz większości służby – był to dzień świąteczny i służący mieli wychodne – żeby <a name="7" class="hidden">włamać</a> się do kamienicy. Gdy już był w środku, napadł ją w jej pokoju i zgwałcił.
+$GEN_022_DOC_1_03
+	Świadkiem zdarzenia była Anna Michel, guwernantka Élodie. To właśnie ona zaalarmowała robotników o niepokojących odgłosach dobiegających z pokoju baronówny. Wielu świadków uznało za zasadne poinformować nas, że Anna Michel w pewnych kręgach znana jest z chorobliwej zazdrości i zamiłowania do romansów z przedstawicielami ludu.
+$GEN_022_DOC_2_00
+Zeznania Anny Michel:
+   
+	Zwykle w okolicach wczesnego przedpołudnia czytujemy z panienką Élodie literaturę. Tym razem jednak kucharz miał wolne, a ja szykowałam podwieczorek dla panienki. Kiedy usłyszałam jej krzyk, pobiegłam do niej, ale potem dotarł do mnie z pokoju także męski głos. Wystraszyłam się i zawróciłam po pomoc.
+$GEN_022_DOC_3_00
+Wyniki obdukcji
+$GEN_022_DOC_3_01
+Po przeprowadzeniu badania stwierdzam, co następuje:
+Defloracja skuteczna. Niewielkie otarcia w okolicach intymnych. Na ramionach, plecach oraz w okolicach twarzy sińce i wybroczyny.
+  
+																dr P. Gibier
+$GEN_022_OnStart_00
+Prowadzą Jeana!
+$GEN_022_OnStart_01
+Jesteśmy z tobą, Jean!
+$GEN_022_OnStart_02
+Proszę się przedstawić.
+$GEN_022_OnStart_03
+Jean Ibert, zdobywca Bastylii i pogromca tyrana de Launaya! Bohater ludu Paryża!
+$GEN_022_OnStart_04
+Jeanie Ibert, jesteś oskarżony o gwałt na Élodie de Pontalbie, córce barona Thomasa de Pontalby. Czy przyznajesz się do winy?
+$GEN_022_OnStart_05
+Do niczego się nie przyznaję. Ta burżujka i jej ojczulek kontrrewolucjonista łżą jak najęci.
+$GEN_022_OnStart_06
+Musimy brać pod uwagę, że w tym oskarżeniu pojawił się element matactwa.
+$GEN_022_OnStart_07
+A pewno, mataczą szlachciury jak zwykle.
+$GEN_022_OnStart_08
+Dowody świadczą przeciwko tobie.
+$GEN_022_OnStart_09
+Babska dwulicowość i spiskowanie de Pontalby, nie dowody!
+$GEN_022_OnGuilty_00
+Skazuję obywatela Jeana Iberta na śmierć na gilotynie! Wyprowadzić skazanego.
+$GEN_022_OnGuilty_01
+Dowody przestępstwa były dość niejednoznaczne.
+$GEN_022_OnGuilty_02
+Skandal!
+$GEN_022_OnGuilty_03
+Co ty wyprawiasz, głupcze?!
+$GEN_022_OnGuilty_04
+Zdrajca ludu, morderca bohatera!
+$GEN_022_OnPrison_00
+Obywatel Jean Ibert trafi do więzienia. Wyprowadzić!
+$GEN_022_OnPrison_01
+Tylko tyle?
+$GEN_022_OnPrison_02
+Gwałciciele powinni stracić głowę!
+$GEN_022_OnPrison_03
+Albo co innego jeszcze!
+$GEN_022_OnNotGuilty_00
+Wyrok w sprawie Jeana Iberta brzmi: niewinny! Wyprowadzić podsądnego.
+$GEN_022_OnNotGuilty_01
+Przyznaję, że w tym wypadku wina nie była dobrze udowodniona.
+$GEN_022_OnNotGuilty_02
+Brawo!
+$GEN_022_OnNotGuilty_03
+Dla takiej Francji burzyliśmy Bastylię!
+$GEN_022_OnNotGuilty_04
+Sędzia z ludem!
+$GEN_022_04x06_00_QTitle
+Czy oskarżony znał wcześniej pokrzywdzoną Élodie de Pontalbę?
+$GEN_022_04x06_00_00
+Czy oskarżony znał wcześniej pokrzywdzoną Élodie de Pontalbę?
+$GEN_022_04x06_00_01
+Umizgiwała się do mnie za każdym razem, kiedy odwiedzała Café Procope, a bywała tam na każdej dyspucie Dantona i Marata. To w końcu dałem dziewczynie to, o co prosiła.
+$GEN_022_04x06_00_02
+Przyznajecie się w tej chwili?
+$GEN_022_04x06_00_03
+No tak, ale to nie był gwałt. Która odmówiłaby bohaterowi?
+$GEN_022_04x06_00_04
+Poznaliście się w Café Procope? Wątpliwe, aby tak młoda niewiasta sama odwiedzała tego typu miejsca.
+$GEN_022_04x06_00_05
+Kto powiedział, że była sama? Przyprowadzała ją Anna, a Anna lubi się dobrze zabawić.
+$GEN_022_04x06_00_06
+Oskarżony ma na myśli Annę Michel, guwernantkę baronówny?
+$GEN_022_04x06_00_07
+Nie inaczej.
+$GEN_022_04x06_00_08
+Czyli wcześniej bywaliście w kamienicy zamieszkanej przez rodzinę ofiary?
+$GEN_022_04x06_00_09
+Ofiary? Jakiej ofiary? Ale tak, bywałem i można powiedzieć, że znam każdy jej zakamarek. Obskoczyliśmy z Anną Michel wszystkie…
+$GEN_022_04x06_00_10
+Dziękuję za szczegóły…
+$GEN_022_04x06_00_11
+Stara dziwka młodą dziwkę prowadzała po mieście!
+$GEN_022_01x05_01_QTitle
+Czy oskarżonemu znany był fakt pokrewieństwa pomiędzy baronem de Pontalbą...
+$GEN_022_01x05_01_00
+Czy oskarżonemu znany był fakt pokrewieństwa pomiędzy baronem de Pontalbą a gubernatorem de Launayem?
+$GEN_022_01x05_01_01
+Nie, ale to wyjaśnia, że cała ta sprawa została uknuta przez de Pontalbę. Chce mnie zgładzić, bo uwolniłem Paryż od tyrana!
+$GEN_022_01x05_01_02
+Rodzina Launaya powinna już dawno wisieć.
+$GEN_022_01x05_01_03
+Czyli gwałt nie jest dla oskarżonego elementem walki ze zwolennikami monarchii?
+$GEN_022_01x05_01_04
+Monarchistów należy ścinać! A ich córki powinny… dziękować bohaterom rewolucji.
+$GEN_022_01x05_01_05
+Dobrze mówi!
+$GEN_022_01x05_01_06
+Cisza! Mówimy tutaj o gwałcie na młodej dziewczynie!
+$GEN_022_03x06_02_QTitle
+W jaki sposób oskarżony włamał się do kamienicy barona de Pontalby?
+$GEN_022_03x06_02_00
+W jaki sposób oskarżony włamał się do kamienicy barona de Pontalby?
+$GEN_022_03x06_02_01
+A po co miałbym się włamywać, skoro można było wejść tylnymi drzwiami?
+$GEN_022_03x06_02_02
+Skąd oskarżony o nich wiedział?
+$GEN_022_03x06_02_03
+Baronówna sama mi powiedziała. O tym, że kochanego tatusia i większości służby nie będzie w domu, też.
+$GEN_022_03x06_02_04
+Mówiła wam, żebyście przyszli do niej w wiadomym celu?
+$GEN_022_03x06_02_05
+Dawała to dość jednoznacznie do zrozumienia.
+$GEN_022_03x06_02_06
+Wszystkie szlachcianki to małe dziwki.
+$GEN_022_03x06_02_07
+Czyli oskarżony twierdzi, że pojawił się w domu barona de Pontalby na zaproszenie pokrzywdzonej?
+$GEN_022_03x06_02_08
+Ta młoda jędza umówiła się ze mną na miłe popołudnie. Wszystko dokładnie wytłumaczyła.
+$GEN_022_03x06_02_09
+Wypuść Jeana!
+$GEN_022_03x06_02_10
+Spokój, ludzie. Widać, że sędzia wszystko już rozumie. Zaraz mnie wypuści. Spokojnie.
+$GEN_022_02x08_03_QTitle
+Czy oskarżony znajduje szczególną przyjemność w znęcaniu się nad kobietami?
+$GEN_022_02x08_03_00
+Czy oskarżony znajduje szczególną przyjemność w znęcaniu się nad kobietami?
+$GEN_022_02x08_03_01
+Po co miałbym znęcać się nad kobietami, skoro można z nimi robić miłe rzeczy? No chyba że one to lubią.
+$GEN_022_02x08_03_02
+Oskarżony sugeruje, że pokrzywdzona chciała zostać zgwałcona i pobita?
+$GEN_022_02x08_03_03
+Do niczego baronówny nie zmuszałem ani tym bardziej jej nie biłem.
+$GEN_022_02x08_03_04
+Wyniki badania lekarskiego jasno wskazują na uszkodzenia ciała.
+$GEN_022_02x08_03_05
+O to, kto pobił baronównę, niech sąd pyta de Pontalbę, bo to jego krew zalała, gdy się dowiedział, kogo wpuściła do łóżka jego córeczka.
+$GEN_022_02x08_03_06
+Sugerujecie, że ojciec pobił córkę za zadawanie się z wami?
+$GEN_022_02x08_03_07
+Nie zdziwiłbym się, gdyby tak właśnie było.
+$GEN_022_02x08_03_08
+Arystokraci to nie takie rzeczy już robili, jak bicie własnych dzieci.
+$GEN_022_03x08_04_QTitle
+Proszę wezwać na świadka Annę Michel.
+$GEN_022_03x08_04_00
+Proszę wezwać na świadka Annę Michel.
+$GEN_022_03x08_04_02
+Imię i nazwisko świadka.
+$GEN_022_03x08_04_03
+Anna Michel, guwernantka baronówny Élodie de Pontalby.
+$GEN_022_02x03_05_QTitle
+Na ilu swoich dotychczasowych ofiarach oskarżony dopuścił się gwałtu?
+$GEN_022_02x03_05_00
+Na ilu swoich dotychczasowych ofiarach oskarżony dopuścił się gwałtu?
+$GEN_022_02x03_05_01
+Na żadnej. Różnie w przeszłości bywało, ale jeszcze jestem na tyle młody i przystojny, że nie muszę się uciekać do przemocy, żeby być z kobietą.
+$GEN_022_02x03_05_02
+Na co więc skarżyły się te wszystkie kobiety?
+$GEN_022_02x03_05_03
+Nie wiem, przy mnie na nic się nie skarżyły.
+$GEN_022_02x03_05_04
+Zostaliście kiedyś skazani za napaść na kobietę?
+$GEN_022_02x03_05_05
+Nigdy nie udowodnili mi winy.
+$GEN_022_02x03_05_06
+Teraz też go wypuszczą, bo nie mają za co trzymać.
+$GEN_022_02x03_05_07
+Dlaczego więc te kobiety was oskarżały?
+$GEN_022_02x03_05_08
+Pieniędzy chciały pewnie i tyle. 
+$GEN_022_04x05_06_QTitle
+Czy oskarżony wybrał na ofiarę Élodie de Pontalbę, ponieważ jest krewną de Launaya?
+$GEN_022_04x05_06_00
+Czy oskarżony wybrał na ofiarę Élodie de Pontalbę, ponieważ jest krewną de Launaya?
+$GEN_022_04x05_06_01
+Nie wiedziałem, że są krewnymi.
+$GEN_022_04x05_06_02
+Więc dlaczego akurat ona?
+$GEN_022_04x05_06_03
+Była młoda, gładka jak jabłko i bardzo chętna, jeśli sąd musi wiedzieć.
+$GEN_022_04x05_06_04
+Sugerujecie, że to Élodie zainicjowała wasze zbliżenie?
+$GEN_022_04x05_06_05
+Co zrobiła? A, że ona chciała moich pieszczot? O tak, bardzo ich chciała. Marzyła od dawna.
+$GEN_022_03x04_07_QTitle
+Pokrzywdzona to drobna niewiasta, dlaczego więc oskarżony ją tak dotkliwie pobił?
+$GEN_022_03x04_07_00
+Pokrzywdzona to drobna niewiasta, dlaczego więc oskarżony ją tak dotkliwie pobił?
+$GEN_022_03x04_07_01
+A po co miałem ją bić? Nawet jej rozbierać nie musiałem.
+$GEN_022_03x04_07_02
+Rozbierała się sama?
+$GEN_022_03x04_07_03
+Wyskoczyła z kiecki i jeszcze mnie pasek rozpięła, a potem…
+$GEN_022_03x04_07_04
+Szczegóły możecie zostawić dla siebie.
+$GEN_022_03x04_07_05
+Ja mogę Wysokiemu Sądowi wszystko powiedzieć, jak księdzu na spowiedzi.
+$GEN_022_03x04_07_06
+Rozbierała się, bo jej groziliście?
+$GEN_022_03x04_07_07
+Ona by mnie zaczęła grozić, jakbym jej odmówił.
+$GEN_022_03x04_07_08
+Opowiadaj dalej, słuchamy!
+$GEN_022_03x04_07_09
+Cisza! Jak chcecie posłuchać, to na jarmark idźcie, się nasłuchacie.
+$GEN_022_WIT_00_A_QTitle
+Co świadek wie na temat omawianego tutaj czynu?
+$GEN_022_WIT_00_A_00
+Co świadek wie na temat omawianego tutaj czynu?
+$GEN_022_WIT_00_A_01
+Ibert jest winny i zasługuje na śmierć. Wykorzystał naszą znajomość, aby zbliżyć się do baronówny i wyrządzić jej krzywdę.
+$GEN_022_WIT_00_A_02
+Jak sąd ma to rozumieć?
+$GEN_022_WIT_00_A_03
+Doskonale zdawał sobie sprawę, w których dniach służba ma wychodne, a baron wyjeżdża na sesje Zgromadzenia Prawodawczego.
+$GEN_022_WIT_00_A_04
+To świadek udzieliła mu takich informacji?
+$GEN_022_WIT_00_A_05
+Nie wprost. W przeszłości kilkakrotnie odwiedzał mnie w kamienicy barona de Pontalby.
+$GEN_022_WIT_00_A_06
+Nie sądziliście, że ten człowiek może wykorzystać taką wiedzę przeciwko rodzinie barona?
+$GEN_022_WIT_00_A_07
+...
+$GEN_022_WIT_00_A_08
+Rozumiem. Czy baron wiedział o tych schadzkach?
+$GEN_022_WIT_00_A_09
+Nie, pan ma ważniejsze sprawy na głowie niż życie służących. 
+
+
+$GEN_022_WIT_01_A_QTitle
+Dlaczego świadek zaniedbała swoje obowiązki i nie pilnowała pokrzywdzonej?
+$GEN_022_WIT_01_A_00
+Dlaczego świadek zaniedbała swoje obowiązki i nie pilnowała pokrzywdzonej?
+$GEN_022_WIT_01_A_01
+W tamtym dniu na polecenie barona opiekowałam się domem. Élodie nie miała zajęć i przebywała w swoim pokoju.
+$GEN_022_WIT_01_A_02
+I świadek nie słyszała, jak oskarżony wchodzi do kamienicy?
+$GEN_022_WIT_01_A_03
+Nie, byłam zajęta w kuchni. Moją uwagę zwróciły dopiero odgłosy szamotaniny i krzyki Élodie dochodzące z jej pokoju.
+$GEN_022_WIT_01_A_04
+Zastanawiające, że obywatelka wcześniej niczego nie usłyszała.
+$GEN_022_WIT_01_A_05
+Nie potrafię tego wyjaśnić. Musiałam bardzo hałasować, gotując.
+$GEN_022_WIT_01_A_06
+Pilnowanie domu nie jest jednym z waszych obowiązków?
+$GEN_022_WIT_01_A_07
+No niby tak, ale przecież ja się nie rozdwoję…
+
+$GEN_022_KEY_01
+Sława oskarżonego
+$GEN_022_KEY_02
+Liczne skargi
+$GEN_022_KEY_03
+Gwałt
+$GEN_022_KEY_04
+Élodie de Pontalba
+$GEN_022_KEY_05
+Krewni gubernatora Bastylii
+$GEN_022_KEY_06
+Kamienica de Pontalbów
+$GEN_022_KEY_07
+Włamanie do kamienicy
+$GEN_022_KEY_08
+Zeznania poszkodowanej
+
+
+$GEN_022_LastDialog_00
+Żeby ścinać za ciupcianie? Ludzie, ja was ratowałem, a teraz mnie mordujecie?
+$GEN_022_UNIQUE_QUESTION_00
+Czym w oczach ludu wsławił się oskarżony?
+$GEN_022_UNIQUE_QUESTION_02
+Jak oskarżony wyjaśnia ślady po pobiciu u ofiary?
+$GEN_022_UNIQUE_QUESTION_03
+Czy oskarżony jakkolwiek próbował wytłumaczyć okoliczności gwałtu?
+
+$GEN_022_UNIQUE_ANSWER_CORRECT_00_00
+Szturmem na Bastylię.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Bohaterstwem w bitwie pod Valmy.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Pracami nad Deklaracją Praw Człowieka i Obywatela.
+$GEN_022_UNIQUE_ANSWER_CORRECT_02_00
+Pobił ją ojciec.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Skatowała ją własna matka.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Skarciła ją guwernantka.
+$GEN_022_UNIQUE_ANSWER_CORRECT_03_00
+Ponoć ofiara miała sama zainicjować zbliżenie i pierwsza zdjąć odzienie.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Nie pamięta, bo był otumaniony alkoholem.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Twierdzi, że nigdy nie dotknął ofiary.
+
+
+
+
+

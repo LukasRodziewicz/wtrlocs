@@ -1,0 +1,285 @@
+$GEN_010_DOC_1_HEADER
+Compilado por: Bertrand Moreau
+$GEN_010_DOC_1_00
+Alfred Renoir é um padeiro de 43 anos dos subúrbios do norte de Paris. Renoir foi acusado de causar a morte de várias crianças da vizinhança. O réu e sua esposa têm dois filhos e uma filha. Testemunhas afirmam que ele é um homem de poucas palavras, mas solidário. Nunca se recusou a vender pão fiado, nem jamais misturou serragem à farinha. Durante a investigação, sua casa foi revistada e nenhum material monarquista foi encontrado.
+$GEN_010_DOC_1_01
+As acusações contra o padeiro foram feitas por três mulheres que o responsabilizam pela morte de seus filhos. Ao todo, oito menores foram encontrados mortos. A causa da morte foi confirmada por um médico parisiense como <a name="2" class="hidden">fome</a>.
+$GEN_010_DOC_1_02
+Uma semana antes, essas mulheres, junto com um pequeno grupo de vizinhos, tentaram obrigar o padeiro a vender-lhes pão – ou ao menos um pouco de farinha. Segundo testemunhas, não havia mais de 15 pessoas em frente à padaria.
+$GEN_010_DOC_1_03
+Renoir <a name="3" class="hidden">recusou categoricamente</a> e ameaçou chamar a Guarda. Quando o povo faminto lhe pediu para aumentar a produção de pão, ele recusou novamente. No dia seguinte, as três mães que agora o acusam voltaram a procurá-lo, mas mais uma vez não conseguiram comprar pão.
+$GEN_010_DOC_1_04
+O investigador, com o apoio de soldados, encontrou um grande estoque de farinha nos depósitos da padaria. No entanto, é difícil provar se a <a name="4" class="hidden">morte das crianças</a> foi causada unicamente pela conduta do padeiro.
+$GEN_010_DOC_1_05
+O padeiro declarou que comprava sua farinha de um <a name="5" class="hidden">camponês do interior</a>. No entanto, ninguém jamais o viu em Paris. Circulam boatos de que ele conspira com os austríacos. Muitos acreditam que os Habsburgos tentam combater a Revolução faminando os cidadãos de Paris.
+$GEN_010_DOC_1_06
+O réu não soube explicar por que se recusou a vender pão, limitando-se a dizer que não tinha outra escolha.
+$GEN_010_DOC_1_07
+Evidência:
+<a name="7" class="hidden">Um livro de compras.</a>
+$GEN_010_OnStart_00
+Assassino traidor! Queremos nosso pão!
+$GEN_010_OnStart_01
+Quando pessoas famintas e desesperadas começam a falar de possíveis conspirações, é melhor manter-se longe de suas suspeitas.
+$GEN_010_OnStart_02
+O réu pode se apresentar.
+$GEN_010_OnStart_03
+Meu nome é Alfred Renoir. Sou padeiro.
+$GEN_010_OnStart_04
+Cidadão Renoir, você está sendo acusado de causar a morte de várias crianças.
+$GEN_010_OnStart_05
+Eu não matei ninguém. Eu jamais faria mal a uma criança.
+$GEN_010_OnStart_06
+Talvez não tenha usado uma faca, mas ainda assim é culpado.
+$GEN_010_OnStart_07
+Desgraçado sem coração!
+$GEN_010_OnGuilty_00
+Declaro Alfred Renoir culpado por provocar a fome deliberada dos cidadãos de Paris e pela morte de crianças. Por esses crimes, sentencio-o à guilhotina.
+$GEN_010_OnGuilty_01
+Um veredito sábio. Estamos em guerra, e a guerra exige decisões implacáveis.
+$GEN_010_OnGuilty_02
+E daí? Meus filhos continuam mortos!
+$GEN_010_OnGuilty_03
+Distribua a farinha dele ao povo!
+$GEN_010_OnGuilty_04
+Ótimo! O padeiro vai perder a cabeça e, enfim, nossos estômagos ficarão cheios!
+$GEN_010_OnNotGuilty_00
+O réu não cometeu nenhum crime. Peço que liberte o cidadão Alfred Renoir.
+$GEN_010_OnNotGuilty_01
+Protesto! Exijo que o réu seja punido!
+$GEN_010_OnNotGuilty_02
+Seus filhos não conhecem a fome, conhecem, Meritíssimo?
+$GEN_010_OnNotGuilty_03
+O juiz certamente conspira com os austríacos!
+$GEN_010_OnNotGuilty_04
+Queremos outro juiz!
+$GEN_010_01x03_00_QTitle
+É verdade que você se recusou a vender pão para aquelas três mulheres?
+$GEN_010_01x03_00_00
+É verdade que você se recusou a vender pão para aquelas três mulheres?
+$GEN_010_01x03_00_01
+Sim, eles vieram até mim pedir pão.
+$GEN_010_01x03_00_02
+Eles estavam tentando conseguir isso de graça?
+$GEN_010_01x03_00_03
+Não, eles enfiavam dinheiro nas minhas mãos. Até mais do que deveriam.
+$GEN_010_01x03_00_04
+E ele gritou com a gente!
+$GEN_010_01x03_00_05
+Você disse a ele que precisava disso para seus filhos?
+$GEN_010_01x03_00_06
+Sim, e mesmo assim ele recusou.
+$GEN_010_01x03_00_07
+Você não tem consciência?
+$GEN_010_01x03_00_08
+Pedi educadamente, mas eles não quiseram ir embora…
+$GEN_010_01x03_00_09
+Por que você recusou?
+$GEN_010_01x03_00_10
+Eu não tinha outra escolha...
+$GEN_010_02x06_01_QTitle
+Você sabe que nosso país está em guerra?
+$GEN_010_02x06_01_00
+Você sabe que nosso país está em guerra?
+$GEN_010_02x06_01_01
+Sim, estou ciente disso.
+$GEN_010_02x06_01_02
+Então por que recusou ajudar seus concidadãos? Suas ações são uma traição à República e posso acusá-lo de traição.
+$GEN_010_02x06_01_03
+Monsieur le juge, o senhor sabe que eu também estou travando uma guerra pessoal?
+$GEN_010_02x06_01_04
+Que guerra?
+$GEN_010_02x06_01_05
+Daquela em que luto pela sobrevivência da minha família. Qualquer outra guerra pode esperar. Tenho três filhos e uma esposa, e não posso traí-los.
+$GEN_010_02x06_01_06
+Se perdermos, toda criança passará fome.
+$GEN_010_02x06_01_07
+Ele vendeu a alma aos austríacos para dar algumas migalhas à sua prostituta.
+$GEN_010_02x07_02_QTitle
+De acordo com o livro de compras, havia pão suficiente…
+$GEN_010_02x07_02_00
+De acordo com o livro de compras, você tinha pão suficiente para vender àquelas mulheres e a muitos outros clientes também.
+$GEN_010_02x07_02_01
+Agora sim, mas quem sabe o que vai acontecer em breve? Haverá outro carregamento? A verdadeira fome ainda não nos atingiu, e eu tenho uma família para sustentar. Por quanto tempo eles terão que sobreviver apenas com o que tenho agora?
+$GEN_010_02x07_02_02
+Nós também tivemos filhos!
+$GEN_010_02x07_02_03
+Você estava guardando tudo isso para uso próprio?
+$GEN_010_02x07_02_04
+Pela minha família, sim. Isso é mesmo um crime?
+$GEN_010_02x07_02_05
+E você comia todos os dias?
+$GEN_010_02x07_02_06
+Felizmente sim, mas não sei por quanto tempo isso vai durar.
+$GEN_010_02x07_02_07
+Desgraçado, ouviu o que ele disse? Vendido do Império!
+$GEN_010_02x04_03_QTitle
+Por favor, chame a testemunha.
+$GEN_010_02x04_03_00
+Por favor, chame a testemunha.
+$GEN_010_02x04_03_02
+Por favor, apresente-se.
+$GEN_010_02x04_03_03
+Arnaud Lemout. Examinei as crianças.
+$GEN_010_03x04_04_QTitle
+Essas mulheres afirmam que sua recusa foi a causa direta...
+$GEN_010_03x04_04_00
+Essas mulheres afirmam que sua recusa foi a causa direta da morte de seus filhos. O que tem a dizer sobre isso?
+$GEN_010_03x04_04_01
+O meu pão era mesmo o último pedaço de comida em Paris? Se queriam alimentar seus filhos, que tivessem se esforçado mais.
+$GEN_010_03x04_04_02
+Ele tenta culpar aquelas pobres mulheres!
+$GEN_010_03x04_04_03
+Uma traidora e espiã austríaca ousa me chamar de má mãe?
+$GEN_010_03x04_04_04
+Está sugerindo que essa tragédia foi causada pela negligência dos pais?
+$GEN_010_03x04_04_05
+Sou pai dos meus próprios filhos, não de todas as crianças do bairro.
+$GEN_010_03x04_04_06
+Sua postura revela que você não compreende o ideal revolucionário de fraternidade.
+$GEN_010_03x04_04_07
+Liberdade, igualdade, fraternidade... e uma lâmina afiada para decapitar os canalhas!
+$GEN_010_03x06_05_QTitle
+Você é um espião austríaco?
+$GEN_010_03x06_05_00
+Você é um espião austríaco?
+$GEN_010_03x06_05_01
+…
+$GEN_010_03x06_05_02
+Cidadão?
+$GEN_010_03x06_05_03
+Não respondi para não correr o risco de ofendê-lo, monsieur le juge, pois a única resposta possível seria que quem inventou essa bobagem só pode ser um idiota. E peço desculpas, monsieur le juge, caso tenha sido ideia sua.
+$GEN_010_03x06_05_04
+Muitos dizem que há algo de errado.
+$GEN_010_03x06_05_05
+Eu nem sequer falo a língua deles! Uns tolos inventaram essa acusação absurda porque não conseguem cuidar da própria vida.
+$GEN_010_03x06_05_06
+A quem você está chamando de idiota, seu desgraçado egoísta?!
+$GEN_010_06x05_06_QTitle
+Como a sua farinha é entregue?
+$GEN_010_06x05_06_00
+Como a sua farinha é entregue?
+$GEN_010_06x05_06_01
+Eu mesmo busco todo sábado.
+$GEN_010_06x05_06_02
+Então você costuma sair da cidade com frequência? Alguém mais vai com você?
+$GEN_010_06x05_06_03
+Não, por quê?
+$GEN_010_06x05_06_04
+Por causa das suspeitas de que você seja espião e conspirador...
+$GEN_010_06x05_06_05
+Bravo! O juiz desmascarou o traidor!
+$GEN_010_06x05_06_06
+Por que seria estranho um padeiro ir ao campo uma vez por semana buscar farinha?
+$GEN_010_06x05_06_07
+Por que seria estranho que alguém que viaja com frequência fosse recrutado como espião?
+$GEN_010_06x05_06_08
+Isso é um absurdo.
+$GEN_010_06x05_06_09
+Chame a testemunha.
+$GEN_010_06x05_06_11
+Foi você quem negociou com o réu? Por favor, apresente-se.
+$GEN_010_06x05_06_12
+Ruttmann é meu nome, sou camponês e moleiro. Sim, negociei com ele, monsieur le juge. Por que não? Fiz algo errado?
+$GEN_010_WIT_00_A_QTitle
+Poderia descrever as suas conclusões após examinar as crianças?
+$GEN_010_WIT_00_A_00
+Poderia descrever as conclusões a que chegou após examinar as crianças?
+$GEN_010_WIT_00_A_01
+Estavam enfraquecidos e abatidos, claramente desnutridos. Devem ter permanecido assim por bastante tempo.
+$GEN_010_WIT_00_A_02
+Alguns pães do padeiro teriam sido suficientes para evitar a tragédia?
+$GEN_010_WIT_00_A_03
+Não se pode dar pão a uma pessoa faminta de estômago vazio. Isso geralmente tem consequências desastrosas. E não, um pouco de pão só adiaria a morte deles por alguns dias.
+$GEN_010_WIT_00_A_04
+Como ousa!
+$GEN_010_WIT_00_A_05
+Talvez, nesses poucos dias, os pais conseguissem encontrar mais comida.
+$GEN_010_WIT_00_A_06
+Talvez.
+$GEN_010_WIT_01_A_QTitle
+O que você acha do plano austríaco de deixar Paris morrer de fome?
+$GEN_010_WIT_01_A_00
+O que você acha do plano austríaco de deixar Paris morrer de fome?
+$GEN_010_WIT_01_A_01
+Isso é simplesmente ridículo. Um padeiro só?
+$GEN_010_WIT_01_A_02
+Falam em dezenas.
+$GEN_010_WIT_01_A_03
+Pela minha experiência, as pessoas costumam falar bobagens. Um grande grupo de pessoas sem instrução sempre buscará uma resposta fácil.
+$GEN_010_WIT_01_A_04
+Mas vamos supor, por um instante, que esses rumores sejam realmente verdadeiros. Uma conspiração de padeiros levaria à morte de muitas pessoas?
+$GEN_010_WIT_01_A_05
+Acho que sim. Muitos parisienses se alimentam quase só de pão, então o número de mortes aumentaria.
+$GEN_010_WIT_01_A_06
+Você notou recentemente um aumento no número de pessoas morrendo de fome?
+$GEN_010_WIT_01_A_07
+Sim, mas realmente não acho que seja resultado de uma conspiração. Existem outros motivos também — problemas no abastecimento de alimentos, a guerra, e todo o caos que ambos causaram.
+$GEN_010_WIT_01_A_08
+Ainda bem que descobrimos! Traição!
+$GEN_010_WIT_02_A_QTitle
+Há quanto tempo você trabalha com comércio?
+$GEN_010_WIT_02_A_00
+Há quanto tempo você trabalha com comércio?
+$GEN_010_WIT_02_A_01
+Já faz uns seis ou sete anos.
+$GEN_010_WIT_02_A_02
+Você notou alguma mudança no comportamento do réu recentemente?
+$GEN_010_WIT_02_A_03
+Não, ele continuou gentil, como sempre. Mas tentou me convencer a negociar só com ele.
+$GEN_010_WIT_02_A_04
+O que você respondeu? Não achou esse pedido suspeito?
+$GEN_010_WIT_02_A_05
+Eu aceitei. Por que eu me importaria? Ele sempre pagava bem e comprava bastante. Quer dizer, claro, era estranho ele andar com tanto dinheiro, mas isso não é problema meu, certo?
+$GEN_010_WIT_02_A_06
+Algum outro cliente costumava comprar tamanha quantidade de farinha?
+$GEN_010_WIT_02_A_07
+Foi estranho, sim. Não sei por que ele precisava de tanta farinha. Mas estes são tempos difíceis e ele sempre pagava adiantado. Outras pessoas costumavam pedir para pagar depois, mas ele nunca fez isso.
+$GEN_010_WIT_02_A_08
+Renoir nunca pediu um pagamento adiado?
+$GEN_010_WIT_02_A_09
+Não.
+$GEN_010_WIT_02_A_10
+Os austríacos devem ter pago muito bem ao padeiro por suas informações, para que ele pudesse comprar tanta farinha assim.
+$GEN_010_WIT_03_A_QTitle
+Ruttmann é um nome estranho para um francês.
+$GEN_010_WIT_03_A_00
+Ruttmann é um nome estranho para um francês.
+$GEN_010_WIT_03_A_01
+Meu pai veio de Hanôver.
+$GEN_010_WIT_03_A_02
+O cidadão está ciente de que também estamos em guerra com Hanôver?
+$GEN_010_WIT_03_A_03
+E daí? Meu pai está morto, não pode brigar com ninguém. Eu nasci aqui.
+$GEN_010_KEY_01
+A natureza do réu
+$GEN_010_KEY_02
+Fome em Paris
+$GEN_010_KEY_03
+Recusa de ajuda
+$GEN_010_KEY_04
+Morte de crianças
+$GEN_010_KEY_05
+Fornecedor misterioso
+$GEN_010_KEY_06
+Táticas hostis
+$GEN_010_KEY_07
+Livro de compras
+$GEN_010_LastDialog_00
+Quem vai cuidar dos meus filhos agora? Eles estarão em sua consciência!
+$GEN_010_UNIQUE_QUESTION_00
+O que foi encontrado durante a investigação na casa do réu?
+$GEN_010_UNIQUE_ANSWER_CORRECT_00_00
+Um estoque de farinha.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Um grande estoque de pão.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Alguns sacos de aveia.
+$GEN_010_UNIQUE_QUESTION_01
+Por que o réu não quis compartilhar seus suprimentos?
+$GEN_010_UNIQUE_ANSWER_CORRECT_01_00
+Ele guardava para a família dele.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ele não gostava dos vizinhos.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ele afirma que ninguém lhe pediu nada.

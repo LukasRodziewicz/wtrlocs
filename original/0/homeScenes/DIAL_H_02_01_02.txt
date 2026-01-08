@@ -1,0 +1,30 @@
+$DIAL_H_02_01_02_001_JUDGE
+Odkąd się poznaliśmy, nie jesteś zbyt rozmowny.
+$DIAL_H_02_01_02_002_RAMEL
+Myślę, że więcej o człowieku mówią jego czyny.
+$DIAL_H_02_01_02_003_JUDGE
+Co mówią o nas? O mnie i o tobie?
+$DIAL_H_02_01_02_004_RAMEL
+Że nie pozwalamy, by inni sterowali naszym życiem. Sami tworzymy swoje przeznaczenie.
+$DIAL_H_02_01_02_005_JUDGE
+Może chociaż zdradzisz mi, skąd pochodzisz?
+$DIAL_H_02_01_02_006_RAMEL
+Mogę ci powiedzieć, że tak jak twój brat Bruno ja również wylądowałem kiedyś na ulicy. Wyrzucił mnie na nią mój starszy, przyrodni braciszek. A mimo to… tęsknię za nim.
+$DIAL_H_02_01_02_007_JUDGE
+Przykro mi.
+$DIAL_H_02_01_02_008_RAMEL
+Niepotrzebnie. Teraz przynajmniej mam dość siły, by coś z tym zrobić. Dlatego daję ci arcybiskupa Gobela na srebrnej tacy.
+$DIAL_H_02_01_02_009_JUDGE
+Dlaczego?
+$DIAL_H_02_01_02_010_RAMEL
+Bo to on zaplanował morderstwo twojego syna, a ja przypadkiem poznałem najbardziej skrywaną tajemnicę arcybiskupa.
+$DIAL_H_02_01_02_011_JUDGE
+Dlaczego Gobel mnie zaatakował?
+$DIAL_H_02_01_02_012_RAMEL
+Pozbyłeś się Rolandów, Pache’a miałeś praktycznie na widelcu.
+$DIAL_H_02_01_02_013_RAMEL
+Byli ze sobą powiązani, więc mógł uznać, że potem zabierzesz się za niego. Chciał wysłać ci wiadomość.
+$DIAL_H_02_01_02_014_JUDGE
+Teraz ja wyślę mu swoją.
+$DIAL_H_02_01_02_015_RAMEL
+Zabij tych, którzy podnieśli rękę na rodzinę. To najcenniejsze, co posiadasz. Nie będzie lepszego momentu na atak niż teraz, kiedy ludzie obwiniają kler o rebelię w Wandei.

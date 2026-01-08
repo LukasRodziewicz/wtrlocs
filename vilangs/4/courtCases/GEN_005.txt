@@ -1,0 +1,260 @@
+$GEN_005_DOC_01_HEADER
+Zusammengestellt von: Pierre Daquin
+$GEN_005_DOC_01_00
+Vor Gericht steht Claude Garnier, ein Pariser und Bäckergeselle, der wegen Raubes verhaftet wurde. Er führte eine Gruppe an, die <a name="1" class="hidden">in das Haus</a> des wohlhabenden Bürgers Dominique Fournier <a name="1" class="hidden">eingebrochen ist</a>. Laut Fournier beleidigten ihn die Räuber zunächst und begannen dann, <a name="2" class="hidden">ihn zu schlagen</a>.
+$GEN_005_DOC_01_01
+Zur gleichen Zeit wies Claude Garnier seine Komplizen an, welche wertvollen Gegenstände sie mitnehmen sollten, und die Gruppe ließ den zusammengeschlagenen Fournier am Boden liegen. Zahlreiche Zeugen beobachteten das Geschehen. <a name="4" class="hidden">Fourniers Diener</a> war während der Ereignisse anwesend, während einige Passanten durch die Fenster blickten.
+$GEN_005_DOC_01_02
+Garnier hat nicht nur zugegeben, die Gruppe angeführt zu haben, sondern prahlte regelrecht damit und nannte es eine revolutionäre Tat, auf die er stolz sei. Angeblich erfuhr er, dass Fournier <a name="5" class="hidden">Flugblätter der Gegenrevolution finanziert</a>, und beschloss, ihm seine Mittel zu entziehen.
+$GEN_005_DOC_01_03
+Der Angeklagte weigerte sich, die Quelle dieser Information preiszugeben. Er übergab den Wachen <a name="9" class="hidden">eine Schmähschrift gegen Robespierre</a> und behauptete, er habe einen ganzen Stapel davon im Haus des Opfers gefunden. Garnier gab an, alle bis auf eine verbrannt zu haben, die er als Beweisstück behielt. Bei seiner Festnahme bemerkten die Wachen einen <a name="8" class="hidden">goldenen Siegelring</a> an seinem Finger, der Bürger Fournier gehörte.
+$GEN_005_DOC_01_04
+Garnier ergreift bei den Versammlungen der Enragés häufig das Wort und fordert, dass alle Reichen gehängt werden. Im Jahr 1789 nahm er an <a name="6" class="hidden">der Erstürmung der Bastille</a> teil.
+$GEN_005_DOC_01_05
+<h1>Dominique Fournier</h1>
+Dominique Fournier
+Fournier ist Finanzier. Es ist allgemein bekannt, dass er bis zum Ende von Finanzminister Neckers Amtszeit ein überzeugter Unterstützer war. Zahlreiche Zeugenaussagen bestätigen, dass er den Girondisten nahestand, auch wenn er sich in den letzten Jahren aus dem öffentlichen Leben zurückgezogen hat. Nach dem Raub wurde Fourniers Haus gründlich durchsucht, doch es konnten keinerlei konterrevolutionäre Materialien gefunden werden.
+$GEN_005_OnStart_00
+Wir brauchen mehr Leute wie Garnier!
+$GEN_005_OnStart_01
+Bitte stellen Sie sich vor.
+$GEN_005_OnStart_02
+Mein Name ist Claude Garnier.
+$GEN_005_OnStart_03
+Ihnen wird vorgeworfen, in das Haus des Bürgers Fournier eingedrungen zu sein, ihn brutal misshandelt und ausgeraubt zu haben.
+$GEN_005_OnStart_04
+Ich habe sein Haus durchsucht. Es lebe die Revolution!
+$GEN_005_OnStart_05
+Gut!
+$GEN_005_OnStart_06
+Wer hat Ihnen das Recht gegeben, für die Revolution zu sprechen?
+$GEN_005_OnStart_07
+Das Volk von Paris!
+$GEN_005_OnStart_08
+Natürlich haben wir das!
+$GEN_005_OnGuilty_00
+Ich verurteile Bürger Claude Garnier zur Guillotine! Führt den Verurteilten ab.
+$GEN_005_OnGuilty_01
+Eine mutige Entscheidung. Ich bin froh, dass ich sie nicht treffen musste.
+$GEN_005_OnGuilty_02
+Empörend!
+$GEN_005_OnPrison_00
+Ich verurteile Bürger Claude Garnier zu Haft! Führt den Verurteilten ab.
+$GEN_005_OnPrison_01
+Was?!
+$GEN_005_OnNotGuilty_00
+Das Urteil lautet… nicht schuldig! Lasst Bürger Garnier frei.
+$GEN_005_OnNotGuilty_01
+Großartig!
+$GEN_005_OnNotGuilty_02
+Sehr weise und gerecht.
+$GEN_005_OnNotGuilty_03
+Es lebe die Revolution!
+$GEN_005_OnNotGuilty_04
+Ich sehe, Sie wollen das Volk beeindrucken.
+$GEN_005_01x02_00_QTitle
+Bürger Fournier wurde schwer misshandelt.
+$GEN_005_01x02_00_00
+Bürger Fournier wurde schwer misshandelt.
+$GEN_005_01x02_00_01
+Er hätte es vermeiden können. Ja, ich habe ihm ein- oder zweimal eine verpasst, aber nur, weil er ständig wie ein Schwein gequiekt hat.
+$GEN_005_01x02_00_02
+Bist du stolz auf dich?
+$GEN_005_01x02_00_03
+Er hat bekommen, was er verdient hat.
+$GEN_005_01x02_00_04
+Royalisten sind Tiere!
+$GEN_005_01x02_00_05
+Hat er weiter „gequiekt“, während Sie seine Wohnung auf den Kopf gestellt haben?
+$GEN_005_01x02_00_06
+Er hat gegen anständige Pariser intrigiert. Reicht das etwa nicht?
+$GEN_005_01x02_00_07
+Wir bringen dieses Schwein um!
+$GEN_005_01x03_01_QTitle
+Sie behaupten, Ihre Tat sollte angeblich den Idealen der Revolution dienen.
+$GEN_005_01x03_01_00
+Sie behaupten, Ihre Tat habe den Idealen der Revolution gedient. Haben Robespierre oder Danton je ihre Anhänger dazu ermutigt, zu Räubern zu werden?
+$GEN_005_01x03_01_01
+Keine Räuber, nein, Soldaten der Revolution. Ich habe Waren beschlagnahmt, die einer verkommenen Sache dienten. Wäre ich nicht verhaftet worden, hätte ich alles den Behörden übergeben.
+$GEN_005_01x03_01_02
+Haben Sie das nicht direkt nach dem Überfall getan?
+$GEN_005_01x03_01_03
+Ich finde, wir hatten jedes Recht, das Vergeltung für all das erlittene Unrecht zu feiern.
+$GEN_005_01x03_01_04
+Welche Ungerechtigkeiten meinen Sie?
+$GEN_005_01x03_01_05
+Mein ganzes Leben lang habe ich mir die Hände wund gearbeitet, während Fournier und seinesgleichen nur dasaßen und sich den Bauch vollschlugen.
+$GEN_005_01x03_01_06
+Weise Worte, Wohlstand für das Volk!
+$GEN_005_01x06_02_QTitle
+Haben Sie tatsächlich an der Erstürmung der Bastille teilgenommen?
+$GEN_005_01x06_02_00
+Haben Sie tatsächlich an der Erstürmung der Bastille teilgenommen?
+$GEN_005_01x06_02_01
+Das habe ich.
+$GEN_005_01x06_02_02
+Was für ein Held! Einer von uns!
+$GEN_005_01x06_02_03
+Hat Ihnen diese Erfahrung geholfen? Es fehlte nur noch de Launays Kopf auf einer Pike.
+$GEN_005_01x06_02_04
+Das ist ein weiterer Unterschied – ich wurde dafür nicht verhaftet. Jeder wusste, dass wir das Richtige taten.
+$GEN_005_01x06_02_05
+Die Bastille war eine Festung. Doch hier geht es um das Eindringen in das Haus eines unbewaffneten Mannes, und genau deshalb hegen wir Zweifel.
+$GEN_005_01x06_02_06
+Du meinst ein unbewaffnetes royalistisches Schwein.
+$GEN_005_02x04_03_QTitle
+Rufen Sie den Zeugen herein, den Diener des Opfers, Gaëtan Calvet.
+$GEN_005_02x04_03_00
+Rufen Sie den Zeugen herein, den Diener des Opfers, Gaëtan Calvet.
+$GEN_005_03x08_04_QTitle
+Bei Ihnen wurde ein goldener Siegelring gefunden, Bürger.
+$GEN_005_03x08_04_00
+Bei der Durchsuchung wurde ein goldener Siegelring bei Ihnen gefunden, Bürger. Ich habe Grund zu der Annahme, dass er dem Opfer gehörte. Liege ich damit richtig?
+$GEN_005_03x08_04_01
+Warum nennt ihr ihn immer noch ein „Opfer“? Er ist ein wohlhabender Verräter! Die wahren Opfer sind das Volk Frankreichs!
+$GEN_005_03x08_04_02
+Sie wissen genau, wovon wir sprechen, und um ihn kümmern wir uns zu gegebener Zeit. Jetzt aber zur Sache: Was ist mit dem Siegelring?
+$GEN_005_03x08_04_03
+Ah, der Siegelring… Schön, nicht wahr? Diese Bonzen haben sich an unserer harten Arbeit fettgefressen und weigern sich, uns auch nur den kleinsten Teil ihres Reichtums abzugeben. Nicht einmal das Geringste.
+$GEN_005_03x08_04_04
+Hurra!
+$GEN_005_03x08_04_05
+Was hatten Sie damit vor?
+$GEN_005_03x08_04_06
+Nichts. An meinem Finger sah er einfach großartig aus. Viel besser als bei diesem Schwein.
+$GEN_005_03x08_04_07
+Der Siegelring war doch nicht das Einzige, was Sie mitgenommen haben, oder? Ich habe gehört, das Haus wurde um all seinen Wert beraubt.
+$GEN_005_03x08_04_08
+Besonders angetan hatten es mir diese vergoldeten Kerzenhalter…
+$GEN_005_05x07_05_QTitle
+Warum glauben Sie, dass das Opfer damit etwas zu tun hatte…?
+$GEN_005_05x07_05_00
+Warum glauben Sie, dass das Opfer in konterrevolutionäre Aktivitäten verwickelt war?
+$GEN_005_05x07_05_01
+Frag jeden auf der Straße, alle wussten davon. Nur hatte niemand Beweise, und wir waren es leid, weiter zu warten.
+$GEN_005_05x07_05_02
+Woher wussten sie das? Hat ihnen jemand etwas zugeflüstert?
+$GEN_005_05x07_05_03
+Nun, sie wussten es einfach. Das Volk weiß immer, was vor sich geht!
+$GEN_005_05x07_05_04
+Wir wittern den Gestank der Royalisten schon von weitem!
+$GEN_005_05x07_05_05
+Also haben Sie beschlossen, Beweise für Fourniers Schuld zu finden?
+$GEN_005_05x07_05_06
+Wenn jemand eines Verbrechens verdächtigt wird, folgt doch eine Untersuchung, oder? Also haben wir unsere eigene eingeleitet.
+$GEN_005_05x07_05_07
+Habe ich das richtig verstanden, dass Sie Bürger Fournier aufgrund irgendwelcher Gerüchte angegriffen haben?
+$GEN_005_05x07_05_08
+Monsieur Richter, wollen Sie etwa andeuten, dass die Pariser Lügner sind?
+$GEN_005_05x07_05_09
+Hier stelle ich die Fragen, nicht Sie.
+$GEN_005_05x07_05_10
+Der Richter steht auf der Seite des Bürgertums!
+$GEN_005_05x09_06_QTitle
+Nachdem Sie verhaftet wurden, haben Sie den Wachen ein verleumderisches Flugblatt übergeben…
+$GEN_005_05x09_06_00
+Nachdem Sie verhaftet wurden, übergaben Sie den Wachen ein verleumderisches Flugblatt über Bürger Robespierre.
+$GEN_005_05x09_06_01
+Ich habe sie im Haus dieses royalistischen Schweins gefunden. Dort gab es Dutzende davon, wir haben sie alle auf der Straße verbrannt.
+$GEN_005_05x09_06_02
+Wunderbar!
+$GEN_005_05x09_06_03
+Die hast du nicht verbrannt.
+$GEN_005_05x09_06_04
+Ich habe sie zur Sicherheit aufgehoben.
+$GEN_005_05x09_06_05
+Woher wissen wir, dass sie Fournier gehörte?
+$GEN_005_05x09_06_06
+Wo hätte ich es sonst finden sollen?
+$GEN_005_05x09_06_07
+Sagen Sie uns genau, wo Sie es gefunden haben.
+$GEN_005_05x09_06_08
+Er hatte dort einen Stapel dieser Flugblätter in einer Nische.
+$GEN_005_05x09_06_09
+Umstürzler!
+$GEN_005_05x09_06_10
+Abschaum!
+$GEN_005_05x09_06_11
+Warum sind Sie mit dem Flugblatt nicht sofort zur Garde gegangen?
+$GEN_005_05x09_06_12
+Warum sollte ich?
+$GEN_005_05x09_06_13
+Mit solchen Beweisen konnten Sie sicher sein, dass der Angeklagte das Fallbeil nicht mehr meiden würde.
+$GEN_005_05x09_06_14
+…
+$GEN_005_05x09_06_15
+Er hat recht! Du hättest die Wache rufen sollen!
+$GEN_005_WIT_00_A_QTitle
+Arbeiten Sie für das Opfer?
+$GEN_005_WIT_00_A_00
+Arbeiten Sie für das Opfer?
+$GEN_005_WIT_00_A_01
+Ja, Monsieur Richter, das stimmt.
+$GEN_005_WIT_00_A_02
+Haben Sie den Angr–
+$GEN_005_WIT_00_A_03
+Ich habe alles gesehen! Sie haben ihn geschlagen, mit Fäusten und Tritten –
+$GEN_005_WIT_00_A_04
+Darf ich den Satz beenden?
+$GEN_005_WIT_00_A_05
+Dann wollte einer von ihnen ihn mit einem Knüppel schlagen. Ich fing an zu schreien, und wissen Sie, was dieser Halunke tat? Er fing an zu lachen. Er fand das unglaublich amüsant…
+$GEN_005_WIT_00_A_06
+Haben Sie den Angeklagten unter den Angreifern gesehen?
+$GEN_005_WIT_00_A_07
+Er dirigierte sie wie ein Orchester! Zuerst die Streicher – zipp! Dann das Schlagwerk – bumm!
+$GEN_005_WIT_00_A_08
+Genug der Metaphern.
+$GEN_005_WIT_00_B_QTitle
+Warum haben Sie nicht versucht, einzugreifen oder das Opfer zu verteidigen?
+$GEN_005_WIT_00_B_00
+Warum haben Sie nicht versucht, einzugreifen oder das Opfer zu verteidigen?
+$GEN_005_WIT_00_B_01
+Ich?
+$GEN_005_WIT_00_B_02
+Ja.
+$GEN_005_WIT_00_B_03
+Ich schenke nur Wein aus. Was hätte ich gegen eine Bande von Schlägern ausrichten können?
+$GEN_005_WIT_00_B_04
+Haben sie auch Sie angegriffen?
+$GEN_005_WIT_00_B_05
+Glücklicherweise nicht.
+$GEN_005_WIT_00_B_06
+Es ist offensichtlich, dass ihr Ziel das Bürgertum war und nicht das einfache Volk. Haben Sie um Hilfe gerufen?
+$GEN_005_WIT_00_B_07
+Ich schrie, doch niemand kam.
+$GEN_005_KEY_01
+Einbruch
+$GEN_005_KEY_02
+Angriff auf das Opfer
+$GEN_005_KEY_03
+Wertvolle Besitztümer
+$GEN_005_KEY_04
+Fourniers Diener
+$GEN_005_KEY_05
+Flugblattfinanzierung
+$GEN_005_KEY_06
+Befreiung der Bastille-Gefangenen
+$GEN_005_KEY_07
+Finanzier
+$GEN_005_KEY_08
+Fourniers goldener Siegelring
+$GEN_005_KEY_09
+Schmähschrift
+$GEN_005_LastDialog_00
+Staatsstreich! Der Richter schützt das Bürgertum!
+$GEN_005_UNIQUE_QUESTION_00
+Mit welcher politischen Gruppe sympathisiert der Angeklagte?
+$GEN_005_UNIQUE_ANSWER_CORRECT_00_00
+Die Girondisten.
+$GEN_005_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Die Jakobiner.
+$GEN_005_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Die Ebene.
+$GEN_005_UNIQUE_QUESTION_01
+Wodurch wurde der Angeklagte im Volk berühmt?
+$GEN_005_UNIQUE_ANSWER_CORRECT_01_00
+Er nahm an der Erstürmung der Bastille teil.
+$GEN_005_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Er half den Armen.
+$GEN_005_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Er arbeitete als Redakteur an Artikeln, die Verräter entlarvten.

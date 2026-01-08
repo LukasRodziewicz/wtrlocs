@@ -1,0 +1,46 @@
+$EXECUTION_START_TIP
+Tira de la cuerda para ejecutar la sentencia
+$SUMMON_GUARDS
+Llamar a los guardias
+$SKIP_SPEECH
+Saltar el discurso
+$PEOPLE_ATTITUDE
+[Actitud del pueblo llano]
+$PEOPLE_ATTITUDE_DESC
+Actitud del pueblo llano: qué es y cómo funciona.
+$PEOPLE_ATTITUDE_LV1
+Agresión
+$PEOPLE_ATTITUDE_LV2
+Desaprobación
+$PEOPLE_ATTITUDE_LV3
+Indiferencia
+$PEOPLE_ATTITUDE_LV4
+Favor
+$PEOPLE_ATTITUDE_LV5
+Felicidad
+$GUILLOTINE_ATTACK_SUCCESS_DESC
+A la multitud reunida en la plaza de la ejecución no le agradaron tus palabras. Volaron puños y garrotes. Por desgracia, los guardias estaban demasiado lejos y no pudieron intervenir a tiempo. Tuviste que enfrentarte solo a la turba enfurecida.
+$GUILLOTINE_ATTACK_FAILURE_DESC
+A la multitud reunida en la plaza de la ejecución no le agradaron tus palabras. Quisieron dejar constancia de su descontento en tu propio cuerpo, a golpes. Por suerte, los guardias estaban preparados y resolvieron la situación con rapidez. Tu reputación ha quedado dañada, pero aún puedes proceder con la ejecución.
+$GUILLOTINE_START_SPEECH
+Habla con el pueblo llano.
+$GUILLOTINE_SPEECH_START_LOW_JUSTICE
+Parecen desconfiados…
+$GUILLOTINE_SPEECH_START_NEUTRAL_JUSTICE
+Quizá logre ganarme el favor de la multitud.
+$GUILLOTINE_SPEECH_START_HIGH_JUSTICE
+Los tengo en la palma de mi mano, confían en mí.
+$GUILLOTINE_HEART_LOW_JUSTICE
+No confían en mí.
+$GUILLOTINE_HEART_NEUTRAL_JUSTICE
+Desconfianza.
+$GUILLOTINE_HEART_HIGH_JUSTICE
+Confían en mí.
+$TIMERGUARD
+Hemos estado demorando demasiado. ¡El pueblo está inquieto!
+#GUILLOTINE_COMMENT_000
+¡Que le corten la cabeza!
+#GUILLOTINE_COMMENT_001
+¡Tira de la cuerda!
+#GUILLOTINE_COMMENT_002
+¡Por la Revolución!

@@ -1,0 +1,870 @@
+#FLASHCARD_HEADER_01
+Olağanüstü hükümler
+#FLASHCARD_DESC
+Bir davayı seçip istediğiniz sütuna sürükleyin.
+#FLASHCARD_HEADER_02
+İncelenecek davalar
+#FLASHCARD_01_NAME
+Edmond Morin
+#FLASHCARD_01_DESC
+Genç ve varlıklı bir tüccar, kabrioletini bir dükkânın vitrinine sürdü. İçerideki birkaç müşteri, cam kırıklarından yaralandı. Suçlu kaçmaya çalışmadı – o kadar sarhoştu ki olaydan hemen sonra bayıldı.
+#FLASHCARD_02_NAME
+Beaux Kardeşler
+#FLASHCARD_02_DESC
+18 yaşındaki Sylvain Beaux ve küçük kardeşi Fabien, akşamlarını şık giyimli kadınları arayarak geçirirdi; bu kadınları karanlık sokak aralarına sürükleyip döver, soyarlardı. Genellikle mücevher çalarlardı. En az dokuz kurbanları olduğunu biliyoruz.
+#FLASHCARD_03_NAME
+Olivier Prêtre
+#FLASHCARD_03_DESC
+Tuz tüccarı Olivier Prêtre, tuzu tartmak için özel olarak hafifletilmiş boş ağırlıklar sipariş etti. Müşterileri her kilo tuzda 50 gram kaybediyordu. Sadece müşterilerini kandırmakla kalmıyor, aynı zamanda vergi kaçakçılığı da yapıyordu.
+#FLASHCARD_04_NAME
+Gérald Lucy
+#FLASHCARD_04_DESC
+70 yaşındaki Gérald Lucy, karısını bir fahişeyle aldattı. Üstelik arzularını yerine getirebilmek için 25 franka kedi kanından yapılmış bir iksir satın aldı. Sorgulamada şunları söyledi: "O kokuşmuş cadı bana büyü yapacağını söyledi. Ve işe yaradı, gidin o orospudan sorun."
+#FLASHCARD_05_NAME
+Nathan Popelin
+#FLASHCARD_05_DESC
+Place des Fédérés’deki fahişeleri yöneten Nathan Popelin, çalışanlarından birinin müşterisini acımasızca dövdü. Gözaltına alındıktan sonra, mağdurun “parasını ödemediği şeyler yaptığını” söyledi.
+#FLASHCARD_06_NAME
+Duret, Boisselot, Lebas
+#FLASHCARD_06_DESC
+Üç genç aristokrat – Maël Duret, Gilbert Boisselot ve Luc Lebas – kendilerini neredeyse bayıltana kadar içti. Sarhoş haldeyken taze bir mezarı kazıp bir mahkûmun cesedini çıkardılar, arabaya yükleyip Paris sokaklarında dolaştılar ve “Bakın, devrim uğruna başını kaybetmiş!” diye bağırdılar.
+#FLASHCARD_07_NAME
+Gaume, Charpe
+#FLASHCARD_07_DESC
+İki çavuş – Grégory Gaume ve Lucien Sharpe – askeri depolardan barut çalıyordu. Ellerine bir askeri geçiş izni geçtiğinde, çaldıklarını avcılara ve haydutlara satıyorlardı. Ordudan hırsızlık yapmak, Fransa’ya ihanettir!
+#FLASHCARD_08_NAME
+Albane Maurice
+#FLASHCARD_08_DESC
+Albane Maurice adında biri, balık tezgahında çalışan Blaise Cellier’i kalın bir sopayla dövdü. Tanıkların ifadesine göre, acımasız darbeler, bir sepet malı düşürdüğü için verilen bir cezaydı.
+#FLASHCARD_09_NAME
+René Galopin
+#FLASHCARD_09_DESC
+Belediye görevlisi René Galopin, bir un tüccarından pazarda iyi bir yer için rüşvet talep etti. Tüccarın kızı parayla geldiğinde, Galopin kapıyı kilitleyip ona zorla sahip oldu.
+#FLASHCARD_10_NAME
+Cédric Compère
+#FLASHCARD_10_DESC
+12 yaşındaki Cédric Compere, yoldan geçen bir kadına çarpıp elbisesini mahvetti. Çocuk bu durumu oldukça eğlenceli buldu. Ardından mağdurun kocası tarafından kovalandı. Yakalandığında ise, suçu olayla hiçbir ilgisi olmayan küçük arkadaşının üzerine atmaya çalıştı.
+#FLASHCARD_11_NAME
+Lucille Picard
+#FLASHCARD_11_DESC
+Bir kunduracının dul eşi Lucille Picard, alacak tahsil etmeye gelen birine şöyle demiş: “Eskiden insanın derisini yüzerlerdi ama en azından herkesin kafasını uçurmazlardı.” Adam ona eski günleri mi tercih ettiğini sorduğunda, iddiaya göre başını sallamış.
+#FLASHCARD_12_NAME
+Édouard Abadie
+#FLASHCARD_12_DESC
+Bir meyhaneci olan Édouard Abadie, sosislerine kuru çam iğnesi kattığı gerekçesiyle suçlanıyor. Gerçek, müşterilerinden Josselin Monteil’in garip bir tat fark etmesiyle ortaya çıktı. Öfkelenen meyhaneci, onu tabureden çekip dışarı attı.
+#FLASHCARD_13_NAME
+Matthieu Cousteau
+#FLASHCARD_13_DESC
+Marangoz Matthieu Cousteau, üç kapılı bir gardırop için ölçü almak üzere avukat Basile Lazard’ı ziyaret etti. Bu vesileyle büfenin içindekileri de inceledi ve elleri, tamamen tesadüfen, bir konyak şişesine uzandı.
+#FLASHCARD_14_NAME
+Hector Pierlot
+#FLASHCARD_14_DESC
+Bir değirmen sahibi olan Hector Pierlot, doyurucu bir akşam yemeğinden sonra hayatını kaybetti. Merhumun eşi, kocasının aşçıları Sébastien Chevotet tarafından zehirlendiğini düşünüyor. Pierlot, ölümünden birkaç gün önce Chevotet’in nişanlısıyla buluşmasını yasaklamıştı.
+#FLASHCARD_15_NAME
+Corinne Chardin
+#FLASHCARD_15_DESC
+Çamaşırcı Corinne Chardin, komşusu Théophile Portier’yi bir mutfak bıçağıyla öldürdü. Trajedi, Chardin’in dairesinde yaşandı. Chardin, Portier’nin önce kendisine saldırdığını iddia ediyor, ancak bunu kanıtlayacak ne bir tanık ne de bir delil var.
+#FLASHCARD_16_NAME
+Émilien Bazalgette
+#FLASHCARD_16_DESC
+Savaş gazisi ve dilenci Émilien Bazalgette, küçük bir kızı kendisiyle birlikte bir bodruma inmeye ikna etmeye çalışırken yakalandı. Ardından Muhafız’dan kaçmaya çalıştı ve yanlışlıkla arabaya koşulu bir atı ürküttü. Hayvan sokağa fırlayarak araca ciddi hasar verdi.
+#FLASHCARD_17_NAME
+Rapace, Bozonnet
+#FLASHCARD_17_DESC
+Lucas Rapace ve Bruno Bozonnet, Marquis de Rouvroy’nun evine girip uşağını bir sandalyeye bağladılar ve efendisinin altını nereye sakladığını söylemesi için saatlerce dövdüler. Konuşmayacağını anlayınca mutfaktan gümüş çatal bıçak takımlarını alıp kaçtılar.
+#FLASHCARD_18_NAME
+Paul Dubuisson
+#FLASHCARD_18_DESC
+Paul Dubuisson bir sahtekâr. İnsan kemiklerinden yaptığı bir karışımı, saç beyazlamasını tedavi edeceğini vaat ederek satarken yakalandı. Sözde panzehir, pigment kaybına karşı etkisiz kalmakla kalmadı, birçok kişide hastalık, ağrı ve kusmaya da yol açtı.
+#FLASHCARD_19_NAME
+Jean-Noël Pélissier
+#FLASHCARD_19_DESC
+Jean-Noël Pélissier, geçimini doktorlardan hırsızlık yaparak sağlıyordu. Paris’in çeşitli doktorlarından randevu alır, bekleme odalarına girer, her birinden önemsiz bir eşya çalar ve çıkardı. Çaldıklarını ise sokak pazarlarında yok pahasına satardı.
+#FLASHCARD_20_NAME
+Amaury Boudet
+#FLASHCARD_20_DESC
+Bir muhbirden aldığımız bilgiye göre, General Évrard Grandjean’ın damadı, École Militaire’de ikmal departmanının başına atandı. Boudet, General’in kızıyla tanışmadan önce şehir merkezindeki aile meyhanesinde ebeveynlerine yardım ediyordu.
+#FLASHCARD_21_NAME
+Philippe Rodier
+#FLASHCARD_21_DESC
+Philippe Rodier eve döndüğünde kızını sevgilisiyle, kendisinden birkaç yaş büyük bir asker olan Gaston Picard ile buldu. Öfkeden deliye dönen baba, adamı evinden kovmaya çalıştı. Aralarında arbede çıktı. Kız kavgayı ayırmaya çalışırken, kazara merdivenlerden itildi ve boynu kırıldı.
+#FLASHCARD_22_NAME
+Marki Jean-Louis Berthelot
+#FLASHCARD_22_DESC
+Marki Jean-Louis Berthelot, bir arkadaşının evinde kart oyununda kaybetmenin öfkesiyle kendi hizmetkârlarına saldırdı. Aşçının kulağını satırla kesti. Ona yardım etmeye çalışan uşağını ise döverek öldürdü.
+#FLASHCARD_23_NAME
+Barbier, Saunier, Duverger
+#FLASHCARD_23_DESC
+Üç genç — Martin Barbier, Théo Saunier ve Daniel Duverger — gece vakti bir fırına girdiler. Büyük bir un çuvalı çalıp, bunu daha sonra Les Halles’de satmaya çalıştılar. Ayrıca soygun sırasında bir pencerenin kırıldığını da belirtmek gerekir.
+#FLASHCARD_24_NAME
+Rémi Jacquemin
+#FLASHCARD_24_DESC
+Gelen raporlara göre, tüccar Rémi Jacquemin, rakiplerinin mallarını alıkoymaları için nehir limanının yöneticilerine rüşvet verdi. Böylece kendi ürünlerini daha yüksek fiyatlara satabildi. Parisliler onun suçunun bedelini ödemek zorunda kaldı.
+#FLASHCARD_25_NAME
+Delaplace, Micheaux
+#FLASHCARD_25_DESC
+İki ucuz fahişe, Marie-Laure Delaplace ve Yvette Micheaux, meslektaşları Lucille Joguet’ye saldırarak onu ağır şekilde yaraladı. İddiaya göre Joguet, onların müşterilerinden birini baştan çıkarmıştı. Yoldan geçenler, kurbanı karanlık bir sokakta buldu. Bilinci kapalıydı, kanlar içindeydi ve vücudu morluklarla doluydu. Saldırı sonucunda sol gözünü kaybetti.
+#FLASHCARD_26_NAME
+Olivia Moineau
+#FLASHCARD_26_DESC
+Hükümet dairesinde çalışan Olivia Moineau’nun, yeni müdürünün görevine uygun olmadığını komşularına söylediği iddia ediliyor. Hatta yeni yöneticilerin saf insanlara güvendiğini ve birinin bu işi düzene sokması gerektiğini bile söylemiş!
+#FLASHCARD_27_NAME
+Matthieu Besnard
+#FLASHCARD_27_DESC
+Matthieu Besnard, rue Saint-Martin’deki meyhanede dedikodu yapıyor, Luc Haillet’in karısıyla yaşadığı cinsel ilişkiyi dinlemek isteyen herkese anlatıyordu. Soruşturmacılar, büyük olasılıkla yalan söylediğini tespit etti.
+#FLASHCARD_28_NAME
+Marianne Garreau
+#FLASHCARD_28_DESC
+Marianne Garreau’nun küçük oğlu öldü – muhtemelen dövülmenin sonucu olarak. Oğlunu doktora getirdiğinde, doktorun yapabileceği tek şey ölümünü tespit edip Muhafızları çağırmak oldu. Olay sırasında çocuğun babasının nerede olduğu sorulduğunda ise şüpheli cevap vermeyi reddetti.
+#FLASHCARD_29_NAME
+René Boutin
+#FLASHCARD_29_DESC
+Belediye görevlisi Norbert Pasquier’nin aşçısı René Boutin, efendisinden sekiz kilo füme et çaldı. “Bir kısmını satmak, kalanını ise aileme götürmek istedim,” diye açıkladı sanık; suçu tereddütsüz kabul etti.
+#FLASHCARD_30_NAME
+Hugues Beaufils
+#FLASHCARD_30_DESC
+Dr. Hugues Beaufils, bir kasaba sakininin karısı tarafından uykusundan uyandırıldı—kadının kocası akşam yemeğinde hastalanmıştı. Doktor, kapıyı açmakta acele etmedi ve çok yorgun olduğu için hastayı görmeyi reddetti. Kadın başka bir doktor bulamadı ve kocası hayatını kaybetti.
+#FLASHCARD_31_NAME
+Geoffroy Loupe
+#FLASHCARD_31_DESC
+Baron Boudreaux’nun sandıklarından birine kilit takmakla görevlendirilen çilingir Geoffroy Loupe, işlem sırasında kakmalı kapağa zarar verdi. Baron, zararı inceledi ve onarımın 50 frank tutacağını belirtti. Loupe ise kapağın işe başlamadan önce zaten hasarlı olduğunu iddia ediyor.
+#FLASHCARD_32_NAME
+Antoine Raoult
+#FLASHCARD_32_DESC
+Er Antoine Raoult canı sıkıldığı için bir çubuk aldı ve karısının alışveriş yaptığı terzinin önündeki kuma zambak desenleri çizmeye başladı. O sırada bölgede devriye gezen Ulusal Muhafız’daki meslektaşları onu suçüstü yakaladı.
+#FLASHCARD_33_NAME
+Bethune, Geffroy, Droz
+#FLASHCARD_33_DESC
+Üç 15 yaşındaki çocuk — Solenne Bethune, Adèle Geffroy ve Bernard Droz — Faubourg-du-Nord Bölgesi'ndeki bir apartmanın bodrumunda ruh çağırma ayini yapıyordu. Kullandıkları mumlar çalıntıydı. Tören, hademe tarafından yarıda kesildi.
+#FLASHCARD_34_NAME
+Marie-José Dumont
+#FLASHCARD_34_DESC
+16 yaşındaki Marie-José Dumont, sokak pazarından iki kilo soğan aldı ama yalnızca bir kilo için ödeme yaptı. Kız bir sonraki sefer pazara geldiğinde, tezgâh sahibi onu en yakın karakola götürdü.
+#FLASHCARD_35_NAME
+Michel Loup
+#FLASHCARD_35_DESC
+Fransa'nın kuzeyine yapılan bir ticaret ziyareti sırasında, Mickaël Loup'un Rouen'de bir gecekondu işleten dul Boissonade ile cinsel ilişkiye girdiği iddia edildi. Şikâyet, sanığın eşi tarafından yapıldı. İddia herhangi bir delille desteklenmedi.
+#FLASHCARD_36_NAME
+Théophile, Cerfbeer
+#FLASHCARD_36_DESC
+Aimée Martin, Théophile ve Éloi Cerfbeer kardeşleri bir dansta kendisine tecavüz etmekle suçladı. İddiaya göre, onu Seine Nehri kıyısına sürükleyip çalılıklarda zorla birlikte oldular. Olayın tanığına rastlanmadı.
+#FLASHCARD_37_NAME
+Amand Peletier
+#FLASHCARD_37_DESC
+Ulusal Muhafız askeri Amand Peletier, devriye sırasında nehir kenarındaki bir hana uğramak için mola verdi. Yerel halk, onun koyu renkli yabancı bir bira içtiğine tanık oldu. Han sahibi, Peletier’in bedava içki istediğini ve aksi takdirde “başının belaya gireceği” tehdidinde bulunduğunu ifade etti.
+#FLASHCARD_38_NAME
+Hippolyte Rouanet
+#FLASHCARD_38_DESC
+68 yaşındaki Hippolyte Rouanet uzun süredir komşularını rahatsız ediyordu. Geçtiğimiz günlerde, aynı binada yaşayan bir grup çocuğun üzerine köpeklerini saldı. Bu bardağı taşıran son damla oldu – çocukların aileleri onu saldırıyla suçlamaya karar verdi.
+#FLASHCARD_39_NAME
+Denise Asselin
+#FLASHCARD_39_DESC
+Yaşlı Denise Asselin, eski bir fahişe, küçük dairesinde bir genelev işletiyor. Taşradan gelen dört genç kız, iki odada dönüşümlü olarak çalışıyordu. Soruşturma sırasında, Asselin’in onlara gecelik yalnızca birkaç frank ödediğinden ve kötü beslendiklerinden şikayet ettiler.
+#FLASHCARD_40_NAME
+Fabien Brasseur
+#FLASHCARD_40_DESC
+Hugo Cerf, komşusu Fabien Brasseur’u ortak bahçelerindeki bir kulübeye izinsiz girmekle suçladı. Gözaltına alındığında Brasseur, kulübenin herkese ait olduğunu ve Cerf’in onu haksız yere kilitlediğini iddia etti. Soruşturmacılar diğer sakinlere kulübenin kime ait olduğunu sordular, fakat kimse bunu bilmediğini söyledi.
+#FLASHCARD_41_NAME
+Mathieu Rossignol
+#FLASHCARD_41_DESC
+Mathieu Rossignol, bir kumaş tüccarı, Sainte-Chapelle yakınındaki bir restoranda yemek yerken garson Florian Boisselot yanlışlıkla üzerine sos döktü. Rossignol’ün ipek gömleği mahvoldu.
+#FLASHCARD_42_NAME
+Lucien Ponce
+#FLASHCARD_42_DESC
+Suzanne Ponce, garnizon hekimi olan kocası Lucien ile akşam yemeğinden sonra hayatını kaybetti. Olaydan birkaç gün önce Lucien’in eşini açıkça şüpheli bir durumda… ve pozisyonda yakaladığı ortaya çıktı.
+#FLASHCARD_43_NAME
+De Guignes, Joubert, Charbonnier, Vigouroux
+#FLASHCARD_43_DESC
+Asil kökenlere sahip dört suçlu — De Guignes, Joubert, Charbonnier ve Vigouroux — gece vakti bir karakolun önünde nöbet tutan askerlere saldırdı. Ardından karakola girip binayı ateşe verdiler ve kaçtılar. Bu suçun siyasi olduğuna hiç şüphe yok.
+#FLASHCARD_44_NAME
+Lionel Bettencourt
+#FLASHCARD_44_DESC
+Tek atlı bir faytonu satarken, Lionel Bettencourt aracın alt kısmının ihmal ve çürüme yüzünden çürüdüğünü gizledi. Talihsiz alıcı parasını geri istedi, ama “O herif kapıyı yüzüme çarptı!”
+#FLASHCARD_45_NAME
+Émile Berlioz
+#FLASHCARD_45_DESC
+22 yaşındaki vikont Milo Berlioz, gündüz vakti tabancasını çekip, arası bozuk olan sevgilisinin kardeşini vurmayı denedi. Kurşun hedefini ıskaladı ve bir evin duvarına saplandı. Genç aristokrat, ardından vurmak istediği kişi tarafından yakalandı.
+#FLASHCARD_46_NAME
+Gaël Camille
+#FLASHCARD_46_DESC
+Askeri levazım subayları, cephede ihtiyaç duyulan mallara el koymak için bir nehir limanına geldiklerinde, tüccarlardan biri diğerlerini kışkırtmaya başladı. Gaël Camille limanda koşuşturup bağırıyordu. Neyse ki, yeterince asker vardı da durum kontrol altına alındı.
+#FLASHCARD_47_NAME
+Marthe Cuvillier
+#FLASHCARD_47_DESC
+56 yaşındaki Marthe Cuvillier, yoldan geçerken etrafına bakmadı ve hareket halindeki bir arabanın tam önünden yürüdü. Araç, şarap fıçıları taşıyordu. Sürücü, bir felaketi önlemek için ani bir manevra yapmak zorunda kaldı ve bu yüzden birkaç fıçı arabadan düşüp kırıldı. Meyhaneci, şarabın en yüksek kalitede ve çok pahalı olduğunu iddia etti.
+#FLASHCARD_48_NAME
+Abélard Delafose
+#FLASHCARD_48_DESC
+Gaëtan Barthet, Abélard Delafose’a Paris’te dolaşıp, bir kimyagerin çam kabuğundan şeker üreten bir formül geliştirdiğine dair asılsız söylentiler yaymasını emretti. Böylece Barthet, Paris’in güneyindeki bir çam ormanı bölümünü fahiş bir fiyata satmayı başardı.
+#FLASHCARD_49_NAME
+Séverin Lebas
+#FLASHCARD_49_DESC
+Sarhoş Séverin Lebas, eve giderken kestirme olsun diye tüccar Carbonneau’ya ait deponun etrafındaki çitin üzerinden atladı. Bölgeyi koruyan köpekler davetsiz misafiri kovaladı. Lebas, bir mal yığınının üzerinden atlayıp birkaç sebze sandığını devirdi.
+#FLASHCARD_50_NAME
+Tobie Vallotton
+#FLASHCARD_50_DESC
+Mahallesinde kötü şöhretiyle tanınan Tobie Vallotton, eski metresine kendi dairesinde önce tecavüz etti, ardından onu öldürdü. Cesedi, olay sırasında birkaç sokak ötede arkadaşlarıyla şarap içen kadının şimdiki sevgilisi buldu.
+#FLASHCARD_51_NAME
+Jean-Baptiste Lecerf
+#FLASHCARD_51_DESC
+Jean-Baptiste Lecerf, Séverin Saunier tarafından soyuldu. Sanık, Saunier için çalışan bir fahişeyi ona getirdi. Daire sahibi kızla meşgulken, Saunier geri dönüp çalışma odasının kilidini kırdı ve birkaç yüz frank nakit parayı çaldı.
+#FLASHCARD_52_NAME
+Deniau, Gaume, Besnard, Delcroix
+#FLASHCARD_52_DESC
+Bir grup kadın, çeşmeden su almak için sırada beklerken tartışmaya başladı. Tartışma kısa sürede kavgaya dönüştü. Kavgaya karışanlar Deniau, Gaume, Besnard ve Delcroix’tı. Sonuncusunun yere düşürülüp feci şekilde tekmelendiği iddia ediliyor.
+#FLASHCARD_53_NAME
+Godefroy Ouvrard
+#FLASHCARD_53_DESC
+Genç zanaatkâr Godefroy Ouvrard, Bay ve Bayan Auberjonois’nin evinde birkaç küçük tamirat yaptıktan sonra ev sahibesiyle cinsel ilişkiye girdi. Bay Auberjonois o sırada evde değildi. Evi terk ederken Ouvrard bir dolma kalem ve altın bir madalyon çaldı. Her iki sevgilinin de cezalandırılmasını talep ediyoruz.
+#FLASHCARD_54_NAME
+Claude Ducharme
+#FLASHCARD_54_DESC
+Üst düzey bir posta memuru, çalışma arkadaşlarının ifadelerine göre birkaç bin frankı tütün ve konyak için harcamış. Elbette parayı postaneden çalmış.
+#FLASHCARD_55_NAME
+Thomas Levasseur
+#FLASHCARD_55_DESC
+Kırsal bir aristokrat olan Thomas Levasseur, terzi Jean-Yves Noir’a 13 pantolonun ücretini ödememekle kamuoyunda haksız yere suçlandı. Suçlamalara karşı kendini savunan Levasseur, pantolonların bedelini gerçekten ödediğini kanıtlayan makbuzları sundu.
+#FLASHCARD_56_NAME
+Frédéric Bessette
+#FLASHCARD_56_DESC
+İçişleri Bakanlığı bölümlerinden birinin müdürü, küçük kardeşini sekreteryanın başına atadı. Dahası, Frédéric Bessette ona mesleki başarıları için düzenli olarak prim ödüyor. İlginçtir ki, diğer memurlar küçük Bessette’i hiç görmediklerini söylüyorlar.
+#FLASHCARD_57_NAME
+Louis Dolbeau
+#FLASHCARD_57_DESC
+Ulusal Muhafız Teğmeni Louis Dolbeau, Gauthier Dufresne’den rüşvet olarak bir altın saat kabul etti. Dufresne ise Paris’te sarhoş halde dolaşırken tartıştığı bir başka arabacıya saldırdığı için tutuklandı.
+#FLASHCARD_58_NAME
+Félicité Marais
+#FLASHCARD_58_DESC
+Aşçı Félicité Marais, işverenini – General Trintignant’ı – zehirlemesi için kendisine para teklif eden bir Avusturyalı ajandan parayı kabul etti. Görevi yerine getirmekle kalmadı, daha da ileri gitti: hazırladığı pateye zehir kattı ve yalnızca generali değil, aynı zamanda onun eşini, küçük oğlunu ve gelinini de öldürdü.
+#FLASHCARD_59_NAME
+Charles Renou
+#FLASHCARD_59_DESC
+Jean-Pierre Renou, kendi kardeşi Charles Renou’yu, babalarına ait hatıra madalyalarını çalmakla suçladı. Her iki adamın da dairesi titizlikle arandı, ancak madalyalara rastlanmadı. Suçlanan kişi, herhangi bir sorumluluğu olduğunu reddediyor.
+#FLASHCARD_60_NAME
+Loup Didier
+#FLASHCARD_60_DESC
+Yedi yaşındaki bir çocuğun, Loup Didier adlı Mont-Blanc Bölgesi’nden bir vikaryusun ifadesine göre, rahip onu çan kulesinde yardım etmeye çağırmış. Çocuk geldiğinde ise, rahip hakkında burada ayrıntıya girmek istemediğimiz ahlaksız eylemlerde bulunmuş. Ailesi en ağır cezanın verilmesini talep ediyor.
+#FLASHCARD_61_NAME
+Jean-Charles Bernier
+#FLASHCARD_61_DESC
+Ulusal Konvansiyonu destekleyen bir yürüyüş sırasında, Jean-Charles Bernier Devrim Meydanı’nın köşesinde duruyordu. Tanıklar ve Muhafız üyeleri, onun “Güneş Kral geri dönecek” diye bağırdığını doğruladı. Yoruma gerek yok.
+#FLASHCARD_62_NAME
+Grégoire Beaubois
+#FLASHCARD_62_DESC
+Kral III. George’un elçisi olduğuna iki yaşlı kontesi inandıran Grégoire Beaubois, kadınları on iki bin franktan fazla para ödemeye kandırdı. Adam bir sahtekâr olmasına rağmen, kontesler Fransa’daki bir monarşist ajana destek verdiklerine inanıyorlardı.
+#FLASHCARD_63_NAME
+Renaud Fouquet
+#FLASHCARD_63_DESC
+Renaud Fouquet, dört varil kuru tütünü Paris’e gümrük vergisi ödemeden sokmaya çalıştı. Bunun için sahte tabanlı özel variller kullandı. İlk bakışta variller tamamen lahana dolu gibi görünüyordu.
+#FLASHCARD_64_NAME
+Bastien LeMahieu
+#FLASHCARD_64_DESC
+Bastien LeMahieu, bir kaçak avcı, Paris’in doğusundaki ormanda avlanırken bölgede atıyla dolaşan Vikont Barreau’yu neredeyse vuruyordu. LeMahieu, soruşturmayı yürütenlere atı bir geyik sanarak ateş ettiğini söyledi.
+#FLASHCARD_65_NAME
+Porthos Poullain
+#FLASHCARD_65_DESC
+Usta bir ressam olan Porthos Poullain, ünlü tabloları taklit eder ve saf müşterilere yüksek fiyatlarla satardı. Çıraklarından biri zam isteyip sırrı açığa çıkarmakla tehdit edince, Poullain bu kişiyi ortadan kaldırması için Yves Jeannin adında birini tuttu.
+#FLASHCARD_66_NAME
+Golay ve Lagace
+#FLASHCARD_66_DESC
+İki genç adam, Konvansiyon Üyesi Rémy Crozier’in evinin pencerelerine taş atarken görüldü ve camları kırdılar. Taşlar, Crozier’in çocuklarının oynadığı odaya isabet etti. Neyse ki çocuklara bir zarar gelmedi.
+#FLASHCARD_67_NAME
+Arnaud Rousselot
+#FLASHCARD_67_DESC
+Ulusal Muhafız’dan iki asker, Jean-Pascal Demaret ve Bastien Pierrat, Arnaud Rousselot’nun evine müdahale etmek zorunda kaldı. Adam, oğlunu dövmüş ve bir askere bıçakla saldırmış. Bu nedenle kendisini darp ve saldırı ile suçluyoruz.
+#FLASHCARD_68_NAME
+Joël Brian
+#FLASHCARD_68_DESC
+Joël Brian, pazarda 16 ayı postu ve 128 samur kürkü satın aldı. Sanık bunu inkâr etse de biz – bir grup tüccarla birlikte – onun fiyatlar üzerinden spekülasyon yapıp Paris yurttaşlarının sırtından zenginleşmek istediğinden eminiz.
+#FLASHCARD_69_NAME
+Honorine Cailloux
+#FLASHCARD_69_DESC
+52 yaşındaki Honorine Cailloux, 80’i geçmiş annesini düzenli olarak dövüyordu. Yaşlı kadının üzerine soğuk su döküyor, ardından kızgın bir demirle yakıyordu. Ayrıca annesinin evinden çeşitli eşyalar çalıp sattığını da öğrendik. Elde ettiği parayla kendine şarap ve laudanum alıyordu.
+#FLASHCARD_70_NAME
+Mathis Bouhier
+#FLASHCARD_70_DESC
+Sarhoş Mathis Bouhier, Muhafız subayını sekiz frankla rüşvet vermeye çalıştı. Kont Bouhier’in oğlu, gece geç saatlerde Paris sokaklarında dolaşırken kapıları yumruklayıp yüksek sesle şarkılar söyleyerek insanları uyandırırken yakalandı.
+#FLASHCARD_71_NAME
+Paulette Pernet
+#FLASHCARD_71_DESC
+Paulette Pernet’in, komşusu Adrienne Escoffier’in çamaşırlarını çaldığı iddia ediliyor. Kıyafetler avluda kurutuluyordu. Suçlanan kişinin dairesi arandığında, araştırmacılar Escoffier tarafından hemen teşhis edilen çarşaflar buldu; ancak Pernet suçunu kabul etmiyor.
+#FLASHCARD_72_NAME
+Ignace Lefeuvre
+#FLASHCARD_72_DESC
+Ignace Lefeuvre, arabasını çeken atın kontrolünü kaybetti. Araba kayarak yoldan geçen bir grup insanın arasına daldı. İki kişi olay yerinde hayatını kaybetti, birkaç kişi ise hastaneye kaldırıldı. Lefeuvre ayıktı ve yaralılara ilk yardım eden kişi oldu.
+#FLASHCARD_73_NAME
+Jean-Marc Massé
+#FLASHCARD_73_DESC
+Doktor Jean-Marc Massé, ateşi olan 70 yaşındaki bir hastaya çağrıldı. Hekim, hastaya kan alma işlemi uygulayacaktı. Hasta tedavi sırasında hayatını kaybetti. Şimdi ailesi, Massé’yi cinayetle suçluyor.
+#FLASHCARD_74_NAME
+Yvon Poullain
+#FLASHCARD_74_DESC
+Evli bir fırıncı olan Yvon Poullain, genç sevgilisiyle yatakta sevgilisinin babası tarafından yakalandı. Poullain, pencereden komşu evin çatısına atlayarak kaçtı ve birkaç kiremit kırdı. Açılan delik o kadar büyüktü ki, yağmur tavan arasında saklanan birkaç eşyayı mahvetti.
+#FLASHCARD_75_NAME
+Marie-Paule Jacquard
+#FLASHCARD_75_DESC
+Louvre’da uşak olarak çalışan birinin dul eşi Marie-Paule Jacquard, büyük miktarda barut satın almak istedi. Sorgu sırasında, Belediye Binası’nı havaya uçurmayı planladığını itiraf etti.
+#FLASHCARD_76_NAME
+Joseph Compere
+#FLASHCARD_76_DESC
+Gece geç saatlerde Joseph Compere, küçük kasap dükkanında saldırıya uğradı. Compere, satırıyla öyle ustaca karşılık verdi ki saldırgan birkaç sokak ötede kan kaybından öldü. Compere, yaşananları yetkililere bildirmedi. Muhafızlar, tanıkları sorguladıktan sonra onu buldu.
+#FLASHCARD_77_NAME
+Michelle Ménard
+#FLASHCARD_77_DESC
+Raporlardan öğrendiğimize göre, yurttaş Michelle Ménard, bir posta çalışanı olarak başkalarının mektuplarını açıp okumuş. Dairesinde kayda değer miktarda para bulduk – mütevazı maaşıyla bu kadarını biriktirmesi imkânsız. Bu, yabancı ajanlarla iş birliği yaptığının açık bir kanıtıdır.
+#FLASHCARD_78_NAME
+Maximilien Crépin
+#FLASHCARD_78_DESC
+Karşı-Devrimci faaliyetlerden hüküm giymiş bir aristokratın oğlu olan Maximilien Crépin, babasının infazını engellemeye çalıştı ve kalabalığı Muhafızlara saldırmaya kışkırttı. Ayrıca şöyle bağırdı: “Kral bir piçti ama en azından rastgele insanları kafasız bırakmıyordu!”
+#FLASHCARD_79_NAME
+Pierre-Antoine Chuquet
+#FLASHCARD_79_DESC
+Ressam Pierre-Antoine Chuquet, belediye mezarlığının yöneticisi Able Cochet’ye, rastgele seçilmiş bir cesedi kazıp stüdyosuna götürmek için izin almak amacıyla ödeme yaptı. Görünüşe göre Chuquet, tabloya “poz vermesi” için bu bedene ihtiyaç duyuyordu.
+#FLASHCARD_80_NAME
+Fouquet, Rigal, Cellier ve Boissonade
+#FLASHCARD_80_DESC
+Gece geç saatlerde dört genç — Fouquet, Rigal, Cellier ve Boissonade — bir kuyunun kapağını kaldırıp içine şaka olsun diye dışkıladılar. Onları yakalayan bekçi, çocukların bundan önce bir kediyi kuyuya atıp boğmaya çalıştıklarını ifade etti. Neyse ki hayvan kaçmayı başarmış.
+#FLASHCARD_81_NAME
+Boutet ve Abbadie
+#FLASHCARD_81_DESC
+Noël Boutet ve Marius Abbadie, diğer çocuklarla birlikte bahçede savaş oyunu oynuyor ve, aynen aktarıyoruz, “Kral’ın muhafızları” olduklarını hayal ediyorlardı. Komşulardan biri Muhafız’a haber verdi. Askerler olay yerine vardığında, çocuklar eski sandıklardan Bastille’i inşa ediyordu – Boutet ve Abbadie ise onu savunmaya hazırlanıyordu!
+#FLASHCARD_82_NAME
+Anita Lemaître
+#FLASHCARD_82_DESC
+Bir yetimhanenin yöneticisi olan Anita Lemaître, çocuklara cinsel istismarda bulunmaları için erkeklerden para aldı. Bir baskın sırasında askerler üç sapığı suçüstü yakaladı, ancak ne yazık ki bu kişiler kaçmayı başarıp cezadan kurtuldular.
+#FLASHCARD_83_NAME
+Marine Dupont
+#FLASHCARD_83_DESC
+Paris’in merkezindeki bir genelevin sahibi olan Marine Dupont, müşterilerini düzenli olarak kandırıyordu. İsimsiz bir muhbirin bildirdiğine göre, Dupont erkeklerin fahişelerle geçirdiği zamanı ölçmek için özel kum saatleri kullanıyordu. Ancak bu kum saatleri zamanı doğru ölçmüyordu.
+#FLASHCARD_84_NAME
+Nathanaël Boulet
+#FLASHCARD_84_DESC
+Bir marangoz olan Nathanaël Boulet, bir fabrika işçisi olan Marie-Claude Adnet’i danstan sonra evine kadar eşlik etti. Adnet’in açık itirazlarına rağmen, iddiaya göre dairesine girip ona tecavüz etti.
+#FLASHCARD_85_NAME
+Roger Boissieu
+#FLASHCARD_85_DESC
+Roger Boissieu ordudan firar etti ve Paris’e kaçtı; burada sarhoşluk ve kavga yüzünden Muhafızlar tarafından tutuklandı. Soruşturmacılar, onun başkomutanıyla iletişime geçti. Boissieu’nun bir silah arkadaşını öldürmekle suçlandığı ortaya çıktı. Büyük olasılıkla bu yüzden kaçmıştı.
+#FLASHCARD_86_NAME
+Edgar ve Sylvie Blanchet
+#FLASHCARD_86_DESC
+Edgar Blanchet ve eşi Sylvie'nin düzenli olarak hanları ve mahzenleri soydukları, ayrıca sokakta birkaç kişiye saldırdıkları ortaya çıktı. Bir şarap imalathanesinden dışarı atladıklarında, kolları çalıntı şaraplarla dolu halde bir Muhafız devriyesinin kucağına yakalandılar.
+#FLASHCARD_87_NAME
+Arnaud Deshaies
+#FLASHCARD_87_DESC
+Arnaud Deshaies, 68 yaşında, karısını öldürdü ve izlerini gizlemek için birlikte yaşadıkları apartmanı ateşe verdi. Yangında sekiz kişi hayatını kaybetti, 16 kişi ise yaralandı. Sanık, karısını neden öldürmek istediğini açıklamayı reddetti.
+#FLASHCARD_88_NAME
+Deshaies ve Saunier
+#FLASHCARD_88_DESC
+Robert Deshaies, birkaç zengin Parislinin dairesine zorla girdi. Ardından suç ortağı Léonard Saunier, onları ziyaret edip kapılarına yeni kilitler takmayı teklif etti. Ne kârlı bir iş!
+#FLASHCARD_89_NAME
+Jean Côté
+#FLASHCARD_89_DESC
+Anayasal bir rahip olan Jean Côté, Devrim için ayrılmış altını eritip satarken yakalandı. Onu genelevlere giderken ve içki içerken gören tanıklar bulduk. Rahibin devletin parasıyla keyif sürdüğünden şüpheleniyoruz.
+#FLASHCARD_90_NAME
+Paul Malet
+#FLASHCARD_90_DESC
+Keman virtüözü Paul Malet, rakip bir müzisyene saldırdı. Malet, kemancının performansından sonra onu sokakta pusuya düşürdü, arkadan saldırdı ve copla acımasızca dövdü. Saldırganın özellikle rakibinin parmaklarına karşı zalimce davrandığını bildirebiliriz – yedi parmağını kırdı.
+#FLASHCARD_91_NAME
+Michel Popelin
+#FLASHCARD_91_DESC
+Mickaël Popelin, Ulusal Konvansiyon’un kaleminde amcası Blaise Popelin’in aracılığıyla görev aldı. Kariyerinde yükselmek için, müdürü hakkında onun gizlice Monarşistleri desteklediğine dair söylentiler yaydı.
+#FLASHCARD_92_NAME
+Flore Favre
+#FLASHCARD_92_DESC
+On yedi yaşındaki garson Flore Favre, bir meslektaşıyla kavga etti. Bildiğimiz kadarıyla bir arbede yaşandı ve Favre, Claudine Martin’in yüzünde bir bardağı kırdı. Mağdur, bu yaraların izlerinden asla kurtulamayacağını iddia ediyor.
+#FLASHCARD_93_NAME
+Jean-Luc Mesny
+#FLASHCARD_93_DESC
+Saraç Jean-Luc Mesny, ekmek fiyatlarının artışına karşı düzenlenen protestolara katıldı. Muhafızlara taş attığı ve başkalarını da kendisine katılmaya teşvik ettiği görüldü. Attığı taşlardan biri, yakında duran 7 yaşındaki bir çocuğa isabet etti. Çocuk hayatını kaybetti.
+#FLASHCARD_94_NAME
+Amaury Jaccoud
+#FLASHCARD_94_DESC
+Amaury Jaccoud, akşam geç saatlerde Paris sokaklarında atıyla dolaşıyordu. Bir Muhafız devriyesi, neredeyse eyerde duramayacak kadar sallandığını fark etti. Meğerse sarhoşun tekiymiş. At ürkseydi, Jaccoud onu sakinleştiremezdi.
+#FLASHCARD_95_NAME
+Verninac, Chéron ve Trémaux
+#FLASHCARD_95_DESC
+İsimsiz bir muhbir sayesinde, Carla Verninac, Cécile Chéron ve Martin Trémaux’nun kötü ruhları yeni otoriteyi devirmeye ikna etmeye çalıştıklarını ortaya çıkardık. Evlerinde bulunan şüpheli eşyalar arasında bilinmeyen dillerde yazılmış kitaplar ve çeşitli tuhaf maddeler içeren şişeler ile kavanozlar vardı.
+#FLASHCARD_96_NAME
+Cédric Barnier
+#FLASHCARD_96_DESC
+Tüccar Cédric Barnier, kırsaldaki tedarikçisini ziyaret etti ve arabasına ödemediği fazladan dört çuval un yükledi. Bu, basit bir hata olamazdı – kasıtlı bir hırsızlıktı.
+#FLASHCARD_97_NAME
+Auguste Raoult
+#FLASHCARD_97_DESC
+Ev içi bir tartışma sırasında, 40 yaşındaki Auguste Raoult öfkesine yenik düştü. Ablasına saldırdı. Anneleri araya girmeye çalışınca bir tava alıp yaşlı kadının başına vurdu. Kadın bayıldı ve birkaç saat sonra hayatını kaybetti.
+#FLASHCARD_98_NAME
+Jacques Gavreau
+#FLASHCARD_98_DESC
+İnşaat işçisi Jacques Gavreau, aletlerinin çalınmaya çalışıldığını gördü. Hırsız Jean Gouin’i yakalayıp bir kürekle dövdü. Gavreau’nun iş arkadaşları, araya girmeselerdi suçlunun öldürüleceğini söylüyor.
+#FLASHCARD_99_NAME
+Leroux ve Pasquier
+#FLASHCARD_99_DESC
+Doğal kürk hayvanları yetiştirip kesen Gilbert Leroux, Doğu Avrupa’dan ithal edilen kürkler için gümrük vergisinin artırılması yönünde meslektaşlarını ikna etmesi karşılığında, milletvekili Gaëtan Pasquier’ye yüklü bir miktar para ödedi.
+#FLASHCARD_100_NAME
+Marcel Lucy
+#FLASHCARD_100_DESC
+Marcel Lucy, soymak istediği bir dairenin kapısını kırarak içeri girdi. Dairenin sahibi o sırada Paris’te değildi. Hırsız hiçbir şey çalamadı; çünkü alarma geçen komşular daireye girip, o daha yatak odasında ganimet ararken onu etkisiz hale getirdiler.
+#FLASHCARD_101_NAME
+Bernadette Gauthier
+#FLASHCARD_101_DESC
+Muhafız subayının genç eşi Bernadette Gauthier, uşaklarının 14 yaşındaki oğluyla yatakta yakalandı. Neyse ki aldatılan koca Jean-Jacques Gauthier, öfkesine yenik düşmeyip yalnızca sadakatsiz eşini ve sevgilisini tutuklamakla yetindi.
+#FLASHCARD_102_NAME
+Gérald Carpentier
+#FLASHCARD_102_DESC
+Kasap Gérald Carpentier’in sosislerine ve pişmiş etlerine at eti kattığı ortaya çıktı. Eti ucuza yerel çiftçilerden satın alıyordu. Şimdiye kadar gıda zehirlenmesi vakası bildirilmedi, ancak bunun sadece bir zaman meselesi olduğuna inanıyoruz.
+#FLASHCARD_103_NAME
+Martine Sartre
+#FLASHCARD_103_DESC
+Martine Sartre, bir fahişe olarak, yüksek rütbeli Muhafız subaylarının yanı sıra, daha önce idama mahkûm ettiğimiz en az bir İngiliz ajanına da hizmet ediyordu. Onunla yatağa girdiğinde, askeri sırları fısıldaması için kendisine para ödendiğinden eminiz.
+#FLASHCARD_104_NAME
+Léopold LeBeau
+#FLASHCARD_104_DESC
+Léopold LeBeau, şehrin nemini ve kötü kokusunu azalttığı iddia edilen “egzotik taşlar” satıyordu. Müşterilerinin çoğu yaşlı insanlardı. Taşlar son derece pahalıydı, ancak kısa bir inceleme bile bunların sıradan nehir çakılları olduğunu ortaya çıkardı.
+#FLASHCARD_105_NAME
+Gaëtan ve Lucie Guilloux
+#FLASHCARD_105_DESC
+Restoran işletmecileri Gaëtan ve Lucie Guilloux, müşterilerine düşük kaliteli domuz eti sunup bunu antrikot diye yalan söyledikleri için yakalandı. Domuz etinin tadını gizlemek için bolca ucuz baharat ve sos kullandılar.
+#FLASHCARD_106_NAME
+Paul ve Gustave de Guignes
+#FLASHCARD_106_DESC
+Paul ve Gustave de Guignes, küçük kız kardeşlerini kendi bedenini satmaya zorladılar. Kazandığı parayı ise büyük miktarlarda afyon almak için harcadıklarını kesin olarak biliyoruz.
+#FLASHCARD_107_NAME
+Pierre Jauffret
+#FLASHCARD_107_DESC
+Adamları savaşa hazırlanırken, General Pierre Jauffret metresinin çadırını ziyaret etti. Belirtmek gerekir ki, ikisi cinsel ilişki sırasında yakalandı ve etrafları, savaş zamanında subayların bile ulaşamayacağı kadar nadir lezzetlerle çevriliydi.
+#FLASHCARD_108_NAME
+Hubert Bernier
+#FLASHCARD_108_DESC
+Hubert Bernier, mahalledeki herkese Muhafız birliğinin kardeşini haksız yere dövdüğünü anlatmış. Ancak araştırmalarımız sonucunda, Pierre Bernier’nin askerlere saldırdığı ve onların sadece kendilerini savundukları ortaya çıktı. Ayrıca suçlunun zaten cezalandırıldığını da öğrendik.
+#FLASHCARD_109_NAME
+Aubin Massé
+#FLASHCARD_109_DESC
+Aubin Massé, bir çatışmanın ortasında topçu birliğini terk edip ormana kaçtı. Bir süre sonra pişmanlık içinde geri döndü ve zincirlerle karşılandı. Sanık, mermiler yakına düşmeye başlayınca paniğe kapıldığını söyledi. Diğer topçular ise çatışma boyunca mevzilerinde kaldı.
+#FLASHCARD_110_NAME
+Hubert Ardouin
+#FLASHCARD_110_DESC
+Hubert Ardouin, sarhoşken karıştığı bir kavgada Rémy Abbadie’yi öldürdü; Abbadie’nin başını masanın köşesine çarptı. Yaptığını fark edince, yoldan geçen bir arabayı kaçırıp kaçmaya çalıştı. Neyse ki, aşırı sarhoş olduğu için arabayı düzgün süremedi ve kısa süre sonra tekerleklerden biri çıktı; bu da yakalanmasını sağladı.
+#FLASHCARD_111_NAME
+Antoine Bessette
+#FLASHCARD_111_DESC
+Antoine Bessett, sırtına iki tahta sopa bağlayıp etrafta koşarken görülmüş. Canavarları katletmekten bahsederek bağırıyormuş. Birkaç tüccar, bir demirci ve iki su taşıyıcısı yaralandı.
+#FLASHCARD_112_NAME
+Barnabé Daigre
+#FLASHCARD_112_DESC
+Muhafız subayı Barnabé Daigre, pastacıdan dolu bir sandık çörek çalan hırsızın peşine düşmeyi reddetti. Daigre, gençliğinde dizine bir ok isabet ettiğini söyleyerek kendini savundu.
+#FLASHCARD_113_NAME
+Corin Faivre
+#FLASHCARD_113_DESC
+Genç Corin Faivre, bir pazar tezgâhını tahrip etmekle suçlanıyor. Çocuk, çatının üzerinden saman yüklü bir arabaya atlamaya çalışmış. Iska geçip, tüccar Geudre’ye ait tezgâhın üstüne düşmüş. Corin kolunu ve iki bacağını kırmış.
+#FLASHCARD_114_NAME
+Jean-Marie Pollard
+#FLASHCARD_114_DESC
+Tüccar Jean-Marie Pollard, dolandırıcılıkla suçlanıyor. Adrienne Guillet ondan arızalı bir kahve değirmeni satın aldı. Arızalı ürünü iade etmek istediğinde, tüccar ona değirmeni daha hızlı, daha verimli ve... gerçekten çalışır hale getirecek dokuz küçük parça satmayı teklif etti.
+#FLASHCARD_115_NAME
+Blaise Hamelin
+#FLASHCARD_115_DESC
+Blaise Hamelin bir tüccarı soymaya kalkıştı. Hamelin, mağdurun başına bir kova geçirip, soyulduğunu fark etmemesini umdu.
+#FLASHCARD_116_NAME
+Julien Lardy
+#FLASHCARD_116_DESC
+Vikaryus Julien Lardy’nin sokakta kart oynayan üç çocuğu dövdüğü görüldü. Sanık, çocukların “savaş” oynadığını ve bu oyunun şiddeti teşvik ettiğini iddia ediyor.
+#FLASHCARD_117_NAME
+Abel Clouthier
+#FLASHCARD_117_DESC
+Ahşap oyuncaklar üreten zanaatkâr Abel Clouthier, metal bir çubukla Charles Ducré’ye saldırdı. Mağdur, onun ürünlerini satan biriydi. Suçun nedeni büyük olasılıkla Clouthier’nin, Ducré’nin satış çabalarını yetersiz bulmasıydı. Sonunda onu yaralamaya ve dükkânını ateşe vermeye karar verdi.
+#FLASHCARD_118_NAME
+Francis Alard
+#FLASHCARD_118_DESC
+72 yaşındaki Francis Alard, neredeyse sarhoşluktan koltukta zor durmasına rağmen, Viroflay sokaklarında neşeyle arabasını sürüyordu. Komşuları tarafından durduruldu; onlar, Alard’ın torunlarının da arabada yolcu olduğunu ve az kalsın bir felaket yaşanabileceğini ifade ettiler.
+#FLASHCARD_119_NAME
+Abelin Lozé
+#FLASHCARD_119_DESC
+Muhafızların genç subayı Abelin Lozé, ilk devriyelerinden birinde, yaşça büyük meslektaşlarının kışkırtmasıyla sokakta tüfeğini ateşledi. Neyse ki kimse yaralanmadı, ancak mermi bir dükkân vitrinine isabet ederek üzerindeki kıyafetlerle birlikte bir mankeni parçaladı.
+#FLASHCARD_120_NAME
+Bacque
+#FLASHCARD_120_DESC
+Marki Bacque, Jan Poulin’i kasıtlı olarak yanılttı; Poulin ondan bir kır malikanesi satın aldı. Bacque, ona ödediği parayla sarayı, bahçeyi ve çevredeki ormanın bir kısmını alacağına inandırdı. Oysa orman komşusuna aitti. Gerçek, Poulin yeni evine taşındığında ortaya çıktı.
+#FLASHCARD_121_NAME
+Didier Berlioz
+#FLASHCARD_121_DESC
+Çiftçi Didier Berlioz, komşu tarlada çalışan Perrine Girault ile tartıştı. Gece olunca Berlioz tarlayı ateşe verdi. Sonuç olarak, birçok çiftçiye ait onlarca dönüm ekin kül oldu. Bu sıradan bir vandallık değil, Fransa’ya zarar vermektir. İhanet!
+#FLASHCARD_122_NAME
+Jérémie Lefrançois
+#FLASHCARD_122_DESC
+Belediye görevlisi Jérémy Lefrançois, küçük suçlulara sahte isimlerle pasaport düzenlerken yakalandı. Sanık suçunu kabul etti ve tüm müşterilerinin ayrıntılı bir listesini soruşturmacılara sundu. Listede yüzü aşkın isim bulunuyordu.
+#FLASHCARD_123_NAME
+Margaux Bossuet
+#FLASHCARD_123_DESC
+Margaux Bossuet, bir içki alemi sırasında genç ev arkadaşını bıçakladı. Kurban çok kan kaybetmiş olmasına rağmen, kurtarma ekipleri onu hayatta tutmayı başardı. Sanık ve mağduru, çevrelerinde alkolik ve tembel olarak tanınıyorlar.
+#FLASHCARD_124_NAME
+Juliette Chapuis
+#FLASHCARD_124_DESC
+Zengin bir sanayicinin sevgili kızı Juliette Chapuis, mirasına daha erken kavuşmak için babasını zehirledi. Juliette ile gizemli bir adamın kurduğu bu komployu, Gaspard Chapuis’nin kardeşi Jean-Louis, cenaze sonrası bize bildirdi.
+#FLASHCARD_125_NAME
+Marcel Manoury
+#FLASHCARD_125_DESC
+Matbaacı Marcel Manoury, yazarın izni olmadan bir risale yayımladı. Metin, Paris kitapçılarında büyük ilgi gördü. Kaçak basılan kitapları toplatmak imkânsızdı – neredeyse hepsi satılmıştı.
+#FLASHCARD_126_NAME
+Camille ve Maud Boudon
+#FLASHCARD_126_DESC
+Eczacı olan Camille Boudon ve eşi Maud, içinde hiç afyon bulunmayan laudanumu normal ürün fiyatına sattıkları için yakalandı. Kaç Parislinin bu hileye kandığını bilemiyoruz.
+#FLASHCARD_127_NAME
+Lajoie ve Asselin
+#FLASHCARD_127_DESC
+84 yaşındaki Kont Marian Lajoie ve uşağı Alain Asselin, Kont’un merhum eşi Honorine Lajoie’nin kalıntılarını içeren tabutu çalmaya çalışırken bir mezarlıkta yakalandı. Ekleyelim ki Honorine, Karşı-Devrimci propaganda nedeniyle başı kesilerek idam edilmişti.
+#FLASHCARD_128_NAME
+Vivienne Lecerf
+#FLASHCARD_128_DESC
+Vivienne Lecerf’in hanında kalan bazı misafirleri bozuk etle zehirlediği tespit edildi. Soruşturmacılar yiyeceği dikkatle inceledi, kokladı ve hatta tattı, fakat etin domuz, at ya da köpek eti olup olmadığından hâlâ emin değiller.
+#FLASHCARD_129_NAME
+Jean-Charles Rousselle
+#FLASHCARD_129_DESC
+Bir fırının sahibi olan Jean-Charles Rousselle, Muhafız subayının oğlu Deslys’i işe almayı reddetti. Rousselle’in kralcı görüşleri nedeniyle Deslys’in ayrımcılığa uğradığından şüphelenmek için gerekçelerimiz var.
+#FLASHCARD_130_NAME
+Hugues Boissieu
+#FLASHCARD_130_DESC
+Tuz tüccarı Hugues Boissieu, eski ağırlıklarını yeni ölçü sistemine uygun olanlarla değiştirmekte ısrarla direniyor. Eski kurallara bu bağlılığı, sanığın monarşist olduğunu açıkça gösteriyor.
+#FLASHCARD_131_NAME
+Lisa Mesny
+#FLASHCARD_131_DESC
+Lisa Mesny, genç ve hamile kadınlara yasa dışı şekilde “sihirli iksirler” satıyordu. Bu madde düşük yapmalarını sağlıyordu. Evini aradık; çok sayıda boş şişe, kurutulmuş otlar ve döşemenin altında yüklü miktarda para bulduk.
+#FLASHCARD_132_NAME
+Hugues Bassot
+#FLASHCARD_132_DESC
+Paris’in merkezindeki binalardan biri, 47 yaşındaki Hugo Bassot’nun yarım şişe anason likörüyle cesaret bulup dairesinin ortasında kamp ateşi yakmaya kalkışması sonucu neredeyse yanıp kül oluyordu. Neyse ki yoğun ve koyu duman komşuları alarma geçirdi ve bir felaketin önüne geçildi.
+#FLASHCARD_133_NAME
+Émile Pleimelding
+#FLASHCARD_133_DESC
+Émile Pleimelding, yoksullaşmış bir baron, şanssız bir kart oyunundan sonra borçlu olduğu adama karısını bir gece geçirmeye zorladı. Kadın, kocasını ihbar etmek için bize geldi. “O alçak bununla yetinmeyecek,” dedi Bayan Pleimelding.
+#FLASHCARD_134_NAME
+Courtial ve Bachelot
+#FLASHCARD_134_DESC
+Colin Courtial ve Égide Bachelot gizlice iki tüfek ve kurşun dökmek için birkaç kilo kurşun satın aldı. Suikastçılardan birinin evinde Royalist dergisi “Les actes des apôtres” bulundu. Elbette sanıklar, her şeyin av için olduğunu iddia ediyor.
+#FLASHCARD_135_NAME
+Gaspard Picard
+#FLASHCARD_135_DESC
+İç Ordu'nun topçusundan sorumlu Albay Gaspard Picard, tugayları için yeni kışlalar inşa etmekte kullanılacak yapı malzemelerini çalarken yakalandı—en azından astlarının iddiası bu yönde. Rapora göre, birkaç araba tuğlanın şehir dışındaki kendi malikanesine taşınmasını emretmiş.
+#FLASHCARD_136_NAME
+Pasteur, Anouilh, Caillat ve Girault
+#FLASHCARD_136_DESC
+Üç seyis ve bir aşçı — sırasıyla Ernest Pasteur, Paul Anouilh, Josselin Caillat ve Damien Girault — işverenlerinin yokluğundan faydalanarak sarayına girmiş ve kızına tecavüz etmişler. Genç kız hâlâ şokta ve tek kelime etmedi, ancak diğer hizmetkârlardan bazıları şüphelileri teşhis etti.
+#FLASHCARD_137_NAME
+Abraham Toutain
+#FLASHCARD_137_DESC
+Top dökümhanesinde terfi almak isteyen Abraham Toutain, amirlerine ustabaşının cinayet suçundan giyotine mahkûm edildiğini söyledi. Ancak bu bilginin kısa sürede asılsız olduğu ortaya çıktı.
+#FLASHCARD_138_NAME
+Nathan Seyrès
+#FLASHCARD_138_DESC
+Nathan Seyrès’in, kendisinden on beş yaş küçük olan eşini dövdüğü iddia ediliyor. Bu iddia, kadının ailesi tarafından ortaya atıldı. Hem şüpheli hem de mağdur böyle bir olayın yaşanmadığını belirtti. Ayrıca, kadının yüzünde herhangi bir darp izi tespit etmedik.
+#FLASHCARD_139_NAME
+Noël Moitessier
+#FLASHCARD_139_DESC
+Deneyimli bir liman işçisi olan Noël Moitessier, bir kavga sırasında Marius Courbet’nin gözünü oydu. Tanıkların ifadesine göre, kurbanın başını tutup duvara çarptı. Ne yazık ki, duvardan dışarı bir çivi çıkıyordu.
+#FLASHCARD_140_NAME
+Ségolène ve Solenne Aubert
+#FLASHCARD_140_DESC
+Ségolène ve Solenne Aubert kardeşler, kızlardan birinin eski nişanlısını evlerine kandırarak götürdüler, orada onu hapsedip işkence ettiler. Adamı dövdüler, kasık bölgesine kaynar su döktüler ve kızgın bir demirle yaktılar — tüm bunları sadakatsizliğinin cezası olarak yaptılar.
+#FLASHCARD_141_NAME
+Marlène Rousselle
+#FLASHCARD_141_DESC
+Genç bir eş olan Marlène Rousselle, kocasının arkadaşıyla cinsel ilişkiye girdi. Suçüstü yakalanıp bir polis memuruyla en yakın karakola götürüldüğünde, serbest bırakılması için memura rüşvet olarak kendini sundu.
+#FLASHCARD_142_NAME
+Émeric Vidal
+#FLASHCARD_142_DESC
+Émeric Vidal, İngiliz casuslara kadınlar temin ederek hatırı sayılır bir gelir elde ediyordu. Vidal ve kızlarının müşterilerinin kim olduğunu bildiklerine dair güçlü şüphelerimiz var, fakat bu bilgiyi asla ifşa etmediler.
+#FLASHCARD_143_NAME
+Duret ve Pomeroy
+#FLASHCARD_143_DESC
+Gümrük memurları Mickaël Duret ve Jean-Loup Pomeroy, birkaç biber taşıyan aracı uzun süre geçiş noktasında alıkoydu. Bunu, memurlardan birinin baharat tüccarı olan oğlunun fiyatları artırıp daha fazla kazanç sağlaması için yaptılar.
+#FLASHCARD_144_NAME
+Léopold Astier
+#FLASHCARD_144_DESC
+21 yaşındaki Léopold Astier, müstakbel kayınpederinden birkaç bin frank borç aldı. Parayı kârlı bir şekilde değerlendireceğine dair söz verdi. Ancak, çok sayıda tanığın ifadesine göre, parayı şarap ve fahişelere harcadı.
+#FLASHCARD_145_NAME
+Raphaël Mallet
+#FLASHCARD_145_DESC
+Muhafız subayı Michaël Lagarde, gece vardiyasından dönerken öldürüldü. Cinayet silahı olduğu düşünülen çekiç, körkütük sarhoş halde karanlık bir sokakta uyurken bulunan Raphaël Mallet’in yanında yatıyordu.
+#FLASHCARD_146_NAME
+Hortense Boisselot
+#FLASHCARD_146_DESC
+Hortense Boisselot, Bay ve Bayan Pernet’in evine kendini arkadaşları gibi tanıtarak girdi. İçeri girdikten sonra hizmetçiyi dövdü ve para, gümüş sofra takımı ile duvardan indirdiği bir tabloyu çaldı. Çaldıklarını satmaya çalışırken yakalandı.
+#FLASHCARD_147_NAME
+Thiers ve Battier
+#FLASHCARD_147_DESC
+Bir çatışmanın ardından Égide Thiers ve Milo Battier, generallerinin emrine karşı gelerek doğuya ilerlemediler. Bunun yerine, savaş alanında kalıp ganimet peşine düştüler. Yerel halk, cesetleri aradıklarını bildirdi.
+#FLASHCARD_148_NAME
+Marin Brugière
+#FLASHCARD_148_DESC
+Dylan Brugière, kadın hastalıklarını oldukça tuhaf bir şekilde tedavi ediyordu. Hastalarına, iyileşmek için çok pahalı ilaçlar almaları ve geceyi onunla geçirmeleri gerektiğini söyleyerek yalan söylemiş. En az altı kadın onun bu oyununa kandı.
+#FLASHCARD_149_NAME
+Bonnel ve Lahaye
+#FLASHCARD_149_DESC
+İki memur, Alfred Bonnel ve Yves Lahaye, bazı önemli belgelerin üzerine mürekkep döken bir habercinin dövülmesine karıştı. Mağdurun başında hafif morluklar ve küçük bir şişlik tespit ettik. Sanıklar ise mağdura sadece bağırdıklarını, asla vurmadıklarını iddia etti.
+#FLASHCARD_150_NAME
+Grégoire Courtial
+#FLASHCARD_150_DESC
+Banka memuru Grégory Courtial, hizmetçisine iftira atıp onu hırsızlıkla suçlamış. Kadının, onun küstahlığı ve kabalığından bıkıp işinden ayrıldığını öğrendik.
+#FLASHCARD_151_NAME
+Jordan Clérico
+#FLASHCARD_151_DESC
+Genç çoban Jordan Clérico, Paris sokaklarında kazlarını otlatıyordu. Bir ara biriyle sohbete daldı ve kuşlara bir anlığına dikkat etmeyi bıraktı. Bu yüzden, tüm sürüsünün hızla yaklaşan arabaların önüne çıktığını fark etmedi. Arabalar aniden durmak zorunda kaldı. Neyse ki, talihli bir tesadüf sayesinde herhangi bir kaza yaşanmadı.
+#FLASHCARD_152_NAME
+Jean-Pierre Garreau
+#FLASHCARD_152_DESC
+Jean-Pierre Garreau, kendisi için çalışan bir fahişeye yalnızca fiziksel şiddet uygulamakla kalmamış, aynı zamanda suçlarını görmezden gelmeleri için bir Muhafız devriyesine rüşvet vermeye de kalkışmıştır. Onlara yalnızca yüklü miktarda frank değil, aynı zamanda mağdurun hizmetlerini de teklif etmiştir.
+#FLASHCARD_153_NAME
+Ludovic Malan
+#FLASHCARD_153_DESC
+Bu suç bizim mahkememizde işlendi. Arşivlerimizin yöneticisi Ludovic Malan, karısının kuzenini, kızının kocasını ve okuldan bir arkadaşını işe aldı, her birini farklı bir göreve yerleştirdi. Sanık, bu görevleri bir köpeğin bile yapabileceğini, bu yüzden kimi işe aldığına dair hiçbir önemi olmadığını iddia ediyor.
+#FLASHCARD_154_NAME
+Eugène Dumont
+#FLASHCARD_154_DESC
+Eugène Dumont, Lambert Maître’i iş konuşmak üzere evine yemeğe davet etti. Sohbet istenildiği gibi gitmeyince, Dumont uşağı Hector Bazalgette’e misafire zehirli bir yemek sunmasını emretti. Maître yemeği sağ kurtardı, fakat olayın etkilerini hâlâ çekiyor.
+#FLASHCARD_155_NAME
+Rémy Chappuis
+#FLASHCARD_155_DESC
+Yerel halk arasında tuhaf biri olarak bilinen Rémy Chappuis, sokak pazarında küçük bir kızın saçından gizlice bir tutam kesmeye çalıştı. Evinde yapılan aramada benzer “ganimetler”e de rastladık. Mağdur ve ailesi, Chappuis’nin onu lanetlemek istediğine inanıyor.
+#FLASHCARD_156_NAME
+Gervais Tomas
+#FLASHCARD_156_DESC
+Demirci Gervais Tomas, atölyesinde 15 yaşındaki oğlunu öldürdü. Olayın hiçbir görgü tanığı yoktu. Sanık, oğluna sadece bir tokat atmak istediğini, fakat darbesinin o kadar güçlü olduğunu, çocuğun dengesini kaybedip ocağın sert köşesine çarptığını ifade etti.
+#FLASHCARD_157_NAME
+Loïc Maurice
+#FLASHCARD_157_DESC
+Baron Loïc Maurice, aşçısının 12 yaşındaki kızını zorla yatak odasına sürükleyip tecavüz etti. Mağdurun annesi, baronun kendisine ve diğer hizmetçilere de düzenli olarak saldırdığını, izin, daha iyi yemek ve mutfak için fazladan mum isteklerini ise sürekli reddettiğini anlattı.
+#FLASHCARD_158_NAME
+Basile ve Clélie Bréguet
+#FLASHCARD_158_DESC
+Basile ve Clélie Breguet, insan kalıntıları sattıkları için yakalandı. Kalıntıları ufak parçalara öğütüp verem ilacı olarak pazarlıyorlardı. Ayrıca cesetlerin saçlarını da müşterilere böceklerden kurtulmak için yakmalarını söyleyerek satıyorlardı. Çiftin bu “malları” nereden temin ettiğini tespit edemedik.
+#FLASHCARD_159_NAME
+Bernard Beaulne
+#FLASHCARD_159_DESC
+Yargıç, sıradan bir hırsız olan Louis Dembélé’ye verilen cezayı açıkladığında, Bernard Beaulne açıkça suçlunun kafasının kesilmesini talep etti. Kısa süre sonra kalabalık da ona katılarak tehlikeli bir kargaşaya yol açtı. Bunu durdurmak için Muhafızlar havaya birkaç uyarı atışı yapmak zorunda kaldı.
+#FLASHCARD_160_NAME
+Colin Chevalier
+#FLASHCARD_160_DESC
+Colin Chevalier, nedense kır evine giren bir yabancının üzerine bekçi köpeklerini saldırtmış. Kurbanın adını bile tespit edemedik; adam resmen parçalanarak öldü. Chevalier, adamın kendisini soymaya çalıştığını iddia ediyor, fakat bunu doğrulayacak hiçbir tanık yok.
+#FLASHCARD_161_NAME
+Wilmart ve Varlet
+#FLASHCARD_161_DESC
+Jules Wilmart ve Vincent Varlet, Parisli çetelerden birinin talimatıyla Lombards Sokağı’ndaki genç hırsızlardan borç tahsil etmek için tutuldu. Parayı aldıktan sonra alacaklıları vurdular. Parayla kaçmaya çalışırken yakalandılar.
+#FLASHCARD_162_NAME
+Abelin Delafose
+#FLASHCARD_162_DESC
+Abelin Delafose, Paris’in çeşitli mahallelerindeki tüccarları neredeyse her gün tehdit edip soyuyordu. Ancak, Muhafızlardan korkmasına hiç gerek yoktu. Tanıkların ifadesine göre, cezasız kalmak için ganimetini askerlerle paylaşıyordu.
+#FLASHCARD_163_NAME
+Damien Badeaux
+#FLASHCARD_163_DESC
+Auxerre civarında iki mahkûm, mahkûm nakil aracından kaçtı. Konvoy lideri Badeaux öylesine beceriksizdi ki, yerel yetkililer olaydan haberdar edilene kadar saatler geçti. Mahkûmlar izlerini kaybettirdi – sorumluluğu Badeaux üstlenmeli.
+#FLASHCARD_164_NAME
+Valéry Chagnon
+#FLASHCARD_164_DESC
+Valéry Chagnon bir çamaşırcıdan kaliteli giysiler çaldı. Onları giyip Paris’teki bir bankadan borç almaya çalıştı. Ancak hemen yakalandı – banka memuru, Chagnon’un iddia ettiği meslekten hiçbir şey anlamadığını çabucak fark etti.
+#FLASHCARD_165_NAME
+Dovera Marthe Rousselle
+#FLASHCARD_165_DESC
+Tozun etkisiyle sarhoş olan Dovera Marthe Rousselle, kelimenin tam anlamıyla caddenin ortasında uyuyakaldı ve trafikte büyük bir karmaşaya yol açtı. Nihayet kendine geldiğinde, dişinin dayanılmaz derecede ağrıdığını ve bu yüzden ilacı fazla dozda aldığını açıkladı.
+#FLASHCARD_166_NAME
+Denis Maret
+#FLASHCARD_166_DESC
+Denis Maret, Louis Brochard’a ait bir atı çaldı. Hayvan daha sonra Paris’teki bir pazar yerinin dışında bir direğe bağlandı. Sahibi peşlerine düşünce, hırsız atı dörtnala sürdü ve yol boyunca birkaç kasa meyveyle şarap şişesini parçaladı.
+#FLASHCARD_167_NAME
+Pierre Barbet
+#FLASHCARD_167_DESC
+Bir un tüccarının oğlu olan Pierre Barbet, evlendikten yalnızca bir hafta sonra karısını aldattı. Karısı ona bağırınca, Pierre yüzüne defalarca vurdu. Genç kadın, yüzündeki kanı silmeye ya da morlukları gizlemeye bile çalışmadı. Suçu derhal Muhafızlara bildirdi.
+#FLASHCARD_168_NAME
+Grégoire, Milo ve Victor Cuvier
+#FLASHCARD_168_DESC
+Grégoire, Milo ve Victor Cuvier kardeşler, kırsaldan gelen kadınları şehirde iş vaadiyle kandırdıkları ortaya çıktı. Kurbanlarına saldırıp, onlara tecavüz ediyor, tehdit ediyor ve ardından Paris, Rouen ve Amiens’teki genelevlere satıyorlardı. Bildiğimiz kadarıyla 30 kadın bu şekilde mağdur edildi, fakat gerçek mağdur sayısı daha fazla olabilir.
+#FLASHCARD_169_NAME
+Anne Dujardin
+#FLASHCARD_169_DESC
+Anne Dujardin bir binayı ateşe verdi. Binada eski kocası ve onun yeni partneri de bulunuyordu. Kundakçı, yangın başlamadan kısa bir süre önce bodrum penceresini kırıp içeri girerken görülmüş. O sırada binada yaklaşık bir düzine başka insan daha vardı. Neyse ki, kimse yangında hayatını kaybetmedi.
+#FLASHCARD_170_NAME
+Gilbert Dumont
+#FLASHCARD_170_DESC
+Sylvain Maréchal’ın radikal destekçisi Gilbert Dumont, kalabalığı gemi sahibi Auguste Millet’nin konutunu basmaya ikna etmek için ateşli bir konuşma yaptı. Kalabalık saraya girip mobilyaları ve eşyaları çaldı, kapı ve pencereleri kırdı, hizmetkârlar ile evdeki diğer kişileri dövdü.
+#FLASHCARD_171_NAME
+Jean-Guy Duclos
+#FLASHCARD_171_DESC
+Jean-Guy Duclos, Michaël Duverger’e bozuk bir tabanca sattı. Sorgulamada, sanığın iki aynı silahtan sahip olduğu ortaya çıktı. Duverger sağlam tabancayı denedikten sonra, Duclos silahları değiştirdi, parayı aldı ve ortadan kayboldu.
+#FLASHCARD_172_NAME
+Jean-Luc Marais
+#FLASHCARD_172_DESC
+Gece geç saatlerde, Jean-Luc Marais Seine Nehri kıyısında iki aşçı kadına saldırdı. Önce sözlü olarak sataştı ve ardından onlara ıslık çaldı, sonra da onları elle taciz etmeye kalktı. Kadınlar kaçmayı başardı. Kısa bir süre sonra Marais yakındaki bir şarap imalathanesinde gözaltına alındı.
+#FLASHCARD_173_NAME
+Claude Coquelin
+#FLASHCARD_173_DESC
+Claude Coquelin, birkaç duvarcı aradığını duyurdu. Adaylardan “aletler için” küçük bir miktar para istedi ve belirli bir adreste, belirli bir saatte işe gelmelerini söyledi. Elbette kendisi hiç ortaya çıkmadı. En az dört kişiyi kandırdı.
+#FLASHCARD_174_NAME
+Francis ve Josette Brugière
+#FLASHCARD_174_DESC
+Francis ve Josette Brugière adlı fırıncılar, kuyudan ya da çeşmeden su almak yerine, ekmek yapımında doğrudan nehirden aldıkları suyu kullandılar. Ekmek gayet güzel kokuyordu ve müşterileri hiçbir şeyden şüphelenmedi. Ancak çevrede sindirim sorunlarının aniden artması, suçlarının ortaya çıkmasına yol açtı.
+#FLASHCARD_175_NAME
+Adrien Delannoy
+#FLASHCARD_175_DESC
+Adrien Delannoy bir fahişe tuttu ve onu bağladı. Kadın üç gün boyunca dövüldü, kesildi ve yakıldı. Çığlık atmaya çalıştığında Delannoy onu boğdu. Kurban kaçmayı başardı – yoksa şimdi muhtemelen hayatta olmayacaktı. Sorgu sırasında Delannoy tek kelime etmedi.
+#FLASHCARD_176_NAME
+Clément Abadie
+#FLASHCARD_176_DESC
+Clément Abadie komşusunun kilerinden hırsızlık yaptı. 16 büyük kavanoz reçel ve daha birçok konserve çaldı. Muhafız kapısını çaldığında, yiyeceklerin çoğu çoktan tüketilmişti.
+#FLASHCARD_177_NAME
+Lémery, Celice ve Le Sueur
+#FLASHCARD_177_DESC
+Nadine Barreau, Paris’te bir meyhanenin mutfağında tecavüze uğradı. Tanıklar, binanın dışında olmalarına rağmen yardım çığlıklarını duyduklarını ifade etti. Yine de, meyhanenin önünden geçen devriye, kurbanı kurtarmak için hiçbir şey yapmadı. Devriyede Pascal Lémery, Bernard Celice ve Henri Le Sueur bulunuyordu.
+#FLASHCARD_178_NAME
+Didier Brassard
+#FLASHCARD_178_DESC
+Didier Brassard, eşini sadakatsizlikle suçladı, fakat bunu mahkemede kanıtlayamadı. Buna karşılık Bayan Brassard da kocasına karşı bir iddiada bulundu – onun dolandırıcılığa teşebbüs ettiğini öne sürdü. Tahmin edileceği gibi, o da herhangi bir kanıt sunmadı.
+#FLASHCARD_180_NAME
+Germain Solé
+#FLASHCARD_180_DESC
+Yargıç Germain Solé, birçok müşterisini aldattığı bilinen tüccar Vérany’den rüşvet aldı. Solé aleyhindeki deliller, Vérany ile yaptığı görüşmeden kısa süre sonra ofisinde bulunan mektuplar ve yüklü miktarda paradır.
+#FLASHCARD_181_NAME
+Jean-Luc Courbis
+#FLASHCARD_181_DESC
+Jean-Luc Courbis, şu anda Avusturya’da yaşayan kardeşine bir mektup yazdı ve orduyun doğuya doğru ilerleyişini anlattı. Dikkat çekici olan ise, yürüyüşe katılan top sayısı gibi son derece ayrıntılı bilgiler vermesiydi.
+#FLASHCARD_182_NAME
+Guillaume Vaillancourt
+#FLASHCARD_182_DESC
+Guillaume Vaillancourt’un dökümhanesinde korkunç bir kaza meydana geldi. Çalışanlarından biri ağır yanıklar aldı; yüzü artık ancak bir kâbusta rastlanacak bir canavarı andırıyor. Diğer işçiler, bu trajediden Vaillancourt’un sorumlu olduğunu oybirliğiyle söylüyor.
+#FLASHCARD_183_NAME
+Marthe Bettencourt
+#FLASHCARD_183_DESC
+Bir cenaze evini işleten dul Marthe Bettencourt, ölülerin çenesinden altın dişleri söktüğü için yakalandı. Gerçek, Étienne Corriveau’nun amcasına “veda etmek” için geldiğinde ortaya çıktı. Genç adam aslında öleni kendisi soymayı planlıyordu. Ondan önce davranıldığını görünce öyle hayal kırıklığına uğradı ki Bettencourt’un suçunu ihbar etti.
+#FLASHCARD_184_NAME
+Paulin Solé
+#FLASHCARD_184_DESC
+Paulin Solé, mallarını taşırken aşırı hız yaptı ve bir köşeyi dönerken bir şarap fıçısını düşürdü. Ne yazık ki fıçı, 7 yaşındaki bir çocuğu devirdi ve bacaklarını ezdi. Çocuk şu anda yürüyemiyor.
+#FLASHCARD_185_NAME
+Charles Tomas
+#FLASHCARD_185_DESC
+Julien Boutroux ve Charles Tomas, Bobigny’de düelloya tutuştu. Boutroux hayatta kalamadı. Bir kurşun tam gözünden vurdu ve onu anında öldürdü. Her iki adamın da yanında şahitleri vardı, düello ise yazılı olmayan kurallara uygun şekilde gerçekleşti. Fakat merhumun eşi için tüm bunların hiçbir önemi yoktu.
+#FLASHCARD_186_NAME
+Olivier ve Lisette Béliveau
+#FLASHCARD_186_DESC
+Olivier Béliveau, öz kızlarına düzenli olarak cinsel istismarda bulunuyordu. Anneleri Lisette ise bunu bildiği halde kocasını durdurmak için hiçbir şey yapmadı. Dahası, iki kızın anlattığına göre, anneleri onları babalarının odasına kendisi götürüp kapıyı kapatıyordu.
+#FLASHCARD_187_NAME
+Marie-Christine Jacquemoud
+#FLASHCARD_187_DESC
+Marie-Christine Jacquemoud’nun evinde papalık fermanı Auctorem fidei’yi bulduk. Hatırlatmak isterim ki bu, Vatandaş Capet’yi bir şehit olarak tanıyıp Devrim’i kınayan Papa VI. Pius’un fermanıdır. Böyle bir şeyi kim neden okur ki? Cevabı açık bence.
+#FLASHCARD_189_NAME
+Cédric Bourbeau
+#FLASHCARD_189_DESC
+Cédric Bourbeau, Bay ve Bayan Auger’in evine izinsiz girdi. Sessizce mutfağa süzüldü ve kilerde uyuyakaldı. Sabah olduğunda, kaçmaya çalışırken aşçı tarafından fark edildi. Bourbeau ise yalnızca ısınmak istediğini iddia etti.
+#FLASHCARD_190_NAME
+Alphonse Bouhier
+#FLASHCARD_190_DESC
+Alphonse Bouhier iş ortağını öldürdü ve cesedini gizlice Paris’ten çıkarmaya çalıştı. Muhafızlar aracını aramak isteyince, onlara cömert bir rüşvet teklif etti. Meraklanan askerler cesedi bulup katili tutukladı.
+#FLASHCARD_191_NAME
+Wilfried Alard
+#FLASHCARD_191_DESC
+Wilfried Alard, Sartre adında bir adamın yazdığı bir risaleyi basmayı kabul etti. Ancak yayın durduruldu; çünkü risalede Fransa’nın vatandaşlar tarafından yönetilen özerk bölgelere ayrılması gerektiği gibi tuhaf bir inanç yayılmaya çalışılıyordu. Böyle yıkıcı düşüncelere asla göz yumamayız.
+#FLASHCARD_192_NAME
+Gaëtan De Villiers
+#FLASHCARD_192_DESC
+Gaëtan De Villiers, ünlü kasap Hugon Vallé’nin eşiyle birlikte olduğunu defalarca övünerek anlatmış, üstelik bu ilişkiyi her seferinde en ince ayrıntısına kadar tarif etmiştir. Kadın ise hem kamuya açık hem de özel duruşmada onunla herhangi bir yakınlığı olduğunu kesin bir dille reddetmiştir.
+#FLASHCARD_193_NAME
+Brunet, Paquin ve Matthieu
+#FLASHCARD_193_DESC
+Camille Brunet, Léo Paquin ve Pierre-Antoine Matthieu, görevde olmayan bir Muhafız subayını eski ve terkedilmiş bir eve çekip orada bayılana kadar dövdüler. Davayı yürüten memurlar, suç için herhangi bir olası motiv belirleyemedi.
+#FLASHCARD_194_NAME
+Hugues ve Bruno Chardin
+#FLASHCARD_194_DESC
+15 yaşındaki Hugues Chardin ve 16 yaşındaki Bruno Chardin, evlerin ve dükkanların camlarına taş atarak eğlenirken yakalandı. Yakalanmadan önce birkaç camı kırmayı başardılar.
+#FLASHCARD_195_NAME
+André Beaux
+#FLASHCARD_195_DESC
+Pierre Couturier, André Beaux’dan oldukça pahalı ipekböceği larvaları satın aldı. Fakat bunlar bambaşka, işe yaramaz bir böcek türü çıktı. Dolandırıcı, yüklü miktarda çalıntı parayla Paris’ten kaçmaya çalışırken yakalandı.
+#FLASHCARD_196_NAME
+Jérémie Loup
+#FLASHCARD_196_DESC
+Jérémy Loup, ölen akrabalarından kalan miras yüzünden babasıyla tartıştı. Yaşlı adamı dört kez bıçakladı. Olayı gören Jérémy’nin kardeşi, bir tabureyle başına vurup onu bayılttı ve kanamayı durdurarak yardım çağırdı, böylece babasının hayatını kurtardı.
+#FLASHCARD_197_NAME
+Alceste Calvet
+#FLASHCARD_197_DESC
+Parisli bir gazetenin editörü olan Alceste Calvet, Fransa’da gerçekleştirilen idamların sözde aşırı sayısını eleştiren isimsiz bir yazı yayımladı.
+#FLASHCARD_198_NAME
+Rose Silvestre
+#FLASHCARD_198_DESC
+Rose Silvestre, Jeana-Loupa Bonhomme’un hanında çalışırken, sahibinin yüzüne kaynar su fırlattı. Sanık, mağdurun uygunsuz davrandığını ve kendini savunmak için böyle davrandığını iddia etti.
+#FLASHCARD_199_NAME
+Gaspard Pascal
+#FLASHCARD_199_DESC
+Piskopos Gaspard Pascal, yeğeninin devlet memuru olmasına yardımcı oldu. Konumunu sağlama almak için din adamı, Paris idaresindeki güçlü nüfuzunu ve bağlantılarını kullandı.
+#FLASHCARD_200_NAME
+Marie-Ange Halphen
+#FLASHCARD_200_DESC
+Marie-Ange Halphen, bir çamaşırcı, küçük oğlunu yere fırlatarak öldürdü. Komşuları, haftalar boyunca neredeyse her gün çocuğun ağladığını duyduklarını ifade etti. Sanık ise çocuğun elinden kazara kayıp düştüğünü iddia ediyor.
+#FLASHCARD_201_NAME
+Geoffroy Moineau
+#FLASHCARD_201_DESC
+Verdun yakınlarında, Albay Geoffroy Moineau topçularına ıslak çayırdan geçmelerini emretti. Prusya süvarileri savaş alanına vardığında, Fransız topları geri çekilen askerler tarafından taşınamaz durumdaydı. Böyle bir beceriksizlik vatana ihanet sayılır.
+#FLASHCARD_202_NAME
+Philidor ve Duverger
+#FLASHCARD_202_DESC
+İki mezar soyguncusu, Marius Philidor ve Abeau Duverger, yeni bir mezar yüzünden kavga etti. Duverger galip geldi ve merhuma ait giysileri çaldı.
+#FLASHCARD_203_NAME
+René Aubert
+#FLASHCARD_203_DESC
+Fırıncı René Aubert’in kasıtlı olarak normalin yarısı kadar ekmek pişirip daha yüksek fiyata sattığı ortaya çıktı. Sorgu sırasında Aubert, unun azaldığını ve bu yüzden fiyatların arttığını iddia etmeye devam etti. Oysa biliyoruz ki, bu durumu daha fazla kazanıp daha az çalışmak için kullanmaya çalışıyordu.
+#FLASHCARD_204_NAME
+Régis Chaufourier
+#FLASHCARD_204_DESC
+Régis Chaufourier, “güzel Kraliçemiz Marie” için bir kadeh kaldırdı. Sorguya alındığında, monarşiyi desteklediğini inkâr etti. Sözde yalnızca “merhumenin güzel bedenini övdüğünü” söyledi. Olay sırasında Chaufourier’in sarhoş olduğu tanıklar tarafından bildirildi.
+#FLASHCARD_205_NAME
+Thierry Mallette
+#FLASHCARD_205_DESC
+Thierry Mallette, mühendis olduğunu yalan beyan ederek bir apartman inşaatında ustabaşı oldu. Sorumlu olduğu bina daha tamamlanmadan çöktü ve birçok işçinin ölümüne yol açtı.
+#FLASHCARD_206_NAME
+Anaïs Barbet
+#FLASHCARD_206_DESC
+Anaïs Barbet birkaç fırından ekmek çalmış. Yakalandığında, ekmeğe aç çocukları için ihtiyacı olduğunu söylemiş. Ancak komşuları, ekmekleri Les Halles’de yarı fiyatına sattığını ve sık sık sarhoş olduğunu anlattı.
+#FLASHCARD_207_NAME
+Lorie Édouard
+#FLASHCARD_207_DESC
+Ayakkabıcı Timothé Édouard’un eşi Lorie Édouard, rakip bir ayakkabıcının ürettiği ayakkabıların birkaç hafta içinde dağılacağını yabancılara anlatmış. Sorgu sırasında ağlayarak, bunu kocasının zoruyla yaptığını söylemiş.
+#FLASHCARD_208_NAME
+Brunet, Simon ve Charbonneau
+#FLASHCARD_208_DESC
+Üç kereste fabrikası işçisi – Jean-François Brunet, Alban Simon ve Matthieu Charbonneau – işverenlerinin kızına tecavüz etti. Bu olaydan önce, ödenmemiş maaşlarını almazlarsa ailesine zarar vermekle tehdit etmişlerdi.
+#FLASHCARD_209_NAME
+Jordan Maître
+#FLASHCARD_209_DESC
+76 yaşındaki Jordan Maître, 52 yıllık eşiyle tartıştı. Öfkeyle bir fahişeye gitti. Onunla birlikte kadının evine yürürken görüldü. Sanık, yaşından dolayı fiziksel gücü yetmediği için hiçbir şey olmadığını iddia ediyor. Ancak eşi yine de suçlamayı destekliyor.
+#FLASHCARD_210_NAME
+Gide ve Bouhier
+#FLASHCARD_210_DESC
+Lydie Gide ve Marie-Laure Bouhier’ın, sarhoş Thaddée Adnet’i soydukları bildirildi. Onu bıçaklamakla tehdit ettiklerinde, Adnet cüzdanını hemen teslim etti. Mağdur yara almadı.
+#FLASHCARD_211_NAME
+Jean-Guy Bruneau
+#FLASHCARD_211_DESC
+Jean-Guy Bruneau, profesyonel bir soyguncu, yine yakalandı. Bir döviz bürosuna girdi ve birkaç bin frank çaldı. Kendi metresi, ona öfkelenip dövdükten sonra onu ihbar etti.
+#FLASHCARD_212_NAME
+Saint-Yves, Saunier ve Camille
+#FLASHCARD_212_DESC
+Flandre’daki çatışmalar sırasında bir grup süvari ordudan firar etti. Yol kenarındaki bir handa çalışanlara dehşet saçtılar, kadın hizmetçilere tecavüz ettiler, üç gün boyunca içki içip eğlendiler ve ardından orduya geri döndüler. Louis Saint-Yves, Didier Saunier ve Amaury Camille’i yakalamayı başardık; ancak bazı suç ortakları kaçmayı başardı.
+#FLASHCARD_213_NAME
+Carole Bissonnette
+#FLASHCARD_213_DESC
+Carole Bissonnette, yemin etmeyi reddeden ve ülkeden sürülen rahip Yvon Dubois’yı tavan arasında saklamıştır. Bissonnette’i devrime kasıtlı olarak karşı hareket etmekle suçluyoruz.
+#FLASHCARD_214_NAME
+Carrel ve Crozier
+#FLASHCARD_214_DESC
+Arnaud Carrel ve Théodore Crozier, yerel bir tüccara çok sayıda şarap fıçısı sattı. Tüccara, işaretli birkaç fıçıdan şarap tattırdılar. Ancak daha sonra diğer kapların nehirden alınan suyla dolu olduğunu öğrendi.
+#FLASHCARD_215_NAME
+Vincent Duval
+#FLASHCARD_215_DESC
+Sokakta et satan Vincent Duval, bir grup genç tarafından soyuldu. Bir Muhafız devriyesi çağırdı. Suçlular yakalanamayınca, Duval onlara bağırmaya başladı. Memurları tehdit etti ve saldırgan hareketler yaptı. Askerler onu kelepçeyle sakinleştirmek zorunda kaldı.
+#FLASHCARD_216_NAME
+Delisle ve Blondeau
+#FLASHCARD_216_DESC
+Gaëtan Delisle ve Paul Blondeau’nun işlettiği genelevde çalışan bir fahişe, dövülerek öldürüldü ve bir arabadan sokağın ortasına atıldı. Diğer çalışanlardan hiçbir bilgi alamadık, ancak düzenli müşterilerinden biri, orada “çalışmayı” bırakmak istediğini söyledi. Onun ölümünden patronlarının sorumlu olduğundan eminiz.
+#FLASHCARD_217_NAME
+Hector Sartre
+#FLASHCARD_217_DESC
+Baron Hector Sartre, ölen amcasının evine duluna taziyelerini sunmak için gittiğinde, değerli bir tabloyu çaldı. Suçunu itiraf eden hırsız, halasının tabloyu satacağını düşündüğünü, oysa eseri ailede tutmak istediğini söyledi.
+#FLASHCARD_218_NAME
+Armand Lebas
+#FLASHCARD_218_DESC
+Armand Lebas bir lağım temizleyicisidir. Kısa süre önce, atık akışını tıkayan bir birikintinin oluşmasına sebep oldu. Sonuç olarak, kötü kokulu su ve dışkı şehir meydanlarını bastı. Bu ihmalkârlık yüzünden kaç kişinin hastalandığını ancak tahmin edebiliriz.

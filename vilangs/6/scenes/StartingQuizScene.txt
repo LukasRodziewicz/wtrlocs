@@ -1,0 +1,44 @@
+$SURVIVAL_QUIZ_RESULT_HEADER
+Puntuaciones
+$SURVIVAL_QUIZ_RESULT_DESC
+Estos son tus valores iniciales de relación con las facciones.
+$SURVIVAL_QUIZ_QUESTION_01
+En el pasillo del tribunal, una joven muy atractiva chocó conmigo. Llevaba un vestido elegante, aunque algo gastado y raído en algunos lugares. La mujer comenzó a hablar antes de que pudiera disculparme por el choque. Se presentó como Désirée Plouffe, hija del conde. Su prometido había sido detenido —se alegaban acciones contrarrevolucionarias, pero no se le presentaron cargos concretos. La señorita Plouffe sacó un sobre con una nota y, con la voz entrecortada, me pidió que se lo entregara al acusado.
+$SURVIVAL_QUIZ_QUESTION_01_A1
+Encerré a la mujer en una de las salas de servicio y fui a buscar a la Guardia. No quiero que nadie me acuse de corrupción.
+$SURVIVAL_QUIZ_QUESTION_01_A2
+Tomé la nota y prometí ayudar. Los clientes habituales en la sala me miraban con recelo...
+$SURVIVAL_QUIZ_QUESTION_01_A3
+Mirad, pueblo, dije en voz alta. «La noble piensa que está por encima de los demás». Rompí la nota y la arrojé a sus pies.
+$SURVIVAL_QUIZ_QUESTION_02
+Caminaba por la calle entonces. Recuerdo cómo me maravillaba al ver cómo París cambiaba. Habían reemplazado los letreros sobre las tiendas, la gente sacaba muebles incrustados de las residencias nobles. Cargaban estos bienes en carretas, se los llevaban, los repartían. Un hombre salió de un portón con una botella de vino en la mano y gritó: “Es del sótano del señor Jacquemard. Vengan, beban con nosotros.”
+$SURVIVAL_QUIZ_QUESTION_02_A1
+Fui a beber con ellos. Pasamos toda la noche en el sótano, hablando sobre las necesidades de Francia.
+$SURVIVAL_QUIZ_QUESTION_02_A2
+Llamé a la Guardia para confiscar el vino del sótano en nombre de la revolución.
+$SURVIVAL_QUIZ_QUESTION_02_A3
+Les dije quién era y los amenacé con castigo por robar; salieron huyendo tan rápido como pudieron, y le aconsejé al dueño que escondiera sus objetos de valor en el campo.
+$SURVIVAL_QUIZ_QUESTION_03
+Una vez fui testigo de una escena desagradable en el patio, junto a la fuente. Varios jóvenes lanzaban piedras a un muchacho bien vestido, gritando: «¡Come, condesa, buen provecho!». El joven noble, acorralado, solo se cubría el rostro mientras recibía más proyectiles que no solo lo alcanzaban a él, sino también a las ventanas, que estallaban en pedazos bajo los gritos de los vecinos.
+$SURVIVAL_QUIZ_QUESTION_03_A1
+Recogí unas piedras del suelo, se las lancé al “conde” y luego me marché.
+$SURVIVAL_QUIZ_QUESTION_03_A2
+He ahuyentado a un grupo de muchachos a golpes y le he tendido un pañuelo a un joven noble para que se limpie las heridas sangrantes.
+$SURVIVAL_QUIZ_QUESTION_03_A3
+Ordené arrestar a los adolescentes por vandalismo. Para los parisinos, el tiempo del miedo ha terminado.
+$SURVIVAL_QUIZ_QUESTION_04
+En la plaza cerca de Notre Dame, vi a un hombre borracho. Caminaba por la calle gritando: “Brutos, brutos se han apoderado de la ciudad”, amenazando a la gente con un bastón de remate de marfil. Vi a la gente susurrando entre sí y señalándolo con el dedo. Las lavanderas que pasaban lo rodeaban en un amplio arco y varios albañiles agarraron piedras.
+$SURVIVAL_QUIZ_QUESTION_04_A1
+Me acerqué y le di una bofetada tan fuerte que acabó sentado en la acera.
+$SURVIVAL_QUIZ_QUESTION_04_A2
+Cuando me topé con la patrulla de la Guardia, informé sobre una persona sospechosa.
+$SURVIVAL_QUIZ_QUESTION_04_A3
+Tomé al hombre del brazo. “Ven, vamos a beber vino”, le dije, y lo aparté de la calle, probablemente salvándolo de un linchamiento.
+$SURVIVAL_QUIZ_QUESTION_05
+Cuatro guardias se apostaban junto al puesto de un anciano, cerca de un edificio recién renovado. Sobre el mostrador reposaban verduras: algunos manojos de zanahorias y lechuga secada al sol. “Me echan porque el señor Moisan les pagó”, gritó el comerciante directo a los rostros torcidos de los guardias. “¿El noble preferiría que vendiera cubertería de plata o esculturas antiguas, verdad? ¿Pero el verdulero devalúa su propiedad?”, continuó el tendero, furioso.
+$SURVIVAL_QUIZ_QUESTION_05_A1
+Me presenté y ordené a los guardias que dejaran en paz al comerciante.
+$SURVIVAL_QUIZ_QUESTION_05_A2
+No era asunto mío, los guardias seguramente tenían sus... “razones”.
+$SURVIVAL_QUIZ_QUESTION_05_A3
+Si a los guardias se les dio la orden, deben cumplirla sin vacilar. Yo ayudé en el arresto.

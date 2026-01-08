@@ -1,0 +1,16 @@
+$DIAL_H_01_03_20_001_JUDGE
+Qu'avons-nous sur Pache ?
+$DIAL_H_01_03_20_002_RAMEL
+Comme beaucoup d'autres, il prenait du bon temps au bordel de Roland. Quand tu as ordonné sa fermeture, Pache a été chargé d'organiser ton assassinat. Le maire compte sur des alliés puissants, notamment Danton. Nous ne pouvons pas l'attaquer directement. Nous devons viser sa famille.
+$DIAL_H_01_03_20_003_JUDGE
+Alors ?
+$DIAL_H_01_03_20_004_RAMEL
+J'ai entendu dire que sa fille entretenait une relation que beaucoup qualifieraient… d'inacceptable. Elle fricote avec une autre femme qui, en plus, serait de mèche avec les Muscadins. Si tu utilises ces informations, Pache commencera à commettre des erreurs, effrayé à l'idée que ce scandale n'éclate au grand jour. Ses alliés le remarqueront et perdront confiance en lui.
+$DIAL_H_01_03_20_005_JUDGE
+Sera-ce suffisant ?
+$DIAL_H_01_03_20_006_RAMEL
+Seulement si tu gagnes sa confiance en premier lieu. Il doit être persuadé que tu ignores tout de son implication dans la tentative d'assassinat. J'ai un plan, mais nous devons d'abord faire quelque chose à propos du bordel confisqué aux Roland.
+$DIAL_H_01_03_20_007_JUDGE
+Et pourquoi donc ?
+$DIAL_H_01_03_20_008_RAMEL
+Pache est accro au jeu.

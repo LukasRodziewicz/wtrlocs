@@ -1,0 +1,36 @@
+$DIAL_H_01_03_26_001_SON
+Diga a ele, mãe.
+$DIAL_H_01_03_26_002_WIFE
+…
+$DIAL_H_01_03_26_003_JUDGE
+O quê?!
+$DIAL_H_01_03_26_004_SON
+Diga a ele, ou eu direi.
+$DIAL_H_01_03_26_005_JUDGE
+O que você quer que ela me diga?!
+$DIAL_H_01_03_26_006_WIFE
+Ouvimos dizer que você está com a filha do prefeito...
+$DIAL_H_01_03_26_007_JUDGE
+Sim, o julgamento está marcado para amanhã.
+$DIAL_H_01_03_26_008_WIFE
+Então tudo depende de você?
+$DIAL_H_01_03_26_009_JUDGE
+Eu não vou fazer isso.
+$DIAL_H_01_03_26_010_WIFE
+Por que não?
+$DIAL_H_01_03_26_011_JUDGE
+Seria vergonhoso!
+$DIAL_H_01_03_26_012_WIFE
+E matar nossos filhos pode?!
+$DIAL_H_01_03_26_013_JUDGE
+Não posso, ela não tem culpa.
+$DIAL_H_01_03_26_014_SON
+Mate ela.
+$DIAL_H_01_03_26_015_JUDGE
+Você é tão jovem, e ainda assim fala de assassinato como se não fosse nada.
+$DIAL_H_01_03_26_016_SON
+Que sofram como nós sofremos. Matem ela. Queremos o sangue dela! Mandar meu irmão para a forca não significou nada para eles.
+$DIAL_H_01_03_26_017_JUDGE
+Você me assusta…
+$DIAL_H_01_03_26_018_WIFE
+Você vai sentir medo de verdade se não fizer o que mandamos.

@@ -1,0 +1,28 @@
+$EVE_013_TITLE
+Kiedy byłem żołnierzem
+
+$EVE_013_MAIN_01
+Prestiż i sprawiedliwość – to podstawowe wartości, które liczyły się dla nadzorców tego gmachu. Prestiż i sprawiedliwość – wszystko musiało im podlegać. Przedwczoraj miałem okazję wypić dwa głębsze z jednym z członków twojej straży. Pojawiły się wspomnienia. Podstawą przyjęcia do straży sądowej tego sądu była przeszłość w służbie wojskowej. To warunek nienegocjowalny, a nasz towarzysz nieźle nakłamał. Nie służył w wojsku. Udało mu się uzyskać zaświadczenie o służbie, ale pewnie jest podrobione. Oczywiście… dwa lub trzy głębsze. 
+
+$EVE_013_MAIN_01_C1
+Zbadaj sprawę
+$EVE_013_MAIN_01_C2
+Zwolnij strażnika ze służby
+$EVE_013_MAIN_01_C3
+Zostaw strażnika w spokoju
+
+$EVE_013_MAIN_02A
+Wygląda na to, że pijacki bełkot okazał się jednak prawdą. Musiał to być dla tego człowieka wielki ciężar, który wreszcie znalazł powiernika. Mnie. Załatwiłem sprawę dyskretnie. Dokument potwierdzający służbę jest podrobiony. Dla pewności popytałem ludzi, którzy powinni go znać ze wspólnej służby. Cóż, do tej pory nikt nie widział potrzeby sprawdzania takich rzeczy. Nikt nie spodziewał się, że ktoś może oszukiwać w tej sprawie. Jemu najwyraźniej musiało zależeć.
+
+$EVE_013_MAIN_02A_C1
+Zwolnij strażnika ze służby
+$EVE_013_MAIN_02A_C2
+Oskarż strażnika o oszustwo
+$EVE_013_MAIN_02A_C3
+Zostaw strażnika w spokoju
+
+$EVE_013_MAIN_02B
+Prestiż i sprawiedliwość. Powtarzałem to sobie, widząc młodego człowieka odartego z marzeń i źródła utrzymania. Szkoda, ale są rzeczy ważniejsze, większe. O nie musimy dbać – bez tego nie jesteśmy godni być uczestnikami rewolucji.
+
+$EVE_013_MAIN_02C
+Może to jest twoja droga do boskości? Niczym indyjska Saraswati – harmonia i mądrość.

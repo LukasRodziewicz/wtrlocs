@@ -1,0 +1,9 @@
+$EVE_034_V1_AGENTS_DISAPPEAR_TITLE
+Strażnik odchodzi
+$EVE_034_V1_AGENTS_DISAPPEAR_MAIN_01
+Mundur największego rozmiaru wisiał na haku. Tylko jedna osoba w sądzie nosi taki rozmiar – to twój ulubiony strażnik, Raphael Clovis. W kieszeni munduru znajdujesz list z lakonicznym oświadczeniem, w którym kluczowe wydają się słowa „odchodzę ze służby”, „nie mogę dłużej brać w tym udziału” oraz „za dużo krwi na rękach”. Szczury opuszczają tonący statek.
+
+$EVE_034_V1_AGENTS_LEAVE_TITLE
+Strażnik odchodzi
+$EVE_034_V1_AGENTS_LEAVE_MAIN_01
+Mundur największego rozmiaru wisiał na haku. Tylko jedna osoba w sądzie nosi taki rozmiar – to twój ulubiony strażnik, Raphael Clovis. List, który znalazłeś w wewnętrznej kieszeni munduru, wskazuje, że Clovis wybrał stronę konfliktu – tą stroną jest twój brat. Będzie walczył przeciw tobie, by uratować skórę. A może po prostu ma cię dość? Dowiesz się, gdy go dopadniesz. Największym problemem jest to, że doskonale zna twoje słabości…

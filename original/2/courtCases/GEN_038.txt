@@ -1,0 +1,152 @@
+$GEN_038_DOC_01_HEADER
+Compilé par : Charles Étienne
+$GEN_038_DOC_01_00
+	Une tragédie a eu lieu dans un immeuble des bords de Seine, près du pont Neuf : <a name="1" class="hidden">le troisième étage s'est effondré</a>. Les locataires, horrifiés par le fracas et la poussière, sont sortis en courant. Ce n'est qu'après quelques minutes que les plus courageux sont montés pour chercher des survivants et <a name="2" class="hidden">extraire les cadavres</a>.
+$GEN_038_DOC_01_01
+Les gravats et poutres ont coûté la vie à <a name="3" class="hidden">deux familles</a>, douze personnes en tout. Trois enfants ont survécu en se mettant sous une table en bois. Les voisins les ont sortis de là et les ont portés jusqu'à l'Hôtel-Dieu. Il est impossible d'imaginer ce que ces orphelins sont en train de vivre. Ils n'ont pas parlé ni mangé depuis deux jours.
+$GEN_038_DOC_01_02
+Le propriétaire du bâtiment a déclaré qu'il a demandé à construire un <a name="5" class="hidden">étage supplémentaire</a> il y a quelques années. Les travaux ont été supervisés par un architecte, Maurice Lortie. La Garde nationale a trouvé l'architecte, qui était aussi contremaître de la construction, à l'adresse fournie par le propriétaire. Maurice Lortie n'a pas été surpris lorsque les gendarmes ont toqué à sa porte. Il n'a pas résisté lorsqu'ils l'ont menotté et emmené en prison.
+$GEN_038_OnStart_00
+Le peuple est en colère et terrifié, et souhaite que quelqu'un soit puni pour cette tragédie.
+$GEN_038_OnStart_01
+Ton nom ?
+$GEN_038_OnStart_02
+Maurice Lortie, Monsieur le juge.
+$GEN_038_OnStart_03
+Tu construis des maisons ?
+$GEN_038_OnStart_04
+C'est exact. Cela fait de nombreuses années que je gagne ma vie en construisant et en rénovant des bâtiments.
+$GEN_038_OnStart_05
+Est-ce que l'étage s'est effondré à cause de toi ?
+$GEN_038_OnStart_06
+Je ne sais pas. J'ai travaillé à tant de maisons depuis.
+$GEN_038_OnStart_07
+À cause de toi, ces enfants sont morts !
+$GEN_038_OnStart_08
+Je tiens simplement à dire que je fais toujours de mon mieux quand je travaille.
+$GEN_038_OnGuilty_00
+L'architecte Lortie sera puni pour la tragédie qui a frappé deux familles. À la guillotine !
+$GEN_038_OnGuilty_01
+Vive la justice !
+$GEN_038_OnPrison_00
+Je condamne le citoyen Lortie à la prison.
+$GEN_038_OnPrison_01
+Bien, c'est ce qu'il mérite !
+$GEN_038_OnNotGuilty_00
+Il n'y a aucune preuve contre l'accusé. Maurice Lortie n'est pas coupable.
+$GEN_038_OnNotGuilty_01
+Peux-tu le répéter en regardant les orphelins dans les yeux ?
+$GEN_038_05x04_00_QTitle
+Il y a quelques années, tu as reçu une commande pour des travaux ?
+$GEN_038_05x04_00_00
+Il y a quelques années, tu as reçu une commande pour des travaux ?
+$GEN_038_05x04_00_01
+C'était il y a neuf ans. Je devais enlever le toit, ajouter un étage et reconstruire un toit.
+$GEN_038_05x04_00_02
+Est-ce une tâche compliquée ?
+$GEN_038_05x04_00_03
+On dit toujours qu'il est plus facile de construire quelque chose à partir de rien que de modifier quelque chose d'existant.
+$GEN_038_05x04_00_04
+Est-ce que le propriétaire a approuvé ton travail ?
+$GEN_038_05x04_00_05
+Si cela n'avait pas été le cas, j'aurais fait toutes les modifications qu'il demandait.
+$GEN_038_05x04_00_06
+Quel étage a été construit par tes soins ?
+$GEN_038_05x04_00_07
+Les combles, le troisième étage. Avant cela, le deuxième étage était sous les combles.
+$GEN_038_01x03_01_QTitle
+Citoyen, tu es un spécialiste du domaine. Qu'est-ce qui a pu causer cette tragédie ?
+$GEN_038_01x03_01_00
+Citoyen, tu es un spécialiste du domaine. Qu'est-ce qui a pu causer cette tragédie ?
+$GEN_038_01x03_01_01
+C'est difficile à dire : de mauvais matériaux, une trop grosse charge au sol, des parasites… chaque maison est différente. Cela aurait dû être rectifié avant que la maison ne s'effondre sur de pauvres gens.
+$GEN_038_01x03_01_02
+Tu n'as pas mentionné la malfaçon.
+$GEN_038_01x03_01_03
+Oui, malheureusement, cela pourrait aussi être le cas. J'ai pu faire une erreur dans mes calculs ou mal estimer la qualité du bois de charpente.
+$GEN_038_01x03_01_04
+Tu ne nies pas ?
+$GEN_038_01x03_01_05
+Si tu estimes que j'ai contribué à la mort de ces enfants, j'accepterai n'importe quelle punition. Il y a deux semaines, une maladie a emporté ma femme. Je me moque de ce qui peut m'arriver.
+$GEN_038_03x04_02_QTitle
+Faites venir à la barre le témoin, Roland Lussier.
+$GEN_038_03x04_02_00
+Faites venir à la barre le témoin, Roland Lussier.
+$GEN_038_03x04_02_02
+Es-tu le propriétaire de la maison où un étage s'est effondré ?
+$GEN_038_03x04_02_03
+Oui, le sol des combles s'est effondré sur l'étage du dessous.
+$GEN_038_02x01_03_QTitle
+As-tu parlé aux locataires ?
+$GEN_038_02x01_03_00
+As-tu parlé aux locataires ? Ceux qui ont sorti les victimes des décombres ?
+$GEN_038_02x01_03_01
+Ils sont venus me voir au milieu de la nuit, en colère et pleins de tristesse. Je comprends leur douleur. J'ai des enfants moi aussi.
+$GEN_038_02x01_03_02
+Réponds à ma question : leur as-tu parlé ?
+$GEN_038_02x01_03_03
+Non, j'ai dû me calfeutrer dans ma maison et fermer les volets car ils jetaient des pierres.
+$GEN_038_02x01_03_04
+Le bâtiment s'est donc effondré à cause de toi, et tu n'as même pas eu le courage de parler aux victimes ?
+$GEN_038_02x01_03_05
+Je sais. Je suis lâche.
+$GEN_038_02x01_03_06
+Comment ont-ils su où aller ?
+$GEN_038_02x01_03_07
+Je ne sais pas. Seul le propriétaire de l'immeuble connaissait mon adresse.
+$GEN_038_WIT_00_A_QTitle
+Les appartements n'étaient pas très grands, n'est-ce pas ?
+$GEN_038_WIT_00_A_00
+Les appartements n'étaient pas très grands, n'est-ce pas ?
+$GEN_038_WIT_00_A_01
+Deux pièces. Une à l'étage. Ce n'était pas très spacieux mais je ne demandais pas un loyer élevé.
+$GEN_038_WIT_00_A_02
+Combien de personnes vivaient à l'étage ?
+$GEN_038_WIT_00_A_03
+Je ne sais pas, je ne les ai pas comptés.
+$GEN_038_WIT_00_A_04
+Tu ne sais pas combien de locataires tu avais ?
+$GEN_038_WIT_00_A_05
+Je possède deux immeubles. Tant que j'ai mes loyers, je me fiche bien de ce qu'il se passe à l'intérieur.
+$GEN_038_WIT_00_A_06
+Profiteur ! Il veut bien prendre l'argent, mais il se moque comme d'une guigne de ses locataires !
+$GEN_038_WIT_00_B_QTitle
+Les locataires se plaignaient-ils de quelque chose avant la tragédie ?
+$GEN_038_WIT_00_B_00
+Les locataires se plaignaient-ils de quelque chose avant la tragédie ?
+$GEN_038_WIT_00_B_01
+Ils disaient que le plancher grinçait, mais ce n'est pas inhabituel. Il grince chez moi aussi, et alors ?
+$GEN_038_WIT_00_B_02
+As-tu inspecté le plancher ?
+$GEN_038_WIT_00_B_03
+J'allais le faire. La tragédie m'a pris de vitesse.
+$GEN_038_WIT_00_B_04
+Dieu merci, il a eu le temps de prendre leur argent !
+$GEN_038_KEY_01
+Étage effondré
+$GEN_038_KEY_02
+Cadavres
+$GEN_038_KEY_03
+Appartement surpeuplé
+$GEN_038_KEY_04
+Propriétaire de l'immeuble
+$GEN_038_KEY_05
+Étage supplémentaire
+$GEN_038_LastDialog_00
+C'est la justice, cela ? Et est-ce que quelqu'un va punir le propriétaire de la maison ?
+$GEN_038_UNIQUE_QUESTION_00
+Quelle était l'étendue des travaux de construction effectués par l'architecte ?
+$GEN_038_UNIQUE_ANSWER_CORRECT_00_00
+La construction d'un nouvel étage.
+$GEN_038_UNIQUE_ANSWER_NOT_CORRECT_00_00
+La restauration de la façade.
+$GEN_038_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Le renforcement de murs déformés.
+$GEN_038_UNIQUE_QUESTION_01
+D'après le témoin, les locataires exprimaient-ils des plaintes ?
+$GEN_038_UNIQUE_ANSWER_CORRECT_01_00
+Des planchers grinçants.
+$GEN_038_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Des rats.
+$GEN_038_UNIQUE_ANSWER_NOT_CORRECT_01_01
+De l'humidité.

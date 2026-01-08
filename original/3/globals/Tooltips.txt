@@ -1,0 +1,26 @@
+#INFLUENCE_TIP
+Влияние
+#INCLUENCE_TIP_SHORT
+ОВ
+#INFLUENCE_INCOME_TIP
+Увеличение влияния
+#COST_TIP
+Стоимость:
+#SUPPORT_FORMAT_TIP
+Поддержка: {0}
+#PEOPLE_SUPPORT_TIP
+Поддержка простого люда
+#ARISTOCRATS_SUPPORT_TIP
+Поддержка аристократов
+#REVOLUTIONISTS_SUPPORT_TIP
+Поддержка революционеров
+#REPUTATION_TIP
+Репутация
+#CLOSE_VIEW_TIP
+Закрыть
+#START_DISCUSSION_TOOLTIP
+Попытаться убедить
+#OPEN_DISCUSSION_INFO
+Свериться с записями
+#DECISION_NOT_ENOUGH_POINTS
+<color=#ff0000ff>У вас недостаточно средств на выполнение этого действия.</color>

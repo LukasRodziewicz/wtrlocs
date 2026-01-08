@@ -1,0 +1,186 @@
+$GEN_044_DOC_01_HEADER
+Compilado por: Nathan d'Essiraf
+$GEN_044_DOC_01_00
+	A jovem de 19 anos, <a name="1" class="hidden">viúva do conspirador</a> Conde Cyrille de la Montange, é acusada de agredir um oficial. O incidente ocorreu durante a execução pública de seu marido, condenado à morte três meses antes. Segundo o processo, ele planejava assassinar os principais líderes da Revolução.
+$GEN_044_DOC_01_01
+	A decapitação ocorreu diante da Prefeitura de Paris. Pouco depois, o capitão da Guarda Nacional, Roger Plessis, perdeu um olho, supostamente pelas mãos da condessa de la Montagne. Dizem que a condessa <a name="3" class="hidden">incitou um tumulto</a> na multidão e então <a name="4" class="hidden">lançou uma pedra</a> na direção do capitão Plessis, que estava sobre o cadafalso. A vítima a reconheceu entre o povo, e a condessa foi imediatamente detida pelos guardas que vigiavam a execução.
+$GEN_044_DOC_01_02
+	Tudo indica que o ferimento do Capitão não foi um dano colateral, mas sim resultado direto de um ataque deliberado de de la Montagne. Foi ele quem <a name="5" class="hidden">descobriu o complô</a> e prendeu o Conde junto com quatro de seus cúmplices, todos aristocratas ligados à corte real antes da Revolução.
+$GEN_044_DOC_01_03
+	Agora, privado de um dos olhos, o capitão Plessis ignora o sexo, a idade e a gravidez da condessa, acusando-a de atividade contrarrevolucionária e exigindo a pena máxima para ela.
+$GEN_044_OnStart_00
+Matem o Contrarrevolucionário!
+$GEN_044_OnStart_01
+Abaixo a aristocracia!
+$GEN_044_OnStart_02
+Eles enlouqueceram?
+$GEN_044_OnStart_03
+O juiz Nanou habilmente se esquivou deste julgamento, alegando parentesco com o capitão Plessis. Declarou: “Não posso ser o juiz no processo de meu primo. Primo distante, mas ainda assim, primo.”
+$GEN_044_OnStart_04
+Covarde miserável... Cidadão, qual é o seu nome?
+$GEN_044_OnStart_05
+Condessa Isabelle de la Montagne. Não pense que seu semblante severo me intimida. Minha família e eu já sofremos o bastante com sua... Revolução.
+$GEN_044_OnStart_06
+Você ouviu aquela vaca atrevida?!
+$GEN_044_OnStart_07
+Ordem! Recomenda-se ao acusado que colabore com o tribunal. Lembre-se de que não é só a sua vida que está em jogo.
+$GEN_044_OnStart_08
+Nem eu, nem meu filho ainda não nascido, somos culpados pela deficiência de Plessis.
+$GEN_044_OnStart_09
+Claro, a pedra voou sozinha pelo ar para acertar meu olho! E além disso, é simplesmente revoltante se esconder atrás de uma criança que ainda nem nasceu. Você devia se envergonhar!
+$GEN_044_OnGuilty_00
+Condeno a cidadã Isabelle de la Montagne à morte! Levem a condenada.
+$GEN_044_OnGuilty_01
+Um final digno para a aristocracia e seus bastardos!
+$GEN_044_OnGuilty_02
+As provas eram contundentes, a justiça triunfou.
+$GEN_044_OnPrison_00
+Condeno a cidadã Isabelle de la Montagne à prisão! Levem a condenada.
+$GEN_044_OnPrison_01
+Que ela perca a cabeça!
+$GEN_044_OnPrison_02
+Isso é porque ela é uma aristocrata! Uma pessoa comum já teria sido enforcada!
+$GEN_044_OnPrison_03
+A criança deles recebeu uma chance. Esperemos que ela não seja desperdiçada.
+$GEN_044_OnNotGuilty_00
+O veredicto no caso da condessa Isabelle de la Montagne é... inocente! Retirem a acusada.
+$GEN_044_OnNotGuilty_01
+Que covarde!
+$GEN_044_OnNotGuilty_02
+Os aristocratas ainda continuam tão privilegiados assim?
+$GEN_044_OnNotGuilty_03
+Fora com uma lei dessas!
+$GEN_044_02x04_00_QTitle
+Foi você quem atirou a pedra que feriu a vítima?
+$GEN_044_02x04_00_00
+Foi você quem atirou a pedra que feriu a vítima?
+$GEN_044_02x04_00_01
+Não sei quem lançou, mas fico feliz que não tenha errado o alvo.
+$GEN_044_02x04_00_02
+O Capitão afirma que foi você. É difícil duvidar dele, já que observou todo o ocorrido do cadafalso.
+$GEN_044_02x04_00_03
+Olhem para mim, olhem bem. Não sou forte, estou grávida de cinco meses, e soldados e a multidão me separavam do cadafalso. Ele estava a pelo menos 20 metros de distância. Como eu poderia acertá-lo de tão longe?
+$GEN_044_02x04_00_04
+Você agiu movido por emoções intensas, e sabe-se que elas podem revelar forças inesperadas.
+$GEN_044_02x04_00_05
+Eu não consegui fazer nada além de chorar!
+$GEN_044_02x04_00_06
+Você estava tão furioso quanto está agora.
+$GEN_044_02x04_00_07
+Você diz isso, mas a raiva seria compreensível numa situação dessas, e sabemos do que as pessoas são capazes quando estão furiosas.
+$GEN_044_03x04_01_QTitle
+Você incitou um motim para se vingar da vítima?
+$GEN_044_03x04_01_00
+Você incitou um motim para se vingar da vítima?
+$GEN_044_03x04_01_01
+Eu não incitei nada. Tudo o que lembro é de ter caído sobre um homem que estava atrás de mim... Houve uma confusão... E então os soldados me tiraram da multidão.
+$GEN_044_03x04_01_02
+Então você não se lembra de muita coisa.
+$GEN_044_03x04_01_03
+Não.
+$GEN_044_03x04_01_04
+Então você não pode afirmar com certeza que não atirou a pedra.
+$GEN_044_01x05_02_QTitle
+Você admite ter atirado uma pedra na direção da vítima…
+$GEN_044_01x05_02_00
+Você admite ter atirado uma pedra na direção da vítima porque ele foi responsável pela morte do seu marido?
+$GEN_044_01x05_02_01
+Infelizmente, não fui eu quem feriu esse canalha. Ele é quem deveria ser decapitado — e não só pela morte do meu marido.
+$GEN_044_01x05_02_02
+Como assim?
+$GEN_044_01x05_02_03
+Eu me entreguei a ele! Fiz isso porque ele prometeu poupar meu marido, e agora estou grávida do filho dele! Vai dizer alguma coisa, Plessis, seu desgraçado?!
+$GEN_044_01x05_02_04
+Ela está mentindo, aquela vadia maldita!
+$GEN_044_01x05_02_05
+É mentira, monsieur le juge! O senhor deveria amordaçá-la!
+$GEN_044_01x05_02_06
+Qualquer mulher poderia dizer isso. Precisamos de provas.
+$GEN_044_01x05_02_07
+Eu vou dar à luz essa criança, Plessis, para que todos vejam a semelhança!
+$GEN_044_01x05_02_08
+Ordem, ordem! Preciso mesmo me repetir? Tragam o capitão Plessis como testemunha.
+$GEN_044_01x03_03_QTitle
+Descreva sua participação no motim.
+$GEN_044_01x03_03_00
+Descreva seu envolvimento no motim.
+$GEN_044_01x03_03_01
+Eu não tive nada a ver com isso! Por que eu incitaria ou participaria disso? Isso traria meu marido de volta à vida?
+$GEN_044_01x03_03_02
+Considerando os crimes do conde, é difícil acreditar que sua esposa não se envolveria em atividades que colocam a segurança pública em risco.
+$GEN_044_01x03_03_03
+Não tive envolvimento algum com as atividades do meu marido. Minha única culpa, como podem ver, é ter nascido na corte e não em algum mercado...
+$GEN_044_WIT_00_A_QTitle
+Como o senhor comentaria a notável declaração feita pela ré?
+$GEN_044_WIT_00_A_00
+Como o senhor comentaria a notável declaração feita pela ré?
+$GEN_044_WIT_00_A_01
+É um escândalo o simples fato de me perguntar isso! Pela minha honra, não fui eu quem engravidou aquela bruxa!
+$GEN_044_WIT_00_A_02
+O réu parece bastante seguro disso. Você teve relações? Aceitou um suborno tão desonroso?
+$GEN_044_WIT_00_A_03
+Perdi um olho! Como vou servir ao país agora?
+$GEN_044_WIT_00_A_04
+Responda à pergunta!
+$GEN_044_WIT_00_A_05
+A ré me procurou na véspera do julgamento do marido e pediu que eu intercedesse por ele. Recusei.
+$GEN_044_WIT_01_A_QTitle
+Então de quem é essa criança?
+$GEN_044_WIT_01_A_00
+Então de quem é essa criança?
+$GEN_044_WIT_01_A_01
+Do conde traidor, imagino eu. Foi decapitado há três meses. Certamente se divertiu bastante antes disso...
+$GEN_044_WIT_01_A_02
+O conspirador foi decapitado há três meses, mas sua prisão ocorreu há cinco meses.
+$GEN_044_WIT_01_A_03
+Então ele a engravidou logo antes da prisão!
+$GEN_044_WIT_01_A_04
+Ou talvez tenha feito isso logo após a prisão.
+$GEN_044_WIT_01_A_05
+Escandaloso! A qualquer momento exigirei satisfação!
+$GEN_044_WIT_01_A_06
+Aqui, no tribunal, somos nós que exigimos algo de você, e não o contrário!
+$GEN_044_WIT_01_B_QTitle
+Como pode ter tanta certeza de que foi o acusado quem atirou a pedra?
+$GEN_044_WIT_01_B_00
+Como pode ter tanta certeza de que foi o réu quem atirou a pedra? Ouvi dizer que havia muita gente reunida em volta do cadafalso.
+$GEN_044_WIT_01_B_01
+Apenas uma pedra foi lançada. As pessoas brigavam entre si, mas ninguém ousaria levantar a mão contra um oficial que apenas cumpria ordens.
+$GEN_044_WIT_01_B_02
+Isso não prova nada.
+$GEN_044_WIT_01_B_03
+Talvez não, mas quando uma mulher grita: “Morte aos guardas traidores!” logo após você decapitar o marido dela, não há explicação melhor.
+$GEN_044_WIT_01_B_04
+Você viu isso?
+$GEN_044_WIT_01_B_05
+Eu a vi, e vi a pedra vindo de onde ela estava.
+$GEN_044_WIT_01_B_06
+O que há para pensar?
+$GEN_044_KEY_01
+Viúva de um conspirador
+$GEN_044_KEY_02
+Perda de olho
+$GEN_044_KEY_03
+Incitação a motim
+$GEN_044_KEY_04
+Atirar uma pedra
+$GEN_044_KEY_05
+Descoberta da conspiração
+$GEN_044_LastDialog_00
+Você mata dois inocentes de uma só vez!
+$GEN_044_UNIQUE_QUESTION_00
+Com o que a condessa tentou subornar o oficial Plessis?
+$GEN_044_UNIQUE_ANSWER_CORRECT_00_00
+Ela se entregou a ele.
+$GEN_044_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ela lhe deu ouro.
+$GEN_044_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ela deu a casa dela para ele.
+$GEN_044_UNIQUE_QUESTION_01
+Segundo a testemunha, o que o réu estava gritando?
+$GEN_044_UNIQUE_ANSWER_CORRECT_01_00
+Morte aos guardas traidores!
+$GEN_044_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Morra, Plessis!
+$GEN_044_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Abaixo a Revolução!

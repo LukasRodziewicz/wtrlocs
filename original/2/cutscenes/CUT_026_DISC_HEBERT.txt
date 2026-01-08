@@ -1,0 +1,98 @@
+$CUT_026_DISC_HEBERT_001_DANTON
+À qui crois-tu parler ? Il te plairait de donner le pouvoir à des gens qui ne savent même pas lire !
+$CUT_026_DISC_HEBERT_002_HEBERT
+Si je comprends bien, les pauvres ne sont bons qu'à mourir au front d'après toi ?
+$CUT_026_DISC_HEBERT_003_DANTON
+Peut-être est-ce le destin de la Commune de Paris de tomber sous les balles pour protéger autrui ?
+$CUT_026_DISC_HEBERT_004_HEBERT
+Comment oses-tu !
+$CUT_026_DISC_HEBERT_005_JUDGE
+Messieurs, nous sommes ici pour former une alliance. Nos faiblesses individuelles, que Robespierre ne partage pas, nous commandent d'unir nos forces.
+$CUT_026_DISC_HEBERT_006_JUDGE_AGGR
+Robespierre est un dément dont la folie a fait assez de mal comme cela. Nous nous devons d'éliminer cet enragé !
+$CUT_026_DISC_HEBERT_007_JUDGE_MANI
+Il semblerait que Robespierre est complètement possédé par la démence. Il faut que quelqu'un l'arrête.
+$CUT_026_DISC_HEBERT_008_JUDGE_JOKE
+Peut-être sa démence lui murmurera-t-elle à l'oreille qu'il est pour lui-même une menace. Je me plais à imaginer ce maniaque s'envoyer à la guillotine…
+$CUT_026_DISC_HEBERT_009_JUDGE_HUMI
+Robespierre est un fou imprévisible. Tout citoyen français devrait le redouter.
+$CUT_026_DISC_HEBERT_010_HEBERT_DOUB
+La France a survécu à des siècles de tyrannie, elle survivra également à Robespierre.
+$CUT_026_DISC_HEBERT_011_HEBERT_IRRI
+Robespierre est-il le seul fanatique à Paris ?
+$CUT_026_DISC_HEBERT_012_HEBERT_AGGR
+Et toi ?! Tu veux m'amadouer pour tes propres fins. Tu ne vaux pas mieux que lui !
+$CUT_026_DISC_HEBERT_013_DANTON
+Pourquoi se fatiguer à parler au paltoquet ?
+$CUT_026_DISC_HEBERT_014_JUDGE_AGGR
+Si tu attaques Robespierre seul, tu échoueras. Voilà la triste vérité que tu dois reconnaître.
+$CUT_026_DISC_HEBERT_015_JUDGE_MANI
+Robespierre n'est pas arrivé là où il est par hasard. Nombreux sont ceux qui ont voulu l'abattre. Et ils ont tous échoué. Tu échoueras aussi si tu l'affrontes seul.
+$CUT_026_DISC_HEBERT_016_JUDGE_JOKE
+Tu penses avoir une position suffisamment forte pour t'attaquer à Robespierre. En vérité, sans notre aide, tu n'as pas l'ombre d'une chance.
+$CUT_026_DISC_HEBERT_017_JUDGE_HUMI
+Même ensemble, nous sommes à peine de taille à défier Robespierre et son pouvoir. Ne te jette pas dans la gueule du loup, il la refermera sans hésitation ni remords.
+$CUT_026_DISC_HEBERT_018_DANTON
+Alexis a raison. Individuellement, nous sommes des proies faciles.
+$CUT_026_DISC_HEBERT_019_HEBERT_INTR
+Y a-t-il quelque chose que tu sais et que j'ignore ?
+$CUT_026_DISC_HEBERT_020_HEBERT_DOUB
+Quand bien même j'échouerais, je pourrai négocier avec lui.
+$CUT_026_DISC_HEBERT_021_HEBERT_IRRI
+Je ne suis pas stupide, je sais à quel point Robespierre est dangereux. Mais vous me sous-estimez davantage encore !
+$CUT_026_DISC_HEBERT_022_HEBERT_AGGR
+Naïfs que vous êtes ! Je ne suis pas aussi faible que vous le croyez !
+$CUT_026_DISC_HEBERT_027_JUDGE_AGGR
+Et pourtant, tu t'es allié à un archevêque assermenté. Il faut être stupide pour voir en Gobel un partenaire loyal… Il est bien plus susceptible de rejoindre Robespierre que de rester à tes côtés.
+$CUT_026_DISC_HEBERT_028_JUDGE_MANI
+Gobel te trahira à la première occasion, car il lui est nettement préférable de s'unir à Robespierre. Tous deux tiennent en horreur le règne de la raison, mais Gobel ne te l'a pas encore montré.
+$CUT_026_DISC_HEBERT_029_JUDGE_JOKE
+Gobel te trahira comme il m'a trahi. Robespierre a tout simplement plus à lui offrir que chacun de nous.
+$CUT_026_DISC_HEBERT_030_JUDGE_HUMI
+Gobel te trahira. Et c'est toi qui le pousseras dans les bras de Robespierre. Il a déjà agi par instinct en se défroquant. Lorsque ta rivalité avec Robespierre prendra une tournure critique, il fera de même à la première complication.
+$CUT_026_DISC_HEBERT_031_JUDGE_AGGR
+Ne perds pas ton temps avec Gobel, tu n'as aucun pouvoir sur lui. Nous disposons assurément d'un meilleur candidat pour le rôle de bouc-émissaire. Je veux parler du procureur Tinville.
+$CUT_026_DISC_HEBERT_032_JUDGE_MANI
+Si tu fais équipe avec nous, nous aurons une meilleure personne que Gobel sous la main, quelqu'un en notre pouvoir : le procureur Tinville.
+$CUT_026_DISC_HEBERT_033_JUDGE_JOKE
+Remplaçons Gobel par le procureur Tinville. Voilà notre bouc-émissaire.
+$CUT_026_DISC_HEBERT_034_JUDGE_HUMI
+Disons que j'ai de l'influence sur quelqu'un qui fera un meilleur bouc-émissaire que Gobel : le procureur Tinville.
+$CUT_026_DISC_HEBERT_035_DANTON
+Je démissionnerai du Comité de salut public et proposerai Tinville en remplacement. Robespierre concentrera son attention sur lui et nous disposerons de plus de liberté d'action.
+$CUT_026_DISC_HEBERT_036_HEBERT_INTR
+Tinville, en tant que procureur, jouit d'une bonne réputation auprès du peuple. Il est possible que Robespierre le voie comme un rival, comme quelqu'un cherchant à être l'homme le plus important de France.
+$CUT_026_DISC_HEBERT_037_HEBERT_DOUB
+Et Tinville accepterait si facilement de rejoindre la croisade contre Robespierre ?
+$CUT_026_DISC_HEBERT_038_HEBERT_IRRI
+Je frémis à l'idée que vous êtes prêts à sacrifier cet homme sans l'ombre d'une hésitation. Je ne crois pas qu'il y consentirait.
+$CUT_026_DISC_HEBERT_039_HEBERT_AGGR
+Tu es une véritable brute, Fidèle. Gobel avait raison et Tinville risque de s'en rendre compte à tout moment.
+$CUT_026_DISC_HEBERT_040_JUDGE_AGGR
+Tinville est un homme avide. Nous lui ferons miroiter les atours du pouvoir et le laisserons y goûter. Cela devrait lui ôter tout soupçon sur nos intentions.
+$CUT_026_DISC_HEBERT_041_JUDGE_MANI
+Tout ce que j'ai à faire est lui montrer que le pouvoir est à sa portée. Tinville le désire autant que nous.
+$CUT_026_DISC_HEBERT_042_JUDGE_JOKE
+Je le convaincrai, il n'y a pas d'inquiétude à avoir. Tinville est un carriériste qui ne sait pas se satisfaire de ce qu'il a.
+$CUT_026_DISC_HEBERT_043_JUDGE_HUMI
+Tinville court après le pouvoir et je vais le persuader qu'il l'aura. Je m'humilierai pour flatter son orgueil, tout bouffi qu'il sera de voir un juge du Tribunal se mettre à son service.
+$CUT_026_DISC_HEBERT_044_DANTON
+Cela pourrait réussir. Confiance et coopération strictes seront essentielles pour mater Robespierre.
+$CUT_026_DISC_HEBERT_045_HEBERT_INTR
+Très bien, débarrassons-nous de Robespierre une fois pour toutes !
+$CUT_026_DISC_HEBERT_046_HEBERT_DOUB
+Bien, mais ne comptez pas sur ma confiance inconditionnelle. Je vous surveillerai. De près.
+$CUT_026_DISC_HEBERT_047_HEBERT_IRRI
+Tes arguments sont maigres. Trouve-toi donc un autre « allié ».
+$CUT_026_DISC_HEBERT_048_HEBERT_AGGR
+Vous m'avez fait perdre mon temps. Pensiez-vous vraiment que j'allais fraterniser avec des charlatans aussi corrompus que vous ?
+$CUT_026_DISC_HEBERT_TOPIC_01
+Robespierre est un fanatique dangereux.
+$CUT_026_DISC_HEBERT_TOPIC_02
+Sans alliés, Hébert échouera.
+$CUT_026_DISC_HEBERT_TOPIC_03
+Gobel a davantage à gagner à s'allier à Robespierre.
+$CUT_026_DISC_HEBERT_TOPIC_04
+Avançons ensemble et servons-nous de cet ambitieux de Tinville comme bouc-émissaire.
+$CUT_026_DISC_HEBERT_TOPIC_05
+Tinville est carriériste.

@@ -1,0 +1,60 @@
+$INTRIGUE_TITLE_003
+Jean-Baptiste Gobel
+$INTRIGUE_003_DESC
+Nachdem Gobel gesehen hat, wie Sie mit den Rolands und dem Bürgermeister von Paris umgegangen sind, betrachtet er Sie nun als Bedrohung. Das Bordell war für ihn einst eine wichtige Einnahme- und Informationsquelle, und als Bürgermeister ermöglichte Pache ihm die Kontrolle über die Stadt. Der Erzbischof selbst plante Ihre Ermordung und inszenierte den Tod Ihres Sohnes, wobei er sowohl die Rolands als auch Pache zwang, an den Verbrechen teilzunehmen.
+$INTR_003_B01_TITLE
+Gerüchte über Gobels Sohn
+$INTR_003_B01_DESC
+Die Nachricht über das uneheliche Kind des Erzbischofs darf kein Geheimnis mehr bleiben. Wir müssen dafür sorgen, dass diese Gerüchte sowohl Staatsanwalt Tinville als auch die einfachen Pariser erreichen.
+$INTR_003_B02_TITLE
+Tinvilles Untersuchung
+$INTR_003_B02_DESC
+Hoffen wir, dass die Gerüchte Tinvilles Fantasie genug beflügeln, damit er Gobels Fall offiziell untersucht. Es ist wichtig, einen Schatten des Zweifels auf den Erzbischof zu werfen, damit die Abgeordneten, die sich vor ihm fürchten, erkennen, dass auch Gobel eine Schwachstelle hat.
+$INTR_003_B03_TITLE
+Gobels Sohn gibt sich zu erkennen
+$INTR_003_B03_DESC
+Gérard Boutin verkündete vor der Kathedrale Notre-Dame, er sei der uneheliche Sohn von Erzbischof Gobel. Weinend berichtete er, seine Mutter sei in einem Heim gestorben. Rasch scharte der junge Mann eine Gruppe von Anhängern um sich, die Gobel als Sinnbild des verhassten Klerus betrachten. Was für eine bemerkenswerte Persönlichkeit… Boutins Auftritt sorgte für weit mehr Aufsehen, als wir je hätten erreichen können. Ich werde versuchen, ihn zu einem Treffen einzuladen, um zu prüfen, ob er wirklich der ist, für den er sich ausgibt.
+$INTR_003_B04_TITLE
+Blamage der Untergebenen
+$INTR_003_B04_DESC
+Es wird Zeit, in Gobels Obstgarten nach faulen Äpfeln zu suchen. Wenn wir die Vergehen seiner Untergebenen aufdecken, untergraben wir das Vertrauen der Menschen in den Erzbischof. Nach dem Aufstand in der Vendée steht der Klerus ohnehin ständig unter Beschuss von jenen, die die Kirche für verantwortlich halten.
+$INTR_003_B05_TITLE
+Priester verhaften und eine Rede halten
+$INTR_003_B05_DESC
+Es ist Zeit zuzuschlagen! Lasst uns das schwarze Schaf aus der Herde des Erzbischofs festnehmen. Es gibt keinen Grund mehr, sich zu verstecken – stellt euch ihm offen entgegen. Doch dafür braucht ihr einen Schild: das Volk von Paris. Entfacht ein Feuer in ihren Herzen!
+$INTR_003_B06_TITLE
+Die Unterstützung des Konvents gewinnen
+$INTR_003_B06_DESC
+Selbst mit der Unterstützung des Volkes können wir einen konstitutionellen Priester nicht angreifen, ohne die Hilfe der einzigen Autorität, der Gobel untersteht. Wir müssen dafür sorgen, dass die Mitglieder des Konvents sich vom Klerus abwenden, sonst bleibt Gobel unangreifbar. Die Kirche hat Jahrhunderte des Zorns der Gläubigen überstanden. Sie reagiert nur auf die Warnungen der Macht.
+$INTR_003_B07_TITLE
+Gobel entkam nur knapp
+$INTR_003_B07_DESC
+Gobel ist uns durch die Finger geglitten. Während einer Versammlung des Konvents verkündete er seinen Austritt aus dem geistlichen Stand. Mit erhobener Stimme erklärte er, von der Korruption und dem moralischen Verfall des Klerus angewidert zu sein. Zu unserer Überraschung spielte Hébert mit und machte Gobel zum Aushängeschild seiner Gruppe. Eine „spontane“ Menge bejubelte den Abtrünnigen. Mit nur einem Zug hat der ehemalige Erzbischof die Unterstützung sowohl der Straße als auch des Konvents gewonnen. Er hat Sie überlistet. Außerdem verkündete Hébert, dass er und Gobel eine Liste von 73 Abgeordneten und Beamten besitzen, die entweder Bestechungsgelder angenommen oder als Agenten fremder Mächte gehandelt haben. Er spielte deutlich auf Robespierre an und sagte, dass es keine Unbestechlichen gebe. Den Schuldigen wurden fünf Tage gegeben, um das Land zu verlassen. Danach soll die Liste veröffentlicht werden. Irgendetwas sagt mir, dass auch Ihr Name darauf steht…
+$INTR_003_B08_TITLE
+Der verstoßene Sohn
+$INTR_003_B08_DESC
+Mit einer einzigen entschlossenen Geste kappte Gobel seine Verbindung zur Vergangenheit. Gérard Boutin wollte ihn persönlich treffen, doch der Erzbischof wies ihn ab, nannte ihn einen Verräter und Betrüger. Ich bezweifle, dass er die Vaterschaft je anerkennen wird. Boutin ist ganz auf sich gestellt, und wir hätten nichts davon, ihn in unsere Pläne einzubeziehen.
+$INTR_003_BLOCK_001_PATH_STR
+Clovis wird die Gosse durchkämmen und einige Obdachlose dazu bringen, Gerüchte über Gobel zu verbreiten.
+$INTR_003_BLOCK_001_PATH_DIP
+David wird den Skandal mit einigen einflussreichen Spielkameraden besprechen.
+$INTR_003_BLOCK_001_PATH_ESP
+Einige zwielichtige Gestalten schulden Ramel einen Gefallen. Nutzen wir das aus.
+$INTR_003_BLOCK_001_PATH_STR_FAILURE
+Das Problem mit den Leuten, die im Rinnstein schlafen, ist, dass sie kaum Freunde in hohen Kreisen haben – und genau die bräuchten wir hier…
+$INTR_003_BLOCK_001_PATH_DIP_FAILURE
+Unser Diplomat enthüllte die skandalösen Gerüchte über Gobels angebliche Vaterschaft. Leider spülten seine Gesprächspartner diese Enthüllungen mit reichlich Alkohol hinunter und hielten alles für einen köstlichen Scherz. Ach, wie sie lachten!
+$INTR_003_BLOCK_001_PATH_ESP_FAILURE
+Wir haben den Wert der Ehre im Umfeld von Ramel überschätzt. Die meisten seiner Gefährten haben nichts zu unserer Sache beigetragen…
+$INTR_003_BLOCK_004_PATH_STR
+Wenn wir ein paar rückgratlosen, abtrünnigen Priestern drohen, werden sie uns sicher einige von Gobels Geheimnissen verraten.
+$INTR_003_BLOCK_004_PATH_DIP
+Die Abgeordneten des Konvents wissen sicher mehr, als sie zeigen. Sie hätten Gobel nicht zum Erzbischof gemacht, wenn sie nichts gegen ihn in der Hand hätten.
+$INTR_003_BLOCK_004_PATH_ESP
+Lassen wir Außenstehende aus der Suche heraus. Ramel wird persönlich diejenigen aufspüren, die sich von der Herde entfernt haben.
+$INTR_003_BLOCK_004_PATH_STR_FAILURE
+Die Männer, die zum Verzicht auf das Priesteramt gezwungen wurden, erwiesen sich als erstaunlich widerstandsfähig gegenüber körperlichen Überzeugungsmitteln. Keiner von ihnen sagte ein Wort.
+$INTR_003_BLOCK_004_PATH_DIP_FAILURE
+Selbst wenn die Abgeordneten etwas wissen, werden sie ihr Druckmittel nicht so leicht preisgeben. Keine Chance.
+$INTR_003_BLOCK_004_PATH_ESP_FAILURE
+Ramel ist gescheitert. Offenbar versteht es die Kirche meisterhaft, die Spuren ihrer Sünden zu verbergen. Ihr Spitzel konnte nichts finden, das eine Anklage ermöglichen würde.

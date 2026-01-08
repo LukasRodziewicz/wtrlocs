@@ -1,0 +1,48 @@
+$DISC_INTR_003_B08_DANTON_001_JUDGE_AGGR
+Já não controlamos mais a situação nas ruas. O caos pode atingir qualquer um, e não conseguimos acalmar a multidão com facilidade.
+$DISC_INTR_003_B08_DANTON_002_JUDGE_MANI
+A situação saiu do nosso controle. Ontem, uma garota foi espancada porque suspeitaram que ela espionava para os insurgentes. Quem sabe quem será o próximo alvo deles – você, eu...
+$DISC_INTR_003_B08_DANTON_003_JUDGE_JOKE
+Enquanto as pessoas só atiravam tomates podres em alvos aleatórios, a situação era tolerável, mas agora estão armadas com bastões de madeira.
+$DISC_INTR_003_B08_DANTON_004_JUDGE_HUMI
+Sei que prometi servir ao povo e defender a liberdade, mas nossos cidadãos estão indo longe demais.
+$DISC_INTR_003_B08_DANTON_005_DANTON_SATI
+A situação é preocupante, concordo. As pessoas têm medo de sair às ruas. Fico feliz que queira lidar com isso, embora eu não conheça seu plano.
+$DISC_INTR_003_B08_DANTON_006_DANTON_INTR
+Pessoas na nossa posição não se preocupam com multidões, apenas com indivíduos problemáticos que cruzam nosso caminho. Imagino que logo ouvirei falar deles.
+$DISC_INTR_003_B08_DANTON_007_DANTON_DOUB
+Sempre tive curiosidade em saber se você tiraria proveito da situação.
+$DISC_INTR_003_B08_DANTON_008_JUDGE_AGGR
+Gobel estragou tudo! Com um segredo desses, ele devia ter feito de tudo para garantir que nunca viesse à tona, mas em vez disso agiu como uma criança!
+$DISC_INTR_003_B08_DANTON_009_JUDGE_MANI
+Se os rumores se confirmarem, a presença de Gobel só vai piorar as coisas. Queremos mesmo que o povo pense que as autoridades estão corrompidas? Minha reputação está em jogo, assim como a sua e a dos seus colegas da Convenção.
+$DISC_INTR_003_B08_DANTON_010_JUDGE_JOKE
+Gobel se meteu em apuros no pior momento possível. Será que o Papa finalmente se vingou? Deus ouviu suas preces e decidiu punir o arcebispo por ter sido nomeado constitucionalmente…
+$DISC_INTR_003_B08_DANTON_011_JUDGE_HUMI
+Não gostaria de condenar alguém à revelia, mas me parece que a fúria do povo trouxe à tona certos segredos antigos — como o do arcebispo Gobel. Talvez devêssemos fazer algo a respeito?
+$DISC_INTR_003_B08_DANTON_012_DANTON_SATI
+Precisamos lidar com Gobel antes que a Convenção perca a capacidade de controlar suas ações.
+$DISC_INTR_003_B08_DANTON_013_DANTON_INTR
+Gobel realmente se tornou uma pedra no sapato, mas entendo a situação dele – os ricos sempre são acusados de mais do que realmente fizeram.
+$DISC_INTR_003_B08_DANTON_014_DANTON_DOUB
+Ainda não sei o que você vai ganhar com isso.
+$DISC_INTR_003_B08_DANTON_015_JUDGE_AGGR
+Não podemos pagar pelos atos de um único grupo. Com todas as suas mentiras e decadência, a Igreja fez por merecer a ira do povo. Vamos pôr um fim nisso e viver, enfim, em paz.
+$DISC_INTR_003_B08_DANTON_016_JUDGE_MANI
+O tigre enfurecido precisa de uma presa para dilacerar; assim, ficará tão ocupado que não prestará atenção a mais nada e poderemos viver em paz. E já que o tigre quer cravar os dentes no clero...
+$DISC_INTR_003_B08_DANTON_017_JUDGE_JOKE
+Realmente não temos outra opção. Eles querem o clero, então entreguemos o clero. Se querem acusar o clero de traição, repitamos suas palavras. Simples e eficiente.
+$DISC_INTR_003_B08_DANTON_018_JUDGE_HUMI
+Não sou a favor de prejudicar a Igreja. Ela mesma se fere pelas mãos de degenerados, amaldiçoados por nossos cidadãos. Precisamos cortar todos os laços com esse grupo. Pelo bem maior.
+$DISC_INTR_003_B08_DANTON_019_DANTON_SATI
+Seus argumentos são convincentes. A Igreja deve pagar por sua política desastrada e, já que decidiu se envolver...
+$DISC_INTR_003_B08_DANTON_020_DANTON_INTR
+Nunca fui entusiasta de soluções radicais, pois sempre acabam sendo caras demais. Hoje, porém, não vejo outra saída.
+$DISC_INTR_003_B08_DANTON_021_DANTON_DOUB
+Compreendo que você tenha seus motivos, e considero sensato não querer revelá-los. Mas seus argumentos não me convencem, pois tenho muito a perder.
+$DISC_INTR_003_B08_DANTON_TOPIC_01
+A situação nas ruas está ficando difícil de controlar.
+$DISC_INTR_003_B08_DANTON_TOPIC_02
+Os problemas com Gobel só jogaram mais lenha na fogueira.
+$DISC_INTR_003_B08_DANTON_TOPIC_03
+Precisamos punir alguém para dar o exemplo, e o povo quer atingir o clero.

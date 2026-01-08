@@ -1,0 +1,24 @@
+$DIAL_CO_02_02_01_001_JUDGE
+What was so important to bring you here, Marat? Is it really so important that we cannot discuss it at my house in the evening?
+$DIAL_CO_02_02_01_002_MARAT
+I would rather do it here, surrounded by other people, as I am afraid that I would not leave your house alive.
+$DIAL_CO_02_02_01_003_JUDGE
+I do not understand.
+$DIAL_CO_02_02_01_004_MARAT
+I am in possession of anonymously written documents that describe your actions since you became a judge of the Tribunal.
+$DIAL_CO_02_02_01_005_JUDGE
+…
+$DIAL_CO_02_02_01_006_MARAT
+Betrayals, murders, political bribery… Are you still human, or am I talking to the Devil?
+$DIAL_CO_02_02_01_007_JUDGE
+This is all Clément Renard’s doing. That man has already destroyed my father, and a few days ago he threatened to do the same to me if I would not be obedient to him.
+$DIAL_CO_02_02_01_008_MARAT
+Citizen Fidèle–
+$DIAL_CO_02_02_01_009_JUDGE
+Whatever is written there is not true! Those lies are only supposed to destroy–
+$DIAL_CO_02_02_01_010_MARAT
+Do not make a fool of me! Today, Renard was found dead at the back of the Café Procope. Know that I will dig into this until I know your every wrongdoing. Every murder, deceit, and betrayal.
+$DIAL_CO_02_02_01_011_JUDGE
+I can assure you that–
+$DIAL_CO_02_02_01_012_MARAT
+There is no need. Focus on assuring your family that you are not a monster, because I intend to be ruthless.

@@ -1,0 +1,139 @@
+$CUT_030_001_JUDGE
+Twoje oczy nigdy nie były tak puste.
+$CUT_030_002_JUDGE
+Ale dzisiaj… dzisiaj chcę, byś była ze mnie dumna.
+$CUT_030_003_THUG
+Przejedziemy się… sędzio?
+$CUT_030_004_JUDGE
+Synu!
+$CUT_030_005_BROTHER
+Witaj… bracie.
+$CUT_030_006_BROTHER
+Tyle dni kroczyłeś w ciemnościach.
+$CUT_030_007_JUDGE
+Bruno? To naprawdę ty? Jak… jak to możliwe?
+$CUT_030_008_BROTHER
+Powiedziano wam to, co mieliście usłyszeć.
+$CUT_030_009_BROTHER
+Musiałem umrzeć jako ulubieniec ojca, bym mógł się narodzić na nowo.
+$CUT_030_010_BROTHER
+Jako nemezis.
+$CUT_030_011_JUDGE
+Nie rozumiem… Co to ma wszystko znaczyć?
+$CUT_030_012_BROTHER
+Wróciłem, by odebrać wam to, czego mnie pozbawiliście – rodzinę, szczęście.
+$CUT_030_013_BROTHER
+Kiedy wy grzaliście się w cieple domowego ogniska, ja brodziłem w bitewnym mule.
+$CUT_030_014_JUDGE
+Wszyscy myśleli, że nie żyjesz.
+$CUT_030_015_BROTHER
+Tak było łatwiej, prawda? Byłem martwy i doświadczyłem piekła, mój bracie.
+$CUT_030_016_BROTHER
+Paryż mnie porzucił. Wszystkie drzwi się zatrzaskiwały na dźwięk mojego imienia.
+$CUT_030_017_BROTHER
+Wtedy piekło wyciągnęło po mnie swoje szpony.
+$CUT_030_018_BROTHER
+Zaciągnąłem się do armii, licząc, że spotka mnie godna śmierć.
+$CUT_030_019_BROTHER
+Pojmano mnie jednak. Cierpiałem.
+$CUT_030_020_BROTHER
+Żołnierze wroga zagrali ze mną w kości.
+$CUT_030_021_BROTHER
+Za wygraną – wolność.
+$CUT_030_022_BROTHER
+Jednak za każdą przegraną rundę – odcięta dłoń.
+$CUT_030_023_BROTHER
+Wygrałem pierwszą…
+$CUT_030_024_BROTHER
+…ale druga…
+$CUT_030_025_BROTHER
+Uciekłem i zaplanowałem zemstę – na rodzinie, na naszym ojcu.
+$CUT_030_026_BROTHER
+Na tych, którzy się mnie wyrzekli.
+$CUT_030_027_JUDGE
+Zemstę? Na nas? To Clément Renard jest winny, to on doprowadził…
+$CUT_030_028_BROTHER
+Wszyscy jesteście winni… Ojciec, ty, Francja.
+$CUT_030_029_JUDGE
+Chcesz skrzywdzić swoją rodzinę?!
+$CUT_030_030_BROTHER
+Wyrzekliście się mnie… Jak niegdyś Bóg odwrócił się od Kaina.
+$CUT_030_031_BROTHER
+Porzucił syna, a ty nie stanąłeś w mojej obronie.
+$CUT_030_032_JUDGE
+Byłem młody…
+$CUT_030_033_BROTHER
+Teraz jesteś dorosły, a nasz ojciec zobaczy, jak dobijasz do dna.
+$CUT_030_034_BROTHER
+I porzuci cię – jak mnie.
+$CUT_030_035_BROTHER
+Zrozumiałem, że gorsze od śmierci będzie dla niego obserwowanie,
+$CUT_030_036_BROTHER
+jak jego ostatni syn stacza się na dno i staje się złoczyńcą takim jak ja.
+$CUT_030_037_BROTHER
+I spisałeś się znakomicie. Zniszczyłeś ich wszystkich.
+$CUT_030_038_BROTHER
+Małżeństwo Rolandów.
+$CUT_030_039_BROTHER
+Pache’a i jego córkę.
+$CUT_030_040_BROTHER
+Gobela i jego bękarta.
+$CUT_030_041_BROTHER
+A teraz Robespierre’a.
+$CUT_030_042_BROTHER
+Wszystko zgodnie z moim planem – musiałem jedynie obudzić w tobie pragnienie władzy.
+$CUT_030_043_BROTHER
+Sprowadziłem cię na mój poziom. Na oczach naszego ojca.
+$CUT_030_044_BROTHER
+Nie dostrzeże teraz różnic między nami.
+$CUT_030_045_JUDGE
+Zaplanowałeś też śmierć mojego syna?
+$CUT_030_046_BROTHER
+I wykonałem rękami Renarda oraz twojego ukochanego mentora…
+$CUT_030_047_BROTHER
+Odwiedziłem go i wmówiłem mu historyjkę o uwięzionym synu.
+$CUT_030_048_BROTHER
+Wtedy i on przedzierzgnął się w złoczyńcę, stał się jednym z nas.
+$CUT_030_049_BROTHER
+Pomógł zabić twoje dziecko, by ratować własne.
+$CUT_030_050_BROTHER
+Potrzebowałem własnej rewolucji.
+$CUT_030_051_BROTHER
+Miejsca dla ludzi, których nazwaliście złoczyńcami, bo do was nie pasowali.
+$CUT_030_052_BROTHER
+Prowadzę na Paryż armię odrzuconych i wyklętych.
+$CUT_030_053_BROTHER
+Synów i córki matek zamordowanych na gilotynie.
+$CUT_030_054_BROTHER
+Ludzi pozbawionych dorobku przez rewolucję i wygnanych na obcą ziemię.
+$CUT_030_055_BROTHER
+Za kilka dni zaatakujemy Paryż, a z jego gruzów powstanie Nowe, gdzie ojciec spogląda zawsze na obu synów.
+$CUT_030_056_JUDGE
+Oszalałeś!
+$CUT_030_057_BROTHER
+Poczekaj z oceną, aż dowiesz się, co zrobię z twoim drugim dzieckiem…
+$CUT_030_058_JUDGE
+On niczemu nie zawinił!
+$CUT_030_059_BROTHER
+Wszyscy muszą płacić za grzechy ojców, tak jak ja zapłaciłem za tchórzostwo naszego.
+$CUT_030_060_BROTHER
+Zagramy w kości, dwie rundy.
+$CUT_030_061_BROTHER
+Za każdą przegraną odetniemy dziecku jedną dłoń.
+$CUT_030_062_BROTHER
+Ta sama stawka, którą ja musiałem przyjąć, a którą zapłaci twój syn.
+$CUT_030_063_BROTHER
+Odpowiednia jak na grzechy, które masz na sumieniu.
+
+$CUT_030_064_JUDGE
+Ramel… mój przyjaciel.
+$CUT_030_065_JUDGE
+Uratował mnie.
+$CUT_030_066_JUDGE
+Uratował mojego syna.
+$CUT_030_067_JUDGE
+Nie mógł jednak ocalić czegoś, co rozbiło się na milion części.
+$CUT_030_068_JUDGE
+Jej wzrok nie był teraz pusty.
+$CUT_030_069_JUDGE
+Jej wzrok…

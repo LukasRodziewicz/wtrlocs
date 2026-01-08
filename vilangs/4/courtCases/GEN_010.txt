@@ -1,0 +1,285 @@
+$GEN_010_DOC_1_HEADER
+Zusammengestellt von: Bertrand Moreau
+$GEN_010_DOC_1_00
+Alfred Renoir ist ein 43-jähriger Bäcker aus den nördlichen Vororten von Paris. Renoir wird beschuldigt, den Tod mehrerer Kinder aus der Nachbarschaft verursacht zu haben. Der Angeklagte und seine Frau haben zwei Söhne und eine Tochter. Zeugen berichten, er sei ein wortkarger, aber mitfühlender Mensch. Er verweigerte nie den Verkauf von Brot auf Kredit und mischte niemals Sägemehl ins Mehl. Bei der Durchsuchung seines Hauses wurden keine monarchistischen Schriften gefunden.
+$GEN_010_DOC_1_01
+Die Klagen gegen den Bäcker wurden von drei Frauen eingereicht, die ihn für den Tod ihrer Kinder verantwortlich machen. Insgesamt wurden acht Minderjährige tot aufgefunden. Die Todesursache wurde von einem Pariser Arzt als <a name="2" class="hidden">Hunger</a> bestätigt.
+$GEN_010_DOC_1_02
+Eine Woche zuvor versuchten diese Frauen gemeinsam mit einigen Nachbarn, den Bäcker dazu zu zwingen, ihnen Brot – oder zumindest etwas Mehl – zu verkaufen. Laut Zeugenaussagen standen nicht mehr als 15 Personen vor der Bäckerei.
+$GEN_010_DOC_1_03
+Renoir <a name="3" class="hidden">lehnte kategorisch ab</a> und drohte, die Wache zu rufen. Als das hungrige Volk ihn bat, die Brotproduktion zu erhöhen, verweigerte er erneut jede Hilfe. Am nächsten Tag suchten ihn die drei Mütter, die ihn nun anklagen, erneut auf – doch wieder konnten sie kein Brot kaufen.
+$GEN_010_DOC_1_04
+Der Ermittler fand mit Unterstützung von Soldaten einen großen Vorrat an Mehl in den Lagern der Bäckerei. Es lässt sich jedoch nur schwer beweisen, ob der <a name="4" class="hidden">Tod der Kinder</a> ausschließlich auf das Verhalten des Bäckers zurückzuführen ist.
+$GEN_010_DOC_1_05
+Der Bäcker gab an, sein Mehl von einem <a name="5" class="hidden">Bauern vom Land</a> zu beziehen. Doch niemand hat ihn je in Paris gesehen. Es wird getuschelt, er stecke mit den Österreichern unter einer Decke. Viele glauben, die Habsburger wollten die Revolution bekämpfen, indem sie die Bürger von Paris aushungern.
+$GEN_010_DOC_1_06
+Der Angeklagte konnte seine Gründe für den Brotverkauf nicht erklären und behauptete lediglich, er habe keine andere Wahl gehabt.
+$GEN_010_DOC_1_07
+Beweis:
+<a name="7" class="hidden">Ein Einkaufsbuch.</a>
+$GEN_010_OnStart_00
+Mörderischer Verräter! Wir wollen unser Brot!
+$GEN_010_OnStart_01
+Wenn hungrige und verzweifelte Menschen anfangen, über mögliche Verschwörungen zu reden, hält man sich besser von ihrem Misstrauen fern.
+$GEN_010_OnStart_02
+Der Angeklagte möge sich vorstellen.
+$GEN_010_OnStart_03
+Mein Name ist Alfred Renoir. Ich bin Bäcker.
+$GEN_010_OnStart_04
+Bürger Renoir, Ihnen wird vorgeworfen, den Tod mehrerer Kinder verursacht zu haben.
+$GEN_010_OnStart_05
+Ich habe niemanden getötet. Ich würde niemals einem Kind etwas antun.
+$GEN_010_OnStart_06
+Vielleicht hat er nicht selbst das Messer geführt, aber schuldig ist er trotzdem.
+$GEN_010_OnStart_07
+Herzloser Bastard!
+$GEN_010_OnGuilty_00
+Ich spreche Alfred Renoir schuldig der vorsätzlichen Aushungerung der Bürger von Paris und des Todes von Kindern. Für diese Verbrechen verurteile ich ihn zur Guillotine.
+$GEN_010_OnGuilty_01
+Ein weises Urteil. Wir befinden uns im Krieg, und der Krieg verlangt nach unerbittlichen Entscheidungen.
+$GEN_010_OnGuilty_02
+Na und? Meine Kinder sind trotzdem tot!
+$GEN_010_OnGuilty_03
+Gebt sein Mehl dem Volk!
+$GEN_010_OnGuilty_04
+Großartig! Der Bäcker verliert seinen Kopf und wir können uns endlich satt essen!
+$GEN_010_OnNotGuilty_00
+Der Angeklagte hat kein Verbrechen begangen. Ich bitte um die Freilassung des Bürgers Alfred Renoir.
+$GEN_010_OnNotGuilty_01
+Einspruch! Ich fordere die Bestrafung des Angeklagten!
+$GEN_010_OnNotGuilty_02
+Ihre Kinder kennen den Hunger nicht, oder Richter?
+$GEN_010_OnNotGuilty_03
+Der Richter macht doch gemeinsame Sache mit den Österreichern!
+$GEN_010_OnNotGuilty_04
+Wir fordern einen anderen Richter!
+$GEN_010_01x03_00_QTitle
+Stimmt es, dass Sie diesen drei Frauen das Brot verweigert haben?
+$GEN_010_01x03_00_00
+Stimmt es, dass Sie sich geweigert haben, diesen drei Frauen Brot zu verkaufen?
+$GEN_010_01x03_00_01
+Ja, sie kamen zu mir und baten um Brot.
+$GEN_010_01x03_00_02
+Wollten sie es umsonst haben?
+$GEN_010_01x03_00_03
+Nein, sie haben mir das Geld regelrecht in die Hand gedrückt. Sogar mehr, als sie eigentlich sollten.
+$GEN_010_01x03_00_04
+Und er hat uns angeschrien!
+$GEN_010_01x03_00_05
+Hast du ihm gesagt, dass du es für deine Kinder gebraucht hast?
+$GEN_010_01x03_00_06
+Ja, und trotzdem hat er abgelehnt.
+$GEN_010_01x03_00_07
+Hast du denn gar kein Gewissen?
+$GEN_010_01x03_00_08
+Ich habe sie höflich gebeten, doch sie wollten einfach nicht gehen…
+$GEN_010_01x03_00_09
+Warum haben Sie abgelehnt?
+$GEN_010_01x03_00_10
+Ich hatte keine andere Wahl…
+$GEN_010_02x06_01_QTitle
+Wissen Sie, dass unser Land im Krieg ist?
+$GEN_010_02x06_01_00
+Wissen Sie, dass unser Land im Krieg ist?
+$GEN_010_02x06_01_01
+Ja, das ist mir bekannt.
+$GEN_010_02x06_01_02
+Warum haben Sie dann Ihren Mitbürgern die Hilfe verweigert? Ihr Verhalten ist ein Verrat an der Republik, und ich kann Sie des Hochverrats anklagen.
+$GEN_010_02x06_01_03
+Monsieur Richter, wissen Sie, dass ich ebenfalls meinen eigenen Krieg führe?
+$GEN_010_02x06_01_04
+Welcher Krieg?
+$GEN_010_02x06_01_05
+Von der, in der ich um das Überleben meiner Familie kämpfe. Jeder andere Krieg kann warten. Ich habe drei Kinder und eine Frau, und ich kann sie nicht verraten.
+$GEN_010_02x06_01_06
+Wenn wir verlieren, wird jedes Kind hungern.
+$GEN_010_02x06_01_07
+Er hat den Österreichern seine Seele verkauft, nur um seiner Hure ein paar Brotkrumen zu geben.
+$GEN_010_02x07_02_QTitle
+Laut dem Einkaufsbuch hatten Sie genug Brot …
+$GEN_010_02x07_02_00
+Laut dem Einkaufsbuch hatten Sie genug Brot, um es diesen Frauen und vielen weiteren Kunden zu verkaufen.
+$GEN_010_02x07_02_01
+Im Moment ja, aber wer weiß, was bald geschieht? Wird es noch Nachschub geben? Der wahre Hunger steht uns vielleicht noch bevor, und ich muss meine Familie ernähren. Wie lange werden sie wohl allein von meinen jetzigen Vorräten leben müssen?
+$GEN_010_02x07_02_02
+Wir hatten auch Kinder!
+$GEN_010_02x07_02_03
+Haben Sie all das für Ihren eigenen Gebrauch aufbewahrt?
+$GEN_010_02x07_02_04
+Für meine Familie, ja. Ist das wirklich ein Verbrechen?
+$GEN_010_02x07_02_05
+Und Sie haben jeden Tag etwas zu essen gehabt?
+$GEN_010_02x07_02_06
+Zum Glück ja, aber ich weiß nicht, wie lange das anhalten wird.
+$GEN_010_02x07_02_07
+Hast du diesen Bastard gehört? Ein Lakai des Kaisers!
+$GEN_010_02x04_03_QTitle
+Bitte rufen Sie den Zeugen auf.
+$GEN_010_02x04_03_00
+Bitte rufen Sie den Zeugen auf.
+$GEN_010_02x04_03_02
+Bitte stellen Sie sich vor.
+$GEN_010_02x04_03_03
+Arnaud Lemout. Ich habe die Kinder untersucht.
+$GEN_010_03x04_04_QTitle
+Diese Frauen behaupten, Ihr Ablehnen sei der unmittelbare Auslöser gewesen…
+$GEN_010_03x04_04_00
+Diese Frauen behaupten, dass Ihre Weigerung direkt zum Tod ihrer Kinder geführt habe. Was entgegnen Sie darauf?
+$GEN_010_03x04_04_01
+War mein Brot etwa das letzte bisschen Nahrung in ganz Paris? Wenn sie ihre Kinder ernähren wollten, hätten sie sich mehr anstrengen müssen.
+$GEN_010_03x04_04_02
+Er versucht, diesen armen Frauen die Schuld zuzuschieben!
+$GEN_010_03x04_04_03
+Eine verräterische österreichische Spionin wagt es, mich eine schlechte Mutter zu nennen?
+$GEN_010_03x04_04_04
+Wollen Sie damit sagen, dass diese Tragödie auf die Nachlässigkeit der Eltern zurückzuführen ist?
+$GEN_010_03x04_04_05
+Ich bin der Vater meiner eigenen Kinder, nicht jedes Kindes in der Nachbarschaft.
+$GEN_010_03x04_04_06
+Ihr Verhalten zeigt, dass Sie das revolutionäre Ideal der Brüderlichkeit nicht verstehen.
+$GEN_010_03x04_04_07
+Freiheit, Gleichheit, Brüderlichkeit… und eine scharfe Klinge, um den Halunken die Köpfe abzuschlagen!
+$GEN_010_03x06_05_QTitle
+Sind Sie ein österreichischer Spion?
+$GEN_010_03x06_05_00
+Sind Sie ein österreichischer Spion?
+$GEN_010_03x06_05_01
+…
+$GEN_010_03x06_05_02
+Bürger?
+$GEN_010_03x06_05_03
+Ich habe nicht geantwortet, um Sie nicht versehentlich zu beleidigen, Monsieur le Juge, denn die einzig passende Antwort wäre, dass derjenige, der diesen Unsinn erfunden hat, ein Idiot sein muss. Und ich bitte um Entschuldigung, Monsieur le Juge, falls es Ihre Idee war.
+$GEN_010_03x06_05_04
+Viele Leute sagen, dass hier etwas nicht mit rechten Dingen zugeht.
+$GEN_010_03x06_05_05
+Ich spreche nicht einmal ihre Sprache! Irgendwelche Tölpel haben diese lächerliche Anschuldigung erfunden, weil sie ihr eigenes Leben nicht auf die Reihe kriegen.
+$GEN_010_03x06_05_06
+Wen nennst du hier Trottel, du egoistisches Schwein?!
+$GEN_010_06x05_06_QTitle
+Wie wird Ihnen das Mehl geliefert?
+$GEN_010_06x05_06_00
+Wie wird Ihnen das Mehl geliefert?
+$GEN_010_06x05_06_01
+Ich hole sie jeden Samstag selbst ab.
+$GEN_010_06x05_06_02
+Reisen Sie also regelmäßig aus der Stadt? Begleitet Sie dabei jemand?
+$GEN_010_06x05_06_03
+Nein, warum?
+$GEN_010_06x05_06_04
+Weil Sie des Spionageverdachts und der Verschwörung beschuldigt werden …
+$GEN_010_06x05_06_05
+Bravo! Der Richter hat den Verräter entlarvt!
+$GEN_010_06x05_06_06
+Was wäre daran seltsam, wenn ein Bäcker einmal pro Woche aufs Land fährt, um Mehl zu holen?
+$GEN_010_06x05_06_07
+Warum sollte es seltsam sein, dass jemand, der ständig unterwegs ist, als Spion angeworben wird?
+$GEN_010_06x05_06_08
+Das ist absurd.
+$GEN_010_06x05_06_09
+Rufen Sie den Zeugen auf.
+$GEN_010_06x05_06_11
+Sie waren also derjenige, der mit dem Angeklagten gehandelt hat? Stellen Sie sich bitte vor.
+$GEN_010_06x05_06_12
+Ruttmann ist mein Name, ich bin Bauer und Müller. Ja, ich habe mit ihm gehandelt, Monsieur Richter. Warum denn nicht? Habe ich etwas Unrechtes getan?
+$GEN_010_WIT_00_A_QTitle
+Könnten Sie Ihre Schlussfolgerungen nach der Untersuchung der Kinder schildern?
+$GEN_010_WIT_00_A_00
+Könnten Sie Ihre Schlussfolgerungen nach der Untersuchung der Kinder schildern?
+$GEN_010_WIT_00_A_01
+Sie waren geschwächt und abgemagert, eindeutig unterernährt. Offenbar befanden sie sich schon seit einiger Zeit in diesem Zustand.
+$GEN_010_WIT_00_A_02
+Hätten ein paar Laibe Brot vom Bäcker die Tragödie verhindern können?
+$GEN_010_WIT_00_A_03
+Einem ausgehungerten Menschen darf man kein Brot auf leeren Magen geben. Das führt meist zu verheerenden Folgen. Und nein, ein wenig Brot würde ihren Tod nur um ein paar Tage hinauszögern.
+$GEN_010_WIT_00_A_04
+Wie wagen Sie es!
+$GEN_010_WIT_00_A_05
+Vielleicht hätten die Eltern in diesen wenigen Tagen mehr Nahrung finden können.
+$GEN_010_WIT_00_A_06
+Vielleicht.
+$GEN_010_WIT_01_A_QTitle
+Was halten Sie von dem österreichischen Plan, ganz Paris auszuhungern?
+$GEN_010_WIT_01_A_00
+Was halten Sie von dem österreichischen Plan, ganz Paris auszuhungern?
+$GEN_010_WIT_01_A_01
+Das ist doch lächerlich. Ein einziger Bäcker?
+$GEN_010_WIT_01_A_02
+Die Leute sprechen von Dutzenden.
+$GEN_010_WIT_01_A_03
+Meiner Erfahrung nach reden die Menschen oft Unsinn. Eine große Gruppe Ungebildeter sucht immer nach einer einfachen Antwort.
+$GEN_010_WIT_01_A_04
+Nehmen wir für einen Moment an, diese Gerüchte wären tatsächlich wahr. Würde eine solche Verschwörung der Bäcker nicht zum Tod vieler Menschen führen?
+$GEN_010_WIT_01_A_05
+Ich denke schon, ja. Viele Pariser ernähren sich hauptsächlich von Brot, daher würde die Zahl der Todesfälle steigen.
+$GEN_010_WIT_01_A_06
+Ist Ihnen in letzter Zeit aufgefallen, dass immer mehr Menschen an Hunger sterben?
+$GEN_010_WIT_01_A_07
+Ja, aber ich glaube wirklich nicht, dass das das Ergebnis einer Verschwörung ist. Es gibt auch andere Gründe – Versorgungsprobleme mit Lebensmitteln, der Krieg und das ganze Chaos, das beides verursacht hat.
+$GEN_010_WIT_01_A_08
+Gut, dass wir es herausgefunden haben! Verrat!
+$GEN_010_WIT_02_A_QTitle
+Wie lange handeln Sie schon?
+$GEN_010_WIT_02_A_00
+Wie lange handeln Sie schon?
+$GEN_010_WIT_02_A_01
+Schon seit sechs oder sieben Jahren.
+$GEN_010_WIT_02_A_02
+Ist Ihnen in letzter Zeit eine Veränderung im Verhalten des Angeklagten aufgefallen?
+$GEN_010_WIT_02_A_03
+Nein, er war freundlich, wie immer. Allerdings hat er versucht, mich zu überreden, nur mit ihm zu handeln.
+$GEN_010_WIT_02_A_04
+Was haben Sie geantwortet? Fanden Sie diese Bitte nicht verdächtig?
+$GEN_010_WIT_02_A_05
+Ich habe zugestimmt. Was geht mich das an? Er hat immer gut bezahlt und ordentlich eingekauft. Klar, es war schon seltsam, dass er so viel Geld dabeihatte, aber das ist doch nicht meine Sache, oder?
+$GEN_010_WIT_02_A_06
+Haben auch andere Ihrer Kunden regelmäßig solche Mengen Mehl gekauft?
+$GEN_010_WIT_02_A_07
+Es war ungewöhnlich, ja. Ich weiß nicht, warum er so viel Mehl brauchte. Aber es sind schwere Zeiten, und er hat immer im Voraus bezahlt. Andere baten oft um Zahlungsaufschub, aber er nie.
+$GEN_010_WIT_02_A_08
+Hat Renoir niemals um eine Zahlungsaufschiebung gebeten?
+$GEN_010_WIT_02_A_09
+Niemals.
+$GEN_010_WIT_02_A_10
+Die Österreicher müssen dem Bäcker für seine Informationen gut bezahlt haben, damit er sich all das Mehl leisten konnte.
+$GEN_010_WIT_03_A_QTitle
+Ruttmann ist ein seltsamer Name für einen Franzosen.
+$GEN_010_WIT_03_A_00
+Ruttmann ist ein seltsamer Name für einen Franzosen.
+$GEN_010_WIT_03_A_01
+Mein Vater stammte aus Hannover.
+$GEN_010_WIT_03_A_02
+Ist dem Bürger bewusst, dass wir auch mit Hannover im Krieg sind?
+$GEN_010_WIT_03_A_03
+Na und? Mein Vater ist tot, er kann mit niemandem mehr kämpfen. Ich bin hier geboren.
+$GEN_010_KEY_01
+Das Wesen des Angeklagten
+$GEN_010_KEY_02
+Hunger in Paris
+$GEN_010_KEY_03
+Hilfe verweigern
+$GEN_010_KEY_04
+Tod von Kindern
+$GEN_010_KEY_05
+Geheimnisvoller Lieferant
+$GEN_010_KEY_06
+Feindliche Taktiken
+$GEN_010_KEY_07
+Einkaufsbuch
+$GEN_010_LastDialog_00
+Wer wird sich jetzt um meine Kinder kümmern? Ihr Schicksal liegt nun auf Ihrem Gewissen!
+$GEN_010_UNIQUE_QUESTION_00
+Was wurde bei der Durchsuchung des Hauses des Angeklagten gefunden?
+$GEN_010_UNIQUE_ANSWER_CORRECT_00_00
+Ein Vorrat an Mehl.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ein großer Vorrat an Brot.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ein paar Säcke Hafer.
+$GEN_010_UNIQUE_QUESTION_01
+Warum hat der Angeklagte seine Vorräte nicht geteilt?
+$GEN_010_UNIQUE_ANSWER_CORRECT_01_00
+Er bewahrte sie für seine Familie auf.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Er mochte seine Nachbarn nicht.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Er behauptet, dass ihn niemand um etwas gebeten habe.

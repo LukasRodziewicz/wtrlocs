@@ -1,0 +1,48 @@
+$DISC_INTR_003_B08_HEBERT_001_JUDGE_AGGR
+Ya no controlamos la situación en las calles. El caos puede volverse contra cualquiera, y no podemos apaciguar a la multitud con facilidad.
+$DISC_INTR_003_B08_HEBERT_002_JUDGE_MANI
+La situación se nos ha ido de las manos. Ayer golpearon a una muchacha porque la gente sospechaba que espiaba para los insurgentes. ¿Quién sabe quién será su próxima víctima? Puede ser usted, puedo ser yo...
+$DISC_INTR_003_B08_HEBERT_003_JUDGE_JOKE
+Mientras la gente solo lanzaba tomates podridos a cualquier objetivo, la situación era aceptable. Pero ahora están armados con palos de madera. No sé usted, pero esto empieza a asustarme.
+$DISC_INTR_003_B08_HEBERT_004_JUDGE_HUMI
+Sé que prometí servir al pueblo y defender la libertad, pero nuestros ciudadanos están yendo demasiado lejos.
+$DISC_INTR_003_B08_HEBERT_005_HEBERT_SATI
+Ya era hora de que alguien actuara contra esta camarilla. La Revolución fue demasiado indulgente con ellos.
+$DISC_INTR_003_B08_HEBERT_006_HEBERT_INTR
+Por fin alguien ha decidido investigar a esos holgazanes glotones. Puede que esta sea nuestra oportunidad para acabar con esas supersticiones realistas.
+$DISC_INTR_003_B08_HEBERT_007_HEBERT_DOUB
+Por un momento casi creí que te preocupaba lo que ocurre en las calles…
+$DISC_INTR_003_B08_HEBERT_008_JUDGE_AGGR
+¡Gobel lo arruinó todo! Con un secreto así, debería haber hecho todo lo posible para que nunca saliera a la luz, y en cambio se comportó como un niño.
+$DISC_INTR_003_B08_HEBERT_009_JUDGE_MANI
+Si los rumores resultan ser ciertos, la presencia de Gobel solo empeorará la situación. ¿Queremos que la gente piense que las autoridades están corrompidas? Mi reputación está en juego, al igual que la tuya y la de tus amigos del Comité.
+$DISC_INTR_003_B08_HEBERT_010_JUDGE_JOKE
+Gobel se ha metido en problemas en el peor momento posible. ¿Será que el Papa por fin se ha vengado? Dios ha escuchado sus plegarias y ha decidido castigar al arzobispo por aceptar el cargo constitucional…
+$DISC_INTR_003_B08_HEBERT_011_JUDGE_HUMI
+No quisiera dictar sentencias en ausencia, pero me parece que la furia del pueblo ha sacado a la luz viejos secretos, como el del arzobispo Gobel. ¿Quizás deberíamos hacer algo al respecto?
+$DISC_INTR_003_B08_HEBERT_012_HEBERT_SATI
+Nada me complacería más que presenciar la caída de este sacerdote enemigo del progreso. Bueno, quizá destruir la institución del Papa sería aún más dulce.
+$DISC_INTR_003_B08_HEBERT_013_HEBERT_INTR
+Sabes cómo apelar a los sueños más profundos de una persona. Sería inútil fingir que no me alegraría si Gobel abandonara este mundo y dejara paso al reinado de la razón... ¿En qué puedo ayudar?
+$DISC_INTR_003_B08_HEBERT_014_HEBERT_DOUB
+La Comuna de París llevaba tiempo queriendo deshacerse de ese cerdo hinchado y a nadie le importaba. Ahora que la gente ha visto que puede sacar provecho de su caída, todos quieren su cabeza.
+$DISC_INTR_003_B08_HEBERT_015_JUDGE_AGGR
+No podemos pagar por las acciones de un solo grupo. Con todas sus mentiras y decadencia, la Iglesia se ha ganado a pulso la ira del pueblo. Cortémosla de raíz y vivamos por fin en paz.
+$DISC_INTR_003_B08_HEBERT_016_JUDGE_MANI
+Al tigre enfurecido hay que lanzarle una presa para que la despedace; así estará lo bastante entretenido y podremos vivir en paz. Y ya que el tigre quiere hincar los colmillos en el clero…
+$DISC_INTR_003_B08_HEBERT_017_JUDGE_JOKE
+Realmente no nos queda otra opción. Quieren al clero, así que démosles al clero. Si acusan al clero de traición, repitamos sus palabras. Simple y eficaz.
+$DISC_INTR_003_B08_HEBERT_018_JUDGE_HUMI
+No quiero hacerle daño a la Iglesia. Ella misma se hiere a través de los degenerados malditos por nuestros ciudadanos. Debemos cortar todo lazo con ese grupo. Por el bien común.
+$DISC_INTR_003_B08_HEBERT_019_HEBERT_SATI
+La razón debe imponerse sobre la superstición. Cuenta con mi apoyo, monsieur le juge.
+$DISC_INTR_003_B08_HEBERT_020_HEBERT_INTR
+Me intriga saber cómo terminará todo esto, pero pese a mis dudas, puedes contar con mi ayuda.
+$DISC_INTR_003_B08_HEBERT_021_HEBERT_DOUB
+Debido a la ambigüedad de sus motivos, la Comuna de París y el culto a la Razón tienen más que perder que ganar aquí. Lo lamento.
+$DISC_INTR_003_B08_HEBERT_TOPIC_01
+La situación en las calles se vuelve difícil de controlar.
+$DISC_INTR_003_B08_HEBERT_TOPIC_02
+El problema con Gobel no ha hecho más que echar leña al fuego.
+$DISC_INTR_003_B08_HEBERT_TOPIC_03
+Alguien debe ser castigado para dar ejemplo.

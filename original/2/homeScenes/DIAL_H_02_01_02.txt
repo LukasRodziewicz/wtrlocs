@@ -1,0 +1,30 @@
+$DIAL_H_02_01_02_001_JUDGE
+Depuis notre première rencontre, je t'ai connu bien plus bavard.
+$DIAL_H_02_01_02_002_RAMEL
+Les actes sont plus éloquents que les paroles.
+$DIAL_H_02_01_02_003_JUDGE
+Qu'est-ce que ces actes disent de nous ? De toi et de moi ?
+$DIAL_H_02_01_02_004_RAMEL
+Que nous ne laissons pas nos vies aux mains des autres. Que nous tenons les rênes de notre propre destin.
+$DIAL_H_02_01_02_005_JUDGE
+Pourrais-tu me dire au moins d'où tu viens ?
+$DIAL_H_02_01_02_006_RAMEL
+Sache que, tout comme ton frère Bruno, j'ai passé une partie de ma vie à la rue. Mon demi-frère aîné m'a mis à la porte, et pourtant… il me manque.
+$DIAL_H_02_01_02_007_JUDGE
+Je suis désolé.
+$DIAL_H_02_01_02_008_RAMEL
+Tu n'as pas à l'être. Je suis à présent capable d'y remédier. C'est la raison pour laquelle je t'offre la tête de l'archevêque Gobel sur un plateau.
+$DIAL_H_02_01_02_009_JUDGE
+Pourquoi donc ?
+$DIAL_H_02_01_02_010_RAMEL
+Parce que c'est lui qui a orchestré la mort de ton fils et que j'ai appris son secret le plus cher.
+$DIAL_H_02_01_02_011_JUDGE
+Pourquoi Gobel m'a-t-il attaqué ?
+$DIAL_H_02_01_02_012_RAMEL
+Parce que tu t'en es pris aux Roland et as failli condamner Pache aussi.
+$DIAL_H_02_01_02_013_RAMEL
+Ils étaient liés. Il a donc dû penser qu'il serait ta prochaine cible et a résolu de t'avertir.
+$DIAL_H_02_01_02_014_JUDGE
+Je vais lui envoyer l'un de mes hommes.
+$DIAL_H_02_01_02_015_RAMEL
+Tue tous ceux qui ont levé la main sur ta famille, c'est ce que tu as de plus précieux. Tu disposes d'une occasion en or, car les gens estiment que c'est le clergé qui a fomenté la rébellion vendéenne.

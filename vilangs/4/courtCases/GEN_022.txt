@@ -1,0 +1,301 @@
+$GEN_022_DOC_1_HEADER
+Zusammengestellt von: Pierre Daquin
+$GEN_022_DOC_1_00
+Jean Ibert, der <a name="1" class="hidden">berühmte</a> Straßenjunge, der den Gouverneur der Bastille, de Launay, tötete und dessen Kopf auf eine Pike spießte, wurde kürzlich festgenommen. Nach dem Triumph der Revolution erreichte er den Tiefpunkt seines Lebens. Obwohl viele ihn noch immer für einen Helden halten, kümmert es sie nicht, dass die Pariser Archive voller <a name="2" class="hidden">Beschwerden</a> über Diebstähle, Raubüberfälle und Übergriffe auf Frauen sind.
+$GEN_022_DOC_1_01
+Der vorliegende Fall wiegt deutlich schwerer, denn Ibert wird beschuldigt, die 16-jährige <a name="4" class="hidden">Élodie de Pontalba</a> <a name="3" class="hidden">vergewaltigt</a> zu haben. Die Anklage wurde vom Vater des Opfers, Baron Thomas de Pontalba, erhoben. Es ist allgemein bekannt, dass de Pontalba ein <a name="5" class="hidden">Verwandter</a> und Freund des Gouverneurs de Launay war.
+$GEN_022_DOC_1_02
+Das Verbrechen soll sich im Mietshaus der Familie des Opfers ereignet haben. Jean wurde von draußen arbeitenden Personen festgenommen, als er versuchte, aus dem Gebäude zu fliehen. Élodie legte eine schriftliche Aussage vor, in der sie angab, dass der Vorfall an einem Feiertag stattfand und Jean die Abwesenheit des Barons sowie der meisten Bediensteten nutzte, um <a name="7" class="hidden">in das Haus einzudringen</a>. Nachdem er im Inneren war, betrat er ihr Zimmer und vergewaltigte sie.
+$GEN_022_DOC_1_03
+Zeugin des Vorfalls war Anne Michel, Élodies Gouvernante. Sie war es, die die Arbeiter wegen verdächtiger Geräusche aus dem Zimmer ihres Schützlings alarmierte. Mehrere Zeugen hielten es für notwendig, uns darauf hinzuweisen, dass Anne Michel für ihre krankhafte Eifersucht und ihre zahlreichen Liebschaften mit Franzosen bekannt ist.
+$GEN_022_DOC_2_00
+Aussage von Anne Michel:
+	Normalerweise lese ich morgens mit Fräulein Élodie. Doch an diesem Tag hatte der Koch frei, also bereitete ich den Tee selbst zu. Plötzlich hörte ich sie schreien! Ich rannte zu ihrem Zimmer, blieb jedoch stehen, als ich eine Männerstimme hörte. Ich hatte Angst und rief um Hilfe.
+$GEN_022_DOC_3_00
+Die Ergebnisse der medizinischen Untersuchung
+$GEN_022_DOC_3_01
+Die Untersuchung ergab Folgendes:
+Defloration.
+Leichte Abschürfungen im Genitalbereich.
+Prellungen und Blutergüsse an Armen, Rücken und Gesicht.
+Dr. P. Gibier
+$GEN_022_OnStart_00
+Sie bringen Jean herein!
+$GEN_022_OnStart_01
+Wir stehen zu dir, Jean!
+$GEN_022_OnStart_02
+Bitte stellen Sie sich vor.
+$GEN_022_OnStart_03
+Jean Ibert, Bezwinger der Bastille und Sieger über den Tyrannen de Launay! Der Held aller Pariser!
+$GEN_022_OnStart_04
+Jean Ibert, Sie sind angeklagt, Fräulein Élodie de Pontalba, die Tochter von Baron Thomas de Pontalba, vergewaltigt zu haben. Bekennen Sie sich schuldig?
+$GEN_022_OnStart_05
+Ich gestehe nichts. Diese Bürgerliche und ihr konterrevolutionärer Vater sind niederträchtige Lügner.
+$GEN_022_OnStart_06
+Wir müssen die Möglichkeit eines kriminellen Komplotts hinter den Anklagen in Betracht ziehen.
+$GEN_022_OnStart_07
+Ganz genau. Diese reichen Schweine schmieden ständig ihre Intrigen.
+$GEN_022_OnStart_08
+Die Beweise sprechen gegen Sie.
+$GEN_022_OnStart_09
+Weibliche Falschheit und de Pontalbas Intrigen beweisen gar nichts!
+$GEN_022_OnGuilty_00
+Ich verurteile Bürger Jean Ibert zur Guillotine! Führt den Verurteilten ab.
+$GEN_022_OnGuilty_01
+Die Beweise gegen ihn waren nicht eindeutig.
+$GEN_022_OnGuilty_02
+Ungeheuerlich!
+$GEN_022_OnGuilty_03
+Was tust du da, du Narr?
+$GEN_022_OnGuilty_04
+Verräter des Volkes, Mörder unseres Helden!
+$GEN_022_OnPrison_00
+Bürger Jean Ibert kommt ins Gefängnis. Führt ihn ab!
+$GEN_022_OnPrison_01
+War das alles?
+$GEN_022_OnPrison_02
+Der Vergewaltiger soll mit seinem Kopf bezahlen!
+$GEN_022_OnPrison_03
+Oder vielleicht noch mit mehr als nur seinem Kopf!
+$GEN_022_OnNotGuilty_00
+Das Urteil für Jean Ibert lautet… nicht schuldig! Führt den Angeklagten ab.
+$GEN_022_OnNotGuilty_01
+Ich muss zugeben, dass seine Schuld nicht eindeutig bewiesen wurde.
+$GEN_022_OnNotGuilty_02
+Bravo!
+$GEN_022_OnNotGuilty_03
+Für ein solches Frankreich haben wir die Bastille gestürmt!
+$GEN_022_OnNotGuilty_04
+Der Richter steht auf unserer Seite!
+$GEN_022_04x06_00_QTitle
+Kannten Sie Fräulein Élodie de Pontalba bereits vor dem Vorfall?
+$GEN_022_04x06_00_00
+Kannten Sie Fräulein Élodie de Pontalba bereits vor dem Vorfall?
+$GEN_022_04x06_00_01
+Jedes Mal, wenn sie das Café Procope besuchte, flirtete sie mit mir, und sie war bei jedem Streit zwischen Danton und Marat dabei. Am Ende habe ich diesem Mädchen einfach gegeben, was sie wollte.
+$GEN_022_04x06_00_02
+Geben Sie Ihre Schuld also zu?
+$GEN_022_04x06_00_03
+Ja, aber das war kein Vergewaltigung. Zeigen Sie mir eine Frau, die einem Helden widerstehen würde.
+$GEN_022_04x06_00_04
+Sie behaupten, Sie hätten sie im Café Procope getroffen? Ich bezweifle sehr, dass eine so junge Dame ganz allein an einen solchen Ort gehen würde.
+$GEN_022_04x06_00_05
+Wer hat behauptet, sie sei allein gewesen? Anne hat sie mitgebracht, und jeder weiß, dass Anne gern Spaß hat.
+$GEN_022_04x06_00_06
+Meinen Sie Anne Michel, das Kindermädchen von Fräulein Élodie?
+$GEN_022_04x06_00_07
+Ganz genau.
+$GEN_022_04x06_00_08
+Das war also nicht das erste Mal, dass Sie das Haus der Familie des Opfers betreten haben?
+$GEN_022_04x06_00_09
+Welches Opfer? Wie dem auch sei, ja, ich war ein paar Mal dort und kenne mich bestens aus. Sagen wir so: Anne Michel und ich haben dort jede Ecke erkundet–
+$GEN_022_04x06_00_10
+Sparen Sie uns die Einzelheiten…
+$GEN_022_04x06_00_11
+Die alte Hure führte die junge Hure spazieren!
+$GEN_022_01x05_01_QTitle
+Wussten Sie, dass Baron de Pontalba mit ... verwandt ist?
+$GEN_022_01x05_01_00
+Wussten Sie, dass Baron de Pontalba mit dem verstorbenen Gouverneur de Launay verwandt ist?
+$GEN_022_01x05_01_01
+Nein, aber das erklärt so einiges. Der ganze Fall wurde von de Pontalba inszeniert. Er will mich loswerden, weil ich Frankreich von einem Tyrannen befreit habe!
+$GEN_022_01x05_01_02
+Die gesamte Familie de Launay hätte schon längst hingerichtet werden müssen.
+$GEN_022_01x05_01_03
+Würden Sie also Vergewaltigung nicht als Waffe im Kampf gegen die Monarchisten bezeichnen?
+$GEN_022_01x05_01_04
+Monarchisten gehören geköpft! Und ihre Töchter sollten… den Helden der Revolution danken.
+$GEN_022_01x05_01_05
+Ganz genau!
+$GEN_022_01x05_01_06
+Ruhe! Wir sprechen hier von einer jungen Frau, die vergewaltigt wurde!
+$GEN_022_03x06_02_QTitle
+Wie sind Sie in das Mietshaus des Barons de Pontalba eingedrungen?
+$GEN_022_03x06_02_00
+Wie sind Sie in das Mietshaus des Barons de Pontalba eingedrungen?
+$GEN_022_03x06_02_01
+Warum sollte ich einbrechen? Ich habe die Hintertür benutzt.
+$GEN_022_03x06_02_02
+Woher wussten Sie von diesem Eingang?
+$GEN_022_03x06_02_03
+Die Tochter des Barons hat es mir erzählt. Sie erwähnte außerdem, dass ihr geliebter Vater und die meisten Bediensteten nicht zu Hause sein würden.
+$GEN_022_03x06_02_04
+Hat sie Ihnen gesagt, dass Sie sie genau aus diesem Grund aufsuchen sollen?
+$GEN_022_03x06_02_05
+Sie hat sehr deutliche Signale gegeben.
+$GEN_022_03x06_02_06
+Alle Aristokratinnen sind Huren.
+$GEN_022_03x06_02_07
+Wollen Sie damit sagen, dass Sie auf Einladung des Opfers das Haus des Barons de Pontalba betreten haben?
+$GEN_022_03x06_02_08
+Diese kleine Schlampe hat mir einen schönen Nachmittag versprochen. Sie hat mir alles ganz genau erklärt.
+$GEN_022_03x06_02_09
+Lasst Jean gehen!
+$GEN_022_03x06_02_10
+Ruhe, Leute, der Richter beginnt zu begreifen. Bleibt ruhig, bald wird er mich freilassen.
+$GEN_022_02x08_03_QTitle
+Empfinden Sie ein besonderes Vergnügen daran, Frauen zu quälen?
+$GEN_022_02x08_03_00
+Empfinden Sie ein besonderes Vergnügen daran, Frauen zu quälen?
+$GEN_022_02x08_03_01
+Warum sollte ich Frauen quälen, wenn man viel angenehmere Dinge mit ihnen tun kann? Außer natürlich, sie wünschen es selbst.
+$GEN_022_02x08_03_02
+Wollen Sie etwa behaupten, das Opfer habe sich vergewaltigen und verprügeln lassen wollen?
+$GEN_022_02x08_03_03
+Ich habe sie zu nichts gezwungen, und geschlagen habe ich sie ganz bestimmt nicht.
+$GEN_022_02x08_03_04
+Die medizinische Untersuchung belegt eindeutig, dass sie verletzt wurde.
+$GEN_022_02x08_03_05
+Frag lieber de Pontalba, wer sie verprügelt hat. Er war außer sich, als er erfuhr, wer mit seiner geliebten Tochter im Bett war.
+$GEN_022_02x08_03_06
+Wollen Sie damit sagen, dass er seine Tochter geschlagen hat, weil sie mit Ihnen verkehrte?
+$GEN_022_02x08_03_07
+Es würde mich nicht wundern.
+$GEN_022_02x08_03_08
+Adlige tun ihren eigenen Kindern noch Schlimmeres an.
+$GEN_022_03x08_04_QTitle
+Rufen Sie Anne Michel als Zeugin auf.
+$GEN_022_03x08_04_00
+Rufen Sie Anne Michel als Zeugin auf.
+$GEN_022_03x08_04_02
+Bürger, wie ist Ihr Name?
+$GEN_022_03x08_04_03
+Anne Michel, Gouvernante von Fräulein Élodie de Pontalba.
+$GEN_022_02x03_05_QTitle
+Wie viele Ihrer früheren Opfer haben Sie vergewaltigt?
+$GEN_022_02x03_05_00
+Wie viele Ihrer früheren Opfer haben Sie bereits vergewaltigt?
+$GEN_022_02x03_05_01
+Keineswegs. Ich habe im Leben schon vieles getan, aber zum Glück bin ich noch jung und gutaussehend genug, um keine Gewalt anwenden zu müssen, um mit einer Frau zusammen zu sein.
+$GEN_022_02x03_05_02
+Wie erklären Sie dann all die Anschuldigungen dieser Frauen gegen Sie?
+$GEN_022_02x03_05_03
+Keine Ahnung. Als wir zusammen waren, hat sich keine beschwert.
+$GEN_022_02x03_05_04
+Wurden Sie jemals wegen Gewalt gegen eine Frau verurteilt?
+$GEN_022_02x03_05_05
+Man hat meine Schuld nie bewiesen.
+$GEN_022_02x03_05_06
+Und auch diesmal werden sie ihn wieder laufen lassen.
+$GEN_022_02x03_05_07
+Warum erheben sie dann diese Anschuldigungen?
+$GEN_022_02x03_05_08
+Wahrscheinlich wollten sie einfach nur Geld.
+$GEN_022_04x05_06_QTitle
+Haben Sie Élodie de Pontalba als Ihr Opfer gewählt, weil sie mit de Launay verwandt ist?
+$GEN_022_04x05_06_00
+Haben Sie Fräulein de Pontalba als Ihr Opfer gewählt, weil sie mit de Launay verwandt ist?
+$GEN_022_04x05_06_01
+Ich wusste nicht, dass sie verwandt sind.
+$GEN_022_04x05_06_02
+Warum dann sie?
+$GEN_022_04x05_06_03
+Sie war jung, hatte zarte Haut und war äußerst forsch, wenn Sie es wirklich wissen wollen.
+$GEN_022_04x05_06_04
+Wollen Sie damit andeuten, dass Fräulein de Pontalba selbst den Geschlechtsverkehr initiiert hat?
+$GEN_022_04x05_06_05
+Wer hat was getan? Ach, hat sie mich um Zärtlichkeit gebeten? Oh ja, sie hat es sich sehr gewünscht. Sie hat schon lange von mir geträumt.
+$GEN_022_03x04_07_QTitle
+Das Opfer ist doch nur ein zerbrechliches Mädchen – musste sie wirklich so brutal geschlagen werden?
+$GEN_022_03x04_07_00
+Das Opfer ist doch nur ein zerbrechliches Mädchen – musste sie wirklich so brutal geschlagen werden?
+$GEN_022_03x04_07_01
+Warum hätte ich sie schlagen sollen? Ich musste sie nicht einmal ausziehen.
+$GEN_022_03x04_07_02
+Hat sie sich selbst ausgezogen?
+$GEN_022_03x04_07_03
+Sie sprang aus ihrem Kleid, öffnete meinen Gürtel, und–
+$GEN_022_03x04_07_04
+Die Einzelheiten können Sie für sich behalten.
+$GEN_022_03x04_07_05
+Monsieur Richter, ich kann Ihnen alles bis ins kleinste Detail erzählen, wenn Sie es wünschen.
+$GEN_022_03x04_07_06
+Hat sie sich ausgezogen, weil Sie ihr gedroht haben?
+$GEN_022_03x04_07_07
+Sie hätte mir gedroht, wenn ich ihr eine Absage erteilt hätte!
+$GEN_022_03x04_07_08
+Mach weiter, wir hören zu!
+$GEN_022_03x04_07_09
+Ruhe! Wenn ihr Klatsch wollt, geht auf den Markt.
+$GEN_022_WIT_00_A_QTitle
+Was wissen Sie über den Fall?
+$GEN_022_WIT_00_A_00
+Was wissen Sie über den Fall?
+$GEN_022_WIT_00_A_01
+Ibert ist schuldig und verdient den Tod. Er hat unsere Beziehung ausgenutzt, um sich der Tochter des Barons zu nähern und ihr Leid zuzufügen.
+$GEN_022_WIT_00_A_02
+Wie meinen Sie das?
+$GEN_022_WIT_00_A_03
+Er wusste ganz genau, wann die Diener frei hatten und wann der Baron zur Gesetzgebenden Versammlung aufbrach.
+$GEN_022_WIT_00_A_04
+Hat er diese Informationen von Ihnen erfahren?
+$GEN_022_WIT_00_A_05
+Nicht direkt bei mir. Er hat mich mehrmals im Haus des Barons de Pontalba aufgesucht.
+$GEN_022_WIT_00_A_06
+Ist Ihnen nicht in den Sinn gekommen, dass er dieses Wissen gegen die Familie des Barons einsetzen könnte?
+$GEN_022_WIT_00_A_07
+…
+$GEN_022_WIT_00_A_08
+Verstehe. Wusste der Baron von Ihren Treffen?
+$GEN_022_WIT_00_A_09
+Nein, der Baron hatte Wichtigeres zu tun, als sich um das Privatleben seiner Diener zu kümmern.
+$GEN_022_WIT_01_A_QTitle
+Warum haben Sie Ihre Pflichten vernachlässigt und aufgehört, sich um das Opfer zu kümmern?
+$GEN_022_WIT_01_A_00
+Warum haben Sie Ihre Pflichten vernachlässigt und aufgehört, sich um das Opfer zu kümmern?
+$GEN_022_WIT_01_A_01
+An jenem Tag befahl mir der Baron, mich um das Haus zu kümmern. Fräulein Élodie hatte keinen Unterricht und verbrachte ihre Zeit in ihrem Zimmer.
+$GEN_022_WIT_01_A_02
+Und Sie haben nicht gehört, wie der Angeklagte das Gebäude betreten hat?
+$GEN_022_WIT_01_A_03
+Nein, ich war in der Küche beschäftigt. Ich wurde erst aufmerksam, als ich Geräusche eines Kampfes und das Schreien von Fräulein Élodie aus ihrem Zimmer hörte.
+$GEN_022_WIT_01_A_04
+Es ist mir ein Rätsel, dass Sie vorher nichts gehört haben.
+$GEN_022_WIT_01_A_05
+Ich kann das nicht erklären, aber ich habe beim Kochen ziemlich viel Lärm gemacht.
+$GEN_022_WIT_01_A_06
+Gehört es nicht zu deinen Pflichten, auf das Haus aufzupassen?
+$GEN_022_WIT_01_A_07
+Nun ja, schon, aber ich kann nicht an zwei Orten gleichzeitig sein…
+$GEN_022_KEY_01
+Bekanntheit des Angeklagten
+$GEN_022_KEY_02
+Mehrere Beschwerden
+$GEN_022_KEY_03
+Vergewaltigung
+$GEN_022_KEY_04
+Élodie de Pontalba
+$GEN_022_KEY_05
+Die Verwandten des Gouverneurs der Bastille
+$GEN_022_KEY_06
+Haus der De Pontalba
+$GEN_022_KEY_07
+Einbruch im Mietshaus
+$GEN_022_KEY_08
+Aussage des Opfers
+$GEN_022_LastDialog_00
+Ihr enthauptet einen Mann wegen ein wenig Herumgetolles im Bett? Leute, ich habe euch gerettet, und jetzt bringt ihr mich um?
+$GEN_022_UNIQUE_QUESTION_00
+Wodurch wurde der Angeklagte im Volk berühmt?
+$GEN_022_UNIQUE_QUESTION_02
+Wie erklärte der Angeklagte die Spuren von Gewalt am Körper des Opfers?
+$GEN_022_UNIQUE_QUESTION_03
+Hat der Angeklagte versucht, die Hintergründe der Vergewaltigung zu erläutern?
+$GEN_022_UNIQUE_ANSWER_CORRECT_00_00
+Der Sturm auf die Bastille.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Tapferkeit in der Schlacht bei Valmy.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Arbeiten an der Erklärung der Menschen- und Bürgerrechte.
+$GEN_022_UNIQUE_ANSWER_CORRECT_02_00
+Ihr Vater hat sie geschlagen.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ihre eigene Mutter hat sie geschlagen.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Sie wurde von der Gouvernante bestraft.
+$GEN_022_UNIQUE_ANSWER_CORRECT_03_00
+Er sagte, das Opfer habe die Intimität selbst eingeleitet und als Erste die Kleidung abgelegt.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Er erinnert sich nicht, er war betrunken.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Er behauptet, das Opfer nie berührt zu haben.

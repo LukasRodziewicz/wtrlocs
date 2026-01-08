@@ -1,0 +1,6 @@
+$CUT_028_000_SOLIDER
+Ils arrivent !
+$CUT_028_001_JUDGE
+Tu as perdu, Robespierre.
+$CUT_028_002_JUDGE
+La Révolution s'est révélée une tâche trop ardue pour toi.

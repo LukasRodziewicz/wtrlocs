@@ -1,0 +1,56 @@
+#A02C1_D02_LETTER_MAIN
+O arcebispo Jean-Baptiste Gobel foi quem decidiu pela morte do seu filho. Ele deve ser seu próximo alvo.
+#A02C1_D02_LETTER_SENDER
+Ramel
+$LETTER_H_02_01_01_001_HEADER
+Para Alexis Fidèle,
+$LETTER_H_02_01_01_002_MAIN
+O Tribunal Revolucionário está cumprindo seu papel de forma exemplar. A Convenção está satisfeita com nossos métodos de purificação da França, porém as circunstâncias atuais exigem que você renove seu juramento de lealdade à República. Nosso oficial irá visitá-lo amanhã.
+$LETTER_H_02_01_01_003_SENDER
+Sempre seu,
+Maximiliano Robespierre
+$LETTER_CO_02_01_02_MAIN
+Jean-Baptiste Gobel. Ele é o responsável pela morte do seu filho.
+$LETTER_CO_02_01_02_SENDER
+Ramel
+$LETTER_H_02_01_03_001_START
+Como cidadão de Paris e fiel servidor da Revolução, venho relatar anonimamente que...
+$LETTER_H_02_01_03_002_P1_BASE
+Denúncia
+$LETTER_H_02_01_03_002_P1_AGGR
+Aquele padre moralista, o Gobel, engravidou uma moça e ela teve um filho dele. Pelo que ouvi, o rapaz já é adulto. Enquanto isso, o Gobel faz sermões sobre moderação e vida virtuosa. Dá pra acreditar?!
+$LETTER_H_02_01_03_003_P1_MANI
+Há um pecador entre os hierarcas. O arcebispo Gobel tem um filho ilegítimo. A França deveria ser purificada de pessoas como ele.
+$LETTER_H_02_01_03_004_P1_JOKE
+O arcebispo Gobel deitou-se com uma moça e ela lhe deu um filho. Dizem que ela mora em Paris, mas o arcebispo não faz ideia.
+$LETTER_H_02_01_03_005_P1_HUMI
+Ouvi dizer que o arcebispo Gobel tem um filho ilegítimo, e que a mãe vive em Paris. Não sou de julgar os outros, mas isso me parece errado.
+$LETTER_H_02_01_03_006_P2_BASE
+Opinião do informante
+$LETTER_H_02_01_03_006_P2_AGGR
+Acho que esses hipócritas de duas caras merecem ter a cabeça espetada numa lança, igual aos defensores da Bastilha.
+$LETTER_H_02_01_03_007_P2_MANI
+Não podemos permitir que tais indivíduos envenenem nossa nova sociedade depois de tanto esforço para erguê-la sobre os alicerces da verdade.
+$LETTER_H_02_01_03_008_P2_JOKE
+Eu realmente não me importo com quem as pessoas se deitam, nem com que frequência, desde que fiquem caladas e não venham dar lição nos outros.
+$LETTER_H_02_01_03_009_P2_HUMI
+Alguém precisa tomar uma atitude. Essas pessoas sequer percebem o quanto suas ações prejudicam nossa sociedade?
+$INVITATION_CO_02_01_05_001_MAIN
+Prezado Juiz,
+Esta noite realizaremos um baile nos arredores de Paris. Convidamos apenas as mentes mais brilhantes da França, o que há de melhor em nosso país, e sua presença é aguardada. Meus associados e eu temos algo a lhe dizer... algo importante. A carruagem estará esperando do lado de fora do tribunal.
+$INVITATION_CO_02_01_05_001_SENDER
+Clément Renard
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_001_MAIN
+Querido Alexis, não posso mais viver com o peso de um pecado que cometi sem intenção. Preciso lhe contar algo, Alexis. Estive envolvido na morte do pequeno Frédéric. Fui procurado por pessoas que me disseram que meu filho, meu único filho, havia sido pego em flagrante ao tentar desertar e aguardava a execução. Eles me mostraram provas e prometeram libertá-lo em troca de uma descrição detalhada de sua família — seus hábitos, suas opiniões. Passei a eles algumas informações que pareciam inofensivas, e eles as usaram para matar. Eu nunca quis isso — jamais tirei a vida de alguém. Foram eles que cometeram o crime, mas a culpa ainda me persegue. Não posso continuar vivendo assim, sentado na mesma sala que você, fingindo que nada aconteceu. Só posso esperar que um dia você me perdoe, que entenda que fui enganado. Sempre fui seu amigo, Fidèle. Adeus, meu amigo.
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_002_SENDER
+Raymond Dévoyé
+$BROTHER_ARMY_POPUP_TITLE
+Aviso
+$BROTHER_ARMY_POPUP_MAIN_01
+O exército do seu irmão chegará em 4 dias.
+$BROTHER_ARMY_POPUP_MAIN_02
+O exército do seu irmão chegará em 3 dias.
+$BROTHER_ARMY_POPUP_MAIN_03
+O exército do seu irmão chegará em 2 dias.
+$BROTHER_ARMY_POPUP_MAIN_04
+O exército do seu irmão chegará amanhã.

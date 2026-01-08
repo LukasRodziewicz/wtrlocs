@@ -1,0 +1,166 @@
+$GEN_048_DOC_01_HEADER
+Sporządził: Charles Etienne
+$GEN_048_DOC_01_00
+	Córka Jeana i Marie Picque zmarła tuż po porodzie w domu rodziców. Ojciec zeznał, że słyszał przez drzwi wyraźny i mocny płacz dziecka. Później jednak, kiedy wszedł do pomieszczenia, w którym były jego żona, służąca i położna, córka nie oddychała.
+$GEN_048_DOC_01_01
+	Dopiero na drugi dzień do domu przybył wezwany przez państwa Picque lekarz. Na szyi noworodka znalazł <a name="4" class="hidden">ślady duszenia</a> i to on powiadomił Gwardię. Oficer śledczy przybył na miejsce, ale nie był w stanie dowiedzieć się od rodziców niemal niczego, gdyż oboje znajdowali się w stanie najgłębszego szoku i rozpaczy.
+$GEN_048_DOC_01_02
+	W sypialni na piętrze znaleźliśmy wiele nieuprzątniętych śladów po porodzie, w tym także należące do położnej <a name="5" class="hidden">kleszcze</a>. Służąca potwierdziła, że kobieta wyszła w pośpiechu, niemal uciekła.
+$GEN_048_DOC_01_03
+	Ustaliliśmy, że nazywa się ona Claudine Sessier. Ludzie gadają, że położna ma pecha do dziewczynek i wiele jej małych pacjentek nie przeżyło porodu. Postanowiliśmy aresztować kobietę. W jej domu śledczy znaleźli <a name="7" class="hidden">biblię</a>, otwartą na kuchennym stole. 	
+$GEN_048_DOC_01_04
+Dowody:
+$GEN_048_DOC_01_05
+	Biblia położnej Sessier to tanie, zużyte od wielokrotnego czytania wydanie. Kobieta podkreśliła w nim ołówkiem wiele różnych fragmentów tekstu.
+$GEN_048_OnStart_00
+Położna Sessier?
+$GEN_048_OnStart_01
+To ja.
+$GEN_048_OnStart_02
+Udusiła obywatelka dziecko państwa Picque?
+$GEN_048_OnStart_03
+Musiałam, Wysoki Sądzie, niestety urodziła się dziewczynka.
+$GEN_048_OnStart_04
+Spłoniesz za to w piekle!
+$GEN_048_OnStart_05
+Jak mam to rozumieć?
+$GEN_048_OnStart_06
+Jesteście mężczyzną, nie zrozumiecie tego. Ja chcę tylko, żeby kobiety w końcu przestały cierpieć.
+$GEN_048_OnStart_07
+To po co je dusicie?
+$GEN_048_OnStart_08
+Mówię, wy nie zrozumiecie.
+$GEN_048_OnStart_09
+Ona jest szalona!
+$GEN_048_OnGuilty_00
+Obywatelko Sessier, czuję do was odrazę i z prawdziwą ulgą skazuję was na śmierć!
+$GEN_048_OnGuilty_01
+Mało, za mało! Końmi ją szarpać!
+$GEN_048_OnGuilty_02
+Będę spał spokojniej, wiedząc, że ona nie pracuje już w zawodzie.
+$GEN_048_OnNotGuilty_00
+Obywatelka Sessier jest niewinna, możecie odejść.
+$GEN_048_OnNotGuilty_01
+Sędzia jest w zmowie z wiedźmą i morderczynią!
+$GEN_048_OnNotGuilty_02
+Sędziego na gilotynę!
+$GEN_048_OnNotGuilty_03
+To jest zdrada ludu!
+$GEN_048_OnNotGuilty_04
+Jeśli ona wróci do zawodu, wszystko będzie na twoim sumieniu.
+$GEN_048_02x04_00_QTitle
+Dziecko przyszło na świat żywe?
+$GEN_048_02x04_00_00
+Dziecko przyszło na świat żywe?
+$GEN_048_02x04_00_01
+Tak, Wysoki Sądzie.
+$GEN_048_02x04_00_02
+Udusiłaś ją własnymi rękoma?
+$GEN_048_02x04_00_03
+Nie, ja… ja mam takie… korale mam takie specjalne. Szybciej byłoby skręcić im karczek, ale nie jestem w stanie.
+$GEN_048_02x04_00_04
+Wnioskuję, żeby przerwać to przesłuchanie i wydać wyrok… śmierci.
+$GEN_048_02x04_00_05
+Jeszcze nie teraz. Obywatelko, jak można zrobić coś tak koszmarnego?
+$GEN_048_02x04_00_06
+Muszę, ja to robię dla nich, Wysoki Sądzie, nie dla siebie. Ja się już wycierpiałam, one nie muszą.
+$GEN_048_01x07_01_QTitle
+Wierzycie w Boga, kobieto?
+$GEN_048_01x07_01_00
+Wierzycie w Boga, kobieto?
+$GEN_048_01x07_01_01
+Nie, wysoki sądzie.
+$GEN_048_01x07_01_02
+A Biblia w waszym domu?
+$GEN_048_01x07_01_03
+Biblia to nie święta księga, to instrukcja dla mężczyzn, jak niszczyć kobietom życie!
+$GEN_048_01x07_01_04
+Proszę wyjaśnić.
+$GEN_048_01x07_01_05
+W liście do Efezjan przeczytacie: „Żony niechaj będą poddane swym mężom, jak Panu, bo mąż jest głową żony”. Chłopy słyszą to z ambony, a potem traktują kobiety jak bydło!
+$GEN_048_01x07_01_06
+Zabijając małe dzieci, nie robicie czegoś jeszcze gorszego?
+$GEN_048_01x07_01_07
+Ja im pomagam.
+$GEN_048_01x07_01_08
+W jaki sposób?
+$GEN_048_01x07_01_09
+Mężczyźni umierają na wojnach, jest ich mniej i to kobiety muszą o nich walczyć. Jak kobiet będzie mniej, mężczyźni zaczną je w końcu szanować!
+$GEN_048_01x07_01_10
+Ta kobieta jest opętana!
+$GEN_048_01x07_01_11
+Was nie szanowali?
+$GEN_048_01x07_01_12
+Ojciec oddał mnie na żonę takiemu jednemu. Osiem lat mnie tłukł, dopóki nie zapił się na śmierć.
+$GEN_048_01x07_01_13
+Rewolucja już walczy z kościelnymi zabobonami. Wy nie musicie.
+$GEN_048_01x07_01_14
+Walczy? Na sztandarach macie „braterstwo”, siostry macie gdzieś.
+$GEN_048_02x05_02_QTitle
+Dlaczego tak szybko uciekła obywatelka z domu państwa Picque?
+$GEN_048_02x05_02_00
+Dlaczego tak szybko uciekła obywatelka z domu państwa Picque?
+$GEN_048_02x05_02_01
+Dziecko nie żyło, nie mogłam już tam w niczym pomóc.
+$GEN_048_02x05_02_02
+Wzięliście zapłatę za ten poród?
+$GEN_048_02x05_02_03
+Nie, nie mogłabym.
+$GEN_048_02x05_02_04
+Dlaczego?
+$GEN_048_02x05_02_05
+...
+$GEN_048_02x05_02_06
+Powtarzam pytanie: dlaczego nie wzięła obywatelka pieniędzy od państwa Picque?
+$GEN_048_02x05_02_07
+Nie męczcie mnie! Nie robiłam tego dla siebie. Chcę tylko, żeby kobiety miały w życiu lepiej niż ja! Jak będzie nas mniej niż mężczyzn, skończy się ten tysiącletni koszmar!
+$GEN_048_02x05_02_08
+Dla tej małej dziewczynki całe krótkie życie to był koszmar.
+$GEN_048_KEY_01
+Córka 
+$GEN_048_KEY_02
+Pierwszy krzyk
+$GEN_048_KEY_03
+Służąca
+$GEN_048_KEY_04
+Ślady duszenia
+$GEN_048_KEY_05
+Kleszcze położnicze
+$GEN_048_KEY_06
+Ucieczka położnej
+$GEN_048_KEY_07
+Biblia
+
+$GEN_048_LastDialog_00
+Mężczyzna chce krzywdzić kobiety! Patriarchat!
+
+$GEN_048_UNIQUE_QUESTION_00
+Co kobieta wyznała na przesłuchaniu?
+$GEN_048_UNIQUE_ANSWER_CORRECT_00_00
+Że mąż ją bił przez lata.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Że poroniła cztery razy.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Że jej matka zmarła w pożarze.
+
+$GEN_048_UNIQUE_QUESTION_01
+Czym kobieta udusiła dziecko?
+$GEN_048_UNIQUE_ANSWER_CORRECT_01_00
+Koralami.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Rękoma.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Poduszką.
+
+$GEN_048_UNIQUE_QUESTION_02
+Czy oskarżona przyjęła pieniądze za poród?
+$GEN_048_UNIQUE_ANSWER_CORRECT_02_00
+Nie, nie chciała przyjąć.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Tak, przyjęła pieniądze.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Żądała pieniędzy, ale ich nie dostała.
+
+
+
+

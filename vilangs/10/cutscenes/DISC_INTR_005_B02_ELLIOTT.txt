@@ -1,0 +1,86 @@
+$DISC_INTR_005_B02_ELLIOTT_001_ELLIOTT
+İngiliz fahişesini ziyarete mi geldiniz?
+$DISC_INTR_005_B02_ELLIOTT_002_ELLIOTT
+Hapiste bana verdikleri yeni lakap bu.
+$DISC_INTR_005_B02_ELLIOTT_003_JUDGE
+Çok üzgünüm, Grace. Muhafızlar asla–
+$DISC_INTR_005_B02_ELLIOTT_004_ELLIOTT
+Ah, bu devrim meselesi olmamalıydı, ama senin doğanda bu var.
+$DISC_INTR_005_B02_ELLIOTT_005_ELLIOTT
+Buradan bir çıkarsam, sizden üç katı ücret alırım.
+$DISC_INTR_005_B02_ELLIOTT_006_ELLIOTT
+Ne istiyorsun?
+$DISC_INTR_005_B02_ELLIOTT_007_JUDGE
+Size af dileme fırsatı sunmak.
+$DISC_INTR_005_B02_ELLIOTT_008_ELLIOTT
+Madem ki bunu teklif etmeye geldiniz, karşılığında bir şey istiyorsunuzdur. Ne istiyorsunuz?
+$DISC_INTR_005_B02_ELLIOTT_009_JUDGE
+Madame de Staël.
+$DISC_INTR_005_B02_ELLIOTT_010_ELLIOTT
+Kusura bakma, ben pezevenk değilim. Şu anda sana verebileceğim tek şey, dün öldürdüğüm bir fare.
+$DISC_INTR_005_B02_ELLIOTT_011_ELLIOTT
+Son zamanlarda pek iştahım yok.
+$DISC_INTR_005_B02_ELLIOTT_012_JUDGE
+Yine de bana yardım edebilecek tek kişi sizsiniz. Paris’e de yardım edebilecek tek kişi.
+$DISC_INTR_005_B02_ELLIOTT_013_ELLIOTT
+Birinin sizi sokak ortasında bıçakladığı ve sizin yaralarınızı diktiğim zamanı hatırlıyor musunuz?
+$DISC_INTR_005_B02_ELLIOTT_014_ELLIOTT
+Size hâlâ yeterince yardımcı olamadım mı?
+$DISC_INTR_005_B02_ELLIOTT_010_JUDGE_AGGR
+O kaltak de Staël’e ulaşmalıyım! Onu sanık sandalyesinde görmeliyim ve suçunu kanıtlayacak delilleri sen sağlayacaksın – gerçek olsun ya da olmasın.
+$DISC_INTR_005_B02_ELLIOTT_011_JUDGE_MANI
+Herkesin suçlanacak bir şeyi vardır. Madame de Staël’in ne yaptığını ya da neler yapabileceğini bilmek istiyorum. Ve başka kimi sorabilirim ki, bir başka kadından başka?
+$DISC_INTR_005_B02_ELLIOTT_012_JUDGE_JOKE
+Paris’te, aleyhine kullanılacak delili olmayan tek bir kişi yoktur. Söyleyin bana, ihtiyaç doğduğunda onu neyle suçlayabiliriz? Gerçeği sormuyorum, yalnızca inandırıcı bir şey istiyorum.
+$DISC_INTR_005_B02_ELLIOTT_013_JUDGE_HUMI
+Geçmişte birbirimize yardım etmiştik, şimdi de aynısını yapalım. De Staël hakkında ne biliyorsan söyle, giyotine yetecek bir şey olsun.
+$DISC_INTR_005_B02_ELLIOTT_014_ELLIOTT_INTR
+Yardım etmek isterdim, ama de Staël hakkında elimde hiçbir şey yok. Hiçbir şey.
+$DISC_INTR_005_B02_ELLIOTT_015_ELLIOTT_DOUB
+Bir şey bulacağınızdan şüpheliyim. De Staël’in sicili tertemiz, kadınlar da bu yüzden onu seçti.
+$DISC_INTR_005_B02_ELLIOTT_016_ELLIOTT_IRRI
+Bu sefer başarısız olabilirsin, çünkü elimde ona dair hiçbir şey yok. Dahası, elimde bir şey olsa bile, kimsenin onun suçlu olduğuna inanacağını sanmıyorum. Kadınlar onu aziz gibi görüyor.
+$DISC_INTR_005_B02_ELLIOTT_017_JUDGE_AGGR
+Bir şeyin olmalı! Bana yalan söyleme!
+$DISC_INTR_005_B02_ELLIOTT_018_JUDGE_MANI
+Bana tüm gerçeği söylediğinize inanmıyorum.
+$DISC_INTR_005_B02_ELLIOTT_019_JUDGE_JOKE
+Bu kadar ulaşılmaz olma, aramızda zaten parmaklıklar var.
+$DISC_INTR_005_B02_ELLIOTT_020_JUDGE_HUMI
+Bana yardım etmelisiniz. Durumu düzeltebilecek tek kişi sizsiniz.
+$DISC_INTR_005_B02_ELLIOTT_021_ELLIOTT_INTR
+Amacınıza ulaşmak için yalan söyler miydiniz?
+$DISC_INTR_005_B02_ELLIOTT_022_ELLIOTT_DOUB
+İstediğiniz kadar sorabilirsiniz. Size istediğinizi veremem, çünkü bende yok.
+$DISC_INTR_005_B02_ELLIOTT_023_ELLIOTT_IRRI
+Var olmayan bir şeyi sana veremem. Ne dediğimi anlamıyor musun?
+$DISC_INTR_005_B02_ELLIOTT_024_JUDGE_AGGR
+Belki sizi biraz motive etmeliyim. Bana yardım edin, bugün buradan çıkarsınız.
+$DISC_INTR_005_B02_ELLIOTT_025_JUDGE_MANI
+Gerçekten burada aylarca daha kalmak mı istiyorsun? Bana yardım et, ben de sana yardım edeyim.
+$DISC_INTR_005_B02_ELLIOTT_026_JUDGE_JOKE
+Ona er ya da geç ulaşacağım – ister seninle, ister sensiz. Ama yardım edersen, bu iş değerli vaktimizden daha azını alır. Senin de yardım etmen gerek, çünkü burada hemen mi yoksa aylarca, belki de hiç çıkamadan mı kalacağına karar veriyorsun.
+$DISC_INTR_005_B02_ELLIOTT_027_JUDGE_HUMI
+Sizi buradan çıkarabilecek tek kişi benim, artık kimse siyasi mahkumlarla ilgilenmiyor. Kendinize aylarca hapis cezası vermeyin.
+$DISC_INTR_005_B02_ELLIOTT_028_JUDGE_AGGR
+De Staël kime saldırdığını bilmiyor! Buna pişman olacak! Bana arkamdan saldırmaya kalkışan herkes gibi bedelini ödeyecek!
+$DISC_INTR_005_B02_ELLIOTT_029_JUDGE_MANI
+Şehrimizin acımasızca parçalanması pahasına onun güç kazanmasına izin veremem. Böyle bir durumda hırslarından vazgeçemiyorsa, onu bir hain olarak görürüm. Ve bir hainden gelecek şantaja boyun eğmem.
+$DISC_INTR_005_B02_ELLIOTT_030_JUDGE_JOKE
+De Staël, beni ve Paris’in özgürlüğü için savaşanları şantajla tehdit ederek ateşle oynuyor; sonunda yanacak. Onu alevlerin içinde biraz daha uzun tutmak ise bana ayrı bir zevk verir.
+$DISC_INTR_005_B02_ELLIOTT_031_JUDGE_HUMI
+De Staël, Paris’teki korkunç durumu kendi siyasi çıkarları için kullanıyor. Ne beni ne de Fransa’yı şantajına alet etmesine izin vermeyeceğim.
+$DISC_INTR_005_B02_ELLIOTT_032_ELLIOTT_INTR
+Madem suçuna dair bir kanıt yok, ben yaratırım. Beni serbest bırakın, size herkesi yok edecek kadar güçlü bir suçlama sunayım. Hatta de Staël kadar masum birini bile.
+$DISC_INTR_005_B02_ELLIOTT_033_ELLIOTT_DOUB
+Sana yalnızca burada ölmek istemediğim için yardım edeceğim. Bu değerli kanıtı vereceğim, ama tamamen doğru olduğuna güvenme.
+$DISC_INTR_005_B02_ELLIOTT_034_ELLIOTT_IRRI
+Hâlâ vicdanımı dinleyecek ve diğer kadınları satmayacak kadar güçlüyüm. Beni kim sanıyorsunuz? Beni kırmak mı istiyorsunuz? Sizden önce de birçok erkek bunu denedi ama başaramadı. Siz de başaramayacaksınız. Biz kadınlar kazanacağız!
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_01
+Bana de Staël’i suçlayabileceğim bir şey verin.
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_02
+De Staël’in bu kadar masum olduğuna inanmıyorum.
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_03
+Bana yardım ederseniz, özgürlüğünüze kavuşacaksınız.
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_04
+Beni şantajla tehdit edemezsiniz.

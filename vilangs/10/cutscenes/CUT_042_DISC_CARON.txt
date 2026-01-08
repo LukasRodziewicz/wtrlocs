@@ -1,0 +1,110 @@
+$CUT_042_DISC_CARON_001_CARON
+Beni neden kaçırıp bir sandalyeye bağladınız, ne oluyor?!
+$CUT_042_DISC_CARON_002_CARON
+Paris'te sizinle bu oyunu oynamaya hazır çok fahişe var. Peki, yargıç, bana cevap verecek misiniz?
+$CUT_042_DISC_CARON_003_CARON
+Yoksa kendinle oynarken seni izlememi mi istiyorsun, pis ihtiyar?
+$CUT_042_DISC_CARON_004_CARON
+Hiçbir şey yok, öyle mi?
+$CUT_042_DISC_CARON_005_CARON
+Duyduğuma göre birisi sizi öldürmeye çalışmış.
+$CUT_042_DISC_CARON_006_CARON
+Ve şimdi, cellatların seçkinler kulübüne, giyotin prenslerinin arasına terfi ettiniz.
+$CUT_042_DISC_CARON_007_CARON
+Tebrikler.
+$CUT_042_DISC_CARON_008_JUDGE
+Bu kulübe kabul edilmeyi hiç istemedim, ama oraya da tesadüfen girmedim.
+$CUT_042_DISC_CARON_009_CARON
+Evet, bunun için özel bir şeye ihtiyacınız olduğunu tahmin edebiliyorum.
+$CUT_042_DISC_CARON_010_CARON
+Ah, gözlerinizdeki o erkekçe deliliğin parıltısı.
+$CUT_042_DISC_CARON_011_JUDGE
+Bu belgeyi imzalamanız gerekiyor.
+$CUT_042_DISC_CARON_012_CARON
+Bu bir hikaye mi? İlginç dönüm noktaları var mı?
+$CUT_042_DISC_CARON_013_JUDGE
+Siz ve Paris Belediye Başkanı tarafından gerçekleştirilen, Avusturya lehine ihanet ve casusluk.
+$CUT_042_DISC_CARON_014_CARON
+Ne abartılı bir dram...
+$CUT_042_DISC_CARON_015_CARON
+Satmaz bu.
+$CUT_042_DISC_CARON_010_JUDGE_AGGR
+Bu belgede sizin rüşvetçi bir fahişe olduğunuzu kanıtlıyorum ve yazarlıkta da hiç fena olmadığımı göreceksiniz. Beni iyi dinleyin, burada sağlığınız tehlikede.
+$CUT_042_DISC_CARON_011_JUDGE_MANI
+Bu belge, er ya da geç sizin imzanızı taşıyacak.
+$CUT_042_DISC_CARON_012_JUDGE_JOKE
+Ben mükemmel bir yayıncıyım, her hikâyeyi satarım. Şu belgeyi hemen imzalayın, çocuklar artık nöbetten inmek istiyor.
+$CUT_042_DISC_CARON_013_JUDGE_HUMI
+Seni gülümserken görmek istemem. Bu belge yalnızca resmi bir zorunluluk ve böyle koşullarda imzalamak zorunda kalmamız gerçekten üzücü.
+$CUT_042_DISC_CARON_014_CARON_DOUB
+Nedense, hiçbir şeyi imzalama isteği duymuyorum.
+$CUT_042_DISC_CARON_015_CARON_IRRI
+Belki de ironim yeterince açık değildi. Hiçbir belgeyi imzalamaya niyetim yok, o yüzden onları canınızı sıkacak bir yere tıkabilirsiniz. Beni buna zorlayamazsınız.
+$CUT_042_DISC_CARON_016_CARON_AGGR
+Ne yapmanız gerektiği ya da ne yapmak istemediğiniz umurumda değil. Senden korkmuyorum. Paris’teki birçok Yurttaş benim yanımda duracak.
+$CUT_042_DISC_CARON_017_JUDGE_AGGR
+Muskadenler seni sırtından bıçakladı. Belediye başkanının kızıyla olan ilişkinizi bize anlattılar. Pache her şeyi öğrendiğinde, inanın bana, sizi idama göndermek için elinden geleni yapacak. Yanınızda kimse kalmadı...
+$CUT_042_DISC_CARON_018_JUDGE_MANI
+Burada yanında duracak birini görebiliyor musun? Sana yardım etmeye gelen oldu mu? Hayır. Sana yalnızca ben yardım edebilirim.
+$CUT_042_DISC_CARON_019_JUDGE_JOKE
+Özgürlüğünüz bir imzaya bakıyor. Neden tereddüt ediyorsunuz? Belgenin sonuçlarını belediye başkanı sizden çok daha fazla hissedecek.
+$CUT_042_DISC_CARON_020_JUDGE_HUMI
+Hayatımız boyunca, bizden üstün olanların emirlerine uymak zorunda kalırız. Onların yoluna çıkmak istemezsiniz; sizi ezip geçerler, farkına bile varmazlar.
+$CUT_042_DISC_CARON_021_JUDGE_AGGR
+Şu gardiyanları görüyor musun? Seni bir saatliğine onlarla baş başa bırakabilirim. Büyük ihtimalle sana tecavüz eder, belki de döverler. Gözlerinin açılması için bunların mı olması gerekiyor?
+$CUT_042_DISC_CARON_022_JUDGE_MANI
+Marie’yi seviyorsun, değil mi? O halde sana bir seçim hakkı vereceğim. Giyotine kimi göndereyim: onu mu, babasını mı? Hangisi ölürse ölsün umurumda değil, yeter ki o aile bana yapılan suikast girişiminin bedelini ödesin.
+$CUT_042_DISC_CARON_023_JUDGE_JOKE
+Nasıl olursa olsun, bu ifadede sizin imzanız olacak. Kalemi tutan el ölü olsa da, kâğıt umursamaz.
+$CUT_042_DISC_CARON_024_JUDGE_HUMI
+Belediye başkanı, kızıyla ilişkiniz açığa çıkıp itibarını tehlikeye atarsa sizi öldürür. Ben de işleri için tehdit oluşturduğumda beni ortadan kaldırmaya çalıştı.
+$CUT_042_DISC_CARON_025_JUDGE_AGGR
+Bu, yeni bir hayata başlamak için tek şansın. Bu odadan çıktığında öleceksin, ama burada bile ölüm tehdidi altındasın; çünkü sabrım tükenmek üzere.
+$CUT_042_DISC_CARON_026_JUDGE_MANI
+Paris'ten ayrılın. Sizi asla esirgemeyecek ve Marie'ye duyduğunuz hislere aldırış etmeyen fırtınadan kaçın. Amerika iyi bir yer; Devrim’in gölgesi oraya ulaşamaz. Bu belgeyi imzalayın. Hâlâ fırsatınız varken kaçın.
+$CUT_042_DISC_CARON_027_JUDGE_JOKE
+Bunu yeni bir hayata başlamak için bir fırsat olarak düşünün. Kendinize şık bir şey alın ve asla sizin tarafınızda olmayan, hiç var olmamış bir şehirden kaçıp gidin.
+$CUT_042_DISC_CARON_028_JUDGE_HUMI
+Her şey yatışınca, sanki hiçbir şey olmamış gibi olacak. Bazen kendini kurtarmak için acı çekmek gerekir. Sevdiğin birini kurtarmak için de.
+$CUT_042_DISC_CARON_029_CARON_INTR
+Yeni hayatımın bir kazayla aniden sona ermeyeceğine dair bana garanti verebilir misiniz? Gizemli bir şekilde bir bıçağa rastlamayacağımı ya da bir arabanın tekerlekleri altında kalmayacağımı?
+$CUT_042_DISC_CARON_030_CARON_DOUB
+Kendi hayatı ya da başkalarının ne düşündüğü umurumda olan biri gibi mi görünüyorum?
+$CUT_042_DISC_CARON_031_CARON_IRRI
+…
+$CUT_042_DISC_CARON_032_CARON_AGGR
+Ben sıradan bir fahişe değilim. Beni yanlış tanıdınız, buna fazlasıyla gururluyum.
+$CUT_042_DISC_CARON_033_JUDGE_AGGR
+Paris halkı için sadece bir başka gariplik olacaksınız. Sizi, etinizi ve tendonlarınızı keyif için parçalayan sokak köpekleri gibi olacaklar.
+$CUT_042_DISC_CARON_034_JUDGE_MANI
+Amerika sizin için iyi bir yer, yeni bir dünya, henüz tam anlamıyla şekillenmemiş. Burada insanlar özgürlüğü, yalnızca hayal güçlerinin sınırlarıyla kavrıyor.
+$CUT_042_DISC_CARON_035_JUDGE_JOKE
+Fransa'nın, senin ve Marie gibi iki kadının ilişkisini kabul etmesini mi bekliyorsun? Devrim yönetim biçimini değiştirdi belki, ama halk aynı kaldı; onlar anlamadıkları bir özgürlük için savaşmadılar.
+$CUT_042_DISC_CARON_036_JUDGE_HUMI
+Fransa, sana ve Marie’ye ihtiyaç duyduğunuz özgürlüğü vermeyecek. İstediğin kadar bağırıp isyan edebilirsin, ama bunun bedelini hayatınla ödeyeceksin. Ve giyotin başında, kalabalığın sadece “Ucube” diye bağırdığını duyacaksın.
+$CUT_042_DISC_CARON_037_CARON_INTR
+Belki de gerçekten, devrimin bize kurtuluş getirdiği yalanına inanan bu sahtekâr ülkeden ayrılmam daha iyi olurdu.
+$CUT_042_DISC_CARON_038_CARON_DOUB
+Peki ya siz adil ve bağışlayıcı mısınız? Bizi anlayabiliyor musunuz? Fransa bir erkek, bizim acımızı asla hissedemezsiniz. Hepiniz canavarsınız... istisnasız.
+$CUT_042_DISC_CARON_039_CARON_IRRI
+Hepiniz aynısınız. Bana kalan o azıcık özgürlük, benden isteyeceğiniz her şeye karşı koymaya yeter.
+$CUT_042_DISC_CARON_040_CARON_AGGR
+Devrim, sadece nöbet değişiminden ibaret. Geri kalanlar ya boyun eğecek ya da uçuruma yuvarlanacak. Bunu kabul edemem, artık dayanamıyorum!
+$CUT_042_DISC_CARON_TOPIC_01
+Ne istiyoruz?
+$CUT_042_DISC_CARON_TOPIC_02
+Neden imzalaması gerektiğini mantıklı bir şekilde açıklayın.
+$CUT_042_DISC_CARON_TOPIC_03
+Neden imzalamalı [TEHDİT].
+$CUT_042_DISC_CARON_TOPIC_04
+Bundan ne çıkarı olacak?
+$CUT_042_DISC_CARON_TOPIC_05
+Fransa iki kadının birliğini kabul etmeyecek.
+$CUT_042_DISC_CARON_DECISION_01
+İşkence
+$CUT_042_DISC_CARON_EVE_DECISION_01
+Hepimiz Béatrice biraz daha aklıselim davransa daha mutlu olurduk. Onun inadı, intikamının önünde bir engel. Ona merhamet gösterirsen, Pache’in bir gün sana ya da ailene yeniden saldırma riskini göze alırsın. Bu şehir zayıfları affetmez. İşkenceler kızı kırdı ve ifadeyi imzaladı. Umarız Danton daha az dirençli olur.
+$CUT_042_DISC_CARON_DECISION_02
+Kaçışın bedelini aile birikimlerinden öde
+$CUT_042_DISC_CARON_EVE_DECISION_02
+Bunu en başından düşünmeliydiniz. Anlamış olmalıydınız. Onun gibiler, verilen sözlere inanmaz – hayatlarında çok fazla sözün tutulmadığını gördüler. Tehditlerden de korkmazlar; çünkü sürekli korku ve kaygı içinde yaşamayı çoktan öğrendiler. Béatrice’in inandığı tek şey para. Para ve yeni bir hayat. İfadeyi imzaladı, istediğinizi aldınız. Peki, aile bütçesindeki eksikliği fark ettiklerinde aileniz ne diyecek?

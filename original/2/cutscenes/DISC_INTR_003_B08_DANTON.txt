@@ -1,0 +1,48 @@
+$DISC_INTR_003_B08_DANTON_001_JUDGE_AGGR
+La rue échappe à notre contrôle. L'agitation peut désormais s'emparer de tout un chacun et il devient difficile de pacifier les foules.
+$DISC_INTR_003_B08_DANTON_002_JUDGE_MANI
+La situation nous échappe. Hier, une jeune fille a été passée à tabac parce qu'on l'a suspectée d'espionnage pour le compte des contre-révolutionnaires. Qui sait qui sera leur prochaine cible… Toi, moi… ?
+$DISC_INTR_003_B08_DANTON_003_JUDGE_JOKE
+Tant que les gens ne jetaient que des tomates pourries aux boucs émissaires qu'ils se donnaient, la situation était tolérable. Mais ils se sont désormais armés de bâtons.
+$DISC_INTR_003_B08_DANTON_004_JUDGE_HUMI
+Je sais bien que j'ai promis de servir le peuple et défendre la liberté, mais nos citoyens se donnent le même but avec des moyens excessifs.
+$DISC_INTR_003_B08_DANTON_005_DANTON_SATI
+La situation est troublante, je te l'accorde. Les gens ont peur de sortir dans la rue. Je suis ravi que tu souhaites t'attaquer à ce problème, quoique je ne connaisse pas ton projet.
+$DISC_INTR_003_B08_DANTON_006_DANTON_INTR
+Les personnes à nos positions ne montrent aucun intérêt pour les foules, seuls importent les trublions qui se dressent sur leur chemin. Je présume que je ne tarderai pas à en entendre parler.
+$DISC_INTR_003_B08_DANTON_007_DANTON_DOUB
+J'ai toujours été curieux de voir si tu tirerais profit de la situation.
+$DISC_INTR_003_B08_DANTON_008_JUDGE_AGGR
+Gobel a tout gâché ! Avec un secret pareil, il aurait dû tout faire pour s'assurer que rien ne s'ébruite. Au lieu de cela, il s'est comporté de la manière la plus puérile qui soit !
+$DISC_INTR_003_B08_DANTON_009_JUDGE_MANI
+Si les rumeurs s'avèrent vraies, la présence de Gobel ne fera qu'empirer les choses. Voulons-nous que le gouvernement soit corrompu aux yeux du peuple ? Ma réputation est en jeu, tout comme la tienne et celle de tes amis à la Convention.
+$DISC_INTR_003_B08_DANTON_010_JUDGE_JOKE
+Gobel s'est attiré des ennuis au pire moment possible. Peut-être le Pape a-t-il enfin obtenu vengeance ? Dieu a fini par écouter ses prières et châtier l'archevêque pour avoir prêté serment à la constitution civile…
+$DISC_INTR_003_B08_DANTON_011_JUDGE_HUMI
+Je ne cherche pas à prononcer de condamnation par contumace, mais il semblerait que la colère du peuple a révélé de vieux secrets. Comme celui de l'archevêque Gobel. Peut-être devrions-nous prendre les choses en main ?
+$DISC_INTR_003_B08_DANTON_012_DANTON_SATI
+Nous devrions nous occuper du cas de Gobel avant que la Convention perde tout contrôle sur ses agissements.
+$DISC_INTR_003_B08_DANTON_013_DANTON_INTR
+Gobel est devenu particulièrement gênant, mais je comprends sa situation : on accuse toujours les riches de davantage de ce qu'ils ont vraiment commis.
+$DISC_INTR_003_B08_DANTON_014_DANTON_DOUB
+Je ne comprends toujours pas ce que tu as à y gagner.
+$DISC_INTR_003_B08_DANTON_015_JUDGE_AGGR
+Nous ne pouvons pas payer pour les agissements d'un groupe particulier. Avec tous ses mensonges et sa dégénérescence, l'Église n'a pas eu son pareil pour jeter de l'huile sur le feu. Livrons-la à la colère du peuple et retrouvons la paix.
+$DISC_INTR_003_B08_DANTON_016_JUDGE_MANI
+Face à un tigre affamé, il convient d'offrir une proie en pâture pour détourner son attention et pouvoir vivre ensuite en paix. Et puisque le tigre désire plonger ses crocs dans le clergé…
+$DISC_INTR_003_B08_DANTON_017_JUDGE_JOKE
+Nous n'avons guère d'autre choix. Ils en veulent au clergé, offrons-le-leur donc. Les voilà qui accusent le clergé de trahison ? Contentons-nous de porter leur parole. Quoi de plus simple et efficace ?
+$DISC_INTR_003_B08_DANTON_018_JUDGE_HUMI
+Je suis opposé à l'idée de s'en prendre à l'Église. Elle se délite d'elle-même aux mains de dégénérés, que maudissent nos citoyens. Il devient nécessaire de couper les ponts avec cette institution. Au nom de l'intérêt général.
+$DISC_INTR_003_B08_DANTON_019_DANTON_SATI
+Je trouve tes arguments convaincants. Étant donné que l'Église a décidé de s'ingérer dans les affaires de la France, elle doit payer pour ses erreurs politiques…
+$DISC_INTR_003_B08_DANTON_020_DANTON_INTR
+Je n'ai jamais été pris d'enthousiasme pour les solutions radicales, car toujours elles s'avèrent trop coûteuses. Mais aujourd'hui, je ne vois pas d'autre solution.
+$DISC_INTR_003_B08_DANTON_021_DANTON_DOUB
+Je comprends que tu puisses avoir tes raisons et trouve sage que tu veuilles les garder pour toi. Mais tes arguments ne m'ont pas fait changer d'avis, j'ai trop à perdre.
+$DISC_INTR_003_B08_DANTON_TOPIC_01
+La situation dans les rues devient incontrôlable.
+$DISC_INTR_003_B08_DANTON_TOPIC_02
+Les troubles autour de Gobel n'ont fait que jeter de l'huile sur le feu.
+$DISC_INTR_003_B08_DANTON_TOPIC_03
+Nous devons punir quelqu'un en exemple et les gens en veulent au clergé.

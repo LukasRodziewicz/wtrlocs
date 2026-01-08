@@ -1,0 +1,78 @@
+$INTRIGUE_TITLE_002
+Jean-Nicolas Pache
+$INTRIGUE_002_DESC
+Os assassinos que tentaram tirar sua vida certamente foram pagos por alguém, e tudo indica o prefeito de Paris. Ele é cauteloso demais para permitir um ataque direto. Você precisa pegá-lo de surpresa.
+$INTR_002_B01_TITLE
+Deixe Hanriot administrar o bordel
+$INTR_002_B01_DESC
+Pache gosta de apostar e ostentar sua fortuna. Devemos ampliar as atividades do bordel para incluir jogos de cartas e dados – sei o quanto você aprecia estes últimos. O comandante Hanriot ficará responsável pela segurança. Pache precisa sentir-se seguro conosco.
+$INTR_002_B02_TITLE
+Deixar David administrar o bordel
+$INTR_002_B02_DESC
+Se você quer atrair Pache, precisa fazê-lo com classe. O bordel tomado de Roland seria a armadilha perfeita, mas ainda precisamos torná-lo mais luxuoso, acrescentando jogos de azar às atrações oferecidas. Dados, por exemplo. Como artista, David certamente dará um toque de extravagância que vai seduzir até mesmo um preguiçoso como Pache — e ele não vai suspeitar de nada.
+$INTR_002_B03_TITLE
+Encontro com o Prefeito
+$INTR_002_B03_DESC
+Precisamos encontrá-lo pessoalmente para convencê-lo de que não sabemos sobre seu envolvimento na tentativa contra sua vida.
+$INTR_002_B04_TITLE
+Vigiar Marie Sylvie Pache
+$INTR_002_B04_DESC
+Antes de agirmos, David precisa confirmar a natureza do relacionamento entre a filha do prefeito e Béatrice Caron. Se elas estiverem tendo um caso, Pache ficará furioso, e você vai ajudá-lo a cometer aquele único erro de que tanto precisamos...
+$INTR_002_B05_TITLE
+Encontro na Casa de Jogos
+$INTR_002_B05_DESC
+É hora de Pache provar o sabor da vitória e de um bom tabaco, tudo no recém-inaugurado cassino. É hora de fazê-lo sentir-se… seguro.
+$INTR_002_B06_TITLE
+Prender Béatrice Caron
+$INTR_002_B06_DESC
+Os guardas de Hanriot emboscarão a filha do prefeito e sua amante em seu ponto de encontro habitual. Béatrice será presa e aguardará sozinha pelo que vier a seguir. Não teremos mais utilidade para Marie.
+$INTR_002_B07_TITLE
+Béatrice, traidora
+$INTR_002_B07_DESC
+Precisamos “convencê-la” a assinar um documento declarando que é uma espiã austríaca, que Jean-Nicolas Pache foi sua fonte e que chegou até ele por meio de sua filha.
+$INTR_002_B08_TITLE
+Encontro com Danton
+$INTR_002_B08_DESC
+Mesmo com o documento assinado por Béatrice, ainda não temos controle total sobre o Prefeito. Ele ainda pode pedir ajuda ao seu eloquente amigo Danton. Pache precisa ficar completamente isolado. Se não convencermos Danton a se juntar a nós, estaremos perdidos.
+$INTR_002_B09_TITLE
+Prender o prefeito
+$INTR_002_B09_DESC
+Não há momento melhor para uma prisão política do que no meio da noite. É hora de agir!
+$INTR_002_B10_TITLE
+Béatrice Caron – Chantageadora
+$INTR_002_B10_DESC
+Béatrice conseguiu escapar dos guardas e enviar uma mensagem para Marie Pache. Pediu que ela estivesse na rue Saint-Maur com o dinheiro para compensar os danos causados pelo relacionamento das duas. Precisamos intervir. Béatrice mostrou-se irracional — em vez de salvar a própria vida e fugir para o outro lado da Europa, permaneceu em Paris para praticar chantagem. Ela está extorquindo dinheiro de alguém que deveria amar. Todo o nosso plano desmoronará se ela falar sobre o depoimento que a obrigamos a assinar.
+$INTR_002_B10_DECISION_0
+Ir com os guardas
+$INTR_002_B10_DECISION_1
+Enviar apenas os guardas
+$INTR_002_SLOT_01_DESC
+Decida quem irá administrar o bordel apreendido.
+$INTR_002_BLOCK_004_PATH_STR
+Envie sua guarda para resolver isso – não precisamos nos esconder.
+$INTR_002_BLOCK_004_PATH_DIP
+A presença de David não deve levantar suspeitas.
+$INTR_002_BLOCK_004_PATH_ESP
+Deixe o Ramel cuidar disso. Ele conhece cada viela sombria desta cidade.
+$INTR_002_BLOCK_004_PATH_STR_FAILURE
+Clovis é desajeitado e... grande demais para agir discretamente. Ele conseguiu a informação, mas os Muscadins o notaram.
+$INTR_002_BLOCK_004_PATH_DIP_FAILURE
+Os Muscadins se mostraram extremamente paranoicos. Até mesmo a presença do sociável David despertou suspeitas. Você descobriu tudo o que queria, mas ao custo da ira deles.
+$INTR_002_BLOCK_004_PATH_ESP_FAILURE
+Ramel é habilidoso, mas sua presença foi descoberta por um Muscadin bêbado que reconheceu um velho amigo enquanto ele tentava sair. Seu espião conseguiu fugir por um beco, mas, daqui em diante, os Muscadins estarão mais atentos...
+$INTR_002_BLOCK_006_PATH_STR
+Hanriot vai fazer um espetáculo! Que todos os vizinhos saibam que queremos prender a traidora.
+$INTR_002_BLOCK_006_PATH_DIP
+Hanriot irá prendê-la antes que ela vá encontrar Marie, de forma educada e respeitando seus direitos.
+$INTR_002_BLOCK_006_PATH_ESP
+Diga a Hanriot para prendê-la em um beco, a caminho do encontro com Marie. Faça isso com calma, sem chamar atenção.
+$INTR_002_BLOCK_006_PATH_STR_FAILURE
+Os Muscadins resolveram defender uma das suas. Houve tiros. Temos Caron, mas houve baixas dos dois lados…
+$INTR_002_BLOCK_006_PATH_DIP_FAILURE
+Béatrice não reconheceu nossos esforços. Ela gritava que estava sendo agredida e estuprada, e logo foi socorrida por pessoas que atiravam pedras. Os guardas foram obrigados a usar a força…
+$INTR_002_BLOCK_006_PATH_ESP_FAILURE
+Os Muscadins ficaram mais cautelosos e evitam andar sozinhos. Os guardas foram obrigados a quebrar os ossos de alguns dos acompanhantes da moça...
+$INTR_002_B10_EVENT_TITLE
+LIBERDADE!
+$INTR_002_B10_EVENT_TEXT
+Marie matou. Duas vezes. Os guardas encontraram o corpo de Béatrice, esfaqueada pela filha do prefeito. Quando Marie percebeu os guardas, teria gritado “Liberdade!” e cortado a própria garganta. A situação saiu do controle. As notícias correm rápido, e o prefeito provavelmente já sabe o que aconteceu com sua filha, que ela pagou pelos pecados dele. Não se culpe. Concentre-se nos julgamentos de amanhã. Não se culpe...

@@ -1,0 +1,14 @@
+$EVE_008_TITLE
+Whisky, moja żono
+
+$EVE_008_MAIN_01
+Wieczór był ciepły, postanowiłeś wybrać się do domu dłuższą drogą. Nieopodal kawiarni Le Chantilly widzisz zabawną scenkę: dwóch pijaków wyszarpuje sobie butelkę z alkoholem, klnąc przy tym siarczyście. Pierwszy z awanturników jest niski i ubrany w pomięty oficerski mundur, chyba pułkownika. Drugi wojownik jest wysoki wyraźnie wygląda na zwykłą rynsztokową szuję. Z bełkotu i plątaniny wyzwisk domyślasz się, że na dnie butelki czeka na swój los ostatnia porcja trunku.
+
+$EVE_008_MAIN_01_C1
+Spróbuj rozsądzić pijaków
+
+$EVE_008_MAIN_02A
+Pojawienie się przybysza w eleganckim płaszczu sędziego sprawiło, że wrogowie stali się nagle sojusznikami. Dla osoby obserwującej z boku całe zajście musiało to wyglądać przezabawnie, kiedy w ramach pijackiej solidarności jeden z nich chciał przyłożyć Ci w głowę przedmiotem sporu, a drugi kopnąć w kostkę. Ciosu butelką uniknąłeś – rozbiła się na pobliskiej ścianie, znacząc ją resztką alkoholu. Jednak kopniak w nogę doszedł celu i unieruchomił cię na wystarczająco długo, by pijaczyny mogły umknąć w boczne uliczki. Chichot przechodniów milkł powoli.
+
+$EVE_008_MAIN_02B
+Wygrał wyższy pijak – w końcu użył całej swojej siły i oficer wylądował twarzą w błocie. Ostatni łyk trunku połechtał podniebienie zwycięzcy. Nie musisz oglądać dalszego ciągu zdarzenia. W domu czeka na ciebie pełna butelka czegoś wykwintniejszego.

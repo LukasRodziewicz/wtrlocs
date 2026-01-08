@@ -1,0 +1,56 @@
+#A02C1_D02_LETTER_MAIN
+Çocuğunuzun ölümüne karar veren kişi Başpiskopos Jean-Baptiste Gobel’di. Sıradaki hedefiniz o olmalı.
+#A02C1_D02_LETTER_SENDER
+Ramel
+$LETTER_H_02_01_01_001_HEADER
+Alexis Fidèle'ye,
+$LETTER_H_02_01_01_002_MAIN
+Devrimci Mahkeme görevini kusursuz şekilde yerine getiriyor. Konvansiyon, Fransa’yı arındırma yöntemlerimizden memnun, ancak mevcut koşullar Cumhuriyet’e bağlılık yeminini yenilemenizi gerektiriyor. Yarın bir yetkilimiz sizi ziyaret edecek.
+$LETTER_H_02_01_01_003_SENDER
+Dostunuz,
+Maximilien Robespierre
+$LETTER_CO_02_01_02_MAIN
+Jean-Baptiste Gobel. Oğlunuzun ölümünden sorumlu olan kişi o.
+$LETTER_CO_02_01_02_SENDER
+Ramel
+$LETTER_H_02_01_03_001_START
+Paris’in bir yurttaşı ve Devrim’in sadık bir hizmetkârı olarak, isimsiz bir şekilde bildiriyorum ki…
+$LETTER_H_02_01_03_002_P1_BASE
+İhbar
+$LETTER_H_02_01_03_002_P1_AGGR
+O namuslu geçinen rahip Gobel bir kızı hamile bırakmış, kız da ona bir oğul doğurmuş. Duyduğuma göre oğlu şimdi yetişkin olmuş. Ama Gobel hâlâ ölçülülükten ve erdemli yaşamdan vaazlar veriyor. Düşünebiliyor musun?!
+$LETTER_H_02_01_03_003_P1_MANI
+Hiyerarşinin tepesinde bir günahkâr var. Başpiskopos Gobel’in evlilik dışı bir çocuğu var. Oysa Fransa, onun gibilerden arındırılacaktı.
+$LETTER_H_02_01_03_004_P1_JOKE
+Başpiskopos Gobel bir kızla birlikte olmuş, o da ona bir oğul doğurmuş. Söylentiye göre kadın Paris'te yaşıyor, ama Başpiskopos'un bundan haberi yok.
+$LETTER_H_02_01_03_005_P1_HUMI
+Başpiskopos Gobel’in gayrimeşru bir oğlu olduğunu, annesinin de Paris’te yaşadığını duydum. Başkalarını yargılamak bana düşmez, ama bu durum bana doğru gelmiyor.
+$LETTER_H_02_01_03_006_P2_BASE
+Muhbirin görüşü
+$LETTER_H_02_01_03_006_P2_AGGR
+Bence böyle iki yüzlü sahtekârların kafaları, Bastille savunucuları gibi, bir mızrağa geçirilip sergilenmeli.
+$LETTER_H_02_01_03_007_P2_MANI
+Toplumumuzu hakikat temelleri üzerine büyük emeklerle inşa ettikten sonra, böyle kişilerin yeni düzenimizi zehirlemesine asla izin veremeyiz.
+$LETTER_H_02_01_03_008_P2_JOKE
+Açıkçası, kimin kiminle ve ne sıklıkta yattığı umurumda değil; yeter ki sessiz kalıp başkalarına akıl vermesinler.
+$LETTER_H_02_01_03_009_P2_HUMI
+Biri bu işe el atmalı. Bu insanların yaptıklarının toplumumuz için ne kadar zararlı olduğunun farkında olduklarından emin misin?
+$INVITATION_CO_02_01_05_001_MAIN
+Sayın Yargıç,
+Bu akşam Paris’in eteklerinde bir balo düzenliyoruz. Yalnızca Fransa’nın en parlak zekalarını, en seçkinlerini davet ettik ve sizin de orada olmanız bekleniyor. Ben ve dostlarım size anlatacaklarımız var... hem de çok önemli şeyler. Arabamız mahkemenin dışında sizi bekliyor olacak.
+$INVITATION_CO_02_01_05_001_SENDER
+Clément Renard
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_001_MAIN
+Sevgili Alexis, istemeden işlediğim bir günahın yüküyle daha fazla yaşayamayacağım. Sana söylemem gereken bir şey var, Alexis. Küçük Frédéric’in ölümünde benim de payım var. Bana oğlumun, tek oğlumun, firar etmeye çalışırken suçüstü yakalandığını ve idamı beklediğini söylediler. Bana kanıt gösterdiler ve aileni – alışkanlıklarınızı, düşüncelerinizi – ayrıntılı biçimde anlatmam karşılığında oğlumu serbest bırakacaklarına söz verdiler. Onlara zararsız olduğunu düşündüğüm birkaç bilgi verdim, ama onlar bu bilgileri öldürmek için kullandılar. Bunu asla istemedim – ben kimseyi öldürmedim. Katil onlar, ama suçluluk duygusu peşimi bırakmıyor. Seninle aynı odada oturup hiçbir şey olmamış gibi davranarak yaşamaya devam edemem. Tek umudum, bir gün beni affedeceğin, kandırıldığımı anlayacağın. Her zaman dostun oldum, Fidèle. Elveda, dostum.
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_002_SENDER
+Raymond Dévoyé
+$BROTHER_ARMY_POPUP_TITLE
+Uyarı
+$BROTHER_ARMY_POPUP_MAIN_01
+Kardeşinizin ordusu 4 gün içinde varacak.
+$BROTHER_ARMY_POPUP_MAIN_02
+Kardeşinizin ordusu 3 gün içinde varacak.
+$BROTHER_ARMY_POPUP_MAIN_03
+Kardeşinizin ordusu 2 gün içinde varacak.
+$BROTHER_ARMY_POPUP_MAIN_04
+Kardeşinizin ordusu yarın varacak.

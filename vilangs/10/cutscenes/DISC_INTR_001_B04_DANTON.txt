@@ -1,0 +1,42 @@
+$DISC_INTR_001_B04_DANTON_001_JUDGE_AGGR
+Roland tam bir asalak. Yolsuzluk, yeni yönetimin simgesi olamaz.
+$DISC_INTR_001_B04_DANTON_002_JUDGE_MANI
+Roland gerçekten halkı mı temsil ediyor? Yoksa aslında Capet ve hizmetkarlarının çıkarına mı çalışıyor?
+$DISC_INTR_001_B04_DANTON_003_JUDGE_JOKE
+Roland’dan, kendi iyiliği için kurtulmamız gerek. Cebindeki paralar yüzünden yakında cepleri patlayacak.
+$DISC_INTR_001_B04_DANTON_004_JUDGE_HUMI
+Fransa kan kaybediyor ve Roland gibiler yaralarını sarmasına izin vermiyor. Aksine, yaraları daha da derinleştiriyorlar.
+$DISC_INTR_001_B04_DANTON_005_DANTON_SATI
+O sülüğün ölümü beni hiçbir şey kadar mutlu etmezdi, ama bunun sizin için neden bu kadar önemli olduğunu anlamıyorum.
+$DISC_INTR_001_B04_DANTON_006_DANTON_INTR
+Onun düşüşüyle, Konvansiyon’un dışında birinin bu kadar ilgileneceğini hiç düşünmemiştim.
+$DISC_INTR_001_B04_DANTON_007_DANTON_DOUB
+Roland bir asalak, ama aynı zamanda halk tarafından seçilmiş bir bakan ve milletvekili.
+$DISC_INTR_001_B04_DANTON_008_JUDGE_AGGR
+Roland yalnızca rüşvet almakla suçlu değil. Devrimci Mahkeme’nin bir yargıcını tehdit etti. Bağımsız yargı tehlikede!
+$DISC_INTR_001_B04_DANTON_009_JUDGE_MANI
+Cezadan kaçmak için Roland bana karşı bir intikam savaşı başlattı. Bunu yaparak, yeni düzene savaş açmış olmuyor mu?
+$DISC_INTR_001_B04_DANTON_010_JUDGE_JOKE
+Bay ve Bayan Roland, iki sivrisinek gibi; beni sokuyor, Fransa’nın kanını emiyorlar. Kimse sivrisinekleri sevmez.
+$DISC_INTR_001_B04_DANTON_011_JUDGE_HUMI
+Bakan hakkındaki şahsi antipatim, bu yozlaşmış kralcıyı daha adil biriyle değiştirmemiz gerektiği gerçeğini değiştirmez.
+$DISC_INTR_001_B04_DANTON_012_JUDGE_AGGR
+Eğer milletvekillerini ikna etmezseniz, hâlâ tüm Fransa’da etkisini sürdüren hainlere göz yumduğunuzun kanıtı olacak!
+$DISC_INTR_001_B04_DANTON_013_JUDGE_MANI
+Vekiller, Roland’dan kurtulmak istediğini görürse, belki artık seni kralcı olmakla suçlamazlar?
+$DISC_INTR_001_B04_DANTON_014_JUDGE_JOKE
+Girondinler çoğu zaman kendi ayaklarına takılır. Onlara hafifçe dokunmak yeterlidir.
+$DISC_INTR_001_B04_DANTON_015_JUDGE_HUMI
+Bazen Roland, Eski Rejim’e Louis’den bile daha yakın duruyor. Eski düzeni tamamen ortadan kaldırmak istiyorsanız, işte fırsatınız.
+$DISC_INTR_001_B04_DANTON_016_DANTON_SATI
+Girondinleri zayıflatmak Fransa’nın çıkarınadır. Bugünlerde ılımlı görüşlere sahip insanlara tahammülümüz yok, yozlaşmış olanlara ise asla göz yummayacağız. Buna asla izin vermem!
+$DISC_INTR_001_B04_DANTON_017_DANTON_INTR
+Jakobenlerin üstünlüğü hoş bir şey olurdu. Ülkeyi yönetmek çok daha kolaylaşır, Fransa dizlerinin üstünden kalkardı. Peki, size yardım edeceğim.
+$DISC_INTR_001_B04_DANTON_018_DANTON_DOUB
+Girondinler zaten güç kaybediyor. Düşmelerini bekleyeceğim.
+$DISC_INTR_001_B04_DANTON_TOPIC_01
+Ne elde etmek istiyoruz?
+$DISC_INTR_001_B04_DANTON_TOPIC_02
+Bunu neden istiyoruz?
+$DISC_INTR_001_B04_DANTON_TOPIC_03
+Bundan ne çıkarı olacak?

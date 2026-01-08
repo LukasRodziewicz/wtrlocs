@@ -1,0 +1,28 @@
+$EVE_015_TITLE
+El trato de tu vida
+$EVE_015_MAIN_01
+Un hombre llamado Blaise Roy visitó a tu esposa. Resulta que en el pasado estuvieron… sentimentalmente involucrados. Roy pidió dinero prestado a dos bancos parisinos para abrir un taller de tejidos, y como puedes imaginar, el negocio fracasó. Intentó aplazar el pago de los préstamos y, aunque uno de los bancos aceptó, el otro se negó. Roy espera que utilices tu posición para ayudarlo. Está presionando a tu esposa, alegando que “ella le debe algo”.
+$EVE_015_MAIN_01_C1
+Investigar el asunto
+$EVE_015_MAIN_01_C2
+Arrestar al hombre
+$EVE_015_MAIN_01_C3
+Ignorar el asunto
+$EVE_015_MAIN_02A
+Conviene preguntarse por qué el banco se negó a aplazar la fecha de pago. Al parecer, el director del banco, Abel Daquin, es quien se opone con mayor firmeza. Tiene esposa e hija. Se rumorea que ambas permitieron que Roy se acercara demasiado. El señor Daquin lo descubrió, y ahora está dispuesto a perder el dinero prestado por el banco.
+$EVE_015_MAIN_02A_C1
+Arrestar a Blaise Roy
+$EVE_015_MAIN_02A_C2
+Pedirle un favor al director del banco
+$EVE_015_MAIN_02A_C3
+Intimidar al director del banco
+$EVE_015_MAIN_02B
+Sin duda percibiste un matiz de chantaje en la petición del hombre, pero ¿qué más podrías esperar de alguien acorralado?
+$EVE_015_MAIN_02C
+Es comprensible que los asuntos de la gente insignificante —incluidos los antiguos pretendientes de su esposa— no despierten su interés. Sea pues.
+$EVE_015_MAIN_03B
+No hay nada como conversar con alguien de tu misma categoría. Para el director del banco, Blaise Roy no es más que una pulga: molesta pero inofensiva, incapaz de oponerle verdadera resistencia. Pero el juez del Tribunal es otra historia. Lo invitaste a una copa de vino y le comentaste que te interesa la situación del pobre hombre. Abel Daquin no mostró el menor interés… hasta que le prometiste tu gratitud eterna y un favor. Entonces, cambió de actitud de inmediato y aceptó aplazar la fecha del pago.
+$EVE_015_MAIN_03C
+Al banquero no le hizo ninguna gracia recibir tu visita acompañado de dos fornidos guardias vestidos de civil. Claro, las porras no combinaban precisamente con sus zapatos. Daquin escuchó atentamente tus argumentos y accedió a aplazar la fecha del pago. Pero seguro que no lo olvidará.
+$EVE_015_MAIN_03E
+Lamento ser portador de malas noticias. Blaise Roy se quitó la vida en prisión. El pobre, de algún modo se cortó las muñecas. Parece que no habrá juicio…

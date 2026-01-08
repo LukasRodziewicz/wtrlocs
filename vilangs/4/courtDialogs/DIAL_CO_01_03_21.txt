@@ -1,0 +1,44 @@
+$DIAL_CO_01_03_21_V1_001_PACHE
+Du Schurke! Du... du Schlange! Danton hat mich nie verraten. Das warst du!
+$DIAL_CO_01_03_21_V1_002_JUDGE
+Er auch.
+$DIAL_CO_01_03_21_V1_003_PACHE
+Wie konntest du nur? Wir sollten doch...
+$DIAL_CO_01_03_21_V1_004_JUDGE
+Freunde, gewiss. Lassen wir keine Zeit mehr verstreichen. Gestehen Sie den Verrat ein, und Ihre Tochter wird freigelassen. Für Sie selbst kann ich jedoch nichts versprechen.
+$DIAL_CO_01_03_21_V1_005_PACHE
+Ich habe Sie nur angegriffen, weil man es mir befohlen hat!
+$DIAL_CO_01_03_21_V1_006_JUDGE
+Das spielt keine Rolle. Sie werden gerichtet wie jeder andere Mörder.
+$DIAL_CO_01_03_21_V1_007_PACHE
+Sie werden mich meinetwegen ans Kreuz schlagen! Wegen eines Menschen, der mir seine Freundschaft, ein Bündnis, versprochen hat!
+$DIAL_CO_01_03_21_V1_008_JUDGE
+Man wird Sie gewiss aus dem Amt jagen, doch Sie werden überleben. Marie ebenso. Aber wenn Sie weiter aufbegehren, verlieren Sie beide den Kopf.
+$DIAL_CO_01_03_21_V1_009_PACHE
+Dafür werden Sie bezahlen, das schwöre ich.
+$DIAL_CO_01_03_21_V1_010_JUDGE
+Vielleicht, aber zuerst werden Sie zahlen. Ihr Prozess beginnt jeden Moment, also bleibt Ihnen nicht mehr viel Zeit zum Nachdenken.
+$DIAL_CO_01_03_21_V2_001_PACHE
+Meine Tochter ist tot.
+$DIAL_CO_01_03_21_V2_002_JUDGE
+Ich weiß.
+$DIAL_CO_01_03_21_V2_003_PACHE
+Sie hat sich wegen irgendeines... Mädchens die Kehle aufgeschlitzt.
+$DIAL_CO_01_03_21_V2_004_JUDGE
+Ich weiß.
+$DIAL_CO_01_03_21_V2_005_PACHE
+Alles nur wegen dir, du Mistkerl! Ich dachte, wir wären Freunde.
+$DIAL_CO_01_03_21_V2_006_JUDGE
+Ich war nie dein Freund. Genau wie Danton.
+$DIAL_CO_01_03_21_V2_007_PACHE
+Was wird mit mir geschehen?
+$DIAL_CO_01_03_21_V2_008_JUDGE
+Gestehen Sie, und Sie werden freikommen. Verweigern Sie die Zusammenarbeit, erwartet Sie die Guillotine.
+$DIAL_CO_01_03_21_V2_009_PACHE
+Wird eine dieser Möglichkeiten meine Tochter zurückbringen?
+$DIAL_CO_01_03_21_V2_010_JUDGE
+Ich glaube nicht.
+$DIAL_CO_01_03_21_V2_011_PACHE
+Dann können Sie sich zum Teufel scheren.
+$DIAL_CO_01_03_21_V2_012_JUDGE
+Der Prozess beginnt in wenigen Minuten. Sie sollten sich das gut überlegen.

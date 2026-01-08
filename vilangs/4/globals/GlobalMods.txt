@@ -1,0 +1,204 @@
+$GM_001_TITLE
+Versorgungsfluss
+$GM_001_MAIN
+Die Versorgung der Stadt mit Lebensmitteln hat sich verbessert. Die Menschen sind freundlicher und hilfsbereiter geworden.
+$GM_002_TITLE
+Die Revolution schreitet voran
+$GM_002_MAIN
+Das Revolutionstribunal gilt weithin als Verbündeter der Revolution.
+$GM_003_TITLE
+Gutes Wort
+$GM_003_MAIN
+Jemand spricht hier und da ein gutes Wort für Sie. Ganz uneigennützig, versteht sich.
+$GM_004_TITLE
+Rattenplage
+$GM_004_MAIN
+Paris wird von Ratten überrannt, die eine unangenehme Hautkrankheit verbreiten. Die Menschen sind verärgert und ihre Produktivität ist drastisch gesunken.
+$GM_005_TITLE
+Gerüchte
+$GM_005_MAIN
+Man munkelt, Sie seien ein Trinker und Spieler – nichts Neues. Doch Ihr Ansehen bei den Leuten schwindet.
+$GM_006_TITLE
+Freund
+$GM_006_MAIN
+Jemand wacht im Verborgenen über Ihren Ruf. Wer könnte dieser geheimnisvolle Gönner sein?
+$GM_007_TITLE
+Gefallen
+$GM_007_MAIN
+Manchmal kann selbst die kleinste selbstlose Geste für jemanden die Welt bedeuten. Ein Flügelschlag von dir hat eine Lawine positiver Veränderungen ausgelöst.
+$GM_008_TITLE
+Glaube
+$GM_008_MAIN
+Manche glauben, dass Sie der Schlüssel sein werden, um das Gleichgewicht zwischen den verfeindeten Fraktionen zu wahren.
+$GM_009_TITLE
+Mann des Volkes
+$GM_009_MAIN
+Das einfache Volk sieht in Ihnen einen der Ihren. Als wären Sie im selben Hof aufgewachsen.
+$GM_011_TITLE
+Konterrevolutionäre Gerüchte
+$GM_011_MAIN
+„Das Tribunal ist der Feind der Revolution!“, schrie eine Fischhändlerin. Nichts beruhigt die Bürger von Paris so sehr wie die Zerstörung eines Symbols. Diesmal entluden sie ihren Frust am Palais de Justice, deinem Arbeitsplatz. Zum Glück griff die Garde ein, sonst hätten sie das Gebäude dem Erdboden gleichgemacht und eine weitere Revolution entfacht.
+$GM_012_TITLE
+Notlüge
+$GM_012_MAIN
+Bei einer Debatte im Café Procope verteidigte Ihr Vater die Ehre des Tribunals, pries dessen Tugenden und Errungenschaften. Die Leute glaubten ihm sogar.
+$GM_013_TITLE
+Almosen für die Waisen
+$GM_013_MAIN
+Ihre Frau hat Mitgefühl für die jungen Bewohner des örtlichen Waisenhauses gezeigt. Ihre Spende wird ihnen neue Hoffnung auf eine bessere Zukunft schenken. Wie edelmütig!
+$GM_014_TITLE
+Groll
+$GM_014_MAIN
+Erinnern Sie sich noch, wie Ihre Frau auf dem Markt mit diesem glatzköpfigen Händler gefeilscht hat? Er erzählte jedem, der es hören wollte, Sie seien ein Geizhals und ein Rüpel. Sie, nicht Ihre Frau. Ach, die Freuden der Ehe.
+$GM_015_TITLE
+Verborgener Feind
+$GM_015_MAIN
+In einer großen Stadt kann man nicht alle seine Feinde kennen. Einer von ihnen versteht es besonders gut, seine wahre Natur zu verbergen.
+$GM_016_TITLE
+Saint-Just lügt
+$GM_016_MAIN
+Bei einer der hitzigen Debatten im Café Procope behauptete der dreiste Saint-Just in demagogischer Manier, alle Richter seien korrupte Relikte des Ancien Régime. Leider nahm er dabei erneut Sie als Beispiel.
+$GM_017_TITLE
+Plünderer
+$GM_017_MAIN
+Eine Bande von Halunken streift nachts durch die Stadt und bricht in Häuser ein. Die Menschen erfinden schon die verrücktesten Verstecke für ihr Geld. Sie sind verängstigt, während Garde und Tribunal untätig bleiben.
+$GM_020_TITLE
+Familienfreund
+$GM_020_MAIN
+Bei einer Versammlung des Konvents wurde der Nutzen des Revolutionstribunals erörtert. Ihr Freund Jacques-Louis David hielt eine Rede über die Unentbehrlichkeit Ihres Amtes für die Ziele der Revolution.
+$GM_022_TITLE
+Bastille-Enthüllung
+$GM_022_MAIN
+Ein Mann, der aus der Bastille befreit wurde und sich nun am dritten Tag eines Saufgelages befindet, behauptet, er habe Sie während der Befreiung des Gefängnisses gesehen. Er ist überzeugt, dass Sie an der Spitze der Menge marschiert sind. Die meisten Zuhörer lächelten nur spöttisch über den Trunkenbold, doch einige glaubten ihm.
+$GM_023_TITLE
+Staatsfeind
+$GM_023_MAIN
+Ihr miserabler Ruf macht Sie zum Staatsfeind Nummer eins in Paris. Sogar streunende Hunde wechseln die Straßenseite, wenn Sie auftauchen.
+$GM_025_TITLE
+Denunziation
+$GM_025_MAIN
+Jemand hat der Revolutionären Patrouille erzählt, Sie könnten ein österreichischer Spion sein. Jetzt behalten sie Sie im Auge. Schwachköpfe.
+$GM_032_TITLE
+Schlechter Richter!
+$GM_032_MAIN
+Die Geduld des Volkes ist nicht unendlich. Der Prozess zog sich zu lange hin, und das Publikum war äußerst aufgebracht.
+$GM_033_TITLE
+Rausch
+$GM_033_MAIN
+Ab und zu gönnst du dir ein Gläschen. Oder zwei. Oder sechs. Niemand verurteilt dich, wirklich nicht. Außer…
+$GM_034_TITLE
+Trunkenheit
+$GM_034_MAIN
+Ein ständig trinkender Richter ist das perfekte Gesprächsthema für den Sonntagsklatsch.
+$GM_035_TITLE
+Sucht
+$GM_035_MAIN
+Die Leute reden nicht mehr bloß hinter vorgehaltener Hand über Ihren Alkoholmissbrauch. Ihr Problem ist offensichtlich, und Sie sind nicht in der Lage, sich selbst zu helfen.
+$GM_051_TITLE
+Unterstützung der Geschworenen
+$GM_051_MAIN
+Die Geschworenen haben bemerkt, dass Sie die richtigen Entscheidungen treffen und für Gerechtigkeit einstehen. Sie sprechen lobend über Sie.
+$GM_052_TITLE
+Feind im Justizpalast
+$GM_052_MAIN
+Die Geschworenen haben bemerkt, dass Sie falsche Entscheidungen treffen und die Gerechtigkeit vernachlässigen. Gerüchte verbreiten sich schnell.
+$GM_053_TITLE
+Unzuverlässiger Beamter!
+$GM_053_MAIN
+Gerüchte über Ihre nachlässige Amtsführung machen die Runde. Sie sollten sich zusammenreißen, wenn Sie Ihre Stellung behalten wollen.
+$GM_054_TITLE
+Unterstützung der Revolutionäre
+$GM_054_MAIN
+Ihre Beziehungen zu den Revolutionären sind sehr gut.
+$GM_055_TITLE
+Feindseligkeit der Revolutionäre
+$GM_055_MAIN
+Ihr Verhältnis zu den Revolutionären ist miserabel.
+$GM_056_TITLE
+Unterstützung des Volkes
+$GM_056_MAIN
+Ihr Verhältnis zum Volk ist sehr gut.
+$GM_057_TITLE
+Unmut des Volkes
+$GM_057_MAIN
+Ihr Verhältnis zum Volk ist katastrophal.
+$GM_058_TITLE
+Unterstützung der Aristokraten
+$GM_058_MAIN
+Ihre Beziehungen zu den Aristokraten sind sehr gut.
+$GM_059_TITLE
+Feindseligkeit der Aristokraten
+$GM_059_MAIN
+Ihr Verhältnis zu den Aristokraten ist miserabel.
+$GM_060_TITLE
+Gutes Verhältnis zur Ehefrau
+$GM_060_MAIN
+Zwischen euch beiden wird das Verhältnis besser.
+$GM_061_TITLE
+Schlechtes Verhältnis zur Ehefrau
+$GM_061_MAIN
+Was schon schlecht war, wird jetzt noch schlimmer.
+$GM_062_TITLE
+Gutes Verhältnis zum jüngeren Sohn
+$GM_062_MAIN
+Ihr jüngerer Sohn vergöttert Sie. So wie früher, in besseren Zeiten.
+$GM_063_TITLE
+Gutes Verhältnis zum älteren Sohn
+$GM_063_MAIN
+Wider Erwarten beginnt Ihr älterer Sohn, Ihnen näherzukommen.
+$GM_064_TITLE
+Schlechtes Verhältnis zum älteren Sohn
+$GM_064_MAIN
+Aus jugendlichem Aufbegehren wird allmählich ausgewachsener Hass.
+$GM_065_TITLE
+Gutes Verhältnis zum Vater
+$GM_065_MAIN
+Du bist sein ganzer Stolz. Mach weiter so.
+$GM_066_TITLE
+Schlechtes Verhältnis zum Vater
+$GM_066_MAIN
+Etwas ist schiefgelaufen. Ganz gewaltig schief. Das ist Ihnen doch klar?
+$GM_100_TITLE
+Die Flucht des Königs
+$GM_100_MAIN
+Der König ist aus dem Hausarrest entkommen. Das ganze Land jagt ihn, und auf den Straßen kocht die Wut.
+$GM_104_TITLE
+Der Minister ist geflohen
+$GM_104_MAIN
+Jean-Marie Roland ist aus Paris geflohen, nachdem er von der Verhaftung seiner Frau erfahren hatte. Es steht fest, dass er vor seiner Flucht noch verleumderische Gerüchte über Sie verbreitet hat.
+$GM_105_TITLE
+Die Frau des Ministers ist geflohen
+$GM_105_MAIN
+Jeanne Marie Roland hat stets aus dem Schatten heraus die Fäden gezogen. Sie wird Ihnen die Verhaftung ihres Mannes nicht verzeihen und Sie selbst im Exil unablässig verfolgen.
+$GM_110_TITLE
+Position in der Hierarchie
+$GM_110_MAIN
+Deine Stellung in der Hierarchie festigt sich, während du immer größere Höhen erreichst.
+$GM_202_TITLE
+Versorgungsprobleme
+$GM_202_MAIN
+Es gibt Schwierigkeiten mit der Lebensmittelversorgung. Es wirkt, als wolle jemand die Hauptstadt aushungern…
+$GM_203_TITLE
+Hunger in Paris
+$GM_203_MAIN
+Leg dich niemals mit dem Adel an – sie wissen genau, wo sie zuschlagen müssen, damit es am meisten schmerzt.
+$GM_204_TITLE
+Das kleinere Übel
+$GM_204_MAIN
+Vielleicht habt Ihr das Würfelspiel gegen den Adel gewonnen, doch Ihr habt damit nur den Schlag abgeschwächt, der den Bürgern von Paris galt.
+$GM_205_TITLE
+Vendée-Aufstand
+$GM_205_MAIN
+In der Vendée ist ein royalistischer Aufstand ausgebrochen. Paris ist in Aufruhr, und jeder könnte der Anstiftung zum Bürgerkrieg bezichtigt werden. Seien Sie vorsichtig.
+$GM_301_TITLE
+Unsterblich
+$GM_301_MAIN
+Zwei Attentatsversuche, und dennoch leben Sie noch. Die neue, aufgeklärte Gesellschaft behauptet, nicht an Aberglauben zu glauben, doch auf den Straßen flüstert man, Sie seien unsterblich.
+$GM_400_TITLE
+Unvollendete Baustelle
+$GM_400_MAIN
+Es ist Ihnen nicht gelungen, den Bau rechtzeitig fertigzustellen!
+$GM_401_TITLE
+Denkmal errichtet
+$GM_401_MAIN
+Wieder einmal haben Sie bewiesen, dass man Ihnen voll und ganz vertrauen kann. Sie haben an alles gedacht, und die Pariser werden das nie vergessen.

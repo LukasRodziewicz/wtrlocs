@@ -1,0 +1,266 @@
+$FAB_003_DOC_1_HEADER
+Alegato de la acusación por Antoine Quentin Fouquier-Tinville
+$FAB_003_DOC_1_00
+¡Compatriotas! ¡El ciudadano Capeto, antes conocido como el rey Luis XVI de Francia, debe ser castigado por conspirar contra el pueblo francés!
+$FAB_003_DOC_1_01
+Luis Capeto intentó <a name="1" class="hidden">defender su autoridad absoluta</a> conspirando contra la Asamblea Nacional Constituyente y el pueblo de Francia. Todos recordamos julio de 1789. <a name="2" class="hidden">Reunió un ejército</a>, quince regimientos extranjeros, y les ordenó <a name="3" class="hidden">rodear París</a>. ¡Los soldados bajo el mando del barón de Besenval debían capturar a los diputados y disparar contra los ciudadanos que defendían las reformas! ¡Y así lo hicieron! ¡El Regimiento Real Alemán fue el primero en derramar sangre!
+$FAB_003_DOC_1_02
+Tras el fracaso de la conspiración, Luis Capeto <a name="4" class="hidden">intentó huir</a> del país con su familia y <a name="5" class="hidden">tramar alianzas con monarcas extranjeros</a> en el extranjero. ¿No fue por eso que escapó del palacio de las Tullerías una noche de junio de 1791 usando <a name="6" class="hidden">el pasaporte de otro</a>? ¿Acaso no se dirigía a Montmédy, donde sus ejércitos leales aguardaban para escoltarlo hasta Austria? Si no fuera por <a name="7" class="hidden">el cartero Douret</a>, este complot podría haber terminado en tragedia para nosotros.
+$FAB_003_DOC_1_03
+Luis Capeto jamás renunciará a la idea de <a name="8" class="hidden">sofocar la Revolución por la fuerza</a>. Antes de los sucesos de 1792, ordenó que la Guardia Suiza apostada en las Tullerías <a name="9" class="hidden">fuera duplicada</a>. Realizó un desfile público ante los ciudadanos horrorizados. ¡El pueblo no tenía alternativa! ¡Debían actuar antes de que Capeto atacara! A los ciudadanos de París que intentaron detener la locura les <a name="11" class="hidden">dispararon</a>, incluso después de que Capeto huyera a la Asamblea Nacional.
+$FAB_003_DOC_1_04
+Prueba: Una orden emitida por el mariscal de Broglie al barón de Besenval.
+$FAB_003_DOC_2_TOOLTIP
+Una orden emitida por el mariscal de Broglie al barón de Besenval
+$FAB_003_DOC_2_00
+¡Mi señor! Si surge cualquier motivo, dispare contra los rebeldes sin vacilar, tal como ordenó Su Majestad. No muestre piedad, pues ellos tampoco la tendrán. V.F. de Broglie
+$FAB_003_OnStart_00
+Luis Capeto, declaro abierto su juicio. Responda a las preguntas cuando se le indique.
+$FAB_003_OnStart_01
+Capeto es el nombre de uno de mis antepasados. Mi nombre es Luis Augusto de Borbón.
+$FAB_003_OnStart_02
+Quizá ese era tu nombre antes de alzarte contra el pueblo al que juraste proteger.
+$FAB_003_OnStart_03
+Como rey, jamás he hecho nada en contra de mi pueblo. Los amé y aún los amo…
+$FAB_003_OnStart_04
+¡Protesto! Hay pruebas de la traición de Luis Capeto contra el pueblo de Francia. Debe ser juzgado como extranjero y enemigo, no como Ciudadano de la República.
+$FAB_003_OnGuilty_00
+¡Condeno al ciudadano Capeto a muerte por guillotina! Llévenselo.
+$FAB_003_OnGuilty_01
+¡Viva el pueblo!
+$FAB_003_OnGuilty_02
+¡Muerte al tirano!
+$FAB_003_OnPrison_00
+¡Condeno al ciudadano Capeto a prisión! Llévenselo.
+$FAB_003_OnPrison_01
+¡Arresten al juez de inmediato!
+$FAB_003_OnPrison_02
+¡Indignante!
+$FAB_003_OnNotGuilty_00
+El veredicto en el caso del ciudadano Capeto es... ¡inocente! El acusado queda en libertad.
+$FAB_003_OnNotGuilty_01
+¡Arresten al juez de inmediato!
+$FAB_003_OnNotGuilty_02
+¡Indignante!
+$FAB_003_01x02_00_QTitle
+¿Intentó el acusado disolver la Asamblea Nacional Constituyente?
+$FAB_003_01x02_00_00
+¿Intentó el acusado disolver la Asamblea Nacional Constituyente?
+$FAB_003_01x02_00_01
+No convocaría a los Estados Generales por primera vez en generaciones para luego reconocer a la Asamblea Nacional y actuar en su contra y contra todas las reformas necesarias.
+$FAB_003_01x02_00_02
+Entonces, ¿por qué llamó a las fuerzas armadas tras la transformación de la Asamblea Nacional en la Asamblea Nacional Constituyente?
+$FAB_003_01x02_00_03
+Mis ministros me presionaron para garantizar la seguridad de mi pueblo.
+$FAB_003_01x02_00_04
+Esa es una afirmación audaz, considerando cuántos de los suyos murieron durante los disturbios de julio.
+$FAB_003_01x02_00_05
+Me duele profundamente, pero el único responsable de ello es el barón de Besenval.
+$FAB_003_01x02_00_06
+¡Protesto! ¡De Besenval cumplía las órdenes de Capeto!
+$FAB_003_01x03_01_QTitle
+¿Qué planeaba hacer el acusado con los diputados de la Asamblea Constituyente?
+$FAB_003_01x03_01_00
+¿Qué planeaba hacer el acusado con los diputados de la Asamblea Constituyente?
+$FAB_003_01x03_01_01
+Nada. La Asamblea a la que me uní el 27 de junio de 1789 otorgó inmunidad a sus miembros, y yo tenía la intención de respetarlo.
+$FAB_003_01x03_01_02
+Y aun así ordenó a sus soldados que detuvieran y encarcelaran a los diputados, e incluso que los ejecutaran.
+$FAB_003_01x03_01_03
+Disparates. No hay pruebas de eso. Mis enemigos difunden rumores para deshacerse de mí.
+$FAB_003_01x03_01_04
+¡No necesitamos pruebas contra un cobarde que huye de su propio pueblo!
+$FAB_003_02x08_02_QTitle
+¿Quién dio la orden de disparar contra los ciudadanos…?
+$FAB_003_02x08_02_00
+¿Quién dio la orden de disparar contra los ciudadanos que defendían la Asamblea Nacional Constituyente?
+$FAB_003_02x08_02_01
+Fue el mariscal de Broglie o el barón de Besenval. El responsable debería estar aquí, pues no tenía autoridad para dar semejantes órdenes.
+$FAB_003_02x08_02_02
+¿De verdad? Este documento dice lo contrario. Está firmado por el Mariscal.
+$FAB_003_02x08_02_03
+El mariscal de Broglie fue demasiado lejos y nos engañó a todos. ¡Juro por mi corona que yo no di esa orden!
+$FAB_003_02x08_02_04
+De Broglie es un monárquico acérrimo y le entregaron un ejército para sofocar la Revolución. ¿Actuaría por su cuenta, sin el beneplácito de Capeto?
+$FAB_003_02x08_02_05
+A veces la gente hace cosas impensables…
+$FAB_003_02x03_03_QTitle
+¿Ha considerado alguna vez el acusado a París y a sus ciudadanos como enemigos?
+$FAB_003_02x03_03_00
+¿Ha considerado alguna vez el acusado a París y a sus ciudadanos como enemigos?
+$FAB_003_02x03_03_01
+En absoluto. Le pido que aclare la pregunta.
+$FAB_003_02x03_03_02
+¿Cómo puede negarlo si ni siquiera entiende la pregunta? Sus ejércitos rodearon París. ¿Acaso no es eso lo que se hace con los enemigos?
+$FAB_003_02x03_03_03
+Mis soldados estaban allí únicamente para garantizar el orden público mientras la Asamblea Nacional estaba reunida.
+$FAB_003_02x03_03_04
+Ya había suficientes fuerzas en París. ¿Acaso eso no bastaba?
+$FAB_003_02x03_03_05
+…
+$FAB_003_04x07_04_QTitle
+Llamen al testigo, Jean Douret.
+$FAB_003_04x07_04_00
+Llamen al testigo, Jean Douret.
+$FAB_003_04x07_04_02
+Por favor, preséntese.
+$FAB_003_04x07_04_03
+Jean Douret, maestro de correos de Sainte-Menehould, monsieur le juge.
+$FAB_003_05x06_05_QTitle
+¿Quién fue responsable de la entrega del pasaporte…
+$FAB_003_05x06_05_00
+¿Quién fue responsable de entregar el pasaporte del hombre llamado Pinet?
+$FAB_003_05x06_05_01
+Mi mayordomo. Le ordené que se encargara de todos los trámites para el viaje a Montmédy.
+$FAB_003_05x06_05_02
+El Ayuntamiento no ha recibido ninguna solicitud de su mayordomo.
+$FAB_003_05x06_05_03
+No sé qué decir…
+$FAB_003_05x06_05_04
+¡Señor juez! El mayordomo de Luis Capeto fue visto en la embajada austriaca. Sin duda, allí prepararon todos los documentos para los desertores.
+$FAB_003_05x06_05_05
+¡Señor Tinville, eso no son más que rumores! ¿Quién ha dicho tal cosa? ¡Que lo traigan aquí y lo repita!
+$FAB_003_05x06_05_06
+No es necesario. Es una prueba irrefutable, especialmente a la luz de lo que nos ha dicho el acusado.
+$FAB_003_08x05_06_QTitle
+¿Quién le ayudó a sofocar la Revolución?
+$FAB_003_08x05_06_00
+¿Quién le ayudó a sofocar la Revolución? ¿Federico Guillermo II? ¿Francisco II? ¿Catalina II? ¿O quizá su pariente Carlos IV?
+$FAB_003_08x05_06_01
+¡La justicia también les espera!
+$FAB_003_08x05_06_02
+Tonterías, todo eso. Mi único deseo era sacar a mi familia de París, pues no quería que sufrieran arresto domiciliario.
+$FAB_003_08x05_06_03
+Todos sabemos que los monarcas europeos desprecian nuestros ideales de libertad, igualdad y fraternidad. ¿Debo entender que intentaron preparar una intervención militar conjunta?
+$FAB_003_08x05_06_04
+Rechazo rotundamente semejantes acusaciones. No existe prueba alguna de tales afirmaciones absurdas. ¡Jamás traicionaría a mi amada Francia!
+$FAB_003_08x05_06_05
+¡Mentiroso!
+$FAB_003_08x05_06_06
+¡Vendería hasta a su propia madre, no digamos ya a su país!
+$FAB_003_08x10_07_QTitle
+Díganos una cosa: ¿cuándo ordena un líder una revista?
+$FAB_003_08x10_07_00
+Díganos una cosa: ¿cuándo ordena un líder una revista?
+$FAB_003_08x10_07_01
+Cuando es necesario reforzar la disciplina e infundir valor.
+$FAB_003_08x10_07_02
+¿Entonces admite que incitó a la Guardia a atacar París?
+$FAB_003_08x10_07_03
+No. Ya había muchos ciudadanos armados alrededor del palacio. Solo quise dar esperanza a mis tropas durante la defensa. Quisiera enfatizar que mi familia estaba en grave peligro.
+$FAB_003_08x10_07_04
+Si sus vidas estuvieron en peligro, fue por su culpa. ¡No es la primera vez que envía a sus tropas a luchar contra los ciudadanos!
+$FAB_003_08x10_07_05
+Señores, en vano busco aquí a un juez, pues sólo veo acusadores ante mí.
+$FAB_003_11x08_08_QTitle
+¿Quién dio la orden de disparar contra los ciudadanos reunidos alrededor del palacio?
+$FAB_003_11x08_08_00
+¿Quién dio la orden de disparar contra los ciudadanos reunidos alrededor del palacio?
+$FAB_003_11x08_08_01
+Fui yo. Pero no fue una orden de atacar. El deber de la Guardia era responder solo si los Ciudadanos atacaban. ¡Su deber era proteger a mi familia!
+$FAB_003_11x08_08_02
+En ese caso, deberían haber cesado el fuego en cuanto usted y su familia escaparon a la Asamblea Nacional.
+$FAB_003_11x08_08_03
+Era un caos. No tuve oportunidad de dar esa orden, pero lo hice en cuanto llegué a la Asamblea.
+$FAB_003_11x08_08_04
+Así que el acusado tiene sangre inocente en sus manos.
+$FAB_003_08x09_09_QTitle
+¿Planeaba el acusado recuperar su autoridad en París…
+$FAB_003_08x09_09_00
+¿Planeaba el acusado recuperar su autoridad en París y restablecer la monarquía absoluta?
+$FAB_003_08x09_09_01
+¿Por qué habría de hacerlo? ¡Según la ley constitucional, seguía siendo el Rey!
+$FAB_003_08x09_09_02
+Entonces, ¿por qué reforzó la presencia de tropas en las Tullerías?
+$FAB_003_08x09_09_03
+Temí por la vida de mi familia. No es ningún secreto que los ciudadanos de París fueron incitados a tomar el palacio y capturarnos, especialmente siendo ese el objetivo del señor Danton.
+$FAB_003_08x09_09_04
+Queda claro, entonces, que la Guardia se organizó contra los ciudadanos de París, muchos de los cuales cayeron en las Tullerías.
+$FAB_003_08x09_09_05
+Contra la violencia y el desorden, señor Tinville. No contra mi pueblo.
+$FAB_003_WIT_00_A_QTitle
+¿El acusado, Louis Capet, se presentó ante el testigo con su nombre completo?
+$FAB_003_WIT_00_A_00
+¿El acusado, Louis Capet, se presentó ante el testigo con su nombre completo?
+$FAB_003_WIT_00_A_01
+No, no se presentó en absoluto. Solo mostró documentos a nombre de otra persona.
+$FAB_003_WIT_00_A_02
+¿Así que intentó ocultar su identidad?
+$FAB_003_WIT_00_A_03
+Podrías decirlo así. Usé el nombre que aparecía en los documentos después de que me los mostró. Nunca se quejó.
+$FAB_003_WIT_00_A_04
+Entonces, ¿cómo descubrió su verdadera identidad?
+$FAB_003_WIT_00_A_05
+Por la imagen en el billete de papel. Luego, un mensajero del general La Fayette confirmó mis sospechas. Corrí tan rápido como pude a Varennes para informar a las autoridades.
+$FAB_003_WIT_01_A_QTitle
+¿Informó el acusado a alguien sobre el destino de su viaje?
+$FAB_003_WIT_01_A_00
+¿Informó el acusado a alguien sobre el destino de su viaje?
+$FAB_003_WIT_01_A_01
+Me preguntó cómo llegar a Montmédy. Le indiqué que pasara por Varennes-en-Argonne y advertí al cochero que tuviera cuidado. El camino allí es difícil.
+$FAB_003_WIT_01_A_03
+¿Desea el acusado comentar sobre este testimonio?
+$FAB_003_WIT_01_A_04
+Eso demuestra que no tenía intención de huir. Simplemente estaba viajando. Es el derecho de todo Ciudadano libre.
+$FAB_003_WIT_01_B_QTitle
+¿El acusado se comportaba como un fugitivo? ¿Estaba nervioso o apurado?
+$FAB_003_WIT_01_B_00
+¿El acusado se comportaba como un desertor? ¿Estaba nervioso o apresurado?
+$FAB_003_WIT_01_B_01
+No, el rey… quiero decir, Capeto, no tenía prisa… Incluso se permitió bromear.
+$FAB_003_WIT_01_B_02
+¿Y qué hay de los Capetos?
+$FAB_003_WIT_01_B_03
+Eso no lo sé. Solo el rey salía del carruaje. Quiero decir, Capeto… Por su ropa, pensé que era solo un ciudadano común.
+$FAB_003_WIT_01_B_05
+¿Desea el acusado añadir algún comentario a este testimonio?
+$FAB_003_WIT_01_B_06
+No veo nada de malo en viajar con ropa modesta y cómoda. De hecho, es recomendable por razones prácticas.
+$FAB_003_WIT_01_B_07
+Sería recomendable durante una huida. Más aún si un monarca intentara escabullirse.
+$FAB_003_KEY_01
+Defendiendo su autoridad
+$FAB_003_KEY_02
+Reuniendo fuerzas armadas
+$FAB_003_KEY_03
+Rodeando la ciudad de París
+$FAB_003_KEY_04
+Intentó huir del país
+$FAB_003_KEY_05
+Complot internacional
+$FAB_003_KEY_06
+Pasaporte falso
+$FAB_003_KEY_07
+Maestro de Correos Douret
+$FAB_003_KEY_08
+Represión de la Revolución
+$FAB_003_KEY_09
+Duplicar el tamaño de la Guardia
+$FAB_003_KEY_10
+Provocación del rey
+$FAB_003_KEY_11
+Disparos contra civiles
+$FAB_003_UNIQUE_QUESTION_00
+¿Quién comandaba los regimientos que rodeaban París?
+$FAB_003_UNIQUE_QUESTION_01
+¿Quién fue el traidor que ayudó a Capeto a conseguir pasaportes falsos?
+$FAB_003_UNIQUE_QUESTION_02
+¿A quién ordenó Capeto disparar contra los ciudadanos?
+$FAB_003_UNIQUE_ANSWER_CORRECT_00_00
+Barón de Besenval
+$FAB_003_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Mathieu Burel
+$FAB_003_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Étienne Clavière
+$FAB_003_UNIQUE_ANSWER_CORRECT_01_00
+El mayordomo
+$FAB_003_UNIQUE_ANSWER_NOT_CORRECT_01_00
+El cochero
+$FAB_003_UNIQUE_ANSWER_NOT_CORRECT_01_01
+El cocinero de la corte
+$FAB_003_UNIQUE_ANSWER_CORRECT_02_00
+Mariscal de Broglie
+$FAB_003_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Jacques François Dugommier
+$FAB_003_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Charles François Dumouriez

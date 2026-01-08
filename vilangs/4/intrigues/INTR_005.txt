@@ -1,0 +1,98 @@
+$INTRIGUE_TITLE_005
+Maximilien Robespierre
+$INTRIGUE_005_DESC
+Alle verbliebenen Mächtigen und Einflussreichen sind sich einig: Robespierre muss verschwinden. Auch Robespierre weiß, dass früher oder später an der Spitze nur noch Platz für einen sein wird…
+$INTR_005_B01_TITLE
+Dreiergespräch
+$INTR_005_B01_DESC
+Wenn Danton und Hébert an einem Tisch sitzen, ist ein Streit beinahe vorprogrammiert. Du musst all dein Geschick aufbieten, um sie zu einem Bündnis zu bewegen, statt sie mit Anschuldigungen jonglieren zu lassen.
+$INTR_005_B02_TITLE
+Gobels Tod
+$INTR_005_B02_DESC
+Gobel wurde erneut von seinem Sohn aufgesucht. Diesmal eskalierte der Streit – sogar eine Schusswaffe kam ins Spiel. Welche Vorwürfe dabei erhoben wurden, ist nicht bekannt. Zeugenaussagen der Nachbarn deuten jedoch darauf hin, dass das Gespräch in einen handfesten Streit ausartete, der mit einer Kugel in Gobels Brust endete. Er starb an Ort und Stelle, Boutin wurde festgenommen. Das Blut deines ermordeten Kindes ist gerächt. Du könntest den Mörder freisprechen – schließlich warst du es, der ihn aus seinem Versteck gelockt hat.
+$INTR_005_B03_TITLE
+Staatsanwalt im Wohlfahrtsausschuss
+$INTR_005_B03_DESC
+Staatsanwalt Tinville wird ein perfektes menschliches Schutzschild abgeben. Er wird Dantons Platz mit einer weißen Weste einnehmen, und wir werden seine Dankbarkeit künftig zu nutzen wissen. Außerdem werden wir Robespierre aus der Fassung bringen, denn er wird dies vermutlich als unseren Schritt zur Kontrolle des Wohlfahrtsausschusses deuten.
+$INTR_005_B04_TITLE
+Robespierre unterstützt den Klerus?
+$INTR_005_B04_DESC
+Beginnen wir mit Gerüchten, die Robespierres makellosen Ruf erschüttern könnten. Wir werden Héberts Worte nutzen und andeuten, dass Robespierre insgeheim den korrupten Klerus unterstützt. Héberts Zeitung „Le Père Duchesne“ soll einige Vermutungen streuen, dass die Kirche Robespierre gekauft und für seine Unterstützung bezahlt hat. Wir wollen, dass auf den Straßen gemunkelt wird, in diesem Fall wäre es gut, das Idol zu stürzen…
+$INTR_005_B05_TITLE
+Der Staatsanwalt verkündet seine Kandidatur
+$INTR_005_B05_DESC
+Es ist an der Zeit, Tinville aus dem Schatten zu holen – verdeckte Machenschaften sind Robespierres Spezialität. Das Volk muss glauben, dass Tinville im Wohlfahrtsausschuss Ordnung schaffen wird. Der Konvent wird blindlings folgen, denn die Straßen flößen ihm noch mehr Angst ein als Robespierre.
+$INTR_005_B06_TITLE
+Das Bündnis von Robespierre und Renard
+$INTR_005_B06_DESC
+Vielleicht kannst du Tinville nicht länger als Schutzschild benutzen, doch du kannst dir immer noch einen aus Gerüchten über deine Feinde schmieden. Allein die Vorstellung eines Bündnisses zwischen einem unverbesserlichen Aristokraten wie Renard und dem Tyrannen Robespierre dürfte die Straßen in Aufruhr versetzen. Der Unbestechliche wird sich dem Zorn der Pariser stellen müssen, und Renard verliert die Deckung der Schatten, in denen er am wirkungsvollsten agiert. Es ist ein äußerst riskanter Schritt, aber dir bleibt kaum eine Wahl.
+$INTR_005_B07_TITLE
+Verhaftung von Dantons Freunden
+$INTR_005_B07_DESC
+François Chabot und Claude Basire, treue Gefährten Dantons, wurden heute auf Robespierres Geheiß verhaftet. Offenbar ist es uns gelungen, Robespierre zu ersten Warnschüssen zu provozieren. Ich bezweifle, dass Chabot und Basire rasch vor Gericht gestellt werden – wahrscheinlicher ist, dass man sie im Gefängnis hält, um Danton unter Druck zu setzen. Wir müssen schnell den nächsten Zug machen.
+$INTR_005_B08_TITLE
+Camille Desmoulins verwenden
+$INTR_005_B08_DESC
+Bisher hatte sich Desmoulins nicht am Feldzug gegen Robespierre beteiligt. Als man hinter vorgehaltener Hand begann, ihn einen Feigling zu nennen, beschloss er, das Gegenteil zu beweisen, und erklärte seine Bereitschaft, bei der Ausschaltung des Unbestechlichen mitzuwirken. Sein „Le Vieux Cordelier“ ist der ideale Ort, um einen Artikel zu veröffentlichen, der behauptet, Robespierre wolle das Militär auf die Straßen von Paris schicken. Wir sollten außerdem die Gerüchte über Misshandlungen, Folter und sexuelle Übergriffe an politischen Gefangenen nutzen. Das passt gut zu den Verhaftungen von Cabot und Basire und wird die Fantasie des einfachen Volkes anregen.
+$INTR_005_B09_TITLE
+Ausschaltung von Renard
+$INTR_005_B09_DESC
+Du bist große Risiken eingegangen, hast die Straßen entfacht – jetzt musst du die Sache zu Ende bringen. Wenn du Renard ausschaltest, beweist du dich als wahrer Verteidiger der Republik. Das Volk wird erkennen, dass du – anders als Robespierre – nicht gegen die Bürger kämpfst, sondern gegen ihre Feinde. Wie klug von dir. Manche werden einen gerechten Ritter an ihrer Seite dem grausamen Robespierre vorziehen. Und dieser Ritter bist natürlich du. Renard wird endlich für seine Verbrechen an deiner Familie bezahlen…
+$INTR_005_B10_TITLE
+Die Verhaftung der Hébertisten und Dantons, sowie Hanriots Verrat
+$INTR_005_B10_DESC
+Hébert und einige seiner engsten Vertrauten wurden heute Mittag verhaftet. Dasselbe widerfuhr Danton, der Robespierre schon lange ein Dorn im Auge ist. Ihnen werden zahlreiche Vergehen zur Last gelegt, und morgen beginnen ihre Prozesse. Die Festnahmen beweisen, dass Hanriot uns verraten hat. Er hat sich mit Robespierre verbündet und die Seite gewählt, die ihm am meisten nützt. Danton und Hébert sind deine Verbündeten, doch du kannst nur versuchen, einen von ihnen zu retten. Der andere wird wohl einem anderen Richter vorgeführt und rasch zur Guillotine geschickt. Er wird sich verraten fühlen. Bedenke: Was der eine als Verrat unter Freunden sieht, nennt der andere einen Schritt auf der gesellschaftlichen Leiter. Etwas... Alltägliches.
+$INTR_005_B12_TITLE
+Verhaftung von Hanriot
+$INTR_005_B12_DESC
+Es ist an der Zeit, ein Zeichen zu setzen: Wer den Richter des Tribunals verrät, kommt niemals ungestraft davon. Außerdem ist Robespierre nun deutlich angreifbarer, da ihm die Unterstützung der Nationalgarde entzogen wurde. Schneiden wir ihm seinen militärischen Arm ab!
+$INTR_005_B13_TITLE
+Hanriot entkommt
+$INTR_005_B13_DESC
+Leider ist es dem alten Fuchs gelungen, den Jägern zu entkommen. Nach meinen Informationen sucht er Mitglieder der Pariser Kommune, die bereit sind, sich einem bewaffneten Vorgehen gegen Sie anzuschließen. Da er Sie einst schon für sich gewinnen konnte, wird es ihm sicher erneut gelingen. Sie müssen handeln und seine Pläne durchkreuzen.
+$INTR_005_B14_TITLE
+Verhaftung Robespierres
+$INTR_005_B14_DESC
+Die Zeit ist gekommen, die Jagd auf den größten Raubtier von Paris zu eröffnen. Robespierre war nie schwächer als jetzt, und das Volk ist voller Zorn. Wir müssen ihn angreifen, bevor er sich erholt. Dafür brauchst du die Unterstützung des Konvents, denn du kontrollierst ihn noch nicht. Noch nicht.
+$INTR_005_B15_TITLE
+Der Konvent wählt neue Ausschussmitglieder
+$INTR_005_B15_DESC
+Robespierres Zeit ist vorbei. Nun muss der Konvent neue Mitglieder für das Wohlfahrtsausschuss wählen und das Chaos in der Stadt bändigen. Ihre letzte Rede war beeindruckend, und gewiss werden Sie sie mindestens noch einmal überzeugen können. Unbegrenzte Macht liegt in greifbarer Nähe.
+$INTR_005_BLOCK_004_PATH_STR
+Clovis wird einige Priester mit der Guillotine erpressen und sie so dazu bringen, die Gerüchte zu verbreiten.
+$INTR_005_BLOCK_004_PATH_STR_FAILURE
+Robespierre jagt ihnen mehr Angst ein als dein Zorn.
+$INTR_005_BLOCK_004_PATH_DIP
+David wird versuchen, das örtliche Bürgertum dazu zu bewegen, ein Bündnis in Erwägung zu ziehen, auch wenn sie davor große Angst haben.
+$INTR_005_BLOCK_004_PATH_DIP_FAILURE
+Tief im Innern wissen sie vielleicht sogar, dass Sie recht haben… aber es ist ihnen egal. Sie ziehen es vor zu warten.
+$INTR_005_BLOCK_004_PATH_ESP
+Ramel wird, als Priester verkleidet, Gerüchte über ein Bündnis zwischen der Kirche und Robespierre verbreiten.
+$INTR_005_BLOCK_007_PATH_STR
+Mitten in der Nacht werden Clovis und eine Gruppe Muscadins die Flucht der beiden Gefangenen arrangieren. Die Muscadins werden das vermutlich als eine Art Vergnügen betrachten.
+$INTR_005_BLOCK_007_PATH_STR_FAILURE
+Die Muscadins hielten es tatsächlich für ein Spiel – sie kamen alle sturzbetrunken an, und unser Plan zerfiel…
+$INTR_005_BLOCK_007_PATH_DIP
+Der Konvent sollte Robespierre klarmachen, dass er zu weit geht. Das dürfte ihm Angst einjagen.
+$INTR_005_BLOCK_007_PATH_DIP_FAILURE
+Dass Robespierre Chabot und Basire erwischt hat, beweist nur, dass er jeden erreichen kann. Jeder einzelne Abgeordnete ist jetzt voller Angst…
+$INTR_005_BLOCK_007_PATH_ESP
+Am wichtigsten ist, dass wir Beweise gegen sie finden. Ohne sie kann Robespierre sie nicht verurteilen.
+$INTR_005_BLOCK_007_PATH_ESP_FAILURE
+Ramel hat nichts gefunden. Entweder hat Robespierre nichts, oder er versteckt es in einem Safe.
+$INTR_005_BLOCK_010_PATH_ESP
+Morgen werden Sie Hébert verhandeln.
+$INTR_005_BLOCK_010_PATH_DIP
+Morgen werden Sie Danton verurteilen.
+$INTR_005_BLOCK_013_PATH_STR
+Wir müssen jedes einflussreiche Mitglied der Kommune aufspüren und ihnen ordentlich zusetzen. Ohne ihre Unterstützung wird Hanriot nicht genug Leute versammeln können.
+$INTR_005_BLOCK_013_PATH_STR_FAILURE
+Hanriot hat allen erzählt, wie grausam du sein kannst. Plötzlich unterstützt niemand mehr die Kommune oder weiß, wo ihre Anhänger sich verstecken.
+$INTR_005_BLOCK_013_PATH_DIP
+Wie alle anderen streben auch die Anführer der Kommune nach Macht. Lass David einigen von ihnen glänzende Karrieren nach Robespierres Sturz versprechen.
+$INTR_005_BLOCK_013_PATH_DIP_FAILURE
+Ich weiß nicht, was Robespierre und Hanriot ihnen versprochen haben, aber was immer es war, es überstieg unsere Möglichkeiten bei Weitem. Keiner von ihnen ließ sich überzeugen.
+$INTR_005_BLOCK_013_PATH_ESP
+Wenn Ramel etwas gegen die Mitglieder der Kommune in der Hand hat, sollte er es jetzt nutzen, um jeden zu erpressen, der sich Hanriot anschließen will.
+$INTR_005_BLOCK_013_PATH_ESP_FAILURE
+Niemand hat sich um Ihre Beweise gekümmert. Man ist überzeugt, dass Sie sie ohnehin nicht mehr rechtzeitig nutzen können, da Sie morgen vermutlich tot sind.

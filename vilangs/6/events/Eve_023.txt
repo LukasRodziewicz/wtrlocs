@@ -1,0 +1,26 @@
+$EVE_023_TITLE
+Escuela de esgrima
+$EVE_023_MAIN_01
+Horace Lavalle, un célebre esgrimista, desea enseñar su arte en una escuela privada que abrirá en una de las Secciones de París. Sin embargo, ni los nombres más ilustres pueden estar seguros de satisfacer las “necesidades” financieras de los funcionarios locales. Lavalle acudió a usted cuando los empleados del Ayuntamiento exigieron un soborno excesivo por los documentos y permisos necesarios. No quiere dar nombres, pues no desea señalar a los funcionarios, pero cree que el apoyo de un juez bastará para convencerlos de aceptar una muestra de gratitud más modesta y adecuada.
+$EVE_023_MAIN_01_C1
+Anunciar tu apoyo al esgrimista
+$EVE_023_MAIN_01_C2
+Ignorar su petición
+$EVE_023_MAIN_02A
+Te tomaste un momento para escribir una carta sobre el soborno, las necesidades de París y sus ciudadanos, los peligros de una guerra inminente y la corrupción absolutamente monstruosa de los funcionarios. Prometiste perseguir a los criminales que impiden que personas como Horace Lavalle trabajen por la gloria de la República. Tu mensaje debió de ser lo bastante claro, pues los funcionarios ni siquiera pidieron pago alguno por sus “esfuerzos”.
+$EVE_023_MAIN_02B
+Como dije, Horace Lavalle es un esgrimista muy famoso, y cualquier parisino que aspire a ser influyente debería buscar el apoyo de personas así. Pero no usted. Pues bien, Danton también se enteró del asunto y pagó a todos los funcionarios que molestaban a su nuevo amigo. Ahora Lavalle le debe un favor a su rival.
+$EVE_023_MAIN_02B_C1
+Ordena arrestar a los funcionarios corruptos
+$EVE_023_MAIN_02B_C2
+Desacreditar al esgrimista
+$EVE_023_MAIN_02B_C3
+Arresta a los funcionarios y desacredita al esgrimista
+$EVE_023_MAIN_02B_C4
+Olvida todo
+$EVE_023_MAIN_03A
+El dinero de Danton vale tanto como el de cualquiera, y a los funcionarios poco les importaba quién aliviaba sus finanzas domésticas. ¿Cómo iban a imaginar que te vengarías por algo tan humano y trivial como ser “compensado” por un trabajo bien hecho?
+$EVE_023_MAIN_03B
+Gente como Marat siempre se complace en juzgar a los necios que ascendieron jugando sucio. Pero aún más disfrutan escribir sobre depravados que dañan a los niños. Basta un susurro aquí y allá: los rumores de conductas indecentes hacia los jóvenes nunca tardan en propagarse. Nuestro respetado esgrimista es ahora un monstruo despreciado por todos.
+$EVE_023_MAIN_03C
+Eso sí que es actuar a fondo. Ahora los funcionarios sabrán que se arriesgan a sufrir tu represalia si aceptan el dinero de Danton en el futuro. Los parisinos también pronto descubrirán que el respetado esgrimista disfruta reuniéndose con huérfanos desnudos que luchan por sobrevivir. No dejarás a nadie interponerse en tu camino. Esa determinación exige una fuerza de carácter extraordinaria.

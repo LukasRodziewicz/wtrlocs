@@ -1,0 +1,26 @@
+$EVE_023_TITLE
+Fencing School
+$EVE_023_MAIN_01
+Horace Lavalle, a famous fencer, wants to teach his art at a private school that will be based in one of the Sections of Paris. However, even the most prominent names cannot be sure of meeting the financial… “needs” of local officials. Lavalle came to you when the employees of City Hall asked for too high a bribe for all the required documents and permits. He does not want to give you any names, as he is unwilling to stigmatise the officials, but he believes that the support of a judge will be enough to convince them to take a smaller, more fitting token of gratitude.
+$EVE_023_MAIN_01_C1
+Announce your support for the fencer
+$EVE_023_MAIN_01_C2
+Ignore his request
+$EVE_023_MAIN_02A
+You took a moment to write a letter about bribery, the needs of Paris and its Citizens, the dangers of an imminent war, and the absolutely monstrous corruption of officials. You promised to go after criminals who preclude people like Horace Lavalle from working for the glory of the Republic. Your message must have been clear enough, as the officials did not even ask for payment for their “efforts”.
+$EVE_023_MAIN_02B
+As I said, Horace Lavalle is a very famous fencer, and any Parisian who wishes to be influential should seek the support of such people. But, no, not you. Well, Danton also learned about the issue and paid off all the officials who were bothering his new friend. Now Lavalle owes a favour to your rival.
+$EVE_023_MAIN_02B_C1
+Order the corrupt officials to be arrested
+$EVE_023_MAIN_02B_C2
+Discredit the fencer
+$EVE_023_MAIN_02B_C3
+Arrest the officials and discredit the fencer
+$EVE_023_MAIN_02B_C4
+Forget about everything
+$EVE_023_MAIN_03A
+Danton’s money is as good as anyone’s and the officials did not really care who helped their household budgets. How could they have known that you would take revenge for something as human and trivial as being “compensated” for a job well done?
+$EVE_023_MAIN_03B
+People like Marat are always happy to catch trials about idiotic fools who climbed to the top by playing dirty. They are even happier to write about perverts who harm children. A whisper here and there is all that was required – rumours of indecent behaviour toward the young tend to stick around. Our highly respected fencer is now a widely despised monster.
+$EVE_023_MAIN_03C
+Now that is comprehensive action. The officials will be sure to learn that they risk your retribution if they accept Danton’s money in future. Parisians will also soon find out that the respected fencer likes to meet with naked orphans struggling to earn a living. You will destroy anyone standing in your way. This attitude requires incredible strength of character.

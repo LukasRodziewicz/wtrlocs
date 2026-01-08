@@ -1,0 +1,54 @@
+$DISC_INTR_001_B02_001_JUDGE
+Je te remercie d'être venu, citoyen Côté.
+$DISC_INTR_001_B02_002_COTEY
+Comment dire non à une personne qui tient la vie des rois entre ses mains ? Je présume que notre rencontre concerne le ministre Roland ?
+$DISC_INTR_001_B02_003_JUDGE
+Exactement. J'aimerais m'entretenir avec toi au sujet de l'incident du coffre de fer.
+$DISC_INTR_001_B02_004_COTEY
+C'est en effet une sombre histoire. Le ministre pourrait y perdre sa tête, même si tout ne tient pour l'instant qu'à des ouï-dire.
+$DISC_INTR_001_B02_005_JUDGE
+Certes. Et si les ouï-dire s'avéraient soudainement justes…?
+$DISC_INTR_001_B02_006_COTEY
+La situation pourrait devenir explosive.
+$DISC_INTR_001_B02_007_JUDGE_AGGR
+Je veux la tête de ce malfaisant de Roland ! En soudoyant des politiciens, il a nui à toute la France ! Nous avons besoin du témoin qui l'a vu ouvrir le coffre de fer pour l'identifier. Nous avons besoin de toi, citoyen !
+$DISC_INTR_001_B02_008_JUDGE_MANI
+Je veux la tête de Roland. Même si ses jours sont comptés, nous pourrions accélérer sa chute afin de soulager les Parisiens. Et la France.
+$DISC_INTR_001_B02_009_JUDGE_JOKE
+Le plateau sur lequel la tête de Roland sera servie est prêt. Je peux revêtir la toque du chef et préparer un repas exceptionnel, mais j'aurai besoin d'un assistant pour l'assaisonner.
+$DISC_INTR_001_B02_010_JUDGE_HUMI
+Toi et moi sommes les serviteurs de la France. Nous avons la responsabilité de faire chuter Roland. Et pour cela, nous devons faire connaître la vérité. N'avons-nous pas juré de défendre nos idéaux ?
+$DISC_INTR_001_B02_011_COTEY_SATI
+Roland se conduit comme s'il voulait mourir.
+$DISC_INTR_001_B02_012_COTEY_INTR
+C'est un point de vue intéressant. Je suis tout ouïe.
+$DISC_INTR_001_B02_013_COTEY_DOUB
+Roland n'est pas exempt de vices, mais justifient-ils que je le trahisse ? Car c'est bien ce que vous me demandez.
+$DISC_INTR_001_B02_014_JUDGE_AGGR
+Si le bien de la France ne te suffit pas, permets-moi de te dire que si tu m'aides, citoyen, tes chances de survie augmenteront. Après tout, on pourrait t'accuser d'avoir été complice des crimes de Roland.
+$DISC_INTR_001_B02_015_JUDGE_MANI
+Le ministre Roland ne te sauvera pas lorsque la tempête se lèvera. Quant à moi, je peux te sauver. D'une inculpation pour complicité, par exemple.
+$DISC_INTR_001_B02_016_JUDGE_JOKE
+Entre le citoyen Roland et son épouse, il est difficile de dire qui est le véritable ministre. Quoi qu'il en soit, cela aura peu d'importance quand tu entendras les accusations de complicité.
+$DISC_INTR_001_B02_017_JUDGE_HUMI
+Si tu acceptes de te présenter à titre de témoin, tu rendras une grande faveur à la France, et la France n'oublie pas. Je n'oublie pas.
+$DISC_INTR_001_B02_018_JUDGE_AGGR
+Les jours du ministre Roland sont comptés. Nous avons seulement besoin d'un témoin des événements et toi, citoyen, tu révéleras ses crimes. Autrement tu finirais avec lui sous la guillotine !
+$DISC_INTR_001_B02_019_JUDGE_MANI
+Range-toi du côté de mes amis et dis-toi que les avantages que tu en tireras contre-balanceront les conséquences fâcheuses de ton éventuel refus ; dont un guillotinement.
+$DISC_INTR_001_B02_020_JUDGE_JOKE
+Roland mérite de finir entre les mains d'un bourreau. Nous devons réduire le nombre de fumistes dans cette ville au strict minimum. Tu n'es pas un fumiste, au fait ?
+$DISC_INTR_001_B02_021_JUDGE_HUMI
+J'ai confiance dans ton sens de la raison, citoyen Côté. Écoute-la qui te dit que tu ne tiens pas à payer pour les fautes de Roland. Et je ne tiens pas à te faire payer pour elles.
+$DISC_INTR_001_B02_022_COTEY_SATI
+De mon point de vue, soutenir le ministre Roland est la meilleure façon de mourir. Comme je vois que vous êtes déterminé, je vais accepter. Vous avez votre témoin.
+$DISC_INTR_001_B02_023_COTEY_INTR
+Je vous aiderai et témoignerai contre lui. Voyons où cela nous mènera. En tout cas, j'espère que ma tête restera sur mes épaules… comme vous l'avez promis.
+$DISC_INTR_001_B02_024_COTEY_DOUB
+Honnêtement, vous n'avez guère été convaincant. Je vous aiderai, mais sachez que j'en sais désormais plus sur vos intentions.
+$DISC_INTR_001_B02_COTEY_TOPIC_01
+Je veux Roland.
+$DISC_INTR_001_B02_COTEY_TOPIC_02
+Qu'y gagnera-t-il ?
+$DISC_INTR_001_B02_COTEY_TOPIC_03
+La carotte et le bâton.

@@ -1,0 +1,74 @@
+#NOTEBOOK_SURVIVAL_SCORE_LABEL
+Ваш счет:
+#DEBUG
+[DEBUG]
+#EVENT
+Событие:
+#EVENTCOST
+Цена выбранного решения:
+#MISSION
+Миссия:
+#COURTCASE
+Слушание:
+#NEWDAY
+Новый период
+#LASTDAY
+Из предыдущего периода
+#ENEMYAGENT
+Действия вражеского агента
+#AGENTCOST
+Стоимость действий агента
+#AGENTMISSION
+Результаты действий агента
+#JURY_INFLUENCE
+Влияние присяжных
+#MENTORHELP
+Помощь наставника
+#GUILLOTINESPEECH
+Речь
+#GAMBLINGDEN
+Игра в кости
+#SOURCE_INTRIGUE
+Интриги
+#NOTEBOOK_INFLUENCE_INCREASE
+Увеличение Очков Влияния
+#NOTEBOOK_GUILTY_COUNT
+Число приговоренных к смерти
+#NOTEBOOK_PRISON_COUNT
+Число приговоренных к заключению
+#NOTEBOOK_NOTGUILTY_COUNT
+Число освобожденных
+#NOTEBOOK_DAYLIST
+Список дней
+#NOTEBOOK_SENTENCES
+Вердикты
+#NOTEBOOK_PEOPLE
+Люди
+#GLOBAL_MODS
+Глобальные модификаторы
+#TIME_LEFT
+Оставшееся время
+#TIME_COUNTER
+Дней
+#DAY_FORMAT
+День {0}
+#NOTEBOOK_DAY_SELECT_MSG
+Выберите значок, чтобы увидеть подробности.
+#NOTEBOOK_DAY_EMPTY
+Нет изменений.
+#NOTEBOOK_COST
+Стоимость
+#NOTEBOOK_INCOME
+Приход
+#NOTEBOOK_OUTCOME
+Результат
+#NOTEBOOK
+Записная книжка
+#ACT_FORMAT
+Акт {0}
+#PERSON_GROUP_FAMILY
+Друзья и семья
+#PERSON_GROUP_AGENTS
+Агенты
+#PERSON_GROUP_OTHERS
+Прочие

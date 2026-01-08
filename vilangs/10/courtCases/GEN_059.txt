@@ -1,0 +1,230 @@
+$GEN_059_DOC_1_HEADER
+Derleyen: Nathan d’Essiraf
+$GEN_059_DOC_1_00
+	Anne de Korff, 67 yaşında, şu anda merhum eşi Baron de Clichy’den miras kalan muazzam bir servetin <a name="1" class="hidden">dul</a> sahibidir. Devrimden önce Marie Antoinette’in <a name="3" class="hidden">güvendiği saraylılarından</a> biriydi. 1789’daki olaylardan sonra sarayla tüm bağlarını kopardı; ancak son zamanlarda Capet’lerin tutulduğu <a name="4" class="hidden">Tuileries Sarayı’nda</a> sıkça görülmeye başladı. Ayrıca, monarşinin Tuileries’den kaçışını sağlamak için Kont de Fersen’in planına da dahil oldu.
+$GEN_059_DOC_1_01
+	De Fersen’in talimatları doğrultusunda, de Korff’un <a name="6" class="hidden">yeni bir araba</a>yı kendi adına satın aldığı iddia ediliyor. Altı yolcu taşıyabilen bir berline arabasının, Capet ailesini Paris’ten kaçırmaya yetecek şekilde, Jean Louis’nin atölyesinden alındığı belirtiliyor. Baronesin uşağı Gilbert, arabanın kaçıştan kısa bir süre önce konta teslim edildiğini ifade etti.
+$GEN_059_DOC_1_02
+	Bilindiği üzere, de Fersen bizzat arabacı kılığına girip arabayı Bondy’ye kadar sürmüştü. İlginçtir ki, monarklar Varennes’de durdurulduğunda, Marie-Antoinette’in yanında yolculuk sırasında kullandığı, Anne de Korff adına düzenlenmiş <a name="7" class="hidden">yeni bir pasaport</a> vardı.
+$GEN_059_DOC_1_03
+	Paris sokakları dedikoduyla çalkalanıyor. Söylentilere göre Anne, konta yalnızca monarşilere duyduğu sempati yüzünden değil, geçmişte aralarındaki bir ilişki ve yaşlı aristokratın <a name="8" class="hidden">sönmeyen arzusu</a> nedeniyle yardım etmiş.
+$GEN_059_DOC_1_04
+Delil: <a name="9" class="hidden">Bir makbuz</a>, Jean Louis tarafından sunulmuş.
+$GEN_059_DOC_2_TOOLTIP
+Makbuz
+$GEN_059_DOC_2_00
+Saygıdeğer Barones,
+	
+Sipariş ettiğiniz özel berline arabası hazırdır. Tüm talimatlarınız harfiyen ve titizlikle yerine getirilmiştir. Lütfen kalan 70.000 frankı Durand aracılığıyla ödeyiniz.
+	
+Saygılarımla, J. L.
+$GEN_059_OnStart_00
+Zorbalığın destekçisi!
+$GEN_059_OnStart_01
+Lütfen kendinizi tanıtınız.
+$GEN_059_OnStart_02
+Barones Anne de Korff.
+$GEN_059_OnStart_03
+Anne de Korff, Capetlerin Fransa’dan kaçışını kolaylaştırmak için komplo kurmakla suçlanıyorsunuz. Suçunuzu kabul ediyor musunuz?
+$GEN_059_OnStart_04
+Sayın yargıç, bir yanlış anlaşılma oldu! Bununla hiçbir alakam yok!
+$GEN_059_OnStart_05
+Deliller sanığın aleyhinde konuşuyor.
+$GEN_059_OnStart_06
+Bu imkânsız!
+$GEN_059_OnGuilty_00
+Vatandaş Anne de Korff’u giyotine mahkûm ediyorum! Mahkûmu dışarı çıkarın.
+$GEN_059_OnGuilty_01
+Capet’nin yandaşlarının sonu da böyle olacak!
+$GEN_059_OnGuilty_02
+Bravo!
+$GEN_059_OnPrison_00
+Vatandaş Anne de Korff’u hapis cezasına çarptırıyorum! Mahkûmu dışarı çıkarın.
+$GEN_059_OnPrison_01
+Ne?!
+$GEN_059_OnPrison_02
+Adalet nerede?!
+$GEN_059_OnNotGuilty_00
+Anne de Korff davasında verilen hüküm… beraat! Sanığı dışarı çıkarın.
+$GEN_059_OnNotGuilty_01
+Skandal! İhanet!
+$GEN_059_OnNotGuilty_02
+Belki sen de de Fersen’le iş birliği yapıyorsundur?
+$GEN_059_02x06_00_QTitle
+Sanığın araba garajında kaç araba var?
+$GEN_059_02x06_00_00
+Sanığın ahırında kaç araba var?
+$GEN_059_02x06_00_01
+Yanlış hatırlamıyorsam üç.
+$GEN_059_02x06_00_02
+En son ne zaman et yediğimizi hatırlamıyoruz, o ise kaç arabası olduğunu bile bilmiyor!
+$GEN_059_02x06_00_03
+O halde Jean Louis’nin atölyesinde neden bir araba daha sipariş ettiniz? Yalnız bir dulun dördüncü bir arabaya gerçekten ihtiyacı var mı?
+$GEN_059_02x06_00_04
+Varlığım buna yettiği için, sayın yargıç. Kadınca heveslere para harcamak ne zamandan beri suç oldu?
+$GEN_059_02x06_00_05
+O kaprisler Kont de Fersen’in komplosuna hizmet etmeye başladığından beri. Onun size bunu almanızı emrettiğini biliyoruz.
+$GEN_059_02x06_00_06
+Saçmalık! Onu kendi Montmédy yolculuğum için sipariş ettim!
+$GEN_059_06x09_01_QTitle
+Jean Louis’den sipariş ettiğiniz arabayı tarif edebilir misiniz?
+$GEN_059_06x09_01_00
+Jean Louis’den sipariş ettiğiniz arabayı tarif edebilir misiniz?
+$GEN_059_06x09_01_01
+Yeşil ve sarıya boyanmış, gösterişli bir berlineydi.
+$GEN_059_06x09_01_02
+Capetler, tam da bu tarifle örtüşen bir arabayla kaçmaya çalıştı. Peki, şimdi nerede bu araba?
+$GEN_059_06x09_01_03
+Yemin ederim ki Louis ve karısının Tuileries’den kaçışıyla hiçbir ilgim yok!
+$GEN_059_06x09_01_04
+Soruyu cevaplayın!
+$GEN_059_06x09_01_05
+Ben… Şey… Onu Kont de Fersen’e ödünç verdim… Ama kutsal bildiğim her şey üzerine yemin ederim ki o alçağın gerçek niyetini bilmiyordum!
+$GEN_059_06x09_01_06
+Buna kimin inanacağını sanıyorsun?!
+$GEN_059_06x09_01_07
+Sanık bunu ne amaçla kullanacağını düşünüyordu?
+$GEN_059_06x09_01_08
+Bunun İsveç elçisi tarafından kullanılacağını söyledi. Kontun sözlerinden neden şüphe duymalıydım?
+$GEN_059_05x07_02_QTitle
+Sanığın pasaportunun Marie-Antoinette’in elinde olması nasıl mümkün oldu?
+$GEN_059_05x07_02_00
+Sanığın pasaportunun Marie-Antoinette’in elinde olması nasıl mümkün oldu?
+$GEN_059_05x07_02_01
+Dairemden çalındı... Kesinlikle Kont de Fersen yaptı!
+$GEN_059_05x07_02_02
+Ve tabii ki, hırsızlığı derhal bildirdiniz, değil mi?
+$GEN_059_05x07_02_03
+Bunu yapması için uşağım Gilbert’e emir verdim.
+$GEN_059_05x07_02_04
+Ne ilginçtir ki, Paris polisi böyle bir şikayet almamış.
+$GEN_059_05x07_02_05
+Ne diyeceğimi bilemiyorum… Gilbert’in emrimi neden yerine getirmediğine dair en ufak bir fikrim yok…
+$GEN_059_05x07_02_06
+Ve Yurttaş bunun yapıldığını görmedi mi?
+$GEN_059_05x07_02_07
+Oldukça meşgul biriyim, herhalde aklımdan çıkmış.
+$GEN_059_05x07_02_08
+Şu pis aristokratlar gerçekten çok çalışkan, değil mi?
+$GEN_059_04x07_03_QTitle
+Sanık neden Tuileries Sarayı’nda Capet’leri ziyaret etti?
+$GEN_059_04x07_03_00
+Sanık neden Tuileries Sarayı’nda Capetleri ziyaret etti?
+$GEN_059_04x07_03_01
+Ziyaret tamamen sosyaldı. Yaşlı biri olarak, Paris’te yalnızlıkla mücadele ediyorum.
+$GEN_059_04x07_03_02
+Devrim başladığında sanığın kraliyet sarayıyla tüm ilişkilerini kestiği düşünüldüğünde bu oldukça garip.
+$GEN_059_04x07_03_03
+Ölmeden önce Versailles’da tanıdığım herkesi bir kez daha görmek istiyorum. Bunda yanlış olan ne var?
+$GEN_059_04x07_03_04
+Marie-Antoinette’e pasaportunuzu bu ziyaret sırasında mı verdiniz?
+$GEN_059_04x07_03_05
+Kesinlikle hayır! Orada, gözünü bir an bile ayırmayan bir muhafız vardı! O zavallı, acı içindeki kadının yanından o korkunç insanlar hiç ayrılmıyor.
+$GEN_059_04x07_03_06
+Yine de, bir şekilde pasaportunuz mucizevi bir şekilde ona ulaşmış.
+$GEN_059_04x07_03_07
+Benim bununla hiçbir alakam yok!
+$GEN_059_03x05_04_QTitle
+Sanık aceleyle yeni bir araba ve pasaport sipariş etti. Neden?
+$GEN_059_03x05_04_00
+Sanık aceleyle yeni bir araba ve pasaport sipariş etti. Neden?
+$GEN_059_03x05_04_01
+Madame de Gasperi beni Montmédy’ye davet etti.
+$GEN_059_03x05_04_02
+Ne tuhaf bir tesadüf! Capetler’in tam da oraya götürülmesi gerekiyordu!
+$GEN_059_03x05_04_03
+Elbette, fakat bu sadece bir tesadüftü. Tesadüfler genellikle tuhaf ve alışılmadık olur.
+$GEN_059_03x05_04_04
+Bizimle alay ediyor!
+$GEN_059_05x08_05_QTitle
+Kont de Fersen ile aranızdaki ilişki nedir?
+$GEN_059_05x08_05_00
+Kont de Fersen ile aranızdaki ilişki nedir?
+$GEN_059_05x08_05_01
+Sadece dostluk, monsieur le juge. Benim yaşımda, ne yazık ki, daha fazlasını bekleyemem…
+$GEN_059_05x08_05_02
+Geçmişte aranızda daha fazlası mı vardı?
+$GEN_059_05x08_05_03
+Saraydakilerin sandığı kadar değil.
+$GEN_059_05x08_05_04
+Ama birbirinizi iyi tanıyordunuz.
+$GEN_059_05x08_05_05
+Evet, öyle denebilir; o zamanlar ona güveniyordum. Ama şimdi, onun yüzünden, yaşlı bir kadın olarak bir hücredeyim.
+$GEN_059_03x04_06_QTitle
+Sanık monarşi hakkında ne düşünüyor?
+$GEN_059_03x04_06_00
+Sanık monarşi hakkında ne düşünüyor?
+$GEN_059_03x04_06_01
+Siyasetten pek anlamam, ama eğer bunu soruyorsanız, Devrim’in yanındayım, sayın yargıç.
+$GEN_059_03x04_06_02
+Bu yüzden mi mahkemeden ayrıldınız?
+$GEN_059_03x04_06_03
+Bu bambaşka bir hikaye ve siyasete hiç alakası yok.
+$GEN_059_03x04_06_04
+Peki, bununla ne ilgisi vardı?
+$GEN_059_03x04_06_05
+Evli bir generalle aramda geçtiği iddia edilen küçük bir skandalla ilgili asılsız suçlamalarla karşılaştım.
+$GEN_059_03x04_06_06
+Sanık, tüm bu koşullara rağmen, Vatandaş Capet’in eşiyle iyi ilişkiler sürdürdü mü? Ona yardım edecek kadar iyi mi?
+$GEN_059_03x04_06_07
+Onun için ancak dua edebilirdim. Bu yaşta insanın entrikalara gücü yetmiyor.
+$GEN_059_01x06_07_QTitle
+Yalnız bir kadının altı kişilik bir faytona neden ihtiyacı olsun?
+$GEN_059_01x06_07_00
+Yalnız bir kadının altı kişilik bir faytona neden ihtiyacı olsun?
+$GEN_059_01x06_07_01
+Çünkü yalnız bir kadın yolculuğa eşlik edecek birilerini ister. Hâlâ davet edebileceğim birkaç kişi var.
+$GEN_059_01x06_07_02
+Ya da tam altı kişiden oluşan Kraliyet Ailesi'nin kaçışına yardım etmeyi planlayabilirsiniz.
+$GEN_059_01x06_07_03
+Bu şehirde altı kişilik bir berline sahibi olan tek kişi ben değilim, sayın yargıç.
+$GEN_059_01x06_07_04
+Ama diğer sahipler devlete karşı komplo kurmuyor...
+$GEN_059_01x06_07_05
+Belki de arabalar kullanılmıyordur.
+$GEN_059_01x06_07_06
+Doğru, etrafımız yılanlarla çevrili!
+$GEN_059_KEY_01
+67 yaşında dul kadın
+$GEN_059_KEY_02
+Muazzam servet
+$GEN_059_KEY_03
+Güvenilir saraylı
+$GEN_059_KEY_04
+Tuileries’in sık misafiri
+$GEN_059_KEY_05
+Kaçışın düzenlenmesi
+$GEN_059_KEY_06
+Yeni fayton
+$GEN_059_KEY_07
+Kraliçe için yeni pasaport
+$GEN_059_KEY_08
+Sanığın ihtiyaçları ve arzuları
+$GEN_059_KEY_09
+Bir faytonun yapımı için fatura
+$GEN_059_LastDialog_00
+Neden beni öldürmek istiyorsunuz? Elinizde hiçbir kanıt yok!
+$GEN_059_UNIQUE_QUESTION_00
+Sanık pasaporta ve arabaya neden ihtiyaç duydu?
+$GEN_059_UNIQUE_ANSWER_CORRECT_00_00
+Montmédy’ye gitmek istiyordu.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ailesini Rouen'de ziyaret etmek istedi.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Marsilya’da bir ev almayı düşünüyordu.
+$GEN_059_UNIQUE_QUESTION_01
+Tanıklara göre, dulun aracını kim kullanıyordu?
+$GEN_059_UNIQUE_ANSWER_CORRECT_01_00
+İsveçli büyükelçi.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Onun erkek kardeşi.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_01_01
+General Aldric.
+$GEN_059_UNIQUE_QUESTION_02
+Soruşturmacılar Anne de Korff’un pasaportunu nerede buldu?
+$GEN_059_UNIQUE_ANSWER_CORRECT_02_00
+Marie Antoinette ile.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Kont de Fersen ile.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Kraliçenin hizmetkârlarından birinde.

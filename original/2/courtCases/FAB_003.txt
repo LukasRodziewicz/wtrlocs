@@ -1,0 +1,269 @@
+$FAB_003_DOC_1_HEADER
+Réquisitoire d'Antoine Quentin Fouquier de Tinville
+$FAB_003_DOC_1_00
+	Mes compatriotes !		
+	Le citoyen Capet, connu auparavant sous le nom de Louis XVI, Roi de France, doit être puni pour avoir conspiré contre le peuple français !
+$FAB_003_DOC_1_01
+Louis Capet a cherché à <a name="1" class="hidden">préserver son pouvoir absolu</a> en complotant contre l'Assemblée nationale constituante et le peuple français. Nous avons tous en mémoire le mois de juillet 1789. Par la suite, il <a name="2" class="hidden">leva une armée</a> avec 15 régiments étrangers et leur commanda de <a name="3" class="hidden">cerner Paris</a>. Ordre avait été donné aux soldats du baron de Besenval de capturer les députés et de faire feu sur les citoyens défendant les réformes ! Ce que fit le régiment Royal-Allemand en versant le premier sang !
+$FAB_003_DOC_1_02
+La conspiration ayant échoué, Louis Capet <a name="4" class="hidden">tenta de fuir</a> le pays avec sa famille et de <a name="5" class="hidden">conspirer avec les monarques étrangers</a>. N'est-ce pas la raison pour laquelle il quitta les Tuileries avec un <a name="6" class="hidden">faux passeport</a> lors d'une nuit de juin 1791 ? Ne se rendait-il pas à Montmédy, où stationnaient ses armées loyalistes, prêtes à l'escorter en Autriche ? Sans la clairvoyance du <a name="7" class="hidden">maître de poste Douret</a>, cette manigance aurait pu nous être tragique.
+$FAB_003_DOC_1_03
+	Louis Capet ne se défera jamais de sa volonté d'<a name="8" class="hidden">écraser la Révolution</a>. Avant les événements de 1792, il ordonna de <a name="9" class="hidden">doubler la Garde suisse</a> postée aux Tuileries. Il conduisit une parade publique devant des citoyens horrifiés. Le peuple n'eut pas le choix, il fallait agir avant que le roi ne lance l'attaque ! <a name="11" class="hidden">On tira</a> sur les parisiens qui essayèrent de mettre fin à cette folie, même après la dérobade de Louis Capet vers l'Assemblée nationale.
+$FAB_003_DOC_1_04
+Pièce à conviction : Un ordre du maréchal de Broglie adressé au baron de Besenval
+$FAB_003_DOC_2_TOOLTIP
+Ordre du maréchal de Broglie adressé au baron de Besenval
+$FAB_003_DOC_2_00
+Mon seigneur !		
+Quelle que soit la raison, n'hésitez pas à tirer sur les rebelles, conformément aux ordres de Sa Majesté. Imitez-les, ne faites preuve d'aucune pitié.															
+V.F. de Broglie
+$FAB_003_OnStart_00
+Louis Capet, je déclare ton procès ouvert. Réponds aux questions quand il te le sera demandé.
+$FAB_003_OnStart_01
+Capet est le nom que portait l'un de mes ancêtres. Le mien est Louis Auguste de France.
+$FAB_003_OnStart_02
+Tel était peut-être ton nom autrefois, avant que tu lèves la main contre le peuple que tu avais juré défendre.
+$FAB_003_OnStart_03
+En tant que roi, je n'ai à aucun moment agi contre mon peuple. Je l'ai aimé et l'aime encore --
+$FAB_003_OnStart_04
+Objection ! Nous avons les preuves que Louis Capet a trahi le peuple français. Il devrait être jugé en tant qu'étranger et ennemi de la nation, et non comme citoyen de la République !
+$FAB_003_OnGuilty_00
+Je condamne le citoyen Capet à être guillotiné ! Emmenez-le.
+$FAB_003_OnGuilty_01
+Vive le peuple !
+$FAB_003_OnGuilty_02
+Mort au tyran !
+$FAB_003_OnPrison_00
+Je condamne le citoyen Capet à être emprisonné ! Emmenez-le.
+$FAB_003_OnPrison_01
+Arrêtez le juge immédiatement !
+$FAB_003_OnPrison_02
+C'est scandaleux !
+$FAB_003_OnNotGuilty_00
+Je déclare le citoyen Capet… non coupable. Que liberté lui soit rendue.
+$FAB_003_OnNotGuilty_01
+Arrêtez le juge immédiatement !
+$FAB_003_OnNotGuilty_02
+C'est scandaleux !
+$FAB_003_01x02_00_QTitle
+L'accusé a-t-il entrepris d'abolir l'Assemblée nationale constituante ?
+$FAB_003_01x02_00_00
+L'accusé a-t-il entrepris d'abolir l'Assemblée nationale constituante ?
+$FAB_003_01x02_00_01
+Je ne convoquerais point les États généraux pour la première fois depuis des générations ni ne reconnaîtrais l'Assemblée nationale pour m'opposer ensuite à cette dernière et aux réformes requises.
+$FAB_003_01x02_00_02
+Pourquoi alors as-tu fait appel à tes armées quand l'Assemblée nationale est devenue constituante ?
+$FAB_003_01x02_00_03
+Mes ministres m'ont pressé de préserver la sûreté de mon peuple.
+$FAB_003_01x02_00_04
+Voilà une déclaration bien hardie de ta part, sachant le nombre de tués parmi ton peuple lors des troubles de juillet.
+$FAB_003_01x02_00_05
+Cela m'afflige au plus haut point, mais le baron de Besenval est le seul à pouvoir en être tenu responsable.
+$FAB_003_01x02_00_06
+Objection ! De Besenval exécutait les ordres de Capet !
+$FAB_003_01x03_01_QTitle
+Que l'accusé comptait-il faire des députés de la Constituante ?
+$FAB_003_01x03_01_00
+Que l'accusé comptait-il faire des députés de la Constituante ?
+$FAB_003_01x03_01_01
+Rien. L'Assemblée que j'ai rejointe le 27 juin 1789 a accordé l'immunité à ses membres et j'avais l'intention de respecter cette décision.
+$FAB_003_01x03_01_02
+Et pourtant, tu as ordonné à tes soldats d'arrêter les députés et de les emprisonner, voire de les exécuter.
+$FAB_003_01x03_01_03
+C'est absurde. Vous n'avez aucune preuve de ce que vous avancez. Mes ennemis médisent de moi pour me condamner.
+$FAB_003_01x03_01_04
+Pas besoin de preuves contre un couard qui fuit son propre peuple !
+$FAB_003_02x08_02_QTitle
+Qui a donné l'ordre de tirer sur les citoyens…
+$FAB_003_02x08_02_00
+Qui a donné l'ordre de tirer sur les citoyens défendant l'Assemblée nationale constituante ?
+$FAB_003_02x08_02_01
+Ce peut être soit le maréchal de Broglie soit le baron de Besenval. C'est au responsable de comparaître ici, car il n'était point autorisé à donné de tels ordres.
+$FAB_003_02x08_02_02
+Vraiment ? Ce n'est pas ce que montre ce document signé par le maréchal.
+$FAB_003_02x08_02_03
+Le maréchal de Broglie a abusé de ses pouvoirs et nous a menti à tous. Je jure sur ma couronne ne pas avoir donné cet ordre !
+$FAB_003_02x08_02_04
+De Broglie est un monarchiste pur et dur, à qui une armée avait été confiée pour mater la Révolution. Aurait-il agi de son propre chef, sans la bénédiction de Capet ?
+$FAB_003_02x08_02_05
+Il arrive parfois de commettre des stupidités…
+$FAB_003_02x03_03_QTitle
+L'accusé a-t-il déjà considéré Paris et ses habitants comme ses ennemis ?
+$FAB_003_02x03_03_00
+L'accusé a-t-il déjà considéré Paris et ses habitants comme ses ennemis ?
+$FAB_003_02x03_03_01
+Absolument pas. Je vous demande d'expliquer cette question.
+$FAB_003_02x03_03_02
+Comment peux-tu nier la question si tu ne la comprends pas ? Tes armées encerclaient Paris. N'est-ce pas là une manœuvre qu'on applique à ses ennemis ?
+$FAB_003_02x03_03_03
+Mes soldats étaient présents avec pour seule mission de garantir l'ordre public pendant la tenue de l'Assemblée nationale.
+$FAB_003_02x03_03_04
+Des forces adéquates se trouvaient déjà à Paris. Ne suffisaient-elles pas ?
+$FAB_003_02x03_03_05
+…
+$FAB_003_04x07_04_QTitle
+Faites entrer le témoin Jean Douret.
+$FAB_003_04x07_04_00
+Faites entrer le témoin Jean Douret.
+$FAB_003_04x07_04_02
+Je te prie de te présenter, citoyen.
+$FAB_003_04x07_04_03
+Jean Douret, maître de poste de Sainte-Menehould, Monsieur le juge.
+$FAB_003_05x06_05_QTitle
+Qui était responsable de la délivrance du passeport…
+$FAB_003_05x06_05_00
+Qui était responsable de la délivrance du passeport de l'homme nommé Pinet ?
+$FAB_003_05x06_05_01
+Mon intendant. Je lui ai ordonné de préparer les formalités de mon voyage à Montmédy.
+$FAB_003_05x06_05_02
+L'hôtel de ville n'a reçu aucune demande de la part de ton intendant.
+$FAB_003_05x06_05_03
+Je ne sais que dire…
+$FAB_003_05x06_05_04
+Citoyen juge ! L'intendant de Louis Capet a été vu à l'ambassade d'Autriche. Ils se sont certainement occupés des documents des déserteurs.
+$FAB_003_05x06_05_05
+Monsieur Tinville, ce n'est que pur racontar ! Qui affirme une telle chose ? Faites-le comparaître, qu'il répète ici ses paroles !
+$FAB_003_05x06_05_06
+Ce n'est pas nécessaire. La preuve est suffisamment tangible, notamment à la lumière de ce que l'accusé a déclaré.
+$FAB_003_08x05_06_QTitle
+Qui t'a aidé à réprimer la Révolution ?
+$FAB_003_08x05_06_00
+Qui t'a aidé à réprimer la Révolution ? Frédéric-Guillaume II ? François II ? Catherine ? Ton parent Charles, peut-être ?
+$FAB_003_08x05_06_01
+La justice les attend, eux aussi !
+$FAB_003_08x05_06_02
+Quelles inepties. Je souhaitais seulement éloigner ma famille de Paris. Leur enfermement au palais me déchirait le cœur.
+$FAB_003_08x05_06_03
+Nous savons tous que les monarques européens méprisent nos idéaux de liberté, d'égalité et de fraternité. Dois-je comprendre que tu préparais une ligue militaire contre la France ?
+$FAB_003_08x05_06_04
+Je nie formellement tout ceci. Rien ne prouve ces allégations grotesques. Jamais je ne trahirais ma France bien-aimée !
+$FAB_003_08x05_06_05
+Menteur !
+$FAB_003_08x05_06_06
+Il vendrait sa propre mère ! Alors son pays…
+$FAB_003_08x10_07_QTitle
+Dis-nous donc, en quelle occasion un chef d'État ordonne-t-il une parade militaire ?
+$FAB_003_08x10_07_00
+Dis-nous donc, en quelle occasion un chef d'État ordonne-t-il une parade militaire ?
+$FAB_003_08x10_07_01
+Lorsque le besoin de renforcer leur discipline et de leur redonner courage s'impose.
+$FAB_003_08x10_07_02
+Tu avoues donc avoir encouragé la Garde à attaquer Paris ?
+$FAB_003_08x10_07_03
+Non. De nombreux citoyens armés s'étaient attroupés autour du palais et je voulais simplement enhardir mes troupes en cas d'attaque. Je tiens à rappeler que ma famille était en grand danger.
+$FAB_003_08x10_07_04
+Si leur vie était en danger, c'est à toi que la faute en revient. Ce n'est pas la première fois que tu as envoyé la troupe contre les citoyens !
+$FAB_003_08x10_07_05
+Je croyais vainement trouver un juge ici, mais je ne vois que des accusateurs.
+$FAB_003_11x08_08_QTitle
+Qui a donné l'ordre de tirer sur les citoyens réunis autour du palais ?
+$FAB_003_11x08_08_00
+Qui a donné l'ordre de tirer sur les citoyens réunis autour du palais ?
+$FAB_003_11x08_08_01
+Moi. Mais il ne s'agissait pas d'un ordre d'attaque. La Garde devait réagir uniquement si la foule attaquait. Elle devait protéger ma famille !
+$FAB_003_11x08_08_02
+Dans ce cas, elle aurait dû cesser de tirer dès que toi et ta famille étiez saufs à l'Assemblée nationale.
+$FAB_003_11x08_08_03
+Dans la confusion générale, je n'ai point eu l'occasion de donner un tel ordre. Ce que j'ai fait dès mon arrivée à l'Assemblée.
+$FAB_003_11x08_08_04
+L'accusé a donc du sang innocent sur les mains.
+$FAB_003_08x09_09_QTitle
+L'accusé orchestrait-il une reconquête du pouvoir à Paris…
+$FAB_003_08x09_09_00
+L'accusé orchestrait-il une reconquête du pouvoir à Paris pour rétablir une monarchie absolue ?
+$FAB_003_08x09_09_01
+Pour quelle raison, dites-moi ? D'après la loi constitutionnelle, j'étais le roi !
+$FAB_003_08x09_09_02
+Alors pourquoi as-tu assemblé des troupes aux Tuileries ?
+$FAB_003_08x09_09_03
+Je craignais pour la vie de ma famille. Il ne fait guère de mystère qu'on a incité les Parisiens à se ruer vers le palais pour nous tenir à merci. D'autant plus que Monsieur Danton désirait une telle fin.
+$FAB_003_08x09_09_04
+Il est désormais clair que la Garde a été dressée contre les citoyens de Paris, dont beaucoup ont péri aux Tuileries !
+$FAB_003_08x09_09_05
+Contre la violence et le désordre, Monsieur Tinville. Pas contre mon peuple.
+$FAB_003_WIT_00_A_QTitle
+L'accusé Louis Capet s'est-il présenté au témoin en déclinant son nom personnel en entier ?
+$FAB_003_WIT_00_A_00
+L'accusé Louis Capet s'est-il présenté au témoin en déclinant son nom personnel en entier ?
+$FAB_003_WIT_00_A_01
+Non, il ne s'est pas présenté du tout. Il a seulement produit les documents d'une autre personne.
+$FAB_003_WIT_00_A_02
+Il a donc tenté de masquer son identité ?
+$FAB_003_WIT_00_A_03
+En quelque sorte, oui. Je me suis adressé à lui avec le nom inscrit sur les documents qu'il m'a tendus. Il n'y a fait aucune objection.
+$FAB_003_WIT_00_A_04
+Comment as-tu découvert alors sa véritable identité ?
+$FAB_003_WIT_00_A_05
+Grâce à l'effigie figurant sur un assignat. Puis un messager du général La Fayette a confirmé mes soupçons. J'ai filé vers Varennes aussi vite que possible pour avertir les autorités.
+$FAB_003_WIT_01_A_QTitle
+L'accusé a-t-il fait part de sa destination à quelqu'un ?
+$FAB_003_WIT_01_A_00
+L'accusé a-t-il fait part de sa destination à quelqu'un ?
+$FAB_003_WIT_01_A_01
+Il m'a demandé la direction de Montmédy. Je lui ai indiqué la route par Varennes-en-Argonne, tout en prévenant le cocher de conduire avec prudence, car la voie y est difficile.
+$FAB_003_WIT_01_A_03
+L'accusé souhaite-t-il réagir à cette déposition ?
+$FAB_003_WIT_01_A_04
+Cela confirme que je n'avais pas l'intention de fuir. Je ne faisais que voyager. Ce qui est le droit de tout citoyen libre.
+$FAB_003_WIT_01_B_QTitle
+L'accusé se comportait-il comme un déserteur ? Donnait-il des signes de nervosité ou d'empressement ?
+$FAB_003_WIT_01_B_00
+L'accusé se comportait-il comme un déserteur ? Donnait-il des signes de nervosité ou d'empressement ?
+$FAB_003_WIT_01_B_01
+Non, le roi… je veux dire Capet, n'était pas pressé… Il prenait même le temps de plaisanter.
+$FAB_003_WIT_01_B_02
+Et la famille royale ?
+$FAB_003_WIT_01_B_03
+De cela, je ne sais rien. Seul le roi était descendu de voiture. Je veux dire Capet… À en juger par ses habits, je pensais qu'il n'était qu'un simple bourgeois.
+$FAB_003_WIT_01_B_05
+L'accusé souhaite-t-il réagir à cette déposition ?
+$FAB_003_WIT_01_B_06
+Je ne vois point en quoi voyager dans une tenue modeste et légère pose problème. Cela est même avisé pour des raisons de commodité.
+$FAB_003_WIT_01_B_07
+Cela serait avisé pour une fuite. Surtout celle d'un roi.
+$FAB_003_KEY_01
+Défense de son pouvoir
+$FAB_003_KEY_02
+Rassemblement de troupes
+$FAB_003_KEY_03
+Encerclement de Paris
+$FAB_003_KEY_04
+Tentative de fuite du pays
+$FAB_003_KEY_05
+Conspiration internationale
+$FAB_003_KEY_06
+Faux passeport
+$FAB_003_KEY_07
+Maître de poste Douret
+$FAB_003_KEY_08
+Répression de la Révolution
+$FAB_003_KEY_09
+Garde redoublée
+$FAB_003_KEY_10
+Provocation du roi
+$FAB_003_KEY_11
+Tirs sur le peuple
+$FAB_003_UNIQUE_QUESTION_00
+Qui était à la tête des régiments qui encerclaient Paris ?
+$FAB_003_UNIQUE_QUESTION_01
+Qui est le traître qui a aidé Capet à se procurer des faux passeports ?
+$FAB_003_UNIQUE_QUESTION_02
+De qui Capet s'est-il servi pour tirer sur les citoyens ?
+$FAB_003_UNIQUE_ANSWER_CORRECT_00_00
+Baron de Besenval
+$FAB_003_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Mathieu Burel
+$FAB_003_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Étienne Clavière
+$FAB_003_UNIQUE_ANSWER_CORRECT_01_00
+Le majordome
+$FAB_003_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Le cocher
+$FAB_003_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Le cuisinier de la cour
+$FAB_003_UNIQUE_ANSWER_CORRECT_02_00
+Le maréchal de Broglie
+$FAB_003_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Jacques François Dugommier
+$FAB_003_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Charles François Dumouriez

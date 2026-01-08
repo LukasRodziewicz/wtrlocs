@@ -1,0 +1,128 @@
+$GEN_009_DOC_01_HEADER
+Compilado por: Richard Mounier
+$GEN_009_DOC_01_00
+Jean Renard, un tabernero de 45 años, ha sido acusado de fraude. Se le imputa <a name="2" class="hidden">adulterar el alcohol</a> en su taberna, engañando a sus clientes para que paguen de más.
+$GEN_009_DOC_01_01
+Los clientes llegaban a la taberna con un objetivo claro: <a name="3" class="hidden">emborracharse hasta perder el sentido</a>. Pero en vez de salir tambaleándose tras dos jarras de vino o varias pintas de cerveza, se quedaban en la posada hasta el amanecer, aún sobrios y completamente sin un centavo.
+$GEN_009_DOC_01_02
+El fraude del posadero salió a la luz cuando uno de los clientes <a name="4" class="hidden">descubrió</a> el engaño y atrapó al tramposo en plena acción. El hombre entró a la bodega del anfitrión y lo sorprendió diluyendo el alcohol de los barriles con <a name="5" class="hidden">agua corriente</a>. Como resultado, los clientes recibían solo cuatro partes de lo que pagaban y una parte provenía del aguador.
+$GEN_009_OnStart_00
+En tiempos difíciles, la gente suele buscar consuelo en el fondo de un vaso…
+$GEN_009_OnStart_01
+Por favor, preséntese.
+$GEN_009_OnStart_02
+Mi nombre es Jean Renard, monsieur le juge.
+$GEN_009_OnStart_03
+¡No es más que un farsante!
+$GEN_009_OnPrison_00
+¡Condeno al ciudadano Jean Renard a prisión! Saquen al condenado.
+$GEN_009_OnPrison_01
+¡Hurra!
+$GEN_009_OnPrison_02
+¡Larga vida al vino puro!
+$GEN_009_OnNotGuilty_00
+El veredicto es... no culpable. Saquen al ciudadano Renard.
+$GEN_009_OnNotGuilty_01
+¿Qué es esto? ¿¡Han dejado libre al estafador!?
+$GEN_009_OnNotGuilty_02
+¡Esto no es justicia!
+$GEN_009_01x02_00_QTitle
+¿Cuánto tiempo lleva dedicado a la práctica ilegal de adulterar alcohol?
+$GEN_009_01x02_00_00
+¿Cuánto tiempo lleva usted dedicado a la práctica ilegal de adulterar alcohol?
+$GEN_009_01x02_00_01
+No es una práctica ilegal, todos le echan un poco.
+$GEN_009_01x02_00_02
+En tu caso, era el agua la que tenía un poco de vino, no al revés.
+$GEN_009_01x02_00_03
+¿Lleva mucho tiempo dedicándose a esto?
+$GEN_009_01x02_00_04
+Unas pocas semanas, como mucho. Últimamente ha sido difícil ganarse la vida. Antes tenía un negocio honrado. El vino puro rebosaba las copas.
+$GEN_009_01x02_00_05
+¿Puede aportar alguna prueba que respalde su testimonio?
+$GEN_009_01x02_00_06
+Si engañaba a sus clientes, no tendría problema en mentir ante el tribunal.
+$GEN_009_02x05_01_QTitle
+¿Cómo te sentiste al engañar a los ciudadanos agotados?
+$GEN_009_02x05_01_00
+¿Qué sentiste al engañar a los exhaustos ciudadanos?
+$GEN_009_02x05_01_01
+Es terrible, pero solo quería mantener mi negocio a flote. Los demás tampoco se andan con rodeos. Si no hubiera diluido, habría sido mi ruina.
+$GEN_009_02x05_01_02
+¿Así que decidió cometer fraude para no perder dinero?
+$GEN_009_02x05_01_03
+Si pierdo mi taberna, mi familia morirá de hambre.
+$GEN_009_02x05_01_04
+¿Tiene hijos?
+$GEN_009_02x05_01_05
+Sí, un hijo y dos hijas. Ya es hora de empezar a ahorrar para la dote.
+$GEN_009_02x05_01_06
+¡Entonces ponlos a trabajar, idiota!
+$GEN_009_02x04_02_QTitle
+Por favor, haga pasar a Thomas Leclair.
+$GEN_009_02x04_02_00
+Por favor, llamen a Thomas Leclair.
+$GEN_009_02x04_02_01
+Por favor, preséntese.
+$GEN_009_02x04_02_02
+Thomas Leclair. Soy un cliente habitual del local de Jean Renard.
+$GEN_009_03x05_03_QTitle
+¿Sus clientes beben mucho?
+$GEN_009_03x05_03_00
+¿Sus clientes beben mucho?
+$GEN_009_03x05_03_01
+Los parroquianos de la taberna suelen beber mucho.
+$GEN_009_03x05_03_02
+Así que ha estado vendiendo mucho vino.
+$GEN_009_03x05_03_03
+Bastante, sí.
+$GEN_009_03x05_03_04
+Y sin embargo, usted ha estado pagando impuestos por la cantidad de vino que compra, no por la cantidad que vende, ¿correcto?
+$GEN_009_03x05_03_05
+No entiendo.
+$GEN_009_03x05_03_06
+Has estado pagando impuestos por cuatro barriles de vino, pero al añadir un cuarto de agua a cada uno, en realidad obtuviste el dinero de vender cinco barriles de vino.
+$GEN_009_03x05_03_07
+Esa es una forma de decirlo... Quizá tenga razón... No soy muy bueno con los números.
+$GEN_009_03x05_03_08
+¿No se le dan bien los números, pero sí lo suficiente como para calcular que el fraude sale rentable?
+$GEN_009_03x05_03_09
+No lo sabía...
+$GEN_009_03x05_03_10
+Tendré en cuenta esa respuesta.
+$GEN_009_03x05_03_11
+¡El juez ha desenmascarado al canalla!
+$GEN_009_WIT_00_A_QTitle
+¿Desde cuándo sospechaba que algo no estaba bien con el alcohol del señor Renard?
+$GEN_009_WIT_00_A_00
+¿Desde hace cuánto sospechaba que algo no iba bien con el alcohol del señor Renard?
+$GEN_009_WIT_00_A_01
+Empecé a sospechar hace como un mes. Se vaciaron muchas jarras de vino, pero en vez de emborracharme, solo me iba despejando. Ya estaba amaneciendo cuando me di cuenta de que no me quedaba ni un centavo y estaba tan sobrio como un niño.
+$GEN_009_WIT_00_A_02
+¿Cómo fue posible?
+$GEN_009_WIT_00_A_03
+En aquel entonces, no me daba cuenta de que a los clientes primero les servían una buena copa y luego, en las siguientes, cada vez más agua; ya algo borrachos, no podían notar la diferencia.
+$GEN_009_WIT_00_A_04
+¿Siempre era así?
+$GEN_009_WIT_00_A_05
+Cada maldita vez.
+$GEN_009_WIT_00_B_QTitle
+¿Cómo sorprendió usted al ciudadano Renard adulterando el vino con agua?
+$GEN_009_WIT_00_B_00
+¿Cómo sorprendió usted al ciudadano Renard adulterando el vino con agua?
+$GEN_009_WIT_00_B_01
+Estuve bebiendo copa tras copa, así que tuve que... ya sabe, monsieur le juge...
+$GEN_009_WIT_00_B_02
+Lo sé.
+$GEN_009_WIT_00_B_03
+Así fue que una vez me perdí y, en vez de… ya sabe… terminé en la bodega, donde vi a Renard echando agua en los barriles.
+$GEN_009_KEY_01
+El tabernero
+$GEN_009_KEY_02
+Diluir alcohol
+$GEN_009_KEY_03
+Embriaguez de los clientes
+$GEN_009_KEY_04
+Desenmascarar al posadero
+$GEN_009_KEY_05
+Añadiendo agua

@@ -1,0 +1,36 @@
+$DIAL_H_01_03_26_001_SON
+Powiedz mu, matko…
+$DIAL_H_01_03_26_002_WIFE
+…
+$DIAL_H_01_03_26_003_JUDGE
+Co takiego?
+$DIAL_H_01_03_26_004_SON
+Powiedz mu albo ja to zrobię.
+$DIAL_H_01_03_26_005_JUDGE
+O czym ma mi powiedzieć?!
+$DIAL_H_01_03_26_006_WIFE
+Ponoć więzicie córkę mera…
+$DIAL_H_01_03_26_007_JUDGE
+Tak, jutro odbędzie się rozprawa.
+$DIAL_H_01_03_26_008_WIFE
+Czyli wszystko zależeć będzie od ciebie?
+$DIAL_H_01_03_26_009_JUDGE
+Nie zrobię tego.
+$DIAL_H_01_03_26_010_WIFE
+Dlaczego?
+$DIAL_H_01_03_26_011_JUDGE
+To niegodne!
+$DIAL_H_01_03_26_012_WIFE
+A zabijanie naszych dzieci jest?!
+$DIAL_H_01_03_26_013_JUDGE
+Nie mogę, ona nie zawiniła.
+$DIAL_H_01_03_26_014_SON
+Zabij ją.
+$DIAL_H_01_03_26_015_JUDGE
+Jesteś tak młody, a mówisz o mordowaniu, jakby to było splunięcie.
+$DIAL_H_01_03_26_016_SON
+Niech cierpią – tak jak my. Zabij ją. Chcemy jej krwi. Powieszenie mojego brata było dla nich jak splunięcie.
+$DIAL_H_01_03_26_017_JUDGE
+Przerażacie mnie…
+$DIAL_H_01_03_26_018_WIFE
+Przerazimy cię, jeśli nas nie usłuchasz.

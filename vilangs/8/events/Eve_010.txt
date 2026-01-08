@@ -1,0 +1,16 @@
+$EVE_010_TITLE
+O agressor alemão
+$EVE_010_MAIN_01
+Como juiz, cabe a você separar fatos de boatos, mas os cidadãos de Paris raramente se preocupam com isso. Principalmente quando o rumor envolve um exército estrangeiro supostamente acampado a poucos quilômetros da cidade, pronto para iniciar um cerco a qualquer momento. Apenas fofoca, nada além disso, mas sedutora o bastante para levar uma multidão em pânico a tentar invadir um arsenal. Eles querem estar preparados.
+$EVE_010_MAIN_01_C1
+Enviar a Guarda do Tribunal
+$EVE_010_MAIN_01_C2
+Fazer um discurso
+$EVE_010_MAIN_02A
+Pessoas armadas com bastões pesados e forcados já provaram ser eficazes contra soldados com mosquetes. Felizmente, desta vez não houve confronto, pois os agressores se dispersaram, assustados com os reforços. O arsenal está seguro. Assim que o povo percebesse que todo o cerco não passava de um boato tolo, usariam aquelas armas contra seus próprios inimigos.
+$EVE_010_MAIN_02B
+Os guardas trazem um barril para você, e você sobe nele para iniciar seu discurso inflamado. Você destaca a necessidade de fraternidade em tempos tão difíceis e pede ao grupo que não ceda ao pânico nem aos boatos espalhados pelos inimigos da Revolução. Isso bastou para que se contivessem.
+$EVE_010_MAIN_02C
+Seu discurso foi tão inflamado que poderia ressuscitar as vítimas inocentes da Revolução, mas os Cidadãos de Paris não se impressionaram. A ameaça dos inimigos que avançam fala mais alto do que qualquer imagem poderosa que suas palavras possam evocar, e o povo se recusa a desistir da ideia de tomar o arsenal. Os soldados estão ocupados demais lutando para chegar até você, enquanto uma lâmina traiçoeira encontra seu caminho entre suas costelas…
+$EVE_010_MAIN_02D
+O assalto ao arsenal foi um sucesso. Pode-se dizer que isso virou uma especialidade dos parisienses. Alguns soldados caíram, os demais se renderam e, de alguma forma, escaparam de ferimentos graves ou de um linchamento público. Sua reputação, porém, ficará profundamente abalada. Afinal, parece que agora as pessoas podem fazer o que quiserem...

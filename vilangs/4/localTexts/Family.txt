@@ -1,0 +1,222 @@
+#CHOOSE_FAMILY_ACTION
+Aktion ausführen
+#CHOOSED_ACTION
+Gewählte Aktion
+$STORY_EVENT_LABEL
+Ereignis der Handlung
+#YoungerSon
+Frédéric
+#ElderSon
+Bernard
+#Father
+Aldric
+#LOCKED_ACTION_TOOLTIP
+Diese Aktion kann nicht geändert werden.
+$REVOLUTIONARIES_ICON
+Einfluss auf die Revolutionäre
+$PEOPLE_ICON
+Einfluss auf das Volk
+$REPUTATION_ICON
+Einfluss auf den Ruf
+$FAMILY_ICON
+Einfluss auf familiäre Beziehungen
+$FAMILY_ACTION_TITLE
+Beziehung zur Familie
+$FAMILY_ACTION_HEADER_PLACEHOLDER
+Wählen Sie eine Aktion aus dem Panel auf der linken Seite.
+$FAMILY_ACTION_DESC_PLACEHOLDER
+Wählen Sie eine Aktion aus, um die Beschreibung anzuzeigen.
+$FAMILY_ACTION_HEADER_COURT
+Der Einfluss Ihrer Handlungen im Gericht
+$FAMILY_ACTION_DESC_COURT
+Ihre Entscheidungen im Gericht können Ihre Beziehungen innerhalb der Familie beeinflussen.
+$FAMILY_ACTION_1000_TITLE
+Ein Abend im Spielhaus
+$FAMILY_ACTION_1000_DESC
+Du hast Vergnügen und Alkohol deiner Familie vorgezogen.
+$FAMILY_ACTION_1001_TITLE
+Vorbereitung auf den morgigen Prozess
+$FAMILY_ACTION_1001_DESC
+Im Gericht schaltest du weitere Frageneffekte frei.
+$FAMILY_ACTION_1002_TITLE
+Unterstütze den Bau der Statue
+$FAMILY_ACTION_1002_DESC
+Erhöht die Baugeschwindigkeit der Statue.
+$FAMILY_ACTION_501_TITLE
+Abendessen mit Freunden aus dem Konvent
+$FAMILY_ACTION_501_DESC
+Ein paar Abgeordnete kommen zum Abendessen vorbei. Wie freundlich von dir, so ein großzügiger Gastgeber zu sein. Wie nett von ihnen, all ihren Freunden davon zu erzählen.
+$FAMILY_ACTION_502_TITLE
+Spendensammlung für das Waisenhaus
+$FAMILY_ACTION_502_DESC
+Schwere Zeiten machen die Kindheit noch härter. Wir können diesen Kindern ihre Eltern nicht zurückgeben, aber wir können ihnen etwas Hoffnung schenken.
+$FAMILY_ACTION_601_TITLE
+Anwerbung
+$FAMILY_ACTION_601_DESC
+In manchen der Flüchtlinge lodert noch Hoffnung. Vielleicht gelingt es Ihnen, wenigstens ein paar von ihnen zu überzeugen, Ihnen in die Schlacht zu folgen?
+$FAMILY_ACTION_602_TITLE
+Abend unter Soldaten
+$FAMILY_ACTION_602_DESC
+Die Soldaten müssen erkennen, dass sie unter einem Menschen dienen, nicht unter einem seelenlosen Ungeheuer. Verbringen Sie etwas Zeit mit ihnen bei einem wärmenden Getränk.
+$FAMILY_ACTION_001_TITLE
+Abendlicher Spaziergang
+$FAMILY_ACTION_001_DESC
+Du gehst mit deiner Familie am Abend durch Paris spazieren. So kann dein Vater auch seine alten Knochen etwas bewegen.
+$FAMILY_ACTION_002_TITLE
+Abendliches Glücksspiel
+$FAMILY_ACTION_002_DESC
+Du solltest ab und zu Zeit mit deinem Vater verbringen. Zeig ihm deine Welt. Vielleicht findet er Gefallen daran?
+$FAMILY_ACTION_003_TITLE
+Demonstration
+$FAMILY_ACTION_003_DESC
+Nimm deine Söhne mit zu einer pro-revolutionären Demonstration. Lass sie das wahre Leben aus nächster Nähe erleben.
+$FAMILY_ACTION_004_TITLE
+Bratschenkonzert
+$FAMILY_ACTION_004_DESC
+Bernard muss lernen, mit Lampenfieber umzugehen, wenn er ein professioneller Musiker werden will. Du wirst eine Stunde Krach ertragen müssen.
+$FAMILY_ACTION_005_TITLE
+Gemeinsames Lesen
+$FAMILY_ACTION_005_DESC
+Es gibt nichts Schöneres, als mit der Familie und einem guten Buch am warmen Kamin zu sitzen. Auch wenn manche das für… langweilig halten.
+$FAMILY_ACTION_006_TITLE
+Abend mit Großvater
+$FAMILY_ACTION_006_DESC
+Setz dich zu deinem Vater und lausche seinen Geschichten aus vergangenen Tagen.
+$FAMILY_ACTION_007_TITLE
+Abschnitte und Paragraphen
+$FAMILY_ACTION_007_DESC
+Ungeachtet Bernards musikalischer Interessen sollte er sich auch praktischeren Fähigkeiten widmen. Schließlich ist das Recht ebenfalls eine Kunst für sich.
+$FAMILY_ACTION_008_TITLE
+Spielzeit mit den Kindern
+$FAMILY_ACTION_008_DESC
+Verbringen Sie Ihren Abend und Ihre Kraft mit unbeschwertem Spiel mit Ihren Söhnen. Die Wünsche Ihrer Frau können warten.
+$FAMILY_ACTION_009_TITLE
+Politische Debatte
+$FAMILY_ACTION_009_DESC
+Es ist an der Zeit, dass die erwachsenen Männer über die Errungenschaften der Revolution sprechen. Das dürfte ein interessanter Austausch werden.
+$FAMILY_ACTION_010_TITLE
+Premierenabend im Theater
+$FAMILY_ACTION_010_DESC
+Heute Abend feiert ein neues Theaterstück in der Comédie-Française Premiere. Eine gute Gelegenheit, dem Alltag für einen Moment zu entfliehen.
+$FAMILY_ACTION_081_TITLE
+Glücksspiel im Mondschein
+$FAMILY_ACTION_081_DESC
+Du bist mit David Karten spielen gegangen.
+$FAMILY_ACTION_082_TITLE
+Simoneau
+$FAMILY_ACTION_082_DESC
+Sie haben an der Parade zum Gedenken an den gelynchten Beamten teilgenommen.
+$FAMILY_ACTION_083_TITLE
+Burel und der Aufruhr
+$FAMILY_ACTION_083_DESC
+Sie haben den Einsatz tödlicher Gewalt gegen Demonstrierende genehmigt. Ihre Familie ist heute Abend nicht besonders gesprächig Ihnen gegenüber.
+$FAMILY_ACTION_084_TITLE
+Verwundet
+$FAMILY_ACTION_084_DESC
+Du musst dich ausruhen und deine Wunden nach diesem hinterhältigen Überfall heilen.
+$FAMILY_ACTION_085_TITLE
+Abend mit dem Bürgermeister
+$FAMILY_ACTION_085_DESC
+Du hast den Abend damit verbracht, Pache mit Freundschaftsbekundungen einzulullen. Niemand hatte Lust, lange wach zu bleiben und darauf zu warten, dass du halb betrunken nach Hause torkelst.
+$FAMILY_ACTION_086_TITLE
+Folter
+$FAMILY_ACTION_086_DESC
+Du hast den Abend damit verbracht, ein eigensinniges Mädchen und einen noch eigensinnigeren Politiker dazu zu bringen, deinem Willen zu folgen.
+$FAMILY_ACTION_087_TITLE
+Tod des Sohnes
+$FAMILY_ACTION_087_DESC
+Wie kannst du an so einem Tag nur an einen Spaziergang denken?
+$FAMILY_ACTION_088_TITLE
+Marie überlebt
+$FAMILY_ACTION_088_DESC
+Du hast die Erwartungen deiner Familie enttäuscht. Es ist äußerst fraglich, ob sie dir heute auch nur eine Minute ihrer Zeit schenken werden.
+$FAMILY_ACTION_089_TITLE
+Zerbrochene Spardose
+$FAMILY_ACTION_089_DESC
+Du hast das gesamte Familienersparnis aufgebraucht, um Béatrice zu bestechen. Kein Wunder, dass deine Familie dir das übel nimmt.
+$FAMILY_ACTION_101_TITLE
+Abendlicher Spaziergang
+$FAMILY_ACTION_101_DESC
+Du gehst mit deiner Familie am Abend durch Paris spazieren. Oder vielmehr mit dem, was von deiner Familie noch übrig ist…
+$FAMILY_ACTION_102_TITLE
+Bratschenkonzert
+$FAMILY_ACTION_102_DESC
+Bernard muss lernen, seine Bühnenangst zu überwinden, wenn er ein professioneller Musiker werden will. Der letzte Hoffnungsschimmer für deine Familie…
+$FAMILY_ACTION_103_TITLE
+Abschnitte und Paragraphen
+$FAMILY_ACTION_103_DESC
+Ungeachtet Bernards musikalischer Neigungen sollte er sich auch praktischeren Fähigkeiten widmen. Das Recht ist schließlich ebenfalls eine Kunst für sich, und nach den jüngsten Ereignissen wird Bernard wohl der Einzige sein, der seine alternden Eltern künftig versorgen kann.
+$FAMILY_ACTION_104_TITLE
+Politische Debatte
+$FAMILY_ACTION_104_DESC
+Es ist an der Zeit, dass die erwachsenen Männer über die Errungenschaften der Revolution sprechen. Das dürfte ein interessanter Austausch werden. Nach dem Tod Ihres jüngeren Sohnes könnten die Gespräche jedoch einen ganz anderen Verlauf nehmen.
+$FAMILY_ACTION_105_TITLE
+Besuch von Frédérics Grab
+$FAMILY_ACTION_105_DESC
+Jeder Besuch dreht das Messer tiefer ins Herz. Manche wollen sich erinnern, andere lieber schnell vergessen.
+$FAMILY_ACTION_106_TITLE
+Gemeinsames Lesen
+$FAMILY_ACTION_106_DESC
+Es gibt nichts Schöneres, als mit der Familie und einem guten Buch am warmen Kamin zu sitzen. Auch wenn manche das vielleicht… langweilig finden.
+$FAMILY_ACTION_107_TITLE
+Premierenabend im Theater
+$FAMILY_ACTION_107_DESC
+Heute Abend feiert ein neues Theaterstück in der Comédie-Française Premiere. Vielleicht ist Lachen das beste Mittel gegen Kummer.
+$FAMILY_ACTION_108_TITLE
+Einkaufen
+$FAMILY_ACTION_108_DESC
+Ob klischeehaft oder nicht, vielleicht schenkt dieses einfache Vergnügen Mathildes zerrissenem Herzen ein wenig Freude zurück?
+$FAMILY_ACTION_109_TITLE
+Café Procope
+$FAMILY_ACTION_109_DESC
+Du versammelst die Männer der Familie Fidèle und nimmst an einer politischen Debatte im einzigartigen Café Procope teil. Hoffentlich bleibt es diesmal bei Worten und es kommt nicht zu einer Schlägerei.
+$FAMILY_ACTION_110_TITLE
+Aufräumen auf dem Dachboden
+$FAMILY_ACTION_110_DESC
+Der Dachboden ist staubig und vollgestellt. Mathilde hat sich in letzter Zeit nicht sonderlich um den Haushalt gekümmert, aber wer könnte es ihr verdenken? Sollen doch die Männer im Haus die Ärmel hochkrempeln und sauber machen.
+$FAMILY_ACTION_181_TITLE
+Nach dem Ball
+$FAMILY_ACTION_181_DESC
+Während Sie sich auf dem Ball amüsierten, machte Ihre Familie einen Ausflug in die Stadt.
+$FAMILY_ACTION_182_TITLE
+Feuer und Wasser
+$FAMILY_ACTION_182_DESC
+Du warst so damit beschäftigt, Danton und Hébert zur Zusammenarbeit zu bewegen, dass für deine Familie keine Zeit mehr blieb – alle schlafen schon.
+$FAMILY_ACTION_183_TITLE
+Wahrer Feind
+$FAMILY_ACTION_183_DESC
+Kannst du dir vorstellen, jemanden einzuladen, um gemeinsam eine schöne Zeit zu verbringen, wenn dein Sohn gerade zum Invaliden geworden ist?
+$FAMILY_ACTION_184_TITLE
+Das wahre Gesicht des Richters
+$FAMILY_ACTION_184_DESC
+Marat hat deine Sünden ans Licht gezerrt. Deine Liebsten meiden deinen Blick.
+$FAMILY_ACTION_185_TITLE
+Das wahre Gesicht des Richters 2
+$FAMILY_ACTION_185_DESC
+Marat setzt seinen Angriff aus dem Grab fort. Die Verachtung deiner Familie dir gegenüber wächst weiter.
+$FAMILY_ACTION_186_TITLE
+Wunden im Inneren
+$FAMILY_ACTION_186_DESC
+Du hast die Hände deines Sohnes gerettet. Doch im Haus herrscht eine durchdringende Stille, jedes kleinste Geräusch wird misstrauisch beäugt. Alle sind unnatürlich angespannt – als könnte der Albtraum jeden Moment zurückkehren.
+$FAMILY_ACTION_201_TITLE
+Sicherer Weg
+$FAMILY_ACTION_201_DESC
+Als Kind schlich sich Bernard oft davon, um die Straßen von Paris zu erkunden. Vielleicht können seine Kenntnisse nun helfen, das Leben von Flüchtlingen zu retten.
+$FAMILY_ACTION_202_TITLE
+Abendessen mit Offizieren
+$FAMILY_ACTION_202_DESC
+Ein warmes, hausgemachtes Essen unter einem echten Dach würde Ihren zuverlässigsten Offizieren sehr guttun. Ihre Frau war schon immer eine ausgezeichnete Köchin.
+$FAMILY_ACTION_203_TITLE
+Vorräte und Medizin
+$FAMILY_ACTION_203_DESC
+Diejenigen, die geblieben sind, können nicht tatenlos zusehen, wie die Soldaten kämpfen. Sie müssen ihren Beitrag leisten… mit dem Wenigen, das ihnen noch bleibt.
+$FAMILY_ACTION_204_TITLE
+Barrikaden
+$FAMILY_ACTION_204_DESC
+Möbel, Trümmer, Fässer – alles eignet sich zum Bau von Barrikaden. Verschaffen wir unseren Truppen Schutz und sperren wir die strategischen Punkte ab.
+$FAMILY_ACTION_281_TITLE
+Verlassen
+$FAMILY_ACTION_281_DESC
+Dein Ruf ist so schlecht, dass niemand mehr Zeit mit dir verbringen will. Nur dein Vater steht wie immer an deiner Seite.
+#Wife
+

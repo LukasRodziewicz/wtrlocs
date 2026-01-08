@@ -1,0 +1,74 @@
+$CUT_054_JUDGE_001
+Citoyens ! Députés !
+$CUT_054_JUDGE_002
+Qui vote en faveur de l'arrestation de Robespierre ?!
+$DISC_INTR_005_B12_KONWENT_001_JUDGE_AGGR
+Robespierre n'a plus le sens des réalités. S'il était un homme d'honneur, il se livrerait. Mais ce n'est qu'un chien enragé, prêt à se défendre coûte que coûte. Toute la souffrance qu'il cause chez ses concitoyens l'indiffère !
+$DISC_INTR_005_B12_KONWENT_002_JUDGE_MANI
+Combien de personnes devront encore souffrir avant que nous n'arrêtions ce monstre ? Le pouvoir est la seule chose qui lui importe !
+$DISC_INTR_005_B12_KONWENT_003_JUDGE_JOKE
+Il se peut que je m'inquiète excessivement, certes. Mais il me paraît évident que Robespierre improvise dangereusement. Nous devons lui faire quitter la scène !
+$DISC_INTR_005_B12_KONWENT_004_JUDGE_HUMI
+Si la Convention ne prend pas conscience de la situation, des gens mourront. Des citoyens français auxquels nous avons prêté serment. Le nouveau régime régnera sur un pays de cadavres.
+$DISC_INTR_005_B12_KONWENT_005_KONWENT_INTR
+Robespierre est donc ta nouvelle cible ?
+$DISC_INTR_005_B12_KONWENT_006_KONWENT_DOUB
+Bien sage serait celui capable de comprendre votre dispute !
+$DISC_INTR_005_B12_KONWENT_007_KONWENT_IRRI
+Vous êtes tous deux des chiens enragés. Le moindre geste suffit à vous faire aboyer et grogner.
+$DISC_INTR_005_B12_KONWENT_008_JUDGE_AGGR
+Jusqu'à quand allez-vous attendre avant que Robespierre ne s'occupe de vous ?! Il a déjà vaincu Danton et Hébert, qui avaient osé lui désobéir !
+$DISC_INTR_005_B12_KONWENT_009_JUDGE_MANI
+Robespierre m'a dit un jour que « la Terreur n'est pas autre chose que la justice prompte ». Ne comprenez-vous pas ?! Il n'envisage rien d'autre que faire couler le sang des Français !
+$DISC_INTR_005_B12_KONWENT_010_JUDGE_JOKE
+Au début, Danton et Hébert ont ignoré la menace, tout comme vous. Puis tout à coup nous avons vu apparaître des preuves de leurs crimes. Créées de toutes pièces par Robespierre, évidemment. Mais soit, attendez donc sagement votre tour !
+$DISC_INTR_005_B12_KONWENT_011_JUDGE_HUMI
+Nous ne pouvons perdre la Convention nationale. C'est pourtant ce qui se produira si Robespierre continue à terroriser Paris ! Tôt ou tard, vous vous opposerez à lui et connaîtrez le sort de Danton et Hébert !
+$DISC_INTR_005_B12_KONWENT_012_KONWENT_INTR
+Maximilien s'est certes quelque peu emporté, mais il y a sans doute une manière de le punir plus adéquate que la guillotine !
+$DISC_INTR_005_B12_KONWENT_013_KONWENT_DOUB
+Nous commettons tous des erreurs. Robespierre ne fait pas exception. Nous pouvons encore le faire s'amender !
+$DISC_INTR_005_B12_KONWENT_014_KONWENT_IRRI
+Seuls les monarques décapitaient les gens à la moindre erreur ! La Révolution devrait donner une deuxième chance à ses citoyens les plus méritants. Dont notamment Robespierre !
+$DISC_INTR_005_B12_KONWENT_015_JUDGE_AGGR
+Qui voulez-vous épargner ? Un traître ? Robespierre a conclu un pacte avec Clément Renard, le chef de la conjuration royaliste au cœur de mes enquêtes ! Ils cherchent à rétablir la monarchie en France. Tenez-vous encore à le sauver, pauvres fous ?
+$DISC_INTR_005_B12_KONWENT_016_JUDGE_MANI
+Cela fait quelque temps que je m'instruis d'une conjuration d'aristocrates menée par Clément Renard. Ces traîtres veulent rétablir la monarchie. Et devinez qui les y aide ! Robespierre lui-même ! J'ai peine à comprendre, chers collègues, pourquoi vous voudriez lui donner une seconde chance…
+$DISC_INTR_005_B12_KONWENT_017_JUDGE_JOKE
+Donnez-lui donc du temps, ainsi qu'une deuxième, une troisième, une dixième chance tant qu'à faire ! Que lui et Clément Renard mènent ainsi leur conjuration aristocrate à exécution ! Car oui, je le suis depuis un moment et figurez-vous qu'il veut rétablir la monarchie. Attendons de voir s'il vous donnera une seconde chance, le cas échéant !
+$DISC_INTR_005_B12_KONWENT_018_JUDGE_HUMI
+La France a payé la Révolution avec le sang de ses citoyens. À présent, Clément Renard mène une conjuration aristocrate qui vise à rétablir la monarchie. Et Robespierre l'y aide ! Chers députés, la France baignera à nouveau dans le sang si nous pardonnons à ce traître.
+$DISC_INTR_005_B12_KONWENT_019_JUDGE_AGGR
+Pendant que nous sommes ici à converser douillettement autour d'une bonne bouteille, Hanriot recrute des gens de la Commune pour défendre l'hôtel de ville et Robespierre ! Et pourquoi ne pas commencer une partie de dés tant qu'on y est ?!
+$DISC_INTR_005_B12_KONWENT_020_JUDGE_MANI
+Hanriot lève une armée qui s'emparera de Paris pour le compte de Robespierre. Personne ne pourra plus résister à ce dernier. À la moindre virgule qu'il estimera être une critique, son auteur périra. Il ne lui reste qu'à tendre la main pour saisir le pouvoir.
+$DISC_INTR_005_B12_KONWENT_021_JUDGE_JOKE
+J'ai entendu dire que Hanriot cherche des membres de la Commune prêts à s'enrôler dans une armée pour défendre Robespierre. Je ne m'abstiendrai pas de constater qu'ils ne manquent en rien de ferveur et d'outrecuidance.
+$DISC_INTR_005_B12_KONWENT_022_JUDGE_HUMI
+Je suis navré que de pauvres gens se laissent charmer par les belles paroles de Hanriot. Le commandant lève une armée qui marchera sur la Convention. Ce sont ces malheureux qui périront pour ses crimes.
+$DISC_INTR_005_B12_KONWENT_023_JUDGE_AGGR
+Il n'y a qu'un sot pour ne pas s'apercevoir que l'armée prépare une attaque contre la Convention. Les députés doivent défendre leurs précieuses positions !
+$DISC_INTR_005_B12_KONWENT_024_JUDGE_MANI
+Les députés de la Convention se réveilleront au son du couperet de la guillotine. Seulement à ce moment-là percevront-ils l'évidence : Hanriot et Robespierre les attaqueront dès qu'ils auront rassemblé suffisamment de gens.
+$DISC_INTR_005_B12_KONWENT_025_JUDGE_JOKE
+Peut-être devrions-nous laisser Robespierre marcher sur la Convention ? Puisque les députés ne comprennent clairement pas la situation, sans doute doivent-ils passer à la guillotine pour s'acquitter de leur idiotie ?
+$DISC_INTR_005_B12_KONWENT_026_JUDGE_HUMI
+Robespierre les aura à sa botte. Il les acculera au mur à l'aide de sabres et de mousquets portés par des énergumènes qui croient comprendre la situation. La France et la Révolution mourront avec les députés de la Convention.
+$DISC_INTR_005_B12_KONWENT_027_KONWENT_INTR
+Le juge a raison !
+$DISC_INTR_005_B12_KONWENT_028_KONWENT_DOUB
+Même si Robespierre était une canaille, ce n'est pas une raison suffisante pour le condamner à mort !
+$DISC_INTR_005_B12_KONWENT_029_KONWENT_IRRI
+Apprenez donc à régler vos querelles. Nous avons l'intention de survivre à la Révolution !
+$DISC_INTR_005_B12_KONWENT_030_SUCCESS_JUDGE
+Qui vote en faveur de l'arrestation de Robespierre ?!
+$DISC_INTR_005_B12_KONWENT_TOPIC_01
+Robespierre est un chien enragé.
+$DISC_INTR_005_B12_KONWENT_TOPIC_02
+Il s'est laissé emporter par la terreur.
+$DISC_INTR_005_B12_KONWENT_TOPIC_03
+Robespierre prend part à une conjuration d'aristocrates.
+$DISC_INTR_005_B12_KONWENT_TOPIC_04
+Hanriot lève une armée pour lui.
+$DISC_INTR_005_B12_KONWENT_TOPIC_05
+La Convention doit donner son autorisation. Pour son propre salut.

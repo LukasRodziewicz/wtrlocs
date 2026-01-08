@@ -1,0 +1,124 @@
+$PROLOG_PRE_01_MT
+Przypomnij mi następnym razem, że miałem rzucić picie szemranego bimbru. Przypomnij mi PRZED wypiciem. Przynosimy wstyd Temidzie, kolego, he, he… Ktoś idzie?
+
+$PROLOG_PRE_02_WF
+Mogłam to przewidzieć…
+
+$PROLOG_PRE_03_ES
+Mówiłem…
+
+$PROLOG_PRE_04_YS
+Tatusiu, mieliśmy iść… Mówiłeś…
+
+$PROLOG_PRE_05_MT
+Twój tata miał dużo… pracy.
+
+$PROLOG_PRE_06_ES
+Tak, dużo ciężkich kieliszków.
+
+$PROLOG_PRE_07_WF
+Obiecałeś mi… Nie wiem już… Nie mam sił dłużej prosić.
+
+$PROLOG_PRE_08_YS
+Mamusia jest zła, bo…
+
+$PROLOG_PRE_09_ES
+Bądź cicho.
+
+$PROLOG_PRE_10_WF
+Twój ulubiony syn chciał dzisiaj udowodnić, że ma więcej honoru niż jego ojciec, więc wdał się w bójkę. Pięcioletnie dziecko! 
+
+$PROLOG_PRE_11_WF
+Sąsiedzi chcieli, żebyś im to wyjaśnił, ale… cóż, walczyliście w tym czasie o sprawiedliwość. W karczmie. Ty cholerny pijaku, niech cię szlag…
+
+$PROLOG_PRE_12_ES
+Matko...
+
+
+$PROLOG_DOC_01_HEADER
+List od Aurélie Dupond
+$PROLOG_CASE_DOC_HEADER
+Do sędziego Alexisa Fidèle’a,
+
+$PROLOG_CASE_DOC_MAIN
+Do sędziego Alexisa Fidèle’a,
+	
+	nie spodziewaliśmy się tego akurat po Twoim synu, chociaż, jak widać, powinniśmy byli. <a name="1" class="hidden">Niewinne</a> szczeniackie swawole zamieniły się w <a name="2" class="hidden">napaść</a> na nasze dzieci. Młodszy, <a name="3" class="hidden">Antoine</a>, ma ukruszony <a name="4" class="hidden">ząb na przedzie</a>. Oczekujemy, że przykładnie ukarzesz swoje dziecko! Jeśli sytuacja ta się powtórzy, zareagujemy bardziej zdecydowanie. Poradzimy sobie z hazardzistą i pijakiem, nawet jeśli jest sędzią… Nie pozwolimy krzywdzić naszych dzieci!
+	
+Aurélie Dupond
+
+$PROLOG_KEYWORD_01
+Dziecięce zabawy
+$PROLOG_KEYWORD_02
+Bójka między dziećmi
+$PROLOG_KEYWORD_03
+Poszkodowany Antoine
+$PROLOG_KEYWORD_04
+Ukruszony ząb
+$PROLOG_KEYWORD_05
+Możliwość powtórki
+
+$PROLOG_01_D1_01_JD
+Jak to się stało, że wasza zabawa zamieniła się w bójkę?
+$PROLOG_01_D1_02_YS
+Antoine i Jean od naszych sąsiadów… Oni mówili o tobie złe rzeczy. Bawiliśmy się w straż i chcieli, żebym zagrał pijaka, którego tamci… no…
+$PROLOG_01_D1_03_JD
+Biłeś się z nimi oboma naraz?
+$PROLOG_01_D1_04_YS
+Musiałem.
+
+
+$PROLOG_02_D1_01_JD
+Co dokładnie mówili ci chłopcy?
+$PROLOG_02_D1_02_ES
+Jesteś aż tak pijany, że nie możesz się domyślić?
+$PROLOG_02_D1_03_JD
+Nie ciebie pytałem.
+$PROLOG_02_D1_04_YS
+Krzyczeli, że jesteś… no… Ja mówiłem, że to nieprawda, a oni zaczęli mnie wyzywać. Krzyczeli: „dziecko pijaka”.
+
+$PROLOG_03_D1_01_JD
+Kto zaczął bójkę?
+$PROLOG_03_D1_02_ES
+Ja mogę wam powiedzieć, kto skończył…
+$PROLOG_03_D1_03_YS
+No, to chyba… ja. Kopnąłem tego z lewej, chciałem też tego z prawej, ale…
+$PROLOG_03_D1_04_ES
+Ale wtedy oni skończyli.
+$PROLOG_03_D1_05_YS
+Przewrócili mnie na ziemię i oddali.
+
+$PROLOG_04_D1_01_JD
+Czy to prawda, że złamałeś Antoine’owi ząb?
+$PROLOG_04_D1_02_ES
+Przecież Frédéric to dzieciak, nie ma tyle siły.
+$PROLOG_04_D1_03_YS
+Nie wiem… Chyba nie.
+$PROLOG_04_D1_04_JD
+Uderzyłeś go w twarz?
+$PROLOG_04_D1_05_YS
+Chyba kopnąłem, ale wcale nie mocno…
+
+$PROLOG_CASE_ON_GUILTY
+Niestety, nie możesz zaczynać bójek, niezależnie od powodu.
+$PROLOG_CASE_ON_NOTGUILTY
+Dobrze zrobiłeś. Mężczyzna musi bronić honoru rodziny, choćby nie wiem co.
+
+$PROLOG_POST_01_WF
+Tamte dzieciaki są tak młode, a już dostrzegają prawdę – ojciec moich synów to kłamliwy pijak i hazardzista. Bernard był kiedyś w ciebie tak zapatrzony… dorósł jednak szybko. Frédéric natomiast poznaje dopiero prawdę – na ulicy.  
+
+$PROLOG_POST_02_WF
+A ty, Raymond? Miałeś być mentorem mojego męża – tego chciałeś go nauczyć? Żeby powtórzył twoje błędy i stracił rodzinę? 
+
+$PROLOG_POST_03_MT
+Nie wiedziałem, że Mathilde ma taki temperament.
+
+$PROLOG_POST_04_JD
+Ja również…
+
+$PROLOG_POST_05_WF
+Poczekamy na zewnątrz, jak zawsze.
+
+$PROLOG_GUILTY
+Winny
+

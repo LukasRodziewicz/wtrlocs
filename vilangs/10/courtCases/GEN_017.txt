@@ -1,0 +1,280 @@
+$GEN_017_DOC_01_HEADER
+Hazırlayan: Olivier Carrasco
+$GEN_017_DOC_01_00
+Sanık sandalyesinde, mahkûm Vatandaş Louis Capet’in eşi oturuyor. Marie Antoinette, 38 yaşında bir Avusturyalı; 14 yaşında Fransa’ya gelip 16 yaşındaki Louis ile evlenmişti. Evlilikleri siyasiydi – Avusturya ile Fransa arasındaki ittifakı güçlendirmek için yapılmıştı.
+$GEN_017_DOC_01_01
+Marie Antoinette ve merhum eşi, bir ülkeyi yönetmek için gereken deneyim ve bilgiye sahip değillerdi. Yetersizlikleri, Fransa’nın borç batağına saplanmasına, Fransız halkının ise açlık ve yoksulluğa sürüklenmesine yol açtı. Eski Kraliçe ve eşi, ekmeğin fiyatı sıradan Yurttaş için erişilmez hale geldiğinde bile <a name="1" class="hidden">savurgan yaşam tarzlarından</a> vazgeçmeyi başaramadılar.
+$GEN_017_DOC_01_02
+Marie Antoinette ve Louis Capet, Devrimciler tarafından hapsedildikleri Tuileries Sarayı’ndan <a name="2" class="hidden">kaçmaya</a> çalıştılar. İkili, komşu ordularla birlikte Fransa’ya dönmeyi planlıyordu, ancak sınırı geçemeden yakalandılar.
+$GEN_017_DOC_01_03
+Louis ve Marie Antoinette, <a name="3" class="hidden">Antoine Barnave’ın</a> koruması sayesinde dönüşlerinde linçten kurtulabildiler. Ünlü hatip onlar adına araya girdi ve bu da onu şüpheli durumuna düşürdü. Marie Antoinette’in, siyasi amaçları için onu kullanmak üzere Barnave’ı etkisi altına aldığı düşünülüyor.
+$GEN_017_DOC_01_04
+Yıllar boyunca Marie Antoinette, Fransa’nın çıkarlarına aykırı hareket etmekle, devlet bütçesini derin bir açığa sürüklemekle, Devrim’e karşı komplo kurmakla ve <a name="5" class="hidden">Monarşiyi yeniden canlandırmaya</a> çalışmakla suçlandı.
+$GEN_017_DOC_01_05
+Fransa'nın Avusturya karşısındaki başarısızlıkları onun ihanetiyle açıklanabilir. <a name="6" class="hidden">Fransız askeri sırlarını</a> kendi ülkesine aktardığından şüpheleniyoruz, ancak bu iddiayı destekleyecek kanıtımız yok.
+$GEN_017_DOC_01_06
+Vatandaş ayrıca <a name="7" class="hidden">ahlaksızlıkla</a> suçlanıyor. Dahası, sekiz yaşındaki oğlu <a name="8" class="hidden">Louis-Charles</a>'a cinsel tacizde bulunduğu iddiaları da var.
+$GEN_017_OnStart_00
+Şimdi bedelini ödeyeceksin!
+$GEN_017_OnStart_01
+Unutma, bu sıradan bir dava değil. Vereceğin hüküm geleceğini belirleyecek.
+$GEN_017_OnStart_02
+Lütfen kendinizi tanıtınız.
+$GEN_017_OnStart_03
+Affedersiniz?
+$GEN_017_OnStart_04
+Bu soruyu mahkemeye saygısızlık olarak yorumlayabilirim.
+$GEN_017_OnStart_05
+Maria Antonia Josepha Johanna von Österreich, Avusturya Marie Antoinette olarak da bilinir ya da kısaca Marie Antoinette. Ancak, bana “Kraliçe” diye hitap edilmesini tercih ederim.
+$GEN_017_OnStart_06
+“Sanık” terimini kullanacağım.
+$GEN_017_OnStart_07
+Neden “Avusturyalı fahişe” demiyorsun?
+$GEN_017_OnGuilty_00
+Sanık Avusturyalı Marie Antoinette’i giyotine mahkûm ediyorum.
+$GEN_017_OnGuilty_01
+Eski Rejim çoktan başı kesilmeliydi.
+$GEN_017_OnGuilty_02
+Yaşasın!
+$GEN_017_OnGuilty_03
+Adalet sonunda yerini buldu!
+$GEN_017_OnPrison_00
+Avusturyalı Marie Antoinette’i hapis cezasına çarptırıyorum. Mahkûmu dışarı çıkarın.
+$GEN_017_OnPrison_01
+Bu ceza fazlasıyla hafif.
+$GEN_017_OnPrison_02
+Şanslısın!
+$GEN_017_OnPrison_03
+Yargıç pişmanlık mı gösterdi?!
+$GEN_017_OnPrison_04
+Bırak hapiste ölsün!
+$GEN_017_OnNotGuilty_00
+Sanığı suçsuz buluyorum. Serbest bırakılabilir.
+$GEN_017_OnNotGuilty_01
+Kör müsün, adamım?
+$GEN_017_OnNotGuilty_02
+Deli mi bu?
+$GEN_017_OnNotGuilty_03
+Onu serbest bırakmak, onu ölüme mahkûm etmek demektir!
+$GEN_017_01x04_00_QTitle
+Sanık neden böylesine bir lüks içinde yaşadı…?
+$GEN_017_01x04_00_00
+Devlet hazinesi açık verirken sanık neden lüks içinde yaşadı?
+$GEN_017_01x04_00_01
+Önceki kraliçenin ve ondan öncekilerin harcamalarına bir bakın. Karşılaştırdığınızda, onların harcadığından çok daha az para kullandığımı göreceksiniz.
+$GEN_017_01x04_00_02
+Ayrıca yurttaşların o dönemde ve sanık ile kocasının yönetimi sırasında içinde bulundukları durumu da göz önünde bulundurmalıyız.
+$GEN_017_01x04_00_03
+Çürük patateslerimi de hesaba katın!
+$GEN_017_01x04_00_04
+Önceki kraliçelerin kumara bu kadar düşkün olduğunu hatırlamıyorum.
+$GEN_017_01x04_00_05
+Hepimizin bir zaafı var.
+$GEN_017_01x08_01_QTitle
+Sanık sefahat içinde bir hayat sürdü; hatta Yurttaş Capet’in oğlunun gerçekten kendi kanından olup olmadığı uzun zamandır tartışma konusu.
+$GEN_017_01x08_01_00
+Sanık sefahat içinde bir hayat sürdü. Hatta Vatandaş Capet’in oğlunun gerçekten kendi kanından olup olmadığı bile uzun zamandır sorgulanıyor. Sanık bu suçlamalara ne diyecek?
+$GEN_017_01x08_01_01
+Kocama her zaman sadık kaldım. Geri kalanı ise boş dedikodudan ibaret.
+$GEN_017_01x08_01_02
+Sanık bunu konuşmaktan korkuyor mu?
+$GEN_017_01x08_01_03
+Bütün gece konuşabilir!
+$GEN_017_01x08_01_04
+Konuşacak bir şey yok.
+$GEN_017_01x08_01_05
+Vatandaş Capet’in o “dedikoduyu” doğrulaması gerekiyordu.
+$GEN_017_01x08_01_06
+O artık hayatta değil, bu yüzden o sözünüz biraz… nezaketsiz oldu. Yine de cevaplayacağım. Kocam bana güvenir, ben de ona. Hepsi bu.
+$GEN_017_01x08_01_07
+Herkes Yurttaş Capet'nin bir ahmak olduğunu bilir.
+$GEN_017_02x05_02_QTitle
+Kaçışı başarılı olsaydı, sanık kendisi için nasıl bir gelecek bekliyordu?
+$GEN_017_02x05_02_00
+Kaçışı başarılı olsaydı, sanık kendisi için nasıl bir gelecek bekliyordu?
+$GEN_017_02x05_02_01
+Amacımız hayatta kalmaktı. Bu ülkede bizi iyi hiçbir şeyin beklemediğine inanıyorduk. Yanılmadığımız da ortada.
+$GEN_017_02x05_02_02
+Yani, halkın acılarının intikamını almak isteyeceğini anladınız.
+$GEN_017_02x05_02_03
+Ölümüm pek çoklarını sevindirirdi.
+$GEN_017_02x05_02_04
+Kesinlikle sevinirdik!
+$GEN_017_02x05_02_05
+Ve elbette yapacağız!
+$GEN_017_02x05_02_06
+Sanığın kaçışı olmasaydı, bugün burada konuşuyor olmazdık ve halk da kalan son güven kırıntılarını yitirmezdi. Herkes bunun sizin komplonuzun bir parçası olduğuna inanıyor.
+$GEN_017_02x05_02_07
+En azından komploya dair tek bir kanıt görmek istiyorum.
+$GEN_017_02x05_02_08
+Kanıta ihtiyacımız yok!
+$GEN_017_02x03_03_QTitle
+Antoine Barnave ile ilişkiniz nasıldı?
+$GEN_017_02x03_03_00
+Antoine Barnave ile ilişkiniz nasıldı?
+$GEN_017_02x03_03_01
+O benim dostumdu. Bize yardım etti ve herkes bize sırtını döndüğünde, bize saygıyla yaklaşan az sayıdaki insandan biriydi.
+$GEN_017_02x03_03_02
+Evet, bakalım o da yatakta ona aynı şekilde karşılık verdi mi!
+$GEN_017_02x03_03_03
+Sanık, Vatandaş Barnave’dan yardım isteyerek ona da ciddi sorunlar açtığının farkında mı?
+$GEN_017_02x03_03_04
+Ona hiçbir söz vermedim, yardımını da istemedim. Sadece birbirimize benziyorduk; belki de dostluğumuzun sebebi buydu.
+$GEN_017_02x03_03_05
+Onunla cinsel bir ilişkiniz oldu mu?
+$GEN_017_02x03_03_06
+Avusturyalı kaltak!
+$GEN_017_02x03_03_07
+Elbette hayır.
+$GEN_017_02x03_03_08
+O halde, sizinle yazışarak neden böyle bir riske girsin?
+$GEN_017_02x03_03_09
+Tek umduğum adil bir yargılama ve ardından beraat etmesi.
+$GEN_017_02x03_03_10
+Kafasını kesin!
+$GEN_017_07x08_04_QTitle
+Sanık kendisini örnek bir anne olarak görüyor mu?
+$GEN_017_07x08_04_00
+Sanık kendini örnek bir anne olarak görüyor mu?
+$GEN_017_07x08_04_01
+Buna cevap veremem ve vermek de istemem... Bunu oğluma sormalısınız.
+$GEN_017_07x08_04_02
+Bundan önce, sanığa Louis-Charles’a yönelik ahlaksız taciz suçlamaları hakkında bir soru sormak istiyorum.
+$GEN_017_07x08_04_03
+Hiçbir anne, böylesine iğrenç suçlamalara cevap vererek onları onurlandırmaz.
+$GEN_017_07x08_04_04
+Tanığı, sanığın oğlu Louis-Charles’ı çağırın.
+$GEN_017_07x08_04_06
+Lütfen kendinizi tanıtınız.
+$GEN_017_07x08_04_07
+Benim adım Louis-Charles.
+$GEN_017_07x08_04_08
+Neden buraya çağrıldığınızı biliyor musunuz?
+$GEN_017_07x08_04_09
+Hayır. Neden?
+$GEN_017_03x08_05_QTitle
+Antoine Barnave ile sanığın oğlu arasında nasıl bir ilişki vardı?
+$GEN_017_03x08_05_00
+Sanıkın oğlu ile Antoine Barnave arasında nasıl bir ilişki vardı?
+$GEN_017_03x08_05_01
+Antoine ailenin bir dostuydu. Sanırım Charles onu çok severdi, hatta belki ona hayran bile kalmıştı.
+$GEN_017_03x08_05_02
+Ona nasıl davrandınız?
+$GEN_017_03x08_05_03
+Bir dosta nasıl davranırsam öyle. Bunda garip olan ne var?
+$GEN_017_03x08_05_04
+Bunu hiç de garip bulmuyoruz.
+$GEN_017_02x08_06_QTitle
+Genç Louis-Charles kaçışınızın zorluklarına nasıl dayandı?
+$GEN_017_02x08_06_00
+Genç Louis-Charles kaçışınızın zorluklarına nasıl dayandı?
+$GEN_017_02x08_06_01
+Pek iyi değil. Ne yazık ki veremle mücadele ediyor ve koşullar hastalığını daha da ağırlaştırdı.
+$GEN_017_02x08_06_02
+Kaçışı planlarken onun sağlığını hiç düşündünüz mü?
+$GEN_017_02x08_06_03
+Aklımda sadece o vardı. Bugün boğucu Paris havasında acı çekmek yerine kaplıcalarda iyileşiyor olabilirdi…
+$GEN_017_02x08_06_04
+Çocuklarımızın göreceği tek su, Seine Nehri olacak.
+$GEN_017_03x05_07_QTitle
+Kabul etmeliyim ki siz ve Antoine Barnave birbirinize çok benziyorsunuz.
+$GEN_017_03x05_07_00
+Kabul etmeliyim ki siz ve Antoine Barnave birbirinize çok benziyorsunuz. Sanık, onun size kendi çıkarı için yardım etmiş olabileceğini hiç düşündü mü?
+$GEN_017_03x05_07_01
+Böyle bir şeyi hiç düşünmedim bile. Antoine yardım etmek isteyen iyi bir insandır. Siyasi görüşleri hakkında onu yargılamak bana düşmez.
+$GEN_017_03x05_07_02
+Paylaştığınız en önemli şey, Fransa’ya duyduğunuz nefretti.
+$GEN_017_03x05_07_03
+Saçmalık, ben...
+$GEN_017_03x05_07_04
+Biz kemiklerle hayatta kalmaya çalışırken, siz etleri mideye indiriyordunuz!
+$GEN_017_06x02_08_QTitle
+Sanık, Fransız askeri sırlarını Avusturya’ya hiç iletti mi?
+$GEN_017_06x02_08_00
+Sanık, Fransız askeri sırlarını Avusturya'ya hiç iletti mi?
+$GEN_017_06x02_08_01
+Ben hangi türden sırları biliyor olabilirim ki?
+$GEN_017_06x02_08_02
+Öncelikle ordunun gücü ve silahlarından başlayalım.
+$GEN_017_06x02_08_03
+Ne saçma bir suçlama... Havan topunu tüfekten ayırt edemem ki ben.
+$GEN_017_06x02_08_04
+Farkı bilmenize gerek yok, not alıp onları başkalarına göndermeniz yeterli.
+$GEN_017_06x02_08_05
+Ben bir kraliçeyim, casus değil.
+$GEN_017_06x02_08_06
+Hâlâ inkâr ediyor, orospu!
+$GEN_017_WIT_00_A_QTitle
+Anneniz size hiç yanlış gelen bir şey yaptı mı?
+$GEN_017_WIT_00_A_00
+Anneniz size hiç yanlış gelen bir şey yaptı mı?
+$GEN_017_WIT_00_A_01
+Mesela?
+$GEN_017_WIT_00_A_02
+Sizi utandıracak şeyler.
+$GEN_017_WIT_00_A_03
+Şey, annem herkesin önünde bana sarılmayı severdi. Bu beni utandırırdı.
+$GEN_017_WIT_00_A_04
+Seni sık sık kucaklar mıydı?
+$GEN_017_WIT_00_A_05
+Çok sık. Bazen geceleri bile odama gelir, sadece bana sarılırdı.
+$GEN_017_WIT_00_A_06
+O zaman siz de utanmış mıydınız?
+$GEN_017_WIT_00_A_07
+Hayır, çünkü kimse izlemiyordu.
+$GEN_017_WIT_01_A_QTitle
+Annen sana Avusturya'ya kaçma ve Cumhuriyeti ortadan kaldırma planından bahsetti mi?
+$GEN_017_WIT_01_A_00
+Annen sana Avusturya'ya kaçma ve Cumhuriyeti ortadan kaldırma planından bahsetti mi?
+$GEN_017_WIT_01_A_01
+Hayır, ne annem ne de babam bundan asla bahsetmezdi.
+$GEN_017_WIT_01_A_02
+Bay Barnave sık sık misafir olur muydu?
+$GEN_017_WIT_01_A_03
+Evet! Bay Barnave’yi gerçekten çok seviyorum. Her zaman çok nazik ve bana oyuncaklar getiriyor. Geçenlerde bana bu tahta askeri getirdi…
+$GEN_017_WIT_01_A_04
+O ve anneniz hiç size tuhaf gelen bir şey yaptı mı?
+$GEN_017_WIT_01_A_05
+Annem bir keresinde onu babam gibi saymamı söylemişti.
+$GEN_017_KEY_01
+Savurgan yaşam tarzı
+$GEN_017_KEY_02
+Capetlerin kaçışı
+$GEN_017_KEY_03
+Antoine Barnave
+$GEN_017_KEY_04
+Hazine açığı
+$GEN_017_KEY_05
+Monarşinin yeniden tesisi
+$GEN_017_KEY_06
+Askerî sırlar
+$GEN_017_KEY_07
+Kraliçenin ahlaksızlığı
+$GEN_017_KEY_08
+Genç Louis-Charles Capet
+$GEN_017_LastDialog_00
+Üzerinize mi bastım? Affedersiniz, tamamen istemeden oldu.
+$GEN_017_UNIQUE_QUESTION_01
+Sanık parasını neye harcadı?
+$GEN_017_UNIQUE_ANSWER_CORRECT_01_00
+Kumar oynadı.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_01_00
+İçki içti.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Sevgililerine harcadı.
+$GEN_017_UNIQUE_QUESTION_02
+Sanığın Barnave ile ilişkisi nasıldı?
+$GEN_017_UNIQUE_ANSWER_CORRECT_02_00
+Onlar arkadaştı.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Kuzenler.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Onun âşığıydı.
+$GEN_017_UNIQUE_ANSWER_CORRECT_03_00
+Verem.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Çiçek hastalığı.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Ateş.
+$GEN_017_UNIQUE_QUESTION_03
+Marie Antoinette’in oğlu hangi hastalıkla mücadele ediyor?

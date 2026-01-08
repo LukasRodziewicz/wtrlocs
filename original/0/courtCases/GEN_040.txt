@@ -1,0 +1,156 @@
+$GEN_040_DOC_01_HEADER
+Sporządził: Charles Étienne
+$GEN_040_DOC_01_00
+	Na posterunek Gwardii w pobliżu paryskich Hal zgłosił się jeden z miejscowych handlarzy, niejaki Guy Deniau. Podniesionym głosem doniósł, że właściciel sąsiedniego stoiska na złość <a name="2" class="hidden">wlał dziegieć</a> do beczki z jego śledziami i domagał się dla niego kary. Żołnierze udali się na miejsce i stwierdzili, iż faktycznie śledzie obywatela smakują wstrętnie. Z braku dowodów nie podjęli jednak żadnych działań.
+$GEN_040_DOC_01_01
+	Kilka godzin później gwardziści musieli wrócić na Hale. Teraz to oskarżany wcześniej Jean Courbis posłał po żandarmerię. Tym razem dowodów na miejscu nie brakowało. Głównym stał się sam Deniau, który <a name="3" class="hidden">długim drewnianym drągiem</a> demolował właśnie stragan sąsiada na oczach tłumu.
+$GEN_040_DOC_01_02
+	Wściekły kramarz odgrażał się i krzyczał: „Gdzieście byli, kiedy ten drań ukradł mi miejsce <a name="4" class="hidden">przy wejściu?</a>”. Żołnierze nie pytali o szczegóły, rozbroili krewkiego przekupnia i umieścili go w miejskiej celi. Podczas sporządzania raportu jeden z oficerów znalazł <a name="5" class="hidden">dwuletni donos</a> napisany przez obywatela Deniau na Jeana Courbisa.
+$GEN_040_DOC_02_TOOLTIP
+	Donos Guya Deniau:
+$GEN_040_DOC_02_00
+	Donoszę, że obywatel Courbis nie tylko nie wpłaca do kasy miasta należnej opłaty za miejsce dla swojego straganu, ale także otwarcie swoim klientom <a name="6" class="hidden">obrzydza nową władzę</a>.
+$GEN_040_OnStart_00
+Wasze nazwisko?
+$GEN_040_OnStart_01
+Deniau, świeże ryby od 1772 roku.
+$GEN_040_OnStart_02
+A od wczoraj także wandal?
+$GEN_040_OnStart_03
+Tak, nie jestem dumny z tego, co zrobiłem, ale miarka się przebrała.
+$GEN_040_OnStart_04
+A jak przed pół roku ukradłeś mi osiem liwrów z utargu?
+$GEN_040_OnStart_05
+Dzieciak ulicznik wyjął ci je z kieszeni w gaciach, jak się…
+$GEN_040_OnStart_06
+Spokój na sali, będziecie mówić, kiedy będę was pytał.
+$GEN_040_OnPrison_00
+Od dziś mieszkańcy Paryża będą kupować ryby gdzie indziej. Obywatel Deniau za wandalizm zostaje skazany na karę więzienia.
+$GEN_040_OnPrison_01
+Tylko uprzedźcie strażników, że nie będzie im łatwo.
+$GEN_040_OnPrison_02
+Nie wiem, czy lud będzie zachwycony tak surową karą.
+$GEN_040_OnNotGuilty_00
+Wasze kłótnie to nie jest sprawa dla sądu. Obywatelu Deniau, jesteście wolni, ale nakazuję wam zmienić miejsce w Halach.
+$GEN_040_OnNotGuilty_01
+Słusznie, niech stanie gdzieś bliżej śmietnika, nie będzie tak czuć jego śledziami.
+$GEN_040_OnNotGuilty_02
+Czemu nikt wcześniej nie wpadł na to, żeby rozdzielić tych dwóch pieniaczy?
+$GEN_040_02x03_00_QTitle
+Czym handluje obywatel Courbis?
+$GEN_040_02x03_00_00
+Czym handluje obywatel Courbis?
+$GEN_040_02x03_00_01
+Owocami i warzywami.
+$GEN_040_02x03_00_02
+A wy rybami?
+$GEN_040_02x03_00_03
+Prosto z Yport i Petites Dalles.
+$GEN_040_02x03_00_04
+Dlaczego w takim razie jeden z was miał tego dnia przy sobie dziegieć, a drugi drewniany drąg?
+$GEN_040_02x03_00_05
+...
+$GEN_040_02x03_00_06
+Obywatelu?
+$GEN_040_02x03_00_07
+Nie pamiętam dokładnie, pewnie kij walał się obok straganu. A Courbis musiał to planować już wcześniej.
+$GEN_040_05x04_01_QTitle
+Wydaje mi się, że kłócicie się od dawna?
+$GEN_040_05x04_01_00
+Wydaje mi się, że kłócicie się od dawna?
+$GEN_040_05x04_01_01
+Zaczęło się, jak pewnego poranka ten drań rozstawił się na moim miejscu, przy wejściu na Hale.
+$GEN_040_05x04_01_02
+To nie było twoje miejsce, zająłeś je po starym Choquecie.
+$GEN_040_05x04_01_03
+Spokój na sali. Od tamtego czasu nie możecie dojść do ładu?
+$GEN_040_05x04_01_04
+To się chyba zaczęło jeszcze wcześniej. Z tego, co pamiętam, Jean kiedyś nie zapłacił za barwenę, którą wzięła ode mnie jego żona.
+$GEN_040_05x04_01_05
+Cała rodzina się od tej padliny pochorowała, ciesz się, że cię wtedy…
+$GEN_040_05x04_01_06
+Czy ja was nie prosiłem już o spokój? Będę musiał jeszcze raz, a zaczną się kłopoty.
+$GEN_040_06x05_02_QTitle
+W dokumentach znaleziono wasz donos na obywatela Courbisa.
+$GEN_040_06x05_02_00
+W dokumentach znaleziono wasz donos na obywatela Courbisa. Dlaczego go napisaliście?
+$GEN_040_06x05_02_01
+Napisał, bo też zacząłem sprzedawać szproty.
+$GEN_040_06x05_02_02
+Zamknij się już! Wysoki Sądzie, chciałem tylko pomóc miastu. Każdy straganiarz opłaca miejsce w Halach, Courbis też powinien.
+$GEN_040_06x05_02_03
+Kłamca i kanciarz! A jak jeszcze w królewskich czasach chowałeś się przed poborcą u masarzy?
+$GEN_040_06x05_02_04
+Spokój!
+$GEN_040_06x05_02_05
+Ja się migałem przed podatkami królewskimi, a ty zacząłeś, dopiero jak nadeszła rewolucja!
+$GEN_040_06x05_02_06
+Obaj natychmiast zamilknijcie.
+$GEN_040_06x04_03_QTitle
+Obywatelu Courbis, zapraszam bliżej.
+$GEN_040_06x04_03_00
+Obywatelu Courbis, zapraszam bliżej.
+$GEN_040_WIT_00_A_QTitle
+Czy to prawda, że obywatel agitował przeciwko nowemu porządkowi?
+$GEN_040_WIT_00_A_00
+Czy to prawda, że obywatel agitował przeciwko nowemu porządkowi?
+$GEN_040_WIT_00_A_01
+To są od początku do końca pomówienia, wymyślone przez tego handlarza starymi flądrami.
+$GEN_040_WIT_00_A_02
+Mam rozumieć, że to oznacza nie?
+$GEN_040_WIT_00_A_03
+Oczywiście, że nie. Zajmuję się handlem, a nie polityką.
+$GEN_040_WIT_00_B_QTitle
+Czy to prawda, że obywatel zajął miejsce Guya Deniau przy wejściu na Hale?
+$GEN_040_WIT_00_B_00
+Czy to prawda, że obywatel zajął miejsce Guya Deniau przy wejściu na Hale?
+$GEN_040_WIT_00_B_01
+Najpierw on je zajął po zmarłym handlarzu, a w dogodnym momencie ja przejąłem to miejsce.
+$GEN_040_WIT_00_B_02
+Czy to był wasz pierwszy konflikt?
+$GEN_040_WIT_00_B_03
+Pod koniec lat siedemdziesiątych ten skończony nieudacznik pożyczył ode mnie 30 liwrów. Potem dwa lata musiałem domagać się spłaty.
+$GEN_040_WIT_00_B_04
+Obywatelu Deniau, widzę, że chcecie coś dodać, ale lepiej milczcie.
+$GEN_040_WIT_01_A_QTitle
+Skąd tego dnia obywatel miał przy sobie dziegieć?
+$GEN_040_WIT_01_A_00
+Skąd tego dnia obywatel miał przy sobie dziegieć?
+$GEN_040_WIT_01_A_01
+Handluję owocami, czasem moi dostawcy kupują dziegieć, bo odstrasza szkodniki.
+$GEN_040_WIT_01_A_02
+A dlaczego wlaliście go do beczki ze śledziami Guya Deniau?
+$GEN_040_WIT_01_A_03
+Niczego takiego nie zrobiłem, musiał sam sobie wlać, żeby znowu na mnie donieść.
+$GEN_040_WIT_01_A_04
+Kłamstwo!
+$GEN_040_WIT_01_A_05
+Spokój.
+$GEN_040_WIT_01_B_QTitle
+Pomiędzy wizytą obywatela Deniau na posterunku i waszym zgłoszeniem...
+$GEN_040_WIT_01_B_00
+Pomiędzy wizytą obywatela Deniau na posterunku i waszym zgłoszeniem o wandalizmie minęło kilka godzin. Co działo się w tym czasie?
+$GEN_040_WIT_01_B_01
+Co się działo? Szydził z moich śmierdzących śledzi!
+$GEN_040_WIT_01_B_02
+Nic takiego, handlowaliśmy jak co dnia.
+$GEN_040_WIT_01_B_03
+I nagle Guy Deniau chwycił za drąg i zaczął niszczyć wasz stragan?
+$GEN_040_WIT_01_B_04
+Oszalał nagle, jak zwierzę.
+$GEN_040_WIT_01_B_05
+Obywatelu Courbis, proszę ze mnie nie robić głupka…
+$GEN_040_KEY_01
+Paryskie Hale
+$GEN_040_KEY_02
+Dziegieć
+$GEN_040_KEY_03
+Drewniany drąg
+$GEN_040_KEY_04
+Stragan przy wejściu
+$GEN_040_KEY_05
+Stary donos
+$GEN_040_KEY_06
+Agitacja antyrewolucyjna
+
+

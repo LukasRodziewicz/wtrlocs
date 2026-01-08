@@ -1,0 +1,150 @@
+#BATTLE_TURNS
+Turno {0}
+#LAST_STAND
+¡Última oportunidad!
+#BATTLE_WIN
+¡Has ganado!
+#BATTLE_LOSE
+¡Has perdido!
+#BATTLE_DRAFT
+¡Empate!
+#BATTLE_TURN
+Turno {0}
+#BATTLE_TURN_LINE
+Turno {0}
+#BATTLE_SUMMARY_ENEMY
+Oponente:
+#BATTLE_SUMMARY_PLAYER
+Jugador:
+#START_BATTLE
+Librar una batalla
+#PENDING_BATTLE
+Batalla en curso
+#BALANCE_OF_POWER
+Equilibrio de poder
+#CHOOSE_TACTIC
+Elige táctica
+#TACTIC_INACTIVE
+Esta táctica no está disponible
+#TACTIC_LOCKED
+Esta táctica fue bloqueada por un modificador
+#MEDIC_USED
+El médico ya ha sido enviado.
+#TACTIC_NEUTRAL
+Neutral
+#TACTIC_NEUTRAL_DESC
+Una táctica equilibrada: no otorga ventajas significativas, pero tampoco reduce notablemente el poder de ataque de tus tropas.
+#TACTIC_BREAK
+Asalto frontal
+#TACTIC_BREAK_DESC
+Un asalto heroico en primera línea. Especialmente eficaz si cuentas con muchos tiradores. Menos efectivo cuando tu infantería está debilitada.
+#TACTIC_FIRING
+Fuego de supresión
+#TACTIC_FIRING_DESC
+Tus tiradores descargan una lluvia de balas sobre todas las líneas enemigas, mientras la infantería intenta mantener la posición. Táctica especialmente eficaz contra un enemigo a la defensiva.
+#TACTIC_DEFENSE
+Defensa
+#TACTIC_DEFENSE_DESC
+Tus tropas luchan con menos ferocidad, pero reciben una gran bonificación a la defensa. Esta táctica puede ser especialmente efectiva cuando cuentas con muchos infantes.
+#TACTIC_TRENCH
+Atrincherarse
+#TACTIC_TRENCH_DESC
+La artillería ataca más líneas, mientras el resto de las filas pasa a la defensa.
+#BATTLE_STATS_ATTACK_BONUS
+Bono al ataque
+#BATTLE_STATS_ATTACK_PENALTY
+Penalización al ataque
+#BATTLE_STATS_DEFENSE_BONUS
+Bono a la defensa
+#BATTLE_STATS_DEFENSE_PENALTY
+Penalización a la defensa
+#MUSKETEERS
+Mosqueteros
+#INFANTRY
+Infantería
+#ARTILLERY
+Artillería
+#BATTLE_OPPONENT_01
+Agresivo
+#BATTLE_OPPONENT_02
+Defensivo
+#BATTLE_OPPONENT_03
+Neutral
+#TUTORIAL_OPPONENT
+Invasor
+#BATTLE_OPPONENT_CUT_22
+Partidarios de Gobel
+#BATTLE_OPPONENT_CUT_28
+Hanriot
+#BATTLE_MEDIC_AVAILABLE
+Enviar médico
+#BATTLE_MEDIC_REWIND
+Restablecer
+#BATTLE_MEDIC_DISABLED
+No hay ningún médico disponible.
+#BATTLE_REFUGEES_HEADER
+Civiles en la Sección
+#BATTLE_REFUGEES_TITLE
+Otros
+#BATTLE_RESCUED_REFUGEES_TITLE
+Supervivientes
+#BATTLE_SUMMARY_AGENTS_LOST
+Agentes muertos
+#BATTLE_SUMMARY_AGENT_MEDIC
+Médico
+#BATTLE_SUMMARY_AGENT_COORDINATOR
+Especialista en logística
+#BATTLE_REFUGEES_NEW_TURN
+{0} civiles escaparon en este turno
+#BATTLE_EVENT_TITLE_01
+Aguacero
+#BATTLE_EVENT_DESC_01
+Los tiradores tienen -50% de poder de ataque. Los residentes huyen un 20% más lento.
+#BATTLE_EVENT_TITLE_02
+Callejón estrecho
+#BATTLE_EVENT_DESC_02
+Bloquea las tácticas ofensivas.
+#BATTLE_EVENT_TITLE_03
+Suministros enemigos
+#BATTLE_EVENT_DESC_03
+El enemigo lucha con mayor ferocidad.
+#BATTLE_EVENT_TITLE_04
+Barricadas
+#BATTLE_EVENT_DESC_04
+Tus unidades son más eficaces gracias a las fortificaciones.
+#BATTLE_EVENT_TITLE_05
+Miedo paralizante
+#BATTLE_EVENT_DESC_05
+Los residentes escapan un 30% más lento.
+#BATTLE_EVENT_TITLE_06
+Valentía
+#BATTLE_EVENT_DESC_06
+Tus tropas luchan con mayor ferocidad.
+#BATTLE_EVENT_TITLE_100
+Soldados heridos
+#BATTLE_EVENT_DESC_100
+Tus soldados atacan con un 50% menos de eficacia.
+#BATTLE_EVENT_TITLE_101
+Fanatismo
+#BATTLE_EVENT_DESC_101
+La milicia enemiga lucha con más ferocidad.
+#BATTLE_SUMMARY_REFUGEES_TITLE
+Civiles:
+#BATTLE_SUMMARY_REFUGEES_RESCUED
+Rescatados: {0}
+#BATTLE_SUMMARY_REFUGEES_DEAD
+Muertos: {0}
+$TUTORIAL_BATTLE_DIALOG_01
+Nuestra retaguardia se enfrentó al enemigo y fue derrotada. El enemigo irrumpió en el campamento donde atendían a los heridos. Tuvimos que tomar las armas.
+$TUTORIAL_BATTLE_DIALOG_02
+Tu hermano luchó como un hombre poseído. La gente se agolpaba a su alrededor.
+$TUTORIAL_BATTLE_DIALOG_03
+Confiábamos en que los refuerzos venían en nuestro auxilio. Pero sabíamos que llegarían demasiado tarde…
+$TUTORIAL_BATTLE_DIALOG_04
+Una bayoneta me atravesó por completo. Me desangraba, y mis amigos caían abatidos por las balas, uno tras otro.
+$GOBEL_BATTLE_OPPONENT_01
+¡Muerte a quienes se atrevan a alzar la mano contra la Iglesia!
+$GOBEL_BATTLE_JUDGE_02
+No es contra la Iglesia, sino contra sus sacerdotes codiciosos. ¡Contra aquellos que están hundiendo a Francia!
+$GOBEL_BATTLE_OPPONENT_03
+No hay diferencia. ¡No lo permitiremos! ¡Hace tiempo que deberíamos haber clavado vuestras cabezas en picas!

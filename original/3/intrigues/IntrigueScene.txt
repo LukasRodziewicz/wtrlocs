@@ -1,0 +1,38 @@
+$INTRIGUE_MINIGAMEBUTTON_ACTIVE
+Выполнить действие
+$INTRIGUE_MINIGAMEBUTTON_INACTIVE
+Действие выполнено
+$INTRIGUE_SELECTAGENTPATH_NONE
+Выберите способ решения
+$INTRIGUE_SELECTAGENTPATH_DIPLOMAT
+Дипломатия
+$INTRIGUE_SELECTAGENTPATH_SPY
+Шпионаж
+$INTRIGUE_SELECTAGENTPATH_GUARD
+Сила
+$INTRIGUE_WINCHANCE_HEADER
+Вероятность успеха
+$INTRIGUE_CANCLOSESTATE
+Ожидание развития событий
+$INTRIGUE_PENDINGACTIONSSTATE
+Ожидание решения игрока
+$INTRIGUE_SELECT_BLOCK
+Выберите действие
+$PERSUASION_BRIBEBUTTONTEXT
+Отправить дипломата
+$PERSUASION_PERSUASIONBUTTONTEXT
+Убедить
+$PERSUASION_HEADER_COUNTER
+Привлеченные сторонники:
+$INTRIGUE_PERFECT_WIN
+Превосходная интрига
+$INTRIGUE_WIN
+Успешная интрига
+$INTRIGUE_DEFEAT
+Неудавшаяся интрига
+$INTR_WIN_COUNTER
+Необходимо успехов для победы
+$INT_WIN_BONUS_COUNTER
+Необходимо успехов для бонуса
+$INTRIGUE_DIPLOMAT_SUCCESS_RATE
+Шанс: {0}%

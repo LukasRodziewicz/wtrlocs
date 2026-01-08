@@ -1,0 +1,87 @@
+$DISC_INTR_002_B11_DANTON_001_V1_DANTON
+Wybacz, że zauważam, ale pod paznokciami i na mankietach masz chyba… krew.
+$DISC_INTR_002_B11_DANTON_002_V1_JUDGE
+Wybacz, poprzednie spotkanie nie poszło dokładnie tak, jak tego oczekiwałem.
+$DISC_INTR_002_B11_DANTON_003_V1_DANTON
+Czyli nie widzimy się na przyjacielskiej herbacie?
+$DISC_INTR_002_B11_DANTON_004_V1_JUDGE
+Sam o tym zaraz zdecydujesz.
+
+$DISC_INTR_002_B11_DANTON_001_V2_DANTON
+Z pewnością wytłumaczysz mi zaraz, dlaczego ściągnąłeś mnie tutaj tak późną porą. I w dodatku w deszcz.
+
+$DISC_INTR_002_B11_DANTON_004_JUDGE_AGGR
+Wiem o twoim sojuszu z Pache’em. Nie próbuj denerwować mnie zaprzeczaniem.
+$DISC_INTR_002_B11_DANTON_005_JUDGE_MANI
+Dostałem od zaprzyjaźnionych dusz informację o tym, że zawiązałeś skryty sojusz z merem Paryża. 
+$DISC_INTR_002_B11_DANTON_006_JUDGE_JOKE
+Kto by pomyślał, że się tak wpakujesz. Wiem, że knujesz coś z Pache’em.
+$DISC_INTR_002_B11_DANTON_007_JUDGE_HUMI
+Nie odbierz tego źle, ale twój cichy sojusz z Pache’em przestał być całkowitą tajemnicą. Nie chcę ci bruździć, ale w świetle tego, czego udało mi się o nim dowiedzieć, pomyślałem, że warto porozmawiać…
+$DISC_INTR_002_B11_DANTON_008_DANTON_INTR
+Na co ci ta wiedza?
+$DISC_INTR_002_B11_DANTON_009_DANTON_DOUB
+Możliwe, że trochę przeceniasz wartość swoich informacji. Interesują cię teraz zwykłe polityczne sojusze deputowanych?
+$DISC_INTR_002_B11_DANTON_010_DANTON_IRRI
+Wiesz, ile razy ktoś próbował mnie tak podejść? Co mnie obchodzi, że wiesz, z kim zawieram polityczne sojusze?
+
+$DISC_INTR_002_B11_DANTON_011_JUDGE_AGGR
+Mam zeznanie, w którym pewna osoba potwierdza, że Pache jest austriackim szpiegiem. Z taką kulą u nogi pójdziesz, kolego, na samo dno.
+$DISC_INTR_002_B11_DANTON_012_JUDGE_MANI
+Mam zeznanie, że Pache to austriacki agent. Przyciśniemy go tak, że publicznie przyzna, z kim wchodził w sojusze. W nagrodę ucieknie gilotynie – wspólnicy już nie.
+$DISC_INTR_002_B11_DANTON_013_JUDGE_JOKE
+Dla gilotyny to obojętne, czy skazujemy tego, który zdradził, czy tych, którzy mu pomagali. Tak się składa, że mam dowód na współpracę Pache’a z Austriakami. A skoro razem działacie…
+$DISC_INTR_002_B11_DANTON_014_JUDGE_HUMI
+Twoje zaangażowanie w sprawy rewolucji nie powinno zostać przykryte przez skandal. A taki niechybnie wybuchnie, kiedy ujawnię pisemne zeznanie informatora, że Pache to austriacki szpieg. Publika będzie się domagała ukarania jego kompanów…
+$DISC_INTR_002_B11_DANTON_015_DANTON_INTR
+Masz moją uwagę.
+$DISC_INTR_002_B11_DANTON_016_DANTON_DOUB
+Nic nowego, przechodziłem to – oskarżano mnie już o szpiegostwo.
+$DISC_INTR_002_B11_DANTON_017_DANTON_IRRI
+Myślałem, że będziemy rozmawiać na poziomie, a jedyne, co słyszę, to groźby i insynuacje.
+$DISC_INTR_002_B11_DANTON_018_DANTON_AGGR
+Powiesz wreszcie coś, czego jeszcze nie słyszałem od innych szantażystów?!
+
+$DISC_INTR_002_B11_DANTON_019_JUDGE_AGGR
+Istnieje również podejrzenie graniczące z pewnością, że to Pache zaplanował zamach na mnie. Zapłaci za to, ale jego sojusznicy dostaną wybór. Jeśli ktoś nie skorzysta z drogi odkupienia – zginie.
+$DISC_INTR_002_B11_DANTON_020_JUDGE_MANI
+Możesz też zostać zamieszany w zamach na sędziego Trybunału. Skoro współpracowałeś z Pache’em, który ten zamach opłacił…
+$DISC_INTR_002_B11_DANTON_021_JUDGE_JOKE
+Że też trafiło ci się, iż zawarłeś sojusz z człowiekiem, który zorganizował zamach na moje życie. Kogo będzie obchodzić, że z tym akurat nie miałeś nic wspólnego?
+$DISC_INTR_002_B11_DANTON_022_JUDGE_HUMI
+Pache zaplanował zamach na moje życie. Będzie musiał ponieść sprawiedliwą karę, ale ty nie musisz. Wiem, że nie miałeś z tym nic wspólnego, ale ludowi objawisz się jako wspólnik zbrodniarza i całe twe dziedzictwo runie w minutę.
+
+$DISC_INTR_002_B11_DANTON_023_JUDGE_AGGR
+Nadchodzi czas kary dla Pache’a. Opuść jego obóz i sprzymierz się ze mną albo podzielisz jego los! Wybieraj i ciesz się, że w ogóle masz wybór.
+$DISC_INTR_002_B11_DANTON_024_JUDGE_MANI
+Chcesz pozostać przy człowieku, nad którym wisi ostrze gilotyny, czy sprzymierzyć się z osobą, która tym ostrzem włada? Przyjaźń z Pache’em skraca ci drogę na szafot. Co będzie lepsze dla twoich interesów?  
+$DISC_INTR_002_B11_DANTON_025_JUDGE_JOKE
+Kiedy dopadnę Pache’a, gilotyna pójdzie w ruch. Daję ci szansę sojuszu z osobą, która decyduje, jak zaśpiewa gilotyna – czyli ze mną. Polityka to sztuka opuszczania sojuszników, którzy ciągną cię na dno.
+$DISC_INTR_002_B11_DANTON_026_JUDGE_HUMI
+Pache’a nie da się już uratować. Ciebie można. Nie kończ swojego życia na gilotynie przez takiego człowieka. A sojusz ze mną, z osobą, która tą gilotyną włada, zmniejszy znacząco ryzyko dekapitacji.
+$DISC_INTR_002_B11_DANTON_027_DANTON_INTR
+Faktycznie, znajomość z Pache’em wydaje się zbyt dużym ciężarem. Chętnie uczynię, o co mnie prosisz.
+$DISC_INTR_002_B11_DANTON_028_DANTON_DOUB
+Zapominasz, że nazywam się Danton i mam w tym mieście więcej przyjaciół… Z drugiej strony sytuacja jest nieciekawa. Niech będzie, zobaczę, co wywiąże się z naszej współpracy.
+$DISC_INTR_002_B11_DANTON_029_DANTON_IRRI
+Zapraszasz mnie po to, by mnie straszyć? Zapomnij o jakiejkolwiek współpracy. Żegnam.
+$DISC_INTR_002_B11_DANTON_030_DANTON_AGGR
+Ty parszywy sędzino! Chcesz ze mnie zrobić posłusznego psa?! Nazywam się Danton i to ja trzymam ludzi na smyczy!
+
+$DISC_INTR_002_B11_DANTON_TOPIC_01
+Wiem o twoim sojuszu z Pache’em.
+$DISC_INTR_002_B11_DANTON_TOPIC_02
+Pache współpracuje z wrogim krajem.
+$DISC_INTR_002_B11_DANTON_TOPIC_03
+Pache może być zamieszany w zamach na sędziego.
+$DISC_INTR_002_B11_DANTON_TOPIC_04
+Sędzia Trybunału jest pewniejszą opcją.
+
+$DISC_INTR_002_B11_DANTON_001_SUCCESS_JUDGE
+Muszę wiedzieć, co knuliście z Pache’em.
+$DISC_INTR_002_B11_DANTON_002_SUCCESS_DANTON
+Chodzi o most, most Zgody.
+$DISC_INTR_002_B11_DANTON_003_SUCCESS_JUDGE
+Ten, którego budowlańcy nie mogą dokończyć?
+$DISC_INTR_002_B11_DANTON_004_SUCCESS_DANTON
+Ten, którego dokończenie blokowaliśmy razem z merem…

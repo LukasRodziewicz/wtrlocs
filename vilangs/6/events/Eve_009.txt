@@ -1,0 +1,18 @@
+$EVE_009_TITLE
+Las órdenes son órdenes
+$EVE_009_INTRO
+Señor juez, ha ocurrido una tragedia a dos calles de aquí. ¡La gente pide a un juez!
+$EVE_009_C00
+Salir afuera
+$EVE_009_MAIN_01
+El guardia te conduce apresuradamente a la escena del crimen, donde una multitud enfurecida rodea a varios soldados armados que intentan apartar a los civiles de dos hombres de cara a la pared. Pronto te enteras de que el comandante François Hanriot ha ordenado, en ausencia, la ejecución de los delincuentes que intentaron robar armas de un transporte militar. El pueblo exige tu intervención y un juicio justo, pero sería imprudente desafiar las órdenes de un comandante, especialmente de uno que ascendió gracias a tus acciones…
+$EVE_009_MAIN_01_C1
+Ordene que los detenidos sean fusilados
+$EVE_009_MAIN_01_C2
+Ordena que liberen a los hombres
+$EVE_009_MAIN_02A
+Decenas de personas te miran con asombro mientras los soldados se preparan para disparar. ¡BAM! Los dos hombres caen, sin vida. Ya no hay nada más que ver aquí, y te marchas…
+$EVE_009_MAIN_02B
+La gente asiente con aprobación. Los soldados, confundidos, finalmente te obedecen y llevan a los hombres a la cárcel. Sin embargo, no te engañes pensando que no habrá consecuencias para ti, incluso si otro juez es asignado a su juicio. Alguien tendrá que pagar por el daño causado a la reputación del Comandante.
+$EVE_009_MAIN_03
+He oído rumores de que, tras tu intervención en la ejecución, uno de los soldados fue fusilado por negarse a obedecer la orden de un comandante. Era la misma orden que tú le prohibiste cumplir, y a otros dos soldados también se les impondrá castigo corporal. Tu discreta alianza con Hanriot podría estar en peligro.

@@ -1,0 +1,24 @@
+$DIAL_CO_02_GOBEL_SON_001_GUARD
+J'ai essayé de l'arrêter, mais cette canaille se débattait et s'apprêtait à hurler si fort qu'il aurait perturbé toute la salle.
+$DIAL_CO_02_GOBEL_SON_002_JUDGE
+Tranquillise-toi, je reconnais ce jeune homme. C'est lui qui a mis la vie de l'archevêque Gobel sens dessus dessous.
+$DIAL_CO_02_GOBEL_SON_003_BOUTIN
+Je m'appelle Boutin. Je suis son fils.
+$DIAL_CO_02_GOBEL_SON_004_JUDGE
+Je crois connaître la raison de ta venue. Sache toutefois que Gobel n'est plus archevêque et jouit désormais d'une totale immunité.
+$DIAL_CO_02_GOBEL_SON_005_BOUTIN
+Aide-moi, je t'en supplie ! N'importe comment…
+$DIAL_CO_02_GOBEL_SON_006_JUDGE
+Es-tu donc sourd ? As-tu entendu ce que je viens de dire ? Gobel est intouchable, Hébert s'est allié à lui. Si seulement tu étais venu plus tôt…
+$DIAL_CO_02_GOBEL_SON_007_BOUTIN
+Je suis allé voir Jacques-Louis David, le citoyen Danton…
+$DIAL_CO_02_GOBEL_SON_008_JUDGE
+Si je suis sûr d'une chose, c'est que Danton ne t'aidera pas. Écoute-moi : c'est fini. Gobel a assuré sa carrière de politicien. Emmène donc ta mère loin de Paris et tourne la page.
+$DIAL_CO_02_GOBEL_SON_009_BOUTIN
+Mère est morte il y a plusieurs années déjà, humiliée, se languissant après son amour !
+$DIAL_CO_02_GOBEL_SON_010_JUDGE
+Tu m'en vois navré, mais il n'y a rien que je puisse faire. Le monde aime le nouvel archevêque apostat.
+$DIAL_CO_02_GOBEL_SON_011_BOUTIN
+Personne ne m'aidera donc ?
+$DIAL_CO_02_GOBEL_SON_012_JUDGE
+Non, désolé. Tu vas devoir vivre ainsi.

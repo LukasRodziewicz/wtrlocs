@@ -1,0 +1,246 @@
+$FAB_004_DOC_1_HEADER
+Zusammengestellt von: Nathan d’Essiraf
+$FAB_004_DOC_1_00
+Der Angeklagte ist Olivier Mugler, ein 65-jähriger <a name="1" class="hidden">Schlossermeister</a>, der unter den Pariser Einbrechern als Experte für unknackbare Schlösser gilt.
+$FAB_004_DOC_1_01
+Im vergangenen Monat beauftragten die Besitzer einer Pariser Glasmanufaktur – Jean Rude, Louis Roux und Ferdinand Salan – ihn damit, <a name="2" class="hidden">Schlösser</a> für kunstvoll verzierte Truhen zur Aufbewahrung von Wertgegenständen anzufertigen, vermutlich als Geschenke für ihre Ehefrauen. Der Handwerker pries sein neuestes Werk als „einbruchsicher“. Kurz nach der Fertigstellung wurden die Häuser der Industriellen von <a name="3" class="hidden">einer Einbruchsserie</a> heimgesucht, begangen von einem Neuankömmling in Paris, Hector Vian. Der <a name="4" class="hidden">Dieb aus Orléans</a> wurde auf frischer Tat ertappt und von Ferdinand Salan erschossen.
+$FAB_004_DOC_1_02
+Bei dem Toten wurde eine teure Turgot-Karte von Paris gefunden, auf der die <a name="5" class="hidden">Häuser</a> der kürzlich ausgeraubten Industriellen markiert waren. Erstaunlicherweise hatte Salan Mugler eine identische Karte als Vorschuss übergeben. Diese Kaution kam zusätzlich zur vereinbarten Vergütung aller Auftraggeber.
+$FAB_004_DOC_1_03
+Weitere interessante Informationen erhielten wir von der Besitzerin des Gasthauses „Zur Roten Margot“. Sie erinnerte sich, dass der Schlosser in der Nacht vor dem Einbruch dort mit einem Mann zusammentraf, den sie nicht kannte. Anhand ihrer Beschreibung konnten wir ihn als den bereits erwähnten Hector Vian identifizieren. Die beiden Männer sollen sich angeblich auf eine <a name="7" class="hidden">feuchtfröhliche Zecherei</a> auf Muglers Kosten eingelassen haben.
+$FAB_004_DOC_1_04
+Beweis:
+$FAB_004_DOC_1_05
+<a name="8" class="hidden">Eine Karte von Paris</a>, gefunden bei Hector Vian.
+$FAB_004_OnStart_00
+Die Bourgeoisie zu bestehlen ist kein Verbrechen!
+$FAB_004_OnStart_01
+Laut Aktenlage sind Sie Bürger Olivier Mugler. Ist das korrekt?
+$FAB_004_OnStart_02
+In der Tat, monsieur le juge. Dürfte ich um etwas bitten? Ich würde mich gern setzen. Sehen Sie, ich bin ein alter Mann...
+$FAB_004_OnStart_03
+Elementarer Respekt vor dem Gericht verlangt, dass Sie stehen bleiben. Sagen Ihnen die Namen Salan, Rude und Roux etwas?
+$FAB_004_OnStart_04
+Warum quälen Sie einen alten Mann so beharrlich?
+$FAB_004_OnStart_05
+Klingt, als wären das die Namen meiner Schuldner.
+$FAB_004_OnStart_06
+Schuldner? Das sind die Opfer Ihrer eigenen Handlungen.
+$FAB_004_OnStart_07
+Meinen Sie das Schlosserhandwerk?
+$FAB_004_OnPrison_00
+Ich verurteile Bürger Mugler zu einer Gefängnisstrafe! Führt den Verurteilten ab.
+$FAB_004_OnPrison_01
+Empörend!
+$FAB_004_OnPrison_02
+Wie können Sie so etwas einem Unschuldigen antun?
+$FAB_004_OnPrison_03
+Wir haben die Indizien, stichhaltige Beweise… und ein passendes Urteil – zumindest für den Richter. Aber bist du dir seiner Schuld wirklich ganz sicher?
+$FAB_004_OnNotGuilty_00
+Das Urteil für Bürger Olivier Mugler lautet… nicht schuldig! Führt den Angeklagten ab.
+$FAB_004_OnNotGuilty_01
+Bravo, Mugler!
+$FAB_004_OnNotGuilty_02
+Fort mit dem Bürgertum!
+$FAB_004_OnNotGuilty_03
+Um ehrlich zu sein, das trägt durchaus Züge von sozialer Gerechtigkeit – sie wollten ihn nicht bezahlen, also ließ er sie berauben. Das ist ein Ausgleich.
+$FAB_004_02x05_00_QTitle
+Die Opfer haben Sie beauftragt, Schlösser für Truhen anzufertigen …
+$FAB_004_02x05_00_00
+Die Opfer haben Sie beauftragt, Truhenschlösser anzufertigen. Wer hat sie eingebaut?
+$FAB_004_02x05_00_01
+Das war natürlich ich, ganz wie im Vertrag vereinbart. Meine Aufgabe war es, die Schlösser anzufertigen und einzubauen, und der Auftraggeber musste nur prüfen, ob die Arbeit erledigt war. Und natürlich bezahlen.
+$FAB_004_02x05_00_02
+Wurde die Installation in Ihrer Werkstatt durchgeführt?
+$FAB_004_02x05_00_03
+Nein, direkt vor Ort, beim Kunden. Keiner dieser Faulpelze hat sich bemüht, die Truhen zu meiner Werkstatt zu bringen, also musste ich meine alten Beine anstrengen.
+$FAB_004_02x05_00_04
+Heißt das, Sie kannten die Adressen der Opfer?
+$FAB_004_02x05_00_05
+Wie hätte ich sonst dorthin kommen sollen? Mit verbundenen Augen auf einem Wagen?
+$FAB_004_04x07_01_QTitle
+Kannten Sie Hector Vian bereits zuvor?
+$FAB_004_04x07_01_00
+Kannten Sie Hector Vian bereits zuvor?
+$FAB_004_04x07_01_01
+Diesen Namen höre ich zum ersten Mal.
+$FAB_004_04x07_01_02
+Das ist ja interessant, wo man euch doch zusammen im Gasthaus Zur Roten Margot bei mehreren Flaschen Wein gesehen hat.
+$FAB_004_04x07_01_03
+Gilt das jetzt als Verbrechen?
+$FAB_004_04x07_01_04
+Nein, aber die Frage ist: Warum leugnen Sie es jetzt? Diente Ihr Trinkgelage nur als Vorwand, um den Einbruch zu besprechen?
+$FAB_004_04x07_01_05
+Keiner, mit dem ich getrunken habe, hat sich als Hector vorgestellt. Ich habe keinen Raub mit einem Hector, Victor oder Hugo geplant. Ich bin Schlosser und verdiene damit gutes Geld. Einbrüche sind etwas für arbeitslose Herumtreiber.
+$FAB_004_06x08_02_QTitle
+Erkennen Sie diese Karte?
+$FAB_004_06x08_02_00
+Erkennen Sie diese Karte?
+$FAB_004_06x08_02_01
+Nein. Ich kann mich nicht erinnern, das jemals zuvor gesehen zu haben.
+$FAB_004_06x08_02_02
+Ferdinand Salan behauptet, er habe Ihnen diese Karte als Vorschuss für Ihre Dienste gegeben.
+$FAB_004_06x08_02_03
+Was behauptet er?! Dieser niederträchtige, zweitklassige Krämer! Er drückt mir einen Fetzen Papier als Bezahlung für drei Schlösser in die Hand und behauptet, das sei mehr wert als die 3.000 Francs, die er mir schuldet?!
+$FAB_004_06x08_02_04
+Ein ehrlicher Arbeiter wird verurteilt, während Betrüger weiterhin frei herumlaufen!
+$FAB_004_06x08_02_05
+Ruhe! Gehört diese Karte also Ihnen?
+$FAB_004_06x08_02_06
+Nein, tut es nicht.
+$FAB_004_06x08_02_07
+Wo ist also die Karte, die Sie von Bürger Salan erhalten haben?
+$FAB_004_06x08_02_08
+Ich habe sie verloren, aber sie war nicht mal ein Stück Brot wert, also werde ich ihr sicher keine Träne nachweinen. Aber falls Sie sie haben, haben Sie sie vielleicht von mir gestohlen! Notieren Sie besser, dass Olivier Mugler eine Entschädigung von Rude, Roux und Salan fordert!
+$FAB_004_05x08_03_QTitle
+Waren Sie es, der die Adressen der drei Opfer auf der Karte markiert hat?
+$FAB_004_05x08_03_00
+Waren Sie es, der die Adressen der drei Opfer auf der Karte markiert hat?
+$FAB_004_05x08_03_01
+Ich habe nichts markiert.
+$FAB_004_05x08_03_02
+Die Häuser Ihrer Klienten sind auf der Karte markiert.
+$FAB_004_05x08_03_03
+Ich weiß nicht, wer sie markiert hat. Vielleicht sollten Sie denjenigen fragen, bei dem Sie die Karte gefunden haben.
+$FAB_004_05x08_03_04
+Vielleicht hat das Gericht die Markierungen selbst gemacht und kann sich nicht mehr daran erinnern?
+$FAB_004_05x08_03_05
+Finden Sie nicht, dass es in Ihrer Geschichte zu viele Zufälle gibt? Sie erhalten die Karte, verlieren sie, und dann wird sie bei dem Dieb gefunden, der Ihre Klienten beraubt hat?
+$FAB_004_05x08_03_06
+Von Zufällen verstehe ich nichts. Ich fertige nur Schlösser.
+$FAB_004_01x02_04_QTitle
+Wie viel haben Sie für Ihre Dienste verlangt?
+$FAB_004_01x02_04_00
+Wie viel haben Sie für Ihre Dienste verlangt?
+$FAB_004_01x02_04_01
+3.000 Francs.
+$FAB_004_01x02_04_02
+Das ist eine ganz ordentliche Summe...
+$FAB_004_01x02_04_03
+Wenn du ein Meisterschlosser wärst, würdest du genauso viel verlangen.
+$FAB_004_01x02_04_04
+Das ist eine beträchtliche Gebühr …
+$FAB_004_01x02_04_05
+In der Tat. So viel kostet es, wenn ein Meister mit fast fünfzig Jahren Erfahrung hochwertige Schlösser anfertigt. Und diese Halunken haben mir keinen einzigen Franc bezahlt!
+$FAB_004_01x02_04_06
+Haben die Opfer Ihnen nicht den vereinbarten Betrag gezahlt?
+$FAB_004_01x02_04_07
+Keinen einzigen Franc. Früher hätte ich ihnen das Geld rausgeprügelt, aber dafür bin ich inzwischen zu alt.
+$FAB_004_04x06_05_QTitle
+Haben Sie Hector Vian die Karte gegeben…?
+$FAB_004_04x06_05_00
+Haben Sie Hector Vian die Karte mit den markierten Häusern der Opfer gegeben?
+$FAB_004_04x06_05_01
+Ich habe weder Achilles noch Hektor noch irgendeinem anderen Griechen etwas gegeben.
+$FAB_004_04x06_05_02
+Rufen Sie den Zeugen, Bürger Jean Rude, herein.
+$FAB_004_04x06_05_04
+Jean Rude, leibhaftig.
+$FAB_004_04x06_05_05
+Sie sprechen nur, wenn Sie dazu aufgefordert werden.
+$FAB_004_04x06_05_06
+Natürlich, selbstverständlich.
+$FAB_004_01x03_06_QTitle
+Man munkelt, Sie seien einer der besten Schlosser in ganz Paris.
+$FAB_004_01x03_06_00
+Man munkelt, Sie seien einer der besten Schlosser in ganz Paris.
+$FAB_004_01x03_06_01
+Aus Bescheidenheit sollte ich es abstreiten, aber das werde ich nicht tun.
+$FAB_004_01x03_06_02
+Das kann jedoch nicht stimmen, denn ein gewöhnlicher Dieb aus Orléans hat Ihre Schlösser mühelos geknackt.
+$FAB_004_01x03_06_03
+Nun, dann war er wohl einer der besten Diebe in ganz Orléans. Seien wir ehrlich, Monsieur le Juge, jedes Schloss lässt sich mit dem nötigen Talent knacken – sogar meine.
+$FAB_004_02x04_07_QTitle
+Haben Sie Hector Vian erklärt, wie man es aufbricht…?
+$FAB_004_02x04_07_00
+Haben Sie Hector Vian erklärt, wie man die Schlösser an den Truhen der Opfer öffnet?
+$FAB_004_02x04_07_01
+Ich verstehe, worauf Sie hinauswollen, aber bedenken Sie Folgendes: Hätte er das Geheimnis meiner Schlösser verraten, wäre mein Geschäft ruiniert. Unter Dieben spricht sich so etwas schnell herum.
+$FAB_004_WIT_00_A_QTitle
+Was wurde beim Einbruch gestohlen?
+$FAB_004_WIT_00_A_00
+Was wurde beim Einbruch gestohlen?
+$FAB_004_WIT_00_A_01
+Mein Haus war das erste, das ausgeraubt wurde, und bei mir waren es vor allem Wertsachen. Bei Roux – er wird es selbst nicht zugeben, und ich will nicht ins Gefängnis – waren es die Briefe, die er über die Jahre mit König Ludwig gewechselt hatte…
+$FAB_004_WIT_00_A_02
+Verdammter Monarchist!
+$FAB_004_WIT_00_A_03
+Salan hat nichts verloren, er hat dieses Ungeziefer auf frischer Tat erschossen. So hat er es mir erzählt.
+$FAB_004_WIT_00_A_04
+Was ist mit den gestohlenen Gegenständen geschehen?
+$FAB_004_WIT_00_A_05
+Das ist weiterhin unklar. Laut Salan hatte Hector nichts bei sich. Ferdinand vermutet, dass er die übrigen Wertsachen irgendwo versteckt hat.
+$FAB_004_WIT_00_A_06
+Hat er die anderen Gegenstände versteckt, bevor er das letzte Haus ausgeraubt hat? Merkwürdig.
+$FAB_004_WIT_01_A_QTitle
+Du wirkst beunruhigt. Wovor hast du Angst?
+$FAB_004_WIT_01_A_00
+Du wirkst beunruhigt. Wovor hast du Angst?
+$FAB_004_WIT_01_A_01
+Monsieur le Richter, diese Menge hinter mir, und, Sie wissen schon…
+$FAB_004_WIT_01_A_02
+Weißt du was?
+$FAB_004_WIT_01_A_03
+Ich will nicht ins Gefängnis, und Salan hat gesagt, wenn ich vor Gericht Unsinn rede, bekomme ich ein paar Jahre. Stimmt das?
+$FAB_004_WIT_01_A_04
+Hat Bürger Ferdinand Salan Ihnen Anweisungen gegeben, was Sie aussagen sollen?
+$FAB_004_WIT_01_A_05
+Nein. Nun, er hätte vielleicht ein paar Ratschläge geben können, wie man mit wirrem Gerede keinen Ärger bekommt. Ich bin ziemlich nervös und rede manchmal wirres Zeug.
+$FAB_004_WIT_01_A_07
+Mehr Narr als Zeuge. So ist unser Bürgertum.
+$FAB_004_WIT_01_B_QTitle
+Vorauszahlung in Form einer Karte, deren Verschwinden, der Mord an einem Einbrecher und die ausbleibende Bezahlung für die Dienstleistung.
+$FAB_004_WIT_01_B_00
+Eine Anzahlung in Form einer Karte, ihr Verschwinden, der Mord an einem Einbrecher und die ausbleibende Bezahlung für die Dienste – all das ergibt eine recht seltsame Geschichte. Eine zudem äußerst verdächtige.
+$FAB_004_WIT_01_B_01
+Ich tue es nicht...
+$FAB_004_WIT_01_B_02
+Was murmeln Sie da?
+$FAB_004_WIT_01_B_03
+Wenn ich... etwas... sage, werde ich dann frei sein?
+$FAB_004_WIT_01_B_04
+Er weiß etwas!
+$FAB_004_WIT_01_B_05
+Bitte sagen Sie sofort aus, was Sie wissen!
+$FAB_004_WIT_01_B_06
+Diese Karte war Salans Idee. Er erzählte dem Dieb von dem Vorschuss, den wir dem Schlosser gegeben hatten, und schlug vor, dass Hector sie stiehlt.
+$FAB_004_WIT_01_B_07
+Und hat er das getan?
+$FAB_004_WIT_01_B_08
+Ganz genau, aber dann hat uns der Schuft selbst ausgeraubt! Später zwang uns Salan, dem Schlosser nichts zu zahlen, weil er angeblich den Dieb auf uns gehetzt hatte. Und ab da ging alles den Bach runter.
+$FAB_004_WIT_01_B_09
+So ist das mit dem Bürgertum! Er hat sie alle auf einen Schlag hinters Licht geführt.
+$FAB_004_WIT_01_B_10
+Es scheint, als hätte Bürger Salan alles geplant. Doch es gibt keine Beweise, die diesen Verdacht stützen. Vielleicht ist es Bürger Rude, der gegen seinen Partner intrigiert und ihm die Schuld zuschieben will?
+$FAB_004_WIT_01_B_11
+Und Vian ist tot, also wird er auf all das kein Licht mehr werfen können.
+$FAB_004_WIT_01_B_13
+Wäre ich jünger, würde ich diesem Salan eine Abreibung verpassen. Dieses Schwein, dieser Nichtsnutz, verlogener Bastard!
+$FAB_004_WIT_01_B_14
+Bitte, beherrschen Sie sich. Die Aussage eines Zeugen ist noch kein Beweis – weder für die Schuld des Bürgers Salan noch für Ihre Unschuld.
+$FAB_004_KEY_01
+Meisterschlosser
+$FAB_004_KEY_02
+Schlossbau
+$FAB_004_KEY_03
+Serie von Einbrüchen
+$FAB_004_KEY_04
+Berühmter Dieb
+$FAB_004_KEY_05
+Markierungen auf der Karte
+$FAB_004_KEY_06
+Vorschuss
+$FAB_004_KEY_07
+Trunkener Abend
+$FAB_004_KEY_08
+Karte von Paris
+$FAB_004_postCourt_00
+Sieh nur, eine echte Karte von Turgot. Es wäre doch schade, wenn sie in einem Tresor verstauben würde…
+$FAB_004_postCourt_01
+Das können wir nicht tun.
+$FAB_004_postCourt_02
+Das sind Gerichtsbeweise.
+$FAB_004_postCourt_03
+Nun, Mathilde hat mich schon vor langer Zeit gebeten, mich um mein Arbeitszimmer zu kümmern…
+$FAB_004_postCourt_04
+Abgemacht. Ich kenne jemanden, der diese Markierungen entfernen kann, ohne die Karte zu beschädigen.

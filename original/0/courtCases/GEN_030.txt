@@ -1,0 +1,295 @@
+$GEN_030_DOC_01_HEADER
+Sporządził: Nathan d’Essiraf
+$GEN_030_DOC_01_00
+	René Mazeaud, 43-letni sędzia jednego z paryskich trybunałów. Przed wybuchem rewolucji był zaufanym adwokatem potentatów handlowych i największych rodzin arystokratycznych. Po roku 1789 uwiedziony wzniosłymi ideami rewolucji postanowił wesprzeć ją, za co otrzymał stanowisko sędziego.
+$GEN_030_DOC_01_01
+	Został przez lud Paryża oskarżony o korupcję i sprzeniewierzenie się rewolucji w związku z <a name="2" class="hidden">uniewinnieniem Adèle</a> de Maillard, której zarzucano współudział w spisku zorganizowanym przez jej męża Emmanuela. W efekcie tych knowań zamordowano popularnego przewodniczącego Komisji Rewolucyjnej Gilberta Fustera.
+$GEN_030_DOC_01_02
+	O winie Adèle de Maillard świadczyły bezsporne dowody. Zwabiła mężczyznę do należącego do niej domku myśliwskiego i tam Fuster został zamordowany przez męża oskarżonej. Tymczasem <a name="4" class="hidden">prowadzący proces Adèle</a> Mazeaud <a name="5" class="hidden">odwiedził podsądną</a> w areszcie w trakcie zarządzonej przez niego przerwy procesowej, czego nie zwykło się praktykować. Sędziemu towarzyszył wówczas strażnik Roux. Po tych odwiedzinach proces został wznowiony i oskarżoną uniewinniono.
+$GEN_030_DOC_01_03
+	Rozwścieczony tłum zatrzymał sędziego tuż po wydaniu wyroku, a po naprędce przeprowadzonym przeszukaniu w domu sędziego <a name="7" class="hidden">znaleziono dokument</a> potwierdzający przyjęcie korzyści majątkowych od Adèlede Maillard.
+$GEN_030_DOC_01_04
+	Pikanterii sprawie dodaje fakt, że przed rewolucją Mazeaud był <a name="8" class="hidden">prawnikiem ojca Adèle</a>, Josepha de Maillarda, który dzięki niemu znacznie wzbogacił się na handlu zagranicznym. Sama de Maillard uznana jest obecnie za <a name="9" class="hidden">zaginioną</a>.
+
+$GEN_030_DOC_02_00
+<a name="10" class="hidden">Testament</a> Adeli de Maillard:
+$GEN_030_DOC_02_01
+	Ja, niżej podpisana Adèlede Maillard, będąca w pełni świadoma swych czynów, niniejszym czynię spadkobiercą przypadającego mi udziału w przyszłym spadku po mym ojcu Josephie de Maillardzie obywatela René Mazeauda. Jednocześnie oświadczam, że powyższy przyszły udział spadkowy należy do mojego majątku osobistego, wobec czego jest on wolny od roszczeń spadkobierców mojego zmarłego męża Emmanuela.
+ 
+Adèle de Maillard
+
+$GEN_030_OnStart_00
+Proszę podać swoje imię.
+$GEN_030_OnStart_01
+René Mazeaud, Wysoki Sądzie. Znam procedurę, dlatego proszę przejść do przedstawienia zarzutów.
+$GEN_030_OnStart_02
+Zatem oskarżony powinien wiedzieć, że o tym, co się dzieje na sali, decyduję ja, a nie podsądny oczekujący na wyrok.
+$GEN_030_OnStart_03
+Proszę o wybaczenie, nawyki zawodowe…
+$GEN_030_OnStart_04
+Pierze Mazeaud, zostałeś oskarżony o przyjęcie łapówki w zamian za uwolnienie Adèle de Maillard, wroga ludu i rewolucji. Jak zamierzasz się z tego wytłumaczyć?
+$GEN_030_OnStart_05
+Obywatelka de Maillard była niewinna, co jako sędzia zbadałem i orzekłem. Co do zarzutu korupcyjnego, to nie ma on oparcia w faktach i dowodach.
+$GEN_030_OnStart_06
+Przypomnę tylko, że dysponujemy testamentem de Maillard.
+$GEN_030_OnStart_07
+On nie ma niczego wspólnego ze sprawą, nawet nie znałem jego treści.
+$GEN_030_OnGuilty_00
+Skazuję obywatela René Mazeauda na śmierć na gilotynie! Wyprowadzić skazanego.
+$GEN_030_OnGuilty_01
+Oczyściłeś honor swojego zawodu. 
+$GEN_030_OnGuilty_02
+Słusznie!
+$GEN_030_OnGuilty_03
+Tak powinno być!
+$GEN_030_OnNotGuilty_00
+Wyrok w sprawie René Mazeauda brzmi: niewinny! Wyprowadzić podsądnego.
+$GEN_030_OnNotGuilty_01
+Zdrada!
+$GEN_030_OnNotGuilty_02
+Aresztować tego sędziego!
+$GEN_030_OnNotGuilty_03
+Nie chcesz ustanowić precedensu, tak?
+$GEN_030_02x03_00_QTitle
+Dlaczego oskarżony uniewinnił Adèle de Maillard, skoro ułatwiła swemu mężowi...
+$GEN_030_02x03_00_00
+Dlaczego oskarżony uniewinnił Adèle de Maillard, skoro ułatwiła swemu mężowi zamordowanie przewodniczącego Fustera?
+$GEN_030_02x03_00_01
+Nie było przekonywających dowodów na świadome współsprawstwo obywatelki de Maillard w tym przestępstwie.
+$GEN_030_02x03_00_02
+Nie było też dowodów na to, że próbowała męża powstrzymać.
+$GEN_030_02x03_00_03
+To jednak zupełnie coś innego niż świadomy udział w zbrodni, prawda?
+$GEN_030_02x03_00_04
+Dekret o podejrzanych nie rozróżnia świadomego lub nieświadomego udziału w przestępstwie przeciwko rewolucji.
+$GEN_030_02x03_00_05
+Nie zastępuje też sumienia i zdrowego rozsądku. To tylko dekret o podejrzanych, nie o skazanych.
+$GEN_030_01x10_01_QTitle
+Czy ten testament był ceną za uniewinnienie Adèle de Maillard?
+$GEN_030_01x10_01_00
+Czy ten testament był ceną za uniewinnienie Adèle de Maillard?
+$GEN_030_01x10_01_01
+Nie, podsądna sporządziła go z własnej woli i według własnego uznania, a ja nie znałem jego treści.
+$GEN_030_01x10_01_02
+Oskarżony nie znał jego treści, chociaż był w jego posiadaniu. Ciekawe.
+$GEN_030_01x10_01_03
+Testament został sporządzony podczas mojej wizyty w areszcie, tam zapieczętowany i przekazany z prośbą o zdeponowanie u notariusza Jules’a Costy.
+$GEN_030_01x10_01_04
+Ale oskarżony był obecny przy jego sporządzaniu, miał więc możliwość wpłynięcia na jego treść!
+$GEN_030_01x10_01_05
+Gdybym znał treść testamentu, tobym po prostu skazał de Maillard na gilotynę i przejął spadek, czego nie zrobiłem.
+$GEN_030_01x10_01_06
+Dlaczego więc kobieta zapisała wszystko wam?
+$GEN_030_01x10_01_07
+Tego nie wiem, nawet nie próbuję zgadywać.
+$GEN_030_01x10_01_08
+Łączyło was coś osobistego?
+$GEN_030_01x10_01_09
+Znaliśmy się, ale nie byliśmy przyjaciółmi.
+$GEN_030_08x10_02_QTitle
+Oskarżony niegdyś pracował dla Josepha de Maillarda, ojca Adèle.
+$GEN_030_08x10_02_00
+Oskarżony niegdyś pracował dla Josepha de Maillarda, ojca Adèle. Jak oceniacie jego interesy i zgromadzony majątek?
+$GEN_030_08x10_02_01
+W momencie zakończenia współpracy interesy de Maillarda przynosiły około 2 milionów franków zysku i z tego, co wiem, są rentowne do dzisiaj.
+$GEN_030_08x10_02_02
+Zatem Adèle de Maillard przypadłaby znaczna suma spadkowa.
+$GEN_030_08x10_02_03
+Wiem, do czego sąd zmierza, ale zaprzeczam, abym z tego względu nakłaniał podsądną do uczynienia mnie swoim spadkobiercą.
+$GEN_030_08x10_02_04
+Jesteście zadziwiająco dobrze zorientowani w stanie majątkowym rodziny Maillard.
+$GEN_030_08x10_02_05
+Byłem ich prawnikiem. To nic dziwnego.
+$GEN_030_08x10_02_06
+Z ich pieniędzmi moglibyście żyć jak król. Wydaje mi się, że to duża pokusa.
+$GEN_030_08x10_02_07
+A wy byście się skusili?
+$GEN_030_08x10_02_08
+Nigdy.
+$GEN_030_08x10_02_09
+No właśnie, ja też się nie dałem.
+$GEN_030_05x06_03_QTitle
+Proszę wezwać świadka Simona Roux.
+$GEN_030_05x06_03_00
+Proszę wezwać świadka Simona Roux.
+$GEN_030_05x06_03_02
+Proszę się przedstawić.
+$GEN_030_05x06_03_03
+Simon Roux, na wezwanie obywatela sędziego.
+$GEN_030_08x09_04_QTitle
+Czy oskarżony znał Adèle de Maillard?
+$GEN_030_08x09_04_00
+Czy oskarżony znał Adèle de Maillard?
+$GEN_030_08x09_04_01
+Przed rewolucją jako adwokat prowadziłem część interesów jej ojca. Bardziej to ona mogła znać mnie.
+$GEN_030_08x09_04_02
+Niemniej mogła z tego względu darzyć oskarżonego zaufaniem i liczyć na pewne względy?
+$GEN_030_08x09_04_03
+Może, tego nie wiem, a już na pewno względów tych nie okazywałem przy wydawaniu wyroku.
+$GEN_030_08x09_04_04
+Czyżby? Uniewinniliście ją, choć dowody były bardzo silne!
+$GEN_030_08x09_04_05
+Wtedy nie wydawały mi się takie mocne, ale rozumiem, że wiecie lepiej.
+$GEN_030_08x09_04_06
+Pewnie, swojej znajomej to nie skaże. 
+$GEN_030_04x05_05_QTitle
+Po co oskarżony odwiedził podsądną w areszcie?
+$GEN_030_04x05_05_00
+Po co oskarżony odwiedził podsądną w areszcie? Takich rzeczy nie robi się w trakcie procesu.
+$GEN_030_04x05_05_01
+De Maillard zasłabła w pierwszym dniu procesu. Chciałem upewnić się, że nie symulowała i będzie można szybko wznowić proces.
+$GEN_030_04x05_05_02
+To mogło być ukartowane przez oskarżoną.
+$GEN_030_04x05_05_03
+Nie sądzę, ona naprawdę źle się czuła.
+$GEN_030_04x05_05_04
+Oskarżony mógł poczekać na opinię lekarza.
+$GEN_030_04x05_05_05
+Co trwałoby wieki, jak sędzia sam wie. Tymczasem zależało mi na szybkości, bo kolejka oskarżonych, jak w każdym trybunale, była gigantyczna.
+$GEN_030_09x10_06_QTitle
+Czy to oskarżony stoi za zniknięciem Adèle de Maillard?
+$GEN_030_09x10_06_00
+Czy to oskarżony stoi za zniknięciem Adèle de Maillard?
+$GEN_030_09x10_06_01
+Co za bzdury, nie mam z tym nic wspólnego.
+$GEN_030_09x10_06_02
+Zaginięcie obywatelki de Maillard wygląda tymczasem dla oskarżonego korzystnie z punktu widzenia niniejszego testamentu.
+$GEN_030_09x10_06_03
+Ukryliście ją czy zabiliście, żeby szybciej dostać pieniądze?
+$GEN_030_09x10_06_04
+Powtarzam, że nie wiem, gdzie przebywa Adèle de Maillard, i nie mam nic wspólnego z jej zaginięciem. Jeśli nie żyje, to nie mam o tym pojęcia.
+$GEN_030_07x10_07_QTitle
+Skąd u oskarżonego znalazł się ten testament?
+$GEN_030_07x10_07_00
+Skąd u oskarżonego znalazł się ten testament?
+$GEN_030_07x10_07_01
+Przekazała mi go de Maillard podczas wizyty w areszcie – z prośbą o złożenie u notariusza. Nie ma w tym nic niezgodnego z prawem.
+$GEN_030_07x10_07_02
+Zrobiła to w przerwie procesu?
+$GEN_030_07x10_07_03
+Tak było.
+$GEN_030_07x10_07_04
+Dlaczego dopiero wtedy?
+$GEN_030_07x10_07_05
+Tego nie wiem, musicie ją znaleźć i zapytać.
+$GEN_030_WIT_00_A_QTitle
+Ile wizyt oskarżony złożył Adèle de Maillard podczas jej pobytu w areszcie?
+$GEN_030_WIT_00_A_00
+Ile wizyt oskarżony złożył Adèle de Maillard podczas jej pobytu w areszcie?
+$GEN_030_WIT_00_A_01
+Dokładnie jedną, obywatelu sędzio, jak już trwał jej proces.
+$GEN_030_WIT_00_A_02
+Czy każdym aresztowanym oskarżony tak się interesował?
+$GEN_030_WIT_00_A_03
+Nie pamiętam, żeby sędzia Mazeaud odwiedzał innych aresztantów, ale rozkaz był, by wstrętów mu nie czynić.
+
+
+$GEN_030_WIT_01_A_QTitle
+Jak wyglądała wizyta oskarżonego u ówczesnej podsądnej?
+$GEN_030_WIT_01_A_00
+Jak wyglądała wizyta oskarżonego u ówczesnej podsądnej?
+$GEN_030_WIT_01_A_01
+Zrazu przebiegała spokojnie, w pewnym momencie zaczęli na siebie krzyczeć, potem wszystko się uspokoiło.
+$GEN_030_WIT_01_A_02
+Świadek może powiedzieć, kto krzyczał i co?
+$GEN_030_WIT_01_A_03
+Sędzia Mazeaud, że tak być nie może, on takich rzeczy robić nie będzie i to wbrew zasadom. Nie zrozumiałem, co na to aresztantka, bełkot jakiś.
+$GEN_030_WIT_01_A_04
+Czy mogło chodzić zatem o złożenie propozycji korupcyjnej przez de Maillard w postaci udziału spadkowego?
+$GEN_030_WIT_01_A_05
+To raczej oczywiste.
+$GEN_030_WIT_01_A_06
+Myślę, że tak. Sędzia miał przy sobie torbę z przyborami do pisania.
+$GEN_030_WIT_01_A_07
+Czyli planował to!
+$GEN_030_WIT_01_A_09
+Jak oskarżony skomentuje te zeznania?
+$GEN_030_WIT_01_A_10
+To w mojej opinii wystarczająco potwierdza, że nie żądałem od mojej podsądnej gratyfikacji w zamian za uniewinnienie.
+$GEN_030_WIT_01_A_11
+Równie dobrze za to oskarżony mógł propozycję takiej gratyfikacji otrzymać i przyjąć, choć wpierw zapewne wzbraniał się przed tym.
+$GEN_030_WIT_01_A_12
+Jedyne, przed czym się wzbraniałem, to przed przyjęciem zobowiązania dostarczenia testamentu do notariusza.
+$GEN_030_WIT_01_B_QTitle
+Czy świadek znał cel wizyty oskarżonego u osadzonej w areszcie?
+$GEN_030_WIT_01_B_00
+Czy świadek znał cel wizyty oskarżonego u osadzonej w areszcie?
+$GEN_030_WIT_01_B_01
+Tak jest, pismo było w tej sprawie. Oficjalnie sędzia Mazeaud chciał sprawdzić stan zdrowia podsądnej.
+$GEN_030_WIT_01_B_02
+I sprawdził, jak rozumiem?
+$GEN_030_WIT_01_B_03
+A co tu było do sprawdzania? Suchoty, obywatelu sędzio, ostatnie stadium. Długo by nie pociągnęła. No i było jeszcze coś…
+$GEN_030_WIT_01_B_04
+Co takiego?
+$GEN_030_WIT_01_B_05
+Wcześniej nikt na to uwagi nie zwrócił, ale my aresztantkę dokładnie zbadali jeszcze przed procesem. Ona w ciąży była, nie jakiejś zaawansowanej, ale brzuch było już widać.
+$GEN_030_WIT_01_B_06
+Oddała majątek, żeby mogła urodzić. Wszystko jasne.
+$GEN_030_WIT_01_B_07
+Czyje to mogło być dziecko?
+$GEN_030_WIT_01_B_08
+Nie wiem, ale plotki głoszą, że przewodniczącego Fustera.
+$GEN_030_WIT_01_B_10
+Jak oskarżony skomentuje te zeznania?
+$GEN_030_WIT_01_B_11
+Zeznanie świadka chyba wystarczająco wyjaśnia, dlaczego skazanie oskarżonej na gilotynę, jak chciał lud, byłoby barbarzyństwem. Nawet gdyby istniały niepodważalne dowody jej zbrodni.
+$GEN_030_WIT_01_B_12
+Wyjaśnia też, jak intratny był w takiej sytuacji testament ustanawiający oskarżonego wyłącznym spadkobiercą de Maillard.
+$GEN_030_WIT_01_B_13
+Musiałbym czekać, aż podsądna umrze, a wraz z nią nienarodzone dziecko. Rzecz obrzydliwa z punktu widzenia każdego, kto mieni się człowiekiem.
+$GEN_030_KEY_01
+Oskarżenie o korupcję
+$GEN_030_KEY_02
+Uniewinnienie oskarżonej
+$GEN_030_KEY_03
+Bezsporność dowodów winy
+$GEN_030_KEY_04
+Sędzia prowadzący
+$GEN_030_KEY_05
+Odwiedzenie podsądnej
+$GEN_030_KEY_06
+Strażnik więzienny
+$GEN_030_KEY_07
+Odnalezienie dokumentów
+$GEN_030_KEY_08
+Prawnik ojca Adèle
+$GEN_030_KEY_09
+Zaginięcie Adèle
+$GEN_030_KEY_10
+Testament
+
+
+
+$GEN_030_LastDialog_00
+Niedługo się spotkamy, drogi sędzio…
+
+$GEN_030_UNIQUE_QUESTION_00
+Czym Mazeaud tłumaczył uniewinnienie Maillard?
+$GEN_030_UNIQUE_ANSWER_CORRECT_00_00
+Brakiem dowodów.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Zeznaniami świadków.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Interwencją jego zwierzchników.
+
+$GEN_030_UNIQUE_QUESTION_01
+Dlaczego według zeznań sędzia poszedł do celi oskarżonej?
+$GEN_030_UNIQUE_ANSWER_CORRECT_01_00
+Bał się o jej zdrowie.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Chciał ją przesłuchać.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Szukał dowodów.
+
+$GEN_030_UNIQUE_QUESTION_02
+Kim Oskarżony był dla uniewinnionej kobiety?
+$GEN_030_UNIQUE_ANSWER_CORRECT_02_00
+Prawnikiem ojca.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Byłym służącym.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Przyrodnim bratem z nieprawego łoża.
+
+
+

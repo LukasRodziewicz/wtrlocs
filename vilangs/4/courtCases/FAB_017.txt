@@ -1,0 +1,276 @@
+$FAB_017_DOC_01_HEADER
+Zusammengestellt von: Fabrice Poli
+$FAB_017_DOC_01_00
+Heute tritt Georges Danton vor Wahrheit und Gerechtigkeit. Die Liste seiner angeblichen Vergehen ist lang, doch als Ermittler konnte ich überzeugende Beweise zusammentragen.
+$FAB_017_DOC_01_01
+Zunächst stehen die <a name="1" class="hidden">Korruptionsvorwürfe</a> im Raum. Danton hat nie erklärt, woher das Geld stammt, mit dem er mehrere Immobilien erwarb – den Hof von Nuisement mit über 70 Hektar, das Kloster St. Jean-du-Chesne und ein Haus in Arcis. Auch um seine <a name="2" class="hidden">Familie</a> hat sich Danton großzügig gekümmert: Seine Mutter erhält eine lebenslange Jahresrente von 600 Francs, und seiner jungen Ehefrau wurde ein Hochzeitsgeschenk von 40.000 Francs zuteil. Darüber hinaus ist die Liste seiner Ausgaben noch beeindruckender. Weder die Vergütung eines Konventsmitglieds, noch das Ministergehalt, das er zwei Monate lang bezog, noch die Entlohnung aus früheren Ämtern hätten solche Käufe ermöglicht. Das führt uns direkt zu einem Korruptionsvorwurf, auch wenn dies mit anderen Gründen für seine heutige Anwesenheit zusammenhängen könnte.
+$FAB_017_DOC_01_02
+Während seiner kurzen Amtszeit als Justizminister hatte er die Möglichkeit, Gelder aus <a name="4" class="hidden">einem geheimen Fonds</a> für Ausgaben abzuheben, deren Einzelheiten nicht öffentlich gemacht werden dürfen. Bertrand de Molleville behauptete in seinen Memoiren, Danton habe mit Hilfe einer Person namens <a name="5" class="hidden">Durand</a> angeblich 100.000 Francs aus eben diesem Fonds veruntreut. Der Zeuge sah <a name="6" class="hidden">einen Zettel</a>, der die Auszahlung dieser Summe an Danton durch diesen Mittelsmann bestätigte. Leider ist es uns nicht möglich, de Molleville persönlich zu befragen, da er kurz vor dem Prozess gegen Bürger Capet verschwand.
+$FAB_017_DOC_01_03
+Die dritte Anklage wurde von Bürger Robespierre erhoben, der Danton beschuldigt, <a name="7" class="hidden">ein englischer Spion</a> zu sein. Seine Aufgabe war es, das Alltagsleben der einfachen Pariser zu destabilisieren, indem er fortwährend <a name="8" class="hidden">die Flammen des Bürgerzorns schürte</a>, was angeblich zu Blutvergießen und gesellschaftlichen Spaltungen führte. Dieses Vorgehen wurde einst vom Marquis La Fayette aufgedeckt, noch vor dem Ende der Herrschaft von Bürger Capet. Damals sollte ein solch blutiger innerer Konflikt beweisen, dass es unmöglich sei, eine Einigung zwischen Hof und Volk zu erzielen, und dass Ludwig gezwungen wäre, Gewalt anzuwenden, um die Kontrolle über die Lage zurückzugewinnen. In der Praxis hätte dies die Revolution im allerletzten Moment beendet. Robespierre erhielt diese Bestätigung von einem Agenten des Komitees für Allgemeine Sicherheit, Louis Comte, der die Überreste der Girondisten aufspürte. Die gleichen Informationen wurden von zwei voneinander unabhängigen Quellen geliefert, die offenbarten, dass Danton angeblich eine Gruppe anführte, die die Macht in Frankreich an sich reißen und dem Herzog von York, dem Sohn des englischen Königs, <a name="9" class="hidden">einen Platz auf dem Thron</a> verschaffen wollte.
+$FAB_017_OnStart_00
+Bitte stellen Sie sich vor.
+$FAB_017_OnStart_01
+Ich habe so oft vom Rednerpult aus im Namen des Volkes gesprochen, dass mich hier ohnehin schon jeder gut kennt!
+$FAB_017_OnStart_02
+Bürger Danton!
+$FAB_017_OnStart_03
+Ich danke Ihnen, Staatsanwalt Tinville, auch wenn ich bezweifle, dass jemand meinen Namen vergessen hat.
+$FAB_017_OnStart_04
+Ihnen werden zahlreiche Verbrechen zur Last gelegt, darunter Korruption, Veruntreuung öffentlicher Gelder und Hochverrat.
+$FAB_017_OnStart_05
+Wo sind die Feiglinge, die mich angeklagt haben? Zeigt sie mir, damit ich sie mit Schande bedecken kann!
+$FAB_017_OnStart_06
+Sie werden vom Volk angeklagt.
+$FAB_017_OnStart_07
+Ach ja? Ich dachte schon, es wäre dieses reißende Biest Robespierre, das nach frischem Fleisch giert. Aber an mir wird er sich die Zähne ausbeißen!
+$FAB_017_OnGuilty_00
+Ich verurteile Bürger Danton zur Guillotine! Führt ihn sofort ab!
+$FAB_017_OnGuilty_01
+So gehst du also mit deinen Verbündeten um? Du solltest mich befreien, Verräter!
+$FAB_017_OnGuilty_02
+Schafft diesen brüllenden Grobian hier raus!
+$FAB_017_OnGuilty_03
+Lass ihn verrotten!
+$FAB_017_OnNotGuilty_00
+Ich befehle Ihnen, Bürger Danton freizulassen. Er ist unschuldig.
+$FAB_017_OnNotGuilty_01
+Wenigstens weißt du, was Treue bedeutet.
+$FAB_017_OnNotGuilty_02
+Robespierre wird das ganz und gar nicht gefallen…
+$FAB_017_OnNotGuilty_03
+Wie kannst du einen Verräter freilassen? Wie nur?!
+$FAB_017_01x02_00_QTitle
+Wusste Ihre Familie, woher das Geld stammte, das Sie ihnen gegeben haben?
+$FAB_017_01x02_00_00
+Wusste Ihre Familie, woher das Geld stammt, das Sie ihnen gegeben haben?
+$FAB_017_01x02_00_01
+Natürlich. Das Geld stammt aus meiner harten Arbeit für das Volk. Selbst jetzt widme ich mich dieser Aufgabe, indem ich die mörderischen Pläne des Tyrannen Robespierre vereitle!
+$FAB_017_01x02_00_02
+Haben Sie vor, während dieses Prozesses weiterhin Reden zu schwingen, anstatt–
+$FAB_017_01x02_00_03
+Unterbrecht nicht den Mann, der seine Gesundheit für die Republik geopfert hat! Ich habe meine letzten Francs lieber zwischen meiner Mutter und meiner Frau aufgeteilt, statt mich satt zu essen – oder mich in Schenken zu vergnügen!
+$FAB_017_01x02_00_04
+Und die Anwesen, die Sie gekauft haben, waren ebenfalls für Ihre Familie?
+$FAB_017_01x02_00_05
+Ich habe für die Zukunft meiner Familie gesorgt, und zwar mit meinem eigenen Geld. Nur ein gewissenloser Schurke würde behaupten, ein Patriot wie ich könnte sich irgendetwas aneignen, das meinem geliebten Vaterland gehört!
+$FAB_017_01x03_01_QTitle
+Woher hatten Sie das Geld für die umfangreichen Investitionen in Immobilien?
+$FAB_017_01x03_01_00
+Woher hatten Sie das Geld für die umfangreichen Investitionen in Immobilien?
+$FAB_017_01x03_01_01
+Ich habe dafür gearbeitet. Das Geld hatte ich schon lange, aber erst vor Kurzem habe ich beschlossen, es zu investieren.
+$FAB_017_01x03_01_02
+Haben Sie das Chaos und Ihre Stellung ausgenutzt?
+$FAB_017_01x03_01_03
+Ich habe mehrere Anwesen gekauft, die bereits dem Verfall preisgegeben waren und um die sich niemand kümmern wollte…
+$FAB_017_01x03_01_04
+Schon seit einiger Zeit geht das Gerücht auf den Straßen um, Danton sei korrupt. Sie hätten Ihre Stellung als Minister gewiss zu Ihrem Vorteil nutzen können.
+$FAB_017_01x03_01_05
+Menschen meines Ranges und mit meinem moralischen Ansehen sind unbezahlbar – sie lassen sich nicht kaufen!
+$FAB_017_01x03_01_06
+Dann frage ich Sie ganz direkt: Haben Sie Ihr Ministeramt genutzt, um diese Immobilien zu erwerben?
+$FAB_017_01x03_01_07
+Ich war gerade einmal zwei Monate Minister, und allein diese Tatsache macht den Vorwurf lächerlich.
+$FAB_017_01x04_02_QTitle
+Bestätigen Sie die Existenz eines geheimen Fonds…
+$FAB_017_01x04_02_00
+Bestätigen Sie die Existenz eines geheimen Fonds, über den Sie als Justizminister verfügen konnten?
+$FAB_017_01x04_02_01
+Ja, wie jeder andere Minister vor und nach mir.
+$FAB_017_01x04_02_02
+Ihnen wird vorgeworfen, Geld unterschlagen zu ha–
+$FAB_017_01x04_02_03
+Wie oft wurde ich schon der Korruption bezichtigt? Seit Beginn meines revolutionären Wirkens werden solche Verleumdungen gegen mich erhoben. Doch Beweise hat es nie gegeben!
+$FAB_017_01x04_02_04
+Und wie haben Sie dann das Geld dieses Fonds verwendet? Angeblich handelte es sich um bis zu 400.000 Francs.
+$FAB_017_01x04_02_05
+Es handelt sich um einen geheimen Fonds. Würde ich Informationen darüber preisgeben, könnte ich Frankreich weiterer Lächerlichkeit und Gefahr aussetzen.
+$FAB_017_01x04_02_06
+Sie behaupten also, Offenheit würde unser Land zur Zielscheibe des Spottes machen?
+$FAB_017_01x04_02_07
+Verdrehen Sie nicht meine Worte! Ich habe 200.000 ausgegeben, und Fabre, mein Sekretär, war ebenso befugt, über den verbleibenden Betrag zu verfügen.
+$FAB_017_01x04_02_08
+Aber zurückgezahlt wurden nur 130.000. Wo ist der Rest des Geldes?!
+$FAB_017_01x04_02_09
+Es wurde im besten Interesse Frankreichs verwendet – etwas, das Ignoranten wie meine Ankläger niemals begreifen werden.
+$FAB_017_01x06_03_QTitle
+Woher hat Durand die genannte Summe von 100.000 Francs?
+$FAB_017_01x06_03_00
+Woher hat Durand die genannte Summe von 100.000 Francs?
+$FAB_017_01x06_03_01
+Ich kenne diesen Mann nicht.
+$FAB_017_01x06_03_02
+Sein Name wird mit zahlreichen Korruptionsskandalen in Verbindung gebracht. Ist er ein Bankier?
+$FAB_017_01x06_03_03
+Alle Banker sind diebische Bastarde!
+$FAB_017_01x06_03_04
+Zwingen Sie mich nicht, Sie aus diesem Raum zu werfen!
+$FAB_017_01x06_03_05
+Wie ich bereits sagte – ich kenne diesen Mann nicht. Den Namen habe ich gehört, mehr nicht.
+$FAB_017_01x06_03_06
+Wenn wir ihn also finden, wird er bestätigen, dass Sie einander nicht kennen?
+$FAB_017_01x06_03_07
+Ihr werdet ihn nicht finden. Wenn sein Name immer wieder in Zusammenhang mit verschiedenen Korruptionsskandalen auftaucht und ihn bisher niemand fassen konnte, dann heißt das nur, dass–
+$FAB_017_01x06_03_08
+Sie sollten besser darauf achten, keine vorschnellen Anschuldigungen zu erheben.
+$FAB_017_01x06_03_09
+Entweder wollen Sie ihn gar nicht finden, oder er existiert überhaupt nicht. Oder vielleicht heißt dieser Mann gar nicht Durand? Vielleicht rufen Sie jedes Mal, wenn Sie jemanden ohne Beweise der Korruption bezichtigen wollen, den Namen Durand an–
+$FAB_017_01x06_03_10
+Nicht so schnell!
+$FAB_017_01x06_03_11
+Vielleicht liegt dieser Mann schon längst verrottet im Grab, doch sobald es nötig ist, sobald Sie es verlangen, kehrt er zurück und verdirbt weiterhin jene, deren Köpfe Sie rollen sehen wollen!
+$FAB_017_01x06_03_12
+Was für ein Schurke!
+$FAB_017_04x06_04_QTitle
+Rufen Sie den Zeugen auf.
+$FAB_017_04x06_04_00
+Rufen Sie den Zeugen auf.
+$FAB_017_04x06_04_02
+Bitte stellen Sie sich vor.
+$FAB_017_04x06_04_03
+Philippe Le Bas.
+$FAB_017_04x06_04_04
+Robespierres treuer Schoßhund.
+$FAB_017_04x06_04_05
+Ruhe im Gerichtssaal!
+$FAB_017_03x07_05_QTitle
+Wann haben Sie begonnen, für unsere Feinde zu spionieren?
+$FAB_017_03x07_05_00
+Wann haben Sie begonnen, für unsere Feinde zu spionieren?
+$FAB_017_03x07_05_01
+Diesen Vorwurf habe ich schon oft vernommen, doch bisher hat niemand je ein–
+$FAB_017_03x07_05_02
+Diesmal jedoch hat jemand die Gerüchte bestätigt.
+$FAB_017_03x07_05_03
+Ein kleiner Gauner soll hier jetzt das Sagen haben?
+$FAB_017_03x07_05_04
+Louis Comte ist kein Betrüger.
+$FAB_017_03x07_05_05
+Wo ist er dann jetzt? Warum sagt er nicht aus?
+$FAB_017_03x07_05_06
+Vor einigen Tagen wurde er erwürgt aufgefunden, in dem Zimmer, das er für seinen Aufenthalt in Paris gemietet hatte.
+$FAB_017_03x07_05_07
+Wie typisch. Ein Unbekannter erhebt Anschuldigungen und verschwindet dann, um einer Konfrontation vor Gericht zu entgehen!
+$FAB_017_03x07_05_08
+Er ist nicht verschwunden, er wurde ermordet.
+$FAB_017_03x07_05_09
+Das ist umso bedauerlicher, denn nun kann ich nicht mehr beweisen, dass er ein Lügner ist! Geschätzte Geschworene, glauben Sie diesen Verleumdungen nicht!
+$FAB_017_07x09_06_QTitle
+Haben Sie den Herzog von York persönlich getroffen?
+$FAB_017_07x09_06_00
+Haben Sie den Herzog von York persönlich getroffen?
+$FAB_017_07x09_06_01
+Das ist wieder so ein unsinniges Märchen, frei erfunden–
+$FAB_017_07x09_06_02
+Antworten Sie zuerst, und vielleicht erlaube ich Ihnen dann, eine Rede zu halten.
+$FAB_017_07x09_06_03
+Ich habe den Herzog von York nie getroffen, hatte nie die Absicht, ihm zu begegnen, und bezweifle aufrichtig, dass er je die Absicht hatte, mir zu begegnen.
+$FAB_017_07x09_06_04
+Dennoch wurde es bestätigt –
+$FAB_017_07x09_06_05
+Quellen, von denen Sie nichts wissen, weil der Comte sie nie offenbart hat. Und das ist auch besser so, denn feindliche Informanten könnten solche Gerüchte streuen, damit wir uns gegenseitig vernichten.
+$FAB_017_08x07_07_QTitle
+Robespierre behauptet, dass Ihre jüngsten Handlungen einen Verrat zugunsten Englands darstellen.
+$FAB_017_08x07_07_00
+Robespierre behauptet, dass Ihre jüngsten Handlungen einen Verrat zugunsten Englands darstellen.
+$FAB_017_08x07_07_01
+Und wie ist er zu diesem Schluss gekommen?
+$FAB_017_08x07_07_02
+Bürger Robespierre sagt, dass–
+$FAB_017_08x07_07_03
+Bürger Robespierre sagt dies, Bürger Robespierre sagt das… Werde ich von Frankreich gerichtet oder von Robespierre? Fürchten Sie sich so sehr, Staatsanwalt Tinville, dass Sie sich hinter Robespierre verstecken müssen?
+$FAB_017_08x07_07_04
+Die Beweise wurden von Frankreich vorgelegt.
+$FAB_017_08x07_07_05
+Ihr werdet um mich weinen, wenn Robespierres dunkle Machenschaften ans Licht kommen, wenn er seine Armee gegen euch führt! Ihr werdet euch nach Freiheit sehnen, doch dann werdet ihr zu spät erkennen, dass ihr sie längst geköpft habt!
+$FAB_017_08x07_07_06
+Doch du warst es, der auf den Straßen geschrien hat, dass die Verräter der Nation zur Guillotine geschickt werden sollen!
+$FAB_017_08x07_07_07
+Dann schickt sie doch, aber nicht mich!
+$FAB_017_08x07_07_08
+Werden solche öffentlichen Reden nicht als Aufwiegelung der Menge betrachtet?
+$FAB_017_08x07_07_09
+Wäre dem so, müsste jeder, der an der Revolution beteiligt war, zur Guillotine geschickt werden – denn sie war nur möglich, weil das Volk bereit war, sich aufwiegeln zu lassen!
+$FAB_017_08x07_07_10
+Wir brauchen nichts weiter…
+$FAB_017_WIT_00_A_QTitle
+Sind Ihnen die Memoiren von Bertrand de Molleville bekannt?
+$FAB_017_WIT_00_A_00
+Sind Ihnen die Memoiren von Bertrand de Molleville bekannt?
+$FAB_017_WIT_00_A_01
+Natürlich, schließlich war ich einer derjenigen, die das Eigentum dieses Verräters beschlagnahmen wollten.
+$FAB_017_WIT_00_A_02
+Was wissen Sie über die von Durand ausgestellte Notiz?
+$FAB_017_WIT_00_A_03
+Ich weiß nur so viel wie die anderen – dass es sie gibt. Brissot hat mir zum Beispiel davon erzählt.
+$FAB_017_WIT_00_A_04
+Das ist alles? Warum haben Sie sich dann als Zeuge gemeldet?
+$FAB_017_WIT_00_A_05
+Ich wollte nur helfen und bestätigen, dass auch ich dieses Gerücht gehört habe.
+$FAB_017_WIT_00_A_06
+Das ist ja kaum noch eine Farce von einem Prozess!
+$FAB_017_WIT_00_B_QTitle
+Wissen Sie etwas über Dantons Zusammenarbeit mit dem Mann namens Durand?
+$FAB_017_WIT_00_B_00
+Wissen Sie etwas über Dantons Zusammenarbeit mit dem Mann namens Durand?
+$FAB_017_WIT_00_B_01
+Nachdem der ehemalige Minister de Lessart verhaftet wurde, konnten wir ihm einige Informationen entlocken.
+$FAB_017_WIT_00_B_02
+Ein typischer Handlanger Robespierres!
+$FAB_017_WIT_00_B_03
+Halt den Mund, bevor ich dir eine verpasse, Großmaul!
+$FAB_017_WIT_00_B_04
+Dazu gehörte auch das Gespräch zwischen de Molleville und de Lessart. Letzterer gab zu, einst 24.000 Francs einer unbekannten Person übergeben zu haben, mit dem Auftrag, sie an Danton weiterzuleiten.
+$FAB_017_WIT_00_B_05
+Warum sollte er das tun?
+$FAB_017_WIT_00_B_06
+Es ging darum, eines von de Lessarts Projekten zu unterstützen.
+$FAB_017_WIT_00_B_07
+Könnte Durand diese geheimnisvolle Person gewesen sein?
+$FAB_017_WIT_00_B_08
+Nun, da sein Name überall auftaucht, war er es vermutlich tatsächlich.
+$FAB_017_KEY_01
+Korruptionsvorwürfe
+$FAB_017_KEY_02
+Dantons Familie
+$FAB_017_KEY_03
+Justizminister
+$FAB_017_KEY_04
+Der geheime Fonds
+$FAB_017_KEY_05
+Der geheimnisvolle Durand
+$FAB_017_KEY_06
+Eine Quittung über den Zahlungseingang
+$FAB_017_KEY_07
+Englischer Spion
+$FAB_017_KEY_08
+Anstiften von Konflikten
+$FAB_017_KEY_09
+Thron für den Herzog von York
+$FAB_017_LastDialog_00
+Vergesst nicht, ihnen meinen Kopf zu zeigen. So einen sieht man nicht alle Tage!
+$FAB_017_UNIQUE_QUESTION_00
+Wie viel hat Danton seiner Frau zur Hochzeit geschenkt?
+$FAB_017_UNIQUE_ANSWER_CORRECT_00_00
+40.000 Francs.
+$FAB_017_UNIQUE_ANSWER_NOT_CORRECT_00_00
+30.000 Francs.
+$FAB_017_UNIQUE_ANSWER_NOT_CORRECT_00_01
+50.000 Francs.
+$FAB_017_UNIQUE_QUESTION_01
+Nach Aussage des Angeklagten: Wie viel Geld aus dem geheimen Ministeriumsfonds hat er entnommen?
+$FAB_017_UNIQUE_ANSWER_CORRECT_01_00
+200.000 Francs.
+$FAB_017_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Er bestritt, dass ein solcher Fonds existiert.
+$FAB_017_UNIQUE_ANSWER_NOT_CORRECT_01_01
+340.000 Francs.
+$FAB_017_UNIQUE_QUESTION_03
+Wie erklärte der Angeklagte seine Bekanntschaft mit dem Herzog von York?
+$FAB_017_UNIQUE_ANSWER_CORRECT_03_00
+Er sagte, sie hätten sich nie getroffen.
+$FAB_017_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Er betrachtet seine Bekanntschaften als Privatsache.
+$FAB_017_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Er wollte den Herzog dazu bewegen, der Revolution wohlgesinnt zu sein.

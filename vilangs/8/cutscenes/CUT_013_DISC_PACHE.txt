@@ -1,0 +1,82 @@
+$CUT_013_DISC_PACHE_START_001_PACHE
+Danton, seu traidor! Como você pôde…
+$CUT_013_DISC_PACHE_START_002_JUDGE
+Olá, Pache.
+$CUT_013_DISC_PACHE_START_003_PACHE
+Fidèle. Obrigado por ter vindo tão prontamente.
+$CUT_013_DISC_PACHE_START_004_PACHE
+Danton me traiu.
+$CUT_013_DISC_PACHE_START_005_PACHE
+Danton... Já fomos aliados.
+$CUT_013_DISC_PACHE_START_006_PACHE
+Pedi a ajuda dele, mas ele nunca veio. Quem veio foi você.
+$CUT_013_DISC_PACHE_START_007_JUDGE
+Somos amigos, Jean.
+$CUT_013_DISC_PACHE_START_008_PACHE
+Eu preciso destruí-lo, fazê-lo pagar! Nós precisamos.
+$CUT_013_DISC_PACHE_001_JUDGE_AGGR
+Quem é o desgraçado que ousou levantar a mão contra um servo do Estado? E por quais motivos?
+$CUT_013_DISC_PACHE_002_JUDGE_MANI
+Do que te acusaram? Deve ser algo que só seus amigos sabem. Alguém como Danton. Em que você se meteu, Jean?
+$CUT_013_DISC_PACHE_003_JUDGE_JOKE
+Com certeza houve um engano. Não se preocupe, você estará em casa antes do jantar.
+$CUT_013_DISC_PACHE_004_JUDGE_HUMI
+Eu não entendo. Do que estão te acusando? Logo você, quando todos sabem que Paris floresce sob sua direção.
+$CUT_013_DISC_PACHE_005_PACHE_INTR
+Traição. Isso é tudo o que consegui apurar. Não sei nada sobre a origem dessas acusações ou possíveis provas. Mas sei que Danton não se apressa em me ajudar. Ele me traiu, e certamente está envolvido nisso!
+$CUT_013_DISC_PACHE_006_PACHE_DOUBT
+Aparentemente, traí a França. Não sou nenhum santo, eu sei, mas traição?! E quem me acusa? Aquele prostituto político do Danton? Não tenho certeza, mas sinto que ele está por trás dessas acusações.
+$CUT_013_DISC_PACHE_007_JUDGE_AGGR
+Se essa serpente astuta é a causa dos seus problemas, você precisa agir agora. Não pode esperar pelo julgamento de amanhã. Tem alguma prova dos delitos de Danton que possa ajudar?
+$CUT_013_DISC_PACHE_008_JUDGE_MANI
+Se Danton fez esse ataque, ele deve ter forjado provas contra você. Precisamos de algo para revidar. Que evidências dos crimes dele você tem?
+$CUT_013_DISC_PACHE_009_JUDGE_JOKE
+Não acredito que você faria uma aliança com Danton sem ter provas de seus delitos. Diga-me, possui algum documento que possa ser usado contra ele?
+$CUT_013_DISC_PACHE_010_JUDGE_HUMI
+Se alguém merece ser decapitado, esse alguém é Danton – por fingir ser seu amigo. Precisamos enfrentá-lo. Você deve ter alguma prova dos crimes dele que possamos usar contra ele.
+$CUT_013_DISC_PACHE_011_PACHE_INTR
+O que te trouxe até mim? Por que arriscar encontrar um traidor? Por quê, Fidèle? Esqueça a lealdade e me deixe morrer. Eu mereço esse castigo.
+$CUT_013_DISC_PACHE_012_PACHE_DOUBT
+Eu não aguento mais, não tenho mais forças para lutar contra isso. Toda essa Revolução, as conspirações que nunca acabam. Não consigo confiar em ninguém... Exceto em você. Já não entendo mais nada.
+$CUT_013_DISC_PACHE_013_PACHE_IRRI
+Você também está planejando me trair? Você não pode! Eu pensei, não, eu esperava que fosse possível encontrar um amigo de verdade nesta cidade.
+$CUT_013_DISC_PACHE_014_JUDGE_AGGR
+Acorde, Jean! Não há tempo para hesitação ou tristeza! Se devo contra-atacar Danton, preciso de algo que possa usar. Deixe-me ajudar você, apenas diga onde procurar.
+$CUT_013_DISC_PACHE_015_JUDGE_MANI
+Assim que o julgamento começar, seu destino estará selado. Se houver qualquer prova de traição, o acusado não poderá ser salvo. No entanto, posso garantir que essas provas nunca venham à tona. Mas, para isso, preciso de evidências dos crimes de Danton. É a única maneira. Onde você as guarda, Jean?
+$CUT_013_DISC_PACHE_016_JUDGE_JOKE
+Se quiser se lamentar, fique à vontade. Mas lembre-se: o Tribunal não liberta traidores. Se não me trouxer provas dos crimes de Danton, não poderei ajudá-lo, e amanhã você estará morto.
+$CUT_013_DISC_PACHE_017_JUDGE_HUMI
+Oh, meu querido Jean. Não posso permitir que você morra por um crime que não cometeu. Vou salvar você e seu legado, mas para isso preciso forçar Danton a retirar as acusações. Diga-me, onde está guardada a prova dos crimes dele?
+$CUT_013_DISC_PACHE_018_JUDGE_AGGR
+Pare de choramingar, nem tudo está perdido! Você tem uma vantagem secreta — um juiz do Tribunal disposto a ajudar. Somos aliados. Pode confiar em mim.
+$CUT_013_DISC_PACHE_019_JUDGE_MANI
+Ninguém ousa se opor abertamente a Danton, sabendo que ele pode forjar provas de traição. Todos têm medo. Eu, porém, estou disposto a me arriscar porque acredito nos benefícios duradouros da nossa amizade. Só isso já deveria convencê-lo.
+$CUT_013_DISC_PACHE_020_JUDGE_JOKE
+Se você não pode confiar em mim, mesmo eu tendo vindo até aqui, então em quem pode confiar? Não vejo uma fila de pessoas dispostas a salvar seu pescoço.
+$CUT_013_DISC_PACHE_021_JUDGE_HUMI
+Jean, ouça a voz da razão. A cada minuto você se aproxima da morte, e nada pode fazer enquanto estiver preso aqui. Estou oferecendo ajuda. Aceite.
+$CUT_013_DISC_PACHE_022_PACHE_INTR
+Sério? Você vai me ajudar? No passado, fiz algo terrível. Fui forçado a isso, e agora estou consumido pelo arrependimento. Eu... Eu lhe devo uma dívida imensa.
+$CUT_013_DISC_PACHE_023_PACHE_DOUB
+Não tenho certeza se mereço sua amizade. Fiz algo... desprezível. Mandaram que eu fizesse. E agora, você é minha única esperança.
+$CUT_013_DISC_PACHE_024_PACHE_IRRI
+Todos continuam me pedindo coisas. Você quer provas dos crimes de Danton para seus próprios objetivos, mas me salvar não está entre eles. Esqueça.
+$CUT_013_DISC_PACHE_025_PACHE_AGGR
+Não confio em você, e como todos os outros, vai me trair. Não terá nada de mim. Vá embora!
+$CUT_013_DISC_PACHE_TOPIC_01
+Como ele veio parar aqui?
+$CUT_013_DISC_PACHE_TOPIC_02
+Que provas ele tem dos crimes de Danton?
+$CUT_013_DISC_PACHE_TOPIC_03
+Onde estão as provas?
+$CUT_013_DISC_PACHE_TOPIC_04
+Você pode confiar em mim.
+$CUT_013_DISC_PACHE_SUCCESS_001_PACHE
+Todas as provas contra Danton estão guardadas em um cofre no meu escritório. Peça a chave ao meu assistente.
+$CUT_013_DISC_PACHE_SUCCESS_002_JUDGE
+Obrigado, Pache. Eu sei o que fazer com isso.
+$CUT_013_DISC_PACHE_SUCCESS_003_PACHE
+Não, obrigado. Fui injusto com você, Fidèle. Você é um verdadeiro amigo.
+$CUT_013_DISC_PACHE_SUCCESS_004_JUDGE
+Claro, Jean. Claro.

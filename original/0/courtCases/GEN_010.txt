@@ -1,0 +1,298 @@
+$GEN_010_DOC_1_HEADER
+Sporządził: Bertrand Moreau
+$GEN_010_DOC_1_00
+	Alfred Renoir, 43-letni miejscowy piekarz z północnych przedmieść Paryża, został oskarżony o sprowadzenie śmierci na kilkoro dzieci z okolicy. Podsądny razem z żoną wychowuje dwóch synów i córkę. Przepytani przez nas świadkowie zgodnie twierdzili, że piekarz zawsze był małomówny, ale sympatyczny. Nie odmawiał sprzedaży na kredyt i nie dosypywał nigdy trocin do chleba. W trakcie śledztwa przeszukaliśmy dom oskarżonego. Nie znaleźliśmy żadnych monarchistycznych materiałów.
+$GEN_010_DOC_1_01
+	Oskarżenie przeciwko piekarzowi wniosły trzy kobiety, które obwiniają go o śmierć swoich dzieci - łącznie mowa o ośmiu nieletnich ofiarach. Bezpośrednią przyczyną ich zgonu był panujący w Paryżu <a name="2" class="hidden">głód</a>. Fakt ten potwierdził miejscowy lekarz.
+$GEN_010_DOC_1_02
+	Tydzień wcześniej kobiety razem z niewielką grupą swoich sąsiadek i sąsiadów próbowały wymusić na piekarzu sprzedaż chleba, albo chociaż mąki. Jak wiemy dzięki zeznaniom świadków, tłumek zebrany przed piekarnią liczył nie więcej niż 15 osób.
+$GEN_010_DOC_1_03
+	Renoir <a name="3" class="hidden">zdecydowanie odmówił</a> i postraszył głodujących wezwaniem Gwardii. Również na prośby zwiększenia produkcji chleba oskarżony odpowiedział stanowczym: „nie”. Następnego dnia trzy matki, które wniosły oskarżenie, przyszły do piekarza ponownie. Ten znowu im odmówił. 
+$GEN_010_DOC_1_04
+	Śledczy w asyście żołnierzy dokonali rewizji w magazynie piekarni. W jej trakcie znaleziono spory zapas mąki. Mimo to trudno udowodnić, że <a name="4" class="hidden">śmierć dzieci</a> spowodowana była wyłącznie zachowaniem piekarza.
+$GEN_010_DOC_1_05
+	Piekarz zeznał, że mąkę dostarczał mu <a name="5" class="hidden">chłop spoza miasta</a>, ale nikt go w Paryżu nie widział. Między sobą ludzie oskarżają piekarza o konspirowanie z Austriakami. Wielu wierzy, że głodzenie paryżan to element walki Habsburgów z rewolucją.
+$GEN_010_DOC_1_06
+	Oskarżony nie umiał wyjaśnić, dlaczego odmówił ludziom chleba. Na nasze pytania odpowiadał jedynie, że nie miał innego wyjścia.
+$GEN_010_DOC_1_07
+Dowody:
+<a name="7" class="hidden">Księga zakupów</a>
+$GEN_010_OnStart_00
+Zdrajca i morderca! Dajcie nam chleba!
+$GEN_010_OnStart_01
+Kiedy głodni i zrozpaczeni ludzie zaczynają mówić o spiskach, lepiej nie znaleźć się w kręgu ich podejrzeń.
+$GEN_010_OnStart_02
+Proszę oskarżonego o przedstawienie się.
+$GEN_010_OnStart_03
+Nazywam się Alfred Renoir, jestem piekarzem.
+$GEN_010_OnStart_04
+Obywatel Renoir jest oskarżony o przyłożenie ręki do śmierci kilkorga dzieci.
+$GEN_010_OnStart_05
+Nikogo nie zabiłem. Nigdy nie zrobiłbym krzywdy dziecku.
+$GEN_010_OnStart_06
+Może nie zabił z nożem w ręku, ale i tak jest winien.
+$GEN_010_OnStart_07
+Drań, gnida bez serca!
+$GEN_010_OnGuilty_00
+Alfred Renoir za śmierć dzieci i celowe głodzenie Francuzów zostanie ścięty na gilotynie.
+$GEN_010_OnGuilty_01
+Słusznie, to wojna, a na wojnie trzeba podejmować bezwzględne decyzje.
+$GEN_010_OnGuilty_02
+Moje dzieci i tak nie żyją!
+$GEN_010_OnGuilty_03
+Tak, i jego mąkę ludziom oddać!
+$GEN_010_OnGuilty_04
+Piekarz pójdzie na szafot, wreszcie się najemy!
+$GEN_010_OnNotGuilty_00
+Ogłaszam, że oskarżony nie dopuścił się przestępstwa. Proszę uwolnić Alfreda Renoir.
+$GEN_010_OnNotGuilty_01
+Protestuję, żądam skazania oskarżonego.
+$GEN_010_OnNotGuilty_02
+Twoje dzieci nie głodują, prawda, sędzio?
+$GEN_010_OnNotGuilty_03
+On sam spiskuje z Austrią!
+$GEN_010_OnNotGuilty_04
+Zmienić sędziego!
+$GEN_010_01x03_00_QTitle
+Czy to prawda, że odmówiliście sprzedaży chleba trzem stojącym obok was kobietom?
+$GEN_010_01x03_00_00
+Czy to prawda, że odmówiliście sprzedaży chleba trzem stojącym obok was kobietom?
+$GEN_010_01x03_00_01
+Tak, przyszły do mnie. Prosiły o chleb.
+$GEN_010_01x03_00_02
+Chciały dostać go za darmo?
+$GEN_010_01x03_00_03
+Nie, wpychały mi pieniądze do ręki, nawet więcej, niż się należało.
+$GEN_010_01x03_00_04
+On na nas jeszcze nawrzeszczał.
+$GEN_010_01x03_00_05
+Mówiły mu obywatelki, że to dla dzieci?
+$GEN_010_01x03_00_06
+Mimo to odmówił.
+$GEN_010_01x03_00_07
+Gdzie jest twoje sumienie, człowieku?
+$GEN_010_01x03_00_08
+Po dobroci nie chciałyście odejść…
+$GEN_010_01x03_00_09
+Dlaczego oskarżony odmówił?
+$GEN_010_01x03_00_10
+Nie miałem wyjścia…
+$GEN_010_02x06_01_QTitle
+Czy obywatel wie, że kraj jest w stanie wojny?
+$GEN_010_02x06_01_00
+Czy obywatel wie, że kraj jest w stanie wojny?
+$GEN_010_02x06_01_01
+Tak, doskonale zdaję sobie z tego sprawę.
+$GEN_010_02x06_01_02
+To dlaczego pan nie pomógł współobywatelom? Mam prawo uznać wasz czyn za zdradę Republiki.
+$GEN_010_02x06_01_03
+A czy Wysoki Sąd wie, że ja osobiście jestem w stanie wojny?
+$GEN_010_02x06_01_04
+Jakiej?
+$GEN_010_02x06_01_05
+Tej o przetrwanie mojej rodziny. Wszystkie inne wojny mogą poczekać. Mam trójkę dzieci, żonę. To ich nie wolno mi zdradzić.
+$GEN_010_02x06_01_06
+Jeśli przegramy, to wszystkie dzieci będą cierpiały głód.
+$GEN_010_02x06_01_07
+Oddał się Austrii za okruchy dla swojej dziwki.
+$GEN_010_02x07_02_QTitle
+Księga zakupów wskazuje, że miał pan dość zapasów...
+$GEN_010_02x07_02_00
+Księga zakupów wskazuje, że miał pan dość zapasów, by obsłużyć te kobiety i wielu innych.
+$GEN_010_02x07_02_01
+Teraz miałem, a co będzie dalej? Czy będzie następna dostawa? Prawdziwy głód dopiero przed nami. Mam rodzinę. Na ile będą musiały jej starczyć te zapasy?
+$GEN_010_02x07_02_02
+My też miałyśmy dzieci!
+$GEN_010_02x07_02_03
+Składował pan to wszystko dla siebie?
+$GEN_010_02x07_02_04
+Dla mojej rodziny. Przecież to nie zbrodnia…
+$GEN_010_02x07_02_05
+Wy jedliście codziennie, prawda?
+$GEN_010_02x07_02_06
+Na szczęście tak, ale nie wiem, na ile jeszcze starczy.
+$GEN_010_02x07_02_07
+Kurwisyn, słyszeliście go? Cesarski parobek! 
+$GEN_010_02x04_03_QTitle
+Proszę wezwać świadka.
+$GEN_010_02x04_03_00
+Proszę wezwać świadka.
+$GEN_010_02x04_03_02
+Proszę się przedstawić.
+$GEN_010_02x04_03_03
+Arnaud Lemout. Badałem dzieci poszkodowanych.
+$GEN_010_03x04_04_QTitle
+Te kobiety twierdzą, że pańska odmowa była bezpośrednią przyczyną...
+$GEN_010_03x04_04_00
+Te kobiety twierdzą, że pańska odmowa była bezpośrednią przyczyną śmierci ich dzieci. Co pan na to?
+$GEN_010_03x04_04_01
+A czy mój chleb to był ostatni kawałek jedzenia w mieście? Jak chciały wykarmić dzieci, trzeba było się bardziej postarać.
+$GEN_010_03x04_04_02
+On zwala swoją winę na te kobiety!
+$GEN_010_03x04_04_03
+Austriacki szpicel ma czelność mi mówić, że jestem złą matką?
+$GEN_010_03x04_04_04
+Twierdzicie, że to zaniedbanie rodziców? 
+$GEN_010_03x04_04_05
+Ja jestem ojcem swoich dzieci, nie wszystkich w okolicy.
+$GEN_010_03x04_04_06
+Taka postawa dowodzi, że nie zrozumieliście niczego z rewolucyjnych ideałów braterstwa.
+$GEN_010_03x04_04_07
+Wolność, równość, braterstwo i ostrze na szyję skurwysynów!
+$GEN_010_03x06_05_QTitle
+Czy obywatel jest austriackim szpiegiem?
+$GEN_010_03x06_05_00
+Czy obywatel jest austriackim szpiegiem?
+$GEN_010_03x06_05_01
+...
+$GEN_010_03x06_05_02
+Obywatelu?
+$GEN_010_03x06_05_03
+Nie chcę obrazić Wysokiego Sądu. Dlatego nie odpowiedziałem. Jedyne, co mi się ciśnie na usta, to to, że osoba, która wymyśliła taką banialukę, jest idiotą. Przepraszam, jeśli to pomysł Wysokiego Sądu.
+$GEN_010_03x06_05_04
+Ludzie twierdzą, że coś jest na rzeczy.
+$GEN_010_03x06_05_05
+Ja nawet nie umiem mówić po ichniejszemu. Jakieś miernoty wymyślają oskarżenia, bo nie potrafią wziąć swojego losu we własne ręce.
+$GEN_010_03x06_05_06
+Kogo nazywasz miernotą, ty sukinsynu?!
+$GEN_010_06x05_06_QTitle
+W jaki sposób dostarczana jest panu mąka?
+$GEN_010_06x05_06_00
+W jaki sposób dostarczana jest panu mąka?
+$GEN_010_06x05_06_01
+Sam po nią jeżdżę w soboty.
+$GEN_010_06x05_06_02
+Czy regularnie, tego samego dnia wyjeżdża pan poza miasto? Ktoś panu wtedy towarzyszy?
+$GEN_010_06x05_06_03
+Nie, a po co?
+$GEN_010_06x05_06_04
+Z punktu widzenia podejrzenia o szpiegostwo i udział w spisku…
+$GEN_010_06x05_06_05
+Brawo, sędzia zdemaskował zdrajcę!
+$GEN_010_06x05_06_06
+Co jest dziwnego w tym, że piekarz jedzie na wieś po mąkę raz w tygodniu?
+$GEN_010_06x05_06_07
+Co jest dziwnego w tym, że jako agenta zwerbowano kogoś, kto regularnie podróżuje?
+$GEN_010_06x05_06_08
+To absurd.
+$GEN_010_06x05_06_09
+Wezwać świadka.
+$GEN_010_06x05_06_11
+To wy handlowaliście z oskarżonym? Proszę się przedstawić.
+$GEN_010_06x05_06_12
+Ruttmann jestem, chłop znaczy, a nawet młynarz. No handlowałem z nim, proszę Wysokiego Sądu, bo dlaczego nie? To coś złego?
+$GEN_010_WIT_00_A_QTitle
+Może obywatel streścić wyniki oględzin u dzieci?
+$GEN_010_WIT_00_A_00
+Może obywatel streścić wyniki oględzin u dzieci?
+$GEN_010_WIT_00_A_01
+Były osłabione, wychudzone. Wyraźnie niedożywione i z całą pewnością pozostawały w takim stanie od jakiegoś czasu.
+$GEN_010_WIT_00_A_02
+Czy pomoc ze strony piekarza w postaci podarowania kilku bochnów chleba mogłaby zapobiec tragedii?
+$GEN_010_WIT_00_A_03
+Głodującemu nie wolno dawać chleba na czczo. To się źle kończy. A wracając do pytania – odpowiedź brzmi „nie”. Trochę chleba odwlekłoby tylko ich śmierć o kilka dni.
+$GEN_010_WIT_00_A_04
+Jak możesz?
+$GEN_010_WIT_00_A_05
+W ciągu tych kilku dni rodzice mogliby zdobyć więcej jedzenia, prawda?
+$GEN_010_WIT_00_A_06
+To możliwe.
+
+
+$GEN_010_WIT_01_A_QTitle
+Co obywatel sądzi o austriackim spisku, mającym na celu zagłodzić Paryż?
+$GEN_010_WIT_01_A_00
+Co obywatel sądzi o austriackim spisku, mającym na celu zagłodzić Paryż?
+$GEN_010_WIT_01_A_01
+To śmieszne podejrzenie. Jeden piekarz? 
+$GEN_010_WIT_01_A_02
+Ulica mówi o dziesiątkach.
+$GEN_010_WIT_01_A_03
+Z doświadczenia wiem, że ulica opowiada głupoty. Zbiorowisko ludzi niewykształconych zawsze szuka prostych odpowiedzi.
+$GEN_010_WIT_01_A_04
+Przy założeniu, że to jednak prawda – czy taka zmowa piekarzy mogłaby doprowadzić do zbiorowych zgonów?
+$GEN_010_WIT_01_A_05
+Czysto teoretycznie – tak. Wielu paryżan żywi się głównie chlebem. Wzrost liczby zgonów byłby zauważalny.
+$GEN_010_WIT_01_A_06
+A obecnie obserwujecie więcej przypadków śmierci głodowej?
+$GEN_010_WIT_01_A_07
+Tak, ale trudno mi uwierzyć w to, że powodem miałby być jakiś spisek. Są inne przyczyny: problemy z dostawami i wojna, którym towarzyszy zamieszanie.
+$GEN_010_WIT_01_A_08
+Wystarczy, że my rozgryźliśmy zdradę!
+
+
+$GEN_010_WIT_02_A_QTitle
+Długo już handlujecie?
+$GEN_010_WIT_02_A_00
+Długo już handlujecie?
+$GEN_010_WIT_02_A_01
+A będzie już lat ze sześć, może siedem.
+$GEN_010_WIT_02_A_02
+Czy ostatnio oskarżony zachowywał się jakoś nietypowo?
+$GEN_010_WIT_02_A_03
+Nie, miły zawsze był i ostatnio tak samo. Namawiał mnie jeno, żebym jemu w mieście sprzedawał, a innym nie.
+$GEN_010_WIT_02_A_04
+Taki warunek wam nie przeszkadzał? Nie wydawał się podejrzany?
+$GEN_010_WIT_02_A_05
+Zgodziłem się, mnie w sumie obojętne… Pieniądze zawsze miał, towaru brał dość. Trochę to dziwne, takie pieniądze w kieszeni jak na takie czasy, ale co mnie do tego?
+$GEN_010_WIT_02_A_06
+A to zwyczajne kupować takie ilości mąki?
+$GEN_010_WIT_02_A_07
+Znaczy, no trochę się wydało dziwaczne, no bo po co mu na raz tyle mąki? Ale czasy ciężkie, a on zawsze płacił z góry. Wszyscy proszą o płatność później, a on nie.
+$GEN_010_WIT_02_A_08
+Renoir nie brał na kredyt?
+$GEN_010_WIT_02_A_09
+Ano.
+$GEN_010_WIT_02_A_10
+Zapewne, austriacki wywiad raczej dobrze płacił piekarzowi, żeby ten mógł skupować mąkę.
+
+
+$GEN_010_WIT_03_A_QTitle
+Ruttmann to nietypowe nazwisko jak na Francuza.
+$GEN_010_WIT_03_A_00
+Ruttmann to nietypowe nazwisko jak na Francuza.
+$GEN_010_WIT_03_A_01
+Mój ojciec pochodził z Hanoweru.
+$GEN_010_WIT_03_A_02
+Czy obywatel wie, że nasz kraj walczy również z Hanowerem?
+$GEN_010_WIT_03_A_03
+No i? Mój ojciec nie żyje, to już nie walczy z nikim, a ja się urodziłem tutaj.
+
+$GEN_010_KEY_01
+Charakter oskarżonego
+$GEN_010_KEY_02
+Głód w Paryżu
+$GEN_010_KEY_03
+Odmowa pomocy
+$GEN_010_KEY_04
+Śmierć dzieci
+$GEN_010_KEY_05
+Tajemniczy dostawca
+$GEN_010_KEY_06
+Taktyka wroga
+$GEN_010_KEY_07
+Księga zakupów
+
+
+$GEN_010_LastDialog_00
+Kto teraz zaopiekuje się moimi dziećmi? Będziesz je miał na swoim sumieniu!
+
+$GEN_010_UNIQUE_QUESTION_00
+Co znaleziono podczas rewizji u oskarżonego?
+$GEN_010_UNIQUE_ANSWER_CORRECT_00_00
+Zapasy mąki.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Znaczny zapas chleba.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Kilka worków owsa.
+
+$GEN_010_UNIQUE_QUESTION_01
+Dlaczego oskarżony nie podzielił się zapasami?
+$GEN_010_UNIQUE_ANSWER_CORRECT_01_00
+Trzymał je dla rodziny.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Nie lubił swoich sąsiadów.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Twierdzi, że nikt go o nic nie prosił.
+
+

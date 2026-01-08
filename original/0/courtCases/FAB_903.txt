@@ -1,0 +1,230 @@
+$FAB_903_DOC_1_HEADER
+Mowa oskarżycielska Antoine’a Quentina Fouquiera de Tinville’a
+$FAB_903_DOC_1_00
+    Rodacy!
+    
+    Obywatel Capet, tytułujący się niegdyś królem Francji Ludwikiem XVI, musi zostać osądzony i ukarany za spiskowanie przeciwko ludowi francuskiemu!
+
+$FAB_903_DOC_1_01
+    Ludwik Capet, chcąc obronić władzę absolutną, spiskował przeciwko Konstytuancie i popierającemu ją ludowi Paryża. Wszyscy pamiętamy lipiec 1789 roku. Król ściągnął wojsko, 15 cudzoziemskich pułków, i nakazał mu otoczenie Paryża. Żołnierze dowodzeni przez barona de Besenvala mieli pojmać deputowanych oraz strzelać do obywateli, którzy stanęliby w obronie reform! I tak też uczynili – Pułk Królewsko-Niemiecki pierwszy przecież przelał krew!
+$FAB_903_DOC_1_02
+    Po niepowodzeniu tej intrygi Ludwik Capet <a name="3" class="hidden">usiłował uciec</a> za granicę wraz z rodziną, aby stamtąd spiskować z obcymi monarchami. Czyż nie dlatego opuścił Tuileries czerwcową nocą 1791 roku, używając cudzego paszportu? Czyż nie w kierunku Montmédy zmierzał, gdzie czekały na niego wierne wojska, gotowe odstawić go na dwór austriacki? Gdyby nie poczmistrz Douret, któż wie, jak skończyłby się ten spisek.
+$FAB_903_DOC_1_03
+   Ludwik Capet nigdy nie porzucił i nie porzuci myśli o zbrojnym <a name="5" class="hidden">zdławieniu rewolucji</a>. Wszak przed sierpniowymi wydarzeniami roku 1792 rozkazał podwoić Gwardię szwajcarską stacjonującą w Tuileries. Na oczach przerażonych obywateli przeprowadził jej prowokacyjny przegląd. Lud nie miał wobec tego innego wyjścia i musiał uprzedzić atak króla! W kierunku paryżan chcących udaremnić zamach stanu otwarto ogień, którego nie zaprzestano nawet pomimo ucieczki Capeta do Zgromadzenia Narodowego.
+$FAB_903_DOC_1_04
+Dowody:
+Rozkaz wystosowany przez marszałka de Broglie do barona de Besenvala.
+<a name="6" class="hidden">Polecenie</a> wydane przez ministra spraw wewnętrznych, Jean-Marie Roland
+<a name="7" class="hidden">List od cesarza</a> Leopolda II
+<a name="8" class="hidden">List od księcia</a> brunszwickiego, Karola Wilhelma
+$FAB_903_DOC_2_TOOLTIP
+Rozkaz wystosowany przez marszałka de Broglie do barona de Besenvala
+$FAB_903_DOC_2_00
+	Mój Panie!
+	
+	W przypadku jakiegokolwiek pretekstu strzelać do buntowników bez wahania, tak jak nam Jego Królewska Mość polecił. Nie miej litości, bo oni jej mieć nie będą.
+	
+														V. F. de Broglie
+
+$FAB_903_DOC_3_TOOLTIP
+Polecenie wydane przez ministra spraw wewnętrznych, Jean-Marie Roland
+$FAB_903_DOC_3_00
+    Deputowanych tak zwanego Zgromadzenia Narodowego ostrożnie przepytać, a gdyby jaki rozsądny się wykazał i poparcie dla Zgromadzenia wycofał, to wypłacić ekstraordynaryjną dietę oraz królewskie podziękowanie przekazać.
+
+$FAB_903_DOC_4_TOOLTIP
+List od cesarza Leopolda II:
+$FAB_903_DOC_4_00
+    Ufamy, że z Bożą łaską i pomocą Jego Królewska Mość zjawi się rychło w granicach Cesarstwa, byśmy mogli zapewnić mu, a także siostrze naszej bezpieczeństwo oraz podjąć ewentualne kroki niezbędne do przywrócenia europejskiego porządku w granicach francuskich.
+ 
+Święty Cesarz Rzymski, król Niemiec, Węgier, Czech etc. – Leopold II Habsburg
+A.D. 1791, dnia 15 maja
+$FAB_903_DOC_5_TOOLTIP
+List od księcia brunszwickiego, Karola Wilhelma
+$FAB_903_DOC_5_00
+    Wasza Miłość!
+     
+    Już wkrótce przybędziemy na ratunek, do tego czasu jednak proszę, abyś zebrał wierne Ci wojska. Ostrzegę Twych poddanych, że surowe konsekwencje czekać będą tych, co na Twój majestat odważą się targnąć.
+    
+    Moje wojska tylko czekają rozkazu, aby ukrócić anarchię w Twym kraju.
+    
+    Książę ziemski Brunszwiku-Lüneburga Karol Wilhelm Ferdynand.
+    A.D. 1792, dnia 9 czerwca
+
+$FAB_903_OnStart_GUARD_00
+Wysoki Sądzie, ludzie przed budynkiem są wściekli, zaraz może dojść do prawdziwego pogromu. 
+$FAB_903_OnStart_GUARD_01
+Rozniosła się plotka, że znaleziono ukrywane dowody zdrady króla. Ludzie oszaleli.
+$FAB_903_OnStart_KING_00
+Jakie dowody?
+$FAB_903_OnStart_JUDGE_00
+Wyjdę do nich. Resztę proszę o pozostanie na miejscach do mojego powrotu.
+$FAB_903_OnStart_MENTOR_00
+To prawda - odnalazły się dowody winy Capeta...
+$FAB_903_OnStart_PROSECUTOR_00
+Coś podobnego!
+$FAB_903_OnStart_00
+Proszę oskarżonego o wyjaśnienie, dlaczego ukrył przed Konwentem fakt istnienia sekretnej szafy i zdeponowanych w niej dokumentów.
+$FAB_903_OnStart_01
+Niczego przed Konwentem nie ukrywałem, bo i nikt nie pytał mnie o istnienie tego typu miejsc.
+$FAB_903_OnStart_02
+Korespondencję oskarżony trzymał pod zamknięciem, do którego sforsowania konieczny był mistrz ślusarski.
+$FAB_903_OnStart_03
+Każdy majętniejszy paryżanin ma szafę zamykaną na klucz. Sam bardzo interesuję się ślusarstwem.
+$FAB_903_OnGuilty_00
+Skazuję obywatela Ludwika Capeta na śmierć na gilotynie! Wyprowadzić skazanego.
+$FAB_903_OnGuilty_01
+Niech żyje naród!
+$FAB_903_OnGuilty_02
+Precz z tyranem!
+$FAB_903_OnPrison_00
+Skazuję obywatela Ludwika Capeta na więzienie! Wyprowadzić skazanego.
+$FAB_903_OnPrison_01
+Natychmiast aresztować sędziego!
+$FAB_903_OnPrison_02
+Skandal!
+$FAB_903_OnNotGuilty_00
+Wyrok w sprawie Ludwika Capeta brzmi: niewinny! Podsądny jest wolny.
+$FAB_903_OnNotGuilty_01
+Natychmiast aresztować sędziego!
+$FAB_903_OnNotGuilty_02
+Skandal!
+$FAB_903_04x05_00_QTitle
+Skoro wiedzieliście o planach cesarza oraz księcia Brunszwiku, dlaczego nie ostrzegliście...
+$FAB_903_04x05_00_00
+Skoro wiedzieliście o planach cesarza oraz księcia Brunszwiku, dlaczego nie ostrzegliście Zgromadzenia Narodowego i armii o zagrożeniu?
+$FAB_903_04x05_00_01
+…
+$FAB_903_04x05_00_02
+Nie dosłyszałem.
+$FAB_903_04x05_00_03
+Nie sądziłem, że ich groźby są poważne.
+$FAB_903_04x05_00_04
+To śmierdzi zdradą stanu.
+$FAB_903_04x05_00_05
+Cytuję: „Moje wojska tylko czekają rozkazu”. Czy to nie brzmi jak poważna groźba?
+$FAB_903_04x05_00_06
+Książę Karol jest porywczy. Nie podejrzewałem, że może naprawdę zaatakować Francję.
+$FAB_903_01x06_01_QTitle
+Czy to oskarżony polecił korumpować deputowanych...
+$FAB_903_01x06_01_00
+Czy to oskarżony polecił korumpować deputowanych Zgromadzenia w celu jego obalenia?
+$FAB_903_01x06_01_01
+Na tym dokumencie nie widnieje mój podpis, panie.
+$FAB_903_01x06_01_02
+Ale został on odnaleziony w skrytce należącej do oskarżonego i jest tam mowa o królewskich podziękowaniach. 
+$FAB_903_01x06_01_03
+Zachowałem go z myślą o procesie, jaki zamierzałem wytoczyć ministrowi Rolandowi za nadużycie swych uprawnień.
+$FAB_903_01x06_01_04
+Do którego to procesu nie doszło pomimo upływu trzech lat!
+$FAB_903_01x06_01_05
+A który winien się odbyć – Roland będzie się musiał wyspowiadać przed gilotyną!
+$FAB_903_01x06_01_06
+To już sprawa ministra sprawiedliwości – wydałem mu stosowne polecenie przeprowadzenia śledztwa i ukarania ministra spraw wewnętrznych.
+$FAB_903_05x03_02_QTitle
+Dlaczego zatem cesarz na krótko przed ową wyprawą pisał, że oczekuje oskarżonego...
+$FAB_903_05x03_02_00
+Dlaczego zatem cesarz na krótko przed ową wyprawą pisał, że oczekuje oskarżonego i jego rodziny w granicach cesarstwa?
+$FAB_903_05x03_02_01
+To zwykły zbieg okoliczności. Cesarz najzwyklej w świecie lękał się o życie swej siostry. Nie jest tajemnicą, że europejskie dwory posiadają wypaczony obraz rewolucji jako narzędzia wymierzonego przeciwko monarchii. 
+$FAB_903_05x03_02_02
+Dziwnym zbiegiem okoliczności były też wojska w Montmédy, które miały eskortować oskarżonego właśnie na dwór austriacki?
+$FAB_903_05x03_02_03
+Przysięgam, że nie miałem z tym nic wspólnego!
+$FAB_903_01x07_03_QTitle
+Czy oskarżony zamierzał wkroczyć do Francji na czele wojsk cesarskich?
+$FAB_903_01x07_03_00
+Czy oskarżony zamierzał wkroczyć do Francji na czele wojsk cesarskich?
+$FAB_903_01x07_03_01
+Niczego podobnego nie planowałem.
+$FAB_903_01x07_03_02
+W liście cesarz wyraźnie pisze o krokach niezbędnych do przywrócenia we Francji porządku.
+$FAB_903_01x07_03_03
+Nie wiem, jakie plany miał cesarz Leopold, ale wiem, że nigdy nie zgodziłbym się na przelewanie francuskiej krwi.
+$FAB_903_01x07_03_04
+Przyzna jednak oskarżony, iż tego typu propozycja, pochodząca od wrogiej rewolucji władzy, stawia go w złym świetle.
+$FAB_903_01x07_03_05
+Na Boga, to tylko prywatny list od mojego szwagra!
+$FAB_903_01x07_03_06
+Nie ma mowy o prywatnych listach, gdy dotyczą spraw państwowych, a ich adresatami są władający tymi państwami.
+$FAB_903_06x05_04_QTitle
+Czy może obywatel nazwać ministra Jeana-Marie Rolanda wiernym sługą?
+$FAB_903_06x05_04_00
+Czy może obywatel nazwać ministra Jeana-Marie Rolanda wiernym sługą?
+$FAB_903_06x05_04_01
+Służył dobrze Francji i rewolucji. Mnie swego czasu również.
+$FAB_903_06x05_04_02
+Mamy tutaj list ministra zachęcający do korumpowania deputowanych Konwentu. Doszły mnie słuchy, że po odkryciu szafy z nowymi dowodami Roland odprawił współpracowników, by móc spokojnie przejrzeć jej zawartość…
+$FAB_903_06x05_04_03
+Podczas jakiegoś  spotkania zażartowałem, że gdybyśmy znaleźli jednego sprawiedliwego w Konwencie, który by mnie poparł, tobyśmy uratowali równowagę w państwie…
+$FAB_903_06x05_04_04
+Najwidoczniej wasz niezbyt zabawny żart został odebrany zbyt dosłownie.
+$FAB_903_06x05_04_05
+Strach pomyśleć, jakie papiery minister zniszczył, patrząc na to, co się zachowało.
+$FAB_903_06x05_04_06
+Mam nadzieję, że podejrzany nie straci stanowiska, szkoda by było…
+$FAB_903_02x08_05_QTitle
+Czy Gwardia Szwajcarska miała wesprzeć atak księcia brunszwickiego na Paryż?
+$FAB_903_02x08_05_00
+Czy Gwardia Szwajcarska miała wesprzeć atak księcia brunszwickiego na Paryż?
+$FAB_903_02x08_05_01
+Nic z tych rzeczy, miała tylko strzec bezpieczeństwa mojej rodziny.
+$FAB_903_02x08_05_02
+Podwojenie Gwardii przed sierpniowymi wydarzeniami wygląda tak, jakby oskarżony wypełniał plan księcia Wilhelma.
+$FAB_903_02x08_05_03
+To nonsens, nie odpowiadam za intencje księcia Karola wyrażone w tym liście!  Miałbym występować przeciwko własnym poddanym w momencie, gdy jego ofensywa praktycznie się załamywała?
+$FAB_903_KEY_01
+Obrona posiadanej władzy
+$FAB_903_KEY_02
+Ściągnięcie wojska
+$FAB_903_KEY_03
+Próba ucieczki
+$FAB_903_KEY_04
+Międzynarodowy spisek
+$FAB_903_KEY_05
+Zdławienie rewolucji
+$FAB_903_KEY_06
+Polecenie ministra
+$FAB_903_KEY_07
+List od cesarza
+$FAB_903_KEY_08
+List od księcia
+
+$FAB_903_LastDialog_00
+Umieram niewinnie. Przebaczam mym wrogom.
+
+$FAB_903_UNIQUE_QUESTION_00
+Kto korumpował polityków na zlecenie króla?
+$FAB_903_UNIQUE_QUESTION_01
+Dlaczego cesarz Leopold II miał, według oskarżonego, pisać do niego listy?
+$FAB_903_UNIQUE_QUESTION_02
+Czy król wytłumaczył się jakoś z korupcyjnego polecenia dla ministra Roland?
+$FAB_903_UNIQUE_QUESTION_03
+Dlaczego król nie ostrzegł Zgromadzenia Narodowego o planach księcia Brunszwiku?
+
+$FAB_903_UNIQUE_ANSWER_CORRECT_00_00
+Jean-Marie Roland.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Arnaud II de La Porte.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Honoré Gabriel Riqueti.
+$FAB_903_UNIQUE_ANSWER_CORRECT_01_00
+Bał się o życie siostry, Marii Antoniny.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Bał się o życie króla, a jednocześnie przyjaciela.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Bał się o życie niewinnych obywateli.
+$FAB_903_UNIQUE_ANSWER_CORRECT_02_00
+Twierdzi, że to był żart.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ponoć się przejęzyczył.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Zaprzecza, że sytuacja w ogóle miała miejsce.
+$FAB_903_UNIQUE_ANSWER_CORRECT_03_00
+Nie uznał gróźb za poważne.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Zapomniał.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Twierdzi, że ostrzegł, ale nie potraktowano go poważnie.
+
+
+

@@ -1,0 +1,28 @@
+$KEYWORD_CATEGORY_001
+Личность ответчика
+$KEYWORD_CATEGORY_002
+Мотив
+$KEYWORD_CATEGORY_003
+Смягчающие обстоятельства
+$KEYWORD_CATEGORY_004
+Обвинение
+$KEYWORD_CATEGORY_005
+Улики
+$KEYWORD_CATEGORY_006
+Показания
+$KEYWORD_CATEGORY_007
+Место преступления
+$KEYWORD_CATEGORY_008
+Свидетели
+$KEYWORD_CATEGORY_009
+Метод
+$KEYWORD_CATEGORY_010
+Орудие убийства
+$KEYWORD_CATEGORY_011
+Контрреволюция
+$KEYWORD_CATEGORY_012
+Ход событий
+$KEYWORD_CATEGORY_013
+Жертва
+$KEYWORD_CATEGORY_014
+Защита

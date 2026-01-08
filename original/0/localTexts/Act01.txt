@@ -1,0 +1,109 @@
+#A01C1_D07_LETTER_MAIN
+Pochwycono króla!
+
+#A01C2_D09_LETTER_MAIN
+Szanowny obywatelu Fidèle,
+	
+chciałbym złożyć gratulacje z powodu przejścia do historii naszego kraju – o rozprawie króla mówią wszyscy mieszkańcy naszego miasta. Pragnę również pomówić o wyborze nowego komendanta Gwardii Narodowej, w puste miejsce po obywatelu Burelu. Sądzę, że jestem najodpowiedniejszym kandydatem do tego zaszczytu. Jeśli obywatel pozwoli, to odwiedzę go dzisiaj w domu. Wieczorem.
+	
+#A01C2_D09_LETTER_SENDER
+Niech żyje Republika,
+François Hanriot
+
+#A01C2_D13_LETTER_MAIN
+Paryż powinien dziękować, że ma w Tobie takiego dociekliwego obrońcę sprawiedliwości. Jako deputowani Konwentu chyba powinniśmy się zacząć bać o nasze stanowiska, czy tak?
+
+#A01C2_D13_LETTER_SENDER
+Niech żyje Republika,
+Robespierre
+
+#A01C2_D16_LETTER_MAIN
+Drogi przyjacielu,
+	
+słuchy mnie doszły, że dochodzisz do siebie po obrzydliwym zamachu na swoje życie. Twe zatargi z ministrem Rolandem przerodziły się w mobilizację żyrondystów, którzy chcą opanować Konwent i zapewne przywrócić tyranię. W imię obrony Republiki moje ugrupowanie chce zadać wyprzedzający cios i aresztować przywódców tych puczystów. Lista podejrzanych nie jest jednak zamknięta, nadal nie wiemy, kogo z państwa Rolandów oskarżyć o zamach na Ciebie.
+
+#A01C2_D16_LETTER_SENDER
+Niech żyje Republika,
+Maximilien de Robespierre
+
+#A01C2_D17_LETTER_MAIN
+Ludzie Rolandów wykonali zamach.
+
+Pache go opłacił.
+
+Nadal nie wiem kto zaplanował...
+
+
+#A01C2_D17_LETTER_SENDER
+Ramel
+
+#A01C3_D19_LETTER_MAIN
+Do Alexisa Fidèle,
+
+powiadomiono mnie, że chcesz się pilnie spotkać by omówić temat zbrodniarzy stojących za zamachem na Twoje życie. Chętnie porozmawiam, wieczorem.
+
+#A01C3_D19_LETTER_SENDER
+Niech żyje Republika,
+Jean Nicolas Pache
+
+#A01C3_D20_NOTE_MAIN
+Marie spotyka się z Béatrice Caron przy każdej możliwej okazji. Nie jest zamieszana w działania Muskadynów, ale… możemy stworzyć takie wrażenie. Wszystko jednak musi wyglądać jak akcja gwardii, nie możesz być w to wprost zamieszany.
+
+#A01C2_D13_MAP_LOCKED
+Jesteś ranny. Możesz tylko bezsilnie przyglądać się działaniom Twoich wrogów.
+
+
+$LETTER_CO_01_03_16_MAIN
+Szanowni obywatele sędziowie,
+
+wrogów Republiki przybywa z każdym dniem. Prowadzimy starania, by osłabić zdrajców, ale warunkiem jest szybsze i bardziej zdecydowane działanie Trybunału. Dosyć z karami więzienia i długimi rozprawami! Z sprawach pewnych, niepozostawiających wątpliwości, śledczy skrócą treść akt i zgodnie z wprowadzonym prawem prairiala możecie, obywatele sędziowie, orzekać w nich po samym ustaleniu tożsamości oskarżonego. Bez zbędnych rozpraw.
+
+$LETTER_CO_01_03_16_SENDER
+Robespierre
+
+
+$LETTER_CO_01_01_05_001
+Król zbiegł! Zdrajca! Ludzie posiadający informacje na temat miejsca jego pobytu mają natychmiast wyjawić je odpowiednim władzom!
+$LETTER_CO_01_01_05_002
+Robespierre
+
+
+$LETTER_CO_01_03_23_001_TITLE
+Drogi obywatelu,
+$LETTER_CO_01_03_23_001_MAIN
+w imieniu swoim oraz Konwentu Narodowego składam kondolencje z powodu śmierci syna.
+$LETTER_CO_01_03_23_001_SENDER
+Maximilien de Robespierre
+
+$LETTER_CO_01_03_23_002_TITLE
+Szanowny obywatelu,
+$LETTER_CO_01_03_23_002_MAIN
+nie ma słów, by opisać mój smutek z powodu tej okropnej zbrodni na Twojej rodzinie. Francja jest z Tobą!
+$LETTER_CO_01_03_23_002_SENDER
+Georges Danton
+
+$LETTER_CO_01_03_23_003_TITLE
+Przyjacielu,
+$LETTER_CO_01_03_23_003_MAIN
+kto mógł zrobić coś podobnego? Odwiedzę Was niedługo, druhu.
+$LETTER_CO_01_03_23_003_SENDER
+Jacques-Louis David
+
+$LETTER_CO_01_03_23_004_TITLE
+Drogi obywatelu,
+$LETTER_CO_01_03_23_004_MAIN
+w momentach takich jak ten tym mocniej trzeba zawierzyć Bogu. Modlimy się za Twoją rodzinę.
+$LETTER_CO_01_03_23_004_SENDER
+Jean-Baptiste Gobel
+
+$LETTER_CO_01_03_23_005_TITLE
+Drogi Fidéle,
+$LETTER_CO_01_03_23_005_MAIN
+Gwardia jest do Twojej dyspozycji, jeśli chcesz przetrząsnąć Paryż w poszukiwaniu tych drani. Kto normalny atakuje czyjeś dziecko?
+$LETTER_CO_01_03_23_005_SENDER
+François Hanriot
+
+$LETTER_CO_01_03_23_006_MAIN
+Dostałeś już pierwsze kondolencje? Z pewnością wśród autorów jest ten, który stoi za atakiem na Twoją rodzinę…
+$LETTER_CO_01_03_23_006_SENDER
+Ramel

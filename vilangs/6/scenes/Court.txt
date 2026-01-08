@@ -1,0 +1,240 @@
+$MENTOR_HELP_AVAIBLE_TIP1
+La ayuda de tu mentor cuesta <color="#ff0000">{0} Puntos de Influencia</color>
+$MENTOR_HELP_NOT_ENOUGH
+No tienes suficientes Puntos de Influencia.
+$GUILTY_RAW
+Culpable
+$NOTGUILTY_RAW
+Inocente
+$SIGNATURE_TIP
+Firme el documento para aceptar el veredicto.
+$VERDICT_SELECT
+Elija un veredicto:
+$GUILTY_VERDICT_MALE
+Declaro al acusado culpable y lo condeno a muerte.
+$PRISON_VERDICT_MALE
+Declaro al acusado culpable y lo condeno a prisión.
+$NOTGUILTY_VERDICT_MALE
+Declaro al acusado no culpable.
+$GUILTY_VERDICT_FEMALE
+Declaro a la acusada culpable y la condeno a muerte.
+$PRISON_VERDICT_FEMALE
+Declaro a la acusada culpable y la condeno a prisión.
+$NOTGUILTY_VERDICT_FEMALE
+Declaro al acusado no culpable.
+$CASE_FILES
+Expediente del caso
+$VERDICT
+Veredicto
+$PROTOCOL
+Protocolo
+$VERDICT_FORM
+Formulario de veredicto
+$NEWSPAPER
+Periódico
+$EVENT_ITEM
+Noticias
+$JURY_ON_START_DISEBLE_01
+Este caso no es lo bastante importante para que intervengamos. Haz con él lo que quieras.
+$JURY_ON_END_TOO_FAST_01
+¿Un veredicto? ¿Ya? ¿Y el juicio?
+$JURY_ON_END_DISAGREE_01
+¿Acaso importa lo que tengamos que decir? ¡Será mejor que nos tomes en cuenta la próxima vez!
+$GROUP_ATTITUDE_HEADER
+Influencia del veredicto en las facciones
+$PROSECUTOR_PROTOCOL_SIGNED
+El fiscal ha firmado su informe.
+$PROSECUTOR_PROTOCOL_UNSIGNED_DISABLE
+No tienes favores pendientes del fiscal.
+$PROSECUTOR_PROTOCOL_UNSIGNED_ENABLE
+Usa un favor del fiscal.
+$JURY_HEADER
+Opinión del jurado
+$JURY_SUPPORT_HIGH
+Amistoso
+$JURY_SUPPORT_NEUTRAL
+Neutral
+$JURY_SUPPORT_LOW
+Hostil
+$JURY_SENTENCE
+Opinión del jurado
+$JURY_SENTENCE_GUILTY
+Opinión del jurado: pena de muerte
+$JURY_SENTENCE_PRISON
+Opinión del jurado: prisión
+$JURY_SENTENCE_NOT_GUILTY
+Opinión del jurado: absolución
+$JURY_SENTENCE_HIDDEN
+El jurado aún no ha revelado su veredicto.
+$JURY_NO_SENTENCE
+El jurado no tiene opinión sobre este caso.
+$JURY_SUPPORT
+Favorabilidad del jurado.
+$KEYWORD_MATCH_SUCCESS
+Pregunta descubierta
+$KEYWORD_MATCH_FAILURE
+Enlace incorrecto
+$KEYWORD_MATCH_TRAP
+Atrapado en una trampa
+$KEYWORD_NO_MORE_CONNECTIONS
+Se han agotado todos los intentos
+$KEYWORD_ALL_CONNECTIONS_UNLOCKED
+Todas las preguntas desbloqueadas
+$KEYWORD_LOCKED_INFORMATION
+Sin descubrir
+$DIALOG_SENTENCE_ICON_TIP
+Influencia sobre la opinión del jurado
+$DISMISS_WITNESS
+Despedir al testigo
+$VERDICT_HEADER_FIRST
+TRIBUNAL
+$VERDICT_HEADER_SECOND
+REVOLUCIONARIO
+$MENTOR_FIRSTAGGRESSIONTUTORIAL
+Cuidado, la gente está inquieta. Puedes intentar manipular al jurado y al fiscal, pero cuanto más demores el veredicto, peores serán las consecuencias.
+$VERDICTWINDOW_JURY_NONE_MALE
+El jurado aún no ha llegado a un veredicto. Haga más preguntas.
+$VERDICTWINDOW_JURY_GUILTY_MALE
+El jurado vota a favor de la decapitación inmediata del acusado.
+$VERDICTWINDOW_JURY_NOTGUILTY_MALE
+El jurado vota a favor de absolver al acusado. Lo consideran inocente.
+$VERDICTWINDOW_JURY_PRISON_MALE
+El jurado vota a favor de encarcelar al acusado. Consideran que el castigo es suficiente.
+$VERDICTWINDOW_JURY_NONE_FEMALE
+El jurado aún no ha llegado a un veredicto. Haga más preguntas.
+$VERDICTWINDOW_JURY_GUILTY_FEMALE
+El jurado vota a favor de la decapitación inmediata del acusado.
+$VERDICTWINDOW_JURY_NOTGUILTY_FEMALE
+El jurado vota a favor de absolver a la acusada. La consideran inocente.
+$VERDICTWINDOW_JURY_PRISON_FEMALE
+El jurado vota a favor de encarcelar al acusado. Consideran que el castigo es suficiente.
+$VERDICTWINDOW_JURY_SUPPORT
+Jurado
+$VERDICTWINDOW_PROSECUTOR_SUPPORT
+Fiscal
+$TRIAL_SUMMARY
+Resumen del juicio
+$UNLOCKED_QUESTIONS
+Preguntas desbloqueadas: {0}/{1}
+$VERDICTWINDOW_GROUP_HEADER
+Inteligencia
+$STARTING_TRIAL_DIALOG_HEADER
+Comenzar el juicio
+$VERDICT_HEADER
+TRIBUNAL REVOLUCIONARIO
+$AUDIENCE_ATTITUDE_TOOLTIP_0
+La gente está contenta
+$AUDIENCE_ATTITUDE_TOOLTIP_1
+La gente está tranquila
+$AUDIENCE_ATTITUDE_TOOLTIP_2
+La gente está inquieta
+$AUDIENCE_ATTITUDE_TOOLTIP_3
+La gente está irritada
+$AUDIENCE_ATTITUDE_TOOLTIP_4
+La gente está furiosa
+$VERDICTWINDOW_DESC_VERDICT_NOT_SELECTED
+Elige un veredicto para ver cómo afecta a la facción
+$VERDICTWINDOW_DESC_VERDICT_SELECTED
+Las consecuencias del veredicto se determinaron según las relaciones entre las facciones
+$VERDICTWINDOW_NO_INFO_TIP
+Sin información
+$VERDICTWINDOW_GAMEOVER_PEOPLE
+Riesgo de muerte
+$VERDICTWINDOW_GAMEOVER_REVO
+Riesgo de destitución
+$VERDICTWINDOW_ADDITIONAL_REPUTATION
+Bono de reputación.
+$VERDICTWINDOW_UNLOCK_FROM_MAP_MISSION_TOOLTIP
+Desbloqueado en el mapa
+$VERDICTWINDOW_GROUPCHANGE_LOCKED_TOOLTIP
+La relación con la facción es demasiado baja para ver la influencia
+$DIALOG_HUB_HEADER
+Preguntas para el acusado
+$WITNESS_QUESTIONS_HUB_HEADER
+Preguntas para el testigo
+$KEYWORD_LOCKED_TOOLTIP
+Revisa los expedientes para desbloquear
+$DESIRED_VERDICT_PANEL_HEADER
+Sentencia esperada
+$PROTOCOL_QUIZ_SUMMARY_CORRECT
+Respuesta correcta
+$PROTOCOL_QUIZ_SUMMARY_INCORRECT
+Respuesta incorrecta
+$PROTOCOL_QUIZ_MENTOR_BUTTON_NOT_ENOUGHT
+Puntos de Influencia insuficientes
+$PROTOCOL_QUIZ_MENTOR_BUTTON_ACTIVE
+Obtén la ayuda de tu Mentor por <color="#ff0000">{0} PI</color>
+$PROTOCOL_QUIZ_PROSECUTOR_BUTTON_INACTIVE
+No puedes utilizar el favor del fiscal
+$PROTOCOL_SUMMARY_RESULT_TITLE
+Resultados del informe:
+$SUMMARY_EFFECTS
+Efectos
+$SUMMARY_ATTITUDE_POSSITIVE
+Influencia positiva
+$SUMMARY_ATTITUDE_NO_CHANGE
+Sin influencia
+$SUMMARY_ATTITUDE_NEGATIVE
+Influencia negativa
+$PROTOCOL_QUIZ_TITLE
+Informe
+$PROTOCOL_RESULT_WORST
+{0}/{1} ¡Trabajo inadmisible!
+$PROTOCOL_RESULT_BAD
+{0}/{1} ¡Mal trabajo!
+$PROTOCOL_RESULT_GOOD
+{0}/{1} ¡Buen trabajo!
+$PROTOCOL_REASON_01
+Elección incorrecta.
+$PROTOCOL_SIGNATURE_TOOLTIP
+Aprobar el informe.
+#FAMILY
+Familia
+$VERDICT_RELATIONSHIP_HEADER
+Informes del juez
+$PROTOCOL_JURY_SENTENCE_CHANGE_TOOLTIP
+Cambio de decisión del jurado:
+$PROTOCOL_QUIZ_JUDGE_SIGNATURE
+Firma del juez
+$PROTOCOL_QUIZ_PROSECUTOR_SIGNATURE
+Firma del fiscal
+$JURY_EFFECT_HEADER
+Influencia del jurado:
+$PROSECUTOR_QUEST_MAIN
+¿Le recuerdo lo que me debe después de nuestra última partida de dados? Perdió ayer, ¿lo recuerda?
+$PROSECUTOR_QUEST_GUILTY
+El acusado muere hoy.
+$PROSECUTOR_QUEST_PRISON
+Quiero que el acusado sea enviado a prisión.
+$PROSECUTOR_QUEST_NOT_GUILTY
+¡Liberemos al acusado!
+$PROSECUTOR_BAD_QUIZ_POPUP
+No pienso firmar un informe tan chapucero. ¡Cuidado, no vaya a llevarte esto a la guillotina!
+$VERDICT_LOCKED_TEXT
+No disponible en este caso
+$VERDICT_LOCKED_TEXT_BUILDING
+Alguien convenció a sus superiores de que este informe sería una pérdida de tiempo.
+$FLASHCARDS_DISABLED_TOOLTIP
+Los Juicios Rápidos aún no están disponibles
+$GUILTY_VERDICT_PROLOG
+Declaro al acusado culpable del delito que se le imputa.
+$FLASHCARDS_PROSECUTOR_ENTER
+Hoy solo tenemos que ocuparnos de algunos casos menores.
+$FLASHCARDS_PROSECUTOR_EXIT
+Gracias. Incluso los más humildes merecen justicia.
+$QUIZ_DIALOG_SOURCE_LOCKED_TOOLTIP
+El tema no se mencionó durante el interrogatorio.
+$KEYWORDVIEW_NUMBER_OF_CHANGES
+Posibles errores
+$KEYWORDVIEW_NUMBER_OF_TRAPS
+Número de trampas
+$KEYWORD_VIEW_NUMBER_OF_QUESTIONS_LEFT
+Preguntas por revelar: {0}
+$KEYWORD_VIEW_BUTTON_TOOLTIP
+Desbloquear preguntas
+$VERDICT_FLASHCARDS_EMPTY_LABEL
+Hoy no tienes más casos por hoy.
+$MAIN_SECTION_MILESTONE_TITLE
+Construcción inconclusa
+$MAIN_SECTION_MILESTONE_MAIN
+No cumpliste con tu deber de terminar la construcción de la estatua a tiempo. París está decepcionado.

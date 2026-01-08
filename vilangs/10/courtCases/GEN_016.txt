@@ -1,0 +1,273 @@
+$GEN_016_DOC_01_HEADER
+Derleyen: Bruno Merieles
+$GEN_016_DOC_01_00
+Sanık sandalyesinde, Parisli 55 yaşındaki çamaşırcı Hélène Gignac oturuyor. O, örnek bir eş ve anne, <a name="1" class="hidden">son derece dindar</a>, komşuları ve müşterileri tarafından büyük saygı görüyor.
+$GEN_016_DOC_01_01
+<a name="2" class="hidden">Kocası</a> marangozdur, yıllardır kendi atölyesinin sahibidir ve ikisi de vergilerini zamanında öderler.
+$GEN_016_DOC_01_02
+Suçlamalar, sanığın hırsızlık girişimi sırasında jandarmalar tarafından yakalandığı eczanenin sahibi Raymond Houllier tarafından getirildi. Gignac vitrin camını kırıp dükkâna girmeye çalıştı. Kendi ifadesine göre, onu bu suça iten şey sabun kıtlığı ve kalan sabunların fahiş fiyatlarıydı.
+$GEN_016_DOC_01_03
+Görünüşe göre <a name="4" class="hidden">çaresizliğe</a> kapılmıştı, öyle ki ellerini kırık camla yaralamıştı. Onu pencerenin önünde otururken, ağlarken buldular. Jandarmalar yaralarını sardıktan sonra onu tutuklayıp, vandalizm ve hırsızlığa teşebbüsle suçladılar. Çalınan malları <a name="5" class="hidden">karaborsada satmak</a> istemiş olmasından şüpheleniyoruz, gerçi çamaşırhanesinde <a name="6" class="hidden">hiç sabun yoktu</a> da.
+$GEN_016_DOC_01_04
+Raymond Houllier, dükkânın üstündeki dairesinden koşarak indiğinde, Bayan Gignac’ın bir cam parçası alıp ona saldırdığını iddia ediyor. Neden böyle davrandığını bilmiyoruz. Houllier, dükkâna zarar vermesinin, hırsızlık yapmasının ve kendisine saldırmasının, daha önce ona veresiye sabun satmayı reddettiği için <a name="7" class="hidden">intikam almak</a> istemesinden kaynaklandığını düşünüyor.
+$GEN_016_DOC_01_05
+Delil: 
+<a name="8" class="hidden">Kanlı cam parçası.</a>
+$GEN_016_OnStart_00
+Onu anlamaya çalış, bu zor zamanlar!
+$GEN_016_OnStart_01
+Adınız nedir?
+$GEN_016_OnStart_02
+Hélène Gignac. Ben sıradan bir çamaşırcıyım, sadece çalışmaya devam etmek istiyorum. Kimseye zarar vermek istemedim.
+$GEN_016_OnStart_03
+Bir karıncayı bile incitmez!
+$GEN_016_OnStart_04
+Davanın notlarına dayanacağım, seyircilerin yorumlarına değil.
+$GEN_016_OnGuilty_00
+Vatandaş Hélène Gignac’ı giyotinle idama mahkûm ediyorum.
+$GEN_016_OnGuilty_01
+Sert ama adil.
+$GEN_016_OnGuilty_02
+Bu insanlık dışı!
+$GEN_016_OnGuilty_03
+Nasıl olur da masum bir kadını öldürebilirsiniz?!
+$GEN_016_OnGuilty_04
+Canavarlar!
+$GEN_016_OnPrison_00
+Vatandaş Hélène Gignac’ı hapis cezasına çarptırıyorum. Götürün onu!
+$GEN_016_OnPrison_01
+Bu ona sorunların nasıl çözülmemesi gerektiğini öğretir.
+$GEN_016_OnPrison_02
+Zavallı kadın.
+$GEN_016_OnPrison_03
+Umarız hapishanede hayatta kalır.
+$GEN_016_OnPrison_04
+Hapishaneler masum insanlarla dolu!
+$GEN_016_OnNotGuilty_00
+Vatandaş Hélène Gignac’ın suçsuz olduğuna karar verdim. Serbestsiniz, gidebilirsiniz.
+$GEN_016_OnNotGuilty_01
+Halkla empati kurduğunuzu anlıyorum, fakat o gerçekten suçluydu.
+$GEN_016_OnNotGuilty_02
+Yaşasın!
+$GEN_016_OnNotGuilty_03
+Sonunda vicdanlı bir yargıç!
+$GEN_016_OnNotGuilty_04
+Onun gibi daha fazla yargıca ihtiyacımız var!
+$GEN_016_01x03_00_QTitle
+Dindar olduğunuzu duydum.
+$GEN_016_01x03_00_00
+Dindar olduğunuzu duydum, fakat yaptığınızla On Emir arasında bir bağlantı göremiyorum.
+$GEN_016_01x03_00_01
+Kocamla birlikte zar zor geçiniyoruz. Bay Raymond’dan borç istedim, ama reddetti. Sadece çalışabilmek istedim ve ona borcumu ödeyeceğimi söyledim.
+$GEN_016_01x03_00_02
+Ve çözüm soygun yapmak mıydı?
+$GEN_016_01x03_00_03
+Hayır, ama açlıktan ölmek de değildi.
+$GEN_016_01x03_00_04
+Yani, sabun eksikliği sizi öldürür mü diyorsunuz? Kocanız da çalışıyor.
+$GEN_016_01x03_00_05
+O bir marangoz, hem zaten ağaç bulmak da zor.
+$GEN_016_01x03_00_06
+Başka bir meslek seçebilirdiniz, ailenizden ya da yetkililerden yardım isteyebilirdiniz... ama siz çalmayı mı tercih ettiniz?
+$GEN_016_01x03_00_07
+Yetkililer yalnızca kendilerine yardım eder.
+$GEN_016_01x03_00_08
+Neden mesleğini değiştirmiyorsun?!
+$GEN_016_01x04_01_QTitle
+Davranışınızı açıklayabilir misiniz?
+$GEN_016_01x04_01_00
+Davranışınızı açıklayabilir misiniz?
+$GEN_016_01x04_01_01
+Müşteriler bana geliyor, ama sabun olmadan çalışamıyorum, bu yüzden başka yere gidiyorlar. Çamaşırhane benim tüm hayatım, daha önce de büyük yoksulluk yaşadım. Çamaşırhane sayesinde onurlu bir hayat sürebildim.
+$GEN_016_01x04_01_02
+O saldırı ne kadar onurluydu?
+$GEN_016_01x04_01_03
+Böyle olmasını gerçekten istememiştim.
+$GEN_016_01x04_01_04
+Sadece çalmak mı istedin?
+$GEN_016_01x04_01_05
+Sadece ekmek alacak param olsun istedim.
+$GEN_016_01x04_01_06
+Devrim her şeyi daha iyi yapacaktı!
+$GEN_016_01x04_01_07
+Bu bir mazeret değil. Dükkan sahibi de ekmek almak istiyor.
+$GEN_016_01x04_01_08
+Ondan fazla bir şey almak istememiştim. Hem, çoğumuzdan çok daha iyi durumda.
+$GEN_016_03x05_02_QTitle
+Yasanın, vurgunculuğun ölümle cezalandırıldığını belirttiğinin farkında mısınız?
+$GEN_016_03x05_02_00
+Yasanın, vurgunculuğun ölümle cezalandırıldığını belirttiğinin farkında mısınız?
+$GEN_016_03x05_02_01
+Evet, biliyorum, sadece sabuna ihtiyacım vardı–
+$GEN_016_03x05_02_02
+Çalışmak için, evet. Ancak sizin durumunuzda, karaborsacılık çok daha kârlı olurdu. Çalınan sabunu satıp çok daha yüksek bir fiyat isteyebilirdiniz. Er ya da geç bir alıcı mutlaka çıkardı.
+$GEN_016_03x05_02_03
+Sabun o kadar da pahalı değil.
+$GEN_016_03x05_02_04
+Gerçekten mi? Onu elde etmenin ne kadar zor olduğunu kendi gözlerinle gördün. Eğer çalmaya razıysan, bir başkası da o mal için sana para ödemeye razı olurdu.
+$GEN_016_03x05_02_05
+Peki, o alıcıyı nerede bulacağım? Kimseyi tanımıyorum. Zaten evimde hiçbir şey olmadığını siz de gördünüz. O üniformalı adam her yeri dikkatlice aradı.
+$GEN_016_03x05_02_06
+Kendi kafalarından uyduruyorlar – bizim nasıl yaşadığımızdan haberleri yok!
+$GEN_016_03x06_03_QTitle
+Daha önce sabunu nereden alıyordunuz?
+$GEN_016_03x06_03_00
+Daha önce sabunu nereden alıyordunuz?
+$GEN_016_03x06_03_01
+Her zaman aynı yerde, banliyödeki bir depoda.
+$GEN_016_03x06_03_02
+Vatandaş Houllier’den değil mi?
+$GEN_016_03x06_03_03
+Depodan fiyat çok daha uygundu. Eşimle birlikte her zaman koca bir kasa alırdık, daha uzun süre yetiyordu.
+$GEN_016_03x06_03_04
+Bu sefer neden o depoya gitmediniz?
+$GEN_016_03x06_03_05
+Gittim, ama satacak hiçbir şeyleri yoktu. Ne yapabilirdim ki? Hem sonuçta hiçbir şey çalmadım…
+$GEN_016_03x06_03_06
+Çünkü yakalandınız.
+$GEN_016_03x06_03_07
+Evet, ama sabuna hiç dokunulmamış. Benim suçum ne?
+$GEN_016_03x06_03_08
+Yasa böyle işlemez, Yurttaş.
+$GEN_016_07x08_04_QTitle
+Bay Houllier, ona bir cam parçasıyla saldırdığınızı iddia ediyor. Doğru mu?
+$GEN_016_07x08_04_00
+Bay Houllier, ona bir cam parçasıyla saldırdığınızı iddia ediyor. Doğru mu?
+$GEN_016_07x08_04_01
+Ondan şikayetçi olmamasını istemek istedim. Ona koştum, yalvarmaya hazırdım, ama beni itti…
+$GEN_016_07x08_04_02
+Ona suçlamada bulunmamasını isterken elinizde keskin bir cam parçası mı vardı?
+$GEN_016_07x08_04_03
+Her şey bir anda oldu...
+$GEN_016_07x08_04_04
+Yani, elinizde keskin bir cisimle, kana bulanmış halde başka birine doğru mu koşuyordunuz?
+$GEN_016_07x08_04_05
+Öyle görünebilir...
+$GEN_016_07x08_04_06
+Hadi ama, o sadece yaşlı bir kadın.
+$GEN_016_07x08_04_07
+Bay Houllier bunun bir saldırı girişimi olduğunu iddia ediyor. Hatta bunun bir intikam olabileceğini öne sürdü.
+$GEN_016_07x08_04_08
+Hiç bile! Elimde o cam parçası olduğunu fark etmemiştim. Şoktaydım, her yer kan içindeydi.
+$GEN_016_02x04_05_QTitle
+Peki ya kocanızın desteği? Sizin… farkınıza varmadı mı?
+$GEN_016_02x04_05_00
+Peki ya kocanızın desteği? Kırılgan halinizi fark etmedi mi, ya da sizin umutsuz bir şey yapabileceğinizden şüphelenmedi mi?
+$GEN_016_02x04_05_01
+Çamaşırhane kapandığından beri iki kat fazla çalışmak zorunda kaldı.
+$GEN_016_02x04_05_02
+Sizce şimdi daha da endişelenecek mi?
+$GEN_016_02x04_05_03
+Bir şey yapmalıydım! Onca emeğinden sonra, her geçen gün daha da yorulmasına artık seyirci kalamazdım.
+$GEN_016_02x04_05_04
+Bırakın onları! Gerçek suçlu mu kalmadı?
+$GEN_016_04x06_06_QTitle
+Abarttığınızdan emin misiniz…?
+$GEN_016_04x06_06_00
+Abarttığınızdan emin misiniz? Er ya da geç tedarikler yeniden sağlanır, fiyatlar da dengelenirdi. Belki de biraz daha sabırlı olmalıydınız?
+$GEN_016_04x06_06_01
+Belki, ama ben sade bir kadınım ve sorunları olabildiğince çabuk çözmeye çalışırım.
+$GEN_016_04x06_06_02
+Az önce sonuçlarını düşünmemeyi düşüncesizlikle mi açıkladınız? Neden olduğu gibi söylemiyorsunuz? Aptallık.
+$GEN_016_04x06_06_03
+Bu biraz fazla olmadı mı, ne dersin?
+$GEN_016_04x06_06_04
+Sıradan insanlarla konuşurken sade kelimeler kullanırım.
+$GEN_016_04x06_06_05
+Bizi ne sanıyorlar?
+$GEN_016_08x03_07_QTitle
+Bay Raymond Houllier’i çağırın.
+$GEN_016_08x03_07_00
+Bay Raymond Houllier’i çağırın.
+$GEN_016_08x03_07_02
+Sanıkla tanışıyor musunuz? Daha önce dükkanınızdan bir şey satın aldı mı?
+$GEN_016_08x03_07_03
+Hayır, onu daha önce hiç görmemiştim, ta ki yakın zamana kadar.
+$GEN_016_08x03_07_04
+İlk kez ne zaman tanıştığınızı anlatın.
+$GEN_016_08x03_07_05
+Sabun almak istedi, ama parası yoktu.
+$GEN_016_08x03_07_06
+Ne yaptınız?
+$GEN_016_08x03_07_07
+Ona gitmesini söyledim! Hepimizin derdi var, bana ise kimse yardım etmiyor.
+$GEN_016_08x03_07_08
+Sana borcunu ödeyeceğine söz verdi mi?
+$GEN_016_08x03_07_09
+Evet, ama ona neden inanayım ki? Onu tanımam, daha önce dükkânımdan hiç alışveriş yapmamıştı. Sadece sık gelen müşterilerime veresiye veririm.
+$GEN_016_WIT_00_A_QTitle
+Vatandaş Gignac’ın o günkü davranışını nasıl tarif edersiniz?
+$GEN_016_WIT_00_A_00
+Vatandaş Gignac’ın o günkü davranışlarını nasıl tanımlarsınız?
+$GEN_016_WIT_00_A_01
+Pencereyi kırdı ve cam parçasıyla beni bıçaklamaya kalktı. Daha ne anlatayım?
+$GEN_016_WIT_00_A_02
+Soruyu yanıtlayın.
+$GEN_016_WIT_00_A_03
+Çılgına dönmüştü ve intikam almak istiyordu.
+$GEN_016_WIT_00_A_04
+Belki de aslında size saldırmak gibi bir niyeti yoktu?
+$GEN_016_WIT_00_A_05
+O halde neden elinde bir cam parçasıyla bana doğru koşsun?
+$GEN_016_WIT_00_B_QTitle
+Bayan Gignac, sizin deyiminizle, size cam parçasıyla saldırmaya çalışırken bir şey söyledi mi?
+$GEN_016_WIT_00_B_00
+Bayan Gignac, sizin deyiminizle, elindeki cam parçasıyla sizi bıçaklamaya çalışırken bir şey söyledi mi?
+$GEN_016_WIT_00_B_01
+Özel bir şey yok, sadece sızlanma, ağlama, bağırma…
+$GEN_016_WIT_00_B_02
+Alıntı yapabileceğin bir şey anlayabildin mi?
+$GEN_016_WIT_00_B_03
+Hayır, bu sadece bir deli kadının mırıldanmasıydı, hepsi bu.
+$GEN_016_WIT_00_B_04
+Onu etkisiz hale getirdiniz mi?
+$GEN_016_WIT_00_B_05
+Öyle de denebilir.
+$GEN_016_WIT_00_B_06
+Yaşlı bir kadını dövdü.
+$GEN_016_WIT_00_B_07
+Sonrasında onunla konuştunuz mu?
+$GEN_016_WIT_00_B_08
+Hayır, istasyona kadar bütün yol boyunca ağladı.
+$GEN_016_KEY_01
+Dindar kadın
+$GEN_016_KEY_02
+Koca
+$GEN_016_KEY_03
+Hırsızlık girişimi
+$GEN_016_KEY_04
+Umutsuzluk
+$GEN_016_KEY_05
+Sabun vurgunu
+$GEN_016_KEY_06
+Sabun kıtlığı
+$GEN_016_KEY_07
+İntikam
+$GEN_016_KEY_08
+Kanlı cam parçası
+$GEN_016_LastDialog_00
+Aman Tanrım, neden? Çamaşırhaneme ne olacak? Daha yeni insan gibi yaşamaya başlamıştık…
+$GEN_016_UNIQUE_QUESTION_00
+Sanık sabun almaya mı çalıştı?
+$GEN_016_UNIQUE_ANSWER_CORRECT_00_00
+Evet, ama yeterince parası yoktu.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Evet, ama Houllier satmayı reddetti.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Hayır, onu çalmak için gelmişti.
+$GEN_016_UNIQUE_QUESTION_01
+Sanığın ailesinin tek gelir kaynağı çamaşırhane mi?
+$GEN_016_UNIQUE_ANSWER_CORRECT_01_00
+Hayır, kocası bir marangoz.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Hayır, oğlu orduda görev yapıyor.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Evet, ailesinde başka çalışan yok.
+$GEN_016_UNIQUE_QUESTION_02
+Sanık, saldırı sırasında mağdura herhangi bir şey söyledi mi?
+$GEN_016_UNIQUE_ANSWER_CORRECT_02_00
+Hayır, sadece anlaşılmaz bir şeyler bağırdı.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Evet, onu öldüreceğini söyledi.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Ona sabunu vermesini söyledi.

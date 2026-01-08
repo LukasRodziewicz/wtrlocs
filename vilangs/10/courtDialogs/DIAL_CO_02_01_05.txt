@@ -1,0 +1,10 @@
+$DIAL_CO_02_01_05_DRIVER_001
+Günaydın, Yurttaş. Sizi baloya götürmek için buradayım.
+$DIAL_CO_02_01_05_JUDGE_002
+Gitmeye niyetim olduğundan bu kadar emin olmanızın sebebi ne?
+$DIAL_CO_02_01_05_DRIVER_003
+Direnirseniz, Yurttaş Renard bana, etkinlik sırasında çocuğunuzu öldüren kişinin adını açıklayacağını iletmemi istedi.
+$DIAL_CO_02_01_05_JUDGE_004
+Ne?! Kimin yaptığını gayet iyi biliyorum!
+$DIAL_CO_02_01_05_DRIVER_005
+Bundan ciddi şekilde şüpheliyim. Fayton sizi bekliyor, Yurttaş. Kaybedecek hiçbir şeyiniz yok. Lütfen, beni takip edin.

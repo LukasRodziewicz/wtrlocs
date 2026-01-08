@@ -1,0 +1,22 @@
+$CUT_046_RAMEL_001
+Es-tu sûr de ce que tu fais ?
+$CUT_046_JUDGE_002
+Tinville ne compte pas coopérer. Je n'ai donc pas le choix.
+$CUT_046_RAMEL_003
+Tu combats déjà Robespierre…
+$CUT_046_JUDGE_004
+Renard est notre ennemi depuis toujours.
+$CUT_046_JUDGE_005
+Je me rends finalement compte que j'aurais dû m'occuper de lui dès le début. J'aurais dû le tuer.
+$CUT_046_RAMEL_006
+Tu as changé depuis notre première rencontre.
+$CUT_046_JUDGE_007
+Que veux-tu dire ?
+$CUT_046_RAMEL_008
+Tu as bien moins de scrupules à envisager des assassinats.
+$CUT_046_JUDGE_009
+Hé bien ! Te serais-tu doté d'une conscience tout à coup ?
+$CUT_046_RAMEL_010
+Je vais t'aider.
+$CUT_046_RAMEL_011
+Mais Renard n'est pas celui qui menace le plus ta famille…

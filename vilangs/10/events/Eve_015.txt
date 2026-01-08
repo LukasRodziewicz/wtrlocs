@@ -1,0 +1,28 @@
+$EVE_015_TITLE
+Hayatının Anlaşması
+$EVE_015_MAIN_01
+Blaise Roy adında bir adam eşinizi ziyarete geldi. Görünüşe göre bir zamanlar... duygusal olarak yakınlarmış. Roy, bir dokuma atölyesi açmak için Paris’teki iki bankadan borç almış, tahmin edersiniz ki işler yolunda gitmemiş. Kredilerin ödemesini ertelemeye çalışmış; bankalardan biri kabul etmiş, diğeri ise reddetmiş. Roy, konumunuzu kullanarak ona yardım etmenizi umuyor. Eşinize baskı yapıyor, “ona borçlu olduğunu” iddia ediyor.
+$EVE_015_MAIN_01_C1
+Durumu araştır
+$EVE_015_MAIN_01_C2
+Adamı tutukla
+$EVE_015_MAIN_01_C3
+Konuyu görmezden gel
+$EVE_015_MAIN_02A
+Bankanın ödeme tarihini ertelemeyi neden reddettiğini düşünmekte fayda var. Görünüşe göre bu karara en çok karşı çıkan kişi banka müdürü Abel Daquin. Onun bir eşi ve kızı var. Söylentilere göre, ikisi de Roy’u kendilerine fazlasıyla yaklaştırmış. Bay Daquin bunu öğrenince, bankanın Roy’a verdiği parayı kaybetmeyi göze alır olmuş.
+$EVE_015_MAIN_02A_C1
+Blaise Roy'u tutukla
+$EVE_015_MAIN_02A_C2
+Banka müdüründen bir iyilik istemek
+$EVE_015_MAIN_02A_C3
+Banka müdürünü tehdit et
+$EVE_015_MAIN_02B
+Adamın isteğinde şantajın izlerini hissetmemek elde değildi, ama sırtı duvara dayalı birinden başka ne beklenirdi ki?
+$EVE_015_MAIN_02C
+Küçük insanların meseleleriyle, karınızın eski talipleri dahil, ilgilenmemeniz anlaşılır bir durum. Öyle olsun.
+$EVE_015_MAIN_03B
+Kendi seviyenden biriyle sohbet etmenin yerini hiçbir şey tutamaz. Banka müdürü için Blaise Roy, bir pireden farksızdır – rahatsız edici ama zararsız, ona ciddi şekilde karşı koyacak gücü yoktur. Ancak Devrim Mahkemesi’nin yargıcı bambaşka bir meseledir. Onu bir kadeh şarap içmeye davet ettin ve zavallı adamın durumuyla ilgilendiğini söyledin. Abel Daquin’in umurunda bile değildi – ta ki ona ömür boyu minnettarlık ve bir iyilik sözü verene kadar. Bir anda fikri değişti ve ödemeyi ertelemeyi kabul etti.
+$EVE_015_MAIN_03C
+Siz ve sivil kıyafetli iki iri muhafızla bankeri ziyaret ettiğinizde, pek memnun olduğu söylenemezdi. Ahşap sopalar, ayakkabılarıyla pek uyumlu değildi doğrusu. Daquin, argümanlarınızı dikkatle dinledi ve ödemenin tarihini ertelemeyi kabul etti. Ama bunu asla unutmayacak.
+$EVE_015_MAIN_03E
+Kötü haberleri getirdiğim için üzgünüm. Blaise Roy hapishanede intihar etti. Zavallı, bir şekilde bileklerini kesmiş. Görünüşe göre artık bir duruşma olmayacak…

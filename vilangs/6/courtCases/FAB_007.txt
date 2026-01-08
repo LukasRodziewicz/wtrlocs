@@ -1,0 +1,346 @@
+$FAB_007_DOC_1_HEADER
+Compilado por: Fabrice Poli
+$FAB_007_DOC_1_00
+Jean-Marie Roland, hasta hace poco ministro del Interior, ha sido acusado de <a name="1" class="hidden">corrupción</a> y <a name="2" class="hidden">traición</a>.
+$FAB_007_DOC_1_01
+Por el cargo de corrupción, iniciamos la investigación interrogando a destacados miembros de la Convención. Los ciudadanos Hébert y Robespierre resultaron especialmente útiles. Declararon que el ministro Roland, en varias ocasiones, les había ofrecido discretamente ciertos beneficios a cambio de que suavizaran su postura respecto a la continuación de la guerra contra las monarquías que nos amenazan, principalmente Gran Bretaña y España. Sin embargo, los ciudadanos mencionados no disponían de pruebas contundentes que les permitieran acusar a Roland. Además, sospechaban que la propuesta no provenía directamente del ministro. Especulaban que el verdadero instigador podría haber sido el propio <a name="4" class="hidden">ciudadano Capeto</a>, quien mantenía estrechas relaciones con Roland. No queriendo lanzar una acusación infundada, los implicados esperaban la aparición de pruebas irrefutables.
+$FAB_007_DOC_1_02
+Cuando su intento de sobornar a miembros destacados de la Convención fracasó, Roland supuestamente recurrió a diputados menos influyentes. Esperaba ganarse su favor con el apoyo de su esposa, Jeanne Marie Roland. Ella organizaba un salón político que servía de tapadera para la gestión de un <a name="6" class="hidden">burdel</a>. Por desgracia, no pudimos identificar a ningún diputado que hubiera aprovechado la hospitalidad ofrecida por Madame Roland y sus pupilas. Sin embargo, los vecinos confirmaron que por las noches llegaban a la dirección indicada carruajes llenos de hombres. No sabemos si realmente iban allí a debatir sobre política, pero no parece probable.
+$FAB_007_DOC_1_03
+	El cargo de traición se fundamenta en los hechos revelados durante el juicio al ciudadano Capeto, es decir, el gabinete de hierro. Se supone que Roland <a name="7" class="hidden">se apresuró a tomar</a> algunos de los documentos del gabinete que podrían incriminarlo. Uno de los participantes en esos acontecimientos y subordinado del ministro, Phillipe Côté, ha manifestado su disposición a testificar. Gracias a su agudeza, se evitó la <a name="8" class="hidden">destrucción de documentos</a> relacionados con el propio Luis.
+$FAB_007_DOC_1_04
+Como si esto no fuera suficiente, en el último momento el ciudadano Saint-Just informó que, para alcanzar el poder absoluto, los girondinos intentaban <a name="9" class="hidden">derrocar la Convención</a> por la fuerza. Se nos ha notificado que miembros de este grupo trabajaron activamente para <a name="10" class="hidden">incitar una insurrección</a>, lo que les permitiría tomar el control en otras regiones del país. Al parecer, las ciudades de Nantes y Niort estaban gravemente amenazadas por su actividad, ya que la intensidad de los ánimos <a name="11" class="hidden">contrarrevolucionarios</a> y monárquicos ha aumentado.
+$FAB_007_DOC_1_05
+A la luz de estos hechos, el pueblo de París, representado por el fiscal Tinville, exige que este traidor sea condenado a muerte de inmediato.
+$FAB_007_OnStart_00
+Aunque todos conocemos al acusado, le ruego que se presente para el acta.
+$FAB_007_OnStart_01
+Jean-Marie Roland, Ministro del Interior y diputado de la Convención–
+$FAB_007_OnStart_02
+¡Ya no eres ministro, traidor!
+$FAB_007_OnStart_03
+Soy inocente, a menos que logre demostrar mi culpabilidad.
+$FAB_007_OnStart_04
+¡Córtale la cabeza a esa serpiente cuanto antes!
+$FAB_007_OnGuilty_00
+¡Condeno a Jean-Marie Roland a muerte! ¡Que muera como los demás traidores!
+$FAB_007_OnGuilty_01
+¡Bien! ¡Viva el Juez!
+$FAB_007_OnGuilty_02
+¡Limpiaremos el gobierno de espías ingleses!
+$FAB_007_OnPrison_00
+Jean-Marie Roland es condenado a prisión.
+$FAB_007_OnPrison_01
+¿No está tomando este caso con demasiada ligereza?
+$FAB_007_OnPrison_02
+¡Esto es absurdo! ¿Pretenden que aceptemos esto?
+$FAB_007_OnNotGuilty_00
+Jean-Marie Roland es inocente. Déjenlo en libertad.
+$FAB_007_OnNotGuilty_01
+¿Inocente?
+$FAB_007_OnNotGuilty_02
+¿Y si el juez también es un traidor?
+$FAB_007_OnNotGuilty_03
+Está claro que no te apuñalaron con suficiente fuerza, ¿verdad?
+$FAB_007_01x03_00_QTitle
+Los ciudadanos Hébert y Robespierre declararon que usted les ofreció un soborno…
+$FAB_007_01x03_00_00
+Los ciudadanos Hébert y Robespierre declararon que les ofreció un soborno para suavizar el rumbo de nuestra política exterior. ¿Es cierto?
+$FAB_007_01x03_00_01
+Por supuesto que no. Como Ministro del Interior, no habría obtenido ningún beneficio.
+$FAB_007_01x03_00_02
+Eso depende de lo que el ciudadano Capeto esperaba de usted.
+$FAB_007_01x03_00_03
+Si hubiera convencido a la Convención de iniciar negociaciones de paz, el pueblo habría creído que todo había terminado. Bajarían la guardia y los agentes enemigos cruzarían las fronteras con mayor facilidad. Eso habría complicado considerablemente mi labor.
+$FAB_007_01x03_00_04
+El acusado acaba de revelar el posible motivo de sus actos. ¡Eso es precisamente lo que desearía un traidor: una oleada de espías enemigos destruyendo Francia!
+$FAB_007_01x03_00_05
+¡Traidor!
+$FAB_007_01x03_00_06
+¡Cuantos más espías tengamos, más dinero recibiremos de los austriacos!
+$FAB_007_01x03_00_07
+¡Cállate, necio estridente! ¡Gracias a mi labor, los hebertistas pudieron proseguir sus guerras sin temer que el país se desmoronara bajo el peso de sus botas autoritarias!
+$FAB_007_01x03_00_08
+¡Silencio en la sala!
+$FAB_007_01x06_01_QTitle
+Las investigaciones indican que la esposa del acusado era dueña de un burdel de lujo…
+$FAB_007_01x06_01_00
+Las investigaciones indican que la esposa del acusado poseía un burdel de lujo, donde podría haberse producido la corrupción de los miembros de la Convención.
+$FAB_007_01x06_01_01
+¡Eso es un disparate absoluto y una ofensa! Mi esposa es una mujer respetada y virtuosa que organizaba un salón político. Era un lugar donde grandes mentes se reunían para intercambiar opiniones sobre los asuntos del momento…
+$FAB_007_01x06_01_02
+Mis informantes han confirmado las conclusiones de los investigadores.
+$FAB_007_01x06_01_03
+¡Qué bastardo mentiroso es ese Roland!
+$FAB_007_01x06_01_04
+¿Y qué me importan unos cuantos necios? Si mi esposa realmente hubiera organizado tales orgías en pleno París, no necesitarían informantes secretos para enterarse. Esta acusación es un completo disparate.
+$FAB_007_01x06_01_05
+¿Entonces niega haber sobornado a políticos ofreciendo estos… servicios?
+$FAB_007_01x06_01_06
+Ninguno. Además, ¿a quién habría de sobornar y para qué? No tengo ni un solo enemigo en la política.
+$FAB_007_01x06_01_07
+La mayoría de la Convención desea verte bajo la guillotina, así que tal vez deberías abrir los ojos y prestar más atención. Según mi información, este tipo de soborno ya te aseguró el apoyo de Jean Debry y Brissot.
+$FAB_007_01x06_01_08
+Eso no son más que habladurías, ¡y resultan ofensivas para esos estadistas!
+$FAB_007_02x04_02_QTitle
+¿Recuerda, ciudadano, que Luis Capeto fue declarado culpable de traición?
+$FAB_007_02x04_02_00
+¿Recuerda, ciudadano, que Luis Capeto fue declarado culpable de traición?
+$FAB_007_02x04_02_01
+Por supuesto que sí.
+$FAB_007_02x04_02_02
+Parece que las propuestas de corrupción fueron idea del difunto.
+$FAB_007_02x04_02_03
+No hubo propuestas, y si Luis llegó a considerar algo así, lo desconozco por completo.
+$FAB_007_02x04_02_04
+¿Se refiere a él por su nombre de pila? El ciudadano Capeto habló de usted con aprecio, mencionando su relación especial y cooperación.
+$FAB_007_02x04_02_05
+Lou... El ciudadano Capeto era mi superior, y esa era, en efecto, la naturaleza de nuestra relación.
+$FAB_007_02x04_02_06
+En los pasillos se decía que apenas soltabas la mano de Capeto de tanto besarla.
+$FAB_007_02x04_02_07
+¡Dígalo sin rodeos: habría sodomizado al hombre con gusto!
+$FAB_007_02x04_02_08
+No deseo ofender al tribunal.
+$FAB_007_02x04_02_09
+¡Esto no es un juicio, sino un escándalo!
+$FAB_007_02x07_03_QTitle
+Llamen a Phillipe Côté al tribunal.
+$FAB_007_02x07_03_00
+Llamen a Phillipe Côté al tribunal.
+$FAB_007_02x07_03_02
+Por favor, preséntese.
+$FAB_007_02x07_03_03
+Soy Phillipe Côté, trabajo, o mejor dicho, trabajaba para el ministro Roland.
+$FAB_007_02x07_03_04
+¿Puede indicar su cargo?
+$FAB_007_02x07_03_05
+No exactamente, solo cumplía varios encargos para el ministro. Ordenaba documentos, entregaba mensajes, repartía sobornos…
+$FAB_007_02x07_03_06
+¿De qué está hablando?
+$FAB_007_02x07_03_07
+Está revelando el verdadero rostro del ministro.
+$FAB_007_02x07_03_08
+Al principio, no sabía que eran sobornos. Solo comprendí su significado más tarde.
+$FAB_007_02x08_04_QTitle
+Se le acusa de intentar destruir pruebas en contra del ciudadano Capeto.
+$FAB_007_02x08_04_00
+Se le acusa de intentar destruir pruebas en contra del ciudadano Capeto.
+$FAB_007_02x08_04_01
+Eso son fantasías absurdas. No crean ni una palabra de ese miserable de Côté: ¡él no puede leer mi mente ni conocer mis intenciones!
+$FAB_007_02x08_04_02
+Pero te conocía bastante bien…
+$FAB_007_02x08_04_03
+Era débil y fácilmente manipulable, y ahora busca vengarse como un gato callejero que sueña con ser león. Al fin y al cabo, los documentos fueron presentados al tribunal, ¿no es así?
+$FAB_007_02x08_04_04
+Lo estaban, pero solo porque tuvo mala suerte y el ciudadano Côté regresó demasiado pronto. No lo esperaba y perdió la compostura.
+$FAB_007_02x08_04_05
+¡Y todavía se atreve a mentirnos así!
+$FAB_007_02x08_04_06
+¿Cómo sabe que no tenía la intención de entregarlos?
+$FAB_007_02x09_05_QTitle
+Me gustaría volver ahora a un incidente que no figura en los archivos.
+$FAB_007_02x09_05_00
+Me gustaría volver ahora a un incidente que no figura en los archivos. ¿Recuerda cómo me visitó después del juicio al ciudadano Capeto?
+$FAB_007_02x09_05_01
+Lo recuerdo...
+$FAB_007_02x09_05_02
+¿Y también recuerdas cómo presagiaste mi perdición, insinuando incluso que mi muerte era inminente?
+$FAB_007_02x09_05_03
+¡Qué sinvergüenza!
+$FAB_007_02x09_05_04
+Quisiera señalar que me encontraba sumamente alterado…
+$FAB_007_02x09_05_05
+¿Amenazó de muerte al juez?
+$FAB_007_02x09_05_06
+Y, curiosamente, no pasaron ni unos días antes de que unos desconocidos me atacaran en la calle y me apuñalaran en el abdomen.
+$FAB_007_02x09_05_07
+Sabía que eras un verdadero canalla, pero nunca imaginé que también fueras un asesino.
+$FAB_007_02x09_05_08
+Me niego a responder.
+$FAB_007_02x09_05_09
+¿Esto también formaba parte del plan para derrocar a la Convención? ¿Matar al juez que podía enviarte a la guillotina?
+$FAB_007_02x09_05_10
+Me niego a responder. ¡Soy inocente!
+$FAB_007_04x05_06_QTitle
+¿Su esposa también mantuvo contacto con el ciudadano Capeto?
+$FAB_007_04x05_06_00
+¿Su esposa también mantuvo contacto con el ciudadano Capeto?
+$FAB_007_04x05_06_01
+Ella me acompañó a uno o dos de sus banquetes…
+$FAB_007_04x05_06_02
+Ningún traidor puede resistirse a codearse con traseros aristocráticos.
+$FAB_007_04x05_06_03
+Le agradecería al fiscal Tinville que midiera sus palabras.
+$FAB_007_04x05_06_04
+Aparte de esas circunstancias, mi esposa no tuvo contacto alguno con el ciudadano Capeto; no tenía motivo para hablar con él.
+$FAB_007_04x05_06_05
+¿Está seguro de saber con exactitud lo que ocurría en su burdel?
+$FAB_007_04x05_06_06
+¡Esa estuvo buena!
+$FAB_007_04x05_06_07
+¡Mi esposa es una mujer decente!
+$FAB_007_04x05_06_08
+¡Eso es aún mejor!
+$FAB_007_04x11_07_QTitle
+Hay pruebas de actividad girondina en ciertas regiones del país…
+$FAB_007_04x11_07_00
+Existen pruebas de que la actividad girondina en ciertas regiones del país ha fomentado actitudes contrarrevolucionarias.
+$FAB_007_04x11_07_01
+¿Y qué tengo yo que ver con eso?
+$FAB_007_04x11_07_02
+Ha sido reconocido como la figura central en un golpe de Estado frustrado, formaba parte del grupo mencionado y además mantenía una relación cercana con el ciudadano Capeto.
+$FAB_007_04x11_07_03
+Condeno firmemente la actuación de mis colegas en las provincias. Por el bien de Francia, debemos mantenernos unidos y resolver nuestros problemas mediante el diálogo, no con mosquetes.
+$FAB_007_04x11_07_04
+La típica palabrería de quien teme acabar en la guillotina.
+$FAB_007_04x11_07_05
+¡Y tus palabras son las de quien no tiene pruebas y solo busca agitar al pueblo!
+$FAB_007_04x11_07_06
+Es cierto que no ha presentado ninguna prueba…
+$FAB_007_04x11_07_07
+¡No necesitamos pruebas para un traidor!
+$FAB_007_09x10_08_QTitle
+¿Cuál era su papel en el golpe de Estado planeado?
+$FAB_007_09x10_08_00
+¿Cuál era su papel en el golpe de Estado planeado?
+$FAB_007_09x10_08_01
+Ninguno. No tenía conocimiento de tales planes y, si realmente existieron, me avergüenzo de mis colegas diputados.
+$FAB_007_09x10_08_02
+Mis informantes dicen que Roland no solo participó en el plan, sino que también debía liderar toda la operación.
+$FAB_007_09x10_08_03
+¡Voy a romperte esa cara jacobina y mentirosa!
+$FAB_007_09x10_08_04
+¡Mira qué arrogante es!
+$FAB_007_09x10_08_05
+No le caemos muy bien, ¿verdad?
+$FAB_007_09x10_08_06
+Quieres matarme porque soy un obstáculo en tu camino al poder. ¿Y por eso debería ser como tú?
+$FAB_007_09x10_08_07
+Nos está dando motivos para declararle culpable.
+$FAB_007_09x10_08_08
+Incluso nosotros, los ministros, tenemos nuestros límites: poseemos un honor que este charlatán pretende mancillar.
+$FAB_007_09x10_08_09
+Como ministro del Interior, ¿no debería haber estado al tanto de los planes traicioneros de sus colegas de la Convención? Unas palabras a la persona adecuada habrían bastado para resolver el problema.
+$FAB_007_09x10_08_10
+…
+$FAB_007_09x10_08_11
+Responde, bastardo.
+$FAB_007_09x10_08_12
+No tengo nada más que añadir al respecto.
+$FAB_007_WIT_00_A_QTitle
+¿Por qué dejó usted al ministro a solas con el contenido del armario de hierro?
+$FAB_007_WIT_00_A_00
+¿Por qué dejó usted al ministro a solas con el contenido del gabinete de hierro?
+$FAB_007_WIT_00_A_01
+Esa fue su orden. Me dijo que me fuera y que no dejara entrar a nadie en la habitación. No debía regresar hasta pasados 20 minutos.
+$FAB_007_WIT_00_A_02
+¿Obedeció esas órdenes?
+$FAB_007_WIT_00_A_03
+Sí, al principio, pero tuve mis dudas. Sospeché que el ministro quería buscar documentos comprometedores, así que regresé antes.
+$FAB_007_WIT_00_A_04
+¿Y qué fue lo que vio?
+$FAB_007_WIT_00_A_05
+Vi al ministro revisando unos documentos. Apartó algunos y, al entrar yo, empezó a esconderlos bajo su abrigo.
+$FAB_007_WIT_00_A_06
+¿Notó algún detalle? ¿Algo que pudiera indicar de qué tratan estos documentos?
+$FAB_007_WIT_00_A_07
+Fue solo una mirada fugaz y solo alcancé a ver los sellos. La mayoría pertenecía al ciudadano Capeto, pero también noté otros sellos desconocidos para mí. Probablemente eran de monarcas extranjeros.
+$FAB_007_WIT_00_B_QTitle
+¿Cómo se comportó el acusado cuando lo sorprendió ocultando documentos?
+$FAB_007_WIT_00_B_00
+¿Cómo se comportó el acusado cuando lo sorprendió ocultando documentos?
+$FAB_007_WIT_00_B_01
+Se enfureció, gritando que me había dado órdenes precisas de esperar fuera de la puerta y no dejar entrar a nadie.
+$FAB_007_WIT_00_B_02
+¿Pero demostró usted una determinación revolucionaria al enfrentarse al mal?
+$FAB_007_WIT_00_B_03
+¡Sin Côté, nunca habríamos atrapado al traidor!
+$FAB_007_WIT_00_B_04
+Sospeché que se estaba cometiendo un crimen en la habitación y no podía hacer la vista gorda. Es en beneficio de Francia que sus ministros estén libres de sospecha.
+$FAB_007_WIT_01_A_QTitle
+¿Sabe usted algo sobre la influencia de Madame Roland en el comportamiento de su esposo?
+$FAB_007_WIT_01_A_00
+¿Sabe algo sobre la influencia de Madame Roland en el comportamiento de su esposo?
+$FAB_007_WIT_01_A_01
+En mi opinión, era la esposa del ministro quien tenía el verdadero poder.
+$FAB_007_WIT_01_A_02
+¡Un ministro títere! ¡Como si no bastara con ser un traidor!
+$FAB_007_WIT_01_A_03
+Una rata, no un ministro…
+$FAB_007_WIT_01_A_04
+¿Por qué lo cree?
+$FAB_007_WIT_01_A_05
+Siempre debía entregar toda la correspondencia relacionada con sus deberes diarios directamente a Madame Roland.
+$FAB_007_WIT_01_A_06
+¡Qué burla!
+$FAB_007_WIT_01_A_07
+¡Vergüenza!
+$FAB_007_WIT_01_A_08
+Gracias por su valentía, Francia le está agradecida.
+$FAB_007_WIT_01_B_QTitle
+¿Sabe algo sobre la esposa del ministro corrompiendo a los diputados de la Convención?
+$FAB_007_WIT_01_B_00
+¿Sabe algo sobre la esposa del ministro corrompiendo a los diputados de la Convención?
+$FAB_007_WIT_01_B_01
+Nada seguro, pero una vez me ordenaron llevar a una prostituta llamada Giselle desde el establecimiento de la Madame hasta la puerta de la casa del diputado Pierre Vergniaud.
+$FAB_007_WIT_01_B_02
+¿Necesita más pruebas para condenar a muerte a esta pareja traicionera?
+$FAB_007_WIT_01_B_03
+¡Todos los girondinos son unos libertinos!
+$FAB_007_WIT_01_B_04
+¿Cuál era el propósito de llevar a la mujer allí?
+$FAB_007_WIT_01_B_05
+¿De verdad necesita preguntar?
+$FAB_007_WIT_01_B_06
+Eso no me quedó claro. Sin embargo, me ordenaron traerla de vuelta más tarde, y puedo decirle… Regresó con un ojo morado y sangre seca bajo las uñas. Le di mi pañuelo.
+$FAB_007_WIT_01_B_07
+Gracias por su valentía, Francia le está agradecida.
+$FAB_007_KEY_01
+Corrupción
+$FAB_007_KEY_02
+Traición
+$FAB_007_KEY_03
+Opiniones sobre la guerra
+$FAB_007_KEY_04
+Contacto con el ciudadano Capeto
+$FAB_007_KEY_05
+Jeanne Marie Roland
+$FAB_007_KEY_06
+Burdel
+$FAB_007_KEY_07
+Ocultando documentos
+$FAB_007_KEY_08
+Destrucción de pruebas
+$FAB_007_KEY_09
+Derrocamiento de la Convención
+$FAB_007_KEY_10
+Incitación a un levantamiento
+$FAB_007_KEY_11
+Actitudes contrarrevolucionarias
+$FAB_007_LastDialog_00
+¿Tanto deseas ver rodar mi cabeza?
+$FAB_007_UNIQUE_QUESTION_00
+¿Quién es Côté, el hombre que presenció el incidente con el gabinete de hierro?
+$FAB_007_UNIQUE_ANSWER_CORRECT_00_00
+El subordinado del acusado.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Subordinado del ciudadano Capeto.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_00_01
+El amigo del acusado.
+$FAB_007_UNIQUE_QUESTION_01
+¿Cómo explica el acusado las amenazas dirigidas al Juez del Tribunal?
+$FAB_007_UNIQUE_ANSWER_CORRECT_01_00
+Como un impulso.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Lo niega.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Asegura que solo fue un desliz al hablar.
+$FAB_007_UNIQUE_QUESTION_02
+¿Cuál era la tapadera del burdel de los Roland?
+$FAB_007_UNIQUE_ANSWER_CORRECT_02_00
+Un salón político.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_02_00
+La oficina del periódico de Marat.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Un almacén.

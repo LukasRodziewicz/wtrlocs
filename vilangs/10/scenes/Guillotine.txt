@@ -1,0 +1,46 @@
+$EXECUTION_START_TIP
+İnfazı gerçekleştirmek için ipi çekin
+$SUMMON_GUARDS
+Muhafızları çağır
+$SKIP_SPEECH
+Konuşmayı atla
+$PEOPLE_ATTITUDE
+[Sıradan halkın tutumu]
+$PEOPLE_ATTITUDE_DESC
+Halkın Tutumu: Nedir ve nasıl işler?
+$PEOPLE_ATTITUDE_LV1
+Saldırganlık
+$PEOPLE_ATTITUDE_LV2
+Onaylanmama
+$PEOPLE_ATTITUDE_LV3
+Kayıtsızlık
+$PEOPLE_ATTITUDE_LV4
+Lütuf
+$PEOPLE_ATTITUDE_LV5
+Mutluluk
+$GUILLOTINE_ATTACK_SUCCESS_DESC
+İnfaz meydanında toplanan kalabalık sözlerinizden hoşnut kalmadı. Yumruklar ve sopalar havada uçuştu. Ne yazık ki muhafızlar çok uzaktaydı ve zamanında müdahale edemediler. Öfkeli kalabalıkla tek başınıza yüzleşmek zorunda kaldınız.
+$GUILLOTINE_ATTACK_FAILURE_DESC
+İnfaz meydanında toplanan kalabalık, sözlerinizden hoşnut kalmadı. Memnuniyetsizliklerini yumruklarıyla bedeninizde göstermek istediler. Neyse ki muhafızlar hazırlıklıydı ve durumu hızla kontrol altına aldı. İtibarınız zedelendi, fakat infaza devam edebilirsiniz.
+$GUILLOTINE_START_SPEECH
+Halkla konuş.
+$GUILLOTINE_SPEECH_START_LOW_JUSTICE
+Güvensiz görünüyorlar…
+$GUILLOTINE_SPEECH_START_NEUTRAL_JUSTICE
+Belki de kalabalığın gönlünü kazanabilirim.
+$GUILLOTINE_SPEECH_START_HIGH_JUSTICE
+Onlar avucumun içinde, bana güveniyorlar.
+$GUILLOTINE_HEART_LOW_JUSTICE
+Bana güvenmiyorlar.
+$GUILLOTINE_HEART_NEUTRAL_JUSTICE
+Güvensizlik.
+$GUILLOTINE_HEART_HIGH_JUSTICE
+Bana güveniyorlar.
+$TIMERGUARD
+Çok fazla oyalandık. Halk huzursuzlanıyor!
+#GUILLOTINE_COMMENT_000
+Kellesi uçsun!
+#GUILLOTINE_COMMENT_001
+İpi çek!
+#GUILLOTINE_COMMENT_002
+Devrim için!

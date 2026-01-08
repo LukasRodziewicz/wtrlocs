@@ -1,0 +1,297 @@
+$GEN_022_DOC_1_HEADER
+Compilé par : Pierre Daquin
+$GEN_022_DOC_1_00
+Jean Ibert, le <a name="1" class="hidden">célèbre</a> enfant des rues qui a tué le gouverneur de la Bastille de Launay et promené sa tête sur une pique, a récemment été emprisonné. Après le triomphe de la Révolution, sa vie est tombée au plus bas. De nombreuses personnes le considèrent toujours comme un héros, mais elles ignorent que les archives parisiennes sont pleines de <a name="2" class="hidden">plaintes</a> pour vols, cambriolages et agressions de femmes.
+$GEN_022_DOC_1_01
+Notre affaire est bien plus grave car Ibert est accusé du <a name="3" class="hidden">viol</a> d'<a name="4" class="hidden">Élodie de Pontalba</a>, âgée de 16 ans. La plainte provient du père de la victime, le baron Thomas de Pontalba. Chacun sait que de Pontalba était un <a name="5" class="hidden">parent</a> et ami du gouverneur de Launay.
+$GEN_022_DOC_1_02
+Le crime aurait eu lieu dans l'immeuble appartenant à la famille de la victime. Jean a été arrêté par des ouvriers qui travaillaient à l'extérieur alors qu'il tentait de fuir. Élodie a affirmé, dans un témoignage écrit, que l'incident avait eu lieu un jour férié et que Jean avait profité de l'absence du baron et de la plupart des serviteurs pour <a name="7" class="hidden">s'introduire</a> dans l'immeuble. Une fois à l'intérieur, il est entré dans sa chambre et l'a violée.
+$GEN_022_DOC_1_03
+Anne Michel, la gouvernante d'Élodie, aurait assisté à l'incident. C'est elle qui a averti les ouvriers au sujet de bruits inquiétants provenant de la chambre de sa protégée. De nombreux témoins nous ont informé qu'Anne Michel est connue pour sa jalousie maladive et ses nombreuses amourettes.
+$GEN_022_DOC_2_00
+Déposition d'Anne Michel :
+Normalement, mademoiselle Élodie et moi lisons le matin. Mais ce jour-là, le cuisinier était en congé, alors je me suis occupée du repas. Puis je l'ai entendu crier ! J'ai couru jusqu'à sa chambre, mais je me suis arrêtée lorsque j'ai entendu la voix d'un homme. J'ai pris peur et je suis allée chercher de l'aide.
+$GEN_022_DOC_3_00
+Résultats de l'examen médical
+$GEN_022_DOC_3_01
+L'examen a révélé les choses suivantes : Défloration. Abrasion mineure de la zone génitale. Contusions et hémorragie aux bras, le long de la colonne et au visage. Dr P. Gibier
+$GEN_022_OnStart_00
+Jean arrive !
+$GEN_022_OnStart_01
+On est avec toi, Jean !
+$GEN_022_OnStart_02
+Je te prie de te présenter, citoyen.
+$GEN_022_OnStart_03
+Jean Ibert, conquérant de la Bastille et vainqueur du tyran de Launay ! Le héros de tous les Parisiens !
+$GEN_022_OnStart_04
+Jean Ibert, tu es accusé du viol de mademoiselle Élodie de Pontalba, fille du baron Thomas de Pontalba. Plaides-tu coupable ?
+$GEN_022_OnStart_05
+Je ne plaide rien du tout. Cette bourgeoise et son père contre-révolutionnaire sont de fieffés menteurs.
+$GEN_022_OnStart_06
+Nous devons prendre en compte la possibilité d'une conspiration criminelle derrière cette accusation.
+$GEN_022_OnStart_07
+Exactement, ces sales riches adorent conspirer.
+$GEN_022_OnStart_08
+Les preuves sont contre toi.
+$GEN_022_OnStart_09
+La duplicité d'une fille et le complot de de Pontalba ne prouvent rien !
+$GEN_022_OnGuilty_00
+Je condamne le citoyen Jean Ibert à être guillotiné ! Emmenez-le.
+$GEN_022_OnGuilty_01
+Les preuves contre lui n'étaient pas concluantes.
+$GEN_022_OnGuilty_02
+C'est scandaleux !
+$GEN_022_OnGuilty_03
+Pauvre fou, qu'est-ce que tu fais ?
+$GEN_022_OnGuilty_04
+Traître au peuple, tu assassines notre héros !
+$GEN_022_OnPrison_00
+Le citoyen Jean Ibert ira en prison. Emmenez-le !
+$GEN_022_OnPrison_01
+C'est tout ?
+$GEN_022_OnPrison_02
+C'est un violeur. On devrait lui couper la tête pour son crime !
+$GEN_022_OnPrison_03
+Ou même plus que sa tête !
+$GEN_022_OnNotGuilty_00
+Jean Ibert est jugé… non coupable ! Emmenez l'accusé.
+$GEN_022_OnNotGuilty_01
+Je dois admettre que sa culpabilité n'a jamais été confirmée.
+$GEN_022_OnNotGuilty_02
+Hourra !
+$GEN_022_OnNotGuilty_03
+Voilà la France pour laquelle nous avons pris la Bastille !
+$GEN_022_OnNotGuilty_04
+Le juge est avec nous !
+$GEN_022_04x06_00_QTitle
+Connaissais-tu mademoiselle Élodie de Pontalba avant l'incident ?
+$GEN_022_04x06_00_00
+Connaissais-tu mademoiselle Élodie de Pontalba avant l'incident ?
+$GEN_022_04x06_00_01
+Elle me faisait des avances à chaque fois qu'elle venait au café Procope. Elle y venait pour tous les débats entre Danton et Marat. Je n'ai fait que lui donner ce qu'elle voulait.
+$GEN_022_04x06_00_02
+Tu reconnais donc être coupable ?
+$GEN_022_04x06_00_03
+Oui, mais pas de viol. Montrez-moi une fille qui dirait non à un héros.
+$GEN_022_04x06_00_04
+Tu dis l'avoir rencontrée au café Procope. Je doute qu'une jeune fille comme elle aille dans un endroit pareil toute seule.
+$GEN_022_04x06_00_05
+Qui a dit qu'elle était seule ? Anne l'y emmenait, tout le monde sait qu'elle aime s'amuser.
+$GEN_022_04x06_00_06
+Tu parles d'Anne Michel, la gouvernante de mademoiselle Élodie ?
+$GEN_022_04x06_00_07
+C'est exact.
+$GEN_022_04x06_00_08
+Ce n'était donc pas la première fois que tu entrais dans la demeure de la famille de la victime ?
+$GEN_022_04x06_00_09
+Quelle victime ? Bref, oui, je m'y suis déjà rendu plusieurs fois et je la connais bien. Disons qu'Anne Michel et moi avons exploré chaque...
+$GEN_022_04x06_00_10
+Épargne-nous les détails...
+$GEN_022_04x06_00_11
+La vieille traînée a emmené la jeune garce avec elle !
+$GEN_022_01x05_01_QTitle
+Savais-tu que le baron de Pontalba était de la famille de… ?
+$GEN_022_01x05_01_00
+Savais-tu que le baron de Pontalba était de la famille du défunt gouverneur de Launay ?
+$GEN_022_01x05_01_01
+Non, mais cela explique beaucoup de choses. Toute cette affaire a été montée par de Pontalba. Il veut se débarrasser de moi parce que j'ai libéré la France d'un tyran !
+$GEN_022_01x05_01_02
+La famille de Launay aurait dû être exécutée il y a bien longtemps.
+$GEN_022_01x05_01_03
+Tu ne considères donc pas le viol comme une arme dans le combat contre les monarchistes ?
+$GEN_022_01x05_01_04
+Les monarchistes devraient être guillotinés ! Et leurs filles devraient... remercier les héros de la Révolution.
+$GEN_022_01x05_01_05
+Il a raison !
+$GEN_022_01x05_01_06
+Silence ! Cette affaire concerne le viol d'une jeune fille !
+$GEN_022_03x06_02_QTitle
+Comment t'es-tu introduit dans l'immeuble du baron de Pontalba ?
+$GEN_022_03x06_02_00
+Comment t'es-tu introduit dans l'immeuble du baron de Pontalba ?
+$GEN_022_03x06_02_01
+Sans effraction, tout simplement en passant par la porte de derrière.
+$GEN_022_03x06_02_02
+Comment connaissais-tu cet accès ?
+$GEN_022_03x06_02_03
+La fille du baron m'en a parlé. Elle m'a aussi prévenu que son cher père et la plupart des serviteurs seraient absents.
+$GEN_022_03x06_02_04
+Elle t'a demandé de lui rendre visite pour cette raison précise ?
+$GEN_022_03x06_02_05
+Les signes qu'elle me donnait étaient très clairs.
+$GEN_022_03x06_02_06
+Les aristocrates sont toutes des catins.
+$GEN_022_03x06_02_07
+Tu affirmes que tu t'es rendu chez le baron de Pontalba à la demande de la victime ?
+$GEN_022_03x06_02_08
+Cette petite garce m'avait promis du bon temps. Elle m'avait tout expliqué en détail.
+$GEN_022_03x06_02_09
+Laissez Jean partir !
+$GEN_022_03x06_02_10
+Silence, vous autres, le juge commence à comprendre. Restez calmes et il me laissera bientôt partir.
+$GEN_022_02x08_03_QTitle
+Cela te plaît de maltraiter les femmes ?
+$GEN_022_02x08_03_00
+Cela te plaît de maltraiter les femmes ?
+$GEN_022_02x08_03_01
+Il y a tellement mieux à faire avec les femmes, pourquoi les maltraiter ? À moins qu'elles aiment ça, évidemment.
+$GEN_022_02x08_03_02
+Tu sous-entends que la victime voulait être violée et battue ?
+$GEN_022_02x08_03_03
+Je ne l'ai forcée à rien du tout et je ne l'ai certainement pas battue.
+$GEN_022_02x08_03_04
+L'examen médical prouve formellement qu'elle a été blessée.
+$GEN_022_02x08_03_05
+Demandez plutôt à de Pontalba qui l'a battue. Il était furieux lorsqu'il a appris qui était au lit avec sa chère fille.
+$GEN_022_02x08_03_06
+Insinuerais-tu qu'il a agressé sa fille parce qu'elle te côtoyait ?
+$GEN_022_02x08_03_07
+Cela ne me surprendrait guère.
+$GEN_022_02x08_03_08
+Les aristocrates font bien pire que de battre leurs enfants.
+$GEN_022_03x08_04_QTitle
+Faites entrer la témoin, Anne Michel.
+$GEN_022_03x08_04_00
+Faites entrer la témoin, Anne Michel.
+$GEN_022_03x08_04_02
+Citoyenne, comment t'appelles-tu ?
+$GEN_022_03x08_04_03
+Anne Michel, gouvernante de mademoiselle Élodie de Pontalba.
+$GEN_022_02x03_05_QTitle
+Combien de tes victimes précédentes as-tu violées ?
+$GEN_022_02x03_05_00
+Combien de tes victimes précédentes as-tu violées ?
+$GEN_022_02x03_05_01
+Aucune. J'ai fait bien des choses, mais heureusement, je suis encore assez jeune et bel homme pour ne pas avoir besoin de violenter une femme pour passer du temps avec.
+$GEN_022_02x03_05_02
+De quoi t'accusaient toutes ces femmes, dans ce cas ?
+$GEN_022_02x03_05_03
+Je n'en sais rien. Elles ne se sont pas plaintes lorsqu'elles étaient avec moi.
+$GEN_022_02x03_05_04
+As-tu déjà été condamné pour avoir agressé une femme ?
+$GEN_022_02x03_05_05
+Ils n'ont jamais pu prouver ma culpabilité.
+$GEN_022_02x03_05_06
+Et cette fois aussi il le laisseront partir.
+$GEN_022_02x03_05_07
+Alors d'où venaient toutes ces accusations ?
+$GEN_022_02x03_05_08
+Elles voulaient sans doute de l'argent.
+$GEN_022_04x05_06_QTitle
+As-tu choisi de t'en prendre à mademoiselle de Pontalba à cause de ses liens avec de Launay ?
+$GEN_022_04x05_06_00
+As-tu choisi de t'en prendre à mademoiselle de Pontalba à cause de ses liens avec de Launay ?
+$GEN_022_04x05_06_01
+Je ne savais pas qu'ils étaient de la même famille.
+$GEN_022_04x05_06_02
+Dans ce cas, pourquoi elle ?
+$GEN_022_04x05_06_03
+Elle était jeune, douce et en avait très envie, si tu veux tout savoir.
+$GEN_022_04x05_06_04
+Tu suggères que c'est mademoiselle de Pontalba qui a amorcé vos rapports ?
+$GEN_022_04x05_06_05
+Qui a quoi ? Ah, est-ce elle qui m'a demandé de la caresser ? Oh, elle le voulait désespérément. Elle rêvait de moi depuis longtemps.
+$GEN_022_03x04_07_QTitle
+La victime n'est qu'une petite fille fragile, quel besoin avais-tu de la battre si violemment ?
+$GEN_022_03x04_07_00
+La victime n'est qu'une petite fille fragile, quel besoin avais-tu de la battre si violemment ?
+$GEN_022_03x04_07_01
+Pourquoi l'aurais-je battue ? Je n'ai même pas eu à la déshabiller.
+$GEN_022_03x04_07_02
+Elle l'a fait d'elle-même ?
+$GEN_022_03x04_07_03
+Elle a ôté sa robe, m'a défait ma ceinture et...
+$GEN_022_03x04_07_04
+Nous nous passerons des détails.
+$GEN_022_03x04_07_05
+Monsieur le juge, je peux tout te raconter consciencieusement si tu le souhaites.
+$GEN_022_03x04_07_06
+S'est-elle déshabillée parce que tu l'as menacée ?
+$GEN_022_03x04_07_07
+C'est elle qui m'aurait menacé si j'avais refusé ses avances !
+$GEN_022_03x04_07_08
+Oui, on veut savoir !
+$GEN_022_03x04_07_09
+Silence ! Si vous voulez des ragots, allez au marché.
+$GEN_022_WIT_00_A_QTitle
+Que sais-tu de cette affaire ?
+$GEN_022_WIT_00_A_00
+Que sais-tu de cette affaire ?
+$GEN_022_WIT_00_A_01
+Ibert est coupable, il mérite la mort. Il s'est servi de notre relation pour se rapprocher de la fille du baron et lui faire du mal.
+$GEN_022_WIT_00_A_02
+Que veux-tu dire ?
+$GEN_022_WIT_00_A_03
+Il savait exactement quand les serviteurs seraient en congé et quand le baron partirait pour l'Assemblée législative.
+$GEN_022_WIT_00_A_04
+A-t-il appris tout cela auprès de toi ?
+$GEN_022_WIT_00_A_05
+Pas directement. Il est venu me voir plusieurs fois chez le baron de Pontalba.
+$GEN_022_WIT_00_A_06
+Il ne t'est pas venu à l'esprit qu'il pourrait se servir de ces informations pour s'en prendre à la famille du baron ?
+$GEN_022_WIT_00_A_07
+…
+$GEN_022_WIT_00_A_08
+Je vois. Le baron était-il au courant de votre relation ?
+$GEN_022_WIT_00_A_09
+Non, le baron a des préoccupations plus importantes que la vie personnelle de ses serviteurs.
+$GEN_022_WIT_01_A_QTitle
+Pourquoi as-tu laissé la victime sans surveillance ?
+$GEN_022_WIT_01_A_00
+Pourquoi as-tu laissé la victime sans surveillance ?
+$GEN_022_WIT_01_A_01
+Ce jour-là, le baron m'avait ordonné de m'occuper de la maison. Mademoiselle Élodie n'avait pas de leçon et s'occupait dans sa chambre.
+$GEN_022_WIT_01_A_02
+Et tu n'as pas entendu l'accusé entrer dans l'immeuble ?
+$GEN_022_WIT_01_A_03
+Non, j'étais occupée en cuisine. Je n'ai été alertée que lorsque j'ai entendu des bruits de lutte et les cris de mademoiselle Élodie qui provenaient de sa chambre.
+$GEN_022_WIT_01_A_04
+Le fait que tu n'aies rien entendu avant me laisse perplexe.
+$GEN_022_WIT_01_A_05
+Je ne sais que dire, mais je faisais beaucoup de bruit en préparant le repas.
+$GEN_022_WIT_01_A_06
+N'est-ce pas aussi de ta responsabilité que de surveiller la maison ?
+$GEN_022_WIT_01_A_07
+Eh bien, si, mais je ne peux pas être partout à la fois...
+$GEN_022_KEY_01
+Accusé célèbre
+$GEN_022_KEY_02
+Plaintes multiples
+$GEN_022_KEY_03
+Viol
+$GEN_022_KEY_04
+Élodie de Pontalba
+$GEN_022_KEY_05
+Parents du gouverneur de la Bastille
+$GEN_022_KEY_06
+Maison des de Pontalba
+$GEN_022_KEY_07
+Entrée dans l'immeuble par effraction
+$GEN_022_KEY_08
+Témoignage de la victime
+$GEN_022_LastDialog_00
+Vous allez guillotiner un homme pour un peu de bon temps ? Je vous ai sauvés et vous m'assassinez ?
+$GEN_022_UNIQUE_QUESTION_00
+À quoi le prévenu doit-il sa réputation aux yeux du peuple ?
+$GEN_022_UNIQUE_QUESTION_02
+Comment le prévenu a-t-il expliqué les signes d'agression sur le corps de la victime ?
+$GEN_022_UNIQUE_QUESTION_03
+Le prévenu a-t-il tenté d'expliquer les circonstances du viol ?
+$GEN_022_UNIQUE_ANSWER_CORRECT_00_00
+Pour avoir participé à la prise de la Bastille.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Pour sa bravoure dans la bataille de Valmy.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Pour avoir travaillé à la Déclaration des droits de l'homme et du citoyen.
+$GEN_022_UNIQUE_ANSWER_CORRECT_02_00
+Son père l'a battue.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Sa propre mère l'a battue.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Sa gouvernante l'a punie.
+$GEN_022_UNIQUE_ANSWER_CORRECT_03_00
+Il affirme que c'est la victime qui a initié la relation intime en se déshabillant la première.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Il ne s'en souvient pas, il était ivre.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Il affirme n'avoir jamais touché la victime.

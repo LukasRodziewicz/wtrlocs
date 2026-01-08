@@ -1,0 +1,95 @@
+$PROLOG_PRE_01_MT
+Da próxima vez, me lembra que eu quero parar de beber essa gororoba turva. Me lembra ANTES de eu beber. Estamos envergonhando Têmis, hah... Tem alguém vindo?
+$PROLOG_PRE_02_WF
+Era inevitável...
+$PROLOG_PRE_03_ES
+Eu te avisei...
+$PROLOG_PRE_04_YS
+Papai, você disse que a gente ia… Você prometeu…
+$PROLOG_PRE_05_MT
+O papai tinha muito... trabalho.
+$PROLOG_PRE_06_ES
+Sim, muitos copos pesados...
+$PROLOG_PRE_07_WF
+Você me prometeu... Eu não aguento mais... Cansei de pedir.
+$PROLOG_PRE_08_YS
+Mamãe está brava porque...
+$PROLOG_PRE_09_ES
+Silêncio.
+$PROLOG_PRE_10_WF
+Hoje seu filho favorito quis provar que tinha mais honra que o próprio pai, então arrumou uma briga. Uma criança de cinco anos, pelo amor de Deus!
+$PROLOG_PRE_11_WF
+Nossos vizinhos queriam que você explicasse isso para eles, mas... bem, você estava lutando pela justiça. Numa taverna. Maldito seja, seu bêbado miserável...
+$PROLOG_PRE_12_ES
+Mãe...
+$PROLOG_DOC_01_HEADER
+Carta de Aurélie Dupond
+$PROLOG_CASE_DOC_HEADER
+Ao juiz Alexis Fidèle,
+$PROLOG_CASE_DOC_MAIN
+Ao Juiz Alexis Fidèle,
+	 não esperávamos esse tipo de comportamento de seu filho, embora, ao que parece, devêssemos ter esperado. <a name="1" class="hidden">Uma brincadeira</a> de criança <a name="2" class="hidden">acabou em agressão</a> contra nossos filhos.
+	
+	 O mais novo, <a name="3" class="hidden">Antoine</a>, agora está com um <a name="4" class="hidden">dente da frente lascado</a>. Esperamos que o senhor puna seu filho de acordo! Caso a situação se repita, tomaremos medidas mais firmes. Tenho certeza de que saberemos lidar com um jogador e bêbado, mesmo que seja juiz... Não permitiremos que nossos filhos sejam machucados!
+$PROLOG_KEYWORD_01
+Coisa de criança
+$PROLOG_KEYWORD_02
+Crianças brigando
+$PROLOG_KEYWORD_03
+Antoine ferido
+$PROLOG_KEYWORD_04
+Dente lascado
+$PROLOG_KEYWORD_05
+Possibilidade de reincidência
+$PROLOG_01_D1_01_JD
+Como a brincadeira acabou virando uma briga?
+$PROLOG_01_D1_02_YS
+Nossos vizinhos, Antoine e Jean… Eles falaram coisas ruins sobre você. Estávamos brincando de guardas e pediram para eu fingir ser um bêbado que eles iriam… você sabe…
+$PROLOG_01_D1_03_JD
+Você enfrentou os dois ao mesmo tempo?
+$PROLOG_01_D1_04_YS
+Eu não tive escolha.
+$PROLOG_02_D1_01_JD
+O que exatamente eles disseram?
+$PROLOG_02_D1_02_ES
+Você está bêbado demais para adivinhar?
+$PROLOG_02_D1_03_JD
+Não foi a você que perguntei.
+$PROLOG_02_D1_04_YS
+Eles gritavam que você é... bem... eu disse que não era verdade, e começaram a me xingar. Me chamaram de “filho de bêbado”.
+$PROLOG_03_D1_01_JD
+Quem começou a briga?
+$PROLOG_03_D1_02_ES
+Posso lhe dizer quem foi que pôs fim a isso…
+$PROLOG_03_D1_03_YS
+Ahm, acho que fui eu… Chutei o da esquerda, e depois queria pegar o da direita, mas…
+$PROLOG_03_D1_04_ES
+Mas foram eles que venceram.
+$PROLOG_03_D1_05_YS
+Eles me derrubaram no chão e revidaram o golpe.
+$PROLOG_04_D1_01_JD
+Você quebrou mesmo o dente do Antoine?
+$PROLOG_04_D1_02_ES
+Frédéric é só uma criança.
+$PROLOG_04_D1_03_YS
+Não sei... Acho que não.
+$PROLOG_04_D1_04_JD
+Você bateu no rosto dele?
+$PROLOG_04_D1_05_YS
+Acho que eu chutei ele, mas não tão forte assim...
+$PROLOG_CASE_ON_GUILTY
+Infelizmente, você não deve começar brigas, independentemente do motivo.
+$PROLOG_CASE_ON_NOTGUILTY
+Você fez bem. Um homem deve defender a honra de sua família, custe o que custar.
+$PROLOG_POST_01_WF
+Essas crianças são tão pequenas, e já conhecem a verdade — o pai dos meus filhos é um mentiroso, bêbado e jogador. Bernard já te idolatrava, mas logo cresceu. Agora é a vez de Frédéric descobrir a verdade que ecoa pelas ruas.
+$PROLOG_POST_02_WF
+E você, Raymond? Não era para ser o mentor do meu marido — era isso que queria ensinar a ele? A repetir seus erros e perder a própria família?
+$PROLOG_POST_03_MT
+Eu não imaginava que Mathilde tivesse um temperamento tão forte.
+$PROLOG_POST_04_JD
+Assim como eu...
+$PROLOG_POST_05_WF
+Vamos esperar lá fora, como sempre.
+$PROLOG_GUILTY
+Culpado

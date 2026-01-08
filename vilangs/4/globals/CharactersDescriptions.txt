@@ -1,0 +1,68 @@
+#MathildeFidele_JOB
+Ehefrau
+#MathildeFidele_DESC_1
+Geboren in Paris, hat sie die Stadt nie verlassen. Viele sehen in ihr die vollkommene Ehefrau. Sie kümmert sich um den Haushalt und die Kinder und sorgt für den betagten Vater ihres Mannes. Auch wenn sie es nicht offen zeigt, ist sie fest entschlossen, ihre Kinder um jeden Preis zu beschützen. Vielleicht sind sie ihr sogar wichtiger als du.
+#MathildeFidele_DESC_2
+Seit Frédérics Tod ist deine Frau stiller geworden, doch in ihren Augen lodert ein inneres Feuer. Es scheint, als würde eine Frau, die die Schwelle zwischen bescheidener Hausfrau und wütender, unberechenbarer Furie überschreitet, zur gefährlichsten aller Gegnerinnen…
+#FredericFidele_JOB
+Jüngster Sohn
+#FredericFidele_DESC
+Naiv und unschuldig, wie es für einen Jungen seines Alters ganz normal ist. Er bewundert dich und möchte dir in allem nacheifern. Auch wenn er seiner Mutter manchmal widerspricht, befolgt er den Willen seines Vaters aufs Wort. Sein Lieblingsspielzeug ist ein Holzschwert, das er stets an seiner Seite trägt. In seiner Fantasie kämpft er gegen Schurken, genau wie sein Vater es im echten Leben tut. Er schnitzt gern kleine Holzfiguren.
+#BernardFidele_JOB
+Ältester Sohn
+#BernardFidele_DESC
+Ein schlanker, gutaussehender junger Mann. Die Last der aktuellen Ereignisse in Frankreich beginnt langsam auf ihm zu lasten und entfacht einen revolutionären Eifer in seinem Herzen. Er ist überzeugt, dass die Richter des Revolutionstribunals ausschließlich aus den unteren Schichten der Gesellschaft stammen sollten, denn nur solche Menschen gelten als „unbefleckt“ und sind fähig, dem Gemeinwohl zu dienen statt nur dem eigenen Vorteil. Seine Gutgläubigkeit ist gefährlicher als die von Frédéric, da seine Handlungen das Gewicht eines Erwachsenen tragen können. Menschen, die es verstehen, junge und willensschwache Gemüter zu beeinflussen, könnten seine Tatkraft ausnutzen. Er ist ein Anfänger, aber ein talentierter Geiger.
+#AldricFidele_JOB
+Vater
+#AldricFidele_DESC
+Einst ein wohlhabender Kaufmann, ist er heute ein verbitterter alter Mann, dem nichts geblieben ist als fiebrige Träume von unerreichbarer Rache an der Familie Renard, die ihm einst all seine Hoffnungen raubte. Über Jahre hinweg war er nicht in der Lage, seine Familie angemessen zu versorgen oder seinen Kindern den gewohnten Lebensstandard zu bieten. Erst mit deinem neuen Amt am Gericht konnte deine Familie wieder ein einigermaßen anständiges Leben führen, und dein Vater begann erneut davon zu träumen, in seinen alten Beruf zurückzukehren. Doch Aldric war inzwischen zu alt und zu erschöpft, um seine längst verlorene Laufbahn wiederzubeleben. Statt das Ansehen und den Wohlstand der Familie Fidèle zu genießen, musste er mitansehen, wie die Familie Renard zu Macht gelangte…
+#BrunoFidele_JOB
+Bruder
+#BrunoFidele_DESC_1
+Dein älterer Bruder. Er ist fort, doch schon die bloße Erwähnung seines Namens lässt die Wände eures Hauses erzittern. Er war der Erstgeborene, der Stolz und die Freude deines Vaters. Ihm war es bestimmt, das Geschäft des Vaters zu übernehmen und darauf den Wohlstand der Familie zu mehren. Doch sein Verbrechen veränderte alles und brachte Schande über euren Namen. Einige Jahre nachdem dein Vater ihn verstoßen hatte, erreichte dich die Nachricht, dass Bruno auf dem Schlachtfeld gefallen war – sein Körper verrottete unter Tausenden anderer, die für die Freiheit der Republik ihr Leben ließen.
+#BrunoFidele_DESC_2
+Dein Bruder ist nie gestorben. Nach seiner Verbannung trat er tatsächlich der Armee bei, doch während der Schlacht desertierte er. Seitdem arbeitete er daran, sich an seiner Familie zu rächen. An deinem Vater. Bruno war die eigentliche Ursache deines Leids. Er hat deine Reise geplant und dich auf dem ganzen Weg angetrieben…
+#Mentor_JOB
+Mentor
+#Mentor_DESC
+Ein Mann, der lange genug gelebt hat, um zu begreifen, dass Gerechtigkeit nicht immer die richtige Antwort ist. In seinem Metier, in diesen unruhigen Zeiten, zählt allein der Überlebensinstinkt. Mitunter muss dieser den Interessen anderer zuwiderlaufen. Wer so denkt, weiß, dass man sowohl in den Salons als auch in den dunklen Gassen aufmerksam lauschen muss. Die blinde Themis erscheint ihm wie ein Märchen zum Einschlafen, allenfalls geeignet für angehende Jurastudenten. Vielleicht sieht er zu viele Schattierungen moralischen Grau, um noch ein wirkungsvoller Richter zu sein?
+#Jacques-LouisDavid_JOB
+Diplomat
+#Jacques-LouisDavid_DESC
+Ein Künstler und Politiker. Seine Gemälde greifen häufig die Revolution auf. In seiner politischen Laufbahn ist er ein tatkräftiger Abgeordneter des Konvents. Diese beiden Lebensbereiche vermischen sich und befeuern einander – etwa, als er die Schließung der Académie française vorantrieb, jener Institution, die ihn selbst jahrelang abgelehnt hatte. Er ist ein langjähriger Freund von Richter Fidèle.
+#RaphaelClovis_JOB
+Schläger
+#RaphaelClovis_DESC
+Die einfachen Soldaten meiden ihn wegen seiner Leibesfülle. Ihrem Einfluss verdankt er seine Stellung als Gerichtsdiener. An Klugheit mag es ihm fehlen, doch er ist treu und befolgt Befehle ohne ein Wort des Widerspruchs.
+#GregoryRamel_JOB
+Spion
+#GregoryRamel_DESC_1
+Es fällt schwer, sein Auftauchen in deinem Leben für einen bloßen Zufall zu halten. Andererseits sind wir doch zu alt, um an Schicksal zu glauben, nicht wahr? Du weißt nichts über seine Vergangenheit oder seine Beweggründe. Warum hilft er dir? Und warum gerade dir?
+#GregoryRamel_DESC_2
+Geboren in Cahors, ist er das uneheliche Kind von Pierre Ramel, Staatsanwalt und königlicher Rechtsberater. Sein Vater erkannte den Bastardsohn an, vermutlich um einen öffentlichen Skandal zu vermeiden. Der Junge entwickelte eine besondere Zuneigung zu seinem jüngeren Bruder Jean-Pierre. Doch sein älterer Bruder, ebenfalls Jean-Pierre, verachtete ihn. Schon als Knabe wurde er nach Paris geschickt, um bei seinem älteren Bruder zu leben. Jean-Pierre der Ältere verweigerte ihm jedoch die Aufnahme, und so landete der arme Junge auf der Straße. Zunächst lebte er als Bettler, doch schon bald schlug er sich als Informant durch. Als sein jüngerer Halbbruder mit fünfzehn Jahren zur Armee ging, beschloss Grégory, ihm zu folgen. Viele Jahre hörte man nichts von ihm, bis er plötzlich in London auftauchte. Doch schon bald musste er die Stadt verlassen, da man ihn der Spionage beschuldigte…
+#MaximiliendeRobespierre_DESC
+Wegen seiner leidenschaftlichen Hingabe an die Sache der Revolution wird er weithin als „der Unbestechliche“ bezeichnet. Als Anführer der radikalen Jakobiner hält er mit eiserner Faust – und wenn nötig mit Terror – Ordnung im Nationalkonvent. Zweifellos der mächtigste Mann im revolutionären Paris. Bislang hat es niemand gewagt, sich ihm zu widersetzen.
+#ClementRenard_DESC
+Die graue Eminenz von Paris, Herrscher über den Handel der Stadt und in jedes lukrative Geschäft verwickelt. Er duldet keinen Widerspruch, wie das Beispiel mit dem Stand von Alexis Fidèles Vater zeigt. Als Mitglied des Adels zog er sich nach Ausbruch der Revolution aus dem öffentlichen Leben zurück. Niemand weiß genau, was ihn antreibt – außer dem Wunsch, sein Vermögen zu mehren.
+#GeorgesDanton_DESC
+Als Anwalt kennt er das Gesetz ebenso gut wie die Richter des Tribunals. Viele sind überzeugt, dass allein dieses Wissen ihn angesichts der zahlreichen Vorwürfe von Korruption und Verrat am Leben hält. Noch bedeutsamer jedoch ist sein Talent, mit leidenschaftlichen Reden sämtliche Anklagen immer wieder zunichtezumachen. Seine Rivalität mit Robespierre ist in aller Munde, und ihre offiziellen Beziehungen werden oft als „erbitterte Freundschaft“ bezeichnet.
+#Jean-PaulMarat_DESC
+Bekannt als das „Gewissen der Nation“, ist er Herausgeber der selbstverlegten Zeitung „Freund des Volkes“. Von den Girondisten verachtet, von den Jakobinern als notwendiges Übel geduldet, wittert er den Schmutz an den Händen eines Menschen besser als ein abgerichtetes Schwein Trüffel. Ohne Zögern veröffentlicht er die Denunziationen, die ihm andere Mitglieder des Konvents bringen, um die Glaubwürdigkeit ihrer politischen Gegner zu untergraben.
+#Jean-BaptisteGobel_DESC
+Der Erzbischof von Paris – ein weiterer Chamäleon der französischen Politik. Angesichts der Revolution schlug er sich auf die Seite der Reformer, schwor dem Staat die Treue und wandte damit dem Papst den Rücken zu. Wahrscheinlich der einflussreichste Pariser nach Maximilien Robespierre. Das Rampenlicht meidet er, lieber zieht er im Hintergrund die Fäden und schlägt aus dem Schatten zu. Sein Spionagenetz durchdringt die ganze Stadt – vor ihm gibt es kein Entkommen.
+#Jacques-ReneHebert_DESC
+Ein Politiker und Journalist. Er nennt sich selbst den Vertreter der Sansculotten und die Stimme des Volkes. Die Herzen der einfachen Leute gewinnt er mit „Le Père Duchesne“, einer von ihm herausgegebenen Zeitung, die für ihre derbe Sprache und Parolen bekannt ist, wie sie dem niedrigsten Stand gefallen. Besonders gern verfolgt er widerspenstige Geistliche. Für einen Tribun des Volkes kleidet er sich überraschend prunkvoll.
+#GermainedeStael_DESC
+In Paris vor allem für ihren politischen Salon bekannt, ist sie eine Frau, der der Zugang zur großen Politik verwehrt bleibt und die daher aus dem Hintergrund agiert. Ehrgeizig und entschlossen, aus dem Schatten ihrer männlichen Kollegen zu treten, ist sie die richtige Person für Angelegenheiten, die am besten im vertraulichen Rahmen des Boudoirs besprochen werden. Zudem ist sie hervorragend gebildet und mit den Feinheiten der höheren Gesellschaft bestens vertraut.
+#Jean-NicolasPache_DESC
+Der Bürgermeister von Paris und bekennender Unterstützer der Girondisten. Er hat seinen Status erlangt, indem er sich langsam die Karriereleiter emporarbeitete – stets begleitet vom Kreisen eines wild rotierenden moralischen Kompasses. Glücksspiel meidet er nicht, und jede lukrative Gelegenheit ist ihm willkommen. Für einen Anteil am Gewinn würde er sich sogar mit dem Teufel selbst verbünden.
+#Jean-MarieRoland_DESC
+Der Innenminister. Dank seiner einflussreichen Ehefrau, die seine Karriere aus dem Hintergrund lenkt, hat er einen Posten in der Regierung erlangt und ist zu einem bedeutenden Mitglied der Girondisten geworden. Seine Unterstützung für die Monarchie verbirgt er nicht; er behauptet, sie werde ein Gleichgewicht schaffen zwischen der blutigen Revolution und der Tradition, die alle Generationen Frankreichs eint.
+#GraceElliott_DESC
+Eine Kurtisane, bekannt in jedem erwähnenswerten Winkel von Paris. Eine Dame von Welt, geboren in Schottland, lebt nun in Paris und gilt als angebliche Spionin der Engländer. Um zu überleben, musste sie die Diplomatie meistern wie ein Abgeordneter des Nationalkonvents. Zweifellos hat ihr Beruf ihr geholfen, ein weitreichendes Netzwerk aufzubauen. Man sagt, wenn ein Aristokrat aus Paris fliehen will, sollte er sich an Grace Elliott wenden.
+#FrancoisHanriot_DESC
+Ein ehrgeiziger, wenn auch nicht übermäßig fleißiger Offizier, der mit einem unfehlbaren politischen Gespür gesegnet ist. Dieses Talent erlaubt es ihm, sich nur mit jenen zu umgeben, die auf dem Weg ganz nach oben sind. Er weiß genau, wem es sich zu folgen lohnt und wen man besser vergisst. Seit dem Ausbruch der Revolution erklimmt er stetig die Karriereleiter, mit dem Ziel, Kommandant der Garde zu werden.
+#MathieuBurel_DESC
+Der alternde Kommandant der Nationalgarde. Er hat genug erlebt, um den einfachen Leuten nicht zu trauen, selbst wenn sie imstande sind, eine Revolution zu entfachen.
+#Judge_DESC
+Ein Richter des Revolutionstribunals, allgemein als Trinker und Spieler bekannt. Ein Schützling von Raymond Dévoyé, der ihn in die Welt des Rechts und der Gesetze einführte. Privat ist er eine unscheinbare Persönlichkeit.

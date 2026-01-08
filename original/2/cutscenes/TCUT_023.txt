@@ -1,0 +1,64 @@
+$TCUT_023_001_RENARD
+Merci d'avoir accepté notre invitation.
+$TCUT_023_002_JUDGE
+Voilà pourquoi les aristocrates sont tant détestés. J'ai l'impression de n'avoir guère eu le choix.
+$TCUT_023_003_RENARD
+Certes. Je vous remercie tout de même.
+$TCUT_023_004_JUDGE
+Quelle belle demeure. Ravi que tes rentes n'aient pas été dilapidées.
+$TCUT_023_005_JUDGE
+Quelle est la raison de ma présence ?
+$TCUT_023_006_RENARD
+Nous voulions que vous rencontriez ceux que l'on persécute en raison de leur origine.
+$TCUT_023_007_RENARD
+Les nantis sont aujourd'hui opprimés comme l'étaient les pauvres naguère.
+$TCUT_023_008_JUDGE
+La noblesse s'est durement appliquée pour mériter ce traitement.
+$TCUT_023_009_JUDGE
+Tout le monde a de bonnes raisons de te détester.
+$TCUT_023_010_RENARD
+Toujours les mêmes formules propagandistes.
+$TCUT_023_011_RENARD
+Lorsque nous en aurons fini avec cette révolution, pourrons-nous tuer tous ceux qui cherchent à se défaire de nous ?
+$TCUT_023_012_JUDGE
+Bonne chance à toi. Tu retrouveras peut-être ceux qui ont tué mon fils.
+$TCUT_023_014_RENARD
+Je dois admettre que nous n'étions pas entièrement convaincus de devoir prendre part à ce meurtre. Mais la proposition était trop alléchante.
+$TCUT_023_015_JUDGE
+Qu'est-ce que ça veut dire ?
+$TCUT_023_016_RENARD
+Il m'est d'avis que notre ami déguisé vous surestime.
+$TCUT_023_017_RENARD
+Mais il souhaite pourtant collaborer avec un juge du Tribunal.
+$TCUT_023_018_RENARD
+Il nous a également assuré qu'il n'avait pas l'intention de tuer un autre membre de votre famille.
+$TCUT_023_019_JUDGE
+Il a tué mon fils ?! C'est toi qui as fait ça ?!
+$TCUT_023_020_RENARD
+Voyez combien nous, les nobles, sommes devenus puissants depuis que vous nous avez forcés à nous unir.
+$TCUT_023_021_RENARD
+Nous jouerons une seule partie de dés, vous et moi.
+$TCUT_023_022_RENARD
+Nous jouerons le sort de l'homme qui a trahi votre famille et nous a aidés à tuer votre enfant…
+$TCUT_023_MINIGAME_YES_001_JUDGE
+Soit. Jouons.
+$TCUT_023_MINIGAME_YES_002_RENARD
+Quelle combativité. J'aime à voir cela !
+$TCUT_023_MINIGAME_NO_001_JUDGE
+Je n'entrerai pas dans ton jeu, Renard.
+$TCUT_023_MINIGAME_NO_002_RENARD
+Aussi faible et médiocre que son père.
+$TCUT_023_MINIGAME_ROUND_01_COMM
+Notre ami masqué était fou de rage. Il nous a proposé un marché très lucratif en échange de notre aide. Nous avons accepté.
+$TCUT_023_MINIGAME_ROUND_02_COMM
+Un homme blessé et dangereux. Le rejeter serait malavisé.
+$TCUT_023_MINIGAME_ROUND_03_COMM
+Pour parvenir à tuer votre enfant, il s'est renseigné auprès d'un homme que nous lui avons indiqué, avec qui nous avions collaboré. Quel imbécile.
+$TCUT_023_MINIGAME_ROUND_04_COMM
+Nous vous apporterons sa tête sur un plateau, en gage de notre bonne volonté. Cela vous prouvera qu'il est sage d'être notre ami.
+$TCUT_023_MINIGAME_ROUND_05_COMM
+Les aristocrates retourneront en ville d'un jour à l'autre, et tous ceux qui n'auront pas rejoint nos rangs seront balayés.
+$TCUT_023_MINIGAME_JUDGE_WON
+Vous avez gagné. Nous tiendrons promesse : vous aurez la tête de ce traître… Mais je ne vous garantis pas la liesse générale à Paris.
+$TCUT_023_MINIGAME_JUDGE_LOST
+Tout joueur apprend tôt ou tard qu'il ne contrôle rien. Il observe passivement le temps qui le pousse vers l'échec. Nous avions un marché : vous avez perdu et nous ne vous révélerons donc rien. Quant à Paris… Elle aura ce qu'elle mérite.

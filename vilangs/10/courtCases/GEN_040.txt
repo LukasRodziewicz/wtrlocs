@@ -1,0 +1,154 @@
+$GEN_040_DOC_01_HEADER
+Hazırlayan: Charles Étienne
+$GEN_040_DOC_01_00
+Yerel tüccarlardan biri olan Guy Deniau, Les Halles yakınındaki Ulusal Muhafız karakoluna gitti. Yükselen bir sesle, komşu tezgâhın sahibinin kasıtlı olarak <a name="2" class="hidden">katran döktüğünü</a> kendi ringa balığı fıçısına anlattı. Deniau, bu iddia edilen suç için hak ettiği bir ceza talep etti. Askerler Les Halles’e gidip ringa balıklarının gerçekten berbat bir tadı olduğunu tespit ettiler. Ancak ortada bir delil olmadığı için herhangi bir işlem yapmadılar.
+$GEN_040_DOC_01_01
+Birkaç saat sonra Muhafızlar yeniden Haller’e döndü. Bu kez onları çağıran, daha önce suçlanan Jean Courbis’ti ve ortada bolca delil vardı. En açık olanı ise, Deniau’nun bizzat <a name="3" class="hidden">uzun bir tahta sopayla</a> komşusunun tezgâhını tanıkların önünde parçalamasıydı.
+$GEN_040_DOC_01_02
+Öfkeli tüccar yumruğunu sallayarak bağırıyordu: "Bu alçak benim yerimi <a name="4" class="hidden">girişin yanında</a> çalarken siz neredeydiniz?" Muhafızlar ayrıntıları sormadan, güçlü tüccarı silahsızlandırıp hapse attılar. Raporu hazırlarken, memurlardan biri Deniau'nun iki yıl önce yazdığı <a name="5" class="hidden">eski bir ihbarı</a> buldu.
+$GEN_040_DOC_02_TOOLTIP
+Guy Deniau’nun ihbarı:
+$GEN_040_DOC_02_00
+Vatandaş Courbis’in tezgâhı için şehre ödeme yapmadığını bildirmek isterim. Ayrıca, müşterileriyle konuşurken yeni <a name="6" class="hidden">yönetimi açıkça eleştiriyor</a>.
+$GEN_040_OnStart_00
+Adınız?
+$GEN_040_OnStart_01
+Deniau. 1772'den beri taze balık.
+$GEN_040_OnStart_02
+Dün dünden beri bir de vandallık mı?
+$GEN_040_OnStart_03
+Yaptıklarımla övünmüyorum, ama artık yeter.
+$GEN_040_OnStart_04
+Gerçekten mi?! Altı ay önce gelirlerimden sekiz frank çaldığın zamanı unutmadım mı sanıyorsun?
+$GEN_040_OnStart_05
+Senin ceplerinden bir serseri çalmış, sen oradayken–
+$GEN_040_OnStart_06
+Sessizlik! Soru sorulana kadar konuşmayacaksınız.
+$GEN_040_OnPrison_00
+Görünüşe göre Parisliler balıklarını artık başka yerden almak zorunda kalacak. Yurttaş Deniau, sizi vandallık suçundan hapse mahkûm ediyorum.
+$GEN_040_OnPrison_01
+Muhafızları, kolay bir hayatları olmayacağı konusunda uyarmakta fayda var.
+$GEN_040_OnPrison_02
+Halkın bu kadar ağır bir cezadan memnun kalacağını sanmıyorum.
+$GEN_040_OnNotGuilty_00
+Kişisel anlaşmazlıklarınız mahkemede çözülmez. Vatandaş Deniau, serbestsiniz, ancak tezgâhınızı başka bir yere taşımanızı emrediyorum.
+$GEN_040_OnNotGuilty_01
+İyi fikir. Ringa balıklarını çöp kutularına biraz daha yaklaştırsın – aradaki kokuyu kimse fark etmez.
+$GEN_040_OnNotGuilty_02
+Neden kimse o iki baş belasını daha önce ayırmayı düşünmedi?
+$GEN_040_02x03_00_QTitle
+Vatandaş Courbis ne satıyor?
+$GEN_040_02x03_00_00
+Vatandaş Courbis ne satıyor?
+$GEN_040_02x03_00_01
+Meyve ve sebzeler.
+$GEN_040_02x03_00_02
+Balık mı satıyorsunuz?
+$GEN_040_02x03_00_03
+Yport ve Petites-Dalles’den doğrudan.
+$GEN_040_02x03_00_04
+Anladım. O halde neden biriniz Les Halles’e katranla, diğeriniz ise tahta bir sopayla geldi?
+$GEN_040_02x03_00_05
+…
+$GEN_040_02x03_00_06
+Vatandaş?
+$GEN_040_02x03_00_07
+Hatırlamıyorum. O sopa muhtemelen tezgâhın yanında duruyordu. Ama Courbis’in ne yaptığını önceden planladığı belliydi.
+$GEN_040_05x04_01_QTitle
+Görünüşe göre aranızdaki çatışma bir süredir devam ediyor.
+$GEN_040_05x04_01_00
+Görünüşe göre aranızdaki çatışma bir süredir devam ediyor.
+$GEN_040_05x04_01_01
+Her şey, o alçak tezgâhını benimkine ait olan yere, girişin yanına kurduğunda başladı.
+$GEN_040_05x04_01_02
+Orası sana ait değildi, eski Choquette’ten sonra sen aldın o yeri!
+$GEN_040_05x04_01_03
+Sessizlik! O zamandan beri bir anlaşmaya varamadınız mı?
+$GEN_040_05x04_01_04
+Şimdi düşününce, belki de her şey daha önce başlamıştı. Bir keresinde Jean, karısının aldığı barbunun parasını ödemeyi reddetmişti.
+$GEN_040_05x04_01_05
+O çürük leş yüzünden bütün ailem hastalandı. Şükret ki ben henüz–
+$GEN_040_05x04_01_06
+Kendimi tekrar mı etmeliyim? Susun yoksa başınız zaten olduğundan daha büyük belaya girer.
+$GEN_040_06x05_02_QTitle
+Vatandaş Courbis hakkında yazdığınız ihbarı bulduk.
+$GEN_040_06x05_02_00
+Vatandaş Courbis hakkında yazdığınız ihbarı bulduk. Neden yazdınız?
+$GEN_040_06x05_02_01
+Bunu yaptı çünkü ben çaça balığı satmaya başladım!
+$GEN_040_06x05_02_02
+Artık sus! Sayın yargıç, ben sadece şehre yardım etmek istedim. Her tezgâh sahibi Les Halles’te yerinin parasını ödüyor, Courbis de ödemeli.
+$GEN_040_06x05_02_03
+Sahtekâr! Düzenbaz! Kasabın yanında kraliyet tahsildarından saklandığını unuttun mu?
+$GEN_040_06x05_02_04
+Sessizlik!
+$GEN_040_06x05_02_05
+Ben kraliyet vergilerinden kaçmaya çalışıyordum. Sen ise devrim başladıktan sonra başladın buna!
+$GEN_040_06x05_02_06
+İkiniz de susun.
+$GEN_040_06x04_03_QTitle
+Vatandaş Courbis, yaklaşın.
+$GEN_040_06x04_03_00
+Vatandaş Courbis, yaklaşın.
+$GEN_040_WIT_00_A_QTitle
+Yeni düzeni gerçekten sorguluyor musunuz?
+$GEN_040_WIT_00_A_00
+Gerçekten de yeni düzeni sorguluyor musunuz?
+$GEN_040_WIT_00_A_01
+Bu, eski pisi balığı satan bir adamın uydurduğu iftiradan ibaret!
+$GEN_040_WIT_00_A_02
+Bu bir hayır mı?
+$GEN_040_WIT_00_A_03
+Elbette öyle. Ben tüccarım, siyasetçi değil.
+$GEN_040_WIT_00_B_QTitle
+Guy Deniau’nun Le Halls girişindeki yerini siz mi aldınız, doğru mu?
+$GEN_040_WIT_00_B_00
+Guy Deniau’nun Le Halls girişindeki yerini siz mi aldınız, doğru mu?
+$GEN_040_WIT_00_B_01
+Önce ölen bir tüccarın yerini o aldı. Ben de uygun bir zamanda aynısını yaptım.
+$GEN_040_WIT_00_B_02
+Bu sizin ilk çatışmanız mıydı?
+$GEN_040_WIT_00_B_03
+Yetmişlerin sonlarında, o cimri herif benden otuz frank borç istemişti. Parayı geri almak için tam iki yıl uğraştım!
+$GEN_040_WIT_00_B_04
+Vatandaş Deniau, bir şey eklemek istediğinizi görebiliyorum, ancak lütfen bundan kaçının.
+$GEN_040_WIT_01_A_QTitle
+O gün yanınızda neden katran vardı?
+$GEN_040_WIT_01_A_00
+O gün yanınızda neden katran vardı?
+$GEN_040_WIT_01_A_01
+Meyve satarım, ama tedarikçilerim bazen haşereleri uzak tutmak için katran alır.
+$GEN_040_WIT_01_A_02
+Peki, neden onu Yurttaş Deniau’nun fıçısına döktünüz?
+$GEN_040_WIT_01_A_03
+Ben öyle bir şey yapmadım! Muhtemelen kendisi döktü ki beni yine suçlayabilsin.
+$GEN_040_WIT_01_A_04
+Yalancı!
+$GEN_040_WIT_01_A_05
+Sakin olun!
+$GEN_040_WIT_01_B_QTitle
+Vatandaş Deniau’nun karakola gelişiyle sizin yaptığınız vandallık arasında birkaç saat geçti…
+$GEN_040_WIT_01_B_00
+Vatandaş Deniau’nun karakola gelişiyle sizin vandalizm raporunuz arasında birkaç saat geçti. O saatlerde ne oldu?
+$GEN_040_WIT_01_B_01
+Ne oldu? Sürekli çürük ringalarımı alaya aldı!
+$GEN_040_WIT_01_B_02
+Pek bir şey yok, her zamanki ticaret.
+$GEN_040_WIT_01_B_03
+Ve birdenbire, Guy Deniau bir sopa kapıp tezgâhınızı yıkmaya mı başladı?
+$GEN_040_WIT_01_B_04
+Bir anda delirdi, adeta bir hayvan gibi.
+$GEN_040_WIT_01_B_05
+Vatandaş Courbis, lütfen beni aptal yerine koymayın…
+$GEN_040_KEY_01
+Les Halles
+$GEN_040_KEY_02
+Katran
+$GEN_040_KEY_03
+Tahta direk
+$GEN_040_KEY_04
+Girişin yanındaki tezgâh
+$GEN_040_KEY_05
+Eski ihbar
+$GEN_040_KEY_06
+Karşı-Devrimci propaganda

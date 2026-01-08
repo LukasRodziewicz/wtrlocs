@@ -1,0 +1,48 @@
+$DISC_INTR_001_B04_MARAT_001_JUDGE
+Je te remercie d'être venu.
+$DISC_INTR_001_B04_MARAT_002_MARAT
+Que ne faut-il faire pour les juges du Tribunal…
+$DISC_INTR_001_B04_MARAT_003_JUDGE
+Je voudrais discuter du ministre Roland.
+$DISC_INTR_001_B04_MARAT_004_MARAT
+Je vois…
+$DISC_INTR_001_B04_MARAT_005_JUDGE_AGGR
+Roland est un furoncle pestiféré. Le nouveau régime ne peut se laisser marquer du sceau de la corruption.
+$DISC_INTR_001_B04_MARAT_006_JUDGE_MANI
+Roland représente-t-il réellement le peuple ? Ou bien œuvre-t-il pour le Roi et sa suite ?
+$DISC_INTR_001_B04_MARAT_007_JUDGE_JOKE
+Nous devons nous débarrasser de Roland pour son propre bien. Ses poches ne tarderont pas à éclater sous le poids de l'argent qu'il y entasse.
+$DISC_INTR_001_B04_MARAT_008_JUDGE_HUMI
+La France saigne et les individus comme Roland ne lui permettent pas de panser ses blessures. Ils ne font au contraire que les aggraver.
+$DISC_INTR_001_B04_MARAT_009_MARAT_INTR
+Je comprends tes motivations. Pour ma part, je déteste aussi les individus comme Roland.
+$DISC_INTR_001_B04_MARAT_010_MARAT_DOUB
+Tu lui as marché sur les pieds et il a réagi personnellement. En quoi cela sert-il l'intérêt de l'État ?
+$DISC_INTR_001_B04_MARAT_011_JUDGE_AGGR
+Roland est non seulement coupable de concussion, mais il a aussi menacé un juge du Tribunal révolutionnaire. Un membre du pouvoir judiciaire indépendant !
+$DISC_INTR_001_B04_MARAT_012_JUDGE_MANI
+Pour s'éviter une condamnation, Roland a lancé une croisade contre moi. N'a-t-il pas de la sorte déclaré la guerre contre le nouveau régime ?
+$DISC_INTR_001_B04_MARAT_013_JUDGE_JOKE
+M. et Mme Roland sont deux moustiques qui me piquent, avides du sang de la France. Personne n'aime les moustiques.
+$DISC_INTR_001_B04_MARAT_014_JUDGE_HUMI
+Ma propre antipathie envers le ministre ne change pas le fait que nous devrions remplacer ce royaliste corrompu par un homme plus juste.
+$DISC_INTR_001_B04_MARAT_015_JUDGE_AGGR
+Si tu ne persuades pas les députés, ce sera la preuve que tu tolères les traîtres qui continuent d'exercer leur influence à travers la France !
+$DISC_INTR_001_B04_MARAT_016_JUDGE_MANI
+Montre à tes lecteurs que tu n'es pas qu'un simple agitateur en quête de gloriole. Montre-leur que tu te soucies du destin de la France.
+$DISC_INTR_001_B04_MARAT_017_JUDGE_JOKE
+Les Girondins s'emmêlent souvent les pieds tout seuls, nous n'avons qu'à leur donner un petit coup de pouce.
+$DISC_INTR_001_B04_MARAT_018_JUDGE_HUMI
+Par moments, Roland est plus proche de l'Ancien Régime que Louis Capet. Si tu veux te débarrasser des vestiges de la monarchie, voici l'occasion.
+$DISC_INTR_001_B04_MARAT_019_MARAT_SATI
+Voici que je rencontre enfin quelqu'un qui cherche à se débarrasser de ces satanés Girondins. Longue vie au juge Fidèle !
+$DISC_INTR_001_B04_MARAT_020_MARAT_INTR
+La chute précipitée du ministre Roland et de son génie d'épouse donnera des sueurs froides aux Girondins. Tu peux compter sur moi.
+$DISC_INTR_001_B04_MARAT_021_MARAT_DOUB
+Ta guerre avec Roland ne me concerne pas. Je n'ai rien à gagner à coopérer avec un modeste juge ordinaire.
+$DISC_INTR_001_B04_MARAT_TOPIC_01
+Que cherchons-nous à obtenir ?
+$DISC_INTR_001_B04_MARAT_TOPIC_02
+Pourquoi le voulons-nous ?
+$DISC_INTR_001_B04_MARAT_TOPIC_03
+Qu'y gagnera-t-il ?

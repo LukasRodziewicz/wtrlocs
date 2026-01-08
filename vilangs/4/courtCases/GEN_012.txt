@@ -1,0 +1,260 @@
+$GEN_012_DOC_01_HEADER
+Zusammengestellt von: Andre Modeste
+$GEN_012_DOC_01_00
+Auf der Anklagebank sitzt Michał Trandowski aus Polen, ein 44-jähriger Deserteur, der aus unbekannten Gründen seine Truppe im Kampf gegen die Truppen Katharinas II. im Stich ließ. Er überquerte die französische Grenze und reiste nach Paris. Wir gehen davon aus, dass er beabsichtigte, im Konvent einen politisch motivierten Mord zu begehen.
+$GEN_012_DOC_01_01
+Seine Beweggründe für den Überfall sind unklar, doch Zeugen berichten, dass sich der Angriff gegen <a name="4" class="hidden">Maximilien Robespierre</a> richtete.
+$GEN_012_DOC_01_02
+Trandowski gelang es, an einer Sitzung des Konvents teilzunehmen und irgendwie sogar einen Dolch hineinzuschmuggeln. Der Angriff ereignete sich im Korridor während einer Pause. Der Pole griff nach dem Messer und stürzte sich auf Robespierre. Es besteht kein Zweifel, dass der Angriff tragisch geendet hätte, wäre da nicht <a name="5" class="hidden">Cécile de Jarre</a> gewesen, ein Vertrauter des Opfers. Seine Hand wurde im Gerangel verletzt, doch sein Opfer ermöglichte es anderen, den Wahnsinnigen zu überwältigen.
+$GEN_012_DOC_01_03
+Michał Trandowski wurde von der Garde festgenommen und vor Gericht gebracht, wo er sich wegen <a name="6" class="hidden">versuchten politischen Mordes</a> verantworten muss – ein Vergehen, das dem Handeln gegen Frankreich gleichkommt.
+$GEN_012_DOC_01_04
+Trandowski diente eine Zeit lang in der Revolutionsarmee. Wir konnten seine Vorgesetzten ausfindig machen, die ihn für seinen <a name="7" class="hidden">einwandfreien Dienst</a> und seine ehrenhafte Haltung lobten. Auch mit seinen Kameraden haben wir gesprochen; sie berichteten, der Angeklagte habe seine Heimat zutiefst <a name="8" class="hidden">vermisst</a> und sich ständig um deren Zukunft gesorgt.
+$GEN_012_DOC_01_05
+Beweisstück: <a name="9" class="hidden">Ein blutbefleckter Dolch.</a>
+$GEN_012_OnStart_00
+Zeig ihnen, dass Frankreich jede fremde Hand abschlagen wird, die es wagt, seinen Anführern zu drohen.
+$GEN_012_OnStart_01
+Name, Nachname und Beruf?
+$GEN_012_OnStart_02
+Michał Trandowski. Ich bin Soldat. Ich habe in der französischen Armee gedient.
+$GEN_012_OnStart_03
+Kommen Sie aus Polen?
+$GEN_012_OnStart_04
+Ja, viele von uns dienen in eurer Armee.
+$GEN_012_OnStart_05
+Solche Soldaten wie er sind bei uns unerwünscht!
+$GEN_012_OnStart_06
+Ach ja? Warten Sie, bis Sie die preußischen Bajonette sehen.
+$GEN_012_OnStart_07
+Glauben Sie wirklich, dass Sie Frankreich verteidigen können? Sie waren ja nicht einmal in der Lage, Ihr eigenes Land zu schützen!
+$GEN_012_OnStart_08
+Wollen Sie es herausfinden? Ich fordere Sie zum Duell mit Säbeln!
+$GEN_012_OnStart_09
+Ruhe!
+$GEN_012_OnGuilty_00
+Ich verurteile Bürger Michał Trandowski zur Guillotine.
+$GEN_012_OnGuilty_01
+Jetzt können wir alle ruhig schlafen.
+$GEN_012_OnGuilty_02
+So ergeht es Verrätern!
+$GEN_012_OnGuilty_03
+Und Deserteure!
+$GEN_012_OnPrison_00
+Ich verurteile Bürger Michał Trandowski zu Haft! Führt den Verurteilten ab.
+$GEN_012_OnPrison_01
+Moment mal, was?!
+$GEN_012_OnPrison_02
+Er hat einen angehenden Mörder verschont?
+$GEN_012_OnPrison_03
+Ich hoffe, die anderen Gefangenen wissen, wie man mit ihm umgeht.
+$GEN_012_OnNotGuilty_00
+Ich spreche Michał Trandowski von allen Schuldvorwürfen frei. Er war geblendet und getrieben von einem höheren Ideal.
+$GEN_012_OnNotGuilty_01
+Wer weiß, wann ihn dieser „höhere Zweck“ wieder zum Angriff treibt …
+$GEN_012_OnNotGuilty_02
+Der Soldat hat alles gestanden, und er lässt ihn einfach gehen?!
+$GEN_012_OnNotGuilty_03
+Das ist kein Gericht, das ist ein Zirkus!
+$GEN_012_03x04_00_QTitle
+Warum wollten Sie Robespierre töten?
+$GEN_012_03x04_00_00
+Warum wollten Sie Robespierre töten?
+$GEN_012_03x04_00_01
+Weil Frankreich uns den Rücken gekehrt hat.
+$GEN_012_03x04_00_02
+Uns?
+$GEN_012_03x04_00_03
+Polen. Wir kämpfen für euch, während unsere Heimat in Stücke gerissen wird. Bald wird sie von der Landkarte verschwinden, und ihr tut nichts!
+$GEN_012_03x04_00_04
+Was soll Frankreich deiner Meinung nach tun?
+$GEN_012_03x04_00_05
+Ihr hättet uns helfen können. Es lag doch in eurem eigenen Interesse. Ihr hattet eine polnische Königin! Doch ihr habt euch geweigert, und nun haben sich Russland und Preußen verbündet, um meine Heimat zu plündern.
+$GEN_012_03x04_00_06
+Das ist eine äußerst einseitige Sichtweise, Herr Trandowski.
+$GEN_012_03x04_00_07
+An Ehre ist nichts Subjektives! Zumindest für mich. Ihr Franzosen scheint das anders zu sehen, und keine Revolution wird daran je etwas ändern.
+$GEN_012_03x04_00_08
+War es die Ehre, die Sie dazu trieb, einen wehrlosen Mann mit einem Messer anzugreifen?
+$GEN_012_03x04_00_09
+Robespierre hat das Blut meiner Landsleute an den Händen.
+$GEN_012_03x04_00_10
+Er fantasiert, vermutlich hat er zu viel Wodka getrunken.
+$GEN_012_01x06_01_QTitle
+Ist Ihnen bewusst, dass Sie versucht haben, ein politisches Attentat zu verüben?
+$GEN_012_01x06_01_00
+Sind Sie sich bewusst, dass Sie versucht haben, ein politisches Attentat zu verüben?
+$GEN_012_01x06_01_01
+Ja, und ich bereue nichts. Ich bin bereit, die Folgen meiner Tat zu tragen.
+$GEN_012_01x06_01_02
+Haben Sie etwas zu Ihrer Verteidigung zu sagen?
+$GEN_012_01x06_01_03
+Verschwenden Sie Ihre Zeit nicht mit ihm.
+$GEN_012_01x06_01_04
+Ich bin nicht hierher gekommen, um mich zu verteidigen. Ich bin hier, um allen Anwesenden zu sagen, dass Europa tatenlos zusieht, während mein Land stirbt. Mehr bleibt mir jetzt nicht.
+$GEN_012_01x06_01_05
+Glauben Sie, dass Robespierres Tod die Lage Polens verbessert hätte?
+$GEN_012_01x06_01_06
+…
+$GEN_012_01x06_01_07
+Meiner Meinung nach dürsten Sie nach Rache, sind aber zu feige, um die Russen oder die Preußen anzugreifen.
+$GEN_012_05x09_02_QTitle
+Sie haben einen unschuldigen Mann verletzt. Hatten Sie vor, ihn zu töten?
+$GEN_012_05x09_02_00
+Sie haben einen unschuldigen Mann verletzt. Hatten Sie vor, ihn zu töten?
+$GEN_012_05x09_02_01
+Ich wollte die Aufmerksamkeit Frankreichs und der ganzen Welt auf die Schwierigkeiten lenken, mit denen Polen konfrontiert ist.
+$GEN_012_05x09_02_02
+Sie haben einen der Anführer der Revolution mit einem Dolch angegriffen.
+$GEN_012_05x09_02_03
+Ich habe für mein Vaterland mindestens ein Dutzend Moskowiter getötet. Einer mehr oder weniger, was macht das schon? Ich könnte genauso gut Robespierre umbringen!
+$GEN_012_05x09_02_04
+Dieser Mann ist verrückt!
+$GEN_012_05x09_02_05
+Geben Sie Ihre Schuld also zu?
+$GEN_012_05x09_02_06
+Ja, ich wollte ihn töten. Wenn der Tod von Maximilien Robespierre der Revolution schaden und Frankreich auf mein gequältes Polen aufmerksam machen würde, würde ich ihn ohne Zögern töten.
+$GEN_012_05x09_02_07
+Ich habe nichts weiter hinzuzufügen. Mit jedem Satz belastet er sich selbst immer mehr.
+$GEN_012_04x09_03_QTitle
+Rufen Sie die Zeugin Cécile de Jarre auf.
+$GEN_012_04x09_03_00
+Rufen Sie die Zeugin, Cécile de Jarre, in den Zeugenstand.
+$GEN_012_04x09_03_02
+Bitte stellen Sie sich vor.
+$GEN_012_04x09_03_03
+Cécile de Jarre, ich bin eine Vertraute von Maximilien Robespierre.
+$GEN_012_02x06_04_QTitle
+Hatten Sie vor, Robespierre zu ermorden, als Sie auf dem Weg nach Frankreich waren?
+$GEN_012_02x06_04_00
+Hatten Sie vor, Robespierre zu ermorden, als Sie auf dem Weg nach Frankreich waren?
+$GEN_012_02x06_04_01
+Ich wollte in Ihrer Armee dienen und gegen Russland kämpfen.
+$GEN_012_02x06_04_02
+Frankreich befindet sich nicht im Krieg mit Russland.
+$GEN_012_02x06_04_03
+Noch nicht. Deshalb habe ich beschlossen, Polen auf andere Weise zu helfen.
+$GEN_012_02x06_04_04
+Also haben Sie davon geträumt, Frankreich in einen Krieg mit Russland zu stürzen?
+$GEN_012_02x06_04_05
+Wäre das nicht wunderbar?
+$GEN_012_02x06_04_06
+Es gäbe Tausende Tote und unschuldige Opfer, und Sie finden das wunderbar?
+$GEN_012_02x06_04_07
+Ein wahrer Irrer!
+$GEN_012_02x06_04_08
+Glauben Sie wirklich, dass Robespierres Tod Frankreich dazu bringen würde, sich Ihrem Krieg anzuschließen?
+$GEN_012_02x06_04_09
+Hätte ich es geschafft, würde die Welt über uns sprechen.
+$GEN_012_03x09_05_QTitle
+Warum haben Sie einen Dolch benutzt?
+$GEN_012_03x09_05_00
+Warum haben Sie einen Dolch benutzt?
+$GEN_012_03x09_05_01
+Ein Dolch lässt sich leichter verbergen als ein Säbel, und auf ihn ist Verlass. Pistolen versagen oft gerade dann, wenn man sie am dringendsten braucht.
+$GEN_012_03x09_05_02
+Wollten Sie sichergehen, dass Ihr Opfer nicht überlebt?
+$GEN_012_03x09_05_03
+Wenn ich einen Auftrag habe, setze ich alles daran, ihn zu erfüllen.
+$GEN_012_03x09_05_04
+So ein Mensch… läuft frei auf unseren Straßen herum!
+$GEN_012_03x05_06_QTitle
+Kannten Sie Cécile de Jarre bereits vor dem Vorfall?
+$GEN_012_03x05_06_00
+Kannten Sie Cécile de Jarre bereits vor dem Vorfall?
+$GEN_012_03x05_06_01
+Nein. Ich sah ihn zum ersten Mal, als er mir im Weg stand.
+$GEN_012_03x05_06_02
+Und Sie haben trotzdem zugeschlagen? Auf einen Unschuldigen gezielt?
+$GEN_012_03x05_06_03
+Er stand mir im Weg. Es ist einfach passiert.
+$GEN_012_03x05_06_04
+Bestie! Wilder!
+$GEN_012_06x07_07_QTitle
+Ihre Kameraden haben ausgesagt, dass Ihr Militärdienst tadellos war.
+$GEN_012_06x07_07_00
+Ihre Kameraden haben bestätigt, dass Ihr Militärdienst tadellos war. Warum sollten Sie eine so makellose Laufbahn zerstören?
+$GEN_012_06x07_07_01
+Für die geliebte Republik würde ich nicht nur meine Karriere, sondern auch mein Leben opfern.
+$GEN_012_06x07_07_02
+Und du wirst es bald genug erleben!
+$GEN_012_06x07_07_03
+Haben Sie einen Eid auf die Republik geschworen?
+$GEN_012_06x07_07_04
+Kein Eid steht über dem, den man seinem Vaterland schwört.
+$GEN_012_01x08_08_QTitle
+Wenn Sie Ihrem eigenen Land so verbunden sind, warum haben Sie dann in einer fremden Armee gedient?
+$GEN_012_01x08_08_00
+Wenn Sie Ihrem eigenen Land so verbunden sind, warum haben Sie dann in einer fremden Armee gedient?
+$GEN_012_01x08_08_01
+Ich glaubte, dass Frankreichs Sieg über Preußen und Österreich dem Gemeinwesen helfen würde. Viele von uns sehen in Frankreich noch immer unsere einzige Hoffnung.
+$GEN_012_01x08_08_02
+Also wollten Sie uns schwächen, indem Sie einen unserer Anführer angreifen?
+$GEN_012_01x08_08_03
+Manche Opfer sind unvermeidlich.
+$GEN_012_01x08_08_04
+Warum opferst du dich nicht selbst?
+$GEN_012_01x08_08_05
+Habe ich schon.
+$GEN_012_WIT_00_A_QTitle
+Beschreiben Sie den Angriff im Konvent.
+$GEN_012_WIT_00_A_00
+Beschreiben Sie den Angriff im Konvent.
+$GEN_012_WIT_00_A_01
+Wir verließen den Sitzungssaal und setzten unser Gespräch fort. Bürger Robespierre ging an meiner Seite und erzählte mir etwas, als ich einen Mann bemerkte, der direkt auf uns zulief.
+$GEN_012_WIT_00_A_02
+Was hast du getan?
+$GEN_012_WIT_00_A_03
+Ich habe versucht, ihn festzuhalten, aber er hat mir in die Hand geschnitten. Zum Glück war der Flur voller Menschen, die ihn schnell von mir wegzogen.
+$GEN_012_WIT_00_A_04
+Mit anderen Worten: Trandowski hat einen unschuldigen Mann überraschend angegriffen.
+$GEN_012_WIT_00_A_05
+Ganz genau.
+$GEN_012_WIT_00_A_06
+Hat Herr Trandowski etwas gesagt? Können Sie sein Verhalten beschreiben?
+$GEN_012_WIT_00_A_07
+Er sah wütend aus und sprach mit sich selbst.
+$GEN_012_WIT_00_A_08
+Was genau haben Sie gehört?
+$GEN_012_WIT_00_A_09
+Er sprach in einer fremden Sprache. Ich glaube, er hat ein paar Wörter wiederholt, aber ich habe sie nicht verstanden.
+$GEN_012_WIT_01_A_QTitle
+Glauben Sie, dass er den Angriff geplant hat?
+$GEN_012_WIT_01_A_00
+Glauben Sie, dass er den Angriff geplant hat?
+$GEN_012_WIT_01_A_01
+Ich denke schon.
+$GEN_012_WIT_01_A_02
+Sieht so aus, als hätte er es schlecht geplant.
+$GEN_012_WIT_01_A_03
+Weshalb glauben Sie das?
+$GEN_012_WIT_01_A_04
+Er musste sicher sein, dass Robespierre im Gebäude sein würde, und einen Weg finden, eine Waffe hineinzubringen. Dann brauchte er nur noch auf ein Durcheinander zu warten, um sein Ziel anzugreifen.
+$GEN_012_KEY_01
+Fahnenflucht
+$GEN_012_KEY_02
+Heimliches Eindringen in Paris
+$GEN_012_KEY_03
+Motiv
+$GEN_012_KEY_04
+Maximilien Robespierre
+$GEN_012_KEY_05
+Cécile de Jarre
+$GEN_012_KEY_06
+Politischer Mord
+$GEN_012_KEY_07
+Makelloser Dienst
+$GEN_012_KEY_08
+Sehnsucht nach Polen
+$GEN_012_KEY_09
+Blutbefleckter Dolch
+$GEN_012_LastDialog_00
+Polen ist noch nicht untergegangen…
+$GEN_012_UNIQUE_QUESTION_00
+Wie beurteilten die Vorgesetzten des Angeklagten seinen Dienst?
+$GEN_012_UNIQUE_ANSWER_CORRECT_00_00
+Sie war makellos.
+$GEN_012_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Der Angeklagte soll unbeholfen und feige gewesen sein.
+$GEN_012_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Er hob sich nicht von den anderen Soldaten ab.

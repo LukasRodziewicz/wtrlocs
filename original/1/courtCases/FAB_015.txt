@@ -1,0 +1,286 @@
+$FAB_015_DOC_01_HEADER
+Compiled by: Charles Etienne
+$FAB_015_DOC_01_00
+Before the Revolution, Claude Fauchet performed many important functions at the Church. As the royal chaplain, he was close to Citizen Capet, and as the archdeacon he had substantial power and many privileges unknown to most French people.
+$FAB_015_DOC_01_01
+The cardinal sensed the changing wind, and decided he would benefit more by standing with the people. He participated in the <a name="3" class="hidden">storming of the Bastille</a>, during which he was seen armed at the front. Later, as the constitutional bishop of Calvados and a Convention deputy, he was one of the people responsible for inspiring the <a name="4" class="hidden">September Massacres</a>.
+$FAB_015_DOC_01_02
+During the <a name="5" class="hidden">trial of Citizen Capet</a>, whom, may I remind you, the defendant knew in person, he voted for imprisonment and not for the guillotine. After the malefactor was beheaded, he protested openly against the execution in the “Journal des amis de la Constitution”.
+$FAB_015_DOC_01_03
+During the last days of the uprising in Caen, fragments of Fauchet’s <a name="6" class="hidden">articles</a> were discovered among the personal belongings of Joseph-Geneviève de Puisaye, one of the leaders of the mutiny. Investigating the imprisoned officers, it was also confirmed that the bishop had openly supported the uprising.
+$FAB_015_DOC_01_04
+During a search in the defendant’s residence, we discovered <a name="7" class="hidden">substantial amounts of gold</a>, a cellar full of wine, and remnants of a sumptuous <a name="8" class="hidden">supper for sixteen people</a>. During the investigation, we were not able to determine the origin of the wealth accumulated by the priest, or the identity of those who accompanied him during his uncontrolled and immoral feasts.
+$FAB_015_DOC_02_00
+Fragments of Claude Fauchet’s articles, found in the belongings of de Puisaye:
+$FAB_015_DOC_02_01
+It is natural that in a country of equality and brotherhood, none of the regions or cities can exercise authority over another part of France. <a name="9" class="hidden">The Convention</a> has already played its historic role, and I think it is necessary to replace it entirely with regional boards or parliaments. A state founded on the rule of the people must rely upon <a name="10" class="hidden">local</a> and not central authorities.
+$FAB_015_OnStart_00
+Introduce yourself for the record.
+$FAB_015_OnStart_01
+Claude Fauchet.
+$FAB_015_OnStart_02
+Only that? Not “bishop”?
+$FAB_015_OnStart_03
+You asked for my name.
+$FAB_015_OnStart_04
+You are accused of supporting a Counter-Revolutionary uprising.
+$FAB_015_OnStart_05
+I support the freedom of the French to determine their own fate. If this is a crime, then I admit my guilt.
+$FAB_015_OnStart_06
+He’s one of us. He was at the Bastille, I saw him!
+$FAB_015_OnStart_07
+Even if this freedom leads to fratricidal wars?
+$FAB_015_OnStart_08
+As far as I know, it was the Convention sending the army to the north, not the federalists of Normandy sending their soldiers to Paris.
+$FAB_015_OnGuilty_00
+For supporting a Counter-Revolutionary mutiny, secretive Monarchism, and taking advantage of state functions for the illegal acquisition of property, I hereby sentence Bishop Fauchet to death.
+$FAB_015_OnGuilty_01
+This is a historic judgement. We are clearing the country of the relics of its former rule.
+$FAB_015_OnGuilty_02
+We want blood!
+$FAB_015_OnGuilty_03
+All bishops to the guillotine!
+$FAB_015_OnGuilty_04
+Crush the parasite!
+$FAB_015_OnNotGuilty_00
+There is no foundation for judging Bishop Fauchet guilty. You are free to go.
+$FAB_015_OnNotGuilty_01
+This relic of the Ancien Régime should die as Capet did.
+$FAB_015_OnNotGuilty_02
+Is the Judge a Royalist too?
+$FAB_015_OnNotGuilty_03
+I swear that lackey is about to kneel in front of the bishop!
+$FAB_015_01x05_00_QTitle
+Were you a chaplain at Versailles before the Revolution?
+$FAB_015_01x05_00_00
+Were you a chaplain at Versailles before the Revolution?
+$FAB_015_01x05_00_01
+I was the royal preacher.
+$FAB_015_01x05_00_02
+And later you voted on the fate of Citizen Capet, is that correct?
+$FAB_015_01x05_00_03
+Indeed.
+$FAB_015_01x05_00_04
+Tell me, did your personal acquaintance with him influence your vote?
+$FAB_015_01x05_00_05
+I do not think anybody would believe me if I said it did not, but yes, it had an influence, though I only knew him by sight and rarely talked to him.
+$FAB_015_01x05_00_06
+Did you vote against his beheading?
+$FAB_015_01x05_00_07
+Sodding Royalist.
+$FAB_015_01x05_00_08
+I bet he misses stuffing himself at Versailles.
+$FAB_015_01x05_00_09
+I did not vote for the guillotine, but I did that for all of us.
+$FAB_015_01x05_00_10
+Why?
+$FAB_015_01x05_00_11
+A king in jail, a real jail and not under house arrest, would still not pose a threat, would he?
+$FAB_015_01x05_00_12
+You said your acquaintance with Louis influenced your decision. Had you not known him, would you have voted to behead him?
+$FAB_015_01x05_00_13
+Yes, and I would have made a mistake. I went to court, and I saw that the monarchs of Europe had more solidarity with each other than their own subjects.
+$FAB_015_01x03_01_QTitle
+How is it that an archdeacon came to abandon his comfortable job…
+$FAB_015_01x03_01_00
+How is it that an archdeacon came to abandon his comfortable job then stand at the front of the people’s revolt?
+$FAB_015_01x03_01_01
+I never kept my political views secret in my sermons, and because of them I lost my position at court.
+$FAB_015_01x03_01_02
+So you took sides with the people, because neither Louis nor the aristocrats wanted you any more?
+$FAB_015_01x03_01_03
+No, it was because I took sides with the people that they did not want me. You are confusing the cause with the effect.
+$FAB_015_01x03_01_04
+You can present it in any way now, but let us stick to the facts.
+$FAB_015_01x03_01_05
+Of course, what do you wish to know?
+$FAB_015_01x03_01_06
+Did you stay at court until you were expelled?
+$FAB_015_01x03_01_07
+I stayed at court in the interest of the people! Remember what France was like at the time? Nobody did anything, and I tried to convince both the king and court that they needed to share their power with the people!
+$FAB_015_01x03_01_08
+You gorged yourself and poured fancy wine down your gullet, and now you’re telling us tales.
+$FAB_015_02x07_02_QTitle
+A substantial amount of gold was found in your palace. Where did it come from?
+$FAB_015_02x07_02_00
+A substantial amount of gold was found in your palace. Where did it come from?
+$FAB_015_02x07_02_01
+This substantial amount is only present in your files.
+$FAB_015_02x07_02_02
+Could you explain?
+$FAB_015_02x07_02_03
+I have a certain amount of gold jewellery just to secure my revenues, the other items are related to my faith – a cross, and a chalice. That is all.
+$FAB_015_02x07_02_04
+It is good you did not say “modest revenues”. As a court chaplain, you must have acquired considerable wealth. Later on, as a bishop and a member of the Convention, I expect you also had many opportunities to… enrich yourself.
+$FAB_015_02x07_02_05
+Of course he stole! Opportunity makes a thief!
+$FAB_015_02x07_02_06
+If you can present to the people any proof of my dishonesty, I will gladly wait.
+$FAB_015_02x07_02_07
+So you deny that you took advantage of your post to gain personal benefits?
+$FAB_015_02x07_02_08
+I did not work all those years for myself, but for the people!
+$FAB_015_06x02_03_QTitle
+We have evidence proving that you supported organisers of the coup in Normandy.
+$FAB_015_06x02_03_00
+We have evidence proving that you supported organisers of the coup in Normandy.
+$FAB_015_06x02_03_01
+I supported democracy for years, and these people wanted to enforce it. So yes, you could say that we shared the same… ideals.
+$FAB_015_06x02_03_02
+Democracy has already won here in Paris. There is no need to enforce it.
+$FAB_015_06x02_03_03
+If you say that a dozen men in Paris, who make decisions in corridors concerning the future of millions, can be called democracy, I am not going to argue. Is this the France we spilled blood for at the Bastille? Answer that question for yourselves.
+$FAB_015_06x02_03_04
+He’s right, we’ve exchanged one tyrant for several.
+$FAB_015_06x02_03_05
+So you admit you planned to change the system of the Republic?
+$FAB_015_06x02_03_06
+Perhaps the insurgents did. I simply wrote articles and talked to people. Forbid that, and you will be no better than Louis.
+$FAB_015_06x02_03_07
+Articles that inspired others to shed blood.
+$FAB_015_06x02_03_08
+Had we not shed blood, we would not have overthrown the monarchy, would we? I am not a supporter of violence, but you must admit that some changes cannot be made without it.
+$FAB_015_10x03_04_QTitle
+You wrote about transferring authority to the local administrations.
+$FAB_015_10x03_04_00
+You wrote about transferring authority to the local administrations.
+$FAB_015_10x03_04_01
+That would be just.
+$FAB_015_10x03_04_02
+At present, the civil administrator of Paris is Archbishop Jean-Baptiste Gobel. Did you want to bestow authority upon him?
+$FAB_015_10x03_04_03
+Perhaps. If a local board of Paris was established, it could be referred to as the municipal convention. But I fail to see what you are aiming at.
+$FAB_015_10x03_04_04
+Did the archbishop tell you to promote Federalist ideas? Priests can reach a great many people in the countryside. They could easily influence the elections for those councils of yours, and the archbishop would hold all lines of power.
+$FAB_015_10x03_04_05
+I would like to get a clear answer. Did you support the armed uprising against Paris, and did you do it on Gobel’s orders?
+$FAB_015_10x03_04_06
+No, and no.
+$FAB_015_10x03_04_07
+Are you familiar with the phrase “cui prodest scelus is fecit”? It means that whomever the crime advances is its perpetrator, and Gobel would have benefited most from your plan.
+$FAB_015_10x03_04_08
+Therefore, the one who benefits most from Gobel’s fall will be the one guilty of this campaign against me. Did I understand you correctly?
+$FAB_015_09x06_05_QTitle
+In your articles, you wrote that the Convention should be abolished.
+$FAB_015_09x06_05_00
+In your articles, you wrote that the Convention should be abolished.
+$FAB_015_09x06_05_01
+Rather, replaced.
+$FAB_015_09x06_05_02
+The Convention is not planning to dissolve itself, so it would have to be done by force, would it not?
+$FAB_015_09x06_05_03
+Please think on it for a moment – if I had planned a coup d’état, I would not be writing articles about it, but collecting weapons.
+$FAB_015_09x06_05_04
+And yet you helped those who planned it.
+$FAB_015_09x06_05_05
+That clergy scum probably wanted to feast at the court again.
+$FAB_015_09x06_05_06
+I do not know what information you have, but the only letters I wrote were to old friends from the times of the Revolution. You cannot have any letter in your files in which I would call for an uprising because I have never written anything of the sort.
+$FAB_015_09x06_05_07
+Let me make this clear to you – we know that you exchanged letters with Girondins, de Puisaye, for instance.
+$FAB_015_09x06_05_08
+I will not deny that we know each other.
+$FAB_015_09x06_05_09
+How can you explain your acquaintance with a leader of a Counter-Revolutionary rebellion?
+$FAB_015_09x06_05_10
+When I first met him, he was not rebelling at all.
+$FAB_015_09x06_05_11
+Then you are guilty of not informing the Convention of the planned rebellion.
+$FAB_015_09x06_05_12
+Did you hear that? Guilty!
+$FAB_015_07x08_06_QTitle
+I believe that your religion commands a moderation in eating…
+$FAB_015_07x08_06_00
+I believe that your religion commands a moderation in eating and drinking, as well as the accumulation of riches.
+$FAB_015_07x08_06_01
+As it is written in the holy book, “a covetous man shall not be satisfied with money: and he that loveth riches shall reap no fruit from them.”
+$FAB_015_07x08_06_02
+Yet you had many riches, and you also enjoyed indulging in pleasures.
+$FAB_015_07x08_06_03
+Did you see my dining room?
+$FAB_015_07x08_06_04
+I bet it’s bigger than my whole apartment.
+$FAB_015_07x08_06_05
+No, but from the records we know you hosted sumptuous feasts there.
+$FAB_015_07x08_06_06
+Saint John the Baptist said, “he that hath two coats, let him give to him that hath none; and he that hath meat, let him do in like manner.” I have a table for sixteen people at home…
+$FAB_015_07x08_06_07
+We are supposed to share food with others, and my kitchen has always been open.
+$FAB_015_07x08_06_08
+I believe that your guests were not soon to be suffering from hunger. Would it not have been better to share with those who have no bread to give to their children?
+$FAB_015_07x08_06_09
+I went to sleep hungry yesterday!
+$FAB_015_07x08_06_10
+It is not my fault the present authorities have made people destitute.
+$FAB_015_04x01_07_QTitle
+What was your role in the massacres of September 1972?
+$FAB_015_04x01_07_00
+What was your role in the massacres of September 1972?
+$FAB_015_04x01_07_01
+I prayed for all of the victims.
+$FAB_015_04x01_07_02
+Was that not during Girondin rule?
+$FAB_015_04x01_07_03
+On the streets, it was mob rule.
+$FAB_015_04x01_07_04
+You were a Girondin.
+$FAB_015_04x01_07_05
+You could say that, but I do not know how my political leaning could be linked to the murder of priests.
+$FAB_015_04x01_07_06
+Why only priests? There were few priests in relation to the great number of people killed.
+$FAB_015_04x01_07_07
+A few? More than two hundred were murdered!
+$FAB_015_04x01_07_08
+You were in power at the time. What did you do to prevent the massacres?
+$FAB_015_04x01_07_09
+Your accusations are nothing more than politics…
+$FAB_015_04x01_07_10
+Answer the prosecutor’s question.
+$FAB_015_04x01_07_11
+And what would you have done in my place? If someone was there to kill and I had stood in their path, the only difference would have been one more corpse to dispose of.
+$FAB_015_KEY_01
+Royal chaplain
+$FAB_015_KEY_02
+Privileges
+$FAB_015_KEY_03
+Attack on the Bastille
+$FAB_015_KEY_04
+September Massacres
+$FAB_015_KEY_05
+Citizen Capet’s trial
+$FAB_015_KEY_06
+Articles
+$FAB_015_KEY_07
+Gold
+$FAB_015_KEY_08
+Sumptuous supper
+$FAB_015_KEY_09
+The Convention
+$FAB_015_KEY_10
+Local authorities
+$FAB_015_LastDialog_00
+I was with you from the beginning, and this is how you thank me?
+$FAB_015_UNIQUE_QUESTION_01
+What was the defendant’s role at the royal court?
+$FAB_015_UNIQUE_ANSWER_CORRECT_01_00
+He was the royal preacher.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_01_00
+He was Citizen Capet’s advisor.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_01_01
+He controlled the treasury.
+$FAB_015_UNIQUE_QUESTION_02
+How did the defendant explain his connections to the Girondins?
+$FAB_015_UNIQUE_ANSWER_CORRECT_02_00
+He maintained contact with his old friends, not with politicians.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_02_00
+He did business with some of them.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_02_01
+He tried to inspire them to change political views.
+$FAB_015_UNIQUE_QUESTION_03
+Did the defendant explain how he became so wealthy?
+$FAB_015_UNIQUE_ANSWER_CORRECT_03_00
+He claims that the investigators are exaggerating the extent of his wealth.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_03_00
+He cannot explain it. He claims that someone must have planted the valuables.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_03_01
+He refused to comment.

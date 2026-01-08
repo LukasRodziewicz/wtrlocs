@@ -1,0 +1,240 @@
+$MENTOR_HELP_AVAIBLE_TIP1
+Помощь наставника будет стоить вам <color="#ff0000">{0} ОВ</color>
+$MENTOR_HELP_NOT_ENOUGH
+У вас недостаточно Очков влияния.
+$GUILTY_RAW
+Виновен
+$NOTGUILTY_RAW
+Невиновен
+$SIGNATURE_TIP
+Подпишите бумаги, чтобы привести вердикт в исполнение.
+$VERDICT_SELECT
+Выберите вердикт:
+$GUILTY_VERDICT_MALE
+Я признаю подсудимого виновным и приговариваю его к смерти.
+$PRISON_VERDICT_MALE
+Я признаю подсудимого виновным и приговариваю его к заключению.
+$NOTGUILTY_VERDICT_MALE
+Я признаю подсудимого невиновным.
+$GUILTY_VERDICT_FEMALE
+Я признаю подсудимую виновной и приговариваю ее к смерти.
+$PRISON_VERDICT_FEMALE
+Я признаю подсудимую виновной и приговариваю ее к заключению.
+$NOTGUILTY_VERDICT_FEMALE
+Я признаю подсудимую невиновной.
+$CASE_FILES
+Папка с делом
+$VERDICT
+Вердикт
+$PROTOCOL
+Протокол
+$VERDICT_FORM
+Бланк вердикта
+$NEWSPAPER
+Газета
+$EVENT_ITEM
+Новости
+$JURY_ON_START_DISEBLE_01
+Это дело не настолько важно, чтобы мы вмешивались. Поступайте как знаете.
+$JURY_ON_END_TOO_FAST_01
+Вердикт? Уже?! А как же суд?
+$JURY_ON_END_DISAGREE_01
+Вас вообще волнует наше решение? В будущем вам стоит к нам прислушиваться!
+$GROUP_ATTITUDE_HEADER
+Влияние вердикта на отношение фракция
+$PROSECUTOR_PROTOCOL_SIGNED
+Прокурор подписал ваш отчет.
+$PROSECUTOR_PROTOCOL_UNSIGNED_DISABLE
+За прокурором не числится должок.
+$PROSECUTOR_PROTOCOL_UNSIGNED_ENABLE
+Потребовать у прокурора вернуть должок.
+$JURY_HEADER
+Мнение присяжных
+$JURY_SUPPORT_HIGH
+Дружественное
+$JURY_SUPPORT_NEUTRAL
+Нейтральное
+$JURY_SUPPORT_LOW
+Враждебное
+$JURY_SENTENCE
+Мнение присяжных
+$JURY_SENTENCE_GUILTY
+Мнение присяжных: смертный приговор
+$JURY_SENTENCE_PRISON
+Мнение присяжных: лишение свободы
+$JURY_SENTENCE_NOT_GUILTY
+Мнение присяжных: оправдательный приговор
+$JURY_SENTENCE_HIDDEN
+Присяжные еще не готовы вынести вердикт.
+$JURY_NO_SENTENCE
+У присяжных нет мнения по этому делу.
+$JURY_SUPPORT
+Благосклонность присяжных.
+$KEYWORD_MATCH_SUCCESS
+Открыт вопрос
+$KEYWORD_MATCH_FAILURE
+Неверная связь
+$KEYWORD_MATCH_TRAP
+Попались в ловушку
+$KEYWORD_NO_MORE_CONNECTIONS
+Вы исчерпали попытки
+$KEYWORD_ALL_CONNECTIONS_UNLOCKED
+Все вопросы были открыты
+$KEYWORD_LOCKED_INFORMATION
+Закрыто
+$DIALOG_SENTENCE_ICON_TIP
+Влияние на мнение присяжных
+$DISMISS_WITNESS
+Отпустить свидетеля
+$VERDICT_HEADER_FIRST
+РЕВОЛЮЦИОННЫЙ
+$VERDICT_HEADER_SECOND
+ТРИБУНАЛ
+$MENTOR_FIRSTAGGRESSIONTUTORIAL
+Будьте бдительны, люди обеспокоены. Вы можете попытаться манипулировать присяжными и прокурором, но чем дольше вы тянете с вердиктом, тем хуже возможные последствия.
+$VERDICTWINDOW_JURY_NONE_MALE
+Присяжные еще не готовы вынести вердикт. Задайте больше вопросов.
+$VERDICTWINDOW_JURY_GUILTY_MALE
+Присяжные проголосовали за немедленное обезглавливание подсудимого.
+$VERDICTWINDOW_JURY_NOTGUILTY_MALE
+Присяжные проголосовали за освобождение подсудимого. Они посчитали его невиновным.
+$VERDICTWINDOW_JURY_PRISON_MALE
+Присяжные проголосовали за тюремное заключение. Они считают такое наказание достаточным.
+$VERDICTWINDOW_JURY_NONE_FEMALE
+Присяжные еще не готовы вынести вердикт. Задайте больше вопросов.
+$VERDICTWINDOW_JURY_GUILTY_FEMALE
+Присяжные проголосовали за немедленное обезглавливание подсудимой.
+$VERDICTWINDOW_JURY_NOTGUILTY_FEMALE
+Присяжные проголосовали за освобождение подсудимой. Они посчитали ее невиновным.
+$VERDICTWINDOW_JURY_PRISON_FEMALE
+Присяжные проголосовали за тюремное заключение. Они считают такое наказание достаточным.
+$VERDICTWINDOW_JURY_SUPPORT
+Присяжные
+$VERDICTWINDOW_PROSECUTOR_SUPPORT
+Прокурор
+$TRIAL_SUMMARY
+Итоги слушания
+$UNLOCKED_QUESTIONS
+Открыто вопросов: {0}/{1}
+$VERDICTWINDOW_GROUP_HEADER
+Последствия
+$STARTING_TRIAL_DIALOG_HEADER
+Начать слушание
+$VERDICT_HEADER
+РЕВОЛЮЦИОННЫЙ ТРИБУНАЛ
+$AUDIENCE_ATTITUDE_TOOLTIP_0
+Публика счастлива
+$AUDIENCE_ATTITUDE_TOOLTIP_1
+Публика спокойна
+$AUDIENCE_ATTITUDE_TOOLTIP_2
+Публика обеспокоена
+$AUDIENCE_ATTITUDE_TOOLTIP_3
+Публика сердится
+$AUDIENCE_ATTITUDE_TOOLTIP_4
+Публика разгневана
+$VERDICTWINDOW_DESC_VERDICT_NOT_SELECTED
+Выберите вердикт, чтобы посмотреть, как он повлияет на отношение фракций
+$VERDICTWINDOW_DESC_VERDICT_SELECTED
+На основании отношения фракций были определены последствия вердикта
+$VERDICTWINDOW_NO_INFO_TIP
+Нет информации
+$VERDICTWINDOW_GAMEOVER_PEOPLE
+Риск смерти
+$VERDICTWINDOW_GAMEOVER_REVO
+Риск лишения должности
+$VERDICTWINDOW_ADDITIONAL_REPUTATION
+Бонус к репутации.
+$VERDICTWINDOW_UNLOCK_FROM_MAP_MISSION_TOOLTIP
+Разблокировано на карте
+$VERDICTWINDOW_GROUPCHANGE_LOCKED_TOOLTIP
+Отношение фракции слишком низкое, чтобы увидеть влияние
+$DIALOG_HUB_HEADER
+Вопросы к подсудимому
+$WITNESS_QUESTIONS_HUB_HEADER
+Вопросы к свидетелю
+$KEYWORD_LOCKED_TOOLTIP
+Откройте досье, чтобы разблокировать
+$DESIRED_VERDICT_PANEL_HEADER
+Ожидаемый приговор
+$PROTOCOL_QUIZ_SUMMARY_CORRECT
+Верный ответ
+$PROTOCOL_QUIZ_SUMMARY_INCORRECT
+Неверный ответ
+$PROTOCOL_QUIZ_MENTOR_BUTTON_NOT_ENOUGHT
+Недостаточно Очков влияния
+$PROTOCOL_QUIZ_MENTOR_BUTTON_ACTIVE
+Получить помощь наставника за <color="#ff0000">{0} ОВ</color>
+$PROTOCOL_QUIZ_PROSECUTOR_BUTTON_INACTIVE
+Вы не можете попросить прокурора отдать должок
+$PROTOCOL_SUMMARY_RESULT_TITLE
+Влияние отчета:
+$SUMMARY_EFFECTS
+Эффекты
+$SUMMARY_ATTITUDE_POSSITIVE
+Положительное влияние
+$SUMMARY_ATTITUDE_NO_CHANGE
+Нет влияния
+$SUMMARY_ATTITUDE_NEGATIVE
+Отрицательное влияние
+$PROTOCOL_QUIZ_TITLE
+Отчет
+$PROTOCOL_RESULT_WORST
+{0}/{1} Недопустимо!
+$PROTOCOL_RESULT_BAD
+{0}/{1} Неудовлетворительно!
+$PROTOCOL_RESULT_GOOD
+{0}/{1} Хорошая работа!
+$PROTOCOL_REASON_01
+Неверный выбор.
+$PROTOCOL_SIGNATURE_TOOLTIP
+Утвердить отчет.
+#FAMILY
+Семья
+$VERDICT_RELATIONSHIP_HEADER
+Отчеты судьи
+$PROTOCOL_JURY_SENTENCE_CHANGE_TOOLTIP
+Изменение решения присяжных:
+$PROTOCOL_QUIZ_JUDGE_SIGNATURE
+Подпись судьи
+$PROTOCOL_QUIZ_PROSECUTOR_SIGNATURE
+Подпись прокурора
+$JURY_EFFECT_HEADER
+Влияние присяжных:
+$PROSECUTOR_QUEST_MAIN
+Мне напомнить вам, что за вами должок после нашей вчерашней игры в кости? Вы проиграли, не забыли?
+$PROSECUTOR_QUEST_GUILTY
+Обвиняемый должен умереть.
+$PROSECUTOR_QUEST_PRISON
+Я требую заключения обвиняемого.
+$PROSECUTOR_QUEST_NOT_GUILTY
+Свободу обвиняемому!
+$PROSECUTOR_BAD_QUIZ_POPUP
+Я отказываюсь подписывать столь никудышный отчет. Смотрите, как бы вы не попали за него на гильотину!
+$VERDICT_LOCKED_TEXT
+Недоступно в этом деле
+$VERDICT_LOCKED_TEXT_BUILDING
+Кто-то убедил ваших руководителей, что этот отчет будет тратой времени.
+$FLASHCARDS_DISABLED_TOOLTIP
+Быстрые вердикты пока недоступны
+$GUILTY_VERDICT_PROLOG
+Я признаю обвиняемого виновным в совершении предполагаемого преступления.
+$FLASHCARDS_PROSECUTOR_ENTER
+Сегодня нас ждет только несколько незначительных дел.
+$FLASHCARDS_PROSECUTOR_EXIT
+Благодарю. Даже маленькие люди заслуживают справедливости.
+$QUIZ_DIALOG_SOURCE_LOCKED_TOOLTIP
+Эта тема не поднималась во время допроса.
+$KEYWORDVIEW_NUMBER_OF_CHANGES
+Возможные ошибки
+$KEYWORDVIEW_NUMBER_OF_TRAPS
+Число ловушек
+$KEYWORD_VIEW_NUMBER_OF_QUESTIONS_LEFT
+Осталось открыть вопросов: {0}
+$KEYWORD_VIEW_BUTTON_TOOLTIP
+Откройте вопросы к обвиняемому
+$VERDICT_FLASHCARDS_EMPTY_LABEL
+Сегодня у вас больше нет дел.
+$MAIN_SECTION_MILESTONE_TITLE
+Незаконченное строительство
+$MAIN_SECTION_MILESTONE_MAIN
+Вы не выполнили в срок обязательство по постройке статуи. Париж разочарован.

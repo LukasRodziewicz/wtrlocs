@@ -1,0 +1,16 @@
+$DIAL_H_02_03_21_001_WIFE
+Meinem Kind hätten sie beinahe die Hände abgehackt...
+$DIAL_H_02_03_21_002_JUDGE
+Ich weiß nicht, was ich dir sagen soll.
+$DIAL_H_02_03_21_003_WIFE
+Ist es eine Strafe, deine Frau zu sein? Eine göttliche Buße für irgendetwas?
+$DIAL_H_02_03_21_004_JUDGE
+Mein Bruder greift uns alle an, nicht nur mich...
+$DIAL_H_02_03_21_005_WIFE
+Wegen etwas, das geschah, noch bevor wir uns kannten. Weder Bernard noch ich haben ihm je etwas angetan.
+$DIAL_H_02_03_21_006_GRANDFATHER
+Es tut mir leid, es tut mir leid für alles. Das ist meine Schuld, ich hätte ihn niemals fortschicken dürfen.
+$DIAL_H_02_03_21_007_JUDGE
+Das ist Brunos Schuld, er ist hier der Bösewicht.
+$DIAL_H_02_03_21_008_WIFE
+Bist du dir sicher...?

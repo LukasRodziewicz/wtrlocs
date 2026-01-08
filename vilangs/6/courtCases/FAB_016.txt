@@ -1,0 +1,244 @@
+$FAB_016_DOC_1_HEADER
+Compilado por: Fabrice Poli
+$FAB_016_DOC_1_00
+El acusado es... Cuesta creerlo, pero es mi deber continuar. El acusado es el ex presidente del Tribunal Revolucionario, Raymond Dévoyé. Se le imputa la <a name="1" class="hidden">muerte del hijo del juez Alexis Fidèle</a>. El cuerpo del niño fue <a name="2" class="hidden">hallado colgado</a> en el Puente de la Revolución.
+$FAB_016_DOC_1_01
+Ayer por la tarde recibimos una <a name="3" class="hidden">carta anónima</a> informándonos de que el asesino del niño se escondía en la residencia de Raymond Dévoyé. Al llegar, encontramos al acusado solo, y su comportamiento dejaba claro que estaba <a name="4" class="hidden">profundamente ebrio</a>. Al preguntarle por el contenido de la carta, rompió a llorar, sollozando: “Él era culpable”, y repetía: “¿Frédéric está vivo?”. En un momento dado, <a name="6" class="hidden">arrojó una jarra</a> llena de vino contra la pared. Camino a la prisión, no dejaba de gritar: “Perdóname”.
+$FAB_016_DOC_1_02
+Al día siguiente de su arresto, en su celda, el acusado se negó a repetir la confesión que había hecho la noche anterior. En su lugar, el ciudadano Dévoyé exigió ser llevado ante un juez del Tribunal para poder explicar todo el asunto.
+$FAB_016_DOC_1_03
+No conocía la situación familiar del acusado, así que decidí investigarla. Vivía solo, ya que <a name="7" class="hidden">su esposa falleció</a> hace varios años; según el médico, fue un problema cardíaco. Sin embargo, los rumores dicen que fue el agotamiento causado por el consumo habitual de alcohol del acusado lo que la llevó a la tumba. Su único hijo <a name="8" class="hidden">se alistó en el ejército</a> en cuanto alcanzó la mayoría de edad, y desde entonces nadie lo ha visto en París. Los vecinos cuentan que tanto el padre como el hijo eran agresivos entre sí, y a menudo se oían gritos provenientes de la casa cuando <a name="9" class="hidden">los dos discutían</a>.
+$FAB_016_OnStart_00
+Me gustaría comenzar dirigiéndome al juez–
+$FAB_016_OnStart_01
+¡Cómo se atreve a hablar!
+$FAB_016_OnStart_02
+Escúchame, por favor, tengo tanto que...
+$FAB_016_OnStart_03
+Podrá confesarlo todo durante el juicio. ¡No mostramos piedad a los asesinos!
+$FAB_016_OnStart_04
+¡Así es!
+$FAB_016_OnStart_05
+Después de todos estos años... ¿Me harías algo así?
+$FAB_016_OnStart_06
+No es así–
+$FAB_016_OnStart_07
+¡Cállate, asesino de niños!
+$FAB_016_OnGuilty_00
+¡Condeno a Raymond Dévoyé a la guillotina! Saquen a ese bastardo de mi vista.
+$FAB_016_OnGuilty_01
+Muy bien.
+$FAB_016_OnGuilty_02
+¡Que el asesino de niños se pudra!
+$FAB_016_OnNotGuilty_00
+Declaro inocente a Raymond Dévoyé…
+$FAB_016_OnNotGuilty_01
+Este juez no tiene ningún respeto por su propia familia.
+$FAB_016_OnNotGuilty_02
+No alcanzo a comprender por qué tu corazón ha decidido ablandarse de repente.
+$FAB_016_01x02_00_QTitle
+¿Estuvo usted personalmente implicado en el ahorcamiento de Frédéric Fidèle?
+$FAB_016_01x02_00_00
+¿Tuvo usted alguna implicación personal en el ahorcamiento de Frédéric Fidèle?
+$FAB_016_01x02_00_01
+No, Alexis, yo nunca...
+$FAB_016_01x02_00_02
+Se dirigirá al juez como “monsieur le juge”, y no por su nombre de pila.
+$FAB_016_01x02_00_03
+Ese desgraciado se está tomando demasiadas libertades.
+$FAB_016_01x02_00_04
+Yo no maté al hijo de... monsieur le juge. ¿Cómo podría? Usted era mi única familia…
+$FAB_016_01x02_00_05
+Ni se le ocurra siquiera sugerir algo así.
+$FAB_016_01x02_00_06
+Lo repito: yo no lo maté. ¿Cómo podría haber matado a un niño al que conocía desde su nacimiento?
+$FAB_016_01x02_00_07
+Eso hace que todo este asunto sea aún más repugnante.
+$FAB_016_01x02_00_08
+¡Yo solo transmití información! ¡No lo maté!
+$FAB_016_01x03_01_QTitle
+Parece que sus compañeros han decidido entregarlo.
+$FAB_016_01x03_01_00
+Parece que sus compañeros han decidido traicionarle. La denuncia anónima que recibimos y que llevó a su arresto, sin duda fue enviada por sus propios cómplices.
+$FAB_016_01x03_01_01
+No lo sé, yo... Se me acercó un hombre que necesitaba información sobre la familia del señor juez. Solo era información.
+$FAB_016_01x03_01_02
+¿Y simplemente se la entregó sin sospechar nada?
+$FAB_016_01x03_01_03
+Bueno, él sí ofreció algo a cambio…
+$FAB_016_01x03_01_04
+¿Así que te sobornó?
+$FAB_016_01x03_01_05
+¡Tienen a mi hijo! Lo arrestaron por intentar desertar del ejército, y solo hay un castigo para la deserción.
+$FAB_016_01x03_01_06
+¿Y este hombre prometió que lo sacarían a cambio de ayuda?
+$FAB_016_01x03_01_07
+Es mi hijo. Antes bebía mucho y no supe ver lo importante que era la familia. Ahora bebo porque la he perdido, y esas personas se aprovecharon de mi situación. Me aseguraron que, si me negaba a ayudarles, pondrían a mi hijo ante un pelotón de fusilamiento.
+$FAB_016_01x03_01_08
+¿Quién era el hombre que vino a verle?
+$FAB_016_01x03_01_09
+Nunca supe su verdadero nombre, pero conocía tanto al juez Fidèle como a mí. Le habían amputado el brazo derecho hasta el codo.
+$FAB_016_01x05_02_QTitle
+¿Por qué hiciste esto? ¿Por qué? ¡Respóndeme!
+$FAB_016_01x05_02_00
+¿Por qué hiciste esto? ¿Por qué? ¡Respóndeme!
+$FAB_016_01x05_02_01
+El hombre que vino a verme prometió devolverme lo que quedaba de mi familia.
+$FAB_016_01x05_02_02
+¿Así que cambiaste una vida por otra?
+$FAB_016_01x05_02_03
+No podía saber qué haría ese hombre con la información. Solo dijo que necesitaban averiguar con quién trataban. Querían saber todo sobre Alexis Fidèle…
+$FAB_016_01x05_02_04
+¿Y les creyó?
+$FAB_016_01x05_02_05
+Sí, porque estaba desesperado por recuperar a mi hijo… Fui un necio, pero no maté a su hijo.
+$FAB_016_01x05_02_06
+Así es, y usted es tan culpable como el hombre que acudió a usted. ¿Cómo se llamaba?
+$FAB_016_01x05_02_07
+Lo siento mucho, de verdad, no lo sé. Le ruego que me perdone, se lo suplico, monsieur le juge. Jamás habría hecho daño a su familia a propósito.
+$FAB_016_01x05_02_08
+No importa. ¡La sangre se paga con sangre!
+$FAB_016_01x05_02_09
+¡Bien dicho!
+$FAB_016_02x04_03_QTitle
+¿Qué estaba haciendo el día en que se encontró el cuerpo?
+$FAB_016_02x04_03_00
+¿Qué estaba haciendo el día en que se encontró el cuerpo?
+$FAB_016_02x04_03_01
+Hubo un juicio y luego...
+$FAB_016_02x04_03_02
+Eso lo recordamos. ¿Y después?
+$FAB_016_02x04_03_03
+Por lo que ocurrió, comprendí que... entendí que, sin querer, había provocado una tragedia. Si hubiera sabido para qué usarían esa información...
+$FAB_016_02x04_03_04
+Eso no importa. Merece el mismo castigo que cualquier asesino.
+$FAB_016_02x04_03_05
+¡No, no! De verdad... No puedo... Son como mi familia. La muerte de Frédéric me duele tanto como a usted.
+$FAB_016_02x04_03_06
+¡Ni se le ocurra…!
+$FAB_016_02x04_03_07
+¡Es la verdad! Desde entonces, no ha pasado un solo día sin que beba... La última vez que estuve así fue cuando perdí a mi hijo, cuando se fue a servir al frente. Estaba seguro de que no lo volvería a ver...
+$FAB_016_02x04_03_08
+Basta de sentimentalismos. Usted es un asesino, así de simple.
+$FAB_016_02x04_03_09
+¡Asesino!
+$FAB_016_02x04_03_10
+No... fui engañado.
+$FAB_016_04x05_04_QTitle
+¿Cuánto había bebido el día de su detención?
+$FAB_016_04x05_04_00
+¿Cuánto había bebido el día de su detención?
+$FAB_016_04x05_04_01
+Suficiente para olvidar.
+$FAB_016_04x05_04_02
+¿Sobre qué?
+$FAB_016_04x05_04_03
+Que he hecho sufrir a quienes amo.
+$FAB_016_04x05_04_04
+Díselo a mi esposa y te matará con sus propias manos.
+$FAB_016_04x05_04_05
+Sé que ella me odiará.
+$FAB_016_04x05_04_06
+¡Todo París te odia!
+$FAB_016_04x05_04_07
+¡Asesino de niños!
+$FAB_016_04x05_04_08
+No quería esto. Por favor, créame…
+$FAB_016_04x05_04_09
+¡Ya deberías saber cuántas veces hemos oído eso en este tribunal!
+$FAB_016_04x06_05_QTitle
+¿Tenía usted la intención de herir a los guardias que vinieron a arrestarle?
+$FAB_016_04x06_05_00
+¿Tenía usted la intención de herir a los guardias que vinieron a arrestarlo?
+$FAB_016_04x06_05_01
+¡Por supuesto que no! Ni siquiera estoy seguro de recordar en qué pensaba entonces.
+$FAB_016_04x06_05_02
+Entonces, ¿cómo sabe que no quería hacerles daño?
+$FAB_016_04x06_05_03
+Porque yo no soy así.
+$FAB_016_04x06_05_04
+Por supuesto que no.
+$FAB_016_04x07_06_QTitle
+Los investigadores dicen que la muerte de su esposa podría estar relacionada con su inclinación a…
+$FAB_016_04x07_06_00
+Los investigadores afirman que la muerte de su esposa podría estar relacionada con su tendencia a abusar del alcohol.
+$FAB_016_04x07_06_01
+Supongo que tienen razón.
+$FAB_016_04x07_06_02
+Por favor, aclare lo que quiere decir.
+$FAB_016_04x07_06_03
+Bebí durante mucho tiempo. Más por placer que por cualquier otra razón. Mi esposa... apenas podía soportarlo, igual que mi hijo. Solo ahora veo lo mal que estaba.
+$FAB_016_04x07_06_04
+¿Quiere decir que su corazón no lo soportó?
+$FAB_016_04x07_06_05
+Me alegraría que no se mencionara aquí la información que le confié al señor juez en privado, en su casa…
+$FAB_016_04x07_06_06
+Ahora esto es asunto del tribunal, y lo que usted quiera aquí no tiene ninguna importancia.
+$FAB_016_04x07_06_07
+Ya veo… Bueno, quizá mi comportamiento contribuyó a su prematura muerte, pero yo no lo hice–
+$FAB_016_04x07_06_08
+¿A propósito? Sí, ya sabemos que matas a otros por accidente.
+$FAB_016_06x09_07_QTitle
+Sus vecinos afirman haber escuchado muchas discusiones entre usted y su hijo.
+$FAB_016_06x09_07_00
+Sus vecinos afirman haber escuchado muchas discusiones entre usted y su hijo.
+$FAB_016_06x09_07_01
+No lo voy a negar. En el pasado tuvimos enfrentamientos, y ahora me arrepiento de ello.
+$FAB_016_06x09_07_02
+¿Sobre qué trataban?
+$FAB_016_06x09_07_03
+La vida en general, yo mismo, pero casi siempre todo lo malo que había en mí. Todo aquello de lo que un hijo puede acusar a su padre después de que su madre haya llorado por su marido borracho.
+$FAB_016_08x09_08_QTitle
+¿La decisión de su hijo de unirse al ejército tuvo alguna relación con sus disputas?
+$FAB_016_08x09_08_00
+¿La decisión de su hijo de unirse al ejército tuvo alguna relación con sus disputas?
+$FAB_016_08x09_08_01
+Sí, así fue. En cuanto mi hijo pudo tomar la decisión por sí mismo y de manera legal, lo hizo.
+$FAB_016_08x09_08_02
+¿Lo has visto desde entonces?
+$FAB_016_08x09_08_03
+No. La primera noticia que tuve de él después fue sobre su intento de deserción.
+$FAB_016_KEY_01
+Muerte de Frédéric
+$FAB_016_KEY_02
+Descubrimiento del cuerpo
+$FAB_016_KEY_03
+Soplo anónimo
+$FAB_016_KEY_04
+Intoxicación alcohólica
+$FAB_016_KEY_05
+Delirios de borracho
+$FAB_016_KEY_06
+Arrojando la jarra
+$FAB_016_KEY_07
+Muerte de la esposa
+$FAB_016_KEY_08
+Hijo en el ejército
+$FAB_016_KEY_09
+Peleas en casa
+$FAB_016_LastDialog_00
+Haz lo que debas, no me opondré.
+$FAB_016_UNIQUE_QUESTION_00
+¿Cómo se enteraron los investigadores de la culpabilidad del acusado?
+$FAB_016_UNIQUE_ANSWER_CORRECT_00_00
+De una denuncia anónima.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_00_00
+El acusado lo confesó todo estando ebrio.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_00_01
+El carretero fue testigo del suceso.
+$FAB_016_UNIQUE_QUESTION_01
+¿El acusado sufre de alguna adicción?
+$FAB_016_UNIQUE_ANSWER_CORRECT_01_00
+Es alcohólico.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_01_00
+No.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Es un jugador empedernido.
+$FAB_016_UNIQUE_QUESTION_02
+¿Cómo sobornaron los asesinos al acusado?
+$FAB_016_UNIQUE_ANSWER_CORRECT_02_00
+Prometieron salvar a su hijo, condenado a muerte por deserción.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Le ofrecieron dinero.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Le prometieron un cargo en el Comité de Salvación Pública.

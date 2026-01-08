@@ -1,0 +1,26 @@
+#INFLUENCE_TIP
+Influência
+#INCLUENCE_TIP_SHORT
+IP
+#INFLUENCE_INCOME_TIP
+Aumento de influência
+#COST_TIP
+Custo:
+#SUPPORT_FORMAT_TIP
+Apoio: {0}
+#PEOPLE_SUPPORT_TIP
+Apoio do Povo
+#ARISTOCRATS_SUPPORT_TIP
+Apoio dos Aristocratas
+#REVOLUTIONISTS_SUPPORT_TIP
+Apoio dos Revolucionários
+#REPUTATION_TIP
+Reputação
+#CLOSE_VIEW_TIP
+Fechar a visualização
+#START_DISCUSSION_TOOLTIP
+Iniciar Persuasão
+#OPEN_DISCUSSION_INFO
+Consultar suas anotações
+#DECISION_NOT_ENOUGH_POINTS
+<color=#ff0000ff>Você não tem recursos suficientes para realizar esta ação.</color>

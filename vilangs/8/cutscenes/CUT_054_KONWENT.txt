@@ -1,0 +1,74 @@
+$CUT_054_JUDGE_001
+Cidadãos! Deputados!
+$CUT_054_JUDGE_002
+Quem vota pela prisão de Robespierre?!
+$DISC_INTR_005_B12_KONWENT_001_JUDGE_AGGR
+Robespierre perdeu completamente o senso de realidade. Se fosse um homem de honra, já teria se entregado às autoridades. Mas ele é um cão raivoso, disposto a se defender a qualquer custo, indiferente ao sofrimento de todos que arrasta consigo!
+$DISC_INTR_005_B12_KONWENT_002_JUDGE_MANI
+Quantas pessoas ainda precisarão sofrer até que paremos essa besta? Para ele, só importa o poder!
+$DISC_INTR_005_B12_KONWENT_003_JUDGE_JOKE
+Talvez eu esteja me preocupando demais. Sim, é possível. Mas para mim está claro que Robespierre perdeu o controle. Precisamos acalmá-lo!
+$DISC_INTR_005_B12_KONWENT_004_JUDGE_HUMI
+Se a Convenção não perceber logo o que está acontecendo, pessoas vão morrer. Franceses, que juramos proteger. Nosso país renascido será habitado por cadáveres.
+$DISC_INTR_005_B12_KONWENT_005_KONWENT_INTR
+Então Robespierre é seu novo alvo agora?
+$DISC_INTR_005_B12_KONWENT_006_KONWENT_DOUB
+Quem conseguiria entender sua discussão? Só um sábio!
+$DISC_INTR_005_B12_KONWENT_007_KONWENT_IRRI
+Vocês dois são como cães raivosos. Basta um empurrão para começarem a latir e rosnar.
+$DISC_INTR_005_B12_KONWENT_008_JUDGE_AGGR
+Até quando você vai esperar até que Robespierre venha atrás de você?! Ele já enfrentou Danton e Hébert porque ousaram desafiá-lo!
+$DISC_INTR_005_B12_KONWENT_009_JUDGE_MANI
+Robespierre me disse uma vez que “o terror nada mais é do que justiça — rápida, severa, inflexível”. Você entende?! É assim que ele pensa. Para ele, não há outra saída senão afogar a França em sangue!
+$DISC_INTR_005_B12_KONWENT_010_JUDGE_JOKE
+No começo, Danton e Hébert também ignoraram a ameaça, assim como você. Então, de repente, surgiram provas dos crimes deles. Provas fabricadas por Robespierre, é claro! Pois bem, espere a sua vez!
+$DISC_INTR_005_B12_KONWENT_011_JUDGE_HUMI
+Não podemos perder a Convenção Nacional. Mas é exatamente isso que acontecerá se Robespierre continuar a espalhar o terror em Paris! Mais cedo ou mais tarde, você irá enfrentá-lo e acabará compartilhando o destino de Danton e Hébert!
+$DISC_INTR_005_B12_KONWENT_012_KONWENT_INTR
+Maximiliano pode ter exagerado um pouco, mas certamente deve haver uma punição mais justa para ele do que a guilhotina!
+$DISC_INTR_005_B12_KONWENT_013_KONWENT_DOUB
+Todos cometemos erros. Robespierre não é diferente. Ainda podemos trazê-lo de volta!
+$DISC_INTR_005_B12_KONWENT_014_KONWENT_IRRI
+Só os monarcas decapitavam pessoas por um único erro! A Revolução deve conceder uma segunda chance aos Cidadãos mais meritórios. E Robespierre certamente é um deles!
+$DISC_INTR_005_B12_KONWENT_015_JUDGE_AGGR
+Quem vocês querem poupar? Um traidor? Robespierre fez um acordo com Clément Renard – o líder de uma conspiração realista que venho investigando há tempos! Eles querem restaurar a monarquia na França. Ainda assim querem salvá-lo, seus tolos?
+$DISC_INTR_005_B12_KONWENT_016_JUDGE_MANI
+Há muito venho investigando um complô entre aristocratas liderados por Clément Renard. Os traidores querem restaurar a monarquia na França. E, além disso, Robespierre está ajudando-os. Por isso, caros colegas, realmente não entendo por que vocês desejam lhe dar uma segunda chance!
+$DISC_INTR_005_B12_KONWENT_017_JUDGE_JOKE
+Claro, deem a ele mais uma chance – uma segunda, terceira, décima até! Enquanto isso, ele e Clément Renard vão levar adiante seu plano aristocrático! É verdade! Venho observando-o há algum tempo. Ele só quer restaurar a monarquia! Quem aqui acha que ele vai lhes dar uma chance quando isso acontecer?!
+$DISC_INTR_005_B12_KONWENT_018_JUDGE_HUMI
+A França pagou pela Revolução com o sangue de seus cidadãos. Agora Clément Renard lidera uma conspiração aristocrática, querendo restaurar a monarquia. E Robespierre está ao lado dele! Meus caros deputados, a França será novamente banhada em sangue se perdoarmos esse traidor.
+$DISC_INTR_005_B12_KONWENT_019_JUDGE_AGGR
+Enquanto nós fofocamos tranquilamente entre vinho e biscoitos, Hanriot está recrutando gente da Comuna disposta a defender a prefeitura e Robespierre! Quem sabe a gente se diverte com um jogo de dados enquanto estamos aqui?!
+$DISC_INTR_005_B12_KONWENT_020_JUDGE_MANI
+Hanriot está formando um exército que tomará Paris em nome de Robespierre. Ninguém será capaz de detê-lo. Se ele suspeitar que alguém escreveu uma vírgula que possa criticá-lo, essa pessoa morrerá. Tudo o que ele precisa fazer é estender a mão para o poder.
+$DISC_INTR_005_B12_KONWENT_021_JUDGE_JOKE
+Ouvi dizer que Hanriot está procurando membros da Comuna dispostos a se alistar em um exército capaz de defender Robespierre. Não posso negar que lhes sobra ímpeto e ousadia.
+$DISC_INTR_005_B12_KONWENT_022_JUDGE_HUMI
+Sinto pena dessas pobres pessoas que se deixam enganar pelas belas palavras de Hanriot. O comandante está formando um exército que marchará contra a Convenção. Essas almas miseráveis morrerão pelos crimes dele.
+$DISC_INTR_005_B12_KONWENT_023_JUDGE_AGGR
+Só um imbecil não perceberia que o exército começará atacando a Convenção. Eles precisam garantir suas preciosas posições!
+$DISC_INTR_005_B12_KONWENT_024_JUDGE_MANI
+Os deputados da Convenção só despertarão diante da lâmina da guilhotina. Só então perceberão o que já deveria ser óbvio: Hanriot e Robespierre os atacarão assim que reunirem gente suficiente.
+$DISC_INTR_005_B12_KONWENT_025_JUDGE_JOKE
+Talvez devêssemos deixar Robespierre marchar sobre a Convenção. Já que os deputados claramente não entendem a gravidade da situação, talvez devam compartilhar o destino dos outros tolos que encontrarão a guilhotina.
+$DISC_INTR_005_B12_KONWENT_026_JUDGE_HUMI
+Robespierre irá subjugá-los. Ele os encurralará com tolos furiosos armados de sabres e mosquetes, tolos que acham que compreendem tudo. A França e a Revolução morrerão junto com os deputados da Convenção.
+$DISC_INTR_005_B12_KONWENT_027_KONWENT_INTR
+O juiz está certo!
+$DISC_INTR_005_B12_KONWENT_028_KONWENT_DOUB
+Robespierre pode até ser um canalha, mas isso não é motivo suficiente para condená-lo à morte!
+$DISC_INTR_005_B12_KONWENT_029_KONWENT_IRRI
+Por favor, resolvam suas desavenças. Pretendemos sobreviver à Revolução!
+$DISC_INTR_005_B12_KONWENT_030_SUCCESS_JUDGE
+Quem vota pela prisão de Robespierre?!
+$DISC_INTR_005_B12_KONWENT_TOPIC_01
+Robespierre é um cão raivoso.
+$DISC_INTR_005_B12_KONWENT_TOPIC_02
+Ele se perdeu no próprio terror.
+$DISC_INTR_005_B12_KONWENT_TOPIC_03
+Robespierre se aliou aos aristocratas em uma conspiração.
+$DISC_INTR_005_B12_KONWENT_TOPIC_04
+Hanriot está reunindo um exército para ele.
+$DISC_INTR_005_B12_KONWENT_TOPIC_05
+A Convenção precisa conceder permissão — para o próprio bem.

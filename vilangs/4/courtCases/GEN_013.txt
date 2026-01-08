@@ -1,0 +1,244 @@
+$GEN_013_DOC_01_HEADER
+Zusammengestellt von: Maurice Gaspar
+$GEN_013_DOC_01_00
+Seit der Auflösung der weithin verhassten <a name="1" class="hidden">Ferme générale</a> ist einige Zeit vergangen. Diese Institution zahlte Abgaben an den früheren König und trieb dann – oft mit brutaler Härte – die Forderungen beim Volk ein, meist mit beträchtlichen Zinsen. Nun hat der Nationalkonvent die gerechte Entscheidung getroffen, alle ehemaligen fermier général, die Steuern von Bauern erhoben, vor Gericht zu stellen. Wir werden die Beweise gegen einen von ihnen vorlegen – Antoine Lavoisier.
+$GEN_013_DOC_01_01
+Der allererste Beweis seiner Schuld ist die bloße Tatsache, dass er sein Amt nur durch Vetternwirtschaft erlangte. Neben dem Eintreiben von Steuern bei hungernden Bauern war er auch in <a name="3" class="hidden">allerlei Geschäften</a> tätig, nicht immer ehrlichen. Mehrere Zeugen behaupteten, er habe regelmäßig feuchten Tabak zu Wucherpreisen verkauft. In Lavoisiers Unterlagen fanden wir keinen Hinweis auf diese <a name="4" class="hidden">Verfälschung</a>, doch auf den Straßen von Paris ist das ein viel diskutiertes Thema.
+$GEN_013_DOC_01_02
+Er verwendete Steuergelder, um sein privates Labor zu finanzieren, in dem er zahlreiche chemische Experimente durchführte. Viele Pariser Chemiker, die während der Untersuchung befragt wurden, nannten Lavoisier <a name="5" class="hidden">einen herausragenden Wissenschaftler</a>.
+$GEN_013_DOC_01_03
+Natürlich bedeutet dies allein noch keinen Verrat. Doch der Angeklagte stand in regem Austausch mit <a name="6" class="hidden">ausländischen Wissenschaftlern</a>. Wir haben festgestellt, dass er sie mit Geld unterstützte, das er französischen Bauern abgenommen hatte, und es ist gut möglich, dass er auch die Ergebnisse seiner <a name="7" class="hidden">Forschungen</a> weitergab. Warum behielt er all das nicht für das französische Volk?
+$GEN_013_DOC_02_00
+<a name="8" class="hidden">Bericht</a> über Tabak:
+$GEN_013_DOC_02_01
+Ich bitte Sie höflich, den Tabak an einem trockenen Ort aufzubewahren. Feuchter Tabak schreckt die Kundschaft ab, mindert die Qualität und senkt den Preis. Mit freundlichen Grüßen, Antoine Lavoisier
+$GEN_013_OnStart_00
+Ja! Zeig es diesen elenden Blutsaugern!
+$GEN_013_OnStart_01
+Solche Menschen müssen einfach enthauptet werden. Sie verkörpern alles, wogegen das einfache französische Volk sich erhoben hat.
+$GEN_013_OnStart_02
+Bitte stellen Sie sich vor.
+$GEN_013_OnStart_03
+Mein Name ist Antoine Lavoisier.
+$GEN_013_OnStart_04
+Was ist Ihr Beruf, Monsieur Lavoisier?
+$GEN_013_OnStart_05
+Ich habe bei der Steuereintreibung der Ferme générale geholfen und bin zudem Wissenschaftler. Erlauben Sie mir, ohne falsche Bescheidenheit hinzuzufügen, dass ich einige sehr bedeutende Entdeckungen gemacht habe.
+$GEN_013_OnStart_06
+Prahlen Sie nicht vor dem Gericht.
+$GEN_013_OnStart_07
+Na klar, erzähl uns doch, wie du Pastete auf unsere Kosten geschlemmt hast.
+$GEN_013_OnGuilty_00
+Ich verurteile Bürger Antoine Lavoisier zum Tod durch die Guillotine. Führt ihn ab.
+$GEN_013_OnGuilty_01
+Alle Feinde Frankreichs werden sein Schicksal teilen.
+$GEN_013_OnGuilty_02
+Hurra!
+$GEN_013_OnGuilty_03
+Schaffen wir diese Blutsauger weg!
+$GEN_013_OnGuilty_04
+Heilen wir Frankreich!
+$GEN_013_OnPrison_00
+Für seine Verbrechen wird Antoine Lavoisier zu einer Gefängnisstrafe verurteilt. Führt den Verurteilten ab.
+$GEN_013_OnPrison_01
+Dieses Urteil ist viel zu milde für einen so erbitterten Feind der Republik.
+$GEN_013_OnPrison_02
+Nur Gefängnis? Für einen Verräter wie ihn?
+$GEN_013_OnPrison_03
+Unfassbar!
+$GEN_013_OnPrison_04
+Was soll das für eine Strafe sein?!
+$GEN_013_OnNotGuilty_00
+Hiermit erkläre ich den Angeklagten für unschuldig. Führt Monsieur Lavoisier hinaus.
+$GEN_013_OnNotGuilty_01
+Der Richter ist verrückt geworden!
+$GEN_013_OnNotGuilty_02
+Gerechtigkeit wird ohnehin siegen!
+$GEN_013_OnNotGuilty_03
+Sie haben gerade Tausenden von Bauern ins Gesicht gespuckt.
+$GEN_013_01x03_00_QTitle
+Abgesehen von Ihrer Stellung bei der Ferme générale und Ihren wissenschaftlichen Arbeiten …
+$GEN_013_01x03_00_00
+Abgesehen von Ihrer Stellung bei der Ferme générale und Ihren wissenschaftlichen Arbeiten, gehen Sie noch anderen Tätigkeiten nach?
+$GEN_013_01x03_00_01
+Außerdem bin ich Mitglied der Pulverkommission, und vor Beginn der Revolution wurde mir die Leitung des Verwaltungsrats der Caisse d’escompte übertragen.
+$GEN_013_01x03_00_02
+Finden Sie nicht, dass das für eine einzelne Person etwas viel ist?
+$GEN_013_01x03_00_03
+Gieriger Betrüger!
+$GEN_013_01x03_00_04
+Die Menschen, die mir diese Ämter anvertraut haben, haben sich nie über die Qualität meiner Arbeit beklagt.
+$GEN_013_01x03_00_05
+Es muss wohl Zufall sein, dass die meisten dieser Leute bereits im Gefängnis sitzen oder unter der Guillotine gelandet sind.
+$GEN_013_01x03_00_06
+Endlich kümmert sich jemand um diese Diebe!
+$GEN_013_01x02_01_QTitle
+Wie sind Sie zum Fermier général geworden? Es kursieren so viele Gerüchte darüber …
+$GEN_013_01x02_01_00
+Wie sind Sie zum Fermier général geworden? Es gibt so viele Gerüchte darüber …
+$GEN_013_01x02_01_01
+Ich habe das Amt von meinem Schwiegervater geerbt.
+$GEN_013_01x02_01_02
+Verdammter Nepotist!
+$GEN_013_01x02_01_03
+Warum haben Sie zugestimmt, es anzunehmen?
+$GEN_013_01x02_01_04
+Dem König von Frankreich und dem ganzen Staat zu dienen – das war für mich eine große Ehre. Und, um ehrlich zu sein, hat mir diese Arbeit auch Freude bereitet.
+$GEN_013_01x02_01_05
+Natürlich, wer genießt es nicht, im Reichtum zu schwelgen!
+$GEN_013_01x02_01_06
+Ich glaube, du hast nur geheiratet, weil du die Stelle deines Schwiegervaters wolltest.
+$GEN_013_01x02_01_07
+Was für eine absurde Unterstellung!
+$GEN_013_01x02_01_08
+Die Wahrheit ist, dass Sie dank der Heirat deutlich mehr verdienen als ein gewöhnlicher Mensch.
+$GEN_013_01x02_01_09
+Eine reiche Frau zu heiraten ist kein Verbrechen.
+$GEN_013_01x02_01_10
+Wie alt war Ihre Frau, als Sie geheiratet haben?
+$GEN_013_01x02_01_11
+Dreizehn. Ich verstehe nicht, was das Alter meiner Frau mit diesem Fall zu tun hat.
+$GEN_013_04x08_02_QTitle
+Ihnen werden zahlreiche Betrügereien und Machenschaften vorgeworfen. Eine davon ist der Verkauf von feuchtem Tabak.
+$GEN_013_04x08_02_00
+Ihnen werden zahlreiche Betrügereien und Machenschaften vorgeworfen. Eine davon ist der Verkauf von feuchtem Tabak.
+$GEN_013_04x08_02_01
+Absurd! Ich habe meine Lieferanten persönlich angewiesen, dafür zu sorgen, dass der Tabak trocken bleibt. Durchsuchen Sie meine Unterlagen, Sie werden die Berichte finden.
+$GEN_013_04x08_02_02
+Sie hätten diese Berichte unter andere Unterlagen mischen können, um uns zu täuschen.
+$GEN_013_04x08_02_03
+Solche wie er sind geborene Lügner!
+$GEN_013_04x08_02_04
+Ich habe stets vorbildliche Unterlagen geführt und niemals gegen mein Gewissen gehandelt.
+$GEN_013_04x08_02_05
+Das Gewissen eines Steuereintreibers… Ich nehme an, es hat Sie nicht daran gehindert, den hungernden Bauern das Geld abzunehmen?
+$GEN_013_04x08_02_06
+Ich habe stets im Einklang mit dem französischen Steuerrecht gehandelt.
+$GEN_013_04x08_02_07
+Dieses Gesetz war entsetzlich!
+$GEN_013_06x04_03_QTitle
+Sprechen wir über das Geld, das Sie aus der Staatskasse gestohlen haben.
+$GEN_013_06x04_03_00
+Sprechen wir über das Geld, das Sie aus der Staatskasse gestohlen haben.
+$GEN_013_06x04_03_01
+Gestohlenes Geld? Worauf stützt sich dieser Vorwurf?
+$GEN_013_06x04_03_02
+Das Geld, das Sie Frankreich gestohlen haben, wurde zur Unterstützung ausländischer Wissenschaftler verwendet. Warum? Wir wissen es nicht…
+$GEN_013_06x04_03_03
+Aber wir vermuten, dass es etwas mit dem Krieg zu tun hatte.
+$GEN_013_06x04_03_04
+Ja, ich habe ausländische Forschungen finanziert, aber ausschließlich mit meinem eigenen Geld – und sie hatten nichts mit dem Krieg zu tun!
+$GEN_013_06x04_03_05
+Sie haben gegen die Interessen des Staates gehandelt. Das ist Hochverrat. Wissen Sie, was wir mit Verrätern tun?
+$GEN_013_06x04_03_06
+Erlauben Sie mir anzumerken, dass es nur einen Augenblick braucht, um diesen Kopf abzuschlagen, doch hundert Jahre könnten nicht genügen, um seinesgleichen wieder hervorzubringen.
+$GEN_013_06x04_03_07
+Die Republik braucht keine Wissenschaftler!
+$GEN_013_05x07_04_QTitle
+Haben Sie den Betrieb Ihres Labors mit Steuergeldern aufrechterhalten?
+$GEN_013_05x07_04_00
+Haben Sie den Betrieb Ihres Labors mit Steuergeldern aufrechterhalten?
+$GEN_013_05x07_04_01
+Ja, Monsieur Richter.
+$GEN_013_05x07_04_02
+Was genau haben Sie herausgefunden? Irgendetwas Nützliches?
+$GEN_013_05x07_04_03
+Unter anderem erklärte ich das Phänomen der Verbrennung, widerlegte die Phlogistontheorie, konstruierte das Kalorimeter…
+$GEN_013_05x07_04_04
+Wovon redet er?
+$GEN_013_05x07_04_05
+Nützen diese Entdeckungen dem einfachen Bürger?
+$GEN_013_05x07_04_06
+Die Wissenschaft hilft den Menschen nicht immer sofort, doch eines Tages werden diese Entdeckungen…
+$GEN_013_05x07_04_07
+Habt ihr das gehört? Die Wissenschaft hilft den Menschen nicht!
+$GEN_013_05x07_04_08
+Wie viel Geld wurde für Ihre Forschung ausgegeben?
+$GEN_013_05x07_04_09
+Ich habe es nie gezählt. Seit Jahren widme ich mich meinen Entdeckungen.
+$GEN_013_05x07_04_10
+Er hat es nicht abgemessen, weil wir bezahlt haben.
+$GEN_013_05x03_05_QTitle
+Warum haben Sie sich nicht ausschließlich der Wissenschaft gewidmet?
+$GEN_013_05x03_05_00
+Warum haben Sie sich nicht ausschließlich der Wissenschaft gewidmet?
+$GEN_013_05x03_05_01
+Ich hatte genug Zeit, mich auch anderen Dingen zu widmen.
+$GEN_013_05x03_05_02
+Wenn Sie sich auf ein Gebiet konzentrieren würden, könnten Sie doch effizienter sein, finden Sie nicht?
+$GEN_013_05x03_05_03
+Ich danke Ihnen für Ihre Sorge, aber mein Tagesablauf geht nur mich etwas an.
+$GEN_013_05x03_05_04
+Nein, das ist es nicht. Als Staatsbeamter sollten Sie all Ihre Zeit und Kraft dem Dienst am Staat widmen. Doch das haben Sie nicht getan.
+$GEN_013_05x03_05_05
+Was wird dieser Blutsauger jetzt dazu sagen?
+$GEN_013_05x03_05_06
+Normale Menschen müssen sich auf eine Aufgabe konzentrieren. Für mich reicht das nicht. Ich würde vor Langeweile sterben.
+$GEN_013_05x06_06_QTitle
+Erzählen Sie uns mehr über die ausländischen Wissenschaftler, die Sie um Hilfe und finanzielle Unterstützung gebeten haben. Wer waren sie?
+$GEN_013_05x06_06_00
+Erzählen Sie uns mehr über die ausländischen Wissenschaftler, die Sie um Hilfe und finanzielle Unterstützung gebeten haben. Wer waren sie?
+$GEN_013_05x06_06_01
+Einige von ihnen waren italienische Chemiker, große wissenschaftliche Köpfe, doch beim Geldbeschaffen weniger begabt. Bartolomeo Beccaria, Diego Petrarca, Daniele Marconi…
+$GEN_013_05x06_06_02
+Sie haben die Italiener unterstützt, obwohl sie schon so oft gegen Frankreich Krieg geführt haben?
+$GEN_013_05x06_06_03
+Ganz genau!
+$GEN_013_05x06_06_04
+Wir haben mit jedem einzelnen unserer Nachbarn Krieg geführt. Was hat das mit Wissenschaft zu tun?
+$GEN_013_05x06_06_05
+Waren es nicht Wissenschaftler wie Sie, die die Schusswaffe erschufen – ein Objekt, das die Kriegskunst grundlegend veränderte?
+$GEN_013_05x06_06_06
+Meine Arbeit hatte nichts mit Waffen zu tun.
+$GEN_013_05x06_06_07
+Können wir Ihnen glauben?
+$GEN_013_KEY_01
+Generalpächter
+$GEN_013_KEY_02
+Den Posten erhalten
+$GEN_013_KEY_03
+Verschiedene Geschäfte
+$GEN_013_KEY_04
+Betrug
+$GEN_013_KEY_05
+Brillanter Wissenschaftler
+$GEN_013_KEY_06
+Ausländische Wissenschaftler
+$GEN_013_KEY_07
+Wissenschaftliche Forschung
+$GEN_013_KEY_08
+Bericht
+$GEN_013_LastDialog_00
+Das ergibt überhaupt keinen Sinn. Wenn Sie mich töten, behindern Sie den wissenschaftlichen Fortschritt!
+$GEN_013_UNIQUE_QUESTION_00
+Welche Art von Forschung betrieb der Angeklagte?
+$GEN_013_UNIQUE_ANSWER_CORRECT_00_00
+Er erforschte das Phänomen der Verbrennung.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Er arbeitete an einer fortschrittlichen Schusswaffe.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Er versuchte, Blei in Gold zu verwandeln.
+$GEN_013_UNIQUE_QUESTION_01
+Wie erklärte der Angeklagte seine Tätigkeit als Steuereintreiber?
+$GEN_013_UNIQUE_ANSWER_CORRECT_01_00
+Er berief sich auf das französische Recht.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Er zitierte die Bibel.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Früher tat er es für seine Familie.
+$GEN_013_UNIQUE_QUESTION_02
+Hat der Angeklagte Geld an ausländische Wissenschaftler geschickt?
+$GEN_013_UNIQUE_ANSWER_CORRECT_02_00
+Hat er, aber es war sein privates Geld.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Er hat das Geld der Steuerzahler geschickt.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Lavoisier hat kein Geld geschickt.
+$GEN_013_UNIQUE_QUESTION_03
+Was hat der Angeklagte verkauft?
+$GEN_013_UNIQUE_ANSWER_CORRECT_03_00
+Feuchter Tabak.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Saurer Wein.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Schimmeliges Brot.

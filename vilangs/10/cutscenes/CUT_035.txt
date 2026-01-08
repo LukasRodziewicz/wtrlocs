@@ -1,0 +1,38 @@
+$CUT_035_BROTHER_001
+Yardıma gelen o genç askeri tanıyor musunuz?
+$CUT_035_BROTHER_002
+Adı Napoleon Bonaparte.
+$CUT_035_JUDGE_003
+Onu tanımıyorum. Ama bu önemli değil. Ben kazandım. Paris bizim elimizde kalıyor.
+$CUT_035_BROTHER_004
+Kazandın mı? Şehri ele geçirmek hiç planımda yoktu.
+$CUT_035_JUDGE_005
+Anlamıyorum.
+$CUT_035_BROTHER_006
+Seni az önce yeni diktatörünle tanıştırdım.
+$CUT_035_BROTHER_007
+Kazandım.
+$CUT_035_BROTHER_008
+Halk, Napolyon’u kucak açarak karşılayacak.
+$CUT_035_BROTHER_009
+“Yeni” olanlar gelecek, sizi unutacak ve yüz yıl sonra ülkeyi yeniden kana boğacaklar.
+$CUT_035_BROTHER_010
+Tam da şu anda, “yeni” olan kişi yenilmez ordusunun başında şehre giriyor.
+$CUT_035_BROTHER_011
+Kazandım.
+$CUT_035_JUDGE_012
+Hayır, ben yaşadıkça asla.
+$CUT_035_BROTHER_013
+Üzerimde bir tabanca var.
+$CUT_035_JUDGE_014
+Neden Tanrı'nın hangimizi seçtiğini — Kabil mi, Habil mi — birlikte öğrenmiyoruz?
+$CUT_035_BROTHER_015
+Kazanan, kaybedeni öldürecek mi?
+$CUT_035_JUDGE_016
+Onu kafasından vurmak.
+$CUT_035_ROLL_01
+Devrimin sizi özgür kılacağını sandınız, ama bu sadece bir hayaldi.
+$CUT_035_ROLL_03
+Hepiniz bu romantik isyana inandınız. Söyleyin, şu anda yaptıklarımızdan devrim neyle farklıydı?
+$CUT_035_ROLL_05
+O, ölümüne bir mücadeleye, tek para birimi şans olan kaotik bir oyuna dönüşmedi mi?

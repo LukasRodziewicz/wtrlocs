@@ -1,0 +1,29 @@
+$CUT_036_JUDGE_WON_BROTHER_001
+Suçumuzun izlerini sabah yağmuru silecek.
+$CUT_036_JUDGE_WON_BROTHER_002
+Biz orada olmayacağız, çünkü yine kardeş kardeşi öldürecek.
+$CUT_036_JUDGE_WON_BROTHER_003
+Böyle bir dünyada kim kahraman olmak ister ki?
+$CUT_036_JUDGE_WON_004
+<GÜM>
+$CUT_036_JUDGE_LOST_BROTHER_001
+Ölüm vakti geldi, kardeşim.
+$CUT_036_JUDGE_LOST_BROTHER_002
+Yarın, sabah yağmuru suçlarımızın izlerini sildiğinde, insanlar birbirlerini öldürmeye devam edecek, 
+bunu yeni bir devrimle açıklayacaklar.
+$CUT_036_JUDGE_LOST_003
+<GÜM>
+$CUT_036_CROWD_001
+Kazanan!
+$CUT_036_CROWD_002
+Napolyon bizi kurtardı!
+$CUT_036_CROWD_003
+Kahraman!
+$CUT_036_JUDGE_004
+Kahraman…
+$CUT_036_BOY_005
+Kahraman.
+$CUT_036_PUPPETEER_006
+Kim kazandı?
+$CUT_036_PUPPETEER_007
+Sıradaki kim olacak?

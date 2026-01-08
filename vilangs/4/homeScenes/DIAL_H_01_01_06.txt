@@ -1,0 +1,30 @@
+$DIAL_H_01_01_06_001_GRANDFATHER
+Wir haben einen guten Gewinn gemacht. Es gab eine Chance auf Wohlstand …
+$DIAL_H_01_01_06_002_ELDERSON
+Warum wollte die Familie Renard deinen Laden übernehmen, Großvater?
+$DIAL_H_01_01_06_003_GRANDFATHER
+Es geht um Gewinn und Macht. Es ist immer dasselbe, und auch in diesen Zeiten hat sich daran nichts geändert.
+$DIAL_H_01_01_06_004_ELDERSON
+Heute geht es um Gleichheit, damit nicht nur die Aristokraten in Würde leben können.
+$DIAL_H_01_01_06_005_GRANDFATHER
+Werd erwachsen, Junge. Die Wahrheit erkannte ich erst, als sie meinen Sohn, deinen Onkel, zum Tode verurteilen wollten. Da wurde mir schlagartig klar, dass nur zwei Dinge zählten: die Macht, die ich nie besaß, und die Beziehungen, die mir nie wichtig waren.
+$DIAL_H_01_01_06_006_JUDGE
+Du wolltest rechtschaffen bleiben, während das Unrecht sich wie eine Seuche ausbreitete. Das brauchst du nicht zu bereuen.
+$DIAL_H_01_01_06_007_GRANDFATHER
+Ich bereue es nicht. Aber ich wünschte, dein Bruder würde noch leben, damit ich noch zwei Söhne hätte.
+$DIAL_H_01_01_06_008_YOUNGERSON
+Hast du einen Bruder, Papa? Wo ist er?
+$DIAL_H_01_01_06_009_JUDGE
+Er starb schon vor langer Zeit, noch bevor du geboren wurdest.
+$DIAL_H_01_01_06_010_YOUNGERSON
+Warum ist er gestorben?
+$DIAL_H_01_01_06_011_JUDGE
+Rede nicht so viel beim Essen.
+$DIAL_H_01_01_06_012_GRANDFATHER
+Dein Onkel zog in den Krieg und fiel auf dem Schlachtfeld. Eure Generation wird bald erkennen, wie tief die Wunden sind, die wir dieser Welt zugefügt haben. Früher mussten anständige Menschen wie Pochard sich nie um Gerichte oder Tribunale sorgen, doch jetzt…
+$DIAL_H_01_01_06_013_JUDGE
+Hast du überhaupt jemals in Erwägung gezogen, dass Pochard schuldig gewesen sein könnte?
+$DIAL_H_01_01_06_014_YOUNGERSON
+Nein! Nicht Monsieur Pochard!
+$DIAL_H_01_01_06_015_GRANDFATHER
+Er war nicht schuldiger als wir alle… Sohn, behalte die Renards im Auge.

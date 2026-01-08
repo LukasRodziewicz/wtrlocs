@@ -1,0 +1,420 @@
+#Judge
+알렉시 피델
+#Judge_Shortcut
+피델
+#Mentor
+레몽 드부아예
+#Mentor_standing
+레몽 드보예
+#Audience
+관중
+#Jury
+배심원
+#Prosecutor
+앙투안 탱빌
+#Guardsman
+근위병
+#SpeechAudience
+군중
+#TCUT_034_Audience
+파리의 남성들
+#TCUT_054_Konwent
+국민공회
+#Official
+공무원
+$Official_Court_Standing
+관료
+#MathildeFidele
+마틸드 피델
+#FredericFidele
+프레데릭 피델
+#BernardFidele
+베르나르 피델
+#AldricFidele
+알드릭 피델
+#BrunoFidele
+브루노 피델
+#Jacques-LouisDavid
+자크루이 다비드
+#Jacques-LouisDavid_Shortcut
+다비드
+#RaphaelClovis
+라파엘 클로비스
+#GregoryRamel
+그레고리 라멜
+#AliceBoutin
+앨리스 부탱
+#MaximiliandeRobespierre
+막시밀리앙 로베스피에르
+#MaximiliendeRobespierre_Shortcut
+로베스피에르
+#ClementRenard
+클레망 르나르
+#ClementRenard_Shortcut
+르나르
+#Jean-PaulMarat
+장폴 마라
+#Jean-PaulMarat_Shortcut
+마라
+#Jean-BaptisteGobel
+장바티스트 고벨
+#Jean-BaptisteGobel_Shortcut
+고벨
+#Jacques-ReneHebert
+자크-르네 에베르
+#Jacques-ReneHebert_Shortcut
+에베르
+#GermainedeStael
+제르멘 드 스탈
+#GermainedeStael_Shortcut
+드 스탈
+#Jean-NicolasPache
+장니콜라 파슈
+#Jean-NicolasPache_Shortcut
+파슈
+#Jean-MarieRoland
+장 마리 롤랑
+#Jean-MarieRoland_Shortcut
+롤랑
+#GraceElliott
+그레이스 엘리엇
+#GraceElliott_Shortcut
+엘리엇
+#FrancoisHanriot
+프랑수아 아느리오
+#FrancoisHanriot_Shortcut
+앙리오
+#MathieuBurel
+마티외 뷰렐
+#MathieuBurel_Shortcut
+뷔렐
+#LaurentPascal
+로랑 파스칼
+#GenevieveLussier
+제네비에브 뤼시에
+#LucBlanchot
+뤼시앵 블랑쇼
+#EtienneLebeau
+에티엔 르보
+#ClaudeGarnier
+클로드 가르니에
+#ValerieMoreau
+발레리 모로
+#BrunoHugo
+브루노 위고
+#JeanRenard
+장 르나르
+#Thomas_de_Mahy
+토마 드 마이
+#AntoineBarnave
+앙투안 바르나브
+#OlivierMugler
+올리비에 뮈글레
+#ClaudePochard
+클로드 포샤르
+#LudwikCapet
+루이 카페
+#MauriceLortie
+모리스 로르티
+#AnnadeKorff
+안느 드 코르프
+#Jeanne-MarieRoland
+잔 마리 롤랑
+#AntoineLavoisier
+앙투안 라부아지에
+#MarkizdeFavras
+토마 드 마이
+#MariaAntonina
+오스트리아의 마리 앙투아네트
+#PatriceLeconte
+파트리스 르콩트
+#MichalTrandowski
+미하우 트란도프스키
+#EdmondMalle
+에드몽 말
+#Marie-LaureThebault
+마리-로르 테보
+#RaphaelGallois
+라파엘 갈루아
+#BonifaceDutoit
+보니파스 뒤투아
+#HenryPires
+앙리 마랑빌
+#MariePache
+마리-실비 파슈
+#MariaGimet
+마리 지메
+#BlaiseFossett
+블레즈 포셋
+#RolandLussier
+롤랑 뤼시에
+#GaetanCalvet
+가에탕 칼베
+#LudwikdeBourbon
+루이 드 부르봉
+#JacquesRoux
+자크 루
+#ClaudeFauchet
+클로드 포셰
+#RaymondDevoye
+레몽 드보예
+#AlfredRenoir
+알프레드 르누아르
+#JeanIbert
+장 이베르
+#EmmaDanet
+에메 다네
+#MaximeBerot
+막심 베로
+#ArturPetiot
+아르튀르 보네
+#DidierDevaux
+디디에 드보
+#GuyDeniau
+기 드니오
+#FrancoisChabot
+프랑수아 샤보
+#JeanFrancoiseVary
+장 프랑수아 베리
+#SebastianThil
+세바스티앵 틸
+#HugoTrottier
+위고 트로티에
+#AlainBras
+알랭 브라
+#HubertBacque
+위베르 바케
+#NicolasPhilippon
+니콜라 필리퐁
+#HelenGignac
+엘렌 지냑
+#IsaacMedelsheim
+아이작 메델스하임
+#CamillePapin
+카미유 파팽
+#DenisDecoin
+드니 드쿠앵
+#GastondeToucy
+가스통 드 투시
+#PiotrMazeaud
+르네 마조
+#MarcelBloch
+마르셀 블로크
+#FabriceCerdan
+파브리스 세르단
+#IsabelledelaMontagne
+이자벨 드 라 몽타뉴
+#LucienBeaubois
+뤼시앵 보부아
+#BastienBaudet
+바스티앵 보데
+#VictorDevalle
+빅토르 드발
+#ClaudineSessier
+클로딘 세시에
+#RaoulBattier
+라울 바티에
+#MichelGaubert
+미셸 고베
+#MarcusPinnet
+마르쿠스 피네
+#VincentBoulle
+뱅상 불
+#LucasAdnet
+뤼카 아드네
+#GaetanThibodeaux
+가에탕 티보도
+#PercivallHill
+퍼시벌 힐
+#GabrielRouzet
+가브리엘 루제
+#GeorgesDanton
+조르주 당통
+#GeorgesDanton_Shortcut
+당통
+#CharlotteCorday
+샤를로트 코르데
+#GerardBoutin
+제라르 부탱
+#JeanCourbis
+장 쿠르비스
+#CharlesLeVau
+샤를 르보
+#BeatriceCaron
+베아트리스 카롱
+#WicehrabiaDeBeauharnais
+보르네의 비콩트
+#JanRude
+장 뤼드
+#ThomasLeclear
+토마 르클레르
+#JeanDouret
+장 두레
+#AnnaMichel
+안느 미셸
+#PhillipeCotey
+필리프 코테
+#IsabelleDugard
+이자벨 뒤가르
+#ColinBoufue
+콜랭 부푀
+#KarolLudwik
+루이-샤를
+#Boulle
+부울 부인
+#CristobalRemy
+크리스토발 레미
+#ValerieRabiot
+발레리 라비오
+#CeciledeJarre
+세실 드 자르
+#JulesMarot
+쥘 마로
+#JeanMace
+장 마세
+#Gaumont
+고몽
+#LouisDelon
+루이 들롱
+#Beaurepaire
+보레페르 부인
+#AntoineTellier
+앙투안 텔리에
+#Montilier
+몽티리에 박사
+#ArtoudLemout
+아르노 르무
+#GeorgineMaillard
+조르진 마이야르
+#EsteraMedelsheim
+에스테르 메델스하임
+#MariaDeraismes
+마리아 드레임
+#PhilippeLeBas
+필리프 르 바스
+#RaymondHoullier
+레몽 울리에
+#OlivierFouty
+올리비에 푸트
+#SzymonRoux
+시몽 루
+#PaulIdrac
+폴 이드라크
+#LambertCazale
+람베르 카잘
+#AnnaRenan
+안나 르낭
+#Bacque
+바끄 양
+#Sole
+솔레
+#KapitanBerryer
+베리에르 대위
+#SylviePapon
+실비 마르탱
+#GuarinSouliere
+게랭 술리에르
+#JLDavid_Standing
+자크루이 다비드
+#JLDavid
+자크루이 다비드
+#Wife
+마틸드 피델
+#WifeM
+마틸드 피델
+#Hanriot
+프랑수아 아느리오
+#Ramel
+그레고리 라멜
+#Danton
+조르주 당통
+#JudgeCUT
+알렉시 피델
+#Pache
+장니콜라 파슈
+#Elder Son
+베르나르 피델
+#Grandfather
+알드릭 피델
+#Marionetkarz
+인형술사
+#Solider
+병사
+#Thug
+깡패
+#Judge_CUT
+알렉시 피델
+#JUDGE_SPEECH
+알렉시 피델
+#Renard
+클레망 르나르
+#Gobel
+장바티스트 고벨
+#ElderSonHandLess
+베르나르 피델
+#Younger Son
+프레데리크 피델
+#H_Official
+관료
+#PhilipCotey
+필리프 코테
+#Desteal
+제르멘 드 스탈
+#Boutin
+제라르 부탱
+#Tinville
+앙투안 틴빌
+#Hebert
+자크-르네 에베르
+#Marat
+장폴 마라
+#Elliott
+그레이스 엘리엇
+#Cotey
+필리프 코테
+#Beatrice
+베아트리스 카롱
+#Roland_Standing
+장 마리 롤랑
+#Plessis
+플레시 선장
+#PlessisSupport
+플레시 선장
+#Ruttmann
+루트만
+#ClaudinePlouffe
+클로딘 플루프
+#FabriceCerdanSupport
+파브리스 세르단
+#JeanCourbis_Wittness
+장 쿠르비스
+#GuyDeniau_Support
+기 드니오
+#Driver
+마차 마부
+#Thomas-AlexandreDumas
+토마 알렉상드르 뒤마
+#Audience2
+군중
+#AUDIENCE_SPEECH_1
+군중
+#AUDIENCE_SPEECH_2
+군중
+#AUDIENCE_SPEECH_3
+군중
+#Patrol
+순찰
+#Crowd
+군중
+#Man
+남자
+#Men_01
+남자
+#Konwent
+국민공회
+#Boy
+소년
+#Child
+아이
+#Mother
+어머니

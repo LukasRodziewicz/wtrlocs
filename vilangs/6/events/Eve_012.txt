@@ -1,0 +1,22 @@
+$EVE_012_TITLE
+Último recurso
+$EVE_012_MAIN_01
+Ves a una mujer de aproximadamente la misma edad que tu esposa frente al tribunal. Te aborda en cuanto te ve, y durante los siguientes minutos escuchas una historia sobre un marido que vende las reliquias familiares y se bebe hasta el último franco. Por supuesto, sus hijos también pasan hambre. Nada te sorprende hasta que la mujer termina su relato… pidiéndote que envíes a su esposo a prisión. Promete declarar lo que sea necesario, con tal de que acabe entre rejas.
+$EVE_012_MAIN_01_C1
+Amenazar al borracho con la cárcel
+$EVE_012_MAIN_01_C2
+Arresta al hombre y mantenlo en prisión durante un tiempo
+$EVE_012_MAIN_01_C3
+Ignorarla
+$EVE_012_MAIN_02A
+Cuesta decir qué asustó más al hombre: si la visión de la Guardia armada o su esposa recitando su letanía de sufrimientos. No causará problemas por un tiempo, y si vuelve a buscar la botella, tendrá que estar listo para recibir una paliza de tus matones…
+$EVE_012_MAIN_02B
+La complexión del guardia y tus sólidos argumentos deberían haber bastado, pero la mente del borracho estaba tan nublada que no entendió nada. La mayor parte del tiempo creyó que el guardia era un viejo compañero de copas, e incluso le exigió que le pagara unas deudas antiguas. Menos mal que no ordenaste golpear al pobre hombre; no habría servido de nada.
+$EVE_012_MAIN_02B_C1
+Ignorar toda la situación
+$EVE_012_MAIN_02B_C2
+Arresta al hombre y mantenlo en prisión un tiempo.
+$EVE_012_MAIN_02C
+El borracho no opuso resistencia al arresto. Estaba tan ebrio que probablemente ni siquiera se dio cuenta de quién lo llevaba ni adónde. A mitad de camino a la comisaría, vomitó sobre los pantalones del guardia, lo que le valió unas cuantas patadas. Mañana, seguramente se preguntará por qué le duele tanto la espalda y si estuvo en alguna pelea. Un tiempo en prisión, lejos del alcohol, debería ayudarle a reflexionar sobre algunas cosas. Mientras tanto, su familia tendrá un respiro y su esposa podrá ocuparse de los asuntos del hogar.
+$EVE_012_MAIN_02D
+Te mira directamente a los ojos, como buscando una explicación para tu indiferencia. Al marcharte, oyes sollozos apagados a tus espaldas.

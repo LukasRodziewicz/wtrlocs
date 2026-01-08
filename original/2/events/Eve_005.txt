@@ -1,0 +1,22 @@
+$EVE_005_TITLE
+Délicieux quadrupèdes
+$EVE_005_MAIN_01
+Les rues se vident tandis que le soleil se couche. Vous marchez sur le trottoir encore chaud, songeant au délicieux dîner préparé par votre femme. Vous êtes si détendu que vous ne remarquez pas une femme qui tourne le coin en courant. Elle vous rentre dedans avec une telle force que vous tombez tous les deux par terre et elle laisse s'échapper un sac, libérant plusieurs chats. Elle se relève d'un bond et essaie de les rattraper, mais deux réussissent à s'enfuir. « Ils se sont échappés, crie-t-elle, incapable de décider lequel poursuivre en premier. Pas d'argent… et pas de pâté, ajoute-t-elle. » Soudain, vous comprenez exactement ce qu'il se passe devant vous…
+$EVE_005_MAIN_01_C1
+Arrêter la femme.
+$EVE_005_MAIN_01_C2
+Laisser la femme tranquille.
+$EVE_005_MAIN_02A
+Vous l'attrapez par le bras et la traînez jusqu'aux gardes les plus proches. La femme vous regarde et essaie discrètement de vous convaincre que du pâté vaut bien quelques chats. Les gardes sont évidemment surpris quand vous leur remettez le sac. « Je les ai pas attrapés pour moi, déclare la femme terrifiée au bout d'un certain temps. Ils sont pour le fils du boucher. C'est un spécialiste. » Tandis que les gardes l'emmènent, vous réfléchissez à ce qu'elle a dit. Le fils du boucher. Qu'allez-vous faire d'un tel « spécialiste » de la grande cuisine ?
+$EVE_005_MAIN_02A_C1
+Arrêter le fils du boucher.
+$EVE_005_MAIN_02A_C2
+Dénoncer le fils du boucher.
+$EVE_005_MAIN_02B
+La femme s'en va en serrant son sac. Elle regarde régulièrement autour d'elle, cherchant une proie bien dodue. Vous avez des choses plus importantes à faire que d'observer comment on attrape la matière première pour faire du pâté…
+$EVE_005_MAIN_03A
+C'est écœurant ! Le traiteur a fait manger de la viande de chat aux honnêtes gens !
+$EVE_005_MAIN_03B
+Les Parisiens n'ont pas aimé découvrir la vérité. Le rusé traiteur avait plus de clients qu'il n'y paraissait, et ils ont tous été furieux. Si furieux, en fait, qu'ils ne l'ont pas laissé s'en tirer. Un coup violent a mis fin à ses expériences culinaires. Il sera impossible de savoir qui a porté la trempe fatale.
+$EVE_005_MAIN_03C
+On trouve toujours de délicieux pâtés sur la table de nombreux Parisiens. C'est bien naturel, c'est un plat excellent.

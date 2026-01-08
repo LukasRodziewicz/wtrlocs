@@ -1,0 +1,30 @@
+$DIAL_H_01_02_18_001_JUDGE
+Kardeşim Bruno ile ne zaman tanıştınız?
+$DIAL_H_01_02_18_002_SPY
+Aynı tugayda görev yaptık, ona hayatımı borçluyum. Yaralandığımda beni savaş alanından sürükleyerek kurtardı, kendisi ise o kadar şanslı değildi.
+$DIAL_H_01_02_18_003_WIFE
+O adama zaten hem düşüncelerimizde hem de sohbetlerimizde fazlasıyla vakit ayırdık.
+$DIAL_H_01_02_18_004_JUDGE
+Bilmek istiyorum…
+$DIAL_H_01_02_18_005_GRANDFATHER
+Ben de öyle.
+$DIAL_H_01_02_18_006_SPY
+Onu bir yorgun mermi öldürdü. Hayatımı kurtardığı için ona teşekkür etme fırsatım bile olmadı. Size temin ederim, biz dosttuk.
+$DIAL_H_01_02_18_007_SPY
+Kardeşiniz beni ölülerin arasından çekip savaş alanından uzağa sürükledi. Ağaçlara vardığımız anda, bir kurşun sırtına isabet etti.
+$DIAL_H_01_02_18_008_SPY
+Neredeyse anında öldü ve ben... firar ettim. Size, onun kanına, teşekkür etmem gerektiğini düşündüm ve bu borcu davranışlarımla ödemeye çalıştım.
+$DIAL_H_01_02_18_009_JUDGE
+Demek ki Bruno günahlarının bedelini ödedi.
+$DIAL_H_01_02_18_010_GRANDFATHER
+Oğlum...
+$DIAL_H_01_02_18_011_SPY
+Sık sık şöyle derdi: “Alexis, kardeşim, benim için önemli olan tek kişi o.” Demek ki sizin onun için büyük bir önemi vardı.
+$DIAL_H_01_02_18_BATTLEROUND_1
+Artçımız düşmanla çarpıştı ve yenildi. Ardından, yaralarımız sarılırken bulunduğumuz kampa girdiler. Silaha sarılmak zorunda kaldık.
+$DIAL_H_01_02_18_BATTLEROUND_2
+Kardeşiniz deli gibi savaştı, insanlar etrafında toplandı.
+$DIAL_H_01_02_18_BATTLEROUND_3
+Birilerinin yardıma koştuğunu umuyorduk, ama içten içe biliyorduk ki, yetişmeleri için artık çok geçti…
+$DIAL_H_01_02_18_BATTLEROUND_4
+Biri beni süngüyle deldi. Kan kaybederken yerde yatıyordum, arkadaşlarım ise kurşunların altında birer birer düşüyordu.

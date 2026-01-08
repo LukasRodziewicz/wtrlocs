@@ -1,0 +1,305 @@
+$GEN_031_DOC_1_HEADER
+Compilé par : Nathan d'Essiraf
+$GEN_031_DOC_1_00
+Arthur Bonnet, 38 ans, directeur du Théâtre de l'Odéon, est accusé de proxénétisme. Les autorités policières sont au courant de l'existence du bordel depuis longtemps. Certaines actrices vendent leur corps immédiatement après une pièce, utilisant le théâtre comme prétexte, mais aussi comme moyen de promotion. Parmi les clients de l'Odéon se trouvent des membres de la Convention nationale et des officiers. Grâce à eux, le citoyen Bonnet peut tirer <a name="2" class="hidden">des bénéfices financiers considérables</a> de son activité sans avoir peur des conséquences. Les derniers rapports paraissent cependant trop scandaleux pour être ignorés. 
+$GEN_031_DOC_1_01
+Bonnet est <a name="3" class="hidden">accusé de prostituer</a> la jeune Olivia de Nerval, 13 ans, qui lui a été confiée. L'administration judiciaire a été informée de ce fait par Arnaud de Condorcet, un ami du père récemment guillotiné de la jeune fille.
+$GEN_031_DOC_1_02
+Condorcet affirme qu'Olivia de Nerval a joué dans <a name="5" class="hidden">une représentation privée</a> intitulée « Les Infortunes de la vertu », organisée uniquement pour un petit nombre d'invités soigneusement sélectionnés. Généralement, après de tels spectacles, certaines des actrices ont des <a name="6" class="hidden">« rendez-vous intimes »</a> avec leurs admirateurs. Condorcet a vu Bonnet ordonner à une de ses employées, Charlotte Deraismes, <a name="7" class="hidden">d'emmener Olivia</a> dans une pièce où Gustave Clavel, un critique de théâtre connu pour sa lubricité, l'attendait.
+$GEN_031_DOC_1_03
+Les accusations de Condorcet se sont rapidement répandues dans l'aristocratie, et des voix se sont élevées pour exiger l'arrestation immédiate et la condamnation de Bonnet. Cependant, <a name="8" class="hidden">Olivia</a> refuse de témoigner et Clavel a disparu.
+$GEN_031_DOC_2_TOOLTIP
+Programme
+$GEN_031_DOC_2_00
+<a name="9" class="hidden">Programme</a>
+Les stars du Théâtre de l'Odéon invitent leurs admirateurs à un spectacle privé. Signé : Arthur Bonnet
+Solistes : 500 francs 
+Premiers rôles : 400 francs 
+Seconds rôles : 300 francs 
+Figurantes : 200 francs 
+Marcheuses : 50 francs 
+Invitées spéciales : 600 francs
+$GEN_031_OnStart_00
+Citoyen, comment t'appelles-tu ?
+$GEN_031_OnStart_01
+Arthur Bonnet, Monsieur le juge.
+$GEN_031_OnStart_02
+Tu es accusé d'avoir prostitué ta pupille mineure, Olivia de Nerval, pour ton bénéfice financier personnel. Que plaides-tu face à ces accusations ?
+$GEN_031_OnStart_03
+Je n'ai rien fait de tel ! Qui ose dire ça ?
+$GEN_031_OnStart_04
+Le citoyen Arnaud de Condorcet, présent dans la salle, prétend que tu l'as fait.
+$GEN_031_OnStart_05
+C'est une calomnie ! Un complot contre moi organisé par cet homme ! Je suis le directeur d'un théâtre célèbre dans tout Paris, pas un… souteneur !
+$GEN_031_OnStart_06
+La liste de tarifs trouvée lors de l'enquête tend à prouver le contraire.
+$GEN_031_OnStart_07
+Vous tirez des conclusions trop rapides.
+$GEN_031_OnStart_08
+Ils vont l'emmener sous peu pour qu'il soit décapité, cet horrible proxénète.
+$GEN_031_OnGuilty_00
+Je condamne le citoyen Arthur Bonnet à être guillotiné ! Emmenez le condamné.
+$GEN_031_OnGuilty_01
+Quel horrible monstre. Je suis heureux que ce soit terminé.
+$GEN_031_OnGuilty_02
+Au moins il y aura quelque chose à voir.
+$GEN_031_OnGuilty_03
+Il l'a bien mérité.
+$GEN_031_OnNotGuilty_00
+Arthur Bonnet est jugé… non coupable ! Emmenez l'accusé.
+$GEN_031_OnNotGuilty_01
+Non coupable ? Comment est-ce possible ?!
+$GEN_031_OnNotGuilty_02
+Mais enfin, il tient un bordel !
+$GEN_031_OnNotGuilty_03
+Le juge doit aimer les petites actrices !
+$GEN_031_OnNotGuilty_04
+Même si tu ne crois pas ce qui est arrivé à Olivia, tu vois bien que ce théâtre n'est rien d'autre qu'une maison de passe.
+$GEN_031_08x03_00_QTitle
+Pourquoi Olivia de Nerval est-elle devenue ta pupille après la mort de son père ?
+$GEN_031_08x03_00_00
+Pourquoi Olivia de Nerval est-elle devenue ta pupille après la mort de son père ?
+$GEN_031_08x03_00_01
+C'est simple. Elle a d'abord été placée dans un orphelinat, je l'ai ensuite adoptée lorsque j'ai reconnu son talent.
+$GEN_031_08x03_00_02
+Quel talent ?
+$GEN_031_08x03_00_03
+Eh bien… son talent d'actrice, évidemment.
+$GEN_031_08x03_00_04
+Les enfants donnent des pièces de théâtre à l'orphelinat ?
+$GEN_031_08x03_00_05
+Non, mais je peux reconnaître le talent d'une jeune fille simplement à son port de tête quand elle marche et au choix de ses mots quand elle parle.
+$GEN_031_08x03_00_06
+« Quand elle marche », tiens donc ?
+$GEN_031_08x03_00_07
+Cela t'arrive souvent de chercher de futures actrices dans les orphelinats ?
+$GEN_031_08x03_00_08
+Pas aussi souvent que je le devrais. Je n'ai pas le temps, mais c'est bien dommage, car on peut trouver de vraies perles parmi les orphelines.
+$GEN_031_01x06_01_QTitle
+Est-ce que les rendez-vous entre les actrices et leur public se terminent au lit ?
+$GEN_031_01x06_01_00
+Est-ce que les rendez-vous entre les actrices et leur public se terminent au lit ?
+$GEN_031_01x06_01_01
+Ce sont des entretiens privés. Je n'ai aucune idée de ce qu'il s'y passe.
+$GEN_031_01x06_01_02
+Pouvons-nous supposer que lors de ces entretiens privés, le visiteur et l'hôtesse se livrent à des activités de nature sexuelle ?
+$GEN_031_01x06_01_03
+Je vais me répéter : je n'ai jamais été présent lors de ces entretiens. J'ai entendu des rumeurs, évidemment, mais je suis convaincu qu'elles proviennent surtout de l'imagination débordante de nos clients.
+$GEN_031_01x06_01_04
+Tous tes clients ?
+$GEN_031_01x06_01_05
+Nos actrices sont tellement admirées pour leur incroyable talent que tous les hommes rêvent de les toucher, mais ce n'est qu'un rêve.
+$GEN_031_01x06_01_06
+Tu dis que ces hommes ont payé des centaines de francs pour une simple conversation ?
+$GEN_031_01x06_01_07
+Certaines personnes paient pour du bon vin, d'autres pour une conversation agréable. Cela ne me regarde pas.
+$GEN_031_01x06_01_08
+Il n'a rien vu, il ne sait rien. Mais bien sûr…
+$GEN_031_01x09_02_QTitle
+Tu fais payer tes clients pour rencontrer les actrices. Pour quoi exactement paient-ils ?
+$GEN_031_01x09_02_00
+Tu fais payer tes clients pour rencontrer les actrices. Pour quoi exactement paient-ils ?
+$GEN_031_01x09_02_01
+Pour une conversation ou un spectacle privé. Parfois, nos dames lisent de la poésie ou chantent. Ces événements sont extrêmement importants pour le théâtre, car nous avons des frais d'entretien très élevés.
+$GEN_031_01x09_02_02
+Quelle façon intéressante d'équilibrer le budget. Peux-tu décrire les pièces où ont lieu ces rendez-vous ?
+$GEN_031_01x09_02_03
+Nos stars ont des pièces attitrées où elles peuvent se reposer et se préparer avant les représentations.
+$GEN_031_01x09_02_04
+Ces pièces ont-elles un lit ?
+$GEN_031_01x09_02_05
+Bien sûr. Après deux heures à jouer la comédie et danser, elles sont fatiguées, n'est-ce pas ?
+$GEN_031_01x09_02_06
+Combien de clients rendent-ils visite à tes « stars » en une nuit ?
+$GEN_031_01x09_02_07
+Un ou deux. Trois, à certaines occasions très spéciales, mais je préfère ne pas épuiser les actrices.
+$GEN_031_01x09_02_08
+Tu penses que faire la conversation est épuisant ?
+$GEN_031_01x09_02_09
+Elles doivent avoir mal à la gorge, mais pas à cause de leur conversation.
+$GEN_031_01x09_02_10
+Ça suffit !
+$GEN_031_01x09_02_11
+Elles sont très sensibles et doivent être traitées avec respect.
+$GEN_031_05x06_03_QTitle
+De tels entretiens privés ont-ils lieu après…
+$GEN_031_05x06_03_00
+De tels entretiens privés ont-ils lieu après les spectacles privés ?
+$GEN_031_05x06_03_01
+Pas exclusivement, mais la plupart ont effectivement lieu après ces spectacles.
+$GEN_031_05x06_03_02
+Est-ce qu'Olivia de Nerval a participé à de tels entretiens ?
+$GEN_031_05x06_03_03
+Si c'est cela qu'Arnaud a raconté, il ment ! Je ne laisserais jamais une gamine de 13 ans rencontrer ses admirateurs, pas à ce stade de sa carrière !
+$GEN_031_05x06_03_04
+Pourquoi pas ? S'il ne s'agit que d'une conversation ?
+$GEN_031_05x06_03_05
+Les conversations peuvent être épuisantes, et ce n'est qu'une enfant.
+$GEN_031_05x06_03_06
+Pourquoi de Condorcet mentirait-il ?
+$GEN_031_05x06_03_07
+Il essaie depuis longtemps de me voler la position de directeur du Théâtre de l'Odéon. Il a même menacé de faire tout ce qui serait en son pouvoir pour m'éliminer ! C'est pour ça qu'il a inventé ce… « proxénétisme ».
+$GEN_031_03x07_04_QTitle
+Faites venir à la barre le témoin, Maria Deraismes.
+$GEN_031_03x07_04_00
+Faites venir à la barre le témoin, Maria Deraismes.
+$GEN_031_03x07_04_02
+Quel est ton nom, citoyenne ?
+$GEN_031_03x07_04_03
+Je m'appelle Maria Deraismes.
+$GEN_031_03x07_04_04
+Quel est ton poste au Théâtre de l'Odéon ?
+$GEN_031_03x07_04_05
+Je suis la gouvernante. Je gère le personnel féminin du théâtre.
+$GEN_031_02x09_05_QTitle
+Quelle partie des revenus obtenus par ces entretiens privés atterrit-elle dans la caisse du théâtre ?
+$GEN_031_02x09_05_00
+Quelle partie des revenus obtenus par ces entretiens privés atterrit-elle dans la caisse du théâtre ?
+$GEN_031_02x09_05_01
+Selon le contrat signé par le personnel, soixante-dix pour cent. C'est beaucoup, je sais, mais l'entretien des chambres, la nourriture, et parfois l'alcool… tout cela a un coût. Et puis, sans la réputation du théâtre… eh bien…
+$GEN_031_02x09_05_02
+Reçois-tu des primes pour ces entretiens ?
+$GEN_031_02x09_05_03
+Grâce à mes idées, le théâtre est plus rentable que jamais. Si j'en suis récompensé ? Bien sûr, ce n'est que justice.
+$GEN_031_02x09_05_04
+Alors il est important pour toi d'organiser autant d'entretiens que possible ?
+$GEN_031_02x09_05_05
+Oui, mais c'est surtout dans l'intérêt du théâtre.
+$GEN_031_02x09_05_06
+Et le tien.
+$GEN_031_02x09_05_07
+Certes, mais ce n'est pas le plus important pour moi.
+$GEN_031_04x05_06_QTitle
+Confirmes-tu que ta pupille a joué dans…
+$GEN_031_04x05_06_00
+Confirmes-tu que ta pupille a joué dans le spectacle privé « Les Infortunes de la vertu » donné devant un public très réduit ?
+$GEN_031_04x05_06_01
+Bien sûr. Où apprendrait-elle à jouer, si ce n'est sur scène ?
+$GEN_031_04x05_06_02
+Était-elle aussi censée apprendre quelque chose lors de son entretien avec Clavel ?
+$GEN_031_04x05_06_03
+Je parie que c'était un autre genre de prestation là-dedans.
+$GEN_031_04x05_06_04
+Je l'espère. Cet homme s'y connaît énormément en théâtre. Ses conseils ont dû être inestimables.
+$GEN_031_05x08_07_QTitle
+Quel rôle Olivia de Nerval a-t-elle joué dans « Les Infortunes de la vertu » ?
+$GEN_031_05x08_07_00
+Quel rôle Olivia de Nerval a-t-elle joué dans « Les Infortunes de la vertu » ?
+$GEN_031_05x08_07_01
+Oh, un rôle tout à fait secondaire, quasiment de la figuration, en fait. Elle a joué une des campagnardes harcelées par un marquis dépravé.
+$GEN_031_05x08_07_02
+S'il s'était agi de figuration, le théâtre aurait dû faire payer 200 francs à Clavel selon votre programme. Est-ce bien cela ?
+$GEN_031_05x08_07_03
+C'était un rôle de marcheuse, en fait, donc nous aurions dû lui faire payer 50 francs. Cependant, étant donné que M. Clavel a rencontré Olivia pour lui enseigner des choses, j'ai décidé de ne pas le faire payer. Après tout, c'était pour le bien de la fille.
+$GEN_031_05x08_07_04
+Je parie que c'est à Clavel que ça a fait du bien !
+$GEN_031_05x08_07_05
+Prévois-tu de faire payer les gens pour rencontrer Olivia à l'avenir ?
+$GEN_031_05x08_07_06
+Eh bien… Je… Oui, pourquoi pas ? Si elle décide de rester au théâtre, bien sûr, et j'espère qu'elle le fera.
+$GEN_031_05x08_07_07
+Et tu gagneras de l'argent grâce à cela ?
+$GEN_031_05x08_07_08
+Eh bien, en théorie oui.
+$GEN_031_WIT_00_A_QTitle
+Qui a arrangé la rencontre entre Olivia et Gustave Clavel ?
+$GEN_031_WIT_00_A_00
+Qui a arrangé la rencontre entre Olivia et Gustave Clavel ?
+$GEN_031_WIT_00_A_01
+Ce n'était pas un entretien arrangé au préalable. M. Clavel a été impressionné par le talent d'Olivia et a demandé à pouvoir lui parler.
+$GEN_031_WIT_00_A_02
+Je suppose que l'entretien a bien eu lieu. Étaient-ils seuls ?
+$GEN_031_WIT_00_A_03
+Évidemment. Le directeur a donné son autorisation, alors je leur ai trouvé une chambre libre.
+$GEN_031_WIT_00_A_04
+L'accusé était donc au courant de tout et a personnellement donné son autorisation ?
+$GEN_031_WIT_00_A_05
+Monsieur le juge, rien ne se passe au Théâtre de l'Odéon sans que le directeur soit au courant et l'autorise.
+$GEN_031_WIT_00_A_06
+Il savait donc bien ce qu'il se passait en privé.
+$GEN_031_WIT_00_B_QTitle
+Combien Clavel a-t-il payé pour rencontrer de Nerval ?
+$GEN_031_WIT_00_B_00
+Combien Clavel a-t-il payé pour rencontrer de Nerval ?
+$GEN_031_WIT_00_B_01
+Rien. Les conversations comme celles-ci ne sont pas comprises dans les tarifs. C'était une simple rencontre entre un critique de théâtre et une actrice débutante.
+$GEN_031_WIT_01_A_QTitle
+À part Gustave Clavel, est-ce que quelqu'un a eu un entretien avec la pupille de l'accusé ?
+$GEN_031_WIT_01_A_00
+À part Gustave Clavel, est-ce que quelqu'un a eu un entretien avec la pupille de l'accusé ?
+$GEN_031_WIT_01_A_01
+Non, mais Monsieur Arnaud de Condorcet a demandé à pouvoir la voir avant la représentation. Il a même proposé de payer.
+$GEN_031_WIT_01_A_02
+Intéressant. Le directeur a-t-il donné sa permission ?
+$GEN_031_WIT_01_A_03
+Non, il a catégoriquement refusé. Il a dit qu'Olivia n'était pas encore une actrice professionnelle, et qu'elle était bien trop jeune pour rencontrer ses admirateurs.
+$GEN_031_WIT_01_A_04
+Quelle a été la réaction de Condorcet ?
+$GEN_031_WIT_01_A_05
+Il s'est énervé. Il a même été vulgaire. On ne peut pas lui en vouloir. Olivia est une apprentie très… talentueuse.
+$GEN_031_WIT_01_B_QTitle
+Est-ce que Gustave Clavel a rencontré d'autres actrices par le passé ?
+$GEN_031_WIT_01_B_00
+Est-ce que Gustave Clavel a rencontré d'autres actrices par le passé ?
+$GEN_031_WIT_01_B_01
+Bien sûr. C'est un critique de théâtre reconnu, après tout, et il aime nos… Je veux dire qu'il reconnaît le talent de nos actrices.
+$GEN_031_WIT_01_B_02
+Tu suggères qu'il apprécie l'amour tarifé ?
+$GEN_031_WIT_01_B_03
+Je n'ai jamais rien dit de la sorte.
+$GEN_031_WIT_01_B_04
+Quelle était la durée de ces entretiens ?
+$GEN_031_WIT_01_B_05
+De quelques minutes à une demi-heure.
+$GEN_031_WIT_01_B_06
+Et sa rencontre avec Olivia de Nerval ?
+$GEN_031_WIT_01_B_07
+Quelques minutes. Iils n'ont fait que parler, j'en donne ma parole.
+$GEN_031_WIT_01_B_08
+As-tu assisté à la conversation ?
+$GEN_031_WIT_01_B_09
+Non, mais j'avais à faire dans le couloir. Si quelque chose… était arrivé, je l'aurais remarqué.
+$GEN_031_KEY_01
+Tapin au théâtre
+$GEN_031_KEY_02
+Profits de la prostitution
+$GEN_031_KEY_03
+Accusations de proxénétisme
+$GEN_031_KEY_04
+Rôle dans le spectacle
+$GEN_031_KEY_05
+Prestation privée
+$GEN_031_KEY_06
+Entretiens avec les actrices
+$GEN_031_KEY_07
+Rencontre avec un critique
+$GEN_031_KEY_08
+Olivia
+$GEN_031_KEY_09
+Programme
+$GEN_031_LastDialog_00
+J'ai pris soin de cette fille ! Ce n'est qu'une enfant…
+$GEN_031_UNIQUE_QUESTION_00
+Quel âge a Olivia de Nerval ?
+$GEN_031_UNIQUE_ANSWER_CORRECT_00_00
+Treize ans.
+$GEN_031_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Quatorze ans.
+$GEN_031_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Dix ans.
+$GEN_031_UNIQUE_QUESTION_01
+Quelle raison Bonnet a-t-il donné pour avoir soustrait la fille à l'orphelinat ?
+$GEN_031_UNIQUE_ANSWER_CORRECT_01_00
+Il a découvert son talent.
+$GEN_031_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Il est tombé sous le charme de sa beauté.
+$GEN_031_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il l'a prise en pitié.
+$GEN_031_UNIQUE_QUESTION_02
+Qu'est-il arrivé à l'argent gagné lors des rencontres avec les actrices ?
+$GEN_031_UNIQUE_ANSWER_CORRECT_02_00
+Il a été partagé entre elles et le théâtre.
+$GEN_031_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Le théâtre a tout pris.
+$GEN_031_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Les actrices ont tout pris.

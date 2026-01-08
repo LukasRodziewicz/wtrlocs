@@ -1,0 +1,32 @@
+$LETTER_H_03_01_01_MAIN
+Cidadão, tenho certeza de que você já recebeu sua cópia da Declaração dos Direitos da Mulher. Vamos nos encontrar à noite para que eu possa apresentar nossas reivindicações.
+$LETTER_H_03_01_01_SENDER
+Germaine de Staël
+$LETTER_H_03_01_02_MAIN
+I:
+As mulheres nascem livres e permanecem iguais aos homens em direitos. As distinções sociais só podem ser fundamentadas na necessidade comum.
+V:
+As leis da natureza e da razão condenam toda ação nociva à sociedade: tudo o que não é proibido por essas leis, por mais sábias e divinas que sejam, não pode ser impedido; e ninguém deve ser forçado a fazer o que elas não ordenam.
+VI:
+A Lei deve expressar a vontade geral; todas as Cidadãs e Cidadãos devem participar de sua elaboração, direta ou por meio de representantes; ela deve ser a mesma para todos: todos os Cidadãos, independentemente de gênero, sendo iguais perante ela, devem ter igual acesso a todas as dignidades, deveres e cargos públicos, conforme sua competência, sem distinção além das virtudes e capacidades.
+$LETTER_H_03_01_03_MAIN
+X:
+Ninguém deve ser perseguido por seus pensamentos e opiniões, independentemente de quão fundamentais sejam; se as mulheres têm o direito de subir ao cadafalso, também devem ter o direito de subir à tribuna, desde que o que disserem não perturbe a ordem pública conforme estabelecido pela Lei.
+XI:
+A livre comunicação de pensamentos e opiniões é um dos direitos mais preciosos que a mulher possui, pois essa liberdade garante legitimidade aos pais perante seus filhos. Toda Cidadã deve poder dizer livremente: “Sou mãe de uma criança que você reconhece”, sem que qualquer preconceito bárbaro a obrigue a ocultar essa verdade; exceto para responder por qualquer abuso dessa liberdade nos casos previstos em Lei.
+$LETTER_H_03_01_04_MAIN
+Pós-escrito:
+Mulheres, levantem-se; o toque de alarme da razão ecoa por todo o universo; conheçam seus direitos. O poderoso império da natureza já não está acorrentado pelo preconceito, fanatismo, superstição e mentira. A chama da verdade dissipou as nuvens da tolice e da usurpação. O homem escravizado multiplicou sua força, mas precisou da de vocês para romper, enfim, suas correntes. E agora que é livre, tornou-se injusto com sua companheira. Oh, mulheres, mulheres! Quando deixarão de ser cegas? Que benefício colheram da Revolução? Um desprezo ainda mais profundo, um desdém ainda mais marcado. Durante séculos de corrupção, só puderam reinar sobre as fraquezas dos homens. A retomada de sua herança, fundada nos humildes decretos da natureza; de que temem em buscar tão nobre objetivo? O dito espirituoso do legislador nas bodas de Caná?
+$LETTER_H_03_01_05_MAIN
+Temeis que nossos legisladores franceses, guardiões dessa moralidade, há muito presos a convenções políticas antiquadas, repitam a vocês: mulheres, o que há em comum entre nós e vocês? Tudo, deve ser a sua resposta. E se eles persistirem em sua fraqueza, colocando esse engano em contradição com seus próprios princípios, oponham com coragem a força da razão à vã soberba da superioridade; unam-se sob os ideais da filosofia; revelem todo o espírito de seu caráter, e em breve verão esses homens imperiosos, não aos seus pés como adoradores humilhados, mas como iguais, dividindo com orgulho com vocês os tesouros do Ser Supremo. Não se deixem deter pelas barreiras que se erguem diante de vocês, pois têm o poder de superá-las e se libertar; basta querer. Sigamos adiante e contemplemos a terrível posição que as mulheres ocuparam na sociedade; já que agora se discute a educação nacional, vejamos se nossos sábios legisladores serão racionais ao considerar a educação das mulheres.
+$LETTER_H_03_01_06_MAIN
+As mulheres causaram mais mal do que bem. Suas armas foram a restrição e o engano. O que a força lhes tirou, a astúcia devolveu; precisaram recorrer aos seus encantos, e nem mesmo o homem mais virtuoso pôde resistir. O veneno, a espada, tudo se curvava diante delas; dominavam tanto o crime quanto a virtude. O governo francês, mais do que muitos, apoiou-se por séculos na administração noturna das mulheres; nenhum segredo resistia à curiosidade do boudoir: embaixadores, oficiais, ministros, presidentes, pontífices, cardeais, todas as máscaras que ilustram a tolice dos homens, sagrados ou profanos, todos sucumbiram à cobiça e ambição desse sexo outrora desprezado, porém respeitado, mas desde a Revolução, respeitável e desprezado.
+$LETTER_H_03_02_01_MAIN
+Estou indo embora. Preciso tirar nosso filho desta cidade doente. Não tente nos procurar.
+$LETTER_H_03_02_01_001_SENDER
+Mathilde
+$LETTER_H_03_03_01_MAIN
+Caro cidadão,
+Somos imensamente gratos. Pela primeira vez sentimos que alguém nos ouve. Ajudaremos os homens em sua luta!
+$LETTER_H_03_03_01_SENDER
+As mulheres de Paris

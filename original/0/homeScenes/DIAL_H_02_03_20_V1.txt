@@ -1,0 +1,32 @@
+$DIAL_H_02_03_20_V1_001_JUDGE
+W końcu przyszedłeś.
+$DIAL_H_02_03_20_V1_002_DAVID
+Alexis… Odwiedził mnie twój brat. Ten, który ponoć nie żył.
+$DIAL_H_02_03_20_V1_003_JUDGE
+Jacques, nie wiem, co on ci…
+$DIAL_H_02_03_20_V1_004_DAVID
+Daj mi skończyć. Zawsze wiedziałem, jaki jesteś. Patrzyłem, jak dążysz do władzy, jak pokonujesz kolejne stopnie. Ale dopiero teraz widzę, czym naprawdę się stałeś. Teraz, kiedy spotkałem jego.
+$DIAL_H_02_03_20_V1_005_JUDGE
+To potwór!
+$DIAL_H_02_03_20_V1_006_DAVID
+Wygląda na to, że obaj nimi jesteście. Niestety po tym, co usłyszałem, on wydaje mi się mniejszym złem…
+$DIAL_H_02_03_20_V1_007_JUDGE
+Jak możesz tak mówić? Jesteśmy przyjaciółmi, a on… on chce powrotu poprzedniego układu!
+$DIAL_H_02_03_20_V1_008_DAVID
+Nie, on chce prawdziwej równości i braterstwa, Alexis. Chce, by ludzie, których rewolucja odrzuciła, mogli wrócić do swoich domów.
+$DIAL_H_02_03_20_V1_009_JUDGE
+Wierzysz w to? Zobacz, co zrobił z naszym życiem!
+$DIAL_H_02_03_20_V1_010_DAVID
+Nie mniej, niż ty zrobiłeś z życiem ludzi, z którymi się zetknąłeś. Przykro mi, przyjacielu, ale nasza znajomość musi się skończyć. Gdzie jest twoja granica? Utrącenie Robespierre’a to było za dużo. Przelaliśmy za dużo krwi, Alexis, a teraz mam szansę jakoś odkupić część swoich win.
+$DIAL_H_02_03_20_V1_011_JUDGE
+I co teraz będziesz robił?
+$DIAL_H_02_03_20_V1_012_DAVID
+Przyłączę się do twojego brata. To wszystko się musi skończyć. Poprowadzę jego wojsko i zadbam, aby to był ostatni rozlew krwi, jaki trawił ten kraj!
+$DIAL_H_02_03_20_V1_013_JUDGE
+Będziesz walczył przeciw mnie i Ramelowi?
+$DIAL_H_02_03_20_V1_014_DAVID
+Nikt nie stoi po twojej stronie. Twój strażnik sądowy… Już go przekonałem, pójdzie za mną. A Ramel towarzyszył twojemu bratu, gdy ten mnie odwiedzał. Wygląda na to, że zawsze był przeciw tobie…
+$DIAL_H_02_03_20_V1_015_JUDGE
+A więc prowadził mnie prosto na rzeź. Swojego przyjaciela.
+$DIAL_H_02_03_20_V1_016_DAVID
+Do widzenia, Alexis. Mam nadzieję, że przy kolejnym spotkaniu nie będę musiał cię zabijać. Francja ma już dość krwi swoich dzieci na rękach.

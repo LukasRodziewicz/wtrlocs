@@ -1,0 +1,97 @@
+$PROLOG_PRE_01_MT
+Remind me next time that I want to stop drinking this cloudy rotgut. Remind me BEFORE I drink it. We’re disgracing Themis, hah… Is someone coming?
+$PROLOG_PRE_02_WF
+This was bound to happen…
+$PROLOG_PRE_03_ES
+I told you…
+$PROLOG_PRE_04_YS
+Papa, you said we would go… You promised…
+$PROLOG_PRE_05_MT
+Papa had a lot of… work.
+$PROLOG_PRE_06_ES
+Yes, a lot of heavy glasses…
+$PROLOG_PRE_07_WF
+You promised me… I can’t anymore… I’m fed up with asking.
+$PROLOG_PRE_08_YS
+Mama is angry, because…
+$PROLOG_PRE_09_ES
+Quiet.
+$PROLOG_PRE_10_WF
+Today your favourite son wanted to prove he was more honourable than his father, so he started a fight. A five-year-old boy, for God’s sake!
+$PROLOG_PRE_11_WF
+Our neighbours wanted you to explain that to them, but… well, you were fighting for justice. At an inn. Damn you, you bloody drunk…
+$PROLOG_PRE_12_ES
+Mother…
+$PROLOG_DOC_01_HEADER
+Letter from Aurélie Dupond
+$PROLOG_CASE_DOC_HEADER
+To Judge Alexis Fidèle,
+
+$PROLOG_CASE_DOC_MAIN
+To Judge Alexis Fidèle,
+
+	 we have not expected this kind of behaviour from your son, although, apparently, we should have. <a name="1" class="hidden">Innocent</a> child's play turned into <a name="2" class="hidden">an assault</a> on our children. 
+	
+	 The younger one, <a name="3" class="hidden">Antoine</a>, now has a chipped <a name="4" class="hidden">front tooth</a>. We hope that you will punish your child accordingly! Should the situation repeat itself, we will react more decisively. I am sure we can deal with a gambler and drunkard, even if he is a judge… We will not let our children be hurt!
+$PROLOG_KEYWORD_01
+Child’s play
+$PROLOG_KEYWORD_02
+Fighting children
+$PROLOG_KEYWORD_03
+Injured Antoine
+$PROLOG_KEYWORD_04
+Chipped tooth
+$PROLOG_KEYWORD_05
+Possibility of repeating
+$PROLOG_01_D1_01_JD
+How did your play turn into a fight?
+$PROLOG_01_D1_02_YS
+Our neighbours, Antoine and Jean… They were saying mean things about you. We were playing Guards and they asked me to pretend to be a drunkard whom they would… you know…
+$PROLOG_01_D1_03_JD
+You were fighting both of them at once?
+$PROLOG_01_D1_04_YS
+I had to.
+$PROLOG_02_D1_01_JD
+What exactly were they saying?
+$PROLOG_02_D1_02_ES
+Are you too drunk to guess?
+$PROLOG_02_D1_03_JD
+I was not asking you.
+$PROLOG_02_D1_04_YS
+They were yelling that you are… well… I told them, that it’s not true, and they started calling me names. They called me “a drunkard’s son”.
+$PROLOG_03_D1_01_JD
+Who started the fight?
+$PROLOG_03_D1_02_ES
+I can tell you who ended it…
+$PROLOG_03_D1_03_YS
+Uhm, I think it was… me. I kicked the one on the left, and then wanted to get the one on the right, but…
+$PROLOG_03_D1_04_ES
+But they ended it.
+$PROLOG_03_D1_05_YS
+They knocked me to the ground and paid me back for hitting them.
+$PROLOG_04_D1_01_JD
+Did you really break Antoine’s tooth?
+$PROLOG_04_D1_02_ES
+Frédéric is just a child.
+$PROLOG_04_D1_03_YS
+I don’t know… I don’t think so.
+$PROLOG_04_D1_04_JD
+Did you hit him in the face?
+$PROLOG_04_D1_05_YS
+I think I kicked him, but not that hard…
+$PROLOG_CASE_ON_GUILTY
+Unfortunately you should not start fights, regardless of the reason.
+$PROLOG_CASE_ON_NOTGUILTY
+You did well. A man has to defend the honour of his family, no matter what.
+$PROLOG_POST_01_WF
+Those children are so small, and they already know the truth – the father of my children is a lying drunk and a gambler. Bernard used to worship you, but he soon grew up. Now it is Frédéric’s turn to learn the truth that echoes in the streets.
+$PROLOG_POST_02_WF
+And you, Raymond? You’re supposed to be my husband’s mentor – is this what you wanted to teach him? How to repeat your mistakes and lose his family?
+$PROLOG_POST_03_MT
+I was unaware that Mathilde had such a temper.
+$PROLOG_POST_04_JD
+As was I…
+$PROLOG_POST_05_WF
+We will wait outside, as always.
+$PROLOG_GUILTY
+Guilty

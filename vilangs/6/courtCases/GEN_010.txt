@@ -1,0 +1,285 @@
+$GEN_010_DOC_1_HEADER
+Compilado por: Bertrand Moreau
+$GEN_010_DOC_1_00
+Alfred Renoir es un panadero de 43 años de los suburbios del norte de París. Renoir ha sido acusado de causar la muerte de varios niños del vecindario. El acusado y su esposa tienen dos hijos y una hija. Los testigos afirman que es un hombre de pocas palabras, pero compasivo. Nunca se negó a vender pan fiado, ni tampoco añadió aserrín a la harina. Durante la investigación, su casa fue registrada y no se hallaron materiales monárquicos.
+$GEN_010_DOC_1_01
+Las demandas contra el panadero fueron presentadas por tres mujeres que lo culpan de la muerte de sus hijos. En total, se hallaron muertos a ocho menores. Un médico parisino confirmó que la causa de la muerte fue <a name="2" class="hidden">el hambre</a>.
+$GEN_010_DOC_1_02
+Una semana antes, esas mujeres, junto a un pequeño grupo de vecinas, intentaron obligar al panadero a venderles pan, o al menos algo de harina. Según los testigos, no había más de 15 personas frente a la panadería.
+$GEN_010_DOC_1_03
+Renoir <a name="3" class="hidden">se negó categóricamente</a> y amenazó con llamar a la Guardia. Cuando el pueblo hambriento le pidió que aumentara la producción de pan, volvió a negarse. Al día siguiente, las tres madres que ahora lo acusan regresaron a visitarlo, y una vez más no pudieron comprar pan.
+$GEN_010_DOC_1_04
+El investigador, con la ayuda de soldados, halló una gran reserva de harina en los almacenes de la panadería. Sin embargo, es difícil demostrar si la <a name="4" class="hidden">muerte de los niños</a> fue causada únicamente por el comportamiento del panadero.
+$GEN_010_DOC_1_05
+El panadero declaró que compraba su harina a un <a name="5" class="hidden">campesino del campo</a>. Sin embargo, nadie lo ha visto jamás en París. La gente murmura que conspira con los austriacos. Muchos creen que los Habsburgo intentan combatir la Revolución matando de hambre a los ciudadanos de París.
+$GEN_010_DOC_1_06
+El acusado no pudo explicar por qué se negó a vender pan, y solo repetía que no tenía otra opción.
+$GEN_010_DOC_1_07
+Prueba:
+<a name="7" class="hidden">Un libro de compras.</a>
+$GEN_010_OnStart_00
+¡Asesino traidor! ¡Queremos nuestro pan!
+$GEN_010_OnStart_01
+Cuando la gente hambrienta y desesperada empieza a hablar de posibles conspiraciones, es mejor mantenerse alejado de sus sospechas.
+$GEN_010_OnStart_02
+El acusado puede presentarse.
+$GEN_010_OnStart_03
+Me llamo Alfred Renoir. Soy panadero.
+$GEN_010_OnStart_04
+Ciudadano Renoir, se le acusa de causar la muerte de varios niños.
+$GEN_010_OnStart_05
+Yo no maté a nadie. Jamás le haría daño a un niño.
+$GEN_010_OnStart_06
+Puede que no usara un cuchillo, pero sigue siendo culpable.
+$GEN_010_OnStart_07
+¡Desalmado canalla!
+$GEN_010_OnGuilty_00
+Declaro a Alfred Renoir culpable de provocar deliberadamente el hambre entre los ciudadanos de París y de causar la muerte de niños. Por estos crímenes, lo condeno a la guillotina.
+$GEN_010_OnGuilty_01
+Un veredicto sabio. Estamos en guerra, y la guerra exige decisiones implacables.
+$GEN_010_OnGuilty_02
+¿Y qué? ¡Mis hijos siguen muertos!
+$GEN_010_OnGuilty_03
+¡Entreguen su harina al pueblo!
+$GEN_010_OnGuilty_04
+¡Genial! ¡Al panadero le cortarán la cabeza y por fin podremos llenar el estómago!
+$GEN_010_OnNotGuilty_00
+El acusado no ha cometido ningún delito. Por favor, liberen al ciudadano Alfred Renoir.
+$GEN_010_OnNotGuilty_01
+¡Protesto! ¡Exijo que el acusado sea castigado!
+$GEN_010_OnNotGuilty_02
+Sus hijos no conocen el hambre, ¿verdad, juez?
+$GEN_010_OnNotGuilty_03
+¡El juez seguro que conspira con los austriacos!
+$GEN_010_OnNotGuilty_04
+¡Queremos a otro juez!
+$GEN_010_01x03_00_QTitle
+¿Es cierto que se negó a vender pan a esas tres mujeres?
+$GEN_010_01x03_00_00
+¿Es cierto que se negó a vender pan a esas tres mujeres?
+$GEN_010_01x03_00_01
+Sí, vinieron a pedirme pan.
+$GEN_010_01x03_00_02
+¿Querían conseguirlo gratis?
+$GEN_010_01x03_00_03
+No, me metían el dinero en las manos. Incluso más de lo que debían.
+$GEN_010_01x03_00_04
+¡Y nos gritó!
+$GEN_010_01x03_00_05
+¿Le dijiste que lo necesitabas para tus hijos?
+$GEN_010_01x03_00_06
+Sí, y aun así se negó.
+$GEN_010_01x03_00_07
+¿No tienes conciencia?
+$GEN_010_01x03_00_08
+Les pedí amablemente que se marcharan, pero no quisieron irse…
+$GEN_010_01x03_00_09
+¿Por qué se negó?
+$GEN_010_01x03_00_10
+No tenía otra opción…
+$GEN_010_02x06_01_QTitle
+¿Sabe usted que nuestro país está en guerra?
+$GEN_010_02x06_01_00
+¿Sabes que nuestro país está en guerra?
+$GEN_010_02x06_01_01
+Sí, estoy al tanto de eso.
+$GEN_010_02x06_01_02
+Entonces, ¿por qué se negó a ayudar a sus conciudadanos? Sus acciones constituyen una traición a la República y puedo acusarle de traición.
+$GEN_010_02x06_01_03
+Señor juez, ¿sabe usted que yo también lucho mi propia guerra?
+$GEN_010_02x06_01_04
+¿De qué guerra hablas?
+$GEN_010_02x06_01_05
+Una en la que lucho por la supervivencia de mi familia. Cualquier otra guerra puede esperar. Tengo tres hijos y una esposa, y no puedo traicionarlos.
+$GEN_010_02x06_01_06
+Si perdemos, cada niño pasará hambre.
+$GEN_010_02x06_01_07
+Vendió su alma a los austriacos por unas migajas para su puta.
+$GEN_010_02x07_02_QTitle
+Según el libro de compras, tenía suficiente pan…
+$GEN_010_02x07_02_00
+Según el libro de compras, tenía suficiente pan para venderles a esas mujeres, y también a muchos otros clientes.
+$GEN_010_02x07_02_01
+Ahora sí, pero ¿quién sabe lo que pasará pronto? ¿Habrá otro suministro? El verdadero hambre aún no nos ha golpeado y tengo una familia que mantener. ¿Cuánto tiempo tendrán que sobrevivir solo con lo que tengo ahora?
+$GEN_010_02x07_02_02
+¡Nosotros también tuvimos hijos!
+$GEN_010_02x07_02_03
+¿Guardaba todo eso para su propio uso?
+$GEN_010_02x07_02_04
+Por mi familia, sí. ¿Eso es realmente un crimen?
+$GEN_010_02x07_02_05
+¿Y comían todos los días?
+$GEN_010_02x07_02_06
+Por suerte sí, pero no estoy seguro de cuánto durará.
+$GEN_010_02x07_02_07
+¿Oíste a ese bastardo? ¡Lacayo imperial!
+$GEN_010_02x04_03_QTitle
+Por favor, llame al testigo.
+$GEN_010_02x04_03_00
+Por favor, llame al testigo.
+$GEN_010_02x04_03_02
+Por favor, preséntese.
+$GEN_010_02x04_03_03
+Arnaud Lemout. He examinado a los niños.
+$GEN_010_03x04_04_QTitle
+Estas mujeres afirman que su negativa fue la causa directa…
+$GEN_010_03x04_04_00
+Estas mujeres afirman que su negativa fue la causa directa de la muerte de sus hijos. ¿Qué tiene que decir al respecto?
+$GEN_010_03x04_04_01
+¿Acaso mi pan era el último trozo de comida en París? Si querían alimentar a sus hijos, deberían haberse esforzado más.
+$GEN_010_03x04_04_02
+¡Él intenta culpar a esas pobres mujeres!
+$GEN_010_03x04_04_03
+¿Una traidora y espía austriaca se atreve a llamarme mala madre?
+$GEN_010_03x04_04_04
+¿Está sugiriendo que esta tragedia fue consecuencia de la negligencia de los padres?
+$GEN_010_03x04_04_05
+Soy padre de mis propios hijos, no de todos los niños del vecindario.
+$GEN_010_03x04_04_06
+Su actitud demuestra que no comprende el ideal revolucionario de la fraternidad.
+$GEN_010_03x04_04_07
+Libertad, igualdad, fraternidad... y una hoja afilada para decapitar a los bastardos.
+$GEN_010_03x06_05_QTitle
+¿Es usted un espía austriaco?
+$GEN_010_03x06_05_00
+¿Es usted un espía austriaco?
+$GEN_010_03x06_05_01
+…
+$GEN_010_03x06_05_02
+¿Ciudadano?
+$GEN_010_03x06_05_03
+No respondí porque preferí no ofenderlo, monsieur le juge, ya que la única respuesta apropiada sería que quien haya inventado semejante disparate debe de ser un idiota. Y le pido disculpas, monsieur le juge, si fue idea suya.
+$GEN_010_03x06_05_04
+Muchos dicen que aquí hay algo turbio.
+$GEN_010_03x06_05_05
+¡Ni siquiera hablo su idioma! Unos necios han inventado esta acusación absurda porque no saben manejar sus propias vidas.
+$GEN_010_03x06_05_06
+¿A quién llamas idiotas, malnacido egoísta?
+$GEN_010_06x05_06_QTitle
+¿Cómo le entregan la harina?
+$GEN_010_06x05_06_00
+¿Cómo le entregan la harina?
+$GEN_010_06x05_06_01
+La recojo yo mismo cada sábado.
+$GEN_010_06x05_06_02
+¿Sale usted de la ciudad con frecuencia? ¿Le acompaña alguien más?
+$GEN_010_06x05_06_03
+No, ¿por qué?
+$GEN_010_06x05_06_04
+Por las sospechas de que usted es espía y conspirador…
+$GEN_010_06x05_06_05
+¡Bravo! ¡El juez ha desenmascarado al traidor!
+$GEN_010_06x05_06_06
+¿Por qué habría de parecer extraño que un panadero viaje al campo una vez por semana para recoger harina?
+$GEN_010_06x05_06_07
+¿Por qué habría de parecer extraño que recluten como espía a alguien que viaja constantemente?
+$GEN_010_06x05_06_08
+Eso es absurdo.
+$GEN_010_06x05_06_09
+Llamen al testigo.
+$GEN_010_06x05_06_11
+¿Fue usted quien comerció con el acusado? Preséntese, por favor.
+$GEN_010_06x05_06_12
+Ruttmann es mi nombre, soy campesino y molinero. Sí, comercié con él, monsieur le juge. ¿Por qué no? ¿He hecho algo malo?
+$GEN_010_WIT_00_A_QTitle
+¿Podría describir las conclusiones a las que llegó tras examinar a los niños?
+$GEN_010_WIT_00_A_00
+¿Podría describir las conclusiones a las que llegó tras examinar a los niños?
+$GEN_010_WIT_00_A_01
+Estaban debilitados y demacrados, claramente desnutridos. Debieron de haber estado así durante algún tiempo.
+$GEN_010_WIT_00_A_02
+¿Habrían bastado unos cuantos panes del panadero para evitar la tragedia?
+$GEN_010_WIT_00_A_03
+No se puede dar pan a una persona hambrienta con el estómago vacío. Suele tener consecuencias desastrosas. Y no, un poco de pan solo aplazaría su muerte unos días.
+$GEN_010_WIT_00_A_04
+¡Cómo se atreve!
+$GEN_010_WIT_00_A_05
+Quizá en esos pocos días los padres habrían podido encontrar más comida.
+$GEN_010_WIT_00_A_06
+Quizás.
+$GEN_010_WIT_01_A_QTitle
+¿Qué opina del plan austriaco para matar de hambre a todo París?
+$GEN_010_WIT_01_A_00
+¿Qué opina del plan austríaco para matar de hambre a todo París?
+$GEN_010_WIT_01_A_01
+Esto es absurdo. ¿Un solo panadero?
+$GEN_010_WIT_01_A_02
+La gente habla de docenas.
+$GEN_010_WIT_01_A_03
+Por experiencia sé que la gente suele decir disparates. Una multitud ignorante siempre buscará una respuesta sencilla.
+$GEN_010_WIT_01_A_04
+Pero supongamos, por un momento, que esos rumores fueran ciertos. ¿Acaso una conspiración de panaderos no conduciría a la muerte de muchas personas?
+$GEN_010_WIT_01_A_05
+Supongo que sí. Muchos parisinos se alimentan casi exclusivamente de pan, así que el número de muertes aumentaría.
+$GEN_010_WIT_01_A_06
+¿Ha notado últimamente un aumento en la cantidad de personas que mueren de hambre?
+$GEN_010_WIT_01_A_07
+Sí, pero realmente no creo que sea resultado de una conspiración. Hay otros motivos también: los problemas con el suministro de alimentos, la guerra y todo el caos que ambos han provocado.
+$GEN_010_WIT_01_A_08
+¡Menos mal que lo descubrimos! ¡Traición!
+$GEN_010_WIT_02_A_QTitle
+¿Cuánto tiempo lleva dedicándose al comercio?
+$GEN_010_WIT_02_A_00
+¿Cuánto tiempo lleva comerciando?
+$GEN_010_WIT_02_A_01
+Ya van seis o siete años.
+$GEN_010_WIT_02_A_02
+¿Ha notado algún cambio reciente en el comportamiento del acusado?
+$GEN_010_WIT_02_A_03
+No, fue amable, como siempre. Aunque intentó convencerme de comerciar solo con él.
+$GEN_010_WIT_02_A_04
+¿Qué respondió usted? ¿No le pareció una petición sospechosa?
+$GEN_010_WIT_02_A_05
+Acepté. ¿Y por qué me iba a importar? Siempre pagaba bien y compraba bastante. Claro, era raro que llevara tanto dinero encima, pero eso no es asunto mío, ¿verdad?
+$GEN_010_WIT_02_A_06
+¿Alguno de sus otros clientes solía comprar cantidades tan grandes de harina?
+$GEN_010_WIT_02_A_07
+Sí, era inusual. No sé para qué necesitaba tanta harina. Pero estos son tiempos difíciles y él siempre pagaba por adelantado. Otros solían pedir pagar después, pero él nunca lo hizo.
+$GEN_010_WIT_02_A_08
+¿Renoir nunca pidió un pago aplazado?
+$GEN_010_WIT_02_A_09
+No.
+$GEN_010_WIT_02_A_10
+Seguro que los austriacos pagaron bien al panadero por su información, para que pudiera comprar tanta harina.
+$GEN_010_WIT_03_A_QTitle
+Ruttmann es un nombre bastante extraño para un francés.
+$GEN_010_WIT_03_A_00
+Ruttmann es un nombre bastante extraño para un francés.
+$GEN_010_WIT_03_A_01
+Mi padre era de Hannover.
+$GEN_010_WIT_03_A_02
+¿Es consciente el ciudadano de que también estamos en guerra con Hannover?
+$GEN_010_WIT_03_A_03
+¿Y qué? Mi padre está muerto y no puede pelear con nadie. Yo nací aquí.
+$GEN_010_KEY_01
+La naturaleza del acusado
+$GEN_010_KEY_02
+Hambre en París
+$GEN_010_KEY_03
+Negarse a ayudar
+$GEN_010_KEY_04
+Muerte de niños
+$GEN_010_KEY_05
+Proveedor misterioso
+$GEN_010_KEY_06
+Tácticas hostiles
+$GEN_010_KEY_07
+Libro de compras
+$GEN_010_LastDialog_00
+¿Quién cuidará ahora de mis hijos? ¡Su destino pesará sobre su conciencia!
+$GEN_010_UNIQUE_QUESTION_00
+¿Qué se encontró durante el registro de la casa del acusado?
+$GEN_010_UNIQUE_ANSWER_CORRECT_00_00
+Un suministro de harina.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Un gran suministro de pan.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Unos cuantos sacos de avena.
+$GEN_010_UNIQUE_QUESTION_01
+¿Por qué el acusado no compartió sus provisiones?
+$GEN_010_UNIQUE_ANSWER_CORRECT_01_00
+Los guardaba para su familia.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_00
+No le agradaban sus vecinos.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Afirma que nadie le pidió nada.

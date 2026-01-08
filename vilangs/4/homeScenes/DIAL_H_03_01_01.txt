@@ -1,0 +1,26 @@
+$DIAL_H_03_01_01_001_JUDGE
+Wie fühlst du dich heute, Bernard?
+$DIAL_H_03_01_01_002_BERNARD
+Was siehst du?
+$DIAL_H_03_01_01_003_JUDGE
+Wie bitte?
+$DIAL_H_03_01_01_004_BERNARD
+Ich habe dich gefragt, was du siehst.
+$DIAL_H_03_01_01_005_JUDGE
+Dich, meinen Sohn.
+$DIAL_H_03_01_01_006_BERNARD
+Nein. Du siehst ein Monster. Entstellt, erniedrigt und seiner Träume beraubt.
+$DIAL_H_03_01_01_007_JUDGE
+Das stimmt nicht. Es liegt noch vieles vor dir…
+$DIAL_H_03_01_01_008_BERNARD
+Was erwartet mich jetzt?! Eine Karriere? Sieh mich doch an! Ich werde nie wieder spielen können! Genau das wolltest du doch, oder? Gib es zu!
+$DIAL_H_03_01_01_009_JUDGE
+Niemals.
+$DIAL_H_03_01_01_010_BERNARD
+Ich glaube dir nicht! Und ich werde dir nie wieder glauben. Früher hast du gesagt, du würdest dich um uns kümmern, aber niemand kann diesen Wahnsinn aufhalten, diese schreckliche Revolution. Oder diese verfluchte Familie, in der die Toten aus ihren Gräbern steigen, um die Lebenden zu quälen.
+$DIAL_H_03_01_01_011_BERNARD
+Oder sind das einfach die Zeichen der Zeit? Was ist mit den Menschen, die deinetwegen geköpft wurden? Werden sie auch zurückkehren, um uns zu töten? Vielleicht steigt der König höchstselbst aus seinem Grab, um mir die Beine auszureißen, weil ich sie noch habe!
+$DIAL_H_03_01_01_012_JUDGE
+Es tut mir leid, mein Sohn. Wirklich.
+$DIAL_H_03_01_01_013_BERNARD
+Es tut mir ebenfalls leid. Und jetzt entschuldige mich, ich muss mir überlegen, wie ich den Rest meines Lebens vergeude, den du mit deinem grausamen Mitleid verschont hast.

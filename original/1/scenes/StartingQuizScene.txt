@@ -1,0 +1,44 @@
+$SURVIVAL_QUIZ_RESULT_HEADER
+Scores
+$SURVIVAL_QUIZ_RESULT_DESC
+These are your starting values ​​of relationships with the fractions.
+$SURVIVAL_QUIZ_QUESTION_01
+In the court corridor, a young, very attractive woman bumped into me. She was wearing an elegant dress but gently worn and threadbare in some places. The woman started to speak before I could apologize for the collision. She introduced herself as Désirée Plouffe, daughter of the count. Her fiancé was detained – counterrevolutionary actions were given as the reason but no detailed accusation was presented. Miss Plouffe pulled out an envelope with a note and, in a broken voice, asked me to hand it over to the accused man.
+$SURVIVAL_QUIZ_QUESTION_01_A1
+I locked the woman in one of the business rooms and went to the Guards. I do not want anyone to accuse me of corruption.
+$SURVIVAL_QUIZ_QUESTION_01_A2
+I took the note and promised to help. Ordinary customers in the hall glowered at me ...
+$SURVIVAL_QUIZ_QUESTION_01_A3
+Look, people, I said loudly. "The noblewoman seems to be more than the others.” I tore up the note and threw it under her feet.
+$SURVIVAL_QUIZ_QUESTION_02
+I was walking down the street then. I remember admiring how Paris is changing. The signs were replaced above the shops, people were taking encrusted furniture out of the noble premises. People loaded these goods into carts, took them away, gave them away. A man came out of a gate with a bottle of wine in his hand and shouted: “It's from Mr Jacquemard's basement. Come on, drink with us.”
+$SURVIVAL_QUIZ_QUESTION_02_A1
+I went to drink with them. We spent the whole night in the basement, talking about the needs of France.
+$SURVIVAL_QUIZ_QUESTION_02_A2
+I called the Guard to confiscate wine from the basement for the purposes of the revolution.
+$SURVIVAL_QUIZ_QUESTION_02_A3
+I told them who I was and I threatened them with punishment for stealing – they were off as fast as legs could carry them, I advised the owner to hide valuable things in the countryside.
+$SURVIVAL_QUIZ_QUESTION_03
+I once witnessed a nasty scene in the yard by the fountain. Several youngsters threw rocks at the well-dressed young man, shouting: "Eat, countess, bon appetite!” The young nobleman, driven into a corner, only shielded his face, receiving more bullets that hit not only him but also the windows, breaking into small pieces with the screaming of residents.
+$SURVIVAL_QUIZ_QUESTION_03_A1
+I picked up some pebbles from the ground and threw them at the "count" and then went away.
+$SURVIVAL_QUIZ_QUESTION_03_A2
+I've chased away a bunch of kids, dealing them with blows and handing a handkerchief to a young nobleman to wipe the bleeding cuts.
+$SURVIVAL_QUIZ_QUESTION_03_A3
+I ordered to arrest the teenagers for vandalism. For the Parisians, the time of fear has ended.
+$SURVIVAL_QUIZ_QUESTION_04
+In the square near Notre Dame, I saw a drunk man. He walked the street, shouting: “Louts, louts took over the city”, threatening people with an ivory-knitting stick. I saw people whispering to each other and showing their fingers at him. The passing washerwomen got him around with a wide arch and several bricklayers grabbed the stones.
+$SURVIVAL_QUIZ_QUESTION_04_A1
+I walked over and slapped him hard in the face until he sat on the pavement.
+$SURVIVAL_QUIZ_QUESTION_04_A2
+When I ran into the Guards' patrol, I reported a suspect person.
+$SURVIVAL_QUIZ_QUESTION_04_A3
+I took the man by the arm. “Come on, we will drink wine,” I said and then took him from the street, probably saving him from lynching.
+$SURVIVAL_QUIZ_QUESTION_05
+Four guardsmen stood at the stall of an elderly man near a newly renovated building. Vegetables laid on the countertop, including a few bundles of carrots and lettuce dried in the sun. “You are chasing me away because Mr Moisan paid you,” shouted the merchant straight into the grimacing faces of the guardsmen. “Nobleman would probably prefer me to sell silverware or antique sculptures, right? But the vegetable dealer, lowers the value of his real estate?!” continued the enraged shopkeeper.
+$SURVIVAL_QUIZ_QUESTION_05_A1
+I introduced myself and gave orders to the guards to leave the merchant alone.
+$SURVIVAL_QUIZ_QUESTION_05_A2
+It was not my business, the guards had probably their ... “reasons”.
+$SURVIVAL_QUIZ_QUESTION_05_A3
+If the guards were ordered, they should do it without hesitation. I assisted with arresting.

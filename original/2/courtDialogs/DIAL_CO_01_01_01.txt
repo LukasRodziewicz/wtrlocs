@@ -1,0 +1,26 @@
+$DIAL_CO_01_01_02_001_JLDAVID
+Tu avais promis de te joindre à moi, souviens-toi. Ce soir, la lune porte chance aux parieurs, je le sens.
+$DIAL_CO_01_01_02_002_JUDGE
+Bien qu'elle ne porte pas chance en matière de relations matrimoniales…
+$DIAL_CO_01_01_02_003_JLDAVID
+Dieu devrait nous envoyer des femmes qui comprennent l'importance d'une partie nocturne de dés. Elles devraient également savoir qu'une certaine quantité de vin rend chanceux…
+$DIAL_CO_01_01_02_004_JUDGE
+Je devrais rentrer chez moi.
+$DIAL_CO_01_01_02_005_JLDAVID
+Amener un juge au jeu a certains avantages : les autres joueurs n'oseront pas tricher.
+$DIAL_CO_01_01_02_006_JUDGE
+Cet argument n'est pas très convaincant.
+$DIAL_CO_01_01_02_007_JLDAVID
+Je m'appelle Jacques-Louis David. Je ne suis qu'un simple peintre, non un juge à la parole facile.
+$DIAL_CO_01_01_02_008_JUDGE
+Tu n'es qu'un politicien sournois, Jacques.
+$DIAL_CO_01_01_02_009_JLDAVID
+En tant qu'homme politique, je comprends l'importance de tenir ses promesses. Et toi, mon ami, tu essaies de te dérober.
+$DIAL_CO_01_01_02_C1
+Tenir sa promesse
+$DIAL_CO_01_01_02_C2
+Rentrer à la maison
+$DIAL_CO_01_01_02_010_JUDGE
+D'accord, mais pas longtemps alors.
+$DIAL_CO_01_01_02_011_JUDGE
+Pas ce soir, Jacques.

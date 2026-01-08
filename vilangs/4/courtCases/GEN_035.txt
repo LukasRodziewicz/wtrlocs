@@ -1,0 +1,288 @@
+$GEN_035_DOC_01_HEADER
+Zusammengestellt von: Nathan d'Essiraf
+$GEN_035_DOC_01_00
+Vor Gericht steht Fabrice Cerdan, angeklagt der <a name="1" class="hidden">Anstiftung zu einem Aufruhr</a> auf <a name="2" class="hidden">dem Markt in der Rue Cler</a>. Der Angeklagte ist ein 18-jähriger Schneiderlehrling, der für Morel Gareau arbeitet, den ehemaligen persönlichen Schneider der Baronin de Ronsard. Durch die Ereignisse, die auf das Handeln des Angeklagten zurückzuführen sind, wurde Sergeant Charles Le Vau, <a name="3" class="hidden">Mitglied der Nationalgarde</a>, verprügelt. Cerdan selbst nahm aktiv am Aufruhr teil. Er wurde auf frischer Tat ertappt und war, bemerkenswerterweise, <a name="4" class="hidden">als Frau verkleidet</a>.
+$GEN_035_DOC_01_01
+Die belastendste Aussage kam von Sylvie Martin, <a name="5" class="hidden">einer Gemüsehändlerin</a>. Sie musste gewaltsam vom misshandelten Sergeant Le Vau weggezerrt werden, ebenso wie die anderen Aufrührer – zu unserer Überraschung waren es überwiegend Frauen.
+$GEN_035_DOC_01_02
+Martin sagte aus, dass der Schneiderlehrling zwischen den Ständen umherlief und auf dramatische Weise rief, Sergeant Le Vau habe <a name="6" class="hidden">versucht, ihn zu vergewaltigen</a>, und dass seine Vorgesetzten sich weigerten, das Verbrechen zu ahnden.
+$GEN_035_DOC_01_03
+Aus Solidarität griffen Sylvie Martin und die anderen Frauen auf dem Markt den in der Nähe patrouillierenden Sergeant Le Vau an. Die Soldaten waren so überrascht von diesem Angriff der Frauen, dass sie rasch entwaffnet und verprügelt wurden. Es heißt, auch Cerdan habe sich aktiv an der Misshandlung der Wache beteiligt. Genauer gesagt, wurde beobachtet, wie er ihm einen Tritt in den Unterleib versetzte. Es mag belanglos erscheinen, doch das Opfer erlitt schwere Verletzungen.
+$GEN_035_DOC_01_04
+Die Nationalgarde und zahlreiche Abgeordnete fordern die Todesstrafe für den Verantwortlichen, der den Aufruhr angezettelt hat.
+$GEN_035_OnStart_00
+Perversling! In Frauenkleidern herumzulaufen – schäm dich!
+$GEN_035_OnStart_01
+Ich muss zugeben, solche Persönlichkeiten begegnen uns hier selten. Bitte stellen Sie sich vor.
+$GEN_035_OnStart_02
+Nun… ich bin Cerdan. Fabrice Cerdan, Monsieur Richter.
+$GEN_035_OnStart_03
+Sind Sie sicher?
+$GEN_035_OnStart_04
+Ja, Fabrice. Fabrice, ein ganz normaler Kerl. Ein Schneiderlehrling, meine ich. Das Kleid war… nur ein Scherz.
+$GEN_035_OnStart_05
+Dem Angeklagten wird vorgeworfen, einen Mob angestachelt zu haben, einen Unteroffizier der Nationalgarde anzugreifen, und sich dann selbst an diesem Übergriff beteiligt zu haben. Hält er das etwa auch für einen Scherz?
+$GEN_035_OnStart_06
+Als Ankläger fordere ich die härteste Strafe für den Angriff auf einen Soldaten der Republik.
+$GEN_035_OnStart_07
+Übergriff? Ich habe niemanden angegriffen, das schwöre ich!
+$GEN_035_OnStart_08
+Wer ist dann durch den Markt gerannt und hat geschrien, dass Sergeant Le Vau ein Vergewaltiger ist?
+$GEN_035_OnGuilty_00
+Ich verurteile Bürger Fabrice Cerdan zur Guillotine! Führt den Verurteilten ab.
+$GEN_035_OnGuilty_01
+Bravo!
+$GEN_035_OnGuilty_02
+Lasst seinen Kopf rollen!
+$GEN_035_OnPrison_00
+Ich verurteile Bürger Fabrice Cerdan zu Gefängnis! Führt den Verurteilten ab.
+$GEN_035_OnPrison_01
+Kannst du ihm nicht den Kopf abschlagen?
+$GEN_035_OnPrison_02
+Ich bin gespannt, worüber dieser Kerl wohl “witzeln” wird, wenn er erst aus dem Gefängnis raus ist.
+$GEN_035_OnNotGuilty_00
+Das Urteil im Fall Fabrice Cerdan lautet… nicht schuldig! Der Angeklagte ist frei.
+$GEN_035_OnNotGuilty_01
+Unfassbar!
+$GEN_035_OnNotGuilty_02
+Und Sylvie sitzt immer noch in Haft!
+$GEN_035_OnNotGuilty_03
+Wo bleibt hier die Gerechtigkeit?!
+$GEN_035_OnNotGuilty_04
+Ich protestiere! Einen Angeklagten freizusprechen, der einen französischen Soldaten angegriffen hat, ist ein Verbrechen.
+$GEN_035_02x04_00_QTitle
+Warum ging der Angeklagte im Kleid über den Markt in der Rue Cler?
+$GEN_035_02x04_00_00
+Warum ging der Angeklagte im Kleid über den Markt in der Rue Cler?
+$GEN_035_02x04_00_01
+Ich hatte Lust auf Zwiebelsuppe und bin deshalb einkaufen gegangen.
+$GEN_035_02x04_00_02
+Narr!
+$GEN_035_02x04_00_03
+Aber warum im Kleid?
+$GEN_035_02x04_00_04
+Das war eine Tarnung! Diese alten Händlerinnen, sollen sie doch an Lepra verrecken, sonst hätten sie mir nichts verkauft.
+$GEN_035_02x04_00_05
+Könnten Sie das bitte erläutern?
+$GEN_035_02x04_00_06
+Diese fette Kuh Sylvie Martin hat ihr Kleid zerrissen und dann überall in der Rue Cler herumposaunt, wir wären schuld daran. Martin und all diese dummen Marktschranzen, die ihr geglaubt haben, haben unser Geschäft ruiniert.
+$GEN_035_02x04_00_07
+Wag es ja nicht, Sylvie zu beleidigen, du stümperhafter Möchtegern-Schneider!
+$GEN_035_02x04_00_08
+Ich verstehe. Aber warum sollten sie Ihnen nicht dienen?
+$GEN_035_02x04_00_09
+Weil wir das Gerücht verbreitet haben, dass ihnen vom Gemüseessen Haare zwischen den Zehen wachsen. Ich fand das urkomisch, aber sie waren anderer Meinung.
+$GEN_035_01x06_01_QTitle
+Gab es einen Grund, warum der Angeklagte die Menge gegen den Serganten aufhetzen wollte?
+$GEN_035_01x06_01_00
+Gab es einen Grund, warum der Angeklagte die Menge gegen den Serganten aufhetzen wollte? Vielleicht aus Rache?
+$GEN_035_01x06_01_01
+Auf keinen Fall! Er war doch unser Kunde, um Himmels willen! Wir haben ihm die Uniform geschneidert, genau die, in der er jetzt dasitzt – so bequem, als säße er selbst als römischer Kaiser darin!
+$GEN_035_01x06_01_02
+Zeugen behaupten, Sie hätten ihn in einen seiner empfindlicheren Körperbereiche getreten.
+$GEN_035_01x06_01_03
+Ich habe diesen Trottel nie getreten!
+$GEN_035_01x06_01_04
+Monsieur le juge, Einspruch! Der Angeklagte darf solche Ausdrücke nicht verwenden, wenn er über einen Unteroffizier der Nationalgarde spricht!
+$GEN_035_01x06_01_05
+Halt ihm mit deinem Knüppel das Maul!
+$GEN_035_01x06_01_06
+Der Angeklagte sollte seine Worte mit Bedacht wählen. Liegt also ein Konflikt zwischen dem Angeklagten und dem Opfer vor?
+$GEN_035_01x06_01_07
+Ein Konflikt? Dieser Mistkerl hat meinem Meister nie den Uniform bezahlt! Hey, Le Vau, wenn du schon hier bist, rück doch die 300 Franc raus, ja? Dann sparst du dir demnächst einen Weg.
+$GEN_035_01x06_01_08
+Das ist Verleumdung, Monsieur Richter!
+$GEN_035_01x06_01_09
+Verleumdung, am Arsch! Trägst du nun eine Uniform oder nicht? Und wer soll die bezahlen? Niemand! Ich bin sogar froh, dass diese Damen dir das hübsche Gesicht ruiniert haben.
+$GEN_035_01x06_01_10
+Im Moment stehen Sie vor Gericht, Bürger Cerdan, also ersparen Sie uns weitere Auftritte.
+$GEN_035_03x05_02_QTitle
+Hat Sergeant Le Vau den Angeklagten wirklich vergewaltigt?
+$GEN_035_03x05_02_00
+Hat Sergeant Le Vau den Angeklagten wirklich vergewaltigt?
+$GEN_035_03x05_02_01
+Was?! Das ist doch absurd. Ich habe das Kleid nur aus Spaß getragen. Ich stehe auf Frauen!
+$GEN_035_03x05_02_02
+Nichts als Lügen! Die Zeugen haben gehört, wie Sie es bis ins Detail beschrieben haben!
+$GEN_035_03x05_02_03
+Tatsächlich gab es mehrere Zeugenaussagen, dass der Angeklagte auf der Rue Cler über Vergewaltigung sprach.
+$GEN_035_03x05_02_04
+Er hat sich das wohl einfach nur gewünscht.
+$GEN_035_03x05_02_05
+Was soll man schon von einem seltsamen Bauernjungen im Kleid erwarten…
+$GEN_035_03x05_02_06
+Was ist nur aus echten Männern geworden?
+$GEN_035_03x05_02_07
+Ich habe nichts gerufen – das war diese fette Kuh Martin. Sie hat sich alles ausgedacht, um sich an Le Vau zu rächen und die anderen Händlerinnen zu benutzen. Der ganze Markt weiß, dass sie in ihn verknallt ist, aber er hat sie abblitzen lassen.
+$GEN_035_03x05_02_08
+Er lügt schon wieder. Die anderen Aussagen zeichnen ein ganz anderes Bild.
+$GEN_035_03x05_02_09
+Du bist doch die fette Kuh!
+$GEN_035_03x05_02_10
+Ruhe! Möchte das Opfer dazu Stellung nehmen?
+$GEN_035_03x05_02_11
+Ich habe eine Verlobte, Monsieur le Juge. Mir sind keine Annäherungsversuche von Bürgerin Martin bekannt, und ehrlich gesagt weiß ich nichts über ihr Liebesleben.
+$GEN_035_03x05_02_12
+Kennt das Opfer Sylvie Martin?
+$GEN_035_03x05_02_13
+Ich kenne alle Marktverkäuferinnen. Manchmal verkauft sie mir Gemüse für die Suppe.
+$GEN_035_01x05_03_QTitle
+Rufen Sie die Zeugin Sylvie Martin auf.
+$GEN_035_01x05_03_00
+Rufen Sie die Zeugin Sylvie Martin auf.
+$GEN_035_01x05_03_02
+Bitte stellen Sie sich vor.
+$GEN_035_01x05_03_03
+Sylvie Martin.
+$GEN_035_01x05_03_04
+Ich möchte die Zeugin daran erinnern, dass ihre Beteiligung an diesem Fall nicht mit einer Anklage wegen des Angriffs auf Sergeant Le Vau in Verbindung steht.
+$GEN_035_01x05_03_05
+Das Zeugnis, das Sie ablegen werden, soll die Wahrheit, nur die Wahrheit und nichts als die Wahrheit enthalten.
+$GEN_035_01x05_03_06
+Ich weiß, ich will nur, dass dieser Schurke, dieser Provokateur, dieses... dieses widerliche, weibisch anmutende Ungeziefer eine gerechte Strafe erhält! Er ist an allem schuld!
+$GEN_035_02x05_04_QTitle
+Ich nehme an, dem Angeklagten ist der Patrouillenplan der Garde wohlbekannt?
+$GEN_035_02x05_04_00
+Ich nehme an, dem Angeklagten ist der Patrouillenplan der Garde bestens bekannt?
+$GEN_035_02x05_04_01
+Wem auf der Rue Cler ist das nicht bekannt? Jeder weiß, dass sie jeden Tag ihre Runde fünfzehn Minuten zu spät beginnen.
+$GEN_035_02x05_04_02
+Dem Opfer die Schuld zu geben, wird Ihnen nicht helfen.
+$GEN_035_02x05_04_03
+Warum erzählst du uns nicht, wie Sergeant Le Vau dir an den Hintern gefasst hat?
+$GEN_035_02x05_04_04
+Beantworten Sie die Frage.
+$GEN_035_02x05_04_05
+Sie kommen zu spät, schlingen ihr Frühstück hinunter und laufen dann den ganzen Tag dieselbe Strecke ab. Nicht einmal in die Gassen schauen sie. Gott bewahre, es gäbe dort etwas für sie zu tun.
+$GEN_035_02x05_04_06
+Der Angeklagte konnte also vorhersehen, wann Sergeant Le Vau sich in der Nähe des Marktes aufhalten würde?
+$GEN_035_02x05_04_07
+Ich hätte es sicher gekonnt, wenn ich es wirklich gewollt hätte – aber daran habe ich nie gedacht.
+$GEN_035_02x05_04_08
+Er lacht dem Richter ins Gesicht! Leg ihn übers Knie und verpass ihm eine Tracht Prügel!
+$GEN_035_02x05_04_09
+Ist das nicht ein bemerkenswerter Zufall? Der Angeklagte taucht wenige Minuten vor dem Sergeant als Frau verkleidet in der Rue Cler auf, und sofort bricht ein Aufruhr aus, dessen Opfer Le Vau wird…
+$GEN_035_02x05_04_10
+Hören Sie, ich weiß, wie das wirkt, aber Zufälle sehen doch immer verdächtig aus, nicht wahr?
+$GEN_035_02x05_04_11
+Der Richter ist doch kein Trottel, der auf deinen Unsinn hereinfällt.
+$GEN_035_03x06_05_QTitle
+Hat der Angeklagte an dem Überfall auf Sergeant Le Vau teilgenommen?
+$GEN_035_03x06_05_00
+Hat der Angeklagte an dem Überfall auf Sergeant Le Vau teilgenommen?
+$GEN_035_03x06_05_01
+Nein. Aber was für ein Angriff soll das überhaupt gewesen sein?
+$GEN_035_03x06_05_02
+Die Zeugen behaupten, der Angeklagte habe den Serganten in einen äußerst empfindlichen Bereich seines Körpers getreten. In genau jenen Körperteil, mit dem der Sergeant Sie angeblich… vergewaltigt hat.
+$GEN_035_03x06_05_03
+So ein Quatsch. Ich stand nur in der Nähe und hab mich köstlich amüsiert, aber getreten habe ich ihn nicht. Selbst wenn ich gewollt hätte, ich wäre gar nicht an ihn herangekommen – die alten Weiber haben ihn völlig belagert!
+$GEN_035_03x06_05_04
+Schaut ihn euch an, er lacht sogar noch.
+$GEN_035_01x04_06_QTitle
+Sollte das Kleid, das die Angeklagte noch immer trägt, etwa helfen…?
+$GEN_035_01x04_06_00
+Sollte das Kleid, das der Angeklagte noch immer trägt, ihm dabei helfen, den Aufruhr anzustacheln?
+$GEN_035_01x04_06_01
+Mir ging es überhaupt nicht um irgendwelche Unruhen. Ich wollte nur Martin und ihre Freundinnen aufziehen. Es war alles nur ein harmloser Spaß.
+$GEN_035_01x04_06_02
+Wegen Ihres, erlauben Sie mir, den Angeklagten zu zitieren, „Herumspielens“ hat ein Mensch gelitten.
+$GEN_035_01x04_06_03
+Wie soll ich denn schuld daran sein, dass sie einen unehrlichen Soldaten verprügelt haben?
+$GEN_035_01x03_07_QTitle
+Gab es Konflikte des Angeklagten mit der Nationalgarde?
+$GEN_035_01x03_07_00
+Gab es zwischen dem Angeklagten und der Nationalgarde irgendwelche Konflikte?
+$GEN_035_01x03_07_01
+Natürlich tut er das, nach dem, was er getan hat.
+$GEN_035_01x03_07_02
+Nein. Diese Jungen verteidigen mutig die Errungenschaften der Revolution. Macht weiter so!
+$GEN_035_01x03_07_03
+Er spottet schon wieder!
+$GEN_035_01x03_07_04
+Dennoch hat dies den Angeklagten nicht davon abgehalten, gegen einen der Gardisten einen Aufruhr zu entfachen.
+$GEN_035_01x03_07_05
+Er kann das Lachen in seinen Augen kaum verbergen!
+$GEN_035_01x03_07_06
+Das sehe ich.
+$GEN_035_01x03_07_07
+Ich habe keinen Aufruhr verursacht. Ich war nur im Kleid einkaufen, mehr gebe ich nicht zu. Für dieses Vergehen bin ich bereit, eine Geldstrafe zu zahlen.
+$GEN_035_WIT_00_A_QTitle
+Wie hat die Zeugin den Angeklagten kennengelernt, Cerdan?
+$GEN_035_WIT_00_A_00
+Wie hat die Zeugin den Angeklagten kennengelernt, Cerdan?
+$GEN_035_WIT_00_A_01
+Er hat mir ein Kleid genäht, zusammen mit diesem blinden Krüppel Morel. Ich habe 30 Francs dafür bezahlt, und am nächsten Tag fällt das Kleid an den Nähten auseinander! So eine Blamage habe ich noch nie erlebt…
+$GEN_035_WIT_00_A_02
+Habe ich das richtig verstanden, dass die Zeugin weder mit dem Angeklagten noch mit dessen Herrn auf gutem Fuß steht?
+$GEN_035_WIT_00_A_03
+Der Zeuge scheint zu behaupten, dass sie Betrüger sind.
+$GEN_035_WIT_00_A_04
+Allerdings. Diese Schneider sollen vom Pech verfolgt werden! Ich habe all meinen Freunden von ihrem Treiben erzählt und hoffe, dass diese talentlosen Scharlatane bald dichtmachen.
+$GEN_035_WIT_00_A_05
+Mein Herr hat dir doch gesagt, du dumme Kuh... Frau, dass wir das größer nähen müssen, sonst halten die Nähte nicht. Aber nein, du weißt es ja besser... Iss weniger, dann platzt dir die Kleidung nicht!
+$GEN_035_WIT_01_A_QTitle
+Wann hat die Zeugin den Angeklagten erkannt?
+$GEN_035_WIT_01_A_00
+Wann hat die Zeugin den Angeklagten erkannt?
+$GEN_035_WIT_01_A_01
+Ich erkannte diesen verlausten Lakai sofort, als die Wachen ihm die Perücke vom Kopf schlugen!
+$GEN_035_WIT_01_A_02
+Das beweist nur, wie sorgfältig sich der Angeklagte getarnt hat. Er muss diese Tat schon seit einiger Zeit vorbereitet haben.
+$GEN_035_WIT_01_A_03
+Schuldig? Sie sagen, er ist schuldig!
+$GEN_035_WIT_01_A_04
+Ist dem Zeugen zuvor an dieser angeblichen Frau nichts Merkwürdiges aufgefallen?
+$GEN_035_WIT_01_A_05
+Sehen Sie doch, Monsieur, wie jung er ist, kein Anzeichen eines Bartes. Er trug ein Kleid, eine Perücke, Rouge… Wie hätte ich ihn erkennen sollen?
+$GEN_035_WIT_01_B_QTitle
+Warum sollte die Zeugin den Anschuldigungen des Angeklagten Glauben schenken…?
+$GEN_035_WIT_01_B_00
+Warum sollte die Zeugin den Anschuldigungen des Angeklagten bezüglich des Verhaltens von Sergeant Le Vau Glauben schenken?
+$GEN_035_WIT_01_B_01
+Nun, mein Herr… Ich habe schon viel über die zudringlichen Hände von Sergeant Le Vau gehört. Die Leute reden, wissen Sie? Also habe ich mich als empfindsame Frau den anderen angeschlossen, die ihn beschimpften, und kaum zeigte er sich –
+$GEN_035_WIT_01_B_02
+Einspruch! Sie erfindet das alles!
+$GEN_035_WIT_01_B_03
+Hat die Zeugin Beweise für das Fehlverhalten des Soldaten?
+$GEN_035_WIT_01_B_04
+Beweise… Nun, ich kann Ihnen erzählen, was er mir damals auf der Parkbank versprochen hat!
+$GEN_035_WIT_01_B_05
+Ruhe im Gerichtssaal! Alle beruhigen sich! Und ich kann mich nicht erinnern, Ihnen das Wort erteilt zu haben, Sergeant Le Vau!
+$GEN_035_KEY_01
+Anstiftung zum Aufruhr
+$GEN_035_KEY_02
+Markt
+$GEN_035_KEY_03
+Angriff auf einen Wachmann
+$GEN_035_KEY_04
+Als Frau verkleidet
+$GEN_035_KEY_05
+Die Aussage der Händlerin
+$GEN_035_KEY_06
+Falsche Anschuldigung
+$GEN_035_LastDialog_00
+Komm schon, das war doch nur ein dummer Scherz! Ein Scherz!
+$GEN_035_UNIQUE_QUESTION_00
+Wie erklärt sich das Erscheinungsbild von Bürger Cerdan?
+$GEN_035_UNIQUE_ANSWER_CORRECT_00_00
+Er hatte einen Streit mit einigen Händlern.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Er hat eine Wette verloren.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Er wollte sich vor den Leuten verstecken, bei denen er Schulden hatte.
+$GEN_035_UNIQUE_QUESTION_01
+Wessen beschuldigte Bürgerin Martin den Angeklagten?
+$GEN_035_UNIQUE_ANSWER_CORRECT_01_00
+In Unfähigkeit und Betrug.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Trunkenheit.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Schlägt ihren Sohn.
+$GEN_035_UNIQUE_QUESTION_02
+Während der Lehrling des Schneiders als Frau verkleidet war, was rief er?
+$GEN_035_UNIQUE_ANSWER_CORRECT_02_00
+Dass Feldwebel Le Vau ihn vergewaltigt hat.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Dass Bürgerin Martin ihn bestohlen hat.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Dass die Wache in der Nähe einen Händler getötet hat.

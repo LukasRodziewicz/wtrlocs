@@ -1,0 +1,176 @@
+$GEN_033_DOC_01_HEADER
+Compilado por: Nathan d'Essiraf
+$GEN_033_DOC_01_00
+Marcel Bloch, guarda do tribunal de 26 anos vindo do norte da França. Pouco antes do início da Revolução, serviu como artilheiro na 2ª seção da 2ª companhia, 2º batalhão do regimento do Coronel-General. Após 1789, mudou-se para Paris e <a name="2" class="hidden">ingressou na guarda do tribunal</a>, onde permanece até hoje. Seus superiores e colegas o descrevem como um funcionário exemplar e dedicado.
+$GEN_033_DOC_01_01
+Durante algumas bebidas em uma estalagem local, Marcel admitiu que, durante todos esses anos, ele vinha <a name="3" class="hidden">mentindo</a> sobre ter servido no exército. O serviço militar era um pré-requisito para ingressar na guarda do tribunal. Uma investigação minuciosa levou à suspeita de que Bloch <a name="4" class="hidden">falsificou os documentos</a> que comprovavam sua experiência militar.
+$GEN_033_DOC_01_02
+Os investigadores localizaram dois <a name="5" class="hidden">artilheiros da seção</a> na qual Marcel Bloch afirmava servir, Pierre Richard e Michel Montand. Ambos negaram lembrar de Bloch, e foi obtido um documento de seu antigo comandante.
+$GEN_033_DOC_02_00
+Declaração do Coronel Chabert:
+$GEN_033_DOC_02_01
+Declaro, por meio desta, que o nome Marcel Bloch não consta nos registros da 2ª meia-brigada. Tampouco consegui localizá-lo nos arquivos do regimento do Coronel-General anterior à Revolução. Ressalto que tais registros estão incompletos — parte da documentação foi destruída por soldados no início da Revolução, em razão do apoio do corpo de infantaria ao movimento. Coronel J. C. Chabert; Comandante da 2ª meia-brigada
+$GEN_033_OnStart_00
+Peço que registre em ata que o Tribunal já reconhece a identidade do réu, Marcel Bloch, oficial de justiça deste mesmo tribunal. Cidadão, você compreende as acusações que lhe foram feitas?
+$GEN_033_OnStart_01
+Não, monsieur le juge...
+$GEN_033_OnStart_02
+Você foi acusado de falsificar um documento que comprovava sua experiência militar. Alegou ter servido no 2º batalhão do regimento do Coronel-General anterior à Revolução, atualmente conhecido como a 2ª meia-brigada. Segundo a acusação, mentiu para ser contratado pelo tribunal.
+$GEN_033_OnStart_03
+Bloch poderia ter lucrado muito mais com seu crime.
+$GEN_033_OnStart_04
+Vou levar isso em consideração. Como o réu se declara?
+$GEN_033_OnStart_05
+Monsieur le juge, juro que não enganei ninguém!
+$GEN_033_OnStart_06
+Receio que as provas e as circunstâncias digam o contrário.
+$GEN_033_OnStart_07
+Teve medo de ir para a guerra, mas continuou cobiçando medalhas.
+$GEN_033_OnGuilty_00
+Condeno Marcel Bloch à guilhotina! Levem o condenado.
+$GEN_033_OnGuilty_01
+Coitado.
+$GEN_033_OnGuilty_02
+Faça dele um exemplo para todos que ousarem tentar o mesmo.
+$GEN_033_OnNotGuilty_00
+O veredito para Marcel Bloch é... inocente! Levem o réu daqui.
+$GEN_033_OnNotGuilty_01
+Espero que ao menos o afastem do tribunal. Caso contrário, ele vai rir da sua cara.
+$GEN_033_OnNotGuilty_02
+Ele teve sorte.
+$GEN_033_04x06_00_QTitle
+Como você conseguiu seu certificado de serviço no regimento?
+$GEN_033_04x06_00_00
+Como você obteve seu certificado de serviço no regimento?
+$GEN_033_04x06_00_01
+Foi emitido pelo coronel Chabert, meu comandante.
+$GEN_033_04x06_00_02
+Solicitamos um depoimento ao coronel Chabert. Ele afirma que seu nome não consta nos registros da unidade. Devemos acreditar que a mesma pessoa lhe entregou um documento dizendo o contrário?
+$GEN_033_04x06_00_03
+Também há os depoimentos dos soldados comuns.
+$GEN_033_04x06_00_04
+Eu não entendo nada disso. Servi nessa unidade por mais de um ano. O próprio coronel assinou meus papéis!
+$GEN_033_04x06_00_05
+O que você não entende? Você falsificou a assinatura dele, só isso.
+$GEN_033_04x06_00_06
+Joguem esse canalha aos soldados. Que eles mesmos o julguem!
+$GEN_033_01x03_01_QTitle
+Você serviu na artilharia?
+$GEN_033_01x03_01_00
+Você serviu na artilharia?
+$GEN_033_01x03_01_01
+Sim, na famosa “dupla dois” — a 2ª seção da 2ª companhia.
+$GEN_033_01x03_01_02
+Que canhão a seção operava?
+$GEN_033_01x03_01_03
+Bem... dois canhões de oito libras.
+$GEN_033_01x03_01_04
+Interessante. Essas seções usavam, e ainda usam, canhões de seis libras.
+$GEN_033_01x03_01_05
+Tem certeza? Acho que me esqueci, faz tanto tempo. Ser guarda é realmente importante para mim–
+$GEN_033_01x03_01_06
+Você se orgulha tanto do seu passado na artilharia, mas não consegue nem lembrar qual canhão operava?
+$GEN_033_01x03_01_07
+Eu me lembro bem delas. Eu conseguiria carregá-la de olhos fechados! Só cometi um erro.
+$GEN_033_01x03_01_08
+Ele nem saberia de que lado colocar a bala.
+$GEN_033_03x05_02_QTitle
+Diga-nos os nomes de alguns de seus companheiros daquela época.
+$GEN_033_03x05_02_00
+Diga-nos os nomes de alguns de seus companheiros daquela época.
+$GEN_033_03x05_02_01
+Charles Clary e Jean Gayet, meus amigos mais próximos da seção.
+$GEN_033_03x05_02_02
+Eles poderiam confirmar a autenticidade dos seus documentos?
+$GEN_033_03x05_02_03
+Claro que poderiam, mas não sei onde encontrá-los agora. Todos vieram do norte da França, assim como eu.
+$GEN_033_03x05_02_04
+Você não mantém contato? Mas acabou de dizer que eram seus amigos mais próximos.
+$GEN_033_03x05_02_05
+Cada um seguiu seu caminho. Isso é comum entre soldados.
+$GEN_033_03x05_02_06
+Conseguimos entrar em contato com seus outros compatriotas, Pierre Richard e Michel Montand. Esses nomes lhe são familiares?
+$GEN_033_03x05_02_07
+Não, não me lembro deles.
+$GEN_033_03x05_02_08
+É mesmo? Eles serviram no mesmo 2º batalhão que você. E, veja só, também não se lembram de você. Estão aqui, em Paris.
+$GEN_033_03x05_02_09
+Isso não prova nada, milhares de pessoas passam pelo regimento. Eu não era próximo de todos os meus companheiros. Nem sequer tive a chance de conversar com alguns deles. Você precisa acreditar em mim...
+$GEN_033_01x02_03_QTitle
+Por que você decidiu se juntar à guarda do tribunal?
+$GEN_033_01x02_03_00
+Por que decidiu se juntar à guarda do tribunal?
+$GEN_033_01x02_03_01
+Vim para Paris esperando encontrar uma vida melhor depois que a Revolução começou. Ser guarda do tribunal parecia bem pago e... as pessoas respeitam o uniforme, monsieur le juge.
+$GEN_033_01x02_03_02
+Isso era importante para você? Usar um uniforme?
+$GEN_033_01x02_03_03
+Meu pai lutou na guerra. Ele costumava dizer que o uniforme é muito mais do que apenas uma roupa.
+$GEN_033_01x02_03_04
+Ele queria que você servisse no Exército?
+$GEN_033_01x02_03_05
+Ele não disse isso, mas também nunca foi de muitas palavras. Ele guardava os botões do uniforme, sabe, aqueles dourados e brilhantes, na gaveta.
+$GEN_033_01x02_03_06
+Você enganou o tribunal parisiense para realizar um sonho de infância?
+$GEN_033_01x02_03_07
+Eu simplesmente entrei para o exército e arrisquei minha vida. Meu pai estava certo — você se sente diferente usando um uniforme, mais honrado.
+$GEN_033_01x02_03_08
+Provavelmente não o quiseram no exército, então ele começou a inventar histórias.
+$GEN_033_03x04_04_QTitle
+Você falsificou um certificado de serviço militar?
+$GEN_033_03x04_04_00
+Você falsificou um certificado de serviço militar?
+$GEN_033_03x04_04_01
+Não, e nem saberia como fazer isso. Não entendo nada de falsificação.
+$GEN_033_03x04_04_02
+Na taverna, você disse algo bem diferente.
+$GEN_033_03x04_04_03
+Eu estava bêbado e fui tolo. Só estava brincando, tentando impressionar as pessoas. Não pensei nas possíveis consequências...
+$GEN_033_03x04_04_04
+Como um orgulhoso artilheiro, não deveria apreciar esse tipo de brincadeira.
+$GEN_033_03x04_04_05
+Às vezes, quando bebo demais, falo sem pensar — e, naquela vez, eu já tinha bebido muito.
+$GEN_033_03x04_04_06
+Imagino que você realmente não pensou muito naquela hora, já que estava contando isso para alguém que trabalha no tribunal.
+$GEN_033_03x04_04_07
+Monsieur le juge, peço desculpas humildemente, mas será mesmo preciso punir alguém pelo que diz depois de uns bons copos?
+$GEN_033_03x04_04_08
+A consciência dele não lhe dava paz, e no fim acabou contando tudo.
+$GEN_033_KEY_01
+Serviço de artilharia
+$GEN_033_KEY_02
+Ingressar na guarda do tribunal
+$GEN_033_KEY_03
+Mentira
+$GEN_033_KEY_04
+Documentos falsificados
+$GEN_033_KEY_05
+Camaradas
+$GEN_033_KEY_06
+Depoimento do coronel
+$GEN_033_LastDialog_00
+Fui um fiel servidor da Revolução. Lutei por justiça. Por que me rejeitam?
+$GEN_033_UNIQUE_QUESTION_00
+Que canhão era operado pela seção do réu?
+$GEN_033_UNIQUE_ANSWER_CORRECT_00_00
+Canhões de seis libras.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Canhões de oito libras.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Canhões de dez libras.
+$GEN_033_UNIQUE_QUESTION_01
+Por que o réu se alistou no Exército?
+$GEN_033_UNIQUE_ANSWER_CORRECT_01_00
+Ele queria vestir um uniforme.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ele queria deixar sua aldeia para fugir da fome.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ele queria impressionar sua amada.
+$GEN_033_UNIQUE_QUESTION_02
+A quem Bloch confessou sua falta de experiência militar?
+$GEN_033_UNIQUE_ANSWER_CORRECT_02_00
+Um colega.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Uma prostituta.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Um estranho.

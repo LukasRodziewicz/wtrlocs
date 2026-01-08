@@ -1,0 +1,434 @@
+$TUTORIAL_1_01_TITLE
+Lettres et documents
+$TUTORIAL_1_01_MAIN
+Faites un glisser-déposer pour classer les documents. Cliquez dessus pour les consulter.
+$TUTORIAL_1_02_TITLE
+Carnet
+$TUTORIAL_1_02_MAIN
+Examinez les informations détaillées sur les événements en cours, actions et personnages.
+$TUTORIAL_1_03_TITLE
+Verdict
+$TUTORIAL_1_03_MAIN
+Considérez les conséquences et décidez du sort de la personne jugée.
+$TUTORIAL_1_04_TITLE
+Événements
+$TUTORIAL_1_04_MAIN
+Réagissez aux événements. L'inaction peut entraîner de lourdes conséquences.
+$TUTORIAL_1_05_TITLE
+Protocole et rapport
+$TUTORIAL_1_05_MAIN
+Prenez connaissance des détails de l'affaire et complétez les dossiers.
+$TUTORIAL_1_06_TITLE
+Points d'influence
+$TUTORIAL_1_06_MAIN
+Les Points d'influence sont la devise principale du jeu. Utilisez-les à bon escient.
+$TUTORIAL_1_07_TITLE
+Hiérarchie
+$TUTORIAL_1_07_MAIN
+Jaugez l'équilibre actuel des forces à Paris et votre position dans cet échiquier.
+$TUTORIAL_1_08_TITLE
+Options
+$TUTORIAL_1_08_MAIN
+Modifiez les paramètres du jeu.
+$TUTORIAL_1_09_TITLE
+Public
+$TUTORIAL_1_09_MAIN
+Le public impatient s'agitera parfois lors de l'interrogatoire. Une foule en colère peut même déclencher une émeute.
+$TUTORIAL_1_10_TITLE
+Jury
+$TUTORIAL_1_10_MAIN
+Aller systématiquement à l'encontre de l'opinion du jury peut avoir de graves conséquences.
+$TUTORIAL_1_11_TITLE
+Suite du procès
+$TUTORIAL_1_11_MAIN
+Après un procès, cliquez pour passer à l'étape suivante.
+$TUTORIAL_1_12_TITLE
+Protocole
+$TUTORIAL_1_12_MAIN
+Examinez les actes du procès.
+$TUTORIAL_1_13_TITLE
+Rapport
+$TUTORIAL_1_13_MAIN
+Remplissez le rapport en répondant aux questions du procureur. De mauvaises réponses risquent de nuire à votre réputation et vous coûter votre poste de juge !
+$TUTORIAL_1_14_TITLE
+Faveur
+$TUTORIAL_1_14_MAIN
+Plus vous ferez d'erreurs, plus vous risquerez de perdre votre poste. Par la suite, vous pourrez débloquer la possibilité d'influencer la décision du procureur à propos du rapport.
+$TUTORIAL_1_15_TITLE
+Dossiers
+$TUTORIAL_1_15_MAIN
+Examinez les accusations et les faits. Vous débloquerez ainsi plus facilement les questions à poser au prévenu.
+$TUTORIAL_1_16_TITLE
+Liens à trouver
+$TUTORIAL_1_16_MAIN
+Reliez correctement les éléments du dossier entre eux pour débloquer les questions à poser au prévenu. Choisissez une piste d'enquête et reliez-la à la bonne catégorie.
+$TUTORIAL_1_17_TITLE
+Chances
+$TUTORIAL_1_17_MAIN
+Vous avez le droit à quelques erreurs lorsque vous reliez les pistes d'enquête aux catégories. Si vous en faites trop, tout se verrouillera.
+$TUTORIAL_1_19_TITLE
+Questions
+$TUTORIAL_1_19_MAIN
+Recueillez des informations et influencez l'attitude du jury en interrogeant le prévenu.
+$TUTORIAL_1_20_TITLE
+Débloquer des questions
+$TUTORIAL_1_20_MAIN
+Pour poser des questions, vous devez d'abord les débloquer dans le menu permettant de faire des liens dans l'enquête.
+$TUTORIAL_1_21_TITLE
+Effet d'une question
+$TUTORIAL_1_21_MAIN
+Rester dans les bonnes grâces du jury vous permet de savoir dans quelle direction ils vont pencher lorsque vous aurez posé la question.
+$TUTORIAL_1_22_TITLE
+Punition
+$TUTORIAL_1_22_MAIN
+Prenez la décision la plus importante : punir ou acquitter le prévenu.
+$TUTORIAL_1_23_TITLE
+Signature
+$TUTORIAL_1_23_MAIN
+Signez le document pour légitimer votre verdict.
+$TUTORIAL_1_24_TITLE
+Renseignements
+$TUTORIAL_1_24_MAIN
+Voyez comment un verdict affectera les factions. Si vous êtes en mauvais termes avec l'une d'elles, vous ne recevrez plus d'informations de sa part.
+$TUTORIAL_1_25_TITLE
+Prendre une décision
+$TUTORIAL_1_25_MAIN
+Chaque action peut nécessiter un nombre de Points d'influence différent et avoir des chances de réussite différentes. Étudiez-les avec attention !
+$TUTORIAL_1_26_TITLE
+Relations
+$TUTORIAL_1_26_MAIN
+De mauvaises relations avec les factions peuvent entraîner de mauvaises conséquences pour vous (comme enflammer davantage Paris).
+$TUTORIAL_1_27_TITLE
+Réputation
+$TUTORIAL_1_27_MAIN
+Votre réputation se répercute sur tous les aspects du jeu : les factions, la famille, l'attitude du public, l'agitation des sections, et même votre potentiel de persuasion.
+$TUTORIAL_1_28_TITLE
+Points d'influence
+$TUTORIAL_1_28_MAIN
+Vous disposez d'un nombre limité de Points d'influence par jour. Cette quantité pourra augmenter par la suite.
+$TUTORIAL_1_29_TITLE
+Notifications
+$TUTORIAL_1_29_MAIN
+Faites particulièrement attention à la façon dont votre influence et vos relations avec les factions évoluent.
+$TUTORIAL_1_30_TITLE
+Modificateurs généraux
+$TUTORIAL_1_30_MAIN
+Certaines de vos décisions et changements peuvent parfois déclencher des Modificateurs généraux. Ces facteurs affectent vos relations, votre réputation et votre influence. Vous pouvez les consulter dans le Carnet.
+$TUTORIAL_1_31_TITLE
+Pièges
+$TUTORIAL_1_31_MAIN
+Certains dossiers peuvent contenir des pièges. Étudiez-les minutieusement pour identifier les fausses pistes.
+$TUTORIAL_1_32_TITLE
+Affaires rapides
+$TUTORIAL_1_32_MAIN
+Réfléchissez bien avant de décider du sort d'un prévenu. Vous ne pourrez pas revenir sur vos décisions. Faites attention notamment à ses soutiens.
+$TUTORIAL_1_33_TITLE
+Jugement attendu
+$TUTORIAL_1_33_MAIN
+Découvrez quel est le verdict attendu par les factions et par vos proches.
+$TUTORIAL_1_34_TITLE
+Complots
+$TUTORIAL_1_34_MAIN
+Les complots sont des conflits complexes qui vous opposent à une autre personnalité politique. Les perdre pourraient s'avérer désastreux pour vous.
+$TUTORIAL_1_35_TITLE
+L'aristocratie a été révélée
+$TUTORIAL_1_35_MAIN
+Vous devez désormais entretenir des relations avec un autre groupe politique parisien.
+$TUTORIAL_2_01_TITLE
+Actions familiales
+$TUTORIAL_2_01_MAIN
+Une fois de retour chez vous, à vous de décider comment vous passerez le reste de la journée.
+$TUTORIAL_2_02_TITLE
+Actions diverses
+$TUTORIAL_2_02_MAIN
+Chaque action affectera les autres membres de la famille et leur attitude à votre égard.
+$TUTORIAL_2_03_TITLE
+Attitude des personnages
+$TUTORIAL_2_03_MAIN
+Par son attitude envers vous, chaque personnage peut vous apporter ou vous priver de certains bonus, par ex. de réputation ou dans vos relations avec les factions.
+$TUTORIAL_2_04_TITLE
+Plus jeune fils
+$TUTORIAL_2_04_MAIN
+Votre fils benjamin est spécial : sa bonne attitude vous rend un peu plus aimable aux yeux des autres membres de la famille. Prenez bien soin de lui.
+$TUTORIAL_2_05_TITLE
+Action verrouillée
+$TUTORIAL_2_05_MAIN
+Après certains événements importants, une action pourrait vous être imposée. Vous serez alors victime de vos propres choix.
+$TUTORIAL_3_01_TITLE
+Sections de Paris
+$TUTORIAL_3_01_MAIN
+Chaque section peut être contrôlée par vous-même ou un ennemi, ou rester neutre.
+$TUTORIAL_3_02_TITLE
+Sections contrôlées
+$TUTORIAL_3_02_MAIN
+Chaque section acquise vous apporte un Point d'influence supplémentaire. Sur votre territoire, les chances de réussite des missions sont plus élevées.
+$TUTORIAL_3_03_TITLE
+Sections verrouillées
+$TUTORIAL_3_03_MAIN
+Certaines sections sont verrouillées. Débloquez-les à l'aide d'un agent pour y exécuter des actions.
+$TUTORIAL_3_04_TITLE
+Sections ennemies
+$TUTORIAL_3_04_MAIN
+Les agents ennemis peuvent également s'emparer de vos sections. Les actions que vous exécutez dans les sections ennemies ont moins de chances de réussir.
+$TUTORIAL_3_05_TITLE
+Émeutes
+$TUTORIAL_3_05_MAIN
+Les émeutes font obstacle aux agents (sauf à votre colosse) dans une section et vous empêchent d'y gagner des Points d'influence. Tant qu'une émeute n'est pas réprimée, sa section est neutre et elle risque de rapidement se propager.
+$TUTORIAL_3_06_TITLE
+Rapport
+$TUTORIAL_3_06_MAIN
+Le rapport récapitule les événements se déroulant sur la carte.
+$TUTORIAL_3_07_TITLE
+Rapport – raccourci
+$TUTORIAL_3_07_MAIN
+Cliquez sur l'icône Rapport pour le rouvrir.
+$TUTORIAL_3_08_TITLE
+Agents du joueur
+$TUTORIAL_3_08_MAIN
+Envoyez des agents en mission, gérez les foules incontrôlables et participez aux luttes d'influence de la ville. Cliquez sur un agent, puis choisissez l'action qu'il doit exécuter.
+$TUTORIAL_3_09_TITLE
+Déplacements
+$TUTORIAL_3_09_MAIN
+Vous pouvez déplacer vos agents librement dans vos sections. Cependant, dans les sections neutres ou hostiles, ils ne peuvent se déplacer que d'une case par jour.
+$TUTORIAL_3_10_TITLE
+Colosse
+$TUTORIAL_3_10_MAIN
+Le colosse est doué pour se battre, gagner de la réputation et gérer les foules incontrôlables.
+$TUTORIAL_3_11_TITLE
+Diplomate
+$TUTORIAL_3_11_MAIN
+Prend le contrôle de sections, soigne vos relations avec les factions et étouffe l'échauffement dans les sections. Plus faible en duel contre les agents ennemis.
+$TUTORIAL_3_12_TITLE
+Espion
+$TUTORIAL_3_12_MAIN
+Espionne l'ennemi, leurre vos opposants et aide le Diplomate à contrôler le territoire.
+$TUTORIAL_3_13_TITLE
+Muscadins
+$TUTORIAL_3_13_MAIN
+Ils se mêleront de vos affaires, ainsi qu'à celles de vos ennemis, en agitant les foules dans les sections.
+$TUTORIAL_3_14_TITLE
+Patrouille de la Garde révolutionnaire
+$TUTORIAL_3_14_MAIN
+La patrouille peut emprisonner votre agent ou capturer un agent ennemi.
+$TUTORIAL_3_15_TITLE
+Débloquer une section
+$TUTORIAL_3_15_MAIN
+Pour déverrouiller une section, vous devez d'abord l'explorer. Vous pouvez débloquer uniquement les sections adjacentes à celles déjà déverrouillées.
+$TUTORIAL_3_16_TITLE
+Section principale
+$TUTORIAL_3_16_MAIN
+Votre section principale est la plus importante. Ses bâtiments vous permettent d'influencer le reste du jeu. Protégez-la à tout prix. Si elle échappe à votre contrôle, vous perdrez la partie.
+$TUTORIAL_3_17_TITLE
+Échauffement
+$TUTORIAL_3_17_MAIN
+L'échauffement de la foule représente l'agitation des sections en réaction aux événements du jeu. Un niveau trop élevé peut conduire à des émeutes destructrices.
+$TUTORIAL_3_18_TITLE
+Agents ennemis
+$TUTORIAL_3_18_MAIN
+Les agents ennemis disputeront votre territoire à vos agents. Ils peuvent s'emparer des sections neutres ou des vôtres.
+$TUTORIAL_3_19_TITLE
+Combat
+$TUTORIAL_3_19_MAIN
+Lorsque deux agents antagonistes se rencontrent dans une section, un combat s'engage. Gardez à l'esprit qu'un diplomate a peu de chances contre une brute.
+$TUTORIAL_3_20_TITLE
+Agent blessé
+$TUTORIAL_3_20_MAIN
+En cas de défaite au combat, votre agent écope d'une blessure. Il peut continuer à se déplacer, mais ne peut plus exécuter d'action.
+$TUTORIAL_3_21_TITLE
+Construction d'un monument
+$TUTORIAL_3_21_MAIN
+Plus vous contrôlerez de sections, plus le monument se construit rapidement. À chaque étape de construction effectuée, vous pourrez prendre le contrôle d'un autre bâtiment proche du monument.
+$TUTORIAL_3_22_TITLE
+Bâtiments
+$TUTORIAL_3_22_MAIN
+Chaque bâtiment vous permet d'effectuer une action différente. Prenez le contrôle de ceux qui correspondent à votre style de jeu.
+$TUTORIAL_3_23_TITLE
+Garnison
+$TUTORIAL_3_23_MAIN
+La garnison génère des renforts à chaque tour. Plus votre réputation sera élevée, plus nombreuses seront les troupes à se rallier à vous.
+$TUTORIAL_3_24_TITLE
+Déserteurs
+$TUTORIAL_3_24_MAIN
+Dans chaque section de Paris, des gens essaient de fuir la cruauté de l'ennemi. Protégez-les aussi longtemps que possible, votre réputation en dépend.
+$TUTORIAL_3_25_TITLE
+Attaque ennemie
+$TUTORIAL_3_25_MAIN
+Vous avez été victime d'une attaque. Si la section n'abrite aucune troupe, vous perdrez automatiquement.
+$TUTORIAL_3_26_TITLE
+Choisissez votre général
+$TUTORIAL_3_26_MAIN
+Vous pouvez mener la bataille vous-même ou accepter l'aide du Général Dumas (auquel cas la bataille se déroulera de manière automatique).
+$TUTORIAL_3_27_TITLE
+Généraux ennemis
+$TUTORIAL_3_27_MAIN
+Chacun des généraux ennemis privilégie certaines tactiques et ruses.
+$TUTORIAL_3_28_TITLE
+Vue des Statistiques.
+$TUTORIAL_3_28_MAIN
+Activer et désactiver la vue du nombre de réfugiés restant dans les quartiers.
+$TUTORIAL_4_01_TITLE
+Guillotine
+$TUTORIAL_4_01_MAIN
+Attirez-vous les faveurs de la foule en faisant un discours, ou passez directement à l'exécution.
+$TUTORIAL_4_02_TITLE
+Discours
+$TUTORIAL_4_02_MAIN
+N'oubliez pas qu'une fois votre discours commencé, vous ne pourrez plus faire machine arrière. Un discours mal réfléchi ou maladroit ne vous vaudra que les rires de la foule.
+$TUTORIAL_4_03_TITLE
+Attitude de la foule
+$TUTORIAL_4_03_MAIN
+Selon votre réputation, la foule sera plus ou moins agressive.
+$TUTORIAL_4_05_TITLE
+Gardes
+$TUTORIAL_4_05_MAIN
+Appeler les gardes peut vous sauver des griffes d'une foule en colère.
+$TUTORIAL_5_01_TITLE
+Jeu de dés
+$TUTORIAL_5_01_MAIN
+Marquez le plus de points possible pour vaincre votre adversaire. Une défaite peut ternir votre réputation.
+$TUTORIAL_5_02_TITLE
+Manches
+$TUTORIAL_5_02_MAIN
+La partie dure cinq manches et le vainqueur est le joueur ayant marqué le plus de points au total.
+$TUTORIAL_5_03_TITLE
+Lancer des dés
+$TUTORIAL_5_03_MAIN
+Lancez les six dés et espérez que la fortune vous fasse marquer des points !
+$TUTORIAL_5_04_TITLE
+Relancer
+$TUTORIAL_5_04_MAIN
+Si le score obtenu ne vous plaît pas, vous pouvez relancer les dés trois fois durant toute la partie.
+$TUTORIAL_5_05_TITLE
+Payer une tournée
+$TUTORIAL_5_05_MAIN
+Rendez votre adversaire ivre pour réduire ses chances de victoire. Boire vous permet aussi de relancer davantage les dés.
+$TUTORIAL_5_06_TITLE
+Score
+$TUTORIAL_5_06_MAIN
+Vous marquez des points quand vous obtenez des dés de valeur égale. Plus la face est élevée, meilleur est votre score.
+$TUTORIAL_5_07_TITLE
+Score détaillé
+$TUTORIAL_5_07_MAIN
+Consultez le score détaillé et visez le score spécial !
+$TUTORIAL_5_08_TITLE
+Faveur
+$TUTORIAL_5_08_MAIN
+Les faveurs vous permettent d'obliger le procureur à signer votre rapport au tribunal, ce qui peut sauver votre poste si vous vous acquittez mal de vos obligations.
+$TUTORIAL_6_01_TITLE
+Votre position
+$TUTORIAL_6_01_MAIN
+Plus votre position dans l'arène politique parisienne est élevée, meilleur est votre bonus de réputation.
+$TUTORIAL_6_07_TITLE
+Jauge de progression
+$TUTORIAL_6_07_MAIN
+Menez à bien des actions pour remplir la jauge de progression. Si vous en exécutez trop peu, vous perdrez. Si vous en accomplissez plus qu'il n'est nécessaire, vous recevrez un bonus.
+$TUTORIAL_6_08_TITLE
+Blocs d'actions
+$TUTORIAL_6_08_MAIN
+Les actions de complot sont affichées en bloc. Cliquez dessus pour en lire la description, puis prenez une décision ou persuadez quelqu'un.
+$TUTORIAL_6_09_TITLE
+Persuasion
+$TUTORIAL_6_09_MAIN
+Pour qu'une action réussisse, vous devez persuader le nombre de personnes requis. Vous pouvez également charger votre diplomate de le faire. Notez bien que cela n'est possible que tant que le bloc d'actions est actif.
+$TUTORIAL_6_10_TITLE
+Méthodes de résolution
+$TUTORIAL_6_10_MAIN
+Certaines actions vous demandent de prendre des décisions tactiques. Chacune d'elles a ses propres chances de réussite.
+$TUTORIAL_6_11_TITLE
+Attente des résultats
+$TUTORIAL_6_11_MAIN
+La résolution des complots prend plusieurs jours. Certains blocs d'actions donnent des résultats visibles le lendemain.
+$TUTORIAL_6_12_TITLE
+Contre-attaque
+$TUTORIAL_6_12_MAIN
+De temps à autre, votre ennemi risque de ruiner vos plans par une contre-attaque. Si cela arrive, vous devrez réagir rapidement et rationnellement.
+$TUTORIAL_6_13_TITLE
+Décision cruciale
+$TUTORIAL_6_13_MAIN
+Vous devrez parfois prendre une décision qui affectera tout le reste de l'intrigue. Réfléchissez-y attentivement.
+$TUTORIAL_7_01_TITLE
+Batailles
+$TUTORIAL_7_01_MAIN
+Les batailles sont des combats dynamiques entre deux armées. Elles mêlent infanterie et artillerie.
+$TUTORIAL_7_02_TITLE
+Ennemis
+$TUTORIAL_7_02_MAIN
+Les divers généraux ennemis peuvent préférer des tactiques différentes.
+$TUTORIAL_7_05_TITLE
+Choix des tactiques
+$TUTORIAL_7_05_MAIN
+Chaque tactique définit la façon dont est menée l'attaque ou la défense et influe sur les bonus mineurs dont bénéficient vos troupes au combat.
+$TUTORIAL_7_06_TITLE
+Médecin
+$TUTORIAL_7_06_MAIN
+Le médecin traite vos troupes blessées et leur octroie un bonus de points de vie. N'oubliez pas que si les troupes meurent, le médecin périra avec elles !
+$TUTORIAL_7_08_TITLE
+Fuyards
+$TUTORIAL_7_08_MAIN
+À chaque tour d'une bataille, un certain nombre de gens fuient la section. Plus vous tiendrez longtemps, plus vous sauverez de gens.
+$TUTORIAL_7_09_TITLE
+Équilibre des forces
+$TUTORIAL_7_09_MAIN
+L'équilibre des forces peut changer au cours d'une bataille. Gardez à l'œil les différentes jauges et tirez parti des informations pour choisir la bonne tactique.
+$TUTORIAL_7_10_TITLE
+Logisticien
+$TUTORIAL_7_10_MAIN
+Ce pion augmente le nombre de personnes qui fuient une section donnée. S'il meurt lors de la bataille, vous devrez en recruter un autre dans la section principale.
+$TUTORIAL_7_11_TITLE
+Modificateurs
+$TUTORIAL_7_11_MAIN
+Une bataille peut parfois être marquée par des circonstances spéciales qui affectent vos troupes ou la vitesse de fuite des civils.
+$TUTORIAL_8_01_TITLE
+Choix stratégiques
+$TUTORIAL_8_01_MAIN
+Avant de persuader quelqu'un, vous pouvez tenter différentes approches pour chaque sujet de conversation. Après avoir employé tous les types d'émotions, vous recevrez une évaluation de vos choix.
+$TUTORIAL_8_02_TITLE
+Attitude des personnages
+$TUTORIAL_8_02_MAIN
+Chaque attitude s'accompagne d'un ensemble d'émotions qui peuvent avoir un impact positif ou négatif. Connaissez leurs effets pour manipuler les Parisiens comme il vous convient.
+$TUTORIAL_8_03_TITLE
+Attitude des personnages
+$TUTORIAL_8_03_MAIN
+Plus votre réputation est élevée, plus vous connaîtrez les attitudes des autres locuteurs. Vous pouvez aussi dépenser des Points d'influence pour les découvrir.
+$TUTORIAL_9_01_TITLE
+Jugements rendus en mode de survie
+$TUTORIAL_9_01_MAIN
+Il existe 2 types de jugements en mode de survie : la peine de mort ou l'acquittement.
+$TUTORIAL_9_02_TITLE
+Points gagnés et jour
+$TUTORIAL_9_02_MAIN
+Nombre de points collectés et numéro du jour.
+$TUTORIAL_9_03_TITLE
+Avis du jury
+$TUTORIAL_9_03_MAIN
+En mode de survie, 60 points sont attribués pour un jugement conforme à l'avis du jury.
+$TUTORIAL_9_04_TITLE
+Notation du rapport
+$TUTORIAL_9_04_MAIN
+En mode de survie, le rapport est noté sur une échelle de 0 à 100. Le nombre de points obtenus est calculé en fonction du nombre de questions et des bonnes réponses.
+$TUTORIAL_9_05_TITLE
+Bonus pour le rapport
+$TUTORIAL_9_05_MAIN
+50 points supplémentaires sont accordés pour avoir rempli correctement le rapport entier.
+$TUTORIAL_9_06_TITLE
+Maintien de l'ordre
+$TUTORIAL_9_06_MAIN
+25 points supplémentaires sont accordés pour le maintien de l'ordre dans la Salle.
+$TUTORIAL_9_07_TITLE
+Notation des questions débloquées
+$TUTORIAL_9_07_MAIN
+En mode de survie, les questions débloquées sont notées sur une échelle de 0 à 100. Le nombre de points obtenus est calculé en fonction du nombre de questions débloquées et de toutes les questions.
+$TUTORIAL_9_08_TITLE
+Bonus pour les questions
+$TUTORIAL_9_08_MAIN
+50 points supplémentaires sont accordés pour avoir débloqué toutes les questions.
+$TUTORIAL_9_09_TITLE
+Impact du verdict
+$TUTORIAL_9_09_MAIN
+En mode de survie, les indicateurs indiquent si le verdict va améliorer, aggraver ou s’il ne va pas modifier vos relations avec la fraction.
+$TUTORIAL_DISPLAY_MESSAGE
+Afficher les tutoriels ?
+$TUTORIAL_DISPLAY_YES
+Oui
+$TUTORIAL_DISPLAY_NO
+Non

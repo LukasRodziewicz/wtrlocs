@@ -1,0 +1,121 @@
+$CUT_042_DISC_CARON_001_CARON
+Dlaczego do cholery mnie porwano i przywiązano do krzesła?!
+$CUT_042_DISC_CARON_002_CARON
+Jest wiele dziwek w Paryżu, które się z wami chętnie w ten sposób pobawią. Odpowiesz, sędzio?
+$CUT_042_DISC_CARON_003_CARON
+A może po prostu chcesz żebym patrzyła jak zabawiacie się ze sobą, świntuchu?
+$CUT_042_DISC_CARON_004_CARON
+Nic, hmm?
+$CUT_042_DISC_CARON_005_CARON
+Słyszałam, że ktoś próbował cię ukatrupić.
+$CUT_042_DISC_CARON_006_CARON
+A teraz sam awansowałeś do elity morderców, książąt gilotyny.
+$CUT_042_DISC_CARON_007_CARON
+Winszuję.
+$CUT_042_DISC_CARON_008_JUDGE
+Nie kandydowałem do tego klubu, ale też nie trafiłem tam przypadkiem.
+$CUT_042_DISC_CARON_009_CARON
+Tak, domyślam się, że trzeba mieć to coś.
+$CUT_042_DISC_CARON_010_CARON
+To męskie szaleństwo w oczach. 
+$CUT_042_DISC_CARON_011_JUDGE
+Musisz podpisać ten dokument.
+$CUT_042_DISC_CARON_012_CARON
+Opowiadanie? Są jakieś ciekawe zwroty akcji?
+$CUT_042_DISC_CARON_013_JUDGE
+Zdrada i szpiegostwo na rzecz Austrii - twoje i mera Paryża.
+$CUT_042_DISC_CARON_014_CARON
+Od razu da się wyczuć przesadzony dramatyzm…
+$CUT_042_DISC_CARON_015_CARON
+Nie sprzeda się.
+
+$CUT_042_DISC_CARON_010_JUDGE_AGGR
+W dokumencie udowadniam, że jesteś sprzedajną dziwką. Całkiem niezły ze mnie pisarz. Twoje zdrowie jest tutaj na szali.
+$CUT_042_DISC_CARON_011_JUDGE_MANI
+Twój podpis znajdzie się na tym dokumencie – w ten czy inny sposób.
+$CUT_042_DISC_CARON_012_JUDGE_JOKE
+Jestem świetnym wydawcą – sprzedam każde opowiadanie. Podpiszmy ten dokument. Chłopcy chcieliby już zejść z warty.
+$CUT_042_DISC_CARON_013_JUDGE_HUMI
+Mimo wszystko wolałbym nie wzbudzać uśmiechu. Ten dokument to urzędnicza konieczność. Szkoda, że musimy go podpisywać w takich okolicznościach.
+$CUT_042_DISC_CARON_014_CARON_DOUB
+Jakoś nie czuję potrzeby składania podpisu gdziekolwiek.
+$CUT_042_DISC_CARON_015_CARON_IRRI
+Być może ironia nie była wystarczająco klarowna – nie mam zamiaru podpisywać żadnego dokumentu. Wsadźcie go sobie gdzieś. Nie możecie mnie zmusić.
+$CUT_042_DISC_CARON_016_CARON_AGGR
+Mam w dupie, co musisz, a czego nie chcesz. Nie boję się was. Stoi za mną pokaźna część ludu Paryża.
+
+$CUT_042_DISC_CARON_017_JUDGE_AGGR
+Muskadyni cię sprzedali zdradzając nam twój romans z córką mera. Pache, kiedy już się o wszystkim dowie, najchętniej zobaczyłby cię martwą i zapewne dopnie swego. Nikt nie stoi po twojej stronie…
+$CUT_042_DISC_CARON_018_JUDGE_MANI
+Widzisz tu kogoś ze swoich? Ktokolwiek przybył z pomocą? Tylko ja mogę ci pomóc.
+$CUT_042_DISC_CARON_019_JUDGE_JOKE
+Tylko jeden podpis dzieli cię od wolności. Co ci szkodzi? Dokument bardziej narazi mera, a nie ciebie.
+$CUT_042_DISC_CARON_020_JUDGE_HUMI
+W życiu ciągle wykonujemy polecenia większych od siebie. Nie chcesz stawać im na drodze – rozdepczą cię i nawet nie poczują.
+
+$CUT_042_DISC_CARON_021_JUDGE_AGGR
+Widzisz tych gwardzistów? Mogę cię z nimi zostawić na godzinę. Najpewniej cię pobiją lub zgwałcą. Czy to właśnie to musi się wydarzyć, żebyś przejrzała na oczy?!
+$CUT_042_DISC_CARON_022_JUDGE_MANI
+Kochasz ją, prawda - Marie? Daję ci zatem wybór: gilotyna dla niej czy jej ojca? Dla mnie to obojętne, które z nich umrze – byle ta rodzina zapłaciła za zamach na mnie…
+$CUT_042_DISC_CARON_023_JUDGE_JOKE
+Twój podpis i tak znajdzie się na zeznaniu. Nawet jeśli pióro będzie trzymała twoja martwa dłoń – papier ma to gdzieś.
+$CUT_042_DISC_CARON_024_JUDGE_HUMI
+Mer cię zabije jeśli twój romans z jego córką wyjdzie na jaw i zagrozi jego reputacji. Mnie też próbował unieszkodliwić za narażenie jego interesów.
+
+$CUT_042_DISC_CARON_025_JUDGE_AGGR
+To twoja jedyna szansa na rozpoczęcie nowego życia. Poza tym pokojem czeka cię śmierć. Grozi ci on nawet w tym pomieszczeniu. A moja cierpliwość się kończy.
+$CUT_042_DISC_CARON_026_JUDGE_MANI
+Wyjedź z Paryża, uciekaj przed zawieruchą, która cię nie oszczędzi, nie zważy na twoje uczucie do Marie. Ameryka to dobre miejsce. Cień rewolucji cię tam nie dosięgnie. Podpisz dokument i uciekaj, póki jeszcze możesz.
+$CUT_042_DISC_CARON_027_JUDGE_JOKE
+Poczuj się jakbyś właśnie dostała drugie życie. Kup sobie jakiś wystawny ciuch i wiej z tego miasta, które nie jest dla ciebie i nigdy nie będzie po twojej stronie.
+$CUT_042_DISC_CARON_028_JUDGE_HUMI
+Kiedy sprawa przycichnie, będzie, jakby nic się nie wydarzyło. Czasem trzeba jakiś czas przecierpieć, żeby uratować życie. Żeby uratować miłość.
+$CUT_042_DISC_CARON_029_CARON_INTR
+A zagwarantujesz, że nie przytrafi mi się w tym nowym miejscu tajemniczy wypadek, podczas którego nabiję się na czyjś sztylet albo wpadnę przypadkiem pod koła powozu?
+$CUT_042_DISC_CARON_030_CARON_DOUB
+Czy wyglądam ci na osobę, która w pierwszej kolejności dba o życie czy opinię u obcych ludzi?
+$CUT_042_DISC_CARON_031_CARON_IRRI
+…
+$CUT_042_DISC_CARON_032_CARON_AGGR
+Nie jestem sprzedajną dziwką. Źle mnie oceniasz, mam swoją dumę.
+
+$CUT_042_DISC_CARON_033_JUDGE_AGGR
+Dla mieszkańców Paryża będziesz kolejną anomalią. Będą niczym uliczne psy – rozszarpią cię dla samej przyjemności rozdzierania mięsa i ścięgien.
+$CUT_042_DISC_CARON_034_JUDGE_MANI
+Ameryka to dobre miejsce dla ciebie, to nowy świat, jeszcze nieukształtowany. Tutaj ludzie rozumieją wolność jedynie w obrębie swojej wyobraźni.
+$CUT_042_DISC_CARON_035_JUDGE_JOKE
+Liczysz, że Francja zaakceptuje kobiety będące w takiej relacji jak ty i Marie? Rewolucja zmieniła we Francji formę rządów, ale ludzie pozostali tacy sami – nie walczyli o wolność dla czegoś, czego nie pojmują.
+$CUT_042_DISC_CARON_036_JUDGE_HUMI
+Francja nie zaproponuje tobie i Marie wolności, której potrzebujecie. Możesz się złościć i buntować, ale zapłacisz swoim życiem. A na gilotynie usłyszysz, jak ludzie wołają: „Dziwadło”.
+$CUT_042_DISC_CARON_037_CARON_INTR
+Może faktycznie lepiej będzie, jeśli wyjadę z tego kłamliwego kraju, który udaje, że rewolucja przywiodła nas do zbawienia?
+$CUT_042_DISC_CARON_038_CARON_DOUB
+A ty niby jesteś sprawiedliwy i wyrozumiały? Rozumiesz nas? Francja jest mężczyzną, nigdy nie poczujesz naszego bólu. Jesteście potworami… wszyscy.
+$CUT_042_DISC_CARON_039_CARON_IRRI
+Wszyscy jesteście tacy sami. Ta odrobina wolności, która mi pozostała, pozwoli mi się sprzeciwić wszystkiemu, czego chcesz, mężczyzno.
+$CUT_042_DISC_CARON_040_CARON_AGGR
+Rewolucja to po prostu zmiana warty. Reszta się podporządkuje albo zostanie zepchnięta w przepaść. Nie godzę się na to, nie mogę dłużej!
+
+$CUT_042_DISC_CARON_TOPIC_01
+Czego potrzebujemy?
+$CUT_042_DISC_CARON_TOPIC_02
+Dlaczego powinna to podpisać [RACJONALNIE]
+$CUT_042_DISC_CARON_TOPIC_03
+Dlaczego powinna to podpisać [GROŹBA]
+$CUT_042_DISC_CARON_TOPIC_04
+Co Ona z tego będzie miała?
+$CUT_042_DISC_CARON_TOPIC_05
+Francja nie zaakceptuje związku dwóch kobiet.
+
+$CUT_042_DISC_CARON_DECISION_01
+Torturuj
+$CUT_042_DISC_CARON_EVE_DECISION_01
+Wszyscy wolelibyśmy żeby Béatrice okazała się rozsądniejsza. Jednak przez swój upór stoi na drodze twojej zemsty. Okazując jej litość, sam ryzykujesz, że Pache znowu kiedyś może zaatakować. Ciebie lub twoją rodzinę. To miasto nie wybacza słabości.
+
+Tortury złamały upór dziewczyny i podpisała zeznanie. Miejmy nadzieję, że Danton nie będzie równie oporny jak ona.
+$CUT_042_DISC_CARON_DECISION_02
+Opłać ucieczkę z domowych oszczędności.
+$CUT_042_DISC_CARON_EVE_DECISION_02
+Powinieneś o tym pomyśleć od razu. Powinieneś wiedzieć. Ludzie tacy jak ona nie wierzą w obietnice, bo zbyt wiele złamano w ich życiu. Nie boją się gróźb, bo już dawno nauczyli się żyć w ciągłym strachu i niepewności jutra. Pieniądz - to jedyne w co wierzy Béatrice. W pieniądz i nowe życie.
+
+Podpisała zeznanie. Masz to, co chciałeś.Tylko co na to twoja rodzina? Jak zareagują na uszczuplenie domowego budżetu?

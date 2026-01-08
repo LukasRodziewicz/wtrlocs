@@ -1,0 +1,384 @@
+#LANGUAGE
+Dil
+#POLISH
+Lehçe
+#ENGLISH
+İngilizce
+#INTRO_TEXT
+Fransa. 18. yüzyılın sonları…
+#INTRO_HOME
+Geç saatler. Hakimin evi.
+#START
+Başla
+#OPTIONS
+Ayarlar
+#QUIT
+Çıkış
+#CONFIRM
+Onayla
+#BACK
+İptal Et
+#RETURN
+Geri dön
+#MENU
+Menü
+#ACCEPT
+Kabul Et
+#REJECT
+Reddet
+#CLOSE
+Kapat
+#GAMEOVER
+Son
+#TCUT_GAME_OVER_PEOPLE
+Seni adaletin önüne kalabalık çıkardı.
+#TCUT_GAME_OVER_QUIZ
+Görevden alındınız.
+#TCUT_GAME_OVER_CUT_028
+Savaşta öldünüz.
+#TCUT_GAME_OVER_SECTION
+Ana Bölüm’ü kaybettikten sonra öldürüldünüz.
+#TCUT_GAME_OVER_ARISTOCRATS
+Suikastı aristokrasi gerçekleştirdi.
+#IGNORE
+Yok say
+#RESET
+Değişiklikleri İptal Et
+#START_NEW_GAME
+Başla
+#LOAD_GAME
+Günü Yükle
+#CONTINUE
+Devam Et
+#END
+Bitir
+#EVENTS
+Olaylar
+#EMPTY
+Boş
+#SUCCESS
+Başarı
+#DOUBTFUL_SUCCESS
+Şüpheli Başarı
+#FAILURE
+Başarısızlık
+#EFFECTS
+Etkiler:
+#CHANGE_PROFILE
+Profili Değiştir
+#GUILTY
+İdam cezası
+#NOTGUILTY
+Beraat
+#PRISON
+Hapishane
+#SIGNATURE
+İmza
+#JUDGE_SIGNATURE
+Yargıcın İmzası
+#PROLOGUE
+Prolog
+#LOAD_BUTTON_SURVIVAL_TEST
+Gün: {0}
+#LOAD_BUTTON_TEXT
+Perde: {0} Gün: {1}
+#ENTER_PROFILE_NAME
+Profil adını girin...
+#GROUPS_SUPPORT
+İlişkiler
+#REVOLUTIONISTS
+Devrimciler
+#REVOLUTIONISTS_NOTIFICATION
+Devrimciler: {0}
+#PEOPLE
+Halk Tabakası
+#PEOPLE_NOTIFICATION
+Halk: {0}
+#ARISTOCRATS
+Aristokratlar
+#ARISTOCRATS_NOTIFICATION
+Aristokratlar: {0}
+#JUSTICE
+Adalet
+#INFLUENCE
+Nüfuz Puanları
+#INFLUENCE_NOTIFICATION
+Nüfuz Puanı: {0}
+#RESOURCES
+Kaynaklar
+#RESOURCES_AVAILABLE
+Sahip olunan
+#RESOURCES_INCOME
+Günlük Gelir
+#DETAILS
+Ayrıntılar
+#RESOLUTION
+Çözünürlük
+#FULL_SCREEN
+Tam ekran
+#ENABLED
+Açık
+#DISABLED
+Kapalı
+#TUTORIAL_LABEL
+Eğitim
+#GAME_OVER
+SON
+#END_THX
+Oynadığınız için teşekkürler!
+#LOST
+KAYBETTİNİZ!
+#GAMEOVER_KING_VERDICT
+Çete sizi linç etti.
+#GAMEOVER_PEOPLE_SUPPORT
+Halk sizi linç etti.
+#DAY
+Gün
+#Letter
+Mektup
+#SPEECH_ATTITUDE_REVEAL
+Ortaya çıkar
+#SPEECH_BONUS_INFLUENCE
+Nüfuz Puanları
+#SPEECH_ATTITUDE_AGGR
+Saldırgan
+#SPEECH_ATTITUDE_IRRI
+Sinirli
+#SPEECH_ATTITUDE_DOUB
+Şüpheli
+#SPEECH_ATTITUDE_INTR
+İlgisini çekti
+#SPEECH_ATTITUDE_SATI
+Memnun
+#SUPPORT_VERY_LOW
+Çok düşük
+#SUPPORT_LOW
+Düşük
+#SUPPORT_MEDIUM
+Orta
+#SUPPORT_HIGH
+Yüksek
+#SUPPORT_VERY_HIGH
+Çok yüksek
+#JURY
+Jüri
+$INTERLUDIUM_GAMBLINGDEN
+Kumarhaneye Git
+$INTERLUDIUM_HOME
+Eve Dön
+$INTERLUDIUM_MAP
+Haritayı Göster
+$YES
+Evet.
+$NO
+Hayır.
+#REPUTATION
+İtibar
+#REPUTATION_NOTIFICATION
+İtibar: {0}
+#REPUTATION_PENDING_TOOLTIP
+Bugünkü değişiklik:
+$GUILTY_VERDICT_SON
+Suçlu
+$GUILTY_VERDICT
+İdam Cezası
+$PRISON_VERDICT
+Hapishane
+$NOTGUILTY_VERDICT
+Beraat
+$NOTGUILTY_VERDICT_SON
+Suçsuz
+#RELATIONSHIP_PLACEHOLDER
+Ayaklanma
+#RELATIONSHIP_TIER_1
+İstikrar
+#RELATIONSHIP_TIER_2
+Ayaklanma
+#RELATIONSHIP_TIER_3
+Düşmanlık
+#RELATIONSHIP_TIER_4
+Nefret
+#NOTIFICATIONS_TITLE
+Bildirimler
+#MAP_NOTIFICATION_TOOLTIP_ACTIVE
+Faaliyet raporu
+#STRATEGY_TIER_1
+Trajik bir şekilde
+#STRATEGY_TIER_2
+Pervasızca
+#STRATEGY_TIER_3
+Doğru
+#STRATEGY_TIER_4
+Mükemmel
+#STRATEGY_REMAINING_ATTEMPTS_TOOLTIP
+Deneme sayısı İtibar'a bağlıdır
+#STRATEGY_TITLE
+Stratejinizi hazırlayın
+#STRATEGY_CHANCE_TITLE
+Başarı şansı
+#STRATEGY_REMAINING_ATTEMPTS
+Kalan deneme hakkı: {0}
+$STRATEGY_SIDEBAR_HEADER
+Tutum
+$STRATEGY_EMOTIONS_HEADER
+Yaklaşım seçin
+$STRATEGY_TOPICS_HEADER
+Konu
+#STRATEGY_VERY_GOOD_TOOLTIP
+Kusursuz bir argüman
+#STRATEGY_GOOD_TOOLTIP
+Güçlü bir argüman
+#STRATEGY_VERY_BAD_TOOLTIP
+Çok zayıf bir argüman
+#STRATEGY_BAD_TOOLTIP
+Zayıf bir argüman
+#STRATEGY_TOPIC_ATTITUDE_LOCKED_NOT_ENOUGHT
+Düşmanınızın tutumunu ortaya çıkarmak için yeterli IP'niz yok ({0} IP)
+#STRATEGY_TOPIC_ATTITUDE_LOCKED
+Düşmanınızın bu konuya bakışını öğrenmek için tıklayın ({0} IP)
+#STRATEGY_TOPIC_ATTITUDE_LOCKED_PERMA
+Düşmanınızın tutumunu ortaya çıkaramadınız.
+#STRATEGY_TOPIC_ATTITUDE_01
+Çekilmiş
+#STRATEGY_TOPIC_ATTITUDE_02
+Dik kafalı
+#STRATEGY_TOPIC_ATTITUDE_03
+Fikrim yok
+#STRATEGY_TOPIC_ATTITUDE_04
+Ekli
+#STRATEGY_TOPIC_ATTITUDE_05
+Aşırı hassas
+#STRATEGY_TOPIC_ATTITUDE_06
+Kaygısız
+#TAKEN_DISTRICTS_NOTEBOOK
+Ele geçirilen bölgeler
+#INFLUENCE_NOTEBOOK
+Nüfuz
+#DISCTRICTS_NOTEBOOK
+Bölümler
+#DEFAULT_ANSWER
+…
+#TOO_FEW_INFLUENCE_POINTS
+Yeterli Etki Puanı yok
+$PROSECUTOR_QUEST_FAILD
+Tinville’e karşı gelmek.
+#CASE_BASIC_MALE_QUESTION_00
+Sanık suçu itiraf etti mi?
+#CASE_BASIC_MALE_QUESTION_01
+Eylemi karşı-devrimci nitelik taşıyor muydu?
+#CASE_BASIC_FEMALE_QUESTION_00
+Sanık suçu itiraf etti mi?
+#CASE_BASIC_FEMALE_QUESTION_01
+Onun eylemi karşı-devrimci nitelikte miydi?
+$MAGIC_BUTTON_LOCKED
+Engellendi
+$MAGIC_BUTTON_NEXT
+İleri
+$MAGIC_BUTTON_END_DAY
+Günü bitir
+#NOTEBOOK_PERSON_DETAIL_VIEW_EMPTY
+Bir kişi seçerek onunla ilgili ayrıntılı bilgileri görüntüleyin.
+#NOTEBOOK_GLOBAL_MODS_VIEW_EMPTY
+Şu anda durumunuzu etkileyen herhangi bir Küresel Değiştirici yok.
+#NOTEBOOK_EVENT_HISTORY_VIEW_EMPTY
+Burada, her bir olay sırasında aldığınız kararlarla ilgili bilgileri bulabilirsiniz.
+#ACT1
+Perde I
+#ACT2
+Bölüm II
+#ACT3
+Perde III
+#ACT1_DESC
+Özgürlük
+#ACT2_DESC
+Eşitlik
+#ACT3_DESC
+Kardeşlik
+#EPILOGUE
+Epilog
+$WAY_HEADER
+Nereye gitmek istersiniz?
+$WAY_MAP
+Haritaya Git
+$WAY_DEN
+Kumarhaneye Git
+$WAY_HOME
+Eve Git
+#UNKNOWN_PERSON
+Bilinmeyen karakter
+#DEAD_PERSON
+Ölü karakter
+#SPEECH_EMO_AGGRESSION
+Saldırganlık
+#SPEECH_EMO_MANIPULATION
+Manipülasyon
+#SPEECH_EMO_HUMILITY
+Alçakgönüllülük
+#SPEECH_EMO_JOKE
+Dikkatsizlik
+#WAITING_FOR_RESULT
+Eylem ertesi gün gerçekleştirilecek.
+$SPECIAL_VERDICT
+Olağanüstü Hüküm
+#FAMILY_CARD_MOCK
+Oğlunuzun çizimi
+#HIERARCHY
+Hiyerarşi
+#INTRIGUE
+Entrika
+#AUTOSAVING_LABEL
+Kaydediliyor...
+#CUTSCENE_NOT_WATCHED
+İzlenmedi
+#CUTSCENE_SKIP_LABEL
+Atla
+#COURT_END_TITLE
+Mahkemede dava yok.
+#COURT_END_MAIN
+Tinville ortadan kayboldu, Jüri gelmedi. Herkes Paris’in karanlık köşelerinde saklanacak bir yer arıyor. Şehir kuşatma altındayken yargılayacak dava beklemeyin.
+$LEADERBOARD_TITLE
+Lider Tablosu
+$LEADERBOARD_TOP_BUTTON
+Oyuncular Zirvesi
+$LEADERBOARD_PLAYER_POS_BUTTON
+Puanlarım
+$PLAYER_NAME_LABEL
+Oyuncu
+$POINTS_LABEL
+Puanlar
+$DAYS_LABEL
+Günler
+$LEADERBOARD_CONNECTION_ERROR_MSG
+Sonuçlar indirilemedi
+$LEADERBOARD_FINAL_SCORE_LABEL
+Nihai skor
+$LEADERBOARD_INPUT_NAME_LABEL
+Profil adını girin...
+$CREATE_PROFILE_SELECT_HEADER
+Mod seçin
+$PROFILE_TYPE_SURVIVAL
+Hayatta Kalma
+$PROFILE_TYPE_STORY
+Kurgu
+$PROFILE_TYPE_SURVIVAL_DESC
+Hayatta Kalma, ana oyunun mahkeme duruşmalarına odaklanan bir çeşididir; burada amaç, ana karakterin hayatta kalmasını sağlamak ve mümkün olduğunca uzun süre görevde kalmaktır.
+$PROFILE_TYPE_STORY_DESC
+Bu, kurgu modu için bir açıklamadır.
+$LEADERBOARD_OUT_OF_TOP100_INFO
+En İyi 100 sıralamasına girmek için yeterli puan toplayamadınız.
+$SURVIVAL_SCORE_HEADER
+Puanlama
+$SURVIVAL_SCORE_UNLOCKED_QUESTIONS_LABEL
+Açılmış sorular
+$SURVIVAL_SCORE_CORRECT_ANSWERS_LABEL
+Raporun doğruluğu
+$SURVIVAL_SCORE_SUM_LABEL
+Toplam:
+$SURVIVAL_SCORE_ALL_QUESTIONS_BONUS_TOOLTIP
+Tüm soruları açmanın bonusu
+$SURVIVAL_SCORE_ALL_ANSWERS_TOOLTIP
+Raporun tüm doğru cevapları için bonus
+$SURVIVAL_SCORE_MATCH_JURY_TOOLTIP
+Jüriyle uyum sağlama bonusu
+$SURVIVAL_SCORE_AUDIENCE_TOOLTIP
+Salonda düzeni sağlama bonusu

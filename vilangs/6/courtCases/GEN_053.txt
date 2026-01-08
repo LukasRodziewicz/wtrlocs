@@ -1,0 +1,324 @@
+$GEN_053_DOC_01_HEADER
+Compilado por: Charles Étienne
+$GEN_053_DOC_01_00
+	Lucas Adnet, artesano y <a name="1" class="hidden">padre soltero de dos hijas</a>, ha sido acusado de asesinato y profanación de un cadáver. El caso llegó a nuestra atención gracias a la denuncia de un conciudadano. Durante una <a name="2" class="hidden">recepción vespertina</a>, el doctor en ciencias médicas Jean-Joël Gaumont quedó maravillado por la vajilla finamente elaborada. El médico pidió a los anfitriones la dirección del fabricante y lo visitó al día siguiente <a name="3" class="hidden">en su taller</a>.
+$GEN_053_DOC_01_01
+	Al examinar las muestras de <a name="4" class="hidden">cubiertos con mangos de hueso</a> de Lucas Adnet, advirtió un cuchillo de carnicero con un mango largo que, para su inquietud, el médico reconoció de inmediato como hueso humano.
+$GEN_053_DOC_01_02
+	Gaumont se despidió de Adnet y se dirigió a la estación más cercana de la Guardia Nacional para presentar una denuncia. Durante el registro, encontraron huesos guardados <a name="5" class="hidden">en un cobertizo</a>, clasificados por tamaño en cajas de madera. El hedor era casi insoportable, incluso para los oficiales más curtidos…
+$GEN_053_DOC_01_03
+	La única información descubierta durante la investigación fue que Adnet compró los huesos en un <a name="7" class="hidden">mercado callejero</a> a la comerciante Claudine Plouffe. Los médicos traídos del hospital Salpêtrière prepararon un informe de inspección ósea que se adjunta al expediente del caso.
+$GEN_053_DOC_02_00
+El informe elaborado por los médicos del hospital Salpêtrière:
+$GEN_053_DOC_02_01
+	Los hallazgos cerca del taller de Lucas Adnet nos han perturbado profundamente. Descubrimos huesos tanto humanos como de animales. A pesar de nuestros mayores esfuerzos, no logramos encontrar un esqueleto completo. Sin embargo, las cajas contenían <a name="9" class="hidden">dos mandíbulas</a>, dos fragmentos de pelvis, varias tibias y fémures de distintos tamaños. Estimamos que pertenecían a cuatro o cinco personas…
+$GEN_053_OnStart_00
+¿Es usted el artesano, Lucas Adnet?
+$GEN_053_OnStart_01
+En efecto, señor.
+$GEN_053_OnStart_02
+El término correcto es “monsieur le juge”.
+$GEN_053_OnStart_03
+Disculpe. Sí, monsieur le juge, llevo al menos diez años fabricando cubiertos.
+$GEN_053_OnStart_04
+¿Sabía usted que había huesos humanos en su taller?
+$GEN_053_OnStart_05
+En absoluto, monsieur le juge. Solo buscaba calidad. No soy médico.
+$GEN_053_OnStart_06
+¿A qué se refiere con calidad?
+$GEN_053_OnStart_07
+Que los huesos no son frágiles ni están agrietados.
+$GEN_053_OnStart_08
+¡Apuesto a que sabe usar el cuchillo para que los huesos queden intactos!
+$GEN_053_OnStart_09
+Debe estrangularlos o ahogarlos.
+$GEN_053_OnStart_10
+Entonces, ¿debe saber qué huesos se adaptan mejor a sus necesidades?
+$GEN_053_OnStart_11
+Algunos sirven, otros no, monsieur le juge. Normalmente compro huesos de vaca en el mercado. Los de cerdo son peores, pero los de jabalí también valen.
+$GEN_053_OnGuilty_00
+Las pruebas no dejan lugar a dudas. Lucas Adnet, le condeno a la guillotina.
+$GEN_053_OnGuilty_01
+Ese castigo es demasiado indulgente.
+$GEN_053_OnGuilty_02
+¡Echad sus huesos a los cerdos!
+$GEN_053_OnPrison_00
+Ciudadano Adnet, le declaro culpable de asesinato y profanación de cadáveres. Pasará el resto de su vida en prisión.
+$GEN_053_OnPrison_01
+Él seguirá viviendo, mientras los nobles usan a sus víctimas para remover la sopa.
+$GEN_053_OnNotGuilty_00
+Ciudadano Adnet, la próxima vez que vea huesos sospechosos en el mercado, haga una denuncia. Por ahora, puede marcharse.
+$GEN_053_OnNotGuilty_01
+¿Por qué? Nada de lo que hemos escuchado hoy juega a su favor.
+$GEN_053_OnNotGuilty_02
+El juez ha perdido la razón.
+$GEN_053_OnNotGuilty_03
+Oye, artesano, será mejor que no pises la calle, porque no nos engañas.
+$GEN_053_02x04_00_QTitle
+Haga pasar al doctor Gaumont.
+$GEN_053_02x04_00_00
+Haga pasar al doctor Gaumont.
+$GEN_053_01x09_01_QTitle
+Ciudadano Adnet, ¿cría usted solo a dos hijas?
+$GEN_053_01x09_01_00
+Ciudadano Adnet, ¿cría usted solo a sus dos hijas?
+$GEN_053_01x09_01_01
+Sí, lo soy, pero a veces mi hermana me ayuda.
+$GEN_053_01x09_01_02
+¿Qué le sucedió a su madre?
+$GEN_053_01x09_01_03
+Se ahogó cuando mi hija menor tenía solo dos años.
+$GEN_053_01x09_01_04
+¿Dónde la enterraron?
+$GEN_053_01x09_01_05
+En ningún sitio, nunca se halló el cuerpo.
+$GEN_053_01x09_01_06
+¡La usó para hacer tenedores!
+$GEN_053_01x09_01_07
+¿Las niñas asisten a la escuela?
+$GEN_053_01x09_01_08
+No confío en las escuelas, no enseñan nada útil.
+$GEN_053_01x09_01_09
+¿Qué te parece aprender a leer y escribir?
+$GEN_053_01x09_01_10
+Todo lo útil para la vida puedo enseñárselo yo mismo.
+$GEN_053_08x05_02_QTitle
+¿Guardaste todos los huesos en el cobertizo?
+$GEN_053_08x05_02_00
+¿Guardaste todos los huesos en el cobertizo?
+$GEN_053_08x05_02_01
+La mayoría de ellos.
+$GEN_053_08x05_02_02
+¿Por qué precisamente allí?
+$GEN_053_08x05_02_03
+Los huesos se guardan mejor donde los gusanos puedan devorar la carne y la grasa. Se cuelan entre las tablas y ponen sus huevos, y luego sus larvas banquetean. Los gusanos son auténticos glotones.
+$GEN_053_08x05_02_04
+¿A ellos?
+$GEN_053_08x05_02_05
+Moscas.
+$GEN_053_08x05_02_06
+¡Demente!
+$GEN_053_08x05_02_07
+¿Entonces afirma que los huesos que compró aún estaban cubiertos de carne?
+$GEN_053_08x05_02_08
+Por lo general, sí. Las frescas son más fáciles de tallar. Son suaves, delicadas...
+$GEN_053_08x05_02_09
+¿No le molestaba el hedor?
+$GEN_053_08x05_02_10
+Al contrario, el olor encarna tanto la vida como la muerte. A veces, por las noches, me acerco al cobertizo...
+$GEN_053_08x05_02_11
+¿Para oler la carne podrida?
+$GEN_053_08x05_02_12
+La descomposición es un proceso fascinante. Los insectos depositan huevos en la carne muerta, de los que luego nacen y crecen nuevas vidas. La vida no termina, sino que se transforma en más vida. Me gusta observarlo.
+$GEN_053_08x05_02_13
+¿Esto le… da placer?
+$GEN_053_08x05_02_14
+Sí. Supongo que así se siente un jardinero al contemplar sus flores.
+$GEN_053_07x09_03_QTitle
+¿Afirma que compró mandíbulas humanas en un mercado callejero?
+$GEN_053_07x09_03_00
+¿Afirma que compró mandíbulas humanas en un mercado callejero?
+$GEN_053_07x09_03_01
+Sí, monsieur le juge, yo...
+$GEN_053_07x09_03_02
+Te daré la oportunidad de ser sincero conmigo. ¿De quién eran los huesos que guardabas en tu cobertizo y de dónde los sacaste?
+$GEN_053_07x09_03_03
+…
+$GEN_053_07x09_03_04
+¿Perdón?
+$GEN_053_07x09_03_05
+Los compré en un mercado callejero de la Sexta Sección.
+$GEN_053_07x09_03_06
+¡Mentiroso!
+$GEN_053_07x09_03_07
+¿Cómo almacenan los huesos los vendedores?
+$GEN_053_07x09_03_08
+En cajas de madera, como las que se usan para verduras.
+$GEN_053_07x09_03_09
+Son bastante pequeños. Una mandíbula humana entera no cabría dentro de uno.
+$GEN_053_07x09_03_10
+…
+$GEN_053_07x09_03_11
+¿Aún no admite su culpa?
+$GEN_053_07x09_03_12
+Todo lo que siempre quise fue crear cubertería hermosa. Hermosa, y con alma.
+$GEN_053_03x06_04_QTitle
+¿Cuántos huesos usas cada mes?
+$GEN_053_03x06_04_00
+¿Cuántos huesos usas cada mes?
+$GEN_053_03x06_04_01
+No tengo prisa, y este trabajo requiere su tiempo. Antes de empezar a tallar, hay que preparar el material. Primero remojo los huesos en leche agria para que…
+$GEN_053_03x06_04_02
+Responda a la pregunta.
+$GEN_053_03x06_04_03
+Parte de lo que encontraste en el cobertizo probablemente no sirva de mucho; las grietas no se ven a simple vista. Creo que esos materiales no durarían más de un mes.
+$GEN_053_03x06_04_04
+¿Y después?
+$GEN_053_03x06_04_05
+Después de gastar casi la mitad de lo que tengo, tendría que ir al mercado a por más.
+$GEN_053_03x06_04_06
+¡O al cementerio con una pala!
+$GEN_053_03x06_04_07
+¿Aún se niega a confesar? ¿Mataba usted a personas o buscaba huesos en las catacumbas?
+$GEN_053_03x06_04_08
+Los huesos viejos no son el mejor material para tallar.
+$GEN_053_03x06_04_09
+¿Debemos considerar esto como una confesión de asesinato?
+$GEN_053_03x06_04_10
+¿De qué está hablando? ¡Yo no he matado a nadie! Compré huesos en el mercado.
+$GEN_053_04x07_05_QTitle
+¿A quién le vende su mercancía?
+$GEN_053_04x07_05_00
+¿A quién le vende su mercancía?
+$GEN_053_04x07_05_01
+Por lo general, para ciudadanos acomodados. Mi trabajo es de una precisión exquisita. Incluso me atrevería a llamarlo arte.
+$GEN_053_04x07_05_02
+¡Al diablo con ese tipo de arte!
+$GEN_053_04x07_05_03
+Además, los mangos de hueso causan impresión.
+$GEN_053_04x07_05_04
+Detente antes de que vomite sobre los de la primera fila…
+$GEN_053_04x07_05_05
+¿Vendes mucho de tus productos?
+$GEN_053_04x07_05_06
+Bastante. Lo suficiente para vivir sin miedo. Una vez vendí un juego completo a un diplomático inglés. Los huesos que trabajo quedan tan blancos como la nieve, así que le hice creer sin dificultad que era marfil. Gané varias veces más de lo que obtengo vendiendo un juego normal a ciudadanos franceses.
+$GEN_053_04x07_05_07
+¿Debo añadir también el fraude a la lista de cargos en su contra?
+$GEN_053_04x07_05_08
+Si eso sirve para que dejes de decir tonterías sobre que mato gente, admitiré haber engañado.
+$GEN_053_07x08_06_QTitle
+Llamen a la testigo, Claudine Plouffe.
+$GEN_053_07x08_06_00
+Llamen a la testigo, Claudine Plouffe.
+$GEN_053_07x08_06_02
+¿Claudine Plouffe?
+$GEN_053_07x08_06_03
+Correcto.
+$GEN_053_WIT_00_A_QTitle
+¿Cómo supo que era un hueso humano lo que vio en el taller?
+$GEN_053_WIT_00_A_00
+¿Cómo reconoció que era un hueso humano en el taller?
+$GEN_053_WIT_00_A_01
+Era una tibia. Un ojo inexperto podría confundirla con un hueso de animal, pero se distinguen por el grosor y la forma. Disculpe la simplificación, pero la tibia humana suele tener una sección transversal más triangular.
+$GEN_053_WIT_00_A_02
+¿Y no tuviste ninguna duda?
+$GEN_053_WIT_00_A_03
+Señor juez, he visto suficientes huesos en mi vida. Este bien podría haber sido el mío.
+$GEN_053_WIT_00_A_04
+¿Era vieja?
+$GEN_053_WIT_00_A_05
+¿Pregunta por la hora de la muerte de su dueño? Es difícil decirlo, considerando que el hueso fue tallado.
+$GEN_053_WIT_00_A_06
+¿Podría intentar una estimación? Es importante.
+$GEN_053_WIT_00_A_07
+Si tuviera que adivinar, diría que un hueso viejo, uno sacado de una tumba, no sería buen material para tallar. Sería demasiado frágil y amarillento.
+$GEN_053_WIT_00_A_08
+¿Está seguro?
+$GEN_053_WIT_00_A_09
+Nunca he desenterrado un cadáver, así que solo puedo repetir lo que me dicta la intuición.
+$GEN_053_WIT_00_B_QTitle
+Por favor, describa el comportamiento del ciudadano Adnet durante su visita.
+$GEN_053_WIT_00_B_00
+Por favor, describa el comportamiento del ciudadano Adnet durante su visita.
+$GEN_053_WIT_00_B_01
+Ahora que lo menciona, monsieur le juge, recuerdo que estaba tallando algo.
+$GEN_053_WIT_00_B_02
+¿Le habló o le animó a comprar algo?
+$GEN_053_WIT_00_B_03
+Después de saludarme, apenas me prestó atención. A mí me pareció bien, ya que detesto de verdad a los vendedores demasiado insistentes.
+$GEN_053_WIT_00_B_04
+¿Le hizo alguna pregunta?
+$GEN_053_WIT_00_B_05
+Pregunté por el precio. No recuerdo la cifra exacta, pero me sorprendió lo bajo que era para la delicada precisión de su trabajo.
+$GEN_053_WIT_00_B_06
+¿Y entonces vio el hueso humano?
+$GEN_053_WIT_00_B_07
+Así es. Al principio pensé que era cosa de mi imaginación, pero luego lo tomé y lo examiné en mis manos…
+$GEN_053_WIT_01_A_QTitle
+¿Conoce al acusado?
+$GEN_053_WIT_01_A_00
+¿Conoce al acusado?
+$GEN_053_WIT_01_A_01
+Sí, solía venir a menudo a comprarme huesos.
+$GEN_053_WIT_01_A_02
+¿Le vendió huesos de animales?
+$GEN_053_WIT_01_A_03
+Yo... bueno...
+$GEN_053_WIT_01_A_04
+¿Ciudadano?
+$GEN_053_WIT_01_A_05
+Animales, sí, pero no sé mucho de huesos. A veces tenía la sensación de que había algo raro en lo que nos traía el carnicero…
+$GEN_053_WIT_01_A_06
+¿Acaso no parecen tomadas de un animal?
+$GEN_053_WIT_01_A_07
+No lo sé, es simplemente extraño.
+$GEN_053_WIT_01_A_08
+¿Con qué frecuencia llegaban los suministros del carnicero?
+$GEN_053_WIT_01_A_09
+No muy a menudo. Una o dos veces al mes.
+$GEN_053_WIT_01_B_QTitle
+¿Alguna vez le preguntó al acusado para qué necesitaba esos huesos?
+$GEN_053_WIT_01_B_00
+¿Alguna vez le preguntó al acusado para qué necesitaba esos huesos?
+$GEN_053_WIT_01_B_01
+Lo hice. Dijo que haría cubiertos con ellas. Yo solo me toqué la sien, como si estuviera loco, y volví al trabajo.
+$GEN_053_WIT_01_B_02
+¿Le pareció extraño?
+$GEN_053_WIT_01_B_03
+Sí, pero estos son tiempos extraños. La gente puede acostumbrarse a todo.
+$GEN_053_WIT_01_B_04
+¿El ciudadano Adnet examinaba con atención los huesos que compraba? ¿Como si buscara algo en particular?
+$GEN_053_WIT_01_B_05
+Sí, a menudo se quedaba junto a la cesta y rebuscaba. Pero a veces, cuando tenía prisa, compraba cestas enteras.
+$GEN_053_WIT_01_B_06
+¿Con qué frecuencia venía por huesos?
+$GEN_053_WIT_01_B_07
+Solía venir a menudo, pero en los últimos seis meses apenas lo he visto. Dijo que encontró otro proveedor.
+$GEN_053_WIT_01_B_08
+¿Por qué no ejecutar también a un par de sepultureros, por si acaso?
+$GEN_053_WIT_01_B_09
+¿Mencionó algún nombre?
+$GEN_053_WIT_01_B_10
+No me molesté en preguntar.
+$GEN_053_WIT_01_B_12
+¿Quién era el otro proveedor que mencionó la testigo?
+$GEN_053_WIT_01_B_13
+No había nadie, monsieur le juge. Últimamente no he tenido mucho dinero y no quería que la gente supiera que el negocio no va bien…
+$GEN_053_WIT_01_B_14
+¡Miente con la misma facilidad con la que respira!
+$GEN_053_KEY_01
+Padre de dos hijas
+$GEN_053_KEY_02
+Recepción
+$GEN_053_KEY_03
+Taller
+$GEN_053_KEY_04
+Cubiertos con mangos de hueso
+$GEN_053_KEY_05
+Cobertizo
+$GEN_053_KEY_06
+Cajas de madera
+$GEN_053_KEY_07
+Mercado callejero
+$GEN_053_KEY_08
+Huesos de animales
+$GEN_053_KEY_09
+Mandíbulas humanas
+$GEN_053_LastDialog_00
+¿Quién cuidará de mis hijas? ¿Ustedes, asesinos y violadores? ¡Eso es lo que son!
+$GEN_053_UNIQUE_QUESTION_00
+¿Qué le ocurrió a la esposa del artesano?
+$GEN_053_UNIQUE_ANSWER_CORRECT_00_00
+Se ahogó.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ella lo dejó por otro hombre.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Fue condenada a la guillotina.
+$GEN_053_UNIQUE_QUESTION_01
+Según el acusado, ¿qué tipo de huesos solía comprar en el mercado?
+$GEN_053_UNIQUE_ANSWER_CORRECT_01_00
+Huesos de vaca.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Huesos de cerdo.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Huesos de perro.

@@ -1,0 +1,10 @@
+$DIAL_CO_02_01_05_DRIVER_001
+Dzień dobry. Mam odwieźć obywatela na bal.
+$DIAL_CO_02_01_05_JUDGE_002
+A skąd przekonanie, że zdecydowałem się pójść?
+$DIAL_CO_02_01_05_DRIVER_003
+W razie oporów pan Renard kazał przekazać, że na balu wyjawi, kto jest zdrajcą stojącym za morderstwem dziecka obywatela.
+$DIAL_CO_02_01_05_JUDGE_004
+Co takiego? Wiem, kto za tym stoi.
+$DIAL_CO_02_01_05_DRIVER_005
+Szczerze wątpię. Powóz już czeka, a nie ma obywatel nic do stracenia. Proszę za mną.

@@ -1,0 +1,16 @@
+$EVE_010_TITLE
+The German Aggressor
+$EVE_010_MAIN_01
+As a judge, you have to distinguish facts from rumours, but the Citizens of Paris often do not bother. Especially if the gossip involves a foreign army supposedly stationed a few kilometres from the city intending to siege it at any moment. Gossip, nothing more, but attractive enough to make a panicked mob try to break into an armoury. They want to prepare themselves.
+$EVE_010_MAIN_01_C1
+Send the Court Guard
+$EVE_010_MAIN_01_C2
+Give a speech
+$EVE_010_MAIN_02A
+People armed with heavy sticks and pitchforks have already proven to be effective against soldiers with muskets. Fortunately, this time there was no fight as the aggressors dispersed, scared by the reinforcements. The armoury is safe. As soon as people learned the whole siege was nothing more than stupid gossip, they would have used those weapons against their private enemies.
+$EVE_010_MAIN_02B
+The Guards prepare a barrel for you and you stand on top to start your fiery speech. You point out the need for brotherhood in such troubling times and ask the group not to succumb to panic or gossip spread by enemies of the Revolution. It was enough to make them contain themselves.
+$EVE_010_MAIN_02C
+Your speech was fiery enough to resurrect the innocent victims of the Revolution, yet the Citizens of Paris were not impressed. The idea of advancing enemies speaks louder than even the strongest imagery your words can convey, and the people refuse to give up on the idea of storming the armoury. The soldiers are too busy fighting to reach you as a treacherous knife finds its way between your ribs…
+$EVE_010_MAIN_02D
+The storming of the armoury was a success. One could even say that it has become the speciality of Parisians. A few soldiers fell, the rest surrendered and somehow escaped heavy injuries or a public lynching. Your reputation, however, will be deeply damaged. After all, it seems people can now do whatever they want…

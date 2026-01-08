@@ -1,0 +1,260 @@
+$GEN_012_DOC_01_HEADER
+Hazırlayan: Andre Modeste
+$GEN_012_DOC_01_00
+Sanık sandalyesinde, Polonya’dan 44 yaşındaki bir firari olan Michał Trandowski oturuyor. Bilinmeyen sebeplerle birliklerini terk etmiş ve askerlerini II. Katerina’nın ordularına karşı savaşırken bırakmış. Fransız sınırını geçip Paris’e gelmiş; biz ise, Konvansiyon’da siyasi saikle bir cinayet işlemeyi planladığına inanıyoruz.
+$GEN_012_DOC_01_01
+Saldırının ardındaki niyetleri tam olarak belli değil, ancak tanıklar saldırının <a name="4" class="hidden">Maximilien Robespierre</a>'i hedef aldığını öne sürüyor.
+$GEN_012_DOC_01_02
+Trandowski, bir şekilde Konvansiyon oturumuna katılmayı başardı ve yanında bir hançer bile taşıyabildi. Saldırı, aradaki bir molada koridorda gerçekleşti. Leh, bıçağa uzanıp Robespierre’e atıldı. <a name="5" class="hidden">Cécile de Jarre</a>, hedefin yardımcısı olmasaydı, saldırının trajediyle sonuçlanacağına hiç şüphe yoktu. Çıkan arbede sırasında eli yaralandı, fakat onun fedakârlığı diğerlerinin deliyi etkisiz hale getirmesini sağladı.
+$GEN_012_DOC_01_03
+Michał Trandowski Muhafızlar tarafından tutuklanıp Mahkeme’ye getirildi; burada <a name="6" class="hidden">siyasi suikast girişimi</a> nedeniyle, yani Fransa’ya karşı işlenen bir suçtan dolayı hesap vermek zorunda kalacak.
+$GEN_012_DOC_01_04
+Trandowski bir süre Devrim Ordusu’nda görev yaptı. Üstlerini bulmayı başardık; onun <a name="7" class="hidden">kusursuz hizmeti</a> ve onurlu tutumu hakkında övgüyle konuştular. Ayrıca silah arkadaşlarıyla da görüştük; sanığın memleketini derinden <a name="8" class="hidden">özlediğini</a> ve geleceği için sürekli endişelendiğini söylediler.
+$GEN_012_DOC_01_05
+Delil: <a name="9" class="hidden">Kanlı bir hançer.</a>
+$GEN_012_OnStart_00
+Onlara göster ki, Fransa, liderlerine tehdit savuran her yabancı eli kesip atar.
+$GEN_012_OnStart_01
+Adınız, soyadınız ve mesleğiniz?
+$GEN_012_OnStart_02
+Michał Trandowski. Ben bir askerim. Fransız Ordusu’nda hizmet ettim.
+$GEN_012_OnStart_03
+Polonya'dan mı geliyorsunuz?
+$GEN_012_OnStart_04
+Evet, birçoğumuz sizin ordunuzda hizmet ediyoruz.
+$GEN_012_OnStart_05
+Bize onun gibi askerler gerekmez!
+$GEN_012_OnStart_06
+Öyle mi? Prus süngülerini görünce fikrin değişir.
+$GEN_012_OnStart_07
+Gerçekten Fransa’yı savunabileceğinizi mi sanıyorsunuz? Kendi ülkenizi bile koruyamadınız!
+$GEN_012_OnStart_08
+Bunu öğrenmek ister misiniz? Sizi kılıçla düelloya davet ediyorum!
+$GEN_012_OnStart_09
+Sessizlik!
+$GEN_012_OnGuilty_00
+Vatandaş Michał Trandowski’yi giyotine mahkûm ediyorum.
+$GEN_012_OnGuilty_01
+Artık hepimiz rahat bir uyku çekeceğiz.
+$GEN_012_OnGuilty_02
+İhanet edenlerin sonu böyle olur!
+$GEN_012_OnGuilty_03
+Ve kaçaklar da!
+$GEN_012_OnPrison_00
+Vatandaş Michał Trandowski’yi hapis cezasına çarptırıyorum! Mahkûmu dışarı çıkarın.
+$GEN_012_OnPrison_01
+Bekleyin, ne?!
+$GEN_012_OnPrison_02
+Bir katil adayını bağışladı mı?
+$GEN_012_OnPrison_03
+Umarım diğer mahkûmlar onunla nasıl başa çıkacaklarını biliyorlardır.
+$GEN_012_OnNotGuilty_00
+Michał Trandowski’nin suçsuz olduğuna karar verdim. Onu kör eden ve peşinden sürükleyen yüce bir amacı vardı.
+$GEN_012_OnNotGuilty_01
+Kim bilir, o “yüce amaç” onu bir daha ne zaman saldırmaya sürükleyecek…
+$GEN_012_OnNotGuilty_02
+Asker her şeyi itiraf etti, ama onu serbest mi bırakıyor?!
+$GEN_012_OnNotGuilty_03
+Burası mahkeme değil, tam bir curcuna!
+$GEN_012_03x04_00_QTitle
+Robespierre’i neden öldürmeye kalktınız?
+$GEN_012_03x04_00_00
+Robespierre’i neden öldürmeye kalktınız?
+$GEN_012_03x04_00_01
+Çünkü Fransa bize sırtını döndü.
+$GEN_012_03x04_00_02
+Bizi mi?
+$GEN_012_03x04_00_03
+Polonya. Biz sizin için savaşırken vatanımız paramparça ediliyor. Yakında haritadan silinecek, ama siz hiçbir şey yapmıyorsunuz!
+$GEN_012_03x04_00_04
+Fransa’dan ne yapmasını isterdiniz?
+$GEN_012_03x04_00_05
+Bize yardım edebilirdiniz. Bu sizin de çıkarınıza olurdu. Sizin de Leh bir kraliçeniz vardı! Ama yardım etmeyi reddettiniz, şimdi ise Rusya ve Prusya birleşip vatanımı yağmalıyorlar.
+$GEN_012_03x04_00_06
+Bu oldukça taraflı bir bakış açısı, Bay Trandowski.
+$GEN_012_03x04_00_07
+Onur konusunda hiçbir şey öznel değildir! En azından benim için. Siz Fransızlar ise farklı düşünüyorsunuz gibi görünüyor, bunu hiçbir devrim değiştiremez.
+$GEN_012_03x04_00_08
+Savunmasız bir adama bıçakla saldırmaya sizi onur mu itti?
+$GEN_012_03x04_00_09
+Robespierre’in elleri, yurttaşlarımın kanına bulanmış.
+$GEN_012_03x04_00_10
+Sayıklıyor, muhtemelen votkayı fazla kaçırmış.
+$GEN_012_01x06_01_QTitle
+Siyasi bir suikast girişiminde bulunduğunuzun farkında mısınız?
+$GEN_012_01x06_01_00
+Siyasi bir suikast girişiminde bulunduğunuzun farkında mısınız?
+$GEN_012_01x06_01_01
+Evet, ve hiçbir şeyden pişman değilim. Yaptığımın sonuçlarını kabul etmeye hazırım.
+$GEN_012_01x06_01_02
+Yaptıklarınızı savunmak için söylemek istediğiniz bir şey var mı?
+$GEN_012_01x06_01_03
+Onunla vakit kaybetme.
+$GEN_012_01x06_01_04
+Buraya kendimi savunmaya gelmedim. Bu salondaki herkesin önünde söylemek için geldim: Ülkem can çekişirken Avrupa sadece seyrediyor. Artık yapabileceğim tek şey bu.
+$GEN_012_01x06_01_05
+Robespierre’in ölümü Polonya’nın durumunu iyileştirirdi diye mi düşünüyorsunuz?
+$GEN_012_01x06_01_06
+…
+$GEN_012_01x06_01_07
+Bence intikam istiyorsunuz, ama Ruslara ya da Prusyalılara saldıracak cesaretiniz yok.
+$GEN_012_05x09_02_QTitle
+Masum bir adamı yaraladınız. Onu öldürmeyi mi amaçladınız?
+$GEN_012_05x09_02_00
+Masum bir adamı yaraladınız. Onu öldürmeyi mi amaçladınız?
+$GEN_012_05x09_02_01
+Fransa’nın ve tüm dünyanın dikkatini Polonya’nın karşılaştığı zorluklara çekmek istedim.
+$GEN_012_05x09_02_02
+Devrimin önderlerinden birine hançerle saldırdınız.
+$GEN_012_05x09_02_03
+Vatanım uğruna en az bir düzine Moskof öldürdüm. Bir eksik, bir fazla, ne fark eder? Robespierre’i de öldürebilirim!
+$GEN_012_05x09_02_04
+O adam deli!
+$GEN_012_05x09_02_05
+Yani suçunuzu kabul ediyorsunuz?
+$GEN_012_05x09_02_06
+Evet, onu öldürmek istedim. Eğer Maximilien Robespierre’in ölümü Devrim’e zarar verecek ve Fransa’nın sıkıntı içindeki Polonya’yı fark etmesini sağlayacaksa, onu tereddüt etmeden öldürürdüm.
+$GEN_012_05x09_02_07
+Eklemek istediğim başka bir şey yok. Her cümlesiyle kendini daha da suçlu duruma düşürüyor.
+$GEN_012_04x09_03_QTitle
+Tanık Cécile de Jarre’ı çağırın.
+$GEN_012_04x09_03_00
+Tanık Cécile de Jarre’ı çağırın.
+$GEN_012_04x09_03_02
+Lütfen kendinizi tanıtınız.
+$GEN_012_04x09_03_03
+Cécile de Jarre, ben Maximilien Robespierre’in yardımcısıyım.
+$GEN_012_02x06_04_QTitle
+Fransa’ya giderken Robespierre’i öldürmeyi mi planlıyordunuz?
+$GEN_012_02x06_04_00
+Fransa'ya giderken Robespierre'i öldürmeyi mi planlıyordunuz?
+$GEN_012_02x06_04_01
+Ordunuzda hizmet etmek ve Rusya'ya karşı savaşmak istiyordum.
+$GEN_012_02x06_04_02
+Fransa, Rusya ile savaş halinde değil.
+$GEN_012_02x06_04_03
+Henüz değil. Bu yüzden Polonya’ya başka bir şekilde yardım etmeye karar verdim.
+$GEN_012_02x06_04_04
+Yani Fransa’yı Rusya’yla savaşa sürüklemeyi mi hayal ettiniz?
+$GEN_012_02x06_04_05
+Harika olmaz mıydı?
+$GEN_012_02x06_04_06
+Binlerce kayıp ve masum kurban olurdu, sizce bu harika bir şey mi?
+$GEN_012_02x06_04_07
+Gerçek bir deli!
+$GEN_012_02x06_04_08
+Robespierre’in ölümüyle Fransa’nın sizin savaşınıza katılacağını mı sanıyorsunuz?
+$GEN_012_02x06_04_09
+Başarabilseydim, dünya bizden söz etmeye başlardı.
+$GEN_012_03x09_05_QTitle
+Neden bir hançer kullandınız?
+$GEN_012_03x09_05_00
+Neden bir hançer kullandınız?
+$GEN_012_03x09_05_01
+Bir hançeri gizlemek kılıçtan daha kolaydır, üstelik ona güvenebilirsin. Tabancalar ise en lazım olduğunda bozulmaya meyillidir.
+$GEN_012_03x09_05_02
+Kurbanınızın kesinlikle hayatta kalmayacağından emin olmak mı istediniz?
+$GEN_012_03x09_05_03
+Bir göreve çıktığımda, onu tamamlamak için elimden geleni yaparım.
+$GEN_012_03x09_05_04
+Böyle bir adam… sokaklarda elini kolunu sallayarak dolaşıyor!
+$GEN_012_03x05_06_QTitle
+Olaydan önce Cécile de Jarre’ı tanıyor muydunuz?
+$GEN_012_03x05_06_00
+Olaydan önce Cécile de Jarre’yi tanıyor muydunuz?
+$GEN_012_03x05_06_01
+Hayır. Onu ilk kez yolumu kestiğinde gördüm.
+$GEN_012_03x05_06_02
+Yine de vurdunuz mu? Masum bir adama mı hedef aldınız?
+$GEN_012_03x05_06_03
+Yoluma çıktı. Öylece oldu.
+$GEN_012_03x05_06_04
+Canavar! Vahşi!
+$GEN_012_06x07_07_QTitle
+Silah arkadaşlarınız, askeri hizmetinizin kusursuz olduğunu ifade etti.
+$GEN_012_06x07_07_00
+Silah arkadaşlarınız, askerliğinizin kusursuz geçtiğine tanıklık etti. Neden böyle parlak bir kariyeri mahvedesiniz?
+$GEN_012_06x07_07_01
+Sevgili Milletim uğruna yalnızca kariyerimi değil, hayatımı da feda ederim.
+$GEN_012_06x07_07_02
+Çok yakında sen de göreceksin!
+$GEN_012_06x07_07_03
+Cumhuriyet’e hizmet etmek için yemin ettiniz mi?
+$GEN_012_06x07_07_04
+Hiçbir yemin, vatanına edilen yeminden üstün değildir.
+$GEN_012_01x08_08_QTitle
+Kendi vatanınıza bu kadar bağlıysanız, neden yabancı bir orduda hizmet ettiniz?
+$GEN_012_01x08_08_00
+Kendi ülkenize bu kadar bağlıysanız, neden yabancı bir orduda hizmet ettiniz?
+$GEN_012_01x08_08_01
+Fransa’nın Prusya ve Avusturya’ya karşı zaferinin, Birliğe yardımcı olacağına inanmıştım. Birçoğumuz hâlâ Fransa’nın tek umudumuz olduğuna inanıyor.
+$GEN_012_01x08_08_02
+Yani liderlerimizden birine saldırarak bizi zayıflatmak mı istediniz?
+$GEN_012_01x08_08_03
+Bazı fedakarlıklar kaçınılmazdır.
+$GEN_012_01x08_08_04
+Neden kendini feda etmiyorsun?
+$GEN_012_01x08_08_05
+Zaten getirdim.
+$GEN_012_WIT_00_A_QTitle
+Saldırıyı Konvansiyon’da anlatınız.
+$GEN_012_WIT_00_A_00
+Saldırıyı Konvansiyon’da anlatınız.
+$GEN_012_WIT_00_A_01
+Toplantı salonundan çıkıp konuşmaya devam ettik. Vatandaş Robespierre yanımda yürüyordu ve bana bir şeyler anlatıyordu ki, o anda bize doğru koşan bir adam fark ettim.
+$GEN_012_WIT_00_A_02
+Ne yaptın?
+$GEN_012_WIT_00_A_03
+Onu yakalamaya çalıştım, ama elimi kesti. Neyse ki koridor kalabalıktı ve insanlar onu hemen benden uzaklaştırdı.
+$GEN_012_WIT_00_A_04
+Başka bir deyişle, Trandowski masum bir adama ansızın saldırdı.
+$GEN_012_WIT_00_A_05
+Aynen öyle.
+$GEN_012_WIT_00_A_06
+Bay Trandowski bir şey söyledi mi? Davranışlarını tarif edebilir misiniz?
+$GEN_012_WIT_00_A_07
+Çok öfkeli görünüyordu ve kendi kendine konuşuyordu.
+$GEN_012_WIT_00_A_08
+Tam olarak ne duydunuz?
+$GEN_012_WIT_00_A_09
+Yabancı bir dilde konuşuyordu. Sanırım bazı kelimeleri tekrar etti, ama ne dediğini anlamadım.
+$GEN_012_WIT_01_A_QTitle
+Sizce saldırıyı önceden planladı mı?
+$GEN_012_WIT_01_A_00
+Sizce saldırıyı önceden planladı mı?
+$GEN_012_WIT_01_A_01
+Sanırım öyle.
+$GEN_012_WIT_01_A_02
+Demek ki iyi planlamamış.
+$GEN_012_WIT_01_A_03
+Bunu düşünmenize ne sebep oldu?
+$GEN_012_WIT_01_A_04
+Robespierre’in o gün binada olacağını kesinlikle öğrenmiş olmalı ve silahla içeri girmek için bir yol bulması gerekmişti. Ardından, hedefine saldırmak için sadece bir kargaşa çıkmasını beklemesi yeterliydi.
+$GEN_012_KEY_01
+Firardan dönme
+$GEN_012_KEY_02
+Paris’e Gizlice Girmek
+$GEN_012_KEY_03
+Güdü
+$GEN_012_KEY_04
+Maximilien Robespierre
+$GEN_012_KEY_05
+Cécile de Jarre
+$GEN_012_KEY_06
+Siyasi suikast
+$GEN_012_KEY_07
+Kusursuz hizmet
+$GEN_012_KEY_08
+Polonya Hasreti
+$GEN_012_KEY_09
+Kanlı hançer
+$GEN_012_LastDialog_00
+Polonya henüz yok olmadı…
+$GEN_012_UNIQUE_QUESTION_00
+Sanığın amirleri hizmetini nasıl değerlendirdi?
+$GEN_012_UNIQUE_ANSWER_CORRECT_00_00
+Kusursuzdu.
+$GEN_012_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Sanık iddiaya göre sakar ve korkaktı.
+$GEN_012_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Diğer askerlerden hiç ayrışmazdı.

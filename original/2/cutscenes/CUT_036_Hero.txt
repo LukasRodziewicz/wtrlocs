@@ -1,0 +1,29 @@
+$CUT_036_JUDGE_WON_BROTHER_001
+Les traces de nos crimes seront lavées par l'ondée du matin.
+$CUT_036_JUDGE_WON_BROTHER_002
+Nous n'y serons pas puisque, encore une fois, le frère tuera le frère.
+$CUT_036_JUDGE_WON_BROTHER_003
+Qui voudrait être un héros dans un monde pareil ?
+$CUT_036_JUDGE_WON_004
+<BOUM>
+$CUT_036_JUDGE_LOST_BROTHER_001
+Il est temps pour nous de mourir, mon frère.
+$CUT_036_JUDGE_LOST_BROTHER_002
+Demain, lorsque l'ondée matinale lessivera les traces de nos crimes, les gens se remettront à s'entretuer, 
+au prétexte d'une nouvelle révolution.
+$CUT_036_JUDGE_LOST_003
+<BOUM>
+$CUT_036_CROWD_001
+Voici le vainqueur !
+$CUT_036_CROWD_002
+Napoléon nous a sauvés !
+$CUT_036_CROWD_003
+Un héros !
+$CUT_036_JUDGE_004
+Un héros…
+$CUT_036_BOY_005
+Un héros.
+$CUT_036_PUPPETEER_006
+Qui a gagné ?
+$CUT_036_PUPPETEER_007
+À qui le tour ?

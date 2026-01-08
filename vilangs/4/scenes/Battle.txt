@@ -1,0 +1,150 @@
+#BATTLE_TURNS
+Runde {0}
+#LAST_STAND
+Letzte Chance!
+#BATTLE_WIN
+Du hast gewonnen!
+#BATTLE_LOSE
+Du hast verloren!
+#BATTLE_DRAFT
+Unentschieden!
+#BATTLE_TURN
+Runde {0}
+#BATTLE_TURN_LINE
+Runde {0}
+#BATTLE_SUMMARY_ENEMY
+Gegner:
+#BATTLE_SUMMARY_PLAYER
+Spieler:
+#START_BATTLE
+Eine Schlacht schlagen
+#PENDING_BATTLE
+Kampf läuft
+#BALANCE_OF_POWER
+Machtverhältnisse
+#CHOOSE_TACTIC
+Taktik wählen
+#TACTIC_INACTIVE
+Diese Taktik ist nicht verfügbar
+#TACTIC_LOCKED
+Diese Taktik wurde durch einen Modifikator blockiert
+#MEDIC_USED
+Der Sanitäter wurde bereits entsandt.
+#TACTIC_NEUTRAL
+Neutral
+#TACTIC_NEUTRAL_DESC
+Eine ausgewogene Taktik; sie verschafft dir zwar keine großen Vorteile, bringt aber auch keine spürbaren Nachteile für die Angriffskraft deiner Truppen.
+#TACTIC_BREAK
+Frontalangriff
+#TACTIC_BREAK_DESC
+Ein heldenhafter Angriff an der Front. Besonders wirkungsvoll, wenn du viele Schützen hast. Weniger effektiv, wenn deine Infanterie geschwächt ist.
+#TACTIC_FIRING
+Unterdrückungsfeuer
+#TACTIC_FIRING_DESC
+Ihre Schützen lassen einen Kugelhagel auf alle feindlichen Linien niedergehen, während die Infanterie versucht, die Stellung zu halten. Diese Taktik ist besonders wirksam gegen einen Gegner in der Defensive.
+#TACTIC_DEFENSE
+Verteidigung
+#TACTIC_DEFENSE_DESC
+Deine Truppen kämpfen vorsichtiger, erhalten dafür aber einen großen Verteidigungsbonus. Diese Taktik ist besonders wirkungsvoll, wenn dir viele Infanteristen zur Verfügung stehen.
+#TACTIC_TRENCH
+Verschanzung
+#TACTIC_TRENCH_DESC
+Die Artillerie nimmt mehr feindliche Linien unter Beschuss, während die übrigen Reihen in die Defensive gehen.
+#BATTLE_STATS_ATTACK_BONUS
+Bonus auf Angriff
+#BATTLE_STATS_ATTACK_PENALTY
+Strafabzug auf Angriff
+#BATTLE_STATS_DEFENSE_BONUS
+Bonus auf Verteidigung
+#BATTLE_STATS_DEFENSE_PENALTY
+Strafabzug auf Verteidigung
+#MUSKETEERS
+Musketiere
+#INFANTRY
+Infanterie
+#ARTILLERY
+Artillerie
+#BATTLE_OPPONENT_01
+Aggressiv
+#BATTLE_OPPONENT_02
+Verteidigend
+#BATTLE_OPPONENT_03
+Neutral
+#TUTORIAL_OPPONENT
+Eindringling
+#BATTLE_OPPONENT_CUT_22
+Anhänger von Gobel
+#BATTLE_OPPONENT_CUT_28
+Hanriot
+#BATTLE_MEDIC_AVAILABLE
+Sanitäter entsenden
+#BATTLE_MEDIC_REWIND
+Zurücksetzen
+#BATTLE_MEDIC_DISABLED
+Kein Sanitäter verfügbar.
+#BATTLE_REFUGEES_HEADER
+Zivilisten im Bezirk
+#BATTLE_REFUGEES_TITLE
+Andere
+#BATTLE_RESCUED_REFUGEES_TITLE
+Überlebende
+#BATTLE_SUMMARY_AGENTS_LOST
+Getötete Agenten
+#BATTLE_SUMMARY_AGENT_MEDIC
+Sanitäter
+#BATTLE_SUMMARY_AGENT_COORDINATOR
+Logistikexperte
+#BATTLE_REFUGEES_NEW_TURN
+{0} Zivilisten sind in dieser Runde entkommen
+#BATTLE_EVENT_TITLE_01
+Wolkenbruch
+#BATTLE_EVENT_DESC_01
+Schützen haben -50% Angriffskraft. Bewohner fliehen 20% langsamer.
+#BATTLE_EVENT_TITLE_02
+Schmale Gasse
+#BATTLE_EVENT_DESC_02
+Blockiert offensive Taktiken.
+#BATTLE_EVENT_TITLE_03
+Vorräte des Feindes
+#BATTLE_EVENT_DESC_03
+Der Feind kämpft erbitterter.
+#BATTLE_EVENT_TITLE_04
+Barrikaden
+#BATTLE_EVENT_DESC_04
+Ihre Einheiten sind durch Befestigungen effizienter.
+#BATTLE_EVENT_TITLE_05
+Lähmende Angst
+#BATTLE_EVENT_DESC_05
+Bewohner fliehen 30% langsamer.
+#BATTLE_EVENT_TITLE_06
+Tapferkeit
+#BATTLE_EVENT_DESC_06
+Deine Truppen kämpfen mit größerer Wildheit.
+#BATTLE_EVENT_TITLE_100
+Verwundete Soldaten
+#BATTLE_EVENT_DESC_100
+Deine Soldaten greifen mit 50% weniger Effizienz an.
+#BATTLE_EVENT_TITLE_101
+Fanatismus
+#BATTLE_EVENT_DESC_101
+Die feindliche Miliz kämpft erbitterter.
+#BATTLE_SUMMARY_REFUGEES_TITLE
+Zivilisten:
+#BATTLE_SUMMARY_REFUGEES_RESCUED
+Gerettet: {0}
+#BATTLE_SUMMARY_REFUGEES_DEAD
+Getötet: {0}
+$TUTORIAL_BATTLE_DIALOG_01
+Unsere Nachhut geriet mit dem Feind aneinander und unterlag. Der Feind drang in das Lager ein, wo die Verwundeten versorgt wurden. Wir mussten zu den Waffen greifen.
+$TUTORIAL_BATTLE_DIALOG_02
+Dein Bruder kämpfte wie von einem Dämon besessen. Die Menschen strömten zu ihm.
+$TUTORIAL_BATTLE_DIALOG_03
+Wir hofften, dass Verstärkung zu uns unterwegs war. Doch wir wussten, sie würde zu spät kommen…
+$TUTORIAL_BATTLE_DIALOG_04
+Ein Bajonett durchbohrte mich. Ich blutete aus, während meine Freunde einer nach dem anderen von Kugeln niedergestreckt wurden.
+$GOBEL_BATTLE_OPPONENT_01
+Tod allen, die es wagen, die Hand gegen die Kirche zu erheben!
+$GOBEL_BATTLE_JUDGE_02
+Nicht gegen die Kirche, sondern gegen ihre habgierigen Priester. Gegen jene, die Frankreich in den Abgrund reißen!
+$GOBEL_BATTLE_OPPONENT_03
+Es macht keinen Unterschied. Das lassen wir nicht zu! Eure Köpfe hätten schon längst auf Spießen stecken sollen!

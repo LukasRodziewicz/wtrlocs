@@ -1,0 +1,44 @@
+$SURVIVAL_QUIZ_RESULT_HEADER
+Punkte
+$SURVIVAL_QUIZ_RESULT_DESC
+Dies sind Ihre Anfangswerte für die Beziehungen zu den Fraktionen.
+$SURVIVAL_QUIZ_QUESTION_01
+Im Gerichtsflur stieß eine junge, sehr attraktive Frau mit mir zusammen. Sie trug ein elegantes Kleid, das jedoch an einigen Stellen abgetragen und fadenscheinig war. Noch bevor ich mich für die Kollision entschuldigen konnte, begann die Frau zu sprechen. Sie stellte sich als Désirée Plouffe vor, Tochter des Grafen. Ihr Verlobter war festgenommen worden – als Grund wurden konterrevolutionäre Aktivitäten genannt, doch eine genaue Anklage lag nicht vor. Fräulein Plouffe zog einen Umschlag mit einem Zettel hervor und bat mich mit brüchiger Stimme, ihn dem Angeklagten zu übergeben.
+$SURVIVAL_QUIZ_QUESTION_01_A1
+Ich habe die Frau in einem der Diensträume eingeschlossen und bin zur Garde gegangen. Ich will nicht, dass man mir Korruption vorwirft.
+$SURVIVAL_QUIZ_QUESTION_01_A2
+Ich nahm den Zettel an mich und versprach zu helfen. Die gewöhnlichen Antragsteller im Flur warfen mir finstere Blicke zu ...
+$SURVIVAL_QUIZ_QUESTION_01_A3
+Seht her, Leute, rief ich laut. „Die Adlige hält sich wohl für etwas Besseres als die anderen.“ Ich zerriss den Zettel und warf ihn ihr vor die Füße.
+$SURVIVAL_QUIZ_QUESTION_02
+Damals ging ich die Straße entlang. Ich erinnere mich, wie ich bewunderte, wie sich Paris verändert. Über den Läden wurden die Schilder ausgetauscht, Menschen trugen verzierte Möbel aus den Häusern der Adligen. Sie luden diese Waren auf Karren, nahmen sie mit, verteilten sie. Ein Mann trat mit einer Weinflasche in der Hand aus einem Tor und rief: „Das ist aus dem Keller von Monsieur Jacquemard. Kommt, trinkt mit uns.“
+$SURVIVAL_QUIZ_QUESTION_02_A1
+Ich bin mit ihnen trinken gegangen. Wir haben die ganze Nacht im Keller verbracht und über die Bedürfnisse Frankreichs gesprochen.
+$SURVIVAL_QUIZ_QUESTION_02_A2
+Ich habe die Garde gerufen, um den Wein aus dem Keller für die Zwecke der Revolution zu beschlagnahmen.
+$SURVIVAL_QUIZ_QUESTION_02_A3
+Ich sagte ihnen, wer ich bin, und drohte ihnen Strafe für den Diebstahl an – da rannten sie davon, so schnell sie konnten. Dem Besitzer riet ich, seine Wertsachen auf dem Land zu verstecken.
+$SURVIVAL_QUIZ_QUESTION_03
+Einmal wurde ich Zeuge einer unschönen Szene im Hof beim Brunnen. Mehrere Jugendliche warfen Steine auf einen elegant gekleideten jungen Mann und riefen: „Iss, Gräfin, guten Appetit!“ Der junge Adlige, in die Enge getrieben, schützte nur sein Gesicht, während weitere Geschosse nicht nur ihn, sondern auch die Fenster trafen, die unter dem Geschrei der Anwohner in kleine Splitter zerbarsten.
+$SURVIVAL_QUIZ_QUESTION_03_A1
+Ich hob ein paar Kieselsteine vom Boden auf, warf sie auf den „Grafen“ und ging dann weg.
+$SURVIVAL_QUIZ_QUESTION_03_A2
+Ich habe eine Gruppe Halbstarker mit Stockhieben vertrieben und einem jungen Adligen ein Taschentuch gereicht, damit er seine blutenden Wunden abtupfen konnte.
+$SURVIVAL_QUIZ_QUESTION_03_A3
+Ich habe befohlen, die Jugendlichen wegen Vandalismus festzunehmen. Für die Pariser ist die Zeit der Angst vorbei.
+$SURVIVAL_QUIZ_QUESTION_04
+Auf dem Platz bei Notre-Dame sah ich einen betrunkenen Mann. Er lief die Straße entlang und rief: „Lumpen, Lumpen haben die Stadt übernommen“, während er die Leute mit einem Spazierstock mit Elfenbeingriff bedrohte. Ich sah, wie die Leute tuschelten und mit dem Finger auf ihn zeigten. Die vorbeigehenden Wäscherinnen machten einen großen Bogen um ihn, und einige Maurer griffen nach Steinen.
+$SURVIVAL_QUIZ_QUESTION_04_A1
+Ich ging zu ihm hinüber und verpasste ihm eine so heftige Ohrfeige, dass er sich auf den Bürgersteig setzte.
+$SURVIVAL_QUIZ_QUESTION_04_A2
+Als ich auf die Patrouille der Garde traf, meldete ich eine verdächtige Person.
+$SURVIVAL_QUIZ_QUESTION_04_A3
+Ich fasste den Mann am Arm. „Komm, wir trinken Wein“, sagte ich und führte ihn von der Straße fort – vermutlich rettete ich ihn so vor dem Lynchmob.
+$SURVIVAL_QUIZ_QUESTION_05
+Vier Gardisten standen am Stand eines älteren Mannes neben einem frisch renovierten Gebäude. Auf der Theke lagen Gemüse, darunter ein paar Bund Karotten und in der Sonne getrockneter Salat. „Ihr jagt mich doch nur fort, weil Herr Moisan euch bezahlt hat!“, rief der Händler den grimmigen Gardisten direkt ins Gesicht. „Der feine Herr würde wohl lieber sehen, dass ich Silberbesteck oder antike Skulpturen verkaufe, was? Aber ein Gemüsehändler – der drückt wohl den Wert seiner Immobilie?!“, wetterte der aufgebrachte Ladenbesitzer weiter.
+$SURVIVAL_QUIZ_QUESTION_05_A1
+Ich stellte mich vor und befahl den Wachen, den Händler in Ruhe zu lassen.
+$SURVIVAL_QUIZ_QUESTION_05_A2
+Das ging mich nichts an, die Wachen hatten dafür wohl ihre ... „Gründe“.
+$SURVIVAL_QUIZ_QUESTION_05_A3
+Wenn die Wachen den Befehl erhalten haben, sollten sie ohne Zögern handeln. Ich habe bei der Festnahme geholfen.

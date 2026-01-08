@@ -1,0 +1,282 @@
+$GEN_052_DOC_01_HEADER
+Compiled by: Charles Etienne
+$GEN_052_DOC_01_00
+	Vincent Boulle is a young <a name="1" class="hidden">war invalid</a>. He lost his leg below the knee to a Prussian cannon ball. He was discharged from the military and moved in with his mother and younger brother, 14-year-old Mathéo, to an apartment in a tenement.
+$GEN_052_DOC_01_01
+	Not long ago, Vincent’s brother <a name="3" class="hidden">fell from a window</a>. The doctors say that he broke both legs and his pelvis, and would probably never walk again. We learned that on the night of the incident, a loud quarrel could be heard from the widow’s apartment. We asked the doctors from Hôtel-Dieu to examine the boy a second time and they found both old <a name="5" class="hidden">scars and fresh bruises</a> on his body.
+$GEN_052_DOC_01_02
+	Neighbours told us that during the first months after <a name="6" class="hidden">the return of the wounded soldier</a>, they did not notice anything disturbing. However, eventually they began to hear screams at night. Vincent was sometimes seen with a bottle of wine, reeking of alcohol and behaving aggressively.
+$GEN_052_DOC_01_03
+	We have arrested Vincent Boulle, hoping for incriminating testimonies given by his <a name="8" class="hidden">mother and brother</a>. However, she claimed that Mathéo is young and stupid, and fell from the window by himself. The boy has refused to talk to us.
+$GEN_052_OnStart_00
+You are Citizen Vincent Boulle?
+$GEN_052_OnStart_01
+That’s me.
+$GEN_052_OnStart_02
+Did you have anything to do with your brother’s fall from the window?
+$GEN_052_OnStart_03
+The stripling was playing on the windowsill and he just slipped.
+$GEN_052_OnStart_04
+You do not appear to feel sorry for him.
+$GEN_052_OnStart_05
+He had an accident. Things like that happen.
+$GEN_052_OnStart_06
+An accident? So you were not involved?
+$GEN_052_OnStart_07
+He couldn’t handle the Prussians, so he started fighting with his family.
+$GEN_052_OnStart_08
+Mother first drove my father to death, and now she doesn’t really look after my brother. You should ask her.
+$GEN_052_OnGuilty_00
+For domestic violence, I sentence Citizen Boulle to death.
+$GEN_052_OnGuilty_01
+I would have been surprised if you had given another verdict.
+$GEN_052_OnGuilty_02
+Fine, but will it heal the child’s legs?
+$GEN_052_OnPrison_00
+Citizen Boulle, for your crimes against your own family I sentence you to prison.
+$GEN_052_OnPrison_01
+Chain that bastard up and to the quarry with him!
+$GEN_052_OnNotGuilty_00
+This case is dismissed. Citizen Boulle, you may return home.
+$GEN_052_OnNotGuilty_01
+I understand a certain lenience towards war veterans, but this is ridiculous.
+$GEN_052_OnNotGuilty_02
+He’ll be back in a week, accused of murdered.
+$GEN_052_01x07_00_QTitle
+Did you join the army as a very young man?
+$GEN_052_01x07_00_00
+Did you join the army as a very young man?
+$GEN_052_01x07_00_01
+I was under 20.
+$GEN_052_01x07_00_02
+Losing a leg must have been a difficult experience.
+$GEN_052_01x07_00_03
+I don’t want to talk about it!
+$GEN_052_01x07_00_04
+How did it happen?
+$GEN_052_01x07_00_05
+I don’t want to talk about it!
+$GEN_052_01x07_00_06
+Citizen, tell us how you lost your leg.
+$GEN_052_01x07_00_07
+I don’t remember.
+$GEN_052_01x07_00_08
+Maybe he was shot in the head, not his leg?
+$GEN_052_01x07_00_09
+Fine, let us assume that you do not remember that exact moment. What about the day of the incident? Were you on the offensive?
+$GEN_052_01x07_00_10
+That has nothing to do with that stupid child falling out of the window!
+$GEN_052_01x07_00_11
+Citizen, we are doing you a favour by hearing you out. Be so good as to not shout.
+$GEN_052_01x07_00_12
+…
+$GEN_052_01x07_00_13
+Did you start drinking because of your leg?
+$GEN_052_01x07_00_14
+No, it’s insomnia. I can’t fall asleep these days without a glass of wine.
+$GEN_052_02x06_01_QTitle
+Your neighbours say that when you returned from the war, at first you were calm…
+$GEN_052_02x06_01_00
+Your neighbours say that when you returned from the war, at first you were calm, yet as time went by you became increasingly more aggressive. What happened?
+$GEN_052_02x06_01_01
+I don’t understand the question, monsieur le juge.
+$GEN_052_02x06_01_02
+Of course he doesn’t. Squeaky clean, that one.
+$GEN_052_02x06_01_03
+For some time now, your neighbours have been complaining about you. When you started drinking, they began to hear screams from your apartment.
+$GEN_052_02x06_01_04
+I haven’t been getting along with my mother recently, but it was nothing serious.
+$GEN_052_02x06_01_05
+You did not get along? Or were you arguing?
+$GEN_052_02x06_01_06
+Nothing serious, just some small disagreements.
+$GEN_052_02x06_01_07
+But it did not start straight after your return?
+$GEN_052_02x06_01_08
+I just can’t sleep lately. Tired people are often easily irritated.
+$GEN_052_08x04_02_QTitle
+Call in the widow, Mrs Boulle, as a witness.
+$GEN_052_08x04_02_00
+Call in the widow, Mrs Boulle, as a witness.
+$GEN_052_03x05_03_QTitle
+How would you describe your relationship with your brother?
+$GEN_052_03x05_03_00
+How would you describe your relationship with your brother?
+$GEN_052_03x05_03_01
+Mathéo? That little maggot does nothing but eat and ask mother for money because he’s too lazy to work.
+$GEN_052_03x05_03_02
+Your brother has never worked?
+$GEN_052_03x05_03_03
+Well, he was a baker’s or butcher’s apprentice, I’m not sure which. Still, whatever he brought home, he ate at once.
+$GEN_052_03x05_03_04
+How about you? Where are you working?
+$GEN_052_03x05_03_05
+Without a leg, what can I do, hmm? Roll cigars with women?
+$GEN_052_03x05_03_06
+Be honest with us. Were you beating your brother?
+$GEN_052_03x05_03_07
+He was battering him! You could hear it from two streets away!
+$GEN_052_03x05_03_08
+Someone has to bring him up as a man. I was raised by my father, but he died when Mathéo was eight. There was nobody with a firm hand at home and now look at him.
+$GEN_052_03x05_03_09
+Not that his father did a great job of raising this one.
+$GEN_052_07x04_04_QTitle
+Were you drinking on the night of your brother’s fall from the window?
+$GEN_052_07x04_04_00
+Were you drinking on the night of your brother’s fall from the window?
+$GEN_052_07x04_04_01
+No, monsieur le juge, that night I was sober.
+$GEN_052_07x04_04_02
+Your neighbours heard screams.
+$GEN_052_07x04_04_03
+Probably from the street. Maybe there was another lynching or something? I don’t know, I was sleeping.
+$GEN_052_07x04_04_04
+Did you take your brother to the hospital?
+$GEN_052_07x04_04_05
+No, our neighbours did. I found out about everything in the morning, when they came to complain.
+$GEN_052_07x04_04_06
+Why did you not take him yourself? Were you ashamed?
+$GEN_052_07x04_04_07
+I couldn’t sleep for three nights. So when I finally managed to, I slept like a log.
+$GEN_052_07x04_04_08
+We heard you yelling!
+$GEN_052_07x04_04_09
+Did you visit your brother?
+$GEN_052_07x04_04_10
+I was sitting by him when an officer of the Guard came to interrogate him. Mathéo was asked a bunch of questions, but didn’t say anything. I guess he was ashamed to have ruined his health in such a stupid way.
+$GEN_052_01x06_05_QTitle
+How long did you serve in the army?
+$GEN_052_01x06_05_00
+How long did you serve in the army?
+$GEN_052_01x06_05_01
+Over a year. The whole time I was thinking about going back to my mother and brother…
+$GEN_052_01x06_05_02
+And once you returned home, the trouble started.
+$GEN_052_01x06_05_03
+They didn’t understand me. They don’t know what it’s like when your friend’s blood splatters over your face… They were complaining that I scream at night. I was calling Pinard. I dreamt about him every night. A bullet went through his cheek.
+$GEN_052_01x06_05_04
+Did Pinard survive?
+$GEN_052_01x06_05_05
+I don’t know. Two days later I was hit by the cannonball. I have no idea what happened to him.
+$GEN_052_01x06_05_06
+Your neighbours also complained about screams.
+$GEN_052_01x06_05_07
+They never had to shake someone’s guts off their shoes… What do they know about screams and fear?
+$GEN_052_01x06_05_08
+Do you want us to feel sorry for you?
+$GEN_052_01x06_05_09
+You can all go and jump in the river, for all I care.
+$GEN_052_WIT_00_A_QTitle
+How did your younger son fall out of the window?
+$GEN_052_WIT_00_A_00
+How did your younger son fall out of the window?
+$GEN_052_WIT_00_A_01
+I think he was playing on the windowsill.
+$GEN_052_WIT_00_A_02
+It happened at night, right?
+$GEN_052_WIT_00_A_03
+Well… yes.
+$GEN_052_WIT_00_A_04
+Did he often play at this hour instead of sleeping?
+$GEN_052_WIT_00_A_05
+My son doesn’t have a father. Sometimes he’s hard to control.
+$GEN_052_WIT_00_A_06
+What were you doing on the night of the incident when your son was playing?
+$GEN_052_WIT_00_A_07
+I was doing the laundry. The boys constantly stain their clothes, and as I work all day, I have to wash them late at night.
+$GEN_052_WIT_00_A_08
+And your older son? What was he doing?
+$GEN_052_WIT_00_A_09
+I’m not sure.
+$GEN_052_WIT_00_A_10
+Could he have been sleeping?
+$GEN_052_WIT_00_A_11
+No, no, he suffers from insomnia and–
+$GEN_052_WIT_00_A_12
+He’s beating his family.
+$GEN_052_WIT_01_A_QTitle
+Do your sons get along?
+$GEN_052_WIT_01_A_00
+Do your sons get along?
+$GEN_052_WIT_01_A_01
+Well, you know what boys are like. They fight from time to time, but that’s just how they are.
+$GEN_052_WIT_01_A_02
+Stop defending him, woman!
+$GEN_052_WIT_01_A_03
+Your older son is no longer a child.
+$GEN_052_WIT_01_A_04
+He will always be a child to me. If you have children, you know what I’m talking about.
+$GEN_052_WIT_01_A_05
+Was Vincent hitting Mathéo?
+$GEN_052_WIT_01_A_06
+Not at all, he’s a good boy. They would sometimes get into a struggle together, but children do.
+$GEN_052_WIT_01_A_07
+Did he ever hurt him?
+$GEN_052_WIT_01_A_08
+When he was 15, he–
+$GEN_052_WIT_01_A_09
+You know what I’m asking about.
+$GEN_052_WIT_01_A_10
+My son is a decent person. I don’t really understand why he was arrested.
+$GEN_052_WIT_01_B_QTitle
+Has Vincent ever hit you, Citizen?
+$GEN_052_WIT_01_B_00
+Has Vincent ever hit you, Citizen?
+$GEN_052_WIT_01_B_01
+Of course not, monsieur le juge.
+$GEN_052_WIT_01_B_02
+Does he ever shout at you?
+$GEN_052_WIT_01_B_03
+He can’t sleep recently, and sometimes he raises his voice, but it passes when he sleeps well. His leg hurts where the stitches were, and I sometimes buy a bottle for him. Men always feel better after a drink.
+$GEN_052_WIT_01_B_04
+If you do not buy him a bottle, does he get angry?
+$GEN_052_WIT_01_B_05
+No, no, my son never gets angry at me, no.
+$GEN_052_WIT_01_B_06
+Of course he doesn’t, that good, kind boy.
+$GEN_052_WIT_01_B_07
+That night, could you afford a bottle for him?
+$GEN_052_WIT_01_B_08
+I don’t remember well, you know, I’m old. But no, I don’t think so.
+$GEN_052_KEY_01
+War invalid
+$GEN_052_KEY_02
+Tenement
+$GEN_052_KEY_03
+Fall from the window
+$GEN_052_KEY_04
+Screams
+$GEN_052_KEY_05
+Scars and bruises
+$GEN_052_KEY_06
+Return of the wounded soldier
+$GEN_052_KEY_07
+Wine
+$GEN_052_KEY_08
+Mother and brother
+$GEN_052_LastDialog_00
+Cut this head off, please. Maybe then I will finally stop having nightmares…
+$GEN_052_UNIQUE_QUESTION_00
+Under what circumstances did the boy fall from the window?
+$GEN_052_UNIQUE_ANSWER_CORRECT_00_00
+He was playing on the windowsill.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_00_00
+He was arguing with his brother.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_00_01
+He was cleaning it.
+$GEN_052_UNIQUE_QUESTION_01
+Were the neighbours complaining about the veteran?
+$GEN_052_UNIQUE_ANSWER_CORRECT_01_00
+They said he was drinking and being aggressive.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_01_00
+They testified that he was stealing from them.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_01_01
+No, they did not complain.
+$GEN_052_UNIQUE_QUESTION_02
+According to the statements, what was the invalid doing at the time of the accident?
+$GEN_052_UNIQUE_ANSWER_CORRECT_02_00
+Sleeping.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Meeting his friends from the army.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Taking a walk by the Seine.

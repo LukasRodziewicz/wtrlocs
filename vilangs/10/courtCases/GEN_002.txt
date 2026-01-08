@@ -1,0 +1,258 @@
+$GEN_002_DOC_1_HEADER
+Hazırlayan: Raphaël Chalopin
+$GEN_002_DOC_1_00
+Sanık sandalyesinde, Section Bonne-Nouvelle, rue Poissonnière sakini Geneviève Lussier oturuyor. Yurttaş Lussier, aslen <a name="1" class="hidden">terzilik</a> yapıyor, ancak her salı, çarşamba ve cuma geceleri rue de Cléry’deki bir depoda bekçi olarak çalışıyor. Depo sahibi Antoine Tellier’e, neden geleneksel olarak erkeklere ait bir pozisyonda bir kadını çalıştırdığı sorulduğunda, “Tüm erkekler savaşa gitti, çalışacak kimse kalmadı,” diye yanıtladı.
+$GEN_002_DOC_1_01
+Kendisi, kolonilerden ithal edilen fıçıların içindeki <a name="3" class="hidden">altıda bir</a> <a name="4" class="hidden">kamış şekeri</a>ni çalmakla suçlanıyor. Vatandaş Tellier, olayın geçen Cuma gecesi ile Cumartesi sabahı arasında, Geneviève Lussier’nin vardiyasında gerçekleştiğini iddia ediyor. Ayrıca bize şekerin şu anki fiyatı hakkında da bilgi vermek istiyor – oldukça yüksek.
+$GEN_002_DOC_1_02
+Mülk sahibi ifade verdi – ve bu, yerinde yapılan incelemeyle doğrulandı – hiçbir pencerenin kırılmadığını, ön ya da arka kapının zorlanmadığını belirtti. Vardiyasını bitirdikten sonra Vatandaş Lussier herhangi bir olağandışı durum bildirmedi.
+$GEN_002_DOC_1_03
+Kayıp şekerin sabah vardiyasındaki işçiler tarafından bildirildiği belirtildi. Soruşturmacılar kayıtları inceledi ve bir süredir gece vardiyalarından sonra küçük kayıplar yaşandığını tespit etti.
+$GEN_002_DOC_1_04
+Geneviève Lussier, terzi
+ 
+   Orta yaşlı bir dul, <a name="6" class="hidden">beş çocuk annesi</a>. Jakobenleri destekliyor.
+$GEN_002_DOC_1_05
+Antoine Tellier Baharat tüccarı. Siyasetten uzak. Pek çok tedarikçisi ve müşterisi onu <a name="7" class="hidden">“açgözlü ve kurnaz”</a> olarak görür, ancak bu özellikten yoksun olanların tüccar olarak başarılı olamayacağı da bir gerçektir.
+$GEN_002_DOC_1_06
+Delil: <a name="8" class="hidden">Depo kayıt defteri.</a> Antoine Tellier’in ifadesi.
+$GEN_002_DOC_2_TOOLTIP
+Antoine Tellier’in ifadesi
+$GEN_002_DOC_2_00
+Antoine Tellier’in ifadesi: “Bayan Lussier bir süredir benim için çalışıyor ve ona <a name="9" class="hidden">tam anlamıyla güveniyordum</a>. Bu yüzden daha önce küçük miktarlarda mal eksildiğini fark ettiğimde tepki göstermedim – nasıl olsa <a name="10">işin olağan kayıpları</a> diye düşündüm. Fakat bu sefer daha büyük bir miktar çalındı ve söz konusu mallara yalnızca Bayan Lussier erişebiliyordu.”
+$GEN_002_OnStart_00
+Dava bana oldukça açık görünüyor. Yoksa bilmediğimiz bir şey mi var?
+$GEN_002_OnStart_01
+Lütfen kendinizi tanıtınız.
+$GEN_002_OnStart_02
+Geneviève Lussier. Terziyim.
+$GEN_002_OnStart_03
+Vatandaş Tellier’in deposundan şeker çalmakla suçlanıyorsunuz.
+$GEN_002_OnStart_04
+Hiçbir şey çalmadım! Tellier yalancı!
+$GEN_002_OnStart_05
+Gerçek bir hırsız gibi konuştun.
+$GEN_002_OnStart_06
+Sıçanlar şekerini yedi diye bir kadını hapse attı.
+$GEN_002_OnPrison_00
+Vatandaş Geneviève Lussier’i hapse mahkûm ediyorum!
+$GEN_002_OnPrison_01
+Bir avuç şeker için mi?!
+$GEN_002_OnPrison_02
+Şimdi çocuklarıma ne olacak? Mahkeme onlara sahip çıkacak mı?!
+$GEN_002_OnPrison_03
+Yasa, anne babalar da dahil olmak üzere, herkesin üzerindedir.
+$GEN_002_OnPrison_04
+Mahkûmu dışarı çıkarın.
+$GEN_002_OnPrison_05
+Sana ve ailene lanet olsun, alçak!
+$GEN_002_OnNotGuilty_00
+Vatandaş Tellier’nin deposunda kaybolan kamış şekeri davasında karar… suçsuz! Lütfen Bayan Lussier’i serbest bırakın.
+$GEN_002_OnNotGuilty_01
+Tellier o kadar kurnaz ki, bu işten de sıyrılır eminim.
+$GEN_002_OnNotGuilty_02
+Merhameti adaletin önüne koyamazsın!
+$GEN_002_OnGuilty_00
+Vatandaş Lussier, sizi giyotinle idama mahkûm ediyorum!
+$GEN_002_OnGuilty_01
+Bir avuç şeker için mi?!
+$GEN_002_OnGuilty_02
+Şimdi çocuklarıma ne olacak? Mahkeme onlara sahip çıkar mı?!
+$GEN_002_OnGuilty_03
+Yasa, herkesin üzerinde hüküm sürer; anne babalar da dahil.
+$GEN_002_OnGuilty_04
+Mahkûmu dışarı çıkarın.
+$GEN_002_OnGuilty_05
+Sana ve ailene lanet olsun, alçak!
+$GEN_002_01x02_00_QTitle
+Neden bu ek işi yapmayı seçtiniz?
+$GEN_002_01x02_00_00
+Neden bu ek işi yapmayı seçtiniz?
+$GEN_002_01x02_00_01
+Bu bir tercih değildi – evde aç bekleyenlerim var.
+$GEN_002_01x02_00_02
+Yani depoda çalışmaya yiyecek çalmak için mi başladın?
+$GEN_002_01x02_00_03
+O sandıkların ve varillerin içinde ne olduğunu ben bile bilmiyorum.
+$GEN_002_01x02_00_04
+Gündüzleri terzi olarak mı çalışıyorsunuz?
+$GEN_002_01x02_00_05
+Dikiş dikerim, çocuklarımın kıyafetlerini yıkarım, yemek yapar ve evi temizlerim.
+$GEN_002_01x02_00_06
+Ve akşamları depoda mı geçiriyorsunuz?
+$GEN_002_01x02_00_07
+Akşamlar mı? Hayır, Mösyö Yargıç, ben orada bütün gece kalırım. Sabah çocuklarıma kahvaltı hazırlamak için eve dönerim, sonra tekrar dikiş dikmeye giderim.
+$GEN_002_01x02_00_08
+Devrim her şeyi daha iyi yapacaktı!
+$GEN_002_01x06_01_QTitle
+Beş çocuğa nasıl bakabiliyorsunuz?
+$GEN_002_01x06_01_00
+Beş çocuğa nasıl bakıyorsunuz? Dosyalarda Bay Lussier’den hiç bahsedilmiyor.
+$GEN_002_01x06_01_01
+Bay Lussier silah çağrısına uydu ve cepheye gitti. Demek ki hoşuna gitti, çünkü orada kalmaya karar verdi. Ya da cesedi kaldı.
+$GEN_002_01x06_01_02
+Büyük Jüri’de merhamet uyandırmaya mı çalışıyorsunuz?
+$GEN_002_01x06_01_03
+O kelimenin benim için bir anlamı olalı çok zaman geçti.
+$GEN_002_01x06_01_04
+Yani, çocuklarınıza bakmanız gerekirken kocanızı savaşa gitmesine izin verdiniz?
+$GEN_002_01x06_01_05
+İznimi umursamadı bile. Sadece parayla ve madalyayla döneceğini açıkladı. Sanırım gürültüden ve işinden bıkmıştı.
+$GEN_002_02x09_02_QTitle
+Söz konusu olaylardan önce Yurttaş Tellier işinizden hiç şikayetçi oldu mu?
+$GEN_002_02x09_02_00
+Vatandaş Tellier, söz konusu olaylardan önce işinizden hiç şikayetçi oldu mu?
+$GEN_002_02x09_02_01
+Hayır, asla. Bana hep gülümsedi.
+$GEN_002_02x09_02_02
+Hiç uygunsuz bir şey yaparken yakalandınız mı?
+$GEN_002_02x09_02_03
+Asla. Bay Tellier bu yüzden eskiden tuttuğu ikinci bakıcıyı işten çıkardı. Eskiden her zaman birbirini gözetleyen iki kişi olurdu.
+$GEN_002_02x09_02_04
+Ama geriye yalnız kaldınız.
+$GEN_002_02x09_02_05
+Doğru.
+$GEN_002_02x09_02_06
+Bu sizin için epey elverişli oldu, değil mi? İkinci nöbetçiden kurtulmasını sağlayan siz miydiniz?
+$GEN_002_02x09_02_07
+Onunla konuşmam. O patron, ben sadece hizmetçiyim.
+$GEN_002_04x03_03_QTitle
+Şekere neden ihtiyacınız vardı?
+$GEN_002_04x03_03_00
+Şekere neden ihtiyacınız vardı?
+$GEN_002_04x03_03_01
+Hiçbir şey için, çünkü ben almadım.
+$GEN_002_04x03_03_02
+Bir fıçıdan altıda biri oldukça fazla sayılır.
+$GEN_002_04x03_03_03
+Aynen öyle! Ne işime yarar ki? Ekmek ve havuçla geçiniyoruz, bulabilirsek tabii.
+$GEN_002_04x03_03_04
+Basitçe pazara gidip satabilirdiniz. Şeker pahalı, çünkü şehir ithalatında zorluk yaşıyor.
+$GEN_002_04x03_03_05
+Bütün gün çalışırken bunu nasıl yapmamı bekliyorsun?
+$GEN_002_04x03_03_06
+Büyük çocuklarınız gidebilir. Böyle kalabalık bir aileye fazladan para fena olmazdı, değil mi?
+$GEN_002_04x03_03_07
+…
+$GEN_002_04x03_03_08
+Yargıç, bir avuç şeker yüzünden onu küreğe mahkûm etmek istiyor!
+$GEN_002_05x08_04_QTitle
+Kayıtlara göre tüm kayıplar gece vardiyasından sonra meydana gelmiş.
+$GEN_002_05x08_04_00
+Kayıtlara göre tüm kayıplar gece vardiyasından sonra gerçekleşmiş.
+$GEN_002_05x08_04_01
+Peki? İşte o zaman fareler yuvalarından çıkar.
+$GEN_002_05x08_04_02
+Sadece gece vardiyalarında mı çalıştınız?
+$GEN_002_05x08_04_03
+Evet, ama bazen mallar akşam geç saatte geliyor, bu yüzden hamallar bir şey çalmış olabilir. Her yere gözüm yok ki!
+$GEN_002_05x08_04_04
+Başka birinden şüpheleniyor musunuz?
+$GEN_002_05x08_04_05
+Hayır. Taşıyıcılar sürekli değişiyor, çünkü iş çok zor.
+$GEN_002_05x08_04_06
+Aynen öyle. Nöbetlerinizde değişiyorlardı ama şeker yalnızca sizin vardiyalarınızda kayboluyordu.
+$GEN_002_05x08_04_07
+…
+$GEN_002_05x08_04_08
+Artık onu rahat bırakın.
+$GEN_002_07x08_05_QTitle
+Tanık Antoine Tellier’i çağırın.
+$GEN_002_07x08_05_00
+Tanık Antoine Tellier’i çağırın.
+$GEN_002_07x08_05_02
+Lütfen kendinizi tanıtınız.
+$GEN_002_07x08_05_03
+Antoine Tellier. Ben bir tüccarım.
+$GEN_002_03x10_06_QTitle
+Belki de bu bir hırsızlık değil, sadece alışıldık bir mal kaybıdır?
+$GEN_002_03x10_06_00
+Belki de bu bir hırsızlık değil, sadece alışıldık bir mal kaybıdır?
+$GEN_002_03x10_06_01
+Bilmiyorum. Ama gerçek şu ki, geceleri karanlık oluyor ve Tellier fazladan fener almak fikrinden hoşlanmıyor. Bir şeye takılıp düşmek ya da kaymak çok kolay.
+$GEN_002_03x10_06_02
+Hamalların bir şeye takılıp tökezlediğini sık sık görür müsünüz?
+$GEN_002_03x10_06_03
+Bazen, ama genellikle onlardan uzak dururum.
+$GEN_002_03x10_06_04
+Kaybolan şekeri birisi dökmüş olabilir mi?
+$GEN_002_03x10_06_05
+Bilemiyorum, ama içlerinden biri kazara bir fıçı düşürüp içindekileri saçsaydı, bunu asla itiraf etmezdi.
+$GEN_002_03x10_06_06
+Tabii ki hayır, zavallı çocuğu suçlarlardı.
+$GEN_002_WIT_00_A_QTitle
+Elinizde bunun Yurttaş Lussier olduğunu kanıtlayan bir delil var mı…?
+$GEN_002_WIT_00_A_00
+Talihsiz şekeri çalanın Yurttaş Lussier olduğuna dair bir kanıtınız var mı?
+$GEN_002_WIT_00_A_01
+Bunu başka hiç kimsenin yapabileceğine inanmıyorum.
+$GEN_002_WIT_00_A_02
+Depoda neler olup bittiğini en iyi depo sahibi bilir.
+$GEN_002_WIT_00_A_03
+O gece gemilerden birinden sandıklar ve variller indiriliyordu. Neden o, neden taşıyıcılardan biri değil?
+$GEN_002_WIT_00_A_04
+Bir nedeni vardı. Kocasının savaşta öldüğünü ve geride beş çocuk bıraktığını duydum. Her şey örtüşüyor.
+$GEN_002_WIT_00_A_05
+Mantıklı geliyor, değil mi?
+$GEN_002_WIT_00_B_QTitle
+Kayıttaki farklılıklar, sadece alışıldık mal kaybı olabilir mi?
+$GEN_002_WIT_00_B_00
+Kayıttaki farklar, sadece alışıldık mal kayıpları olabilir mi? Birisi bir şey düşürdü, bir şey döküldü…
+$GEN_002_WIT_00_B_01
+Evet, olabilir. Şimdiye kadar da öyle olduğuna inanıyordum.
+$GEN_002_WIT_00_B_02
+Peki, hırsızlığı düşünmenize ne sebep oldu?
+$GEN_002_WIT_00_B_03
+Benim işçilerim sağlam adamlardır! Her gece bir şey düşürüp dökecek değiller ya! Herkesi işe almam – sadece güçlü kuvvetli insanlarla çalışırım. İyi işçiden kısmak bana göre değil!
+$GEN_002_WIT_00_B_04
+Ya onlardan biri de zor durumda kalıp çocukları için bir şey çaldıysa?
+$GEN_002_WIT_00_B_05
+Sanmıyorum. Onlara bakıcılardan daha fazla ödüyorum, bu yüzden durumlarının iyi olması gerekir.
+$GEN_002_WIT_00_B_06
+Eşitlik ve kardeşlik, öyle mi?
+$GEN_002_KEY_01
+Terzi
+$GEN_002_KEY_02
+[Ek iş]
+$GEN_002_KEY_03
+Çalınan miktar
+$GEN_002_KEY_04
+Kamış şekeri
+$GEN_002_KEY_05
+Sabah vardiyası
+$GEN_002_KEY_06
+Beş çocuk annesi
+$GEN_002_KEY_07
+Tellier’nin kurnazlığı
+$GEN_002_KEY_08
+Depo kayıt defteri
+$GEN_002_KEY_09
+İşverenin güveni
+$GEN_002_KEY_10
+[Mal kaybı]
+$GEN_002_LastDialog_00
+Şeker için mi çaldım? Çocuklarıma ne olacak? Onlara ne diyeceksiniz?
+$GEN_002_UNIQUE_QUESTION_00
+Kayıp şekerin ne zaman fark edildiği anlaşıldı?
+$GEN_002_UNIQUE_ANSWER_CORRECT_00_00
+Cuma’yı Cumartesi’ye bağlayan gece.
+$GEN_002_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Pazar günü, öğle vakti.
+$GEN_002_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Perşembe akşamı geç saatlerde.
+$GEN_002_UNIQUE_QUESTION_01
+Sanık hangi vardiyalarda çalışıyordu?
+$GEN_002_UNIQUE_ANSWER_CORRECT_01_00
+Gece vardiyaları.
+$GEN_002_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Gündüz vardiyaları.
+$GEN_002_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Hem gece hem gündüz vardiyaları.
+$GEN_002_UNIQUE_QUESTION_02
+Kimse düzenli mal kayıplarını açıklamaya çalıştı mı?
+$GEN_002_UNIQUE_ANSWER_CORRECT_02_00
+Depo zayıf bir şekilde aydınlatılmıştı.
+$GEN_002_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Çalışanlar fiziksel olarak zayıftı.
+$GEN_002_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Böyle bir açıklama yapılmadı.

@@ -1,0 +1,22 @@
+$DIAL_H_01_02_19_001_GRANDFATHER
+Yaraların nasıl?
+$DIAL_H_01_02_19_002_JUDGE
+İyileşiyorlar. Hepsi yeni dostlarımız sayesinde.
+$DIAL_H_01_02_19_003_WIFE
+Gerçekten mi?
+$DIAL_H_01_02_19_004_JUDGE
+Ne oldu?
+$DIAL_H_01_02_19_005_WIFE
+Sana hatırlatayım, burada, bu evde dinleniyorsun. Seni buraya getirdiler ve başından beri sana bakan ailen oldu. Biz, aileni, tehlikeye atan sensin.
+$DIAL_H_01_02_19_006_JUDGE
+Bir ara sokakta bıçaklanmak istediğimi mi sanıyorsun?
+$DIAL_H_01_02_19_007_GRANDFATHER
+Karınız aileniz için en iyisini istiyor. Kardeşiniz ise…
+$DIAL_H_01_02_19_008_JUDGE
+Kardeşim, ailemizi tehdit edenlere karşı savaşarak korumak istedi, sen ise sadece beklemeyi seçtin! Ama ben bir kralın başının, bir esnafınki kadar kolay yuvarlandığını gördüm. Yalnızca güç...
+$DIAL_H_01_02_19_009_GRANDFATHER
+Sen Tribünal Yargıcısın! Gücün var!
+$DIAL_H_01_02_19_010_JUDGE
+Asıl güç, bu katilleri tutanlarda — Rolandlar’da ya da onların emrindekilerde. Bu şehirde yaşam ve ölüm onların elinde.
+$DIAL_H_01_02_19_011_WIFE
+Umarız, o çok değerli gücünü ele geçirmeden önce hepimizi öldürmezler.

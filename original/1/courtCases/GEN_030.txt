@@ -1,0 +1,280 @@
+$GEN_030_DOC_01_HEADER
+Compiled by: Nathan d'Essiraf
+$GEN_030_DOC_01_00
+René Mazeaud, 43 years old. A judge of one of the Parisian Tribunals. Before the Revolution, he was a trusted counsel for trade tycoons and the richest aristocratic families. After 1789, he became inspired by the ideals of the Revolution and was appointed as a judge.
+$GEN_030_DOC_01_01
+The people of Paris accused him of corruption and betrayal of the Revolution after he <a name="2" class="hidden">exculpated Adèle</a> de Maillard. She was accused of participating in her husband Emmanuel’s plot. Their conspiracy led to the murder of Gilbert Fuster, the popular chairman of the Revolutionary Committee.
+$GEN_030_DOC_01_02
+Adèle de Maillard’s guilt was proven by indisputable evidence. She lured the victim to her hunting lodge, where he was later killed by her husband. Nevertheless, Mazeaud, who was <a name="4" class="hidden">the Judge in Adèle’s case</a>, went to <a name="5" class="hidden">visit the accused in prison</a> during an adjournment of her trial that he himself ordered. Such visits, of course, are far from common. The judge was accompanied by Guard Roux. After that visit, Mazeaud resumed the trial and acquitted the defendant.
+$GEN_030_DOC_01_03
+The infuriated mob detained the Judge right after the verdict was announced. A quick search of his house revealed <a name="7" class="hidden">a document</a> proving that he had obtained financial gain from Adèle Maillard.
+$GEN_030_DOC_01_04
+The fact that prior to the Revolution Mazeaud was <a name="8" class="hidden">the lawyer of Joseph de Maillard</a>, Adèle’s father, only adds further intrigue to the case. Thanks to Mazeaud’s help, the old Maillard became rich exporting goods. With regards to Adèle de Maillard, she is currently <a name="9" class="hidden">missing</a>.
+$GEN_030_DOC_02_00
+<a name="10" class="hidden">Adèle de Maillard’s Last Will and Testament</a>:
+$GEN_030_DOC_02_01
+I, the undersigned Adèle de Maillard, being of sound mind, bequeath all the properties inherited by me from my father, Joseph de Maillard, to Citizen René Mazeaud. I declare that the aforementioned inheritance is part of my personal assets, thus they shall not be subject to any hereditary claims that could be made by my late husband Emmanuel’s heirs. Adèle de Maillard
+$GEN_030_OnStart_00
+What is your name?
+$GEN_030_OnStart_01
+René Mazeaud, monsieur le juge. I know the procedure very well. Could you move directly to the charges?
+$GEN_030_OnStart_02
+If the accused knows the procedure so well, he should know that it is I who makes the decisions, and not the defendant.
+$GEN_030_OnStart_03
+I beg your pardon, old habits…
+$GEN_030_OnStart_04
+René Mazeaud, you have been accused of accepting a bribe for freeing Adèle de Maillard, an enemy of the people and the Revolution. Can you explain yourself?
+$GEN_030_OnStart_05
+Citizen de Maillard was innocent. I investigated her case as a judge, and delivered the verdict. As far as my alleged bribery is concerned, this charge is not based on evidence or facts.
+$GEN_030_OnStart_06
+Let me remind you that we have de Maillard’s will.
+$GEN_030_OnStart_07
+That document is not related to the case, and I did not even know its content.
+$GEN_030_OnGuilty_00
+I sentence Citizen René Mazeaud to be guillotined! Lead the condemned out.
+$GEN_030_OnGuilty_01
+You have restored honour to your profession.
+$GEN_030_OnGuilty_02
+Wonderful!
+$GEN_030_OnGuilty_03
+As it should be!
+$GEN_030_OnNotGuilty_00
+The judgement for René Mazeaud is… not guilty! Lead the defendant away.
+$GEN_030_OnNotGuilty_01
+Treason!
+$GEN_030_OnNotGuilty_02
+Arrest the Judge!
+$GEN_030_OnNotGuilty_03
+I see. You would rather not set a precedent.
+$GEN_030_02x03_00_QTitle
+Why did you exculpate Adèle de Maillard if she helped her husband…?
+$GEN_030_02x03_00_00
+Why did you exculpate Adèle de Maillard if she helped her husband to kill Gilbert Fuster?
+$GEN_030_02x03_00_01
+There was no conclusive evidence of deliberate complicity by Citizen de Maillard.
+$GEN_030_02x03_00_02
+Nor was there any evidence that she tried to stop her husband from committing the murder.
+$GEN_030_02x03_00_03
+That is a completely different thing than deliberate complicity, is it not?
+$GEN_030_02x03_00_04
+The Law of Suspects does not differentiate between deliberate and involuntary complicity in crimes against the Revolution.
+$GEN_030_02x03_00_05
+It should not replace the Judge’s conscience and common sense. It is a decree regarding the suspects, not the convicted.
+$GEN_030_01x10_01_QTitle
+Was Adèle de Maillard’s will the price for her exculpation?
+$GEN_030_01x10_01_00
+Was Adèle de Maillard’s will the price for her exculpation?
+$GEN_030_01x10_01_01
+No, Citizen de Maillard drew it up discreetly of her own volition. I was unaware of its content.
+$GEN_030_01x10_01_02
+The defendant did not know its content even though it was in his possession? Interesting.
+$GEN_030_01x10_01_03
+The will was drawn up and sealed during my visit to the prison. Only then did Adèle de Maillard hand it to me and ask me to leave it with the notary Jules Costa.
+$GEN_030_01x10_01_04
+But the defendant was present when it was written out, so he had the opportunity to affect the content!
+$GEN_030_01x10_01_05
+Had I known the will's contents I would have sentenced Citizen de Maillard to be guillotined to inherit her assets. But I did not.
+$GEN_030_01x10_01_06
+Then why did she bequeath everything to you?
+$GEN_030_01x10_01_07
+I do not know that, and would rather not guess.
+$GEN_030_01x10_01_08
+How close were you to Adèle de Maillard?
+$GEN_030_01x10_01_09
+We knew each other, but were not close enough to be friends.
+$GEN_030_08x10_02_QTitle
+You worked for Adèle’s father, Joseph de Maillard, in the past.
+$GEN_030_08x10_02_00
+You worked for Adèle’s father, Joseph de Maillard, in the past. Could you assess his business and fortune?
+$GEN_030_08x10_02_01
+When our cooperation ended, Joseph de Maillard’s assets were earning him roughly 2 million francs, and I think they are still profitable today.
+$GEN_030_08x10_02_02
+So Adèle de Maillard would have quite a fortune.
+$GEN_030_08x10_02_03
+I know what you are implying, but I categorically deny persuading Citizen de Maillard to make me her inheritor.
+$GEN_030_08x10_02_04
+You are surprisingly well oriented in the Maillard’s financial situation.
+$GEN_030_08x10_02_05
+That is not surprising. I was their trusted counsel.
+$GEN_030_08x10_02_06
+With their money you would live like a king. It would seem to be a strong temptation.
+$GEN_030_08x10_02_07
+Would you succumb to it?
+$GEN_030_08x10_02_08
+Never.
+$GEN_030_08x10_02_09
+Precisely, and neither did I.
+$GEN_030_05x06_03_QTitle
+Call in the witness, Simon Roux.
+$GEN_030_05x06_03_00
+Call in the witness, Simon Roux.
+$GEN_030_05x06_03_02
+Please introduce yourself.
+$GEN_030_05x06_03_03
+Simon Roux, summoned here be monsieur le juge.
+$GEN_030_08x09_04_QTitle
+Did you know Adèle de Maillard?
+$GEN_030_08x09_04_00
+Did you know Adèle de Maillard?
+$GEN_030_08x09_04_01
+Prior to the Revolution, I conducted some of her father’s business. I assume that she could have known me.
+$GEN_030_08x09_04_02
+So she could have trusted you and, perhaps, counted on your mercy?
+$GEN_030_08x09_04_03
+It is possible, but I do not know. But there was no mercy when I gave the verdict.
+$GEN_030_08x09_04_04
+Really? You exculpated her in spite of strong evidence!
+$GEN_030_08x09_04_05
+It did not seem so strong at the time, but perhaps you know better.
+$GEN_030_08x09_04_06
+Of course he wouldn’t sentence his friend.
+$GEN_030_04x05_05_QTitle
+Why did you meet Adèle de Maillard in prison?
+$GEN_030_04x05_05_00
+Why did you meet Adèle de Maillard in prison? This is not something usually done during a trial.
+$GEN_030_04x05_05_01
+Citizen de Maillard fainted during the first day of the trial. I wanted to make sure that she was not pretending, and that I would be able to resume the trial as soon as possible.
+$GEN_030_04x05_05_02
+She could have planned that.
+$GEN_030_04x05_05_03
+I do not believe so. She felt quite ill.
+$GEN_030_04x05_05_04
+You could have waited for a doctor.
+$GEN_030_04x05_05_05
+And, as you know, I would have been waiting rather a long time. I also wanted to hasten things along as there was a long list of accused awaiting trial.
+$GEN_030_09x10_06_QTitle
+Are you responsible for Adèle de Maillard’s disappearance?
+$GEN_030_09x10_06_00
+Are you responsible for Adèle de Maillard’s disappearance?
+$GEN_030_09x10_06_01
+Of course not, I had nothing to do with that.
+$GEN_030_09x10_06_02
+The disappearance of Citizen de Maillard does look rather convenient for you, especially considering the content of her will.
+$GEN_030_09x10_06_03
+I wonder whether you killed or simply hid her to get the money sooner?
+$GEN_030_09x10_06_04
+Once again, I do not know Citizen de Maillard’s location, nor had I anything to do with her disappearance. I do not know whether she is alive or dead.
+$GEN_030_07x10_07_QTitle
+Where did you get the will?
+$GEN_030_07x10_07_00
+Where did you get the will?
+$GEN_030_07x10_07_01
+Citizen de Maillard handed it to me when I visited her in prison and asked me to give it to a notary. There is nothing illegal about that.
+$GEN_030_07x10_07_02
+She did so during the adjournment of her trial?
+$GEN_030_07x10_07_03
+Indeed.
+$GEN_030_07x10_07_04
+Why did she wait that long?
+$GEN_030_07x10_07_05
+I do not know. You would have to find her and ask her yourself.
+$GEN_030_WIT_00_A_QTitle
+How many times did you visit Adèle de Maillard in prison?
+$GEN_030_WIT_00_A_00
+How many times did you visit Adèle de Maillard in prison?
+$GEN_030_WIT_00_A_01
+Only once, Citizen Judge, during her trial.
+$GEN_030_WIT_00_A_02
+Was the accused as interested in all the detainees?
+$GEN_030_WIT_00_A_03
+As far as I remember, Judge Mazeaud didn’t meet any other detainee. But I was ordered not to interfere with him.
+$GEN_030_WIT_01_A_QTitle
+Could you describe Mazeaud’s visit with the former detainee?
+$GEN_030_WIT_01_A_00
+Could you describe Mazeaud’s visit with the former detainee?
+$GEN_030_WIT_01_A_01
+It was calm at first, then at some point they started shouting at each other. Then they were calm again.
+$GEN_030_WIT_01_A_02
+Could you say who shouted what?
+$GEN_030_WIT_01_A_03
+Judge Mazeaud said that something was inappropriate and against the rules, and he wouldn’t do it. I didn’t understand the detainee’s words, she was mumbling.
+$GEN_030_WIT_01_A_04
+Do you think they could have been arguing because de Maillard attempted to bribe him with a share in her inheritance?
+$GEN_030_WIT_01_A_05
+That’s rather obvious.
+$GEN_030_WIT_01_A_06
+I think so. The judge had a bag containing writing materials with him.
+$GEN_030_WIT_01_A_07
+So he planned it!
+$GEN_030_WIT_01_A_09
+What say you to those allegations?
+$GEN_030_WIT_01_A_10
+It is my opinion they prove that I never demanded any gratuity for exculpating the defendant.
+$GEN_030_WIT_01_A_11
+But you could have agreed on such a proposal, even if you were reluctant at first.
+$GEN_030_WIT_01_A_12
+The only thing I was reluctant of was undertaking the delivery of her will to a notary.
+$GEN_030_WIT_01_B_QTitle
+Did you know the purpose of the Judge’s visit to the prison?
+$GEN_030_WIT_01_B_00
+Did you know the purpose of the Judge’s visit to the prison?
+$GEN_030_WIT_01_B_01
+Yes, there was an official note claiming that Judge Mazeaud wanted to check on the defendant’s health.
+$GEN_030_WIT_01_B_02
+And he did?
+$GEN_030_WIT_01_B_03
+What was there to check? Consumption, Citizen Judge, and it was bad. She didn’t have much time left. And there was one more thing…
+$GEN_030_WIT_01_B_04
+What?!
+$GEN_030_WIT_01_B_05
+Before the trial, we performed a thorough medical examination of the defendant and found that she was pregnant. It hadn’t been for long, but her belly was already getting bigger. Somehow no one else had noticed it.
+$GEN_030_WIT_01_B_06
+She abandoned her assets to give birth. It is as simple as that.
+$GEN_030_WIT_01_B_07
+Whose child could it be?
+$GEN_030_WIT_01_B_08
+I don’t know for sure, but I heard rumours about Gilbert Fuster.
+$GEN_030_WIT_01_B_10
+What say you to those allegations?
+$GEN_030_WIT_01_B_11
+I think that we have heard enough to understand why sending Citizen de Maillard to the guillotine, as the people wanted, would have been barbaric. Even if there was conclusive evidence of her guilt.
+$GEN_030_WIT_01_B_12
+We can also understand how much you stood to profit as the sole inheritor of Adèle de Maillard’s wealth.
+$GEN_030_WIT_01_B_13
+I would have to wait for her death and that of her unborn child. Anyone who dares call themselves a human being would find this despicable.
+$GEN_030_KEY_01
+Accusations of corruption
+$GEN_030_KEY_02
+Exculpation of the defendant
+$GEN_030_KEY_03
+Conclusive evidence of guilt
+$GEN_030_KEY_04
+The judge in Adèle’s case
+$GEN_030_KEY_05
+Visiting the defendant
+$GEN_030_KEY_06
+The prison guard
+$GEN_030_KEY_07
+Discovery of the documents
+$GEN_030_KEY_08
+The lawyer for Adèle’s father
+$GEN_030_KEY_09
+Adèle’s disappearance
+$GEN_030_KEY_10
+The will
+$GEN_030_LastDialog_00
+We will soon meet again, dear Judge…
+$GEN_030_UNIQUE_QUESTION_00
+How did Mazeaud justify the exculpation of Maillard?
+$GEN_030_UNIQUE_ANSWER_CORRECT_00_00
+A lack of evidence.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_00_00
+The testimonies given by the witnesses.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_00_01
+An intervention made by his superiors.
+$GEN_030_UNIQUE_QUESTION_01
+According to the Judge himself, why did he go to the defendant’s cell?
+$GEN_030_UNIQUE_ANSWER_CORRECT_01_00
+He was worried about her health.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_01_00
+He wanted to question her.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_01_01
+He was looking for evidence.
+$GEN_030_UNIQUE_QUESTION_02
+Who was the defendant to the acquitted woman?
+$GEN_030_UNIQUE_ANSWER_CORRECT_02_00
+Her father’s lawyer.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Her former servant.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Her bastard half-brother.

@@ -1,0 +1,196 @@
+$GEN_025_DOC_1_HEADER
+Compilé par : Nathan d'Essiraf
+$GEN_025_DOC_1_00
+Aimée Danet, orpheline de 19 ans ouvrière dans un atelier de tissage, est accusée d'être un agent monarchiste. Du temps du Roi, elle travaillait comme cuisinière dans la résidence parisienne de Xavier de Borda, <a name="2" class="hidden">baron de Lézines</a>, fidèle partisan de Louis Capet. Rappelons que celui-ci fut inculpé, au début de la Révolution, de conspiration contre la France. Cependant, par manque de preuves, seuls son titre et sa fortune lui furent retirés.
+$GEN_025_DOC_1_01
+Danet a été dénoncée par Louis Berthier, le maître de son atelier, agé de 56 ans. Il l'accuse de <a name="3" class="hidden">soutien aux monarchistes</a> et de tenir des vues contre-révolutionnaires.
+$GEN_025_DOC_1_02
+Aimée aurait <a name="4" class="hidden">dérobé</a> des victuailles dans l'atelier de tissage. Ce délit ordinaire ne mériterait guère notre attention si l'accusée n'avait pas remis l'objet de son larcin à Xavier de Borda. Il se trouve que l'ancien baron, à la suite de son procès, s'est retrouvé à mendier en haillons dans la rue.
+$GEN_025_DOC_1_03
+Le récit du délit nous a été livré par une autre ouvrière de 51 ans, Barberine Cuvier, qui a également été au service du baron, mais pour une courte durée. Elle a attesté avoir vu Aimée prendre du pain et du fromage à l'atelier et le donner à de Borda. Ce dernier importunait d'ailleurs les autres ouvriers en leur demandant de lui apporter de quoi manger <a name="5" class="hidden">contre de l'argent</a>.
+$GEN_025_DOC_1_04
+L'ancien aristocrate a été arrêté pour vagabondage. Au cours de son interrogatoire, il confirma tous les points établis précédemment, à cela près qu'il nia avoir reconnu Aimée et lui avoir proposé quoi que ce soit contre de la nourriture.
+$GEN_025_OnStart_00
+Sale catin bourgeoise !
+$GEN_025_OnStart_01
+Ne gâchez pas la guillotine sur elle, livrez-la-nous plutôt !
+$GEN_025_OnStart_02
+L'accusée a voulu faire preuve d'humanité à une époque d'inhumanité. Ou peut-être a-t-elle seulement été stupide à une époque sans merci pour la stupidité ? Je ne sais quel épitaphe choisir pour sa tombe.
+$GEN_025_OnStart_03
+Citoyenne, comment t'appelles-tu ?
+$GEN_025_OnStart_04
+Aimée… Aimée Danet.
+$GEN_025_OnStart_05
+Qu'as-tu à dire pour ta défense ?
+$GEN_025_OnStart_06
+Je… Je n'ai rien fait…
+$GEN_025_OnStart_07
+Elle ment de toute évidence. Son dossier décrit en détail la raison de son procès.
+$GEN_025_OnStart_08
+Citoyenne Danet, le maître de ton atelier soutient que tu aidais régulièrement un contre-révolutionnaire acharné, l'ancien baron de Lézines Xavier de Borda, en lui fournissant des victuailles.
+$GEN_025_OnStart_09
+J'ai seulement donné à manger à un pauvre homme. Je n'avais pas de mauvaises intentions.
+$GEN_025_OnStart_10
+Pourquoi n'as-tu pas donné à manger à un enfant plutôt qu'à un homme qui a connu la richesse ?
+$GEN_025_OnStart_11
+Dois-je avoir moins pitié d'un vieillard que d'un enfant ?
+$GEN_025_OnStart_12
+Elle ment, comme tous les monarchistes !
+$GEN_025_OnGuilty_00
+Je condamne la citoyenne Aimée Danet à être guillotinée ! Emmenez-la.
+$GEN_025_OnGuilty_01
+J'admire ton attachement à la cause.
+$GEN_025_OnGuilty_02
+Bien vu, juge, quelle sagesse !
+$GEN_025_OnGuilty_03
+Une parasite en moins.
+$GEN_025_OnGuilty_04
+Dommage pour ce joli minois…
+$GEN_025_OnNotGuilty_00
+Je déclare la citoyenne Aimée Danet… non coupable. Que liberté lui soit rendue.
+$GEN_025_OnNotGuilty_01
+Je comprends que tu puisses croire à ses explications, mais je déplore que ton intuition manquât de force pour voir clair à travers son jeu.
+$GEN_025_OnNotGuilty_02
+Il laisse une voleuse en liberté !
+$GEN_025_OnNotGuilty_03
+On laisse les contre-révolutionnaires tranquilles maintenant ?!
+$GEN_025_OnNotGuilty_04
+Tu es un ennemi du peuple !
+$GEN_025_02x03_00_QTitle
+Soutiens-tu la Révolution ?
+$GEN_025_02x03_00_00
+Soutiens-tu la Révolution ?
+$GEN_025_02x03_00_01
+Oui, mais je dois avouer que je le faisais avec plus d'ardeur du temps où les coffres ne se vidaient pas…
+$GEN_025_02x03_00_02
+Sans doute pour la simple raison que tu faisais partie auparavant des privilégiés qui logeaient dans les palais.
+$GEN_025_02x03_00_03
+Du temps du Roi, on n'avait même pas de coffres !
+$GEN_025_02x03_00_04
+Quel dommage que vous n'ayez pas été à notre place dans les palais…
+$GEN_025_02x03_00_05
+La Révolution t'a donc déçue et tu as alors décidé d'aider ses ennemis ?
+$GEN_025_02x03_00_06
+Non, j'ai seulement aidé un mendiant qui demandait un morceau de pain.
+$GEN_025_02x03_00_07
+Ce mendiant était l'ancien baron de Borda, que le tribunal a reconnu comme un ennemi de la France et du peuple français.
+$GEN_025_02x03_00_08
+Le baron a beaucoup changé. Il est désormais maigrelet et grisonnant, il m'a donné l'impression de pouvoir défaillir d'une minute à l'autre.
+$GEN_025_02x03_00_09
+Mais lui, est-ce qu'il a déjà eu pitié de quelqu'un ?
+$GEN_025_02x04_01_QTitle
+Les denrées que tu as données à Xavier de Borda t'appartenaient-elles ?
+$GEN_025_02x04_01_00
+Les denrées que tu as données à Xavier de Borda t'appartenaient-elles ?
+$GEN_025_02x04_01_01
+Je… Je les ai prises sur la table de M. Berthier parce que...
+$GEN_025_02x04_01_02
+Elles ne t'appartenaient donc pas ?
+$GEN_025_02x04_01_03
+Non.
+$GEN_025_02x04_01_04
+Tu les as donc volées ! Avoue !
+$GEN_025_02x04_01_05
+Silence ! L'accusée admet-elle avoir volé des denrées appartenant à M. Berthier ?
+$GEN_025_02x04_01_06
+Non. M. Berthier ne me paye plus depuis deux mois. C'est lui qui devrait être jugé pour vol !
+$GEN_025_02x04_01_07
+Ne pas recevoir ton salaire ne te donne pas le droit de voler les biens du citoyen Berthier. Tu aurais dû venir nous le signaler.
+$GEN_025_02x04_01_08
+C'est de sa faute si je ne peux même pas m'acheter de pain, sans parler des autres. Il n'a qu'à le déduire de ce qu'il me doit.
+$GEN_025_02x04_01_09
+Cette mentalité est caractéristique de l'Ancien Régime : faut-il encore souffrir de les entendre dire « On me doit ceci » pour justifier leurs vols et leur égoïsme ?
+$GEN_025_02x04_01_10
+Berthier n'est pas un saint non plus.
+$GEN_025_01x03_02_QTitle
+Pourquoi as-tu aidé le citoyen de Borda ?
+$GEN_025_01x03_02_00
+Pourquoi as-tu aidé le citoyen de Borda ?
+$GEN_025_01x03_02_01
+Il mourait de faim. Et je connais bien cette sensation…
+$GEN_025_01x03_02_02
+Il a aussi été condamné pour des activités contre-révolutionnaires, que toi, en tant qu'ancienne personne à son service, tu connaissais très bien.
+$GEN_025_01x03_02_03
+Mes yeux n'ont vu qu'un pauvre pouilleux. Comment aurais-je pu reconnaître le baron ? Je ne suis toujours pas convaincue qu'il s'agissait de lui.
+$GEN_025_01x03_02_04
+Cherches-tu à nous convaincre que tu n'as pas reconnu un homme pour lequel tu as travaillé durant tant d'années ?
+$GEN_025_01x03_02_05
+Tout maigrichon, sans sa perruque et ses parures ? Lui-même ne pourrait pas se reconnaître.
+$GEN_025_01x03_02_06
+Impossible.
+$GEN_025_01x03_02_07
+En aurais-tu fais autant si tu avais connu l'identité du mendiant ?
+$GEN_025_01x03_02_08
+Les condamnés ont besoin de manger, comme tout le monde. Il n'est plus qu'un mendiant, quel mal peut-il encore faire à la France ?
+$GEN_025_01x02_03_QTitle
+Combien de temps as-tu été au service de l'ancien baron de Lézines ?
+$GEN_025_01x02_03_00
+Combien de temps as-tu été au service de l'ancien baron de Lézines ?
+$GEN_025_01x02_03_01
+Quelques années. Je ne me souviens plus exactement, j'étais encore enfant quand on m'a mise à la cuisine.
+$GEN_025_01x02_03_02
+Tu as donc eu assez de temps pour examiner le baron sous tous ses traits et les graver dans ta mémoire.
+$GEN_025_01x02_03_03
+Le baron ne venait jamais en cuisine et nous avions interdiction d'aller dans les appartements. Je l'apercevais habituellement par la fenêtre, lorsqu'il partait à la chasse sur son cheval.
+$GEN_025_01x02_03_04
+Vous avez entendu ? Il allait chasser, ce grand seigneur.
+$GEN_025_01x02_03_05
+Est-ce que tu sous-entends que s'il était entré dans la cuisine lorsque tu y travaillais, tu n'aurais pas su qui il était ?
+$GEN_025_01x02_03_06
+Ce mendiant me paraissait familier, mais je ne savais pas pourquoi.
+$GEN_025_04x05_04_QTitle
+Qu'as-tu reçu du baron en échange de la nourriture ?
+$GEN_025_04x05_04_00
+Qu'as-tu reçu du baron en échange de la nourriture ?
+$GEN_025_04x05_04_01
+Un compliment. Qu'aurais-je pu attendre d'autre de la part d'un miséreux affamé ? Des poux à la rigueur, voilà tout ce qu'il avait à offrir.
+$GEN_025_04x05_04_02
+Des témoins prétendent qu'il t'a promis une part de sa fortune secrète.
+$GEN_025_04x05_04_03
+La faim le rendait fou. Pourquoi vivrait-il dans la rue s'il avait de l'argent ? Qui peut croire une telle sornette ?
+$GEN_025_04x05_04_04
+Les gens comme lui ont toujours de l'or caché quelque part !
+$GEN_025_04x05_04_05
+Qui sait, peut-être vivait-il là pour ne pas attirer l'attention ?
+$GEN_025_04x05_04_06
+S'il avait eu de l'argent, il aurait pu acheter de quoi manger, tout bêtement.
+$GEN_025_04x05_04_07
+C'est vrai.
+$GEN_025_04x05_04_08
+À moins qu'il savait que cela lui était impossible parce que personne ne voudrait servir un ennemi de la Révolution.
+$GEN_025_KEY_01
+Cuisinière
+$GEN_025_KEY_02
+Baron de Lézines
+$GEN_025_KEY_03
+Soutien des monarchistes
+$GEN_025_KEY_04
+Vol de denrées
+$GEN_025_KEY_05
+Argent contre nourriture
+$GEN_025_LastDialog_00
+La bonté vous vaut maintenant la mort ; la naïveté, la guillotine. Que t'arrive-t-il, ma France…
+$GEN_025_UNIQUE_QUESTION_00
+Où la femme s'est-elle procurée la nourriture ?
+$GEN_025_UNIQUE_ANSWER_CORRECT_00_00
+Elle a avoué l'avoir volé à son employeur.
+$GEN_025_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Elle affirme que c'était son dîner.
+$GEN_025_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Elle affirme l'avoir acheté pour le mendiant.
+$GEN_025_UNIQUE_QUESTION_01
+À quel point le baron a-t-il changé depuis le procès ?
+$GEN_025_UNIQUE_ANSWER_CORRECT_01_00
+La peau lui colle aux os et ses cheveux sont devenus blancs.
+$GEN_025_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Il est devenu bossu et très ridé.
+$GEN_025_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il a perdu ses cheveux et des dents.
+$GEN_025_UNIQUE_QUESTION_02
+Pendant combien de temps Danet a-t-elle travaillé au service du baron ?
+$GEN_025_UNIQUE_ANSWER_CORRECT_02_00
+Depuis son enfance.
+$GEN_025_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Quelques mois.
+$GEN_025_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Quelques jours à peine.

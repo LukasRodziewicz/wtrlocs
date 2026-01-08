@@ -1,0 +1,200 @@
+$GDTIE
+Beraberlik!
+$GDWIN
+Kazandınız!
+$GDLOSE
+Kaybettiniz!
+$GDEFFECTS
+Etkiler:
+$GDFAVOUR_ALREADY
+Tinville’in zaten size bir borcu vardı.
+$GDFAVOUR_LOSE
+Tinville'den bir iyilik koparamadınız.
+$GDFAVOUR_WON
+Lütuf açıldı!
+$GDRESULT
+Sonuç:
+$GDBET
+Teklif:
+$GDSCORING
+Puanlama Kuralları
+$GDSCOREBOARD_INFO
+Aynı sayıyı iki veya daha fazla zarla attığınızda puan kazanırsınız. Zarların üzerindeki sayı ne kadar yüksekse, puan çarpanı da o kadar artar. Örneğin: iki tane 6 attığınızda 120 puan, iki tane 1 attığınızda 20 puan kazanırsınız.
+$GDSCOREBOARD_SPECIALSCORE
+Özel puan:
+$GDSELECTION_TITLE
+Başlık
+$GDSELECTION_DESCRIPTION
+Açıklama
+$GDACCEPT_OPPONENT_TOOLTIP
+Oyna
+$GDROLL_TOOLTIP
+Zarları At
+$GDREROLL_TOOLTIP
+Tekrar At
+$GDREROLL_ACCEPT_TOOLTIP
+Kabul Et
+$GDREROLL_BACK_TOOLTIP
+Geri dön
+$REROLL_CHOOSE_DICES
+Yeniden atmak için zarları seç
+$GDPASS_TOOLTIP
+Rakibin Hamlesi
+$GDPLAYAGAIN_TOOLTIP
+Tekrar Oyna
+$GDEXIT_TOOLTIP
+Çıkış
+$GDROLL_PLAYERTURN
+Atış
+$GDROLL_OPPONENTTURN
+Rakibin Hamlesi
+$GDREROLL
+Tekrar At
+$GDBUYROUND
+Bir Tur Ismarla ({0} IP)
+$GDBUYROUND_LOCKED
+Bir tur ısmarlayacak gücünüz yok ({0} IP)
+$GDBUYROUND_USED
+Zaten bir tur ısmarladınız
+$GD_ONESHOT_INFO
+Tek Atış Bilgisi
+$GD_ONESHOT_COMMENT
+Tek Seferlik Yorum
+$GDJUDGE_SHORTNAME
+Yargıç
+$GDOPPONENT_003_SHORTNAME
+Tinville
+$GDOPPONENT_004_SHORTNAME
+Pache
+$GDOPPONENT_005_SHORTNAME
+Renard
+$GDOPPONENT_010_SHORTNAME
+Bruno
+$GDJUDGE_SHORTNAME_NAME
+Alexis
+#CUT_023_RESULT
+Bahis: Hain hakkında bilgi
+#CUT_030_RESULT
+Bahis: Oğlun elinden
+#CUT_035_RESULT
+Bahis: Hayat
+$GD003_COMMENT_WELCOMEFIRST_01
+Seni burada bulacağımı duymuştum. Görüyorum ki, Devrim Mahkemesi yargıçları da sıradan halkın zaaflarını paylaşıyor.
+$GD003_COMMENT_WELCOMEJUDGEWON_01
+Bir rövanşı hak etmiyor muyum?
+$GD003_COMMENT_WELCOMEJUDGEWON_02
+Bu sefer o kadar kolay olmayacak.
+$GD003_COMMENT_WELCOMEJUDGEWON_03
+Bir aile babası için buraya fazla sık geliyorsunuz.
+$GD003_COMMENT_WELCOMEJUDGELOST_01
+Azminize saygı duyuyorum…
+$GD003_COMMENT_WELCOMEJUDGELOST_02
+Gündüz aziz, gece suçlu. Biz buyuz.
+$GD003_COMMENT_WELCOMEJUDGELOST_03
+Babam bir keresinde, bizim gibi insanların kusursuz olması gerektiğini söylemişti. Ama ben buna katılmıyorum.
+$GD003_COMMENT_ROLLJUDGEWON_01
+Bir yutmakla…
+$GD003_COMMENT_ROLLJUDGEWON_02
+Bu sefer...
+$GD003_COMMENT_ROLLJUDGEWON_03
+Bir anlamı yok.
+$GD003_COMMENT_ROLLJUDGELOST_01
+Hiçbir şey sonsuza dek sürmez. Yalnızca kaos.
+$GD003_COMMENT_ROLLJUDGELOST_02
+Her şey olması gerektiği gibi.
+$GD003_COMMENT_ROLLJUDGELOST_03
+Biraz daha kaldı.
+$GD003_COMMENT_GAMEJUDGEWON_01
+Bugün Themis bana yol göstermedi.
+$GD003_COMMENT_GAMEJUDGEWON_02
+Sonunda hepimiz kaybederiz.
+$GD003_COMMENT_GAMEJUDGEWON_03
+Yarın mahkemede intikamımı alacağım…
+$GD003_COMMENT_GAMEJUDGELOST_01
+Belki bir dahaki sefere… Eğer buraya tekrar gelmeye cesaret edersen.
+$GD003_COMMENT_GAMEJUDGELOST_02
+Sadece gururunuzu kaybettiniz. Önemsiz bir şey.
+$GD003_COMMENT_GAMEJUDGELOST_03
+Belki bir dahaki sefere ruhlarımızı ortaya koyalım? Sence hâlâ var mı onlar?
+$GD003_COMMENT_DRINK_01
+Bağımlılıklarınla kendini yalnız hissediyor musun?
+$GD003_COMMENT_DRINK_02
+Kalabalığı etkilemeyi biliyorsunuz anlaşılan.
+$GD003_COMMENT_DRINK_03
+Yeter ki borca girmemeye dikkat et. İnsanlar başkasının parasıyla içmeyi sever.
+$GD003_COMMENT_DRINKBET_01
+Boşver, nasıl olsa gelecek ay yine maaş alacağım!
+$GD003_COMMENT_DRINKBET_02
+Yargıç elbette oynar, değil mi?
+$GD003_COMMENT_DRINKBET_03
+Daha yüksek! Paralarımı daha da yükseltin!
+$GD003_COMMENT_REROLL_01
+Kaybetmekten mi korkuyorsun?
+$GD003_COMMENT_REROLL_02
+Kazanmak için neleri göze alırsın?
+$GD003_COMMENT_REROLL_03
+Bunun bir şeyi değiştireceğini sanıyorsan…
+$GD003_COMMENT_CANTREROLL_01
+Keşke tekrar atabilseydim.
+$GD004_MER_VER_HAN_DIAL_MER_01
+Bu tür yerlerin lüks havasını takdir etsem de, ordunun sade yaşamına hâlâ ayrı bir bağlılığım var.
+$GD004_MER_VER_HAN_DIAL_JUDGE_02
+Önceki sahibinin lükse olan düşkünlüğü, onun sonunu getirdi.
+$GD004_MER_VER_HAN_DIAL_MER_03
+Anladım. Oynayalım mı?
+$GD004_MER_VER_DAVID_DIAL_MER_01
+Zarafetle tasarlanmış. Tebrikler.
+$GD004_MER_VER_DAVID_DIAL_JUDGE_02
+Teşekkür ederim. Dekoru Jacques-Louis David’e emanet ettim. Kendisi bir sanatçıdır.
+$GD004_MER_VER_DAVID_DIAL_MER_03
+Evet, sizin arkadaş ve siyasi müttefik olduğunuzu duydum. Oynamaya ne dersiniz?
+$GD004_MER_COMMENT_GAMEJUDGEWON_01
+Beni kazanarak güvenimi kazanmak isteyeceğinizi düşünmüştüm. Ara sıra yanılmak hoşuma gidiyor.
+$GD004_MER_COMMENT_GAMEJUDGELOST_01
+Güvenimi kazanmak için her şeyi yapacağın belli – gerekirse bile bile kaybetmeyi bile göze alıyorsun.
+$GD004_MER_COMMENT_ROLLJUDGEWON_01
+Bu zarlar hileli!
+$GD004_MER_COMMENT_ROLLJUDGEWON_02
+Kahretsin, o kızlar bana nazar değdirdi!
+$GD004_MER_COMMENT_ROLLJUDGELOST_01
+Biraz şans fena olmazdı.
+$GD004_MER_COMMENT_ROLLJUDGELOST_02
+Hadi bakalım, zarlar. Bir kez daha, lütfen.
+$GD004_MER_COMMENT_REROLL_01
+Bu talihsizlik döner mi sanıyorsunuz?
+$GD004_MER_COMMENT_DRINK_01
+Bir içki fena olmazdı.
+$GD004_MER_COMMENT_DRINK_02
+Yargıç elbette oynar, değil mi?
+$GD005_RENARD_COMMENT_ROUND_01
+Maskeli dostumuz öfke içindeydi. Bizden yardım karşılığında kârlı bir anlaşma ile geldi. Kabul ettik.
+$GD005_RENARD_COMMENT_ROUND_02
+Tehlikeli, yaralı bir adam. Onu reddetmek akıllıca olmazdı.
+$GD005_RENARD_COMMENT_ROUND_03
+Çocuğunuzu öldürmek için, daha önce birlikte çalıştığımız, tanıdığımız birinden yardım istemiş. Ne ahmakça.
+$GD005_RENARD_COMMENT_ROUND_04
+Başını bir tepsiyle size sunacağız. Bu, iyi niyetimizin bir göstergesi ve bizimle dost olmanın akıllıca olduğunun kanıtı olacak.
+$GD005_RENARD_COMMENT_ROUND_05
+Aristokratlar her an başı dik bir şekilde şehre dönecek, ve yanımızda olmayan herkesle hesaplaşacağız.
+$GD005_RENARD_COMMENT_GAMEJUDGEWON_01
+Kazandınız. Sözümüzü tutacağız – o hainin başı sizin olacak, fakat Paris… Paris pek memnun kalmayacak.
+$GD005_RENARD_COMMENT_GAMEJUDGELOST_01
+Er ya da geç her kumarbaz, hiçbir şeye hükmedemediğini anlar. Zamanın onu yenilgiye sürükleyişini çaresizce izler. Anlaşma anlaşmadır – kaybettiniz, bu yüzden size hiçbir şey söylemeyeceğiz. Ve Paris… Paris hak ettiğini alacak.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_01
+Sustur onu. Henüz bitmedi.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_02
+Burada işimiz bitti.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_01
+Ben de bir zamanlar ilk raundu kazanmıştım.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_02
+Tamamen şanstı.
+$GD011_BRUNO_COMMENT_ROUND_01
+Karşıma çıkmaya cesaret edebilecek herkesi öldürdün. Teşekkür ederim.
+$GD011_BRUNO_COMMENT_ROUND_03
+Kan senin ellerinde, benimkinde değil. Yine kazandım.
+$GD011_BRUNO_COMMENT_ROUND_06
+Acı çekmenin ne demek olduğunu bildiğini mi sanıyorsun? Bekle, sana göstereceğim.
+$GD011_BRUNO_COMMENT_ROUND_08
+Düşeceksin ve babamızın kalbini kıracaksın. Ancak o zaman intikamım tamamlanmış olacak!
+$GD011_Dices_Last_Dialog
+İlk hesabı kapattık, ama senin için hazırladıklarım bununla bitmiyor. Daha yeni başlıyoruz.

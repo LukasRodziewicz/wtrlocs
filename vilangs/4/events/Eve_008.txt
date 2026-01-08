@@ -1,0 +1,10 @@
+$EVE_008_TITLE
+Whisky zum Einschlafen
+$EVE_008_MAIN_01
+Der Abend ist warm, also beschließen Sie, den langen Weg nach Hause zu nehmen. In der Nähe des Café Chantilly werden Sie Zeuge einer amüsanten Szene: Zwei Betrunkene streiten sich um eine Flasche Schnaps und fluchen wie Stallburschen. Der eine ist klein und trägt eine zerknitterte Offiziersuniform, vermutlich ein Oberst. Der andere, deutlich größer, ist nur ein gewöhnlicher Straßenräuber. Sie lauschen ihrem wirren Gestammel und den verschachtelten Beschimpfungen, bis Ihnen klar wird, dass in der Flasche nur noch ein letzter Schluck übrig ist.
+$EVE_008_MAIN_01_C1
+Versuche, den Streit zwischen den Betrunkenen zu schlichten
+$EVE_008_MAIN_02A
+Die beiden Feinde verbünden sich angesichts des Fremden im eleganten Mantel. Für die Umstehenden wirkt es zweifellos komisch, als einer der beiden im Rausch der Kameradschaft versucht, Sie mit dem umstrittenen Gegenstand am Kopf zu treffen, während der andere Ihnen gegen den Knöchel tritt. Sie weichen der Flasche aus, die an einer nahen Wand zerschellt und den restlichen Alkohol verspritzt. Doch der Tritt sitzt und setzt Sie lange genug außer Gefecht, damit die Betrunkenen in einer Seitenstraße verschwinden können. Es dauert eine Weile, bis die Schaulustigen ihr Lachen wieder einstellen.
+$EVE_008_MAIN_02B
+Der hochgewachsene Trunkenbold siegte, als er seine letzten Kräfte sammelte. Der Offizier schlug mit dem Gesicht voran im Schlamm auf, und der letzte Schluck Alkohol glitt sanft über die Zunge des Siegers. Hier gibt es nichts mehr zu sehen. Zu Hause wartet eine Flasche erlesenen Tropfens auf Sie.

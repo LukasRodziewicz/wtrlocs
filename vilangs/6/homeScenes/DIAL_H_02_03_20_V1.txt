@@ -1,0 +1,32 @@
+$DIAL_H_02_03_20_V1_001_JUDGE
+Por fin has llegado.
+$DIAL_H_02_03_20_V1_002_DAVID
+Alexis... Tu hermano vino a verme, el que se suponía que estaba muerto.
+$DIAL_H_02_03_20_V1_003_JUDGE
+Jacques, no sé qué es lo que él…
+$DIAL_H_02_03_20_V1_004_DAVID
+Déjame terminar. Siempre supe cuál era tu verdadera naturaleza. Te vi buscando más poder, alcanzando nuevas alturas, pero solo ahora comprendo en quién te has convertido realmente. Ahora que lo he conocido.
+$DIAL_H_02_03_20_V1_005_JUDGE
+¡Es un monstruo!
+$DIAL_H_02_03_20_V1_006_DAVID
+Ambos son unos monstruos. Por desgracia, después de todo lo que he oído, él parece ser el mal menor.
+$DIAL_H_02_03_20_V1_007_JUDGE
+¿Cómo puedes decir eso? Somos amigos. Él... él solo quiere que regrese el antiguo régimen.
+$DIAL_H_02_03_20_V1_008_DAVID
+No, Alexis. Él desea una verdadera igualdad y fraternidad. Quiere que quienes fueron rechazados por la Revolución puedan regresar a sus hogares.
+$DIAL_H_02_03_20_V1_009_JUDGE
+¿De verdad crees eso? ¡Mira lo que nos ha hecho!
+$DIAL_H_02_03_20_V1_010_DAVID
+No es peor que lo que tú hiciste con quienes se interpusieron en tu camino. Lo lamento, amigo, pero nuestra amistad termina aquí. ¿Dónde pones el límite? Eliminar a Robespierre fue demasiado. Hemos derramado demasiada sangre, Alexis, y ahora tengo la oportunidad de al menos redimirme en parte.
+$DIAL_H_02_03_20_V1_011_JUDGE
+¿Qué vas a hacer?
+$DIAL_H_02_03_20_V1_012_DAVID
+Me uniré a tu hermano; esto debe terminar. Lideraré su ejército y me aseguraré de que después no haya más derramamiento de sangre en nuestro país.
+$DIAL_H_02_03_20_V1_013_JUDGE
+¿Vas a enfrentarte a mí y a Ramel?
+$DIAL_H_02_03_20_V1_014_DAVID
+No tienes a nadie de tu lado. Ya he convencido a tu guardia del tribunal para que se una a nosotros, y Ramel acompañó a tu hermano cuando vino a verme. Por lo visto, siempre estuvo en tu contra.
+$DIAL_H_02_03_20_V1_015_JUDGE
+Me llevó al matadero. A su propio amigo.
+$DIAL_H_02_03_20_V1_016_DAVID
+Adiós, Alexis. Solo espero no tener que matarte la próxima vez que te vea. Francia ya ha enterrado a demasiados de sus hijos.

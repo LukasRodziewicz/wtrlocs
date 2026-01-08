@@ -1,0 +1,308 @@
+$FAB_012_DOC_1_HEADER
+Zusammengestellt von: Fabrice Poli
+$FAB_012_DOC_1_00
+Auf der Anklagebank sitzt Mathieu Burel, der ehemalige Oberbefehlshaber der Nationalgarde. Dem Angeklagten wird vorgeworfen, <a name="2" class="hidden">den Tod von 34 Menschen verursacht zu haben</a>, die an einer Demonstration gegen die monarchische Herrschaft teilnahmen.
+$FAB_012_DOC_1_01
+Gegen 15 Uhr stießen zwei zufällig entstandene Gruppen von Demonstranten in einer der Straßen zur Place Vendôme aufeinander. Zwischen den Anhängern und Gegnern des Bürgers Capet entbrannte ein heftiger Streit, bei dem beide Seiten lautstark aneinandergerieten. Keiner der Beteiligten konnte die Oberhand gewinnen, und so griffen sie rasch zu <a name="4" class="hidden">Beleidigungen und öffentlichen Drohungen</a>. Kurz darauf traf eine Abteilung der Nationalgarde unter Führung des Angeklagten am Ort des Geschehens ein. Laut der Zeugenaussage von Blaise Fossett <a name="5" class="hidden">stellte sich Oberbefehlshaber Mathieu Burel allein zwischen die beiden Gruppen</a> und versuchte, sie zur Vernunft zu bringen. Die Demonstranten übertönten ihn jedoch schnell. Einige warfen dem Oberbefehlshaber lautstark vor, ihre <a name="6" class="hidden">Meinungsfreiheit</a> zu verletzen.
+$FAB_012_DOC_1_02
+Ein Stein flog über Burels Kopf hinweg. Dann trat er zu dem Regiment, das bisher abseits der Menge gestanden hatte. Der Oberbefehlshaber <a name="7" class="hidden">befahl ihnen, die Musketen zu laden</a> und auf die Demonstranten zu zielen. Er rief der Menge zu, sie solle sich zerstreuen, doch das französische Volk ignorierte ihn natürlich. Dann, wie Fossett aussagte, „verfehlte ein weiterer Stein nur knapp seinen Kopf.“ Dieses Mal <a name="8" class="hidden">traf er jedoch einen der Soldaten</a> in die Brust, sodass diesem für einen Moment die Luft wegblieb. Burel befahl den Truppen, das Feuer zu eröffnen. Insgesamt trafen die Kugeln 34 Menschen auf beiden Seiten des Protests.
+$FAB_012_DOC_1_03
+Während seiner Verhaftung versuchte Burel zu erklären, dass er im Besitz von <a name="9" class="hidden">einer Stellungnahme des Tribunals</a> gewesen sei, die ihm den Einsatz von Gewalt im Bedarfsfall gestattete. Er berief sich zudem auf ähnliche Einschätzungen aus dem Konvent. Staatsanwalt Tinville ließ sich von solchen Erklärungen nicht beeindrucken, und seine leidenschaftliche Rede überzeugte die Abgeordneten, <a name="10" class="hidden">ihn seines Amtes zu entheben</a>. Nun versucht er, den Richter zu einer zusätzlichen Strafe zu bewegen.
+$FAB_012_OnStart_00
+Der Angeklagte darf sich vorstellen.
+$FAB_012_OnStart_01
+Wir alle wissen, wer dieser Schurke ist.
+$FAB_012_OnStart_02
+Mathieu Burel, Oberbefehlshaber der Nationalgarde und–
+$FAB_012_OnStart_03
+Halt endlich den Mund!
+$FAB_012_OnStart_04
+Kommen wir direkt zu den Aussagen …
+$FAB_012_OnGuilty_00
+Hiermit verurteile ich Mathieu Burel zum Tod durch die Guillotine!
+$FAB_012_OnGuilty_01
+Die Seelen der Opfer können nun endlich Frieden finden.
+$FAB_012_OnGuilty_02
+Er soll das Schicksal derer teilen, die er erschossen hat!
+$FAB_012_OnPrison_00
+Hiermit verurteile ich Mathieu Burel zu einer Gefängnisstrafe! Möge der Verurteilte über seine Taten nachdenken.
+$FAB_012_OnPrison_01
+Er hat so viele getötet, und das war’s? Das soll alles sein?
+$FAB_012_OnPrison_02
+Bedeuten Ihnen das Leben von 34 Menschen weniger als das eines ehemaligen Oberbefehlshabers?
+$FAB_012_OnNotGuilty_00
+Hiermit spreche ich Mathieu Burel frei!
+$FAB_012_OnNotGuilty_01
+Ist er betrunken?
+$FAB_012_OnNotGuilty_02
+Hat jemand diesen Schreiber verhext? Er redet wirres Zeug!
+$FAB_012_OnNotGuilty_03
+Freiheit für einen Massenmörder?
+$FAB_012_01x02_00_QTitle
+Ist sich der Angeklagte der Schwere der Anklage bewusst? Sie verstehen, dass 34 Bürger getötet wurden…
+$FAB_012_01x02_00_00
+Ist sich der Angeklagte der Schwere der Anklage bewusst? Sie verstehen, dass vierunddreißig Bürger getötet wurden…
+$FAB_012_01x02_00_01
+Die Getöteten waren Angreifer, die es gewagt hatten, einen Soldaten anzugreifen.
+$FAB_012_01x02_00_02
+Alle 34?
+$FAB_012_01x02_00_03
+Nein, er wurde von einem einzelnen geworfenen Stein getroffen, aber zuvor flog ein weiterer Stein über meinen Kopf. Ich hatte Grund zu der Annahme, dass der Mob gewalttätig werden würde.
+$FAB_012_01x02_00_04
+Aber genau deshalb wurden Sie dorthin geschickt. Um Gewalt zu verhindern.
+$FAB_012_01x02_00_05
+Und das habe ich getan. Einige Menschen sind gestorben, aber die übrigen Bürger sind in Sicherheit.
+$FAB_012_01x02_00_06
+Dieser Oberbefehlshaber ist wirklich ein ganz spezieller Fall…
+$FAB_012_01x02_00_07
+Er ist nicht mehr der Oberbefehlshaber. Ein Mistkerl bleibt er trotzdem…
+$FAB_012_01x04_01_QTitle
+Rufen Sie den Zeugen auf.
+$FAB_012_01x04_01_00
+Rufen Sie den Zeugen auf.
+$FAB_012_01x04_01_02
+Bitte stellen Sie sich vor.
+$FAB_012_01x04_01_03
+Blaise Fossett, Monsieur Richter. Ich bin nur ein einfacher Schmied.
+$FAB_012_01x04_01_04
+Bürger, bestätigen Sie, dass Sie Zeuge der Ereignisse waren, die uns heute hier versammelt haben?
+$FAB_012_01x04_01_05
+Ja, ich war Zeuge... Also, ich war dort. Ich habe alles gesehen und möchte darüber sprechen. Wirklich, ich will es.
+$FAB_012_02x07_02_QTitle
+Glaubt der Angeklagte etwa nicht, dass der Befehl zum Laden der Musketen…?
+$FAB_012_02x07_02_00
+Glaubt der Angeklagte nicht, dass der Befehl zum Laden der Musketen zu früh erteilt wurde?
+$FAB_012_02x07_02_01
+Warum?
+$FAB_012_02x07_02_02
+Weil er die ohnehin schon aufgebrachte Menge noch weiter hätte anstacheln können?
+$FAB_012_02x07_02_03
+Die Pariser haben eine abscheuliche Geschichte, Köpfe auf Spieße zu stecken. Vor mir stand ein beachtlicher Mob, der nur darauf wartete, uns jederzeit anzugreifen. Nein, der Befehl kam nicht zu früh. Im Gegenteil, wir hätten sofort nach unserer Ankunft das Feuer eröffnen sollen, anstatt unsere Zeit mit Beschwichtigungen zu vergeuden.
+$FAB_012_02x07_02_04
+Sie setzen also eher auf rohe Gewalt als auf Diplomatie?
+$FAB_012_02x07_02_05
+Hätte Diplomatie in dieser Lage Aussicht auf Erfolg gehabt, wären statt der Garde die Abgeordneten des Konvents geschickt worden. Doch keiner von ihnen ließ sich blicken.
+$FAB_012_02x07_02_06
+Ich frage mich, warum.
+$FAB_012_02x10_03_QTitle
+Wurde Ihnen ein Grund für Ihre Entlassung genannt?
+$FAB_012_02x10_03_00
+Wurde Ihnen ein Grund für Ihre Entlassung genannt?
+$FAB_012_02x10_03_01
+Es gab mehrere Gründe. Ich werde nicht auf alle eingehen, aber am meisten hat mich der Vorwurf meiner angeblichen Inkompetenz verletzt.
+$FAB_012_02x10_03_02
+Durch Sie kam … ums Leben
+$FAB_012_02x10_03_03
+Viele Menschen sind während der Revolution gestorben. Und doch sitzen die Mörder im Konvent… oder sprechen als Richter an den Tribunalen ihr Urteil.
+$FAB_012_02x10_03_04
+Der Angeklagte sollte seine Worte mit mehr Bedacht wählen. Das ist Verleumdung! Ein Werkzeug der monarchistischen Maschinerie!
+$FAB_012_02x10_03_05
+Verschonen Sie mich mit Ihren Reden. Hätten Sie noch einen Funken Anstand, würden Sie schweigen.
+$FAB_012_02x10_03_06
+Wenn wir Sie gehen ließen, würden Sie zu Ihrem Dienst zurückkehren?
+$FAB_012_02x10_03_07
+Nein. Jetzt sehe ich, dass das Beste, worauf ich hier hoffen konnte, die Rolle des Sündenbocks ist. Ein Abgeordneter oder ein Richter macht einen Fehler, also verurteilen sie einen Soldaten. So war es immer, und so wird es immer bleiben.
+$FAB_012_02x10_03_08
+Lasst uns einen Politiker köpfen!
+$FAB_012_03x05_04_QTitle
+Warum stellte sich der Bürger zwischen die streitenden Gruppen?
+$FAB_012_03x05_04_00
+Warum stellte sich der Bürger zwischen die streitenden Gruppen?
+$FAB_012_03x05_04_01
+Ich weiß genau, dass man Spannungen mit Vernunft und durch die Vermittlung einer dritten Partei abbauen kann. Ich gehörte keiner der Gruppen an...
+$FAB_012_03x05_04_02
+Moment mal… Wollen Sie etwa sagen, dass Sie die Revolution nicht unterstützen?
+$FAB_012_03x05_04_03
+In jenen Tagen war ich vor allem Soldat und Offizier. Den Luxus eigener politischer Ansichten konnte ich mir nicht erlauben.
+$FAB_012_03x05_04_04
+Warum?
+$FAB_012_03x05_04_05
+Die Sicherheit des Volkes stand über allem. Zuerst die Bewohner der umliegenden Häuser, dann die Protestierenden.
+$FAB_012_03x05_04_06
+Da diese Ereignisse längst vergangen sind, werte ich Ihr Ausweichen vor einer klaren Antwort als Beweis Ihrer Unterstützung für die Monarchie!
+$FAB_012_03x05_04_07
+Ich war Frankreich und ihrem Volk stets treu ergeben.
+$FAB_012_03x06_05_QTitle
+Welche Worte haben Sie gewählt, als Sie die Menge angesprochen haben?
+$FAB_012_03x06_05_00
+Welche Worte haben Sie gewählt, als Sie die Menge ansprachen?
+$FAB_012_03x06_05_01
+Ich bat sie um einen Moment der Stille, und als es ruhig war, fragte ich nach dem Grund ihres Streits. In diesem Augenblick war der Frieden vorbei, und beide Seiten begannen, sich gegenseitig mit Vorwürfen zu überziehen.
+$FAB_012_03x06_05_02
+Vielleicht hätten Sie sich besser nicht eingemischt? Haben Sie die Menge am Ende nur noch mehr aufgewiegelt?
+$FAB_012_03x06_05_03
+Wie? Indem wir um einen Moment der Stille bitten?
+$FAB_012_03x06_05_04
+Haben Sie noch etwas gesagt?
+$FAB_012_03x06_05_05
+Ich versuchte, die Menge zu übertönen. Jemand beschuldigte mich, ein Spion zu sein, der sie zum Schweigen bringen und ihre Redefreiheit unterdrücken wolle.
+$FAB_012_03x06_05_06
+War das Ihr Ziel?
+$FAB_012_03x06_05_07
+Mein Ziel war es, Blutvergießen zu verhindern. Wie Sie sehen, war das unmöglich.
+$FAB_012_04x08_06_QTitle
+Wie wurde einer Ihrer Soldaten verletzt?
+$FAB_012_04x08_06_00
+Wie wurde einer Ihrer Soldaten verletzt?
+$FAB_012_04x08_06_01
+Ein Stein traf ihn in die Brust. Er stürzte zu Boden und rang einen Moment lang nach Luft.
+$FAB_012_04x08_06_02
+Haben Sie versucht, die Menge nach dem Vorfall zu beruhigen?
+$FAB_012_04x08_06_03
+Herr Staatsanwalt, das ist doch wohl ein Scherz…
+$FAB_012_04x08_06_04
+Warum sagen Sie das?
+$FAB_012_04x08_06_05
+Sie verlangten nach Blut. Ob ihrem eigenen oder unserem, war ihnen gleich – Hauptsache, es floss.
+$FAB_012_04x08_06_06
+Und Sie haben ihnen gegeben, was sie wollten?
+$FAB_012_04x08_06_07
+Ich hatte einen triftigen Grund und ein Dokument in der Hand. Außerdem trug ich die Verantwortung für das Leben meiner Untergebenen.
+$FAB_012_04x08_06_08
+Sie haben entschieden, Menschen das Leben zu nehmen. Kam dieses Dokument etwa von Gott?
+$FAB_012_05x07_07_QTitle
+Halten Sie sich für einen unbesonnenen Befehlshaber?
+$FAB_012_05x07_07_00
+Halten Sie sich für einen unbesonnenen Befehlshaber?
+$FAB_012_05x07_07_01
+Nein. Ich würde sagen, meistens bin ich ruhig. Das kommt mit dem Alter und der Erfahrung.
+$FAB_012_05x07_07_02
+Und doch stellten Sie sich allein zwischen zwei feindliche Gruppen, ganz ohne Schutz. Das spricht für etwas ganz anderes.
+$FAB_012_05x07_07_03
+Das nennt man Mut. Ich hätte keinen gewöhnlichen Soldaten geschickt. Ich habe mein eigenes Leben riskiert und gehofft, dass der Anblick eines ranghohen Offiziers das Volk zur Vernunft bringt.
+$FAB_012_05x07_07_04
+Hat es also nicht funktioniert?
+$FAB_012_05x07_07_05
+Nein, es hatte den gegenteiligen Effekt. Mit so einem Ausgang hätte ich niemals gerechnet.
+$FAB_012_05x07_07_06
+Aber Sie hätten genau mit diesem Ausgang rechnen müssen!
+$FAB_012_06x09_08_QTitle
+Bei Ihrer Festnahme sagten Sie, dass Ihnen offizielle Dokumente ausgestellt wurden von…
+$FAB_012_06x09_08_00
+Während Ihrer Festnahme sagten Sie, dass Ihnen offizielle Dokumente ausgestellt wurden von…
+$FAB_012_06x09_08_01
+Monsieur le juge, darf ich unterbrechen? Diese Verteidigung ist doch völlig haltlos!
+$FAB_012_06x09_08_02
+Warum denn nicht? Ich habe das Dokument persönlich diesem Richter zur Unterschrift vorgelegt. Er hat es unterzeichnet. Damit hat er mir das Recht gegeben, im Falle unmittelbarer Gefahr durch die Demonstranten Gewalt anzuwenden.
+$FAB_012_06x09_08_03
+Sie haben 34 Menschen getötet!
+$FAB_012_06x09_08_04
+Würden Sie es vorziehen, wenn Hunderte Soldaten und Demonstranten tot wären und die übrigen weiter gegeneinander kämpfen? Ich hatte triftige Gründe, Gewalt anzuwenden, und die Tatsache, dass ich hier angeklagt werde, bestätigt nur, dass der anwesende Richter und die Abgeordneten des Konvents bloß einen Sündenbock suchen!
+$FAB_012_06x09_08_05
+Unsinn, der Konvent würde niemals…
+$FAB_012_06x09_08_06
+Hier ist das Dokument, unterzeichnet von Richter Alexis Fidèle und dem Vorsitzenden des Tribunals, Raymond Dévoyé. Zwei Richter haben mein Recht auf den Waffeneinsatz bestätigt!
+$FAB_012_06x09_08_07
+Es war lediglich eine Empfehlung an den Konvent, damit sie ein solches Gesetz erlassen konnten!
+$FAB_012_06x09_08_08
+Und ich empfehle Ihnen, mich freizulassen und stattdessen diese Richter zum Tode zu verurteilen!
+$FAB_012_06x09_08_09
+Weißt du, in manchem hat er recht…
+$FAB_012_WIT_00_A_QTitle
+Bitte sagen Sie uns, ob Sie genau gesehen haben, wie der Angeklagte gehandelt hat…
+$FAB_012_WIT_00_A_00
+Bitte sagen Sie uns, ob Sie genau gesehen haben, wie sich der Angeklagte während dieser Ereignisse verhalten hat.
+$FAB_012_WIT_00_A_01
+Ja, natürlich, deshalb bin ich ja hier. Ich habe alles gesehen. Der Hauptmann… Er ist doch Hauptmann, oder?
+$FAB_012_WIT_00_A_02
+Fahren Sie fort…
+$FAB_012_WIT_00_A_03
+Er stellte sich vor die Leute und begann, sie anzuschreien. Wenn jemand auf ihn zuging, stieß er ihn weg und drohte mit geballter Faust. Aber ich glaube, er meinte es gut.
+$FAB_012_WIT_00_A_04
+Warum denken Sie das?
+$FAB_012_WIT_00_A_05
+Ich weiß nicht, es war einfach so ein Gefühl.
+$FAB_012_WIT_00_B_QTitle
+Kann sich der Angeklagte erinnern, was die Leute von beiden Seiten gesagt haben?
+$FAB_012_WIT_00_B_00
+Kann sich der Angeklagte daran erinnern, was die Leute von beiden Seiten gesagt haben?
+$FAB_012_WIT_00_B_01
+Lieber nicht.
+$FAB_012_WIT_00_B_02
+Warum?
+$FAB_012_WIT_00_B_03
+Weil dort nur Beschimpfungen zu hören waren, Monsieur Richter. Sie haben Robespierre und Bürger Capet beleidigt… Ich würde sagen, diese Anschuldigungen waren falsch.
+$FAB_012_WIT_00_B_04
+Bitte geben Sie uns ein Beispiel, damit wir ihr Wesen besser verstehen…
+$FAB_012_WIT_00_B_05
+„Ziegenbockliebhaber“, „Bettenspringer“, „Dummkopf“. So nannten sie den Oberbefehlshaber. Außerdem sagten sie, Bürger Capet sei…
+$FAB_012_WIT_00_B_06
+Genug.
+$FAB_012_WIT_01_A_QTitle
+Wer griff zuerst an: die Menge oder die Garde?
+$FAB_012_WIT_01_A_00
+Wer griff zuerst an: die Menge oder die Garde?
+$FAB_012_WIT_01_A_01
+Ich würde sagen, die Menge. Sie haben etwas nach dem armen Soldaten geworfen.
+$FAB_012_WIT_01_A_02
+Und was geschah danach?
+$FAB_012_WIT_01_A_03
+Tja, dann haben sie das Feuer eröffnet.
+$FAB_012_WIT_01_A_04
+Moment mal… Gab es keinen Befehl?
+$FAB_012_WIT_01_A_05
+Ich habe keine Befehle gehört. Es war laut, und alles ging so schnell.
+$FAB_012_WIT_01_B_QTitle
+Wie verhielt sich der Angeklagte, als die ersten Leichen fielen?
+$FAB_012_WIT_01_B_00
+Wie verhielt sich der Angeklagte, als die ersten Leichen fielen?
+$FAB_012_WIT_01_B_01
+Oh, er hat sich wirklich nicht gut benommen. Ganz und gar nicht.
+$FAB_012_WIT_01_B_02
+Könnten Sie sich etwas genauer ausdrücken?
+$FAB_012_WIT_01_B_03
+Er befahl seinen Leuten, sich zurückzuziehen, und spuckte dann in Richtung der Menge und der dort liegenden Leichen.
+$FAB_012_KEY_01
+Oberbefehlshaber der Garde
+$FAB_012_KEY_02
+Verursachung des Todes
+$FAB_012_KEY_03
+Demonstranten
+$FAB_012_KEY_04
+Der Eifer der Menge
+$FAB_012_KEY_05
+Die Unbesonnenheit des Oberbefehlshabers
+$FAB_012_KEY_06
+Redefreiheit
+$FAB_012_KEY_07
+Befehl, die Musketen zu laden
+$FAB_012_KEY_08
+Verwundeter Soldat
+$FAB_012_KEY_09
+Meinung des Tribunals
+$FAB_012_KEY_10
+Die Entlassung des Oberbefehlshabers
+$FAB_012_LastDialog_00
+Ihr Sündenbock wird sterben, damit Sie ungeschoren davonkommen. Ich frage mich, ob Ihr Gewissen Ihnen nachts Ruhe lässt.
+$FAB_012_UNIQUE_QUESTION_00
+Was war der Grund für den Rücktritt des Kommandanten?
+$FAB_012_UNIQUE_QUESTION_01
+Ort?
+$FAB_012_UNIQUE_QUESTION_02
+Was war das Erste, worum der Kommandant die Menge bat, nachdem er die streitenden Parteien getrennt hatte?
+$FAB_012_UNIQUE_QUESTION_03
+Ist der Angeklagte ein Monarchist?
+$FAB_012_UNIQUE_ANSWER_CORRECT_00_00
+Inkompetenz.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Konterrevolutionäre Ansichten.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Spionage.
+$FAB_012_UNIQUE_ANSWER_CORRECT_01_00
+Eine Straße, die zum Place Vendôme führt.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Die Vororte von Paris.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Die Ruinen der Bastille.
+$FAB_012_UNIQUE_ANSWER_CORRECT_02_00
+Stille.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Unterwerfung.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Erklärungen.
+$FAB_012_UNIQUE_ANSWER_CORRECT_03_00
+Er hat keine konkrete Bitte geäußert.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Ja.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Nein.

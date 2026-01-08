@@ -1,0 +1,271 @@
+$GEN_012_DOC_01_HEADER
+Sporządził: Andre Modeste
+$GEN_012_DOC_01_00
+    Przed sądem staje Polak Michał Trandowski, 44-letni dezerter, który z nieznanych nam powodów porzucił swój oddział walczący z siłami carycy Katarzyny. Przedostał się przez francuską granicę i zamieszkał w Paryżu. Jak mniemamy, od początku zamierzał dokonać politycznego mordu w Konwencie.
+$GEN_012_DOC_01_01
+    Intencje ataku Trandowskiego nie są do końca jasne. Z relacji świadków wynika jednak, że jego celem był <a name="4" class="hidden">Maximilien de Robespierre</a>.  
+$GEN_012_DOC_01_02
+    Trandowski dotarł na obrady i, co więcej, udało mu się wnieść do budynku sztylet. Do ataku doszło w przerwie, na korytarzu. Polak wyciągnął broń i rzucił się w stronę Robespierre’a. Z całą pewnością doszłoby do tragedii, gdyby nie niejaki <a name="5" class="hidden">Cecile de Jarre</a>, jeden ze współpracowników niedoszłej ofiary. W trakcie szamotaniny został on ranny w rękę, ale jego poświęcenie dało czas zebranym, żeby wspólnie obezwładnić szaleńca.
+$GEN_012_DOC_01_03
+    Michał Trandowski został pojmany przez strażników i postawiony przed sąd za próbę dokonania <a name="6" class="hidden">zabójstwa politycznego</a>, co jest jednoznaczne z działaniem na szkodę Francji.
+$GEN_012_DOC_01_04
+    Trandowski od jakiegoś czasu służy w armii rewolucyjnej. Udało nam się odnaleźć jego przełożonych, którzy chwalili go za <a name="7" class="hidden">nieskazitelną służbę</a> oraz honorową postawę. Rozmawialiśmy także z jego kolegami z oddziału. Zeznali oni, że oskarżonym targała silna <a name="8" class="hidden">tęsknota</a> za ojczyzną i ciągła troska o jej losy.
+$GEN_012_DOC_01_05
+Dowód:
+<a name="9" class="hidden">Zakrwawiony sztylet</a>
+$GEN_012_OnStart_00
+Pokaż wszystkim, że Francja odrąbie każdą obcą rękę podniesioną na jej przywódców.
+$GEN_012_OnStart_01
+Imię, nazwisko, zawód?
+$GEN_012_OnStart_02
+Michał Trandowski, jestem żołnierzem. Służyłem w armii francuskiej.
+$GEN_012_OnStart_03
+Jesteście Polakiem?
+$GEN_012_OnStart_04
+Tak, wielu nas służy w waszej armii.
+$GEN_012_OnStart_05
+Nie potrzeba nam takich żołnierzy!
+$GEN_012_OnStart_06
+To się jeszcze okaże, jak zobaczycie pruskie bagnety.
+$GEN_012_OnStart_07
+Sądzicie, że obronicie Francję? Własnego kraju nie daliście rady osłonić.
+$GEN_012_OnStart_08
+Chcecie się przekonać? Wyzywam was na pojedynek na szable!
+$GEN_012_OnStart_09
+Spokój!
+$GEN_012_OnGuilty_00
+Skazuję obywatela Michała Trandowskiego na karę śmierci poprzez ścięcie na gilotynie.
+$GEN_012_OnGuilty_01
+Odetchniemy spokojnie.
+$GEN_012_OnGuilty_02
+Tak kończą zdrajcy!
+$GEN_012_OnGuilty_03
+I dezerterzy!
+$GEN_012_OnPrison_00
+Skazuję Michała Trandowskiego na karę więzienia. Wyprowadzić skazanego.
+$GEN_012_OnPrison_01
+Jak to?!
+$GEN_012_OnPrison_02
+Oszczędził niedoszłego mordercę!?
+$GEN_012_OnPrison_03
+Oby w celi wiedzieli, co z takim zrobić.
+$GEN_012_OnNotGuilty_00
+Uznaję Michała Trandowskiego za niewinnego – działał pod wpływem wyższych celów, które zupełnie go omamiły.
+$GEN_012_OnNotGuilty_01
+W ramach tych wyższych celów niedługo może zaatakować po raz kolejny.
+$GEN_012_OnNotGuilty_02
+Wojak się przyznał do wszystkiego, a ten go puszcza wolno!?
+$GEN_012_OnNotGuilty_03
+Kabaret, a nie sąd!
+$GEN_012_03x04_00_QTitle
+Dlaczego chcieliście zabić Robespierre’a?
+$GEN_012_03x04_00_00
+Dlaczego chcieliście zabić Robespierre’a?
+$GEN_012_03x04_00_01
+Bo Francja odwróciła się od nas.
+$GEN_012_03x04_00_02
+Jakich nas?
+$GEN_012_03x04_00_03
+Od Polski. Walczymy dla was, podczas gdy nasza ojczyzna jest rozszarpywana. Niedługo całkowicie zniknie z mapy, a wy nie reagujecie!
+$GEN_012_03x04_00_04
+A co Francja ma do tego?
+$GEN_012_03x04_00_05
+Odmówiliście nam pomocy. Rosja z Prusami połączyły siły i rozgrabiają wspólnie mój kraj. Możecie nam pomóc, to w waszym interesie, przecież królowa była Polką.
+$GEN_012_03x04_00_06
+Bardzo subiektywny punkt widzenia, panie Trandowski.
+$GEN_012_03x04_00_07
+Dla mnie honor nie jest subiektywną sprawą. Dla was, Francuzów, najwidoczniej już tak. Na to jeszcze nie wymyślili rewolucji.
+$GEN_012_03x04_00_08
+To honor kazał wam się rzucić z nożem na bezbronnego?
+$GEN_012_03x04_00_09
+Robespierre ma krew moich pobratymców na rękach.
+$GEN_012_03x04_00_10
+On bredzi, pewnie opił się ziemniaczanym winem.
+$GEN_012_01x06_01_QTitle
+Czy wiecie, że to, co próbowaliście zrobić, jest zabójstwem politycznym?
+$GEN_012_01x06_01_00
+Czy wiecie, że to, co próbowaliście zrobić, jest zabójstwem politycznym?
+$GEN_012_01x06_01_01
+Rozumiem i niczego nie żałuję. Jestem gotów ponieść wszelkie konsekwencje swojego czynu. 
+$GEN_012_01x06_01_02
+Ma obywatel coś na swoją obronę?
+$GEN_012_01x06_01_03
+I po co ci takiego słuchać?
+$GEN_012_01x06_01_04
+Nie przyszedłem się tutaj bronić. Przyszedłem przed całą salą powiedzieć, że mój kraj umiera, a Europa patrzy i milczy. To wszystko, co mogę zrobić.
+$GEN_012_01x06_01_05
+Sądziliście, że to zabójstwo poprawi losy Polski?
+$GEN_012_01x06_01_06
+...
+$GEN_012_01x06_01_07
+Według mnie po prostu chcieliście zemsty, ale odwagi wam brakło, by mścić się na Rosjanach i Prusakach.
+$GEN_012_05x09_02_QTitle
+Zraniliście niewinnego człowieka. Czy celem ataku było zabójstwo?
+$GEN_012_05x09_02_00
+Zraniliście niewinnego człowieka. Czy celem ataku było zabójstwo?
+$GEN_012_05x09_02_01
+Moim celem było zwrócenie uwagi Francji i świata na problemy Polski.
+$GEN_012_05x09_02_02
+Rzuciliście się ze sztyletem na jednego z wodzów rewolucji.
+$GEN_012_05x09_02_03
+Zabiłem dla ojczyzny przynajmniej tuzin Moskali, to co mi tam jeszcze jeden trup. Choćby i Robespierre!
+$GEN_012_05x09_02_04
+Ten człowiek jest szalony!
+$GEN_012_05x09_02_05
+Przyznajecie się? Tak czy nie?
+$GEN_012_05x09_02_06
+Tak, chciałem go zabić. Jeśli śmierć Maximiliena de Robespierre’a osłabiłaby rewolucję i zwróciła uwagę Francuzów na problemy Polski, zrobiłbym to bez wahania.
+$GEN_012_05x09_02_07
+Nie mam nic do dodania, ten człowiek sam się pogrąża, z każdym zdaniem jeszcze bardziej.
+$GEN_012_04x09_03_QTitle
+Proszę wezwać świadka Cecile’a de Jarre’a.
+$GEN_012_04x09_03_00
+Proszę wezwać świadka Cecile’a de Jarre’a.
+$GEN_012_04x09_03_02
+Proszę się przedstawić.
+$GEN_012_04x09_03_03
+Nazywam się Cecile de Jarre, jestem współpracownikiem Maximiliena de Robespierre’a.
+$GEN_012_02x06_04_QTitle
+Planowaliście zabójstwo już w drodze do Francji?
+$GEN_012_02x06_04_00
+Planowaliście zabójstwo już w drodze do Francji?
+$GEN_012_02x06_04_01
+Chciałem służyć w waszej armii, żeby walczyć z Rosją.
+$GEN_012_02x06_04_02
+Francja nie prowadzi wojny z Rosją.
+$GEN_012_02x06_04_03
+Jeszcze nie i dlatego postanowiłem pomóc Polsce inaczej.
+$GEN_012_02x06_04_04
+Czyli waszym marzeniem jest wciągnąć Francuzów w wojnę z Moskwą?
+$GEN_012_02x06_04_05
+To byłoby piękne.
+$GEN_012_02x06_04_06
+Ale oznaczałoby tysiące ofiar, to piękne?
+$GEN_012_02x06_04_07
+Prawdziwy wariat!
+$GEN_012_02x06_04_08
+Uznaliście, że zabijając Robespierre’a, wciągnęlibyście nas do waszej wojny?
+$GEN_012_02x06_04_09
+Gdyby mi się udało, świat zacząłby o nas mówić.
+$GEN_012_03x09_05_QTitle
+Dlaczego do ataku użyliście akurat sztyletu?
+$GEN_012_03x09_05_00
+Dlaczego do ataku użyliście akurat sztyletu?
+$GEN_012_03x09_05_01
+Łatwiej go ukryć niż szablę i nie zawiedzie jak pistolet. W nich zawsze coś się psuje, kiedy są naprawdę potrzebne.
+$GEN_012_03x09_05_02
+Chcieliście mieć pewność, że wasza ofiara zginie?
+$GEN_012_03x09_05_03
+Kiedy mam misję do wykonania, staram się realizować zadanie możliwie skutecznie.
+$GEN_012_03x09_05_04
+I taki człowiek chodził po ulicach!
+$GEN_012_03x05_06_QTitle
+Czy znał oskarżony Cecile’a de Jarre’a wcześniej?
+$GEN_012_03x05_06_00
+Czy znał oskarżony Cecile’a de Jarre’a wcześniej?
+$GEN_012_03x05_06_01
+Nie. Gdy stanął mi na drodze, zobaczyłem go pierwszy raz w życiu.
+$GEN_012_03x05_06_02
+A mimo to zadaliście cios? Człowiekowi, który niczego wam nie był winny?
+$GEN_012_03x05_06_03
+Stanął mi na drodze, tak wyszło.
+$GEN_012_03x05_06_04
+Potwór, nie człowiek!
+$GEN_012_06x07_07_QTitle
+Z zeznań innych żołnierzy wynika, że wasza służba w armii francuskiej była nieskazitelna.
+$GEN_012_06x07_07_00
+Z zeznań innych żołnierzy wynika, że wasza służba w armii francuskiej była nieskazitelna. Nie szkoda wam było rujnować tak pięknej kariery wojskowej?
+$GEN_012_06x07_07_01
+Dla Rzeczpospolitej poświęcę nie tylko karierę, ale i życie, jeśli będzie trzeba.
+$GEN_012_06x07_07_02
+Zgadza się, i to już niedługo!
+$GEN_012_06x07_07_03
+Składaliście przysięgę Republice?
+$GEN_012_06x07_07_04
+Żadna przysięga nie jest ważniejsza od tej składanej ojczyźnie.
+$GEN_012_01x08_08_QTitle
+Jak ktoś tak przywiązany do własnej ojczyzny mógł służyć w obcej armii?
+$GEN_012_01x08_08_00
+Jak ktoś tak przywiązany do własnej ojczyzny mógł służyć w obcej armii?
+$GEN_012_01x08_08_01
+Wierzyłem, że zwycięstwo Francji nad Prusami i Austrią pomoże Rzeczpospolitej. Wielu z nas ciągle wierzy, że silna Francja to jedyny ratunek dla Polski. 
+$GEN_012_01x08_08_02
+I dlatego chcieliście ją osłabić, atakując jednego z naszych przywódców?
+$GEN_012_01x08_08_03
+Czasem trzeba coś poświęcić.
+$GEN_012_01x08_08_04
+To poświęć siebie, jak coś trzeba.
+$GEN_012_01x08_08_05
+Właśnie to zrobiłem.
+$GEN_012_WIT_00_A_QTitle
+Proszę zrelacjonować przebieg ataku w Konwencie.
+$GEN_012_WIT_00_A_00
+Proszę zrelacjonować przebieg ataku w Konwencie.
+$GEN_012_WIT_00_A_01
+Wyszliśmy z sali posiedzeń i kontynuowaliśmy dyskusję. Pan Robespierre szedł tuż obok mnie. Właśnie mówił, kiedy zauważyłem, że ktoś biegnie prosto na nas.
+$GEN_012_WIT_00_A_02
+Co pan zrobił?
+$GEN_012_WIT_00_A_03
+Złapałem oskarżonego za klapy, ale on rozciął mi rękę nożem. Na szczęście korytarz był wypełniony ludźmi. Szybko go ode mnie odciągnęli. 
+$GEN_012_WIT_00_A_04
+Czyli Trandowski napadł na bezbronnego człowieka z zaskoczenia.
+$GEN_012_WIT_00_A_05
+Było dokładnie, jak mówicie.
+$GEN_012_WIT_00_A_06
+Czy pan Trandowski mówił coś? Jak się zachowywał?
+$GEN_012_WIT_00_A_07
+Mówił coś do siebie, wyglądał na wściekłego.
+$GEN_012_WIT_00_A_08
+Co pan dokładnie słyszał?
+$GEN_012_WIT_00_A_09
+Mówił w obcym języku. Kilka słów powtarzało się, ale nie mam pojęcia, co one znaczyły.
+
+
+$GEN_012_WIT_01_A_QTitle
+Czy świadek jest przekonany, że to był zaplanowany atak?
+$GEN_012_WIT_01_A_00
+Czy świadek jest przekonany, że to był zaplanowany atak?
+$GEN_012_WIT_01_A_01
+Tak mi się wydaje.
+$GEN_012_WIT_01_A_02
+Jakby był dobrze zaplanowany, toby się udał.
+$GEN_012_WIT_01_A_03
+Skąd takie wrażenie?
+$GEN_012_WIT_01_A_04
+Ten człowiek musiał ustalić, że Robespierre będzie obecny w Konwencie tego dnia, a także znaleźć sposób, żeby dostać się do środka z bronią. Poczekał na zamieszanie i zaatakował konkretnego człowieka.
+
+
+$GEN_012_KEY_01
+Dezercja
+$GEN_012_KEY_02
+Przemknięcie do Paryża
+$GEN_012_KEY_03
+Motyw
+$GEN_012_KEY_04
+Maximilien de Robespierre
+$GEN_012_KEY_05
+Cecile de Jarre
+$GEN_012_KEY_06
+Zabójstwo polityczne
+$GEN_012_KEY_07
+Nieskazitelna służba
+$GEN_012_KEY_08
+Tęsknota za Polską
+$GEN_012_KEY_09
+Zakrwawiony sztylet
+
+
+$GEN_012_LastDialog_00
+Jeszcze Polska nie zginęła...
+
+$GEN_012_UNIQUE_QUESTION_00
+Jak przełożeni oskarżonego oceniają jego dotychczasową służbę?
+$GEN_012_UNIQUE_ANSWER_CORRECT_00_00
+Była nieskazitelna.
+$GEN_012_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Oskarżony miał być niezdarny i tchórzliwy.
+$GEN_012_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Nie wyróżniał się wśród innych żołnierzy.
+
+
+

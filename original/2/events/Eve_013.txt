@@ -1,0 +1,22 @@
+$EVE_013_TITLE
+J'ai été soldat
+$EVE_013_MAIN_01
+Le prestige et la justice : les responsables de ce noble bâtiment pensent que ces deux vertus sont essentielles. Le prestige et la justice sont au-dessus de tout. Avant-hier, j'ai eu le plaisir de partager quelques verres avec un de vos gardes, et nous avons échangé des souvenirs. Vous savez qu'avoir servi dans l'armée est une condition indispensable pour devenir garde des tribunaux, n'est-ce pas ? Cela n'est pas négociable, alors ce garde a dû nous servir un ramassis de sornettes en parlant de sa carrière militaire, et les états de service qu'il a réussi à obtenir sont sans doute falsifiés. Bien sûr, nous avions beaucoup bu…
+$EVE_013_MAIN_01_C1
+Enquêter sur la question
+$EVE_013_MAIN_01_C2
+Renvoyer le garde
+$EVE_013_MAIN_01_C3
+Laisser le garde tranquille
+$EVE_013_MAIN_02A
+Ce qui aurait pu n'être que les divagations d'un homme ivre s'est avéré vrai. Cela devait être un bien lourd fardeau à porter pour cet homme. Heureusement, il a enfin trouvé quelqu'un à qui faire confiance : moi. J'ai discrètement résolu le problème. Les états de services avaient été falsifiés et, pour en être certain, j'ai interrogé des gens qui auraient dû le connaître à l'armée. Apparemment, personne ne s'est jamais dit qu'il fallait vérifier ce genre de choses. Qui aurait pu penser qu'on mente à ce propos ? Il semble que cet homme voulait désespérément obtenir ce travail.
+$EVE_013_MAIN_02A_C1
+Renvoyer le garde
+$EVE_013_MAIN_02A_C2
+Accuser le garde d'escroquerie
+$EVE_013_MAIN_02A_C3
+Laisser le garde tranquille
+$EVE_013_MAIN_02B
+Le prestige et la justice. Je me suis répété ces deux mots encore et encore tandis que le rêve de ce jeune homme était réduit à néant en même temps que son gagne-pain. C'est vraiment dommage, mais nous avons des choses plus importantes à régler, ou alors nous ne méritons pas de faire partie de la Révolution.
+$EVE_013_MAIN_02C
+Peut-être est-ce là votre chemin vers la divinité ? Comme la déesse grecque Athéna, vous vous concentrez sur la sagesse et la paix.

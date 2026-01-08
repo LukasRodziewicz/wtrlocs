@@ -1,0 +1,280 @@
+$GEN_017_DOC_01_HEADER
+Compilado por: Olivier Carrasco
+$GEN_017_DOC_01_00
+En el banquillo de los acusados se encuentra la esposa del condenado ciudadano Louis Capet. María Antonieta, una austríaca de 38 años que llegó a Francia a los 14 para casarse con Louis, que tenía 16. Su matrimonio fue político: debía reforzar la alianza entre Austria y Francia.
+$GEN_017_DOC_01_01
+Tanto María Antonieta como su difunto esposo carecían de la experiencia y el conocimiento necesarios para gobernar un país. Su incompetencia dejó a Francia sumida en deudas y a los franceses en el hambre y la miseria. La exreina y su marido fueron incapaces de renunciar a su <a name="1" class="hidden">vida disoluta</a>, incluso cuando el pan se volvió inalcanzable para el ciudadano común.
+$GEN_017_DOC_01_02
+María Antonieta y Luis Capeto intentaron <a name="2" class="hidden">escapar</a> del Palacio de las Tullerías, donde los Capeto habían sido confinados por los revolucionarios. Ambos planeaban regresar a Francia con ejércitos extranjeros, pero fueron capturados antes de cruzar la frontera.
+$GEN_017_DOC_01_03
+Luis y María Antonieta lograron evitar el linchamiento a su regreso gracias a la protección de <a name="3" class="hidden">Antoine Barnave</a>. El célebre orador intercedió en su favor, lo que lo convirtió en sospechoso. Se cree que María Antonieta lo sedujo para utilizarlo en sus propios fines políticos.
+$GEN_017_DOC_01_04
+Durante años, María Antonieta ha sido acusada de actuar en contra de los intereses de Francia, de sumir el presupuesto del Estado en un profundo déficit, de conspirar contra la Revolución y de intentar <a name="5" class="hidden">restaurar la Monarquía</a>.
+$GEN_017_DOC_01_05
+Las derrotas de Francia frente a Austria pueden atribuirse a su traición. Sospechamos que transmitió <a name="6" class="hidden">secretos militares franceses</a> a su patria, pero carecemos de pruebas que respalden esta acusación.
+$GEN_017_DOC_01_06
+La ciudadana también está acusada de <a name="7" class="hidden">promiscuidad</a>. Además, se sospecha que acosó sexualmente a su hijo de ocho años, <a name="8" class="hidden">Luis Carlos</a>.
+$GEN_017_OnStart_00
+¡Ahora lo vas a pagar!
+$GEN_017_OnStart_01
+Ten en cuenta que este no es un caso común. Tu futuro depende de tu sentencia.
+$GEN_017_OnStart_02
+Por favor, preséntese.
+$GEN_017_OnStart_03
+¿Perdón?
+$GEN_017_OnStart_04
+Podría interpretar esa pregunta como desacato al tribunal.
+$GEN_017_OnStart_05
+Maria Antonia Josefa Johanna de Austria, también conocida como María Antonieta de Austria o simplemente María Antonieta. Sin embargo, preferiría que me llamaran “la Reina”.
+$GEN_017_OnStart_06
+Utilizaré el término “el acusado”.
+$GEN_017_OnStart_07
+¿Por qué no “puta austriaca”?
+$GEN_017_OnGuilty_00
+Condeno a la acusada María Antonieta de Austria a la guillotina.
+$GEN_017_OnGuilty_01
+Hace mucho que el Antiguo Régimen debió ser decapitado.
+$GEN_017_OnGuilty_02
+¡Hurra!
+$GEN_017_OnGuilty_03
+¡Por fin se ha hecho justicia!
+$GEN_017_OnPrison_00
+Condeno a María Antonieta de Austria a prisión. Lleven a la condenada.
+$GEN_017_OnPrison_01
+Esa sentencia es demasiado indulgente.
+$GEN_017_OnPrison_02
+¡Qué suerte tienes!
+$GEN_017_OnPrison_03
+¿¡El juez mostró remordimiento!?
+$GEN_017_OnPrison_04
+¡Que muera en la cárcel!
+$GEN_017_OnNotGuilty_00
+Declaro a la acusada no culpable. Puede retirarse en libertad.
+$GEN_017_OnNotGuilty_01
+¿Estás ciego, hombre?
+$GEN_017_OnNotGuilty_02
+¿Está loco?
+$GEN_017_OnNotGuilty_03
+¡Dejarla ir es condenarla a muerte!
+$GEN_017_01x04_00_QTitle
+¿Por qué vivía el acusado rodeado de lujos…?
+$GEN_017_01x04_00_00
+¿Por qué vivía el acusado en el lujo a pesar del déficit en el tesoro del Estado?
+$GEN_017_01x04_00_01
+Eche un vistazo a los gastos de la anterior reina y de las que la precedieron. Si los compara, verá que yo gastaba mucho menos dinero que ellas.
+$GEN_017_01x04_00_02
+También debemos tener en cuenta la situación de los ciudadanos en aquel entonces y durante el reinado de la acusada y su esposo.
+$GEN_017_01x04_00_03
+¡Tengan en cuenta mis patatas podridas!
+$GEN_017_01x04_00_04
+No recuerdo que las antiguas reinas fueran tan aficionadas al juego.
+$GEN_017_01x04_00_05
+Todos tenemos nuestros defectos.
+$GEN_017_01x08_01_QTitle
+El acusado ha llevado una vida disoluta, y hace tiempo que se cuestiona si el hijo del ciudadano Capeto es realmente fruto de su sangre.
+$GEN_017_01x08_01_00
+El acusado ha llevado una vida disoluta, y desde hace tiempo se cuestiona si el hijo del ciudadano Capeto es realmente suyo. ¿Responderá el acusado a estas acusaciones?
+$GEN_017_01x08_01_01
+Siempre fui fiel a mi esposo. Todo lo demás no son más que habladurías.
+$GEN_017_01x08_01_02
+¿El acusado teme hablar de ello?
+$GEN_017_01x08_01_03
+¡Podría seguir toda la noche!
+$GEN_017_01x08_01_04
+No hay nada de qué hablar.
+$GEN_017_01x08_01_05
+Se suponía que el ciudadano Capeto debía haber confirmado ese “rumor”.
+$GEN_017_01x08_01_06
+Está muerto, así que ese comentario resulta algo... poco apropiado. Pero responderé de todos modos. Mi esposo confiaba en mí, y yo en él. Eso es todo.
+$GEN_017_01x08_01_07
+Todo el mundo sabe que el ciudadano Capeto era un necio.
+$GEN_017_02x05_02_QTitle
+¿Qué futuro esperaba la acusada si su fuga hubiera tenido éxito?
+$GEN_017_02x05_02_00
+¿Qué futuro esperaba la acusada si su fuga hubiera tenido éxito?
+$GEN_017_02x05_02_01
+Nuestro plan era sobrevivir. Creíamos que nada bueno nos esperaba en este país. Y claramente no nos equivocamos.
+$GEN_017_02x05_02_02
+Así que comprendió que el pueblo buscaría venganza por su sufrimiento.
+$GEN_017_02x05_02_03
+Muchos celebrarían mi muerte.
+$GEN_017_02x05_02_04
+¡Por supuesto que sí!
+$GEN_017_02x05_02_05
+¡Y claro que lo haremos!
+$GEN_017_02x05_02_06
+De no ser por la fuga del acusado, hoy no estaríamos aquí hablando, y el pueblo no habría perdido la poca confianza que aún le quedaba. Todos creen que fue parte de su conspiración.
+$GEN_017_02x05_02_07
+Deseo ver al menos una prueba de nuestra supuesta conspiración.
+$GEN_017_02x05_02_08
+¡No necesitamos pruebas!
+$GEN_017_02x03_03_QTitle
+¿Cuál era la naturaleza de su relación con Antoine Barnave?
+$GEN_017_02x03_03_00
+¿Cuál era la naturaleza de su relación con Antoine Barnave?
+$GEN_017_02x03_03_01
+Era mi amigo. Nos ayudó y fue de los pocos que nos trataron con respeto cuando todos los demás nos dieron la espalda.
+$GEN_017_02x03_03_02
+¡Vaya, me pregunto si ella le devolvió el favor entre las sábanas!
+$GEN_017_02x03_03_03
+¿Es consciente la acusada de que, al pedir ayuda al ciudadano Barnave, también le ha causado serios problemas?
+$GEN_017_02x03_03_04
+Nunca le hice promesas ni le pedí ayuda. Simplemente éramos afines, y quizá por eso nació nuestra amistad.
+$GEN_017_02x03_03_05
+¿También tuvo relaciones íntimas con él?
+$GEN_017_02x03_03_06
+¡Zorra austriaca!
+$GEN_017_02x03_03_07
+Por supuesto que no.
+$GEN_017_02x03_03_08
+Entonces, ¿por qué se arriesgaría tanto a cartearse con usted?
+$GEN_017_02x03_03_09
+Solo espero que reciba un juicio justo y que sea absuelto.
+$GEN_017_02x03_03_10
+¡Cortadle la cabeza!
+$GEN_017_07x08_04_QTitle
+¿Se considera la acusada una madre ejemplar?
+$GEN_017_07x08_04_00
+¿Se considera la acusada una madre ejemplar?
+$GEN_017_07x08_04_01
+No puedo responder a eso, ni quiero hacerlo… Debería preguntarle a mi hijo.
+$GEN_017_07x08_04_02
+Antes de proceder, quisiera preguntar a la acusada sobre las acusaciones de abuso indecente contra Louis-Charles.
+$GEN_017_07x08_04_03
+Ninguna madre se rebajaría a responder a semejantes acusaciones atroces.
+$GEN_017_07x08_04_04
+Llame al testigo, el hijo del acusado, Louis-Charles.
+$GEN_017_07x08_04_06
+Preséntese, ciudadano.
+$GEN_017_07x08_04_07
+Me llamo Louis-Charles.
+$GEN_017_07x08_04_08
+¿Sabe por qué le hemos invitado aquí?
+$GEN_017_07x08_04_09
+No. ¿Por qué?
+$GEN_017_03x08_05_QTitle
+¿Cuál era la relación entre Antoine Barnave y el hijo del acusado?
+$GEN_017_03x08_05_00
+¿Cuál era la relación entre Antoine Barnave y el hijo de la acusada?
+$GEN_017_03x08_05_01
+Antoine era un amigo de la familia. Creo que Charles le tenía mucho cariño, e incluso puede que lo admirara.
+$GEN_017_03x08_05_02
+¿Cómo lo trató usted?
+$GEN_017_03x08_05_03
+Como lo haría con un amigo. ¿Acaso eso le resulta extraño?
+$GEN_017_03x08_05_04
+No nos resulta extraño en absoluto.
+$GEN_017_02x08_06_QTitle
+¿Cómo soportó el joven Louis-Charles las penurias de su huida?
+$GEN_017_02x08_06_00
+¿Cómo soportó el joven Louis-Charles las penurias de su huida?
+$GEN_017_02x08_06_01
+No muy bien. Tiene la desgracia de luchar contra la tuberculosis y las circunstancias solo han agravado su enfermedad.
+$GEN_017_02x08_06_02
+¿Al planear la fuga, tuvo en cuenta su estado de salud en algún momento?
+$GEN_017_02x08_06_03
+Solo pensaba en él. Hoy podría estar recuperándose en las aguas termales, en vez de sufrir el aire asfixiante de París…
+$GEN_017_02x08_06_04
+El único agua que nuestros hijos conocerán será la del Sena.
+$GEN_017_03x05_07_QTitle
+Debo admitir que usted y Antoine Barnave se parecen mucho.
+$GEN_017_03x05_07_00
+Debo admitir que usted y Antoine Barnave se parecen mucho. ¿Ha sospechado alguna vez la acusada que él la ayudaba por interés propio?
+$GEN_017_03x05_07_01
+Jamás se me pasó algo así por la cabeza. Antoine es una buena persona que solo quería ayudar. No soy yo quien deba juzgarlo por sus ideas políticas.
+$GEN_017_03x05_07_02
+Lo más importante que compartían era su odio hacia Francia.
+$GEN_017_03x05_07_03
+Disparates, yo...
+$GEN_017_03x05_07_04
+¡Nosotros roíamos huesos mientras ustedes se atiborraban de carne!
+$GEN_017_06x02_08_QTitle
+¿Ha transmitido alguna vez el acusado secretos militares franceses a Austria?
+$GEN_017_06x02_08_00
+¿Ha transmitido alguna vez el acusado secretos militares franceses a Austria?
+$GEN_017_06x02_08_01
+¿Qué clase de secretos podría yo saber?
+$GEN_017_06x02_08_02
+Comencemos por la fuerza y el armamento del ejército.
+$GEN_017_06x02_08_03
+Qué acusación tan absurda... Ni siquiera sabría distinguir un mortero de un mosquete.
+$GEN_017_06x02_08_04
+No es necesario que distingas la diferencia para tomar notas y enviarlas a otras partes.
+$GEN_017_06x02_08_05
+Soy la reina, no una espía.
+$GEN_017_06x02_08_06
+¡Sigue negándolo, la puta!
+$GEN_017_WIT_00_A_QTitle
+¿Alguna vez tu madre hizo algo contigo que te pareciera incorrecto?
+$GEN_017_WIT_00_A_00
+¿Alguna vez tu madre hizo algo contigo que te pareciera incorrecto?
+$GEN_017_WIT_00_A_01
+¿Como cuáles?
+$GEN_017_WIT_00_A_02
+Cosas de las que te avergonzarías.
+$GEN_017_WIT_00_A_03
+Eh, a mi madre le gustaba abrazarme delante de todos. Me daba vergüenza.
+$GEN_017_WIT_00_A_04
+¿Te abrazaba a menudo?
+$GEN_017_WIT_00_A_05
+Muy a menudo. A veces incluso venía a mi habitación por la noche solo para abrazarme.
+$GEN_017_WIT_00_A_06
+¿También te sentiste avergonzado entonces?
+$GEN_017_WIT_00_A_07
+No, porque nadie estaba mirando.
+$GEN_017_WIT_01_A_QTitle
+¿Te habló tu madre del plan para huir a Austria y acabar con la República?
+$GEN_017_WIT_01_A_00
+¿Te habló tu madre del plan para huir a Austria y acabar con la República?
+$GEN_017_WIT_01_A_01
+No, ni madre ni padre jamás mencionarían eso.
+$GEN_017_WIT_01_A_02
+¿El señor Barnave venía a menudo?
+$GEN_017_WIT_01_A_03
+¡Sí! Me cae muy bien el señor Barnave. Siempre es muy amable y me trae juguetes. Hace poco me regaló este guardia de madera…
+$GEN_017_WIT_01_A_04
+¿Él y tu madre hacían alguna vez algo que te pareciera extraño?
+$GEN_017_WIT_01_A_05
+Mi madre me dijo una vez que lo respetara igual que a mi padre.
+$GEN_017_KEY_01
+Vida disoluta
+$GEN_017_KEY_02
+La huida de los Capetos
+$GEN_017_KEY_03
+Antoine Barnave
+$GEN_017_KEY_04
+Déficit del tesoro
+$GEN_017_KEY_05
+La restauración de la monarquía
+$GEN_017_KEY_06
+Secretos militares
+$GEN_017_KEY_07
+La promiscuidad de la reina
+$GEN_017_KEY_08
+El joven Louis-Charles Capet
+$GEN_017_LastDialog_00
+¿Te he pisado? Perdón, ha sido totalmente sin querer.
+$GEN_017_UNIQUE_QUESTION_01
+¿En qué gastó su dinero la acusada?
+$GEN_017_UNIQUE_ANSWER_CORRECT_01_00
+Jugó a juegos de azar.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ella bebía.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Lo gastó en sus amantes.
+$GEN_017_UNIQUE_QUESTION_02
+¿Cuál era la relación del acusado con Barnave?
+$GEN_017_UNIQUE_ANSWER_CORRECT_02_00
+Eran amigos.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Son primos.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Él fue su amante.
+$GEN_017_UNIQUE_ANSWER_CORRECT_03_00
+Tuberculosis.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Viruela.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Fiebre.
+$GEN_017_UNIQUE_QUESTION_03
+¿Con qué enfermedad está luchando el hijo de María Antonieta?

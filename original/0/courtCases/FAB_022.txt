@@ -1,0 +1,170 @@
+$FAB_022_DOC_01_HEADER
+Sporządził: Fabrice Poli
+$FAB_022_DOC_01_00
+	Germaine de Staël w tych ciężkich czasach została postawiona w stan oskarżenia. Podejrzenia dotyczą spiskowania przeciw Francji, a także – co może nawet bardziej obrzydliwe – pedofilii i napastowania.
+$FAB_022_DOC_01_01
+	Podejrzenie o spiskowanie ma solidne podstawy. Oskarżona wywodzi się z wyższych sfer, jest córką byłego ministra finansów Neckera, jeszcze z czasów panowania króla. Od dziecka otaczana przez inteligencję, w wieku dorosłym zaczęła prowadzić salon polityczny. Miała do czynienia z zagranicznymi dostojnikami, którzy przebywając w Paryżu, odwiedzali jej ojca. To właśnie podczas debat politycznych, obcując z „najlepszymi” obywatelami Paryża, miała nakłaniać ich do współpracy z obcymi mocarstwami. 
+$FAB_022_DOC_01_02
+	Ów salon polityczny był również siedzibą obrzydlistw, które działy się tam przy udziale oskarżonej. W pierwszej kolejności zarzucano jej <a name="3" class="hidden">niestosowne zachowanie</a> wobec mężczyzn. Dochodzić miało wręcz do napastowania przez nią gości, włącznie z próbami zmuszania do odbycia <a name="4" class="hidden">stosunku płciowego</a>. 
+$FAB_022_DOC_01_03
+	Jednak podejrzenia dotyczą również wykorzystywania <a name="5" class="hidden">młodocianych chłopców</a>. Oskarżona zwykła rozluźniać się w ten sposób po dniu przepełnionym dyskusjami z dorosłymi. Ofiary sprawiały wrażenie odurzonych i wyglądały, jakby nie zdawały sobie sprawy z sytuacji. Niektórzy chłopcy mieli odwiedzać ją regularnie – szczególnie upatrzyła sobie ponoć blondynów.
+$FAB_022_DOC_01_04
+	Wszystkie informacje uzyskaliśmy dzięki świadkowi, który dobrze zna oskarżoną. Mowa tutaj o Grace Elliott, prostytutce i domniemanym szpiegu. Aresztowano ją podczas nasilenia terroru Robespierre’a. Zgodziła się mówić w zamian za wolność.
+$FAB_022_OnStart_00
+Przedstawcie się.
+$FAB_022_OnStart_01
+Wiecie, jak się nazywam, więc nie przedłużajmy.
+$FAB_022_OnStart_02
+Chce obywatelka od razu trafić na gilotynę?
+$FAB_022_OnStart_03
+A proszę bardzo. Ciekawe, jak ten wyrok wyjaśnicie ludziom.
+$FAB_022_OnGuilty_00
+Madame de Staël, czeka cię spotkanie z gilotyną!
+$FAB_022_OnGuilty_01
+Dawać dziwkę!
+$FAB_022_OnGuilty_02
+Zapłacisz kiedyś za swoją zdradę…
+$FAB_022_OnNotGuilty_00
+Madame de Staël, możesz iść wolno, uznaję cię za niewinną.
+$FAB_022_OnNotGuilty_01
+To nie będzie dzisiaj przedstawienia?
+$FAB_022_OnNotGuilty_02
+Myślisz, że to cokolwiek między nami załatwia?
+$FAB_022_01x03_00_QTitle
+Czy napastowanie mężczyzn to zachowanie akceptowane w gronie elit?
+$FAB_022_01x03_00_00
+Czy napastowanie mężczyzn to zachowanie akceptowane w gronie elit?
+$FAB_022_01x03_00_01
+Napastowanie nigdzie nie powinno być akceptowane, zwłaszcza w gronie elit. Ja tego nie akceptuję.
+$FAB_022_01x03_00_02
+Muszę przyznać, że wydawało mi się, iż mężczyźni napastują kobiety, a nie na odwrót. Oskarżona zmieniła moje spojrzenie.
+$FAB_022_01x03_00_03
+A ja myślałam, że publiczny oskarżyciel nie jest idiotą. Tinville zmienił moje postrzeganie.
+$FAB_022_01x03_00_04
+Proszę pohamować te oszczercze przemowy.
+$FAB_022_01x03_00_05
+Nie mam nic wspólnego z jakimkolwiek napastowaniem. Ktoś najwidoczniej chciał sobie schlebić.
+$FAB_022_01x03_00_06
+Mężczyźni mieliby sobie schlebiać, że do łoża próbuje ich zaciągnąć pedofilka?
+$FAB_022_01x03_00_07
+Myślicie, że mnie złamiecie? Nikt nie złamie kobiet.
+$FAB_022_01x03_00_08
+Gilotyna łamie wszystkich.
+$FAB_022_01x04_01_QTitle
+Oskarżona organizowała salon polityczny czy orgie dla elit?
+$FAB_022_01x04_01_00
+Oskarżona organizowała salon polityczny czy orgie dla elit?
+$FAB_022_01x04_01_01
+Chciałam się przyznać.
+$FAB_022_01x04_01_02
+Nareszcie głos rozsądku. Słuchamy.
+$FAB_022_01x04_01_03
+Chciałam zeznać, że częstym gościem tych orgii był obecny tutaj sędzia Alexis Fidéle.
+$FAB_022_01x04_01_04
+Słucham? Co to za kalumnie?!
+$FAB_022_01x04_01_05
+Nie większe niż oskarżenia, które rzuca się w moją stronę. Tak zeznaję: sędzia uczestniczył w orgiach. Kazał sobie przyprowadzać po kilka osób – chłopców, dziewczynki, a nawet kozę!
+$FAB_022_01x04_01_06
+Oskarżona sobie żartuje w sytuacji, gdy stawką jest jej życie.
+$FAB_022_01x04_01_07
+Ten proces to żart.Chcecie mnie skazać, bo miałam odwagę walczyć o prawa kobiet.
+$FAB_022_02x03_02_QTitle
+Czy oskarżona z reguły stosuje szantaż przy próbie pozyskania sojuszników?
+$FAB_022_02x03_02_00
+Czy oskarżona z reguły stosuje szantaż przy próbie pozyskania sojuszników?
+$FAB_022_02x03_02_01
+Nikogo nigdy nie szantażowałam. Szantażowana jestem teraz ja, z powodów politycznych.
+$FAB_022_02x03_02_02
+To znaczy?
+$FAB_022_02x03_02_03
+Prosiłam o poparcie w sprawie Deklaracji praw kobiet. Zamiast tego aresztowano mnie i postawiono tutaj. Sfabrykowano podłe oskarżenie, by mnie napiętnować publicznie.
+$FAB_022_02x03_02_04
+Dowody zebrali śledczy, nie sąd.
+$FAB_022_02x03_02_05
+Najwidoczniej podpowiedziano im, jaki zarzut będzie najgorzej wyglądał w oczach opinii publicznej. Dowody dopasowali później.
+$FAB_022_02x03_02_06
+Mamy uwierzyć na słowo?
+$FAB_022_02x03_02_07
+Moja opinia była nieposzlakowana, a tutaj nagle zarzut pedofilii? Chce się mnie zmusić do ustąpienia w temacie…
+$FAB_022_02x03_02_08
+Dosyć już tych wymysłów. Większości oskarżonych nie posądzilibyśmy o zbrodnie, które popełnili. A jednak byli winni.
+$FAB_022_02x04_03_QTitle
+Czy zaliczką za zdradę kraju miał być stosunek płciowy z oskarżoną?
+$FAB_022_02x04_03_00
+Czy zaliczką za zdradę kraju miał być stosunek płciowy z oskarżoną?
+$FAB_022_02x04_03_01
+Nie jestem prostytutką.
+$FAB_022_02x04_03_02
+Fakty pokazują, że nie trzeba nią być, by kupczyć ciałem i namawiać do zdrady. Czyż nie to robią kobiety?
+$FAB_022_02x04_03_03
+To wstrętne porównanie, ale czego mogę się spodziewać po mężczyznach?
+$FAB_022_02x04_03_04
+Czyli zaprzecza oskarżona?
+$FAB_022_02x04_03_05
+Zaprzeczam wszystkiemu, co wyjdzie z waszych parszywych, zdradzieckich mord. Zawsze, jak chcecie obrzydzić ludziom kobietę, to sugerujecie, że jest rozwiązła!
+$FAB_022_02x04_03_06
+A wy jak chcecie obrzydzić mężczyznę, to mówicie, że się kurwi! Posmakowała oskarżona swojej własnej broni.
+$FAB_022_02x04_03_07
+Obywatelu Tinville, proszę powściągnąć język.
+$FAB_022_02x04_03_08
+Kłócą się jak dzieci…
+$FAB_022_05x06_04_QTitle
+Proszę wezwać świadka.
+$FAB_022_05x06_04_00
+Proszę wezwać świadka.
+$FAB_022_05x06_04_02
+Przedstaw się.
+$FAB_022_05x06_04_03
+Grace Elliott. Dama do towarzystwa.
+$FAB_022_05x06_04_04
+„Dama”, dobre sobie.
+$FAB_022_WIT_00_A_QTitle
+Czy świadek  może powiedzieć cokolwiek o zdradzieckich działaniach madame de Staël?
+$FAB_022_WIT_00_A_00
+Czy świadek  może powiedzieć cokolwiek o zdradzieckich działaniach madame de Staël?
+$FAB_022_WIT_00_A_01
+Mogę potwierdzić, że obywatelka de Staël korumpowała lub usiłowała korumpować polityków Konwentu.
+$FAB_022_WIT_00_A_02
+Jak to się odbywało?
+$FAB_022_WIT_00_A_03
+Wykorzystywała spotkania podczas salonu politycznego. Po kilku kieliszkach zaczynała niby niezobowiązującą rozmowę o pomocy dla naszych sojuszników poza Francją.
+$FAB_022_WIT_00_A_04
+Możemy o to spytać któregoś z tych polityków?
+$FAB_022_WIT_00_A_05
+Posłaliście ich już na gilotynę.
+$FAB_022_WIT_00_B_QTitle
+Czy może świadek potwierdzić fakt przyjmowania przez oskarżoną nieletnich chłopców i współżycia z nimi?
+$FAB_022_WIT_00_B_00
+Czy może świadek potwierdzić fakt przyjmowania przez oskarżoną nieletnich chłopców i współżycia z nimi?
+$FAB_022_WIT_00_B_01
+To wstrętne, ale niestety muszę to potwierdzić.
+$FAB_022_WIT_00_B_02
+Zaraz zwymiotuję…
+$FAB_022_WIT_00_B_03
+Najczęściej były to dzieci z sierocińców. Nikt się nimi nie interesuje, to był łatwy cel.
+$FAB_022_WIT_00_B_04
+Tak po prostu przychodziły, wiedząc, co się będzie działo?
+$FAB_022_WIT_00_B_05
+Każdemu dawała jakieś drobiazgi, coś dobrego do jedzenia. Tym dzieciom to w zupełności wystarczało.
+$FAB_022_WIT_00_B_06
+Królowali blondyni?
+$FAB_022_WIT_00_B_07
+W rzeczy samej, chociaż widywałam też blondynki.
+$FAB_022_KEY_01
+Wyższe sfery
+$FAB_022_KEY_02
+Nakłanianie do współpracy
+$FAB_022_KEY_03
+Niestosowne zachowanie
+$FAB_022_KEY_04
+Stosunek płciowy
+$FAB_022_KEY_05
+Młodociani chłopcy
+$FAB_022_KEY_06
+Świadek
+
+$FAB_022_LastDialog_00
+Kobiety ci tego nie zapomną!
+
+
+

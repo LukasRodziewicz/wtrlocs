@@ -1,0 +1,24 @@
+$DIAL_CO_02_02_01_001_JUDGE
+Was war so dringend, dass du deswegen herkommen musstest, Marat? Ist es wirklich so wichtig, dass wir es nicht heute Abend bei mir zu Hause besprechen können?
+$DIAL_CO_02_02_01_002_MARAT
+Ich würde es lieber hier tun, im Beisein anderer, denn ich fürchte, ich würde Ihr Haus nicht lebend verlassen.
+$DIAL_CO_02_02_01_003_JUDGE
+Ich verstehe nicht.
+$DIAL_CO_02_02_01_004_MARAT
+Mir liegen anonyme Schriftstücke vor, die Ihr Handeln seit Ihrer Ernennung zum Richter des Tribunals schildern.
+$DIAL_CO_02_02_01_005_JUDGE
+…
+$DIAL_CO_02_02_01_006_MARAT
+Verrat, Mord, politische Bestechung … Bist du noch ein Mensch, oder spreche ich schon mit dem Teufel?
+$DIAL_CO_02_02_01_007_JUDGE
+Das alles ist das Werk von Clément Renard. Dieser Mann hat bereits meinen Vater zugrunde gerichtet, und vor ein paar Tagen drohte er, mir dasselbe anzutun, falls ich ihm nicht gehorche.
+$DIAL_CO_02_02_01_008_MARAT
+Bürger Fidèle–
+$DIAL_CO_02_02_01_009_JUDGE
+Was dort geschrieben steht, entspricht nicht der Wahrheit! Diese Lügen sollen doch nur zerstören–
+$DIAL_CO_02_02_01_010_MARAT
+Halten Sie mich nicht zum Narren! Heute wurde Renard tot hinter dem Café Procope aufgefunden. Seien Sie gewiss, ich werde so lange graben, bis ich jedes Ihrer Vergehen kenne. Jeden Mord, jeden Betrug, jeden Verrat.
+$DIAL_CO_02_02_01_011_JUDGE
+Ich versichere Ihnen, dass–
+$DIAL_CO_02_02_01_012_MARAT
+Das ist nicht nötig. Überzeugen Sie lieber Ihre Familie davon, dass Sie kein Ungeheuer sind, denn ich werde keine Gnade kennen.

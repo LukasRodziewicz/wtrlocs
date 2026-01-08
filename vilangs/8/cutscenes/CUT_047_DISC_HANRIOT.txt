@@ -1,0 +1,62 @@
+$CUT_047_DISC_HANRIOT_001_HANRIOT
+Você faz ideia de como isso soa? Aristocratas conspirando com Robespierre? Restauração da monarquia?
+$CUT_047_DISC_HANRIOT_002_JUDGE
+Não se esqueça do meu filho. Disseram na minha cara que tiveram parte na morte dele. Eles não temem absolutamente nada.
+$CUT_047_DISC_HANRIOT_003_HANRIOT
+Primeiro você se envolveu no conflito de Hébert e Danton contra Robespierre, e agora quer arrumar briga com Renard! Eu não gosto nada disso.
+$CUT_047_DISC_HANRIOT_004_JUDGE
+Você acha mesmo que vai manter seu cargo... O que estou dizendo... que vai manter a cabeça quando eles voltarem? Quando a monarquia for restaurada? Renard deve morrer, e Robespierre também — por sua infeliz escolha de amigos.
+$CUT_047_DISC_HANRIOT_005_HANRIOT
+Assim diz você, mas nada sei sobre as amizades que ele escolhe.
+$CUT_047_DISC_HANRIOT_006_JUDGE_AGGR
+Está surdo? Eu teria trazido você até aqui se não tivesse certeza? Renard disse tudo isso bem na minha frente.
+$CUT_047_DISC_HANRIOT_007_JUDGE_MANI
+Minhas informações sempre foram precisas. Renard olhou nos meus olhos ao falar sobre a conspiração. Tudo o que vi foi um predador que sentiu o cheiro de sangue.
+$CUT_047_DISC_HANRIOT_008_JUDGE_JOKE
+Você não confia em mim? Em mim? Duvidaria de um irmão mais velho que avisou para não tocar no fogão quente? Por que eu haveria de te enganar?
+$CUT_047_DISC_HANRIOT_009_JUDGE_HUMI
+Sei que você é bem informado, mas isso não é algo que poderia ter descoberto sozinho. Ainda bem, pois você não é uma peça nos planos de Renard e Robespierre.
+$CUT_047_DISC_HANRIOT_010_JUDGE_AGGR
+Está hesitando? Saiba que Renard há muito tenta tomar o controle de Paris. Ele queria se aproveitar do caos, e até aumentá-lo, se fosse necessário. Matando o filho de alguém, por exemplo!
+$CUT_047_DISC_HANRIOT_011_JUDGE_MANI
+Renard ultrapassou todos os limites ao atacar minha família. E ele fará isso de novo. Você está disposto a arriscar quando a vida de quem você ama está em jogo?
+$CUT_047_DISC_HANRIOT_012_JUDGE_JOKE
+Claro, podemos deixar o monarquista louco fazer o que quiser. Podemos fingir que o déspota é incorruptível. Por que não cortamos nossas próprias cabeças antes mesmo do anúncio oficial?
+$CUT_047_DISC_HANRIOT_013_JUDGE_HUMI
+Nada trará meu filho de volta, mas ainda há outros que podem ser salvos. Para isso, precisamos enfrentar a tirania e a corrupção. Esta é a nossa chance.
+$CUT_047_DISC_HANRIOT_014_HANRIOT_DOUB
+Um aristocrata esquecido seria capaz de tamanha monstruosidade? Está insinuando que Robespierre aprova as ações de Renard? Que ele permitiria que crianças fossem assassinadas nas ruas?
+$CUT_047_DISC_HANRIOT_015_HANRIOT_IRRI
+Como juiz do Tribunal, deveria saber que não há crime sem provas. Tem alguma? Caso contrário, pare imediatamente de caluniar um cidadão francês.
+$CUT_047_DISC_HANRIOT_016_HANRIOT_AGGR
+Ah, pare com esse delírio, Fidèle! Conspirações, assassinatos... Você acha que sou uma criança? Acha mesmo que um aristocrata seria responsável por tudo isso? Quem sabe ele também não esconde um novo rei no bolso!
+$CUT_047_DISC_HANRIOT_017_JUDGE_AGGR
+Está claro que você precisa de um incentivo, então terei prazer em fornecê-lo. Assim que os removermos, haverá vagas nos altos escalões. Vamos preenchê-las com ou sem você, mas preferimos tê-lo ao nosso lado. Considere isso suas trinta moedas de prata!
+$CUT_047_DISC_HANRIOT_018_JUDGE_MANI
+Você precisa enxergar mais longe. Quando aqueles dois canalhas sumirem, não só vamos acabar com a conspiração, mas também criaremos um vazio que precisará ser preenchido. Por nós. Por você e por mim.
+$CUT_047_DISC_HANRIOT_019_JUDGE_JOKE
+Se ainda teme não ganhar nada ao se aliar a nós, fique tranquilo: assim que aqueles dois inúteis sumirem, garantiremos para você um cargo elevado. E poderá mantê-lo pelo tempo que desejar. Novos tempos, meu amigo.
+$CUT_047_DISC_HANRIOT_020_JUDGE_HUMI
+Renard e Robespierre não podem continuar impunes! Sei que, no fundo do seu coração, você também está furioso. Não podemos permitir que eles tomem o controle absoluto… até porque nós, os verdadeiros defensores de Paris, merecemos isso muito mais do que eles.
+$CUT_047_DISC_HANRIOT_021_JUDGE_AGGR
+Você está vendo estas mãos, Hanriot? É nelas que seu cargo está seguro, mas sua teimosia e indecisão estão fazendo com que eu comece a perdê-lo. Entendeu?
+$CUT_047_DISC_HANRIOT_022_JUDGE_MANI
+Preciso lembrá-lo de que sua queda pode ser tão rápida quanto sua ascensão na carreira? Basta uma única ordem minha. Apenas uma. Ou talvez algumas palavras decepcionadas de Danton ou Hébert.
+$CUT_047_DISC_HANRIOT_023_JUDGE_JOKE
+Ultimamente, fui procurado por vários jovens ambiciosos, alguns deles oficiais. Vieram em busca do meu apoio. Todos estariam mais do que dispostos a arrancar os olhos dos próprios rivais pelo cargo. Tornar-se Comandante-Chefe da Guarda Nacional seria uma verdadeira honra...
+$CUT_047_DISC_HANRIOT_024_JUDGE_HUMI
+Danton e Hébert acham que eu não deveria perder meu tempo tentando convencê-lo a nos ajudar. Dizem que eu deveria ameaçá-lo com a demissão, ou até mesmo com a guilhotina. Para eles, acusações de atividades contrarrevolucionárias sempre podem ser facilmente comprovadas.
+$CUT_047_DISC_HANRIOT_025_HANRIOT_DOUB
+Se eu fosse ajudá-lo, seria por causa de sua esposa, não por seus argumentos. Você está jogando um jogo perigoso. Um passo em falso pode custar sua vida.
+$CUT_047_DISC_HANRIOT_026_HANRIOT_IRRI
+É verdade, eu não teria alcançado minha posição atual sem você, mas é tolice achar que isso me faz seu peão. Você não tem poder suficiente para me ameaçar. Nem você, nem Hébert, e muito menos Danton. Considere isto minha recusa. Adeus!
+$CUT_047_DISC_HANRIOT_027_HANRIOT_AGGR
+Quer a minha morte? Não, não sou idiota! Procure outro louco disposto a morrer por você. Posso ter prometido lealdade, mas isso não significa que vou sacrificar a minha vida!
+$CUT_047_DISC_HANRIOT_TOPIC_01
+A informação é confiável.
+$CUT_047_DISC_HANRIOT_TOPIC_02
+Renard deve responder por seus crimes.
+$CUT_047_DISC_HANRIOT_TOPIC_03
+Quando Renard e Robespierre morrerem, haverá uma mudança de poder.
+$CUT_047_DISC_HANRIOT_TOPIC_04
+A demissão de Hanriot está em nossas mãos.

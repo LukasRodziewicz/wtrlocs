@@ -1,0 +1,44 @@
+$CUT_027_SPEECH_001_JUDGE_AGGR
+Quando o Comitê foi tomado por Robespierre, deixou de cumprir seu propósito. Só a mão pesada da justiça pode restaurar a ordem ali!
+$CUT_027_SPEECH_002_JUDGE_MANI
+O Comitê se enredou em subornos e traição. Quem mais poderia desfazer esse nó górdio, senão o guardião da lei?
+$CUT_027_SPEECH_003_JUDGE_JOKE
+O Comitê está cheio de políticos velhos e lentos. Vamos trazer sangue novo e ousado para lá!
+$CUT_027_SPEECH_004_JUDGE_HUMI
+No Comitê estão os maiores entre nós, mas até eles podem falhar. Precisam de um novo líder jovem.
+$CUT_027_SPEECH_005_JUDGE_AGGR
+Todos os criminosos e traidores dentro do Comitê vão tremer de medo do promotor Tinville! Nada pode se esconder de nós.
+$CUT_027_SPEECH_006_JUDGE_MANI
+Tinville já provou muitas vezes que nada o impede de descobrir os crimes dos que caíram.
+$CUT_027_SPEECH_007_JUDGE_JOKE
+Ninguém além do promotor Tinville teve coragem para isso.
+$CUT_027_SPEECH_008_JUDGE_HUMI
+Tivemos uma sorte imensa de contar com a presença do nosso herói. O promotor Tinville concordou em restaurar a ordem no Comitê.
+$CUT_027_SPEECH_009_JUDGE_AGGR
+Se você também já está farto das desculpas constantes da Convenção sobre a dificuldade da situação, vamos simplificar as coisas para eles — levantando as mãos para o promotor Tinville!
+$CUT_027_SPEECH_010_JUDGE_MANI
+Danton decidiu se sacrificar e abrir caminho para Tinville. Você também vai apoiá-lo?
+$CUT_027_SPEECH_011_JUDGE_JOKE
+A situação não pode piorar mesmo. Quem sabe Tinville seja nosso salvador?
+$CUT_027_SPEECH_012_JUDGE_HUMI
+A França já sofreu demais. Seus cidadãos já sofreram o bastante. Você vai apoiar Tinville, nossa centelha de esperança?
+$CUT_027_SPEECH_013_JUDGE
+Você quer continuar passando fome? Deseja seguir testemunhando a corrupção entre aqueles que nos governam?
+$CUT_027_SPEECH_014_CROWD
+Não!
+$CUT_027_SPEECH_015_CROWD
+Precisamos chegar até Robespierre!
+$CUT_027_SPEECH_016_JUDGE
+Tinville vai nos salvar!
+$CUT_027_SPEECH_017_CROWD
+Tinville!
+$CUT_027_SPEECH_018_CROWD
+Queremos pão!
+$CUT_027_SPEECH_019_ROBESPIERRE
+Já está mais do que na hora de eu cuidar desse seu juiz...
+$CUT_027_SPEECH_TOPIC_01
+Agora é hora de restaurar a ordem no Comitê de Salvação Pública.
+$CUT_027_SPEECH_TOPIC_02
+Tinville aceitou assumir essa tarefa difícil.
+$CUT_027_SPEECH_TOPIC_03
+Ele contará com o seu apoio?

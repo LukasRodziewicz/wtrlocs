@@ -1,0 +1,238 @@
+$GEN_032_DOC_1_HEADER
+Compiled by: Nathan d’Essiraf
+$GEN_032_DOC_1_00
+Before the court stands Sébastien Thil, 19-years-old, son of a butcher and famous throughout the Section for the <a name="1" class="hidden">excellent pâtés</a> that he makes using his own recipe. Unfortunately, there have lately been serious indications that he produces them from cat meat.
+$GEN_032_DOC_1_01
+The accusations are based on the deposition given by <a name="3" class="hidden">Anna Renan</a>, who was stopped on the street with <a name="4" class="hidden">a bag of cats</a>. She had been catching animals <a name="5" class="hidden">on behalf of Sébastien Thil</a>, who was buying them. It is said that his famous pâtés were made from these cats.
+$GEN_032_DOC_1_02
+Upon the young cook’s arrest, the investigators found <a name="6" class="hidden">cat carcasses</a> in the butcher’s house, stored among other types of meat. One full box of them was found beneath a table.
+$GEN_032_OnStart_00
+Feeding people dead cats? This is outrageous!
+$GEN_032_OnStart_01
+Citizen, what is your name?
+$GEN_032_OnStart_02
+Sébastien Thil, kind sir.
+$GEN_032_OnStart_03
+You are accused of feeding the Citizens of Paris pâté made from cats. How do you plead to those charges?
+$GEN_032_OnStart_04
+What?! Says who? I bet one of them competing butchers, those rotten scoundrels! They lie! They’re dirty, lying swines, sir!
+$GEN_032_OnStart_05
+Better to lie like a pig than taste like a cat.
+$GEN_032_OnStart_06
+Says your supplier, who has been caught red-handed with a fresh supply of cats.
+$GEN_032_OnStart_07
+What supplier?
+$GEN_032_OnStart_08
+Pretending to be innocent will not help you. Do you have so many suppliers that you have lost count?
+$GEN_032_OnStart_09
+Renan, right?
+$GEN_032_OnStart_10
+That is right. Do you confess?
+$GEN_032_OnStart_11
+Absolutely not! Maybe she makes cat pâté herself?
+$GEN_032_OnGuilty_00
+I sentence Sébastien Thil to be guillotined! Lead the condemned out.
+$GEN_032_OnGuilty_01
+Where’s your evidence?! What about justice?!
+$GEN_032_OnGuilty_02
+It is a severe punishment, but public health is not a joke.
+$GEN_032_OnNotGuilty_00
+The judgement for Sébastien Thil is… not guilty! Take the defendant away.
+$GEN_032_OnNotGuilty_01
+Scandal! He will continue to sell us cat meat!
+$GEN_032_OnNotGuilty_02
+Objection! This is a sentence against Parisian stomachs!
+$GEN_032_04x05_00_QTitle
+What did you purchase the cats for?
+$GEN_032_04x05_00_00
+What did you purchase the cats for?
+$GEN_032_04x05_00_01
+Monsieur le juge, it’s… for medical purposes.
+$GEN_032_04x05_00_02
+What do you mean?
+$GEN_032_04x05_00_03
+Well, because of their skins, their fur. It works miracles on back pain, you know? I just wanted to earn a little on the side.
+$GEN_032_04x05_00_04
+Liar! People were coming to you for your pâté, not for skins!
+$GEN_032_04x05_00_05
+Were you killing cats?
+$GEN_032_04x05_00_06
+Yes, but not to feed them to people.
+$GEN_032_04x05_00_07
+Could you tell us at least one client who came to you for your packs?
+$GEN_032_04x05_00_08
+I wasn’t taking notes, sir. Various people were coming and going, buying skins then leaving.
+$GEN_032_04x05_00_09
+Not remembering is a convenient strategy.
+$GEN_032_01x06_01_QTitle
+Tell me, what happened with the meat of the cats you purchased?
+$GEN_032_01x06_01_00
+Tell me, what happened with the meat of the cats you purchased?
+$GEN_032_01x06_01_01
+It was delivered with the rest of the offal to aristocrats who have kennels.
+$GEN_032_01x06_01_02
+You were not turning them into pâté?
+$GEN_032_01x06_01_03
+Of course not! I would never feed people such filth!
+$GEN_032_01x06_01_04
+And when there were no deliveries of meat? There have been food shortages lately. Have you never added even a small amount?
+$GEN_032_01x06_01_05
+Spoil my pâté with meat from the streets? Never!
+$GEN_032_01x06_01_06
+If he’s such a saint, why won’t he prove it?
+$GEN_032_01x06_01_07
+The cat carcasses were found on the floor, no? That’s your proof! I never store meat for people on the floor!
+$GEN_032_03x05_02_QTitle
+Do you confirm paying Anna Renan to catch cats?
+$GEN_032_03x05_02_00
+Do you confirm paying Anna Renan to catch cats?
+$GEN_032_03x05_02_01
+She came to me, offering to bring me cats to cut up. I agreed, of course. I’m a butcher, after all. I can dress the flesh of a pig, so why not a cat?
+$GEN_032_03x05_02_02
+And then he serves it to the people! Has he no shame?
+$GEN_032_03x05_02_03
+It makes no difference to you what animal you are dressing?
+$GEN_032_03x05_02_04
+Well, you know, it’s easier to cut a pig because it’s much bigger. Smaller cats require more effort, as they…
+$GEN_032_03x05_02_05
+Would you dress human flesh too?
+$GEN_032_03x05_02_06
+Good God!
+$GEN_032_03x05_02_07
+What a terrible thought!
+$GEN_032_03x05_02_08
+I’m a butcher, not a killer!
+$GEN_032_01x02_03_QTitle
+What ingredients do you use to prepare your famous pâté?
+$GEN_032_01x02_03_00
+What ingredients do you use to prepare your famous pâté?
+$GEN_032_01x02_03_01
+Only natural ingredients, sir – some liver, pork shoulder, a bit of side, of course, or it will be too dry. You can also add lard.
+$GEN_032_01x02_03_02
+Enough…
+$GEN_032_01x02_03_03
+I always use four types of meat. To make it taste even better, you can add some onion or a small glass of cognac. It’s delicious, I swear.
+$GEN_032_01x02_03_04
+The accused forgot to mention cats – an important part of the recipe.
+$GEN_032_01x02_03_05
+That’s not true. Is there even one person who saw that I added feline meat to my pâté? Just one?
+$GEN_032_01x02_03_06
+I am quite certain that you were careful not to have any witnesses. What a dramatic tirade!
+$GEN_032_03x04_04_QTitle
+Call in the witness, Anna Renan.
+$GEN_032_03x04_04_00
+Call in the witness, Anna Renan.
+$GEN_032_03x04_04_02
+Please introduce yourself.
+$GEN_032_03x04_04_03
+Anna Renan, we bumped into each other…
+$GEN_032_03x04_04_04
+Yes, I remember…
+$GEN_032_WIT_00_A_QTitle
+How do you know that the pâté is made of cat meat?
+$GEN_032_WIT_00_A_00
+How do you know that the pâté is made of cat meat?
+$GEN_032_WIT_00_A_01
+From young Thil. He barked at me when I brought him old cats once. Said they were so old, mangy, and tough even dogs wouldn’t eat them.
+$GEN_032_WIT_00_A_02
+So he never said directly that he uses it for his pâté?
+$GEN_032_WIT_00_A_03
+What would that lad use it for if not for his delicacy? He said old meat is tough, so I brought him cats for a good pâté.
+$GEN_032_WIT_00_A_04
+Have you ever seen how the pâté was prepared?
+$GEN_032_WIT_00_A_05
+No.
+$GEN_032_WIT_00_A_06
+If you knew about this, why did you not inform the Guard immediately?
+$GEN_032_WIT_00_A_07
+I didn’t, which is my fault, but the bread’s getting more and more expensive and I’m not getting any richer. I have to make a living somehow, right?
+$GEN_032_WIT_00_B_QTitle
+How long have you been delivering cats to the accused?
+$GEN_032_WIT_00_B_00
+Have long have you been delivering cats to the accused?
+$GEN_032_WIT_00_B_01
+It was only the third sack when monsieur le juge ran into me on the street…
+$GEN_032_WIT_00_B_02
+So you started quite recently?
+$GEN_032_WIT_00_B_03
+About a week ago I heard rumours that the butcher’s son was buying cats. I quickly thought I could earn a few deniers as well.
+$GEN_032_WIT_00_B_04
+Where did you hear that?
+$GEN_032_WIT_00_B_05
+From Adele, she sells vegetables at the market, and it turned out she wasn’t making it up. Thil promised me 5 deniers for each cat.
+$GEN_032_WIT_00_B_06
+Instead of reporting this to the Guard, you went straight to him?
+$GEN_032_WIT_00_B_07
+Well… yeah. Catching a cat is like shelling peas, and it pays for bread.
+$GEN_032_WIT_00_B_08
+Gossip… Adele told her? Pff!
+$GEN_032_WIT_01_A_QTitle
+Did you try the dubious pâté?
+$GEN_032_WIT_01_A_00
+Did you try the dubious pâté?
+$GEN_032_WIT_01_A_01
+How? I can’t afford it.
+$GEN_032_WIT_01_A_02
+And if you could, would you try, knowing what it was made of?
+$GEN_032_WIT_01_A_03
+Why not? It wouldn’t kill me. Everyone’s saying how delicious it is, so maybe cat meat isn’t as bad as we think?
+$GEN_032_WIT_01_A_04
+Lead the witness out.
+$GEN_032_WIT_01_A_06
+Would you like to comment on that?
+$GEN_032_WIT_01_A_07
+I’m not making cat pâté. That’s all I have to say.
+$GEN_032_WIT_01_B_QTitle
+Tell us the names of the other people who were bringing cats to the defendant.
+$GEN_032_WIT_01_B_00
+Tell us the names of the other people who were bringing cats to the defendant.
+$GEN_032_WIT_01_B_01
+I don’t know them. But I wasn’t the only one catching them for young Thil, I know that for sure.
+$GEN_032_WIT_01_B_02
+You never met another supplier at the butcher’s?
+$GEN_032_WIT_01_B_03
+No, but I’ve only just started working for him.
+$GEN_032_WIT_01_B_04
+Lead the witness out.
+$GEN_032_WIT_01_B_06
+Would you like to comment on that?
+$GEN_032_WIT_01_B_07
+Different people bring various types of meat. I don’t have any regular employees.
+$GEN_032_KEY_01
+Famous pâté
+$GEN_032_KEY_02
+Cat meat
+$GEN_032_KEY_03
+Anna Renan
+$GEN_032_KEY_04
+Bag of cats
+$GEN_032_KEY_05
+On behalf of Sébastien Thil
+$GEN_032_KEY_06
+Cat carcasses
+$GEN_032_LastDialog_00
+Help me, mother! They want to kill me!
+$GEN_032_UNIQUE_QUESTION_00
+According to Thil, what happened to the cat meat?
+$GEN_032_UNIQUE_ANSWER_CORRECT_00_00
+It was delivered to kennels.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_00_00
+It was dumped in the river.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_00_01
+It was given to the homeless.
+$GEN_032_UNIQUE_QUESTION_01
+How did the butcher explain his purchase of cats?
+$GEN_032_UNIQUE_ANSWER_CORRECT_01_00
+He sold their skin as a medicine.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_01_00
+He sold their paws as lucky charms.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_01_01
+He sold their bile to herbalists in the village.
+$GEN_032_UNIQUE_QUESTION_02
+What did Citizen Renan have with her at the moment of her arrest?
+$GEN_032_UNIQUE_ANSWER_CORRECT_02_00
+A sack of cats.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Cat meat.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Cat skin.

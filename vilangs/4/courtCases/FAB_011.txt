@@ -1,0 +1,196 @@
+$FAB_011_DOC_01_HEADER
+Zusammengestellt von: Fabrice Poli
+$FAB_011_DOC_01_00
+Der Angeklagte, der nun vor uns treten wird, ist Jean-Nicolas Pache, der Bürgermeister von Paris, verdächtigt des Verrats durch <a name="1" class="hidden">Zusammenarbeit mit feindlichen Mächten</a>.
+$FAB_011_DOC_01_01
+Er wurde verhaftet nach der schriftlichen Aussage von Béatrice Caron, Tochter eines örtlichen Küfers, die vor allem für ihre Verbindungen zu den verkommenen Muscadins bekannt ist. Das Mädchen gestand, eine österreichische Spionin zu sein, und erklärte, dass sie Informationen direkt vom Angeklagten erhalten habe. Mit ihrem Wissen soll es ihr gelungen sein, das Alltagsleben der Pariser zu stören. Im Gegenzug für die Preisgabe ihres Informanten bei den Stadtbehörden wurde Caron aus Frankreich verbannt, unter Androhung der Todesstrafe im Falle ihrer Rückkehr.
+$FAB_011_DOC_01_02
+Die Untersuchung, die ich gemeinsam mit Staatsanwalt Tinville geführt habe, zeigt, dass Bürger Pache den Anweisungen von Carons österreichischen Auftraggebern folgte und das Mädchen für den Briefaustausch zwischen beiden Seiten verantwortlich war. Für viele der verdächtigen Handlungen des Bürgermeisters konnten wir keine stichhaltigen Beweise finden, doch in einem Punkt ist die Untersuchung eindeutig – der verzögerte Bau der Pont de la Révolution. Feindliche Kräfte wollten dies verhindern, da das Bauwerk dazu bestimmt war, <a name="4" class="hidden">die Franzosen zu einen</a> und zum Symbol der neu entfachten revolutionären Flamme zu werden. Die Verschwörer konnten zudem hoffen, <a name="5" class="hidden">Robespierre selbst in Verruf zu bringen</a>, den Initiator und Förderer dieses Vorhabens.
+$FAB_011_DOC_01_03
+Der Beweis für diese Verschwörung fand sich in <a name="6" class="hidden">Briefen</a>, die wir bei der Durchsuchung des Büros des Angeklagten beschlagnahmt haben. Alle waren lediglich mit einem „D“ unterzeichnet, und es ist uns bislang nicht gelungen, die Identität dieser geheimnisvollen Person zu ermitteln. Die gängigste Vermutung – dass es sich um Danton handelt – haben wir verworfen, da allgemein bekannt ist, dass er und Robespierre politische Verbündete und zudem Freunde sind.
+$FAB_011_DOC_02_TOOLTIP
+Brief
+$FAB_011_DOC_02_00
+	Für J.-N. P.
+	Die Herren der Maurergilde weigern sich, unsere Argumente anzuhören, und haben die Arbeiten an der Brücke eingestellt. Sie müssen mit Gewalt überzeugt werden. Tu es, Pache – Robespierre wird nachgeben, und du bekommst deinen Lohn.
+	D.
+$FAB_011_OnStart_00
+Zu Protokollzwecken stellen Sie sich bitte vor.
+$FAB_011_OnStart_01
+Mein Name ist Jean-Nicolas Pache, und ich bin der Bürgermeister von Paris. Ich möchte verkünden, dass die Anschuldigungen gegen mich das Ergebnis einer Verschwörung dieses Richters sind!
+$FAB_011_OnStart_02
+Du hast dir eine Dreistigkeit erlaubt, Verräter.
+$FAB_011_OnStart_03
+Bald werden wir wissen, wer der Verräter ist. Stellen Sie Ihre Fragen, Fidèle!
+$FAB_011_OnGuilty_00
+Ich verurteile den Angeklagten zum Tode. Führt ihn ab!
+$FAB_011_OnGuilty_01
+Gerechtigkeit!
+$FAB_011_OnGuilty_02
+So ergeht es allen Verrätern!
+$FAB_011_OnGuilty_03
+Wir sehen uns in der Hölle, Fidèle!
+$FAB_011_OnPrison_00
+[Dies ist ein Platzhalter und muss geändert werden!!!!]
+$FAB_011_OnNotGuilty_00
+Der Angeklagte ist unschuldig. Schafft ihn mir aus den Augen.
+$FAB_011_OnNotGuilty_01
+Das ist ein Skandal!
+$FAB_011_01x02_00_QTitle
+Geben Sie zu, mit einer ausländischen Macht zusammengearbeitet zu haben?
+$FAB_011_01x02_00_00
+Geben Sie zu, mit einer ausländischen Macht zusammengearbeitet zu haben?
+$FAB_011_01x02_00_01
+Nein, das gestehe ich nicht. Sie haben doch diesen ganzen Plan ausgeheckt, Fidèle!
+$FAB_011_01x02_00_02
+Ich bitte den Angeklagten, sich zumindest mit etwas Würde zu benehmen.
+$FAB_011_01x02_00_03
+Hat der Bürgermeister heute getrunken? Hat ihm jemand Wein gegeben?
+$FAB_011_01x02_00_04
+Was haben Sie im Gegenzug für Ihre Spionagetätigkeit erhalten?
+$FAB_011_01x02_00_05
+Ich habe nichts bekommen, weil ich kein Spion bin! Der Richter hat sich die verrückte Idee ausgedacht, dass ich hinter dem Anschlag auf sein Leben stecke, und jetzt nimmt er Rache!
+$FAB_011_01x02_00_06
+Was soll dieser Unsinn?
+$FAB_011_01x02_00_07
+Ich habe Beweise. Das Zeugnis von–
+$FAB_011_01x02_00_08
+Und wo ist die Person, die dieses fragwürdige Dokument unterzeichnet hat?
+$FAB_011_01x02_00_09
+Dieser Bürger ist geflohen–
+$FAB_011_01x02_00_10
+Was? Ihr habt sie getötet? Dann seid ihr also nicht nur Verräter, sondern auch Mörder!
+$FAB_011_01x02_00_11
+Wovon spricht er?
+$FAB_011_01x05_01_QTitle
+Hatten unsere Feinde vor, Robespierre in Verruf zu bringen?
+$FAB_011_01x05_01_00
+Hatten unsere Feinde vor, Robespierre in Verruf zu bringen?
+$FAB_011_01x05_01_01
+Ich habe keine Ahnung, was sie gewollt haben könnten. Außerdem wäre es völlig unlogisch, mich für so etwas einzusetzen.
+$FAB_011_01x05_01_02
+Warum?
+$FAB_011_01x05_01_03
+Weil ich kaum Macht hatte. Die einzige Verbindung zwischen mir und Robespierre war diese verdammte Brücke, und soweit ich weiß, war das nur eine von vielen ihrer Unternehmungen.
+$FAB_011_01x05_01_04
+Das beweist gar nichts.
+$FAB_011_01x05_01_05
+Das ergibt Sinn.
+$FAB_011_01x05_01_06
+Hätten sie Robespierre diskreditieren wollen, hätten sie jemanden aus seinem engeren Kreis gewählt.
+$FAB_011_01x05_01_07
+Dieses Argument ist nicht ganz überzeugend.
+$FAB_011_01x05_01_08
+Ebenso wenig wie Ihre lächerlichen Anschuldigungen! Warum suchen Sie nicht gleich eine Verbindung zwischen mir und Pontius Pilatus? Sie spekulieren doch nur.
+$FAB_011_03x04_02_QTitle
+Ist Ihnen bewusst, wie viel Schaden Sie der Revolution zugefügt haben…
+$FAB_011_03x04_02_00
+Ist Ihnen bewusst, wie sehr Sie der Revolution durch die Komplikationen mit der Brücke geschadet haben?
+$FAB_011_03x04_02_01
+Ganz im Gegenteil – die Brücke wäre ohnehin gebaut worden. Mir war die Bedeutung dieses Bauwerks vollkommen bewusst, und ich habe das Projekt persönlich überwacht, um die fachgerechte Ausführung durch die Arbeiter sicherzustellen und–
+$FAB_011_03x04_02_02
+Einen Moment mal! Das professionelle Verhalten der Bauarbeiter? Das ist doch ein Witz! Wie können Sie in diesem Ton von Sabotage am Bau und dem Versuch sprechen, den revolutionären Geist Frankreichs zu brechen?
+$FAB_011_03x04_02_03
+Verschonen Sie mich mit dieser politischen Agitation. Ich kenne sie auswendig.
+$FAB_011_03x04_02_04
+Vielleicht hatte er keine bösen Absichten?
+$FAB_011_03x04_02_05
+Halt den Mund und hör auf deine Vorgesetzten!
+$FAB_011_03x04_02_06
+Für mich war es am wichtigsten, die Sicherheit der Brücke zu gewährleisten. Doch die Symbolkraft ist ebenso bedeutend – deshalb wollte ich unbedingt verhindern, dass sie wegen mangelhafter Bauweise einstürzt. Das wäre eine symbolische Katastrophe gewesen! Genau das ist der wahre Grund für all die zahlreichen Kontrollen und Baustopps.
+$FAB_011_03x04_02_07
+Gut, dass er sich darum gekümmert hat.
+$FAB_011_07x06_04_QTitle
+Haben Sie alle Ihre Befehle schriftlich erhalten?
+$FAB_011_07x06_04_00
+Haben Sie alle Ihre Befehle schriftlich erhalten?
+$FAB_011_07x06_04_01
+Beenden Sie diese Verleumdungen. Wenn es hier einen Verräter gibt, dann sitzt er vor mir und spielt den gerechten Richter!
+$FAB_011_07x06_04_02
+Ich dulde das nicht mehr lange! Sagen Sie aus, oder Sie landen direkt unter der Guillotine!
+$FAB_011_07x06_04_03
+Ich bezeuge, dass ich stets nur Frankreich gedient habe – niemals einem anderen Land!
+$FAB_011_07x06_04_04
+Woher stammen dann die Befehle in diesen Briefen?
+$FAB_011_07x06_04_05
+Ich habe keine Briefe gesehen. Glauben Sie wirklich, ich hätte solch eindeutige Beweise gegen mich aufbewahrt, wenn ich ein Verräter wäre?!
+$FAB_011_07x06_04_06
+Der Angeklagte ist offenkundig nicht nur ein Verräter, sondern auch ein Narr.
+$FAB_011_07x06_04_07
+Und ihr seid noch größere Narren, wenn ihr nicht erkennt, dass jemand Beweise fälscht und gegen mich intrigiert!
+$FAB_011_KEY_01
+Zusammenarbeit mit feindlichen Mächten
+$FAB_011_KEY_02
+Destabilisierung des Alltags der Bürger
+$FAB_011_KEY_03
+Verzögerter Brückenbau
+$FAB_011_KEY_04
+Ein Symbol der französischen Einheit
+$FAB_011_KEY_05
+Robespierre diskreditieren
+$FAB_011_KEY_06
+Geheimer Brief
+$FAB_011_KEY_07
+Ein geheimer Korrespondent
+$FAB_011_LastDialog_00
+Fidèle ist der wahre Verräter!
+$FAB_011_UNIQUE_QUESTION_00
+Mit wem würde der Angeklagte vertrauliche Informationen teilen?
+$FAB_011_UNIQUE_ANSWER_CORRECT_00_00
+Mit Béatrice Caron.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Mit Danton.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Mit seiner Frau.
+$FAB_011_UNIQUE_QUESTION_01
+Wo wurde der Briefwechsel zwischen dem Angeklagten und „D“ gefunden?
+$FAB_011_UNIQUE_ANSWER_CORRECT_01_00
+In seinem Büro.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Im Keller seines Hauses.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_01_01
+In Dantons Wohnung.
+$FAB_011_UNIQUE_QUESTION_04
+Wie antwortete der Angeklagte auf den Vorwurf der Zusammenarbeit mit einer ausländischen Macht?
+$FAB_011_UNIQUE_ANSWER_CORRECT_04_00
+Er behauptet, Opfer von Richter Fidèles Intrige zu sein.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_04_00
+Er behauptet, das sei alles Robespierres Rachefeldzug.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_04_01
+Er hält sich für das Opfer einer Intrige benachbarter Länder, die Frankreich schwächen wollen.
+$FAB_011_PLOT_TWIST_GUARD_01_01
+Bürger Fidèle, Sie müssen... Es gibt etwas, das Sie sich ansehen sollten.
+$FAB_011_PLOT_TWIST_JUDGE_01_02
+Du Mistkerl! Mein Kind!
+$FAB_011_PLOT_TWIST_MENTOR_01_02
+Alexis, versuch dich zu beruhigen.
+$FAB_011_PLOT_TWIST_TINVILLE_01_03
+Bürger Fidèle… Wir haben von Ihrem Unglück gehört. Können wir irgendetwas—
+$FAB_011_PLOT_TWIST_JUDGE_01_04
+Ihr alle, haltet verdammt nochmal den Mund! Pache, warum hast du meinen Jungen getötet?!
+$FAB_011_PLOT_TWIST_PASHE_01_05
+Davon verstehe ich nichts – Kindermord ist eher Ihre Spezialität.
+$FAB_011_PLOT_TWIST_JUDGE_02_QTitle
+Warum hast du das getan, Pache?
+$FAB_011_PLOT_TWIST_JUDGE_02_01
+Warum hast du das getan, Pache?
+$FAB_011_PLOT_TWIST_PASHE_02_02
+Ich habe nicht die geringste Ahnung, wessen man mich jetzt beschuldigt.
+$FAB_011_PLOT_TWIST_JUDGE_02_03
+Meines Kindes Ermordung!
+$FAB_011_PLOT_TWIST_PASHE_02_04
+Ich war die ganze Zeit in der Zelle. Wie kommen Sie darauf, dass ich draußen jemanden töten konnte? Lügen und Verleumdung.
+$FAB_011_PLOT_TWIST_TINVILLE_02_05
+Sie hätten jemanden für den Mord bezahlen können. Ihre Anklageschrift beweist, dass Sie dazu fähig sind!
+$FAB_011_PLOT_TWIST_JUDGE_03_QTitle
+Wer hat meinen Sohn getötet, Pache?
+$FAB_011_PLOT_TWIST_JUDGE_03_01
+Wer hat meinen Sohn getötet, Pache?
+$FAB_011_PLOT_TWIST_PASHE_03_02
+Wahrscheinlich diejenigen, die Sie ebenso hinterhältig angegriffen haben wie mich. Sie erheben Anschuldigungen ohne Beweise, Sie verleumden. Nun haben Sie Ihre Antwort erhalten. Ich habe mehr Ehre als das, und deshalb stehe ich hier und verteidige mich persönlich.
+$FAB_011_PLOT_TWIST_JUDGE_03_03
+Wer steckt dahinter? Sprich sofort, oder du landest direkt auf dem Schafott!
+$FAB_011_PLOT_TWIST_PASHE_03_04
+Sehen Sie? Der Richter droht mir mit der Guillotine, um sich selbst zu bereichern. Das ist kein Prozess, das ist eine Farce!
+$FAB_011_PLOT_TWIST_TINVILLE_03_05
+Schweig, Kindermörder!

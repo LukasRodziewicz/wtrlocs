@@ -1,0 +1,205 @@
+$GEN_003_DOC_01_HEADER
+Hazırlayan: Raphaël Chalopin
+$GEN_003_DOC_01_00
+Sanık sandalyesinde, Section des Gravilliers, rue Meslée sakini Lucien Blanchot bulunuyor. Vatandaş Blanchot’un birkaç manav tezgâhı var. Haksız ticaret uygulamalarıyla ilgili çok sayıda <a name="1" class="hidden">şikâyet</a> aldık; bunlar arasında bozuk meyve satmak, fiyat spekülasyonu yapmak ve <a name="3" class="hidden">yasal fiyat sınırlarını</a> ihlal etmek de var.
+$GEN_003_DOC_01_01
+Bay Blanchot tüm suçlamaları reddetti, ancak tezgahlarında yaptığım inceleme, şikayetlerin en azından bir kısmının haklı olduğunu ortaya koydu. Fiyatların <a name="4" class="hidden">“çalışan hataları”</a> nedeniyle şişirildiğini, bozuk ürünlerin ise denetim günü atılmak üzere olduğunu iddia etti. Denetçiler usulsüzlükleri belirttiğinde, Blanchot çalışanlarını azarlamış ve tezgahında düzeni sağlamak için hemen harekete geçmiştir.
+$GEN_003_DOC_01_02
+<h1>Lucien Blanchot</h1>
+Genç bir tüccar ve ateşli bir Jakoben destekçisi. <a name="5" class="hidden">Bağlantıları</a> olduğunu söylüyor; Marat ve Robespierre ile tanıştığını iddia ediyor. Şimdiye dek tüm karanlık işlerinden sıyrılmayı başardığına göre, övündüklerinde bir gerçek payı olabilir.
+$GEN_003_DOC_01_03
+Tanık 1: "Bana çürük elmalar sattı. Fark etmeyeyim diye üstlerine taze olanlardan koymuş!"
+$GEN_003_DOC_01_04
+Tanık 2: “Kocam, bu dolandırıcıdan aldığı kerevizi yedikten sonra <a name="7" class="hidden">iki gün boyunca kusmaktan kendini alamadı</a>!”
+$GEN_003_OnStart_00
+Havuçları bizzat ondan aldım!
+$GEN_003_OnStart_01
+Lütfen kendinizi tanıtınız.
+$GEN_003_OnStart_02
+Lucien Blanchot.
+$GEN_003_OnStart_03
+Mesleğiniz?
+$GEN_003_OnStart_04
+Şu anda mı? Tüccar. Ayrıca, geçici olarak bir mahkûm.
+$GEN_003_OnStart_05
+Fiyat spekülasyonu yapmak, yasal fiyat sınırlarını aşmak ve tüketilmeye uygun olmayan ürünler satmakla suçlanıyorsunuz.
+$GEN_003_OnStart_06
+Hepsi bu mu?
+$GEN_003_OnStart_07
+Mahkemeden, Parisli vatandaşları kasten zehirleme suçunun da iddianameye eklenmesini talep ediyorum.
+$GEN_003_OnStart_08
+Zehirlenme mi? Bayat sebzelerden kimse ölmedi şimdiye kadar.
+$GEN_003_OnStart_09
+Yani diğer suçlamaları da kabul ediyorsunuz?
+$GEN_003_OnStart_10
+Ben dürüst bir girişimciyim, işime böyle ithamlarla zarar gelmez.
+$GEN_003_OnGuilty_00
+Vatandaş Lucien Blanchot'u giyotine mahkûm ediyorum! Mahkûmu dışarı çıkarın.
+$GEN_003_OnGuilty_01
+Akıl alır gibi değil! Küçük bir suç için idam cezası mı? İtiraz ediyorum!
+$GEN_003_OnGuilty_02
+Bakalım şimdi ne kadar taze kalacak!
+$GEN_003_OnGuilty_03
+Yüksek mevkilerde dostlarım var! Buna pişman olacaksın, beceriksiz zavallı!
+$GEN_003_OnPrison_00
+Vatandaş Lucien Blanchot’u hapis cezasına çarptırıyorum! Mahkûmu dışarı çıkarın.
+$GEN_003_OnPrison_01
+Bakalım parmaklıklar ardında ne kadar taze kalacak!
+$GEN_003_OnPrison_02
+Nüfuzlu dostlarım var. Birkaç gün içinde serbest kalacağım. Siz ise, öte yandan...
+$GEN_003_OnNotGuilty_00
+Vatandaş Blanchot davasında karar… Suçsuz! Sanık serbest bırakıldı.
+$GEN_003_OnNotGuilty_01
+Adil kararınız için teşekkür ederim. Böylesine onurlu yargıçlarımızın olduğunu bilmek yüreğimi ısıtıyor.
+$GEN_003_OnNotGuilty_02
+Bu bir maskaralık!
+$GEN_003_OnNotGuilty_03
+Suçsuz mu? Deliller önünüze altın tepside sunuldu!
+$GEN_003_01x06_00_QTitle
+Bozuk ürün sattığınızı kabul ediyor musunuz?
+$GEN_003_01x06_00_00
+Bozuk ürün sattığınızı kabul ediyor musunuz?
+$GEN_003_01x06_00_01
+Müfettişler bu konuyu zaten açıklığa kavuşturdu. Konuyu tekrar ele almaya gerek yok.
+$GEN_003_01x06_00_02
+Soruyu cevaplayın!
+$GEN_003_01x06_00_03
+Hem evet hem hayır. Evet, çünkü tezgahlarımda böyle şeylerin yaşandığını kabul ediyorum. Hayır, çünkü bunda benim suçum yok.
+$GEN_003_01x06_00_04
+Peki, o zaman kimin suçu?
+$GEN_003_01x06_00_05
+Doğanın tüm elmaların eşit yaratılmamasından ben sorumlu tutulamam. Elmalar Fransa'nın Vatandaşı değildir.
+$GEN_003_01x06_00_06
+Ama bu işin sahibi sizsiniz ve sattığınız ürünlerden sorumlu tutulabilirsiniz.
+$GEN_003_01x06_00_07
+Kimseyi benden bir şey almaya asla zorlamadım.
+$GEN_003_01x06_00_08
+Yani müşterileriniz bilerek bozuk yiyecek mi aldı?
+$GEN_003_01x06_00_09
+Fiyatı birkaç frank düşürürseniz kömür karası havuçları bile alırlar, ama yine de tadının taptaze olmasını beklerler.
+$GEN_003_01x06_00_10
+Halka hakaret ediyor! Bu alçağı zincire vurun!
+$GEN_003_01x07_01_QTitle
+Ürünlerinizin müşterilerinizi hasta ettiğini biliyor muydunuz?
+$GEN_003_01x07_01_00
+Ürünlerinizin müşterilerinizi hasta ettiğini biliyor muydunuz?
+$GEN_003_01x07_01_01
+Eğer birisi ürünlerimden kaynaklandığını kanıtlayabilirse, tedavi masraflarını – ya da cenazelerini – memnuniyetle karşılarım. Yeter ki ortaya çıksınlar.
+$GEN_003_01x07_01_02
+O pisliği önce kendin ye de, delilini öyle bul!
+$GEN_003_01x07_01_03
+Tanık ifadelerinin dikkate alınacağını hatırlatmak isterim.
+$GEN_003_01x07_01_04
+İnsanlara yiyecek değil, pislik satıyordu.
+$GEN_003_01x07_01_05
+Daha zengin birinin işine engel olmak için her şeyi yapacak kıskançların ifadeleri. Gerçekten değerli kanıtlar.
+$GEN_003_02x03_02_QTitle
+Yasal fiyat sınırlarının ihlali hususunda–
+$GEN_003_02x03_02_00
+Sayın yargıç sormadan önce bir şeyi netleştirmek isterim: tezgâhlarımda yasal fiyat sınırları asla kasıtlı olarak aşılmadı. Bu tür suçlamaları art niyetli ve aşağılık buluyorum.
+$GEN_003_02x03_02_01
+İtiraz ediyorum! Fiyatları ancak denetçiler gelince düzelttiniz.
+$GEN_003_02x03_02_02
+Böyleleri hapiste çürümeyi hak ediyor.
+$GEN_003_02x03_02_03
+Müfettişler bana yüklü bir ceza kestiler, ben de hiç vakit kaybetmeden ödedim. İhmalkarlığımın bedelini zaten ödedim.
+$GEN_003_02x03_02_04
+Ona ceza kesmek, çürük domates satmasını engellemez!
+$GEN_003_02x04_03_QTitle
+Görünüşe göre çalışanlarınız hata yapmaya oldukça meyilli.
+$GEN_003_02x04_03_00
+Görünüşe göre çalışanlarınız hataya fazlasıyla meyilli.
+$GEN_003_02x04_03_01
+Her şeyi kendim yapardım, eğer mümkün olsaydı, ama bu imkânsız.
+$GEN_003_02x04_03_02
+Paris'te yeterince yetkin kimse yok muydu? Yurttaşlarınız hakkında bu kadar mı kötü düşünüyorsunuz?
+$GEN_003_02x04_03_03
+Doğrusunu söylemek gerekirse, insanların çoğu ahmaktır. Yoksa kendimi mahkemede savunmak zorunda kalmazdım.
+$GEN_003_02x04_03_04
+Sanık, astlarına yeterli rehberlik sağladı mı?
+$GEN_003_02x04_03_05
+Bir bakkal dükkanları zincirim var, akılsızlar için bir mahalle mektebim değil.
+$GEN_003_02x04_03_06
+Bize hakaret ediyor!
+$GEN_003_02x05_04_QTitle
+Yıllar boyunca işinizle ilgili bu kadar çok şikayet olmasının sebebini açıklayabilir misiniz…?
+$GEN_003_02x05_04_00
+Yıllar boyunca işinizle ilgili bu kadar çok şikayet olmasına rağmen, neden ilk kez şimdi adalet önüne çıkarıldığınızı açıklayabilir misiniz?
+$GEN_003_02x05_04_01
+Belki de bunun sebebi, o şikayetlerin çoğunun kıskanç aylakların saçma iddialarından ibaret olmasıdır?
+$GEN_003_02x05_04_02
+Marat ve Robespierre’in sizi koruyacağından bu kadar emin misiniz?
+$GEN_003_02x05_04_03
+Yasaların beni koruyacağından eminim. Adalet benden yana.
+$GEN_003_02x05_04_04
+Ne demek istiyorsun?
+$GEN_003_02x05_04_05
+Yasa, masumları korumak içindir. Haksızlığa uğrayanların yanında olmalı–
+$GEN_003_02x05_04_06
+Bizi nutuktan mahrum bırakın. Burası Ulusal Konvansiyon oturumu değil.
+$GEN_003_02x05_04_07
+Bundan bir şey anlayan oldu mu?
+$GEN_003_02x05_04_08
+Beni affedin. Ruhum adalet için haykırıyor; öyle ki, bahsettiğiniz devlet adamları, Marat ve Robespierre, benim yerime adalet sağlamak zorunda kalmasınlar.
+$GEN_003_03x04_05_QTitle
+Defterlerinizi inceledik ve yasal fiyat sınırlarını düzenli olarak ihlal ettiğinizi tespit ettik…
+$GEN_003_03x04_05_00
+Defterlerinizi inceledik ve yasal fiyat sınırlarını düzenli olarak ihlal ettiğinizi tespit ettik. Bu suçlamayı da inkâr edecek misiniz?
+$GEN_003_03x04_05_01
+Bu defterler sıradan insanlar tarafından tutuluyor, hata yapmaları mümkün. Hepsini tekrar inceleyeceğim ve gereken düzeltmeleri yapacağım–
+$GEN_003_03x04_05_02
+Burası bir idare ofisi değil, Yurttaş Blanchot. Bu defterler, şu halleriyle mahkemeye delil teşkil ediyor.
+$GEN_003_03x04_05_03
+Bunlar sadece muhasebe hataları, yanlışlıkla bir sıfır ya da virgül yanlış yere yazılmış. Hepsi açıklanabilir. Sonuçta, burada hepimiz Fransa’nın dostları değil miyiz? Vatandaş Robespierre bana öyle olduğumuzu söyledi.
+$GEN_003_03x04_05_04
+Yurttaş Robespierre de size, kayıtları sahtecilikle değiştirebileceğiniz konusunda güvence verdi mi?
+$GEN_003_03x04_05_05
+Elbette hayır…
+$GEN_003_03x04_05_06
+O halde neden ondan bahsettiniz?
+$GEN_003_03x04_05_07
+Ben…
+$GEN_003_03x04_05_08
+Robespierre, onun gibi seyyar satıcılara kölelik etmez!
+$GEN_003_03x04_05_09
+Sessizlik! Yoksa duruşmayı ertelerim!
+$GEN_003_03x04_05_10
+Hakimi de mi rüşvetle satın aldılar?
+$GEN_003_KEY_01
+Müşteri şikayetleri
+$GEN_003_KEY_02
+Adaletsiz uygulamalar
+$GEN_003_KEY_03
+Yasal fiyat sınırları
+$GEN_003_KEY_04
+Çalışan hataları
+$GEN_003_KEY_05
+Sanığın bağlantıları
+$GEN_003_KEY_06
+Çürük elmalar
+$GEN_003_KEY_07
+Müşterilerin zehirlenmesi
+$GEN_003_LastDialog_00
+Birkaç çürük elma için mi? Aklınızı mı kaçırdınız? Robespierre’i çağırmalıyız!
+$GEN_003_UNIQUE_QUESTION_00
+Sanığın kesinleşmiş siyasi bağlantıları nelerdir?
+$GEN_003_UNIQUE_QUESTION_01
+Sanık, verilen para cezalarına nasıl yaklaştı?
+$GEN_003_UNIQUE_QUESTION_02
+Sanık, yasal fiyat sınırlarını hiçe saymasını nasıl açıklıyor?
+$GEN_003_UNIQUE_ANSWER_CORRECT_00_00
+Jakoben yanlısı.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Gironden yanlısı.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Siyasi eğilimleri hakkında bilgi yok.
+$GEN_003_UNIQUE_ANSWER_CORRECT_01_00
+Hemen ödedi.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ödemeyi geciktirdi.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Cezadan kurtulmak için memura rüşvet verdi.
+$GEN_003_UNIQUE_ANSWER_CORRECT_02_00
+Yazılı hata.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Robespierre’in desteği.

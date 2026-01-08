@@ -1,0 +1,10 @@
+$DIAL_CO_01_01_05_001_PROSECUTOR
+Hoş geldiniz, Yurttaş Fidèle. Ben Antoine Quentin Fouquier de Tinville, bugünden itibaren her Mahkeme duruşmasında hazır bulunacak olan kamu savcısıyım.
+$DIAL_CO_01_01_05_002_PROSECUTOR
+Sizi uyarmalıyım, taviz vermem; yine de ortak bir payda bulacağımızı umuyorum. Daha iyi bir haber ise, giyotin inşaatı tamamlandı. Belki de bugün kullanmaya başlarız.
+$DIAL_CO_01_01_05_003_MENTOR
+Evet, onu gördük...
+$LETTER_CO_01_01_05_001
+Kral kayıp! İhanet! Yerini bilen herkes derhal yetkililere bildirsin!
+$LETTER_CO_01_01_05_002
+Robespierre

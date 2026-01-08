@@ -1,0 +1,12 @@
+$EVE_006_TITLE
+Salonlarda
+$EVE_006_MAIN_01
+Sevgili AF,
+Hem kendi adıma hem de sanatçı dostlarım adına sizi en yeni oyunumuz “XXX”un gala gecesine davet etmek isterim. Gösteri üç gün sonra gerçekleşecektir. Sizi ve ailenizi ağırlamak bizim için büyük bir onur olacaktır. Katılmak isterseniz, lütfen bu davete yanıt veriniz.
+Saygılarımla, XYZ
+$EVE_006_MAIN_01_C1
+Katılımı onayla.
+$EVE_006_MAIN_02A
+Açılış gecesi başarılı geçti – en azından paslanmış sezgileriniz böyle söylüyor. Eşiniz, Paris’in elitleri arasında deneyimsiz olmasına rağmen adeta parlıyordu; oğullarınız ise diğer konukların pahalı kıyafetlerine hayran kaldı. Bu davet sayesinde artık başkentin seçkinleri arasındasınız. Bina dışında, ahlaki çöküşten ve Tanrı’ya daha yakın olma gerekliliğinden bahsederek bağıran birkaç protestocu vardı, ama gecenizi mahvetmeyi başaramadılar.
+$EVE_006_MAIN_02B
+Açılış gecesi başarılı geçti. İnsanlar çoğunlukla, Parisli sanatçıların diğer Avrupalı meslektaşlarına bir kez daha üstün olduklarını kanıtladıklarını konuşuyor. Seyirciler arasında, isimleri eleştirilerde iyi duracak önemli kişiler vardı. Bina önünde “ahlaki çöküş” ve “Tanrı’dan uzaklaşmak” diye bağıran küçük bir protestocu grubu toplansa da, kimse onlara aldırış etmedi.

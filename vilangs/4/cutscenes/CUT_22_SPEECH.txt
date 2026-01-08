@@ -1,0 +1,48 @@
+$CUT_22_SPEECH_001_CROWD
+Wann werden wir diese heuchlerischen Heiligen endlich los?
+$CUT_22_SPEECH_002_CROWD
+Sagen Sie es uns, Monsieur Richter!
+$CUT_22_SPEECH_003_CROWD
+Wann wird Tinville sie endlich in die Enge treiben?
+$CUT_22_SPEECH_004_JUDGE_AGGR
+Sei wütend, sei unerbittlich! Wenn ein Kopf aufgespießt werden muss – tu es! Es ist deine Stadt, dein Land!
+$CUT_22_SPEECH_005_JUDGE_MANI
+Sieh nur, wozu sie dich getrieben haben. Du musstest auf die Straßen gehen, damit sie dich überhaupt wahrnehmen. Dein Zorn ist mehr als gerechtfertigt – und sie sollten erzittern vor Angst, wenn ihr Ende unaufhaltsam naht!
+$CUT_22_SPEECH_006_JUDGE_JOKE
+Glaubt ihr wirklich, eure missmutigen Gesichter schrecken sie ab? Wenn ihr wollt, dass sie euch fürchten, müsst ihr ihnen mit geballten Fäusten und hoch erhobenen Fackeln entgegentreten.
+$CUT_22_SPEECH_007_JUDGE_HUMI
+Ich verstehe, was ihr fühlt, und ich stehe an eurer Seite. Diejenigen, die sicher in ihren Marmorpalästen sitzen und teure Gewänder tragen, sind die Ursache eures Leids!
+$CUT_22_SPEECH_008_JUDGE_AGGR
+Diese Blutsauger leben von eurer harten Arbeit, von eurem Blut und Schweiß! Genug! Die Revolution sollte uns alle gleich machen, doch der Klerus blickt wieder auf uns herab! Die Vendée hat es bewiesen!
+$CUT_22_SPEECH_009_JUDGE_MANI
+Der Klerus hat nie etwas für euch getan, er lebte stets nur für sich selbst. Sie brauchen den Aufstand in der Vendée, um ihre Macht zurückzugewinnen.
+$CUT_22_SPEECH_010_JUDGE_JOKE
+Brauchen Sie wirklich Menschen, die sich weigern, Ihren Glauben zu verteidigen, und Sie stattdessen nur abstoßen?
+$CUT_22_SPEECH_011_JUDGE_HUMI
+Bürger, ihr habt einen zu hohen Preis für eure Freiheit und Gleichheit gezahlt, um sie nun denen zu überlassen, die euch nie wieder kämpfen lassen würden.
+$CUT_22_SPEECH_012_JUDGE_AGGR
+Jede Bande von Verrätern hat ihren Anführer. Auch diesmal ist es so. Erzbischof Gobel lauert nur darauf, dass der Bürgerkrieg Frankreich schwächt, um sich im rechten Moment selbst zu krönen! Er will die alten Verhältnisse wiederherstellen!
+$CUT_22_SPEECH_013_JUDGE_MANI
+Erzbischof Gobel ist ein weiteres Sinnbild jenes Bösen, das Sie selbst gestürzt haben! Er spioniert, hetzt auf und verfolgt jeden, der sich ihm in den Weg stellt!
+$CUT_22_SPEECH_014_JUDGE_JOKE
+Wenn Gobel wirklich um euch besorgt wäre, würde ihm das Predigen genügen. Doch er zieht Aufstände und eine Rückkehr zu den alten Verhältnissen vor.
+$CUT_22_SPEECH_015_JUDGE_HUMI
+Lassen Sie nicht zu, dass all Ihre Mühen zu Asche werden, denn daraus werden Leute wie Gobel emporsteigen, um in Namen des Papstes über Sie zu herrschen.
+$CUT_22_SPEECH_016_JUDGE_AGGR
+Fordern Sie ihn auf, Ihnen die Wahrheit über sein uneheliches Kind zu sagen! Fordern Sie ihn auf, Ihnen von seiner Verwicklung in den Aufstand in der Vendée und den Beginn des Bürgerkriegs zu berichten!
+$CUT_22_SPEECH_017_JUDGE_MANI
+Wollen Sie wirklich zulassen, dass die Wahrheit über das uneheliche Kind des Erzbischofs unter einem Berg von Predigten über ein tugendhaftes Leben begraben wird? Werden Sie es dem Klerus erlauben, Bürgerkriege zu unterstützen, statt den Gläubigen?
+$CUT_22_SPEECH_018_JUDGE_JOKE
+Haben Sie die Gerüchte über das uneheliche Kind des Erzbischofs gehört? Dann fragen Sie ihn doch selbst. Ich bin gespannt, welche Geschichten er Ihnen stattdessen auftischt.
+$CUT_22_SPEECH_019_JUDGE_HUMI
+Frankreich kann sich keine Priester mit unehelichen Kindern leisten, noch Erzbischöfe, die in Bürgerkriege verwickelt sind. Sagen Sie ihm das.
+$CUT_22_SPEECH_020_JUDGE
+Erhebt euch!
+$CUT_22_SPEECH_TOPIC_01
+Ich weiß, wie wütend Sie sind. Es ist ihre Schuld.
+$CUT_22_SPEECH_TOPIC_02
+Sie haben so viele Jahre von Ihrer harten Arbeit gelebt. Und sie tun es immer noch!
+$CUT_22_SPEECH_TOPIC_03
+Gobel ist der schlimmste unter allen Lügnern.
+$CUT_22_SPEECH_TOPIC_04
+Geh zu ihm. Verlange, dass er dir die Wahrheit sagt!

@@ -1,0 +1,48 @@
+$DISC_INTR_003_B08_HEBERT_001_JUDGE_AGGR
+We do not control the situation on the streets any more. The chaos can turn on anyone, and we cannot easily pacify the crowds.
+$DISC_INTR_003_B08_HEBERT_002_JUDGE_MANI
+The situation is beyond our control. A girl was battered yesterday because people suspected that she was spying for the insurgents. Who knows who their next target will be – you, me…
+$DISC_INTR_003_B08_HEBERT_003_JUDGE_JOKE
+As long as people were throwing rotten tomatoes at random targets, the situation was acceptable. But now they are armed with wooden sticks. I do not know about you, but I am getting scared.
+$DISC_INTR_003_B08_HEBERT_004_JUDGE_HUMI
+I know that I promised to serve the people and defend liberty, but our Citizens are taking things too far.
+$DISC_INTR_003_B08_HEBERT_005_HEBERT_SATI
+It is high time that someone moved against this clique. The Revolution was too lenient towards them.
+$DISC_INTR_003_B08_HEBERT_006_HEBERT_INTR
+Finally, someone has decided to look into those gluttonous idlers. This may be our chance to get rid of those Royalist superstitions.
+$DISC_INTR_003_B08_HEBERT_007_HEBERT_DOUB
+I almost believed that you were worried about the situation on the streets…
+$DISC_INTR_003_B08_HEBERT_008_JUDGE_AGGR
+Gobel ruined everything! With a secret like that, he should have been doing everything to make sure it would never get out, and instead he acted like a child!
+$DISC_INTR_003_B08_HEBERT_009_JUDGE_MANI
+If the rumours prove to be true, Gobel’s presence will make the situation even worse. Do we want people to think the authorities are corrupt? My reputation is at stake, as is yours and your friends’ from the Convention.
+$DISC_INTR_003_B08_HEBERT_010_JUDGE_JOKE
+Gobel has got himself into hot water at the worst possible moment. Maybe the Pope has finally had his revenge? God has listened to his prayers and decided to punish the archbishop for being appointed constitutionally…
+$DISC_INTR_003_B08_HEBERT_011_JUDGE_HUMI
+I do not want to make convictions in absentia, but it seems to me that the anger of the people has revealed some old secrets – like that of Archbishop Gobel. Maybe we should do something about it?
+$DISC_INTR_003_B08_HEBERT_012_HEBERT_SATI
+Nothing would please me more than to watch the fall of this progress-hindering priest. Well, maybe destroying the institution of the Pope would be even sweeter.
+$DISC_INTR_003_B08_HEBERT_013_HEBERT_INTR
+You know how to appeal to a person’s deepest dreams. There is no point pretending I would not be glad if Gobel left the world of the living and made room for the rule of reason… How can I help?
+$DISC_INTR_003_B08_HEBERT_014_HEBERT_DOUB
+The Paris Commune wanted to get to that bloated pig a long time ago and nobody cared. Now that people have realised they can benefit from his fall, everyone wants his head.
+$DISC_INTR_003_B08_HEBERT_015_JUDGE_AGGR
+We cannot pay for the behaviour of one group. With all its lies and degeneration, the Church have worked hard for the anger of the people. Let us cut it off and live our lives in peace.
+$DISC_INTR_003_B08_HEBERT_016_JUDGE_MANI
+The angry tiger should get some prey to rip apart, then he will not pay attention to anything else and we will be able to live in peace. Since the tiger wants to sink its teeth into the clergy…
+$DISC_INTR_003_B08_HEBERT_017_JUDGE_JOKE
+We really do not have another choice. They want the clergy, so let us give it to them. If they are accusing the clergy of treason, then we should echo their words. Simple and efficient.
+$DISC_INTR_003_B08_HEBERT_018_JUDGE_HUMI
+I am against hurting the Church. It hurts itself through the hands of degenerates who are cursed by our Citizens. We need to cut ties with that entire group. For the greater good.
+$DISC_INTR_003_B08_HEBERT_019_HEBERT_SATI
+Reason shall prevail over superstition. You have my support, monsieur le juge.
+$DISC_INTR_003_B08_HEBERT_020_HEBERT_INTR
+I do wonder how all this will end, but regardless of my doubts, you can count on my help.
+$DISC_INTR_003_B08_HEBERT_021_HEBERT_DOUB
+Due to your unclear motives, the Paris Commune and the rule of reason has more to lose than it will gain here. I am sorry.
+$DISC_INTR_003_B08_HEBERT_TOPIC_01
+The situation on the street is becoming difficult to control.
+$DISC_INTR_003_B08_HEBERT_TOPIC_02
+The trouble with Gobel has only poured salt on the wound.
+$DISC_INTR_003_B08_HEBERT_TOPIC_03
+Someone should be punished to set an example.

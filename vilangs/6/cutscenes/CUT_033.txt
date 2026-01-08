@@ -1,0 +1,94 @@
+$CUT_033_001_JUDGE
+Mathilde.
+$CUT_033_002_JUDGE
+No entiendo.
+$CUT_033_003_JUDGE
+Padre.
+$CUT_033_004_JUDGE
+¿Me escuchas?
+$CUT_033_005_GOD
+Siempre.
+$CUT_033_006_GOD
+Te he arreglado. Vas a vivir... al menos por ahora.
+$CUT_033_007_JUDGE
+¿Dónde estoy? ¿Quién es usted?
+$CUT_033_008_GOD
+Soy la Verdad sobre tu desdicha y la Mentira sobre tu grandeza. Ambas son la razón de tu presencia en este lugar.
+$CUT_033_009_GOD
+Donde todo comenzó.
+$CUT_033_010_JUDGE
+No entiendo.
+$CUT_033_011_GOD
+He reparado todos los daños, como siempre. Vas a vivir... pero, ¿realmente quieres hacerlo?
+$CUT_033_012_GOD
+¿Estás listo para admitir que esta es mi actuación, mi espectáculo?
+$CUT_033_013_JUDGE
+Mathilde. La amo tanto...
+$CUT_033_014_GOD
+Lo sé... pero ella ya no te corresponde. Hace mucho tiempo.
+$CUT_033_015_GOD
+Me aseguré de eso.
+$CUT_033_016_JUDGE
+¿Pero quién demonios eres tú?
+$CUT_033_017_GOD
+Yo soy la Verdad que vence a la Mentira que sigues repitiéndote. La Mentira de que estás aquí por poder.
+$CUT_033_018_GOD
+Por las múltiples decisiones y finales. No te he creado para eso.
+$CUT_033_019_JUDGE
+¿Diseñado?
+$CUT_033_020_GOD
+Se supone que debes sufrir para que otros rían o lloren.
+$CUT_033_021_GOD
+Para que sientan.
+$CUT_033_022_GOD
+Ahora es la única elección verdadera que harás en tu vida.
+$CUT_033_023_GOD
+Morir y no sentir nunca más, o experimentar lo que es ser un verdadero héroe.
+$CUT_033_024_JUDGE
+Soy juez, no un...
+$CUT_033_025_GOD
+Dime, ¿cuándo fue la última vez que leíste todos los archivos relacionados con un solo caso?
+$CUT_033_026_GOD
+¿La última vez que de verdad escuchaste todo lo que tenía que decir el acusado?
+$CUT_033_027_GOD
+Necesito un héroe, no un juez. La gente quiere ser heroica.
+$CUT_033_028_JUDGE
+¿Cómo podría? Mi esposa quería matarme. Mi familia me odia.
+$CUT_033_029_GOD
+Lucha por sus vidas.
+$CUT_033_030_JUDGE
+La mitad de la ciudad quiere verme muerto.
+$CUT_033_031_GOD
+Lucha por París.
+$CUT_033_032_JUDGE
+Mi hermano viene con un ejército invencible.
+$CUT_033_033_GOD
+Entonces sé el escudo de los pobres y las almas aterradas que no tienen a nadie más que las defienda.
+$CUT_033_034_JUDGE
+Un escudo...
+$CUT_033_035_GOD
+Podría volver a abrir tus heridas.
+$CUT_033_036_GOD
+y nunca volverás a sufrir.
+$CUT_033_037_GOD
+París caerá, pero si no te interesa, buscaré a alguien en tu lugar.
+$CUT_033_038_GOD
+Aquí tienes la elección que tanto ansiabas.
+$CUT_033_DEATH_DEC
+Elegir la Muerte
+$CUT_033_DEATH_DEC_001_GOD
+Ah, qué lástima.
+$CUT_033_DEATH_DEC_002_GOD
+Después de todo mi esfuerzo…
+$CUT_033_DEATH_DEC_003_GOD
+Sin embargo, ya ha tomado una decisión.
+$CUT_033_LIFE_DEC
+Elegir la vida
+$CUT_033_LIFE_DEC_001_JUDGE
+¿Me aceptarán?
+$CUT_033_LIFE_DEC_002_GOD
+No tienen por qué, pero aun así los defenderás.
+$CUT_033_LIFE_DEC_003_GOD
+Por eso te convertirás en una leyenda, y algún día te reconocerán.
+$CUT_033_LIFE_DEC_004_GOD
+Ahora levántate. Debes derrotarlo.

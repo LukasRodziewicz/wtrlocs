@@ -1,0 +1,38 @@
+$INTRIGUE_MINIGAMEBUTTON_ACTIVE
+Exécuter une action
+$INTRIGUE_MINIGAMEBUTTON_INACTIVE
+Action accomplie
+$INTRIGUE_SELECTAGENTPATH_NONE
+Choisissez une méthode
+$INTRIGUE_SELECTAGENTPATH_DIPLOMAT
+Diplomatie
+$INTRIGUE_SELECTAGENTPATH_SPY
+Espionnage
+$INTRIGUE_SELECTAGENTPATH_GUARD
+Force
+$INTRIGUE_WINCHANCE_HEADER
+Chances de réussite
+$INTRIGUE_CANCLOSESTATE
+En attente de nouveaux événements
+$INTRIGUE_PENDINGACTIONSSTATE
+En attente de la décision du joueur
+$INTRIGUE_SELECT_BLOCK
+Choisissez une action
+$PERSUASION_BRIBEBUTTONTEXT
+Envoyer un diplomate
+$PERSUASION_PERSUASIONBUTTONTEXT
+Convaincre
+$PERSUASION_HEADER_COUNTER
+Alliés gagnés :
+$INTRIGUE_PERFECT_WIN
+Complot parfait
+$INTRIGUE_WIN
+Complot réussi
+$INTRIGUE_DEFEAT
+Complot échoué
+$INTR_WIN_COUNTER
+Nombre de succès pour gagner
+$INT_WIN_BONUS_COUNTER
+Nombre de succès pour obtenir un bonus
+$INTRIGUE_DIPLOMAT_SUCCESS_RATE
+Chances : {0} %

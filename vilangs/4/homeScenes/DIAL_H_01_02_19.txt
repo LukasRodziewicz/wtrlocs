@@ -1,0 +1,22 @@
+$DIAL_H_01_02_19_001_GRANDFATHER
+Wie geht es deinen Wunden?
+$DIAL_H_01_02_19_002_JUDGE
+Sie genesen. Das verdanken wir ganz unseren neuen Freunden.
+$DIAL_H_01_02_19_003_WIFE
+Wirklich?
+$DIAL_H_01_02_19_004_JUDGE
+Was ist los?
+$DIAL_H_01_02_19_005_WIFE
+Ich möchte dich daran erinnern, dass du dich hier, in diesem Haus, erholst. Hierher hat man dich getragen, und es ist deine Familie, die dich Tag und Nacht umsorgt hat. Wir, deine Familie, die du in Gefahr bringst.
+$DIAL_H_01_02_19_006_JUDGE
+Glaubst du, ich wollte in einer Gasse niedergestochen werden?
+$DIAL_H_01_02_19_007_GRANDFATHER
+Deine Frau will nur das Beste für die Familie. Dein Bruder…
+$DIAL_H_01_02_19_008_JUDGE
+Mein Bruder wollte unsere Familie beschützen, indem er gegen jene kämpfte, die uns bedrohten, während du einfach abwarten wolltest! Aber ich habe gesehen, wie der Kopf eines Königs genauso leicht rollt wie der eines Händlers. Nur Macht…
+$DIAL_H_01_02_19_009_GRANDFATHER
+Du bist Richter des Tribunals! Du hast Macht!
+$DIAL_H_01_02_19_010_JUDGE
+Die wahre Macht liegt bei denen, die diese Mörder bezahlt haben – bei den Rolands oder wem auch immer sie dienen. Sie entscheiden in dieser Stadt über Leben und Tod.
+$DIAL_H_01_02_19_011_WIFE
+Hoffen wir, dass sie uns nicht alle umbringen, bevor du dir deine kostbare Macht schnappst.

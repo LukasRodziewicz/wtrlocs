@@ -1,0 +1,82 @@
+$CUT_013_DISC_PACHE_START_001_PACHE
+Danton, you traitor! How could you…
+$CUT_013_DISC_PACHE_START_002_JUDGE
+Hello, Pache.
+$CUT_013_DISC_PACHE_START_003_PACHE
+Fidèle. Thank you for coming at such short notice.
+$CUT_013_DISC_PACHE_START_004_PACHE
+Danton betrayed me.
+$CUT_013_DISC_PACHE_START_005_PACHE
+Danton… We used to be allies.
+$CUT_013_DISC_PACHE_START_006_PACHE
+I asked for his help, but he never came. You did.
+$CUT_013_DISC_PACHE_START_007_JUDGE
+We are friends, Jean.
+$CUT_013_DISC_PACHE_START_008_PACHE
+I must destroy him, make him pay! We must.
+$CUT_013_DISC_PACHE_001_JUDGE_AGGR
+Who is the bastard that dared to raise his hand against a servant of the state? And for what reasons?
+$CUT_013_DISC_PACHE_002_JUDGE_MANI
+What did they accuse you of? It must have been something only your friends know. Someone like Danton. What did you become involved with, Jean?
+$CUT_013_DISC_PACHE_003_JUDGE_JOKE
+There has surely been a mistake. Do not worry, you will be home again before supper.
+$CUT_013_DISC_PACHE_004_JUDGE_HUMI
+I don’t understand. What do they accuse you of? You, of all people, when everyone knows that Paris blooms under your direction.
+$CUT_013_DISC_PACHE_005_PACHE_INTR
+Treason. That is all I have been able to establish. I do not know anything about the source of those accusations or possible evidence. Though I do know that Danton is not rushing to help me. He has betrayed me, and must be involved in this!
+$CUT_013_DISC_PACHE_006_PACHE_DOUBT
+Apparently I betrayed France. I am not a saint, I know, but treason?! And who is accusing me? That political whore Danton? I do not know for sure, but I can feel that he was involved in those accusations.
+$CUT_013_DISC_PACHE_007_JUDGE_AGGR
+If that sly serpent is responsible for your troubles, you must act now. You cannot wait for tomorrow’s trial. Do you have any proof of Danton’s misdeeds that could help?
+$CUT_013_DISC_PACHE_008_JUDGE_MANI
+If Danton made this attack, he must have fabricated evidence against you. We need to have something to fight back. What proof of his misdeeds do you have?
+$CUT_013_DISC_PACHE_009_JUDGE_JOKE
+I do not believe that you would enter an alliance with Danton without having some proof of his misdeeds. Tell me, do you have any documents that could be used against him?
+$CUT_013_DISC_PACHE_010_JUDGE_HUMI
+If anyone deserves to be decapitated, it is Danton – for pretending to be your friend. We need to fight him. You must have some proof of his misdeeds that we could use against him.
+$CUT_013_DISC_PACHE_011_PACHE_INTR
+What made you come to me? Why would you risk meeting a traitor? Why, Fidèle? Forget about loyalty and let me die. I deserve this punishment.
+$CUT_013_DISC_PACHE_012_PACHE_DOUBT
+I cannot do it any more, I no longer have the strength to fight it. The whole Revolution, the never-ending plots. It is impossible for me to trust anyone… Except you. I do not understand anything any more.
+$CUT_013_DISC_PACHE_013_PACHE_IRRI
+Are you planning to betray me too? You cannot! I thought, no, I hoped that it would be possible to find a true friend in this city.
+$CUT_013_DISC_PACHE_014_JUDGE_AGGR
+Wake up, Jean! There is no time for hesitation or melancholy! If I am supposed to make a counter-attack on Danton, I need to have something I can use. Let me help you and tell me where to look for it.
+$CUT_013_DISC_PACHE_015_JUDGE_MANI
+Once the trial begins, your fate will be set. If there is any evidence for treason, the accused cannot be saved. I can, however, make sure that evidence will never be disclosed. But to do that I need to have proof of Danton’s misdeeds. That is the only way. Where do you keep it, Jean?
+$CUT_013_DISC_PACHE_016_JUDGE_JOKE
+If you want to pity yourself, be my guest. Just remember that the Tribunal cannot let traitors go free. If you do not give me any proof of Danton’s misdeeds I will not be able to help you, and you will be dead by tomorrow.
+$CUT_013_DISC_PACHE_017_JUDGE_HUMI
+Oh, my dear Jean. I cannot let you die for a crime you have not committed. I shall save you and your legacy, but to do that, I need to force Danton to withdraw the accusations. Tell me, where are you keeping the proof of his misdeeds?
+$CUT_013_DISC_PACHE_018_JUDGE_AGGR
+Stop snivelling, not all is lost! You have a secret advantage – a judge of the Tribunal who is willing to help. We are allies. You can trust me.
+$CUT_013_DISC_PACHE_019_JUDGE_MANI
+Nobody will openly object to Danton, knowing that he can fabricate evidence of treason. They are scared. I, however, am willing to stick my neck out because I believe in the long-term benefits of our friendship. That alone should convince you.
+$CUT_013_DISC_PACHE_020_JUDGE_JOKE
+If you cannot trust me, even though I came here, then who can you trust? I do not see a crowd of people volunteering to save your neck.
+$CUT_013_DISC_PACHE_021_JUDGE_HUMI
+Jean, listen to the voice of reason. Every minute brings you closer to death, and there is nothing you can do while imprisoned here. I am offering help. Take it.
+$CUT_013_DISC_PACHE_022_PACHE_INTR
+Really? You will help me? I did something horrible in the past. Someone forced me to do it, and now I am filled with regrets. I– I will owe you an enormous debt.
+$CUT_013_DISC_PACHE_023_PACHE_DOUB
+I am not sure that I deserve your friendship. I have done something… despicable. They told me to. And now you are my only hope.
+$CUT_013_DISC_PACHE_024_PACHE_IRRI
+Everyone continues to ask me for things. You want proof of Danton’s crimes for your own goals, but saving me is not one of them. Forget it.
+$CUT_013_DISC_PACHE_025_PACHE_AGGR
+I do not believe you, and like everyone else, you will betray me. You will not get a thing from me. Begone!
+$CUT_013_DISC_PACHE_TOPIC_01
+How did he get here?
+$CUT_013_DISC_PACHE_TOPIC_02
+What proof does he have of Danton’s misdeeds?
+$CUT_013_DISC_PACHE_TOPIC_03
+Where is the proof?
+$CUT_013_DISC_PACHE_TOPIC_04
+You can trust me.
+$CUT_013_DISC_PACHE_SUCCESS_001_PACHE
+All proof against Danton is hidden in a safe in my office. Ask my assistant for the key.
+$CUT_013_DISC_PACHE_SUCCESS_002_JUDGE
+Thank you, Pache. I know what to do with it.
+$CUT_013_DISC_PACHE_SUCCESS_003_PACHE
+No, thank you. I misjudged you, Fidèle. You are a true friend.
+$CUT_013_DISC_PACHE_SUCCESS_004_JUDGE
+Of course, Jean. Of course.

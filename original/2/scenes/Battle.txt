@@ -1,0 +1,150 @@
+#BATTLE_TURNS
+Tour {0}
+#LAST_STAND
+Dernière chance !
+#BATTLE_WIN
+Vous avez gagné !
+#BATTLE_LOSE
+Vous avez perdu !
+#BATTLE_DRAFT
+Impasse !
+#BATTLE_TURN
+Tour {0}
+#BATTLE_TURN_LINE
+Tour {0}
+#BATTLE_SUMMARY_ENEMY
+Adversaire :
+#BATTLE_SUMMARY_PLAYER
+Joueur :
+#START_BATTLE
+Livrer bataille
+#PENDING_BATTLE
+Combat en cours
+#BALANCE_OF_POWER
+Équilibre des forces
+#CHOOSE_TACTIC
+Choix de la tactique
+#TACTIC_INACTIVE
+Cette tactique n'est pas disponible.
+#TACTIC_LOCKED
+Un modificateur empêche cette tactique.
+#MEDIC_USED
+Le médecin a déjà été envoyé.
+#TACTIC_NEUTRAL
+Neutre
+#TACTIC_NEUTRAL_DESC
+Tactique équilibrée qui ne vous donne pas d’importants avantages, mais ne pénalise pas non plus la puissance de vos troupes.
+#TACTIC_BREAK
+Assaut frontal
+#TACTIC_BREAK_DESC
+Attaque héroïque sur les lignes de front. Particulièrement efficace si vous disposez de nombreux tireurs. Moins efficace si votre infanterie est affaiblie.
+#TACTIC_FIRING
+Tirs de suppression
+#TACTIC_FIRING_DESC
+Vos tireurs mitraillent l’intégralité des lignes ennemies, tandis que votre infanterie tient la position. Tactique particulièrement efficace contre un ennemi défensif.
+#TACTIC_DEFENSE
+Défense
+#TACTIC_DEFENSE_DESC
+Vos troupes attaquent avec moins d’ardeur, mais bénéficient d’un grand bonus en défense. Tactique pouvant s’avérer très efficace si vous disposez d’une infanterie nombreuse.
+#TACTIC_TRENCH
+Retranchement
+#TACTIC_TRENCH_DESC
+L’artillerie attaque davantage de lignes ennemies, tandis que le reste du régiment adopte des manœuvres défensives.
+#BATTLE_STATS_ATTACK_BONUS
+Bonus en attaque
+#BATTLE_STATS_ATTACK_PENALTY
+Malus en attaque
+#BATTLE_STATS_DEFENSE_BONUS
+Bonus en défense
+#BATTLE_STATS_DEFENSE_PENALTY
+Malus en défense
+#MUSKETEERS
+Mousquetaires
+#INFANTRY
+Infanterie
+#ARTILLERY
+Artillerie
+#BATTLE_OPPONENT_01
+Agressif
+#BATTLE_OPPONENT_02
+Défensif
+#BATTLE_OPPONENT_03
+Neutre
+#TUTORIAL_OPPONENT
+Envahisseur
+#BATTLE_OPPONENT_CUT_22
+Soutiens de Gobel
+#BATTLE_OPPONENT_CUT_28
+Hanriot
+#BATTLE_MEDIC_AVAILABLE
+Envoyer le médecin
+#BATTLE_MEDIC_REWIND
+Réinitialiser
+#BATTLE_MEDIC_DISABLED
+Aucun médecin n'est disponible.
+#BATTLE_REFUGEES_HEADER
+Civils dans la section
+#BATTLE_REFUGEES_TITLE
+Autres
+#BATTLE_RESCUED_REFUGEES_TITLE
+Survivants
+#BATTLE_SUMMARY_AGENTS_LOST
+Agents tués
+#BATTLE_SUMMARY_AGENT_MEDIC
+Médecin
+#BATTLE_SUMMARY_AGENT_COORDINATOR
+Logisticien
+#BATTLE_REFUGEES_NEW_TURN
+{0} civils se sont échappés durant ce tour
+#BATTLE_EVENT_TITLE_01
+Forte averse
+#BATTLE_EVENT_DESC_01
+Les tireurs subissent un malus de -50 % en attaque. Les civils fuient 20 % moins vite.
+#BATTLE_EVENT_TITLE_02
+Ruelle étroite
+#BATTLE_EVENT_DESC_02
+Bloquez les tactiques offensives.
+#BATTLE_EVENT_TITLE_03
+Ravitaillement ennemi
+#BATTLE_EVENT_DESC_03
+L'ennemi combat plus farouchement.
+#BATTLE_EVENT_TITLE_04
+Barricades
+#BATTLE_EVENT_DESC_04
+Les fortifications rendent vos unités plus efficaces.
+#BATTLE_EVENT_TITLE_05
+Effroi
+#BATTLE_EVENT_DESC_05
+Les civils s'échappent 30 % moins vite.
+#BATTLE_EVENT_TITLE_06
+Bravoure
+#BATTLE_EVENT_DESC_06
+Vos troupes combattent plus farouchement.
+#BATTLE_EVENT_TITLE_100
+Soldats blessés
+#BATTLE_EVENT_DESC_100
+Vos soldats sont 50 % moins efficaces en attaque.
+#BATTLE_EVENT_TITLE_101
+Fanatisme
+#BATTLE_EVENT_DESC_101
+Les conscrits ennemis se battent avec plus d'ardeur.
+#BATTLE_SUMMARY_REFUGEES_TITLE
+Civils :
+#BATTLE_SUMMARY_REFUGEES_RESCUED
+Secourus : {0}
+#BATTLE_SUMMARY_REFUGEES_DEAD
+Tués : {0}
+$TUTORIAL_BATTLE_DIALOG_01
+Notre arrière-garde a combattu l'ennemi, mais a perdu la bataille. Ils ont envahi le camp où on nous pansait les plaies. Nous avons dû prendre les armes.
+$TUTORIAL_BATTLE_DIALOG_02
+Ton frère menait une lutte acharnée, les soldats se rassemblaient autour de lui.
+$TUTORIAL_BATTLE_DIALOG_03
+Nous espérions recevoir de l'aide, mais au fond, nous savions qu'il serait trop tard…
+$TUTORIAL_BATTLE_DIALOG_04
+Je reçus un coup de baïonnette. Je gisais sur le sol, me vidant de mon sang, tandis que mes camarades se faisaient massacrer les uns après les autres par les balles.
+$GOBEL_BATTLE_OPPONENT_01
+Mort à ceux qui osent s'en prendre à l'Église !
+$GOBEL_BATTLE_JUDGE_02
+Pas à l'Église, mais à ses gloutons de prêtres. Ceux-là mêmes qui maintiennent la France la tête sous l'eau !
+$GOBEL_BATTLE_OPPONENT_03
+Ça ne change rien. Nous ne céderons rien ! Cela fait bien longtemps que nous aurions dû planter vos têtes sur des piques !

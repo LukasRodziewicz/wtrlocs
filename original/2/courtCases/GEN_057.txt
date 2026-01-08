@@ -1,0 +1,202 @@
+$GEN_057_DOC_01_HEADER
+Compilé par : Charles Étienne
+$GEN_057_DOC_01_00
+	Nous accusons Raphaël Gallois de conspirer contre la Révolution. Dans son <a name="1" class="hidden">atelier</a>, ce vieux <a name="2" class="hidden">monarchiste</a> crée des objets de propagande montrant <a name = "3" class ="hidden">le couple royal</a> entouré de la cour et de soldats.
+$GEN_057_DOC_01_01
+	Les soupçons ont commencé à germer en début de mois. À ce moment, l'établissement du citoyen Gallois était déjà sous surveillance. Lorsque nous avons été certains que c'était le suspect lui-même qui fabriquait toute la propagande, un officier déguisé a été envoyé dans son atelier pour l'interroger. En répondant aux questions de l'enquêteur, le citoyen Gallois aurait déclaré que les produits qu'il fabriquait étaient des échecs, un jeu ancien qui aurait été inventé en Orient il y a plus de 1 000 ans.
+$GEN_057_DOC_01_02
+	La vérité du crime a cependant été révélée lors de la <a name="7" class="hidden">démonstration des règles</a> de ce soi-disant passe-temps oriental. Dans le jeu créé par Gallois, le roi est la pièce la plus importante et centrale. L'enquêteur lui a posé la question plusieurs fois et l'accusé a répété que les règles interdisaient de prendre le roi. La reine, quant à elle, est la pièce la plus forte du plateau, ce qui est aussi alarmant. Parmi les autres pions on trouve des cavaliers, ou nobles, et des tours qui rappellent celles de la <a name="8" class="hidden">Bastille détruite par la Révolution</a>. Pire encore, chaque nouvelle partie est initiée par le joueur qui contrôle <a name="9" class="hidden">le roi blanc</a>, en une référence claire à Louis XVI. 
+$GEN_057_OnStart_00
+Cette fois-ci, on dirait que nos amis de la Garde se sont un peu emportés…
+$GEN_057_OnStart_01
+Je dois tout de même l'interroger. Présente-toi.
+$GEN_057_OnStart_02
+Raphaël Gallois, artisan, Votre Honneur.
+$GEN_057_OnStart_03
+Participes-tu à des activités de propagande ?
+$GEN_057_OnStart_04
+Pro... pa... quoi ?
+$GEN_057_OnStart_05
+Propagande.
+$GEN_057_OnStart_06
+Est-ce que tu essaies de persuader les gens de revenir à la monarchie ?
+$GEN_057_OnStart_07
+Envoyez ce pleurnichard de monarchiste à la guillotine !
+$GEN_057_OnStart_08
+Je ne fais rien de tel. Je reste juste dans mon atelier à travailler, comme toujours.
+$GEN_057_OnGuilty_00
+Je condamne Raphaël Gallois à mort pour son soutien à la monarchie.
+$GEN_057_OnGuilty_01
+Voilà le sort qui attend ceux qui soutiennent les monstres de Versailles !
+$GEN_057_OnGuilty_02
+De nos jours, n'importe qui peut être condamné pour n'importe quoi.
+$GEN_057_OnPrison_00
+Le citoyen Gallois passera cinq ans en prison pour avoir diffusé de la propagande monarchiste.
+$GEN_057_OnPrison_01
+Bien, les gens comme lui réfléchiront à deux fois avant de tenter de rassembler des soutiens pour le roi !
+$GEN_057_OnPrison_02
+De nos jours, n'importe qui peut être condamné pour n'importe quoi.
+$GEN_057_OnNotGuilty_00
+Je déclare Raphaël Gallois non coupable ! Cette accusation est parfaitement absurde.
+$GEN_057_OnNotGuilty_01
+Le juge est un chien de monarchiste !
+$GEN_057_01x09_00_QTitle
+Soutiens-tu la monarchie ?
+$GEN_057_01x09_00_00
+Soutiens-tu la monarchie ?
+$GEN_057_01x09_00_01
+J'essaie de payer mes impôts à temps, le reste je m'en bats les...
+$GEN_057_01x09_00_02
+Surveille tes manières !
+$GEN_057_01x09_00_03
+Ce vieux croûton a le culot de manquer de respect au tribunal révolutionnaire.
+$GEN_057_01x09_00_04
+Pourtant, il y a le roi blanc dans ton jeu, n'est-ce pas ?
+$GEN_057_01x09_00_05
+Ben oui, où est le mal ?
+$GEN_057_01x09_00_06
+Le blanc était la couleur traditionnelle de Louis Capet, ne faites pas semblant de ne pas le savoir.
+$GEN_057_01x09_00_07
+Ça ne m'est jamais venu à l'esprit, je le jure. Je n'ai rien fait contre le nouveau pouvoir.
+$GEN_057_02x07_01_QTitle
+As-tu montré ton jeu à tous ceux qui le souhaitaient ?
+$GEN_057_02x07_01_00
+As-tu montré ton jeu à tous ceux qui le souhaitaient ?
+$GEN_057_02x07_01_01
+Les échecs ? Ce n'est pas mon jeu, mais oui, j'ai appris à jouer à des centaines de personnes.
+$GEN_057_02x07_01_02
+Les jeux de cartes aussi ont un roi et une reine, et alors ?
+$GEN_057_02x07_01_03
+Est-ce que le jeu vise à protéger le roi ?
+$GEN_057_02x07_01_04
+C'est le but.
+$GEN_057_02x07_01_05
+Pourquoi le roi et non pas la nation ?
+$GEN_057_02x07_01_06
+Je n'en sais rien. Ce jeu est vieux de plusieurs centaines d'années, je…
+$GEN_057_02x07_01_07
+N'aurais-tu pas pu changer les règles ?
+$GEN_057_02x07_01_08
+Je ne saurais pas comment faire. Je ne suis qu'un simple artisan, pas…
+$GEN_057_02x07_01_09
+Mais tu aurais pu choisir de produire un autre jeu, n'est-ce pas ?
+$GEN_057_02x07_01_10
+Oui, j'aurais pu, mais je n'y ai pas pensé.
+$GEN_057_03x06_02_QTitle
+Le jeu comporte-t-il un roi et une reine ?
+$GEN_057_03x06_02_00
+Le jeu comporte-t-il un roi et une reine ?
+$GEN_057_03x06_02_01
+En effet.
+$GEN_057_03x06_02_02
+Qui a inventé ce jeu ?
+$GEN_057_03x06_02_03
+Je ne sais pas, on dit que c'est un jeu antique de Perse ou d'Inde, quelque part dans ce coin-là.
+$GEN_057_03x06_02_04
+Menteur ! Les partisans de Louis sont toujours des menteurs !
+$GEN_057_03x06_02_05
+Je ne sais que ce que mon père m'a appris.
+$GEN_057_03x06_02_06
+Il produisait aussi ce jeu ?
+$GEN_057_03x06_02_07
+Dans ses vieux jours, après avoir vendu sa ferme.
+$GEN_057_04x08_03_QTitle
+L'enquêteur de la Garde prétend que certains de tes pions rappellent les tours de la Bastille.
+$GEN_057_04x08_03_00
+L'enquêteur de la Garde prétend que certains de tes pions rappellent les tours de la Bastille.
+$GEN_057_04x08_03_01
+C'est vrai.
+$GEN_057_04x08_03_02
+Pourquoi donc ?
+$GEN_057_04x08_03_03
+Parce qu'aux échecs il faut des pions en forme de tours, comme celles d'un château.
+$GEN_057_04x08_03_04
+Mais pourquoi identiques à celles de la Bastille ?
+$GEN_057_04x08_03_05
+Je n'en ai jamais vu d'autres, alors j'ai copié celles que je connaissais.
+$GEN_057_04x08_03_06
+Ce procureur est-il aveugle ou stupide ?
+$GEN_057_05x02_04_QTitle
+Est-ce que tu caches ton atelier ?
+$GEN_057_05x02_04_00
+Est-ce que tu caches ton atelier ?
+$GEN_057_05x02_04_01
+Pas du tout, il est au rez-de-chaussée et j'ai une pancarte. La porte est étroite et la vitrine assez petite, mais le loyer n'est pas cher, Monsieur le Juge.
+$GEN_057_05x02_04_02
+Es-tu courageux, téméraire ou juste idiot ?
+$GEN_057_05x02_04_03
+Je ne comprends pas, Monsieur le procureur. Je veux attirer les clients. Pourquoi me cacherais-je ?
+$GEN_057_05x02_04_04
+Réponds aux questions au lieu d'en poser, laquais de Louis !
+$GEN_057_05x02_04_05
+Où as-tu obtenu autant de marchandises ? Que préparais-tu ?
+$GEN_057_05x02_04_06
+Préparer ? Eh bien je prépare d'abord les pions en sculptant le bois, puis je les peints, mais récemment les gens ont arrêté d'acheter…
+$GEN_057_05x02_04_07
+Que veux-tu dire ?
+$GEN_057_05x02_04_08
+C'était surtout les nobles et le clergé qui jouaient aux échecs, mais maintenant ils ont évidemment autre chose en tête.
+$GEN_057_05x02_04_09
+Vous avez entendu ? C'est un aveu !
+$GEN_057_04x01_05_QTitle
+As-tu remarqué que la Garde nationale te surveillait ?
+$GEN_057_04x01_05_00
+As-tu remarqué que la Garde nationale te surveillait ?
+$GEN_057_04x01_05_01
+Non.
+$GEN_057_04x01_05_02
+Si tu t'en étais rendu compte, te serais-tu enfui ?
+$GEN_057_04x01_05_03
+Je n'y aurais même pas pensé. Pourquoi est-ce que je m'enfuirais ?
+$GEN_057_04x01_05_04
+Tu as des étagères pleines de propagande anti-révolutionnaire !
+$GEN_057_04x01_05_05
+C'est un honnête homme, pourquoi s'enfuirait-il ?
+$GEN_057_04x01_05_06
+Cette accusation est ridicule. Je n'ai rien à expliquer.
+$GEN_057_04x01_05_07
+Tu ferais bien d'y réfléchir tout de même. Ta vie est en jeu.
+$GEN_057_KEY_01
+Monarchiste
+$GEN_057_KEY_02
+Atelier
+$GEN_057_KEY_03
+Couple royal
+$GEN_057_KEY_04
+Surveillance
+$GEN_057_KEY_05
+Objets de propagande
+$GEN_057_KEY_06
+Jeu ancien
+$GEN_057_KEY_07
+Démonstration des règles
+$GEN_057_KEY_08
+Bastille détruite
+$GEN_057_KEY_09
+Roi blanc
+$GEN_057_LastDialog_00
+Mais Messieurs, c'est juste une erreur, une cocasse erreur !
+$GEN_057_UNIQUE_QUESTION_00
+Qui achetait les produits du prévenu ?
+$GEN_057_UNIQUE_ANSWER_CORRECT_00_00
+La noblesse et le clergé.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Les villageois.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Les femmes.
+$GEN_057_UNIQUE_QUESTION_01
+Quel est le but d'une partie d'échecs ?
+$GEN_057_UNIQUE_ANSWER_CORRECT_01_00
+De protéger le roi.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_01_00
+De tuer la reine.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_01_01
+De tuer plus de pions que l'adversaire.
+$GEN_057_UNIQUE_QUESTION_02
+Comment le prévenu faisait-il connaître son commerce ?
+$GEN_057_UNIQUE_ANSWER_CORRECT_02_00
+Une enseigne se trouvait dans la rue.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Son atelier n'était connu que par quelques personnes triées sur le volet.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Il a payé une annonce dans un journal.

@@ -1,0 +1,286 @@
+$GEN_021_DOC_01_HEADER
+Zusammengestellt von: Pierre Daquin
+$GEN_021_DOC_01_00
+Isaac Medelsheim, ein 53-jähriger jüdischer Witwer, betreibt drei Pariser Gasthäuser und vergibt Darlehen, um seinen Lebensunterhalt zu bestreiten. Seine Tochter, die 16-jährige Esther Medelsheim, unterstützt ihn dabei. Der Kaufmann bezeichnet sich selbst als einen eifrigen <a name="2" class="hidden">Anhänger der Revolution</a>, da er glaubt, dass Juden durch sie endlich die gleichen Rechte wie alle anderen Bürger Frankreichs erhalten werden.
+$GEN_021_DOC_01_01
+Aufgrund der aktuellen Lebensmittelknappheit in der Stadt ist Wucher seine wichtigste Einkommensquelle. Medelsheim steht im Verdacht, Militärvorräte gestohlen zu haben, um sie in seinen Gasthäusern zu verkaufen.
+$GEN_021_DOC_01_02
+Die angebliche Tat wurde von Graf Jean-Philippe de Braux beobachtet, einem der Schuldner von Medelsheim. Er meldete den Behörden, dass er am späten Abend des Samstags, dem 12. September, gesehen habe, wie Isaac Medelsheim persönlich die <a name="4" class="hidden">Entladung der Fahrzeuge</a> beaufsichtigte, die seinem Cousin Herz Medelsheim gehörten, während diese vor dessen <a name="5" class="hidden">Lagerhaus</a> standen. Es ist allgemein bekannt, dass Herz ausschließlich die französische Armee beliefert und seine Verwalter häufige Gäste in Isaacs Gasthäusern sind.
+$GEN_021_DOC_01_03
+Die Ermittler fanden in Isaaks Lager <a name="6" class="hidden">Militärkisten</a> mit dem Stempel von Herz Medelsheims Firma. Ihr Inhalt – Wein, getrocknetes Pferdefleisch und Mehl – wurde im <a name="7" class="hidden">Lagerverzeichnis</a> nicht aufgeführt. In den Frachtpapieren der Garnison von Reims tauchten sie jedoch auf. Den Aufzeichnungen zufolge ist Esther Medelsheim für das Verzeichnis verantwortlich.
+$GEN_021_DOC_01_04
+Isaac Medelsheim wurde umgehend verhaftet und beschuldigt, Eigentum der französischen Armee gestohlen und gegen die Interessen Frankreichs gehandelt zu haben.
+$GEN_021_DOC_01_05
+Beweis: <a name="8" class="hidden">Die Aussage von Esther</a> Medelsheim.
+$GEN_021_OnStart_00
+Jüdischer Blutsauger!
+$GEN_021_OnStart_01
+Tötet die Bourgeois!
+$GEN_021_OnStart_02
+Bitte stellen Sie sich vor.
+$GEN_021_OnStart_03
+Isaac Medelsheim, Monsieur der Richter.
+$GEN_021_OnStart_04
+Ihnen wird vorgeworfen, Eigentum der französischen Armee gestohlen und versucht zu haben, es zu verkaufen.
+$GEN_021_OnStart_05
+Welcher Diebstahl, Monsieur Richter, welches Verbrechen?!
+$GEN_021_OnStart_06
+Wir haben einen Zeugen, der alles mit eigenen Augen gesehen hat.
+$GEN_021_OnStart_07
+Das ist Verleumdung, Monsieur le Juge, und eine Provokation, erfunden vom Grafen de Braux! Er schuldet mir Geld und weigert sich, es zurückzuzahlen!
+$GEN_021_OnStart_08
+Die in Ihrem Lager gefundenen Militärkisten, gefüllt mit Vorräten für die Garnison in Reims, sind ein äußerst belastender Beweis gegen Sie.
+$GEN_021_OnStart_09
+Ich kann alles erklären!
+$GEN_021_OnGuilty_00
+Ich verurteile Bürger Isaac Medelsheim zur Guillotine! Führt den Verurteilten ab.
+$GEN_021_OnGuilty_01
+Hoffen wir, dass unsere Soldaten endlich etwas zu essen bekommen.
+$GEN_021_OnGuilty_02
+Endlich!
+$GEN_021_OnGuilty_03
+Schickt die ganze Bourgeoisie auf die Guillotine!
+$GEN_021_OnNotGuilty_00
+Das Urteil für Isaac Medelsheim lautet… nicht schuldig! Führt den Angeklagten ab.
+$GEN_021_OnNotGuilty_01
+Ich lege hiermit offiziell Einspruch gegen das Urteil ein!
+$GEN_021_OnNotGuilty_02
+Sie haben einen Dieb laufen lassen!
+$GEN_021_OnNotGuilty_03
+Er ist ein Konterrevolutionär!
+$GEN_021_OnNotGuilty_04
+Der Richter wurde bestochen!
+$GEN_021_01x04_00_QTitle
+Wie viele Mitarbeiter arbeiten in Ihrem Lager?
+$GEN_021_01x04_00_00
+Wie viele Mitarbeiter arbeiten in Ihrem Lager?
+$GEN_021_01x04_00_01
+Fünf, aber lauter Faulpelze und Nichtsnutze.
+$GEN_021_01x04_00_02
+Wie erklären Sie, dass Sie, obwohl Sie fünf Angestellte haben und Jude sind, persönlich am Sabbat Kisten entladen haben?
+$GEN_021_01x04_00_03
+Herz’ Verwalter, Jakob, befahl ihm, die Kisten schnell auszuladen, weil er aufbrechen wollte. Ich eilte zum Lagerhaus, doch es war schon spät und keiner dieser Nichtsnutze arbeitete.
+$GEN_021_01x04_00_04
+Also haben Sie beschlossen, Ihren eigenen Glauben zu vernachlässigen?
+$GEN_021_01x04_00_05
+Der Sabbat ist der Sabbat, aber das Geschäft bleibt das Geschäft. Ich hätte ablehnen können, aber dann hätte ich Geld verloren. Die Zeiten sind hart.
+$GEN_021_01x04_00_06
+Also haben Sie das Ganze nicht inszeniert, um Zeugen zu vermeiden?
+$GEN_021_01x04_00_07
+Zeugen? Wovon? Vom Entladen?
+$GEN_021_01x04_00_08
+Des Diebstahls von Militärvorräten.
+$GEN_021_01x04_00_09
+Es gab keine Militärlieferungen, das ist alles ein großes Missverständnis.
+$GEN_021_01x04_00_10
+Du elender Lügner!
+$GEN_021_05x06_01_QTitle
+Warum fanden die Ermittler voll bestückte Militärkisten in Ihrem Lager?
+$GEN_021_05x06_01_00
+Warum fanden die Ermittler vollgepackte Militärkisten in Ihrem Lager?
+$GEN_021_05x06_01_01
+Ich habe diese Kisten leer gekauft. Herz verkauft hochwertige Militärkisten zum selben Preis, für den ich sonst nur minderwertige bekomme. Wie hätte ich da nein sagen können?
+$GEN_021_05x06_01_02
+Ist das überhaupt legal? Braucht die Armee sie nicht?
+$GEN_021_05x06_01_03
+Keine Ahnung. Wenn Herz sie verkauft, wird schon alles in Ordnung sein.
+$GEN_021_05x06_01_04
+Sie haben nicht daran gedacht zu fragen?
+$GEN_021_05x06_01_05
+Bin ich etwa ein Ermittler? Er hat mir versichert, dass alles in Ordnung ist.
+$GEN_021_05x06_01_06
+Unverschämter Bourgeois!
+$GEN_021_05x06_01_07
+Juden lügen immer!
+$GEN_021_05x06_01_08
+Ruhe!
+$GEN_021_03x06_02_QTitle
+Warum waren die Kisten dann voller Waren…?
+$GEN_021_03x06_02_00
+Warum waren die Kisten mit Waren gefüllt, die laut Frachtbriefen für die französische Armee bestimmt waren?
+$GEN_021_03x06_02_01
+Unsere Armee ist nicht die Einzige, die Wein und Trockenfleisch kauft. Die Kisten waren mit Waren gefüllt, die ich von meinem Lieferanten Marcel Rozier bezogen habe. Er kann das bestätigen.
+$GEN_021_03x06_02_02
+Marcel Rozier kann nichts mehr bestätigen. Wie Sie vermutlich bereits wissen, wurde er letzte Woche tot aufgefunden.
+$GEN_021_03x06_02_03
+Monsieur le Richter, das höre ich zum ersten Mal. Was für ein–
+$GEN_021_03x06_02_04
+Wie praktisch, einem Toten die Schuld zuzuschieben.
+$GEN_021_03x06_02_05
+Für Sie vielleicht, aber ich habe meinen Hauptlieferanten verloren.
+$GEN_021_03x06_02_06
+Wussten Sie nichts von Roziers Tod?
+$GEN_021_03x06_02_07
+Ganz und gar nicht. Das Ganze wurde von meinen Schuldnern eingefädelt. Sie wollen mich loswerden!
+$GEN_021_03x06_02_08
+So soll es sein.
+$GEN_021_03x06_02_09
+Das ist eine Intrige meiner Schuldner, und ich fordere Gerechtigkeit!
+$GEN_021_06x07_03_QTitle
+Sie haben die in den Kisten von Herz gelagerten Waren nicht in Ihr Inventar aufgenommen…
+$GEN_021_06x07_03_00
+Sie haben die in den Kisten von Herz gelagerten Waren nicht in Ihr Inventar aufgenommen, um zu verschleiern, dass sie aus Militärbeständen stammen – liege ich da richtig?
+$GEN_021_06x07_03_01
+Ich habe sie völlig legal erworben! Monsieur le Juge, Sie können es selbst überprüfen, die Bücher sind ordentlich geführt. Das muss ein Irrtum sein.
+$GEN_021_06x07_03_02
+Das Gericht hat bereits alles überprüft. Die Waren sind im Inventar nicht aufgeführt, was den Verdacht noch verstärkt, da die Bücher früher stets ordentlich geführt wurden.
+$GEN_021_06x07_03_03
+Meine Tochter Esther ist für die Unterlagen zuständig. Sie war in letzter Zeit schwer krank und hat es vermutlich einfach vergessen.
+$GEN_021_06x07_03_04
+Vielleicht haben Sie ihr von der Ware nichts erzählt, weil Sie sie nicht in Ihr Verbrechen verwickeln wollten?
+$GEN_021_06x07_03_05
+Wenn du kein Dieb gewesen wärst, wäre das Mädchen nicht allein zurückgeblieben!
+$GEN_021_06x07_03_06
+Es gab kein Verbrechen. Sie wollte es wohl später noch aufschreiben.
+$GEN_021_06x07_03_07
+Ich steh auf und hau ihm eine rein, das schwör ich!
+$GEN_021_02x03_04_QTitle
+Was halten Sie von der Revolution?
+$GEN_021_02x03_04_00
+Was halten Sie von der Revolution?
+$GEN_021_02x03_04_01
+Wie könnte ich das nicht unterstützen, wenn die ehrenwerten Bürger Frankreichs den Juden die gleichen Rechte gewähren wollen wie sich selbst?
+$GEN_021_02x03_04_02
+Warum schaden Sie dann der Revolution, indem Sie militärische Vorräte stehlen?
+$GEN_021_02x03_04_03
+Ich habe mein eigenes Geld für die Revolution gegeben, Monsieur le Juge. Fragen Sie die Freunde von Monsieur Robespierre, Monsieur Joseph Fouché und Monsieur Antoine Simon, sie werden es Ihnen bestätigen.
+$GEN_021_02x03_04_04
+Du hast bezahlt, um dich als einer von uns auszugeben.
+$GEN_021_02x03_04_05
+Menschen wie ich ziehen keinen Nutzen daraus, die Revolution zu unterstützen.
+$GEN_021_02x03_04_06
+Vorteil? Wollen Sie damit sagen, Sie hätten das Volk unterstützt, um Profit zu schlagen?
+$GEN_021_02x03_04_07
+Nein, nein, ich kann das erklä–
+$GEN_021_02x03_04_08
+Gebt ihn uns, wir machen ihm den Kopf ab, auch ganz ohne Guillotine.
+$GEN_021_02x03_04_09
+„Geld verdienen“? Selbst wenn ich diese Waren tatsächlich gestohlen hätte – was ich nicht habe – und sie in meinen Gasthäusern verkauft hätte, hätte ich nicht einmal das zurückbekommen, was ich den Freunden von Monsieur Robespierre gegeben habe!
+$GEN_021_07x08_05_QTitle
+Rufen Sie die Zeugin, Bürgerin Esther Medelsheim, in den Zeugenstand.
+$GEN_021_07x08_05_00
+Rufen Sie die Zeugin, Bürgerin Esther Medelsheim, in den Zeugenstand.
+$GEN_021_07x08_05_02
+Esther Medelsheim, die Tochter von Isaac Medelsheim.
+$GEN_021_07x08_05_03
+Können Sie aussagen? Ich sehe, dass es Ihnen nicht gut geht.
+$GEN_021_07x08_05_04
+Ja, ich schaffe das.
+$GEN_021_05x07_06_QTitle
+Wer ist für die Verwaltung des Inventars verantwortlich?
+$GEN_021_05x07_06_00
+Wer ist für die Verwaltung des Inventars verantwortlich?
+$GEN_021_05x07_06_01
+Meine Tochter Esther, Monsieur der Richter.
+$GEN_021_05x07_06_02
+Hat nur sie Zugriff darauf?
+$GEN_021_05x07_06_03
+Manchmal werfe ich einen Blick hinein, aber ich würde meine Tochter niemals in Schwierigkeiten bringen!
+$GEN_021_05x07_06_04
+Sie werfen also keinen Blick in Ihre eigenen Unterlagen?
+$GEN_021_05x07_06_05
+Ich vertraue ihr so sehr wie mir selbst.
+$GEN_021_05x07_06_06
+Diesmal jedoch wurden die Waren nicht vermerkt.
+$GEN_021_05x07_06_07
+Das ist doch nur eine Kleinigkeit.
+$GEN_021_05x07_06_08
+Deine Hinrichtung wird eine Kleinigkeit sein.
+$GEN_021_03x05_07_QTitle
+Warum wurden die Wagen des Hauptlieferanten der französischen Armee…?
+$GEN_021_03x05_07_00
+Warum standen die Wagen des Hauptlieferanten der französischen Armee, Herz Medelsheim, vor Ihrem Lagerhaus?
+$GEN_021_03x05_07_01
+Sie machten sich bereit, ihre Reise fortzusetzen. Die Verwalter meines Vetters Herz kehren immer in meinem Gasthof ein, wenn ihre Route es zulässt.
+$GEN_021_03x05_07_02
+Und es hat sich also zufällig ergeben, dass sie genau die Art von Waren lieferten, die in den Militärkisten gefunden wurden, die mit den Militärunterlagen übereinstimmten und in Ihrem Inventar nicht aufgeführt waren?
+$GEN_021_03x05_07_03
+Ich weiß, es klingt seltsam, aber–
+$GEN_021_03x05_07_04
+Reißt ihm die lügnerische Zunge heraus!
+$GEN_021_WIT_00_A_QTitle
+Beschreiben Sie Ihre Aufgaben im Unternehmen Ihres Vaters.
+$GEN_021_WIT_00_A_00
+Beschreiben Sie Ihre Aufgaben im Unternehmen Ihres Vaters.
+$GEN_021_WIT_00_A_01
+Ich bin für das Inventar und die Abrechnung mit unseren Schuldnern verantwortlich.
+$GEN_021_WIT_00_A_02
+Warum haben Sie die in den Militärkisten gelagerten Waren nicht im Inventar aufgeführt?
+$GEN_021_WIT_00_A_03
+Monsieur le juge, seit mein Gesundheitszustand sich verschlechtert hat, habe ich meine Pflichten vernachlässigt und leider vergessen, diese Waren in die Bücher einzutragen.
+$GEN_021_WIT_00_A_04
+Bist du zu schwach, um einen Federkiel zu halten?
+$GEN_021_WIT_00_A_05
+Ich werde schnell müde, mir wird schwindlig… Arbeiten fällt mir schwer.
+$GEN_021_WIT_00_A_06
+Oder wollten Sie vielleicht einfach nicht an den Verbrechen Ihres Vaters teilhaben?
+$GEN_021_WIT_00_A_07
+Das Essen wurde von unserem Stammzulieferer Marcel Rozier geliefert. Ich habe die Waren nicht notiert, und das ist allein mein Fehler.
+$GEN_021_WIT_01_A_QTitle
+Was wissen Sie über die Anklagepunkte gegen Ihren Vater?
+$GEN_021_WIT_01_A_00
+Was wissen Sie über die Anklagepunkte gegen Ihren Vater?
+$GEN_021_WIT_01_A_01
+Sie beruhen auf den Lügen des Grafen de Braux! Er schuldet meinem Vater 400.000 Francs und weigert sich, sie zurückzuzahlen! Aber das wissen Sie sicher selbst, Monsieur le Juge, schließlich kennen Sie sich beide sehr gut!
+$GEN_021_WIT_01_A_02
+Ich rufe den Zeugen zur Ordnung!
+$GEN_021_WIT_01_A_03
+Graf de Braux selbst sprach unmittelbar vor dem Prozess über seine Beziehung zum Herrn Richter!
+$GEN_021_WIT_01_A_04
+Der Richter steckt mit den Konterrevolutionären unter einer Decke!
+$GEN_021_WIT_01_A_05
+Können Sie diese Unterstellungen belegen?
+$GEN_021_WIT_01_A_06
+Leider habe ich nichts vorzuweisen außer meinen eigenen Worten und dem festen Glauben, dass hier die Gerechtigkeit siegen muss. Mein Vater ist unschuldig. Er hat sowohl die Kisten als auch die Waren rechtmäßig erworben!
+$GEN_021_WIT_01_A_07
+Führt die Zeugin hinaus!
+$GEN_021_KEY_01
+Jüdischer Kaufmann
+$GEN_021_KEY_02
+Anhänger der Revolution
+$GEN_021_KEY_03
+Militärvorräte
+$GEN_021_KEY_04
+Entladen der Wagen
+$GEN_021_KEY_05
+Das Lagerhaus des Händlers
+$GEN_021_KEY_06
+Militärkisten
+$GEN_021_KEY_07
+Inventar
+$GEN_021_KEY_08
+Esthers Aussage
+$GEN_021_LastDialog_00
+Welcher Diebstahl, Monsieur Richter, welches Verbrechen?!
+$GEN_021_UNIQUE_QUESTION_00
+Wie erklärte der Wirt das Fehlen der Einträge im Inventar?
+$GEN_021_UNIQUE_ANSWER_CORRECT_00_00
+Die Krankheit seiner Tochter.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ein Moment der Zerstreutheit.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Er sagte, er habe keine Tinte.
+$GEN_021_UNIQUE_QUESTION_01
+Was hat Medelsheim über den Informanten gesagt?
+$GEN_021_UNIQUE_ANSWER_CORRECT_01_00
+Dass jener ihm Geld schuldet.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Dass er ein Trinker ist.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Dass sie einander nie begegnet sind.
+$GEN_021_UNIQUE_QUESTION_02
+Wie reagierte die Tochter des Angeklagten auf die Anschuldigungen?
+$GEN_021_UNIQUE_ANSWER_CORRECT_02_00
+Sie hat die Schuld auf sich genommen.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Sie bestritt, an den Geschäften ihres Vaters beteiligt gewesen zu sein.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Sie gab den Angestellten ihres Vaters die Schuld.
+$GEN_021_UNIQUE_QUESTION_03
+Sind der Angeklagte und der Armeelieferant miteinander verwandt?
+$GEN_021_UNIQUE_ANSWER_CORRECT_03_00
+Ja, sie sind Cousins.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Nein, sie sind nur Bekannte.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Nein.

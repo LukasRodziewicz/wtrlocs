@@ -1,0 +1,16 @@
+$DIAL_H_01_03_20_001_JUDGE
+Pache hakkında ne biliyorsunuz?
+$DIAL_H_01_03_20_002_RAMEL
+Diğer pek çok kişi gibi, o da Rolands’ın genelevinden kazanç sağlıyordu. Onların yolunu kestiğinizde, Pache’nin suikastınızı düzenlemesine karar verildi. Belediye Başkanı’nın güçlü müttefikleri var, Danton da bunlardan biri, bu yüzden ona doğrudan saldıramayız. Ailesini hedef almalıyız.
+$DIAL_H_01_03_20_003_JUDGE
+Affedersiniz?
+$DIAL_H_01_03_20_004_RAMEL
+Onun kızının çoğu insanın… kabul edilemez bulacağı bir ilişki yaşadığına dair söylentiler duydum. Başka bir kadınla birlikte ve dahası, o kadın Muscadins’lerle yakın. Bu bilgiyi kullanırsan, Pache skandalın ortaya çıkmasından korkup hata yapmaya başlar. Müttefikleri bunu fark eder ve ona olan güvenlerini kaybederler.
+$DIAL_H_01_03_20_005_JUDGE
+Bu yeterli olacak mı?
+$DIAL_H_01_03_20_006_RAMEL
+Önce onun güvenini kazanmalısın. Suikast girişimindeki rolünden hiçbir şey bilmediğine inanmalı. Bir planım var, ama önce Roland’ların el koyduğu genelevle ilgilenmemiz gerekiyor.
+$DIAL_H_01_03_20_007_JUDGE
+Neden böyle?
+$DIAL_H_01_03_20_008_RAMEL
+Pache kumar oynamaya bayılır.

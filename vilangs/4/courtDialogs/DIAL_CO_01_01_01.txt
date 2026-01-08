@@ -1,0 +1,26 @@
+$DIAL_CO_01_01_02_001_JLDAVID
+Darf ich dich daran erinnern, dass du mir zugesagt hast, mich zu begleiten? Ich habe das Gefühl, dass der Mond heute Nacht den Spielern wohlgesinnt ist.
+$DIAL_CO_01_01_02_002_JUDGE
+Allerdings ist sie Ehepartnern nicht wohlgesinnt …
+$DIAL_CO_01_01_02_003_JLDAVID
+Gott möge uns mit Ehefrauen segnen, die den Wert eines abendlichen Würfelspiels zu schätzen wissen. Und sie sollten auch wissen, dass das richtige Maß an Wein das Glück beim Wurf beflügelt…
+$DIAL_CO_01_01_02_004_JUDGE
+Ich sollte nach Hause gehen.
+$DIAL_CO_01_01_02_005_JLDAVID
+Einen Richter ins Spiel zu holen hat Vorteile – die anderen Spieler werden sicher nicht schummeln.
+$DIAL_CO_01_01_02_006_JUDGE
+Das ist kein überzeugendes Argument.
+$DIAL_CO_01_01_02_007_JLDAVID
+Mein Name ist Jacques-Louis David. Ich bin nur ein bescheidener Maler, kein redegewandter Richter.
+$DIAL_CO_01_01_02_008_JUDGE
+Du bist ein gerissener Politiker, Jacques.
+$DIAL_CO_01_01_02_009_JLDAVID
+Als Politiker weiß ich, wie wichtig es ist, Versprechen zu halten. Und du, mein Freund, versuchst dich vor deinem zu drücken.
+$DIAL_CO_01_01_02_C1
+Halte dein Versprechen
+$DIAL_CO_01_01_02_C2
+Nach Hause gehen
+$DIAL_CO_01_01_02_010_JUDGE
+In Ordnung, aber nur für kurze Zeit.
+$DIAL_CO_01_01_02_011_JUDGE
+Nicht heute, Jacques.

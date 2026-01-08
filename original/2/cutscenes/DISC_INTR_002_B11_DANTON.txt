@@ -1,0 +1,80 @@
+$DISC_INTR_002_B11_DANTON_001_V1_DANTON
+Pardonne-moi, mais je ne peux m'empêcher de remarquer que du sang se trouve sous tes ongles et sur tes menottes.
+$DISC_INTR_002_B11_DANTON_002_V1_JUDGE
+Désolé, mon rendez-vous précédent ne s'est pas déroulé comme prévu.
+$DISC_INTR_002_B11_DANTON_003_V1_DANTON
+Nous n'organiserons donc pas un goûter amical ?
+$DISC_INTR_002_B11_DANTON_004_V1_JUDGE
+C'est de ton ressort.
+$DISC_INTR_002_B11_DANTON_001_V2_DANTON
+Tu dois avoir une bonne raison pour me déranger à une heure aussi tardive. Surtout qu'il pleut des cordes.
+$DISC_INTR_002_B11_DANTON_004_JUDGE_AGGR
+Je sais tout de ton alliance avec Pache. Ne m'irrite pas davantage en essayant de le nier.
+$DISC_INTR_002_B11_DANTON_005_JUDGE_MANI
+Des amis m'ont informé que tu as formé une alliance secrète avec le maire de Paris.
+$DISC_INTR_002_B11_DANTON_006_JUDGE_JOKE
+Qui eut cru que tu te retrouverais dans une telle situation. Je sais que vous manigancez quelque chose avec Pache.
+$DISC_INTR_002_B11_DANTON_007_JUDGE_HUMI
+Comprends-moi bien, ton alliance avec Pache n'est plus un secret. Je ne voudrais pas être en travers de quoi que ce soit, mais j'ai entendu des choses terribles sur lui, j'ai pensé que cela t'intéresserait…
+$DISC_INTR_002_B11_DANTON_008_DANTON_INTR
+Que souhaites-tu faire avec ces informations ?
+$DISC_INTR_002_B11_DANTON_009_DANTON_DOUB
+Tu surestimes l'importance de ces informations. Serais-tu désormais intéressé par les alliances politiques entre députés ?
+$DISC_INTR_002_B11_DANTON_010_DANTON_IRRI
+Bien d'autres ont essayé de m'abuser de cette façon, tu le sais, n'est-ce pas ? Tu es au courant de mes alliances politiques, et alors ?
+$DISC_INTR_002_B11_DANTON_011_JUDGE_AGGR
+Je dispose d'un témoignage qui confirme que Pache est un espion autrichien. Mon ami, avec un tel boulet attaché à votre pied, tu vas sombrer.
+$DISC_INTR_002_B11_DANTON_012_JUDGE_MANI
+Je dispose d'un témoignage stipulant que Pache est un espion autrichien. Nous allons le pousser à révéler les noms de ses alliés. Ainsi, il échappera à la guillotine, contrairement à ses complices.
+$DISC_INTR_002_B11_DANTON_013_JUDGE_JOKE
+La guillotine ne fait aucun distinguo entre les cous sur lesquels s'abat, qu'importe que ce soient ceux de traîtres ou de leurs aides. Il se trouve que j'ai des preuves de la collaboration de Pache avec les Autrichiens, et comme tu travailles avec lui…
+$DISC_INTR_002_B11_DANTON_014_JUDGE_HUMI
+Il serait dommage qu'un scandale enterre à jamais tous tes durs efforts en faveur de la Révolution. Or il en éclatera certainement un si je divulgue un témoignage révélant que Pache est un espion autrichien. Le peuple demandera aussi la tête de ses collaborateurs.
+$DISC_INTR_002_B11_DANTON_015_DANTON_INTR
+J'écoute.
+$DISC_INTR_002_B11_DANTON_016_DANTON_DOUB
+Ce n'est pas la première fois qu'on me suspecte d'espionnage, j'ai déjà su l'endurer.
+$DISC_INTR_002_B11_DANTON_017_DANTON_IRRI
+J'espérais une conversation affable et voici que je n'entends que menaces et insinuations.
+$DISC_INTR_002_B11_DANTON_018_DANTON_AGGR
+Sauras-tu dire autre chose que ne m'ont déjà dit tant d'extorqueurs ?!
+$DISC_INTR_002_B11_DANTON_019_JUDGE_AGGR
+Il existe également un soupçon, touchant à la certitude, que Pache a organisé l'assassinat manqué contre moi. Lui paiera pour son crime, mais ses alliés se verront offrir un choix. À défaut d'opter pour la voie de la rédemption, ils périront.
+$DISC_INTR_002_B11_DANTON_020_JUDGE_MANI
+Tu pourrais également être mêlé à une tentative d'assassinat sur un juge du Tribunal. Après tout, tu collabores bien avec Pache, qui a commandité l'attaque…
+$DISC_INTR_002_B11_DANTON_021_JUDGE_JOKE
+Fallait-il vraiment que tu conclues un pacte avec l'homme qui a cherché à m'assassiner ? Sachant que vous étiez alliés, crois-tu que les gens se soucieront de savoir si tu y as réellement pris part ?
+$DISC_INTR_002_B11_DANTON_022_JUDGE_HUMI
+Pache a voulu s'en prendre à ma vie et il sera puni en conséquence. Cependant, tu n'as pas à partager son sort. Je sais bien que tu n'es pas impliqué, mais les gens verront tout de même en toi le complice d'un meurtrier. Et ta marque sur l'Histoire sera aussitôt effacée.
+$DISC_INTR_002_B11_DANTON_023_JUDGE_AGGR
+Le moment est venu de châtier Pache. Coupe les ponts avec lui et range-toi de mon bord, ou bien tu partageras son sort ! Estime-toi heureux d'avoir ce choix offert.
+$DISC_INTR_002_B11_DANTON_024_JUDGE_MANI
+Veux-tu vraiment rester du côté d'un homme que la guillotine caresse au lieu de t'unir à la personne qui décide sur qui elle doit s'abattre ? Ton amitié avec Pache est le plus court chemin vers un destin pareil au sien. Quelle option sert le mieux tes intérêts ?
+$DISC_INTR_002_B11_DANTON_025_JUDGE_JOKE
+Une fois Pache entre mes mains, le couperet tombera. Je te propose une alliance avec la personne qui retient la corde de la guillotine, à savoir moi. N'oublie pas que la politique est l'art de s'éloigner des alliés qui vous entraînent dans leur chute.
+$DISC_INTR_002_B11_DANTON_026_JUDGE_HUMI
+Pache ne peut pas être sauvé. En ce qui te concerne, il n'est toutefois pas trop tard. Ne les laisse pas te guillotiner à cause de lui. Forger une alliance avec la personne qui retient la corde de la guillotine réduirait considérablement les risques auxquels tu es exposés.
+$DISC_INTR_002_B11_DANTON_027_DANTON_INTR
+Tu as raison, ma proximité avec Pache est un fardeau plutôt encombrant. Je suivrai volontiers tes instructions.
+$DISC_INTR_002_B11_DANTON_028_DANTON_DOUB
+Tu oublies qui je suis et que je compte de nombreux amis dans cette ville… Mais il est vrai que les choses ont plutôt mal tourné. Très bien, voyons voir où nous mènera cette collaboration.
+$DISC_INTR_002_B11_DANTON_029_DANTON_IRRI
+Tu m'as invité pour me jeter des menaces à la figure ? Ne compte pas sur la moindre collaboration avec moi. Adieu.
+$DISC_INTR_002_B11_DANTON_030_DANTON_AGGR
+Petit juge bouffi par la pourriture ! Tu espérais faire de moi ton chien ?! Je m'appelle Danton, et c'est moi qui tiens les autres en laisse !
+$DISC_INTR_002_B11_DANTON_TOPIC_01
+Je connais ton alliance avec Pache.
+$DISC_INTR_002_B11_DANTON_TOPIC_02
+Pache collabore avec un État ennemi.
+$DISC_INTR_002_B11_DANTON_TOPIC_03
+Il se peut que Pache soit impliqué dans la tentative d'assassinat d'un juge.
+$DISC_INTR_002_B11_DANTON_TOPIC_04
+S'allier au juge du Tribunal est moins risqué.
+$DISC_INTR_002_B11_DANTON_001_SUCCESS_JUDGE
+Je dois savoir ce que vous maniganciez avec Pache.
+$DISC_INTR_002_B11_DANTON_002_SUCCESS_DANTON
+C'était à propos du Pont de la Révolution.
+$DISC_INTR_002_B11_DANTON_003_SUCCESS_JUDGE
+Le pont que les ouvriers sont incapables de terminer ?
+$DISC_INTR_002_B11_DANTON_004_SUCCESS_DANTON
+Il n'a jamais été fini car, avec le maire, nous entravions les travaux.

@@ -1,0 +1,205 @@
+$GEN_003_DOC_01_HEADER
+Compiled by: Raphaël Chalopin
+$GEN_003_DOC_01_00
+In the dock is Lucien Blanchot, a resident of the Section des Gravilliers, rue Meslée. Citizen Blanchot owns several grocery stalls. We have received multiple <a name="1" class="hidden">complaints</a> regarding his unfair trading practices, such as selling spoiled fruit, price speculation, and the violation of <a name="3" class="hidden">legal price limits</a>. 
+$GEN_003_DOC_01_01
+Mr Blanchot has denied all the accusations, but my investigation at his stalls revealed at least some of the complaints to be justified. He claimed that the prices were inflated due to <a name="4" class="hidden">“employee mistakes”</a>, and that spoiled produce was about to be disposed of on the day of the inspection. It must be noted that when the inspectors pointed out his transgressions, Blanchot scolded his employees and readily set about restoring order at his stall.
+$GEN_003_DOC_01_02
+<h1>Lucien Blanchot</h1>
+A young merchant and staunch supporter of the Jacobins. He has <a name="5" class="hidden">connections</a> with Marat and Robespierre, or so he claims. So far he has managed to get away with all his shady dealings, so there may be some truth to his boasting. 
+$GEN_003_DOC_01_03
+Witness 1: “He sold me rotten apples. He put some fresh ones on top so that I wouldn’t notice!”
+$GEN_003_DOC_01_04
+Witness 2: “My husband <a name="7" class="hidden">couldn’t stop retching for two days</a> after eating celery he bought from this swindler!”
+$GEN_003_OnStart_00
+I bought carrots from him myself!
+$GEN_003_OnStart_01
+Please introduce yourself.
+$GEN_003_OnStart_02
+Lucien Blanchot.
+$GEN_003_OnStart_03
+Occupation?
+$GEN_003_OnStart_04
+Currently? Merchant. Also, temporarily a prisoner.
+$GEN_003_OnStart_05
+You stand accused of price speculation, breaking legal price limits, and selling produce unfit for consumption.
+$GEN_003_OnStart_06
+Is that all?
+$GEN_003_OnStart_07
+I ask the court to add deliberate poisoning of Parisian Citizens to the list of charges.
+$GEN_003_OnStart_08
+Poisoning? Stale vegetables never killed anyone.
+$GEN_003_OnStart_09
+So you admit to the other charges?
+$GEN_003_OnStart_10
+I am an honest entrepreneur, and my business will not be harmed by such allegations.
+$GEN_003_OnGuilty_00
+I sentence Citizen Lucien Blanchot to the guillotine! Lead the condemned out.
+$GEN_003_OnGuilty_01
+Unthinkable! A death sentence for a minor wrongdoing? I object!
+$GEN_003_OnGuilty_02
+Let’s see how fresh he stays now!
+$GEN_003_OnGuilty_03
+I have friends in high places! You'll regret this, you incompetent wretch!
+$GEN_003_OnPrison_00
+I sentence Citizen Lucien Blanchot to prison! Lead the condemned out.
+$GEN_003_OnPrison_01
+Let's see how fresh he stays behind bars!
+$GEN_003_OnPrison_02
+I have friends in high places. I will be set free in a matter of days. You, on the other hand…
+$GEN_003_OnNotGuilty_00
+The verdict in the case of Citizen Blanchot… Not guilty! The defendant is free to go.
+$GEN_003_OnNotGuilty_01
+Thank you for your just verdict. It warms my heart to know that we have such honourable judges.
+$GEN_003_OnNotGuilty_02
+It’s a mockery!
+$GEN_003_OnNotGuilty_03
+Not guilty? The evidence was served on a plate!
+$GEN_003_01x06_00_QTitle
+Do you admit to selling spoiled produce?
+$GEN_003_01x06_00_00
+Do you admit to selling spoiled produce?
+$GEN_003_01x06_00_01
+That has already been established by the inspectors. There is no need to go over the matter again.
+$GEN_003_01x06_00_02
+Answer the question!
+$GEN_003_01x06_00_03
+Yes and no. Yes, because I admit that such things have been reported at my stalls. No, because it was not my fault.
+$GEN_003_01x06_00_04
+Whose fault was it, then?
+$GEN_003_01x06_00_05
+I cannot be held accountable for nature not creating all apples equal. Apples are not Citizens of France.
+$GEN_003_01x06_00_06
+But you are the owner of this business, and you can be held accountable for the produce that you sell.
+$GEN_003_01x06_00_07
+I have never forced anyone to buy anything from me.
+$GEN_003_01x06_00_08
+So your customers consciously purchased spoiled food?
+$GEN_003_01x06_00_09
+They will buy carrots as black as coal if you lower the price by a few francs, but they still expect them to taste as though they were fresh out of the ground.
+$GEN_003_01x06_00_10
+He's insulting the people! Throw the scoundrel in chains!
+$GEN_003_01x07_01_QTitle
+Did you know your produce made your customers sick?
+$GEN_003_01x07_01_00
+Did you know your produce made your customers sick?
+$GEN_003_01x07_01_01
+If anyone can prove that my produce was at fault, I will gladly cover the cost of their treatment – or their funeral. They need only come forward.
+$GEN_003_01x07_01_02
+Try eating that muck yourself, and you’ll have your evidence!
+$GEN_003_01x07_01_03
+Let me remind you that witness testimonies will be taken into account.
+$GEN_003_01x07_01_04
+He was selling people shit, not food.
+$GEN_003_01x07_01_05
+Testimonies of jaundiced people who will do anything to hamper a wealthier man’s work. Worthy evidence indeed.
+$GEN_003_02x03_02_QTitle
+With regard to the violation of legal price limits–
+$GEN_003_02x03_02_00
+Before monsieur le juge asks, let me make one thing clear: legal price limits were never deliberately broken at my stalls. I find such accusations to be malicious and vile.
+$GEN_003_02x03_02_01
+Objection! You only corrected the prices upon the arrival of the inspectors.
+$GEN_003_02x03_02_02
+He deserves to rot in prison.
+$GEN_003_02x03_02_03
+The inspectors imposed a substantial fine on me that I paid without delay. I have already suffered the consequences of my negligence.
+$GEN_003_02x03_02_04
+A fine won’t stop him from peddling rotten tomatoes!
+$GEN_003_02x04_03_QTitle
+It seems your employees are rather prone to making mistakes.
+$GEN_003_02x04_03_00
+It seems your employees are rather prone to making mistakes.
+$GEN_003_02x04_03_01
+I would do everything myself if I could, but that is impossible.
+$GEN_003_02x04_03_02
+There was no one in Paris competent enough? Do you think so little of your fellow Citizens?
+$GEN_003_02x04_03_03
+Well, most people are dolts. The very fact that I must defend myself in court attests to that.
+$GEN_003_02x04_03_04
+Did the defendant offer adequate instruction to his subordinates?
+$GEN_003_02x04_03_05
+I own a chain of grocery stalls, not a parish school for the dim-witted.
+$GEN_003_02x04_03_06
+He's insulting us!
+$GEN_003_02x05_04_QTitle
+Could you explain why there have been so many complaints about your business over the years…?
+$GEN_003_02x05_04_00
+Could you explain why there have been so many complaints about your business over the years, and yet this is the first time you have been brought to justice?
+$GEN_003_02x05_04_01
+Maybe it is because most of those complaints have been nothing but nonsensical claims from jealous loafers?
+$GEN_003_02x05_04_02
+Are you so convinced that Marat and Robespierre will protect you?
+$GEN_003_02x05_04_03
+I am convinced that the law will protect me. Justice is on my side.
+$GEN_003_02x05_04_04
+What do you mean?
+$GEN_003_02x05_04_05
+The law is supposed to protect the innocent. It should be on the side of those who are wronged by–
+$GEN_003_02x05_04_06
+Spare us the speech. This is not a session of the National Convention.
+$GEN_003_02x05_04_07
+Did anyone understand any of that?
+$GEN_003_02x05_04_08
+Forgive me. My soul cries out for justice, so the statesmen you mentioned, Marat and Robespierre, will not have to deliver justice on my behalf.
+$GEN_003_03x04_05_QTitle
+We have analysed your ledgers and discovered that you have been violating legal price limits on a regular basis…
+$GEN_003_03x04_05_00
+We have analysed your ledgers and discovered that you have been violating legal price limits on a regular basis. Do you deny this accusation as well?
+$GEN_003_03x04_05_01
+These ledgers are kept by ordinary people who are prone to making mistakes. I will analyse them again and make proper amends–
+$GEN_003_03x04_05_02
+You are not at an administration office, Citizen Blanchot. These ledgers, in their current state, are evidence for the court.
+$GEN_003_03x04_05_03
+Those are mere accounting errors, a zero or a decimal put in the wrong place by mistake. It can all be explained. After all, are we not all friends of France here? Citizen Robespierre has assured me that we are.
+$GEN_003_03x04_05_04
+Has Citizen Robespierre also assured you that you can get away with falsifying records?
+$GEN_003_03x04_05_05
+Of course not…
+$GEN_003_03x04_05_06
+So why did you mention him?
+$GEN_003_03x04_05_07
+I…
+$GEN_003_03x04_05_08
+Robespierre isn’t a lackey of costermongers like him!
+$GEN_003_03x04_05_09
+Silence! Or I will adjourn the proceedings!
+$GEN_003_03x04_05_10
+Have they bribed the Judge as well?
+$GEN_003_KEY_01
+Customer complaints
+$GEN_003_KEY_02
+Unfair practices
+$GEN_003_KEY_03
+Legal price limits
+$GEN_003_KEY_04
+Employee mistakes
+$GEN_003_KEY_05
+The defendant’s connections
+$GEN_003_KEY_06
+Rotten apples
+$GEN_003_KEY_07
+Poisoning customers
+$GEN_003_LastDialog_00
+For a few rotten apples? Have you lost your minds? We must call in Robespierre!
+$GEN_003_UNIQUE_QUESTION_00
+What are the defendant’s confirmed political affiliations?
+$GEN_003_UNIQUE_QUESTION_01
+What was the defendant’s attitude towards the fines issued?
+$GEN_003_UNIQUE_QUESTION_02
+How does the defendant explain his disregard for legal price limits?
+$GEN_003_UNIQUE_ANSWER_CORRECT_00_00
+Jacobin follower.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Girondin follower.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_00_01
+No information about political affiliations.
+$GEN_003_UNIQUE_ANSWER_CORRECT_01_00
+Paid immediately.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Lingered with payment.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_01_01
+He bribed the official to evade the ticket.
+$GEN_003_UNIQUE_ANSWER_CORRECT_02_00
+Written mistake.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Robespierre’s support.

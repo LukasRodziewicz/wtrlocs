@@ -1,0 +1,277 @@
+$GEN_029_DOC_01_HEADER
+Derleyen: Nathan d’Essiraf
+$GEN_029_DOC_01_00
+Edmond Malle, 44 yaşında, Montmartre Mezarlığı’nda çalışan bir mezarcı. Paris kolluk kuvvetleri onu iyi tanır; çünkü bu, sanık sandalyesine ilk oturuşu değil. Bu kötü şöhretli sapık daha önce bir genç aristokrata <a name="2" class="hidden">sarkıntılık yaptığı için hüküm giymişti</a>. Muhbirlerimizden ayrıca, tıp öğrencileri arasında özellikle rağbet gören cesetleri sattığını öğrendik. İdare ise buna göz yumdu; çünkü Malle açlık sınırında çalışıyor ve asla zam istemiyordu.
+$GEN_029_DOC_01_01
+Malle, iki haftadır kayıp olan Marquis de Civrac’ın kızı Laura Dufort’u öldürmek ve kalıntılarını aşağılamakla suçlanıyor. Ulusal Muhafızlar, olayı <a name="4" class="hidden">Jules Marot</a>’dan öğrendi; kendisi, mezarcıdan bir kafatası satın alan bir tıp öğrencisi. Ders çalışmak için aldığı bu kafatası, Marot’nun yakın arkadaşı ve kayıp olan Laura Dufort’a ait çıktı.
+$GEN_029_DOC_01_02
+Kendi keşfi karşısında şoke olan adam, soruşturmaya bizzat dahil oldu. Malle’nin evinde arama yapan polise yardım etti ve aslında kızın başı kesilmiş cesedini <a name="6" class="hidden">bir odunlukta saklanmış halde</a> bulan da oydu.
+$GEN_029_DOC_01_03
+Daha sonra, öldürülen Laura'nın babası, kızının <a name="7" class="hidden">sık sık mezarlığı ziyaret ettiğini</a> ifade etti. Laura, 1792'de Tuileries Kuşatması sırasında ölen İsviçreli Muhafız subayı olan kuzeninin mezarına gidiyordu. Defalarca, yerel mezarcılardan şikayetçi olduğu ortaya çıktı; onlardan bazılarının <a name="8" class="hidden">kendisine uygunsuz şekilde yaklaştığını</a> iddia etmişti. İçlerinden biri bir keresinde onu kovalamış, fakat suçluyu tespit edip cezalandırmak zor olmuştu.
+$GEN_029_DOC_01_04
+Delil:
+Laura Dufort’un <a name="9" class="hidden">kafatası</a>.
+$GEN_029_OnStart_00
+Lütfen kendinizi tanıtınız.
+$GEN_029_OnStart_01
+Bana… insanlar bana “Kâbus” derler.
+$GEN_029_OnStart_02
+Senden lakabını değil, adını ve soyadını soruyorum.
+$GEN_029_OnStart_03
+Ah… şey… annem bana Edmond adını vermiş. Edmond Malle.
+$GEN_029_OnStart_04
+Marquis de Civrac Hector Dufort’un kızını öldürmekle, kalıntılarını aşağılamakla ve kafatasını satmakla suçlanıyorsunuz. Bu suçlamalara karşı ne diyorsunuz?
+$GEN_029_OnStart_05
+Kalıntıların sanığın evinde bulunduğunu belirtmek isterim.
+$GEN_029_OnStart_06
+Daha önce onları hiç görmedim.
+$GEN_029_OnStart_07
+Onları oraya sizin saklamadığınızı mı ima ediyorsunuz?
+$GEN_029_OnStart_08
+Ben mi? Yok, ben ona dokunmadım. Neden cesedini saklayayım ki?
+$GEN_029_OnStart_09
+Tabii, biri de o cesedi şaka olsun diye oraya attı, öyle mi?
+$GEN_029_OnGuilty_00
+Vatandaş Edmond Malle’ı giyotine mahkûm ediyorum! Mahkûmu dışarı çıkarın.
+$GEN_029_OnGuilty_01
+Paris artık daha güvenli bir yer olacak.
+$GEN_029_OnGuilty_02
+Harika!
+$GEN_029_OnGuilty_03
+Hakkını buldu!
+$GEN_029_OnGuilty_04
+Kafatasını öğrencilere satın!
+$GEN_029_OnPrison_00
+[Bu bir örnektir, değiştirilmesi gerekiyor!!!!]
+$GEN_029_OnNotGuilty_00
+Edmond Malle hakkındaki hüküm... suçsuz! Sanığı götürün.
+$GEN_029_OnNotGuilty_01
+Eğer o değilse, onu kim öldürdü?
+$GEN_029_OnNotGuilty_02
+Ne yazık. Oysa ne güzel bir kafa kesimi olabilirdi…
+$GEN_029_09x05_00_QTitle
+Jules Marot’ya sattığınız kafatası bu mu?
+$GEN_029_09x05_00_00
+Bu, Jules Marot’ya sattığınız kafatası mı?
+$GEN_029_09x05_00_01
+Aldığında öyle görünmüyordu.
+$GEN_029_09x05_00_02
+Ne demek istiyorsunuz?
+$GEN_029_09x05_00_03
+Vallahi, alabaster kadar bembeyaz olmuş, ama ben böyle saçmalıklarla uğraşacak vaktim yok. Kaynatacaksın, güneşte kurutacaksın, yine kaynatacaksın, yine kurutacaksın... Hem kirli olanlara da neredeyse aynı parayı veriyorlar.
+$GEN_029_09x05_00_04
+Peki, bu kafatasını kim temizledi?
+$GEN_029_09x05_00_05
+Onu kimin aldığını sor. Yani, öğrenciyi.
+$GEN_029_09x05_00_06
+Konuya olan bilginize bakılırsa, kemikleri temizlemekte hiç zorlanmazsınız.
+$GEN_029_09x05_00_07
+Eskiden ben de öyle yapardım, ama dediğim gibi, değmez.
+$GEN_029_09x05_00_08
+Bu ucubeler nereden çıkıyor?
+$GEN_029_01x08_01_QTitle
+Sanık, Laura Dufort’u zina yapmaya ikna etmeye çalıştı mı?
+$GEN_029_01x08_01_00
+Sanık, Laura Dufort’u zina yapmaya ikna etmeye çalıştı mı?
+$GEN_029_01x08_01_01
+Bilirsiniz köyde ne derler, bir kıza ıslık çalmazsan sana kızar. Ama ben başka bir şey yapmadım.
+$GEN_029_01x08_01_02
+Açık konuşun. Ona seslendiniz mi, seslenmediniz mi?
+$GEN_029_01x08_01_03
+Bir şeyler söyledim... hani, “Yukarı çıkalım mı, güzelim?” gibisinden. Ama sadece laftı bu!
+$GEN_029_01x08_01_04
+Mağdur bu... konuşmaya nasıl tepki verdi?
+$GEN_029_01x08_01_05
+Bir keresinde bana hiç hanımefendilere yakışmayacak şekilde küfretti, üstüme taş attı ve kapıdan kaçıp gitti. Doğru, o zaman ona bayağı sinirlenmiştim.
+$GEN_029_01x08_01_06
+İşte sebep! O yamyam vahşi intikam peşindeydi!
+$GEN_029_01x08_01_07
+Onu bu yüzden mi öldürdünüz?
+$GEN_029_01x08_01_08
+Hayır! Etek peşinde koşarım belki, ama katil değilim!
+$GEN_029_02x03_02_QTitle
+Aristokrasi hakkında ne düşünüyorsunuz?
+$GEN_029_02x03_02_00
+Aristokrasi hakkında ne düşünüyorsunuz?
+$GEN_029_02x03_02_01
+Cerahat dolu asalakların kafası kesilmeli. Şimdi moda olan bu, değil mi?
+$GEN_029_02x03_02_02
+Devrimi bir moda olarak nitelendirmek, ezilenlerin bu soylu hareketine hakarettir; bu–
+$GEN_029_02x03_02_03
+Yeter artık! Hepimiz Devrim’in doğasını biliyoruz. Yani, sanık tüm aristokratları öldürmek mi isterdi?
+$GEN_029_02x03_02_04
+Aynen.
+$GEN_029_02x03_02_05
+Bu açık bir motivasyon ve kesin bir delildir.
+$GEN_029_02x03_02_06
+Kadın aristokratlar da dahil mi?
+$GEN_029_02x03_02_07
+Aman yok, yok, ha ha! Hanımlar iyidir, yargıç bey, onlardan faydalanmasını biliriz. Soylu olanlar da, bilirsiniz, daha bakımlı oluyor.
+$GEN_029_04x05_03_QTitle
+Tanığı çağırın.
+$GEN_029_04x05_03_00
+Tanığı çağırın.
+$GEN_029_04x05_03_02
+Lütfen kendinizi tanıtınız.
+$GEN_029_04x05_03_03
+Jules Marot, sayın yargıç.
+$GEN_029_06x03_04_QTitle
+Sanık, Laura Dufort’un kalıntıları nasıl oldu da sizin odunluğunuza girdi?
+$GEN_029_06x03_04_00
+Sanık, Laura Dufort’un kalıntıları nasıl oldu da sizin odunluğunuza girdi?
+$GEN_029_06x03_04_01
+Nereden bileyim ben?!
+$GEN_029_06x03_04_02
+Artık itiraf et de bu iş bitsin!
+$GEN_029_06x03_04_03
+Sanığın kullandığı bir yapıda başı kesilmiş bir ceset bulunduğunda, apaçık sonuçları görmezden gelmek zordur.
+$GEN_029_06x03_04_04
+Hadi ama efendim! Eğer ben... hani, anladınız ya... şunu bunu yapsaydım, onu kulübede tutmaz, gömerdim! Mezarlığın anahtarları bende, onu bir mezara atardım, kimse de asla bulamazdı.
+$GEN_029_06x03_04_05
+Onun bahanelerine kulak asmayın. Eğer onu evine götürüp tecavüz edip öldürmek isteseydi, cesedi yakın olduğu için kulübesine saklardı.
+$GEN_029_06x03_04_06
+Buna nasıl karşılık verirsiniz?
+$GEN_029_06x03_04_07
+Kimseyi öldürmedim! Kulübenin kapısı sadece sürgülü, isteyen girip bir ceset bırakabilir! Orada yatıyor olması, onu benim öldürdüğüm anlamına gelmez!
+$GEN_029_06x03_04_08
+Sanık onu öldürmediyse, peki kim öldürdü?
+$GEN_029_06x03_04_09
+Bilmiyorum, belki de o öğrenci yapmıştır?
+$GEN_029_06x03_04_10
+Utanmaz tecavüzcü!
+$GEN_029_09x04_05_QTitle
+Mağdurun kafatasını çıkardığınızı kabul ediyor musunuz…?
+$GEN_029_09x04_05_00
+Mağdurun kafatasını alıp Vatandaş Marot’ya sattığınızı kabul ediyor musunuz?
+$GEN_029_09x04_05_01
+Hiçbir şeyi almadım, sattığım kafa da bu hanımefendinin değildi.
+$GEN_029_09x04_05_02
+Yani, cesetleri tahkir ettiğinizi kabul ediyor musunuz?
+$GEN_029_09x04_05_03
+Evet. Mecburum, yoksa ekmekle suyu bile alamam. Ama o onun kafası değildi.
+$GEN_029_09x04_05_04
+Peki, o kafatası kime aitti?
+$GEN_029_09x04_05_05
+Hiçbir fikrim yok. Onları en yoksul zavallıların rastgele mezarlarından alıyorum, sadece hasar görmemişler mi diye bakıyorum.
+$GEN_029_09x04_05_06
+İğrenç!
+$GEN_029_09x04_05_07
+Buna kim izin veriyor?!
+$GEN_029_09x07_06_QTitle
+Sanık Laura Dufort’u tanıyor muydu?
+$GEN_029_09x07_06_00
+Sanık, Laura Dufort'u tanıyor muydu?
+$GEN_029_09x07_06_01
+Elbette. Hep o askerin mezarına giderdi, bir çiçek bırakır, Rab’bin Duası’nı okurdu. Ne iyi bir genç kızdı…
+$GEN_029_09x07_06_02
+Birbirinize yakın olduğunuzu söyleyebilir misiniz?
+$GEN_029_09x07_06_03
+Hayır. Ona her zaman kibarca selam verdim, konuşmaya çalıştım, ama o bana kedi gibi tısladı. Üstelik bunu yaşayan tek ben değildim.
+$GEN_029_09x07_06_04
+Ona karşı saldırgan mı davrandınız?
+$GEN_029_09x07_06_05
+Hiç bile, sadece biraz takılıyordum.
+$GEN_029_09x07_06_06
+Ne utanmaz bir serseri...
+$GEN_029_09x07_06_07
+Mezarlıkta ona rahatsızlık veren başka biri var mıydı?
+$GEN_029_09x07_06_08
+Kesinlikle! Orada her zaman ayyaşlar olurdu tabii, bir de benden kafatası alan o delikanlı var ya, şimdi beni katil diye suçluyor.
+$GEN_029_09x07_06_09
+Ona kafatasını satmadan önce onu tanıyor muydunuz?
+$GEN_029_09x07_06_10
+Sadece gördüm. Doktor olmaya çalıştığını bile bilmiyordum.
+$GEN_029_WIT_00_A_QTitle
+Öldürülen Laura Dufort ile aranızdaki ilişki neydi?
+$GEN_029_WIT_00_A_00
+Öldürülen Laura Dufort ile aranızdaki ilişki neydi?
+$GEN_029_WIT_00_A_01
+O, dünyadaki en yakın insandı bana. Onu hayatım boyunca tanıdım ve bu iğrenç serseri… Sayın yargıç, ben onu seviyordum.
+$GEN_029_WIT_00_A_02
+O da seni sevdi mi?
+$GEN_029_WIT_00_A_03
+Ne yazık ki hayır, ama eminim ki er ya da geç bana karşı bir şeyler hissederdi!
+$GEN_029_WIT_01_A_QTitle
+Sanığın sattığı kafatasının gerçekten kurbana ait olduğundan emin misiniz…?
+$GEN_029_WIT_01_A_00
+Sanığın sattığı kafatasının gerçekten kurbana ait olduğundan emin misiniz?
+$GEN_029_WIT_01_A_01
+Kesinlikle.
+$GEN_029_WIT_01_A_02
+Bu hükme bu kadar güvenmenizin sebebi nedir? Bunu kanıtlayabilir misiniz?
+$GEN_029_WIT_01_A_03
+Laura çocukken sağ üst kesici dişini kaybetmişti… ne yazık ki, bu benim suçumdu. O yüzden ona ait olduğunu anladım. Aman Tanrım…
+$GEN_029_WIT_01_A_04
+Belki de sadece bir tesadüftü.
+$GEN_029_WIT_01_A_05
+Sayın yargıç, ne söylediğimi biliyorum. Her şey olması gerektiği gibi: çene hattı, gözler arasındaki mesafe... O alçak muhtemelen Laura'ya tecavüz etti, onu öldürdü ve sonra da başını kesti!
+$GEN_029_WIT_01_A_06
+Malle sana kafatasını nerede bulduğunu söyledi mi?
+$GEN_029_WIT_01_A_07
+Evet, ama yalan söyledi. Sözde mezarlığın eski kısmından çıkarmış.
+$GEN_029_WIT_01_A_08
+Kimin kafatasının elinizde olduğunu ne zaman fark ettiniz?
+$GEN_029_WIT_01_A_09
+Şey... Onu çizmeye başladığımda benzerliği fark ettim.
+$GEN_029_WIT_01_B_QTitle
+Sanık ile mağdur arasındaki ilişkiyi nasıl tanımlarsınız?
+$GEN_029_WIT_01_B_00
+Sanık ile mağdur arasındaki ilişkiyi nasıl tanımlarsınız?
+$GEN_029_WIT_01_B_01
+O alçak, o mezarlığa her geldiğinde ona musallat oluyordu!
+$GEN_029_WIT_01_B_02
+Bunu kendi gözlerinizle gördünüz mü?
+$GEN_029_WIT_01_B_03
+Hayır, ama... Laura bana söyledi, bu da onun motivasyonunu kanıtlamaya yeter. Giyotinliği hak ediyor!
+$GEN_029_WIT_01_B_04
+Size tam olarak ne söyledi?
+$GEN_029_WIT_01_B_05
+Ona bağırdığını, iğrenç hareketler yaptığını ve sürekli yolunu kestiğini, onun da ondan kaçmak için mezarların arasında dolanmak zorunda kaldığını.
+$GEN_029_WIT_01_B_06
+Yani, onu her zaman mezarlığa siz mi götürmediniz?
+$GEN_029_WIT_01_B_07
+Onunla yalnızca bir kez geldim, çünkü genellikle tek başına gelmeyi tercih ederdi.
+$GEN_029_KEY_01
+Meşhur sapık
+$GEN_029_KEY_02
+Cinsel tacizden hüküm giydi
+$GEN_029_KEY_03
+Kayıp kız
+$GEN_029_KEY_04
+Jules Marot
+$GEN_029_KEY_05
+Öğrenciyle tanışma
+$GEN_029_KEY_06
+Bir odunlukta ceset
+$GEN_029_KEY_07
+Mezarlığın sık ziyaretçisi
+$GEN_029_KEY_08
+Mağduru taciz etme
+$GEN_029_KEY_09
+Laura’nın kafatası
+$GEN_029_LastDialog_00
+Acaba kafamı satın alacak biri çıkar mı…
+$GEN_029_UNIQUE_QUESTION_00
+Ceset nerede bulundu?
+$GEN_029_UNIQUE_ANSWER_CORRECT_00_00
+Bir odunlukta.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Bir bodrumda.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Bir fırında.
+$GEN_029_UNIQUE_QUESTION_01
+Öğrenci, Laura Dufort’un kafatasını nasıl tanıdı?
+$GEN_029_UNIQUE_ANSWER_CORRECT_01_00
+Dişi kırılmıştı.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Kafatasının büyüklüğüne göre.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Kafatasının şekline göre.
+$GEN_029_UNIQUE_QUESTION_02
+Sanık, cesetleri aşağılamasını nasıl açıkladı?
+$GEN_029_UNIQUE_ANSWER_CORRECT_02_00
+Maaşı düşüktü.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Bilim uğruna yapıyordu.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Sağlıksız bir arzu hissetti.

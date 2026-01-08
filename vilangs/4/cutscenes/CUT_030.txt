@@ -1,0 +1,138 @@
+$CUT_030_001_JUDGE
+Dein Blick war noch nie so leer.
+$CUT_030_002_JUDGE
+Aber heute… möchte ich, dass du stolz auf mich bist.
+$CUT_030_003_THUG
+Kommen Sie mit, Monsieur le Juge.
+$CUT_030_004_JUDGE
+Sohn!
+$CUT_030_005_BROTHER
+Willkommen… Bruder.
+$CUT_030_006_BROTHER
+Du hast so lange im Dunkeln geirrt.
+$CUT_030_007_JUDGE
+Bruno? Bist du das wirklich? Wie… wie ist das überhaupt möglich?
+$CUT_030_008_BROTHER
+Man hat Ihnen gesagt, was Sie zu denken hatten.
+$CUT_030_009_BROTHER
+Ich musste als des Vaters Lieblingssohn sterben, um neu geboren zu werden.
+$CUT_030_010_BROTHER
+Als sein Erzfeind.
+$CUT_030_011_JUDGE
+Ich verstehe nicht … Was soll das alles bedeuten?
+$CUT_030_012_BROTHER
+Ich bin zurückgekehrt, um euch alles zu nehmen, was ich durch euch verloren habe. Familie, Glück…
+$CUT_030_013_BROTHER
+Während Sie ein behagliches Familienleben geführt haben, kroch ich durch den Schlamm des Schlachtfelds.
+$CUT_030_014_JUDGE
+Wir dachten alle, du wärst tot.
+$CUT_030_015_BROTHER
+So war es doch viel einfacher, nicht wahr? Ich war tot und bin durch die Hölle gegangen, lieber Bruder.
+$CUT_030_016_BROTHER
+Paris hat mich verstoßen, bei meinem Namen fielen überall die Türen ins Schloss.
+$CUT_030_017_BROTHER
+In diesem Moment griff die Hölle nach mir.
+$CUT_030_018_BROTHER
+Ich trat der Armee bei, in der Hoffnung auf einen ehrenvollen Tod.
+$CUT_030_019_BROTHER
+Stattdessen wurde ich gefangen genommen. Verschleppt. Und ich habe gelitten.
+$CUT_030_020_BROTHER
+Die Feinde haben mit mir ein Würfelspiel gespielt.
+$CUT_030_021_BROTHER
+Wenn ich gewänne, wäre ich frei.
+$CUT_030_022_BROTHER
+Doch für jede verlorene Runde würde ich auch eine Hand verlieren.
+$CUT_030_023_BROTHER
+Die erste Runde habe ich gewonnen…
+$CUT_030_024_BROTHER
+… aber der zweite…
+$CUT_030_025_BROTHER
+Ich konnte entkommen und begann, meine Rache zu planen – an unserer Familie, an unserem Vater.
+$CUT_030_026_BROTHER
+An alle, die mich verstoßen hatten.
+$CUT_030_027_JUDGE
+Rache? An uns? Gib lieber Clément Renard die Schuld, er war es, der–
+$CUT_030_028_BROTHER
+Ich gebe euch allen die Schuld! Vater, dir, Frankreich…
+$CUT_030_029_JUDGE
+Willst du deiner eigenen Familie schaden?!
+$CUT_030_030_BROTHER
+Du hast mich verstoßen! Wie Gott Kain verstoßen hat.
+$CUT_030_031_BROTHER
+Vater hat seinen eigenen Sohn verstoßen, und du hast nicht einmal versucht, mich zu verteidigen.
+$CUT_030_032_JUDGE
+Ich war noch jung …
+$CUT_030_033_BROTHER
+Jetzt bist du erwachsen, und unser Vater wird zusehen, wie du immer tiefer in den Abgrund der Schande stürzt.
+$CUT_030_034_BROTHER
+Früher oder später wird er dich im Stich lassen, so wie er mich im Stich gelassen hat.
+$CUT_030_035_BROTHER
+Mir ist klar geworden, dass der Tod ihm nicht so sehr wehtun wird,
+$CUT_030_036_BROTHER
+wie zuzusehen, wie auch sein anderer Sohn auf den Grund sinkt und zum Schurken wird.
+$CUT_030_037_BROTHER
+Und du hast dich hervorragend geschlagen. Du hast sie vernichtet.
+$CUT_030_038_BROTHER
+Die Rolands.
+$CUT_030_039_BROTHER
+Pache und seine Tochter.
+$CUT_030_040_BROTHER
+Gobel und seinen Bastardsohn.
+$CUT_030_041_BROTHER
+Und nun Robespierre.
+$CUT_030_042_BROTHER
+Du hast genau nach meinem Plan gehandelt. Alles, was ich tun musste, war, deinen Hunger nach Macht zu wecken.
+$CUT_030_043_BROTHER
+Ich habe dafür gesorgt, dass du mit mir fällst – direkt vor den Augen unseres Vaters.
+$CUT_030_044_BROTHER
+Jetzt wird er sehen, dass wir gleich sind.
+$CUT_030_045_JUDGE
+War der Tod meines Sohnes auch Teil deines Plans?
+$CUT_030_046_BROTHER
+Ich habe ihn durch die Hände von Renard und deinem geliebten Mentor richten lassen.
+$CUT_030_047_BROTHER
+Ich habe ihn aufgesucht und ihn die Geschichte von seinem inhaftierten Sohn glauben lassen.
+$CUT_030_048_BROTHER
+Dann wurde auch er einer von uns. Ein Ungeheuer.
+$CUT_030_049_BROTHER
+Er half mir, dein Kind zu töten, um sein eigenes zu retten.
+$CUT_030_050_BROTHER
+Verstehst du, ich brauchte meine eigene Revolution.
+$CUT_030_051_BROTHER
+Ein Ort für jene, die ihr als Verbrecher bezeichnet, weil sie nicht in eure Gesellschaft passen.
+$CUT_030_052_BROTHER
+Ich führe eine Armee von Ausgestoßenen in Paris an.
+$CUT_030_053_BROTHER
+Eine Armee von Söhnen und Töchtern, die zu Waisen wurden, nachdem Sie ihre Mütter enthauptet haben.
+$CUT_030_054_BROTHER
+Menschen, die durch die Revolution alles verloren haben und verbannt wurden, gezwungen, in ein fremdes Land zu gehen.
+$CUT_030_055_BROTHER
+In wenigen Tagen werden wir Paris angreifen und auf seinen Trümmern ein neues Zuhause errichten. Ein Ort, an dem ein Vater stets beide Söhne im Blick behält.
+$CUT_030_056_JUDGE
+Bist du denn verrückt?!
+$CUT_030_057_BROTHER
+Warte nur, bis du erfährst, was ich mit deinem zweiten Sohn vorhabe…
+$CUT_030_058_JUDGE
+Er hat nichts getan!
+$CUT_030_059_BROTHER
+Jeder muss für die Sünden seiner Väter bezahlen – so wie ich für die Feigheit des unsrigen bezahlt habe.
+$CUT_030_060_BROTHER
+Wir werden zwei Runden würfeln.
+$CUT_030_061_BROTHER
+Für jede Runde, die du verlierst, verliert er eine Hand.
+$CUT_030_062_BROTHER
+Das ist der Preis, den auch ich zahlen musste. Jetzt ist dein Sohn an der Reihe.
+$CUT_030_063_BROTHER
+Der Preis ist angemessen für die Sünden, die du begangen hast.
+$CUT_030_064_JUDGE
+Ramel… mein Freund.
+$CUT_030_065_JUDGE
+Er hat mich gerettet.
+$CUT_030_066_JUDGE
+Er hat meinen Sohn gerettet.
+$CUT_030_067_JUDGE
+Doch er konnte nicht retten, was längst in tausend Stücke zerbrochen war.
+$CUT_030_068_JUDGE
+Ihre Augen waren nicht leer.
+$CUT_030_069_JUDGE
+Ihre Augen …

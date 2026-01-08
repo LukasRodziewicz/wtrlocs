@@ -1,0 +1,32 @@
+$DIAL_H_02_03_20_V1_001_JUDGE
+Finalmente, você veio.
+$DIAL_H_02_03_20_V1_002_DAVID
+Alexis... Seu irmão veio me procurar – aquele que deveria estar morto.
+$DIAL_H_02_03_20_V1_003_JUDGE
+Jacques, eu não sei o que ele–
+$DIAL_H_02_03_20_V1_004_DAVID
+Deixe-me terminar. Sempre enxerguei sua verdadeira natureza. Observei você buscando mais poder, alcançando novos patamares, mas só agora percebo quem você realmente se tornou. Agora que o conheci.
+$DIAL_H_02_03_20_V1_005_JUDGE
+Ele é um monstro!
+$DIAL_H_02_03_20_V1_006_DAVID
+Vocês dois são monstros. Infelizmente, pelo que ouvi, ele parece ser o menor dos dois males.
+$DIAL_H_02_03_20_V1_007_JUDGE
+Como pode dizer isso? Somos amigos. Ele... ele só quer voltar ao antigo regime!
+$DIAL_H_02_03_20_V1_008_DAVID
+Não, Alexis. Ele deseja de verdade igualdade e fraternidade. Ele quer que as pessoas rejeitadas pela Revolução possam voltar para suas casas.
+$DIAL_H_02_03_20_V1_009_JUDGE
+Você realmente acredita nisso? Olhe o que ele fez conosco!
+$DIAL_H_02_03_20_V1_010_DAVID
+Não é pior do que o que você fez com aqueles que cruzaram seu caminho. Sinto muito, meu amigo, mas nossa amizade termina aqui. Onde você traça o limite? Eliminar Robespierre foi longe demais. Já derramamos sangue demais, Alexis, e agora tenho a chance de ao menos me redimir em parte.
+$DIAL_H_02_03_20_V1_011_JUDGE
+O que você vai fazer?
+$DIAL_H_02_03_20_V1_012_DAVID
+Vou me juntar ao seu irmão – isso precisa acabar. Vou liderar o exército dele e garantir que, depois disso, não haverá mais derramamento de sangue em nosso país!
+$DIAL_H_02_03_20_V1_013_JUDGE
+Você vai lutar contra mim e Ramel?
+$DIAL_H_02_03_20_V1_014_DAVID
+Não há ninguém ao seu lado. Já convenci seu guarda do tribunal a se juntar a nós, e Ramel acompanhou seu irmão quando ele me visitou. Pelo visto, ele sempre foi contra você.
+$DIAL_H_02_03_20_V1_015_JUDGE
+Ele me levou ao matadouro. Seu próprio amigo.
+$DIAL_H_02_03_20_V1_016_DAVID
+Adeus, Alexis. Só espero não ter que matá-lo da próxima vez que nos encontrarmos. A França já enterrou filhos demais.

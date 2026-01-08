@@ -1,0 +1,55 @@
+$DISC_INTR_001_B02_001_JUDGE
+Obywatelu Côté, dziękuję, że przyszliście.
+$DISC_INTR_001_B02_002_COTEY
+Ciężko odmówić osobie, która życie królów dzierży w swych dłoniach. Domyślam się, że nasze spotkanie ma mieć coś wspólnego z ministrem Roland.
+$DISC_INTR_001_B02_003_JUDGE
+Zgadza się, a konkretnie epizodem z pancerną szafą.
+$DISC_INTR_001_B02_004_COTEY
+Paskudna sprawa. Minister mógłby przez nią stracić głowę, ale póki co to tylko plotka…
+$DISC_INTR_001_B02_005_JUDGE
+No właśnie, ale gdyby nagle plotka zamieniła się w prawdę…
+$DISC_INTR_001_B02_006_COTEY
+Tak, mogłoby zrobić się nieprzyjemnie.
+$DISC_INTR_001_B02_007_JUDGE_AGGR
+Potrzebuję głowy Rolanda na tacy. To pasożyt, który korumpując polityków, szkodził całej Francji! Świadek otwarcia szafy króla musi się ujawnić. Ty, obywatelu!
+$DISC_INTR_001_B02_008_JUDGE_MANI
+Potrzebuję głowy Rolanda na tacy. Jego dni i tak są policzone, jedynie skrócimy ból – ludu Paryża, jak i samej Francji.
+$DISC_INTR_001_B02_009_JUDGE_JOKE
+Taca na głowę Rolanda jest już gotowa. Mogę być kuchmistrzem, mam nawet niezawodny przepis. Potrzebuję jednak pomocnika, który mi to wszystko przyprawi.
+$DISC_INTR_001_B02_010_JUDGE_HUMI
+Ty i ja, jako słudzy Francji, musimy doprowadzić upadek Rolanda do końca. Musimy upublicznić prawdę dla dobra idei, których przysięgaliśmy bronić.
+$DISC_INTR_001_B02_011_COTEY_SATI
+Roland zachowuje się, jakby sam prosił się o śmierć.
+$DISC_INTR_001_B02_012_COTEY_INTR
+Ciekawy punkt widzenia, słucham dalej.
+$DISC_INTR_001_B02_013_COTEY_DOUB
+Roland miał swoje wady, ale czy to uzasadnia zdradę, do której się mnie tutaj namawia?
+$DISC_INTR_001_B02_014_JUDGE_AGGR
+Jeśli dobro Francji ci nie wystarcza, to powiem, że pomagając mi, macie, obywatelu, większe szanse na zachowanie życia. W końcu można was oskarżyć o współudział w zbrodniach Rolanda.
+$DISC_INTR_001_B02_015_JUDGE_MANI
+Minister Roland nie jest człowiekiem, który będzie cię ratował, kiedy zrobi się gorąco. Ja mogę. Na przykład od zarzutu o współudział.
+$DISC_INTR_001_B02_016_JUDGE_JOKE
+Trudno tak naprawdę stwierdzić, kto jest właściwym ministrem – pan Roland czy jego żona, madame Roland. Ale gdy usłyszysz zarzut współudziału, nie będzie to miało znaczenia.
+$DISC_INTR_001_B02_017_JUDGE_HUMI
+Jeśli zgodzisz się przemówić jako świadek, uczynisz wielką przysługę Francji, a ona nie zapomina. Ja nie zapominam.
+$DISC_INTR_001_B02_018_JUDGE_AGGR
+Minister Roland jest skończony – brak jedynie świadka tamtych wydarzeń. Wy, obywatelu, ujawnicie jego machlojki – inaczej skończycie na gilotynie razem z nim!
+$DISC_INTR_001_B02_019_JUDGE_MANI
+Przejście do obozu moich przyjaciół gwarantuje korzyści, które przerastają przykre konsekwencje odmowy – jak na przykład śmierć na gilotynie.
+$DISC_INTR_001_B02_020_JUDGE_JOKE
+Roland zasługuje na spotkanie z katem – dla uregulowania stanu błaznów w mieście. Nie jesteś błaznem, prawda?
+$DISC_INTR_001_B02_021_JUDGE_HUMI
+Wierzę w twoją mądrość, obywatelu Côté. Ona podpowie ci, że nie chcesz płacić za błędy Rolanda. A ja nie chcę ci wystawiać rachunku.
+$DISC_INTR_001_B02_022_COTEY_SATI
+Obraz sytuacji jest taki, że trwanie przy ministrze Rolandzie oznacza śmierć zaraz po nim. Wygląda na to, że jesteś zdeterminowany. Zgoda – znalazłeś świadka.
+$DISC_INTR_001_B02_023_COTEY_INTR
+Pomogę, będę świadkiem. Ciekawe, do czego to doprowadzi – oby, jak mówisz, do zachowania mojej głowy na karku.
+$DISC_INTR_001_B02_024_COTEY_DOUB
+Nie powiem, żeby to wszystko brzmiało przesadnie przekonująco. Pomogę, ale proszę pamiętać, że moja wiedza powiększyła się o to, co planujesz.
+
+$DISC_INTR_001_B02_COTEY_TOPIC_01
+Chcę dopaść Rolanda.
+$DISC_INTR_001_B02_COTEY_TOPIC_02
+Co on z tego będzie miał?
+$DISC_INTR_001_B02_COTEY_TOPIC_03
+Kij i marchewka.

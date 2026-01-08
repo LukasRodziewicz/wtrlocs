@@ -1,0 +1,58 @@
+#CRIME_001_NAME
+Provoquer la foule
+#CRIME_002_NAME
+Contre-révolution
+#CRIME_003_NAME
+Apologie de la monarchie
+#CRIME_004_NAME
+Trahison
+#CRIME_005_NAME
+Manquement au devoir
+#CRIME_006_NAME
+Népotisme
+#CRIME_007_NAME
+Corruption
+#CRIME_008_NAME
+Vol
+#CRIME_009_NAME
+Cambriolage
+#CRIME_010_NAME
+Destruction de biens
+#CRIME_011_NAME
+Proxénétisme
+#CRIME_012_NAME
+Agression
+#CRIME_013_NAME
+Mutilation
+#CRIME_014_NAME
+Tentative de meurtre
+#CRIME_015_NAME
+Meurtre
+#CRIME_016_NAME
+Torture
+#CRIME_017_NAME
+Profanation d'un cadavre
+#CRIME_018_NAME
+Pédophilie
+#CRIME_019_NAME
+Viol
+#CRIME_020_NAME
+Diffamation
+#CRIME_021_NAME
+Fraude
+#CRIME_022_NAME
+Spéculation sur les prix
+#CRIME_023_NAME
+Fraude financière
+#CRIME_024_NAME
+Subornation
+#CRIME_025_NAME
+Adultère
+#CRIME_026_NAME
+Désertion
+#CRIME_027_NAME
+Sorcellerie
+#CRIME_028_NAME
+Conduite en état d'ébriété
+#CRIME_029_NAME
+Danger pour la sécurité des routes

@@ -1,0 +1,24 @@
+$EVE_007_TITLE
+Tanrı Kraliçeyi Korusun
+$EVE_007_MAIN_01
+“Kendini Ramel olarak tanıtan kişi hakkında ne biliyorsun?” Herkes, birlikte çalıştığı insanların gerçeğini bilmeye hakkı vardır. Saat 22.00’de Café Procope’un arkasındaki ara sokakta buluşalım. Yalnız gel, Ramel’in geçmişiyle ilgili gerçeği öğreneceksin. Bu senin iyiliğin için.
+$EVE_007_MAIN_01_C1
+Toplantıya git
+$EVE_007_MAIN_01_C2
+Toplantıya gitme
+$EVE_007_MAIN_02A
+Sokağa vardığınızda neredeyse kimse yok; yalnızca bir sarhoş ya da eğlenen bir öğrenci göze çarpıyor. Sesleniyorsunuz, ama yanıt veren olmuyor. Size notu göndereni aramaya fazla dalmışken, yerde bir şeye takılıyorsunuz. Ayaklarınızın dibinde, boğazı kesilmiş bir adamın cesedi yatıyor. Muhtemelen, beklediğiniz muhbir buydu. Cesedi arıyorsunuz, fakat durumu açıklayacak hiçbir şey bulamıyorsunuz. Ardından aceleyle uzaklaşıyor, arkanızı kollayarak yolunuza devam ediyorsunuz.
+$EVE_007_MAIN_03A
+Eskiden sokaklarda yaşardım, bulduğumu ya da çaldığımı yiyerek hayatta kalırdım. Sonra casusluk yapmaya başladım, geçimimi bilgi satarak sağladım. Yakın zamanda Britanya mahkemesinin çevresinde biraz vakit geçirdim. Oraya kimin gönderdiğini söylemeyeceğim. Geçmişim sanki bana ulaşmaya çalışıyor… Neden şimdi, nihayet kendim ve bir başkası için inandığım bir şey yaparken? Sana tavsiyem, karanlık sokaklarda yabancılarla buluşmaktan kaçınman… Eğer biri hayatım hakkında ayrıntılı şeyler bildiğini iddia ediyorsa, muhtemelen beni öldürmek istiyordur.  RAMEL.
+$EVE_007_MAIN_04B
+Bir hata yaptınız. Size iyi niyetimizin göstergesi olarak bilgiyi ücretsiz vermek istemiştik. Size, arkadaşınız hakkında bazı şeyleri bilen birini gönderdik, fakat bugün onun boğazının kesildiğini öğrendik. Size son bir şans veriyoruz. Ramel’le ya da ona her ne isim veriyorsanız onunla bir buluşma ayarlayın, yoksa bizim adamımızın akıbetini paylaşmayı tercih etmiş olursunuz. Onunla bugün saat 21.00’de, aynı yerde buluşmak istiyoruz.
+$EVE_007_MAIN_04B_C1
+Casus Gönder
+$EVE_007_MAIN_04B_C2
+Muhafızları Gönder
+$EVE_007_MAIN_05A
+Bunca kesilmiş boğaz, suç istatistiklerini kesinlikle artıracaktır. Mektubun yazarları, casusunuzun eski ve öfkeli dostlarıydı. Görünüşe göre Ramel bıçağına oldukça bağlıydı ve onu, kendisini öldürmeye gelen üçlüye karşı acımasız bir ustalıkla kullandı. Son kurbanının acılarına son vermeden önce, Paris toplumunun karanlık derinlikleri hakkında birkaç kelime koparmayı başardı. Belki bu bilgiyi bir şekilde kullanabilirsiniz.
+$EVE_007_MAIN_05B
+Bir yandan sinsice yaklaşan bir kediyle, öte yandan öfkeli boğalarla karşı karşıya kaldınız. Şüphesiz, şimdiye dek Le Procope yakınlarındaki çatışmaları duymuşsunuzdur. Buluşmanız gereken üçlünün tamamı öldü. Üstelik, civardaki bir dükkân yandı ve rastgele sıkılan kurşunlar bir fırıncıyla bir Muhafızı yaraladı. Kırılan camlardan bahsetmiyorum bile... Le Procope’un şimdiki sahibi, Muhafızların sizin adamlarınız olduğunu fark etti. Artık her misafir, Paris sokaklarında silahlı çatışmalar düzenleyen Mahkeme yargıcını konuşacak.
+$EVE_007_MAIN_05C
+Üç kişiye karşı bir. Casusunuz yetenekli, ama üç deneyimli İngiliz ajanıyla karşı karşıya geldiğinde o bile yara almadan kurtulamadı. Bunu bu seferlik beraberlik sayın. Üçü de öldü, fakat Ramel ağır yaralı. Tehlikeyi burnunuzun dibinde belirdiğinde asla hafife almayın…

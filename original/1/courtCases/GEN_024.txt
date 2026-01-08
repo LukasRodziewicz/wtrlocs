@@ -1,0 +1,211 @@
+$GEN_024_DOC_01_HEADER
+Compiled by: Nathan d’Essiraf
+$GEN_024_DOC_01_00
+Denis Decoin is a 41-year-old writer and journalist from the <a name="1" class="hidden">impoverished aristocracy</a>, and is currently working as the editor-in-chief of the “Liberté!” journal. At first the paper was hugely popular among Parisians and radicals for pointing out the need for radical political and social changes. However, it recently underwent a <a name="3" class="hidden">reorientation</a> and the paper has started publishing articles that criticise the Revolutionary authorities.
+$GEN_024_DOC_01_01
+After Decoin published a piece about the Committee of Public Salvation, one of its representatives, Jean-Pierre-André Amar, accused him of having illegal sources of revenue and being engaged in hostile propaganda funded by the Counter-Revolutionaries.
+$GEN_024_DOC_01_02
+Decoin was allegedly writing articles that discredited the authorities of the Revolution commissioned by aristocrats who have left the country. The accused received this money through <a name="7" class="hidden">Madame Joan Casta</a>, who sells expensive dresses. Madame Casta testified to this during her own trial in front of Judge Amar, where she was accused of espionage. Witnesses also admitted that the journalist frequently visited Madame Casta under the pretext of buying something for his wife, and that they always met <a name="8" class="hidden">at the back of the store</a>.
+$GEN_024_DOC_01_03
+The investigators who searched Decoin’s house found a box hidden under the living room floor. Inside were <a name="9" class="hidden">7,000 francs</a>, corroborating Madame Casta’s statement.
+$GEN_024_DOC_02_00
+<a name="10" class="hidden">Article</a> published in “Liberté!”:
+Scandal in the Committee of Public Salvation! Is its president, Mr Amar, taking bribes for issuing certificates of civism?!
+$GEN_024_DOC_02_01
+<a name="11" class="hidden">Receipt</a>: MAY – 2 dresses – 180 fr. Cash placed in Madame Casta’s cash box. R. M. Moulin
+$GEN_024_OnStart_00
+State your name, please.
+$GEN_024_OnStart_01
+I am Denis Decoin, editor-in-chief of the “Liberté!” journal and loyal Citizen of Paris.
+$GEN_024_OnStart_02
+Citizen Decoin, you are accused of spreading Counter-Revolutionary propaganda for your own financial benefit.
+$GEN_024_OnStart_03
+Those accusations stem from a plot conjured up against me because I have revealed the wrongs within the Committee of Public Salvation. The architect of this attack against independent journalism is none other than Jean-Pierre-André Amar, the representative of the Committee!
+$GEN_024_OnGuilty_00
+I sentence Denis Decoin to be guillotined! Lead the condemned out.
+$GEN_024_OnGuilty_01
+One less pest.
+$GEN_024_OnGuilty_02
+What if he was right?
+$GEN_024_OnGuilty_03
+That will teach them not to mess with people’s heads.
+$GEN_024_OnNotGuilty_00
+The judgement for Denis Decoin is… not guilty! Take the defendant away.
+$GEN_024_OnNotGuilty_01
+You believed the enemy of the Republic?
+$GEN_024_OnNotGuilty_02
+Can’t you see he’s a traitor?!
+$GEN_024_OnNotGuilty_03
+End him on the guillotine!
+$GEN_024_04x11_00_QTitle
+How much do you earn every month?
+$GEN_024_04x11_00_00
+How much do you earn every month?
+$GEN_024_04x11_00_01
+Lately, only about 300–400 francs. Unfortunately, the press is not as profitable as it once was. There’s been a decline in readership…
+$GEN_024_04x11_00_02
+With such a salary, how were you able to spend a total of 180 francs on dresses this month alone?
+$GEN_024_04x11_00_03
+I was pinching and scraping.
+$GEN_024_04x11_00_04
+On what? Bread or cheese? You do not look like a hungry fellow.
+$GEN_024_04x11_00_05
+And you spent those savings on superfluous clothing?
+$GEN_024_04x11_00_06
+There is nothing more important than my wife’s happiness.
+$GEN_024_07x09_01_QTitle
+What is the source of the money found in your house?
+$GEN_024_07x09_01_00
+What is the source of the money found in your house?
+$GEN_024_07x09_01_01
+It is my share of the inheritance from my late uncle, Roger Decoin.
+$GEN_024_07x09_01_02
+The evidence indicates that the accused received it from the Counter-Revolutionaries as payment for his articles criticising the current authorities.
+$GEN_024_07x09_01_03
+I inherited it! I am an independent journalist and I do not write at anyone’s request. And especially not at the request of Counter-Revolutionaries!
+$GEN_024_07x09_01_04
+Joan Casta does not agree.
+$GEN_024_07x09_01_05
+She probably reported me to distract you from her own misdeeds.
+$GEN_024_07x09_01_06
+Then why did you hide that money under the floor instead of depositing it in a bank, as any sane person would?
+$GEN_024_07x09_01_07
+I do not trust banks, and I hid the money to protect it from thieves.
+$GEN_024_07x08_02_QTitle
+Why were you meeting with Joan Casta at the back of her store?
+$GEN_024_07x08_02_00
+Why were you meeting with Joan Casta at the back of her store?
+$GEN_024_07x08_02_01
+We were working out details regarding my wife’s new dresses.
+$GEN_024_07x08_02_02
+Citizen Casta testified that it was then that she handed you the money to write libellous articles.
+$GEN_024_07x08_02_03
+Jean-Pierre-André Amar, the Judge who led her trial, forced her to testify this!
+$GEN_024_07x08_02_04
+Our judicial system does not resort to forceful methods of investigation.
+$GEN_024_07x08_02_05
+I will still take them into account. So you are not pleading guilty?
+$GEN_024_07x08_02_06
+Of taking money from Mrs Casta? Of course not, it was I who was paying her.
+$GEN_024_07x08_02_07
+You must admit that a man discussing the details of his wife’s dresses, instead of her doing so personally, is most unusual.
+$GEN_024_07x08_02_08
+I was paying for them.
+$GEN_024_07x08_02_09
+Maybe he wears them himself?
+$GEN_024_05x10_03_QTitle
+Who hired you to attack the representative of the Committee of Public Salvation?
+$GEN_024_05x10_03_00
+Who hired you to attack the representative of the Committee of Public Salvation?
+$GEN_024_05x10_03_01
+There was no commission. I found out that Amar had demanded a bribe from Fabiene Roelle for issuing him a certificate of civism, even though Roelle fully deserved it for being an active supporter of the Revolution.
+$GEN_024_05x10_03_02
+How did you learn this information?
+$GEN_024_05x10_03_03
+From Roelle. He came to the paper himself to tell that story.
+$GEN_024_05x10_03_04
+Can Citizen Roelle confirm your account?
+$GEN_024_05x10_03_05
+No. He refused to pay the bribe, so Amar did not issue his certificate. This led to Roelle's arrest and execution for being an enemy of the state. That’s how Amar operates!
+$GEN_024_05x10_03_06
+So, an enemy of the state who was facing trial came to you and asked you to smear a public official?
+$GEN_024_05x10_03_07
+That is not how I see it.
+$GEN_024_05x10_03_08
+What is your interpretation then?
+$GEN_024_05x10_03_09
+An honest, innocent man was desperately seeking help in his fight with a corrupt bureaucrat.
+$GEN_024_02x03_04_QTitle
+Why did “Liberté!” all of a sudden start criticising the authorities?
+$GEN_024_02x03_04_00
+Why did “Liberté!” all of a sudden start criticising the authorities? In the past, you wrote about them in glowing terms.
+$GEN_024_02x03_04_01
+There was no sudden change, I have only criticised them in justified cases. It is my duty as a journalist to inform people whenever the authorities are abusing their power.
+$GEN_024_02x03_04_02
+By justified, you mean paid for by political enemies of the Revolution?
+$GEN_024_02x03_04_03
+My readers are paying me, not politicians.
+$GEN_024_05x07_05_QTitle
+Was Joan Casta the one dictating to you the subjects of your slanderous articles…?
+$GEN_024_05x07_05_00
+Was Joan Casta the one dictating to you the subjects of your slanderous articles that attacked the authorities?
+$GEN_024_05x07_05_01
+This is ridiculous. Madame Casta was selling me dresses for my wife, that is all.
+$GEN_024_05x07_05_02
+Then who was really ordering them?
+$GEN_024_05x07_05_03
+The people of Paris who wish to know the truth.
+$GEN_024_05x07_05_04
+Speeches will not help you, but telling us the names of the culprits could.
+$GEN_024_05x07_05_05
+Nobody paid me for that article.
+$GEN_024_01x09_06_QTitle
+What would you do to recover the lost wealth of the Decoin family?
+$GEN_024_01x09_06_00
+What would you do to recover the lost wealth of the Decoin family?
+$GEN_024_01x09_06_01
+Whatever I could.
+$GEN_024_01x09_06_02
+So you would also take money from traitors and enemies of the people?
+$GEN_024_01x09_06_03
+Monsieur le juge, these are the methods of the Inquisition! I meant whatever I could legally do!
+$GEN_024_01x09_06_04
+What were you doing then?
+$GEN_024_01x09_06_05
+I was working relentlessly, that is what I was doing. Is that still not enough?
+$GEN_024_KEY_01
+Impoverished aristocracy
+$GEN_024_KEY_02
+Popularity among Parisians
+$GEN_024_KEY_03
+Reorientation of “Liberté!”
+$GEN_024_KEY_04
+Illegal sources of revenue
+$GEN_024_KEY_05
+Hostile propaganda
+$GEN_024_KEY_06
+Commissions ordered by aristocrats
+$GEN_024_KEY_07
+Joan Casta
+$GEN_024_KEY_08
+The back of the store
+$GEN_024_KEY_09
+Cash in a hidden box
+$GEN_024_KEY_10
+Article in “Liberté!”
+$GEN_024_KEY_11
+Receipt from the store
+$GEN_024_LastDialog_00
+Yet again the sharks feast on small fish! France, know that I am innocent!
+$GEN_024_UNIQUE_QUESTION_00
+What was found in a box hidden in the defendant’s house?
+$GEN_024_UNIQUE_ANSWER_CORRECT_00_00
+Money.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_00_00
+A weapon.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Leaflets.
+$GEN_024_UNIQUE_QUESTION_01
+Decoin had recently bought many dresses. Where did he get the money?
+$GEN_024_UNIQUE_ANSWER_CORRECT_01_00
+He was saving.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_01_00
+He bought them on credit.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_01_01
+He exchanged the dresses for a newspaper advertisement.
+$GEN_024_UNIQUE_QUESTION_02
+What happened to Citizen de Roelle, who was the subject of the article in “Liberté!”?
+$GEN_024_UNIQUE_ANSWER_CORRECT_02_00
+He was executed.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_02_00
+He committed suicide.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_02_01
+He disappeared.
+$GEN_024_UNIQUE_QUESTION_03
+How did the accused explain the possession of such a large sum in cash?
+$GEN_024_UNIQUE_ANSWER_CORRECT_03_00
+He inherited it.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_03_00
+He saved it.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_03_01
+His wife earned it.

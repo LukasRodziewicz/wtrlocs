@@ -1,0 +1,242 @@
+$GEN_051_DOC_01_HEADER
+Zusammengestellt von: Charles Etienne
+$GEN_051_DOC_01_00
+	Marc Pinnet ist ein 42-jähriger Witwer und Meister der Pulverherstellung. Seine Angestellten schätzen ihn, er genießt allgemeine Achtung und ist nie mit dem Gesetz in Konflikt geraten. Dennoch haben ihn zwei seiner Mitarbeiterinnen des <a name="4" class="hidden">Vergewaltigung</a> beschuldigt.
+$GEN_051_DOC_01_01
+	Wegen der derzeit hohen Nachfrage nach Schießpulver in Paris arbeitet die Werkstatt Tag und Nacht und beschäftigt doppelt so viele Arbeiter wie sonst. Die Bürgerinnen Vaganay und Bacque sind erst seit wenigen Wochen dort tätig und kannten sich zuvor nicht.
+$GEN_051_DOC_01_02
+	Marc Pinnet soll beide während ihrer Nachtschichten im Lager hinter <a name="3" class="hidden">der Mühle</a> überfallen haben. Sie sagten aus, dass er sie mit einem Messer bedrohte und befahl, das Lager zu betreten und sich auszuziehen. Nachdem er fertig war, gab er beiden <a name="5" class="hidden">ein paar Kupfermünzen</a>.
+$GEN_051_DOC_01_03
+	Erst nach einigen Tagen, als sie von ihren gemeinsamen schrecklichen Erlebnissen erfuhren, wagten sie es, ihn anzuklagen.
+$GEN_051_DOC_01_04
+	Aus Solidarität mit den Verteidigern von Paris bitten wir um eine rasche Entscheidung im Fall von Marc Pinnet. In diesen Tagen ist Schießpulver für uns wertvoller als Gold.
+$GEN_051_OnStart_00
+Sind Sie Bürger Pinnet?
+$GEN_051_OnStart_01
+Das bin ich.
+$GEN_051_OnStart_02
+Sie wurden von zwei Bürgerinnen der Vergewaltigung beschuldigt.
+$GEN_051_OnStart_03
+Das ist ein Missverständnis. Ich habe ihnen gezahlt, was ihnen zustand. Warum sind sie jetzt auf mich schlecht zu sprechen?
+$GEN_051_OnStart_04
+Haben sie Sie selbst um dieses Geld gebeten?
+$GEN_051_OnStart_05
+Wenn sie es nicht gewollt hätten, hätten sie das Geld wohl kaum eingesteckt, oder?
+$GEN_051_OnStart_06
+Sie behaupten, Sie hätten ihnen mit einem Messer gedroht.
+$GEN_051_OnStart_07
+Ich habe es immer bei mir, aber ich habe niemandem gedroht.
+$GEN_051_OnGuilty_00
+Wer einer Pariserin Leid zufügt, verletzt uns alle. Schickt ihn zur Guillotine.
+$GEN_051_OnGuilty_01
+Ich habe nichts hinzuzufügen.
+$GEN_051_OnGuilty_02
+Ein Fachmann wird wegen so einer Lappalie getötet?
+$GEN_051_OnGuilty_03
+Wer wird jetzt wohl das Pulver für unsere Kanonen herstellen?
+$GEN_051_OnNotGuilty_00
+Es scheint sich tatsächlich um ein Missverständnis zu handeln. Sie können gehen, Bürger Pinnet.
+$GEN_051_OnNotGuilty_01
+Ich hoffe, dass solche Missverständnisse nicht allzu häufig vorkommen.
+$GEN_051_OnNotGuilty_02
+Korrekt!
+$GEN_051_OnNotGuilty_03
+Sie dachten, sie könnten einen so ehrenwerten Mann verleumden.
+$GEN_051_04x06_00_QTitle
+Bürgerin Bacque, bitte treten Sie näher.
+$GEN_051_04x06_00_00
+Bürgerin Bacque, bitte treten Sie näher.
+$GEN_051_01x03_01_QTitle
+Wie lange arbeiten Sie schon in der Fabrik?
+$GEN_051_01x03_01_00
+Wie lange arbeiten Sie schon in der Fabrik?
+$GEN_051_01x03_01_01
+Mein ganzes Leben lang, Monsieur le Juge. Ich fing als Lehrling an und erinnere mich sogar noch daran, als wir auf Dampfkraft umgestiegen sind.
+$GEN_051_01x03_01_02
+Können Sie beschreiben, wie Schießpulver hergestellt wird?
+$GEN_051_01x03_01_03
+Zuerst müssen die Zutaten mit speziellen Walzen sehr fein gemahlen werden, auch wenn manche Leute sie fälschlicherweise als Mühlen bezeichnen.
+$GEN_051_01x03_01_04
+Und was dann?
+$GEN_051_01x03_01_05
+Du vermischst alles nach den angegebenen Verhältnissen und gibst dann etwas Wasser dazu. Anschließend presst du die Mischung durch ein spezielles Sieb, das kleine Klümpchen hindurchlässt.
+$GEN_051_01x03_01_06
+Das klingt nicht nach einem komplizierten Vorgang.
+$GEN_051_01x03_01_07
+Man schätzt mich nicht wegen der Schwierigkeit meiner Arbeit, sondern weil am Ende jedes Tages genauso viele Arbeiter die Fabrik verlassen wie am Morgen gekommen sind. An so einem Ort reicht ein Funke, um eine Explosion auszulösen.
+$GEN_051_01x03_01_08
+Doch an manchen Tagen verlassen Ihre Angestellten die Arbeit in Schande.
+$GEN_051_01x03_01_09
+Anständige Frauen arbeiten nicht in der Fabrik. Die, die ich einstelle, haben ihren Ruf längst verloren.
+$GEN_051_02x05_02_QTitle
+Wenn Sie bereit waren, für Liebe zu bezahlen, warum haben Sie diese Frauen dann mit einem Messer bedroht?
+$GEN_051_02x05_02_00
+Wenn Sie bereit waren, für Liebe zu bezahlen, warum haben Sie diese Frauen dann mit einem Messer bedroht?
+$GEN_051_02x05_02_01
+Ich habe niemandem gedroht.
+$GEN_051_02x05_02_02
+Warum sollte er lügen?
+$GEN_051_02x05_02_03
+Warum haben sie dich dann angeklagt?
+$GEN_051_02x05_02_04
+Woher soll ich das wissen? Die wollen bestimmt mehr Geld.
+$GEN_051_02x05_02_05
+Ihnen droht die Guillotine, nicht bloß eine Geldstrafe.
+$GEN_051_02x05_02_06
+Warum tragen Sie ein Messer in der Fabrik bei sich?
+$GEN_051_02x05_02_07
+Es ist gut, so etwas dabei zu haben. Man kann damit etwas aufhebeln oder das Pulver auf seine Qualität prüfen.
+$GEN_051_02x05_02_08
+Hatten Sie es während des Vorfalls bei sich?
+$GEN_051_02x05_02_09
+Ja, aber ich habe es nicht herausgenommen.
+$GEN_051_02x05_02_10
+Sie hätten ihnen drohen können, ohne es zu zeigen.
+$GEN_051_02x05_02_11
+Einen Dummen kann man schon mit einem Löffel erschrecken.
+$GEN_051_03x02_03_QTitle
+Sie haben die Bürgerinnen Bacque und Vaganay ins Lagerhaus hinter der Mühle gebracht. Weshalb gerade dorthin?
+$GEN_051_03x02_03_00
+Sie haben die Bürgerinnen Bacque und Vaganay zum Lagerhaus hinter der Mühle gebracht. Weshalb dorthin?
+$GEN_051_03x02_03_01
+Dort lagern wir Säcke, auf denen man ganz bequem liegen kann.
+$GEN_051_03x02_03_02
+Wie laut ist die Mühle?
+$GEN_051_03x02_03_03
+Ziemlich laut.
+$GEN_051_03x02_03_04
+Laut genug, um Schreie zu übertönen?
+$GEN_051_03x02_03_05
+Ist das nicht offensichtlich?
+$GEN_051_03x02_03_06
+Liebe braucht ein wenig Privatsphäre.
+$GEN_051_03x02_03_07
+Er hat recht.
+$GEN_051_03x02_03_08
+Warum hast du sie nach der Arbeit nicht zu dir eingeladen? Dort hättet ihr noch mehr Privatsphäre gehabt.
+$GEN_051_03x02_03_09
+…
+$GEN_051_03x02_03_10
+Wie bitte?
+$GEN_051_03x02_03_11
+Daran habe ich nie gedacht.
+$GEN_051_03x02_03_12
+Und haben sie es nicht selbst vorgeschlagen, als Sie zuvor höflich mit ihnen gesprochen haben?
+$GEN_051_03x02_03_13
+…
+$GEN_051_03x02_03_14
+Wie ich vermutet habe – es gab kein Gespräch.
+$GEN_051_06x05_04_QTitle
+Diese Frauen beschuldigen Sie eines entsetzlichen Verbrechens.
+$GEN_051_06x05_04_00
+Diese Frauen beschuldigen Sie eines abscheulichen Verbrechens. Möchten Sie zu Ihrer Verteidigung etwas sagen?
+$GEN_051_06x05_04_01
+Sie wissen doch, wie Frauen sind, Monsieur le Juge – sie wissen selbst nie, was sie wollen.
+$GEN_051_06x05_04_02
+Ich bin mir sicher, dass sie nicht vergewaltigt werden wollten.
+$GEN_051_06x05_04_03
+Vielleicht war ich etwas direkt, aber ist das wirklich so schlimm? Sie haben weder geschrien noch geweint und das Geld genommen. Wo liegt also das Problem?
+$GEN_051_06x05_04_04
+Muss ich dir das wirklich erklären?
+$GEN_051_06x05_04_05
+Am Anfang wollten sie es selbst, aber dann bekamen sie Angst, dass ihre Bäuche wachsen könnten und ihre Ehemänner es herausfinden würden. Da ist es doch leichter, dem Mann die Schuld zu geben, oder? Denn mit den Frauen hat ja immer jeder Mitleid – und wen kümmert’s, wenn ich dafür meinen Kopf verliere.
+$GEN_051_WIT_00_A_QTitle
+Nachtschichten in einer Pulverfabrik scheinen keine Arbeit für Frauen zu sein.
+$GEN_051_WIT_00_A_00
+Nachtschichten in einer Pulverfabrik klingen nicht gerade nach Arbeit für Frauen.
+$GEN_051_WIT_00_A_01
+Pulver ist sehr gefragt, deshalb zahlen sie für die Nachtschichten gutes Geld.
+$GEN_051_WIT_00_A_02
+Haben Sie Geld gebraucht?
+$GEN_051_WIT_00_A_03
+Wer braucht das nicht? Alles ist inzwischen so teuer.
+$GEN_051_WIT_00_A_04
+Hat Bürger Pinnet Ihnen Geld angeboten, um seine Gelüste zu befriedigen?
+$GEN_051_WIT_00_A_05
+Nein, Monsieur Richter. Er kam direkt mit dem Messer.
+$GEN_051_WIT_00_A_06
+Haben Sie das Geld genommen?
+$GEN_051_WIT_00_A_07
+Ich habe es bei mir. Wenn Sie möchten, können Sie es armen Kindern geben, Monsieur le Juge. Oder es diesem Mann in den Hals stopfen.
+$GEN_051_WIT_00_A_08
+Warum haben Sie es überhaupt erst angenommen?
+$GEN_051_WIT_00_A_09
+Ich weiß nicht, alles ging so schnell. Ich kann mich kaum daran erinnern, wie ich meine Kleidung wieder angezogen habe…
+$GEN_051_WIT_01_A_QTitle
+Haben Sie versucht, sich zu wehren oder zu schreien?
+$GEN_051_WIT_01_A_00
+Haben Sie versucht, sich zu wehren oder zu schreien?
+$GEN_051_WIT_01_A_01
+…
+$GEN_051_WIT_01_A_02
+Ich weiß, es fällt Ihnen schwer, zu diesem Moment zurückzukehren, aber es ist wichtig.
+$GEN_051_WIT_01_A_03
+Ich hätte es versuchen können, aber es hätte nichts gebracht. Die Mühlen machen solchen Lärm, da hätte niemand etwas gehört.
+$GEN_051_WIT_01_A_04
+Haben Sie sich verteidigt?
+$GEN_051_WIT_01_A_05
+Wenn sie sich wirklich hätte verteidigen wollen, hätte sie nicht die ganze Nacht mit Männern gearbeitet.
+$GEN_051_WIT_01_A_06
+Nach der Schicht konnte ich meine Hände kaum noch bewegen. Er ist ein großer Kerl, kann sich Fleisch leisten, und packte mich mit einer Hand am Hals. Wenn er gewollt hätte, hätte er mir das Genick brechen können, so leicht wie einem Täubchen.
+$GEN_051_WIT_01_A_08
+Möchten Sie dazu Stellung nehmen?
+$GEN_051_WIT_01_A_09
+Sie hat sich nicht von mir losgerissen, und ich habe keinen Protest im Lagerhaus gehört. Wenn ihr etwas nicht gepasst hat, hätte sie es vorher sagen müssen.
+$GEN_051_WIT_01_B_QTitle
+Warum haben Sie so lange gezögert, bevor Sie die Anzeige erstattet haben?
+$GEN_051_WIT_01_B_00
+Warum haben Sie so lange gezögert, bevor Sie die Anzeige erstattet haben?
+$GEN_051_WIT_01_B_01
+Ich hatte Angst.
+$GEN_051_WIT_01_B_02
+Haben Sie nach dem Vorfall weitergearbeitet?
+$GEN_051_WIT_01_B_03
+Ja, ich brauche das Geld wirklich dringend. Ich habe jüngere Brüder, und mein Vater hat Atembeschwerden und kann nicht arbeiten.
+$GEN_051_WIT_01_B_04
+Kein Wunder, dass sie für ein paar Sous mit dem Meister mitgegangen ist.
+$GEN_051_WIT_01_B_05
+Was hat Sie dazu gebracht, Ihre Meinung zu ändern?
+$GEN_051_WIT_01_B_06
+Sogar mein Vater meinte, ich solle es einfach vergessen. Aber dann sah ich, wie Marie – ich meine Bürgerin Vaganay – ihn ansah… und da wurde mir klar, dass ich nicht allein bin. Allein ist es schwer, aber wenn man zu zweit ist… Sie verstehen doch, wovon ich spreche, oder?
+$GEN_051_WIT_01_B_08
+Möchten Sie dazu Stellung nehmen?
+$GEN_051_WIT_01_B_09
+Früher bin ich immer in dieses angenehme Bordell ein paar Minuten von der Fabrik gegangen. Jetzt ist es geschlossen – was soll ich denn tun?
+$GEN_051_KEY_01
+Schwarzpulver
+$GEN_051_KEY_02
+Tag und Nacht im Einsatz
+$GEN_051_KEY_03
+Mühle
+$GEN_051_KEY_04
+Vergewaltigung
+$GEN_051_KEY_05
+Kupfermünzen
+$GEN_051_KEY_06
+Denunziation
+$GEN_051_LastDialog_00
+Bastarde! Wartet nur, bis euch das Pulver ausgeht. Dann werdet ihr es bereuen!
+$GEN_051_UNIQUE_QUESTION_00
+Warum arbeitete das Opfer in einer Pulverfabrik?
+$GEN_051_UNIQUE_ANSWER_CORRECT_00_00
+Sie musste für ihren kranken Vater und ihre Brüder sorgen.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Sie brauchte Geld, damit ihr Mann sein Geschäft retten konnte.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ihre Mutter hat sich verschuldet.
+$GEN_051_UNIQUE_QUESTION_01
+Warum trug der Angeklagte ein Messer bei sich?
+$GEN_051_UNIQUE_ANSWER_CORRECT_01_00
+Um die Qualität des Pulvers zu prüfen.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Um Brot zu schneiden.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Um sich die Nägel zu säubern.
+$GEN_051_UNIQUE_QUESTION_02
+Hat das Opfer Geld für den Geschlechtsverkehr angenommen?
+$GEN_051_UNIQUE_ANSWER_CORRECT_02_00
+Ja.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Nein.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Sie erinnert sich nicht daran, Geld bekommen zu haben.

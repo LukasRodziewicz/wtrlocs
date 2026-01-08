@@ -1,0 +1,36 @@
+$DIAL_H_01_03_26_001_SON
+Tell him, mother.
+$DIAL_H_01_03_26_002_WIFE
+…
+$DIAL_H_01_03_26_003_JUDGE
+What?!
+$DIAL_H_01_03_26_004_SON
+Tell him, or I will.
+$DIAL_H_01_03_26_005_JUDGE
+What do you want her to tell me?!
+$DIAL_H_01_03_26_006_WIFE
+We heard that you have the mayor’s daughter…
+$DIAL_H_01_03_26_007_JUDGE
+Yes, the trial is scheduled for tomorrow.
+$DIAL_H_01_03_26_008_WIFE
+Does everything depend on you, then?
+$DIAL_H_01_03_26_009_JUDGE
+I will not do it.
+$DIAL_H_01_03_26_010_WIFE
+Why not?
+$DIAL_H_01_03_26_011_JUDGE
+It would be disreputable!
+$DIAL_H_01_03_26_012_WIFE
+And killing our children is not?!
+$DIAL_H_01_03_26_013_JUDGE
+I cannot, she is not to blame.
+$DIAL_H_01_03_26_014_SON
+Kill her.
+$DIAL_H_01_03_26_015_JUDGE
+You are so young, yet you talk about murder like it was nothing.
+$DIAL_H_01_03_26_016_SON
+Let them suffer like we did. Kill her. We want her blood! Sending my brother to the gallows was nothing to them.
+$DIAL_H_01_03_26_017_JUDGE
+You frighten me…
+$DIAL_H_01_03_26_018_WIFE
+You’ll truly be frightened if you won’t do as we said.

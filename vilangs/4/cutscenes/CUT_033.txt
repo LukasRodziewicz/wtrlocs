@@ -1,0 +1,94 @@
+$CUT_033_001_JUDGE
+Mathilde.
+$CUT_033_002_JUDGE
+Ich verstehe nicht.
+$CUT_033_003_JUDGE
+Vater.
+$CUT_033_004_JUDGE
+Hörst du mich?
+$CUT_033_005_GOD
+Immer.
+$CUT_033_006_GOD
+Ich habe dich wieder zusammengeflickt. Du wirst leben… zumindest vorerst.
+$CUT_033_007_JUDGE
+Wo bin ich? Wer sind Sie?
+$CUT_033_008_GOD
+Ich bin die Wahrheit über dein Unglück und die Lüge über deine Größe. Beide sind der Grund, warum du an diesem Ort bist.
+$CUT_033_009_GOD
+Wo alles begann.
+$CUT_033_010_JUDGE
+Ich verstehe das nicht.
+$CUT_033_011_GOD
+Ich habe all deine Wunden versorgt, wie immer. Du wirst leben… aber willst du das überhaupt?
+$CUT_033_012_GOD
+Bist du bereit zuzugeben, dass dies meine Vorstellung, meine Inszenierung ist?
+$CUT_033_013_JUDGE
+Mathilde. Ich liebe sie so sehr …
+$CUT_033_014_GOD
+Ich weiß… aber sie erwidert diese Liebe schon lange nicht mehr.
+$CUT_033_015_GOD
+Darum habe ich mich gekümmert.
+$CUT_033_016_JUDGE
+Wer zum Teufel sind Sie?
+$CUT_033_017_GOD
+Ich bin die Wahrheit, die die Lüge überwindet, die du dir selbst immer wieder erzählst. Die Lüge, dass du nur wegen der Macht hier bist.
+$CUT_033_018_GOD
+Für die vielen Entscheidungen und Enden. Dafür habe ich dich nicht erschaffen.
+$CUT_033_019_JUDGE
+Entworfen?
+$CUT_033_020_GOD
+Du sollst leiden, damit andere lachen oder trauern.
+$CUT_033_021_GOD
+Um zu fühlen.
+$CUT_033_022_GOD
+Jetzt triffst du die einzige Entscheidung, die wirklich zählt.
+$CUT_033_023_GOD
+Zu sterben und nie wieder etwas zu fühlen – oder wirklich zu erleben, was es heißt, ein wahrer Held zu sein.
+$CUT_033_024_JUDGE
+Ich bin Richter, nicht ein–
+$CUT_033_025_GOD
+Sag mir, wann hast du zuletzt alle Akten zu einem einzigen Fall gelesen?
+$CUT_033_026_GOD
+Wann haben Sie das letzte Mal wirklich alles gehört, was der Angeklagte zu sagen hatte?
+$CUT_033_027_GOD
+Ich brauche einen Helden, keinen Richter. Die Menschen wollen Helden sein.
+$CUT_033_028_JUDGE
+Wie denn? Meine Frau wollte mich umbringen. Meine Familie hasst mich.
+$CUT_033_029_GOD
+Kämpfe um ihr Leben.
+$CUT_033_030_JUDGE
+Die halbe Stadt will mich tot sehen.
+$CUT_033_031_GOD
+Kämpfe um Paris.
+$CUT_033_032_JUDGE
+Mein Bruder kommt mit einer unbesiegbaren Armee.
+$CUT_033_033_GOD
+Dann sei ein Schild für die Armen und Verängstigten, die sonst niemanden haben, der sie beschützt.
+$CUT_033_034_JUDGE
+Ein Schild...
+$CUT_033_035_GOD
+Ich könnte deine Wunden wieder aufreißen.
+$CUT_033_036_GOD
+und du wirst niemals wieder leiden.
+$CUT_033_037_GOD
+Paris würde fallen, aber da du kein Interesse zeigst, finde ich eben jemand anderen an deiner Stelle.
+$CUT_033_038_GOD
+Hier ist die Entscheidung, nach der du dich so sehr gesehnt hast.
+$CUT_033_DEATH_DEC
+Den Tod wählen
+$CUT_033_DEATH_DEC_001_GOD
+Ach, wie schade.
+$CUT_033_DEATH_DEC_002_GOD
+Nach all meiner Mühe …
+$CUT_033_DEATH_DEC_003_GOD
+Sie haben jedoch eine Entscheidung getroffen.
+$CUT_033_LIFE_DEC
+Das Leben wählen
+$CUT_033_LIFE_DEC_001_JUDGE
+Werden sie mich akzeptieren?
+$CUT_033_LIFE_DEC_002_GOD
+Sie müssen es nicht, aber du wirst sie trotzdem verteidigen.
+$CUT_033_LIFE_DEC_003_GOD
+Damit wirst du zur Legende, und eines Tages werden sie dich zu schätzen wissen.
+$CUT_033_LIFE_DEC_004_GOD
+Jetzt steh auf. Du musst ihn besiegen.

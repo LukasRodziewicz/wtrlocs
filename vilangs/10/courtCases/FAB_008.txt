@@ -1,0 +1,308 @@
+$FAB_008_DOC_1_HEADER
+Hazırlayan: Fabrice Poli
+$FAB_008_DOC_1_00
+Sanık Jeanne Marie Roland’dır; giyotinle idam edilen Louis Capet’ye sempati duyan bir bakanın eşidir. Kadın, vatana ihaneti kışkırtmak ve Konvansiyon milletvekillerini yozlaştırmakla suçlanıyor. İddiaya göre, milletvekillerini kendi yönetimindeki sözde siyasi salonda çalışan fahişelerin hizmetleriyle rüşvet vermek suretiyle kandırmıştır.
+$FAB_008_DOC_1_01
+Başlangıçta sanığın faaliyetleri hakkında pek az şey biliyorduk. Bir kadın olarak, erkeklere ayrılmış siyasi hayata <a name="2" class="hidden">katılmamış</a>, onun yerine iddiaya göre Paris’in ileri gelenlerinin güncel toplumsal ve siyasi meseleleri tartışmak için buluştuğu bir <a name="3" class="hidden">siyasi salon</a> düzenlemişti. Böyle toplantıların gerçekten yapıldığı doğruysa da, muhbirlerimizden öğrendiğimize göre bu buluşmalar ahlaken oldukça tartışmalı koşullarda gerçekleşiyordu. Tartışmacılar, namusları şüpheli kadınlar tarafından eğlendiriliyordu. Lüks olup olmadığı bir yana, Madam Roland esasen bir <a name="4" class="hidden">genelev</a> işletiyordu.
+$FAB_008_DOC_1_02
+Bilgi topladıkça, sanığın kocasının kariyerine müdahalesine dair dedikodular giderek daha inandırıcı hale geldi. Biliyoruz ki, becerikli kadın perde arkasında hareket ederek bakanın siyasi rakiplerinin desteğini kazanmayı başarmış, ikna edilemeyenleri ise kızlarının çıplak bedenleriyle ayartmıştı. Salonunda ağırladığı sırada, Meclis’in önde gelen üyelerinin <a name="6" class="hidden">farklı görüşleriyle</a> de tanışma fırsatı buldu. Sonuç olarak, kocasının kariyerini onun haberi olmadan bile yönlendirebildi.
+$FAB_008_DOC_1_03
+Yukarıdaki bulgular, sanık için <a name="7" class="hidden">“Giselle”</a> takma adıyla çalışan Isabelle Dugard tarafından doğrulandı. Kendisi, Madame Roland’ın defalarca <a name="8" class="hidden">üç adamı</a> evinde ağırladığını ifade etti; isimlerini bilmemekle birlikte, onları tereddütsüz “en aşağılık pislikler” olarak nitelendirdi. Bu kişilerle <a name="9" class="hidden">Yargıç Fidèle’e saldıran üç suikastçı</a> arasında kesinlikle bir bağlantı kurabiliriz. Kaç ölümde parmakları olabileceğini düşünmek bile korkunç.
+$FAB_008_DOC_1_04
+Elimizdeki bilgilere dayanarak, Madame Roland’ın Girondinler tarafından planlanan <a name="10" class="hidden">darbe</a>nin baş aktörlerinden biri olduğuna dair söylentilerin doğru olduğunu söyleyebiliriz. Kocasının kariyerinde gerçekten etkili olmuş, onun böylesine önemli bir mevkiye gelmesinde büyük pay sahibi olmuş olması kuvvetle muhtemel. Şüpheli kişilerle iş birliği yapmış ve bu kadar uzun süre <a name="11" class="hidden">her şeyi gizli tutmayı</a> başarabildiğine göre, yalan söyleme sanatında ustalaşmış olmalı.
+$FAB_008_OnStart_00
+Sanık kendini tanıtabilir.
+$FAB_008_OnStart_01
+Jeanne Marie Roland.
+$FAB_008_OnStart_02
+Yolsuz ve hain Bakan Roland’ın karısı!
+$FAB_008_OnStart_03
+Benden sadece adımı söylemem istendi. Bunu bir gösteriye dönüştürmenize gerek yok, Savcı.
+$FAB_008_OnStart_04
+İhanete teşvik ve yolsuzlukla suçlanıyorsunuz…
+$FAB_008_OnStart_05
+Ve elbette, bu saçma suçlamaları reddediyorum.
+$FAB_008_OnStart_06
+Elbette!
+$FAB_008_OnStart_07
+Biz ne zamandan beri hainlerle konuşuyoruz?
+$FAB_008_OnGuilty_00
+Suçluluğunuz tartışmasız. Sizi ölüme mahkûm ediyorum.
+$FAB_008_OnGuilty_01
+Ekleyecek bir şeyim yok!
+$FAB_008_OnGuilty_02
+Kan istiyoruz!
+$FAB_008_OnGuilty_03
+Kafasını kesin!
+$FAB_008_OnGuilty_04
+Hainlerin sonu işte böyle olur!
+$FAB_008_OnPrison_00
+Yaptıklarınızın hiçbir mazereti yok. Hayatınızın geri kalanını bir hücrede geçireceksiniz.
+$FAB_008_OnPrison_01
+Bu suçlamaların ciddiyeti göz önünde bulundurulduğunda, kararınızı yeniden değerlendirmenizi öneriyorum.
+$FAB_008_OnPrison_02
+Bu yetmez, onun kanını istiyoruz!
+$FAB_008_OnNotGuilty_00
+Tüm delilleri inceledikten sonra, sizi masum buluyorum, Yurttaş.
+$FAB_008_OnNotGuilty_01
+Gerçekten mi? Peki ya yolsuzluk? Fahişeler? Darbe?
+$FAB_008_OnNotGuilty_02
+İhanet!
+$FAB_008_OnNotGuilty_03
+Hepsi hain bunlar!
+$FAB_008_OnNotGuilty_04
+Yeni hükümet, o rezil kraldan bile daha kötü!
+$FAB_008_01x02_00_QTitle
+Devrim sizi dışarıda bıraktı mı?
+$FAB_008_01x02_00_00
+Devrim sizi dışarıda mı bıraktı, öyle mi hissettiniz?
+$FAB_008_01x02_00_01
+Sanırım soruyu tam olarak anladığımı söyleyemem.
+$FAB_008_01x02_00_02
+İzin verin açıklayayım, Mösyö Yargıç. Bir kadın olarak, cinsiyetinizin siyasette sınırlı bir rol oynamasından dolayı Devrim’e karşı bir kırgınlık duydunuz mu?
+$FAB_008_01x02_00_03
+Ne kadar gülünç bir varsayım. Vatandaş Danton’un, bugünkü Fransa’da kadınların rolünü açıkça özetlediği görüşlerine katılıyorum: Çocuk doğurmalı ve onları Cumhuriyet’in gelecekteki koruyucuları olarak yetiştirmeliler.
+$FAB_008_01x02_00_04
+Güzel bir konuşma.
+$FAB_008_01x02_00_05
+Ve böyle bir koruyucu mu yetiştiriyorsunuz, Yurttaş?
+$FAB_008_01x02_00_06
+Bir kadın koruyucu, evet.
+$FAB_008_01x02_00_07
+Gelecekte de pek konuşacak sözü olmayacak.
+$FAB_008_01x02_00_08
+Umarım o da benim gibi kendine layık bir koca bulur.
+$FAB_008_01x06_01_QTitle
+Yürüttüğünüz faaliyetler sayesinde önde gelen siyasetçilerin görüşlerine erişim sağladınız.
+$FAB_008_01x06_01_00
+Yürüttüğünüz faaliyetler sayesinde önde gelen siyasetçilerin görüşlerine erişim sağladınız.
+$FAB_008_01x06_01_01
+Böyle siyasetçilerin fikirlerini paylaştığı toplantılara ev sahipliği yapıyorsanız, bu gayet doğal.
+$FAB_008_01x06_01_02
+Bu bilginin ne kadarını genelev işletirken edindiniz?
+$FAB_008_01x06_01_03
+Çok az. Çoğu insan... o anlarda sessiz kalmayı tercih eder. Ve elbette, siyaset hakkında konuşmazlar.
+$FAB_008_01x06_01_04
+Yine de, ahlaksız salonunuz sayesinde, yabancı bir güç için paha biçilmez olacak bilgilere ulaşabildiniz.
+$FAB_008_01x06_01_05
+Bilmiyorum, olabilir. Ama asla satmazdım.
+$FAB_008_01x06_01_06
+Karşılıksız bir dürüstlük mü?
+$FAB_008_01x06_01_07
+Böyle bilgileri birine satmış olsaydım, Madame de Staël hemen mağduru kendi salonuna davet ederdi.
+$FAB_008_01x06_01_08
+Bencil bir cadı.
+$FAB_008_01x06_01_09
+Herkes Fransa’yı kendi tarzında sever. Ben dostlarımı asla yarı yolda bırakmam, bu yüzden onlar da yanımda dimdik durur.
+$FAB_008_01x06_01_10
+Ve yakında hepiniz birlikte giyotin önünde diz çökerken bulacaksınız kendinizi.
+$FAB_008_01x10_02_QTitle
+Darbe planlamasında yer aldınız mı?
+$FAB_008_01x10_02_00
+Darbe planlamasında yer aldınız mı?
+$FAB_008_01x10_02_01
+Bay yargıç, ikimiz de çok iyi biliyoruz ki bir darbe planı yoktu. Bunu tamamen Robespierre ve Mahkeme uydurdu. Siz kocama baktınız ve onda bir düşman gördünüz.
+$FAB_008_01x10_02_02
+Muhbirlerimiz–
+$FAB_008_01x10_02_03
+Kim onlar? Elbette isimlerini veremezsiniz, çünkü bu sadece dedikodu ve uydurmanın ötesine geçmiyor. Siyasi bir oyun.
+$FAB_008_01x10_02_04
+Doğru, peki kanıtlar nerede?
+$FAB_008_01x10_02_05
+Vatan hainleri için kanıta ihtiyacımız yok!
+$FAB_008_01x10_02_06
+Lütfen asıl soruya cevap verin.
+$FAB_008_01x10_02_07
+Sözde darbenin hiçbir aşamasında yer almadım. Ne ben ne de kocam bununla ilgilendik. Elinizde hiçbir kanıt yok, sadece varsayımlarla hareket ediyorsunuz.
+$FAB_008_02x03_03_QTitle
+Bir siyasi salon kurmaya sizi ne teşvik etti?
+$FAB_008_02x03_03_00
+Bir siyasi salon kurmaya sizi ne motive etti?
+$FAB_008_02x03_03_01
+Kocamın konumu sayesinde birçok ilginç insanla tanışıyor, ben de çağımızın en büyük zekalarıyla sohbet etme fırsatını kaçırmak istemedim.
+$FAB_008_02x03_03_02
+Bu tür konuşmalar sırasında politikacıların, sizin ve eşinizin çıkarına olacak şekilde görüşlerini değiştirmiş olabileceği ifadesine katılır mısınız?
+$FAB_008_02x03_03_03
+Siyasette kim görüşlerini değiştirmez ki? Demokrasi dediğimiz şey bu değil mi zaten? Fikirlerin özgürce paylaşılması için değil mi?
+$FAB_008_02x03_03_04
+Doğru, ama burada ülkemizin kaderinden sorumlu insanları manipüle etmekten bahsetmiyoruz!
+$FAB_008_02x03_03_05
+Peki, siyaset başka neyle ilgilidir? Ve bu davanın asıl amacı nedir?
+$FAB_008_04x03_04_QTitle
+Konvansiyon milletvekillerini yozlaştırdınız mı ve–
+$FAB_008_04x03_04_00
+Konvansiyon milletvekillerini yozlaştırdınız mı ve–
+$FAB_008_04x03_04_01
+Sizi böldüğüm için affedin, sayın yargıç, fakat siyasetçileri böylesine alçakça yöntemlerle etkileme düşüncesi bile midemi bulandırıyor! Masum kızların monarşistler tarafından böyle kullanılması…
+$FAB_008_04x03_04_02
+Şunu belirtmek isterim ki, politikacılar bu kızların tamamen kendi istekleriyle sundukları hizmetlerden yararlandı. Bana siyaset konuşmak için gelirlerdi. Kimlerle ayrıldıkları ve ne amaçla, affınıza sığınarak söylüyorum, beni ilgilendirmez.
+$FAB_008_04x03_04_03
+Böyle buluşmaları ayarlamanız karşılığında size herhangi bir şey verildi mi?
+$FAB_008_04x03_04_04
+Herhangi bir şey aldıysam, o da sadece geri dönüp siyaset konuşmaya istekli olmalarıydı.
+$FAB_008_04x03_04_05
+Başka bir deyişle, genelevinizin müdavimleri oldukları söylenebilir.
+$FAB_008_04x03_04_06
+Burası bir genelev değil! Mesele bundan daha karmaşık. Daha çok, modern düşüncelerin paylaşıldığı bir mekân.
+$FAB_008_04x03_04_07
+Modern bir genelev!
+$FAB_008_04x03_04_08
+Ama salonunuzda politikacıların... bedensel zevkler tattığını inkâr edemezsiniz, değil mi?
+$FAB_008_04x03_04_09
+Burası özgür bir ülke ve ben hoşgörülü bir insanım.
+$FAB_008_04x11_05_QTitle
+Kendinizi gizleme sanatında gerçekten ustalaşmışsınız.
+$FAB_008_04x11_05_00
+Kendinizi gizleme sanatında gerçekten ustalaşmışsınız. Sözde bir siyasi salon, aslında sıradan bir genelevden ibaretmiş.
+$FAB_008_04x11_05_01
+Sorunuz nedir?
+$FAB_008_04x11_05_02
+Bunu halktan bu kadar uzun süre nasıl gizlemeyi başardınız?
+$FAB_008_04x11_05_03
+Bir siyasi salon düzenledim. Bazen, ekmek parası kazanmak için gelen güzel kızlar da bize katılırdı. Milletvekillerinin etrafında dolaşırlardı ama asla rahatsız edici olmazlardı.
+$FAB_008_04x11_05_04
+Ve bu sizi rahatsız etmedi mi?
+$FAB_008_04x11_05_05
+Onları anlıyordum. Kadınlar birbirine destek olmalı. Ve siyasi salonuma genelev demene asla izin vermem! Orası sıradan bir yer değildi. En parlak zihinler orada buluşurdu, ta ki–
+$FAB_008_04x11_05_06
+Reklamınızı kendinize saklayın. Giyotinle idamınızdan sonra burası yerle bir edilecek.
+$FAB_008_05x07_06_QTitle
+Isabelle Dugard’ı çağırın.
+$FAB_008_05x07_06_00
+Isabelle Dugard’ı çağırın.
+$FAB_008_05x07_06_02
+Lütfen kendinizi tanıtınız.
+$FAB_008_05x07_06_03
+Benim adım Giselle.
+$FAB_008_05x07_06_04
+Lütfen gerçek adınızı söyleyin.
+$FAB_008_05x07_06_05
+Ama bu benim gerçek... Peki, peki aşkım. Benim adım Isabelle Dugard.
+$FAB_008_05x07_06_06
+Bana “monsieur le juge” diye hitap etmelisiniz.
+$FAB_008_05x07_06_07
+"Peki, canım." Ne de güzelmiş, ha!
+$FAB_008_08x09_07_QTitle
+Hayatıma yapılan suikasttan haberiniz var mı?
+$FAB_008_08x09_07_00
+Hayatıma yapılan suikasttan haberiniz var mı?
+$FAB_008_08x09_07_01
+Evet, ben de duydum. Ne korkunç bir olay...
+$FAB_008_08x09_07_02
+Üç haydut tarafından saldırıya uğradım ve himayeniz altındaki kadınlardan biri, sizin işletmenizde düzenli olarak şüpheli üç adam gördüğüne tanıklık etti.
+$FAB_008_08x09_07_03
+Bunun sadece bir tesadüf ve yanlış anlaşılma olduğundan şüpheliyim…
+$FAB_008_08x09_07_04
+Ve kocanızın benim ölümümü görmeye yemin ettiğini unuttunuz mu?
+$FAB_008_08x09_07_05
+İnsanlar üzgün ya da telaşlı olduklarında her şeyi söyleyebilir. Söylediklerini mutlaka yapacakları anlamına gelmez.
+$FAB_008_08x09_07_06
+Tüm Paris bilir ki bakan, karısının talimatı olmadan hiçbir şey yapmaz.
+$FAB_008_08x09_07_07
+Devrim Mahkemesi Yargıcı’na el kaldırmanın bedelini ödeyeceksin.
+$FAB_008_08x09_07_08
+Duydun mu? Bir idam geliyor!
+$FAB_008_08x10_08_QTitle
+Tanığın “en aşağılık insan artıkları” olarak nitelendirdiği o üç adam…
+$FAB_008_08x10_08_00
+Tanığın “en aşağılık pislikler” olarak nitelendirdiği üç adam, planlanan suikasta katıldı mı?
+$FAB_008_08x10_08_01
+Bir suikast olmadı, o üçü de... meyve satıcısı.
+$FAB_008_08x10_08_02
+Meyve mi?
+$FAB_008_08x10_08_03
+Evet, bunda şüpheli bir şey yok ve insanları dış görünüşlerine göre yargılamam.
+$FAB_008_08x10_08_04
+Yani Robespierre ve yoldaşlarını bıçaklayarak öldürmeyi planlamamışlar mı?
+$FAB_008_08x10_08_05
+Kesinlikle hayır!
+$FAB_008_08x10_08_06
+Eğer Devrim Mahkemesi’nin bir yargıcını öldüremedilerse, Konvansiyon’un milletvekilleriyle nasıl başa çıkacaklardı?
+$FAB_008_08x10_08_07
+Onlara suikast girişimini sorun.
+$FAB_008_08x10_08_08
+Meyvelerini nereden buluyorlarmış?
+$FAB_008_08x10_08_09
+Bilmiyorum. Onlara sormalısınız.
+$FAB_008_08x10_08_10
+Bu kişileri bulamadık.
+$FAB_008_08x10_08_11
+Görülüyor ki, Paris'te iş yapmak artık onlar için kârlı değil.
+$FAB_008_WIT_00_A_QTitle
+Söyleyin, sanığın salonunda politikacıların yolsuzluğuna dair bir şey biliyor musunuz?
+$FAB_008_WIT_00_A_00
+Söyleyin, sanığın salonunda politikacıların yolsuzluğuna dair bir şey biliyor musunuz?
+$FAB_008_WIT_00_A_01
+Şey, ben… sayın yargıç. Genelde hep aynı şeyleri yaparız ama bazen misafirlerin aklına türlü fikirler geliyor, bilirsiniz. Mesela bir milletvekili var, sık sık benden kendisini baştan çıkarmaya çalışan bir İspanyol casusu oynamamı ister.
+$FAB_008_WIT_00_A_02
+İğrenç.
+$FAB_008_WIT_00_A_03
+Sevgilim, sen de muzla oynamak ister gibisin.
+$FAB_008_WIT_00_A_04
+Madame Roland yozdu mu–
+$FAB_008_WIT_00_A_05
+Nereden bileyim ben? Misafirlerimiz pek konuşmaz. İyi bir eğlence için tam da istenen şey bu, bilirsin.
+$FAB_008_WIT_00_B_QTitle
+Sizce bir politikacının yolsuzluğa karıştığını gösteren bir olayı örnek verebilir misiniz?
+$FAB_008_WIT_00_B_00
+Sizce bir politikacının yolsuzluğa karıştığını gösteren herhangi bir olaya örnek verebilir misiniz?
+$FAB_008_WIT_00_B_01
+Bunu anlatırsam, şehri terk etmem gerekir.
+$FAB_008_WIT_00_B_02
+Ama bana anlatmazsan, başın gövdeni terk edecek.
+$FAB_008_WIT_00_B_03
+Bir keresinde bana genç bir adamla birlikte bu eve, yani Vekil Pierre Vergniaud’nun evine gitmem söylendi ve ona, hayatım buna bağlıymış gibi bakmam emredildi.
+$FAB_008_WIT_00_B_04
+Hepsi bu mu?
+$FAB_008_WIT_00_B_05
+Vergniaud bana… elinden geleni yaptı, diyebilirim. Ardımda bir sürü morluk bıraktı. Çıkarken de dedi ki, Madame Roland’a, konuştukları meseleyi artık halledilmiş sayabilir, diye ileteyim.
+$FAB_008_WIT_00_B_06
+Vergniaud ne kadar yozlaşmış bir domuz!
+$FAB_008_KEY_01
+İhanet
+$FAB_008_KEY_02
+Siyasetten uzak durmak
+$FAB_008_KEY_03
+Siyasi bir salon yönetmek
+$FAB_008_KEY_04
+Bir genelev
+$FAB_008_KEY_05
+Vekillerin yolsuzluğu
+$FAB_008_KEY_06
+Siyasetçilerin görüşlerine erişim
+$FAB_008_KEY_07
+Giselle
+$FAB_008_KEY_08
+Üç cellat
+$FAB_008_KEY_09
+Yargıca Saldırı
+$FAB_008_KEY_10
+Darbe
+$FAB_008_KEY_11
+Niyetlerin gizlenmesi
+$FAB_008_LastDialog_00
+Rakibinizi bizzat öldürmeye mi geldiniz?
+$FAB_008_UNIQUE_QUESTION_00
+Rolandların genelevinin örtüsü neydi?
+$FAB_008_UNIQUE_ANSWER_CORRECT_00_00
+Bir siyasi salon.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Marat’ın gazetesinin ofisi.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Bir depo.
+$FAB_008_UNIQUE_QUESTION_01
+Sanık, mekânında beliren şüpheli adamları nasıl açıkladı?
+$FAB_008_UNIQUE_ANSWER_CORRECT_01_00
+Onların meyve satıcısı olduklarını iddia ediyor.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Onlar, kocasının siyasi rakipleri tarafından tutulmuş haydutlardı.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Yorgun yolculardı, yabancılardı.
+$FAB_008_UNIQUE_QUESTION_02
+Tanık, sanık tarafından rüşvet verilen en az bir siyasetçinin adını söyledi mi?
+$FAB_008_UNIQUE_ANSWER_CORRECT_02_00
+Milletvekili Pierre Vergniaud.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Belediye Başkanı Jean-Nicolas Pache.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Hayır.

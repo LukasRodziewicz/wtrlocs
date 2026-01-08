@@ -1,0 +1,10 @@
+$DIAL_CO_02_03_01_001_GUARD
+Bürger Fidèle, man hat eine weitere Leiche gefunden.
+$DIAL_CO_02_03_01_002_JUDGE
+Wer ist es diesmal?
+$DIAL_CO_02_03_01_003_GUARD
+Hören Sie auf zu tun, als wüssten Sie es nicht – Sie wissen genau, wen ich meine.
+$DIAL_CO_02_03_01_004_JUDGE
+Spielen Sie keine Spielchen mit mir!
+$DIAL_CO_02_03_01_005_GUARD
+Ich dachte, dass... ähm, schon gut. Bürger Marat wurde tot aufgefunden.

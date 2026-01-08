@@ -1,0 +1,82 @@
+$CUT_013_DISC_PACHE_START_001_PACHE
+Danton, espèce de traître ! Comment as-tu osé…
+$CUT_013_DISC_PACHE_START_002_JUDGE
+Bonjour, Pache.
+$CUT_013_DISC_PACHE_START_003_PACHE
+Fidèle, merci d'être venu aussi rapidement.
+$CUT_013_DISC_PACHE_START_004_PACHE
+Danton m'a trahi.
+$CUT_013_DISC_PACHE_START_005_PACHE
+Danton… Nous étions pourtant alliés.
+$CUT_013_DISC_PACHE_START_006_PACHE
+Je l'ai appelé à l'aide, mais il n'est jamais venu. Toi, oui.
+$CUT_013_DISC_PACHE_START_007_JUDGE
+Nous sommes amis, Jean.
+$CUT_013_DISC_PACHE_START_008_PACHE
+Je dois l'anéantir, le lui faire payer ! Il le faut.
+$CUT_013_DISC_PACHE_001_JUDGE_AGGR
+Qui est l'ordure qui a osé lever la main sur un serviteur de l'État ? Et pour quels motifs ?
+$CUT_013_DISC_PACHE_002_JUDGE_MANI
+De quoi t'accusent-ils ? Ce doit être quelque chose dont seuls tes amis sont au courant. Quelqu'un comme Danton. Dans quoi es-tu impliqué, Jean ?
+$CUT_013_DISC_PACHE_003_JUDGE_JOKE
+Il y a sûrement erreur. Ne t'inquiète pas, tu seras rentré avant l'heure du dîner.
+$CUT_013_DISC_PACHE_004_JUDGE_HUMI
+Je ne comprends pas. De quoi t'accusent-ils ? Surtout toi, alors que tout le monde sait que Paris prospère sous ta direction.
+$CUT_013_DISC_PACHE_005_PACHE_INTR
+De trahison. C'est tout ce que j'ai pu en déduire. J'ignore l'origine ou les preuves potentielles de ces accusations. Mais je sais que Danton ne fait rien pour m'aider. Il m'a trahi et doit être mêlé à tout cela !
+$CUT_013_DISC_PACHE_006_PACHE_DOUBT
+J'aurais trahi la France. Je ne suis pas un saint, j'en suis conscient, mais moi, trahir ?! Et qui est-ce qui m'accuse ? Cette catin politique qu'est Danton ? Je n'en suis pas certain, mais j'ai le sentiment qu'il est mêlé à ces accusations.
+$CUT_013_DISC_PACHE_007_JUDGE_AGGR
+Si ce rat sournois est responsable de tes ennuis, tu dois agir sans tarder. Tu ne peux pas attendre le procès de demain. As-tu des preuves d'un quelconque méfait commis par Danton dont on pourrait se servir ?
+$CUT_013_DISC_PACHE_008_JUDGE_MANI
+Si Danton est à l'origine de cette attaque, il a dû créer de toutes pièces des preuves contre toi. Il nous faut quelque chose pour riposter. As-tu des preuves d'un quelconque méfait qu'il aurait commis ?
+$CUT_013_DISC_PACHE_009_JUDGE_JOKE
+Je ne crois pas une seconde que tu te serais allié avec Danton sans rien avoir sur lui. Alors dis-moi, possèdes-tu des documents qui pourraient nous être utiles ?
+$CUT_013_DISC_PACHE_010_JUDGE_HUMI
+Si quelqu'un mérite la guillotine, c'est bien Danton ! Il n'aurait pas dû feindre d'être ton ami. Nous devons riposter. Tu dois avoir des preuves de ses méfaits qui pourraient nous être utiles.
+$CUT_013_DISC_PACHE_011_PACHE_INTR
+Pourquoi es-tu venu me voir ? Pourquoi prendre le risque de parler à un traître ? Pourquoi, Fidèle ? Oublie ta loyauté et laisse-moi mourir. Je mérite ce châtiment.
+$CUT_013_DISC_PACHE_012_PACHE_DOUBT
+Je n'en peux plus, je n'ai plus la force de résister. Toute cette Révolution, les complots sans fin. Je ne peux plus faire confiance à personne… à part toi. Je ne comprends plus rien.
+$CUT_013_DISC_PACHE_013_PACHE_IRRI
+Envisages-tu de me trahir, toi aussi ? Impossible ! Je pensais, non, j'espérais qu'il serait possible de compter sur un véritable ami dans cette ville.
+$CUT_013_DISC_PACHE_014_JUDGE_AGGR
+Réveille-toi, Jean ! Tu n'as plus le temps d'hésiter ou d'être mélancolique ! Si je dois planifier une contre-attaque contre Danton, il me faut quelque chose sur lui. Laisse-moi t'aider et dis-moi où chercher.
+$CUT_013_DISC_PACHE_015_JUDGE_MANI
+Une fois le procès commencé, ton destin sera scellé. S'il existe des preuves de trahison, l'accusé ne peut pas être sauvé. Je peux, cependant, m'assurer que ces preuves ne soient jamais divulguées. Mais pour ce faire, il me faut des preuves des méfaits commis par Danton. C'est le seul moyen. Où les caches-tu, Jean ?
+$CUT_013_DISC_PACHE_016_JUDGE_JOKE
+Si tu veux te morfondre, vas-y. Sache que le Tribunal ne peut pas libérer les traîtres. Si tu ne me donnes rien sur Danton, je ne pourrai pas t'aider et tu seras mort avant demain.
+$CUT_013_DISC_PACHE_017_JUDGE_HUMI
+Oh, mon cher Jean. Je ne peux pas te laisser mourir pour un crime que tu n'as pas commis. Je veux te sauver toi et ton héritage, mais pour ce faire, je dois pousser Danton à retirer ses accusations. Dis-moi, où gardes-tu les preuves de ses méfaits ?
+$CUT_013_DISC_PACHE_018_JUDGE_AGGR
+Cesse de pleurnicher, tout n'est pas perdu ! Tu as un atout secret, un juge du Tribunal qui est prêt à t'aider. Nous sommes alliés. Tu peux me faire confiance.
+$CUT_013_DISC_PACHE_019_JUDGE_MANI
+Personne ne s'opposera ouvertement à Danton, sachant qu'il peut façonner des preuves de trahison. Ils ont peur. Moi, cependant, je suis prêt à monter au créneau car je crois aux bénéfices à long terme que pourrait nous apporter notre amitié. Cela devrait suffire à te convaincre.
+$CUT_013_DISC_PACHE_020_JUDGE_JOKE
+Si tu ne peux pas me faire confiance malgré ma venue; alors à qui peux-tu te fier ? Il n'y a pas foule de gens à vouloir sauver ta peau.
+$CUT_013_DISC_PACHE_021_JUDGE_HUMI
+Jean, écoute la voix de la raison. Tu te rapproches chaque minute un peu plus de la mort, et tu ne peux rien y faire tant que tu es incarcéré ici. Je t'offre mon aide. Accepte-la.
+$CUT_013_DISC_PACHE_022_PACHE_INTR
+Vraiment ? Tu vas m'aider ? J'ai commis un acte odieux par le passé. On m'a forcé à le faire, et me voilà envahi de regrets. Je t'en serai énormément reconnaissant.
+$CUT_013_DISC_PACHE_023_PACHE_DOUB
+Je ne suis pas sûr de mériter ton amitié. J'ai fait quelque chose… d'horrible. On m'a forcé à le faire. Tu es maintenant mon seul espoir.
+$CUT_013_DISC_PACHE_024_PACHE_IRRI
+Tout le monde me demande des comptes. Tu veux des preuves des crimes de Danton pour servir tes propres intérêts, mais me sauver n'en fait pas partie. Laisse tomber.
+$CUT_013_DISC_PACHE_025_PACHE_AGGR
+Je ne te crois pas, et comme tout le monde, tu finiras par me trahir. Tu n'obtiendras rien de moi. Va-t'en !
+$CUT_013_DISC_PACHE_TOPIC_01
+Comment est-il arrivé ici ?
+$CUT_013_DISC_PACHE_TOPIC_02
+Quelles preuves a-t-il des méfaits commis par Danton ?
+$CUT_013_DISC_PACHE_TOPIC_03
+Où sont les preuves ?
+$CUT_013_DISC_PACHE_TOPIC_04
+Tu peux me faire confiance.
+$CUT_013_DISC_PACHE_SUCCESS_001_PACHE
+Toutes les preuves à l'encontre de Danton sont dissimulées dans un coffre, dans mon bureau. Demande la clé à mon assistant.
+$CUT_013_DISC_PACHE_SUCCESS_002_JUDGE
+Merci, Pache. Je saurai quoi en faire.
+$CUT_013_DISC_PACHE_SUCCESS_003_PACHE
+Non, merci. Je me suis trompé à ton égard, Fidèle. Tu es un véritable ami.
+$CUT_013_DISC_PACHE_SUCCESS_004_JUDGE
+Bien entendu, Jean. Bien entendu.

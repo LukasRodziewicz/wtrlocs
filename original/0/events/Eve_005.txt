@@ -1,0 +1,30 @@
+$EVE_005_TITLE
+Te smaczne czworonogi
+
+$EVE_005_MAIN_01
+Noc powoli wyludnia ulicę. Stawiając kolejne kroki po stygnącej kostce brukowej, rozmyślasz o delicjach, które przygotuje na kolację twoja żona. Spokój studzi zmysły do tego stopnia, że nie zauważasz kobiety wybiegającej zza rogu. Siła zderzenia przewraca was oboje. Dama wypuszcza z dłoni czarny wór, z którego wyczłapują młode kocięta. Kobieta podrywa się natychmiast i próbuje zatrzasnąć zwierzętom drogę ucieczki. Dwa kociaki umykają. „Uciekły, uciekły!” – woła obywatelka, nie mogąc zdecydować się, którego z nich gonić. „Nie będzie pieniędzy, nie będzie pasztetu”. Te słowa wystarczyły ci za całe wytłumaczenie sytuacji…
+
+$EVE_005_MAIN_01_C1
+Każ aresztować kobietę.
+$EVE_005_MAIN_01_C2
+Zostaw ją w spokoju.
+
+$EVE_005_MAIN_02A
+Chwytasz kobietę za ramię i prowadzisz do najbliższego patrolu Gwardii. Obywatelka, spoglądając na nas, stara się niemo argumentować wyższość pysznego pasztetu nad losem kociąt. Strażnicy, z oczami rozchylonymi ze zdziwienia, odbierają przesyłkę z twoich rąk. „Nie zbierałam tego dla siebie” – wydusiła w końcu. „To syn rzeźnika, specjalista”. Strażnicy odprowadzają kobietę. Syn rzeźnika. Przemyśl, co zrobisz z tym mistrzem kuchni. 
+
+$EVE_005_MAIN_02A_C1
+Aresztuj syna rzeźnika.
+$EVE_005_MAIN_02A_C2
+Ujawnij działania syna rzeźnika.
+
+$EVE_005_MAIN_02B
+Kobieta odchodzi z workiem zarzuconym na ramię. Co kilka metrów rozgląda się w poszukiwaniu wystarczająco mięsistej zdobyczy. Masz ważniejsze sprawy na głowie niż polowania na pasztet…
+
+$EVE_005_MAIN_03A
+Makabryczne! Pasztetnik truł obywateli mięsem z kotów!
+
+$EVE_005_MAIN_03B
+Prawda wyszła na jaw, zwykłym paryżanom się to nie spodobało. Klientów obrotnego pasztetnika było więcej, niż się spodziewano. I są bardzo źli. Na tyle, że pasztetnik tego nie przeżył. Jedno niefortunne uderzeniem kijem wybiło mu z głowy, ostatecznie, kulinarną pasję. W zasadzie jakąkolwiek pasję. Nie sposób dojść, kto zadał śmiertelne uderzenie.
+
+$EVE_005_MAIN_03C
+Wyborny pasztet cały czas gościł na stołach i talerzach wielu mieszkańców Paryża. Palce lizać.

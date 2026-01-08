@@ -1,0 +1,22 @@
+$DIAL_H_02_01_07_V1_001_ELDERSON
+Papá, ¿de verdad estuvo el tío Raymond involucrado en la muerte de Frédéric?
+$DIAL_H_02_01_07_V1_002_JUDGE
+Todo apunta a eso.
+$DIAL_H_02_01_07_V1_003_ELDERSON
+¿Cómo pudo…?
+$DIAL_H_02_01_07_V1_004_GRANDFATHER
+Parece que ha estado atado a la correa de Renard desde hace mucho tiempo. Todos tienen un amo, aunque aún no sepan su nombre.
+$DIAL_H_02_01_07_V1_005_ELDERSON
+¿Atado con correa?
+$DIAL_H_02_01_07_V1_006_GRANDFATHER
+Hace muchos años, cuando los Renard empezaron a adueñarse de un puesto tras otro, me negué a vender el mío. Vinieron tres hombres e intentaron intimidarme. Ese día Bruno estaba conmigo. Agarró un palo, decidido a ahuyentarlos, y casi mata a uno en un arrebato de furia.
+$DIAL_H_02_01_07_V1_007_JUDGE
+Fue entonces cuando Raymond apareció y propuso desterrar a Bruno en lugar de ejecutarlo. Y parece que los Renard simplemente aprovecharon la ocasión y, usando sus manos, se llevaron lo que tanto tiempo habían deseado de nosotros. Perdimos nuestro puesto, y Bruno, el defensor de la familia, abandonó la ciudad. Los Renard ganaron.
+$DIAL_H_02_01_07_V1_008_GRANDFATHER
+Siempre te dije que no les quitaras la vista de encima, pero ignoraste mis advertencias, pensando que solo era un viejo gruñón.
+$DIAL_H_02_01_07_V1_009_JUDGE
+Lo pagarán. Haré lo que sea…
+$DIAL_H_02_01_07_V1_010_ELDERSON
+¿Cómo? ¿De verdad quieres más sangre?
+$DIAL_H_02_01_07_V1_011_GRANDFATHER
+¡Los Renard deben pagar! ¿De qué sirven las revoluciones y rebeliones si no podemos exigir justicia?

@@ -1,0 +1,38 @@
+$SPEECH_KING_01_01_07_001_JUDGE
+Pueblo, ¿qué os inquieta? ¿Por qué estáis tan airados?
+$SPEECH_KING_01_01_07_002_AUDIENCE
+¡El Rey nos ha mentido!
+$SPEECH_KING_01_01_07_003_AUDIENCE
+¡Ese cobarde huyó de nosotros! ¡Seguro que también huirá de la justicia!
+$SPEECH_KING_01_01_07_004_AUDIENCE
+¡Hemos hallado pruebas de la traición del rey en su gabinete de hierro secreto!
+$SPEECH_KING_01_01_07_005_JUDGE_AGGR
+El rey ha sido encarcelado. No escapará una segunda vez. ¡Si lo intenta, lo mataré con mis propias manos!
+$SPEECH_KING_01_01_07_006_JUDGE_MANI
+Luis Capeto es de carne y hueso, un ciudadano como usted. No podrá escapar del brazo largo de la ley.
+$SPEECH_KING_01_01_07_007_JUDGE_JOKE
+Sin lugar a dudas, hoy se hará justicia. ¡Dejad de lado vuestras dudas!
+$SPEECH_KING_01_01_07_008_JUDGE_HUMI
+¡Nadie puede escapar de la justicia de la República! Incluso los reyes deben inclinarse ante la voluntad de Temis y la del pueblo.
+$SPEECH_KING_01_01_07_009_JUDGE_AGGR
+¡Cualquier traición contra Francia será castigada con la muerte! Examinaremos nuevas pruebas y, si los rumores resultan ser ciertos, les aseguro que yo mismo decapitaré a este traidor.
+$SPEECH_KING_01_01_07_010_JUDGE_MANI
+No pasaremos por alto nuevas pruebas. Investigaremos cada pista con rigor, por la República y solo por la República.
+$SPEECH_KING_01_01_07_011_JUDGE_JOKE
+Nadie pasará por alto las nuevas pruebas. ¡En su lugar, yo no me preocuparía!
+$SPEECH_KING_01_01_07_012_JUDGE_HUMI
+Cada nueva prueba será examinada minuciosamente. ¡Las normas de la República exigen nada menos! ¡Las cumpliré al pie de la letra!
+$SPEECH_KING_01_01_07_013_JUDGE_AGGR
+¡No les fallaré! Si es necesario derramar la sangre de los traidores, entonces se derramará. Yo mismo me encargaré de ello.
+$SPEECH_KING_01_01_07_014_JUDGE_MANI
+La justicia debe regresar a nuestro país y permanecer aquí para siempre. Nadie está más comprometido con esta causa que un juez del Tribunal.
+$SPEECH_KING_01_01_07_015_JUDGE_JOKE
+Lo resolveré con tal destreza que esta noche estaréis celebrando, bebiendo vino alegremente en las tabernas.
+$SPEECH_KING_01_01_07_016_JUDGE_HUMI
+Sé que puedes estar enfadado. Pero has elegido a tus representantes para que te protejan. Confía en mí.
+$SPEECH_KING_TOPIC_01
+El ciudadano Capeto no escapará a la justicia.
+$SPEECH_KING_TOPIC_02
+Se examinarán las pruebas del gabinete de hierro.
+$SPEECH_KING_TOPIC_03
+Créame.

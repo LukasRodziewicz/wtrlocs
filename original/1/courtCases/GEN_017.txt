@@ -1,0 +1,281 @@
+$GEN_017_DOC_01_HEADER
+Compiled by: Olivier Carrasco
+$GEN_017_DOC_01_00
+In the dock sits the wife of the convicted Citizen Louis Capet. Marie Antoinette, a 38-year-old Austrian who came to France at the age of 14 to wed the 16-year-old Louis. Their marriage was political – it was supposed to tighten the alliance between Austria and France.
+$GEN_017_DOC_01_01
+Both Marie Antoinette and her late husband lacked the experience and knowledge required to rule a country. Their incompetence resulted in France being left in debt, and the French in hunger and poverty. The former Queen and her husband were incapable of restraining themselves from their <a name="1" class="hidden">profligate lifestyle</a>, even when the price of bread became unapproachable for the common Citizen.
+$GEN_017_DOC_01_02
+Marie Antoinette and Louis Capet tried to <a name="2" class="hidden">escape</a> from the Tuileries Palace, where the Capets had been confined by the Revolutionaries. The two intended to return to France with neighbouring armies, but they were caught before they could cross the border.
+$GEN_017_DOC_01_03
+Louis and Marie Antoinette were able to avoid lynching upon their return due to <a name="3" class="hidden">Antoine Barnave’s</a> protection. The famous orator interceded on their behalf, which made him a suspect. It is thought that Marie Antoinette ensnared him so as to use him for her political agenda.
+$GEN_017_DOC_01_04
+For many years, Marie Antoinette has been accused of acting against France’s best interests, plunging the state’s budget into a deep deficit, plotting against the Revolution, and trying to <a name="5" class="hidden">rebuild the Monarchy</a>.
+$GEN_017_DOC_01_05
+The failures of France against Austria can be attributed to her treason. We suspect that she conveyed <a name="6" class="hidden">French military secrets</a> to her homeland, but we lack evidence to support this claim.
+$GEN_017_DOC_01_06
+The Citizen is also accused of <a name="7" class="hidden">promiscuity</a>. Moreover, there have been suggestions that she sexually harassed her eight-year-old son, <a name="8" class="hidden">Louis-Charles</a>.
+$GEN_017_OnStart_00
+Now you’ll pay!
+$GEN_017_OnStart_01
+Bear in mind that this is no common case. Your future depends on your sentence.
+$GEN_017_OnStart_02
+Please introduce yourself.
+$GEN_017_OnStart_03
+Excuse me?
+$GEN_017_OnStart_04
+I could interpret that question as contempt of court.
+$GEN_017_OnStart_05
+Maria Antonia Josepha Johanna von Österreich, also known as Marie Antoinette of Austria or Marie Antoinette. However, I would prefer to be called “the Queen”.
+$GEN_017_OnStart_06
+I will use the term “the accused”.
+$GEN_017_OnStart_07
+Why not “you Austrian whore”?
+$GEN_017_OnGuilty_00
+I sentence the accused Marie Antoinette of Austria to the guillotine.
+$GEN_017_OnGuilty_01
+The Ancien Régime should have been beheaded long ago.
+$GEN_017_OnGuilty_02
+Huzzah!
+$GEN_017_OnGuilty_03
+Justice is served at last!
+$GEN_017_OnPrison_00
+I sentence Marie Antoinette of Austria to prison. Lead the condemned out.
+$GEN_017_OnPrison_01
+That is far too lenient a sentence.
+$GEN_017_OnPrison_02
+Lucky you!
+$GEN_017_OnPrison_03
+The judge showed remorse?!
+$GEN_017_OnPrison_04
+Let her die in prison!
+$GEN_017_OnNotGuilty_00
+I find the defendant not guilty. She is free to leave.
+$GEN_017_OnNotGuilty_01
+Are you blind, man?
+$GEN_017_OnNotGuilty_02
+Is he crazy?
+$GEN_017_OnNotGuilty_03
+Letting her go is sentencing her to death!
+$GEN_017_01x04_00_QTitle
+Why did the accused live in luxury…?
+$GEN_017_01x04_00_00
+Why did the accused live in luxury despite the state’s treasury deficit?
+$GEN_017_01x04_00_01
+Take a look at the previous queen’s expenditures and the ones before her. Once you compare them, you will see I was using far less money than they were.
+$GEN_017_01x04_00_02
+We must also take into account the situation of the Citizens then and during the reign of the accused and her husband.
+$GEN_017_01x04_00_03
+Take into account my rotten potatoes!
+$GEN_017_01x04_00_04
+I do not recall the former queens being addicted to gambling.
+$GEN_017_01x04_00_05
+We all have our vices.
+$GEN_017_01x08_01_QTitle
+The accused has led a self-indulgent life, and whether Citizen Capet’s son is really the fruit of his loins has long been in question.
+$GEN_017_01x08_01_00
+The accused has led a self-indulgent life, and whether Citizen Capet’s son is really the fruit of his loins has long been in question. Will the accused respond to those allegations?
+$GEN_017_01x08_01_01
+I was always faithful to my husband. The rest is merely idle gossip.
+$GEN_017_01x08_01_02
+Is the accused afraid to discuss it?
+$GEN_017_01x08_01_03
+She could go on all night!
+$GEN_017_01x08_01_04
+There is nothing to discuss.
+$GEN_017_01x08_01_05
+Citizen Capet was supposed to have confirmed that “gossip”.
+$GEN_017_01x08_01_06
+He is dead, which makes that remark rather… inelegant. But I shall reply anyway. My husband trusted me, and I him. That is all.
+$GEN_017_01x08_01_07
+Everyone knows Citizen Capet was a fool.
+$GEN_017_02x05_02_QTitle
+What future did the defendant expect had her escape been successful?
+$GEN_017_02x05_02_00
+What future did the defendant expect had her escape been successful?
+$GEN_017_02x05_02_01
+Our plan was to survive. We believed that nothing good awaited us in this country. We were clearly not mistaken.
+$GEN_017_02x05_02_02
+So you understood that the people would seek revenge for their suffering.
+$GEN_017_02x05_02_03
+Many would cheer my death.
+$GEN_017_02x05_02_04
+We surely would!
+$GEN_017_02x05_02_05
+And we surely will!
+$GEN_017_02x05_02_06
+If it were not for the defendant’s escape, we would not be speaking today, and the people would not have lost what little trust remained. Everyone believed that it was a part of your plot.
+$GEN_017_02x05_02_07
+I wish to see at least one piece of evidence of our plot.
+$GEN_017_02x05_02_08
+We don’t need proof!
+$GEN_017_02x03_03_QTitle
+What was your relationship with Antoine Barnave?
+$GEN_017_02x03_03_00
+What was your relationship with Antoine Barnave?
+$GEN_017_02x03_03_01
+He was my friend. He helped us, and was one of the few people who treated us with respect when everyone else turned against us.
+$GEN_017_02x03_03_02
+Yeah, I wonder if she returned the favour under the sheets!
+$GEN_017_02x03_03_03
+Does the accused realise that by asking Citizen Barnave for help, she has also caused him serious problems?
+$GEN_017_02x03_03_04
+I neither made any promises, nor have I ever asked him for help. We were simply alike, and that may be the reason for our friendship.
+$GEN_017_02x03_03_05
+Were you sexually involved with him?
+$GEN_017_02x03_03_06
+Austrian bitch!
+$GEN_017_02x03_03_07
+Of course not.
+$GEN_017_02x03_03_08
+Then why would he take such a risk corresponding with you?
+$GEN_017_02x03_03_09
+I only hope that he receives a fair trial, followed by his acquittal.
+$GEN_017_02x03_03_10
+Behead him!
+$GEN_017_07x08_04_QTitle
+Does the accused see herself as an exemplary mother?
+$GEN_017_07x08_04_00
+Does the accused see herself as an exemplary mother?
+$GEN_017_07x08_04_01
+I cannot answer that, and I do not wish to… You should ask my son.
+$GEN_017_07x08_04_02
+Before we do that, I would like to ask the defendant about the accusations regarding the indecent molestation of Louis-Charles.
+$GEN_017_07x08_04_03
+No mother would dignify such atrocious accusations with a response.
+$GEN_017_07x08_04_04
+Summon the witness, the son of the accused, Louis-Charles.
+$GEN_017_07x08_04_06
+Please introduce yourself.
+$GEN_017_07x08_04_07
+My name is Louis-Charles.
+$GEN_017_07x08_04_08
+Do you know why we have invited you here?
+$GEN_017_07x08_04_09
+No. Why?
+$GEN_017_03x08_05_QTitle
+What was the relationship between Antoine Barnave and the son of the accused?
+$GEN_017_03x08_05_00
+What was the relationship between Antoine Barnave and the son of the accused?
+$GEN_017_03x08_05_01
+Antoine was a friend of the family. I believe that Charles liked him very much, and maybe even admired him.
+$GEN_017_03x08_05_02
+How did you treat him?
+$GEN_017_03x08_05_03
+As I would a friend. Is that so strange?
+$GEN_017_03x08_05_04
+We do not find it strange at all.
+$GEN_017_02x08_06_QTitle
+How did the young Louis-Charles endure the hardships of your escape?
+$GEN_017_02x08_06_00
+How did the young Louis-Charles endure the hardships of your escape?
+$GEN_017_02x08_06_01
+Not well. He has the misfortune of struggling with tuberculosis and the circumstances further aggravated the disease.
+$GEN_017_02x08_06_02
+When planning the escape, did you consider his health at all?
+$GEN_017_02x08_06_03
+I was thinking only of him. He could have been recovering in the hot springs today, instead of being tortured by the suffocating Paris air…
+$GEN_017_02x08_06_04
+The only water our children will ever see is the Seine.
+$GEN_017_03x05_07_QTitle
+I must admit that you and Antoine Barnave are much alike.
+$GEN_017_03x05_07_00
+I must admit that you and Antoine Barnave are much alike. Has the accused ever suspected that he helped you for his own profit?
+$GEN_017_03x05_07_01
+I never even considered such a thing. Antoine is a good person who wanted to help. I am not one to judge him for his political views.
+$GEN_017_03x05_07_02
+The most important thing you shared was your hatred of France.
+$GEN_017_03x05_07_03
+Nonsense, I…
+$GEN_017_03x05_07_04
+We had to survive on bones, while you were devouring meat!
+$GEN_017_06x02_08_QTitle
+Has the accused ever conveyed French military secrets to Austria?
+$GEN_017_06x02_08_00
+Has the accused ever conveyed French military secrets to Austria?
+$GEN_017_06x02_08_01
+What manner of secrets could I possibly know?
+$GEN_017_06x02_08_02
+Let us start with the strength and weaponry of the army.
+$GEN_017_06x02_08_03
+What an absurd accusation… I could not even tell a mortar from a musket.
+$GEN_017_06x02_08_04
+You do not have to know the difference to take notes and send them to other parties.
+$GEN_017_06x02_08_05
+I am the queen, not a spy.
+$GEN_017_06x02_08_06
+She denies it, the whore!
+$GEN_017_WIT_00_A_QTitle
+Did your mother ever do something to you that felt wrong?
+$GEN_017_WIT_00_A_00
+Did your mother ever do something to you that felt wrong?
+$GEN_017_WIT_00_A_01
+Such as?
+$GEN_017_WIT_00_A_02
+Things that would make you feel ashamed.
+$GEN_017_WIT_00_A_03
+Err, mother liked to hug me in front of everyone. It embarrassed me.
+$GEN_017_WIT_00_A_04
+Did she often hug you?
+$GEN_017_WIT_00_A_05
+Very often. Sometimes she would even come to my chamber at night just to hug me.
+$GEN_017_WIT_00_A_06
+Did you feel embarrassed then?
+$GEN_017_WIT_00_A_07
+No, because nobody was watching.
+$GEN_017_WIT_01_A_QTitle
+Did your mother mention to you the plan to escape to Austria and abolish the Republic?
+$GEN_017_WIT_01_A_00
+Did your mother mention to you the plan to escape to Austria and abolish the Republic?
+$GEN_017_WIT_01_A_01
+No, neither mother nor father would ever mention that.
+$GEN_017_WIT_01_A_02
+Was Mr Barnave a frequent guest?
+$GEN_017_WIT_01_A_03
+Yes! I like Mr Barnave very much. He’s always very nice and brings me toys. Recently he brought me this wooden guard…
+$GEN_017_WIT_01_A_04
+Were he and your mother doing anything you found strange?
+$GEN_017_WIT_01_A_05
+Mother once told me to respect him just like my father.
+$GEN_017_KEY_01
+Profligate lifestyle
+$GEN_017_KEY_02
+The Capets’ escape
+$GEN_017_KEY_03
+Antoine Barnave
+$GEN_017_KEY_04
+Treasury deficit
+$GEN_017_KEY_05
+The restoration of the monarchy
+$GEN_017_KEY_06
+Military secrets
+$GEN_017_KEY_07
+The queen’s promiscuity
+$GEN_017_KEY_08
+The young Louis-Charles Capet
+$GEN_017_LastDialog_00
+Did I step on you? That was completely unintentional.
+$GEN_017_UNIQUE_QUESTION_01
+How did the defendant waste her money?
+$GEN_017_UNIQUE_ANSWER_CORRECT_01_00
+She gambled.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_01_00
+She drank.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_01_01
+She spent it on her lovers.
+$GEN_017_UNIQUE_QUESTION_02
+What was the defendant’s relationship with Barnave?
+$GEN_017_UNIQUE_ANSWER_CORRECT_02_00
+They were friends.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_02_00
+They are cousins.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_02_01
+He was her lover.
+$GEN_017_UNIQUE_ANSWER_CORRECT_03_00
+Tuberculosis.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Smallpox.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Fever.
+$GEN_017_UNIQUE_QUESTION_03
+What sickness is Marie Antoinette’s son struggling with?
+

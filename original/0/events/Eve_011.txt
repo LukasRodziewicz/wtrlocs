@@ -1,0 +1,25 @@
+$EVE_011_TITLE
+W imię nauki
+
+$EVE_011_MAIN_01
+Doszły mnie dosyć niepokojące słuchy. Z miejscowego cmentarza ubywać zaczęło… pensjonariuszy. Mam na myśli martwych. W ciągu ostatnich dwóch tygodni zniknęły już trzy ciała, różnych płci i wieku. Wszystkie łączyło to, że były świeżo pochowane. Nikt niczego nie widział, każdy twierdzi, że ciała po prostu zniknęły. Komendant Gwardii odmówił przydzielenia ludzi do strzeżenia cmentarza. W takiej sytuacji możemy się spodziewać, że wkrótce znikną kolejne ciała – wtedy wszyscy będziemy mieli problem.
+
+$EVE_011_MAIN_01_C1
+Zbadaj sprawę
+
+$EVE_011_MAIN_02A
+Nie siły piekielne ani te boskie, nie cudowne ozdrowienia stały za znikającymi ciałami. Stali za tym ludzie – młodzi i ciekawscy. Jak udało nam się ustalić, ciała wykopywali miejscowi studenci medycyny, by później prowadzić na nich badania i eksperymenty, których nie mogliby wykonywać na żywych. Cieszyć może pęd do wiedzy, ale czy to dobra droga? Zawsze istnieje zagrożenie ze strony rodzin, które, jeśli się dowiedzą prawdy, z pewnością nie podzielą entuzjazmu młodych…
+
+$EVE_011_MAIN_02A_C1
+Ostrzeż studentów i zabroń takich praktyk
+$EVE_011_MAIN_02A_C2
+Zezwól na kontynuowanie eksperymentów
+
+$EVE_011_MAIN_02B
+Rodziny nie będą zadowolone z tego, że nikt nie przejmuje się ich skargami…
+
+$EVE_011_MAIN_03A
+Trupy przestały ginąć. Nie strofowałeś polityków Konwentu, ale młodzików, których łatwo nastraszyć, kiedy już wiedzą, że wpadli. Myślę, że więcej tego nie zrobią. Przynajmniej za twojej kadencji.
+
+$EVE_011_MAIN_03B
+Studenci obiecali, że będą kradli trupy z różnych cmentarzy, dla niepoznaki. Zawsze to coś.

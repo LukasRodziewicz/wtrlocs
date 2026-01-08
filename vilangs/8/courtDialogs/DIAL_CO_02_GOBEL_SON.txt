@@ -1,0 +1,24 @@
+$DIAL_CO_02_GOBEL_SON_001_GUARD
+Tentei detê-lo, mas aquele canalha resistiu e estava prestes a gritar tão alto que todo o tribunal ouviria.
+$DIAL_CO_02_GOBEL_SON_002_JUDGE
+Não se preocupe, eu reconheço esse jovem. Foi ele quem virou a vida do arcebispo Gobel de cabeça para baixo.
+$DIAL_CO_02_GOBEL_SON_003_BOUTIN
+Meu nome é Boutin. Sou filho dele.
+$DIAL_CO_02_GOBEL_SON_004_JUDGE
+Acho que sei por que você veio aqui. No entanto, saiba que Gobel não é mais arcebispo e agora está imune.
+$DIAL_CO_02_GOBEL_SON_005_BOUTIN
+Por favor, me ajude! De qualquer maneira que puder.
+$DIAL_CO_02_GOBEL_SON_006_JUDGE
+Está surdo, rapaz? Ouviu o que eu disse? Gobel está intocável desde que fez aliança com Hébert. Se tivesse vindo a mim antes...
+$DIAL_CO_02_GOBEL_SON_007_BOUTIN
+Fui até Jacques-Louis David, até o cidadão Danton...
+$DIAL_CO_02_GOBEL_SON_008_JUDGE
+Danton não vai te ajudar, disso tenho certeza. Ouça-me, acabou. Gobel será um político de sucesso, então leve sua mãe para longe de Paris e esqueça tudo isso.
+$DIAL_CO_02_GOBEL_SON_009_BOUTIN
+Minha mãe morreu há alguns anos, desesperada e humilhada, consumida pela saudade de seu amor!
+$DIAL_CO_02_GOBEL_SON_010_JUDGE
+Sinto muito pela sua perda, mas não há nada que eu possa fazer. O mundo adora o novo arcebispo-apóstata.
+$DIAL_CO_02_GOBEL_SON_011_BOUTIN
+Então ninguém vai me ajudar?
+$DIAL_CO_02_GOBEL_SON_012_JUDGE
+Não, me desculpe. Você terá que conviver com isso.

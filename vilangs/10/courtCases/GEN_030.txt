@@ -1,0 +1,280 @@
+$GEN_030_DOC_01_HEADER
+Hazırlayan: Nathan d'Essiraf
+$GEN_030_DOC_01_00
+René Mazeaud, 43 yaşında. Paris mahkemelerinden birinde yargıç. Devrimden önce ticaretin önde gelen isimleri ve en zengin aristokrat aileler için güvenilir bir danışmandı. 1789’dan sonra Devrim’in ideallerinden etkilenerek yargıçlığa atandı.
+$GEN_030_DOC_01_01
+Paris halkı, <a name="2" class="hidden">Adèle</a> de Maillard’ı beraat ettirdikten sonra onu yolsuzluk ve Devrim’e ihanetle suçladı. Adèle, kocası Emmanuel’in komplosuna katılmakla itham ediliyordu. Onların kumpası, halkın sevgilisi Devrim Komitesi başkanı Gilbert Fuster’in öldürülmesine yol açtı.
+$GEN_030_DOC_01_02
+Adèle de Maillard’ın suçluluğu tartışmasız kanıtlarla ortaya konmuştu. Kurbanı av köşküne çekmiş, orada kocası tarafından öldürülmesine sebep olmuştu. Yine de, <a name="4" class="hidden">Adèle’in davasında yargıç olan</a> Mazeaud, duruşmaya kendi emriyle ara verildiğinde <a name="5" class="hidden">sanığı hapishanede ziyaret etti</a>. Elbette bu tür ziyaretler pek alışılmış değildir. Yargıca Muhafız Roux eşlik etti. O ziyaretten sonra Mazeaud davayı yeniden başlattı ve sanığı beraat ettirdi.
+$GEN_030_DOC_01_03
+Kararın açıklanmasının hemen ardından öfkeli kalabalık Yargıcı yakaladı. Evinde yapılan hızlı bir aramada, Adèle Maillard’dan maddi çıkar sağladığını kanıtlayan <a name="7" class="hidden">bir belge</a> bulundu.
+$GEN_030_DOC_01_04
+Devrim’den önce Mazeaud’nun <a name="8" class="hidden">Joseph de Maillard’ın, yani Adèle’in babasının avukatı</a> olması, davaya daha da fazla entrika katıyor. Mazeaud’nun yardımı sayesinde yaşlı Maillard, mal ihracatıyla zengin olmuş. Adèle de Maillard’a gelince, kendisi şu anda <a name="9" class="hidden">kayıp</a>.
+$GEN_030_DOC_02_00
+<a name="10" class="hidden">Adèle de Maillard’ın Vasiyetnamesi</a>:
+$GEN_030_DOC_02_01
+Aşağıda imzası bulunan Adèle de Maillard, aklım başımda olarak, babam Joseph de Maillard’dan miras kalan tüm mallarımı Yurttaş René Mazeaud’ya vasiyet ediyorum. Söz konusu mirasın şahsi mal varlığımın bir parçası olduğunu beyan eder, bu nedenle merhum eşim Emmanuel’in mirasçılarının herhangi bir hak iddia edemeyeceğini bildiririm. Adèle de Maillard
+$GEN_030_OnStart_00
+Adınızı öğrenebilir miyim?
+$GEN_030_OnStart_01
+René Mazeaud, sayın yargıç. Usulü gayet iyi bilirim. Doğrudan suçlamalara geçebilir miyiz?
+$GEN_030_OnStart_02
+Sanık usulleri bu kadar iyi biliyorsa, kararları verenin sanık değil, ben olduğumu da bilmelidir.
+$GEN_030_OnStart_03
+Affedersiniz, eski alışkanlıklar...
+$GEN_030_OnStart_04
+René Mazeaud, Halkın ve Devrimin düşmanı Adèle de Maillard’ı serbest bırakmak için rüşvet almakla suçlanıyorsunuz. Kendinizi nasıl savunacaksınız?
+$GEN_030_OnStart_05
+Vatandaş de Maillard masumdu. Hakim olarak davasını inceledim ve hükmü verdim. Bana yöneltilen rüşvet iddiasına gelince, bu suçlama ne kanıta ne de gerçeğe dayanmaktadır.
+$GEN_030_OnStart_06
+Size hatırlatmak isterim ki, de Maillard’ın vasiyeti elimizde.
+$GEN_030_OnStart_07
+O belge davayla ilgili değil, içeriğini bile bilmiyorum.
+$GEN_030_OnGuilty_00
+Vatandaş René Mazeaud’u giyotinle idama mahkûm ediyorum! Mahkûmu dışarı çıkarın.
+$GEN_030_OnGuilty_01
+Mesleğinizin onurunu yeniden kazandırdınız.
+$GEN_030_OnGuilty_02
+Harika!
+$GEN_030_OnGuilty_03
+Olması gerektiği gibi!
+$GEN_030_OnNotGuilty_00
+René Mazeaud hakkında verilen karar… beraat! Sanığı götürün.
+$GEN_030_OnNotGuilty_01
+İhanet!
+$GEN_030_OnNotGuilty_02
+Yargıcı tutuklayın!
+$GEN_030_OnNotGuilty_03
+Anlıyorum. Bir emsal oluşturmak istemiyorsunuz.
+$GEN_030_02x03_00_QTitle
+Adèle de Maillard’ı neden beraat ettirdiniz, kocasına yardım etmişken…?
+$GEN_030_02x03_00_00
+Adèle de Maillard’ı, kocasına Gilbert Fuster’i öldürmesinde yardım ettiği halde neden beraat ettirdiniz?
+$GEN_030_02x03_00_01
+Vatandaş de Maillard’ın kasıtlı suç ortaklığına dair kesin bir delil bulunamadı.
+$GEN_030_02x03_00_02
+Ayrıca kocasını cinayet işlemekten alıkoymaya çalıştığına dair de hiçbir kanıt yoktu.
+$GEN_030_02x03_00_03
+Bu, kasıtlı suç ortaklığından bambaşka bir şey, öyle değil mi?
+$GEN_030_02x03_00_04
+Şüpheliler Yasası, Devrim’e karşı işlenen suçlarda kasıtlı ya da istemsiz suç ortaklığı arasında ayrım gözetmez.
+$GEN_030_02x03_00_05
+Bu, hâkimin vicdanının ve sağduyusunun yerini almamalıdır. Bu karar, hüküm giymişler için değil, şüpheliler içindir.
+$GEN_030_01x10_01_QTitle
+Adèle de Maillard’ın vasiyeti, beraatinin bedeli miydi?
+$GEN_030_01x10_01_00
+Adèle de Maillard’ın vasiyeti, beraatının bedeli miydi?
+$GEN_030_01x10_01_01
+Hayır, Yurttaş de Maillard bunu kendi isteğiyle ve gizlice hazırladı. İçeriğinden haberim yoktu.
+$GEN_030_01x10_01_02
+Sanık, belge kendisinde olmasına rağmen içeriğinden habersiz miydi? İlginç.
+$GEN_030_01x10_01_03
+Vasiyet, hapishaneyi ziyaretim sırasında hazırlanıp mühürlendi. Ancak o zaman Adèle de Maillard onu bana verdi ve noteri Jules Costa’ya bırakmamı istedi.
+$GEN_030_01x10_01_04
+Ama sanık, belgenin yazıldığı sırada oradaydı; içeriğini etkileme fırsatı vardı!
+$GEN_030_01x10_01_05
+Vasiyetin içeriğini bilseydim, mirasına konmak için Vatandaş De Maillard’ı giyotine mahkûm ederdim. Ama bilmiyordum.
+$GEN_030_01x10_01_06
+O halde neden her şeyi size miras bıraktı?
+$GEN_030_01x10_01_07
+Bunu bilmiyorum ve tahmin etmek de istemem.
+$GEN_030_01x10_01_08
+Adèle de Maillard ile ne kadar yakındınız?
+$GEN_030_01x10_01_09
+Birbirimizi tanıyorduk, ama dost olacak kadar yakın değildik.
+$GEN_030_08x10_02_QTitle
+Geçmişte Adèle’in babası Joseph de Maillard için çalıştınız.
+$GEN_030_08x10_02_00
+Geçmişte Adèle’in babası Joseph de Maillard için çalışmışsınız. İşlerini ve servetini değerlendirebilir misiniz?
+$GEN_030_08x10_02_01
+Ortaklığımız sona erdiğinde, Joseph de Maillard’ın varlıkları ona yaklaşık 2 milyon frank kazandırıyordu ve sanırım bugün hâlâ kâr getiriyorlar.
+$GEN_030_08x10_02_02
+Yani Adèle de Maillard epey büyük bir servete sahip olacaktı.
+$GEN_030_08x10_02_03
+Ne ima ettiğinizi biliyorum, fakat Vatandaş De Maillard’ı beni mirasçısı yapmaya ikna ettiğim iddiasını kesinlikle reddediyorum.
+$GEN_030_08x10_02_04
+Maillard’ın mali durumu hakkında şaşırtıcı derecede iyi bilgi sahibisiniz.
+$GEN_030_08x10_02_05
+Bu şaşırtıcı değil. Onların güvenilir danışmanıydım.
+$GEN_030_08x10_02_06
+Onların parasıyla bir kral gibi yaşardınız. Bu, insanı güçlü bir şekilde cezbediyor olmalı.
+$GEN_030_08x10_02_07
+Siz ona boyun eğer miydiniz?
+$GEN_030_08x10_02_08
+Asla.
+$GEN_030_08x10_02_09
+Kesinlikle, ben de öyle yapmadım.
+$GEN_030_05x06_03_QTitle
+Tanığı çağırın, Simon Roux.
+$GEN_030_05x06_03_00
+Tanığı çağırın, Simon Roux.
+$GEN_030_05x06_03_02
+Lütfen kendinizi tanıtın.
+$GEN_030_05x06_03_03
+Simon Roux, buraya hakim beyin emriyle çağrıldı.
+$GEN_030_08x09_04_QTitle
+Adèle de Maillard’ı tanıyor muydunuz?
+$GEN_030_08x09_04_00
+Adèle de Maillard’ı tanır mıydınız?
+$GEN_030_08x09_04_01
+Devrimden önce babasının bazı işlerini yürütmüştüm. Sanırım bu yüzden beni tanıyor olabilir.
+$GEN_030_08x09_04_02
+Yani size güvenip belki de merhametinize sığınabileceğini mi düşünüyordu?
+$GEN_030_08x09_04_03
+Mümkün, ama emin değilim. Fakat hükmümü verirken merhamet göstermedim.
+$GEN_030_08x09_04_04
+Gerçekten mi? Bu kadar güçlü delillere rağmen onu beraat ettirdiniz!
+$GEN_030_08x09_04_05
+O zamanlar o kadar güçlü görünmemişti, ama belki siz daha iyi bilirsiniz.
+$GEN_030_08x09_04_06
+Elbette arkadaşını mahkûm etmezdi.
+$GEN_030_04x05_05_QTitle
+Neden Adèle de Maillard ile hapishanede görüştünüz?
+$GEN_030_04x05_05_00
+Neden Adèle de Maillard ile hapishanede görüştünüz? Bu, davalar sırasında alışılmış bir uygulama değildir.
+$GEN_030_04x05_05_01
+Vatandaş de Maillard duruşmanın ilk gününde bayıldı. Rol yapmadığından ve davayı en kısa sürede sürdürebileceğimden emin olmak istedim.
+$GEN_030_04x05_05_02
+Bunu o planlamış olabilir.
+$GEN_030_04x05_05_03
+Sanmıyorum. Kendini oldukça kötü hissediyordu.
+$GEN_030_04x05_05_04
+Bir doktoru bekleyebilirdiniz.
+$GEN_030_04x05_05_05
+Ve bildiğiniz gibi, beklemem epey uzun sürecekti. Ayrıca işleri hızlandırmak istedim, çünkü yargılanmayı bekleyen uzun bir sanık listesi vardı.
+$GEN_030_09x10_06_QTitle
+Adèle de Maillard’ın kaybolmasından siz mi sorumlusunuz?
+$GEN_030_09x10_06_00
+Adèle de Maillard’ın kaybolmasından siz mi sorumlusunuz?
+$GEN_030_09x10_06_01
+Elbette hayır, bununla hiçbir alakam yoktu.
+$GEN_030_09x10_06_02
+Vatandaş de Maillard’ın ortadan kaybolması, özellikle de vasiyetinin içeriği göz önüne alındığında, sizin için fazlasıyla elverişli görünüyor.
+$GEN_030_09x10_06_03
+Onu öldürdünüz mü yoksa parasına daha çabuk kavuşmak için sadece sakladınız mı, merak ediyorum?
+$GEN_030_09x10_06_04
+Bir kez daha belirtmeliyim ki, Yurttaş de Maillard’ın nerede olduğunu bilmiyorum ve kayboluşuyla hiçbir ilgim yok. Hatta hayatta mı, yoksa öldü mü, onu bile bilmiyorum.
+$GEN_030_07x10_07_QTitle
+Vasiyeti nereden aldınız?
+$GEN_030_07x10_07_00
+Vasiyeti nereden aldınız?
+$GEN_030_07x10_07_01
+Vatandaş de Maillard, onu hapishanede kendisini ziyaret ettiğimde bana verdi ve bir notere iletmemi istedi. Bunda yasa dışı hiçbir şey yok.
+$GEN_030_07x10_07_02
+Duruşmasının arasındaki molada mı yaptı bunu?
+$GEN_030_07x10_07_03
+Elbette.
+$GEN_030_07x10_07_04
+Neden bu kadar bekledi?
+$GEN_030_07x10_07_05
+Bilmiyorum. Onu bulup kendiniz sormanız gerekecek.
+$GEN_030_WIT_00_A_QTitle
+Adèle de Maillard’ı hapishanede kaç kez ziyaret ettiniz?
+$GEN_030_WIT_00_A_00
+Adèle de Maillard’ı hapishanede kaç kez ziyaret ettiniz?
+$GEN_030_WIT_00_A_01
+Sadece bir kez, Yurttaş Yargıç, onun duruşması sırasında.
+$GEN_030_WIT_00_A_02
+Sanık, tüm tutuklulara aynı ilgiyi gösterdi mi?
+$GEN_030_WIT_00_A_03
+Hatırladığım kadarıyla, Yargıç Mazeaud başka hiçbir tutukluyla görüşmedi. Ama ona karışmamam emredildi.
+$GEN_030_WIT_01_A_QTitle
+Mazeaud’nun eski tutukluyla görüşmesini anlatabilir misiniz?
+$GEN_030_WIT_01_A_00
+Mazeaud’nun eski tutukluyla görüşmesini anlatabilir misiniz?
+$GEN_030_WIT_01_A_01
+Önce her şey sakindi, sonra bir anda birbirlerine bağırmaya başladılar. Sonra yine sakinleştiler.
+$GEN_030_WIT_01_A_02
+Kim neyi bağırdı, söyleyebilir misiniz?
+$GEN_030_WIT_01_A_03
+Yargıç Mazeaud bir şeyin uygunsuz ve kurallara aykırı olduğunu, bunu yapmayacağını söyledi. Tutuklunun ne dediğini anlamadım, mırıldanıyordu.
+$GEN_030_WIT_01_A_04
+Sizce tartışıyor olmalarının sebebi, de Maillard’ın ona mirasından pay teklif ederek rüşvet vermeye çalışması olabilir mi?
+$GEN_030_WIT_01_A_05
+Bu oldukça açık.
+$GEN_030_WIT_01_A_06
+Sanırım öyle. Hakimin yanında yazı malzemeleri olan bir çanta vardı.
+$GEN_030_WIT_01_A_07
+Demek ki her şeyi o planlamış!
+$GEN_030_WIT_01_A_09
+Bu iddialara ne diyorsunuz?
+$GEN_030_WIT_01_A_10
+Bana göre, bu kanıtlar sanığı aklamak için hiçbir zaman bir karşılık talep etmediğimi gösteriyor.
+$GEN_030_WIT_01_A_11
+Ama başta isteksiz olsanız bile, böyle bir teklifi kabul edebilirdiniz.
+$GEN_030_WIT_01_A_12
+Tek tereddüt ettiğim şey, vasiyetini bir notere teslim etmekti.
+$GEN_030_WIT_01_B_QTitle
+Hakimin hapishaneye ziyaretinin amacını biliyor muydunuz?
+$GEN_030_WIT_01_B_00
+Hakimin hapishaneye ziyaretinin amacını biliyor muydunuz?
+$GEN_030_WIT_01_B_01
+Evet, Yargıç Mazeaud’un sanığın sağlık durumunu kontrol etmek istediğine dair resmi bir belge vardı.
+$GEN_030_WIT_01_B_02
+O yaptı mı?
+$GEN_030_WIT_01_B_03
+Neyi kontrol edecektik ki? Veremdi, Yurttaş Yargıç, hem de ağır. Pek zamanı kalmamıştı. Bir de başka bir şey vardı...
+$GEN_030_WIT_01_B_04
+Ne?!
+$GEN_030_WIT_01_B_05
+Duruşmadan önce sanığı kapsamlı bir tıbbi muayeneden geçirdik ve hamile olduğunu tespit ettik. Çok uzun zaman olmamıştı ama karnı şimdiden büyümeye başlamıştı. Nedense bunu kimse fark etmemişti.
+$GEN_030_WIT_01_B_06
+Doğum yapmak için tüm mal varlığından vazgeçti. Mesele bundan ibaret.
+$GEN_030_WIT_01_B_07
+Kimin çocuğu olabilir?
+$GEN_030_WIT_01_B_08
+Emin değilim, ama Gilbert Fuster hakkında bazı söylentiler duydum.
+$GEN_030_WIT_01_B_10
+Bu suçlamalara ne diyorsunuz?
+$GEN_030_WIT_01_B_11
+Sanırım artık, halkın istediği gibi Vatandaş De Maillard’ı giyotine göndermenin neden barbarca olacağını anlamak için yeterince şey duyduk. Suçluluğu kesin olarak kanıtlansa bile.
+$GEN_030_WIT_01_B_12
+Ayrıca, Adèle de Maillard’ın servetinin tek mirasçısı olarak ne kadar büyük bir kazanç elde edeceğinizi de anlayabiliyoruz.
+$GEN_030_WIT_01_B_13
+Onun ve doğmamış çocuğunun ölümünü beklemem gerekecekti. Kendine insan diyen biri bile bunu iğrenç bulurdu.
+$GEN_030_KEY_01
+Yolsuzluk suçlamaları
+$GEN_030_KEY_02
+Sanığın beraati
+$GEN_030_KEY_03
+Suçluluğun kesin kanıtı
+$GEN_030_KEY_04
+Adèle davasındaki yargıç
+$GEN_030_KEY_05
+Sanığın ziyareti
+$GEN_030_KEY_06
+Hapishane gardiyanı
+$GEN_030_KEY_07
+Belgelerin ortaya çıkışı
+$GEN_030_KEY_08
+Adèle’in babasının avukatı
+$GEN_030_KEY_09
+Adèle’in kayboluşu
+$GEN_030_KEY_10
+Vasiyet
+$GEN_030_LastDialog_00
+Yakında tekrar görüşeceğiz, sevgili Yargıç…
+$GEN_030_UNIQUE_QUESTION_00
+Mazeaud, Maillard’ın beraatini nasıl gerekçelendirdi?
+$GEN_030_UNIQUE_ANSWER_CORRECT_00_00
+Delil yetersizliği.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Tanıkların verdiği ifadeler.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Üstlerinin müdahalesiyle.
+$GEN_030_UNIQUE_QUESTION_01
+Yargıcın kendi ifadesine göre, sanığın hücresine neden gitti?
+$GEN_030_UNIQUE_ANSWER_CORRECT_01_00
+Onun sağlığı için endişeleniyordu.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Onu sorguya çekmek istedi.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Delil arıyordu.
+$GEN_030_UNIQUE_QUESTION_02
+Sanık ile beraat eden kadın arasında ne tür bir ilişki vardı?
+$GEN_030_UNIQUE_ANSWER_CORRECT_02_00
+Babası’nın avukatı.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Onun eski hizmetkârı.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Onun piç üvey erkek kardeşi.

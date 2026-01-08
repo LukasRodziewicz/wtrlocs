@@ -1,0 +1,346 @@
+$FAB_007_DOC_1_HEADER
+Compilé par : Fabrice Poli
+$FAB_007_DOC_1_00
+Jean-Marie Roland, ministre de l'Intérieur jusqu'à très récemment, a été accusé de <a name="1" class="hidden">corruption</a> et de <a name="2" class="hidden">trahison</a>.
+$FAB_007_DOC_1_01
+Concernant l'accusation de corruption, nous avons commencé l'enquête en interrogeant des membres importants de la Convention. Les citoyens Hébert et Robespierre ont été particulièrement obligeants. Ils ont témoigné que le ministre Roland leur avait, à de nombreuses reprises, offert des avantages s'ils acceptaient d'adoucir leur position concernant la guerre qui nous oppose aux monarchies qui nous menacent, comme l'Angleterre et l'Espagne. Ces citoyens ont mentionné n'avoir aucune preuve tangible qui leur permettrait d'accuser Roland. De plus, ils soupçonnent que l'offre ne venait pas directement de Roland lui-même. Ils ont émis l'hypothèse que le <a name="4" class="hidden">citoyen Capet</a> pourrait être à l'origine de cette demande. Celui-ci entretenait en effet des liens étroits avec Roland. Ne voulant pas lancer de fausses accusations, les personnes impliquées attendaient de voir émerger des preuves irréfutables.
+$FAB_007_DOC_1_02
+ Quand ses tentatives de corrompre les membres les plus importants ont échoué, Roland se serait soi-disant tourné vers des députés moins influents. Il espérait les gagner à sa cause avec le concours de sa femme, Jeanne Marie Roland. Celle-ci tenait un salon politique servant de couverture à une <a name="6" class="hidden">maison close</a>. Malheureusement, nous n'avons pas réussi à identifier les députés qui auraient profité de l'hospitalité de Madame Roland et de ses filles. Les voisins ont cependant confirmé que des carrosses pleins d'hommes arrivaient souvent la nuit à cette adresse. Ils étaient peut-être réellement là pour discuter de politique, mais cela semble peu probable.
+$FAB_007_DOC_1_03
+L'accusation de trahison se fonde sur un élément dévoilé lors du procès du citoyen Capet : l'armoire de fer. Roland se serait <a name="7" class="hidden">dépêché de retirer</a> certains documents de l'armoire, car ceux-ci l'incriminaient. Un subordonné du ministre présent lors de ces événements, Phillipe Côté, a déclaré qu'il était prêt à témoigner. Grâce à sa rapidité de réaction, il a évité la <a name="8" class="hidden">destruction de documents</a> concernant Louis lui-même.
+$FAB_007_DOC_1_04
+Comme si cela ne suffisait pas, au dernier moment le citoyen Saint-Just a signalé que les girondins prévoyaient de <a name="9" class="hidden">renverser la Convention</a> par la force afin de prendre le pouvoir. On nous a rapporté que des membres de ce groupe s'attachaient activement à <a name="10" class="hidden">causer un soulèvement</a>, ce qui leur permettrait de prendre le pouvoir à d'autres endroits du pays. Les villes de Nantes et de Niort étaient censément menacées par leurs activités, car l'intensité du sentiment <a name="11" class="hidden">contre-révolutionnaire</a> et monarchiste s'y était intensifiée.
+$FAB_007_DOC_1_05
+Au vu de ces faits, le peuple de Paris, représenté par le procureur Tinville, demande à ce que ce traître soit condamné à mort immédiatement !
+$FAB_007_OnStart_00
+Même si nous connaissons tous l'accusé, merci de te présenter pour le greffe, citoyen.
+$FAB_007_OnStart_01
+Jean-Marie Roland, ministre de l'Intérieur et député de la Convention...
+$FAB_007_OnStart_02
+Tu n'es plus ministre, sale traître !
+$FAB_007_OnStart_03
+Je suis innocent à moins qu'on arrive à prouver ma culpabilité.
+$FAB_007_OnStart_04
+Coupons la tête de l'hydre le plus vite possible !
+$FAB_007_OnGuilty_00
+Je condamne Jean-Marie Roland à mort ! Qu'il subisse le même sort que les autres traîtres !
+$FAB_007_OnGuilty_01
+Bravo ! Longue vie au juge !
+$FAB_007_OnGuilty_02
+Débarrassons le gouvernement des espions anglais !
+$FAB_007_OnPrison_00
+Jean-Marie Roland ira en prison.
+$FAB_007_OnPrison_01
+Ne prends-tu pas cette affaire trop à la légère ?
+$FAB_007_OnPrison_02
+N'importe quoi ! Tu penses qu'on va accepter ça ?
+$FAB_007_OnNotGuilty_00
+Jean-Marie Roland est innocent. Laissez-le partir.
+$FAB_007_OnNotGuilty_01
+Innocent ?
+$FAB_007_OnNotGuilty_02
+Peut-être que le juge aussi est un traître ?
+$FAB_007_OnNotGuilty_03
+On dirait qu'ils ne t'ont pas poignardé assez fort !
+$FAB_007_01x03_00_QTitle
+Les citoyens Hébert et Robespierre affirment que tu leur as offert un pot-de-vin...
+$FAB_007_01x03_00_00
+Les citoyens Hébert et Robespierre affirment que tu leur as offert un pot-de-vin pour adoucir notre politique étrangère. Est-ce vrai ?
+$FAB_007_01x03_00_01
+Bien sûr que non. En tant que ministre de l'Intérieur, cela ne m'aurait rien apporté.
+$FAB_007_01x03_00_02
+Cela dépend de ce que le citoyen Capet attendait de toi.
+$FAB_007_01x03_00_03
+Si je convainquais la Convention d'entamer des pourparlers de paix, le peuple croirait que tout est fini. Il serait pris au dépourvu et des agents ennemis pourraient passer les frontières plus facilement. Cela compliquerait considérablement mon travail.
+$FAB_007_01x03_00_04
+L'accusé suggère un possible mobile pour ses actes. C'est exactement ce qu'un traître voudrait, un plus grand nombre d'espions ennemis qui s'attachent à détruire la France !
+$FAB_007_01x03_00_05
+Traître !
+$FAB_007_01x03_00_06
+Plus d'espions, c'est plus d'argent de la part de l'Autriche !
+$FAB_007_01x03_00_07
+Silence, bande d'imbéciles bruyants ! Grâce à mon travail, les Hébertistes ont pu continuer à mener leurs guerres sans s'inquiéter et sans que le pays ne tombe en ruine sous leurs bottes autoritaires !
+$FAB_007_01x03_00_08
+Silence !
+$FAB_007_01x06_01_QTitle
+L'enquête suggère que la femme de l'accusé dirigeait un bordel de luxe...
+$FAB_007_01x06_01_00
+L'enquête suggère que la femme de l'accusé dirigeait un bordel de luxe où la corruption des membres de la Convention aurait pu avoir lieu.
+$FAB_007_01x06_01_01
+C'est une absurdité totale et une insulte ! Mon épouse est une femme de vertu et respectée. Elle tenait un salon politique, un endroit où les grands esprits pouvaient se rencontrer et échanger leurs vues sur les affaires courantes...
+$FAB_007_01x06_01_02
+Mes informateurs confirment les éléments découverts par les enquêteurs.
+$FAB_007_01x06_01_03
+Quel fourbe, ce Roland !
+$FAB_007_01x06_01_04
+Que me chaut ce que pensent des idiots ? Si ma femme organisait vraiment de telles orgies en plein milieu de Paris, il n'y aurait pas besoin d'informateurs secrets pour le savoir. Cette accusation est absurde.
+$FAB_007_01x06_01_05
+Tu n'as donc pas soudoyé des politiciens en leur offrant de tels… services ?
+$FAB_007_01x06_01_06
+Non. Et puis, qui soudoierais-je et pourquoi ? Je n'ai pas un seul ennemi en politique.
+$FAB_007_01x06_01_07
+La majorité de la Convention souhaite voir ta tête sous la lame de la guillotine. Peut-être devrais-tu ouvrir les yeux et faire plus attention. D'après mes informations, c'est ce genre de cadeaux qui t'a valu le soutien de Jean Debry et Brissot.
+$FAB_007_01x06_01_08
+Ce n'est rien de plus qu'une rumeur malveillante qui insulte ces hommes d'État !
+$FAB_007_02x04_02_QTitle
+Te souviens-tu, citoyen, que le citoyen Capet a été déclaré coupable de trahison ?
+$FAB_007_02x04_02_00
+Te souviens-tu, citoyen, que le citoyen Capet a été déclaré coupable de trahison ?
+$FAB_007_02x04_02_01
+Oui, bien sûr.
+$FAB_007_02x04_02_02
+Il semblerait que les propositions faites à ces hommes soient venues du défunt Capet.
+$FAB_007_02x04_02_03
+Il n'y a pas eu de propositions. Et si Louis a envisagé cela, je n'en ai rien su.
+$FAB_007_02x04_02_04
+Tu l'appelles par son prénom ? Le citoyen Capet aussi te recommandait chaudement. Il a mentionné vos rapports privilégiés et votre collaboration.
+$FAB_007_02x04_02_05
+Lou… Le citoyen Capet était mon supérieur. Telle était la nature de nos rapports.
+$FAB_007_02x04_02_06
+La rumeur dans les couloirs était que tu lâchais rarement la main de Capet tant tu l'embrassais souvent.
+$FAB_007_02x04_02_07
+Pourquoi ne pas dire clairement qu'il se serait fait sodomiser avec joie !
+$FAB_007_02x04_02_08
+Je ne souhaite pas offenser la cour.
+$FAB_007_02x04_02_09
+Ce n'est pas un procès, mais une parodie !
+$FAB_007_02x07_03_QTitle
+Appelez devant la cour Phillipe Côté.
+$FAB_007_02x07_03_00
+Appelez devant la cour Phillipe Côté.
+$FAB_007_02x07_03_02
+Je te prie de te présenter, citoyen.
+$FAB_007_02x07_03_03
+Je m'appelle Phillipe Côté. Je travaille, ou plutôt, je travaillais pour Monsieur le ministre Roland.
+$FAB_007_02x07_03_04
+Peux-tu dire quel était ton poste ?
+$FAB_007_02x07_03_05
+Pas vraiment. Je réalisais un assortiment de tâches pour le ministre : mettre en ordre les documents, transmettre des messages, distribuer des pots-de-vin…
+$FAB_007_02x07_03_06
+Qu'est-ce qu'il raconte ?
+$FAB_007_02x07_03_07
+Il révèle le vrai visage du ministre.
+$FAB_007_02x07_03_08
+Au départ, je ne savais pas qu'il s'agissait de pots-de-vin. Je n'ai compris leur signification que plus tard.
+$FAB_007_02x08_04_QTitle
+Tu es accusé d'avoir tenté de détruire des preuves impliquant le citoyen Capet.
+$FAB_007_02x08_04_00
+Tu es accusé d'avoir tenté de détruire des preuves impliquant le citoyen Capet.
+$FAB_007_02x08_04_01
+C'est une absurdité, une véritable fiction. Ne croyez pas un mot de ce que ce fichu Côté a pu dire. Il n'était pas dans ma tête et n'a pas pu savoir quelles étaient mes intentions !
+$FAB_007_02x08_04_02
+Mais il te connaissait plutôt bien…
+$FAB_007_02x08_04_03
+Il était faible et facilement influençable, et maintenant il cherche à se venger, comme un chat qui se prendrait pour un lion. Après tout, les documents ont été remis à la cour, n'est-ce pas ?
+$FAB_007_02x08_04_04
+Ils l'ont été, mais seulement parce que la chance t'a abandonnée et que le citoyen Côté est revenu plus vite que prévu. Tu ne t'y attendais pas et tu es devenu maladroit.
+$FAB_007_02x08_04_05
+Et il nous ment effrontément !
+$FAB_007_02x08_04_06
+Comment pouvez-vous savoir que je n'avais pas l'intention de les transmettre ?
+$FAB_007_02x09_05_QTitle
+J'aimerais revenir sur un incident qui n'apparaît pas dans le dossier.
+$FAB_007_02x09_05_00
+J'aimerais revenir sur un incident qui n'apparaît pas dans le dossier. Est-ce que tu te souviens m'avoir rendu visite après le procès du citoyen Capet ?
+$FAB_007_02x09_05_01
+Oui…
+$FAB_007_02x09_05_02
+Et te souviens-tu aussi m'avoir prédit un destin tragique ? Que dis-je, ma mort imminente ?
+$FAB_007_02x09_05_03
+Quel être sans vergogne !
+$FAB_007_02x09_05_04
+Je tiens à signaler que j'étais dans un état d'agitation extrême…
+$FAB_007_02x09_05_05
+Il a menacé le juge de mort ?
+$FAB_007_02x09_05_06
+Et, bizarrement, quelques jours plus tard, j'ai été attaqué dans la rue par des inconnus qui m'ont poignardé en plein ventre !
+$FAB_007_02x09_05_07
+Je savais que tu étais en dessous de tout, mais je n'imaginais pas que tu étais aussi un meurtrier.
+$FAB_007_02x09_05_08
+Je refuse de répondre.
+$FAB_007_02x09_05_09
+Est-ce que cela faisait aussi partie du plan pour renverser la Convention ? Tuer le juge qui risquait de t'envoyer à la guillotine ?
+$FAB_007_02x09_05_10
+Je refuse de répondre ! Je suis innocent !
+$FAB_007_04x05_06_QTitle
+Ta femme est-elle aussi restée en contact avec le citoyen Capet ?
+$FAB_007_04x05_06_00
+Ta femme est-elle aussi restée en contact avec le citoyen Capet ?
+$FAB_007_04x05_06_01
+Elle a assisté à un ou deux de ses banquets avec moi…
+$FAB_007_04x05_06_02
+Les traîtres ne peuvent jamais s'empêcher de pactiser avec ces chiens d'aristocrates.
+$FAB_007_04x05_06_03
+J'apprécierais que le procureur Tinville tienne sa langue.
+$FAB_007_04x05_06_04
+En dehors de ces occasions, mon épouse n'a pas été en contact avec le citoyen Capet. Elle n'avait aucune raison de lui parler.
+$FAB_007_04x05_06_05
+Es-tu certain de savoir exactement ce qui se passait dans son bordel ?
+$FAB_007_04x05_06_06
+Elle est bien bonne !
+$FAB_007_04x05_06_07
+Mon épouse est une femme respectable !
+$FAB_007_04x05_06_08
+Encore mieux !
+$FAB_007_04x11_07_QTitle
+Il semblerait que l'activité des girondins dans certaines régions du pays…
+$FAB_007_04x11_07_00
+Il semblerait que l'activité des girondins dans certaines régions du pays ait augmenté le sentiment antirévolutionnaire.
+$FAB_007_04x11_07_01
+Qu'est-ce que cela a à voir avec moi ?
+$FAB_007_04x11_07_02
+Tu as été reconnu comme la figure centrale d'un coup d'État avorté. Tu as fait partie du groupe mentionné et tu as entretenu des rapports étroits avec le citoyen Capet.
+$FAB_007_04x11_07_03
+Je condamne les activités de mes collègues en province. Pour le bien de la France, nous devons nous serrer les coudes et régler nos problèmes par la discussion et non par la force.
+$FAB_007_04x11_07_04
+Bavardages typiques d'un homme qui a peur de se retrouver sous la guillotine.
+$FAB_007_04x11_07_05
+Et tes bavardages sont typiques d'un homme qui cherche à influencer le peuple, car il n'a aucune preuve !
+$FAB_007_04x11_07_06
+C'est vrai qu'il n'a pas montré de preuves…
+$FAB_007_04x11_07_07
+Pas besoin de preuves pour un traître !
+$FAB_007_09x10_08_QTitle
+Quel était ton rôle dans le coup d'État prévu ?
+$FAB_007_09x10_08_00
+Quel était ton rôle dans le coup d'État prévu ?
+$FAB_007_09x10_08_01
+Je n'avais pas de rôle. Je ne savais rien de ce complot, si tant est qu'il soit réel. J'ai honte de mes collègues députés.
+$FAB_007_09x10_08_02
+Mes informateurs disent que Roland a non seulement participé à l'élaboration du coup d'État, mais devait aussi diriger toute l'affaire.
+$FAB_007_09x10_08_03
+Je vais t'assommer, menteur de jacobin !
+$FAB_007_09x10_08_04
+Voyez comme il est arrogant !
+$FAB_007_09x10_08_05
+Tu ne nous aimes pas beaucoup, n'est-ce pas ?
+$FAB_007_09x10_08_06
+Tu veux m'assassiner parce que je me dresse entre toi et le pouvoir. Je ne vais pas t'apprécier pour ça.
+$FAB_007_09x10_08_07
+Tu nous donnes des raisons de te déclarer coupable.
+$FAB_007_09x10_08_08
+Même les ministres comme moi ont leurs limites. Nous avons de l'honneur et ce charlatan tente de le bafouer.
+$FAB_007_09x10_08_09
+En tant que ministre de l'Intérieur, n'aurais-tu pas dû être au courant de la trahison prévue par tes collègues de la Convention ? Un mot ou deux à la bonne personne auraient suffi à régler le problème.
+$FAB_007_09x10_08_10
+…
+$FAB_007_09x10_08_11
+Répond, charogne.
+$FAB_007_09x10_08_12
+Je n'ai rien à ajouter.
+$FAB_007_WIT_00_A_QTitle
+Pourquoi as-tu laissé le ministre seul avec le contenu de l'armoire de fer ?
+$FAB_007_WIT_00_A_00
+Pourquoi as-tu laissé le ministre seul avec le contenu de l'armoire de fer ?
+$FAB_007_WIT_00_A_01
+J'ai obéi à ses ordres. Il m'a dit de sortir et de m'assurer que personne ne rentre dans la pièce. Je ne devais pas revenir avant vingt minutes.
+$FAB_007_WIT_00_A_02
+As-tu suivi ces directives ?
+$FAB_007_WIT_00_A_03
+Oui, au début, parce que j'avais des doutes. J'ai pensé que le ministre souhaitait peut-être chercher des documents compromettants, alors je suis revenu le voir plus rapidement.
+$FAB_007_WIT_00_A_04
+Et qu'as-tu vu ?
+$FAB_007_WIT_00_A_05
+J'ai vu le ministre éplucher des documents. Quelques-uns étaient mis de côté, et lorsque je suis entré, il les a cachés sous son manteau.
+$FAB_007_WIT_00_A_06
+As-tu remarqué des détails précis ? Quelque chose qui pourrait indiquer ce qu'étaient ces documents ?
+$FAB_007_WIT_00_A_07
+Je n'ai pu y jeter qu'un coup d'œil et je n'ai vu que les sceaux. La plupart étaient celui du citoyen Capet, mais j'ai aussi remarqué des sceaux que je ne connaissais pas. C'était sans doute ceux de monarques étrangers.
+$FAB_007_WIT_00_B_QTitle
+Comment l'accusé s'est-il comporté lorsque tu l'as surpris en train de cacher les documents ?
+$FAB_007_WIT_00_B_00
+Comment l'accusé s'est-il comporté lorsque tu l'as surpris en train de cacher les documents ?
+$FAB_007_WIT_00_B_01
+Il s'est mis en colère et a crié qu'il m'avait clairement ordonné d'attendre dehors et de ne laisser personne entrer.
+$FAB_007_WIT_00_B_02
+Mais tu as fait montre d'une désobéissance toute révolutionnaire devant le mal ?
+$FAB_007_WIT_00_B_03
+Sans Côté, nous n'aurions jamais attrapé ce traître !
+$FAB_007_WIT_00_B_04
+Je pensais qu'un crime était en train d'être commis dans la pièce, je ne pouvais donc pas fermer les yeux. Il est de l'intérêt de la France que ses ministres soient au-delà de tout soupçon.
+$FAB_007_WIT_01_A_QTitle
+Sais-tu quelque chose sur l'influence de Madame Roland sur le comportement de son époux ?
+$FAB_007_WIT_01_A_00
+Sais-tu quelque chose sur l'influence de Madame Roland sur le comportement de son époux ?
+$FAB_007_WIT_01_A_01
+D'après moi, c'est la femme du ministre qui détenait réellement le pouvoir.
+$FAB_007_WIT_01_A_02
+Un ministre fantoche ! Comme si être un traître n'était pas suffisant !
+$FAB_007_WIT_01_A_03
+Pas un ministre, un rat…
+$FAB_007_WIT_01_A_04
+Qu'est-ce qui te fait penser cela ?
+$FAB_007_WIT_01_A_05
+J'étais censé apporter toute correspondance concernant son travail du jour à Madame Roland immédiatement.
+$FAB_007_WIT_01_A_06
+C'est ridicule !
+$FAB_007_WIT_01_A_07
+Quelle honte !
+$FAB_007_WIT_01_A_08
+Merci pour ton courage. La France te remercie.
+$FAB_007_WIT_01_B_QTitle
+Sais-tu si la femme du ministre a corrompu des députés de la Convention ?
+$FAB_007_WIT_01_B_00
+Sais-tu si la femme du ministre a corrompu des députés de la Convention ?
+$FAB_007_WIT_01_B_01
+Je n'en suis pas sûr, mais un jour, j'ai dû emmener une prostituée appelée Giselle de… l'établissement de Madame jusqu'au logis du député Pierre Vergniaud.
+$FAB_007_WIT_01_B_02
+Faut-il d'autres preuves pour condamner ce couple de traîtres à mort ?
+$FAB_007_WIT_01_B_03
+Tous les girondins sont des michetons !
+$FAB_007_WIT_01_B_04
+Dans quel but cette femme se rendait-elle là-bas ?
+$FAB_007_WIT_01_B_05
+Il a vraiment besoin de le demander ?
+$FAB_007_WIT_01_B_06
+On ne me l'a pas dit clairement. Cependant, j'avais pour ordre de la ramener ensuite, et je peux vous dire… Elle est revenue avec un œil au beurre noir, et du sang séché sous ses ongles. Je lui ai donné mon mouchoir.
+$FAB_007_WIT_01_B_07
+Merci pour ton courage. La France te remercie.
+$FAB_007_KEY_01
+Corruption
+$FAB_007_KEY_02
+Trahison
+$FAB_007_KEY_03
+Vues sur la guerre
+$FAB_007_KEY_04
+Contacts avec le citoyen Capet
+$FAB_007_KEY_05
+Jeanne Marie Roland
+$FAB_007_KEY_06
+Maison close
+$FAB_007_KEY_07
+Documents cachés
+$FAB_007_KEY_08
+Preuves détruites
+$FAB_007_KEY_09
+Renverser la Convention
+$FAB_007_KEY_10
+Provoquer un soulèvement
+$FAB_007_KEY_11
+Sentiment antirévolutionnaire
+$FAB_007_LastDialog_00
+Vous voulez me voir perdre la tête ?
+$FAB_007_UNIQUE_QUESTION_00
+Qui est Côté, l'homme qui a assisté aux incidents entourant l'armoire blindée ?
+$FAB_007_UNIQUE_ANSWER_CORRECT_00_00
+Le subordonné du prévenu.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Le subordonné du roi.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_00_01
+L'ami du prévenu.
+$FAB_007_UNIQUE_QUESTION_01
+Comment le prévenu explique-t-il les menaces proférées contre le juge du Tribunal ?
+$FAB_007_UNIQUE_ANSWER_CORRECT_01_00
+Par impulsivité.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Il les nie.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il prétend que ce n'était qu'un simple lapsus.
+$FAB_007_UNIQUE_QUESTION_02
+Quelle était la façade donnée à la maison close des Roland ?
+$FAB_007_UNIQUE_ANSWER_CORRECT_02_00
+Un salon politique.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Le bureau du journal de Marat.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Un entrepôt.

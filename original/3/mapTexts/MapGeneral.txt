@@ -1,0 +1,548 @@
+$END_DAY
+Завершить день
+$DISTRICT_TEMPERATURE
+Накаленность
+$DISTRICT_NEUTRAL_TOOLTIP
+Это нейтральная секция.
+$DISTRICT_OWNER_PEOPLE
+Фракция: Простой люд
+$DISTRICT_OWNER_REVOLUTIONISTS
+Фракция: Революционеры
+$DISTRICT_OWNER_PLAYER
+Контролируется вами
+$DISTRICT_OWNER_ENEMY
+Контролируется врагом
+$GROUP_SUPPORT_LOW
+Отношение: враждебное
+$GROUP_SUPPORT_MEDIUM
+Отношение: нейтральное
+$GROUP_SUPPORT_HIGH
+Отношение: дружеское
+$AGENT_IDLE
+Бездействует
+$AGENT_ACTION_BOOST_DISTRICT
+Увеличить ваше влияние в секции
+$AGENT_ACTION_SABOTAGE
+Заманивать вражеских агентов
+$AGENT_ACTION_AMBUSH
+Устроить засаду для врага
+$AGENT_ACTION_GET_RESOURCES
+Улучшать отношения с фракцией
+$AGENT_ACTION_LOWER_TEMPERATURE
+Снижать накаленность в секции
+$AGENT_ACTION_FIGHT_UNREST
+Бороться с беспорядками
+$AGENT_ACTION_GOSSIP
+Распространять полезные слухи
+$AGENT_ACTION_PROTECT
+Защищать дружеских агентов
+$AGENT_BLOCKED
+Заблокирован
+$AGENT_WOUNDED
+Ранен
+$PAWN_COMBAT_ACTIVITY_TOOLTIP
+Сражается
+$AGENT_ACTION_BOOST_DISTRICT_TOOLTIP
+Захватывает секцию
+$AGENT_ACTION_SABOTAGE_TOOLTIP
+Пытается заманить врагов
+$AGENT_ACTION_LOWER_TEMPERATURE_TOOLTIP
+Успокаивает толпу
+$AGENT_ACTION_FIGHT_UNREST_TOOLTIP
+Подавляет беспорядки
+$AGENT_ACTION_UNLOCK_DISTRICT_TOOLTIP
+Открывает секцию
+$COMBAT_UNIT_01
+Народное ополчение
+$COMBAT_UNIT_02
+Пехота
+$COMBAT_UNIT_03
+Городская стража
+$COMBAT_UNIT_04
+Мушкетеры
+$COMBAT_UNIT_05
+Артиллерия
+$MAGIC_BUTTON_BATTLE
+Провести все битвы
+$ENEMY_AGENT_NAME_DIPLOMAT
+Вражеский дипломат
+$ENEMY_AGENT_NAME_MUSCLE
+Вражеский головорез
+$MAP_PATROL_NAME
+Патруль революционеров
+$UNLOCK_DISTRICT
+Открыть секцию
+$MISSION_EXCEPTION_ENEMY_AGENT_TUTORIAL
+Атаковать вражеского агента
+$MISSION_EXCEPTION_DISCOVERY_TUTORIAL
+Захватить вражескую секцию
+$MISSION_EXCEPTION_NO_UNREST
+Нет беспорядков
+$MISSION_EXCEPTION_MAX_LEVEL
+Секция полностью улучшена
+$MISSION_EXCEPTION_PLAYER_HQ
+Секция принадлежит вам
+$MISSION_EXCEPTION_ENEMY_HQ
+Секция принадлежит вражеской семье
+$MISSION_EXCEPTION_NON_PLAYER_DISTRICT
+Секция не принадлежит вам
+$BLOCK_PLAYER_AGENTS_TOOLTIP
+Вы не можете выполнять действия из-за своих ран.
+$MISSION_EXCEPTION_AGENT_IS_WOUNDED
+Агент был ранен.
+$MISSION_EXCEPTION_NO_ALLIES
+Нет дружественных агентов.
+$MISSION_EXCEPTION_ACTIVE_UNREST
+Беспорядки в секции
+$ENEMY_AGENT_JOB_DESC
+Захватывает секцию
+$MAP_PATROL_JOB_DESC
+Патрулирует
+$PAWN_MUSCADINES_JOB_DESC
+Распаляют толпу
+$PAWN_NAME_MUSCADINES
+Мюскадены
+$REPORT_ENEMY_AGENTS_TITLE
+Вражеские агенты
+$REPORT_DISTRTICT_TITLE
+Секции
+$MAP_PATROL_BRIBE_TOOLTIP
+Обменять Очки влияния на агента
+#FULL_GARRISON
+Гарнизон заполнен!
+#NO_PLACE_GARRISON
+Не хватает места!
+$REPORT_ACTION_DESCRIPTION_01
+Cекция {0} улучшена
+$REPORT_ACTION_DESCRIPTION_02
+Был заблокирован беспорядками
+$REPORT_ACTION_DESCRIPTION_03
+Был схвачен патрулем революционеров
+$REPORT_ACTION_DESCRIPTION_06
+Саботаж в секции {0}
+$REPORT_ACTION_DESCRIPTION_07
+Агент побежден: {0}
+$REPORT_ACTION_DESCRIPTION_08
+Не удалось победить агента: {0}
+$REPORT_ACTION_DESCRIPTION_09
+Снижена накаленность в секции {0}
+$REPORT_ACTION_DESCRIPTION_10
+Не удалось снизить накаленность в секции {0}
+$REPORT_ACTION_DESCRIPTION_11
+Подавлены беспорядки в секции {0}
+$REPORT_ACTION_DESCRIPTION_12
+Не удалось подавить беспорядки в секции {0}
+$REPORT_ACTION_DESCRIPTION_16
+Вражеский агент {0} устранен патрулем революционеров
+$REPORT_ACTION_DESCRIPTION_17
+В секции {0} появился патруль революционеров!
+$REPORT_ACTION_DESCRIPTION_18
+В секции {0} появился вражеский агент: {1}!
+$REPORT_ACTION_DESCRIPTION_19
+{0} исчезает!
+$REPORT_ACTION_DESCRIPTION_20
+Повышается накаленность в секции {0}
+$REPORT_ACTION_DESCRIPTION_21
+Начались беспорядки в секции {0}
+$REPORT_ACTION_DESCRIPTION_22
+Беспорядки подавлены в секции {0}
+$REPORT_ACTION_DESCRIPTION_23
+Секция {0} полностью улучшена!
+$REPORT_ACTION_DESCRIPTION_24
+Беспорядки понизили уровень секции {0}!
+$REPORT_ACTION_DESCRIPTION_25
+Улучшены отношения с фракцией: {0}
+$REPORT_ACTION_DESCRIPTION_26
+Не удалось улучшить отношения с фракцией: {0}
+$DISTRICTS_COUNTER_TOOLTIP
+Подконтрольные секции
+$DISTRICT_CONTROL_BAR_TOOLTIP
+Контроль над Парижем
+$MAP_COMBAT_GARRISON
+Гарнизон
+#GENERAL_ARMY_STACK_TIER_01
+Маленькая
+#GENERAL_ARMY_STACK_TIER_02
+Средняя
+#GENERAL_ARMY_STACK_TIER_03
+Большая
+#GENERAL_QUICK_BATTLE_NAME
+Быстрая битва
+#GENERAL_SELECTION_EFFECTIVNESS
+Эффективность:
+#GENERAL_SELECTION_ARMY
+Солдаты:
+#GENERAL_SELECTION_TACTIC
+Тактика:
+$MAIN_SECTION_STATUE_SELECTION_DESC
+Проект статуи
+$MAIN_SECTION_STATUE_SELECTION_TITLE
+Подтвердить проект
+$MAIN_SECTION_HEADER
+Главная секция
+$MAIN_SECTION_STATUE_ATTRIBUTE
+Окружение
+$MAIN_SECTION_STATUE_BOTTOM
+Пьедестал
+$MAIN_SECTION_STATUE_TOP
+Памятник
+$MAIN_SECTION_STATUE_SING
+Подпишите для подтверждения
+$MAIN_SECTION_BUILD_BUTTON
+Захватить здание
+$MAIN_SECTION_BUILD_INFO
+- Захватить здание -
+$MAIN_SECTION_REBUILD_HEADER
+Выберите, какое здание превратить в ваш штаб
+$MAIN_SECTION_REBUILD_BUTTON
+Восстановить
+$MAIN_SECTION_REBUILD_TOOLTIP_01
+Здание восстанавливается.
+$MAIN_SECTION_ACTION_BUTTON
+Это действие будет стоить {0} ОВ
+$MAIN_SECTION_ACTION_NOT_ENOUGHT
+Вы не можете позволить это действие ({0} ОВ)
+$MAIN_SECTION_BUILD_INPROGRESS
+Захват в процессе ({0}/{1} дней)
+$MAIN_SECTION_REBUILD_INPROGRESS
+Восстановление в процессе {0} ({1}/{2} дней)
+$MAIN_SECTION_BUILD_BLOCKED
+Это здание заблокировано.
+$MAIN_SECTION_BUILD_SPEED
+Скорость возведения статуи в день: {0}%
+$MAIN_SECTION_BUILD_SPEED_TOOLTIP
+Количество подконтрольных секций влияет на скорость строительства статуи.
+$MAIN_SECTION_BUILD_POPUP
+Новые возможности
+$MAIN_SECTION_BUILD_POPUP_TEXT
+Завершился очередной этап строительства статуи. Теперь вы можете захватить еще одно здание.
+$MAIN_SECTION_REBUILD_POPUP
+Начало сражений
+$MAIN_SECTION_REBUILD_POPUP_TEXT
+Париж охвачен боями! Политический салон будет преобразован в штаб, а убежище — в пункт помощи. Издательство перестанет работать.
+$MAIN_SECTION_FAMILY_POPUP
+Помочь строительству статуи
+$MAIN_SECTION_FAMILY_POPUP_TEXT
+Все начнут работать усерднее, если увидят, что ваша семья помогает!
+$MAIN_SECTION_BUILD_END_POPUP_01
+Захват здания завершен.
+$MAIN_SECTION_BUILD_END_POPUP_02
+Восстановление здания завершено.
+$MAIN_SECTION_BUILD_END_POPUP_03
+Строительство завершено.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_01
+Политический салон успешно захвачен. Доступные в нем действия помогут вашей работе в суде.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_02
+Убежище захвачено. Оно поможет вашим агентам успешнее действовать в Париже.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_03
+Вы захватили издательство. Новые действия помогут вам влиять на политические фракции Парижа.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_05
+Политический салон был переоборудован в штаб. Доступные в нем действия облегчат вашу битву за Париж.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_06
+Убежище теперь используется как пункт помощи. Если вы потеряете в бою специалиста по логистике, то сможете завербовать здесь нового.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_07
+Издательство было переоборудовано в полевой госпиталь. Если вы потеряете в бою медика, то сможете завербовать здесь нового.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_08
+Вы завершили строительство символа победы Революции. К монументу уже стекаются любопытные парижане.
+$MAIN_SECTION_MILESTONE_COUNTER
+Дней до инспекции: {0}
+$MAIN_SECTION_MILESTONE_EXEEDED
+Инспекция в процессе
+$MAIN_SECTION_PREMILESTONE_TITLE
+Инспекция вот-вот начнется!
+$MAIN_SECTION_PREMILESTONE_MAIN
+Через три дня инспекция оценит ваш прогресс в строительстве статуи. Постарайтесь их впечатлить.
+$MAIN_SECTION_MILESTONE_01
+Этап I: {0}–{1}%
+$MAIN_SECTION_MILESTONE_02
+Этап II: {0}–{1}%
+$MAIN_SECTION_MILESTONE_03
+Этап III: {0}–{1}%
+$MAIN_SECTION_MILESTONE_04
+Этап IV: {0}–{1}%
+$MAIN_SECTION_STATUE_TITLE
+Статуя
+$MAIN_SECTION_STATUE_DESCRIPTION
+Завершив очередной этап строительства статуи, вы сможете захватить еще одно здание.
+$MAIN_SECTION_BUILDING_01
+Политический салон
+$MAIN_SECTION_BUILDING_DESC_01
+Доступные в этом здании действия помогут вашей работе в суде.
+$MAIN_SECTION_BUILDING_02
+Убежище
+$MAIN_SECTION_BUILDING_DESC_02
+Убежище поможет вашим агентам успешнее действовать в Париже.
+$MAIN_SECTION_BUILDING_03
+Издательство
+$MAIN_SECTION_BUILDING_DESC_03
+Издательство разблокирует доступ к действиям против мюскаденов и революционных патрулей.
+$MAIN_SECTION_BUILDING_04
+Ваш дом
+$MAIN_SECTION_BUILDING_DESC_04
+Доступные здесь действия касаются вашей семьи и убеждения других персонажей.
+$MAIN_SECTION_BUILDING_05
+Штаб
+$MAIN_SECTION_BUILDING_DESC_05
+Штаб разблокирует действия, относящиеся к битвам.
+$MAIN_SECTION_BUILDING_06
+Пункт помощи
+$MAIN_SECTION_BUILDING_DESC_06
+Позволяет вам завербовать специалиста по логистике.
+$MAIN_SECTION_BUILDING_07
+Полевой госпиталь
+$MAIN_SECTION_BUILDING_DESC_07
+В этом здании вы можете завербовать медика.
+$MAIN_SECTION_ACTION_ACTIVE
+Действие доступно для выбора
+$MAIN_SECTION_ACTION_COOLDOWN
+Дней до доступа к действию: {0}
+$MAIN_SECTION_ACTION_TITLE_01
+Заполнить отчет
+$MAIN_SECTION_ACTION_TITLE_02
+Подкупить присяжных
+$MAIN_SECTION_ACTION_TITLE_03
+Предоставить иммунитет
+$MAIN_SECTION_ACTION_TITLE_04
+Успокоить толпу
+$MAIN_SECTION_ACTION_TITLE_05
+Донести
+$MAIN_SECTION_ACTION_TITLE_06
+Натравить мюскаденов
+$MAIN_SECTION_ACTION_TITLE_07
+Провести больше времени с семьей
+$MAIN_SECTION_ACTION_TITLE_08
+Упростить убеждение
+$MAIN_SECTION_ACTION_TITLE_09
+Шпионить за врагом
+$MAIN_SECTION_ACTION_TITLE_10
+Строить баррикады
+$MAIN_SECTION_ACTION_TITLE_11
+Завербовать логистика
+$MAIN_SECTION_ACTION_TITLE_12
+Завербовать медика
+$MAIN_SECTION_ACTION_DESC_01
+Во время завтрашнего суда отчет будет закрыт, и вам не придется о нем беспокоиться.
+$MAIN_SECTION_ACTION_DESC_02
+У присяжных не будет собственного мнения по поводу вердикта в завтрашнем слушании.
+$MAIN_SECTION_ACTION_DESC_03
+Ваши агенты будут защищены от действий патруля.
+$MAIN_SECTION_ACTION_DESC_04
+Понизить накаленность в контролируемой вами секции.
+$MAIN_SECTION_ACTION_DESC_05
+Патруль революционеров схватит ближайшего вражеского агента.
+$MAIN_SECTION_ACTION_DESC_06
+Во время следующего хода мюскадены отправятся в ближайшую секцию врага и начнут бунт.
+$MAIN_SECTION_ACTION_DESC_07
+Случайным образом выбирает одно семейное действие.
+$MAIN_SECTION_ACTION_DESC_08
+У убеждаемого персонажа будет лучше изначальное отношение к вам.
+$MAIN_SECTION_ACTION_DESC_09
+Показывает силу атакующей армии.
+$MAIN_SECTION_ACTION_DESC_10
+Отряды в секциях рядом с вражеской секцией получают бонус к защите.
+$MAIN_SECTION_ACTION_DESC_11
+Благодаря присутствию логистика люди будут спасаться быстрее.
+$MAIN_SECTION_ACTION_DESC_12
+Медик лечит раны ваших солдат во время битв.
+$MAIN_SECTION_OPEN_TOOLTIP
+Щелкните, чтобы перейти к виду Главной секции.
+$MAIN_SECTION_ACTION_ACCEPT_TOOLTIP
+Щелкните для подтверждения.
+$MAIN_SECTION_BUILD_TOOLTIP
+Вы можете захватить это здание.
+$MAIN_SECTION_BUILDING_TOOLTIP
+Вы уже захватываете это здание.
+$MAIN_SECTION_SELECTED_ACTION_TOOLTIP
+Это действие уже выбрано.
+$MAIN_SECTION_LOCKED_TOOLTIP
+Вы еще не можете захватить это здание.
+$MAIN_SECTION_MAGIC_TOOLTIP
+Посетите Главную секцию.
+$MAP_REFUGEES_MAGIC_TOOLTIP
+Спасение беженцев
+$MAP_REFUGEE_AGENT
+Логистик
+$MAP_MEDIC_AGENT
+Медик
+$MAP_REFUGEE_AGENT_MISSION
+Помощь в побеге
+$MAP_REFUGEES_COUNTER_TOOLTIP
+Гражданские в секции
+$MAP_REFUGEES_RESCUED_TOOLTIP
+Число выживших парижан
+$MAP_REFUGEES_CASAULTIES_TOOLTIP
+Число убитых парижан
+$MAP_REFUGEES_REPUTATION_TOOLTIP
+Влияние на репутацию
+$MAP_REFUGEES_COUNTER_TITLE
+Судьба беженцев
+$MAP_INVASION_DAYS_LEFT
+Дней до прибытия подкреплений:
+$MAP_INVASION_EXEEDED
+Подкрепления так и не прибыли
+$MAP_REFUGEES_VISIBLE
+Скрыть количество гражданских в секции
+$MAP_REFUGEES_INVISIBLE
+Показать количество гражданских в секции
+$MAP_ARMY_RAPORT_HEADER
+НАБОР РЕКРУТОВ
+$MAP_ARMY_RAPORT_TITLE
+Количество полученных войск зависит от вашей репутации.
+$MAP_ADDITIONAL_ARMY_RAPORT_HEADER
+Дополнительные войска
+$MAP_REPORT_TITLE
+ОТЧЕТ О ДЕЙСТВИЯХ
+$MAP_COMBAT_PAWN_TITLE_01
+Народное ополчение
+$MAP_COMBAT_PAWN_DESC_01
+Люди всех слоев общества. Сила приходит с количеством.
+$MAP_COMBAT_PAWN_TITLE_02
+Пехота
+$MAP_COMBAT_PAWN_DESC_02
+Тренированные солдаты, которые хороши для ближнего боя и защиты от атак.
+$MAP_COMBAT_PAWN_TITLE_03
+Городская стража
+$MAP_COMBAT_PAWN_DESC_03
+Стрелки, каждый день защищавшие город. Они атакуют как издалека, так и в ближнем бою.
+$MAP_COMBAT_PAWN_TITLE_04
+Мушкетеры
+$MAP_COMBAT_PAWN_DESC_04
+Тренированные стрелки, которые лучше всего подходят для дистанционного боя, но справляются и с ближним.
+$MAP_COMBAT_PAWN_TITLE_05
+Артиллерия
+$MAP_COMBAT_PAWN_DESC_05
+Передовые технологии делают артиллерию непревзойденной в огневой силе. К несчастью, артиллерия уязвима для атак.
+$MAP_NEWSPAPER_TITLE
+Газета
+$MAP_NEWSPAPER_A1_05
+Эту тему люди обсуждали уже не один день, но лишь шепотом и с сомнением. Сегодня мы можем кричать об этом в полный голос. Жан Мари Ролан уничтожил доказательства измены Людовика, хранившиеся в железном шкафу Капета! Тревожные догадки подтвердил Филипп Коте, который находился рядом с министром, когда тот открыл шкаф. Заодно Ролан попытался уничтожить документы, компрометирующие его самого. К счастью, ему не удалось уничтожить все улики. Его остановили солдаты, которых прислал бдительный страж порядка Робеспьер. Позор!
+$MAP_NEWSPAPER_A1_03
+«Слава герою Парижа! Судья Алекси Фидель приговорил к казни изменника Луи Капета, бывшего короля, и лично привел приговор в исполнение. Он поступил решительно, без колебаний и жалости. У Парижа есть новый защитник!»
+$MAP_NEWSPAPER_A1_04
+«Пруссы у границ Франции! Верховное командование приняло решение начать новый набор войск для отражения возможной атаки приближающегося врага. Любой, в чьем сердце есть храбрость и любовь к родине, должен встать плечом к плечу с собратьями и при необходимости погибнуть за...»
+$MAP_NEWSPAPER_A1_06
+Враги уже здесь! Это уже не какое-то недостижимое и невероятное будущее, а прямая угроза, которая претворится в жизнь, если мы не очистим наше общество. Будьте бдительны и везде ищите врагов Республики. Агенты ансьен режим могут скрываться среди нас! Смерть предателя Капета — вовсе не повод забывать о бдительности!
+$MAP_NEWSPAPER_A2_FIRST_01
+Роланы были лишь первыми жертвами этого смердящего судьи. Фидель обвел их вокруг пальца, и теперь они покоятся в деревянном ящике.
+$MAP_NEWSPAPER_A2_FIRST_02
+Две жертвы не насытили бездушного судью, поскольку он не замедлил отправить на гильотину целую роту жирондистов. Якобы за измену, но кто знает наверняка?
+$MAP_NEWSPAPER_A2_FIRST_03
+Мало кто знает, но именно он был одним из ответственных за расстрел демонстрантов после побега Капета. Это он подписал разрешение открыть стрельбу по невинным людям!
+$MAP_NEWSPAPER_A2_FIRST_04
+А до этого он буквально приговорил к смерти главнокомандующего Бюреля, когда отказался помочь храброму солдату справиться с бушующей толпой.
+$MAP_NEWSPAPER_A2_FIRST_05
+После скандала вокруг министра Ролана и его жены Трибунал конфисковал их имущество, включая публичный дом, хозяйкой которого была Манон Ролан. И кто же это осуществил? По официальной версии — главнокомандующий Анрио. Но говорят, что Фидель тоже оказался в доле.
+$MAP_NEWSPAPER_A2_SECOND_01
+Мэра Парижа постигла та же судьба. Судья Фидель покончил с ним, считая, что Паш был ответственным за покушение на жизнь Фиделя.
+$MAP_NEWSPAPER_A2_SECOND_02
+Чтобы добраться до Паша, Фидель отдал Париж на растерзание мюскаденам. Когда они узнали о прегрешениях мэра, они стали громить весь город. С разрешения Фиделя!
+$MAP_NEWSPAPER_A2_SECOND_03
+Он протестовал против завершения строительства моста [если этот вариант выбран игроком] Он был решительно против завершения строительства моста. Конечно, именно там повесили его сына, но личные чувства не должны идти против интересов всего города.
+$MAP_NEWSPAPER_A2_SECOND_04
+Беатрис Карон — другая жертва «трибунальского зверя». Несчастную девушку обвинили в заговоре против Паша и измене. За одну ночь ее жизнь превратилась в кошмар.
+$MAP_NEWSPAPER_A2_SECOND_05
+И это привело к ее смерти. Наспех состряпанный заговор заставил дочь мэра, Мари-Сильви Паш, убить Беатрис. Девушки состояли в отношениях.
+$MAP_NEWSPAPER_A2_SECOND_06
+«Трибунальский зверь» заставил замолчать последнего выжившего свидетеля этих событий, приговорив к смерти Мари-Сильви Паш. Так он расправился со всеми, кто мог ему помешать.
+$MAP_NEWSPAPER_A2_THIRD_01
+Затем «трибунальский зверь» начал распускать отвратительные слухи насчет внебрачного сына архиепископа Гобеля. Кто мог знать, к каким ужасающим последствиям это приведет? Алекси Фидель знал отлично.
+$MAP_NEWSPAPER_A2_THIRD_02
+Не может быть никаких сомнений, что судья воспользовался Вандейским мятежом, чтобы повысить накал страстей в столице и заставить простой люд, уже недолюбливавший духовенство, отвернуться и от Гобеля.
+$MAP_NEWSPAPER_A2_THIRD_03
+Он помешал инициативе Гобеля. Архиепископ, желая поддержать изнуренное общество, начал помогать беднякам. Фидель немедленно прекратил эту инициативу. Для него собственные политические цели были важнее, чем благополучие людей!
+$MAP_NEWSPAPER_A2_THIRD_04
+Но и это еще не самое гнусное преступление, которое совершил «трибунальский зверь». Фидель похитил семью Гобеля, чтобы его шантажировать. Можно сказать, что в дальнейшем именно из-за этих действий Гобель умер от рук своего же сына!
+$MAP_NEWSPAPER_A2_FOURTH_01
+Алекси Фидель известен своей неуемной любовью к выпивке и азартным играм. И подобное неконтролируемое поведение свойственно всей семье.
+$MAP_NEWSPAPER_A2_FOURTH_02
+Брат судьи был изгнан из города за то, что он искалечил юношу, которого избил дубинкой до полусмерти. Пострадавший до сих пор не может даже справлять нужду без чужой помощи.
+$MAP_NEWSPAPER_A2_FOURTH_03
+Насколько известно, судья до сих пор поддерживает неоднозначные связи с Грейс Эллиот, проституткой, которая занималась шпионажем для англичан.
+$MAP_NEWSPAPER_A2_FOURTH_04
+А его жена ничем не лучше своего мужа. Матильда Фидель неверна в браке. Ее не раз видели в компании главнокомандующего Анрио — того самого мужчины, кандидатуру которого Алекси Фидель поддержал, и который оказался собачонкой Робеспьера.
+$MAP_NEWSPAPER_A2_FOURTH_05
+Остаются неясными и отношения Фиделя с неким Грегори Рамелем. Рамель всеми правдами и неправдами добывал для «трибунальского зверя» информацию, и Фиделя, очевидно, не волновало, что его помощник когда-то был английским шпионом.
+$RAPORT_SPY_TAKE_OVER_SECTION
+Получен контроль над секцией {0}, до этого принадлежавшей врагу.
+$RAPORT_SPY_BOUNCE_SECTION
+Сделал нейтральной секцию {0}.
+$RAPORT_SPY_TRAP
+Устроил засаду на врага.
+$RAPORT_SPY_SABOTAGE
+Саботировал секцию {0}.
+$RAPORT_MUSCLE_UNREST_SUCC
+Подавил бунт в секции {0}.
+$RAPORT_MUSCLE_UNREST_FAIL
+Не смог подавить бунт в секции {0}.
+$RAPORT_MUSCLE_GAIN_REP
+Улучшил вашу репутацию на {0}.
+$RAPORT_MUSCLE_GAIN_PROT_AGENTS
+Победил агентов в секции {0}.
+$RAPORT_DIPLOMAT_TAKE_OVER_SECTION
+Захватил секцию {0}.
+$RAPORT_DIPLOMAT_IMPROVE_RELATIONS
+Улучшил отношения с: {0}.
+$RAPORT_DIPLOMAT_IMPROVE_RELATIONS_FAIL
+Не смог улучшить отношения с: {0}.
+$RAPORT_DIPLOMAT_DECREASE_TEMP
+Снизил накаленность обстановки в секции {0}.
+$RAPORT_AGENT_BLOCKED_UNREST
+Агент был заблокирован бунтами.
+$RAPORT_AGENT_BLOCKED_PATROL
+Агент был задержан патрулем революционеров.
+$RAPORT_AGENT_WON_FIGHT_WITH_ENEMY
+Агент победил в схватке с врагом.
+$RAPORT_AGENT_INJURED
+Агент был ранен.
+$RAPORT_AGENT_REVEAL_SECTION
+Агент разведал секцию {0}.
+$RAPORT_ENEMY_AGENTS_TAKE_OVER_SECTION
+Вражеский {0} захватил секцию {1}.
+$RAPORT_ENEMY_AGENTS_DISAPPEAR
+Вражеский {0} исчез.
+$RAPORT_ENEMY_AGENTS_ARRESTED
+Вражеский агент {0} был задержан патрулем революционеров.
+$RAPORT_ENEMY_MUSCADIN_UNREST
+Мюскадены разожгли беспорядки.
+$RAPORT_ENEMY_PATROL_SPAWN_SECTION
+Патруль революционеров прочесывает секцию {0}!
+$RAPORT_ENEMY_MUSCADIN_SPAWN_SECTION
+В секции {0} замечены мюскадены!
+$RAPORT_ENEMY_AGENT_SPAWN_SECTION
+В секцию X прибыл вражеский агент: {0}!
+$RAPORT_ENEMY_MUSCADIN_DISAPPEAR
+Группа мюскаденов распалась.
+$RAPORT_ENEMY_PATROL_DISAPPEAR
+Патруль революционеров исчез.
+$RAPORT_SECTION_SPAWN_UNREST
+В секции {0} начались беспорядки.
+$RAPORT_SECTION_DESPAWN_UNREST
+В секции {0} закончились беспорядки.
+$RAPORT_SECTION_PLAYER_TAKE_OVER_SECTION
+Получен контроль над секцией {0}!
+$RAPORT_SECTION_NEUTRAL_UNREST
+Секция {0} стала нейтральной после беспорядков!
+$RAPORT_SECTION_LOST
+Вы утратили контроль над секцией {0}!
+$RAPORT_SECTION_REVEAL
+Секция {0} открыта.
+$RAPORT_SECTION_HIGHT_TEMP
+Накаленность в секции {0} достигла опасного значения.
+$DISTRICT_INFLUENCE_BONUS
+Очки влияния: +{0}
+$DISTRICT_CONSTRUCTION_BONUS
+Строительство монумента: +{0}%
+$MAP_COMBAT_TUTORIAL_TOOLTIP
+Разместите войска в находящейся под угрозой секции!
+$MAP_COMBAT_END_TITLE
+Продолжайте сражаться.
+$MAP_COMBAT_END_MAIN
+Подкрепления не прибыли вовремя. Нам придется продержаться еще немного.
+$COMBAT_FIRST_LINE
+Пехота — первый ряд
+$COMBAT_SECOND_LINE
+Мушкетеры — второй ряд
+$COMBAT_THIRD_LINE
+Артиллерия — третий ряд
+$MAIN_SECTION_MILESTONE_TITLE
+Дней до инспекции:

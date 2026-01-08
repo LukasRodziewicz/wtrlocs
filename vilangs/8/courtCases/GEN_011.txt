@@ -1,0 +1,262 @@
+$GEN_011_DOC_01_HEADER
+Compilado por: Pierre Daquin
+$GEN_011_DOC_01_00
+O Marquês de Favras é um aristocrata de 46 anos, <a name="1" class="hidden">ex-militar</a> e atualmente um ativista político <a name="2" class="hidden">simpatizante da monarquia</a>. Após deixar o exército, casou-se e passou a viajar pela Europa com a <a name="3" class="hidden">esposa</a>. Durante essas viagens, realizou-se politicamente e <a name="4" class="hidden">amparou</a> sua esposa. Retornou a Paris em 1789 e participou de <a name="6" class="hidden">uma conspiração</a> que pretendia pôr fim à Revolução. De Favras demonstrou falta de discernimento ao confiar em antigos companheiros, que o traíram e denunciaram o plano às autoridades.
+$GEN_011_DOC_01_01
+De Favras é suspeito de ter desempenhado um papel crucial na fuga do cidadão Capet da França. Os conspiradores pediram que ele tomasse um empréstimo de <a name="7" class="hidden">2 milhões de francos</a>, valor que cobriria todas as despesas do cidadão Capet e sua família em sua saída do país.
+$GEN_011_DOC_01_02
+Se tudo tivesse ocorrido conforme o plano, 30.000 soldados teriam entrado na capital com ordens para assassinar três líderes políticos: o ministro das Finanças Jacques Necker, o prefeito de Paris Jean Sylvain Bailly e o comandante-chefe da Guarda Nacional de Paris, François Hanriot. O passo seguinte seria bloquear o abastecimento de alimentos à cidade.
+$GEN_011_DOC_01_03
+De Favras e sua esposa foram detidos e acusados de conspirar contra o povo da França e a Revolução, e provavelmente serão condenados à guilhotina. O Conde da Provença nega qualquer ligação com eles.
+$GEN_011_DOC_01_04
+Prova: <a name="10" class="hidden">Uma carta</a> de M. de Foucault.
+$GEN_011_DOC_02_TOOLTIP
+Uma carta de M. de Foucault
+$GEN_011_DOC_02_00
+De Favras, onde estão suas tropas? Por qual direção entrarão em Paris? Gostaria de estar entre elas.
+$GEN_011_DOC_2_SUBHEADER
+<a name="10" class="hidden">Uma carta</a> de M. de Foucault,
+$GEN_011_DOC_2_MAIN
+De Favras, onde estão suas tropas? Por qual direção entrarão em Paris? Gostaria de estar entre elas.
+$GEN_011_OnStart_00
+Por favor, apresente-se.
+$GEN_011_OnStart_01
+Sou Thomas de Mahy, Marquês de Favras.
+$GEN_011_OnStart_02
+Marquês de Favras, você está acusado de participar ativamente de uma conspiração contra o povo da França.
+$GEN_011_OnStart_03
+Desculpe, mas não consigo compreender como qualquer um dos atos de que sou acusado poderia prejudicar o povo da França.
+$GEN_011_OnStart_04
+Você quis restaurar a monarquia derrubada, que nos trouxe exploração, fome e miséria.
+$GEN_011_OnStart_05
+Isso mesmo!
+$GEN_011_OnStart_06
+Temos provas contundentes e depoimentos de seus oficiais que deixam claro que você pretendia abolir a Revolução.
+$GEN_011_OnStart_07
+Por favor, conte-me tudo sobre essas provas tão contundentes que você tem contra mim.
+$GEN_011_OnStart_08
+Que audácia!
+$GEN_011_OnGuilty_00
+Thomas de Mahy, Marquês de Favras, você está condenado à morte! Levem o sentenciado.
+$GEN_011_OnGuilty_01
+Uma cabeça de cada vez.
+$GEN_011_OnGuilty_02
+Um veredito justo!
+$GEN_011_OnGuilty_03
+É isso que acontece com os inimigos da Revolução!
+$GEN_011_OnPrison_00
+Condeno Thomas de Mahy, Marquês de Favras, à prisão! Levem-no daqui.
+$GEN_011_OnPrison_01
+Não, não, não! Os inimigos da Revolução devem ser decapitados!
+$GEN_011_OnPrison_02
+O Juiz perdeu o juízo!
+$GEN_011_OnNotGuilty_00
+O veredito para Thomas de Mahy, Marquês de Favras, é... inocente! Retirem o réu do tribunal.
+$GEN_011_OnNotGuilty_01
+Não, não, não! Os inimigos da Revolução devem ser decapitados!
+$GEN_011_OnNotGuilty_02
+O Juiz é inimigo da Revolução!
+$GEN_011_OnNotGuilty_03
+Não vamos esquecer disso!
+$GEN_011_06x07_00_QTitle
+Por que queria sacar dois milhões de francos? É uma quantia exorbitante.
+$GEN_011_06x07_00_00
+Por que queria sacar dois milhões de francos? É uma quantia exorbitante.
+$GEN_011_06x07_00_01
+Retirei a quantia a pedido do meu superior, o Conde da Provença. Quanto ao propósito, não me atrevi a perguntar.
+$GEN_011_06x07_00_02
+Como você consegue pegar tanto dinheiro emprestado para outra pessoa sem nem perguntar para quê?
+$GEN_011_06x07_00_03
+Uma mentira descarada. Essa informação seria indispensável para conseguir um empréstimo desses!
+$GEN_011_06x07_00_04
+Nós, aristocratas, tratamos uns aos outros com respeito e discrição. Você não entenderia.
+$GEN_011_06x07_00_05
+Zombaria!
+$GEN_011_06x07_00_06
+Dois dos seus oficiais testemunharam que o dinheiro seria usado para ajudar o cidadão Capet e sua família a fugirem da França. Por que disse isso a eles?
+$GEN_011_06x07_00_07
+Você deveria se perguntar por que deram esse depoimento. Concordo, há uma conspiração. Mas é contra mim, não contra a Revolução.
+$GEN_011_06x07_00_08
+Esse traidor está tentando se safar com conversa!
+$GEN_011_02x09_01_QTitle
+Qual é a sua relação com o Conde da Provença, irmão do cidadão Capet…?
+$GEN_011_02x09_01_00
+Qual é a sua relação com o Conde da Provença, irmão do cidadão Capet, Louis Stanislas Xavier de Bourbon?
+$GEN_011_02x09_01_01
+Fui tenente da Guarda Suíça a serviço do Conde.
+$GEN_011_02x09_01_02
+Então o Conde confia em você?
+$GEN_011_02x09_01_03
+Correndo o risco de soar imodesto, devo dizer que sou digno de confiança e respeito.
+$GEN_011_02x09_01_04
+O povo da França provavelmente não confirmaria suas palavras, já que você conspirava contra eles.
+$GEN_011_02x09_01_05
+Isso são apenas suposições suas.
+$GEN_011_02x09_01_06
+Isso já basta para mandar cortar sua cabeça, verme!
+$GEN_011_02x09_01_07
+Acalmem-se!
+$GEN_011_08x10_02_QTitle
+Quem é o enigmático sr. de Foucault que lhe escreveu a carta…?
+$GEN_011_08x10_02_00
+Quem é o enigmático Sr. de Foucault que lhe escreveu a carta sobre suas tropas?
+$GEN_011_08x10_02_01
+Não conheço essa pessoa. Qualquer um poderia me enviar uma carta e inventar o conteúdo conforme lhe conviesse.
+$GEN_011_08x10_02_02
+Essa carta supostamente aleatória de um desconhecido não lhe causou preocupação?
+$GEN_011_08x10_02_03
+Isso é um disparate.
+$GEN_011_08x10_02_04
+Um cidadão honesto teria entregue isso às autoridades.
+$GEN_011_08x10_02_05
+Isso nunca me passou pela cabeça. Não faço a menor ideia sobre o que aquela pessoa estava escrevendo.
+$GEN_011_08x10_02_06
+Não sabe nada sobre as tropas que deveriam entrar em Paris e pôr fim à Revolução após o resgate bem-sucedido do cidadão Capet?
+$GEN_011_08x10_02_07
+No momento, não comando nenhuma tropa. Tanto aquela carta quanto a acusação de que enviei soldados a Paris são grandes equívocos.
+$GEN_011_08x10_02_08
+Quem mais, então? Ele é um cão na coleira dos Bourbons!
+$GEN_011_08x10_02_09
+Diga-me, 2 milhões de francos seriam suficientes para contratar 30.000 soldados de infantaria?
+$GEN_011_08x10_02_10
+Isso já seria mais do que suficiente.
+$GEN_011_01x02_03_QTitle
+O que você pensa sobre a Revolução?
+$GEN_011_01x02_03_00
+O que você pensa sobre a Revolução?
+$GEN_011_01x02_03_01
+Todos sabem que o Estado precisava urgentemente de reformas, mas a violência? Um ataque inesperado e brutal à Família Real deveria ser chamado de vingança, não de revolução.
+$GEN_011_01x02_03_02
+Então você é contra a Revolução, não é?
+$GEN_011_01x02_03_03
+Estou apenas decepcionado com o rumo que tomou. Como ex-soldado, posso lhe afirmar que a violência e a guerra sempre geram mais ódio e ainda mais violência.
+$GEN_011_01x02_03_04
+Ainda assim, você estava se preparando para tomar a cidade à força?
+$GEN_011_01x02_03_05
+Isso não foi comprovado.
+$GEN_011_01x02_03_06
+Se não tivessem capturado ele, as ruas de Paris estariam cobertas de sangue!
+$GEN_011_01x02_03_07
+Que absurdo! Do que vocês estão falando?
+$GEN_011_01x02_03_08
+Silêncio! Marquês de Favras, sua postura diante da Revolução faz de você um traidor aos olhos do povo.
+$GEN_011_01x02_03_09
+Lamento profundamente saber que algumas palavras de dura verdade bastam para chamar alguém de traidor e condená-lo à morte.
+$GEN_011_03x05_04_QTitle
+Quais países você e sua esposa visitaram durante a viagem pela Europa?
+$GEN_011_03x05_04_00
+Quais países você e sua esposa visitaram durante a viagem pela Europa?
+$GEN_011_03x05_04_01
+Polônia, ou o que restou dela, Áustria, Hungria...
+$GEN_011_03x05_04_02
+Por que escolheu esses países? Estava tentando formar alianças católicas para o cidadão Capeto?
+$GEN_011_03x05_04_03
+Procurávamos paisagens encantadoras e boa comida.
+$GEN_011_03x05_04_04
+Com quem você se encontrou durante suas missões?
+$GEN_011_03x05_04_05
+Que missões? Conversamos com centenas de pessoas, não vou listar todas aqui.
+$GEN_011_03x05_04_06
+Claro que não, ele não é dedo-duro.
+$GEN_011_03x04_05_QTitle
+Qual é a profissão da sua esposa?
+$GEN_011_03x04_05_00
+Qual é a profissão da sua esposa?
+$GEN_011_03x04_05_01
+No momento, ela não está fazendo nada em especial. Quando vivia em sua terra natal, a Áustria, tentou se envolver na política.
+$GEN_011_03x04_05_02
+E quais foram os resultados?
+$GEN_011_03x04_05_03
+Medíocre, obviamente, já que decidimos voltar para a França.
+$GEN_011_03x04_05_04
+Não há nada de óbvio nisso. Vocês poderiam ter tido sucesso e voltado como espiões de um estado inimigo.
+$GEN_011_03x04_05_05
+Você pode interpretar como quiser, especialmente se gosta de contos para dormir.
+$GEN_011_01x03_06_QTitle
+Por que você encerrou sua carreira militar?
+$GEN_011_01x03_06_00
+Por que você encerrou sua carreira militar?
+$GEN_011_01x03_06_01
+Me casei. Esse foi o único motivo.
+$GEN_011_01x03_06_02
+Muitos militares têm esposas e isso não parece ser um problema para eles.
+$GEN_011_01x03_06_03
+Minha esposa temia pela minha vida e me convenceu de que eu já havia feito o suficiente pelo meu país.
+$GEN_011_01x03_06_04
+É, servindo ao Capeto e seus comparsas.
+$GEN_011_06x09_07_QTitle
+Chame a testemunha, Louis de Bourbon.
+$GEN_011_06x09_07_00
+Chame a testemunha, Louis de Bourbon.
+$GEN_011_06x09_07_02
+Por favor, apresente-se.
+$GEN_011_06x09_07_03
+Meu nome é Louis Stanislas Xavier de Bourbon. Sou o Conde da Provença e irmão de Louis Capet.
+$GEN_011_06x09_07_04
+Aí está, o irmão do traidor!
+$GEN_011_WIT_00_A_QTitle
+Descreva como era sua relação com seu irmão antes da morte dele.
+$GEN_011_WIT_00_A_00
+Descreva como era sua relação com seu irmão antes da morte dele.
+$GEN_011_WIT_00_A_01
+Nossas opiniões sobre os acontecimentos na França divergiam, e por isso nosso relacionamento se tornou distante.
+$GEN_011_WIT_00_A_02
+Está dizendo que tinham opiniões diferentes sobre a Revolução?
+$GEN_011_WIT_00_A_03
+Sim, acredito que a Revolução era necessária.
+$GEN_011_WIT_00_A_04
+Por que você não interveio quando a vida do seu irmão estava em perigo?
+$GEN_011_WIT_00_A_05
+Tentei convencê-lo a renunciar e aceitar a Revolução. Mas ele foi teimoso demais para ouvir e pagou o preço por isso.
+$GEN_011_WIT_00_B_QTitle
+O que você sabe sobre a conspiração envolvendo o Marquês de Favras?
+$GEN_011_WIT_00_B_00
+O que você sabe sobre a conspiração envolvendo o marquês de Favras?
+$GEN_011_WIT_00_B_01
+Os banqueiros Schaumel e Sartorius me informaram que o Marquês estava negociando um empréstimo de 2 milhões de francos.
+$GEN_011_WIT_00_B_02
+Eles lhe informaram o motivo desse empréstimo?
+$GEN_011_WIT_00_B_03
+Eles não disseram, e eu não perguntei. Não sou de me intrometer.
+$GEN_011_WIT_00_B_04
+Você teve algum envolvimento nisso?
+$GEN_011_WIT_00_B_05
+Fiquei sabendo do empréstimo apenas porque Schaumel e Sartorius são meus amigos próximos. Permita-me repetir o que já disse à Comuna de Paris: não estive envolvido na conspiração do Marquês de Favras. Se o considerarem culpado, ele deve ser sentenciado para impedir que prejudique a Revolução, à qual apoio de todo o coração.
+$GEN_011_KEY_01
+Ex-soldado
+$GEN_011_KEY_02
+Simpatia pela monarquia
+$GEN_011_KEY_03
+A esposa do réu
+$GEN_011_KEY_04
+Apoiando a esposa
+$GEN_011_KEY_05
+Retornar a Paris
+$GEN_011_KEY_06
+Conspiração
+$GEN_011_KEY_07
+Empréstimo
+$GEN_011_KEY_08
+Mercenários
+$GEN_011_KEY_09
+O conde da Provença
+$GEN_011_KEY_10
+Carta
+$GEN_011_LastDialog_00
+Viva o Rei e a Monarquia!
+$GEN_011_UNIQUE_QUESTION_01
+O que o réu pensa sobre a Revolução?
+$GEN_011_UNIQUE_ANSWER_CORRECT_01_00
+Ele simpatiza com o movimento, mas não com seus métodos.
+$GEN_011_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ele não a apoia.
+$GEN_011_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ele apoia isso de todo o coração.
+$GEN_011_UNIQUE_QUESTION_02
+Em que foram gastos os 2 milhões de francos?
+$GEN_011_UNIQUE_ANSWER_CORRECT_02_00
+Sobre os gastos do cidadão Capeto durante sua fuga.
+$GEN_011_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Isso conquistou a benevolência do rei da Espanha.
+$GEN_011_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Isso garantiu o apoio do Duque de York.

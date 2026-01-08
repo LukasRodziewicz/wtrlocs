@@ -1,0 +1,158 @@
+$GEN_039_DOC_1_HEADER
+Compiled by: Charles Étienne
+$GEN_039_DOC_1_00
+Late in the evening, in one of the dark alleys near the Panthéon, a National Guard patrol stopped <a name="1" class="hidden">a fight</a> between two elegant men. When the soldiers approached the attackers, they saw that one of them, elderly and grey-bearded, was standing over his fallen opponent, shouting angrily and kicking him.
+$GEN_039_DOC_1_01
+Three strong soldiers were involved in detaining the brawlers, and they were forced to use their rifle butts. The two <a name="3" class="hidden">ragged and bleeding</a> men were taken to the nearest station where the officer there judged, by their breath, that neither of them had been drinking wine on that evening.
+$GEN_039_DOC_1_02
+The aggressor was immediately interrogated, but he would only babble incomprehensibly. The lieutenant was able to note down only two words: <a name="5" class="hidden">"dictionary"</a> and "plagiarism". When later asked to repeat his statement, the grey-bearded man said that he was <a name="6" class="hidden">robbed</a>. The beaten man's name is Léonard Pomeroy. He is alive, but he will not be able to talk to people for some time due to a broken jaw.
+$GEN_039_OnStart_00
+Please introduce yourself.
+$GEN_039_OnStart_01
+Professor Hugo Trottier, former lecturer at the now closed Sorbonne, a true university from before the Revolution.
+$GEN_039_OnStart_02
+Please explain why you assaulted that man.
+$GEN_039_OnStart_03
+We are both lexicographers. However, I have been working on my text for over 15 years, while he is a bungler, which is a word for “someone who makes mistakes due to their incompetence”.
+$GEN_039_OnStart_04
+What does that have to do with the assault?
+$GEN_039_OnStart_05
+This victim, as you call him, is an ignoramus, and a thief! He copied dozens of entries from my dictionary and then bluntly denied doing so in front of witnesses.
+$GEN_039_OnStart_06
+Why did you not report this to the Guard?
+$GEN_039_OnStart_07
+I paid them a visit, but they showed nothing but complete disregard, which is a word for–
+$GEN_039_OnStart_08
+We know what “disregard” means.
+$GEN_039_OnGuilty_00
+Regardless of the reasons, you committed an unacceptable crime, and you are sentenced to be guillotined.
+$GEN_039_OnGuilty_01
+How brave! Though I understand you, we should not be lenient with these kinds of people.
+$GEN_039_OnGuilty_02
+The guillotine for a brawl? These are troubled times!
+$GEN_039_OnPrison_00
+For the assault on Citizen Pomeroy I sentence you to prison. Guards, lead the condemned out.
+$GEN_039_OnPrison_01
+Justice prevails.
+$GEN_039_OnPrison_02
+Serves him right, that fat Sorbonne wobble-bottom!
+$GEN_039_OnNotGuilty_00
+The defendant acted on impulse. The verdict is… not guilty.
+$GEN_039_OnNotGuilty_01
+What if tomorrow he kills someone on impulse? Who will be responsible for that death?
+$GEN_039_OnNotGuilty_02
+Surely this is a mistake! Does the Judge know what he’s doing?
+$GEN_039_02x05_00_QTitle
+You are both men of science. How can cultured people behave in such a way?
+$GEN_039_02x05_00_00
+You are both men of science. How can cultured people behave in such a way?
+$GEN_039_02x05_00_01
+Monsieur le juge, do you know the term “crime passionnel”? It means “to commit a crime under a sudden strong impulse while being in a state of high agitation”. When a crime is committed in this state, one feels a sudden and unbearable aggression.
+$GEN_039_02x05_00_02
+And what caused your crime passionnel?
+$GEN_039_02x05_00_03
+Plagiarism – “the act of wrongful appropriation of a person’s work and its publication under one’s own name.” Plagiarism should be prosecuted to the fullest extent of the law!
+$GEN_039_02x05_00_04
+Perhaps, but we are currently prosecuting the assault that you committed.
+$GEN_039_02x05_00_05
+And I admit it.
+$GEN_039_02x05_00_06
+Did you hear that? He publicly battered a man and admits to it!
+$GEN_039_01x04_01_QTitle
+Were you drinking alcohol on the day of the assault?
+$GEN_039_01x04_01_00
+Were you drinking alcohol on the day of the assault?
+$GEN_039_01x04_01_01
+Of course not, I rarely drink.
+$GEN_039_01x04_01_02
+So it was not a brawl caused by inebriation?
+$GEN_039_01x04_01_03
+We met by accident. I demanded that Pomeroy buy a column in a newspaper and admit to plagiarising my dictionary!
+$GEN_039_01x04_01_04
+And I assume Citizen Pomeroy did not agree to that?
+$GEN_039_01x04_01_05
+Of course not, he is a petty person, a Revolutionary barker. People like that never admit to their mistakes.
+$GEN_039_01x04_01_06
+“Revolutionary barker”? Was that meant to insult the Revolutionaries?
+$GEN_039_01x04_01_07
+Not all of them, only the thieves!
+$GEN_039_01x04_01_08
+Lower your voice.
+$GEN_039_01x04_01_09
+So you find that adjective to be insulting? I think we know everything we need to about your political views.
+$GEN_039_03x02_02_QTitle
+The investigator mentioned in the report that both of you had blood on your clothes…
+$GEN_039_03x02_02_00
+The investigator mentioned in the report that both of you had blood on your clothes, but at the moment of your arrest, Citizen Pomeroy was not trying to defend himself.
+$GEN_039_03x02_02_01
+It was a brawl, which means “a fist fight between at least two people who are both attacker and victim.”
+$GEN_039_03x02_02_02
+Are you implying that you were hurt too?
+$GEN_039_03x02_02_03
+Of course, but I knocked down Pomeroy, the walking failure that he is, before he was able to do the same to me.
+$GEN_039_03x02_02_04
+So it was you who accosted him on the street?
+$GEN_039_03x02_02_05
+Exactly. I demanded his apology.
+$GEN_039_03x02_02_06
+And when he refused, you punched him?
+$GEN_039_03x02_02_07
+Surely he started it. Now he talks nonsense about a fight!
+$GEN_039_03x02_02_08
+He started it, stealing from me.
+$GEN_039_05x06_03_QTitle
+What did the victim steal from you?
+$GEN_039_05x06_03_00
+What did the victim steal from you?
+$GEN_039_05x06_03_01
+Pomeroy copied the entire “S” section from my dictionary into his own book.
+$GEN_039_05x06_03_02
+How can you be so sure?
+$GEN_039_05x06_03_03
+You need but look for the entry “Saturian – an alloy consisting of copper, zinc, and gold used by ancient Romans to produce coins.”
+$GEN_039_05x06_03_04
+And what does that prove?
+$GEN_039_05x06_03_05
+It was a hoax, which means “a falsehood deliberately pretending to be the truth”. There is no such thing as saturian! I made it up so that I should know if someone ever mindlessly copied my dictionary!
+$GEN_039_05x06_03_06
+Are you not misleading your own readers?
+$GEN_039_05x06_03_07
+Of course not. Nobody would look for that entry as I made it up.
+$GEN_039_KEY_01
+Brawl
+$GEN_039_KEY_02
+Kicking the victim when he was down
+$GEN_039_KEY_03
+Ragged clothes, covered in blood
+$GEN_039_KEY_04
+No wine
+$GEN_039_KEY_05
+Dictionary
+$GEN_039_KEY_06
+Theft
+$GEN_039_LastDialog_00
+You are punishing me so that the thief can steal the rest of my book?!
+$GEN_039_UNIQUE_QUESTION_00
+Why did the defendant attack the victim?
+$GEN_039_UNIQUE_ANSWER_CORRECT_00_00
+Because of plagiarism.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Because of an allegation.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Because of marital infidelity.
+$GEN_039_UNIQUE_QUESTION_01
+What did the offender want from the victim?
+$GEN_039_UNIQUE_ANSWER_CORRECT_01_00
+Apologies printed in a newspaper.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Money.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_01_01
+An honourable duel.
+$GEN_039_UNIQUE_QUESTION_02
+What was Trottier’s excuse for the assault?
+$GEN_039_UNIQUE_ANSWER_CORRECT_02_00
+Crime passionnel.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_02_00
+A misunderstanding.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_02_01
+The victim’s provocative behaviour.

@@ -1,0 +1,93 @@
+$INTRIGUE_TITLE_002
+Jean-Nicolas Pache
+$INTRIGUE_002_DESC
+Zamachowcy, którzy targnęli się na twoje życie, musieli być przez kogoś opłaceni. Wszystkie tropy prowadzą do mera Paryża, który jest zbyt czujny, by dać się dopaść inaczej niż z zaskoczenia.
+
+$INTR_002_B01_TITLE
+Przekaż zarząd burdelu Hanriotowi.
+$INTR_002_B01_DESC
+Pache lubi hazard oraz imponowanie pieniędzmi. Powinniśmy poszerzyć działalność przejętego od Rolandów burdelu o karty i twoją ulubioną grę w kości. Porządku może przypilnować komendant Hanriot - Pache musi przy nas się czuć bezpiecznie.
+
+$INTR_002_B02_TITLE
+Przekaż zarząd burdelu Davidowi.
+$INTR_002_B02_DESC
+Jeśli chcesz skusić czymś Pache’a, musisz to zrobić z klasą. Burdel przejęty od Rolandów idealnie nadaje się na pułapkę, trzeba mu jednak dodać trochę więcej rozmachu, poszerzając ofertę o gry hazardowe, jak kości. David jako artysta może uczynić z tego miejsce, które omami blichtrem nawet takiego próżniaka, jak Pache. Złapie się na to jak mucha na lep.
+
+$INTR_002_B03_TITLE
+Spotkanie z Merem
+$INTR_002_B03_DESC
+Musimy stawić mu czoło osobiście. W ten sposób uwierzy, iż nic nie wiemy o jego udziale w zamachu na twoje życie.
+
+$INTR_002_B04_TITLE
+Śledzenie Marie Sylvie Pache
+$INTR_002_B04_DESC
+Zanim zaczniemy działać, David musi potwierdzić czym dokładnie jest relacja między córką mera a niejaką Béatrice Caron. Jeśli ma ona charakter miłosny, to Pache zapewne wpadnie w szał, a wtedy ty pomożesz mu popełnić ten jeden, jedyny błąd, którego potrzebujemy…
+
+$INTR_002_B05_TITLE
+Spotkanie w szulerni
+$INTR_002_B05_DESC
+Pora by Pache poczuł smak zwycięstwa po udanym rzucie kośćmi, zasmakował tytoniu, którego zapach wypełniał będzie nowo urządzoną szulernię. Pora by poczuł się… bezpiecznie.
+
+$INTR_002_B06_TITLE
+Aresztowanie Béatrice Caron
+$INTR_002_B06_DESC
+Gwardia Hanriota zasadzi się na córkę mera i jej kochankę w miejscu ich codziennych spotkań. Béatrice zostanie aresztowana i będzie czekać na dalszy rozwój wydarzeń w miejscu odosobnienia. Marie póki co się nam nie przyda.
+
+$INTR_002_B07_TITLE
+Béatrice Zdrajczynią
+$INTR_002_B07_DESC
+Musimy “namówić” dziewczynę do podpisania dokumentu, w którym poświadcza, że jest austriackim szpiegiem, jej informatorem w Paryżu jest Jean Nicholas Pache, a dostęp do niego uzyskała dzięki kontaktom z jego córką.
+
+$INTR_002_B08_TITLE
+Spotkanie z Dantonem
+$INTR_002_B08_DESC
+Nawet mając dokument podpisany przez Béatrice nie mamy mera całkiem w garści. Zawsze może poprosić o pomoc swojego największego sojusznika - złotoustego Dantona. Musimy sprawić by Pache został sam. Jeśli nie przeciągniemy Dantona na swoją stronę - przegramy.
+
+$INTR_002_B09_TITLE
+Aresztowanie Mera
+$INTR_002_B09_DESC
+Czy jest lepszy moment na polityczne aresztowanie niż środek nocy? Musisz uderzyć, teraz!
+
+$INTR_002_B10_TITLE
+Béatrice Caron szantażuje
+$INTR_002_B10_DESC
+Béatrice uciekła gwardzistom i wysłała wiadomość do Marie Pache, że przy Rue Saint-Maur ma się stawić z pieniędzmi, które mają pokryć jej szkody spowodowane ich znajomością. Musimy interweniować, Béatrice nie okazała się rozsądną osóbką - szantażuje, zamiast uciekać na drugi koniec Europy w trosce o swoje życie. Wyłudza pieniądze od osoby, którą ponoć kocha. Cała intryga może runąć, jeśli dziewczyna piśnie cokolwiek o zeznaniu, do którego ją zmusiliśmy.
+
+$INTR_002_B10_DECISION_0
+Idź z gwardzistami
+$INTR_002_B10_DECISION_1
+Wyślij samych gwardzistów
+
+$INTR_002_SLOT_01_DESC
+Zdecyduj, komu powierzyć zarządzanie przejętym burdelem.
+
+$INTR_002_BLOCK_004_PATH_STR
+Niech Twój strażnik zajmie się tym zadaniem – nie musimy się kryć.
+$INTR_002_BLOCK_004_PATH_DIP
+Obecność Davida w okolicy nie powinna wzbudzić podejrzeń.
+$INTR_002_BLOCK_004_PATH_ESP
+Niech Ramel się tym zajmie jako ten, który zna każdą ciemną uliczkę tego miasta.
+$INTR_002_BLOCK_004_PATH_STR_FAILURE
+Clovis jest niezdarny i… zbyt masywny, żeby pozostać niezauważonym. Informacje uzyskał, ale muskadyni go nakryli.
+$INTR_002_BLOCK_004_PATH_DIP_FAILURE
+Muskadyni okazali się paranoikami i nawet obecność takiej duszy towarzystwa jak David uznali za coś podejrzanego. Informacje masz, ale kosztem ich wściekłości.
+$INTR_002_BLOCK_004_PATH_ESP_FAILURE
+Ramel jest dobry, ale jego obecność podczas wycofywania zdradził pijany muskadyn, który zobaczył w nim starego przyjaciela. Twojemu szpiegowi udało się umknąć w boczne uliczki, ale muskadyni będą czujni…
+
+$INTR_002_BLOCK_006_PATH_STR
+Hanriot zrobi przedstawienie i wpadnie z wielką pompą! Niech wszyscy sąsiedzi wiedzą, że chcemy pojmać zdrajczynię.
+$INTR_002_BLOCK_006_PATH_DIP
+Hanriot aresztuje ją, zanim wyjdzie z domu na spotkanie z Marie. Z pełnym poszanowaniem jej praw.
+$INTR_002_BLOCK_006_PATH_ESP
+Niech Hanriot zgarnie ją w jakiejś uliczce, kiedy będzie szła na spotkanie z Marie. Bez krzyków, bez rozgłosu.
+$INTR_002_BLOCK_006_PATH_STR_FAILURE
+Muskadyni postanowili bronić jednej ze swoich dziewczyn. Wywiązała się strzelanina. Caron jest w naszych rękach, ale nie obyło się bez ofiar po obu stronach…
+$INTR_002_BLOCK_006_PATH_DIP_FAILURE
+Béatrice nie doceniła naszych starań – zaczęła wrzeszczeć o napaści i gwałcie, zbiegli się ludzie z kamieniami w dłoniach. Gwardia musiała użyć siły…
+$INTR_002_BLOCK_006_PATH_ESP_FAILURE
+Muskadyni wzmogli czujność i starali się nie chadzać sami ciemnymi uliczkami. Gwardia nie miała wyjścia i musiała przetrzepać kości kilku kompanom dziewczyny…
+
+$INTR_002_B10_EVENT_TITLE
+WOLNOŚĆ!
+$INTR_002_B10_EVENT_TEXT
+Marie zabiła. Podwójnie. Gwardziści przybywszy na miejsce znaleźli trupa Béatrice, którą zadźgała córka mera. Na widok uzbrojonych mężczyzn krzyknęła ponoć “Wolność!” i poderżnęła sobie gardło. To wszystko wymknęło się spod kontroli. Informacje podróżują szybko i mer zapewne już wie co się stało z jego córką, która zapłaciła za jego błędy. Nie czuj się winny tylko skup się na jutrzejszej rozprawie. Nie czuj się winny...

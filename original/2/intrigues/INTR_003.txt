@@ -1,0 +1,60 @@
+$INTRIGUE_TITLE_003
+Jean-Baptiste Gobel
+$INTRIGUE_003_DESC
+Vu la façon dont vous avez géré le cas Roland et celui du maire de Paris, Gobel s'est senti menacé. Le bordel était une source de revenus et d'informations importante pour le hiérarque, et Pache, en tant que maire, lui laissait le contrôle de la ville. L'archevêque a lui-même planifié votre meurtre, la mort de votre fils et a poussé Roland et Pache à être mêlés à ces crimes.
+$INTR_003_B01_TITLE
+Dénonciation de l'enfant de Gobel
+$INTR_003_B01_DESC
+Les renseignements concernant l'enfant illégitime de l'archevêque ne devraient plus rester confidentiels. Nous devrions faire remonter les rumeurs aux oreilles du procureur Tinville et du peuple parisien.
+$INTR_003_B02_TITLE
+Enquête de Tinville
+$INTR_003_B02_DESC
+Espérons que les rumeurs viennent suffisamment stimuler l'imagination de Tinville pour qu'il s'intéresse officiellement à l'affaire Gobel. Il est important de semer le doute sur l'archevêque, de montrer aux députés, qui ont peur de lui, qu'il a un point faible.
+$INTR_003_B03_TITLE
+Le fils de Gobel sort de sa cachette
+$INTR_003_B03_DESC
+Un certain Gérard Boutin a affirmé, sur le parvis de la cathédrale Notre-Dame, être le fils illégitime de l'archevêque Gobel. Il se lamentait sur le sort de sa mère, qui était mourante dans un refuge. Le jeune homme a rapidement rassemblé un groupe de sympathisants pour qui Gobel est le symbole du clergé tant détesté. Quel homme fascinant… Le spectacle de Boutin a provoqué bien plus d'agitation que ce dont nous aurions été capables. J'essaierai d'arranger un rendez-vous avec lui pour confirmer son identité.
+$INTR_003_B04_TITLE
+Subordonnés gênants
+$INTR_003_B04_DESC
+Il est temps de découvrir les pommes pourries du verger de Gobel. Si nous dévoilons les méfaits de ses subordonnés, nous minerons la confiance que les gens ont en l'archevêque. Après la rébellion en Vendée, des gens qui pensent que l'Église est responsable de cette situation s'en prennent constamment au clergé.
+$INTR_003_B05_TITLE
+Arrêter les prêtres et faire un discours
+$INTR_003_B05_DESC
+Il est temps de passer à l'attaque ! Arrêtons la brebis galeuse qui se cache au sein du troupeau de l'archevêque. Nul besoin d'attendre plus longtemps. Vous devriez le confronter ouvertement. Vous aurez, toutefois, besoin d'une protection, celle du peuple de Paris. Gagnez son cœur !
+$INTR_003_B06_TITLE
+Gagner le soutien de la Convention
+$INTR_003_B06_DESC
+Même avec le soutien du peuple, nous ne pourrons pas attaquer un prêtre constitutionnel sans l'appui de la seule autorité à laquelle se soumet Gobel. Nous devons faire en sorte que les membres de la Convention répudient le clergé, sinon Gobel sera intouchable. L'Église a survécu à la colère des fidèles siècle après siècle. Seuls les avertissements du pouvoir l'inquiètent.
+$INTR_003_B07_TITLE
+Gobel s'en est sorti de justesse
+$INTR_003_B07_DESC
+Gobel nous a glissé entre les doigts. Lors d'une séance de la Convention, il a déclaré quitter les ordres en prétendant, d'une voix solennelle, être dégoûté de la corruption et de l'avilissement qui rongent le clergé. Hébert s'est étonnamment rangé à ses côtés, le désignant comme figure de son groupe. Tout cela sous les vivats d'une foule « spontanée ». En un instant, l'ancien archevêque a gagné les faveurs conjointes de la rue et de la Convention. Il s'est montré plus rusé que vous. En outre, Hébert a annoncé que lui et Gobel disposaient d'une liste de 73 députés et hauts-fonctionnaires coupables de pots-de-vin ou d'espionnage pour le compte de puissances étrangères. En affirmant qu'il n'existe personne d'incorruptible, il a su désigner à demi-mot Robespierre. Gobel et Hébert ont donné aux incriminés cinq jours pour quitter le pays, après quoi ils publieront la liste. Mon petit doigt me dit que votre nom y apparaîtra…
+$INTR_003_B08_TITLE
+Le fils rejeté
+$INTR_003_B08_DESC
+D'un geste expéditif, Gobel s'est détaché de son passé. Gérard Boutin voulait le rencontrer en personne, mais l'archevêque l'a repoussé, au motif qu'il serait un traître et un escroc. Je doute qu'il le reconnaisse un jour comme son fils. Boutin est complètement isolé, et nous n'avons rien à gagner à l'impliquer dans nos plans.
+$INTR_003_BLOCK_001_PATH_STR
+Clovis parcourra les caniveaux pour forcer quelques gueux à répandre des rumeurs sur Gobel.
+$INTR_003_BLOCK_001_PATH_DIP
+David discutera du scandale avec quelques compagnons de jeu haut placés.
+$INTR_003_BLOCK_001_PATH_ESP
+Quelques hommes peu recommandables doivent une faveur à Ramel. Servons-nous-en.
+$INTR_003_BLOCK_001_PATH_STR_FAILURE
+Le problème avec les habitants des caniveaux, c'est qu'ils n'ont pas vraiment d'amis haut placés. Et ce sont eux dont a besoin…
+$INTR_003_BLOCK_001_PATH_DIP_FAILURE
+Notre diplomate a révélé la paternité scandaleuse dont Gobel est suspect. Malheureusement, les nombreux verres ingurgités par ses interlocuteurs les ont conduits à interpréter cela comme une bouffonnerie. Au moins, ils ont bien ri !
+$INTR_003_BLOCK_001_PATH_ESP_FAILURE
+Nous avons surestimé la valeur de l'honneur dans le cercle social de Ramel. La plupart de ses compagnons n'ont rien fait pour nous aider…
+$INTR_003_BLOCK_004_PATH_STR
+Menacer quelques anciens prêtres veules devrait à coup sûr nous révéler quelques-uns des secrets de Gobel.
+$INTR_003_BLOCK_004_PATH_DIP
+Les députés de la Convention doivent savoir quelque chose. Ils ne feraient pas de Gobel un archevêque s'ils n'avaient rien sur lui.
+$INTR_003_BLOCK_004_PATH_ESP
+Ne faisons pas appel à des inconnus. Laissons Ramel traquer en personne les brebis qui se sont éloignées du droit chemin.
+$INTR_003_BLOCK_004_PATH_STR_FAILURE
+Les mêmes hommes qui ont été forcés à renoncer à la prêtrise ont montré une résistance insoupçonnée aux arguments physiques. Aucun d'eux n'a révélé quoi que ce soit.
+$INTR_003_BLOCK_004_PATH_DIP_FAILURE
+Quand bien même les députés sauraient quelque chose, ils ne céderont pas un tel atout de chantage aussi facilement. Ne rêvez pas.
+$INTR_003_BLOCK_004_PATH_ESP_FAILURE
+Ramel a échoué. De toute évidence, l'Église sait très bien effacer les traces de ses péchés. Votre espion n'a rien trouvé qui puisse mener à des poursuites judiciaires.

@@ -1,0 +1,16 @@
+$DIAL_CO_01_03_20_001_MENTOR
+Comment te sens-tu ? Tu n'avais pas encore repris tes esprits lorsque je t'ai rendu visite.
+$DIAL_CO_01_03_20_002_JUDGE
+Je ne me suis pas encore pleinement remis de mes blessures, mais je pense qu'il serait bon qu'on me revoie au tribunal.
+$DIAL_CO_01_03_20_003_MENTOR
+Oui… Écoute, j'ai besoin de te parler. Je le dois, à vrai dire. Ton père t'a-t-il déjà raconté comment ton frère a évité la potence et est parti finalement au front ?
+$DIAL_CO_01_03_20_004_JUDGE
+Je lui ai posé la question, mais je n'ai eu droit pour toute réponse qu'au silence.
+$DIAL_CO_01_03_20_005_MENTOR
+On m'avait nommé pour juger son cas.
+$DIAL_CO_01_03_20_006_MENTOR
+Nous avons appris par la suite que Bruno s'était enrôlé dans l'armée et avait péri au front. Ce que je cherche à te dire…
+$DIAL_CO_01_03_20_007_JUDGE
+Quoi ?!
+$DIAL_CO_01_03_20_008_MENTOR
+Ton frère est tout de même mort, malgré mon jugement indulgent. Ce qui ne veut pas dire pour autant que ce jugement n'a compté pour rien. Garde cela à l'esprit quand tu traques tes ennemis.

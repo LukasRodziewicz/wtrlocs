@@ -1,0 +1,295 @@
+$GEN_007_DOC_01_HEADER
+Derleyen: Richard Mounier
+$GEN_007_DOC_01_00
+Patrice Leconte, <a name="1" class="hidden">Paris’in Saint-Ouen banliyösünde yaşayan saygın bir 54 yaşındaki hekim</a>, <a name="2" class="hidden">bir cinayet işlemekle</a> suçlanıyor. Kurban, sanığın kadın hastalarından biri olan Valérie’nin eşi Victor Rabiot.
+$GEN_007_DOC_01_01
+63 yaşındaki mağdur <a name="3" class="hidden">sanığın yanına gitti</a> ve şüphelerini konuşmak istedi. Bir süre önce, Rabiot karısının sanıkla uygunsuz <a name="4" class="hidden">ilişkiler yaşadığını</a> düşünmeye başlamıştı.
+$GEN_007_DOC_01_02
+Tanıklar, Victor Rabiot’nun <a name="5" class="hidden">doktorun muayenehanesinden sendeleyerek çıktığını</a>, bembeyaz ve titrek halde olduğunu anlattılar. Sokağa yalnızca birkaç adım atabildi, ardından korkunç hırıltılarla yere yığıldı. Olay yerine gelen Ulusal Muhafız devriyesi, kurbanın elinde birkaç damla şarap kalmış kırık bir kadehi ilk fark edenlerdi. Soruşturma, Rabiot’nun doktorla konuşurken içtiği şarabın muhtemelen aynı şarap olduğunu ortaya çıkardı.
+$GEN_007_DOC_01_03
+Cinayet şüphesi doğal olarak, mesleği gereği şaraba zehir katmakta kullanılabilecek <a name="7" class="hidden">maddelere erişimi</a> olan doktora yöneldi. Doktorun hastasıyla ilişkisi doğruysa, bir de motivasyonumuz var demektir. Gayriresmî olarak öğrendiğimize göre, kadın gerçekten de doktora şüpheli bir düzenlilikle gidiyormuş, ancak elimizde henüz bir kanıt yok.
+$GEN_007_DOC_01_04
+Hem Yurttaş Rabiot hem de Yurttaş Leconte, Paris aristokrasisi arasında zenginlikleri ve ünleriyle tanınır; şimdi ise bizden hızlı ve adil bir hüküm bekleniyor.
+$GEN_007_DOC_01_05
+Delil: 
+Şarap dolu kırık bir kadeh. 
+<a name="9" class="hidden">Valérie Rabiot’nun sevgilisine mektubu</a>:
+“Bu gece seni her zamanki yerde bekleyeceğim. Senin V.”
+$GEN_007_OnStart_00
+Bu, ciddi ahlaki tartışmalara yol açan hassas bir meseledir.
+$GEN_007_OnStart_01
+Adınız nedir?
+$GEN_007_OnStart_02
+Adım Patrice Leconte, sayın yargıç.
+$GEN_007_OnStart_03
+Cinayetle suçlanıyorsunuz. Suçunuzu kabul etmek ister misiniz?
+$GEN_007_OnStart_04
+Tıbbi bilgim doğrultusunda, Bay Rabiot gün boyunca yediği herhangi bir şeyden zehirlenmiş olabilir. Ayrıca, ileri yaşta birinden bahsettiğimizi unutmayalım. Ölümü doğal nedenlerle de gerçekleşmiş olabilir.
+$GEN_007_OnStart_05
+Sizin iddia ettiğiniz kadar doğal yani, ölüm tam da ofisinizin kapısında tuhaf bir şekilde gerçekleşti ve sizinle hiçbir ilgisi yok, öyle mi?
+$GEN_007_OnStart_06
+Tesadüfler olur.
+$GEN_007_OnStart_07
+Bunu inkâr ettiğinizi mi anlamalıyım?
+$GEN_007_OnStart_08
+Elbette.
+$GEN_007_OnGuilty_00
+Vatandaş Patrice Leconte’u giyotinle idama mahkûm ediyorum! Mahkûmu götürün.
+$GEN_007_OnGuilty_01
+Ne tuhaf bir hikaye...
+$GEN_007_OnPrison_00
+Vatandaş Patrice Leconte'u hapis cezasına çarptırıyorum! Mahkûmu götürün.
+$GEN_007_OnPrison_01
+Ne tuhaf bir hikaye...
+$GEN_007_OnNotGuilty_00
+Vatandaş Rabiot cinayeti davasında verilen hüküm… suçsuz! Lütfen Vatandaş Patrice Leconte’u serbest bırakın.
+$GEN_007_OnNotGuilty_01
+Ne tuhaf bir hikaye...
+$GEN_007_OnNoComment_00
+Artık dayanamıyorum, hiçbir soruya cevap vermeyeceğim. Şimdi öldürün beni, bitsin bu işkence.
+$GEN_007_01x03_00_QTitle
+Vatandaş Rabiot’nun ölüm günü tam olarak ne oldu?
+$GEN_007_01x03_00_00
+Vatandaş Rabiot’nun ölüm günü tam olarak ne oldu?
+$GEN_007_01x03_00_01
+Benimle konuşmaya geldi, ne hakkında olduğunu bilmiyordum. Solgundu ve gergindi, sinirleri sanki paramparça oluyordu.
+$GEN_007_01x03_00_02
+Bu yüzden mi ona şarap verdiniz?
+$GEN_007_01x03_00_03
+Evet, şarap almaya gittim ve ikimize de biraz koydum...
+$GEN_007_01x03_00_04
+Zehri kurbanın yanında mı döktünüz?
+$GEN_007_01x03_00_05
+Hayır, mutfakta. Bunun bir önemi var mı?
+$GEN_007_01x03_00_06
+Ne yapacaktı, misafiri evin içinde oradan oraya mı sürükleyecekti?
+$GEN_007_01x03_00_07
+Pekâlâ. Peki sonra ne oldu?
+$GEN_007_01x03_00_08
+İçtik, ve bir an sonra Bay Rabiot göğsünü tutarak çığlıklar içinde dışarı fırladı.
+$GEN_007_01x03_00_09
+Böylesine güçlü bir adamın neden öldüğü kimin umurunda? Önemli olan, artık hayatta olmaması!
+$GEN_007_01x04_01_QTitle
+Bayan Valérie Rabiot ile bir ilişkiniz oldu mu?
+$GEN_007_01x04_01_00
+Bayan Valérie Rabiot ile bir ilişkiniz oldu mu?
+$GEN_007_01x04_01_01
+Bu soru beni bir profesyonel olarak aşağılıyor! Bayan Rabiot benim hastamdır ve aramızdaki ilişki tamamen tıbbi niteliktedir.
+$GEN_007_01x04_01_02
+Bir doktor da âşık olabilir, bunun meslekle bir ilgisi yoktur.
+$GEN_007_01x04_01_03
+Ben hastalarımı acı çeken insanlar olarak görüyorum ve tüm odağım onlara yardım etmeye çalışmakta.
+$GEN_007_01x04_01_04
+Belki onu birkaç kez muayene etmiştir… Siz de bilirsiniz nasıl…
+$GEN_007_01x04_01_05
+O halde Bayan Rabiot neden hem bu kadar sık hem de bu kadar düzenli olarak ofisinize geliyordu?
+$GEN_007_01x04_01_06
+Hastamın sağlık durumu hakkında hiçbir ayrıntı açıklayamam. Bayan Rabiot, kendine dikkat etmesi gereken narin bir hanımefendidir.
+$GEN_007_01x09_02_QTitle
+Mağdurun cebinde bir not bulundu; bu nottan, Bayan Rabiot’nun sizinle buluşmayı planladığı anlaşılıyor…
+$GEN_007_01x09_02_00
+Mağdurun cebinde bulunan bir nottan, Madam Rabiot’nun sizinle buluşmayı planladığı anlaşılıyor–
+$GEN_007_01x09_02_01
+Orada gerçekten adım yazıyor mu?
+$GEN_007_01x09_02_02
+Hayır, öyle değil. O halde Yurttaş Rabiot kiminle buluşuyordu?
+$GEN_007_01x09_02_03
+Ben bir hekimim, kahin değil. Bayan Rabiot bana özel hayatını anlatmak için muayenehaneme gelmedi. Kendisi son derece mütevazı ve terbiyeli bir hanımefendi–
+$GEN_007_01x09_02_04
+Yine de, Victor Rabiot bundan sizi sorumlu tutuyordu.
+$GEN_007_01x09_02_05
+Belki de beni ziyaret ettikten sonra sıradaki şüpheliyle görüşmeyi planlıyordu, ama oraya hiç varamadı?
+$GEN_007_01x09_02_06
+Bu hiç mantıklı değil.
+$GEN_007_02x05_03_QTitle
+Sizce Yurttaş Rabiot’nun ölüm nedeni neydi?
+$GEN_007_02x05_03_00
+Sizce Yurttaş Rabiot’nun ölümüne ne sebep oldu?
+$GEN_007_02x05_03_01
+Onu öldürdü, işte sebep bu!
+$GEN_007_02x05_03_02
+Zehirlenmiş olabilir, ama bence kalp krizi geçirdi – kalbiyle ilgili bir sorun.
+$GEN_007_02x05_03_03
+Bu görüşü başka hekimler de onayladı mı?
+$GEN_007_02x05_03_04
+Bilemem, bu soru araştırmacıların işi değil mi?
+$GEN_007_02x05_03_05
+En ufak bir çaba göstermek için parmaklarını bile oynatmazlar…
+$GEN_007_02x05_03_06
+Böyle... kalp rahatsızlıklarında insanlar sık sık kaçar mı?
+$GEN_007_02x05_03_07
+Meslek hayatımda böyle bir şeyle hiç karşılaşmadım, fakat insan bedeni hâlâ bizler için bir sır olmaya devam ediyor.
+$GEN_007_02x05_03_08
+Bak hele, ne de güzel laf yapıyor!
+$GEN_007_02x07_04_QTitle
+Birçok ipucu, Victor Rabiot’yu zehirlediğinizi gösteriyor.
+$GEN_007_02x07_04_00
+Birçok ipucu, Victor Rabiot’yu zehirlediğinizi gösteriyor.
+$GEN_007_02x07_04_01
+İpuçları delil değildir. Suçluluğuma tam olarak ne kanıt gösteriyor?
+$GEN_007_02x07_04_02
+Kıskanç bir koca, karısının sevgilisiyle şarap içiyor ve birkaç dakika sonra ölüyor. Sizce de bu tuhaf değil mi?
+$GEN_007_02x07_04_03
+Onun zehirleyici olmadığını kanıtlayan deliller nerede?
+$GEN_007_02x07_04_04
+Ben bir hekimim. İnsanları iyileştiririm, öldürmem.
+$GEN_007_02x07_04_05
+Bir doktor olarak size soruyorum – insanlar güçlü duyguların etkisi altındayken bazen farklı davranır mı?
+$GEN_007_02x07_04_06
+Evet, elbette.
+$GEN_007_02x07_04_07
+Yani, beklenmedik koşullar nedeniyle tıbbi etiği göz ardı etmiş olabilir misiniz?
+$GEN_007_02x07_04_08
+Sevgilisinin kocası onu ziyarete gelmiş, çocuk da dayak yiyeceğinden korkmuş.
+$GEN_007_02x07_04_09
+Ne ima ettiğinizi anlıyorum, fakat o anda gergin değildim. Saklayacak bir şeyim yoktu ve utanacak hiçbir şeyim de yoktu.
+$GEN_007_04x09_05_QTitle
+Tanık Valérie Rabiot’u çağırın.
+$GEN_007_04x09_05_00
+Tanık Valérie Rabiot’u çağırın.
+$GEN_007_04x09_05_02
+Lütfen kendinizi tanıtın.
+$GEN_007_04x09_05_03
+Benim adım Valérie Rabiot. Birkaç gündür merhum Victor Rabiot’nun duluyum.
+$GEN_007_04x09_05_04
+Merhum eşinizin ceketinin cebinde bir not bulundu. Bu mesajın yazarı siz misiniz? Eğer öyleyse, alıcısı kimdi?
+$GEN_007_04x09_05_05
+Sanırım sayın yargıç, Yurttaş Leconte'un alıcı olup olmadığına dair bir cevap bekliyor. Hayır, değildi.
+$GEN_007_04x09_05_06
+O halde kime hitap ediyordu?
+$GEN_007_04x09_05_07
+Bir... kadın. Davayla hiçbir ilgisi yok ve onu bu işe karıştırmak istemiyorum.
+$GEN_007_04x09_05_08
+Neyin önemli, neyin önemsiz olduğuna ben karar veririm.
+$GEN_007_04x09_05_09
+Adı... Hélène Betancourt.
+$GEN_007_06x02_06_QTitle
+Hangi şarabı ikram ettiniz?
+$GEN_007_06x02_06_00
+Hangi şarabı servis ettiniz?
+$GEN_007_06x02_06_01
+Şarap konusunda uzman değilim. İsmini hatırlamıyorum ama kırmızıydı.
+$GEN_007_06x02_06_02
+Sizce bu, kurbanın kan dolaşımına fazlasıyla mı “yardımcı” oldu?
+$GEN_007_06x02_06_03
+Kaba şakalardan hoşlanıyorsanız, evet. Ancak ben bunu eğlenceli bulmuyorum.
+$GEN_007_06x02_06_04
+Bu davanın başından beri yüzünüzde en ufak bir ifade değişikliği olmamasını şaşırtıcı buluyorum.
+$GEN_007_06x02_06_05
+Bir hekim olarak, çokça ölüm ve acıya tanık oldum. Buna zamanla alışıyorsunuz.
+$GEN_007_06x02_06_06
+Ölüme alışkın mısınız?
+$GEN_007_06x02_06_07
+Öyle de denebilir.
+$GEN_007_06x02_06_08
+Yani bir insanı öldürmek sizin için hiçbir sorun olmaz mı? Demek ki tam bir katil olmak için biçilmiş kaftansınız.
+$GEN_007_06x02_06_09
+Teknik olarak bunu yapabilirim, ama kendimi asla kusursuz saymam. Öldürmek bana hiçbir zevk vermezdi.
+$GEN_007_06x02_06_10
+Sevgililerinin kocaları söz konusu olmadıkça.
+$GEN_007_01x07_07_QTitle
+Bir hekim olarak, çeşitli ilaçlara ve maddelere erişiminiz var…
+$GEN_007_01x07_07_00
+Bir hekim olarak, yanlış kullanıldığında ölüme yol açabilecek çeşitli ilaçlara ve maddelere erişiminiz var.
+$GEN_007_01x07_07_01
+Her maddenin fazlası zararlıdır; bir hekim olarak, böyle durumları nasıl önleyeceğimi bilirim.
+$GEN_007_01x07_07_02
+Yani, birini öldürmek için hangi madde ve miktarın gerektiğini biliyor muydunuz?
+$GEN_007_01x07_07_03
+Aynı mantıkla, her ev hanımı ve her aşçı, mutfakta bıçak bulundurdukları için katil sayılır, öyle mi?
+$GEN_007_01x07_07_04
+Ama her mutfak bir cinayet mahalli olmuyor, sizce de öyle değil mi?
+$GEN_007_01x07_07_05
+Elbette.
+$GEN_007_01x07_07_06
+Ve Victor Rabiot, sizi ziyaret ederken zehirlenerek öldü.
+$GEN_007_01x07_07_07
+Doğru söylüyor. Olayı doğrulayabilecek sokakta insanlar vardı.
+$GEN_007_WIT_01_A_QTitle
+Vatandaş Leconte’u ne sıklıkla gördünüz?
+$GEN_007_WIT_01_A_00
+Vatandaş Leconte’u ne sıklıkla gördünüz?
+$GEN_007_WIT_01_A_01
+Son zamanlarda oldukça sık, zira sağlığım bozuldu. Yurttaş Leconte büyük bir uzmandır.
+$GEN_007_WIT_01_A_02
+Sizce Yurttaş Leconte kocanızı zehirlemiş olabilir mi?
+$GEN_007_WIT_01_A_03
+Bir nedeni olmasa bile, bu suçlamayı destekleyecek başka deliller de var.
+$GEN_007_WIT_01_A_04
+Eminim, bunu onun yaptığına.
+$GEN_007_WIT_01_A_05
+Peki, bu inanç nereden geliyor?
+$GEN_007_WIT_01_A_06
+Bana olan aşkını itiraf etti, ben ise onun ilgisini reddettim. Aşk hayatım oldukça karmaşık, ama kocama sadık kalmak istedim… Hélène ile ilişkim olmasına rağmen… Sırlarımı Yurttaş Leconte’a açtım ve şimdi kocam ölü.
+$GEN_007_WIT_01_A_07
+Bu itirafınız için teşekkür ederiz.
+$GEN_007_WIT_01_A_09
+Bu ifşalar hakkında söylemek istediğiniz bir şey var mı?
+$GEN_007_WIT_01_A_10
+Bilmiyorum... Ne diyeceğimi bilmiyorum. Sonuçta, sayın yargıç, kocasını öldürmemi isteyen oydu, evet, oydu.
+$GEN_007_WIT_01_A_11
+Bu da ne saçmalık?
+$GEN_007_WIT_01_A_12
+Evet, Valérie Rabiot’yu seviyorum ve bu yüzden onun isteğini yerine getirip onu o domuz kocasından kurtardım. Bunu… sevgilimin mutluluğu için yaptım.
+$GEN_007_WIT_01_A_13
+Herkes duydu mu? Bu adam az önce cinayeti itiraf etti.
+$GEN_007_WIT_01_A_14
+Duyduk!
+$GEN_007_WIT_01_A_15
+Katil!
+$GEN_007_WIT_01_A_16
+Gerçekten tuhaf bir hikaye. Kime inanmalı? Yurttaş Leconte köşeye sıkıştırılmış...
+$GEN_007_WIT_01_A_17
+Diyelim ki size inandım. O halde, Yurttaş Rabiot’nun dul eşi neden size karşı ifade versin?
+$GEN_007_WIT_01_A_18
+Onu ihbar edebilecek tek kişi benim. Ama onu seviyorum ve asla böyle bir şey yapmam. Peki, neden beni yok etmek istiyor?
+$GEN_007_WIT_01_A_19
+Her biri yalan söylüyor olabilir. Kararını vermeden önce iyi düşün.
+$GEN_007_WIT_01_B_QTitle
+Merhum kocanız size hatırı sayılır bir servet bıraktı.
+$GEN_007_WIT_01_B_00
+Merhum kocanız size hatırı sayılır bir servet bırakmış.
+$GEN_007_WIT_01_B_01
+Eee, ne olmuş yani?
+$GEN_007_WIT_01_B_02
+Hélène, metresiniz, gelecekte yoksulluktan şikayet etmeyecek.
+$GEN_007_WIT_01_B_03
+Ne ima ediyor?
+$GEN_007_WIT_01_B_04
+Vatandaş Rabiot’nun neredeyse Vatandaş Leconte’un kapısında öldüğünü unutmayalım.
+$GEN_007_WIT_01_B_05
+Bu imalarınız beni fazlasıyla şaşırtıyor. Belki başka birini sevdim, ama kocam bana kötü davransa da onun yanında kaldım.
+$GEN_007_WIT_01_B_07
+Tanığın ifadesi hakkında yorum yapmak ister misiniz?
+$GEN_007_WIT_01_B_08
+Sanmıyorum ki ekleyecek bir şeyim olsun, yalnızca bu davada kesin kanıtların yokluğunun tesadüf olmadığını söyleyebilirim.
+$GEN_007_WIT_01_B_09
+Yine de, elimizde bolca ipucu var.
+$GEN_007_KEY_01
+Saygın hekim
+$GEN_007_KEY_02
+Cinayet
+$GEN_007_KEY_03
+Ziyaret
+$GEN_007_KEY_04
+Sanıkla bağ
+$GEN_007_KEY_05
+Ofisten dışarı fırladı
+$GEN_007_KEY_06
+Sohbet sırasında alkol
+$GEN_007_KEY_07
+Zehirli maddelere erişim
+$GEN_007_KEY_08
+Kırık kadeh
+$GEN_007_KEY_09
+Valérie Rabiot’nun notu
+$GEN_007_LastDialog_00
+Ben, sizin giyotine gönderdiğinizden daha fazla insanı kurtardım. Umarım vicdan azabınız ömrünüzün sonuna dek sizi kemirir.
+$GEN_007_UNIQUE_QUESTION_00
+Mağdur ve sanık buluşmaları sırasında ne içiyorlardı?
+$GEN_007_UNIQUE_ANSWER_CORRECT_00_00
+Şarap.
+$GEN_007_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Çay.
+$GEN_007_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Su.

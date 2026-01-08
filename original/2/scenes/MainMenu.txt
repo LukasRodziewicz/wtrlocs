@@ -1,0 +1,56 @@
+#GAME_OPTIONS
+Options du jeu
+#SOUND_OPTIONS
+Audio
+#CREDITS_HEADER
+Crédits
+#CREDITS_BACK
+Revenir
+#CHOOSE_PROFILE
+Choisir un profil
+#NEW_PROFILE
+Créer un profil
+#EMPTY_PROFILE
+Créer un nouveau profil
+#PROFILE_PLACEHOLDER
+Nom du profil
+#PROFILE_DELETE_QUESTION_TITLE
+Supprimer un profil
+#PROFILE_DELETE_QUESTION
+La suppression d'un profil est définitive. Confirmez-vous la suppression ?
+#PROFILE_SUBTITLE
+Acte {0} Jour {1}
+#NEW_GAME_QUESTION_TITLE
+Recommencer
+#NEW_GAME_QUESTION
+Recommencer la partie vous fera perdre votre progression. Voulez-vous vraiment continuer ?
+#SOUND_MAIN_OPTION
+Volume principal
+#SOUND_EFFECTS_OPTION
+Volume du son
+#SOUND_MUSIC_OPTION
+Volume de la musique
+#SOUND_DIALOGS_OPTION
+Volume des voix
+#AUTOSAVE
+Sauvegarde automatique
+#SINGLE_CASES_HEADER
+Audience :
+#MULTI_CASES_HEADER
+Audiences :
+#CASES_EMPTY
+Aucun
+#ACT
+Acte {0}
+#LOAD_GAME_DAY
+Jour {0}
+#LOAD_GAME_PARAMS_INFO
+Situation:
+#LOAD_GAME_QUESTION_TITLE
+Charger une ancienne sauvegarde
+#LOAD_GAME_QUESTION
+La sélection d'un jour antérieur écrasera la progression effectuée les jours suivants. Voulez-vous continuer ?
+#SAVE_PROFILE
+Créer un profil
+#FLASHCARDS_CASES_KEY
+Verdict extraordinaire

@@ -1,0 +1,334 @@
+$FAB_001_DOC_1_HEADER
+Compilado por: Nathan d’Essiraf
+$FAB_001_DOC_1_00
+Claude Pochard, um <a name="1" class="hidden">vigário</a> e tutor de 26 anos. Filho de um sapateiro. Acredita nos ideais do Iluminismo. Após recusar-se a jurar a Constituição Civil do Clero, foi afastado de sua paróquia, proibido de exercer suas funções e sentenciado ao <a name="2" class="hidden">exílio</a>. Apesar disso, permaneceu em Paris e continuou seu trabalho como <a name="3" class="hidden">tutor</a>, iniciado antes de 1789.
+$FAB_001_DOC_1_01
+Pochard foi capturado nas ruas por mero acaso. Um oficial da guarda, presente em seu julgamento há alguns meses, o reconheceu e não hesitou em agir... Após uma investigação, Pochard foi acusado de <a name="4" class="hidden">espionagem</a> e <a name="5" class="hidden">disseminação de propaganda contrarrevolucionária</a> para preparar uma intervenção estrangeira que poria fim à Revolução.
+$FAB_001_DOC_1_02
+Foi encontrada correspondência com o arcebispo Jean-Arsen de Breteuil no quarto que Pochard alugava de Marie Gimet. Nela, o clérigo pedia informações sobre os distúrbios e sobre apoiadores da monarquia que estariam escondidos. Também foram descobertas <a name="6" class="hidden">riquezas</a> — um cálice de ouro e um relicário.
+$FAB_001_DOC_1_03
+Além disso, o diretor de um dos orfanatos onde Claude lecionava testemunhou que o tutor questionava as leis da Revolução diante dos alunos, afirmando que eram menos importantes do que as leis dadas por Deus.
+$FAB_001_DOC_1_04
+Prova: <a name="8" class="hidden">Uma carta</a> para Claude Pochard.
+$FAB_001_DOC_2_TOOLTIP
+Uma carta do arcebispo
+$FAB_001_DOC_2_00
+	Caro Claude,
+	Lembre-se de manter-se firme na fé e cumprir seus deveres com dignidade. Conte-me como estão nossos irmãos de fé e a Igreja nestes tempos desesperadores.
+	
+Que Deus o proteja,
+Jean-Arsen
+$FAB_001_OnStart_00
+Por favor, apresente-se.
+$FAB_001_OnStart_01
+Monsieur le juge, o senhor me conhece…
+$FAB_001_OnStart_02
+Declare suas informações pessoais ou haverá consequências!
+$FAB_001_OnStart_03
+Claude Pochard, monsieur le juge.
+$FAB_001_OnStart_04
+Você está acusado de espionagem em favor dos contrarrevolucionários e de criticar a ordem vigente. Confessa esses crimes?
+$FAB_001_OnStart_05
+Sou inocente! As acusações são exageradas e vêm da má-fé dos acusadores.
+$FAB_001_OnStart_06
+Tão típico de um padre insinuar que o governo revolucionário age por má-fé.
+$FAB_001_OnGuilty_00
+Condeno Claude Pochard à guilhotina! Levem o condenado.
+$FAB_001_OnGuilty_01
+Monsieur le juge, sua coragem é admirável!
+$FAB_001_OnGuilty_02
+Sim, levem-no daqui!
+$FAB_001_OnGuilty_03
+Que a guilhotina se sacie com o sangue dele!
+$FAB_001_OnPrison_00
+Condeno o cidadão Claude Pochard à prisão! Levem o condenado.
+$FAB_001_OnPrison_01
+Ele salvou aquele padre!
+$FAB_001_OnPrison_02
+Ele demonstrou misericórdia a um inimigo da Revolução!
+$FAB_001_OnPrison_03
+Ele não merece viver. Não tenho mais nada a declarar.
+$FAB_001_OnNotGuilty_00
+O veredito para Claude Pochard é... inocente! Levem o réu daqui.
+$FAB_001_OnNotGuilty_01
+Você ficou louco?!
+$FAB_001_OnNotGuilty_02
+Vocês dois deveriam ser executados!
+$FAB_001_OnNotGuilty_03
+Como pôde libertar um agente do Papa?
+$FAB_001_02x04_00_QTitle
+Por que o réu permaneceu na França mesmo após ter sido banido?
+$FAB_001_02x04_00_00
+Por que o réu permaneceu na França mesmo após ter sido banido?
+$FAB_001_02x04_00_01
+Eu precisei cuidar da minha mãe doente. Sem mim, ela certamente teria morrido.
+$FAB_001_02x04_00_02
+Por que você não a levou com você?
+$FAB_001_02x04_00_03
+Ótimo, faça essa escória se contorcer!
+$FAB_001_02x04_00_04
+Eu não tinha condições de pagar por isso. Sou apenas um pobre vigário, impedido até de cumprir meus deveres. Preciso dar aulas todos os dias para sobreviver.
+$FAB_001_02x04_00_05
+Foi por isso que começou a espionar? Por dinheiro?
+$FAB_001_02x04_00_06
+Não. Que tipo de informação eu poderia obter que fosse útil para os emigrados?
+$FAB_001_02x04_00_07
+Por exemplo, a suposta perseguição aos padres. Este é o principal argumento usado pelo arcebispo de Breteuil e por Pio VI para convencer os monarcas católicos a se voltarem contra a Revolução.
+$FAB_001_02x04_00_08
+Não me correspondo com emigrados, e certamente não escrevo sobre o sofrimento de nossos clérigos.
+$FAB_001_02x04_00_09
+Gostaria de lembrar que temos provas.
+$FAB_001_02x04_00_10
+Morte ao mentiroso!
+$FAB_001_03x04_01_QTitle
+O réu viaja extensivamente pelo departamento de Paris. Com que propósito?
+$FAB_001_03x04_01_00
+O réu viaja extensivamente pelo Departamento de Paris. Com que propósito?
+$FAB_001_03x04_01_01
+Dou aulas onde quer que encontre alunos. Admito que isso exige tempo e dedicação.
+$FAB_001_03x04_01_02
+Foi por isso que recebeu ouro de seus cúmplices no exterior?
+$FAB_001_03x04_01_03
+Ele viaja pela França espionando as pessoas.
+$FAB_001_03x04_01_04
+O único dinheiro que recebo vem dos tutores dos meus alunos – e está longe de ser muito.
+$FAB_001_03x04_01_05
+Então de onde vieram as riquezas encontradas em seu quarto?
+$FAB_001_03x04_01_06
+Eram objetos litúrgicos. Salvei-os do saque da igreja em Compans. Prefiro passar fome a vendê-los!
+$FAB_001_03x04_01_07
+Fanático! Ladrão!
+$FAB_001_03x04_01_08
+Mercador de superstições!
+$FAB_001_05x07_02_QTitle
+O que você ensina?
+$FAB_001_05x07_02_00
+O que você ensina?
+$FAB_001_05x07_02_01
+Os responsáveis pelos orfanatos só pagam por aulas de leitura e escrita.
+$FAB_001_05x07_02_02
+Então por que o réu ensinou às crianças que a lei de Deus está acima da lei da República? Você espalhou superstição e propaganda contrarrevolucionária.
+$FAB_001_05x07_02_03
+Isso é um mal-entendido. As crianças que ensino não seriam capazes de compreender assuntos tão complexos.
+$FAB_001_05x07_02_04
+A explicação do acusado apenas agrava sua culpa. Se eles não conseguem compreender o assunto, por que ele o abordaria?
+$FAB_001_05x07_02_05
+A Igreja espalha ignorância e toma nosso dinheiro.
+$FAB_001_05x07_02_06
+Eu apenas respondi às perguntas do diretor do orfanato em Gombiens. Disse que a lei de Deus está acima do meu exílio. É a lei divina que me impede de deixar o país. Tenho o dever de ajudar os necessitados.
+$FAB_001_04x08_03_QTitle
+Que informação o réu conseguiu transmitir ao arcebispo de Breteuil?
+$FAB_001_04x08_03_00
+Que informação o acusado conseguiu transmitir ao arcebispo de Breteuil?
+$FAB_001_04x08_03_01
+Nenhuma. Não tenho ligação com o arcebispo. Por que ele se interessaria pela ajuda de um simples pároco?
+$FAB_001_04x08_03_02
+E quanto à sua carta? Ela está em nossos arquivos! Você recebeu instruções do arcebispo!
+$FAB_001_04x08_03_03
+Cão do Papa!
+$FAB_001_04x08_03_04
+Decapite o traidor!
+$FAB_001_04x08_03_05
+É apenas uma carta, não instruções — e não é do arcebispo, mas sim do meu pároco em Compans, Jean-Arsène Cerreto.
+$FAB_001_04x08_03_06
+Onde ele está agora?
+$FAB_001_04x08_03_07
+Sei apenas que ele pretendia ir para a Suíça. Talvez tenha mudado de ideia. Por isso nunca pensei em responder à carta.
+$FAB_001_04x08_03_08
+Que coincidência — o arcebispo de Breteuil atualmente reside na Suíça.
+$FAB_001_04x08_03_09
+De fato, é uma coincidência. Muitos clérigos vivem na Suíça.
+$FAB_001_04x08_03_10
+Quem acredita nisso?
+$FAB_001_02x05_04_QTitle
+Chame a testemunha Marie Gimet.
+$FAB_001_02x05_04_00
+Chame a testemunha Marie Gimet.
+$FAB_001_02x05_04_02
+Cidadã, qual é o seu nome?
+$FAB_001_02x05_04_03
+Marie Gimet, monsieur le juge.
+$FAB_001_03x06_05_QTitle
+Qual é o salário que o réu recebe como professor?
+$FAB_001_03x06_05_00
+Qual é o salário que o réu recebe como professor?
+$FAB_001_03x06_05_01
+Dois francos por semana, mas a maioria me paga com comida: pão, manteiga, às vezes vinho.
+$FAB_001_03x06_05_02
+Isso não lhe incomoda que os pobres precisem tirar comida dos próprios filhos para entregá-la a você?
+$FAB_001_03x06_05_06
+É claro que isso me incomoda, mas eu também preciso sobreviver.
+$FAB_001_03x06_05_03
+Ele guarda ouro debaixo da cama e ainda assim tira comida dos pobres!
+$FAB_001_03x06_05_04
+Exigimos uma explicação: de onde vem esse ouro? Não seria dos seus cúmplices no exterior?
+$FAB_001_03x06_05_05
+Claro que não. Pertence à paróquia de Compans, que está sob meus cuidados no momento. Este ouro não é minha propriedade.
+$FAB_001_02x03_06_QTitle
+Por que o réu continuou lecionando em vez de deixar a França?
+$FAB_001_02x03_06_00
+Por que o réu continuou lecionando em vez de deixar a França?
+$FAB_001_02x03_06_01
+Meu dever é ajudar os outros. Se não posso ajudar como padre, quero ao menos compartilhar um pouco do meu conhecimento.
+$FAB_001_02x03_06_02
+Seu conhecimento é propaganda católica.
+$FAB_001_02x03_06_03
+Prefiro chamar de “valores católicos”.
+$FAB_001_01x06_07_QTitle
+O réu celebrou missas apesar da proibição?
+$FAB_001_01x06_07_00
+O réu celebrou missas apesar da proibição?
+$FAB_001_01x06_07_01
+Não há igrejas onde eu pudesse fazer isso.
+$FAB_001_01x06_07_02
+Então, qual é a finalidade do cálice e do relicário que estão em posse do acusado?
+$FAB_001_01x06_07_03
+Prática religiosa privada.
+$FAB_001_01x06_07_04
+Foi-lhe proibido administrar os sacramentos.
+$FAB_001_01x06_07_05
+Não é um sacramento, apenas uma oração. A Declaração dos Direitos do Homem e do Cidadão me permite rezar. Você deveria conhecer esse documento.
+$FAB_001_01x06_07_06
+Isso não vem ao caso – ao incentivar superstições em um país progressista, você está espalhando sedição!
+$FAB_001_WIT_00_A_QTitle
+A testemunha sabia que estava alugando um quarto para um padre católico não juramentado?
+$FAB_001_WIT_00_A_00
+A testemunha sabia que estava alugando um quarto para um padre católico que não prestou juramento?
+$FAB_001_WIT_00_A_01
+É melhor dizer a verdade, ou você será o próximo a responder aqui.
+$FAB_001_WIT_00_A_02
+Não intimide a testemunha. Por favor, responda, cidadã.
+$FAB_001_WIT_00_A_03
+Eu não sabia que ele era padre. Ele nunca usou batina, como eu poderia saber? Ele pediu um quarto, eu dei um quarto para ele.
+$FAB_001_WIT_00_A_04
+Então ele escondeu esse fato de você?
+$FAB_001_WIT_00_A_05
+Ele se vestia normalmente, então talvez tenha escondido. Não sei.
+$FAB_001_WIT_00_B_QTitle
+O acusado mantinha uma correspondência extensa?
+$FAB_001_WIT_00_B_00
+O réu mantinha uma correspondência extensa?
+$FAB_001_WIT_00_B_01
+O que quer dizer?
+$FAB_001_WIT_00_B_02
+Ele recebia muitas cartas?
+$FAB_001_WIT_00_B_03
+Não me lembro de nenhuma carta com o nome dele.
+$FAB_001_WIT_00_B_04
+Talvez ele tivesse uma vida social agitada? Recebia muitos convidados?
+$FAB_001_WIT_00_B_05
+Não me lembro de ninguém ter ido visitá-lo. Na maior parte do tempo, ele nem estava lá. Só usava o quarto para dormir.
+$FAB_001_WIT_00_B_06
+Para onde ele iria?
+$FAB_001_WIT_00_B_07
+Não faço esse tipo de pergunta aos meus hóspedes.
+$FAB_001_WIT_01_A_QTitle
+Ele pagava o aluguel em dia?
+$FAB_001_WIT_01_A_00
+Ele pagava o aluguel em dia?
+$FAB_001_WIT_01_A_01
+Às vezes eu precisava ameaçar expulsá-lo. Mas no fim, ele sempre pagava.
+$FAB_001_WIT_01_A_02
+Então o réu não lhe pareceu alguém que dispõe de grandes somas de dinheiro ou que as gasta livremente?
+$FAB_001_WIT_01_A_03
+Não, ele vivia como um pobre. Digo, um homem comum nunca ficaria rico dando aulas.
+$FAB_001_WIT_01_B_QTitle
+Ele já criticou a Revolução e suas conquistas?
+$FAB_001_WIT_01_B_00
+Ele já criticou a Revolução e suas conquistas?
+$FAB_001_WIT_01_B_01
+Uma vez ele disse que, em vez de decapitar pessoas, poderiam fazer algo pela economia e pela educação. Que as crianças passam fome e... bem, não sabem ler nem escrever.
+$FAB_001_WIT_01_B_02
+Ele já questionou a lei?
+$FAB_001_WIT_01_B_03
+Pensando bem, talvez tenha feito isso sim. Uma noite, ele reclamou que a lei não funcionava. Disse que uma pessoa inteligente mandaria todas as crianças para a escola — à força, se fosse preciso!
+$FAB_001_WIT_01_B_04
+Durante mil anos os padres pregaram ao nosso povo, e nada de bom saiu disso.
+$FAB_001_WIT_01_B_05
+Ele tem razão!
+$FAB_001_WIT_01_B_06
+Eles não nos deram nada além de fome e doença!
+$FAB_001_WIT_01_B_08
+O que o réu tem a declarar?
+$FAB_001_WIT_01_B_09
+Exatamente como disse Madame Gimet. Só quero uma educação digna e acessível para os mais jovens. Isso é realmente criticar a Revolução? Igualdade não é um de seus lemas!
+$FAB_001_KEY_01
+Pároco
+$FAB_001_KEY_02
+Banimento
+$FAB_001_KEY_03
+Tutor
+$FAB_001_KEY_04
+Espionagem
+$FAB_001_KEY_05
+Espalhando propaganda
+$FAB_001_KEY_06
+Riquezas da Igreja
+$FAB_001_KEY_07
+Questionamento da lei
+$FAB_001_KEY_08
+Uma carta do arcebispo
+$FAB_001_precourt_00
+A multidão queria, mais uma vez, ser juíza e júri ao mesmo tempo, enforcando pessoas nos postes da rua. O pobre Pochard quase foi enforcado...
+$FAB_001_precourt_01
+Pochard? Claude Pochard?
+$FAB_001_precourt_02
+Exato. O tutor querido do seu Frédéric. Você teve que dispensá-lo depois do episódio com o juramento do clero, não foi?
+$FAB_001_precourt_03
+Sim. Frédéric às vezes me diz que sente falta do professor…
+$FAB_001_precourt_04
+O que você está fazendo? O julgamento está prestes a começar.
+$FAB_001_precourt_05
+É sobre o Monsieur Pochard...
+$FAB_001_precourt_06
+As notícias correm rápido... Ele foi acusado de atividades contrarrevolucionárias.
+$FAB_001_precourt_07
+Você o conhece. Isso não pode ser verdade.
+$FAB_001_precourt_08
+Não é tão simples assim. Vá embora, antes que alguém nos ouça.
+$FAB_001_precourt_09
+Papai... Por favor...
+$FAB_001_precourt_10
+Vá para casa!
+$FAB_001_precourt_11
+Pense na família, pelo menos uma vez.
+$FAB_001_precourt_12
+Papai...
+$FAB_001_LastDialog_01
+Sempre fui leal ao povo. Aos Cidadãos.
+$FAB_001_LastDialog_02
+Cale a boca, padre!
+$FAB_001_LastDialog_03
+Decapite o traidor!
+$FAB_001_UNIQUE_QUESTION_00
+Quais objetos de valor foram apreendidos do réu?
+$FAB_001_UNIQUE_ANSWER_CORRECT_00_00
+Um cálice dourado e um relicário.
+$FAB_001_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Uma cruz processional e uma pia de água benta.
+$FAB_001_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Uma bandeja dourada e um turíbulo.
+$FAB_001_UNIQUE_QUESTION_01
+Onde estavam localizados os traidores com quem o réu se correspondia?
+$FAB_001_UNIQUE_ANSWER_CORRECT_01_00
+Suíça.
+$FAB_001_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Inglaterra.
+$FAB_001_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Espanha.
+$FAB_001_UNIQUE_QUESTION_02
+Quando e onde o réu corrompeu o povo de Paris?
+$FAB_001_UNIQUE_ANSWER_CORRECT_02_00
+Durante as aulas de leitura e escrita no orfanato.
+$FAB_001_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Durante discussões com os frequentadores do Café Procope.
+$FAB_001_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Durante missas proibidas para as crianças do orfanato.
+$FAB_001_UNIQUE_QUESTION_03
+Quanto o réu recebeu por seus serviços de espionagem?
+$FAB_001_UNIQUE_ANSWER_CORRECT_03_00
+Dois francos por semana.
+$FAB_001_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Três francos por mês.
+$FAB_001_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Quatro francos por semana.

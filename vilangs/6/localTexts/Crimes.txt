@@ -1,0 +1,58 @@
+#CRIME_001_NAME
+Incitación a la turba
+#CRIME_002_NAME
+Contrarrevolución
+#CRIME_003_NAME
+Defensa de la monarquía
+#CRIME_004_NAME
+Traición
+#CRIME_005_NAME
+Negligencia del deber
+#CRIME_006_NAME
+Nepotismo
+#CRIME_007_NAME
+Corrupción
+#CRIME_008_NAME
+Robo
+#CRIME_009_NAME
+Allanamiento
+#CRIME_010_NAME
+Destrucción de la propiedad
+#CRIME_011_NAME
+Proxenetismo
+#CRIME_012_NAME
+Asalto
+#CRIME_013_NAME
+Mutilación
+#CRIME_014_NAME
+Intento de asesinato
+#CRIME_015_NAME
+Asesinato
+#CRIME_016_NAME
+Tortura
+#CRIME_017_NAME
+Profanación de un cadáver
+#CRIME_018_NAME
+Pedofilia
+#CRIME_019_NAME
+Violación
+#CRIME_020_NAME
+Calumnia
+#CRIME_021_NAME
+Fraude
+#CRIME_022_NAME
+Especulación de precios
+#CRIME_023_NAME
+Fraude financiero
+#CRIME_024_NAME
+Soborno
+#CRIME_025_NAME
+Adulterio
+#CRIME_026_NAME
+Deserción
+#CRIME_027_NAME
+Brujería
+#CRIME_028_NAME
+Conducir bajo los efectos del alcohol
+#CRIME_029_NAME
+Amenaza para la seguridad vial

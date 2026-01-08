@@ -1,0 +1,76 @@
+$INTRIGUE_TITLE_001
+Jean-Marie Roland
+$INTRIGUE_DESC_001
+Dokumenty znalezione w pancernej szafie króla rzucały cień podejrzeń na Rolanda. Minister żywi wrogość do Trybunału za publiczne ośmieszenie go. Nie podaruje ci tego, a jego rezolutna żona tym bardziej.
+$INTR_BLOCK_001_TITLE
+Namówienie świadka
+$INTR_BLOCK_001_DESC
+Na razie u podstaw historii o niszczeniu dowodów przez Rolanda stoi jedynie plotka. Jeśli namówimy kogoś z towarzyszy ministra, by potwierdził tę wersję, to zyskamy potężne narzędzie! Namierzyliśmy jedną osobę – Philippe Côté  był z tymi, którzy otwierali pancerną szafę króla.
+$INTR_BLOCK_002_TITLE
+Rozpuszczenie plotek
+$INTR_BLOCK_002_DESC
+Roland po rozpoznaniu zawartości pancernej szafy poprosił ponoć o kilka chwil dla siebie i na moment został z dowodami sam. W świetle podejrzeń króla Ludwika o spisek, a także braku na to dowodów można spróbować oskarżyć ministra o ich zniszczenie. Potwierdzenie tych rewelacji przez Côté mogłoby pomóc…
+$INTR_BLOCK_003_TITLE
+Zbieranie poparcia
+$INTR_BLOCK_003_DESC
+Nie możemy dać przeciwnikowi czasu na złapanie oddechu. W świetle plotek i oskarżeń, które wypłynęły, musimy popracować nad deputowanymi Konwentu, którzy podczas obrad zaatakują ministra.
+$INTR_BLOCK_004_TITLE
+Hanriot znęca się nad rodziną
+$INTR_BLOCK_004_DESC
+Roland, broniąc się przed potencjalnym atakiem kolegów z Konwentu, wyjawił, że kandydujący na komendanta Gwardii François Hanriot znęca się nad swoją rodziną. Nie wiadomo, czy to prawda, ale Roland może próbować wykorzystać plotkę, by uciąć kandydaturę Hanriota.
+$INTR_BLOCK_005_TITLE
+Sędzia znęca się nad rodziną
+$INTR_BLOCK_005_DESC
+Tego jeszcze nie było! Ktoś rozpuszcza plotki, że znęcasz się nad swoimi dziećmi i żoną, a swojego ojca przetrzymujesz w ciemnicy i bijesz rzemieniem. Widać plotki o alkoholizmie nie wystarczały, by cię skutecznie oczernić, więc ktoś postanowił pójść o jeden krok za daleko. Nietrudno się domyślić kto. Trzeba szybko uciąć te dyrdymały, bo nie wiemy, w co się przerodzą!
+$INTR_BLOCK_006_TITLE
+Dekonspiracja żony ministra
+$INTR_BLOCK_006_DESC
+Madame Roland to prawdziwa głowa rodziny. Jest niezwykle ambitna, zręcznie steruje karierą męża, wpychając go na kolejne prestiżowe stanowiska. Wątpię, żeby minister jakąkolwiek ważną decyzję podjął bez konsultacji z żoną. Prowadzony przez nią „salon polityczny” okazuje się przykrywką dla ekskluzywnego burdelu. Musimy ich zaatakować. Odciąć od dochodów, od informacji.
+$INTR_BLOCK_007_TITLE
+Kontratak
+$INTR_BLOCK_007_DESC
+Obywatel Robespierre i jego szpicle donoszą o domniemanych przygotowaniach żyrondystów do ataku na jakobinów w celu ich masowego aresztowania i stracenia. Jeśli to Roland jest tym, który zbratał się z arystokratami, to wszystko zaczyna się układać w jedną całość. Roland wie również, że przeżyłeś atak. Możesz się spodziewać, że akcja w Konwencie będzie się łączyć z ponowieniem próby zabójstwa. Robespierre proponuje akcję wyprzedzającą – jeśli aresztujemy prominentnych żyrondystów, utniemy hydrze kilka głów naraz!
+$INTR_BLOCK_008_TITLE
+Aresztowanie
+$INTR_BLOCK_008_DESC
+Jean-Marie Roland to człowiek, który otwarcie cię zaatakował. Przeciw niemu masz mocniejsze dowody, skazanie go nie powinno być trudne. Jego żona zapewne zdąży zbiec i może być dla ciebie problemem.
+$INTR_BLOCK_009_DESC
+Ludzie Jeanne-Marie Roland wykonali zlecenie zamachu na ciebie. To od początku była ona. Aresztując ją, usuniesz źródło problemu, ale jej mąż, człowiek z realną władzą nadaną przez Konwent, umknie ci.
+$INDICTMENT_TITLE
+AKT OSKARŻENIA
+$INDICTMENT_INTR001_DESC02
+Antiboul, Boilleau the younger, Boyer-Fonfrêde, Brissot, Carra, Duchastel, the younger Ducos, Dufriche de Valazé, Duprat, Fauchet, Gardien, Gensonné, Lacaze, Lasource, Lauze-Deperret, Lehardi, Lesterpt-Beauvais, the elder Minvielle, Sillery, Vergniaud, Viger
+$INTR_BLOCK_002_PATH_STR
+Strażnik sądowy Raphael Clovis, twój wierny podwładny, będzie musiał wbić do kilku głów, że Roland to zagrożenie…
+$INTR_BLOCK_002_PATH_DIP
+Kilka mimochodem rzuconych uwag ustami szanowanego Jacques’a-Louisa Davida powinno wywołać lawinę…
+$INTR_BLOCK_004_PATH_STR
+Najlepiej znaleźć tych, którzy rozsiewają te plotki, i dać im wycisk!
+$INTR_BLOCK_004_PATH_DIP
+Hanriot musi się pokazać publicznie z rodziną. Zamanifestować swoje szczęście.
+$INTR_BLOCK_005_PATH_STR
+Rodzina sędziego Trybunału jest nietykalna. Wystarczy pogruchotać kości jednemu plotkarzowi – reszta zrozumie to w mig.
+$INTR_BLOCK_005_PATH_DIP
+Twoja żona szepnie żonom i kochankom prominentnych sankiulotów, że relacje w waszej rodzinie są modelowe.
+$INTR_BLOCK_006_PATH_STR
+Niech gwardziści Hanriota przewrócą jej przybytek do góry nogami. Na pewno coś znajdą, a burdel zamkną na cztery spusty!
+$INTR_BLOCK_006_PATH_DIP
+Żony deputowanych Konwentu dowiedzą się, czym jest salon polityczny, którego gośćmi bywają ich mężowie. One za ciebie wymuszą zamknięcie burdelu Rolandów.
+$INTR_BLOCK_002_PATH_STR_FAILURE
+Monarchia zahartowała czaszki zwykłych Francuzów – nie tak łatwo cokolwiek do nich wbić…
+$INTR_BLOCK_002_PATH_DIP_FAILURE
+Ludzie podeszli z rezerwą do uwag Davida. Twoi wysłannicy nie mają jeszcze najwyższej renomy.
+$INTR_BLOCK_004_PATH_STR_FAILURE
+Twój człowiek nie dał rady namierzyć źródeł plotki. To nie był najlepszy specjalista do tej roboty.
+$INTR_BLOCK_004_PATH_DIP_FAILURE
+Ludzie wyczuli fałsz w całej sytuacji, a objawienie skwitowali kąśliwymi uśmieszkami.
+$INTR_BLOCK_005_PATH_STR_FAILURE
+Kości pogruchotane, ale plotka zaczęła żyć własnym życiem – teraz musiałbyś przetrącić kulasy połowie Paryża.
+$INTR_BLOCK_005_PATH_DIP_FAILURE
+Kobiety, słuchając zapewnień Mathilde, bardziej skupiały się na mieszaniu herbaty w filiżance…
+$INTR_BLOCK_006_PATH_STR_FAILURE
+Ktoś uprzedził madame Roland o zbliżających się dekonspiratorach. Rolandowie najwidoczniej mają swoich ludzi w Gwardii.
+$INTR_BLOCK_006_PATH_DIP_FAILURE
+Udało się przekonać tylko kilka kobiet. Reszta nie kiwnie palcem z obawy o utratę wygodnego życia u boku męża.
+$INTR_SLOT_07_DESC
+Zdecyduj, kto zostanie postawiony przed sądem.

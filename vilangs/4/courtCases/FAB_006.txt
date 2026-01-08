@@ -1,0 +1,260 @@
+$FAB_006_DOC_01_HEADER
+Zusammengestellt von: Fabrice Poli
+$FAB_006_DOC_01_00
+Marie-Sylvie Pache, Tochter des Bürgermeisters von Paris, wird des <a name="1" class="hidden">kaltblütigen Mordes</a> an Béatrice Caron beschuldigt.
+$FAB_006_DOC_01_01
+Die Festnahme erfolgte in einem <a name="2" class="hidden">verlassenen Haus</a> in der Rue Saint-Maur, wo die Angeklagte angeblich mehrfach mit dem Opfer verkehrte. Die Hütte eignete sich hervorragend für heimliche Treffen. Die Verhaftung wurde unter persönlicher Mitwirkung von Richter Fidèle durchgeführt. Laut der Wache wurde die Angeklagte über der Leiche stehend mit einem blutverschmierten <a name="4" class="hidden">Küchenmesser in ihrer Hand</a> angetroffen, das als Tatwaffe identifiziert wurde. Die Angeklagte leistete bei ihrer Festnahme <a name="5" class="hidden">keinen Widerstand</a>.
+$FAB_006_DOC_01_02
+Die Ermittler haben festgestellt, dass die Angeklagte und das Opfer sich schon lange kannten. Man sah sie oft zusammen, doch Bekannte der Angeklagten berichten, sie habe es vorgezogen, weder mit der Stellung ihres Vaters noch mit ihrem <a name="7" class="hidden">richtigen Namen</a> zu prahlen. Béatrice hingegen, so heißt es, habe in Abwesenheit der Angeklagten damit geprahlt… verzeihen Sie meine Ausdrucksweise, Monsieur le Juge, sie habe damit geprahlt, dass sie die Angeklagte <a name="8" class="hidden">„oft gefickt“</a> habe. Ich vermute, das ist nur das törichte Gerede eines jungen Mädchens. Dennoch berichte ich, was ich in Erfahrung bringen konnte.
+$FAB_006_DOC_01_03
+In diesem Fall gibt es zahlreiche Gerüchte und Mutmaßungen. Béatrice unterhielt gewisse Verbindungen zu den Muscadins, doch von ihnen konnten wir nichts Brauchbares erfahren. Man sagt, sie sei diesen Taugenichtsen sehr ähnlich gewesen – jung, widerspenstig, respektlos gegenüber Autoritäten und ein schlechter Einfluss auf die anständige Jugend. Zugleich nahm sie sich heraus, sich als Verteidigerin des Volkes zu bezeichnen. Béatrice war eine Muscadin durch und durch, und es scheint, als strebe die Angeklagte nach demselben.
+$FAB_006_DOC_02_TOOLTIP
+Der Erpresserbrief
+$FAB_006_DOC_02_00
+Marie, deine Welt hat mich verraten. Jetzt bin ich eine Verräterin, eine österreichische Hure, und <a name="9" class="hidden">jemand muss für meine Scham und meinen Schmerz bezahlen</a>. Dieser Jemand bist du. Komm heute Abend an unseren Treffpunkt und bring <a name="10" class="hidden">3.000 Francs</a> mit. Tust du es nicht, erzähle ich allen, dass auch du eine Spionin bist, und man wird dich genauso eine verräterische Hure nennen wie mich.
+$FAB_006_OnStart_00
+Obwohl viele von Ihnen dieses Gesicht bereits kennen, fordere ich die Angeklagte auf, sich vorzustellen.
+$FAB_006_OnStart_01
+Marie-Sylvie Pache, Tochter–
+$FAB_006_OnStart_02
+Ja, wir wissen es.
+$FAB_006_OnGuilty_00
+Wegen Mordes verurteile ich Marie-Sylvie Pache zum Tode.
+$FAB_006_OnGuilty_01
+Es war von Anfang an klar.
+$FAB_006_OnGuilty_02
+Ich empfinde nicht einmal Mitleid mit ihr.
+$FAB_006_OnGuilty_03
+Hätte sie sich einen Mann gesucht, wäre das anders ausgegangen.
+$FAB_006_OnPrison_00
+Marie-Sylvie Pache, es besteht kein Zweifel an Ihrer Schuld. Ich verurteile Sie zu einer Gefängnisstrafe und hoffe, Sie wissen unsere Nachsicht zu schätzen.
+$FAB_006_OnPrison_01
+Ich sehe persönlich keinen Grund, warum sie nicht zur Guillotine geführt werden sollte.
+$FAB_006_OnPrison_02
+Vielleicht hilft ihr ja jemand im Gefängnis, auf den rechten Weg zu kommen.
+$FAB_006_OnNotGuilty_00
+Ich habe Ihre Aussage angehört und spreche Sie frei.
+$FAB_006_OnNotGuilty_01
+Aber Sie haben sie doch selbst auf frischer Tat ertappt!
+$FAB_006_OnNotGuilty_02
+Was?
+$FAB_006_OnNotGuilty_03
+Warum?
+$FAB_006_OnNotGuilty_04
+Der Richter bevorzugt doch selbst Knaben und verteidigt sie deshalb.
+$FAB_006_01x02_00_QTitle
+Warum haben Sie gerade diesen Ort gewählt, um Ihr Opfer zu ermorden?
+$FAB_006_01x02_00_00
+Warum haben Sie gerade diesen Ort für den Mord an Ihrem Opfer gewählt?
+$FAB_006_01x02_00_01
+Ich habe den Ort nicht gewählt, das war Béatrice… Und ich hatte nicht vor, jemanden zu töten.
+$FAB_006_01x02_00_02
+Dort gäbe es keine Zeugen für das Verbrechen.
+$FAB_006_01x02_00_03
+Jedes Mal, wenn wir uns dort trafen, wurde ein Verbrechen begangen – ein Verbrechen des Standesunterschieds, ein Verbrechen von Lust und Körpern. Wir verließen uns darauf, dass es keine Zeugen gab.
+$FAB_006_01x02_00_04
+Also haben sie tatsächlich... nun ja.
+$FAB_006_01x05_01_QTitle
+Sie haben bei Ihrer Festnahme keinen Widerstand geleistet. Warum waren Sie so ruhig?
+$FAB_006_01x05_01_00
+Sie haben bei Ihrer Verhaftung keinen Widerstand geleistet. Warum waren Sie so ruhig?
+$FAB_006_01x05_01_01
+Ich weiß, was ich getan habe, und ich leugne nichts davon.
+$FAB_006_01x05_01_02
+Und Ihnen ist bewusst, dass auf ein solches Verbrechen die Todesstrafe steht? Vielleicht hätten Sie versuchen sollen, sich zu retten?
+$FAB_006_01x05_01_03
+Der Ruf unserer Familie ist durch die Anschuldigungen gegen meinen Vater ohnehin schon befleckt. Die Person, die ich… Béatrice entpuppte sich als Erpresserin. Was hätte ich retten sollen? Mein Leben? Aber was für ein Leben?!
+$FAB_006_01x05_01_04
+Mit anderen Worten: Sie haben diese Frau kaltblütig ermordet, nur weil sie Ihrer Familie Leid zugefügt hat?
+$FAB_006_01x05_01_05
+Sie streitet es nicht einmal ab. Was für eine Närrin!
+$FAB_006_01x06_02_QTitle
+Du hast eine gute Freundin getötet.
+$FAB_006_01x06_02_00
+Du hast eine gute Freundin getötet.
+$FAB_006_01x06_02_01
+Das Messer drang in sie ein, als wäre sie irgendein Fremder.
+$FAB_006_01x06_02_02
+Sie sprechen völlig ohne jede Regung. Wie ist das möglich?
+$FAB_006_01x06_02_03
+Als ich Béatrices Brief erhielt, erstarrte mein Herz, und ich erkannte die wahren Farben dieser Welt – Verrat, Egoismus, Unbarmherzigkeit.
+$FAB_006_01x06_02_04
+Sie ist jung, reich und töricht.
+$FAB_006_02x07_03_QTitle
+Was wäre gewesen, wenn der Eigentümer des Hauses, das Sie für Ihre heimlichen Treffen besetzt hatten, zurückgekehrt wäre?
+$FAB_006_02x07_03_00
+Was wäre gewesen, wenn der Eigentümer des Hauses, das Sie für Ihre heimlichen Treffen besetzt hatten, zurückgekehrt wäre?
+$FAB_006_02x07_03_01
+Wir haben das Haus nicht besetzt, dieser Vorwurf ist absurd.
+$FAB_006_02x07_03_02
+Die Tochter des Bürgermeisters wollte zeigen, dass sie Macht besitzt. Wie aristokratisch.
+$FAB_006_02x07_03_03
+Ich bin keine Aristokratin, ich stamme aus dem einfachen Volk. Die ärmeren Bürger von Paris haben mich als eine der ihren aufgenommen, weil sie gesehen haben, dass ich mich um sie kümmere.
+$FAB_006_02x07_03_04
+Sie haben dich aufgenommen, weil sie nicht wussten, dass du die Tochter einer wichtigen Persönlichkeit bist.
+$FAB_006_02x07_03_05
+Vielleicht haben Sie recht, Staatsanwalt Tinville. Es ist durchaus möglich, dass mein Leben und meine Träume tatsächlich so erbärmlich waren.
+$FAB_006_02x07_03_06
+Sie hat das Haus besetzt, nur um allen zu zeigen, wie wichtig sie ist!
+$FAB_006_02x07_03_07
+Ihr redet nur dummes Zeug …
+$FAB_006_02x04_04_QTitle
+Woher haben Sie das Messer?
+$FAB_006_02x04_04_00
+Woher haben Sie das Messer?
+$FAB_006_02x04_04_01
+Manchmal mussten wir Brot schneiden, wenn wir hungrig waren. Ich hatte das Messer schon früher dorthin gebracht, und seitdem lag es einfach dort.
+$FAB_006_02x04_04_02
+Haben Sie dieses Verbrechen im Voraus geplant?
+$FAB_006_02x04_04_03
+Nein… Ich habe doch gesagt… Hört mir denn niemand zu? Ich habe gesagt, ich habe das Küchenmesser von zu Hause mitgenommen, um–
+$FAB_006_02x04_04_04
+Ich wette, das war alles Silber! Ich habe gehört, der Bürgermeister ist ein reicher Mann.
+$FAB_006_02x04_04_05
+Was spielt es für eine Rolle, was ich sage, wenn eure Ohren für meine Worte verschlossen sind?
+$FAB_006_02x04_04_06
+Österreichische Hure!
+$FAB_006_02x04_04_07
+Tribadin! Frikateurin!
+$FAB_006_02x04_04_08
+Wagen Sie es nicht, das Volk zu beleidigen!
+$FAB_006_04x05_05_QTitle
+Bei der Festnahme haben Sie mir die Mordwaffe selbst übergeben.
+$FAB_006_04x05_05_00
+Bei der Festnahme haben Sie mir die Mordwaffe selbst übergeben.
+$FAB_006_04x05_05_01
+Ich habe es der richtigen Person gegeben.
+$FAB_006_04x05_05_02
+Bitte erklären Sie.
+$FAB_006_04x05_05_03
+Ich übergab das Messer dem obersten Schlächter der Stadt. Einem Mann, der weiß, dass dieses Werkzeug für ihn bestimmt war. Er wird das Blut noch lange nach meinem Tod riechen.
+$FAB_006_04x05_05_04
+Diese Gräueltaten mit einer anderen Frau haben ihr den Verstand verwirrt!
+$FAB_006_04x05_05_05
+Merken Sie sich meine Worte, Richter Fidèle – eines Tages wird dieses Messer auch Sie erwischen.
+$FAB_006_04x05_05_06
+Der Angeklagte versucht, den Richter einzuschüchtern!
+$FAB_006_06x08_06_QTitle
+Wie lange hatten Sie eine intime Beziehung mit dem Opfer?
+$FAB_006_06x08_06_00
+Wie lange hatten Sie eine intime Beziehung mit dem Opfer?
+$FAB_006_06x08_06_01
+Ein Jahr lang. Es begann –
+$FAB_006_06x08_06_02
+Müssen wir uns diese perversen Ausschweifungen wirklich anhören?
+$FAB_006_06x08_06_03
+Die Angeklagte hat das Recht, sich selbst zu verteidigen. Wenn Ihnen ihre Aussage zu viel wird, Staatsanwalt Tinville, kann ich den Prozess auch allein zu Ende führen.
+$FAB_006_06x08_06_04
+Ich werde bleiben.
+$FAB_006_06x08_06_05
+Ich bitte den Angeklagten, fortzufahren.
+$FAB_006_06x08_06_06
+Es begann… nein, ich will meine Gefühle nicht vor denen offenbaren, die sie für widernatürlich halten. Ihr habt mich ohnehin schon mit einem Tier verglichen.
+$FAB_006_06x08_06_07
+Ihre Aussage könnte helfen, bei–
+$FAB_006_06x08_06_08
+Ja, ich habe Béatrice getötet, weil ich ein verkommener Bastard bin. Ein Ungeheuer! Ist das, was Sie hören wollten?
+$FAB_006_06x08_06_09
+Ganz genau, Ungeheuer!
+$FAB_006_03x07_07_QTitle
+Weißt du, wie ich von eurem Treffen erfahren habe?
+$FAB_006_03x07_07_00
+Wissen Sie, wie ich von Ihrem Treffen erfahren habe?
+$FAB_006_03x07_07_01
+Darüber habe ich in der Zelle nachgedacht.
+$FAB_006_03x07_07_02
+Béatrice Caron sagte aus, sie sei eine österreichische Spionin gewesen und habe nur deshalb Kontakt zu Ihnen gehalten, um Ihren Vater auszuspionieren.
+$FAB_006_03x07_07_03
+Das ist absurd.
+$FAB_006_03x07_07_04
+Es ist nicht leicht, die Wahrheit zu akzeptieren.
+$FAB_006_03x07_07_05
+Ihr versucht, unsere Gefühle zu einem bloßen politischen Spiel zu machen. Doch Liebe steht auf einer ganz anderen Stufe.
+$FAB_006_03x07_07_06
+Widerlich.
+$FAB_006_03x07_07_07
+Sie liebten einander so sehr, dass am Ende einer den anderen tötete.
+$FAB_006_03x07_07_08
+Widerlich seid nur ihr – ihr und eure enge kleine Welt. Die Revolution hat es nicht vermocht, eure Köpfe, Herzen und Seelen zu öffnen.
+$FAB_006_10x09_08_QTitle
+Bitte beschreiben Sie, was Sie empfanden, als Sie den Brief von Béatrice erhielten.
+$FAB_006_10x09_08_00
+Bitte schildern Sie, was Sie empfanden, als Sie den Brief von Béatrice erhielten.
+$FAB_006_10x09_08_01
+Mein Herz zerbrach.
+$FAB_006_10x09_08_02
+Also, das Motiv ist nun bestätigt.
+$FAB_006_10x09_08_03
+Ihr seid wirklich brillante Ermittler. Endlich habt ihr verstanden, was ich euch von Anfang an gesagt habe. Béatrice war mir sehr teuer, wie–
+$FAB_006_10x09_08_04
+Lass sie das nicht laut aussprechen!
+$FAB_006_10x09_08_05
+Bitte verschonen Sie uns mit den Einzelheiten.
+$FAB_006_10x09_08_06
+Natürlich, eure frommen Herzen könnten ja den Gedanken nicht ertragen, dass zwei Frauen zusammen sind. Wo bleibt denn eure Freiheit und Gleichheit?
+$FAB_006_10x07_09_QTitle
+Soweit Sie wissen, wofür hätte das Opfer das geforderte Geld ausgeben wollen?
+$FAB_006_10x07_09_00
+Soweit Sie wissen, wofür hätte das Opfer das geforderte Geld ausgeben wollen?
+$FAB_006_10x07_09_01
+Ich weiß es nicht, wir haben kaum über Geld gesprochen. Wir sprachen über Schmerz. Meistens über meinen eigenen.
+$FAB_006_10x07_09_02
+Sie sollen das Opfer sehr gut gekannt haben.
+$FAB_006_10x07_09_03
+Wir sprachen nicht über Geld, wir schmiedeten keine gemeinsamen Zukunftspläne – wir alle wissen, dass das unmöglich wäre…
+$FAB_006_10x07_09_04
+Und das ist auch gut so!
+$FAB_006_10x07_09_05
+Fort mit diesem Gräuel!
+$FAB_006_10x07_09_06
+Wie Sie sehen...
+$FAB_006_10x07_09_07
+Dieses Geld wäre vermutlich zur weiteren Entwicklung des österreichischen Spionagenetzwerks in Frankreich verwendet worden.
+$FAB_006_10x07_09_08
+Warum glauben Sie das?
+$FAB_006_10x07_09_09
+Sie sind nicht hier, um Fragen zu stellen.
+$FAB_006_KEY_01
+Ein kaltblütiger Mord
+$FAB_006_KEY_02
+Ein verlassenes Haus
+$FAB_006_KEY_03
+Richterliche Unterstützung
+$FAB_006_KEY_04
+Messer in ihrer Hand
+$FAB_006_KEY_05
+Kein Widerstand
+$FAB_006_KEY_06
+Sie kannten einander
+$FAB_006_KEY_07
+Verschleierung ihrer Identität
+$FAB_006_KEY_08
+Ihre intime Beziehung
+$FAB_006_KEY_09
+Erpressung
+$FAB_006_KEY_10
+3.000 Francs
+$FAB_006_LastDialog_00
+Warum starren Sie mich so an? Sehen Sie hier etwa einen Sieg?
+$FAB_006_UNIQUE_QUESTION_00
+Die Muscadins haben den Angeklagten nicht erkannt? Warum?
+$FAB_006_UNIQUE_ANSWER_CORRECT_00_00
+Sie verbarg ihren wahren Nachnamen.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Sie haben sie erkannt, doch es war ihnen egal.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Der Angeklagte fügte sich geschickt in die Menge ein.
+$FAB_006_UNIQUE_QUESTION_01
+Hat die Angeklagte bestätigt, mit dem Opfer sexuell verkehrt zu haben?
+$FAB_006_UNIQUE_ANSWER_CORRECT_01_00
+Ja.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Nein.
+$FAB_006_UNIQUE_QUESTION_02
+Woher hat der Angeklagte die Mordwaffe?
+$FAB_006_UNIQUE_ANSWER_CORRECT_02_00
+Sie hat es von zu Hause mitgebracht.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Das haben ihr österreichische Spione gegeben.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Sie hat es direkt vor dem Treffen auf dem Markt gekauft.

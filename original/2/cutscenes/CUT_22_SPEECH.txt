@@ -1,0 +1,48 @@
+$CUT_22_SPEECH_001_CROWD
+Quand va-t-on être enfin débarrassés de ces sacrés hypocrites ?
+$CUT_22_SPEECH_002_CROWD
+Dis-le-nous, Monsieur le juge !
+$CUT_22_SPEECH_003_CROWD
+Quand Tinville va-t-il les mettre au pied du mur ?
+$CUT_22_SPEECH_004_JUDGE_AGGR
+Soyez furieux, impitoyables ! S'il faut mettre sur une pique la tête de quelqu'un, faites-le ! C'est votre ville, votre pays !
+$CUT_22_SPEECH_005_JUDGE_MANI
+Voyez à quoi ils vous ont poussés. Il vous a fallu descendre dans la rue pour qu'ils vous voient. Vous avez bien le droit d'être en colère, et eux devraient trembler devant leur fin qui approche à grands pas !
+$CUT_22_SPEECH_006_JUDGE_JOKE
+Pensez-vous vraiment que vos mines chagrines les ennuient ? Si vous voulez leur faire peur, marchez vers eux poings serrés et torches levées.
+$CUT_22_SPEECH_007_JUDGE_HUMI
+Je comprends votre ressentiment et je vous soutiens. Ces gens installés dans leurs confortables palais de marbre et leurs beaux habits délicats sont la cause de votre misère !
+$CUT_22_SPEECH_008_JUDGE_AGGR
+Ces parasites se sont nourris de votre dur labeur, de votre sang et de votre sueur ! Il suffit ! La Révolution était censée nous rendre tous égaux. Et pourtant, le clergé nous prend de haut à nouveau ! La Vendée en est la preuve !
+$CUT_22_SPEECH_009_JUDGE_MANI
+Le clergé n'a rien fait pour vous, ils n'ont toujours pensé qu'à eux-mêmes. Ils se servent de la rébellion vendéenne pour reprendre le pouvoir.
+$CUT_22_SPEECH_010_JUDGE_JOKE
+Avez-vous vraiment besoin de ces gens qui refusent de défendre votre foi, et au lieu de cela vous dégoûtent ?
+$CUT_22_SPEECH_011_JUDGE_HUMI
+Citoyens, vous avez payé trop cher la liberté et l'égalité pour les remettre à quelqu'un qui vous défendra de reprendre les armes.
+$CUT_22_SPEECH_012_JUDGE_AGGR
+À la tête de chaque groupe de traîtres, il y a un homme. Point d'exception ici : l'archevêque Gobel attend que la guerre civile fragilise la France pour pouvoir se couronner au moment opportun ! Son souhait est de restaurer l'ordre ancien !
+$CUT_22_SPEECH_013_JUDGE_MANI
+L'archevêque Gobel est une autre incarnation de ce mal que vous aviez réussi à chasser ! Il espionne, manipule et harcèle tous ceux qui lui font obstacle !
+$CUT_22_SPEECH_014_JUDGE_JOKE
+Si Gobel s'inquiétait réellement pour vous, il se serait satisfait de ses prêches. Mais il préfère que des rébellions éclatent et que soit rétabli l'ancien régime.
+$CUT_22_SPEECH_015_JUDGE_HUMI
+Ne les laissez pas réduire à néant vos efforts, car des gens comme Gobel en profiteront pour vous gouverner au nom du pape.
+$CUT_22_SPEECH_016_JUDGE_AGGR
+Exigez de lui la vérité sur son enfant illégitime ! Exigez de lui des explications sur son implication dans l'agitation vendéenne et le début de la guerre civile !
+$CUT_22_SPEECH_017_JUDGE_MANI
+Allez-vous vraiment laisser la vérité sur l'enfant illégitime de l'archevêque être ensevelie sous une brouettée de prêchi-prêcha ? Laisserez-vous le clergé soutenir les guerres civiles plutôt que les fidèles ?
+$CUT_22_SPEECH_018_JUDGE_JOKE
+Avez-vous entendu les rumeurs sur l'enfant illégitime de l'archevêque ? Posez-lui donc la question. Je me demande quelles sont les histoires qu'il vous donnera pour réponse.
+$CUT_22_SPEECH_019_JUDGE_HUMI
+La France ne peut tolérer des prêtres qui ont des enfants illégitimes ni des archevêques impliqués dans des guerres civiles. Voilà ce que vous devriez lui dire.
+$CUT_22_SPEECH_020_JUDGE
+Soulevez-vous !
+$CUT_22_SPEECH_TOPIC_01
+Je comprends votre colère. La faute leur revient.
+$CUT_22_SPEECH_TOPIC_02
+Ils ont vécu sur votre dos pendant tant d'années. Et ils continuent !
+$CUT_22_SPEECH_TOPIC_03
+Gobel est le pire des menteurs.
+$CUT_22_SPEECH_TOPIC_04
+Allez le voir. Exigez de lui la vérité !

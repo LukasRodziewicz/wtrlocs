@@ -1,0 +1,36 @@
+$DIAL_H_01_03_26_001_SON
+Ona söyle, anne.
+$DIAL_H_01_03_26_002_WIFE
+…
+$DIAL_H_01_03_26_003_JUDGE
+Ne?!
+$DIAL_H_01_03_26_004_SON
+Ona sen söyle, yoksa ben söyleyeceğim.
+$DIAL_H_01_03_26_005_JUDGE
+Benden ne söylemesini istiyorsun?!
+$DIAL_H_01_03_26_006_WIFE
+Belediye başkanının kızı sende diye duyduk...
+$DIAL_H_01_03_26_007_JUDGE
+Evet, duruşma yarına planlandı.
+$DIAL_H_01_03_26_008_WIFE
+Yani, her şey senin kararına mı bağlı?
+$DIAL_H_01_03_26_009_JUDGE
+Bunu yapmayacağım.
+$DIAL_H_01_03_26_010_WIFE
+Neden olmasın?
+$DIAL_H_01_03_26_011_JUDGE
+Bu, itibarsızlık olur!
+$DIAL_H_01_03_26_012_WIFE
+Peki, çocuklarımızı öldürmek serbest mi?!
+$DIAL_H_01_03_26_013_JUDGE
+Yapamam, onun suçu değil.
+$DIAL_H_01_03_26_014_SON
+Onu öldür.
+$DIAL_H_01_03_26_015_JUDGE
+Daha bu yaşta, cinayetten sanki önemsiz bir şeymiş gibi söz ediyorsun.
+$DIAL_H_01_03_26_016_SON
+Bizim gibi acı çeksinler. Onu öldür. Kanını istiyoruz! Kardeşimi darağacına göndermek onlar için hiçbir şeydi.
+$DIAL_H_01_03_26_017_JUDGE
+Beni korkutuyorsunuz…
+$DIAL_H_01_03_26_018_WIFE
+Söylediklerimizi yapmazsan, asıl o zaman korkarsın.

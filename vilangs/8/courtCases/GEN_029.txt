@@ -1,0 +1,277 @@
+$GEN_029_DOC_01_HEADER
+Compilado por: Nathan d’Essiraf
+$GEN_029_DOC_01_00
+Edmond Malle, coveiro de 44 anos que trabalha no cemitério de Montmartre. As autoridades parisienses o conhecem bem, pois não é a primeira vez que se senta no banco dos réus. Anteriormente, esse notório pervertido foi <a name="2" class="hidden">condenado por assediar</a> um jovem aristocrata. Também soubemos por informantes que ele vende corpos, especialmente procurados por estudantes de medicina. A administração fazia vista grossa porque Malle aceitava um salário miserável e nunca pediu aumento.
+$GEN_029_DOC_01_01
+Malle foi acusado de assassinar e profanar os restos mortais de Laura Dufort, filha do Marquês de Civrac, desaparecida há duas semanas. A Guarda Nacional tomou conhecimento do caso por meio de <a name="4" class="hidden">Jules Marot</a>, um estudante de medicina que comprou um crânio do coveiro. O que deveria ser apenas um material de estudo acabou sendo o crânio de uma amiga próxima de Marot, a desaparecida Laura Dufort.
+$GEN_029_DOC_01_02
+Chocado com sua própria descoberta, ele acabou se envolvendo pessoalmente na investigação. Auxiliou a polícia na busca pela casa de Malle e foi justamente ele quem encontrou o corpo decapitado da jovem <a name="6" class="hidden">escondido em um galpão</a>.
+$GEN_029_DOC_01_03
+Mais tarde, o pai da assassinada Laura declarou que ela <a name="7" class="hidden">frequentemente visitava o cemitério</a>. Ela ia ao túmulo do primo, um oficial da Guarda Suíça morto durante o Cerco às Tulherias em 1792. Descobriu-se que, em diversas ocasiões, a jovem reclamou dos coveiros locais, alegando que eles <a name="8" class="hidden">a importunavam de maneira indecente</a>. Um deles chegou a persegui-la certa vez, mas foi difícil identificar e punir o responsável.
+$GEN_029_DOC_01_04
+Evidência:
+<a name="9" class="hidden">crânio</a> de Laura Dufort.
+$GEN_029_OnStart_00
+Por favor, apresente-se.
+$GEN_029_OnStart_01
+Me chamam... as pessoas me chamam de "Pesadelo".
+$GEN_029_OnStart_02
+Não quero saber seu apelido, mas sim seu nome e sobrenome.
+$GEN_029_OnStart_03
+Ah... bem... minha mãe me batizou como Edmond. Edmond Malle.
+$GEN_029_OnStart_04
+Você está sendo acusado de assassinar a filha do Marquês de Civrac Hector Dufort, profanar seus restos mortais e vender seu crânio. Como responde a essas acusações?
+$GEN_029_OnStart_05
+Os restos foram encontrados na residência do réu.
+$GEN_029_OnStart_06
+Nunca vi eles antes.
+$GEN_029_OnStart_07
+Está querendo dizer que não foi você quem os escondeu lá?
+$GEN_029_OnStart_08
+Eu? Não, eu não machuquei ela. Por que eu esconderia o corpo dela?
+$GEN_029_OnStart_09
+Ah, claro, alguém deve ter largado o corpo ali só de brincadeira, não é?
+$GEN_029_OnGuilty_00
+Condeno o cidadão Edmond Malle à guilhotina! Levem o condenado.
+$GEN_029_OnGuilty_01
+Paris será um lugar mais seguro.
+$GEN_029_OnGuilty_02
+Maravilhoso!
+$GEN_029_OnGuilty_03
+Bem feito!
+$GEN_029_OnGuilty_04
+Venda o crânio dele para os estudantes!
+$GEN_029_OnPrison_00
+[Este é um texto de exemplo e deve ser alterado!!!!]
+$GEN_029_OnNotGuilty_00
+O julgamento de Edmond Malle é... inocente! Retirem o réu.
+$GEN_029_OnNotGuilty_01
+Se não foi ele, quem a matou?
+$GEN_029_OnNotGuilty_02
+Que pena. Poderia ter sido uma execução tão bela...
+$GEN_029_09x05_00_QTitle
+Este é o crânio que você vendeu para Jules Marot?
+$GEN_029_09x05_00_00
+Este é o crânio que você vendeu para Jules Marot?
+$GEN_029_09x05_00_01
+Não era assim quando ele pegou.
+$GEN_029_09x05_00_02
+O que você quer dizer?
+$GEN_029_09x05_00_03
+Bom, está branco como alabastro, mas eu não tenho tempo pra essas bobagens. Tem que ferver, deixar secar ao sol, ferver de novo, secar de novo... e nem pagam muito menos pelos sujos.
+$GEN_029_09x05_00_04
+Então quem limpou esse crânio?
+$GEN_029_09x05_00_05
+Pergunte pra quem comprou. O estudante, quero dizer.
+$GEN_029_09x05_00_06
+Pelo que demonstra seu conhecimento, parece perfeitamente capaz de limpar ossos sozinho.
+$GEN_029_09x05_00_07
+Eu já fiz isso antes, mas como eu disse, não vale a pena.
+$GEN_029_09x05_00_08
+De onde saem esses malucos?
+$GEN_029_01x08_01_QTitle
+O réu tentou persuadir Laura Dufort a cometer adultério?
+$GEN_029_01x08_01_00
+O réu tentou persuadir Laura Dufort a cometer adultério?
+$GEN_029_01x08_01_01
+Ah, sabe como é no interior, né? Dizem que se você não assobiar pra moça, ela fica brava. Mas eu não fiz nada além disso.
+$GEN_029_01x08_01_02
+Seja preciso. Você a chamou ou não?
+$GEN_029_01x08_01_03
+Eu falei algo tipo... sabe, “Vamos subir, querida.” Mas era só conversa!
+$GEN_029_01x08_01_04
+E como a vítima reagiu a essa... conversa?
+$GEN_029_01x08_01_05
+Uma vez, ela me xingou de um jeito nada feminino, atirou pedras em mim e saiu correndo pelo portão. Fiquei bem irritado, é verdade.
+$GEN_029_01x08_01_06
+Aí está o motivo! Esse selvagem devorador de carne queria vingança!
+$GEN_029_01x08_01_07
+Foi por isso que você a matou?
+$GEN_029_01x08_01_08
+Não! Eu até posso ser um mulherengo, mas assassino eu não sou!
+$GEN_029_02x03_02_QTitle
+O que você pensa sobre a aristocracia?
+$GEN_029_02x03_02_00
+O que você pensa sobre a aristocracia?
+$GEN_029_02x03_02_01
+Esses parasitas purulentos merecem ter as cabeças cortadas. Está na moda agora, não é?
+$GEN_029_02x03_02_02
+Chamar a Revolução de moda é um insulto a esse nobre movimento dos oprimidos que–
+$GEN_029_02x03_02_03
+Chega! Todos sabemos do que se trata a Revolução. Então, o réu gostaria de matar todos os membros da aristocracia?
+$GEN_029_02x03_02_04
+Sim.
+$GEN_029_02x03_02_05
+Este é um motivo claro e uma prova conclusiva.
+$GEN_029_02x03_02_06
+Inclui também as aristocratas?
+$GEN_029_02x03_02_07
+Ah não, não, ha ha! Essas moças são boas, monsieur le juge, a gente sabe aproveitar. E as damas nobres, sabe como é, vêm mais limpinhas.
+$GEN_029_04x05_03_QTitle
+Chame a testemunha.
+$GEN_029_04x05_03_00
+Chame a testemunha.
+$GEN_029_04x05_03_02
+Por favor, apresente-se.
+$GEN_029_04x05_03_03
+Jules Marot, monsieur le juge.
+$GEN_029_06x03_04_QTitle
+Como os restos mortais de Laura Dufort foram parar no galpão do réu?
+$GEN_029_06x03_04_00
+Como os restos mortais de Laura Dufort foram parar no galpão do réu?
+$GEN_029_06x03_04_01
+Como é que eu vou saber?!
+$GEN_029_06x03_04_02
+Confesse logo e acabe com isso!
+$GEN_029_06x03_04_03
+É difícil ignorar conclusões óbvias quando se encontra um corpo decapitado em uma construção usada pelo réu.
+$GEN_029_06x03_04_04
+Ora, senhor! Se eu... sabe como é... tivesse feito isso ou aquilo, eu teria enterrado ela, não deixado num galpão! Tenho as chaves do cemitério, podia largar ela numa cripta e ninguém jamais teria encontrado.
+$GEN_029_06x03_04_05
+Não dê ouvidos às desculpas dele. Se ele a levou para sua casa para estuprá-la e matá-la, teria escondido o corpo no galpão, pois era o lugar mais próximo.
+$GEN_029_06x03_04_06
+Como você responde a isso?
+$GEN_029_06x03_04_07
+Eu não matei ninguém! Só tem um trinco no galpão. Qualquer um pode entrar lá e largar um defunto! Só porque ela estava lá não quer dizer que fui eu que matei!
+$GEN_029_06x03_04_08
+Se o réu não a matou, então quem matou?
+$GEN_029_06x03_04_09
+Não sei, talvez aquele estudante?
+$GEN_029_06x03_04_10
+Estuprador sem vergonha!
+$GEN_029_09x04_05_QTitle
+Você admite ter removido o crânio da vítima…?
+$GEN_029_09x04_05_00
+Você admite ter removido o crânio da vítima e vendido-o ao cidadão Marot?
+$GEN_029_09x04_05_01
+Eu não tirei nada de ninguém, e o crânio que vendi não era dessa senhora.
+$GEN_029_09x04_05_02
+Então você admite ter profanado cadáveres?
+$GEN_029_09x04_05_03
+Sim. Eu faço isso, senão não teria dinheiro nem pra pão ou água. Mas não era o crânio dela.
+$GEN_029_09x04_05_04
+De quem era o crânio?
+$GEN_029_09x04_05_05
+Não faço ideia. Pego de covas aleatórias dos mais pobres, só confiro se não estão danificados.
+$GEN_029_09x04_05_06
+Que nojo!
+$GEN_029_09x04_05_07
+Quem permitiu isso?!
+$GEN_029_09x07_06_QTitle
+O réu conhecia Laura Dufort?
+$GEN_029_09x07_06_00
+O réu conhecia Laura Dufort?
+$GEN_029_09x07_06_01
+Com certeza. Ela sempre ia ao túmulo daquele soldado, deixava uma flor, rezava o Pai-Nosso. Moça boa, viu…
+$GEN_029_09x07_06_02
+Você diria que vocês eram próximos?
+$GEN_029_09x07_06_03
+Não. Sempre cumprimentei ela com educação, tentei conversar, mas ela só rosnava pra mim feito um gato arisco. E não fui o único.
+$GEN_029_09x07_06_04
+Você foi agressivo com ela?
+$GEN_029_09x07_06_05
+De jeito nenhum, só estava brincando um pouco.
+$GEN_029_09x07_06_06
+Que sujeito descarado...
+$GEN_029_09x07_06_07
+Havia mais alguém que a importunava nos arredores do cemitério?
+$GEN_029_09x07_06_08
+Com certeza! Sempre tinha uns bêbados por lá, e também aquele rapaz que comprou o crânio de mim e agora me chama de assassino.
+$GEN_029_09x07_06_09
+Você o conhecia antes de vender o crânio para ele?
+$GEN_029_09x07_06_10
+Só de vista. Nem sabia que ele estava estudando pra ser médico.
+$GEN_029_WIT_00_A_QTitle
+Qual era sua relação com a falecida Laura Dufort?
+$GEN_029_WIT_00_A_00
+Qual era a sua relação com a falecida Laura Dufort?
+$GEN_029_WIT_00_A_01
+Ela era a pessoa mais próxima que eu tinha neste mundo. Conheci ela a vida inteira, e esse miserável… Monsieur le juge, eu a amava.
+$GEN_029_WIT_00_A_02
+Ela correspondia ao seu amor?
+$GEN_029_WIT_00_A_03
+Infelizmente não, mas tenho certeza de que, mais cedo ou mais tarde, ela acabaria sentindo algo por mim!
+$GEN_029_WIT_01_A_QTitle
+Tem certeza de que o crânio comprado do acusado…?
+$GEN_029_WIT_01_A_00
+Tem certeza de que o crânio comprado do acusado pertence à vítima?
+$GEN_029_WIT_01_A_01
+Com certeza.
+$GEN_029_WIT_01_A_02
+O que lhe dá tanta certeza nessa convicção? Consegue prová-la?
+$GEN_029_WIT_01_A_03
+Quando criança, Laura perdeu o incisivo superior direito... infelizmente, por minha culpa. Foi assim que soube que era dela. Meu Deus...
+$GEN_029_WIT_01_A_04
+Pode ser apenas uma coincidência.
+$GEN_029_WIT_01_A_05
+Monsieur le juge, eu sei do que estou falando. Tudo bate: o maxilar, a distância entre os olhos... Aquele canalha provavelmente estuprou a Laura, matou-a e depois arrancou sua cabeça!
+$GEN_029_WIT_01_A_06
+Malle lhe disse onde encontrou o crânio?
+$GEN_029_WIT_01_A_07
+Sim, mas ele mentiu. Ele disse que teria desenterrado isso na parte antiga do cemitério.
+$GEN_029_WIT_01_A_08
+Quando você percebeu de quem era o crânio que estava em sua posse?
+$GEN_029_WIT_01_A_09
+Bem... Só quando comecei a esboçá-lo percebi a semelhança.
+$GEN_029_WIT_01_B_QTitle
+Como você descreveria a relação entre o réu e a vítima?
+$GEN_029_WIT_01_B_00
+Como você descreveria a relação entre o réu e a vítima?
+$GEN_029_WIT_01_B_01
+Aquele canalha a importunava sempre que ela ia ao cemitério!
+$GEN_029_WIT_01_B_02
+Você viu isso com seus próprios olhos?
+$GEN_029_WIT_01_B_03
+Não, mas... a Laura me contou, e isso basta para provar o motivo dele. Ele merece a guilhotina!
+$GEN_029_WIT_01_B_04
+O que exatamente ela lhe disse?
+$GEN_029_WIT_01_B_05
+Que ele gritava com ela, fazia gestos obscenos e constantemente bloqueava seu caminho, obrigando-a a se esquivar entre os túmulos para evitá-lo.
+$GEN_029_WIT_01_B_06
+Então você nem sempre a acompanhava ao cemitério?
+$GEN_029_WIT_01_B_07
+Acompanhei-a apenas uma vez, pois ela preferia vir sozinha.
+$GEN_029_KEY_01
+Pervertido notório
+$GEN_029_KEY_02
+Condenado por assédio sexual
+$GEN_029_KEY_03
+Garota desaparecida
+$GEN_029_KEY_04
+Jules Marot
+$GEN_029_KEY_05
+Conhecendo o estudante
+$GEN_029_KEY_06
+Corpo no galpão
+$GEN_029_KEY_07
+Frequentadora assídua do cemitério
+$GEN_029_KEY_08
+Assediando a vítima
+$GEN_029_KEY_09
+Crânio de Laura
+$GEN_029_LastDialog_00
+Será que alguém vai querer comprar a minha cabeça…
+$GEN_029_UNIQUE_QUESTION_00
+Onde o corpo foi encontrado?
+$GEN_029_UNIQUE_ANSWER_CORRECT_00_00
+No galpão de madeira.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_00_00
+No porão.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Numa fornalha.
+$GEN_029_UNIQUE_QUESTION_01
+Como o estudante reconheceu o crânio de Laura Dufort?
+$GEN_029_UNIQUE_ANSWER_CORRECT_01_00
+Ela tinha um dente quebrado.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Pelo tamanho do crânio.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Pela forma do crânio.
+$GEN_029_UNIQUE_QUESTION_02
+Como o réu explicou o fato de estar profanando cadáveres?
+$GEN_029_UNIQUE_ANSWER_CORRECT_02_00
+O salário dele era baixo.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ele fazia isso em nome da ciência.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Ele sentiu um desejo doentio.

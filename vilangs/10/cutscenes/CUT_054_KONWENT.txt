@@ -1,0 +1,74 @@
+$CUT_054_JUDGE_001
+Vatandaşlar! Milletvekilleri!
+$CUT_054_JUDGE_002
+Robespierre’in tutuklanması için kim oy kullanıyor?!
+$DISC_INTR_005_B12_KONWENT_001_JUDGE_AGGR
+Robespierre artık gerçekle bağını yitirdi. Onurlu bir adam olsaydı, kendiliğinden yetkililere teslim olurdu. Ama o, kudurmuş bir köpek gibi, kendini savunmak için her şeyi göze alıyor ve acı çekmesine sebep olduğu insanların sayısına aldırmıyor!
+$DISC_INTR_005_B12_KONWENT_002_JUDGE_MANI
+Daha kaç kişi acı çekmek zorunda kalacak, bu canavarı durdurana dek? Onun için önemli olan tek şey güç!
+$DISC_INTR_005_B12_KONWENT_003_JUDGE_JOKE
+Belki de fazla endişeleniyorum. Evet, bu mümkün. Ama bana göre Robespierre artık kendini kaybetti. Onu sakinleştirmemiz gerek!
+$DISC_INTR_005_B12_KONWENT_004_JUDGE_HUMI
+Eğer Konvansiyon yakında olup biteni fark etmezse, insanlar ölecek. Korumaya yemin ettiğimiz Fransızlar. Yeniden doğan ülkemiz cesetlerle dolacak.
+$DISC_INTR_005_B12_KONWENT_005_KONWENT_INTR
+Yani şimdi yeni hedefiniz Robespierre mi?
+$DISC_INTR_005_B12_KONWENT_006_KONWENT_DOUB
+Kim anlayabilir ki sizin tartışmalarınızı? Herhalde bir bilge!
+$DISC_INTR_005_B12_KONWENT_007_KONWENT_IRRI
+Siz ikiniz de kudurmuş köpekler gibisiniz. Bir kıvılcım yeter, hemen havlamaya ve hırlamaya başlarsınız.
+$DISC_INTR_005_B12_KONWENT_008_JUDGE_AGGR
+Robespierre’in size ulaşmasını ne kadar beklemeye razısınız?! Danton ve Hébert’e bile acımadı, ona karşı çıktıkları için onları da ezdi!
+$DISC_INTR_005_B12_KONWENT_009_JUDGE_MANI
+Robespierre bir keresinde bana “terör, adaletin ta kendisidir; hızlı, sert, tavizsiz” demişti. Anlıyor musun?! Onun düşüncesi bu. Fransa’yı kana bulamaktan başka bir yol görmüyor!
+$DISC_INTR_005_B12_KONWENT_010_JUDGE_JOKE
+Başlangıçta Danton ve Hébert de tehdidi tıpkı sizin gibi görmezden geldiler. Sonra birdenbire suçlarına dair kanıtlar ortaya çıktı. Elbette, Robespierre tarafından uydurulmuş kanıtlar! Tabii, siz de sıranızı bekleyin!
+$DISC_INTR_005_B12_KONWENT_011_JUDGE_HUMI
+Ulusal Konvansiyonu kaybedemeyiz. Ama Robespierre Paris’i terörize etmeye devam ederse tam da bu olacak! Er ya da geç ona karşı çıkacaksınız ve Danton ile Hébert’in akıbetini paylaşacaksınız!
+$DISC_INTR_005_B12_KONWENT_012_KONWENT_INTR
+Maximilien biraz aşırıya kaçmış olabilir, ama onun için giyotinden daha uygun bir ceza mutlaka vardır!
+$DISC_INTR_005_B12_KONWENT_013_KONWENT_DOUB
+Hepimiz hata yaparız. Robespierre de farklı değil. Onu hâlâ geri kazanabiliriz!
+$DISC_INTR_005_B12_KONWENT_014_KONWENT_IRRI
+Yalnızca monarklar, en ufak bir hatada insanları giyotine gönderirdi! Devrim, en değerli Yurttaşlara ikinci bir şans tanımalı. Robespierre de kesinlikle onlardan biri!
+$DISC_INTR_005_B12_KONWENT_015_JUDGE_AGGR
+Kimi bağışlamak istiyorsunuz? Bir vatan hainini mi? Robespierre, uzun zamandır peşinde olduğum kralcı komplonun lideri Clément Renard ile anlaşma yaptı! Fransa’da monarşiyi yeniden kurmak istiyorlar. Hâlâ onu kurtarmak mı istiyorsunuz, ahmaklar?
+$DISC_INTR_005_B12_KONWENT_016_JUDGE_MANI
+Uzun zamandır Clément Renard önderliğindeki aristokratlar arasında bir komployu izliyorum. Hainler Fransa’da monarşiyi yeniden kurmak istiyor. Üstelik Robespierre de onlara yardım ediyor. Bu yüzden, sevgili meslektaşlarım, ona neden ikinci bir şans vermek istediğinizi gerçekten anlayamıyorum!
+$DISC_INTR_005_B12_KONWENT_017_JUDGE_JOKE
+Elbette, ona bir şans daha verelim – ikinciyi, üçüncüyü, onuncuyu bile! O sırada o ve Clément Renard aristokrat planlarını sürdürecekler! Evet, doğru! Onu bir süredir izliyorum. Tek istediği, monarşiyi yeniden kurmak! Burada kim, bu gerçekleştiğinde size bir şans daha vereceğine inanıyor?!
+$DISC_INTR_005_B12_KONWENT_018_JUDGE_HUMI
+Fransa, Devrim’in bedelini yurttaşlarının kanıyla ödedi. Şimdi Clément Renard, monarşiyi yeniden kurmak isteyen aristokratların başını çekiyor. Ve Robespierre ona yardım ediyor! Değerli vekillerim, eğer bu hain affedilirse, Fransa yeniden kana boğulacak.
+$DISC_INTR_005_B12_KONWENT_019_JUDGE_AGGR
+Biz burada şarap ve bisküvi eşliğinde boş boş sohbet ederken, Hanriot Komün’den belediye binasını ve Robespierre’i savunmaya hazır adamlar topluyor! Belki biz de burada zar atarak oyalanalım, ne dersiniz?!
+$DISC_INTR_005_B12_KONWENT_020_JUDGE_MANI
+Hanriot, Robespierre adına Paris’i ele geçirecek bir ordu kuruyor. Ona kimse karşı koyamayacak. Biri hakkında eleştirel bir virgül bile yazsa, o kişi ölür. Tek yapması gereken, güce uzanmak.
+$DISC_INTR_005_B12_KONWENT_021_JUDGE_JOKE
+Hanriot’nun, Robespierre’i savunacak bir orduya katılmaya istekli Komün üyeleri aradığını duydum. Kabul etmeliyim ki, hevesleri ve küstahlıkları eksik değil.
+$DISC_INTR_005_B12_KONWENT_022_JUDGE_HUMI
+Hanriot’nun güzel sözlerine kanan zavallı insanlara acıyorum. Komutan, Konvansiyona yürüyecek bir ordu kuruyor. O talihsiz ruhlar, onun suçları uğruna ölecekler.
+$DISC_INTR_005_B12_KONWENT_023_JUDGE_AGGR
+Ancak bir ahmak, ordunun saldırıya Konvansiyon’dan başlayacağını bilmez. Mevzilerini korumak için her şeyi yapacaklar!
+$DISC_INTR_005_B12_KONWENT_024_JUDGE_MANI
+Konvansiyon milletvekilleri, giyotin bıçağı üzerlerine indiğinde uyanacaklar. Ancak o zaman, zaten apaçık olması gereken gerçeği fark edecekler – Hanriot ve Robespierre, yeterince insan topladıklarında onlara saldıracaklar.
+$DISC_INTR_005_B12_KONWENT_025_JUDGE_JOKE
+Belki de Robespierre’in Konvansiyonu ele geçirmesine izin vermeliyiz? Mademki milletvekilleri durumu kavrayamıyor, belki de giyotine giden diğer ahmaklarla aynı sonu paylaşmalılar?
+$DISC_INTR_005_B12_KONWENT_026_JUDGE_HUMI
+Robespierre onları boyunduruğu altına alacak. Onları, her şeyi bildiğini sanan öfkeli aptalların, kılıç ve tüfek taşıyanların eliyle köşeye sıkıştıracak. Fransa ve Devrim, Konvansiyon’un vekilleriyle birlikte yok olacak.
+$DISC_INTR_005_B12_KONWENT_027_KONWENT_INTR
+Yargıç haklı!
+$DISC_INTR_005_B12_KONWENT_028_KONWENT_DOUB
+Robespierre alçak olabilir, ama bu onu ölüme mahkûm etmek için yeterli değil!
+$DISC_INTR_005_B12_KONWENT_029_KONWENT_IRRI
+Lütfen anlaşmazlıklarınızı çözün. Devrimi atlatmaya niyetliyiz!
+$DISC_INTR_005_B12_KONWENT_030_SUCCESS_JUDGE
+Robespierre’in tutuklanması için kim oy kullanıyor?!
+$DISC_INTR_005_B12_KONWENT_TOPIC_01
+Robespierre kudurmuş bir köpek.
+$DISC_INTR_005_B12_KONWENT_TOPIC_02
+Korkunun etkisiyle kendini kaybetti.
+$DISC_INTR_005_B12_KONWENT_TOPIC_03
+Robespierre, aristokratlarla bir komploya katıldı.
+$DISC_INTR_005_B12_KONWENT_TOPIC_04
+Hanriot onun için bir ordu topluyor.
+$DISC_INTR_005_B12_KONWENT_TOPIC_05
+Konvansiyon kendi iyiliği için izin vermeli.

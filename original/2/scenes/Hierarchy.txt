@@ -1,0 +1,154 @@
+$HIERARCHY_CONFLICT_MAINHEADER
+Conflits
+#HIERARCHY_CONFLICT_STATE_NEW
+Nouveau conflit
+#HIERARCHY_CONFLICT_STATE_PENDING
+En cours
+#HIERARCHY_CONFLICT_STATE_BETREYAL
+Trahison
+#HIERARCHY_CONFLICT_STATE_LOCKED
+Bloqué
+#HIERARCHY_CONFLICT_STATE_RESOLVED
+Terminé
+$HIERARCHY_SELECTACTION
+Actes exceptionnels
+$HIERARCHY_CHANCE_TOOLTIP
+Chances de gagner le conflit
+$HIERARCHY_CONFLICT_DAYS
+Jour {0} sur {1}
+$HIERARCHY_CONFLICT_DAYS_END
+Terminé
+$HIERARCHY_CONFLICT_PENALTIES
+Pénalité en cas de défaite
+$HIERARCHY_CONFLICT_REWARDS
+Récompenses
+$HIERARCHY_ACCEPT_CONFLICT_SIDE
+Confirmer le choix
+$HIERARCHY_CONFLICT_NOT_ENOUGHT
+Vous n'avez pas assez de Points d'influence pour prendre part au conflit.
+$HIERARCHY_CONFLICT_SIDE_TITLE
+Prendre partie pour un camp du conflit.
+#HIERARCHY_CONFLICT_WEAKNESS_00
+Opinions controversées
+#HIERARCHY_CONFLICT_WEAKNESS_01
+Manque d'appui politique
+#HIERARCHY_CONFLICT_WEAKNESS_02
+Mauvaises relations familiales
+#HIERARCHY_CONFLICT_WEAKNESS_03
+Monarchiste
+#HIERARCHY_CONFLICT_WEAKNESS_04
+Avancement douteux
+#HIERARCHY_CONFLICT_ACTION_NAME_DIP
+Avec diplomatie
+#HIERARCHY_CONFLICT_ACTION_NAME_SPY
+En secret
+#HIERARCHY_CONFLICT_ACTION_NAME_STR
+Avec force
+$HIERARCHY_CONFLICT_ACTION_DIP_01
+Critiquer les membres du salon politique.
+$HIERARCHY_CONFLICT_ACTION_DIP_02
+Critiquer les vues qu'on peut entendre au Café Procope.
+$HIERARCHY_CONFLICT_ACTION_DIP_03
+Faire un discours critique lors de la session de la Convention.
+$HIERARCHY_CONFLICT_ACTION_SPY_01
+Faire discrètement peindre des images offensantes sur des bâtiments.
+$HIERARCHY_CONFLICT_ACTION_SPY_02
+Faire discrètement placarder des affiches offensantes.
+$HIERARCHY_CONFLICT_ACTION_SPY_03
+Lancer une rumeur au marché.
+$HIERARCHY_CONFLICT_ACTION_STR_01
+Intimider les associés de votre ennemi.
+$HIERARCHY_CONFLICT_ACTION_STR_02
+Saboter une source de revenus.
+$HIERARCHY_CONFLICT_ACTION_STR_03
+Envoyer la Garde révolutionnaire.
+$HIERARCHY_WEAKNESS_TITLE
+Faiblesse : {0}
+$HIERARCHY_WEAKNESS_UNKNOWN
+<color="#ff0000">Inconnu</color>
+$HIERARCHY_DEATH_01
+Guillotiné
+$HIERARCHY_DEATH_02
+Poignardé
+$HIERARCHY_DEATH_03
+Abattu
+$HIERARCHY_DEATH_04
+Tombé au combat
+$HIERARCHY_DEATH_05
+Suicidé
+$HIERARCHY_DEATH_06
+Succombé aux émeutes
+$HIERARCHY_DEATH_07
+Tué par votre frère
+$HIERARCHY_DEATH_08
+Emprisonné
+$HIERARCHY_DEATH_09
+A fui Paris
+$HIERARCHY_POPUP_HEADER
+Vous avez vaincu {0}
+$HIERARCHY_POPUP_MAIN
+Vous avez réussi à vaincre politiquement {0}. Vous grimpez à présent dans la Hiérarchie.
+$HIERARCHY_CONFLICT_PAX_TITLE
+Robespierre contre Roland
+$HIERARCHY_CONFLICT_PAX_DESCRIPTION
+Robespierre ne déteste pas les Girondins. Il trouve simplement qu'ils n'ont plus d'utilité et qu'ils devraient être rapidement éliminés de l'arène politique… Dans l'intérêt des Jacobins et de la France. Cependant, Roland est un ministre en poste et le garant de l'équilibre au gouvernement.
+$HIERARCHY_CONFLICT_001_TITLE
+Burel contre Robespierre
+$HIERARCHY_CONFLICT_001_DESCRIPTION
+Robespierre veut que le poste de Commandant en chef revienne à un de ses larbins. On ne sait pas qui, mais si Burel est limogé, il est certain que son remplaçant sera la marionnette de l'Incorruptible.
+$HIERARCHY_CONFLICT_002_TITLE
+Elliott contre Hébert
+$HIERARCHY_CONFLICT_002_DESCRIPTION
+En raison de ses racines écossaises, Grace Elliott est détestée par de nombreux patriotes parisiens, parmi lesquels Hébert et ses « Enragés ». Ils continueront à la harceler jusqu'à ce qu'ils trouvent des preuves de son espionnage.
+$HIERARCHY_CONFLICT_003_TITLE
+Danton contre Roland
+$HIERARCHY_CONFLICT_003_DESCRIPTION
+Danton adore que la foule crie son nom avec passion. Il apprécie secrètement Roland et admire sa capacité à oublier les règles pour faire avancer la cause. En public, cependant, il a pris une position plus sûre et exige la démission de Roland. Celui-ci n'abandonnera pas si facilement, car il possède encore le soutien des Girondins, qui n'ont pas encore tout à fait perdu la bataille contre les Jacobins.
+$HIERARCHY_CONFLICT_004_TITLE
+Hébert contre Roland
+$HIERARCHY_CONFLICT_004_DESCRIPTION
+Hébert flaire une proie blessée mieux qu'un chien de chasse. Roland est en train de couler, et l'appui des Girondins ne tient plus qu'à un fil aussi fin que la lame d'une guillotine. Pour Hébert, c'est l'instant parfait pour frapper. Il a construit sa carrière politique sur la chute des puissants corrompus. Les sans-culottes adorent ça, et ce sont ses électeurs.
+$HIERARCHY_CONFLICT_005_TITLE
+Elliott contre Marat
+$HIERARCHY_CONFLICT_005_DESCRIPTION
+Au cours de sa carrière de courtisane, Elliott a souvent été insultée par des gens étroits d'esprit. Cependant, personne n'avait jamais osé le faire publiquement avant Marat. Il est peu probable que Jean-Paul l'ait fait de sa propre initiative. On lui a sans doute demandé d'écrire cet article brutal. Cela ne fait aucune différence pour Grace Elliott, cependant, car elle a été humiliée devant tout Paris et ne lui pardonnera jamais. En lisant le texte, cependant, on est bien en peine d'y trouver de véritables mensonges…
+$HIERARCHY_CONFLICT_006_TITLE
+Danton contre David
+$HIERARCHY_CONFLICT_006_DESCRIPTION
+Danton a soudain exigé que l'on rouvre l'Académie française. C'est sans doute afin d'obtenir le soutien des classes supérieures, qui approuvent cette idée. Votre ami Jacques-Louis David s'y opposera pour des raisons évidentes : c'est lui qui a fait fermer cette institution. Ne laissez personne remettre en cause sa décision, mais n'oubliez pas qu'il n'est pas aussi influent que Danton.
+$HIERARCHY_CONFLICT_007_TITLE
+Hébert contre Renard
+$HIERARCHY_CONFLICT_007_DESCRIPTION
+Les hommes d'Hébert répandent dans tout Paris l'histoire d'un complot de l'aristocratie qui aurait été découvert par leur chef. Celui-ci aurait visé à rétablir la monarchie. Hébert lui-même déclare que c'est ce bon vieux Renard qui en serait responsable. Impossible de savoir s'il y a une once de vérité là-dedans, ou si c'est la paranoïa habituelle des sans-culottes. Renard est un ennemi puissant. Il sait se faire discret, mais peut frapper si on le titille, exactement comme un serpent.
+$HIERARCHY_CONFLICT_008_TITLE
+Marat contre Gobel
+$HIERARCHY_CONFLICT_008_DESCRIPTION
+Les troubles en Vendée ne sont pas arrivés par hasard. Une nouvelle chasse aux sorcières est en cours. Marat affirme que Gobel et le clergé préparent un coup d'État visant à diviser le pays. Gobel est puissant et survivra sans doute si personne ne soutient Marat dans sa croisade.
+$HIERARCHY_CONFLICT_009_TITLE
+Hanriot contre David
+$HIERARCHY_CONFLICT_009_DESCRIPTION
+Il est difficile de connaître les raisons qui ont poussé Hanriot à agresser David. Aucun des deux ne souhaite en parler, bien que l'on aurait entendu le dernier dire : « Si ce n'est pas pour de l'argent, pourquoi alors ? ». Je parierais qu'une femme se cache derrière tout cela, car à l'heure actuelle, ce ne peut pas être une question d'honneur. Deux de vos sympathisants s'affrontent. Vous devez choisir votre camp.
+$HIERARCHY_CONFLICT_010_TITLE
+Robespierre contre Gobel
+$HIERARCHY_CONFLICT_010_DESCRIPTION
+Deux géants s'affrontent pour le titre d'homme le plus puissant de Paris. La chance ne sourit plus à l'archevêque et Robespierre compte bien en profiter. Il tolérera des opinions anticléricales, il pourrait même jeter de l'huile sur le feu. Lorsque Gobel sera déchu, l'Incorruptible essaiera de rétablir l'équilibre. Un équilibre qu'il contrôlera entièrement.
+$HIERARCHY_CONFLICT_011_TITLE
+De Staël contre Marat
+$HIERARCHY_CONFLICT_011_DESCRIPTION
+Les femmes modernes n'oublient pas aisément les affronts des hommes. De Staël n'a certainement pas oublié la façon dont Marat s'est adressé à Grace Elliott. Le moulin à paroles doit maintenant faire face à une femme qui connaît aussi bien que lui la haute société de Paris. Germaine le critiquera probablement lors du salon politique et exigera sa destitution et son inculpation. Jean-Paul peut compter sur le soutien d'hommes qui ne supportent pas l'idée qu'une femme puisse gagner.
+$HIERARCHY_CONFLICT_012_TITLE
+Hanriot contre Hébert
+$HIERARCHY_CONFLICT_012_DESCRIPTION
+Hanriot est encore une fois à l'origine d'une querelle politique. Officiellement, il accuse Hébert et les siens de rendre justice dans la rue tout en contournant sa Garde. Mais les sans-culottes ont toujours agi ainsi, alors pourquoi se manifeste-t-il maintenant ? Hébert doit avoir fait quelque chose d'autre qui lui a déplu. On ne peut pas toujours tout savoir, mais on ne peut pas rester les bras croisés.
+$HIERARCHY_CONFLICT_013_TITLE
+Hanriot contre Danton
+$HIERARCHY_CONFLICT_013_DESCRIPTION
+Des rumeurs circulent dans les rues de Paris selon lesquelles Hanriot aspirerait à un poste au sein du ministère de l'Intérieur. Néanmoins, Danton, qui ne veut pas voir ce fainéant entrer au ministère, a empêché ce changement de carrière. Par conséquent, Hanriot a commencé à regrouper des informations de manière méthodique afin de faciliter l'éviction de Danton. Il semblerait que son travail d'investigation soit terminé, et s'il a de quoi faire chanter Danton, il pourrait bien s'en servir...
+$HIERARCHY_CONFLICT_014_TITLE
+De Staël contre Robespierre
+$HIERARCHY_CONFLICT_014_DESCRIPTION
+De Staël doit penser qu'elle est très influente pour s'en prendre à Robespierre. Lors d'un salon politique, Germaine a prononcé un discours dans lequel elle a critiqué l'idée d'une société dirigée par des hommes assoiffés de sang et exigé l'égalité révolutionnaire pour les femmes. C'était un acte courageux, mais la plupart lui ont ri au nez. Bien entendu, De Staël tente de prouver que les femmes sont assez puissantes pour renverser n'importe qui. Elle a donc pris l'Incorruptible pour cible.
+$HIERARCHY_CONFLICT_015_TITLE
+Marat contre Renard
+$HIERARCHY_CONFLICT_015_DESCRIPTION
+Tout comme Hébert avant lui, Marat prétend que Renard est à la tête d'une conspiration aristocrate visant à restaurer l'ancien ordre. Toutefois, personne n'est disposé à écouter des théories du complot alors que la capitale sombre dans les affres du chaos et de la peur. Compte tenu de la situation, le retour au pouvoir des aristocrates pourrait même rétablir un certain équilibre...

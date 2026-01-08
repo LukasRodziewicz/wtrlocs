@@ -1,0 +1,200 @@
+$GDTIE
+Impasse !
+$GDWIN
+Vous avez gagné !
+$GDLOSE
+Vous avez perdu !
+$GDEFFECTS
+Effets :
+$GDFAVOUR_ALREADY
+Tinville vous devait déjà une faveur.
+$GDFAVOUR_LOSE
+Vous n'avez pas pu gagner une faveur auprès de Tinville.
+$GDFAVOUR_WON
+Faveur débloquée !
+$GDRESULT
+Résultat :
+$GDBET
+Enchère :
+$GDSCORING
+Règles relatives au score
+$GDSCOREBOARD_INFO
+Lors d'un jet de dés, vous recevez des points en obtenant le même numéro sur deux dés ou plus. Le multiplicateur de score est égal au nombre total obtenu. Par exemple : vous gagnerez 120 points avec deux dés de 6 et 20 points avec deux dés de 1.
+$GDSCOREBOARD_SPECIALSCORE
+Score spécial :
+$GDSELECTION_TITLE
+Titre
+$GDSELECTION_DESCRIPTION
+Description
+$GDACCEPT_OPPONENT_TOOLTIP
+Jouer
+$GDROLL_TOOLTIP
+Lancer les dés
+$GDREROLL_TOOLTIP
+Relancer
+$GDREROLL_ACCEPT_TOOLTIP
+Accepter
+$GDREROLL_BACK_TOOLTIP
+Retour
+$REROLL_CHOOSE_DICES
+Choisissez le dé que vous souhaitez relancer.
+$GDPASS_TOOLTIP
+Au tour de l'adversaire
+$GDPLAYAGAIN_TOOLTIP
+Rejouer
+$GDEXIT_TOOLTIP
+Quitter
+$GDROLL_PLAYERTURN
+Lancer
+$GDROLL_OPPONENTTURN
+Au tour de l'adversaire
+$GDREROLL
+Relancer
+$GDBUYROUND
+Acheter un tour ({0} PI)
+$GDBUYROUND_LOCKED
+Vous n'avez pas de quoi payer une tournée ({0} PI)
+$GDBUYROUND_USED
+Vous avez déjà acheté un tour
+$GD_ONESHOT_INFO
+OneShot Info
+$GD_ONESHOT_COMMENT
+OneShot Comment
+$GDJUDGE_SHORTNAME
+Juge
+$GDOPPONENT_003_SHORTNAME
+Tinville
+$GDOPPONENT_004_SHORTNAME
+Pache
+$GDOPPONENT_005_SHORTNAME
+Renard
+$GDOPPONENT_010_SHORTNAME
+Bruno
+$GDJUDGE_SHORTNAME_NAME
+Alexis
+#CUT_023_RESULT
+Enjeu : renseignement sur le traître
+#CUT_030_RESULT
+Enjeu : main du fils
+#CUT_035_RESULT
+Enjeu : vie
+$GD003_COMMENT_WELCOMEFIRST_01
+On m'a dit que je te trouverais ici. Il est bon de savoir que les juges du tribunal partagent les faiblesses du peuple.
+$GD003_COMMENT_WELCOMEJUDGEWON_01
+Je mérite bien une revanche, non ?
+$GD003_COMMENT_WELCOMEJUDGEWON_02
+Cette fois-ci, ce ne sera pas aussi facile.
+$GD003_COMMENT_WELCOMEJUDGEWON_03
+Tu viens un peu trop souvent à mon goût pour un homme de famille.
+$GD003_COMMENT_WELCOMEJUDGELOST_01
+Je respecte ta détermination…
+$GD003_COMMENT_WELCOMEJUDGELOST_02
+Nous sommes des saints la journée et des escrocs la nuit.
+$GD003_COMMENT_WELCOMEJUDGELOST_03
+Mon père a dit un jour que les personnes comme nous ne devraient avoir aucun défaut. Et bien je ne suis pas d'accord.
+$GD003_COMMENT_ROLLJUDGEWON_01
+Une hirondelle…
+$GD003_COMMENT_ROLLJUDGEWON_02
+Cette fois-ci…
+$GD003_COMMENT_ROLLJUDGEWON_03
+Cela ne veut rien dire.
+$GD003_COMMENT_ROLLJUDGELOST_01
+Rien n'est éternel, sauf le chaos.
+$GD003_COMMENT_ROLLJUDGELOST_02
+Tout est parfait.
+$GD003_COMMENT_ROLLJUDGELOST_03
+Juste un peu plus.
+$GD003_COMMENT_GAMEJUDGEWON_01
+Thémis ne m'a pas guidé aujourd'hui.
+$GD003_COMMENT_GAMEJUDGEWON_02
+On est tous perdants à la fin.
+$GD003_COMMENT_GAMEJUDGEWON_03
+Demain, je prendrai ma revanche au tribunal…
+$GD003_COMMENT_GAMEJUDGELOST_01
+Peut-être la prochaine fois… Si tu es assez entêté pour revenir.
+$GD003_COMMENT_GAMEJUDGELOST_02
+Tu n'as perdu que ta fierté, ce n'est rien.
+$GD003_COMMENT_GAMEJUDGELOST_03
+Nous devrions peut-être parier nos âmes la prochaine fois ? Penses-tu qu'on en a toujours une ?
+$GD003_COMMENT_DRINK_01
+Ressens-tu de la solitude à cause de tes addictions ?
+$GD003_COMMENT_DRINK_02
+Je vois que tu sais comment obtenir le soutien de la foule.
+$GD003_COMMENT_DRINK_03
+Ne t'endettes pas. Les gens adorent boire sur le compte de quelqu'un d'autre.
+$GD003_COMMENT_DRINKBET_01
+Tant pis, j'ai une paie qui tombe le mois prochain !
+$GD003_COMMENT_DRINKBET_02
+Le juge voudra bien jouer, n'est-ce pas ?
+$GD003_COMMENT_DRINKBET_03
+Toujours plus dans ma poche !
+$GD003_COMMENT_REROLL_01
+Peur de perdre ?
+$GD003_COMMENT_REROLL_02
+Tu payerais combien pour gagner ?
+$GD003_COMMENT_REROLL_03
+Si tu penses que cela changera quelque chose...
+$GD003_COMMENT_CANTREROLL_01
+Si seulement je pouvais relancer les dés.
+$GD004_MER_VER_HAN_DIAL_MER_01
+Même si j'apprécie l'atmosphère luxueuse de ces endroits, je reste attaché à l'ascétisme de l'armée.
+$GD004_MER_VER_HAN_DIAL_JUDGE_02
+Le penchant du propriétaire précédent pour le luxe le mena à sa chute.
+$GD004_MER_VER_HAN_DIAL_MER_03
+Je vois. Et si nous jouions ?
+$GD004_MER_VER_DAVID_DIAL_MER_01
+L'élégance règne dans ces lieux. Mes félicitations.
+$GD004_MER_VER_DAVID_DIAL_JUDGE_02
+Merci. J'ai confié la décoration aux bons soins de Jacques-Louis David. C'est un artiste.
+$GD004_MER_VER_DAVID_DIAL_MER_03
+Oui, j'ai entendu dire que vous étiez amis et alliés en politique. Allez, jouons.
+$GD004_MER_COMMENT_GAMEJUDGEWON_01
+Je m'attendais à ce que tu me laisses gagner pour m'amadouer. Je suis parfois ravi de me fourvoyer.
+$GD004_MER_COMMENT_GAMEJUDGELOST_01
+Je vois que tu es prêt à tout pour gagner ma confiance. Y compris perdre à dessein.
+$GD004_MER_COMMENT_ROLLJUDGEWON_01
+Ces dés sont pipés !
+$GD004_MER_COMMENT_ROLLJUDGEWON_02
+Bon sang, ces filles m'ont jeté une malédiction !
+$GD004_MER_COMMENT_ROLLJUDGELOST_01
+Un peu de chance ne fait pas de mal.
+$GD004_MER_COMMENT_ROLLJUDGELOST_02
+Allez, mes chers dés, refaites-moi la même.
+$GD004_MER_COMMENT_REROLL_01
+Penses-tu vraiment que ta malchance te quittera ainsi ?
+$GD004_MER_COMMENT_DRINK_01
+Je boirais volontiers.
+$GD004_MER_COMMENT_DRINK_02
+Le juge voudra bien jouer, n'est-ce pas ?
+$GD005_RENARD_COMMENT_ROUND_01
+Notre ami masqué était furieux. Il est venu nous proposer un marché avantageux en échange de notre aide. Nous avons accepté.
+$GD005_RENARD_COMMENT_ROUND_02
+Un homme blessé et dangereux. Le rejeter serait malavisé.
+$GD005_RENARD_COMMENT_ROUND_03
+Il a demandé à une de nos connaissances, quelqu'un avec qui nous avons collaboré, de l'aider à tuer ton enfant. Quel idiot.
+$GD005_RENARD_COMMENT_ROUND_04
+Nous t'apporterons sa tête sur un plateau, en gage de notre bonne volonté. Cela te prouvera qu'il est sage d'être notre ami.
+$GD005_RENARD_COMMENT_ROUND_05
+Les aristocrates retourneront en ville d'un jour à l'autre, et tous ceux qui ne se sont pas rangés à nous seront balayés.
+$GD005_RENARD_COMMENT_GAMEJUDGEWON_01
+Tu as gagné. Nous tiendrons promesse : tu auras la tête de ce traître… Mais je ne te garantis pas la liesse générale à Paris.
+$GD005_RENARD_COMMENT_GAMEJUDGELOST_01
+Tout joueur apprend tôt ou tard qu'il ne contrôle rien. Il observe passivement le temps qui le pousse vers l'échec. Nous avions un marché : tu as perdu et nous ne te révélerons donc rien. Quand à Paris… Elle aura ce qu'elle mérite.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_01
+Qu'il se taise. Ce n'est pas encore fini.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_02
+Nous en avons terminé.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_01
+Il m'est arrivé aussi de gagner la première manche.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_02
+Quelle chance insolente.
+$GD011_BRUNO_COMMENT_ROUND_01
+Tu as tué tous ceux assez braves pour s'opposer à moi. Merci.
+$GD011_BRUNO_COMMENT_ROUND_03
+Le sang est sur tes mains, pas les miennes. J'ai gagné encore une fois.
+$GD011_BRUNO_COMMENT_ROUND_06
+Tu crois savoir ce qu'est la souffrance ? Attends un peu, je vais te montrer.
+$GD011_BRUNO_COMMENT_ROUND_08
+Ta chute arrive et notre père en aura le cœur brisé. Ce n'est qu'alors que ma vengeance sera complète !
+$GD011_Dices_Last_Dialog
+Nous avons réglé nos premiers comptes, mais ne crois pas qu'il s'agit de tout ce que je t'ai réservé. Loin de là.

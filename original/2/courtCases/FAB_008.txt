@@ -1,0 +1,308 @@
+$FAB_008_DOC_1_HEADER
+Compilé par : Fabrice Poli
+$FAB_008_DOC_1_00
+L'accusée est Jeanne Marie Roland, l'épouse d'un ministre sympathisant du défunt Louis Capet. Elle est accusée de l'avoir poussé à la trahison et d'avoir corrompu des députés de la Convention. Elle les aurait soudoyés contre les services de prostituées qui travaillaient pour elle sous couvert de tenir un salon politique.
+$FAB_008_DOC_1_01
+Au départ, nous savions peu de choses sur les activités de l'accusée. En tant que femme, elle <a name="2" class="hidden">ne participait pas</a> à la vie politique qui nous est réservée à nous les hommes. Au lieu de cela, elle était censée <a name="3" class="hidden">tenir un salon politique</a> où les personnages importants de Paris pouvaient se rencontrer et discuter des questions sociales et politiques actuelles. De telles rencontres ont bel et bien eu lieu, mais, comme nous l'avons découvert via nos informateurs, les circonstances en étaient bien plus discutables. Les hommes étaient divertis par des femmes de petite vertu. De luxe ou pas, Madame Roland tenait en substance une <a name="4" class="hidden">maison close</a>.
+$FAB_008_DOC_1_02
+En récoltant des informations, les rumeurs impliquant l'accusée dans la carrière politique de son mari se firent de plus en plus crédibles. Nous savons que cette femme ingénieuse a pu agir en coulisses afin d'obtenir le soutien des opposants politiques du ministre. Ceux qui résistaient à son éloquence étaient tentés par les charmes de ses filles. En tenant son salon, elle pouvait aussi se familiariser avec les <a name="6" class="hidden">différentes vues</a> des députés les plus importants de la Convention. Ainsi, elle a réussi à diriger la carrière politique de son mari sans que celui-ci s'en rende compte.
+$FAB_008_DOC_1_03
+Les informations ci-dessus ont été confirmées par Isabelle Dugard, qui travaillait pour l'accusée sous le pseudonyme de <a name="7" class="hidden">« Giselle »</a>. Elle a déclaré que Madame Roland avait souvent accueilli <a name="8" class="hidden">trois hommes</a> et, même si elle ne connaît pas leur nom, les a appelés « de véritables rebuts de l'humanité ». Je pense que nous pouvons certainement faire le lien entre ces personnes et les trois assassins qui ont <a name="9" class="hidden">attaqué le juge Fidèle</a>. Il est terrible de penser au nombre de morts dont ils peuvent être responsables.
+$FAB_008_DOC_1_04
+D'après nos informations, nous pouvons déduire que la rumeur qui mettait Madame Roland à la tête du <a name="10" class="hidden">coup d'État</a> organisé par les girondins disait vrai. Elle avait une réelle influence sur la carrière de son mari, et il est hautement probablement qu'il ait pu atteindre un poste aussi élevé grâce à ses interventions. Elle collaborait avec des individus à la réputation trouble, et devait être une menteuse extraordinairement douée pour réussir à <a name="11" class="hidden">garder tout ceci secret</a> pendant aussi longtemps.
+$FAB_008_OnStart_00
+La parole est donnée à l'accusée pour se présenter.
+$FAB_008_OnStart_01
+Jeanne Marie Roland.
+$FAB_008_OnStart_02
+L'épouse du ministre Roland, un traître corrompu !
+$FAB_008_OnStart_03
+On m'a seulement demandé mon nom. Pas besoin d'en faire un tel cirque, Procureur.
+$FAB_008_OnStart_04
+Tu es accusée d'avoir incité à la trahison et organisé la corruption…
+$FAB_008_OnStart_05
+Et, bien évidemment, je démens ces accusations absurdes.
+$FAB_008_OnStart_06
+Bien sûr !
+$FAB_008_OnStart_07
+Depuis quand on prend la peine d'écouter les traîtres ?
+$FAB_008_OnGuilty_00
+Ta culpabilité est incontestable. Je te condamne à mort.
+$FAB_008_OnGuilty_01
+Je n'ai rien à ajouter !
+$FAB_008_OnGuilty_02
+On veut du sang !
+$FAB_008_OnGuilty_03
+Coupez-lui la tête !
+$FAB_008_OnGuilty_04
+Voici ce qu'il advient des traîtres !
+$FAB_008_OnPrison_00
+Ce que tu as fait est inexcusable. Tu passeras le reste de ta vie en prison.
+$FAB_008_OnPrison_01
+En raison de la gravité des accusations, je vous demande de reconsidérer cette décision.
+$FAB_008_OnPrison_02
+Ce n'est pas suffisant ! On veut sa tête !
+$FAB_008_OnNotGuilty_00
+Après avoir examiné toutes les preuves, je te déclare innocente, citoyenne.
+$FAB_008_OnNotGuilty_01
+Vraiment ? Et la corruption ? Et les prostituées ? Et le coup d'État ?
+$FAB_008_OnNotGuilty_02
+Trahison !
+$FAB_008_OnNotGuilty_03
+Les traîtres sont partout !
+$FAB_008_OnNotGuilty_04
+Le nouveau gouvernement est pire qu'un étron royal !
+$FAB_008_01x02_00_QTitle
+T'es-tu sentie exclue de la Révolution ?
+$FAB_008_01x02_00_00
+T'es-tu sentie exclue de la Révolution ?
+$FAB_008_01x02_00_01
+Je ne comprends pas bien la question.
+$FAB_008_01x02_00_02
+Laissez-moi lui expliquer, Monsieur le Juge. En tant que femme, as-tu éprouvé du ressentiment à l'égard de la Révolution, car les êtres de ton sexe ne peuvent jouer qu'un rôle infime en politique ?
+$FAB_008_01x02_00_03
+Quelle hypothèse absurde. Je partage parfaitement les vues du citoyen Danton, qui explique clairement le rôle des femmes dans la France d'aujourd'hui : elles doivent donner naissance à des enfants et les élever pour être les futurs gardiens de la République.
+$FAB_008_01x02_00_04
+Beau discours.
+$FAB_008_01x02_00_05
+Et est-ce que tu élèves un gardien de la République, citoyenne ?
+$FAB_008_01x02_00_06
+Une gardienne.
+$FAB_008_01x02_00_07
+Qui n'aura pas non plus son mot à dire à l'avenir.
+$FAB_008_01x02_00_08
+Espérons qu'elle trouvera un bon mari, comme je l'ai fait.
+$FAB_008_01x06_01_QTitle
+En raison de ton activité, tu avais connaissance des idées d'éminents politiciens.
+$FAB_008_01x06_01_00
+En raison de ton activité, tu avais connaissance des idées d'éminents politiciens.
+$FAB_008_01x06_01_01
+En effet. C'est bien naturel lorsque l'on organise des rencontres où ceux-ci viennent partager leurs opinions.
+$FAB_008_01x06_01_02
+Quelle proportion de ces connaissances as-tu obtenue en tenant une maison close ?
+$FAB_008_01x06_01_03
+Très peu. La plupart des gens préfèrent rester silencieux lors de ces… situations. Et s'ils parlent, ce n'est sûrement pas de politique.
+$FAB_008_01x06_01_04
+Grâce à ton indécent petit salon, tu as toutefois pu obtenir des informations qui seraient précieuses pour une puissance étrangère.
+$FAB_008_01x06_01_05
+Je ne sais pas. Peut-être, mais je ne les aurais jamais vendues.
+$FAB_008_01x06_01_06
+Honnêteté désintéressée ?
+$FAB_008_01x06_01_07
+Si j'avais vendu ce genre d'informations à qui que ce soit, Madame de Staël aurait immédiatement invité le mécontent à fréquenter son salon plutôt que le mien.
+$FAB_008_01x06_01_08
+Quelle sale égoïste.
+$FAB_008_01x06_01_09
+Tout le monde aime la France à sa façon. Je ne trahis pas mes amis, et c'est pour cela qu'ils me soutiennent absolument.
+$FAB_008_01x06_01_10
+Et vous serez bientôt réunis tous ensemble sur l'échafaud.
+$FAB_008_01x10_02_QTitle
+As-tu participé à l'organisation du coup d'État ?
+$FAB_008_01x10_02_00
+As-tu participé à l'organisation du coup d'État ?
+$FAB_008_01x10_02_01
+Monsieur le Juge, nous savons tous les deux très bien qu'il n'y avait aucun coup d'État de prévu. Cela a été entièrement inventé par Robespierre et la cour. Tu as regardé mon mari et décidé qu'il était un ennemi.
+$FAB_008_01x10_02_02
+Nos informateurs…
+$FAB_008_01x10_02_03
+Qui sont-ils ? Bien sûr, tu ne peux pas me donner leur nom, car ils ne sont rien de plus que des ragots et des inventions. Un jeu politique.
+$FAB_008_01x10_02_04
+C'est vrai, ça. Où sont les preuves ?
+$FAB_008_01x10_02_05
+Pas besoin de preuves pour les traîtres à la nation !
+$FAB_008_01x10_02_06
+Réponds à la question.
+$FAB_008_01x10_02_07
+Je n'ai pas participé à l'organisation de ce soi-disant coup d'État. Ni mon mari ni moi n'avons eu quoi que ce soit à voir avec ceci. Tu n'as aucune preuve, tu ne fais que supposer.
+$FAB_008_02x03_03_QTitle
+Pour quelles raisons as-tu monté un salon politique ?
+$FAB_008_02x03_03_00
+Pour quelles raisons as-tu monté un salon politique ?
+$FAB_008_02x03_03_01
+En raison de son poste, mon mari rencontre beaucoup de gens très intéressants. Je ne voulais pas rater l'occasion de pouvoir discuter avec les plus grands esprits de notre temps.
+$FAB_008_02x03_03_02
+Tu conviens donc que lors de ces conversations, des politiciens pourraient avoir changé d'avis d'une façon qui arrangeait ton mari ou toi-même ?
+$FAB_008_02x03_03_03
+Qui ne change pas d'avis en politique ? N'est-ce pas là l'essence même de la démocratie, permettre le libre échange des idées ?
+$FAB_008_02x03_03_04
+C'est vrai, mais il ne s'agit pas de manipuler les gens qui sont responsables du pays !
+$FAB_008_02x03_03_05
+Alors qu'est-ce que la politique ? Et quel est le véritable objectif de ce procès ?
+$FAB_008_04x03_04_QTitle
+As-tu corrompu les députés de la Convention et…
+$FAB_008_04x03_04_00
+As-tu corrompu les députés de la Convention et…
+$FAB_008_04x03_04_01
+Excuse-moi de t'interrompre, Monsieur le Juge, mais l'idée même d'influencer des politiciens d'une manière aussi méprisable me répugne ! Que d'innocentes jeunes filles soient utilisées par des monarchistes…
+$FAB_008_04x03_04_02
+J'aimerais signaler que les politiciens ont profité des services que ces jeunes filles fournissaient de leur propre chef. Ils venaient me voir pour parler de politique. Avec qui ils repartaient et pourquoi ne me regardait pas, excuse-moi de le dire.
+$FAB_008_04x03_04_03
+As-tu reçu quelque chose en récompense pour organiser ces rencontres ?
+$FAB_008_04x03_04_04
+Si j'ai reçu quelque chose, c'était uniquement leur compagnie répétée pour discuter de politique.
+$FAB_008_04x03_04_05
+En d'autres termes, on peut dire qu'ils étaient clients réguliers de ta maison close.
+$FAB_008_04x03_04_06
+Ce n'est pas une maison close ! C'est plus compliqué que cela. Je dirais plutôt qu'il s'agit d'un lieu d'échange pour pensées modernes.
+$FAB_008_04x03_04_07
+Un bordel moderne !
+$FAB_008_04x03_04_08
+Tu ne nies donc pas que, dans ton salon, les politiciens profitaient de certains... plaisirs ?
+$FAB_008_04x03_04_09
+Nous sommes un pays libre, et je suis quelqu'un de tolérant.
+$FAB_008_04x11_05_QTitle
+Tu as vraiment parfait l'art de la mascarade.
+$FAB_008_04x11_05_00
+Tu as vraiment parfait l'art de la mascarade. Un salon politique qui s'avère n'être rien de plus qu'un banal bordel.
+$FAB_008_04x11_05_01
+Quelle est la question ?
+$FAB_008_04x11_05_02
+Comment as-tu réussi à garder ceci secret aussi longtemps ?
+$FAB_008_04x11_05_03
+Je tenais un salon politique. Parfois, de jolies jeunes filles nous rejoignaient pour gagner leur pain. Elles approchaient les députés, mais ne les importunaient pas.
+$FAB_008_04x11_05_04
+Et cela ne te dérangeait pas ?
+$FAB_008_04x11_05_05
+Je les comprenais. Nous autres femmes devons nous serrer les coudes. Et je ne te laisserai pas appeler mon salon un bordel ! C'était aussi un endroit loin d'être banal. Les esprits les plus brillants s'y réunissaient pour...
+$FAB_008_04x11_05_06
+Épargne-nous ta réclame, citoyenne. Cet endroit sera rasé lorsque tu auras été guillotinée.
+$FAB_008_05x07_06_QTitle
+Faites entrer Isabelle Dugard.
+$FAB_008_05x07_06_00
+Faites entrer Isabelle Dugard.
+$FAB_008_05x07_06_02
+Je te prie de te présenter, citoyenne.
+$FAB_008_05x07_06_03
+Je m'appelle Giselle.
+$FAB_008_05x07_06_04
+Ton vrai nom, je te prie.
+$FAB_008_05x07_06_05
+Mais c'est mon vrai... Oh, d'accord, mon chou. Je m'appelle Isabelle Dugard.
+$FAB_008_05x07_06_06
+Tu dois m'appeler « Monsieur le Juge ».
+$FAB_008_05x07_06_07
+« D'accord, mon chou », ha ha ! Elle est bien bonne.
+$FAB_008_08x09_07_QTitle
+Sais-tu quelque chose sur la tentative d'assassinat dont j'ai été victime ?
+$FAB_008_08x09_07_00
+Sais-tu quelque chose sur la tentative d'assassinat dont j'ai été victime ?
+$FAB_008_08x09_07_01
+J'en ai entendu parler. Quelle horrible...
+$FAB_008_08x09_07_02
+J'ai été attaqué par trois coupe-jarrets, et une de tes filles a déclaré qu'elle voyait souvent trois hommes de douteuse réputation chez toi.
+$FAB_008_08x09_07_03
+Je suis sûre qu'il s'agit simplement d'une coïncidence et d'un malentendu...
+$FAB_008_08x09_07_04
+Et en tenant compte du fait que ton mari avait juré ma mort ?
+$FAB_008_08x09_07_05
+Les gens disent certaines choses quand ils sont contrariés ou troublés. Cela ne veut pas dire qu'ils passent à l'acte.
+$FAB_008_08x09_07_06
+Tout Paris est au courant que le ministre ne bouge pas un cil sans l'ordre de sa femme.
+$FAB_008_08x09_07_07
+Tu vas payer pour avoir osé toucher à un juge du Tribunal révolutionnaire.
+$FAB_008_08x09_07_08
+Vous avez entendu ? Je sens venir une exécution !
+$FAB_008_08x10_08_QTitle
+Est-ce que ces trois hommes, que le témoin a appelés « de véritables rebuts de l'humanité »...
+$FAB_008_08x10_08_00
+Est-ce que ces trois hommes, que le témoin a appelés « de véritables rebuts de l'humanité », ont participé à la tentative d'assassinat ?
+$FAB_008_08x10_08_01
+Il n'y a pas eu de tentative d'assassinat, et ces trois hommes sont... des vendeurs de fruits.
+$FAB_008_08x10_08_02
+De fruits ?
+$FAB_008_08x10_08_03
+Oui. Il n'y a rien d'étrange à cela, et je ne juge personne à son apparence.
+$FAB_008_08x10_08_04
+Alors ils n'avaient pas prévu de poignarder à mort Robespierre et ses compagnons ?
+$FAB_008_08x10_08_05
+Bien sûr que non !
+$FAB_008_08x10_08_06
+C'est vrai, s'ils n'ont pas réussi à tuer le juge du tribunal, comment arriveraient-ils à se charger de députés de la Convention ?
+$FAB_008_08x10_08_07
+Demandez-leur s'ils savent quelque chose sur la tentative d'assassinat.
+$FAB_008_08x10_08_08
+Où se procuraient-ils leurs fruits ?
+$FAB_008_08x10_08_09
+Je ne sais pas, tu devrais leur demander.
+$FAB_008_08x10_08_10
+Nous n'avons pas réussi à retrouver ces hommes.
+$FAB_008_08x10_08_11
+Eh bien, c'est que les affaires ne sont plus intéressantes pour eux à Paris.
+$FAB_008_WIT_00_A_QTitle
+Dis-moi, sais-tu quelque chose sur la corruption de politiciens dans le salon de l'accusée ?
+$FAB_008_WIT_00_A_00
+Dis-moi, sais-tu quelque chose sur la corruption de politiciens dans le salon de l'accusée ?
+$FAB_008_WIT_00_A_01
+Oh, moi... M'sieur le Juge. J'faisions toujours la même chose, mais parfois les invités ont d'ces idées, j'te jure ! Un député, par exemple, il voulait toujours que je fasse semblant d'être une espionne espagnole qui aurait essayé de le corrompre.
+$FAB_008_WIT_00_A_02
+Répugnant.
+$FAB_008_WIT_00_A_03
+Toi mon cochon, on dirait que tu aimerais bien jouer avec une banane.
+$FAB_008_WIT_00_A_04
+Est-ce que Madame Roland a corrompu...
+$FAB_008_WIT_00_A_05
+Comment j'pourrais le savoir ?
+$FAB_008_WIT_00_B_QTitle
+Peux-tu donner un exemple d'incident qui, selon toi, semblait impliquer de la corruption de politiciens ?
+$FAB_008_WIT_00_B_00
+Peux-tu donner un exemple d'incident qui, selon toi, semblait impliquer de la corruption de politiciens ?
+$FAB_008_WIT_00_B_01
+Si j'te l'dis, autant quitter la ville.
+$FAB_008_WIT_00_B_02
+Mais si tu ne me le dis pas, c'est ta tête qui quittera ton corps.
+$FAB_008_WIT_00_B_03
+Une fois, on m'a dit d'aller avec un jeune homme chez quelqu'un. C'était le député Pierre Vergniaud, et on m'a dit de m'occuper de lui comme si ma vie en dépendait.
+$FAB_008_WIT_00_B_04
+C'est tout ?
+$FAB_008_WIT_00_B_05
+Ce Vergniaud il a été... énergique, j'dirais. Il m'a laissée pleine de bleus. En r'partant, il m'a dit de dire à Madame Roland qu'elle pouvait considérer la question dont ils avaient parlé réglée.
+$FAB_008_WIT_00_B_06
+Quel porc corrompu que ce Vergniaud !
+$FAB_008_KEY_01
+Trahison
+$FAB_008_KEY_02
+Exclusion de la politique
+$FAB_008_KEY_03
+Un salon politique
+$FAB_008_KEY_04
+Un bordel
+$FAB_008_KEY_05
+Corruption de députés
+$FAB_008_KEY_06
+Accès aux vues des hommes politiques
+$FAB_008_KEY_07
+Giselle
+$FAB_008_KEY_08
+Trois coupe-jarrets
+$FAB_008_KEY_09
+Attaque du juge
+$FAB_008_KEY_10
+Coup d'État
+$FAB_008_KEY_11
+Intentions cachées
+$FAB_008_LastDialog_00
+Viens-tu assassiner en personne ton opposante ?
+$FAB_008_UNIQUE_QUESTION_00
+Quelle était la façade donnée à la maison close des Roland ?
+$FAB_008_UNIQUE_ANSWER_CORRECT_00_00
+Un salon politique.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Le bureau du journal de Marat.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Un entrepôt.
+$FAB_008_UNIQUE_QUESTION_01
+Comment la prévenue explique-t-elle la venue d'hommes suspects dans son établissement ?
+$FAB_008_UNIQUE_ANSWER_CORRECT_01_00
+Elle affirme qu'il s'agissait de vendeurs de fruits.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_01_00
+C'étaient des bandits que les adversaires politiques de son mari avaient engagés.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_01_01
+C'étaient des inconnus, des vagabonds épuisés.
+$FAB_008_UNIQUE_QUESTION_02
+Le témoin a-t-il donné le nom d'au moins un politicien que la prévenu a soudoyé ?
+$FAB_008_UNIQUE_ANSWER_CORRECT_02_00
+Le député Pierre Vergniaud.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Le maire Jean-Nicolas Pache.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Non.

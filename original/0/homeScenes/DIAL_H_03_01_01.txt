@@ -1,0 +1,26 @@
+$DIAL_H_03_01_01_001_JUDGE
+Jak się dzisiaj czujesz, Bernard?
+$DIAL_H_03_01_01_002_BERNARD
+Co widzisz?
+$DIAL_H_03_01_01_003_JUDGE
+Słucham?
+$DIAL_H_03_01_01_004_BERNARD
+Pytałem: co widzisz?
+$DIAL_H_03_01_01_005_JUDGE
+Ciebie, synu.
+$DIAL_H_03_01_01_006_BERNARD
+Nie, widzisz potwora. Okaleczonego, poniżonego. Odartego z marzeń.
+$DIAL_H_03_01_01_007_JUDGE
+Nie prawda, jeszcze wszystko przed…
+$DIAL_H_03_01_01_008_BERNARD
+Co jest przede mną?! Co?! Kariera? Zobacz, już nie będę grał, nie dotknę nigdy żadnego instrumentu! Tego przecież chciałeś. No powiedz, że cicho o tym marzyłeś!
+$DIAL_H_03_01_01_009_JUDGE
+Nigdy.
+$DIAL_H_03_01_01_010_BERNARD
+Nie wierzę ci. Nie wierzę w ani jedno słowo. Kiedyś mówiłeś, że nas ochronisz. Ale nikt nie jest w stanie powstrzymać tego szaleństwa. Tej parszywej rewolucji. Tej przeklętej rodziny, w której trupy wstają z grobów i gnębią żyjących.
+$DIAL_H_03_01_01_011_BERNARD
+A jeśli taki mamy czas, to co z ludźmi, których sam posłałeś na gilotynę? Czy oni też dybać będą na nasze życie? Na te strzępy, które nam zostały? Może nawet sam król otworzy mogiłę i wyrwie mi nogi, bo jeszcze mi zostały?!
+$DIAL_H_03_01_01_012_JUDGE
+Przykro mi synu. Tak bardzo mi przykro.
+$DIAL_H_03_01_01_013_BERNARD
+Mnie również. A teraz już pójdę - muszę przemyśleć w jaki sposób chcę zmarnować resztę życia, którą mi w swojej sadystycznej łaskawości zostawiliście.

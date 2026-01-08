@@ -1,0 +1,30 @@
+$INTRIGUE_TITLE_006
+Germaine de Staël
+$INTRIGUE_006_DESC
+Madame de Staël hat die Schwäche der Stadt genutzt, um für die Rechte der Frauen zu kämpfen. Es steht mir nicht zu, über die Beweggründe anderer zu urteilen, doch wenn wir sie heute nicht aufhalten, könnten wir den morgigen Tag nicht mehr erleben.
+$INTR_006_B01_TITLE
+Die Erklärung der Rechte der Frau
+$INTR_006_B01_DESC
+Frauen gingen auf die Straßen von Paris. Sie marschierten zum Rathaus, skandierten Parolen und besetzten einen der Säle, um über die Rechte der Frauen im revolutionären Frankreich zu debattieren. Angeführt wurden sie von Madame de Staël – der gebildeten und ehrgeizigen Gründerin eines der politischen Salons von Paris. Sie überzeugte ihre Anhängerinnen davon, dass die Revolution den Frauen weder Freiheit, Gleichheit noch Brüderlichkeit gebracht hat und dass sie selbst dafür kämpfen müssen. Drohungen und leidenschaftliche Aufrufe führten zur spontanen Ausarbeitung der Erklärung der Frauenrechte, die von jeder Teilnehmerin unterzeichnet wurde. Der Zeitpunkt war keineswegs zufällig gewählt. Madame de Staël wird unsere derzeitige Lage gewiss zu ihrem und zum Vorteil anderer Frauen nutzen. Weitere Informationen folgen…
+$INTR_006_B02_TITLE
+Die Männer überzeugen
+$INTR_006_B02_DESC
+De Staëls Vorschlag – oder vielmehr ihre Erpressung – zwingt uns zu sofortigem und unüberlegtem Handeln. Sie verlangt, dass wir die Erklärung der Frauenrechte unterzeichnen. Wenn du dem ohne die Unterstützung der anderen Männer nachgibst, unterschreibst du damit auch dein eigenes Todesurteil. Du musst sie davon überzeugen, die Veränderungen zu akzeptieren und die Macht abzugeben, die sie ihren Söhnen versprochen haben.
+$INTR_006_B03_TITLE
+Die Unterstützung von Grace Elliot gewinnen
+$INTR_006_B03_DESC
+Madame de Staël setzt auf die Einigkeit der Frauen. Zeigen wir ihr, dass weibliche Solidarität ebenso zerbrechlich ist wie die Bande unter Männern. Wenn Macht und Geld auf dem Spiel stehen, verlieren Mitgefühl und Empathie an Bedeutung. Von allen Frauen, die etwas gegen Madame de Staël in der Hand haben könnten, wäre Grace Elliott die wirkungsvollste. Sie kennt die Welt der Madame genau. Für Feinheiten bleibt keine Zeit. Verhaften Sie sie und versprechen Sie ihre Freilassung im Austausch gegen Informationen.
+$INTR_006_B04_TITLE
+Frauenaufstand
+$INTR_006_B04_DESC
+De Staël wollte Sie eindeutig dazu bewegen, endlich zu handeln. In der ganzen Stadt weigern sich die Frauen zu arbeiten. Sie werden ihre Pflichten erst wieder aufnehmen, wenn ihre Anführerin bestätigt, dass wir die Erklärung unterzeichnet haben. Ein Mangel an Arbeitskräften wird unsere Verteidigung schwächen. Wir dürfen das nicht länger hinnehmen.
+$INTR_006_B05_TITLE
+Die Erklärung verbrennen und de Staël verhaften
+$INTR_006_B05_DESC
+Sie lassen sich nicht erpressen, denn Sie sind es, der erpresst. Sie vernichten Ihre Feinde und bleiben unbesiegt! Wer braucht schon Frauen? Sollen sie doch zu Hause bleiben, dort gehören sie schließlich hin. Außer de Staël. Für sie haben wir bereits eine Zelle vorbereitet. Ich frage mich, ob sie immer noch so standhaft sein wird, wenn ihr Kopf unter der Klinge der Guillotine liegt?
+$INTR_006_B06_TITLE
+Die Erklärung unterzeichnen und die Unterstützung der Frauen gewinnen
+$INTR_006_B06_DESC
+Frankreich hat sich unwiderruflich gewandelt. Die letzte Bastion der Ungleichheit fällt, und es wäre töricht, sich ihr in den Weg zu stellen. Die Unterstützung der Frauen von Paris ist unerlässlich für euren fortwährenden Kampf gegen den Feind. Eure Unterschrift wird ein Zeichen wahrer Gleichheit sein. Ein Akt der Brüderlichkeit!
+$INTR_006_B06_DECISION
+Entscheiden Sie, was mit der Erklärung geschehen soll

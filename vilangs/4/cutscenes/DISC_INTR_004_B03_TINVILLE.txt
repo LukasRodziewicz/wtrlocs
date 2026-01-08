@@ -1,0 +1,60 @@
+$DISC_INTR_004_B03_TINVILLE_001_JUDGE
+Danton ist jederzeit bereit, sein Amt niederzulegen.
+$DISC_INTR_004_B03_TINVILLE_002_TINVILLE
+Alles geschieht verdächtig schnell.
+$DISC_INTR_004_B03_TINVILLE_003_JUDGE
+Das kommt dir nur so vor, weil du nicht damit gerechnet hast. Ein unbeteiligter Beobachter würde sagen, du hast dir diese Beförderung redlich verdient.
+$DISC_INTR_004_B03_TINVILLE_004_TINVILLE
+Es könnte genauso gut eine Falle sein.
+$DISC_INTR_004_B03_TINVILLE_005_JUDGE_AGGR
+Ihr habt geschworen, die Gesetze der Revolution zu verteidigen – so wie ich. Haltet euren Eid!
+$DISC_INTR_004_B03_TINVILLE_006_JUDGE_MANI
+Wenn Sie uns nicht helfen, werden die Folgen auf Ihrem Gewissen lasten. Sie werden genauso schuldig sein wie Robespierre!
+$DISC_INTR_004_B03_TINVILLE_007_JUDGE_JOKE
+Es scheint nicht, als könnten Sie damit leben, dass jemand anderes Ihre Arbeit übernimmt. So wie ich es bereits im Gericht tue.
+$DISC_INTR_004_B03_TINVILLE_008_JUDGE_HUMI
+Die Lage in der Stadt ist außer Kontrolle geraten. Es bleibt niemand, der mir helfen könnte.
+$DISC_INTR_004_B03_TINVILLE_009_TINVILLE_INTR
+Sie schmeicheln mir.
+$DISC_INTR_004_B03_TINVILLE_010_TINVILLE_DOUB
+Ich bin nicht die richtige Person, um den Ruf des Wohlfahrtsausschusses zu retten. Es gibt geeignetere und erfahrenere Kandidaten.
+$DISC_INTR_004_B03_TINVILLE_011_TINVILLE_IRRI
+Das ist doch absurd. Sie haben die ganze Stadt, alle Helden der Revolution, und trotzdem bitten Sie mich, einen einfachen Staatsanwalt, Paris zu retten?
+$DISC_INTR_004_B03_TINVILLE_012_JUDGE_AGGR
+Bist du nicht ebenso stark wie Robespierre oder Danton? Auch sie mussten sich mächtigeren Gegnern stellen, um an die Macht zu gelangen.
+$DISC_INTR_004_B03_TINVILLE_013_JUDGE_MANI
+Wie könnten Sie eine solche Gelegenheit ausschlagen? Träumen Sie denn nicht von einer Karriere? Robespierre hätte keinen Moment gezögert.
+$DISC_INTR_004_B03_TINVILLE_014_JUDGE_JOKE
+Wenn Robespierre es bis ganz nach oben geschafft hat, warum sollten Sie es nicht auch können? Sie stehen ihm in nichts nach.
+$DISC_INTR_004_B03_TINVILLE_015_JUDGE_HUMI
+Dies ist Ihre Gelegenheit, für immer in den Pantheon der Helden der Revolution einzutreten. Ergreifen Sie die Chance, wie einst Danton.
+$DISC_INTR_004_B03_TINVILLE_016_JUDGE_AGGR
+Wenn Sie sich fürchten, wer sonst wird diese Last tragen? Danton geht, und Robespierre folgen die Menschen nur aus Angst. Sie brauchen ein neues Vorbild, einen neuen Anführer!
+$DISC_INTR_004_B03_TINVILLE_017_JUDGE_MANI
+Das Komitee muss überwacht werden. Es muss transparent und gesetzeskonform handeln. Wer sonst könnte mit dieser schwierigen Aufgabe betraut werden?
+$DISC_INTR_004_B03_TINVILLE_018_JUDGE_JOKE
+Wer sonst käme dafür in Frage? Dieser Wahnsinnige Marat? Mein Sohn?
+$DISC_INTR_004_B03_TINVILLE_019_JUDGE_HUMI
+Bitte, versuchen Sie zu verstehen. Wir brauchen keine Minister für Krieg oder Finanzen. Das Volk braucht jemanden, der ihm zeigt, dass es in der Republik noch Gerechtigkeit gibt.
+$DISC_INTR_004_B03_TINVILLE_020_JUDGE_AGGR
+Wagen Sie es nicht, mir den Rücken zuzukehren. Ich habe viel zu viel Mühe darauf verwendet, diese beiden ständig streitenden Hähne Danton und Hébert dazu zu bringen, zusammenzuarbeiten und Sie zu unterstützen!
+$DISC_INTR_004_B03_TINVILLE_021_JUDGE_MANI
+Danton und Hébert sind überzeugt, dass Sie der bestmögliche Kandidat sind. Sie haben mich um meine Meinung gebeten, und ich habe ihnen zugestimmt. Nun haben Sie mächtige Unterstützung – das ist Ihre einmalige Chance.
+$DISC_INTR_004_B03_TINVILLE_022_JUDGE_JOKE
+Danton und Hébert sind es leid, an der Spitze zu stehen; sie wünschen sich frisches Blut, das den Wandel anführt. Es gibt eine freie Stelle, und sie möchten, dass Sie sie übernehmen – ebenso wie ich.
+$DISC_INTR_004_B03_TINVILLE_023_JUDGE_HUMI
+Hört die Stimme des erschöpften Frankreichs, das so verzweifelt nach Freiheit ruft. Danton, Hébert und ich – wir verstehen diesen Ruf und wollen Frankreich diese Freiheit schenken. Bitte, sagt Ja und stellt die Gerechtigkeit wieder her.
+$DISC_INTR_004_B03_TINVILLE_024_TINVILLE_INTR
+Gut, ich werde darüber nachdenken und dir morgen im Gerichtssaal meine Antwort geben.
+$DISC_INTR_004_B03_TINVILLE_025_TINVILLE_DOUB
+Ich muss darüber nachdenken. Dieses Gespräch war für mich nicht ganz schlüssig.
+$DISC_INTR_004_B03_TINVILLE_026_TINVILLE_IRRI
+Ich habe das Gefühl, Sie wollen mich in etwas hineinziehen, vielleicht mich sogar irgendwie an Robespierre ausliefern. Wie immer verfolgen Sie Ihre eigenen Ziele. Ich gebe Ihnen eine letzte Chance – lassen Sie uns würfeln. Wenn Sie gewinnen, tue ich, was Sie verlangen.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_01
+Sie müssen uns helfen, die Lage unter Kontrolle zu bringen.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_02
+So haben die Mächtigen nach der Macht gegriffen.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_03
+Niemand ist besser geeignet als Sie.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_04
+Sie haben unsere Unterstützung.

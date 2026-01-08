@@ -1,0 +1,32 @@
+$DIAL_H_02_03_20_V1_001_JUDGE
+Finally, you came.
+$DIAL_H_02_03_20_V1_002_DAVID
+Alexis… Your brother paid me a visit – the one who is supposed to be dead.
+$DIAL_H_02_03_20_V1_003_JUDGE
+Jacques, I do not know what he–
+$DIAL_H_02_03_20_V1_004_DAVID
+Let me finish. I always knew your true nature. I watched you trying to gain more power, reaching new heights, but only now do I realise who you have truly become. Now that I have met him.
+$DIAL_H_02_03_20_V1_005_JUDGE
+He is a monster!
+$DIAL_H_02_03_20_V1_006_DAVID
+You are both monsters. Unfortunately, after everything I have heard, he seems to be the lesser of two evils.
+$DIAL_H_02_03_20_V1_007_JUDGE
+How can you say that? We are friends. He… he only wishes to return to the previous system!
+$DIAL_H_02_03_20_V1_008_DAVID
+No, Alexis. He wants true equality and fraternity. He wants the people rejected by the Revolution to be able to come back to their homes.
+$DIAL_H_02_03_20_V1_009_JUDGE
+Do you really believe that? Look at what he has done to us!
+$DIAL_H_02_03_20_V1_010_DAVID
+It is nothing worse than what you have done to the people who stood in your way. I am sorry, my friend, but our friendship must end. Where do you draw the line? Removing Robespierre was going too far. We have spilled too much blood, Alexis, and I have the chance to at least partially redeem myself.
+$DIAL_H_02_03_20_V1_011_JUDGE
+What are you going to do?
+$DIAL_H_02_03_20_V1_012_DAVID
+I will join your brother – this has to stop. I will lead his army and make sure that afterwards there will be no more bloodshed in our country!
+$DIAL_H_02_03_20_V1_013_JUDGE
+Are you going to fight against me and Ramel?
+$DIAL_H_02_03_20_V1_014_DAVID
+There is nobody by your side. I have already convinced your court guard to join us, and Ramel accompanied your brother when he visited me. He was apparently always against you.
+$DIAL_H_02_03_20_V1_015_JUDGE
+He led me to the slaughterhouse. His friend.
+$DIAL_H_02_03_20_V1_016_DAVID
+Goodbye, Alexis. I only hope that I will not have to kill you the next time I see you. France has buried enough of its children.

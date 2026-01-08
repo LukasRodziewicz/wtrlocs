@@ -1,0 +1,29 @@
+#INFLUENCE_TIP
+Wpływ
+#INCLUENCE_TIP_SHORT
+PW
+#INFLUENCE_INCOME_TIP
+Przyrost wpływu
+#COST_TIP
+Koszt:
+#SUPPORT_FORMAT_TIP
+Poparcie: {0}
+#PEOPLE_SUPPORT_TIP
+Poparcie ludu
+#ARISTOCRATS_SUPPORT_TIP
+Poparcie arystokracji
+#REVOLUTIONISTS_SUPPORT_TIP
+Poparcie rewolucjonistów
+#REPUTATION_TIP
+Reputacja
+
+#CLOSE_VIEW_TIP
+Zamknij widok
+
+#START_DISCUSSION_TOOLTIP
+Rozpocznij przekonywanie
+#OPEN_DISCUSSION_INFO
+Zajrzyj do notatek
+
+#DECISION_NOT_ENOUGH_POINTS
+<color=#ff0000ff>Nie stać Cię na wykonanie tej akcji.</color>

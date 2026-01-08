@@ -1,0 +1,304 @@
+$FAB_014_DOC_1_HEADER
+Compilado por: Charles Etienne
+$FAB_014_DOC_1_00
+<a name="1" class="hidden">El Cura Rojo</a>, Jacques Roux, está acusado de conspirar para asesinar al político y periodista Jean-Paul Marat. También se le imputa el robo de dinero recaudado en nombre de una ciudadana común, <a name="2" class="hidden">la viuda señora Beaurepaire</a>, así como la posesión ilegal de documentos entregados por el ciudadano Capeto instantes antes de que este fuera guillotinado.
+$FAB_014_DOC_1_01
+En los últimos años, Roux se ha hecho conocido como uno de los hombres más radicales de París. Entre sus demandas figuran la distribución de <a name="3" class="hidden">pan gratuito</a>, <a name="4" class="hidden">la abolición de los impuestos</a> y la decapitación de cualquiera que acapare riquezas. El acusado ha formado una facción llamada los Enragés, el partido más extremo y agresivo de Francia. Estas personas, en su mayoría los sans-culottes más pobres, creyeron fácilmente en las soluciones simples que proponía Jacques Roux.
+$FAB_014_DOC_1_02
+Durante sus discursos, Roux convencía al pueblo de que sus acciones beneficiaban a Francia. Sin embargo, a comienzos de año, incitó disturbios por la escasez de alimentos, durante los cuales una turba desesperada saqueó y devastó la ciudad, dejando a muchos heridos. Estos hechos ocurrieron apenas unas semanas después de la decapitación del ciudadano Capeto. Roux lo acompañó hasta la guillotina y, según se dice, recibió <a name="7" class="hidden">un misterioso paquete</a>. Entre los miembros del gobierno circula la sospecha de que el paquete pudo haber sido enviado por monarquías hostiles, conteniendo una orden para provocar disturbios en Francia y el pago correspondiente.
+$FAB_014_DOC_1_03
+Adjuntamos también el testimonio parcial de un impresor que aceptó el encargo de imprimir la airada respuesta del Cura Rojo al artículo de Marat en “L’Ami du peuple”.
+$FAB_014_DOC_1_04
+Ese hombre entró en mi imprenta con una expresión tan amenazante que, instintivamente, busqué algo con lo que defenderme. Golpeó un montón de papeles contra el mostrador con tanta fuerza que una barra de pan saltó de la mesa cercana. Vi el nombre de Marat en la portada y le pregunté al respecto. “Imprime esto”, me dijo. “Pronto meterán a ese desgraciado en una <a name="8" class="hidden">caja de madera</a>.”
+$FAB_014_OnStart_00
+Por favor, indique su nombre completo.
+$FAB_014_OnStart_01
+¡Es Roux!
+$FAB_014_OnStart_02
+¡El mismísimo Cura Rojo! ¿Es que el juez es tonto, o qué?
+$FAB_014_OnStart_03
+Escucha al pueblo, pues ya ha dicho todo lo necesario.
+$FAB_014_OnStart_04
+Se han presentado acusaciones graves en su contra, no intente dificultar nuestro trabajo.
+$FAB_014_OnStart_05
+Todo esto ha sido inventado por Marat, Robespierre y toda esa camarilla suya.
+$FAB_014_OnStart_06
+Podrá defenderse en breve. Primero, declare su nombre para el acta.
+$FAB_014_OnStart_07
+¡Jacques Roux!
+$FAB_014_OnStart_08
+¡El Sacerdote Rojo!
+$FAB_014_OnStart_09
+¡Roux!
+$FAB_014_OnStart_10
+Propongo dictar sentencia sin audiencia debido a la falta de cooperación.
+$FAB_014_OnStart_11
+Te lo pregunto por última vez.
+$FAB_014_OnStart_12
+Jacques Roux. ¿Es esto para humillar al pueblo? Hemos derrocado al monarca, pero nada ha cambiado para los que mandan…
+$FAB_014_OnGuilty_00
+Por robo, conspirar con el ciudadano Capeto y traición contra la República, ¡le condeno a ser decapitado!
+$FAB_014_OnGuilty_01
+¿Lo escuchó?
+$FAB_014_OnGuilty_02
+¡Salid a las calles!
+$FAB_014_OnGuilty_03
+¡Esto no quedará sin castigo!
+$FAB_014_OnGuilty_04
+¡Injusticia!
+$FAB_014_OnGuilty_05
+¡A la guillotina el juez!
+$FAB_014_OnGuilty_06
+¿¡Se supone que esto es un tribunal?!
+$FAB_014_OnNotGuilty_00
+Jacques Roux es inocente. Gracias a todos por estar aquí y prestarnos su atención.
+$FAB_014_OnNotGuilty_01
+¡Nos tiene miedo!
+$FAB_014_OnNotGuilty_02
+¡Somos fuertes!
+$FAB_014_OnNotGuilty_03
+¡El padre Roux nos guiará!
+$FAB_014_OnNotGuilty_04
+¡El tiempo de los ricos ha terminado!
+$FAB_014_01x05_00_QTitle
+¿Le han llamado el Sacerdote Rojo por sus discursos radicales…
+$FAB_014_01x05_00_00
+¿Le han llamado el Sacerdote Rojo por sus discursos radicales y su actividad revolucionaria?
+$FAB_014_01x05_00_01
+¡Sí, y estoy orgulloso de ello!
+$FAB_014_01x05_00_02
+¡Él es el único que lucha por nosotros!
+$FAB_014_01x05_00_03
+Entre otras cosas, ¿proclama usted la necesidad de repartir alimentos a todos y además promueve la idea de la igualdad?
+$FAB_014_01x05_00_04
+Me alegra que lo comprenda.
+$FAB_014_01x05_00_05
+Sin embargo, usted se unió a la Iglesia Católica, que engañó al pueblo de Francia en tiempos de Luis y sus predecesores.
+$FAB_014_01x05_00_06
+¡Ayudé al pueblo de Saintes en todo lo que estuvo a mi alcance, y fui el primer clérigo en unirse a la Revolución! Acusarme de oprimir al pueblo es como culpar a un perro de comerse toda la fruta.
+$FAB_014_01x05_00_07
+Pero usted sabía perfectamente a qué organización pertenecía y a qué autoridad servía.
+$FAB_014_01x05_00_08
+Muéstrame a un solo hombre que haya sufrido por mi causa bajo la monarquía.
+$FAB_014_01x05_00_09
+¿Pretende que creamos que su parroquia no recaudaba diezmos?
+$FAB_014_01x05_00_10
+¡Este hombre ha hecho más por la Revolución que todo este tribunal!
+$FAB_014_02x04_01_QTitle
+Llamen a la viuda señora Beaurepaire como testigo.
+$FAB_014_02x04_01_00
+Llamen a la viuda señora Beaurepaire como testigo.
+$FAB_014_03x06_02_QTitle
+¿Llamó usted al pueblo a tomar el grano de quienes lo tuvieran?
+$FAB_014_03x06_02_00
+¿Llamó usted al pueblo a tomar el grano de quienes lo poseían?
+$FAB_014_03x06_02_01
+Grano, harina, pan, verduras. De todos los que tengan más que los demás.
+$FAB_014_03x06_02_02
+¡Gracias, Dios, por este hombre!
+$FAB_014_03x06_02_03
+¿Le dijo usted al pueblo que simplemente tomara la comida que necesitara?
+$FAB_014_03x06_02_04
+Si sus hijos pasan hambre, tienen todo el derecho a llevarse cuanto puedan cargar.
+$FAB_014_03x06_02_05
+¿Y qué hay de los hijos de los comerciantes que fueron robados por esta gente? No todos eran ricos.
+$FAB_014_03x06_02_06
+Por favor, dime qué es para ti un hombre rico. Yo digo que rico es aquel que come mientras otros pasan hambre.
+$FAB_014_03x06_02_07
+¿Se supone que debemos creer que tenía hambre cuando incitó al pueblo a amotinarse?
+$FAB_014_03x06_02_08
+En aquel entonces estaba ayunando, y mi dieta habitual ya es bastante modesta.
+$FAB_014_03x06_02_09
+¿Qué comía usted, fiscal, cuando nosotros comíamos hierba?
+$FAB_014_03x06_02_10
+Debía saber que la Guardia no se quedaría de brazos cruzados, y que al enviar a esas personas a robar, ponía en riesgo sus vidas.
+$FAB_014_03x06_02_11
+Si no se hubieran ido, habrían muerto de hambre. Al menos intenté salvarlos.
+$FAB_014_04x01_03_QTitle
+¿Usted abogó por la abolición de los impuestos, ¿no es así?
+$FAB_014_04x01_03_00
+¿Usted abogó por la abolición de los impuestos, ¿no es así?
+$FAB_014_04x01_03_01
+Todos los relacionados con la comida, sí.
+$FAB_014_04x01_03_02
+Pero usted vivía de la décima, un impuesto sobre las cosechas.
+$FAB_014_04x01_03_03
+¡Pueblo! Creedme, fui el primero en exigir la abolición de esa idea insensata.
+$FAB_014_04x01_03_04
+¡Es cierto! Es el único que dice la verdad en esta ciudad corrupta.
+$FAB_014_04x01_03_05
+Dígame, ¿cuál era su propósito al destruir el ejército francés?
+$FAB_014_04x01_03_06
+Sin impuestos, no habría dinero para el Ejército.
+$FAB_014_04x01_03_07
+El ejército debe estar formado por revolucionarios, por verdaderos franceses. Ellos no lucharían por dinero.
+$FAB_014_04x01_03_08
+¿Por puro patriotismo? Claro, la pólvora se fabricará sola y los cañones se fundirán por sí mismos. Debe comprender que sin impuestos, Francia pronto caerá ante nuestros enemigos — y permítame recordarle que no son pocos.
+$FAB_014_04x01_03_09
+Ese radicalismo del padre Roux solo benefició a Gran Bretaña y Austria. Seguro que le pagaron para agitar al pueblo.
+$FAB_014_04x01_03_10
+A mis adversarios políticos sin duda les gustaría creer eso.
+$FAB_014_04x01_03_11
+¡Al menos quería alimentarnos!
+$FAB_014_06x07_04_QTitle
+¿Es cierto que acompañó a Luis en su camino hacia la guillotina?
+$FAB_014_06x07_04_00
+¿Es cierto que acompañó a Luis en su camino hacia la guillotina?
+$FAB_014_06x07_04_01
+Así es.
+$FAB_014_06x07_04_02
+Los testigos afirman que él le entregó un paquete.
+$FAB_014_06x07_04_03
+Lo mencioné en el informe. Quiso que entregáramos a su familia un paquete con sus pertenencias personales, pero nos negamos.
+$FAB_014_06x07_04_04
+Eso es lo que ha declarado, pero ¿desea cambiar su testimonio? Admitir su culpa podría beneficiarle.
+$FAB_014_06x07_04_05
+¿Había documentos en el paquete? ¿Algún objeto de valor?
+$FAB_014_06x07_04_06
+¿De verdad cree que Luis habría confiado en alguien como yo? Yo, más que nadie, deseaba su pronta muerte.
+$FAB_014_06x07_04_07
+Eso es justo lo que diría un agente para desviar las sospechas.
+$FAB_014_06x07_04_08
+Lo vi. Estaba allí, sonriendo, mientras recogíamos la sangre de Capeto.
+$FAB_014_06x07_04_09
+¿Entonces es casualidad que, poco después, provocara disturbios en París? ¿Fue esa la venganza de Luis, un intento de golpe de Estado?
+$FAB_014_06x07_04_10
+Si me acusa de esto, podría acusar a cualquiera. No hay nadie en París que no pueda ser acusado de traición hoy, mañana o dentro de una semana. ¡Este es el tipo de terror que...
+$FAB_014_06x07_04_11
+Incitar al pueblo a rebelarse contra la República es, sin duda, algo que tanto Francisco II como Jorge III sabrían agradecerle.
+$FAB_014_06x07_04_12
+Quienes más me agradecieron fueron esos niños que por fin tuvieron algo para comer.
+$FAB_014_06x07_04_13
+¡Fuera los ricachones y especuladores!
+$FAB_014_06x07_04_14
+¡Pan para el pueblo!
+$FAB_014_01x08_05_QTitle
+¿A qué se debió su conflicto con el ciudadano Marat?
+$FAB_014_01x08_05_00
+¿A qué se debió su conflicto con el ciudadano Marat?
+$FAB_014_01x08_05_01
+Este hombre primero se aprovechó de mi hospitalidad y luego me difamó en público.
+$FAB_014_01x08_05_02
+¿Qué escribió sobre usted?
+$FAB_014_01x08_05_03
+Por ejemplo, que no creo en Dios y que me hice sacerdote únicamente para meterme en la política.
+$FAB_014_01x08_05_04
+Siendo sinceros, últimamente has dedicado más tiempo a la política que a la predicación.
+$FAB_014_01x08_05_05
+Dios ama a quienes actúan, no a quienes solo hablan.
+$FAB_014_01x08_05_06
+Tenemos un testigo que afirma que usted dijo lo siguiente sobre Marat, y cito: “Pronto meterán a ese desgraciado en una caja de madera”. ¿Se refería usted a un ataúd?
+$FAB_014_01x08_05_07
+Por supuesto, pero eso no significa que yo quisiera matarlo.
+$FAB_014_01x08_05_08
+¿Entonces lo dijo porque no pudo controlar su ira?
+$FAB_014_01x08_05_09
+Marat es, en efecto, un verdadero canalla, un farsante, un revolucionario solo de nombre, un hipócrita...
+$FAB_014_01x08_05_10
+Está claro que le guarda rencor y que lo amenazó de muerte en público, ¿y aun así afirma que no tenía malas intenciones?
+$FAB_014_01x08_05_11
+Soy sacerdote. Ni siquiera lo habría tocado.
+$FAB_014_01x08_05_12
+No, pero podrías haber convencido a tus seguidores de hacerlo por ti.
+$FAB_014_01x08_05_13
+¡Por el padre Roux, mataría a ese canalla incluso hoy!
+$FAB_014_08x01_06_QTitle
+¿Cuál es el quinto mandamiento?
+$FAB_014_08x01_06_00
+¿Cuál es el quinto mandamiento?
+$FAB_014_08x01_06_01
+No matarás.
+$FAB_014_08x01_06_02
+En el Sermón del Monte, Cristo también dijo: “No te enojes con tu hermano, ve y reconcíliate con él”. ¿No es así?
+$FAB_014_08x01_06_03
+Conoce bien la Biblia para ser un juez revolucionario.
+$FAB_014_08x01_06_04
+Pero no quisiste reconciliarte con Marat; en cambio, optaste por amenazarlo y desearle el peor destino posible.
+$FAB_014_08x01_06_05
+He pecado...
+$FAB_014_08x01_06_06
+¡No te arrepientas ante ellos!
+$FAB_014_08x01_06_07
+Silencio, el juicio aún no ha terminado. ¿Planeaba usted matar a Marat?
+$FAB_014_08x01_06_08
+Es evidente que no confesará. Sin embargo, las pruebas circunstanciales son contundentes y lo incriminan.
+$FAB_014_08x01_06_09
+¿Has oído eso? ¡No tienen pruebas sólidas, solo información indirecta que no demuestra nada!
+$FAB_014_08x01_06_10
+En un momento de sinceridad, confiesas haber pecado.
+$FAB_014_08x01_06_11
+Si no hay pruebas, ¿por qué quieren sentenciarlo?
+$FAB_014_08x01_06_12
+Olvidé el perdón, ese es mi pecado, pero juro por Dios que sus acusaciones son mentiras podridas que apestan más que un muladar. ¡Quieren deshacerse de mí porque el pueblo me escucha!
+$FAB_014_WIT_01_A_QTitle
+¿Apoya usted las demandas del padre Roux?
+$FAB_014_WIT_01_A_00
+¿Apoya usted las demandas del padre Roux?
+$FAB_014_WIT_01_A_01
+Por supuesto.
+$FAB_014_WIT_01_A_02
+¿Por qué?
+$FAB_014_WIT_01_A_03
+Quiere que se le quite la comida a los ricos, y cada día veo cuánta gente pasa hambre en esta ciudad. Es un buen hombre.
+$FAB_014_WIT_01_A_04
+¡Él es mucho mejor que esas supuestas autoridades!
+$FAB_014_WIT_01_B_QTitle
+Señora Beaurepaire, el padre Roux estaba reuniendo dinero para ayudarla, ¿no es así?
+$FAB_014_WIT_01_B_00
+Señora Beaurepaire, el padre Roux estaba recaudando dinero para ayudarla, ¿no es así?
+$FAB_014_WIT_01_B_01
+Mi esposo murió de repente y me quedé sola. Pagar la habitación y el pan... Comprenda, no ha sido fácil para mí.
+$FAB_014_WIT_01_B_02
+¿Y Roux te ofreció su ayuda?
+$FAB_014_WIT_01_B_03
+Sí, iba a recaudar algo de dinero.
+$FAB_014_WIT_01_B_04
+¿Cuánto recibió?
+$FAB_014_WIT_01_B_05
+Al final no obtuve nada.
+$FAB_014_WIT_01_B_06
+¿Por qué no?
+$FAB_014_WIT_01_B_07
+No estoy seguro. Quizás alguien más necesitaba el dinero con más urgencia.
+$FAB_014_WIT_01_B_08
+¡Dejad de echarle toda la culpa!
+$FAB_014_KEY_01
+El Sacerdote Rojo
+$FAB_014_KEY_02
+Viuda Beaurepaire
+$FAB_014_KEY_03
+Pan gratis
+$FAB_014_KEY_04
+Impuestos
+$FAB_014_KEY_05
+Discursos
+$FAB_014_KEY_06
+Los heridos
+$FAB_014_KEY_07
+El paquete misterioso
+$FAB_014_KEY_08
+El ataúd
+$FAB_014_LastDialog_00
+¡Lo ven? ¡Esto es lo que les ocurre a quienes se atreven a alzarse contra los ricos y sus bienes!
+$FAB_014_UNIQUE_QUESTION_01
+¿Qué opinaba el acusado sobre el diezmo que él mismo había estado recaudando en el pasado?
+$FAB_014_UNIQUE_ANSWER_CORRECT_01_00
+Él estaba en contra.
+$FAB_014_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Apoyó la ley.
+$FAB_014_UNIQUE_ANSWER_NOT_CORRECT_01_01
+No le importaba.
+$FAB_014_UNIQUE_QUESTION_02
+¿Por qué quería el acusado la muerte de Marat?
+$FAB_014_UNIQUE_ANSWER_CORRECT_02_00
+Porque el periodista no dejaba de escribir calumnias sobre él.
+$FAB_014_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Marat fue el primero en amenazarlo.
+$FAB_014_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Marat lo traicionó.
+$FAB_014_UNIQUE_QUESTION_03
+¿Confirmó el acusado que incitó a la gente a robar a quienes tenían comida?
+$FAB_014_UNIQUE_ANSWER_CORRECT_03_00
+Sí, lo hizo.
+$FAB_014_UNIQUE_ANSWER_NOT_CORRECT_03_00
+No, no lo confirmó.

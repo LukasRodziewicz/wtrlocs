@@ -1,0 +1,158 @@
+$GEN_048_DOC_01_HEADER
+Hazırlayan: Charles Etienne
+$GEN_048_DOC_01_00
+	Jean ve Marie Picque’nin kızı doğar doğmaz hayatını kaybetti. Baba, çocuğun yüksek ve keskin bir şekilde ağladığını duyduğunu ifade etti. Ancak, eşi, bir hizmetçi ve ebe ile birlikte bulunduğu odaya girdiğinde, kızı nefes almıyordu.
+$GEN_048_DOC_01_01
+	Ertesi gün, Bay ve Bayan Picque tarafından çağrılan doktor geldi. Bebeğin boynunda <a name="4" class="hidden">boğulma izleri</a> fark etti ve muhafızlara haber veren de o oldu. Soruşturmacı, anne babayı sorgulayamadı; ikisi de şok içinde ve umutsuzluktan yıkılmıştı.
+$GEN_048_DOC_01_02
+	Düzensiz yatak odasında doğuma dair pek çok iz bulduk. Bunların arasında, hizmetçiden öğrendiğimize göre büyük bir telaşla ayrılan ebenin geride bıraktığı <a name="5" class="hidden">forseps</a> de vardı. Sanki kaçıyormuş gibiydi.
+$GEN_048_DOC_01_03
+	Ebe Claudine Sessier’in kimliğini tespit etmeyi başardık. Halk arasında, kız çocuklarının doğumunda şanssız olduğu, çoğu kız bebeğin hayatta kalamadığı söyleniyor. Şüpheli olarak tutuklanmasına karar verdik. Mutfak masasının üzerinde açık bir <a name="7" class="hidden">İncil</a> bulundu.
+$GEN_048_DOC_01_04
+Delil:
+$GEN_048_DOC_01_05
+	Sessier’in İncili eski, ucuz ve yıpranmış bir baskı. Kurşun kalemle altı çizilmiş pek çok bölüm var.
+$GEN_048_OnStart_00
+Ebe Sessier mi?
+$GEN_048_OnStart_01
+Evet, benim.
+$GEN_048_OnStart_02
+Bay ve Bayan Picque’nin çocuğunu boğdunuz mu?
+$GEN_048_OnStart_03
+Zorundaydım, sayın yargıç. Ne yazık ki çocuk kız olarak doğdu.
+$GEN_048_OnStart_04
+Cehennemde yanacaksın!
+$GEN_048_OnStart_05
+Ne demek istiyorsunuz?
+$GEN_048_OnStart_06
+Sen bir erkeksin, anlayamazsın. Ben sadece kadınların artık acı çekmemesini istiyorum.
+$GEN_048_OnStart_07
+O halde neden onları boğuyorsunuz?
+$GEN_048_OnStart_08
+Dediğim gibi, siz anlamazsınız.
+$GEN_048_OnStart_09
+O deli!
+$GEN_048_OnGuilty_00
+Vatandaş Sessier, bana yalnızca tiksinti veriyorsunuz ve sizi ölüme mahkûm etmek benim için büyük bir rahatlama.
+$GEN_048_OnGuilty_01
+Bu yetmez! Onu dörde bölsünler!
+$GEN_048_OnGuilty_02
+Onun artık mesleğini icra etmediğini bilmek, bana huzurla uyuma imkânı verecek.
+$GEN_048_OnNotGuilty_00
+Vatandaş Sessier, sizi suçsuz buluyorum. Gidebilirsiniz.
+$GEN_048_OnNotGuilty_01
+Yargıç o katil cadıyla iş birliği yapıyor!
+$GEN_048_OnNotGuilty_02
+Yargıcı giyotine gönderin!
+$GEN_048_OnNotGuilty_03
+Bu ihanet!
+$GEN_048_OnNotGuilty_04
+Mesleğini icra etmeye devam ederse, ölümler sizin vicdanınıza kalacak.
+$GEN_048_02x04_00_QTitle
+Çocuk canlı mı doğdu?
+$GEN_048_02x04_00_00
+Çocuk canlı mı doğdu?
+$GEN_048_02x04_00_01
+Evet, bay yargıç.
+$GEN_048_02x04_00_02
+Onu kendi ellerinizle mi boğdunuz?
+$GEN_048_02x04_00_03
+Hayır, ben... özel bir boncuk kolyem var. Boyunlarını kırmak daha hızlı olurdu ama buna gücüm yetmiyor.
+$GEN_048_02x04_00_04
+Bu sorgulamayı derhal idam cezasıyla sonlandırmayı teklif ediyorum.
+$GEN_048_02x04_00_05
+Henüz değil. Yurttaş, nasıl böyle korkunç bir şeyi yapabildiniz?
+$GEN_048_02x04_00_06
+Bunu onlar için yapıyorum, sayın yargıç, kendim için değil. Ben yeterince acı çektim, onların çekmesine gerek kalmayacak.
+$GEN_048_01x07_01_QTitle
+Tanrı’ya inanıyor musunuz, kadın?
+$GEN_048_01x07_01_00
+Tanrı’ya inanıyor musunuz, kadın?
+$GEN_048_01x07_01_01
+Hayır, bay yargıç.
+$GEN_048_01x07_01_02
+Evinizde bulunan İncil hakkında ne diyeceksiniz?
+$GEN_048_01x07_01_03
+İncil kutsal bir kitap değil, erkeklerin hayatlarımızı mahvetmesi için yazılmış bir el kitabı!
+$GEN_048_01x07_01_04
+Açıklayın.
+$GEN_048_01x07_01_05
+Örneğin Efeslilere Mektup şöyle buyurur: “Kadınlar, Rab’be itaat eder gibi kocalarınıza itaat edin; çünkü koca, kadının başıdır.” Erkekler bunu kilisede duyuyor, sonra da kadınlara hayvandan daha kötü davranıyorlar!
+$GEN_048_01x07_01_06
+Ama onları öldürerek daha kötüsünü yapmıyor musunuz?
+$GEN_048_01x07_01_07
+Onlara yardım ediyorum.
+$GEN_048_01x07_01_08
+Nasıl yani?
+$GEN_048_01x07_01_09
+Savaşta erkekler ölüyor, bu yüzden sayıları gittikçe azalıyor, kadınlar da onlar için mücadele etmek zorunda kalıyor. Eğer kadınlar az olursa, erkekler sonunda onlara saygı duymayı öğrenecek!
+$GEN_048_01x07_01_10
+O kadına bir şey musallat olmuş!
+$GEN_048_01x07_01_11
+Sana erkekler saygı göstermedi mi?
+$GEN_048_01x07_01_12
+Babam beni bir adama verdi. O adam beni sekiz yıl boyunca dövdü, sonunda ise içkiyle kendini öldürdü.
+$GEN_048_01x07_01_13
+Devrim, dinsel hurafelere karşı duruyor. Sizin de öyle olmanız gerekmiyor.
+$GEN_048_01x07_01_14
+Öyle mi? “Kardeşlik” için savaşıyorsunuz ama kız kardeşleriniz umurunuzda değil.
+$GEN_048_02x05_02_QTitle
+Picque’lerin evinden neden bu kadar aceleyle ayrıldınız?
+$GEN_048_02x05_02_00
+Picque’lerin evinden neden bu kadar aceleyle ayrıldınız?
+$GEN_048_02x05_02_01
+Çocuk ölmüştü. Artık onlara yardım edebileceğim bir şey kalmamıştı.
+$GEN_048_02x05_02_02
+Doğum için onlardan ücret aldınız mı?
+$GEN_048_02x05_02_03
+Hayır, yapamazdım.
+$GEN_048_02x05_02_04
+Neden?
+$GEN_048_02x05_02_05
+…
+$GEN_048_02x05_02_06
+Sana tekrar soruyorum – Bay ve Bayan Picque’den neden para almadın?
+$GEN_048_02x05_02_07
+Beni artık işkence etmeyin! Bunu kendim için yapmadım. Sadece diğer kadınların benden daha iyi bir hayatı olsun istiyorum! Eğer biz kadınlar erkeklerden daha az olursak, bin yıllık kâbusumuz sona erecek!
+$GEN_048_02x05_02_08
+O küçücük kızın kısacık hayatı baştan sona bir kâbustu.
+$GEN_048_KEY_01
+Kızım
+$GEN_048_KEY_02
+İlk çığlık
+$GEN_048_KEY_03
+Hizmetkâr
+$GEN_048_KEY_04
+Boğulma izleri
+$GEN_048_KEY_05
+Maşa
+$GEN_048_KEY_06
+Ebenin kaçışı
+$GEN_048_KEY_07
+İncil
+$GEN_048_LastDialog_00
+Yine bir adam kadınlara zulmediyor! Ataerkillik!
+$GEN_048_UNIQUE_QUESTION_00
+Kadın duruşma sırasında neyi itiraf etti?
+$GEN_048_UNIQUE_ANSWER_CORRECT_00_00
+Kocası onu yıllarca dövmüştü.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Dört kez düşük yaptı.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Annesi bir yangında hayatını kaybetti.
+$GEN_048_UNIQUE_QUESTION_01
+Çocuğu öldürmek için ne kullandı?
+$GEN_048_UNIQUE_ANSWER_CORRECT_01_00
+Bir kolye.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Kendi elleriyle.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Bir yastık.
+$GEN_048_UNIQUE_QUESTION_02
+Sanık, doğum yaptırmak için para aldı mı?
+$GEN_048_UNIQUE_ANSWER_CORRECT_02_00
+Hayır, reddetti.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Evet, o aldı.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Para talep etti, ancak reddedildi.

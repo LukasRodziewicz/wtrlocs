@@ -1,0 +1,30 @@
+$DIAL_H_01_01_06_001_GRANDFATHER
+Mieliśmy całkiem niezły profit. Była szansa na rozwój…
+$DIAL_H_01_01_06_002_ELDERSON
+Dlaczego rodzina Renardów chciała przejąć twój sklep, dziadku?
+$DIAL_H_01_01_06_003_GRANDFATHER
+Dla przyjemności kontroli. Dla zysku i dla władzy. Zawsze chodzi tylko o to. W dzisiejszych czasach również.
+$DIAL_H_01_01_06_004_ELDERSON
+Dzisiaj chodzi o wolność. Żeby ludzie gorzej urodzeni mogli dobrze, godnie żyć.
+$DIAL_H_01_01_06_005_GRANDFATHER
+Dorośnij, chłopcze. Ja zrozumiałem, jaka jest prawda, kiedy chcieli skazać mojego syna, a twojego wuja, na śmierć. Wtedy zrozumiałem, że liczą się tylko władza, której nie miałem, i układy, o które nigdy nie dbałem.
+$DIAL_H_01_01_06_006_JUDGE
+Chciałeś być sprawiedliwy, kiedy wokół szerzyła się niesprawiedliwość. Nie powinieneś tego żałować.
+$DIAL_H_01_01_06_007_GRANDFATHER
+Nie wstydzę się. Ale wolałbym, żeby twój brat żył. Żebym nadal miał dwóch synów.
+$DIAL_H_01_01_06_008_YOUNGERSON
+Masz brata, tatusiu? Gdzie on jest?
+$DIAL_H_01_01_06_009_JUDGE
+Umarł dawno temu, nie było cię jeszcze na świecie.
+$DIAL_H_01_01_06_010_YOUNGERSON
+Dlaczego umarł?
+$DIAL_H_01_01_06_011_JUDGE
+Za dużo mówisz przy jedzeniu.
+$DIAL_H_01_01_06_012_GRANDFATHER
+Twój wuj poszedł na wojnę. Umarł w bitwie. Wasze pokolenie zrozumie, jak bardzo zniszczyliśmy wam świat. Kiedyś porządni ludzie, tacy jak Pochard, nie musieliby się bać sądów czy trybunałów.
+$DIAL_H_01_01_06_013_JUDGE
+A bierzesz pod uwagę, że Pochard mógł być winny?
+$DIAL_H_01_01_06_014_YOUNGERSON
+Nie wierzę! Nie pan Pochard!
+$DIAL_H_01_01_06_015_GRANDFATHER
+Nie był bardziej winny niż my wszyscy… Synu, miej oko na Renardów.

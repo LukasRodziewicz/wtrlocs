@@ -1,0 +1,64 @@
+$TCUT_023_001_RENARD
+Davetimizi kabul ettiğiniz için teşekkür ederim.
+$TCUT_023_002_JUDGE
+İşte bu yüzden herkes aristokratlardan nefret ediyor. Seçme şansım varmış gibi hissetmedim.
+$TCUT_023_003_RENARD
+Haklısınız. Yine de teşekkür ederim.
+$TCUT_023_004_JUDGE
+Ne güzel bir konak. Haraç paralarının boşa gitmemesine sevindim.
+$TCUT_023_005_JUDGE
+Neden buradayım?
+$TCUT_023_006_RENARD
+Sadece kökenlerinden dolayı kovalananlarla tanışmanızı istedik.
+$TCUT_023_007_RENARD
+Zenginler de tıpkı eskiden yoksulların uğradığı gibi baskı görüyor.
+$TCUT_023_008_JUDGE
+Aristokrasi, böyle muamele görmeyi hak etmek için çok çalıştı.
+$TCUT_023_009_JUDGE
+Herkesin seni nefret etmek için bir nedeni var.
+$TCUT_023_010_RENARD
+Yine aynı propaganda sloganları.
+$TCUT_023_011_RENARD
+Bu Devrim işi bittiğinde, şimdi bizi yok etmeye çalışanların hepsini öldürebilecek miyiz?
+$TCUT_023_012_JUDGE
+Bol şans. Belki de çocuğumu öldürenlerle karşılaşırsın.
+$TCUT_023_014_RENARD
+İtiraf etmeliyim ki, o cinayete karışıp karışmamak konusunda tam anlamıyla emin değildik, ama teklif fazlasıyla cazipti.
+$TCUT_023_015_JUDGE
+Bu ne anlama geliyor?
+$TCUT_023_016_RENARD
+Bence kılık değiştirmiş ortağımız sizi fazla abartıyor.
+$TCUT_023_017_RENARD
+Yine de Devrim Mahkemesi yargıcıyla iş birliği yapmak istiyor.
+$TCUT_023_018_RENARD
+Ayrıca bize, ailenizin başka hiçbir ferdini öldürmeyi düşünmediğine dair güvence verdi.
+$TCUT_023_019_JUDGE
+Çocuğumu mu öldürdü?! Bunu yapan sen miydin?!
+$TCUT_023_020_RENARD
+Bizi birleştirmeye zorladığınızdan beri, soylular olarak ne kadar güçlendiğimizi görüyor musunuz?
+$TCUT_023_021_RENARD
+Seninle ben, yalnızca bir kez zar oynayacağız.
+$TCUT_023_022_RENARD
+Aileni ihanet eden ve çocuğunu öldürmemize yardım eden adamın kaderi için oynayacağız…
+$TCUT_023_MINIGAME_YES_001_JUDGE
+Pekâlâ, oynayalım.
+$TCUT_023_MINIGAME_YES_002_RENARD
+Gerçek bir savaş ruhu. Hoşuma gitti!
+$TCUT_023_MINIGAME_NO_001_JUDGE
+Senin oyunlarına alet olmayacağım, Renard.
+$TCUT_023_MINIGAME_NO_002_RENARD
+Sen de baban kadar zayıf ve sıradansın.
+$TCUT_023_MINIGAME_ROUND_01_COMM
+Maskeli dostumuz öfkeyle doluydu. Yardımımız karşılığında bize oldukça kârlı bir teklif sundu. Biz de kabul ettik.
+$TCUT_023_MINIGAME_ROUND_02_COMM
+Tehlikeli, yaralı bir adam. Onu reddetmek akıllıca olmaz.
+$TCUT_023_MINIGAME_ROUND_03_COMM
+Çocuğunuzu öldürmek için, bizim belirttiğimiz birinden aldığı bilgileri kullandı. Zaten iş birliği yaptığımız bir adamdan. Ne aptallık.
+$TCUT_023_MINIGAME_ROUND_04_COMM
+Onun başını size bir tabakta sunacağız. Bu, iyi niyetimizin bir göstergesi ve bizimle dost olmanın akıllıca olduğunun kanıtı olacak.
+$TCUT_023_MINIGAME_ROUND_05_COMM
+Aristokratlar her an başı dik bir şekilde şehre dönecek ve yanımızda olmayan herkesin hesabı görülecek.
+$TCUT_023_MINIGAME_JUDGE_WON
+Kazandınız. Sözümüzü tutacağız ve o hainin başı sizin olacak. Paris’e gelince… Paris pek memnun olmayacak.
+$TCUT_023_MINIGAME_JUDGE_LOST
+Er ya da geç her kumarbaz, aslında hiçbir şeye hükmedemediğini anlar. Zamanın onu yenilgiye sürükleyişini çaresizce izler. Anlaşma, anlaşmadır. Kaybettiniz, bu yüzden size hiçbir şey söylemeyeceğiz. Ve Paris… Paris hak ettiğini alacak.

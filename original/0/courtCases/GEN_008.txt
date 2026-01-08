@@ -1,0 +1,202 @@
+$GEN_008_DOC_01_HEADER
+Sporządził: André Modeste
+$GEN_008_DOC_01_00
+    Bruno Hugo, lat 26, stajenny, pracujący u bogatego i wpływowego arystokraty Jeana-Claude’a de Jacquemarda, został przyłapany na gorącym uczynku, gdy podczas kłótni ze swym pracodawcą zepchnął go ze schodów, na skutek czego ten zmarł. Nie bez znaczenia w sprawie może być fakt, iż Bruno Hugo nazywany jest przez miejscową społeczność <a name="2" class="hidden">„wioskowym głupkiem”</a>, z powodu swojego pochodzenia oraz wyjątkowo niskich lotów intelektu.
+$GEN_008_DOC_01_01
+    Świadkowie zeznali, że Jacquemard <a name="3" class="hidden">wrócił z przejażdżki</a> zirytowany tym, jak Bruno przygotował jego konia. Podobno siodło tak się <a name="4" class="hidden">poluzowało</a>, że pan de Jacquemard o mało nie spadł ze swojego wierzchowca.  
+$GEN_008_DOC_01_02
+    Ofiara wezwała Brunona do posiadłości, by go zrugać. Szlachcic <a name="5" class="hidden">wyzywał i szarpał</a> stajennego, a ten w końcu, nie wiedząc, co czyni, odepchnął go. W efekcie obywatel de Jacquemard wylądował u stóp schodów <a name="7" class="hidden">ze skręconym karkiem</a>. Do zdarzenia doszło na oczach innych pracowników. Sam Bruno Hugo uciekł do stajni. Tam znaleziono go bladego ze strachu i szepczącego coś do jednego z koni…
+$GEN_008_OnStart_00
+Sprawa jest prosta: oskarżony zabił. Problem stanowi tylko to, że lud współczuje mordercy niedorajdzie.
+$GEN_008_OnStart_01
+Jak się nazywasz? 
+$GEN_008_OnStart_02
+Bruno Hugo… Jestem Bruno Hugo.
+$GEN_008_OnStart_03
+Czy pracowałeś dla Jeana-Claude’a de Jacquemarda?
+$GEN_008_OnStart_04
+Tak, pracował ja tam już lat chyba kilka… kilka lat.
+$GEN_008_OnStart_05
+Zostawcie go w spokoju, to duży dzieciak.
+$GEN_008_OnStart_06
+Przyznajecie się do zabójstwa? Tak czy nie?
+$GEN_008_OnStart_07
+Ale ja to…
+$GEN_008_OnStart_08
+Biedak, cały się trzęsie.
+$GEN_008_OnGuilty_00
+Skazuję obywatela Hugo na karę śmierci poprzez ścięcie na gilotynie.
+$GEN_008_OnGuilty_01
+Biedny głupek…
+$GEN_008_OnGuilty_02
+Przecież on nawet nie wiedział co się stało.
+$GEN_008_OnGuilty_03
+Dobrze, przynajmniej już nikogo więcej nie zabije.
+$GEN_008_OnPrison_00
+Skazuję obywatela Brunona Hugo na karę więzienia za spowodowanie wypadku, w którym śmierć poniósł Jean-Claude de Jacquemard.
+$GEN_008_OnPrison_01
+Więzienie to jak śmierć dla tego człowieka!
+$GEN_008_OnPrison_02
+Byłeś zbyt łagodny, dałeś się zwieść.
+$GEN_008_OnNotGuilty_00
+Uznaję Brunona Hugo za niewinnego popełnionych czynów, ponieważ nie jest on świadom tego, co się wydarzyło.
+$GEN_008_OnNotGuilty_01
+Jakie to ma znaczenie? Zbrodnia to zbrodnia!
+$GEN_008_OnNotGuilty_02
+Z takim trzeba ostrożnie postępować – ten, kto go zatrudnił, powinien to wiedzieć i uważać.
+$GEN_008_01x02_00_QTitle
+Czy oskarżony wie, jakim mianem określa go miejscowa społeczność?
+$GEN_008_01x02_00_00
+Czy oskarżony wie, jakim mianem określa go miejscowa społeczność?
+$GEN_008_01x02_00_01
+Bruno nie wie. Nie wie.
+$GEN_008_01x02_00_02
+„Wioskowy głupek”. Czy oskarżony chciałby to skomentować?
+$GEN_008_01x02_00_03
+Bruno nie lubi tego imienia… nie.
+$GEN_008_01x02_00_04
+Często cię tak nazywają?
+$GEN_008_01x02_00_05
+Sąd szydzi z oskarżonego.
+$GEN_008_01x02_00_06
+Nie lubię i już. Mam swoje imię, co mnie mama dała. Dała mama.
+$GEN_008_01x02_00_07
+Czy to przez to przezwisko zepchnąłeś de Jacquemarda ze schodów?
+$GEN_008_01x02_00_08
+Pan bardzo krzyczał, nie lubię, jak krzyczy. Nie lubię.
+$GEN_008_01x04_01_QTitle
+Jako stajenny odpowiadałeś za przygotowywanie koni dla ofiary?
+$GEN_008_01x04_01_00
+Jako stajenny odpowiadałeś za przygotowywanie koni dla ofiary?
+$GEN_008_01x04_01_01
+Tak. Ja je czesałem i karmiłem. Konie jedzą dużo trawy… To czesałem.
+$GEN_008_01x04_01_02
+Siodło było poluzowane?
+$GEN_008_01x04_01_03
+…
+$GEN_008_01x04_01_04
+Obywatelu?
+$GEN_008_01x04_01_05
+Nie, nie mogło. Ciągnąłem za paski. Nie można za mocno, bo się koniowi brzuch zgniecie. Konie są dobre, lepsze niż ludzie, one…
+$GEN_008_01x04_01_06
+Chciałeś, żeby pan spadł z konia? Celowo nie dociągnąłeś paska, by odegrać się na swoim pracodawcy?
+$GEN_008_01x04_01_07
+Ja nigdy, ja to pana naszego nawet lubiłem, bym krzywdy nie zrobił. Lubiłem.
+$GEN_008_01x04_01_08
+Widzicie, że to łagodne dziecko.
+$GEN_008_01x05_02_QTitle
+Jaki był dla ciebie pan de Jacquemard?
+$GEN_008_01x05_02_00
+Jaki był dla ciebie pan de Jacquemard?
+$GEN_008_01x05_02_01
+Był dobry dla Bruno… Czasem to on nawet krzyczał, ale karmił i dla koni był dobry. Dobry.
+$GEN_008_01x05_02_02
+Często krzyczał?
+$GEN_008_01x05_02_03
+Czasem krzyczał… Czasem nie krzyczał.
+$GEN_008_01x05_02_04
+Arystokracka kanalia!
+$GEN_008_01x05_02_05
+Właśnie dlatego postanowiłeś go zabić?
+$GEN_008_01x05_02_06
+...
+$GEN_008_01x05_02_07
+Najpierw go szlachcic męczył, a teraz rewolucja.
+$GEN_008_03x05_03_QTitle
+Proszę wezwać Colina Boufue.
+$GEN_008_03x05_03_00
+Proszę wezwać Colina Boufue.
+$GEN_008_03x05_03_01
+Proszę się przedstawić i powiedzieć, kim pan jest.
+$GEN_008_03x05_03_02
+Nazywam się Colin Boufue, jestem majordomusem w rezydencji państwa de Jacquemardów. Widziałem dokładnie, co się stało.
+$GEN_008_05x06_04_QTitle
+Wiesz, że zabiłeś człowieka? Rozumiesz to?
+$GEN_008_05x06_04_00
+Wiesz, że zabiłeś człowieka? Rozumiesz to?
+$GEN_008_05x06_04_01
+Ja wiem… Ja tak ręką machnąłem, bo on tak na mnie krzyczał. Głośno.
+$GEN_008_05x06_04_02
+Wiedziałeś, że możesz mu zrobić krzywdę?
+$GEN_008_05x06_04_03
+Nie myślałem tak. Nie tak.
+$GEN_008_05x06_04_04
+Machnąłeś, że aż się przewrócił?
+$GEN_008_05x06_04_05
+Ja się wystraszyłem, ja nie pamiętam. Ja żem oczy, proszę pana, tak zmrużył i jak otwarłem ja je, to on był tam na dole… Na dole.
+$GEN_008_06x07_05_QTitle
+Czy obywatel przyznaje się do winy?
+$GEN_008_06x07_05_00
+Czy obywatel przyznaje się do winy?
+$GEN_008_06x07_05_01
+Ja nie wiem, jaka jest moja wina. Ja nie rozumiem. Ci ludzie chcieli, żebym przyszedł tutaj, to przyszedłem… Ja nikomu nie chciałem nic… Nic.
+$GEN_008_06x07_05_02
+Grozi ci kara śmierci za zabójstwo. Zdajesz sobie z tego sprawę?
+$GEN_008_06x07_05_03
+Ja bym chciał wrócić do koni. Ja nie wiem, czy one dziś jadły. Jak koń długo nie je… Pan nie lubi, jak konie nie dostają obroku.
+$GEN_008_06x07_05_04
+Bardziej się martwisz o konie niż o swojego pana?
+$GEN_008_06x07_05_05
+Pan nie żyje, to co ja mu pomogę? A konie to żyją przecież. Żyją.
+$GEN_008_WIT_00_A_QTitle
+Proszę opowiedzieć, co zaszło feralnego dnia między obywatelem Hugo a panem domu.
+$GEN_008_WIT_00_A_00
+Proszę opowiedzieć, co zaszło feralnego dnia między obywatelem Hugo i panem domu.
+$GEN_008_WIT_00_A_01
+Pan de Jacquemard był wściekły na Brunona, bo ten nie zapiął dokładnie siodła. A to mogło spowodować wypadek. 
+$GEN_008_WIT_00_A_02
+Jak wasz pracodawca na to zareagował?
+$GEN_008_WIT_00_A_03
+Krzyczał na Brunona, szarpał nim i tenże w pewnym momencie odepchnął od siebie pana de Jacquemarda – pan spadł ze schodów, na których obaj stali.
+$GEN_008_WIT_00_A_04
+Wstrętny burżuj…
+$GEN_008_WIT_00_B_QTitle
+Co pan myśli o stajennym?
+$GEN_008_WIT_00_B_00
+Co pan myśli o stajennym?
+$GEN_008_WIT_00_B_01
+To niezły pracownik, choć ma pewne… ograniczenia. Myślę, że nie muszę mówić więcej. Nikt nie sądził, że on może być niebezpieczny.
+$GEN_008_WIT_00_B_02
+Ograniczenia? Ale był świadom tego, co się wokół niego dzieje?
+$GEN_008_WIT_00_B_03
+Ależ tak, on raczej… po prostu był raczej powolny. 
+$GEN_008_WIT_00_B_04
+Czyli jest obywatel przekonany o jego winie?
+$GEN_008_WIT_00_B_05
+Tak, wszystko widziałem, to on spowodował tę śmierć.
+$GEN_008_KEY_01
+Stajenny
+$GEN_008_KEY_02
+Wioskowy głupek
+$GEN_008_KEY_03
+Powrót z przejażdżki
+$GEN_008_KEY_04
+Poluzowane siodło
+$GEN_008_KEY_05
+Krzyki i szarpanina
+$GEN_008_KEY_06
+Odepchnięcie arystokraty
+$GEN_008_KEY_07
+Skręcony kark
+
+
+$GEN_008_LastDialog_00
+Bruno nie chciał. Pójdziemy później umyć koniki?
+
+$GEN_008_UNIQUE_QUESTION_00
+Co było powodem kłótni między ofiarą a oskarżonym?
+$GEN_008_UNIQUE_ANSWER_CORRECT_00_00
+Poluzowane siodło.
+$GEN_008_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Niedoczyszczone srebra.
+$GEN_008_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Znęcanie się nad koniem.
+
+$GEN_008_UNIQUE_QUESTION_01
+Czy oskarżony w ogóle rozumie akt oskarżenia?
+$GEN_008_UNIQUE_ANSWER_CORRECT_01_00
+Nie.
+$GEN_008_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Tak.
+
+

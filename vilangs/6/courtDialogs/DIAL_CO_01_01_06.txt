@@ -1,0 +1,30 @@
+$DIAL_CO_01_01_06_001_MENTOR
+Ayer la gente destrozó la sala del tribunal. Ten cuidado.
+$DIAL_CO_01_01_06_002_HEADGUARD
+Trágicamente, estamos perdiendo el control de las calles. El pueblo se siente traicionado por el Rey, y algunos lo ven como un espía que intenta escapar de la justicia. Se recomienda recurrir a medios especiales para sofocar los disturbios. Solo necesitamos la opinión de los jueces para asegurarnos de actuar dentro de la legalidad.
+$DIAL_CO_01_01_06_003_MENTOR
+¿En otras palabras, necesita su bendición para disparar contra los manifestantes?
+$DIAL_CO_01_01_06_004_HEADGUARD
+La gente no puede controlar sus emociones y eso está perjudicando a otros ciudadanos. Mire las ventanas. La próxima vez podrían hacer algo peor que solo lanzar piedras.
+$DIAL_CO_01_01_06_005_HEADGUARD
+Esperemos que aún no sea demasiado tarde para detener esta locura.
+$DIAL_CO_01_01_06_006_MENTOR
+Curiosa forma de llamar a una descarga de fusilería.
+$DIAL_CO_01_01_06_007_HEADGUARD
+Sin este documento, solo nos queda esperar a que los ciudadanos de París empiecen a matarse entre ellos ante nuestros propios ojos.
+$DIAL_CO_01_01_06_008_MENTOR
+Espero que sepa lo que está haciendo… Puede que la Convención haya promulgado ese decreto, pero no me cabe duda de que fue idea de Robespierre.
+$LETTERDECISION_D06_MAINTEXT_00
+Nos duele ver cómo crece la agitación en las calles de París. El comandante en jefe Burel nos ha informado que la Guardia ya no puede controlar la situación por medios pacíficos. Se recomienda autorizarle el uso de métodos más inmediatos para proteger a los ciudadanos inocentes, pero quisiéramos conocer la opinión del Tribunal al respecto.
+$LETTERDECISION_D06_MAINTEXT_01
+Apruebo que la Guardia Nacional emplee la fuerza contra los alborotadores que arruinan la capital.
+$LETTERDECISION_D06_SENDER
+Raymond Dévoyé
+$LETTERDECISION_D06_ACCEPTBUTTON
+Firmar
+$LETTERDECISION_D06_ACCEPTTEXT
+La Guardia tiene el deber de proteger a los inocentes de quienes no pueden controlar su conducta. ¡Apruebo una mayor libertad en el uso de la Guardia Nacional!
+$LETTERDECISION_D06_REJECTBUTTON
+No firmar
+$LETTERDECISION_D06_REJECTTEXT
+Las autoridades no deben usar la fuerza contra el pueblo. Si se ven obligadas a hacerlo, ya han perdido. ¡No apruebo este decreto!

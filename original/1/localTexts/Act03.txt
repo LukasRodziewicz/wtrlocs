@@ -1,0 +1,31 @@
+$LETTER_H_03_01_01_MAIN
+Citizen, I am sure that you have already received your copy of the Declaration of Women’s Rights. Let us meet in the evening so that I can list our demands.
+$LETTER_H_03_01_01_SENDER
+Germaine de Staël
+$LETTER_H_03_01_02_MAIN
+I:
+Women are born free and shall remain equal to men in rights. Social distinctions can only be founded on common necessity.
+V:
+The laws of nature and reason stand against all malign actions against society: all that is not defended by those laws, however wise and divine, cannot be prevented, and none shall be forced to do what they do not order.
+VI:
+The Law should express the general will; all female Citizens and Citizens should take part, directly or via representatives, in its conception; it must be the same for everyone: all Citizens, regardless of gender, being equal in its eyes, should be equally allowed all public dignities, duties, and employments, according to their competency, and with no distinctions other than those of their virtues and of their capabilities.
+$LETTER_H_03_01_03_MAIN
+X:
+No one should be harassed for their thoughts and opinions, regardless of how fundamental they are; if women have the right to mount the scaffold, then they must have the same right to mount the tribune, provided that what they say will not disturb public order as it is stated by the Law.
+XI:
+The free communication of thoughts and opinions is one of the most precious rights that the woman possess, because this liberty ensures legitimacy to fathers towards their children. All female Citizens should be able to freely say, I am the mother of a child that you own, without any barbaric prejudice forcing her to veil that truth; but only to answer to any abuse of that liberty in the case established by the Law.
+$LETTER_H_03_01_04_MAIN
+Post-amble:
+Women, arise; the tocsin of reason is echoing throughout the universe; know your rights. The powerful empire of nature is no longer bound by prejudice, fanaticism, superstition, and lies. The flame of truth has dissipated the clouds of foolishness and usurpation. Enslaved man has multiplied his strength, but needed yours to finally break his chains. And while he is now free, he has become unjust to his companion. Oh, women, women! When will you cease to be blind? What advantage have you harvested from the Revolution? An even more pronounced scorn, an even more marked contempt. During the centuries of corruption, you could only rule over the weakness of men. The reclamation of your patrimony, based on the humble decrees of nature; what have you to fear from such a fine pursuit? The bon mot of the legislator at the Marriage at Cana?
+$LETTER_H_03_01_05_MAIN
+Do you fear that our French legislators, protectors of that morality, long ensnared by a dated political convention, will only repeat to you: women, is there something in common between you and us? Everything, shall be your answer. And if they persist in their feebleness in putting this fallacy in contradiction to their principles, boldly oppose the force of reason to the empty vanity of superiority; unite yourselves beneath the ideals of philosophy; deploy all the spirit of your character, and soon, you will see these imperious men, not at your feet as abased adorers, but as equals proudly sharing with you the treasures of the Supreme Being. Do not mind the barriers that confront you, for you have in your power to pass them and free yourselves; you need only to want to. Let us move on and gaze on the frightful position that women held in society; given that national education is now being discussed, let us see if our wise legislators will be rational when considering the education of women.
+$LETTER_H_03_01_06_MAIN
+Women have done more harm than good. Constraint and deceit have been their tools. What force seized from them, ruse gave back; they had to use their charms and even the most virtuous man could not resist. The poison, the sword, all submitted to them; they had command over crime as well as virtue. The French government, more than most, leant for centuries on the nocturnal administration of women; no secrets could survive the inquisitive nature of the boudoir: ambassadors, officers, ministers, presidents, pontiffs, cardinals, all the disguises that characterise the idiocy of men, sacred or profane, all are subject to the greed and ambition of this sex once despicable yet respected, but since the Revolution, respectable and despised.
+$LETTER_H_03_02_01_MAIN
+I am leaving. I need to take our son away from this sick city. Do not try to find us.
+$LETTER_H_03_02_01_001_SENDER
+Mathilde
+$LETTER_H_03_03_01_MAIN
+Dear Citizen,  We are incredibly thankful. For the first time we have the feeling that someone is listening to us. We shall help the men to fight!
+$LETTER_H_03_03_01_SENDER
+The women of Paris

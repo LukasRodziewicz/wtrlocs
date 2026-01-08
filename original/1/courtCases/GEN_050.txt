@@ -1,0 +1,162 @@
+$GEN_050_DOC_01_HEADER
+Compiled by: Charles Etienne
+$GEN_050_DOC_01_00
+	<a name="1" class="hidden">Three privates</a> from the units based behind the Porte-Libre prison stole six geese from a suburban farm. The owner of the farm, Jean Capel, saw the infantrymen committing the robbery.
+$GEN_050_DOC_01_01
+	Armed with a pitchfork, Capel tried to stop the soldiers. One of the privates aimed <a name="3" class="hidden">a musket</a> at him and threatened to use it. Capel later testified that he was so scared he felt light-headed and ran to the pigsty.
+$GEN_050_DOC_01_02
+	The farmer informed an officer stationed nearby about the robbery, and immediately an order was given to find the culprits. One of the soldiers was quickly found in an abandoned church. He was <a name="5" class="hidden">roasting three birds</a> over a small fire. The gendarmes arrested him and took his weapon – a regulation bayonet. The detainee did not give away his accomplices, even when promised that he would avoid trial in exchange.
+$GEN_050_OnStart_00
+Private Gaubert?
+$GEN_050_OnStart_01
+Private Michel Gaubert, monsieur le juge.
+$GEN_050_OnStart_02
+How long have you been in the army?
+$GEN_050_OnStart_03
+A year and four months, monsieur le juge.
+$GEN_050_OnStart_04
+Did you steal Jean Capel’s geese?
+$GEN_050_OnStart_05
+I, err… well… It just happened that I did.
+$GEN_050_OnStart_06
+It just happened? What does that mean?
+$GEN_050_OnStart_07
+Explain.
+$GEN_050_OnStart_08
+Not much was going on over that side of Paris, and we didn’t get much to eat.
+$GEN_050_OnGuilty_00
+Private Gaubert, you raised your hand against the people you swore to defend. There can only be one verdict: death.
+$GEN_050_OnGuilty_01
+That is what happens to thieves.
+$GEN_050_OnGuilty_02
+Find the other two and off with their heads!
+$GEN_050_OnNotGuilty_00
+I cannot punish our soldiers just because our army is unable to give them bread. I find Private Gaubert not guilty.
+$GEN_050_OnNotGuilty_01
+He admitted everything! We should be more demanding during war, not more lenient.
+$GEN_050_OnNotGuilty_02
+Go to the village and tell that to the farmers who’ll now be robbed by those bandits in uniforms.
+$GEN_050_01x05_00_QTitle
+There were three of you, yet you took three of the six stolen birds. Why?
+$GEN_050_01x05_00_00
+There were three of you, yet you took three of the six stolen birds. Why?
+$GEN_050_01x05_00_01
+I was told to cook three on the spot while they went to hide the rest of the loot. But they didn’t come back.
+$GEN_050_01x05_00_02
+I read in the files that you refused to give us their names.
+$GEN_050_01x05_00_03
+I don’t know who they were. They weren’t with us.
+$GEN_050_01x05_00_04
+What do you mean?
+$GEN_050_01x05_00_05
+They weren’t from our unit. I’d love to give them away, but they were just… ordinary. My age, in uniform – but one of them had ears that stick out.
+$GEN_050_01x05_00_06
+And now they’ll try to find the culprits by looking at people’s ears? What a joke!
+$GEN_050_01x05_00_07
+Tell us their first names at least, and I may believe that you are not covering for them.
+$GEN_050_01x05_00_08
+I think one of them referred to the other as Louis, but I couldn’t be sure.
+$GEN_050_03x06_01_QTitle
+Did you threaten to use your musket against the farmer?
+$GEN_050_03x06_01_00
+Did you threaten to use your musket against the farmer?
+$GEN_050_03x06_01_01
+It wasn’t me…
+$GEN_050_03x06_01_02
+Sure, that’s what they all say.
+$GEN_050_03x06_01_03
+I wouldn’t kill a person over a goose, monsieur le juge, even though I was as hungry as a wolf.
+$GEN_050_03x06_01_04
+But you took your bayonet with you. Why?
+$GEN_050_03x06_01_05
+I had to deal with the birds somehow. I could break their necks with my bare hands, but what about cutting them open?
+$GEN_050_03x06_01_06
+And if the farmer had attacked you with the pitchfork?
+$GEN_050_03x06_01_07
+And what?
+$GEN_050_03x06_01_08
+Would you have defended yourself?
+$GEN_050_03x06_01_09
+Well, if he wanted to stab me…
+$GEN_050_03x06_01_10
+They lost their minds out of hunger.
+$GEN_050_01x04_02_QTitle
+What were your troops ordered to do?
+$GEN_050_01x04_02_00
+What were your troops ordered to do?
+$GEN_050_01x04_02_01
+Behind the prison there’s a road leading south to Étampes. We were making sure the enemy cavalry didn’t attack us from that direction.
+$GEN_050_01x04_02_02
+How many of you were there?
+$GEN_050_01x04_02_03
+About three hundred, more or less. I’m not sure.
+$GEN_050_01x04_02_04
+How far was it from the church where you were detained?
+$GEN_050_01x04_02_05
+Why not ask him about the names of his parent’s cows and the size of his hat while you’re at it?
+$GEN_050_01x04_02_06
+That was in another direction, further to the west.
+$GEN_050_01x04_02_07
+Why did you not take the geese to your camp? If you had to steal food, you could have at least shared it.
+$GEN_050_01x04_02_08
+If I’d brought it there, I wouldn’t have gotten a single bite. Officers have stomachs too.
+$GEN_050_02x03_03_QTitle
+Start from the beginning: whose idea was it to go after food with your weapons?
+$GEN_050_02x03_03_00
+Start from the beginning: whose idea was it to go after food with your weapons?
+$GEN_050_02x03_03_01
+Does it matter? Nobody forced him to go.
+$GEN_050_02x03_03_02
+I was washing footwraps with the other two and one thing led to another.
+$GEN_050_02x03_03_03
+One thing led to another?
+$GEN_050_02x03_03_04
+We talked about how hungry we were, then we started thinking about places we might get some food.
+$GEN_050_02x03_03_05
+So you just decided to steal something?
+$GEN_050_02x03_03_06
+I’d have been happy to buy it, but there wasn’t a single denier in my pockets.
+$GEN_050_02x03_03_07
+Why did you bring your musket?
+$GEN_050_02x03_03_08
+I asked the same question, but one of them said we could hunt something on the way. I laughed at him, because what could we possibly find? A dog or a fat rat at best.
+$GEN_050_02x03_03_09
+Or a farmer. A bunch of bandits dressed up as soldiers!
+$GEN_050_KEY_01
+Three soldiers
+$GEN_050_KEY_02
+Six geese
+$GEN_050_KEY_03
+Musket
+$GEN_050_KEY_04
+Abandoned church
+$GEN_050_KEY_05
+Roast
+$GEN_050_KEY_06
+Bayonet
+$GEN_050_LastDialog_00
+All that because I was hungry. Will you ever feed people like me? You weren’t in my shoes…
+$GEN_050_UNIQUE_QUESTION_00
+Why did the defendant have a bayonet on him?
+$GEN_050_UNIQUE_ANSWER_CORRECT_00_00
+To gut a bird.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_00_00
+To threaten the farmer.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_00_01
+He always carries it with him.
+$GEN_050_UNIQUE_QUESTION_01
+What were Gaubert’s troops ordered to do?
+$GEN_050_UNIQUE_ANSWER_CORRECT_01_00
+They were watching the road.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_01_00
+They were building fortifications.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_01_01
+They were getting ready to outflank the enemy.
+$GEN_050_UNIQUE_QUESTION_02
+Did the soldier give the names of his accomplices?
+$GEN_050_UNIQUE_ANSWER_CORRECT_02_00
+Only one.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_02_00
+He gave the names.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_02_01
+He refused to answer.

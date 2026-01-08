@@ -1,0 +1,30 @@
+$DIAL_H_02_01_02_001_JUDGE
+Sizi tanıdığım günden beri, hiçbir zaman laf olsun diye konuşan biri olmadınız.
+$DIAL_H_02_01_02_002_RAMEL
+Bence, eylemler sözlerden daha çok şey anlatır.
+$DIAL_H_02_01_02_003_JUDGE
+Peki, bizim yaptıklarımız senin ve benim hakkımızda ne söylüyor?
+$DIAL_H_02_01_02_004_RAMEL
+Başkalarının hayatlarımızı kontrol etmesine izin vermeyiz. Kendi kaderimizin efendisiyiz.
+$DIAL_H_02_01_02_005_JUDGE
+En azından nereli olduğunuzu söyleyebilir misiniz?
+$DIAL_H_02_01_02_006_RAMEL
+Sana şunu söyleyebilirim ki, tıpkı kardeşin Bruno gibi, ben de bir süre sokaklarda yaşadım. Üvey ağabeyim beni evden kovdu, ama yine de… onu özlüyorum.
+$DIAL_H_02_01_02_007_JUDGE
+Üzgünüm.
+$DIAL_H_02_01_02_008_RAMEL
+Endişelenmene gerek yok. En azından artık buna engel olabilecek kadar güçlüyüm. Bu yüzden sana Başpiskopos Gobel’in başını bir tabakta sunuyorum.
+$DIAL_H_02_01_02_009_JUDGE
+Neden?
+$DIAL_H_02_01_02_010_RAMEL
+Çünkü oğlunuzun ölümünü planlayan oydu ve onun en büyük sırrını öğrendim.
+$DIAL_H_02_01_02_011_JUDGE
+Neden Gobel bana saldırdı?
+$DIAL_H_02_01_02_012_RAMEL
+Rolandlarla hesaplaştınız ve neredeyse aynı şeyi Pache’ye de yapacaktınız.
+$DIAL_H_02_01_02_013_RAMEL
+Birbirleriyle bağlantılıydılar; bu yüzden, sıradaki hedefin kendisi olacağını düşünüp sana bir mesaj göndermeye karar vermiş olmalı.
+$DIAL_H_02_01_02_014_JUDGE
+Şimdi ona kendi mesajımı göndereceğim.
+$DIAL_H_02_01_02_015_RAMEL
+Ailenize el kaldıran herkesi öldürün, sahip olduğunuz en değerli şey onlar. Şu anda insanlar Vendée’deki isyanı kışkırtmakla ruhban sınıfını suçluyor; saldırmak için bundan daha iyi bir fırsat bulamazsınız.

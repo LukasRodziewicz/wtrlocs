@@ -1,0 +1,38 @@
+$SPEECH_KING_01_01_07_001_JUDGE
+Halkım, sizi ne üzdü? Neden bu kadar öfkelisiniz?
+$SPEECH_KING_01_01_07_002_AUDIENCE
+Kral bize yalan söyledi!
+$SPEECH_KING_01_01_07_003_AUDIENCE
+O korkak bizden kaçtı! Adaletten de kaçacağı kesin!
+$SPEECH_KING_01_01_07_004_AUDIENCE
+Kralın gizli demir kasasında ihanetinin kanıtlarını bulduk!
+$SPEECH_KING_01_01_07_005_JUDGE_AGGR
+Kral hapsedildi. Bir daha kaçamayacak. Kaçmaya kalkarsa, onu kendi ellerimle öldürürüm!
+$SPEECH_KING_01_01_07_006_JUDGE_MANI
+Louis Capet de etten ve kemikten bir insan – tıpkı sizin gibi bir Yurttaş! Yasaların uzun kolundan kaçamaz.
+$SPEECH_KING_01_01_07_007_JUDGE_JOKE
+Hiç şüphe yok ki, bugün adalet yerini bulacak. O halde tereddütlerinizi bir kenara bırakın!
+$SPEECH_KING_01_01_07_008_JUDGE_HUMI
+Cumhuriyetin adaletinden kimse kaçamaz! Krallar bile Themis’in huzurunda ve halkın iradesi karşısında boyun eğmek zorunda.
+$SPEECH_KING_01_01_07_009_JUDGE_AGGR
+Fransa’ya karşı işlenen her türlü ihanet ölümle cezalandırılacaktır! Yeni delilleri inceleyeceğiz ve eğer söylentiler doğruysa, bu hainin kafasını bizzat ben keseceğim!
+$SPEECH_KING_01_01_07_010_JUDGE_MANI
+Yeni delillere göz yummayacağız. Her bir ipucunun peşinden titizlikle gideceğiz; Cumhuriyet için ve yalnızca Cumhuriyet için.
+$SPEECH_KING_01_01_07_011_JUDGE_JOKE
+Yeni deliller göz ardı edilmeyecek. Sizin yerinizde olsam endişelenmezdim!
+$SPEECH_KING_01_01_07_012_JUDGE_HUMI
+Her yeni delil titizlikle incelenecek. Cumhuriyet’in yasaları bundan daha azını kabul etmez! Ben de onlara harfiyen uyacağım!
+$SPEECH_KING_01_01_07_013_JUDGE_AGGR
+Sizi hayal kırıklığına uğratmayacağım! Hainlerin kanı akacaksa, o kan akacak. Bunu bizzat ben sağlayacağım!
+$SPEECH_KING_01_01_07_014_JUDGE_MANI
+Adalet ülkemize geri dönmeli ve burada sonsuza dek kalmalı. Bu meseleye, Devrim Mahkemesi’nin bir yargıcından daha fazla önem veren yoktur.
+$SPEECH_KING_01_01_07_015_JUDGE_JOKE
+Bunu öyle ustalıkla halledeceğim ki, siz gece boyunca meyhanelerde şarap içip neşeyle kutlayacaksınız!
+$SPEECH_KING_01_01_07_016_JUDGE_HUMI
+Kızgın olabileceğinizi biliyorum. Ama sizi korumak için temsilcilerinizi siz seçtiniz. Bana güvenin.
+$SPEECH_KING_TOPIC_01
+Vatandaş Capet adaletten kaçamayacak.
+$SPEECH_KING_TOPIC_02
+Demir dolaptan çıkan deliller incelenecek.
+$SPEECH_KING_TOPIC_03
+Bana inanın.

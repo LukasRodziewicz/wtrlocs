@@ -1,0 +1,211 @@
+$GEN_024_DOC_01_HEADER
+Zusammengestellt von: Nathan d’Essiraf
+$GEN_024_DOC_01_00
+Denis Decoin ist ein 41-jähriger Schriftsteller und Journalist aus der <a name="1" class="hidden">verarmten Aristokratie</a> und arbeitet derzeit als Chefredakteur der Zeitschrift „Liberté!“. Anfangs war das Blatt bei den Parisern und Radikalen äußerst beliebt, da es die Notwendigkeit tiefgreifender politischer und gesellschaftlicher Veränderungen betonte. Doch kürzlich hat die Zeitung eine <a name="3" class="hidden">Neuausrichtung</a> erfahren und veröffentlicht nun Artikel, die die revolutionären Behörden kritisieren.
+$GEN_024_DOC_01_01
+Nachdem Decoin einen Artikel über das Komitee für öffentliche Sicherheit veröffentlicht hatte, warf ihm einer seiner Vertreter, Jean-Pierre-André Amar, vor, illegale Einkommensquellen zu nutzen und feindliche Propaganda zu betreiben, die von den Konterrevolutionären finanziert wird.
+$GEN_024_DOC_01_02
+Decoin soll im Auftrag von ins Ausland geflohenen Aristokraten Artikel verfasst haben, die die Autoritäten der Revolution diskreditieren. Das Geld für diese Tätigkeit erhielt der Angeklagte über <a name="7" class="hidden">Madame Joan Casta</a>, die teure Kleider verkauft. Madame Casta bestätigte dies während ihres eigenen Prozesses vor Richter Amar, bei dem sie der Spionage beschuldigt wurde. Zeugen gaben außerdem an, dass der Journalist Madame Casta häufig unter dem Vorwand besuchte, etwas für seine Frau zu kaufen, und dass sie sich stets <a name="8" class="hidden">im hinteren Teil des Ladens</a> trafen.
+$GEN_024_DOC_01_03
+Die Ermittler, die Decoins Haus durchsuchten, fanden unter dem Wohnzimmerboden eine versteckte Schachtel. Darin befanden sich <a name="9" class="hidden">7.000 Francs</a>, was Madame Castas Aussage bestätigt.
+$GEN_024_DOC_02_00
+<a name="10" class="hidden">Artikel</a> veröffentlicht in „Liberté!“:
+Skandal im Wohlfahrtsausschuss! Nimmt dessen Präsident, Herr Amar, Bestechungsgelder für die Ausstellung von Bürgerschaftszertifikaten?!
+$GEN_024_DOC_02_01
+<a name="11" class="hidden">Quittung</a>: MAI – 2 Kleider – 180 Fr. Bar in Madame Castas Kasse gelegt. R. M. Moulin
+$GEN_024_OnStart_00
+Nennen Sie bitte Ihren Namen.
+$GEN_024_OnStart_01
+Ich bin Denis Decoin, Chefredakteur der Zeitung „Liberté!“ und treuer Bürger von Paris.
+$GEN_024_OnStart_02
+Bürger Decoin, Sie sind angeklagt, konterrevolutionäre Propaganda zu Ihrem eigenen finanziellen Vorteil zu verbreiten.
+$GEN_024_OnStart_03
+Diese Anschuldigungen entspringen einer Intrige gegen mich, weil ich die Verfehlungen des Wohlfahrtsausschusses aufgedeckt habe. Der Drahtzieher dieses Angriffs auf den unabhängigen Journalismus ist niemand anderes als Jean-Pierre-André Amar, der Vertreter des Komitees!
+$GEN_024_OnGuilty_00
+Ich verurteile Denis Decoin zur Guillotine! Führt den Verurteilten ab.
+$GEN_024_OnGuilty_01
+Eine Plage weniger.
+$GEN_024_OnGuilty_02
+Was, wenn er recht hatte?
+$GEN_024_OnGuilty_03
+Das wird ihnen eine Lehre sein, sich nicht mehr an den Köpfen der Leute zu vergreifen.
+$GEN_024_OnNotGuilty_00
+Das Urteil für Denis Decoin lautet… nicht schuldig! Führt den Angeklagten ab.
+$GEN_024_OnNotGuilty_01
+Du hast dem Feind der Republik geglaubt?
+$GEN_024_OnNotGuilty_02
+Siehst du denn nicht, dass er ein Verräter ist?!
+$GEN_024_OnNotGuilty_03
+Ab mit ihm unter die Guillotine!
+$GEN_024_04x11_00_QTitle
+Wie viel verdienen Sie jeden Monat?
+$GEN_024_04x11_00_00
+Wie viel verdienen Sie jeden Monat?
+$GEN_024_04x11_00_01
+In letzter Zeit nur etwa 300–400 Francs. Leider ist die Presse nicht mehr so einträglich wie früher. Die Leserschaft nimmt ab…
+$GEN_024_04x11_00_02
+Wie konnten Sie mit einem solchen Gehalt allein in diesem Monat insgesamt 180 Francs für Kleider ausgeben?
+$GEN_024_04x11_00_03
+Ich habe jeden Groschen umgedreht und gespart.
+$GEN_024_04x11_00_04
+Wovon denn? Brot oder Käse? Sie sehen nicht aus wie jemand, der hungert.
+$GEN_024_04x11_00_05
+Und Sie haben diese Ersparnisse für überflüssige Kleidung ausgegeben?
+$GEN_024_04x11_00_06
+Nichts ist mir wichtiger als das Glück meiner Frau.
+$GEN_024_07x09_01_QTitle
+Woher stammt das Geld, das in Ihrem Haus gefunden wurde?
+$GEN_024_07x09_01_00
+Woher stammt das Geld, das in Ihrem Haus gefunden wurde?
+$GEN_024_07x09_01_01
+Das ist mein Anteil am Erbe meines verstorbenen Onkels, Roger Decoin.
+$GEN_024_07x09_01_02
+Die Beweise zeigen, dass der Angeklagte dies von den Konterrevolutionären als Bezahlung für seine regierungskritischen Artikel erhalten hat.
+$GEN_024_07x09_01_03
+Ich habe sie geerbt! Ich bin ein unabhängiger Journalist und schreibe nicht auf Bestellung. Und schon gar nicht für Konterrevolutionäre!
+$GEN_024_07x09_01_04
+Joan Casta ist nicht einverstanden.
+$GEN_024_07x09_01_05
+Sie hat mich vermutlich angeschwärzt, um von ihren eigenen Vergehen abzulenken.
+$GEN_024_07x09_01_06
+Warum haben Sie das Geld dann unter dem Boden versteckt, anstatt es wie jeder vernünftige Mensch auf die Bank zu bringen?
+$GEN_024_07x09_01_07
+Ich traue den Banken nicht und habe das Geld versteckt, um es vor Dieben zu schützen.
+$GEN_024_07x08_02_QTitle
+Warum haben Sie sich mit Joan Casta im Hinterzimmer ihres Ladens getroffen?
+$GEN_024_07x08_02_00
+Warum haben Sie sich mit Joan Casta im Hinterzimmer ihres Ladens getroffen?
+$GEN_024_07x08_02_01
+Wir besprachen nur die Einzelheiten zu den neuen Kleidern meiner Frau.
+$GEN_024_07x08_02_02
+Bürgerin Casta hat ausgesagt, dass sie Ihnen damals das Geld gab, um verleumderische Artikel zu schreiben.
+$GEN_024_07x08_02_03
+Jean-Pierre-André Amar, der Richter, der ihren Prozess leitete, zwang sie zu dieser Aussage!
+$GEN_024_07x08_02_04
+Unser Justizsystem greift nicht zu gewaltsamen Ermittlungsmethoden.
+$GEN_024_07x08_02_05
+Ich werde Ihre Antwort dennoch berücksichtigen. Sie bekennen sich also nicht schuldig?
+$GEN_024_07x08_02_06
+Geld von Madame Casta genommen zu haben? Natürlich nicht, ich habe ihr doch bezahlt.
+$GEN_024_07x08_02_07
+Sie müssen zugeben, dass es höchst ungewöhnlich ist, wenn ein Mann die Einzelheiten der Kleider seiner Frau bespricht, anstatt dass sie es selbst tut.
+$GEN_024_07x08_02_08
+Ich habe für sie bezahlt.
+$GEN_024_07x08_02_09
+Vielleicht trägt er sie ja selbst?
+$GEN_024_05x10_03_QTitle
+Wer hat Sie beauftragt, den Vertreter des Wohlfahrtsausschusses anzugreifen?
+$GEN_024_05x10_03_00
+Wer hat Sie beauftragt, den Vertreter des Wohlfahrtsausschusses anzugreifen?
+$GEN_024_05x10_03_01
+Es gab keinen Auftrag. Ich habe herausgefunden, dass Amar von Fabiene Roelle ein Bestechungsgeld für die Ausstellung eines Bürgerschaftszertifikats verlangt hat, obwohl Roelle es durch seine aktive Unterstützung der Revolution voll und ganz verdient hätte.
+$GEN_024_05x10_03_02
+Woher haben Sie diese Information?
+$GEN_024_05x10_03_03
+Von Roelle persönlich. Er kam selbst zur Zeitung, um diese Geschichte zu erzählen.
+$GEN_024_05x10_03_04
+Kann Bürger Roelle Ihre Aussage bestätigen?
+$GEN_024_05x10_03_05
+Nein. Er weigerte sich, das Bestechungsgeld zu zahlen, also stellte Amar ihm das Zertifikat nicht aus. Das führte dazu, dass Roelle als Staatsfeind verhaftet und hingerichtet wurde. So handelt Amar!
+$GEN_024_05x10_03_06
+Also ist ein Staatsfeind, dem ein Prozess drohte, zu Ihnen gekommen und hat Sie gebeten, einen Beamten zu verleumden?
+$GEN_024_05x10_03_07
+So sehe ich das nicht.
+$GEN_024_05x10_03_08
+Wie deuten Sie es dann?
+$GEN_024_05x10_03_09
+Ein ehrlicher, unschuldiger Mann suchte verzweifelt Hilfe im Kampf gegen einen korrupten Bürokraten.
+$GEN_024_02x03_04_QTitle
+Warum hat „Liberté!“ plötzlich angefangen, die Behörden zu kritisieren?
+$GEN_024_02x03_04_00
+Warum hat „Liberté!“ plötzlich angefangen, die Behörden zu kritisieren? Früher haben Sie doch noch lobend über sie geschrieben.
+$GEN_024_02x03_04_01
+Es gab keinen plötzlichen Wandel, ich habe sie nur in begründeten Fällen kritisiert. Es ist meine Pflicht als Journalist, die Menschen zu informieren, wenn die Behörden ihre Macht missbrauchen.
+$GEN_024_02x03_04_02
+Mit „gerechtfertigt“ meinen Sie bezahlt von den politischen Feinden der Revolution?
+$GEN_024_02x03_04_03
+Meine Leser bezahlen mich, nicht die Politiker.
+$GEN_024_05x07_05_QTitle
+War es Jeanne Casta, die Ihnen die Themen für Ihre verleumderischen Artikel vorgab…?
+$GEN_024_05x07_05_00
+War es Jeanne Casta, die Ihnen die Themen für Ihre verleumderischen Artikel vorgab, mit denen Sie die Behörden angriffen?
+$GEN_024_05x07_05_01
+Das ist doch lächerlich. Madame Casta hat mir lediglich Kleider für meine Frau verkauft, nichts weiter.
+$GEN_024_05x07_05_02
+Wer hat Ihnen dann tatsächlich die Aufträge erteilt?
+$GEN_024_05x07_05_03
+Die Menschen von Paris, die die Wahrheit erfahren wollen.
+$GEN_024_05x07_05_04
+Reden werden Ihnen nicht helfen, aber wenn Sie uns die Namen der Schuldigen nennen, könnte das etwas ändern.
+$GEN_024_05x07_05_05
+Niemand hat mir für diesen Artikel bezahlt.
+$GEN_024_01x09_06_QTitle
+Wie weit würden Sie gehen, um das verlorene Vermögen der Familie Decoin wiederzuerlangen?
+$GEN_024_01x09_06_00
+Wie weit würden Sie gehen, um den verlorenen Reichtum der Familie Decoin wiederzuerlangen?
+$GEN_024_01x09_06_01
+Alles, was in meiner Macht stand.
+$GEN_024_01x09_06_02
+Würden Sie also auch Geld von Verrätern und Feinden des Volkes annehmen?
+$GEN_024_01x09_06_03
+Monsieur le juge, das sind Methoden der Inquisition! Ich meinte alles, was ich im Rahmen des Gesetzes tun durfte!
+$GEN_024_01x09_06_04
+Was haben Sie damals getan?
+$GEN_024_01x09_06_05
+Ich habe unermüdlich gearbeitet, das habe ich getan. Reicht das immer noch nicht?
+$GEN_024_KEY_01
+Verarmter Adel
+$GEN_024_KEY_02
+Beliebtheit bei den Parisern
+$GEN_024_KEY_03
+Neuausrichtung von „Liberté!“
+$GEN_024_KEY_04
+Illegale Einnahmequellen
+$GEN_024_KEY_05
+Feindliche Propaganda
+$GEN_024_KEY_06
+Im Auftrag der Aristokraten verfasste Artikel
+$GEN_024_KEY_07
+Joan Casta
+$GEN_024_KEY_08
+Der Hinterraum des Ladens
+$GEN_024_KEY_09
+Geld in einer versteckten Schachtel
+$GEN_024_KEY_10
+Artikel in „Liberté!“
+$GEN_024_KEY_11
+Kassenbon aus dem Laden
+$GEN_024_LastDialog_00
+Schon wieder reißen sich die Haie die kleinen Fische! Frankreich, wisse: Ich bin unschuldig!
+$GEN_024_UNIQUE_QUESTION_00
+Was wurde in einer Kiste gefunden, die im Haus des Angeklagten versteckt war?
+$GEN_024_UNIQUE_ANSWER_CORRECT_00_00
+Geld.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Eine Waffe.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Flugblätter.
+$GEN_024_UNIQUE_QUESTION_01
+Decoin hat sich in letzter Zeit viele Kleider gekauft. Woher hatte er das Geld?
+$GEN_024_UNIQUE_ANSWER_CORRECT_01_00
+Er hat gespart.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Er hat sie auf Kredit gekauft.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Er tauschte die Kleider gegen eine Zeitungsanzeige ein.
+$GEN_024_UNIQUE_QUESTION_02
+Was ist mit Bürger de Roelle geschehen, über den in der „Liberté!“ berichtet wurde?
+$GEN_024_UNIQUE_ANSWER_CORRECT_02_00
+Er wurde hingerichtet.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Er hat Selbstmord begangen.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Er ist spurlos verschwunden.
+$GEN_024_UNIQUE_QUESTION_03
+Wie erklärte der Angeklagte den Besitz einer so großen Bargeldsumme?
+$GEN_024_UNIQUE_ANSWER_CORRECT_03_00
+Er hat es geerbt.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Er hat sie aufbewahrt.
+$GEN_024_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Seine Frau hat das verdient.

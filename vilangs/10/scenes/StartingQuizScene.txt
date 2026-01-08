@@ -1,0 +1,44 @@
+$SURVIVAL_QUIZ_RESULT_HEADER
+Puanlar
+$SURVIVAL_QUIZ_RESULT_DESC
+Bunlar, fraksiyonlarla olan ilişkilerinizin başlangıç değerleridir.
+$SURVIVAL_QUIZ_QUESTION_01
+Mahkeme koridorunda genç ve son derece çekici bir kadın bana çarptı. Üzerinde zarif ama bazı yerleri eskimiş ve yıpranmış bir elbise vardı. Çarpışma için özür dilemeye fırsat bulamadan konuşmaya başladı. Kendini kontun kızı Désirée Plouffe olarak tanıttı. Nişanlısı tutuklanmıştı—sebep olarak karşıdevrimci faaliyetler gösterilmiş, fakat ayrıntılı bir suçlama sunulmamıştı. Bayan Plouffe titrek bir sesle bir zarf çıkarıp içindeki notu suçlanan adama iletmemi rica etti.
+$SURVIVAL_QUIZ_QUESTION_01_A1
+Kadını hizmet odalarından birine kilitledim ve Muhafızlara haber vermeye gittim. Kimsenin beni yolsuzlukla suçlamasını istemem.
+$SURVIVAL_QUIZ_QUESTION_01_A2
+Notu aldım ve yardım edeceğime söz verdim. Salondaki sıradan müşteriler bana öfkeyle baktı...
+$SURVIVAL_QUIZ_QUESTION_01_A3
+Bakın, halkım, diye yüksek sesle söyledim. "Sanki soylu hanımefendi kendini herkesten üstün görüyor." Notu parçalayıp ayaklarının dibine attım.
+$SURVIVAL_QUIZ_QUESTION_02
+O sırada sokakta yürüyordum. Paris’in nasıl değiştiğine hayran kaldığımı hatırlıyorum. Dükkanların üzerindeki tabelalar yenilenmişti, insanlar soyluların evlerinden kakmalı mobilyaları çıkarıyordu. Bu eşyalar arabalara yükleniyor, götürülüyor, dağıtılıyordu. Bir adam elinde bir şişe şarapla kapıdan çıktı ve bağırdı: “Bay Jacquemard’ın mahzeninden! Hadi, gelin bizimle için.”
+$SURVIVAL_QUIZ_QUESTION_02_A1
+Onlarla içmeye gittim. Tüm geceyi bodrumda, Fransa'nın ihtiyaçlarını konuşarak geçirdik.
+$SURVIVAL_QUIZ_QUESTION_02_A2
+Devrim adına mahzendeki şarabı toplatmak için Muhafızları çağırdım.
+$SURVIVAL_QUIZ_QUESTION_02_A3
+Kim olduğumu söyledim ve hırsızlık yüzünden cezayla tehdit ettim – öyle hızlı kaçtılar ki arkalarında toz kaldı, sahibine de değerli eşyalarını kırsalda saklamasını tavsiye ettim.
+$SURVIVAL_QUIZ_QUESTION_03
+Bir keresinde, çeşmenin yanındaki avluda çirkin bir olaya tanık oldum. Birkaç genç, şık giyimli bir delikanlıya taş atıyor, “Ye bakalım, kontes, afiyet olsun!” diye bağırıyordu. Köşeye sıkışan genç soylu, yalnızca yüzünü korumaya çalıştı; ona isabet eden taşlar sadece onu değil, pencereleri de vurdu, camlar komşuların çığlıkları arasında küçük parçalara ayrıldı.
+$SURVIVAL_QUIZ_QUESTION_03_A1
+Yerden birkaç çakıl taşı aldım, “kont”a fırlattım ve ardından oradan uzaklaştım.
+$SURVIVAL_QUIZ_QUESTION_03_A2
+Bir grup çocuğu sopayla kovaladım, ardından genç bir soyluya kanayan yaralarını silmesi için bir mendil uzattım.
+$SURVIVAL_QUIZ_QUESTION_03_A3
+Vandalizm nedeniyle gençlerin tutuklanmasını emrettim. Parisliler için korku dönemi sona erdi.
+$SURVIVAL_QUIZ_QUESTION_04
+Notre Dame yakınındaki meydanda sarhoş bir adam gördüm. Sokakta yürüyüp bağırıyordu: “Serseriler, serseriler şehri ele geçirdi,” elinde fildişi saplı bir bastonla insanları tehdit ediyordu. İnsanların birbirlerine fısıldadığını ve parmaklarıyla onu işaret ettiğini gördüm. Yoldan geçen çamaşırcı kadınlar ona geniş bir yay çizerek yaklaştı, birkaç duvar ustası ise taşlara uzandı.
+$SURVIVAL_QUIZ_QUESTION_04_A1
+Yanına gidip yüzüne sert bir tokat attım, kaldırıma oturana kadar.
+$SURVIVAL_QUIZ_QUESTION_04_A2
+Muhafız devriyesine rastladığımda, şüpheli birini ihbar ettim.
+$SURVIVAL_QUIZ_QUESTION_04_A3
+Adamın kolundan tuttum. "Hadi, şarap içeceğiz," dedim ve onu sokaktan aldım, muhtemelen linç edilmekten kurtardım.
+$SURVIVAL_QUIZ_QUESTION_05
+Dört muhafız, yeni tadilat görmüş bir binanın yanında yaşlı bir adamın tezgâhında duruyordu. Tezgâhın üzerinde, aralarında birkaç demet havuç ve güneşte kurumuş marulun da olduğu sebzeler seriliydi. “Beni kovuyorsunuz çünkü Bay Moisan size para verdi!” diye bağırdı satıcı, muhafızların suratlarına doğrudan. “Asilzade muhtemelen benim gümüş takımlar ya da antika heykeller satmamı isterdi, öyle mi? Ama sebze satıcısı, onun mülkünün değerini mi düşürüyor?!” diye öfkeyle devam etti dükkân sahibi.
+$SURVIVAL_QUIZ_QUESTION_05_A1
+Kendimi tanıttım ve muhafızlara tüccarı rahat bırakmalarını emrettim.
+$SURVIVAL_QUIZ_QUESTION_05_A2
+Bu benim işim değildi, muhafızların muhtemelen kendi ... “sebepleri” vardı.
+$SURVIVAL_QUIZ_QUESTION_05_A3
+Eğer muhafızlara emir verildiyse, tereddüt etmeden yerine getirmeliler. Tutuklamada yardımcı oldum.

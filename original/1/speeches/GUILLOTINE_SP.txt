@@ -1,0 +1,78 @@
+$G_SP_TOPIC_01
+Crime
+$G_SP_TOPIC_02
+Defendant
+$G_SP_TOPIC_03
+Revolution
+$G_SP_01_AGGR_01
+Disorder shall be suppressed with the brutal strength of our truth. No turning back now!
+$G_SP_01_AGGR_02
+The guillotine would almost be a pardon, such a hideous deed demands torture! Should we torture him?!
+$G_SP_01_AGGR_03
+Where there is crime, there must be punishment! And we shall dish it out, oh yes! Even the convict’s ancestors shall feel the cold edge of the guillotine slicing through their necks!
+$G_SP_01_MANI_01
+Future generations will remember that we were not cowards! They will remember us delivering punishment for such hideous crimes!
+$G_SP_01_MANI_02
+Anyone stepping outside the boundaries of Revolutionary law has only themselves to blame! Only themselves!
+$G_SP_01_MANI_03
+There are no shades of grey to crime, only guilt or innocence.
+$G_SP_01_JOKE_01
+Quick! The reaper would like to have a word with the convict about this terrible crime.
+$G_SP_01_JOKE_02
+For this convict here, killing was as easy as breathing. That is how guillotining is to us!
+$G_SP_01_JOKE_03
+The convict was curious about the taste of crime, now we shall give him his desert!
+$G_SP_01_HUMI_01
+Themis spoke through your mouths. She calls out “Justice!” And we shall hear her voice!
+$G_SP_01_HUMI_02
+As a judge, I merely carry out the will of the Republic.
+$G_SP_01_HUMI_03
+We can be a merciful nation, but we shall not forget that a terrible crime was committed.
+$G_SP_02_AGGR_01
+Murderers, traitors, deceivers – you have to eliminate them, or innocent lives will be in danger!
+$G_SP_02_AGGR_02
+We shall behead another monster feeding on injustice!
+$G_SP_02_AGGR_03
+This individual spits in the face of Themis and the people. Justice will not accept such insults!
+$G_SP_02_MANI_01
+These offenders want to go back to the old ways! They defend them!
+$G_SP_02_MANI_02
+Will you just stand there and allow criminals to tell you what to do?
+$G_SP_02_MANI_03
+Do not listen to them when they say you cannot read. Listen to them when they beg for mercy at the guillotine!
+$G_SP_02_JOKE_01
+Come, let the accused have a word with the guillotine!
+$G_SP_02_JOKE_02
+Today we have a convict who, as they all say, is innocent!
+$G_SP_02_JOKE_03
+Give a round of applause for the play <i>“Killed for Nothing”</i>!
+$G_SP_02_HUMI_02
+We are not only mourning the victim’s, but the convict’s soul as well. But do not mistake our compassion for weakness.
+$G_SP_02_HUMI_03
+The criminals belong in the grave. Only then can we build a better future!
+$G_SP_02_HUMI_04
+By passing this sentence we are making our streets safer. I am not mourning the one being guillotined, but us, his victims!
+$G_SP_03_AGGR_01
+You have gained power in France. Now spill the blood of those who oppose the Republic!
+$G_SP_03_AGGR_02
+These criminals think that because we are tolerant, we are also weak! That is enough!
+$G_SP_03_AGGR_03
+Only death awaits the enemies of France!
+$G_SP_03_MANI_01
+We are not worthy of that freedom if we let the old system and rotten morality poison our country!
+$G_SP_03_MANI_02
+The reign of the previous rulers, whose goal was to bring injustice to the people, ends with their swift deaths.
+$G_SP_03_MANI_04
+Future generations will remember that we were not cowards! It needs to be done!
+$G_SP_03_JOKE_01
+Has anyone seen the executioner? Find me that drunkard, or I will have to hire someone else!
+$G_SP_03_JOKE_02
+Chop chop, no time to waste!
+$G_SP_03_JOKE_03
+Kill this filthy rat and let us get something to eat at last!
+$G_SP_03_HUMI_01
+It is you, the people, who are in charge here.
+$G_SP_03_HUMI_02
+Citizens, we must return to work so we may build our new France! For the nation!
+$G_SP_03_HUMI_04
+The old system has to fall. There is no other way. You are the sovereigns now!

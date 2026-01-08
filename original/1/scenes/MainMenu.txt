@@ -1,0 +1,56 @@
+#GAME_OPTIONS
+Game Options
+#SOUND_OPTIONS
+Audio
+#CREDITS_HEADER
+Credits
+#CREDITS_BACK
+Return
+#CHOOSE_PROFILE
+Choose a Profile
+#NEW_PROFILE
+Create a Profile
+#EMPTY_PROFILE
+Create a New Profile
+#PROFILE_PLACEHOLDER
+Profile Name
+#PROFILE_DELETE_QUESTION_TITLE
+Delete Profile
+#PROFILE_DELETE_QUESTION
+Deleting a profile is permanent. Are you sure?
+#PROFILE_SUBTITLE
+Act {0} Day {1}
+#NEW_GAME_QUESTION_TITLE
+Restart
+#NEW_GAME_QUESTION
+Restarting will cause you to lose all your progress. Are you sure you want to continue?
+#SOUND_MAIN_OPTION
+Master Volume
+#SOUND_EFFECTS_OPTION
+Sound Volume
+#SOUND_MUSIC_OPTION
+Music Volume
+#SOUND_DIALOGS_OPTION
+Voice Volume
+#AUTOSAVE
+Autosave
+#SINGLE_CASES_HEADER
+Hearing:
+#MULTI_CASES_HEADER
+Hearings:
+#CASES_EMPTY
+None
+#ACT
+Act {0}
+#LOAD_GAME_DAY
+Day {0}
+#LOAD_GAME_PARAMS_INFO
+Situation:
+#LOAD_GAME_QUESTION_TITLE
+Load Old Save
+#LOAD_GAME_QUESTION
+Choosing a previous day will overwrite the progress made in the following days. Are you sure?
+#SAVE_PROFILE
+Create a Profile
+#FLASHCARDS_CASES_KEY
+Extraordinary verdict

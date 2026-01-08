@@ -1,0 +1,54 @@
+$DISC_INTR_001_B02_001_JUDGE
+Thank you for coming, Citizen Côté.
+$DISC_INTR_001_B02_002_COTEY
+How could I say no to a person who holds the lives of kings in the palm of his hand? I presume that our meeting is connected to Minister Roland?
+$DISC_INTR_001_B02_003_JUDGE
+Exactly. I would like to talk about the incident with the iron cabinet.
+$DISC_INTR_001_B02_004_COTEY
+It is indeed rather ugly. The minister could lose his head because of it, although it is currently nothing more than gossip…
+$DISC_INTR_001_B02_005_JUDGE
+Yes, but what if the gossip suddenly turned into the truth…?
+$DISC_INTR_001_B02_006_COTEY
+Then things would certainly get nasty.
+$DISC_INTR_001_B02_007_JUDGE_AGGR
+I need Roland’s head. He is a pest! By bribing politicians, he has harmed all of France! We need the witness that saw him opening the iron chest to reveal his identity. We need you, Citizen!
+$DISC_INTR_001_B02_008_JUDGE_MANI
+I need Roland’s head. His days are numbered anyway, so to ease the pain of Parisians, and France, let us just accelerate his fall.
+$DISC_INTR_001_B02_009_JUDGE_JOKE
+The platter for Roland’s head is ready. I can be the chef who will cook an incredible meal with it, but I need a helper to season it.
+$DISC_INTR_001_B02_010_JUDGE_HUMI
+You and I, we are France’s servants. It is our responsibility to make sure Roland falls, so we need to make the truth known. Did we not take an oath to defend our ideals?
+$DISC_INTR_001_B02_011_COTEY_SATI
+Roland behaves as though he wanted to die.
+$DISC_INTR_001_B02_012_COTEY_INTR
+That is an interesting point of view. I am all ears.
+$DISC_INTR_001_B02_013_COTEY_DOUB
+Roland has his vices, but are they enough to justify my betrayal? Because that is what you ask of me.
+$DISC_INTR_001_B02_014_JUDGE_AGGR
+If the well-being of France is not enough for you, then let me just say, Citizen, that if you help me, your chances of survival will increase. After all, someone could accuse you of complicity in Roland’s crimes.
+$DISC_INTR_001_B02_015_JUDGE_MANI
+Minister Roland will not save you when matters become troublesome. I can save you. From charges of complicity, for example.
+$DISC_INTR_001_B02_016_JUDGE_JOKE
+It is hard to say who the real minister is – Citizen Roland or his wife, Madame Roland. Well, it will not matter when you hear charges of complicity.
+$DISC_INTR_001_B02_017_JUDGE_HUMI
+If you agree to come forward as a witness, you will be doing France a huge favour, and France never forgets. I never forget.
+$DISC_INTR_001_B02_018_JUDGE_AGGR
+Minister Roland’s days are numbered. We only need a witness to those events and you, Citizen, shall reveal his crimes. Otherwise you will be decapitated with him!
+$DISC_INTR_001_B02_019_JUDGE_MANI
+Stand alongside my friends and be sure that the benefits of doing so will outweigh the unpleasant consequences if you were to refuse – like being killed by the guillotine.
+$DISC_INTR_001_B02_020_JUDGE_JOKE
+Roland deserves to fall into the hands of an executor. We need to limit the number of clowns in our city. You are not a clown, are you?
+$DISC_INTR_001_B02_021_JUDGE_HUMI
+I believe that you are a man of reason, Citizen Côté. Listen to it telling you that you do not want to pay for Roland’s mistakes. And I do not want to make you pay for them.
+$DISC_INTR_001_B02_022_COTEY_SATI
+The way I see it, standing by Minister Roland equals death. I can see you are determined, so I will agree. You have found your witness.
+$DISC_INTR_001_B02_023_COTEY_INTR
+I will help you and testify against him. Let us see where this leads, but hopefully to my head staying on my neck – as you promised.
+$DISC_INTR_001_B02_024_COTEY_DOUB
+I must say that your words are not very convincing. I will help, but remember that I now know more about your plans.
+$DISC_INTR_001_B02_COTEY_TOPIC_01
+I want to get Roland.
+$DISC_INTR_001_B02_COTEY_TOPIC_02
+What will he get out of this?
+$DISC_INTR_001_B02_COTEY_TOPIC_03
+Carrot and stick.

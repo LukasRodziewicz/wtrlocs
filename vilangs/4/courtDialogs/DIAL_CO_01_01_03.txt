@@ -1,0 +1,18 @@
+$DIAL_CO_01_01_03_001_MENTOR
+Simoneau war ein guter, pflichtbewusster Beamter. Diese Bastarde haben ihn gelyncht, nur weil er dem Gesetz treu geblieben ist. Kommst du mit zum Marsch?
+$DIAL_CO_01_01_03_002_JUDGE
+Wir müssen zeigen, dass wir uns den selbsternannten Richtern entgegenstellen und an der Seite der Opfer stehen.
+$DIAL_CO_01_01_03_003_JUDGE
+Mich beschäftigen die Lebenden mehr, auch wenn ich zugebe, dass Simoneaus Tod entsetzlich war.
+$DIAL_CO_01_01_03_004_MENTOR
+Ich frage mich, warum der König sich die Mühe gemacht hat, persönlich zu erscheinen. Ludwig XVI. marschiert Seite an Seite mit dem Volk von Paris. Das ist… unerwartet.
+$DIAL_CO_01_01_03_005_MENTOR
+König Ludwig…
+$DIAL_CO_01_01_03_006_KING
+Bitte, fahren Sie fort, ich bin nur ein stiller Beobachter. Tun Sie so, als wäre ich gar nicht hier.
+$DIAL_CO_01_01_03_007_KING
+Ich habe einiges über einen jungen, ehrgeizigen Richter des Tribunals gehört. Da fragte ich mich, ob ihn die Gerechtigkeit leitet – oder doch eher, hm, das Vergnügen, wie manche behaupten.
+$DIAL_CO_01_01_03_LETTER
+Heute gedenkt das Volk von Paris Jacques Guillaume Simoneau, dem Bürgermeister von Étampes. Er wurde von einem wütenden Mob gelyncht, weil er seine Pflichten gegenüber Frankreich erfüllte. Dieser Marsch soll die Einheit unserer Gesellschaft und die Hoffnung darauf verkörpern, dass die gewalttätigste Phase der Revolution hinter uns liegt. Sorgen wir dafür, dass kein weiterer treuer Diener Frankreichs je wieder Opfer eines solchen Hasses wird!
+$DIAL_CO_01_01_03_LETTER_SENDER
+KÖNIG LUDWIG XVI

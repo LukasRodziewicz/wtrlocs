@@ -1,0 +1,273 @@
+$GEN_016_DOC_01_HEADER
+Zusammengestellt von: Bruno Merieles
+$GEN_016_DOC_01_00
+Auf der Anklagebank sitzt Hélène Gignac, eine 55-jährige Wäscherin aus Paris. Sie ist eine vorbildliche Ehefrau und Mutter, <a name="1" class="hidden">tief religiös</a>, und genießt sowohl bei ihren Nachbarn als auch bei ihren Kunden großes Ansehen.
+$GEN_016_DOC_01_01
+Ihr <a name="2" class="hidden">Ehemann</a> ist Tischler, besitzt seine Werkstatt seit vielen Jahren, und beide zahlen ihre Steuern stets pünktlich.
+$GEN_016_DOC_01_02
+Die Anklage wurde von Raymond Houllier erhoben, dem Besitzer einer Apotheke, in der die Angeklagte von Gendarmen bei einem versuchten Diebstahl festgenommen wurde. Gignac schlug das Schaufenster ein und versuchte, in das Geschäft einzudringen. Sie sagte aus, dass sie durch die Seifenknappheit und die unerschwinglichen Preise der verbliebenen Seife dazu gezwungen wurde.
+$GEN_016_DOC_01_03
+Sie schien <a name="4" class="hidden">verzweifelt</a> zu sein, so sehr, dass sie sich an den Scherben die Hände verletzte. Man fand sie weinend am Fenster sitzen. Die Gendarmen versorgten ihre Wunden und nahmen sie dann fest – wegen Vandalismus und versuchten Diebstahls. Wir vermuten, dass sie die gestohlenen Waren zur <a name="5" class="hidden">Spekulation</a> nutzen wollte, auch wenn es stimmt, dass in ihrer Wäscherei <a name="6" class="hidden">keine Seife</a> war.
+$GEN_016_DOC_01_04
+Raymond Houllier behauptet, dass Madame Gignac, als er aus seiner Wohnung über dem Laden herbeigeeilt kam, ein Glassplitter ergriff und ihn angriff. Warum sie das getan haben soll, wissen wir nicht. Houllier vermutet, dass sie durch den Vandalismus, den Diebstahl und den Angriff <a name="7" class="hidden">Rache nehmen</a> wollte, weil er ihr zuvor verweigert hatte, eine Schachtel Seife auf Kredit zu verkaufen.
+$GEN_016_DOC_01_05
+Beweis: 
+<a name="8" class="hidden">Blutbeflecktes Glas.</a>
+$GEN_016_OnStart_00
+Versuch, sie zu verstehen – es sind schwere Zeiten!
+$GEN_016_OnStart_01
+Wie ist Ihr Name?
+$GEN_016_OnStart_02
+Hélène Gignac. Ich bin eine einfache Wäscherin, die einfach nur arbeiten möchte. Ich wollte niemals jemandem schaden.
+$GEN_016_OnStart_03
+Sie würde keiner Fliege etwas zuleide tun!
+$GEN_016_OnStart_04
+Ich werde mich auf die Akten des Falls stützen, nicht auf die Bemerkungen des Publikums.
+$GEN_016_OnGuilty_00
+Ich verurteile Bürgerin Hélène Gignac zum Tod durch die Guillotine.
+$GEN_016_OnGuilty_01
+Hart, aber gerecht.
+$GEN_016_OnGuilty_02
+Das ist unmenschlich!
+$GEN_016_OnGuilty_03
+Wie können Sie eine unschuldige Frau töten?!
+$GEN_016_OnGuilty_04
+Ihr Ungeheuer!
+$GEN_016_OnPrison_00
+Ich verurteile Bürgerin Hélène Gignac zu Haft. Führt sie ab!
+$GEN_016_OnPrison_01
+Das wird ihr zeigen, wie man Probleme besser nicht löst.
+$GEN_016_OnPrison_02
+Arme Frau.
+$GEN_016_OnPrison_03
+Hoffen wir, dass sie im Gefängnis überlebt.
+$GEN_016_OnPrison_04
+Die Gefängnisse sind voller Unschuldiger!
+$GEN_016_OnNotGuilty_00
+Ich spreche Bürgerin Hélène Gignac frei. Sie dürfen gehen.
+$GEN_016_OnNotGuilty_01
+Ich verstehe, dass Sie mit dem Volk mitfühlen, aber sie war schuldig.
+$GEN_016_OnNotGuilty_02
+Hurra!
+$GEN_016_OnNotGuilty_03
+Endlich ein Richter mit Mitgefühl!
+$GEN_016_OnNotGuilty_04
+Wir brauchen mehr Richter wie ihn!
+$GEN_016_01x03_00_QTitle
+Ich habe gehört, Sie sind gläubig.
+$GEN_016_01x03_00_00
+Ich habe gehört, Sie seien gläubig. Doch ich erkenne keinen Zusammenhang zwischen Ihrer Tat und den Zehn Geboten.
+$GEN_016_01x03_00_01
+Mein Mann und ich kommen kaum über die Runden. Ich habe Monsieur Raymond um ein Darlehen gebeten, aber er hat abgelehnt. Ich wollte einfach nur weiterarbeiten und habe ihm versprochen, es zurückzuzahlen.
+$GEN_016_01x03_00_02
+Und Raub war also die Lösung?
+$GEN_016_01x03_00_03
+Nein, aber an Hunger zu sterben war es auch nicht.
+$GEN_016_01x03_00_04
+Wollen Sie etwa behaupten, dass Sie an Seifenmangel sterben würden? Ihr Mann arbeitet doch auch.
+$GEN_016_01x03_00_05
+Er ist Tischler, und auch Holz ist derzeit schwer zu bekommen.
+$GEN_016_01x03_00_06
+Sie hätten den Beruf wechseln, Ihre Familie oder die Behörden um Hilfe bitten können… aber Sie haben es vorgezogen zu stehlen?
+$GEN_016_01x03_00_07
+Die Behörden helfen nur sich selbst.
+$GEN_016_01x03_00_08
+Warum suchst du dir nicht einen anderen Beruf?!
+$GEN_016_01x04_01_QTitle
+Können Sie Ihr Verhalten erklären?
+$GEN_016_01x04_01_00
+Können Sie Ihr Verhalten erklären?
+$GEN_016_01x04_01_01
+Kunden kommen zu mir, aber ohne Seife kann ich nicht arbeiten, also gehen sie woanders hin. Die Wäscherei ist mein ganzes Leben, und ich habe schon einmal bittere Armut erlebt. Dank der Wäscherei konnte ich mit Würde leben.
+$GEN_016_01x04_01_02
+Wie würdevoll war dieser Angriff?
+$GEN_016_01x04_01_03
+Ich wollte wirklich nicht, dass es so kommt.
+$GEN_016_01x04_01_04
+Du wolltest also einfach nur stehlen?
+$GEN_016_01x04_01_05
+Ich wollte mir wenigstens Brot leisten können.
+$GEN_016_01x04_01_06
+Die Revolution sollte doch alles besser machen!
+$GEN_016_01x04_01_07
+Das ist keine Entschuldigung. Auch der Ladenbesitzer möchte sich Brot leisten können.
+$GEN_016_01x04_01_08
+Ich wollte ihm doch gar nicht viel wegnehmen. Außerdem geht es ihm viel besser als den meisten von uns.
+$GEN_016_03x05_02_QTitle
+Wissen Sie, dass das Gesetz auf Spekulation die Todesstrafe vorsieht?
+$GEN_016_03x05_02_00
+Wissen Sie, dass das Gesetz auf Spekulation die Todesstrafe vorsieht?
+$GEN_016_03x05_02_01
+Ja, ich weiß, ich brauchte die Seife nur für–
+$GEN_016_03x05_02_02
+Für die Arbeit, ja. Doch in Ihrer Lage wäre Spekulation weitaus lukrativer gewesen. Sie hätten die gestohlene Seife verkaufen und einen viel höheren Preis verlangen können. Früher oder später hätten Sie einen Käufer gefunden.
+$GEN_016_03x05_02_03
+Seife ist doch nicht so teuer.
+$GEN_016_03x05_02_04
+Wirklich? Du hast doch selbst gesehen, wie schwer es war, das zu bekommen. Wenn du bereit warst, es zu stehlen, hätte dir jemand anderes sicher Geld dafür geboten.
+$GEN_016_03x05_02_05
+Und wo sollte ich so einen Käufer finden? Ich kenne doch niemanden. Sie haben selbst gesehen, dass es bei mir zu Hause nichts gibt. Der Mann in Uniform hat alles gründlich durchsucht.
+$GEN_016_03x05_02_06
+Die denken sich doch ihre Spekulationen aus – die wissen gar nicht, wie wir leben!
+$GEN_016_03x06_03_QTitle
+Wo haben Sie früher Seife gekauft?
+$GEN_016_03x06_03_00
+Wo haben Sie früher Seife gekauft?
+$GEN_016_03x06_03_01
+Immer am selben Ort, in einem Lagerhaus am Stadtrand.
+$GEN_016_03x06_03_02
+Nicht von Bürger Houllier?
+$GEN_016_03x06_03_03
+Im Lager war es viel günstiger. Mein Mann und ich haben immer eine ganze Kiste gekauft, weil sie länger gehalten hat.
+$GEN_016_03x06_03_04
+Warum sind Sie dieses Mal nicht zu diesem Lagerhaus gegangen?
+$GEN_016_03x06_03_05
+Ich war dort, aber sie hatten nichts zu verkaufen. Was hätte ich denn tun sollen? Außerdem habe ich am Ende doch nichts gestohlen…
+$GEN_016_03x06_03_06
+Weil man Sie erwischt hat.
+$GEN_016_03x06_03_07
+Ja, aber die Seife wurde nicht angerührt. Worin liegt meine Schuld?
+$GEN_016_03x06_03_08
+So funktioniert das Gesetz nicht, Bürger.
+$GEN_016_07x08_04_QTitle
+Herr Houllier behauptet, Sie hätten ihn mit einer Glasscherbe angegriffen. Stimmt das?
+$GEN_016_07x08_04_00
+Herr Houllier behauptet, Sie hätten ihn mit einer Glasscherbe angegriffen. Stimmt das?
+$GEN_016_07x08_04_01
+Ich wollte ihn bitten, keine Anklage zu erheben. Ich lief zu ihm, bereit zu flehen, doch er stieß mich von sich…
+$GEN_016_07x08_04_02
+Sie wollten ihn bitten, keine Anzeige zu erstatten, während Sie ein scharfes Glasstück in der Hand hielten?
+$GEN_016_07x08_04_03
+Es ist einfach passiert...
+$GEN_016_07x08_04_04
+Sie sind also auf eine andere Person zugelaufen, blutverschmiert und mit einem scharfen Gegenstand in der Hand?
+$GEN_016_07x08_04_05
+Es könnte so wirken...
+$GEN_016_07x08_04_06
+Komm schon, es ist doch nur eine alte Frau.
+$GEN_016_07x08_04_07
+Herr Houllier behauptet, es habe sich um einen versuchten Übergriff gehandelt. Er deutete sogar an, es könne sich um einen Racheakt handeln.
+$GEN_016_07x08_04_08
+Ganz und gar nicht! Ich habe gar nicht bemerkt, dass ich das Glasscherbenstück in der Hand hatte. Ich war völlig schockiert, überall war Blut.
+$GEN_016_02x04_05_QTitle
+Und wie stand es um die Unterstützung Ihres Mannes? Ist ihm Ihr… nicht aufgefallen?
+$GEN_016_02x04_05_00
+Und wie stand es um die Unterstützung Ihres Mannes? Hat er Ihren geschwächten Zustand nicht bemerkt oder geahnt, dass Sie zu einer Verzweiflungstat fähig wären?
+$GEN_016_02x04_05_01
+Seitdem die Wäscherei geschlossen ist, muss er doppelt so hart arbeiten.
+$GEN_016_02x04_05_02
+Glauben Sie nicht, dass er sich jetzt noch mehr Sorgen machen wird?
+$GEN_016_02x04_05_03
+Ich musste etwas tun! Nach allem, was er für mich getan hat, konnte ich einfach nicht mehr zusehen, wie er Tag für Tag noch erschöpfter wurde.
+$GEN_016_02x04_05_04
+Lasst sie in Ruhe! Es gibt genug echte Verbrecher.
+$GEN_016_04x06_06_QTitle
+Sind Sie sicher, dass Sie da nicht übertreiben…?
+$GEN_016_04x06_06_00
+Sind Sie sicher, dass Sie nicht übertreiben? Die Lieferungen wären früher oder später zurückgekehrt und die Preise hätten sich stabilisiert. Vielleicht hätten Sie mehr Geduld haben sollen?
+$GEN_016_04x06_06_01
+Mag sein, aber ich bin eine einfache Frau und versuche, Probleme so schnell wie möglich zu lösen.
+$GEN_016_04x06_06_02
+Haben Sie gerade zugegeben, dass Sie die Folgen nicht bedacht haben, weil Sie nicht nachgedacht haben? Warum nennen Sie es nicht beim Namen? Dummheit.
+$GEN_016_04x06_06_03
+Das ist schon ein bisschen zu viel, findest du nicht?
+$GEN_016_04x06_06_04
+Ich spreche in einfachen Worten, wenn ich mit einfachen Leuten rede.
+$GEN_016_04x06_06_05
+Für wen halten die uns eigentlich?
+$GEN_016_08x03_07_QTitle
+Bitten Sie Herrn Raymond Houllier herein.
+$GEN_016_08x03_07_00
+Rufen Sie Herrn Raymond Houllier herein.
+$GEN_016_08x03_07_02
+Kennen Sie die Angeklagte? Hat sie früher etwas in Ihrem Laden gekauft?
+$GEN_016_08x03_07_03
+Nein, ich hatte sie bis vor Kurzem noch nie gesehen.
+$GEN_016_08x03_07_04
+Beschreiben Sie, wie Sie sich zum ersten Mal begegnet sind.
+$GEN_016_08x03_07_05
+Sie wollte Seife kaufen, hatte aber kein Geld.
+$GEN_016_08x03_07_06
+Was haben Sie unternommen?
+$GEN_016_08x03_07_07
+Ich habe ihr gesagt, sie soll gehen! Wir alle haben unsere Sorgen, und mir hilft auch niemand.
+$GEN_016_08x03_07_08
+Hat sie Ihnen versprochen, das Geld zurückzuzahlen?
+$GEN_016_08x03_07_09
+Ja, aber warum sollte ich ihr glauben? Ich kannte sie nicht, und sie hatte vorher nie bei mir eingekauft. Nur meinen Stammkunden gebe ich etwas auf Kredit.
+$GEN_016_WIT_00_A_QTitle
+Wie würden Sie das Verhalten von Bürger Gignac an jenem Tag beschreiben?
+$GEN_016_WIT_00_A_00
+Wie würden Sie das Verhalten von Bürgerin Gignac an jenem Tag beschreiben?
+$GEN_016_WIT_00_A_01
+Sie hat mein Fenster eingeschlagen und versucht, mich mit einer Glasscherbe zu erstechen. Was gibt es da noch zu beschreiben?
+$GEN_016_WIT_00_A_02
+Beantworten Sie die Frage.
+$GEN_016_WIT_00_A_03
+Sie war außer sich vor Wut und suchte nach Rache.
+$GEN_016_WIT_00_A_04
+Vielleicht hatte sie gar nicht vor, Sie anzugreifen?
+$GEN_016_WIT_00_A_05
+Warum sollte sie dann mit einem Glassplitter auf mich zustürmen?
+$GEN_016_WIT_00_B_QTitle
+Hat Madame Gignac etwas gesagt, als sie, wie Sie es ausdrücken, versucht hat, Sie mit einem Glassplitter zu erstechen?
+$GEN_016_WIT_00_B_00
+Hat Madame Gignac etwas gesagt, als sie, wie Sie es ausdrücken, versucht hat, Sie mit einem Glassplitter zu erstechen?
+$GEN_016_WIT_00_B_01
+Nichts Konkretes, nur Jammern, Weinen, Schreien…
+$GEN_016_WIT_00_B_02
+Haben Sie aus ihren Worten irgendetwas verstanden, das Sie wiedergeben könnten?
+$GEN_016_WIT_00_B_03
+Nein, das war nur das wirre Gemurmel einer Wahnsinnigen, weiter nichts.
+$GEN_016_WIT_00_B_04
+Haben Sie sie überwältigt?
+$GEN_016_WIT_00_B_05
+So könnte man es sagen.
+$GEN_016_WIT_00_B_06
+Er hat eine alte Frau verprügelt.
+$GEN_016_WIT_00_B_07
+Haben Sie danach noch mit ihr gesprochen?
+$GEN_016_WIT_00_B_08
+Nein, sie hat den ganzen Weg zur Wache geweint.
+$GEN_016_KEY_01
+Fromme Frau
+$GEN_016_KEY_02
+Ehemann
+$GEN_016_KEY_03
+Versuchter Diebstahl
+$GEN_016_KEY_04
+Verzweiflung
+$GEN_016_KEY_05
+Seifenspekulation
+$GEN_016_KEY_06
+Seifenmangel
+$GEN_016_KEY_07
+Rache
+$GEN_016_KEY_08
+Blutbeflecktes Glas
+$GEN_016_LastDialog_00
+Oh Gott, warum nur? Was wird aus meiner Wäscherei? Wir haben doch gerade erst aufgehört, wie Tiere zu leben…
+$GEN_016_UNIQUE_QUESTION_00
+Hat die Angeklagte versucht, Seife zu kaufen?
+$GEN_016_UNIQUE_ANSWER_CORRECT_00_00
+Ja, aber sie hatte nicht genug Geld.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ja, aber Houllier weigerte sich, es zu verkaufen.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Nein, sie kam, um es zu stehlen.
+$GEN_016_UNIQUE_QUESTION_01
+Ist die Wäscherei die einzige Einkommensquelle der Familie der Angeklagten?
+$GEN_016_UNIQUE_ANSWER_CORRECT_01_00
+Nein, ihr Mann ist Tischler.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Nein, ihr Sohn dient in der Armee.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ja, sonst arbeitet niemand in ihrer Familie.
+$GEN_016_UNIQUE_QUESTION_02
+Hat der Angeklagte während des Angriffs etwas zum Opfer gesagt?
+$GEN_016_UNIQUE_ANSWER_CORRECT_02_00
+Nein, sie hat nur etwas Unverständliches gerufen.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ja, sie sagte, sie würde ihn töten.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Sie befahl ihm, ihr die Seife zu geben.

@@ -1,0 +1,16 @@
+$DIAL_CO_01_03_20_001_MENTOR
+Wie fühlst du dich? Du warst noch nicht ganz bei dir, als ich dich besucht habe.
+$DIAL_CO_01_03_20_002_JUDGE
+Die Wunden sind noch nicht ganz verheilt, aber ich dachte, es wäre trotzdem gut, zur Arbeit zu erscheinen.
+$DIAL_CO_01_03_20_003_MENTOR
+Ja… Hör zu, ich muss mit dir reden. Ich glaube, ich sollte es tun. Hat dein Vater dir jemals erzählt, wie genau dein Bruder dem Galgen entkommen ist und an die Front geschickt wurde?
+$DIAL_CO_01_03_20_004_JUDGE
+Ich habe gefragt, aber… Alles, was ich bekam, war Schweigen.
+$DIAL_CO_01_03_20_005_MENTOR
+Ich wurde mit seinem Fall betraut.
+$DIAL_CO_01_03_20_006_MENTOR
+Später erfuhren wir, dass Bruno sich gemeldet hatte und an der Front gefallen ist. Was ich damit sagen will…
+$DIAL_CO_01_03_20_007_JUDGE
+Was denn…?
+$DIAL_CO_01_03_20_008_MENTOR
+Dein Bruder ist trotzdem gestorben, obwohl ich ihm Gnade erwiesen habe. Doch das bedeutet nicht, dass diese Gnade umsonst war. Denk daran, wenn du deine Feinde jagst.

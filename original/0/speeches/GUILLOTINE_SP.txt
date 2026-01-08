@@ -1,0 +1,90 @@
+$G_SP_TOPIC_01
+Zbrodnia
+$G_SP_TOPIC_02
+Oskarżony
+$G_SP_TOPIC_03
+Rewolucja
+
+$G_SP_01_AGGR_01
+Bezprawie musimy zmiażdżyć brutalną siłą naszej prawdy. Nie możemy się cofnąć, ani kroku!
+$G_SP_01_AGGR_02
+Za tak ohydny występek należałyby się tortury! Gilotyna to prawie jak akt łaski! Potorturować go?!
+$G_SP_01_AGGR_03
+Tam gdzie jest zbrodnia, musi być też kara! I wymierzymy ją, oj tak - nawet przodkowie skazańca poczują na swoich kościach ostrze gilotyny!
+
+$G_SP_01_MANI_01
+Kolejne pokolenia będą pamiętać, że nie byliśmy tchórzami! Zapamiętają, że potrafimy karać za takie ohydne zbrodnie!
+$G_SP_01_MANI_02
+Wyłącznie do siebie może mieć pretensje osoba, która przekroczyła granice rysowane przez rewolucyjne prawo! Wyłącznie do siebie.
+$G_SP_01_MANI_03
+W zbrodni nie ma szarości - jest tylko wina lub niewinność!
+
+$G_SP_01_JOKE_01
+Szybko, Kostucha chciałaby omówić z oskarżonym szczegóły jego okropnej zbrodni!
+$G_SP_01_JOKE_02
+Dla tego tu skazańca zbrodnia była jak splunięcie. To jak gilotynowanie dla nas!
+$G_SP_01_JOKE_03
+Skazaniec był ciekaw jak smakuje zbrodnia. Teraz dostanie w podzięce deser!
+
+$G_SP_01_HUMI_01
+Temida przemówiła głosem ludu, który woła: Sprawiedliwości! Wysłuchamy żądania!
+$G_SP_01_HUMI_02
+Jako sędzia wykonuję jedynie wolę republiki.
+$G_SP_01_HUMI_03
+Jako naród potrafimy być litościwi, ale pamiętajmy, że została popełniona okropna zbrodnia.
+
+$G_SP_02_AGGR_01
+Mordercy, oszuści i zdrajcy - musicie ich usunąć, inaczej poleje się krew niewinnych!
+$G_SP_02_AGGR_02
+Odetnijmy głowę kolejnemu potworowi, który żywił się niesprawiedliwością!
+$G_SP_02_AGGR_03
+Ta osoba splunęła w twarze wasze i Temidy. To zniewaga, której Sprawiedliwość nie toleruje!
+
+$G_SP_02_MANI_01
+Przestępcy łamiąc prawo chcą powrotu starego układu! Są jego obrońcami!
+$G_SP_02_MANI_02
+Czy pozwolicie by przestępcy mówili wam, co macie robić?
+$G_SP_02_MANI_03
+Nie słuchajcie kiedy mówią, że nie umiecie czytać. Słuchajcie, kiedy będą błagać na gilotynie!
+
+$G_SP_02_JOKE_01
+Chodźcie, pozwolimy straceńcowi pomówić z gilotyną!
+$G_SP_02_JOKE_02
+Dzisiaj na scenie skazaniec, który, oczywiście, jest niewinny! Jak każdy!
+$G_SP_02_JOKE_03
+Gromkie brawa dla człowieka w przedstawieniu pt. “Zabili go za niewinność”!
+
+$G_SP_02_HUMI_02
+Nie płaczemy tylko nad ofiarami, ale też nad duszą skazańca. Nie możemy jednak okazać słabości ze względu na współczucie.
+$G_SP_02_HUMI_03
+Miejsce zbrodniarzy jest w grobie - tylko tak zbudujemy lepszy świat!
+$G_SP_02_HUMI_04
+Tym wyrokiem czynimy ulice bezpieczniejsze. Żal mi nie tego, którego ścinamy, ale nas, którzy przez niego cierpimy!
+
+$G_SP_03_AGGR_01
+Zdobyliście władzę we Francji. Przelejcie krew tych, którzy zagrażają republice!
+$G_SP_03_AGGR_02
+Przestępcy myślą, że skoro jesteśmy tolerancyjni, to jesteśmy słabi! Dość pobłażania!
+$G_SP_03_AGGR_03
+Tylko śmierć dla elementów wrogich Francji!
+
+$G_SP_03_MANI_01
+Nie jesteśmy godni wywalczonej wolności, jeśli pozwolimy starym układom i zmurszałej moralności funkcjonować!
+$G_SP_03_MANI_02
+Interesy poprzedniej władzy, które miały utrzymać w kraju bezprawie, kończą się wraz z wyrokiem śmierci.
+$G_SP_03_MANI_04
+Kolejne pokolenia będą pamiętać, że nie byliśmy tchórzami! Trzeba to zrobić, koniec!
+
+$G_SP_03_JOKE_01
+Czy ktoś widział kata? Szukajcie tego pijaka, inaczej będę musiał zatrudnić kogoś z was!
+$G_SP_03_JOKE_02
+Tnijmy, bo nam spada ekspozycja!
+$G_SP_03_JOKE_03
+Zabijmy to ścierwo i chodźmy w końcu coś zjeść!
+
+$G_SP_03_HUMI_01
+To wy, lud, sprawujecie tutaj władzę.
+$G_SP_03_HUMI_02
+Obywatele, trzeba szybko wrócić do pracy i budować nową Francję! Chodźmy!
+$G_SP_03_HUMI_04
+Stary układ musi klęknąć u waszych stóp. Nie ma innej drogi, jesteście suwerenem.

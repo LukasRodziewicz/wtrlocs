@@ -1,0 +1,31 @@
+$DIAL_H_01_02_18_001_JUDGE
+Jak poznałeś Bruno, mojego brata?
+$DIAL_H_01_02_18_002_SPY
+Służyliśmy w tej samej brygadzie. To jemu zawdzięczam życie – wyciągnął mnie rannego z pola bitwy, samemu narażając się na śmierć, która go w końcu dosięgła.
+$DIAL_H_01_02_18_003_WIFE
+Za dużo czasu poświęciliśmy temu człowiekowi – i w opowieściach, i we wspomnieniach.
+$DIAL_H_01_02_18_004_JUDGE
+Chcę wiedzieć…
+$DIAL_H_01_02_18_005_GRANDFATHER
+Ja również.
+$DIAL_H_01_02_18_006_SPY
+Zabiła go zabłąkana kula. Nie miałem okazji mu podziękować za uratowanie życia. Ale mogę powiedzieć, że byliśmy przyjaciółmi…
+$DIAL_H_01_02_18_007_SPY
+Twój brat wyciągnął mnie spod trupów i próbował wynieść poza obszar walk. Jednak tuż przy linii drzew zabłąkana kula trafiła go w plecy.
+$DIAL_H_01_02_18_008_SPY
+Umarł szybko, a ja… zdezerterowałem. Pomyślałem, że złożę podziękowania na twoje ręce, że czynami wyrównam rachunek życia.
+$DIAL_H_01_02_18_009_JUDGE
+Czyli Bruno odkupił swoje grzechy.
+$DIAL_H_01_02_18_010_GRANDFATHER
+Mój syn...
+$DIAL_H_01_02_18_011_SPY
+Często powtarzał: „Liczy się tylko on. Tylko Alexis”. Najwidoczniej byłeś dla niego ważny.
+
+$DIAL_H_01_02_18_BATTLEROUND_1
+Straż tylna naszych wojsk starła się z wrogiem i przegrała. Przeciwnik wdarł się do obozu, gdzie opatrywano nas, rannych. Musieliśmy chwycić za broń.
+$DIAL_H_01_02_18_BATTLEROUND_2
+Twój brat walczył jak szalony. Ludzie gromadzili się wokół niego.
+$DIAL_H_01_02_18_BATTLEROUND_3
+Wierzyliśmy, że ktoś gna w naszą stronę z odsieczą. Wiedzieliśmy, że nie zdążą…
+$DIAL_H_01_02_18_BATTLEROUND_4
+Przebił mnie bagnet. Wykrwawiałem się, a moi przyjaciele padali od kul jeden za drugim.

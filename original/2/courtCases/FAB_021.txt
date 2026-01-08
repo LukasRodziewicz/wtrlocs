@@ -1,0 +1,160 @@
+$FAB_021_DOC_01_HEADER
+Compilé par : Fabrice Poli
+$FAB_021_DOC_01_00
+L'accusée… eh bien, tu la connais très bien, Monsieur le juge, et tu sais parfaitement ce dont elle est accusée, mais il est de mon devoir de clerc de continuer, par rigueur. Elle est accusée de tentative de meurtre. 
+$FAB_021_DOC_01_01
+Hier, Mathilde Fidèle a utilisé un <a name="2" class="hidden">couteau de cuisine</a> pour poignarder son mari, le juge Alexis Fidèle, à l'entrée du Tribunal révolutionnaire. D'après les témoins, elle a été immédiatement maîtrisée sans trop de problèmes, car elle a jeté l'arme par terre et n'a <a name="3" class="hidden">offert aucune résistance</a>.
+$FAB_021_DOC_01_02
+Je dois malheureusement enregistrer une information supplémentaire. Il semblerait que l'accusée avait une <a name="4" class="hidden">relation extra-conjugale</a> avec l'ancien Commandant en chef de la Garde nationale, François Hanriot. J'ai pu déterminer qu'ils ont été vus ensemble plusieurs fois après qu'il a candidaté au poste de Commandant en chef. Lorsque nous avons fouillé les appartements de Hanriot après sa mort, nous avons trouvé des lettres suggérant une liaison avec une femme mariée. Celles-ci ne contenaient aucun nom. Il n'a donc pas été facile d'identifier qui était la maîtresse du Commandant, mais nous n'avons maintenant plus de doutes. Un motif probable du meurtre est ainsi révélé : comme nous le savons, Hanriot a été tué <a name="5" class="hidden">en défendant Robespierre</a> contre nos troupes.
+$FAB_021_DOC_01_03
+Quant aux autres rumeurs concernant les <a name="6" class="hidden">relations au sein de votre famille</a>, je ne les nommerai pas, car tu en sais sans doute plus que moi sur leur vérité ou non.
+$FAB_021_OnStart_00
+La parole est donnée à l'accusée pour se présenter.
+$FAB_021_OnStart_01
+Ne blague pas. Tu sais qui je suis.
+$FAB_021_OnStart_02
+Je ne suis pas d'humeur à blaguer. Parle distinctement.
+$FAB_021_OnStart_03
+Mathilde Fidèle, la femme du juge qui préside ce procès. Ça va, tu es content ?
+$FAB_021_OnGuilty_00
+Il ne peut y avoir d'autre verdict… Elle est coupable. Je suis désolé, Mathilde.
+$FAB_021_OnGuilty_01
+Allons vite à la guillotine, alors.
+$FAB_021_OnGuilty_02
+Quel mélodrame.
+$FAB_021_OnGuilty_03
+Il est prêt à guillotiner sa propre femme ?
+$FAB_021_OnNotGuilty_00
+Laissez-la partir. Libérez ma femme.
+$FAB_021_OnNotGuilty_01
+Ce n'est pas la première fois que tu enfreins la loi selon tes envies. C'est une habitude chez toi, n'est-ce pas ?
+$FAB_021_OnNotGuilty_02
+Je ne peux pas répondre à ça… j'en suis simplement incapable.
+$FAB_021_OnNotGuilty_03
+Il lui a pardonné ?
+$FAB_021_01x03_00_QTitle
+Pourquoi étais-tu si calme lors de ton arrestation ?
+$FAB_021_01x03_00_00
+Pourquoi étais-tu si calme lors de ton arrestation ?
+$FAB_021_01x03_00_01
+Je t'ai poignardé en public. Comment aurais-je pu m'échapper ?
+$FAB_021_01x03_00_02
+C'est vrai. Tu as poignardé ton propre mari. Cela ne te fait donc rien ?
+$FAB_021_01x03_00_03
+La seule chose que je ressens en voyant mon mari, c'est de la nausée. Cela fait longtemps que c'est le cas.
+$FAB_021_01x03_00_04
+Tu ne ressens donc aucun remords, aucune mauvaise conscience ?
+$FAB_021_01x03_00_05
+Mon seul regret, c'est de ne pas l'avoir poignardé comme il faut.
+$FAB_021_01x03_00_06
+Un vrai monstre.
+$FAB_021_01x03_00_07
+Et tu oses me dire ça en face ?
+$FAB_021_01x03_00_08
+Tu mérites de mourir. Qui d'autre pourrait te le dire ?
+$FAB_021_01x04_01_QTitle
+Est-ce que ta liaison adultère était la raison de cette attaque ?
+$FAB_021_01x04_01_00
+Est-ce que ta liaison adultère était la raison de cette attaque ?
+$FAB_021_01x04_01_01
+Tu ne sais vraiment rien sur ta propre famille.
+$FAB_021_01x04_01_02
+Réponds !
+$FAB_021_01x04_01_03
+Calme-toi, Antoine.
+$FAB_021_01x04_01_04
+Ma liaison n'était pas la raison. Ce sont les tiennes. Tes liaisons adultères avec des femmes, avec le pouvoir, avec l'argent et l'alcool. Tu n'as jamais pu les cacher, et tu n'as jamais voulu les abandonner.
+$FAB_021_01x04_01_05
+Il n'y a pas eu de liaisons adultères !
+$FAB_021_01x04_01_06
+Ah non ? Et ta soif de pouvoir ? C'est lui que tu désires plus que tout ! Combien de personnes as-tu tuées pour l'obtenir ?
+$FAB_021_01x04_01_07
+Tu insinues…
+$FAB_021_01x04_01_08
+Je n'insinue rien, j'affirme. Ta soif de pouvoir a poussé notre famille au bord du gouffre, et tu oses parler de ma liaison ?
+$FAB_021_04x05_02_QTitle
+Combien de temps a duré ta liaison adultère ?
+$FAB_021_04x05_02_00
+Combien de temps a duré ta liaison adultère ?
+$FAB_021_04x05_02_01
+Depuis que Hanriot est venu te demander de soutenir sa candidature au poste de Commandant en chef. Un certain temps, donc.
+$FAB_021_04x05_02_02
+Comment as-tu réussi à la garder secrète tout ce temps ?
+$FAB_021_04x05_02_03
+Mon mari était aveuglé par les splendeurs qui l'entouraient, par les conflits et les effusions de sang. Il n'en avait plus rien à faire de…
+$FAB_021_04x05_02_04
+Je ne pensais pas devoir surveiller ma propre femme.
+$FAB_021_04x05_02_05
+Et je ne pensais pas devoir tuer mon mari pour m'en débarrasser. Me donner à un autre n'a rien changé, car tu ne t'en es même pas rendu compte ! Au moins tu as fini par remarquer quelque chose quand j'ai enfoncé ce couteau entre tes côtes.
+$FAB_021_02x06_03_QTitle
+Comment as-tu choisi l'arme ?
+$FAB_021_02x06_03_00
+Comment as-tu choisi l'arme ?
+$FAB_021_02x06_03_01
+Je n'ai pas réfléchi longtemps. Il me fallait quelque chose de pointu et d'efficace, que je pouvais facilement trouver en cas de besoin.
+$FAB_021_02x06_03_02
+Tu parles de tout cela sans aucune émotion…
+$FAB_021_02x06_03_03
+À quoi t'attendais-tu ? Tu voulais prendre les décisions, mais lesquelles ? Tu es maintenant au-dessus de tout le monde, et on t'a donné la possibilité de choisir qui vit et qui meurt, mais tu ne veux pas en souffrir les conséquences, à l'inverse de nous tous.
+$FAB_021_02x06_03_04
+Cela t'a presque transformé en Dieu, car Il est le seul libre du fardeau de Ses choix… mais tu es humain. Tu veux un traitement de faveur, et pourtant tu n'es qu'un homme parmi d'autres. Qu'est-ce qui te laisse à penser que tu es plus important que ceux qui t'ont aidé à t'élever ?
+$FAB_021_02x06_03_05
+De qui parles-tu ?
+$FAB_021_02x06_03_06
+Ton envie aveugle de pouvoir décider t'a englué dans leurs pièges, mais t'a rendu nécessaire à la perfection de leurs plans. Tu veux le pouvoir, tu veux être le premier, et pourtant on n'obtient que ce que l'on sème.
+$FAB_021_02x06_03_07
+Cette haine est imparable. Ses divagations prouvent bien que cette femme est devenue folle.
+$FAB_021_04x06_04_QTitle
+Quand tu as eu une liaison adultère, as-tu considéré les conséquences que cela aurait pour ta famille ?
+$FAB_021_04x06_04_00
+Quand tu as eu une liaison adultère, as-tu considéré les conséquences que cela aurait pour ta famille ?
+$FAB_021_04x06_04_01
+J'espérais bien que cela aurait des conséquences. J'espérais que mon mari disparaisse, qu'il parte, et que ma famille survive, du moins en partie.
+$FAB_021_04x06_04_02
+De ce que j'en sais, tu as encore cet espoir.
+$FAB_021_04x06_04_03
+De ce que tu sais. Je ne me voile plus la face. Je serai bientôt morte, et si ma famille s'effondre ce ne sera plus mon problème.
+$FAB_021_04x06_04_04
+Plus ton problème ? Comment peux-tu dire ça ? Tu es mère…
+$FAB_021_04x06_04_05
+Ne t'avise pas de… non ! Une mère ?! Un de mes fils a été pendu et l'autre ne se remettra jamais d’avoir été enchaîné à une chaise de torture. Tout ça pour quoi ? À cause de ta soif de pouvoir. C'est de ta faute ! C'est toi qui en es responsable !
+$FAB_021_04x06_04_06
+Tais-toi…
+$FAB_021_04x06_04_07
+J'ai été obligée d'assister à tout ça et de l'accepter, car je ne pouvais pas l'arrêter. Tu as joué avec nos vies ! Ce couteau dans ton ventre, c'est la première fois que j'ai eu la chance de pouvoir changer les choses.
+$FAB_021_06x05_05_QTitle
+Comment as-tu réagi à la mort du traître Hanriot ?
+$FAB_021_06x05_05_00
+Comment as-tu réagi à la mort du traître Hanriot ?
+$FAB_021_06x05_05_01
+…
+$FAB_021_06x05_05_02
+Tu ne comprends pas la question ?
+$FAB_021_06x05_05_03
+Je l'ai mal pris, mais le pire était de dormir dans le même lit que l'homme responsable de sa mort, mon propre mari.
+$FAB_021_06x05_05_04
+Hanriot a trahi la France.
+$FAB_021_06x05_05_05
+Autant que le juge de ce tribunal a trahi sa famille, c'est à dire à maintes reprises.
+$FAB_021_06x05_05_06
+Tu as toujours été la chose la plus importante pour moi !
+$FAB_021_06x05_05_07
+Et maintenant tu te trahis toi-même. Tu sais très bien que le pouvoir est un piédestal. C'est comme ça qu'ils t'ont acheté ? Obtiens le pouvoir à Paris ! Rends des verdicts ! Ils ont oublié de mentionner ta famille ?
+$FAB_021_06x05_05_08
+Ils l'ont oublié…
+$FAB_021_06x05_05_09
+Je parie que tu n'as pas entendu correctement, alors, parce que ta famille vient d'imploser.
+$FAB_021_KEY_01
+Tentative de meurtre
+$FAB_021_KEY_02
+Arme
+$FAB_021_KEY_03
+Pas de résistance lors de l'arrestation
+$FAB_021_KEY_04
+Relation extra-conjugale de l'accusée
+$FAB_021_KEY_05
+Mort de son amant
+$FAB_021_KEY_06
+Relations au sein de la famille
+$FAB_021_LastDialog_00
+Je vais rejoindre mon fils au paradis. Au moins, je suis sûre que nous ne te reverrons pas là-bas.

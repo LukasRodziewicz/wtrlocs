@@ -1,0 +1,30 @@
+$DIAL_H_02_01_02_001_JUDGE
+Desde que te conheço, nunca foi de conversar à toa.
+$DIAL_H_02_01_02_002_RAMEL
+Acredito que ações falam mais alto do que palavras.
+$DIAL_H_02_01_02_003_JUDGE
+O que as nossas ações dizem sobre nós dois?
+$DIAL_H_02_01_02_004_RAMEL
+Que não deixamos que outros controlem nossas vidas. Nós somos os donos do nosso próprio destino.
+$DIAL_H_02_01_02_005_JUDGE
+Poderia ao menos dizer de onde você é?
+$DIAL_H_02_01_02_006_RAMEL
+Posso lhe dizer que, assim como seu irmão Bruno, também passei um tempo vivendo nas ruas. Meu meio-irmão mais velho me expulsou de casa e, ainda assim... sinto falta dele.
+$DIAL_H_02_01_02_007_JUDGE
+Sinto muito.
+$DIAL_H_02_01_02_008_RAMEL
+Não deveria se preocupar. Pelo menos agora tenho força suficiente para agir. É por isso que estou lhe entregando a cabeça do arcebispo Gobel em uma bandeja.
+$DIAL_H_02_01_02_009_JUDGE
+Por quê?
+$DIAL_H_02_01_02_010_RAMEL
+Porque foi ele quem planejou a morte do seu filho, e eu descobri seu segredo mais profundo.
+$DIAL_H_02_01_02_011_JUDGE
+Por que Gobel me atacou?
+$DIAL_H_02_01_02_012_RAMEL
+Você lidou com os Rolands e quase fez o mesmo com Pache.
+$DIAL_H_02_01_02_013_RAMEL
+Eles estavam ligados, então ele provavelmente achou que seria seu próximo alvo e decidiu lhe enviar um recado.
+$DIAL_H_02_01_02_014_JUDGE
+Agora é minha vez de enviar um dos meus.
+$DIAL_H_02_01_02_015_RAMEL
+Mate todos que ousaram levantar a mão contra sua família, pois não há nada mais precioso para você. Este é o melhor momento para atacar, já que o povo culpa o clero por incitar a rebelião na Vendeia.

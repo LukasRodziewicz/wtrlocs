@@ -1,0 +1,200 @@
+$GDTIE
+Deadlock!
+$GDWIN
+You won!
+$GDLOSE
+You lost!
+$GDEFFECTS
+Effects:
+$GDFAVOUR_ALREADY
+Tinville already owed you a favour.
+$GDFAVOUR_LOSE
+You were unable to gain a favour from Tinville.
+$GDFAVOUR_WON
+Favour unlocked!
+$GDRESULT
+Result:
+$GDBET
+Bid:
+$GDSCORING
+Scoring Rules
+$GDSCOREBOARD_INFO
+You receive points by rolling the same number on two or more dice. The higher the score on the dice, the higher the scoring multiplier is. For example: two dice of 6 will award 120 points; two dice of 1 will award 20 points.
+$GDSCOREBOARD_SPECIALSCORE
+Special score:
+$GDSELECTION_TITLE
+Title
+$GDSELECTION_DESCRIPTION
+Description
+$GDACCEPT_OPPONENT_TOOLTIP
+Play
+$GDROLL_TOOLTIP
+Roll the Dice
+$GDREROLL_TOOLTIP
+Roll Again
+$GDREROLL_ACCEPT_TOOLTIP
+Accept
+$GDREROLL_BACK_TOOLTIP
+Return
+$REROLL_CHOOSE_DICES
+Choose dice to re-roll
+$GDPASS_TOOLTIP
+Opponent’s Turn
+$GDPLAYAGAIN_TOOLTIP
+Play Again
+$GDEXIT_TOOLTIP
+Exit
+$GDROLL_PLAYERTURN
+Roll
+$GDROLL_OPPONENTTURN
+Opponent’s Turn
+$GDREROLL
+Repeat Roll
+$GDBUYROUND
+Buy a Round ({0} IP)
+$GDBUYROUND_LOCKED
+You cannot afford to buy a round ({0} IP)
+$GDBUYROUND_USED
+You’ve already bought a round
+$GD_ONESHOT_INFO
+OneShot Info
+$GD_ONESHOT_COMMENT
+OneShot Comment
+$GDJUDGE_SHORTNAME
+Judge
+$GDOPPONENT_003_SHORTNAME
+Tinville
+$GDOPPONENT_004_SHORTNAME
+Pache
+$GDOPPONENT_005_SHORTNAME
+Renard
+$GDOPPONENT_010_SHORTNAME
+Bruno
+$GDJUDGE_SHORTNAME_NAME
+Alexis
+#CUT_023_RESULT
+Stakes: Information about the traitor
+#CUT_030_RESULT
+Stakes: Son’s hand
+#CUT_035_RESULT
+Stakes: Life
+$GD003_COMMENT_WELCOMEFIRST_01
+I heard I would find you here. It is good to know that judges of the Tribunal share the weaknesses of the common folk.
+$GD003_COMMENT_WELCOMEJUDGEWON_01
+I deserve a rematch, do I not?
+$GD003_COMMENT_WELCOMEJUDGEWON_02
+This time it will not be so easy.
+$GD003_COMMENT_WELCOMEJUDGEWON_03
+I think you come here too often for a family man.
+$GD003_COMMENT_WELCOMEJUDGELOST_01
+I respect your determination…
+$GD003_COMMENT_WELCOMEJUDGELOST_02
+Saints by day, crooks by night. That’s us.
+$GD003_COMMENT_WELCOMEJUDGELOST_03
+My father once said that people such as us should be without flaws. Well, I dare to disagree.
+$GD003_COMMENT_ROLLJUDGEWON_01
+One swallow…
+$GD003_COMMENT_ROLLJUDGEWON_02
+This time…
+$GD003_COMMENT_ROLLJUDGEWON_03
+Means nothing.
+$GD003_COMMENT_ROLLJUDGELOST_01
+Nothing lasts forever. Only chaos.
+$GD003_COMMENT_ROLLJUDGELOST_02
+Everything is as it should be.
+$GD003_COMMENT_ROLLJUDGELOST_03
+Just a little more.
+$GD003_COMMENT_GAMEJUDGEWON_01
+Themis did not guide me today.
+$GD003_COMMENT_GAMEJUDGEWON_02
+We all lose in the end.
+$GD003_COMMENT_GAMEJUDGEWON_03
+I will get my revenge in court tomorrow…
+$GD003_COMMENT_GAMEJUDGELOST_01
+Maybe next time… If you are stubborn enough to come here again.
+$GD003_COMMENT_GAMEJUDGELOST_02
+You only lost your pride. A mere trifle.
+$GD003_COMMENT_GAMEJUDGELOST_03
+Perhaps next time we should gamble for our souls? Do you think we still have them?
+$GD003_COMMENT_DRINK_01
+Do you feel lonely with your addictions?
+$GD003_COMMENT_DRINK_02
+I see you know how to win the crowd.
+$GD003_COMMENT_DRINK_03
+Just be sure you do not get into debt. People love to drink for someone else’s money.
+$GD003_COMMENT_DRINKBET_01
+To hell with it, I get paid again next month!
+$GD003_COMMENT_DRINKBET_02
+The judge can surely play, yes?
+$GD003_COMMENT_DRINKBET_03
+Higher! Stack my coins higher!
+$GD003_COMMENT_REROLL_01
+Afraid to lose?
+$GD003_COMMENT_REROLL_02
+How much would you give to win?
+$GD003_COMMENT_REROLL_03
+If you think this will change anything…
+$GD003_COMMENT_CANTREROLL_01
+I wish I could roll again.
+$GD004_MER_VER_HAN_DIAL_MER_01
+Even though I appreciate the luxurious atmosphere of these places, I am still rather fond of the army’s asceticism.
+$GD004_MER_VER_HAN_DIAL_JUDGE_02
+The previous owner’s penchant for luxuries led to his downfall.
+$GD004_MER_VER_HAN_DIAL_MER_03
+I see. Shall we play?
+$GD004_MER_VER_DAVID_DIAL_MER_01
+Designed with class. Congratulations.
+$GD004_MER_VER_DAVID_DIAL_JUDGE_02
+Thank you. I entrusted the décor to Jacque-Louis David’s care. He is an artist.
+$GD004_MER_VER_DAVID_DIAL_MER_03
+Yes, I heard that you are friends and political allies. Shall we play?
+$GD004_MER_COMMENT_GAMEJUDGEWON_01
+I assumed that you would let me win to gain my trust. I am pleased to be mistaken from time to time.
+$GD004_MER_COMMENT_GAMEJUDGELOST_01
+I see that you will do anything to gain my trust – even lose intentionally.
+$GD004_MER_COMMENT_ROLLJUDGEWON_01
+These dice are crooked!
+$GD004_MER_COMMENT_ROLLJUDGEWON_02
+Damn it, those girls put a curse on me!
+$GD004_MER_COMMENT_ROLLJUDGELOST_01
+A bit of luck would not go amiss.
+$GD004_MER_COMMENT_ROLLJUDGELOST_02
+Come on, dice. Once more, please.
+$GD004_MER_COMMENT_REROLL_01
+You think this bad luck will turn around?
+$GD004_MER_COMMENT_DRINK_01
+I could use a drink.
+$GD004_MER_COMMENT_DRINK_02
+The judge can surely play, yes?
+$GD005_RENARD_COMMENT_ROUND_01
+Our masked friend was furious. He came to us with a beneficial deal in exchange for our help. We agreed.
+$GD005_RENARD_COMMENT_ROUND_02
+A dangerous, wounded man. Rejecting him would be unwise.
+$GD005_RENARD_COMMENT_ROUND_03
+He asked a person we know, someone we have collaborated with before, to help him kill your child. What a fool.
+$GD005_RENARD_COMMENT_ROUND_04
+We will bring you his head on a plate. This will be a token of our good will, and proof that it is wise to be our friend.
+$GD005_RENARD_COMMENT_ROUND_05
+The aristocrats will proudly return to the city any day now, and every person who has not taken our side will be dealt with.
+$GD005_RENARD_COMMENT_GAMEJUDGEWON_01
+You won. We will keep our promise – you will get that traitor’s head, and Paris… well, Paris will not be too happy.
+$GD005_RENARD_COMMENT_GAMEJUDGELOST_01
+Sooner or later every gambler learns that he has no control whatsoever. He passively observes how time pushes him into failure. A deal is a deal – you lost, so we will not tell you anything. And Paris… Paris shall get what it deserves.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_01
+Silence him. It is not over yet.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_02
+We are done here.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_01
+I also won the first round once.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_02
+That was pure luck.
+$GD011_BRUNO_COMMENT_ROUND_01
+You have killed every person that would be brave enough to face me. Thank you.
+$GD011_BRUNO_COMMENT_ROUND_03
+The blood is on your hands, not mine. I won again.
+$GD011_BRUNO_COMMENT_ROUND_06
+You think you know what it means to suffer? Wait until I show you.
+$GD011_BRUNO_COMMENT_ROUND_08
+You will fall and break our father’s heart. Only then will my revenge be complete!
+$GD011_Dices_Last_Dialog
+We settled the first score, but that is not all I have prepared for you. Far from it.

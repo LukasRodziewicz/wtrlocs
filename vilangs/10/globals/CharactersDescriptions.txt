@@ -1,0 +1,68 @@
+#MathildeFidele_JOB
+Eş
+#MathildeFidele_DESC_1
+Paris'te doğdu, şehirden hiç çıkmadı. Pek çok kişi tarafından kusursuz bir eş olarak görülüyor. Evi ve çocuklarıyla ilgileniyor, kocasının yaşlı babasına bakıyor. Duygularını açıkça belli etmese de, çocuklarını korumak için her şeyi göze alacak kadar kararlı. Belki de onlar, sizin için olduğunuzdan çok daha değerli onun gözünde.
+#MathildeFidele_DESC_2
+Frédéric’in ölümünden beri eşiniz daha sessiz oldu, ama gözlerinde içten bir ateş parlıyor. Görünüşe göre, bir kadın mütevazı bir ev hanımıyla öfkeli, öngörülemez bir deli arasındaki sınırı geçtiğinde, en tehlikeli düşmana dönüşüyor…
+#FredericFidele_JOB
+En küçük oğul
+#FredericFidele_DESC
+Yaşına uygun şekilde saf ve masum. Sizi idol olarak görüyor ve tıpkı sizin gibi olmak istiyor. Ara sıra annesinin sözünden çıksa da, babasının dediğini harfiyen yerine getiriyor. En sevdiği oyuncağı, yanından hiç ayırmadığı tahta bir kılıç. Hayal dünyasında, tıpkı babasının gerçekte yaptığı gibi, kötü adamlara karşı savaşıyor. Küçük tahta figürler oymayı çok seviyor.
+#BernardFidele_JOB
+Büyük Oğul
+#BernardFidele_DESC
+Zarif ve yakışıklı bir genç adam. Fransa’daki gelişmelerin ağırlığı yavaş yavaş ona da çöküyor, kalbinde devrimci bir coşku uyandırıyor. Devrimci yargıçların yalnızca toplumun alt sınıflarından seçilmesi gerektiğini düşünüyor; çünkü ancak bu insanlar “lekesiz” sayılabilir ve yalnızca kendi çıkarları için değil, toplumun iyiliği için çalışabilirler. Onun safdilliği Frédéric’inkinden daha tehlikelidir, çünkü eylemleri bir yetişkininki kadar sonuç doğurabilir. Genç ve iradesi zayıf zihinleri ustalıkla yönlendirenler, onun atılganlığından faydalanabilir. Henüz toy, ama yetenekli bir kemancıdır.
+#AldricFidele_JOB
+Baba
+#AldricFidele_DESC
+Bir zamanlar hali vakti yerinde bir tüccarken, bugün Renard ailesinden intikam almak için yanıp tutuşan, elinde yalnızca ateşli hayaller kalmış, yaşlı ve kırgın bir adam. Birkaç yıl boyunca ailesine yeterince bakamadı, çocuklarına eskiden alışık oldukları yaşamı sunamadı. Sen mahkemede yeni makamına kavuşunca, ailen yeniden kabul edilebilir bir hayat sürmeye başladı ve baban da eski mesleğine dönmenin hayalini kurmaya başladı. Fakat Aldric, kaybolmuş kariyerini canlandırmak için artık çok yaşlı ve yorgundu. Fidèle ailesinin itibar ve zenginliğinin tadını çıkarmak yerine, Renard ailesinin yükselişine tanıklık etmek zorunda kaldı…
+#BrunoFidele_JOB
+Kardeş
+#BrunoFidele_DESC_1
+Ağabeyiniz. Fiziken yok, ama adı anıldığında bile evinizin duvarları titrer. O, ilk doğandı; babanızın gururu ve neşesiydi. Aile işini devralacak, onu ailenizin zenginliğini büyütmek için bir temel olarak kullanacaktı. Ancak işlediği suç her şeyi değiştirdi, aile adını utanca boğdu. Babanız onu evden kovduktan birkaç yıl sonra, Bruno’nun savaş meydanında öldüğünü, cesedinin cumhuriyetin özgürlüğü için ölen binlercesiyle birlikte çürüdüğünü öğrendiniz.
+#BrunoFidele_DESC_2
+Kardeşiniz aslında hiç ölmedi. Sürgün edildikten sonra orduya katıldı, fakat savaş sırasında firar etti. O günden beri ailesinden intikam almak için çalıştı. Babanızdan. Asıl felaketinizin kaynağı Bruno’ydu. Yolculuğunuzu o planladı ve sizi baştan sona o yönlendirdi…
+#Mentor_JOB
+Mentor
+#Mentor_DESC
+Adaletin her zaman doğru cevap olmadığını tam anlamıyla kavrayacak kadar uzun yaşamış bir adam. Bu çalkantılı zamanlarda yaptığı işte önemli olan tek şey, hayatta kalma içgüdüsü. Bazen bu, başkalarının çıkarlarına ters düşmek zorunda kalır. Böyle bir bakış açısına sahip biri, hem salonlarda hem de arka sokaklarda kulağını açık tutması gerektiğini bilir. Ona göre kör Themis, en fazla hukuk öğrencilerine anlatılan bir uyku masalıdır. Belki de, yargıç olarak verimli kalamayacak kadar çok ahlaki gri ton görüyor?
+#Jacques-LouisDavid_JOB
+Diplomat
+#Jacques-LouisDavid_DESC
+Bir ressam ve siyasetçi. Tablolarında devrime sıkça göndermeler yapar. Siyasi kariyerinde ise Konvansiyon’un etkili bir vekilidir. Hayatının bu iki alanı giderek iç içe geçmekte ve birbirini beslemektedir; örneğin, yıllarca kendisini reddeden Fransız Akademisi’nin kapatılmasına öncülük ettiğinde olduğu gibi. Yargıç Fidèle’in eski bir dostudur.
+#RaphaelClovis_JOB
+İri Yar
+#RaphaelClovis_DESC
+Sıradan askerler, şişmanlığından dolayı ondan uzak durur. Aslında onun mahkeme muhafızı olmasının başlıca nedeni de budur. Pek zeki sayılmaz, ama sadıktır ve verilen emirlere tek kelime etmeden uyar.
+#GregoryRamel_JOB
+Casus
+#GregoryRamel_DESC_1
+Onun hayatınıza girişi basit bir tesadüf olarak görülemez. Öte yandan, kader diye bir şeye inanacak yaşta da değiliz, öyle değil mi? Geçmişi ya da niyetleri hakkında hiçbir şey bilmiyorsunuz. Neden size yardım ediyor? Hem de neden siz?
+#GregoryRamel_DESC_2
+Cahors’ta doğdu; Pierre Ramel’in, yani savcı ve kraliyet hukukçusunun gayrimeşru çocuğuydu. Babası, kamuoyunun tepkisinden kaçınmak için olsa gerek, piç oğlunu resmen tanıdı. Çocuk, küçük kardeşi Jean-Pierre’e özellikle bağlandı. Ancak, aynı adı taşıyan büyük ağabeyi ona karşı derin bir nefret besliyordu. Genç yaşta Paris’e, büyük kardeşinin yanına gönderildi. Fakat büyük Jean-Pierre, üvey kardeşini yanına almayı reddetti ve zavallı çocuk kendini sokakta buldu. Önce dilencilik yaptı, fakat kısa sürede bilgi satarak geçimini sağlamaya başladı. Küçük üvey kardeşi on beş yaşında orduya katılınca, Grégory de onun izinden gitmeye karar verdi. Ondan uzun yıllar haber alınamadı; ta ki Londra’da ortaya çıkana dek. Ancak çok geçmeden casuslukla suçlanıp şehirden kaçmak zorunda kaldı…
+#MaximiliendeRobespierre_DESC
+Devrim davasına olan tutkulu bağlılığı sayesinde ona sıkça “Yolsuzluğa Boyun Eğmeyen” denir. Radikal Jakobenlerin lideri olarak, Ulusal Konvansiyon’da düzeni demir bir yumrukla ve gerektiğinde terörle sağlar. Devrim Çağı’nda Paris’in tartışmasız en güçlü adamı. Şimdiye dek ona karşı çıkmaya kimse cesaret edemedi.
+#ClementRenard_DESC
+Paris’in gri kardinali; şehrin ticaretini yöneten, kârlı her işte parmağı olan bir isim. Her türlü itaatsizliği acımasızca bastırır; Alexis Fidèle’in babasının tezgâhında yaşanan olay bunun kanıtı. Aristokrat kökenli olan bu adam, Devrim patlak verdikten sonra kamusal hayattan çekildi. Onun gerçek niyetlerini kimse tam olarak bilmiyor—servetini katlamak dışında.
+#GeorgesDanton_DESC
+Kendisi de bir avukat olan bu adam, yasaları en az Tribunal yargıçları kadar iyi bilir. Hakkındaki sayısız yolsuzluk ve vatana ihanet suçlamasına rağmen, birçoklarına göre onu hayatta tutan tek şey de budur. Ancak ondan da önemlisi, ateşli konuşmalarıyla tüm olası suçlamaların düşmesini sağlamasıdır. Robespierre ile olan rekabeti şehirde dilden dile dolaşırken, aralarındaki resmi ilişki ise sıkça “sert dostluk” olarak anılır.
+#Jean-PaulMarat_DESC
+“Halkın Vicdanı” lakabıyla anılan bu adam, kendi çıkardığı “Halkın Dostu” gazetesinin editörüdür. Girondinler ondan hoşlanmaz, Jakobenler ise onu gerekli bir kötülük olarak kabullenir. Birinin elindeki kiri, eğitimli bir domuzun trüf mantarını bulduğundan daha iyi sezer. Siyasi rakiplerinin itibarını sarsmak isteyen Konvansiyon üyelerinin getirdiği ihbarları yayınlamaktan asla çekinmez.
+#Jean-BaptisteGobel_DESC
+Paris Başpiskoposu ve Fransız siyasetinin bir başka bukalemunu. Devrimle karşı karşıya kaldığında reformcuların safına geçti, devlete bağlılık yemini etti ve böylece Papa’ya sırt çevirdi. Muhtemelen Maximilien Robespierre’den sonra Paris’in en güçlü kişisi. Göz önünde olmaktan kaçınır, düşmanlarını perde arkasından vurmayı tercih eder. Casus ağı tüm şehri sarmış durumda; ondan saklanmak imkânsız.
+#Jacques-ReneHebert_DESC
+Bir politikacı ve gazeteci. Kendini sans-culotte’ların temsilcisi ve halkın sesi ilan etmiştir. Onların gönlünü, kaba dili ve toplumun en alt tabakalarına hitap eden mesajlarıyla ünlü olan “Le Père Duchesne” adlı gazetesiyle kazanır. Özellikle başkaldıran din adamlarını taciz etmekte ustadır. Halkın tribünü olmasına rağmen, şaşırtıcı derecede gösterişli giyinir.
+#GermainedeStael_DESC
+Paris’te daha çok siyasi salonuyla tanınan bu kadın, büyük politikanın dışında bırakılmış, perde arkasından hareket eden biridir. Hırslı ve erkek meslektaşlarının gölgesinden çıkmaya hevesli olan bu kişi, mahremiyet gerektiren meseleleri ustalıkla yönetebilecek doğru isimdir. Aynı zamanda iyi eğitimli ve yüksek sosyetenin inceliklerine fazlasıyla hâkimdir.
+#Jean-NicolasPache_DESC
+Paris’in Belediye Başkanı ve Girondinlerin açık sözlü destekçisi. Mevkiine, hızla dönen bir ahlak pusulasının uğultusu eşliğinde yavaş yavaş tırmanarak ulaştı. Kumar oynamaktan çekinmez, kâr getiren her türlü işe balıklama atlar. Kâr payı uğruna, şeytanla bile dost olur.
+#Jean-MarieRoland_DESC
+İçişleri Bakanı. Kariyerini perde arkasından yönlendiren zeki eşi sayesinde hükümette bir mevki elde etmiş ve Jirondenlerin önde gelen üyelerinden biri olmuştur. Monarşiye olan desteğini gizlemez; kana bulanmış bir devrim ile tüm Fransız nesillerini birleştiren gelenek arasında denge kurulacağına inanır.
+#GraceElliott_DESC
+Paris’in adı anılmaya değer her köşesinde tanınan bir kadın. İskoçya doğumlu, Paris’te yaşayan ve İngilizler adına casusluk yaptığı iddia edilen bir zevk düşkünü. Hayatta kalabilmek için, Ulusal Konvansiyon’un vekilleri kadar usta bir diplomat olmayı öğrenmek zorunda kalmış. Şüphesiz, mesleği ona sayısız bağlantı kazandırmış. Gayriresmî olarak, bir aristokrat Paris’ten kaçmak isterse konuşması gereken kişinin Grace Elliott olduğu söylenir.
+#FrancoisHanriot_DESC
+Hırslı, ancak aşırı çalışkan olmayan bir subay; kusursuz bir siyasi sezgiye sahip, bu da onu yalnızca zirveye tırmanan insanlarla ilişki kurmaya yönlendiriyor. Kimin peşinden gitmeye değer olduğunu, kimin ise unutulması gerektiğini çok iyi bilir. Devrimin patlak vermesinden bu yana, gözünü Muhafız Komutanlığına dikerek istikrarlı bir şekilde kariyer basamaklarını tırmanıyor.
+#MathieuBurel_DESC
+Ulusal Muhafızların yaşlanan komutanı. Halkın bir devrim başlatabilecek güce sahip olsa bile, sıradan insanlara güvenmeyecek kadar çok şey görmüş biri.
+#Judge_DESC
+Devrimci Mahkeme'nin bir yargıcı; genellikle ayyaş ve kumarbaz olarak bilinir. Onu hukuk ve düzen dünyasıyla tanıştıran Raymond Dévoyé'nin himayesindedir. Özel hayatında ise sıradan, dikkat çekmeyen bir kişiliktir.

@@ -1,0 +1,78 @@
+$G_SP_TOPIC_01
+Suç
+$G_SP_TOPIC_02
+Sanık
+$G_SP_TOPIC_03
+Devrim
+$G_SP_01_AGGR_01
+Düzensizlik, hakikatimizin acımasız gücüyle bastırılacaktır. Artık geri dönüş yok!
+$G_SP_01_AGGR_02
+Giyotin neredeyse bir bağışlama olurdu, böylesine korkunç bir suç işkenceyi hak ediyor! Onu işkenceye tabi tutalım mı?!
+$G_SP_01_AGGR_03
+Suçun olduğu yerde ceza da olmalı! Ve biz bu cezayı vereceğiz, evet! Giyotin öyle bir iner ki, mahkûmun ataları bile boyunlarında o soğuk bıçağın keskinliğini hisseder!
+$G_SP_01_MANI_01
+Gelecek nesiller, korkak olmadığımızı hatırlayacak! Böylesine korkunç suçları cezalandırdığımızı unutmayacaklar!
+$G_SP_01_MANI_02
+Devrim yasasının sınırlarını aşan herkes, suçlu olarak yalnızca kendini görmeli! Yalnızca kendini!
+$G_SP_01_MANI_03
+Suçta gri tonlar yoktur; yalnızca suçluluk ya da masumiyet vardır.
+$G_SP_01_JOKE_01
+Çabuk! Azrail, bu korkunç suç hakkında mahkûmla konuşmak için sabırsızlanıyor.
+$G_SP_01_JOKE_02
+Bu mahkûm için öldürmek nefes almak kadar kolaydı. Bizim için giyotin de öyle!
+$G_SP_01_JOKE_03
+Suçun tadını merak eden mahkûma şimdi hak ettiği tatlıyı sunacağız!
+$G_SP_01_HUMI_01
+Themis sizin dilinizden konuştu. “Adalet!” diye haykırıyor. Ve biz onun sesini işiteceğiz!
+$G_SP_01_HUMI_02
+Bir yargıç olarak, yalnızca Cumhuriyet’in iradesini yerine getiriyorum.
+$G_SP_01_HUMI_03
+Merhametli bir millet olabiliriz, fakat işlenen korkunç suçu asla unutmamalıyız.
+$G_SP_02_AGGR_01
+Katil, hain, düzenbazlar – onları ortadan kaldırmalısın, yoksa masumların hayatı tehlikeye girer!
+$G_SP_02_AGGR_02
+Adaletsizliğin beslediği bir canavarı daha başından edeceğiz!
+$G_SP_02_AGGR_03
+Bu kişi, Themis’in ve halkın yüzüne tükürüyor. Adalet böyle hakaretleri asla kabul etmez!
+$G_SP_02_MANI_01
+Bu suçlular eski düzene dönmek istiyor! Onu savunuyorlar!
+$G_SP_02_MANI_02
+Öylece durup suçluların size ne yapacağınızı söylemesine izin mi vereceksiniz?
+$G_SP_02_MANI_03
+Sana okuma bilmediğini söylediklerinde onları dinleme. Giyotin altında merhamet dilediklerinde kulak ver!
+$G_SP_02_JOKE_01
+Haydi, sanık giyotinle iki çift laf etsin!
+$G_SP_02_JOKE_02
+Bugün karşımızda yine herkesin masum olduğunu iddia ettiği bir mahkûm var!
+$G_SP_02_JOKE_03
+<i>“Hiçbir Şey İçin Öldürüldü”</i> adlı oyuna bir alkış gelsin!
+$G_SP_02_HUMI_02
+Yalnızca kurbanı değil, mahkûmun ruhunu da yasını tutuyoruz. Ancak merhametimizi sakın zayıflıkla karıştırmayın.
+$G_SP_02_HUMI_03
+Suçlular mezara gömülmeli. Ancak o zaman daha iyi bir gelecek kurabiliriz!
+$G_SP_02_HUMI_04
+Bu hükmü uygulayarak sokaklarımızı daha güvenli kılıyoruz. Giyotine gönderilene değil, onun kurbanı olan bizlere acıyorum!
+$G_SP_03_AGGR_01
+Fransa’da iktidarı ele geçirdiniz. Şimdi Cumhuriyet’e karşı duranların kanını dökün!
+$G_SP_03_AGGR_02
+Bu suçlular, hoşgörülü olduğumuz için zayıf olduğumuzu sanıyor! Yeter artık!
+$G_SP_03_AGGR_03
+Fransa'nın düşmanlarını yalnızca ölüm bekliyor!
+$G_SP_03_MANI_01
+Eğer eski düzenin ve çürümüş ahlakın ülkemizi zehirlemesine izin verirsek, o özgürlüğe layık değiliz!
+$G_SP_03_MANI_02
+Halkı adaletsizliğe sürükleyen önceki yöneticilerin hükmü, hızlı ölümleriyle sona eriyor.
+$G_SP_03_MANI_04
+Gelecek nesiller, korkak olmadığımızı hatırlayacak! Yapılması gerekeni yapacağız!
+$G_SP_03_JOKE_01
+Celladı gören var mı? Bulun şu ayyaşı, yoksa başka birini tutmak zorunda kalacağım!
+$G_SP_03_JOKE_02
+Haydi bakalım, vakit kaybetmeye gerek yok!
+$G_SP_03_JOKE_03
+Şu pis sıçanı öldürelim de artık bir şeyler yiyelim!
+$G_SP_03_HUMI_01
+Burada söz sahibi olan sizsiniz, halk.
+$G_SP_03_HUMI_02
+Vatandaşlar, yeni Fransa’mızı inşa edebilmek için işe dönmeliyiz! Vatan için!
+$G_SP_03_HUMI_04
+Eski düzen yıkılmalı. Başka yolu yok. Artık egemen olan sizsiniz!

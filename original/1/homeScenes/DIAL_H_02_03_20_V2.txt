@@ -1,0 +1,32 @@
+$DIAL_H_02_03_20_V2_001_JUDGE
+Thank you for coming.
+$DIAL_H_02_03_20_V2_002_DAVID
+How is he feeling?
+$DIAL_H_02_03_20_V2_003_JUDGE
+Like a young man who wasn't ready for what happened to him.
+$DIAL_H_02_03_20_V2_004_DAVID
+Alexis… Your brother paid me a visit – the one who is supposed to be dead.
+$DIAL_H_02_03_20_V2_005_JUDGE
+Jacques–
+$DIAL_H_02_03_20_V2_006_DAVID
+Let me finish. I respect the memory of our friendship. We have both helped each other in many ways, but I now know that, because of my loyalty to you, I participated in something very wrong.
+$DIAL_H_02_03_20_V2_007_JUDGE
+My brother is a monster!
+$DIAL_H_02_03_20_V2_008_DAVID
+The amount of blood shed by the Revolution has changed us all into monsters. We can only hope that after we die, people will forget about us, and all of our wrongdoings will be blown away.
+$DIAL_H_02_03_20_V2_009_JUDGE
+You prefer to side with my child’s murderer over me?
+$DIAL_H_02_03_20_V2_010_DAVID
+Thanks to him, I finally understood what we did to our country by giving the power to uneducated people armed with axes and torches. We need to restore balance, and your brother is going to do that.
+$DIAL_H_02_03_20_V2_011_JUDGE
+He is a murderer!
+$DIAL_H_02_03_20_V2_012_DAVID
+As are you and I. The only difference between him and us is that we will be honoured with medals and statues. I do not want that kind of praise, tainted by crime and deceit. Now is my last chance to change my fate.
+$DIAL_H_02_03_20_V2_013_JUDGE
+What are you going to do?
+$DIAL_H_02_03_20_V2_014_DAVID
+I do not know. I will probably leave Paris while it is still possible, then wait, and adapt to the new situation. Your court guard ran away this morning and Ramel… It turns out that he was always with your brother and did what was necessary to lead you to this moment.
+$DIAL_H_02_03_20_V2_015_JUDGE
+So you are all traitors…
+$DIAL_H_02_03_20_V2_016_DAVID
+If that is how you see things, you have already failed. Goodbye, my friend.

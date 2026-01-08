@@ -1,0 +1,16 @@
+$EVE_010_TITLE
+Der deutsche Aggressor
+$EVE_010_MAIN_01
+Als Richter musst du Fakten von Gerüchten unterscheiden, doch die Bürger von Paris nehmen es damit oft nicht so genau. Besonders, wenn das Gerede von einer angeblich in der Nähe stationierten Fremdarmee handelt, die jeden Moment die Stadt belagern könnte. Nichts als Klatsch, aber verlockend genug, um einen aufgebrachten Mob dazu zu bringen, in ein Waffenlager einzudringen. Sie wollen vorbereitet sein.
+$EVE_010_MAIN_01_C1
+Gerichtswache entsenden
+$EVE_010_MAIN_01_C2
+Eine Rede halten
+$EVE_010_MAIN_02A
+Mit schweren Stöcken und Mistgabeln bewaffnete Menschen haben bereits bewiesen, dass sie gegen Soldaten mit Musketen effektiv sein können. Zum Glück kam es diesmal nicht zum Kampf, denn die Angreifer zerstreuten sich, als sie die Verstärkung sahen. Das Waffenlager ist in Sicherheit. Hätten die Leute erfahren, dass die ganze Belagerung nur dummes Gerede war, hätten sie die Waffen sofort gegen ihre persönlichen Feinde gerichtet.
+$EVE_010_MAIN_02B
+Die Wachen rollen ein Fass heran, auf das Sie steigen, um Ihre flammende Rede zu halten. Sie betonen die Notwendigkeit von Brüderlichkeit in solch schweren Zeiten und fordern die Versammelten auf, weder in Panik zu verfallen noch den Gerüchten zu glauben, die Feinde der Revolution verbreiten. Diese Worte genügten, um sie zur Besinnung zu bringen.
+$EVE_010_MAIN_02C
+Ihre flammende Rede hätte selbst die unschuldigen Opfer der Revolution auferwecken können, doch die Bürger von Paris zeigten sich unbeeindruckt. Die drohende Gefahr durch die Feinde wiegt schwerer als alle Bilder, die Ihre Worte zu malen vermögen, und das Volk will nicht von dem Gedanken ablassen, das Waffenlager zu stürmen. Die Soldaten sind zu sehr in Kämpfe verwickelt, um Ihnen beizustehen, als ein verräterisches Messer seinen Weg zwischen Ihre Rippen findet…
+$EVE_010_MAIN_02D
+Der Sturm auf das Waffenlager war erfolgreich. Man könnte fast sagen, es ist zur Pariser Spezialität geworden. Einige Soldaten kamen ums Leben, die übrigen ergaben sich und entgingen wie durch ein Wunder schweren Verletzungen oder einem öffentlichen Lynchmord. Ihr Ruf jedoch wird schwer darunter leiden. Denn offenbar hält nun nichts mehr die Menschen zurück…

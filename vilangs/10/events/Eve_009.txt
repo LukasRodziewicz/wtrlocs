@@ -1,0 +1,18 @@
+$EVE_009_TITLE
+Emir emirdir
+$EVE_009_INTRO
+Bay yargıç, iki sokak ötede bir trajedi yaşandı. Halk bir yargıç çağırıyor!
+$EVE_009_C00
+Dışarı çık
+$EVE_009_MAIN_01
+Muhafız sizi aceleyle suç mahalline götürüyor; öfkeli bir kalabalık toplanmış. Birkaç silahlı asker, yüzleri duvara dönük iki adamı korumaya çalışırken sivilleri uzaklaştırmaya uğraşıyor. Kısa sürede, Komutan François Hanriot’nun, askeri bir nakliyattan silah çalmaya teşebbüs eden suçluların gıyabında idamını emrettiğini öğreniyorsunuz. Halk sizin müdahalenizi ve adil bir yargılama talep ediyor, fakat özellikle sizin sayenizde yükselmiş bir komutanın emrine karşı gelmek akıllıca olmaz…
+$EVE_009_MAIN_01_C1
+Gözaltındakilerin vurularak infaz edilmesini emret
+$EVE_009_MAIN_01_C2
+Adamların serbest bırakılmasını emret
+$EVE_009_MAIN_02A
+Askerler ateş etmeye hazırlanırken onlarca kişi şaşkınlıkla sana bakıyor. BAM! İki adam cansız yere yığılıyor. Burada artık görülecek bir şey kalmadı ve sen ayrılıyorsun…
+$EVE_009_MAIN_02B
+Halk onayla başını sallar. Şaşkın askerler sonunda sizi dinler ve adamları hapishaneye götürür. Ancak, davalarına başka bir yargıç atanacak olsa bile, bunun sizin için sonuçsuz kalacağını sanmayın. Komutanın itibarına verilen zararın bedelini birinin ödemesi gerekecek.
+$EVE_009_MAIN_03
+Duyduğuma göre, infaza müdahalenizden sonra askerlerden biri, komutanın emrine uymayı reddettiği için kurşuna dizilmiş. Üstelik bu, onun yerine getirmesini yasakladığınız emirdi. İki asker daha bedenî cezaya çarptırılmış. Hanriot ile olan gizli ittifakınız tehlikede olabilir.

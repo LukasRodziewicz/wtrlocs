@@ -1,0 +1,301 @@
+$GEN_007_DOC_01_HEADER
+Sporządził: Richard Mounier
+$GEN_007_DOC_01_00
+    Patrice Leconte, 54-letni<a name="1" class="hidden"> szanowany lekarz</a>, zamieszkujący podparyskie Saint-Ouen, został oskarżony o <a name="2" class="hidden">zabójstwo</a>. Ofiarą jest Victor Rabiot, mąż jednej z pacjentek podsądnego – Valerie.
+$GEN_007_DOC_01_01
+    Ofiara, lat 63, <a name="3" class="hidden">odwiedziła</a> oskarżonego, by pomówić o dręczących ją podejrzeniach. Jakiś czas temu Rabiot nabrał przekonania, że jego małżonkę łączy niestosowna <a name="4" class="hidden">więź z oskarżonym</a>. 
+$GEN_007_DOC_01_02
+    Świadkowie zeznali, że Victor Rabiot <a name="5" class="hidden">wybiegł z gabinetu</a> lekarza blady i przerażony. Ledwie kilka kroków od progu upadł na ulicy, przeraźliwie charcząc . Już patrol Gwardii przybyły na miejsce dostrzegł w zaciśniętej dłoni ofiary stłuczony kieliszek z resztką wina. Jak ustaliło śledztwo, było to prawdopodobnie to samo wino, które Rabiot pił podczas rozmowy z lekarzem.  
+$GEN_007_DOC_01_03
+    Oczywiste podejrzenie zabójstwa padło na lekarza, który z racji profesji ma <a name="7" class="hidden">dostęp do substancji</a>, jakimi można zatruć wino. Jeśli romans medyka oraz pacjentki jest faktem, mamy także motyw. Jak się dowiedzieliśmy nieoficjalnie, kobieta rzeczywiście odwiedzała lekarza podejrzanie często i regularnie. Nie mamy jednak żadnych twardych dowodów.
+$GEN_007_DOC_01_04
+    Obaj obywatele – Rabiot i Leconte – to osoby majętne i dobrze znane wśród paryskiej arystokracji, która teraz domaga się szybkiego oraz sprawiedliwego wyroku.
+$GEN_007_DOC_01_05
+Dowody:
+Stłuczony kieliszek z winem
+<a name="9" class="hidden">Liścik Valerie Rabiot</a> do kochanka o treści:
+Będę czekać tej nocy na Ciebie. Tam, gdzie zwykle. Twoja V.
+
+$GEN_007_OnStart_00
+To delikatna sprawa, która wywołuje spore kontrowersje obyczajowe.
+$GEN_007_OnStart_01
+Jak się nazywacie?
+$GEN_007_OnStart_02
+Nazywam się Patrice Leconte, Wysoki Sądzie.
+$GEN_007_OnStart_03
+Zostaliście oskarżeni o morderstwo. Chcecie się przyznać?
+$GEN_007_OnStart_04
+Zgodnie z moją wiedzą medyczną pan Rabiot mógł zatruć się czymkolwiek, co zjadł przez całą poprzednią dobę. Zresztą mówimy o osobie w słusznym wieku. To mogła być naturalna śmierć.
+$GEN_007_OnStart_05
+Do tej naturalnej – jak mówicie – śmierci doszło akurat na progu waszego gabinetu i nie macie z tym nic wspólnego?
+$GEN_007_OnStart_06
+Przypadki się zdarzają.
+$GEN_007_OnStart_07
+Mam rozumieć, że to oznacza: nie?
+$GEN_007_OnStart_08
+Dobrze rozumiecie.
+$GEN_007_OnGuilty_00
+Skazuję obywatela Patrice’a Leconte’a na śmierć na gilotynie! Wyprowadzić skazanego!
+$GEN_007_OnGuilty_01
+Co za dziwna historia…
+$GEN_007_OnPrison_00
+Skazuję obywatela Patrice’a Leconte’a na karę więzienia! Wyprowadzić skazanego.
+$GEN_007_OnPrison_01
+Co za dziwna historia…
+$GEN_007_OnNotGuilty_00
+Wyrok w sprawie morderstwa obywatela Rabiota brzmi: niewinny! Proszę uwolnić doktora Patrice’a Leconte’a.
+$GEN_007_OnNotGuilty_01
+Co za dziwna historia…
+$GEN_007_OnNoComment_00
+Nie zniosę tego dłużej. Nie odpowiem na żadne pytanie. Zabijcie mnie już, niech to się skończy.
+$GEN_007_01x03_00_QTitle
+Co dokładnie zaszło w dniu śmierci pana Rabiota?
+$GEN_007_01x03_00_00
+Co dokładnie zaszło w dniu śmierci pana Rabiota?
+$GEN_007_01x03_00_01
+Odwiedził mnie, żeby porozmawiać – nie wiedziałem o czym. Był blady i napięty, to chyba kosztowało go sporo nerwów. 
+$GEN_007_01x03_00_02
+Wtedy właśnie nalaliście mu wina?
+$GEN_007_01x03_00_03
+Tak, poszedłem po wino, nalałem nam obu…
+$GEN_007_01x03_00_04
+Nalewaliście je w obecności ofiary?
+$GEN_007_01x03_00_05
+Nie, w kuchni. To ma znaczenie?
+$GEN_007_01x03_00_06
+A co, miał gościa po chałupie prowadzać?
+$GEN_007_01x03_00_07
+No dobrze. Co było dalej?
+$GEN_007_01x03_00_08
+Wypiliśmy i po chwili pan Rabiot wybiegł z krzykiem, trzymając się jedną ręką za klatkę piersiową.
+$GEN_007_01x03_00_09
+A kogo w ogóle obchodzi, czemu taki możny pan umarł? Ważne, że nie żyje!
+$GEN_007_01x04_01_QTitle
+Czy mieliście romans z panią Valerie Rabiot?
+$GEN_007_01x04_01_00
+Czy mieliście romans z panią Valerie Rabiot?
+$GEN_007_01x04_01_01
+To pytanie znieważa mnie jako profesjonalistę! Pani Rabiot jest tylko moją pacjentką, nasze relacje mają wyłącznie medyczny charakter.
+$GEN_007_01x04_01_02
+Lekarz też może się zakochać i profesjonalizm nie ma tu nic do rzeczy.
+$GEN_007_01x04_01_03
+Dla mnie pacjent to człowiek cierpiący, staram się nieść mu pomoc.
+$GEN_007_01x04_01_04
+Może ją kilka razy zbadał… Wiecie jak…
+$GEN_007_01x04_01_05
+Dlaczego więc pani Rabiot przychodziła do waszego gabinetu tak często i regularnie?
+$GEN_007_01x04_01_06
+Nie mogę zdradzać żadnych szczegółów o stanie zdrowia mojej pacjentki. Pani Rabiot jest delikatną kobietą, która musi o siebie dbać.
+$GEN_007_01x09_02_QTitle
+Ofiara miała w kieszeni liścik, z którego wynika, że obywatelka Valerie Rabiot umawiała się z oskarżonym na…
+$GEN_007_01x09_02_00
+Ofiara miała w kieszeni liścik, z którego wynika, że obywatelka Valerie Rabiot umawiała się z oskarżonym na…
+$GEN_007_01x09_02_01
+Czy pada tam moje imię i nazwisko?
+$GEN_007_01x09_02_02
+Nie, nie pada. Z kim w takim razie umawiała się obywatelka Rabiot?
+$GEN_007_01x09_02_03
+Jestem lekarzem, a nie jasnowidzem. Pani Rabiot nie zwierzała mi się w gabinecie ze szczegółów swojego pożycia. To bardzo skromna i dobrze wychowana…
+$GEN_007_01x09_02_04
+Victor Rabiot podejrzewał jednak właśnie was.
+$GEN_007_01x09_02_05
+Może po wizycie u mnie chciał pójść do następnego podejrzanego, ale nie zdążył?
+$GEN_007_01x09_02_06
+To brzmi bezsensownie.
+$GEN_007_02x05_03_QTitle
+Jaka według obywatela była przyczyna śmierci Victora Rabiota?
+$GEN_007_02x05_03_00
+Jaka według obywatela była przyczyna śmierci Victora Rabiota?
+$GEN_007_02x05_03_01
+A zabił go pewnie, taka przyczyna!
+$GEN_007_02x05_03_02
+Mógł się czymś zatruć, ale ja bym powiedział, że to raczej był atak serca.
+$GEN_007_02x05_03_03
+Czy tę opinię potwierdzili inni lekarze?
+$GEN_007_02x05_03_04
+Nic mi o tym nie wiadomo. To chyba pytanie do śledczych?
+$GEN_007_02x05_03_05
+Bo tych to da się zmusić do roboty…
+$GEN_007_02x05_03_06
+Często ludzie w trakcie takiego ataku zaczynają uciekać?
+$GEN_007_02x05_03_07
+Nie spotkałem się z tym podczas mojej praktyki, ale organizm człowieka wciąż niechętnie odkrywa przed nami swe tajemnice.
+$GEN_007_02x05_03_08
+Pięknymi słówkami morderca się tłumaczy!
+$GEN_007_02x07_04_QTitle
+Dużo poszlak wskazuje na to, że obywatel otruł Victora Rabiota.
+$GEN_007_02x07_04_00
+Dużo poszlak wskazuje na to, że obywatel otruł Victora Rabiota.
+$GEN_007_02x07_04_01
+Poszlaki to nie dowody. Co niby wskazuje na moją winę?
+$GEN_007_02x07_04_02
+Zazdrosny mąż pije wino u kochanka swojej żony i kilka chwil później już nie żyje, czy to nie dziwne?
+$GEN_007_02x07_04_03
+A gdzie dowody, że nie otruł?
+$GEN_007_02x07_04_04
+Jestem lekarzem. Ratuję ludzi, a nie morduję.
+$GEN_007_02x07_04_05
+Jako lekarz powiedzcie: czy ludzie czasem w silnym wzburzeniu nie zachowują się inaczej niż na co dzień?
+$GEN_007_02x07_04_06
+Oczywiście, że tak.
+$GEN_007_02x07_04_07
+Mogliście więc ze względu na sytuację zapomnieć o lekarskiej etyce?
+$GEN_007_02x07_04_08
+Przyszedł mąż kochanki, to się chłopina wystraszył, że po pysku dostanie.
+$GEN_007_02x07_04_09
+Widzę, dokąd zmierzacie, ale w tej sytuacji nie byłem zdenerwowany. Nie miałem nic do ukrycia i niczego się nie wstydziłem.
+$GEN_007_04x09_05_QTitle
+Proszę wezwać świadka, Valerie Rabiot.
+$GEN_007_04x09_05_00
+Proszę wezwać świadka, Valerie Rabiot.
+$GEN_007_04x09_05_02
+Proszę się przedstawić.
+$GEN_007_04x09_05_03
+Nazywam się Valerie Rabiot, jestem od kilku dni wdową po Victorze Rabiocie.
+$GEN_007_04x09_05_04
+W kieszeni płaszcza pani zmarłego małżonka znaleziono liścik. Czy pani jest autorką tejże wiadomości, a jeśli tak, to kto jest jej adresatem?
+$GEN_007_04x09_05_05
+Domyślam się, że oczekuje Wysoki Sąd odpowiedzi na pytanie, czy to doktor Leconte jest jej adresatem. Otóż nie. 
+$GEN_007_04x09_05_06
+Kto nim był w takim razie?
+$GEN_007_04x09_05_07
+To… kobieta. Dla sprawy jest zupełnie nieistotne, jak ma na nazwisko. Nie chcę jej w to mieszać.
+$GEN_007_04x09_05_08
+Ja zdecyduję, co jest istotne, a co nie.
+$GEN_007_04x09_05_09
+Nazywa się… nazywa się Helen Betancourt.
+$GEN_007_06x02_06_QTitle
+Jakie wino podaliście?
+$GEN_007_06x02_06_00
+Jakie wino podaliście?
+$GEN_007_06x02_06_01
+Nie jestem specjalistą, nie pamiętam nazwy. Było czerwone.
+$GEN_007_06x02_06_02
+Można powiedzieć, że aż za bardzo poprawiło krążenie ofierze?
+$GEN_007_06x02_06_03
+Jeśli się lubi niewybredny humor, to tak. Ja jednak się nie śmieję.
+$GEN_007_06x02_06_04
+To mnie zastanawia. Od początku rozprawy ma obywatel kamienną twarz.
+$GEN_007_06x02_06_05
+Jako lekarz widziałem już mnóstwo śmierci i cierpienia. Do tego się przywyka.
+$GEN_007_06x02_06_06
+Przywykliście do śmierci?
+$GEN_007_06x02_06_07
+Można tak powiedzieć.
+$GEN_007_06x02_06_08
+Czyli zabicie człowieka nie byłoby dla was problemem? Brzmi, jakbyście byli mordercą idealnym.
+$GEN_007_06x02_06_09
+Umiałbym to zrobić, jeśli o to pytacie, ale nie byłbym idealny. Nie czerpałbym z zabijania przyjemności.
+$GEN_007_06x02_06_10
+Chyba że byliby to mężowie jego kochanek.
+$GEN_007_01x07_07_QTitle
+Jako lekarz macie dostęp do różnego rodzaju lekarstw oraz specyfików...
+$GEN_007_01x07_07_00
+Jako lekarz macie dostęp do różnego rodzaju lekarstw oraz specyfików, które nieodpowiednio użyte mogą wywołać zgon.
+$GEN_007_01x07_07_01
+Każda substancja w nadmiarze jest szkodliwa. Jako lekarz wiem jednak, jak unikać takich przypadków.
+$GEN_007_01x07_07_02
+Czyli wiedziałby obywatel, czym można kogoś zabić i jakiej dawki trzeba do tego użyć?
+$GEN_007_01x07_07_03
+Idąc tą drogą, każda gospodyni i każdy kucharz są mordercami, bo mają w kuchni noże, prawda?
+$GEN_007_01x07_07_04
+Ale nie w każdej kuchni ktoś umiera, zgadza się?
+$GEN_007_01x07_07_05
+Nie w każdej.
+$GEN_007_01x07_07_06
+A Victor Rabiot umarł w trakcie wizyty u was, zatruty.
+$GEN_007_01x07_07_07
+Tak było, ludzie na ulicy widzieli.
+$GEN_007_WIT_01_A_QTitle
+Jak często widywała pani doktora Leconte’a?
+$GEN_007_WIT_01_A_00
+Jak często widywała pani doktora Leconte’a?
+$GEN_007_WIT_01_A_01
+Ostatnio dość często, bo nieco podupadłam na zdrowiu. Doktor Leconte to świetny specjalista.
+$GEN_007_WIT_01_A_02
+Czy uważa pani, że obywatel Leconte mógł otruć pani męża?
+$GEN_007_WIT_01_A_03
+Nawet jeśli nie miał motywu, są na to inne dowody. 
+$GEN_007_WIT_01_A_04
+Jestem przekonana, że to zrobił.
+$GEN_007_WIT_01_A_05
+Skąd to przekonanie?
+$GEN_007_WIT_01_A_06
+Wyznał mi miłość, a ja odrzuciłam jego zaloty. Moje życie uczuciowe jest dość skomplikowane, ale chciałam być wierna mężowi… mimo tego, co łączy mnie z Helen… Powiedziałam o tym Leconte’owi, a teraz mój mąż nie żyje.
+$GEN_007_WIT_01_A_07
+Dziękuję za to zeznanie.
+$GEN_007_WIT_01_A_09
+Czy oskarżony ma zamiar skomentować te rewelacje?
+$GEN_007_WIT_01_A_10
+Nie wiem… nie wiem, co powiedzieć. Przecież to ona, Wysoki Sądzie… to ona poprosiła mnie, bym zabił jej męża.
+$GEN_007_WIT_01_A_11
+Co to za mętlik?
+$GEN_007_WIT_01_A_12
+Tak, kocham Valerie Rabiot. Z powodu tej miłości wysłuchałem jej prośby i uwolniłem ją od tej świni, jej męża. Zrobiłem to… dla szczęścia ukochanej.
+$GEN_007_WIT_01_A_13
+Wszyscy to słyszeli? Ten człowiek właśnie przyznał się do zabójstwa.
+$GEN_007_WIT_01_A_14
+Słyszeliśmy!
+$GEN_007_WIT_01_A_15
+Morderca!
+$GEN_007_WIT_01_A_16
+Zaiste dziwna historia. Komu wierzyć? Leconte jest przyparty do muru…
+$GEN_007_WIT_01_A_17
+Załóżmy, że mógłbym w to uwierzyć. Dlaczego wdowa po obywatelu Rabiocie miałaby zeznawać przeciwko wam?
+$GEN_007_WIT_01_A_18
+Jestem jedyną osobą, która mogła ją zadenuncjować. Ale przecież bym tego nie zrobił. Kocham ją. Dlaczego chce mnie zniszczyć?
+$GEN_007_WIT_01_A_19
+Każde z nich może kłamać, zastanów się dobrze nad wyrokiem.
+$GEN_007_WIT_01_B_QTitle
+Umierając, mąż zostawił pani całkiem pokaźny majątek.
+$GEN_007_WIT_01_B_00
+Umierając, mąż zostawił pani całkiem pokaźny majątek.
+$GEN_007_WIT_01_B_01
+I co w związku z tym?
+$GEN_007_WIT_01_B_02
+Helen, pani kochanka, nie będzie mogła od dzisiaj narzekać na biedę.
+$GEN_007_WIT_01_B_03
+Co on sugeruje?
+$GEN_007_WIT_01_B_04
+Nie zapominajmy, że pan Rabiot umarł niemalże na progu doktora Leconte’a. 
+$GEN_007_WIT_01_B_05
+Drażnią mnie takie insynuacje. Może i kochałam kogoś innego, ale trwałam przy mężu nawet wtedy, gdy mnie źle traktował.
+$GEN_007_WIT_01_B_07
+Czy oskarżony ma zamiar skomentować zeznania świadka?
+$GEN_007_WIT_01_B_08
+Nie wiem, czy mogę cokolwiek dodać. Nie bez przyczyny brakuje niezbitego dowodu w tej sprawie.
+$GEN_007_WIT_01_B_09
+Jest za to bardzo wiele poszlak.
+$GEN_007_KEY_01
+Szanowany lekarz
+$GEN_007_KEY_02
+Zabójstwo
+$GEN_007_KEY_03
+Odwiedziny
+$GEN_007_KEY_04
+Więź z oskarżonym
+$GEN_007_KEY_05
+Wybiegnięcie z gabinetu
+$GEN_007_KEY_06
+Alkohol podczas rozmowy
+$GEN_007_KEY_07
+Dostęp do substancji trujących
+$GEN_007_KEY_08
+Stłuczony kieliszek
+$GEN_007_KEY_09
+Liścik Valerie Rabiot
+
+
+$GEN_007_LastDialog_00
+Uratowałem więcej ludzi niż Wy ścięliście na gilotynie. Niech zadręczą Cię wyrzuty sumienia.
+
+$GEN_007_UNIQUE_QUESTION_00
+Jaki trunek pili ofiara i oskarżony podczas spotkania?
+$GEN_007_UNIQUE_ANSWER_CORRECT_00_00
+Wino.
+$GEN_007_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Herbatę.
+$GEN_007_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Wodę.
+
+

@@ -1,0 +1,78 @@
+$G_SP_TOPIC_01
+Crimen
+$G_SP_TOPIC_02
+Acusado
+$G_SP_TOPIC_03
+Revolución
+$G_SP_01_AGGR_01
+El desorden será aplastado con la fuerza implacable de nuestra verdad. ¡Ya no hay vuelta atrás!
+$G_SP_01_AGGR_02
+¡La guillotina sería casi un perdón, semejante atrocidad exige tortura! ¿Deberíamos torturarlo?
+$G_SP_01_AGGR_03
+¡Donde hay crimen, debe haber castigo! ¡Y nosotros lo impartiremos, oh sí! ¡Hasta los antepasados del condenado sentirán el frío filo de la guillotina cortando sus cuellos!
+$G_SP_01_MANI_01
+¡Las generaciones futuras recordarán que no fuimos cobardes! ¡Nos recordarán por castigar con firmeza crímenes tan atroces!
+$G_SP_01_MANI_02
+¡Quien cruce los límites de la ley revolucionaria no tiene a nadie más que culparse a sí mismo! ¡Sólo a sí mismo!
+$G_SP_01_MANI_03
+En el crimen no existen los matices: sólo hay culpables o inocentes.
+$G_SP_01_JOKE_01
+¡Rápido! La Parca desea conversar con el reo sobre este atroz crimen.
+$G_SP_01_JOKE_02
+Para este condenado, matar era tan fácil como respirar. ¡Así de fácil es para nosotros la guillotina!
+$G_SP_01_JOKE_03
+El reo sentía curiosidad por el sabor del crimen; ahora le serviremos su merecido postre.
+$G_SP_01_HUMI_01
+Temis habló a través de vuestras bocas. ¡Clama “¡Justicia!” y escucharemos su voz!
+$G_SP_01_HUMI_02
+Como juez, no hago más que cumplir la voluntad de la República.
+$G_SP_01_HUMI_03
+Podemos ser una nación misericordiosa, pero no debemos olvidar que se cometió un crimen atroz.
+$G_SP_02_AGGR_01
+¡Asesinos, traidores, embusteros: hay que eliminarlos o las vidas inocentes estarán en peligro!
+$G_SP_02_AGGR_02
+¡Decapitaremos a otro monstruo que se alimenta de la injusticia!
+$G_SP_02_AGGR_03
+Este individuo escupe en el rostro de Temis y del pueblo. ¡La justicia no tolerará semejantes insultos!
+$G_SP_02_MANI_01
+¡Estos delincuentes anhelan el regreso al pasado! ¡Lo defienden con fervor!
+$G_SP_02_MANI_02
+¿Vas a quedarte ahí parado y dejar que los criminales te digan qué hacer?
+$G_SP_02_MANI_03
+No los escuches cuando digan que no sabes leer. Escúchalos cuando supliquen piedad ante la guillotina.
+$G_SP_02_JOKE_01
+¡Vamos, que el acusado tenga unas palabras con la guillotina!
+$G_SP_02_JOKE_02
+Hoy tenemos ante nosotros a otro acusado que, como todos, clama ser inocente.
+$G_SP_02_JOKE_03
+¡Un aplauso para la obra <i>“Asesinado en vano”</i>!
+$G_SP_02_HUMI_02
+No solo lamentamos a la víctima, sino también el alma del condenado. Pero no confunda nuestra compasión con debilidad.
+$G_SP_02_HUMI_03
+Los criminales deben acabar en la tumba. ¡Solo así podremos forjar un futuro mejor!
+$G_SP_02_HUMI_04
+Al dictar esta sentencia, hacemos nuestras calles más seguras. No lamento al que va a la guillotina, sino a nosotros, sus víctimas.
+$G_SP_03_AGGR_01
+Has tomado el poder en Francia. ¡Ahora derrama la sangre de quienes se oponen a la República!
+$G_SP_03_AGGR_02
+¡Estos criminales creen que nuestra tolerancia es señal de debilidad! ¡Ya basta!
+$G_SP_03_AGGR_03
+¡A los enemigos de Francia solo les espera la muerte!
+$G_SP_03_MANI_01
+¡No merecemos esa libertad si permitimos que el antiguo sistema y la moral corrupta envenenen nuestro país!
+$G_SP_03_MANI_02
+El dominio de los antiguos gobernantes, cuyo objetivo era imponer la injusticia al pueblo, termina con su pronta muerte.
+$G_SP_03_MANI_04
+¡Las generaciones futuras recordarán que no fuimos cobardes! ¡Hay que hacerlo!
+$G_SP_03_JOKE_01
+¿Alguien ha visto al verdugo? ¡Buscad a ese borracho, o tendré que contratar a otro!
+$G_SP_03_JOKE_02
+¡Vamos, vamos, no hay tiempo que perder!
+$G_SP_03_JOKE_03
+¡Matemos a esta asquerosa rata y vayamos de una vez a comer!
+$G_SP_03_HUMI_01
+Aquí, el poder lo tiene el pueblo.
+$G_SP_03_HUMI_02
+¡Ciudadanos, debemos volver al trabajo para construir nuestra nueva Francia! ¡Por la nación!
+$G_SP_03_HUMI_04
+El antiguo régimen debe caer. No hay otra salida. ¡Ahora vosotros sois los soberanos!

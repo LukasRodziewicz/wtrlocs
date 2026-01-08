@@ -1,0 +1,40 @@
+$EVE_007_TITLE
+Boże, chroń królową
+
+$EVE_007_MAIN_01
+„Co wiesz o przeszłości człowieka, który przedstawił Ci się jako »Ramel«? Każdy zasługuje na poznanie prawdy o swoich współpracownikach. Dzisiaj o 22 w uliczce za kawiarnią Le Procope. Przyjdź sam, a zdradzę Ci prawdę o przeszłości »Ramela«. Dla Twojego dobra”.
+
+$EVE_007_MAIN_01_C1
+Idź na spotkanie
+$EVE_007_MAIN_01_C2
+Nie idź na spotkanie
+
+
+$EVE_007_MAIN_02A
+Ulica jest prawie całkowicie pusta, gdzieniegdzie kręci się jakiś pijak lub rozbawiony żak. Docierasz do umówionego miejsca, nikt jednak nie odpowiada na twoje nawoływanie. Potykasz się o coś – pod twoimi stopami leży ciało mężczyzny, na poderżniętym gardle skrzepła już krew. Wygląda na to, że zabity jest naszym niedoszłym źródłem informacji. Przeszukujesz jego ciało, nie znajdujesz niczego, co mogłoby wyjaśnić sytuację. Odchodzisz czym prędzej.
+
+$EVE_007_MAIN_03A
+„Kiedyś mieszkałem na ulicy. Żywiłem się tym, co udało mi się ukraść lub znaleźć. Zacząłem szpiegować, żyłem dzięki informacjom, które pozyskałem. Ostatnio gościłem w okolicach brytyjskiego dworu – nie zdradzę na czyje zlecenie. Teraz ta przeszłość wyciąga po mnie rękę, akurat w momencie, gdy pierwszy raz robię coś z prawdziwego przekonania, dla siebie… dla kogoś.
+	
+Następnym razem odradzam spotykanie się z nieznajomymi w ciemnych uliczkach… Jeśli ktoś ma szczegółowe informacje na mój temat, to zapewne chce mojej śmierci.
+	
+RAMEL.
+
+
+$EVE_007_MAIN_04B
+Popełniłeś błąd. Wysłaliśmy do Ciebie człowieka. Mężczyznę posiadającego informacje, wiedzę na temat Twojego towarzysza. Chcieliśmy Ci ją przekazać praktycznie za darmo. Jako gest dobrej woli. Dzisiaj dowiadujemy się, że ktoś poderżnął mu gardło. Dajemy Ci ostatnią szansę. Umów nas z Ramelem, czy jak go tam nazywasz. Jeśli nie, to może któryś z Was zechce podzielić los naszego przyjaciela? Dzisiaj. Godzina 21. Miejsce bez zmian.
+
+$EVE_007_MAIN_04B_C1
+Wyślij szpiega.
+$EVE_007_MAIN_04B_C2
+Wyślij straż.
+
+
+$EVE_007_MAIN_05A
+Statystyka poderżniętych gardeł pójdzie w górę. Autorzy listu zjawili się na spotkanie. Z tego, co usłyszałem, byli to starzy i wściekli znajomi twojego szpiega. Ramel zasmakował w używaniu noża – teraz urządził nim całe trio, które przybyło do Paryża, żeby go zabić. Z ostatniego dogorywającego bandyty wycisnął trochę informacji odnośnie paryskiego półświatka. Może zrobicie z tego użytek.
+
+$EVE_007_MAIN_05B
+Wybierałeś między baletmistrzem a drwalem. Zapewne już słyszałeś o walkach nieopodal Le Procope. Całe trio, z którym miałeś się spotkać, nie żyje. Przy okazji zapaliła się witryna pobliskiego sklepu, kule raniły miejscowego piekarza oraz jednego ze strażników. Nie mówię już o oknach, które podziurawiły zabłąkane pociski. Aktualny właściciel Le Procope rozpoznał w strażnikach twoich ludzi. Każdemu przybyłemu pewnie przekaże rewelacje, że sędzia Trybunału urządza strzelaniny na ulicach Paryża.
+
+$EVE_007_MAIN_05C
+Trzech na jednego. Twój szpieg jest zdolny, ale kiedy sidła przygotowuje trzech wyszkolonych angielskich szpicli, nawet on może nie dać rady. Tym razem był, powiedzmy, remis. Wyspiarskie trio nie żyje, ale Ramel nie uszedł bez szwanku. Nie lekceważ zagrożeń, które objawiają się tuż przed twoim nosem.

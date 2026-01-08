@@ -1,0 +1,98 @@
+$CUT_026_DISC_HEBERT_001_DANTON
+Mit wem sprichst du? Du würdest die Macht doch am liebsten Leuten überlassen, die nicht einmal richtig lesen können!
+$CUT_026_DISC_HEBERT_002_HEBERT
+Was, willst du etwa behaupten, die Armen taugen nur dazu, an der Front zu sterben?
+$CUT_026_DISC_HEBERT_003_DANTON
+Vielleicht ist es das Schicksal der Pariser Kommune, als Schutzschild für andere unter Beschuss zu geraten?
+$CUT_026_DISC_HEBERT_004_HEBERT
+Wie können Sie es wagen!
+$CUT_026_DISC_HEBERT_005_JUDGE
+Meine Herren, wir sind hier zusammengekommen, um ein Bündnis zu schließen. Wir müssen es tun, denn wir alle tragen Schwächen in uns, die Robespierre nicht hat.
+$CUT_026_DISC_HEBERT_006_JUDGE_AGGR
+Robespierres Paranoia hat schon genug Schaden angerichtet. Es ist unsere Pflicht, solches tollwütiges Ungeziefer auszumerzen!
+$CUT_026_DISC_HEBERT_007_JUDGE_MANI
+Es scheint, als hätte Robespierres Wahnsinn endgültig von seinem Verstand Besitz ergriffen. Jemand muss ihn aufhalten.
+$CUT_026_DISC_HEBERT_008_JUDGE_JOKE
+Vielleicht flüstert ihm seine Paranoia ein, dass er sich selbst gefährlich ist. Vielleicht lässt der Verrückte sich am Ende sogar selbst guillotinieren?
+$CUT_026_DISC_HEBERT_009_JUDGE_HUMI
+Robespierre ist ein unberechenbarer Wahnsinniger. Jeder französische Bürger sollte sich vor ihm fürchten.
+$CUT_026_DISC_HEBERT_010_HEBERT_DOUB
+Frankreich hat Jahrhunderte der Tyrannei überstanden, es wird auch Robespierre überstehen.
+$CUT_026_DISC_HEBERT_011_HEBERT_IRRI
+Ist Robespierre der einzige Wahnsinnige in Paris?
+$CUT_026_DISC_HEBERT_012_HEBERT_AGGR
+Und Sie?! Sie wollen mich doch nur für Ihre eigenen Zwecke gewinnen. Sie sind keinen Deut besser als er!
+$CUT_026_DISC_HEBERT_013_DANTON
+Warum reden wir überhaupt mit diesem Rüpel?
+$CUT_026_DISC_HEBERT_014_JUDGE_AGGR
+Wenn Sie Robespierre allein angreifen, werden Sie untergehen. Vor dieser bitteren Wahrheit können Sie nicht fliehen.
+$CUT_026_DISC_HEBERT_015_JUDGE_MANI
+Robespierre steht nicht ohne Grund an der Spitze. Viele haben versucht, ihn zu stürzen, und alle sind gescheitert. Auch Sie werden verlieren, wenn Sie sich ihm allein entgegenstellen.
+$CUT_026_DISC_HEBERT_016_JUDGE_JOKE
+Du glaubst wohl, deine Stellung sei stark genug, um Robespierre anzugreifen. Doch in Wahrheit hast du ohne uns keine Chance.
+$CUT_026_DISC_HEBERT_017_JUDGE_HUMI
+Selbst gemeinsam können wir Robespierres Macht kaum etwas entgegensetzen. Steck deinen Kopf nicht in das Maul des Löwen – er wird dich ohne Gnade verschlingen.
+$CUT_026_DISC_HEBERT_018_DANTON
+Alexis hat recht. Allein sind wir leichte Beute.
+$CUT_026_DISC_HEBERT_019_HEBERT_INTR
+Wissen Sie etwas, das mir entgeht?
+$CUT_026_DISC_HEBERT_020_HEBERT_DOUB
+Selbst wenn ich verliere, werde ich mit ihm verhandeln können.
+$CUT_026_DISC_HEBERT_021_HEBERT_IRRI
+Ich bin nicht dumm, ich weiß sehr wohl, dass Robespierre gefährlich ist. Aber mich zu unterschätzen ist ein viel größerer Fehler!
+$CUT_026_DISC_HEBERT_022_HEBERT_AGGR
+Narren! Ich bin nicht so schwach, wie ihr glaubt!
+$CUT_026_DISC_HEBERT_027_JUDGE_AGGR
+Und trotzdem habt ihr einen übergelaufenen Erzbischof als Verbündeten gewonnen! Man müsste schon töricht sein, um zu glauben, Gobel wäre ein treuer Partner. Es ist viel wahrscheinlicher, dass er sich Robespierre anschließt, als bei euch zu bleiben.
+$CUT_026_DISC_HEBERT_028_JUDGE_MANI
+Gobel wird Sie bei der ersten Gelegenheit verraten, denn es ist für ihn weit vorteilhafter, sich mit Robespierre zu verbünden. Beide verabscheuen die Herrschaft der Vernunft, doch Gobel hat Ihnen das bisher noch nicht offenbart.
+$CUT_026_DISC_HEBERT_029_JUDGE_JOKE
+Gobel wird euch verraten, so wie er mich verraten hat. Robespierre hat nun einmal mehr zu bieten als jeder von uns.
+$CUT_026_DISC_HEBERT_030_JUDGE_HUMI
+Gobel wird dich verraten. Du selbst treibst ihn in Robespierres Arme. Er hat auf seinen Instinkt gehört, als er das Priesteramt niedergelegt hat. Und wenn dein Kampf gegen Robespierre an einen Wendepunkt gelangt, sobald die Lage brenzlig wird, wird er es wieder tun.
+$CUT_026_DISC_HEBERT_031_JUDGE_AGGR
+Verschwenden Sie Ihre Zeit nicht mit Gobel, er lässt sich nicht lenken. Wir haben einen besseren Sündenbock, den wir tatsächlich kontrollieren können. Ich spreche von Staatsanwalt Tinville.
+$CUT_026_DISC_HEBERT_032_JUDGE_MANI
+Wenn Sie sich uns anschließen, setzen wir jemanden ein, der besser ist als Gobel – jemanden, den wir kontrollieren können: Staatsanwalt Tinville.
+$CUT_026_DISC_HEBERT_033_JUDGE_JOKE
+Ersetzen wir Gobel durch den Ankläger Tinville. Er wird unser Sündenbock sein.
+$CUT_026_DISC_HEBERT_034_JUDGE_HUMI
+Nehmen wir an, ich habe Einfluss auf jemanden, der ein noch besserer Sündenbock wäre als Gobel – Staatsanwalt Tinville.
+$CUT_026_DISC_HEBERT_035_DANTON
+Ich werde von meinem Posten im Wohlfahrtsausschuss zurücktreten und vorschlagen, dass Tinville mich ersetzt. Robespierre wird seine Aufmerksamkeit auf ihn richten, und wir gewinnen etwas Handlungsspielraum.
+$CUT_026_DISC_HEBERT_036_HEBERT_INTR
+Tinville ist Staatsanwalt und genießt einen guten Ruf beim Volk. Es ist möglich, dass Robespierre ihn als Rivalen um das höchste Staatsamt Frankreichs sieht.
+$CUT_026_DISC_HEBERT_037_HEBERT_DOUB
+Und Tinville wird sich so einfach dem Kreuzzug gegen Robespierre anschließen?
+$CUT_026_DISC_HEBERT_038_HEBERT_IRRI
+Es schaudert mich bei dem Gedanken, dass Sie diesen Mann ohne Zögern opfern können. Ich glaube nicht, dass er dem zustimmen würde.
+$CUT_026_DISC_HEBERT_039_HEBERT_AGGR
+Du bist wirklich gefährlich, Fidèle. Gobel hatte recht, und Tinville könnte das jederzeit erkennen.
+$CUT_026_DISC_HEBERT_040_JUDGE_AGGR
+Tinville ist gierig bis zum Wahnsinn. Wir werden ihm verlockende Aussichten schildern und ihn in seinen Fantasien schwelgen lassen. Das wird all seine Zweifel zerstreuen.
+$CUT_026_DISC_HEBERT_041_JUDGE_MANI
+Ich muss ihm nur zeigen, dass die Macht zum Greifen nah ist. Tinville begehrt sie genauso sehr wie wir.
+$CUT_026_DISC_HEBERT_042_JUDGE_JOKE
+Ich werde ihn schon überzeugen, machen Sie sich keine Sorgen. Tinville strebt nur nach Karriere, und was er hat, reicht ihm nie.
+$CUT_026_DISC_HEBERT_043_JUDGE_HUMI
+Tinville giert nach Macht, und ich werde ihn davon überzeugen, dass er sie bekommen wird. Ich werde mich vor ihm erniedrigen, damit er daran glaubt – sein Stolz wird geschmeichelt sein, wenn ein Richter des Tribunals ihm zu Diensten steht.
+$CUT_026_DISC_HEBERT_044_DANTON
+Es könnte funktionieren. Enge Zusammenarbeit und Vertrauen werden der Schlüssel sein, um Robespierre zu besiegen.
+$CUT_026_DISC_HEBERT_045_HEBERT_INTR
+Gut, dann schaffen wir Robespierre ein für alle Mal aus dem Weg!
+$CUT_026_DISC_HEBERT_046_HEBERT_DOUB
+Gut, aber rechnen Sie nicht mit meinem grenzenlosen Vertrauen. Ich werde Sie beobachten. Sehr genau.
+$CUT_026_DISC_HEBERT_047_HEBERT_IRRI
+Ihre Argumente sind schwach. Suchen Sie sich einen anderen „Verbündeten“.
+$CUT_026_DISC_HEBERT_048_HEBERT_AGGR
+Sie haben meine Zeit verschwendet. Dachten Sie wirklich, ich würde mich mit solch verdorbenen Scharlatanen wie Ihnen gemein machen?
+$CUT_026_DISC_HEBERT_TOPIC_01
+Robespierre ist ein gefährlicher Wahnsinniger.
+$CUT_026_DISC_HEBERT_TOPIC_02
+Hébert wird verlieren, wenn er keine Verbündeten hat.
+$CUT_026_DISC_HEBERT_TOPIC_03
+Gobel wird mehr gewinnen, wenn er mit Robespierre über Bedingungen verhandelt.
+$CUT_026_DISC_HEBERT_TOPIC_04
+Lassen Sie uns gemeinsam handeln und den ehrgeizigen Tinville zum Sündenbock machen.
+$CUT_026_DISC_HEBERT_TOPIC_05
+Tinville strebt eine Karriere an.

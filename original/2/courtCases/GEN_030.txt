@@ -1,0 +1,280 @@
+$GEN_030_DOC_01_HEADER
+Compilé par : Nathan d'Essiraf
+$GEN_030_DOC_01_00
+René Mazeaud, 43 ans, juge de l'un des tribunaux parisiens. Avant la Révolution, il figurait parmi les proches conseillers de grands négociants et de la noblesse la plus fortunée. Après les événements de 1789, il s'éprit des idéaux des Lumières et fut nommé juge.
+$GEN_030_DOC_01_01
+Les Parisiens l'accusent de corruption et de trahison de la Révolution après qu'il a <a name="2" class="hidden">acquitté Adèle</a> de Maillard, inculpée de complicité de meurtre. Elle et son mari Emmanuel auraient ourdi l'assassinat de Gilbert Fuster, figure populaire qui présidait un comité révolutionnaire.
+$GEN_030_DOC_01_02
+Des preuves irréfutables établirent la culpabilité d'Adèle de Maillard. Elle avait attiré la victime dans son pavillon de chasse, où eut lieu ensuite l'assassinat de la main du mari. En dépit des circonstances, Mazeaud, qui <a name="4" class="hidden">jugeait le cas d'Adèle,</a> rendit <a name="5" class="hidden">visite à l'accusée en détention</a> à l'occasion d'une suspension de séance qu'il avait ordonnée. De telles visites n'ont bien entendu rien d'ordinaire. Le garde Roux accompagnait le juge lors de cette visite. Une fois celle-ci terminée, Mazeaud reprit l'audience et acquitta l'accusée.
+$GEN_030_DOC_01_03
+L'assistance, furieuse, séquestra le juge à l'annonce du verdict. Une fouille rapide de son domicile révéla <a name="7" class="hidden">un document</a> prouvant qu'il avait tiré profit d'Adèle de Maillard.
+$GEN_030_DOC_01_04
+Le fait que Mazeaud était avant la Révolution <a name="8" class="hidden">l'avocat de Joseph de Maillard</a>, père d'Adèle, ne fait qu'ajouter du piquant à l'affaire. Le père de Maillard, grâce aux bons offices de Mazeaud, s'est enrichi dans le négoce d'exportation. Quant à la fille Adèle, elle est portée  <a name="9" class="hidden">disparue</a>.
+$GEN_030_DOC_02_00
+<a name="10" class="hidden">Testament d'Adèle de Maillard</a> :
+$GEN_030_DOC_02_01
+Je, soussignée Adèle de Maillard, pleinement saine d'esprit, lègue tous les biens et propriétés que j'ai hérités de mon père, Joseph de Maillard, au citoyen René Mazeaud. Je déclare que l'héritage susmentionné fait partie de mes avoirs personnels et qu'il ne peut donc faire l'objet d'aucune revendication successorale de la part des héritiers de feu mon mari Emmanuel. Adèle de Maillard
+$GEN_030_OnStart_00
+Quel est ton nom, citoyen ?
+$GEN_030_OnStart_01
+René Mazeaud, citoyen juge. Je connais parfaitement bien la procédure. Pourrait-on passer aux chefs d'accusation sans plus tarder ?
+$GEN_030_OnStart_02
+Si tu connais si bien la procédure, tu devrais savoir que c'est à moi que reviennent les décisions, pas à l'accusé.
+$GEN_030_OnStart_03
+Je te demande pardon, c'est l'habitude…
+$GEN_030_OnStart_04
+René Mazeaud, tu es accusé de concussion en ayant remis en liberté Adèle de Maillard, ennemie du peuple et de la Révolution, contre profit. Peux-tu t'expliquer ?
+$GEN_030_OnStart_05
+La citoyenne de Maillard était innocente. J'ai enquêté sur son cas en tant que juge et ai rendu mon verdict. En ce qui concerne ma présumée concussion, aucune preuve ou fait n'étaye ce chef d'accusation.
+$GEN_030_OnStart_06
+Permets-moi de te rappeler que nous détenons le testament de de Maillard.
+$GEN_030_OnStart_07
+Ce document ne figure pas au dossier. Je n'en connais même pas le contenu.
+$GEN_030_OnGuilty_00
+Je condamne le citoyen René Mazeaud à être guillotiné ! Emmenez-le.
+$GEN_030_OnGuilty_01
+Tu as lavé l'honneur de ta profession.
+$GEN_030_OnGuilty_02
+Bravo !
+$GEN_030_OnGuilty_03
+Bien fait !
+$GEN_030_OnNotGuilty_00
+René Mazeaud est jugé… non coupable ! Emmenez l'accusé.
+$GEN_030_OnNotGuilty_01
+Trahison !
+$GEN_030_OnNotGuilty_02
+Arrêtez le juge !
+$GEN_030_OnNotGuilty_03
+Je vois, tu préfères ne pas créer de précédent.
+$GEN_030_02x03_00_QTitle
+Pourquoi as-tu acquitté Adèle de Maillard si elle a aidé son mari…
+$GEN_030_02x03_00_00
+Pourquoi as-tu acquitté Adèle de Maillard si elle a aidé son mari à tuer Gilbert Fuster ?
+$GEN_030_02x03_00_01
+Aucune preuve concluante de la complicité intentionnelle de la citoyenne de Maillard n'avait été établie.
+$GEN_030_02x03_00_02
+De même qu'il n'y avait aucune preuve qu'elle eût essayé d'empêcher son mari de commettre l'irréparable.
+$GEN_030_02x03_00_03
+Voilà tout autre chose qu'une complicité intentionnelle, n'est-il pas ?
+$GEN_030_02x03_00_04
+La Loi des suspects ne distingue pas complicité intentionnelle et complicité involontaire quand il s'agit de crimes contre la Révolution.
+$GEN_030_02x03_00_05
+Elle n'est point supposée supplanter le bon sens et la conscience du juge. Ce décret s'applique aux suspects, non aux inculpés.
+$GEN_030_01x10_01_QTitle
+Le testament d'Adèle de Maillard a-t-il acheté son acquittement ?
+$GEN_030_01x10_01_00
+Le testament d'Adèle de Maillard a-t-il acheté son acquittement ?
+$GEN_030_01x10_01_01
+Non, la citoyenne de Maillard l'a rédigé en toute discrétion et de son plein gré. Je n'avais pas connaissance de sa teneur.
+$GEN_030_01x10_01_02
+L'accusé ne connaissait pas la teneur du testament, alors même qu'il était en sa possession ? Voilà qui est intéressant.
+$GEN_030_01x10_01_03
+Le testament a été rédigé et scellé au cours de ma visite carcérale. Ce fut à ce moment même qu'Adèle de Maillard me le confia afin de le remettre au notaire.
+$GEN_030_01x10_01_04
+Mais l'accusé était présent lors de sa rédaction, il a donc eu l'occasion d'influer sur son contenu !
+$GEN_030_01x10_01_05
+Si j'avais su ce que le testament stipulait, j'aurais condamné la citoyenne de Maillard à la guillotine pour hériter de son patrimoine. Or, je ne l'ai pas fait.
+$GEN_030_01x10_01_06
+Mais alors, pourquoi t'a-t-elle légué toutes ses possessions ?
+$GEN_030_01x10_01_07
+Je n'en sais rien et m'abstiendrais de le deviner.
+$GEN_030_01x10_01_08
+Quelle était la nature de ta relation avec Adèle de Maillard ?
+$GEN_030_01x10_01_09
+Nous nous connaissions, mais n'étions pas assez proches pour être amis.
+$GEN_030_08x10_02_QTitle
+Tu as travaillé pour Joseph de Maillard, le père d'Adèle, par le passé.
+$GEN_030_08x10_02_00
+Tu as travaillé pour Joseph de Maillard, le père d'Adèle, par le passé. Étais-tu en mesure d'évaluer sa fortune ?
+$GEN_030_08x10_02_01
+Lorsque notre coopération prit fin, les rentes de Joseph de Maillard s'élevaient à 2 millions de francs. Il me semble qu'elles sont toujours confortables.
+$GEN_030_08x10_02_02
+Adèle de Maillard posséderait donc une belle fortune.
+$GEN_030_08x10_02_03
+Je comprends ce que tu sous-entends, mais je nie catégoriquement avoir persuadé la citoyenne de Maillard de me nommer son héritier.
+$GEN_030_08x10_02_04
+Tu es étonnamment bien familier des finances des de Maillard.
+$GEN_030_08x10_02_05
+Qu'y a-t-il d'étonnant ? J'étais leur conseiller de confiance.
+$GEN_030_08x10_02_06
+Leur argent te permettrait de vivre comme un roi. La tentation paraît forte.
+$GEN_030_08x10_02_07
+Y céderais-tu ?
+$GEN_030_08x10_02_08
+Jamais.
+$GEN_030_08x10_02_09
+Précisément. Moi non plus, je n'y ai pas cédé.
+$GEN_030_05x06_03_QTitle
+Faites entrer le témoin, Simon Roux.
+$GEN_030_05x06_03_00
+Faites entrer le témoin, Simon Roux.
+$GEN_030_05x06_03_02
+Je te prie de te présenter, citoyen.
+$GEN_030_05x06_03_03
+Simon Roux, convoqué ici par Monsieur le juge.
+$GEN_030_08x09_04_QTitle
+Connaissais-tu Adèle de Maillard ?
+$GEN_030_08x09_04_00
+Connaissais-tu Adèle de Maillard ?
+$GEN_030_08x09_04_01
+Avant la Révolution, je m'occupais de certaines affaires de son père. Je suppose qu'elle pouvait me connaître.
+$GEN_030_08x09_04_02
+Elle aurait donc pu te faire confiance et, éventuellement, compter sur ta clémence ?
+$GEN_030_08x09_04_03
+Cela est possible, mais je n'en sais rien. Il n'y avait en tout cas aucune clémence dans mon verdict.
+$GEN_030_08x09_04_04
+Ah oui ? Tu l'as pourtant acquittée, en dépit de preuves tangibles !
+$GEN_030_08x09_04_05
+Elles ne m'ont pas paru si tangibles, mais peut-être es-tu mieux avisé.
+$GEN_030_08x09_04_06
+Évidemment, il ne va pas condamner son amie.
+$GEN_030_04x05_05_QTitle
+Pourquoi as-tu rencontré Adèle de Maillard dans sa cellule ?
+$GEN_030_04x05_05_00
+Pourquoi as-tu rencontré Adèle de Maillard dans sa cellule ? Cela n'a rien de fréquent durant un procès.
+$GEN_030_04x05_05_01
+La citoyenne de Maillard a perdu connaissance au premier jour du procès. Je voulais m'assurer qu'elle ne feignait pas la défaillance et que je pouvais reprendre l'audience au plus vite.
+$GEN_030_04x05_05_02
+Cela aurait pu faire partie d'une manigance.
+$GEN_030_04x05_05_03
+Je ne le crois pas. Elle était assez mal en point.
+$GEN_030_04x05_05_04
+Tu aurais pu attendre la venue d'un médecin.
+$GEN_030_04x05_05_05
+Comme tu le sais bien, j'aurais pu attendre longtemps. Je voulais aussi hâter les choses, car il y avait de nombreux jugements en attente.
+$GEN_030_09x10_06_QTitle
+Es-tu responsable de la disparition d'Adèle de Maillard ?
+$GEN_030_09x10_06_00
+Es-tu responsable de la disparition d'Adèle de Maillard ?
+$GEN_030_09x10_06_01
+Bien sûr que non, je n'y suis pour rien.
+$GEN_030_09x10_06_02
+La disparition de la citoyenne de Maillard tombe à pic pour toi, sachant le contenu de son testament.
+$GEN_030_09x10_06_03
+Je me demande : l'as-tu tuée ou t'es-tu contenté de la cacher pour mettre la main sur l'argent plus vite ?
+$GEN_030_09x10_06_04
+Encore une fois, je ne sais pas où se trouve la citoyenne de Maillard, et je ne suis pas non plus lié à sa disparition. Je ne sais pas si elle est en vie ou non.
+$GEN_030_07x10_07_QTitle
+Où as-tu obtenu le testament ?
+$GEN_030_07x10_07_00
+Où as-tu obtenu le testament ?
+$GEN_030_07x10_07_01
+La citoyenne de Maillard me l'a confié lorsque je lui ai rendu visite dans sa cellule et m'a prié de le remettre au notaire. Il n'y a rien d'illégal à cela.
+$GEN_030_07x10_07_02
+Elle a fait cela lors de la suspension de son procès ?
+$GEN_030_07x10_07_03
+En effet.
+$GEN_030_07x10_07_04
+Pourquoi a-t-elle attendu aussi longtemps ?
+$GEN_030_07x10_07_05
+Je ne sais pas. Tu devrais la retrouver pour lui poser toi-même la question.
+$GEN_030_WIT_00_A_QTitle
+Combien de fois as-tu rendu visite à Adèle de Maillard au cours de sa détention ?
+$GEN_030_WIT_00_A_00
+Combien de fois as-tu rendu visite à Adèle de Maillard au cours de sa détention ?
+$GEN_030_WIT_00_A_01
+Une seule fois, citoyen juge, pendant son procès.
+$GEN_030_WIT_00_A_02
+L'accusé portait-il le même intérêt aux autres détenus ?
+$GEN_030_WIT_00_A_03
+Pour autant que je me souvienne, le juge Mazeaud n'a rencontré aucun autre détenu. Ceci dit, j'avais pour ordre de ne pas me mêler de ses allées et venues.
+$GEN_030_WIT_01_A_QTitle
+Pourrais-tu décrire la visite que Mazeaud a rendue à l'ancienne détenue ?
+$GEN_030_WIT_01_A_00
+Pourrais-tu décrire la visite que Mazeaud a rendue à l'ancienne détenue ?
+$GEN_030_WIT_01_A_01
+Elle a débuté calmement puis, soudainement, ils se sont mis à se quereller. Et ensuite, ils ont retrouvé leur calme.
+$GEN_030_WIT_01_A_02
+Saurais-tu rapporter les propos de la querelle ?
+$GEN_030_WIT_01_A_03
+Le juge a dit que quelque chose ne se faisait pas et qu'il n'accepterait pas. Je n'ai pas compris ce que disait la détenue, elle marmonnait.
+$GEN_030_WIT_01_A_04
+Penses-tu qu'ils se soient disputés parce qu'Adèle de Maillard tentait de le soudoyer contre une part de son héritage ?
+$GEN_030_WIT_01_A_05
+C'est évident.
+$GEN_030_WIT_01_A_06
+Je pense que oui. Le juge portait une sacoche avec de quoi écrire.
+$GEN_030_WIT_01_A_07
+Il l'a donc planifié !
+$GEN_030_WIT_01_A_09
+Que réponds-tu à ces allégations ?
+$GEN_030_WIT_01_A_10
+Elles prouvent, selon moi, que je n'ai jamais exigé de gratification pour l'acquittement de la citoyenne de Maillard.
+$GEN_030_WIT_01_A_11
+Mais tu aurais pu accepter une telle proposition, même si tu t'y es opposé dans un premier temps.
+$GEN_030_WIT_01_A_12
+La seule chose à laquelle je me suis opposé était de m'engager à remettre le testament au notaire.
+$GEN_030_WIT_01_B_QTitle
+Connais-tu le motif de la visite du juge à la prison ?
+$GEN_030_WIT_01_B_00
+Connais-tu le motif de la visite du juge à la prison ?
+$GEN_030_WIT_01_B_01
+Oui. Une note officielle indiquait que le juge Mazeaud souhaitait s'informer de la santé de l'accusée.
+$GEN_030_WIT_01_B_02
+Et l'a-t-il fait ?
+$GEN_030_WIT_01_B_03
+Qu'y avait-il à voir ? Une femme consumée, citoyen juge, au dernier degré. Il ne lui restait plus beaucoup de temps. D'ailleurs, je voudrais ajouter que…
+$GEN_030_WIT_01_B_04
+J'écoute.
+$GEN_030_WIT_01_B_05
+Avant le procès, nous avons découvert, en procédant à un examen médical complet de l'accusée, qu'elle était enceinte depuis peu. Son ventre avait déjà pris de l'ampleur, mais personne d'autre ne l'avait remarqué.
+$GEN_030_WIT_01_B_06
+Elle a abandonné ses biens pour donner naissance. L'affaire est entendue.
+$GEN_030_WIT_01_B_07
+Qui serait le père ?
+$GEN_030_WIT_01_B_08
+Ce ne sont que des ouï-dire, mais il parait que ce serait Gilbert Fuster.
+$GEN_030_WIT_01_B_10
+Que réponds-tu à ces allégations ?
+$GEN_030_WIT_01_B_11
+Je crois que nous en avons entendu assez pour comprendre pourquoi envoyer la citoyenne de Maillard à l’échafaud, comme le demandait le peuple, aurait été pure barbarie. Même si sa culpabilité était prouvée.
+$GEN_030_WIT_01_B_12
+Nous pouvons également comprendre comment tu pourrais jouir d'être l'unique héritier des richesses d'Adèle de Maillard.
+$GEN_030_WIT_01_B_13
+J'aurais à espérer sa mort et celle de son enfant à naître. Quiconque se prétend de l'humanité jugerait cela méprisable.
+$GEN_030_KEY_01
+Accusations de corruption
+$GEN_030_KEY_02
+Disculpation de l'accusée
+$GEN_030_KEY_03
+Preuves formelles de culpabilité
+$GEN_030_KEY_04
+Le juge d'Adèle
+$GEN_030_KEY_05
+Visite à l'accusée
+$GEN_030_KEY_06
+Le gardien de prison
+$GEN_030_KEY_07
+Découverte des documents
+$GEN_030_KEY_08
+L'avocat d'affaires du père d'Adèle
+$GEN_030_KEY_09
+Disparition d'Adèle
+$GEN_030_KEY_10
+Testament
+$GEN_030_LastDialog_00
+Nous nous reverrons, mon cher juge…
+$GEN_030_UNIQUE_QUESTION_00
+Comment Mazeaud a-t-il justifié l'acquittement de Maillard ?
+$GEN_030_UNIQUE_ANSWER_CORRECT_00_00
+Par manque de preuves.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Par les témoignages recueillis.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Par une intervention de ses supérieurs.
+$GEN_030_UNIQUE_QUESTION_01
+Quelle raison le juge a-t-il donné pour s'être rendu dans la cellule de la prévenue ?
+$GEN_030_UNIQUE_ANSWER_CORRECT_01_00
+Il s'inquiétait de sa santé.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Il voulait l'interroger.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il cherchait des preuves.
+$GEN_030_UNIQUE_QUESTION_02
+Quel était le lien entre le prévenu et la femme acquittée ?
+$GEN_030_UNIQUE_ANSWER_CORRECT_02_00
+Il avait été l'avocat de son père.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Il avait été à son service.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Il était son frère bâtard.

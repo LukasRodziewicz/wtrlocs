@@ -1,0 +1,154 @@
+$HIERARCHY_CONFLICT_MAINHEADER
+Çatışmalar
+#HIERARCHY_CONFLICT_STATE_NEW
+Yeni Çatışma
+#HIERARCHY_CONFLICT_STATE_PENDING
+Devam ediyor
+#HIERARCHY_CONFLICT_STATE_BETREYAL
+İhanet
+#HIERARCHY_CONFLICT_STATE_LOCKED
+Engellendi
+#HIERARCHY_CONFLICT_STATE_RESOLVED
+Tamamlandı
+$HIERARCHY_SELECTACTION
+Olağanüstü işlemler
+$HIERARCHY_CHANCE_TOOLTIP
+Çatışmayı kazanma şansı
+$HIERARCHY_CONFLICT_DAYS
+{1} günün {0}. günü
+$HIERARCHY_CONFLICT_DAYS_END
+Tamamlandı
+$HIERARCHY_CONFLICT_PENALTIES
+Kaybetme cezası
+$HIERARCHY_CONFLICT_REWARDS
+Ödüller
+$HIERARCHY_ACCEPT_CONFLICT_SIDE
+Seçimi onayla
+$HIERARCHY_CONFLICT_NOT_ENOUGHT
+Çatışmaya katılmak için yeterli Etki Puanınız yok.
+$HIERARCHY_CONFLICT_SIDE_TITLE
+Çatışmada bir tarafı destekle.
+#HIERARCHY_CONFLICT_WEAKNESS_00
+Tartışmalı İnançlar
+#HIERARCHY_CONFLICT_WEAKNESS_01
+Siyasi Destek Eksikliği
+#HIERARCHY_CONFLICT_WEAKNESS_02
+Kötü Aile İlişkileri
+#HIERARCHY_CONFLICT_WEAKNESS_03
+Monarşist
+#HIERARCHY_CONFLICT_WEAKNESS_04
+Şüpheli İktidara Yükseliş
+#HIERARCHY_CONFLICT_ACTION_NAME_DIP
+Diplomatik
+#HIERARCHY_CONFLICT_ACTION_NAME_SPY
+Gizli
+#HIERARCHY_CONFLICT_ACTION_NAME_STR
+Zorlayıcı
+$HIERARCHY_CONFLICT_ACTION_DIP_01
+Siyasi salondaki üyeleri eleştir.
+$HIERARCHY_CONFLICT_ACTION_DIP_02
+Café Procope’da görüşleri eleştir.
+$HIERARCHY_CONFLICT_ACTION_DIP_03
+Konvansiyon oturumunda eleştirel bir konuşma yap.
+$HIERARCHY_CONFLICT_ACTION_SPY_01
+Binalara saldırgan resimler yaptır.
+$HIERARCHY_CONFLICT_ACTION_SPY_02
+İftira içeren afişlerin asılmasını emret.
+$HIERARCHY_CONFLICT_ACTION_SPY_03
+Çarşıda dedikodu başlat.
+$HIERARCHY_CONFLICT_ACTION_STR_01
+Düşmanınızın yandaşlarını korkutun.
+$HIERARCHY_CONFLICT_ACTION_STR_02
+Bir gelir kaynağını sabote et.
+$HIERARCHY_CONFLICT_ACTION_STR_03
+Devrimci Devriye’yi gönder.
+$HIERARCHY_WEAKNESS_TITLE
+Zayıflık: {0}
+$HIERARCHY_WEAKNESS_UNKNOWN
+<color="#ff0000">Bilinmiyor</color>
+$HIERARCHY_DEATH_01
+Giyotine mahkûm edildi
+$HIERARCHY_DEATH_02
+İhanet
+$HIERARCHY_DEATH_03
+Vurularak öldürüldü
+$HIERARCHY_DEATH_04
+Savaşta düştü
+$HIERARCHY_DEATH_05
+İntihar
+$HIERARCHY_DEATH_06
+İsyanlar sırasında düştü
+$HIERARCHY_DEATH_07
+Kardeşiniz tarafından öldürüldü
+$HIERARCHY_DEATH_08
+Hapiste
+$HIERARCHY_DEATH_09
+Paris'ten kaçtı
+$HIERARCHY_POPUP_HEADER
+{0}’i yendiniz
+$HIERARCHY_POPUP_MAIN
+{0}'yı siyasi çekişmelerde alt etmeyi başardınız. Hiyerarşide yükseliyorsunuz.
+$HIERARCHY_CONFLICT_PAX_TITLE
+Robespierre Roland'a karşı
+$HIERARCHY_CONFLICT_PAX_DESCRIPTION
+Robespierre, Girondinlerden nefret etmiyor. Sadece onların artık işlevini yitirdiğini ve Jacobinler ile Fransa'nın iyiliği için hızla siyasi arenadan çekilmeleri gerektiğini düşünüyor. Ancak Roland, görevde olan bir bakan ve hükümette dengeyi sağlayan bir garantör.
+$HIERARCHY_CONFLICT_001_TITLE
+Burel ve Robespierre Karşı Karşıya
+$HIERARCHY_CONFLICT_001_DESCRIPTION
+Robespierre, başkomutanlık görevine kendi dalkavuklarından birini getirmek istiyor. Kimin olacağını bilmiyoruz, ama Burel görevden alınırsa, yerine geçecek kişinin Yolsuzluğa Yer Vermeyen’e sadık bir köpek olacağından emin olabiliriz.
+$HIERARCHY_CONFLICT_002_TITLE
+Elliott - Hébert Davası
+$HIERARCHY_CONFLICT_002_DESCRIPTION
+İskoç kökenleri nedeniyle Grace Elliott, özellikle Hébert ve onun “Çılgınları” başta olmak üzere birçok vatansever Parisli tarafından küçümseniyor. Casusluk yaptığına dair bir kanıt bulana dek onu rahatsız etmeye devam edecekler.
+$HIERARCHY_CONFLICT_003_TITLE
+Danton Roland’a karşı
+$HIERARCHY_CONFLICT_003_DESCRIPTION
+Danton, kalabalığın coşkuyla adını haykırmasına bayılır. Özelde ise Roland’a karşı bir sempatisi vardır; kuralları ortak iyilik için esnetme cesaretini takdir eder. Fakat kamuoyunda, güvenli bir tutum takınarak Roland’ın istifasını talep eder. Roland ise kolay kolay pes etmeyecek; çünkü hâlâ Jakobenlerle mücadelesi bitmemiş olan Jirondenlerin desteğini arkasında hissediyor.
+$HIERARCHY_CONFLICT_004_TITLE
+Hébert ile Roland
+$HIERARCHY_CONFLICT_004_DESCRIPTION
+Hébert, yaralı avın kokusunu bir av köpeği gibi alır. Roland’ın gemisi su alıyor ve Girondinlerin desteği giyotin bıçağı kadar ince bir çizgide. Hébert için bu, saldırmak için kusursuz bir an. Onun siyasi kariyeri, güçlü ve yozlaşmışların gözden düşüşüyle besleniyor. Sans-culotte’lar buna bayılıyor, zaten onun seçmenleri de onlar.
+$HIERARCHY_CONFLICT_005_TITLE
+Elliot ile Marat
+$HIERARCHY_CONFLICT_005_DESCRIPTION
+Elliott, hayatı boyunca bir saraylı olarak dar görüşlü insanların hakaretlerine sıkça maruz kaldı, ancak Marat’dan önce kimse bunu alenen yapmaya cesaret edememişti. Jean-Paul’ün bunu kendi başına yaptığı pek olası değil; muhtemelen acımasız yazıyı kaleme alması için görevlendirildi. Fakat bu, Grace Elliott için hiçbir şeyi değiştirmiyor: Tüm Paris’in önünde aşağılandı ve bunu Marat’a asla affetmeyecek. Yine de makaleyi okuduğunuzda, içinde gerçek bir yalan bulmak oldukça güç…
+$HIERARCHY_CONFLICT_006_TITLE
+Danton ve David Karşı Karşıya
+$HIERARCHY_CONFLICT_006_DESCRIPTION
+Danton aniden Fransız Akademisi’nin yeniden açılmasını talep etti; muhtemelen bu fikri destekleyen üst sınıfın desteğini kazanmak istiyor. Arkadaşınız Jacques-Louis David ise buna karşı çıkacak, zira akademinin kapatılmasında başrol oynayan oydu. Başkalarının onun kararını sorgulamasına izin vermeyin, fakat David’in Danton kadar nüfuz sahibi olmadığını da unutmayın.
+$HIERARCHY_CONFLICT_007_TITLE
+Hébert - Renard Karşı Karşıya
+$HIERARCHY_CONFLICT_007_DESCRIPTION
+Hébert’nin adamları, liderlerinin monarşiyi yeniden kurmak için bir aristokrat komplosu keşfettiğini bağırarak Paris’te dört dönüyor. Hébert’nin kendisi, bu işin arkasında eski dost Renard’ın olduğunu iddia ediyor. Bunun gerçek olup olmadığını ya da sadece sans-culotte’ların doğasında olan paranoyanın bir ürünü mü olduğunu bilmemize imkân yok. Renard güçlü bir düşman; bir yılan gibi pusuda bekliyor ve üzerine basılırsa en az o kadar tehlikeli.
+$HIERARCHY_CONFLICT_008_TITLE
+Marat ile Gobel
+$HIERARCHY_CONFLICT_008_DESCRIPTION
+Vendée’deki huzursuzluk birdenbire ortaya çıkmadı. Yeni bir cadı avı başlatıldı. Marat, Gobel ve din adamlarının ülkeyi bölmek için bir darbe planladığını iddia ediyor. Gobel güçlüdür ve muhtemelen Marat’nın bu seferine kimse katılmazsa işin içinden sıyrılacaktır.
+$HIERARCHY_CONFLICT_009_TITLE
+Hanriot ile David Karşı Karşıya
+$HIERARCHY_CONFLICT_009_DESCRIPTION
+Hanriot’nun David’e neden saldırdığı belirsiz. İkisi de bu konuda suskun, ama ikincisinin şöyle dediği duyulmuş: “Eğer mesele para değilse, başka ne olabilir?” Bu durumda, işin içinde bir kadın olduğu neredeyse kesin; zira bu devirde mesele asla onur olamaz. İki destekçiniz birbirine düşmüş durumda. Bir taraf seçmek zorundasınız.
+$HIERARCHY_CONFLICT_010_TITLE
+Robespierre ile Gobel Karşı Karşıya
+$HIERARCHY_CONFLICT_010_DESCRIPTION
+Paris’in en güçlü adamı unvanı için iki dev karşı karşıya geliyor. Talih artık başpiskoposun yüzüne gülmüyor ve Robespierre bunu kendi lehine çevirmekte kararlı. Din karşıtı söylemlere göz yumacak, hatta ateşe körükle gidecek. Gobel düştüğünde, Yolsuzluğa Direnen dengeyi yeniden kurmaya çalışacak. Elbette, bu denge tamamen onun kontrolünde olacak.
+$HIERARCHY_CONFLICT_011_TITLE
+De Staël Marat'ya Karşı
+$HIERARCHY_CONFLICT_011_DESCRIPTION
+Modern kadınlar, erkeklerden gördükleri hakaretleri kolay kolay unutmaz. De Staël, Marat’nın Grace Elliot’a nasıl davrandığını hâlâ unutmuş değil. Şimdi geveze Marat, Paris’in zenginlerine en az kendisi kadar erişimi olan bir kadınla karşı karşıya. Germaine, siyasi salonunda onu mutlaka eleştirecek ve hem istifasını hem de cezalandırılmasını talep edecek. Jean-Paul ise, bir kadının galip gelmesi düşüncesine bile tahammül edemeyen erkeklerin desteğine güvenmek zorunda kalacak.
+$HIERARCHY_CONFLICT_012_TITLE
+Hanriot ile Hébert karşı karşıya
+$HIERARCHY_CONFLICT_012_DESCRIPTION
+Hanriot yine bir siyasi tartışma başlattı. Resmiyette Hébert’i, adamlarının muhafızlarını hiçe sayarak sokaklarda adalet dağıtmasıyla suçluyor. Oysa sans-culotte’lar bunu her zaman yapardı, peki şimdi neden itiraz ediyor? Demek ki Hébert onu başka bir şekilde de kızdırdı. Her şeyi bilemeyiz, ama kenarda da duramayız.
+$HIERARCHY_CONFLICT_013_TITLE
+Hanriot ile Danton Karşı Karşıya
+$HIERARCHY_CONFLICT_013_DESCRIPTION
+Paris sokakları, Hanriot’nun İçişleri Bakanlığı’nda bir kariyer peşinde olduğuna dair söylentilerle çalkalanıyor. Ancak, görev değiştirme girişimleri Danton tarafından engellendi; Danton, tembel birini bakanlıkta görmek istemiyor. Bu da Hanriot’yu, Danton’u saf dışı bırakacak bilgileri sistemli bir şekilde toplamaya itti. Görünüşe göre artık elinde yeterince şey var ve eğer Danton’a karşı bir koz elde ettiyse, bunu kullanmaması için hiçbir sebep yok…
+$HIERARCHY_CONFLICT_014_TITLE
+De Staël Robespierre’e karşı
+$HIERARCHY_CONFLICT_014_DESCRIPTION
+De Staël, Robespierre’e meydan okuyorsa kendini gerçekten güçlü hissediyor olmalı. Siyasi salonlardan birinde, Germaine kan dökücü erkeklerin yönettiği toplumu eleştiren ve kadınlar için Devrimci eşitlik talep eden bir konuşma yaptı. Cesur bir adımdı, fakat çoğu kişi onu sadece alaya aldı. Görünen o ki, de Staël kadınların herkesi devirecek kadar güçlü olduğunu kanıtlamaya kararlı ve hedef olarak da Yolsuzluğa Boyun Eğmeyen’i seçti.
+$HIERARCHY_CONFLICT_015_TITLE
+Marat ve Renard
+$HIERARCHY_CONFLICT_015_DESCRIPTION
+Tıpkı Hébert gibi, Marat da Renard’ın Eski Rejim’i geri getirmeyi amaçlayan bir aristokrat komplosunun başında olduğunu ilan ediyor. Ancak başkent kaos ve terörün pençesindeyken kimse komplo teorilerine kulak asmıyor. Duruma bakılırsa, aristokratların dönüşü belki de dengeyi bir nebze olsun geri getirebilir…

@@ -1,0 +1,42 @@
+$DISC_INTR_001_B04_DANTON_001_JUDGE_AGGR
+Roland es un parásito despreciable. La corrupción no puede convertirse en el sello de las nuevas autoridades.
+$DISC_INTR_001_B04_DANTON_002_JUDGE_MANI
+¿De verdad Roland representa al pueblo? ¿O más bien sirve a los intereses de Capeto y sus acólitos?
+$DISC_INTR_001_B04_DANTON_003_JUDGE_JOKE
+Tenemos que deshacernos de Roland por su propio bien. Pronto sus bolsillos reventarán de tanto dinero que guarda en ellos.
+$DISC_INTR_001_B04_DANTON_004_JUDGE_HUMI
+Francia se desangra y personas como Roland no le permitirán sanar sus heridas. Al contrario, solo las hacen más profundas.
+$DISC_INTR_001_B04_DANTON_005_DANTON_SATI
+Nada me haría más feliz que la muerte de esa sanguijuela, pero no entiendo por qué es tan importante para ti.
+$DISC_INTR_001_B04_DANTON_006_DANTON_INTR
+No pensé que alguien fuera de la Convención estaría tan interesado en su caída.
+$DISC_INTR_001_B04_DANTON_007_DANTON_DOUB
+Roland es una sanguijuela, pero también es ministro y diputado elegido por el pueblo.
+$DISC_INTR_001_B04_DANTON_008_JUDGE_AGGR
+Roland no solo es culpable de sobornos. Amenazó a un juez del Tribunal Revolucionario. ¡A la propia justicia independiente!
+$DISC_INTR_001_B04_DANTON_009_JUDGE_MANI
+Para eludir el castigo, Roland emprendió una cruzada contra mí. ¿Acaso no declaró así la guerra al nuevo orden?
+$DISC_INTR_001_B04_DANTON_010_JUDGE_JOKE
+El señor y la señora Roland son dos mosquitos: me pican, chupan la sangre de Francia. Nadie soporta a los mosquitos.
+$DISC_INTR_001_B04_DANTON_011_JUDGE_HUMI
+Mi propia antipatía hacia el ministro no cambia el hecho de que debemos reemplazar a este corrupto realista por alguien más justo.
+$DISC_INTR_001_B04_DANTON_012_JUDGE_AGGR
+Si no logras convencer a los diputados, será prueba de que toleras a los traidores que aún extienden su influencia por toda Francia.
+$DISC_INTR_001_B04_DANTON_013_JUDGE_MANI
+Si los diputados ven que quieres deshacerte de Roland, quizá dejen de sospechar que eres un realista.
+$DISC_INTR_001_B04_DANTON_014_JUDGE_JOKE
+Los girondinos suelen tropezar solos. Basta con darles un pequeño empujón.
+$DISC_INTR_001_B04_DANTON_015_JUDGE_HUMI
+A veces, Roland está más cerca del Antiguo Régimen que el propio Luis. Si quieres deshacerte del viejo orden, esta es tu oportunidad.
+$DISC_INTR_001_B04_DANTON_016_DANTON_SATI
+Debilitar a los girondinos es lo mejor para Francia. Hoy en día no podemos permitirnos gente de opiniones tibias, y jamás toleraremos a los corruptos. ¡No lo consentiré!
+$DISC_INTR_001_B04_DANTON_017_DANTON_INTR
+El fortalecimiento de los jacobinos sería algo positivo. Gobernar el país sería mucho más sencillo y Francia se levantaría de rodillas. Bien, les ayudaré.
+$DISC_INTR_001_B04_DANTON_018_DANTON_DOUB
+Los girondinos están perdiendo poder de todos modos. Esperaré hasta que caigan.
+$DISC_INTR_001_B04_DANTON_TOPIC_01
+¿Qué queremos lograr?
+$DISC_INTR_001_B04_DANTON_TOPIC_02
+¿Por qué lo queremos?
+$DISC_INTR_001_B04_DANTON_TOPIC_03
+¿Qué sacará él de esto?

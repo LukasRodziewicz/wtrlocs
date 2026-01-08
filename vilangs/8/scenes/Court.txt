@@ -1,0 +1,240 @@
+$MENTOR_HELP_AVAIBLE_TIP1
+A ajuda do seu Mentor custa <color="#ff0000">{0} Pontos de Influência</color>
+$MENTOR_HELP_NOT_ENOUGH
+Você não tem Pontos de Influência suficientes.
+$GUILTY_RAW
+Culpado
+$NOTGUILTY_RAW
+Inocente
+$SIGNATURE_TIP
+Assine o documento para confirmar o veredicto.
+$VERDICT_SELECT
+Escolha um veredito:
+$GUILTY_VERDICT_MALE
+Considero o réu culpado e o condeno à morte.
+$PRISON_VERDICT_MALE
+Considero o réu culpado e o condeno à prisão.
+$NOTGUILTY_VERDICT_MALE
+Declaro o réu inocente.
+$GUILTY_VERDICT_FEMALE
+Considero a ré culpada e a sentencio à morte.
+$PRISON_VERDICT_FEMALE
+Considero a ré culpada e a sentencio à prisão.
+$NOTGUILTY_VERDICT_FEMALE
+Declaro o réu inocente.
+$CASE_FILES
+Arquivo do Caso
+$VERDICT
+Veredito
+$PROTOCOL
+Protocolo
+$VERDICT_FORM
+Formulário de Veredito
+$NEWSPAPER
+Jornal
+$EVENT_ITEM
+Notícias
+$JURY_ON_START_DISEBLE_01
+Este caso não é importante o suficiente para que nos envolvamos. Faça dele o que quiser.
+$JURY_ON_END_TOO_FAST_01
+Um veredito? Já?! E o julgamento?
+$JURY_ON_END_DISAGREE_01
+E importa o que temos a dizer? É melhor começar a nos levar em conta daqui pra frente!
+$GROUP_ATTITUDE_HEADER
+A influência do veredicto sobre as Facções
+$PROSECUTOR_PROTOCOL_SIGNED
+O promotor assinou seu relatório.
+$PROSECUTOR_PROTOCOL_UNSIGNED_DISABLE
+Você não tem favores do promotor.
+$PROSECUTOR_PROTOCOL_UNSIGNED_ENABLE
+Usar um favor do promotor.
+$JURY_HEADER
+Opinião do Júri
+$JURY_SUPPORT_HIGH
+Amigável
+$JURY_SUPPORT_NEUTRAL
+Neutro
+$JURY_SUPPORT_LOW
+Hostil
+$JURY_SENTENCE
+Opinião do Júri
+$JURY_SENTENCE_GUILTY
+Opinião do Júri: Pena de Morte
+$JURY_SENTENCE_PRISON
+Opinião do Júri: Prisão
+$JURY_SENTENCE_NOT_GUILTY
+Opinião do Júri: Absolvição
+$JURY_SENTENCE_HIDDEN
+O júri ainda não revelou seu veredicto.
+$JURY_NO_SENTENCE
+O Júri não tem opinião sobre este caso.
+$JURY_SUPPORT
+Favorabilidade do júri.
+$KEYWORD_MATCH_SUCCESS
+Pergunta descoberta
+$KEYWORD_MATCH_FAILURE
+Link incorreto
+$KEYWORD_MATCH_TRAP
+Caíram numa armadilha
+$KEYWORD_NO_MORE_CONNECTIONS
+Todas as tentativas foram usadas
+$KEYWORD_ALL_CONNECTIONS_UNLOCKED
+Todas as perguntas foram desbloqueadas
+$KEYWORD_LOCKED_INFORMATION
+Não descoberto
+$DIALOG_SENTENCE_ICON_TIP
+Influência sobre a opinião do júri
+$DISMISS_WITNESS
+Dispensar a testemunha
+$VERDICT_HEADER_FIRST
+TRIBUNAL
+$VERDICT_HEADER_SECOND
+REVOLUCIONÁRIO
+$MENTOR_FIRSTAGGRESSIONTUTORIAL
+Cuidado agora, o povo está inquieto. Você pode tentar manipular o Júri e o promotor, mas quanto mais demorar para dar o veredito, piores serão as possíveis consequências.
+$VERDICTWINDOW_JURY_NONE_MALE
+O júri ainda não chegou a um veredicto. Faça mais perguntas.
+$VERDICTWINDOW_JURY_GUILTY_MALE
+O Júri vota a favor da decapitação imediata do réu.
+$VERDICTWINDOW_JURY_NOTGUILTY_MALE
+O Júri vota pela absolvição do réu. Consideram-no inocente.
+$VERDICTWINDOW_JURY_PRISON_MALE
+O Júri vota a favor de encarcerar o réu. Consideram a punição suficiente.
+$VERDICTWINDOW_JURY_NONE_FEMALE
+O Júri ainda não chegou a um veredicto. Faça mais perguntas.
+$VERDICTWINDOW_JURY_GUILTY_FEMALE
+O Júri vota a favor da decapitação imediata do réu.
+$VERDICTWINDOW_JURY_NOTGUILTY_FEMALE
+O júri vota pela absolvição da ré. Consideram-na inocente.
+$VERDICTWINDOW_JURY_PRISON_FEMALE
+O Júri vota a favor de encarcerar o réu. Consideram a punição suficiente.
+$VERDICTWINDOW_JURY_SUPPORT
+Júri
+$VERDICTWINDOW_PROSECUTOR_SUPPORT
+Promotor
+$TRIAL_SUMMARY
+Resumo do Julgamento
+$UNLOCKED_QUESTIONS
+Perguntas desbloqueadas: {0}/{1}
+$VERDICTWINDOW_GROUP_HEADER
+Inteligência
+$STARTING_TRIAL_DIALOG_HEADER
+Iniciar o Julgamento
+$VERDICT_HEADER
+TRIBUNAL REVOLUCIONÁRIO
+$AUDIENCE_ATTITUDE_TOOLTIP_0
+O povo está satisfeito
+$AUDIENCE_ATTITUDE_TOOLTIP_1
+O público está calmo
+$AUDIENCE_ATTITUDE_TOOLTIP_2
+O povo está apreensivo
+$AUDIENCE_ATTITUDE_TOOLTIP_3
+O povo está irritado
+$AUDIENCE_ATTITUDE_TOOLTIP_4
+O público está agressivo
+$VERDICTWINDOW_DESC_VERDICT_NOT_SELECTED
+Escolha um veredicto para ver sua influência sobre a Facção
+$VERDICTWINDOW_DESC_VERDICT_SELECTED
+As consequências do veredicto foram determinadas com base nas relações entre as facções
+$VERDICTWINDOW_NO_INFO_TIP
+Sem informações
+$VERDICTWINDOW_GAMEOVER_PEOPLE
+Risco de morte
+$VERDICTWINDOW_GAMEOVER_REVO
+Risco de ser destituído do cargo
+$VERDICTWINDOW_ADDITIONAL_REPUTATION
+Bônus de reputação.
+$VERDICTWINDOW_UNLOCK_FROM_MAP_MISSION_TOOLTIP
+Desbloqueado no mapa
+$VERDICTWINDOW_GROUPCHANGE_LOCKED_TOOLTIP
+Prestígio da facção muito baixo para ver a influência
+$DIALOG_HUB_HEADER
+Perguntas ao réu
+$WITNESS_QUESTIONS_HUB_HEADER
+Perguntas para a testemunha
+$KEYWORD_LOCKED_TOOLTIP
+Revise os arquivos do caso para desbloquear
+$DESIRED_VERDICT_PANEL_HEADER
+Sentença esperada
+$PROTOCOL_QUIZ_SUMMARY_CORRECT
+Resposta correta
+$PROTOCOL_QUIZ_SUMMARY_INCORRECT
+Resposta incorreta
+$PROTOCOL_QUIZ_MENTOR_BUTTON_NOT_ENOUGHT
+Pontos de Influência insuficientes
+$PROTOCOL_QUIZ_MENTOR_BUTTON_ACTIVE
+Obtenha a ajuda do seu Mentor por <color="#ff0000">{0} PI</color>
+$PROTOCOL_QUIZ_PROSECUTOR_BUTTON_INACTIVE
+Você não pode usar o favor do promotor
+$PROTOCOL_SUMMARY_RESULT_TITLE
+Resultados do relatório:
+$SUMMARY_EFFECTS
+Efeitos
+$SUMMARY_ATTITUDE_POSSITIVE
+Influência positiva
+$SUMMARY_ATTITUDE_NO_CHANGE
+Sem influência
+$SUMMARY_ATTITUDE_NEGATIVE
+Influência negativa
+$PROTOCOL_QUIZ_TITLE
+Relatório
+$PROTOCOL_RESULT_WORST
+{0}/{1} Trabalho terrível!
+$PROTOCOL_RESULT_BAD
+{0}/{1} Trabalho ruim!
+$PROTOCOL_RESULT_GOOD
+{0}/{1} Bom trabalho!
+$PROTOCOL_REASON_01
+Escolha incorreta.
+$PROTOCOL_SIGNATURE_TOOLTIP
+Aprovar o relatório.
+#FAMILY
+Família
+$VERDICT_RELATIONSHIP_HEADER
+Relatórios do Juiz
+$PROTOCOL_JURY_SENTENCE_CHANGE_TOOLTIP
+Mudança de decisão do júri:
+$PROTOCOL_QUIZ_JUDGE_SIGNATURE
+Assinatura do Juiz
+$PROTOCOL_QUIZ_PROSECUTOR_SIGNATURE
+Assinatura do Promotor
+$JURY_EFFECT_HEADER
+Influência do Júri:
+$PROSECUTOR_QUEST_MAIN
+Posso te lembrar do que me deve depois do nosso último jogo de dados? Você perdeu ontem, lembra?
+$PROSECUTOR_QUEST_GUILTY
+O acusado morre hoje.
+$PROSECUTOR_QUEST_PRISON
+Quero que o réu seja enviado à prisão.
+$PROSECUTOR_QUEST_NOT_GUILTY
+Libertem o acusado!
+$PROSECUTOR_BAD_QUIZ_POPUP
+Não vou assinar um relatório tão malfeito. Cuidado para não acabar na guilhotina por causa disso!
+$VERDICT_LOCKED_TEXT
+Indisponível neste caso
+$VERDICT_LOCKED_TEXT_BUILDING
+Alguém convenceu seus superiores de que este relatório seria uma perda de tempo.
+$FLASHCARDS_DISABLED_TOOLTIP
+Julgamentos rápidos ainda não estão disponíveis
+$GUILTY_VERDICT_PROLOG
+Considero o réu culpado da infração pela qual foi acusado.
+$FLASHCARDS_PROSECUTOR_ENTER
+Hoje temos apenas alguns casos menores para resolver.
+$FLASHCARDS_PROSECUTOR_EXIT
+Obrigado. Até os mais humildes merecem justiça.
+$QUIZ_DIALOG_SOURCE_LOCKED_TOOLTIP
+O assunto não foi mencionado durante o interrogatório.
+$KEYWORDVIEW_NUMBER_OF_CHANGES
+Possíveis erros
+$KEYWORDVIEW_NUMBER_OF_TRAPS
+Número de armadilhas
+$KEYWORD_VIEW_NUMBER_OF_QUESTIONS_LEFT
+Perguntas a revelar: {0}
+$KEYWORD_VIEW_BUTTON_TOOLTIP
+Desbloquear perguntas
+$VERDICT_FLASHCARDS_EMPTY_LABEL
+Você não tem mais casos para hoje.
+$MAIN_SECTION_MILESTONE_TITLE
+Construção Inacabada
+$MAIN_SECTION_MILESTONE_MAIN
+Você não cumpriu sua obrigação de concluir a construção da estátua a tempo. Paris está decepcionada.

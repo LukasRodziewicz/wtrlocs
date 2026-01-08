@@ -1,0 +1,239 @@
+$GEN_059_DOC_1_HEADER
+Sporządził: Nathan d’Essiraf
+$GEN_059_DOC_1_00
+	Anna de Korff, 67-letnia <a name="1" class="hidden">wdowa</a>, obecnie posiadaczka ogromnego majątku odziedziczonego po mężu, baronie Clichy. Przed rewolucją była jedną z <a name="3" class="hidden">zaufanych dwórek</a> Marii Antoniny. Po wydarzeniach roku 1789 zaniechała kontaktów z dworem, jednak od niedawna stała się częstym bywalcem w <a name="4" class="hidden">Tuileries</a>, gdzie przetrzymywano rodzinę królewską. Była uczestnikiem spisku hrabiego Fersena, mającego na celu zorganizowanie ucieczki rodziny królewskiej z Tuileries.
+$GEN_059_DOC_1_01
+	De Korff na polecenie Fersena miała zakupić na swoje nazwisko <a name="6" class="hidden">nową karetę</a> w zakładzie Jeana Louisa – 6-osobową berlinę, zdolną wywieźć rodzinę królewską z Paryża. Kamerdyner baronowej, Gendr, zeznał, że kareta ta została przekazana hrabiemu na krótko przed ucieczką monarchów. 
+$GEN_059_DOC_1_02
+	Jak już powszechnie wiadomo, Fersen powoził nią osobiście w stroju stangreta aż do Bondy. Co istotne, po zatrzymaniu uciekinierów w Varennes przy Marii Antoninie odnaleziono <a name="7" class="hidden">świeżo wystawiony paszport</a> na nazwisko Anny de Korff, którym królowa posługiwała się w trakcie podróży.
+$GEN_059_DOC_1_03
+	Paryskie ulice aż huczą od plotek. Mówią, że Anna postanowiła pomóc hrabiemu nie tyle z powodu sympatii do monarchii, ile ze względu na łączący ich niegdyś romans i <a name="8" class="hidden">nieugaszoną chuć</a> podstarzałej arystokratki.
+$GEN_059_DOC_1_04
+Dowody:
+<a name="9" class="hidden">Rachunek</a> wystawiony przez Jeana Louisa
+$GEN_059_DOC_2_TOOLTIP
+Rachunek
+$GEN_059_DOC_2_00
+Szanowna Baronowo!
+    
+	Kareta typu berlina na Pani szczególne zamówienie jest gotowa. Podane przez Panią wytyczne zostały w pełni zrealizowane. Kwotę 70 tysięcy franków proszę przesłać z pomocą Duranda.
+    
+    Zawsze oddany,
+    J.L.
+
+$GEN_059_OnStart_00
+Zwolenniczka tyranii!
+$GEN_059_OnStart_01
+Proszę się przedstawić.
+$GEN_059_OnStart_02
+Baronowa Anna de Korff.
+$GEN_059_OnStart_03
+Anno de Korff, zostaliście oskarżeni o współudział w spisku mającym na celu wywiezienie za granicę rodziny królewskiej. Czy przyznajecie się do winy?
+$GEN_059_OnStart_04
+Wysoki Sądzie, to jakaś absurdalna pomyłka! Nie mam z tą sprawą nic wspólnego!
+$GEN_059_OnStart_05
+Dowody świadczą przeciwko wam.
+$GEN_059_OnStart_06
+To niemożliwe!
+$GEN_059_OnGuilty_00
+Skazuję Annę de Korff na śmierć na gilotynie! Wyprowadzić skazaną.
+$GEN_059_OnGuilty_01
+Tak kończą wszyscy zwolennicy Capeta!
+$GEN_059_OnGuilty_02
+Brawo!
+$GEN_059_OnPrison_00
+Skazuję Annę de Korff na więzienie! Wyprowadzić skazaną.
+$GEN_059_OnPrison_01
+Co takiego?!
+$GEN_059_OnPrison_02
+I gdzie tu sprawiedliwość?!
+$GEN_059_OnNotGuilty_00
+Wyrok w sprawie Anny de Korff brzmi: niewinna! Wyprowadzić podsądną.
+$GEN_059_OnNotGuilty_01
+Skandal! Zdrada!
+$GEN_059_OnNotGuilty_02
+A może ty też jesteś w zmowie z Fersenem?!
+$GEN_059_02x06_00_QTitle
+Ile karet oskarżona ma w swojej powozowni?
+$GEN_059_02x06_00_00
+Ile karet oskarżona ma w swojej powozowni?
+$GEN_059_02x06_00_01
+O ile mnie pamięć nie myli, to trzy.
+$GEN_059_02x06_00_02
+My nie pamiętamy, kiedy jedliśmy mięso, ona – ile ma karet!
+$GEN_059_02x06_00_03
+Po co zatem oskarżona zamawiała dodatkowy powóz w zakładzie Jeana Louisa? Trzy karety to dość jak na samotną wdowę.
+$GEN_059_02x06_00_04
+Łaskawy sądzie, bo pozwalał mi na to posiadany majątek. Odkąd to wydawanie pieniędzy, choćby na kobiece kaprysy, jest przestępstwem?
+$GEN_059_02x06_00_05
+Odkąd służą realizacji spiskowych zamierzeń hrabiego Fersena. Wiemy, że to na jego polecenie oskarżona zakupiła karetę.
+$GEN_059_02x06_00_06
+Nic podobnego! Zleciłam jej wykonanie z myślą o własnej podróży do Montmédy!
+$GEN_059_06x09_01_QTitle
+Proszę opisać karetę zamówioną w zakładzie Jeana Louisa.
+$GEN_059_06x09_01_00
+Proszę opisać karetę zamówioną w zakładzie Jeana Louisa.
+$GEN_059_06x09_01_01
+To była bardzo luksusowa berlina koloru zielono-cytrynowego.
+$GEN_059_06x09_01_02
+Czyli taka, jakiej użyto do porwania rodziny królewskiej. Co się z nią obecnie dzieje?
+$GEN_059_06x09_01_03
+Zaręczam, że nie mam nic wspólnego z ucieczką Ludwika XVI i jego małżonki z Tuileries!
+$GEN_059_06x09_01_04
+Proszę odpowiedzieć na pytanie!
+$GEN_059_06x09_01_05
+Cóż… Ja… ja ją wypożyczyłam hrabiemu Fersenowi… Ale klnę się na wszystkie świętości – nie wiedziałam, do czego ten łajdak jej naprawdę użyje!
+$GEN_059_06x09_01_06
+Ciekawe, kto ci w to uwierzy?!
+$GEN_059_06x09_01_07
+A do czego według oskarżonej miał jej użyć?
+$GEN_059_06x09_01_08
+Powiedział, że miał z niej korzystać ambasador Szwecji. Jak miałam nie uwierzyć hrabiemu?
+$GEN_059_05x07_02_QTitle
+Jakim sposobem paszport oskarżonej znalazł się w posiadaniu Marii Antoniny?
+$GEN_059_05x07_02_00
+Jakim sposobem paszport oskarżonej znalazł się w posiadaniu Marii Antoniny?
+$GEN_059_05x07_02_01
+Ten paszport został skradziony z mego mieszkania i na pewno stoi za tym hrabia Fersen!
+$GEN_059_05x07_02_02
+Rozumiem, że oskarżona zgłosiła kradzież odpowiednim organom?
+$GEN_059_05x07_02_03
+Poleciłam zrobić to mojemu kamerdynerowi Gendrowi.
+$GEN_059_05x07_02_04
+To ciekawe, bo tego typu zgłoszenie nigdy nie wpłynęło do paryskiej policji.
+$GEN_059_05x07_02_05
+Nie wiem, co powiedzieć… Nie rozumiem, dlaczego Gendr nie wykonał mojego polecenia…
+$GEN_059_05x07_02_06
+I nie dopilnowała tego obywatelka?
+$GEN_059_05x07_02_07
+Mam tyle spraw na głowie, czasem można o czymś zapomnieć.
+$GEN_059_05x07_02_08
+Jacy zapracowani ci nasi bogacze, nie?
+$GEN_059_04x07_03_QTitle
+Jaki był cel odwiedzin oskarżonej u rodziny królewskiej w Tuileries?
+$GEN_059_04x07_03_00
+Jaki był cel odwiedzin oskarżonej u rodziny królewskiej w Tuileries?
+$GEN_059_04x07_03_01
+Był on wyłącznie towarzyski. Jako osoba starsza niestety cierpię w Paryżu straszną samotność.
+$GEN_059_04x07_03_02
+To dość dziwne, zważywszy na odcięcie się oskarżonej od królewskiego dworu po wybuchu rewolucji.
+$GEN_059_04x07_03_03
+Zanim umrę, chciałam odwiedzić ludzi, z którymi niegdyś spotykałam się w Wersalu. Czy to coś złego?
+$GEN_059_04x07_03_04
+I to właśnie w czasie takich odwiedzin oskarżona przekazała Marii Antoninie swój paszport?
+$GEN_059_04x07_03_05
+Absolutnie nie! Cały czas towarzyszył nam strażnik królowej i patrzył na ręce! Ci potworni ludzie nie odstępują jej na krok. Biedna, udręczona kobieta.
+$GEN_059_04x07_03_06
+A jednak jakimś cudem paszport oskarżonej znalazł się u królowej.
+$GEN_059_04x07_03_07
+Nie miałam z tym nic wspólnego!
+$GEN_059_03x05_04_QTitle
+W pośpiechu oskarżona postarała się o nową karetę i paszport. Po co?
+$GEN_059_03x05_04_00
+W pośpiechu oskarżona postarała się o nową karetę i paszport. Po co?
+$GEN_059_03x05_04_01
+Na zaproszenie pani de Gasperi planowałam wycieczkę do Montmédy.
+$GEN_059_03x05_04_02
+To ciekawy zbieg okoliczności, bo właśnie tam miała zostać wywieziona rodzina królewska!
+$GEN_059_03x05_04_03
+Ale nadal to tylko zbieg okoliczności, a te z założenia są ciekawe i dziwne.
+$GEN_059_03x05_04_04
+Ona z nas drwi!
+$GEN_059_05x08_05_QTitle
+Co łączy oskarżoną z hrabią Fersenem?
+$GEN_059_05x08_05_00
+Co łączy oskarżoną z hrabią Fersenem?
+$GEN_059_05x08_05_01
+Tylko przyjaźń, łaskawy sądzie. W moim wieku na nic innego ze strony mężczyzn nie mogę liczyć… Niestety.
+$GEN_059_05x08_05_02
+Kiedyś jednak łączyło was więcej?
+$GEN_059_05x08_05_03
+Nie tak wiele, jak opowiadali na dworze.
+$GEN_059_05x08_05_04
+Ale znaliście się dobrze.
+$GEN_059_05x08_05_05
+Można tak powiedzieć. Ufałam temu człowiekowi, a teraz przez niego na starość wylądowałam w celi.
+$GEN_059_03x04_06_QTitle
+Co sądzi oskarżona o monarchii?
+$GEN_059_03x04_06_00
+Co sądzi oskarżona o monarchii?
+$GEN_059_03x04_06_01
+Nie znam się na polityce, ale popieram rewolucję, jeśli o to sąd pyta.
+$GEN_059_03x04_06_02
+Dlatego właśnie porzuciła oskarżona dwór?
+$GEN_059_03x04_06_03
+To była zupełnie inna historia, nie miała nic wspólnego z polityką.
+$GEN_059_03x04_06_04
+A z czym?
+$GEN_059_03x04_06_05
+Zupełnie bez podstaw oskarżono mnie o mały skandal związany z pewnym żonatym generałem.
+$GEN_059_03x04_06_06
+Czy mimo to wciąż miała oskarżona dobre stosunki z żoną obywatela Capeta? Na tyle dobre, żeby jej pomóc?
+$GEN_059_03x04_06_07
+Co najwyżej modlitwą. W moim wieku nie ma już sił na spiski i knowania.
+$GEN_059_01x06_07_QTitle
+Po co samotnej kobiecie powóz na aż sześć osób?
+$GEN_059_01x06_07_00
+Po co samotnej kobiecie powóz na aż sześć osób?
+$GEN_059_01x06_07_01
+Ponieważ samotna kobieta pragnie podróżować w towarzystwie – wciąż mam kogo zaprosić na wspólną przejażdżkę.
+$GEN_059_01x06_07_02
+Albo macie możliwość za pomocą tego powozu porwania rodziny królewskiej, liczącej akurat sześć osób.
+$GEN_059_01x06_07_03
+Nie tylko ja jestem w tym mieście posiadaczką 6-osobowej berliny, Wysoki Sądzie.
+$GEN_059_01x06_07_04
+Ale inni właściciele nie organizują spisków przeciwko narodowi…
+$GEN_059_01x06_07_05
+Nie przy użyciu powozów.
+$GEN_059_01x06_07_06
+Tak, wszyscy jesteśmy otoczeni przez żmije!
+$GEN_059_KEY_01
+67-letnia wdowa 
+$GEN_059_KEY_02
+Ogromny majątek
+$GEN_059_KEY_03
+Zaufana dwórka
+$GEN_059_KEY_04
+Bywalczyni w Tuileries
+$GEN_059_KEY_05
+Zorganizowanie ucieczki
+$GEN_059_KEY_06
+Nowa kareta
+$GEN_059_KEY_07
+Nowy paszport królowej
+$GEN_059_KEY_08
+Żądze oskarżonej
+$GEN_059_KEY_09
+Rachunek za wykonanie pojazdu
+
+$GEN_059_LastDialog_00
+Dlaczego chcecie mnie zabić? Gdzie są wasze dowody?
+
+$GEN_059_UNIQUE_QUESTION_00
+Po co podsądnej były paszport i kareta?
+$GEN_059_UNIQUE_ANSWER_CORRECT_00_00
+Planowała wycieczkę do Montmédy.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Chciała odwiedzić rodzinę w Rouen.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Jechała kupić dom w Marsylii.
+
+$GEN_059_UNIQUE_QUESTION_01
+Kto według zeznań miał korzystać z pojazdu wdowy?
+$GEN_059_UNIQUE_ANSWER_CORRECT_01_00
+Ambasador Szwecji.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Jej brat.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Generał Aldric.
+
+$GEN_059_UNIQUE_QUESTION_02
+Gdzie znaleziono paszport Anny de Korff?
+$GEN_059_UNIQUE_ANSWER_CORRECT_02_00
+Przy Marii Antoninie.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Przy hrabim Fersenie.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Przy służącym królowej.
+
+

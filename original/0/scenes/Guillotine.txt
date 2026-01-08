@@ -1,0 +1,47 @@
+$EXECUTION_START_TIP
+Pociągnij za sznur, aby wykonać egzekucje.
+$SUMMON_GUARDS
+Wezwij strażników
+$SKIP_SPEECH
+Pomiń przemowę
+$PEOPLE_ATTITUDE
+[Nastawienie ludu]
+$PEOPLE_ATTITUDE_DESC
+Nastawienie ludu - czym jest i jak działa.
+$PEOPLE_ATTITUDE_LV1
+Agresja
+$PEOPLE_ATTITUDE_LV2
+Dezaprobata
+$PEOPLE_ATTITUDE_LV3
+Obojętność
+$PEOPLE_ATTITUDE_LV4
+Przychylność
+$PEOPLE_ATTITUDE_LV5
+Radość
+$GUILLOTINE_ATTACK_SUCCESS_DESC
+Tłumowi zgromadzonemu na placu egzekucyjnym nie spodobały się twoje słowa. W ruch poszły pięści i pałki. Niestety strażnicy byli zbyt daleko i nie zdążyli zareagować. Zostałeś sam na sam z rozwścieczonym tłumem...
+$GUILLOTINE_ATTACK_FAILURE_DESC
+Tłumowi zgromadzonemu na placu egzekucyjnym nie spodobały się twoje słowa. Swoje niezadowolenie chcieli odcisnąć pięściami na Twoim ciele. Na szczęście dla Ciebie strażnicy byli przygotowani i szybko opanowali sytuacje. Twoja reputacja została nadszaprnięta, ale możesz kontynuować egzekucję.
+$GUILLOTINE_START_SPEECH
+Przemów do ludu.
+$GUILLOTINE_SPEECH_START_LOW_JUSTICE
+... wydają się nieufni...
+$GUILLOTINE_SPEECH_START_NEUTRAL_JUSTICE
+Mogę spróbować zdobyć serca tłumu.
+$GUILLOTINE_SPEECH_START_HIGH_JUSTICE
+Mam ich w garści, ufają mi
+$GUILLOTINE_HEART_LOW_JUSTICE
+Nie ufają mi
+$GUILLOTINE_HEART_NEUTRAL_JUSTICE
+Nieufność
+$GUILLOTINE_HEART_HIGH_JUSTICE
+Ufają mi
+$TIMERGUARD
+Zbyt długo zwlekaliśmy, lud zaczyna się denerwować!
+
+#GUILLOTINE_COMMENT_000
+Daj nam jego głowę!
+#GUILLOTINE_COMMENT_001
+Pociągnij za sznur!
+#GUILLOTINE_COMMENT_002
+Za rewolucję!

@@ -1,0 +1,30 @@
+$DIAL_H_01_01_06_001_GRANDFATHER
+Nous avons tiré un bon profit. Nous avions une chance d'atteindre la prospérité…
+$DIAL_H_01_01_06_002_ELDERSON
+Pépé, pourquoi est-ce que la famille Renard veut récupérer ton atelier ?
+$DIAL_H_01_01_06_003_GRANDFATHER
+Pour le profit et le pouvoir. C'est toujours la même histoire, et rien n'est différent en ces temps.
+$DIAL_H_01_01_06_004_ELDERSON
+C'est l'égalité qui prime aujourd'hui, pour que les aristocrates ne soient pas les seuls à vivre dignement.
+$DIAL_H_01_01_06_005_GRANDFATHER
+Grandis, mon garçon. Je n'ai pris conscience des choses que lorsqu'ils ont essayé de condamner mon fils, ton oncle, à mort. Je me suis soudainement rendu compte que seuls le pouvoir que je n'ai jamais eu et les relations qui ne m'ont jamais importé comptaient.
+$DIAL_H_01_01_06_006_JUDGE
+Tu voulais être honnête alors que l'injustice se répandait telle une épidémie. Tu n'as rien à regretter.
+$DIAL_H_01_01_06_007_GRANDFATHER
+Je ne le regrette pas. Mais j'aurais préféré que ton frère soit encore parmi nous pour avoir mes deux fils en vie.
+$DIAL_H_01_01_06_008_YOUNGERSON
+Tu as un frère, papa ? Il est où ?
+$DIAL_H_01_01_06_009_JUDGE
+Il est décédé il y a longtemps de cela, avant ta naissance.
+$DIAL_H_01_01_06_010_YOUNGERSON
+Pourquoi il est mort ?
+$DIAL_H_01_01_06_011_JUDGE
+On mange, ne sois pas si bavard.
+$DIAL_H_01_01_06_012_GRANDFATHER
+Ton oncle a fait la guerre, il est mort au front. Ta génération se rendra bientôt compte de l'ampleur des dégâts que nous avons infligés au monde. Par le passé, des hommes respectables comme Pochard n'avaient pas à se soucier des tribunaux ou des cours de justice, alors que maintenant...
+$DIAL_H_01_01_06_013_JUDGE
+Envisages-tu que Pochard soit coupable ?
+$DIAL_H_01_01_06_014_YOUNGERSON
+Non ! Pas M. Pochard !
+$DIAL_H_01_01_06_015_GRANDFATHER
+Il n'est pas plus coupable que chacun d'entre nous... Mon fils, surveille de près les Renard.

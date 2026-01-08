@@ -1,0 +1,256 @@
+$GEN_056_DOC_01_HEADER
+Hazırlayan: Charles Etienne
+$GEN_056_DOC_01_00
+	Latin Mahallesi sakinlerinden aldığımız bilgiye göre, bir <a name="1" class="hidden">ucube</a> ve <a name="2" class="hidden">yalnız</a> şahıs, civardaki birkaç apartmanın kullandığı bir kuyuyu zehirlemiş. İhbarda belirtildiğine göre, bu suç yüzünden birkaç Yurttaş hastalanmış.
+$GEN_056_DOC_01_01
+	Sanık Gabriel Rouzet’dir ve onu tutuklamaya gönderilen asker, komşuların onun tuhaflığı hakkındaki görüşlerini doğrulamıştır. Adam, rue Serpente’deki bir binanın dördüncü katında <a name="3" class="hidden">iki hizmetçiyle</a> birlikte yaşıyor. Tutuklama anında dairesi <a name="4" class="hidden">tamamen karanlıktı</a> ve ev sahibinin dış görünüşü ile davranışları tiksindirici olarak tanımlandı. Bunu mahkeme salonunda kendiniz de göreceksiniz.
+$GEN_056_DOC_01_02
+	Bu dosyada, Rouzet’nin suçuyla ilgili daha fazla bilgi edinebileceğiniz ihbarın içeriği bulunmaktadır.
+$GEN_056_DOC_02_00
+İsimsiz ihbar
+$GEN_056_DOC_02_01
+	Paris makamları, son günlerde <a name="5" class="hidden">kuyumuzdaki su</a> öyle bir koku yaymaya başladı ki, bazıları üniversite yanındaki umumi çeşmeden su getirmesi için taşıyıcılara para vermeye başladı. Kuyunun suyunu içenler <a name="7" class="hidden">hastalandı</a>, kimi hafif, kimi ağır atlattı. Lambert Cazale adında bir dostum, bütün gece kovaya kusmak zorunda kaldı. Tabii, ardından temizlemek de gerekti.
+$GEN_056_DOC_02_02
+	Kuyunun zehirlenmesinin arkasında kimin olduğunu bilmemek imkânsız. Karşı sokakta Rouzet oturuyor; çirkinin ve ucubenin teki. Sadece akşamları dışarı çıkar, yüzünü saklasa da ne tür bir yaratık olduğunu hepimiz biliyoruz. İnsanlardan nefret ettiği kesin, muhtemelen oraya bir <a name="8" class="hidden">ceset</a> attı ki içecek suyumuz kalmasın, hepimiz sinek gibi ölelim. Ve o ucube şimdi de gelip kamu çeşmesinden su almaya başladı!
+$GEN_056_OnStart_00
+Emin olamam, ama kuyuya her şey düşmüş olabilir, dikkatsiz bir kedi bile.
+$GEN_056_OnStart_01
+Adınız Rouzet mi?
+$GEN_056_OnStart_02
+Evet, Gabriel Rouzet.
+$GEN_056_OnStart_03
+Kuyuya zehir katmakla suçlanıyorsunuz. Savunmanız için söylemek istediğiniz bir şey var mı?
+$GEN_056_OnStart_04
+Çocukluğumdan beri, ışığa maruz kaldığımda cildimle ilgili sorunlar yaşarım.
+$GEN_056_OnStart_05
+Bu hastalığın sizin... görünüşünüzle bir ilgisi var mı?
+$GEN_056_OnStart_06
+Muhtemelen. Ben böyle doğmadım.
+$GEN_056_OnStart_07
+Kuyuya zehir attınız mı, atmadınız mı?
+$GEN_056_OnStart_08
+Elbette yapmadım. Ne saçma bir suçlama.
+$GEN_056_OnGuilty_00
+Vatandaş Rouzet’i giyotine mahkûm ediyorum. Artık hiçbir vatandaşı korkutamayacak.
+$GEN_056_OnGuilty_01
+Adalet sonunda yerini buldu!
+$GEN_056_OnGuilty_02
+Sonunda ondan kurtuluyoruz!
+$GEN_056_OnPrison_00
+Vatandaş Rouzet, sizi 10 yıl hapis cezasına çarptırıyorum.
+$GEN_056_OnPrison_01
+Güzel, orada onunla ne yapacaklarını bilirler!
+$GEN_056_OnNotGuilty_00
+Vatandaş Rouzet kuyuyu zehirlemekten suçsuzdur, serbest bırakın.
+$GEN_056_OnNotGuilty_01
+Kuyu kendi kendini zehirlemedi!
+$GEN_056_OnNotGuilty_02
+Yargıç, cehennemden çıkmış bir canavarı koruyor.
+$GEN_056_01x04_00_QTitle
+Komşular sizi ucube ve canavar diye çağırıyor.
+$GEN_056_01x04_00_00
+Komşular sizi ucube ve canavar diye çağırıyor.
+$GEN_056_01x04_00_01
+Bu sizi şaşırtıyor mu?
+$GEN_056_01x04_00_02
+Hiç kimseye zarar verdiniz mi?
+$GEN_056_01x04_00_03
+Zaten yeterince acı çekiyorum, başkalarına zarar vermeme gerek yok.
+$GEN_056_01x04_00_04
+Sürekli kapalı olan pencereleriniz halkı rahatsız ediyor.
+$GEN_056_01x04_00_05
+Güneş ışığı bana acı veriyor. Sırf normal görünmek için kendime zarar vermeye niyetim yok.
+$GEN_056_06x03_01_QTitle
+Su taşıyıcılarını ve hizmetçileri karşılayacak gücünüz var mı?
+$GEN_056_06x03_01_00
+Su taşıyıcılarını ve hizmetçileri karşılayabilecek misiniz?
+$GEN_056_06x03_01_01
+Neyse ki, evet.
+$GEN_056_06x03_01_02
+Lord Canavar kadife giyer!
+$GEN_056_06x03_01_03
+Mahkemede sessizlik. Mesleğiniz nedir?
+$GEN_056_06x03_01_04
+Benim halimde mi? Sayın yargıç, bazen üç gün boyunca lazımlıktan ayrılamıyorum, ardından da iki günümü yatakta geçiriyorum.
+$GEN_056_06x03_01_05
+Yani çalışmıyor musunuz?
+$GEN_056_06x03_01_06
+Hayır.
+$GEN_056_06x03_01_07
+Peki, geçiminizi nasıl sağlıyorsunuz?
+$GEN_056_06x03_01_08
+Babamdan bir miktar para miras kaldı. Kendisi bir imalatçıydı, o vefat edince fabrikayı sattım.
+$GEN_056_06x03_01_09
+Baba bir sömürücü, oğul ise bir ucube!
+$GEN_056_06x03_01_10
+Bütün gün ne yapıyorsun?
+$GEN_056_06x03_01_11
+Genellikle edebiyat okurum.
+$GEN_056_02x07_02_QTitle
+Dosyalarda insanlardan uzak durduğunuz yazıyor.
+$GEN_056_02x07_02_00
+Dosyalarda insanlardan uzak durduğunuz yazıyor.
+$GEN_056_02x07_02_01
+Bunun açık olduğunu düşünürdüm.
+$GEN_056_02x07_02_02
+Lütfen sadece cevap verin, yorum yapmayın. İnsanları sevmiyor musunuz?
+$GEN_056_02x07_02_03
+Kuyuya zehir atan ben değildim.
+$GEN_056_02x07_02_04
+Komşularınız ise aksini söylüyor.
+$GEN_056_02x07_02_05
+Beni gördüğünü söyleyen varsa, köpek gibi yalan söylüyordur.
+$GEN_056_02x07_02_06
+Böyle insanlara karşı duyduğu küçümsemeden dolayı, onun çirkin kafası kesinlikle kesilmeli.
+$GEN_056_02x07_02_07
+Aşağılama mı? Asıl ben intikam almalıyım aşağılamadan. Kadınların yanımdan geçerken çocuklarının yüzünü örtmesinden, yalnız geçen çocukluğumdan, ve—
+$GEN_056_02x07_02_08
+Şu anda hayatınızı değil, zehirlenen kuyuyla ilgili meseleyi konuşuyoruz.
+$GEN_056_02x07_02_09
+Elbette. Kimse benden bahsetmez. Sanki adımı anınca bulaşıcı bir hastalık kapacakmışsınız gibi. Hepinizden iğreniyorum.
+$GEN_056_02x07_02_10
+Seninleyiz ya, canavar!
+$GEN_056_01x07_03_QTitle
+Lambert Cazale’i çağırın.
+$GEN_056_01x07_03_00
+Lambert Cazale’i çağırın.
+$GEN_056_01x07_03_02
+Adınız nedir?
+$GEN_056_01x07_03_03
+Lambert Cazale, sayın yargıç.
+$GEN_056_01x07_03_04
+Vatandaş Rouzet’yi kuyuyu zehirlemekle suçladınız.
+$GEN_056_01x07_03_05
+Evet, yaptım ve bundan utanmıyorum!
+$GEN_056_01x07_03_06
+Aferin ona!
+$GEN_056_01x07_03_07
+Uzun zamandır komşu musunuz?
+$GEN_056_01x07_03_08
+Kendimi bildim bileli.
+$GEN_056_01x07_03_09
+Ve şimdiye kadar sizi hiç rahatsız etmedi mi?
+$GEN_056_01x07_03_10
+Elbette rahatsız etti, fakat Eski Rejim’de ihbarlarımız kimsenin umurunda değildi.
+$GEN_056_08x05_04_QTitle
+Kuyuya bir ceset atarak zehirlediğinizi kabul ediyor musunuz?
+$GEN_056_08x05_04_00
+Kuyuya bir ceset atarak zehirlediğinizi kabul ediyor musunuz?
+$GEN_056_08x05_04_01
+Hayır, bu saçmalık.
+$GEN_056_08x05_04_02
+Masumiyetinizi kanıtlayacak bir deliliniz var mı?
+$GEN_056_08x05_04_03
+O hayali cesedi sudan çıkarmaya zahmet eden oldu mu?
+$GEN_056_08x05_04_04
+Kuyunun dibinde zifiri karanlık var, hiçbir şey göremiyorsun.
+$GEN_056_08x05_04_05
+Burada soruları ben sorarım.
+$GEN_056_08x05_04_06
+Hayır, masumiyetimi kanıtlayacak bir delilim yok.
+$GEN_056_03x05_05_QTitle
+Hizmetkârlarınız sizin için kuyudan su mu getiriyor?
+$GEN_056_03x05_05_00
+Hizmetkârlarınız sizin için kuyudan su mu getiriyor?
+$GEN_056_03x05_05_01
+Genellikle öyle olur.
+$GEN_056_03x05_05_02
+Neden sadece genellikle?
+$GEN_056_03x05_05_03
+Kuyu genellikle yağmurdan sonra kokardı — bu yüzden onlara çeşmeden su getirmeleri için para verirdim.
+$GEN_056_03x05_05_04
+Onlar da mı içti?
+$GEN_056_03x05_05_05
+Elbette. İyi kadınlardır, her zaman ne yiyorsam, ne içiyorsam aynısını yerler, içerler.
+$GEN_056_03x05_05_06
+Canavarın fahişeleri. Birlikte daha neler yaptıklarını merak ediyorum.
+$GEN_056_02x04_06_QTitle
+Komşularınızdan uzak mı duruyorsunuz?
+$GEN_056_02x04_06_00
+Komşularınızdan uzak mı duruyorsunuz?
+$GEN_056_02x04_06_01
+Evet, onlar da bana öyle davranıyor.
+$GEN_056_02x04_06_02
+Sizi mahallenizden çıkarmaya çalışanlar oldu mu?
+$GEN_056_02x04_06_03
+Kesinlikle. Kaç kere olduğunu artık sayamıyorum.
+$GEN_056_02x04_06_04
+Biraz daha ayrıntı verebilir misiniz? Tam olarak ne yaptılar?
+$GEN_056_02x04_06_05
+Daha çok anlatabilirim. Pencereme taş attılar, hizmetkârlarımı tehdit ettiler, bir sadist köpeğimi on beş yaşımdayken sopayla öldürdü. Devam edeyim mi? Bir keresinde, akşam yürüyüşüne çıkmaya karar verdiğimde, kaçmak zorunda kaldım–
+$GEN_056_02x04_06_06
+Anladım, burada durabilirsiniz.
+$GEN_056_02x04_06_07
+Bunu tamamen uyduruyor!
+$GEN_056_02x04_06_08
+Keşke olsaydım.
+$GEN_056_WIT_00_A_QTitle
+Rouzet’nin kuyuyu zehirlediğine tanık oldunuz mu?
+$GEN_056_WIT_00_A_00
+Rouzet’nin kuyuyu zehirlediğine tanık oldunuz mu?
+$GEN_056_WIT_00_A_01
+Hayır, ama başka kimse yapamazdı.
+$GEN_056_WIT_00_A_02
+Nedenmiş o?
+$GEN_056_WIT_00_A_03
+Etrafındaki herkes normal, ama şu adama bakın… İnsan bile değil!
+$GEN_056_WIT_00_A_04
+İnsan değil mi?
+$GEN_056_WIT_00_A_05
+O bir hortlak – mezarından sürünerek çıkıp insanları korkutmaya geldi!
+$GEN_056_WIT_00_B_QTitle
+Bayat su seni hasta mı etti?
+$GEN_056_WIT_00_B_00
+O bayat su seni hasta mı etti?
+$GEN_056_WIT_00_B_01
+Aynen öyle.
+$GEN_056_WIT_00_B_02
+Kokuyu alabildiniz mi?
+$GEN_056_WIT_00_B_03
+Birkaç sokak ötede.
+$GEN_056_WIT_00_B_04
+Peki, neden içtiniz?
+$GEN_056_WIT_00_B_05
+O su zaten hep kokar, bu yüzden bu sefer zehir koktuğunu da fark etmedim.
+$GEN_056_KEY_01
+Ucube
+$GEN_056_KEY_02
+İçe kapanıklık
+$GEN_056_KEY_03
+İki hizmetçi
+$GEN_056_KEY_04
+Karanlık daire
+$GEN_056_KEY_05
+Kuyu
+$GEN_056_KEY_06
+Su taşıyıcıları
+$GEN_056_KEY_07
+Zehirlenme
+$GEN_056_KEY_08
+Kuyudaki ceset
+$GEN_056_LastDialog_00
+Hayatım baştan sona bir azaptı, ölümüm de ondan hafif olmayacak.
+$GEN_056_UNIQUE_QUESTION_00
+Sanık geçimini nasıl sağlıyor?
+$GEN_056_UNIQUE_ANSWER_CORRECT_00_00
+Babası'nın fabrikasını sattı.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Uzak akrabaları onun geçimini sağlıyor.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_00_01
+O bir zanaatkâr.
+$GEN_056_UNIQUE_QUESTION_01
+Neden insanlar kuyudan bayat su içiyordu?
+$GEN_056_UNIQUE_ANSWER_CORRECT_01_00
+Hep öyle kokardı.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Temiz su daha pahalıydı.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Çeşme çok uzaktaydı.
+$GEN_056_UNIQUE_QUESTION_02
+İhbara göre, Rouzet suyu neden zehirledi?
+$GEN_056_UNIQUE_ANSWER_CORRECT_02_00
+İnsanlardan nefret ediyor.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Bu bir intikam eylemiydi.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_02_01
+O şeytanın ta kendisi.

@@ -1,0 +1,24 @@
+$EVE_007_TITLE
+Gott schütze die Königin
+$EVE_007_MAIN_01
+Was wissen Sie über die Person, die sich als „Ramel“ ausgibt? Jeder hat ein Recht darauf, die Wahrheit über seine Kollegen zu erfahren. Treffen Sie mich um 22 Uhr in der Gasse hinter dem Café Procope. Kommen Sie allein, und Sie werden die Wahrheit über Ramels Vergangenheit erfahren. Es ist zu Ihrem eigenen Wohl.
+$EVE_007_MAIN_01_C1
+Zum Treffen gehen
+$EVE_007_MAIN_01_C2
+Nicht zum Treffen gehen
+$EVE_007_MAIN_02A
+Die Straße ist fast menschenleer, nur ein Betrunkener oder ein amüsierter Student kreuzen Ihren Weg, als Sie am Treffpunkt ankommen. Sie rufen, doch niemand antwortet. Zu sehr darauf konzentriert, nach dem Absender des Zettels Ausschau zu halten, stolpern Sie über etwas am Boden. Zu Ihren Füßen liegt der Leichnam eines Mannes, die Kehle durchgeschnitten. Vermutlich blicken Sie auf Ihren verhinderten Informanten. Sie durchsuchen die Leiche, finden jedoch nichts, was die Situation erklären könnte, und verlassen eilig den Ort, während Sie sich immer wieder umdrehen.
+$EVE_007_MAIN_03A
+Früher lebte ich auf der Straße, aß, was ich stahl oder fand. So begann ich zu spionieren und verkaufte Informationen, um zu überleben. Kürzlich verbrachte ich einige Zeit in der Nähe des britischen Hofes. Wer mich dorthin geschickt hat, werde ich nicht verraten. Es scheint, als wolle mich meine Vergangenheit einholen… Warum gerade jetzt, wo ich endlich etwas tue, woran ich glaube – für mich… und für jemand anderen? Ich rate Ihnen, sich von Fremden in dunklen Gassen fernzuhalten… Wenn jemand behauptet, genaue Details über mein Leben zu kennen, will er mich vermutlich tot sehen. RAMEL.
+$EVE_007_MAIN_04B
+Sie haben einen Fehler gemacht. Wir wollten Ihnen die Information kostenlos geben, als Zeichen unseres guten Willens. Wir haben jemanden zu Ihnen geschickt, einen Mann, der gewisse Dinge über Ihren Freund wusste, doch heute erfahren wir, dass ihm die Kehle durchgeschnitten wurde. Sie bekommen eine letzte Chance. Arrangieren Sie ein Treffen mit Ramel, oder wie auch immer Sie ihn nennen, sofern Sie nicht das Schicksal unseres Freundes teilen möchten. Wir wollen ihn heute um 21 Uhr am selben Ort treffen.
+$EVE_007_MAIN_04B_C1
+Spion entsenden
+$EVE_007_MAIN_04B_C2
+Wachen entsenden
+$EVE_007_MAIN_05A
+All diese aufgeschlitzten Kehlen werden die Kriminalstatistik zweifellos in die Höhe treiben. Die Verfasser des Briefes waren alte, und sehr verärgerte, Freunde Ihres Spions. Offenbar hing Ramel sehr an seinem Messer – und setzte es mit grausamer Präzision gegen das Trio ein, das ihn töten wollte. Seinem letzten Opfer rang er noch ein paar Worte über die finsteren Abgründe der Pariser Gesellschaft ab, bevor er dessen Leiden beendete. Vielleicht können Sie diese Informationen irgendwie nutzen.
+$EVE_007_MAIN_05B
+Sie mussten sich zwischen einer lauernden Katze und mehreren wütenden Stieren entscheiden. Sicherlich haben Sie inzwischen von den Kämpfen bei Le Procope gehört. Das gesamte Trio, das Sie treffen sollten, ist tot. Außerdem geriet ein nahegelegenes Geschäft in Brand, und verirrte Kugeln verletzten einen Bäcker aus der Nachbarschaft sowie einen der Gardisten. Ganz zu schweigen von all den zerbrochenen Fenstern… Der jetzige Besitzer von Le Procope hat die Gardisten als Ihre Mitarbeiter erkannt. Nun wird jeder Gast von dem Tribunalrichter hören, der Schießereien auf den Straßen von Paris inszeniert.
+$EVE_007_MAIN_05C
+Drei gegen einen. Ihr Spion ist begabt, doch selbst er konnte einer Auseinandersetzung mit drei erfahrenen englischen Agenten nicht unversehrt entkommen. Betrachten Sie es als ein Unentschieden – diesmal. Das Trio ist tot, aber Ramel ist schwer verletzt. Unterschätzen Sie niemals eine Gefahr, die direkt vor Ihrer Nase auftaucht…

@@ -1,0 +1,8 @@
+$EVE_031_TITLE
+Er gehört uns!
+$EVE_031_MAIN
+Für das revolutionäre Paris gibt es kaum eine größere Demütigung als die Flucht des Bürgers Capet. Er entkam, glitt ihnen direkt aus den Händen, und nun wirkt die Revolution schwach und kraftlos. Das Volk gleicht einem Kind, das von jedem leicht getäuscht werden kann. Doch die Republik fand rasch zu sich, dank eines Postmeisters und seiner Leute, die die Flüchtigen auf dem Weg nach Montmédy stellten. Gewöhnliche Bürger brachten einen Monarchen zu Fall. Auch Sie werden Gelegenheit haben, der Republik zu dienen, denn Bürger Capet wird morgen vor dem Tribunal stehen. Sie entscheiden, wie man sich an ihn erinnern wird – als Verräter und Feigling oder als einen vom Schicksal gebeutelten Staatsmann. Wären es die Gefängniswärter, die das Urteil sprächen, gäbe es nur einen Ausgang…
+$EVE_031_OPTION_A
+Den Wachen erlauben, Bürger Capet im Gefängnis zuzusetzen
+$EVE_031_OPTION_B
+Lass ihn bis zur Verhandlung in Ruhe

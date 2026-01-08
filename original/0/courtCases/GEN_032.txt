@@ -1,0 +1,244 @@
+$GEN_032_DOC_1_HEADER
+Sporządził: Nathan d’Essiraf
+$GEN_032_DOC_1_00
+	Oskarżony to Sebastian Thil, 19-letni syn rzeźnika, słynny na całą sekcję dzięki <a name="1" class="hidden">wybornym pasztetom</a>, które wypieka według własnego przepisu. Jak jednak niedawno wyszło na jaw, istnieją poważne przesłanki, że niestety wyrabia je z kociego mięsa.
+$GEN_032_DOC_1_01
+	Zeznania w tym zakresie złożyła <a name="3" class="hidden">Anna Renan</a>, zatrzymana na ulicy z <a name="4" class="hidden">workiem kociąt</a>. Kobieta łapała zwierzaki na <a name="5" class="hidden">zlecenie Sebastiana Thila</a>, a potem mu je odsprzedawała. To właśnie z nich miały powstawać jego słynne specjały.
+$GEN_032_DOC_1_02
+	Po aresztowaniu młodego adepta sztuk kulinarnych odkryto w masarni wśród innych rodzajów mięs także częściowo rozebrane <a name="6" class="hidden">kocie półtusze</a>. Pełna ich skrzynka stała na podłodze pod stołem.
+$GEN_032_OnStart_00
+Karmić ludzi kocią padliną – skandal! 
+$GEN_032_OnStart_01
+Imię i nazwisko oskarżonego.
+$GEN_032_OnStart_02
+Sebastian Thil, łaskawy panie.
+$GEN_032_OnStart_03
+Jesteś oskarżony o trucie obywateli Paryża pasztetem wyrabianym z kociego mięsa. Czy przyznajesz się do winy?
+$GEN_032_OnStart_04
+Że co?! Kto tak twierdzi? Pewnie konkurencja, nieużyte zasrańce! Łżą! Łżą jak psy, panie!
+$GEN_032_OnStart_05
+Lepiej łgać jak pies, niż smakować jak kot.
+$GEN_032_OnStart_06
+Tak twierdzi dostawca oskarżonego przyłapany ze świeżym transportem kociąt.
+$GEN_032_OnStart_07
+Jaki dostawca?
+$GEN_032_OnStart_08
+Odgrywanie niewinności niewiele wam pomoże. Tak wielu ludzi przynosi wam koty, że się w nich gubicie?
+$GEN_032_OnStart_09
+Renan, prawda?
+$GEN_032_OnStart_10
+Zgadza się. Czy to oznacza, że się przyznajecie?
+$GEN_032_OnStart_11
+Nic z tych rzeczy. Może ona sama z nich pasztet robi! 
+$GEN_032_OnGuilty_00
+Skazuję Sebastiana Thila na śmierć na gilotynie! Wyprowadzić skazanego.
+$GEN_032_OnGuilty_01
+A gdzie dowody?! Gdzie sprawiedliwość?!
+$GEN_032_OnGuilty_02
+Surowy wyrok, ale zdrowie obywateli to nie żarty.
+$GEN_032_OnNotGuilty_00
+Wyrok w sprawie Sebastiana Thila brzmi: niewinny! Wyprowadzić podsądnego.
+$GEN_032_OnNotGuilty_01
+Skandal! Dalej będzie kocinę sprzedawał!
+$GEN_032_OnNotGuilty_02
+Wnoszę protest. To wyrok wydany na żołądki paryżan.
+$GEN_032_04x05_00_QTitle
+Po co oskarżony skupował koty?
+$GEN_032_04x05_00_00
+Po co oskarżony skupował koty?
+$GEN_032_04x05_00_01
+Panie sędzio, no… w celach leczniczych.
+$GEN_032_04x05_00_02
+Jak mam to rozumieć?
+$GEN_032_04x05_00_03
+No dla skórek. Wie pan sędzia, skórka z kota na korzonki jest dobra, na bóle kręgosłupa, to i taki tam… zarobek sobie wymyśliłem.
+$GEN_032_04x05_00_04
+Kłamiesz! Ludzie chodzili do ciebie po pasztet, nie skórki!
+$GEN_032_04x05_00_05
+Czyli zabijaliście koty?
+$GEN_032_04x05_00_06
+Tak, ale nie karmiłem nimi ludzi.
+$GEN_032_04x05_00_07
+Potrafi oskarżony wskazać choć jednego klienta, który się u was leczył, a nie zaopatrywał spiżarnię?
+$GEN_032_04x05_00_08
+Ja tam ich, panie, nie zapisywałem. Przychodzili różni tacy, to im skórę sprzedawałem i tyle ich widziałem.
+$GEN_032_04x05_00_09
+Jak wygodnie jest nie pamiętać.
+$GEN_032_01x06_01_QTitle
+Proszę powiedzieć: gdzie trafiało mięso ze skupowanych kotów?
+$GEN_032_01x06_01_00
+Proszę powiedzieć: gdzie trafiało mięso ze skupowanych kotów?
+$GEN_032_01x06_01_01
+Razem z ochłapami do wielmożów, co psiarnie mają.
+$GEN_032_01x06_01_02
+A nie do pasztetu?
+$GEN_032_01x06_01_03
+Skądże znowu, ludzi miałbym truć?! 
+$GEN_032_01x06_01_04
+A jak wam brakło dostaw? Ostatnio z jedzeniem bywa różnie. Może czasem stosowaliście małą domieszkę?
+$GEN_032_01x06_01_05
+Psuć pasztet dla klientów mięsem z ulicy? Nigdy!
+$GEN_032_01x06_01_06
+Niech udowodni, jak jest taki święty!
+$GEN_032_01x06_01_07
+A to mięso, co gwardziści znaleźli, to ono na podłodze stało. Mięsa dla ludzi nie trzymam na ziemi, ot i dowód.
+$GEN_032_03x05_02_QTitle
+Oskarżony potwierdza, że zlecił Annie Renan łapanie kotów?
+$GEN_032_03x05_02_00
+Oskarżony potwierdza, że zlecił Annie Renan łapanie kotów?
+$GEN_032_03x05_02_01
+To ona do mnie przyszła, że mi koty będzie przynosić do oporządzenia, więc się zgodziłem. W końcu jestem rzeźnikiem, umiem rozebrać wieprzka, to i kota rozbiorę.
+$GEN_032_03x05_02_02
+I jeszcze nim ludzi nakarmi! Tfu, wstydu nie ma!
+$GEN_032_03x05_02_03
+Żadnej wam nie robi różnicy, co rozbieracie?
+$GEN_032_03x05_02_04
+No wieprzka łatwiej, bo większy, a z kotem to się trzeba namęczyć, bo to takie…
+$GEN_032_03x05_02_05
+A człowieka też byście rozebrali?
+$GEN_032_03x05_02_06
+Mój Boże! 
+$GEN_032_03x05_02_07
+Co oni wymyślają w tym sądzie!
+$GEN_032_03x05_02_08
+Jestem rzeźnikiem, nie zabójcą!
+$GEN_032_01x02_03_QTitle
+Z czego oskarżony wyrabia swoje słynne pasztety?
+$GEN_032_01x02_03_00
+Z czego oskarżony wyrabia swoje słynne pasztety?
+$GEN_032_01x02_03_01
+Tylko z naturalnych składników, panie sędzio: wątroby trzeba dać, łopatki świńskiej, boczku koniecznie, żeby suchy nie wyszedł. Słoniny też można.
+$GEN_032_01x02_03_02
+Chyba starczy…
+$GEN_032_01x02_03_03
+Mięs zawsze daję po cztery rodzaje. Czasem można też cebulki dodać albo kieliszek koniaku wlać dla smaku. Zaręczam, że palce lizać.
+$GEN_032_01x02_03_04
+Zapomniał oskarżony wspomnieć o kotach, bo przecież te także wchodzą w skład przepisu.
+$GEN_032_01x02_03_05
+To nieprawda, niech stanie tu choćby jeden i powie, że widział, jak dodaję kocinę do pasztetu. Jest taki?
+$GEN_032_01x02_03_06
+Z pewnością upewniliście się, że nie ma świadków. Wasza tyrada brzmi dramatycznie.
+$GEN_032_03x04_04_QTitle
+Proszę wezwać świadka Annę Renan.
+$GEN_032_03x04_04_00
+Proszę wezwać świadka Annę Renan.
+$GEN_032_03x04_04_02
+Proszę się przedstawić.
+$GEN_032_03x04_04_03
+Anna Renan, wpadliśmy na siebie…
+$GEN_032_03x04_04_04
+Pamiętam...
+$GEN_032_WIT_00_A_QTitle
+Skąd świadek wie, że pasztet jest przyrządzany z kociąt?
+$GEN_032_WIT_00_A_00
+Skąd świadek wie, że pasztet jest przyrządzany z kociąt?
+$GEN_032_WIT_00_A_01
+Od młodego Thila, bo jak ostatnio mu stare kocury przyniosłam, to mnie zwymyślał. Powiedział, że są stare, wyliniałe, a mięso łykowate, że pies nie tknie.
+$GEN_032_WIT_00_A_02
+Czyli wprost nie powiedział, że wyrabia z nich pasztety?
+$GEN_032_WIT_00_A_03
+Panie, a na co mu one, jak nie na te delikatesy? Przecie wyraźnie usłyszałam, że ze starych mięso jest twarde, no to mu młodych nałapałam, żeby pasztet był dobry.
+$GEN_032_WIT_00_A_04
+Obywatelka była świadkiem przyrządzania pasztetu?
+$GEN_032_WIT_00_A_05
+Nie.
+$GEN_032_WIT_00_A_06
+Skoro wiedziała obywatelka, co tam się dzieje, czemu nie zgłosiła sprawy do Gwardii od razu?
+$GEN_032_WIT_00_A_07
+Nie zgłosiłam, moja wina, bo chleb drożeje, a mnie franków nie przybywa. Musiałam za coś żyć, prawda?
+$GEN_032_WIT_00_B_QTitle
+Od jak dawna świadek dostarczała oskarżonemu koty?
+$GEN_032_WIT_00_B_00
+Od jak dawna świadek dostarczała oskarżonemu koty?
+$GEN_032_WIT_00_B_01
+Ja to dopiero z trzecim workiem szłam, jak pan sędzia na mnie na ulicy wpadł…
+$GEN_032_WIT_00_B_02
+Czyli od niedawna?
+$GEN_032_WIT_00_B_03
+Jakoś z tydzień temu doszły mnie słuchy, że syn rzeźnika koty skupuje. I od razu pomyślałam, że ja też bym nieco grosza na tym mogła zarobić.
+$GEN_032_WIT_00_B_04
+Od kogo o tym świadek usłyszała?
+$GEN_032_WIT_00_B_05
+Od Adeli, co na targu warzywa sprzedaje. No i prawdą się to okazało, bo Thil potem mi rzekł, że 5 centymów za kota daje.
+$GEN_032_WIT_00_B_06
+I zamiast do Gwardii przyjść z taką informacją, to prosto do niego, tak?
+$GEN_032_WIT_00_B_07
+No… no tak, bo to przecież kota złapać nie robota, a co chleba można kupić potem.
+$GEN_032_WIT_00_B_08
+Plotki… Od Adeli usłyszała, phi.
+$GEN_032_WIT_01_A_QTitle
+Świadek próbowała tych nieszczęsnych pasztetów?
+$GEN_032_WIT_01_A_00
+Świadek próbowała tych nieszczęsnych pasztetów?
+$GEN_032_WIT_01_A_01
+Skądże, nie stać mnie na nie.
+$GEN_032_WIT_01_A_02
+Ale gdyby było stać, toby świadek spróbowała, nawet wiedząc, z czego są wyrabiane?
+$GEN_032_WIT_01_A_03
+A czemu nie? Umarł kto od tego? Wszyscy chwalą, że dobre, widać, kocina nie taka zła, jak się wydaje.
+$GEN_032_WIT_01_A_04
+Wyprowadzić świadka.
+$GEN_032_WIT_01_A_06
+Jak oskrażony zamierza to skomentować?
+$GEN_032_WIT_01_A_07
+Nie robię pasztetu z kota. Więcej dodawać nie muszę.
+$GEN_032_WIT_01_B_QTitle
+Proszę wskazać inne osoby, które dostarczały oskarżonemu koty.
+$GEN_032_WIT_01_B_00
+Proszę wskazać inne osoby, które dostarczały oskarżonemu koty.
+$GEN_032_WIT_01_B_01
+Nie znam żadnej z nich, ale wiem, że nie ja jedna je łapałam dla młodego Thila.
+$GEN_032_WIT_01_B_02
+Nigdy z innym dostawcą świadek nie spotkała się u rzeźnika?
+$GEN_032_WIT_01_B_03
+Nie, ale to może dlatego, że dopiero od niedawna dla niego pracuję.
+$GEN_032_WIT_01_B_04
+Wyprowadzić świadka.
+$GEN_032_WIT_01_B_06
+Jak oskrażony zamierza to skomentować?
+$GEN_032_WIT_01_B_07
+Różni ludzie różne zwierzaki mi przynoszą do rozbierania, nikogo na stałe nie zatrudniam.
+$GEN_032_KEY_01
+Słynne pasztety
+$GEN_032_KEY_02
+Kocie mięso
+$GEN_032_KEY_03
+Anna Renan
+$GEN_032_KEY_04
+Worek kociąt 
+$GEN_032_KEY_05
+Zlecenie Sebastiana Thila
+$GEN_032_KEY_06
+Kocie półtusze
+
+
+$GEN_032_LastDialog_00
+Mamo, mamo, ratuj! Chcą mnie zabić!
+
+$GEN_032_UNIQUE_QUESTION_00
+Gdzie według Thila trafiało mięso z kotów?
+$GEN_032_UNIQUE_ANSWER_CORRECT_00_00
+Do psiarni.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Do rzeki.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Do bezdomnych.
+
+$GEN_032_UNIQUE_QUESTION_01
+Po co masarz, według zeznań, skupował koty?
+$GEN_032_UNIQUE_ANSWER_CORRECT_01_00
+Sprzedawał kocie skórki jako lekarstwo.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Sprzedawał kocie łapki na szczęście.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Sprzedawał ich źółć wiejskim zielarkom.
+
+$GEN_032_UNIQUE_QUESTION_02
+Co obywatelka Renan miała przy sobie w momencie aresztowania?
+$GEN_032_UNIQUE_ANSWER_CORRECT_02_00
+Worek kociąt.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Kocie mięso.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Kocie skóry.
+

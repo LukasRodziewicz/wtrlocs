@@ -1,0 +1,18 @@
+$EVE_009_TITLE
+Orders Are Orders
+$EVE_009_INTRO
+Monsieur le juge, there’s a tragedy two streets away. People are calling for a judge!
+$EVE_009_C00
+Go outside
+$EVE_009_MAIN_01
+The Guard hurriedly leads you to the crime scene where you see a crowd of furious people. They have surrounded several armed soldiers, who are trying to repel the civilians from two men facing the wall. You soon learn that Commander François Hanriot has, in absentia, ordered the execution of felons who tried to steal weapons from a military transport. People are demanding your intercession and a fair trial, but it would be unwise to contest the orders of a commander, especially one elevated by your actions…
+$EVE_009_MAIN_01_C1
+Order the detainees to be shot
+$EVE_009_MAIN_01_C2
+Order the men to be freed
+$EVE_009_MAIN_02A
+Dozens of people stare at you with surprise as the soldiers prepare to fire. BAM! The two men crumple, lifeless. There is nothing more to see here and you leave…
+$EVE_009_MAIN_02B
+People nod with approval. The confused soldiers eventually listen to you and take the men to jail. However, do not delude yourself into thinking there will be no consequences for you, even if another judge is assigned to their trial. Someone will have to pay for the damage done to the Commander’s reputation.
+$EVE_009_MAIN_03
+I’ve heard rumours that after your intervention in the execution, one of the soldiers was shot for refusing to follow the order of a commander. It was the very same order you forbade him to carry out, and two other soldiers are also to receive corporal punishment. Your discrete alliance with Hanriot may be in danger.

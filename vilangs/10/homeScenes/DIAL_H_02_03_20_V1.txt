@@ -1,0 +1,32 @@
+$DIAL_H_02_03_20_V1_001_JUDGE
+Sonunda geldin.
+$DIAL_H_02_03_20_V1_002_DAVID
+Alexis... Kardeşin beni ziyarete geldi – hani şu ölü olduğu sanılan.
+$DIAL_H_02_03_20_V1_003_JUDGE
+Jacques, ne yaptığını gerçekten bilmiyorum–
+$DIAL_H_02_03_20_V1_004_DAVID
+Sözümü bitirmeme izin ver. Senin gerçek yüzünü her zaman biliyordum. Daha fazla güç kazanmaya, daha yükseğe çıkmaya çalıştığını izledim, ama kim olduğunu asıl şimdi anlıyorum. Onunla tanıştıktan sonra.
+$DIAL_H_02_03_20_V1_005_JUDGE
+O bir canavar!
+$DIAL_H_02_03_20_V1_006_DAVID
+İkiniz de birer canavarsınız. Ne yazık ki, duyduklarımdan sonra, o iki kötülükten daha hafif olanı gibi görünüyor.
+$DIAL_H_02_03_20_V1_007_JUDGE
+Bunu nasıl söyleyebilirsin? Biz dostuz. O… o sadece eski düzene dönmek istiyor!
+$DIAL_H_02_03_20_V1_008_DAVID
+Hayır, Alexis. O, gerçek eşitlik ve kardeşlik istiyor. Devrim tarafından dışlanan insanların evlerine dönebilmesini arzuluyor.
+$DIAL_H_02_03_20_V1_009_JUDGE
+Gerçekten buna inanıyor musun? Bize yaptıklarına bir bak!
+$DIAL_H_02_03_20_V1_010_DAVID
+Senin yoluna çıkan insanlara yaptıklarınla kıyaslanamaz bile. Üzgünüm dostum, ama dostluğumuz burada bitiyor. Sınırın nerede? Robespierre’i ortadan kaldırmak fazla ileri gitmekti. Çok fazla kan döktük, Alexis, ama en azından kendimi kısmen affettirme şansım var.
+$DIAL_H_02_03_20_V1_011_JUDGE
+Ne yapacaksın?
+$DIAL_H_02_03_20_V1_012_DAVID
+Kardeşine katılacağım – buna bir son vermeliyiz. Ordusunun başına geçeceğim ve ardından ülkemizde bir daha asla kan dökülmemesi için elimden geleni yapacağım!
+$DIAL_H_02_03_20_V1_013_JUDGE
+Benimle ve Ramel’le savaşmaya mı niyetlisin?
+$DIAL_H_02_03_20_V1_014_DAVID
+Yanında kimse yok. Mahkeme muhafızını çoktan bizim saflarımıza kattım, Ramel ise kardeşinle birlikte beni ziyarete geldi. Görünen o ki, o da hep sana karşıymış.
+$DIAL_H_02_03_20_V1_015_JUDGE
+Beni mezbahaya götürdü. Kendi dostunu.
+$DIAL_H_02_03_20_V1_016_DAVID
+Elveda, Alexis. Umarım bir dahaki karşılaşmamızda seni öldürmek zorunda kalmam. Fransa zaten yeterince evladını toprağa verdi.

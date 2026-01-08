@@ -1,0 +1,28 @@
+$EVE_015_TITLE
+O Negócio da Vida
+$EVE_015_MAIN_01
+Um homem chamado Blaise Roy fez uma visita à sua esposa. Descobriu-se que eles já foram... emocionalmente próximos. Roy pegou dinheiro emprestado de dois bancos parisienses para abrir uma oficina de tecelagem e, como você pode imaginar, o negócio não deu certo. Ele tentou adiar o pagamento dos empréstimos e, embora um dos bancos tenha concordado, o outro recusou. Roy espera que você use sua posição para ajudá-lo. Ele está pressionando sua esposa, alegando que “ela lhe deve algo”.
+$EVE_015_MAIN_01_C1
+Investigar o assunto
+$EVE_015_MAIN_01_C2
+Prenda o homem
+$EVE_015_MAIN_01_C3
+Ignorar o problema
+$EVE_015_MAIN_02A
+Vale a pena refletir sobre o motivo pelo qual o banco recusou adiar o pagamento. Ao que tudo indica, o diretor do banco, Abel Daquin, é quem se opõe com tanta veemência. Ele tem uma esposa e uma filha. Dizem que ambas permitiram que Roy se aproximasse demais. Ao descobrir isso, o senhor Daquin preferiu abrir mão do dinheiro emprestado pelo banco.
+$EVE_015_MAIN_02A_C1
+Prender Blaise Roy
+$EVE_015_MAIN_02A_C2
+Pedir um favor ao diretor do banco
+$EVE_015_MAIN_02A_C3
+Intimidar o diretor do banco
+$EVE_015_MAIN_02B
+Era impossível não perceber um tom de chantagem no pedido do homem, mas o que mais esperar de alguém encurralado?
+$EVE_015_MAIN_02C
+É compreensível que os assuntos dos pequenos não lhe interessem — nem mesmo os antigos pretendentes de sua esposa. Que assim seja.
+$EVE_015_MAIN_03B
+Nada se compara a uma conversa entre iguais. Para o diretor do banco, Blaise Roy não passa de uma pulga — incômoda, mas inofensiva, sem recursos para enfrentá-lo de verdade. Já o juiz do Tribunal é outra história. Você o convidou para uma taça de vinho e disse que se interessou pela situação do pobre coitado. Abel Daquin não demonstrou o menor interesse — até que você lhe prometeu eterna gratidão e um favor. De repente, ele mudou de ideia e concordou em adiar a data do pagamento.
+$EVE_015_MAIN_03C
+O banqueiro não ficou nada satisfeito quando você apareceu em sua porta com dois guardas enormes vestidos à paisana. Bem, os cassetetes realmente não combinavam com os sapatos deles. Daquin ouviu atentamente seus argumentos e concordou em adiar a data do pagamento. Mas certamente não vai esquecer disso.
+$EVE_015_MAIN_03E
+Lamento ser portador de más notícias. Blaise Roy tirou a própria vida na prisão. Coitado, de alguma forma conseguiu cortar os pulsos. Ao que tudo indica, não haverá julgamento…

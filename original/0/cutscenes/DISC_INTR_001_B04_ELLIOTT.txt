@@ -1,0 +1,43 @@
+$DISC_INTR_001_B04_ELLIOTT_001_JUDGE_AGGR
+Roland to gnida. Korupcja nie może być znakiem rozpoznawczym nowej władzy.
+$DISC_INTR_001_B04_ELLIOTT_002_JUDGE_MANI
+Czy Roland jest faktycznie przedstawicielem ludu, czy może bardziej króla i jego sługusów?
+$DISC_INTR_001_B04_ELLIOTT_003_JUDGE_JOKE
+Musimy pozbyć się Rolanda dla jego własnego dobra – kieszenie mu się rozprują od nadmiaru gotówki.
+$DISC_INTR_001_B04_ELLIOTT_004_JUDGE_HUMI
+Francja krwawi, a obecność ludzi takich jak Roland nie pozwala zaleczyć ran, lecz tylko je pogłębia.
+$DISC_INTR_001_B04_ELLIOTT_005_ELLIOTT_INTR
+Kto by pomyślał, że tak szybko zamienisz się z owcy w wilka bezbłędnie wyczuwającego ranną zwierzynę.
+$DISC_INTR_001_B04_ELLIOTT_006_ELLIOTT_DOUB
+Wiemy, jak to jest u Rolandów. Rządzi żona, mąż słucha. Może więc to nie on jest winny?
+$DISC_INTR_001_B04_ELLIOTT_007_ELLIOTT_IRRI
+Przetrwałam w tym mieście głównie dlatego, że nie angażowałam się bez potrzeby w brudne gierki mężczyzn.
+$DISC_INTR_001_B04_ELLIOTT_008_JUDGE_AGGR
+Poza korupcją Roland zagroził też sędziemu Trybunału Rewolucyjnego. Niezawisłemu organowi!
+$DISC_INTR_001_B04_ELLIOTT_009_JUDGE_MANI
+Roland, by uniknąć kary, zasadza się na mnie osobiście. Ale czy to nie oznacza, że wypowiada wojnę nowemu ładowi?
+$DISC_INTR_001_B04_ELLIOTT_010_JUDGE_JOKE
+Dwa komary – pan i pani Roland – gryząc mnie, chcą pożywić się krwią Francji. Nikt nie lubi komarów.
+$DISC_INTR_001_B04_ELLIOTT_011_JUDGE_HUMI
+Moja osobista niechęć wobec ministra nie zmienia tego, że należy tego skorumpowanego rojalistę zastąpić kimś uczciwym.
+$DISC_INTR_001_B04_ELLIOTT_012_JUDGE_AGGR
+Jeśli nie namówisz deputowanych, będzie to dowód, że tolerujesz zdradziecki element, który panoszy się nadal we Francji!
+$DISC_INTR_001_B04_ELLIOTT_013_JUDGE_MANI
+Jeśli deputowani zobaczą, że zależy ci na usunięciu Rolanda, to może nawet przestaną cię podejrzewać o sympatie rojalistyczne?
+$DISC_INTR_001_B04_ELLIOTT_014_JUDGE_JOKE
+Żyrondyści potykają się o własne nogi – wystarczy, że pomożesz im upaść.
+$DISC_INTR_001_B04_ELLIOTT_015_JUDGE_HUMI
+Roland ma momentami więcej wspólnego z ancien régime niż król Ludwik. Jeśli chcecie usuwać stare, to teraz jest dobra szansa.
+$DISC_INTR_001_B04_ELLIOTT_016_ELLIOTT_INTR
+Muszę przyznać, że nie byłam optymistycznie nastawiona do walki z ministrem Rolandem, ale przekonaliście mnie, obywatelu. Pomogę, to może się udać.
+$DISC_INTR_001_B04_ELLIOTT_017_ELLIOTT_DOUB
+Ja i moi przyjaciele nic nie zyskamy na próbie utrącenia ministra spraw wewnętrznych.
+$DISC_INTR_001_B04_ELLIOTT_018_ELLIOTT_IRRI
+Roland to nie jest według mnie największy problem Francji. Głodni obywatele nim są!
+
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_01
+Czego chcemy?
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_02
+Dlaczego tego chcemy?
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_03
+Co z tego będzie miała?

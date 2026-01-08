@@ -1,0 +1,190 @@
+$GEN_004_DOC_1_HEADER
+Sporządził: Pierre Daquin
+$GEN_004_DOC_1_00
+	Oskarżony to Étienne Lebeau, zamieszkały w Paryżu awanturnik i degenerat, częsty bywalec obskurnych pijalni Faubourg-de-Gloire. W zeszłym miesiącu wraz ze swoim kamratem, Michelem Verdière’em, <a name="2" class="hidden">zaatakował innego kompana</a> od kielicha, Jeana Boudona.
+$GEN_004_DOC_1_01
+	Świadek, który widział początek zajścia, zeznał, że Lebeau i Verdière we dwóch zaczaili się na ofiarę, gdy ta wracała na poddasze, gdzie sypiała. Przyłapali ją w ciemnym zaułku. Lebeau i Verdière pobili Boudona, zabrali mu pieniądze, a na odchodne <a name="3" class="hidden">pchnęli nożem</a>.
+$GEN_004_DOC_1_02
+	Verdière został ujęty niedługo później i podczas rutynowej przepytki przyznał się do udziału w napaści. Choć przysięgał, że to jego kompan Lebeau dźgnął Boudona, został skazany na ścięcie na gilotynie.
+$GEN_004_DOC_1_03
+	Lebeau tymczasem przepadł jak kamień w wodę. Okazało się, że zaszył się w Neuilly. Aresztowany zaprezentował znajomą śpiewkę – łajdak zarzeka się, że to Verdière, a nie on, ugodził Boudona. Znaleźliśmy przy nim <a name="4" class="hidden">zdobioną sakiewkę</a>, niemal już zresztą pustą. Z całą pewnością nie należała do zatrzymanego.
+$GEN_004_DOC_1_04
+Dowody:
+<a name="5" class="hidden">Nóż odebrany Lebeau</a>
+$GEN_004_OnStart_00
+Stracisz głowę, zbóju!
+$GEN_004_OnStart_01
+Jestem Étienne.
+$GEN_004_OnStart_02
+Nie prosiłem, żeby oskarżony zabierał głos.
+$GEN_004_OnStart_03
+A co mi tam.
+$GEN_004_OnStart_04
+Proszę się zwracać do Wysokiego Sądu z szacunkiem.
+$GEN_004_OnStart_05
+Z wysokim szacunkiem.
+$GEN_004_OnStart_06
+Po zachowaniu się oskarżonego mogę już przewidzieć, jaki zapadnie wyrok.
+$GEN_004_OnStart_07
+Śmierć!
+$GEN_004_OnStart_08
+Ścięcie!
+$GEN_004_OnStart_09
+Gilotyna!
+$GEN_004_OnGuilty_00
+Skazuję obywatela Étienne’a Lebeau na śmierć na gilotynie!
+$GEN_004_OnGuilty_01
+Gratuluję sprawiedliwego wyroku.
+$GEN_004_OnGuilty_02
+Tak jest!
+$GEN_004_OnGuilty_03
+Należało się szubrawcy.
+$GEN_004_OnPrison_00
+Skazuję obywatela Étienne’a Lebeau na uwięzienie! Wyprowadzić skazanego.
+$GEN_004_OnPrison_01
+Domagam się zmiany tej decyzji!
+$GEN_004_OnPrison_02
+Miękkie serce dla zbrodniarzy.
+$GEN_004_OnPrison_03
+Przynajmniej nikomu już nie zagrozi.
+$GEN_004_OnNotGuilty_00
+W sprawie morderstwa obywatela Boudona wyrok brzmi: niewinny! Proszę uwolnić pana Lebeau.
+$GEN_004_OnNotGuilty_01
+Zgłaszam oficjalny protest, proszę to zapisać w protokole.
+$GEN_004_OnNotGuilty_02
+Puścił wolno bandytę.
+$GEN_004_OnNotGuilty_03
+Morderca czy nie, miejsce takiego łotra jest za kratkami!
+$GEN_004_01x02_00_QTitle
+Czy przyznaje się pan do napaści na obywatela Boudona?
+$GEN_004_01x02_00_00
+Czy przyznaje się pan do napaści na obywatela Boudona?
+$GEN_004_01x02_00_01
+A co będę łgał, kiedy wszyscy to wiedzą? Tak, zaczaiłem się na niego z Verdière’em…
+$GEN_004_01x02_00_02
+Żeby zabić?
+$GEN_004_01x02_00_03
+Żeby go okraść! Nic ponadto! Nie sądziłem, że Verdière go zabije.
+$GEN_004_01x02_00_04
+Morderca!
+$GEN_004_01x02_00_05
+Ale nie powstrzymaliście go również?
+$GEN_004_01x02_00_06
+A co ja, gwardia, żeby się narażać? Wtedy to mnie też by zabił.
+$GEN_004_01x02_00_07
+Miejsce bandyty jest na cmentarzu!
+$GEN_004_02x04_01_QTitle
+Gdy gwardziści pana przeszukali, znaleźli wyszywaną sakiewkę. Skąd pan ją miał?
+$GEN_004_02x04_01_00
+Gdy gwardziści pana przeszukali, znaleźli wyszywaną sakiewkę. Skąd pan ją miał?
+$GEN_004_02x04_01_01
+Zabrałem mu. Boudonowi.
+$GEN_004_02x04_01_02
+Grzebaliście w jego kieszeniach, kiedy się wykrwawiał na bruku?!
+$GEN_004_02x04_01_03
+Nie! Pobiłem go tak, że nie mógł wstać. Zabrałem sakiewkę i odwróciłem się – wtedy Verdière pchnął go nożem.
+$GEN_004_02x04_01_04
+Biliście go do nieprzytomności?
+$GEN_004_02x04_01_05
+A jak miałem go okraść?
+$GEN_004_02x04_01_06
+W ten sposób mogliście go zabić.
+$GEN_004_02x04_01_07
+Ale nie zabiłem, to była zwykła kradzież.
+$GEN_004_02x04_01_08
+Łże!
+$GEN_004_02x04_01_09
+Ty go zabiłeś, łotrze!
+$GEN_004_02x04_01_10
+Po co to zrobił, skoro mieliście już pieniądze?
+$GEN_004_02x04_01_11
+Skoro go jednak ścięto, to będzie ciężko zapytać, nie?
+$GEN_004_03x05_02_QTitle
+Na miejscu zbrodni znaleziono zakrwawiony kozik.
+$GEN_004_03x05_02_00
+Na miejscu zbrodni znaleziono zakrwawiony kozik. To nim ugodził pan obywatela Boudona?
+$GEN_004_03x05_02_01
+Nie! Mój nóż zabrali mi gwardziści.
+$GEN_004_03x05_02_02
+Chodziliście z nożem? Po co wam był?
+$GEN_004_03x05_02_03
+Bo to morderca!
+$GEN_004_03x05_02_04
+Do różnych takich. Czasem się przydaje.
+$GEN_004_03x05_02_05
+Na przykład do tego, żeby zadźgać jakiegoś obywatela?
+$GEN_004_03x05_02_06
+Nie tknąłem go żadnym nożem, ani swoim, ani cudzym! Gdybym chciał, ukatrupiłbym go gołymi rękami!
+$GEN_004_03x05_02_07
+Ciekawe, ilu tak ukatrupił.
+$GEN_004_02x03_03_QTitle
+A zatem utrzymuje pan, że to Verdière zabił obywatela Boudona.
+$GEN_004_02x03_03_00
+A zatem utrzymuje pan, że to Verdière zabił obywatela Boudona.
+$GEN_004_02x03_03_01
+Tak.
+$GEN_004_02x03_03_02
+Łże jak pies!
+$GEN_004_02x03_03_03
+To pan go pobił. To pan go okradł.
+$GEN_004_02x03_03_04
+To był jego pomysł, żeby obrobić Boudona, bo o coś się pokłócili. Kiedy zabrałem mu sakiewkę, okazało się, że znowu tak dużo w niej nie ma.
+$GEN_004_02x03_03_05
+Po co Verdière namówił was na wspólny napad? Nie mógł iść sam, zachować wszystkiego dla siebie?
+$GEN_004_02x03_03_06
+No… bo… Może się bał iść sam? 
+$GEN_004_02x03_03_07
+Zawodowy bandyta bał się napaść na człowieka?
+$GEN_004_02x03_03_08
+Trzeba było zapytać Verdière’a, póki żył. Ja mu w głowie nie siedzę.
+$GEN_004_02x03_03_09
+Sam chciał iść, żeby się nachapać!
+$GEN_004_01x03_04_QTitle
+Skąd oskarżony znał ofiarę?
+$GEN_004_01x03_04_00
+Skąd oskarżony znał ofiarę?
+$GEN_004_01x03_04_01
+Ano piliśmy sobie wspólnie od jakichś kilku miesięcy. To był jakiś dziwny człowiek, niby coś malował, a czasem mówił, że handlował różnymi rzeczami. Zawsze miał przy sobie pieniądze i chętnie wydawał je na jeszcze jedną kolejkę.
+$GEN_004_01x03_04_02
+I bez skrupułów zabiliście tak wiernego kompana?
+$GEN_004_01x03_04_03
+Ile razy mam powtarzać, że nikogo nie zabiłem, a że Verdière był zwierzęciem, to wszyscy wiedzieli.
+$GEN_004_01x03_04_04
+Wy też wiedzieliście, a mimo to poszliście z nim?
+$GEN_004_01x03_04_05
+Wspólnik potwora to też potwór!
+$GEN_004_01x03_04_06
+On twierdził na swoim procesie, że to wy macie krew na rękach.
+$GEN_004_01x03_04_07
+Winny zawsze próbuje zwalić na kogoś innego.
+$GEN_004_KEY_01
+Awanturnik i degenerat
+$GEN_004_KEY_02
+Atak na kompana
+$GEN_004_KEY_03
+Zabójstwo
+$GEN_004_KEY_04
+Wyszywana sakiewka
+$GEN_004_KEY_05
+Nóż odebrany Lebeau
+$GEN_004_LastDialog_00
+Tnijcie już, bo się ściemnia…
+
+$GEN_004_UNIQUE_QUESTION_00
+Który z napastników zabrał ofierze sakiewkę?
+$GEN_004_UNIQUE_ANSWER_CORRECT_00_00
+Oskarżony.
+$GEN_004_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Żaden.
+$GEN_004_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Jean. Boudon
+
+$GEN_004_UNIQUE_QUESTION_01
+Skąd oskarżony znał ofiarę?
+$GEN_004_UNIQUE_ANSWER_CORRECT_01_00
+Ze wspólnych popijaw.
+$GEN_004_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Z więzienia.
+$GEN_004_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Byli sąsiadami.
+

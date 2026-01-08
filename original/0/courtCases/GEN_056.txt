@@ -1,0 +1,262 @@
+$GEN_056_DOC_01_HEADER
+Sporządził: Charles Etienne
+$GEN_056_DOC_01_00
+	Jak poinformowali nas mieszkańcy dzielnicy łacińskiej, pewien <a name="1" class="hidden">dziwoląg</a> i <a name="2" class="hidden">odludek</a> zatruł wodę w miejscowej studni, z której korzystało parę okolicznych kamienic. Jak możemy przeczytać w donosie, w wyniku tego przestępstwa poszkodowanych na zdrowiu zostało kilku obywateli.
+$GEN_056_DOC_01_01
+	Oskarżonym jest Gabriel Rouzet. Chorąży, który został wysłany, by go aresztować, potwierdził opinię sąsiadów o jego dziwactwie. Mężczyzna ten mieszka z <a name="3" class="hidden">dwiema służącymi</a> na czwartym piętrze kamienicy przy ulicy Serpente. W jego domu panowała w momencie zatrzymania <a name="4" class="hidden">całkowita ciemność</a>, a zewnętrzny wygląd i zachowanie gospodarza żołnierz opisał jako odstręczające. Będziecie mogli to zaobserwować sami na sali sądowej.
+$GEN_056_DOC_01_02
+	Do akt dołączamy treść donosu, z którego dowiecie się więcej o przestępstwie Rouzeta.
+$GEN_056_DOC_02_00
+Anonimowy donos
+$GEN_056_DOC_02_01
+	Władzom Paryża w ostatnich dniach woda w <a name="5" class="hidden">naszyj studni</a> zaczęła cuchnonć zgniliznom. Jej odór był tak obrzydliwy, że niekturzy zaczęli nawet płacić nosicielom za wodę z publicznej fontanny przy uniwersytecie. Ci, co pili, to <a name="7" class="hidden">się pochorowali </a>, a kilku to nawet powasznie. Taki jeden, Lambert Cazal, mój znajomy, to całe noc wymiotował do wiadra. Potem trzeba było czyścić.
+$GEN_056_DOC_02_02
+	Nie ma rzadnych wątpliwości, kto może stać za zatruciem studni. Tam naprzeciwko to mieszka taki Rouzet, szpetnik i pokraka. On to wyłazi z domu tylko wieczorami i twarz zasłania, ale my wiemy, co z niego za potwora. On napewnoć ludzi nienawidzi i pewnie tam jakiegoś <a name="8" class="hidden">trupa wrzucił</a>, żebyśmy nie mieli co pić i najlepiej to wyzdyhali. A on sam to zaczoł wodę brać z fontanny, o!
+$GEN_056_OnStart_00
+Nie jestem przekonany, ale wydaje mi się, że do studni to mogło wpaść cokolwiek, choćby i nieostrożny kot.
+$GEN_056_OnStart_01
+Rouzet to wasze nazwisko?
+$GEN_056_OnStart_02
+Zgadza się, Gabriel Rouzet.
+$GEN_056_OnStart_03
+Jesteście oskarżeni o zatrucie studni. Chcecie coś powiedzieć?
+$GEN_056_OnStart_04
+Od dziecka mam problemy ze skórą, gdy świeci na nią światło.
+$GEN_056_OnStart_05
+Ta choroba ma coś wspólnego z waszym… wyglądem?
+$GEN_056_OnStart_06
+Zapewne, nie urodziłem się taki.
+$GEN_056_OnStart_07
+Zatruliście tę studnię czy nie?
+$GEN_056_OnStart_08
+Oczywiście, że nie, co za absurd.
+$GEN_056_OnGuilty_00
+Skazuję Rouzeta na ścięcie, nie będzie więcej terroryzował mieszkańców.
+$GEN_056_OnGuilty_01
+Nie mogło być inaczej!
+$GEN_056_OnGuilty_02
+Wreszcie się go pozbędziemy!
+$GEN_056_OnPrison_00
+Obywatelu Rouzet, skazuję was na karę 10 lat więzienia.
+$GEN_056_OnPrison_01
+Dobrze, tam będą wiedzieli, co z nim zrobić!
+$GEN_056_OnNotGuilty_00
+Gabriel Rouzet nie jest winny zatrucia studni, możecie go uwolnić.
+$GEN_056_OnNotGuilty_01
+Studnia sama się nie zatruła!
+$GEN_056_OnNotGuilty_02
+Sędzia chroni potwora z piekielnych czeluści.
+$GEN_056_01x04_00_QTitle
+Sąsiedzi nazywają was dziwolągiem i potworem.
+$GEN_056_01x04_00_00
+Sąsiedzi nazywają was dziwolągiem i potworem.
+$GEN_056_01x04_00_01
+Dziwi was to?
+$GEN_056_01x04_00_02
+Zrobiliście komuś kiedyś krzywdę?
+$GEN_056_01x04_00_03
+Wystarczająco już sam cierpię, żeby jeszcze innym życie uprzykrzać.
+$GEN_056_01x04_00_04
+Ludzi niepokoją wasze wiecznie zasłonięte okna.
+$GEN_056_01x04_00_05
+Słońce sprawia mi ból, nie mam zamiaru sobie robić krzywdy, żeby stwarzać normalniejsze wrażenie.
+$GEN_056_06x03_01_QTitle
+Stać was na wodę od nosicieli i na służbę?
+$GEN_056_06x03_01_00
+Stać was na wodę od nosicieli i na służbę?
+$GEN_056_06x03_01_01
+Na szczęście tak.
+$GEN_056_06x03_01_02
+Jaśnie pan potwór chodzi w barchanach!
+$GEN_056_06x03_01_03
+Spokój na sali. W jakim zawodzie pracujecie?
+$GEN_056_06x03_01_04
+W moim stanie? Wysoki Sądzie, ja czasem przez trzy dni z nocnika nie złażę, a potem dwa dni w łóżku leżę.
+$GEN_056_06x03_01_05
+Czyli nie pracujecie?
+$GEN_056_06x03_01_06
+Nie.
+$GEN_056_06x03_01_07
+Skąd więc macie pieniądze?
+$GEN_056_06x03_01_08
+Odziedziczyłem po ojcu. Był fabrykantem, ale po jego śmierci sprzedałem zakład.
+$GEN_056_06x03_01_09
+Ojciec wyzyskiwacz, a syn pokraka.
+$GEN_056_06x03_01_10
+Czym zajmujecie się cały dzień?
+$GEN_056_06x03_01_11
+Głównie czytam literaturę.
+$GEN_056_02x07_02_QTitle
+W aktach napisano, że obywatel stroni od towarzystwa.
+$GEN_056_02x07_02_00
+W aktach napisano, że obywatel stroni od towarzystwa.
+$GEN_056_02x07_02_01
+To chyba oczywiste.
+$GEN_056_02x07_02_02
+Proszę odpowiadać, a nie komentować. Nie lubi obywatel ludzi?
+$GEN_056_02x07_02_03
+Nie zatrułem studni.
+$GEN_056_02x07_02_04
+Wasi sąsiedzi twierdzą inaczej.
+$GEN_056_02x07_02_05
+Jeśli ktoś twierdzi, że mnie widział, to zwyczajnie łże jak podwórkowy kundel.
+$GEN_056_02x07_02_06
+Za pogardę do ludzi powinni mu obciąć paskudny łeb.
+$GEN_056_02x07_02_07
+Za pogardę? Za pogardę to ja powinienem się mścić. Za kobiety zasłaniające dzieciom twarze, kiedy przechodzę, za samotne dzieciństwo, za…
+$GEN_056_02x07_02_08
+Nie rozmawiamy teraz o życiu obywatela, tylko o sprawie zatrucia studni.
+$GEN_056_02x07_02_09
+Oczywiście. O mnie nigdy się nie rozmawia, jakby od samych słów można się było zarazić. Brzydzę się wami.
+$GEN_056_02x07_02_10
+A my tobą, stworze!
+$GEN_056_01x07_03_QTitle
+Wzywam na świadka Lamberta Cazala.
+$GEN_056_01x07_03_00
+Wzywam na świadka Lamberta Cazala.
+$GEN_056_01x07_03_02
+Wasze nazwisko?
+$GEN_056_01x07_03_03
+Lambert Cazale, sędzio.
+$GEN_056_01x07_03_04
+Oskarżyliście obywatela Rouzeta o zatrucie studni.
+$GEN_056_01x07_03_05
+I dobrze, nie wstydzę się!
+$GEN_056_01x07_03_06
+Dobrze zrobił!
+$GEN_056_01x07_03_07
+Długo jesteście sąsiadami?
+$GEN_056_01x07_03_08
+Odkąd pamiętam.
+$GEN_056_01x07_03_09
+I do tej pory wam nie przeszkadzał?
+$GEN_056_01x07_03_10
+Przeszkadzał, ale w czasach króla na nasze donosy to nikt uwagi nie zwracał.
+$GEN_056_08x05_04_QTitle
+Przyznajecie się do zatrucia wody w studni zwłokami?
+$GEN_056_08x05_04_00
+Przyznajecie się do zatrucia wody w studni zwłokami?
+$GEN_056_08x05_04_01
+Ależ skąd, to bzdura.
+$GEN_056_08x05_04_02
+Macie dowody na to, że jesteście niewinni?
+$GEN_056_08x05_04_03
+A ktoś zadał sobie trud, żeby wydobyć te rzekome zwłoki z wody?
+$GEN_056_08x05_04_04
+Przecież w studni to choć oko wykol.
+$GEN_056_08x05_04_05
+Ja tutaj zadaję pytania.
+$GEN_056_08x05_04_06
+Nie, nie mam dowodów na swoją niewinność.
+$GEN_056_03x05_05_QTitle
+Wasze służące nosiły dla was wodę ze studni?
+$GEN_056_03x05_05_00
+Wasze służące nosiły dla was wodę ze studni?
+$GEN_056_03x05_05_01
+Zazwyczaj tak.
+$GEN_056_03x05_05_02
+Czemu tylko zazwyczaj?
+$GEN_056_03x05_05_03
+Po deszczu zwykle śmierdziała – wtedy dawałem im pieniądze na wodę z fontanny.
+$GEN_056_03x05_05_04
+One też ją piły?
+$GEN_056_03x05_05_05
+Oczywiście, to dobre kobiety, zawsze jedzą i piją to, co i ja.
+$GEN_056_03x05_05_06
+Dziwki potwora. Ciekawe, co jeszcze razem robili.
+$GEN_056_02x04_06_QTitle
+Unikaliście swoich sąsiadów?
+$GEN_056_02x04_06_00
+Unikaliście swoich sąsiadów?
+$GEN_056_02x04_06_01
+Oni mnie także.
+$GEN_056_02x04_06_02
+Próbowali się kiedyś obywatela pozbyć z sąsiedztwa?
+$GEN_056_02x04_06_03
+Pewnie, nie policzę ile razy.
+$GEN_056_02x04_06_04
+Możecie powiedzieć więcej? Co dokładnie robili?
+$GEN_056_02x04_06_05
+Mogę, mogę mówić długo. Były kamienie rzucane w szyby, było grożenie moim służącym, był jakiś sadysta, który zatłukł mojego psa kijem, kiedy miałem 15 lat. Mam wymieniać dalej? Kiedyś, gdy zdecydowałem się na wieczorny spacer, musiałem uciekać przed…
+$GEN_056_02x04_06_06
+Rozumiem, nie musicie kontynuować.
+$GEN_056_02x04_06_07
+Zmyśla!
+$GEN_056_02x04_06_08
+Chciałbym to wszystko zmyślić.
+$GEN_056_WIT_00_A_QTitle
+Widzieliście, jak Rouzet zatruwa studnię?
+$GEN_056_WIT_00_A_00
+Widzieliście, jak Rouzet zatruwa studnię?
+$GEN_056_WIT_00_A_01
+Nie, ale to nie mógł być nikt inny.
+$GEN_056_WIT_00_A_02
+Czemu?
+$GEN_056_WIT_00_A_03
+Wszyscy wokół normalni, a ten jeden… sami go widzicie. Przecież to nie jest człowiek nawet!
+$GEN_056_WIT_00_A_04
+Nie człowiek?
+$GEN_056_WIT_00_A_05
+Upiór prędzej – wypełzł z mogiły, żeby ludzi straszyć!
+$GEN_056_WIT_00_B_QTitle
+Pochorowaliście się od śmierdzącej wody?
+$GEN_056_WIT_00_B_00
+Pochorowaliście się od śmierdzącej wody?
+$GEN_056_WIT_00_B_01
+Tak było.
+$GEN_056_WIT_00_B_02
+Czuliście, że ona cuchnie?
+$GEN_056_WIT_00_B_03
+To był taki smród, że dwie ulice dalej było czuć.
+$GEN_056_WIT_00_B_04
+To czemu piliście?
+$GEN_056_WIT_00_B_05
+A bo ta woda to ciągle śmierdzi i nie zwróciłem jakoś tak uwagi, że teraz to zatruta.
+$GEN_056_KEY_01
+Dziwoląg
+$GEN_056_KEY_02
+Odludek
+$GEN_056_KEY_03
+Dwie służące
+$GEN_056_KEY_04
+Ciemne mieszkanie
+$GEN_056_KEY_05
+Studnia
+$GEN_056_KEY_06
+Nosiciele wody
+$GEN_056_KEY_07
+Zatrucie
+$GEN_056_KEY_08
+Zwłoki w studni
+
+
+$GEN_056_LastDialog_00
+Moje życie było męką, i moja śmierć nie będzie lżejsza.
+
+$GEN_056_UNIQUE_QUESTION_00
+Skąd oskarżony ma pieniądze na życie?
+$GEN_056_UNIQUE_ANSWER_CORRECT_00_00
+Sprzedał fabrykę ojca.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Utrzymuje go daleka rodzina.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Jest rzemieślnikiem.
+
+$GEN_056_UNIQUE_QUESTION_01
+Czemu ludzie pili śmierdzącą wodę ze studni?
+$GEN_056_UNIQUE_ANSWER_CORRECT_01_00
+Bo ona zawsze śmierdzi.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Czysta woda jest droższa.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Bo do fontanny daleko.
+
+$GEN_056_UNIQUE_QUESTION_02
+Dlaczego według donosu Rouzet miałby zatruć wodę?
+$GEN_056_UNIQUE_ANSWER_CORRECT_02_00
+Bo nienawidzi ludzi.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Bo chciał się zemścić.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Bo to potwór z piekieł.
+

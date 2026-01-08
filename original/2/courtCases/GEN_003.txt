@@ -1,0 +1,205 @@
+$GEN_003_DOC_01_HEADER
+Compilé par : Raphaël Chalopin
+$GEN_003_DOC_01_00
+Sur le banc des accusés se trouve Lucien Blanchot, résident de la section des Gravilliers, rue Meslée. Le citoyen Blanchot possède plusieurs étals de fruits et légumes. Nous avons reçu de nombreuses <a name="1" class="hidden">plaintes</a> concernant ses pratiques malhonnêtes, comme la vente de fruits gâtés, la spéculation sur les prix et la violation des <a name="3" class="hidden">plafonds légaux des prix</a>.  
+$GEN_003_DOC_01_01
+M. Blanchot a nié toutes ces accusations, mais mon enquête sur ses étals a montré que certaines de ces plaintes étaient justifiées. Il prétend que les prix ont été augmentés suite à des <a name="4" class="hidden">« erreurs de ses employés »</a> et que les produits avariés allaient être jetés le jour de l'inspection. Notez toutefois que lorsque les inspecteurs ont signalé ses infractions, Blanchot a réprimandé ses employés et s'est immédiatement attelé à remettre de l'ordre sur son étal.
+$GEN_003_DOC_01_02
+<h1>Lucien Blanchot</h1>
+Un jeune marchand et partisan dévoué des Jacobins. Il prétend avoir des <a name="5" class="hidden">liens</a> avec Marat et Robespierre. Jusqu'à présent, il a toujours pu mener ses affaires louches sans inquiétude, ce qui pourrait confirmer ses dires.  
+$GEN_003_DOC_01_03
+Témoin 1 : « Il m'a vendu des pommes pourries. Il les a cachées derrière des pommes fraîches pour que je ne m'en rende pas compte ! »
+$GEN_003_DOC_01_04
+Témoin 2 : « Mon mari <a name="7" class="hidden">a eu des nausées pendant deux jours</a> après avoir mangé du céleri de cet escroc ! »
+$GEN_003_OnStart_00
+Je lui ai acheté des carottes !
+$GEN_003_OnStart_01
+Je te prie de te présenter, citoyen.
+$GEN_003_OnStart_02
+Lucien Blanchot.
+$GEN_003_OnStart_03
+Profession ?
+$GEN_003_OnStart_04
+Actuellement ? Marchand. Également prisonnier temporaire.
+$GEN_003_OnStart_05
+Tu es accusé de spéculation sur les prix, de violation des plafonds légaux des prix et de vente de produits avariés.
+$GEN_003_OnStart_06
+C'est tout ?
+$GEN_003_OnStart_07
+J'aimerais demander à la cour d'ajouter aux charges l'empoisonnement délibéré de citoyens de Paris.
+$GEN_003_OnStart_08
+Empoisonnement ? Les vieux légumes n'ont jamais tué personne.
+$GEN_003_OnStart_09
+Tu reconnais donc les autres accusations ?
+$GEN_003_OnStart_10
+Je suis un honnête entrepreneur, je ne laisserai pas de telles allégations nuire à mes affaires.
+$GEN_003_OnGuilty_00
+Je condamne le citoyen Lucien Blanchot à être guillotiné ! Emmenez le condamné.
+$GEN_003_OnGuilty_01
+C'est impensable ! Condamné à mort pour une faute mineure ? Je m'insurge !
+$GEN_003_OnGuilty_02
+On va voir s'il reste frais maintenant !
+$GEN_003_OnGuilty_03
+J'ai des amis haut placés ! Tu vas le regretter, misérable !
+$GEN_003_OnPrison_00
+Je condamne le citoyen Lucien Blanchot à être emprisonné ! Emmenez le condamné.
+$GEN_003_OnPrison_01
+On va voir s'il reste frais derrière les barreaux !
+$GEN_003_OnPrison_02
+J'ai des amis haut placés. Je serai libéré dans quelques jours. Toi, par contre...
+$GEN_003_OnNotGuilty_00
+Je déclare le citoyen Blanchot... non coupable. Que liberté lui soit rendue.
+$GEN_003_OnNotGuilty_01
+Merci pour ce verdict impartial. Je suis heureux de savoir que nos tribunaux sont dirigés par des juges aussi honorables.
+$GEN_003_OnNotGuilty_02
+C'est une mascarade !
+$GEN_003_OnNotGuilty_03
+Non coupable ? Les preuves étaient pourtant accablantes !
+$GEN_003_01x06_00_QTitle
+Reconnais-tu avoir vendu des produits avariés ?
+$GEN_003_01x06_00_00
+Reconnais-tu avoir vendu des produits avariés ?
+$GEN_003_01x06_00_01
+Cette question a déjà été résolue par les enquêteurs. Nul besoin d'y retourner.
+$GEN_003_01x06_00_02
+Réponds à la question !
+$GEN_003_01x06_00_03
+Oui et non. Oui, parce que je reconnais qu'une telle chose s'est produite à mes étals. Non, parce que ce n'était pas ma faute.
+$GEN_003_01x06_00_04
+De qui était-ce la faute ?
+$GEN_003_01x06_00_05
+Je ne peux pas être tenu responsable du fait que toutes les pommes ne soient pas identiques. Les pommes ne sont pas des citoyennes de France.
+$GEN_003_01x06_00_06
+Mais tu es propriétaire de ces étals et tu peux être tenu responsable des produits que tu vends.
+$GEN_003_01x06_00_07
+Je n'ai jamais forcé personne à m'acheter quoi que ce soit.
+$GEN_003_01x06_00_08
+Tu insinues que tes clients ont sciemment acheté des produits avariés ?
+$GEN_003_01x06_00_09
+Ils achèteraient des carottes plus noires que du charbon si vous baissiez leur prix de quelques sous, mais ils s'attendraient tout de même à ce qu'elle soient fraîchement récoltées.
+$GEN_003_01x06_00_10
+Il insulte le peuple ! Jetez ce manant aux fers !
+$GEN_003_01x07_01_QTitle
+Savais-tu que tes produits rendaient malades tes clients ?
+$GEN_003_01x07_01_00
+Savais-tu que tes produits rendaient malades tes clients ?
+$GEN_003_01x07_01_01
+S'ils peuvent prouver qu'ils sont malades à cause de mes produits, je couvrirai volontiers le coût de leur traitement, ou de leurs funérailles. Ils n'ont qu'à se manifester.
+$GEN_003_01x07_01_02
+Mange donc tes cochonneries, tu auras tes preuves !
+$GEN_003_01x07_01_03
+Je te rappelle que les déclarations des témoins seront prises en compte.
+$GEN_003_01x07_01_04
+Il vendait de la merde à ses clients, pas de la nourriture.
+$GEN_003_01x07_01_05
+Des déclarations provenant de cyniques qui feraient tout pour mettre des bâtons dans les roues d'un homme plus riche qu'eux. C'est ce que j'appelle des preuves inestimables.
+$GEN_003_02x03_02_QTitle
+Concernant la violation des plafonds légaux des prix...
+$GEN_003_02x03_02_00
+Avant que Monsieur le juge ne termine sa question, je me permets de clarifier un point : les plafonds n'ont jamais été délibérément dépassés sur mes étals. Je trouve de telles accusations injustes et malveillantes.
+$GEN_003_02x03_02_01
+Objection ! Tu n'as corrigé les prix qu'à l'arrivée des inspecteurs.
+$GEN_003_02x03_02_02
+Il mérite de pourrir en prison.
+$GEN_003_02x03_02_03
+Les inspecteurs m'ont donné une amende considérable que j'ai réglée sans délai. J'ai déjà payé les conséquences de ma négligence.
+$GEN_003_02x03_02_04
+Une amende ne l'empêchera pas de revendre des tomates pourries !
+$GEN_003_02x04_03_QTitle
+Tes employés semblent être eux-mêmes assez négligents.
+$GEN_003_02x04_03_00
+Tes employés semblent être eux-mêmes assez négligents.
+$GEN_003_02x04_03_01
+J'aimerais pouvoir tout faire moi-même, mais c'est impossible.
+$GEN_003_02x04_03_02
+Tu n'as trouvé personne de plus compétent dans tout Paris ? Est-ce là toute l'estime que tu portes à tes concitoyens ?
+$GEN_003_02x04_03_03
+À vrai dire, la plupart des gens sont des idiots. Le simple fait que je doive me défendre au tribunal en est la preuve.
+$GEN_003_02x04_03_04
+L'accusé a-t-il donné une formation adéquate à ses subordonnés ?
+$GEN_003_02x04_03_05
+Je tiens des étals de fruits et légumes, pas une école libre pour les demeurés.
+$GEN_003_02x04_03_06
+Il nous insulte !
+$GEN_003_02x05_04_QTitle
+Peux-tu nous expliquer pourquoi tant de gens se sont plaints de tes produits depuis des années… ?
+$GEN_003_02x05_04_00
+Peux-tu nous expliquer pourquoi tant de gens se sont plaints de tes produits depuis des années et que ce soit la première fois que tu répondes de tout cela devant un tribunal ?
+$GEN_003_02x05_04_01
+Peut-être parce que la plupart de ces plaintes ne sont que d'absurdes pleurnicheries de la part de misérables paresseux ?
+$GEN_003_02x05_04_02
+Crois-tu vraiment que Marat et Robespierre te protégeront ?
+$GEN_003_02x05_04_03
+Je crois que la loi me protégera. La justice est de mon côté.
+$GEN_003_02x05_04_04
+Que veux-tu dire ?
+$GEN_003_02x05_04_05
+La loi est censée protéger les innocents. Elle doit soutenir ceux qui sont lésés par...
+$GEN_003_02x05_04_06
+Épargne-nous ton discours. Ce n'est pas une séance de la Convention nationale.
+$GEN_003_02x05_04_07
+Quelqu'un a compris quelque chose ?
+$GEN_003_02x05_04_08
+Pardonnez-moi. Mon âme réclame la justice, afin que les hommes d'État que tu as cités, Marat et Robespierre, n'aient pas à rendre justice pour moi.
+$GEN_003_03x04_05_QTitle
+Nous avons analysé tes registres et nous avons découvert que tu dépassais régulièrement les plafonds légaux des prix…
+$GEN_003_03x04_05_00
+Nous avons analysé tes registres et nous avons découvert que tu dépassais régulièrement les plafonds légaux des prix. Comptes-tu aussi démentir cette accusation ?
+$GEN_003_03x04_05_01
+Ces registres sont tenus par des gens ordinaires qui peuvent se tromper. Je m'y pencherai de nouveau et je procéderai aux corrections nécess...
+$GEN_003_03x04_05_02
+Tu n'es pas un service administratif, citoyen Blanchot. Ces registres, dans leur état actuel, constituent des preuves pour la cour.
+$GEN_003_03x04_05_03
+Il ne s'agit que de simples erreurs de comptabilité, un zéro ou une virgule ajoutés au mauvais endroit par mégarde. Il y a une explication pour tout. Ne sommes-nous pas tous des amis de la France, après tout ? C'est ce que le citoyen Robespierre m'a assuré.
+$GEN_003_03x04_05_04
+Le citoyen Robespierre t'a-t-il aussi assuré que tu pouvais falsifier tes registres en toute impunité ?
+$GEN_003_03x04_05_05
+Non, bien entendu...
+$GEN_003_03x04_05_06
+Alors pourquoi parles-tu de lui ?
+$GEN_003_03x04_05_07
+Je...
+$GEN_003_03x04_05_08
+Robespierre n'est pas un laquais de ces marchands des quatre-saisons !
+$GEN_003_03x04_05_09
+Silence ! Ou je suspends le procès !
+$GEN_003_03x04_05_10
+Ils n'ont quand même pas soudoyé le juge aussi ?
+$GEN_003_KEY_01
+Plaintes des clients
+$GEN_003_KEY_02
+Pratiques malhonnêtes
+$GEN_003_KEY_03
+Plafonds légaux des prix
+$GEN_003_KEY_04
+Erreurs des employés
+$GEN_003_KEY_05
+Les relations de l'accusé
+$GEN_003_KEY_06
+Pommes gâtées
+$GEN_003_KEY_07
+Empoisonnement des clients
+$GEN_003_LastDialog_00
+Pour quelques pommes gâtées ? Avez-vous perdu la tête ? Il faut appeler Robespierre !
+$GEN_003_UNIQUE_QUESTION_00
+Quelles sont les affiliations politiques confirmées du prévenu ?
+$GEN_003_UNIQUE_QUESTION_01
+Quelle a été l'attitude du prévenu à propos des amendes reçues ?
+$GEN_003_UNIQUE_QUESTION_02
+Comment le prévenu explique-t-il son mépris pour la loi du maximal général ?
+$GEN_003_UNIQUE_ANSWER_CORRECT_00_00
+Partisan des Jacobins.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Partisan des Girondins.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Nous ne savons rien de ses affiliations politiques.
+$GEN_003_UNIQUE_ANSWER_CORRECT_01_00
+Il l'a payée immédiatement.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Il a tardé à la payer.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il a soudoyé l'agent pour éviter l'amende.
+$GEN_003_UNIQUE_ANSWER_CORRECT_02_00
+Par une erreur écrite.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Par le soutien de Robespierre.

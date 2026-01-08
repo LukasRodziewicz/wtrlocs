@@ -1,0 +1,32 @@
+$DIAL_H_01_02_10_001_HANRIOT
+Ton épouse m'a dit que si je cherchais le soutien des gens, je devais me tourner vers toi.
+$DIAL_H_01_02_10_002_WIFE
+Oui, citoyen Hanriot. Mon époux sera ravi de soutenir ta candidature pour le poste de commandant en chef.
+$DIAL_H_01_02_10_003_JUDGE
+Pourquoi ai-je le sentiment que c'est un fait accompli ?
+$DIAL_H_01_02_10_004_HANRIOT
+Ne sois pas en colère contre ton épouse. Je suis sûr que ses promesses partaient d'un bon sentiment.
+$DIAL_H_01_02_10_005_WIFE
+Comment pourrait-on refuser de soutenir un officier aussi respectable ? Je suis certaine que mon époux saura reconnaître tes mérites, tout comme moi.
+$DIAL_H_01_02_10_006_JUDGE
+Sans aucun doute. Mais comment puis-je m'en assurer alors qu'il y a tant d'autres candidats ?
+$DIAL_H_01_02_10_007_HANRIOT
+Bien que je respecte les autres candidats, d'honnêtes gens, je peux t'offrir le cadeau le plus précieux : la loyauté. Travailler main dans la main nous serait bénéfique à tous les deux… la ville de Paris pourrait même en sortir gagnante également.
+$DIAL_H_01_02_10_008_JUDGE
+Notre famille a une haute considération pour la sincérité et la loyauté, n'est-ce pas très cher ? De plus, nous respectons l'espace personnel de chacun.
+$DIAL_H_01_02_10_009_WIFE
+Constamment.
+$DIAL_H_01_02_10_010_HANRIOT
+En effet. Ces ignobles rumeurs laissant entendre que tu es accro au jeu doivent cesser ! Sache que je n'oublie jamais les faveurs qui me sont accordées.
+$DIAL_H_01_02_10_011_JUDGE
+Tant de blabla, citoyen Hanriot.
+$DIAL_H_01_02_10_012_HANRIOT
+Je suis sûr qu'aucun autre candidat ne t'a demandé ton soutien. Ils pensent que tu n'es pas digne de leur amitié. Mais moi, François Hanriot, je suis différent. Mes paroles ont également une autre valeur.
+$DIAL_H_01_02_10_013_WIFE
+Je suis certaine que mon époux l'a déjà remarqué.
+$DIAL_H_01_02_10_014_HANRIOT
+Merci. En dépit de ce que hurle la foule, la force de Paris réside dans l'union de ses élites.
+$DIAL_H_01_02_10_015_JUDGE
+Je ne romprai pas les promesses de mon épouse, mais à l'avenir, tâche de venir me voir en premier.
+$DIAL_H_01_02_10_016_HANRIOT
+Mais bien entendu…

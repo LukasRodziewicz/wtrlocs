@@ -1,0 +1,56 @@
+#GAME_OPTIONS
+Opciones de juego
+#SOUND_OPTIONS
+Audio
+#CREDITS_HEADER
+Créditos
+#CREDITS_BACK
+Volver
+#CHOOSE_PROFILE
+Elegir un perfil
+#NEW_PROFILE
+Crear perfil
+#EMPTY_PROFILE
+Crear un perfil nuevo
+#PROFILE_PLACEHOLDER
+Nombre de perfil
+#PROFILE_DELETE_QUESTION_TITLE
+Eliminar perfil
+#PROFILE_DELETE_QUESTION
+Eliminar un perfil es permanente. ¿Está seguro?
+#PROFILE_SUBTITLE
+Acto {0} Día {1}
+#NEW_GAME_QUESTION_TITLE
+Reiniciar
+#NEW_GAME_QUESTION
+Reiniciar hará que pierdas todo tu progreso. ¿Seguro que deseas continuar?
+#SOUND_MAIN_OPTION
+Volumen principal
+#SOUND_EFFECTS_OPTION
+Volumen de efectos
+#SOUND_MUSIC_OPTION
+Volumen de la música
+#SOUND_DIALOGS_OPTION
+Volumen de voces
+#AUTOSAVE
+Autoguardado
+#SINGLE_CASES_HEADER
+Audiencia:
+#MULTI_CASES_HEADER
+Audiencias:
+#CASES_EMPTY
+Ninguno
+#ACT
+Acto {0}
+#LOAD_GAME_DAY
+Día {0}
+#LOAD_GAME_PARAMS_INFO
+Situación:
+#LOAD_GAME_QUESTION_TITLE
+Cargar partida antigua
+#LOAD_GAME_QUESTION
+Si eliges un día anterior, se perderá el progreso de los días siguientes. ¿Estás seguro?
+#SAVE_PROFILE
+Crear perfil
+#FLASHCARDS_CASES_KEY
+Veredicto extraordinario

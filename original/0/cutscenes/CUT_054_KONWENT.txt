@@ -1,0 +1,83 @@
+$CUT_054_JUDGE_001
+Obywatele! Deputowani!
+$CUT_054_JUDGE_002
+Kto głosuje za aresztowaniem Robespierre’a?!
+
+$DISC_INTR_005_B12_KONWENT_001_JUDGE_AGGR
+Robespierre zatracił poczucie rzeczywistości. Gdyby miał honor, oddałby się w ręce sprawiedliwości. Ale jest wściekłym psem, który będzie bronił swojego za wszelką cenę, niezależnie od tego, ile osób przez to ucierpi!
+$DISC_INTR_005_B12_KONWENT_002_JUDGE_MANI
+Ile osób jeszcze ucierpi, zanim zdecydujemy się ukrócić poczynania tej bestii? On już nie zważa na nic poza własną władzą!
+$DISC_INTR_005_B12_KONWENT_003_JUDGE_JOKE
+Być może przejmuję się nadto. Tak, możliwe. Ale wydaje mi się oczywiste, że Robespierre przestał nad sobą panować. Trzeba go uśpić!
+$DISC_INTR_005_B12_KONWENT_004_JUDGE_HUMI
+Jeśli Konwent nie przejrzy na oczy, zginą ludzie. Zginą Francuzi, których przysięgaliśmy bronić. Nic nie zostanie z odnowionego kraju poza trupami.
+$DISC_INTR_005_B12_KONWENT_005_KONWENT_INTR
+Czyli tym razem zagiąłeś parol na Robespierre’a?
+$DISC_INTR_005_B12_KONWENT_006_KONWENT_DOUB
+Kto byłby w stanie zrozumieć tę waszą kłótnię? Mędrzec chyba jakiś!
+$DISC_INTR_005_B12_KONWENT_007_KONWENT_IRRI
+Obaj jesteście wściekłymi psami – wystarczy was dobrze ubodnąć i zaczynacie toczyć pianę!
+
+$DISC_INTR_005_B12_KONWENT_008_JUDGE_AGGR
+Ile chcecie czekać, aż Robespierre dobierze się do was?! Dobrał się do Dantona, do Héberta, bo ośmielili się mu sprzeciwić!
+$DISC_INTR_005_B12_KONWENT_009_JUDGE_MANI
+Robespierre powiedział mi kiedyś, że „terror to szybka sprawiedliwość”. Rozumiecie?! Takie są jego poglądy, skąpanie Francji we krwi jest dla niego jedyną drogą!
+$DISC_INTR_005_B12_KONWENT_010_JUDGE_JOKE
+Danton i Hébert też początkowo lekceważyli zagrożenie. Aż tu nagle pojawiły się dowody na ich zbrodnie, oczywiście przygotowane przez Robespierre’a! Czekajcie spokojnie na waszą kolej, czekajcie!
+$DISC_INTR_005_B12_KONWENT_011_JUDGE_HUMI
+Nie możemy stracić Konwentu. A tak się stanie, jeśli Robespierre dalej będzie terroryzował Paryż. Prędzej czy później sprzeciwicie mu się i skończycie jak Danton czy Hébert!
+$DISC_INTR_005_B12_KONWENT_012_KONWENT_INTR
+Możliwe, że Maximilien się trochę zagubił, ale musi być jakiś bardziej adekwatny sposób na ukaranie go niż gilotyna!
+$DISC_INTR_005_B12_KONWENT_013_KONWENT_DOUB
+Każdy z nas popełnia błędy. Robespierre też. Jeszcze możemy go nawrócić!
+$DISC_INTR_005_B12_KONWENT_014_KONWENT_IRRI
+Tylko monarcha ścinał ludzi za pojedyncze błędy! Rewolucja musi dawać drugą szansę takim zasłużonym obywatelom jak Robespierre!
+
+$DISC_INTR_005_B12_KONWENT_015_JUDGE_AGGR
+Kogo chcecie oszczędzić? Zdrajcę? Robespierre dogadał się z Clémentem Renardem, przywódcą arystokratycznego spisku, który tropię od dawna! Działają razem, by przywrócić monarchię we Francji. Chcecie go nadal ratować, durnie?!
+$DISC_INTR_005_B12_KONWENT_016_JUDGE_MANI
+Od dawna tropię arystokratyczny spisek, któremu przewodzi Clément Renard. Zdrajcy chcą przywrócenia monarchii we Francji. A tak się składa, że pomaga im właśnie Robespierre. Nie rozumiem zatem, drodzy koledzy, dlaczego chcecie mu dawać szansę na rehabilitację!
+$DISC_INTR_005_B12_KONWENT_017_JUDGE_JOKE
+Tak jest, dajcie mu czas, drugą i dziesiątą szansę! A on w tym czasie wraz z Clémentem Renardem doprowadzi do końca arystokratyczny spisek! Tak, tropię go od dawna – on chce powrotu monarchii! Zobaczymy, czy da wam wtedy szansę!
+$DISC_INTR_005_B12_KONWENT_018_JUDGE_HUMI
+Rewolucja została okupiona krwią Francuzów, a teraz Clément Renard przewodzi spiskowi arystokratów, który zakończy się powrotem monarchii. Robespierre im pomaga! Drodzy deputowani, Francja znowu skąpie się we krwi, jeśli odpuścimy temu zdrajcy.
+
+
+$DISC_INTR_005_B12_KONWENT_019_JUDGE_AGGR
+My gaworzymy sobie przy winie i ciastkach, a Hanriot zbiera wśród Komuny chętnych do obrony ratusza i samego Robespierre’a! Może zagramy w kości dla urozmaicenia sobie dialogu?
+$DISC_INTR_005_B12_KONWENT_020_JUDGE_MANI
+Hanriot zbiera dla Robespierre’a siły, które będą w stanie opanować Paryż. Nikt mu się nie przeciwstawi. Każdy, kto choćby postawił przecinek w zdaniu skierowanym przeciw niemu, zginie. Wystarczy tylko sięgnąć po władzę.
+$DISC_INTR_005_B12_KONWENT_021_JUDGE_JOKE
+Podobno Hanriot stara się w Komunie o chętnych, z których zbuduje oddziały zdolne obronić Robespierre’a. Mają rozmach i tupet, trzeba im to przyznać.
+$DISC_INTR_005_B12_KONWENT_022_JUDGE_HUMI
+Najbardziej żal mi tych biedaków, którzy nabiorą się na piękne słowa Hanriota. Komendant zbiera armię, którą będzie mógł poprowadzić na Konwent. A ci biedacy zginą za jego zbrodnię.
+
+
+$DISC_INTR_005_B12_KONWENT_023_JUDGE_AGGR
+Trzeba być głupim, żeby nie widzieć, że pierwszym celem tych oddziałów będzie Konwent. Muszą więc zadbać o te swoje cenne stołki!
+$DISC_INTR_005_B12_KONWENT_024_JUDGE_MANI
+Deputowani Konwentu obudzą się z głowami na gilotynach. Wtedy będą wiedzieli to, co teraz jest oczywistością – Hanriot i Robespierre ruszą na nich, jak tylko zbiorą dość ludzi.
+$DISC_INTR_005_B12_KONWENT_025_JUDGE_JOKE
+Może powinniśmy pozwolić Robespierre’owi wparować do Konwentu? Jeśli deputowani się teraz nie zorientują, to może lepiej niech zajmą miejsce dla głupców, czyli na gilotynie.
+$DISC_INTR_005_B12_KONWENT_026_JUDGE_HUMI
+Robespierre ich zdominuje. Zapędzi w kozi róg – szablami i muszkietami. Gniewnymi spojrzeniami głupców, którzy wierzą, że rozumieją. A Francja i jej rewolucja umrą wraz z deputowanymi Konwentu.
+$DISC_INTR_005_B12_KONWENT_027_KONWENT_INTR
+Sędzia dobrze mówi!
+$DISC_INTR_005_B12_KONWENT_028_KONWENT_DOUB
+Może i Robespierre jest draniem, ale to za mało, by skazywać go na śmierć.
+$DISC_INTR_005_B12_KONWENT_029_KONWENT_IRRI
+Załatwiajcie swoje sprawy między sobą. My mamy zamiar dożyć końca rewolucji!
+
+$DISC_INTR_005_B12_KONWENT_030_SUCCESS_JUDGE
+Kto głosuje za aresztowaniem Robespierre’a?!
+
+$DISC_INTR_005_B12_KONWENT_TOPIC_01
+Robespierre jest jak wściekły pies.
+$DISC_INTR_005_B12_KONWENT_TOPIC_02
+Zatracił się w terrorze.
+$DISC_INTR_005_B12_KONWENT_TOPIC_03
+Robespierre stoi za spiskiem arystokratów.
+$DISC_INTR_005_B12_KONWENT_TOPIC_04
+Hanriot zbiera dla niego armię.
+$DISC_INTR_005_B12_KONWENT_TOPIC_05
+Konwent musi wydać zgodę dla swojego dobra.

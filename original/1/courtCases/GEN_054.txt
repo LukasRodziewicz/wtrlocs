@@ -1,0 +1,158 @@
+$GEN_054_DOC_01_HEADER
+Compiled by: Charles Etienne
+$GEN_054_DOC_01_00
+	In the evening, <a name="1" class="hidden">two hungry dogs</a> of an unknown breed attacked a meat merchant, Citizen Courbis, at the market. She tried to chase them away from her goods with a stick, but failed to scare them. The dogs knocked her to the ground and attacked her. When she finally managed to escape, they feasted on her <a name="3" class="hidden">leftover goods</a>.
+$GEN_054_DOC_01_01
+	The Guard arrived after a few minutes, but the animals were already gone. Locals immediately pointed to <a name="4" class="hidden">an old house</a> surrounded by a small park. We established that it is occupied by Gaëtan Thibodeaux, an elderly man who works as a night watchman at a nearby factory.
+$GEN_054_DOC_01_02
+	We arrested Thibodeaux, even though he refused to acknowledge the dogs, but unfortunately for him the offending animals returned home during the arrest. Soldiers <a name="5" class="hidden">tried to shoot the aggressive mutts</a>, but they disappeared in the dark.
+$GEN_054_DOC_01_03
+	Let it be noted that the attacked woman’s hands and face were severely bitten. We were a hair’s breadth from a tragedy.
+$GEN_054_OnStart_00
+Citizen Thibodeaux, do the dogs that attacked the stall-holder, Citizen Courbis, belong to you?
+$GEN_054_OnStart_01
+No, monsieur le juge, they are not mine.
+$GEN_054_OnStart_02
+Who do they belong to then, if I may ask?
+$GEN_054_OnStart_03
+My brother, Bruno Thibodeaux.
+$GEN_054_OnStart_04
+Where is he now?
+$GEN_054_OnStart_05
+I don’t know. He left some time ago and never came back. He probably fought somewhere and died.
+$GEN_054_OnStart_06
+Did he ask you to take care of his dogs?
+$GEN_054_OnStart_07
+We haven’t talked much in recent years. One day he just left, and that was it.
+$GEN_054_OnGuilty_00
+Citizen, I do not find your explanations convincing. For your extreme irresponsibility I sentence you to death.
+$GEN_054_OnGuilty_01
+I find this verdict severe, but just.
+$GEN_054_OnGuilty_02
+You shouldn’t kill him, just those damned dogs.
+$GEN_054_OnNotGuilty_00
+You cannot be held accountable for someone else’s dogs. I do not find you guilty.
+$GEN_054_OnNotGuilty_01
+I hope that once all this commotion ends, we will revisit this case.
+$GEN_054_OnNotGuilty_02
+Right… And that woman mauled her own self.
+$GEN_054_04x03_00_QTitle
+Do you live in a home surrounded by a garden?
+$GEN_054_04x03_00_00
+Do you live in a home surrounded by a garden?
+$GEN_054_04x03_00_01
+What does that have to do with the case?
+$GEN_054_04x03_00_02
+I was merely wondering how a watchman who cannot afford to buy food for two dogs is able to maintain such a house.
+$GEN_054_04x03_00_03
+It’s no palace. Our father bought it many years back for a good price. He wanted to show off in front of my mother, let her live like a Countess.
+$GEN_054_04x03_00_04
+Then what?
+$GEN_054_04x03_00_05
+Then we never had enough money to really maintain the place. We couldn’t repair the roof, replace the old windows…
+$GEN_054_04x03_00_06
+The fence is also in ruins, since the dogs can escape through the holes.
+$GEN_054_04x03_00_07
+That’s true, but do you know how much I would have to pay for that? What part of my salary?
+$GEN_054_04x03_00_08
+Why did you not sell the house?
+$GEN_054_04x03_00_09
+We couldn’t do it while our father was alive. It would have broken his heart.
+$GEN_054_04x03_00_10
+And after his death?
+$GEN_054_04x03_00_11
+Then the house was already in ruins, like it still is. Who would buy it now?
+$GEN_054_01x04_01_QTitle
+What are your dogs called?
+$GEN_054_01x04_01_00
+What are your dogs called?
+$GEN_054_01x04_01_01
+My brother’s, not mine. Guard and Officer.
+$GEN_054_01x04_01_02
+Who gives dogs names like that?
+$GEN_054_01x04_01_03
+They are incredibly sly.
+$GEN_054_01x04_01_04
+My brother found them wandering in the Parisian suburbs when they were still young. To this day, they’re a little feral.
+$GEN_054_01x04_01_05
+They’re wolves, not dogs.
+$GEN_054_01x04_01_06
+Were they aggressive?
+$GEN_054_01x04_01_07
+Not really, but people often complained the big beasts walked the streets like they owned them. No wonder. If I didn’t know them, I’d be scared as well.
+$GEN_054_01x04_01_08
+Did you do anything to stop them from scaring people?
+$GEN_054_01x04_01_09
+Well… my brother once chained them for a day, but they made such a noise…
+$GEN_054_01x04_01_10
+Oh no, them lords in their palace couldn’t stand the barking!
+$GEN_054_03x06_02_QTitle
+Why did you not feed the dogs?
+$GEN_054_03x06_02_00
+Why did you not feed the dogs?
+$GEN_054_03x06_02_01
+With what, monsieur le juge? I’m not earning a fortune, and more often than not I don’t even have enough for myself.
+$GEN_054_03x06_02_02
+What have they been eating since your brother’s disappearance?
+$GEN_054_03x06_02_03
+As if I know. They used to disappear for the whole day and come back when I was going to work, probably stuffed with something they found.
+$GEN_054_03x06_02_04
+And you never wondered if they hurt anyone?
+$GEN_054_03x06_02_05
+They aren’t mine.
+$GEN_054_03x06_02_06
+But you knew that they were wandering around hunting for food. You could have reported them.
+$GEN_054_03x06_02_07
+What if they’d attacked a child?
+$GEN_054_03x06_02_08
+I wasn’t the only one to see them. Why don’t you invite all the other people here who saw them and didn’t report it?
+$GEN_054_05x01_03_QTitle
+Where are your mongrels now?
+$GEN_054_05x01_03_00
+Where are your mongrels now?
+$GEN_054_05x01_03_01
+They’re not mine, and I don’t know where they are. When the soldiers started shooting, which they shouldn’t do in the city, the dogs scarpered.
+$GEN_054_05x01_03_02
+Then what?
+$GEN_054_05x01_03_03
+They brought me here in chains.
+$GEN_054_05x01_03_04
+While they’re having this idle conversation, those beasts are still running around Paris.
+$GEN_054_05x01_03_05
+Do you think they could find your brother?
+$GEN_054_05x01_03_06
+I think he was killed and robbed. Do you even know what’s going on in this city?
+$GEN_054_05x01_03_07
+You must have some idea where they were going. Show us some willingness to cooperate, it is for your own good.
+$GEN_054_05x01_03_08
+They liked to show up at the market and go to the fields on the outskirts of Paris. From time to time they walk around Les Halles.
+$GEN_054_KEY_01
+Two hungry dogs
+$GEN_054_KEY_02
+Stick
+$GEN_054_KEY_03
+Leftover goods
+$GEN_054_KEY_04
+Old house
+$GEN_054_KEY_05
+Shots
+$GEN_054_KEY_06
+Bites on hands and face
+$GEN_054_LastDialog_00
+What’s going on? Is this justice? Punishing someone because of another person’s dogs?
+$GEN_054_UNIQUE_QUESTION_00
+How did the defendant come into possession of such a large house?
+$GEN_054_UNIQUE_ANSWER_CORRECT_00_00
+He inherited it from his father.
+$GEN_054_UNIQUE_ANSWER_NOT_CORRECT_00_00
+He won it in a game of cards.
+$GEN_054_UNIQUE_ANSWER_NOT_CORRECT_00_01
+He bought it in more fortunate times.
+$GEN_054_UNIQUE_QUESTION_01
+According to the testimony, what do the dogs do during the day?
+$GEN_054_UNIQUE_ANSWER_CORRECT_01_00
+Stroll around Paris.
+$GEN_054_UNIQUE_ANSWER_NOT_CORRECT_01_00
+They were on a chain.
+$GEN_054_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Beg for scraps around the neighbourhood.

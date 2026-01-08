@@ -1,0 +1,78 @@
+$G_SP_TOPIC_01
+Crime
+$G_SP_TOPIC_02
+Accusé(e)
+$G_SP_TOPIC_03
+Révolution
+$G_SP_01_AGGR_01
+Les troubles seront étouffés par la force brutale de la vérité. Il n'y a pas de retour possible, maintenant !
+$G_SP_01_AGGR_02
+La guillotine serait une punition trop douce. Un acte aussi infâme mérite la torture ! Et si on le torturait ?
+$G_SP_01_AGGR_03
+Aucun crime ne doit rester impuni ! Nous allons administrer la punition, oh oui ! Même ses ancêtres sentiront la froide lame de la guillotine leur trancher la colonne vertébrale !
+$G_SP_01_MANI_01
+Les générations futures se souviendront que nous n'étions pas des lâches ! Elles se souviendront que nous infligions une juste punition pour des crimes si honteux !
+$G_SP_01_MANI_02
+Quiconque enfreindra la loi de la Révolution ne pourra s'en prendre qu'à sa propre personne en recevant sa punition ! Et personne d'autre !
+$G_SP_01_MANI_03
+Il n'y a pas de nuances de gris lorsque l'on parle de crime, seulement l'innocence ou la culpabilité.
+$G_SP_01_JOKE_01
+Dépêchons ! La Faucheuse souhaiterait s'entretenir avec le condamné à propos de cet horrible crime.
+$G_SP_01_JOKE_02
+Pour ce condamné, tuer a été un jeu d'enfant. Il en sera de même pour nous avec la guillotine !
+$G_SP_01_JOKE_03
+Le condamné a souhaité connaître le goût du crime, nous allons maintenant lui offrir un dessert !
+$G_SP_01_HUMI_01
+Thémis a parlé par nos bouches. Elle demande justice ! Nous allons répondre à son appel !
+$G_SP_01_HUMI_02
+En tant que juge, je ne fais qu'exécuter la volonté de la République.
+$G_SP_01_HUMI_03
+Nous sommes peut-être une nation miséricordieuse, mais n'oublions pas qu'un terrible crime a été commis.
+$G_SP_02_AGGR_01
+Il faut éliminer les meurtriers, les traîtres, les escrocs… ou des vies innocentes seront perdues !
+$G_SP_02_AGGR_02
+Aujourd'hui, nous allons décapiter un monstre de plus qui se nourrissait de l'injustice !
+$G_SP_02_AGGR_03
+Cet individu a craché au visage de la Justice et du peuple. Thémis n'acceptera pas un tel affront !
+$G_SP_02_MANI_01
+Ces criminels veulent le retour de l'ordre ancien ! Ils le défendent !
+$G_SP_02_MANI_02
+Allez-vous rester là et permettre à des criminels de vous dicter votre conduite ?
+$G_SP_02_MANI_03
+Ne les écoutez pas quand ils disent que vous ne savez pas lire. Vous les écouterez plutôt demander pitié au pied de la guillotine !
+$G_SP_02_JOKE_01
+Allons, laissons l'accusé se rendre à son rendez-vous avec la guillotine !
+$G_SP_02_JOKE_02
+Aujourd'hui, notre condamné est innocent… Comme toujours.
+$G_SP_02_JOKE_03
+Applaudissons tous la pièce <i>J'ai tué pour rien</i> !
+$G_SP_02_HUMI_02
+Aujourd'hui, nous ne pleurons pas uniquement pour les âmes des victimes, mais aussi pour celle du condamné. Cependant, ne confondons pas compassion et faiblesse.
+$G_SP_02_HUMI_03
+Les criminels n'ont qu'une place : la fosse commune ! Ce n'est qu'ensuite que nous pourrons construire un avenir meilleur !
+$G_SP_02_HUMI_04
+En prononçant cette sentence, nous rendons nos rues plus sûres. Je ne pleure pas celui qui est guillotiné, mais ses victimes !
+$G_SP_03_AGGR_01
+Vous avez pris le contrôle de la France. Vous verserez le sang de ceux qui menacent la République !
+$G_SP_03_AGGR_02
+Ces criminels croient que notre tolérance est synonyme de faiblesse ! C'en est assez !
+$G_SP_03_AGGR_03
+La mort est la seule chose qui attend les ennemis de la France !
+$G_SP_03_MANI_01
+Nous ne méritons pas notre liberté si nous laissons l'ancien système et sa moralité dévoyée empoisonner notre pays !
+$G_SP_03_MANI_02
+Le règne des anciens dirigeants, dont l'objectif était de maintenir l'injustice, prend fin avec leur mort rapide.
+$G_SP_03_MANI_04
+Les générations futures se souviendront que nous n'étions pas des lâches ! Cela doit être fait !
+$G_SP_03_JOKE_01
+Quelqu'un a vu le bourreau ? Trouvez-moi cet ivrogne, ou je devrai embaucher quelqu'un d'autre !
+$G_SP_03_JOKE_02
+Allez, on se dépêche ! Il n'y a pas de temps à perdre !
+$G_SP_03_JOKE_03
+Tuons ce misérable rat, et allons casser la croûte !
+$G_SP_03_HUMI_01
+C'est le Peuple qui décide ici.
+$G_SP_03_HUMI_02
+Citoyens, nous devons nous remettre rapidement au travail afin de construire notre nouvelle France ! Allons !
+$G_SP_03_HUMI_04
+L'ancien système doit tomber. Il n'y a pas d'autre moyen. Maintenant, vous êtes les rois !

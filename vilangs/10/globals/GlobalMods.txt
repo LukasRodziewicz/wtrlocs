@@ -1,0 +1,204 @@
+$GM_001_TITLE
+Tedarik Akışı
+$GM_001_MAIN
+Şehre yiyecek tedariki iyileştirildi. İnsanlar daha nazik ve dostça davranıyor.
+$GM_002_TITLE
+Devrim Yürüyüşüne Devam Ediyor
+$GM_002_MAIN
+Devrimci Mahkeme, genel olarak Devrim’in müttefiki olarak görülüyor.
+$GM_003_TITLE
+Güzel Söz
+$GM_003_MAIN
+Birileri arada sırada sizin için güzel şeyler söylüyor. Hem de tamamen karşılıksız, içtenlikle.
+$GM_004_TITLE
+Sıçan Vebası
+$GM_004_MAIN
+Paris, nahoş bir cilt hastalığı yayan farelerle dolup taştı. Halk öfkeli, verimlilikleri ise ciddi şekilde düştü.
+$GM_005_TITLE
+Söylentiler
+$GM_005_MAIN
+Hakkınızda sarhoş ve kumarbaz olduğunuz dedikoduları dolaşıyor – bu yeni bir şey değil. Yine de, insanlar size artık daha az değer veriyor.
+$GM_006_TITLE
+Dost
+$GM_006_MAIN
+Birisi perde arkasında itibarınızı koruyor. Kim bu gizemli hayranınız olabilir?
+$GM_007_TITLE
+Lütuf
+$GM_007_MAIN
+Bazen en küçük, karşılıksız bir iyilik birinin dünyasını değiştirebilir. Kanat çırpışınız, birine doğru bir dizi olumlu değişim başlattı.
+$GM_008_TITLE
+İnanç
+$GM_008_MAIN
+Bazıları, savaşan fraksiyonlar arasında dengeyi sağlayacak anahtarın siz olacağını düşünüyor.
+$GM_009_TITLE
+Halkın Adamı
+$GM_009_MAIN
+Sıradan insanlar sizi kendilerinden biri olarak görüyor. Sanki aynı mahallede büyümüşsünüz gibi.
+$GM_011_TITLE
+Karşı-Devrimci Söylentiler
+$GM_011_MAIN
+“Tribünal devrimin düşmanıdır!” diye bağırdı bir balıkçı kadın. Paris yurttaşlarını hiçbir şey bir sembolü yerle bir etmek kadar rahatlatmaz. Bu kez öfkelerini adalet sarayına, yani sizin çalışma yerinize yönelttiler. Neyse ki Muhafızlar araya girdi; yoksa binayı yerle bir edip yeni bir devrimin fitilini ateşleyebilirlerdi.
+$GM_012_TITLE
+Beyaz Yalanlar
+$GM_012_MAIN
+Babanız, Café Procope’daki bir tartışmada Mahkeme’nin onurunu savundu, erdemlerini ve başarılarını övdü. İnsanlar ona gerçekten inandı.
+$GM_013_TITLE
+Yetimlere Bağış
+$GM_013_MAIN
+Eşiniz, yerel yetimhanenin genç sakinlerine merhamet gösterdi. Yaptığı bağış, onlara daha iyi bir yarın için umut verecek. Ne kadar asilce!
+$GM_014_TITLE
+Küskünlük
+$GM_014_MAIN
+Karınızın pazarda o kel satıcıyla pazarlık ettiği zamanı hatırlıyor musunuz? Adam, dinleyen herkese sizin cimri ve kaba biri olduğunuzu anlatmaya başladı. Sizi, karınızı değil. Evliliğin o meşhur sevinçleri işte.
+$GM_015_TITLE
+Gizli Düşman
+$GM_015_MAIN
+Büyük bir şehirde tüm düşmanlarını tanımak imkânsızdır. Onlardan biri, kimliğini gizleme konusunda özellikle ustadır.
+$GM_016_TITLE
+Saint-Just Yalan Söylüyor
+$GM_016_MAIN
+Café Procope’daki olağan tartışmalardan birinde, küstah Saint-Just demagojik bir şekilde tüm yargıçların Eski Rejim’in yozlaşmış kalıntıları olduğunu öne sürdü. Ne yazık ki, yine sizi örnek olarak gösterdi.
+$GM_017_TITLE
+Yağmacılar
+$GM_017_MAIN
+Şehirde bir grup haydut gece vakti sokaklarda dolaşıp evlere giriyor. Halk paralarını saklamak için akla hayale gelmedik yollar buluyor. Korku içindeler, Muhafızlar ve Mahkeme ise hiçbir şey yapmıyor.
+$GM_020_TITLE
+Aile Dostu
+$GM_020_MAIN
+Konvansiyon’daki bir toplantıda Devrimci Mahkeme’nin yararlılığı tartışıldı. Dostunuz Jacques-Louis David, makamınızın Devrim’in hedefleri için vazgeçilmezliğine dair bir konuşma yaptı.
+$GM_022_TITLE
+Bastille Gazetesi
+$GM_022_MAIN
+Bastille’den serbest bırakılan ve üçüncü gününde içkiyi su gibi tüketen bir adam, hapishanenin kurtarılması sırasında sizi gördüğünü iddia ediyor. Kalabalığın en önünde yürüdüğünüzden emin. Dinleyenlerin çoğu onu ayyaşlığıyla alaya alırken, inananlar da çıktı.
+$GM_023_TITLE
+Halk Düşmanı
+$GM_023_MAIN
+Aşırı kötü şöhretiniz, sizi Paris’in bir numaralı düşmanı haline getirdi. Sizi gören sokak köpekleri bile yolunu değiştiriyor.
+$GM_025_TITLE
+İhbar
+$GM_025_MAIN
+Birisi Devrimci Devriye’ye Avusturya casusu olabileceğinizi söylemiş. Şimdi sizi gözetliyorlar. Aptallar.
+$GM_032_TITLE
+Kötü Yargıç!
+$GM_032_MAIN
+Halkın sabrının da bir sınırı var. Duruşma fazla uzadı ve izleyiciler son derece huzursuzlandı.
+$GM_033_TITLE
+Sarhoşluk
+$GM_033_MAIN
+Ara sıra kendinizi bir iki kadehle şımartıyorsunuz. Ya da altı. Kimse sizi yargılamıyor, elbette. Hariç tutarsak…
+$GM_034_TITLE
+Sarhoşluk
+$GM_034_MAIN
+Her gün içki içen bir yargıç, pazar dedikodularının vazgeçilmez konusu olur.
+$GM_035_TITLE
+Bağımlılık
+$GM_035_MAIN
+İçki sorunlarınız artık dedikodu olarak görülmüyor. İnsanlar, ciddi bir probleminiz olduğunu ve kendinize bakamadığınızı düşünüyor.
+$GM_051_TITLE
+Jüri Desteği
+$GM_051_MAIN
+Jüri, doğru kararlar verdiğinizi ve adaleti savunduğunuzu fark etti. Sizin hakkınızda olumlu konuşuyorlar.
+$GM_052_TITLE
+Adliye’de Düşman
+$GM_052_MAIN
+Jüri, yanlış kararlar verdiğinizi ve adaletten saptığınızı fark etti. Söylentiler hızla yayılıyor.
+$GM_053_TITLE
+Sorumluluk sahibi olmayan memur!
+$GM_053_MAIN
+Görevlerinize karşı umursamaz tavrınızla ilgili söylentiler yayılıyor. İşinizi korumak istiyorsanız kendinize çeki düzen verin.
+$GM_054_TITLE
+Devrimcilerin Desteği
+$GM_054_MAIN
+Devrimcilerle ilişkileriniz çok iyi.
+$GM_055_TITLE
+Devrimcilerin Düşmanlığı
+$GM_055_MAIN
+Devrimcilerle aranız çok kötü.
+$GM_056_TITLE
+Halkın Desteği
+$GM_056_MAIN
+Halkla ilişkileriniz çok iyi.
+$GM_057_TITLE
+Halkın Hoşnutsuzluğu
+$GM_057_MAIN
+Halkla ilişkileriniz berbat durumda.
+$GM_058_TITLE
+Aristokratların Desteği
+$GM_058_MAIN
+Aristokratlarla ilişkileriniz çok iyi.
+$GM_059_TITLE
+Aristokratların Düşmanlığı
+$GM_059_MAIN
+Aristokratlarla aranızdaki ilişkiler çok kötü.
+$GM_060_TITLE
+Eşle İyi İlişki
+$GM_060_MAIN
+Aranızdaki ilişkiler düzeliyor.
+$GM_061_TITLE
+Eşle Kötü İlişki
+$GM_061_MAIN
+Zaten kötü olan, şimdi daha da kötüleşiyor.
+$GM_062_TITLE
+Küçük Oğulla İyi İlişki
+$GM_062_MAIN
+Küçük oğlunuz size hayran. Tıpkı eskiden, o güzel günlerdeki gibi.
+$GM_063_TITLE
+Büyük Oğulla İyi İlişki
+$GM_063_MAIN
+Kendine bile şaşırarak, büyük oğlunuz size ısınmaya başlıyor.
+$GM_064_TITLE
+Büyük Oğulla Kötü İlişki
+$GM_064_MAIN
+Ergenlik isyanı, giderek yetişkinlere özgü bir kine dönüşüyor.
+$GM_065_TITLE
+Baba ile İyi İlişki
+$GM_065_MAIN
+Onun gururu ve neşesisin. Böyle devam et.
+$GM_066_TITLE
+Baba ile Kötü İlişki
+$GM_066_MAIN
+Bir şeyler ters gitti. Hem de çok ters. Bunu fark etmiş olmalısınız, değil mi?
+$GM_100_TITLE
+Kralın Kaçışı
+$GM_100_MAIN
+Kral ev hapsinden kaçtı. Tüm ülke peşinde, sokaklar öfkeyle kaynıyor.
+$GM_104_TITLE
+Bakan kaçtı
+$GM_104_MAIN
+Jean-Marie Roland, karısının tutuklandığını öğrenince Paris’ten kaçtı. Kaçmadan önce hakkınızda karalayıcı söylentiler yaydığından ise eminiz.
+$GM_105_TITLE
+Bakanın karısı kaçtı
+$GM_105_MAIN
+Jeanne Marie Roland her zaman perde arkasından hükmetmiştir. Kocasını tutukladığınız için sizi asla affetmeyecek, sürgünde olsa bile peşinizi bırakmayacak.
+$GM_110_TITLE
+Hiyerarşideki Konum
+$GM_110_MAIN
+Hiyerarşideki konumunuz, her geçen gün daha yüksek zirvelere ulaştıkça güçleniyor.
+$GM_202_TITLE
+Tedarik sorunları
+$GM_202_MAIN
+Gıda tedarikinde sorunlar yaşanıyor. Sanki biri başkenti açlığa mahkûm etmek istiyor…
+$GM_203_TITLE
+Paris'te Açlık
+$GM_203_MAIN
+Asla aristokrasiyle dalaşma — acı çektirmek için nereye vuracaklarını iyi bilirler.
+$GM_204_TITLE
+Daha az kötülük
+$GM_204_MAIN
+Zar oyununda aristokrasiye karşı galip gelmiş olabilirsiniz, fakat Paris halkına yöneltilen darbeyi sadece hafifletmiş oldunuz.
+$GM_205_TITLE
+Vendée İsyanı
+$GM_205_MAIN
+Vendée'de bir kralcı ayaklanması başladı. Paris kargaşa içinde; herkes iç savaş çıkarmaya çalışmakla suçlanabilir. Dikkatli olun.
+$GM_301_TITLE
+Ölümsüz
+$GM_301_MAIN
+İki suikast girişimine rağmen hâlâ hayattasınız. Yeni, aydınlanmış toplum batıl inançlara inanmadığını söyler, ama sokaklarda sizin öldürülemez olduğunuz fısıldanıyor.
+$GM_400_TITLE
+Tamamlanmamış İnşaat
+$GM_400_MAIN
+İnşaatı zamanında bitiremediniz!
+$GM_401_TITLE
+Anıt İnşası Tamamlandı
+$GM_401_MAIN
+Bir kez daha güvenilir biri olduğunuzu kanıtladınız. Her şeyle ilgilendiniz ve Parisliler bunu asla unutmayacak.

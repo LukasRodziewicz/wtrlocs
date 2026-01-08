@@ -1,0 +1,277 @@
+$GEN_029_DOC_01_HEADER
+Compiled by: Nathan d’Essiraf
+$GEN_029_DOC_01_00
+Edmond Malle, a 44-year-old undertaker working at the Montmartre Cemetery. The Parisian law enforcement authorities know him well, as it’s not the first time that he is sitting in the dock. Previously, this infamous pervert was <a name="2" class="hidden">sentenced for harassing</a> a young aristocrat. We have also learned from our informants that he sells bodies, as they are especially popular among students of medicine. The administration turned a blind eye because Malle worked for a beggarly wage and never asked for a raise.
+$GEN_029_DOC_01_01
+Malle was accused of murdering and desecrating the remains of Laura Dufort, the daughter of Marquis de Civrac, who has been missing for two weeks. The National Guard learned of the case from <a name="4" class="hidden">Jules Marot</a>, a student of medicine who bought a skull from the undertaker. What was supposed to be a study aide turned out to be the skull of Marot’s close friend, the missing Laura Dufort.
+$GEN_029_DOC_01_02
+Shocked by his own discovery, he became personally involved in the investigation. He assisted the police who searched Malle’s house and was actually the one to find the beheaded corpse of the girl <a name="6" class="hidden">hidden in a woodshed</a>.
+$GEN_029_DOC_01_03
+Later, the father of the murdered Laura testified that she <a name="7" class="hidden">often visited the cemetery</a>. She was visiting the tomb of her cousin, a Swiss Guard officer who died during the Siege of the Tuileries in 1792. It turns out that on numerous occasions the girl complained about the local undertakers, claiming that they <a name="8" class="hidden">pestered her in an inappropriate manner</a>. One of them supposedly chased her once, but it was hard to establish and punish the offender.
+$GEN_029_DOC_01_04
+Evidence:
+Laura Dufort’s <a name="9" class="hidden">skull</a>.
+$GEN_029_OnStart_00
+Please introduce yourself.
+$GEN_029_OnStart_01
+They call me… people call me the “Night Hag”.
+$GEN_029_OnStart_02
+I do not ask for your nickname, but your given name and surname.
+$GEN_029_OnStart_03
+Ah… well… my mum baptised me Edmond. Edmond Malle.
+$GEN_029_OnStart_04
+You are accused of murdering Marquis de Civrac Hector Dufort’s daughter, desecrating her remains, and selling her skull. How do you plead to those charges?
+$GEN_029_OnStart_05
+The remains were found at the defendant's place.
+$GEN_029_OnStart_06
+I ain’t seen ’em before.
+$GEN_029_OnStart_07
+Are you implying that you did not hide them there?
+$GEN_029_OnStart_08
+Me? No, I didn’t hurt ’er. Why would I hide ’er body?
+$GEN_029_OnStart_09
+Sure, someone probably dumped that body as a joke, right?
+$GEN_029_OnGuilty_00
+I sentence Citizen Edmond Malle to be guillotined! Lead the condemned out.
+$GEN_029_OnGuilty_01
+Paris will be a safer place.
+$GEN_029_OnGuilty_02
+Wonderful!
+$GEN_029_OnGuilty_03
+That’s only fair!
+$GEN_029_OnGuilty_04
+Sell his skull to students!
+$GEN_029_OnPrison_00
+[To jest mock i należy go zmienić!!!!]
+$GEN_029_OnNotGuilty_00
+The judgement for Edmond Malle is… not guilty! Take the defendant away.
+$GEN_029_OnNotGuilty_01
+If it wasn’t him, who killed her?
+$GEN_029_OnNotGuilty_02
+What a shame. It could have been such a beautiful beheading…
+$GEN_029_09x05_00_QTitle
+Is this the skull that you sold to Jules Marot?
+$GEN_029_09x05_00_00
+Is this the skull that you sold to Jules Marot?
+$GEN_029_09x05_00_01
+It didn’t look like that when ’e took it.
+$GEN_029_09x05_00_02
+What do you mean?
+$GEN_029_09x05_00_03
+Well, it’s bleached as white as alabaster, and I don’t have time for crap like that. You gotta boil it, let it dry in the sun, boil it again, let it dry… and they don’t pay much less for the dirty ones.
+$GEN_029_09x05_00_04
+Then who cleaned this skull?
+$GEN_029_09x05_00_05
+Ask ’e who bought it. The student, I mean.
+$GEN_029_09x05_00_06
+You seem perfectly able to clean bones, given your knowledge of the subject.
+$GEN_029_09x05_00_07
+I used to do it in the past, but like I said, it’s not worth it.
+$GEN_029_09x05_00_08
+Where do these freaks come from?
+$GEN_029_01x08_01_QTitle
+Did the defendant try to persuade Laura Dufort to commit adultery?
+$GEN_029_01x08_01_00
+Did the defendant try to persuade Laura Dufort to commit adultery?
+$GEN_029_01x08_01_01
+Oh, ya know what they say in the village, if you don’t at least whistle at a girlie, she’ll be mad at ya. But I didn’t do nothin’ more.
+$GEN_029_01x08_01_02
+Speak precisely. Did you call out to her or not?
+$GEN_029_01x08_01_03
+I called somethin’… you know, like, “Let’s go upstairs, sweetheart.” But it was just talkin’!
+$GEN_029_01x08_01_04
+How did the victim react to that… talking?
+$GEN_029_01x08_01_05
+One time, she cursed me all unladylike, threw stones at me, and ran through the gate. Made me a bit angry, true.
+$GEN_029_01x08_01_06
+There’s your motive! That flesh-eating savage wanted revenge!
+$GEN_029_01x08_01_07
+Is that why you killed her?
+$GEN_029_01x08_01_08
+No! I might be a skirt-chaser, but I'm no killer!
+$GEN_029_02x03_02_QTitle
+What do you think about the aristocracy?
+$GEN_029_02x03_02_00
+What do you think about the aristocracy?
+$GEN_029_02x03_02_01
+The pus-filled parasites should be beheaded. That’s in fashion now, right?
+$GEN_029_02x03_02_02
+Calling the Revolution fashion is an insult to this noble movement of the oppressed who–
+$GEN_029_02x03_02_03
+Enough! We all know the nature of the Revolution. So, the accused would like to kill every member of the aristocracy?
+$GEN_029_02x03_02_04
+Yup.
+$GEN_029_02x03_02_05
+This is a clear motive and conclusive evidence.
+$GEN_029_02x03_02_06
+Female aristocrats included?
+$GEN_029_02x03_02_07
+Oh no, no, ha ha! Them ladies are all right, monsieur le juge, we can make use of ’em. And noble ladies are, you know, less shabby.
+$GEN_029_04x05_03_QTitle
+Summon the witness.
+$GEN_029_04x05_03_00
+Summon the witness.
+$GEN_029_04x05_03_02
+Please introduce yourself.
+$GEN_029_04x05_03_03
+Jules Marot, monsieur le juge.
+$GEN_029_06x03_04_QTitle
+How did the remains of Laura Dufort come to be inside the defendant’s woodshed?
+$GEN_029_06x03_04_00
+How did the remains of Laura Dufort come to be inside the defendant’s woodshed?
+$GEN_029_06x03_04_01
+How should I know?!
+$GEN_029_06x03_04_02
+Confess already and be done with it!
+$GEN_029_06x03_04_03
+It is hard to ignore obvious conclusions when one finds a decapitated body in a construction used by the defendant.
+$GEN_029_06x03_04_04
+Come on, sir! If I… ya know… did this ’n’ that, I’d bury ’er, instead of keeping ’er in a shed! I got keys to the cemetery, I could dump ’er in a crypt and they’d never have found ’er.
+$GEN_029_06x03_04_05
+Do not listen to his excuses. If he took her to his place to rape and murder her, then he would hide the body in his shed because it was nearby.
+$GEN_029_06x03_04_06
+How do you respond to that?
+$GEN_029_06x03_04_07
+I didn’t kill nobody! Only an ’asp secures the shed. Anyone can enter it and drop a deader! That she was lying at my place don’t mean I killed ’er!
+$GEN_029_06x03_04_08
+If the accused did not kill her, then who did?
+$GEN_029_06x03_04_09
+I don’t know, maybe that student?
+$GEN_029_06x03_04_10
+Shameless rapist!
+$GEN_029_09x04_05_QTitle
+Do you admit to removing the skull of the victim…?
+$GEN_029_09x04_05_00
+Do you admit to removing the skull of the victim and selling it to Citizen Marot?
+$GEN_029_09x04_05_01
+I didn’t remove nothin’, and the skull I sold weren’t this lady’s.
+$GEN_029_09x04_05_02
+So you admit to having desecrated corpses?
+$GEN_029_09x04_05_03
+Yes. I ’ave to or I couldn’t afford neither bread nor water. But it weren’t ’er skull.
+$GEN_029_09x04_05_04
+Whose skull was it?
+$GEN_029_09x04_05_05
+No idea. I take them from random graves of the poorest fellas, only checkin’ if they ain’t damaged.
+$GEN_029_09x04_05_06
+Disgusting!
+$GEN_029_09x04_05_07
+Who allows that?!
+$GEN_029_09x07_06_QTitle
+Did the accused know Laura Dufort?
+$GEN_029_09x07_06_00
+Did the accused know Laura Dufort?
+$GEN_029_09x07_06_01
+Sure did. She was visitin’ this Guard’s tomb, always leavin’ a flower, always sayin’ the Lord’s Prayer. Such a good young lady…
+$GEN_029_09x07_06_02
+Could you say that you two were close?
+$GEN_029_09x07_06_03
+No. I always greeted ’er politely, tried talkin’ to ’er, and she just hissed at me like a kitten. And I weren’t the only one.
+$GEN_029_09x07_06_04
+Were you aggressive towards her?
+$GEN_029_09x07_06_05
+Not at all, only banterin’ a bit.
+$GEN_029_09x07_06_06
+What a shameless pest…
+$GEN_029_09x07_06_07
+Was there anyone else who would harass her on the grounds of the cemetery?
+$GEN_029_09x07_06_08
+Sure thing! There were drunkards of course, and also the lad who bought the skull from me who’s now callin’ me a murderer.
+$GEN_029_09x07_06_09
+You knew him prior to selling him the skull?
+$GEN_029_09x07_06_10
+Only by sight. I didn’t even know ’e’s studyin’ to be a doctor.
+$GEN_029_WIT_00_A_QTitle
+What was your relationship with the murdered Laura Dufort?
+$GEN_029_WIT_00_A_00
+What was your relationship with the murdered Laura Dufort?
+$GEN_029_WIT_00_A_01
+She was the closest person in the world to me. I have known her my entire life, and this disgusting vagrant… Monsieur le juge, I loved her.
+$GEN_029_WIT_00_A_02
+Did she love you back?
+$GEN_029_WIT_00_A_03
+Unfortunately she did not, but I am certain she would sooner or later have developed feelings for me!
+$GEN_029_WIT_01_A_QTitle
+Are you sure that the skull purchased from the accused…?
+$GEN_029_WIT_01_A_00
+Are you sure that the skull purchased from the accused belongs to the victim?
+$GEN_029_WIT_01_A_01
+Absolutely.
+$GEN_029_WIT_01_A_02
+What gives you such confidence in this conviction? Can you prove it?
+$GEN_029_WIT_01_A_03
+Laura lost her right upper incisor as a child… unfortunately, it was my fault. That was how I knew it belonged to her. Good Lord…
+$GEN_029_WIT_01_A_04
+It could be mere coincidence.
+$GEN_029_WIT_01_A_05
+Monsieur le juge, I know what I am talking about. Everything looks as it should: the jawline, the distance between the eyes… That scoundrel probably raped Laura, killed her, and then took off her head!
+$GEN_029_WIT_01_A_06
+Did Malle tell you where he found the skull?
+$GEN_029_WIT_01_A_07
+Yes, but he lied. He supposedly dug it up from the old part of the cemetery.
+$GEN_029_WIT_01_A_08
+When did you notice whose skull was in your possession?
+$GEN_029_WIT_01_A_09
+Well… Only when I started sketching it did the resemblance strike me.
+$GEN_029_WIT_01_B_QTitle
+How would you describe the relationship between the accused and the victim?
+$GEN_029_WIT_01_B_00
+How would you describe the relationship between the accused and the victim?
+$GEN_029_WIT_01_B_01
+That wretch kept harassing her whenever she came to the cemetery!
+$GEN_029_WIT_01_B_02
+Did you see it with your own eyes?
+$GEN_029_WIT_01_B_03
+No, but… Laura told me, and that’s enough to prove his motive. He deserves the guillotine!
+$GEN_029_WIT_01_B_04
+What exactly did she tell you?
+$GEN_029_WIT_01_B_05
+That he was yelling at her, making disgusting gestures, and constantly barring her way, forcing her to weave between the tombs to avoid him.
+$GEN_029_WIT_01_B_06
+So you did not always accompany her to the cemetery?
+$GEN_029_WIT_01_B_07
+I came with her on only one occasion, as she preferred to go alone.
+$GEN_029_KEY_01
+Infamous pervert
+$GEN_029_KEY_02
+Sentenced for sexual harassment
+$GEN_029_KEY_03
+Missing girl
+$GEN_029_KEY_04
+Jules Marot
+$GEN_029_KEY_05
+Acquaintance with the student
+$GEN_029_KEY_06
+Body in a woodshed
+$GEN_029_KEY_07
+Frequent guest at the cemetery
+$GEN_029_KEY_08
+Pestering the victim
+$GEN_029_KEY_09
+Laura’s skull
+$GEN_029_LastDialog_00
+I wonder if someone will buy my head…
+$GEN_029_UNIQUE_QUESTION_00
+Where was the corpse discovered?
+$GEN_029_UNIQUE_ANSWER_CORRECT_00_00
+In a woodshed.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_00_00
+In a basement.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_00_01
+In a furnace.
+$GEN_029_UNIQUE_QUESTION_01
+How did the student recognise Laura Dufort’s skull?
+$GEN_029_UNIQUE_ANSWER_CORRECT_01_00
+She had a chipped tooth.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_01_00
+By the size of the skull.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_01_01
+By the shape of the skull.
+$GEN_029_UNIQUE_QUESTION_02
+How did the defendant explain the fact that he was desecrating corpses?
+$GEN_029_UNIQUE_ANSWER_CORRECT_02_00
+His salary was low.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_02_00
+He was doing it for science.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_02_01
+He felt an unhealthy desire.

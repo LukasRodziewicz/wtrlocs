@@ -1,0 +1,40 @@
+$INTRIGUE_MINIGAMEBUTTON_ACTIVE
+Wykonaj akcję
+$INTRIGUE_MINIGAMEBUTTON_INACTIVE
+Akcja wykonana
+$INTRIGUE_SELECTAGENTPATH_NONE
+Wybierz sposób rozwiązania
+$INTRIGUE_SELECTAGENTPATH_DIPLOMAT
+Rozwiązanie dyplomatyczne
+$INTRIGUE_SELECTAGENTPATH_SPY
+Rozwiązanie szpiegowskie
+$INTRIGUE_SELECTAGENTPATH_GUARD
+Rozwiązanie siłowe
+$INTRIGUE_WINCHANCE_HEADER
+Szansa na powodzenie akcji
+$INTRIGUE_CANCLOSESTATE
+Oczekiwanie na rozwój wydarzeń
+$INTRIGUE_PENDINGACTIONSSTATE
+Oczekiwanie na decyzje gracza
+$INTRIGUE_SELECT_BLOCK
+Wybierz akcję
+$PERSUASION_BRIBEBUTTONTEXT
+Wyślij Dyplomatę
+$PERSUASION_PERSUASIONBUTTONTEXT
+Przekonaj
+$PERSUASION_HEADER_COUNTER
+Zdobyci sojusznicy:
+$INTRIGUE_PERFECT_WIN
+Perfekcyjna Intryga
+$INTRIGUE_WIN
+Wygrana Intryga
+$INTRIGUE_DEFEAT
+Przegrana Intryga
+$INTR_WIN_COUNTER
+Udane akcje 
+do wygranej
+$INT_WIN_BONUS_COUNTER
+Udane akcje 
+do bonusu
+$INTRIGUE_DIPLOMAT_SUCCESS_RATE
+Szansa: {0}%

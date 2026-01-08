@@ -1,0 +1,26 @@
+$DIAL_H_03_01_01_001_JUDGE
+How are you feeling today, Bernard?
+$DIAL_H_03_01_01_002_BERNARD
+What do you see?
+$DIAL_H_03_01_01_003_JUDGE
+Pardon?
+$DIAL_H_03_01_01_004_BERNARD
+I asked you what you see.
+$DIAL_H_03_01_01_005_JUDGE
+You, my son.
+$DIAL_H_03_01_01_006_BERNARD
+No. You can see a monster. Mutilated, humiliated, and stripped of his dreams.
+$DIAL_H_03_01_01_007_JUDGE
+That is not true. There is much that still awaits you…
+$DIAL_H_03_01_01_008_BERNARD
+What is it that awaits me?! A career? Look at me! I’ll never be able to play again! You wanted that, didn’t you? Say it!
+$DIAL_H_03_01_01_009_JUDGE
+Never.
+$DIAL_H_03_01_01_010_BERNARD
+I don’t believe you! And I never will again. You used to say that you would take care of us, but nobody can stop this madness, this terrible Revolution. Or this damned family, with its corpses rising from their graves to harass the living.
+$DIAL_H_03_01_01_011_BERNARD
+Or maybe it is a sign of the times? What about the people who were decapitated because of you? Will they also return to kill us? Maybe the King himself will open his tomb to pull off my legs since I still have them!
+$DIAL_H_03_01_01_012_JUDGE
+I am sorry, son. I truly am.
+$DIAL_H_03_01_01_013_BERNARD
+I’m sorry, too. Now excuse me, I need to think of ways to waste the rest of this life of mine which you have spared with your cruel mercy.

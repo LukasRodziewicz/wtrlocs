@@ -1,0 +1,32 @@
+$DIAL_H_02_03_20_V1_001_JUDGE
+Endlich bist du gekommen.
+$DIAL_H_02_03_20_V1_002_DAVID
+Alexis… Dein Bruder hat mich aufgesucht – der, von dem es hieß, er sei tot.
+$DIAL_H_02_03_20_V1_003_JUDGE
+Jacques, ich weiß nicht, was er dir…
+$DIAL_H_02_03_20_V1_004_DAVID
+Lass mich ausreden. Ich habe dein wahres Wesen immer erkannt. Ich habe gesehen, wie du nach mehr Macht gestrebt und immer höhere Ziele erreicht hast, aber erst jetzt begreife ich, zu wem du wirklich geworden bist. Jetzt, da ich ihm begegnet bin.
+$DIAL_H_02_03_20_V1_005_JUDGE
+Er ist ein Monster!
+$DIAL_H_02_03_20_V1_006_DAVID
+Ihr seid beide Ungeheuer. Leider scheint er nach allem, was ich gehört habe, das geringere Übel zu sein.
+$DIAL_H_02_03_20_V1_007_JUDGE
+Wie kannst du das sagen? Wir sind doch Freunde. Er… er will doch nur das alte System zurück!
+$DIAL_H_02_03_20_V1_008_DAVID
+Nein, Alexis. Er strebt nach wahrer Gleichheit und Brüderlichkeit. Er will, dass die von der Revolution Ausgestoßenen in ihre Häuser zurückkehren können.
+$DIAL_H_02_03_20_V1_009_JUDGE
+Glaubst du das wirklich? Sieh dir an, was er uns angetan hat!
+$DIAL_H_02_03_20_V1_010_DAVID
+Es ist nicht schlimmer als das, was du mit denen getan hast, die dir im Weg standen. Es tut mir leid, mein Freund, aber unsere Freundschaft muss hier enden. Wo ziehst du die Grenze? Robespierre zu beseitigen war ein Schritt zu weit. Wir haben zu viel Blut vergossen, Alexis, und ich habe nun die Möglichkeit, wenigstens einen Teil meiner Schuld zu sühnen.
+$DIAL_H_02_03_20_V1_011_JUDGE
+Was hast du vor?
+$DIAL_H_02_03_20_V1_012_DAVID
+Ich werde mich deinem Bruder anschließen – das muss ein Ende haben. Ich werde seine Armee anführen und dafür sorgen, dass es danach kein weiteres Blutvergießen in unserem Land gibt!
+$DIAL_H_02_03_20_V1_013_JUDGE
+Willst du dich mir und Ramel entgegenstellen?
+$DIAL_H_02_03_20_V1_014_DAVID
+Du stehst ganz allein da. Deinen Gerichtsdiener habe ich bereits auf unsere Seite gezogen, und Ramel begleitete deinen Bruder, als er mich aufsuchte. Offenbar war er immer gegen dich.
+$DIAL_H_02_03_20_V1_015_JUDGE
+Er führte mich zum Schlachthaus. Seinen Freund.
+$DIAL_H_02_03_20_V1_016_DAVID
+Leb wohl, Alexis. Ich hoffe nur, dass ich dich beim nächsten Mal nicht töten muss. Frankreich hat schon genug seiner Kinder zu Grabe getragen.

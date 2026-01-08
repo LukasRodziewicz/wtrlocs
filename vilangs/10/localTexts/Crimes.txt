@@ -1,0 +1,58 @@
+#CRIME_001_NAME
+Çeteyi Kışkırtmak
+#CRIME_002_NAME
+Karşı-Devrim
+#CRIME_003_NAME
+Monarşiyi Savunmak
+#CRIME_004_NAME
+İhanet
+#CRIME_005_NAME
+Görevi İhmal
+#CRIME_006_NAME
+Nepotizm
+#CRIME_007_NAME
+Yolsuzluk
+#CRIME_008_NAME
+Hırsızlık
+#CRIME_009_NAME
+Hırsızlık
+#CRIME_010_NAME
+Mülke Zarar Verme
+#CRIME_011_NAME
+Fuhuşa aracılık
+#CRIME_012_NAME
+Saldırı
+#CRIME_013_NAME
+Sakatlama
+#CRIME_014_NAME
+Adam öldürmeye teşebbüs
+#CRIME_015_NAME
+Cinayet
+#CRIME_016_NAME
+İşkence
+#CRIME_017_NAME
+Bir Cesedin İhanete Uğraması
+#CRIME_018_NAME
+Pedofili
+#CRIME_019_NAME
+Tecavüz
+#CRIME_020_NAME
+İftira
+#CRIME_021_NAME
+Dolandırıcılık
+#CRIME_022_NAME
+Fiyat Spekülasyonu
+#CRIME_023_NAME
+Mali Dolandırıcılık
+#CRIME_024_NAME
+Rüşvet
+#CRIME_025_NAME
+Zina
+#CRIME_026_NAME
+Firardan dönme
+#CRIME_027_NAME
+Büyücülük
+#CRIME_028_NAME
+Alkollü Araç Kullanmak
+#CRIME_029_NAME
+Trafik Güvenliğine Tehdit

@@ -1,0 +1,16 @@
+$DIAL_CO_01_03_20_001_MENTOR
+¿Cómo te sientes? Cuando te visité, aún no habías recobrado el sentido.
+$DIAL_CO_01_03_20_002_JUDGE
+Las heridas aún no han sanado del todo, pero pensé que sería bueno presentarme a trabajar de todos modos.
+$DIAL_CO_01_03_20_003_MENTOR
+Sí... Mira, necesito hablar contigo. Creo que debo hacerlo. ¿Alguna vez te ha contado tu padre cómo fue exactamente que tu hermano evitó la horca y terminó en el frente?
+$DIAL_CO_01_03_20_004_JUDGE
+Le pregunté, pero… Lo único que recibí fue silencio.
+$DIAL_CO_01_03_20_005_MENTOR
+Fui yo quien fue asignado a su caso.
+$DIAL_CO_01_03_20_006_MENTOR
+Más tarde supimos que Bruno se alistó y murió en el frente. Lo que intento decir es…
+$DIAL_CO_01_03_20_007_JUDGE
+¿Que qué…?
+$DIAL_CO_01_03_20_008_MENTOR
+Tu hermano murió de todos modos, aunque le mostré misericordia. Pero eso no significa que haya sido en vano. Recuerda esto cuando persigas a tus enemigos.

@@ -1,0 +1,78 @@
+$CUT_21_DISC_TINVILLE_001_JUDGE
+Por favor, disculpe mi pequeño retraso.
+$CUT_21_DISC_TINVILLE_002_TINVILLE
+Solo ha despertado mi curiosidad, monsieur le juge, pues no logro imaginar qué he hecho para merecer esta invitación.
+$CUT_21_DISC_TINVILLE_003_JUDGE
+Seguro que ya ha oído los rumores sobre el arzobispo Gobel…
+$CUT_21_DISC_TINVILLE_004_TINVILLE
+Vamos, Alexis, no subestimes mi inteligencia. Ambos sabemos que tú eres el autor de la denuncia…
+$CUT_21_DISC_TINVILLE_005_JUDGE
+¿Cómo puedes estar tan seguro?
+$CUT_21_DISC_TINVILLE_006_TINVILLE
+No soy ningún tonto. Eliminaste a Roland y a Pache, y ahora vas tras Gobel. Puede que ignore el motivo, pero no me importa…
+$CUT_21_DISC_TINVILLE_007_JUDGE_AGGR
+Mientras sigas obteniendo beneficios. Sin embargo, hay quienes sí se preocupan por la justicia.
+$CUT_21_DISC_TINVILLE_008_JUDGE_MANI
+Sí, lo sé. Usted se asegurará su ganancia pase lo que pase. Créame, los beneficios de este juego pueden superar todo lo que imaginamos.
+$CUT_21_DISC_TINVILLE_009_JUDGE_JOKE
+Sí, sabemos bien qué es lo que más le importa. No lo juzgo; Gobel no es distinto. La cuestión es: ¿quién será el primero en encontrarse con la guillotina por su egoísmo?
+$CUT_21_DISC_TINVILLE_010_JUDGE_HUMI
+Me dirijo a usted con este asunto porque durante los juicios me convenció de su sabiduría. No podemos permitir que Gobel engañe al pueblo francés con relatos de virtud y moderación mientras es culpable de tales fechorías.
+$CUT_21_DISC_TINVILLE_011_TINVILLE_DOUB
+¿Y a mí qué me importa el bastardo de nadie? El país arde por la rebelión en la Vendée, ¿y se supone que debo preocuparme por algo así? Un hijo ilegítimo en París… vaya novedad.
+$CUT_21_DISC_TINVILLE_012_TINVILLE_IRRI
+Si Gobel te ha ofendido, ese es tu asunto. No veo motivo para enemistarme con quizá la figura más influyente de esta ciudad. Justamente por el equilibrio entre ganancias y pérdidas.
+$CUT_21_DISC_TINVILLE_013_JUDGE_AGGR
+Has visto lo que ocurre en las calles. Todo ese odio necesita desahogarse. ¿Y vas a quedarte esperando solo porque no te resulta rentable actuar? Si la turba acaba poniendo tu cabeza en una pica, ¿lo anotarás como ganancia o como pérdida?
+$CUT_21_DISC_TINVILLE_014_JUDGE_MANI
+Gobel no es tonto, sabe leer bien el ánimo de la gente. Sabe que ahora le conviene ponerse del lado de los justos, y para eso tendrá que empujar a alguien al otro bando. ¿Puedes estar seguro de que no te elegirá a ti?
+$CUT_21_DISC_TINVILLE_015_JUDGE_JOKE
+Debes de ser el hombre más duro de París. No te inquieta la turba, que una vez más ha decidido que decapitar a los dignatarios está de moda. Basta con que Gobel grite desde su púlpito que te diviertes en un burdel con dinero público en vez de perseguir a los infractores de la ley, y antes de que te des cuenta, tu cabeza rodará.
+$CUT_21_DISC_TINVILLE_016_JUDGE_HUMI
+Confío en su sensatez. Escuche, Gobel ha tomado el control de las almas de miles de parisinos que buscan a alguien a quien culpar por la rebelión en la Vendée y el sur. Necesitan encontrar un culpable, y estoy seguro de que usted es demasiado razonable como para dejar esa elección al azar.
+$CUT_21_DISC_TINVILLE_017_TINVILLE_SATI
+Sin duda tienes el don de la persuasión. Te escucho.
+$CUT_21_DISC_TINVILLE_018_TINVILLE_INTR
+Tus palabras tienen sentido. Hoy en día, la gente está realmente llena de pensamientos negativos.
+$CUT_21_DISC_TINVILLE_019_TINVILLE_DOUB
+Me conmueve su preocupación por mi vida y mi carrera. Sin embargo, no creo tener motivos para inquietarme por las amenazas que menciona. Sirvo bien a Francia, y Francia lo sabe.
+$CUT_21_DISC_TINVILLE_020_TINVILLE_IRRI
+Si no te conociera, diría que hablas movido por nobles intenciones. Por desgracia, te conozco lo bastante bien como para saber que tras tus palabras se ocultan otros motivos.
+$CUT_21_DISC_TINVILLE_021_JUDGE_AGGR
+No finjas que no te importa tu carrera. Nadie asciende en esta ciudad sin el conocimiento y la aprobación del Arzobispo. ¡Tendrás que besar el anillo de un oportunista aún mayor que tú!
+$CUT_21_DISC_TINVILLE_022_JUDGE_MANI
+Si esperas un ascenso rápido, puedes olvidarlo. Has llegado a un punto en el que tu progreso dependerá de personas como él. Le harás favores, y él te cobrará mucho más caro que yo. Pero también podrías demostrar tu fuerza, dejar claro que eres tú quien forja su propio destino.
+$CUT_21_DISC_TINVILLE_023_JUDGE_JOKE
+Demuestra que has llegado a ser algo más que un simple fiscal. Me da la impresión de que no te importa que este hombre esté a punto de tomar las riendas de tu carrera, y que para la ciudad no eres más que otro abogado, uno entre tantos. Y yo quería darte la oportunidad de convertirte en alguien importante…
+$CUT_21_DISC_TINVILLE_024_JUDGE_HUMI
+Usted merece un cargo mucho más alto que el de fiscal; podría convertirse en un símbolo de la justicia. Pero Gobel no permitirá que ascienda. No le importan sus talentos. Lo único que le interesa es cuán bajo puede inclinarse usted al rendirle pleitesía.
+$CUT_21_DISC_TINVILLE_025_JUDGE_AGGR
+Gobel es un canalla lascivo. Si anunciamos oficialmente la investigación, le daremos la oportunidad de actuar con decencia, y si no lo hace... ¡que le corten la cabeza!
+$CUT_21_DISC_TINVILLE_026_JUDGE_MANI
+Todos merecen una oportunidad para redimirse, especialmente un católico como Gobel. Debemos sacar esto a la luz antes de que alguien más intente usarlo en contra de Francia.
+$CUT_21_DISC_TINVILLE_027_JUDGE_JOKE
+Si Gobel es inocente, la investigación lo demostrará, ¿no es así? Y si no lo es, tendremos la oportunidad de hacer lo correcto y todos saldrán beneficiados.
+$CUT_21_DISC_TINVILLE_028_JUDGE_HUMI
+Todo católico merece la oportunidad de redimirse. Como arzobispo, Gobel debería hacerlo abiertamente para consolar las almas heridas de los parisinos y quizá incluso salvar la vida de muchos inocentes.
+$CUT_21_DISC_TINVILLE_029_TINVILLE_SATI
+Sí, sí, ya estoy convencido. Veré qué se puede hacer.
+$CUT_21_DISC_TINVILLE_030_TINVILLE_INTR
+Debo admitir que sus argumentos son bastante convincentes. Investigaré este asunto.
+$CUT_21_DISC_TINVILLE_031_TINVILLE_DOUB
+Hay algo que no me estás contando, y no investigaré a Gobel si no estoy completamente convencido. Tengo demasiado en juego.
+$CUT_21_DISC_TINVILLE_032_TINVILLE_IRRI
+Hay algo que no me estás contando. ¿Qué hizo para que lo odies tanto? Mejor ahórrame los detalles. En estos tiempos, es preferible no saber.
+$CUT_21_DISC_TINVILLE_033_TINVILLE_DOUB_IRRI
+Debes saber que no has manejado esto de la mejor manera. Sin embargo, no quisiera que pensaras que tengo el corazón de piedra, así que juguemos. Si ganas, iniciaré una investigación oficial contra Gobel. Tal vez hayas perdido el arte de la astucia, pero quizá la suerte aún no te ha abandonado.
+$CUT_21_DISC_TINVILLE_034_TINVILLE_WIN
+Quizá sea bueno que la fortuna esté de tu lado. Al fin y al cabo, quieres enfrentarte a Gobel.
+$CUT_21_DISC_TINVILLE_035_TINVILLE_DEFEAT
+Parece que ni la fortuna está de su lado, pero me tomaré la libertad de ignorar su petición. No habrá investigación oficial.
+$CUT_21_DISC_TINVILLE_TOPIC_001
+Si Gobel tiene un hijo, debemos exponer su hipocresía.
+$CUT_21_DISC_TINVILLE_TOPIC_002
+En tiempos como estos, debemos esforzarnos por mostrar quién es justo y quién no…
+$CUT_21_DISC_TINVILLE_TOPIC_003
+Tiene una gran cantidad de seguidores.
+$CUT_21_DISC_TINVILLE_TOPIC_004
+Gobel merece una oportunidad para hacer lo correcto.

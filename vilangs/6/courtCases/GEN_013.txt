@@ -1,0 +1,244 @@
+$GEN_013_DOC_01_HEADER
+Compilado por: Maurice Gaspar
+$GEN_013_DOC_01_00
+Ha pasado algún tiempo desde la disolución de la odiada <a name="1" class="hidden">Ferme générale</a>. Esta institución pagaba tributos al antiguo rey y luego, a menudo con brutalidad, recaudaba deudas del pueblo, casi siempre con altos intereses. Ahora la Convención Nacional ha tomado la justa decisión de juzgar a todos los antiguos fermier général que cobraron impuestos a los campesinos. Presentaremos las pruebas contra uno de ellos: Antoine Lavoisier.
+$GEN_013_DOC_01_01
+La primera prueba de su culpabilidad es, sencillamente, que obtuvo su cargo gracias al nepotismo. Además de recaudar impuestos a campesinos hambrientos, también participaba en <a name="3" class="hidden">todo tipo de negocios</a>, no siempre honestos. Varios testigos afirman que comerciaba habitualmente con tabaco húmedo, vendido a precios desorbitados. No hemos hallado indicios de esta <a name="4" class="hidden">adulteración</a> en los documentos de Lavoisier, pero es un tema ampliamente comentado en las calles de París.
+$GEN_013_DOC_01_02
+Utilizó el dinero de los impuestos para financiar su laboratorio privado, donde realizó numerosos experimentos químicos. Muchos químicos parisinos consultados durante la investigación calificaron a Lavoisier de <a name="5" class="hidden">brillante científico</a>.
+$GEN_013_DOC_01_03
+Por supuesto, esto por sí solo no constituye traición. Sin embargo, el acusado mantenía correspondencia frecuente con <a name="6" class="hidden">científicos extranjeros</a>. Hemos comprobado que los apoyaba con dinero tomado de los campesinos franceses, y es posible que también compartiera los resultados de sus <a name="7" class="hidden">investigaciones</a>. ¿Por qué no reservarlo todo para el pueblo francés?
+$GEN_013_DOC_02_00
+<a name="8" class="hidden">Informe</a> sobre el tabaco:
+$GEN_013_DOC_02_01
+Le ruego encarecidamente que mantenga el tabaco en un lugar seco. El tabaco húmedo ahuyenta a los clientes, reduce su calidad y baja su precio. Saludos, Antoine Lavoisier
+$GEN_013_OnStart_00
+¡Sí! ¡Castiga a esos parásitos asquerosos!
+$GEN_013_OnStart_01
+A esa gente simplemente hay que decapitarla. Simbolizan todo aquello contra lo que se rebeló el pueblo francés.
+$GEN_013_OnStart_02
+Por favor, preséntese.
+$GEN_013_OnStart_03
+Me llamo Antoine Lavoisier.
+$GEN_013_OnStart_04
+¿Cuál es su ocupación, señor Lavoisier?
+$GEN_013_OnStart_05
+Colaboré en la recaudación de impuestos en la Ferme générale, y además soy científico. Permítame añadir, sin falsa modestia, que he realizado varios descubrimientos de gran importancia.
+$GEN_013_OnStart_06
+No presuma ante el tribunal.
+$GEN_013_OnStart_07
+Claro, cuéntanos cómo te atiborraste de paté comprado con nuestro dinero.
+$GEN_013_OnGuilty_00
+Condeno al ciudadano Antoine Lavoisier a muerte por guillotina. Llévenselo.
+$GEN_013_OnGuilty_01
+Todos los enemigos de Francia compartirán su destino.
+$GEN_013_OnGuilty_02
+¡Hurra!
+$GEN_013_OnGuilty_03
+¡Deshazte de esos parásitos!
+$GEN_013_OnGuilty_04
+¡Curemos Francia!
+$GEN_013_OnPrison_00
+Por sus crímenes, Antoine Lavoisier es condenado a prisión. Llévense al condenado.
+$GEN_013_OnPrison_01
+Ese veredicto es demasiado indulgente para un enemigo tan acérrimo de la República.
+$GEN_013_OnPrison_02
+¿Solo prisión? ¿Para un traidor como él?
+$GEN_013_OnPrison_03
+¡Imposible!
+$GEN_013_OnPrison_04
+¡¿Qué clase de castigo es ese?!
+$GEN_013_OnNotGuilty_00
+Por la presente declaro al acusado inocente. Saquen al señor Lavoisier.
+$GEN_013_OnNotGuilty_01
+¡El juez ha perdido la cabeza!
+$GEN_013_OnNotGuilty_02
+¡La justicia prevalecerá de todos modos!
+$GEN_013_OnNotGuilty_03
+Acabas de escupir en la cara de miles de campesinos.
+$GEN_013_01x03_00_QTitle
+Además de su cargo en la Ferme générale y sus trabajos científicos…
+$GEN_013_01x03_00_00
+Además de su puesto en la Ferme générale y sus trabajos científicos, ¿tiene usted alguna otra ocupación?
+$GEN_013_01x03_00_01
+También formo parte de la Comisión de la Pólvora, y antes del inicio de la Revolución se me encomendó presidir el consejo administrativo de la Caja de Descuento.
+$GEN_013_01x03_00_02
+¿No le parece que eso es demasiado para una sola persona?
+$GEN_013_01x03_00_03
+¡Estafador codicioso!
+$GEN_013_01x03_00_04
+Las personas que me confiaron esos cargos nunca se quejaron de la calidad de mi trabajo.
+$GEN_013_01x03_00_05
+Debe de ser una coincidencia que la mayoría de esas personas ya hayan sido condenadas a prisión o a la guillotina.
+$GEN_013_01x03_00_06
+¡Por fin alguien pone en su sitio a esos ladrones!
+$GEN_013_01x02_01_QTitle
+¿Cómo llegó a ser fermier général? Circulan tantos rumores al respecto...
+$GEN_013_01x02_01_00
+¿Cómo llegó a ser fermier général? Circulan tantos rumores al respecto…
+$GEN_013_01x02_01_01
+Heredé el cargo de mi suegro.
+$GEN_013_01x02_01_02
+¡Nepotista repugnante!
+$GEN_013_01x02_01_03
+¿Por qué aceptó tomarla?
+$GEN_013_01x02_01_04
+Servir al rey de Francia, al propio Estado... Para mí fue un gran honor y, siendo sincero, también un verdadero placer.
+$GEN_013_01x02_01_05
+¡Claro, a quién no le gusta nadar en dinero!
+$GEN_013_01x02_01_06
+Creo que te casaste solo para que tu suegro te diera ese puesto.
+$GEN_013_01x02_01_07
+¡Qué insinuación tan repugnante!
+$GEN_013_01x02_01_08
+La verdad es que, gracias al matrimonio, empezaste a ganar mucho más dinero que una persona promedio.
+$GEN_013_01x02_01_09
+Casarse con una mujer rica no es un delito.
+$GEN_013_01x02_01_10
+¿Cuántos años tenía su esposa cuando se casaron?
+$GEN_013_01x02_01_11
+Trece. No veo en qué afecta la edad de mi esposa a este caso.
+$GEN_013_04x08_02_QTitle
+Se le acusa de numerosos fraudes y engaños, entre ellos la venta de tabaco húmedo.
+$GEN_013_04x08_02_00
+Se le acusa de numerosos fraudes y engaños, entre ellos la venta de tabaco húmedo.
+$GEN_013_04x08_02_01
+¡Absurdo! Yo mismo he advertido a mis proveedores para asegurarme de que el tabaco se mantenga seco. Revise mis documentos, encontrará los informes.
+$GEN_013_04x08_02_02
+Podría haber colocado esos informes entre otros documentos para engañarnos.
+$GEN_013_04x08_02_03
+¡Gente como él miente desde que nace!
+$GEN_013_04x08_02_04
+He llevado una documentación ejemplar y jamás he actuado en contra de mi conciencia.
+$GEN_013_04x08_02_05
+¿La conciencia de un recaudador de impuestos… acaso le impidió quitarle dinero a campesinos hambrientos?
+$GEN_013_04x08_02_06
+Siempre actué conforme a la legislación fiscal francesa.
+$GEN_013_04x08_02_07
+¡Esa ley era terrible!
+$GEN_013_06x04_03_QTitle
+Hablemos del dinero que robó del tesoro estatal.
+$GEN_013_06x04_03_00
+Hablemos del dinero que robó del tesoro estatal.
+$GEN_013_06x04_03_01
+¿Dinero robado? ¿En qué se basa esta acusación?
+$GEN_013_06x04_03_02
+El dinero que robaba usted a Francia se destinaba a apoyar a científicos extranjeros. ¿Por qué? No lo sabemos…
+$GEN_013_06x04_03_03
+Pero sospechamos que tuvo algo que ver con la guerra.
+$GEN_013_06x04_03_04
+Sí, financiaba investigaciones extranjeras, pero con mi propio dinero y no tenían nada que ver con la guerra.
+$GEN_013_06x04_03_05
+Usted actuó en contra de los intereses del Estado. Eso es traición. ¿Sabe lo que hacemos con los traidores?
+$GEN_013_06x04_03_06
+Permítame decirle que bastará un instante para cortar esta cabeza, pero quizá no baste un siglo para que nazca otra igual.
+$GEN_013_06x04_03_07
+¡La República no necesita científicos!
+$GEN_013_05x07_04_QTitle
+¿Mantuvo su laboratorio en funcionamiento utilizando el dinero de los contribuyentes?
+$GEN_013_05x07_04_00
+¿Mantuvo en funcionamiento su laboratorio utilizando el dinero de los contribuyentes?
+$GEN_013_05x07_04_01
+Sí, monsieur le juge.
+$GEN_013_05x07_04_02
+¿Qué fue exactamente lo que descubrió? ¿Algo útil?
+$GEN_013_05x07_04_03
+Expliqué, entre otras cosas, el fenómeno de la combustión, refuté la teoría del flogisto, construí el calorímetro…
+$GEN_013_05x07_04_04
+¿De qué está hablando?
+$GEN_013_05x07_04_05
+¿Esos descubrimientos benefician al ciudadano común?
+$GEN_013_05x07_04_06
+La ciencia no necesariamente ayuda de inmediato a las personas, pero algún día esos descubrimientos…
+$GEN_013_05x07_04_07
+¿Oíste eso? ¡La ciencia no ayuda a la gente!
+$GEN_013_05x07_04_08
+¿Cuánto dinero se gastó en su investigación?
+$GEN_013_05x07_04_09
+Nunca lo he calculado. Llevo años dedicado a mis investigaciones.
+$GEN_013_05x07_04_10
+No lo midió porque nosotros pagábamos.
+$GEN_013_05x03_05_QTitle
+¿Por qué no se dedicó únicamente a la ciencia?
+$GEN_013_05x03_05_00
+¿Por qué no se dedicó únicamente a la ciencia?
+$GEN_013_05x03_05_01
+Tenía tiempo suficiente para ocuparme de otras cosas.
+$GEN_013_05x03_05_02
+Si te concentraras en un solo campo, podrías ser más eficiente, ¿no lo crees?
+$GEN_013_05x03_05_03
+Le agradezco su preocupación, pero mi rutina diaria es asunto mío.
+$GEN_013_05x03_05_04
+No, no es así. Como funcionario público, debe dedicar todo su tiempo y energía a servir al Estado. Pero usted no lo hizo.
+$GEN_013_05x03_05_05
+¿Qué dirá ahora ese parásito?
+$GEN_013_05x03_05_06
+La gente común debe concentrarse en una sola tarea. Para mí, eso no basta. Me moriría de aburrimiento.
+$GEN_013_05x06_06_QTitle
+Cuéntenos más sobre los científicos extranjeros que le solicitaron ayuda y apoyo financiero. ¿Quiénes eran?
+$GEN_013_05x06_06_00
+Cuéntenos más sobre los científicos extranjeros que solicitaron su ayuda y apoyo financiero. ¿Quiénes eran?
+$GEN_013_05x06_06_01
+Algunos de ellos eran químicos italianos, grandes mentes científicas, pero no tan hábiles para conseguir fondos. Bartolomeo Beccaria, Diego Petrarca, Daniele Marconi…
+$GEN_013_05x06_06_02
+¿Apoyó usted a los italianos, aun cuando han estado en guerra con Francia tantas veces?
+$GEN_013_05x06_06_03
+¡Así es!
+$GEN_013_05x06_06_04
+Hemos luchado con todos y cada uno de nuestros vecinos. ¿Qué tiene eso que ver con la ciencia?
+$GEN_013_05x06_06_05
+¿Acaso no fueron científicos como usted quienes crearon las armas de fuego, un objeto que transformó por completo el arte de la guerra?
+$GEN_013_05x06_06_06
+Mi trabajo no tenía relación alguna con armamento.
+$GEN_013_05x06_06_07
+¿Podemos confiar en su palabra?
+$GEN_013_KEY_01
+Ferma General
+$GEN_013_KEY_02
+Obtener el cargo
+$GEN_013_KEY_03
+Diversos negocios
+$GEN_013_KEY_04
+Fraude
+$GEN_013_KEY_05
+Científico eminente
+$GEN_013_KEY_06
+Científicos extranjeros
+$GEN_013_KEY_07
+Investigación científica
+$GEN_013_KEY_08
+Informe
+$GEN_013_LastDialog_00
+Esto no tiene ningún sentido lógico. ¡Si me matan, estarán frenando el progreso científico!
+$GEN_013_UNIQUE_QUESTION_00
+¿Qué tipo de investigaciones realizaba el acusado?
+$GEN_013_UNIQUE_ANSWER_CORRECT_00_00
+Investigó el fenómeno de la combustión.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Trabajó en un arma de fuego avanzada.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Intentó convertir el plomo en oro.
+$GEN_013_UNIQUE_QUESTION_01
+¿Cómo explicó el acusado su labor como recaudador de impuestos?
+$GEN_013_UNIQUE_ANSWER_CORRECT_01_00
+Mencionó la ley francesa.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Citó la Biblia.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Solía hacerlo por su familia.
+$GEN_013_UNIQUE_QUESTION_02
+¿Envió el acusado dinero a científicos extranjeros?
+$GEN_013_UNIQUE_ANSWER_CORRECT_02_00
+Sí, pero era dinero suyo, de su bolsillo.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Envió el dinero de los contribuyentes.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Lavoisier no envió dinero a nadie.
+$GEN_013_UNIQUE_QUESTION_03
+¿Qué vendía el acusado?
+$GEN_013_UNIQUE_ANSWER_CORRECT_03_00
+Tabaco húmedo.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Vino agrio.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Pan mohoso.

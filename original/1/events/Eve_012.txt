@@ -1,0 +1,22 @@
+$EVE_012_TITLE
+Last Resort
+$EVE_012_MAIN_01
+You notice a woman about the same age as your wife standing in front of the court. She intercepts you the moment she sees you, and for the next few minutes you listen to a story about a husband who sells family heirlooms and drinks away their last francs. Of course, their children are starving too. Nothing surprises you until the woman concludes her story… by asking you to send her husband to prison. She promises to testify to whatever is necessary, as long as he ends up in a cell.
+$EVE_012_MAIN_01_C1
+Threaten the drunkard with prison
+$EVE_012_MAIN_01_C2
+Arrest the man and keep him in prison for a while
+$EVE_012_MAIN_01_C3
+Ignore her
+$EVE_012_MAIN_02A
+It’s hard to say whether the man was more scared by the sight of an armed Guard or his wife reciting a litany of sufferings. He should not cause any harm for some time, and if he reaches for the bottle, he will have to be prepared to take a beating from your bruisers…
+$EVE_012_MAIN_02B
+The Guard's physique and your strong arguments should have been enough, yet the drunkard's mind was so clouded that he didn't understand a thing. Most of the time he thought the Guard was his old drinking partner, even demanding that he repay some old debts. Good you didn't order to batter the poor man, it wouldn't have changed a thing.
+$EVE_012_MAIN_02B_C1
+Ignore the whole situation
+$EVE_012_MAIN_02B_C2
+Arrest the man and keep him in prison for a while
+$EVE_012_MAIN_02C
+The drunkard did not resist arrest. He was so intoxicated that he probably did not even realise who had taken him or where he was going. Halfway through the station, he vomited on the Guard’s trousers, which bought him a few kicks. Tomorrow he will probably wonder why his back hurts so much and whether he was in a fight. The time he spends in prison away from alcohol should help him to understand a few things. Meanwhile, his family will have a moment of peace, and his wife will be able to arrange the family’s affairs.
+$EVE_012_MAIN_02D
+She looks you straight in the eyes, as if searching for an explanation for your reluctance. As you leave, you can hear quiet sobbing behind you.

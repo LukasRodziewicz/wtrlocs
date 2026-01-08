@@ -1,0 +1,288 @@
+$GEN_035_DOC_01_HEADER
+Hazırlayan: Nathan d'Essiraf
+$GEN_035_DOC_01_00
+Mahkeme önünde, <a name="1" class="hidden">isyan çıkarmakla</a> suçlanan Fabrice Cerdan duruyor. Sanık, Baroness de Ronsard’ın eski kişisel terzisi Morel Gareau’nun yanında çalışan 18 yaşında bir terzi çırağıdır. Sanığın eylemleri sonucunda ortaya çıkan olaylar sırasında, Ulusal Muhafızlardan <a name="3" class="hidden">Çavuş Charles Le Vau</a> dövülmüştür. Cerdan da isyana bizzat katılmıştır. Suçüstü yakalanmış ve ilginç bir şekilde <a name="4" class="hidden">kadın kılığında</a> olduğu görülmüştür.
+$GEN_035_DOC_01_01
+En ağır suçlayıcı ifadeyi <a name="5" class="hidden">bir manav</a> olan Sylvie Martin verdi. Onu ve diğer isyancıları, ki şaşırtıcı şekilde çoğu kadındı, hırpalanan Çavuş Le Vau’nun üzerinden zorla almak zorunda kaldık.
+$GEN_035_DOC_01_02
+Martin, terzinin çırağının tezgâhlar arasında dolaşıp abartılı bir şekilde bağırarak, Çavuş Le Vau’nun <a name="6" class="hidden">onu tecavüze kalkıştığını</a> ve amirlerinin bu suçu cezalandırmayı reddettiğini söylediğine tanıklık etti.
+$GEN_035_DOC_01_03
+Dayanışma göstergesi olarak, Sylvie Martin ve pazarda bulunan diğer kadınlar, yakında devriye gezen Çavuş Le Vau’ya saldırdı. Askerler, kadınlardan gelen bu beklenmedik saldırı karşısında öylesine şaşkına döndüler ki kısa sürede silahsız bırakılıp dövüldüler. Cerdan’ın da Muhafız’a yapılan kötü muameleye aktif biçimde katıldığı söyleniyor. Hatta, tam olarak belirtmek gerekirse, onu kasıklarından tekmelediği görülmüş. Önemsiz gibi görünebilir, ancak mağdur ciddi şekilde yaralandı.
+$GEN_035_DOC_01_04
+Ulusal Muhafızlar ve çok sayıda milletvekili, isyanı kışkırtan kişinin idamını talep ediyor.
+$GEN_035_OnStart_00
+Sapık! Kadın kıyafetleriyle ortalıkta dolaşıyorsun!
+$GEN_035_OnStart_01
+İtiraf etmeliyim ki, burada sizin gibi insanları pek sık görmüyoruz. Lütfen kendinizi tanıtın.
+$GEN_035_OnStart_02
+Şey... Ben Cerdan. Fabrice Cerdan, sayın yargıç.
+$GEN_035_OnStart_03
+Emin misiniz?
+$GEN_035_OnStart_04
+Evet, Fabrice. Fabrice, tamamen sıradan bir çocuk. Yani, terzinin çırağı. O elbise… sadece bir şakaydı.
+$GEN_035_OnStart_05
+Sanık, önce Ulusal Muhafız’ın bir subayına saldırması için kalabalığı kışkırtmakla, ardından da bu saldırıya bizzat katılmakla suçlanıyor. Bunu da bir şaka mı sanıyor?
+$GEN_035_OnStart_06
+Savcı olarak, Cumhuriyet askerine saldırı suçunda en ağır cezanın verilmesini talep ediyorum.
+$GEN_035_OnStart_07
+Saldırı mı? Kimseye saldırmadım, yemin ederim!
+$GEN_035_OnStart_08
+O halde pazarda koşup “Çavuş Le Vau bir tecavüzcü!” diye bağıran kimdi?
+$GEN_035_OnGuilty_00
+Vatandaş Fabrice Cerdan’ı giyotine mahkûm ediyorum! Mahkûmu dışarı çıkarın.
+$GEN_035_OnGuilty_01
+Bravo!
+$GEN_035_OnGuilty_02
+Bırak başı yuvarlansın!
+$GEN_035_OnPrison_00
+Vatandaş Fabrice Cerdan'ı hapis cezasına çarptırıyorum! Mahkûmu dışarı çıkarın.
+$GEN_035_OnPrison_01
+Onu kafasını keserek cezalandıramaz mısın?
+$GEN_035_OnPrison_02
+Bakalım, hapisten çıkınca ne tür “şakalar” yapacak?
+$GEN_035_OnNotGuilty_00
+Fabrice Cerdan davasında verilen karar… beraat! Sanık serbest bırakıldı.
+$GEN_035_OnNotGuilty_01
+Kabul edilemez!
+$GEN_035_OnNotGuilty_02
+Ve Sylvie hâlâ gözaltında!
+$GEN_035_OnNotGuilty_03
+Adalet nerede?!
+$GEN_035_OnNotGuilty_04
+İtiraz ediyorum! Sanığın bir Fransız askerine saldırıp cezasız kalmasına izin vermek suçtur.
+$GEN_035_02x04_00_QTitle
+Sanık neden rue Cler’deki pazarda elbise ile dolaşıyordu?
+$GEN_035_02x04_00_00
+Sanık neden rue Cler’deki pazarda elbise ile dolaşıyordu?
+$GEN_035_02x04_00_01
+Canım soğan çorbası çekti, bu yüzden alışverişe çıktım.
+$GEN_035_02x04_00_02
+Soytarı!
+$GEN_035_02x04_00_03
+Peki, neden elbise giydin?
+$GEN_035_02x04_00_04
+Bir kılıftı bu! O yaşlı tüccarlar, cüzamdan gebersinler, yoksa bana asla bir şey satmazlardı.
+$GEN_035_02x04_00_05
+Açıklayabilir misiniz?
+$GEN_035_02x04_00_06
+O şişko inek Sylvie Martin elbisesini yırtıp bütün rue Cler boyunca herkese suçun bizde olduğunu anlattı. Martin ve ona inanan o aptal pazar karıları işimizi mahvettiler.
+$GEN_035_02x04_00_07
+Sylvie’ye hakaret etmeye cüret etme, sen beceriksiz terzi müsveddesi!
+$GEN_035_02x04_00_08
+Anladım. Peki, size neden hizmet etmesinler?
+$GEN_035_02x04_00_09
+Çünkü sebzelerini yediklerinde ayak parmaklarının arasında tüy çıkacağını yaymaya başladık. Bence çok komikti, ama onlar aynı fikirde değildi.
+$GEN_035_01x06_01_QTitle
+Sanığın kalabalığı Çavuş’a karşı kışkırtmak istemesi için bir sebep var mıydı?
+$GEN_035_01x06_01_00
+Sanık, kalabalığı Çavuş’a karşı kışkırtmak için bir sebebe sahip miydi? Belki de intikam almak istiyordu?
+$GEN_035_01x06_01_01
+Olmaz! O bizim müşterimizdi, Tanrı aşkına! Ona o üniformayı biz diktik, şu anda üstünde olanı, sanki Kutsal Roma İmparatoru’nun kendisiymiş gibi rahat!
+$GEN_035_01x06_01_02
+Tanıklar, onu vücudunun en hassas yerlerinden birine tekmelediğinizi iddia etti.
+$GEN_035_01x06_01_03
+O serseriyi asla tekmelemedim!
+$GEN_035_01x06_01_04
+Sayın yargıç, itiraz ediyorum! Sanığın Ulusal Muhafız’ın bir subayı hakkında böyle ifadeler kullanması kabul edilemez!
+$GEN_035_01x06_01_05
+Ağzını copunla kapat!
+$GEN_035_01x06_01_06
+Sanık sözlerine dikkat etmeli. Yani sanıkla mağdur arasında bir çatışma mı var?
+$GEN_035_01x06_01_07
+Bir çatışma mı? O herif efendime üniformasının parasını hâlâ ödemedi! Hey Le Vau, madem buradasın, şu 300 frangı versene bana? Yakında bir yolculuktan kurtulmuş olursun.
+$GEN_035_01x06_01_08
+Bu iftira, sayın yargıç!
+$GEN_035_01x06_01_09
+İftira mıymış, hadi oradan! Üzerinde üniforma var mı yok mu? Peki, parasını kim ödeyecek? Hiç kimse! O kadınlar suratını dağıttı diye de sevindim doğrusu.
+$GEN_035_01x06_01_10
+Şu anda yargılanan sizsiniz, Yurttaş Cerdan, o yüzden bize daha fazla gösteri yapmayın.
+$GEN_035_03x05_02_QTitle
+Çavuş Le Vau gerçekten sanığa tecavüz etti mi?
+$GEN_035_03x05_02_00
+Çavuş Le Vau gerçekten sanığa tecavüz etti mi?
+$GEN_035_03x05_02_01
+Ne?! Bu saçmalık. O elbiseyi sadece eğlencesine giymiştim. Ben kadınlardan hoşlanırım!
+$GEN_035_03x05_02_02
+Yalandan başka bir şey değil! Tanıklar, olayı ayrıntılarıyla anlattığınızı duydu!
+$GEN_035_03x05_02_03
+Gerçekten de, sanığın Rue Cler'de tecavüzden bahsettiğine dair birkaç tanık ifadesi vardı.
+$GEN_035_03x05_02_04
+Muhtemelen sadece dileğini söylüyordu.
+$GEN_035_03x05_02_05
+Elbise giymiş tuhaf bir köylü oğlandan ne bekliyorsun ki…
+$GEN_035_03x05_02_06
+Gerçek adamlar ne oldu?
+$GEN_035_03x05_02_07
+Ben hiçbir şey bağırmadım – o şişko inek Martin yaptı her şeyi. Diğer esnafları kullanarak Le Vau’dan intikam almak için uydurdu bunları. Bütün pazar onun Le Vau’ya abayı yaktığını biliyor, ama Le Vau onu tersledi.
+$GEN_035_03x05_02_08
+Yine yalan söylüyor. Diğer tanık ifadeleri bambaşka bir hikaye anlatıyor.
+$GEN_035_03x05_02_09
+Sen asıl şişko ineksin!
+$GEN_035_03x05_02_10
+Sessizlik! Mağdur bu konuda bir şey söylemek ister mi?
+$GEN_035_03x05_02_11
+Bir nişanlım var, Mösyö Yargıç. Vatandaş Martin’in bana herhangi bir yakınlık gösterdiğini hatırlamıyorum ve açıkçası onun aşk hayatı hakkında hiçbir şey bilmiyorum.
+$GEN_035_03x05_02_12
+Mağdur Sylvie Martin’i tanıyor mu?
+$GEN_035_03x05_02_13
+Tüm pazar esnafını tanırım. Bazen bana çorbalık sebze satar.
+$GEN_035_01x05_03_QTitle
+Tanık Sylvie Martin’i çağırın.
+$GEN_035_01x05_03_00
+Tanık Sylvie Martin’i çağırın.
+$GEN_035_01x05_03_02
+Lütfen kendinizi tanıtın.
+$GEN_035_01x05_03_03
+Sylvie Martin.
+$GEN_035_01x05_03_04
+Tanığa, bu davadaki yerinin, Çavuş Le Vau’ya saldırmakla suçlanmasıyla ilgili olmadığını hatırlatmak isterim.
+$GEN_035_01x05_03_05
+Vereceğiniz ifade tümüyle gerçek olacak, sadece ve yalnızca gerçeği söyleyeceksiniz.
+$GEN_035_01x05_03_06
+Biliyorum, sadece bu sahtekarın, bu provokatörün, bu... bu kadınsı pisliğin hak ettiği cezayı almasını istiyorum! Her şey onun suçu!
+$GEN_035_02x05_04_QTitle
+Sanırım sanık, Muhafız devriye programını gayet iyi biliyor, değil mi?
+$GEN_035_02x05_04_00
+Sanırım sanık, Muhafızların devriye programını gayet iyi biliyor, değil mi?
+$GEN_035_02x05_04_01
+Rue Cler’de kim bilmez ki? Herkes onların her gün devriyeye on beş dakika geç başladığını bilir.
+$GEN_035_02x05_04_02
+Mağduru suçlamak size yardımcı olmaz.
+$GEN_035_02x05_04_03
+Bize bir de Çavuş Le Vau’nun seni nasıl kıçından yakaladığını anlatsana.
+$GEN_035_02x05_04_04
+Soruyu yanıtlayın.
+$GEN_035_02x05_04_05
+Geç geliyorlar, kahvaltılarını alelacele yutuyorlar, sonra da bütün gün aynı güzergâhta dolaşıyorlar. Ara sokaklara bakmaya bile tenezzül etmiyorlar. Orada yapacak bir iş çıksa aman ha!
+$GEN_035_02x05_04_06
+Yani sanık, Çavuş Le Vau’nun pazarın yakınında olacağı zamanı önceden kestirebildi mi?
+$GEN_035_02x05_04_07
+İsteseydim yapardım elbette, ama hiç düşünmedim bile.
+$GEN_035_02x05_04_08
+Hakimin yüzüne karşı gülüyor! Yatır dizinin üstüne, güzelce bir patakla!
+$GEN_035_02x05_04_09
+Bu ilginç bir tesadüf değil mi? Sanık, Çavuş’tan birkaç dakika önce kadın kılığında rue Cler’de ortaya çıkıyor ve hemen ardından bir isyan patlak veriyor, kurbanları da Le Vau oluyor...
+$GEN_035_02x05_04_10
+Bakın, nasıl göründüğünü biliyorum ama tesadüfler her zaman tuhaf gelir, değil mi?
+$GEN_035_02x05_04_11
+Yargıç, senin saçmalıklarına kanacak bir ahmak değil.
+$GEN_035_03x06_05_QTitle
+Sanık, Çavuş Le Vau'ya yapılan saldırıya katıldı mı?
+$GEN_035_03x06_05_00
+Sanık, Çavuş Le Vau’ya yapılan saldırıya katıldı mı?
+$GEN_035_03x06_05_01
+Hayır. Zaten, bu nasıl bir saldırıydı ki?
+$GEN_035_03x06_05_02
+Tanıklar, sanığın Çavuşu vücudunun oldukça hassas bir yerine tekmelediğini söylüyor. Hem de tam o bölgeye ki, Çavuşun sizi sözde... tecavüz ettiği yer.
+$GEN_035_03x06_05_03
+Saçmalık. Ben de oradaydım, gülüp geçiyordum ama ben tekme atmadım. İstesem de ona ulaşamazdım ki, o kocakarılar etrafını sarmıştı!
+$GEN_035_03x06_05_04
+Şuna bak, bir de gülüyor.
+$GEN_035_01x04_06_QTitle
+Sanık hâlâ üzerinde taşıdığı elbiseyle… yardım mı alacaktı?
+$GEN_035_01x04_06_00
+Sanık hâlâ üzerinde taşıdığı elbiseyle isyanı kışkırtmaya mı çalıştı?
+$GEN_035_01x04_06_01
+Ayaklanmalar umurumda bile değildi. Sadece Martin’le arkadaşlarıyla dalga geçmek istemiştim. Sadece şaka yapıyordum.
+$GEN_035_01x04_06_02
+Sizin, izin verin sanığın ifadesiyle söyleyeyim, "şakanız" yüzünden bir insan zarar gördü.
+$GEN_035_01x04_06_03
+Dürüst olmayan bir askeri dövdüler diye beni nasıl suçlayabilirsiniz?
+$GEN_035_01x03_07_QTitle
+Sanık ile Ulusal Muhafız arasında bir sorun oldu mu?
+$GEN_035_01x03_07_00
+Sanık ile Ulusal Muhafız arasında bir sorun oldu mu?
+$GEN_035_01x03_07_01
+Yaptıklarını düşünürsek, elbette öyle.
+$GEN_035_01x03_07_02
+Hayır. O çocuklar devrimin kazanımlarını cesurca savunuyorlar. Aynen devam, aferin!
+$GEN_035_01x03_07_03
+Yine alay ediyor!
+$GEN_035_01x03_07_04
+Yine de bu, sanığın Muhafızlarından birine karşı isyan çıkarmasını engellememiş.
+$GEN_035_01x03_07_05
+Gözlerindeki neşeyi gizleyemiyor!
+$GEN_035_01x03_07_06
+Bunu görebiliyorum.
+$GEN_035_01x03_07_07
+Hiçbir kargaşa çıkarmadım. Sadece elbiseyle alışverişe gittim, kabul ettiğim tek şey bu. Eğer bu bir suçsa, cezasını ödemeye hazırım.
+$GEN_035_WIT_00_A_QTitle
+Tanık, sanıkla nasıl tanıştı, Cerdan?
+$GEN_035_WIT_00_A_00
+Tanık, sanık Cerdan ile nasıl tanıştı?
+$GEN_035_WIT_00_A_01
+Bana bir elbise dikti, o kör serseri Morel’le birlikte. Otuz frank ödedim, ertesi gün elbise dikiş yerlerinden söküldü! Hayatımda hiç bu kadar utandığımı hatırlamıyorum…
+$GEN_035_WIT_00_A_02
+Tanığın ne sanıkla ne de onun efendisiyle dostane bir ilişkisi olmadığını mı anlamalıyım?
+$GEN_035_WIT_00_A_03
+Tanık, onların dolandırıcı olduğunu iddia ediyor gibi görünüyor.
+$GEN_035_WIT_00_A_04
+Kesinlikle öyle. Böyle terzilerin başına veba gelsin! Tüm arkadaşlarımı bu sahtekârlar konusunda uyardım, umarım yakında dükkanlarını kapatırlar, yeteneksiz düzenbazlar.
+$GEN_035_WIT_00_A_05
+Efendim sana söyledi, aptal ka... kadın, daha büyük dikmemiz gerektiğini, yoksa dikişler dayanmazdı. Ama yok, sen her şeyi en iyi bilirsin… Biraz az ye de kıyafetlerin yırtılmasın!
+$GEN_035_WIT_01_A_QTitle
+Tanık, sanığı ne zaman teşhis etti?
+$GEN_035_WIT_01_A_00
+Tanık, sanığı ne zaman teşhis etti?
+$GEN_035_WIT_01_A_01
+Muhafızlar perukunu düşürdüğü anda o bitli uşağın kim olduğunu hemen anladım!
+$GEN_035_WIT_01_A_02
+Bu, sanığın kendini ne kadar ustaca gizlediğinin kanıtı. Bu suçu uzun zamandır planladığı açık.
+$GEN_035_WIT_01_A_03
+Suçlu mu? Suçlu olduğunu söylediler!
+$GEN_035_WIT_01_A_04
+Tanık, bundan önce bu sahte kadın hakkında hiçbir tuhaflık fark etmedi mi?
+$GEN_035_WIT_01_A_05
+Bakın efendim, daha çok genç, bıyığı bile çıkmamış. Üzerinde elbise, peruk, allık vardı… Onu nasıl tanıyabilirdim ki?
+$GEN_035_WIT_01_B_QTitle
+Tanık, sanığın suçlamalarına neden inansın ki…?
+$GEN_035_WIT_01_B_00
+Tanık, sanığın Çavuş Le Vau’nun davranışlarıyla ilgili suçlamalarına neden inansın?
+$GEN_035_WIT_01_B_01
+Efendim… Serseri Le Vau’nun elinin nerelere uzandığını iyi bilirim. İnsanlar konuşuyor, malum. Ben de hassas bir insan olarak, diğer kadınlarla birlikte ona bağırmaya başladım, yüzünü gösterdiği anda–
+$GEN_035_WIT_01_B_02
+İtiraz ediyorum! Uyduruyor!
+$GEN_035_WIT_01_B_03
+Tanığın askerin suistimaline dair herhangi bir kanıtı var mı?
+$GEN_035_WIT_01_B_04
+Delil mi… Pekâlâ, parkta bir bankta otururken bana neler vadettiğini anlatabilirim!
+$GEN_035_WIT_01_B_05
+Herkes sakin olsun! Ayrıca, size serbestçe konuşma izni verdiğimi hatırlamıyorum, Çavuş Le Vau!
+$GEN_035_KEY_01
+İsyan kışkırtıcılığı
+$GEN_035_KEY_02
+Pazar
+$GEN_035_KEY_03
+Bir Muhafıza Saldırı
+$GEN_035_KEY_04
+Kadın kılığında
+$GEN_035_KEY_05
+Tüccarın ifadesi
+$GEN_035_KEY_06
+Asılsız suçlama
+$GEN_035_LastDialog_00
+Hadi ama, sadece aptalca bir şakaydı! Şaka!
+$GEN_035_UNIQUE_QUESTION_00
+Cerdan’ın kıyafetinin ardındaki hikaye neydi?
+$GEN_035_UNIQUE_ANSWER_CORRECT_00_00
+Bazı tüccarlarla tartışmış.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Bir iddiayı kaybetti.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Borç aldığı insanlardan saklanmak istiyordu.
+$GEN_035_UNIQUE_QUESTION_01
+Vatandaş Martin sanığı neyle suçladı?
+$GEN_035_UNIQUE_ANSWER_CORRECT_01_00
+Aptallık ve dolandırıcılıkla suçlanmak.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Sarhoşluk.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Oğluyla kavga ediyor.
+$GEN_035_UNIQUE_QUESTION_02
+Terzinin çırağı kadın kılığına girmişken ne bağırıyordu?
+$GEN_035_UNIQUE_ANSWER_CORRECT_02_00
+Çavuş Le Vau’nun ona tecavüz ettiğini.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Vatandaş Martin’in ondan çaldığını söyledi.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Muhafızın yakındaki bir tüccarı öldürdüğü.

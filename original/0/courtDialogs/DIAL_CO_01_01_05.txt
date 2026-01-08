@@ -1,0 +1,11 @@
+$DIAL_CO_01_01_05_001_PROSECUTOR
+Dzień dobry, obywatelu Fidéle. Nazywam się Antoine Quentin Fouquier de Tinville i jestem oskarżycielem publicznym, który będzie od dzisiaj towarzyszył wszystkim rozprawom Trybunału.
+$DIAL_CO_01_01_05_002_PROSECUTOR
+Chciałbym z góry zaznaczyć, że jestem bezkompromisowy, liczę jednak, że szybko znajdziemy wspólny język. Przynoszę też inną dobrą wiadomość – zakończono właśnie budowę gilotyny. Można jej używać od dzisiaj.
+$DIAL_CO_01_01_05_003_MENTOR
+Tak, widzieliśmy...
+
+$LETTER_CO_01_01_05_001
+Król zbiegł! Zdrajca! Ludzie posiadający informacje na temat miejsca jego pobytu mają natychmiast wyjawić je odpowiednim władzom!
+$LETTER_CO_01_01_05_002
+Robespierre

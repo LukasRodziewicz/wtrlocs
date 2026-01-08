@@ -1,0 +1,30 @@
+$DIAL_CO_01_01_06_001_MENTOR
+Le tribunal a été détruit hier. Faites attention.
+$DIAL_CO_01_01_06_002_HEADGUARD
+Nous perdons dramatiquement le contrôle des rues. Les gens ont l'impression d'avoir été trahis par le roi. Certains pensent que c'est un espion qui essaie d'échapper à la justice. Des moyens spéciaux devraient être employés pour réprimer le soulèvement. Nous avons seulement besoin de l'opinion des juges pour être sûrs que nous agissions dans le cadre de la légalité.
+$DIAL_CO_01_01_06_003_MENTOR
+Autrement dit, tu as besoin de leur approbation pour tirer sur les manifestants ?
+$DIAL_CO_01_01_06_004_HEADGUARD
+Les gens n'arrivent pas à contrôler leurs émotions et blessent d'autres citoyens par leurs actions. Regardez les fenêtres. La prochaine fois, ils pourraient faire bien pire que de jeter des pierres.
+$DIAL_CO_01_01_06_005_HEADGUARD
+Prions pour qu'il ne soit pas encore trop tard pour mettre fin à cette folie.
+$DIAL_CO_01_01_06_006_MENTOR
+C'est un euphémisme intéressant pour parler des tirs de mousquet.
+$DIAL_CO_01_01_06_007_HEADGUARD
+Sans ce document, nous ne pouvons rien faire à part attendre que les citoyens de Paris s’entre-tuent devant nos propres yeux.
+$DIAL_CO_01_01_06_008_MENTOR
+J'espère que tu sais ce que tu fais… La Convention est peut-être à l'origine de ce décret, mais c'était, sans l'ombre d'un doute, une idée de Robespierre.
+$LETTERDECISION_D06_MAINTEXT_00
+Nous sommes attristés de voir le soulèvement prendre de l'ampleur dans les rues de Paris. Burel, le commandant en chef, nous a informés que la Garde n'était plus capable de contrôler la situation de manière pacifique. Il est recommandé de l'autoriser à employer des méthodes immédiates pour protéger les civils innocents. Nous souhaiterions toutefois connaître l'opinion du tribunal à ce sujet.
+$LETTERDECISION_D06_MAINTEXT_01
+Je suis favorable à ce que la Garde nationale fasse usage de la force face aux voyous qui détruisent la capitale.
+$LETTERDECISION_D06_SENDER
+Raymond Dévoyé
+$LETTERDECISION_D06_ACCEPTBUTTON
+Signer
+$LETTERDECISION_D06_ACCEPTTEXT
+La Garde est chargée de protéger les innocents de ceux qui sont incapables de se contrôler. Je suis pour une plus grande liberté d'utilisation de la Garde nationale !
+$LETTERDECISION_D06_REJECTBUTTON
+Ne pas signer
+$LETTERDECISION_D06_REJECTTEXT
+Les autorités ne devraient pas faire usage de la force envers leurs propres citoyens. Si elles doivent le faire, elles ont déjà perdu la bataille. Je n'approuve pas ce décret !

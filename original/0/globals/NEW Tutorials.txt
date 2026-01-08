@@ -1,0 +1,448 @@
+$TUTORIAL_1_01_TITLE
+Dokumenty i listy
+$TUTORIAL_1_01_MAIN
+Zarządzaj układem dokumentów, przenosząc i upuszczając. Kliknij, aby wyświetlić ich zawartość.
+$TUTORIAL_1_02_TITLE
+Notatnik
+$TUTORIAL_1_02_MAIN
+Przejrzyj szczegółowe informacje na temat wydarzeń, akcji i postaci.
+$TUTORIAL_1_03_TITLE
+Werdykt
+$TUTORIAL_1_03_MAIN
+Rozważ efekty i zadecyduj o losie oskarżonego.
+$TUTORIAL_1_04_TITLE
+Wydarzenia
+$TUTORIAL_1_04_MAIN
+Reaguj na wydarzenia. Ich zignorowanie może przynieść poważne konsekwencje.
+$TUTORIAL_1_05_TITLE
+Protokół i Raport
+$TUTORIAL_1_05_MAIN
+Zapoznaj się ze szczegółami rozprawy i uzupełnij dokumentację procesową.
+$TUTORIAL_1_06_TITLE
+Punkty Wpływu
+$TUTORIAL_1_06_MAIN
+Punkty Wpływu są główną walutą w grze, używaj ich rozważnie.
+$TUTORIAL_1_07_TITLE
+Hierarchia
+$TUTORIAL_1_07_MAIN
+Zapoznaj się z aktualnym układem sceny politycznej w Paryżu i ze swoją pozycją na niej.
+$TUTORIAL_1_08_TITLE
+Opcje
+$TUTORIAL_1_08_MAIN
+Zmieniaj ustawienia gry.
+$TUTORIAL_1_09_TITLE
+Publika
+$TUTORIAL_1_09_MAIN
+Zadane oskarżonemu pytania będą podgrzewać atmosferę wśród niecierpliwej publiczności. Zezłoszczona widownia może nawet wszcząć zamieszki.
+$TUTORIAL_1_10_TITLE
+Ława Przysięgłych
+$TUTORIAL_1_10_MAIN
+Systematyczne sprzeciwianie się opinii Ławy Przysięgłych może prowadzić do bolesnych konsekwencji.
+$TUTORIAL_1_11_TITLE
+Przejście dalej
+$TUTORIAL_1_11_MAIN
+Po zakończeniu rozprawy kliknij, aby przejść do kolejnej sceny.
+$TUTORIAL_1_12_TITLE
+Protokół
+$TUTORIAL_1_12_MAIN
+Zapoznaj się z historią rozprawy.
+$TUTORIAL_1_13_TITLE
+Raport
+$TUTORIAL_1_13_MAIN
+Uzupełnij raport odpowiadając na pytania Prokuratora. Niepoprawne odpowiedzi mogą odbić się na Twojej reputacji oraz doprowadzić do utraty posady sędziego!
+$TUTORIAL_1_14_TITLE
+Przysługa
+$TUTORIAL_1_14_MAIN
+Im więcej popełnionych błędów, tym większe ryzyko odwołania Cię ze stanowiska. W przyszłości możesz uzyskać możliwość wpływu na decyzję prokuratora w sprawie Raportu.
+$TUTORIAL_1_15_TITLE
+Akta
+$TUTORIAL_1_15_MAIN
+Przejrzyj zarzuty oraz zapoznaj się z faktami, dzięki czemu będziesz mógł łatwiej odblokować pytania do oskarżonego.
+$TUTORIAL_1_16_TITLE
+Szukanie połączeń
+$TUTORIAL_1_16_MAIN
+Znajdź poprawne połączenia, aby odblokować pytania do oskarżonego. Wybierz wątek ze sprawy, a następnie połącz go z odpowiednią kategorią.
+$TUTORIAL_1_17_TITLE
+Szanse
+$TUTORIAL_1_17_MAIN
+Możesz popełnić ograniczoną liczbę błędów podczas łączenia wątków i kategorii. Jeśli powinie Ci się noga zbyt wiele razy, to cały system zostanie zablokowany.
+$TUTORIAL_1_19_TITLE
+Pytania
+$TUTORIAL_1_19_MAIN
+Zbieraj informacje oraz wpływaj na nastawienie Ławy Przysięgłych poprzez zadawanie pytań oskarżonemu.
+$TUTORIAL_1_20_TITLE
+Odblokuj pytania
+$TUTORIAL_1_20_MAIN
+Aby zadać pytania, musisz je najpierw odblokować w menu łączenia wątków.
+$TUTORIAL_1_21_TITLE
+Efekt pytania
+$TUTORIAL_1_21_MAIN
+Dobre relacje z Ławą Przysięgłych pozwolą uzyskać wiedzę, jak zmieni się ich opinia o wyroku po zadaniu pytania. 
+$TUTORIAL_1_22_TITLE
+Kara
+$TUTORIAL_1_22_MAIN
+Dokonaj najważniejszego wyboru: wybierz karę lub uniewinnij oskarżonego.
+$TUTORIAL_1_23_TITLE
+Podpis
+$TUTORIAL_1_23_MAIN
+Złóż podpis, by uprawomocnić decyzję.
+$TUTORIAL_1_24_TITLE
+Wywiad
+$TUTORIAL_1_24_MAIN
+Obserwuj, jak werdykt wpłynie na frakcje. Skrajnie złe stosunki z frakcją sprawią, że przestaniesz otrzymywać takie informacje.
+$TUTORIAL_1_25_TITLE
+Podejmij decyzję
+$TUTORIAL_1_25_MAIN
+Każda akcja może wymagać zużycia innej liczby Punktów Wpływu, jak również może mieć inną szansę na powodzenie. Dobrze przemyśl swoją decyzję!
+$TUTORIAL_1_26_TITLE
+Relacje
+$TUTORIAL_1_26_MAIN
+Negatywne relacje z frakcjami zbliżają Cię do negatywnych konsekwencji (np. zwiększenia temperatury w Paryżu).
+$TUTORIAL_1_27_TITLE
+Reputacja
+$TUTORIAL_1_27_MAIN
+Reputacja przenika każdy element w świecie gry: frakcje, relacje z rodziną, temperaturę tłumu i temperaturę w dzielnicach, a nawet przekonywanie innych postaci.
+$TUTORIAL_1_28_TITLE
+Punkty Wpływu
+$TUTORIAL_1_28_MAIN
+Dysponujesz ograniczoną pulą Punktów Wpływu na każdy dzień. W przyszłości uzyskasz możliwość zwiększenia tego limitu.
+$TUTORIAL_1_29_TITLE
+Powiadomienia
+$TUTORIAL_1_29_MAIN
+Obserwuj zmiany w relacjach z frakcjami i w posiadanym wpływie.
+$TUTORIAL_1_30_TITLE
+Globalne Modyfikatory
+$TUTORIAL_1_30_MAIN
+Niektóre Twoje decyzje oraz zmiany zachodzące w świecie mogą wywołać Globalne Modyfikatory. Są to oddziałujące na relacje, reputację i wpływ czynniki, którym możesz przyjrzeć się w Notatniku.
+$TUTORIAL_1_31_TITLE
+Pułapki
+$TUTORIAL_1_31_MAIN
+Niekiedy w sprawach mogą pojawić się wątki-pułapki, które nie mają znaczenia dla sprawy. Czytaj uważnie akta, ponieważ pułapki nie są w nich podświetlone.
+$TUTORIAL_1_32_TITLE
+Szybkie sprawy
+$TUTORIAL_1_32_MAIN
+Uważnie decyduj o losie każdego z oskarżonych. Nie będziesz mógł cofnąć raz podjętej decyzji. Zwróć uwagę na to, kto popiera oskarżonego.
+$TUTORIAL_1_33_TITLE
+Oczekiwany wyrok
+$TUTORIAL_1_33_MAIN
+Zobacz, jakiego werdyktu oczekują frakcje lub Twoi bliscy.
+$TUTORIAL_1_34_TITLE
+Intrygi
+$TUTORIAL_1_34_MAIN
+Intrygi to rozbudowane konflikty pomiędzy Tobą a innym graczem politycznym. Przegrana w nich może skończyć się dla Ciebie katastrofalnie.
+$TUTORIAL_1_35_TITLE
+Arystokracja się ujawniła
+$TUTORIAL_1_35_MAIN
+Do walki o dominację w Paryżu dołączyła kolejna frakcja. Nie mniej żądna krwi, co reszta.
+
+$TUTORIAL_2_01_TITLE
+Akcje Rodziny
+$TUTORIAL_2_01_MAIN
+Po powrocie do domu możesz podjąć decyzję jak chcesz spędzić resztę swojego czasu.
+$TUTORIAL_2_02_TITLE
+Różne Akcje
+$TUTORIAL_2_02_MAIN
+Każda z Akcji wpłynie na innych członków rodziny oraz ich nastawienie wobec Ciebie.
+$TUTORIAL_2_03_TITLE
+Nastawienie Postaci
+$TUTORIAL_2_03_MAIN
+Każda z Postaci swoim nastawieniem może dawać lub zabierać Ci pewne bonusy np. Reputację lub Relacje z Frakcjami
+$TUTORIAL_2_04_TITLE
+Młodszy Syn
+$TUTORIAL_2_04_MAIN
+Twój najmłodszy syn jest wyjątkowy: jego nastawienie sprawia, że pozostali członkowie rodziny lubią Cię trochę bardziej. Dbaj o niego.
+$TUTORIAL_2_05_TITLE
+Zablokowana Akcja
+$TUTORIAL_2_05_MAIN
+Po różnych ważnych wydarzeniach może się zdarzyć, że akcja zostanie Ci narzucona. W tym dniu jesteś ofiarą konsekwencji własnych decyzji.
+
+
+$TUTORIAL_3_01_TITLE
+Sekcje Paryża
+$TUTORIAL_3_01_MAIN
+Każda z sekcji może być kontrolowana przez Ciebie, Przeciwnika lub znajdować się w stanie neutralnym.
+$TUTORIAL_3_02_TITLE
+Sekcje Kontrolowane
+$TUTORIAL_3_02_MAIN
+Każda przejęta sekcja to 1 dodatkowy Punkt Wpływu. Na Twoim terytorium istnieje większa szansa na powodzenie misji.
+$TUTORIAL_3_03_TITLE
+Sekcje Zablokowane
+$TUTORIAL_3_03_MAIN
+Niektóre sekcje są zablokowane - odblokuj je dowolnym agentem, aby prowadzić na nich akcje.
+$TUTORIAL_3_04_TITLE
+Sekcje Wroga
+$TUTORIAL_3_04_MAIN
+Wrodzy agenci również mogą przejmować sekcje. Wykonywanie akcji na wrogich sekcjach ma mniejsze szanse powodzenia.
+$TUTORIAL_3_05_TITLE
+Zamieszki
+$TUTORIAL_3_05_MAIN
+Zamieszki blokują agentów (poza Twoim mięśniakiem) i zdobywanie Punktów Wpływu z dzielnicy.
+$TUTORIAL_3_06_TITLE
+Raport
+$TUTORIAL_3_06_MAIN
+Raport przedstawia Ci skrócone informacje na temat wszystkich wydarzeń na mapie.
+$TUTORIAL_3_07_TITLE
+Raport - Skrót
+$TUTORIAL_3_07_MAIN
+Aby otworzyć go ponownie kliknij na ikonę Raportu.
+$TUTORIAL_3_08_TITLE
+Agenci Gracza
+$TUTORIAL_3_08_MAIN
+Wysyłaj agentów na misje, kontroluj zamieszki i walcz o wpływy w mieście. Kliknij na agenta i wybierz akcję, którą ma wykonać.
+$TUTORIAL_3_09_TITLE
+Przemieszczanie
+$TUTORIAL_3_09_MAIN
+Agentów możesz przemieszczać swobodnie po swoich sektorach. Niestety po wrogich lub neutralnych mogą poruszać się tylko jedno pole na dzień.
+$TUTORIAL_3_10_TITLE
+Mięśniak
+$TUTORIAL_3_10_MAIN
+Mięśniak jest dobry w walce, zdobywaniu reputacji i kontrolowaniu zamieszek.
+$TUTORIAL_3_11_TITLE
+Dyplomata
+$TUTORIAL_3_11_MAIN
+Przejmuje sekcje, dba o relacje z Frakcjami i obniża temperaturę w dzielnicach. Słabszy w pojedynkach z wrogimi agentami.
+$TUTORIAL_3_12_TITLE
+Szpieg
+$TUTORIAL_3_12_MAIN
+Szpieguje wroga, zwabia przeciwników i pomaga dyplomacie kontrolować terytorium.
+$TUTORIAL_3_13_TITLE
+Muskadyni
+$TUTORIAL_3_13_MAIN
+Przeszkadzają zarówno Tobie jak i wrogowi zwiększając temperaturę w sekcjach.
+$TUTORIAL_3_14_TITLE
+Patrol Rewolucyjny
+$TUTORIAL_3_14_MAIN
+Patrol może uwięzić Twojego lub Wrogiego Agenta.
+$TUTORIAL_3_15_TITLE
+Odblokuj dzielnicę
+$TUTORIAL_3_15_MAIN
+Aby odblokować dzielnicę musisz przeprowadzić na niej zwiad. Odblokowywać możesz jedynie dzielnice, które sąsiadują z innymi odblokowanymi.
+$TUTORIAL_3_16_TITLE
+Główna Sekcja
+$TUTORIAL_3_16_MAIN
+Twoja główna sekcja jest najważniejsza - to dzięki budynkom w niej, będziesz mógł wpływać na całą resztę gry. Chroń ją za wszelką cenę. Jeśli ją stracisz - przegrasz.
+$TUTORIAL_3_17_TITLE
+Temperatura
+$TUTORIAL_3_17_MAIN
+Każda z sekcji reaguje na sytuację w grzę wzrostem lub spadkiem temperatury mieszkańców. Gdy w którejś sekcji będzie zbyt wysoka, może skutkować destrukcyjnymi zamieszkami.
+$TUTORIAL_3_18_TITLE
+Agenci Wroga
+$TUTORIAL_3_18_MAIN
+Wrodzy agenci będą walczyć z Twoimi o terytorium - mogą przejmować Twoje i Neutralne sekcje.
+$TUTORIAL_3_19_TITLE
+Walka
+$TUTORIAL_3_19_MAIN
+W momencie spotkania w tej samej sekcj przynajmniej dwóch wrogich sobie agentów, rozpoczyna się między nimi walka. Pamiętaj, że dyplomata ma małe szanse na wygranie z brutalnym zakapiorem.
+$TUTORIAL_3_20_TITLE
+Ranny Agent
+$TUTORIAL_3_20_MAIN
+Twój agent po przegranej walce zostaje ranny. Może się przemieszczać, ale nie będzie w stanie podejmować żadnych akcji.
+$TUTORIAL_3_21_TITLE
+Budowa Pomnika
+$TUTORIAL_3_21_MAIN
+Im więcej sekcji kontrolujesz, tym szybciej postępuje budowa pomnika. Każdy kolejny stopień ukończenia umożliwi Ci przejęcie kolejnego budynku wokół pomnika.
+$TUTORIAL_3_22_TITLE
+Budynki
+$TUTORIAL_3_22_MAIN
+Każdy z budynków pozwala Ci na podjęcie innego typu akcji. Przejmuj te, które najlepiej wspierają Twój ulubiony styl rozgrywki.
+$TUTORIAL_3_23_TITLE
+Garnizon
+$TUTORIAL_3_23_MAIN
+W Garnizonie co turę będą pojawiały się posiłki. Im większa jest Twoja reputacja, tym więcej wojsk się do Ciebie przyłączy.
+$TUTORIAL_3_24_TITLE
+Uciekinierzy
+$TUTORIAL_3_24_MAIN
+Z każdej sekcji Paryża ludzie próbują ratować się przed okrucieństwami wroga. Chroń ich tak długo, jak to możliwe - od tego zależy Twoja reputacja.
+$TUTORIAL_3_25_TITLE
+Wrogi Atak
+$TUTORIAL_3_25_MAIN
+Zostałeś zaatakowany. Jeżeli w sekcji nie masz żadnych oddziałów, to automatycznie przegrywasz. 
+$TUTORIAL_3_26_TITLE
+Wybierz Generała
+$TUTORIAL_3_26_MAIN
+Bitwę możesz rozegrać własnoręcznie lub skorzystać z pomocy generała Dumasa (walka rozegra się automatycznie)
+$TUTORIAL_3_27_TITLE
+Wrogi Generał
+$TUTORIAL_3_27_MAIN
+Każdy z wrogich generałów ma swoje ulubione taktyki oraz zagrania.
+$TUTORIAL_3_28_TITLE
+Widok statystyk
+$TUTORIAL_3_28_MAIN
+Włącz lub wyłącz widok ilości pozostałych na sekcjach uciekinierów.
+
+$TUTORIAL_4_01_TITLE
+Gilotyna
+$TUTORIAL_4_01_MAIN
+Zdobądź uznanie wśród ludu wygłaszając przemowę lub od razu przejdź do egzekucji.
+$TUTORIAL_4_02_TITLE
+Przemowa
+$TUTORIAL_4_02_MAIN
+Pamiętaj, że z przemowy nie możesz się wycofać, a niezdarne jej wykonanie ośmieszy Cię w oczach publiczności.
+$TUTORIAL_4_03_TITLE
+Nastawienie Tłumu
+$TUTORIAL_4_03_MAIN
+W zależności od Twojej Reputacji tłum będzie mniej lub bardziej agresywny.
+$TUTORIAL_4_05_TITLE
+Strażnicy
+$TUTORIAL_4_05_MAIN
+Wezwanie straży może uchronić Cię przed atakiem wzburzonego ludu.
+
+$TUTORIAL_5_01_TITLE
+Gra w kości
+$TUTORIAL_5_01_MAIN
+Pokonaj swojego przeciwnika zdobywając jak najlepszą punktację. Przegrywanie może zachwiać Twoją Reputacją.
+$TUTORIAL_5_02_TITLE
+Tury
+$TUTORIAL_5_02_MAIN
+Rozgrywka dzieli się na 5 tur, a wygrywa osoba o najwyższej sumie wyników.
+$TUTORIAL_5_03_TITLE
+Rzut Kośćmi
+$TUTORIAL_5_03_MAIN
+Rzuć sześcioma koścmi i licz na jak najwyższy wynik!
+$TUTORIAL_5_04_TITLE
+Przerzucenie
+$TUTORIAL_5_04_MAIN
+Jeśli nie jesteś zadowolony z wyniku to podczas całej rozgrywki możesz przerzucić kości 3 razy.
+$TUTORIAL_5_05_TITLE
+Postawienie Kolejki
+$TUTORIAL_5_05_MAIN
+Upij przeciwnika aby zmniejszyć jego szanse na wygraną. Picie pozwala również przerzucić Tobie więcej kości.
+$TUTORIAL_5_06_TITLE
+Punktacja
+$TUTORIAL_5_06_MAIN
+Punktowane są kości o tej samej ilości oczek. Czym większa wartość kości, tym większy wynik.
+$TUTORIAL_5_07_TITLE
+Dokładna Punktacja
+$TUTORIAL_5_07_MAIN
+Sprawdź szczegółową punktację i zwróć uwagę na wynik specjalny!
+$TUTORIAL_5_08_TITLE
+Przysługa
+$TUTORIAL_5_08_MAIN
+Przysługa umożliwia Ci wymuszenie na prokuratorze podpisania Twojego Raportu w sądzie, co może uchronić Cię przed odwołaniem ze stanowiska za złe wypełnianie swoich obowiązków.
+
+$TUTORIAL_6_01_TITLE
+Twoja pozycja
+$TUTORIAL_6_01_MAIN
+Czym wyżej zajdziesz na scenie politycznej Paryża, tym większy będzie bonus reputacji.
+
+
+$TUTORIAL_6_07_TITLE
+Pasek Postępu
+$TUTORIAL_6_07_MAIN
+Wykonuj poprawnie akcje, aby ładować pasek postępu. Jeśli wykonasz ich zbyt mało - przegrasz. Jeśli zrobisz więcej - otrzymasz bonus.
+$TUTORIAL_6_08_TITLE
+Bloczki Akcji
+$TUTORIAL_6_08_MAIN
+Działania w zakresie intrygii pokazują się jako bloczki akcji. Kliknij, aby zapoznać się z opisem i podjąć decyzję lub kogoś przekonać.
+$TUTORIAL_6_09_TITLE
+Przekonywanie
+$TUTORIAL_6_09_MAIN
+Aby działanie się powiodło musisz przekonać wymaganą ilość osób. Możesz również wysłać swojego Dyplomatę, aby zrobił to za Ciebie - pamiętaj, że możesz zrobić to tylko raz w czasie trwania bloczka.
+$TUTORIAL_6_10_TITLE
+Sposób Rozwiązania
+$TUTORIAL_6_10_MAIN
+Niektóre działania wymgają od Ciebie podjęcia decyzji o taktyce. Każda z nich może mieć inny procent szansy na powodzenie.
+$TUTORIAL_6_11_TITLE
+Oczekiwanie na Rezultat
+$TUTORIAL_6_11_MAIN
+Intryga odbywa się na przestrzeni dni. Rezultaty niektórych bloczków akcji zobaczysz dopiero nazajutrz.
+$TUTORIAL_6_12_TITLE
+Kontratak
+$TUTORIAL_6_12_MAIN
+Twój wróg od czasu do czasu może popsuć Twoje plany kontratakiem. W takich sytuacjach musisz odpowiedzieć szybkimi i racjonalnymi działaniami.
+$TUTORIAL_6_13_TITLE
+Ważna Decyzja
+$TUTORIAL_6_13_MAIN
+W niektórych momentach będziesz musiał podjąć decyzję mającą wpływ na cały kształt intrygii. Przemyśl swój wybór.
+
+
+$TUTORIAL_7_01_TITLE
+Bitwa
+$TUTORIAL_7_01_MAIN
+Bitwy to dynamiczne walki pomiędzy dwoma wrogimi armiami. Bierze w nich udział piechota, strzelcy i artyleria.
+$TUTORIAL_7_02_TITLE
+Wrogowie
+$TUTORIAL_7_02_MAIN
+Wrodzy generałowie mogą się różnić preferencjami dotyczącymi taktyk przez nich stosowanych.
+$TUTORIAL_7_05_TITLE
+Wybór Taktyki
+$TUTORIAL_7_05_MAIN
+Każda taktyka definiuje sposób przeprowadzenia ataku lub obrony oraz określa drobne bonusy jakie otrzymają Twoje wojska w walce.
+$TUTORIAL_7_06_TITLE
+Medyk
+$TUTORIAL_7_06_MAIN
+Medyk leczy Twój oddział oraz daje premię w postaci dodatkowych punktów życia. Pamiętaj, jeśli oddział zginie to Twój medyk również!
+$TUTORIAL_7_08_TITLE
+Ucieknierzy
+$TUTORIAL_7_08_MAIN
+Podczas bitwy, co każdą turę, ucieka pewna część ludzi z dzielnicy. Im dłużej wytrzymasz w walce, tym więcej osób urataujesz.
+$TUTORIAL_7_09_TITLE
+Układ Sił
+$TUTORIAL_7_09_MAIN
+Układ sił w tracie walki może się zmieniać. Obserwuj paski i wspomóż się nimi przy wybieraniu taktyk.
+$TUTORIAL_7_10_TITLE
+Logistyk
+$TUTORIAL_7_10_MAIN
+Ten pionek zwiększa ilość uciekających z danej dzielnicy osób. Jeśli zginie w bitwie, będziesz musiał zrekrutować kolejnego w Głównej Dzielnicy.
+$TUTORIAL_7_11_TITLE
+Modyfikator
+$TUTORIAL_7_11_MAIN
+Podczas bitew mogą pojawić się dodatkowe warunki wpływające na Twoje wojska lub prędkość ucieczki cywili.
+
+
+$TUTORIAL_8_01_TITLE
+Budowanie Strategii
+$TUTORIAL_8_01_MAIN
+Przed rozpoczęciem przekonywania możesz wypróbować różne podejścia do kolejnych tematów rozmowy. Po wybraniu wszystkich emocji otrzymasz informację o skuteczności swoich wyborów.
+$TUTORIAL_8_02_TITLE
+Nastawienie postaci
+$TUTORIAL_8_02_MAIN
+Każde nastawienie ma przypisany zestaw emocji, które zadziałają na nie dobrze i źle. Postaraj się nauczyć wpływu emocji, a będziesz mógł manipulować mieszkańcami Paryża w dowolny sposób.
+$TUTORIAL_8_03_TITLE
+Nastawienie postaci
+$TUTORIAL_8_03_MAIN
+Czym wyższą reputację posiadasz, tym większą posiądziesz wiedzę odnośnie nastawień interlokutorów. Możesz również uzuskać te informacje wykupując je za Punkty Wpływu.
+
+$TUTORIAL_9_01_TITLE
+Wyroki w trybie surwiwal
+$TUTORIAL_9_01_MAIN
+W trybie surwiwal są 2 typy wyroków: kara śmierci lub uniewinnienie.
+$TUTORIAL_9_02_TITLE
+Uzyskane punkty i dzień
+$TUTORIAL_9_02_MAIN
+Ilość zebranych punktów i numer dnia.
+$TUTORIAL_9_03_TITLE
+Opinia ławy
+$TUTORIAL_9_03_MAIN
+W trybie surwiwal za wyrok zgodny z opinią ławy jest 60 punktów.
+$TUTORIAL_9_04_TITLE
+Punktacja raportu
+$TUTORIAL_9_04_MAIN
+W trybie surwiwal raport jest punktowany w skali 0-100. Ilość uzyskanych punktów skaluje się w zależności od ilości pytań i poprawnych odpowiedzi.
+$TUTORIAL_9_05_TITLE
+Bonus za raport
+$TUTORIAL_9_05_MAIN
+Za bezbłędne wypełnienie całego raportu przysługuje bonusowe 50 punktów.
+$TUTORIAL_9_06_TITLE
+Utrzymanie porządku
+$TUTORIAL_9_06_MAIN
+Za utrzymanie porządku na Sali przysługuje bonusowe 25 punktów.
+$TUTORIAL_9_07_TITLE
+Punktacja odblokowanych pytań
+$TUTORIAL_9_07_MAIN
+W trybie surwiwal odblokowane pytania są punktowane w skali 0-100. Ilość uzyskanych punktów skaluje się w zależności od ilości odblokowanych i wszystkich pytań.
+$TUTORIAL_9_08_TITLE
+Bonus od pytań
+$TUTORIAL_9_08_MAIN
+Za odblokowanie wszystkich pytań przysługuje bonusowe 50 punktów.
+$TUTORIAL_9_09_TITLE
+Wpływ werdyktu
+$TUTORIAL_9_09_MAIN
+W trybie surwiwal indykatory wskazują czy dany werdykt polepszy, pogorszy lub nie zmieni Twoich relacji z frakcją.
+
+$TUTORIAL_DISPLAY_MESSAGE
+Czy wyświetlać samouczki?
+$TUTORIAL_DISPLAY_YES
+Tak
+$TUTORIAL_DISPLAY_NO
+Nie

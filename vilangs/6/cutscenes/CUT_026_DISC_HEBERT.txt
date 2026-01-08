@@ -1,0 +1,98 @@
+$CUT_026_DISC_HEBERT_001_DANTON
+¿Con quién hablas? ¡Estarías encantado de entregar el poder a personas que ni siquiera saben leer correctamente!
+$CUT_026_DISC_HEBERT_002_HEBERT
+¿Entonces quieres decir que los pobres solo sirven para morir en el frente?
+$CUT_026_DISC_HEBERT_003_DANTON
+¿Acaso está destinado el destino de la Comuna de París a recibir los disparos para proteger a los demás?
+$CUT_026_DISC_HEBERT_004_HEBERT
+¡Cómo se atreve!
+$CUT_026_DISC_HEBERT_005_JUDGE
+Señores, nos hemos reunido aquí para forjar una alianza. Debemos hacerlo, pues todos compartimos debilidades que Robespierre no posee.
+$CUT_026_DISC_HEBERT_006_JUDGE_AGGR
+La paranoia de Robespierre ya ha causado suficiente daño. ¡Es nuestro deber librar a la sociedad de esta bestia rabiosa!
+$CUT_026_DISC_HEBERT_007_JUDGE_MANI
+Parece que la locura de Robespierre ha tomado por completo el control de su mente. Alguien debe detenerlo.
+$CUT_026_DISC_HEBERT_008_JUDGE_JOKE
+Quizá su paranoia le susurre al oído que es un peligro para sí mismo. ¿Acaso el demente llegará incluso a guillotinarse?
+$CUT_026_DISC_HEBERT_009_JUDGE_HUMI
+Robespierre es un lunático impredecible. Todo ciudadano francés debería temerle.
+$CUT_026_DISC_HEBERT_010_HEBERT_DOUB
+Francia ha sobrevivido siglos de tiranía; también sobrevivirá a Robespierre.
+$CUT_026_DISC_HEBERT_011_HEBERT_IRRI
+¿Acaso Robespierre es el único maníaco en París?
+$CUT_026_DISC_HEBERT_012_HEBERT_AGGR
+¿Y tú?! Solo quieres ganarte mi favor para tus propios fines. ¡No eres mejor que él!
+$CUT_026_DISC_HEBERT_013_DANTON
+¿Para qué hablamos siquiera con ese patán?
+$CUT_026_DISC_HEBERT_014_JUDGE_AGGR
+Si te enfrentas solo a Robespierre, serás derrotado. No puedes huir de esa amarga verdad.
+$CUT_026_DISC_HEBERT_015_JUDGE_MANI
+Robespierre no ha llegado a la cima por casualidad. Muchos intentaron derribarlo, y todos fracasaron. Tú también caerás si lo enfrentas solo.
+$CUT_026_DISC_HEBERT_016_JUDGE_JOKE
+Crees que tu posición es lo bastante fuerte como para enfrentarte a Robespierre. Pero la verdad es que, sin nosotros, no tienes ninguna posibilidad.
+$CUT_026_DISC_HEBERT_017_JUDGE_HUMI
+Ni siquiera unidos podemos igualar el poder de Robespierre. No metas la cabeza en la boca del león, pues te devorará sin piedad.
+$CUT_026_DISC_HEBERT_018_DANTON
+Alexis tiene razón. Por separado, cada uno de nosotros es presa fácil.
+$CUT_026_DISC_HEBERT_019_HEBERT_INTR
+¿Sabe algo que yo no sepa?
+$CUT_026_DISC_HEBERT_020_HEBERT_DOUB
+Incluso si pierdo, podré negociar los términos con él.
+$CUT_026_DISC_HEBERT_021_HEBERT_IRRI
+No soy ningún tonto, sé perfectamente que Robespierre es peligroso. ¡Pero subestimarme a mí es mucho más peligroso!
+$CUT_026_DISC_HEBERT_022_HEBERT_AGGR
+¡Insensatos! ¡No soy tan débil como creen!
+$CUT_026_DISC_HEBERT_027_JUDGE_AGGR
+¡Y aun así reclutaste como aliado a un arzobispo renegado! Habría que ser un necio para creer que Gobel será un socio leal. Es mucho más probable que se una a Robespierre antes que quedarse contigo.
+$CUT_026_DISC_HEBERT_028_JUDGE_MANI
+Gobel te traicionará en cuanto tenga la oportunidad, porque le conviene mucho más aliarse con Robespierre. Ambos desprecian el culto a la Razón, aunque Gobel aún no te lo ha mostrado.
+$CUT_026_DISC_HEBERT_029_JUDGE_JOKE
+Gobel te traicionará igual que me traicionó a mí. Robespierre, al fin y al cabo, tiene más que ofrecer que cualquiera de nosotros.
+$CUT_026_DISC_HEBERT_030_JUDGE_HUMI
+Gobel te traicionará. Tú mismo lo empujarás a los brazos de Robespierre. Siguió su instinto cuando renunció a sus votos sagrados. Y cuando tu enfrentamiento con Robespierre llegue a un punto crítico, en cuanto la situación se complique, lo hará de nuevo.
+$CUT_026_DISC_HEBERT_031_JUDGE_AGGR
+No pierda el tiempo con Gobel, no puede controlarlo. Tenemos un candidato mucho mejor para chivo expiatorio, uno que sí podemos manejar. Me refiero al fiscal Tinville.
+$CUT_026_DISC_HEBERT_032_JUDGE_MANI
+Si te unes a nosotros, pondremos a alguien mejor que Gobel, alguien a quien podamos controlar: el fiscal Tinville.
+$CUT_026_DISC_HEBERT_033_JUDGE_JOKE
+Reemplacemos a Gobel por el fiscal Tinville. Será nuestro chivo expiatorio.
+$CUT_026_DISC_HEBERT_034_JUDGE_HUMI
+Digamos que tengo influencia sobre alguien que sería un chivo expiatorio aún mejor que Gobel: el fiscal Tinville.
+$CUT_026_DISC_HEBERT_035_DANTON
+Renunciaré a mi puesto en el Comité de Salvación Pública y propondré que Tinville me sustituya. Robespierre centrará su atención en él y nosotros ganaremos algo de libertad para actuar.
+$CUT_026_DISC_HEBERT_036_HEBERT_INTR
+Tinville es fiscal y goza de buena reputación entre el pueblo. Es posible que Robespierre lo vea como un rival para el puesto de máximo estadista de Francia.
+$CUT_026_DISC_HEBERT_037_HEBERT_DOUB
+¿Y cree que Tinville aceptará tan fácilmente unirse a la cruzada contra Robespierre?
+$CUT_026_DISC_HEBERT_038_HEBERT_IRRI
+Me estremece pensar que puedes sacrificar a este hombre sin dudarlo. No creo que él aceptara algo así.
+$CUT_026_DISC_HEBERT_039_HEBERT_AGGR
+Eres realmente peligroso, Fidèle. Gobel tenía razón, y Tinville podría darse cuenta en cualquier momento.
+$CUT_026_DISC_HEBERT_040_JUDGE_AGGR
+Tinville es un sanguijuela. Le mostraremos una imagen tentadora del poder y dejaremos que se deleite con ella. Así dejará de sospechar de nuestras intenciones.
+$CUT_026_DISC_HEBERT_041_JUDGE_MANI
+Solo tengo que mostrarle que el poder está al alcance de su mano. Tinville lo desea tanto como nosotros.
+$CUT_026_DISC_HEBERT_042_JUDGE_JOKE
+Yo me encargaré de convencerlo, no hay motivo para preocuparse. Tinville solo piensa en su carrera y nunca le basta con lo que ya tiene.
+$CUT_026_DISC_HEBERT_043_JUDGE_HUMI
+Tinville ansía el poder, y voy a convencerlo de que lo obtendrá. Me humillaré para que lo crea, para que su orgullo se vea halagado al tener a un juez del Tribunal a su servicio.
+$CUT_026_DISC_HEBERT_044_DANTON
+Podría funcionar. Una cooperación estrecha y la confianza serán la clave para vencer a Robespierre.
+$CUT_026_DISC_HEBERT_045_HEBERT_INTR
+Muy bien, ¡acabemos de una vez por todas con Robespierre!
+$CUT_026_DISC_HEBERT_046_HEBERT_DOUB
+Bien, pero no cuente con mi confianza ciega. Le estaré observando. Muy de cerca.
+$CUT_026_DISC_HEBERT_047_HEBERT_IRRI
+Tus argumentos son débiles. Búscate otro “aliado”.
+$CUT_026_DISC_HEBERT_048_HEBERT_AGGR
+Has malgastado mi tiempo. ¿De verdad pensabas que iba a confraternizar con charlatanes tan corruptos como tú?
+$CUT_026_DISC_HEBERT_TOPIC_01
+Robespierre es un maníaco peligroso.
+$CUT_026_DISC_HEBERT_TOPIC_02
+Hébert perderá si no cuenta con aliados.
+$CUT_026_DISC_HEBERT_TOPIC_03
+Gobel obtendrá más si negocia los términos con Robespierre.
+$CUT_026_DISC_HEBERT_TOPIC_04
+Vayamos juntos y usemos al ambicioso Tinville como nuestro chivo expiatorio.
+$CUT_026_DISC_HEBERT_TOPIC_05
+Tinville aspira a una carrera.

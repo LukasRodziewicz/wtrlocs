@@ -1,0 +1,12 @@
+$SEAL_CREATOR_BASE
+Grundlage
+$SEAL_CREATOR_EMBLEM
+Emblem
+$SEAL_CREATOR_TOPDETAIL
+Obere Verzierung
+$SEAL_CREATOR_BOTTOMDETAIL
+Untere Verzierung
+$SEAL_CREATOR_HEADERTEXT
+Gestalten Sie Ihren Stempel
+$SEAL_CREATOR_UNDERSCORETEXT
+Unterschrift zur Bestätigung

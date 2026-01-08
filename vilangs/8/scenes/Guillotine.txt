@@ -1,0 +1,46 @@
+$EXECUTION_START_TIP
+Puxe a corda para realizar a execução
+$SUMMON_GUARDS
+Chamar os guardas
+$SKIP_SPEECH
+Pular o discurso
+$PEOPLE_ATTITUDE
+[Atitude do povo]
+$PEOPLE_ATTITUDE_DESC
+Atitude do Povo: o que é e como funciona.
+$PEOPLE_ATTITUDE_LV1
+Agressão
+$PEOPLE_ATTITUDE_LV2
+Desaprovação
+$PEOPLE_ATTITUDE_LV3
+Indiferença
+$PEOPLE_ATTITUDE_LV4
+Favor
+$PEOPLE_ATTITUDE_LV5
+Felicidade
+$GUILLOTINE_ATTACK_SUCCESS_DESC
+A multidão reunida na praça de execução não gostou das suas palavras. Punhos e cacetetes entraram em ação. Infelizmente, os guardas estavam longe demais e não conseguiram reagir a tempo. Você teve que enfrentar a turba enfurecida sozinho.
+$GUILLOTINE_ATTACK_FAILURE_DESC
+A multidão reunida na praça da execução não gostou das suas palavras. Eles quiseram demonstrar seu descontentamento com os punhos, em seu próprio corpo. Felizmente, os guardas estavam preparados e contiveram a situação rapidamente. Sua reputação foi abalada, mas você ainda pode prosseguir com a execução.
+$GUILLOTINE_START_SPEECH
+Fale ao povo comum.
+$GUILLOTINE_SPEECH_START_LOW_JUSTICE
+Eles parecem desconfiados…
+$GUILLOTINE_SPEECH_START_NEUTRAL_JUSTICE
+Talvez eu consiga conquistar o favor da multidão.
+$GUILLOTINE_SPEECH_START_HIGH_JUSTICE
+Tenho todos na palma da minha mão, eles confiam em mim.
+$GUILLOTINE_HEART_LOW_JUSTICE
+Eles não confiam em mim.
+$GUILLOTINE_HEART_NEUTRAL_JUSTICE
+Desconfiança.
+$GUILLOTINE_HEART_HIGH_JUSTICE
+Eles confiam em mim.
+$TIMERGUARD
+Estamos adiando por tempo demais. O povo está inquieto!
+#GUILLOTINE_COMMENT_000
+Cortem-lhe a cabeça!
+#GUILLOTINE_COMMENT_001
+Puxe a corda!
+#GUILLOTINE_COMMENT_002
+Pela Revolução!

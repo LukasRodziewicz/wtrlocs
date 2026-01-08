@@ -1,0 +1,26 @@
+$DIAL_CO_01_01_02_001_JLDAVID
+May I remind you that you promised to join me. I have a feeling that tonight’s moon favours gamblers.
+$DIAL_CO_01_01_02_002_JUDGE
+Though it does not favour spouses…
+$DIAL_CO_01_01_02_003_JLDAVID
+God should grace us with wives who understand the importance of an evening game of dice. They should also know that the right amount of wine guarantees a lucky roll…
+$DIAL_CO_01_01_02_004_JUDGE
+I should go home.
+$DIAL_CO_01_01_02_005_JLDAVID
+Bringing a judge to the game has benefits – other players will surely not cheat.
+$DIAL_CO_01_01_02_006_JUDGE
+That is not a strong argument.
+$DIAL_CO_01_01_02_007_JLDAVID
+My name is Jacques-Louis David. I am but a humble painter, not a silver-tongued judge.
+$DIAL_CO_01_01_02_008_JUDGE
+You are a sly politician, Jacques.
+$DIAL_CO_01_01_02_009_JLDAVID
+As a politician I understand the importance of keeping promises. And you, my friend, are trying to get out of yours.
+$DIAL_CO_01_01_02_C1
+Keep your promise
+$DIAL_CO_01_01_02_C2
+Go home
+$DIAL_CO_01_01_02_010_JUDGE
+All right, but only for a short while.
+$DIAL_CO_01_01_02_011_JUDGE
+Not tonight, Jacques.

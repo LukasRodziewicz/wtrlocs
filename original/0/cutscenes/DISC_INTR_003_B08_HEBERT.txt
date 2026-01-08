@@ -1,0 +1,49 @@
+$DISC_INTR_003_B08_HEBERT_001_JUDGE_AGGR
+Nie panujemy już nad tym, co się dzieje na ulicy. Ten chaos może się obrócić przeciw każdemu, a nie możemy tak po prostu pacyfikować tłumów.
+$DISC_INTR_003_B08_HEBERT_002_JUDGE_MANI
+Sytuacja wymknęła się spod kontroli. Wczoraj pobili dziewczynę, bo myśleli, że jest szpiegiem powstańców. Kto wie, kogo dopadną jutro – mnie, może ciebie…
+$DISC_INTR_003_B08_HEBERT_003_JUDGE_JOKE
+Póki rzucali w losowych ludzi popsutymi pomidorami, to jeszcze było do zniesienia. Teraz chodzą z drewnianymi kijami. Nie wiem, ja się boję.
+$DISC_INTR_003_B08_HEBERT_004_JUDGE_HUMI
+Wiem, że przysięgałem służyć ludowi i bronić wolności, ale nasi obywatele chyba przesadzają z korzystaniem z niej…
+$DISC_INTR_003_B08_HEBERT_005_HEBERT_SATI
+Już dawno ktoś powinien się zabrać za tę świętą klikę i zrobić z nią porządek. Rewolucja potraktowała ich zbyt łagodnie.
+$DISC_INTR_003_B08_HEBERT_006_HEBERT_INTR
+Wreszcie ktoś się zainteresował tymi pasibrzuchami. Może jest szansa na ukrócenie tych monarchistycznych zabobonów.
+$DISC_INTR_003_B08_HEBERT_007_HEBERT_DOUB
+Prawie uwierzyłem, że się przejąłeś nastrojami ulic…
+$DISC_INTR_003_B08_HEBERT_008_JUDGE_AGGR
+Gobel wszystko pogorszył! Jeśli już miał taką tajemnicę, to powinien zadbać, by nie wyszła na jaw. Jak mógł tak wpaść, jak dziecko?!
+$DISC_INTR_003_B08_HEBERT_009_JUDGE_MANI
+Obecność Gobela, jeśli plotki o nim okażą się prawdą, tylko pogarsza sytuację. Nie chcemy chyba, żeby ludzie zaczęli podejrzewać, że cała władza jest zdeprawowana? To dotyczy zarówno mnie, jak i twoich przyjaciół w Konwencie. 
+$DISC_INTR_003_B08_HEBERT_010_JUDGE_JOKE
+Gobel wpadł jak śliwka w kompot. W najgorszy moment. Może to zemsta papieża? Bóg w końcu wysłuchał jego modlitw o karę dla arcybiskupa za to, że jest konstytucyjny, a nie z nadania Rzymu…
+$DISC_INTR_003_B08_HEBERT_011_JUDGE_HUMI
+Nie chcę wydawać wyroków zaocznie, ale wydaje się, że gniew społeczeństwa odsłonił od dawna skrywane tajemnice, jak ta arcybiskupa Gobela. Może trzeba się tym zająć?
+$DISC_INTR_003_B08_HEBERT_012_HEBERT_SATI
+Nie potrafię wyobrazić sobie nic przyjemniejszego niż upadek tego klechy, który stoi na drodze kultowi rozumu. No, może zmierzch stanowiska papieża ucieszyłby mnie bardziej.
+$DISC_INTR_003_B08_HEBERT_013_HEBERT_INTR
+Wiesz, jak połechtać czyjeś najskrytsze marzenia. Nie będę krył, że chętnie bym pozbawił Gobela miejsca na żywych padole i zrobił miejsce dla kultu rozumu… Jak możesz w tym pomóc?
+$DISC_INTR_003_B08_HEBERT_014_HEBERT_DOUB
+Komuna Paryska od dawna optowała za dobraniem się temu ważniakowi do tyłka. Nikt nie zareagował. Teraz nagle wszyscy chcą jego głowy, bo zobaczyli w tym zysk dla siebie.
+$DISC_INTR_003_B08_HEBERT_015_JUDGE_AGGR
+Nie możemy płacić wszyscy za zachowanie jednej grupy. Kościół kłamstwami i degeneracją sam zapracował na gniew obywateli. Odetnijmy go i żyjmy dalej. W spokoju.
+$DISC_INTR_003_B08_HEBERT_016_JUDGE_MANI
+Wściekły tygrys powinien dostać ofiarę, którą rozszarpie. Nie będzie zwracał wtedy uwagi na rzeczy wokół i będziemy mogli żyć w spokoju. A skoro tygrys zaostrzył pazury na kler…
+$DISC_INTR_003_B08_HEBERT_017_JUDGE_JOKE
+Rozwój sytuacji nie pozostawia nam wyjścia. Chcą kleru, to dajmy im go. Oskarżają kler o zdradę kraju – wtórujmy im. Proste i praktyczne.
+$DISC_INTR_003_B08_HEBERT_018_JUDGE_HUMI
+Jestem przeciw krzywdzeniu instytucji Kościoła – ona krzywdzi się sama. Rękami ludzi zdegenerowanych, których obywatele przeklinają. Musimy się odciąć od całej grupy. Dla wspólnego dobra.
+$DISC_INTR_003_B08_HEBERT_019_HEBERT_SATI
+Dobrze, niech rozum zwycięży zabobony. Masz moje poparcie, sędzio.
+$DISC_INTR_003_B08_HEBERT_020_HEBERT_INTR
+Jestem ciekaw, co z tego wyniknie, ale niezależnie od wątpliwości – możesz liczyć na moją pomoc.
+$DISC_INTR_003_B08_HEBERT_021_HEBERT_DOUB
+Komuna Paryża i kult rozumu zbyt dużo mogą stracić przez twoje niejasne motywacje. Przykro mi.
+
+$DISC_INTR_003_B08_HEBERT_TOPIC_01
+Sytuacja na ulicy wymyka się spod kontroli.
+$DISC_INTR_003_B08_HEBERT_TOPIC_02
+Sprawa Gobela dolała oliwy do ognia.
+$DISC_INTR_003_B08_HEBERT_TOPIC_03
+Trzeba kogoś przykładnie ukarać.

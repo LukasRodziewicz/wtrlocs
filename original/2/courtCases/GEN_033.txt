@@ -1,0 +1,177 @@
+$GEN_033_DOC_01_HEADER
+Compilé par : Nathan d'Essiraf
+$GEN_033_DOC_01_00
+Marcel Bloch, 26 ans, garde des tribunaux originaire du nord de la France. Juste avant le début de la Révolution, il a servi comme artilleur dans la 2e section de la 2e compagnie du 2e bataillon du régiment du colonel général. Après 1789, il a déménagé à Paris et <a name="2" class="hidden">rejoint les gardes des tribunaux</a>. C'est encore son métier actuel. Ses supérieurs et collègues le décrivent comme un employé modèle et dévoué à sa tâche.
+$GEN_033_DOC_01_01
+Un soir qu'il buvait dans une auberge du quartier, Marcel a admis qu'il avait <a name="3" class="hidden">menti</a> pendant toutes ces années à propos de son expérience militaire. Avoir servi dans l'armée est une condition indispensable pour entrer dans les gardes des tribunaux. Une enquête minutieuse a permis de soupçonner que Bloch aurait <a name="4" class="hidden">falsifié les documents</a> qui prouvent son expérience dans l'armée.
+$GEN_033_DOC_01_02
+Les enquêteurs ont trouvé deux <a name="5" class="hidden">artilleurs de la section</a> où Bloch prétend avoir servi, Pierre Richard et Michel Montand. Ils ont déclaré ne pas se souvenir de Bloch, et un document a été obtenu auprès de son ancien officier.
+$GEN_033_DOC_02_00
+Déclaration du colonel Chabert :
+$GEN_033_DOC_02_01
+Je déclare sur l'honneur que le nom de Marcel Bloch n'apparaît pas dans les registres de la 2e demi-brigade. Je n'ai pas non plus trouvé ce nom dans les registres du régiment du colonel général datant d'avant la Révolution. Veuillez cependant garder à l'esprit que les registres susmentionnés sont incomplets. Une partie des documents a été détruite par les soldats au début de la Révolution en raison de leur soutien aux corps d'infanterie.
+Colonel J. C. Chabert, Commandant de la 2e demi-brigade
+$GEN_033_OnStart_00
+Merci de noter dans le protocole que la Cour reconnaît déjà l'identité de l'accusé, Marcel Bloch, un garde des tribunaux en ce même tribunal. Citoyen, comprends-tu les accusations retenues contre toi ?
+$GEN_033_OnStart_01
+Non, Monsieur le juge…
+$GEN_033_OnStart_02
+Tu es accusé d'avoir créé un faux document prouvant que tu as servi dans l'armée. Tu as déclaré que tu étais dans le 2e bataillon du régiment du colonel général, actuellement appelé 2e demi-brigade. Selon l'acte d'accusation, tu as menti afin d'être engagé par la Cour.
+$GEN_033_OnStart_03
+Bloch aurait pu tirer davantage parti de son crime.
+$GEN_033_OnStart_04
+Je garderai cela à l'esprit. Que plaides-tu ?
+$GEN_033_OnStart_05
+Monsieur le juge, je te jure que je n'ai menti à personne !
+$GEN_033_OnStart_06
+J'ai bien peur que les preuves et les circonstances ne disent le contraire.
+$GEN_033_OnStart_07
+Trop peureux pour aller à la guerre, mais heureux d'obtenir les récompenses.
+$GEN_033_OnGuilty_00
+Je condamne le citoyen Marcel Bloch à être guillotiné ! Emmenez le condamné.
+$GEN_033_OnGuilty_01
+Pauvre type.
+$GEN_033_OnGuilty_02
+Qu'il serve d'exemple aux autres.
+$GEN_033_OnNotGuilty_00
+Marcel Bloch est jugé… non coupable ! Emmenez l'accusé.
+$GEN_033_OnNotGuilty_01
+J'espère au moins qu'ils vont le renvoyer, sinon il se moquera bien de nous.
+$GEN_033_OnNotGuilty_02
+Il a eu de la chance.
+$GEN_033_04x06_00_QTitle
+Comment as-tu obtenu tes états de service dans le régiment ?
+$GEN_033_04x06_00_00
+Comment as-tu obtenu tes états de service dans le régiment ?
+$GEN_033_04x06_00_01
+Ils m'ont été remis par le colonel Chabert, mon commandant.
+$GEN_033_04x06_00_02
+Nous avons demandé au colonel Chabert de témoigner par écrit. Il déclare que ton nom n'apparaît pas dans les registres de son unité. Sommes-nous censés croire que cet homme t'a fourni un document prétendant le contraire ?
+$GEN_033_04x06_00_03
+Il y a aussi les témoignages d'autres soldats.
+$GEN_033_04x06_00_04
+Je ne comprends rien à tout ça. J'ai servi dans cette unité pendant plus d'un an. Le colonel lui-même a signé mes papiers !
+$GEN_033_04x06_00_05
+Qu'y a-t-il à comprendre ? Tu as simplement imité sa signature.
+$GEN_033_04x06_00_06
+Balancez cette crapule aux soldats, laissez-les le juger !
+$GEN_033_01x03_01_QTitle
+As-tu servi dans l'artillerie ?
+$GEN_033_01x03_01_00
+As-tu servi dans l'artillerie ?
+$GEN_033_01x03_01_01
+Oui, dans la célèbre 2-2, la 2e section de la 2e compagnie.
+$GEN_033_01x03_01_02
+Quels canons la section utilise-t-elle ?
+$GEN_033_01x03_01_03
+Eh bien... deux canons de huit livres.
+$GEN_033_01x03_01_04
+Je vois. Cette section utilisait, et utilise toujours, des canons de six livres.
+$GEN_033_01x03_01_05
+Ah bon ? J'ai dû oublier, c'était il y a longtemps. Être garde est très important pour moi…
+$GEN_033_01x03_01_06
+Tu es fier de ton passé d'artilleur, mais tu ne te souviens pas du canon que tu utilisais ?
+$GEN_033_01x03_01_07
+Si, je m'en souviens. Je pourrais en charger un les yeux fermés. J'ai juste fait une erreur.
+$GEN_033_01x03_01_08
+Il ne saurait pas par quel bout mettre le boulet.
+$GEN_033_03x05_02_QTitle
+Donne-nous les noms de tes camarades de cette période.
+$GEN_033_03x05_02_00
+Donne-nous les noms de tes camarades de cette période.
+$GEN_033_03x05_02_01
+Charles Clary et Jean Gayet, mes meilleurs amis dans la section.
+$GEN_033_03x05_02_02
+Pourraient-ils confirmer l'authenticité de tes papiers ?
+$GEN_033_03x05_02_03
+Bien sûr, mais je ne sais pas comment les retrouver. Ils venaient tous du nord de la France, comme moi.
+$GEN_033_03x05_02_04
+Vous n'êtes pas restés en contact ? Pourtant tu viens de dire que c'étaient tes meilleurs amis.
+$GEN_033_03x05_02_05
+Chacun est parti de son côté. C'est généralement ce qu'il se passe dans l'armée.
+$GEN_033_03x05_02_06
+Nous avons contacté d'autres soldats, Pierre Richard et Michel Montand. Ces noms te disent quelque chose ?
+$GEN_033_03x05_02_07
+Non, je ne me souviens pas d'eux.
+$GEN_033_03x05_02_08
+Vraiment ? Ils ont servi dans le même bataillon que toi, le 2e. Et bizarrement, ils ne se souviennent pas de toi non plus. Ils sont ici, à Paris.
+$GEN_033_03x05_02_09
+Ça ne prouve rien du tout. Des milliers d'hommes passent par le régiment. Je n'étais pas ami avec tous mes camarades, je n'ai même jamais eu l'occasion de parler avec certains. C'est la vérité…
+$GEN_033_01x02_03_QTitle
+Pourquoi as-tu rejoint les gardes des tribunaux ?
+$GEN_033_01x02_03_00
+Pourquoi as-tu rejoint les gardes des tribunaux ?
+$GEN_033_01x02_03_01
+Je suis venu à Paris en espérant avoir une vie meilleure lorsque la Révolution a commencé. Être garde des tribunaux semblait bien payé, et puis… Les gens respectent l'uniforme, Monsieur le juge.
+$GEN_033_01x02_03_02
+C'était important pour toi, l'uniforme ?
+$GEN_033_01x02_03_03
+Mon père a combattu pendant la guerre. Il disait que l'uniforme est bien plus qu'un simple vêtement.
+$GEN_033_01x02_03_04
+Il voulait que tu intègres l'armée ?
+$GEN_033_01x02_03_05
+Il ne l'a pas dit, mais il ne parlait pas beaucoup. Il gardait les boutons de son uniforme dans un tiroir. Ceux qui sont dorés.
+$GEN_033_01x02_03_06
+As-tu escroqué la Cour de Paris pour réaliser un rêve d'enfant ?
+$GEN_033_01x02_03_07
+Je suis entré dans l'armée et j'ai risqué ma vie. Mon père avait raison : on se sent différent en uniforme, plus honorable.
+$GEN_033_01x02_03_08
+Il n'ont sans doute pas voulu de lui dans l'armée, alors il s'est mis à mentir.
+$GEN_033_03x04_04_QTitle
+As-tu falsifié tes états de service ?
+$GEN_033_03x04_04_00
+As-tu falsifié tes états de service ?
+$GEN_033_03x04_04_01
+Non, et même si je le voulais, je ne saurais pas comment faire. Je ne connais rien aux contrefaçons.
+$GEN_033_03x04_04_02
+Ce n'est pas ce que tu as dit à l'auberge.
+$GEN_033_03x04_04_03
+J'étais ivre et stupide. Je voulais impressionner les gens qui m'écoutaient. Je n'ai pas pensé aux conséquences possibles…
+$GEN_033_03x04_04_04
+En tant que fier artilleur, tu ne devrais pas avoir envie de plaisanter là-dessus.
+$GEN_033_03x04_04_05
+Quand je bois trop, parfois, je ne réfléchis pas avant de parler. Cette fois-là, j'avais beaucoup trop bu.
+$GEN_033_03x04_04_06
+Je suppose que tu n'as pas réfléchi du tout, puisque tu as raconté cela à quelqu'un qui travaille dans ce tribunal.
+$GEN_033_03x04_04_07
+Monsieur le juge, je m'excuse sincèrement, mais est-ce qu'il est vraiment nécessaire de punir quelqu'un pour les sottises qu'il raconte après quelques verres ?
+$GEN_033_03x04_04_08
+Sa conscience le travaillait et il a fini par cracher le morceau.
+$GEN_033_KEY_01
+Service dans l'artillerie
+$GEN_033_KEY_02
+Entrée chez les gardes des tribunaux
+$GEN_033_KEY_03
+Mensonge
+$GEN_033_KEY_04
+Faux documents
+$GEN_033_KEY_05
+Camarades
+$GEN_033_KEY_06
+Déclaration du colonel
+$GEN_033_LastDialog_00
+J'ai été un serviteur loyal de la Révolution. Je me suis battu pour la justice. Pourquoi me rejetez-vous ?
+$GEN_033_UNIQUE_QUESTION_00
+Quels canons la section du prévenu utilisait-elle ?
+$GEN_033_UNIQUE_ANSWER_CORRECT_00_00
+Des canons de six livres.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Des canons de huit livres.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Des canons de dix livres.
+$GEN_033_UNIQUE_QUESTION_01
+Pourquoi le prévenu a-t-il rejoint l'armée ?
+$GEN_033_UNIQUE_ANSWER_CORRECT_01_00
+Il voulait porter un uniforme.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Il voulait quitter son village afin d'échapper à la faim.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il voulait impressionner sa bien-aimée.
+$GEN_033_UNIQUE_QUESTION_02
+À qui Bloch a-t-il confessé son manque d'expérience militaire ?
+$GEN_033_UNIQUE_ANSWER_CORRECT_02_00
+À un collègue.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_02_00
+À une prostituée.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_02_01
+À un inconnu.

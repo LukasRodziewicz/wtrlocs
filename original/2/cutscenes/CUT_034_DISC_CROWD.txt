@@ -1,0 +1,88 @@
+$CUT_034_DISC_CROWD_001_CROWD
+Elles veulent gouverner !
+$CUT_034_DISC_CROWD_002_CROWD
+Et puis quoi encore ?!
+$CUT_034_DISC_CROWD_003_CROWD
+Je vais lui remettre les idées en place, à ma femme !
+$CUT_034_DISC_CROWD_004_MAN
+Contentez-vous de la cuisine et des enfants !
+$CUT_034_DISC_CROWD_005_MAN
+Aucune femme ne nous gouvernera !
+$CUT_034_DISC_CROWD_006_CROWD
+Rappelez-vous quelle est votre place…
+$CUT_034_DISC_CROWD_007_CROWD
+… ou bien nous vous y aiderons !
+$CUT_034_DISC_CROWD_004_JUDGE_AGGR
+Elles ont certes commis une bassesse répugnante, mais nous n'avons pas le choix. Nous devons nous plier à leurs désidérata. Du moins pour le moment…
+$CUT_034_DISC_CROWD_005_JUDGE_MANI
+Admettez que vous ne vous y attendiez pas… Moi non plus d'ailleurs ! Elles ont lancé l'assaut alors que nous étions inattentifs, et il nous faut maintenant leur céder.
+$CUT_034_DISC_CROWD_006_JUDGE_JOKE
+Nous avons perdu tout espoir… Nous devons accepter leurs exigences.
+$CUT_034_DISC_CROWD_007_JUDGE_HUMI
+À en juger par leur conduite, leur détermination est inébranlable. Elles n'abandonneront pas. Ce coup ne restera pas sans suite si nous ne nous plions pas à leur exigences.
+$CUT_034_DISC_CROWD_008_JUDGE_AGGR
+Ce n'est qu'une bagatelle, citoyens. Donnez-la-leur donc ! Ne faites pas la bêtise de laisser votre orgueil et votre instinct vous guider !
+$CUT_034_DISC_CROWD_009_JUDGE_MANI
+Réfléchissez-y un moment : vous allez leur concéder une petite portion de pouvoir et obtiendrez la paix pour le reste de vos jours.
+$CUT_034_DISC_CROWD_010_JUDGE_JOKE
+Vous allez leur donner quelques droits qui importent bien peu en regard des récents changements que la France a connus ; la poussière des ruines de la Bastille, tout au plus.
+$CUT_034_DISC_CROWD_011_JUDGE_HUMI
+Je vous sais très remontés, mais en vérité, elles ne demandent pas grand-chose. Cette concession vous coûtera peu.
+$CUT_034_DISC_CROWD_012_CROWD_DOUB
+Tu as des arguments valables, mais nous en avons aussi. Ceux des hommes. Notre monde est bâti dessus, et nous n'allons pas nous en défaire si facilement.
+$CUT_034_DISC_CROWD_013_CROWD_IRRI
+As-tu encore abusé de la boisson ? Tu parles comme si nous ne connaissions pas nos femmes. Elles nous traiteront comme des carpettes si nous leur faisons cette concession !
+$CUT_034_DISC_CROWD_014_CROWD_AGGR
+Si on leur cède d'un pouce, elles prennent un arpent. Si on leur tend la main, elles nous arrachent le cœur. Ne sais-tu pas de quoi sont faites les femmes ?
+$CUT_034_DISC_CROWD_015_JUDGE_AGGR
+Nous n'avons pas le temps pour de telles discussions, citoyens. L'ennemi est dans nos rues et vous vous demandez si vos épouses méritent d'être traitées comme des servantes ou des esclaves !
+$CUT_034_DISC_CROWD_016_JUDGE_MANI
+Mettez-vous à leur place. La Révolution ne leur a guère été profitable, contrairement à vous, et elles finissent sur l'échafaud tout autant. Qui vous a soutenu lorsque vous portiez les principes de la Révolution ? Elles les défendaient à vos côtés !
+$CUT_034_DISC_CROWD_017_JUDGE_JOKE
+Est-ce si difficile de cesser de battre vos épouses ? Elles vous surpassent souvent en intelligence, laissez-les donc parler, bon sang !
+$CUT_034_DISC_CROWD_018_JUDGE_HUMI
+Messieurs, vous devez y concéder. Les femmes méritent d'être mieux traitées. Elles ont mérité leur lot de la Révolution tout autant que vous. Elles ont souffert assez pour gagner ce droit.
+$CUT_034_DISC_CROWD_019_CROWD_DOUB
+Mais nous ne pouvons pas mieux les traiter.
+$CUT_034_DISC_CROWD_020_CROWD_IRRI
+Mais nous trimons pour les nourrir, nous leur donnons des enfants. Est-ce que ça ne suffit pas ? On dit que dans les pays sauvages, les femmes ont la vie bien pire, et elles ne se plaignent pas.
+$CUT_034_DISC_CROWD_021_CROWD_AGGR
+Non, nous avons déjà été trop bons avec elles. Il faut faire parler la cravache, leur rappeler qui est le maître de la maison ! Ça leur apprendra à se rebeller !
+$CUT_034_DISC_CROWD_022_JUDGE_AGGR
+Sans elles, vous n'auriez jamais eu votre Révolution ! Sans leur aide, vous seriez encore à décrotter les étables des nobles au lieu d'apprécier chaque lever de soleil. Elles se sont toujours tenues à vos côtés, mais la Révolution ne les a pas récompensées.
+$CUT_034_DISC_CROWD_023_JUDGE_MANI
+Grâce à la Révolution, vous avez gagné, Messieurs, l'égalité et la liberté. Quant aux femmes, elles sont restées à l'arrière-plan. Bien qu'elles nous soutiennent, aussitôt que nous tirons notre épingle du jeu, nous nous retournons contre elles ! Est-ce ainsi que nous voulons traiter nos femmes ?
+$CUT_034_DISC_CROWD_024_JUDGE_JOKE
+Nous nous en sommes tiré à bon compte, en effet. Nous avons arraché le pouvoir à la monarchie pour nous-mêmes, tout en laissant nos femmes continuer à laver notre linge sale.
+$CUT_034_DISC_CROWD_025_JUDGE_HUMI
+La Révolution n'a pas accompli grand-chose pour elles. Elles restent enchaînées, par ceux qui les considèrent bonnes uniquement à porter des enfants, quand elles pourraient participer à la guerre et à la politique.
+$CUT_034_DISC_CROWD_026_JUDGE_AGGR
+Vous voulez retourner aux vieilles coutumes de l'ancien monde ? Autrement, souvenez-vous que vous avez clamé « liberté, égalité, fraternité ». Fraternité, bon sang ! À quoi bon une telle devise si vous refusez qu'elle vaille pour les femmes ?
+$CUT_034_DISC_CROWD_027_JUDGE_MANI
+Voici l'occasion de montrer la véritable force de la fraternité révolutionnaire. Ce n'est qu'en étant tous solidaires dans la lutte pour notre liberté que la devise « liberté, égalité, fraternité » sera pleinement réalisée.
+$CUT_034_DISC_CROWD_028_JUDGE_JOKE
+« Liberté, égalité, fraternité » n'est pour l'instant qu'une devise creuse. En ce moment crucial, nous ne pouvons pas refuser aux femmes le dernier terme : la fraternité. Sinon autant clamer « cuisine, ménage, maternité ».
+$CUT_034_DISC_CROWD_029_JUDGE_HUMI
+Le monde a changé, citoyens. Si vous vouliez être les seuls à bénéficier de ces changements, vous auriez pu vous assurer qu'aucune femme ne verse son sang pour la Révolution. Ce n'est qu'en luttant à leurs côtés que nous exaucerons notre rêve d'une fraternité révolutionnaire totale ! Nous le leur devons.
+$CUT_034_DISC_CROWD_030_CROWD_DOUB
+Tu nous as embrouillé les idées. Pourquoi diable es-tu allé négocier avec les sorcières ?
+$CUT_034_DISC_CROWD_031_CROWD_IRRI
+Si elles sont si malines, donnons-leur des mousquets pour qu'elles aillent affronter l'ennemi, hein ! On verra bien si elles souhaitent tant être nos égales lorsque leurs amies seront éventrées sous leur yeux !
+$CUT_034_DISC_CROWD_032_CROWD_AGGR
+Tu devrais pourtant savoir ce qui arrive lorsqu'on se montre indulgent avec les femmes : elles nous poignarderont dans le dos à la première occasion ! Ou alors elles nous empoisonneront ! Il n'en est pas question !
+$CUT_034_DISC_CROWD_033_MAN
+Le règne des femmes…
+$CUT_034_DISC_CROWD_034_CROWD
+Elles peuvent avoir un bordel. Qu'elles le gouvernent !
+$CUT_034_DISC_CROWD_035_CROWD
+Pour la gloire du nouveau monde !
+$CUT_034_DISC_TOPIC_01
+Nous devons accepter les revendications des femmes.
+$CUT_034_DISC_TOPIC_02
+Elles ne sont guère exigeantes.
+$CUT_034_DISC_TOPIC_03
+Elles méritent d'être mieux traitées.
+$CUT_034_DISC_TOPIC_04
+La Révolution était censée mettre tout le monde sur un pied d'égalité.
+$CUT_034_DISC_TOPIC_05
+Seule une fraternité totale pourra nous apporter la victoire.

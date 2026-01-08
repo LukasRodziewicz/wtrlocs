@@ -1,0 +1,10 @@
+$EVE_006_TITLE
+Aux salons
+$EVE_006_MAIN_01
+Cher A.F., Au nom de mes compagnons de troupe et également à titre personnel, j'aimerais vous inviter à la première de notre toute dernière pièce, XXX. Nous jouerons dans trois jours. Vous nous feriez honneur en nous donnant l'occasion de vous divertir, vous et votre famille. Nous vous saurions gré de répondre au plus vite. Avec mes respectueuses salutations, XYZ.
+$EVE_006_MAIN_01_C1
+Confirmer la participation.
+$EVE_006_MAIN_02A
+La première fut un succès. En tout cas, c'est ce que vous suggère votre intuition rouillée. Votre épouse était resplendissante, malgré sa méconnaissance de la vie mondaine, et vos fils se sont émerveillés des tenues que portaient les autres invités. Vous voilà dorénavant intégré à l'élite de la capitale. Quelques voix protestataires se sont fait entendre au-dehors, ayant à la bouche corruption des mœurs et nécessité de se rapprocher de Dieu, sans pour autant gâcher votre soirée.
+$EVE_006_MAIN_02B
+La première fut un succès. On y a principalement discuté de la supériorité des artistes parisiens sur ceux de l'étranger, que cette pièce aurait une nouvelle fois démontrée. Le public comptait de nombreuses personnalités de premier plan, dont les noms feront les choux gras des gazettes. Quelques protestataires se sont rassemblés devant le théâtre, criant à propos de « mœurs corrompues » et « d'éloignement de Dieu », mais personne ne s'en souciait.

@@ -1,0 +1,36 @@
+$DIAL_H_01_03_26_001_SON
+Díselo tú, mamá.
+$DIAL_H_01_03_26_002_WIFE
+…
+$DIAL_H_01_03_26_003_JUDGE
+¡¿Qué?!
+$DIAL_H_01_03_26_004_SON
+Díselo tú, o lo haré yo.
+$DIAL_H_01_03_26_005_JUDGE
+¡¿Qué quieres que ella me diga?!
+$DIAL_H_01_03_26_006_WIFE
+Hemos oído que tienes a la hija del alcalde…
+$DIAL_H_01_03_26_007_JUDGE
+Sí, el juicio está programado para mañana.
+$DIAL_H_01_03_26_008_WIFE
+¿Entonces todo depende de ti?
+$DIAL_H_01_03_26_009_JUDGE
+No lo haré.
+$DIAL_H_01_03_26_010_WIFE
+¿Por qué no?
+$DIAL_H_01_03_26_011_JUDGE
+¡Sería una deshonra!
+$DIAL_H_01_03_26_012_WIFE
+¿¡Y matar a nuestros hijos no lo es!?
+$DIAL_H_01_03_26_013_JUDGE
+No puedo, ella no tiene la culpa.
+$DIAL_H_01_03_26_014_SON
+Mátala.
+$DIAL_H_01_03_26_015_JUDGE
+Eres tan joven, y hablas del asesinato como si no significara nada.
+$DIAL_H_01_03_26_016_SON
+Que sufran como nosotros. Mátala. ¡Queremos su sangre! Enviar a mi hermano al patíbulo no significó nada para ellos.
+$DIAL_H_01_03_26_017_JUDGE
+Me asustas…
+$DIAL_H_01_03_26_018_WIFE
+De verdad te asustarás si no haces lo que te dijimos.

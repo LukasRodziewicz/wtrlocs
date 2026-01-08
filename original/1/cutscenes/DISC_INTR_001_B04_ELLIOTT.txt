@@ -1,0 +1,42 @@
+$DISC_INTR_001_B04_ELLIOTT_001_JUDGE_AGGR
+Roland is a rotten louse. Corruption cannot become the hallmark of the new authorities.
+$DISC_INTR_001_B04_ELLIOTT_002_JUDGE_MANI
+Does Roland really represent the people? Or is he instead working to the benefit of Capet and his servants?
+$DISC_INTR_001_B04_ELLIOTT_003_JUDGE_JOKE
+We need to get rid of Roland for his own good. His pockets will soon burst apart from the amount of money he keeps in them.
+$DISC_INTR_001_B04_ELLIOTT_004_JUDGE_HUMI
+France is bleeding and people like Roland will not let it heal its wounds. On the contrary, they only make them deeper.
+$DISC_INTR_001_B04_ELLIOTT_005_ELLIOTT_INTR
+Who could have thought you would turn from a sheep into a wolf and so intuitively smell wounded prey that quickly?
+$DISC_INTR_001_B04_ELLIOTT_006_ELLIOTT_DOUB
+We know the Rolands. Madame Roland’s in charge and her husband fulfils her orders. Maybe it’s not him who’s guilty?
+$DISC_INTR_001_B04_ELLIOTT_007_ELLIOTT_IRRI
+I survived in this city mostly because I didn’t take part in the dirty games played by men.
+$DISC_INTR_001_B04_ELLIOTT_008_JUDGE_AGGR
+Roland is not only guilty of bribes. He threatened a Judge of the Revolutionary Tribunal. The independent judiciary!
+$DISC_INTR_001_B04_ELLIOTT_009_JUDGE_MANI
+In order to avoid punishment, Roland started a vendetta against me. By doing so, did he not declare war on the new order?
+$DISC_INTR_001_B04_ELLIOTT_010_JUDGE_JOKE
+Mr and Mrs Roland are two mosquitoes, biting me, draining the blood of France. Nobody likes mosquitoes.
+$DISC_INTR_001_B04_ELLIOTT_011_JUDGE_HUMI
+My own antipathy towards the minister does not change the fact that we should replace this corrupt Royalist with someone more just.
+$DISC_INTR_001_B04_ELLIOTT_012_JUDGE_AGGR
+If you do not persuade the deputies, it will be proof that you tolerate the traitors who are still exercising their influence throughout France!
+$DISC_INTR_001_B04_ELLIOTT_013_JUDGE_MANI
+If the deputies see that you want Roland to be gone, maybe they will stop suspecting you of being a Royalist?
+$DISC_INTR_001_B04_ELLIOTT_014_JUDGE_JOKE
+The Girondins often trip over their own feet. You need only give them a gentle push.
+$DISC_INTR_001_B04_ELLIOTT_015_JUDGE_HUMI
+There are times when Roland is closer to the Ancien Régime than Louis. If you want to be rid of the old order, now is your chance.
+$DISC_INTR_001_B04_ELLIOTT_016_ELLIOTT_INTR
+At first, I wasn’t sure about fighting against Minister Roland, but I must say that you’ve managed to convince me. This can work, and I will help you.
+$DISC_INTR_001_B04_ELLIOTT_017_ELLIOTT_DOUB
+My friends and I won’t benefit from an attempt to remove the Minister of Internal Affairs.
+$DISC_INTR_001_B04_ELLIOTT_018_ELLIOTT_IRRI
+Roland is not France’s biggest problem, hungry Citizens are!
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_01
+What do we want to achieve?
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_02
+Why do we want it?
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_03
+What will she get out of it?

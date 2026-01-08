@@ -1,0 +1,26 @@
+$DIAL_H_03_01_01_001_JUDGE
+Comment te sens-tu aujourd'hui, Bernard ?
+$DIAL_H_03_01_01_002_BERNARD
+Qu'est-ce que tu vois ?
+$DIAL_H_03_01_01_003_JUDGE
+Pardon ?
+$DIAL_H_03_01_01_004_BERNARD
+J'ai dit : qu'est-ce que tu vois ?
+$DIAL_H_03_01_01_005_JUDGE
+Toi, mon fils.
+$DIAL_H_03_01_01_006_BERNARD
+Non, tu regardes un monstre. Mutilé et humilié. Qu'on a privé de ses rêves.
+$DIAL_H_03_01_01_007_JUDGE
+Ce n'est pas vrai. Tu as tant à vivre…
+$DIAL_H_03_01_01_008_BERNARD
+Vivre quoi, au juste ?! Quoi ?! Avoir une carrière ? Regarde, je ne pourrai plus jamais jouer ! C'est ce que tu voulais, non ? Allez, avoue !
+$DIAL_H_03_01_01_009_JUDGE
+Jamais de la vie.
+$DIAL_H_03_01_01_010_BERNARD
+Je ne te crois pas ! Plus jamais je ne te croirai. Tu disais que tu prendrais soin de nous. Mais personne ne peut arrêter cette folie. Cette terrible révolution. Cette famille maudite, avec ses morts qui se relèvent pour harceler les vivants.
+$DIAL_H_03_01_01_011_BERNARD
+Peut-être est-ce un signe des temps ? Et les gens qu'on a décapités à cause de toi ? Est-ce qu'ils reviendront nous tuer ? Peut-être que le roi sortira de son tombeau pour venir en personne m'arracher les jambes, tant que je les ai ?!
+$DIAL_H_03_01_01_012_JUDGE
+Je suis navré, mon fils. Je le suis vraiment.
+$DIAL_H_03_01_01_013_BERNARD
+Moi aussi. Tu m'excuseras, je dois réfléchir à comment gâcher le reste de mon existence, que tu as épargnée dans ta pitié cruelle.

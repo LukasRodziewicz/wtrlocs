@@ -1,0 +1,30 @@
+$CUT_049_001
+That Agent you asked me to silence yesterday… Well, I did, but there is something you should see.
+$CUT_049_002_JUDGE
+Do you want to show me a common dead body?
+$CUT_049_003_GUARDSMAN
+It’s not just a dead body. Look at that necklace.
+$CUT_049_004_JUDGE
+A fleur-de-lis.
+$CUT_049_005_GUARDSMAN
+There’s more hidden under his clothes.
+$CUT_049_006_GUARDSMAN
+We found a message in the inner pocket of his cloak.
+$CUT_049_007_GUARDSMAN
+It’s an order. Someone told that man to build support for a mysterious “R” in the district.
+$CUT_049_008_JUDGE
+Who is arrogant enough to take Louis’s place?
+$CUT_049_009_GUARDSMAN
+Only aristocrats are powerful enough to secretly organise people like him.
+$CUT_049_010_JUDGE
+Even they would need help from someone in the Convention. So who is “R”?
+$CUT_049_011_GUARDSMAN
+Robespierre maybe? If he’s allying with aristocrats, we must tell… someone, everyone!
+$CUT_049_012_JUDGE
+It could also be Minister Roland. As long as we are not sure, we would only create panic.
+$CUT_049_013_GUARDSMAN
+If that’s the case, we’ll have to hunt down other agents. This one won’t be telling us anything.
+$CUT_049_014_JUDGE
+We have no other choice.
+$CUT_049_015_JUDGE
+If this “R” is trying to gain support, you must do the same. For the greater good…

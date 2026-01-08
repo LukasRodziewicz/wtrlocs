@@ -1,0 +1,54 @@
+$DISC_INTR_003_B08_ELLIOTT_001_JUDGE
+Tout ce tumulte autour de Gobel… c'est arrivé si soudainement. Si nous ne prenons pas position, les gens trouverons cela suspect.
+$DISC_INTR_003_B08_ELLIOTT_002_ELLIOT
+Croiront-ils que nous sommes du côté des menteurs et des traîtres ?
+$DISC_INTR_003_B08_ELLIOTT_003_JUDGE
+C'est vrai.
+$DISC_INTR_003_B08_ELLIOTT_004_JUDGE_AGGR
+La rue échappe à notre contrôle. L'agitation peut désormais s'emparer de tout un chacun et il devient difficile de pacifier les foules.
+$DISC_INTR_003_B08_ELLIOTT_005_JUDGE_MANI
+La situation nous échappe. Hier, une jeune fille a été passée à tabac parce qu'on l'a suspectée d'espionnage pour le compte des contre-révolutionnaires. Qui sait qui sera leur prochaine cible… Toi, moi… ?
+$DISC_INTR_003_B08_ELLIOTT_006_JUDGE_JOKE
+Tant que les gens ne jetaient que des tomates pourries aux boucs émissaires qu'ils se donnaient, la situation était tolérable. Mais ils se sont désormais armés de bâtons. Cela commence à me donner froid dans le dos, pas vous ?
+$DISC_INTR_003_B08_ELLIOTT_007_JUDGE_HUMI
+Je sais bien que j'ai promis de servir le peuple et défendre la liberté, mais nos citoyens se donnent le même but avec des moyens excessifs.
+$DISC_INTR_003_B08_ELLIOTT_008_ELLIOT_SATI
+Je perçois la colère du peuple chaque fois que je flâne au marché. La terre tremble, les gens pestent, mais ils n'ont pas encore trouvé leur cible.
+$DISC_INTR_003_B08_ELLIOTT_009_ELLIOT_INTR
+Ce n'est pas le fruit du hasard, n'est-ce pas ? Quoi qu'il en soit, poursuivez.
+$DISC_INTR_003_B08_ELLIOTT_010_ELLIOT_DOUB
+Tu y as pris part, n'est-ce pas ? J'ai entendu dire que tu avais des ennuis avec Gobel.
+$DISC_INTR_003_B08_ELLIOTT_011_JUDGE_AGGR
+Gobel a tout gâché ! Avec un secret pareil, il aurait dû tout faire pour s'assurer que rien ne s'ébruite. Au lieu de cela, il s'est comporté de la manière la plus puérile qui soit !
+$DISC_INTR_003_B08_ELLIOTT_012_JUDGE_MANI
+Si les rumeurs s'avèrent vraies, la présence de Gobel ne fera qu'empirer les choses. Voulons-nous que le gouvernement soit corrompu aux yeux du peuple ? Ma réputation est en jeu, tout comme la tienne et celle de tes amis à la Convention.
+$DISC_INTR_003_B08_ELLIOTT_013_JUDGE_JOKE
+Gobel s'est attiré des ennuis au pire moment possible. Peut-être le Pape a-t-il enfin obtenu vengeance ? Dieu a fini par écouter ses prières et châtier l'archevêque pour avoir prêté serment à la constitution civile…
+$DISC_INTR_003_B08_ELLIOTT_014_JUDGE_HUMI
+Je ne cherche pas à prononcer de condamnation par contumace, mais il semblerait que la colère du peuple a révélé de vieux secrets. Comme celui de l'archevêque Gobel. Peut-être devrions-nous prendre les choses en main ?
+$DISC_INTR_003_B08_ELLIOTT_015_ELLIOT_SATI
+Je ne l'ai jamais porté dans mon cœur. Certaines rumeurs, certes jamais confirmées, prétendent qu'il fut mêlé à la traite négrière.
+$DISC_INTR_003_B08_ELLIOTT_016_ELLIOT_INTR
+Je vois que tu as les dignitaires en mire. Que suggères-tu ?
+$DISC_INTR_003_B08_ELLIOTT_017_ELLIOT_DOUB
+Bien que Gobel ait renié sa foi, je doute qu'il abandonne aussi aisément ses codignitaires. Il ne se soumettra pas sans combattre, quand bien même la foule serait de notre côté.
+$DISC_INTR_003_B08_ELLIOTT_018_JUDGE_AGGR
+Nous ne pouvons pas payer pour les agissements d'un groupe particulier. Avec tous ses mensonges et sa dégénérescence, l'Église n'a pas eu son pareil pour jeter de l'huile sur le feu. Livrons-la à la colère du peuple et retrouvons la paix.
+$DISC_INTR_003_B08_ELLIOTT_019_JUDGE_MANI
+Face à un tigre affamé, il convient d'offrir une proie en pâture pour détourner son attention et pouvoir vivre ensuite en paix. Et puisque le tigre désire plonger ses crocs dans le clergé…
+$DISC_INTR_003_B08_ELLIOTT_020_JUDGE_JOKE
+Nous n'avons guère d'autre choix. Ils en veulent au clergé, offrons-le-leur donc. Les voilà qui accusent le clergé de trahison ? Contentons-nous de porter leur parole. Quoi de plus simple et efficace ?
+$DISC_INTR_003_B08_ELLIOTT_021_JUDGE_HUMI
+Je suis opposé à l'idée de s'en prendre à l'Église. Elle se délite d'elle-même aux mains de dégénérés, que maudissent nos citoyens. Il devient nécessaire de couper les ponts avec cette institution. Au nom de l'intérêt général.
+$DISC_INTR_003_B08_ELLIOTT_022_ELLIOT_SATI
+Tu as mon soutien. J'intercéderai pour toi auprès de mes amis de la Convention.
+$DISC_INTR_003_B08_ELLIOTT_023_ELLIOT_INTR
+Je suis prête à intervenir si cela peut suffire à éteindre les braises. La tranquillité des rues m'importe plus qu'un archevêque.
+$DISC_INTR_003_B08_ELLIOTT_024_ELLIOT_DOUB
+Tu m'en vois désolée, mais je préfère ne pas m'opposer à Gobel tant que j'ignorerai tes intentions véritables.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_01
+La situation dans les rues devient incontrôlable.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_02
+Les troubles autour de Gobel n'ont fait que jeter de l'huile sur le feu.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_03
+Nous devons punir quelqu'un en exemple et les gens en veulent au clergé.

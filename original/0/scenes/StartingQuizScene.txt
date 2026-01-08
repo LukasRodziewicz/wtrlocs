@@ -1,0 +1,49 @@
+$SURVIVAL_QUIZ_RESULT_HEADER
+Wynik
+$SURVIVAL_QUIZ_RESULT_DESC
+To są twoje startowe wartości relacji z frakcjami.
+
+$SURVIVAL_QUIZ_QUESTION_01
+W korytarzu sądowym wpadła na mnie młoda, nad wyraz urodziwa kobieta. Miała na sobie elegancką suknię, lecz delikatnie znoszoną i miejscami powycieraną. Kobieta zaczęła mówić, zanim jeszcze zdążyłem ją przeprosić za zderzenie. Przedstawiła się jako Désirée Plouffe, córka hrabiego. Jej narzeczony został osadzony w areszcie – jako powód podano działania kontrrewolucyjne, ale nie przedstawiono szczegółowego oskarżenia. Panna Plouffe wyciągnęła kopertę z liścikiem i łamiącym się głosem poprosiła, żebym przekazał go oskarżonemu.
+$SURVIVAL_QUIZ_QUESTION_01_A1
+Zamknąłem kobietę na klucz w jednym z pokoi służbowych i poszedłem po Gwardię. Nie chcę, by ktoś mnie sądził za korupcję.
+$SURVIVAL_QUIZ_QUESTION_01_A2
+Wziąłem liścik i obiecałem pomóc. Zwykli petenci na korytarzu patrzyli na mnie wilkiem…
+$SURVIVAL_QUIZ_QUESTION_01_A3
+„Patrzcie, ludzie” – powiedziałem głośno. „Szlachciance się wydaje, że może więcej niż inni”. Podarłem liścik i rzuciłem jej pod nogi.
+
+$SURVIVAL_QUIZ_QUESTION_02
+Szedłem wtedy ulicą. Pamiętam, że podziwiałem, jak się zmienia Paryż. Nad sklepami wymieniano szyldy, lud wynosił z magnackich siedzib inkrustowane meble. Ludzie ładowali te dobra na wozy, wywozili je, rozdawali. Jakiś mężczyzna wyszedł z bramy z butelką wina w dłoni i krzyknął: „To z piwnicy pana Jacquemarda. Chodźcie, pijcie z nami”.
+$SURVIVAL_QUIZ_QUESTION_02_A1
+Poszedłem pić z nimi. Całą noc spędziliśmy w piwnicy, rozmawiając o potrzebach Francji.
+$SURVIVAL_QUIZ_QUESTION_02_A2
+Zawołałem Gwardię, żeby zarekwirowała wino z piwnicy na potrzeby rewolucji.
+$SURVIVAL_QUIZ_QUESTION_02_A3
+Powiedziałem im, kim jestem, i pogroziłem karą za kradzież – uciekali, aż się kurzyło. Poradziłem właścicielowi, żeby ukrył cenne rzeczy na wsi.
+
+$SURVIVAL_QUIZ_QUESTION_03
+Byłem kiedyś świadkiem przykrej sceny na podwórku przy fontannie. Kilku wyrostków rzucało kamieniami w dobrze ubranego młodzieńca, krzycząc: „Jedz, hrabino, smacznego!”. Młody szlachcic, zapędzony w róg, jedynie osłaniał twarz, przyjmując kolejne pociski, które trafiały nie tylko w niego, ale także w okna, pękające na drobne kawałki przy wtórze krzyczących mieszkańców.
+$SURVIVAL_QUIZ_QUESTION_03_A1
+Podniosłem z ziemi kilka kamyków i rzuciłem w „hrabiego”, by następnie odejść w swoją stronę.
+$SURVIVAL_QUIZ_QUESTION_03_A2
+Przegoniłem bandę dzieciaków, rozdając im razy laską, a młodemu szlachcicowi podałem chusteczkę, żeby otarł krwawiące skaleczenia.
+$SURVIVAL_QUIZ_QUESTION_03_A3
+Kazałem aresztować wyrostków za wandalizm. Dla paryżan skończył się czas strachu.
+
+$SURVIVAL_QUIZ_QUESTION_04
+Na placu w pobliżu katedry Notre Dame widziałem pijanego mężczyznę. Szedł po ulicy, krzycząc: „Chamy, chamy przejęły miasto” i wygrażając ludziom laską z gałką z kości słoniowej. Widziałem, jak ludzie szepczą do siebie i pokazują na niego palcami. Przechodzące praczki obchodziły go szerokim łukiem, a kilku murarzy chwyciło w ręce kamienie.
+$SURVIVAL_QUIZ_QUESTION_04_A1
+Podszedłem i uderzyłem go mocno w twarz, aż siadł na trotuarze.
+$SURVIVAL_QUIZ_QUESTION_04_A2
+Kiedy wpadłem na patrol Gwardii, doniosłem o podejrzanym osobniku.
+$SURVIVAL_QUIZ_QUESTION_04_A3
+Wziąłem mężczyznę pod rękę. „Chodź, napijemy się wina” – powiedziałem, po czym zabrałem go z ulicy, zapewne ratując przed linczem.
+
+$SURVIVAL_QUIZ_QUESTION_05
+Czterech gwardzistów stało przy straganie starszego mężczyzny, nieopodal świeżo wyremontowanego budynku. Na blacie leżały warzywa, między innymi kilka pęczków zeschniętej od słońca marchewki i sałata. „Przeganiacie mnie, bo pan Moisan wam zapłacił” – krzyczał handlarz prosto w wykrzywione grymasem twarze gwardzistów. „Szlachciura pewnie wolałby, żebym sprzedawał srebrną zastawę lub antyczne rzeźby, tak? A co, handlarz warzywami obniża wartość jego nieruchomości?!” – kontynuował rozsierdzony kramarz.
+$SURVIVAL_QUIZ_QUESTION_05_A1
+Przedstawiłem się i wydałem gwardzistom rozkaz, by dali spokój handlarzowi.
+$SURVIVAL_QUIZ_QUESTION_05_A2
+To nie była moja sprawa, zapewne gwardziści mieli swoje… „powody”.
+$SURVIVAL_QUIZ_QUESTION_05_A3
+Skoro gwardziści otrzymali rozkaz, to powinni go wykonać bez wahania. Asystowałem przy aresztowaniu.

@@ -1,0 +1,28 @@
+$EVE_015_TITLE
+Deal of a Lifetime
+$EVE_015_MAIN_01
+A man by the name of Blaise Roy paid your wife a visit. It turns out they used to be… emotionally involved. Roy borrowed money from two Parisian banks to open a weaving shop, and as you may guess, the business did not work out. He tried to postpone the payment for the loans and while one of the banks agreed, the other did not. Roy hopes that you will use your position to help him. He is putting pressure on your wife, claiming that “she owes him”.
+$EVE_015_MAIN_01_C1
+Investigate the matter
+$EVE_015_MAIN_01_C2
+Arrest the man
+$EVE_015_MAIN_01_C3
+Ignore the issue
+$EVE_015_MAIN_02A
+It is worth considering why the bank refused to postpone the date of payment. Apparently the bank’s director, Abel Daquin, is the one who is so strongly opposed. He has a wife and daughter. Rumour has it they both let Roy a little too close to them. Mr Daquin found out, and is now willing to lose the money lent by the bank.
+$EVE_015_MAIN_02A_C1
+Arrest Blaise Roy
+$EVE_015_MAIN_02A_C2
+Ask the director of the bank for a favour
+$EVE_015_MAIN_02A_C3
+Intimidate the director of the bank
+$EVE_015_MAIN_02B
+You could surely sense a hint of blackmail in the man’s request, but what else would you expect from a person with their back against the wall?
+$EVE_015_MAIN_02C
+It is understandable that you are uninterested in the affairs of lesser people – including those of your wife’s former suitors. So be it.
+$EVE_015_MAIN_03B
+There is nothing like having a little chat with someone at your level. For the bank’s director, Blaise Roy could as well be a flea – irritating but harmless, and lacking the resources to seriously oppose him. The judge of the Tribunal, however, is another thing entirely. You invited him for a glass of wine and told him that you have taken an interest in the poor fellow’s situation. Abel Daquin did not care at all – until you promised him your lifelong gratitude and a favour. He had a sudden change of heart and agreed to postpone the date of the payment.
+$EVE_015_MAIN_03C
+The banker was not delighted when you and two huge guards dressed in civil clothes paid him a visit. Well, the wooden sticks did not really match their shoes. Daquin listened carefully to your arguments and agreed to postpone the date of the payment. But he surely will not forget.
+$EVE_015_MAIN_03E
+I am sorry to be the bearer of bad news. Blaise Roy took his life in prison. Poor thing, he cut his wrists somehow. It seems there will be no trial…

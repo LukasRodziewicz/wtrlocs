@@ -1,0 +1,158 @@
+$GEN_039_DOC_1_HEADER
+Compilado por: Charles Étienne
+$GEN_039_DOC_1_00
+Tarde en la noche, en uno de los oscuros callejones cerca del Panteón, una patrulla de la Guardia Nacional detuvo <a name="1" class="hidden">una pelea</a> entre dos hombres elegantes. Cuando los soldados se acercaron a los agresores, vieron que uno de ellos, mayor y de barba canosa, estaba de pie sobre su oponente caído, gritándole furioso y dándole patadas.
+$GEN_039_DOC_1_01
+Tres fornidos soldados intervinieron para detener a los alborotadores y se vieron obligados a usar las culatas de sus fusiles. A los dos <a name="3" class="hidden">andrajosos y ensangrentados</a> hombres los llevaron a la estación más cercana, donde el oficial de turno determinó, por su aliento, que ninguno de los dos había bebido vino esa noche.
+$GEN_039_DOC_1_02
+El agresor fue interrogado de inmediato, pero solo balbuceaba de forma incomprensible. El teniente logró anotar únicamente dos palabras: <a name="5" class="hidden">"diccionario"</a> y "plagio". Más tarde, al pedirle que repitiera su declaración, el hombre de barba gris afirmó que le habían <a name="6" class="hidden">robado</a>. El nombre del hombre golpeado es Léonard Pomeroy. Está vivo, pero no podrá hablar con nadie durante un tiempo debido a una mandíbula rota.
+$GEN_039_OnStart_00
+Por favor, preséntese.
+$GEN_039_OnStart_01
+El profesor Hugo Trottier, antiguo catedrático de la Sorbona —esa verdadera universidad antes de la Revolución, hoy cerrada.
+$GEN_039_OnStart_02
+Por favor, explique por qué agredió a ese hombre.
+$GEN_039_OnStart_03
+Ambos somos lexicógrafos. Sin embargo, yo llevo más de quince años trabajando en mi obra, mientras que él es un chapucero, es decir, alguien que comete errores por su incompetencia.
+$GEN_039_OnStart_04
+¿Qué tiene que ver eso con la agresión?
+$GEN_039_OnStart_05
+¡Esa “víctima”, como usted la llama, es un ignorante y un ladrón! Copió decenas de entradas de mi diccionario y luego tuvo el descaro de negarlo ante testigos.
+$GEN_039_OnStart_06
+¿Por qué no informó de esto a la Guardia?
+$GEN_039_OnStart_07
+Les hice una visita, pero no mostraron más que un absoluto desprecio, que es una palabra para…
+$GEN_039_OnStart_08
+Sabemos lo que significa “desprecio”.
+$GEN_039_OnGuilty_00
+Cualesquiera que sean las razones, ha cometido un crimen inadmisible, y su castigo será la guillotina.
+$GEN_039_OnGuilty_01
+¡Qué valentía! Aunque le comprendo, no debemos mostrar indulgencia con este tipo de personas.
+$GEN_039_OnGuilty_02
+¿La guillotina por una pelea? ¡Qué tiempos tan convulsos!
+$GEN_039_OnPrison_00
+Por el asalto al ciudadano Pomeroy, le condeno a prisión. Guardias, saquen al condenado.
+$GEN_039_OnPrison_01
+La justicia prevalece.
+$GEN_039_OnPrison_02
+¡Bien merecido lo tiene, ese gordo bamboleante de la Sorbona!
+$GEN_039_OnNotGuilty_00
+El acusado actuó movido por un impulso. El veredicto es... no culpable.
+$GEN_039_OnNotGuilty_01
+¿Y si mañana mata a alguien por impulso? ¿Quién será responsable de esa muerte?
+$GEN_039_OnNotGuilty_02
+¡Esto debe de ser un error! ¿Acaso el juez sabe lo que está haciendo?
+$GEN_039_02x05_00_QTitle
+Ambos son hombres de ciencia. ¿Cómo pueden personas cultas comportarse así?
+$GEN_039_02x05_00_00
+Ambos son hombres de ciencia. ¿Cómo pueden personas cultas comportarse así?
+$GEN_039_02x05_00_01
+Señor juez, ¿conoce usted el término “crimen pasional”? Significa “cometer un delito bajo un impulso repentino y poderoso, estando en un estado de gran agitación”. Cuando se comete un crimen en ese estado, uno siente una agresión súbita e insoportable.
+$GEN_039_02x05_00_02
+¿Y qué provocó su crimen pasional?
+$GEN_039_02x05_00_03
+Plagio: “el acto de apropiarse indebidamente del trabajo ajeno y publicarlo bajo el propio nombre”. ¡El plagio debe ser perseguido con todo el rigor de la ley!
+$GEN_039_02x05_00_04
+Tal vez, pero en este momento estamos juzgando la agresión que usted cometió.
+$GEN_039_02x05_00_05
+Y lo admito.
+$GEN_039_02x05_00_06
+¿Lo oíste? ¡Golpeó a un hombre en público y lo admite sin reparos!
+$GEN_039_01x04_01_QTitle
+¿Consumió alcohol el día del asalto?
+$GEN_039_01x04_01_00
+¿Consumió alcohol el día del asalto?
+$GEN_039_01x04_01_01
+Por supuesto que no, rara vez bebo.
+$GEN_039_01x04_01_02
+¿Entonces no fue una pelea provocada por la embriaguez?
+$GEN_039_01x04_01_03
+Nos encontramos por casualidad. ¡Exigí que Pomeroy comprara una columna en un periódico y admitiera haber plagiado mi diccionario!
+$GEN_039_01x04_01_04
+¿Y supongo que el ciudadano Pomeroy no aceptó eso?
+$GEN_039_01x04_01_05
+Por supuesto que no, es una persona mezquina, un vocero revolucionario. Gente así nunca admite sus errores.
+$GEN_039_01x04_01_06
+¿“Pregonero revolucionario”? ¿Eso pretendía insultar a los revolucionarios?
+$GEN_039_01x04_01_07
+¡No a todos, solo a los ladrones!
+$GEN_039_01x04_01_08
+Baje la voz.
+$GEN_039_01x04_01_09
+¿Así que considera ese adjetivo insultante? Creo que ya sabemos todo lo necesario sobre sus opiniones políticas.
+$GEN_039_03x02_02_QTitle
+El investigador señaló en su informe que ambos tenían sangre en la ropa…
+$GEN_039_03x02_02_00
+El investigador señaló en su informe que ambos tenían sangre en la ropa, pero en el momento de su detención, el ciudadano Pomeroy no intentó defenderse.
+$GEN_039_03x02_02_01
+Fue una pelea, es decir, “una riña a puñetazos entre al menos dos personas, donde ambas son tanto agresoras como víctimas”.
+$GEN_039_03x02_02_02
+¿Está insinuando que usted también resultó herido?
+$GEN_039_03x02_02_03
+Por supuesto, pero derribé a Pomeroy, ese fracaso andante, antes de que pudiera hacerme lo mismo.
+$GEN_039_03x02_02_04
+¿Así que fue usted quien lo abordó en la calle?
+$GEN_039_03x02_02_05
+Exacto. Exigí sus disculpas.
+$GEN_039_03x02_02_06
+¿Y cuando se negó, le pegaste?
+$GEN_039_03x02_02_07
+Seguro que fue él quien empezó. ¡Y ahora sale con tonterías sobre una pelea!
+$GEN_039_03x02_02_08
+Él empezó, robándome.
+$GEN_039_05x06_03_QTitle
+¿Qué le robó la víctima?
+$GEN_039_05x06_03_00
+¿Qué le robó la víctima?
+$GEN_039_05x06_03_01
+Pomeroy copió toda la sección de la “S” de mi diccionario en su propio libro.
+$GEN_039_05x06_03_02
+¿Y cómo puede estar tan seguro?
+$GEN_039_05x06_03_03
+Solo tiene que buscar la entrada: “Saturio: una aleación de cobre, zinc y oro utilizada por los antiguos romanos para acuñar monedas”.
+$GEN_039_05x06_03_04
+¿Y qué prueba eso?
+$GEN_039_05x06_03_05
+Era un engaño, es decir, “una mentira que pretende pasar por verdad”. ¡No existe ningún saturiano! Lo inventé para saber si alguien copiaba mi diccionario sin pensar.
+$GEN_039_05x06_03_06
+¿No está usted engañando a sus propios lectores?
+$GEN_039_05x06_03_07
+Por supuesto que no. Nadie buscaría esa entrada, ya que me la inventé.
+$GEN_039_KEY_01
+Pelea
+$GEN_039_KEY_02
+Patear a la víctima cuando ya estaba en el suelo
+$GEN_039_KEY_03
+Ropas desgarradas, manchadas de sangre
+$GEN_039_KEY_04
+Sin vino
+$GEN_039_KEY_05
+Diccionario
+$GEN_039_KEY_06
+Robo
+$GEN_039_LastDialog_00
+¿Me castiga para que el ladrón robe el resto de mi libro?
+$GEN_039_UNIQUE_QUESTION_00
+¿Por qué atacó el acusado a la víctima?
+$GEN_039_UNIQUE_ANSWER_CORRECT_00_00
+Por plagio.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Por una acusación.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Por infidelidad conyugal.
+$GEN_039_UNIQUE_QUESTION_01
+¿Qué quería el acusado de la víctima?
+$GEN_039_UNIQUE_ANSWER_CORRECT_01_00
+Disculpas publicadas en un periódico.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Dinero.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Un duelo honorable.
+$GEN_039_UNIQUE_QUESTION_02
+¿Cuál fue la excusa de Trottier para el asalto?
+$GEN_039_UNIQUE_ANSWER_CORRECT_02_00
+Crimen pasional.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Un malentendido.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_02_01
+El comportamiento provocador de la víctima.

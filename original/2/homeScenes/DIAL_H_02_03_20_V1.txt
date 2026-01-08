@@ -1,0 +1,32 @@
+$DIAL_H_02_03_20_V1_001_JUDGE
+Te voilà enfin.
+$DIAL_H_02_03_20_V1_002_DAVID
+Alexis… Ton frère est venu me voir. Celui-là même que l'on supposait mort.
+$DIAL_H_02_03_20_V1_003_JUDGE
+Jacques, j'ignore ce qu'il...
+$DIAL_H_02_03_20_V1_004_DAVID
+Laisse-moi parler. J'ai toujours perçu ta véritable nature. J'ai observé ton ascension progressive, mais ce que tu es devenu ne me saute aux yeux que maintenant. Maintenant que je l'ai rencontré.
+$DIAL_H_02_03_20_V1_005_JUDGE
+C'est un monstre !
+$DIAL_H_02_03_20_V1_006_DAVID
+Vous êtes tous deux des monstres. Cependant, après tout ce que j'ai entendu, je crains que ce ne soit pas lui le pire.
+$DIAL_H_02_03_20_V1_007_JUDGE
+Comment peux-tu dire ça ? Nous sommes amis. Lui… ne cherche qu'à restaurer le régime précédent !
+$DIAL_H_02_03_20_V1_008_DAVID
+Non, Alexis. Il veut une réelle égalité et fraternité. Il veut que les personnes rejetées par la Révolution puissent rentrer chez elles.
+$DIAL_H_02_03_20_V1_009_JUDGE
+Et tu le crois vraiment ? Regarde ce qu'il nous a fait !
+$DIAL_H_02_03_20_V1_010_DAVID
+Ce n'est guère pire que ce que tu as fait à ceux qui se sont dressés sur ton chemin. Navré, très cher, mais notre amitié touche à sa fin. Quelles sont donc tes limites ? Tu es allé trop loin en supprimant Robespierre. Nous avons versé bien trop de sang, Alexis, et voici pour moi une chance de me racheter. Du moins en partie.
+$DIAL_H_02_03_20_V1_011_JUDGE
+Que comptes-tu faire ?
+$DIAL_H_02_03_20_V1_012_DAVID
+Je vais me rallier à ton frère. Tout ceci doit cesser. Je conduirai son armée et veillerai à ce que notre pays ne connaisse plus d'effusion de sang !
+$DIAL_H_02_03_20_V1_013_JUDGE
+Vas-tu nous combattre, moi et Ramel ?
+$DIAL_H_02_03_20_V1_014_DAVID
+Personne ne te soutient. J'ai déjà convaincu ta garde de nous rejoindre et Ramel accompagnait ton frère lors de sa visite chez moi. Il a toujours été contre toi, semble-t-il.
+$DIAL_H_02_03_20_V1_015_JUDGE
+Il m'a mené à l'abattoir. Moi, son ami.
+$DIAL_H_02_03_20_V1_016_DAVID
+Au revoir, Alexis. J'espère seulement que je n'aurai pas à te tuer si je te revois. La France a enterré assez de ses enfants.

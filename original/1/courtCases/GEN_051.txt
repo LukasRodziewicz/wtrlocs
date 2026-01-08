@@ -1,0 +1,242 @@
+$GEN_051_DOC_01_HEADER
+Compiled by: Charles Etienne
+$GEN_051_DOC_01_00
+	Marc Pinnet is a 42-year-old widower and a master of gunpowder production. The craftsman’s employees like him, he is generally respected, and he has never been in trouble with the law. Yet two of his female employees have accused him of <a name="4" class="hidden">rape</a>. 
+$GEN_051_DOC_01_01
+	Because of the current high demand for gunpowder in Paris, the shop is working day and night and employs twice as many people as usual. Citizens Vaganay and Bacque have been working there for only a few weeks and had not met before.
+$GEN_051_DOC_01_02
+	Marc Pinnet allegedly assaulted both of them during their night shifts in the storehouse behind <a name="3" class="hidden">the mill</a>. They testified that he threatened them with a knife and ordered them to enter the storehouse and get undressed. After he finished, he gave both of them <a name="5" class="hidden">a few copper coins</a>. 
+$GEN_051_DOC_01_03
+	They only dared to denounce him after a few days when they found out about each other’s terrible experiences.
+$GEN_051_DOC_01_04
+	We wish to express our solidarity with the defenders of Paris and ask for the quick resolution of Marc Pinnet’s trial. Gunpowder is currently more important to us than gold.
+$GEN_051_OnStart_00
+Are you Citizen Pinnet?
+$GEN_051_OnStart_01
+That I am.
+$GEN_051_OnStart_02
+You have been accused of rape by two Citizens.
+$GEN_051_OnStart_03
+This is a misunderstanding. I paid them what they were due. Why are they now holding a grudge against me?
+$GEN_051_OnStart_04
+Did they ask you for that money?
+$GEN_051_OnStart_05
+If they didn’t, they wouldn’t have put it in their pockets, would they?
+$GEN_051_OnStart_06
+They claim that you threatened them with a knife.
+$GEN_051_OnStart_07
+I always carry it, but I didn’t threaten anyone.
+$GEN_051_OnGuilty_00
+He who hurts one Parisian woman hurts us all. Send him to the guillotine.
+$GEN_051_OnGuilty_01
+I have nothing to add.
+$GEN_051_OnGuilty_02
+A specialist killed over such a trivial thing?
+$GEN_051_OnGuilty_03
+I wonder who will make powder for our cannons now?
+$GEN_051_OnNotGuilty_00
+The case appears to be a common misunderstanding. You are free to go, Citizen Pinnet.
+$GEN_051_OnNotGuilty_01
+I hope that misunderstandings like this are not so common.
+$GEN_051_OnNotGuilty_02
+Correct!
+$GEN_051_OnNotGuilty_03
+They thought they could defame such a good man.
+$GEN_051_04x06_00_QTitle
+Citizen Bacque, please come closer.
+$GEN_051_04x06_00_00
+Citizen Bacque, please come closer.
+$GEN_051_01x03_01_QTitle
+How long have you been working in the factory?
+$GEN_051_01x03_01_00
+How long have you been working in the factory?
+$GEN_051_01x03_01_01
+All my life, monsieur le juge. I started as an apprentice, so I even remember when we switched to steam.
+$GEN_051_01x03_01_02
+Can you describe how gunpowder is made?
+$GEN_051_01x03_01_03
+You have to mill the ingredients really fine using special rollers, though sometimes people wrongly call them grinders.
+$GEN_051_01x03_01_04
+Then what?
+$GEN_051_01x03_01_05
+You mix everything according to the proportions, and then add a little water to the mixture. Then you squeeze it through a special sieve that lets through tiny lumps.
+$GEN_051_01x03_01_06
+It does not sound like a complicated process.
+$GEN_051_01x03_01_07
+I’m not appreciated because it’s difficult, but because every day the number of employees leaving work needs to be the same as the number of those who entered it in the morning. In a place like that, it’s real easy to cause an explosion.
+$GEN_051_01x03_01_08
+Yet, some days, your employees leave work disgraced.
+$GEN_051_01x03_01_09
+Good women don’t come to work in the factory. The ones I hire have already gotten themselves disgraced.
+$GEN_051_02x05_02_QTitle
+If you were ready to pay for love, why did you threaten those women with a knife?
+$GEN_051_02x05_02_00
+If you were ready to pay for love, why did you threaten those women with a knife?
+$GEN_051_02x05_02_01
+I didn’t threaten anyone.
+$GEN_051_02x05_02_02
+Why would he lie?
+$GEN_051_02x05_02_03
+Then why have they accused you?
+$GEN_051_02x05_02_04
+How would I know? They probably want more money.
+$GEN_051_02x05_02_05
+You are facing the guillotine, not a fine.
+$GEN_051_02x05_02_06
+Why do you carry a knife around the factory?
+$GEN_051_02x05_02_07
+It’s good to have one. It comes in handy when you need to lever something or check the quality of powder.
+$GEN_051_02x05_02_08
+Did you have it during the incident?
+$GEN_051_02x05_02_09
+Yes, but I did not take it out.
+$GEN_051_02x05_02_10
+You could have threatened them without showing it.
+$GEN_051_02x05_02_11
+If they’re stupid, you can scare someone with a shoehorn.
+$GEN_051_03x02_03_QTitle
+You took Citizens Bacque and Vaganay to the storehouse behind the mill. Why there?
+$GEN_051_03x02_03_00
+You took Citizens Bacque and Vaganay to the storehouse behind the mill. Why there?
+$GEN_051_03x02_03_01
+We keep sacks there and you can lie on them comfortably.
+$GEN_051_03x02_03_02
+How loud is the mill?
+$GEN_051_03x02_03_03
+Quite loud.
+$GEN_051_03x02_03_04
+Loud enough to drown out screams?
+$GEN_051_03x02_03_05
+Is that not obvious?
+$GEN_051_03x02_03_06
+Love needs a little privacy.
+$GEN_051_03x02_03_07
+He’s right.
+$GEN_051_03x02_03_08
+Why did you not invite them to your place after work? You would have had even more privacy.
+$GEN_051_03x02_03_09
+…
+$GEN_051_03x02_03_10
+Pardon?
+$GEN_051_03x02_03_11
+I never thought of it.
+$GEN_051_03x02_03_12
+And they did not suggest it when you politely spoke to them before the act?
+$GEN_051_03x02_03_13
+…
+$GEN_051_03x02_03_14
+As I thought – there was no conversation.
+$GEN_051_06x05_04_QTitle
+These women accuse you of a horrible crime.
+$GEN_051_06x05_04_00
+These women accuse you of a horrible crime. Is there anything you would like to say in your defence?
+$GEN_051_06x05_04_01
+You know women, monsieur le juge, they are never sure what they want.
+$GEN_051_06x05_04_02
+I am sure they did not want to be raped.
+$GEN_051_06x05_04_03
+Maybe I was a bit straightforward, but is that really so bad? They didn’t yell or cry, and they took the money. What’s the problem?
+$GEN_051_06x05_04_04
+Do I really have to explain it to you?
+$GEN_051_06x05_04_05
+They wanted it at first, but then they got scared their bellies might swell and their husbands might find out. Easier to blame the guy, no? Because everyone always feels sorry for the women, and so what if I lose my head.
+$GEN_051_WIT_00_A_QTitle
+Night shifts at a powder mill does not sound like work for women.
+$GEN_051_WIT_00_A_00
+Night shifts at a powder mill does not sound like work for women.
+$GEN_051_WIT_00_A_01
+There’s a high demand for powder, so they pay good money for the night shifts.
+$GEN_051_WIT_00_A_02
+Did you need money?
+$GEN_051_WIT_00_A_03
+Who doesn’t? Everything is so expensive now.
+$GEN_051_WIT_00_A_04
+Did Citizen Pinnet offer you money in exchange for satisfying his urges?
+$GEN_051_WIT_00_A_05
+No, monsieur le juge. He just came with the knife.
+$GEN_051_WIT_00_A_06
+Did you take the money?
+$GEN_051_WIT_00_A_07
+I have it with me. If you like, you can give it to some poor children, monsieur le juge. Or just shove it down that man’s throat.
+$GEN_051_WIT_00_A_08
+Why did you accept it in the first place?
+$GEN_051_WIT_00_A_09
+I don’t know, everything happened so fast. I barely even remember putting my clothes back on…
+$GEN_051_WIT_01_A_QTitle
+Did you try to defend yourself, or scream?
+$GEN_051_WIT_01_A_00
+Did you try to defend yourself, or scream?
+$GEN_051_WIT_01_A_01
+…
+$GEN_051_WIT_01_A_02
+I know it is hard to go back to that moment, but it is important.
+$GEN_051_WIT_01_A_03
+I could have tried, but it wouldn’t have helped. The mills make such a noise, who would have heard?
+$GEN_051_WIT_01_A_04
+Did you defend yourself?
+$GEN_051_WIT_01_A_05
+If she really wanted to defend herself, she wouldn’t work with men all night.
+$GEN_051_WIT_01_A_06
+I was barely able to move my hands after the shift. He’s a large chap, he can afford meat, and he grabbed my neck with one hand. If he wanted to, he could have broken it as easily as a dove’s neck.
+$GEN_051_WIT_01_A_08
+Would you like to comment on that?
+$GEN_051_WIT_01_A_09
+She wasn’t tearing herself away from me, and I couldn’t hear her in the storehouse. She should have said something before we went in there.
+$GEN_051_WIT_01_B_QTitle
+Why did you wait so long before making the denunciation?
+$GEN_051_WIT_01_B_00
+Why did you wait so long before making the denunciation?
+$GEN_051_WIT_01_B_01
+I was afraid.
+$GEN_051_WIT_01_B_02
+Did you continue to work after the incident?
+$GEN_051_WIT_01_B_03
+Yes, I really need the money. I have young brothers and my father suffers from breathing troubles and can’t work.
+$GEN_051_WIT_01_B_04
+No wonder she went with the master for a couple of sous.
+$GEN_051_WIT_01_B_05
+What made you change your mind?
+$GEN_051_WIT_01_B_06
+Even my father said that I should let it go. But then I saw how Marie, I mean Citizen Vaganay, was looking at him… and I realised that I wasn’t alone. To do it by yourself is hard, but when there’s two of you… You understand what I’m talking about, don’t you?
+$GEN_051_WIT_01_B_08
+Would you like to comment on that?
+$GEN_051_WIT_01_B_09
+I always went to that comfortable brothel a few minutes from the factory. Now it’s closed, what am I supposed to do?
+$GEN_051_KEY_01
+Gunpowder
+$GEN_051_KEY_02
+Working day and night
+$GEN_051_KEY_03
+Mill
+$GEN_051_KEY_04
+Rape
+$GEN_051_KEY_05
+Copper coins
+$GEN_051_KEY_06
+Denunciation
+$GEN_051_LastDialog_00
+Bastards! Just wait until you run out of gunpowder. You’ll be sorry!
+$GEN_051_UNIQUE_QUESTION_00
+Why was the victim working in a powder mill?
+$GEN_051_UNIQUE_ANSWER_CORRECT_00_00
+She had to provide for her sick father and brothers.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_00_00
+She needed money to help her husband rescue his business.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Her mother got herself into debt.
+$GEN_051_UNIQUE_QUESTION_01
+Why was the defendant carrying a knife?
+$GEN_051_UNIQUE_ANSWER_CORRECT_01_00
+To check the quality of the powder.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_01_00
+To slice bread.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_01_01
+To clean his nails.
+$GEN_051_UNIQUE_QUESTION_02
+Did the victim accept money for the intercourse?
+$GEN_051_UNIQUE_ANSWER_CORRECT_02_00
+Yes.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_02_00
+No.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_02_01
+She does not remember getting any money.

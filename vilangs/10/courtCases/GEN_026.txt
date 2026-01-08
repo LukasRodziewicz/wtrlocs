@@ -1,0 +1,268 @@
+$GEN_026_DOC_01_HEADER
+Hazırlayan: Nathan d’Essiraf
+$GEN_026_DOC_01_00
+Gaston de Toucy, Poissy Vikontu, 37 yaşında bir topçu kaptanı. Diğer aristokrat subayların aksine, Devrim başladığında Fransa’dan kaçmadı ve askeri kariyerine devam etti. Prusya ve Avusturya ordularının ilerleyişini durduran Valmy Muharebesi’nden sonra ün kazandı. Şu anda Paris yakınlarında konuşlanmış 39. yarı tugayın topçu birliğinin komutanlığını yapıyor. Genel olarak <a name="1" class="hidden">tecrübeli bir subay</a> olarak görülse de, geçmişteki <a name="2" class="hidden">alkol bağımlılığı</a> itibarına gölge düşürüyor.
+$GEN_026_DOC_01_01
+Bir subay olarak, ona birliğin topunu Karşı-Devrimcilerin toplu infazının yapılacağı yere götürme görevi verildi. Bicêtre hapishanesinin müdürü Alfons d’Outre, yürüyüş sırasında topu kasten kaybettiğini ve Devrimci Mahkeme’nin <a name="3" class="hidden">kararlarını sabote ettiğini</a> iddia etti.
+$GEN_026_DOC_01_02
+Protokole aykırı olarak, de Toucy <a name="4" class="hidden">top mürettebatının</a> şirketin araçlarıyla, toptan ayrı şekilde taşınmasını emretti; toplar ise erzakla birlikte daha sonra gönderildi. Bu yüzden top, mahkûmların infaz edileceği Porcherons’dan uzakta, Vaubourg civarında bulundu. Top ekibi nihayet vardığında, Yüzbaşı de Toucy sarhoştu. Askerler, de Toucy’nin yürüyüş başladıktan sonra Çavuş Foute ile birlikte <a name="5" class="hidden">nakil güzergâhını değiştirdiğini</a> ifade etti.
+$GEN_026_DOC_01_03
+D’Outre, de Toucy’nin bu işi ayarladığını iddia ediyor; çünkü mahkûmlar arasında, onun <a name="6" class="hidden">silah arkadaşı</a> Quentin de Laval da varmış. De Toucy ve de Laval, Kuzey Ordusu’nda birlikte savaşmışlar. Valmy Muharebesi sırasında, de Laval, Prusya topçusunun ateşi altında Vikont’u sırtında taşımış.
+$GEN_026_DOC_01_04
+Başlangıçta de Toucy askeri mahkemeye çıkarılacaktı, ancak suçlamaların Karşı-Devrimci niteliği nedeniyle onun yerine Devrimci Mahkeme önünde hesap vermesine karar verildi.
+$GEN_026_OnStart_00
+Lütfen kendinizi tanıtınız.
+$GEN_026_OnStart_01
+Kaptan Gaston de Toucy, topçu bölüğü, 39. yarı tugay.
+$GEN_026_OnStart_02
+Sanığa hatırlatırım ki, mahkeme önünde tüm rütbe ve ayrıcalıklarından arındırılmış sıradan bir Yurttaş olarak durmakta, askeri statüsü ise bu davanın sonucuna kadar askıya alınmıştır.
+$GEN_026_OnStart_03
+Müsaadenizle – rütbemi bana mahkeme vermedi, bu yüzden bir subay olup olmadığımı da mahkeme belirleyemez.
+$GEN_026_OnStart_04
+Emre itaatsizlik ve bir subaya yakışmayan davranıştan yargılanıyorsunuz – kendinize hakim olun.
+$GEN_026_OnStart_05
+Karşı-Devrimcilerin infazını engellemek için makamınızı kötüye kullanmakla suçlanıyorsunuz. Suçunuzu kabul ediyor musunuz?
+$GEN_026_OnStart_06
+Hayır. Bu, Vatandaş d’Outre’un kıçından çıkan bir saçmalıktan ibaret.
+$GEN_026_OnStart_07
+O pis ağzın yüzünden kafanı kestirmeliler!
+$GEN_026_OnStart_08
+Asıl sizin kafanız kesilmeli, korkak asalaklar! Burada bağırıp duruyorsunuz ama sizi Prusya cephesinde hiç görmedim!
+$GEN_026_OnGuilty_00
+Gaston de Toucy’yi giyotinle idama mahkûm ediyorum! Mahkûmu dışarı çıkarın.
+$GEN_026_OnGuilty_01
+Neyse ki, de Toucy’yi ordumuzu savaş alanında yüzüstü bırakmadan önce saf dışı bırakmayı başardınız.
+$GEN_026_OnGuilty_02
+Aferin!
+$GEN_026_OnGuilty_03
+Fransa’nın bir savunucusunu öldürüyorsun!
+$GEN_026_OnGuilty_04
+Bravo!
+$GEN_026_OnNotGuilty_00
+Gaston de Toucy hakkında verilen hüküm... suçsuz! Sanığı serbest bırakın.
+$GEN_026_OnNotGuilty_01
+Onu bir komplo kurduğuna inanmıyorsanız bile, aptallığı yüzünden hapse atmalıydınız.
+$GEN_026_OnNotGuilty_02
+İnanılmaz!
+$GEN_026_OnNotGuilty_03
+Bu mahkemede adalet yok!
+$GEN_026_OnNotGuilty_04
+Aklını mı kaçırdın?! Suçlu olduğu apaçık ortada!
+$GEN_026_01x03_00_QTitle
+Tecrübeli bir subayın erzak konusunda öngörüsüz davranmasını şaşırtıcı buluyorum…
+$GEN_026_01x03_00_00
+Tecrübeli bir subayın, erzak ve topların hafif araçlara yetişemeyeceğini öngörememiş olmasına şaşırıyorum.
+$GEN_026_01x03_00_01
+Çavuş Foute’un aşina olduğu arazide kaybolup nakliyatı Porcherons yerine Vaubourg’a götüreceğini hiç beklemezdim.
+$GEN_026_01x03_00_02
+Sanık, topların “kaybolması” ve idam yerine ulaşmaması için elinden geleni yaptı diye düşünüyorum.
+$GEN_026_01x03_00_03
+Bunu neden yapayım ki? D’Outre kolayca başka bir altı librelik topçu birliği isteyebilir. Bu kimseye, hele ki mahkumlara, hiçbir fayda sağlamaz.
+$GEN_026_01x03_00_04
+Belki de infazın gecikmesi planınızın bir parçasıydı.
+$GEN_026_01x03_00_05
+Ne planı?
+$GEN_026_01x03_00_06
+Mahkûmu serbest bırakmayı mı amaçladınız?
+$GEN_026_01x03_00_07
+Saçmalık.
+$GEN_026_01x03_00_08
+Ortaklarını itiraf etmesini sağla!
+$GEN_026_01x04_01_QTitle
+Neden protokole uymadınız ve topçu mürettebatına toplarıyla birlikte ilerlemelerini emretmediniz?
+$GEN_026_01x04_01_00
+Neden protokole uymadınız ve topçu mürettebatına toplarıyla birlikte ilerlemelerini emretmediniz?
+$GEN_026_01x04_01_01
+Albay Fabron’un emrine göre bölük bir gün içinde Porcherons’a varmalıydı. Bu imkânsızdı. Eğitim alanından kurallara uygun şekilde yürüyerek zamanında yetişmemiz mümkün değildi.
+$GEN_026_01x04_01_02
+Albay Fabron, emrinde standart yürüyüş düzeninin göz ardı edilmesinden hiç bahsetmemişti.
+$GEN_026_01x04_01_03
+Yine de, Mahkeme’nin kararının bekleyemeyeceğine ve acele etmem gerektiğine dair güçlü bir işaret vardı. Emir açıktı, koşullar ise olağanüstüydü; ben de yerine getirmek için elimden geleni yaptım.
+$GEN_026_01x04_01_04
+Topçuları toplardan ayırmak yürüyüşü nasıl hızlandıracaktı?
+$GEN_026_01x04_01_05
+…
+$GEN_026_01x04_01_06
+Açıklamanızı duymak isterim.
+$GEN_026_01x04_01_07
+Mürettebat, top olmadan da infazı gerçekleştirebilirdi.
+$GEN_026_01x04_01_08
+Ben bambaşka bir plan hatırlıyorum.
+$GEN_026_01x04_01_09
+Emirlere olabildiğince sadık kalmak istedim.
+$GEN_026_03x06_02_QTitle
+Hayatı tehlikede olan bir silah arkadaşına yardım etmek için ne yapardın?
+$GEN_026_03x06_02_00
+Hayatı tehlikede olan bir silah arkadaşına yardım etmek için ne yapardın?
+$GEN_026_03x06_02_01
+Elimden gelen her şeyi.
+$GEN_026_03x06_02_02
+Yani, sanık kendisine hayatını borçlu olduğu Quentin de Laval’ın idamını sabote etmekte tereddüt etmez miydi?
+$GEN_026_03x06_02_03
+Teğmen de Laval’ın infazını sabote etmek, sadece onu ertelemek olurdu; Mahkeme’nin kararını değiştirmezdi.
+$GEN_026_03x06_02_04
+Ama vicdanınız rahat olurdu, çünkü onun ölümüne ortak olmayacaktınız. Topu kaybetmek için bence bu yeterli bir mazeret.
+$GEN_026_03x06_02_05
+Bence bir komployla karşı karşıyayız. de Laval’ı kurtarmak istemiş.
+$GEN_026_03x06_02_06
+Suçlama ve spekülasyon. Peki, kanıtınız nerede?
+$GEN_026_03x06_02_07
+Bütün saçma ihtimalleri elediğimizde geriye yalnızca bir Karşı-Devrimci komplo kalıyor. Bana işbirlikçilerinin isimlerini söyle!
+$GEN_026_03x06_02_08
+Neden bahsettiğiniz hakkında hiçbir fikrim yok.
+$GEN_026_03x06_02_09
+Monarşist şişkin kafalar entrika çevirmekten başka bir şey bilmez.
+$GEN_026_02x01_03_QTitle
+Merak ediyorum, bunca zamandır ayıkken neden tam da şimdi sarhoş olmaya karar verdiniz…
+$GEN_026_02x01_03_00
+Uzun süre ayık kaldıktan sonra, neden tam da Albay Fabron’un emrini yerine getirirken sarhoş olmaya karar verdiniz, merak ediyorum.
+$GEN_026_02x01_03_01
+Bu, kişisel bir zayıflık anıydı. Kabul edebileceğim tek şey bu.
+$GEN_026_02x01_03_02
+O anlık zayıflık mı, Serjant Foute’a topları Porcherons yerine Vaubourg’a göndermesini emretmenize de sebep oldu?
+$GEN_026_02x01_03_03
+Böyle bir emir verdiğimi hatırlamıyorum. Bunu kim söyledi?
+$GEN_026_02x01_03_04
+Astlarınız. Mahkeme, top sevkiyatının yönünü değiştirdikten sonra sarhoşluğunuzu bir mazeret olarak kullanmak istediğinize inanıyor.
+$GEN_026_02x01_03_05
+Yoksa adaletin şaşmaz elinden duyduğu korkuyu boğmak mı istedi?
+$GEN_026_02x01_03_06
+Siz adalet nedir bilmezsiniz.
+$GEN_026_02x01_03_07
+Terbiyesizliğe son verin, yoksa size disiplinin ne olduğunu öğretiriz! Gerçek niyetlerinizi gizlemek için mi içiyordunuz?
+$GEN_026_02x01_03_08
+Bu, gerçeklerin haksızca çarpıtılmasıdır.
+$GEN_026_02x01_03_09
+Böyle bir savunucuya ihtiyacımız yok!
+$GEN_026_02x01_03_10
+En azından Prusyalılara karşı savaştı.
+$GEN_026_03x04_04_QTitle
+Tanık Olivier Foute’u çağırın.
+$GEN_026_03x04_04_00
+Tanık Olivier Foute'u çağırın.
+$GEN_026_03x04_04_02
+Lütfen kendinizi tanıtınız.
+$GEN_026_03x04_04_03
+Çavuş Olivier Foute, 39. yarı tugayın 1. topçu bölüğünün 2. takımı.
+$GEN_026_04x05_05_QTitle
+Neden topçular toplardan önce yürüdü?
+$GEN_026_04x05_05_00
+Neden topçular toplardan önce yürüdü?
+$GEN_026_04x05_05_01
+Çünkü onlar daha önce harekete geçmeye hazırdı. Topçular, d’Outre’ün ikinci Fouché olma hayalini gerçekleştirmek için arabaları hazırlayıp cephanelikten saçma almaları gerekiyordu.
+$GEN_026_04x05_05_02
+İnfaz emrini beğenmediniz mi?
+$GEN_026_04x05_05_03
+Ordu savaşmak içindir, savunmasız insanlara işkence etmek için değil.
+$GEN_026_04x05_05_04
+O savunmasız insanlar Fransa için bir tehdit oluşturuyordu.
+$GEN_026_04x05_05_05
+Kurşuna dizilmeyi hak ettiler.
+$GEN_026_04x05_05_06
+Bana bir emir verildi, ben de yerine getirmeye çalıştım. Fikrimi sordunuz, ben de söyledim.
+$GEN_026_03x06_06_QTitle
+Sanık, Quentin de Laval’in infazını engellemek amacıyla topu bilerek Vaubourg’a mı yönlendirdi?
+$GEN_026_03x06_06_00
+Sanık, Quentin de Laval’ın infazını engellemek amacıyla topu bilerek Vaubourg’a mı yönlendirdi?
+$GEN_026_03x06_06_01
+Albay Laval’ın mahkûmlar arasında olduğunu bilmiyordum.
+$GEN_026_03x06_06_02
+Yani bu sadece aptallık mıydı?
+$GEN_026_03x06_06_03
+Bence bu bir hataydı demek daha doğru olur.
+$GEN_026_03x06_06_04
+Doğrudur, insanlar hata yapar.
+$GEN_026_03x06_06_05
+Savaşta böyle hatalar askerlerimizin hayatına mal olabilir.
+$GEN_026_03x06_06_06
+Bir subay olarak suçlu olduğumu kabul ediyorum, fakat kötü bir niyetim yoktu.
+$GEN_026_03x06_06_07
+Sen askerleri değil, atları gütmelisin!
+$GEN_026_WIT_00_A_QTitle
+Tanık, top taşımasını nereye götürmeniz emredilmişti?
+$GEN_026_WIT_00_A_00
+Tanık, top taşımasını nereye götürmeniz emredilmişti?
+$GEN_026_WIT_00_A_01
+Kaptan, sabah dokuzda hepimizin Porcherons’da olması gerektiğini, yoksa giyotine gönderileceğimizi söyledi.
+$GEN_026_WIT_00_A_02
+Tanığın yoldaşları, sanığın bir noktada nakliyenin rotasını değiştirip Porcherons yerine Vaubourg’a gönderdiğine tanıklık etti.
+$GEN_026_WIT_00_A_03
+Kaptan mola sırasında yanımıza geldi, beni bir kenara çekip yanlış emir aldığımızı ve Vaubourg’a gitmemiz gerektiğini söyledi. Üzerinden bira kokusu eksik olmuyordu.
+$GEN_026_WIT_00_A_04
+Yine de ona inandınız mı?
+$GEN_026_WIT_00_A_05
+Subaylar sürekli sarhoş, ama yine de onları dinlemek zorundayız.
+$GEN_026_WIT_01_A_QTitle
+Sanık sık sık alkol kullanıyor mu?
+$GEN_026_WIT_01_A_00
+Sanık sık sık alkol kullanıyor mu?
+$GEN_026_WIT_01_A_01
+Açıkçası, onu uzun zamandır sarhoş görmedim. Ama bir kere içmeye başladı mı, kendini hiç tutamaz, biliyorum.
+$GEN_026_WIT_01_A_02
+O gün içmek için bir sebebi olabilir miydi?
+$GEN_026_WIT_01_A_03
+Hiçbir fikrim yok. Belki de Laval yüzünden kendini kötü hissediyordu?
+$GEN_026_WIT_01_A_04
+Bundan bahsetti mi?
+$GEN_026_WIT_01_A_05
+Elbette benim gibi sıradan bir askere değil.
+$GEN_026_WIT_01_B_QTitle
+Sanık ile Quentin de Laval arasındaki ilişki hakkında ne biliyorsunuz?
+$GEN_026_WIT_01_B_00
+Sanığın Quentin de Laval ile ilişkisi hakkında ne biliyorsunuz?
+$GEN_026_WIT_01_B_01
+De Laval, Valmy’de onun hayatını kurtardı, bunu tüm birlik bilir. O bizim yarı tugaya alındıktan sonra da mektuplaşmaya devam ettiler.
+$GEN_026_WIT_01_B_02
+Sanık, de Laval’ın hükmünden haberdar mıydı?
+$GEN_026_WIT_01_B_03
+Sanırım öyle, çünkü çok moralsizdi… Ama hiç bahsetmedi bundan. O bir asker, siyasetçi değil.
+$GEN_026_WIT_01_B_04
+De Laval’ın, idamını bekleyen diğer mahkûmlarla birlikte Bicêtre’de tutulduğunu biliyor olabilir miydi?
+$GEN_026_WIT_01_B_05
+De Laval’ın Bicêtre’de olduğunu kesinlikle biliyordu, ama vurulacağını bildiğinden şüpheliyim. Yine de tahmin etmiş olabilir.
+$GEN_026_WIT_01_B_06
+Açıklayabilir misiniz?
+$GEN_026_WIT_01_B_07
+Porcherons’dan Vaubourg’a varış noktasını değiştirmeye geldiğinde, bir şeye katılmayacağını mırıldanıyordu.
+$GEN_026_WIT_01_B_08
+Bir komplodan ya da herhangi bir isimden bahsetti mi?
+$GEN_026_WIT_01_B_09
+Hayır efendim, öyle bir şey duymadım.
+$GEN_026_KEY_01
+Deneyimli subay
+$GEN_026_KEY_02
+Alkol sorunları
+$GEN_026_KEY_03
+Mahkeme kararını sabotaj etmek
+$GEN_026_KEY_04
+Top taşımacılığı
+$GEN_026_KEY_05
+Taşıma güzergahının değiştirilmesi
+$GEN_026_KEY_06
+Silah arkadaşı
+$GEN_026_LastDialog_00
+Kararı onurla kabul edeceğim, ama bu vicdanınızı rahatlatmasın!
+$GEN_026_UNIQUE_QUESTION_00
+De Toucy, mürettebatı toplardan ayırma kararını nasıl açıkladı?
+$GEN_026_UNIQUE_ANSWER_CORRECT_00_00
+Albay Fabron’un emri yüzündendi.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Usule uygun davrandı.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Sabotajdan kaçınmak istiyordu.
+$GEN_026_UNIQUE_QUESTION_01
+Kim idam edilecekti?
+$GEN_026_UNIQUE_ANSWER_CORRECT_01_00
+Karşı-Devrimciler.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Rahipler.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Sıradan haydutlar.
+$GEN_026_UNIQUE_QUESTION_02
+Asker planlanan infazı nasıl tarif etti?
+$GEN_026_UNIQUE_ANSWER_CORRECT_02_00
+Savunmasız insanlara işkence etmek.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Barut israfı.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Üniformada bir leke.

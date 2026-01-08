@@ -1,0 +1,204 @@
+$GM_001_TITLE
+Approvisionnement
+$GM_001_MAIN
+L'approvisionnement en nourriture de la ville s'est amélioré. Les gens deviennent plus gentils et amicaux.
+$GM_002_TITLE
+La Révolution suit son cours
+$GM_002_MAIN
+Le Tribunal révolutionnaire est perçu généralement comme un allié de la Révolution.
+$GM_003_TITLE
+Louange
+$GM_003_MAIN
+Quelqu'un vous chante des louanges à droite et à gauche. Par pure bonté de cœur.
+$GM_004_TITLE
+Zoonose
+$GM_004_MAIN
+Paris est envahie par les rats. Ceux-ci répandent une maladie de peau très déplaisante. Les gens sont en colère et leur productivité a drastiquement baissé.
+$GM_005_TITLE
+Rumeurs
+$GM_005_MAIN
+Des rumeurs se répandent. On raconte que vous êtes un ivrogne et un joueur. Rien de nouveau, mais vous commencez à baisser dans l'estime des gens.
+$GM_006_TITLE
+Ami
+$GM_006_MAIN
+Quelqu'un travaille discrètement à soigner votre réputation. Qui est donc cet admirateur secret ?
+$GM_007_TITLE
+Faveur
+$GM_007_MAIN
+Parfois, le moindre geste désintéressé a la plus grande valeur pour autrui. Un battement de vos ailes a déclenché un ouragan de bonheur chez quelqu'un d'autre.
+$GM_008_TITLE
+Foi
+$GM_008_MAIN
+Certains croient que l'équilibre entre les factions rivales dépend entièrement de vous.
+$GM_009_TITLE
+Homme du peuple
+$GM_009_MAIN
+Les gens ordinaires vous voient comme l'un des leurs. Comme si vous aviez grandi dans la même chambrée.
+$GM_011_TITLE
+Rumeurs contre-révolutionnaires
+$GM_011_MAIN
+« Le Tribunal est l'ennemi de la Révolution », a crié une poissonnière. Rien ne calme mieux les Parisiens que de démolir un symbole. Cette fois-ci, ils ont voulu passer leurs frustrations sur le Palais de la Cité, votre lieu de travail. Par bonheur, la Garde est intervenue, car autrement, ils auraient rasé l'édifice et déclenché encore une autre révolution.
+$GM_012_TITLE
+Bon mensonge
+$GM_012_MAIN
+Votre père a défendu l'honneur du Tribunal au cours d'un débat au Café Procope. Il y loua tant ses vertus et ses accomplissements que les gens finirent même par le croire.
+$GM_013_TITLE
+Aumône aux orphelins
+$GM_013_MAIN
+Votre femme a fait preuve de compassion envers les jeunes pensionnaires de l'orphelinat local. Sa donation leur donne espoir pour l'avenir. Quelle noblesse d'âme !
+$GM_014_TITLE
+Dispute
+$GM_014_MAIN
+Vous souvenez-vous de la fois où votre épouse s'est mise à barguigner avec un marchand chauve ? Il raconte à présent à qui veut bien l'écouter que vous, et non votre épouse, êtes un pingre et un malotru. Les joies du mariage…
+$GM_015_TITLE
+Ennemi caché
+$GM_015_MAIN
+Dans une grande cité, on ne connaît pas toujours tous ses ennemis. L'un d'eux est particulièrement doué pour se cacher.
+$GM_016_TITLE
+Saint-Just ment
+$GM_016_MAIN
+Lors des habituels débats au Café Procope, cet effronté de Saint-Just a déclaré avec démagogie que tous les juges étaient les reliques corrompues d'un système obsolète. Malheureusement, c'est encore vous qu'il a pris pour exemple.
+$GM_017_TITLE
+Pillards
+$GM_017_MAIN
+Une bande de voyous rôde la nuit pour commettre des cambriolages. Les habitants, par crainte, songent à des moyens de cacher leur argent de plus en plus inventifs. Tandis que la Garde et le Tribunal ne font rien.
+$GM_020_TITLE
+Ami de la famille
+$GM_020_MAIN
+L'utilité du Tribunal révolutionnaire a été au cœur d'un débat lors d'une séance de la Convention. Votre ami, Jacques-Louis David, y a prononcé un éloge de vos services, soulignant à quel point vous êtes indispensable à la Révolution.
+$GM_022_TITLE
+Méprise de la Bastille !
+$GM_022_MAIN
+Un ancien embastillé a déclaré, après s'être adonné fortement à la boisson pendant trois jours, vous avoir vu à la libération de la prison. Il jure que vous marchiez à la tête de la foule. La plupart de ses interlocuteurs ont ricané à ses paroles d'ivrogne, mais d'autres l'ont cru.
+$GM_023_TITLE
+Ennemi public
+$GM_023_MAIN
+Votre réputation calamiteuse fait de vous un ennemi de Paris. Même les rats courent de l'autre côté de la rue quand ils vous voient.
+$GM_025_TITLE
+Dénonciation
+$GM_025_MAIN
+Quelqu'un a rapporté à la patrouille révolutionnaire que vous seriez un espion autrichien. Ces idiots vous suivent maintenant à la trace.
+$GM_032_TITLE
+Juge inutile !
+$GM_032_MAIN
+La patience du peuple a ses limites. Le procès s'éternisant, une forte agitation a gagné la foule.
+$GM_033_TITLE
+Ébriété
+$GM_033_MAIN
+Vous vous autorisez occasionnellement un verre ou deux. Six, tout au plus. Personne ne vous juge, mais…
+$GM_034_TITLE
+Ivrognerie
+$GM_034_MAIN
+Un juge qui ne passe pas un jour sans boire est le sujet tout trouvé des ragots du dimanche.
+$GM_035_TITLE
+Addiction
+$GM_035_MAIN
+Les gens ont cessé de jaser futilement à propos de votre consommation d'alcool. Vous avez un problème, et vous êtes incapable de prendre soin de vous.
+$GM_051_TITLE
+Soutien du jury
+$GM_051_MAIN
+Le jury a constaté que vous preniez de bonnes décisions et faisiez respecter la justice. Ils disent beaucoup de bien de vous.
+$GM_052_TITLE
+Ennemi du palais de justice
+$GM_052_MAIN
+Le jury a constaté que vous preniez de mauvaises décisions et ignoriez la justice. Les rumeurs circulent vite.
+$GM_053_TITLE
+Mauvais fonctionnaire
+$GM_053_MAIN
+Des bruits courent à propos de la négligence que vous portez à vos fonctions. Vous feriez mieux de vous ressaisir si vous ne souhaitez pas perdre votre poste.
+$GM_054_TITLE
+Soutien des Révolutionnaires
+$GM_054_MAIN
+Vos relations avec les révolutionnaires sont bonnes.
+$GM_055_TITLE
+Hostilité des Révolutionnaires
+$GM_055_MAIN
+Vos relations avec les révolutionnaires sont mauvaises.
+$GM_056_TITLE
+Soutien du peuple
+$GM_056_MAIN
+Vos relations avec le peuple sont bonnes.
+$GM_057_TITLE
+Hostilité du peuple
+$GM_057_MAIN
+Vos relations avec le peuple sont mauvaises.
+$GM_058_TITLE
+Soutien des Aristocrates
+$GM_058_MAIN
+Vos relations avec les aristocrates sont bonnes.
+$GM_059_TITLE
+Hostilité des Aristocrates
+$GM_059_MAIN
+Vos relations avec les aristocrates sont mauvaises.
+$GM_060_TITLE
+Bonne relation avec votre épouse
+$GM_060_MAIN
+Votre couple se porte mieux.
+$GM_061_TITLE
+Mauvaise relation avec votre épouse
+$GM_061_MAIN
+Ce qui se portait déjà mal ne fait qu'empirer.
+$GM_062_TITLE
+Bonne relation avec votre benjamin
+$GM_062_MAIN
+Votre plus jeune fils vous adore, comme à ses premiers jours.
+$GM_063_TITLE
+Bonne relation avec votre aîné
+$GM_063_MAIN
+Quoique contre son propre gré, votre fils aîné commence à vous apprécier.
+$GM_064_TITLE
+Mauvaise relation avec votre aîné
+$GM_064_MAIN
+La révolte de l'adolescent se durcit peu à peu et vire à la haine de l'adulte.
+$GM_065_TITLE
+Bonne relation avec votre père
+$GM_065_MAIN
+Vous faites sa fierté et sa joie. Continuez ainsi.
+$GM_066_TITLE
+Mauvaise relation avec votre père
+$GM_066_MAIN
+Quelque chose a mal tourné. Très mal tourné. En avez-vous même conscience ?
+$GM_100_TITLE
+La fuite du roi
+$GM_100_MAIN
+Le roi s'est échappé de sa résidence, pourtant surveillée. Le pays entier est à ses trousses et les rues sont en ébullition.
+$GM_104_TITLE
+Fuite du ministre
+$GM_104_MAIN
+Jean-Marie Roland a fui Paris après avoir été informé de l'arrestation de son épouse. Nous savons de source sûre qu'il a lancé de graves rumeurs sur vous avant son départ.
+$GM_105_TITLE
+Fuite de l'épouse du ministre
+$GM_105_MAIN
+Jeanne Marie Roland a toujours su gouverner dans l'ombre. Maintenant que vous avez arrêté son mari, il ne fait aucun doute qu'elle cherchera à vous nuire. Elle vous tourmentera, même en exil.
+$GM_110_TITLE
+Position dans la hiérarchie
+$GM_110_MAIN
+Votre position dans la Hiérarchie se renforce à mesure que vous gravissez les échelons.
+$GM_202_TITLE
+Ravitaillement interrompu
+$GM_202_MAIN
+L'approvisionnement en nourriture pose problème dans certaines sections. Comme si quelqu'un voulait affamer la capitale…
+$GM_203_TITLE
+Famine à Paris
+$GM_203_MAIN
+Ne vous mettez jamais l'aristocratie à dos : ils savent où frapper, là où cela vous fera le plus mal.
+$GM_204_TITLE
+Moindre mal
+$GM_204_MAIN
+Vous avez certes remporté la partie de dés contre l'aristocratie, mais vous n'avez fait qu'atténuer le coup porté aux Parisiens.
+$GM_205_TITLE
+La Vendée
+$GM_205_MAIN
+Un soulèvement royaliste a éclaté en Vendée. Paris est en effervescence. On cherche à tout prix un responsable à la guerre civile. Prenez garde.
+$GM_301_TITLE
+Immortel
+$GM_301_MAIN
+Deux tentatives d'assassinat et vous êtes toujours en vie. La nouvelle société a beau se dire éclairée par les Lumières et ne pas croire aux superstitions, il se murmure dans la rue qu'on ne peut vous tuer.
+$GM_400_TITLE
+Étape de la construction inachevée
+$GM_400_MAIN
+Vous n'avez pas réussi à terminer la construction à temps !
+$GM_401_TITLE
+Monument achevé
+$GM_401_MAIN
+Vous avez prouvé une nouvelle fois qu'on peut compter sur vous. Vous avez tout supervisé dans le moindre détail, et les Parisiens sauront s'en souvenir.

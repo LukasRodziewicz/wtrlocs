@@ -1,0 +1,30 @@
+$DIAL_H_03_01_02_001_DESTEAL
+Prometo que no tomaré mucho tiempo. Mi caso es bastante sencillo.
+$DIAL_H_03_01_02_002_JUDGE
+Por supuesto. Estoy seguro de que nada peor podría salir de esto.
+$DIAL_H_03_01_02_003_DESTEAL
+Los cambios. No te gustan, especialmente cuando sabes que llegarán pronto.
+$DIAL_H_03_01_02_004_JUDGE
+¿Qué clase de cambios?
+$DIAL_H_03_01_02_005_DESTEAL
+La liberación de las mujeres, por supuesto.
+$DIAL_H_03_01_02_006_JUDGE
+No entiendo. ¿Quién te oprime?
+$DIAL_H_03_01_02_007_DESTEAL
+¡Ustedes! Hombres que han decidido gobernar el país y tomar el control de nuestros destinos. La Declaración de los Derechos de la Mujer lo deja bien claro...
+$DIAL_H_03_01_02_008_JUDGE
+Por supuesto, su famosa Declaración. Su legado.
+$DIAL_H_03_01_02_009_DESTEAL
+Solo he hecho algunas sugerencias sobre ese documento, pues mi verdadero deber es guiar a las mujeres hacia su triunfo definitivo.
+$DIAL_H_03_01_02_010_JUDGE
+¿Pisoteando cadáveres de hombres, supongo?
+$DIAL_H_03_01_02_011_DESTEAL
+No tiene por qué ser así. La Declaración debe aprobarse tal como está. Nos negamos a negociar y no aceptaremos ningún tipo de concesión. Si se oponen, protestaremos, y entonces sabrán lo que es luchar sin nuestro apoyo.
+$DIAL_H_03_01_02_012_JUDGE
+Convencer a la gente de aceptar un cambio tan grande, especialmente ahora…
+$DIAL_H_03_01_02_013_DESTEAL
+Desde que oí hablar de usted por primera vez, no ha hecho más que manipular y conspirar. Estoy segura de que sabrá arreglárselas. Recuerde que sin nosotros caerá, pero con nuestro apoyo quizá tenga una oportunidad. Eso es todo lo que queremos: ¡igualdad!
+$DIAL_H_03_01_02_014_JUDGE
+Me temo que sobreestima el poder de las mujeres, madame. Aún no he visto a ninguna de ustedes en el campo de batalla, aunque se supone que la lucha es igualitaria.
+$DIAL_H_03_01_02_015_DESTEAL
+Lo que realmente importa es si estás dispuesto a arriesgarte a enfrentarte a nuestra revuelta. Sabes lo que queremos. Te daremos la oportunidad de pensarlo bien… Adiós, ciudadano.

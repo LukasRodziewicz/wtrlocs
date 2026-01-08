@@ -1,0 +1,256 @@
+$GEN_056_DOC_01_HEADER
+Compiled by: Charles Etienne
+$GEN_056_DOC_01_00
+	As we have been informed by the inhabitants of the Latin Quarter, a certain <a name="1" class="hidden">freak</a> and <a name="2" class="hidden">recluse</a> has poisoned a local well that is used by a couple of nearby tenements. As can be read in the denunciation, several Citizens have suffered with illness as a result of this crime.
+$GEN_056_DOC_01_01
+	The defendant is Gabriel Rouzet, and the soldier sent to arrest him confirmed the neighbours’ opinion about his eccentricity. The man lives with <a name="3" class="hidden">two servants</a> on the fourth floor of a building on rue Serpente. At the moment of arrest, his apartment was in <a name="4" class="hidden">complete darkness</a> and the external appearance and behaviour of the host was described as repugnant. You will be able to observe it yourself in the courtroom.
+$GEN_056_DOC_01_02
+	This case file includes the content of the denunciation from which you will learn more about Rouzet's crime.
+$GEN_056_DOC_02_00
+Anonymous tip
+$GEN_056_DOC_02_01
+	Authorities of Paris, in the last few days the water in <a name="5" class="hidden">our well</a> started to stink. It’s so bad that some folk even started paying carriers to get water from the public fountain by the university. Those who drank the well water <a name="7" class="hidden">fell ill</a>, some worse than others. One fellow by the name of Lambert Cazale, my friend, vomited into a bucket all night long. It had to be cleaned up, of course.
+$GEN_056_DOC_02_02
+	There’s no doubt about who’s behind the poisoning of the well. Across the street lives Rouzet, an ugly pig and a freak. He only leaves the house in the evenings, and even though he covers his face we know what kind of monster he is. There’s no doubt hates people, and probably threw a <a name="8" class="hidden">dead body</a> in there so we don’t have anything to drink and we drop like flies. And the freak himself started taking water from the public fountain!
+$GEN_056_OnStart_00
+I cannot be certain, but I suppose anything could have fallen into the well, even a careless cat.
+$GEN_056_OnStart_01
+Is your name Rouzet?
+$GEN_056_OnStart_02
+Yes, Gabriel Rouzet.
+$GEN_056_OnStart_03
+You are accused of poisoning the well. Would you like to say anything in your defence?
+$GEN_056_OnStart_04
+Ever since I was a child I’ve had skin problems from exposure to light.
+$GEN_056_OnStart_05
+Does this disease have anything to do with your… appearance?
+$GEN_056_OnStart_06
+Probably. I wasn’t born this way.
+$GEN_056_OnStart_07
+Did you poison the well or not?
+$GEN_056_OnStart_08
+Of course I didn’t. What an absurd accusation.
+$GEN_056_OnGuilty_00
+I sentence Citizen Rouzet to the guillotine. He will not be terrorising any more Citizens.
+$GEN_056_OnGuilty_01
+Justice is served at last!
+$GEN_056_OnGuilty_02
+We’re finally getting rid of him!
+$GEN_056_OnPrison_00
+Citizen Rouzet, I sentence you to 10 years in prison.
+$GEN_056_OnPrison_01
+Good, they’ll know what to do with him in there!
+$GEN_056_OnNotGuilty_00
+Citizen Rouzet is not guilty of poisoning the well, release him.
+$GEN_056_OnNotGuilty_01
+The well didn’t poison itself!
+$GEN_056_OnNotGuilty_02
+The judge is protecting a monster from Hell.
+$GEN_056_01x04_00_QTitle
+Neighbours call you a freak and a monster.
+$GEN_056_01x04_00_00
+Neighbours call you a freak and a monster.
+$GEN_056_01x04_00_01
+Is that surprising?
+$GEN_056_01x04_00_02
+Have you ever caused anyone harm?
+$GEN_056_01x04_00_03
+I suffer enough as it is, there is no need to harass others.
+$GEN_056_01x04_00_04
+People are disturbed by your permanently covered windows.
+$GEN_056_01x04_00_05
+Sunlight causes me pain. I don’t intend to hurt myself for the sake of appearing normal.
+$GEN_056_06x03_01_QTitle
+Can you afford the water carriers and servants?
+$GEN_056_06x03_01_00
+Can you afford the water carriers and servants?
+$GEN_056_06x03_01_01
+Fortunately, I can.
+$GEN_056_06x03_01_02
+His Lordship Monster wears fustian!
+$GEN_056_06x03_01_03
+Silence in court. What is your profession?
+$GEN_056_06x03_01_04
+In my condition? Monsieur le juge, sometimes I can’t be far from the chamber pot for three days in a row, and then I spend the following two in bed.
+$GEN_056_06x03_01_05
+So you do not work?
+$GEN_056_06x03_01_06
+No.
+$GEN_056_06x03_01_07
+Then how do you support yourself?
+$GEN_056_06x03_01_08
+I inherited some money from my father. He was a manufacturer and I sold the factory after he died.
+$GEN_056_06x03_01_09
+The father an exploiter, and the son a freak!
+$GEN_056_06x03_01_10
+What do you do all day?
+$GEN_056_06x03_01_11
+I mostly read literature.
+$GEN_056_02x07_02_QTitle
+The files state that you shun company.
+$GEN_056_02x07_02_00
+The files state that you shun company.
+$GEN_056_02x07_02_01
+I would have that was obvious.
+$GEN_056_02x07_02_02
+Please answer and refrain from commenting. Do you dislike people?
+$GEN_056_02x07_02_03
+I did not poison the well.
+$GEN_056_02x07_02_04
+Your neighbours claim otherwise.
+$GEN_056_02x07_02_05
+If someone says they saw me, they’re lying like a mongrel dog.
+$GEN_056_02x07_02_06
+With contempt for people like that, they should cut his ugly head off.
+$GEN_056_02x07_02_07
+Contempt? I’m the one who should be taking revenge for contempt. For women covering children’s faces whenever I pass, for my lonely childhood, for–
+$GEN_056_02x07_02_08
+We are not discussing your life now, but the issue of the well being poisoned.
+$GEN_056_02x07_02_09
+Of course. Nobody ever talks about me. It’s as though you could get infected from merely saying the words. I am disgusted with all of you.
+$GEN_056_02x07_02_10
+As we are with you, monster!
+$GEN_056_01x07_03_QTitle
+Call in Lambert Cazale.
+$GEN_056_01x07_03_00
+Call in Lambert Cazale.
+$GEN_056_01x07_03_02
+Your name?
+$GEN_056_01x07_03_03
+Lambert Cazale, monsieur le juge.
+$GEN_056_01x07_03_04
+You have accused Citizen Rouzet of poisoning the well.
+$GEN_056_01x07_03_05
+I have, and I’m not ashamed of it!
+$GEN_056_01x07_03_06
+He did well!
+$GEN_056_01x07_03_07
+Have you been neighbours for a long time?
+$GEN_056_01x07_03_08
+For as long as I can remember.
+$GEN_056_01x07_03_09
+And he has not disturbed you so far?
+$GEN_056_01x07_03_10
+He sure has, but during the Ancien Régime no one paid attention to our denunciations.
+$GEN_056_08x05_04_QTitle
+Do you admit to poisoning the well with a corpse?
+$GEN_056_08x05_04_00
+Do you admit to poisoning the well with a corpse?
+$GEN_056_08x05_04_01
+No, that is absurd.
+$GEN_056_08x05_04_02
+Do you have evidence to support your innocence?
+$GEN_056_08x05_04_03
+Has anyone taken the trouble to pull that supposed corpse out of the water?
+$GEN_056_08x05_04_04
+It’s pitch-black down there in the well, can't see nothing.
+$GEN_056_08x05_04_05
+I am asking the questions here.
+$GEN_056_08x05_04_06
+No, I have no evidence of my innocence.
+$GEN_056_03x05_05_QTitle
+Do your servants carry water from the well for you?
+$GEN_056_03x05_05_00
+Do your servants carry water from the well for you?
+$GEN_056_03x05_05_01
+Usually they do.
+$GEN_056_03x05_05_02
+Why only usually?
+$GEN_056_03x05_05_03
+The well usually stank after it rained – so I would give them money to fetch water from the fountain.
+$GEN_056_03x05_05_04
+Did they also drink it?
+$GEN_056_03x05_05_05
+Of course. They are good women, they always eat and drink whatever I’m having.
+$GEN_056_03x05_05_06
+The monster’s sluts. I wonder what else they did together.
+$GEN_056_02x04_06_QTitle
+Do you avoid your neighbours?
+$GEN_056_02x04_06_00
+Do you avoid your neighbours?
+$GEN_056_02x04_06_01
+Yes, as they do me.
+$GEN_056_02x04_06_02
+Have people ever tried to remove you from the neighbourhood?
+$GEN_056_02x04_06_03
+Certainly. I’ve lost count of how many times.
+$GEN_056_02x04_06_04
+Can you elaborate? What exactly did they do?
+$GEN_056_02x04_06_05
+I could go on for some time. They threw stones at my windows, threatened my servants, there was one sadist who beat my dog to death with a stick when I was 15 years old. Should I continue? Once, when I decided to take an evening walk, I had to escape from–
+$GEN_056_02x04_06_06
+I understand, you can stop there.
+$GEN_056_02x04_06_07
+He’s making that up!
+$GEN_056_02x04_06_08
+I wish I were.
+$GEN_056_WIT_00_A_QTitle
+Did you witness Rouzet poisoning the well?
+$GEN_056_WIT_00_A_00
+Did you witness Rouzet poisoning the well?
+$GEN_056_WIT_00_A_01
+No, but it couldn’t have been anyone else.
+$GEN_056_WIT_00_A_02
+Why is that?
+$GEN_056_WIT_00_A_03
+Everyone around is normal, while this one… just look at him. He’s not even human!
+$GEN_056_WIT_00_A_04
+Not human?
+$GEN_056_WIT_00_A_05
+He’s a revenant – he crawled from a grave to scare people!
+$GEN_056_WIT_00_B_QTitle
+Has the rancid water made you sick?
+$GEN_056_WIT_00_B_00
+Has the rancid water made you sick?
+$GEN_056_WIT_00_B_01
+That it has.
+$GEN_056_WIT_00_B_02
+Were you able to smell it?
+$GEN_056_WIT_00_B_03
+Several streets away.
+$GEN_056_WIT_00_B_04
+So why did you drink it?
+$GEN_056_WIT_00_B_05
+That water always stinks, so I didn't notice that now it also stinks of poison.
+$GEN_056_KEY_01
+Freak
+$GEN_056_KEY_02
+Recluse
+$GEN_056_KEY_03
+Two servants
+$GEN_056_KEY_04
+Dark apartment
+$GEN_056_KEY_05
+Well
+$GEN_056_KEY_06
+Water carriers
+$GEN_056_KEY_07
+Poisoning
+$GEN_056_KEY_08
+Corpse in the well
+$GEN_056_LastDialog_00
+My life has been nothing but torment, and my death will be no lighter.
+$GEN_056_UNIQUE_QUESTION_00
+How does the defendant earn a living?
+$GEN_056_UNIQUE_ANSWER_CORRECT_00_00
+He sold his father’s factory.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_00_00
+His distant family provides for him.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_00_01
+He is a craftsman.
+$GEN_056_UNIQUE_QUESTION_01
+Why were people drinking rancid water from the well?
+$GEN_056_UNIQUE_ANSWER_CORRECT_01_00
+It always smelled that way.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Clean water was more expensive.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_01_01
+The fountain was too far away.
+$GEN_056_UNIQUE_QUESTION_02
+According to the denunciation, why did Rouzet poison the water?
+$GEN_056_UNIQUE_ANSWER_CORRECT_02_00
+He hates people.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_02_00
+It was an act of revenge.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_02_01
+He is the devil.

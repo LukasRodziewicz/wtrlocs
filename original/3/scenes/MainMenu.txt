@@ -1,0 +1,56 @@
+#GAME_OPTIONS
+Настройки игры
+#SOUND_OPTIONS
+Звук
+#CREDITS_HEADER
+Создатели
+#CREDITS_BACK
+Вернуться
+#CHOOSE_PROFILE
+Выбрать профиль
+#NEW_PROFILE
+Создать профиль
+#EMPTY_PROFILE
+Создать новый профиль
+#PROFILE_PLACEHOLDER
+Имя профиля
+#PROFILE_DELETE_QUESTION_TITLE
+Удалить профиль
+#PROFILE_DELETE_QUESTION
+Удаленный профиль нельзя будет вернуть. Вы уверены?
+#PROFILE_SUBTITLE
+Акт {0} День {1}
+#NEW_GAME_QUESTION_TITLE
+Перезапустить
+#NEW_GAME_QUESTION
+Перезапуск игры удалить весь ваш прогресс. Вы точно хотите продолжить?
+#SOUND_MAIN_OPTION
+Общая громкость
+#SOUND_EFFECTS_OPTION
+Громкость эффектов
+#SOUND_MUSIC_OPTION
+Громкость музыки
+#SOUND_DIALOGS_OPTION
+Громкость голосов
+#AUTOSAVE
+Автосохранение
+#SINGLE_CASES_HEADER
+Слушание:
+#MULTI_CASES_HEADER
+Слушания:
+#CASES_EMPTY
+Нет
+#ACT
+Акт {0}
+#LOAD_GAME_DAY
+День {0}
+#LOAD_GAME_PARAMS_INFO
+Ситуация:
+#LOAD_GAME_QUESTION_TITLE
+Загрузить старую запись
+#LOAD_GAME_QUESTION
+Загрузка предыдущего дня удалит прогресс последующих дней. Вы уверены?
+#SAVE_PROFILE
+Создать профиль
+#FLASHCARDS_CASES_KEY
+Чрезвычайный вердикт

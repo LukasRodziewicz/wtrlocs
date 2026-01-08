@@ -1,0 +1,10 @@
+$EVE_008_TITLE
+Whisky Lullaby
+$EVE_008_MAIN_01
+The evening is warm, so you decide to take the long way home. Near the Café Chantilly you spot an amusing scene – two drunkards fighting over a bottle of liquor, cursing like stable boys. The first is shorter and dressed in a dishevelled officer’s uniform, possibly a colonel. The second fighter, although significantly taller, is just an ordinary street thug. You listen to the gibberish and tangled epithets, only to reach the conclusion that the bottle contains one last gulp of drink.
+$EVE_008_MAIN_01_C1
+Try to settle the dispute between the drunkards
+$EVE_008_MAIN_02A
+The two enemies unite in the face of a stranger in an elegant coat. It surely looks comical to the observers when, in a fit of booze-driven solidarity, one tries to hit you in the head with the disputed object, while the other kicks at your ankle. You dodge the bottle, which smashes on a nearby wall, spilling the remaining alcohol everywhere. However, the kick is a success and immobilises you long enough for the drunkards to disappear down a back alley. It takes some time for the bystanders to stop laughing.
+$EVE_008_MAIN_02B
+The taller drunkard won by finally mustering all of his strength. The officer landed face first in the mud, and the last sip of drink gently washed over the winner’s tongue. There is nothing else left to see. A bottle of something exquisite awaits you at home.

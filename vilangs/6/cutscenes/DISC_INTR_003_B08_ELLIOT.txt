@@ -1,0 +1,54 @@
+$DISC_INTR_003_B08_ELLIOTT_001_JUDGE
+Todo ese asunto con Gobel... Sucedió tan de repente. La gente sospechará si no tomamos alguna medida.
+$DISC_INTR_003_B08_ELLIOTT_002_ELLIOT
+¿Pensarán que estamos del lado de mentirosos y traidores?
+$DISC_INTR_003_B08_ELLIOTT_003_JUDGE
+Así es.
+$DISC_INTR_003_B08_ELLIOTT_004_JUDGE_AGGR
+Ya no controlamos la situación en las calles. El caos puede volverse contra cualquiera, y no podemos apaciguar a la multitud con facilidad.
+$DISC_INTR_003_B08_ELLIOTT_005_JUDGE_MANI
+La situación se nos ha ido de las manos. Ayer golpearon a una muchacha porque la gente sospechaba que espiaba para los insurgentes. ¿Quién sabe quién será su próxima víctima? Puede ser usted, puedo ser yo…
+$DISC_INTR_003_B08_ELLIOTT_006_JUDGE_JOKE
+Mientras la gente solo lanzaba tomates podridos a cualquier objetivo, la situación era tolerable. Pero ahora están armados con palos de madera. No sé ustedes, pero esto empieza a asustarme.
+$DISC_INTR_003_B08_ELLIOTT_007_JUDGE_HUMI
+Sé que prometí servir al pueblo y defender la libertad, pero nuestros ciudadanos están yendo demasiado lejos.
+$DISC_INTR_003_B08_ELLIOTT_008_ELLIOT_SATI
+Cada vez que camino por el mercado, siento en la piel la furia del pueblo. La tierra tiembla, la gente ansía venganza, pero aún no ha encontrado a su objetivo.
+$DISC_INTR_003_B08_ELLIOTT_009_ELLIOT_INTR
+Eso no ocurrió porque sí, ¿verdad? En fin, continúa.
+$DISC_INTR_003_B08_ELLIOTT_010_ELLIOT_DOUB
+Tú también tuviste tu parte en todo esto, ¿verdad? Escuché que tuviste algunos problemas con Gobel.
+$DISC_INTR_003_B08_ELLIOTT_011_JUDGE_AGGR
+¡Gobel lo arruinó todo! Con un secreto así, debería haber hecho todo lo posible para que nunca saliera a la luz, y en cambio se comportó como un niño.
+$DISC_INTR_003_B08_ELLIOTT_012_JUDGE_MANI
+Si los rumores resultan ser ciertos, la presencia de Gobel solo empeorará la situación. ¿Queremos que la gente piense que las autoridades están corrompidas? Mi reputación está en juego, al igual que la tuya y la de tus amigos del Comité.
+$DISC_INTR_003_B08_ELLIOTT_013_JUDGE_JOKE
+Gobel se ha metido en problemas en el peor momento posible. ¿Será que el Papa por fin se ha vengado? Dios ha escuchado sus plegarias y ha decidido castigar al arzobispo por aceptar el cargo según la Constitución…
+$DISC_INTR_003_B08_ELLIOTT_014_JUDGE_HUMI
+No quisiera dictar sentencias en ausencia, pero me parece que la ira del pueblo ha sacado a la luz viejos secretos, como el del arzobispo Gobel. ¿Quizás deberíamos hacer algo al respecto?
+$DISC_INTR_003_B08_ELLIOTT_015_ELLIOT_SATI
+Nunca me cayó bien. Escuché rumores de que estuvo involucrado en el tráfico de esclavos, aunque nunca se confirmaron.
+$DISC_INTR_003_B08_ELLIOTT_016_ELLIOT_INTR
+Veo que apuntas a los peces gordos. ¿Qué propones?
+$DISC_INTR_003_B08_ELLIOTT_017_ELLIOT_DOUB
+Gobel puede haber renegado de su fe, pero dudo que abandone tan fácilmente a sus colegas dignatarios. No se rendirá sin luchar, incluso si la multitud está de tu lado.
+$DISC_INTR_003_B08_ELLIOTT_018_JUDGE_AGGR
+No podemos pagar por el comportamiento de un solo grupo. Con todas sus mentiras y decadencia, la Iglesia se ha ganado a pulso la ira del pueblo. Cortémosla de raíz y vivamos por fin en paz.
+$DISC_INTR_003_B08_ELLIOTT_019_JUDGE_MANI
+Al tigre enfurecido conviene lanzarle una presa para que la despedace; así estará lo bastante entretenido y no prestará atención a nada más, y nosotros podremos vivir en paz. Y ya que el tigre quiere clavarle los colmillos al clero…
+$DISC_INTR_003_B08_ELLIOTT_020_JUDGE_JOKE
+Realmente no nos queda otra opción. Quieren al clero, así que démosles al clero. Si acusan al clero de traición, repitamos sus palabras. Simple y eficaz.
+$DISC_INTR_003_B08_ELLIOTT_021_JUDGE_HUMI
+No quiero dañar a la Iglesia. Ella misma se hiere a través de los degenerados malditos por nuestros ciudadanos. Debemos cortar todos los lazos con ese grupo. Por el bien común.
+$DISC_INTR_003_B08_ELLIOTT_022_ELLIOT_SATI
+Cuentas con mi apoyo. Moveré algunos hilos y hablaré con mis amigos en la Convención.
+$DISC_INTR_003_B08_ELLIOTT_023_ELLIOT_INTR
+Estoy dispuesto a dar este paso si basta para apaciguar a los exaltados. La paz en las calles significa para mí más que un solo arzobispo.
+$DISC_INTR_003_B08_ELLIOTT_024_ELLIOT_DOUB
+Preferiría no enfrentarme a Gobel sin conocer tus verdaderas intenciones. Lo siento.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_01
+La situación en las calles se vuelve cada vez más difícil de controlar.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_02
+El problema con Gobel no ha hecho más que echar leña al fuego.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_03
+Debemos castigar a alguien y dar un ejemplo, y el pueblo quiere ir contra el clero.

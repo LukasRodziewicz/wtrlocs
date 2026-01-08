@@ -1,0 +1,172 @@
+$GEN_045_DOC_01_HEADER
+Sporządził: Charles Etienne
+$GEN_045_DOC_01_00
+	Kabriolet markiza Leiningena‎ spadł z mostu de la Tournelle. Na szczęście nie było w nim pasażerów, a woźnicy udało się zeskoczyć z kozła jeszcze na moście. Jedyną ofiarą okazał się <a name="2" class="hidden">koń</a>, który razem z wozem utonął w Sekwanie.
+$GEN_045_DOC_01_01
+	Markiz żąda teraz od swojego stangreta, Luciena Beaubois, zadośćuczynienia za wóz i konia w wysokości kilku <a name="3" class="hidden">tysięcy franków</a>. Oczywiście nie był on w stanie spłacić tego długu, a markiz wniósł sprawę do sądu, żądając dla woźnicy kary więzienia.
+$GEN_045_DOC_01_02
+	Obywatel Beaubois zeznał, że zajście było efektem serii niefortunnych zdarzeń, na które on sam nie miał żadnego wpływu. Najpierw – cytujemy – „wóz się inszy na moście pojawił nagle. Pędził jak czort i prosto na mnie”. Wtedy oskarżony miał mocno szarpnąć lejce. Koń w kabriolecie wystraszył się i skręcił w bok, prosto w tłum. Wówczas Beaubois, jak wynika z jego własnych zeznań, pociągnął je jeszcze bardziej w bok. Wóz <a name="5" class="hidden">przebił balustradę</a> i wpadł do wody.  
+$GEN_045_DOC_01_03
+	Obywatel wielokrotnie powtórzył również, że podczas skoku z kozła <a name="6" class="hidden">złamał rękę w nadgarstku</a>.
+$GEN_045_OnStart_00
+Proszę się przedstawić.
+$GEN_045_OnStart_01
+Lucien Beaubois, jestem woźnicą.
+$GEN_045_OnStart_02
+Od dawna się tym zajmujecie?
+$GEN_045_OnStart_03
+Nie, panie. Wcześniej opiekowałem się końmi. Powozić zacząłem rok temu i trochę, jak skończyłem 19 lat. Ale zwykle to jeździłem po majątku, a nie po mieście.
+$GEN_045_OnStart_04
+Markiz Leiningen żąda od was spłaty za wóz i konia.
+$GEN_045_OnStart_05
+A pewnie, że żąda. Już mu tylko cztery wozy i trzydzieści koni zostało!
+$GEN_045_OnStart_06
+Bardzo bym chciał mu oddać te pieniądze, ale nawet ze sprawną ręką nie uskładam tyle przez lata.
+$GEN_045_OnStart_07
+Trzeba było o tym pomyśleć tam na moście.
+$GEN_045_OnGuilty_00
+Uznaję roszczenia markiza Leiningena za uzasadnione. Oskarżony musi zapłacić głową.
+$GEN_045_OnGuilty_01
+Słusznie, za błędy trzeba płacić.
+$GEN_045_OnGuilty_02
+Rewolucja rewolucją, a szlachta dalej ma sądy w kieszeniach!
+$GEN_045_OnNotGuilty_00
+Wypadek na moście wydarzył się wskutek zrządzenia losu i niczego więcej. Obywatelu Beaubois, jesteście wolni.
+$GEN_045_OnNotGuilty_01
+Sędzia utarł nos szlachciurze.
+$GEN_045_OnNotGuilty_02
+Teraz będzie musiał sprzedać srebrne łyżki, żeby nowy wóz sobie kupić.
+$GEN_045_OnNotGuilty_03
+Uwierzyłeś mu? Ciekawe, kiedy się tu spotkamy, jak człowieka rozjedzie.
+$GEN_045_05x01_00_QTitle
+Jak szybko trzeba jechać, żeby sforsować balustradę na moście?
+$GEN_045_05x01_00_00
+Jak szybko trzeba jechać, żeby sforsować balustradę na moście?
+$GEN_045_05x01_00_01
+Ja to jej nie przebiłem. Ona tam, ta bariera znaczy, jest niska, panie. Alcasse przeskoczył górą – czego się po bydlaku spodziewać, to głupie takie. Kabriolet lekki, bez bagażu, bez pasażerów – to i pociągnął go za sobą.
+$GEN_045_05x01_00_02
+A nie próbowaliście wozu po prostu zatrzymać?
+$GEN_045_05x01_00_03
+No, jakby tak pomyśleć, toby może tak trzeba było zrobić, ale chyba bym nie wyrobił.
+$GEN_045_05x01_00_04
+Musiał pędzić jak szatan!
+$GEN_045_05x01_00_05
+Wóz jest całkowicie zniszczony?
+$GEN_045_05x01_00_06
+Nie wiem, panie sądzie. Ja tylko słyszałem, że oni to go nawet wyłowili. Konika też, ale on to się utopił tam na miejscu.
+$GEN_045_05x01_00_07
+Uderzyliście po drodze w kogoś z przechodniów?
+$GEN_045_05x01_00_08
+Nie, panie, Bóg uchronił.
+$GEN_045_04x02_01_QTitle
+Dlaczego obywatel szarpnął za lejce?
+$GEN_045_04x02_01_00
+Dlaczego obywatel szarpnął za lejce?
+$GEN_045_04x02_01_01
+Zobaczyłem, jak z naprzeciwka pędzi inny wóz, i wystraszyłem się.
+$GEN_045_04x02_01_02
+Na moście, jak sami zeznaliście, był tłum. Jak szybko jechał tamten powóz?
+$GEN_045_04x02_01_03
+Wydaje mi się… że raczej dość szybko. Tamten woźnica strzelił chyba z bata… Tak musiało być, bo się Alcasse, koń znaczy, bardzo wystraszył.
+$GEN_045_04x02_01_04
+Mogliście się zderzyć?
+$GEN_045_04x02_01_05
+Tak mi się wtedy wydawało. Szarpnąłem mocno za lejce. Wtedy koń chyba dostał szału.
+$GEN_045_04x02_01_06
+Widać, nie ufał wam. Kto wam w ogóle pozwolił powozić?
+$GEN_045_04x02_01_07
+No, tak wyszło, że jeden stangret to był chory, a inny wiózł akurat panią… Tak wyszło, że ja musiałem.
+$GEN_045_04x02_01_08
+Puścili młodego na miasto, a ten już zaczął szaleć.
+$GEN_045_04x02_01_09
+Długo znaliście tego konia?
+$GEN_045_04x02_01_10
+Znać to ja, panie, znałem długo. Ale razem to my pierwszy raz w mieście byliśmy. I takie nieszczęście…
+$GEN_045_06x01_02_QTitle
+Zeskakując z kozła, złamaliście rękę?
+$GEN_045_06x01_02_00
+Zeskakując z kozła, złamaliście rękę?
+$GEN_045_06x01_02_01
+Tak, panie, widać do teraz, jaka opuchnięta. Boli strasznie, nocami spać mi nie daje.
+$GEN_045_06x01_02_02
+Markiz zainteresował się stanem waszego zdrowia?
+$GEN_045_06x01_02_03
+Nic mi takiego nie mówił, to znaczy… Ja to się z nim nie widziałem. Był u mnie taki jego służący, co to się pieniędzmi zajmuje. On mi powiedział, że mam oddać.
+$GEN_045_06x01_02_04
+Ale nie oddaliście?
+$GEN_045_06x01_02_05
+No nie, sądzie. Potem to już z Gwardią przyszedł.
+$GEN_045_06x01_02_06
+Ze złamaną ręką możecie powozić?
+$GEN_045_06x01_02_07
+Co za śmieszne pytanie!
+$GEN_045_06x01_02_08
+Oj, panie, ja bym sobie chleba nie ukroił, gdyby nie matka moja stara.
+$GEN_045_06x01_02_09
+Możecie coś sprzedać, żeby oddać dług.
+$GEN_045_06x01_02_10
+Mogę, ale za koszulę czy miskę drewnianą to mi tyle, co trzeba, nie dadzą.
+$GEN_045_03x01_03_QTitle
+Ile obywatel Leiningen żąda od was za wóz i konia?
+$GEN_045_03x01_03_00
+Ile obywatel Leiningen żąda od was za wóz i konia?
+$GEN_045_03x01_03_01
+Ja nawet zapamiętać tego, Wysoki Sądzie, nie próbowałem. Ja takich pieniędzy to nawet nie wyrozumiem, ileć to.
+$GEN_045_03x01_03_02
+Macie szansę kiedyś tyle zarobić?
+$GEN_045_03x01_03_03
+Nawet ze sprawną ręką musiałbym chyba lat 10 pracować.
+$GEN_045_03x01_03_04
+Co planujecie począć?
+$GEN_045_03x01_03_05
+Nie wiem, Wysoki Sądzie. Ja bym chciał oddać pieniądze, ale nie wiem… Ludzie markiza mnie straszyli. Mówili, że skończę w Sekwanie, jak Alcasse, albo w więzieniu.
+$GEN_045_03x01_03_06
+Bydlaki, porządnych ludzi będą straszyć!
+$GEN_045_03x01_03_07
+Nie wymyślacie, żeby od siebie winę oddalić?
+$GEN_045_03x01_03_08
+Chciałbym, panie, ale ja to się boję, że oni naprawdę mnie mogą hyc, do rzeki wrzucić.
+$GEN_045_KEY_01
+Kabriolet
+$GEN_045_KEY_02
+Koń
+$GEN_045_KEY_03
+Tysiące franków
+$GEN_045_KEY_04
+Tłum
+$GEN_045_KEY_05
+Balustrada
+$GEN_045_KEY_06
+Złamana ręka
+
+$GEN_045_LastDialog_00
+Ja jeden raz się pomyliłem i już na gilotynę?
+
+$GEN_045_UNIQUE_QUESTION_00
+Dlaczego Beaubois szarpnął lejce?
+$GEN_045_UNIQUE_ANSWER_CORRECT_00_00
+Jechał w jego stronę drugi wóz.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Usłyszał głośny huk.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Dziecko wbiegło przed konia.
+
+$GEN_045_UNIQUE_QUESTION_01
+Ludzie markiza grozili sprawcy...
+$GEN_045_UNIQUE_ANSWER_CORRECT_01_00
+Że wyrzucą go do rzeki.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Że złamią mu drugą rękę.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Że go zastrzelą.
+
+$GEN_045_UNIQUE_QUESTION_02
+Czy w czasie wypadku ktoś został ranny?
+$GEN_045_UNIQUE_ANSWER_CORRECT_02_00
+Ucierpiał jedynie koń.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Wóz uderzył starą kobietę.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Koń stratował dwoje dzieci.
+
+

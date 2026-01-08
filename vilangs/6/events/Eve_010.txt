@@ -1,0 +1,16 @@
+$EVE_010_TITLE
+El agresor alemán
+$EVE_010_MAIN_01
+Como juez, debes saber distinguir los hechos de los rumores, pero los ciudadanos de París rara vez se toman esa molestia. Especialmente cuando el chisme habla de un ejército extranjero supuestamente acampado a pocos kilómetros de la ciudad, listo para asediarla en cualquier momento. Chismes, nada más, pero lo bastante tentadores como para que una turba presa del pánico intente irrumpir en un arsenal. Quieren estar preparados.
+$EVE_010_MAIN_01_C1
+Enviar a la Guardia del Tribunal
+$EVE_010_MAIN_01_C2
+Pronunciar un discurso
+$EVE_010_MAIN_02A
+Gente armada con garrotes y horquillas ya ha demostrado ser eficaz contra soldados con mosquetes. Por suerte, esta vez no hubo enfrentamiento: los agresores se dispersaron, asustados por los refuerzos. El arsenal está a salvo. Si la gente hubiera sabido que todo el asedio no era más que un rumor absurdo, habrían usado esas armas contra sus propios enemigos.
+$EVE_010_MAIN_02B
+Los guardias acercan un barril para que subas y comiences tu encendido discurso. Señalas la necesidad de fraternidad en tiempos tan difíciles y pides al grupo que no ceda al pánico ni a los rumores propagados por los enemigos de la Revolución. Fue suficiente para que se contuvieran.
+$EVE_010_MAIN_02C
+Tu discurso fue tan ardiente que podría haber resucitado a las víctimas inocentes de la Revolución, pero los ciudadanos de París no se sintieron impresionados. La amenaza de los enemigos que avanzan pesa más que cualquier imagen poderosa que tus palabras puedan evocar, y el pueblo se niega a abandonar la idea de asaltar el arsenal. Los soldados están demasiado ocupados combatiendo para llegar a ti cuando una daga traicionera encuentra su camino entre tus costillas…
+$EVE_010_MAIN_02D
+El asalto al arsenal fue un éxito. Se podría decir que los parisinos ya han hecho de esto su especialidad. Algunos soldados cayeron, los demás se rindieron y, de algún modo, evitaron heridas graves o un linchamiento público. Sin embargo, tu reputación quedará profundamente dañada. Al fin y al cabo, parece que ahora la gente puede hacer lo que le plazca…

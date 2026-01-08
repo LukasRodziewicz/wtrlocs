@@ -1,0 +1,26 @@
+$EVE_023_TITLE
+Eskrim Okulu
+$EVE_023_MAIN_01
+Ünlü eskrimci Horace Lavalle, Paris’in bir bölümünde açılacak özel bir okulda sanatını öğretmek istiyor. Ancak, en tanınmış isimler bile yerel yetkililerin mali “ihtiyaçlarını” karşılayacaklarından emin olamıyor. Lavalle, Belediye çalışanları gerekli belge ve izinler için aşırı yüksek bir rüşvet isteyince size başvurdu. İsim vermek istemiyor, çünkü yetkilileri zan altında bırakmak niyetinde değil; fakat bir yargıcın desteğinin, onları daha makul ve uygun bir teşekkürle yetinmeye ikna edeceğine inanıyor.
+$EVE_023_MAIN_01_C1
+Eskrimciyi desteklediğinizi ilan edin
+$EVE_023_MAIN_01_C2
+Talebini görmezden gel
+$EVE_023_MAIN_02A
+Rüşvetten, Paris’in ve Yurttaşlarının ihtiyaçlarından, yaklaşan savaşın tehlikelerinden ve yetkililerdeki akıl almaz yolsuzluktan bahseden bir mektup yazmak için zaman ayırdınız. Horace Lavalle gibi insanların Cumhuriyet’in şanı için çalışmasını engelleyen suçluların peşine düşeceğinize söz verdiniz. Mesajınız yeterince açık olmalı ki, yetkililer “çabaları” için ödeme talep etmeye bile cesaret edemediler.
+$EVE_023_MAIN_02B
+Dediğim gibi, Horace Lavalle çok ünlü bir eskrimcidir ve Paris’te nüfuz sahibi olmak isteyen herkes böyle insanların desteğini aramalı. Ama siz değil. Danton da meseleden haberdar oldu ve yeni arkadaşına sıkıntı çıkaran tüm memurları susturdu. Artık Lavalle, sizin değil, rakibinizin bir iyiliğini borçlu.
+$EVE_023_MAIN_02B_C1
+Rüşvetçi memurların tutuklanmasını emret
+$EVE_023_MAIN_02B_C2
+Eskrimciyi itibarsızlaştır
+$EVE_023_MAIN_02B_C3
+Memurları tutukla ve eskrimciyi itibarsızlaştır
+$EVE_023_MAIN_02B_C4
+Her şeyi unut
+$EVE_023_MAIN_03A
+Danton’un parası da herkesinki kadar geçerliydi ve memurlar, ev bütçelerine kimin katkı sağladığıyla pek ilgilenmiyordu. Kim bilebilirdi ki, siz bir işi “hakkıyla” yaptığınız için aldığınız bu kadar insani ve önemsiz bir “ödemenin” intikamını alacaktınız?
+$EVE_023_MAIN_03B
+Marat gibi insanlar, kirli oyunlarla zirveye tırmanan aptallarla ilgili davaları yakalamaktan her zaman mutluluk duyar. Ama çocuklara zarar veren sapkınlar hakkında yazmak onları daha da fazla sevindirir. Oraya buraya fısıldanan birkaç söz yeterlidir — gençlere yönelik uygunsuz davranış söylentileri kolayca yayılır. Bir zamanlar saygıdeğer olan eskrimcimiz şimdi herkesin nefret ettiği bir canavara dönüştü.
+$EVE_023_MAIN_03C
+İşte buna kapsamlı bir hamle denir. Artık memurlar, gelecekte Danton’un parasını kabul ederlerse sizin öfkenizle karşılaşacaklarını iyi biliyorlar. Parisliler de yakında, saygın bir eskrimcinin geçim derdindeki çıplak yetimlerle buluşmaktan hoşlandığını öğrenecek. Yolunuza çıkan herkesi yok edeceksiniz. Böyle bir tutum, olağanüstü bir irade gücü gerektirir.

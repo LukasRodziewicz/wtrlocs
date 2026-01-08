@@ -1,0 +1,78 @@
+$INTRIGUE_TITLE_002
+Jean-Nicolas Pache
+$INTRIGUE_002_DESC
+Quelqu'un a dû payer les assassins qui ont essayé de vous tuer. Il y a fort à parier qu'il s'agit du maire de Paris. Il est bien trop prudent pour que vous puissiez l'attaquer. Vous devez le prendre par surprise.
+$INTR_002_B01_TITLE
+Laisser Hanriot gérer le bordel.
+$INTR_002_B01_DESC
+Pache aime parier et exhiber de l'argent. Nous devrions élargir les activités du bordel pour inclure des jeux de cartes et de dés. Je sais que le dernier point vous séduit. Le commandant Hanriot sera responsable de la sécurité. Pache doit se sentir en confiance avec nous.
+$INTR_002_B02_TITLE
+Laisser David gérer le bordel.
+$INTR_002_B02_DESC
+Si vous voulez attirer Pache, vous devez le faire avec élégance. Le bordel saisi aux Roland serait un piège parfait, à condition de le rendre encore plus haut de gamme, en ajoutant des jeux d'argent dans la liste des activités proposées. Des jeux de dés, par exemple. En tant qu'artiste, David saura ajouter une certaine extravagance qui séduira même un fainéant comme Pache. Il ne se doutera de rien.
+$INTR_002_B03_TITLE
+Rencontrer le maire
+$INTR_002_B03_DESC
+Nous devons le rencontrer face à face pour le convaincre que nous ignorons tout de son implication dans la tentative d'assassinat à votre encontre.
+$INTR_002_B04_TITLE
+Suivre Marie Sylvie Pache
+$INTR_002_B04_DESC
+Avant de passer à l'acte, David doit confirmer la nature de la relation entre la fille du maire et Béatrice Caron. Si elles ont une liaison, Pache sera furieux. Vous pourrez ainsi l'inciter à commettre cette erreur dont nous avons tant besoin…
+$INTR_002_B05_TITLE
+Rendez-vous au tripot
+$INTR_002_B05_DESC
+Il est temps que Pache goûte à la victoire et au tabac, qu'il hume son odeur dans ce tout nouveau tripot. Il est temps qu'il se sente… en sécurité.
+$INTR_002_B06_TITLE
+Arrestation de Béatrice Caron
+$INTR_002_B06_DESC
+Les gardes d'Hanriot surprendront la fille du maire et son amante à leur point de rendez-vous habituel. Béatrice sera arrêtée et devra attendre l'évolution de la situation en isolement. Marie ne nous sera pour l'instant d'aucune utilité.
+$INTR_002_B07_TITLE
+Béatrice, traître
+$INTR_002_B07_DESC
+Nous devons la « convaincre » de signer un document stipulant qu'elle est une espionne autrichienne, que Jean-Nicolas Pache était sa source et qu'elle l'a contacté par le biais de sa fille.
+$INTR_002_B08_TITLE
+Rencontrer Danton
+$INTR_002_B08_DESC
+Malgré le document signé par Béatrice, nous n'avons toujours pas la mainmise sur le maire. Il pourrait encore demander de l'aide à Danton, son ami à la langue bien pendue. Pache doit se retrouver face au mur. Si nous ne parvenons pas à attirer Danton dans nos rangs, nous perdrons.
+$INTR_002_B09_TITLE
+Arrêter le maire
+$INTR_002_B09_DESC
+Procéder à une arrestation politique au beau milieu de la nuit est le moment le plus opportun. Vous devez agir maintenant !
+$INTR_002_B10_TITLE
+Béatrice Caron, maître-chanteur
+$INTR_002_B10_DESC
+Béatrice est parvenue à échapper aux gardes et à envoyer un message à Marie Pache. Elle lui a donné rendez-vous rue Saint-Maur avec l'argent pour compenser les dommages engendrés par leur relation. Nous devons intervenir. Béatrice s'est montrée déraisonnable : au lieu de se sauver et de fuir à l'autre bout de l'Europe, elle est restée à Paris pour faire du chantage. Elle extorque de l'argent à une personne qu'elle était censée aimer. Le stratagème tombera à l'eau si elle parle du témoignage que nous lui avons fait signer.
+$INTR_002_B10_DECISION_0
+Aller avec les gardes
+$INTR_002_B10_DECISION_1
+Envoyer les gardes seuls
+$INTR_002_SLOT_01_DESC
+Choisir le responsable du bordel saisi.
+$INTR_002_BLOCK_004_PATH_STR
+Ordonner à votre garde de s'en charger, nul besoin de se cacher.
+$INTR_002_BLOCK_004_PATH_DIP
+La présence de David ne devrait éveiller aucun soupçon.
+$INTR_002_BLOCK_004_PATH_ESP
+Laisser Ramel s'en charger. Il connaît la ville comme sa poche.
+$INTR_002_BLOCK_004_PATH_STR_FAILURE
+Clovis est tellement maladroit et… disons-le, trop gros pour agir discrètement. Il a récupéré les informations, mais les Muscadins l'ont repéré.
+$INTR_002_BLOCK_004_PATH_DIP_FAILURE
+Il s'avère que les Muscadins étaient paranoïaques. Même la présence du chaleureux David a éveillé leurs soupçons. Vous avez appris ce que vous vouliez, mais avez attisé leur colère.
+$INTR_002_BLOCK_004_PATH_ESP_FAILURE
+Ramel est bon, mais il a été repéré par un Muscadin ivre, qui l'a pris pour un vieil ami alors qu'il prenait la fuite. Votre espion est parvenu à s'échapper via une ruelle, mais les Muscadins seront désormais plus prudents…
+$INTR_002_BLOCK_006_PATH_STR
+Hanriot fera un scandale ! Faites savoir à tous les voisins que nous voulons arrêter le traître.
+$INTR_002_BLOCK_006_PATH_DIP
+Hanriot l'arrêtera en bonne et due forme avant qu'elle ne parte à la rencontre de Marie.
+$INTR_002_BLOCK_006_PATH_ESP
+Dites à Hanriot de l'arrêter dans une ruelle avant qu'elle ne retrouve Marie. Calmement, discrètement.
+$INTR_002_BLOCK_006_PATH_STR_FAILURE
+Les Muscadins ont décidé de défendre une des leurs. Des coups de feu ont été tirés. Nous avons Caron, mais des victimes sont à déplorer de chaque côté…
+$INTR_002_BLOCK_006_PATH_DIP_FAILURE
+Béatrice n'a pas apprécié notre manière d'agir. Elle a commencé à hurler qu'on l'agressait, qu'on la violait. Des gens ont répondu à son appel au secours en lançant des pierres. Les gardes ont dû avoir recours à la violence…
+$INTR_002_BLOCK_006_PATH_ESP_FAILURE
+Les Muscadins sont devenus plus prudents et essaient de rester groupés. Les gardes ont dû briser les os de certains des compagnons de la jeune femme…
+$INTR_002_B10_EVENT_TITLE
+LIBERTÉ !
+$INTR_002_B10_EVENT_TEXT
+Marie a tué. Par deux fois. Les gardes ont découvert le corps de Béatrice. Elle a été poignardée par la fille du maire. Quand Marie a aperçu les gardes, elle aurait crié « Liberté ! » et se serait tranché la gorge. Tout a dérapé. Les nouvelles vont vite et le maire sait probablement ce qui est arrivé à sa fille, qu'elle a payé pour ses péchés. Ne vous sentez pas coupable. Concentrez-vous sur les procès de demain. Ne vous sentez pas coupable…

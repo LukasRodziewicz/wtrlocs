@@ -1,0 +1,32 @@
+$DIAL_H_01_02_10_001_HANRIOT
+Pańska małżonka stwierdziła, że jeśli szukam wsparcia osób sprawiedliwych, to wasz dom jest tym odpowiednim miejscem.
+$DIAL_H_01_02_10_002_WIFE
+Tak, obywatelu Hanriot. Mój mąż bardzo chętnie poprze waszą kandydaturę na komendanta Gwardii.
+$DIAL_H_01_02_10_003_JUDGE
+Czy tylko ja mam wrażenie, że stawia się mnie przed faktem dokonanym?
+$DIAL_H_01_02_10_004_HANRIOT
+Proszę nie mieć żalu do żony. Jestem pewien, że działała w dobrej wierze, przekazując mi jakiekolwiek zapewnienia.
+$DIAL_H_01_02_10_005_WIFE
+Niesłychane byłoby odmówić poparcia tak zacnemu oficerowi. Znam swego męża i wiem, że dzięki swojej przenikliwości dostrzeże w obywatelu to co ja.
+$DIAL_H_01_02_10_006_JUDGE
+Nie wątpię. Skąd jednak mam mieć pewność? Chętnych na stanowisko komendanta Gwardii jest…
+$DIAL_H_01_02_10_007_HANRIOT
+Pozostali kandydaci… Szanuję ich, to dobrzy ludzie. Ja jednak oferuję coś najcenniejszego – lojalność. Razem możemy zrobić wiele dobrego dla nas i – jeśli to możliwe – również dla Paryża.
+$DIAL_H_01_02_10_008_JUDGE
+W naszej rodzinie bardzo cenimy sobie szczerość i lojalność, prawda, moja droga? Szanujemy granice.
+$DIAL_H_01_02_10_009_WIFE
+Da się to wyczuć na każdym kroku.
+$DIAL_H_01_02_10_010_HANRIOT
+Tak… Te plotki o tobie, te perfidne kalumnie o jakichś uzależnieniach. Wierzę, że trzeba im położyć kres, a ja nigdy nie zapominam o tych, którzy stanęli po mojej stronie.
+$DIAL_H_01_02_10_011_JUDGE
+Słowa, słowa, słowa, obywatelu Hanriot.
+$DIAL_H_01_02_10_012_HANRIOT
+Wnioskuję, iż żaden z pozostałych kandydatów nie przyszedł prosić o takie poparcie. Nie uważają cię za kogoś wartego ich przyjaźni. Ja, François Hanriot, jestem inny, moje słowa również są inne.
+$DIAL_H_01_02_10_013_WIFE
+Mój mąż na pewno już to dostrzegł.
+$DIAL_H_01_02_10_014_HANRIOT
+Dziękuję. Nie będzie silnego Paryża bez zjednoczonych i silnych elit, niezależnie od tego, co wykrzykuje tłuszcza.
+$DIAL_H_01_02_10_015_JUDGE
+Nie będę odwoływał zapewnień mojej żony, ale na przyszłość radzę najpierw pytać mnie.
+$DIAL_H_01_02_10_016_HANRIOT
+Naturalnie…

@@ -1,0 +1,384 @@
+#LANGUAGE
+Language
+#POLISH
+Polish
+#ENGLISH
+English
+#INTRO_TEXT
+France. Turn of the 18th century…
+#INTRO_HOME
+Late evening. The Judge's house.
+#START
+Start
+#OPTIONS
+Options
+#QUIT
+Exit
+#CONFIRM
+Confirm
+#BACK
+Cancel
+#RETURN
+Return
+#MENU
+Menu
+#ACCEPT
+Accept
+#REJECT
+Reject
+#CLOSE
+Close
+#GAMEOVER
+The End
+#TCUT_GAME_OVER_PEOPLE
+The mob has brought you to justice.
+#TCUT_GAME_OVER_QUIZ
+You have been deposed.
+#TCUT_GAME_OVER_CUT_028
+You died in battle.
+#TCUT_GAME_OVER_SECTION
+You were killed after losing the Main Section.
+#TCUT_GAME_OVER_ARISTOCRATS
+The aristocracy performed the assassination.
+#IGNORE
+Ignore
+#RESET
+Cancel Changes
+#START_NEW_GAME
+Start
+#LOAD_GAME
+Load Day
+#CONTINUE
+Continue
+#END
+Finish
+#EVENTS
+Events
+#EMPTY
+Empty
+#SUCCESS
+Success
+#DOUBTFUL_SUCCESS
+Questionable Success
+#FAILURE
+Failure
+#EFFECTS
+Effects:
+#CHANGE_PROFILE
+Change Profile
+#GUILTY
+Death Penalty
+#NOTGUILTY
+Acquittal
+#PRISON
+Prison
+#SIGNATURE
+Signature
+#JUDGE_SIGNATURE
+The Judge’s Signature
+#PROLOGUE
+Prologue
+#LOAD_BUTTON_SURVIVAL_TEST
+Day: {0}
+#LOAD_BUTTON_TEXT
+Act: {0} Day: {1}
+#ENTER_PROFILE_NAME
+Enter profile name...
+#GROUPS_SUPPORT
+Relations
+#REVOLUTIONISTS
+Revolutionaries
+#REVOLUTIONISTS_NOTIFICATION
+Revolutionaries: {0}
+#PEOPLE
+Common Folk
+#PEOPLE_NOTIFICATION
+Common Folk: {0}
+#ARISTOCRATS
+Aristocrats
+#ARISTOCRATS_NOTIFICATION
+Aristocrats: {0}
+#JUSTICE
+Justice
+#INFLUENCE
+Influence Points
+#INFLUENCE_NOTIFICATION
+Influence Points: {0}
+#RESOURCES
+Resources
+#RESOURCES_AVAILABLE
+Owned
+#RESOURCES_INCOME
+Daily Income
+#DETAILS
+Details
+#RESOLUTION
+Resolution
+#FULL_SCREEN
+Fullscreen
+#ENABLED
+On
+#DISABLED
+Off
+#TUTORIAL_LABEL
+Tutorial
+#GAME_OVER
+THE END
+#END_THX
+Thank you for playing!
+#LOST
+YOU LOST!
+#GAMEOVER_KING_VERDICT
+The mob has lynched you.
+#GAMEOVER_PEOPLE_SUPPORT
+The people have lynched you.
+#DAY
+Day
+#Letter
+Letter
+#SPEECH_ATTITUDE_REVEAL
+Reveal
+#SPEECH_BONUS_INFLUENCE
+Influence Points
+#SPEECH_ATTITUDE_AGGR
+Aggressive
+#SPEECH_ATTITUDE_IRRI
+Irritated
+#SPEECH_ATTITUDE_DOUB
+Doubtful
+#SPEECH_ATTITUDE_INTR
+Intrigued
+#SPEECH_ATTITUDE_SATI
+Satisfied
+#SUPPORT_VERY_LOW
+Very low
+#SUPPORT_LOW
+Low
+#SUPPORT_MEDIUM
+Medium
+#SUPPORT_HIGH
+High
+#SUPPORT_VERY_HIGH
+Very high
+#JURY
+Jury
+$INTERLUDIUM_GAMBLINGDEN
+Go to Gambling Den
+$INTERLUDIUM_HOME
+Return Home
+$INTERLUDIUM_MAP
+Show Map
+$YES
+Yes.
+$NO
+No.
+#REPUTATION
+Reputation
+#REPUTATION_NOTIFICATION
+Reputation: {0}
+#REPUTATION_PENDING_TOOLTIP
+Today’s change:
+$GUILTY_VERDICT_SON
+Guilty
+$GUILTY_VERDICT
+Death Penalty
+$PRISON_VERDICT
+Prison
+$NOTGUILTY_VERDICT
+Acquittal
+$NOTGUILTY_VERDICT_SON
+Not Guilty
+#RELATIONSHIP_PLACEHOLDER
+Unrest
+#RELATIONSHIP_TIER_1
+Stability
+#RELATIONSHIP_TIER_2
+Unrest
+#RELATIONSHIP_TIER_3
+Hostility
+#RELATIONSHIP_TIER_4
+Hatred
+#NOTIFICATIONS_TITLE
+Notifications
+#MAP_NOTIFICATION_TOOLTIP_ACTIVE
+Activity report
+#STRATEGY_TIER_1
+Tragically
+#STRATEGY_TIER_2
+Recklessly
+#STRATEGY_TIER_3
+Correctly
+#STRATEGY_TIER_4
+Perfectly
+#STRATEGY_REMAINING_ATTEMPTS_TOOLTIP
+The number of attempts depends on Reputation
+#STRATEGY_TITLE
+Prepare your strategy
+#STRATEGY_CHANCE_TITLE
+Chance of success
+#STRATEGY_REMAINING_ATTEMPTS
+Attempts remaining: {0}
+$STRATEGY_SIDEBAR_HEADER
+Attitude
+$STRATEGY_EMOTIONS_HEADER
+Choose approach
+$STRATEGY_TOPICS_HEADER
+Topic
+#STRATEGY_VERY_GOOD_TOOLTIP
+A perfect argument
+#STRATEGY_GOOD_TOOLTIP
+A strong argument
+#STRATEGY_VERY_BAD_TOOLTIP
+A very weak argument
+#STRATEGY_BAD_TOOLTIP
+A weak argument
+#STRATEGY_TOPIC_ATTITUDE_LOCKED_NOT_ENOUGHT
+You do not have enough IP to discover your enemy’s attitude ({0} IP)
+#STRATEGY_TOPIC_ATTITUDE_LOCKED
+Click to discover your enemy’s attitude towards this subject ({0} IP)
+#STRATEGY_TOPIC_ATTITUDE_LOCKED_PERMA
+You did not discover your enemy’s attitude.
+#STRATEGY_TOPIC_ATTITUDE_01
+Withdrawn
+#STRATEGY_TOPIC_ATTITUDE_02
+Bull-headed
+#STRATEGY_TOPIC_ATTITUDE_03
+No opinion
+#STRATEGY_TOPIC_ATTITUDE_04
+Attached
+#STRATEGY_TOPIC_ATTITUDE_05
+Oversensitive
+#STRATEGY_TOPIC_ATTITUDE_06
+Carefree
+#TAKEN_DISTRICTS_NOTEBOOK
+Sections taken over
+#INFLUENCE_NOTEBOOK
+Influence
+#DISCTRICTS_NOTEBOOK
+Sections
+#DEFAULT_ANSWER
+…
+#TOO_FEW_INFLUENCE_POINTS
+Not enough Influence Points
+$PROSECUTOR_QUEST_FAILD
+Opposing Tinville.
+#CASE_BASIC_MALE_QUESTION_00
+Did the defendant confess to the crime?
+#CASE_BASIC_MALE_QUESTION_01
+Was his act Counter-Revolutionary in nature?
+#CASE_BASIC_FEMALE_QUESTION_00
+Did the defendant confess to the crime?
+#CASE_BASIC_FEMALE_QUESTION_01
+Was her act Counter-Revolutionary in nature?
+$MAGIC_BUTTON_LOCKED
+Blocked
+$MAGIC_BUTTON_NEXT
+Next
+$MAGIC_BUTTON_END_DAY
+End the day
+#NOTEBOOK_PERSON_DETAIL_VIEW_EMPTY
+Select a person to view detailed information about them.
+#NOTEBOOK_GLOBAL_MODS_VIEW_EMPTY
+No Global Modifier affects your situation at this time.
+#NOTEBOOK_EVENT_HISTORY_VIEW_EMPTY
+Here you will find information about the decisions you made during each event.
+#ACT1
+Act I
+#ACT2
+Act II
+#ACT3
+Act III
+#ACT1_DESC
+Liberté
+#ACT2_DESC
+Égalité
+#ACT3_DESC
+Fraternité
+#EPILOGUE
+Epilogue
+$WAY_HEADER
+Where would you like to go?
+$WAY_MAP
+Go to Map
+$WAY_DEN
+Go to Gambling Den
+$WAY_HOME
+Go Home
+#UNKNOWN_PERSON
+Unknown character
+#DEAD_PERSON
+Dead character
+#SPEECH_EMO_AGGRESSION
+Aggression
+#SPEECH_EMO_MANIPULATION
+Manipulation
+#SPEECH_EMO_HUMILITY
+Humility
+#SPEECH_EMO_JOKE
+Carelessness
+#WAITING_FOR_RESULT
+The action will be performed the next day.
+$SPECIAL_VERDICT
+Extraordinary Verdict
+#FAMILY_CARD_MOCK
+Your son’s drawing
+#HIERARCHY
+Hierarchy
+#INTRIGUE
+Intrigue
+#AUTOSAVING_LABEL
+Saving
+#CUTSCENE_NOT_WATCHED
+Not watched
+#CUTSCENE_SKIP_LABEL
+Skip
+#COURT_END_TITLE
+No cases at court.
+#COURT_END_MAIN
+Tinville has disappeared, the Jury did not show up. Everyone is looking for a dark nook of Paris to curl up and hide in. Do not expect any cases to judge - not as long Paris is under siege.
+$LEADERBOARD_TITLE
+Leaderboard
+$LEADERBOARD_TOP_BUTTON
+Players Top
+$LEADERBOARD_PLAYER_POS_BUTTON
+My Scores
+$PLAYER_NAME_LABEL
+Player
+$POINTS_LABEL
+Points
+$DAYS_LABEL
+Days
+$LEADERBOARD_CONNECTION_ERROR_MSG
+Results could not be downloaded
+$LEADERBOARD_FINAL_SCORE_LABEL
+Final score
+$LEADERBOARD_INPUT_NAME_LABEL
+Enter profile name...
+$CREATE_PROFILE_SELECT_HEADER
+Select mode
+$PROFILE_TYPE_SURVIVAL
+Survival
+$PROFILE_TYPE_STORY
+Fiction
+$PROFILE_TYPE_SURVIVAL_DESC
+Survival is a variant of the main game focusing on the court trials, in which the goal is to keep the main character alive and work for as long as possible.
+$PROFILE_TYPE_STORY_DESC
+This is the description for the fiction mode.
+$LEADERBOARD_OUT_OF_TOP100_INFO
+You have scored too few points to get to the Top 100 ranking.
+$SURVIVAL_SCORE_HEADER
+Scoring
+$SURVIVAL_SCORE_UNLOCKED_QUESTIONS_LABEL
+Unlocked questions
+$SURVIVAL_SCORE_CORRECT_ANSWERS_LABEL
+Report correctness
+$SURVIVAL_SCORE_SUM_LABEL
+Total:
+$SURVIVAL_SCORE_ALL_QUESTIONS_BONUS_TOOLTIP
+Bonus for unlocking all questions
+$SURVIVAL_SCORE_ALL_ANSWERS_TOOLTIP
+Bonus for all correct answers in the report
+$SURVIVAL_SCORE_MATCH_JURY_TOOLTIP
+Bonus for compliance with the Jury
+$SURVIVAL_SCORE_AUDIENCE_TOOLTIP
+Bonus for keeping order in the Room

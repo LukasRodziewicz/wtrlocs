@@ -1,0 +1,212 @@
+$GEN_049_DOC_01_HEADER
+Compilado por: Charles Etienne
+$GEN_049_DOC_01_00
+	Tras el aguacero que azotó París hace dos semanas, en una de las alcantarillas que desembocan en el Sena se halló <a name="1" class="hidden">un niño ahogado</a>. No tendría más de 14 años. Su ropa impecable nos hizo pensar que no era un vagabundo, así que comenzamos a buscar a su familia. La búsqueda no dio los resultados esperados.
+$GEN_049_DOC_01_01
+	Unos días después, apareció una denuncia anónima en uno de los puestos de la Guardia Nacional. Su autor afirmaba que el misterioso cadáver estaba relacionado con una mansión en los suburbios del norte de París. La patrulla enviada a investigar la pista se vio obligada a retirarse cuando alguien <a name="4" class="hidden">les disparó desde la entrada</a>.
+$GEN_049_DOC_01_02
+	Los soldados regresaron con refuerzos y se toparon con una escena aterradora. Cuatro hombres de aspecto sospechoso cargaban a jóvenes aturdidos en un carro como si fueran sacos de patatas. En el edificio se hallaron diez muchachos, todos del campo y ninguno mayor de 15 años. El sótano estaba repleto de estantes cubiertos de frascos de láudano. También había <a name="6" class="hidden">un corral con ovejas, cabras, vacas, caballos y perros</a>.
+$GEN_049_DOC_01_03
+	Dos de los cuatro hombres fueron capturados con vida. Declararon que el inquietante lugar era una especie de burdel propiedad de cierto Raoul Battier. La Guardia tendió una emboscada y detuvo al anfitrión junto con <a name="7" class="hidden">dos clientes</a>.
+$GEN_049_OnStart_00
+Por favor, preséntese.
+$GEN_049_OnStart_01
+Raoul Battier, a su servicio.
+$GEN_049_OnStart_02
+No, gracias. ¿Entiendo bien que usted trabaja como proxeneta?
+$GEN_049_OnStart_03
+No usaría palabras tan fuertes. Simplemente ofrecíamos entretenimiento a los ricos… y atendíamos a algunos clientes especialmente exigentes. Te sorprendería saber cuántos de ellos conoces personalmente.
+$GEN_049_OnStart_04
+¿Se declara culpable?
+$GEN_049_OnStart_05
+Yo solo ofrecía un producto muy solicitado.
+$GEN_049_OnStart_06
+¿Te refieres a muchachos jóvenes?
+$GEN_049_OnStart_07
+Yo diría más bien que mi principal mercancía era el tiempo bien disfrutado.
+$GEN_049_OnGuilty_00
+Ciudadano Battier, ha cometido crímenes atroces. Esta ciudad respirará aliviada cuando su cabeza ruede finalmente por la calle.
+$GEN_049_OnGuilty_01
+¡Muerte al monstruo!
+$GEN_049_OnGuilty_02
+¡Nunca más se hará daño a los niños!
+$GEN_049_OnGuilty_03
+¿Por qué no ahogarlo en el Sena? Sería lo justo.
+$GEN_049_OnPrison_00
+Ciudadano Battier, le declaro culpable. Desde hoy, la prisión será su hogar.
+$GEN_049_OnPrison_01
+Preferiría verlo decapitado, pero creo que no tendrá una vida fácil en prisión.
+$GEN_049_OnPrison_02
+¡No es suficiente!
+$GEN_049_OnPrison_03
+¿A eso le llama justicia?
+$GEN_049_OnPrison_04
+¡Que la guillotina borre esa sonrisa insolente!
+$GEN_049_OnNotGuilty_00
+Declaro a Raoul Battier no culpable por falta de pruebas concluyentes en su contra.
+$GEN_049_OnNotGuilty_01
+¡El juez es un sodomita!
+$GEN_049_OnNotGuilty_02
+¡Lo compraron por una noche con una oveja!
+$GEN_049_OnNotGuilty_03
+¡El juez debería avergonzarse!
+$GEN_049_OnNotGuilty_04
+¡Esto debe de ser una pesadilla!
+$GEN_049_04x03_00_QTitle
+Su gente abrió fuego contra la Guardia Nacional. ¿Usted dio esa orden?
+$GEN_049_04x03_00_00
+Su gente abrió fuego contra la Guardia Nacional. ¿Fue usted quien dio la orden?
+$GEN_049_04x03_00_01
+Ha habido un trágico malentendido, nada más...
+$GEN_049_04x03_00_02
+Parece que tiene mucha confianza. ¿Sabe qué destino podría aguardarle?
+$GEN_049_04x03_00_03
+¡La guillotina y nada más!
+$GEN_049_04x03_00_04
+Usted es una persona sensata. La multitud, por supuesto, quiere sangre, pero usted sabe que a los emprendedores se les pueden perdonar los pequeños pecados.
+$GEN_049_04x03_00_05
+¿Cómo llamaría usted a un pecado menor?
+$GEN_049_04x03_00_06
+Mi gente estaba tensa, nerviosa, y confundió a los suyos con… bueno, supongo que ladrones. Suele pasar.
+$GEN_049_04x03_00_07
+¿De verdad cree que no ha pasado nada malo?
+$GEN_049_04x03_00_08
+Bueno, si cerraras cada pequeño negocio por motivos insignificantes, Francia acabaría en la bancarrota.
+$GEN_049_04x03_00_09
+No cambie de tema. ¿Pensaba sacar a los muchachos de algún modo?
+$GEN_049_04x03_00_10
+Todavía son jóvenes y los asustaron los disparos, así que tuvimos que llevarlos a un lugar más tranquilo.
+$GEN_049_06x03_01_QTitle
+¿A sus clientes les gustaba darse un festín después de sus depravados placeres?
+$GEN_049_06x03_01_00
+¿A sus clientes les gustaba darse un festín después de sus placeres perversos?
+$GEN_049_06x03_01_01
+Oh, no vinieron precisamente por la comida. Los ricos ciudadanos de París tienen gustos realmente sorprendentes cuando se trata del amor…
+$GEN_049_06x03_01_02
+¡Pervertidos!
+$GEN_049_06x03_01_03
+Una prostituta común se encuentra en cada esquina. A nosotros nos visitan quienes buscan algo más.
+$GEN_049_06x03_01_04
+¿Está intentando decir que sus clientes... tuvieron relaciones con ganado?
+$GEN_049_06x03_01_05
+No hace falta recurrir a descripciones tan mojigatas. Claman por la libertad, pero al mismo tiempo le niegan al pueblo un poco de placer terrenal.
+$GEN_049_06x03_01_06
+¿Y esos muchachos que estuvieron encerrados en su, cómo lo llamó, negocio… también eran libres?
+$GEN_049_06x03_01_07
+¿Estaban copulando o no?
+$GEN_049_06x03_01_08
+Así es. Tenían ganas y les pagaban bien, ¿por qué no?
+$GEN_049_07x01_02_QTitle
+Secuestraba, drogaba y asesinaba niños. Después, arrojaba los cuerpos a las alcantarillas. ¿Lo admite, ciudadano?
+$GEN_049_07x01_02_00
+Secuestraba, drogaba y asesinaba niños. Luego arrojaba los cadáveres a las alcantarillas. ¿Lo admite, ciudadano?
+$GEN_049_07x01_02_01
+Eran muchachos de campo, perdidos. En París, cualquiera los habría explotado igual. Habrían terminado como curtidores o peones de fábrica, matándose por un mendrugo de pan. Nosotros les ofrecimos una alternativa mucho mejor.
+$GEN_049_07x01_02_02
+¿Ellos pensaban lo mismo? ¿Acaso intentaste averiguar qué era lo que querían?
+$GEN_049_07x01_02_03
+No estoy seguro, se suponía que mi gente debía encargarse de eso.
+$GEN_049_07x01_02_04
+Nos encantaría hablar con ellos.
+$GEN_049_07x01_02_05
+Por desgracia, los mataste cuando asaltaste mi mansión.
+$GEN_049_07x01_02_06
+Qué conveniente para usted. ¿Drogó a los niños con láudano?
+$GEN_049_07x01_02_07
+Una copa de vino con un poco de opio ayudaba a esos dulces muchachos a soltarse antes del trabajo. Me lo suplicaban — ¿cómo iba a negarles eso?
+$GEN_049_07x01_02_08
+¡No me importaría romperle la cara con un palo!
+$GEN_049_07x01_02_09
+¿Y cuando ya no te servían, los arrojabas a la alcantarilla?
+$GEN_049_07x01_02_10
+Créame, yo quería evitarlo.
+$GEN_049_02x01_03_QTitle
+El joven hallado en las alcantarillas vestía bien. ¿Quién era?
+$GEN_049_02x01_03_00
+El joven hallado en las alcantarillas vestía bien. ¿Quién era?
+$GEN_049_02x01_03_01
+No estoy seguro... Les di esa ropa, ya que vinieron aquí vestidos con harapos. Además, no podría recordarlos a todos. Debería preguntarles a nuestros clientes, les gusta charlar después.
+$GEN_049_02x01_03_02
+¿Quiénes utilizaron sus servicios?
+$GEN_049_02x01_03_03
+Marqueses, generales, funcionarios, comerciantes de especias, obispos. Jueces.
+$GEN_049_02x01_03_04
+¿Lo oíste? ¡Iban obispos allí!
+$GEN_049_02x01_03_05
+Quiero oír nombres.
+$GEN_049_02x01_03_06
+No las oirá de mí, aunque decida cometer un error fatal y se atreva a sentenciarme a muerte.
+$GEN_049_02x01_03_07
+¿De qué debería tener miedo?
+$GEN_049_02x01_03_08
+Monsieur le juge, mis clientes jamás se lo perdonarían. Soy tan imprescindible para esta ciudad como un panadero. Satisfago un hambre muy particular, pero humana, de las élites, y usted pretende impedirlo. Mañana mismo podría despertar señalado como enemigo de la Revolución.
+$GEN_049_03x07_04_QTitle
+¿Cómo saben sus clientes dónde encontrarle?
+$GEN_049_03x07_04_00
+¿Cómo saben sus clientes dónde encontrarle?
+$GEN_049_03x07_04_01
+París es un lugar fascinante. Quien desee gastar dinero en placeres, siempre encontrará a alguien dispuesto a ofrecérselos.
+$GEN_049_03x07_04_02
+Supongo que lo difundieron de boca en boca entre ellos.
+$GEN_049_03x07_04_03
+¡Eres muy perspicaz!
+$GEN_049_03x07_04_04
+En otras palabras, si atrapamos a uno, los atraparemos a todos.
+$GEN_049_03x07_04_05
+Tienes mucho que ganar si me das esos nombres.
+$GEN_049_03x07_04_06
+Me temo que, si las supieras, te horrorizaría haberte dirigido a mí de esa manera.
+$GEN_049_03x07_04_07
+A la justicia no le importan tus conexiones.
+$GEN_049_03x07_04_08
+¡Sí, díselo!
+$GEN_049_03x07_04_09
+Puede que a la justicia no le importe... pero a usted sí debería.
+$GEN_049_KEY_01
+Muchacho ahogado
+$GEN_049_KEY_02
+Ropa impecable
+$GEN_049_KEY_03
+Mansión
+$GEN_049_KEY_04
+Disparar desde el umbral
+$GEN_049_KEY_05
+Frascos de la botica
+$GEN_049_KEY_06
+Corral con animales
+$GEN_049_KEY_07
+Clientes
+$GEN_049_LastDialog_00
+¡Tú serás el próximo en perder la cabeza! ¡La lujuria te aplastará!
+$GEN_049_UNIQUE_QUESTION_00
+Según el acusado, ¿quién recurría a sus “servicios”?
+$GEN_049_UNIQUE_ANSWER_CORRECT_00_00
+Clientes ricos y especialmente exigentes.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_00_00
+El hampa local.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_00_01
+En su mayoría extranjeros.
+$GEN_049_UNIQUE_QUESTION_01
+El proxeneta dijo que su gente empezó a disparar contra la Guardia porque…
+$GEN_049_UNIQUE_ANSWER_CORRECT_01_00
+Los confundieron con ladrones.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Esperaban a sus rivales.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_01_01
+La Guardia abrió fuego contra ellos primero.
+$GEN_049_UNIQUE_QUESTION_02
+¿Quiénes eran los niños abusados por Battier?
+$GEN_049_UNIQUE_ANSWER_CORRECT_02_00
+Jóvenes campesinos en busca de fortuna en París.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Huérfanos de guerra.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Los hijos de los enemigos del pueblo.
+$GEN_049_UNIQUE_QUESTION_03
+La gente de Battier aturdía a las víctimas con…
+$GEN_049_UNIQUE_ANSWER_CORRECT_03_00
+Opio.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Hachís.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Licores fuertes.

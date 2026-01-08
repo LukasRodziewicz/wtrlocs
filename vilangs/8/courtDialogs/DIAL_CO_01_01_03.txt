@@ -1,0 +1,18 @@
+$DIAL_CO_01_01_03_001_MENTOR
+Simoneau era um bom e leal oficial. Aqueles canalhas o lincharam por cumprir a lei. Vai marchar comigo?
+$DIAL_CO_01_01_03_002_JUDGE
+Devemos mostrar que nos opomos aos justiceiros autoproclamados e estamos ao lado das vítimas.
+$DIAL_CO_01_01_03_003_JUDGE
+Me importo mais com os vivos, embora concorde que a morte de Simoneau foi horrível.
+$DIAL_CO_01_01_03_004_MENTOR
+Fico curioso para saber por que o rei se deu ao trabalho de aparecer. Luís XVI marchando lado a lado com o povo de Paris. Isso é... inesperado.
+$DIAL_CO_01_01_03_005_MENTOR
+Rei Luís...
+$DIAL_CO_01_01_03_006_KING
+Por favor, continuem, sou apenas um observador. Não mudem seus hábitos por minha causa.
+$DIAL_CO_01_01_03_007_KING
+Ouvi alguns comentários sobre um jovem e ambicioso juiz do Tribunal. Fiquei curioso para saber se ele se guia pela justiça ou por... hmm... diversão, como alguns diriam.
+$DIAL_CO_01_01_03_LETTER
+Hoje, o povo de Paris homenageia Jacques Guillaume Simoneau, prefeito de Étampes. Ele foi linchado por uma multidão enfurecida por cumprir seu dever com a França. Esta marcha simboliza a união de nossa sociedade e a esperança de que o período mais violento da Revolução já tenha passado. Que nenhum outro fiel servidor da França seja vítima de tamanha violência novamente!
+$DIAL_CO_01_01_03_LETTER_SENDER
+REI LUÍS XVI

@@ -1,0 +1,12 @@
+$EVE_019_TITLE
+Bu sizin mi…?
+$EVE_019_MAIN_01
+Devrimin başından beri kafa kesmenin cazibesi hiç azalmamıştı. Paris’in bir sokağında, yerdeki bir şeyin etrafında toplanmış bir kalabalık vardı. Saygın konumunuz sayesinde kalabalığın ortasına kadar ilerleyebildiniz ve orada bir adamın kesik başını buldunuz. Herkesin dikkatini çeken şey, başın yüz ifadesiydi — sırıtıyordu. O kadar tuhaftı ki, kalabalık hiçbir sebep yokmuş gibi büyülenmişçesine bakakaldı. Acaba cesedin geri kalanını sormayı akıl eden oldu mu diye düşünüyorsunuz. Yalnız bir kesik baş, sırf bilimsel meraktan bile olsa, elbette merak uyandırmalı. Ve şimdi siz de herkes gibi gözlerinizi ondan alamıyorsunuz.
+$EVE_019_MAIN_01_C1
+Başgardiyana kafayı ortadan kaldırmasını emret
+$EVE_019_MAIN_01_C2
+Kendi kafanı kaşıyarak ayrıl
+$EVE_019_MAIN_02A
+Gülümseyen baş kaldırıldı, kalabalık dağıldı. İşte Paris bu.
+$EVE_019_MAIN_02B
+Başlarının ne kadar süreyle o kafaya baktığını ya da kafanın ne kadar süreyle gülümsediğini bilmiyorum.

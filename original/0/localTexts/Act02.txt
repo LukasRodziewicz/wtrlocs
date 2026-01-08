@@ -1,0 +1,70 @@
+#A02C1_D02_LETTER_MAIN
+Śmierć Twojego dziecka to pomysł arcybiskupa Jean-Baptiste Gobela. To on powinien być następnym celem.
+#A02C1_D02_LETTER_SENDER
+Ramel
+
+
+$LETTER_H_02_01_01_001_HEADER
+Do Alexisa Fidèle,
+
+$LETTER_H_02_01_01_002_MAIN
+Trybunał Rewolucyjny działa znakomicie. Konwent jest zadowolony ze sposobu w jaki oczyszczamy Francję z plugastwa. Okoliczności wymagają jednak odnowienia przysięgi na wierność Republice. Jutro odwiedzi obywatela nasz urzędnik.
+$LETTER_H_02_01_01_003_SENDER
+Pozostając w przyjaźni,
+Maximilien de Robespierre
+
+
+$LETTER_CO_02_01_02_MAIN
+Jean-Baptiste Gobel. To on stoi za śmiercią Twojego syna.
+$LETTER_CO_02_01_02_SENDER
+Ramel
+
+
+$LETTER_H_02_01_03_001_START
+Jako obywatel Paryża i wierny sługa rewolucji anonimowo donoszę, że...
+$LETTER_H_02_01_03_002_P1_BASE
+Donos
+$LETTER_H_02_01_03_002_P1_AGGR
+ten świętoszkowaty klecha Gobel napompował jakąś dziewuchę i ta urodziła mu syna. Ponoć już dzieciak jest już dorosły, a Gobel woła z ambony o powściągliwości i życiu w cnocie, pętak!
+$LETTER_H_02_01_03_003_P1_MANI
+wśród hierarchów zadomowił się straszny grzesznik. Arcybiskup Gobel ma nieślubne dziecko, a przecież Francja miała się oczyścić z takim ludzi.
+$LETTER_H_02_01_03_004_P1_JOKE
+arcybiskup Gobel wychędożył dziewkę i ta dziewka urodziła mu bachora. Kobita ma ponoć zamieszkiwać Paryż, o czym arcybiskup nie wie.
+$LETTER_H_02_01_03_005_P1_HUMI
+chodzą słuchy, iż arcybiskup Gobel ma nieślubnego bachora, a matka chłopaka mieszka w Paryżu. Nie mnie osądzać tych ludzi, ale wydaje mi się to nie w porządku.
+$LETTER_H_02_01_03_006_P2_BASE
+Opinia donosiciela
+$LETTER_H_02_01_03_006_P2_AGGR
+Takich dwulicowych kłamców należałoby wbić na pikę, jak obrońców Bastylii. Głowę wbić, znaczy się.
+$LETTER_H_02_01_03_007_P2_MANI
+Nie możemy pozwolić by takie jednostki zatruwały nowe społeczeństwo, które zbudowaliśmy z takim trudem w oparciu o prawdę.
+$LETTER_H_02_01_03_008_P2_JOKE
+Niech każdy chędoży się kogo chce i ile chce. Ale niech później siedzi cicho, a nie mnie poucza z ambony.
+$LETTER_H_02_01_03_009_P2_HUMI
+Ktoś powinien się tym zająć. Może ci ludzie nie zdają sobie sprawy z tego jaką krzywdę czynią społeczeństwu?
+
+$INVITATION_CO_02_01_05_001_MAIN
+Szanowny sędzio,
+
+dzisiaj wieczorem odbędzie się pod Paryżem bal, którego uczestnikami będą najznamienitsze umysły Francji. Tej lepszej części Francji. Oczekujemy Twego przybycia w charakterze gościa. Ja i moi wspólnicy mamy Ci do przekazania… ważne informacje. Powóz będzie czekał pod gmachem sądu.
+$INVITATION_CO_02_01_05_001_SENDER
+Clément Renard
+
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_001_MAIN
+Drogi Alexisie,
+
+nie mogę dłużej żyć z ciężarem niezamierzonego grzechu, który popełniłem. Alexisie, muszę wyznać, że… miałem związek ze śmiercią małego Frédérica. Przyszli do mnie ludzie, którzy przekazali mi, że mój syn, jedyny syn, został złapany podczas próby dezercji i czeka na rozstrzelanie. Pokazali… dowody. Obiecali, że doprowadzą do jego uwolnienia, o ile opowiem im dokładnie o Twojej rodzinie – o Waszych zwyczajach, poglądach. Sprzedałem im kilka, wydawałoby się, niewinnych informacji, a oni wykorzystali je, by zabić. Nie chciałem niczyjej śmierci, nikogo nie zabiłem. Oni to zrobili, ale wyrzuty sumienia dopadają mnie. Nie mogę tak dłużej żyć, siedzieć z Tobą na jednej sali i udawać, że nic się nie stało. Mam nadzieję, że kiedyś mi wybaczysz. Że kiedyś zrozumiesz, jak mnie oszukano. Zawsze byłem przyjacielem Twoim i całej rodziny, Fidéle. Żegnaj, przyjacielu.
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_002_SENDER
+Raymond Dévoyé
+
+$BROTHER_ARMY_POPUP_TITLE
+Ostrzeżenie
+$BROTHER_ARMY_POPUP_MAIN_01
+Wojska twojego brata przybędą za 4 dni.
+$BROTHER_ARMY_POPUP_MAIN_02
+Wojska twojego brata przybędą za 3 dni.
+$BROTHER_ARMY_POPUP_MAIN_03
+Wojska twojego brata przybędą za 2 dni.
+$BROTHER_ARMY_POPUP_MAIN_04
+Wojska twojego brata przybędą jutro.
+

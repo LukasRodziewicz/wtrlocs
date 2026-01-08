@@ -1,0 +1,30 @@
+$CUT_049_001
+Dün susturmamı istediğiniz o ajan var ya… İş tamam, ama görmeniz gereken bir şey var.
+$CUT_049_002_JUDGE
+Bana sıradan bir ceset mi göstermek istiyorsunuz?
+$CUT_049_003_GUARDSMAN
+Bu sadece bir ceset değil. Şu kolyeye bakın.
+$CUT_049_004_JUDGE
+Bir zambak çiçeği.
+$CUT_049_005_GUARDSMAN
+Kıyafetlerinin altında daha fazlası gizli.
+$CUT_049_006_GUARDSMAN
+Pelerininin iç cebinde bir mesaj bulduk.
+$CUT_049_007_GUARDSMAN
+Bu bir emir. Birisi o adama, bölgede gizemli bir “R” için destek toplamasını söylemiş.
+$CUT_049_008_JUDGE
+Louis’nin yerine geçmeye cüret edecek kadar kibirli kim var?
+$CUT_049_009_GUARDSMAN
+Onun gibi insanları gizlice örgütleyebilecek güç yalnızca aristokratlarda var.
+$CUT_049_010_JUDGE
+Onlar bile Konvansiyon’da birinden yardım almak zorunda kalırdı. Peki, kim bu “R”?
+$CUT_049_011_GUARDSMAN
+Belki Robespierre mi? Eğer aristokratlarla iş birliği yapıyorsa, bunu birine, herkese anlatmalıyız!
+$CUT_049_012_JUDGE
+Bunun arkasında Bakan Roland da olabilir. Emin olmadan harekete geçersek, sadece paniğe yol açarız.
+$CUT_049_013_GUARDSMAN
+Öyleyse, diğer ajanların peşine düşmemiz gerekecek. Bundan artık bir şey öğrenemeyiz.
+$CUT_049_014_JUDGE
+Başka bir seçeneğimiz yok.
+$CUT_049_015_JUDGE
+Eğer bu “R” destek kazanmaya çalışıyorsa, sen de aynısını yapmalısın. Daha büyük bir iyilik uğruna…

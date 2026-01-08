@@ -1,0 +1,45 @@
+$DIAL_CO_01_03_21_V1_001_PACHE
+Ty kanalio. Ty… ty… wężu zdradziecki. To nie Danton mnie zdradził. To zawsze byłeś ty.
+$DIAL_CO_01_03_21_V1_002_JUDGE
+On też.
+$DIAL_CO_01_03_21_V1_003_PACHE
+Jak mogłeś? Przecież mieliśmy być…
+$DIAL_CO_01_03_21_V1_004_JUDGE
+Przyjaciółmi, tak. Nie marnujmy czasu. Przyznaj się do oskarżeń o zdradę, a twoja córka wyjdzie wolna. Tobie nie mogę tego zagwarantować.
+$DIAL_CO_01_03_21_V1_005_PACHE
+Nie zaatakowałem cię z własnej woli. Kazali mi!
+$DIAL_CO_01_03_21_V1_006_JUDGE
+To nieistotne. Odpowiesz za zamach na równi ze wszystkimi.
+$DIAL_CO_01_03_21_V1_007_PACHE
+Ukrzyżują mnie. Przez ciebie, przez osobę, która obiecywała mi przyjaźń i sojusz!
+$DIAL_CO_01_03_21_V1_008_JUDGE
+Z pewnością odwołają cię ze stanowiska, ale będziesz żył. I Marie również. Jeśli będziesz się szarpał, to oboje stracicie głowy.
+$DIAL_CO_01_03_21_V1_009_PACHE
+Zapłacisz za to, przysięgam.
+$DIAL_CO_01_03_21_V1_010_JUDGE
+Możliwe, ale ty najpierw. Rozprawa zacznie się lada moment – nie masz dużo czasu do namysłu.
+
+$DIAL_CO_01_03_21_V2_001_PACHE
+Moja córka nie żyje.
+$DIAL_CO_01_03_21_V2_002_JUDGE
+Wiem.
+$DIAL_CO_01_03_21_V2_003_PACHE
+Poderżnęła sobie gardło z powodu jakiejś… dziewczyny.
+$DIAL_CO_01_03_21_V2_004_JUDGE
+Wiem.
+$DIAL_CO_01_03_21_V2_005_PACHE
+A za wszystkim stałeś ty. Drań, kanalia… przyjaciel.
+$DIAL_CO_01_03_21_V2_006_JUDGE
+Nigdy nie byłem twoim przyjacielem. Danton też.
+$DIAL_CO_01_03_21_V2_007_PACHE
+Co teraz ze mną będzie?
+$DIAL_CO_01_03_21_V2_008_JUDGE
+Przyznaj się, a wyjdziesz wolno. Odmówisz współpracy – umrzesz na gilotynie.
+$DIAL_CO_01_03_21_V2_009_PACHE
+A czy któraś z tych opcji zwróci mi córkę?
+$DIAL_CO_01_03_21_V2_010_JUDGE
+Nie sądzę.
+$DIAL_CO_01_03_21_V2_011_PACHE
+To wypchaj się ze swoimi propozycjami.
+$DIAL_CO_01_03_21_V2_012_JUDGE
+Do rozprawy zostało jeszcze kilka chwil. Radziłbym ci dobrze się zastanowić.

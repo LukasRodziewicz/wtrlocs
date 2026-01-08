@@ -1,0 +1,38 @@
+$DIAL_H_01_02_17_001_SPY
+Vous êtes resté longtemps inconscient.
+$DIAL_H_01_02_17_002_JUDGE
+Qui est l’homme qui m'a, selon toutes vraisemblances, sauvé la vie ? 
+$DIAL_H_01_02_17_003_SPY
+Grégory Ramel. Vous ne me connaissez pas, mais j'en sais beaucoup sur vous. Quant à madame, je vous présente…
+$DIAL_H_01_02_17_004_JUDGE
+Je connais Grace Elliott… Est-ce vous qui m'avez recousu ?
+$DIAL_H_01_02_17_005_GRACE_ELLIOTT
+Ce n'est pas la première fois que je sauve la vie de quelqu'un. Cette révolution fait plus de victimes que vous ne le croyez.
+$DIAL_H_01_02_17_006_SPY
+Vous empiétez sur les plates-bandes du ministre Roland, et surtout, sur le commerce de son épouse audacieuse, sur l'établissement duquel leurs alliés, à savoir Jean-Nicolas Pache, maire de Paris, et Jean-Baptiste Gobel, archevêque de Paris, tirent des bénéfices.
+$DIAL_H_01_02_17_007_JUDGE
+Je l'ignorais…
+$DIAL_H_01_02_17_008_SPY
+Si cette information était à la portée de toutes les oreilles, ils auraient à s'inquiéter d'un saboteur.
+$DIAL_H_01_02_17_009_JUDGE
+Et pourtant, vous le savez…
+$DIAL_H_01_02_17_010_SPY
+Parce que je vis des secrets que j'apprends. Le bruit court que les Girondins cherchent à conquérir la Convention par la force. L'humiliation du roi et la révélation du rapport que ce traître couronné entretenait avec Roland, Girondin de premier plan, les ont fragilisés. Les Jacobins risquent de saisir cette occasion, avec Robespierre et Danton à la manœuvre. Il pourrait s'agir de leur moment.
+$DIAL_H_01_02_17_011_JUDGE
+Je ne veux pas me mêler à cela. Ces gens ne plaisantent pas.
+$DIAL_H_01_02_17_012_SPY
+Je crains que vous n'ayez pas le choix, du moins tant que les Roland seront en vie. Aussitôt qu'ils auront appris que vous avez survécu à l'attaque, ils récidiveront. Votre condamnation à mort a déjà été prononcée.
+$DIAL_H_01_02_17_013_JUDGE
+Vous semblez en savoir beaucoup sur moi. Comment cela se fait-il ? Je ne comprends pas…
+$DIAL_H_01_02_17_014_GRACE_ELLIOTT
+Cela suffit. Vous devez vous reposer, retrouver vos forces. Vos blessures…
+$DIAL_H_01_02_17_015_SPY
+J'ai connu votre frère…
+$DIAL_H_01_02_17_016_GRACE_ELLIOTT
+Monsieur Grégory !
+$DIAL_H_01_02_17_017_SPY
+Vous avez raison. Nous en parlerons une autre fois.
+$DIAL_H_01_02_17_018_JUDGE
+Je ne vous ai pas encore remercié…
+$DIAL_H_01_02_17_019_SPY
+Vous en aurez l'occasion.

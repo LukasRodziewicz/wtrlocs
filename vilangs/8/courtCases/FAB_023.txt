@@ -1,0 +1,142 @@
+$FAB_023_DOC_01_HEADER
+Compilado por: Fabrice Poli
+$FAB_023_DOC_01_00
+Nós o pegamos, monsieur le juge, pegamos Robespierre! Finalmente, podemos julgá-lo pelo terror que trouxe sobre nós. Por todas as acusações de traição! Por suas inclinações ditatoriais!
+$FAB_023_DOC_01_01
+Em uma época em que o novo governo estava repleto de corruptos, ele ganhou o apelido de “O Incorruptível”. Ainda assim, a França pagou com sangue por seus ideais. <a name="1" class="hidden">A Lei de 22 Prairial</a>, que permitia condenar pessoas sem julgamento, pode ter sido proposta por Couthon, mas foi a autoridade de Robespierre que garantiu sua aplicação. O réu queria dar a si mesmo o poder de eliminar seus adversários políticos — uma ferramenta perfeita para impedir que testemunhassem em tribunal. Quando Robespierre apontava alguém, era como assinar sua sentença de morte.
+$FAB_023_DOC_01_02
+Além disso, segundo rumores, Robespierre teria sugerido certa vez, durante um jantar com Bertrand Barère, que a França só teria a ganhar ao <a name="3" class="hidden">dizimar sua população</a>. Apenas uma sociedade arruinada e reduzida, mas ideologicamente pura, poderia reconstruir a França no espírito da Revolução.
+$FAB_023_DOC_01_03
+Por que Robespierre, um homem cuja reputação já foi irrepreensível, cometeria tais atrocidades? Ditadura, monsieur le juge, é nossa última acusação. Não encontramos outra explicação lógica além do desejo do Incorruptível de conquistar <a name="4" class="hidden">poder absoluto</a> sobre a França, o que equivale a traição! Após a prisão do réu, revistamos o Hôtel de Ville e encontramos um selo <a name="5" class="hidden">gravado com a flor-de-lis</a> – o principal símbolo do poder realista.
+$FAB_023_OnStart_00
+Antes de tudo, pergunto ao réu se está em condições de falar. Pois bem?
+$FAB_023_OnStart_01
+Eu... não consigo...
+$FAB_023_OnStart_02
+Monsieur le juge, todos aqui exigem que, conforme a lei, confirmemos apenas a identidade do réu e proclamemos a sentença sem julgamento.
+$FAB_023_OnStart_03
+De acordo com a lei, talvez, mas será que é moral?
+$FAB_023_OnStart_04
+Que o Incorruptível prove na própria pele a lei que impôs aos outros!
+$FAB_023_OnStart_05
+Você é Maximilien Robespierre?
+$FAB_023_OnStart_06
+Sim...
+$FAB_023_OnStart_07
+Agora podemos condená-lo à morte por seus crimes contra o povo!
+$FAB_023_OnGuilty_00
+Culpado! E repito – ele é culpado! Que vá para a guilhotina!
+$FAB_023_OnGuilty_01
+O fim da tirania!
+$FAB_023_OnGuilty_02
+Viva o Juiz!
+$FAB_023_OnNotGuilty_00
+Não podemos condenar este estadista. Liberte-o.
+$FAB_023_OnNotGuilty_01
+Obrigado, obrigado!
+$FAB_023_OnNotGuilty_02
+Não gostaria de estar no seu lugar quando a multidão te alcançar.
+$FAB_023_OnNotGuilty_03
+O juiz está em conluio com esse traidor!
+$FAB_023_01x03_00_QTitle
+Foi você quem pressionou pela aprovação da Lei de 22 de Pradial na Convenção…?
+$FAB_023_01x03_00_00
+Foi você quem pressionou pela aprovação da Lei de 22 Prairial na Convenção para permitir o massacre de civis?
+$FAB_023_01x03_00_01
+Difícil... falar...
+$FAB_023_01x03_00_02
+Vai ser ainda mais difícil quando cortarem sua cabeça.
+$FAB_023_01x03_00_03
+Não para... matar...
+$FAB_023_01x03_00_04
+Então por que essa lei criminosa e assassina?
+$FAB_023_01x03_00_05
+Pelo bem–
+$FAB_023_01x03_00_06
+Se ele disser que é para o nosso bem, eu mesmo arranco a cabeça dele!
+$FAB_023_01x03_00_07
+Da França. Não sua…
+$FAB_023_02x04_01_QTitle
+Você almejou o poder absoluto?
+$FAB_023_02x04_01_00
+Você desejou o poder absoluto?
+$FAB_023_02x04_01_01
+Nunca...
+$FAB_023_02x04_01_02
+Ainda assim, é conhecido por adotar medidas implacáveis contra aqueles que–
+$FAB_023_02x04_01_03
+Política... até aqui. Política...
+$FAB_023_02x04_01_04
+Estamos no tribunal agora, e aqui quem governa é Têmis.
+$FAB_023_02x04_01_05
+Deixe... que os tolos... continuem pensando assim.
+$FAB_023_02x04_01_06
+Dê a esse desgraçado o que ele merece!
+$FAB_023_02x04_01_07
+Permito-me lembrar que a identidade do réu foi confirmada e sua culpa é evidente. Já pode ser sentenciado–
+$FAB_023_02x04_01_08
+Conheço a lei, promotor Tinville.
+$FAB_023_02x04_01_09
+Rápido... estou desmaiando...
+$FAB_023_02x05_02_QTitle
+Você admite ser culpado de traição e de decapitar políticos hostis aos países vizinhos?
+$FAB_023_02x05_02_00
+Você admite ser culpado de traição e de decapitar políticos hostis aos países vizinhos?
+$FAB_023_02x05_02_01
+Nunca... não...
+$FAB_023_02x05_02_02
+Não consigo nem olhar para esse traidor.
+$FAB_023_02x05_02_03
+Eu servi apenas à França... ao povo...
+$FAB_023_02x05_02_04
+Então por que você tem um selo com a flor-de-lis?
+$FAB_023_02x05_02_05
+Falsificado... não é meu...
+$FAB_023_02x05_02_06
+Ele está tentando sair dessa com mentiras!
+$FAB_023_02x05_02_07
+Qual governante estrangeiro lhe prometeu o trono caso eliminasse os políticos leais à Revolução?
+$FAB_023_02x05_02_08
+Eliminei... sabotadores. Como... você.
+$FAB_023_02x05_02_09
+Vamos arrancar sua cabeça!
+$FAB_023_04x03_03_QTitle
+As prisões recentes foram apenas um prelúdio para sua “decimação da sociedade”?
+$FAB_023_04x03_03_00
+As prisões recentes foram apenas um prelúdio para sua “decimação da sociedade”?
+$FAB_023_04x03_03_01
+Ele é o próprio diabo!
+$FAB_023_04x03_03_02
+Fofocas... jamais poderia...
+$FAB_023_04x03_03_03
+Que tipo de homem seria capaz de imaginar algo assim–
+$FAB_023_04x03_03_04
+Um monstro...
+$FAB_023_04x03_03_05
+Destruir a nação e abrir espaço para aqueles que lhe são leais?
+$FAB_023_04x03_03_06
+É algo indescritivelmente terrível.
+$FAB_023_04x03_03_07
+Não fui eu...
+$FAB_023_04x03_03_08
+Dezenas de milhares têm seu sangue em suas mãos. Não é boato — você tentou destruir toda a nação!
+$FAB_023_KEY_01
+A Lei de 22 de Prarial
+$FAB_023_KEY_02
+Eliminação de opositores políticos
+$FAB_023_KEY_03
+Assassinato em massa
+$FAB_023_KEY_04
+Poder absoluto
+$FAB_023_KEY_05
+Selo com a flor-de-lis
+$FAB_023_LastDialog_00
+…
+$FAB_023_UNIQUE_QUESTION_00
+Como o réu explicou estar de posse de um selo com o símbolo da realeza?
+$FAB_023_UNIQUE_ANSWER_CORRECT_00_00
+Ele afirma que foi falsificado.
+$FAB_023_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Foi um presente de aniversário.
+$FAB_023_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ele a confiscou de um ministro real.

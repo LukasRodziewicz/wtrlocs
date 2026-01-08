@@ -1,0 +1,22 @@
+$EVE_005_TITLE
+Delicious Quadrupeds
+$EVE_005_MAIN_01
+The street empties as the sun sets. You walk along the still-warm pavement, thinking about the delicious supper your wife has prepared. You are so relaxed that you do not notice a woman dashing around the corner. She runs into you with such force that you are both sent flying. She drops a sack, freeing several cats. The woman jumps to her feet and tries to catch them, but two manage to escape. “They got away,” she yells, unable to decide which one to chase first. “No money, no pâté,” adds the woman, and you suddenly know exactly what is going on…
+$EVE_005_MAIN_01_C1
+Arrest the woman.
+$EVE_005_MAIN_01_C2
+Leave the woman alone.
+$EVE_005_MAIN_02A
+You grab her by the arm and take her to the nearest Guards. The woman looks at you, trying to quietly convince you that pâté is superior to the lives of cats. The Guards are obviously surprised when you hand them the package. “I didn’t collect them for me,” says the terrified woman after some time. “They’re for the butcher’s son. He’s a specialist.” As the Guards take her away, you ponder on what she said. The butcher’s son. What will you do about this master of French cuisine?
+$EVE_005_MAIN_02A_C1
+Arrest the butcher’s son.
+$EVE_005_MAIN_02A_C2
+Expose the butcher’s son.
+$EVE_005_MAIN_02B
+The woman leaves clutching the sack. She looks around every few metres, seeking her prey, the meatier the better. You have more pressing things to attend to than watching someone hunt for pâté meat…
+$EVE_005_MAIN_03A
+Disgusting! The pastry cook has been feeding people cat meat!
+$EVE_005_MAIN_03B
+Parisians did not like the truth. It turned out that the resourceful pastry cook had more clients than expected – and they were furious. So angry, in fact, that he had to die. One strong blow knocked the culinary passion out of his head. Well, any passion, to be exact. It will be impossible to find out who was carrying the deadly bat.
+$EVE_005_MAIN_03C
+The delicious pâté is still very popular on the table of many Parisian households. Well, it is exceedingly good.

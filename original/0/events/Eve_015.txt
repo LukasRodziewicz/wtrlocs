@@ -1,0 +1,36 @@
+$EVE_015_TITLE
+Biznes życia
+
+$EVE_015_MAIN_01
+Twoją żonę odwiedził pewien mężczyzna, Blaise Roy, z którym łączy ją… przeszłość emocjonalna. Pożyczył on pieniądze od dwóch paryskich banków na rozkręcenie własnego biznesu – zakładu tkackiego. Już zapewne się domyślasz, że interes nie idzie do końca po jego myśli. Stara się uzyskać od banków zgodę na odroczenie spłaty pożyczki. Pierwszy bank się zgodził, drugi już nie. Teraz ten człowiek liczy, że wykorzystasz swoją pozycję, by mu pomóc. Wywiera presję na twoją żonę, która według niego jest mu to winna.
+
+$EVE_015_MAIN_01_C1
+Zbadaj sprawę
+$EVE_015_MAIN_01_C2
+Aresztuj mężczyznę
+$EVE_015_MAIN_01_C3
+Zignoruj temat
+
+$EVE_015_MAIN_02A
+Zastanawiało mnie, dlaczego bank miałby tak bardzo oponować przy rozmowach o wydłużeniu czasu spłaty. Problemem jest szef banku, pan Abel Daquin, który ma żonę i córkę. Plotka głosi, że obie obdarzyły Blaise’a ciepłem swoich ciał, właściciel banku się o tym dowiedział i teraz jest w stanie pozwolić sobie na stratę kwoty, którą bank pożyczył.
+
+$EVE_015_MAIN_02A_C1
+Aresztuj Blaise’a
+$EVE_015_MAIN_02A_C2
+Poproś szefa banku o przysługę
+$EVE_015_MAIN_02A_C3
+Zastrasz szefa banku
+
+$EVE_015_MAIN_02B
+Może i dało się wyczuć delikatną nutkę szantażu w prośbie tego mężczyzny, ale czego innego spodziewać się można po kimś przyciśniętym do muru?
+$EVE_015_MAIN_02C
+Nie obchodzą cię sprawy maluczkich, rozumiem to. Przeszli zalotnicy twojej żony obchodzą cię jeszcze mniej. No dobrze.
+
+$EVE_015_MAIN_03B
+Nie ma to jak pogawędka z kimś na swoim poziomie. Dla szefa banku nasz delikwent jest pchłą – dokuczliwą przez swoje uczynki, ale nadal pchłą, która nie ma środków, by mu się przeciwstawić. Co innego sędzia Trybunału. Nie wypada nie zaprosić takiego przybysza na kieliszek wina. Mówiłeś w imieniu poszkodowanego. Abel Daquin pozostał niewzruszony – do czasu opatrzenia wszystkiego obietnicą dozgonnej wdzięczności i odwzajemnienia tej przysługi w przyszłości. Zgodził się. Spłata będzie odroczona.
+$EVE_015_MAIN_03C
+Bankier nie wydawał się zachwycony twoją wizytą w towarzystwie dwóch rosłych strażników odzianych w cywilne ubrania. Tak, drewniane kije w ich dłoniach nie pasowały im do butów. Bankier wysłuchał cię uważnie. Oczywiście przystał na twoją prośbę odroczenia. Ale nie zapomni.
+
+$EVE_015_MAIN_03E
+Przynoszę straszne wieści. Blaise Roy popełnił samobójstwo w więzieniu. Biedak podciął sobie żyły, nie wiem, jak to się stało. Wygląda na to, że jego rozprawa się nie odbędzie…
+

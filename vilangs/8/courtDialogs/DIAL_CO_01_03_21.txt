@@ -1,0 +1,44 @@
+$DIAL_CO_01_03_21_V1_001_PACHE
+Canalha! Você... você, serpente! Danton nunca me traiu. Foi você!
+$DIAL_CO_01_03_21_V1_002_JUDGE
+Ele também.
+$DIAL_CO_01_03_21_V1_003_PACHE
+Como pôde? Nós deveríamos ser...
+$DIAL_CO_01_03_21_V1_004_JUDGE
+Amigos, sim. Não vamos perder mais tempo. Admita que as acusações de traição são verdadeiras e sua filha será libertada. Para você, porém, não posso prometer o mesmo.
+$DIAL_CO_01_03_21_V1_005_PACHE
+Eu ataquei você porque me mandaram fazer isso!
+$DIAL_CO_01_03_21_V1_006_JUDGE
+Isso não importa. Você será julgado como todos os outros assassinos.
+$DIAL_CO_01_03_21_V1_007_PACHE
+Vão me crucificar por sua causa! Logo você, que me prometeu amizade, uma aliança!
+$DIAL_CO_01_03_21_V1_008_JUDGE
+Com certeza vão tirá-lo do cargo, mas você vai sobreviver. Marie também. Mas se continuar latindo, ambos perderão a cabeça.
+$DIAL_CO_01_03_21_V1_009_PACHE
+Você vai pagar por isso, eu juro.
+$DIAL_CO_01_03_21_V1_010_JUDGE
+Talvez, mas você vai pagar primeiro. Seu julgamento começa a qualquer momento, então não lhe resta muito tempo para pensar.
+$DIAL_CO_01_03_21_V2_001_PACHE
+Minha filha está morta.
+$DIAL_CO_01_03_21_V2_002_JUDGE
+Eu sei.
+$DIAL_CO_01_03_21_V2_003_PACHE
+Ela cortou a própria garganta por causa de uma... garota.
+$DIAL_CO_01_03_21_V2_004_JUDGE
+Eu sei.
+$DIAL_CO_01_03_21_V2_005_PACHE
+Tudo isso é culpa sua, seu desgraçado! Eu achei que éramos amigos.
+$DIAL_CO_01_03_21_V2_006_JUDGE
+Nunca fui seu amigo. Assim como Danton.
+$DIAL_CO_01_03_21_V2_007_PACHE
+O que vai acontecer comigo?
+$DIAL_CO_01_03_21_V2_008_JUDGE
+Confesse, e será libertado. Recuse-se a cooperar, e morrerá na guilhotina.
+$DIAL_CO_01_03_21_V2_009_PACHE
+Alguma dessas opções vai trazer minha filha de volta?
+$DIAL_CO_01_03_21_V2_010_JUDGE
+Não creio que seja o caso.
+$DIAL_CO_01_03_21_V2_011_PACHE
+Então pode cair fora.
+$DIAL_CO_01_03_21_V2_012_JUDGE
+O julgamento começará em poucos minutos. É melhor pensar bem antes.

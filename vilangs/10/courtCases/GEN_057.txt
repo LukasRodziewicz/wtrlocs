@@ -1,0 +1,202 @@
+$GEN_057_DOC_01_HEADER
+Hazırlayan: Charles Etienne
+$GEN_057_DOC_01_00
+	Raphaël Gallois’yu Devrim’e karşı komplo kurmakla suçluyoruz. Bu yaşlı <a name="2" class="hidden">Monarşist</a>, kendi <a name="1" class="hidden">atölyesinde</a> <a name="3" class="hidden">Capet ailesini</a> saray mensupları ve askerlerle çevrili şekilde gösteren propaganda materyalleri üretmiştir.
+$GEN_057_DOC_01_01
+	Suç şüphesi ayın başında ortaya çıktı. O sırada Yurttaş Gallois’nın atölyesi zaten gözetim altındaydı. Şüphelinin tüm propaganda malzemelerini gerçekten kendi ürettiğinden emin olunca, kılık değiştirmiş bir subay atölyeye gönderilip sorgulama yaptı. Sorgu sırasında, Yurttaş Gallois’in sunduğu ürünün adının “satranç” olduğunu, bin yılı aşkın bir geçmişiyle doğudan gelen eski bir oyun olduğunu söylediği iddia edildi.
+$GEN_057_DOC_01_02
+	Suçun gerçek yüzü ise ancak bu sözde doğulu oyunun <a name="7" class="hidden">kuralları gösterildiğinde</a> ortaya çıktı. Gallois’nin icat ettiği oyunda kral, merkezdedir ve en önemli taştır. Sorgucu bunu defalarca sordu, sanık ise her seferinde kuralların kralın alınmasına izin vermediğinde ısrar etti. Kraliçe ise tahtadaki en güçlü taştır, bu da ayrıca huzursuzluk yaratıyor. Diğer taşlar arasında şövalyeler, yani soylular, ve <a name="8" class="hidden">yıkılmış Bastille’i</a> andıran kaleler bulunuyor. Daha da kötüsü, her yeni oyuna <a name="9" class="hidden">beyaz kralı</a> kontrol eden oyuncu başlıyor; bu da doğrudan XVI. Louis’ye bir gönderme.
+$GEN_057_OnStart_00
+Bana öyle geliyor ki bu sefer Muhafızlardaki dostlarımız biraz fazla ileri gitmişler...
+$GEN_057_OnStart_01
+Onu sorgulamam gerekiyor. Kendinizi tanıtın.
+$GEN_057_OnStart_02
+Raphaël Gallois. Bir zanaatkâr, Sayın Yargıç.
+$GEN_057_OnStart_03
+Propaganda faaliyetlerine katılıyor musunuz?
+$GEN_057_OnStart_04
+Pro... pa... Ne tam olarak?
+$GEN_057_OnStart_05
+Propaganda.
+$GEN_057_OnStart_06
+İnsanları monarşinin geri gelmesini desteklemeye ikna ediyor muydunuz?
+$GEN_057_OnStart_07
+Bu sümüklü kral yalakasını giyotine gönderin!
+$GEN_057_OnStart_08
+Ben öyle bir şey yapmadım, sadece atölyemde oturup her zamanki gibi çalıştım.
+$GEN_057_OnGuilty_00
+Raphaël Gallois’yu monarşiyi desteklediği için idama mahkûm ediyorum.
+$GEN_057_OnGuilty_01
+Versailles’in canavarlarını destekleyenlerin sonu işte böyle olur!
+$GEN_057_OnGuilty_02
+Bugünlerde, herkes her şeyden yargılanabilir.
+$GEN_057_OnPrison_00
+Vatandaş Gallois, Monarşist propaganda yaydığı için beş yıl hapis cezası alacak.
+$GEN_057_OnPrison_01
+Güzel, bir daha Capet için kışkırtmaya kalkmadan önce iki kere düşünürler!
+$GEN_057_OnPrison_02
+Şimdi herkes, her şeyden yargılanabiliyor.
+$GEN_057_OnNotGuilty_00
+Raphaël Gallois’un suçsuz olduğuna hükmediyorum! Bu suçlama tamamen saçmaydı.
+$GEN_057_OnNotGuilty_01
+Yargıç, kralın uşaklığını yapıyor!
+$GEN_057_01x09_00_QTitle
+Monarşiyi destekliyor musunuz?
+$GEN_057_01x09_00_00
+Monarşiyi destekliyor musunuz?
+$GEN_057_01x09_00_01
+Vergilerimi zamanında ödemeye çalışıyorum, gerisi de beni öpebilir–
+$GEN_057_01x09_00_02
+Ağzınıza dikkat edin!
+$GEN_057_01x09_00_03
+Bu yaşlı bunak, Devrim Mahkemesi’ne karşı gelmeye cüret ediyor.
+$GEN_057_01x09_00_04
+Ama sizin oyununuzda bir de beyaz şah var, değil mi?
+$GEN_057_01x09_00_05
+Eee, bunda ne kötülük var?
+$GEN_057_01x09_00_06
+Beyaz, Louis Capet’in geleneksel rengiydi — bunu bilmiyormuş gibi davranmayın.
+$GEN_057_01x09_00_07
+Aklıma bile gelmedi, yemin ederim. Yeni otoriteye karşı hiçbir şey yapmadım.
+$GEN_057_02x07_01_QTitle
+Oyununuzu görmek isteyenlere gösterdiniz mi?
+$GEN_057_02x07_01_00
+Oyununuzu görmek isteyenlere gösterdiniz mi?
+$GEN_057_02x07_01_01
+Satranç mı? Benim oyunum değil, ama evet, yüzlerce kişiye oynamayı öğrettim.
+$GEN_057_02x07_01_02
+Oyun kartlarında da kral ve kraliçe var, ee ne olmuş?
+$GEN_057_02x07_01_03
+Oyun kralı korumakla mı ilgili?
+$GEN_057_02x07_01_04
+Amaç bu.
+$GEN_057_02x07_01_05
+Neden kral da millet değil?
+$GEN_057_02x07_01_06
+Bilmiyorum, bu oyun yüzlerce yıllık, ben–
+$GEN_057_02x07_01_07
+Kuralları değiştirmeyi hiç düşündünüz mü?
+$GEN_057_02x07_01_08
+Nasıl yapılır, bilemem ki. Sonuçta ben sadece sıradan bir zanaatkârım, değil mi–
+$GEN_057_02x07_01_09
+Ama başka bir ürün üretmeyi de seçebilirdiniz, doğru mu?
+$GEN_057_02x07_01_10
+Aslında yapabilirdim, ama aklıma gelmedi.
+$GEN_057_03x06_02_QTitle
+Oyunda bir kral ve kraliçe var mı?
+$GEN_057_03x06_02_00
+Oyunda bir kral ve kraliçe var mı?
+$GEN_057_03x06_02_01
+Elbette.
+$GEN_057_03x06_02_02
+Bu oyunu kim icat etti?
+$GEN_057_03x06_02_03
+Bilmiyorum, eski bir oyunmuş diyorlar, Perslerden ya da Hindistan’dan gelmiş.
+$GEN_057_03x06_02_04
+Yalancı! Louis’nin destekçileri her zaman yalancıdır!
+$GEN_057_03x06_02_05
+Babamdan ne öğrendiysem, o kadarını biliyorum.
+$GEN_057_03x06_02_06
+Bu oyunu da o mu yaptı?
+$GEN_057_03x06_02_07
+Yaşlılığında, çiftliğini sattıktan sonra.
+$GEN_057_04x08_03_QTitle
+Muhafızın sorgucusu, bazı taşlarınızın Bastille kulelerini andırdığını iddia ediyor.
+$GEN_057_04x08_03_00
+Muhafızın sorgucusu, taşlarınızdan bazılarının Bastille kulelerini andırdığını iddia ediyor.
+$GEN_057_04x08_03_01
+Öyle.
+$GEN_057_04x08_03_02
+Neden?
+$GEN_057_04x08_03_03
+Çünkü satrançta kaleler yapman gerekir, tıpkı bir şatodaki gibi.
+$GEN_057_04x08_03_04
+Peki, neden Bastille’in kuleleriyle birebir aynı?
+$GEN_057_04x08_03_05
+Başka kule görmedim ki, bildiklerimi yaptım.
+$GEN_057_04x08_03_06
+Bu savcı kör mü, yoksa aptal mı?
+$GEN_057_05x02_04_QTitle
+Atölyenizi gizlediniz mi?
+$GEN_057_05x02_04_00
+Atölyenizi gizlediniz mi?
+$GEN_057_05x02_04_01
+Hiç bile, zemin katta ve tabelam var. Kapısı dar, vitrini küçücük ama kirası düşük, yargıç bey.
+$GEN_057_05x02_04_02
+Cesaret mi, cüret mi, yoksa düpedüz aptallık mı bu?
+$GEN_057_05x02_04_03
+Anlamıyorum, bay savcı. Müşteri çekmek istedim, neden saklanayım ki?
+$GEN_057_05x02_04_04
+Soruları cevapla, Louis’nin köpeği!
+$GEN_057_05x02_04_05
+Bu kadar malı nereden buldunuz? Ne için hazırlanıyordunuz?
+$GEN_057_05x02_04_06
+Hazırlık mı? Önce tahtadan parçaları yaparım, sonra boyarım. Ama son zamanlarda kimse almıyor...
+$GEN_057_05x02_04_07
+Ne demek istiyorsunuz?
+$GEN_057_05x02_04_08
+Eskiden satranç genellikle soylular ve din adamları tarafından alınırdı, ama artık belli ki akılları başka dertlerde.
+$GEN_057_05x02_04_09
+Duydunuz mu? Bu bir itiraf!
+$GEN_057_04x01_05_QTitle
+Ulusal Muhafızların sizi izlediğini fark ettiniz mi?
+$GEN_057_04x01_05_00
+Ulusal Muhafızların sizi izlediğini fark ettiniz mi?
+$GEN_057_04x01_05_01
+Hayır, yapmadım.
+$GEN_057_04x01_05_02
+Peki, fark edilseydiniz kaçmayı düşünür müydünüz?
+$GEN_057_04x01_05_03
+Aklımın ucundan bile geçmedi. Neden kaçayım ki?
+$GEN_057_04x01_05_04
+Raflarınız karşı-devrimci propaganda doluydu!
+$GEN_057_04x01_05_05
+O dürüst bir adam, neden kaçsın ki?
+$GEN_057_04x01_05_06
+Bu suçlama tam bir şaka. Açıklayacak hiçbir şeyim yok.
+$GEN_057_04x01_05_07
+O halde iyice düşünün. Hayatınız söz konusu.
+$GEN_057_KEY_01
+Monarşist
+$GEN_057_KEY_02
+Atölye
+$GEN_057_KEY_03
+Capetler
+$GEN_057_KEY_04
+Gözetim
+$GEN_057_KEY_05
+Propaganda malzemeleri
+$GEN_057_KEY_06
+Kadim oyun
+$GEN_057_KEY_07
+Kuralların gösterimi
+$GEN_057_KEY_08
+Yıkılmış Bastille
+$GEN_057_KEY_09
+Beyaz kral
+$GEN_057_LastDialog_00
+Halkım, bu korkunç bir hata!
+$GEN_057_UNIQUE_QUESTION_00
+Sanığın ürünlerini kim satın alıyordu?
+$GEN_057_UNIQUE_ANSWER_CORRECT_00_00
+Asiller ve ruhban sınıfı.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Kasaba halkı.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Kadınlar.
+$GEN_057_UNIQUE_QUESTION_01
+Satrançta amaç nedir?
+$GEN_057_UNIQUE_ANSWER_CORRECT_01_00
+Kralı korumak.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Kraliçeyi öldürmek.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Rakipten daha fazla piyonu öldürmek.
+$GEN_057_UNIQUE_QUESTION_02
+Sanık işini tanıttı mı?
+$GEN_057_UNIQUE_ANSWER_CORRECT_02_00
+Caddede bir tabela vardı.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Atölyesini yalnızca seçilmiş birkaç kişi bilirdi.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Gazeteye ilan vermek için para ödedi.

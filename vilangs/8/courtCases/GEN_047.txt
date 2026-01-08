@@ -1,0 +1,202 @@
+$GEN_047_DOC_01_HEADER
+Compilado por: Charles Étienne
+$GEN_047_DOC_01_00
+	Durante uma <a name="1" class="hidden">batalha</a> nos subúrbios, quatro lanceiros das tropas inimigas foram detidos pelo nosso regimento de milícia. Nossos soldados primeiro abateram seus cavalos e depois <a name="2" class="hidden">invadiram a estalagem</a> onde os cavaleiros haviam se refugiado a pé.
+$GEN_047_DOC_01_01
+	Contidos e amordaçados, os inimigos foram levados ao quartel-general provisório situado em uma pequena <a name="3" class="hidden">fazenda no interior</a>. Não havia tempo para interrogatórios, pois a contraofensiva ainda estava em curso. Assim, os prisioneiros foram mantidos em um porão de armazenamento, vigiados pelo soldado Victor Devalle, de 17 anos. Seguindo o protocolo, ele estava armado com um rifle e uma pistola.
+$GEN_047_DOC_01_02
+	À noite, um dos oficiais quis transferir os lanceiros para o estado-maior. Encontrou <a name="5" class="hidden">o guarda dormindo</a> perto da porta, e um dos cavaleiros conseguiu escapar. Os companheiros devem tê-lo erguido e ajudado a remover as velhas grades enferrujadas. O fugitivo revelou a localização do nosso estado-maior de campo e perdemos nossos prisioneiros.
+$GEN_047_OnStart_00
+Você é o soldado Victor Devalle?
+$GEN_047_OnStart_01
+Sim, monsieur le juge.
+$GEN_047_OnStart_02
+Quantos anos você tem?
+$GEN_047_OnStart_03
+Dezessete, monsieur le juge.
+$GEN_047_OnStart_04
+No meu tempo, as crianças eram mais responsáveis do que esse rapaz!
+$GEN_047_OnStart_05
+Há quanto tempo você serve no exército?
+$GEN_047_OnStart_06
+Por três semanas, monsieur le juge.
+$GEN_047_OnStart_07
+E você já conseguiu cometer um crime de guerra?
+$GEN_047_OnStart_08
+Você tem consciência das possíveis consequências que o aguardam? Deseja dizer algo?
+$GEN_047_OnStart_09
+Sim, senhor. Não era minha intenção deixar o prisioneiro escapar.
+$GEN_047_OnGuilty_00
+Soldado, sua negligência no cumprimento do dever poderia ter custado a vida de muitos. Sua execução servirá de exemplo.
+$GEN_047_OnGuilty_01
+Que tipo de selvagem mata uma criança só porque ela estava com sono?
+$GEN_047_OnNotGuilty_00
+Ao adormecer, você colocou muitas vidas em risco, mas ainda precisamos de você em nossas fileiras. Está livre para ir, soldado.
+$GEN_047_OnNotGuilty_01
+Não podemos ser tão indulgentes. Estamos em guerra.
+$GEN_047_OnNotGuilty_02
+Isso mesmo, soldados devem lutar, não apodrecer numa cela!
+$GEN_047_OnNotGuilty_03
+O quê? Por causa dele, toda a unidade poderia ter sido morta!
+$GEN_047_01x05_00_QTitle
+Por que você estava tão cansado no dia do incidente? Estava lutando?
+$GEN_047_01x05_00_00
+Por que você estava tão cansado no dia do incidente? Estava lutando?
+$GEN_047_01x05_00_01
+Somente pela manhã, monsieur le juge.
+$GEN_047_01x05_00_02
+Por quê?
+$GEN_047_01x05_00_03
+Minha coluna foi alvo de fogo de artilharia. Houve pânico, e conseguimos escapar.
+$GEN_047_01x05_00_04
+No meu tempo, lutávamos como homens. O que foi que aconteceu conosco?
+$GEN_047_01x05_00_05
+Você também fugiu, soldado?
+$GEN_047_01x05_00_06
+Um homem ao meu lado foi partido ao meio por uma bala de canhão... Eu...
+$GEN_047_01x05_00_07
+Você fugiu porque estava com medo?
+$GEN_047_01x05_00_08
+Sim, eu fiquei com medo.
+$GEN_047_01x05_00_09
+Deixe-me adivinhar, você também teve medo de atirar nos prisioneiros...
+$GEN_047_01x05_00_10
+Se eu não tivesse adormecido...
+$GEN_047_01x05_00_11
+É melhor você ficar quieto, garoto.
+$GEN_047_03x04_01_QTitle
+O quartel-general ficava numa fazenda?
+$GEN_047_03x04_01_00
+O quartel-general ficava numa fazenda?
+$GEN_047_03x04_01_01
+Era uma casa antiga, mais parecida com um barracão, cercada por algumas construções menores — um chiqueiro, um galinheiro e um depósito de lenha.
+$GEN_047_03x04_01_02
+Como o prisioneiro conseguiu escapar?
+$GEN_047_03x04_01_03
+Devem ter arrancado as grades. O prédio mal se mantinha de pé, monsieur le juge. Um leve empurrão já bastava...
+$GEN_047_03x04_01_04
+Em casas assim, até a porta parecia prestes a cair.
+$GEN_047_03x04_01_05
+Você não ouviu nada?
+$GEN_047_03x04_01_06
+Não, monsieur le juge. Só queria fechar os olhos por alguns minutos. Não tinha dormido direito ultimamente.
+$GEN_047_03x04_01_07
+Algumas semanas no exército e já está exausto?
+$GEN_047_03x04_01_08
+…
+$GEN_047_03x04_01_09
+Ele é jovem. Se não quisesse dormir, não dormiria.
+$GEN_047_03x04_01_10
+Foi um oficial que te acordou?
+$GEN_047_03x04_01_11
+Capitão Berryer. Ele ficou tão furioso que quase me atirou ali mesmo, monsieur le juge.
+$GEN_047_03x04_01_12
+Podiam ter tomado sua arma e matado alguém…
+$GEN_047_03x04_01_13
+Eu sei disso, senhor.
+$GEN_047_02x04_02_QTitle
+Vejo nos arquivos que os prisioneiros não se renderam sem lutar.
+$GEN_047_02x04_02_00
+Vejo nos arquivos que os prisioneiros não se renderam sem lutar.
+$GEN_047_02x04_02_01
+Ouvi dizer que eles se esconderam numa casa e lutaram com baionetas.
+$GEN_047_02x04_02_02
+Ainda assim, seu comandante decidiu trancá-los em um porão e deixou uma criança sozinha para vigiá-los? O que você faria se eles tentassem fugir?
+$GEN_047_02x04_02_03
+Se não estivesse dormindo naquele momento, é claro.
+$GEN_047_02x04_02_04
+Eu teria atirado neles.
+$GEN_047_02x04_02_05
+Claro, aquele garoto atiraria em alguém.
+$GEN_047_02x04_02_06
+Você já matou um homem?
+$GEN_047_02x04_02_07
+…
+$GEN_047_02x04_02_08
+Responda à pergunta.
+$GEN_047_02x04_02_09
+Sim, no dia anterior. Lutávamos com baionetas e atravessei a cabeça de alguém…
+$GEN_047_05x03_03_QTitle
+Quantos soldados estavam no quartel-general quando o prisioneiro escapou?
+$GEN_047_05x03_03_00
+Quantos soldados estavam no quartel-general quando o prisioneiro escapou?
+$GEN_047_05x03_03_01
+Uns trinta, acho eu. E os oficiais também, mas estavam sentados um pouco mais afastados. O porão ficava perto do chiqueiro, embaixo do galpão de lenha.
+$GEN_047_05x03_03_02
+Havia outros guardas?
+$GEN_047_05x03_03_03
+Exatamente! Trinta culpados, mas só um bode expiatório!
+$GEN_047_05x03_03_04
+Acho que eles estavam patrulhando ao longo da cerca.
+$GEN_047_05x03_03_05
+E nenhum deles capturou o fugitivo?
+$GEN_047_05x03_03_06
+Ao que parece, não, monsieur le juge.
+$GEN_047_05x03_03_07
+Chame a testemunha.
+$GEN_047_05x03_03_09
+Por favor, apresente-se.
+$GEN_047_05x03_03_10
+Capitão Berryer.
+$GEN_047_05x03_03_11
+É só isso que tem a dizer sobre si mesmo?
+$GEN_047_05x03_03_12
+Não tenho tempo para isso. O inimigo se aproxima enquanto desperdiçamos nosso tempo com traidores.
+$GEN_047_WIT_00_A_QTitle
+Você considera este jovem um traidor?
+$GEN_047_WIT_00_A_00
+Você considera este jovem um traidor?
+$GEN_047_WIT_00_A_01
+É simples. Ele deixou um prisioneiro escapar, o que permitiu ao inimigo–
+$GEN_047_WIT_00_A_02
+Eu já li os arquivos.
+$GEN_047_WIT_00_A_03
+Então por que está fazendo perguntas absurdas?
+$GEN_047_WIT_00_A_04
+Seu julgamento não está severo demais?
+$GEN_047_WIT_00_A_05
+A guerra não conhece piedade. Devemos ter consciência do preço da vitória e do castigo que aguarda aqueles que prejudicam nossa causa.
+$GEN_047_WIT_00_A_06
+Ele tinha plena consciência de suas responsabilidades.
+$GEN_047_WIT_00_B_QTitle
+Por que deixou um soldado tão inexperiente de guarda?
+$GEN_047_WIT_00_B_00
+Por que deixou um soldado tão inexperiente de guarda?
+$GEN_047_WIT_00_B_01
+Para que ele ganhasse mais experiência. Você conhece tarefa mais fácil do que sentar em um banquinho e garantir que quatro homens exaustos e feridos não escapem de um quarto trancado?
+$GEN_047_WIT_00_B_02
+Todo soldado deve servir para alguma coisa.
+$GEN_047_WIT_00_B_03
+Você tinha conhecimento do cansaço do réu ao lhe dar a ordem?
+$GEN_047_WIT_00_B_04
+Obviamente. Por isso mesmo ordenei que ele guardasse os prisioneiros em um local seguro. Enquanto isso, eu e meus homens apoiávamos o flanco do coronel de Montigny, que estava engajado com as tropas inimigas.
+$GEN_047_KEY_01
+Combate
+$GEN_047_KEY_02
+Assalto a uma estalagem
+$GEN_047_KEY_03
+Fazenda no interior
+$GEN_047_KEY_04
+Porão de armazenamento
+$GEN_047_KEY_05
+Guarda adormecido
+$GEN_047_KEY_06
+Barras enferrujadas
+$GEN_047_LastDialog_00
+Não faça isso! Por favor! Eu prometo que nunca mais vou dormir em serviço!
+$GEN_047_UNIQUE_QUESTION_00
+O réu estava lutando no dia do incidente?
+$GEN_047_UNIQUE_ANSWER_CORRECT_00_00
+Sim, mas sua unidade abandonou o campo de batalha.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ele participou e mostrou-se um herói.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ele passou o dia inteiro na retaguarda.
+$GEN_047_UNIQUE_QUESTION_01
+Como os lanceiros conseguiram escapar?
+$GEN_047_UNIQUE_ANSWER_CORRECT_01_00
+Eles arrancaram as grades da janela.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Eles arrombaram a porta.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Eles cavaram uma saída.

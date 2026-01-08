@@ -1,0 +1,312 @@
+$FAB_012_DOC_1_HEADER
+Sporządził: Fabrice Poli
+$FAB_012_DOC_1_00
+    Na ławie oskarżonych zasiada Mathieu Burel, zdymisjonowany komendant Gwardii Narodowej. Oskarżony jest o <a name="2" class="hidden">spowodowanie śmierci 34 osób</a>, które uczestniczyły w demonstracji przeciw władzy monarchistycznej.
+$FAB_012_DOC_1_01
+    Około godziny 15 w jednej z uliczek prowadzących na plac Vendôme spotkały się dwie spontanicznie zebrane grupy demonstrantów – zwolenników króla Ludwika i jego przeciwników. Pochody starły się ze sobą w ożywionej dyskusji na argumenty. Gdy żadna ze stron nie przeważyła, rzucano <a name="4" class="hidden">przekleństwa i groźby</a>. Niedługo po tym na miejscu zjawił się oddział Gwardii pod dowództwem oskarżonego. Jak relacjonuje świadek tych wydarzeń, Blaise Fossett, Mathieu Burel miał sam <a name="5" class="hidden">wkroczyć między zwaśnione grupy</a> i próbował przemówić im do rozsądku. Bardzo szybko został zakrzyczany przez demonstrantów. Kilku z nich głośno wyrażało swoje podejrzenia, że komendant chce pogwałcić <a name="6" class="hidden">wolność słowa</a> zebranych.
+$FAB_012_DOC_1_02
+    Nad głową Burela miał przelecieć kamień. W tym momencie cofnął się do oddziału, który do tej pory trzymał się na uboczu. Dowódca wydał <a name="7" class="hidden">rozkaz załadowania muszkietów</a> i wzięcia demonstrantów na cel. Wykrzyczał nakaz rozejścia się, który oczywiście został zlekceważony przez niesłuchających niczyich rozkazów obywateli Francji. „Świsnął kolejny kamień”, jak zeznał Fossett. Tym razem <a name="8" class="hidden">trafił jednego z żołnierzy</a> w klatkę piersiową, czym zabrał mu oddech na kilka chwil. Burel wydał rozkaz wystrzału. Kule dosięgły 34 osób po obu stronach demonstracji.
+$FAB_012_DOC_1_03
+    Podczas aresztowania Burel tłumaczył się, że miał <a name="9" class="hidden">opinię Trybunału</a> co do możliwości użycia takich środków. Zasłaniał się również zdaniem deputowanych Konwentu, którzy uważali podobnie. Prokurator Tinville nie był zainteresowany tymi tłumaczeniami i płomienną mową przymusił deputowanych do <a name="10" class="hidden">zdymisjonowania komendanta</a>. Teraz stara się o dodatkową karę przed sądem.
+$FAB_012_OnStart_00
+Proszę oskarżonego o przedstawienie się.
+$FAB_012_OnStart_01
+Przecież już wszyscy wiemy, kim jest ten łajdak.
+$FAB_012_OnStart_02
+Mathieu Burel, komendant Gwardii Narodowej i…
+$FAB_012_OnStart_03
+Zamknij się już bydlaku!
+$FAB_012_OnStart_04
+Przejdźmy może od razu do zeznań…
+$FAB_012_OnGuilty_00
+Skazuję Mathieu Burela na gilotynę!
+$FAB_012_OnGuilty_01
+Dusze zabitych mogą poczuć ulgę.
+$FAB_012_OnGuilty_02
+Niech poczuje to samo, co ci, których zastrzelił!
+$FAB_012_OnPrison_00
+Skazuję Mathieu Burela na więzienie! Oby skazany przemyślał swoje czyny.
+$FAB_012_OnPrison_01
+Zabił tyle osób i nic?
+$FAB_012_OnPrison_02
+Życie 34 ludzi cenisz mniej niż byłego komendanta?
+$FAB_012_OnNotGuilty_00
+Niniejszym uniewinniam Mathieu Burela! 
+$FAB_012_OnNotGuilty_01
+Co on, pijany?
+$FAB_012_OnNotGuilty_02
+Ktoś zaczarował tego sędziego, że tak bełkocze?
+$FAB_012_OnNotGuilty_03
+Wolność dla masowego mordercy?
+$FAB_012_01x02_00_QTitle
+Zdaje sobie oskarżony sprawę z ciężaru zarzutów? Zginęło 34 obywateli…
+$FAB_012_01x02_00_00
+Zdaje sobie oskarżony sprawę z ciężaru zarzutów? Zginęło 34 obywateli…
+$FAB_012_01x02_00_01
+Zginęli ludzie agresywni, którzy zaatakowali żołnierza.
+$FAB_012_01x02_00_02
+Wszystkie 34 osoby zaatakowały?
+$FAB_012_01x02_00_03
+Nie, trafił go kamień rzucony przez jedną osobę, ale wcześniej i nad moją głową coś przeleciało . Miałem podstawy, by sądzić, że może się to zbiegowisko przerodzić w zamieszki.
+$FAB_012_01x02_00_04
+Ale przecież po to zostaliście tam wysłani, żeby temu zapobiec.
+$FAB_012_01x02_00_05
+I zapobiegłem. Kilka osób zginęło, ale reszta obywateli jest bezpieczna.
+$FAB_012_01x02_00_06
+Ale drań z tego komendanta…
+$FAB_012_01x02_00_07
+Nie jest już komendantem. Może być draniem.
+$FAB_012_01x04_01_QTitle
+Proszę wezwać świadka.
+$FAB_012_01x04_01_00
+Proszę wezwać świadka.
+$FAB_012_01x04_01_02
+Proszę się przedstawić.
+$FAB_012_01x04_01_03
+Blaise Fossett, Wysoki Sądzie. Jestem zwykłym kowalem.
+$FAB_012_01x04_01_04
+Czy potwierdza obywatel, że był świadkiem wydarzeń, w sprawie których się tutaj spotkaliśmy?
+$FAB_012_01x04_01_05
+Tak, byłem bardzo świadkiem… Znaczy byłem tam. I widziałem bardzo, chciałbym o tym opowiedzieć. Bardzo bym chciał.
+$FAB_012_02x07_02_QTitle
+Czy nie uważa oskarżony, że rozkaz ładowania muszkietów...
+$FAB_012_02x07_02_00
+Czy nie uważa oskarżony, że rozkaz ładowania muszkietów mógł zostać wydany przedwcześnie?
+$FAB_012_02x07_02_01
+Dlaczego?
+$FAB_012_02x07_02_02
+Bo mógł tylko podgrzać już i tak wysoką temperaturę tłumu?
+$FAB_012_02x07_02_03
+Lud paryski ma nieciekawą historię wbijania ludzkich głów na piki. Przede mną był tłum w przewadze liczebnej i wyraźnie gotowy do rzucenia się na nas w każdej chwili. Nie, rozkaz nie był przedwczesny. Powiem więcej, powinniśmy zacząć strzelać od razu po przybyciu, a nie tracić czas na uspokajanie tłumu.
+$FAB_012_02x07_02_04
+Czyli bardziej stawia obywatel na brutalność niż dyplomację?
+$FAB_012_02x07_02_05
+Gdyby dyplomacja pomagała w takich sytuacjach, to nie wysłaliby do tłumu Gwardii, ale deputowanych Konwentu. Jednak jakoś żaden z nich się nie pofatygował.
+$FAB_012_02x07_02_06
+Ciekawe dlaczego?
+$FAB_012_02x10_03_QTitle
+Podano powód pańskiej dymisji?
+$FAB_012_02x10_03_00
+Podano powód pańskiej dymisji?
+$FAB_012_02x10_03_01
+Powody, w liczbie mnogiej. Nie będę przytaczał wszystkich, tylko ten, który mnie zabolał najbardziej: niekompetencja. 
+$FAB_012_02x10_03_02
+Za sprawą obywatela śmierć poniosło…
+$FAB_012_02x10_03_03
+W czasie rewolucji śmierć poniosło wielu ludzi, a sprawcy zasiadają w Konwencie lub… są sędziami trybunałów.
+$FAB_012_02x10_03_04
+Pozwala sobie oskarżony na zbyt wiele. Na pomówienia! Narzędzie monarchistycznej machiny!
+$FAB_012_02x10_03_05
+Daruj sobie te płomienne mowy. Gdybyś miał odrobinę przyzwoitości, tobyś teraz milczał.
+$FAB_012_02x10_03_06
+Gdyby oskarżony został uniewinniony, to by wrócił do służby?
+$FAB_012_02x10_03_07
+Nie, bo teraz widzę, że tacy jak my to tylko potencjalne kozły ofiarne. Powinie się noga deputowanemu czy sędziemu,to trzeba skazać żołnierza. Tak będzie zawsze.
+$FAB_012_02x10_03_08
+Zetnijmy jakiegoś polityka!
+$FAB_012_03x05_04_QTitle
+Dlaczego obywatel wszedł między skłócone grupy?
+$FAB_012_03x05_04_00
+Dlaczego obywatel wszedł między skłócone grupy?
+$FAB_012_03x05_04_01
+Z doświadczenia wiem, że wielokrotnie da się rozładować napięcie dzięki rozsądkowi i mediacji osoby trzeciej. Nie byłem związany z żadną z grup…
+$FAB_012_03x05_04_02
+Moment. Chce oskarżony powiedzieć, że nie jest zwolennikiem rewolucji?
+$FAB_012_03x05_04_03
+Podczas zajścia byłem przede wszystkim żołnierzem, oficerem. W zaistniałej sytuacji nie stać było mnie na komfort posiadania poglądów politycznych.
+$FAB_012_03x05_04_04
+Dlaczego?
+$FAB_012_03x05_04_05
+Bo najważniejsze było bezpieczeństwo ludzi. W pierwszej kolejności mieszkańców okolicznych domów, w drugiej samych protestujących.
+$FAB_012_03x05_04_06
+Jest już po wszystkim, dlatego brak jasnej deklaracji uznaję za sympatyzowanie z monarchią!
+$FAB_012_03x05_04_07
+Zawsze byłem wierny Francji i jej mieszkańcom.
+$FAB_012_03x06_05_QTitle
+Jakie słowa skierował oskarżony do tłumu?
+$FAB_012_03x06_05_00
+Jakie słowa skierował oskarżony do tłumu?
+$FAB_012_03x06_05_01
+Po pierwsze poprosiłem o chwilę ciszy. Później zapytałem, o co się kłócą. W tym momencie cisza się skończyła, bo obie strony zaczęły się przekrzykiwać w oskarżeniach.
+$FAB_012_03x06_05_02
+Może niepotrzebnie obywatel się mieszał i tylko bardziej rozwścieczył tłum?
+$FAB_012_03x06_05_03
+Czym? Prośbą o chwilę spokoju?
+$FAB_012_03x06_05_04
+Powiedział obywatel coś jeszcze?
+$FAB_012_03x06_05_05
+Starałem się przekrzyczeć tłum. Ktoś zaczął wrzeszczeć, że jestem szpiclem, który chce im zatkać usta, zabronić wypowiadania się.
+$FAB_012_03x06_05_06
+Tego chciał oskarżony?
+$FAB_012_03x06_05_07
+Nie chciałem, by polała się krew, ale jak widać, to było nieuniknione.
+$FAB_012_04x08_06_QTitle
+W jaki sposób zraniono żołnierza z oddziału obywatela?
+$FAB_012_04x08_06_00
+W jaki sposób zraniono żołnierza z oddziału obywatela?
+$FAB_012_04x08_06_01
+Został raniony kamieniem w klatkę piersiową. Upadł i przez chwilę nie mógł złapać oddechu.
+$FAB_012_04x08_06_02
+Czy próbował obywatel uspokajać tłum po tym incydencie?
+$FAB_012_04x08_06_03
+Prokurator raczy żartować…
+$FAB_012_04x08_06_04
+Dlaczegóż to?
+$FAB_012_04x08_06_05
+To był stan, w którym tłum chciał krwi. Swojej, naszej – obojętne. Byle się polała.
+$FAB_012_04x08_06_06
+Obywatel im to zapewnił.
+$FAB_012_04x08_06_07
+Miałem podstawy oraz twardy dokument w dłoni. I potencjalnie życie moich podwładnych na sumieniu.
+$FAB_012_04x08_06_08
+Papier pochodził od Boga, że ośmieliłeś się zabierać życie?
+$FAB_012_05x07_07_QTitle
+Czy uważa się obywatel za brawurowego dowódcę?
+$FAB_012_05x07_07_00
+Czy uważa się obywatel za brawurowego dowódcę?
+$FAB_012_05x07_07_01
+Nie, wydaje mi się, że na ogół jestem raczej opanowany. Kwestia wieku i doświadczenia.
+$FAB_012_05x07_07_02
+A jednak fakt, że wszedł obywatel między dwie wrogie grupy bez żadnej obstawy, świadczy o czymś innym.
+$FAB_012_05x07_07_03
+To odwaga dowódcy. Nie wysłałbym tam zwykłego żołnierza. Ryzykowałby życiem, a poza tym miałem nadzieję, że pagony zadziałają na prostych ludzi.
+$FAB_012_05x07_07_04
+Nie zadziałały?
+$FAB_012_05x07_07_05
+Niestety odniosły odwrotny skutek, ale takiego przebiegu wydarzeń nie dało się przewidzieć.
+$FAB_012_05x07_07_06
+Od tego tam byłeś, żeby przewidzieć!
+$FAB_012_06x09_08_QTitle
+Podczas aresztowania zasłaniał się oskarżony dokumentem wydanym przez…
+$FAB_012_06x09_08_00
+Podczas aresztowania zasłaniał się oskarżony dokumentem wydanym przez…
+$FAB_012_06x09_08_01
+Pozwoli, Wysoki Sąd, że przerwę. To bzdurna linia obrony oskarżonego!
+$FAB_012_06x09_08_02
+Dlaczego? Osobiście dostarczyłem obecnemu tu sędziemu dokument do podpisu. Podpisał, dawał mi w nim prawo do użycia siły w razie bezpośredniego zagrożenia ze strony demonstrantów.
+$FAB_012_06x09_08_03
+Zabił obywatel 34 osoby!
+$FAB_012_06x09_08_04
+Wolałby prokurator trupy 100 żołnierzy oraz dziesiątki zabitych i rannych u demonstrantów, którzy rzuciliby się lada chwila na siebie? Miałem prerogatywy do użycia siły, a fakt, że jestem teraz sądzony, świadczy o tym, iż obecny tutaj sędzia razem z deputowanymi Konwentu szukali kozła ofiarnego na wypadek takich wydarzeń!
+$FAB_012_06x09_08_05
+Bzdury, Konwent nigdy…
+$FAB_012_06x09_08_06
+Mamy tutaj dokument podpisany przez sędziego Alexisa Fidéle’a oraz przewodniczącego Trybunału – Raymonda Dévoyégo. Dwóch sędziów potwierdziło posiadanie prawa do użycia broni!
+$FAB_012_06x09_08_07
+To była rekomendacja dla Konwentu, by mogli spisać takie prawo!
+$FAB_012_06x09_08_08
+A ja rekomenduję, żeby mnie uwolnić, natomiast na gilotynę posłać wyżej wymienionych sędziów!
+$FAB_012_06x09_08_09
+Ma chłop trochę racji…
+$FAB_012_WIT_00_A_QTitle
+Proszę powiedzieć: czy widział pan dokładnie zachowanie oskarżonego...
+$FAB_012_WIT_00_A_00
+Proszę powiedzieć: czy widział pan dokładnie zachowanie oskarżonego podczas rozruchów?
+$FAB_012_WIT_00_A_01
+Tak, oczywiście, dlatego tutaj jestem. Bo widziałem. Pan kapitan… On jest kapitanem czy kim?
+$FAB_012_WIT_00_A_02
+Do rzeczy…
+$FAB_012_WIT_00_A_03
+No to on wszedł między ludzi i zaczął na nich wrzeszczeć. Jak ktoś do niego podszedł, to go odpychał i wymachiwał pięścią. Ale wyglądało, jakby po prostu chciał dobrze.
+$FAB_012_WIT_00_A_04
+Skąd u świadka takie wrażenie?
+$FAB_012_WIT_00_A_05
+Nie wiem, to po prostu wrażenie.
+$FAB_012_WIT_00_B_QTitle
+Czy świadek może przytoczyć, co mówili ludzie z obu demonstracji?
+$FAB_012_WIT_00_B_00
+Czy świadek może przytoczyć, co mówili ludzie z obu demonstracji?
+$FAB_012_WIT_00_B_01
+Wolałbym nie.
+$FAB_012_WIT_00_B_02
+Dlaczego?
+$FAB_012_WIT_00_B_03
+Bo to były brzydkie słowa, proszę Sądu. O panu Robespierze, o królu Ludwiku i… brzydkie słowa. Pewnie kłamliwe.
+$FAB_012_WIT_00_B_04
+Proszę przytoczyć jakieś dla przykładu, żebyśmy wiedzieli, jakiej natury…
+$FAB_012_WIT_00_B_05
+Kozojeb, fagas, matoł. To było akurat o komendancie, a o królu mówili, że jest…
+$FAB_012_WIT_00_B_06
+Wystarczy.
+$FAB_012_WIT_01_A_QTitle
+Kto pierwszy zaatakował: tłum czy gwardziści?
+$FAB_012_WIT_01_A_00
+Kto pierwszy zaatakował: tłum czy gwardziści?
+$FAB_012_WIT_01_A_01
+No tłum raczej. Rzucili czymś w tego biedaka żołnierza.
+$FAB_012_WIT_01_A_02
+I co było potem?
+$FAB_012_WIT_01_A_03
+No zaczęli strzelać.
+$FAB_012_WIT_01_A_04
+Zaraz… A nie było rozkazu?
+$FAB_012_WIT_01_A_05
+Nie słyszałem, głośno było i wydawało mi się, jakby się wszystko szybko rozegrało.
+$FAB_012_WIT_01_B_QTitle
+Jak zachował się oskarżony, gdy padły pierwsze trupy?
+$FAB_012_WIT_01_B_00
+Jak zachował się oskarżony, gdy padły pierwsze trupy?
+$FAB_012_WIT_01_B_01
+Oj, to bardzo nieładnie się zachował. Bardzo to.
+$FAB_012_WIT_01_B_02
+Prosimy o trochę szczegółów.
+$FAB_012_WIT_01_B_03
+Po prostu kazał ludziom odmaszerować, a samemu na koniec splunął w stronę uciekających ludzi i leżących na ziemi trupów. 
+$FAB_012_KEY_01
+Komendant Gwardii
+$FAB_012_KEY_02
+Spowodowanie śmierci
+$FAB_012_KEY_03
+Demonstranci
+$FAB_012_KEY_04
+Temperatura tłumu
+$FAB_012_KEY_05
+Brawura komendanta
+$FAB_012_KEY_06
+Wolność słowa
+$FAB_012_KEY_07
+Rozkaz załadowania muszkietów
+$FAB_012_KEY_08
+Ranny żołnierz
+$FAB_012_KEY_09
+Opinia Trybunału
+$FAB_012_KEY_10
+Dymisja komendanta
+$FAB_012_LastDialog_00
+Kozioł ofiarny zginie, byś ty mógł chodzić spokojnie. Ale czy twoje sumienie to wytrzyma?
+
+$FAB_012_UNIQUE_QUESTION_00
+Powód dymisji komendanta?
+$FAB_012_UNIQUE_QUESTION_01
+Miejsce zdarzenia?
+$FAB_012_UNIQUE_QUESTION_02
+Czego w pierwszej kolejności żądał od tłumu komendant po rozdzieleniu zwaśnionych stron?
+$FAB_012_UNIQUE_QUESTION_03
+Czy oskarżony jest monarchistą?
+$FAB_012_UNIQUE_ANSWER_CORRECT_00_00
+Niekompetencja.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Kontrrewolucyjne poglądy.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Szpiegostwo.
+$FAB_012_UNIQUE_ANSWER_CORRECT_01_00
+Ulica przy placu Vendôme.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Przedmieścia Paryża.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ruiny Bastylii.
+$FAB_012_UNIQUE_ANSWER_CORRECT_02_00
+Ciszy.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Kapitulacji.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Wyjaśnień.
+$FAB_012_UNIQUE_ANSWER_CORRECT_03_00
+Nie złożył jasnej deklaracji.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Tak.
+$FAB_012_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Nie.
+
+
+

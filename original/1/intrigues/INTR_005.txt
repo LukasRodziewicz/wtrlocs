@@ -1,0 +1,98 @@
+$INTRIGUE_TITLE_005
+Maximilien Robespierre
+$INTRIGUE_005_DESC
+All those with power and influence who remain agree that Robespierre must disappear. Robespierre also knows that sooner or later there will only be one place available at the top…
+$INTR_005_B01_TITLE
+A Trilateral Meeting
+$INTR_005_B01_DESC
+With Danton and Hébert sitting at one table, there is a strong chance of a fight. You must skilfully push them into creating an alliance instead of juggling accusations.
+$INTR_005_B02_TITLE
+Gobel’s Death
+$INTR_005_B02_DESC
+Gobel’s son has once more paid him a visit. This time their argument become more heated – and included a firearm. We do not know what manner of accusations were made during the meeting. The testimonies of the neighbours, however, lead us to believe that the conversation eventually turned into a fight that ended with a bullet in Gobel’s chest. He died where he fell and Boutin has been arrested. Your murdered child has been avenged. You could exculpate the murderer – after all, you were responsible for luring him out of hiding.
+$INTR_005_B03_TITLE
+Prosecutor at the Committee of Public Safety
+$INTR_005_B03_DESC
+Prosecutor Tinville will make a perfect human shield. He will take Danton’s place with a clean record, and we will use his gratitude in the future. Moreover, we will get Robespierre’s blood up, since he will probably interpret this as a move towards us gaining control of the Committee of Public Safety.
+$INTR_005_B04_TITLE
+Robespierre Supports the Clergy?
+$INTR_005_B04_DESC
+Let us start with rumours that could disturb Robespierre’s impeccable reputation. We will use Hébert’s words and suggest that Robespierre unofficially supports the corrupted clergy. Let Hébert’s paper “Le Père Duchesne” make a few suggestions that the Church bought Robespierre and paid for his support. We want to hear whispers on the streets claiming that, in this case, overthrowing the idol would be a good thing…
+$INTR_005_B05_TITLE
+The Prosecutor Announces His Candidacy
+$INTR_005_B05_DESC
+It is time to drag Tinville out of the shadows – concealed manoeuvres are Robespierre’s speciality. The crowd must believe that Tinville will restore order in the Committee of Public Safety. The Convention will follow it blindly, as they find the streets even more terrifying than Robespierre.
+$INTR_005_B06_TITLE
+Robespierre and Renard’s Alliance
+$INTR_005_B06_DESC
+You may not be able to use Tinville as a shield, but you can still create one from rumours about your enemies. The vision of an alliance between such an irredeemable aristocrat as Renard and the tyrant Robespierre should make the streets furious. The Incorruptible will have to face the anger of Parisians, and Renard will be unable to hide in the shadows, where he is most efficient. It is an extremely risky move, but you do not have much of a choice.
+$INTR_005_B07_TITLE
+Arresting Danton’s Friends
+$INTR_005_B07_DESC
+François Chabot and Claude Basire, loyal friends of Danton, were arrested today at Robespierre’s request. We apparently succeeded at provoking Robespierre to fire warning shots. I doubt that Chabot and Basire will be taken to court quickly, as it is far more probable they will be kept in prison to soften Danton. We must make another move fast.
+$INTR_005_B08_TITLE
+Using Camille Desmoulins
+$INTR_005_B08_DESC
+So far, Desmoulins was not involved in the crusade against Robespierre. When people started whispering that he must be a coward, he decided to prove them wrong and announced his willingness to help eliminate the Incorruptible. His “Le Vieux Cordelier” is a perfect place to publish an article claiming that Robespierre wants to bring the army to the streets of Paris. We should also use the rumours about political prisoners being maltreated, tortured, and sexually harassed. This should fit well with Cabot and Basire being arrested, and stimulate the imagination of the common folk.
+$INTR_005_B09_TITLE
+Eliminating Renard
+$INTR_005_B09_DESC
+You have risked a lot, firing up the streets, and now you need to see matters through. By eliminating Renard, you will prove to be a true defender of the Republic. The people will see that, contrary to Robespierre, you are not fighting with its citizens but with its enemies. How clever of you. Some of them may prefer to have a just knight by their side, rather than the brutal Robespierre. That knight being you, of course. And Renard will finally pay for his crimes against your family…
+$INTR_005_B10_TITLE
+Arresting the Hébertists and Danton, and Hanriot’s betrayal
+$INTR_005_B10_DESC
+Hébert and some of his closest colleagues were arrested at noon. The same thing happened to Danton, who has long been a thorn in the side of Robespierre. They were accused of a number of crimes, and tomorrow, their trials shall begin. The arrests are proving that Hanriot betrayed us. He reached an agreement with Robespierre and chose the side that benefits him most. Danton and Hébert are your allies, but you will not be able to save them both. You must choose which one to try and save. The other will most probably be tried by another judge and quickly sent to the guillotine. He will feel betrayed. Remember that what one can view as betrayal among allies, another will call climbing the social ladder. Something… normal.
+$INTR_005_B12_TITLE
+Arresting Hanriot
+$INTR_005_B12_DESC
+Time to send a message that betraying the judge of the Tribunal never ends well. Besides, Robespierre will be considerably more exposed now that he has been stripped of the National Guard’s help. Let us cut off his military arm!
+$INTR_005_B13_TITLE
+Hanriot Escapes
+$INTR_005_B13_DESC
+Unfortunately the old fox managed to elude the hunters. According to my sources, he is looking for members of the Paris Commune that are willing to join an armed intervention against you. As he was once able to convince you to support him, he will surely succeed. You must react, and interfere with his efforts.
+$INTR_005_B14_TITLE
+Arresting Robespierre
+$INTR_005_B14_DESC
+The time has now come to hunt the greatest predator of Paris. Robespierre has never been as weak as he is now, and the people are furious. Let us attack him before he recovers. In order to do so, you must gain the support of the Convention, since you do not control it. Yet.
+$INTR_005_B15_TITLE
+The Convention Chooses New Committee Members
+$INTR_005_B15_DESC
+Robespierre’s time is over. Now the Convention must choose new members for the Committee of Public Safety and deal with the chaos in the city. Your last speech was impressive, and you will surely be able to convince them at least one more time. Unlimited power is at your fingertips.
+$INTR_005_BLOCK_004_PATH_STR
+Clovis will blackmail a few priests by threatening them with the guillotine, convincing them to spread the rumours.
+$INTR_005_BLOCK_004_PATH_STR_FAILURE
+Robespierre terrifies them more than your anger.
+$INTR_005_BLOCK_004_PATH_DIP
+David will try to convince the local bourgeoisie to consider the alliance, even though they are terrified of it.
+$INTR_005_BLOCK_004_PATH_DIP_FAILURE
+Deep down, they may even know that you are right… but they do not care. They prefer to wait.
+$INTR_005_BLOCK_004_PATH_ESP
+Ramel, disguised as a priest, will spread rumours about the alliance between the Church and Robespierre.
+$INTR_005_BLOCK_007_PATH_STR
+In the dead of night, Clovis and a group of Muscadins will arrange the flight of the two prisoners. The Muscadins will probably treat this as some form of entertainment.
+$INTR_005_BLOCK_007_PATH_STR_FAILURE
+The Muscadins did treat it as a game – they all arrived blind drunk and our plan fell apart…
+$INTR_005_BLOCK_007_PATH_DIP
+The Convention should tell Robespierre that he is going too far. That should frighten him.
+$INTR_005_BLOCK_007_PATH_DIP_FAILURE
+The fact that Robespierre got to Chabot and Basire only proves that he can get to anyone. Each and every deputy is now terrified…
+$INTR_005_BLOCK_007_PATH_ESP
+Most importantly, we must deal with evidence against them. Without it, Robespierre will not be able to convict them.
+$INTR_005_BLOCK_007_PATH_ESP_FAILURE
+Ramel did not find anything. Either Robespierre has nothing, or he is hiding it in a safe.
+$INTR_005_BLOCK_010_PATH_ESP
+Tomorrow you will try Hébert.
+$INTR_005_BLOCK_010_PATH_DIP
+Tomorrow you will try Danton.
+$INTR_005_BLOCK_013_PATH_STR
+We must catch every prominent member of the Commune and beat them black and blue. Without them, Hanriot will not be able to gather enough people.
+$INTR_005_BLOCK_013_PATH_STR_FAILURE
+Hanriot warned everyone how brutal you can be. All of a sudden, nobody supports the Commune or knows where its supporters are hiding.
+$INTR_005_BLOCK_013_PATH_DIP
+Like everyone else, the leaders of the Commune seek power. Let David promise some of them great careers after overthrowing Robespierre.
+$INTR_005_BLOCK_013_PATH_DIP_FAILURE
+I have no idea what Robespierre and Hanriot offered them, but whatever it was, it seriously exceeded our possibilities. None of them could be convinced.
+$INTR_005_BLOCK_013_PATH_ESP
+If Ramel has something on the members of the Commune, he should use it now to blackmail anyone willing to join Hanriot.
+$INTR_005_BLOCK_013_PATH_ESP_FAILURE
+Nobody was bothered by your evidence. They believe that you will not be able to use it in time since you are likely to be dead tomorrow.

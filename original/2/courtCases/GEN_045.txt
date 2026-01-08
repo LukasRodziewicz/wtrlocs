@@ -1,0 +1,166 @@
+$GEN_045_DOC_01_HEADER
+Compilé par : Charles Étienne
+$GEN_045_DOC_01_00
+	Un cabriolet appartenant au marquis de Leiningen a plongé dans la Seine depuis le pont de la Tournelle. Par chance, il ne transportait aucun passager et le cocher est parvenu à se jeter à terre avant la chute. Seul <a name="2" class="hidden">le cheval</a> a péri noyé.
+$GEN_045_DOC_01_01
+	Le marquis a réclamé à son cocher, Lucien Beaubois, une indemnisation pour sa voiture et le cheval. Bien évidemment, Beaubois n'a pas pu s'en acquitter car il ne dispose pas des <a name="3" class="hidden">milliers de francs</a> nécessaires. Le marquis a donc déposé plainte contre lui, exigeant qu'on emprisonne le cocher.
+$GEN_045_DOC_01_02
+	Le citoyen Beaubois soutient que l'accident est la conséquence d'une suite d'événements malheureux. Premièrement, pour reprendre ses mots, « tout d'un coup, une autre voiture a surgi comme le diable en face de moi sur le pont ». L'accusé tira vivement sur ses rênes, surprenant le cheval, qui se rua sur le côté et fonça vers une foule. Beaubois a déclaré avoir tiré davantage la bride sur le côté, ce qui conduisit la voiture à <a name="5" class="hidden">heurter le parapet</a> et tomber à l'eau.  
+$GEN_045_DOC_01_03
+	Beaubois a répété à de nombreuses reprises qu'il <a name="6" class="hidden">s'est cassé le poignet</a> en bondissant hors du cabriolet.
+$GEN_045_OnStart_00
+Je te prie de te présenter, citoyen.
+$GEN_045_OnStart_01
+Lucien Beaubois, je suis cocher.
+$GEN_045_OnStart_02
+Depuis combien de temps exerces-tu ce métier ?
+$GEN_045_OnStart_03
+Cela fait peu de temps. Je m'occupais des chevaux avant et j'ai commencé à conduire la voiture il y a une bonne année de ça, le jour de mes dix-neuf ans. Mais j'avais plutôt l'habitude de circuler dans le domaine du marquis, pas en ville.
+$GEN_045_OnStart_04
+Le marquis de Leiningen réclame une indemnisation pour la voiture et le cheval.
+$GEN_045_OnStart_05
+Pour sûr. Maintenant il n'a plus que quatre voitures et trente chevaux !
+$GEN_045_OnStart_06
+Je voudrais bien le rembourser, mais même avec une main en bon état, je mettrais des années à mettre de côté autant d'argent.
+$GEN_045_OnStart_07
+Tu aurais dû y penser avant d'emprunter le pont.
+$GEN_045_OnGuilty_00
+Les revendications du marquis de Leiningen me paraissent raisonnables. L'accusé doit payer sa dette de sa tête.
+$GEN_045_OnGuilty_01
+En effet, les gens doivent payer pour leur erreurs.
+$GEN_045_OnGuilty_02
+Révolution ou pas, la bourgeoisie a toujours les tribunaux dans sa poche.
+$GEN_045_OnNotGuilty_00
+L'accident sur le pont a été causé par des circonstances malencontreuses. Citoyen Beaubois, je te rends ta liberté.
+$GEN_045_OnNotGuilty_01
+Le juge vient d'envoyer une belle volée de crottin à la figure de cet aristocrate prétentieux !
+$GEN_045_OnNotGuilty_02
+Le pauvre devra vendre son argenterie pour s'acheter une nouvelle voiture.
+$GEN_045_OnNotGuilty_03
+Tu l'as vraiment cru ? Sache que nous le reverrons ici tôt ou tard. À ceci près que la prochaine fois, il aura renversé un malheureux.
+$GEN_045_05x01_00_QTitle
+Quelle était ton allure pour que tu parviennes à briser le parapet du pont ?
+$GEN_045_05x01_00_00
+Quelle était ton allure pour que tu parviennes à briser le parapet du pont ?
+$GEN_045_05x01_00_01
+Je l'ai pas brisé, Monsieur le juge. Le parapet était très bas et Alcasse a bêtement sauté par-dessus. Rien d'étonnant à ça, car il était terrifié. Et sans bagage ni passager à transporter, le cabriolet l'a suivi sans encombre.
+$GEN_045_05x01_00_02
+Pourquoi n'as-tu pas essayé d'arrêter le cabriolet ?
+$GEN_045_05x01_00_03
+Maintenant que tu le dis, j'aurais sans doute dû essayer, mais je suis pas sûr que j'aurais réussi de toute façon.
+$GEN_045_05x01_00_04
+Il devait filer comme le vent !
+$GEN_045_05x01_00_05
+La voiture a-t-elle été détruite ?
+$GEN_045_05x01_00_06
+Je sais pas, Monsieur le juge. J'ai seulement entendu dire qu'on l'a sortie de l'eau. Alcasse aussi, mais il était mort.
+$GEN_045_05x01_00_07
+As-tu blessé un passant ?
+$GEN_045_05x01_00_08
+Non, Dieu merci.
+$GEN_045_04x02_01_QTitle
+Pourquoi as-tu tiré sur les rênes aussi brusquement ?
+$GEN_045_04x02_01_00
+Pourquoi as-tu tiré sur les rênes aussi brusquement ?
+$GEN_045_04x02_01_01
+J'ai vu une autre voiture arriver en face de moi et j'ai perdu mon sang-froid.
+$GEN_045_04x02_01_02
+Tu as dit qu'il y avait des gens sur le pont. À quelle allure avançait l'autre voiture ?
+$GEN_045_04x02_01_03
+Assez vite, je crois. L'autre cocher cravachait son cheval… Oui, ça devait être le cas, car Alcasse a vraiment pris peur.
+$GEN_045_04x02_01_04
+Auriez-vous pu vous percuter ?
+$GEN_045_04x02_01_05
+Je crois bien, c'est pour ça que j'ai tiré sur les rênes et qu'Alcasse s'est affolé.
+$GEN_045_04x02_01_06
+On dirait que le cheval ne te faisait pas confiance. Qui t'a laissé conduire la voiture ?
+$GEN_045_04x02_01_07
+Eh bien, l'un des cochers est tombé malade et l'autre conduisait déjà la marquise… Il n'y avait plus que moi.
+$GEN_045_04x02_01_08
+Ils laissent ce jeunot sortir et voilà qu'il en profite pour galoper à tout-va.
+$GEN_045_04x02_01_09
+Depuis combien de temps connaissais-tu ce cheval ?
+$GEN_045_04x02_01_10
+Cela faisait longtemps que je m'occupais d'Alcasse, mais c'était la première fois que je le conduisais en ville. Et voyez le résultat…
+$GEN_045_06x01_02_QTitle
+T'es-tu cassé le poignet en sautant hors de la voiture ?
+$GEN_045_06x01_02_00
+T'es-tu cassé le poignet en sautant hors de la voiture ?
+$GEN_045_06x01_02_01
+Oui, Monsieur, vois comme il est encore tout enflé. Il me fait souffrir tout le temps et m'empêche de dormir.
+$GEN_045_06x01_02_02
+Le marquis s'est-il enquis de ta santé ?
+$GEN_045_06x01_02_03
+Il ne m'a rien demandé. Enfin… Je ne l'ai pas vu du tout. C'est son serviteur qui est venu, celui responsable de ses affaires d'argent. Il m'a dit que je devais rembourser le marquis.
+$GEN_045_06x01_02_04
+Ce que tu n'as pas fait, si j'ai bien compris ?
+$GEN_045_06x01_02_05
+C'est-à-dire que… non, Monsieur le juge. La fois suivante, il est venu me voir avec la Garde.
+$GEN_045_06x01_02_06
+Peux-tu conduire une voiture avec un poignet cassé ?
+$GEN_045_06x01_02_07
+Quelle drôle de question !
+$GEN_045_06x01_02_08
+Monsieur, je serais même pas capable de me couper une tranche de pain sans l'aide de ma vieille mère.
+$GEN_045_06x01_02_09
+Tu pourrais vendre quelque chose pour t'acquitter de ta dette.
+$GEN_045_06x01_02_10
+Je pourrais, mais ça me paierait à peine une chemise ou une écuelle.
+$GEN_045_03x01_03_QTitle
+Combien le marquis de Leiningen exige pour le cabriolet et le cheval ?
+$GEN_045_03x01_03_00
+Combien le marquis de Leiningen exige pour le cabriolet et le cheval ?
+$GEN_045_03x01_03_01
+Je me rappelle même plus, Monsieur le juge. C'est une somme trop grosse pour mon imagination.
+$GEN_045_03x01_03_02
+Pourrais-tu économiser pour recueillir cette somme d'argent ?
+$GEN_045_03x01_03_03
+Même avec une main en bon état, il faudrait que je travaille pendant dix ans. Peut-être même plus.
+$GEN_045_03x01_03_04
+Que comptes-tu faire ?
+$GEN_045_03x01_03_05
+Je sais pas, Monsieur le juge. Je voudrais bien payer cette dette, vraiment, mais je sais pas comment… Le marquis a envoyé ses gens me menacer. Ils m'ont dit que je finirai dans la Seine comme Alcasse, ou en prison.
+$GEN_045_03x01_03_06
+Les salauds ! Comment osent-ils menacer un pauvre innocent ?!
+$GEN_045_03x01_03_07
+Inventes-tu cette histoire pour te faire passer pour une victime ?
+$GEN_045_03x01_03_08
+Si seulement, Monsieur ! J'ai terriblement peur qu'ils me jettent à l'eau.
+$GEN_045_KEY_01
+Cabriolet
+$GEN_045_KEY_02
+Cheval
+$GEN_045_KEY_03
+Milliers de francs
+$GEN_045_KEY_04
+Foule
+$GEN_045_KEY_05
+Parapet
+$GEN_045_KEY_06
+Poignet cassé
+$GEN_045_LastDialog_00
+Une bête erreur va me coûter ma tête ?
+$GEN_045_UNIQUE_QUESTION_00
+Pourquoi Beaubois a-t-il tiré sur les rênes ?
+$GEN_045_UNIQUE_ANSWER_CORRECT_00_00
+Une autre voiture arrivait en face de lui.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Il a entendu un bruit terrible.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Un enfant s'est précipité devant le cheval.
+$GEN_045_UNIQUE_QUESTION_01
+Des brutes à la solde du marquis ont menacé le prévenu de…
+$GEN_045_UNIQUE_ANSWER_CORRECT_01_00
+Le jeter dans le fleuve.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_01_00
+De lui casser un autre bras.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_01_01
+De le fusiller.
+$GEN_045_UNIQUE_QUESTION_02
+Y a-t-il eu des victimes à l'accident ?
+$GEN_045_UNIQUE_ANSWER_CORRECT_02_00
+Seulement le cheval.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Le véhicule s'est renversé sur une vieille femme.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Le cheval a piétiné deux enfants.

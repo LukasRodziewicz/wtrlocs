@@ -1,0 +1,10 @@
+$DIAL_CO_02_01_05_DRIVER_001
+Buenos días, ciudadano. He venido para llevarle al baile.
+$DIAL_CO_02_01_05_JUDGE_002
+¿Por qué está tan seguro de que tengo intención de ir?
+$DIAL_CO_02_01_05_DRIVER_003
+Si se resiste, el ciudadano Renard me ha pedido que le informe que durante el evento revelará el nombre de la persona que asesinó a su hijo.
+$DIAL_CO_02_01_05_JUDGE_004
+¡¿Qué?! ¡Ya sé muy bien quién lo hizo!
+$DIAL_CO_02_01_05_DRIVER_005
+Lo dudo sinceramente. El carruaje le espera, ciudadano. Realmente no tiene nada que perder. Así que, por favor, sígame.

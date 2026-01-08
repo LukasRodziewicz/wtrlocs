@@ -1,0 +1,275 @@
+$GEN_026_DOC_01_HEADER
+Sporządził: Nathan d’Essiraf
+$GEN_026_DOC_01_00
+	Gaston de Toucy, wicehrabia de Poissy, 37-letni kapitan artylerii. Po wybuchu rewolucji w przeciwieństwie do innych oficerów arystokratów nie wyemigrował, lecz kontynuował karierę wojskową. Wsławił się w bitwie pod Valmy, która powstrzymała ofensywę prusko-austriacką. Obecnie dowodzi kompanią armat 39. półbrygady bojowej, stacjonującej w okolicach Paryża. Ma opinię <a name="1" class="hidden">doświadczonego oficera</a>, aczkolwiek cieniem na niej kładą się dawne <a name="2" class="hidden">ekscesy z alkoholem</a>.
+$GEN_026_DOC_01_01
+	Jako oficer wyznaczony do przerzutu kompanijnych armat na miejsce masowej egzekucji kontrrewolucjonistów został oskarżony przez naczelnika więzienia Bicêtre Alfonsa d’Outre’a o ich celowe zgubienie w trakcie przemarszu oraz <a name="3" class="hidden">sabotowanie wyroków</a> Trybunału Rewolucyjnego.
+$GEN_026_DOC_01_02
+	De Toucy wbrew regulaminowi wydał <a name="4" class="hidden">rozkaz przetransportowania</a> obsługi dział na wozach kompanii, podczas gdy armaty wraz z aprowizacją ruszyły w drugim rzucie. W efekcie na pola pod Porcherons, gdzie zaplanowano rozstrzelanie skazanych z kartaczy, dotarła tylko obsługa pod dowództwem pijanego kapitana de Toucy’ego. Tabor armatni tymczasem odnalazł się po drugiej stronie Paryża, w okolicach Faubourga. Z zeznań żołnierzy wynikało, że kapitan miał już po wymarszu <a name="5" class="hidden">korygować trasę taboru</a> z dowodzącym nim sierżantem Foute’em.
+$GEN_026_DOC_01_03
+	Cała akcja według d’Outre’a została zaplanowana przez de Toucy’ego, ponieważ wśród skazańców znajdował się jego <a name="6" class="hidden">towarzysz broni</a> Quentin de Laval, z którym służył w Armii Północy. Podczas bitwy pod Valmy de Laval na własnych plecach wyniósł wicehrabiego spod pruskiego ostrzału artyleryjskiego.
+$GEN_026_DOC_01_04
+	De Toucy pierwotnie miał stanąć przed sądem wojskowym, ale z uwagi na kontrrewolucyjny charakter zarzutów zdecydowano, że wyrok wyda Trybunał Rewolucyjny.
+$GEN_026_OnStart_00
+Proszę się przedstawić.
+$GEN_026_OnStart_01
+Kapitan Gaston de Toucy, kompania artylerii 1. batalionu 39. półbrygady bojowej.
+$GEN_026_OnStart_02
+Upominam oskarżonego, że staje przed sądem jako zwykły obywatel, a wszelkie prawa wynikające z posiadanego stopnia i żołnierskiej profesji zostały zawieszone do wyjaśnienia.
+$GEN_026_OnStart_03
+Za pozwoleniem – nie od sądu dostałem patent i nie sąd będzie decydował, kiedy jestem oficerem, a kiedy nie.
+$GEN_026_OnStart_04
+Jesteście tutaj za niesubordynację niegodną oficera, więc lepiej milczcie.
+$GEN_026_OnStart_05
+Zostaliście oskarżeni o wykorzystanie zajmowanego stanowiska w celu uniemożliwienia wykonania egzekucji na kontrrewolucjonistach. Czy przyznajecie się do winy?
+$GEN_026_OnStart_06
+Nie, ponieważ jest to stek bredni wyprodukowany przez nieużytego cywila, jakim jest d’Outre.
+$GEN_026_OnStart_07
+Za ten niewyparzony język powinni cię ściąć!
+$GEN_026_OnStart_08
+Ściąć należałoby was, bando tchórzy, bo tutaj wrzeszczycie, ale na froncie pruskim jakoś was nie widziałem.
+$GEN_026_OnGuilty_00
+Skazuję Gastona de Toucy na śmierć na gilotynie! Wyprowadzić skazanego.
+$GEN_026_OnGuilty_01
+Wyrwałeś chwasta z armii, dobrze że teraz, zanim zdradził na polu bitwy.
+$GEN_026_OnGuilty_02
+I słusznie!
+$GEN_026_OnGuilty_03
+Ścinasz obrońcę Francji!
+$GEN_026_OnGuilty_04
+Brawo sędzia!
+$GEN_026_OnNotGuilty_00
+Wyrok w sprawie Gastona de Toucy brzmi: Niewinny! Wyprowadzić podsądnego.
+$GEN_026_OnNotGuilty_01
+Nawet jeśli nie wierzysz w spisek, to za głupotę powinieneś go wysłać pod klucz.
+$GEN_026_OnNotGuilty_02
+Skandal!
+$GEN_026_OnNotGuilty_03
+W tym sądzie nie ma prawa!
+$GEN_026_OnNotGuilty_04
+Przecież on jest winny! Głupi jesteś?!
+$GEN_026_01x03_00_QTitle
+Dziwne, że doświadczony oficer nie przewidział, że działa z aprowizacją...
+$GEN_026_01x03_00_00
+Dziwne, że doświadczony oficer nie przewidział, że działa z aprowizacją nie będą w stanie nadążyć za lekkimi wozami.
+$GEN_026_01x03_00_01
+Nie spodziewałem się, że sierżant Foute w znanym sobie terenie zgubi się i zaprowadzi tabor do Faubourga zamiast do Porcherons.
+$GEN_026_01x03_00_02
+Raczej oskarżony zrobił wszystko, aby armaty zgubiły się i nie dotarły na miejsce egzekucji.
+$GEN_026_01x03_00_03
+Po co miałbym to robić, skoro d’Outre mógłby wystarać się o inną kompanię sześciofuntówek? Nikomu by to nie pomogło, a już najmniej skazanym.
+$GEN_026_01x03_00_04
+Nie wiadomo, być może opóźnienie potrzebne wam było dla realizacji spisku.
+$GEN_026_01x03_00_05
+Jakiego niby spisku? 
+$GEN_026_01x03_00_06
+Planowaliście uwolnić skazańców?
+$GEN_026_01x03_00_07
+Nonsens.
+$GEN_026_01x03_00_08
+Trzeba z niego wydusić nazwiska wspólników.
+$GEN_026_01x04_01_QTitle
+Dlaczego oskarżony nie kazał obsłudze dział maszerować razem z taborem armatnim, tak jak stanowi regulamin?
+$GEN_026_01x04_01_00
+Dlaczego oskarżony nie kazał obsłudze dział maszerować razem z taborem armatnim, tak jak stanowi regulamin?
+$GEN_026_01x04_01_01
+Ponieważ zgodnie z rozkazem pułkownika Prata kompania miała zameldować się w ciągu 24 godzin w Porcherons. Nie było możliwości dotarcia na czas przy regulaminowym przemarszu z poligonu, na którym ćwiczyliśmy.
+$GEN_026_01x04_01_02
+W rozkazie pułkownika Prata nie ma nic o odstąpieniu od standardowej procedury przemarszu kompanii artylerii.
+$GEN_026_01x04_01_03
+Za to była wyraźna wzmianka, że wyrok Trybunału nie może czekać i mam się spieszyć. Rozkaz był klarowny, a sytuacja nadzwyczajna, więc podjąłem wszelkie środki, żeby go wykonać.
+$GEN_026_01x04_01_04
+Rozdzielenie armat i obsługi mogło przyspieszyć przemarsz?
+$GEN_026_01x04_01_05
+…
+$GEN_026_01x04_01_06
+Słucham waszych wyjaśnień.
+$GEN_026_01x04_01_07
+No bo obsługa sama mogła wykonać egzekucję, bez dział.
+$GEN_026_01x04_01_08
+Z tego, co pamiętam, plany były inne.
+$GEN_026_01x04_01_09
+Chciałem wykonać rozkaz najlepiej, jak się dało.
+$GEN_026_03x06_02_QTitle
+Co oskarżony zrobiłby dla towarzysza broni, którego życie byłoby zagrożone?
+$GEN_026_03x06_02_00
+Co oskarżony zrobiłby dla towarzysza broni, którego życie byłoby zagrożone?
+$GEN_026_03x06_02_01
+Wszystko, co tylko możliwe.
+$GEN_026_03x06_02_02
+Czyli oskarżony nie zawahałby się sabotować egzekucji Quentina de Lavala, któremu zawdzięcza życie?
+$GEN_026_03x06_02_03
+Sabotaż egzekucji porucznika de Lavala nie zmieniłby wyroku Trybunału, lecz tylko odciągnął w czasie jego wykonanie.
+$GEN_026_03x06_02_04
+Ale dzięki temu oskarżony nie przyłożyłby ręki do jego stracenia, a to już dobry powód, by zgubić armaty.
+$GEN_026_03x06_02_05
+W mojej opinii mamy do czynienia ze spiskiem. On chciał uwolnić Lavala.
+$GEN_026_03x06_02_06
+To zwykłe pomówienia i domysły. Macie jakiekolwiek dowody?
+$GEN_026_03x06_02_07
+Jeśli odrzucić wszystkie wersje, które nie mają sensu, zostanie jedynie kontrrewolucyjny spisek. Podaj nazwiska wspólników!
+$GEN_026_03x06_02_08
+Nie wiem, o czym mówicie.
+$GEN_026_03x06_02_09
+Monarchistyczne kanalie to nic, tylko spiski robią.
+$GEN_026_02x01_03_QTitle
+Zastanawiające jest, że po tak długim okresie abstynencji oskarżony upił się akurat w trakcie...
+$GEN_026_02x01_03_00
+Zastanawiające jest, że po tak długim okresie abstynencji oskarżony upił się akurat w trakcie wykonywania rozkazu pułkownika Prata.
+$GEN_026_02x01_03_01
+Każdemu zdarzają się chwile słabości i jest to jedyna rzecz, do której mogę się tutaj przyznać.
+$GEN_026_02x01_03_02
+Czy to w wyniku tej słabości oskarżony nakazał sierżantowi Foute’owi skierować tabor armatni do Faubourg zamiast do Porcherons?
+$GEN_026_02x01_03_03
+Niczego takiego sobie nie przypominam. Kto tak twierdzi?
+$GEN_026_02x01_03_04
+Podwładni oskarżonego. W ocenie sądu oskarżony usiłował poprzez pijaństwo uzyskać alibi dla zmiany celu, do którego miały dotrzeć armaty.
+$GEN_026_02x01_03_05
+Albo zapić strach przed nieomylną ręką sprawiedliwości.
+$GEN_026_02x01_03_06
+Gówno wy tu wszyscy wiecie o sprawiedliwości.
+$GEN_026_02x01_03_07
+Jeszcze jeden taki wybryk i was nauczymy dyscypliny. Piliście, żeby zataić swoje prawdziwe intencje?
+$GEN_026_02x01_03_08
+To jest nieuprawniona nadinterpretacja faktów.
+$GEN_026_02x01_03_09
+Na cholerę nam taki obrońca!
+$GEN_026_02x01_03_10
+Ten facet bił się z Prusakami przynajmniej.
+$GEN_026_03x04_04_QTitle
+Proszę wezwać świadka Oliviera Foute’a.
+$GEN_026_03x04_04_00
+Proszę wezwać świadka Oliviera Foute’a.
+$GEN_026_03x04_04_02
+Proszę się przedstawić.
+$GEN_026_03x04_04_03
+Sierżant Olivier Foute, 2. sekcja kompanii artylerii 1. batalionu 39. półbrygady bojowej.
+$GEN_026_04x05_05_QTitle
+Czemu jako pierwsi wyruszyli kanonierzy, a nie tabor armatni?
+$GEN_026_04x05_05_00
+Czemu jako pierwsi wyruszyli kanonierzy, a nie tabor armatni?
+$GEN_026_04x05_05_01
+Bo byli gotowi do drogi wcześniej. Działonowi musieli przygotować lawety i pobrać kartacze z arsenału, żeby spełnić zachciankę d’Outre’a o zostaniu drugim Fouchém.
+$GEN_026_04x05_05_02
+Osobiście nie podobał wam się rozkaz o egzekucji?
+$GEN_026_04x05_05_03
+Wojsko ma walczyć, a nie torturować bezbronnych.
+$GEN_026_04x05_05_04
+Ci bezbronni stanowili zagrożenie dla Francji.
+$GEN_026_04x05_05_05
+Na więcej niż kartacze nie zasługiwali.
+$GEN_026_04x05_05_06
+Otrzymałem rozkaz i próbowałem go wykonać. Pytaliście, co myślę, to wam mówię.
+$GEN_026_03x06_06_QTitle
+Czy oskarżony celowo skierował tabor armatni do Faubourga, aby uniemożliwić wykonanie wyroku na Quentinie de Lavalu?
+$GEN_026_03x06_06_00
+Czy oskarżony celowo skierował tabor armatni do Faubourga, aby uniemożliwić wykonanie wyroku na Quentinie de Lavalu?
+$GEN_026_03x06_06_01
+ Nie miałem pojęcia, że porucznik de Laval jest wśród skazanych.
+$GEN_026_03x06_06_02
+Czyli to była zwyczajna głupota?
+$GEN_026_03x06_06_03
+Powiedziałbym, że pomyłka.
+$GEN_026_03x06_06_04
+Pomyłki się zdarzają ludziom.
+$GEN_026_03x06_06_05
+Na wojnie takie pomyłki mogą kosztować życie naszych żołnierzy.
+$GEN_026_03x06_06_06
+Przyznaję się, jako oficer jestem winien, ale to nie była zła wola.
+$GEN_026_03x06_06_07
+Konie pasać, a nie w oficery.
+$GEN_026_WIT_00_A_QTitle
+Gdzie świadek miał zaprowadzić tabor armatni?
+$GEN_026_WIT_00_A_00
+Gdzie świadek miał zaprowadzić tabor armatni?
+$GEN_026_WIT_00_A_01
+Kapitan powiedział, że o dziewiątej rano mamy być w Porcherons, bo jak nie, to wszyscy pójdziemy pod gilotynę.
+$GEN_026_WIT_00_A_02
+Towarzysze świadka zeznali, że potem oskarżony wskazał taborowi armat Faubourg zamiast Porcherons.
+$GEN_026_WIT_00_A_03
+Na postoju dołączył do nas kapitan, wziął mnie na stronę i powiedział, że rozkazy były błędne i mamy jechać do Faubourg. A jechało od niego jak z gorzelni.
+$GEN_026_WIT_00_A_04
+Mimo to mu uwierzyliście?
+$GEN_026_WIT_00_A_05
+Oficer to oficer, oni ciągle chodzą podpici, a słuchać i tak trzeba.
+
+
+$GEN_026_WIT_01_A_QTitle
+Oskarżony często nadużywa alkoholu?
+$GEN_026_WIT_01_A_00
+Oskarżony często nadużywa alkoholu?
+$GEN_026_WIT_01_A_01
+Po prawdzie, to dawno nie widziałem go tak wstawionego, ale wiem, że jak wpadnie w cug, to potrafi zdrowo golnąć.
+$GEN_026_WIT_01_A_02
+Czy mógł mieć jakiś szczególny powód do wypicia tego dnia?
+$GEN_026_WIT_01_A_03
+Nie mam pojęcia, może mu było żal de Lavala?
+$GEN_026_WIT_01_A_04
+Opowiadał o tym?
+$GEN_026_WIT_01_A_05
+Na pewno nie zwykłym trepom jak ja.
+$GEN_026_WIT_01_B_QTitle
+Co świadek wie o relacji łączącej oskarżonego z Quentinem de Lavalem?
+$GEN_026_WIT_01_B_00
+Co świadek wie o relacji łączącej oskarżonego z Quentinem de Lavalem?
+$GEN_026_WIT_01_B_01
+De Laval uratował mu życie pod Valmy. Cały oddział to wie. Po przeniesieniu do naszej półbrygady dalej ze sobą jakieś listy wymieniali.
+$GEN_026_WIT_01_B_02
+Czy oskarżony wiedział o skazaniu de Lavala?
+$GEN_026_WIT_01_B_03
+Pewnie tak, bo taki struty chodził… Ale słowem się nie odezwał. To żołnierz, nie polityk.
+$GEN_026_WIT_01_B_04
+Czy mógł wiedzieć, że de Laval przebywa w Bicêtre i jest w grupie skazańców, która ma być rozstrzelana?
+$GEN_026_WIT_01_B_05
+To, że de Laval jest w Bicêtre, to wiedział na pewno, ale że będzie rozstrzeliwany, to wątpię. Myślę, że mógł to jednak zakładać.
+$GEN_026_WIT_01_B_06
+Proszę to wyjaśnić.
+$GEN_026_WIT_01_B_07
+Jak przyjechał zmienić trasę z Porcherons na Faubourg, to na odchodnym mamrotał do siebie, że on do tego ręki nie przyłoży.
+$GEN_026_WIT_01_B_08
+Mówił coś o spisku, wymieniał jakieś nazwiska?
+$GEN_026_WIT_01_B_09
+Nie, proszę pana, niczego takiego nie słyszałem.
+$GEN_026_KEY_01
+Doświadczony oficer
+$GEN_026_KEY_02
+Ekscesy z alkoholem
+$GEN_026_KEY_03
+Sabotowanie wyroku Trybunału
+$GEN_026_KEY_04
+Transport dział
+$GEN_026_KEY_05
+Korekta trasy taboru
+$GEN_026_KEY_06
+Towarzysz broni
+
+
+$GEN_026_LastDialog_00
+Przyjmę wyrok z honorem, ale niech to nie oczyszcza twojego sumienia!
+
+$GEN_026_UNIQUE_QUESTION_00
+Jak De Toucy tłumaczył rozdzielenie ludzi i dział?
+$GEN_026_UNIQUE_ANSWER_CORRECT_00_00
+Rozkazem pułkownika Prata.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Regulaminem wojskowym.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Obawą przed sabotażem.
+
+$GEN_026_UNIQUE_QUESTION_01
+Kogo planowano rozstrzelać kartaczami?
+$GEN_026_UNIQUE_ANSWER_CORRECT_01_00
+Kontrrewolucjonistów.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Księży.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Pospolitych bandytów.
+
+$GEN_026_UNIQUE_QUESTION_02
+Jak żołnierz określił planowaną egzekucję?
+$GEN_026_UNIQUE_ANSWER_CORRECT_02_00
+Torturowaniem bezbronnych.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Marnowaniem prochu.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Plamą na mundurze.

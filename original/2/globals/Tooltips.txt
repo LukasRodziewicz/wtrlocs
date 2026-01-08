@@ -1,0 +1,26 @@
+#INFLUENCE_TIP
+Influence
+#INCLUENCE_TIP_SHORT
+PI
+#INFLUENCE_INCOME_TIP
+Plus d'influence
+#COST_TIP
+Coût :
+#SUPPORT_FORMAT_TIP
+Soutien : {0}
+#PEOPLE_SUPPORT_TIP
+Soutien du peuple
+#ARISTOCRATS_SUPPORT_TIP
+Soutien des aristocrates
+#REVOLUTIONISTS_SUPPORT_TIP
+Soutien des révolutionnaires
+#REPUTATION_TIP
+Réputation
+#CLOSE_VIEW_TIP
+Fermer l'affichage
+#START_DISCUSSION_TOOLTIP
+Commencer la persuasion
+#OPEN_DISCUSSION_INFO
+Vérifier vos notes
+#DECISION_NOT_ENOUGH_POINTS
+<color=#ff0000ff>Vous n'avez pas les moyens de réaliser cette action.</color>

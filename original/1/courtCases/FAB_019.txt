@@ -1,0 +1,198 @@
+$FAB_019_DOC_01_HEADER
+Compiled by: Pierre Daquin
+$FAB_019_DOC_01_00
+The defendant is Charlotte Corday, residing in Caen, she openly declares her <a name="1" class="hidden">sympathy for the Girondins</a>. The woman murdered Jean-Paul Marat – she was detained at the scene of the crime and confessed immediately.
+$FAB_019_DOC_01_01
+According to our information, the woman displays an intense dislike of the Jacobins and anyone who contributed to the fall of the Girondins. She arranged a meeting with Marat under the pretext of <a name="2" class="hidden">turning in a group of her comrades</a> who had supposedly planned an uprising in Caen. Marat’s servants remained vigilant and initially did not let the woman near Jean-Paul, but allegedly the host reprimanded them and told them to let the supposed informer in. The man was sitting in his bath, as rumour had it he suffered from a skin disease that was eased by long baths. It seems he suspected nothing, as we found none of the deceased’s weapons near the bathtub.
+$FAB_019_DOC_01_02
+After a short conversation, Corday <a name="4" class="hidden">thrust a knife</a> between his ribs. Marat cried for help, but had little chance of surviving after being so badly wounded. When the servants ran in, Corday was standing at the window, looking out as though she were examining the landscape. She offered no resistance during her arrest, but tightly gripped a copy of Plutarch’s “Parallel Lives” – I do not know if it is any good, I have not read it. On the way to her cell, she repeated many times that she had been <a name="6" class="hidden">acting on her own</a>, and was particularly keen on emphasising that there was no man behind her act. The guards probably did not fully believe her, as she began to shout in the corridor that she was a virgin. Yet, who would want to copulate with a lunatic like her? Marat is dead.
+$FAB_019_DOC_02_00
+Jean-Paul Marat
+$FAB_019_DOC_02_01
+He was our brother, one of the informal leaders of the Revolution. Everyone loved him for his apt articles in which he highlighted the faults of the enemies to revival. Perhaps he was too sharp with his conclusions, but could he have been otherwise?
+$FAB_019_DOC_02_02
+Evidence:
+$FAB_019_DOC_02_03
+A knife with dried blood on the blade, and <a name="7" class="hidden">a copy of “Parallel Lives” by Plutarch</a>.
+$FAB_019_OnStart_00
+Traitor!
+$FAB_019_OnStart_01
+You will rot, bitch!
+$FAB_019_OnStart_02
+Please introduce yourself.
+$FAB_019_OnStart_03
+My name is Charlotte Corday.
+$FAB_019_OnStart_04
+You have been accused of murdering Citizen Marat–
+$FAB_019_OnStart_05
+Yes, I did it.
+$FAB_019_OnStart_06
+We rarely see people here confess so willingly.
+$FAB_019_OnGuilty_00
+I sentence Citizen Charlotte Corday to be guillotined! Lead the condemned out.
+$FAB_019_OnGuilty_01
+That’s right!
+$FAB_019_OnGuilty_02
+Yes, drag the pig out for slaughter!
+$FAB_019_OnNotGuilty_00
+The verdict in the case of Citizen Marat’s murder is… not guilty! Please release Miss Corday.
+$FAB_019_OnNotGuilty_01
+Has the Judge gone mad?
+$FAB_019_OnNotGuilty_02
+Paris will not forget you for this.
+$FAB_019_01x02_00_QTitle
+Do you want to turn in your companions?
+$FAB_019_01x02_00_00
+Do you want to turn in your companions?
+$FAB_019_01x02_00_01
+There were no companions, as there was no uprising. I knew that the vision of a big conspiracy would convince Marat to meet with me.
+$FAB_019_01x02_00_02
+She’s one shrewd bitch.
+$FAB_019_01x02_00_03
+You came from Caen? That’s a long way from Paris…
+$FAB_019_01x02_00_04
+The journey passed quickly, as I was focused on its purpose and the pleasure of imagining Marat as a bleeding creature.
+$FAB_019_01x02_00_05
+You made sure to wear a beautiful outfit as well…
+$FAB_019_01x02_00_06
+A beautiful outfit for the guillotine, not for Marat.
+$FAB_019_01x02_00_07
+You are acting as if you want to die.
+$FAB_019_01x02_00_08
+Such is the price of freedom and equality. I at least agree with Marat on one point – the change that is necessary for France must be introduced by force. I added my unswerving strength of will to that end.
+$FAB_019_01x06_01_QTitle
+Are we supposed to believe that you acted on your own?
+$FAB_019_01x06_01_00
+Are we supposed to believe that you acted on your own?
+$FAB_019_01x06_01_01
+It doesn’t take a regiment of soldiers to stab someone with a knife.
+$FAB_019_01x06_01_02
+And nobody helped to plan it? You made it particularly clear–
+$FAB_019_01x06_01_03
+I will say this loud and clear – I am aware that monsieur le juge had a dispute with Marat, but let everyone here know that I was not instructed to do this by Judge Fidèle.
+$FAB_019_01x06_01_04
+All those coincidences…
+$FAB_019_01x06_01_05
+I don’t need a man to administer justice. I don’t need a man to do anything. My own strong will is sufficient.
+$FAB_019_01x06_01_06
+Why did you underline–
+$FAB_019_01x06_01_07
+Because your minds are unable to accept the idea that a delicate woman could kill. Marat was the same.
+$FAB_019_02x04_02_QTitle
+What you have done is a blow to all of France. Marat was an outstanding Citizen of Paris…
+$FAB_019_02x04_02_00
+What you have done is a blow to all of France. Marat was an outstanding Citizen of Paris, devoted to the Revolution–
+$FAB_019_02x04_02_01
+He was scum! A monster! Only in Paris could someone like him be respected as the saviour of the nation. To us in Caen, and for many people across France, he was and will always be an ordinary criminal.
+$FAB_019_02x04_02_02
+And also for those companions whom you intended to turn in?
+$FAB_019_02x04_02_03
+Do you think anyone will tell you the truth? You, the people who feed the guillotine with fresh blood?
+$FAB_019_02x04_02_04
+The transparent actions of the authorities were to be the foundation of the Revolution.
+$FAB_019_02x04_02_05
+Perhaps in Paris, but in the countryside it is now worse than before. We used to blame the King for our hunger, and now we blame ourselves because it was us who put you in power.
+$FAB_019_02x04_02_06
+A blood-stained knife was found at the scene of the crime. Is it yours?
+$FAB_019_02x04_02_07
+Yes, I bought it not long before. Anyone who is secretly against another could administer such a blow. With an ordinary knife, and no need for the performance you give every day on the guillotine.
+$FAB_019_03x04_03_QTitle
+Killing a statesman in the bath is an insult to the country.
+$FAB_019_03x04_03_00
+Killing a statesman in the bath is an insult to the country.
+$FAB_019_03x04_03_01
+Was I supposed to wait for him to put his breeches on?
+$FAB_019_03x04_03_02
+You are talking about a great man here!
+$FAB_019_03x04_03_03
+To me he was merely a small man pumped up with arrogance. I actually find this whole situation quite symbolic.
+$FAB_019_03x04_03_04
+Why?
+$FAB_019_03x04_03_05
+He was so defenceless. He suspected nothing, he had no weapons – just like the victims of his defamatory articles.
+$FAB_019_03x04_03_06
+Marat only told the truth…
+$FAB_019_03x04_03_07
+I’ve heard rumours that he got a skin disease from hiding in the sewers of Paris. He came out like a rat to die in his own shit.
+$FAB_019_03x04_03_08
+That is quite enough.
+$FAB_019_03x04_03_09
+The guillotine will embrace you, just wait and see!
+$FAB_019_04x06_04_QTitle
+Why are you so hateful towards Marat?
+$FAB_019_04x06_04_00
+Why are you so hateful towards Marat?
+$FAB_019_04x06_04_01
+He was a symbol of the evil that is smothering my country.
+$FAB_019_04x06_04_02
+Is that why you stayed there after committing the crime?
+$FAB_019_04x06_04_03
+I am not ashamed, I do not have to run. I have killed one man to save one hundred thousand, and I will receive death as my reward.
+$FAB_019_04x06_04_04
+The fall of the Girondins was justified.
+$FAB_019_04x06_04_05
+That’s a lie! The fall of the Girondins was planned. You issued your verdict, and probably had a hand in the whole thing!
+$FAB_019_04x06_04_06
+What do you mean?
+$FAB_019_04x06_04_07
+The judge here was involved in a dispute with Minister Roland. All of a sudden, the Girondins were accused of treason! It’s not hard to figure out that Judge Fidèle must have had something to do with it.
+$FAB_019_04x06_04_08
+Enough of these aspersions.
+$FAB_019_06x07_05_QTitle
+When you were arrested, you were holding a book by Plutarch…
+$FAB_019_06x07_05_00
+When you were arrested, you were holding a book by Plutarch. Can you explain this choice to us?
+$FAB_019_06x07_05_01
+We know brilliant minds that grew up reading this book, getting to know the ideals described within. It is a beacon to those who have their doubts.
+$FAB_019_06x07_05_02
+What manner of noble idea justifies the killing of innocent people?
+$FAB_019_06x07_05_03
+…
+$FAB_019_06x07_05_04
+Answer the question!
+$FAB_019_06x07_05_05
+The streets are red with the blood of hundreds of innocent victims, and you are asking me this question because of Marat alone? Ask the other heroes of the Revolution… Oh, that’s right, they’re dead too. They’ve already been killed by the ideal they helped to create.
+$FAB_019_06x07_05_06
+So this man’s death was justified?
+$FAB_019_06x07_05_07
+No less than the deaths of those Girondins who had the courage to disagree with you. Marat died so many others could have the chance to live a little longer. What, you surely didn’t think you had a monopoly on brutality?
+$FAB_019_KEY_01
+A supporter of the Girondins
+$FAB_019_KEY_02
+The alleged denunciation
+$FAB_019_KEY_03
+The bath
+$FAB_019_KEY_04
+Stabbed with a knife
+$FAB_019_KEY_05
+Screams of the victim
+$FAB_019_KEY_06
+Acting alone
+$FAB_019_KEY_07
+Plutarch’s book
+$FAB_019_LastDialog_00
+Just make it quick.
+$FAB_019_UNIQUE_QUESTION_00
+What was the murder weapon?
+$FAB_019_UNIQUE_ANSWER_CORRECT_00_00
+A knife.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_00_00
+An axe.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_00_01
+A bayonet.
+$FAB_019_UNIQUE_QUESTION_01
+Did the defendant turn in her accomplices?
+$FAB_019_UNIQUE_ANSWER_CORRECT_01_00
+She was working alone.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_01_00
+They were insurgents from Caen.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_01_01
+They were just a group of criminals from Paris.
+$FAB_019_UNIQUE_QUESTION_02
+Why did the defendant choose Marat?
+$FAB_019_UNIQUE_ANSWER_CORRECT_02_00
+In her opinion, he was a symbol of the evil that smothered France.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_02_00
+He demanded in his paper that her lover be decapitated.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_02_01
+She chose him randomly.

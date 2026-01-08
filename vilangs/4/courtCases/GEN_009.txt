@@ -1,0 +1,128 @@
+$GEN_009_DOC_01_HEADER
+Zusammengestellt von: Richard Mounier
+$GEN_009_DOC_01_00
+Jean Renard, ein 45-jähriger Gastwirt, ist des Betrugs angeklagt. Ihm wird vorgeworfen, in seiner Schenke <a name="2" class="hidden">Alkohol zu strecken</a> und seine Gäste so um mehr Geld zu bringen.
+$GEN_009_DOC_01_01
+Die Gäste kamen mit einem festen Ziel – <a name="3" class="hidden">sich hemmungslos zu betrinken</a>. Doch anstatt nach zwei Krügen Wein oder mehreren Humpen Bier schwankend hinauszutorkeln, saßen sie bis zum Morgen in der Schenke, noch immer nüchtern und völlig mittellos.
+$GEN_009_DOC_01_02
+Der Betrug des Wirts flog auf, als einer der Gäste <a name="4" class="hidden">den Schwindel entdeckte</a> und den Betrüger auf frischer Tat ertappte. Der Mann betrat den Keller des Gastgebers und sah, wie dieser den Alkohol in den Fässern mit <a name="5" class="hidden">gewöhnlichem Wasser</a> streckte. So bekamen die Kunden nur vier Teile von dem, wofür sie bezahlt hatten, und einen Teil vom Wasserträger.
+$GEN_009_OnStart_00
+In schweren Zeiten suchen die Menschen gern Trost am Grund eines Glases…
+$GEN_009_OnStart_01
+Bitte stellen Sie sich vor.
+$GEN_009_OnStart_02
+Mein Name ist Jean Renard, Monsieur Richter.
+$GEN_009_OnStart_03
+Nichts als Betrug!
+$GEN_009_OnPrison_00
+Ich verurteile Bürger Jean Renard zu einer Gefängnisstrafe! Führt den Verurteilten ab.
+$GEN_009_OnPrison_01
+Hurra!
+$GEN_009_OnPrison_02
+Es lebe der reine Wein!
+$GEN_009_OnNotGuilty_00
+Das Urteil lautet… nicht schuldig. Bürger Renard, Sie dürfen gehen.
+$GEN_009_OnNotGuilty_01
+Was soll das? Sie haben den Betrüger freigelassen?!
+$GEN_009_OnNotGuilty_02
+Das ist kein Recht!
+$GEN_009_01x02_00_QTitle
+Wie lange schon betreiben Sie das illegale Geschäft des Alkoholpanschens?
+$GEN_009_01x02_00_00
+Wie lange sind Sie bereits in die illegale Praxis des Verdünnens von Alkohol verwickelt?
+$GEN_009_01x02_00_01
+Das ist nichts Illegales, jeder streckt ein wenig.
+$GEN_009_01x02_00_02
+In deinem Fall war es eher ein Tropfen Wein im Wasser, nicht umgekehrt.
+$GEN_009_01x02_00_03
+Machen Sie das schon lange?
+$GEN_009_01x02_00_04
+Höchstens ein paar Wochen. In letzter Zeit ist es schwer geworden, seinen Lebensunterhalt zu verdienen. Früher habe ich ein ehrliches Geschäft geführt. Der reine Wein floss bis zum Rand der Gläser.
+$GEN_009_01x02_00_05
+Gibt es Beweise, die Ihre Aussage untermauern?
+$GEN_009_01x02_00_06
+Er hat seine Kunden belogen. Warum sollte er vor Gericht die Wahrheit sagen?
+$GEN_009_02x05_01_QTitle
+Wie fühlten Sie sich dabei, erschöpfte Bürger zu täuschen?
+$GEN_009_02x05_01_00
+Wie fühlt es sich an, erschöpfte Bürger zu täuschen?
+$GEN_009_02x05_01_01
+Schrecklich, aber alles, was ich wollte, war, mein Geschäft am Leben zu halten. Die anderen nehmen es auch nicht so genau. Wenn ich nicht gepanscht hätte, wäre es mein Ruin gewesen.
+$GEN_009_02x05_01_02
+Also haben Sie sich für Betrug entschieden, um kein Geld zu verlieren?
+$GEN_009_02x05_01_03
+Wenn ich meine Taverne verliere, wird meine Familie verhungern.
+$GEN_009_02x05_01_04
+Haben Sie Kinder?
+$GEN_009_02x05_01_05
+Ja, einen Sohn und zwei Töchter. Es wird Zeit, für die Mitgift zu sparen.
+$GEN_009_02x05_01_06
+Dann lass sie doch arbeiten, du Idiot!
+$GEN_009_02x04_02_QTitle
+Bitte rufen Sie Thomas Leclair herein.
+$GEN_009_02x04_02_00
+Bitte rufen Sie Thomas Leclair herein.
+$GEN_009_02x04_02_01
+Bitte stellen Sie sich vor.
+$GEN_009_02x04_02_02
+Thomas Leclair. Ich bin Stammgast im Haus von Jean Renard.
+$GEN_009_03x05_03_QTitle
+Trinken Ihre Kunden viel?
+$GEN_009_03x05_03_00
+Trinken Ihre Kunden viel?
+$GEN_009_03x05_03_01
+Stammgäste in Tavernen trinken meist viel.
+$GEN_009_03x05_03_02
+Sie verkaufen also eine Menge Wein.
+$GEN_009_03x05_03_03
+Ja, ziemlich viel.
+$GEN_009_03x05_03_04
+Und dennoch zahlen Sie Steuern auf die Menge Wein, die Sie eingekauft haben, nicht auf die Menge, die Sie verkauft haben, richtig?
+$GEN_009_03x05_03_05
+Ich verstehe nicht.
+$GEN_009_03x05_03_06
+Sie haben Steuern für vier Weinfässer gezahlt, aber indem Sie jedem Fass ein Viertel Wasser beimischen, verdienen Sie am Ende so viel wie beim Verkauf von fünf Fässern Wein.
+$GEN_009_03x05_03_07
+So kann man es auch sehen… Vielleicht stimmt das… Mit Zahlen kenne ich mich nicht besonders aus.
+$GEN_009_03x05_03_08
+Mit Zahlen kennen Sie sich angeblich nicht aus, aber Sie wussten genau, wie lukrativ Betrug sein kann?
+$GEN_009_03x05_03_09
+Das war mir nicht bewusst…
+$GEN_009_03x05_03_10
+Ich werde diese Antwort berücksichtigen.
+$GEN_009_03x05_03_11
+Der Richter hat den Schurken entlarvt!
+$GEN_009_WIT_00_A_QTitle
+Wie lange haben Sie schon vermutet, dass mit Herrn Renards Alkohol etwas nicht stimmt?
+$GEN_009_WIT_00_A_00
+Wie lange haben Sie schon den Verdacht, dass mit Monsieur Renards Alkohol etwas nicht stimmt?
+$GEN_009_WIT_00_A_01
+Vor etwa einem Monat wurde ich misstrauisch. Krüge voller Wein wurden geleert, doch statt betrunkener zu werden, wurde ich nur nüchterner. Erst im Morgengrauen merkte ich, dass ich kein Geld mehr bei mir hatte und so nüchtern war wie ein Neugeborenes.
+$GEN_009_WIT_00_A_02
+Wie war das möglich?
+$GEN_009_WIT_00_A_03
+Damals wusste ich nicht, dass die Gäste zuerst ein ordentliches erstes Getränk bekamen und danach immer mehr Wasser in ihren Gläsern landete – leicht angetrunken merkten sie den Unterschied nicht mehr.
+$GEN_009_WIT_00_A_04
+War es jedes Mal so?
+$GEN_009_WIT_00_A_05
+Jedes einzelne Mal.
+$GEN_009_WIT_00_B_QTitle
+Wie haben Sie Bürger Renard dabei ertappt, wie er Wein mit Wasser verdünnte?
+$GEN_009_WIT_00_B_00
+Wie haben Sie Bürger Renard dabei ertappt, wie er Wein mit Wasser verdünnte?
+$GEN_009_WIT_00_B_01
+Ich habe ein Glas nach dem anderen getrunken, also musste ich... Sie wissen schon, Monsieur le Juge...
+$GEN_009_WIT_00_B_02
+Ich verstehe.
+$GEN_009_WIT_00_B_03
+So kam es, dass ich mich einmal verirrte und statt… na, Sie wissen schon… landete ich im Keller, wo ich Renard dabei erwischte, wie er Wasser in die Fässer goss.
+$GEN_009_KEY_01
+Der Wirt
+$GEN_009_KEY_02
+Verdünnung von Alkohol
+$GEN_009_KEY_03
+Trunkenheit der Kunden
+$GEN_009_KEY_04
+Die Entlarvung des Wirts
+$GEN_009_KEY_05
+Wasser hinzufügen

@@ -1,0 +1,150 @@
+#BATTLE_TURNS
+Tur {0}
+#LAST_STAND
+Son şans!
+#BATTLE_WIN
+Kazandınız!
+#BATTLE_LOSE
+Kaybettiniz!
+#BATTLE_DRAFT
+Beraberlik!
+#BATTLE_TURN
+Tur {0}
+#BATTLE_TURN_LINE
+Tur {0}
+#BATTLE_SUMMARY_ENEMY
+Rakip:
+#BATTLE_SUMMARY_PLAYER
+Oyuncu:
+#START_BATTLE
+Bir savaşa gir
+#PENDING_BATTLE
+Savaş devam ediyor
+#BALANCE_OF_POWER
+Güç dengesi
+#CHOOSE_TACTIC
+Taktik seç
+#TACTIC_INACTIVE
+Bu taktik kullanılamaz
+#TACTIC_LOCKED
+Bu taktik bir değiştirici tarafından engellendi
+#MEDIC_USED
+Doktor zaten gönderildi.
+#TACTIC_NEUTRAL
+Tarafsız
+#TACTIC_NEUTRAL_DESC
+Dengeli bir taktik; büyük avantajlar sağlamaz, fakat birliklerinizin saldırı gücünde de ciddi bir kayba yol açmaz.
+#TACTIC_BREAK
+Ön cephe taarruzu
+#TACTIC_BREAK_DESC
+Ön saflarda kahramanca bir saldırı. Çok sayıda nişancınız varsa özellikle etkilidir. Piyadeniz zayıflamışsa etkisi azalır.
+#TACTIC_FIRING
+Bastırıcı ateş
+#TACTIC_FIRING_DESC
+Nişancılarınız düşman saflarının üzerine kurşun yağdırırken, piyade hattı tutmaya çalışır. Bu taktik, savunmada olan bir düşmana karşı özellikle etkilidir.
+#TACTIC_DEFENSE
+Savunma
+#TACTIC_DEFENSE_DESC
+Askerleriniz daha az saldırgan savaşır, ancak savunmaya büyük bir bonus alır. Bu taktik, özellikle elinizde çok sayıda piyade varsa etkili olabilir.
+#TACTIC_TRENCH
+Siperlenme
+#TACTIC_TRENCH_DESC
+Topçu daha fazla hattı ateş altına alırken, kalan saflar savunmaya çekiliyor.
+#BATTLE_STATS_ATTACK_BONUS
+Saldırıya bonus
+#BATTLE_STATS_ATTACK_PENALTY
+Saldırıya ceza
+#BATTLE_STATS_DEFENSE_BONUS
+Savunmaya bonus
+#BATTLE_STATS_DEFENSE_PENALTY
+Savunmaya ceza
+#MUSKETEERS
+Misketçiler
+#INFANTRY
+Piyade
+#ARTILLERY
+Topçu
+#BATTLE_OPPONENT_01
+Saldırgan
+#BATTLE_OPPONENT_02
+Savunmada
+#BATTLE_OPPONENT_03
+Tarafsız
+#TUTORIAL_OPPONENT
+İstilacı
+#BATTLE_OPPONENT_CUT_22
+Gobel’in destekçileri
+#BATTLE_OPPONENT_CUT_28
+Hanriot
+#BATTLE_MEDIC_AVAILABLE
+Doktor Gönder
+#BATTLE_MEDIC_REWIND
+Sıfırla
+#BATTLE_MEDIC_DISABLED
+Mevcut bir sağlık görevlisi yok.
+#BATTLE_REFUGEES_HEADER
+Bölgedeki siviller
+#BATTLE_REFUGEES_TITLE
+Diğerleri
+#BATTLE_RESCUED_REFUGEES_TITLE
+Sağ Kalanlar
+#BATTLE_SUMMARY_AGENTS_LOST
+Ölü Ajanlar
+#BATTLE_SUMMARY_AGENT_MEDIC
+Doktor
+#BATTLE_SUMMARY_AGENT_COORDINATOR
+Lojistik uzmanı
+#BATTLE_REFUGEES_NEW_TURN
+Bu turda {0} sivil kaçtı
+#BATTLE_EVENT_TITLE_01
+Sağanak Yağmur
+#BATTLE_EVENT_DESC_01
+Nişancılar %50 daha az saldırı gücüne sahip. Sakinler %20 daha yavaş kaçar.
+#BATTLE_EVENT_TITLE_02
+Dar Sokak
+#BATTLE_EVENT_DESC_02
+Saldırı taktiklerini engeller.
+#BATTLE_EVENT_TITLE_03
+Düşman Erzakları
+#BATTLE_EVENT_DESC_03
+Düşman daha şiddetli savaşıyor.
+#BATTLE_EVENT_TITLE_04
+Barikatlar
+#BATTLE_EVENT_DESC_04
+Birlikleriniz tahkimatlar sayesinde daha verimli.
+#BATTLE_EVENT_TITLE_05
+Felç Edici Korku
+#BATTLE_EVENT_DESC_05
+Sakinler %30 daha yavaş kaçıyor.
+#BATTLE_EVENT_TITLE_06
+Cesaret
+#BATTLE_EVENT_DESC_06
+Askerleriniz daha büyük bir vahşetle savaşıyor.
+#BATTLE_EVENT_TITLE_100
+Yaralı Askerler
+#BATTLE_EVENT_DESC_100
+Askerleriniz %50 daha az verimle saldırıyor.
+#BATTLE_EVENT_TITLE_101
+Fanatizm
+#BATTLE_EVENT_DESC_101
+Düşmanın milisleri daha şiddetli savaşıyor.
+#BATTLE_SUMMARY_REFUGEES_TITLE
+Siviller:
+#BATTLE_SUMMARY_REFUGEES_RESCUED
+Kurtarılan: {0}
+#BATTLE_SUMMARY_REFUGEES_DEAD
+Öldürülen: {0}
+$TUTORIAL_BATTLE_DIALOG_01
+Artçımız düşmanla çarpıştı ve yenildi. Düşman, yaralıların tedavi edildiği kampa kadar ilerledi. Silahlarımıza sarılmak zorunda kaldık.
+$TUTORIAL_BATTLE_DIALOG_02
+Kardeşin adeta kendinden geçmiş gibi savaştı. İnsanlar etrafında toplanıyordu.
+$TUTORIAL_BATTLE_DIALOG_03
+Takviye kuvvetlerin bize yardıma koştuğuna inanıyorduk. Ama biliyorduk ki, çok geç kalacaklardı…
+$TUTORIAL_BATTLE_DIALOG_04
+Bir süngü beni delip geçti. Kan kaybediyordum, arkadaşlarım ise kurşunların altında birer birer yere seriliyordu.
+$GOBEL_BATTLE_OPPONENT_01
+Kiliseye el kaldırmaya cüret edenlere ölüm!
+$GOBEL_BATTLE_JUDGE_02
+Kilise’ye değil, onun açgözlü rahiplerine karşıyız. Fransa’yı dibe çekenlere!
+$GOBEL_BATTLE_OPPONENT_03
+Hiçbir farkı yok. Buna izin vermeyeceğiz! Kafalarınızı çoktan kazıklara geçirmeliydik!

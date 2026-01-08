@@ -1,0 +1,244 @@
+$GEN_027_DOC_01_HEADER
+Hazırlayan: Nathan d'Essiraf
+$GEN_027_DOC_01_00
+Jean-François Vary, 38 yaşında, Marquis de Rougé için çalışmış eski bir şef, şu anda hapishane hücresinde yargılanmayı bekliyor. Eski işvereni, monarşist ve komplocu olduğu gerekçesiyle giyotine mahkûm edilmiş ve serveti elinden alınmıştı. Vary’nin yalnızca bir aşçı değil, aynı zamanda <a name="2" class="hidden">markizin dostu</a> olduğunu da tespit ettik. İşvereninin tutuklanmasından sonra ne yaptığı bilinmiyor; ancak bir yıl sonra Paris’te, aristokrasiyle zengin tüccar ve sanayiciler arasında özellikle rağbet gören <a name="3" class="hidden">lüks bir restoran</a> açtı: Altın Chimera’nın Altında.
+$GEN_027_DOC_01_01
+Vary, öfkeli bir kalabalık tarafından, restoranın üzerine “En iyi Yurttaşlar hoş geldiniz” yazılı bir <a name="4" class="hidden">pankart astıktan</a> sonra Ulusal Muhafızlara teslim edildi. İzinsiz gözaltı işlemini gerçekleştiren Parisliler, lokantacıyı Karşı-Devrimci görüşlere sahip olmakla ve Paris halkına karşı çıkmakla suçladı. Askerler hızla olay yerine ulaştı. Pankartı kurtaramadılarsa da, kalabalığın restoranı ve içindeki misafirleri ateşe vermesini engellediler.
+$GEN_027_DOC_01_02
+Soruşturma, Vary'nin alt sınıftan gelen müşterilere aristokratlara kıyasla <a name="6" class="hidden">çok daha kötü davrandığını</a> ortaya çıkardı. Hatta onlardan fazla ücret alıyor ya da hiç hizmet vermiyordu.
+$GEN_027_DOC_01_03
+En çarpıcı olaylardan biri, zengin ve saygın kunduracı <a name="7" class="hidden">Paul Idrac</a>'ın, herkesin önünde restorandan ayrılmaya zorlanmasıyla yaşandı. İddiaya göre, Vary bizzat Idrac'ı dışarı çıkarmış ve ona “üstleriyle aynı masada yemek yemeye layık olmayan bir ayak takımı” demişti.
+$GEN_027_OnStart_00
+Şu aşçı müsveddesi kendini bizden üstün sanıyor!
+$GEN_027_OnStart_01
+Lütfen kendinizi tanıtınız.
+$GEN_027_OnStart_02
+Adım Jean-François Vary, sayın yargıç.
+$GEN_027_OnStart_03
+Jean-François, Devrim’in kazanımlarına aykırı görüşlere sahip olmak ve bu doğrultuda hareket etmekle suçlanıyorsunuz. Bu suçlamalara karşı ne diyeceksiniz?
+$GEN_027_OnStart_04
+Bu suçlamalar gülünç. Bunlar sadece iftira ve... ve... işime göz dikenlerin yasa dışı faaliyetleri!
+$GEN_027_OnStart_05
+Dosyalar, yasayı ihlal edenin açıkça siz olduğunu gösteriyor.
+$GEN_027_OnStart_06
+Söyleyin, yasayı ne zaman ve nasıl çiğnedim?
+$GEN_027_OnStart_07
+Kendinizden aşağı gördüğünüz Yurttaşlara hizmet vermeyi reddettiniz. Dahası, bunu hem mağdurların hem de herkesin önünde açıkça itiraf ettiniz.
+$GEN_027_OnStart_08
+Bu sadece müvekkillerimle aramda bir yanlış anlaşılma, mahkemelik bir durum değil.
+$GEN_027_OnGuilty_00
+Jean-François’u giyotine mahkûm ediyorum! Mahkûmu dışarı çıkarın.
+$GEN_027_OnGuilty_01
+Ona yerini göster!
+$GEN_027_OnGuilty_02
+Bravo!
+$GEN_027_OnGuilty_03
+Bugün sıradan Parislilerin tarafını tuttuk.
+$GEN_027_OnNotGuilty_00
+Jean-François davasında verilen karar… suçsuz! Sanık serbest bırakıldı.
+$GEN_027_OnNotGuilty_01
+Deli mi bu?!
+$GEN_027_OnNotGuilty_02
+Halkın düşmanını serbest bırakıyorsunuz!
+$GEN_027_OnNotGuilty_03
+İyi bir masa ve bedava akşam yemeği umudunuz mu var?
+$GEN_027_02x04_00_QTitle
+Hangi Yurttaşları “en iyiler” olarak nitelendiriyorsunuz?
+$GEN_027_02x04_00_00
+Hangi Yurttaşları “en iyiler” olarak nitelendiriyorsunuz?
+$GEN_027_02x04_00_01
+Adab-ı muaşerete hâkim olanlar ve yemeklerinin tam bedelini ödeyenler.
+$GEN_027_02x04_00_02
+Peki, bu şartları kim yerine getiriyor?
+$GEN_027_02x04_00_03
+Tecrübemden biliyorum ki, çoğunlukla aristokratlar ve sanayicilerden oluşuyorlar. Bazen “yüksek sosyete” de derler.
+$GEN_027_02x04_00_04
+Yani, sizin bakış açınıza göre aristokratlar daha üstün Yurttaşlar mı?
+$GEN_027_02x04_00_05
+İnsanları üstün ve aşağı diye ayırmak hiç niyetim olmadı.
+$GEN_027_02x04_00_06
+Ama yine de yaptınız. Tabelanız, aşağı gördüklerinize kapıları kapattı.
+$GEN_027_02x04_00_07
+Bizzat kendi gözlerinizle mi gördünüz?
+$GEN_027_02x04_00_08
+Hayır, kalabalık onu yok etti.
+$GEN_027_02x04_00_09
+Ben sadece Altın Kimera’da en iyi Yurttaşların yemek yediğini yazdım. Bunun nesi Karşı-Devrimci?
+$GEN_027_02x04_00_10
+Yalancı! Ne gördüğümüzü gayet iyi biliyoruz.
+$GEN_027_02x04_00_11
+Okuma bilmezsiniz ki siz, zavallı işçiler!
+$GEN_027_02x05_01_QTitle
+Devrimden önceki zamanları nasıl hatırlıyorsunuz?
+$GEN_027_02x05_01_00
+Devrimden önceki zamanları nasıl hatırlıyorsunuz?
+$GEN_027_02x05_01_01
+Zanaatımın ustası olarak, onurlu bir hayat sürdüm.
+$GEN_027_02x05_01_02
+Sadece bunu mu umursuyordun?
+$GEN_027_02x05_01_03
+Yok, öyle demek istemedim–
+$GEN_027_02x05_01_04
+Sen de, markiz de bizim sefaletimizden beslenip semirdiniz!
+$GEN_027_02x05_01_05
+Demek ki Devrimi desteklemiyorsunuz?
+$GEN_027_02x05_01_06
+Bu doğru değil! Sadece şunu demek istedim: Başkalarının yaşadığı o büyük adaletsizliği ben hiç yaşamadım.
+$GEN_027_02x05_01_07
+Elbette hayır, siz ahırda değil, sarayda yaşıyordunuz.
+$GEN_027_02x05_01_08
+Bay yargıç, ayrıcalıklarım için çok çalıştım. Zengin bir ailede doğmadım, ekmeğimi herkes gibi çalışarak kazandım.
+$GEN_027_04x05_02_QTitle
+Restoranınızın üzerine tabelayı astınız mı?
+$GEN_027_04x05_02_00
+Restoranınızın üzerine tabelayı astınız mı?
+$GEN_027_04x05_02_01
+Evet, yargıç bey, yaptım.
+$GEN_027_04x05_02_02
+Neden yaptınız bunu? Levhadaki mesaj, devrimin eşitlik ve kardeşlik ideallerine açıkça aykırıydı.
+$GEN_027_04x05_02_03
+Sadece herkesin bilmesini isterim ki, restoranım en titiz müşterilerin bile beklentilerini karşılar.
+$GEN_027_04x05_02_04
+Peki ya sıradan insanlar ve onların talepleri?
+$GEN_027_04x05_02_05
+Orada yemek yerdim, neden olmasın.
+$GEN_027_04x05_02_06
+Sandığınız gibi değil. Hem ucuz hem de pahalı birçok restoran var. Sadece müşterilerimin içeride neyle karşılaşacaklarını bilmelerini istedim.
+$GEN_027_04x05_02_07
+Tabela, pek çok müşterinin burada hoş karşılanmadığını gösteriyor.
+$GEN_027_04x05_02_08
+Herkes hoş karşılanır, yeter ki nasıl davranacağını bilsin ve yediğinin parasını ödesin. En azından borçlarını ödemelerini ve biraz nezaket göstermelerini beklemeye hakkım var, değil mi?
+$GEN_027_04x05_02_09
+Ne kadar kibirli, açgözlü bir piç bu!
+$GEN_027_04x05_02_10
+Sesindeki küçümsemeyi duyuyor musun?
+$GEN_027_06x07_03_QTitle
+Tanık Paul Idrac’ı çağırın.
+$GEN_027_06x07_03_00
+Tanık Paul Idrac’ı çağırın.
+$GEN_027_06x07_03_02
+Lütfen kendinizi tanıtınız.
+$GEN_027_06x07_03_03
+Ben Paul Idrac.
+$GEN_027_06x07_03_04
+Mesleğiniz nedir?
+$GEN_027_06x07_03_05
+Ben bir kunduracıyım, sayın yargıç, tıpkı babam ve dedem gibi.
+$GEN_027_05x06_04_QTitle
+Bir lokantacının müşterileri geri çevirmesi normal midir?
+$GEN_027_05x06_04_00
+Bir lokantacının müşterileri geri çevirmesi normal midir?
+$GEN_027_05x06_04_01
+Cebinde deliklerden başka bir şey olmayan bir adam dükkâna girip altın bir tütün kutusu isterse, sizce ona hizmet ederler mi?
+$GEN_027_05x06_04_02
+Yani, girişte insanlardan ceplerindekini göstermelerini mi istediniz?
+$GEN_027_05x06_04_03
+Hayır.
+$GEN_027_05x06_04_04
+Peki, kime hizmet edeceğinizi nasıl biliyordunuz?
+$GEN_027_05x06_04_05
+İlk bakışta apaçık ortada.
+$GEN_027_05x06_04_06
+Bizim kaba yüzlerimizi beğenmedi!
+$GEN_027_03x04_05_QTitle
+Asilzade olmayanlara karşı bir önyargınız var mı?
+$GEN_027_03x04_05_00
+Asilzade olmayanlara karşı bir önyargınız var mı?
+$GEN_027_03x04_05_01
+Neden olayım ki? Ben de onlardan gelmedim zaten.
+$GEN_027_03x04_05_02
+Davranışlarınız ise tam tersini gösteriyor.
+$GEN_027_03x04_05_03
+Restoranımda yemek yiyebilen insanlar iltifat edilmeyi severler.
+$GEN_027_03x04_05_04
+Peki ya diğerleri hakarete uğramaktan hoşlanıyor mu?
+$GEN_027_03x04_05_05
+Kimseye hakaret etmedim!
+$GEN_027_03x04_05_06
+Duydunuz mu? Kimseye hakaret etmedi.
+$GEN_027_WIT_00_A_QTitle
+Sanığa sizi restorandan kovması için herhangi bir sebep verdiniz mi?
+$GEN_027_WIT_00_A_00
+Sanık sizi restorandan kovmak için herhangi bir sebep verdiniz mi?
+$GEN_027_WIT_00_A_01
+Hiç bile! Vary bana gitmemi söyledi, çünkü o yüce ve kudretliler bir kunduracının yanında olmaktan hoşlanmıyor!
+$GEN_027_WIT_00_A_02
+Uygunsuz davrandınız mı? Belki de fazla mı gürültü yaptınız?
+$GEN_027_WIT_00_A_03
+Hayır, tek mesele geçmişimdi.
+$GEN_027_WIT_00_A_04
+Bunun sebep olduğunu nereden biliyorsunuz?
+$GEN_027_WIT_00_A_05
+Vary bunu bana kendi söyledi, daha kapıyı açmadan önce! Ödeyebileceğimi kanıtlamak için parayı gösterdim ama dinlemedi bile. Tabii ki Baron Laval ve metresi, bir kunduracıyla odayı paylaşma fikrinden hoşlanmamışlar.
+$GEN_027_WIT_01_A_QTitle
+Restorandan ayrılmaya zorlanan başka kişiler olduğunu biliyor musunuz?
+$GEN_027_WIT_01_A_00
+Restorandan ayrılmaya zorlanan başka kişiler olduğunu biliyor musunuz?
+$GEN_027_WIT_01_A_01
+Elbette, sırf diğer müşterilerden farklı oldukları için – yani aristokrat olmadıkları için – dışarı atılan birkaç kişiyi tanıyorum.
+$GEN_027_WIT_01_A_03
+Sayın yargıç, yalan söylüyor. Ondan gitmesini istedim çünkü gümüşleri çalmaya çalışırken onu yakaladım.
+$GEN_027_WIT_01_A_04
+Yetkili mercilere haber verdiniz mi?
+$GEN_027_WIT_01_A_05
+Şey... hayır. Hiçbir şey çalamadığı için suç oluşmadığına karar verdim.
+$GEN_027_WIT_01_B_QTitle
+Sanığın siyasi görüşleri hakkında ne biliyorsunuz?
+$GEN_027_WIT_01_B_00
+Sanığın siyasi görüşleri hakkında ne biliyorsunuz?
+$GEN_027_WIT_01_B_01
+Sayın yargıç, devrimin en başından beri yanındayım ve bir monarşisti uzaktan tanırım. Bu kişi devrimin tam anlamıyla düşmanı.
+$GEN_027_WIT_01_B_02
+Bundan nasıl bu kadar emin olabiliyorsun?
+$GEN_027_WIT_01_B_03
+Beni kapı dışarı ederken söylediklerini duymak bile yeterliydi.
+$GEN_027_WIT_01_B_04
+Devam edin.
+$GEN_027_WIT_01_B_05
+Çamura düştüğümde, eskiden ayaktakımının yerini bildiğini, ama Devrim’in her şeyi altüst ettiğini ve Devrim’in de kahrolası olduğunu söyledi.
+$GEN_027_WIT_01_B_06
+Bunu kanıtlayabilir misiniz?
+$GEN_027_WIT_01_B_07
+Ben kanıt değil miyim?
+$GEN_027_WIT_01_B_09
+Sayın yargıç, böyle sözler söylediğimi hatırlamıyorum. Bu adam beni açıkça karalamaya çalışıyor!
+$GEN_027_KEY_01
+Şef Aşçı
+$GEN_027_KEY_02
+Markinin dostu
+$GEN_027_KEY_03
+Lüks restoran
+$GEN_027_KEY_04
+Tabela
+$GEN_027_KEY_05
+Karşı-devrimci görüşler
+$GEN_027_KEY_06
+Müşterilere davranış
+$GEN_027_KEY_07
+Ayakkabıcıyı zorla çıkarmak
+$GEN_027_LastDialog_00
+Bu apaçık ve korkunç bir yanlış anlaşılma! Böyle şeyler için insanları öldüremezsiniz! Yardım edin!
+$GEN_027_UNIQUE_QUESTION_01
+Sanık, “en iyi Yurttaşlar” derken ne tür insanları kastediyor?
+$GEN_027_UNIQUE_ANSWER_CORRECT_01_00
+Görgü kurallarına hâkim olanlar.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Alçakgönüllü ve sessiz olanlar.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Cömert ve zarif olanlar.
+$GEN_027_UNIQUE_QUESTION_02
+Sanık, bazı müşterilere hizmet vermeyi reddetmesini nasıl açıkladı?
+$GEN_027_UNIQUE_ANSWER_CORRECT_02_00
+Daha yüksek fiyatlar talep etti.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Yeterince masası yoktu.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Fakir Yurttaşların kirli ayakkabılarla içeri girmesine izin vermedi.
+$GEN_027_UNIQUE_QUESTION_03
+Sanık, Vatandaş Idrac’ı neyle suçladı?
+$GEN_027_UNIQUE_ANSWER_CORRECT_03_00
+Çatal bıçak takımını çalmaya çalışırken.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Hanımefendilere karşı kabalık yapmak.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Sarhoşluk ve bağırıp çağırmak.

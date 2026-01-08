@@ -1,0 +1,162 @@
+$GEN_050_DOC_01_HEADER
+Compilé par : Charles Étienne
+$GEN_050_DOC_01_00
+	<a name="1" class="hidden">Trois soldats</a>, servant dans les unités postées derrière la prison de Porte-Libre, ont volé six oies dans une ferme hors la ville. Le fermier, Jean Capel, surprit les troupiers dans leur larcin.
+$GEN_050_DOC_01_01
+	Capel s'opposa aux soldats, fourche à la main. L'un d'eux le mit en joue avec un <a name="3" class="hidden">mousquet</a> tout en menaçant de faire feu. Le fermier confia par la suite que sa frayeur fut si grande qu'il en perdit ses esprits et courut se réfugier dans sa porcherie.
+$GEN_050_DOC_01_02
+	Capel fut se plaindre du vol auprès d'un officier en poste dans les environs, qui ordonna aussitôt de rechercher les coupables. L'un des soldats fut rapidement trouvé dans une chapelle abandonnée, alors qu'il était occupé à <a name="5" class="hidden">rôtir trois volailles</a> sur un braisier improvisé. Les gendarmes l'arrêtèrent et lui confisquèrent son arme, une baïonnette réglementaire. Le détenu n'a livré aucun complice, même contre l'assurance d'échapper à un procès.
+$GEN_050_OnStart_00
+Soldat Gaubert ?
+$GEN_050_OnStart_01
+Soldat Michel Gaubert, Monsieur le juge.
+$GEN_050_OnStart_02
+Depuis combien de temps es-tu dans l'armée ?
+$GEN_050_OnStart_03
+Un an et quatre mois, Monsieur le juge.
+$GEN_050_OnStart_04
+As-tu volé les oies de Jean Capel ?
+$GEN_050_OnStart_05
+Je, euh… bah… c est-à-dire que oui.
+$GEN_050_OnStart_06
+Comment ça, c'est-à-dire que oui ?
+$GEN_050_OnStart_07
+Explique-toi.
+$GEN_050_OnStart_08
+Du côté de Paris où on était, il se passait rien et on avait plus grand-chose à manger.
+$GEN_050_OnGuilty_00
+Soldat Gaubert, tu as levé la main sur ceux que tu étais censé défendre. Il n'y a qu'un seul verdict possible : la mort.
+$GEN_050_OnGuilty_01
+Voila ce qui arrive aux voleurs.
+$GEN_050_OnGuilty_02
+Trouvez les deux autres, qu'on leur fasse sauter la tête !
+$GEN_050_OnNotGuilty_00
+Je ne peux pas punir nos soldats pour la simple raison que notre armée ne les nourrit pas. Je déclare le soldat Gaubert non coupable.
+$GEN_050_OnNotGuilty_01
+Il a tout avoué ! La guerre nous impose d'être plus stricts et non plus cléments.
+$GEN_050_OnNotGuilty_02
+Va donc dans les villages dire aux fermiers qu'ils pourront être détroussés par ces bandits en uniforme.
+$GEN_050_01x05_00_QTitle
+Vous étiez trois et pourtant, tu as été retrouvé avec trois des six oies volées. Comment cela se fait-il ?
+$GEN_050_01x05_00_00
+Vous étiez trois et pourtant, tu as été retrouvé avec trois des six oies volées. Comment cela se fait-il ?
+$GEN_050_01x05_00_01
+Les gars m'ont dit d'en rôtir trois sur place pendant qu'ils allaient cacher les autres oies. Mais ils ne sont jamais revenus.
+$GEN_050_01x05_00_02
+Il est écrit dans le dossier que tu as refusé de donner leurs noms.
+$GEN_050_01x05_00_03
+Je les connais pas. Ils étaient pas avec nous.
+$GEN_050_01x05_00_04
+Que veux-tu dire ?
+$GEN_050_01x05_00_05
+Ils font pas partie de notre unité. J'aurais bien aimé les dénoncer, mais ils sont tout bonnement... ordinaires. De mon âge, en uniforme... ceci dit, l'un d'eux a les oreilles décollées.
+$GEN_050_01x05_00_06
+Il va falloir examiner les oreilles des gens pour trouver les coupables ? Ha, quelle blague !
+$GEN_050_01x05_00_07
+Donne-nous au moins leurs prénoms. Autrement, j'aurai grand mal à croire que tu ne les protèges pas.
+$GEN_050_01x05_00_08
+Je crois que l'un d'eux a appelé l'autre Louis, mais j'en suis pas sûr.
+$GEN_050_03x06_01_QTitle
+As-tu menacé le fermier avec ton mousquet ?
+$GEN_050_03x06_01_00
+As-tu menacé le fermier avec ton mousquet ?
+$GEN_050_03x06_01_01
+C'était pas moi...
+$GEN_050_03x06_01_02
+Évidemment, c'est ce qu'ils disent tous.
+$GEN_050_03x06_01_03
+Je tuerais personne pour une oie, Monsieur le juge, même si j'avais une faim de loup.
+$GEN_050_03x06_01_04
+Tu as pourtant emporté ta baïonnette. Pour quelle raison ?
+$GEN_050_03x06_01_05
+C'était utile pour les volailles. J'aurais pu leur briser le cou à mains nues, c'est vrai, mais comment est-ce que j'aurais fait pour les découper ?
+$GEN_050_03x06_01_06
+Qu'aurais-tu fait si le fermier t'avait attaqué avec sa fourche ?
+$GEN_050_03x06_01_07
+Comment donc ?
+$GEN_050_03x06_01_08
+Te serais-tu défendu ?
+$GEN_050_03x06_01_09
+Bah, s'il avait cherché à me poindre…
+$GEN_050_03x06_01_10
+La faim leur a fait perdre la tête.
+$GEN_050_01x04_02_QTitle
+Quels avaient été les ordres donnés à ta troupe ?
+$GEN_050_01x04_02_00
+Quels avaient été les ordres donnés à ta troupe ?
+$GEN_050_01x04_02_01
+Il y a une route derrière la prison qui court au sud vers Étampes. Nous devions nous assurer que la cavalerie ennemie ne nous attaque pas par ce flanc.
+$GEN_050_01x04_02_02
+Combien étiez-vous ?
+$GEN_050_01x04_02_03
+Environ trois cents, je crois.
+$GEN_050_01x04_02_04
+Où cela se trouvait-il par rapport à la chapelle où tu as été arrêté ?
+$GEN_050_01x04_02_05
+Pourquoi ne pas lui demander comment s'appellent les vaches de ses parents tant qu'on y est ?
+$GEN_050_01x04_02_06
+La chapelle était dans une autre direction, à l'ouest.
+$GEN_050_01x04_02_07
+Pourquoi n'as-tu pas apporté les oies à ton camp ? Quitte à voler de la nourriture, tu aurais pu au moins la partager.
+$GEN_050_01x04_02_08
+Si j'avais fait ça, j'en aurais pas goûté la moindre bouchée. Les officiers manquent pas d'estomac.
+$GEN_050_02x03_03_QTitle
+Commençons par le commencement : qui a eu l'idée de sortir en armes pour chercher à manger ?
+$GEN_050_02x03_03_00
+Commençons par le commencement : qui a eu l'idée de sortir en armes pour chercher à manger ?
+$GEN_050_02x03_03_01
+Qu'est-ce que cela change ? Personne ne l'a forcé à le faire.
+$GEN_050_02x03_03_02
+Je lavais mes chausses avec les deux autres gars, et de fil en aiguille...
+$GEN_050_02x03_03_03
+De fil en aiguille ?
+$GEN_050_02x03_03_04
+On s'est dit qu'on était affamés, puis on s'est mis à réfléchir à comment faire pour manger.
+$GEN_050_02x03_03_05
+Et vous avez donc simplement décidé de voler ?
+$GEN_050_02x03_03_06
+J'aurais bien voulu payer, mais j'avais pas un sou en poche.
+$GEN_050_02x03_03_07
+Pourquoi prendre ton mousquet ?
+$GEN_050_02x03_03_08
+J'ai posé la même question, mais l'un des gars a répliqué qu'on pourrait chasser en chemin. Ça m'a fait rire, parce que bon, qu'est-ce qu'on aurait bien pu trouver ? Un chien ? Un gros rat, oui, au mieux.
+$GEN_050_02x03_03_09
+Ou un fermier. Ça a l'air de soldats, mais ce ne sont que des bandits !
+$GEN_050_KEY_01
+Trois soldats
+$GEN_050_KEY_02
+Six oies
+$GEN_050_KEY_03
+Mousquet
+$GEN_050_KEY_04
+Chapelle abandonnée
+$GEN_050_KEY_05
+Rôti
+$GEN_050_KEY_06
+Baïonnette
+$GEN_050_LastDialog_00
+Tout ça parce que j'avais faim. Allez-vous finir par nous donner à manger ? Si vous aviez été à ma place...
+$GEN_050_UNIQUE_QUESTION_00
+Comment le prévenu s'est-il justifié d'avoir une baïonnette ?
+$GEN_050_UNIQUE_ANSWER_CORRECT_00_00
+Pour éviscérer un oiseau.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Pour menacer un fermier.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Il en porte toujours une avec lui.
+$GEN_050_UNIQUE_QUESTION_01
+Quels avaient été les ordres donnés à la troupe de Gaubert ?
+$GEN_050_UNIQUE_ANSWER_CORRECT_01_00
+Ils surveillaient la route.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ils bâtissaient des fortifications.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ils se préparaient à prendre l'ennemi à revers.
+$GEN_050_UNIQUE_QUESTION_02
+Le soldat a-t-il donné les noms de ses complices ?
+$GEN_050_UNIQUE_ANSWER_CORRECT_02_00
+Un nom seulement.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Il a donné leurs noms.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Il a refusé de répondre.

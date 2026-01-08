@@ -1,0 +1,48 @@
+$DISC_INTR_003_B08_DANTON_001_JUDGE_AGGR
+We do not control the situation on the streets any more. The chaos can turn on anyone, and we cannot easily pacify the crowds.
+$DISC_INTR_003_B08_DANTON_002_JUDGE_MANI
+The situation is beyond our control. A girl was battered yesterday because people suspected that she was spying for the insurgents. Who knows who their next target will be – you, me…
+$DISC_INTR_003_B08_DANTON_003_JUDGE_JOKE
+As long as people were throwing rotten tomatoes at random targets the situation was acceptable, but now they are armed with wooden sticks.
+$DISC_INTR_003_B08_DANTON_004_JUDGE_HUMI
+I know that I promised to serve the people and defend liberty, but our Citizens are taking things too far.
+$DISC_INTR_003_B08_DANTON_005_DANTON_SATI
+The situation is troubling, I agree. People fear to go outside. I am glad that you want to deal with this situation, although I do not know your plan.
+$DISC_INTR_003_B08_DANTON_006_DANTON_INTR
+People in our positions show no interest in the crowds, only in troublesome individuals who stand in the way. I assume I will hear about them soon.
+$DISC_INTR_003_B08_DANTON_007_DANTON_DOUB
+I was always curious if you would benefit from the situation.
+$DISC_INTR_003_B08_DANTON_008_JUDGE_AGGR
+Gobel ruined everything! With a secret like that, he should have been doing everything to make sure it would never get out, and instead he acted like a child!
+$DISC_INTR_003_B08_DANTON_009_JUDGE_MANI
+If the rumours prove to be true, Gobel’s presence will make the situation even worse. Do we want people to think the authorities are corrupted? My reputation is at stake, as is yours and your friends’ from the Convention.
+$DISC_INTR_003_B08_DANTON_010_JUDGE_JOKE
+Gobel has got himself into hot water at the worst possible moment. Maybe the Pope has finally had his revenge? God has listened to his prayers and decided to punish the archbishop for being appointed constitutionally…
+$DISC_INTR_003_B08_DANTON_011_JUDGE_HUMI
+I do not want to make convictions in absentia, but it seems to me that the anger of the people has revealed some old secrets – like that of Archbishop Gobel. Maybe we should do something about it?
+$DISC_INTR_003_B08_DANTON_012_DANTON_SATI
+We should deal with Gobel before the Convention loses the ability to control his behaviour.
+$DISC_INTR_003_B08_DANTON_013_DANTON_INTR
+Gobel has really become an irritating splinter, but I understand his situation – the rich are always accused of more than they actually did.
+$DISC_INTR_003_B08_DANTON_014_DANTON_DOUB
+I still do not know what you will gain from it.
+$DISC_INTR_003_B08_DANTON_015_JUDGE_AGGR
+We cannot pay for the behaviour of one group. With all its lies and degeneration, the Church has worked hard for the anger of the people. Let us cut it off and live our lives in peace.
+$DISC_INTR_003_B08_DANTON_016_JUDGE_MANI
+The angry tiger should get some prey to rip apart, then he will not pay attention to anything else and we will be able to live in peace. Since the tiger wants to sink its teeth into the clergy…
+$DISC_INTR_003_B08_DANTON_017_JUDGE_JOKE
+We really do not have another choice. They want the clergy, so let us give it to them. If they are accusing the clergy of treason, then we should echo their words. Simple and efficient.
+$DISC_INTR_003_B08_DANTON_018_JUDGE_HUMI
+I am against hurting the Church. It hurts itself through the hands of degenerates who are cursed by our Citizens. We need to cut ties with that entire group. For the greater good.
+$DISC_INTR_003_B08_DANTON_019_DANTON_SATI
+I find your arguments convincing. The Church must pay for its blundering politics, and since it has decided to get involved…
+$DISC_INTR_003_B08_DANTON_020_DANTON_INTR
+I was never enthusiastic about radical solutions, as they always turn out to be too expensive. Today, however, I do not see any other way.
+$DISC_INTR_003_B08_DANTON_021_DANTON_DOUB
+I understand that you have your reasons, and I find it wise that you do not wish to reveal them. But your arguments do not convince me as I have too much to lose.
+$DISC_INTR_003_B08_DANTON_TOPIC_01
+The situation on the street is becoming difficult to control.
+$DISC_INTR_003_B08_DANTON_TOPIC_02
+The trouble with Gobel has only poured salt on the wound.
+$DISC_INTR_003_B08_DANTON_TOPIC_03
+We need to punish someone and set an example, and the people want to get to the clergy.

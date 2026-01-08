@@ -1,0 +1,12 @@
+$EVE_006_TITLE
+Nos Salões
+$EVE_006_MAIN_01
+Prezado AF,
+Em nome dos meus colegas artistas e em meu próprio, gostaria de convidá-lo para a noite de estreia de nossa mais recente peça, “XXX”. A apresentação ocorrerá em três dias. Seria uma honra entreter você e sua família. Caso deseje comparecer, por favor responda a este convite.
+Com estima, XYZ.
+$EVE_006_MAIN_01_C1
+Confirmar participação.
+$EVE_006_MAIN_02A
+A noite de estreia foi um sucesso — ao menos é o que sua intuição enferrujada lhe diz. Sua esposa estava radiante, mesmo sem ter experiência entre a elite parisiense, e seus filhos ficaram maravilhados com as roupas luxuosas dos outros convidados. Graças a esse convite, agora você faz parte da elite da capital. Havia alguns manifestantes do lado de fora, gritando sobre corrupção moral e a necessidade de estar mais próximo de Deus, mas eles não conseguiram estragar sua noite.
+$EVE_006_MAIN_02B
+A noite de estreia foi um sucesso. A maioria comenta como os artistas parisienses mais uma vez provaram ser superiores aos colegas de outros países europeus. O público estava repleto de figuras importantes, cujos nomes ficarão bem nas críticas. Em frente ao prédio, um pequeno grupo de manifestantes gritava sobre “corrupção moral” e “afastamento de Deus”, mas ninguém lhes deu atenção.

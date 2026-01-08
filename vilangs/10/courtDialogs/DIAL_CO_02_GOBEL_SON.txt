@@ -1,0 +1,24 @@
+$DIAL_CO_02_GOBEL_SON_001_GUARD
+Onu durdurmaya çalıştım ama o alçak direnmeye devam etti ve öyle bir bağıracaktı ki bütün mahkeme duyacaktı.
+$DIAL_CO_02_GOBEL_SON_002_JUDGE
+Endişelenmeyin, o genç adamı tanıyorum. Başpiskopos Gobel’in hayatını altüst eden oydu.
+$DIAL_CO_02_GOBEL_SON_003_BOUTIN
+Adım Boutin. Onun oğluyum.
+$DIAL_CO_02_GOBEL_SON_004_JUDGE
+Sanırım buraya neden geldiğinizi tahmin edebiliyorum. Ancak bilmelisiniz ki, Gobel artık bir başpiskopos değil ve şimdi dokunulmaz.
+$DIAL_CO_02_GOBEL_SON_005_BOUTIN
+Lütfen yardım edin! Elinizden ne gelirse.
+$DIAL_CO_02_GOBEL_SON_006_JUDGE
+Sağır mısın, evlat? Ne dediğimi duymadın mı? Gobel, Hébert’le ittifak kurduğundan beri dokunulmaz. Keşke daha önce bana gelseydin…
+$DIAL_CO_02_GOBEL_SON_007_BOUTIN
+Jacques-Louis David’e, Yurttaş Danton’a gittim…
+$DIAL_CO_02_GOBEL_SON_008_JUDGE
+Danton sana yardım etmeyecek, bundan eminim. Beni dinle, her şey bitti. Gobel başarılı bir siyasetçi olacak, bu yüzden anneni alıp Paris’ten uzaklara git ve her şeyi unut.
+$DIAL_CO_02_GOBEL_SON_009_BOUTIN
+Annem birkaç yıl önce, aşkına hasret, çaresizlik ve aşağılanma içinde öldü!
+$DIAL_CO_02_GOBEL_SON_010_JUDGE
+Kaybınız için gerçekten üzgünüm, ama elimden hiçbir şey gelmez. Dünya yeni başpiskopos-mürtedine hayran.
+$DIAL_CO_02_GOBEL_SON_011_BOUTIN
+Yani bana kimse yardım etmeyecek mi?
+$DIAL_CO_02_GOBEL_SON_012_JUDGE
+Hayır, üzgünüm. Bununla yaşamayı öğrenmelisiniz.

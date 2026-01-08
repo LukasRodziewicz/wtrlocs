@@ -1,0 +1,46 @@
+$EXECUTION_START_TIP
+Zieh am Seil, um die Hinrichtung auszuführen
+$SUMMON_GUARDS
+Die Wachen rufen
+$SKIP_SPEECH
+Rede überspringen
+$PEOPLE_ATTITUDE
+[Stimmung des einfachen Volkes]
+$PEOPLE_ATTITUDE_DESC
+Einstellung des einfachen Volkes: Was sie bedeutet und wie sie funktioniert.
+$PEOPLE_ATTITUDE_LV1
+Aggression
+$PEOPLE_ATTITUDE_LV2
+Missbilligung
+$PEOPLE_ATTITUDE_LV3
+Gleichgültigkeit
+$PEOPLE_ATTITUDE_LV4
+Gunst
+$PEOPLE_ATTITUDE_LV5
+Glück
+$GUILLOTINE_ATTACK_SUCCESS_DESC
+Die auf dem Richtplatz versammelte Menge war von deinen Worten alles andere als begeistert. Fäuste und Knüppel kamen zum Einsatz. Leider waren die Wachen zu weit entfernt und konnten nicht rechtzeitig eingreifen. Du musstest dich dem wütenden Mob allein stellen.
+$GUILLOTINE_ATTACK_FAILURE_DESC
+Die Menge, die sich auf dem Richtplatz versammelt hatte, war von euren Worten alles andere als begeistert. Sie wollten ihren Unmut mit ihren Fäusten an eurem Körper auslassen. Zum Glück waren die Wachen vorbereitet und brachten die Lage rasch unter Kontrolle. Euer Ansehen hat gelitten, doch ihr könnt die Hinrichtung fortsetzen.
+$GUILLOTINE_START_SPEECH
+Sprich zum einfachen Volk.
+$GUILLOTINE_SPEECH_START_LOW_JUSTICE
+Sie wirken misstrauisch …
+$GUILLOTINE_SPEECH_START_NEUTRAL_JUSTICE
+Vielleicht gelingt es mir, die Gunst der Menge zu gewinnen.
+$GUILLOTINE_SPEECH_START_HIGH_JUSTICE
+Ich habe sie fest im Griff, sie vertrauen mir.
+$GUILLOTINE_HEART_LOW_JUSTICE
+Sie vertrauen mir nicht.
+$GUILLOTINE_HEART_NEUTRAL_JUSTICE
+Misstrauen.
+$GUILLOTINE_HEART_HIGH_JUSTICE
+Sie vertrauen mir.
+$TIMERGUARD
+Wir haben das zu lange hinausgezögert. Das Volk ist aufgebracht!
+#GUILLOTINE_COMMENT_000
+Kopf ab!
+#GUILLOTINE_COMMENT_001
+Zieh am Seil!
+#GUILLOTINE_COMMENT_002
+Für die Revolution!

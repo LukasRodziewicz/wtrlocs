@@ -1,0 +1,18 @@
+$DIAL_CO_01_02_11_001_ROLAND
+Je m'appelle Jean-Marie Roland. Un nom qui doit vous être familier… Après tout, vous l'avez traîné dans la boue au cours du procès du roi Louis.
+$DIAL_CO_01_02_11_002_JUDGE
+Citoyen Capet, et non roi...
+$DIAL_CO_01_02_11_003_ROLAND
+Roi Louis-Auguste Bourbon, Duc de Berry. À cause de vos insinuations et spéculations, tout le monde veut ma tête. M'accuser de corruption et de trahison, moi ! Alors que vous, vous vous servez des autres comme d'un escalier pour monter dans la hiérarchie sociale.
+$DIAL_CO_01_02_11_004_JUDGE
+Corrompre des politiciens ne donne pas toujours les résultats escomptés. Cela réussit à Danton, Molleville a essayé, mais vous, vous avez été pris. Cela arrive.
+$DIAL_CO_01_02_11_005_ROLAND
+Je serai probablement déchu de mon poste et finirai peut-être même à la guillotine. Mais je ferai tout pour que votre tête roule après la mienne ! Nous serons frères dans notre misère !
+$DIAL_CO_01_02_11_006_JUDGE
+Menacer un juge du Tribunal est une idée encore pire que soutenir un roi méprisé ou corrompre des membres de la Convention.
+$DIAL_CO_01_02_11_007_ROLAND
+Je vais évincer votre candidat à la capitainerie de la Garde. Puis je m'attaquerai à vous.
+$DIAL_CO_01_02_11_008_ROLAND
+Cela nous a pris trop de temps, à moi et à mon épouse, pour arriver où nous en sommes ! Je ne me laisserai pas tuer par une vermine avinée qui se plaît à s'appeler juge !
+$DIAL_CO_01_02_11_009_ROLAND
+Vous verrez comment la guerre se mène dans les salons parisiens, petit bâtard sournois !

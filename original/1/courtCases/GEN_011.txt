@@ -1,0 +1,262 @@
+$GEN_011_DOC_01_HEADER
+Compiled by: Pierre Daquin
+$GEN_011_DOC_01_00
+The Marquis de Favras is a 46-year-old aristocrat, <a name="1" class="hidden">former soldier</a>, and currently a political activist <a name="2" class="hidden">sympathising with the monarchy</a>. After he left the army, he married and started travelling across Europe with his <a name="3" class="hidden">wife</a>. During that journey, he both fulfilled himself politically, and <a name="4" class="hidden">supported</a> his wife. He returned to Paris in 1789 and took part in <a name="6" class="hidden">a conspiracy</a> that was supposed to put an end to the Revolution. De Favras showed poor judgement when he decided to confide in his former comrades, who betrayed him and informed the authorities of the plan.
+$GEN_011_DOC_01_01
+De Favras is suspected of playing a huge part in Citizen Capet’s escape from France. The plotters asked him to take out a loan of <a name="7" class="hidden">2 million francs</a>, which would have covered all the expenses of Citizen Capet and his family on their way out of France.
+$GEN_011_DOC_01_02
+If everything had gone according to plan, 30,000 soldiers would have entered the capital city with orders to kill three political leaders: Finance Minister Jacques Necker, the Mayor of Paris Jean Sylvain Bailly, and Commander-in-Chief of the Parisian National Guard, François Hanriot. The next step was to block food supplies from entering the city.
+$GEN_011_DOC_01_03
+De Favras and his wife have been detained and accused of plotting against the people of France and the Revolution, and will likely be sentenced to the guillotine. The Count of Provence has denied having any connections with them.
+$GEN_011_DOC_01_04
+Evidence: <a name="10" class="hidden">A letter</a> from M. de Foucault.
+$GEN_011_DOC_02_TOOLTIP
+A letter from M. de Foucault
+$GEN_011_DOC_02_00
+De Favras, where are your troops? From what direction will they enter Paris? I should like to be employed among them.
+$GEN_011_DOC_2_SUBHEADER
+<a name="10" class="hidden">A letter</a> from M. de Foucault,
+$GEN_011_DOC_2_MAIN
+De Favras, where are your troops? From what direction will they enter Paris? I should like to be employed among them.
+$GEN_011_OnStart_00
+Please introduce yourself.
+$GEN_011_OnStart_01
+I am Thomas de Mahy, Marquis de Favras.
+$GEN_011_OnStart_02
+Marquis de Favras, you have been accused of taking an active part in a plot against the people of France.
+$GEN_011_OnStart_03
+I fail to understand how any of the deeds I am accused of would harm the people of France.
+$GEN_011_OnStart_04
+You wanted to re-establish the fallen monarchy that brought us exploitation, hunger, and misery.
+$GEN_011_OnStart_05
+That's right!
+$GEN_011_OnStart_06
+We have strong evidence, testimonies of your officers, clearly showing that you wanted to abolish the Revolution.
+$GEN_011_OnStart_07
+Please, tell me everything about that strong evidence you have against me.
+$GEN_011_OnStart_08
+How brazen!
+$GEN_011_OnGuilty_00
+Thomas de Mahy, Marquis de Favras, you are sentenced to death! Lead the condemned out.
+$GEN_011_OnGuilty_01
+One head at a time.
+$GEN_011_OnGuilty_02
+A just verdict!
+$GEN_011_OnGuilty_03
+That’s what happens to enemies of the Revolution!
+$GEN_011_OnPrison_00
+I sentence Thomas de Mahy, Marquis de Favras, to prison! Take him away.
+$GEN_011_OnPrison_01
+No, no, no! Enemies of the Revolution should be beheaded!
+$GEN_011_OnPrison_02
+The Judge has lost his mind!
+$GEN_011_OnNotGuilty_00
+The judgement for Thomas de Mahy, Marquis de Favras is… not guilty! Take the defendant away.
+$GEN_011_OnNotGuilty_01
+No, no, no! Enemies of the Revolution should be beheaded!
+$GEN_011_OnNotGuilty_02
+The Judge is an enemy of the Revolution!
+$GEN_011_OnNotGuilty_03
+We won’t forget this!
+$GEN_011_06x07_00_QTitle
+Why did you want to withdraw 2 million francs? This is an enormous amount of money.
+$GEN_011_06x07_00_00
+Why did you want to withdraw 2 million francs? This is an enormous amount of money.
+$GEN_011_06x07_00_01
+I withdrew it at the request of my superior, the Count of Provence. As for its intended purpose, I would not dare to ask.
+$GEN_011_06x07_00_02
+How can you borrow so much money for another person and not even question its purpose?
+$GEN_011_06x07_00_03
+An obvious lie. That information would be required to get such a loan!
+$GEN_011_06x07_00_04
+We aristocrats treat each other with respect and discretion. You would not understand.
+$GEN_011_06x07_00_05
+Mockery!
+$GEN_011_06x07_00_06
+Two of your officers testified that the money would be used to aid Citizen Capet and his family in their escape from France. Why did you tell them that?
+$GEN_011_06x07_00_07
+You should ask what the reason for their testimony is. I agree, there is a plot. But one against me, and not the Revolution.
+$GEN_011_06x07_00_08
+That traitor is trying to talk his way out of it!
+$GEN_011_02x09_01_QTitle
+What is your relationship with the Count of Provence, the brother of Citizen Capet…?
+$GEN_011_02x09_01_00
+What is your relationship with the Count of Provence, the brother of Citizen Capet, Louis Stanislas Xavier de Bourbon?
+$GEN_011_02x09_01_01
+I was a lieutenant in the Swiss Guard in the Count’s service.
+$GEN_011_02x09_01_02
+So the Count trusts you?
+$GEN_011_02x09_01_03
+At the risk of sounding immodest, I deserve to be trusted and respected.
+$GEN_011_02x09_01_04
+The people of France would likely not confirm your words, since you were plotting against them.
+$GEN_011_02x09_01_05
+Those are just your presumptions.
+$GEN_011_02x09_01_06
+They’re enough to behead you, worm!
+$GEN_011_02x09_01_07
+Calm down!
+$GEN_011_08x10_02_QTitle
+Who is the mysterious M. de Foucault who wrote you the letter…?
+$GEN_011_08x10_02_00
+Who is the mysterious M. de Foucault who wrote you the letter concerning your troops?
+$GEN_011_08x10_02_01
+I do not know that person. Anyone could write a letter to me, and make up the contents regarding any matter they saw fit.
+$GEN_011_08x10_02_02
+Did that random letter from an unknown person not concern you?
+$GEN_011_08x10_02_03
+It is gibberish.
+$GEN_011_08x10_02_04
+An honest Citizen would have shown it to the authorities.
+$GEN_011_08x10_02_05
+It never occurred to me. I do not have the slightest inkling what that person was writing about.
+$GEN_011_08x10_02_06
+Not about the troops that were supposed to enter Paris and end the Revolution after the successful rescue of Citizen Capet?
+$GEN_011_08x10_02_07
+There are no troops currently under my command. That letter, and the accusation of me sending troops to Paris, are both serious misunderstandings.
+$GEN_011_08x10_02_08
+Who else then? He’s a dog on the Bourbons’ leash!
+$GEN_011_08x10_02_09
+Tell me, would 2 million francs be enough to hire 30,000 foot soldiers?
+$GEN_011_08x10_02_10
+It would be more than enough.
+$GEN_011_01x02_03_QTitle
+What do you think about the Revolution?
+$GEN_011_01x02_03_00
+What do you think about the Revolution?
+$GEN_011_01x02_03_01
+Everyone knows that the state desperately needed reforms, but the violence? An unexpected and brutal assault on the Royal Family should be called revenge, not a revolution.
+$GEN_011_01x02_03_02
+So you are against the Revolution, yes?
+$GEN_011_01x02_03_03
+I am merely disappointed by its course. As a former soldier, I can tell you that violence and war will always result in more hatred and more violence.
+$GEN_011_01x02_03_04
+Yet you were still preparing to forcefully capture the city?
+$GEN_011_01x02_03_05
+That has not been proven.
+$GEN_011_01x02_03_06
+If they hadn’t caught him, the streets of Paris would be covered in blood!
+$GEN_011_01x02_03_07
+Nonsense! What are you people talking about?
+$GEN_011_01x02_03_08
+Calm down! Marquis de Favras, your attitude towards the Revolution makes you a traitor to the state in the eyes of the people.
+$GEN_011_01x02_03_09
+I am saddened to hear that a few words of hard truth are enough to call someone a traitor and sentence him to death.
+$GEN_011_03x05_04_QTitle
+What countries did you and your wife visit during your trip across Europe?
+$GEN_011_03x05_04_00
+What countries did you and your wife visit during your trip across Europe?
+$GEN_011_03x05_04_01
+Poland, or what was left of it, Austria, Hungary…
+$GEN_011_03x05_04_02
+What made you choose those countries? Were you trying to make Catholic alliances for Citizen Capet?
+$GEN_011_03x05_04_03
+We were looking for charming sceneries and good food.
+$GEN_011_03x05_04_04
+Who did you meet during your missions?
+$GEN_011_03x05_04_05
+What missions? We had conversations with hundreds of people, and I will not list all of them here.
+$GEN_011_03x05_04_06
+Of course not, he’s no snitch.
+$GEN_011_03x04_05_QTitle
+What is your wife’s profession?
+$GEN_011_03x04_05_00
+What is your wife’s profession?
+$GEN_011_03x04_05_01
+She is not doing anything in particular at the moment. Back in Austria, her home, she had attempted to involve herself in politics.
+$GEN_011_03x04_05_02
+With what results?
+$GEN_011_03x04_05_03
+Mediocre, obviously, since we decided to return to France.
+$GEN_011_03x04_05_04
+There is nothing obvious about that. You could have been successful and returned as spies for an enemy state.
+$GEN_011_03x04_05_05
+You may interpret it however you wish, especially if you enjoy bedtime stories.
+$GEN_011_01x03_06_QTitle
+Why did you end your military career?
+$GEN_011_01x03_06_00
+Why did you end your military career?
+$GEN_011_01x03_06_01
+I married. That was the only reason.
+$GEN_011_01x03_06_02
+Many military men have wives and it does not seem to be a problem for them.
+$GEN_011_01x03_06_03
+My wife was scared for my life, and she convinced me that I had already done enough for my country.
+$GEN_011_01x03_06_04
+Yeah, serving Capet and his cronies.
+$GEN_011_06x09_07_QTitle
+Call in the witness, Louis de Bourbon.
+$GEN_011_06x09_07_00
+Call in the witness, Louis de Bourbon.
+$GEN_011_06x09_07_02
+Please introduce yourself.
+$GEN_011_06x09_07_03
+My name is Louis Stanislas Xavier de Bourbon. I am the Count of Provence and brother to Louis Capet.
+$GEN_011_06x09_07_04
+There you have it, the traitor’s brother!
+$GEN_011_WIT_00_A_QTitle
+Describe your relationship with your brother prior to his death.
+$GEN_011_WIT_00_A_00
+Describe your relationship with your brother prior to his death.
+$GEN_011_WIT_00_A_01
+When it came to current events in France we did not agree, so our relationship had become distant.
+$GEN_011_WIT_00_A_02
+Are you saying that you had different views on the Revolution?
+$GEN_011_WIT_00_A_03
+Yes, I think the Revolution was necessary.
+$GEN_011_WIT_00_A_04
+Why did you not intervene when your brother’s life was in danger?
+$GEN_011_WIT_00_A_05
+I tried to convince him to step down and accept the Revolution. He was too stubborn to listen and paid the price.
+$GEN_011_WIT_00_B_QTitle
+What do you know about the plot involving the Marquis de Favras?
+$GEN_011_WIT_00_B_00
+What do you know about the plot involving the Marquis de Favras?
+$GEN_011_WIT_00_B_01
+The bankers Schaumel and Sartorius informed me that the Marquis was negotiating a loan of 2 million francs.
+$GEN_011_WIT_00_B_02
+Did they tell you the reason behind this loan?
+$GEN_011_WIT_00_B_03
+They did not, and I did not ask. I am not one to pry.
+$GEN_011_WIT_00_B_04
+Were you somehow involved?
+$GEN_011_WIT_00_B_05
+I learned about the loan only because Schaumel and Sartorius are my close friends. Allow me to repeat what I have already told the Paris Commune: I was not involved in the Marquis de Favras's plot. If you find him guilty, then he should be sentenced to prevent him from harming the Revolution that I wholeheartedly agree with.
+$GEN_011_KEY_01
+Former soldier
+$GEN_011_KEY_02
+Sympathy towards the monarchs
+$GEN_011_KEY_03
+The defendant’s wife
+$GEN_011_KEY_04
+Supporting his wife
+$GEN_011_KEY_05
+Return to Paris
+$GEN_011_KEY_06
+Conspiracy
+$GEN_011_KEY_07
+Loan
+$GEN_011_KEY_08
+Mercenaries
+$GEN_011_KEY_09
+The count of Provence
+$GEN_011_KEY_10
+Letter
+$GEN_011_LastDialog_00
+Long live the King and the Monarchy!
+$GEN_011_UNIQUE_QUESTION_01
+What do the defendant think about the Revolution?
+$GEN_011_UNIQUE_ANSWER_CORRECT_01_00
+He sympathises with the movement but not with its methods.
+$GEN_011_UNIQUE_ANSWER_NOT_CORRECT_01_00
+He does not support it.
+$GEN_011_UNIQUE_ANSWER_NOT_CORRECT_01_01
+He wholeheartedly supports it.
+$GEN_011_UNIQUE_QUESTION_02
+What were the 2 million francs spent on?
+$GEN_011_UNIQUE_ANSWER_CORRECT_02_00
+On the expenses of Citizen Capet during his escape.
+$GEN_011_UNIQUE_ANSWER_NOT_CORRECT_02_00
+It bought the benevolence of the King of Spain.
+$GEN_011_UNIQUE_ANSWER_NOT_CORRECT_02_01
+It bought the support of the Duke of York.

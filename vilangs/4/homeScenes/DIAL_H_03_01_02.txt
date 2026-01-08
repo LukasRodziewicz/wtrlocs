@@ -1,0 +1,30 @@
+$DIAL_H_03_01_02_001_DESTEAL
+Ich verspreche, mich kurz zu fassen. Mein Fall ist ziemlich eindeutig.
+$DIAL_H_03_01_02_002_JUDGE
+Natürlich. Schlimmer kann es ja ohnehin nicht mehr werden.
+$DIAL_H_03_01_02_003_DESTEAL
+Veränderungen. Sie mögen sie nicht, besonders wenn Sie wissen, dass sie bald eintreten werden.
+$DIAL_H_03_01_02_004_JUDGE
+Was für Veränderungen?
+$DIAL_H_03_01_02_005_DESTEAL
+Natürlich von der Befreiung der Frauen.
+$DIAL_H_03_01_02_006_JUDGE
+Ich verstehe nicht. Von wem wollt ihr euch befreien?
+$DIAL_H_03_01_02_007_DESTEAL
+Von euch! Von Männern, die beschlossen haben, über das Land zu herrschen und unser Schicksal zu bestimmen. Die Erklärung der Rechte der Frau spricht es klar aus...
+$DIAL_H_03_01_02_008_JUDGE
+Natürlich, Ihre berühmte Erklärung. Ihr Vermächtnis.
+$DIAL_H_03_01_02_009_DESTEAL
+Ich habe zu diesem Dokument nur einige Anregungen gegeben, denn meine eigentliche Aufgabe ist es, die Frauen zu ihrem verdienten Triumph zu führen.
+$DIAL_H_03_01_02_010_JUDGE
+Über die Leichen von Männern, nehme ich an?
+$DIAL_H_03_01_02_011_DESTEAL
+Das muss nicht so sein. Die Erklärung muss in ihrer jetzigen Form angenommen werden. Wir lehnen Verhandlungen ab und werden keinerlei Zugeständnisse machen. Wenn Sie sich widersetzen, werden wir protestieren, und Sie werden erfahren, was es heißt, ohne unsere Unterstützung zu kämpfen.
+$DIAL_H_03_01_02_012_JUDGE
+Die Menschen davon zu überzeugen, solch einen tiefgreifenden Wandel zu akzeptieren, gerade jetzt…
+$DIAL_H_03_01_02_013_DESTEAL
+Seit ich das erste Mal von Ihnen hörte, haben Sie nichts getan als zu manipulieren und zu intrigieren. Ich bin sicher, Sie werden es schaffen. Denken Sie daran: Ohne uns werden Sie untergehen, doch mit uns haben Sie vielleicht eine Chance. Das ist alles, was wir wollen – Gleichheit!
+$DIAL_H_03_01_02_014_JUDGE
+Ich fürchte, Sie überschätzen die Macht der Frauen, Madame. Noch habe ich keine von Ihnen auf dem Schlachtfeld gesehen, obwohl der Kampf doch angeblich gleich sein soll.
+$DIAL_H_03_01_02_015_DESTEAL
+Viel wichtiger ist, ob Sie bereit sind, sich unserem Aufstand zu stellen. Sie wissen, was wir wollen. Wir geben Ihnen Zeit, darüber nachzudenken… Lebwohl, Bürger.

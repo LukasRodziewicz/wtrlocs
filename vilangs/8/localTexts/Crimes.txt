@@ -1,0 +1,58 @@
+#CRIME_001_NAME
+Incitação da Multidão
+#CRIME_002_NAME
+Contrarrevolução
+#CRIME_003_NAME
+Defesa da Monarquia
+#CRIME_004_NAME
+Traição
+#CRIME_005_NAME
+Negligência no Dever
+#CRIME_006_NAME
+Nepotismo
+#CRIME_007_NAME
+Corrupção
+#CRIME_008_NAME
+Furto
+#CRIME_009_NAME
+Arrombamento
+#CRIME_010_NAME
+Destruição de propriedade
+#CRIME_011_NAME
+Lenocínio
+#CRIME_012_NAME
+Agressão
+#CRIME_013_NAME
+Mutilação
+#CRIME_014_NAME
+Tentativa de assassinato
+#CRIME_015_NAME
+Assassinato
+#CRIME_016_NAME
+Tortura
+#CRIME_017_NAME
+Profanação de cadáver
+#CRIME_018_NAME
+Pedofilia
+#CRIME_019_NAME
+Estupro
+#CRIME_020_NAME
+Calúnia
+#CRIME_021_NAME
+Fraude
+#CRIME_022_NAME
+Especulação de Preços
+#CRIME_023_NAME
+Fraude Financeira
+#CRIME_024_NAME
+Suborno
+#CRIME_025_NAME
+Adultério
+#CRIME_026_NAME
+Deserção
+#CRIME_027_NAME
+Feitiçaria
+#CRIME_028_NAME
+Dirigir Embriagado
+#CRIME_029_NAME
+Ameaça à segurança viária

@@ -1,0 +1,10 @@
+$DIAL_CO_02_01_05_DRIVER_001
+Guten Tag, Bürger. Ich bin hier, um Sie zum Ball zu bringen.
+$DIAL_CO_02_01_05_JUDGE_002
+Warum sind Sie sich so sicher, dass ich überhaupt gehen will?
+$DIAL_CO_02_01_05_DRIVER_003
+Sollten Sie sich widersetzen, ließ Bürger Renard ausrichten, dass er während der Veranstaltung den Namen der Person enthüllen wird, die Ihr Kind ermordet hat.
+$DIAL_CO_02_01_05_JUDGE_004
+Was?! Ich weiß ganz genau, wer das getan hat!
+$DIAL_CO_02_01_05_DRIVER_005
+Ich bezweifle das ernsthaft. Die Kutsche wartet auf Sie, Bürger. Sie haben wirklich nichts zu verlieren. Bitte, folgen Sie mir.

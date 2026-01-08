@@ -1,0 +1,8 @@
+$EVE_034_V1_AGENTS_DISAPPEAR_TITLE
+Départ du garde
+$EVE_034_V1_AGENTS_DISAPPEAR_MAIN_01
+Vous trouvez accroché un uniforme de grande taille. Il ne sied qu'à un seul de vos hommes : Raphaël Clovis, votre garde favori. Dans l'une des poches, vous trouvez une brève lettre, dont se dégagent particulièrement les mots suivants : « Je quitte le service », « je ne peux plus continuer », « trop de sang sur les mains ». Les rats quittent le navire.
+$EVE_034_V1_AGENTS_LEAVE_TITLE
+Départ du garde
+$EVE_034_V1_AGENTS_LEAVE_MAIN_01
+Vous trouvez accroché un uniforme de grande taille. Il ne sied qu'à un seul de vos hommes : Raphaël Clovis, votre garde favori. Dans l'une des poches internes, vous trouvez une lettre qui montre le parti qu'a pris Clovis : celui de votre frère. Il vous combattra pour se sauver. Ou peut-être en a-t-il eu assez de vous ? Pour en avoir le cœur net, vous devez le retrouver. Le pire dans tout cela est qu'il connaît vos points faibles…

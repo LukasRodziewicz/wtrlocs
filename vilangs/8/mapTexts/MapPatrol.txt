@@ -1,0 +1,62 @@
+$MAP_PATROL_001_JUDGE_AGGR
+Agora ISSO é ultrapassar todos os limites! Vocês foram longe demais, cidadãos! Esse “mal-entendido” vai custar suas cabeças!
+$MAP_PATROL_002_JUDGE_MANI
+Você prendeu o homem errado. Ainda bem que não o machucaram... As consequências seriam graves. Que mal-entendido...
+$MAP_PATROL_003_JUDGE_JOKE
+Ainda bem que foi você, e não algum desses ambiciosos da Guarda querendo subir na carreira. Vamos resolver esse mal-entendido o quanto antes.
+$MAP_PATROL_004_JUDGE_HUMI
+Meus bons cidadãos, teremos que libertar este homem. Um terrível engano ocorreu — até mesmo a Revolução não é sempre infalível.
+$MAP_PATROL_005_PATROL_INTR
+E por que isso?
+$MAP_PATROL_006_PATROL_DOUB
+Que piada. Estou ficando surdo? Prender um espião agora é só um “mal-entendido”?
+$MAP_PATROL_007_PATROL_IRRI
+Vai varrer toda essa história para debaixo do tapete, não é, monsieur le juge?
+$MAP_PATROL_008_JUDGE_AGGR
+Você capturou um associado do Tribunal Revolucionário!
+$MAP_PATROL_009_JUDGE_MANI
+Você capturou um agente secreto do Tribunal Revolucionário.
+$MAP_PATROL_010_JUDGE_JOKE
+Absurdo! O seu prisioneiro trabalha para mim.
+$MAP_PATROL_011_JUDGE_HUMI
+É um dos meus assistentes. Perdoem-me, senhores, por não tê-los informado antes.
+$MAP_PATROL_016_JUDGE_AGGR
+Suas ações beiram a traição! Pense duas vezes antes de se opor a mim.
+$MAP_PATROL_017_JUDGE_MANI
+Vocês estão prejudicando a Revolução e a si mesmos! Posso mandar prendê-los por traição.
+$MAP_PATROL_018_JUDGE_JOKE
+Hoje em dia, não é difícil perder a cabeça por traição. E manter meu agente sob custódia certamente pode lhe ajudar com isso.
+$MAP_PATROL_019_JUDGE_HUMI
+Se não o libertar, serei obrigado a acusá-lo de traição. Não leve para o lado pessoal, mas preciso proteger a República.
+$MAP_PATROL_020_JUDGE_AGGR
+Ocupem-se em encontrar verdadeiros traidores... e tomem muito cuidado para não incomodar mais nenhum dos meus agentes. Caso contrário, teremos que repetir nossa conversa — e da próxima vez não será tão amigável!
+$MAP_PATROL_021_JUDGE_MANI
+Há verdadeiros traidores entre nós. Encontre-os e não se deixe abater por fracassos como este. Mas, em suas próximas investidas, procure não perseguir meus agentes.
+$MAP_PATROL_022_JUDGE_JOKE
+Todos cometem erros. Não se preocupe. Talvez da próxima vez você tenha mais sorte em sua investigação.
+$MAP_PATROL_023_JUDGE_HUMI
+Você realiza um trabalho importante para a República. Este erro não muda isso. Conte com meu apoio em suas ações, e seria bom que se lembrasse disso.
+$MAP_PATROL_024_PATROL_SATI
+E pensar que quase linchamos um dos nossos! Ainda bem que você apareceu, já estávamos afiando uma lança para a cabeça dele. É bom ter você do nosso lado. Vá com saúde!
+$MAP_PATROL_025_PATROL_INTR
+Talvez ele seja um dos seus, não sei, mas pelo visto se perdeu pela cidade. Nós o encontramos e vamos devolvê-lo de bom grado, mas não recusaríamos algum tipo de... recompensa pela descoberta.
+$MAP_PATROL_026_PATROL_DOUB
+Tenho a impressão de que você não está nos contando tudo. Não sei que tipo de negócio vocês dois têm, mas isso tudo parece muito suspeito. Você não me convenceu.
+$MAP_PATROL_027_PATROL_IRRI
+Você acha que somos idiotas? Então por que está tentando nos enganar com essas mentiras?! Espere só, vamos descobrir quem é esse sujeito e acusar você de traição!
+$MAP_PATROL_BRIBE_00
+Espero que esta bolsa acalme o seu fervor revolucionário.
+$MAP_PATROL_BRIBE_01
+Vamos ver se é isso mesmo. Agora sumam daqui e levem seu amiguinho junto.
+$MAP_PATROL_TOPIC_01
+Prender este homem foi apenas um mal-entendido.
+$MAP_PATROL_TOPIC_02
+O homem que você prendeu trabalha para mim.
+$MAP_PATROL_TOPIC_04
+Prendê-lo é um crime contra a Revolução!
+$MAP_PATROL_TOPIC_05
+Você deveria procurar por criminosos de verdade.
+$MAP_PATROL_RESULT_SUCCESS
+Libertando um agente: {0}
+$MAP_PATROL_RESULT_FAILD
+Você não conseguiu libertar o agente: {0}

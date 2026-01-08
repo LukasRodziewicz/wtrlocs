@@ -1,0 +1,196 @@
+$GEN_008_DOC_01_HEADER
+Compilado por: André Modeste
+$GEN_008_DOC_01_00
+Bruno Hugo, 26 anos, é cocheiro a serviço do rico e influente aristocrata Jean-Claude de Jacquemard. Durante uma discussão, foi visto empurrando seu patrão escada abaixo, o que resultou na morte do aristocrata. É relevante para o caso que, devido à sua origem e baixa inteligência, Bruno Hugo é conhecido na comunidade local como <a name="2" class="hidden">“idiota da aldeia”</a>.
+$GEN_008_DOC_01_01
+As testemunhas relataram que Jacquemard <a name="3" class="hidden">voltou de um passeio a cavalo</a> insatisfeito com a forma como Bruno havia preparado seu cavalo. Ao que parece, a sela estava tão <a name="4" class="hidden">frouxa</a> que o cidadão de Jacquemard quase caiu do animal.
+$GEN_008_DOC_01_02
+A vítima chamou Bruno para repreendê-lo e começou <a name="5" class="hidden">a insultar e agredir fisicamente o rapaz dos estábulos</a>, quando, num impulso, Bruno empurrou o patrão. Como resultado, o cidadão de Jacquemard caiu ao pé da escada <a name="7" class="hidden">com o pescoço torcido</a>. O incidente ocorreu diante de outros empregados. Bruno Hugo fugiu para o estábulo, onde foi encontrado depois, pálido de medo e sussurrando algo para um dos cavalos.
+$GEN_008_OnStart_00
+Este é um caso simples. O réu é culpado de assassinato, e o único problema é que as pessoas sentem pena dele.
+$GEN_008_OnStart_01
+Qual é o seu nome?
+$GEN_008_OnStart_02
+Bruno Hugo... Eu sou Bruno Hugo.
+$GEN_008_OnStart_03
+Você trabalhou para o cidadão Jean-Claude de Jacquemard?
+$GEN_008_OnStart_04
+Sim, trabalhei lá por alguns anos... vários, na verdade.
+$GEN_008_OnStart_05
+Deixem ele em paz, é só um garoto grande.
+$GEN_008_OnStart_06
+Você admite o assassinato? Sim ou não?
+$GEN_008_OnStart_07
+Mas eu...
+$GEN_008_OnStart_08
+Coitadinho, está tremendo inteiro.
+$GEN_008_OnGuilty_00
+Condeno o cidadão Hugo à guilhotina.
+$GEN_008_OnGuilty_01
+Pobre tolo…
+$GEN_008_OnGuilty_02
+Ele nem sequer sabia o que tinha acontecido.
+$GEN_008_OnGuilty_03
+Bem, ao menos ele não vai matar mais ninguém.
+$GEN_008_OnPrison_00
+Condeno o cidadão Bruno Hugo à prisão por causar o acidente que resultou na morte do cidadão Jean-Claude de Jacquemard.
+$GEN_008_OnPrison_01
+Para esse homem, a prisão é como a morte!
+$GEN_008_OnPrison_02
+Você foi brando demais, ele te enganou.
+$GEN_008_OnNotGuilty_00
+Declaro Bruno Hugo inocente dos crimes mencionados, pois ele não tinha consciência do que fazia.
+$GEN_008_OnNotGuilty_01
+Que diferença faz? Um crime é um crime!
+$GEN_008_OnNotGuilty_02
+É preciso ter cautela com tipos assim — o patrão dele já devia saber disso.
+$GEN_008_01x02_00_QTitle
+Você sabe como os locais se referem a você?
+$GEN_008_01x02_00_00
+Você sabe como os locais se referem a você?
+$GEN_008_01x02_00_01
+Bruno não sabe. Não sabe.
+$GEN_008_01x02_00_02
+“Idiota da aldeia.” Gostaria de comentar sobre isso?
+$GEN_008_01x02_00_03
+Bruno não gosta desse nome... não.
+$GEN_008_01x02_00_04
+Costumam te chamar assim com frequência?
+$GEN_008_01x02_00_05
+O tribunal está zombando dele!
+$GEN_008_01x02_00_06
+Não gosto e pronto. Já tenho um nome que minha mãe me deu. Foi ela quem me deu um nome.
+$GEN_008_01x02_00_07
+Foi por causa desse apelido que você empurrou o cidadão de Jacquard escada abaixo?
+$GEN_008_01x02_00_08
+O patrão estava gritando e eu não gosto quando ele grita. Eu não gosto disso.
+$GEN_008_01x04_01_QTitle
+Como cavalariço, você era responsável por preparar os cavalos para a vítima?
+$GEN_008_01x04_01_00
+Como cavalariço, você era responsável por preparar os cavalos para a vítima?
+$GEN_008_01x04_01_01
+Sim. Eu escovei e alimentei eles. Cavalos comem muita grama... Eu escovei eles de novo.
+$GEN_008_01x04_01_02
+A sela estava frouxa?
+$GEN_008_01x04_01_03
+…
+$GEN_008_01x04_01_04
+Cidadão?
+$GEN_008_01x04_01_05
+Não, impossível. Eu apertei as correias. Não pode puxar demais, senão aperta e machuca a barriga do cavalo. Cavalos são bons, melhores que as pessoas, eles...
+$GEN_008_01x04_01_06
+Você queria que seu patrão caísse do cavalo? Afrouxou de propósito a cilha para se vingar do seu empregador?
+$GEN_008_01x04_01_07
+Jamais! Eu gostava do nosso patrão, nunca faria mal a ele. Eu gostava dele.
+$GEN_008_01x04_01_08
+Dá pra ver que ele tem um coração bondoso.
+$GEN_008_01x05_02_QTitle
+Como o cidadão de Jacquemard tratou você?
+$GEN_008_01x05_02_00
+Como o cidadão de Jacquemard tratou você?
+$GEN_008_01x05_02_01
+Ele me tratava bem... Às vezes gritava, mas me alimentava e era gentil com os cavalos. Gentil.
+$GEN_008_01x05_02_02
+Com que frequência ele gritava?
+$GEN_008_01x05_02_03
+Às vezes ele gritava... Às vezes, não.
+$GEN_008_01x05_02_04
+Canalha aristocrata!
+$GEN_008_01x05_02_05
+Foi por isso que você decidiu matá-lo?
+$GEN_008_01x05_02_06
+…
+$GEN_008_01x05_02_07
+Primeiro foi atormentado pelo nobre, agora é a Revolução que o tortura.
+$GEN_008_03x05_03_QTitle
+Por favor, chame Colin Boufue.
+$GEN_008_03x05_03_00
+Por favor, chame Colin Boufue.
+$GEN_008_03x05_03_01
+Por favor, apresente-se e informe suas funções.
+$GEN_008_03x05_03_02
+Meu nome é Colin Boufue, sou o mordomo-chefe na residência da família de Jacquemard. Vi exatamente o que aconteceu.
+$GEN_008_05x06_04_QTitle
+Você tem consciência de que matou um homem? Você entende isso?
+$GEN_008_05x06_04_00
+Você tem consciência de que matou um homem? Você entende isso?
+$GEN_008_05x06_04_01
+Eu sei... Só balancei o braço porque ele gritava assim comigo. Tão alto.
+$GEN_008_05x06_04_02
+Você tinha consciência de que poderia machucá-lo?
+$GEN_008_05x06_04_03
+Eu imaginei que não. Não imaginei.
+$GEN_008_05x06_04_04
+Você bateu com tanta força que ele caiu?
+$GEN_008_05x06_04_05
+Fiquei tão assustado que não me lembro. Fechei os olhos, senhor, e quando abri de novo, ele já estava lá, caído... No andar de baixo.
+$GEN_008_06x07_05_QTitle
+Você se declara culpado?
+$GEN_008_06x07_05_00
+Você se declara culpado?
+$GEN_008_06x07_05_01
+Eu não sei o que fiz de errado. Eu não entendo. Essas pessoas queriam que eu viesse, então eu vim... Eu não quis fazer mal a ninguém... Nenhum mal.
+$GEN_008_06x07_05_02
+Você está enfrentando a pena de morte por assassinato. Você tem consciência disso?
+$GEN_008_06x07_05_03
+Só quero voltar para os cavalos. Não sei se eles comeram hoje. Se um cavalo fica muito tempo sem comer... O patrão não gosta quando os cavalos não são alimentados.
+$GEN_008_06x07_05_04
+Está mais preocupado com os cavalos do que com seu senhor?
+$GEN_008_06x07_05_05
+O patrão está morto, o que posso fazer? E os cavalos ainda estão vivos. Eles estão vivos.
+$GEN_008_WIT_00_A_QTitle
+Por favor, conte-nos o que aconteceu entre o cidadão Hugo e o dono da casa naquele dia infeliz.
+$GEN_008_WIT_00_A_00
+Por favor, conte-nos o que aconteceu entre o cidadão Hugo e o dono da casa naquele dia infeliz.
+$GEN_008_WIT_00_A_01
+O cidadão de Jacquemard ficou furioso com Bruno por ele não ter apertado a sela. Isso poderia ter causado um acidente.
+$GEN_008_WIT_00_A_02
+Como seu patrão reagiu a isso?
+$GEN_008_WIT_00_A_03
+Ele começou a gritar com Bruno, sacudindo-o e puxando-o. Bruno empurrou o cidadão de Jacquemard, fazendo-o cair da escada onde ambos estavam.
+$GEN_008_WIT_00_A_04
+Malditos burgueses...
+$GEN_008_WIT_00_B_QTitle
+O que acha do noivo?
+$GEN_008_WIT_00_B_00
+O que acha do noivo?
+$GEN_008_WIT_00_B_01
+Ele é um bom trabalhador, embora tenha certas... limitações. Não creio que haja mais nada que eu possa acrescentar. Ninguém jamais pensou que ele pudesse ser perigoso.
+$GEN_008_WIT_00_B_02
+Limitações? Mas ele tinha consciência do que acontecia ao seu redor?
+$GEN_008_WIT_00_B_03
+Sim, ele só... ele só demora um pouco para entender.
+$GEN_008_WIT_00_B_04
+Então, está convencido da culpa dele?
+$GEN_008_WIT_00_B_05
+Sim, eu vi tudo. Foi ele quem causou a morte do patrão.
+$GEN_008_KEY_01
+Moço de estrebaria
+$GEN_008_KEY_02
+Idiota da aldeia
+$GEN_008_KEY_03
+Retorno do passeio
+$GEN_008_KEY_04
+Sela frouxa
+$GEN_008_KEY_05
+Gritos e tumulto
+$GEN_008_KEY_06
+Empurrando um aristocrata
+$GEN_008_KEY_07
+Pescoço quebrado
+$GEN_008_LastDialog_00
+Eu nunca quis nada disso. Podemos ir lavar os cavalos depois?
+$GEN_008_UNIQUE_QUESTION_00
+Qual foi o motivo da discussão entre o réu e a vítima?
+$GEN_008_UNIQUE_ANSWER_CORRECT_00_00
+Uma sela frouxa.
+$GEN_008_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Talheres mal polidos.
+$GEN_008_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Agressão contra o cavalo.
+$GEN_008_UNIQUE_QUESTION_01
+O réu compreende a acusação?
+$GEN_008_UNIQUE_ANSWER_CORRECT_01_00
+Não.
+$GEN_008_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Sim.

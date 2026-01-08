@@ -1,0 +1,164 @@
+$GEN_046_DOC_01_HEADER
+Zusammengestellt von: Charles Etienne
+$GEN_046_DOC_01_00
+	Die Familie des 33-jährigen Bäckers Bastien Baudet ist in ein <a name="1" class="hidden">leeres Haus</a> nahe der Section des Piques gezogen. Dem Ermittler berichteten sie, dass wenige Tage zuvor ihr Haus von einer <a name="2" class="hidden">Mörsergranate</a> getroffen wurde, wodurch die Decke und eine der Wände einstürzten.
+$GEN_046_DOC_01_01
+	Einige Tage später wurden Baudet und seine Familie vom Eigentümer des scheinbar verlassenen Hauses, Bürger Solé, entdeckt. Es stellte sich heraus, dass er das Haus nicht dauerhaft verlassen hatte. Einige Tage zuvor war in der Nachbarschaft ein Brand ausgebrochen, und die Familie Solé war vorübergehend zu Verwandten ins Umland geflohen.
+$GEN_046_DOC_01_02
+	Der rechtmäßige Eigentümer des Hauses bemerkte bald, dass sein silbernes Besteck verschwunden war, seine Lebensmittelvorräte aufgebraucht und Teile der Möbel zerhackt und im Kamin verbrannt worden waren. Bei der Befragung beider Familien erfuhren wir, dass das erste Aufeinandertreffen der Parteien in einem <a name="6" class="hidden">Handgemenge</a> endete, das Baudet für sich entschied. Erst durch das Eingreifen der Garde konnte Bürger Solé die ungebetenen Bewohner loswerden, und der hitzköpfige Bäcker wurde festgenommen.
+$GEN_046_OnStart_00
+Heißt Ihr Name Bastien Baudet?
+$GEN_046_OnStart_01
+Ja, Monsieur Richter.
+$GEN_046_OnStart_02
+Sie haben ohne Erlaubnis die Wohnung von Bürger Solé bezogen.
+$GEN_046_OnStart_03
+In Paris gibt es viele leere Wohnungen. Wir haben eine davon gewählt, weil wir sonst nirgends hin konnten.
+$GEN_046_OnStart_04
+Ein findiger Mensch findet immer einen Weg, für seine Familie zu sorgen!
+$GEN_046_OnStart_05
+Haben Sie jemanden um Erlaubnis gebeten?
+$GEN_046_OnStart_06
+Es war niemand da, den wir hätten fragen können. Das Haus war leer, also sind wir hineingegangen. Ich konnte doch nicht zulassen, dass meine Kinder unter freiem Himmel schlafen.
+$GEN_046_OnGuilty_00
+Bürger Baudet, wegen Einbruch, Diebstahl, Vandalismus und Körperverletzung verurteile ich Sie zur Guillotine.
+$GEN_046_OnGuilty_01
+Was wird aus seiner Familie ohne den Vater?
+$GEN_046_OnGuilty_02
+Das Gericht hat sie alle ins Verderben gestürzt.
+$GEN_046_OnGuilty_03
+So soll es sein! Würden wir solches Verhalten dulden, fiele Paris binnen eines Tages.
+$GEN_046_OnNotGuilty_00
+Angesichts der Umstände kann ich Sie nicht bestrafen. Ich kann nur hoffen, dass Sie Paris mit ebenso viel Entschlossenheit verteidigen werden, wie Sie Ihre Familie verteidigt haben.
+$GEN_046_OnNotGuilty_01
+Menschen freizulassen ist das eine – aber sagen Sie mir, wohin sollen sie nun gehen?
+$GEN_046_01x04_00_QTitle
+Was ließ Sie glauben, dass die Wohnung des Bürgers Solé verlassen war?
+$GEN_046_01x04_00_00
+Was ließ Sie glauben, dass die Wohnung des Bürgers Solé verlassen war?
+$GEN_046_01x04_00_01
+Drinnen war niemand, und die Asche im Kamin war kalt. Die Nächte waren eisig in letzter Zeit – hätte dort jemand gewohnt, hätte es kürzlich ein Feuer gegeben.
+$GEN_046_01x04_00_02
+Haben Sie die Nachbarn nach den Besitzern gefragt? Damit hätten Sie anfangen sollen.
+$GEN_046_01x04_00_03
+Nein.
+$GEN_046_01x04_00_04
+Warum?
+$GEN_046_01x04_00_05
+Daran habe ich nie gedacht. Ich war viel zu sehr damit beschäftigt, Essen für meine Kinder zu besorgen.
+$GEN_046_01x04_00_06
+Hast du deshalb ihr Silberbesteck verkauft?
+$GEN_046_01x04_00_07
+Hast du die Butterpreise gesehen? Für Holzlöffel hätte mir niemand etwas zu essen gegeben.
+$GEN_046_01x04_00_08
+Und was ist mit Fleisch?! Wissen Sie, was sie für Lamm verlangen?
+$GEN_046_01x04_00_09
+Verdammte Händler!
+$GEN_046_03x01_01_QTitle
+Rufen Sie Bürger Solé als Zeugen auf.
+$GEN_046_03x01_01_00
+Rufen Sie Bürger Solé als Zeugen auf.
+$GEN_046_03x01_01_02
+Gehört das Haus Ihnen?
+$GEN_046_03x01_01_03
+Meine Frau hat es von ihrem Großonkel geerbt.
+$GEN_046_03x01_01_04
+Warum sind Sie aus Ihrem Zuhause geflohen?
+$GEN_046_03x01_01_05
+Eines Nachts schrien die Leute plötzlich: Feuer! Ich schaute aus dem Fenster, und die Straße lag im dichten Rauch. Ich weckte sofort meine Frau und meine Tochter, und wir flohen.
+$GEN_046_03x01_01_06
+War das ein großes Feuer?
+$GEN_046_03x01_01_07
+Soweit ich wusste, hätten jeden Moment Grenadiere hereinstürmen und mit Schüssen und Vergewaltigungen beginnen können!
+$GEN_046_03x01_01_08
+Du hättest erst herausfinden sollen, was los ist, statt kopflos vor Gott weiß was davonzulaufen.
+$GEN_046_03x01_01_09
+Was geschah dann?
+$GEN_046_03x01_01_10
+Nach zwei Tagen wollte ich sichergehen, dass unser Haus nicht zerstört worden war. Zu meiner Überraschung sah ich diesen Wilden drinnen, wie er meine Stühle zertrümmerte und seine Frau anschrie!
+$GEN_046_03x01_01_11
+Haben Sie ihn angegriffen?
+$GEN_046_03x01_01_12
+Ich glaube, ich habe geschrien, aber als ich die Tür sah, wurde ich rasend vor Wut.
+$GEN_046_03x01_01_13
+War sie beschädigt?
+$GEN_046_03x01_01_14
+Natürlich. Als ich verlangte zu wissen, was sie dort taten, fing dieser Mann an, mit der Axt zu fuchteln.
+$GEN_046_02x01_02_QTitle
+Stimmt es, dass Ihr Haus durch Artilleriebeschuss zerstört wurde?
+$GEN_046_02x01_02_00
+Stimmt es, dass Ihr Haus durch Artilleriebeschuss zerstört wurde?
+$GEN_046_02x01_02_01
+In der Tat.
+$GEN_046_02x01_02_02
+Wurde jemand getötet?
+$GEN_046_02x01_02_03
+Mein Schwiegervater wurde von Trümmern und Balken erschlagen. Gott sei Dank ist den Kindern nichts passiert.
+$GEN_046_02x01_02_04
+Eine Mörsergranate hat Ihr Haus zerstört, und daraufhin haben Sie das Haus von Bürger Solé zerstört?
+$GEN_046_02x01_02_05
+Meinen Sie die Möbel? Ich musste meine Kinder nachts warm halten und wusste nicht, wo das Brennholz gelagert wird.
+$GEN_046_02x01_02_06
+Gab es denn kein Reisig in der Nähe zum Verbrennen?
+$GEN_046_02x01_02_07
+Sollte ich wirklich danach suchen, wenn überall Holz herumliegt?
+$GEN_046_02x01_02_08
+Paris stirbt, und sie sorgen sich um Möbel.
+$GEN_046_06x04_03_QTitle
+Erzählen Sie mir mehr über den Streit zwischen Ihnen beiden. Ging es dabei um das Silberbesteck?
+$GEN_046_06x04_03_00
+Erzählen Sie mir mehr über den Streit zwischen Ihnen beiden. Ging es dabei um das Besteck?
+$GEN_046_06x04_03_01
+Wissen Sie, dieser Kerl kam einfach herein, schrie herum und durchsuchte das Haus. Woher sollte ich wissen, ob er wirklich der Besitzer war oder nicht?
+$GEN_046_06x04_03_02
+Tun Sie nicht so, als hätten Sie das Eigentum eines anderen verteidigt.
+$GEN_046_06x04_03_03
+Ich sage ja nur, dass er hereingekommen ist und sofort zu schreien angefangen hat.
+$GEN_046_06x04_03_04
+Sie wollten ihn also hinauswerfen?
+$GEN_046_06x04_03_05
+Wissen Sie, er packte mich am Hemd, als ich die Stühle zu Brennholz zerkleinerte, also habe ich ihm ein wenig gedroht. Mehr habe ich nicht getan.
+$GEN_046_06x04_03_06
+Wie freundlich von ihm!
+$GEN_046_06x04_03_07
+Haben Sie ihn verletzt?
+$GEN_046_06x04_03_08
+Sobald er begriff, was vor sich ging, war er verschwunden. Wir hörten nur seine Schritte auf der Treppe und das Zuschlagen einer Tür.
+$GEN_046_KEY_01
+Leeres Haus
+$GEN_046_KEY_02
+Mörsergranate
+$GEN_046_KEY_03
+Feuer
+$GEN_046_KEY_04
+Silberbesteck
+$GEN_046_KEY_05
+Zertrümmerte Möbel
+$GEN_046_KEY_06
+Handgemenge
+$GEN_046_LastDialog_00
+Ich hoffe, Sie kümmern sich um die Kinder, die ihretwegen ihren Vater verlieren, Sie herzloses Scheusal!
+$GEN_046_UNIQUE_QUESTION_00
+Warum haben die Baudets ihr Haus verlassen?
+$GEN_046_UNIQUE_ANSWER_CORRECT_00_00
+Es wurde durch einen Mörserbeschuss zerstört.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Die Soldaten haben sie vertrieben.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Sie hatten nichts zu essen.
+$GEN_046_UNIQUE_QUESTION_01
+Hat Baudet mit jemandem gesprochen, bevor er das Haus betrat?
+$GEN_046_UNIQUE_ANSWER_CORRECT_01_00
+Er hat mit niemandem gesprochen.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Er hat mit den Nachbarn gesprochen.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Er hat mit dem Besitzer des Gebäudes gesprochen.
+$GEN_046_UNIQUE_QUESTION_02
+Warum stand das Haus leer?
+$GEN_046_UNIQUE_ANSWER_CORRECT_02_00
+Der Gastgeber war vor dem Feuer geflohen.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Die Bewohner wurden von der Garde vertrieben.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Das Haus stand leer, seit die Schwiegermutter des Bürgers Solé gestorben war.

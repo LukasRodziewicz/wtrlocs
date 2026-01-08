@@ -1,0 +1,10 @@
+$DIAL_CO_01_01_05_001_PROSECUTOR
+Bienvenido, ciudadano Fidéle. Mi nombre es Antoine Quentin Fouquier de Tinville, soy el fiscal público asignado para asistir en cada juicio del Tribunal a partir de hoy.
+$DIAL_CO_01_01_05_002_PROSECUTOR
+Debo advertirle que no soy dado a los compromisos, aunque confío en que pronto encontraremos un terreno común. Por otro lado, tengo buenas noticias: la guillotina ya está terminada. Puede que la estrenemos hoy mismo.
+$DIAL_CO_01_01_05_003_MENTOR
+Sí, la hemos visto…
+$LETTER_CO_01_01_05_001
+¡El rey ha desaparecido! ¡Traición! ¡Cualquiera que tenga información sobre su paradero debe comunicarla de inmediato a las autoridades!
+$LETTER_CO_01_01_05_002
+Robespierre

@@ -1,0 +1,22 @@
+$DIAL_H_01_02_19_001_GRANDFATHER
+Jak twoje rany?
+$DIAL_H_01_02_19_002_JUDGE
+Goją się. Wszystko dzięki naszym nowym przyjaciołom.
+$DIAL_H_01_02_19_003_WIFE
+Naprawdę?
+$DIAL_H_01_02_19_004_JUDGE
+O co ci chodzi?
+$DIAL_H_01_02_19_005_WIFE
+Przypominam, że to w tym domu lizałeś rany. Tutaj cię przynieśli, twoja rodzina doglądała cię w każdej godzinie dnia i nocy. My, twoja rodzina, którą wystawiasz na ryzyko.
+$DIAL_H_01_02_19_006_JUDGE
+Myślisz, że chciałem, by ktoś mnie zasztyletował na ulicy?
+$DIAL_H_01_02_19_007_GRANDFATHER
+Twoja żona chce jak najlepiej dla naszej rodziny. Twój brat…
+$DIAL_H_01_02_19_008_JUDGE
+Mój brat chciał chronić rodzinę, walcząc z tymi, którzy jej zagrażają! Ty chciałeś tylko czekać, a ja widziałem, jak głowa króla spada równie łatwo co głowa rzemieślnika. Tylko dzięki władzy…
+$DIAL_H_01_02_19_009_GRANDFATHER
+Jesteś sędzią Trybunału! Masz władzę!
+$DIAL_H_01_02_19_010_JUDGE
+Prawdziwą władzę mają ci, którzy opłacili zabójców, czyli małżeństwo Rolandów lub ktoś inny, kto nimi steruje. To oni faktycznie decydują o życiu i śmierci w tym mieście.
+$DIAL_H_01_02_19_011_WIFE
+Oby nie zabili nas, zanim tę pożądaną przez ciebie władzę zdobędziesz.

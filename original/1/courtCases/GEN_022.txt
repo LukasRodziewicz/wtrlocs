@@ -1,0 +1,298 @@
+$GEN_022_DOC_1_HEADER
+Compiled by: Pierre Daquin
+$GEN_022_DOC_1_00
+Jean Ibert, the <a name="1" class="hidden">famous</a> street urchin who killed the governor of the Bastille, de Launay, and carried his head on a pike, has recently been detained. After the triumph of the Revolution, he reached the nadir of his life. Though many people still consider him a hero, they do not care that the Parisian archives are filled with <a name="2" class="hidden">complaints</a> about thefts, robberies, and assaults on women.
+$GEN_022_DOC_1_01
+The current case is much graver, as Ibert is accused of <a name="3" class="hidden">raping</a> 16-year-old <a name="4" class="hidden">Élodie de Pontalba</a>. The charges were brought by the victim’s father, Baron Thomas de Pontalba. It is widely known that de Pontalba was a <a name="5" class="hidden">relative</a> and friend of Governor de Launay.
+$GEN_022_DOC_1_02
+The crime allegedly took place in the tenement belonging to the victim’s family. Jean was detained by people working outside while trying to escape the building. Élodie gave a written statement saying that the incident took place on a holiday, and Jean used the absence of the Baron and most of the servants to <a name="7" class="hidden">break into</a> to the tenement. Once he was inside, he entered her room and raped her.
+$GEN_022_DOC_1_03
+The incident was witnessed by Anne Michel, Élodie's governess. It was she who alarmed the workers about disturbing noises coming from her charge's room. A number of witnesses felt obliged to inform us that Anne Michel is known for her psychotic jealousy and her numerous romances with the people of France.
+$GEN_022_DOC_2_00
+Anne Michel’s testimony:
+
+	Usually in the mornings Miss Élodie and I read. However, the chef had that day off, so I was preparing tea. Then I heard her screaming! I ran to her room, but stopped when I heard a male voice. I was scared and asked for help.
+$GEN_022_DOC_3_00
+The results of the medical examination
+$GEN_022_DOC_3_01
+The examination revealed the following: Defloration. Minor attrition of the genital area. Bruising and haemorrhaging of the arms, spine, and face.  Dr P. Gibier
+$GEN_022_OnStart_00
+They’re bringing in Jean!
+$GEN_022_OnStart_01
+We’re with you, Jean!
+$GEN_022_OnStart_02
+Please introduce yourself.
+$GEN_022_OnStart_03
+Jean Ibert, the conqueror of the Bastille and vanquisher of the tyrant de Launay! The hero of all Parisians!
+$GEN_022_OnStart_04
+Jean Ibert, you are accused of raping Miss Élodie de Pontalba, daughter of Baron Thomas de Pontalba. Do you plead guilty?
+$GEN_022_OnStart_05
+I don’t plead anything. That bourgeois and her Counter-Revolutionary father are filthy liars.
+$GEN_022_OnStart_06
+We need to bear in mind the possibility of criminal collusion in the charges.
+$GEN_022_OnStart_07
+That’s right. Those rich swines love their machinations.
+$GEN_022_OnStart_08
+The evidence speaks against you.
+$GEN_022_OnStart_09
+Girlish duplicity and de Pontalba’s plots prove nothing!
+$GEN_022_OnGuilty_00
+I sentence Citizen Jean Ibert to be guillotined! Lead the condemned out.
+$GEN_022_OnGuilty_01
+The evidence against him was not conclusive.
+$GEN_022_OnGuilty_02
+Outrageous!
+$GEN_022_OnGuilty_03
+What are you doing, you fool?
+$GEN_022_OnGuilty_04
+Traitor of the people, murderer of our hero!
+$GEN_022_OnPrison_00
+Citizen Jean Ibert will go to jail. Take him away!
+$GEN_022_OnPrison_01
+Is that all?
+$GEN_022_OnPrison_02
+The rapist should pay with his head!
+$GEN_022_OnPrison_03
+Or more than just his head!
+$GEN_022_OnNotGuilty_00
+The judgement for Jean Ibert is… not guilty! Take the defendant away.
+$GEN_022_OnNotGuilty_01
+I must admit that his guilt was not clearly confirmed.
+$GEN_022_OnNotGuilty_02
+Bravo!
+$GEN_022_OnNotGuilty_03
+This is the France we fought for when storming the Bastille!
+$GEN_022_OnNotGuilty_04
+The Judge is one of us!
+$GEN_022_04x06_00_QTitle
+Did you know Miss Élodie de Pontalba before the incident?
+$GEN_022_04x06_00_00
+Did you know Miss Élodie de Pontalba before the incident?
+$GEN_022_04x06_00_01
+She flirted with me every time she visited the Café Procope, and she came to every dispute between Danton and Marat. I finally gave that girl what she was asking for.
+$GEN_022_04x06_00_02
+So you admit to your guilt?
+$GEN_022_04x06_00_03
+Yes, but it wasn’t rape. Show me one girl that would say no to a hero.
+$GEN_022_04x06_00_04
+You say you met her at the Café Procope? I highly doubt that such a young lady would go to a place like that all by herself.
+$GEN_022_04x06_00_05
+Who said she was alone? Anne brought her, and everyone knows she likes to have fun.
+$GEN_022_04x06_00_06
+Are you talking about Anne Michel, Miss Élodie’s governess?
+$GEN_022_04x06_00_07
+That’s right.
+$GEN_022_04x06_00_08
+So that was not the first time you entered the house of the victim’s family?
+$GEN_022_04x06_00_09
+What victim? Anyway, yes, I was there a few times and I know it well. Let me just say that Anne Michel and I have explored every–
+$GEN_022_04x06_00_10
+Spare us the details…
+$GEN_022_04x06_00_11
+The old whore took the young whore for a walk!
+$GEN_022_01x05_01_QTitle
+Did you know that Baron de Pontalba is a relative of…?
+$GEN_022_01x05_01_00
+Did you know that Baron de Pontalba is a relative of the deceased Governor de Launay?
+$GEN_022_01x05_01_01
+No, but that explains a lot. The whole case was conjured up by de Pontalba. He wants to get rid of me because I freed France from a tyrant!
+$GEN_022_01x05_01_02
+De Launay’s family should have been executed a long time ago.
+$GEN_022_01x05_01_03
+So you would not call rape an instrument in the war against the Monarchists?
+$GEN_022_01x05_01_04
+Monarchists should be decapitated! And their daughters should be… thanking the heroes of the Revolution.
+$GEN_022_01x05_01_05
+That’s right!
+$GEN_022_01x05_01_06
+Silence! We are talking about a young girl who was raped!
+$GEN_022_03x06_02_QTitle
+How did you break into the tenement belonging to Baron de Pontalba?
+$GEN_022_03x06_02_00
+How did you break into the tenement belonging to Baron de Pontalba?
+$GEN_022_03x06_02_01
+Why would I break in? I used the back door.
+$GEN_022_03x06_02_02
+How did you know about that entrance?
+$GEN_022_03x06_02_03
+The Baron’s daughter told me. She also informed me that her beloved father and most of the servants wouldn’t be at home.
+$GEN_022_03x06_02_04
+She told you to visit her for that specific purpose?
+$GEN_022_03x06_02_05
+She was giving very clear signs.
+$GEN_022_03x06_02_06
+All aristocrats are whores.
+$GEN_022_03x06_02_07
+Are you saying that you came to Baron de Pontalba’s house at the invitation of the victim?
+$GEN_022_03x06_02_08
+That young bitch promised me a nice afternoon. She explained everything in detail.
+$GEN_022_03x06_02_09
+Let Jean go!
+$GEN_022_03x06_02_10
+Quiet, people, the Judge is beginning to understand. Remain calm and he will soon let me go.
+$GEN_022_02x08_03_QTitle
+Do you find a particular pleasure in the abuse of women?
+$GEN_022_02x08_03_00
+Do you find a particular pleasure in the abuse of women?
+$GEN_022_02x08_03_01
+Why would I abuse women when there are nicer things to do with them? Well, unless they like it.
+$GEN_022_02x08_03_02
+Are you suggesting that the victim wanted to get raped and beaten?
+$GEN_022_02x08_03_03
+I didn’t force her to do anything, and I definitely didn’t beat her.
+$GEN_022_02x08_03_04
+The medical examination proves clearly that she was injured.
+$GEN_022_02x08_03_05
+Better ask de Pontalba who battered her. He was furious when he found out who was in bed with his sweet daughter.
+$GEN_022_02x08_03_06
+Are you suggesting that he assaulted his daughter because she consorted with you?
+$GEN_022_02x08_03_07
+It wouldn’t surprise me.
+$GEN_022_02x08_03_08
+Aristocrats do worse things than beating their own children.
+$GEN_022_03x08_04_QTitle
+Call in Anne Michel as a witness.
+$GEN_022_03x08_04_00
+Call in Anne Michel as a witness.
+$GEN_022_03x08_04_02
+Citizen, what is your name?
+$GEN_022_03x08_04_03
+Anne Michel, Miss Élodie de Pontalba’s governess.
+$GEN_022_02x03_05_QTitle
+How many of your previous victims have you raped?
+$GEN_022_02x03_05_00
+How many of your previous victims have you raped?
+$GEN_022_02x03_05_01
+None. I’ve done many things, but luckily I’m still young and handsome enough to not need violence to be with a woman.
+$GEN_022_02x03_05_02
+Then what were all those women accusing you of?
+$GEN_022_02x03_05_03
+I’ve no idea. They didn’t complain when we were together.
+$GEN_022_02x03_05_04
+Were you ever sentenced for assaulting a woman?
+$GEN_022_02x03_05_05
+They never proved my guilt.
+$GEN_022_02x03_05_06
+And they’ll let him go this time too.
+$GEN_022_02x03_05_07
+Then why were they making those accusations?
+$GEN_022_02x03_05_08
+They probably just wanted money.
+$GEN_022_04x05_06_QTitle
+Did you choose Élodie de Pontalba for your victim because she is related to de Launay?
+$GEN_022_04x05_06_00
+Did you choose Miss de Pontalba for your victim because she is related to de Launay?
+$GEN_022_04x05_06_01
+I didn’t know they were related.
+$GEN_022_04x05_06_02
+Then why her?
+$GEN_022_04x05_06_03
+She was young, soft skinned, and very eager, if you really want to know.
+$GEN_022_04x05_06_04
+Are you suggesting that it was Miss de Pontalba who initiated the intercourse?
+$GEN_022_04x05_06_05
+Who did what? Ah, did she ask for me to caress her? Oh, she desperately wanted that. She dreamed about me for a long time.
+$GEN_022_03x04_07_QTitle
+The victim is but a frail girl, did you really have to beat her that badly?
+$GEN_022_03x04_07_00
+The victim is but a frail girl, did you really have to beat her that badly?
+$GEN_022_03x04_07_01
+Why would I beat her? I didn’t even have to undress her.
+$GEN_022_03x04_07_02
+She removed her clothes by herself?
+$GEN_022_03x04_07_03
+She jumped out of her dress, unfastened my belt, and–
+$GEN_022_03x04_07_04
+We don’t need to hear the details.
+$GEN_022_03x04_07_05
+Monsieur le juge, I can tell you everything in great detail if you want me to.
+$GEN_022_03x04_07_06
+Did she take her clothes off because you threatened her?
+$GEN_022_03x04_07_07
+She would have threatened me if I had refused her!
+$GEN_022_03x04_07_08
+Go on, we’re listening!
+$GEN_022_03x04_07_09
+Silence! If you want gossip, go to the market.
+$GEN_022_WIT_00_A_QTitle
+What do you know about the case?
+$GEN_022_WIT_00_A_00
+What do you know about the case?
+$GEN_022_WIT_00_A_01
+Ibert is guilty and should be killed. He used our relationship to get closer to the Baron’s daughter and hurt her.
+$GEN_022_WIT_00_A_02
+What do you mean?
+$GEN_022_WIT_00_A_03
+He knew exactly when the servants had a day off and when the Baron left for the Legislative Assembly.
+$GEN_022_WIT_00_A_04
+Did he learn those facts from you?
+$GEN_022_WIT_00_A_05
+Not directly. He paid me several visits at Baron de Pontalba’s house.
+$GEN_022_WIT_00_A_06
+Did it not occur to you that he may use this knowledge against the Baron’s family?
+$GEN_022_WIT_00_A_07
+…
+$GEN_022_WIT_00_A_08
+I see. Did the Baron know about your meetings?
+$GEN_022_WIT_00_A_09
+No, the Baron had more important things to worry about than the personal lives of his servants.
+$GEN_022_WIT_01_A_QTitle
+Why did you neglect your duties and stop looking after the victim?
+$GEN_022_WIT_01_A_00
+Why did you neglect your duties and stop looking after the victim?
+$GEN_022_WIT_01_A_01
+That day, the Baron ordered me to take care of the house. Miss Élodie didn’t have any classes and was spending time in her room.
+$GEN_022_WIT_01_A_02
+And you did not hear the accused entering the building?
+$GEN_022_WIT_01_A_03
+No, I was busy in the kitchen. I wasn’t alerted until I heard sounds of a struggle and Miss Élodie’s screams coming from her room.
+$GEN_022_WIT_01_A_04
+I find it baffling that you did not hear anything before then.
+$GEN_022_WIT_01_A_05
+I can’t explain that, but I was making a lot of noise while cooking.
+$GEN_022_WIT_01_A_06
+Is watching the house not one of your responsibilities?
+$GEN_022_WIT_01_A_07
+Well, yes, but I can’t be in two places at once…
+$GEN_022_KEY_01
+Famous defendant
+$GEN_022_KEY_02
+Multiple complaints
+$GEN_022_KEY_03
+Rape
+$GEN_022_KEY_04
+Élodie de Pontalba
+$GEN_022_KEY_05
+The governor of the Bastille’s relatives
+$GEN_022_KEY_06
+De Pontalba’s house
+$GEN_022_KEY_07
+Break-in at the tenement
+$GEN_022_KEY_08
+The victim’s testimony
+$GEN_022_LastDialog_00
+You decapitate a man for a little shuffle in the sheets? People, I rescued you, and now you murder me?
+$GEN_022_UNIQUE_QUESTION_00
+What made the defendant famous in the eyes of the people?
+$GEN_022_UNIQUE_QUESTION_02
+How did the defendant explain signs of assault on the victim’s body?
+$GEN_022_UNIQUE_QUESTION_03
+Did the defendant attempt to explain the background of the rape?
+$GEN_022_UNIQUE_ANSWER_CORRECT_00_00
+Storming the Bastille.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Valour in the battle of Valmy.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Work on the Declaration of the Rights of Man and of the Citizen.
+$GEN_022_UNIQUE_ANSWER_CORRECT_02_00
+Her father beat her.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Her own mother beat her.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_02_01
+She was punished by the governess.
+$GEN_022_UNIQUE_ANSWER_CORRECT_03_00
+He said it was the victim who initiated intimacy and first removed her clothes.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_03_00
+He does not remember, he was intoxicated.
+$GEN_022_UNIQUE_ANSWER_NOT_CORRECT_03_01
+He claims to have never touched the victim.

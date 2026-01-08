@@ -1,0 +1,86 @@
+$DISC_INTR_005_B02_ELLIOTT_001_ELLIOTT
+Sind Sie gekommen, um die englische Hure zu besuchen?
+$DISC_INTR_005_B02_ELLIOTT_002_ELLIOTT
+Das ist der neue Spitzname, den sie mir im Gefängnis gegeben haben.
+$DISC_INTR_005_B02_ELLIOTT_003_JUDGE
+Es tut mir so leid, Grace. Die Wachen hätten nicht–
+$DISC_INTR_005_B02_ELLIOTT_004_ELLIOTT
+Ach, diese ganze Revolution sollte nicht sein, aber so bist du nun einmal.
+$DISC_INTR_005_B02_ELLIOTT_005_ELLIOTT
+Wenn ich hier jemals rauskomme, verlange ich das Dreifache von Ihnen.
+$DISC_INTR_005_B02_ELLIOTT_006_ELLIOTT
+Was willst du?
+$DISC_INTR_005_B02_ELLIOTT_007_JUDGE
+Ihnen Absolution anbieten.
+$DISC_INTR_005_B02_ELLIOTT_008_ELLIOTT
+Wenn Sie von sich aus dieses Angebot machen, erwarten Sie sicher eine Gegenleistung. Was wollen Sie?
+$DISC_INTR_005_B02_ELLIOTT_009_JUDGE
+Madame de Staël.
+$DISC_INTR_005_B02_ELLIOTT_010_ELLIOTT
+Ich bin kein Zuhälter, tut mir leid. Das Einzige, was ich Ihnen im Moment anbieten kann, ist eine Ratte, die ich gestern getötet habe.
+$DISC_INTR_005_B02_ELLIOTT_011_ELLIOTT
+Ich habe in letzter Zeit kaum Appetit.
+$DISC_INTR_005_B02_ELLIOTT_012_JUDGE
+Und doch sind Sie der Einzige, der mir helfen kann. Der Paris helfen kann.
+$DISC_INTR_005_B02_ELLIOTT_013_ELLIOTT
+Erinnerst du dich, wie dich jemand mitten auf der Straße niedergestochen hat und ich dich wieder zusammengenäht habe?
+$DISC_INTR_005_B02_ELLIOTT_014_ELLIOTT
+Habe ich Ihnen immer noch nicht genug geholfen?
+$DISC_INTR_005_B02_ELLIOTT_010_JUDGE_AGGR
+Ich muss dieser Hexe de Staël habhaft werden! Ich will sie auf der Anklagebank sehen, und Sie werden Beweise für ihr Verbrechen liefern – ob sie wahr sind oder nicht.
+$DISC_INTR_005_B02_ELLIOTT_011_JUDGE_MANI
+Jeder Mensch hat etwas auf dem Kerbholz. Ich will wissen, was Madame de Staël getan hat oder noch tun könnte. Und wen sollte ich sonst fragen, wenn nicht eine andere Frau?
+$DISC_INTR_005_B02_ELLIOTT_012_JUDGE_JOKE
+Es gibt keinen einzigen Pariser, gegen den sich nicht irgendein belastendes Beweismaterial finden ließe. Sagen Sie mir, was könnten wir ihr vorwerfen, wenn es darauf ankommt? Ich verlange keine Wahrheit, nur etwas, das überzeugend wirkt.
+$DISC_INTR_005_B02_ELLIOTT_013_JUDGE_HUMI
+Früher haben wir einander geholfen, tun wir es erneut. Sagen Sie mir, was Sie über de Staël wissen – alles, was den Weg zur Guillotine ebnen könnte.
+$DISC_INTR_005_B02_ELLIOTT_014_ELLIOTT_INTR
+Ich würde Ihnen gern helfen, aber ich habe nichts über de Staël. Wirklich gar nichts.
+$DISC_INTR_005_B02_ELLIOTT_015_ELLIOTT_DOUB
+Ich bezweifle, dass Sie etwas finden werden. De Staël ist unbescholten, deshalb haben die Frauen sie gewählt.
+$DISC_INTR_005_B02_ELLIOTT_016_ELLIOTT_IRRI
+Diesmal könnten Sie scheitern, denn ich habe nichts gegen sie in der Hand. Selbst wenn ich etwas hätte, würde wohl niemand an ihre Schuld glauben. Die Frauen halten sie für eine Heilige.
+$DISC_INTR_005_B02_ELLIOTT_017_JUDGE_AGGR
+Du hast doch etwas! Belüg mich nicht!
+$DISC_INTR_005_B02_ELLIOTT_018_JUDGE_MANI
+Ich glaube nicht, dass Sie mir die ganze Wahrheit sagen.
+$DISC_INTR_005_B02_ELLIOTT_019_JUDGE_JOKE
+Seien Sie doch nicht so unnahbar, zwischen uns sind schon Gitterstäbe.
+$DISC_INTR_005_B02_ELLIOTT_020_JUDGE_HUMI
+Du musst mir helfen. Nur du kannst die Lage retten.
+$DISC_INTR_005_B02_ELLIOTT_021_ELLIOTT_INTR
+Würden Sie lügen, um Ihr Ziel zu erreichen?
+$DISC_INTR_005_B02_ELLIOTT_022_ELLIOTT_DOUB
+Fragen Sie so oft Sie wollen. Ich kann Ihnen nicht geben, was Sie verlangen, denn ich habe es nicht.
+$DISC_INTR_005_B02_ELLIOTT_023_ELLIOTT_IRRI
+Ich kann Ihnen nichts geben, was es nicht gibt. Verstehen Sie nicht, was ich sage?
+$DISC_INTR_005_B02_ELLIOTT_024_JUDGE_AGGR
+Vielleicht sollte ich Sie ein wenig motivieren. Helfen Sie mir, und Sie verlassen diesen Ort noch heute.
+$DISC_INTR_005_B02_ELLIOTT_025_JUDGE_MANI
+Möchten Sie wirklich noch viele weitere Monate an diesem Ort verbringen? Helfen Sie mir, und ich helfe Ihnen.
+$DISC_INTR_005_B02_ELLIOTT_026_JUDGE_JOKE
+Ich werde sie so oder so erreichen – mit oder ohne Ihre Hilfe. Doch mit Ihrer Unterstützung sparen wir beide kostbare Zeit. Sie sollten also mithelfen, denn Sie entscheiden, ob Sie diesen Ort sofort verlassen oder erst nach vielen, vielen Monaten. Vielleicht auch niemals.
+$DISC_INTR_005_B02_ELLIOTT_027_JUDGE_HUMI
+Nur ich kann Sie hier herausholen, den Menschen sind politische Gefangene inzwischen gleichgültig. Verhängen Sie nicht selbst monatelange Haft über sich.
+$DISC_INTR_005_B02_ELLIOTT_028_JUDGE_AGGR
+De Staël weiß nicht, mit wem sie sich angelegt hat! Sie wird es bereuen! Sie wird bezahlen wie all die anderen, die mir in den Rücken fallen wollten!
+$DISC_INTR_005_B02_ELLIOTT_029_JUDGE_MANI
+Ich kann nicht zulassen, dass sie an Einfluss gewinnt, während unsere Stadt grausam zerrissen wird. Wenn sie in solch einer Lage nicht bereit ist, ihre eigenen Ambitionen zurückzustellen, betrachte ich sie als Verräterin. Und ich lasse mich von einer Verräterin nicht erpressen.
+$DISC_INTR_005_B02_ELLIOTT_030_JUDGE_JOKE
+De Staël wird sich verbrennen, wenn sie versucht, mich und jene, die für die Freiheit von Paris kämpfen, zu erpressen. Und ich würde es genießen, sie noch etwas länger im Feuer schmoren zu lassen.
+$DISC_INTR_005_B02_ELLIOTT_031_JUDGE_HUMI
+De Staël nutzt die katastrophale Lage in Paris, um ihre eigenen politischen Ziele zu verfolgen. Ich werde nicht zulassen, dass sie mich und Frankreich erpresst.
+$DISC_INTR_005_B02_ELLIOTT_032_ELLIOTT_INTR
+Da es keine Beweise für ihr Verbrechen gibt, werde ich welche schaffen. Lasst mich frei, und ich liefere euch eine Anklage, stark genug, um jeden zu vernichten. Selbst jemanden so unschuldig wie de Staël.
+$DISC_INTR_005_B02_ELLIOTT_033_ELLIOTT_DOUB
+Ich helfe Ihnen nur, weil ich hier nicht sterben will. Ich gebe Ihnen dieses wertvolle Beweisstück, aber verlassen Sie sich nicht darauf, dass es ganz der Wahrheit entspricht.
+$DISC_INTR_005_B02_ELLIOTT_034_ELLIOTT_IRRI
+Ich habe noch genug Stärke, um auf mein Gewissen zu hören und andere Frauen nicht zu verraten. Für wen halten Sie mich? Wollen Sie mich brechen? Viele Männer vor Ihnen haben es versucht und sind gescheitert. Auch Sie werden scheitern. Wir Frauen werden siegen!
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_01
+Geben Sie mir etwas, womit ich de Staël anklagen kann.
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_02
+Ich glaube nicht, dass de Staël so unschuldig ist.
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_03
+Hilf mir, und du wirst deine Freiheit zurückerlangen.
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_04
+Ich lasse mich nicht erpressen.

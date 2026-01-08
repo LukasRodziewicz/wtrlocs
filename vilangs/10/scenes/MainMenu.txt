@@ -1,0 +1,56 @@
+#GAME_OPTIONS
+Oyun Seçenekleri
+#SOUND_OPTIONS
+Ses
+#CREDITS_HEADER
+Yapımcılar
+#CREDITS_BACK
+Geri dön
+#CHOOSE_PROFILE
+Profil Seç
+#NEW_PROFILE
+Profil Oluştur
+#EMPTY_PROFILE
+Yeni Profil Oluştur
+#PROFILE_PLACEHOLDER
+Profil Adı
+#PROFILE_DELETE_QUESTION_TITLE
+Profili Sil
+#PROFILE_DELETE_QUESTION
+Bir profili silmek kalıcıdır. Emin misiniz?
+#PROFILE_SUBTITLE
+Perde {0} Gün {1}
+#NEW_GAME_QUESTION_TITLE
+Yeniden Başlat
+#NEW_GAME_QUESTION
+Yeniden başlatmak tüm ilerlemenizi kaybetmenize neden olacak. Devam etmek istediğinizden emin misiniz?
+#SOUND_MAIN_OPTION
+Ana Ses Düzeyi
+#SOUND_EFFECTS_OPTION
+Ses Efekti Seviyesi
+#SOUND_MUSIC_OPTION
+Müzik Sesi
+#SOUND_DIALOGS_OPTION
+Ses Seviyesi
+#AUTOSAVE
+Otomatik kayıt
+#SINGLE_CASES_HEADER
+Duruşma:
+#MULTI_CASES_HEADER
+Duruşmalar:
+#CASES_EMPTY
+Yok
+#ACT
+Perde {0}
+#LOAD_GAME_DAY
+Gün {0}
+#LOAD_GAME_PARAMS_INFO
+Durum:
+#LOAD_GAME_QUESTION_TITLE
+Eski Kaydı Yükle
+#LOAD_GAME_QUESTION
+Önceki bir günü seçmek, sonraki günlerdeki ilerlemenizi silecektir. Emin misiniz?
+#SAVE_PROFILE
+Profil Oluştur
+#FLASHCARDS_CASES_KEY
+Olağanüstü hüküm

@@ -1,0 +1,24 @@
+$DIAL_CO_02_02_01_001_JUDGE
+Seni buraya getiren bu kadar önemli neydi, Marat? Gerçekten akşam evimde konuşamayacağımız kadar mı mühim?
+$DIAL_CO_02_02_01_002_MARAT
+Bunu burada, insanların arasında yapmayı tercih ederim; çünkü evinizden sağ çıkamayacağımdan korkuyorum.
+$DIAL_CO_02_02_01_003_JUDGE
+Anlamıyorum.
+$DIAL_CO_02_02_01_004_MARAT
+Tribünal yargıcı olduğunuzdan beri yaptıklarınızı anlatan, isimsizce yazılmış belgeler elimde.
+$DIAL_CO_02_02_01_005_JUDGE
+…
+$DIAL_CO_02_02_01_006_MARAT
+İhanetler, cinayetler, siyasi rüşvetler… Hâlâ insan mısın, yoksa şeytanla mı konuşuyorum?
+$DIAL_CO_02_02_01_007_JUDGE
+Bunların hepsi Clément Renard’ın işi. O adam babamı zaten mahvetti, birkaç gün önce de eğer ona boyun eğmezsem bana da aynısını yapacağını söyledi.
+$DIAL_CO_02_02_01_008_MARAT
+Vatandaş Fidèle–
+$DIAL_CO_02_02_01_009_JUDGE
+Orada ne yazıyorsa doğru değil! O yalanlar sadece yok etmek için–
+$DIAL_CO_02_02_01_010_MARAT
+Beni aptal yerine koyma! Bugün Renard, Café Procope’un arka tarafında ölü bulundu. Bil ki, tüm suçlarını öğrenene kadar peşini bırakmayacağım. Her cinayeti, ihaneti ve yalanı ortaya çıkaracağım.
+$DIAL_CO_02_02_01_011_JUDGE
+Size temin ederim ki–
+$DIAL_CO_02_02_01_012_MARAT
+Gerek yok. Ailenize bir canavar olmadığınızı anlatmaya odaklanın, çünkü ben acımasız olacağım.

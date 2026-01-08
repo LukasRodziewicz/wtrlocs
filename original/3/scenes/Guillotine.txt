@@ -1,0 +1,46 @@
+$EXECUTION_START_TIP
+Потяните за веревку, чтобы совершить казнь
+$SUMMON_GUARDS
+Вызвать стражу
+$SKIP_SPEECH
+Пропустить речь
+$PEOPLE_ATTITUDE
+[Отношение простого люда]
+$PEOPLE_ATTITUDE_DESC
+Отношение простого люда: что это такое, и как оно работает.
+$PEOPLE_ATTITUDE_LV1
+Агрессия
+$PEOPLE_ATTITUDE_LV2
+Неодобрение
+$PEOPLE_ATTITUDE_LV3
+Безразличие
+$PEOPLE_ATTITUDE_LV4
+Одобрение
+$PEOPLE_ATTITUDE_LV5
+Радость
+$GUILLOTINE_ATTACK_SUCCESS_DESC
+Собравшейся перед эшафотом толпе ваши слова пришлись не по душе. В ход пошли кулаки и дубинки. К несчастью, стражники оказались далеко и не смогли отреагировать вовремя. Вам пришлось в одиночку встретиться с разгневанной толпой.
+$GUILLOTINE_ATTACK_FAILURE_DESC
+Собравшейся перед эшафотом толпе ваши слова пришлись не по душе. Свое недовольство они решили выразить кулаками — на вашем теле. К счастью, стража была готова и быстро разрешила ситуацию. Ваша репутация пострадала, но вы можете продолжить казнь.
+$GUILLOTINE_START_SPEECH
+Обратиться к простому люду.
+$GUILLOTINE_SPEECH_START_LOW_JUSTICE
+Они кажутся недоверчивыми...
+$GUILLOTINE_SPEECH_START_NEUTRAL_JUSTICE
+Я попробую завоевать расположение толпы.
+$GUILLOTINE_SPEECH_START_HIGH_JUSTICE
+Я полностью их контролирую, они мне верят.
+$GUILLOTINE_HEART_LOW_JUSTICE
+Они мне не доверяют.
+$GUILLOTINE_HEART_NEUTRAL_JUSTICE
+Недоверие.
+$GUILLOTINE_HEART_HIGH_JUSTICE
+Они верят мне.
+$TIMERGUARD
+Мы слишком долго тянем. Люди начинают волноваться!
+#GUILLOTINE_COMMENT_000
+Голову с плеч!
+#GUILLOTINE_COMMENT_001
+Тяни за веревку!
+#GUILLOTINE_COMMENT_002
+За Революцию!

@@ -1,0 +1,20 @@
+$DIAL_H_01_02_12_001_JUDGE
+Powiedz mi, że śnię lub niedowidzę - czy to jest mapa ze sprawy Muglera? Podwędziłeś dowód z depozytu sądowego?
+$DIAL_H_01_02_12_002_MENTOR
+Nie “podwędziłem”, tylko znalazłem zastosowanie. W twoim pokoju będzie z niej więcej pożytku niż z kurzenia się w sądzie. W końcu to mapa samego Turgota - należy jej się więcej szacunku.
+$DIAL_H_01_02_12_003_JUDGE
+Pięknie to sobie wytłumaczyłeś…
+$DIAL_H_01_02_12_004_MENTOR
+To jest prezent - bierz i nie gadaj. Bardziej powinieneś przejmować się wydarzeniami z królem. Cała ta sytuacja jest nieco dziwna. Jako twój przełożony to ja powinienem sądzić Ludwika. Nie rozumiem, dlaczego Robespierre stanowczo prosił o ciebie.
+$DIAL_H_01_02_12_005_JUDGE
+Zazdrościsz mi?
+$DIAL_H_01_02_12_006_MENTOR
+To była wiekopomna chwila, zostanie zapamiętana i opisana w podręcznikach historii.
+$DIAL_H_01_02_12_007_JUDGE
+Na razie zanosi się na to, że będą z tego kłopoty. Mam wrażenie, że ktoś bawi się moim życiem. Jakby coś uparcie pchało mnie w centrum zawieruchy.
+$DIAL_H_01_02_12_008_MENTOR
+Miej oczy otwarte. Nagle pojawiłeś się na politycznej mapie miasta, a to oznacza, że ktoś musi z niej zejść, by zrobić dla ciebie miejsce.
+$DIAL_H_01_02_12_009_WIFE
+Nie możecie się choć raz powstrzymać od tego defetyzmu? Mój mąż jest teraz znaną personą. Cieszmy się z tego.
+$DIAL_H_01_02_12_010_MENTOR
+Do ludzi będących na świeczniku łatwiej się strzela…

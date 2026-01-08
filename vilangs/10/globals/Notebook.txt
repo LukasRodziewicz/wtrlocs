@@ -1,0 +1,74 @@
+#DEBUG
+[DEBUG]
+#EVENT
+Olay:
+#EVENTCOST
+Seçilen seçeneğin bedeli:
+#MISSION
+Görev:
+#COURTCASE
+Duruşma
+#NEWDAY
+Yeni dönem
+#LASTDAY
+Önceki döngüden
+#ENEMYAGENT
+Düşman Ajanının Eylemleri
+#AGENTCOST
+Ajansın eylemlerinin maliyeti
+#AGENTMISSION
+Ajansın eylemlerinin sonuçları
+#JURY_INFLUENCE
+Jüri Etkisi
+#MENTORHELP
+Mentorunuzdan Yardım
+#GUILLOTINESPEECH
+Konuşma
+#GAMBLINGDEN
+Zar oyunu
+#SOURCE_INTRIGUE
+Entrika
+#NOTEBOOK_INFLUENCE_INCREASE
+Artan Etki Puanları
+#NOTEBOOK_GUILTY_COUNT
+Ölüme mahkûm edilen kişi sayısı
+#NOTEBOOK_PRISON_COUNT
+Hapise mahkûm edilen kişi sayısı
+#NOTEBOOK_NOTGUILTY_COUNT
+Beraat eden kişi sayısı
+#NOTEBOOK_DAYLIST
+Günler listesi
+#NOTEBOOK_SENTENCES
+Hükümler
+#NOTEBOOK_PEOPLE
+Halk
+#GLOBAL_MODS
+Küresel Değişkenler
+#TIME_LEFT
+Kalan Süre
+#TIME_COUNTER
+Kalan günler
+#DAY_FORMAT
+Gün {0}
+#NOTEBOOK_DAY_SELECT_MSG
+Ayrıntıları görmek için bir simge seçin.
+#NOTEBOOK_DAY_EMPTY
+Değişiklik yok.
+#NOTEBOOK_COST
+Maliyet
+#NOTEBOOK_INCOME
+Gelir
+#NOTEBOOK_OUTCOME
+Sonuç
+#NOTEBOOK
+Not Defteri
+#ACT_FORMAT
+Perde {0}
+#PERSON_GROUP_FAMILY
+Arkadaşlar ve aile
+#PERSON_GROUP_AGENTS
+Ajanlar
+#PERSON_GROUP_OTHERS
+Diğerleri
+#NOTEBOOK_SURVIVAL_SCORE_LABEL
+Puanlarınız:

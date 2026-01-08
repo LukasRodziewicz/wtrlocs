@@ -1,0 +1,202 @@
+$FAB_018_DOC_01_HEADER
+Compilé par : Fabrice Poli
+$FAB_018_DOC_01_00
+L'accusé qui se tient devant vous aujourd'hui est Jacques Hébert. Tu le connais peut-être pour ses publications dans son journal « Le Père Duchesne », où il a révélé et critiqué les méfaits des politiciens, des aristocrates et du clergé. Aujourd'hui, c'est lui qui est accusé de détournement de fonds publics, de trahison et d'incitation à la violence.
+$FAB_018_DOC_01_01
+Nous connaissons tous l'histoire de la pauvreté qu'a connue Hébert avant la Révolution. Ses possessions ont maintenant étonnamment grandi, ce qui est prouvé par son <a name="2" class="hidden">mode de vie luxueux</a>. Nous n'avons pu déterminer la source de ses richesses illégales, mais comme vous le savez le citoyen Robespierre a fait pression sur nous.
+$FAB_018_DOC_01_02
+Ensuite viennent les accusations de trahison et d'incitation à la rébellion de masse. Sur ce sujet, les preuves ont été plus faciles à fournir. Robespierre a porté une grande attention au journal de Hébert à cause de ses attaques intransigeantes envers les députés de la Convention. Il les a accusés de corruption, de trahison et même de meurtre, mais le langage utilisé suggérait que ses sources n'étaient la plupart du temps que des rumeurs ou des suppositions masquées par <a name="4" class="hidden">l'écriture vulgaire</a> qu'il utilisait afin de rendre ses écrits attirants pour les ignares. L'accusé a souvent déclaré que ses articles présentaient le point de vue de la Commune de Paris qui, comme nous le savons, est majoritairement composée de personnes incapables de lire et d'écrire correctement. Il est donc plus probable que, de cette façon, il les ait manipulés afin d'atteindre ses propres objectifs. Il a alimenté leur agitation afin de garder sous sa coupe ceux qui auraient pu se retourner contre lui. Nous savons bien de quoi est capable une foule si on l'encourage. Les membres de la Commune sont aussi <a name="5" class="hidden">fébriles</a> depuis un certain temps, car la vie à Paris est maintenant devenue calme, la justice prévaut, et il n'est plus nécessaire d'attraper des passants au hasard pour mettre leur tête au bout d'une pique.
+$FAB_018_DOC_01_03
+Les actions récentes de Hébert qui a, avec Danton, défié Robespierre, semblent confirmer que l'agressivité de l'accusé a un <a name="6" class="hidden">objectif politique</a>. Si c'est le cas, nous devons nous demander pourquoi il est prêt à sacrifier le bien de la France pour servir ses propres intérêts, et pourquoi il s'attaque à un grand homme d'État comme Robespierre. Voilà d'où vient <a name="7" class="hidden">l'accusation de trahison</a>.
+$FAB_018_OnStart_00
+Je te prie de te présenter, citoyen.
+$FAB_018_OnStart_01
+Quel culot ! Espèce de traître !
+$FAB_018_OnStart_02
+Cesse immédiatement d'employer ce ton !
+$FAB_018_OnStart_03
+Je veux que tout le monde sache que moi, Jacques Hébert, j'ai été trahi !
+$FAB_018_OnStart_04
+Au moins nous avons maintenant ton nom…
+$FAB_018_OnGuilty_00
+Je condamne le citoyen Hébert à être guillotiné !
+$FAB_018_OnGuilty_01
+J'espère que tes autres alliés se souviendront de la facilité avec laquelle tu trahis…
+$FAB_018_OnGuilty_02
+Guillotinons ce traître !
+$FAB_018_OnGuilty_03
+Tuez-le ! Tuez-le ! Tuez-le !
+$FAB_018_OnNotGuilty_00
+Hébert est innocent. Je ne vois là aucune preuve de ses crimes.
+$FAB_018_OnNotGuilty_01
+La raison a triomphé !
+$FAB_018_OnNotGuilty_02
+Robespierre va nous tuer…
+$FAB_018_OnNotGuilty_03
+Ils sont tous de mèche pour s'acquitter comme ça.
+$FAB_018_01x04_00_QTitle
+Quelle était la raison de ton style d'écriture dans Le Père Duchesne ?
+$FAB_018_01x04_00_00
+Quelle était la raison de ton style d'écriture dans Le Père Duchesne ?
+$FAB_018_01x04_00_01
+Il faut choquer les gens pour les faire réfléchir et agir. C'est ce que j'ai essayé de faire. Je n'ai jamais trompé mes lecteurs, tout le monde connaissait mon style d'écriture.
+$FAB_018_01x04_00_02
+Mais peut-être as-tu trompé ta conscience, qui t'appelait à plus de tempérance et à ne pas injustement blesser autrui !
+$FAB_018_01x04_00_03
+Ma conscience est plus légère que la vôtre, sinon je ne serais pas ici ! Chacun d'entre vous mérite son propre article complet !
+$FAB_018_01x04_00_04
+Je parie qu'ils seraient aussi vulgaires que le reste !
+$FAB_018_01x04_00_05
+Mais le peuple se retournerait contre vous de toute sa puissance, sans aucune pitié. La ville serait nettoyée en une heure. Encore une fois.
+$FAB_018_01x04_00_06
+Il a raison !
+$FAB_018_01x04_00_07
+On sait comment faire, hein, François ?
+$FAB_018_01x05_01_QTitle
+La France t'accuse d'avoir utilisé ton journal pour provoquer des émeutes. Qu'as-tu à répondre à cela ?
+$FAB_018_01x05_01_00
+La France t'accuse d'avoir utilisé ton journal pour provoquer des émeutes. Qu'as-tu à répondre à cela ?
+$FAB_018_01x05_01_01
+Ce sont des criminels qui m'accusent, pas la France.
+$FAB_018_01x05_01_02
+Tu prends tes rêves pour la réalité, Hébert. C'est impressionnant.
+$FAB_018_01x05_01_03
+La France ne m'accuserait pas, parce que je suis son fils adoré. Le seul qui n'a pas encore abandonné ses idéaux. Le seul qui n'a pas plié l'échine sous le poids des revendications. Le seul…
+$FAB_018_01x05_01_04
+Silence. On a assez entendu ta propagande.
+$FAB_018_01x05_01_05
+S'il y a des émeutes, elles sont dues aux traîtres corrompus, pas à ceux qui révèlent la vérité.
+$FAB_018_01x05_01_06
+Tant que ce qu'ils révèlent est effectivement la vérité, et non leur propre version embellie des événements.
+$FAB_018_01x05_01_07
+C'est ce que l'on appelle la libre communication d'idées et d'opinions, et personne ne peut nous enlever ce privilège !
+$FAB_018_02x07_02_QTitle
+Où as-tu obtenu l'argent qui t'a permis de mener un train de vie aussi somptueux ?
+$FAB_018_02x07_02_00
+Où as-tu obtenu l'argent qui t'a permis de mener un train de vie aussi somptueux ?
+$FAB_018_02x07_02_01
+Somptueux ? C'est uniquement lorsqu'on le compare à ma pauvreté passée que cela donne une telle impression.
+$FAB_018_02x07_02_02
+Une bonne excuse, mais tu t'habilles et tu manges mieux que les gens ordinaires et on te voit souvent en compagnie de dignitaires.
+$FAB_018_02x07_02_03
+N'était-ce pas là le but de la Révolution ? Que les pauvres puissent vivre dignement ? J'ai été extrêmement pauvre par le passé.
+$FAB_018_02x07_02_04
+Le citoyen Robespierre t'accuse d'avoir volé l'argent ou de l'avoir reçu de puissances étrangères.
+$FAB_018_02x07_02_05
+Et où est Robespierre, hein ? Il est bien tranquille à l'hôtel de ville, entouré par ses assassins et laquais, occupé à terroriser la ville ! Il lance vraiment les accusations les plus idiotes !
+$FAB_018_02x07_02_06
+Mais tu admets avoir par le passé détourné de l'argent public quand tu travaillais dans un théâtre.
+$FAB_018_02x07_02_07
+J'ai payé pour cela depuis bien longtemps. Je me suis converti et j'ai abandonné les péchés de ma jeunesse.
+$FAB_018_03x04_03_QTitle
+Ne penses-tu pas que le style de tes articles était loin de respecter la dignité de la Convention ?
+$FAB_018_03x04_03_00
+Ne penses-tu pas que le style de tes articles était loin de respecter la dignité de la Convention ?
+$FAB_018_03x04_03_01
+Eh bien, la dignité de la Convention dépend de l'honnêteté de ses députés, moi y compris.
+$FAB_018_03x04_03_02
+Le citoyen Robespierre t'a accusé de corrompre des politiciens. Il déclare aussi que tes articles étaient publiés dans Le Père Duchesne lorsqu'il y avait un risque que tes manigances soient dévoilées.
+$FAB_018_03x04_03_03
+C'est absurde !
+$FAB_018_03x04_03_04
+Dès que quelqu'un essayait d'approfondir un sujet, tu publiais un article pour t'exclure de la liste des suspects !
+$FAB_018_03x04_03_05
+Le nies-tu ?
+$FAB_018_03x04_03_06
+Bien sûr… Je n'ai jamais… C'est absolument ridicule ! Quiconque aime la France ne croira jamais à ma culpabilité !
+$FAB_018_03x06_04_QTitle
+On soupçonne tes attaques d'être influencées par des questions politiques, et non par l'intérêt du pays.
+$FAB_018_03x06_04_00
+On soupçonne tes attaques d'être influencées par des questions politiques, et non par l'intérêt du pays.
+$FAB_018_03x06_04_01
+La politique est un jeu répugnant, mais cette souillure ne m'a pas encore touché.
+$FAB_018_03x06_04_02
+Que veux-tu dire ?
+$FAB_018_03x06_04_03
+Je n'ai jamais été intéressé par les articles politiques. C'est le bonheur des citoyens qui avait le plus d'importance pour moi.
+$FAB_018_03x06_04_04
+Et tu n'as jamais envié à Robespierre sa position ou le respect dont les gens font montre envers lui ?
+$FAB_018_03x06_04_05
+Non, car il ne le mérite pas. Je le mérite, car je l'ai gagné !
+$FAB_018_03x06_04_06
+Mais c'est son nom qui restera dans les livres d'histoire, Hébert, pas le tien.
+$FAB_018_03x06_04_07
+…
+$FAB_018_03x06_04_08
+Est-ce que l'accusé a quelque chose à répondre ?
+$FAB_018_03x06_04_09
+Robespierre n'a aucun talent, et il n'est qu'un cafard ! C'est moi qui mérite de la reconnaissance, et je l'ai ! Le peuple est de mon côté !
+$FAB_018_03x06_04_10
+Mais le peuple ne te suivra pas sur la guillotine.
+$FAB_018_04x05_05_QTitle
+Quel genre de personnes constituent l'essentiel du lectorat de ton journal ?
+$FAB_018_04x05_05_00
+Quel genre de personnes constituent l'essentiel du lectorat de ton journal ?
+$FAB_018_04x05_05_01
+Il s'agit pour la plupart de ceux qui sont ignorés et méprisés : les pauvres, les illettrés, ceux qui portent la Révolution sur leurs épaules.
+$FAB_018_04x05_05_02
+Tes articles sont donc destinés à ceux qui sont facilement manipulés ?
+$FAB_018_04x05_05_03
+J'écris pour ceux dont l'esprit n'est pas rempli des mensonges murmurés par les traîtres, ceux qui n'ont pas été emprisonnés dans la toile d'araignée des tromperies et des faveurs échangées.
+$FAB_018_04x05_05_04
+Ceux qui, si besoin, pourraient être poussés à se battre contre la Convention ?
+$FAB_018_04x05_05_05
+L'honnêteté et l'ouverture dont je fais preuve dans mes articles me mettent hors de tout soupçon d'activités subversives. Mes lecteurs me connaissent bien.
+$FAB_018_04x05_05_06
+Mais n'as-tu pas une fois perdu un procès pour diffamation, Hébert ?
+$FAB_018_04x05_05_07
+C'était il y a longtemps.
+$FAB_018_07x06_06_QTitle
+Quel pays t'a donné l'ordre de provoquer des violences populaires ?
+$FAB_018_07x06_06_00
+Quel pays t'a donné l'ordre de provoquer des violences populaires ?
+$FAB_018_07x06_06_01
+Aucun, je ne sers que la France.
+$FAB_018_07x06_06_02
+Mais une attaque ouverte de Robespierre alors que les gens meurent de faim dans les rues, cela peut difficilement être interprété comme étant pour le bien de ton pays.
+$FAB_018_07x06_06_03
+C'est à cause de Robespierre que les gens meurent de faim ! Et de plus, vous m'avez soutenu dans cette attaque !
+$FAB_018_07x06_06_04
+Pour le bien de la France.
+$FAB_018_07x06_06_05
+Vous voyez ! Bande de scélérats ! Vous chantez tous le même refrain que moi quand on vous y pousse. Si je suis coupable, alors vous n'êtes que des enfants du démon !
+$FAB_018_KEY_01
+Le journal de l'accusé
+$FAB_018_KEY_02
+Train de vie dispendieux
+$FAB_018_KEY_03
+Attaques des députés
+$FAB_018_KEY_04
+Vulgarité des articles
+$FAB_018_KEY_05
+Tendance à provoquer des troubles
+$FAB_018_KEY_06
+Ses attaques auraient un but politique
+$FAB_018_KEY_07
+Trahison
+$FAB_018_LastDialog_00
+Tu te crois malin ? Mais bientôt tu finiras à ma place, tu verras !
+$FAB_018_UNIQUE_QUESTION_00
+Quel point de vue le prévenu présentait-il dans son journal ?
+$FAB_018_UNIQUE_ANSWER_CORRECT_00_00
+La Commune de Paris.
+$FAB_018_UNIQUE_ANSWER_NOT_CORRECT_00_00
+La Convention nationale.
+$FAB_018_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Les Jacobins.
+$FAB_018_UNIQUE_QUESTION_01
+Comment le prévenu explique-t-il son somptueux train de vie ?
+$FAB_018_UNIQUE_ANSWER_CORRECT_01_00
+Il estime qu'il n'était pas somptueux.
+$FAB_018_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Par un héritage.
+$FAB_018_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il affirme que les bénéfices du journal le lui permettent.
+$FAB_018_UNIQUE_QUESTION_02
+Qui était le lectorat visé par ses articles provocateurs ?
+$FAB_018_UNIQUE_ANSWER_CORRECT_02_00
+Les pauvres sachant plus ou moins lire.
+$FAB_018_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Les députés de la Convention.
+$FAB_018_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Quiconque voulant bien les lire.

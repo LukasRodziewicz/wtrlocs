@@ -1,0 +1,72 @@
+$INTRIGUE_TITLE_003
+Jean-Baptiste Gobel
+$INTRIGUE_003_DESC
+Gobel uznał cię za zagrożenie, po tym jak rozprawiłeś się z małżeństwem Rolandów i merem Paryża. Dla hierarchy burdel Rolandów był ważnym punktem pozyskiwania informacji i pieniędzy, a pozycja mera w przypadku Pache’a zapewniała kontrolę nad miastem. To właśnie arcybiskup zaplanował zamach na ciebie, a potem na twojego syna i zmusił Rolandów oraz Pache’a do uczestnictwa w zbrodniach.
+
+$INTR_003_B01_TITLE
+Donos o dziecku Gobela
+$INTR_003_B01_DESC
+Informacja o nieślubnym dziecku arcybiskupa powinna przestać być tajemnicą. W naszym interesie jest, by te plotki trafiły do uszu prokuratora Tinville’a, ale również zwykłych paryżan.
+
+$INTR_003_B02_TITLE
+Śledztwo Tinville’a
+$INTR_003_B02_DESC
+Miejmy nadzieję, że plotki poruszyły wyobraźnię Tinville’a na tyle, by rozpoczął oficjalne śledztwo w sprawie Gobela. Ważne, żeby rzucić cień podejrzeń na arcybiskupa wśród deputowanych, którzy się go boją. Pokazać, że arcybiskup ma słaby punkt.
+
+$INTR_003_B03_TITLE
+Syn Gobela wychodzi z ukrycia
+$INTR_003_B03_DESC
+Niejaki Gérard Boutin ogłosił pod katedrą Notre Dame, że to on jest nieślubnym dzieckiem arcybiskupa, krzyczał o matce, która dogorywa w przytułku. Młody człowiek zebrał wokół siebie grupę sympatyków, dla których Gobel jest symbolem znienawidzonego kleru. Interesujący człowiek z tego Boutina – swoim wystąpieniem narobi więcej zamieszania, niż my bylibyśmy w stanie. Spróbuję zaprosić go na rozmowę, choćby po to, by potwierdzić, że jest tym, za kogo się podaje.
+
+$INTR_003_B04_TITLE
+Kompromitujący podwładni
+$INTR_003_B04_DESC
+Pora poszukać zgniłych jabłek w sadzie Gobela. Jeśli ujawnimy ciemne sprawki jego podwładnych, to podkopiemy zaufanie ludu do arcybiskupa. Z powodu powstania w Wandei kler jest pod ciągłym ostrzałem tych, którzy w Kościele upatrują winnych rebelii.
+
+$INTR_003_B05_TITLE
+Aresztowanie księży i przemowa do ludu
+$INTR_003_B05_DESC
+Pora zaatakować! Aresztujmy czarne owce ze stada arcybiskupa. Po tym już nie ma sensu się ukrywać, możesz wyjść na ulicę i otwarcie rzucić mu wyzwanie. Będziesz jednak potrzebował tarczy – ludu Paryża. Musisz rozpalić ogień w ich sercach!
+
+$INTR_003_B06_TITLE
+Zdobycie poparcia Konwentu
+$INTR_003_B06_DESC
+Atak na konstytucyjnego duchownego nie uda się nawet z poparciem ludu, jeśli nie poprze nas jedyny organ, przed którym Gobel będzie musiał zgiąć kark. Nie możemy zostawić Konwentowi innego wyboru niż odwrócenie się od kleru. Bez tego Gobel będzie nie do ruszenia – Kościół wytrzymywał gniew wiernych przez stulecia. Uginał się tylko przed warknięciem władzy.
+
+$INTR_003_B07_TITLE
+Gobel robi woltę
+$INTR_003_B07_DESC
+Gobel się wywinął. Podczas obrad Konwentu oświadczył, że zrzeka się święceń, by stać się zwykłym obywatelem. Wykrzykiwał, że brzydzi się korupcją kleru i jego moralnym zepsuciem. Niespodziewanie wtórował mu Hébert, który uczynił z Gobela twarz swojego ugrupowania. „Spontanicznie” zgromadzony tłum wiwatował na cześć apostaty. Były arcybiskup jednym ruchem załatwił sobie poparcie ulicy i Konwentu. Przechytrzył Cię. Nadto Hébert ogłosił, że są z Gobelem w posiadaniu listy 73 deputowanych i oficjeli, którzy skazili się korupcją lub są agentami obcych mocarstw. Uczynił przy tym wyraźną aluzję do Robespierre’a, mówiąc, że nie ma osób nieskazitelnych. Dają winnym pięć dni na opuszczenie kraju – po tym czasie ujawnią listę. Coś mi się wydaje, że znajdzie się na niej miejsce również dla Ciebie…
+
+$INTR_003_B08_TITLE
+Syn Odrzucony
+$INTR_003_B08_DESC
+Gobel odciął się od przeszłości jednym ruchem. Gérard Boutin chciał stawić mu czoła osobiście, ale były już arcybiskup przepędził go, nazywając oszustem i zdrajcą. Wątpliwe, by teraz przyznał się do ojcostwa. Boutin został sam, a nasz plan wciągnięcia go w intrygę jest guzik wart.
+
+$INTR_003_BLOCK_001_PATH_STR
+Clovis przetrząśnie miejskie rynsztoki i kilku bezdomnym siłą każe rozpuścić plotki o Gobelu.
+$INTR_003_BLOCK_001_PATH_DIP
+David opowie o naszych rewelacjach kilku wysoko postawionym kompanom od kart.
+$INTR_003_BLOCK_001_PATH_ESP
+Kilku paryskich typków spod ciemnej gwiazdy jest winnych Ramelowi przysługę – wykorzystajmy to.
+
+$INTR_003_BLOCK_001_PATH_STR_FAILURE
+Problem z ludźmi z rynsztoków jest taki, że mają mało kontaktów w wyższych sferach, a te były najbardziej potrzebne do tego zadania…
+$INTR_003_BLOCK_001_PATH_DIP_FAILURE
+Duże ilości alkoholu sprawiły, że wszyscy uznali plotkę o domniemanym ojcostwie Gobela za przedni żart naszego dyplomaty. Śmiali się do rozpuku.
+$INTR_003_BLOCK_001_PATH_ESP_FAILURE
+Przeceniliśmy wartość honoru w środowisku Ramela. Mało kto kiwnął palcem w naszej sprawie…
+
+$INTR_003_BLOCK_004_PATH_STR
+Z całą pewnością potrząśnięcie kilkoma tchórzliwszymi eksksiężmi pozwoli poznać część skrywanych przez Gobela tajemnic.
+$INTR_003_BLOCK_004_PATH_DIP
+Deputowani Konwentu muszą coś wiedzieć, nie wybraliby Gobela na arcybiskupa, nie mając na niego jakichś haków.
+$INTR_003_BLOCK_004_PATH_ESP
+Nie włączajmy do tych poszukiwań obcych ludzi. Ramel sam wyśledzi tych, którzy za daleko odeszli od stada.
+
+$INTR_003_BLOCK_004_PATH_STR_FAILURE
+Mężczyźni zmuszeni do porzucenia kapłaństwa okazali się nad wyraz odporni na siłowe argumenty. Nikt nie pisnął ani słówka.
+$INTR_003_BLOCK_004_PATH_DIP_FAILURE
+Jeśli nawet deputowani coś wiedzą, to nie oddadzą tak po prostu swojej karty przetargowej. Nic z tego.
+$INTR_003_BLOCK_004_PATH_ESP_FAILURE
+Ramel zawiódł – najwidoczniej Kościół doskonale zaciera ślady swoich grzeszków. Twój szpieg nie znalazł niczego, co nadawałoby się na oskarżenie.

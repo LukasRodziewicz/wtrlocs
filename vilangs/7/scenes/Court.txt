@@ -1,0 +1,240 @@
+$MENTOR_HELP_AVAIBLE_TIP1
+멘토의 도움에는 <color="#ff0000">{0} 영향력 포인트</color>가 필요합니다
+$MENTOR_HELP_NOT_ENOUGH
+영향력 포인트가 부족합니다.
+$GUILTY_RAW
+유죄
+$NOTGUILTY_RAW
+무죄
+$SIGNATURE_TIP
+판결을 집행하려면 문서에 서명하십시오.
+$VERDICT_SELECT
+평결을 선택하십시오:
+$GUILTY_VERDICT_MALE
+피고인을 유죄로 인정하며, 사형을 선고합니다.
+$PRISON_VERDICT_MALE
+피고인을 유죄로 인정하며 징역형을 선고합니다.
+$NOTGUILTY_VERDICT_MALE
+피고인은 무죄임을 선고합니다.
+$GUILTY_VERDICT_FEMALE
+피고인을 유죄로 인정하며, 그녀에게 사형을 선고합니다.
+$PRISON_VERDICT_FEMALE
+피고인을 유죄로 인정하며, 그녀에게 징역형을 선고합니다.
+$NOTGUILTY_VERDICT_FEMALE
+피고인은 무죄입니다.
+$CASE_FILES
+사건 파일
+$VERDICT
+평결
+$PROTOCOL
+의정서
+$VERDICT_FORM
+평결 양식
+$NEWSPAPER
+신문
+$EVENT_ITEM
+뉴스
+$JURY_ON_START_DISEBLE_01
+이 사건은 우리가 관여할 만큼 중요하지 않습니다. 알아서 처리하십시오.
+$JURY_ON_END_TOO_FAST_01
+평결이라고? 벌써?! 재판은 어떻게 된 거지?
+$JURY_ON_END_DISAGREE_01
+우리가 무슨 말을 해도 소용이 있습니까? 앞으로는 우리 의견을 무시하지 마십시오!
+$GROUP_ATTITUDE_HEADER
+평결이 각 진영에 미치는 영향
+$PROSECUTOR_PROTOCOL_SIGNED
+검사가 당신의 보고서에 서명했습니다.
+$PROSECUTOR_PROTOCOL_UNSIGNED_DISABLE
+검사에게 받은 청탁이 없습니다.
+$PROSECUTOR_PROTOCOL_UNSIGNED_ENABLE
+검사에게 신세를 갚으라고 요구하십시오.
+$JURY_HEADER
+배심원 의견
+$JURY_SUPPORT_HIGH
+우호적
+$JURY_SUPPORT_NEUTRAL
+중립
+$JURY_SUPPORT_LOW
+적대적
+$JURY_SENTENCE
+배심원 의견
+$JURY_SENTENCE_GUILTY
+배심원 의견: 사형
+$JURY_SENTENCE_PRISON
+배심원 의견: 징역
+$JURY_SENTENCE_NOT_GUILTY
+배심원 의견: 무죄
+$JURY_SENTENCE_HIDDEN
+배심원단이 아직 평결을 내리지 않았습니다.
+$JURY_NO_SENTENCE
+배심원단은 이 사건에 대해 의견이 없습니다.
+$JURY_SUPPORT
+배심원의 호의
+$KEYWORD_MATCH_SUCCESS
+질문이 발견됨
+$KEYWORD_MATCH_FAILURE
+잘못된 링크
+$KEYWORD_MATCH_TRAP
+덫에 걸렸다
+$KEYWORD_NO_MORE_CONNECTIONS
+모든 기회를 다 사용했습니다
+$KEYWORD_ALL_CONNECTIONS_UNLOCKED
+모든 질문이 해제되었습니다
+$KEYWORD_LOCKED_INFORMATION
+미발견
+$DIALOG_SENTENCE_ICON_TIP
+배심원 의견에 대한 영향
+$DISMISS_WITNESS
+증인을 퇴장시키기
+$VERDICT_HEADER_FIRST
+혁명 재판소
+$VERDICT_HEADER_SECOND
+혁명파
+$MENTOR_FIRSTAGGRESSIONTUTORIAL
+조심하십시오. 민심이 불안합니다. 배심원과 검사에게 영향력을 행사할 수는 있지만, 판결을 미루면 미룰수록 그에 따른 결과가 더 심각해질 수 있습니다.
+$VERDICTWINDOW_JURY_NONE_MALE
+배심원단이 아직 평결에 이르지 못했습니다. 더 많은 질문을 하십시오.
+$VERDICTWINDOW_JURY_GUILTY_MALE
+배심원단이 피고의 즉각적인 참수를 찬성하는 쪽에 표를 던졌습니다.
+$VERDICTWINDOW_JURY_NOTGUILTY_MALE
+배심원단이 피고인의 무죄를 인정하며 석방에 찬성표를 던졌습니다.
+$VERDICTWINDOW_JURY_PRISON_MALE
+배심원단은 피고의 구금에 찬성표를 던졌습니다. 그들은 이 처벌이 충분하다고 판단합니다.
+$VERDICTWINDOW_JURY_NONE_FEMALE
+배심원단이 아직 평결에 이르지 못했습니다. 질문을 더 하십시오.
+$VERDICTWINDOW_JURY_GUILTY_FEMALE
+배심원단이 피고인의 즉각적인 참수를 찬성하는 표를 던졌습니다.
+$VERDICTWINDOW_JURY_NOTGUILTY_FEMALE
+배심원단이 피고인의 무죄를 인정하며 석방에 찬성표를 던졌습니다. 그들은 그녀가 결백하다고 판단했습니다.
+$VERDICTWINDOW_JURY_PRISON_FEMALE
+배심원단이 피고의 구금에 찬성표를 던졌습니다. 그들은 이 처벌이 충분하다고 판단합니다.
+$VERDICTWINDOW_JURY_SUPPORT
+배심원
+$VERDICTWINDOW_PROSECUTOR_SUPPORT
+검사
+$TRIAL_SUMMARY
+재판 요약
+$UNLOCKED_QUESTIONS
+해금된 질문: {0}/{1}
+$VERDICTWINDOW_GROUP_HEADER
+정보
+$STARTING_TRIAL_DIALOG_HEADER
+재판 시작
+$VERDICT_HEADER
+혁명 재판소
+$AUDIENCE_ATTITUDE_TOOLTIP_0
+사람들이 기뻐하고 있습니다
+$AUDIENCE_ATTITUDE_TOOLTIP_1
+사람들이 차분합니다
+$AUDIENCE_ATTITUDE_TOOLTIP_2
+사람들이 불안해하고 있습니다
+$AUDIENCE_ATTITUDE_TOOLTIP_3
+사람들이 짜증을 내고 있습니다
+$AUDIENCE_ATTITUDE_TOOLTIP_4
+군중이 격앙되어 있습니다
+$VERDICTWINDOW_DESC_VERDICT_NOT_SELECTED
+평결을 선택하면 각 진영에 미치는 영향을 확인할 수 있습니다
+$VERDICTWINDOW_DESC_VERDICT_SELECTED
+평결의 결과는 세력 간의 관계에 따라 결정되었습니다
+$VERDICTWINDOW_NO_INFO_TIP
+정보 없음
+$VERDICTWINDOW_GAMEOVER_PEOPLE
+사망 위험
+$VERDICTWINDOW_GAMEOVER_REVO
+직위 박탈 위험
+$VERDICTWINDOW_ADDITIONAL_REPUTATION
+평판 보너스.
+$VERDICTWINDOW_UNLOCK_FROM_MAP_MISSION_TOOLTIP
+지도에서 해제됨
+$VERDICTWINDOW_GROUPCHANGE_LOCKED_TOOLTIP
+영향력을 확인하려면 해당 세력과의 관계가 더 높아야 합니다
+$DIALOG_HUB_HEADER
+피고인에게 묻는 질문
+$WITNESS_QUESTIONS_HUB_HEADER
+증인에게 할 질문
+$KEYWORD_LOCKED_TOOLTIP
+사건 파일을 검토하여 잠금 해제
+$DESIRED_VERDICT_PANEL_HEADER
+예상 선고
+$PROTOCOL_QUIZ_SUMMARY_CORRECT
+정답
+$PROTOCOL_QUIZ_SUMMARY_INCORRECT
+오답입니다
+$PROTOCOL_QUIZ_MENTOR_BUTTON_NOT_ENOUGHT
+영향력 포인트가 부족합니다
+$PROTOCOL_QUIZ_MENTOR_BUTTON_ACTIVE
+멘토의 도움을 <color="#ff0000">{0} IP</color>로 받기
+$PROTOCOL_QUIZ_PROSECUTOR_BUTTON_INACTIVE
+검사의 호의를 사용할 수 없습니다
+$PROTOCOL_SUMMARY_RESULT_TITLE
+보고 결과:
+$SUMMARY_EFFECTS
+효과
+$SUMMARY_ATTITUDE_POSSITIVE
+긍정적인 영향
+$SUMMARY_ATTITUDE_NO_CHANGE
+영향 없음
+$SUMMARY_ATTITUDE_NEGATIVE
+부정적 영향
+$PROTOCOL_QUIZ_TITLE
+보고서
+$PROTOCOL_RESULT_WORST
+{0}/{1} 끔찍한 일입니다!
+$PROTOCOL_RESULT_BAD
+{0}/{1} 형편없는 결과입니다!
+$PROTOCOL_RESULT_GOOD
+{0}/{1} 잘했어요!
+$PROTOCOL_REASON_01
+잘못된 선택입니다.
+$PROTOCOL_SIGNATURE_TOOLTIP
+보고서를 승인합니다.
+#FAMILY
+가족
+$VERDICT_RELATIONSHIP_HEADER
+판사의 보고서
+$PROTOCOL_JURY_SENTENCE_CHANGE_TOOLTIP
+배심원의 결정 변경:
+$PROTOCOL_QUIZ_JUDGE_SIGNATURE
+판사의 서명
+$PROTOCOL_QUIZ_PROSECUTOR_SIGNATURE
+검사의 서명
+$JURY_EFFECT_HEADER
+배심원의 영향:
+$PROSECUTOR_QUEST_MAIN
+어제 주사위 게임에서 진 거, 아직 나한테 빚진 거 기억나시죠? 제가 다시 상기시켜드릴까요?
+$PROSECUTOR_QUEST_GUILTY
+피고인은 오늘 죽음을 맞이한다.
+$PROSECUTOR_QUEST_PRISON
+피고를 감옥에 보내길 원합니다.
+$PROSECUTOR_QUEST_NOT_GUILTY
+피고인을 석방합시다!
+$PROSECUTOR_BAD_QUIZ_POPUP
+이렇게 형편없는 보고서에는 서명하지 않겠습니다. 조심하십시오, 이 일로 단두대에 오를 수도 있으니!
+$VERDICT_LOCKED_TEXT
+이 사건에서는 사용할 수 없습니다
+$VERDICT_LOCKED_TEXT_BUILDING
+누군가 당신의 상관을 설득해 이 보고서는 시간 낭비라고 여겼습니다.
+$FLASHCARDS_DISABLED_TOOLTIP
+신속 판결은 아직 사용할 수 없습니다
+$GUILTY_VERDICT_PROLOG
+피고인은 해당 혐의에 대해 유죄임을 선고합니다.
+$FLASHCARDS_PROSECUTOR_ENTER
+오늘은 사소한 사건 몇 건만 처리하면 됩니다.
+$FLASHCARDS_PROSECUTOR_EXIT
+감사합니다. 힘없는 이들 또한 정의를 누릴 자격이 있습니다.
+$QUIZ_DIALOG_SOURCE_LOCKED_TOOLTIP
+심문 중에 해당 주제는 언급되지 않았습니다.
+$KEYWORDVIEW_NUMBER_OF_CHANGES
+가능한 실수
+$KEYWORDVIEW_NUMBER_OF_TRAPS
+함정 개수
+$KEYWORD_VIEW_NUMBER_OF_QUESTIONS_LEFT
+남은 질문 수: {0}
+$KEYWORD_VIEW_BUTTON_TOOLTIP
+질문 잠금 해제
+$VERDICT_FLASHCARDS_EMPTY_LABEL
+오늘은 더 이상 처리할 사건이 없습니다.
+$MAIN_SECTION_MILESTONE_TITLE
+미완성 건축물
+$MAIN_SECTION_MILESTONE_MAIN
+당신은 조각상 건설을 제때 완료하겠다는 의무를 지키지 못했습니다. 파리는 실망했습니다.

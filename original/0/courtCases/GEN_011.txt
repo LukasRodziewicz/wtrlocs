@@ -1,0 +1,271 @@
+$GEN_011_DOC_01_HEADER
+Sporządził: Pierre Daquin
+$GEN_011_DOC_01_00
+	Markiz de Favras, 46-letni arystokrata, <a name="1" class="hidden">były wojskowy</a>, aktualnie działacz polityczny przejawiający <a name="2" class="hidden">sympatię do monarchii</a>. Po odejściu z armii wziął ślub i podróżował w towarzystwie <a name="3" class="hidden">małżonki</a> po Europie, gdzie realizował się politycznie, a także <a name="4" class="hidden">wspierał</a> swoją żonę w jej działalności. W 1789 roku wrócił do Paryża i wplątał się w <a name="6" class="hidden">spisek</a> mający na celu zakończyć rewolucję. Niestety dla siebie, de Favras wtajemniczył w całą sprawę dawnych towarzyszy z wojska, którzy zdradzili go, donosząc władzy.
+$GEN_011_DOC_01_01
+	De Favras miał odegrać skromną rolę podczas ucieczki obywatela Ludwika Capeta z Francji. Spiskowcy zlecili mu zdobycie pożyczki w wysokości <a name="7" class="hidden">2 milionów franków</a>. Pieniądze te miały pokryć liczne wydatki króla i jego rodziny w drodze do granic Francji.  
+$GEN_011_DOC_01_02
+	Zgodnie z planem spiskowców do stolicy miało wkroczyć 30 tysięcy żołnierzy, z rozkazem zamordowania trzech liderów politycznych: Jacques’a Neckera, mera Paryża Jeana-Nicolasa Pache’a oraz komendanta paryskiej Gwardii Narodowej François Hanriota. Następnym krokiem było zablokowanie dostaw żywności dla Paryża.
+$GEN_011_DOC_01_03
+	De Favras oraz jego żona zostali złapani i oskarżeni o spisek przeciwko ludowi Francji, jak również rewolucji. Grozi im niemal pewna kara śmierci. Hrabia Prowansji wyparł się jakichkolwiek kontaktów z tą parą.
+$GEN_011_DOC_01_04
+Dowody:
+<a name="10" class="hidden">List</a> od M. de Foucault: 
+$GEN_011_DOC_02_TOOLTIP
+List od m. De Foucault
+$GEN_011_DOC_02_00
+De Favras, gdzie są Twoje oddziały, skąd wyruszą na Paryż?
+Chcę do nich dołączyć.
+$GEN_011_DOC_2_SUBHEADER
+<a name="10">List</a> od m. De Foucault,
+$GEN_011_DOC_2_MAIN
+De Favras, gdzie są Twoje oddziały, skąd wyruszą na Paryż?
+Chcę do nich dołączyć.
+$GEN_011_OnStart_00
+Proszę się przedstawić.
+$GEN_011_OnStart_01
+Jestem Thomas de Mahy, markiz de Favras.
+$GEN_011_OnStart_02
+Markizie de Favras, został pan oskarżony o udział w spisku przeciwko ludowi francuskiemu.
+$GEN_011_OnStart_03
+Nie rozumiem – w jaki sposób zarzucane mi czyny szkodzą ludowi francuskiemu?
+$GEN_011_OnStart_04
+Chcieliście powrotu dawnego ustroju, wraz z wyzyskiem, głodem i nędzą.
+$GEN_011_OnStart_05
+Dobrze mówi!
+$GEN_011_OnStart_06
+Markizie, zebrany materiał dowodowy w postaci zeznań pańskich oficerów mówi jasno, że nadrzędnym celem było obalenie rewolucji.
+$GEN_011_OnStart_07
+Jestem bardzo ciekaw tych konkretnych dowodów, które świadczą przeciw mnie.
+$GEN_011_OnStart_08
+Bezczelny człowiek!
+$GEN_011_OnGuilty_00
+Obywatel Thomas de Mahy, markiz de Favras, zostaje skazany na śmierć! Wyprowadzić skazanego.
+$GEN_011_OnGuilty_01
+O jedną głowę bliżej zwycięstwa.
+$GEN_011_OnGuilty_02
+Sprawiedliwy werdykt!
+$GEN_011_OnGuilty_03
+Tak kończą wrogowie rewolucji!
+$GEN_011_OnPrison_00
+Skazuję obywatela Thomasa de Mahy, markiza de Favras na więzienie! Wyprowadzić skazanego.
+$GEN_011_OnPrison_01
+Nie, nie i jeszcze raz nie. Wrogowie rewolucji powinni kończyć na gilotynie!
+$GEN_011_OnPrison_02
+Ten sędzia zwariował!
+$GEN_011_OnNotGuilty_00
+Wyrok w sprawie Thomasa de Mahy, Markiza de Favras brzmi: niewinny! Wyprowadzić skazanego.
+$GEN_011_OnNotGuilty_01
+Nie, nie i jeszcze raz nie. Wrogowie rewolucji powinni kończyć na gilotynie!
+$GEN_011_OnNotGuilty_02
+Sędzia wrogiem rewolucji!
+$GEN_011_OnNotGuilty_03
+Nie zapomnimy ci tego!
+$GEN_011_06x07_00_QTitle
+W jakim celu chciał pan podjąć 2 miliony franków? To niebotyczna suma, markizie.
+$GEN_011_06x07_00_00
+W jakim celu chciał pan podjąć 2 miliony franków? To niebotyczna suma, markizie.
+$GEN_011_06x07_00_01
+Podjąłem je na prośbę mojego byłego pracodawcy, hrabiego Prowansji. A w jakim celu? Nie miałem śmiałości pytać.
+$GEN_011_06x07_00_02
+Jak można pożyczać tak dużo pieniędzy dla obcego człowieka i nie zapytać, po co?
+$GEN_011_06x07_00_03
+To oczywiste kłamstwo, przy pożyczaniu pieniędzy trzeba podać takie informacje!
+$GEN_011_06x07_00_04
+Nasze relacje w arystokratycznych kręgach oparte są na zaufaniu i dyskrecji. Nie zrozumiecie tego.
+$GEN_011_06x07_00_05
+Kpina!
+$GEN_011_06x07_00_06
+Dwóch pańskich oficerów zeznało, że miały to być pieniądze przeznaczone na wywiezienie króla Ludwika XVI i jego rodziny z Francji. Dlaczego opowiedział pan o tym swoim oficerom?
+$GEN_011_06x07_00_07
+Pytanie, z jakiej przyczyny oni zeznali coś takiego przeciwko mnie – moim zdaniem to ktoś inny spiskuje. I to ja mam być ofiarą, a nie rewolucja.
+$GEN_011_06x07_00_08
+Próbuje się wyłgać, zdrajca!
+$GEN_011_02x09_01_QTitle
+Co pana łączy z hrabią Prowansji, bratem Ludwika XVI...
+$GEN_011_02x09_01_00
+Co pana łączy z hrabią Prowansji, bratem Ludwika XVI, Louisem Stanislasem Xavierem Burbonem?
+$GEN_011_02x09_01_01
+Byłem porucznikiem Gwardii Szwajcarskiej na dworze hrabiego.
+$GEN_011_02x09_01_02
+Więc hrabia ma do pana zaufanie?
+$GEN_011_02x09_01_03
+Nieskromnie przyznam, że jestem człowiekiem godnym zaufania i szacunku.
+$GEN_011_02x09_01_04
+Lud Francji raczej nie potwierdzi pańskich słów, szykowaliście zamach przeciwko niemu.
+$GEN_011_02x09_01_05
+To jedynie wasze domniemania.
+$GEN_011_02x09_01_06
+Starczy, żeby cię ściąć, gnido!
+$GEN_011_02x09_01_07
+Ależ proszę się uspokoić!
+$GEN_011_08x10_02_QTitle
+Kim jest tajemniczy M. de Foucault, od którego otrzymał pan list...
+$GEN_011_08x10_02_00
+Kim jest tajemniczy M. de Foucault, od którego otrzymał pan list w sprawie pańskich oddziałów?
+$GEN_011_08x10_02_01
+Nie znam nikogo takiego. Przecież ktokolwiek może napisać do mnie list w jakiejkolwiek sprawie i o jakiejkolwiek treści.
+$GEN_011_08x10_02_02
+Nie zaniepokoiła was treść tego „przypadkowego” listu?
+$GEN_011_08x10_02_03
+To zwykły bełkot.
+$GEN_011_08x10_02_04
+Uczciwy obywatel powinien to zgłosić.
+$GEN_011_08x10_02_05
+Nie przyszło mi to do głowy. Nawet nie wiem, co ten człowiek miał na myśli.
+$GEN_011_08x10_02_06
+A czy nie chodzi o oddziały, które miały wejść do Paryża po uratowaniu króla Ludwika i zakończyć rewolucję?
+$GEN_011_08x10_02_07
+Żaden oddział nie przebywa aktualnie pod moim dowództwem. Ten list, jak i oskarżenie, że miałbym wysłać do Paryża jakiekolwiek wojsko, to poważna nadinterpretacja.
+$GEN_011_08x10_02_08
+Kto jak nie on? Pies łańcuchowy Burbonów.
+$GEN_011_08x10_02_09
+Proszę powiedzieć: czy 2 miliony franków to odpowiednia kwota, by wynająć 30 tysięcy żołnierzy piechoty?
+$GEN_011_08x10_02_10
+Nie da się ukryć, że aż nadto.
+$GEN_011_01x02_03_QTitle
+Jaki jest pański stosunek do rewolucji?
+$GEN_011_01x02_03_00
+Jaki jest pański stosunek do rewolucji?
+$GEN_011_01x02_03_01
+Reformy państwa były konieczne, wszyscy to widzą, ale przemoc? Nagły brutalny napad na rodzinę królewską nie jest rewolucją, ale raczej zemstą.
+$GEN_011_01x02_03_02
+Czyli jest pan przeciwny rewolucji?
+$GEN_011_01x02_03_03
+Jestem rozczarowany jej przebiegiem. Jako były już wojskowy wiem, że przemoc i wojna zawsze rodzą tylko nienawiść, a w konsekwencji jeszcze więcej przemocy.
+$GEN_011_01x02_03_04
+A mimo to szykował się oskarżony do zajęcia miasta siłą?
+$GEN_011_01x02_03_05
+Niczego mi nie udowodniono.
+$GEN_011_01x02_03_06
+Gdyby go nie złapali, ulice Paryża spłynęłyby krwią!
+$GEN_011_01x02_03_07
+Bzdury! Ludzie, co wy wygadujecie?
+$GEN_011_01x02_03_08
+Proszę się uspokoić! Markizie de Favras, musi pan wiedzieć, iż pańskie stanowisko wobec rewolucji czyni pana w oczach ludu zdrajcą stanu.
+$GEN_011_01x02_03_09
+To przykre, że można nazwać kogoś zdrajcą stanu i skazać na śmierć za kilka słów prawdy.
+$GEN_011_03x05_04_QTitle
+Jakie kraje oskarżony odwiedził podczas swoich podróży z małżonką po Europie?
+$GEN_011_03x05_04_00
+Jakie kraje oskarżony odwiedził podczas swoich podróży z małżonką po Europie?
+$GEN_011_03x05_04_01
+Polskę, a raczej to, co z niej zostało, Austrię, Węgry…
+$GEN_011_03x05_04_02
+Skąd taki wybór? Czyżbyście szukali katolickich sprzymierzeńców dla Ludwika Capeta?
+$GEN_011_03x05_04_03
+Interesowały nas raczej urokliwe widoki i dobre jedzenie.
+$GEN_011_03x05_04_04
+Z kim się spotykaliście w trakcie tych misji?
+$GEN_011_03x05_04_05
+To nie były żadne misje. Rozmawialiśmy z setkami osób, nie będę ich tutaj wymieniał.
+$GEN_011_03x05_04_06
+Pewnie, że nie będzie, boby się wsypał.
+$GEN_011_03x04_05_QTitle
+Czym się zajmuje pańska małżonka?
+$GEN_011_03x04_05_00
+Czym się zajmuje pańska małżonka?
+$GEN_011_03x04_05_01
+Obecnie niczym. W rodzinnej Austrii próbowała sił w polityce.
+$GEN_011_03x04_05_02
+Z jakim skutkiem?
+$GEN_011_03x04_05_03
+Cóż, chyba niewielkim, skoro ostatecznie wróciliśmy do Francji.
+$GEN_011_03x04_05_04
+To może oznaczać również sukces, jeśli zostaliście agentami wrogiego państwa.
+$GEN_011_03x04_05_05
+Można to zinterpretować jakkolwiek. O ile lubi się bajki, oczywiście.
+$GEN_011_01x03_06_QTitle
+Dlaczego zakończył pan karierę wojskową?
+$GEN_011_01x03_06_00
+Dlaczego zakończył pan karierę wojskową?
+$GEN_011_01x03_06_01
+Wziąłem ślub. To był jedyny powód.
+$GEN_011_01x03_06_02
+Wielu wojskowych jest żonatych i im to nie przeszkadza.
+$GEN_011_01x03_06_03
+Moja małżonka bała się o me życie i przekonała mnie, że już dość długo służyłem krajowi.
+$GEN_011_01x03_06_04
+Tyś to służył Capetowi i jego klice.
+$GEN_011_06x09_07_QTitle
+Proszę wezwać świadka, Ludwika Burbona.
+$GEN_011_06x09_07_00
+Proszę wezwać świadka, Ludwika Burbona.
+$GEN_011_06x09_07_02
+Proszę się przedstawić.
+$GEN_011_06x09_07_03
+Nazywam się Ludwik Stanisław Ksawery Burbon. Jestem hrabią Prowansji i bratem Ludwika Capeta.
+$GEN_011_06x09_07_04
+No proszę – braciszek zdrajcy!
+$GEN_011_WIT_00_A_QTitle
+Jak wyglądały pańskie stosunki z bratem przed jego śmiercią?
+$GEN_011_WIT_00_A_00
+Jak wyglądały pańskie stosunki z bratem przed jego śmiercią?
+$GEN_011_WIT_00_A_01
+Mieliśmy odmienne poglądy na temat aktualnych wydarzeń we Francji, więc i nasze stosunki trzeba nazwać ni mniej, ni więcej jak chłodnymi.
+$GEN_011_WIT_00_A_02
+Czyli mam rozumieć, że wasze poglądy na temat rewolucji były również odmienne?
+$GEN_011_WIT_00_A_03
+Tak, ja uważam, że rewolucja jest potrzebna.
+$GEN_011_WIT_00_A_04
+A kiedy życie Ludwika, pańskiego brata, było zagrożone? Czemu pan nie zainterweniował?
+$GEN_011_WIT_00_A_05
+Namawiałem go do ustąpienia i zaakceptowania rewolucji. On jednak był uparty i poniósł konsekwencje swoich czynów.
+$GEN_011_WIT_00_B_QTitle
+Co pan wie na temat spisku, w którym wziął udział markiz de Favras?
+$GEN_011_WIT_00_B_00
+Co pan wie na temat spisku, w którym wziął udział markiz de Favras?
+$GEN_011_WIT_00_B_01
+Wiem od bankowców Schaumela i Sartoriusa, że de Favras negocjował pożyczkę w wysokości 2 milionów franków. 
+$GEN_011_WIT_00_B_02
+Powiedzieli, na co oskarżonemu były tak wielkie pieniądze?
+$GEN_011_WIT_00_B_03
+Nie, nie mówili o tym, a ja nie pytałem. Nie jestem wścibski.
+$GEN_011_WIT_00_B_04
+Czy hrabia miał z tym coś wspólnego?
+$GEN_011_WIT_00_B_05
+Dowiedziałem się o tej pożyczce tylko dlatego, że Schaumel i Sartorius to moi dobrzy znajomi. Powtórzę to, co powiedziałem przed Radą Miejską Paryża: nie mam nic wspólnego ze spiskiem markiza de Favras, a jeśli jest on winny, powinien zostać skazany, by nie zagrażać rewolucji, z którą zgadzam się całym swym sercem.
+$GEN_011_KEY_01
+Były wojskowy
+$GEN_011_KEY_02
+Sympatia do monarchii
+$GEN_011_KEY_03
+Żona oskarżonego
+$GEN_011_KEY_04
+Wsparcie dla małżonki
+$GEN_011_KEY_05
+Powrót do Paryża
+$GEN_011_KEY_06
+Spisek
+$GEN_011_KEY_07
+Pożyczka
+$GEN_011_KEY_08
+Najemnicy
+$GEN_011_KEY_09
+Hrabia Prowansji
+$GEN_011_KEY_10
+List
+
+$GEN_011_LastDialog_00
+Niech żyje król i monarchia!
+
+$GEN_011_UNIQUE_QUESTION_01
+Jaki jest stosunek oskarżonego do rewolucji?
+$GEN_011_UNIQUE_ANSWER_CORRECT_01_00
+Popiera ruch, ale nie metody.
+$GEN_011_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Nie jest jej przychylny.
+$GEN_011_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Całkowicie popiera.
+
+$GEN_011_UNIQUE_QUESTION_02
+Na co miało zostać wydane pożyczone 2 miliony franków?
+$GEN_011_UNIQUE_ANSWER_CORRECT_02_00
+Na wydatki króla podczas ucieczki zagranicę.
+$GEN_011_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Na kupienie przychylności króla Hiszpanii.
+$GEN_011_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Na opłacenie poparcia księcia Yorku.
+
+
+

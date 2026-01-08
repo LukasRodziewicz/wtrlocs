@@ -1,0 +1,74 @@
+$CUT_054_JUDGE_001
+Bürger! Abgeordnete!
+$CUT_054_JUDGE_002
+Wer stimmt für die Verhaftung Robespierres?!
+$DISC_INTR_005_B12_KONWENT_001_JUDGE_AGGR
+Robespierre hat jeglichen Bezug zur Realität verloren. Wäre er ein ehrenhafter Mann, hätte er sich längst den Behörden gestellt. Doch er ist ein tollwütiger Hund, bereit, sich um jeden Preis zu verteidigen, und gleichgültig gegenüber all dem Leid, das er über die Menschen bringt!
+$DISC_INTR_005_B12_KONWENT_002_JUDGE_MANI
+Wie viele Menschen müssen noch leiden, bis wir diese Bestie aufhalten? Für ihn zählt nur die Macht!
+$DISC_INTR_005_B12_KONWENT_003_JUDGE_JOKE
+Vielleicht mache ich mir zu viele Sorgen. Ja, das ist möglich. Aber für mich ist klar, dass Robespierre die Beherrschung verloren hat. Wir müssen ihn zur Ruhe bringen!
+$DISC_INTR_005_B12_KONWENT_004_JUDGE_HUMI
+Wenn der Konvent nicht bald erkennt, was geschieht, werden Menschen sterben. Franzosen, die wir zu schützen geschworen haben. Unser wiedergeborenes Land wird nur noch von Leichen bewohnt sein.
+$DISC_INTR_005_B12_KONWENT_005_KONWENT_INTR
+Ist Robespierre jetzt Ihr neues Ziel?
+$DISC_INTR_005_B12_KONWENT_006_KONWENT_DOUB
+Wer soll denn eure Streitigkeiten durchschauen? Da müsste man schon ein wahrer Gelehrter sein!
+$DISC_INTR_005_B12_KONWENT_007_KONWENT_IRRI
+Ihr seid beide wie tollwütige Hunde. Ein kleiner Anstoß genügt, und ihr fangt an zu bellen und zu knurren.
+$DISC_INTR_005_B12_KONWENT_008_JUDGE_AGGR
+Wie lange wollen Sie noch warten, bis Robespierre auch Sie ins Visier nimmt?! Er hat bereits Danton und Hébert ausgeschaltet, nur weil sie es wagten, sich ihm zu widersetzen!
+$DISC_INTR_005_B12_KONWENT_009_JUDGE_MANI
+Robespierre sagte mir einmal: „Der Terror ist nichts anderes als Gerechtigkeit – schnell, streng, unbeugsam.“ Verstehen Sie?! Das ist seine Überzeugung. Für ihn gibt es keinen anderen Weg, als Frankreich im Blut zu ertränken!
+$DISC_INTR_005_B12_KONWENT_010_JUDGE_JOKE
+Anfangs haben Danton und Hébert die Bedrohung ebenso ignoriert wie Sie. Doch plötzlich tauchten Beweise für ihre Verbrechen auf. Natürlich von Robespierre gefälscht! Nur zu, warten Sie ruhig auf Ihre eigene Abrechnung!
+$DISC_INTR_005_B12_KONWENT_011_JUDGE_HUMI
+Wir dürfen die Nationalversammlung nicht verlieren. Doch genau das wird geschehen, wenn Robespierre weiterhin Paris in Angst und Schrecken versetzt! Früher oder später wirst du dich ihm widersetzen – und dann teilst du das Schicksal von Danton und Hébert!
+$DISC_INTR_005_B12_KONWENT_012_KONWENT_INTR
+Maximilien mag sich vielleicht etwas verrannt haben, aber es muss doch eine angemessenere Strafe für ihn geben als die Guillotine!
+$DISC_INTR_005_B12_KONWENT_013_KONWENT_DOUB
+Wir alle machen Fehler. Robespierre ist da keine Ausnahme. Wir können ihn noch auf den richtigen Weg bringen!
+$DISC_INTR_005_B12_KONWENT_014_KONWENT_IRRI
+Nur Monarchen lassen Menschen für den kleinsten Fehler köpfen! Die Revolution sollte verdienten Bürgern eine zweite Chance geben. Und Robespierre ist zweifellos einer von ihnen!
+$DISC_INTR_005_B12_KONWENT_015_JUDGE_AGGR
+Wen wollt ihr verschonen? Einen Verräter? Robespierre hat einen Pakt mit Clément Renard geschlossen – dem Anführer einer royalistischen Verschwörung, der ich schon lange auf der Spur bin! Sie wollen die Monarchie in Frankreich wiederherstellen. Wollt ihr ihn immer noch retten, ihr Narren?
+$DISC_INTR_005_B12_KONWENT_016_JUDGE_MANI
+Schon seit Langem verfolge ich die Machenschaften der Aristokraten unter der Führung von Clément Renard. Diese Verräter wollen die Monarchie in Frankreich wiederherstellen. Und was noch schlimmer ist: Robespierre unterstützt sie dabei. Daher kann ich wirklich nicht nachvollziehen, geschätzte Kollegen, warum Sie ihm eine zweite Chance geben wollen!
+$DISC_INTR_005_B12_KONWENT_017_JUDGE_JOKE
+Natürlich, gebt ihm doch noch eine Chance – eine zweite, dritte, zehnte sogar! Und währenddessen treiben er und Clément Renard ihre aristokratische Intrige weiter voran! Es stimmt! Ich habe ihn schon eine Weile beobachtet. Er will nichts sehnlicher, als die Monarchie wiederherzustellen! Wer von euch glaubt denn, dass er euch dann noch eine Chance geben wird?!
+$DISC_INTR_005_B12_KONWENT_018_JUDGE_HUMI
+Frankreich hat die Revolution mit dem Blut seiner Bürger bezahlt. Nun führt Clément Renard eine aristokratische Verschwörung an, um die Monarchie wiederherzustellen. Und Robespierre unterstützt ihn dabei! Meine verehrten Abgeordneten, Frankreich wird erneut im Blut versinken, wenn wir diesem Verräter vergeben.
+$DISC_INTR_005_B12_KONWENT_019_JUDGE_AGGR
+Während wir hier gemütlich bei Wein und Gebäck plaudern, rekrutiert Hanriot in der Kommune Leute, die bereit sind, das Rathaus und Robespierre zu verteidigen! Vielleicht sollten wir uns die Zeit mit einem Würfelspiel vertreiben, solange wir hier sitzen?!
+$DISC_INTR_005_B12_KONWENT_020_JUDGE_MANI
+Hanriot stellt im Auftrag Robespierres eine Armee auf, die Paris übernehmen wird. Niemand wird ihm widerstehen können. Wenn er glaubt, jemand habe auch nur ein Komma gegen ihn geschrieben, muss dieser Mensch sterben. Alles, was er tun muss, ist nach der Macht zu greifen.
+$DISC_INTR_005_B12_KONWENT_021_JUDGE_JOKE
+Ich habe gehört, dass Hanriot in der Kommune nach Leuten sucht, die bereit sind, seiner Armee beizutreten und Robespierre zu verteidigen. Ich muss zugeben, an Selbstüberschätzung und Übermut mangelt es ihnen nicht.
+$DISC_INTR_005_B12_KONWENT_022_JUDGE_HUMI
+Ich bedaure all jene armen Menschen, die auf Hanriots schöne Worte hereinfallen. Der Kommandant stellt eine Armee auf, die gegen den Konvent marschieren wird. Diese elenden Seelen werden für seine Verbrechen sterben.
+$DISC_INTR_005_B12_KONWENT_023_JUDGE_AGGR
+Nur ein Schwachkopf könnte nicht erkennen, dass die Armee zuerst die Konvention angreifen wird. Sie müssen ihre kostbaren Positionen sichern!
+$DISC_INTR_005_B12_KONWENT_024_JUDGE_MANI
+Die Abgeordneten des Konvents werden erst angesichts der Guillotine erwachen. Erst dann werden sie begreifen, was längst offensichtlich sein sollte: Hanriot und Robespierre werden sie angreifen, sobald sie genügend Anhänger um sich geschart haben.
+$DISC_INTR_005_B12_KONWENT_025_JUDGE_JOKE
+Vielleicht sollten wir Robespierre einfach auf die Konvention marschieren lassen? Wenn die Abgeordneten die Lage offensichtlich nicht begreifen, sollen sie doch das Schicksal jener Narren teilen, die bereits unter der Guillotine endeten.
+$DISC_INTR_005_B12_KONWENT_026_JUDGE_HUMI
+Robespierre wird sie unterwerfen. Er wird sie in die Enge treiben mit wütenden Narren, bewaffnet mit Säbeln und Musketen – Narren, die glauben, sie wüssten Bescheid. Frankreich und die Revolution werden mit den Abgeordneten des Konvents sterben.
+$DISC_INTR_005_B12_KONWENT_027_KONWENT_INTR
+Der Richter hat recht!
+$DISC_INTR_005_B12_KONWENT_028_KONWENT_DOUB
+Robespierre mag ein Schurke sein, aber das reicht nicht aus, um ihn zum Tode zu verurteilen!
+$DISC_INTR_005_B12_KONWENT_029_KONWENT_IRRI
+Bitte klären Sie Ihre Streitigkeiten. Wir haben vor, die Revolution zu überleben!
+$DISC_INTR_005_B12_KONWENT_030_SUCCESS_JUDGE
+Wer stimmt für die Verhaftung Robespierres?!
+$DISC_INTR_005_B12_KONWENT_TOPIC_01
+Robespierre ist ein tollwütiger Hund.
+$DISC_INTR_005_B12_KONWENT_TOPIC_02
+Er ist dem Schrecken verfallen.
+$DISC_INTR_005_B12_KONWENT_TOPIC_03
+Robespierre schloss sich einer Intrige der Aristokraten an.
+$DISC_INTR_005_B12_KONWENT_TOPIC_04
+Hanriot stellt für ihn eine Armee auf.
+$DISC_INTR_005_B12_KONWENT_TOPIC_05
+Der Konvent muss die Erlaubnis erteilen – zu seinem eigenen Wohl.

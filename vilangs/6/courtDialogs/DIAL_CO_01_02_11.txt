@@ -1,0 +1,18 @@
+$DIAL_CO_01_02_11_001_ROLAND
+Me llamo Jean-Marie Roland. Mi nombre no debería serle desconocido; al fin y al cabo, usted se limpió los zapatos con él durante el juicio al rey Luis.
+$DIAL_CO_01_02_11_002_JUDGE
+Ciudadano Capeto, no rey…
+$DIAL_CO_01_02_11_003_ROLAND
+El rey Luis-Augusto Borbón, duque de Berry. Por culpa de tus medias verdades y especulaciones, todos claman por mi cabeza. ¡Me acusan de corrupción y traición! Mientras tú usabas nuestras espaldas como peldaños para escalar en la jerarquía social.
+$DIAL_CO_01_02_11_004_JUDGE
+Corromper a los políticos no siempre sale bien. Danton lo logró, Molleville lo intentó, pero a ti te atraparon. Sucede.
+$DIAL_CO_01_02_11_005_ROLAND
+Probablemente me destituirán de mi cargo. Incluso podría acabar en la guillotina. ¡Pero me aseguraré de que tu cabeza ruede justo después de la mía! ¡Serás mi compañero en la desgracia!
+$DIAL_CO_01_02_11_006_JUDGE
+Amenazar a un juez del Tribunal es una idea aún peor que apoyar a un rey despreciado o corromper a los políticos de la Convención.
+$DIAL_CO_01_02_11_007_ROLAND
+Me desharé de su candidato a Capitán de la Guardia. Después, iré por usted.
+$DIAL_CO_01_02_11_008_ROLAND
+¡A mi esposa y a mí nos costó demasiado llegar hasta aquí! ¡No pienso morir por culpa de un gusano borracho que se hace llamar juez!
+$DIAL_CO_01_02_11_009_ROLAND
+¡Vas a ver cómo libramos la guerra en los salones de París, perro traidor!

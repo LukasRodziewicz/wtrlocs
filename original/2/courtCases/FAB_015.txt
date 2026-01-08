@@ -1,0 +1,286 @@
+$FAB_015_DOC_01_HEADER
+Compilé par : Charles Étienne
+$FAB_015_DOC_01_00
+Avant la Révolution, Claude Fauchet avait des responsabilités très importantes dans l'Église. En tant qu'aumônier du roi, il était proche de Louis Capet, et en tant qu'archidiacre, il avait un pouvoir certain et des privilèges que la majorité des Français ignorent.
+$FAB_015_DOC_01_01
+Le cardinal a senti le vent tourner, et a décidé qu'il avait plus intérêt à se ranger du côté du peuple. Il a participé à la  <a name="3" class="hidden">prise de la Bastille</a>, pendant laquelle il a été vu armé en première ligne. Plus tard, en tant qu'évêque constitutionnel du Calvados et député de la Convention, il a fait partie des responsables des <a name="4" class="hidden">massacres de Septembre</a>.
+$FAB_015_DOC_01_02
+Lors du procès du citoyen Capet, que l'accusé connaissait personnellement, il a voté pour la prison et non la mort. Lorsque le scélérat a été guillotiné, il a ouvertement protesté cette exécution dans le Journal des amis de la Constitution.
+$FAB_015_DOC_01_03
+Lors des derniers jours de l'insurrection de Caen, des fragments <a name="6" class="hidden">d'articles</a> de Fauchet ont été découverts dans les affaires personnelles de Joseph-Geneviève de Puisaye, un des chefs du soulèvement. En enquêtant sur les officiers emprisonnés, il a été confirmé que l'évêque avait ouvertement soutenu la révolte.
+$FAB_015_DOC_01_04
+Lors d'une fouille de la résidence de l'accusé, nous avons découvert <a name="7" class="hidden">une importante quantité d'or</a>, un cellier plein de vin et les restes d'un somptueux <a name="8" class="hidden">dîner pour seize personnes</a>. Nous n'avons pas pu déterminer l'origine des richesses accumulées par le prêtre, ou l'identité de ceux qui se joignaient à lui lors de ses festins immoraux et incontrôlés.
+$FAB_015_DOC_02_00
+Fragments d'articles de Claude Fauchet, trouvés en possession de Puisaye :
+$FAB_015_DOC_02_01
+Il est naturel que dans un pays d'égalité et de fraternité, aucune des régions ou villes ne puisse exercer d'autorité sur les autres parties de la France. <a name="9" class="hidden">La Convention</a> a déjà joué son rôle dans l'Histoire, et je pense qu'il est dorénavant nécessaire de la remplacer par des parlements ou comités régionaux. Un état fondé sur la souveraineté du peuple doit fonctionner avec des autorités <a name="10" class="hidden">locales</a> et non centrales.
+$FAB_015_OnStart_00
+Citoyen, donne ton nom pour le greffe.
+$FAB_015_OnStart_01
+Claude Fauchet.
+$FAB_015_OnStart_02
+Seulement ? Pas « évêque Fauchet » ?
+$FAB_015_OnStart_03
+Tu m'as demandé mon nom.
+$FAB_015_OnStart_04
+Tu es accusé d'avoir soutenu un soulèvement antirépublicain.
+$FAB_015_OnStart_05
+Je soutiens la liberté des Français à décider de leur destin. Si c'est un crime, alors j'admets en être coupable.
+$FAB_015_OnStart_06
+Il est des nôtres, il était à la Bastille, je l'ai vu !
+$FAB_015_OnStart_07
+Même si cette liberté conduit à des guerres fratricides ?
+$FAB_015_OnStart_08
+De ce que j'en sais, c'est la Convention qui a envoyé l'armée dans le nord, pas les fédéralistes normands qui ont envoyé leurs soldats à Paris.
+$FAB_015_OnGuilty_00
+Pour avoir soutenu un soulèvement antirévolutionnaire, pour monarchisme et pour avoir profité d'une fonction d'état pour acquérir illégalement des biens, je condamne l'évêque Fauchet à mort.
+$FAB_015_OnGuilty_01
+C'est un jugement historique. Nous nettoyons la France des reliques de son ancien pouvoir.
+$FAB_015_OnGuilty_02
+On veut du sang !
+$FAB_015_OnGuilty_03
+Tous les évêques à la guillotine !
+$FAB_015_OnGuilty_04
+Écrasez ce parasite !
+$FAB_015_OnNotGuilty_00
+Il n'y a pas de raison de croire l'évêque Fauchet coupable. Tu es libre.
+$FAB_015_OnNotGuilty_01
+Cette relique de l'ancien temps devrait mourir, comme Louis !
+$FAB_015_OnNotGuilty_02
+Le juge est aussi royaliste ?
+$FAB_015_OnNotGuilty_03
+Je jure que ce laquais est à deux doigts de s'agenouiller devant l'évêque !
+$FAB_015_01x05_00_QTitle
+Étais-tu aumônier du roi à Versailles avant la Révolution ?
+$FAB_015_01x05_00_00
+Étais-tu aumônier du roi à Versailles avant la Révolution ?
+$FAB_015_01x05_00_01
+J'étais le prêtre royal.
+$FAB_015_01x05_00_02
+Et plus tard, tu as voté pour décider du sort du citoyen Capet, n'est-ce pas ?
+$FAB_015_01x05_00_03
+En effet.
+$FAB_015_01x05_00_04
+Dis-moi, est-ce que ton lien personnel avec lui a influencé ton vote ?
+$FAB_015_01x05_00_05
+Je sais que personne ne me croira si je dis que non. Oui, cela a eu une influence, même si je ne le connaissais que de vue et lui avais rarement parlé.
+$FAB_015_01x05_00_06
+As-tu voté contre son exécution ?
+$FAB_015_01x05_00_07
+Un chien de royaliste.
+$FAB_015_01x05_00_08
+Je parie que ça lui manque de s'éclater la panse à Versailles.
+$FAB_015_01x05_00_09
+Je n'ai pas voté pour sa mort, mais c'était pour le bien de tous.
+$FAB_015_01x05_00_10
+Pourquoi donc ?
+$FAB_015_01x05_00_11
+Un roi en prison, et je parle d'une vraie prison, pas d'une assignation à résidence, ne pose plus aucune menace, non ?
+$FAB_015_01x05_00_12
+Tu dis que connaître Louis a influencé ta décision. Si tu ne l'avais pas connu, aurais-tu voté pour qu'on le décapite ?
+$FAB_015_01x05_00_13
+Oui, et j'aurais fait une erreur. J'ai été à la cour, et j'ai vu que les monarques d'Europe ont plus de solidarité entre eux qu'envers leurs propres sujets.
+$FAB_015_01x03_01_QTitle
+Comment se fait-il qu'un archidiacre abandonne un poste si confortable…
+$FAB_015_01x03_01_00
+Comment se fait-il qu'un archidiacre abandonne un poste si confortable et prenne la tête de la révolte du peuple ?
+$FAB_015_01x03_01_01
+Je n'ai jamais fait mystère de mes idées politiques dans mes sermons, et à cause d'eux j'ai perdu ma position à la cour.
+$FAB_015_01x03_01_02
+Tu as donc pris le parti du peuple, car ni Louis ni les nobles ne voulaient plus de toi ?
+$FAB_015_01x03_01_03
+Non, c'est parce que j'ai pris le parti du peuple qu'ils n'ont plus voulu de moi. Tu confonds la cause avec l'effet.
+$FAB_015_01x03_01_04
+Tu peux toujours le présenter comme tu veux maintenant. Restons-en aux faits.
+$FAB_015_01x03_01_05
+Bien sûr. Que souhaitez-vous savoir ?
+$FAB_015_01x03_01_06
+Es-tu resté à la cour jusqu'à ton renvoi ?
+$FAB_015_01x03_01_07
+Je suis resté à la cour dans l'intérêt du peuple ! Souviens-toi à quoi ressemblait la France en ce temps ! Personne ne faisait rien, et j'ai essayé de convaincre le roi et la cour qu'ils devaient partager le pouvoir avec le peuple !
+$FAB_015_01x03_01_08
+Tu t'es gavé et tu as bu du bon vin, et maintenant tu inventes des histoires.
+$FAB_015_02x07_02_QTitle
+Une grande quantité d'or a été retrouvée dans ton palais. D'où vient-il ?
+$FAB_015_02x07_02_00
+Une grande quantité d'or a été retrouvée dans ton palais. D'où vient-il ?
+$FAB_015_02x07_02_01
+Cette grande quantité n'existe que dans tes dossiers.
+$FAB_015_02x07_02_02
+Que veux-tu dire ?
+$FAB_015_02x07_02_03
+Je possède une certaine quantité de bijoux en or qui sont ma source de revenus. Les autres objets appartiennent à ma foi : une croix et un calice. C'est tout.
+$FAB_015_02x07_02_04
+Heureusement que tu n'as pas précisé tes « modestes revenus ». En tant qu'aumônier du roi, tu as dû acquérir des richesses considérables. Plus tard, en tant qu'évêque et membre de la Convention, je suis persuadé que tu as eu beaucoup d'autres occasions de… t'enrichir.
+$FAB_015_02x07_02_05
+Bien sûr qu'il a volé ! C'est l'occasion qui fait le larron !
+$FAB_015_02x07_02_06
+Si tu as la moindre preuve de ma malhonnêteté à présenter au peuple, j'attendrai avec joie de les voir.
+$FAB_015_02x07_02_07
+Tu nies donc avoir profité de ta position pour en tirer des avantages personnels ?
+$FAB_015_02x07_02_08
+Pendant toutes ces années, je n'ai pas travaillé pour moi, mais pour le peuple !
+$FAB_015_06x02_03_QTitle
+Nous avons des preuves que tu soutenais les organisateurs du soulèvement en Normandie.
+$FAB_015_06x02_03_00
+Nous avons des preuves que tu soutenais les organisateurs du soulèvement en Normandie.
+$FAB_015_06x02_03_01
+Je soutiens la démocratie depuis des années, et ces gens souhaitaient la démocratie. Alors oui, on peut dire que nous partagions les mêmes… idéaux.
+$FAB_015_06x02_03_02
+La démocratie a déjà gagné ici, à Paris.
+$FAB_015_06x02_03_03
+Si tu trouves que l'on peut appeler démocratie une dizaine d'hommes à Paris qui prennent des décisions dans les couloirs impliquant l'avenir de millions, alors oui. Mais est-ce la France pour laquelle nous avons versé notre sang à la Bastille ? Je te laisse répondre à cette question toi-même.
+$FAB_015_06x02_03_04
+Il a raison. On a échangé un dictateur contre plusieurs.
+$FAB_015_06x02_03_05
+Tu admets donc avoir voulu changer le système républicain ?
+$FAB_015_06x02_03_06
+Peut-être est-ce ce que les insurgés souhaitaient faire. J'ai simplement écrit des articles et échangé avec des gens. Si vous interdisez cela, alors vous ne vaudrez pas mieux que Louis.
+$FAB_015_06x02_03_07
+Des articles qui ont fait couler du sang.
+$FAB_015_06x02_03_08
+Si nous n'avions pas fait couler de sang, nous n'aurions jamais renversé la monarchie, non ? Je n'approuve pas la violence, mais tu dois admettre que certains changements ne peuvent avoir lieu sans elle.
+$FAB_015_10x03_04_QTitle
+Tu as écrit qu'il fallait transférer l'autorité aux administrations locales.
+$FAB_015_10x03_04_00
+Tu as écrit qu'il fallait transférer l'autorité aux administrations locales.
+$FAB_015_10x03_04_01
+Cela serait juste.
+$FAB_015_10x03_04_02
+À présent, l'administrateur civil de Paris est l'archevêque Jean-Baptiste Gobel. Voulais-tu lui donner le pouvoir ?
+$FAB_015_10x03_04_03
+Peut-être. Si un comité local de Paris était établi, on pourrait l'appeler convention municipale, mais je ne vois pas bien où tu veux en venir.
+$FAB_015_10x03_04_04
+Est-ce que l'archevêque t'a ordonné de promouvoir les idées fédéralistes ? Les prêtres peuvent toucher de nombreuses personnes dans les campagnes. Ils pourraient facilement influencer les élections de tes soi-disant conseils, et l'archevêque tirerait les ficelles de tout cela.
+$FAB_015_10x03_04_05
+J'aimerais obtenir une réponse claire. As-tu soutenu la révolte armée contre Paris, et l'as-tu fait sous les ordres de Gobel ?
+$FAB_015_10x03_04_06
+Non et non.
+$FAB_015_10x03_04_07
+Connais-tu l'expression « cui prodest scelus is fecit » ? Cela veut dire « Celui-ci l’a fait à qui cela profite », et Gobel est celui qui aurait le plus tiré avantage de ton plan.
+$FAB_015_10x03_04_08
+Cela veut donc dire que celui qui tirerait le plus grand avantage de la chute de Gobel serait le coupable de cette campagne contre moi, si j'ai bien compris ?
+$FAB_015_09x06_05_QTitle
+Dans tes articles, tu as écrit que la Convention devrait être abolie.
+$FAB_015_09x06_05_00
+Dans tes articles, tu as écrit que la Convention devrait être abolie.
+$FAB_015_09x06_05_01
+Qu'elle devrait être remplacée, plutôt.
+$FAB_015_09x06_05_02
+La Convention n'a pas prévu de se dissoudre elle-même. Cela devrait donc se faire par la force, n'est-ce pas ?
+$FAB_015_09x06_05_03
+Je vous prie de réfléchir un instant. Si j'avais prévu un coup d'État, je n'aurais pas écrit des articles sur mon projet, j'aurais plutôt rassemblé des armes.
+$FAB_015_09x06_05_04
+Et pourtant, tu as aidé ceux qui l'avaient prévu.
+$FAB_015_09x06_05_05
+Ce gros porc du clergé voulait sans doute se remplir à nouveau la panse à la cour.
+$FAB_015_09x06_05_06
+Je ne sais pas d'où viennent vos informations, mais les seules lettres que j'ai écrites étaient destinées à de vieux amis du temps de la Révolution. Vous ne pouvez pas posséder de lettres où j'appelle à un soulèvement, car je n'ai jamais rien écrit de tel.
+$FAB_015_09x06_05_07
+Laisse-moi clarifier les choses : nous savons que tu as échangé des lettres avec des girondins, comme par exemple Puisaye.
+$FAB_015_09x06_05_08
+Je ne nie pas que nous nous connaissons.
+$FAB_015_09x06_05_09
+Comment expliques-tu avoir dans tes connaissances le chef d'une rébellion antirévolutionnaire ?
+$FAB_015_09x06_05_10
+Lorsque je l'ai rencontré pour la première fois, il n'était pas du tout rebelle.
+$FAB_015_09x06_05_11
+Alors tu es coupable de n'avoir pas informé la Convention de la rébellion prévue.
+$FAB_015_09x06_05_12
+Vous avez entendu ? Il est coupable !
+$FAB_015_07x08_06_QTitle
+Je crois bien que ta religion recommande de manger…
+$FAB_015_07x08_06_00
+Je crois bien que ta religion recommande de manger et boire avec modération, et ne pas accumuler de richesses.
+$FAB_015_07x08_06_01
+Comme il est écrit dans le livre saint, « Celui qui aime l'argent, n'est point assouvi par l'argent ; et celui qui aime un grand train, n'en est pas nourri. »
+$FAB_015_07x08_06_02
+Et pourtant tu menais grand train et profitais de nombreux plaisirs.
+$FAB_015_07x08_06_03
+Tu as vu ma salle à manger ?
+$FAB_015_07x08_06_04
+J'parie qu'elle est plus grande que ma maison entière.
+$FAB_015_07x08_06_05
+Non, mais d'après nos dossiers tu y organisais des festins somptueux.
+$FAB_015_07x08_06_06
+Saint Jean-Baptiste a dit : « Que celui qui a deux robes en donne une à celui qui n'en a point ; et que celui qui a de quoi manger en fasse de même. » J'ai une table qui peut asseoir seize personnes…
+$FAB_015_07x08_06_07
+Nous sommes censés partager notre nourriture avec les autres, et ma cuisine a toujours été ouverte à tous.
+$FAB_015_07x08_06_08
+Je pense que tes invités ne sont pas là de souffrir de la faim. N'aurait-il pas mieux valu partager avec ceux qui n'ont pas de pain à donner à leurs enfants ?
+$FAB_015_07x08_06_09
+Je me suis couché le ventre vide hier !
+$FAB_015_07x08_06_10
+Ce n'est pas de ma faute si les autorités actuelles ont plongé le peuple dans le dénuement.
+$FAB_015_04x01_07_QTitle
+Quel a été ton rôle lors des massacres de septembre dernier ?
+$FAB_015_04x01_07_00
+Quel a été ton rôle lors des massacres de septembre dernier ?
+$FAB_015_04x01_07_01
+J'ai prié pour toutes les victimes.
+$FAB_015_04x01_07_02
+N'était-ce pas sous le gouvernement des girondins ?
+$FAB_015_04x01_07_03
+C'était dans les rues, là où gouverne la foule.
+$FAB_015_04x01_07_04
+Tu étais girondin.
+$FAB_015_04x01_07_05
+On peut dire ça, mais je ne vois pas en quoi mes convictions politiques sont liées à l'assassinat de prêtres.
+$FAB_015_04x01_07_06
+Pourquoi seulement des prêtres ? Il n'y avait que peu de prêtres en proportion du grand nombre de gens du peuple qui furent tués.
+$FAB_015_04x01_07_07
+Peu ? Plus de deux cents furent abattus !
+$FAB_015_04x01_07_08
+Tu étais au pouvoir à ce moment-là. Qu'as-tu fait pour éviter les massacres ?
+$FAB_015_04x01_07_09
+Tes accusations ne sont que de la politique…
+$FAB_015_04x01_07_10
+Réponds à la question du procureur.
+$FAB_015_04x01_07_11
+Et qu'auriez-vous fait à ma place ? Si quelqu'un était là pour tuer et que je m'étais mis en travers de sa route, la seule différence aurait été un cadavre de plus.
+$FAB_015_KEY_01
+Aumônier du roi
+$FAB_015_KEY_02
+Privilèges
+$FAB_015_KEY_03
+Prise de la Bastille
+$FAB_015_KEY_04
+Massacres de Septembre
+$FAB_015_KEY_05
+Procès du citoyen Capet
+$FAB_015_KEY_06
+Articles
+$FAB_015_KEY_07
+Or
+$FAB_015_KEY_08
+Dîner somptueux
+$FAB_015_KEY_09
+Convention
+$FAB_015_KEY_10
+Autorités locales
+$FAB_015_LastDialog_00
+Je t'ai soutenu depuis le début, et c'est comme ça que tu me remercies ?
+$FAB_015_UNIQUE_QUESTION_01
+Quel était le rôle du prévenu à la cour du roi ?
+$FAB_015_UNIQUE_ANSWER_CORRECT_01_00
+Il était le prêtre royal.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Il était le conseiller du roi.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il était en charge du trésor.
+$FAB_015_UNIQUE_QUESTION_02
+Comment le prévenu explique-t-il ses liaisons avec les Girondins ?
+$FAB_015_UNIQUE_ANSWER_CORRECT_02_00
+C'est avec de vieux amis qu'il gardait contact, pas avec les politiciens.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Il faisait affaire avec certains d'entre eux.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Il essayait de les faire changer d'opinion politique.
+$FAB_015_UNIQUE_QUESTION_03
+Comment le prévenu explique-t-il être devenu aussi riche ?
+$FAB_015_UNIQUE_ANSWER_CORRECT_03_00
+Il affirme que les inspecteurs ont exagéré l'état de ses richesses.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Il ne l'explique pas. Il prétend que les effets précieux ont été placés chez lui à son insu.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Il a refusé tout commentaire.

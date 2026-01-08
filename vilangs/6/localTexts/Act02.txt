@@ -1,0 +1,57 @@
+#A02C1_D02_LETTER_MAIN
+El arzobispo Jean-Baptiste Gobel fue quien decidió la muerte de tu hijo. Debería ser tu próximo objetivo.
+#A02C1_D02_LETTER_SENDER
+Ramel
+$LETTER_H_02_01_01_001_HEADER
+A Alexis Fidèle,
+$LETTER_H_02_01_01_002_MAIN
+El Tribunal Revolucionario cumple a la perfección con su deber. La Convención está satisfecha con nuestros métodos para purificar Francia; sin embargo, las circunstancias actuales exigen que renueve su juramento de lealtad a la República. Mañana recibirá la visita de nuestro funcionario.
+$LETTER_H_02_01_01_003_SENDER
+Siempre suyo,
+Maximiliano Robespierre
+$LETTER_CO_02_01_02_MAIN
+Jean-Baptiste Gobel. Él es el responsable de la muerte de tu hijo.
+$LETTER_CO_02_01_02_SENDER
+Ramel
+$LETTER_H_02_01_03_001_START
+Como ciudadano de París y leal servidor de la Revolución, denuncio de forma anónima que…
+$LETTER_H_02_01_03_002_P1_BASE
+Denuncia
+$LETTER_H_02_01_03_002_P1_AGGR
+Ese cura mojigato de Gobel dejó embarazada a una muchacha y tuvo un hijo con ella. Por lo que sé, ya es un hombre hecho y derecho. Mientras tanto, Gobel da sermones sobre la moderación y la vida virtuosa. ¿Te lo puedes creer?
+$LETTER_H_02_01_03_003_P1_MANI
+Entre los jerarcas se esconde un pecador. El arzobispo Gobel tiene un hijo ilegítimo. Francia debía ser purgada de hombres como él.
+$LETTER_H_02_01_03_004_P1_JOKE
+El arzobispo Gobel se acostó con una joven y ella le dio un hijo. Dicen que vive en París, pero el arzobispo no lo sabe.
+$LETTER_H_02_01_03_005_P1_HUMI
+He oído que el arzobispo Gobel tiene un hijo ilegítimo, y que la madre vive en París. No soy quien para juzgar a los demás, pero esto no me parece correcto.
+$LETTER_H_02_01_03_006_P2_BASE
+La opinión del informante
+$LETTER_H_02_01_03_006_P2_AGGR
+Creo que a esos hipócritas de doble cara habría que cortarles la cabeza y clavarla en una pica, igual que a los defensores de la Bastilla.
+$LETTER_H_02_01_03_007_P2_MANI
+No podemos permitir que individuos así envenenen nuestra nueva sociedad después de tanto esfuerzo por edificarla sobre los cimientos de la verdad.
+$LETTER_H_02_01_03_008_P2_JOKE
+La verdad, me da igual con quién se acueste la gente o cuántas veces, mientras lo mantengan en silencio y no vayan dando lecciones a los demás.
+$LETTER_H_02_01_03_009_P2_HUMI
+Alguien debe encargarse de esto. ¿Acaso estas personas comprenden el daño que causan a nuestra sociedad?
+$INVITATION_CO_02_01_05_001_MAIN
+Estimado juez:
+Esta noche celebraremos un baile en las afueras de París. Hemos invitado solo a las mentes más brillantes de Francia, a lo mejor de nuestro país, y esperamos contar con su presencia. Mis asociados y yo tenemos algo que comunicarle... algo importante. El carruaje le aguardará fuera del tribunal.
+$INVITATION_CO_02_01_05_001_SENDER
+Clément Renard
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_001_MAIN
+Querido Alexis,
+No puedo seguir viviendo con el peso de un pecado que cometí sin querer. Hay algo que debo confesarte, Alexis. Estuve involucrado en la muerte del pequeño Frédéric. Se acercaron a mí personas que me dijeron que mi hijo, mi único hijo, había sido capturado en flagrante intento de deserción y esperaba la ejecución. Me mostraron pruebas y prometieron liberarlo a cambio de una descripción detallada de tu familia: vuestras costumbres, vuestras ideas. Les di algunos datos que parecían inofensivos y ellos los usaron para matar. Yo no quería esto; jamás he matado a nadie. Fueron ellos, pero la culpa no me deja en paz. No puedo seguir así, sentado en la misma habitación contigo, fingiendo que nada ha pasado. Solo me queda esperar que algún día puedas perdonarme, que comprendas que fui engañado. Siempre he sido tu amigo, Fidèle. Adiós, mi amigo.
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_002_SENDER
+Raymond Dévoyé
+$BROTHER_ARMY_POPUP_TITLE
+Advertencia
+$BROTHER_ARMY_POPUP_MAIN_01
+El ejército de tu hermano llegará en 4 días.
+$BROTHER_ARMY_POPUP_MAIN_02
+El ejército de tu hermano llegará en 3 días.
+$BROTHER_ARMY_POPUP_MAIN_03
+El ejército de tu hermano llegará en 2 días.
+$BROTHER_ARMY_POPUP_MAIN_04
+El ejército de tu hermano llegará mañana.

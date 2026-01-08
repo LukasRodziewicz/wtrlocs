@@ -1,0 +1,28 @@
+$EVE_015_TITLE
+L'affaire de sa vie
+$EVE_015_MAIN_01
+Un homme appelé Blaise Roy a rendu visite à votre femme. Apparemment, ils ont été… intimes par le passé. Roy a emprunté de l'argent dans deux banques parisiennes afin d'ouvrir un atelier de tissage et, comme vous pouvez l'imaginer, l'affaire a coulé. Il a essayé de repousser le paiement des échéances, mais seule une des deux banques a accepté. Roy espère que vous utiliserez votre position sociale pour l'aider. Il fait pression sur votre femme en disant qu'elle « lui doit bien ça ».
+$EVE_015_MAIN_01_C1
+Enquêter sur la question
+$EVE_015_MAIN_01_C2
+Arrêter l'homme
+$EVE_015_MAIN_01_C3
+Ignorer cette affaire
+$EVE_015_MAIN_02A
+Il peut être intéressant de savoir pourquoi la banque refuse de repousser la date de paiement. Apparemment, le directeur de la banque, Abel Daquin, s'y oppose fortement. Il a une femme et une fille qui se seraient un peu trop prises d'amitié pour Roy, d'après la rumeur. M. Daquin l'a appris, et il est maintenant prêt à perdre l'argent prêté par la banque.
+$EVE_015_MAIN_02A_C1
+Arrêter Blaise Roy
+$EVE_015_MAIN_02A_C2
+Demander un service au directeur de la banque
+$EVE_015_MAIN_02A_C3
+Intimider le directeur de la banque
+$EVE_015_MAIN_02B
+Bien sûr, vous avez détecté un soupçon de chantage dans la demande de cet homme, mais il est dos au mur, alors on pouvait s'y attendre.
+$EVE_015_MAIN_02C
+Vous avez des choses plus importantes à faire que de vous occuper des problèmes des inférieurs. Les anciens soupirants de votre femme ne vous concernent pas.
+$EVE_015_MAIN_03B
+Rien de tel qu'une petite conversation avec quelqu'un de votre statut. Pour le directeur de la banque, Blaise Roy n'est qu'un moustique : énervant, mais inoffensif, sans aucun moyen de s'opposer à lui. Un juge du tribunal, par contre, c'est une autre histoire. Vous l'avez invité à prendre un verre de vin et lui avez expliqué que vous avez pris le parti de ce pauvre homme. Abel Daquin s'en moquait comme d'une guigne jusqu'à ce que vous lui promettiez votre éternelle gratitude et un service. Il a soudain changé d'avis et a accepté de repousser la date de paiement.
+$EVE_015_MAIN_03C
+Le banquier n'a pas été ravi de vous voir débarquer avec deux énormes gardes en civil. Et puis les gros gourdins n'étaient pas vraiment assortis à leurs chaussures. Daquin a écouté attentivement vos arguments et a accepté de repousser la date de paiement, mais soyez certain qu'il s'en souviendra.
+$EVE_015_MAIN_03E
+Triste nouvelle, Blaise Roy s'est suicidé en prison. Le pauvre homme s'est tranché les veines. On dirait bien qu'il n'y aura pas de procès…

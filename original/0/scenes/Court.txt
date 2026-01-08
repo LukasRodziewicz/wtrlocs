@@ -1,0 +1,244 @@
+$MENTOR_HELP_AVAIBLE_TIP1
+Pomoc Mentora, kosztuje <color="#ff0000">{0} punkty wpływu</color>
+$MENTOR_HELP_NOT_ENOUGH
+Brak punktów wpływu.
+$GUILTY_RAW
+Winny
+$NOTGUILTY_RAW
+Niewinny
+$SIGNATURE_TIP
+Podpisz dokument, aby zaakceptować wyrok.
+$VERDICT_SELECT
+Wybierz wyrok:
+$GUILTY_VERDICT_MALE
+Uznaję oskarżonego za winnego popełnienia zarzucanego mu czynu i skazuję go na karę śmierci.
+$PRISON_VERDICT_MALE
+Uznaję oskarżonego za winnego popełnienia zarzucanego mu czynu i skazuję go na więzienie.
+$NOTGUILTY_VERDICT_MALE
+Uznaję oskarżonego za niewinnego popełnienia zarzucanego mu czynu.
+$GUILTY_VERDICT_FEMALE
+Uznaję oskarżoną za winną popełnienia zarzucanego jej czynu i skazuję ją na karę śmierci.
+$PRISON_VERDICT_FEMALE
+Uznaję oskarżoną za winną popełnienia zarzucanego jej czynu i skazuję ją na więzienie.
+$NOTGUILTY_VERDICT_FEMALE
+Uznaję oskarżoną za niewinną popełnienia zarzucanego jej czynu.
+$CASE_FILES
+Akta Sprawy
+$VERDICT
+Wyrok
+$PROTOCOL
+Protokół
+$VERDICT_FORM
+Formularz wyroku
+$NEWSPAPER
+Gazeta
+$EVENT_ITEM
+Wiadomości
+$JURY_ON_START_DISEBLE_01
+Ta sprawa nie jest wystarczająco ważna, abyśmy się nią zajmowali. Dajemy Ci wolną rękę w tym procesie.
+$JURY_ON_END_TOO_FAST_01
+Wyrok? Już?! A gdzie proces!
+$JURY_ON_END_DISAGREE_01
+A nasze zdanie? Radzę Ci liczyć się z nami na przyszłość!
+$GROUP_ATTITUDE_HEADER
+Wpływ werdyktu na frakcje
+$PROSECUTOR_PROTOCOL_SIGNED
+Prokurator już podpisał Twój raport.
+$PROSECUTOR_PROTOCOL_UNSIGNED_DISABLE
+Nie masz przysługi u prokuratora.
+$PROSECUTOR_PROTOCOL_UNSIGNED_ENABLE
+Skorzystaj z przysługi prokuratora.
+$JURY_HEADER
+Opinia Ławy Przysięgłych
+$JURY_SUPPORT_HIGH
+Przyjazne
+$JURY_SUPPORT_NEUTRAL
+Neutralne
+$JURY_SUPPORT_LOW
+Wrogie
+$JURY_SENTENCE
+Opinia Ławy
+$JURY_SENTENCE_GUILTY
+Opinia Ławy: Kara śmierci
+$JURY_SENTENCE_PRISON
+Opinia Ławy: Więzienie
+$JURY_SENTENCE_NOT_GUILTY
+Opinia Ławy: Uniewinnienie
+$JURY_SENTENCE_HIDDEN
+Ława przysięgłych jeszcze nie ujawniła swojej opinii. 
+$JURY_NO_SENTENCE
+Ława przysięgłych nie ma opinii w tej sprawie. 
+$JURY_SUPPORT
+Przychylność Ławy.
+$KEYWORD_MATCH_SUCCESS
+Odkryto pytanie
+$KEYWORD_MATCH_FAILURE
+Bez znaczenia dla sprawy
+$KEYWORD_MATCH_TRAP
+Trafiono w pułapkę
+$KEYWORD_NO_MORE_CONNECTIONS
+Wyczerpałeś wszystkie szanse
+$KEYWORD_ALL_CONNECTIONS_UNLOCKED
+Wszystkie pytania odblokowane
+$KEYWORD_LOCKED_INFORMATION
+Nieodkryte
+$DIALOG_SENTENCE_ICON_TIP
+Wpływ na opinię Ławy
+$DISMISS_WITNESS
+Odwołaj świadka
+$VERDICT_HEADER_FIRST
+TRIBUNAL 
+$VERDICT_HEADER_SECOND
+RÉVOLUTIONNAIRE
+$MENTOR_FIRSTAGGRESSIONTUTORIAL
+Teraz uważaj, ludzie są zdenerwowani. Możesz próbować manipulować 
+Ławą i Prokuratorem ale czym bardziej zwlekasz z wydaniem werdyktu,
+tym gorsze konsekwencje mogą się pojawić.
+$VERDICTWINDOW_JURY_NONE_MALE
+Ława przysięgłych jeszcze nie ujawniła swojej opinii. Zadaj więcej pytań.
+$VERDICTWINDOW_JURY_GUILTY_MALE
+Ława przysięgłych jest za wykonaniem wyroku ścięcia oskarżonego w trybie natychmiastowym.
+$VERDICTWINDOW_JURY_NOTGUILTY_MALE
+Ława przysięgłych jest za uniewinnieniem oskarżonego. Według nich jest niewinny.
+$VERDICTWINDOW_JURY_PRISON_MALE
+Ława przysięgłych jest za uwięzieniem oskarżonego. Według nich to odpowiednio sroga kara.
+$VERDICTWINDOW_JURY_NONE_FEMALE
+Ława przysięgłych jeszcze nie ujawniła swojej opinii. Zadaj więcej pytań.
+$VERDICTWINDOW_JURY_GUILTY_FEMALE
+Ława przysięgłych jest za wykonaniem wyroku ścięcia oskarżonej w trybie natychmiastowym.
+$VERDICTWINDOW_JURY_NOTGUILTY_FEMALE
+Ława przysięgłych jest za uniewinnieniem oskarżonej. Według nich jest niewinna.
+$VERDICTWINDOW_JURY_PRISON_FEMALE
+Ława przysięgłych jest za uwięzieniem oskarżonej. Według nich to odpowiednio sroga kara.
+$VERDICTWINDOW_JURY_SUPPORT
+Ława Przysięgłych
+$VERDICTWINDOW_PROSECUTOR_SUPPORT
+Prokurator
+$TRIAL_SUMMARY
+Podsumowanie rozprawy
+$UNLOCKED_QUESTIONS
+Odblokowane pytania: {0}/{1}
+$VERDICTWINDOW_GROUP_HEADER
+Wywiad
+$STARTING_TRIAL_DIALOG_HEADER
+Rozpoczęcie rozprawy
+$VERDICT_HEADER
+TRIBUNAL
+RÉVOLUTIONNAIRE
+$AUDIENCE_ATTITUDE_TOOLTIP_0
+Ludzie są radośni
+$AUDIENCE_ATTITUDE_TOOLTIP_1
+Ludzie są spokojni
+$AUDIENCE_ATTITUDE_TOOLTIP_2
+Ludzie są niespokojni
+$AUDIENCE_ATTITUDE_TOOLTIP_3
+Ludzie są zirytowani
+$AUDIENCE_ATTITUDE_TOOLTIP_4
+Ludzie są agresywni
+$VERDICTWINDOW_DESC_VERDICT_NOT_SELECTED
+Wybierz wyrok, aby zobaczyć wpływ na frakcję
+$VERDICTWINDOW_DESC_VERDICT_SELECTED
+Na podstawie relacji z frakcjami ustalono następstwa werdyktu
+$VERDICTWINDOW_NO_INFO_TIP
+Brak informacji
+$VERDICTWINDOW_GAMEOVER_PEOPLE
+Ryzyko śmierci
+$VERDICTWINDOW_GAMEOVER_REVO
+Ryzyko odwołania ze stanowiska
+$VERDICTWINDOW_ADDITIONAL_REPUTATION
+Bonus do reputacji.
+$VERDICTWINDOW_UNLOCK_FROM_MAP_MISSION_TOOLTIP
+Odblokowano na mapie
+$VERDICTWINDOW_GROUPCHANGE_LOCKED_TOOLTIP
+Zbyt słabe relacje, aby zobaczyć wpływ
+$DIALOG_HUB_HEADER
+Pytania do oskarżonego
+$WITNESS_QUESTIONS_HUB_HEADER
+Pytania do świadka
+$KEYWORD_LOCKED_TOOLTIP
+[Przeszukaj akta, aby odblokować]
+$DESIRED_VERDICT_PANEL_HEADER
+Oczekiwany wyrok
+$PROTOCOL_QUIZ_SUMMARY_CORRECT
+Odpowiedź jest poprawna
+$PROTOCOL_QUIZ_SUMMARY_INCORRECT
+Odpowiedź jest niepoprawna
+$PROTOCOL_QUIZ_MENTOR_BUTTON_NOT_ENOUGHT
+Za mało punktów wpływu
+$PROTOCOL_QUIZ_MENTOR_BUTTON_ACTIVE
+Skorzystaj z pomocy mentora za <color="#ff0000"> {0} wpływu </color>
+$PROTOCOL_QUIZ_PROSECUTOR_BUTTON_INACTIVE
+Nie możesz skorzystać z przysługi prokuratora
+$PROTOCOL_SUMMARY_RESULT_TITLE
+Wynik raportu:
+$SUMMARY_EFFECTS
+Efekty
+$SUMMARY_ATTITUDE_POSSITIVE
+Wpływ pozytywny
+$SUMMARY_ATTITUDE_NO_CHANGE
+Bez zmian
+$SUMMARY_ATTITUDE_NEGATIVE
+Wpływ negatywny
+$PROTOCOL_QUIZ_TITLE
+Raport
+$PROTOCOL_RESULT_WORST
+{0}/{1} Fatalnie!
+$PROTOCOL_RESULT_BAD
+{0}/{1} Niewystarczająco!
+$PROTOCOL_RESULT_GOOD
+{0}/{1} Dobra robota!
+$PROTOCOL_REASON_01
+Błędny wybór.
+$PROTOCOL_SIGNATURE_TOOLTIP
+Zatwierdź raport.
+#FAMILY
+Rodzina
+$VERDICT_RELATIONSHIP_HEADER
+Relacje Sędziego
+$PROTOCOL_JURY_SENTENCE_CHANGE_TOOLTIP
+Zmiana opinii Ławy:
+$PROTOCOL_QUIZ_JUDGE_SIGNATURE
+Podpis sędziego
+$PROTOCOL_QUIZ_PROSECUTOR_SIGNATURE
+Podpis Oskarżyciela
+$JURY_EFFECT_HEADER
+Wpływ ławy przysięgłych:
+$PROSECUTOR_QUEST_MAIN
+Chciałbym się upomnieć o mój wczorajszy łup z gry w kości. Pamiętasz, że przegrałeś?
+$PROSECUTOR_QUEST_GUILTY
+Oskarżony ma dzisiaj umrzeć.
+$PROSECUTOR_QUEST_PRISON
+Życzę sobie więzienia dla oskarżonego.
+$PROSECUTOR_QUEST_NOT_GUILTY
+Uwolnijmy oskarżonego!
+$PROSECUTOR_BAD_QUIZ_POPUP
+Nie podpiszę się pod tak słabym raportem. Uważaj, żebyś za niego nie wylądował na gilotynie!
+$VERDICT_LOCKED_TEXT
+Niedostępne w tej sprawie
+$VERDICT_LOCKED_TEXT_BUILDING
+Ktoś przekonał twoich przełożonych, że raport w tej sprawie to strata czasu.
+$FLASHCARDS_DISABLED_TOOLTIP
+Szybkie Wyroki nie są jeszcze dostępne
+$GUILTY_VERDICT_PROLOG
+Uznaję oskarżonego za winnego popełnienia zarzucanego mu czynu.
+$FLASHCARDS_PROSECUTOR_ENTER
+Dzisiaj mamy na wokandzie jedynie kilka drobniejszych spraw.
+$FLASHCARDS_PROSECUTOR_EXIT
+Dziękuję. Nawet maluczcy zasługują na odrobinę sprawiedliwości.
+$QUIZ_DIALOG_SOURCE_LOCKED_TOOLTIP
+Tematu nie poruszono podczas przesłuchania.
+$KEYWORDVIEW_NUMBER_OF_CHANGES
+Możliwości pomyłek
+$KEYWORDVIEW_NUMBER_OF_TRAPS
+Liczba pułapek
+$KEYWORD_VIEW_NUMBER_OF_QUESTIONS_LEFT
+Pytań do odkrycia: {0}
+$KEYWORD_VIEW_BUTTON_TOOLTIP
+Odblokuj pytania do oskarżonego.
+$VERDICT_FLASHCARDS_EMPTY_LABEL
+To wszystkie sprawy na dzisiaj.
+
+$MAIN_SECTION_MILESTONE_TITLE
+Niskie tempo budowy
+$MAIN_SECTION_MILESTONE_MAIN
+Ludzie liczyli, że będzie Ci bardziej zależeć na rewolucyjnym pomniku. Są nieco zawiedzeni.

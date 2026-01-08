@@ -1,0 +1,240 @@
+$MENTOR_HELP_AVAIBLE_TIP1
+Your Mentor’s help costs <color="#ff0000">{0} Influence Points</color>
+$MENTOR_HELP_NOT_ENOUGH
+You don’t have enough Influence Points.
+$GUILTY_RAW
+Guilty
+$NOTGUILTY_RAW
+Not Guilty
+$SIGNATURE_TIP
+Sign the document to accept the verdict.
+$VERDICT_SELECT
+Choose a verdict:
+$GUILTY_VERDICT_MALE
+I find the defendant guilty and sentence him to death.
+$PRISON_VERDICT_MALE
+I find the defendant guilty and sentence him to prison.
+$NOTGUILTY_VERDICT_MALE
+I find the defendant not guilty.
+$GUILTY_VERDICT_FEMALE
+I find the defendant guilty and sentence her to death.
+$PRISON_VERDICT_FEMALE
+I find the defendant guilty and sentence her to prison.
+$NOTGUILTY_VERDICT_FEMALE
+I find the defendant not guilty.
+$CASE_FILES
+Case File
+$VERDICT
+Verdict
+$PROTOCOL
+Protocol
+$VERDICT_FORM
+Verdict Form
+$NEWSPAPER
+Newspaper
+$EVENT_ITEM
+News
+$JURY_ON_START_DISEBLE_01
+This case is not important enough for us to take it. Do as you wish with it.
+$JURY_ON_END_TOO_FAST_01
+A verdict? Already?! What about the trial?
+$JURY_ON_END_DISAGREE_01
+And does it matter what we have to say? You’d better take us into account in the future!
+$GROUP_ATTITUDE_HEADER
+The verdict’s influence on the Factions
+$PROSECUTOR_PROTOCOL_SIGNED
+The prosecutor has signed your report.
+$PROSECUTOR_PROTOCOL_UNSIGNED_DISABLE
+You have no favours from the prosecutor.
+$PROSECUTOR_PROTOCOL_UNSIGNED_ENABLE
+Use a favour from the prosecutor.
+$JURY_HEADER
+Jury’s Opinion
+$JURY_SUPPORT_HIGH
+Friendly
+$JURY_SUPPORT_NEUTRAL
+Neutral
+$JURY_SUPPORT_LOW
+Hostile
+$JURY_SENTENCE
+Jury’s Opinion
+$JURY_SENTENCE_GUILTY
+Jury’s Opinion: Death Penalty
+$JURY_SENTENCE_PRISON
+Jury’s Opinion: Prison
+$JURY_SENTENCE_NOT_GUILTY
+Jury’s Opinion: Acquittal
+$JURY_SENTENCE_HIDDEN
+The Jury has not revealed its verdict yet.
+$JURY_NO_SENTENCE
+The Jury has no opinion on this case.
+$JURY_SUPPORT
+Jury’s favourableness.
+$KEYWORD_MATCH_SUCCESS
+Question discovered
+$KEYWORD_MATCH_FAILURE
+Incorrect link
+$KEYWORD_MATCH_TRAP
+Caught in a trap
+$KEYWORD_NO_MORE_CONNECTIONS
+All links have been used
+$KEYWORD_ALL_CONNECTIONS_UNLOCKED
+All questions unlocked
+$KEYWORD_LOCKED_INFORMATION
+Undiscovered
+$DIALOG_SENTENCE_ICON_TIP
+Influence on the Jury’s opinion
+$DISMISS_WITNESS
+Dismiss the witness
+$VERDICT_HEADER_FIRST
+TRIBUNAL
+$VERDICT_HEADER_SECOND
+RÉVOLUTIONNAIRE
+$MENTOR_FIRSTAGGRESSIONTUTORIAL
+Careful now, people are upset. You may attempt to manipulate the Jury and the prosecutor, but the longer you linger with the verdict, the worse the potential consequences will be.
+$VERDICTWINDOW_JURY_NONE_MALE
+The Jury has not reached a verdict yet. Ask more questions.
+$VERDICTWINDOW_JURY_GUILTY_MALE
+The Jury votes in favour of the immediate decapitation of the defendant.
+$VERDICTWINDOW_JURY_NOTGUILTY_MALE
+The Jury votes in favour of acquitting the defendant. They find him innocent.
+$VERDICTWINDOW_JURY_PRISON_MALE
+The Jury votes in favour of incarcerating the defendant. They find the punishment sufficient.
+$VERDICTWINDOW_JURY_NONE_FEMALE
+The Jury has not reached a verdict yet. Ask more questions.
+$VERDICTWINDOW_JURY_GUILTY_FEMALE
+The Jury votes in favour of the immediate decapitation of the defendant.
+$VERDICTWINDOW_JURY_NOTGUILTY_FEMALE
+The Jury votes in favour of acquitting the defendant. They find her innocent.
+$VERDICTWINDOW_JURY_PRISON_FEMALE
+The Jury votes in favour of incarcerating the defendant. They find the punishment sufficient.
+$VERDICTWINDOW_JURY_SUPPORT
+Jury
+$VERDICTWINDOW_PROSECUTOR_SUPPORT
+Prosecutor
+$TRIAL_SUMMARY
+Trial Summary
+$UNLOCKED_QUESTIONS
+Unlocked questions: {0}/{1}
+$VERDICTWINDOW_GROUP_HEADER
+Intelligence
+$STARTING_TRIAL_DIALOG_HEADER
+Commence the Trial
+$VERDICT_HEADER
+TRIBUNAL RÉVOLUTIONNAIRE
+$AUDIENCE_ATTITUDE_TOOLTIP_0
+People are happy
+$AUDIENCE_ATTITUDE_TOOLTIP_1
+People are calm
+$AUDIENCE_ATTITUDE_TOOLTIP_2
+People are anxious
+$AUDIENCE_ATTITUDE_TOOLTIP_3
+People are irritated
+$AUDIENCE_ATTITUDE_TOOLTIP_4
+People are aggressive
+$VERDICTWINDOW_DESC_VERDICT_NOT_SELECTED
+Choose a verdict to see its influence on the Faction
+$VERDICTWINDOW_DESC_VERDICT_SELECTED
+The verdict’s consequences were determined based on Faction relations
+$VERDICTWINDOW_NO_INFO_TIP
+No information
+$VERDICTWINDOW_GAMEOVER_PEOPLE
+Risk of death
+$VERDICTWINDOW_GAMEOVER_REVO
+Risk of being removed from office
+$VERDICTWINDOW_ADDITIONAL_REPUTATION
+Reputation bonus.
+$VERDICTWINDOW_UNLOCK_FROM_MAP_MISSION_TOOLTIP
+Unlocked on the Map
+$VERDICTWINDOW_GROUPCHANGE_LOCKED_TOOLTIP
+Faction standing too low to see influence
+$DIALOG_HUB_HEADER
+Questions for the defendant
+$WITNESS_QUESTIONS_HUB_HEADER
+Questions for the witness
+$KEYWORD_LOCKED_TOOLTIP
+Review the case files to unlock
+$DESIRED_VERDICT_PANEL_HEADER
+Expected sentence
+$PROTOCOL_QUIZ_SUMMARY_CORRECT
+Correct answer
+$PROTOCOL_QUIZ_SUMMARY_INCORRECT
+Incorrect answer
+$PROTOCOL_QUIZ_MENTOR_BUTTON_NOT_ENOUGHT
+Not enough Influence Points
+$PROTOCOL_QUIZ_MENTOR_BUTTON_ACTIVE
+Acquire your Mentor’s help for <color="#ff0000">{0} IP</color>
+$PROTOCOL_QUIZ_PROSECUTOR_BUTTON_INACTIVE
+You cannot use the prosecutor’s favour
+$PROTOCOL_SUMMARY_RESULT_TITLE
+Report results:
+$SUMMARY_EFFECTS
+Effects
+$SUMMARY_ATTITUDE_POSSITIVE
+Positive influence
+$SUMMARY_ATTITUDE_NO_CHANGE
+No influence
+$SUMMARY_ATTITUDE_NEGATIVE
+Negative influence
+$PROTOCOL_QUIZ_TITLE
+Report
+$PROTOCOL_RESULT_WORST
+{0}/{1} Terrible job!
+$PROTOCOL_RESULT_BAD
+{0}/{1} Bad job!
+$PROTOCOL_RESULT_GOOD
+{0}/{1} Good job!
+$PROTOCOL_REASON_01
+Incorrect choice.
+$PROTOCOL_SIGNATURE_TOOLTIP
+Approve the report.
+#FAMILY
+Family
+$VERDICT_RELATIONSHIP_HEADER
+Judge’s Reports
+$PROTOCOL_JURY_SENTENCE_CHANGE_TOOLTIP
+Jury’s Change of Decision:
+$PROTOCOL_QUIZ_JUDGE_SIGNATURE
+Judge’s Signature
+$PROTOCOL_QUIZ_PROSECUTOR_SIGNATURE
+Prosecutor’s Signature
+$JURY_EFFECT_HEADER
+Influence of the Jury:
+$PROSECUTOR_QUEST_MAIN
+May I remind you about what you owe me after our last game of dice? You lost yesterday, remember?
+$PROSECUTOR_QUEST_GUILTY
+The accused dies today.
+$PROSECUTOR_QUEST_PRISON
+I want the accused to go to prison.
+$PROSECUTOR_QUEST_NOT_GUILTY
+Let us free the accused!
+$PROSECUTOR_BAD_QUIZ_POPUP
+I will not sign such a shoddy report. Be careful this thing does not send you to the scaffold!
+$VERDICT_LOCKED_TEXT
+Unavailable in this case
+$VERDICT_LOCKED_TEXT_BUILDING
+Someone convinced your superiors that this report would be a waste of time.
+$FLASHCARDS_DISABLED_TOOLTIP
+Quick Judgements are not available yet
+$GUILTY_VERDICT_PROLOG
+I find the defendant guilty of the offence with which they were charged.
+$FLASHCARDS_PROSECUTOR_ENTER
+Today we only have several minor cases to deal with.
+$FLASHCARDS_PROSECUTOR_EXIT
+Thank you. Even the least powerful deserve justice.
+$QUIZ_DIALOG_SOURCE_LOCKED_TOOLTIP
+The subject was not mentioned during the interrogation.
+$KEYWORDVIEW_NUMBER_OF_CHANGES
+Possible mistakes
+$KEYWORDVIEW_NUMBER_OF_TRAPS
+Number of traps
+$KEYWORD_VIEW_NUMBER_OF_QUESTIONS_LEFT
+Questions to reveal: {0}
+$KEYWORD_VIEW_BUTTON_TOOLTIP
+Unlock questions
+$VERDICT_FLASHCARDS_EMPTY_LABEL
+You do not have any more cases today.
+$MAIN_SECTION_MILESTONE_TITLE
+Unfinished Construction
+$MAIN_SECTION_MILESTONE_MAIN
+You did not meet your obligation to finish the construction of the statue in time. Paris is disappointed.

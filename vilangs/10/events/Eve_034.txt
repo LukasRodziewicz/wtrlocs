@@ -1,0 +1,8 @@
+$EVE_034_V1_AGENTS_DISAPPEAR_TITLE
+Muhafız Ayrılıyor
+$EVE_034_V1_AGENTS_DISAPPEAR_MAIN_01
+Askıda iri boy bir üniforma buluyorsun. Ona sığabilecek tek çalışan var – gözde mahkeme muhafızın Raphaël Clovis. Ceplerden birinde kısa bir mektup buluyorsun; bazı cümleler özellikle dikkat çekiyor: “Hizmetten ayrılıyorum”, “Artık buna dayanamıyorum” ve “Ellerim çok fazla kana bulandı.” Fareler batmakta olan gemiyi terk ediyor.
+$EVE_034_V1_AGENTS_LEAVE_TITLE
+Muhafız Ayrılıyor
+$EVE_034_V1_AGENTS_LEAVE_MAIN_01
+Askıda büyük beden bir üniforma buluyorsun. Ona sığabilecek tek kişi var – gözde mahkeme muhafızın Raphaël Clovis. İç cebinde bulduğun bir mektup, Clovis’in hangi tarafı seçtiğini kanıtlıyor – kardeşinin tarafını. Hayatta kalmak için sana karşı savaşacak. Ya da belki de sadece yaptıklarından yoruldu? Bunu kesin olarak öğrenmek için ona ulaşmalısın. En kötüsü de, senin zayıf yönlerini biliyor olması…

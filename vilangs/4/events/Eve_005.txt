@@ -1,0 +1,22 @@
+$EVE_005_TITLE
+Köstliche Vierbeiner
+$EVE_005_MAIN_01
+Die Straße leert sich, als die Sonne untergeht. Du schlenderst über den noch warmen Bürgersteig und denkst an das köstliche Abendessen, das deine Frau zubereitet hat. So entspannt bist du, dass du die Frau nicht bemerkst, die plötzlich um die Ecke schießt. Mit solcher Wucht prallt sie gegen dich, dass ihr beide zu Boden geht. Sie lässt einen Sack fallen, aus dem mehrere Katzen entkommen. Die Frau springt auf und versucht, sie einzufangen, doch zwei entwischen ihr. „Sie sind weg!“, ruft sie und weiß nicht, welcher sie zuerst nachjagen soll. „Kein Geld, kein Pastete“, fügt sie hinzu – und plötzlich weißt du ganz genau, was hier vor sich geht…
+$EVE_005_MAIN_01_C1
+Die Frau verhaften.
+$EVE_005_MAIN_01_C2
+Lass die Frau in Ruhe.
+$EVE_005_MAIN_02A
+Du packst sie am Arm und führst sie zu den nächsten Wachen. Die Frau sieht dich an und versucht leise, dich davon zu überzeugen, dass Pastete mehr zählt als das Leben von Katzen. Die Wachen sind sichtlich überrascht, als du ihnen das Paket übergibst. „Ich habe sie nicht für mich gesammelt“, gesteht die verängstigte Frau nach einer Weile. „Sie sind für den Sohn des Metzgers. Er ist ein Spezialist.“ Während die Wachen sie abführen, denkst du über ihre Worte nach. Der Sohn des Metzgers. Was wirst du mit diesem Meister der französischen Kochkunst tun?
+$EVE_005_MAIN_02A_C1
+Verhaftet den Sohn des Metzgers.
+$EVE_005_MAIN_02A_C2
+Den Sohn des Metzgers entlarven.
+$EVE_005_MAIN_02B
+Die Frau entfernt sich, den Sack fest umklammert. Alle paar Meter blickt sie sich suchend um – je fetter die Beute, desto besser. Sie haben Wichtigeres zu tun, als jemandem beim Jagen nach Pastetenfleisch zuzusehen…
+$EVE_005_MAIN_03A
+Widerlich! Der Konditor hat die Leute mit Katzenfleisch gefüttert!
+$EVE_005_MAIN_03B
+Die Pariser mochten die Wahrheit nicht. Es stellte sich heraus, dass der findige Konditor mehr Kunden hatte als erwartet – und sie waren außer sich vor Wut. So sehr, dass er sterben musste. Ein kräftiger Schlag vertrieb jede kulinarische Leidenschaft aus seinem Kopf. Genau genommen jegliche Leidenschaft. Wer den tödlichen Schlag geführt hat, wird sich nie herausfinden lassen.
+$EVE_005_MAIN_03C
+Die köstliche Pastete ist nach wie vor ein gern gesehener Gast auf den Tischen vieler Pariser Haushalte. Und das mit gutem Grund.

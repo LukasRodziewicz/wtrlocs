@@ -1,0 +1,28 @@
+$CUT_048_001_MENTOR
+C'est notre nouveau symbole de liberté. On peut encore sentir le bois frais.
+$CUT_048_002_JUDGE
+Te sens-tu libre en la voyant ?
+$CUT_048_003_MENTOR
+Les hommes comme nous n'ont pas besoin de symboles, mais la France si.
+$CUT_048_004_MENTOR
+As-tu entendu la nouvelle du jour ?
+$CUT_048_005_MENTOR
+Les gens courent dans tous les sens en criant que Louis et les siens ont fui Paris.
+$CUT_048_006_JUDGE
+Nous n'aurons bientôt plus le plaisir de sentir l'arôme du bois frais.
+$CUT_048_007_MENTOR
+On n'installe pas de tels monuments dans le seul but de punir les voleurs et la petite noblesse.
+$CUT_048_008_JUDGE
+Penses-tu qu'elle veut goûter au sang royal ?
+$CUT_048_009_MENTOR
+Louis a été stupide de fuir. Et pourtant cela semblait prémédité.
+$CUT_048_010_MENTOR
+L'un de nous le sacrifiera… à condition qu'on le rattrape.
+$CUT_048_011_JUDGE
+Est-ce pour cette raison que Louis s'est rendu au tribunal ?
+$CUT_048_012_JUDGE
+Pour nous manipuler ?
+$CUT_048_013_MENTOR
+Peut-être a-t-il perçu au fond de lui-même l'intention à l'origine de la guillotine,
+$CUT_048_014_MENTOR
+qu'il faut donner un traître à la foule, même s'il n'y en a pas.

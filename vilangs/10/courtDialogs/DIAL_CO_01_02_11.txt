@@ -1,0 +1,18 @@
+$DIAL_CO_01_02_11_001_ROLAND
+Adım Jean-Marie Roland. Bu isim size yabancı gelmemeli — sonuçta, Kral Louis'nin yargılamasında üstünde ayaklarınızı silmiştiniz.
+$DIAL_CO_01_02_11_002_JUDGE
+Kral değil, Yurttaş Capet...
+$DIAL_CO_01_02_11_003_ROLAND
+Kral Louis-Auguste Bourbon, Berry Dükü. Senin yarım yamalak gerçekleri ve söylentileri ortalığa saçman yüzünden herkes benim kellem için bağırıyor. Beni yolsuzluk ve vatana ihanetle suçluyorlar! Sen ise bizim sırtımızı basamak yapıp toplumsal merdivende yükseldin.
+$DIAL_CO_01_02_11_004_JUDGE
+Siyasetçileri yozlaştırmak her zaman işe yaramaz. Danton başardı, Molleville denedi ama sizi yakaladılar. Olur böyle şeyler.
+$DIAL_CO_01_02_11_005_ROLAND
+Muhtemelen görevimden alınacağım. Hatta giyotine bile gidebilirim. Ama sizin başınız da benimkinden hemen sonra düşecek, bundan emin olabilirsiniz! Acımda bana yoldaş olacaksınız!
+$DIAL_CO_01_02_11_006_JUDGE
+Devrim Mahkemesi yargıcını tehdit etmek, gözden düşmüş bir kralı desteklemekten ve Konvansiyon’un yozlaşmış siyasetçilerini ayartmaktan bile daha kötü bir fikirdir.
+$DIAL_CO_01_02_11_007_ROLAND
+Muhafız Kaptanı için adayınızı ortadan kaldıracağım. Sonra da sıra size gelecek.
+$DIAL_CO_01_02_11_008_ROLAND
+Benimle eşimin buraya gelmesi yıllarımızı aldı! Kendini yargıç sanan, içkiden sızmış bir solucan yüzünden ölmeyeceğim!
+$DIAL_CO_01_02_11_009_ROLAND
+Paris’in salonlarında savaşın nasıl verildiğini göreceksin, hain köpek!

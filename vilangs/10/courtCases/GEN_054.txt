@@ -1,0 +1,158 @@
+$GEN_054_DOC_01_HEADER
+Hazırlayan: Charles Etienne
+$GEN_054_DOC_01_00
+	Akşam saatlerinde, <a name="1" class="hidden">iki aç köpek</a> bilinmeyen bir cins olarak pazarda et tüccarı Vatandaş Courbis’e saldırdı. Mallarını korumak için sopayla köpekleri kovalamaya çalıştı, fakat onları korkutmayı başaramadı. Köpekler onu yere devirdi ve saldırdı. Sonunda kaçmayı başardığında, köpekler <a name="3" class="hidden">geride kalan mallarını</a> iştahla yemeye koyuldular.
+$GEN_054_DOC_01_01
+	Muhafızlar birkaç dakika sonra geldi, fakat hayvanlar çoktan kaybolmuştu. Yerel halk hemen <a name="4" class="hidden">küçük bir parkla çevrili eski bir evi</a> işaret etti. Evin, yakınlardaki bir fabrikada gece bekçisi olarak çalışan yaşlı Gaëtan Thibodeaux’ya ait olduğunu tespit ettik.
+$GEN_054_DOC_01_02
+	Thibodeaux’yu tutukladık, o köpekleri kabul etmese de, ne yazık ki suçlu hayvanlar tutuklama sırasında eve döndü. Askerler <a name="5" class="hidden">saldırgan itleri vurmayı denedi</a>, fakat onlar karanlıkta kayboldular.
+$GEN_054_DOC_01_03
+	Saldırıya uğrayan kadının ellerinin ve yüzünün ağır şekilde ısırıldığının kayda geçmesi gerekir. Bir felaketin eşiğinden döndük.
+$GEN_054_OnStart_00
+Vatandaş Thibodeaux, tezgâhtar Courbis’e saldıran köpekler size mi ait?
+$GEN_054_OnStart_01
+Hayır, sayın yargıç, onlar benim değil.
+$GEN_054_OnStart_02
+O halde kime aitler, sorabilir miyim?
+$GEN_054_OnStart_03
+Kardeşim, Bruno Thibodeaux.
+$GEN_054_OnStart_04
+Şu anda nerede?
+$GEN_054_OnStart_05
+Bilmiyorum. Bir süre önce gitti ve bir daha dönmedi. Muhtemelen bir yerde kavga etti ve öldü.
+$GEN_054_OnStart_06
+Köpeklerine göz kulak olmanızı o mu istedi?
+$GEN_054_OnStart_07
+Son yıllarda pek konuşmadık. Bir gün ansızın gitti, hepsi buydu.
+$GEN_054_OnGuilty_00
+Vatandaş, açıklamalarınızı inandırıcı bulmuyorum. Aşırı sorumsuzluğunuz nedeniyle sizi ölüme mahkûm ediyorum.
+$GEN_054_OnGuilty_01
+Bu kararı ağır buluyorum, fakat adil.
+$GEN_054_OnGuilty_02
+Onu öldürmemelisin, asıl o lanet köpekleri öldür.
+$GEN_054_OnNotGuilty_00
+Başkasının köpeklerinin yaptıklarından sizi sorumlu tutamam. Sizi suçlu bulmuyorum.
+$GEN_054_OnNotGuilty_01
+Umarım bu kargaşa sona erdiğinde, bu davayı tekrar ele alırız.
+$GEN_054_OnNotGuilty_02
+Doğru ya... Kadın da kendini kendi ısırmış.
+$GEN_054_04x03_00_QTitle
+Bahçeyle çevrili bir evde mi yaşıyorsunuz?
+$GEN_054_04x03_00_00
+Bahçeyle çevrili bir evde mi yaşıyorsunuz?
+$GEN_054_04x03_00_01
+Bunun davayla ne ilgisi var?
+$GEN_054_04x03_00_02
+Sadece, iki köpeğine yiyecek alamayan bir bekçinin böyle bir evi nasıl geçindirebildiğini merak ediyordum.
+$GEN_054_04x03_00_03
+Burası saray değil. Babamız yıllar önce iyi bir fiyata almış burayı. Annemin önünde gösteriş yapmak istemiş, ona bir kontes gibi yaşatsın diye.
+$GEN_054_04x03_00_04
+Peki sonra ne olacak?
+$GEN_054_04x03_00_05
+Sonra burayı gerçekten ayakta tutacak paramız hiç olmadı. Çatıyı onaramadık, eski pencereleri değiştiremedik...
+$GEN_054_04x03_00_06
+Çit de harap halde, çünkü köpekler deliklerden kolayca kaçabiliyor.
+$GEN_054_04x03_00_07
+Doğru söylüyorsun, ama bunun için ne kadar ödemem gerektiğini biliyor musun? Maaşımın ne kadarı giderdi?
+$GEN_054_04x03_00_08
+Neden evi satmadınız?
+$GEN_054_04x03_00_09
+Babamız hayattayken bunu yapamazdık. Kalbini paramparça ederdik.
+$GEN_054_04x03_00_10
+Peki ya ölümünden sonra?
+$GEN_054_04x03_00_11
+O zaman da ev harabeydi, şimdi de öyle. Kim alır ki artık?
+$GEN_054_01x04_01_QTitle
+Köpeklerinizin adı ne?
+$GEN_054_01x04_01_00
+Köpeklerinizin adı ne?
+$GEN_054_01x04_01_01
+Kardeşimin, benim değil. Muhafız ve Subay.
+$GEN_054_01x04_01_02
+Köpeklere böyle isimleri kim koyar?
+$GEN_054_01x04_01_03
+Olağanüstü derecede kurnazlar.
+$GEN_054_01x04_01_04
+Kardeşim onları daha yavruyken Paris’in banliyölerinde bulmuş. Hâlâ biraz yabani kaldılar.
+$GEN_054_01x04_01_05
+Onlar köpek değil, kurt.
+$GEN_054_01x04_01_06
+Saldırganlar mıydı?
+$GEN_054_01x04_01_07
+Pek sayılmaz, ama insanlar sık sık bu iri yaratıkların sokaklarda kendi evlerindeymiş gibi dolaştığından şikâyet ederdi. Hiç şaşmam. Ben de onları tanımasam korkardım.
+$GEN_054_01x04_01_08
+Onları insanları korkutmaktan alıkoymak için hiçbir şey yaptınız mı?
+$GEN_054_01x04_01_09
+Şey... Kardeşim bir keresinde onları bir gün boyunca zincire vurmuştu ama öyle bir gürültü çıkardılar ki...
+$GEN_054_01x04_01_10
+Ah, hayır, o soylular saraylarında köpek havlamasına bile katlanamadı!
+$GEN_054_03x06_02_QTitle
+Neden köpekleri beslemediniz?
+$GEN_054_03x06_02_00
+Neden köpekleri beslemediniz?
+$GEN_054_03x06_02_01
+Neyle, sayın yargıç? Bir servet kazanmıyorum, çoğu zaman kendime bile yetmiyor.
+$GEN_054_03x06_02_02
+Kardeşiniz kaybolduğundan beri neyle besleniyorlar?
+$GEN_054_03x06_02_03
+Nereden bileyim. Bütün gün ortadan kaybolup, ben işe gitmek üzereyken geri gelirlerdi; muhtemelen buldukları bir şeyi yiyip doymuş olurlar.
+$GEN_054_03x06_02_04
+Hiç düşündün mü, birine zarar vermiş olabileceklerini?
+$GEN_054_03x06_02_05
+Benim değiller.
+$GEN_054_03x06_02_06
+Ama onların yiyecek aramak için sokaklarda dolaştığını biliyordunuz. Onları ihbar edebilirdiniz.
+$GEN_054_03x06_02_07
+Ya bir çocuğa saldırmış olsalardı?
+$GEN_054_03x06_02_08
+Onları gören sadece ben değildim. Neden burada, görüp de bildirmeyen diğer herkesi de çağırmıyorsunuz?
+$GEN_054_05x01_03_QTitle
+Şimdi nerede o itleriniz?
+$GEN_054_05x01_03_00
+Şimdi nerede o itleriniz?
+$GEN_054_05x01_03_01
+Onlar benim değil, nerede olduklarını da bilmiyorum. Askerler ateş açmaya başladığında—ki şehirde asla yapılmamalı—köpekler tüydü.
+$GEN_054_05x01_03_02
+Peki sonra ne olacak?
+$GEN_054_05x01_03_03
+Beni buraya zincirlerle getirdiler.
+$GEN_054_05x01_03_04
+Onlar burada boş boş konuşurken, o canavarlar hâlâ Paris sokaklarında dolaşıyor.
+$GEN_054_05x01_03_05
+Sence kardeşini bulabilirler mi?
+$GEN_054_05x01_03_06
+Bence öldürülüp soyuldu. Bu şehirde neler olup bittiğinin farkında mısınız?
+$GEN_054_05x01_03_07
+Nereye gittiklerine dair en azından bir fikriniz olmalı. İş birliği yapmaya istekli olduğunuzu gösterin, bu sizin iyiliğiniz için.
+$GEN_054_05x01_03_08
+Pazara gitmeyi ve Paris’in dışındaki tarlalara uğramayı severlerdi. Ara sıra Les Halles çevresinde dolaşırlar.
+$GEN_054_KEY_01
+İki aç köpek
+$GEN_054_KEY_02
+Çubuk
+$GEN_054_KEY_03
+Kalan mallar
+$GEN_054_KEY_04
+Eski ev
+$GEN_054_KEY_05
+Ateşler
+$GEN_054_KEY_06
+Ellerinde ve yüzünde ısırıklar
+$GEN_054_LastDialog_00
+Neler oluyor? Bu mu adalet? Bir başkasının köpekleri yüzünden birini cezalandırmak mı?
+$GEN_054_UNIQUE_QUESTION_00
+Sanık böyle büyük bir eve nasıl sahip oldu?
+$GEN_054_UNIQUE_ANSWER_CORRECT_00_00
+Bunu babasından miras aldı.
+$GEN_054_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Bunu bir kart oyununda kazandı.
+$GEN_054_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Onu daha talihli zamanlarda almıştı.
+$GEN_054_UNIQUE_QUESTION_01
+Tanıklara göre, köpekler gün boyunca ne yapıyor?
+$GEN_054_UNIQUE_ANSWER_CORRECT_01_00
+Paris’te dolaş.
+$GEN_054_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Zincire vurulmuşlardı.
+$GEN_054_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Mahallede dileniyorlar.

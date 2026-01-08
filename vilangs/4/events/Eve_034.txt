@@ -1,0 +1,8 @@
+$EVE_034_V1_AGENTS_DISAPPEAR_TITLE
+Der Wächter geht
+$EVE_034_V1_AGENTS_DISAPPEAR_MAIN_01
+An einem Haken hängt eine Uniform in Übergröße. Nur einer Ihrer Mitarbeiter ist groß genug, sie zu tragen – Ihr Lieblingsgerichtsdiener Raphaël Clovis. In einer der Taschen finden Sie einen kurzen Brief, aus dem besonders folgende Sätze hervorstechen: „Ich verlasse den Dienst“, „Ich halte das nicht länger aus“ und „Zu viel Blut an meinen Händen“. Die Ratten verlassen das sinkende Schiff.
+$EVE_034_V1_AGENTS_LEAVE_TITLE
+Der Wächter geht
+$EVE_034_V1_AGENTS_LEAVE_MAIN_01
+Du entdeckst eine Uniform in Übergröße am Haken. Nur ein Mann ist groß genug, sie zu tragen – dein Lieblingsgerichtsdiener, Raphaël Clovis. Ein Brief in der Innentasche verrät, auf wessen Seite Clovis steht – auf der deines Bruders. Er wird gegen dich kämpfen, um sich selbst zu retten. Oder ist er einfach nur deiner Taten müde? Um Gewissheit zu haben, musst du ihn finden. Das Schlimmste ist: Er kennt deine Schwächen…

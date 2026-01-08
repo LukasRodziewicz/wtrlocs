@@ -1,0 +1,28 @@
+$KEYWORD_CATEGORY_001
+Personnalité de la personne jugée
+$KEYWORD_CATEGORY_002
+Mobile
+$KEYWORD_CATEGORY_003
+Circonstances atténuantes
+$KEYWORD_CATEGORY_004
+Accusation
+$KEYWORD_CATEGORY_005
+Pièce à conviction
+$KEYWORD_CATEGORY_006
+Témoignage
+$KEYWORD_CATEGORY_007
+Scène de crime
+$KEYWORD_CATEGORY_008
+Témoins
+$KEYWORD_CATEGORY_009
+Mode opératoire
+$KEYWORD_CATEGORY_010
+Arme
+$KEYWORD_CATEGORY_011
+Contre-révolution
+$KEYWORD_CATEGORY_012
+Déroulement des faits
+$KEYWORD_CATEGORY_013
+Victime
+$KEYWORD_CATEGORY_014
+Défense

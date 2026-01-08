@@ -1,0 +1,73 @@
+#A01C1_D07_LETTER_MAIN
+Vatandaş Capet yakalandı!
+#A01C2_D09_LETTER_MAIN
+Sayın Yurttaş Fidèle,
+Sizi ülkemizin tarihine adınızı yazdırmanızdan dolayı tebrik etmek için yazıyorum. Yurttaş Capet’nin davası herkesin dilinde. Ayrıca, Yurttaş Burel’in yerine geçecek Ulusal Muhafızlar Başkomutanı’nın atanması gibi önemli bir konuyu da görüşmek isterim. Samimiyetle inanıyorum ki, bu görev için en uygun aday benim. İzniniz olursa, bu akşam sizi ziyaret etmek isterim.
+#A01C2_D09_LETTER_SENDER
+Cumhuriyet çok yaşasın, François Hanriot
+#A01C2_D13_LETTER_MAIN
+Paris, adaletin böylesine ateşli bir savunucusuna sahip olduğu için minnettar olmalı. Biz, Ulusal Konvansiyon’un vekilleri, koltuklarımız için endişelenmeli miyiz?
+#A01C2_D13_LETTER_SENDER
+Cumhuriyet çok yaşasın, Robespierre
+#A01C2_D16_LETTER_MAIN
+Sevgili Dostum,
+Hayatınıza yönelik korkunç bir suikast girişiminden sonra iyileşmekte olduğunuzu duydum. Bakan Roland ile yaşadığınız anlaşmazlık, Konvansiyonu ele geçirip muhtemelen tiranlığı yeniden tesis etmek isteyen Jirondenlerin harekete geçmesine yol açtı. Cumhuriyeti savunmak adına, grubum önce davranıp darbenin liderlerini tutuklamak istiyor. Şüpheliler listesi henüz kesinleşmedi, çünkü size suikast girişiminde hangi Roland’ın suçlanması gerektiğinden hâlâ emin değiliz.
+#A01C2_D16_LETTER_SENDER
+Cumhuriyet çok yaşasın,
+Maximilien Robespierre
+#A01C2_D17_LETTER_MAIN
+Rolandların haydutları suikast girişimini gerçekleştirdi. Parasını Pache ödedi. Fakat kimin planladığını hâlâ bilmiyorum.
+#A01C2_D17_LETTER_SENDER
+Ramel
+#A01C3_D19_LETTER_MAIN
+Alexis Fidèle’ye,
+Acil bir görüşme talebiniz olduğunu ve hayatınıza yönelik suikast girişiminin şüphelileri hakkında konuşmak istediğinizi duydum. Bunu sizinle konuşmaktan memnuniyet duyarım.
+#A01C3_D19_LETTER_SENDER
+Cumhuriyet çok yaşasın, Jean-Nicolas Pache
+#A01C3_D20_NOTE_MAIN
+Marie, Béatrice Caron ile buluşmak için her fırsatı değerlendiriyor. Muscadinlerin eylemleriyle bir ilgisi yok, ama… aksini göstermek bizim elimizde. Her şeyin Muhafızların bir operasyonu gibi görünmesi çok önemli. Sen doğrudan dahil olmamalısın.
+#A01C2_D13_MAP_LOCKED
+Yaralandınız. Düşmanlarınızın hamlelerini yalnızca pasif olarak izleyebilirsiniz.
+$LETTER_CO_01_03_16_MAIN
+Devrimci Mahkeme’nin Saygıdeğer Yargıçları,
+Cumhuriyet’in düşmanları her geçen gün çoğalıyor. Hainleri zayıflatmak için çabalıyoruz, fakat başarılı olmak istiyorsak Mahkeme daha hızlı ve kararlı olmalı. Artık kimseyi hapse göndermeyeceğiz! Uzayan davalara son! Açık ve bariz davalarda, soruşturmacılar dosyaları kısaltacak ve 22 Prairial Yasası uyarınca siz, Yargıçlar, sanığın kimliğini tespit ettikten hemen sonra hüküm verebileceksiniz. Duruşmaya gerek kalmayacak.
+$LETTER_CO_01_03_16_SENDER
+Robespierre
+$LETTER_CO_01_03_23_001_TITLE
+Sayın Yurttaş,
+$LETTER_CO_01_03_23_001_MAIN
+Hem bir birey olarak hem de Ulusal Konvansiyon’un temsilcisi sıfatıyla, oğlunuzun vefatından derin üzüntü duyuyor ve başsağlığı diliyorum.
+$LETTER_CO_01_03_23_001_SENDER
+Maximilien Robespierre
+$LETTER_CO_01_03_23_002_TITLE
+Sayın Yurttaş,
+$LETTER_CO_01_03_23_002_MAIN
+Ailenize karşı işlenen korkunç suç karşısında ne kadar üzgün olduğumu tarif edemem. Fransa sizinle!
+$LETTER_CO_01_03_23_002_SENDER
+Georges Danton
+$LETTER_CO_01_03_23_003_TITLE
+Dostum,
+$LETTER_CO_01_03_23_003_MAIN
+Böylesine korkunç bir şeyi kim yapmış olabilir? Yakında görüşeceğiz, dostum.
+$LETTER_CO_01_03_23_003_SENDER
+Jacques-Louis David
+$LETTER_CO_01_03_23_004_TITLE
+Sayın Yurttaş,
+$LETTER_CO_01_03_23_004_MAIN
+Böyle zamanlarda kendimizi ancak Tanrı’nın iradesine bırakabiliriz. Aileniz için dua ediyoruz.
+$LETTER_CO_01_03_23_004_SENDER
+Jean-Baptiste Gobel
+$LETTER_CO_01_03_23_005_TITLE
+Sevgili Fidèle,
+$LETTER_CO_01_03_23_005_MAIN
+Paris’in altını üstüne getirmek isterseniz, Muhafızlar emrinizde. Bir çocuğa saldırmak, ancak bir delinin işi olabilir!
+$LETTER_CO_01_03_23_005_SENDER
+François Hanriot
+$LETTER_CO_01_03_23_006_MAIN
+İlk taziye mektupları geldi mi? Ailenize yapılan saldırıdan kesinlikle yazarlardan biri sorumlu.
+$LETTER_CO_01_03_23_006_SENDER
+Ramel
+$LETTER_CO_01_01_05_001
+
+$LETTER_CO_01_01_05_002
+

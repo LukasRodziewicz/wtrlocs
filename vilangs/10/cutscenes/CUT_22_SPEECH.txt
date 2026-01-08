@@ -1,0 +1,48 @@
+$CUT_22_SPEECH_001_CROWD
+Ne zaman nihayet o kutsal iki yüzlülerden kurtulacağız?
+$CUT_22_SPEECH_002_CROWD
+Söyleyin bize, Bay Yargıç!
+$CUT_22_SPEECH_003_CROWD
+Tinville onları ne zaman köşeye sıkıştıracak?
+$CUT_22_SPEECH_004_JUDGE_AGGR
+Öfkelenin, acımasız olun! Birinin başı kazığa geçirilmesi gerekiyorsa – yapın! Burası sizin şehriniz, sizin ülkeniz!
+$CUT_22_SPEECH_005_JUDGE_MANI
+Bak, seni ne hale getirdiler. Seni görmek zorunda kalmaları için sokağa çıkmak zorunda kaldın. Öfkelenmekte sonuna kadar haklısın ve onların sonu yaklaşırken korkudan titremeliler!
+$CUT_22_SPEECH_006_JUDGE_JOKE
+Gerçekten de mutsuz suratlarınızın onları rahatsız ettiğini mi sanıyorsunuz? Onları korkutmak istiyorsanız, yumruklarınızı sıkarak ve meşalelerinizi yukarıda tutarak yaklaşmalısınız.
+$CUT_22_SPEECH_007_JUDGE_HUMI
+Ne hissettiğini biliyorum ve yanındayım. Mermer saraylarında güven içinde yaşayan, pahalı giysilere bürünen o insanlar, çektiğin acıların kaynağı!
+$CUT_22_SPEECH_008_JUDGE_AGGR
+Bu asalaklar sizin alın terinizle, emeğinizle besleniyordu! Yeter artık! Devrim hepimizi eşit kılacaktı, ama ruhban sınıfı yine bize tepeden bakıyor! Vendée bunu kanıtladı!
+$CUT_22_SPEECH_009_JUDGE_MANI
+Ruhban sınıfı sizin için hiçbir şey yapmadı, her zaman yalnızca kendi çıkarları için yaşadılar. Vendée’deki isyanı, kaybettikleri gücü geri almak için kullanıyorlar.
+$CUT_22_SPEECH_010_JUDGE_JOKE
+İnancınızı savunmayı reddeden ve sizi yalnızca tiksindiren insanlara gerçekten ihtiyacınız var mı?
+$CUT_22_SPEECH_011_JUDGE_HUMI
+Vatandaşlar, özgürlüğünüz ve eşitliğiniz için çok ağır bir bedel ödediniz; bunları, bir daha asla mücadele etmenize izin vermeyecek birine teslim edemezsiniz.
+$CUT_22_SPEECH_012_JUDGE_AGGR
+Her hain grubunun başında bir adam vardır. Bu sefer de farklı değil. Başpiskopos Gobel, iç savaş Fransa’yı zayıflatana dek bekliyor, tam zamanı gelince kendini taçlandırmak için! Eski düzeni geri getirmek istiyor!
+$CUT_22_SPEECH_013_JUDGE_MANI
+Başpiskopos Gobel, bizzat sizin devirdiğiniz o kötülüğün bir başka suretidir! Yoluna çıkan herkesi gözetler, kışkırtır ve taciz eder!
+$CUT_22_SPEECH_014_JUDGE_JOKE
+Eğer Gobel gerçekten sizin iyiliğinizi düşünseydi, vaaz vermekle yetinirdi. Ama o, isyanları ve eski düzenin geri gelmesini tercih ediyor.
+$CUT_22_SPEECH_015_JUDGE_HUMI
+Tüm emeklerinizin küle dönmesine izin vermeyin; çünkü o küllerden, Gobel gibi insanlar çıkıp papa adına sizi yönetmeye kalkacaktır.
+$CUT_22_SPEECH_016_JUDGE_AGGR
+Sizden gayrimeşru çocuğu hakkında gerçeği söylemesini isteyin! Vendée’deki isyan ve iç savaşın başlangıcındaki rolünü anlatmasını talep edin!
+$CUT_22_SPEECH_017_JUDGE_MANI
+Başpiskoposun gayrimeşru çocuğuna dair gerçeğin erdemli bir yaşam üzerine yığılan vaazların altında kaybolmasına gerçekten göz mü yumacaksınız? Din adamlarının inananlar yerine iç savaşları desteklemesine izin mi vereceksiniz?
+$CUT_22_SPEECH_018_JUDGE_JOKE
+Başpiskoposun gayrimeşru çocuğu hakkında dedikoduları duydun mu? O zaman kendisine sor. Bakalım sana hangi masalları anlatacak.
+$CUT_22_SPEECH_019_JUDGE_HUMI
+Fransa, gayrimeşru çocukları olan rahiplere ya da iç savaşlara karışan başpiskoposlara tahammül edemez. Ona bunu söyleyin.
+$CUT_22_SPEECH_020_JUDGE
+Yükselin!
+$CUT_22_SPEECH_TOPIC_01
+Ne kadar öfkeli olduğunu biliyorum. Suç onların.
+$CUT_22_SPEECH_TOPIC_02
+Yıllarca sizin alın terinizle geçindiler. Hâlâ da öyle yapıyorlar!
+$CUT_22_SPEECH_TOPIC_03
+Gobel, yalancıların en kötüsüdür.
+$CUT_22_SPEECH_TOPIC_04
+Ona git. Gerçeği senden saklamamasını iste!

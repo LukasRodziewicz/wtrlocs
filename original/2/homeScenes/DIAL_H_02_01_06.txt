@@ -1,0 +1,18 @@
+$DIAL_H_02_01_06_001_RAMEL
+Tous les indices menaient à Gobel.
+$DIAL_H_02_01_06_002_JUDGE
+Si Renard était le véritable coupable de la mort de mon fils, je n'aurais pas dû déclarer la guerre à Gobel.
+$DIAL_H_02_01_06_003_RAMEL
+J'ai commis une erreur. Mes excuses.
+$DIAL_H_02_01_06_004_JUDGE
+À ma gauche, j'ai un Gobel furieux, et à ma droite, des aristocrates revanchards. Une guerre sur deux fronts, au moment même où notre pays est rongé par la guerre civile.
+$DIAL_H_02_01_06_005_RAMEL
+Peut-être devrais-tu consentir à cette alliance ?
+$DIAL_H_02_01_06_006_JUDGE
+Je ne m'allierai pas aux assassins de mon fils !
+$DIAL_H_02_01_06_007_RAMEL
+Il t'en reste un.
+$DIAL_H_02_01_06_008_JUDGE
+C'est hors de question.
+$DIAL_H_02_01_06_009_RAMEL
+Le choix t'appartient. Mais je préférerais n'enterrer plus aucun membre de ta famille.

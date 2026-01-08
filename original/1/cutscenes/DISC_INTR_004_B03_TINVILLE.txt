@@ -1,0 +1,60 @@
+$DISC_INTR_004_B03_TINVILLE_001_JUDGE
+Danton is ready to resign his position at any moment.
+$DISC_INTR_004_B03_TINVILLE_002_TINVILLE
+Everything is happening suspiciously fast.
+$DISC_INTR_004_B03_TINVILLE_003_JUDGE
+Because you were not expecting it. An independent observer would say that you have worked hard to get this promotion.
+$DISC_INTR_004_B03_TINVILLE_004_TINVILLE
+It could also be an obvious trap.
+$DISC_INTR_004_B03_TINVILLE_005_JUDGE_AGGR
+You have sworn to defend the rules of the Revolution – just as I did. Keep your oath!
+$DISC_INTR_004_B03_TINVILLE_006_JUDGE_MANI
+If you do not help us, the consequences will be on your conscience. You will be as guilty as Robespierre!
+$DISC_INTR_004_B03_TINVILLE_007_JUDGE_JOKE
+You do not seem to be a person able to live with the knowledge that someone else does your work. As I already do in the court.
+$DISC_INTR_004_B03_TINVILLE_008_JUDGE_HUMI
+The situation in the city is out of control. There is no one else to help me.
+$DISC_INTR_004_B03_TINVILLE_009_TINVILLE_INTR
+You flatter me.
+$DISC_INTR_004_B03_TINVILLE_010_TINVILLE_DOUB
+I am not the right person to save the reputation of the Committee of Public Safety. There are better and more experienced candidates.
+$DISC_INTR_004_B03_TINVILLE_011_TINVILLE_IRRI
+This is absurd. You have the whole city, all the heroes of the Revolution, and yet you are asking me, an ordinary prosecutor, to save Paris?
+$DISC_INTR_004_B03_TINVILLE_012_JUDGE_AGGR
+Are you not as strong as Robespierre or Danton? They also had to oppose stronger rivals to become powerful.
+$DISC_INTR_004_B03_TINVILLE_013_JUDGE_MANI
+How can you walk away from such an opportunity? Do you not dream of a career? Robespierre would not hesitate.
+$DISC_INTR_004_B03_TINVILLE_014_JUDGE_JOKE
+If Robespierre managed to climb to the top, why would you not do the same? You are equally as good.
+$DISC_INTR_004_B03_TINVILLE_015_JUDGE_HUMI
+This is your chance to join the pantheon of the Revolution’s heroes forever. Seize the opportunity, as Danton once did.
+$DISC_INTR_004_B03_TINVILLE_016_JUDGE_AGGR
+If you are too scared, who else will carry this burden? Danton is leaving, and people only join Robespierre because they fear him. They need a new role model, a new leader!
+$DISC_INTR_004_B03_TINVILLE_017_JUDGE_MANI
+The Committee needs to be supervised. It must be transparent and lawful. Who else could be assigned this difficult task?
+$DISC_INTR_004_B03_TINVILLE_018_JUDGE_JOKE
+Who else could do this? That madman Marat? My son?
+$DISC_INTR_004_B03_TINVILLE_019_JUDGE_HUMI
+Try to understand, I beg of you. We do not need ministers who specialise in war or finance. The people need someone who will show them there is still justice in the Republic.
+$DISC_INTR_004_B03_TINVILLE_020_JUDGE_AGGR
+Do not dare turn your back on me. I have worked too hard to convince those two constantly fighting cocks Danton and Hébert to work together and support you!
+$DISC_INTR_004_B03_TINVILLE_021_JUDGE_MANI
+Danton and Hébert decided that you are the best possible candidate. They asked my opinion and I agreed with them. You now have powerful support, this is your chance of a lifetime.
+$DISC_INTR_004_B03_TINVILLE_022_JUDGE_JOKE
+Danton and Hébert are tired of being leaders, they want fresh blood to lead the change. There is a vacancy and they wish you to fill it, as do I.
+$DISC_INTR_004_B03_TINVILLE_023_JUDGE_HUMI
+Hear the voice of an exhausted France, so desperate for freedom. Danton, Hébert, and I, we understand and want to give this freedom to France. Please, say yes and make things right.
+$DISC_INTR_004_B03_TINVILLE_024_TINVILLE_INTR
+Fine, I will think this through and give you my answer tomorrow in the courtroom.
+$DISC_INTR_004_B03_TINVILLE_025_TINVILLE_DOUB
+I need to think this through. This conversation was not entirely clear to me.
+$DISC_INTR_004_B03_TINVILLE_026_TINVILLE_IRRI
+I think that you want to implicate me in something, perhaps give me to Robespierre somehow. As always, you have your motives. I will give you one last chance – let us play dice. If you win, I will do as you ask.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_01
+You have to help us get the situation under control.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_02
+This is how the greatest have reached for power.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_03
+There is no one more suitable than you.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_04
+You have our support.

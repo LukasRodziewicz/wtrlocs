@@ -1,0 +1,95 @@
+$PROLOG_PRE_01_MT
+Erinnere mich das nächste Mal daran, dass ich mit diesem Fusel aufhören wollte. Und zwar bevor ich ihn trinke. Wir machen Themis alle Ehre, haha… Kommt da jemand?
+$PROLOG_PRE_02_WF
+Das musste so kommen…
+$PROLOG_PRE_03_ES
+Ich hab’s dir doch gesagt…
+$PROLOG_PRE_04_YS
+Papa, du hast gesagt, wir würden gehen… Du hast es versprochen…
+$PROLOG_PRE_05_MT
+Papa hatte sehr viel… Arbeit.
+$PROLOG_PRE_06_ES
+Ja, viele schwere Gläser …
+$PROLOG_PRE_07_WF
+Du hast es mir versprochen… Ich kann nicht mehr… Ich habe es satt, immer wieder zu bitten.
+$PROLOG_PRE_08_YS
+Mama ist wütend, weil…
+$PROLOG_PRE_09_ES
+Ruhe.
+$PROLOG_PRE_10_WF
+Heute wollte dein Lieblingssohn beweisen, dass er ehrenhafter ist als sein Vater, und hat deshalb eine Prügelei angefangen. Ein fünfjähriger Junge, um Himmels willen!
+$PROLOG_PRE_11_WF
+Unsere Nachbarn wollten, dass du ihnen das erklärst, aber… nun ja, du hast wieder für die Gerechtigkeit gekämpft. In einer Schenke. Verdammt, du elender Säufer…
+$PROLOG_PRE_12_ES
+Mutter…
+$PROLOG_DOC_01_HEADER
+Brief von Aurélie Dupond
+$PROLOG_CASE_DOC_HEADER
+An Richter Alexis Fidèle,
+$PROLOG_CASE_DOC_MAIN
+An Richter Alexis Fidèle,
+	 ein solches Verhalten Ihres Sohnes hätten wir nicht erwartet – wenngleich wir es wohl hätten tun sollen. <a name="1" class="hidden">Unschuldiges</a> Kinderspiel wurde zu <a name="2" class="hidden">einem Übergriff</a> auf unsere Kinder. 
+	
+	 Der Kleine, <a name="3" class="hidden">Antoine</a>, hat jetzt einen <a name="4" class="hidden">abgebrochenen Schneidezahn</a>. Wir hoffen, dass Sie Ihr Kind entsprechend bestrafen! Sollte sich so etwas wiederholen, werden wir entschlossener reagieren. Ich bin sicher, wir wissen mit einem Spieler und Trunkenbold umzugehen, selbst wenn er Richter ist… Wir werden nicht zulassen, dass unsere Kinder verletzt werden!
+$PROLOG_KEYWORD_01
+Kinderspiel
+$PROLOG_KEYWORD_02
+Kämpfende Kinder
+$PROLOG_KEYWORD_03
+Verletzter Antoine
+$PROLOG_KEYWORD_04
+Abgebrochener Zahn
+$PROLOG_KEYWORD_05
+Wahrscheinlichkeit eines Rückfalls
+$PROLOG_01_D1_01_JD
+Wie ist aus eurem Spiel ein Streit geworden?
+$PROLOG_01_D1_02_YS
+Unsere Nachbarskinder, Antoine und Jean… Sie haben böse Sachen über dich gesagt. Wir haben Wächter gespielt, und sie wollten, dass ich einen Betrunkenen spiele, den sie dann… du weißt schon…
+$PROLOG_01_D1_03_JD
+Du hast es mit beiden gleichzeitig aufgenommen?
+$PROLOG_01_D1_04_YS
+Ich musste.
+$PROLOG_02_D1_01_JD
+Was genau haben sie gesagt?
+$PROLOG_02_D1_02_ES
+Bist du zu betrunken, um darauf zu kommen?
+$PROLOG_02_D1_03_JD
+Ich habe dich nicht gefragt.
+$PROLOG_02_D1_04_YS
+Sie schrien, dass du… na ja… ich habe ihnen gesagt, dass das nicht stimmt, und dann haben sie mich beschimpft. Sie nannten mich „Sohn eines Säufers“.
+$PROLOG_03_D1_01_JD
+Wer hat den Streit angefangen?
+$PROLOG_03_D1_02_ES
+Ich kann Ihnen sagen, wer dem ein Ende gesetzt hat…
+$PROLOG_03_D1_03_YS
+Ähm, ich glaube, das war… ich. Ich habe den Linken getreten und wollte dann den Rechten erwischen, aber…
+$PROLOG_03_D1_04_ES
+Aber sie haben es beendet.
+$PROLOG_03_D1_05_YS
+Sie warfen mich zu Boden und revanchierten sich für meinen Schlag.
+$PROLOG_04_D1_01_JD
+Hast du Antoine wirklich einen Zahn ausgeschlagen?
+$PROLOG_04_D1_02_ES
+Frédéric ist doch noch ein Kind.
+$PROLOG_04_D1_03_YS
+Ich weiß nicht… Ich glaube nicht.
+$PROLOG_04_D1_04_JD
+Haben Sie ihm ins Gesicht geschlagen?
+$PROLOG_04_D1_05_YS
+Ich glaube, ich habe ihn getreten, aber nicht besonders fest…
+$PROLOG_CASE_ON_GUILTY
+Leider solltest du keine Schlägereien anfangen, ganz gleich aus welchem Grund.
+$PROLOG_CASE_ON_NOTGUILTY
+Du hast dich gut geschlagen. Ein Mann muss die Ehre seiner Familie verteidigen, komme was wolle.
+$PROLOG_POST_01_WF
+Diese Kinder sind noch so klein, und doch kennen sie schon die Wahrheit – der Vater meiner Kinder ist ein verlogener Trinker und Spieler. Bernard hat dich einst vergöttert, aber er ist schnell erwachsen geworden. Jetzt ist Frédérics Zeit gekommen, die Wahrheit zu erfahren, die auf den Straßen widerhallt.
+$PROLOG_POST_02_WF
+Und Sie, Raymond? Sie sollen doch der Mentor meines Mannes sein – ist das, was Sie ihm beibringen wollten? Wie man Ihre Fehler wiederholt und seine Familie verliert?
+$PROLOG_POST_03_MT
+Ich hätte nicht gedacht, dass Mathilde so temperamentvoll ist.
+$PROLOG_POST_04_JD
+Wie ich auch…
+$PROLOG_POST_05_WF
+Wir warten draußen, wie immer.
+$PROLOG_GUILTY
+Schuldig

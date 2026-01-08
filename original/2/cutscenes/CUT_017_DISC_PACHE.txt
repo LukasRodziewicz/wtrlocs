@@ -1,0 +1,78 @@
+$CUT_017_DISC_PACHE_001_JUDGE
+Enfin je te rencontre en personne.
+$CUT_017_DISC_PACHE_002_PACHE
+Je suis vraiment navré que tu aies dû faire face à une telle violence.
+$CUT_017_DISC_PACHE_003_PACHE
+Si seulement je connaissais l'ordure qui a commis cet ignoble crime…
+$CUT_017_DISC_PACHE_003_JUDGE_AGGR
+Je me suis promis de retrouver ceux qui ont voulu me tuer. Qui a bien pu oser ? Je veillerai à ce que la guillotine s'abreuve de leur sang.
+$CUT_017_DISC_PACHE_004_JUDGE_MANI
+Ces individus préfèrent agir à la faveur de l'obscurité, comme toi et moi quand il s'agit de satisfaire nos besoins triviaux. La nuit devrait rester l'apanage des… bonnes personnes.
+$CUT_017_DISC_PACHE_005_JUDGE_JOKE
+Mon épouse me presse de retrouver les auteurs du crime. Quant à moi, je serais ravi de retourner à mon devoir. Tu me comprends, citoyen ?
+$CUT_017_DISC_PACHE_006_JUDGE_HUMI
+Peut-être sont-ce les Parisiens qui ont parlé dans cette attaque, mais il me semble plus probable qu'elle soit l'œuvre de quelqu'un qui n'aime pas la Révolution autant que nous deux.
+$CUT_017_DISC_PACHE_007_PACHE_SATI
+Il est parfaitement compréhensible que tu veuilles leur mettre la main dessus.
+$CUT_017_DISC_PACHE_008_PACHE_INTR
+L'attaque fut horrible en effet. Je serais ravi de savoir qui a eu l'audace et la détermination de commettre un tel acte.
+$CUT_017_DISC_PACHE_009_PACHE_DOUB
+Je doute que ceux que tu cherches soient à Paris. Soit ils ont déjà pris la fuite, soit ils ont été éliminés par ceux qui les avaient envoyés. Tu courras après des fantômes.
+$CUT_017_DISC_PACHE_010_JUDGE_AGGR
+Je remuerai ciel et terre pour les attraper ! J'exige que l'homme supposé gouverner cette ville montre bel et bien que Paris est régie par la justice et non par les criminels !
+$CUT_017_DISC_PACHE_011_JUDGE_MANI
+Partout on m'a dit que Jean-Nicolas Pache n'était pas homme à fermer les yeux sur une telle crapulerie. Les Parisiens ont-ils tort ?
+$CUT_017_DISC_PACHE_012_JUDGE_JOKE
+Honnêtement, je ne sais pas pourquoi je t'ai choisi pour m'aider dans cette enquête. Sans doute avais-tu l'air le plus amical et compatissant d'entre tous les candidats.
+$CUT_017_DISC_PACHE_013_JUDGE_HUMI
+Qui d'autre pourrait restaurer la paix et l'ordre si ce n'est le maire de cette ville grandiose ? Tu es le seul qui peut mettre fin à la brutalité dont j'ai été victime dans la rue.
+$CUT_017_DISC_PACHE_014_PACHE_SATI
+Je suis flatté que tu me considères comme un défenseur éclairé de la ville.
+$CUT_017_DISC_PACHE_015_PACHE_INTR
+Je vois la fureur brûler dans tes yeux. Je suis irrésistiblement curieux de voir ce que nous pourrions accomplir ensemble, toi et moi.
+$CUT_017_DISC_PACHE_016_PACHE_DOUB
+Comme je te l'ai dit, je suis navré pour toi. Mais laissons cela aux gens du métier, il nous faut discuter d'affaires plus importantes.
+$CUT_017_DISC_PACHE_017_PACHE_IRRI
+Ton compagnon, François Hanriot, serait mieux placé pour t'aider. Oui, j'ai eu vent de votre petite alliance. C'est pourquoi je te soupçonne de ne pas être entièrement honnête avec moi, citoyen Fidèle.
+$CUT_017_DISC_PACHE_018_JUDGE_AGGR
+Je ne sais pas si un homme qui chérit la vertu devrait accepter une récompense plus grande que celle de réparer les torts envers les pauvres et de punir les criminels.
+$CUT_017_DISC_PACHE_019_JUDGE_MANI
+Mes agresseurs courent encore les rues de Paris et pourraient s'en prendre à n'importe qui. Je frémis à l'idée de ce qui pourrait arriver s'ils étaient engagés par quelqu'un qui projetterait une pareille attaque, par exemple, contre le maire de Paris.
+$CUT_017_DISC_PACHE_020_JUDGE_JOKE
+Ces personnes sont mortes, leur sort a déjà été décidé. Néanmoins, au lieu de tuer des suspects quelconques, je préférerais mettre la main sur les bonnes personnes du premier coup.
+$CUT_017_DISC_PACHE_021_JUDGE_HUMI
+L'avenir de ce pays dépend de notre courage et de notre rectitude. Méritons-nous les louanges du peuple si nous restons indifférents à leurs lamentations ? Ces assassins menacent tous les citoyens.
+$CUT_017_DISC_PACHE_022_JUDGE_AGGR
+Si ton aide a un prix, je m'y résoudrai. Tu recevras une part des bénéfices de l'établissement confisqué à Mme Roland. Tu seras des nôtres.
+$CUT_017_DISC_PACHE_023_JUDGE_MANI
+L'établissement de Mme Roland a besoin d'administrateurs fiables. Il risquerait autrement de servir à des fins indignes, voire contre nous. Et s'il m'est possible d'en partager les bénéfices avec toi…
+$CUT_017_DISC_PACHE_024_JUDGE_JOKE
+Le bordel de Mme Roland que nous avons saisi produira suffisamment de bénéfices pour nous tous, je peux les partager avec toi. Après tout, nous sommes censés devenir amis.
+$CUT_017_DISC_PACHE_025_JUDGE_HUMI
+Je ne ferai pas appel à quelqu'un d'aussi bon que toi sans t'offrir quelque chose en retour. Vois-tu, Jean-Nicolas, Mme Roland a monté un bien bel endroit et je voudrais en partager les bénéfices avec toi.
+$CUT_017_DISC_PACHE_026_JUDGE_AGGR
+Cette alliance nous est tous deux nécessaire. Personne ne rejette la main tendue du juge du Tribunal. Je n'accepterai pas ton refus.
+$CUT_017_DISC_PACHE_027_JUDGE_MANI
+L'arrestation des assassins n'est que le début. Grâce à cette alliance, tu pourras devenir l'homme le plus puissant de Paris. Je t'aiderai volontiers.
+$CUT_017_DISC_PACHE_028_JUDGE_JOKE
+Quel plaisir de savoir que je peux retourner à mon devoir sachant qu'un homme aussi bon que toi prend soin de ma sécurité. Cette alliance est en effet bénéfique. Je t'en prie, accorde-moi cette faveur.
+$CUT_017_DISC_PACHE_029_JUDGE_HUMI
+Fais-moi donc l'honneur de sceller notre amitié et notre alliance. Ensemble, nous retrouverons les assassins et ferons de Paris une ville plus paisible.
+$CUT_017_DISC_PACHE_030_PACHE_SATI
+J'accepte la main que tu me tends, car cette alliance rendra à tous la ville meilleure : les Parisiens, toi, et moi !
+$CUT_017_DISC_PACHE_031_PACHE_INTR
+Dommage que nous ne nous soyons pas connus plus tôt, tu es un homme intrigant. Unissons nos forces.
+$CUT_017_DISC_PACHE_032_PACHE_DOUB
+Tu t'es donné un grand mal pour me convaincre. Je n'irai pas jusqu'à dire que tu as pleinement réussi… Mais quoi qu'il en soit, je prends le risque de te suivre.
+$CUT_017_DISC_PACHE_033_PACHE_IRRI
+Tu ne maîtrises pas l'art oratoire au point de parvenir à masquer tes réelles motivations. Cherches-tu à m'impliquer dans une affaire ? Peut-être trames-tu ma mort ? Même si je l'ignore, je doute que tu aies de bonnes intentions. Ta mort me réconfortera. Messieurs ?
+$CUT_017_DISC_PACHE_TOPIC_01
+Assassinat / Recherche des auteurs
+$CUT_017_DISC_PACHE_TOPIC_02
+Seul Pache est en mesure d'aider
+$CUT_017_DISC_PACHE_TOPIC_03
+La morale doit l'emporter
+$CUT_017_DISC_PACHE_TOPIC_04
+Participation proposée dans la maison close
+$CUT_017_DISC_PACHE_TOPIC_06
+À la recherche d'un ami/allié

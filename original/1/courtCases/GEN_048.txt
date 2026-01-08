@@ -1,0 +1,158 @@
+$GEN_048_DOC_01_HEADER
+Compiled by: Charles Etienne
+$GEN_048_DOC_01_00
+	The daughter of Jean and Marie Picque died immediately after birth. The father testified that he heard the child crying loudly and intensely. Yet, when he entered the room occupied by his wife, one servant, and the midwife, his daughter was not breathing.
+$GEN_048_DOC_01_01
+	The doctor called by Mr and Mrs Picque arrived the next day. He noticed <a name="4" class="hidden">strangulation marks</a> on the infant’s neck, and he was the one who informed the Guard. The investigator was unable to interrogate the parents, as they were both in shock and filled with despair.
+$GEN_048_DOC_01_02
+	We found numerous signs of the birth in the untidy bedroom. Among them were <a name="5" class="hidden">forceps</a> left by the midwife, who, as we learned from the servant, left in a great hurry. It looked as though she were escaping.
+$GEN_048_DOC_01_03
+	We managed to establish the midwife’s identity as Claudine Sessier. People say she has bad luck when it comes to delivering girls, as most of her infant female patients did not make it. We decided to arrest her as a suspect. Investigators found an open <a name="7" class="hidden">Bible</a> on her kitchen table.
+$GEN_048_DOC_01_04
+Evidence:
+$GEN_048_DOC_01_05
+	Sessier’s Bible is an old, cheap, and worn-out edition. She had underlined numerous excerpts in pencil.
+$GEN_048_OnStart_00
+Midwife Sessier?
+$GEN_048_OnStart_01
+Aye, that’s me.
+$GEN_048_OnStart_02
+Did you strangle Mr and Mrs Picque’s child?
+$GEN_048_OnStart_03
+I had to, monsieur le juge. Unfortunately, the child was born a girl.
+$GEN_048_OnStart_04
+You will burn in hell!
+$GEN_048_OnStart_05
+What do you mean?
+$GEN_048_OnStart_06
+You’re a man, you wouldn’t understand. I just want women to stop suffering.
+$GEN_048_OnStart_07
+Then why do you strangle them?
+$GEN_048_OnStart_08
+As I said, you wouldn’t understand.
+$GEN_048_OnStart_09
+She’s crazy!
+$GEN_048_OnGuilty_00
+Citizen Sessier, you fill me with disgust, and it is with great relief that I sentence you to death.
+$GEN_048_OnGuilty_01
+That’s not enough! Have her quartered!
+$GEN_048_OnGuilty_02
+I will sleep better knowing that she is not practising her profession.
+$GEN_048_OnNotGuilty_00
+Citizen Sessier, I find you not guilty. You may go.
+$GEN_048_OnNotGuilty_01
+The judge is in league with that murderous witch!
+$GEN_048_OnNotGuilty_02
+Guillotine the Judge!
+$GEN_048_OnNotGuilty_03
+This is betrayal!
+$GEN_048_OnNotGuilty_04
+If she continues to practise her profession, the deaths will be on you.
+$GEN_048_02x04_00_QTitle
+Was the child born alive?
+$GEN_048_02x04_00_00
+Was the child born alive?
+$GEN_048_02x04_00_01
+Yes, monsieur le juge.
+$GEN_048_02x04_00_02
+Did you strangle it with your own hands?
+$GEN_048_02x04_00_03
+No, I… I have a special bead necklace. It would be faster if I just broke their necks, but I’m not able to do it.
+$GEN_048_02x04_00_04
+I put forward a proposal to immediately conclude this interrogation… with a death sentence.
+$GEN_048_02x04_00_05
+Not yet. Citizen, how could you do something so terrible?
+$GEN_048_02x04_00_06
+I do it for them, monsieur le juge, not for myself. I have suffered enough and they will not have to.
+$GEN_048_01x07_01_QTitle
+Do you believe in God, woman?
+$GEN_048_01x07_01_00
+Do you believe in God, woman?
+$GEN_048_01x07_01_01
+No, monsieur le juge.
+$GEN_048_01x07_01_02
+What about the Bible in your house?
+$GEN_048_01x07_01_03
+The Bible is not a holy book, but a manual for men so that they can ruin our lives!
+$GEN_048_01x07_01_04
+Explain.
+$GEN_048_01x07_01_05
+The Letter to the Ephesians, for example, instructs, “Wives, submit yourselves to your husbands as you do to the Lord, for the husband is the head of the wife.” Men hear that in church and then treat women worse than animals!
+$GEN_048_01x07_01_06
+But are you not doing worse by killing them?
+$GEN_048_01x07_01_07
+I’m helping them.
+$GEN_048_01x07_01_08
+How exactly?
+$GEN_048_01x07_01_09
+Men are dying in the war, so there are fewer and fewer of them, so women have to fight over them. If there are fewer women, men will finally begin to respect them!
+$GEN_048_01x07_01_10
+That woman is possessed!
+$GEN_048_01x07_01_11
+Did men not respect you?
+$GEN_048_01x07_01_12
+My father gave me to a man. He beat me for eight years until he finally drunk himself to death.
+$GEN_048_01x07_01_13
+The Revolution stands against religious superstition. You do not have to.
+$GEN_048_01x07_01_14
+Does it? You fight for “brotherhood”, but you don’t care for your sisters.
+$GEN_048_02x05_02_QTitle
+Why did you leave the Picque’s house in such a hurry?
+$GEN_048_02x05_02_00
+Why did you leave the Picque’s house in such a hurry?
+$GEN_048_02x05_02_01
+The child was dead. There was nothing more I could help them with.
+$GEN_048_02x05_02_02
+Did you charge them for the birth?
+$GEN_048_02x05_02_03
+No, I couldn’t.
+$GEN_048_02x05_02_04
+Why?
+$GEN_048_02x05_02_05
+…
+$GEN_048_02x05_02_06
+Let me ask you again – why did you not take money from Mr and Mrs Picque?
+$GEN_048_02x05_02_07
+Stop tormenting me! I didn’t do it for myself. I just want other women to have a better life than me! If there are fewer of us than men, our thousand-year nightmare will come to an end!
+$GEN_048_02x05_02_08
+That tiny girl’s whole, short life was a nightmare.
+$GEN_048_KEY_01
+Daughter
+$GEN_048_KEY_02
+First cry
+$GEN_048_KEY_03
+Servant
+$GEN_048_KEY_04
+Strangulation marks
+$GEN_048_KEY_05
+Forceps
+$GEN_048_KEY_06
+The midwife’s escape
+$GEN_048_KEY_07
+Bible
+$GEN_048_LastDialog_00
+Yet another man hurting women! Patriarchy!
+$GEN_048_UNIQUE_QUESTION_00
+What did the woman confess during the hearing?
+$GEN_048_UNIQUE_ANSWER_CORRECT_00_00
+Her husband had been beating her for years.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_00_00
+She had four miscarriages.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Her mother died in a fire.
+$GEN_048_UNIQUE_QUESTION_01
+What did she use to murder the child?
+$GEN_048_UNIQUE_ANSWER_CORRECT_01_00
+A necklace.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Her own hands.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_01_01
+A pillow.
+$GEN_048_UNIQUE_QUESTION_02
+Did the defendant accept money for the delivery?
+$GEN_048_UNIQUE_ANSWER_CORRECT_02_00
+No, she refused.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Yes, she took it.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_02_01
+She demanded money and was denied.

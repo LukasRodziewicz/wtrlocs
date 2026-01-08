@@ -1,0 +1,22 @@
+$DIAL_H_03_01_04_001_ELDERSON
+Pai, preciso te contar uma coisa.
+$DIAL_H_03_01_04_002_JUDGE
+O que foi?
+$DIAL_H_03_01_04_003_ELDERSON
+Eu te odiei. Por muito tempo. Cheguei a pensar que era impossível desprezar alguém mais do que eu desprezava você. Mas naquela noite, quando seu irmão nos sequestrou, tudo mudou.
+$DIAL_H_03_01_04_004_JUDGE
+Filho...
+$DIAL_H_03_01_04_005_ELDERSON
+Sinceramente, eu não acreditava que ele realmente nos deixaria ir. Encarei a morte de frente e entendi que é assim que vocês são — doentes, emocionalmente destruídos.
+$DIAL_H_03_01_04_006_ELDERSON
+Uma geração inteira incapaz de deixar o passado para trás, incapaz de perdoar. Cheia de rancor. E somos nós que colhemos o que vocês plantaram. Cansei do ódio, porque não quero me tornar como você.
+$DIAL_H_03_01_04_007_JUDGE
+Ainda posso consertar tudo.
+$DIAL_H_03_01_04_008_ELDERSON
+Vocês não consertam nada. Nada vai mudar até que todos vocês morram de velhice e amargura. Só então a minha geração poderá começar a transformar o mundo para melhor.
+$DIAL_H_03_01_04_009_ELDERSON
+Já não sinto mais ódio de você, e talvez um dia eu consiga até entender por que você não quis ser diferente dos outros.
+$DIAL_H_03_01_04_010_JUDGE
+Eu tentei, mas é mais fácil falar do que...
+$DIAL_H_03_01_04_011_ELDERSON
+Em breve vou deixar este lugar e começar a buscar a resposta para essa pergunta. Você não vai conseguir me impedir...

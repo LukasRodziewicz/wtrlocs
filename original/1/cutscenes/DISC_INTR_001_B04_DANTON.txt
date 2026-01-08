@@ -1,0 +1,42 @@
+$DISC_INTR_001_B04_DANTON_001_JUDGE_AGGR
+Roland is a rotten louse. Corruption cannot become the hallmark of the new authorities.
+$DISC_INTR_001_B04_DANTON_002_JUDGE_MANI
+Does Roland really represent the people? Or is he instead working to the benefit of Capet and his servants?
+$DISC_INTR_001_B04_DANTON_003_JUDGE_JOKE
+We need to get rid of Roland for his own good. His pockets will soon burst apart from the amount of money he keeps in them.
+$DISC_INTR_001_B04_DANTON_004_JUDGE_HUMI
+France is bleeding and people like Roland will not let it heal its wounds. On the contrary, they only make them deeper.
+$DISC_INTR_001_B04_DANTON_005_DANTON_SATI
+Nothing would make me happier than the death of that leech, but I do not understand why it is so important to you.
+$DISC_INTR_001_B04_DANTON_006_DANTON_INTR
+I did not think that anyone outside the Convention would be so interested in his fall.
+$DISC_INTR_001_B04_DANTON_007_DANTON_DOUB
+Roland is a leech, but he is also a minister and a deputy chosen by the people.
+$DISC_INTR_001_B04_DANTON_008_JUDGE_AGGR
+Roland is not only guilty of bribes. He threatened a Judge of the Revolutionary Tribunal. The independent judiciary!
+$DISC_INTR_001_B04_DANTON_009_JUDGE_MANI
+In order to avoid punishment, Roland started a vendetta against me. By doing so, did he not declare war on the new order?
+$DISC_INTR_001_B04_DANTON_010_JUDGE_JOKE
+Mr and Mrs Roland are two mosquitoes, biting me, draining the blood of France. Nobody likes mosquitoes.
+$DISC_INTR_001_B04_DANTON_011_JUDGE_HUMI
+My own antipathy towards the minister does not change the fact that we should replace this corrupt Royalist with someone more just.
+$DISC_INTR_001_B04_DANTON_012_JUDGE_AGGR
+If you do not persuade the deputies, it will be proof that you tolerate the traitors who are still exercising their influence throughout France!
+$DISC_INTR_001_B04_DANTON_013_JUDGE_MANI
+If the deputies see that you want Roland to be gone, maybe they will stop suspecting you of being a Royalist?
+$DISC_INTR_001_B04_DANTON_014_JUDGE_JOKE
+The Girondins often trip over their own feet. You need only give them a gentle push.
+$DISC_INTR_001_B04_DANTON_015_JUDGE_HUMI
+There are times when Roland is closer to the Ancien Régime than Louis. If you want to be rid of the old order, now is your chance.
+$DISC_INTR_001_B04_DANTON_016_DANTON_SATI
+Weakening the Girondins is in France’s best interest. These days, we cannot afford people of mild views, and we will never tolerate those who are corrupt. I will not allow it!
+$DISC_INTR_001_B04_DANTON_017_DANTON_INTR
+The dominance of the Jacobins would be a pleasant thing. It would make ruling over the country so much easier and France would get up off its knees. Fine, I will help.
+$DISC_INTR_001_B04_DANTON_018_DANTON_DOUB
+The Girondins are losing power anyway. I will wait until they fall.
+$DISC_INTR_001_B04_DANTON_TOPIC_01
+What do we want to achieve?
+$DISC_INTR_001_B04_DANTON_TOPIC_02
+Why do we want it?
+$DISC_INTR_001_B04_DANTON_TOPIC_03
+What will he get out of it?

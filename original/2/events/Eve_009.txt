@@ -1,0 +1,18 @@
+$EVE_009_TITLE
+Les ordres sont les ordres
+$EVE_009_INTRO
+Monsieur le juge, une tragédie a eu lieu à deux rues d'ici. Les gens exigent la présence d'un juge !
+$EVE_009_C00
+À l'extérieur
+$EVE_009_MAIN_01
+Le garde vous conduit rapidement sur les lieux, où vous voyez une foule de gens en colère. Ils entourent plusieurs soldats armés qui tentent de les repousser, et cherchent à atteindre deux hommes qui font face au mur. Vous apprenez rapidement que le commandant François Hanriot a ordonné par contumace l'exécution de deux criminels qui ont tenté de voler un convoi d'armes militaires. Le peuple exige que vous interveniez et qu'un procès équitable ait lieu. Il ne serait cependant pas judicieux de contester les ordres d'un commandant, surtout un homme qui a obtenu son grade grâce à vous...
+$EVE_009_MAIN_01_C1
+Ordonner d'abattre les prisonniers
+$EVE_009_MAIN_01_C2
+Ordonner de libérer les hommes
+$EVE_009_MAIN_02A
+Des dizaines de personnes vous regardent bouche bée tandis que les soldats se préparent à tirer. BOUM ! Deux hommes tombent au sol, sans vie. Il n'y a rien de plus à voir, alors vous quittez les lieux…
+$EVE_009_MAIN_02B
+Les gens approuvent votre choix. Les soldats, confus, finissent par vous écouter et emmènent les hommes en prison. Cependant, ne croyez pas que vous avez échappé aux conséquences de vos actes, même si un autre juge sera chargé de leur procès. Quelqu'un devra payer pour avoir fait perdre la face au commandant.
+$EVE_009_MAIN_03
+J'ai entendu des rumeurs. Il paraît qu'après votre interruption de l'exécution, un des soldats a été fusillé pour avoir refusé de suivre l'ordre d'un commandant. Vous savez, cet ordre que vous lui avez interdit de suivre. Deux autres soldats vont aussi recevoir un châtiment corporel. Votre alliance tacite avec Hanriot semble menacée.

@@ -1,0 +1,22 @@
+$DIAL_H_02_01_07_V1_001_ELDERSON
+Père, est-ce qu'oncle Raymond est vraiment impliqué dans la mort de Frédéric ?
+$DIAL_H_02_01_07_V1_002_JUDGE
+Tout porte à le croire.
+$DIAL_H_02_01_07_V1_003_ELDERSON
+Comment a-t-il pu… ?
+$DIAL_H_02_01_07_V1_004_GRANDFATHER
+Il semblerait qu'il est depuis longtemps à la botte de Renard. Nous avons tous un maître, même si nous ignorons son nom.
+$DIAL_H_02_01_07_V1_005_ELDERSON
+À la botte ?
+$DIAL_H_02_01_07_V1_006_GRANDFATHER
+Il y a bien des années, lorsque les Renard se mirent à acquérir les étals les uns après les autres, j'ai refusé de vendre le mien. Trois hommes vinrent m'intimider. Bruno, qui était avec moi, les chassa à coups de bâton et manqua d'en tuer un dans un accès de rage.
+$DIAL_H_02_01_07_V1_007_JUDGE
+C'est alors que Raymond se présenta avec un marché : si je bannissais Bruno, cela lui éviterait une condamnation à mort. Les Renard saisirent cette occasion pour nous prendre ce qu'ils convoitaient, par l'entremise de Raymond. Nous perdîmes notre étal, ainsi que Bruno, qui nous avait défendus. Les Renard avaient gagné.
+$DIAL_H_02_01_07_V1_008_GRANDFATHER
+Je t'avais pourtant répété qu'il fallait les garder à l'œil. Mais tu as ignoré mes avertissements, tu pensais que je n'étais qu'un grognard sénile.
+$DIAL_H_02_01_07_V1_009_JUDGE
+Ils le paieront. Par tous les moyens…
+$DIAL_H_02_01_07_V1_010_ELDERSON
+Comment ? Tu veux que le sang continue à couler ?
+$DIAL_H_02_01_07_V1_011_GRANDFATHER
+Les Renard doivent payer ! À quoi bon servent les révolutions si on ne peut pas réclamer justice ?

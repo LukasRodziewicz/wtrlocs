@@ -1,0 +1,62 @@
+$MAP_PATROL_001_JUDGE_AGGR
+Now THAT is overstepping! You went too far, Citizens! This “misunderstanding” will cost you your heads!
+$MAP_PATROL_002_JUDGE_MANI
+You have the wrong man. Thank goodness you did not hurt him… The consequences would be dire. Such a misunderstanding…
+$MAP_PATROL_003_JUDGE_JOKE
+Thank goodness it was you, not some other lads itching to advance through the ranks of the Guard. We are going to solve this misunderstanding post-haste.
+$MAP_PATROL_004_JUDGE_HUMI
+My good Citizens, we will have to let this man go free. A terrible misunderstanding has occurred – even the Revolution is not always infallible.
+$MAP_PATROL_005_PATROL_INTR
+And why’s that?
+$MAP_PATROL_006_PATROL_DOUB
+What a lark. I must be going deaf. Arresting a spy is now a “misunderstanding”?
+$MAP_PATROL_007_PATROL_IRRI
+Sweeping this whole venture under the rug, are we, monsieur le juge?
+$MAP_PATROL_008_JUDGE_AGGR
+You have captured an associate of the Revolutionary Tribunal!
+$MAP_PATROL_009_JUDGE_MANI
+You have caught a covert Agent of the Revolutionary Tribunal.
+$MAP_PATROL_010_JUDGE_JOKE
+Absurd! Your prisoner actually works for me.
+$MAP_PATROL_011_JUDGE_HUMI
+It is one of my assistants. Forgive me, gentlemen, that I did not inform you earlier.
+$MAP_PATROL_016_JUDGE_AGGR
+Your actions reek of treason! Think twice before you decide to stand against me.
+$MAP_PATROL_017_JUDGE_MANI
+You are harming the Revolution and you’re harming yourselves! I can have you arrested for treason.
+$MAP_PATROL_018_JUDGE_JOKE
+These days, it is not that hard to lose one’s head because of treason. And holding my agent can surely help you with that.
+$MAP_PATROL_019_JUDGE_HUMI
+If you do not release him, I will have to charge you with treason. Do not take it personally, but I have to protect the Republic.
+$MAP_PATROL_020_JUDGE_AGGR
+Busy yourselves with seeking out real traitors… and be extremely careful not to pester any more of my agents. If you fail to do so, we will have to go over our little talk again!
+$MAP_PATROL_021_JUDGE_MANI
+We have real traitors out there. Root them out, and do not be discouraged by failures such as this. Although in your next endeavours, do try to avoid persecuting my agents.
+$MAP_PATROL_022_JUDGE_JOKE
+Anyone can make a mistake. It is fine. Maybe next time you will have more luck with your investigation?
+$MAP_PATROL_023_JUDGE_HUMI
+You do important work for the Republic. This mistake does not change that. You have my support in your ventures and you would do well to remember that.
+$MAP_PATROL_024_PATROL_SATI
+And to think we almost lynched our brother! It’s good that you came along, we’d already sharpened a pike for his head. We’re glad to have you on our side. Go in good health!
+$MAP_PATROL_025_PATROL_INTR
+Maybe he's one of yours, I dunno, but evidently he got lost while in town. We just found him and we'll gladly let him go, though we would appreciate some kind of… finder's fee.
+$MAP_PATROL_026_PATROL_DOUB
+I get the impression you aren’t telling us the whole story. I dunno what business you two have going on, but it all seems suspicious. You don’t convince me.
+$MAP_PATROL_027_PATROL_IRRI
+You don’t think we’re idiots, do you? Why are you feeding us this nonsense then?! Just you wait, we’ll find out who this fellow is and accuse you of treason!
+$MAP_PATROL_BRIBE_00
+I hope this pouch can calm your Revolutionary zeal.
+$MAP_PATROL_BRIBE_01
+We’ll see about that. Now scram and take your buddy with you.
+$MAP_PATROL_TOPIC_01
+Arresting this man was simply a misunderstanding.
+$MAP_PATROL_TOPIC_02
+The man you arrested is working for me.
+$MAP_PATROL_TOPIC_04
+Imprisoning him is a crime against the Revolution!
+$MAP_PATROL_TOPIC_05
+You should look for real criminals.
+$MAP_PATROL_RESULT_SUCCESS
+Freeing an agent: {0}
+$MAP_PATROL_RESULT_FAILD
+You did not free an agent: {0}

@@ -1,0 +1,324 @@
+$GEN_053_DOC_01_HEADER
+Hazırlayan: Charles Étienne
+$GEN_053_DOC_01_00
+	Lucas Adnet, bir zanaatkâr ve <a name="1" class="hidden">iki kız çocuğunun bekar babası</a>, cinayet ve bir cesedi aşağılamakla suçlanıyor. Dava, bir yurttaşın yaptığı ihbar sayesinde gündemimize geldi. <a name="2" class="hidden">Akşam daveti</a> sırasında tıp doktoru Jean-Joël Gaumont, özenle yapılmış sofra takımlarına hayran kaldı. Doktor, ev sahiplerinden ustanın adresini istedi ve ertesi gün onu <a name="3" class="hidden">atölyesinde</a> ziyaret etti.
+$GEN_053_DOC_01_01
+	Lucas Adnet’nin <a name="4" class="hidden">kemik saplı çatal bıçak takımı</a> örneklerine bakarken, uzun saplı bir satır fark etti; ne yazık ki, doktor bu sapın insan kemiğinden yapıldığını hemen anladı.
+$GEN_053_DOC_01_02
+	Gaumont, Adnet’ye veda ettikten sonra en yakın Ulusal Muhafız karakoluna gidip ihbarda bulundu. Arama sırasında, <a name="5" class="hidden">bir kulübede</a> boyutlarına göre tahta kutulara ayrılmış kemikler buldular. Koku, en tecrübeli memurlar için bile dayanılmazdı…
+$GEN_053_DOC_01_03
+	Soruşturma sırasında ortaya çıkan tek bilgi, Adnet'nin kemikleri <a name="7" class="hidden">bir sokak pazarında</a> tüccar Claudine Plouffe'den satın aldığıydı. Salpêtrière hastanesinden getirilen doktorlar, dosyaya ekli bir kemik inceleme raporu hazırladı.
+$GEN_053_DOC_02_00
+Salpêtrière hastanesinin hekimleri tarafından hazırlanan rapor:
+$GEN_053_DOC_02_01
+	Lucas Adnet’nin atölyesi yakınlarında bulduklarımız bizi derinden sarstı. Hem insan hem de hayvan kemikleri keşfettik. Tüm çabalarımıza rağmen eksiksiz bir iskelet bulamadık. Ancak, kutularda <a name="9" class="hidden">iki çene kemiği</a>, iki leğen kemiği parçası, birkaç kaval kemiği ve çeşitli boyutlarda uyluk kemikleri vardı. Tahminlerimize göre bunlar dört ya da beş kişiye ait…
+$GEN_053_OnStart_00
+Siz mi ustasınız, Lucas Adnet?
+$GEN_053_OnStart_01
+Elbette, efendim.
+$GEN_053_OnStart_02
+Doğru ifade “monsieur le juge”dir.
+$GEN_053_OnStart_03
+Özür dilerim. Evet, sayın yargıç, en az on yıldır çatal bıçak üretiyorum.
+$GEN_053_OnStart_04
+Atölyenizde insan kemikleri olduğunu biliyor muydunuz?
+$GEN_053_OnStart_05
+Hiç de bile, sayın yargıç. Ben sadece kaliteye baktım. Doktor değilim.
+$GEN_053_OnStart_06
+Kaliteyle neyi kastediyorsunuz?
+$GEN_053_OnStart_07
+Kemiklerin sağlam ve çatlamamış olması.
+$GEN_053_OnStart_08
+Bahse girerim, kemiklerin sağlam kalmasını sağlamak için bıçağı nasıl kullanacağını biliyordur!
+$GEN_053_OnStart_09
+Onları ya boğmalı ya da suda öldürmeli.
+$GEN_053_OnStart_10
+O halde hangi kemiklerin işinize en çok yarayacağını biliyor olmalısınız?
+$GEN_053_OnStart_11
+Bazıları işe yarar, bazıları yaramaz, sayın yargıç. Genelde pazardan sığır kemiği alırım. Domuz kemiği daha kötüdür ama yaban domuzu da iş görür.
+$GEN_053_OnGuilty_00
+Deliller en ufak bir şüpheye yer bırakmıyor. Lucas Adnet, sizi giyotine mahkûm ediyorum.
+$GEN_053_OnGuilty_01
+Bu ceza fazla hafif.
+$GEN_053_OnGuilty_02
+Kemiklerini domuzlara yedirin!
+$GEN_053_OnPrison_00
+Vatandaş Adnet, sizi cinayet ve cesetlere saygısızlık suçlarından suçlu buluyorum. Hayatınızın geri kalanını hapiste geçireceksiniz.
+$GEN_053_OnPrison_01
+O yaşarken, soylular kurbanlarını çorbayı karıştırmak için kullanacak.
+$GEN_053_OnNotGuilty_00
+Vatandaş Adnet, bir dahaki sefere sokak pazarında şüpheli kemikler görürseniz ihbar edin. Şimdilik serbestsiniz.
+$GEN_053_OnNotGuilty_01
+Neden? Bugün duyduklarımızdan hiçbiri onun lehine değil.
+$GEN_053_OnNotGuilty_02
+Yargıç aklını yitirdi.
+$GEN_053_OnNotGuilty_03
+Hey usta, o sokaklardan uzak dursan iyi edersin, çünkü bizi kandıramazsın.
+$GEN_053_02x04_00_QTitle
+Dr. Gaumont’u çağırın.
+$GEN_053_02x04_00_00
+Dr. Gaumont’u çağırın.
+$GEN_053_01x09_01_QTitle
+Vatandaş Adnet, iki kızınızı tek başınıza mı yetiştiriyorsunuz?
+$GEN_053_01x09_01_00
+Vatandaş Adnet, iki kızınızı tek başınıza mı yetiştiriyorsunuz?
+$GEN_053_01x09_01_01
+Evet, öyleyim, ama bazen kız kardeşim de bana yardım ediyor.
+$GEN_053_01x09_01_02
+Annelerine ne oldu?
+$GEN_053_01x09_01_03
+En küçük çocuğum iki yaşındayken o boğuldu.
+$GEN_053_01x09_01_04
+Nereye gömüldü?
+$GEN_053_01x09_01_05
+Hiçbir yerde, cesedi asla bulunamadı.
+$GEN_053_01x09_01_06
+Onu çatallara dönüştürdü!
+$GEN_053_01x09_01_07
+Kızlar okula gidiyor mu?
+$GEN_053_01x09_01_08
+Okullara güvenmiyorum, orada işe yarar hiçbir şey öğretilmiyor.
+$GEN_053_01x09_01_09
+Okuma yazma öğrenmeye ne dersin?
+$GEN_053_01x09_01_10
+Hayatta işe yarayacak her şeyi onlara kendim öğretebilirim.
+$GEN_053_08x05_02_QTitle
+Bütün kemikleri kulübede mi sakladınız?
+$GEN_053_08x05_02_00
+Bütün kemikleri kulübede mi sakladınız?
+$GEN_053_08x05_02_01
+Çoğu.
+$GEN_053_08x05_02_02
+Neden tam da orası?
+$GEN_053_08x05_02_03
+Kemikler en iyisi, kurtçukların eti ve yağı yiyebileceği bir yerde saklanır. Sinekler tahtaların arasından sızıp yumurtalarını bırakır, sonra da yavruları ziyafete başlar. Kurtçuklar tam birer oburdur.
+$GEN_053_08x05_02_04
+Onlar mı?
+$GEN_053_08x05_02_05
+Sinekler.
+$GEN_053_08x05_02_06
+Sapık!
+$GEN_053_08x05_02_07
+Yani, satın aldığınız kemiklerin hâlâ etle kaplı olduğunu mu söylüyorsunuz?
+$GEN_053_08x05_02_08
+Genellikle evet. Taze kemikleri oymak daha kolaydır. Yumuşak, hassas olurlar...
+$GEN_053_08x05_02_09
+Koku sizi rahatsız etmedi mi?
+$GEN_053_08x05_02_10
+Aksine, koku hem yaşamı hem de ölümü simgeler. Bazen geceleri kulübeye gelirdim...
+$GEN_053_08x05_02_11
+Çürüyen eti koklamak için mi?
+$GEN_053_08x05_02_12
+Çürüme büyüleyici bir süreçtir. Ölü etin üzerine böcekler yumurtalarını bırakır, yumurtalar çatlar ve yeni hayatlar başlar. Hayat sona ermez, başka bir hayata dönüşür. Bunu izlemeyi seviyorum.
+$GEN_053_08x05_02_13
+Bu size... haz mı veriyor?
+$GEN_053_08x05_02_14
+Evet. Sanırım bir bahçıvanın çiçeklerine bakarken hissettikleri de böyle olur.
+$GEN_053_07x09_03_QTitle
+Bir sokak pazarından insan çenesi satın aldığınızı mı iddia ediyorsunuz?
+$GEN_053_07x09_03_00
+Bir sokak pazarından insan çenesi satın aldığınızı mı iddia ediyorsunuz?
+$GEN_053_07x09_03_01
+Evet, yargıç bey, ben–
+$GEN_053_07x09_03_02
+Sana dürüst olman için bir fırsat vereceğim. Kulübende kime ait kemikleri sakladın ve onları nereden buldun?
+$GEN_053_07x09_03_03
+…
+$GEN_053_07x09_03_04
+Affedersiniz?
+$GEN_053_07x09_03_05
+Onları 6. Bölge’deki bir sokak pazarından aldım.
+$GEN_053_07x09_03_06
+Yalancı!
+$GEN_053_07x09_03_07
+Satıcılar kemikleri nasıl saklıyor?
+$GEN_053_07x09_03_08
+Sebzeler için kullanılan türden tahta sandıklarda.
+$GEN_053_07x09_03_09
+Oldukça küçükler. İçine bütün bir insan çenesi sığmazdı zaten.
+$GEN_053_07x09_03_10
+…
+$GEN_053_07x09_03_11
+Suçunuzu kabul etmeyecek misiniz?
+$GEN_053_07x09_03_12
+Tek istediğim, güzel sofra takımları yapmaktı. Güzel ve ruhu olan.
+$GEN_053_03x06_04_QTitle
+Her ay kaç kemik kullanıyorsunuz?
+$GEN_053_03x06_04_00
+Her ay kaç kemik kullanıyorsunuz?
+$GEN_053_03x06_04_01
+Ben yavaş çalışırım, bu iş zaman ister. Oymaya başlamadan önce ham malzemeyi hazırlamak gerekir. Önce kemikleri ekşimiş süte yatırırım ki–
+$GEN_053_03x06_04_02
+Soruyu yanıtlayın.
+$GEN_053_03x06_04_03
+Kulübede bulduklarınızın bir kısmı muhtemelen pek işe yaramaz — çatlakları hemen fark etmek mümkün değil. O malzemeler en fazla bir ay dayanır diye düşünüyorum.
+$GEN_053_03x06_04_04
+Peki sonra?
+$GEN_053_03x06_04_05
+Elimdekinin yarısını kullandıktan sonra, tekrar almak için çarşıya gitmem gerekir.
+$GEN_053_03x06_04_06
+Ya da kürekle mezarlığa!
+$GEN_053_03x06_04_07
+Hâlâ itiraf etmeyi reddediyor musun? İnsanları mı öldürdün yoksa yeraltı mezarlarında kemik mi arıyordun?
+$GEN_053_03x06_04_08
+Yaşlı kemikler oyma için pek elverişli değildir.
+$GEN_053_03x06_04_09
+Bunu bir cinayet itirafı olarak mı değerlendirmeliyiz?
+$GEN_053_03x06_04_10
+Ne diyorsunuz siz? Kimseyi öldürmedim! Kemikleri sokak pazarından aldım.
+$GEN_053_04x07_05_QTitle
+Mallınızı kime satıyorsunuz?
+$GEN_053_04x07_05_00
+Malları kime satıyorsunuz?
+$GEN_053_04x07_05_01
+Genellikle varlıklı yurttaşlara. İşçiliğim son derece ince detaylara sahip. Hatta buna sanat demeye cüret ederim.
+$GEN_053_04x07_05_02
+Böyle sanata lanet olsun!
+$GEN_053_04x07_05_03
+Ayrıca, kemikten yapılmış saplar oldukça etkileyici duruyor.
+$GEN_053_04x07_05_04
+Ön sıradakilerin üstüne kusmadan önce durun…
+$GEN_053_04x07_05_05
+Ürünleriniz iyi satıyor mu?
+$GEN_053_04x07_05_06
+Oldukça fazla. Korkusuzca yaşamak için yeterli. Bir keresinde tüm bir takımı İngiliz bir diplomata sattım. İşlediğim kemikler kar gibi beyaz olur, bu yüzden ona fildişi olduğunu kolayca inandırdım. Fransız vatandaşlarına sattığım sıradan bir takıma göre birkaç kat fazla kazandım.
+$GEN_053_04x07_05_07
+Sana yöneltilen suçlamalara bir de dolandırıcılığı mı eklemeliyim?
+$GEN_053_04x07_05_08
+Eğer hakkımda insanları öldürdüğüm saçmalığını konuşmayı bırakacaksanız, hile yaptığımı kabul ederim.
+$GEN_053_07x08_06_QTitle
+Tanık Claudine Plouffe’yi çağırın.
+$GEN_053_07x08_06_00
+Tanık Claudine Plouffe’ü çağırın.
+$GEN_053_07x08_06_02
+Claudine Plouffe siz misiniz?
+$GEN_053_07x08_06_03
+Doğru.
+$GEN_053_WIT_00_A_QTitle
+Atölyede gördüğünüzün insan kemiği olduğunu nasıl anladınız?
+$GEN_053_WIT_00_A_00
+Atölyede gördüğünüzün insan kemiği olduğunu nasıl anladınız?
+$GEN_053_WIT_00_A_01
+Bu bir tibyaydı... Yani kaval kemiği. Eğitimsiz bir göz bunu hayvan kemiği sanabilir, ama kalınlık ve şekil açısından farklıdırlar. Basitleştirdiğim için bağışlayın, ama insan tibiası genellikle enine kesitte daha üçgen olur.
+$GEN_053_WIT_00_A_02
+Ve hiç şüpheniz olmadı mı?
+$GEN_053_WIT_00_A_03
+Sayın yargıç, hayatımda yeterince kemik gördüm. Bu kemik benimkinden farksız olabilirdi.
+$GEN_053_WIT_00_A_04
+Yaşlı mıydı?
+$GEN_053_WIT_00_A_05
+Sahibinin ölüm zamanını mı soruyorsunuz? Üzerinde oyma olduğu için bunu söylemek zor.
+$GEN_053_WIT_00_A_06
+Bir tahminde bulunabilir misiniz? Bu önemli.
+$GEN_053_WIT_00_A_07
+Tahmin edecek olsam, mezardan çıkarılmış eski bir kemiğin oyma için iyi bir malzeme olmayacağını söylerdim. Fazla kırılgan ve sararmış olurdu.
+$GEN_053_WIT_00_A_08
+Emin misiniz?
+$GEN_053_WIT_00_A_09
+Hiçbir zaman bir ceset kazmadım, bu yüzden yalnızca sezgilerimin bana söylediklerini tekrarlayabilirim.
+$GEN_053_WIT_00_B_QTitle
+Lütfen ziyaretiniz sırasında Yurttaş Adnet’nin davranışlarını anlatınız.
+$GEN_053_WIT_00_B_00
+Lütfen ziyaretiniz sırasında Yurttaş Adnet’nin davranışlarını anlatınız.
+$GEN_053_WIT_00_B_01
+Sorunca hatırladım, sayın yargıç, bir şeyler oyuyordu.
+$GEN_053_WIT_00_B_02
+Sizinle konuştu mu ya da size bir şey almanız için teşvik etti mi?
+$GEN_053_WIT_00_B_03
+Beni selamladıktan sonra bana pek ilgi göstermedi. Bu durum bana gayet uygundu, çünkü baskıcı satıcılardan gerçekten nefret ederim.
+$GEN_053_WIT_00_B_04
+Herhangi bir soru sordunuz mu?
+$GEN_053_WIT_00_B_05
+Fiyatını sordum. Tam olarak hatırlamıyorum ama böylesine ince bir işçilik için düşük geldiğini hatırlıyorum.
+$GEN_053_WIT_00_B_06
+Sonra insan kemiğini mi gördünüz?
+$GEN_053_WIT_00_B_07
+Doğru, evet. İlk başta hayal gördüğümü sandım, ama sonra onu elime alıp dikkatlice inceledim...
+$GEN_053_WIT_01_A_QTitle
+Sanıkla tanışıyor musunuz?
+$GEN_053_WIT_01_A_00
+Sanıkla tanışıyor musunuz?
+$GEN_053_WIT_01_A_01
+Evet, sık sık benden kemik almaya gelirdi.
+$GEN_053_WIT_01_A_02
+Ona hayvan kemikleri sattınız mı?
+$GEN_053_WIT_01_A_03
+Şey… ben…
+$GEN_053_WIT_01_A_04
+Vatandaş?
+$GEN_053_WIT_01_A_05
+Hayvan, evet, ama kemiklerden pek anlamam. Kasabın getirdiklerinde bazen tuhaf bir şeyler varmış gibi hissederdim...
+$GEN_053_WIT_01_A_06
+Sanki bir hayvandan alınmamış gibi mi?
+$GEN_053_WIT_01_A_07
+Bilmiyorum, tuhaf bir his işte.
+$GEN_053_WIT_01_A_08
+Kasabın teslimatları ne kadar sıktı?
+$GEN_053_WIT_01_A_09
+Çok sık değil. Ayda bir, belki iki kez.
+$GEN_053_WIT_01_B_QTitle
+Sanığı hiç o kemiklere neden ihtiyacı olduğunu sordunuz mu?
+$GEN_053_WIT_01_B_00
+Sanığı hiç o kemiklere neden ihtiyacı olduğunu sordunuz mu?
+$GEN_053_WIT_01_B_01
+Yaptım. Onlardan çatal bıçak yapacağını söyledi. Ben de deliymiş gibi şaka yollu şaka yaptım ve işime geri döndüm.
+$GEN_053_WIT_01_B_02
+Size tuhaf mı geldi?
+$GEN_053_WIT_01_B_03
+Evet, ama bu tuhaf zamanlar. İnsan her şeye alışabiliyor.
+$GEN_053_WIT_01_B_04
+Vatandaş Adnet satın aldığı kemikleri dikkatle inceliyor muydu? Sanki özel bir şey arıyormuş gibi mi davranıyordu?
+$GEN_053_WIT_01_B_05
+Evet, sık sık sepetin başında durur ve içindekileri karıştırırdı. Ama bazen aceleyle geldiğinde, doğrudan bütün sepetleri alırdı.
+$GEN_053_WIT_01_B_06
+Kemik almak için ne sıklıkla gelirdi?
+$GEN_053_WIT_01_B_07
+Eskiden sık sık gelirdi, ama son altı aydır pek uğramaz oldu. Başka bir tedarikçi bulduğunu söyledi.
+$GEN_053_WIT_01_B_08
+Ne olur ne olmaz, birkaç mezarcıyı da öldürsek ya?
+$GEN_053_WIT_01_B_09
+Bir isim söyledi mi?
+$GEN_053_WIT_01_B_10
+Sormayı da istemedim.
+$GEN_053_WIT_01_B_12
+Tanığın bahsettiği diğer tedarikçi kimdi?
+$GEN_053_WIT_01_B_13
+Kimse yoktu, Mösyö Yargıç. Son zamanlarda pek param kalmadı ve işlerin iyi gitmediğini kimsenin bilmesini istemedim…
+$GEN_053_WIT_01_B_14
+Kendisi de kabul ettiği gibi, tam bir düzenbaz gibi yalan söylüyor!
+$GEN_053_KEY_01
+İki kız çocuğunun babası
+$GEN_053_KEY_02
+Resepsiyon
+$GEN_053_KEY_03
+Atölye
+$GEN_053_KEY_04
+Kemik saplı çatal bıçak takımı
+$GEN_053_KEY_05
+Kulübe
+$GEN_053_KEY_06
+Tahta kutular
+$GEN_053_KEY_07
+Sokak pazarı
+$GEN_053_KEY_08
+Hayvan kemikleri
+$GEN_053_KEY_09
+İnsan çeneleri
+$GEN_053_LastDialog_00
+Kızlarıma kim bakacak? Siz mi, katiller ve tecavüzcüler? Evet, tam da busunuz!
+$GEN_053_UNIQUE_QUESTION_00
+Zanaatkârın karısına ne oldu?
+$GEN_053_UNIQUE_ANSWER_CORRECT_00_00
+Boğuldu.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Onu başka bir adam için terk etti.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Giyotine mahkûm edildi.
+$GEN_053_UNIQUE_QUESTION_01
+Sanığın ifadesine göre, pazardan genellikle ne tür kemikler alırdı?
+$GEN_053_UNIQUE_ANSWER_CORRECT_01_00
+İnek kemikleri.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Domuz kemikleri.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Köpek kemikleri.

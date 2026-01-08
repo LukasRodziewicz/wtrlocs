@@ -1,0 +1,38 @@
+$SPEECH_KING_01_01_07_001_JUDGE
+Citoyens, que se passe-t-il ? Pourquoi êtes-vous en colère à ce point ?
+$SPEECH_KING_01_01_07_002_AUDIENCE
+Le roi nous a menti !
+$SPEECH_KING_01_01_07_003_AUDIENCE
+Ce lâche s'est enfui ! Il s'enfuira sans doute aussi pour échapper à la justice !
+$SPEECH_KING_01_01_07_004_AUDIENCE
+On a trouvé des preuves de la trahison du roi dans son armoire !
+$SPEECH_KING_01_01_07_005_JUDGE_AGGR
+Le roi a été emprisonné. Il ne s'échappera pas une seconde fois. S'il essaie, je le tuerai de mes propres mains !
+$SPEECH_KING_01_01_07_006_JUDGE_MANI
+Louis Capet est un homme de chair et de sang, un citoyen, tout comme vous ! Il ne peut pas échapper au bras vengeur de la justice.
+$SPEECH_KING_01_01_07_007_JUDGE_JOKE
+Justice sera rendue aujourd'hui, c'est incontestable, alors ne doutez plus !
+$SPEECH_KING_01_01_07_008_JUDGE_HUMI
+Personne ne peut échapper à la justice de la République ! Même les rois doivent plier l'échine devant Thémis et la volonté du Peuple.
+$SPEECH_KING_01_01_07_009_JUDGE_AGGR
+Toute trahison envers la France sera punie de mort ! Nous allons examiner de nouvelles preuves et, si les rumeurs s'avèrent vraies, je vous promets que je décapiterai ce traître moi-même !
+$SPEECH_KING_01_01_07_010_JUDGE_MANI
+Nous n'allons pas ignorer l'apparition de nouvelles preuves. Nous allons suivre chaque piste de l'enquête avec zèle, pour la République et uniquement pour la République.
+$SPEECH_KING_01_01_07_011_JUDGE_JOKE
+Les nouvelles preuves ne seront pas ignorées. À votre place, je ne m'inquiéterais pas !
+$SPEECH_KING_01_01_07_012_JUDGE_HUMI
+Toute nouvelle preuve sera examinée avec soin. La République n'exige rien de moins ! Je suivrai ses critères à la lettre !
+$SPEECH_KING_01_01_07_013_JUDGE_AGGR
+Je ne vous décevrai pas ! Si le sang d'un traître doit couler, alors il coulera. J'en fais personnellement le serment !
+$SPEECH_KING_01_01_07_014_JUDGE_MANI
+La justice doit être restaurée dans notre pays, et y rester une bonne fois pour toutes. Personne n'est plus impliqué dans ce domaine qu'un juge du tribunal.
+$SPEECH_KING_01_01_07_015_JUDGE_JOKE
+Je vais m'occuper de tout cela avec une telle aisance que vous célébrerez la conclusion de cette affaire en buvant du vin dans les tavernes jusqu'au bout de la nuit !
+$SPEECH_KING_01_01_07_016_JUDGE_HUMI
+Je sais que vous devez être en colère, mais vous avez choisi vos représentants pour vous protéger. Ayez foi en moi.
+$SPEECH_KING_TOPIC_01
+Le roi n'échappera pas à la justice
+$SPEECH_KING_TOPIC_02
+Les preuves trouvées dans la garde-robe seront examinées
+$SPEECH_KING_TOPIC_03
+Faites-moi confiance

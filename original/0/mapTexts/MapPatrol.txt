@@ -1,0 +1,68 @@
+$MAP_PATROL_001_JUDGE_AGGR
+Chyba się obywatele zapędziliście! Będziecie głowami odpowiadać za to nieporozuemienie!
+$MAP_PATROL_002_JUDGE_MANI
+Aresztowaliście niewłaściwego człowieka. Całe szczęście nic mu nie uczyniliście, bo konsekwencje byłyby ostateczne. Takie nieporozumienie...
+$MAP_PATROL_003_JUDGE_JOKE
+Całe szczęście, że trafiło na was, a nie kogoś komu zależy na karierze w gwardii. Ale szybko rozwiążemy to nieporozumienie.
+$MAP_PATROL_004_JUDGE_HUMI
+Drodzy obywatele, trzeba będzie wypuścić tego człowieka. Zaszło paskudne nieporozumienie, ale nawet rewolucja się może czasem pomylić.
+$MAP_PATROL_005_PATROL_INTR
+Jakież to?
+$MAP_PATROL_006_PATROL_DOUB
+Coś takiego. Chyba źle usłyszałem. Złapanie szpiega to nieporozumienie?
+$MAP_PATROL_007_PATROL_IRRI
+Co - chcemy ukręcić sprawie główkę, panie sędzio?
+
+$MAP_PATROL_008_JUDGE_AGGR
+Pojmaliście współpracownika Trybunału Rewolucyjnego!
+$MAP_PATROL_009_JUDGE_MANI
+Trafiło wam się na tajnego współpracownika Trybunału Rewolucyjnego.
+$MAP_PATROL_010_JUDGE_JOKE
+Zabawne, bo osoba, która pojmaliście pracuje dla mnie.
+$MAP_PATROL_011_JUDGE_HUMI
+To mój człowiek, wybaczcie panowie, że nie powiedziałem wcześniej.
+
+$MAP_PATROL_016_JUDGE_AGGR
+Wasz czyn zakrawa zatem o zdradę! Zastanówcie się czy chcecie stawać przeciw mnie.
+$MAP_PATROL_017_JUDGE_MANI
+Krzywdę robicie rewolucji i samym sobie - mogę was kazać aresztować za zdradę.
+$MAP_PATROL_018_JUDGE_JOKE
+Zdrada, panowie, przykleja się w naszych czasach łatwo do ludzi. A tym jest przetrzymywanie mojego agenta.
+$MAP_PATROL_019_JUDGE_HUMI
+Jeśli go nie uwolnicie będę zmuszony oskarżyć was o zdradę. Nie chcę, ale muszę.
+
+$MAP_PATROL_020_JUDGE_AGGR
+Zajmijcie się wreszcie poszukiwaniem prawdziwych zdrajców i uważajcie by nie więzić ponownie moich ludzi. Będę się musiał z Wami wtedy ponownie rozmówić!
+$MAP_PATROL_021_JUDGE_MANI
+Prawdziwi zdrajcy tam są. Szukajcie ich i nie przejmujcie się porażkami jak dzisiejsza. Na przyszłość jednak postarajcie się nie łapać moich ludzi.
+$MAP_PATROL_022_JUDGE_JOKE
+Każdemu się może trafić taka pomyłka, nic nie szkodzi. Może następnym razem będziecie mieli więcej szczęścia?
+$MAP_PATROL_023_JUDGE_HUMI
+Wykonujecie ważną pracę dla republiki. Ta pomyłka tego nie zmienia. Macie moje poparcie w swoich działaniach - pamiętajcie o tym.
+$MAP_PATROL_024_PATROL_SATI
+Prawie ubiliśmy naszego pobratymca. Dobrze żeście się zjawili na czas, bo już ostrzyliśmy pikę na jego głowę. Cieszy, że tak pomagacie naszej sprawie. Bądźcie zdrów!
+$MAP_PATROL_025_PATROL_INTR
+Może i to wasz człowiek, ale najwidoczniej wam się zgubił w mieście. A my go znaleźliśmy. Wypuścimy go, ale należy nam się jakieś… znaleźne.
+$MAP_PATROL_026_PATROL_DOUB
+Nie mówicie nam całej prawdy. Tak myślę. Nie wiem co ten człowiek robił dla was, ale wydaje się to podejrzane. Nie przekonujecie mnie.
+$MAP_PATROL_027_PATROL_IRRI
+Chyba nie macie nas za kretynów?! Chcecie nam wmówić takie banialuki? Poczekajcie tylko, dowiemy się co to za człek i was samych oskarżymy o zdradę!
+
+$MAP_PATROL_BRIBE_00
+Mam nadzieję, że ten mieszek zaspokoi Wasze rewolucyjne zapędy. 
+$MAP_PATROL_BRIBE_01
+To się zobaczy. A teraz zabierzcie tego człowieka ze sobą.
+
+$MAP_PATROL_TOPIC_01
+Aresztowanie tego człowieka to zwykłe nieporozumienie.
+$MAP_PATROL_TOPIC_02
+Człowiek, którego aresztowaliście pracuje dla mnie.
+$MAP_PATROL_TOPIC_04
+Więzienie go, to zbrodnia przeciw rewolucji!
+$MAP_PATROL_TOPIC_05
+Szukajcie prawdziwych zbrodniarzy.
+
+$MAP_PATROL_RESULT_SUCCESS
+Uwolnienie agenta: {0}
+$MAP_PATROL_RESULT_FAILD
+Nie uwolniłeś agenta: {0}

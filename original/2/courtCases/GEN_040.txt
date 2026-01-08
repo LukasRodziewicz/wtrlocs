@@ -1,0 +1,154 @@
+$GEN_040_DOC_01_HEADER
+Compilé par : Charles Étienne
+$GEN_040_DOC_01_00
+Un marchand local, Guy Deniau, s'est rendu au poste de la Garde nationale près des Halles. D'une voix forte, il a déclaré que le propriétaire de l'étal voisin avait volontairement <a name="2" class="hidden">versé du goudron</a> dans son fût de harengs. Deniau a exigé une punition à mesure de ce supposé crime. Des soldats se sont rendus aux Halles et ont établi que les harengs ont effectivement un goût affreux. Comme il n'y avait aucune preuve du crime, ils n'ont pas pu agir.
+$GEN_040_DOC_01_01
+Quelques heures plus tard, les soldats sont retournés aux Halles à la demande cette fois de l'accusé précédent, Jean Courbis, et il y avait des preuves à revendre une fois sur place. La preuve principale était Deniau lui-même, en train de casser l'étalage de son voisin avec <a name="3" class="hidden">un long morceau de bois</a> devant témoins.
+$GEN_040_DOC_01_02
+Le marchand, furieux, a levé le poing en hurlant : « Vous étiez où quand cette crapule a volé ma place <a name="4" class="hidden">près de l'entrée ?</a> » La Garde n'a pas demandé davantage de détails mais a désarmé le marchand énervé et l'a mis en cellule. En rédigeant son rapport, un des officiers a trouvé une <a name="5" class="hidden">vieille dénonciation</a> écrite par Deniau il y a deux ans.
+$GEN_040_DOC_02_TOOLTIP
+Dénonciation de Guy Deniau :
+$GEN_040_DOC_02_00
+J'aimerais signaler que le citoyen Courbis ne paie pas ce qu'il doit à la ville pour son étalage. De plus, il <a name="6" class="hidden">critique ouvertement le nouveau gouvernement</a> lorsqu'il parle à ses clients.
+$GEN_040_OnStart_00
+Ton nom ?
+$GEN_040_OnStart_01
+Deniau, poisson frais depuis 1772.
+$GEN_040_OnStart_02
+Et vandale depuis hier ?
+$GEN_040_OnStart_03
+Je ne suis pas fier de ce que j'ai fait, mais trop, c'est trop.
+$GEN_040_OnStart_04
+Vraiment ? Et il y a six mois, quand tu m'as volé huit livres, c'était trop ?
+$GEN_040_OnStart_05
+Un gamin les a pris dans ta poche pendant que tu…
+$GEN_040_OnStart_06
+Silence ! Tu ne parleras que lorsque l'on te posera des questions.
+$GEN_040_OnPrison_00
+On dirait que les Parisiens vont devoir acheter leur poisson ailleurs. Citoyen Deniau, je te condamne à la prison pour vandalisme.
+$GEN_040_OnPrison_01
+Mieux vaut prévenir les gardiens qu'il va leur mener la vie dure.
+$GEN_040_OnPrison_02
+Je ne pense pas que le peuple appréciera une punition aussi sévère.
+$GEN_040_OnNotGuilty_00
+Vos rancunes personnelles ne devraient pas être résolues au tribunal. Citoyen Deniau, tu es libre de partir, mais tu devras déplacer ton éventaire.
+$GEN_040_OnNotGuilty_01
+Bonne idée. Il devrait se mettre plus près des poubelles, comme ça je n'aurai plus à sentir ses harengs.
+$GEN_040_OnNotGuilty_02
+Comment se fait-il que personne n'ait songé à séparer ces deux trublions avant ?
+$GEN_040_02x03_00_QTitle
+Que vend le citoyen Courbis ?
+$GEN_040_02x03_00_00
+Que vend le citoyen Courbis ?
+$GEN_040_02x03_00_01
+Des fruits et des légumes.
+$GEN_040_02x03_00_02
+Et tu vends du poisson, n'est-ce pas ?
+$GEN_040_02x03_00_03
+En arrivage direct d'Yport et des Petites Dalles.
+$GEN_040_02x03_00_04
+Je vois. Alors pourquoi l'un de vous est-il venu aux Halles avec du goudron et l'autre avec un gourdin ?
+$GEN_040_02x03_00_05
+…
+$GEN_040_02x03_00_06
+Citoyen ?
+$GEN_040_02x03_00_07
+Je ne me rappelle pas. Ce bâton devait traîner près des étalages, mais Courbis a dû planifier son méfait.
+$GEN_040_05x04_01_QTitle
+Il semblerait que votre conflit remonte à loin.
+$GEN_040_05x04_01_00
+Il semblerait que votre conflit remonte à loin.
+$GEN_040_05x04_01_01
+Tout a commencé quand cette crapule a installé son éventaire à ma place, près de l'entrée.
+$GEN_040_05x04_01_02
+Ce n'était pas ton emplacement, tu l'as pris après que le vieux Choquette soit mort.
+$GEN_040_05x04_01_03
+Silence ! Et vous n'avez pas réussi à vous entendre depuis tout ce temps ?
+$GEN_040_05x04_01_04
+Maintenant que j'y pense, cela a peut-être même commencé avant. Jean a une fois refusé de payer un rouget que sa femme m'avait pris.
+$GEN_040_05x04_01_05
+Toute ma famille est tombée malade à cause de ce poisson pourri. Tu devrais être heureux que je…
+$GEN_040_05x04_01_06
+Dois-je me répéter ? Silence ou tu auras des ennuis.
+$GEN_040_06x05_02_QTitle
+Nous avons trouvé ta dénonciation du citoyen Courbis.
+$GEN_040_06x05_02_00
+Nous avons trouvé ta dénonciation du citoyen Courbis.
+$GEN_040_06x05_02_01
+Il l'a fait car j'ai commencé à vendre des sprats.
+$GEN_040_06x05_02_02
+Tais-toi ! Monsieur le juge, je voulais juste aider la ville. Tous les marchands paient leur emplacement aux Halles. Courbis devrait payer aussi.
+$GEN_040_06x05_02_03
+Menteur ! Escroc ! Tu as oublié la fois où tu t'es caché chez le boucher pour échapper au collecteur royal ?
+$GEN_040_06x05_02_04
+Silence !
+$GEN_040_06x05_02_05
+J'ai essayé d'éviter l'impôt royal, mais toi tu as commencé seulement après le début de la Révolution !
+$GEN_040_06x05_02_06
+Taisez-vous, tous les deux.
+$GEN_040_06x04_03_QTitle
+Citoyen Courbis, avance, veux-tu ?
+$GEN_040_06x04_03_00
+Citoyen Courbis, avance, veux-tu ?
+$GEN_040_WIT_00_A_QTitle
+As-tu réellement fait campagne contre le nouvel ordre public ?
+$GEN_040_WIT_00_A_00
+As-tu réellement fait campagne contre le nouvel ordre public ?
+$GEN_040_WIT_00_A_01
+Ce sont des calomnies inventées par un homme qui vend du poisson pourri !
+$GEN_040_WIT_00_A_02
+Cela veut donc dire non ?
+$GEN_040_WIT_00_A_03
+Bien sûr que non. Je suis marchand, pas politicien.
+$GEN_040_WIT_00_B_QTitle
+Est-il vrai que tu as volé l'emplacement de Guy Deniau à l'entrée des Halles ?
+$GEN_040_WIT_00_B_00
+Est-il vrai que tu as volé l'emplacement de Guy Deniau à l'entrée des Halles ?
+$GEN_040_WIT_00_B_01
+C'est lui qui a d'abord volé la place d'un marchand mort. J'ai fait pareil quand j'ai eu l'occasion.
+$GEN_040_WIT_00_B_02
+Cela a été votre premier conflit ?
+$GEN_040_WIT_00_B_03
+Vers la fin des années 1770, ce vieux grippe-sou m'a demandé de lui prêter 30 livres. Ça m'a pris deux ans pour les récupérer.
+$GEN_040_WIT_00_B_04
+Citoyen Deniau, je vois bien que tu souhaite intervenir, mais je te le déconseille.
+$GEN_040_WIT_01_A_QTitle
+Pourquoi avais-tu du goudron sur toi ce jour-là ?
+$GEN_040_WIT_01_A_00
+Pourquoi avais-tu du goudron sur toi ce jour-là ?
+$GEN_040_WIT_01_A_01
+Je vends de la nourriture. Mes fournisseurs achètent parfois du goudron pour éloigner les insectes.
+$GEN_040_WIT_01_A_02
+Et pourquoi l'as-tu versé dans le tonneau du citoyen Deniau ?
+$GEN_040_WIT_01_A_03
+Je n'ai rien fait de tel. Il l'a probablement versé lui-même pour ensuite me dénoncer encore une fois.
+$GEN_040_WIT_01_A_04
+Menteur !
+$GEN_040_WIT_01_A_05
+Du calme.
+$GEN_040_WIT_01_B_QTitle
+Plusieurs heures se sont écoulées entre la visite du citoyen Deniau au poste et ton appel à l'aide…
+$GEN_040_WIT_01_B_00
+Plusieurs heures se sont écoulées entre la visite du citoyen Deniau au poste et ton appel à l'aide. Que s'est-il passé pendant ce temps ?
+$GEN_040_WIT_01_B_01
+Ce qu'il s'est passé, c'est qu'il n'a pas arrêté de se moquer de mes harengs qui puaient !
+$GEN_040_WIT_01_B_02
+Pas grand-chose, le travail habituel.
+$GEN_040_WIT_01_B_03
+Et d'un coup, le citoyen Deniau a saisi un gourdin et commencé à détruire ton étalage ?
+$GEN_040_WIT_01_B_04
+Il est devenu fou. Une vraie bête féroce.
+$GEN_040_WIT_01_B_05
+Citoyen Courbis, cesse de te moquer de moi…
+$GEN_040_KEY_01
+Les Halles
+$GEN_040_KEY_02
+Goudron
+$GEN_040_KEY_03
+Gourdin
+$GEN_040_KEY_04
+Emplacement près de l'entrée
+$GEN_040_KEY_05
+Vieille dénonciation
+$GEN_040_KEY_06
+Propagande anti-révolutionnaire

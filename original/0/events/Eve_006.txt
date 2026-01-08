@@ -1,0 +1,15 @@
+$EVE_006_TITLE
+Na salonach
+$EVE_006_MAIN_01
+Szanowny AF,
+ 
+w imieniu moim oraz całego zespołu artystów naszej opery, mam zaszczyt zaprosić Cię na premierę naszego najnowszego dzieła, pt. “XXX”, która odbędzie się za 3 dni. Będziemy zaszczyceni jeśli będziemy mogli ugościć Pana wraz z całą rodziną. W miarę możliwości prosimy o uprzednie potwierdzenie przyjścia.
+ 
+Z wyrazami szacunku,
+XYZ
+$EVE_006_MAIN_01_C1
+Potwierdź przybycie.
+$EVE_006_MAIN_02A
+Premiera była udana, tak przynajmniej podpowiada Ci Twoja zardzewiała intuicja artystyczna. Twoja żona błyszczała pomimo braku doświadczenia w przebywaniu w towarzystwie elit Paryża. Synowie byli oszołomieni bogactwem strojów przybyłych gości. Zaproszeniem na premierę zostałeś zaliczony do śmietanki towarzyskiej stolicy. Tych kilku krzykaczy przed budynkiem, wrzeszczących o zepsuciu moralnym i konieczności zbliżenia się do Boga nie powinny zmącić Twojego dobrego humoru.
+$EVE_006_MAIN_02B
+Premiera okazała się sukcesem, w rozmowach dominuje przekonanie, że paryscy artyści po raz kolejny udowodnili swoją wyższość nad reprezentującymi pozostałe stolice Europy. Na widowni zasiedli wszyscy, których obecnością można się później pochwalić. Przed budynkiem zebrała się mała grupa konserwatystów, którym nie podoba się “rozluźnienie moralne” i “oddalenie od Boga”. Pokrzyczeli, nikogo to nie obeszło.

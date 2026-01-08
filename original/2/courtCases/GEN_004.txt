@@ -1,0 +1,186 @@
+$GEN_004_DOC_1_HEADER
+Compilé par : Pierre Daquin
+$GEN_004_DOC_1_00
+Sur le banc des accusés se trouve Étienne Lebeau, résident de Paris bagarreur et immoral, client régulier des brasseries sordides du Faubourg-de-Gloire. Le mois dernier, avec son camarade Michel Verdière, il a <a name="2" class="hidden">attaqué un autre de ses compagnons de beuverie</a>, Jean Boudon.
+$GEN_004_DOC_1_01
+Un témoin, qui a tout vu, affirme que Lebeau et Verdière ont tendu un piège à leur victime alors qu'il retournait à sa mansarde. Ils ont attaqué Boudon dans une ruelle sombre, l'ont frappé et ont pris son argent avant de le <a name="3" class="hidden">poignarder</a>.
+$GEN_004_DOC_1_02
+Peu de temps après, Verdière a été arrêté. Au cours d'un interrogatoire de routine, il a avoué sa participation à l'agression. Bien qu'il a juré que le coup de poignard avait été donné par Lebeau, Verdière a été condamné à la guillotine.
+$GEN_004_DOC_1_03
+De son côté, Lebeau avait disparu. Apparemment, il se terrait à Neuilly. Lors de son arrestation, il nous a tenu le même discours, soutenant que Verdière avait poignardé Boudon. Lebeau portait <a name="4" class="hidden">un sac élégant</a>, presque vide. Nul doute qu'il ne lui appartenait pas.
+$GEN_004_DOC_1_04
+Pièce à conviction : <a name="5" class="hidden">Un couteau trouvé sur Lebeau</a>
+$GEN_004_OnStart_00
+On va te couper la tête, pourriture !
+$GEN_004_OnStart_01
+Je m'appelle Étienne.
+$GEN_004_OnStart_02
+L'accusé n'a pas encore la parole.
+$GEN_004_OnStart_03
+Je m'en fiche.
+$GEN_004_OnStart_04
+Tu vas traiter les membres de la cour avec respect !
+$GEN_004_OnStart_05
+Hmm, avec le plus grand respect, absolument.
+$GEN_004_OnStart_06
+Étant donné le comportement de l'accusé, je crois que je connais déjà le verdict.
+$GEN_004_OnStart_07
+La mort !
+$GEN_004_OnStart_08
+Qu'on le décapite !
+$GEN_004_OnStart_09
+La guillotine !
+$GEN_004_OnGuilty_00
+Je condamne le citoyen Étienne Lebeau à être guillotiné !
+$GEN_004_OnGuilty_01
+Félicitations, une peine juste.
+$GEN_004_OnGuilty_02
+Hourra !
+$GEN_004_OnGuilty_03
+Cette racaille l'a cherché.
+$GEN_004_OnPrison_00
+Je condamne le citoyen Étienne Lebeau à être emprisonné ! Emmenez-le.
+$GEN_004_OnPrison_01
+Ce verdict est inadmissible, il doit être revu !
+$GEN_004_OnPrison_02
+Le juge a le cœur trop tendre avec les criminels.
+$GEN_004_OnPrison_03
+Au moins, il ne sera plus une menace pour personne.
+$GEN_004_OnNotGuilty_00
+Je déclare le citoyen Étienne Lebeau... non coupable. Que liberté lui soit rendue.
+$GEN_004_OnNotGuilty_01
+Je proteste, je m'insurge, il faut faire appel de cette décision.
+$GEN_004_OnNotGuilty_02
+Il a laissé partir ce malfrat !
+$GEN_004_OnNotGuilty_03
+Meurtrier ou non, ce misérable devrait être emprisonné !
+$GEN_004_01x02_00_QTitle
+Reconnais-tu avoir agressé le citoyen Boudon ?
+$GEN_004_01x02_00_00
+Reconnais-tu avoir agressé le citoyen Boudon ?
+$GEN_004_01x02_00_01
+Bah, à quoi bon mentir quand tout l'monde le sait. Ouais, Verdière et moi on l'a attaqué...
+$GEN_004_01x02_00_02
+Pour le tuer ?
+$GEN_004_01x02_00_03
+Pour le voler ! C'est tout ! J'pensais pas qu'Verdière le tuerait !
+$GEN_004_01x02_00_04
+Assassin !
+$GEN_004_01x02_00_05
+Mais tu ne l'en as pas empêché ?
+$GEN_004_01x02_00_06
+Et quoi, tu crois que j'suis de la Garde ? Il m'aurait planté aussi !
+$GEN_004_01x02_00_07
+Qu'il pourrisse six pieds sous terre !
+$GEN_004_02x04_01_QTitle
+Lorsque les gardes t'ont fouillé, ils ont trouvé un sac brodé. D'où vient-il ?
+$GEN_004_02x04_01_00
+Lorsque les gardes t'ont fouillé, ils ont trouvé un sac brodé. D'où vient-il ?
+$GEN_004_02x04_01_01
+C'était çui d'Boudon.
+$GEN_004_02x04_01_02
+Tu lui as fait les poches pendant qu'il se vidait de son sang par terre ?
+$GEN_004_02x04_01_03
+Non ! J'l'ai frappé jusqu'à c'qu'il tombe, j'ai pris son sac et je m'suis r'tourné pour partir. C'est là qu'Verdière l'a poignardé.
+$GEN_004_02x04_01_04
+Tu l'as frappé jusqu'à ce qu'il perde connaissance ?
+$GEN_004_02x04_01_05
+Et comment j'pouvais l'voler sans ça ?
+$GEN_004_02x04_01_06
+Tu aurais pu le tuer.
+$GEN_004_02x04_01_07
+J'l'ai pas tué. J'l'ai juste volé.
+$GEN_004_02x04_01_08
+Il ment !
+$GEN_004_02x04_01_09
+Tu l'as tué, voyou !
+$GEN_004_02x04_01_10
+Pourquoi aurait-il fait cela ? Tu avais déjà pris l'argent.
+$GEN_004_02x04_01_11
+Z'auriez pas dû lui couper la tête. Vous pouvez plus lui d'mander maint'nant.
+$GEN_004_03x05_02_QTitle
+On a trouvé un canif sur les lieux du crime.
+$GEN_004_03x05_02_00
+On a trouvé un canif sur les lieux du crime. Est-ce avec cela que tu as poignardé le citoyen Boudon ?
+$GEN_004_03x05_02_01
+Non ! Les gardes m'ont pris mon couteau.
+$GEN_004_03x05_02_02
+Pourquoi portais-tu un couteau ?
+$GEN_004_03x05_02_03
+Parce que c'est un assassin !
+$GEN_004_03x05_02_04
+Parce que... Ben... parce que. Ça peut toujours servir.
+$GEN_004_03x05_02_05
+Quand tu veux poignarder un concitoyen, par exemple ?
+$GEN_004_03x05_02_06
+J'l'ai pas poignardé, d'accord ? Pas avec mon couteau ni avec un autre ! Si j'avais voulu l'tuer, j'l'aurais fait d'mes mains !
+$GEN_004_03x05_02_07
+Je me demande combien de personnes il a tué ?
+$GEN_004_02x03_03_QTitle
+Tu soutiens encore que c'est Verdière qui a tué le citoyen Boudon ?
+$GEN_004_02x03_03_00
+Tu soutiens encore que c'est Verdière qui a tué le citoyen Boudon ?
+$GEN_004_02x03_03_01
+Oui.
+$GEN_004_02x03_03_02
+Sale menteur !
+$GEN_004_02x03_03_03
+Mais c'est toi qui l'as frappé et volé.
+$GEN_004_02x03_03_04
+C'était lui qui voulait voler Boudon parce qu'ils s'étaient engueulés sur un truc. Quand j'ai pris son sac, il était pas si plein qu'ça.
+$GEN_004_02x03_03_05
+Pourquoi Verdière t'a-t-il demandé de venir avec lui ? S'il avait agressé seul Boudon, il aurait pu garder tout l'argent.
+$GEN_004_02x03_03_06
+Euh... Bah... Il avait p't'êt' peur de l'faire tout seul ?
+$GEN_004_02x03_03_07
+Un criminel professionnel aurait eu peur de voler un homme tout seul ?
+$GEN_004_02x03_03_08
+Fallait l'demander à Verdière avant de l'tuer. J'étais pas dans sa tête, hein !
+$GEN_004_02x03_03_09
+Il voulait sa part, c'est pour ça qu'il est allé avec Verdière !
+$GEN_004_01x03_04_QTitle
+Quand as-tu rencontré la victime pour la première fois ?
+$GEN_004_01x03_04_00
+Quand as-tu rencontré la victime pour la première fois ?
+$GEN_004_01x03_04_01
+On a bu des coups ensemble pendant quelques mois. C'était un type bizarre, il peignait, c'était une sorte de marchand aussi. Il avait toujours de l'argent et il payait toujours sa tournée.
+$GEN_004_01x03_04_02
+Et tu as tué un compagnon aussi bon sans aucun scrupule ?
+$GEN_004_01x03_04_03
+Combien d'fois faut-il que j'vous l'répète ? J'ai tué personne ! Et puis tout l'monde sait qu'Verdière était un sauvage.
+$GEN_004_01x03_04_04
+Toi aussi, tu le savais. Tu l'as quand même suivi pour ça.
+$GEN_004_01x03_04_05
+Le complice d'un sauvage en est un lui aussi !
+$GEN_004_01x03_04_06
+Verdière a prétendu pendant son procès que c'est toi qui avais du sang sur les mains.
+$GEN_004_01x03_04_07
+Un homme coupable cherche toujours à en accuser un autre.
+$GEN_004_KEY_01
+Bagarreur et immoral
+$GEN_004_KEY_02
+Attaque d'un compagnon de beuverie
+$GEN_004_KEY_03
+Meurtre
+$GEN_004_KEY_04
+Sac brodé
+$GEN_004_KEY_05
+Un couteau pris à Lebeau
+$GEN_004_LastDialog_00
+Finissons-en, il se fait tard...
+$GEN_004_UNIQUE_QUESTION_00
+Lequel des agresseurs s'est emparé du sac de la victime ?
+$GEN_004_UNIQUE_ANSWER_CORRECT_00_00
+Le prévenu.
+$GEN_004_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Aucun d'eux.
+$GEN_004_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Jean Boudon.
+$GEN_004_UNIQUE_QUESTION_01
+Comment le prévenu a-t-il fait connaissance avec la victime ?
+$GEN_004_UNIQUE_ANSWER_CORRECT_01_00
+Ils avaient l'habitude de boire ensemble.
+$GEN_004_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ils se sont rencontrés en prison.
+$GEN_004_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ils étaient voisins.

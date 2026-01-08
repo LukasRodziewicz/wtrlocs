@@ -1,0 +1,217 @@
+$GM_001_TITLE
+Płynność dostaw
+$GM_001_MAIN
+Organizacja dostaw żywności do miasta poprawiła się. Ludzie stają się milsi, bardziej życzliwi.
+$GM_002_TITLE
+Rewolucja postępuje
+$GM_002_MAIN
+Trybunał Rewolucyjny jest postrzegany jako sojusznik rewolucji.
+$GM_003_TITLE
+Dobre Słowo
+$GM_003_MAIN
+Czasem ktoś szepnie o Tobie dobre słówko. Zupełnie bezinteresownie.
+$GM_004_TITLE
+Plaga Szczurów
+$GM_004_MAIN
+Paryż opanowała plaga szczurów przenoszących nieprzyjemną chorobę skóry. Ludzie są rozdrażnieni, a ich produktywność znacząco spadła.
+$GM_005_TITLE
+Plotki
+$GM_005_MAIN
+Po ulicy krążą plotki o Tobie, żeś pijak i hazardzista. Też mi nowina… Ale i tak tracisz w oczach mieszkańców.
+$GM_006_TITLE
+Przyjaciel
+$GM_006_MAIN
+Ktoś po cichu dba o Twoją reputację. Kim może być ten cichy wielbiciel?
+$GM_007_TITLE
+Zasługa
+$GM_007_MAIN
+Czasem najmniejszy bezinteresowny gest może być dla kogoś bardzo ważny. Machnięcie Twoich skrzydeł wywołało u jakiejś grupy huragan pozytywnych zmian.
+$GM_008_TITLE
+Wiara
+$GM_008_MAIN
+Niektórzy wierzą, że możesz okazać się kluczem do zachowania równowagi między zwaśnionymi stronami.
+$GM_009_TITLE
+Prostota
+$GM_009_MAIN
+Prości ludzie mają wrażenie, że jesteś jednym z nich. Jakbyście się wychowali w tej samej izbie.
+$GM_011_TITLE
+Antyrewolucyjne Plotki
+$GM_011_MAIN
+„Trybunał wrogiem rewolucji” – krzyknęła przekupka. Nic tak nie rozluźnia paryżan jak zdemolowanie jakiejś symbolicznej budowli. Tym razem wzięli się za Palais de Justice, w którym rezyduje Twój urząd. Całe szczęście, że interweniowała Gwardia, inaczej roznieśliby budynek i wywołali jakąś nową rewolucję.
+$GM_012_TITLE
+Dobre kłamstwo
+$GM_012_MAIN
+Podczas debaty w Café Procope Twój ojciec bronił honoru Trybunału, chwalił jego cnoty i sukcesy. Ludzie nawet uwierzyli.
+$GM_013_TITLE
+Wsparcie sierot
+$GM_013_MAIN
+Twoja żona okazała serce młodym pensjonariuszom miejscowego sierocińca. Jej datek wzmocni ich nadzieję na lepszą przyszłość. Szlachetne, prawda?
+$GM_014_TITLE
+Zatarg
+$GM_014_MAIN
+Pamiętasz, jak kiedyś Twoja żona targowała się na rynku z tym łysym handlarzem? Sklepikarz zaczął paplać, że jesteś sknerą i chamem. Ty, nie żona. Uroki małżeństwa.
+$GM_015_TITLE
+Ukryty wróg
+$GM_015_MAIN
+W dużym mieście nie zawsze musisz nawet znać każdego swojego wroga. Jeden z nich maskuje się szczególnie dobrze.
+$GM_016_TITLE
+Saint-Just kłamie
+$GM_016_MAIN
+Podczas jednej z cyklicznych dysput w Café Procope pyskaty Saint-Just demagogicznie sugerował, że wszyscy sędziowie to skorumpowane relikty starego systemu. Niestety wybrał Ciebie za przykład. Znowu.
+$GM_017_TITLE
+Szabrownicy
+$GM_017_MAIN
+W mieście grasuje banda rzezimieszków okradających nocą domy. Ludzie wymyślają najróżniejsze sposoby na ukrycie swoich pieniędzy. Są zastraszeni biernością Gwardii i Trybunału.
+$GM_020_TITLE
+Przyjaciel rodziny
+$GM_020_MAIN
+Podczas obrad Konwentu rozmawiano o przydatności Trybunału Rewolucyjnego. Twój przyjaciel Jacques-Louis David wygłosił mowę, że Wasz urząd jest niezbędny dla osiągnięcia celów rewolucji.
+$GM_022_TITLE
+Rodzinne Korzenie
+$GM_022_MAIN
+Mężczyzna uwolniony podczas burzenia Bastylii opowiada, będąc w trzydniowym pijackim ciągu, że widział Cię podczas oswobadzania więzienia. Jest pewien, że szedłeś w jednym z pierwszych rzędów. Większość słuchaczy uśmiechała się pod nosem, widząc stan pijaczka, ale byli też tacy, którzy uwierzyli.
+$GM_023_TITLE
+Wróg publiczny
+$GM_023_MAIN
+Twoja zła reputacja rysuje Cię jako wroga Paryża. Nawet psy uciekają przed Tobą na drugą stronę ulicy.
+$GM_025_TITLE
+Donos
+$GM_025_MAIN
+Ktoś doniósł patrolowi rewolucyjnemu, że możesz być austriackim szpiclem. Mają na Ciebie oko. Idioci.
+
+$GM_032_TITLE
+Sędzia Zły!
+$GM_032_MAIN
+Cierpliwość ludu ma swoje granice, a tym razem rozprawa przeciągała się w nieskończoność…
+$GM_033_TITLE
+Nietrzeźwość
+$GM_033_MAIN
+Zdarza Ci się wypić od czasu do czasu kieliszek lub dwa. W porywach sześć. Niby nikt Cię nie ocenia, ale…
+$GM_034_TITLE
+Pijaństwo
+$GM_034_MAIN
+Regularnie będący na rauszu sędzia jest idealną inspiracją dla niedzielnych plotek. 
+$GM_035_TITLE
+Nałóg
+$GM_035_MAIN
+Ludzie przestali traktować Twoje alkoholowe problemy w kategoriach plotki. Masz problem i sobie z nim nie radzisz.
+$GM_051_TITLE
+Poparcie Ławy
+$GM_051_MAIN
+Ława widzi, że podejmujesz dobre decyzje i kierujesz się sprawiedliwością. Mówią o Tobie dobrze.
+$GM_052_TITLE
+Wróg na Sali
+$GM_052_MAIN
+Ława widzi, że podejmujesz niekorzystne decyzje i nie kierujesz się sprawiedliwością. Plotki szybko się rozchodzą.
+$GM_053_TITLE
+Urzędnik Zły
+$GM_053_MAIN
+Rozchodzą się plotki, że nie wykonujesz swoich obowiązków z należytą starannością. Lepiej się zacznij starać, jeśli nie chcesz stracić swojej posady.
+
+$GM_054_TITLE
+Przychylność Rewolucjonistów
+$GM_054_MAIN
+Twoje relacje z Rewolucjonistami stoją na wysokim poziomie.
+
+$GM_055_TITLE
+Wrogość Rewolucjonistów
+$GM_055_MAIN
+Twoje relacje z Rewolucjonistami stoją na bardzo niskim poziomie.
+
+$GM_056_TITLE
+Przychylność Ludu
+$GM_056_MAIN
+Twoje relacje z Ludem stoją na wysokim poziomie.
+
+$GM_057_TITLE
+Wrogość Ludu
+$GM_057_MAIN
+Twoje relacje z Ludem stoją na bardzo niskim poziomie.
+
+$GM_058_TITLE
+Przychylność Arystokratów
+$GM_058_MAIN
+Twoje relacje z Arystokracją stoją na wysokim poziomie.
+
+$GM_059_TITLE
+Wrogość Arystokratów
+$GM_059_MAIN
+Twoje relacje z Arystokracją stoją na bardzo niskim poziomie.
+
+$GM_060_TITLE
+Dobre relacje z żoną
+$GM_060_MAIN
+Zaczyna się poprawiać między Wami.
+$GM_061_TITLE
+Złe relacje z żoną
+$GM_061_MAIN
+Pogarsza się to, co już i tak było złe.
+$GM_062_TITLE
+Dobre relacje z młodszym synem
+$GM_062_MAIN
+Młodszy syn Cię ubóstwia. Jak kiedyś, w lepszych czasach.
+$GM_063_TITLE
+Dobre relacje ze starszym synem
+$GM_063_MAIN
+Trochę wbrew sobie Twój starszy syn zaczyna Ci bardziej ufać.
+$GM_064_TITLE
+Złe relacje ze starszym synem
+$GM_064_MAIN
+Młodzieńczy bunt zaczyna zamieniać się w całkiem dorosłą nienawiść.
+$GM_065_TITLE
+Dobre relacje z ojcem
+$GM_065_MAIN
+Napawasz go dumą. Tak trzymaj.
+$GM_066_TITLE
+Złe relacje z ojcem
+$GM_066_MAIN
+Coś poszło bardzo nie tak. Bardzo nie tak. Zdajesz sobie z tego sprawę?
+	
+$GM_100_TITLE
+Ucieczka Króla
+$GM_100_MAIN
+Król uciekł z aresztu domowego. Szuka go cały kraj, a ulice kipią od gniewu.
+$GM_104_TITLE
+Minister zbiegł
+$GM_104_MAIN
+Jean-Marie Roland zbiegł z Paryża na wieść o aresztowaniu żony. Wiemy, że przed ucieczką zadbał o rozpuszczenie negatywnych plotek na Twój temat.
+$GM_105_TITLE
+Żona ministra zbiegła
+$GM_105_MAIN
+Jeanne-Marie Roland zawsze rządziła z drugiego rzędu. Z całą pewnością nie odpuści Ci aresztowania jej męża. Będzie Cię nękać nawet na uchodźstwie.
+
+$GM_110_TITLE
+Pozycja w Hierarchii
+$GM_110_MAIN
+Twoja pozycja w hierarchii umacnia się, wspinasz się coraz wyżej.
+
+$GM_202_TITLE
+Problemy z dostawami
+$GM_202_MAIN
+Pojawiły się problemy z dostawami żywności. Zupełnie jakby ktoś chciał zagłodzić stolicę…
+$GM_203_TITLE
+Głód w Paryżu
+$GM_203_MAIN
+Z arystokracją się nie zadziera – ona wie, co Paryż zaboli najbardziej.
+$GM_204_TITLE
+Mniejsze zło
+$GM_204_MAIN
+Wygrałeś z arystokratami w kości, ale jedynie osłabiłeś cios wymierzony w mieszkańców Paryża.
+$GM_205_TITLE
+Wandea
+$GM_205_MAIN
+W Wandei wybuchło rojalistyczne powstanie. W Paryżu wrze, każdy może zostać obarczony winą za wojnę domową. Bądź ostrożny.
+
+$GM_301_TITLE
+Nieśmiertelny
+$GM_301_MAIN
+Dokonano na Tobie drugiego zamachu, a mimo to nadal żyjesz. Niby nowe społeczeńswo nie wierzy w zabobony, ale na ulicy szepcze się, że może nie można Cię zabić.
+
+$GM_400_TITLE
+Opóźnienie budowy pomnika
+$GM_400_MAIN
+Inspekcja odnotowała opieszałość przy budowie pomnika. Wpłynie to na Twoją relację z tymi, którzy na Ciebie liczą.
+$GM_401_TITLE
+Ukończona budowa pomnika
+$GM_401_MAIN
+Po raz kolejny udowodniłeś, że można na Tobie polegać. Dopilnowałeś wszystkiego i Paryż nigdy Ci tego nie zapomnni.

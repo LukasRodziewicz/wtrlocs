@@ -1,0 +1,202 @@
+$GEN_047_DOC_01_HEADER
+Zusammengestellt von: Charles Étienne
+$GEN_047_DOC_01_00
+	Während eines <a name="1" class="hidden">Gefechts</a> in den Vororten nahm unser Milizregiment vier feindliche Lanzenreiter gefangen. Unsere Soldaten schossen zuerst ihre Pferde nieder und <a name="2" class="hidden">stürmten anschließend das Wirtshaus</a>, in das sich die abgesessenen Kavalleristen geflüchtet hatten.
+$GEN_047_DOC_01_01
+	Gefesselt und geknebelt wurden die Feinde zum provisorischen Hauptquartier gebracht, das sich auf einem kleinen <a name="3" class="hidden">Bauernhof auf dem Land</a> befand. Für Verhöre blieb keine Zeit, da die Gegenoffensive noch andauerte. Stattdessen wurden die Gefangenen in einem Vorratskeller festgehalten, bewacht vom 17-jährigen Gefreiten Victor Devalle. Vorschriftsgemäß war er mit Gewehr und Pistole ausgerüstet.
+$GEN_047_DOC_01_02
+	Am Abend wollte einer der Offiziere die Lanzenreiter zum Generalstab bringen. Er fand <a name="5" class="hidden">den Wachposten schlafend</a> an der Tür, und einem der Kavalleristen war die Flucht gelungen. Seine Kameraden müssen ihm geholfen haben, die alten, verrosteten Gitterstäbe zu entfernen. Der Entkommene verriet den Standort unseres Feldstabs, und wir verloren unsere Gefangenen.
+$GEN_047_OnStart_00
+Sind Sie Gefreiter Victor Devalle?
+$GEN_047_OnStart_01
+Ja, Monsieur Richter.
+$GEN_047_OnStart_02
+Wie alt sind Sie?
+$GEN_047_OnStart_03
+Siebzehn, Monsieur Richter.
+$GEN_047_OnStart_04
+Zu meiner Zeit waren Kinder verantwortungsbewusster als dieser Bursche!
+$GEN_047_OnStart_05
+Wie lange dienen Sie schon in der Armee?
+$GEN_047_OnStart_06
+Drei Wochen, Monsieur der Richter.
+$GEN_047_OnStart_07
+Und Sie haben es bereits geschafft, ein Kriegsverbrechen zu begehen?
+$GEN_047_OnStart_08
+Sind Ihnen die möglichen Konsequenzen Ihres Handelns bewusst? Möchten Sie etwas dazu sagen?
+$GEN_047_OnStart_09
+Ja, Monsieur. Es war nicht meine Absicht, den Gefangenen laufen zu lassen.
+$GEN_047_OnGuilty_00
+Soldat, Ihre sträfliche Nachlässigkeit bei der Erfüllung Ihrer Pflichten hätte viele Menschenleben kosten können. Ihre Hinrichtung soll anderen zur Warnung dienen.
+$GEN_047_OnGuilty_01
+Welcher Barbar tötet ein Kind, nur weil es müde war?
+$GEN_047_OnNotGuilty_00
+Indem Sie eingeschlafen sind, haben Sie viele Leben in Gefahr gebracht. Doch wir brauchen Sie weiterhin in unseren Reihen. Sie dürfen gehen, Soldat.
+$GEN_047_OnNotGuilty_01
+Wir dürfen nicht so nachsichtig sein. Wir befinden uns im Krieg.
+$GEN_047_OnNotGuilty_02
+Ja, Soldaten sollen kämpfen, nicht in Zellen verrotten!
+$GEN_047_OnNotGuilty_03
+Was? Wegen ihm hätte die ganze Einheit getötet werden können!
+$GEN_047_01x05_00_QTitle
+Warum waren Sie am Tag des Vorfalls so erschöpft? Haben Sie gekämpft?
+$GEN_047_01x05_00_00
+Warum waren Sie am Tag des Vorfalls so erschöpft? Haben Sie gekämpft?
+$GEN_047_01x05_00_01
+Erst am Morgen, Monsieur le Juge.
+$GEN_047_01x05_00_02
+Warum?
+$GEN_047_01x05_00_03
+Meine Kolonne geriet unter Artilleriebeschuss. Panik brach aus, und wir zogen uns zurück.
+$GEN_047_01x05_00_04
+Früher haben wir wie Männer gekämpft. Was ist nur aus uns geworden?
+$GEN_047_01x05_00_05
+Bist du auch geflohen, Soldat?
+$GEN_047_01x05_00_06
+Ein Mann, der direkt neben mir stand, wurde von einer Kugel in Stücke gerissen… Ich…
+$GEN_047_01x05_00_07
+Bist du geflohen, weil du Angst hattest?
+$GEN_047_01x05_00_08
+Ja, ich hatte Angst.
+$GEN_047_01x05_00_09
+Lassen Sie mich raten, Sie hatten auch zu viel Angst, um auf die Gefangenen zu schießen…
+$GEN_047_01x05_00_10
+Wenn ich nicht geschlafen hätte–
+$GEN_047_01x05_00_11
+Halt besser den Mund, Junge.
+$GEN_047_03x04_01_QTitle
+Das Hauptquartier befand sich auf einem Bauernhof?
+$GEN_047_03x04_01_00
+Das Hauptquartier befand sich also auf einem Bauernhof?
+$GEN_047_03x04_01_01
+Es war ein altes Haus, eher eine Hütte, umgeben von ein paar kleinen Gebäuden – einem Schweinestall, einem Hühnerhaus und einem Holzschuppen.
+$GEN_047_03x04_01_02
+Wie konnte der Gefangene entkommen?
+$GEN_047_03x04_01_03
+Sie müssen die Gitterstäbe herausgezogen haben. Das Gebäude hielt sich kaum noch, Monsieur le Juge. Ein kleiner Stoß hätte schon gereicht…
+$GEN_047_03x04_01_04
+In solchen Häusern hält selbst die Tür nur mit Mühe.
+$GEN_047_03x04_01_05
+Haben Sie nichts gehört?
+$GEN_047_03x04_01_06
+Nein, Monsieur Richter. Ich wollte nur für ein paar Minuten die Augen schließen. Ich hatte damals kaum Schlaf bekommen.
+$GEN_047_03x04_01_07
+Ein paar Wochen beim Militär, und du bist schon erschöpft?
+$GEN_047_03x04_01_08
+…
+$GEN_047_03x04_01_09
+Er ist jung. Wenn er nicht schlafen wollte, würde er es nicht tun.
+$GEN_047_03x04_01_10
+Hat Sie ein Offizier geweckt?
+$GEN_047_03x04_01_11
+Kapitän Berryer. Er war so wütend, dass er mich beinahe an Ort und Stelle erschossen hätte, Monsieur der Richter.
+$GEN_047_03x04_01_12
+Man hätte Ihnen die Waffe abnehmen und jemanden töten können…
+$GEN_047_03x04_01_13
+Das weiß ich, mein Herr.
+$GEN_047_02x04_02_QTitle
+In den Akten steht, dass die Gefangenen sich nicht kampflos ergeben wollten.
+$GEN_047_02x04_02_00
+In den Akten steht, dass die Gefangenen sich nicht kampflos ergeben hätten.
+$GEN_047_02x04_02_01
+Ich habe gehört, sie haben sich in einem Haus verschanzt und mit Bajonetten gekämpft.
+$GEN_047_02x04_02_02
+Und euer Befehl lautete also, sie im Keller einzusperren und ein Kind als Wächter zurückzulassen? Was hättet ihr getan, wenn sie versucht hätten zu fliehen?
+$GEN_047_02x04_02_03
+Falls Sie in diesem Moment nicht geschlafen haben, natürlich.
+$GEN_047_02x04_02_04
+Ich hätte sie erschossen.
+$GEN_047_02x04_02_05
+Klar, der Junge hätte jemanden erschossen.
+$GEN_047_02x04_02_06
+Haben Sie schon einmal einen Menschen getötet?
+$GEN_047_02x04_02_07
+…
+$GEN_047_02x04_02_08
+Beantworten Sie die Frage.
+$GEN_047_02x04_02_09
+Ja, genau, am Tag zuvor. Wir gingen mit aufgepflanztem Bajonett vor und ich habe jemandem den Kopf durchbohrt…
+$GEN_047_05x03_03_QTitle
+Wie viele Soldaten befanden sich im Hauptquartier, als der Gefangene entkommen ist?
+$GEN_047_05x03_03_00
+Wie viele Soldaten befanden sich im Hauptquartier, als der Gefangene entkommen konnte?
+$GEN_047_05x03_03_01
+Etwa dreißig, schätze ich. Und die Offiziere auch, aber sie saßen etwas weiter entfernt. Der Keller war beim Schweinestall, unter dem Holzschuppen.
+$GEN_047_05x03_03_02
+Gab es noch weitere Wachen?
+$GEN_047_05x03_03_03
+Ganz genau! Dreißig Schuldige, aber nur ein Sündenbock!
+$GEN_047_05x03_03_04
+Ich glaube, sie haben entlang des Zauns patrouilliert.
+$GEN_047_05x03_03_05
+Und keiner von ihnen hat den Flüchtigen gefasst?
+$GEN_047_05x03_03_06
+Anscheinend nicht, Monsieur le Juge.
+$GEN_047_05x03_03_07
+Rufen Sie den Zeugen auf.
+$GEN_047_05x03_03_09
+Bitte stellen Sie sich vor.
+$GEN_047_05x03_03_10
+Kapitän Berryer.
+$GEN_047_05x03_03_11
+Haben Sie sonst nichts über sich zu sagen?
+$GEN_047_05x03_03_12
+Dafür habe ich keine Zeit. Der Feind rückt näher, während wir unsere Zeit mit Verrätern vergeuden.
+$GEN_047_WIT_00_A_QTitle
+Halten Sie diesen jungen Mann für einen Verräter?
+$GEN_047_WIT_00_A_00
+Halten Sie diesen jungen Mann für einen Verräter?
+$GEN_047_WIT_00_A_01
+Es ist ganz einfach. Er ließ einen Gefangenen entkommen, wodurch der Feind–
+$GEN_047_WIT_00_A_02
+Ich habe die Akten gelesen.
+$GEN_047_WIT_00_A_03
+Warum stellen Sie dann solche unsinnigen Fragen?
+$GEN_047_WIT_00_A_04
+Ist Ihr Urteil nicht zu streng?
+$GEN_047_WIT_00_A_05
+Der Krieg kennt kein Erbarmen. Wir müssen uns der Kosten des Sieges bewusst sein – und der Strafe, die jene erwartet, die unserer Sache schaden.
+$GEN_047_WIT_00_A_06
+Er war sich seiner Verantwortung sehr wohl bewusst.
+$GEN_047_WIT_00_B_QTitle
+Warum haben Sie einen so unerfahrenen Soldaten auf Wache gestellt?
+$GEN_047_WIT_00_B_00
+Warum haben Sie einen so unerfahrenen Soldaten auf Wache gestellt?
+$GEN_047_WIT_00_B_01
+Damit er mehr Erfahrung sammelt. Kennen Sie eine leichtere Aufgabe, als auf einem Hocker zu sitzen und darauf zu achten, dass vier erschöpfte, verletzte Männer nicht aus einem verschlossenen Raum entkommen?
+$GEN_047_WIT_00_B_02
+Jeder Soldat muss zu etwas nütze sein.
+$GEN_047_WIT_00_B_03
+Waren Sie sich der Erschöpfung des Angeklagten bewusst, als Sie ihm den Befehl erteilten?
+$GEN_047_WIT_00_B_04
+Offensichtlich. Deshalb habe ich ihm befohlen, die Gefangenen an einem sicheren Ort zu bewachen. Währenddessen unterstützte ich mit meinen Leuten die Flanke von Oberst de Montigny, der gerade mit feindlichen Truppen kämpfte.
+$GEN_047_KEY_01
+Kampf
+$GEN_047_KEY_02
+Sturm auf das Wirtshaus
+$GEN_047_KEY_03
+Bauernhof auf dem Land
+$GEN_047_KEY_04
+Vorratskeller
+$GEN_047_KEY_05
+Schlafender Wachposten
+$GEN_047_KEY_06
+Rostige Stäbe
+$GEN_047_LastDialog_00
+Tun Sie das nicht! Bitte! Ich werde auf keinen Fall wieder im Dienst einschlafen, das schwöre ich!
+$GEN_047_UNIQUE_QUESTION_00
+Hat der Angeklagte am Tag des Vorfalls gekämpft?
+$GEN_047_UNIQUE_ANSWER_CORRECT_00_00
+Er war dabei, aber seine Einheit hat das Schlachtfeld verlassen.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Er war dabei und hat sich als Held erwiesen.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Er verbrachte den ganzen Tag hinter den Linien.
+$GEN_047_UNIQUE_QUESTION_01
+Wie konnten die Lanciers entkommen?
+$GEN_047_UNIQUE_ANSWER_CORRECT_01_00
+Sie haben die Gitterstäbe aus dem Fenster gezogen.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Sie brachen die Tür auf.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Sie haben sich einen Weg nach draußen gegraben.

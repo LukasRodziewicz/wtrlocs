@@ -1,0 +1,205 @@
+$GEN_003_DOC_01_HEADER
+Compilado por: Raphaël Chalopin
+$GEN_003_DOC_01_00
+En el banquillo se encuentra Lucien Blanchot, residente de la Sección des Gravilliers, en la rue Meslée. El ciudadano Blanchot posee varios puestos de comestibles. Hemos recibido múltiples <a name="1" class="hidden">denuncias</a> sobre sus prácticas comerciales desleales, como la venta de fruta en mal estado, la especulación con los precios y la violación de los <a name="3" class="hidden">límites legales de precios</a>.
+$GEN_003_DOC_01_01
+El señor Blanchot ha negado todas las acusaciones, pero mi investigación en sus puestos reveló que al menos algunas de las quejas estaban justificadas. Alegó que los precios se habían inflado debido a <a name="4" class="hidden">“errores de los empleados”</a>, y que los productos en mal estado iban a ser desechados el mismo día de la inspección. Cabe señalar que, cuando los inspectores señalaron sus infracciones, Blanchot reprendió a sus empleados y se dispuso de inmediato a restablecer el orden en su puesto.
+$GEN_003_DOC_01_02
+<h1>Lucien Blanchot</h1>
+Un joven comerciante y ferviente partidario de los jacobinos. Afirma tener <a name="5" class="hidden">contactos</a> con Marat y Robespierre. Hasta ahora ha logrado eludir las consecuencias de sus turbios negocios, así que quizá haya algo de verdad en sus alardes.
+$GEN_003_DOC_01_03
+Testigo 1: «Me vendió manzanas podridas. Puso unas frescas encima para que no me diera cuenta.»
+$GEN_003_DOC_01_04
+Testigo 2: “¡Mi esposo <a name="7" class="hidden">no dejó de vomitar en dos días</a> después de comer el apio que le compró a este estafador!”
+$GEN_003_OnStart_00
+¡Yo misma le compré zanahorias!
+$GEN_003_OnStart_01
+Por favor, preséntese.
+$GEN_003_OnStart_02
+Lucien Blanchot.
+$GEN_003_OnStart_03
+¿Ocupación?
+$GEN_003_OnStart_04
+¿Ahora mismo? Comerciante. Y, de momento, prisionero.
+$GEN_003_OnStart_05
+Se le acusa de especulación de precios, violar los límites legales de precios y vender productos no aptos para el consumo.
+$GEN_003_OnStart_06
+¿Eso es todo?
+$GEN_003_OnStart_07
+Solicito al tribunal que añada el envenenamiento deliberado de ciudadanos parisinos a la lista de cargos.
+$GEN_003_OnStart_08
+¿Envenenamiento? Las verduras pasadas nunca han matado a nadie.
+$GEN_003_OnStart_09
+¿Entonces admite los demás cargos?
+$GEN_003_OnStart_10
+Soy un empresario honesto, y tales acusaciones no perjudicarán mi negocio.
+$GEN_003_OnGuilty_00
+¡Condeno al ciudadano Lucien Blanchot a la guillotina! Saquen al condenado.
+$GEN_003_OnGuilty_01
+¡Inconcebible! ¿Una sentencia de muerte por una falta menor? ¡Me opongo!
+$GEN_003_OnGuilty_02
+¡Veamos cuánto tarda en pudrirse ahora!
+$GEN_003_OnGuilty_03
+¡Tengo amigos poderosos! ¡Vas a arrepentirte de esto, inútil miserable!
+$GEN_003_OnPrison_00
+¡Condeno al ciudadano Lucien Blanchot a prisión! Saquen al condenado.
+$GEN_003_OnPrison_01
+¡Veamos cuánto tarda en pudrirse tras las rejas!
+$GEN_003_OnPrison_02
+Tengo amigos poderosos. Me liberarán en cuestión de días. Usted, en cambio…
+$GEN_003_OnNotGuilty_00
+El veredicto en el caso del ciudadano Blanchot… ¡Inocente! El acusado queda en libertad.
+$GEN_003_OnNotGuilty_01
+Gracias por su veredicto justo. Me reconforta saber que aún contamos con jueces tan honorables.
+$GEN_003_OnNotGuilty_02
+¡Es una burla!
+$GEN_003_OnNotGuilty_03
+¿Inocente? ¡Le sirvieron todas las pruebas en bandeja!
+$GEN_003_01x06_00_QTitle
+¿Admite haber vendido productos en mal estado?
+$GEN_003_01x06_00_00
+¿Admite haber vendido productos en mal estado?
+$GEN_003_01x06_00_01
+Eso ya lo han determinado los inspectores. No es necesario volver a tratar el asunto.
+$GEN_003_01x06_00_02
+¡Responda a la pregunta!
+$GEN_003_01x06_00_03
+Sí y no. Sí, porque reconozco que se han reportado tales cosas en mis puestos. No, porque no fue culpa mía.
+$GEN_003_01x06_00_04
+¿De quién fue la culpa, entonces?
+$GEN_003_01x06_00_05
+No puedo ser responsable de que la naturaleza no haya hecho todas las manzanas iguales. Las manzanas no son ciudadanos de Francia.
+$GEN_003_01x06_00_06
+Pero usted es el dueño de este negocio, y puede ser considerado responsable de los productos que vende.
+$GEN_003_01x06_00_07
+Jamás he obligado a nadie a comprarme nada.
+$GEN_003_01x06_00_08
+¿Quiere decir que sus clientes compraron comida en mal estado a sabiendas?
+$GEN_003_01x06_00_09
+Te comprarán zanahorias tan negras como el carbón si bajas el precio unos cuantos francos, pero aun así esperan que sepan como recién sacadas de la tierra.
+$GEN_003_01x06_00_10
+¡Está insultando al pueblo! ¡Encadenad a ese canalla!
+$GEN_003_01x07_01_QTitle
+¿Sabía que sus productos enfermaron a sus clientes?
+$GEN_003_01x07_01_00
+¿Sabía que sus productos enfermaron a sus clientes?
+$GEN_003_01x07_01_01
+Si alguien puede demostrar que mis productos fueron los culpables, con gusto cubriré los gastos de su tratamiento — o de su funeral. Solo tienen que presentarse.
+$GEN_003_01x07_01_02
+¡Cómete tú mismo esa porquería y ahí tendrás tus pruebas!
+$GEN_003_01x07_01_03
+Permítame recordarle que los testimonios de los testigos serán tomados en cuenta.
+$GEN_003_01x07_01_04
+Él no vendía comida, vendía mierda.
+$GEN_003_01x07_01_05
+Testimonios de envidiosos dispuestos a todo con tal de obstaculizar el trabajo de un hombre más próspero. Vaya pruebas dignas, sin duda.
+$GEN_003_02x03_02_QTitle
+En cuanto a la infracción de los límites legales de precios…
+$GEN_003_02x03_02_00
+Antes de que monsieur le juge haga su pregunta, permítame dejar algo claro: jamás se infringieron deliberadamente los límites legales de precios en mis puestos. Considero tales acusaciones maliciosas y viles.
+$GEN_003_02x03_02_01
+¡Protesto! Solo ajustó los precios cuando llegaron los inspectores.
+$GEN_003_02x03_02_02
+Merece pudrirse en la cárcel.
+$GEN_003_02x03_02_03
+Los inspectores me impusieron una multa considerable que pagué sin demora. Ya he asumido las consecuencias de mi negligencia.
+$GEN_003_02x03_02_04
+¡Una multa no impedirá que siga vendiendo tomates podridos!
+$GEN_003_02x04_03_QTitle
+Parece que sus empleados tienden bastante a cometer errores.
+$GEN_003_02x04_03_00
+Parece que sus empleados tienden a cometer errores con frecuencia.
+$GEN_003_02x04_03_01
+Lo haría todo yo mismo si pudiera, pero eso es imposible.
+$GEN_003_02x04_03_02
+¿No había nadie en todo París lo bastante competente? ¿Tan poca fe tienes en tus conciudadanos?
+$GEN_003_02x04_03_03
+La verdad es que la mayoría de la gente es necia. El simple hecho de tener que defenderme en este tribunal lo demuestra.
+$GEN_003_02x04_03_04
+¿El acusado proporcionó instrucciones adecuadas a sus subordinados?
+$GEN_003_02x04_03_05
+Soy dueño de una cadena de puestos de comestibles, no de una escuela parroquial para retrasados.
+$GEN_003_02x04_03_06
+¡Nos está insultando!
+$GEN_003_02x05_04_QTitle
+¿Podría explicar por qué ha habido tantas quejas sobre su negocio a lo largo de los años…?
+$GEN_003_02x05_04_00
+¿Podría explicar por qué ha habido tantas quejas sobre su negocio durante años y, sin embargo, es la primera vez que comparece ante la justicia?
+$GEN_003_02x05_04_01
+¿Será porque la mayoría de esas quejas no han sido más que acusaciones sin sentido de holgazanes envidiosos?
+$GEN_003_02x05_04_02
+¿Estás tan seguro de que Marat y Robespierre te protegerán?
+$GEN_003_02x05_04_03
+Estoy convencido de que la ley me protegerá. La justicia está de mi lado.
+$GEN_003_02x05_04_04
+¿A qué se refiere?
+$GEN_003_02x05_04_05
+La ley debe proteger a los inocentes. Debe estar del lado de quienes sufren injustamente...
+$GEN_003_02x05_04_06
+Ahórranos el discurso. Esto no es una sesión de la Convención Nacional.
+$GEN_003_02x05_04_07
+¿Alguien entendió algo de eso?
+$GEN_003_02x05_04_08
+Perdóneme. Mi alma clama por justicia, para que los estadistas que mencionó, Marat y Robespierre, no tengan que impartir justicia en mi nombre.
+$GEN_003_03x04_05_QTitle
+Hemos analizado sus libros de cuentas y hemos descubierto que ha estado infringiendo los límites legales de precios de manera regular…
+$GEN_003_03x04_05_00
+Hemos analizado sus libros de cuentas y hemos descubierto que ha estado infringiendo los límites legales de precios de manera regular. ¿Niega usted también esta acusación?
+$GEN_003_03x04_05_01
+Estos registros los llevan personas comunes, propensas a cometer errores. Los revisaré de nuevo y tomaré las medidas necesarias…
+$GEN_003_03x04_05_02
+No se encuentra en una oficina administrativa, ciudadano Blanchot. Estos libros, tal como están, son pruebas ante el tribunal.
+$GEN_003_03x04_05_03
+Son simples errores de contabilidad, un cero o una coma puestos por descuido en el lugar equivocado. Todo tiene explicación. Al fin y al cabo, ¿no somos todos amigos de Francia aquí? El ciudadano Robespierre me ha asegurado que así es.
+$GEN_003_03x04_05_04
+¿Acaso el ciudadano Robespierre también le aseguró que puede falsificar registros sin consecuencias?
+$GEN_003_03x04_05_05
+Por supuesto que no…
+$GEN_003_03x04_05_06
+Entonces, ¿por qué lo mencionó?
+$GEN_003_03x04_05_07
+Yo…
+$GEN_003_03x04_05_08
+¡Robespierre no es un lacayo de mercachifles como él!
+$GEN_003_03x04_05_09
+¡Silencio! ¡O suspenderé la sesión!
+$GEN_003_03x04_05_10
+¿También han sobornado al juez?
+$GEN_003_KEY_01
+Quejas de los clientes
+$GEN_003_KEY_02
+Prácticas desleales
+$GEN_003_KEY_03
+Límites legales de precios
+$GEN_003_KEY_04
+Errores de los empleados
+$GEN_003_KEY_05
+Las conexiones del acusado
+$GEN_003_KEY_06
+Manzanas podridas
+$GEN_003_KEY_07
+Clientes envenenados
+$GEN_003_LastDialog_00
+¿Por unas cuantas manzanas podridas? ¿Se han vuelto locos? ¡Debemos llamar a Robespierre!
+$GEN_003_UNIQUE_QUESTION_00
+¿Cuáles son las afiliaciones políticas confirmadas del acusado?
+$GEN_003_UNIQUE_QUESTION_01
+¿Cuál fue la actitud del acusado ante las multas impuestas?
+$GEN_003_UNIQUE_QUESTION_02
+¿Cómo explica el acusado su desprecio por los límites legales de precios?
+$GEN_003_UNIQUE_ANSWER_CORRECT_00_00
+Seguidor jacobino.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Seguidor girondino.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_00_01
+No hay información sobre afiliaciones políticas.
+$GEN_003_UNIQUE_ANSWER_CORRECT_01_00
+Pagó de inmediato.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Se demoró con el pago.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Sobornó al funcionario para librarse de la multa.
+$GEN_003_UNIQUE_ANSWER_CORRECT_02_00
+Error en la escritura.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_02_00
+El apoyo de Robespierre.

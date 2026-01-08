@@ -1,0 +1,30 @@
+$DIAL_H_03_01_02_001_DESTEAL
+Obiecuję nie zająć zbyt dużo czasu. Poza tym moja sprawa jest oczywista.
+$DIAL_H_03_01_02_002_JUDGE
+Co złego może się jeszcze wydarzyć, prawda?
+$DIAL_H_03_01_02_003_DESTEAL
+Zmiany. Nie lubicie zmian, a szczególnie takich, jakie za moment staną się rzeczywistością.
+$DIAL_H_03_01_02_004_JUDGE
+Jakich zmian?
+$DIAL_H_03_01_02_005_DESTEAL
+Wyzwolenie kobiet, oczywiście.
+$DIAL_H_03_01_02_006_JUDGE
+Chyba nie nadążam, przepraszam. Kto was niewoli?
+$DIAL_H_03_01_02_007_DESTEAL
+Wy. To zawsze byliście wy. Mężczyźni, którzy zagarnęli całą władzę nad krajem i naszym losem. Deklaracja praw kobiet jasno o tym…
+$DIAL_H_03_01_02_008_JUDGE
+Ach, ta święta Deklaracja. Twoje dziedzictwo.
+$DIAL_H_03_01_02_009_DESTEAL
+Dołożyłam jeno kilka drobnych sugestii do samego dokumentu. Moje zadanie jest inne: poprowadzić kobiety do ostatecznego sukcesu.
+$DIAL_H_03_01_02_010_JUDGE
+Domyślam się, że po trupach mężczyzn?
+$DIAL_H_03_01_02_011_DESTEAL
+To nie musi skończyć się w ten sposób. Żądamy bezwarunkowego zaakceptowania zapisów Deklaracji. Nie negocjujemy. Nie idziemy na ugody. W razie oporu będziemy protestować, a wtedy przekonacie się, czym jest walka z najeźdźcą bez naszego wsparcia.
+$DIAL_H_03_01_02_012_JUDGE
+Przekonanie kogoś do takich zmian, szczególnie w momencie…
+$DIAL_H_03_01_02_013_DESTEAL
+Odkąd o tobie usłyszałam, nic, tylko manipulujesz i knujesz w kuluarach. Poradzisz sobie. Pamiętaj, że bez nas przegracie, z nami zyskujecie szansę. Tego właśnie chcemy: braterstwa!
+$DIAL_H_03_01_02_014_JUDGE
+Chyba przeceniasz siłę kobiet, madame. Jakoś do tej pory nie widziałem was na polu bitwy, a walka jest wyrównana.
+$DIAL_H_03_01_02_015_DESTEAL
+Ważniejsze jest to, czy stać was na ryzyko buntu. Wiesz, czego chcemy. Damy wam krótką chwilę na przemyślenie… Do widzenia, obywatelu.

@@ -1,0 +1,260 @@
+$FAB_006_DOC_01_HEADER
+Compilé par : Fabrice Poli
+$FAB_006_DOC_01_00
+Marie-Sylvie Pache, la fille du maire de Paris, est accusée du <a name="1" class="hidden">meurtre de sang-froid</a> de Béatrice Caron.
+$FAB_006_DOC_01_01
+Son arrestation a eu lieu dans une <a name="2" class="hidden">maison abandonnée</a> de la rue Saint-Maur, où l'accusée aurait eu des relations charnelles de nombreuses fois avec la victime. La bicoque était parfaitement adaptée à des rendez-vous secrets. L'arrestation a eu lieu avec l'assistance exceptionnelle du juge Fidèle. D'après les gardes présents sur les lieux, l'accusée a été retrouvée penchée sur le cadavre de la victime avec un <a name="4" class="hidden">couteau de cuisine taché de sang entre les mains</a>. Il a été prouvé qu'il s'agissait de l'arme du crime. L'accusée n'a <a name="5" class="hidden">pas opposé de résistance</a> lors de son arrestation.
+$FAB_006_DOC_01_02
+Les enquêteurs ont pu établir que l'accusée et la victime <a name="6" class="hidden">se connaissaient</a> depuis longtemps. On les voyait souvent ensemble, mais des connaissances de l'accusée ont déclaré que celle-ci ne se vantait pas du poste de son père et cachait même son <a name="7" class="hidden">vrai nom</a>. Béatrice, par contre, se vantait prétendument en l'absence de l'accusée... Veuillez excuser mon langage, Monsieur le Juge... Elle se vantait d'avoir <a name="8" class="hidden">« souvent baisé »</a> l'accusée. Je me demande s'il ne s'agit pas de simples bêtises inventées par une jeune fille, mais je me dois de rapporter ce que j'ai découvert.
+$FAB_006_DOC_01_03
+Cette affaire est pleine de ragots et de suppositions. Béatrice avait des liens avec les Muscadins, mais nous n'avons rien pu apprendre d'intéressant grâce à eux. D'après les rumeurs, elle ressemblait assez à ce groupe de délinquants. Elle était jeune, indisciplinée, irrévérencieuse, et s'amusait à dépraver les jeunes filles sages. Elle usurpait de plus le titre de défenseure du peuple. Béatrice était une Muscadine dans l'âme, et il semblerait que l'accusée souhaitait l'imiter.
+$FAB_006_DOC_02_TOOLTIP
+La lettre de chantage
+$FAB_006_DOC_02_00
+Marie, J'ai été trahie par ton monde. Je suis devenue traîtresse à mon tour, une salope d'Autrichienne, et <a name="9" class="hidden">quelqu'un doit payer</a> pour ma honte et ma douleur. Ce quelqu'un sera toi. Viens à notre point de rendez-vous ce soir avec <a name="10" class="hidden">trois mille francs</a>. Sinon, je dirai à tout le monde que tu es aussi une espionne, et tu seras appelée putain et traîtresse comme je le suis maintenant.
+$FAB_006_OnStart_00
+Même si beaucoup d'entre vous connaissent déjà son visage, j'appelle l'accusée à se présenter.
+$FAB_006_OnStart_01
+Marie-Sylvie Pache, fille...
+$FAB_006_OnStart_02
+Oui, nous savons.
+$FAB_006_OnGuilty_00
+Je condamne Marie-Sylvie Pache à mort pour meurtre.
+$FAB_006_OnGuilty_01
+C'était couru d'avance.
+$FAB_006_OnGuilty_02
+Je ne suis pas triste pour elle.
+$FAB_006_OnGuilty_03
+Si elle avait pris un homme pour amant, les choses auraient été différentes.
+$FAB_006_OnPrison_00
+Marie-Sylvie Pache, il n'y a aucun doute que tu as commis ce crime. Je te condamne à la prison et j'espère que tu apprécieras la clémence de la cour.
+$FAB_006_OnPrison_01
+Personnellement, je ne vois pas pourquoi elle échappe à la guillotine.
+$FAB_006_OnPrison_02
+Peut-être que quelqu'un en prison la remettra sur le droit chemin.
+$FAB_006_OnNotGuilty_00
+J'ai entendu ton témoignage et je te déclare non coupable.
+$FAB_006_OnNotGuilty_01
+Mais tu l'as prise sur le fait toi-même !
+$FAB_006_OnNotGuilty_02
+Quoi ?!
+$FAB_006_OnNotGuilty_03
+Pourquoi donc ?
+$FAB_006_OnNotGuilty_04
+Le juge préfère sans doute les hommes, lui, et il compatit avec elle.
+$FAB_006_01x02_00_QTitle
+Pourquoi as-tu choisi cet endroit en particulier pour assassiner ta victime ?
+$FAB_006_01x02_00_00
+Pourquoi as-tu choisi cet endroit en particulier pour assassiner ta victime ?
+$FAB_006_01x02_00_01
+Je n'ai pas choisi l'endroit, c'est Béatrice... Et je n'avais nulle intention de tuer quelqu'un.
+$FAB_006_01x02_00_02
+Il n'y aurait pas de témoins si un crime était commis dans un endroit pareil.
+$FAB_006_01x02_00_03
+Un crime avait lieu à chaque fois que nous nous rencontrions là-bas : un crime de mésalliance, un crime de sexe et de luxure. L'endroit était fait pour qu'il n'y ait pas de témoins.
+$FAB_006_01x02_00_04
+Alors elles faisaient vraiment... Eh bien.
+$FAB_006_01x05_01_QTitle
+Tu n'as pas offert de résistance lors de ton arrestation. Pourquoi étais-tu si calme ?
+$FAB_006_01x05_01_00
+Tu n'as pas offert de résistance lors de ton arrestation. Pourquoi étais-tu si calme ?
+$FAB_006_01x05_01_01
+Je sais ce que j'ai fait à ce moment-là. Je ne nie rien.
+$FAB_006_01x05_01_02
+As-tu conscience que ta punition sera capitale pour un tel crime ? Tu aurais peut-être dû essayer de te sauver ?
+$FAB_006_01x05_01_03
+La réputation de ma famille a été ternie par ces accusations contre mon père. La personne que... Béatrice s'est avérée être un maître chanteur. Qu'ai-je donc à sauver ? Ma vie ? Quelle vie !
+$FAB_006_01x05_01_04
+Tu veux dire que tu as tué cette femme de sang-froid parce qu'elle a fait du mal à ta famille ?
+$FAB_006_01x05_01_05
+Elle ne nie même pas. Quelle imbécile !
+$FAB_006_01x06_02_QTitle
+Tu as assassiné une très bonne amie.
+$FAB_006_01x06_02_00
+Tu as assassiné une très bonne amie.
+$FAB_006_01x06_02_01
+Le couteau l'a transpercé comme il l'aurait fait avec une inconnue.
+$FAB_006_01x06_02_02
+Tu parles sans une once d'émotion. Comment est-ce possible ?
+$FAB_006_01x06_02_03
+Quand j'ai reçu la lettre de Béatrice, mon cœur s'est changé en pierre et j'ai vu le monde sous son vrai jour : un cloaque de traîtrise, d'égotisme, de cruauté...
+$FAB_006_01x06_02_04
+Elle est jeune, riche et stupide.
+$FAB_006_02x07_03_QTitle
+Et si le propriétaire de la maison que vous occupiez illégalement pour vos rendez-vous galants était revenu ?
+$FAB_006_02x07_03_00
+Et si le propriétaire de la maison que vous occupiez illégalement pour vos rendez-vous galants était revenu ?
+$FAB_006_02x07_03_01
+Nous ne l'occupions pas illégalement. Cette conclusion est ridicule.
+$FAB_006_02x07_03_02
+La fille du maire voulait prouver qu'elle avait le pouvoir. Comme c'est aristocratique.
+$FAB_006_02x07_03_03
+Je ne suis pas une aristocrate. Je suis issue du peuple. Les pauvres citoyens de Paris m'ont acceptée parmi eux, car ils voyaient bien que leur sort m'importait.
+$FAB_006_02x07_03_04
+Ils t'ont acceptée, car ils ne savaient pas que tu étais la fille d'un important personnage.
+$FAB_006_02x07_03_05
+Peut-être, procureur Tinville. Il est aussi possible, en effet, que ma vie et mes rêves n'aient été que chimère.
+$FAB_006_02x07_03_06
+Elle occupait illégalement la maison, car elle voulait montrer aux autres qu'elle était quelqu'un d'important !
+$FAB_006_02x07_03_07
+Vous racontez tous n'importe quoi...
+$FAB_006_02x04_04_QTitle
+Où as-tu obtenu le couteau ?
+$FAB_006_02x04_04_00
+Où as-tu obtenu le couteau ?
+$FAB_006_02x04_04_01
+Nous devions parfois couper du pain quand nous avions faim. Je l'avais apporté auparavant, et il était juste là ce jour-là.
+$FAB_006_02x04_04_02
+Tu avais prémédité ce crime ?
+$FAB_006_02x04_04_03
+Non... J'ai dit que... Est-ce que quelqu'un ici m'écoute ? J'ai dit que j'avais pris le couteau dans ma cuisine pour...
+$FAB_006_02x04_04_04
+Je parie qu'il était en argent ! Il paraît que le maire est riche.
+$FAB_006_02x04_04_05
+Et puis, qu'est-ce que mes mots peuvent changer si vos esprits sont bornés ?
+$FAB_006_02x04_04_06
+Sale garce autrichienne !
+$FAB_006_02x04_04_07
+Tribade ! Fricatrice !
+$FAB_006_02x04_04_08
+Je t'interdis d'offenser le peuple !
+$FAB_006_04x05_05_QTitle
+Lors de ton arrestation, tu m'as tendu l'arme du crime.
+$FAB_006_04x05_05_00
+Lors de ton arrestation, tu m'as tendu l'arme du crime.
+$FAB_006_04x05_05_01
+Je l'ai donnée à la bonne personne.
+$FAB_006_04x05_05_02
+Explique-toi.
+$FAB_006_04x05_05_03
+J'ai donné le couteau au boucher en chef de la ville, un homme qui sait que cet instrument lui est destiné. Il sentira le sang bien après ma mort.
+$FAB_006_04x05_05_04
+Les atrocités qu'elle a commises avec une autre femme l'ont rendue folle !
+$FAB_006_04x05_05_05
+Rappele-toi mes paroles, juge Fidèle. Un couteau trouvera son chemin jusque dans ton dos un jour.
+$FAB_006_04x05_05_06
+L'accusée essaie d'intimider le juge !
+$FAB_006_06x08_06_QTitle
+Pendant combien de temps as-tu entretenu une relation intime avec la victime ?
+$FAB_006_06x08_06_00
+Pendant combien de temps as-tu entretenu une relation intime avec la victime ?
+$FAB_006_06x08_06_01
+Pendant un an. Cela a commencé...
+$FAB_006_06x08_06_02
+Devons-nous vraiment écouter ces effusions perverses ?
+$FAB_006_06x08_06_03
+La prisonnière a le droit de se défendre. Si son témoignage est trop difficile pour toi, procureur Tinville, je peux terminer le procès seul.
+$FAB_006_06x08_06_04
+Je reste.
+$FAB_006_06x08_06_05
+Je demande à l'accusée de continuer.
+$FAB_006_06x08_06_06
+Cela a commencé... Non, je ne veux pas étaler mes sentiments devant des gens qui les croient contre nature. Vous m'avez déjà traitée d'animal.
+$FAB_006_06x08_06_07
+Ton témoignage pourrait nous aider à...
+$FAB_006_06x08_06_08
+Oui, j'ai tué Béatrice parce que je suis une déviante. Un monstre ! C'est ça que vous voulez tous entendre ?
+$FAB_006_06x08_06_09
+C'est vrai, c'est un monstre !
+$FAB_006_03x07_07_QTitle
+Sais-tu comment j'ai découvert votre lieu de réunion ?
+$FAB_006_03x07_07_00
+Sais-tu comment j'ai découvert votre lieu de réunion ?
+$FAB_006_03x07_07_01
+Je me suis posé la question dans ma cellule.
+$FAB_006_03x07_07_02
+Béatrice Caron a avoué être une espionne autrichienne. Elle a déclaré qu'elle ne restait en contact avec toi que pour obtenir des informations sur ton père.
+$FAB_006_03x07_07_03
+C'est absurde.
+$FAB_006_03x07_07_04
+La vérité est difficile à accepter.
+$FAB_006_03x07_07_05
+Tu cherches à transformer nos sentiments en un simple jeu politique. L'amour est bien supérieur à ça.
+$FAB_006_03x07_07_06
+Répugnant.
+$FAB_006_03x07_07_07
+Elles s'aimaient tellement que l'une a fini par tuer l'autre.
+$FAB_006_03x07_07_08
+C'est vous qui êtes répugnants... Vous et votre monde étriqué. La Révolution n'aura pas réussi à libérer vos esprits, vos cœurs et vos âmes.
+$FAB_006_10x09_08_QTitle
+Décris-nous tes sentiments quand tu as reçu la lettre de Béatrice.
+$FAB_006_10x09_08_00
+Décris-nous tes sentiments quand tu as reçu la lettre de Béatrice.
+$FAB_006_10x09_08_01
+J'ai eu le cœur brisé.
+$FAB_006_10x09_08_02
+Nous avons donc confirmation du mobile.
+$FAB_006_10x09_08_03
+Vous êtes vraiment des enquêteurs admirables. Vous venez enfin de comprendre ce que je vous dis depuis le début. Béatrice m'était très chère, comme...
+$FAB_006_10x09_08_04
+Ne la laissez pas le dire tout haut !
+$FAB_006_10x09_08_05
+Épargne-nous les détails.
+$FAB_006_10x09_08_06
+Oh, bien sûr. Vos petits cœurs purs ne peuvent pas supporter d'imaginer deux femmes ensemble. Où sont la liberté et l'égalité dont vous parlez ?
+$FAB_006_10x07_09_QTitle
+D'après toi, comment la victime aurait-elle dépensé l'argent qu'elle demandait ?
+$FAB_006_10x07_09_00
+D'après toi, comment la victime aurait-elle dépensé l'argent qu'elle demandait ?
+$FAB_006_10x07_09_01
+Je ne sais pas. Nous ne parlions pas beaucoup d'argent. Nous parlions de nos peines. Enfin, surtout des miennes.
+$FAB_006_10x07_09_02
+Tu connaissais pourtant soi-disant très bien la victime.
+$FAB_006_10x07_09_03
+Nous ne parlions pas d'argent. Nous n'imaginions pas un avenir ensemble... tout le monde sait que ce serait impossible...
+$FAB_006_10x07_09_04
+Encore heureux !
+$FAB_006_10x07_09_05
+Qu'on en finisse avec cette abomination !
+$FAB_006_10x07_09_06
+... comme je le disais.
+$FAB_006_10x07_09_07
+Cet argent aurait sans doute été utilisé pour développer davantage le cercle d'espionnage autrichien en France.
+$FAB_006_10x07_09_08
+Qu'est-ce qui vous fait dire ça ?
+$FAB_006_10x07_09_09
+Tu n'es pas là pour poser les questions.
+$FAB_006_KEY_01
+Meurtre de sang-froid
+$FAB_006_KEY_02
+Maison abandonnée
+$FAB_006_KEY_03
+Aide du juge
+$FAB_006_KEY_04
+Couteau dans sa main
+$FAB_006_KEY_05
+Pas de résistance
+$FAB_006_KEY_06
+Elles se connaissaient
+$FAB_006_KEY_07
+Identité gardée secrète
+$FAB_006_KEY_08
+Relation intime
+$FAB_006_KEY_09
+Chantage
+$FAB_006_KEY_10
+Trois mille francs
+$FAB_006_LastDialog_00
+Pourquoi est-ce que tu me dévisages ainsi ? Tu trouves que c'est une victoire ?
+$FAB_006_UNIQUE_QUESTION_00
+Les Muscadins n'ont pas reconnu la prévenue ? Comment cela se fait-il ?
+$FAB_006_UNIQUE_ANSWER_CORRECT_00_00
+Elle a caché sa véritable identité.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ils ne l'ont pas reconnue, sans prêter grande attention.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_00_01
+La prévenue s'est habilement fondue dans la foule.
+$FAB_006_UNIQUE_QUESTION_01
+La prévenue a-t-elle confirmé avoir eu une liaison intime avec la victime ?
+$FAB_006_UNIQUE_ANSWER_CORRECT_01_00
+Oui.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Non.
+$FAB_006_UNIQUE_QUESTION_02
+Où l'accusée s'est-elle procuré l'arme du crime ?
+$FAB_006_UNIQUE_ANSWER_CORRECT_02_00
+Elle l'a prise dans la maison.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Les espions autrichiens la lui ont donnée.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Elle l'a achetée au marché peu avant la rencontre.

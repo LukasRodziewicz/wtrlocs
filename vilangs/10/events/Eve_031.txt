@@ -1,0 +1,8 @@
+$EVE_031_TITLE
+O bizim!
+$EVE_031_MAIN
+Devrimci Paris için Vatandaş Capet’nin kaçışından daha aşağılayıcı bir deneyim olamazdı. Kaçtı, ellerinin arasından kayıp gitti ve şimdi Devrim zayıf ve güçsüz görünüyor. Halk, kolayca kandırılabilecek bir çocuğa benziyor. Ancak Cumhuriyet, bir Posta Müdürü ve adamları sayesinde hızla toparlandı; kaçakları Montmédy’ye giderken yakalamayı başardılar. Sıradan Vatandaşlar bir hükümdarın sonunu getirdi. Yarın Vatandaş Capet, Cumhuriyet’e hizmet etme fırsatını size bırakacak; o, Tribünal’in önüne çıkacak. Onun nasıl hatırlanacağına siz karar vereceksiniz – bir hain ve korkak olarak mı, yoksa talihsiz bir devlet adamı olarak mı? Kararı hapishane gardiyanları verseydi, tek bir sonuç olurdu...
+$EVE_031_OPTION_A
+Muhafızların Vatandaş Capet’i hapiste hırpalamasına izin ver
+$EVE_031_OPTION_B
+Duruşmaya kadar ona dokunmayın

@@ -1,0 +1,84 @@
+$CUT_21_DISC_TINVILLE_001_JUDGE
+Proszę mi wybaczyć to drobne spóźnienie.
+$CUT_21_DISC_TINVILLE_002_TINVILLE
+Uraził Wysoki Sąd tylko moją ciekawość, bo nie mogę odgadnąć, czym zasłużyłem sobie na to zaproszenie.
+$CUT_21_DISC_TINVILLE_003_JUDGE
+Słyszałeś zapewne o plotkach dotyczących arcybiskupa Gobela…
+$CUT_21_DISC_TINVILLE_004_TINVILLE
+Teraz, Alexisie, bodziesz boleśnie w moją inteligencję. Wiemy oboje, że to ty jesteś autorem donosu…
+$CUT_21_DISC_TINVILLE_005_JUDGE
+Skąd ta pewność?
+$CUT_21_DISC_TINVILLE_006_TINVILLE
+Nie jestem głupcem. Wyeliminowałeś Rolanda i Pache’a. Teraz próbujesz dobrać się do Gobela, choć nie wiem dlaczego. Nie obchodzi mnie to jednak… 
+
+$CUT_21_DISC_TINVILLE_007_JUDGE_AGGR
+Dopóki rachunek zysków po twojej stronie jest na plusie. Są jednak ludzie, których obchodzi sprawiedliwość.
+$CUT_21_DISC_TINVILLE_008_JUDGE_MANI
+Tak, wiem. Dbasz o swoją korzyść w każdej sytuacji. A korzyści z dobrego rozegrania partii z Gobelem mogą przerosnąć wyobraźnię. 
+$CUT_21_DISC_TINVILLE_009_JUDGE_JOKE
+Tak, wiemy, o co się troszczysz. Nie oceniam tego. Gobel ma tak samo. Pytanie, kto pierwszy za swoje egoistyczne podejście trafi na gilotynę.
+$CUT_21_DISC_TINVILLE_010_JUDGE_HUMI
+Zwracam się do ciebie, bo słowami podczas rozpraw przekonałeś mnie do swojej mądrości. Nie możemy pozwolić, żeby Gobel lał do uszu Francuzów opowieści o cnocie i powściągliwości, kiedy sam ma na sumieniu takie występki.
+$CUT_21_DISC_TINVILLE_011_TINVILLE_DOUB
+Co mnie obchodzi czyjś bachor? Kraj płonie przez rebelię w Wandei, a ja mam się zajmować czymś takim? Nieślubne dziecko w Paryżu – a to nowość…
+$CUT_21_DISC_TINVILLE_012_TINVILLE_IRRI
+Jeśli Gobel czymś ci podpadł, to twoja sprawa. Ja nie widzę powodu, by ruszać być może najbardziej wpływową postać w tym mieście. Właśnie ze względu na rachunek zysków i strat.
+
+$CUT_21_DISC_TINVILLE_013_JUDGE_AGGR
+Widziałeś, co się dzieje na ulicach. Ta zła krew musi gdzieś znaleźć ujście, a ty będziesz czekał, bo nie kalkuluje ci się wysiłek? A wbicie głowy na pikę przez motłoch wyceniasz jako zysk czy stratę? 
+$CUT_21_DISC_TINVILLE_014_JUDGE_MANI
+Gobel nie jest głupi, dobrze czyta nastroje. Wie, że teraz bezpiecznie jest wyraźnie ustawić się po stronie sprawiedliwych. A to wymaga zepchnięcia kogoś na stronę tych złych. Masz pewność, że nie padnie na ciebie?
+$CUT_21_DISC_TINVILLE_015_JUDGE_JOKE
+Najwidoczniej jesteś najtwardszym mężczyzną w Paryżu. Nie rusza cię tłum, wśród którego wróciła moda na obcinanie głów ważniakom. Wystarczy, że Gobel zawoła z ambony, że Tinville zamiast skazywać przestępców, hula za państwowe pieniądze w burdelu, i pach… głowa spadła.
+$CUT_21_DISC_TINVILLE_016_JUDGE_HUMI
+Wierzę w twój rozsądek. Spójrz: Gobel włada duszami tysięcy paryżan, którzy szukają kogoś, kto odpowie za rebelię w Wandei i na południu. Musi wyklarować się złoczyńca, a ty jesteś zbyt rozsądny, by oddać ten wybór w ręce losu.
+$CUT_21_DISC_TINVILLE_017_TINVILLE_SATI
+Masz dar przekonywania. Słucham dalej.
+$CUT_21_DISC_TINVILLE_018_TINVILLE_INTR
+W tym, co mówisz, jest trochę sensu. Ludzie faktycznie są teraz przepełnieni negatywnymi myślami.
+$CUT_21_DISC_TINVILLE_019_TINVILLE_DOUB
+Twoja troska o moją karierę i życie jest ujmująca. Ale wątpię, żeby zagrażała mi którakolwiek z wymienionych przez ciebie rzeczy. Służę dobrze Francji i ona to wie.
+$CUT_21_DISC_TINVILLE_020_TINVILLE_IRRI
+Gdybym cię nie znał, tobym powiedział, że przemawia przez ciebie szlachetność. Niestety, znam cię wystarczająco dobrze, żeby wiedzieć, że chodzi ci o coś więcej.
+
+$CUT_21_DISC_TINVILLE_021_JUDGE_AGGR
+Zależy ci na karierze, nie zaprzeczaj. Nikt nie idzie w górę w tym mieście bez wiedzy i aprobaty arcybiskupa. Będziesz całował buty osoby, która oportunizmem przerasta nawet ciebie!
+$CUT_21_DISC_TINVILLE_022_JUDGE_MANI
+Jeśli liczysz na szybki awans, to możesz o tym zapomnieć. Doszedłeś do poziomu, powyżej którego o twoim rozwoju będą decydować tacy jak on. Jemu będziesz wyświadczał przysługi, których cennik jest wyższy niż mój. Zamiast tego mógłbyś pokazać siłę, zasygnalizować, że sam kujesz swój los.
+$CUT_21_DISC_TINVILLE_023_JUDGE_JOKE
+Najwidoczniej nie przejmujesz się faktem, że ten człowiek będzie decydował o twojej karierze. Nie przejmujesz się tym, że dla miasta jesteś po prostu kolejnym adwokatem, których pełno. A chciałem ci otworzyć drogę do bycia kimś ważnym…
+$CUT_21_DISC_TINVILLE_024_JUDGE_HUMI
+Zasługujesz na coś więcej niż tylko stanowisko prokuratora. Możesz być symbolem sprawiedliwości. Gobel nie pozwoli ci się wybić, jego nie interesuje twój talent, ale giętkość twojego kręgosłupa, kiedy będziesz bił przed nim pokłony. 
+
+$CUT_21_DISC_TINVILLE_025_JUDGE_AGGR
+Gobel to szuja i dziwkarz. Oficjalnym ogłoszeniem śledztwa damy mu szansę zachowania się, jak należy. Jeśli tego nie zrobi – na gilotynę!
+$CUT_21_DISC_TINVILLE_026_JUDGE_MANI
+Każdy powinien mieć szansę odkupienia win, szczególnie chrześcijanin, jakim jest Gobel. Lepiej, żebyśmy to my ujawnili ten wątek, niż żeby zrobił to ktoś, kto wykorzysta go przeciw Francji.
+$CUT_21_DISC_TINVILLE_027_JUDGE_JOKE
+Jeśli Gobel nie ma nic na sumieniu, śledztwo to wykaże, czyż nie? W przeciwnym wypadku dostanie szansę zachowania się, jak należy, i wszyscy będą zadowoleni.
+$CUT_21_DISC_TINVILLE_028_JUDGE_HUMI
+Każdy chrześcijanin powinien otrzymać szansę na odkupienie win. Gobel, jako hierarcha, powinien to zrobić otwarcie, co ukoi dusze mieszkańców Paryża i może uratuje głowy wielu niewinnym. 
+$CUT_21_DISC_TINVILLE_029_TINVILLE_SATI
+Dobrze, dobrze. Nie musisz mnie już dalej przekonywać. Zobaczę co da się zrobić.
+$CUT_21_DISC_TINVILLE_030_TINVILLE_INTR
+Przyznaję, że przemawiają do mnie twoje argumenty. Przyjrzę się temu tematowi.
+$CUT_21_DISC_TINVILLE_031_TINVILLE_DOUB
+Nadal uważam, że nie mówisz mi wszystkiego, a nie ruszę na Gobela pełen wątpliwości. Zbyt daleko zaszedłem, by tak ryzykować.
+$CUT_21_DISC_TINVILLE_032_TINVILLE_IRRI
+Nadal uważam, że nie mówisz mi wszystkiego. Czym tak nadepnął ci na odcisk? Albo nie mów - lepiej za dużo nie wiedzieć.
+
+$CUT_21_DISC_TINVILLE_033_TINVILLE_DOUB_IRRI
+Przyznaj, że nie rozegrałeś tej rozmowy najlepiej. Wiedz jednak, że nie mam serca z kamienia. Zagrajmy. Jeśli mnie pokonasz, poprowadzę oficjalne śledztwo przeciwko Gobelowi. Skoro spryt cię opuścił, to może przynajmniej szczęście ci sprzyja.
+$CUT_21_DISC_TINVILLE_034_TINVILLE_WIN
+Może to i lepiej, że szczęście jest po twojej stronie, skoro chcesz rzucić wyzwanie Gobelowi.
+$CUT_21_DISC_TINVILLE_035_TINVILLE_DEFEAT
+Widzisz, nawet szczęście się od ciebie odwróciło. Pozwolę sobie nie pójść za twoimi namowami. Nie będzie oficjalnego śledztwa.
+
+$CUT_21_DISC_TINVILLE_TOPIC_001
+Jeśli Gobel ma dziecko, to trzeba ujawnić jego hipokryzję.
+$CUT_21_DISC_TINVILLE_TOPIC_002
+W tym czasie lepiej wyraźnie pokazać, kto jest sprawiedliwy…
+$CUT_21_DISC_TINVILLE_TOPIC_003
+To człowiek mający duży posłuch u ludzi.
+$CUT_21_DISC_TINVILLE_TOPIC_004
+Gobel powinien dostać szansę zachowania się właściwie.

@@ -1,0 +1,80 @@
+$DISC_INTR_002_B11_DANTON_001_V1_DANTON
+Perdóneme, pero no puedo evitar notar que tiene sangre bajo las uñas y en los puños.
+$DISC_INTR_002_B11_DANTON_002_V1_JUDGE
+Lamento que mi cita anterior no salió como esperaba.
+$DISC_INTR_002_B11_DANTON_003_V1_DANTON
+¿Así que no vamos a tener una charla amistosa acompañada de té?
+$DISC_INTR_002_B11_DANTON_004_V1_JUDGE
+Eso depende de usted.
+$DISC_INTR_002_B11_DANTON_001_V2_DANTON
+Estoy seguro de que podrá explicar por qué me ha hecho llamar a una hora tan tardía. Especialmente cuando afuera cae un aguacero.
+$DISC_INTR_002_B11_DANTON_004_JUDGE_AGGR
+Sé de tu alianza con Pache. No me provoques más intentando negarlo.
+$DISC_INTR_002_B11_DANTON_005_JUDGE_MANI
+Algunos de mis amigos me han informado que ha formado una alianza secreta con el alcalde de París.
+$DISC_INTR_002_B11_DANTON_006_JUDGE_JOKE
+Quién hubiera imaginado que te meterías en semejante lío. Sé que estás tramando algo con Pache.
+$DISC_INTR_002_B11_DANTON_007_JUDGE_HUMI
+No me malinterprete, pero su alianza secreta con Pache ya no es ningún secreto. No quisiera entorpecer nada, pero he sabido cosas inquietantes sobre él y pensé que deberíamos hablar...
+$DISC_INTR_002_B11_DANTON_008_DANTON_INTR
+¿Y qué piensa hacer con ese conocimiento?
+$DISC_INTR_002_B11_DANTON_009_DANTON_DOUB
+Estás sobrevalorando la importancia de ese conocimiento. ¿Ahora te interesan las alianzas políticas entre diputados?
+$DISC_INTR_002_B11_DANTON_010_DANTON_IRRI
+¿Te imaginas cuántos han intentado engañarme de esta manera? ¿Y qué me importa que conozcas mis alianzas políticas?
+$DISC_INTR_002_B11_DANTON_011_JUDGE_AGGR
+Tengo un testimonio que confirma que Pache es un espía austriaco. Amigo mío, con un ancla así, te hundirás sin remedio.
+$DISC_INTR_002_B11_DANTON_012_JUDGE_MANI
+Tengo un testimonio que afirma que Pache es un espía austriaco. Lo presionaremos para que revele los nombres de sus aliados. Así, él evitará la decapitación, pero sus cómplices no correrán la misma suerte.
+$DISC_INTR_002_B11_DANTON_013_JUDGE_JOKE
+A la guillotina no le importa si cae sobre el cuello de los traidores o de quienes los ayudaron. Resulta que tengo pruebas de la colaboración de Pache con los austriacos, y dado que usted trabaja con él...
+$DISC_INTR_002_B11_DANTON_014_JUDGE_HUMI
+Sería una lástima que todo tu esfuerzo por la Revolución quedara en el olvido por culpa de un escándalo. Y sin duda lo habrá si publico un testimonio escrito que revela que Pache es un espía austríaco. El pueblo exigirá que sus colegas también pierdan la cabeza.
+$DISC_INTR_002_B11_DANTON_015_DANTON_INTR
+Te escucho.
+$DISC_INTR_002_B11_DANTON_016_DANTON_DOUB
+Esto no es nada nuevo. Ya me habían acusado de espionaje.
+$DISC_INTR_002_B11_DANTON_017_DANTON_IRRI
+Esperaba una conversación civilizada, pero solo escucho amenazas e insinuaciones.
+$DISC_INTR_002_B11_DANTON_018_DANTON_AGGR
+¿Dirás algo que no haya escuchado ya de otros chantajistas?
+$DISC_INTR_002_B11_DANTON_019_JUDGE_AGGR
+También existe la sospecha, casi certeza, de que Pache organizó el atentado contra mi vida. Pagará por su crimen, pero a sus aliados se les dará una elección, y si no toman el camino de la redención, morirán.
+$DISC_INTR_002_B11_DANTON_020_JUDGE_MANI
+También podría estar implicado en el intento de asesinato de un juez del Tribunal. Al fin y al cabo, ha estado colaborando con Pache, quien financió el atentado…
+$DISC_INTR_002_B11_DANTON_021_JUDGE_JOKE
+¿De verdad era necesario aliarte con el hombre que intentó asesinarme? ¿Crees que a alguien le importará si realmente estuviste involucrado?
+$DISC_INTR_002_B11_DANTON_022_JUDGE_HUMI
+Pache organizó un atentado contra mi vida. Él recibirá su castigo, pero tú no tienes por qué compartir su destino. Sé que no estuviste involucrado, pero para el pueblo serás cómplice de un asesino, y tu legado será destruido de inmediato.
+$DISC_INTR_002_B11_DANTON_023_JUDGE_AGGR
+Ha llegado la hora de castigar a Pache. Déjalo y únete a mí, o comparte su destino. Elige, y da gracias de que siquiera te ofrezco esa oportunidad.
+$DISC_INTR_002_B11_DANTON_024_JUDGE_MANI
+¿De verdad quieres quedarte al lado de un hombre que tiene la cuchilla de la guillotina sobre su cabeza, en vez de aliarte con quien decide sobre quién caerá? Tu amistad con Pache es el camino más corto para compartir su destino. ¿Qué será mejor para tus intereses?
+$DISC_INTR_002_B11_DANTON_025_JUDGE_JOKE
+Cuando llegue a Pache, la cuchilla caerá. Te ofrezco una alianza con la persona responsable de la guillotina: yo. La política es el arte de apartarse de aquellos aliados que te arrastran hacia abajo.
+$DISC_INTR_002_B11_DANTON_026_JUDGE_HUMI
+A Pache no se le puede salvar, pero a ti sí. No permitas que te decapiten por su culpa. Una alianza con quien controla la guillotina reduciría considerablemente el peligro que enfrentas.
+$DISC_INTR_002_B11_DANTON_027_DANTON_INTR
+Tiene razón, mi relación con Pache es todo un peso. Haré con gusto lo que me pida.
+$DISC_INTR_002_B11_DANTON_028_DANTON_DOUB
+Parece que olvida que mi nombre es Danton y que tengo muchos amigos en esta ciudad… Por otro lado, la situación ha tomado un giro bastante desafortunado. Bien, veamos adónde nos lleva esta colaboración.
+$DISC_INTR_002_B11_DANTON_029_DANTON_IRRI
+¿Me invitas aquí para amenazarme? No cuentes con ninguna colaboración entre nosotros. Adiós.
+$DISC_INTR_002_B11_DANTON_030_DANTON_AGGR
+¡Juez podrido! ¿Pretendes hacerme tu perro? ¡Mi nombre es Danton, y soy yo quien lleva a la gente con correa!
+$DISC_INTR_002_B11_DANTON_TOPIC_01
+Sé de tu alianza con Pache.
+$DISC_INTR_002_B11_DANTON_TOPIC_02
+Pache está colaborando con un estado enemigo.
+$DISC_INTR_002_B11_DANTON_TOPIC_03
+Pache podría estar implicado en el intento de asesinato de un juez.
+$DISC_INTR_002_B11_DANTON_TOPIC_04
+El juez del Tribunal es una apuesta más segura.
+$DISC_INTR_002_B11_DANTON_001_SUCCESS_JUDGE
+Necesito saber exactamente qué tramaban tú y Pache.
+$DISC_INTR_002_B11_DANTON_002_SUCCESS_DANTON
+Era en relación con el Puente de la Revolución.
+$DISC_INTR_002_B11_DANTON_003_SUCCESS_JUDGE
+¿El puente que los constructores no logran terminar?
+$DISC_INTR_002_B11_DANTON_004_SUCCESS_DANTON
+No se ha terminado porque el alcalde y yo hemos estado obstaculizando el proceso.

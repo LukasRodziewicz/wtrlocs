@@ -1,0 +1,8 @@
+$EVE_031_TITLE
+¡Es nuestro!
+$EVE_031_MAIN
+No hay experiencia más humillante para el París revolucionario que la fuga del ciudadano Capeto. Se escapó, se deslizó entre sus manos, y ahora la Revolución parece débil y frágil. El pueblo se asemeja a un niño al que cualquiera puede engañar. Sin embargo, la República recuperó pronto la compostura gracias a un cartero y sus hombres, que lograron atrapar a los fugitivos en su huida hacia Montmédy. Ciudadanos comunes provocaron la caída de un monarca. Tú también tendrás la oportunidad de servir a la República, pues mañana el ciudadano Capeto comparecerá ante el Tribunal. Tú decidirás cómo será recordado: ¿como un traidor y un cobarde, o como un estadista desafortunado? Si la decisión quedara en manos de los carceleros, solo habría un desenlace...
+$EVE_031_OPTION_A
+Permitir que los guardias maltraten al ciudadano Capeto en prisión
+$EVE_031_OPTION_B
+Déjalo en paz hasta el juicio

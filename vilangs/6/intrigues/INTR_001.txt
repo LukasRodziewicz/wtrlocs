@@ -1,0 +1,76 @@
+$INTRIGUE_TITLE_001
+Jean-Marie Roland
+$INTRIGUE_DESC_001
+Los documentos hallados en el gabinete de hierro de Capeto despertaron sospechas sobre Roland. El ministro detesta al Tribunal por haberlo ridiculizado abiertamente, y no te lo perdonará. Su astuta esposa guarda aún más rencor.
+$INTR_BLOCK_001_TITLE
+Convencer a un testigo
+$INTR_BLOCK_001_DESC
+Hasta ahora solo hay rumores de que Roland destruyó los documentos. Si logramos que alguien de su círculo social lo confirme, ¡tendremos una poderosa herramienta en nuestras manos! Tenemos un posible candidato: Philippe Côté estuvo entre quienes abrieron el gabinete de hierro de Capeto.
+$INTR_BLOCK_002_TITLE
+Difundir rumores
+$INTR_BLOCK_002_DESC
+Cuando Roland reconoció el contenido del gabinete de hierro, supuestamente pidió un momento a solas y lo dejaron con las pruebas. Dado que el ciudadano Capeto está acusado de conspiración y faltan pruebas, podríamos intentar acusar al ministro de haberlas destruido. Que Coté confirme estos detalles sensacionales sin duda nos favorecería…
+$INTR_BLOCK_003_TITLE
+Ganar apoyo
+$INTR_BLOCK_003_DESC
+No podemos demorarnos ni permitir que el enemigo recupere fuerzas. Debemos aprovechar todos los rumores y acusaciones, y presionar a los diputados de la Convención para que ataquen al ministro durante la sesión.
+$INTR_BLOCK_004_TITLE
+Hanriot está maltratando a su familia
+$INTR_BLOCK_004_DESC
+Para protegerse de posibles ataques por parte de la Convención, Roland reveló que François Hanriot, quien aspira a ser Comandante en Jefe de la Guardia Nacional, está abusando de su familia. Estas acusaciones aún no han sido confirmadas. Tal vez Roland intente aprovechar este rumor para sabotear la candidatura de Hanriot.
+$INTR_BLOCK_005_TITLE
+El juez está abusando de su familia
+$INTR_BLOCK_005_DESC
+¿Puedes creerlo? ¡Alguien está difundiendo mentiras diciendo que maltratas a tu esposa y a tus hijos, y que tienes a tu padre encerrado en un cuarto oscuro donde lo golpeas con un cinturón de cuero! Al parecer, los rumores sobre tu alcoholismo no bastaban para desprestigiarte, así que el autor decidió ir aún más lejos. Sabes perfectamente quién está detrás de esto. Pon fin a esos chismes cuanto antes, antes de que se conviertan en algo mucho peor.
+$INTR_BLOCK_006_TITLE
+Desenmascarando a la esposa del ministro
+$INTR_BLOCK_006_DESC
+Madame Roland es la verdadera cabeza de la familia. Es increíblemente ambiciosa y dirige con destreza la carrera de su esposo, impulsándolo hacia cargos cada vez más prestigiosos. Dudo que el ministro haya tomado una sola decisión importante sin consultarla antes. El llamado salón político que organizaba resultó ser, en realidad, un burdel exclusivo disfrazado. Debemos atacar. Cortarles el acceso a sus ingresos, a su información.
+$INTR_BLOCK_007_TITLE
+Contraataque
+$INTR_BLOCK_007_DESC
+El ciudadano Robespierre y sus espías informan que los girondinos supuestamente preparan un ataque contra los jacobinos, a quienes planean arrestar y ejecutar en masa. Si fue Roland quien se alió con los aristócratas, todo empieza a encajar. Roland sabe que sobreviviste. Puedes suponer que, tras los sucesos en la Convención, seguirá otro intento de asesinato. Robespierre propone que ataquemos primero. Si arrestamos a los girondinos más destacados, ¡le cortaremos de un solo golpe varias cabezas a la hidra!
+$INTR_BLOCK_008_TITLE
+Arresto
+$INTR_BLOCK_008_DESC
+Jean-Marie Roland te ha atacado abiertamente. Tienes pruebas sólidas en su contra, así que sentenciarlo no debería suponer ningún problema. Su esposa, en cambio, podría tener tiempo suficiente para huir, lo que podría acarrear consecuencias indeseadas.
+$INTR_BLOCK_009_DESC
+El atentado fue llevado a cabo por personas contratadas por Jeanne Marie Roland. Ella estuvo detrás de todo desde el principio. Si la arrestas, eliminarás la raíz del problema. Sin embargo, su esposo, investido de poder por la Convención, se te escapará de las manos.
+$INDICTMENT_TITLE
+ACUSACIÓN
+$INDICTMENT_INTR001_DESC02
+Antiboul, Boilleau el joven, Boyer-Fonfrède, Brissot, Carra, Duchastel, Ducos el joven, Dufriche de Valazé, Duprat, Fauchet, Gardien, Gensonné, Lacaze, Lasource, Lauze-Deperret, Lehardi, Lesterpt-Beauvais, Minvielle el viejo, Sillery, Vergniaud, Viger
+$INTR_BLOCK_002_PATH_STR
+Raphaël Clovis, tu leal alguacil del tribunal, tendrá que hacer entrar en razón a unos cuantos para que comprendan cuán grande es la amenaza que representa Roland…
+$INTR_BLOCK_002_PATH_DIP
+Unas cuantas palabras al pasar del respetado Jacques-Louis David deberían bastar para desatar una avalancha…
+$INTR_BLOCK_004_PATH_STR
+Lo mejor sería encontrar a quienes difunden esos rumores y deshacerse de ellos.
+$INTR_BLOCK_004_PATH_DIP
+Hanriot debía aparecer junto a su familia para demostrar su felicidad.
+$INTR_BLOCK_005_PATH_STR
+La familia del Juez del Tribunal es intocable. Basta con romperle los huesos a un chismoso para que los demás aprendan la lección de inmediato.
+$INTR_BLOCK_005_PATH_DIP
+Tu esposa susurrará a las esposas y amantes de varios sans-culottes influyentes, contándoles lo perfecta que es en verdad tu familia.
+$INTR_BLOCK_006_PATH_STR
+Quiero que los guardias de Hanriot registren su local de arriba abajo. Seguro que encuentran algo para clausurar ese burdel.
+$INTR_BLOCK_006_PATH_DIP
+Las esposas de los diputados de la Convención descubrirán la verdadera naturaleza de ese “salón político” al que sus maridos suelen acudir. Entonces le obligarán a asegurarse de que el burdel de Roland cierre sus puertas para siempre.
+$INTR_BLOCK_002_PATH_STR_FAILURE
+La monarquía ha vuelto tercos a los franceses comunes. Es realmente difícil hacerles entrar en razón…
+$INTR_BLOCK_002_PATH_DIP_FAILURE
+La gente recibe las palabras de David con cautela. Tus mensajeros aún no gozan de gran reputación.
+$INTR_BLOCK_004_PATH_STR_FAILURE
+Tu agente no logró descubrir el origen de los rumores. Sin duda, no era el indicado para esa tarea.
+$INTR_BLOCK_004_PATH_DIP_FAILURE
+La gente percibió que todo era una farsa y se burló de la gran revelación.
+$INTR_BLOCK_005_PATH_STR_FAILURE
+A pesar de los huesos rotos, el rumor ya cobra vida propia. Ahora tendrías que apalear a medio París para detenerlo.
+$INTR_BLOCK_005_PATH_DIP_FAILURE
+Las mujeres estaban más concentradas en remover su té que en escuchar las palabras de Mathilde…
+$INTR_BLOCK_006_PATH_STR_FAILURE
+Alguien debió de advertir a Madame Roland sobre el peligro de ser descubierta. Al parecer, tienen contactos dentro de la Guardia.
+$INTR_BLOCK_006_PATH_DIP_FAILURE
+Solo unas pocas mujeres se han dejado convencer. Las demás no harán nada, demasiado temerosas de perder la vida cómoda que llevan junto a sus maridos.
+$INTR_SLOT_07_DESC
+Decide quién será llevado ante la justicia.

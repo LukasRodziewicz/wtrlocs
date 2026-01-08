@@ -1,0 +1,18 @@
+$DIAL_H_03_02_03_001_JUDGE
+Neredeler? Oğlum nerede?!
+$DIAL_H_03_02_03_002_GRANDFATHER
+Bilmiyorum, Mathilde hiçbir şey söylemedi. Birkaç damla gözyaşı vardı, ama çoğunlukla sessizlik hâkimdi. Zaten bana bir şey anlatmayacağını bildiğim için ayrıntı sormaya gerek duymadım.
+$DIAL_H_03_02_03_003_JUDGE
+Onların evden çıkmasına izin mi verdin?
+$DIAL_H_03_02_03_004_GRANDFATHER
+Neden onları durdurmaya çalışayım ki? Yoksa benim yüzümden mi gittiler?
+$DIAL_H_03_02_03_005_JUDGE
+Herkes gitti…
+$DIAL_H_03_02_03_006_GRANDFATHER
+Hâlâ buradayım. Sen hâlâ benim oğlumsun.
+$DIAL_H_03_02_03_007_JUDGE
+Senin olmamı istediğin kişi değilim.
+$DIAL_H_03_02_03_008_GRANDFATHER
+Hayır, ama sana inanıyorum. Ve sonuna kadar da inanacağım.
+$DIAL_H_03_02_03_010_JUDGE
+Sonu geldi. En azından benim için.

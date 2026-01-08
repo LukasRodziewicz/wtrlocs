@@ -1,0 +1,12 @@
+$SEAL_CREATOR_BASE
+Base
+$SEAL_CREATOR_EMBLEM
+Emblème
+$SEAL_CREATOR_TOPDETAIL
+Décoration du haut
+$SEAL_CREATOR_BOTTOMDETAIL
+Décoration du bas
+$SEAL_CREATOR_HEADERTEXT
+Créez votre sceau
+$SEAL_CREATOR_UNDERSCORETEXT
+Signez pour confirmer

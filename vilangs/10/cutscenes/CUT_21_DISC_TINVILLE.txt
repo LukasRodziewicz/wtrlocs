@@ -1,0 +1,78 @@
+$CUT_21_DISC_TINVILLE_001_JUDGE
+Biraz geciktiğim için lütfen beni affedin.
+$CUT_21_DISC_TINVILLE_002_TINVILLE
+Merakımı iyice cezbettiğiniz, sayın yargıç, çünkü bu davete nasıl layık olduğumu kestiremiyorum.
+$CUT_21_DISC_TINVILLE_003_JUDGE
+Başpiskopos Gobel hakkında çıkan söylentileri duymuş olmalısınız...
+$CUT_21_DISC_TINVILLE_004_TINVILLE
+Hadi ama Alexis, beni aptal yerine koyma. İkimiz de biliyoruz ki ihbarı yazan sensin…
+$CUT_21_DISC_TINVILLE_005_JUDGE
+Bundan nasıl bu kadar emin olabiliyorsun?
+$CUT_21_DISC_TINVILLE_006_TINVILLE
+Aptal değilim. Roland ve Pache’i ortadan kaldırdınız, şimdi de Gobel’in peşindesiniz. Nedenini bilmiyor olabilirim, ama umurumda değil…
+$CUT_21_DISC_TINVILLE_007_JUDGE_AGGR
+Kârınız artmaya devam ettiği sürece. Ancak adaleti önemseyen insanlar da var.
+$CUT_21_DISC_TINVILLE_008_JUDGE_MANI
+Evet, biliyorum. Siz her durumda kazancınızı garantiye alırsınız. İnanın bana, bu oyunun getirileri hayal gücümüzün ötesine geçebilir.
+$CUT_21_DISC_TINVILLE_009_JUDGE_JOKE
+Evet, en çok neyi önemsediğinizi biliyoruz. Sizi yargılamıyorum, Gobel de farklı değil. Asıl soru şu: Bu bencillik yüzünden giyotine ilk kim gidecek?
+$CUT_21_DISC_TINVILLE_010_JUDGE_HUMI
+Bu meseleyle size başvuruyorum, çünkü duruşmalarda bana bilgelik sahibi olduğunuzu gösterdiniz. Gobel’in erdem ve itidal masallarıyla Fransız halkını kandırmasına izin veremeyiz; böylesi suçların faili iken buna göz yumamayız.
+$CUT_21_DISC_TINVILLE_011_TINVILLE_DOUB
+Kimin piçiyle ilgilenecek vaktim var? Vendée’deki isyan yüzünden ülke alevler içinde, ben ise böyle bir meseleyle mi uğraşacağım? Paris’te gayrimeşru bir çocuk—gerçekten de büyük bir yenilik…
+$CUT_21_DISC_TINVILLE_012_TINVILLE_IRRI
+Eğer Gobel sizi rahatsız ettiyse, bu sizin meseleniz. Bu şehrin belki de en etkili ismini karşıma almak için hiçbir sebep görmüyorum. Kâr ve zarar dengesi tam da bu yüzden önemli.
+$CUT_21_DISC_TINVILLE_013_JUDGE_AGGR
+Sokakta neler olup bittiğini gördünüz. Bu biriken nefretin bir çıkış yolu bulması şart. Sırf zahmete değmeyeceğini düşündüğünüz için bekleyecek misiniz? Peki ya kalabalık başınızı bir mızrağa geçirirse, bunu kâr mı, zarar mı sayacaksınız?
+$CUT_21_DISC_TINVILLE_014_JUDGE_MANI
+Gobel aptal değil, havadaki değişimi doğru okuyor. Şimdi doğru tarafta yer almanın güvenli olduğunu biliyor ve bunun için bir başkasını karşı tarafa itmesi gerek. Sizi seçmeyeceğinden emin misiniz?
+$CUT_21_DISC_TINVILLE_015_JUDGE_JOKE
+Paris’in en gözü pek adamı olmalısınız. Halkın yine ileri gelenlerin kafasını uçurmayı moda haline getirmesi sizi hiç mi hiç sarsmıyor. Gobel kürsüden, suçluları yargılamak yerine kamu parasını genelevde harcadığınızı haykırsa, daha ne olduğunu anlamadan başınız gövdenizden ayrılır.
+$CUT_21_DISC_TINVILLE_016_JUDGE_HUMI
+Senin sağduyuna güveniyorum. Bak, Gobel binlerce Parislinin ruhunu etkisi altına aldı; hepsi Vendée’deki ve güneydeki isyanların hesabını soracak birini arıyor. Suçlu bulmaya kararlılar ve senin kadar aklı başında biri, böyle bir seçimi şansa bırakmaz.
+$CUT_21_DISC_TINVILLE_017_TINVILLE_SATI
+İkna kabiliyetiniz gerçekten etkileyici. Sizi dinliyorum.
+$CUT_21_DISC_TINVILLE_018_TINVILLE_INTR
+Sözlerinizde bir mantık var. Bugünlerde insanlar gerçekten de olumsuz düşüncelerle dolu.
+$CUT_21_DISC_TINVILLE_019_TINVILLE_DOUB
+Kariyerim ve hayatım için gösterdiğiniz endişe gerçekten dokunaklı. Yine de, bahsettiğiniz tehditler konusunda kaygılanmam için bir sebep görmüyorum. Fransa’ya iyi hizmet ediyorum ve Fransa bunun farkında.
+$CUT_21_DISC_TINVILLE_020_TINVILLE_IRRI
+Sizi tanımasam, sözlerinizde asil bir adamın konuştuğunu sanırdım. Ne yazık ki sizi yeterince iyi tanıyorum ve söylediklerinizin ardında başka niyetler olduğunu biliyorum.
+$CUT_21_DISC_TINVILLE_021_JUDGE_AGGR
+Kariyerini önemsediğini inkâr etme. Bu şehirde kimse başpiskoposun bilgisi ve onayı olmadan yükselemez. Sen bile, senden daha fırsatçı bir adamın yüzüğünü öpmek zorunda kalacaksın!
+$CUT_21_DISC_TINVILLE_022_JUDGE_MANI
+Hızlı bir terfi umuyorsan, bunu unutabilirsin. Artık ilerlemen senin gibi adamlara bağlı olacak. Ona iyilikler yapacaksın, o ise benden daha yüksek bedeller isteyecek. Bunun yerine gücünü gösterebilir, kendi kaderini kendin belirleyeceğini hissettirebilirsin.
+$CUT_21_DISC_TINVILLE_023_JUDGE_JOKE
+Artık sıradan bir savcıdan fazlası olduğunuzu gösterin. Görüyorum ki bu adamın kariyeriniz üzerinde söz sahibi olacağı sizi hiç ilgilendirmiyor ve şehir için siz de diğer avukatlardan farksızsınız. Oysa ben size önemli biri olma fırsatı vermek istemiştim…
+$CUT_21_DISC_TINVILLE_024_JUDGE_HUMI
+Bir savcıdan çok daha yüksek bir mevkii hak ediyorsunuz – adaletin simgesi olabilirsiniz. Ama Gobel yükselmenize izin vermez. Yetenekleriniz umurunda bile değil. Onu ilgilendiren tek şey, önünde eğilirken omurganızı ne kadar bükebileceğiniz.
+$CUT_21_DISC_TINVILLE_025_JUDGE_AGGR
+Gobel tam bir ahlaksız. Soruşturmayı resmen başlatırsak, ona bir kez olsun doğru olanı yapma fırsatı vermiş oluruz; yapmazsa da – kafası gider!
+$CUT_21_DISC_TINVILLE_026_JUDGE_MANI
+Herkese kendini affettirme fırsatı sunulmalı, özellikle de Gobel gibi bir Katoliğe. Bunu, bir başkası Fransa’ya karşı kullanmaya kalkışmadan önce ortaya çıkarmalıyız.
+$CUT_21_DISC_TINVILLE_027_JUDGE_JOKE
+Eğer Gobel masumsa, soruşturma bunu ortaya çıkaracaktır, değil mi? Değilse, doğru olanı yapma fırsatımız olacak ve herkes memnun kalacak.
+$CUT_21_DISC_TINVILLE_028_JUDGE_HUMI
+Her Katolik kendini affettirme fırsatını hak eder. Başpiskopos olarak Gobel, bunu açıkça yapmalı ki acı çeken Parislilerin ruhlarına teselli versin ve belki de birçok masumun hayatını kurtarsın.
+$CUT_21_DISC_TINVILLE_029_TINVILLE_SATI
+Evet, evet, ikna oldum zaten. Ne yapılabilir bakacağım.
+$CUT_21_DISC_TINVILLE_030_TINVILLE_INTR
+Şunu söylemeliyim ki, argümanlarınız oldukça ikna edici. Bu konuyu inceleyeceğim.
+$CUT_21_DISC_TINVILLE_031_TINVILLE_DOUB
+Bana bir şeyleri söylemiyorsun ve tamamen ikna olmadıkça Gobel’i araştırmam. Kaybedecek çok şeyim var.
+$CUT_21_DISC_TINVILLE_032_TINVILLE_IRRI
+Benden bir şeyler saklıyorsunuz. Onu bu kadar öfkelendiren ne yaptı? Aslında, ayrıntıları anlatmayın. Böyle zamanlarda cehalet en iyisi.
+$CUT_21_DISC_TINVILLE_033_TINVILLE_DOUB_IRRI
+Bu işi pek de iyi idare etmediğinizin farkında olun. Yine de, taş kalpli olduğumu düşünmenizi istemem; o halde, oynayalım! Kazanırsanız, Gobel hakkında resmi bir soruşturma başlatacağım. Kurnazlığı unutmuş olabilirsiniz, ama belki şansınız hâlâ yanınızdadır.
+$CUT_21_DISC_TINVILLE_034_TINVILLE_WIN
+Belki de şansın sizden yana olması iyi bir şeydir. Sonuçta, Gobel’e karşı çıkmak istiyorsunuz.
+$CUT_21_DISC_TINVILLE_035_TINVILLE_DEFEAT
+Görünüşe göre talih de sizden yana değil, fakat kışkırtmanızı görmezden gelme cesaretini göstereceğim. Resmî bir soruşturma açılmayacak.
+$CUT_21_DISC_TINVILLE_TOPIC_001
+Eğer Gobel’in bir çocuğu varsa, ikiyüzlülüğünü ortaya çıkarmalıyız.
+$CUT_21_DISC_TINVILLE_TOPIC_002
+Böylesi zamanlarda, kimin haklı kimin haksız olduğunu göstermek için çaba göstermeliyiz…
+$CUT_21_DISC_TINVILLE_TOPIC_003
+Onun büyük bir destekçi kitlesi var.
+$CUT_21_DISC_TINVILLE_TOPIC_004
+Gobel’e doğru olanı yapması için bir fırsat tanınmalı.

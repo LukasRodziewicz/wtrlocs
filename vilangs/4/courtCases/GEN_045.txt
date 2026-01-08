@@ -1,0 +1,166 @@
+$GEN_045_DOC_01_HEADER
+Zusammengestellt von: Charles Etienne
+$GEN_045_DOC_01_00
+	Eine Kutsche des Marquis von Leiningen stürzte von der Pont de la Tournelle in die Seine. Zum Glück saßen keine Passagiere hinten, und der Kutscher konnte abspringen, als der Wagen noch auf der Brücke war. Nur <a name="2" class="hidden">das Pferd</a> kam ums Leben und ertrank in der Seine.
+$GEN_045_DOC_01_01
+	Der Marquis forderte von seinem Kutscher Lucien Beaubois eine Entschädigung für Kutsche und Pferd. Natürlich verfügte Beaubois nicht über die geforderten <a name="3" class="hidden">Tausende Francs</a> und konnte seine Schuld nicht begleichen. Daraufhin reichte der Marquis Klage gegen ihn ein und verlangte, dass der Kutscher ins Gefängnis gesteckt wird.
+$GEN_045_DOC_01_02
+	Bürger Beaubois behauptet, der Vorfall sei eine Verkettung unglücklicher Umstände gewesen. Zunächst, so sein Zitat: „Plötzlich war da ein weiterer Karren auf der Brücke, der wie vom Teufel gejagt auf mich zuraste.“ Der Angeklagte zog heftig an den Zügeln, woraufhin das Pferd scheute, zur Seite ausbrach und direkt auf eine Menschenmenge zulief. Beaubois erklärte, er habe die Zügel noch weiter herumgerissen, sodass der Wagen <a name="5" class="hidden">gegen das Geländer prallte</a> und ins Wasser stürzte.
+$GEN_045_DOC_01_03
+	Beaubois hat wiederholt betont, dass er sich beim Sprung vom Wagen <a name="6" class="hidden">das Handgelenk gebrochen</a> habe.
+$GEN_045_OnStart_00
+Bitte stellen Sie sich vor.
+$GEN_045_OnStart_01
+Lucien Beaubois. Ich bin Kutscher.
+$GEN_045_OnStart_02
+Wie lange machen Sie das schon?
+$GEN_045_OnStart_03
+Nicht lange. Früher habe ich mich um die Pferde gekümmert, und erst vor gut einem Jahr, an meinem neunzehnten Geburtstag, habe ich angefangen, den Wagen zu lenken. Meistens bin ich aber nur auf dem Gut herumgefahren, nicht in der Stadt.
+$GEN_045_OnStart_04
+Marquis Leiningen fordert Entschädigung für den Wagen und das Pferd.
+$GEN_045_OnStart_05
+Natürlich hat er das. Jetzt besitzt er nur noch vier Kutschen und dreißig Pferde!
+$GEN_045_OnStart_06
+Ich würde es ihm gern zurückzahlen, aber selbst mit einer gesunden Hand könnte ich in Jahren nicht so viel Geld verdienen.
+$GEN_045_OnStart_07
+Daran hätten Sie auf der Brücke denken sollen.
+$GEN_045_OnGuilty_00
+Ich halte die Forderungen des Marquis Leiningen für gerechtfertigt. Der Angeklagte muss mit seinem Kopf bezahlen.
+$GEN_045_OnGuilty_01
+In der Tat, Menschen müssen für ihre Fehler bezahlen.
+$GEN_045_OnGuilty_02
+Ob mit oder ohne Revolution – die Gerichte stecken immer noch in der Tasche des Bürgertums.
+$GEN_045_OnNotGuilty_00
+Der Unfall auf der Brücke war lediglich ein unglücklicher Zufall. Bürger Beaubois, Sie sind frei.
+$GEN_045_OnNotGuilty_01
+Der Richter hat dem eingebildeten Aristokraten gezeigt, wo sein Platz ist!
+$GEN_045_OnNotGuilty_02
+Der Arme wird wohl seine Silberlöffel verkaufen müssen, um sich einen neuen Wagen leisten zu können.
+$GEN_045_OnNotGuilty_03
+Hast du ihm wirklich geglaubt? Früher oder später sehen wir ihn hier wieder – nur wird er dann jemanden überfahren haben.
+$GEN_045_05x01_00_QTitle
+Wie schnell muss man fahren, um das Brückengeländer zu durchbrechen?
+$GEN_045_05x01_00_00
+Wie schnell muss man fahren, um das Brückengeländer zu durchbrechen?
+$GEN_045_05x01_00_01
+Ich habe sie nicht durchbrochen. Das Geländer dort ist wirklich niedrig, Monsieur, und Alcasse ist einfach darüber gesprungen. Kein Wunder, er hatte große Angst. Und ohne Gepäck oder Passagiere war der Kabriolett leicht und flog ebenfalls darüber hinweg.
+$GEN_045_05x01_00_02
+Warum haben Sie nicht versucht, die Kutsche aufzuhalten?
+$GEN_045_05x01_00_03
+Jetzt, wo du es sagst, hätte ich es vielleicht versuchen sollen, auch wenn ich bezweifle, dass es etwas geändert hätte.
+$GEN_045_05x01_00_04
+Er muss gerast sein wie der Wind!
+$GEN_045_05x01_00_05
+Wurde die Kutsche beschädigt?
+$GEN_045_05x01_00_06
+Ich weiß es nicht, Monsieur. Ich habe nur gehört, dass sie sie doch herausgezogen haben. Alcasse auch, aber er war schon tot – er ist gleich ertrunken.
+$GEN_045_05x01_00_07
+Wurde einer der Passanten verletzt?
+$GEN_045_05x01_00_08
+Nein, Gott sei Dank.
+$GEN_045_04x02_01_QTitle
+Warum haben Sie die Zügel so abrupt angezogen?
+$GEN_045_04x02_01_00
+Warum haben Sie die Zügel so abrupt angezogen?
+$GEN_045_04x02_01_01
+Ich sah eine weitere Kutsche aus der Gegenrichtung kommen und geriet in Panik.
+$GEN_045_04x02_01_02
+Sie sagten, dass sich Menschen auf der Brücke befanden. Wie schnell fuhr die andere Kutsche?
+$GEN_045_04x02_01_03
+Ich denke, ziemlich schnell. Der andere Kutscher hat sein Pferd ordentlich angetrieben… Ja, es muss schnell gewesen sein, denn Alcasse hat sich sehr erschreckt.
+$GEN_045_04x02_01_04
+Hätten Sie zusammenstoßen können?
+$GEN_045_04x02_01_05
+Genau das habe ich mir gedacht, deshalb habe ich die Zügel angezogen, und dann ist Alcasse durchgedreht.
+$GEN_045_04x02_01_06
+Es scheint, als hätte das Pferd Ihnen nicht vertraut. Wer hat Sie reiten lassen?
+$GEN_045_04x02_01_07
+Nun, einer der Kutscher wurde krank, der andere fuhr die Marquise… Also blieb es an mir hängen.
+$GEN_045_04x02_01_08
+Kaum lassen sie den Jungen raus, fängt er sofort an, herumzurasen.
+$GEN_045_04x02_01_09
+Wie lange kannten Sie dieses Pferd schon?
+$GEN_045_04x02_01_10
+Ich kannte Alcasse schon lange, aber es war das erste Mal, dass ich ihn mit in die Stadt nahm. Und sieh nur, was passiert ist…
+$GEN_045_06x01_02_QTitle
+Haben Sie sich das Handgelenk gebrochen, als Sie aus der Kutsche gesprungen sind?
+$GEN_045_06x01_02_00
+Haben Sie sich das Handgelenk gebrochen, als Sie aus der Kutsche gesprungen sind?
+$GEN_045_06x01_02_01
+Ja, Monsieur, sehen Sie nur, wie geschwollen es ist. Es tut ständig weh, ich kann kaum schlafen.
+$GEN_045_06x01_02_02
+Hat sich der Marquis nach Ihrem Befinden erkundigt?
+$GEN_045_06x01_02_03
+Er hat kein Wort mit mir gewechselt. Ich meine… ich habe ihn überhaupt nicht gesehen. Sein Diener kam zu mir, der sich um seine Geldangelegenheiten kümmert, und sagte mir, ich müsse dem Marquis das Geld zurückzahlen.
+$GEN_045_06x01_02_04
+Was Sie nicht getan haben?
+$GEN_045_06x01_02_05
+Nein, Monsieur. Beim nächsten Mal kam er mit der Garde.
+$GEN_045_06x01_02_06
+Können Sie eine Kutsche mit gebrochenem Handgelenk lenken?
+$GEN_045_06x01_02_07
+Was ist das denn für eine Frage?!
+$GEN_045_06x01_02_08
+Monsieur, ich könnte nicht einmal Brot schneiden, wenn mir meine alte Mutter nicht helfen würde.
+$GEN_045_06x01_02_09
+Sie könnten etwas verkaufen, um Ihre Schulden zu begleichen.
+$GEN_045_06x01_02_10
+Ich könnte es tun, aber dafür bekäme ich nicht einmal genug für ein Hemd oder eine Holzschale.
+$GEN_045_03x01_03_QTitle
+Wie viel Geld verlangt Marquis Leiningen für die Kutsche und das Pferd?
+$GEN_045_03x01_03_00
+Wie viel Geld verlangt Marquis Leiningen für die Kutsche und das Pferd?
+$GEN_045_03x01_03_01
+Ich habe es mir gar nicht erst gemerkt, Monsieur le Juge. Solches Geld kann ich mir nicht einmal vorstellen.
+$GEN_045_03x01_03_02
+Könnten Sie jemals so viel ansparen?
+$GEN_045_03x01_03_03
+Selbst mit einer gesunden Hand müsste ich wohl zehn Jahre arbeiten, vielleicht sogar länger.
+$GEN_045_03x01_03_04
+Was haben Sie vor?
+$GEN_045_03x01_03_05
+Ich weiß es nicht, Monsieur le Juge. Ich würde diese Schuld wirklich gern begleichen, wirklich, aber ich weiß nicht, wie… Der Marquis hat seine Leute geschickt, um mir zu drohen. Sie sagten, ich würde wie Alcasse in der Seine landen oder im Gefängnis.
+$GEN_045_03x01_03_06
+Verdammte Bastarde! Wie können sie unschuldige Menschen bedrohen?!
+$GEN_045_03x01_03_07
+Erfinden Sie diese Geschichte, nur um sich selbst als Opfer darzustellen?
+$GEN_045_03x01_03_08
+Ich wünschte, es wäre so, mein Herr, aber ich fürchte, sie meinen es ernst und werfen mich wirklich in den Fluss.
+$GEN_045_KEY_01
+Kutsche
+$GEN_045_KEY_02
+Pferd
+$GEN_045_KEY_03
+Tausende Francs
+$GEN_045_KEY_04
+Menschenmenge
+$GEN_045_KEY_05
+Geländer
+$GEN_045_KEY_06
+Gebrochenes Handgelenk
+$GEN_045_LastDialog_00
+Ein einziger Fehler, und ich verliere gleich meinen Kopf?
+$GEN_045_UNIQUE_QUESTION_00
+Warum hat Beaubois die Zügel angezogen?
+$GEN_045_UNIQUE_ANSWER_CORRECT_00_00
+Ein weiterer Wagen kam aus der entgegengesetzten Richtung.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Er hörte ein lautes Grollen.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ein Kind lief vor das Pferd.
+$GEN_045_UNIQUE_QUESTION_01
+Schläger des Marquis bedrohten den Angeklagten und sagten, dass…
+$GEN_045_UNIQUE_ANSWER_CORRECT_01_00
+Sie drohten, ihn in den Fluss zu werfen.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Sie würden ihm auch noch den anderen Arm brechen.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Sie würden ihn erschießen.
+$GEN_045_UNIQUE_QUESTION_02
+Wurde bei dem Unfall jemand verletzt?
+$GEN_045_UNIQUE_ANSWER_CORRECT_02_00
+Nur das Pferd.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Der Wagen stürzte auf eine ältere Frau.
+$GEN_045_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Das Pferd hat zwei Kinder zu Tode getrampelt.

@@ -1,0 +1,32 @@
+$LETTER_H_03_01_01_MAIN
+Citoyen, tu as certainement reçu une copie de la Déclaration des Droits de la Femme. Retrouvons-nous ce soir pour que je puisse te préciser nos revendications.
+$LETTER_H_03_01_01_SENDER
+Germaine de Staël
+$LETTER_H_03_01_02_MAIN
+I :
+La Femme naît libre et demeure égale à l’homme en droits. Les distinctions sociales ne peuvent être fondées que sur l’utilité commune.
+V :
+Les lois de la nature et de la raison défendent toutes actions nuisibles à la société : tout ce qui n’est pas défendu pas ces lois, sages et divines, ne peut être empêché, et nul ne peut être contraint à faire ce qu’elles n’ordonnent pas.
+VI :
+La Loi doit être l’expression de la volonté générale ; toutes les Citoyennes et Citoyens doivent concourir personnellement ou par leurs représentants, à sa formation ; elle doit être la même pour tous : toutes les Citoyennes et tous les Citoyens, étant égaux à ses yeux, doivent être également admissibles à toutes dignités, places et emplois publics, selon leurs capacités, et sans autres distinctions que celles de leurs vertus et de leurs talents.
+$LETTER_H_03_01_03_MAIN
+X :
+Nul ne doit être inquiété pour ses opinions mêmes fondamentales, la femme a le droit de monter sur l’échafaud ; elle doit avoir également celui de monter à la Tribune ; pourvu que ses manifestations ne troublent pas l’ordre public établi par la Loi.
+XI :
+La libre communication des pensées et des opinions est un des droits les plus précieux de la femme, puisque cette liberté assure la légitimité des pères envers les enfants. Toute Citoyenne peut donc dire librement, je suis mère d’un enfant qui vous appartient, sans qu’un préjugé barbare la force à dissimuler la vérité ; sauf à répondre de l’abus de cette liberté dans les cas déterminés par la Loi.
+$LETTER_H_03_01_04_MAIN
+Postambule :
+Femme, réveille-toi ; le tocsin de la raison se fait entendre dans tout l’univers ; reconnais tes droits. Le puissant empire de la nature n’est plus environné de préjugés, de fanatisme, de superstition et de mensonges. Le flambeau de la vérité a dissipé tous les nuages de la sottise et de l’usurpation. L’homme esclave a multiplié ses forces, a eu besoin de recourir aux tiennes pour briser ses fers. Devenu libre, il est devenu injuste envers sa compagne. O femmes ! Femmes, quand cesserez-vous d’être aveugles ? Quels sont les avantages que vous avez recueillis dans la révolution ? Un mépris plus marqué, un dédain plus signalé. Dans les siècles de corruption vous n’avez régné que sur la faiblesse des hommes. Votre empire est détruit ; que vous reste-t-il donc ? La conviction des injustices de l’homme. La réclamation de votre patrimoine, fondée sur les sages décrets de la nature ; qu’auriez-vous à redouter pour une si belle entreprise ? Le bon mot du Législateur des noces de Cana ? 
+$LETTER_H_03_01_05_MAIN
+Craignez-vous que nos Législateurs français, correcteurs de cette morale, longtemps accrochée aux branches de la politique, mais qui n’est plus de saison, ne vous répètent : femmes, qu’y a-t-il de commun entre vous et nous ? Tout, auriez vous à répondre. S’ils s’obstinent, dans leur faiblesse, à mettre cette inconséquence en contradiction avec leurs principes ; opposez courageusement la force de la raison aux vaines prétentions de supériorité ; réunissez-vous sous les étendards de la philosophie ; déployez toute l’énergie de votre caractère, et vous verrez bientôt ces orgueilleux, non serviles adorateurs rampants à vos pieds, mais fiers de partager avec vous les trésors de l’Être Suprême. Quelles que soient les barrières que l’on vous oppose, il est en votre pouvoir de les affranchir ; vous n’avez qu’à le vouloir. Passons maintenant à l’effroyable tableau de ce que vous avez été dans la société ; et puisqu’il est question, en ce moment, d’une éducation nationale, voyons si nos sages Législateurs penseront sainement sur l’éducation des femmes.
+$LETTER_H_03_01_06_MAIN
+Les femmes ont fait plus de mal que de bien. La contrainte et la dissimulation ont été leur partage. Ce que la force leur avait ravi, la ruse leur a rendu ; elles ont eu recours à toutes les ressources de leurs charmes, et le plus irréprochable ne leur résistait pas. Le poison, le fer, tout leur était soumis ; elles commandaient au crime comme à la vertu. Le gouvernement français, surtout, a dépendu, pendant des siècles, de l’administration nocturne des femmes ; le cabinet n’avait point de secret pour leur indiscrétion ; ambassade, commandement, ministère, présidence, pontificat, cardinalat ; enfin tout ce qui caractérise la sottise des hommes, profane et sacré, tout a été soumis à la cupidité et à l’ambition de ce sexe autrefois méprisable et respecté, et depuis la révolution, respectable et méprisé.
+$LETTER_H_03_02_01_MAIN
+Je m'en vais. Il faut que j'emmène notre fils loin de cette ville malade. Ne te lance pas à notre recherche.
+$LETTER_H_03_02_01_001_SENDER
+Mathilde
+$LETTER_H_03_03_01_MAIN
+Cher citoyen,
+Nous te sommes éminemment reconnaissantes. C'est bien la première fois que nous nous sentons écoutées. Nous aiderons les hommes à combattre !
+$LETTER_H_03_03_01_SENDER
+Les femmes de Paris

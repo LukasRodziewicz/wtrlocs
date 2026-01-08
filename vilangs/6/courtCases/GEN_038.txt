@@ -1,0 +1,152 @@
+$GEN_038_DOC_01_HEADER
+Compilado por: Charles Étienne
+$GEN_038_DOC_01_00
+Una tragedia tuvo lugar en una de las viviendas junto al Sena, cerca del Pont Neuf: <a name="1" class="hidden">se derrumbó el cuarto piso</a>. Los inquilinos, aterrados por el estruendo y la nube de polvo, salieron corriendo. Solo después de unos minutos, algunos de los hombres más valientes subieron a buscar sobrevivientes y <a name="2" class="hidden">retirar los cadáveres</a>.
+$GEN_038_DOC_01_01
+Los escombros y la madera sepultaron a <a name="3" class="hidden">dos familias</a>: doce personas en total. Tres niños lograron sobrevivir ocultándose bajo una mesa de madera. Los vecinos los rescataron y los llevaron al Hôtel-Dieu. No podemos imaginar por lo que están pasando los huérfanos; llevan dos días sin comer ni hablar.
+$GEN_038_DOC_01_02
+El propietario de la casa declaró que había encargado la construcción de <a name="5" class="hidden">un piso adicional</a> hace algunos años. Las obras estuvieron supervisadas por el arquitecto Maurice Lortie. La Guardia Nacional localizó al arquitecto, que también era el jefe de obra, en la dirección proporcionada por el propietario. Maurice Lortie no se sorprendió cuando los gendarmes llamaron a su puerta, y no opuso resistencia cuando lo esposaron y lo llevaron a prisión.
+$GEN_038_OnStart_00
+El pueblo está enfadado y asustado, y espera que alguien sea castigado por esta tragedia.
+$GEN_038_OnStart_01
+¿Su nombre?
+$GEN_038_OnStart_02
+Maurice Lortie, señor juez.
+$GEN_038_OnStart_03
+¿Construye casas?
+$GEN_038_OnStart_04
+Así es. Llevo muchos años ganándome la vida con la construcción y la restauración.
+$GEN_038_OnStart_05
+¿Se derrumbó el suelo por culpa de su error?
+$GEN_038_OnStart_06
+No lo sé. He trabajado en muchas casas desde entonces.
+$GEN_038_OnStart_07
+¡Esos niños están muertos por tu culpa!
+$GEN_038_OnStart_08
+Permítame decir que siempre hago mi trabajo lo mejor posible.
+$GEN_038_OnGuilty_00
+El arquitecto Lortie será enviado a la guillotina por la terrible y trágica muerte de dos familias.
+$GEN_038_OnGuilty_01
+¡Viva la justicia!
+$GEN_038_OnPrison_00
+Condeno al ciudadano Lortie a prisión.
+$GEN_038_OnPrison_01
+Bien, se lo merece.
+$GEN_038_OnNotGuilty_00
+No hay pruebas contra el acusado. Maurice Lortie es inocente.
+$GEN_038_OnNotGuilty_01
+¿Puedes repetir eso mirando a los ojos de esos huérfanos?
+$GEN_038_05x04_00_QTitle
+¿Hace algunos años le asignaron realizar algún trabajo de construcción?
+$GEN_038_05x04_00_00
+¿Hace algunos años le asignaron realizar algún trabajo de construcción?
+$GEN_038_05x04_00_01
+Fue hace nueve años. Tenía que quitar el techo, añadir un piso y luego construir un techo nuevo.
+$GEN_038_05x04_00_02
+¿Es una tarea difícil?
+$GEN_038_05x04_00_03
+Se sabe que es más fácil construir desde cero que mejorar lo que ya existe.
+$GEN_038_05x04_00_04
+¿El propietario tuvo alguna objeción respecto a su trabajo?
+$GEN_038_05x04_00_05
+Si las hubiera tenido, habría hecho todas las correcciones necesarias.
+$GEN_038_05x04_00_06
+¿Qué piso construyó usted?
+$GEN_038_05x04_00_07
+El desván, el cuarto piso. Antes, el desván era el tercer piso.
+$GEN_038_01x03_01_QTitle
+Ciudadano, según su experiencia en construcción, ¿qué pudo haber causado esta tragedia?
+$GEN_038_01x03_01_00
+Ciudadano, según su experiencia en construcción, ¿qué pudo haber causado esta tragedia?
+$GEN_038_01x03_01_01
+No puedo asegurarlo: plagas, materiales de mala calidad, demasiada carga sobre la estructura... cada casa es distinta. Esto debió haberse revisado antes de que la habitación se viniera abajo sobre la gente.
+$GEN_038_01x03_01_02
+No mencionó un error de construcción.
+$GEN_038_01x03_01_03
+Sí, lamentablemente eso también puede ocurrir. Pude haber cometido un error en mis cálculos o haber evaluado mal la calidad de la madera.
+$GEN_038_01x03_01_04
+¿No lo niega?
+$GEN_038_01x03_01_05
+Si considera que he contribuido a la muerte de esos niños, aceptaré cualquier castigo que decida imponerme. Hace dos semanas, una enfermedad se llevó a mi esposa y ya no me importa lo que me suceda.
+$GEN_038_03x04_02_QTitle
+Llamen al testigo, Roland Lussier.
+$GEN_038_03x04_02_00
+Llamen al testigo, Roland Lussier.
+$GEN_038_03x04_02_02
+¿Es usted el propietario de la casa donde se derrumbó el piso?
+$GEN_038_03x04_02_03
+Sí, el suelo del ático se vino abajo y cayó sobre las habitaciones de abajo.
+$GEN_038_02x01_03_QTitle
+¿Hablaste con los inquilinos?
+$GEN_038_02x01_03_00
+¿Hablaste con los inquilinos? ¿Con los que sacaron a las víctimas de los escombros?
+$GEN_038_02x01_03_01
+Vinieron a verme en la noche, llenos de ira y dolor. Comprendo su sufrimiento, pues yo también tengo hijos.
+$GEN_038_02x01_03_02
+Responda a mi pregunta: ¿habló usted con ellos?
+$GEN_038_02x01_03_03
+No, me vi obligado a esconderme en mi casa y cerrar las contraventanas porque estaban lanzando piedras.
+$GEN_038_02x01_03_04
+¿Así que el edificio se vino abajo por tu error y ni siquiera tuviste el valor de hablar con las víctimas?
+$GEN_038_02x01_03_05
+Soy un cobarde, lo sé.
+$GEN_038_02x01_03_06
+¿Cómo supieron adónde ir?
+$GEN_038_02x01_03_07
+No lo sé. Solo el dueño del edificio conocía mi dirección.
+$GEN_038_WIT_00_A_QTitle
+Los apartamentos eran pequeños, ¿verdad?
+$GEN_038_WIT_00_A_00
+Los apartamentos eran pequeños, ¿verdad?
+$GEN_038_WIT_00_A_01
+Dos habitaciones, una arriba y otra abajo. No son amplias, pero tampoco cobraba mucho.
+$GEN_038_WIT_00_A_02
+¿Cuántas personas vivían arriba?
+$GEN_038_WIT_00_A_03
+No lo sé, no los conté.
+$GEN_038_WIT_00_A_04
+¿No sabía cuántos inquilinos tenía?
+$GEN_038_WIT_00_A_05
+Poseo dos edificios. Mientras me paguen el alquiler, no me importa lo que pase dentro.
+$GEN_038_WIT_00_A_06
+¡Explotador! Ávido por el dinero, pero indiferente ante sus inquilinos.
+$GEN_038_WIT_00_B_QTitle
+¿Se quejaron los inquilinos de algo antes de la tragedia?
+$GEN_038_WIT_00_B_00
+¿Se quejaron los inquilinos de algo antes de la tragedia?
+$GEN_038_WIT_00_B_01
+Dijeron algo sobre suelos que crujen, pero eso no es nada raro. En mi casa también crujen, ¿y qué?
+$GEN_038_WIT_00_B_02
+¿Inspeccionó los suelos?
+$GEN_038_WIT_00_B_03
+Pensaba hacerlo, pero la tragedia ocurrió antes de que pudiera.
+$GEN_038_WIT_00_B_04
+¡Menos mal que alcanzó a quedarse con su dinero!
+$GEN_038_KEY_01
+Piso derrumbado
+$GEN_038_KEY_02
+Cadáveres
+$GEN_038_KEY_03
+Piso abarrotado
+$GEN_038_KEY_04
+Propietario de la casa
+$GEN_038_KEY_05
+Piso adicional
+$GEN_038_LastDialog_00
+¿Esto es justicia? ¿Alguien castigará al dueño de la casa?
+$GEN_038_UNIQUE_QUESTION_00
+¿Cuál fue el alcance de las obras realizadas por el arquitecto?
+$GEN_038_UNIQUE_ANSWER_CORRECT_00_00
+Construcción de otro piso.
+$GEN_038_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Restauración de la fachada.
+$GEN_038_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Refuerzo de muros deteriorados.
+$GEN_038_UNIQUE_QUESTION_01
+Según el testigo, ¿los inquilinos se quejaron de algo?
+$GEN_038_UNIQUE_ANSWER_CORRECT_01_00
+Suelos que crujen.
+$GEN_038_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ratas.
+$GEN_038_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Humedad.

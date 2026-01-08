@@ -1,0 +1,152 @@
+#BATTLE_TURNS
+Раунд {0}
+#LAST_STAND
+Последний шанс!
+#BATTLE_WIN
+Вы выиграли!
+#BATTLE_LOSE
+Вы проиграли!
+#BATTLE_DRAFT
+Ничья!
+#BATTLE_TURN
+Раунд {0}
+#BATTLE_TURN_LINE
+Раунд {0}
+#BATTLE_SUMMARY_ENEMY
+Противник:
+#BATTLE_SUMMARY_PLAYER
+Игрок:
+#START_BATTLE
+Дать бой
+#PENDING_BATTLE
+Битва в процессе
+#BALANCE_OF_POWER
+Расстановка сил
+#CHOOSE_TACTIC
+Выберите тактику
+#TACTIC_INACTIVE
+Эта тактика недоступна
+#TACTIC_LOCKED
+Эта тактика заблокирована модификатором
+#MEDIC_USED
+Медик уже выслан вперед.
+#TACTIC_NEUTRAL
+Атаковать
+#TACTIC_BREAK
+ Быстрое 
+ наступление
+#TACTIC_FIRING
+ Обстреливать
+ врага
+#TACTIC_DEFENSE
+Обороняться
+#TACTIC_TRENCH
+Окопаться
+#MUSKETEERS
+Мушкетеры
+#INFANTRY
+Пехота
+#ARTILLERY
+Артиллерия
+#BATTLE_OPPONENT_01
+Агрессивный
+#BATTLE_OPPONENT_02
+Обороняющийся
+#BATTLE_OPPONENT_03
+Нейтральный
+#TUTORIAL_OPPONENT
+Захватчик
+#BATTLE_OPPONENT_CUT_22
+Сторонники Гобеля
+#BATTLE_OPPONENT_CUT_28
+Анрио
+#BATTLE_MEDIC_AVAILABLE
+Выслать медика
+#BATTLE_MEDIC_REWIND
+Вернуть
+#BATTLE_MEDIC_DISABLED
+Нет доступных медиков
+#BATTLE_REFUGEES_HEADER
+Гражданские в секции
+#BATTLE_REFUGEES_TITLE
+Другие
+#BATTLE_RESCUED_REFUGEES_TITLE
+Выжившие
+#BATTLE_SUMMARY_AGENTS_LOST
+Мертвые агенты
+#BATTLE_SUMMARY_AGENT_MEDIC
+Медик уже выслан вперед.
+#BATTLE_SUMMARY_AGENT_COORDINATOR
+Логистик
+#BATTLE_REFUGEES_NEW_TURN
+Гражданских спаслось в этом раунде: {0}
+#BATTLE_EVENT_TITLE_01
+Ливень
+#BATTLE_EVENT_DESC_01
+Стрелки получают -50% к силе атаки. Беженцы спасаются на 20% медленнее.
+#BATTLE_EVENT_TITLE_02
+Узкая улица
+#BATTLE_EVENT_DESC_02
+Блокирует наступательные тактики.
+#BATTLE_EVENT_TITLE_03
+Снабжение противника
+#BATTLE_EVENT_DESC_03
+Враг сражается более яростно.
+#BATTLE_EVENT_TITLE_04
+Баррикады
+#BATTLE_EVENT_DESC_04
+Ваши силы эффективнее благодаря укреплениям.
+#BATTLE_EVENT_TITLE_05
+Сковывающий страх
+#BATTLE_EVENT_DESC_05
+Беженцы спасаются на 30% медленнее.
+#BATTLE_EVENT_TITLE_06
+Храбрость.
+#BATTLE_EVENT_DESC_06
+Ваши солдаты сражаются более яростно.
+#BATTLE_EVENT_TITLE_100
+Раненые солдаты
+#BATTLE_EVENT_DESC_100
+Ваши солдаты атакуют на 50% слабее.
+#BATTLE_EVENT_TITLE_101
+Фанатизм
+#BATTLE_EVENT_DESC_101
+Вражеское ополчение сражается более яростно.
+#BATTLE_SUMMARY_REFUGEES_TITLE
+Гражданские:
+#BATTLE_SUMMARY_REFUGEES_RESCUED
+Спасено: {0}
+#BATTLE_SUMMARY_REFUGEES_DEAD
+Убито: {0}
+$TUTORIAL_BATTLE_DIALOG_01
+Наш арьергард вступил в сражение с врагом и проиграл. Неприятель пробился в лагерь, где ухаживали за ранеными. Мы схватились за оружие.
+$TUTORIAL_BATTLE_DIALOG_02
+Ваш брат сражался как одержимый. Люди собирались возле него.
+$TUTORIAL_BATTLE_DIALOG_03
+Мы надеялись, что подкрепления спешат к нам на помощь. Но мы знали, что будет слишком поздно...
+$TUTORIAL_BATTLE_DIALOG_04
+Меня проткнули штыком. Я истекал кровью, а мои друзья падали под градом пуль, один за другим.
+$GOBEL_BATTLE_OPPONENT_01
+Смерть всем, кто посмел поднять руку на церковь!
+$GOBEL_BATTLE_JUDGE_02
+Не на церковь, а на ее жадных святош. На тех, кто тянет Францию на дно!
+$GOBEL_BATTLE_OPPONENT_03
+Нам все равно. Мы этого не позволим! Давно надо было насадить ваши головы на пики!
+#TACTIC_NEUTRAL_DESC
+Сбалансированная тактика. Она не дает значительных преимуществ, но зато и не снижает силу атаки ваших войск.
+#TACTIC_BREAK_DESC
+Самоотверженное фронтальное наступление. Эта тактика особенно эффективна при наличии у вас большого количества стрелков. Менее эффективна, когда ваша пехота ослаблена.
+#TACTIC_FIRING_DESC
+Ваши стрелки осыпают градом пуль вражеские ряды, в то время как пехота старается сдержать вражескую атаку. Эта тактика особенно эффективна против врага, засевшего в обороне.
+#TACTIC_DEFENSE_DESC
+Ваши войска сражаются с большей осторожностью, получая большой бонус к защите. Эта тактика наиболее эффективна, когда у вас много пехотинцев.
+#TACTIC_TRENCH_DESC
+Огонь артиллерии накрывает больше вражеских рядов, тогда как остальные ваши войска переходят в оборону.
+#BATTLE_STATS_ATTACK_BONUS
+Бонус к атаке
+#BATTLE_STATS_ATTACK_PENALTY
+Пенальти к атаке
+#BATTLE_STATS_DEFENSE_BONUS
+Бонус к защите
+#BATTLE_STATS_DEFENSE_PENALTY
+Пенальти к защите

@@ -1,0 +1,20 @@
+$DIAL_H_02_02_08_001_DANTON
+Gobel está imune por enquanto. Conta com o apoio de Hébert e o povo aprecia o que ele fez.
+$DIAL_H_02_02_08_002_RAMEL
+Ele afirma ser totalmente devoto à razão e rejeitar tudo o que há de errado no clero. Esperto.
+$DIAL_H_02_02_08_003_DANTON
+Só Robespierre pode detê-lo agora. E ele o fará, se esse culto à Razão ultrapassar o limite.
+$DIAL_H_02_02_08_004_RAMEL
+Ou se eles publicarem a lista dos 73. Tenho certeza de que os aliados de Robespierre também estão lá.
+$DIAL_H_02_02_08_005_DANTON
+A estupidez e a ambição de Hébert o fazem desafiar Robespierre. Ele há muito sonha com esse poder. Como todos nós.
+$DIAL_H_02_02_08_006_RAMEL
+Hébert será derrotado sem os amigos que sacrificaria ao revelar a lista. E sem o apoio do clero, Gobel é um aliado fraco.
+$DIAL_H_02_02_08_007_DANTON
+Sim, mas Hébert é orgulhoso demais para enxergar isso. Eu o conheço bem. Ele sentiu o chamado e não vai recuar. Precisamos convencê-lo de que enfrentar Robespierre sozinho é morte certa.
+$DIAL_H_02_02_08_008_JUDGE
+E se ele não recuar?
+$DIAL_H_02_02_08_009_DANTON
+Então todos nós morreremos assim que começar a cruzada contra os 73. Hébert e seu culto à Razão cairão em seguida, pelas mãos de Robespierre. O Incorruptível tomará o controle de Paris.
+$DIAL_H_02_02_08_010_JUDGE
+Precisamos apresentar Hébert a alguém com potencial para construir uma base de poder. Alguém que seja uma arma muito mais forte contra Robespierre do que Gobel. Acho que tenho o candidato perfeito...

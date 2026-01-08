@@ -1,0 +1,185 @@
+$GEN_033_DOC_01_HEADER
+Sporządził: Nathan d’Essiraf
+$GEN_033_DOC_01_00
+	Marcel Bloch, 26-letni strażnik sądowy pochodzący z północy Francji. Do samego  wybuchu rewolucji służył w artylerii, w 2. sekcji 2. kompanii 2. batalionu regimentu Colonel-General. Po 1789 roku pojawił się w Paryżu i <a name="2" class="hidden">wstąpił do straży sądowej</a>, gdzie pracuje do dnia obecnego. Przez przełożonych i kolegów oceniany jest jako wręcz wzorowy i oddany swej służbie pracownik.
+$GEN_033_DOC_01_01
+	W trakcie popijawy w jednej z paryskich gospód Marcel przyznał się, że od lat <a name="3" class="hidden">kłamał</a> i tak naprawdę nigdy nie był w armii. Tymczasem warunkiem koniecznym przyjęcia do straży sądowej było odbycie służby wojskowej. Po dokładniejszym przeanalizowaniu sprawy okazało się, że najprawdopodobniej <a name="4" class="hidden">podrobił dokumenty</a> potwierdzające jego wojskową przeszłość.
+$GEN_033_DOC_01_02
+	Co istotne, odnalezieni w Paryżu Pierre Richard i Mechel Montand, <a name="5" class="hidden">artylerzyści z dawnej sekcji</a> Marcela Blocha, zaprzeczyli, aby pamiętali go ze wspólnej służby. Śledczym udało się także zdobyć dokument od dawnego dowódcy oskarżonego.  
+$GEN_033_DOC_02_00
+Oświadczenie pułkownika Chaberta:
+$GEN_033_DOC_02_01
+	Niniejszym oświadczam, że w rejestrach 2. półbrygady bojowej nie figuruje nazwisko  Marcela Blocha. Nie znaleziono takiej osoby także w rejestrach przedrewolucyjnego Regimentu Colonel-General. Wyjaśniam w tym miejscu, że wyżej wymienione rejestry są niekompletne – część dokumentacji została zniszczona przez żołnierzy w związku z wybuchem rewolucji oraz jej poparciem przez korpus szeregowych piechoty.
+ 
+pułkownik J. C. Chabert; d-ca 2. półbrygady bojowej
+$GEN_033_OnStart_00
+Proszę odnotować w protokole, że sąd z urzędu zna tożsamość oskarżonego Marcela Blocha jako strażnika tutejszego sądu. Czy obywatelowi znane są stawiane mu zarzuty?
+$GEN_033_OnStart_01
+Nie, Wysoki Sądzie…
+$GEN_033_OnStart_02
+Zostałeś oskarżony o sfałszowanie dokumentu potwierdzającego odbycie służby wojskowej. Obywatel twierdził, że służył w przedrewolucyjnym 2. batalionie regimentu Colonel-General, obecnie 2. półbrygadzie bojowej. Zgodnie z aktem oskarżenia kłamaliście, żeby zdobyć posadę w sądzie.
+$GEN_033_OnStart_03
+Bloch mógł czerpać znacznie więcej korzyści ze swojej zbrodni.
+$GEN_033_OnStart_04
+Wezmę to pod uwagę. Przyznajecie się?
+$GEN_033_OnStart_05
+Zaręczam, Wysoki Sądzie, że nikogo nie oszukałem!
+$GEN_033_OnStart_06
+Z przykrością muszę stwierdzić, że dowody i okoliczności mówią coś innego. 
+$GEN_033_OnStart_07
+Na front to strach, ale medale każdy by chciał.
+$GEN_033_OnGuilty_00
+Skazuję Marcela Blocha na śmierć na gilotynie! Wyprowadzić skazanego.
+$GEN_033_OnGuilty_01
+Szkoda chłopaka.
+$GEN_033_OnGuilty_02
+Dałeś ludziom dobrą naukę na przyszłość.
+$GEN_033_OnNotGuilty_00
+Wyrok w sprawie Marcela Blocha brzmi: niewinny! Wyprowadzić podsądnego.
+$GEN_033_OnNotGuilty_01
+Mam nadzieję, że go chociaż z sądu wyrzucą, bo jak nie, to się będzie nam śmiał w twarz.
+$GEN_033_OnNotGuilty_02
+Ma szczęście chłopak.
+$GEN_033_04x06_00_QTitle
+Skąd oskarżony uzyskał zaświadczenie o służbie w regimencie?
+$GEN_033_04x06_00_00
+Skąd oskarżony uzyskał zaświadczenie o służbie w regimencie?
+$GEN_033_04x06_00_01
+Zostało wystawione przez pułkownika Chaberta, mojego ówczesnego dowódcę.
+$GEN_033_04x06_00_02
+Pułkownik Chabert na naszą prośbę złożył oświadczenie, w którym napisał, że oskarżony nie figuruje w rejestrach jednostki. Chyba nie mógł wcześniej wydać wam dokumentu, w którym było napisane zupełnie co innego, prawda?
+$GEN_033_04x06_00_03
+Mamy także zeznania zwykłych żołnierzy.
+$GEN_033_04x06_00_04
+Nie rozumiem tego wszystkiego. Przecież przez ponad rok służyłem w tym oddziale. Pułkownik osobiście podpisał mi papiery.
+$GEN_033_04x06_00_05
+Czego tu nie rozumieć? Sfałszowaliście podpis, to wszystko.
+$GEN_033_04x06_00_06
+Pokażcie gagatka tym żołnierzom, sami go osądzą.
+$GEN_033_01x03_01_QTitle
+Oskarżony służył w artylerii?
+$GEN_033_01x03_01_00
+Oskarżony służył w artylerii?
+$GEN_033_01x03_01_01
+Zgadza się, w sławetnych dwóch dwójkach – 2. sekcja 2. kompanii.
+$GEN_033_01x03_01_02
+W jakie armaty była wyposażona sekcja?
+$GEN_033_01x03_01_03
+No… dwie armaty ośmiofuntowe.
+$GEN_033_01x03_01_04
+To ciekawe, bo sekcje te były i do dzisiaj są wyposażone w armaty sześciofuntowe.
+$GEN_033_01x03_01_05
+Jesteście pewni? Musiałem zapomnieć. To było dawno temu. Bycie w straży jest dla mnie ważne…
+$GEN_033_01x03_01_06
+Jesteście dumni ze swojej artyleryjskiej przeszłości, ale nie pamiętacie, z jakich strzelaliście armat?
+$GEN_033_01x03_01_07
+Pamiętam je doskonale, mógłbym taką załadować z zamkniętymi oczami, tylko mi się pomyliło.
+$GEN_033_01x03_01_08
+On to by nie wiedział, z której strony kulę wsadzić.
+$GEN_033_03x05_02_QTitle
+Proszę wymienić kilku towarzyszy z okresu służby w wojsku.
+$GEN_033_03x05_02_00
+Proszę wymienić kilku towarzyszy z okresu służby w wojsku.
+$GEN_033_03x05_02_01
+Charles Clary i Jean Gayet, moi najlepsi koledzy z sekcji.
+$GEN_033_03x05_02_02
+Czy te osoby mogą potwierdzić prawdziwość tego oświadczenia?
+$GEN_033_03x05_02_03
+Na pewno mogłyby, ale nie wiem, gdzie obecnie przebywają. Wszyscy pochodzili z północy Francji, podobnie jak ja.
+$GEN_033_03x05_02_04
+Nie utrzymujecie ze sobą kontaktu? Powiedzieliście, że to wasi najlepsi koledzy.
+$GEN_033_03x05_02_05
+Tak wyszło, że każdy poszedł w swoją stronę. W wojsku to normalne.
+$GEN_033_03x05_02_06
+Dotarliśmy do innych waszych towarzyszy, Pierre’a Richarda i Mechel’a Montand? Kojarzy oskarżony te nazwiska?
+$GEN_033_03x05_02_07
+Nie, nie pamiętam ich.
+$GEN_033_03x05_02_08
+To dziwne, bo służyli razem z oskarżonym w 2. batalionie. Co ciekawe, też was nie pamiętają. I są tutaj, w Paryżu.
+$GEN_033_03x05_02_09
+To o niczym nie świadczy. Przez regiment przewijają się tysiące ludzi. Nie ze wszystkimi towarzyszami broni żyłem w przyjaźni, z niektórymi nawet nie zamieniłem słowa. Proszę mi uwierzyć…
+$GEN_033_01x02_03_QTitle
+Dlaczego oskarżony zdecydował się wstąpić do straży sądowej?
+$GEN_033_01x02_03_00
+Dlaczego oskarżony zdecydował się wstąpić do straży sądowej?
+$GEN_033_01x02_03_01
+Przybyłem do Paryża, szukając lepszego życia po wybuchu rewolucji. Posada strażnika sądowego wydawała się dobrze płatna, a ponadto… rozumie, Wysoki Sąd, ludzie mają szacunek do munduru.
+$GEN_033_01x02_03_02
+To dla was ważne? Nosić mundur?
+$GEN_033_01x02_03_03
+Mój ojciec był na wojnie. Zawsze mówił, że mundur to coś więcej niż ubranie.
+$GEN_033_01x02_03_04
+Chciał, żebyście też służyli?
+$GEN_033_01x02_03_05
+Nigdy tego nie mówił. On w ogóle zbyt wiele nie mówił. Za to w szufladzie trzymał guziki od wojskowej bluzy, takie złotawe, połyskliwe.
+$GEN_033_01x02_03_06
+Oszukaliście paryski sąd, żeby spełnić dziecięce marzenia?
+$GEN_033_01x02_03_07
+Po prostu poszedłem do armii i nadstawiałem karku. Mój ojciec miał rację – w mundurze człowiek czuje się inaczej, godnie.
+$GEN_033_01x02_03_08
+Do wojska pewnie go nie chcieli, to zaczął kłamać.
+$GEN_033_03x04_04_QTitle
+Czy oskarżony podrobił zaświadczenie o odbyciu służby wojskowej?
+$GEN_033_03x04_04_00
+Czy oskarżony podrobił zaświadczenie o odbyciu służby wojskowej?
+$GEN_033_03x04_04_01
+Nie zrobiłem tego. Nawet nie umiałbym. Nie znam się na fałszerstwach.
+$GEN_033_03x04_04_02
+Podczas rozmowy w gospodzie twierdził oskarżony co innego.
+$GEN_033_03x04_04_03
+Byłem pijany, zachowałem się bardzo głupio. Chciałem zażartować ze swojego rozmówcy, nie spodziewałem się, jakie to wywoła konsekwencje…
+$GEN_033_03x04_04_04
+Jako dumny artylerzysta chyba nie lubicie śmiać się z munduru?
+$GEN_033_03x04_04_05
+Jak wypiję, to nie myślę, co mówię, a wtedy musiałem dużo wypić. 
+$GEN_033_03x04_04_06
+Faktycznie nie myśleliście, skoro opowiadaliście takie rzeczy pracownikowi sądu. 
+$GEN_033_03x04_04_07
+Wysoki Sądzie, ja bardzo za to przepraszam, ale chyba nie ma potrzeby karać ludzi za to, co opowiadają po paru głębszych.
+$GEN_033_03x04_04_08
+Pewnie go męczyło sumienie i dlatego się wygadał.
+$GEN_033_KEY_01
+Służba w artylerii
+$GEN_033_KEY_02
+Wstąpienie do straży
+$GEN_033_KEY_03
+Kłamstwo
+$GEN_033_KEY_04
+Podrobione dokumenty
+$GEN_033_KEY_05
+Bracia broni
+$GEN_033_KEY_06
+Oświadczenie pułkownika
+
+
+$GEN_033_LastDialog_00
+Służyłem wiernie rewolucji i sprawiedliwości. Dlaczego mnie odrzucacie? 
+
+$GEN_033_UNIQUE_QUESTION_00
+W jakie armaty wyposażony był oddział podejrzanego?
+$GEN_033_UNIQUE_ANSWER_CORRECT_00_00
+Sześciofuntowe.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ośmiofuntowe.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Dziesięciofuntowe.
+
+$GEN_033_UNIQUE_QUESTION_01
+Dlaczego oskarżony wstąpił do armii?
+$GEN_033_UNIQUE_ANSWER_CORRECT_01_00
+Chciał nosić mundur.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Uciekał przed głodem na wsi.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Chciał zaimponować ukochanej.
+
+$GEN_033_UNIQUE_QUESTION_02
+Komu Bloch powiedział, że nie służył w armii?
+$GEN_033_UNIQUE_ANSWER_CORRECT_02_00
+Koledze z pracy.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Prostytutce.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Nieznajomemu.
+
+

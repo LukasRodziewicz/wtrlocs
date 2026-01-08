@@ -1,0 +1,31 @@
+$DIAL_CO_01_01_06_001_MENTOR
+Ludzie zdemolowali wczoraj salę sądową. Lepiej uważaj.
+$DIAL_CO_01_01_06_002_HEADGUARD
+Przykro to mówić, ale tracimy kontrolę nad ulicami. Ludzie czują się oszukani przez króla, niektórzy myślą, że to szpieg, który ucieka przed obławą. Konwent rekomenduje zastosowanie specjalnych środków w walce z rozruchami. Potrzebujemy tylko opinii sędziów, że te działania są zgodne z prawem.
+$DIAL_CO_01_01_06_003_MENTOR
+Jednym słowem, prosicie o błogosławieństwo dla strzelania do protestujących?
+$DIAL_CO_01_01_06_004_HEADGUARD
+Ludzie nie kontrolują swoich emocji i krzywdzą niewinnych współobywateli. Spójrzcie na okna. Następnym razem mogą nie ograniczyć się do rzucania kamieniami.
+$DIAL_CO_01_01_06_005_HEADGUARD
+Miejmy nadzieję, że nie jest za późno na ostudzenie nastrojów.
+$DIAL_CO_01_01_06_006_MENTOR
+Ciekawe określenie na salwę z muszkietów.
+$DIAL_CO_01_01_06_007_HEADGUARD
+Bez tego dokumentu będziemy mogli tylko czekać i patrzeć, jak paryżanie rzucają się sobie do gardeł.
+$DIAL_CO_01_01_06_008_MENTOR
+Mam nadzieję, że wiesz, co robisz… Zarządzenie może i było ze strony Konwentu, ale z całą pewnością to pomysł Robespierre’a.
+
+$LETTERDECISION_D06_MAINTEXT_00
+   Z przykrością obserwujemy narastanie agresji na ulicach Paryża. Komendant Burel poinformował nas, że Gwardii coraz trudniej jest zapanować nad sytuacją pokojowymi środkami. Dlatego zalecamy umożliwienie komendantowi wykorzystanie bardziej zdecydowanych metod, by chronić niewinnych i spokojnych obywateli – chętnie jednak poznamy opinię prawych sędziów Trybunału. 
+$LETTERDECISION_D06_MAINTEXT_01
+   Popieram użycie siły przez Gwardię Narodową wobec chuliganów demolujących stolicę.
+$LETTERDECISION_D06_SENDER
+Raymond Dévoyé
+$LETTERDECISION_D06_ACCEPTBUTTON
+Podpisz
+$LETTERDECISION_D06_ACCEPTTEXT
+Gwardia ma za zadanie chronić niewinnych przed tymi, którzy nie kontrolują swojego zachowania. Popieram większą swobodę dla Gwardii Narodowej!
+$LETTERDECISION_D06_REJECTBUTTON
+Nie podpisuj
+$LETTERDECISION_D06_REJECTTEXT
+Władza nie powinna używać siły wobec własnych obywateli. Jeśli musi to zrobić, to znaczy, że przegrała. Nie popieram rozporządzenia!

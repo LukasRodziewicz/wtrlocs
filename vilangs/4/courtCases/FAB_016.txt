@@ -1,0 +1,244 @@
+$FAB_016_DOC_1_HEADER
+Zusammengestellt von: Fabrice Poli
+$FAB_016_DOC_1_00
+Der Angeklagte ist... Es fällt mir schwer, das auszusprechen, doch es ist meine Pflicht, fortzufahren. Der Angeklagte ist der ehemalige Präsident des Revolutionstribunals, Raymond Dévoyé. Ihm wird vorgeworfen, für den <a name="1" class="hidden">Tod des Sohnes von Richter Alexis Fidèle</a> verantwortlich zu sein. Die Leiche des Kindes wurde <a name="2" class="hidden">erhängt</a> an der Pont de la Révolution aufgefunden.
+$FAB_016_DOC_1_01
+Gestern Nachmittag erhielten wir einen <a name="3" class="hidden">anonymen Brief</a>, in dem uns mitgeteilt wurde, dass sich der Mörder des Jungen im Haus von Raymond Dévoyé verstecke. Als wir eintrafen, fanden wir den Angeklagten allein vor, sein Verhalten ließ deutlich erkennen, dass er <a name="4" class="hidden">stark betrunken</a> war. Auf unsere Frage nach dem Inhalt des Briefes brach er in Tränen aus, schluchzte: „Er war schuldig“, und fragte immer wieder: „Lebt Frédéric?“ In einem Moment <a name="6" class="hidden">warf er eine Karaffe</a> voller Wein gegen die Wand. Auf dem Weg ins Gefängnis schrie er unaufhörlich: „Vergib mir.“
+$FAB_016_DOC_1_02
+Am Tag nach seiner Verhaftung weigerte sich der Angeklagte in seiner Zelle, das Geständnis des Vorabends zu wiederholen. Stattdessen verlangte Bürger Dévoyé, vor einen Richter des Tribunals geführt zu werden, um die ganze Angelegenheit zu erklären.
+$FAB_016_DOC_1_03
+Ich kannte die familiären Verhältnisse des Angeklagten nicht, also beschloss ich, ihnen nachzugehen. Er lebte allein, da <a name="7" class="hidden">seine Frau vor einigen Jahren gestorben war</a>; der Arzt meinte, es habe an ihrem Herzen gelegen. Das Gerede besagt jedoch, sie sei an der ständigen Trunksucht des Angeklagten zugrunde gegangen. Ihr einziger Sohn <a name="8" class="hidden">trat sofort nach Erreichen der Volljährigkeit ins Heer ein</a>, und seither hat ihn niemand mehr in Paris gesehen. Nachbarn berichten, dass Vater und Sohn einander oft aggressiv begegneten und aus dem Haus häufig lautes Geschrei drang, wenn <a name="9" class="hidden">die beiden Männer stritten</a>.
+$FAB_016_OnStart_00
+Ich möchte zunächst das Wort an den Richter richten–
+$FAB_016_OnStart_01
+Wie wagen Sie es, zu sprechen!
+$FAB_016_OnStart_02
+Hör mir bitte zu, ich muss dir so viel...
+$FAB_016_OnStart_03
+Sie werden während des Prozesses alles gestehen können. Für Mörder gibt es kein Erbarmen!
+$FAB_016_OnStart_04
+Ganz genau!
+$FAB_016_OnStart_05
+Nach all diesen Jahren… Wie konntest du mir so etwas antun?
+$FAB_016_OnStart_06
+So ist es nicht–
+$FAB_016_OnStart_07
+Halt den Mund, Kindermörder!
+$FAB_016_OnGuilty_00
+Ich verurteile Raymond Dévoyé zur Guillotine! Schafft mir diesen Bastard aus den Augen.
+$FAB_016_OnGuilty_01
+Sehr gut.
+$FAB_016_OnGuilty_02
+Lass den Kindermörder verrotten!
+$FAB_016_OnNotGuilty_00
+Ich spreche Raymond Dévoyé von allen Schuldvorwürfen frei…
+$FAB_016_OnNotGuilty_01
+Dieser Richter hat keinen Respekt vor seiner eigenen Familie.
+$FAB_016_OnNotGuilty_02
+Ich kann beim besten Willen nicht nachvollziehen, warum Ihr Herz plötzlich so weich geworden ist.
+$FAB_016_01x02_00_QTitle
+Waren Sie persönlich an der Hinrichtung von Frédéric Fidèle beteiligt?
+$FAB_016_01x02_00_00
+Waren Sie persönlich an der Hinrichtung von Frédéric Fidèle beteiligt?
+$FAB_016_01x02_00_01
+Nein, Alexis, ich würde niemals–
+$FAB_016_01x02_00_02
+Sie sprechen den Richter mit „Monsieur le Juge“ an und nicht mit seinem Vornamen.
+$FAB_016_01x02_00_03
+Dieser Halunke nimmt sich ganz schön viele Freiheiten heraus.
+$FAB_016_01x02_00_04
+Ich habe Ihren... deinen Sohn nicht getötet, Monsieur le Juge. Wie hätte ich das tun können? Sie waren meine einzige Familie...
+$FAB_016_01x02_00_05
+Wagen Sie es nicht einmal, so etwas vorzuschlagen.
+$FAB_016_01x02_00_06
+Ich sage es noch einmal – ich habe ihn nicht getötet. Wie hätte ich einen Jungen töten können, den ich seit seiner Geburt kannte?
+$FAB_016_01x02_00_07
+Gerade das macht die ganze Angelegenheit noch abscheulicher.
+$FAB_016_01x02_00_08
+Ich habe nur Informationen weitergegeben. Ich habe ihn nicht getötet!
+$FAB_016_01x03_01_QTitle
+Es scheint, als hätten Ihre Gefährten Sie verraten.
+$FAB_016_01x03_01_00
+Offenbar haben Ihre Komplizen Sie verraten. Die anonyme Denunziation, die zu Ihrer Verhaftung führte, stammt mit Sicherheit von Ihren eigenen Mitverschwörern.
+$FAB_016_01x03_01_01
+Ich weiß es nicht, ich… Ein Mann kam zu mir, der Informationen über die Familie des Herrn Richters brauchte. Es ging nur um Auskünfte.
+$FAB_016_01x03_01_02
+Und Sie haben es ihm einfach so übergeben, ohne Verdacht zu schöpfen?
+$FAB_016_01x03_01_03
+Nun, er hatte mir tatsächlich etwas anzubieten …
+$FAB_016_01x03_01_04
+Hat er Sie also bestochen?
+$FAB_016_01x03_01_05
+Sie haben meinen Sohn! Er wurde verhaftet, weil er versucht hat, die Armee zu verlassen – und auf Fahnenflucht steht nur eine Strafe.
+$FAB_016_01x03_01_06
+Und dieser Mann versprach, ihn im Gegenzug für Hilfe herauszuholen?
+$FAB_016_01x03_01_07
+Es ist mein Sohn. Früher habe ich viel getrunken und nicht erkannt, wie wichtig die Familie ist. Jetzt trinke ich, weil ich sie verloren habe, und diese Leute haben das ausgenutzt. Sie haben mir klargemacht, dass mein Sohn vor ein Erschießungskommando gestellt wird, wenn ich ihnen nicht helfe.
+$FAB_016_01x03_01_08
+Wer war der Mann, der zu Ihnen gekommen ist?
+$FAB_016_01x03_01_09
+Seinen wahren Namen habe ich nie erfahren, doch er kannte sowohl Richter Fidèle als auch mich. Sein rechter Arm war bis zum Ellbogen amputiert.
+$FAB_016_01x05_02_QTitle
+Warum haben Sie das getan? Warum? Antworten Sie!
+$FAB_016_01x05_02_00
+Warum haben Sie das getan? Warum? Antworten Sie!
+$FAB_016_01x05_02_01
+Der Mann, der zu mir kam, versprach, mir das zurückzugeben, was von meiner Familie übrig geblieben ist.
+$FAB_016_01x05_02_02
+Also haben Sie ein Leben gegen ein anderes eingetauscht?
+$FAB_016_01x05_02_03
+Ich konnte nicht wissen, was dieser Mann mit den Informationen anstellen würde. Er sagte nur, sie müssten herausfinden, mit wem sie es zu tun hätten. Sie wollten alles über Alexis Fidèle wissen …
+$FAB_016_01x05_02_04
+Und Sie haben ihnen geglaubt?
+$FAB_016_01x05_02_05
+Ja, weil ich verzweifelt meinen Sohn zurückhaben wollte… Ich war töricht, aber ich habe euren Sohn nicht getötet.
+$FAB_016_01x05_02_06
+Doch, Sie sind genauso schuldig wie der Mann, der zu Ihnen kam. Wie war sein Name?
+$FAB_016_01x05_02_07
+Es tut mir aufrichtig leid, wirklich, ich weiß es nicht. Bitte verzeihen Sie mir, ich flehe Sie an, Monsieur le Juge. Niemals hätte ich Ihrer Familie absichtlich Leid zugefügt.
+$FAB_016_01x05_02_08
+Es spielt keine Rolle. Blut muss mit Blut vergolten werden!
+$FAB_016_01x05_02_09
+Wahre Worte!
+$FAB_016_02x04_03_QTitle
+Was haben Sie am Tag getan, als die Leiche gefunden wurde?
+$FAB_016_02x04_03_00
+Was haben Sie an dem Tag getan, als die Leiche gefunden wurde?
+$FAB_016_02x04_03_01
+Es gab einen Prozess, und dann–
+$FAB_016_02x04_03_02
+Das wissen wir noch. Und was geschah danach?
+$FAB_016_02x04_03_03
+Aus dem, was geschehen war, wurde mir klar, dass… ich verstand, dass ich ungewollt eine Tragödie verursacht hatte. Hätte ich gewusst, wozu sie diese Information nutzen würden…
+$FAB_016_02x04_03_04
+Das ist unerheblich. Sie verdienen dieselbe Strafe wie jeder Mörder.
+$FAB_016_02x04_03_05
+Nein, nein! Wirklich… Ich kann es nicht… Ihr seid wie Familie für mich. Frédérics Tod schmerzt mich genauso wie euch!
+$FAB_016_02x04_03_06
+Wagen Sie es ja nicht…!
+$FAB_016_02x04_03_07
+Es ist die Wahrheit! Seitdem habe ich keinen Tag mehr nüchtern verbracht… So war es zuletzt, als ich meinen Sohn verlor, als er an die Front geschickt wurde. Ich war sicher, dass ich ihn nie wiedersehen würde–
+$FAB_016_02x04_03_08
+Genug von diesem sentimentalen Gerede. Sie sind ein Mörder, schlicht und einfach.
+$FAB_016_02x04_03_09
+Mörder!
+$FAB_016_02x04_03_10
+Nein… ich wurde hereingelegt.
+$FAB_016_04x05_04_QTitle
+Wie viel hatten Sie am Tag Ihrer Verhaftung getrunken?
+$FAB_016_04x05_04_00
+Wie viel hatten Sie am Tag Ihrer Verhaftung getrunken?
+$FAB_016_04x05_04_01
+Genug, um zu vergessen.
+$FAB_016_04x05_04_02
+Worüber?
+$FAB_016_04x05_04_03
+Dass ich denen, die ich liebe, Leid zugefügt habe.
+$FAB_016_04x05_04_04
+Sagen Sie das meiner Frau, und sie bringt Sie eigenhändig um.
+$FAB_016_04x05_04_05
+Ich weiß, dass sie mich hassen wird.
+$FAB_016_04x05_04_06
+Ganz Paris hasst Sie!
+$FAB_016_04x05_04_07
+Kindermörder!
+$FAB_016_04x05_04_08
+Das wollte ich nicht. Bitte, glauben Sie mir…
+$FAB_016_04x05_04_09
+Sie wissen doch, wie oft wir das schon in diesem Gericht gehört haben!
+$FAB_016_04x06_05_QTitle
+Hatten Sie vor, den Wachen, die Sie verhaften sollten, Schaden zuzufügen?
+$FAB_016_04x06_05_00
+Hatten Sie vor, den Wachen, die Sie verhaften wollten, Schaden zuzufügen?
+$FAB_016_04x06_05_01
+Natürlich nicht! Ich bin mir nicht einmal sicher, ob ich damals überhaupt wusste, was ich dachte.
+$FAB_016_04x06_05_02
+Woher wissen Sie dann, dass Sie ihnen nicht schaden wollten?
+$FAB_016_04x06_05_03
+Weil ich so nicht bin.
+$FAB_016_04x06_05_04
+Natürlich nicht, nein.
+$FAB_016_04x07_06_QTitle
+Die Ermittler behaupten, der Tod Ihrer Frau könnte mit Ihrer Neigung zu … in Zusammenhang stehen.
+$FAB_016_04x07_06_00
+Die Ermittler behaupten, der Tod Ihrer Frau könnte mit Ihrer Neigung zum Alkoholmissbrauch in Verbindung stehen.
+$FAB_016_04x07_06_01
+Ich nehme an, sie haben recht.
+$FAB_016_04x07_06_02
+Bitte erläutern Sie, was Sie meinen.
+$FAB_016_04x07_06_03
+Ich habe lange getrunken. Eher aus Genuss als aus einem anderen Grund. Meine Frau… sie konnte es kaum ertragen, ebenso wenig wie mein Sohn. Erst jetzt erkenne ich, wie schlimm es wirklich war.
+$FAB_016_04x07_06_04
+Sie meinen, ihr Herz hat das nicht verkraftet?
+$FAB_016_04x07_06_05
+Ich wäre dankbar, wenn das, was ich dem Herrn Richter im Vertrauen über meine Frau in seinem Haus erzählt habe, hier nicht zur Sprache käme…
+$FAB_016_04x07_06_06
+Dies ist nun Sache des Gerichts, und was Sie wollen, spielt hier keine Rolle.
+$FAB_016_04x07_06_07
+Ich verstehe… Nun, vielleicht hat mein Verhalten tatsächlich zu ihrem frühen Tod beigetragen, aber ich habe es nicht getan–
+$FAB_016_04x07_06_08
+Absichtlich? Ja, wir wissen schon, dass Sie andere aus Versehen töten.
+$FAB_016_06x09_07_QTitle
+Ihre Nachbarn berichten, sie hätten häufig Streitigkeiten zwischen Ihnen und Ihrem Sohn mitangehört.
+$FAB_016_06x09_07_00
+Ihre Nachbarn berichten, sie hätten oft heftige Streitigkeiten zwischen Ihnen und Ihrem Sohn mitangehört.
+$FAB_016_06x09_07_01
+Ich will es nicht leugnen. Früher gab es oft Streit zwischen uns, und das bedaure ich jetzt.
+$FAB_016_06x09_07_02
+Worum ging es dabei?
+$FAB_016_06x09_07_03
+Das Leben an sich, mich selbst, aber meistens all das Schlechte, das in mir war. Alles, wofür ein Sohn seinem Vater Vorwürfe machen kann, wenn die Mutter über ihren trunksüchtigen Ehemann weint.
+$FAB_016_08x09_08_QTitle
+Hatte die Entscheidung Ihres Sohnes, zur Armee zu gehen, in irgendeiner Weise mit Ihren Streitigkeiten zu tun?
+$FAB_016_08x09_08_00
+Stand die Entscheidung Ihres Sohnes, zur Armee zu gehen, in irgendeiner Weise im Zusammenhang mit Ihren Streitigkeiten?
+$FAB_016_08x09_08_01
+Ja, das war so. Sobald mein Sohn eigenständig und rechtmäßig entscheiden konnte, hat er es getan.
+$FAB_016_08x09_08_02
+Haben Sie ihn seitdem gesehen?
+$FAB_016_08x09_08_03
+Nein. Die erste Nachricht, die ich seitdem über ihn erhielt, war von seinem angeblichen Desertionsversuch.
+$FAB_016_KEY_01
+Tod von Frédéric
+$FAB_016_KEY_02
+Auffinden der Leiche
+$FAB_016_KEY_03
+Anonymer Hinweis
+$FAB_016_KEY_04
+Alkoholvergiftung
+$FAB_016_KEY_05
+Trunkenes Delirium
+$FAB_016_KEY_06
+Das Werfen der Karaffe
+$FAB_016_KEY_07
+Tod der Ehefrau
+$FAB_016_KEY_08
+Sohn beim Militär
+$FAB_016_KEY_09
+Streit zu Hause
+$FAB_016_LastDialog_00
+Tun Sie, was Sie tun müssen, ich werde keinen Widerstand leisten.
+$FAB_016_UNIQUE_QUESTION_00
+Wie haben die Ermittler von der Schuld des Angeklagten erfahren?
+$FAB_016_UNIQUE_ANSWER_CORRECT_00_00
+Aus einer anonymen Denunziation.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Der Angeklagte hat alles ausgeplaudert, als er betrunken war.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Der Fuhrmann war Zeuge des Geschehens.
+$FAB_016_UNIQUE_QUESTION_01
+Leidet der Angeklagte unter einer Sucht?
+$FAB_016_UNIQUE_ANSWER_CORRECT_01_00
+Er ist Alkoholiker.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Nein.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Er ist ein Spieler.
+$FAB_016_UNIQUE_QUESTION_02
+Wie haben die Mörder den Angeklagten bestochen?
+$FAB_016_UNIQUE_ANSWER_CORRECT_02_00
+Sie haben versprochen, seinen Sohn zu retten, der wegen Fahnenflucht zum Tode verurteilt wurde.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Sie boten ihm Geld an.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Sie haben ihm einen Posten im Wohlfahrtsausschuss versprochen.

@@ -1,0 +1,96 @@
+$CUT_033_001_JUDGE
+Mathilde.
+$CUT_033_002_JUDGE
+Nie rozumiem.
+$CUT_033_003_JUDGE
+Ojcze.
+$CUT_033_004_JUDGE
+Słyszysz mnie?
+$CUT_033_005_GOD
+Zawsze.
+$CUT_033_006_GOD
+Naprawiłem cię, będziesz żył. Przynajmniej do następnego razu.
+$CUT_033_007_JUDGE
+Co to za miejsce? Kim jesteś?
+$CUT_033_008_GOD
+Jestem Prawdą o twoim nieszczęściu i Kłamstwem o twojej wielkości. Leżysz tu przez jedno i drugie.
+$CUT_033_009_GOD
+Tu, gdzie wszystko się zaczęło.
+$CUT_033_010_JUDGE
+Nie rozumiem.
+$CUT_033_011_GOD
+Zreperowałem twoje uszkodzenia – jak zawsze. Będziesz żył, ale czy chcesz?
+$CUT_033_012_GOD
+Pogodzisz się ze świadomością, że to mój spektakl?
+$CUT_033_013_JUDGE
+Mathilde. Tak bardzo ją…
+$CUT_033_014_GOD
+Wiem… Ale ona ciebie nie. Od dawna.
+$CUT_033_015_GOD
+Zadbałem o to.
+$CUT_033_016_JUDGE
+Kim ty jesteś, do cholery?
+$CUT_033_017_GOD
+Prawdą przełamującą Kłamstwo, które postawiłeś sobie przed oczami, że jesteś tutaj dla władzy.
+$CUT_033_018_GOD
+Dla mnogości wyborów i zakończeń tej historii. Nie do tego cię zaprojektowałem.
+$CUT_033_019_JUDGE
+Zaprojektowałeś?
+$CUT_033_020_GOD
+Masz cierpieć, by inni mogli śmiać się lub smucić.
+$CUT_033_021_GOD
+Czuć.
+$CUT_033_022_GOD
+Jedyny prawdziwy wybór to ten teraz.
+$CUT_033_023_GOD
+Umrzeć i przestać cierpieć czy poczuć, co naprawdę oznacza bycie bohaterem?
+$CUT_033_024_JUDGE
+Jestem sędzią, a nie żadnym…
+$CUT_033_025_GOD
+Powiedz: kiedy ostatni raz w całości przeczytałeś akta sprawy?
+$CUT_033_026_GOD
+Albo wysłuchałeś wszystkiego, co ma do powiedzenia oskarżony?
+$CUT_033_027_GOD
+Potrzebuję bohatera, a nie sędziego. Ludzie chcą być bohaterami.
+$CUT_033_028_JUDGE
+Jak mógłbym? Żona chciała mnie zabić. Moja rodzina mnie nienawidzi.
+$CUT_033_029_GOD
+Walcz o ich życie.
+$CUT_033_030_JUDGE
+Połowa miasta chce mojej śmierci.
+$CUT_033_031_GOD
+Walcz o cały Paryż.
+$CUT_033_032_JUDGE
+Mój brat nadciąga z armią, której nie powstrzymamy.
+$CUT_033_033_GOD
+Bądź tarczą dla przerażonych, których nikt nie chce bronić.
+$CUT_033_034_JUDGE
+Tarczą…
+$CUT_033_035_GOD
+Mogę też otworzyć twoje rany.
+$CUT_033_036_GOD
+Nie będziesz cierpiał, już nigdy.
+$CUT_033_037_GOD
+Paryż upadnie, ale skoro cię to nie interesuje, to zastąpię cię kimś innym.
+$CUT_033_038_GOD
+Masz wybór, którego tak pragnąłeś.
+
+$CUT_033_DEATH_DEC
+Wybierz Śmierć
+$CUT_033_DEATH_DEC_001_GOD
+Szkoda. 
+$CUT_033_DEATH_DEC_002_GOD
+Włożyłem w ciebie tyle pracy. 
+$CUT_033_DEATH_DEC_003_GOD
+Dokonałeś jednak wyboru.
+
+$CUT_033_LIFE_DEC
+Wybierz Życie
+$CUT_033_LIFE_DEC_001_JUDGE
+Zaakceptują mnie?
+$CUT_033_LIFE_DEC_002_GOD
+Nie muszą, ale i tak będziesz ich bronił.
+$CUT_033_LIFE_DEC_003_GOD
+Dzięki temu staniesz się prawdziwą legendą. Docenią cię, pewnego dnia.
+$CUT_033_LIFE_DEC_004_GOD
+A teraz powstań – musisz go pokonać.

@@ -1,0 +1,209 @@
+$GEN_047_DOC_01_HEADER
+Sporządził: Charles Étienne
+$GEN_047_DOC_01_00
+	Podczas jednej z <a name="1" class="hidden">potyczek</a> na przedmieściach czterech lansjerów z oddziału wroga wpadło w ręce regimentu obywatelskiej milicji. Nasi żołnierze zastrzelili ich konie, a potem <a name="2" class="hidden">szturmowali oberżę</a>, do której kawalerzyści uciekli już na piechotę.
+$GEN_047_DOC_01_01
+	Związanych i zakneblowanych żołnierzy wroga odprowadzono do czasowego sztabu w niewielkim <a name="3" class="hidden">wiejskim gospodarstwie</a>. Nie było czasu na przesłuchania, bo ciągle trwała nasza kontrofensywa. Dlatego jeńców umieściliśmy w piwnicy na ziemniaki i postawiliśmy przed drzwiami szeregowego Victora Devalle’a, 17 lat, z regulaminowym karabinem i nabitym pistoletem na wszelki wypadek.
+$GEN_047_DOC_01_02
+	Wieczorem jeden z oficerów chciał zabrać lansjerów do sztabu głównego. Odkrył, że <a name="5" class="hidden">wartownik śpi</a> przed drzwiami, a jeden z kawalerzystów uciekł. Pozostali musieli podsadzić go do okienka i wyrwać starą, pordzewiałą kratkę. Przez tego żołnierza przeciwnik poznał lokalizację naszego sztabu polowego, a my straciliśmy jeńców.
+$GEN_047_OnStart_00
+Nazywacie się Victor Devalle?
+$GEN_047_OnStart_01
+Tak, Wysoki Sądzie.
+$GEN_047_OnStart_02
+Ile macie lat?
+$GEN_047_OnStart_03
+Siedemnaście, Wysoki Sądzie.
+$GEN_047_OnStart_04
+W moich czasach dzieci były bardziej odpowiedzialne od niego!
+$GEN_047_OnStart_05
+Od dawna służycie w armii?
+$GEN_047_OnStart_06
+Od trzech tygodni, Wysoki Sądzie.
+$GEN_047_OnStart_07
+I już zdążyliście się dopuścić zbrodni wojennej?
+$GEN_047_OnStart_08
+Wiecie, co wam grozi? Chcecie coś powiedzieć?
+$GEN_047_OnStart_09
+Tak jest. Ja nie chciałem wypuścić tego jeńca.
+$GEN_047_OnGuilty_00
+Żołnierzu, wasze lekceważące podejście do służby mogło kosztować życie wielu ludzi. Wasza egzekucja będzie przykładem dla innych.
+$GEN_047_OnGuilty_01
+Barbarzyńcy, zabiją dzieciaka, bo był niewyspany.
+$GEN_047_OnNotGuilty_00
+Wasz sen narobił nam szkód, ale lepiej dla nas będzie, jeśli zostaniesz w szeregach. Jesteś wolny, żołnierzu.
+$GEN_047_OnNotGuilty_01
+Nie powinniśmy pobłażać. To wojna.
+$GEN_047_OnNotGuilty_02
+Dobrze, żołnierz ma walczyć, a nie siedzieć w więzieniu!
+$GEN_047_OnNotGuilty_03
+Co? Przez niego cały oddział mógł zginąć!
+$GEN_047_01x05_00_QTitle
+Braliście udział w walkach tego dnia? Dlatego byliście tacy zmęczeni?
+$GEN_047_01x05_00_00
+Braliście udział w walkach tego dnia? Dlatego byliście tacy zmęczeni?
+$GEN_047_01x05_00_01
+Tylko na początku, Wysoki Sądzie, rano.
+$GEN_047_01x05_00_02
+Dlaczego?
+$GEN_047_01x05_00_03
+Moja kolumna trafiła pod ostrzał artyleryjski. Zaczęła się panika i uciekliśmy.
+$GEN_047_01x05_00_04
+Dawniej Francuzi walczyli jak mężczyźni. Co się z nami stało?
+$GEN_047_01x05_00_05
+Wy też uciekaliście, żołnierzu?
+$GEN_047_01x05_00_06
+Obok mnie kula armatnia rozerwała człowieka na pół… Ja…
+$GEN_047_01x05_00_07
+Uciekłeś, bo się bałeś?
+$GEN_047_01x05_00_08
+Bałem się, to prawda.
+$GEN_047_01x05_00_09
+Pewnie strzelać do uciekinierów też się bałeś…
+$GEN_047_01x05_00_10
+Jakbym nie spał…
+$GEN_047_01x05_00_11
+Już zamilcz, chłopcze.
+$GEN_047_03x04_01_QTitle
+Sztab znajdował się w gospodarstwie?
+$GEN_047_03x04_01_00
+Sztab znajdował się w gospodarstwie?
+$GEN_047_03x04_01_01
+To był taki stary dom, chata prawie, i trochę zabudowań: chlewik, kurnik, drewutnia.
+$GEN_047_03x04_01_02
+Jak jeniec uciekł?
+$GEN_047_03x04_01_03
+Musieli wyrwać kratkę, tam cegły ledwie się trzymały, Wysoki Sądzie. Tylko popchnąć…
+$GEN_047_03x04_01_04
+W takich domach to i drzwi same odpadają.
+$GEN_047_03x04_01_05
+Niczego nie słyszeliście?
+$GEN_047_03x04_01_06
+Nie, Wysoki Sądzie. Ja chciałem tylko zmrużyć oczy, bo rzadko miałem szansę się wyspać.
+$GEN_047_03x04_01_07
+Od paru tygodni jesteście w wojsku i już tacy zmęczeni?
+$GEN_047_03x04_01_08
+…
+$GEN_047_03x04_01_09
+Młody jest, jakby chciał, toby nie spał.
+$GEN_047_03x04_01_10
+I obudził was oficer?
+$GEN_047_03x04_01_11
+Kapitan Berryer. Chciał mnie zastrzelić na miejscu, taki był wściekły, Wysoki Sądzie.
+$GEN_047_03x04_01_12
+Przez was mógł ktoś zginąć, mogli zabrać wam broń…
+$GEN_047_03x04_01_13
+Wiem o tym, proszę pana.
+$GEN_047_02x04_02_QTitle
+W aktach napisano, że jeńcy nie poddali się bez walki.
+$GEN_047_02x04_02_00
+W aktach napisano, że jeńcy nie poddali się bez walki.
+$GEN_047_02x04_02_01
+Schowali się w jakimś domu ponoć. Poszło na bagnety.
+$GEN_047_02x04_02_02
+I wasze dowództwo umieściło ich w piwnicy i zostawiło jednego dzieciaka na straży? Co byście zrobili, gdyby oni zaczęli uciekać?
+$GEN_047_02x04_02_03
+Gdybyście oczywiście nie spali.
+$GEN_047_02x04_02_04
+Zastrzeliłbym ich.
+$GEN_047_02x04_02_05
+Jasne, przecież to jeszcze dzieciak.
+$GEN_047_02x04_02_06
+Zabiliście kiedyś człowieka?
+$GEN_047_02x04_02_07
+...
+$GEN_047_02x04_02_08
+Odpowiedzcie.
+$GEN_047_02x04_02_09
+Tak, dzień wcześniej. W walce na bagnety przebiłem jednemu z nich głowę na wylot…
+$GEN_047_05x03_03_QTitle
+Jak wielu żołnierzy było w sztabie, kiedy jeniec uciekł?
+$GEN_047_05x03_03_00
+Jak wielu żołnierzy było w sztabie, kiedy jeniec uciekł?
+$GEN_047_05x03_03_01
+Chyba ze 30, no i oficerowie, ale oni to siedzieli kawałek dalej. Piwnica była obok chlewika. Wykopali ją pod drewutnią.
+$GEN_047_05x03_03_02
+Ale byli inni wartownicy?
+$GEN_047_05x03_03_03
+Właśnie! Winnych 30, a oskarżony jeden!
+$GEN_047_05x03_03_04
+Chodzili przy płocie chyba.
+$GEN_047_05x03_03_05
+I żaden z nich nie złapał uciekiniera?
+$GEN_047_05x03_03_06
+Jak widać, nie, Wysoki Sądzie.
+$GEN_047_05x03_03_07
+Wezwać świadka.
+$GEN_047_05x03_03_09
+Proszę się przedstawić.
+$GEN_047_05x03_03_10
+Kapitan Berryer.
+$GEN_047_05x03_03_11
+Bez żadnych dodatkowych informacji?
+$GEN_047_05x03_03_12
+Nie ma na to czasu. Nieprzyjaciel naciera, a my tutaj się cackamy ze zdrajcami.
+$GEN_047_WIT_00_A_QTitle
+Uważa pan tego młodego człowieka za zdrajcę?
+$GEN_047_WIT_00_A_00
+Uważa pan tego młodego człowieka za zdrajcę?
+$GEN_047_WIT_00_A_01
+To proste – pozwolił jeńcowi uciec, przez co przeciwnik poznał…
+$GEN_047_WIT_00_A_02
+Czytałem akta.
+$GEN_047_WIT_00_A_03
+To skąd to dziwne pytanie?
+$GEN_047_WIT_00_A_04
+Nie sądzi oficer, że pańska ocena jest lekko zbyt ostra?
+$GEN_047_WIT_00_A_05
+Wojna nie zna litości. Wszyscy musimy znać cenę zwycięstwa i karę za zachowania, które szkodzą całej sprawie.
+$GEN_047_WIT_00_A_06
+On doskonale wiedział, jaka jest jego odpowiedzialność.
+$GEN_047_WIT_00_B_QTitle
+Dlaczego zostawiliście tak niedoświadczonego żołnierza na warcie?
+$GEN_047_WIT_00_B_00
+Dlaczego zostawiliście tak niedoświadczonego żołnierza na warcie?
+$GEN_047_WIT_00_B_01
+Po to by nabrał doświadczenia. Zna sąd jakieś łatwiejsze zadanie dla takiego chłopaka niż siedzenie na stołku i pilnowanie, żeby czwórka wycieńczonych, nieuzbrojonych i rannych mężczyzn nie uciekła z zamkniętego pomieszczenia?
+$GEN_047_WIT_00_B_02
+Żołnierz to żołnierz, musi się do czegoś przydać.
+$GEN_047_WIT_00_B_03
+Czy znaliście stan szeregowego w momencie wydania mu rozkazu? Mam na myśli jego skrajne wycieńczenie.
+$GEN_047_WIT_00_B_04
+Oczywiście. Dlatego on miał pilnować więźniów w bezpiecznym miejscu. Ja w tym czasie ubezpieczałem z resztą moich ludzi flankę pułkownika Courtière'a, który odpierał w tym czasie atak wrogich wojsk.
+$GEN_047_KEY_01
+Potyczka
+$GEN_047_KEY_02
+Szturm oberży
+$GEN_047_KEY_03
+Wiejskie gospodarstwo
+$GEN_047_KEY_04
+Piwnica na ziemniaki
+$GEN_047_KEY_05
+Śpiący wartownik
+$GEN_047_KEY_06
+Pordzewiała kratka
+
+
+
+$GEN_047_LastDialog_00
+Proszę, nie, nie róbcie tego! Już nigdy nie zasnę na służbie, obiecuję!
+
+$GEN_047_UNIQUE_QUESTION_00
+Czy oskarżony walczył tego dnia?
+$GEN_047_UNIQUE_ANSWER_CORRECT_00_00
+Walczył, ale jego oddział uciekł z pola.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Walczył i wykazał się bohaterstwem.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Cały dzień spędził na tyłach.
+
+$GEN_047_UNIQUE_QUESTION_01
+Jak lansjerom udało się uciec?
+$GEN_047_UNIQUE_ANSWER_CORRECT_01_00
+Wyrwali kratę w oknie.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Wyważyli drzwi.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Zrobili podkop.
+
+

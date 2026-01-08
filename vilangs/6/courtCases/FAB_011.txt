@@ -1,0 +1,196 @@
+$FAB_011_DOC_01_HEADER
+Compilado por: Fabrice Poli
+$FAB_011_DOC_01_00
+El acusado que comparecerá ahora ante nosotros es Jean-Nicolas Pache, alcalde de París, sospechoso de traición por <a name="1" class="hidden">colaboración con potencias hostiles</a>.
+$FAB_011_DOC_01_01
+Fue arrestado tras el testimonio escrito de Béatrice Caron, hija de un tonelero local, pero más conocida por sus vínculos con los corruptos Muscadins. La joven admitió ser espía austriaca y declaró que obtenía información directamente del acusado. Gracias a sus conocimientos, supuestamente logró perturbar la vida cotidiana de los parisinos. A cambio de revelar a su informante entre las autoridades de la ciudad, Caron fue expulsada de Francia bajo pena de muerte si regresaba.
+$FAB_011_DOC_01_02
+La investigación que llevé a cabo junto con el fiscal Tinville indica que el ciudadano Pache actuaba bajo las órdenes de los empleadores austriacos de Caron, y que la joven era responsable de intercambiar cartas entre ambos. No logramos encontrar pruebas concluyentes de muchos de los actos sospechosos del alcalde, pero hay un aspecto de la investigación que resulta indiscutible: la demora en la construcción del Pont de la Révolution. Las fuerzas enemigas buscaban impedirla, pues la estructura debía <a name="4" class="hidden">unir al pueblo francés</a> y convertirse en símbolo del resurgir revolucionario. Los conspiradores también podían aspirar a <a name="5" class="hidden">manchar la reputación del propio Robespierre</a>, impulsor y defensor de esta obra.
+$FAB_011_DOC_01_03
+Las pruebas de esta conspiración se hallaron en unas <a name="6" class="hidden">cartas</a> que confiscamos durante el registro de la oficina del acusado. Todas estaban firmadas únicamente con una “D”, y no hemos logrado descubrir la identidad de esa persona misteriosa. Hemos descartado la hipótesis más extendida —que se trate de Danton—, ya que es bien sabido que él y Robespierre son aliados políticos y amigos.
+$FAB_011_DOC_02_TOOLTIP
+Carta
+$FAB_011_DOC_02_00
+	Para J.-N. P.
+	Los señores del gremio de albañiles no quieren escuchar nuestros argumentos y han suspendido las obras del puente. Habrá que convencerlos por la fuerza. Hazlo, Pache: Robespierre cederá y recibirás tu pago.
+	D.
+$FAB_011_OnStart_00
+Por protocolo, por favor preséntese.
+$FAB_011_OnStart_01
+Mi nombre es Jean-Nicolas Pache y soy el alcalde de París. Quiero declarar que las acusaciones en mi contra son fruto de una conspiración orquestada por este juez.
+$FAB_011_OnStart_02
+Has tenido un atrevimiento insólito, traidor.
+$FAB_011_OnStart_03
+Pronto sabremos quién es el traidor. ¡Haz tus preguntas, Fidèle!
+$FAB_011_OnGuilty_00
+Condeno al acusado a muerte. ¡Llévenselo!
+$FAB_011_OnGuilty_01
+¡Justicia!
+$FAB_011_OnGuilty_02
+¡Eso es lo que les pasa a los traidores!
+$FAB_011_OnGuilty_03
+¡Nos veremos en el infierno, Fidèle!
+$FAB_011_OnPrison_00
+[Esto es un texto de prueba y debe ser cambiado!!!!]
+$FAB_011_OnNotGuilty_00
+El acusado es inocente. Sáquenlo de mi vista.
+$FAB_011_OnNotGuilty_01
+¡Esto es un escándalo!
+$FAB_011_01x02_00_QTitle
+¿Admite haber colaborado con una potencia extranjera?
+$FAB_011_01x02_00_00
+¿Admite haber colaborado con una potencia extranjera?
+$FAB_011_01x02_00_01
+No, no lo admito. ¡Fuiste tú quien tramó todo esto, Fidèle!
+$FAB_011_01x02_00_02
+Le pido al acusado que mantenga al menos un poco de dignidad.
+$FAB_011_01x02_00_03
+¿El alcalde ha estado bebiendo hoy? ¿Alguien le ha dado vino?
+$FAB_011_01x02_00_04
+¿Qué recibió a cambio de espiar?
+$FAB_011_01x02_00_05
+¡No recibí nada, porque no soy un espía! ¡El juez se ha inventado la absurda idea de que yo estaba detrás del atentado contra su vida, y ahora se está vengando!
+$FAB_011_01x02_00_06
+¿Qué clase de tontería es esta?
+$FAB_011_01x02_00_07
+Tengo pruebas. El testimonio de...
+$FAB_011_01x02_00_08
+¿Y dónde está la persona que firmó este dudoso documento?
+$FAB_011_01x02_00_09
+Este ciudadano ha huido…
+$FAB_011_01x02_00_10
+¿Qué? ¿La mataron? ¡Entonces no solo son traidores, sino también asesinos!
+$FAB_011_01x02_00_11
+¿De qué está hablando?
+$FAB_011_01x05_01_QTitle
+¿Querían nuestros enemigos desacreditar a Robespierre?
+$FAB_011_01x05_01_00
+¿Querían nuestros enemigos desacreditar a Robespierre?
+$FAB_011_01x05_01_01
+No tengo idea de qué podían querer. Además, sería totalmente irracional utilizarme para semejante propósito.
+$FAB_011_01x05_01_02
+¿Por qué?
+$FAB_011_01x05_01_03
+Porque tenía muy poco poder. El único vínculo entre Robespierre y yo era ese maldito puente, y que yo sepa, eso fue solo una de sus muchas iniciativas.
+$FAB_011_01x05_01_04
+Eso no prueba nada.
+$FAB_011_01x05_01_05
+Tiene sentido.
+$FAB_011_01x05_01_06
+Si hubieran querido desacreditar a Robespierre, habrían buscado a alguien más cercano a él.
+$FAB_011_01x05_01_07
+Ese argumento no resulta del todo convincente.
+$FAB_011_01x05_01_08
+¡Tanto como sus acusaciones ridículas! ¿Por qué no busca también un vínculo entre yo y Poncio Pilato? Solo está especulando.
+$FAB_011_03x04_02_QTitle
+¿Se da cuenta de cuánto daño le ha causado a la Revolución…
+$FAB_011_03x04_02_00
+¿Se da cuenta de cuánto daño ha causado a la Revolución por las complicaciones con el puente?
+$FAB_011_03x04_02_01
+En absoluto, pues el puente se habría construido de todos modos. Era plenamente consciente de la importancia de esta obra y supervisé personalmente el proyecto para asegurarme de la conducta profesional de los obreros y…
+$FAB_011_03x04_02_02
+¡Un momento! ¿La conducta profesional de los obreros? ¡Debe de ser una broma! ¿Cómo puede usted referirse de ese modo al sabotaje de la obra y al intento de quebrantar el espíritu revolucionario de los franceses?
+$FAB_011_03x04_02_03
+Por favor, ahórreme esta agitación política. Me la sé de memoria.
+$FAB_011_03x04_02_04
+¿Quizás no tenía malas intenciones?
+$FAB_011_03x04_02_05
+¡Cierra la boca y escucha a tus superiores!
+$FAB_011_03x04_02_06
+Para mí, lo más importante era asegurarme de que el puente fuera seguro. Pero el simbolismo es igual de relevante, y por eso quería evitar que se derrumbara por una mala construcción. ¡Eso sí que habría sido una catástrofe simbólica! Esa es la verdadera razón de tantas inspecciones y detenciones.
+$FAB_011_03x04_02_07
+Es bueno que se haya encargado de ello.
+$FAB_011_07x06_04_QTitle
+¿Recibía todas sus órdenes por carta?
+$FAB_011_07x06_04_00
+¿Recibía todas sus órdenes por carta?
+$FAB_011_07x06_04_01
+Basta de calumnias. Si aquí hay un traidor, está sentado frente a mí, fingiendo ser un juez justo.
+$FAB_011_07x06_04_02
+¡No soportaré esto por mucho más tiempo! ¡Testifica o irás directo a la guillotina!
+$FAB_011_07x06_04_03
+Declaro que siempre he servido a Francia, ¡y a ningún otro país!
+$FAB_011_07x06_04_04
+Entonces, ¿de dónde vienen las órdenes en esas cartas?
+$FAB_011_07x06_04_05
+No he visto ninguna carta. ¿De verdad cree que habría guardado una prueba tan evidente de mi culpabilidad si fuera un traidor?
+$FAB_011_07x06_04_06
+El acusado no solo es un traidor, sino también un necio.
+$FAB_011_07x06_04_07
+¡Y son aún más necios si no ven que alguien está fabricando pruebas y conspirando en mi contra!
+$FAB_011_KEY_01
+Colaboración con potencias enemigas
+$FAB_011_KEY_02
+Desestabilizar la vida cotidiana de los ciudadanos
+$FAB_011_KEY_03
+Retraso en la construcción del puente
+$FAB_011_KEY_04
+Un símbolo de la unidad francesa
+$FAB_011_KEY_05
+Desacreditar a Robespierre
+$FAB_011_KEY_06
+Carta misteriosa
+$FAB_011_KEY_07
+Un remitente anónimo
+$FAB_011_LastDialog_00
+¡Fidèle es el verdadero traidor!
+$FAB_011_UNIQUE_QUESTION_00
+¿Con quién compartiría el acusado información confidencial?
+$FAB_011_UNIQUE_ANSWER_CORRECT_00_00
+Con Béatrice Caron.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Con Danton.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Con su esposa.
+$FAB_011_UNIQUE_QUESTION_01
+¿Dónde se encontraron las cartas intercambiadas entre el acusado y “D”?
+$FAB_011_UNIQUE_ANSWER_CORRECT_01_00
+En su despacho.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_01_00
+En el sótano de su casa.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_01_01
+En el apartamento de Danton.
+$FAB_011_UNIQUE_QUESTION_04
+¿Cómo respondió el acusado a la acusación de colaborar con una potencia extranjera?
+$FAB_011_UNIQUE_ANSWER_CORRECT_04_00
+Asegura ser víctima de una artimaña del juez Fidèle.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_04_00
+Asegura que todo esto es una venganza de Robespierre.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_04_01
+Cree ser víctima de una conspiración de los países vecinos que buscan debilitar a Francia.
+$FAB_011_PLOT_TWIST_GUARD_01_01
+Ciudadano Fidèle, debe... hay algo que tiene que ver.
+$FAB_011_PLOT_TWIST_JUDGE_01_02
+¡Malnacido! ¡Es mi hijo!
+$FAB_011_PLOT_TWIST_MENTOR_01_02
+Alexis, intenta calmarte.
+$FAB_011_PLOT_TWIST_TINVILLE_01_03
+Ciudadano Fidèle... Hemos oído hablar de su desgracia. ¿Hay algo que podamos...
+$FAB_011_PLOT_TWIST_JUDGE_01_04
+¡Todos ustedes, cállense de una vez! Pache, ¿por qué mataste a mi hijo?
+$FAB_011_PLOT_TWIST_PASHE_01_05
+No es asunto mío. Matar niños es más bien cosa suya.
+$FAB_011_PLOT_TWIST_JUDGE_02_QTitle
+¿Por qué lo hiciste, Pache?
+$FAB_011_PLOT_TWIST_JUDGE_02_01
+¿Por qué lo hiciste, Pache?
+$FAB_011_PLOT_TWIST_PASHE_02_02
+No sé de qué se me acusa ahora.
+$FAB_011_PLOT_TWIST_JUDGE_02_03
+¡De haber matado a mi hijo!
+$FAB_011_PLOT_TWIST_PASHE_02_04
+Todo este tiempo estuve en una celda. ¿De dónde sacan que pude matar a alguien fuera de ella? Mentiras y calumnias.
+$FAB_011_PLOT_TWIST_TINVILLE_02_05
+¡Podría haber pagado a alguien para cometer el asesinato! ¡Su acusación demuestra que es capaz de hacerlo!
+$FAB_011_PLOT_TWIST_JUDGE_03_QTitle
+¿Quién mató a mi hijo, Pache?
+$FAB_011_PLOT_TWIST_JUDGE_03_01
+¿Quién mató a mi hijo, Pache?
+$FAB_011_PLOT_TWIST_PASHE_03_02
+Probablemente aquellos a quienes atacaste con tanta traición, igual que a mí. Acusas sin pruebas, calumnias. Ahora recibes tu respuesta. Yo tengo más honor que eso, por eso estoy aquí, defendiéndome en persona.
+$FAB_011_PLOT_TWIST_JUDGE_03_03
+¿Quién está detrás de esto? ¡Habla ahora mismo o irás directo al cadalso!
+$FAB_011_PLOT_TWIST_PASHE_03_04
+¿Ven? El juez me amenaza con la guillotina para su propio beneficio. ¡Esto no es un juicio, es una farsa!
+$FAB_011_PLOT_TWIST_TINVILLE_03_05
+¡Silencio, asesino de niños!

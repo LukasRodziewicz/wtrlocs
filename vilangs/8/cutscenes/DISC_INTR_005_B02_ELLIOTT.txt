@@ -1,0 +1,86 @@
+$DISC_INTR_005_B02_ELLIOTT_001_ELLIOTT
+Veio visitar a prostituta inglesa?
+$DISC_INTR_005_B02_ELLIOTT_002_ELLIOTT
+Esse é o novo apelido que me deram na prisão.
+$DISC_INTR_005_B02_ELLIOTT_003_JUDGE
+Me desculpe tanto, Grace. Os guardas não deveriam–
+$DISC_INTR_005_B02_ELLIOTT_004_ELLIOTT
+Ah, toda essa sua Revolução não deveria, mas é assim que você é.
+$DISC_INTR_005_B02_ELLIOTT_005_ELLIOTT
+Se eu sair daqui, vou cobrar o triplo de você.
+$DISC_INTR_005_B02_ELLIOTT_006_ELLIOTT
+O que você quer?
+$DISC_INTR_005_B02_ELLIOTT_007_JUDGE
+Oferecer-lhe a absolvição.
+$DISC_INTR_005_B02_ELLIOTT_008_ELLIOTT
+Já que veio oferecer isso, deve querer algo em troca. O quê?
+$DISC_INTR_005_B02_ELLIOTT_009_JUDGE
+Madame de Staël.
+$DISC_INTR_005_B02_ELLIOTT_010_ELLIOTT
+Desculpe, não sou cafetão. No momento, tudo o que posso lhe oferecer é um rato que matei ontem.
+$DISC_INTR_005_B02_ELLIOTT_011_ELLIOTT
+Ultimamente não tenho sentido muita fome.
+$DISC_INTR_005_B02_ELLIOTT_012_JUDGE
+Ainda assim, só você pode me ajudar. Pode ajudar Paris.
+$DISC_INTR_005_B02_ELLIOTT_013_ELLIOTT
+Você se lembra de quando alguém te esfaqueou no meio da rua e fui eu quem costurou seus ferimentos?
+$DISC_INTR_005_B02_ELLIOTT_014_ELLIOTT
+Ainda não te ajudei o bastante?
+$DISC_INTR_005_B02_ELLIOTT_010_JUDGE_AGGR
+Preciso alcançar aquela bruxa da de Staël! Quero vê-la no banco dos réus, e você vai providenciar provas do crime dela — sejam verdadeiras ou não.
+$DISC_INTR_005_B02_ELLIOTT_011_JUDGE_MANI
+Todo mundo pode ser acusado de alguma coisa. Quero saber o que Madame de Staël fez, ou ainda pode fazer. E quem mais eu poderia perguntar, senão a outra mulher?
+$DISC_INTR_005_B02_ELLIOTT_012_JUDGE_JOKE
+Não existe parisiense sem algo que possa ser usado contra si. Diga-me, do que poderíamos acusá-la quando for necessário? Não peço a verdade, apenas algo que soe convincente.
+$DISC_INTR_005_B02_ELLIOTT_013_JUDGE_HUMI
+Já nos ajudamos antes, vamos fazer isso de novo. Diga-me o que você tem sobre de Staël, qualquer coisa que valha a guilhotina.
+$DISC_INTR_005_B02_ELLIOTT_014_ELLIOTT_INTR
+Eu adoraria ajudar, mas não tenho nada sobre de Staël. Absolutamente nada.
+$DISC_INTR_005_B02_ELLIOTT_015_ELLIOTT_DOUB
+Duvido que encontre algo. De Staël é íntegra, por isso as mulheres a escolheram.
+$DISC_INTR_005_B02_ELLIOTT_016_ELLIOTT_IRRI
+Desta vez você pode fracassar, pois não tenho nada contra ela. Além disso, mesmo que tivesse, duvido que alguém acreditasse em sua culpa. As mulheres a veem como uma santa.
+$DISC_INTR_005_B02_ELLIOTT_017_JUDGE_AGGR
+Você deve ter alguma coisa! Não minta para mim!
+$DISC_INTR_005_B02_ELLIOTT_018_JUDGE_MANI
+Não acredito que esteja me contando toda a verdade.
+$DISC_INTR_005_B02_ELLIOTT_019_JUDGE_JOKE
+Pare de ser tão inacessível, já há grades entre nós.
+$DISC_INTR_005_B02_ELLIOTT_020_JUDGE_HUMI
+Você precisa me ajudar. Só você pode resolver essa situação.
+$DISC_INTR_005_B02_ELLIOTT_021_ELLIOTT_INTR
+Você mentiria para alcançar seu objetivo?
+$DISC_INTR_005_B02_ELLIOTT_022_ELLIOTT_DOUB
+Pode perguntar quantas vezes quiser. Não posso lhe dar o que deseja, porque não tenho isso.
+$DISC_INTR_005_B02_ELLIOTT_023_ELLIOTT_IRRI
+Não posso lhe dar algo que não existe. Você não entende o que estou dizendo?
+$DISC_INTR_005_B02_ELLIOTT_024_JUDGE_AGGR
+Talvez eu deva lhe dar um incentivo. Ajude-me, e você sairá daqui hoje mesmo.
+$DISC_INTR_005_B02_ELLIOTT_025_JUDGE_MANI
+Você realmente quer passar tantos meses a mais neste lugar? Ajude-me, e eu ajudarei você.
+$DISC_INTR_005_B02_ELLIOTT_026_JUDGE_JOKE
+Eu vou chegar até ela – com ou sem você. Mas, com a sua ajuda, perderemos menos do nosso precioso tempo. Você também deveria colaborar, pois está escolhendo entre sair daqui agora ou só depois de muitos, muitos meses. Talvez nunca.
+$DISC_INTR_005_B02_ELLIOTT_027_JUDGE_HUMI
+Só eu posso tirar você daqui, as pessoas já não se importam mais com prisioneiros políticos. Não se condene a tantos meses de prisão.
+$DISC_INTR_005_B02_ELLIOTT_028_JUDGE_AGGR
+De Staël não faz ideia de quem enfrentou! Vai se arrepender! Vai pagar como todos os outros que tentaram me apunhalar pelas costas!
+$DISC_INTR_005_B02_ELLIOTT_029_JUDGE_MANI
+Não posso permitir que ela ganhe poder às custas de nossa cidade sendo brutalmente dilacerada. Se ela não é capaz de sacrificar suas ambições numa situação dessas, então a considero uma traidora. E não aceitarei ser chantageado por uma traidora.
+$DISC_INTR_005_B02_ELLIOTT_030_JUDGE_JOKE
+De Staël vai se queimar tentando me chantagear, assim como aos que lutam pela liberdade de Paris. Embora eu adorasse vê-la arder por mais tempo.
+$DISC_INTR_005_B02_ELLIOTT_031_JUDGE_HUMI
+De Staël se aproveita da terrível situação em Paris para alcançar seus próprios objetivos políticos. Não permitirei que ela chantageie a mim e à França.
+$DISC_INTR_005_B02_ELLIOTT_032_ELLIOTT_INTR
+Já que não há provas do crime dela, eu as criarei. Deixe-me ir, e lhe darei uma acusação forte o bastante para arruinar qualquer um. Até mesmo alguém tão inocente quanto de Staël.
+$DISC_INTR_005_B02_ELLIOTT_033_ELLIOTT_DOUB
+Só vou te ajudar porque não quero morrer aqui. Vou te entregar essa prova valiosa, mas não conte que ela seja totalmente verdadeira.
+$DISC_INTR_005_B02_ELLIOTT_034_ELLIOTT_IRRI
+Ainda tenho força suficiente para ouvir minha consciência e não trair outras mulheres. Quem você pensa que eu sou? Quer me quebrar? Muitos homens antes de você tentaram o mesmo, e também falharam. Todos vocês vão fracassar. Nós, mulheres, vamos vencer!
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_01
+Me dê algo com que eu possa incriminar de Staël.
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_02
+Não acredito que de Staël seja assim tão inocente.
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_03
+Ajude-me e você será libertado.
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_04
+Não vou permitir chantagem.

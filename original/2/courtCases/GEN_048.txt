@@ -1,0 +1,158 @@
+$GEN_048_DOC_01_HEADER
+Compilé par : Charles Étienne
+$GEN_048_DOC_01_00
+	La fille de Jean et Marie Picque a péri à sa naissance. Le père a attesté avoir entendu l'enfant crier à pleine gorge. Cependant, lorsqu'il entra dans la chambre, où se trouvait son épouse, une servante et une sage-femme, sa fille ne respirait plus.
+$GEN_048_DOC_01_01
+	Le médecin sollicité par les Picque arriva le lendemain. Il remarqua des <a name="4" class="hidden">marques de strangulation</a> sur le nouveau-né et prit l'initiative d'informer la Garde. L'enquêteur n'a pas été en mesure d'interroger les parents, car ils étaient tous deux en proie à la stupéfaction et à l'accablement.
+$GEN_048_DOC_01_02
+	Nous avons relevé de nombreux signes de la naissance dans la chambre en désordre, dont des <a name="5" class="hidden">forceps</a> laissés par la sage-femme. D'après la servante, elle a quitté les lieux en toute hâte, comme si elle cherchait à s'enfuir.
+$GEN_048_DOC_01_03
+	Nous sommes parvenus à identifier la sage-femme, nommée Claudine Sessier. On dit d'elle qu'elle porte malheur quand il s'agit d'accoucher des petites filles, car la plupart d'entre elles meurent nées. Nous avons décidé de l'arrêter. Les enquêteurs ont trouvé une <a name="7" class="hidden">bible</a> sur la table de sa cuisine.
+$GEN_048_DOC_01_04
+Pièce à conviction :
+$GEN_048_DOC_01_05
+	Bible de Sessier, d'édition ancienne et en piteux état. De nombreux versets ont été soulignés au crayon.
+$GEN_048_OnStart_00
+Claudine Sessier ?
+$GEN_048_OnStart_01
+C'est moi.
+$GEN_048_OnStart_02
+As-tu étranglé l'enfant de M. et Mme Picque ?
+$GEN_048_OnStart_03
+Il fallait que je le fasse, Monsieur le juge. C'était par malheur une fille qui était née.
+$GEN_048_OnStart_04
+Brûle en enfer !
+$GEN_048_OnStart_05
+Que veux-tu dire ?
+$GEN_048_OnStart_06
+Tu es un homme, tu ne peux pas comprendre. Je veux que les femmes cessent de souffrir.
+$GEN_048_OnStart_07
+Alors pourquoi les étrangles-tu ?
+$GEN_048_OnStart_08
+Je te l'ai dit, tu ne comprendrais pas.
+$GEN_048_OnStart_09
+Elle est folle à lier !
+$GEN_048_OnGuilty_00
+Citoyenne Sessier, tu me dégoûtes au plus haut point et c'est avec un grand soulagement que je te condamne à mort.
+$GEN_048_OnGuilty_01
+Ça n'est pas assez ! Qu'on l'écartèle !
+$GEN_048_OnGuilty_02
+Je dormirai mieux en sachant qu'elle n'exerce plus son métier.
+$GEN_048_OnNotGuilty_00
+Citoyenne Sessier, je te déclare non coupable. Tu es libre de partir.
+$GEN_048_OnNotGuilty_01
+Le juge est de mèche avec cette sorcière assassine !
+$GEN_048_OnNotGuilty_02
+Qu'on guillotine le juge !
+$GEN_048_OnNotGuilty_03
+Trahison !
+$GEN_048_OnNotGuilty_04
+Si elle continue à exercer son métier, les prochaines morts te seront imputables.
+$GEN_048_02x04_00_QTitle
+L'enfant était-elle née vivante ?
+$GEN_048_02x04_00_00
+L'enfant était-elle née vivante ?
+$GEN_048_02x04_00_01
+Oui, Monsieur le juge.
+$GEN_048_02x04_00_02
+L'as-tu étranglée de tes propres mains ?
+$GEN_048_02x04_00_03
+Non, j'ai… j'ai un collier spécial. Cela serait plus rapide si je leur brisais le cou, mais je n'en ai pas la force.
+$GEN_048_02x04_00_04
+Je propose de conclure immédiatement cet interrogatoire… par une condamnation à mort.
+$GEN_048_02x04_00_05
+Pas encore. Citoyenne, comment as-tu pu commettre quelque chose d'aussi horrible ?
+$GEN_048_02x04_00_06
+Je l'ai fait pour elles, Monsieur le juge, pas pour moi. J'ai connu assez de souffrances dans ma vie et elles, elles ne les subiront pas.
+$GEN_048_01x07_01_QTitle
+Crois-tu en Dieu ?
+$GEN_048_01x07_01_00
+Crois-tu en Dieu ?
+$GEN_048_01x07_01_01
+Non, Monsieur le juge.
+$GEN_048_01x07_01_02
+Qu'en est-il alors de la bible trouvée chez toi ?
+$GEN_048_01x07_01_03
+La bible n'est pas un livre sacré, mais un recueil d'instructions pour que les hommes ruinent notre vie !
+$GEN_048_01x07_01_04
+Explique-toi.
+$GEN_048_01x07_01_05
+La Lettre aux Éphésiens dit par exemple : « Femmes, soyez soumises à vos maris comme au Seigneur Jésus, car le mari est la tête de la femme ». Les hommes entendent ça à l'église et traitent ensuite les femmes pire que des animaux !
+$GEN_048_01x07_01_06
+Mais ne fais-tu pas pire en les tuant ?
+$GEN_048_01x07_01_07
+Je les aide.
+$GEN_048_01x07_01_08
+Comment donc ?
+$GEN_048_01x07_01_09
+Comme les hommes meurent à la guerre, ils sont de moins en moins nombreux et les femmes doivent rivaliser pour eux. S'il y avait moins de femmes, les hommes se mettraient enfin à les respecter !
+$GEN_048_01x07_01_10
+Cette femme est possédée par le démon !
+$GEN_048_01x07_01_11
+Les hommes ne t'ont-ils pas respectée ?
+$GEN_048_01x07_01_12
+Mon père m'a donné un homme. Il m'a battue pendant huit ans, jusqu'au jour où il s'est aviné à en mourir.
+$GEN_048_01x07_01_13
+La Révolution lutte déjà contre les superstitions religieuses, tu n'as pas à le faire.
+$GEN_048_01x07_01_14
+Ah oui ? Vous vous battez pour la « fraternité », mais vous ne vous souciez pas de vos sœurs.
+$GEN_048_02x05_02_QTitle
+Pourquoi as-tu quitté la maison des Picque avec un tel empressement ?
+$GEN_048_02x05_02_00
+Pourquoi as-tu quitté la maison des Picque avec un tel empressement ?
+$GEN_048_02x05_02_01
+L'enfant était morte, je n'étais plus d'aucune aide.
+$GEN_048_02x05_02_02
+T'es-tu fait payer pour l'accouchement ?
+$GEN_048_02x05_02_03
+Non, je ne pouvais pas.
+$GEN_048_02x05_02_04
+Pourquoi donc ?
+$GEN_048_02x05_02_05
+…
+$GEN_048_02x05_02_06
+Je vais te reposer la question : pourquoi n'as-tu pas demandé d'argent aux Picque ?
+$GEN_048_02x05_02_07
+Cesse de me tourmenter ! Je ne l'ai pas fait pour moi. Je veux seulement que les autres femmes aient une meilleure vie que la mienne ! Si nous étions moins nombreuses que les hommes, notre cauchemar millénaire prendrait fin !
+$GEN_048_02x05_02_08
+L'entièreté de la courte vie de cette petite fille a été un cauchemar.
+$GEN_048_KEY_01
+Fille
+$GEN_048_KEY_02
+Premier cri
+$GEN_048_KEY_03
+Servante
+$GEN_048_KEY_04
+Marques de strangulation
+$GEN_048_KEY_05
+Forceps
+$GEN_048_KEY_06
+Fuite de la sage-femme
+$GEN_048_KEY_07
+Bible
+$GEN_048_LastDialog_00
+Encore un autre homme s'attaquant aux femmes ! Mort au patriarcat !
+$GEN_048_UNIQUE_QUESTION_00
+Qu'a confessé la femme au cours de l'audience ?
+$GEN_048_UNIQUE_ANSWER_CORRECT_00_00
+Son mari la battait depuis des années.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Elle a eu quatre fausses couches.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Sa mère a péri dans un incendie.
+$GEN_048_UNIQUE_QUESTION_01
+Qu'a-t-elle employé pour tuer l'enfant ?
+$GEN_048_UNIQUE_ANSWER_CORRECT_01_00
+Un collier.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ses propres mains.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Un oreiller.
+$GEN_048_UNIQUE_QUESTION_02
+La prévenue a-t-elle accepté de l'argent pour l'accouchement ?
+$GEN_048_UNIQUE_ANSWER_CORRECT_02_00
+Non, elle a refusé.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Oui, elle l'a pris.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Elle a demandé de l'argent, qui lui a été refusé.

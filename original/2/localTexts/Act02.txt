@@ -1,0 +1,54 @@
+#A02C1_D02_LETTER_MAIN
+C'est l'archevêque Jean-Baptiste Gobel qui a ordonné la mort de ton fils. Il devrait être ta prochaine cible.
+#A02C1_D02_LETTER_SENDER
+Ramel
+$LETTER_H_02_01_01_001_HEADER
+À l'attention d'Alexis Fidèle,
+$LETTER_H_02_01_01_002_MAIN
+Le Tribunal révolutionnaire fonctionne à merveille. Bien que la Convention soit satisfaite de nos méthodes pour purifier la France, la situation requiert que tu prêtes de nouveau allégeance à la République. Notre fondé de pouvoir te rendra visite demain.
+$LETTER_H_02_01_01_003_SENDER
+Ton ami, Maximilien Robespierre
+$LETTER_CO_02_01_02_MAIN
+Jean-Baptiste Gobel est responsable de la mort de ton fils.
+$LETTER_CO_02_01_02_SENDER
+Ramel
+$LETTER_H_02_01_03_001_START
+En tant que Parisien et serviteur loyal de la Révolution, je voudrais signaler anonymement que…
+$LETTER_H_02_01_03_002_P1_BASE
+Dénonciation
+$LETTER_H_02_01_03_002_P1_AGGR
+Ce prude qu'est le prêtre Gobel a naguère engrossé une fille. De ce que je sais, leur fils est maintenant adulte. Quant à Gobel, il sermonne ses ouailles sur la modération et la vertu. C'est à peine croyable, non !?
+$LETTER_H_02_01_03_003_P1_MANI
+Un pécheur se cache parmi les hiérarques : l'archevêque Gobel, qui a un enfant illégitime. La France était pourtant censée être délivrée des individus de son espèce.
+$LETTER_H_02_01_03_004_P1_JOKE
+L'archevêque Gobel a partagé la couche d'une jeune femme, qui lui a donné un fils. Il paraît qu'elle vit à Paris, mais le cul béni n'en sait rien.
+$LETTER_H_02_01_03_005_P1_HUMI
+J'ai entendu dire que l'archevêque Gobel a un fils illégitime et que la mère vit à Paris. Sans vouloir juger qui que ce soit, cela me semble tout de même inconvenant.
+$LETTER_H_02_01_03_006_P2_BASE
+Avis du dénonciateur
+$LETTER_H_02_01_03_006_P2_AGGR
+Si cela ne tenait qu'à moi, les têtes des hypocrites de cette espèce finiraient sur une pique, comme celles des défenseurs de la Bastille.
+$LETTER_H_02_01_03_007_P2_MANI
+Nous ne pouvons pas permettre à de tels individus d'envenimer notre nouvelle société après tous nos efforts pour la bâtir sur les fondations de la vérité.
+$LETTER_H_02_01_03_008_P2_JOKE
+Je ne me soucie guère de qui couche avec qui, et en quelles occasions, tant qu'on ne vient pas nous faire la morale ensuite.
+$LETTER_H_02_01_03_009_P2_HUMI
+Quelqu'un doit s'en occuper. Ces gens-là se rendent-ils donc compte combien leurs actes nuisent à notre société ?
+$INVITATION_CO_02_01_05_001_MAIN
+Cher juge, Nous tiendrons ce soir un bal dans les faubourgs de Paris. Seuls sont invités les plus brillants esprits français, ce que notre pays tient de meilleur, et nous comptons sur votre présence. Mes associés et moi voulons vous confier… quelque chose d'important. Une voiture vous attendra à la sortie du tribunal.
+$INVITATION_CO_02_01_05_001_SENDER
+Clément Renard
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_001_MAIN
+Cher Alexis, Je ne supporte plus le fardeau d'un péché que j'ai commis par mégarde. Je dois te l'avouer, Alexis… J'ai concouru à la mort du petit Frédéric. Des hommes sont venus me dire que mon fils, mon fils unique, avait été surpris en train de déserter et qu'il allait être exécuté d'un jour à l'autre. M'ayant présenté des preuves, ils me promirent qu'il serait libéré si je leur décrivais en détail les habitudes de ta famille et tes opinions. Je leur ai fourni des renseignements qui me paraissaient anodins, mais qui servirent leur funeste dessein. Ce n'est pas ce que je voulais, je n'ai jamais tué qui que ce soit. Ce sont eux les meurtriers, et pourtant la culpabilité me hante. Je ne puis continuer à vivre ainsi, en ta présence, en feignant que rien ne s'est produit. J'ose à peine espérer que tu me pardonneras un jour, que tu comprendras qu'on m'a dupé. J'ai toujours été ton ami, Fidèle. Adieu.
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_002_SENDER
+Raymond Dévoyé
+$BROTHER_ARMY_POPUP_TITLE
+Avertissement
+$BROTHER_ARMY_POPUP_MAIN_01
+L'armée de votre frère arrivera dans 4 jours.
+$BROTHER_ARMY_POPUP_MAIN_02
+L'armée de votre frère arrivera dans 3 jours.
+$BROTHER_ARMY_POPUP_MAIN_03
+L'armée de votre frère arrivera dans 2 jours.
+$BROTHER_ARMY_POPUP_MAIN_04
+L'armée de votre frère arrivera demain.

@@ -1,0 +1,26 @@
+#INFLUENCE_TIP
+Einfluss
+#INCLUENCE_TIP_SHORT
+IP
+#INFLUENCE_INCOME_TIP
+Erhöhter Einfluss
+#COST_TIP
+Kosten:
+#SUPPORT_FORMAT_TIP
+Unterstützung: {0}
+#PEOPLE_SUPPORT_TIP
+Unterstützung des einfachen Volkes
+#ARISTOCRATS_SUPPORT_TIP
+Unterstützung der Aristokraten
+#REVOLUTIONISTS_SUPPORT_TIP
+Unterstützung der Revolutionäre
+#REPUTATION_TIP
+Ruf
+#CLOSE_VIEW_TIP
+Ansicht schließen
+#START_DISCUSSION_TOOLTIP
+Überzeugen versuchen
+#OPEN_DISCUSSION_INFO
+Notizen prüfen
+#DECISION_NOT_ENOUGH_POINTS
+<color=#ff0000ff>Sie können sich diese Aktion nicht leisten.</color>

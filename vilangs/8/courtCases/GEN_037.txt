@@ -1,0 +1,246 @@
+$GEN_037_DOC_01_HEADER
+Compilado por: Charles Etienne
+$GEN_037_DOC_01_00
+Nas últimas duas semanas, três moradoras de <a name="1" class="hidden">um mesmo cortiço</a>, Blandine Couturier, Abelone Macé e Eugénie Marais, morreram. Sua trágica morte foi precedida pelos mesmos sintomas terríveis: vômito de sangue, convulsões, enxaquecas e dores musculares intensas. Os vizinhos reclamaram de várias noites sem dormir por causa dos gritos.
+$GEN_037_DOC_01_01
+Os maridos das vítimas descobriram, só depois dos fatos, que suas esposas eram clientes de uma certa Marie-Laure Thébault, que mora do outro lado da rua. Em casa, encontraram as mesmas <a name="3" class="hidden">caixinhas de pó, potes de rouge</a> e outros cosméticos suspeitos comprados de Thébault. Jean Macé levou todos eles à Guarda Nacional, junto com uma denúncia contra a viúva Thébault, a quem acusou de <a name="4" class="hidden">feitiçaria</a>.
+$GEN_037_DOC_01_02
+No bairro, ela é conhecida como uma senhora idosa e engenhosa. Aos 74 anos, ainda ganha a vida vendendo graxa, rouge e outras misturas supostamente capazes de realçar a beleza feminina. Embora raramente saísse de casa, <a name="6" class="hidden">suas clientes recomendavam seus produtos</a> às amigas, que então a procuravam.
+$GEN_037_DOC_01_03
+A idosa não ofereceu resistência quando três soldados a prenderam. Por ser <a name="7" class="hidden">deficiente visual</a>, ela não percebeu que estava falando com a Guarda Nacional, e só quando os homens a conduziram para fora do apartamento ela parou de perguntar sobre os produtos que achava que eles queriam comprar.
+$GEN_037_DOC_01_04
+Os soldados informaram os investigadores sobre os frascos suspeitos cheios de sangue e ossos que viram nas prateleiras.
+$GEN_037_DOC_02_00
+<a name="9" class="hidden">Denúncia de Jean Macé</a>:
+$GEN_037_DOC_02_01
+	Como cidadão fiel à Revolução, sinto-me na obrigação de relatar que Thébault, uma viúva que vive em nossa vizinhança, pratica feitiçaria nociva. Três cidadãos trabalhadores de Paris morreram em agonia por causa da magia e das poções dessa mulher. Todos os nossos vizinhos sabem que suas ações diabólicas foram a causa.
+	
+Jean Macé
+$GEN_037_DOC_1_TOOLTIP
+Denúncia de Jean Macé
+$GEN_037_OnStart_00
+Não sou alguém que acredita em feitiçaria. No entanto, essas mortes não me parecem naturais.
+$GEN_037_OnStart_01
+Você é Marie-Laure Thébault?
+$GEN_037_OnStart_02
+Sim, querido.
+$GEN_037_OnStart_03
+Você mora sozinha?
+$GEN_037_OnStart_04
+Meu marido nunca voltou da guerra em 1762. O antigo rei o enviou para Portugal, onde–
+$GEN_037_OnStart_05
+Você teve algum envolvimento nas mortes de Blandine Couturier, Abelone Macé e Eugénie Marais?
+$GEN_037_OnStart_06
+Eu jamais faria mal a mulheres tão boas.
+$GEN_037_OnStart_07
+Ainda assim, todos eram seus clientes, e todos estão mortos.
+$GEN_037_OnStart_08
+Ela os envenenou, assim como está envenenando todos nós!
+$GEN_037_OnGuilty_00
+Por causar a terrível e dolorosa morte de três mulheres inocentes, eu condeno Marie-Laure Thébault à guilhotina!
+$GEN_037_OnGuilty_01
+Agradeço pelo veredito justo.
+$GEN_037_OnGuilty_02
+Vamos assistir sua cabeça rolar pela calçada!
+$GEN_037_OnGuilty_03
+Deviam afogá-la nas próprias poções e deixá-la morrer em agonia!
+$GEN_037_OnPrison_00
+Marie-Laure Thébault, você passará o resto de seus dias na prisão!
+$GEN_037_OnPrison_01
+Ainda bem que ela não tem muito tempo pela frente.
+$GEN_037_OnPrison_02
+Aquela megera merece mesmo!
+$GEN_037_OnNotGuilty_00
+Marie-Laure Thébault, declaro-a inocente das acusações que lhe foram feitas. Ressalto que cidadãos de uma França esclarecida não devem se rebaixar a acusações de feitiçaria.
+$GEN_037_OnNotGuilty_01
+Ela pode não ser uma bruxa, mas não há dúvida de que foi ela quem envenenou aquelas mulheres.
+$GEN_037_OnNotGuilty_02
+Eu juro, ela é uma bruxa!
+$GEN_037_02x06_00_QTitle
+Você tem muitos clientes?
+$GEN_037_02x06_00_00
+Você tem muitos clientes?
+$GEN_037_02x06_00_01
+Agora não, querido, não. Os guardas não deixam ninguém entrar na minha cela.
+$GEN_037_02x06_00_02
+Pare de zombar do tribunal. Muitas mulheres compram seus pós?
+$GEN_037_02x06_00_03
+Se não comprassem, eu mal teria dinheiro para manteiga. Muitas mulheres vêm até mim.
+$GEN_037_02x06_00_04
+Eles já reclamaram dos seus produtos?
+$GEN_037_02x06_00_05
+Nunca, meu querido. Sempre voltavam por mais e deixavam seu dinheiro suado em minhas mãos com prazer.
+$GEN_037_02x06_00_06
+Eles realmente sempre voltavam?
+$GEN_037_02x06_00_07
+Alguns sim, outros não.
+$GEN_037_02x06_00_08
+Acredito que alguns simplesmente morreram e ninguém conseguiu descobrir o motivo.
+$GEN_037_02x06_00_09
+Ela mereceu o que aconteceu!
+$GEN_037_01x03_01_QTitle
+O que você vendeu às cidadãs Couturier, Macé e Marais?
+$GEN_037_01x03_01_00
+O que você vendeu às cidadãs Couturier, Macé e Marais?
+$GEN_037_01x03_01_01
+Um pouco de tudo. Quem é que vai lembrar dos detalhes?
+$GEN_037_01x03_01_02
+Se quer ser libertado por este tribunal, é melhor começar a se lembrar.
+$GEN_037_01x03_01_03
+Tenho certeza de que compraram pó. Toda mulher compra pó para ficar pálida como uma condessa.
+$GEN_037_01x03_01_04
+Muitas mulheres compraram?
+$GEN_037_01x03_01_05
+Ao longo dos anos, provavelmente centenas. Já quase desgastei as mãos de tanto misturar isso.
+$GEN_037_01x03_01_06
+Meu Deus, tivemos sorte de terem conseguido pegá-la.
+$GEN_037_08x04_02_QTitle
+Como exatamente você prepara seus cosméticos?
+$GEN_037_08x04_02_00
+Como exatamente você prepara seus cosméticos?
+$GEN_037_08x04_02_01
+Ah, sabe como é, de um jeito ou de outro. Minha avó me deixou um caderno grosso cheio de receitas. Pena que consigo ler cada vez menos. Acho que não li uma palavra sequer em quinze anos. Meus olhos já não são mais os mesmos.
+$GEN_037_08x04_02_02
+Então como você mistura seus produtos?
+$GEN_037_08x04_02_03
+Eu me lembro de tudo o que está escrito ali. Não preciso nem ler.
+$GEN_037_08x04_02_04
+Preciso repetir? Perguntei exatamente como você prepara seus cosméticos.
+$GEN_037_08x04_02_05
+Vou te contar como se fosse uma confissão. O segredo do pó de arroz não existe: basta misturar alvaiade com giz. O chumbo é bom, purifica. É preciso força para triturar, mas ainda dou conta. Já estou acostumada. Trabalhei a vida inteira.
+$GEN_037_08x04_02_06
+Vá direto ao ponto, por favor.
+$GEN_037_08x04_02_07
+O batom é uma mistura de cera e carmim com um toque de álcool. Ah, como ficam belos os lábios vermelhos das mulheres que o usam! O pigmento não é fácil de preparar, mas tenho meus métodos. Dá para cozinhar um lagarto ou usar o sangue de ouriço, rato ou morcego. Também é possível adicionar um pouco de enxofre para que a cor dure mais.
+$GEN_037_08x04_02_08
+Sangue de morcego e enxofre? Ela faz poções demoníacas, não cosméticos!
+$GEN_037_07x05_03_QTitle
+Os soldados relataram que você não reconheceu seus uniformes.
+$GEN_037_07x05_03_00
+Os soldados relataram que o senhor não reconheceu seus uniformes.
+$GEN_037_07x05_03_01
+Querido, mal consigo enxergar você agora.
+$GEN_037_07x05_03_02
+Como você prepara seus cosméticos se não consegue ver o que está fazendo?
+$GEN_037_07x05_03_03
+Sei as receitas de cor e reconheço os ingredientes só pelo toque.
+$GEN_037_07x05_03_04
+Em nenhum momento seus clientes reclamaram que o pó deixou seus rostos avermelhados?
+$GEN_037_07x05_03_05
+Se algo assim acontecesse, eles simplesmente procurariam outro e levariam o dinheiro junto.
+$GEN_037_07x05_03_06
+E se você tivesse colocado demais de um dos ingredientes?
+$GEN_037_07x05_03_07
+Acho que às vezes coloco mais do que deveria, mas não me importo. Não sou uma pessoa mesquinha e não economizo com minhas queridas damas, mesmo que os ingredientes não sejam baratos.
+$GEN_037_02x04_04_QTitle
+Os maridos das falecidas a acusam de bruxaria. Isso é verdade?
+$GEN_037_02x04_04_00
+Os maridos das falecidas a acusam de bruxaria. Isso é verdade?
+$GEN_037_02x04_04_01
+Eu posso até fazer o sinal da cruz na sua frente agora mesmo, meu querido!
+$GEN_037_02x04_04_02
+Dispensaremos as superstições.
+$GEN_037_02x04_04_03
+Olhe para as paredes do meu apartamento. Bem acima da mesa com meus almofarizes e pilões, há uma cruz pendurada. No tempo do rei Luís...
+$GEN_037_02x04_04_04
+Não diga uma palavra a mais, cidadã.
+$GEN_037_02x04_04_05
+Vou ficar mais quieto que um rato na igreja.
+$GEN_037_02x04_04_06
+Ora, não, prossiga. Você é monarquista, cidadão?
+$GEN_037_02x04_04_07
+Aquele rei imundo mandou meu querido marido para a guerra, para a morte. Rei ou revolução — para mim, dá no mesmo.
+$GEN_037_02x04_04_08
+Aquela velha não faz ideia do que está dizendo.
+$GEN_037_04x09_05_QTitle
+Chame a testemunha, Jean Macé.
+$GEN_037_04x09_05_00
+Chame a testemunha, Jean Macé.
+$GEN_037_04x09_05_02
+Jean Macé, viúvo da falecida Abelone Macé, monsieur le juge.
+$GEN_037_WIT_00_A_QTitle
+Sua esposa comprava cosméticos da viúva Thébault?
+$GEN_037_WIT_00_A_00
+Sua esposa comprava cosméticos da viúva Thébault?
+$GEN_037_WIT_00_A_01
+Sim, cheguei até a dar dinheiro para isso. Ela dizia que, sem o pó, sentia-se uma camponesa e tinha vergonha de sair de casa.
+$GEN_037_WIT_00_A_02
+Com base em quê o senhor acredita que sua esposa foi vítima de feitiçaria?
+$GEN_037_WIT_00_A_03
+Nossas esposas eram saudáveis. Todas deram à luz, e sem a ajuda de um médico. Eram fortes, trabalhadoras. Só pode ter sido feitiçaria.
+$GEN_037_WIT_00_A_04
+Então sua esposa nunca reclamou da saúde?
+$GEN_037_WIT_00_A_05
+Sabe, ela tinha dias bons e ruins, como todos nós. Mas nunca reclamou de nada sério!
+$GEN_037_WIT_00_A_06
+Então os problemas começaram quando ela usou os cosméticos comprados da viúva?
+$GEN_037_WIT_00_A_07
+Como se eu soubesse quando ela...
+$GEN_037_WIT_00_A_08
+Concentre-se!
+$GEN_037_WIT_00_A_09
+Sim, foi assim mesmo. Agora me lembro. Tudo começou quando ela comprou aqueles frascos.
+$GEN_037_WIT_01_A_QTitle
+Poderia explicar melhor a feitiçaria à qual se referiu?
+$GEN_037_WIT_01_A_00
+Poderia explicar melhor sobre a feitiçaria à qual se referiu?
+$GEN_037_WIT_01_A_01
+No quintal, sentia-se cheiro de enxofre. Todos vão lhe dizer isso. E uma criança viu a viúva Thébault, armada com um bastão, caçando ratos no porão e drenando-lhes o sangue.
+$GEN_037_WIT_01_A_02
+Você viu isso com seus próprios olhos?
+$GEN_037_WIT_01_A_03
+Eu não. Trabalho o dia inteiro na fábrica, montando veículos. É um trabalho pesado. E se eu não consertar uma peça direito e o veículo desabar? Mas meus vizinhos viram tudo.
+$GEN_037_WIT_01_B_QTitle
+Sua esposa vinha reclamando de dores há muito tempo?
+$GEN_037_WIT_01_B_00
+Sua esposa vinha reclamando de dor há muito tempo?
+$GEN_037_WIT_01_B_01
+Ela reclamou de dores de cabeça, acho que por um ou dois meses. Também perdeu o apetite, mas isso não é nada. Eu mesmo muitas vezes fico sem apetite depois de um dia de trabalho pesado.
+$GEN_037_WIT_01_B_02
+Diria que, tirando esses problemas, sua esposa era saudável?
+$GEN_037_WIT_01_B_03
+Tinha saúde de ferro. Um dia antes de tudo começar, ela tentou me levar para dançar. Minha Abelone adorava dançar, mas eu sempre dizia: “Hoje não, vamos na semana que vem. Mal sinto as pernas.” Eu devia... Eu devia ter ido.
+$GEN_037_KEY_01
+Vizinhos
+$GEN_037_KEY_02
+Morte longa e dolorosa
+$GEN_037_KEY_03
+Cosméticos
+$GEN_037_KEY_04
+Feitiçaria
+$GEN_037_KEY_05
+Velhice
+$GEN_037_KEY_06
+Produtos populares
+$GEN_037_KEY_07
+Visão ruim
+$GEN_037_KEY_08
+Sangue e ossos
+$GEN_037_KEY_09
+Denúncia de Jean Macé
+$GEN_037_LastDialog_00
+Para onde vocês estão me levando, rapazes?
+$GEN_037_UNIQUE_QUESTION_00
+O que as vítimas compravam da ré?
+$GEN_037_UNIQUE_ANSWER_CORRECT_00_00
+Pólvora.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Perfumes.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Sabão.
+$GEN_037_UNIQUE_QUESTION_01
+Como o réu se comportou durante a prisão?
+$GEN_037_UNIQUE_ANSWER_CORRECT_01_00
+Ela não reconheceu os uniformes.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ela atacou o guarda.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ela estava calma.
+$GEN_037_UNIQUE_QUESTION_02
+Segundo a testemunha, qual foi a causa da morte de sua esposa?
+$GEN_037_UNIQUE_ANSWER_CORRECT_02_00
+Feitiçaria.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Envenenamento.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Uma doença.

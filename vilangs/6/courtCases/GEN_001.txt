@@ -1,0 +1,348 @@
+$GEN_001_DOC_01_HEADER
+Compilado por: Raphaël Chalopin
+$GEN_001_DOC_01_00
+En el banquillo se encuentra Laurent Pascal, arrestado por actividades contrarrevolucionarias y por agredir a un gendarme, ataque que resultó mortal. El acusado es dueño de un pequeño <a name="1" class="hidden">taller de tejidos</a> donde vive solo, en la rue Popincourt de la Sección 24. Allí tuvo lugar el crimen.
+$GEN_001_DOC_01_01
+El incidente que nos ocupa tuvo lugar ayer por la tarde. Tras recibir una denuncia sobre la <a name="3" class="hidden">actividad contrarrevolucionaria</a> del ciudadano Pascal, dirigida a las autoridades legítimas de París, dos gendarmes, Cristobal Rémy y Fabrice Roux, acudieron para <a name="4" class="hidden">llevarlo</a> a declarar.
+$GEN_001_DOC_01_02
+Se dice que el ciudadano Pascal inició una acalorada discusión con los gendarmes y negó todas las acusaciones. Se comportó de manera ruidosa y vulgar, amenazando a los gendarmes <a name="5" class="hidden">con violencia</a>. Cuando intentaron arrestarlo, comenzó a forcejear y se desató una pelea, durante la cual el ciudadano Pascal estrelló la cabeza del gendarme Roux contra el marco de una puerta. El golpe fue tan fuerte que el cráneo se partió. El gendarme Rémy logró someter a Pascal e inmovilizarlo con un culatazo.
+$GEN_001_DOC_01_03
+<h1>Laurent Pascal</h1> Durante la investigación, preguntamos a los vecinos del acusado qué opinaban de él. Describieron a Pascal como una persona impulsiva, siempre dispuesta a pelear, al menos desde la muerte de su esposa. El dueño de una taberna local reveló que en los últimos meses Pascal ha sido un cliente habitual y que normalmente <a name="7" class="hidden">bebía</a> más de la cuenta.
+$GEN_001_DOC_01_04
+<a name="2" class="hidden">La esposa</a> del acusado fue decapitada la primavera pasada. Lamentablemente, no hay registros en los archivos que indiquen por qué fue sentenciada.
+$GEN_001_DOC_02_HEADER
+Testimonio de Cristóbal Rémy
+$GEN_001_DOC_02_00
+Fabrice era mi amigo. Pascal le partió la cabeza aunque Fabrice no le había hecho nada. Solo debíamos llevarlo para interrogarlo, porque había ciertas dudas sobre un testimonio que ese degenerado de Maxime <a name="8" class="hidden">retiró</a> después de la muerte de Fabrice…
+$GEN_001_DOC_03_HEADER
+Testimonio de Maxime
+$GEN_001_DOC_03_00
+Laurent Pascal es un entrometido y un soplón. Así es, denuncio a ese fisgón. Anda pegando carteles y repartiendo <a name="9" class="hidden">panfletos</a> que se burlan del ciudadano Robespierre. ¡De nuestro piadoso estadista! En uno de esos panfletos, Robespierre aparece como un pervertido y un vampiro. Lo vi anteayer: un tipo gordo vestido como Pascal. Seguro era él. Apostaría a que trama algo en esa tienducha suya. Jamás presta un franco para un vaso de vino, ese metiche. Gente así siempre tiene algo que ocultar, ¿no?
+$GEN_001_OnStart_00
+Ese hombre es un asesino, pero no podemos estar seguros de nada más.
+$GEN_001_OnStart_01
+Por favor, preséntese.
+$GEN_001_OnStart_02
+Laurent Pascal, tejedor de oficio.
+$GEN_001_OnStart_03
+Se le acusa de asesinar al gendarme Roux.
+$GEN_001_OnStart_04
+Fue un accidente.
+$GEN_001_OnStart_05
+¿¡Abrirle el cráneo fue un accidente!?
+$GEN_001_OnStart_06
+¿Entonces no se declara culpable?
+$GEN_001_OnStart_07
+Digo que fue un accidente.
+$GEN_001_OnGuilty_00
+¡Condeno al ciudadano Laurent Pascal a la guillotina! Saquen al condenado.
+$GEN_001_OnGuilty_01
+Una decisión excelente. Ahora sabrán que no deben alzarse contra la Guardia Nacional.
+$GEN_001_OnGuilty_02
+Los que están en el poder siempre se protegen entre ellos…
+$GEN_001_OnPrison_00
+¡Condeno al ciudadano Laurent Pascal a prisión! Saquen al condenado.
+$GEN_001_OnPrison_01
+Ese veredicto es sin duda demasiado indulgente. Un asesinato es un asesinato.
+$GEN_001_OnPrison_02
+Los que están en el poder siempre se protegen entre ellos…
+$GEN_001_OnNotGuilty_00
+¡Absuelvo al ciudadano Pascal de todos los cargos! Puede retirarse en libertad.
+$GEN_001_OnNotGuilty_01
+Menos mal que aún queda alguien justo en este tribunal…
+$GEN_001_OnNotGuilty_02
+Él confesó el asesinato. ¿Aún así no le basta?
+$GEN_001_01x02_00_QTitle
+¿Atiende usted su tienda personalmente?
+$GEN_001_01x02_00_00
+¿Atiende usted su tienda personalmente?
+$GEN_001_01x02_00_01
+Sí. La abrí junto a mi esposa, pero… Ahora la llevo solo.
+$GEN_001_01x02_00_02
+¿Inició usted su actividad contrarrevolucionaria cuando ella aún vivía? ¿Fue esa la razón de su condena?
+$GEN_001_01x02_00_03
+No había motivo para decapitarla.
+$GEN_001_01x02_00_04
+Pueden encarcelarte sin motivo, pero no decapitarte.
+$GEN_001_01x03_01_QTitle
+¿Está llevando a cabo actividades contrarrevolucionarias en su taller?
+$GEN_001_01x03_01_00
+¿Está llevando a cabo actividades contrarrevolucionarias en su taller?
+$GEN_001_01x03_01_01
+Por supuesto que no, eso es absurdo.
+$GEN_001_01x03_01_02
+Una denuncia de alguien llamado Maxime sugiere lo contrario.
+$GEN_001_01x03_01_03
+¿Pero no los retiró?
+$GEN_001_01x03_01_04
+Sí, pero no sabemos por qué.
+$GEN_001_01x03_01_05
+Probablemente fue presionado por otros conspiradores.
+$GEN_001_01x03_01_06
+Pueblo, escuchen, no hubo ningún complot.
+$GEN_001_01x03_01_07
+¿Estuvo usted colocando carteles en las calles de París?
+$GEN_001_01x03_01_08
+La denuncia afirmaba que lo era.
+$GEN_001_01x03_01_09
+Vuelve a revisar mi tienda, pero no encontrarás ni carteles ni panfletos allí.
+$GEN_001_02x07_02_QTitle
+Al parecer tienes problemas con el alcohol.
+$GEN_001_02x07_02_00
+Al parecer tienes problemas con el alcohol.
+$GEN_001_02x07_02_01
+¿Tiene esposa?
+$GEN_001_02x07_02_02
+¿Qué tiene eso que ver con el asunto?
+$GEN_001_02x07_02_03
+Si tuvieras que ver cómo le cortan la cabeza a tu esposa sin motivo alguno, también tendrías problemas con el alcohol.
+$GEN_001_02x07_02_04
+¡El juez tiene problemas con la bebida porque su esposa aún está viva!
+$GEN_001_02x07_02_05
+¿Se da cuenta de que el gendarme al que mató era hijo y esposo de alguien? ¿La muerte de su esposa justifica lo que hizo?
+$GEN_001_02x07_02_06
+…
+$GEN_001_02x07_02_07
+¡Asesino!
+$GEN_001_02x03_03_QTitle
+¿De qué fue condenada su esposa?
+$GEN_001_02x03_03_00
+¿Por qué fue condenada su esposa?
+$GEN_001_02x03_03_01
+Hasta el día de hoy no lo sé con certeza. Dijeron que por actividades subversivas, sea lo que sea que eso signifique.
+$GEN_001_02x03_03_02
+¿Qué contactos tenía ella?
+$GEN_001_02x03_03_03
+¿Existían vínculos?
+$GEN_001_02x03_03_04
+Su abuelo fue caballerizo al servicio del antiguo rey. Alguien la delató, igual que a mí, y con eso bastó…
+$GEN_001_02x03_03_05
+¿Recibió instrucciones y panfletos monárquicos del abuelo de su esposa?
+$GEN_001_02x03_03_06
+¡Murió hace quince años!
+$GEN_001_02x03_03_07
+¿Estuvo presente en el juicio de su esposa?
+$GEN_001_02x03_03_08
+Tuve que salir varios días para conseguir mercancía para la tienda. Pero bastó ese tiempo para que la arrestaran y la juzgaran… Nos dieron… nos dieron diez minutos para nuestra última conversación. ¿Lo entiende? ¿Diez minutos para despedirse de la mujer que amas? Y al día siguiente… la decapitaron en la plaza. La cabeza de mi amada Marie… rodando por el suelo como si fuera basura…
+$GEN_001_03x08_04_QTitle
+¿Tiene alguna idea de por qué el ciudadano Maxime retiró su denuncia?
+$GEN_001_03x08_04_00
+¿Tiene alguna idea de por qué el ciudadano Maxime retiró su denuncia?
+$GEN_001_03x08_04_01
+¿Cómo voy a saberlo? Seguramente lo hizo cuando se le pasó la borrachera.
+$GEN_001_03x08_04_02
+¿El ciudadano Maxime bebe mucho?
+$GEN_001_03x08_04_03
+Desde luego que sí. ¿Acaso sus investigadores no pudieron averiguarlo?
+$GEN_001_03x08_04_04
+Esos holgazanes inútiles.
+$GEN_001_03x08_04_05
+Quizá deberíamos plantear otra pregunta. Dime, ¿por qué lo escribió en primer lugar? Seguro que tenía un buen motivo.
+$GEN_001_03x08_04_06
+¡Maldita sea si lo sé… Aunque una vez me insultó porque me negué a comprarle vino en la taberna.
+$GEN_001_03x09_05_QTitle
+¿Tiene usted algo que ver con estos panfletos irreverentes?
+$GEN_001_03x09_05_00
+¿Tiene usted algo que ver con estos panfletos irreverentes?
+$GEN_001_03x09_05_01
+Lo único que sé de política es que fue ella quien mató a mi Marie.
+$GEN_001_03x09_05_02
+¿Es por eso que decidió convertirse en enemigo de la República?
+$GEN_001_03x09_05_03
+Eso sí que suena a un motivo.
+$GEN_001_03x09_05_04
+Probablemente buscaba venganza por su esposa. Habría hecho mejor en mantenerla bajo control.
+$GEN_001_03x09_05_05
+¿Para qué? ¿Acaso esos panfletos traerán de vuelta a mi esposa?
+$GEN_001_03x09_05_06
+Le ruego al acusado que mantenga un comportamiento adecuado.
+$GEN_001_03x09_05_07
+¿Y qué? ¿Me cortarás la cabeza por ser grosero?
+$GEN_001_03x04_06_QTitle
+Los gendarmes Roux y Rémy vinieron a visitarte…
+$GEN_001_03x04_06_00
+¿Los gendarmes Roux y Rémy vinieron a verle para llevarle a un interrogatorio, es correcto?
+$GEN_001_03x04_06_01
+¿Vinieron a visitarme? Por supuesto. Llamaron a la puerta, tomamos un té y charlamos sobre los viejos tiempos. Exactamente así fue. ¡Vamos, no diga tonterías! Golpearon la puerta como si quisieran que todo el barrio se enterara, gritando a pleno pulmón que venían a arrestarme.
+$GEN_001_03x04_06_02
+¿Qué ocurrió después?
+$GEN_001_03x04_06_03
+Por supuesto que los dejé entrar. Irrumpieron de inmediato y se abalanzaron sobre mí, intentando sujetarme como si fuera un vulgar delincuente.
+$GEN_001_03x04_06_04
+¡Así es como tratan a la gente!
+$GEN_001_03x04_06_05
+Si se hubiera dejado detener, no habrían tenido que forcejear con usted. Resistirse al arresto no le deja en buen lugar.
+$GEN_001_03x04_06_06
+¿Los gendarmes le mostraron la orden de arresto?
+$GEN_001_03x04_06_07
+Como si alguna vez hicieran eso. Ni siquiera se lo mostraron a mi Marie, solo vinieron de noche, armados, como matones.
+$GEN_001_04x05_07_QTitle
+¿Hubo una pelea esa noche?
+$GEN_001_04x05_07_00
+¿Hubo una pelea esa noche?
+$GEN_001_04x05_07_01
+Me negué a ir. Sabía que acabaría como mi esposa.
+$GEN_001_04x05_07_02
+¡Ya conocemos a esa calaña! ¡Son más brutos que un saco de piedras!
+$GEN_001_04x05_07_03
+Pero los gendarmes tenían derecho a arrestarle. No debió resistirse.
+$GEN_001_04x05_07_04
+No planeé lo que ocurrió. Cuando no permití que me sujetaran, uno de ellos me golpeó en la cara. Entonces... algo dentro de mí se rompió. No lo recuerdo bien, todo pasó tan rápido.
+$GEN_001_04x05_07_05
+Nada de esto habría ocurrido si no hubieras sido tan agresivo…
+$GEN_001_04x05_07_06
+¿Cómo murió el gendarme Roux?
+$GEN_001_04x05_07_07
+…
+$GEN_001_04x05_07_08
+¿Ciudadano Pascal?
+$GEN_001_04x05_07_09
+Estábamos forcejeando. Mi Marie seguramente también luchó… Empujé a ese gendarme, tropezó y se golpeó la cara con algo…
+$GEN_001_04x05_07_10
+El marco de la puerta.
+$GEN_001_04x05_07_11
+Sus ojos se pusieron en blanco y cayó al suelo, convulsionando. Había sangre, mucha sangre...
+$GEN_001_04x05_07_12
+Llamen al testigo, Cristóbal Rémy.
+$GEN_001_04x05_07_14
+Por motivos de protocolo, preséntese, por favor.
+$GEN_001_04x05_07_15
+Cristóbal Rémy, soldado de la Guardia Nacional.
+$GEN_001_04x07_08_QTitle
+¿Había estado bebiendo esa noche?
+$GEN_001_04x07_08_00
+¿Había estado bebiendo esa noche?
+$GEN_001_04x07_08_01
+Bebo algo cada noche.
+$GEN_001_04x07_08_02
+Hable con claridad. ¿Bebió usted esa noche?
+$GEN_001_04x07_08_03
+Sí, monsieur le juge. ¿Acaso no puedo beber vino en mi propia casa?
+$GEN_001_04x07_08_04
+¿Siempre te pones tan agresivo después de beber alcohol?
+$GEN_001_04x07_08_05
+Nunca le he hecho daño a nadie.
+$GEN_001_04x07_08_06
+Siempre hay una primera vez para todo.
+$GEN_001_05x07_09_QTitle
+La gente dice que tienes tendencia a la violencia.
+$GEN_001_05x07_09_00
+La gente dice que tienes tendencia a la violencia.
+$GEN_001_05x07_09_01
+¿Acaso hay otra salida en esta ciudad inmunda? Sé cómo quisieras llamarme: un animal, una bestia desatada que mata sin sentido. Pero, ¿conoces a la verdadera bestia? París. Esa criatura loca y sedienta de sangre.
+$GEN_001_05x07_09_02
+Delira.
+$GEN_001_05x07_09_03
+Todos tienen una elección. Miles de parisinos deciden vivir una vida en la que no son ni verdugos ni víctimas.
+$GEN_001_05x07_09_04
+Como prefiera. Yo mantengo mi opinión.
+$GEN_001_05x08_10_QTitle
+¿Tuviste algo que ver con que Maxime retirara su denuncia?
+$GEN_001_05x08_10_00
+¿Tuviste algo que ver con que Maxime retirara su denuncia?
+$GEN_001_05x08_10_01
+Sabes que estuve encerrado. ¿Qué clase de pregunta tonta es esa?
+$GEN_001_05x08_10_02
+El juez podría al menos revisar las notas.
+$GEN_001_05x08_10_03
+Participó en una conspiración monárquica. ¿Quién le ayudaba?
+$GEN_001_05x08_10_04
+¿Conspirar? Trabajaba como un burro. ¿Cuándo se supone que habría tenido tiempo para tramar algo?
+$GEN_001_WIT_00_A_QTitle
+¿Podría describir lo que ocurrió esa noche?
+$GEN_001_WIT_00_A_00
+¿Podría describir lo que ocurrió esa noche?
+$GEN_001_WIT_00_A_01
+Fuimos a la dirección indicada en la orden y llamamos a la puerta. Se suponía que sería un procedimiento rutinario, no esperábamos ninguna dificultad.
+$GEN_001_WIT_00_A_02
+¿Hiciste mucho ruido?
+$GEN_001_WIT_00_A_03
+Golpeamos la puerta con fuerza, lo admito. Grité que éramos gendarmes, pero eso no tiene nada de raro. Siempre nos anunciamos para que sepan que deben abrir la puerta.
+$GEN_001_WIT_01_A_QTitle
+¿Atacó usted al ciudadano Pascal?
+$GEN_001_WIT_01_A_00
+¿Atacó usted al ciudadano Pascal?
+$GEN_001_WIT_01_A_01
+Cuando le explicamos el motivo de nuestra visita, empezó a gritar que no iría con nosotros.
+$GEN_001_WIT_01_A_02
+¿Así que ha decidido recurrir a la fuerza?
+$GEN_001_WIT_01_A_03
+Fabrice intentó sujetarlo y sacarlo afuera, como hacemos siempre.
+$GEN_001_WIT_01_A_04
+Así que seguiste las reglas.
+$GEN_001_WIT_01_A_05
+Por supuesto.
+$GEN_001_WIT_01_A_06
+Claro, porque ellos nunca los incumplen.
+$GEN_001_WIT_01_A_07
+¿Le golpeó en la cabeza con su mosquete?
+$GEN_001_WIT_01_A_08
+Sí. Por desgracia, ya era demasiado tarde.
+$GEN_001_WIT_01_B_QTitle
+¿Qué sabe sobre la esposa del acusado?
+$GEN_001_WIT_01_B_00
+¿Qué sabe sobre la esposa del acusado?
+$GEN_001_WIT_01_B_01
+No me siento cómodo hablando de eso…
+$GEN_001_WIT_01_B_02
+Permítame recordarle que negarse a responder a mis preguntas podría costarle el puesto.
+$GEN_001_WIT_01_B_03
+Fabrice me contó una vez que intentó seducir a una mujer. La visitó cuando su esposo no estaba, pero ella no mostró interés. Así que esperó a que volviera a quedarse sola y la visitó de nuevo, pero ella volvió a rechazarlo. Entonces la arrestó por agredir a un oficial…
+$GEN_001_WIT_01_B_04
+Espera… ¿La arrestó porque no le interesaba?
+$GEN_001_WIT_01_B_05
+Así es. Él pensó que ella se asustaría de la cárcel y cambiaría de opinión. Por desgracia, le tocó un juez que no dudaba en enviar gente a la guillotina. Al principio no lo relacioné, pero cuando vi la mirada del acusado durante el arresto… comprendí lo que había sucedido.
+$GEN_001_WIT_01_B_06
+¿Así que Pascal se vengó del bastardo que mató a su esposa?
+$GEN_001_WIT_01_B_08
+¿Confirma este testimonio?
+$GEN_001_WIT_01_B_09
+Solo puedo confirmar las palabras que mi esposa me dijo tras los barrotes de su celda.
+$GEN_001_WIT_01_B_10
+Habla sin miedo.
+$GEN_001_WIT_01_B_11
+Maté a un hombre, sin querer. Que haya sido él… bueno, me alegra. Sí, puedo confirmar lo que dijo el testigo…
+$GEN_001_KEY_01
+Taller de tejidos
+$GEN_001_KEY_02
+Esposa
+$GEN_001_KEY_03
+Actividad contrarrevolucionaria
+$GEN_001_KEY_04
+Conducción para interrogatorio
+$GEN_001_KEY_05
+Carácter violento del acusado
+$GEN_001_KEY_06
+Lesiones de la víctima
+$GEN_001_KEY_07
+Alcoholismo del acusado
+$GEN_001_KEY_08
+Retiro de testimonio
+$GEN_001_KEY_09
+Panfletos difamatorios
+$GEN_001_LastDialog_00
+¿Puede darse prisa? Ya quiero reunirme con mi esposa.
+$GEN_001_UNIQUE_QUESTION_00
+¿Qué acusaciones se mencionaron en la denuncia del ciudadano Maxime?
+$GEN_001_UNIQUE_ANSWER_CORRECT_00_00
+Colgar carteles y repartir panfletos difamatorios.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Robar pan en el mercado.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Opiniones contrarrevolucionarias.
+$GEN_001_UNIQUE_QUESTION_02
+¿Se encontraba el acusado bajo los efectos del alcohol al momento de su detención?
+$GEN_001_UNIQUE_ANSWER_CORRECT_02_00
+Bebió vino.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Él bebió cerveza.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_02_01
+No, no estaba bebiendo.
+$GEN_001_UNIQUE_QUESTION_03
+¿Cómo reaccionó el acusado al ver la orden de arresto?
+$GEN_001_UNIQUE_ANSWER_CORRECT_03_00
+Nadie le mostró uno.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Negó su legitimidad.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Lo destrozó en pedazos.

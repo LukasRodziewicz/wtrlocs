@@ -1,0 +1,244 @@
+$FAB_016_DOC_1_HEADER
+Hazırlayan: Fabrice Poli
+$FAB_016_DOC_1_00
+Sanık... Buna inanmak güç, ama görevim gereği devam etmeliyim. Sanık, Devrimci Mahkeme’nin eski başkanı Raymond Dévoyé. İddiaya göre, <a name="1" class="hidden">Yargıç Alexis Fidèle’in oğlunun ölümüne</a> sebep olmakla suçlanıyor. Çocuğun bedeni, Pont de la Révolution’da <a name="2" class="hidden">asılı halde bulundu</a>.
+$FAB_016_DOC_1_01
+Dün öğleden sonra, bize <a name="3" class="hidden">anonim bir mektup</a> ulaştı; mektupta çocuğun katilinin Raymond Dévoyé’nin evinde saklandığı bildiriliyordu. Olay yerine vardığımızda, sanığı yalnız bulduk; davranışları <a name="4" class="hidden">ağır şekilde sarhoş</a> olduğunu açıkça gösteriyordu. Mektubun içeriğini sorduğumuzda gözyaşlarına boğuldu, “O suçluydu,” diye inledi ve sürekli, “Frédéric hayatta mı?” diye sordu. Bir ara <a name="6" class="hidden">şarap dolu bir sürahi</a>yi duvara fırlattı. Hapishaneye götürülürken de sürekli, “Beni affedin,” diye bağırıyordu.
+$FAB_016_DOC_1_02
+Tutuklanmasının ertesi günü, sanık hücresinde önceki akşam verdiği itirafı yinelemeyi reddetti. Bunun yerine Yurttaş Dévoyé, tüm meseleyi açıklayabilmek için Devrim Mahkemesi hakiminin huzuruna çıkarılmayı talep etti.
+$FAB_016_DOC_1_03
+Sanığın aile durumunu bilmiyordum, bu yüzden araştırmaya karar verdim. Yalnız yaşıyordu, çünkü <a name="7" class="hidden">karısı birkaç yıl önce ölmüştü</a>; doktor bunun kalp rahatsızlığından kaynaklandığını söylemişti. Fakat dedikodular, kadının sanığın sürekli alkol kullanmasından yıprandığını anlatıyor. Tek oğulları <a name="8" class="hidden">reşit olur olmaz orduya katılmış</a> ve o günden beri Paris’te kimse onu görmemiş. Komşular, baba ile oğulun sık sık birbirine karşı saldırgan davrandığını, <a name="9" class="hidden">ikisi tartışırken</a> evden sürekli bağrışmalar duyduklarını söylüyor.
+$FAB_016_OnStart_00
+Sözlerime Hakim Bey’e hitap ederek başlamak isterim–
+$FAB_016_OnStart_01
+Konuşmaya nasıl cüret edersin!
+$FAB_016_OnStart_02
+Lütfen beni dinle, sana anlatmam gereken çok şey var–
+$FAB_016_OnStart_03
+Mahkemede her şeyi itiraf edebileceksiniz. Katillere asla merhametimiz yok!
+$FAB_016_OnStart_04
+Doğru!
+$FAB_016_OnStart_05
+Bunca yılın ardından… Bana bunu nasıl yaparsın?
+$FAB_016_OnStart_06
+Öyle değil–
+$FAB_016_OnStart_07
+Kes sesini, çocuk katili!
+$FAB_016_OnGuilty_00
+Raymond Dévoyé’yi giyotine mahkûm ediyorum! Şu herifi gözümün önünden götürün.
+$FAB_016_OnGuilty_01
+Pekâlâ.
+$FAB_016_OnGuilty_02
+Çocuk katili çürüsün!
+$FAB_016_OnNotGuilty_00
+Raymond Dévoyé’yi suçsuz buluyorum…
+$FAB_016_OnNotGuilty_01
+Bu yargıcın kendi ailesine hiç saygısı yok.
+$FAB_016_OnNotGuilty_02
+Kalbinizin neden birdenbire yumuşamaya karar verdiğini anlamakta güçlük çekiyorum.
+$FAB_016_01x02_00_QTitle
+Frédéric Fidèle’in asılmasında bizzat sizin payınız var mıydı?
+$FAB_016_01x02_00_00
+Frédéric Fidèle’in asılmasında bizzat sizin payınız var mıydı?
+$FAB_016_01x02_00_01
+Hayır, Alexis, asla–
+$FAB_016_01x02_00_02
+Hakime “monsieur le juge” diye hitap edeceksiniz, adını kullanmayacaksınız.
+$FAB_016_01x02_00_03
+Bu alçak haddini aşıyor.
+$FAB_016_01x02_00_04
+Ben... yargıç bey, sizin oğlunuzu öldürmedim. Nasıl yapabilirdim ki? Siz benim tek ailemdiniz...
+$FAB_016_01x02_00_05
+Böyle bir şeyi aklınızdan bile geçirmeyin.
+$FAB_016_01x02_00_06
+Tekrar söylüyorum – onu ben öldürmedim. Doğduğundan beri tanıdığım bir çocuğu nasıl öldürebilirdim?
+$FAB_016_01x02_00_07
+Bu da tüm bu olayı daha da iğrenç kılıyor.
+$FAB_016_01x02_00_08
+Ben sadece bilgiyi ilettim. Onu ben öldürmedim!
+$FAB_016_01x03_01_QTitle
+Görünüşe göre yoldaşlarınız sizi ele vermeye karar vermiş.
+$FAB_016_01x03_01_00
+Görünüşe bakılırsa, yoldaşlarınız sizi ele vermeye karar vermiş. Tutuklanmanıza yol açan isimsiz ihbarın da mutlaka suç ortaklarınız tarafından gönderildiği aşikâr.
+$FAB_016_01x03_01_01
+Bilmiyorum, ben… Bana yaklaşan bir adam vardı, yargıcın ailesiyle ilgili bilgiye ihtiyacı vardı. Sadece bilgi istedi.
+$FAB_016_01x03_01_02
+Ve siz de onu ona öylece verdiniz, hiç şüphelenmediniz mi?
+$FAB_016_01x03_01_03
+Eh, karşılığında bir şey teklif etti…
+$FAB_016_01x03_01_04
+Yani seni parayla mı kandırdı?
+$FAB_016_01x03_01_05
+Oğlum onların elinde! Ordudan kaçmaya çalıştığı için tutuklandı ve firarın cezası bellidir.
+$FAB_016_01x03_01_06
+Yani, bu adam ona yardım edersen onu oradan çıkaracaklarını mı söyledi?
+$FAB_016_01x03_01_07
+O benim oğlum. Eskiden çok içerdim, ailenin ne kadar önemli olduğunu fark edemedim. Şimdi ise, onu kaybettiğim için içiyorum ve bu insanlar bundan faydalandı. Bana, onlara yardım etmezsem oğlumun kurşuna dizileceğini söylediler.
+$FAB_016_01x03_01_08
+Sana gelen adam kimdi?
+$FAB_016_01x03_01_09
+Gerçek adını öğrenemedim, ama hem beni hem de Yargıç Fidèle’i tanıyordu. Sağ kolu dirsekten kesilmişti.
+$FAB_016_01x05_02_QTitle
+Neden yaptınız bunu? Neden? Cevap verin!
+$FAB_016_01x05_02_00
+Neden yaptınız bunu? Neden? Cevap verin!
+$FAB_016_01x05_02_01
+Bana gelen adam, ailemden geriye ne kaldıysa geri getireceğine söz verdi.
+$FAB_016_01x05_02_02
+Yani bir hayatı başka bir hayatla mı değiştirdiniz?
+$FAB_016_01x05_02_03
+Bu adamın bu bilgiyi ne yapacağını bilemezdim. Sadece kiminle karşı karşıya olduklarını öğrenmeleri gerektiğini söyledi. Alexis Fidèle hakkında her şeyi bilmek istiyorlardı...
+$FAB_016_01x05_02_04
+Ve onlara inandınız mı?
+$FAB_016_01x05_02_05
+Evet, çünkü oğlumu çaresizce geri almak istedim… Aptallık ettim, ama sizin oğlunuzu öldürmedim.
+$FAB_016_01x05_02_06
+Evet, yaptınız ve size gelen adam kadar suçlusunuz. Adı neydi?
+$FAB_016_01x05_02_07
+Üzgünüm, gerçekten bilmiyorum. Lütfen affedin beni, yalvarırım size, sayın yargıç. Ailenize asla bilerek zarar vermezdim.
+$FAB_016_01x05_02_08
+Fark etmez. Kan, ancak kanla ödenir!
+$FAB_016_01x05_02_09
+Ağzına sağlık!
+$FAB_016_02x04_03_QTitle
+Ceset bulunduğu gün ne yapıyordunuz?
+$FAB_016_02x04_03_00
+Ceset bulunduğu gün ne yapıyordunuz?
+$FAB_016_02x04_03_01
+Bir duruşma oldu ve sonra–
+$FAB_016_02x04_03_02
+Hatırlıyoruz. Peki, sonra ne oldu?
+$FAB_016_02x04_03_03
+Olanlardan sonra anladım ki… istemeden bir trajediye sebep olmuştum. O bilgiyi ne amaçla kullanacaklarını bilseydim…
+$FAB_016_02x04_03_04
+Bu önemsiz. Her katil gibi siz de aynı cezayı hak ediyorsunuz.
+$FAB_016_02x04_03_05
+Hayır, hayır! Gerçekten… Yapamam… Siz benim için aile gibisiniz. Frédéric’in ölümü bana da en az sizin kadar acı veriyor!
+$FAB_016_02x04_03_06
+Sakın ha…!
+$FAB_016_02x04_03_07
+Bu gerçek! O günden beri bir gün bile ayık kalmadım… En son böyle olduğumda oğlumu kaybetmiştim, cepheye gitmişti. Onu bir daha asla göremeyeceğime emindim–
+$FAB_016_02x04_03_08
+Yeter artık bu duygusal gevezelik. Siz düpedüz bir katilsiniz.
+$FAB_016_02x04_03_09
+Katil!
+$FAB_016_02x04_03_10
+Hayır… Kandırıldım.
+$FAB_016_04x05_04_QTitle
+Tutuklandığınız gün ne kadar içmiştiniz?
+$FAB_016_04x05_04_00
+Tutuklandığınız gün ne kadar içmiştiniz?
+$FAB_016_04x05_04_01
+Unutmaya yeter.
+$FAB_016_04x05_04_02
+Ne hakkında?
+$FAB_016_04x05_04_03
+Sevdiklerime acı çektirdiğim gerçeği.
+$FAB_016_04x05_04_04
+Bunu bir de karıma söyle, çıplak elleriyle seni öldürür.
+$FAB_016_04x05_04_05
+Biliyorum, benden nefret edecek.
+$FAB_016_04x05_04_06
+Tüm Paris senden nefret ediyor!
+$FAB_016_04x05_04_07
+Çocuk katili!
+$FAB_016_04x05_04_08
+Bunu istememiştim. Lütfen, bana inanın…
+$FAB_016_04x05_04_09
+Bunu bu mahkemede kaç kez duyduğumuzu zaten biliyor olmalısınız!
+$FAB_016_04x06_05_QTitle
+Sizi tutuklamaya gelen Muhafızlara zarar vermek gibi bir niyetiniz var mıydı?
+$FAB_016_04x06_05_00
+Sizi tutuklamaya gelen Muhafızlara zarar vermek gibi bir niyetiniz var mıydı?
+$FAB_016_04x06_05_01
+Elbette hayır! O an ne düşündüğümü bile hatırlamıyorum.
+$FAB_016_04x06_05_02
+O halde onlara zarar vermek istemediğinizden nasıl emin olabiliyorsunuz?
+$FAB_016_04x06_05_03
+Çünkü ben öyle biri değilim.
+$FAB_016_04x06_05_04
+Elbette hayır.
+$FAB_016_04x07_06_QTitle
+Soruşturmacılar, eşinizin ölümünün sizin eğiliminizle bağlantılı olabileceğini söylüyor…
+$FAB_016_04x07_06_00
+Soruşturmacılar, eşinizin ölümünün alkol kullanma eğiliminizle bağlantılı olabileceğini söylüyor.
+$FAB_016_04x07_06_01
+Sanırım haklılar.
+$FAB_016_04x07_06_02
+Ne demek istediğinizi açıkça belirtin.
+$FAB_016_04x07_06_03
+Uzun süre içki içtim. Daha çok keyif için, başka bir sebep yoktu. Karım… neredeyse katlanamıyordu buna, oğlum da öyle. Ne kadar kötü olduğunu ancak şimdi görebiliyorum.
+$FAB_016_04x07_06_04
+Yani, kalbi buna dayanamadı mı diyorsunuz?
+$FAB_016_04x07_06_05
+Sayın yargıca evinde özel olarak eşimle ilgili verdiğim bilgilerin burada konuşulmamasını isterim…
+$FAB_016_04x07_06_06
+Artık bu mahkemenin meselesi ve sizin ne istediğinizin burada hiçbir önemi yok.
+$FAB_016_04x07_06_07
+Anlıyorum... Belki davranışlarım onun zamansız ölümüne katkıda bulunmuş olabilir, ama bunu ben yapmadım–
+$FAB_016_04x07_06_08
+Kasten mi? Evet, başkalarını kazara öldürdüğünüzü zaten biliyoruz.
+$FAB_016_06x09_07_QTitle
+Komşularınız, sizinle oğlunuz arasında sık sık tartışmalar duyduklarını söylüyorlar.
+$FAB_016_06x09_07_00
+Komşularınız, sizinle oğlunuz arasında sık sık tartışmalar duyduklarını söylüyorlar.
+$FAB_016_06x09_07_01
+Bunu inkâr etmeyeceğim. Geçmişte sıkça tartışmalarımız oldu, şimdi ise pişmanım.
+$FAB_016_06x09_07_02
+Ne hakkındalardı?
+$FAB_016_06x09_07_03
+Hayatın kendisi, ben, ama genelde bende kötü olan her şey. Bir oğlun, annesi sarhoş kocasına ağladıktan sonra babasını suçlayabileceği her şey.
+$FAB_016_08x09_08_QTitle
+Oğlunuzun orduya katılma kararı, sizin tartışmalarınızla bir şekilde bağlantılı mıydı?
+$FAB_016_08x09_08_00
+Oğlunuzun orduya katılma kararı, sizin aranızdaki tartışmalarla bir şekilde bağlantılı mıydı?
+$FAB_016_08x09_08_01
+Evet, öyleydi. Oğlum kendi başına ve yasal olarak karar verebildiği anda, bunu yaptı.
+$FAB_016_08x09_08_02
+O zamandan beri onu gördün mü?
+$FAB_016_08x09_08_03
+Hayır. Ondan aldığım ilk haber, firar etmeye kalkıştığıydı.
+$FAB_016_KEY_01
+Frédéric’in Ölümü
+$FAB_016_KEY_02
+Cesedin bulunması
+$FAB_016_KEY_03
+Anonim ihbar
+$FAB_016_KEY_04
+Alkol zehirlenmesi
+$FAB_016_KEY_05
+Sarhoş hezeyanları
+$FAB_016_KEY_06
+Karafı fırlatmak
+$FAB_016_KEY_07
+Eşin ölümü
+$FAB_016_KEY_08
+Oğul orduda
+$FAB_016_KEY_09
+Evdeki kavgalar
+$FAB_016_LastDialog_00
+Ne yapmanız gerekiyorsa yapın, size karşı koymayacağım.
+$FAB_016_UNIQUE_QUESTION_00
+Soruşturmacılar sanığın suçunu nasıl öğrendi?
+$FAB_016_UNIQUE_ANSWER_CORRECT_00_00
+İsimsiz bir ihbardan.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Sanık, sarhoşken her şeyi anlattı.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Olayı arabacı gördü.
+$FAB_016_UNIQUE_QUESTION_01
+Sanık herhangi bir bağımlılıktan muzdarip mi?
+$FAB_016_UNIQUE_ANSWER_CORRECT_01_00
+O bir alkolik.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Hayır.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_01_01
+O bir kumarbaz.
+$FAB_016_UNIQUE_QUESTION_02
+Katilleri, sanığı nasıl rüşvetle kandırdı?
+$FAB_016_UNIQUE_ANSWER_CORRECT_02_00
+Oğlunu kurtaracaklarına söz verdiler; oğlan firar suçundan idama mahkûm edilmişti.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ona para teklif ettiler.
+$FAB_016_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Ona Kamu Güvenliği Komitesi'nde bir makam vaat ettiler.

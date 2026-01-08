@@ -1,0 +1,208 @@
+$GEN_018_DOC_01_HEADER
+Hazırlayan: Olivier Clementine
+$GEN_018_DOC_01_00
+Sanık Antoine Barnave, 32 yaşında bir siyasetçi ve <a name="1" class="hidden">ünlü bir hatip</a>. Parisliler onu, anayasal monarşiyi savunan ateşli konuşmasıyla hatırlıyor. Cumhuriyetin azılı bir düşmanı ve Kral’ın koruyucusu olarak bilinir. Siyasi çabalarının sonuçsuz kaldığını görünce Ulusal Muhafızlara katıldı.
+$GEN_018_DOC_01_01
+1791 yılında, meşhur Varennes kaçışı sırasında Capet ailesi Muhafızlar tarafından yakalandı. Antoine Barnave ve iki asker, kaçakları Paris’e <a name="3" class="hidden">eşlik etmekle</a> görevlendirildi.
+$GEN_018_DOC_01_02
+Barnave, <a name="4" class="hidden">Marie Antoinette</a> ile tanıştığında ona tamamen <a name="5" class="hidden">büyülenmişti</a>. Aralarında, muhtemelen cinsel bir ilişki gelişti. Sonrasında sık sık birbirlerine mektup yazdılar. Marie Antoinette, mektuplarında sıkça mutlak monarşinin ayakta kalacağına dair umutlarını dile getiriyordu.
+$GEN_018_DOC_01_03
+Kısa bir süre sonra Barnave, Capetlere yardım etmek ve Devrimcilerin Vatandaş Capet ile Marie Antoinette’e karşı radikal tutumunu yumuşatmak umuduyla Jakobenlere katıldı. Ancak çabaları sonuçsuz kaldı.
+$GEN_018_DOC_01_04
+<a name="6" class="hidden">Monarşiye duyduğu sempati</a> ve Capet ailesine, özellikle de Marie Antoinette’e olan yakınlığı nedeniyle sürekli gözetim altındaydı. Şimdi ise ona karşı bir iddianame hazırlayacak kadar delil toplamayı başardık.
+$GEN_018_DOC_01_05
+Delillerden biri, Marie Antoinette ile olan yazışmaları; bu da onun Karşı-Devrimci eğilimlerini açıkça ortaya koyuyor. Antoine Barnave, Devrim’in diğer tüm düşmanları gibi cezalandırılmalı!
+$GEN_018_DOC_01_06
+Delil: <a name="8" class="hidden">Mektuplar</a> Barnave’ın Marie Antoinette’e yazdığı.
+$GEN_018_DOC_02_00
+Majesteleri! Eminim ki ortak çabalarımız, Fransa halkını Monarşiyi korumaya ikna edecektir. Sizin bilgelik ve nezaketinizin kaybı, devletin göze alabileceği kadar hafif bir darbe olmazdı. Saygılarımla, Antoine
+$GEN_018_OnStart_00
+Marie Antoinette’e âşık olmuş!
+$GEN_018_OnStart_01
+Bay Antoine Barnave siz misiniz?
+$GEN_018_OnStart_02
+Benim.
+$GEN_018_OnStart_03
+Siz ve metresiniz Marie Antoinette, Fransa'ya karşı komplo mu kurdunuz?
+$GEN_018_OnStart_04
+Sorunuzda o kadar çok yalan var ki, hangisini önce yalanlayacağımı bilemiyorum.
+$GEN_018_OnStart_05
+Kendini süslü sözlerle savunmaya çalışıyor.
+$GEN_018_OnStart_06
+Yani suçunuzu kabul etmiyor musunuz?
+$GEN_018_OnStart_07
+Elbette hayır.
+$GEN_018_OnGuilty_00
+Başka sorum yok, teşekkür ederim.
+$GEN_018_OnGuilty_01
+Vatandaş Antoine Barnave’ı giyotinle ölüme mahkûm ediyorum.
+$GEN_018_OnGuilty_02
+Adalet sonunda yerini buldu!
+$GEN_018_OnGuilty_03
+Her mahkeme böyle işlemeli. Hızlı ve cesur!
+$GEN_018_OnPrison_00
+Başka sorum yok, teşekkür ederim.
+$GEN_018_OnPrison_01
+Antoine Barnave’ı hapse mahkûm ediyorum! Mahkûmu götürün ve hücreye kapatın.
+$GEN_018_OnPrison_02
+Umarım orada geçireceği zaman kolay olmaz.
+$GEN_018_OnPrison_03
+Şansı yaver gitti!
+$GEN_018_OnPrison_04
+Devlet düşmanlarına nasıl bu kadar hoşgörülü olabiliyorsun?!
+$GEN_018_OnNotGuilty_00
+Başka sorum yok, teşekkür ederim.
+$GEN_018_OnNotGuilty_01
+Antoine Barnave’ın davranışlarında suç unsuru görmüyorum. Cumhuriyet’te herkesin kendi siyasi görüşüne sahip olma hakkı vardır.
+$GEN_018_OnNotGuilty_02
+Devrime hizmet ediyor musunuz, etmiyor musunuz?
+$GEN_018_OnNotGuilty_03
+O yargıç yakında koltuğunu kaybedecek!
+$GEN_018_OnNotGuilty_04
+Saçmalık!
+$GEN_018_OnNotGuilty_05
+O burada ne arıyor ki?!
+$GEN_018_01x02_00_QTitle
+Daha dün parlak bir kariyerin eşiğindeydin. O meşhur konuşmanı hâlâ hatırlıyorum…
+$GEN_018_01x02_00_00
+Daha düne kadar parlak bir kariyerin eşiğindeydiniz. Vatandaş Capet’i savunduğunuz o ünlü konuşmanızı hâlâ hatırlıyorum. Karizmanız sizi zirveye taşıyabilirdi, ama şimdi buradasınız. Hiç pişmanlık duymuyor musunuz?
+$GEN_018_01x02_00_01
+O konuşma Devrim’e karşı değildi! Sadece sağduyuya seslenmek istedim.
+$GEN_018_01x02_00_02
+Birçok kişi o konuşmayı, Fransa’da 14 Temmuz’da başlayan her şeye bir saldırı olarak hatırlıyor.
+$GEN_018_01x02_00_03
+Saçmalık, değişiklikler hayatiydi. Anayasal monarşi, eski düzene karşı makul bir alternatiftir.
+$GEN_018_01x02_00_04
+Yani sizce, Fransa’ya felaket getiren insanlar saraylarda yaşamaya devam etmeli mi?
+$GEN_018_01x02_00_05
+Sadece soylarından dolayı giyotine gönderilmeleri gerektiğini düşünmüyorum.
+$GEN_018_03x04_01_QTitle
+Kaçak kraliyet ailesini Paris’e geri götürdünüz.
+$GEN_018_03x04_01_00
+Kaçak kraliyet ailesini Paris’e kadar eşlik ettiniz. Yeni dostlarınızı kendi çıkarınız için kullanma fırsatı gördünüz mü?
+$GEN_018_03x04_01_01
+Kesinlikle hayır! Kovalanan, korkmuş insanları gördüm ve onlar için araya girmeye karar verdim.
+$GEN_018_03x04_01_02
+Onlar bizi eziyet ederken sen neredeydin?
+$GEN_018_03x04_01_03
+Belki de sizi Marie Antoinette’e duyduğunuz arzu yönlendirdi? Koşullar pek romantik sayılmazdı ama… kim bilir…
+$GEN_018_03x04_01_04
+Bu, davayla hiçbir ilgisi olmayan gereksiz ve asılsız bir ithamdır.
+$GEN_018_03x04_01_05
+Acaba Capet onları izlemeyi sever miydi…
+$GEN_018_06x07_02_QTitle
+Devrim arifesinde monarşistleri açıkça desteklemekten hiç korkmadınız mı?
+$GEN_018_06x07_02_00
+Devrim arifesinde kralları açıkça desteklemekten hiç korkmadınız mı? Bu, vatana ihanet olarak görülebilirdi.
+$GEN_018_06x07_02_01
+Genç ve idealist olabilirim, ama hain değilim!
+$GEN_018_06x07_02_02
+Eğer bu doğru olsaydı, şimdi doğru tarafta duruyor olurdunuz.
+$GEN_018_06x07_02_03
+Bu ülkeyi seviyorum ve Devrimcilerin uğruna savaştığı Cumhuriyet’in bir panzehir olmadığından eminim.
+$GEN_018_06x07_02_04
+Cumhuriyet’e karşı çıkarsan, Fransa’ya karşı çıkmış olursun!
+$GEN_018_02x08_03_QTitle
+Görünüşe göre Marie Antoinette’e yazdığınız mektuplarda onu ikna etmeye çalışmışsınız…
+$GEN_018_02x08_03_00
+Görünüşe göre Marie Antoinette’e yazdığınız mektuplarda onu ve eşini Devrimi desteklemeye ikna etmeye çalışmışsınız. Bundan ne çıkarınız olacaktı?
+$GEN_018_02x08_03_01
+Şu an karşı karşıya olduğumuz dehşeti önleyeceğimize inanmıştım.
+$GEN_018_02x08_03_02
+Sizce ülkemizde neden bir terör hüküm sürüyor?
+$GEN_018_02x08_03_03
+Aksi takdirde şimdi burada olmazdım.
+$GEN_018_02x08_03_04
+Orada olmanın sebebi, kraliyetçi bir domuz olman!
+$GEN_018_02x08_03_05
+Capetler anayasayla ilgilenmiyor muydu?
+$GEN_018_02x08_03_06
+Ne yazık ki hayır.
+$GEN_018_02x08_03_07
+Peki, bundan sizin ne çıkarınız olurdu?
+$GEN_018_02x08_03_08
+Ben sadece ülkem için en iyisini istedim.
+$GEN_018_01x03_04_QTitle
+Muhafızlar neden Capet’leri korumak için sizi seçti?
+$GEN_018_01x03_04_00
+Muhafızlar neden Capet’leri eskort etmek için sizi seçti?
+$GEN_018_01x03_04_01
+Muhafızlarda emre itaat edilir, sorgulanmaz. Bana bir görev verdiler, ben de yerine getirdim.
+$GEN_018_01x03_04_02
+Yani bunu siz talep etmediniz mi?
+$GEN_018_01x03_04_03
+Nasıl yapabilirdim ki? Vatandaş Capet’nin kaçışını ancak bana emir verildiğinde öğrendim.
+$GEN_018_01x03_04_04
+Ama bundan faydalanmadınız mı?
+$GEN_018_01x03_04_05
+Bulunduğum yeri düşününce, pek öyle düşünmüyorum.
+$GEN_018_05x04_05_QTitle
+Marie Antoinette’le ilk karşılaştığınızda sizi bu kadar etkilemesinin sebebi neydi?
+$GEN_018_05x04_05_00
+Marie Antoinette’le ilk karşılaştığınızda sizi bu kadar etkilemesinin sebebi neydi?
+$GEN_018_05x04_05_01
+O, son derece zarif ve görgülü bir kadın. Bunu görmemek için kör olmak gerekirdi.
+$GEN_018_05x04_05_02
+Ona çocuk gibi vuruldu!
+$GEN_018_05x04_05_03
+Gerçekten mi?
+$GEN_018_05x04_05_04
+Marie Antoinette evli bir kadındı ve ben de namuslu bir adamım. Sonuçlara kendiniz varabilirsiniz.
+$GEN_018_05x04_05_05
+Duyduğuma göre, evlilik yüzüğüne pek değer vermiyormuş.
+$GEN_018_05x04_05_06
+Ve dedikoduların en güvenilir bilgi kaynağı olmadığının farkında mısınız?
+$GEN_018_05x08_06_QTitle
+Marie Antoinette’a yazdığınız mektuplarda ona duygularınızı hiç açıkladınız mı?
+$GEN_018_05x08_06_00
+Marie Antoinette’a yazdığınız mektuplarda ona duygularınızı hiç açıkladınız mı?
+$GEN_018_05x08_06_01
+Mektuplarımızı dikkatlice okumadınız mı? Fransa Kraliçesi’ne asla kur yapmaya cesaret edemezdim!
+$GEN_018_05x08_06_02
+Onun bilgeliğinden ve nezaketinden bahsetmişsiniz. Sanki ona iltifat ediyormuşsunuz gibi görünüyor.
+$GEN_018_05x08_06_03
+Bunlar sadece nezaket sözleriydi.
+$GEN_018_05x08_06_04
+Belki de o adamı baştan çıkarmaya çalışıyordu? O Avusturyalı fahişe doymak bilmiyordu.
+$GEN_018_KEY_01
+Ünlü hatip
+$GEN_018_KEY_02
+Monarşinin yeniden tesisi
+$GEN_018_KEY_03
+Vatandaş Capet'e refakat
+$GEN_018_KEY_04
+Marie Antoinette
+$GEN_018_KEY_05
+Kraliçe’ye Duyulan Hayranlık
+$GEN_018_KEY_06
+Monarşilere sempati
+$GEN_018_KEY_07
+Karşı-devrimci eğilimler
+$GEN_018_KEY_08
+Marie Antoinette’e Yazılmış Mektuplar
+$GEN_018_LastDialog_00
+Kral’ın Fransa’yla bir tutulduğu zamanlarda görevimi yerine getirdim, Fransa ise bana böyle karşılık veriyor…
+$GEN_018_UNIQUE_QUESTION_00
+Vatandaş Barnave’a göre Fransa’da nasıl bir yönetim olmalı?
+$GEN_018_UNIQUE_ANSWER_CORRECT_00_00
+Meşruti monarşi.
+$GEN_018_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Demokrasi.
+$GEN_018_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Anarşi.
+$GEN_018_UNIQUE_QUESTION_01
+Kraliçenin hangi erdemleri sanığı büyüledi?
+$GEN_018_UNIQUE_ANSWER_CORRECT_01_00
+Onun kültürü ve görgüsü.
+$GEN_018_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Güzelliği ve zarafeti.
+$GEN_018_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Onun yeteneği ve eğitimi.
+$GEN_018_UNIQUE_QUESTION_02
+Sanık, Vatandaş Capet’in kaçışını nasıl öğrendi?
+$GEN_018_UNIQUE_ANSWER_CORRECT_02_00
+Bir emirden.
+$GEN_018_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Marie Antoinette’in ona yazdığı bir mektuptan.
+$GEN_018_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Hizmetçilerden birinin konuşmasını gizlice dinlemiş.

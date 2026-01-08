@@ -1,0 +1,65 @@
+$DISC_INTR_004_B03_TINVILLE_001_JUDGE
+Danton jest gotów zrezygnować ze stanowiska w każdej chwili.
+$DISC_INTR_004_B03_TINVILLE_002_TINVILLE
+To wszystko dzieje się dziwnie szybko.
+$DISC_INTR_004_B03_TINVILLE_003_JUDGE
+Bo się tego nie spodziewałeś – dla osoby stojącej z boku to oczywisty awans, na który zapracowałeś.
+$DISC_INTR_004_B03_TINVILLE_004_TINVILLE
+Albo oczywista pułapka.
+
+$DISC_INTR_004_B03_TINVILLE_005_JUDGE_AGGR
+Przysięgałeś bronić zasad i praw rewolucji – tak samo jak ja. Wypełnij przysięgę!
+$DISC_INTR_004_B03_TINVILLE_006_JUDGE_MANI
+Jeśli nie zdecydujesz się nam pomóc, to na twoje sumienie spadną konsekwencje. Będziesz winny nie mniej niż Robespierre!
+$DISC_INTR_004_B03_TINVILLE_007_JUDGE_JOKE
+Wydaje mi się, że nie mógłbyś żyć z przekonaniem, że ktoś inny odwala twoją robotę. Na przykład ja – już i tak to robię w sądzie.
+$DISC_INTR_004_B03_TINVILLE_008_JUDGE_HUMI
+Sytuacja w mieście wymknęła się spod kontroli. Nie mamy do kogo zwrócić się o pomoc.
+$DISC_INTR_004_B03_TINVILLE_009_TINVILLE_INTR
+Takie postawienie sprawy mi schlebia.
+$DISC_INTR_004_B03_TINVILLE_010_TINVILLE_DOUB
+Nie wydaje mi się, żebym był odpowiednią osobą do ratowania reputacji Komisji Ocalenia Publicznego. Są lepsi, bardziej doświadczeni ode mnie.
+$DISC_INTR_004_B03_TINVILLE_011_TINVILLE_IRRI
+Nie wciskaj mi takich opowieści. Z całego miasta, z tych wszystkich mężów rewolucji ja, szeregowy oskarżyciel, miałbym uratować Paryż?
+
+$DISC_INTR_004_B03_TINVILLE_012_JUDGE_AGGR
+Może wcale nie jesteś tak silny jak niegdyś Robespierre albo Danton? Oni zdobyli władzę, przeciwstawiając się większym od siebie.
+$DISC_INTR_004_B03_TINVILLE_013_JUDGE_MANI
+Jeśli marzyłeś o karierze, to jak mógłbyś przepuścić taką okazję? Robespierre na twoim miejscu by się nie wahał.
+$DISC_INTR_004_B03_TINVILLE_014_JUDGE_JOKE
+Skoro Robespierre wspiął się na szczyty władzy, to tym bardziej tobie się to uda. Nie ustępujesz mu w niczym.
+$DISC_INTR_004_B03_TINVILLE_015_JUDGE_HUMI
+Masz szansę dołączyć do panteonu wielkich postaci rewolucji. Teraz i na zawsze. Chwyć tę okazję, jak kiedyś chwycił ją Danton.
+
+$DISC_INTR_004_B03_TINVILLE_016_JUDGE_AGGR
+Jeśli ty stchórzysz, to kto ma wziąć na siebie ten ciężar? Danton odchodzi, a ludzie ze strachu staną po stronie Robespierre’a. Potrzeba im świeżego przykładu, nowego przywódcy!
+$DISC_INTR_004_B03_TINVILLE_017_JUDGE_MANI
+Komitet wymaga nadzoru, potrzebuje przejrzystości i smyczy sprawiedliwości. Kogo innego można delegować do takiego zadania?
+$DISC_INTR_004_B03_TINVILLE_018_JUDGE_JOKE
+Kogo mamy wybrać zamiast ciebie? Tego szaleńca Marata? Może mój syn się nada?
+$DISC_INTR_004_B03_TINVILLE_019_JUDGE_HUMI
+Błagam cię, zrozum to. Nie potrzeba nam ministrów od finansów czy wojny. Lud na gwałt potrzebuje kogoś, kto im pokaże, że sprawiedliwość dalej rządzi w Republice.
+
+$DISC_INTR_004_B03_TINVILLE_020_JUDGE_AGGR
+Nie waż się odwracać do mnie plecami. Zbyt dużo wysiłku włożyłem, żeby przekonać Dantona i Héberta, te dwa kłótliwe koguciki, by ze sobą współpracowali i udzielili ci poparcia!
+$DISC_INTR_004_B03_TINVILLE_021_JUDGE_MANI
+Danton i Hébert uznali, że jesteś najlepszym kandydatem. Zapytali mnie, a ja potwierdziłem. Masz dzięki temu ogromny kapitał poparcia. To jest twoja życiowa chwila.
+$DISC_INTR_004_B03_TINVILLE_022_JUDGE_JOKE
+Danton i Hébert mają już dość przewodzenia. Chcą świeżej krwi u sterów odnowy. Miejsce jest wolne i widzą cię na nim. Ja również.
+$DISC_INTR_004_B03_TINVILLE_023_JUDGE_HUMI
+Usłysz głos umęczonej Francji, która potrzebuje drugiego oddechu. Danton, Hébert i ja to rozumiemy i chcemy jej go podarować. Zgódź się i naprostuj sytuację.
+$DISC_INTR_004_B03_TINVILLE_024_TINVILLE_INTR
+W porządku, przemyślę temat i dam ci odpowiedź jutro w sądzie.
+$DISC_INTR_004_B03_TINVILLE_025_TINVILLE_DOUB
+Muszę to przemyśleć, nie wszystko jest dla mnie jasne po tej rozmowie.
+$DISC_INTR_004_B03_TINVILLE_026_TINVILLE_IRRI
+Sądzę, że chcesz mnie w coś wrobić, wystawić Robespierre’owi. Coś masz za uszami, jak zawsze.
+
+$DISC_INTR_004_B03_TINVILLE_TOPIC_01
+Musisz nam pomóc opanować sytuację.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_02
+Wielcy przed tobą tak zdobywali władzę.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_03
+Nadajesz się do tego jak mało kto.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_04
+Masz nasze poparcie.

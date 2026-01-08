@@ -1,0 +1,160 @@
+$FAB_021_DOC_01_HEADER
+Zusammengestellt von: Fabrice Poli
+$FAB_021_DOC_01_00
+Die Angeklagte ist… Nun, Sie kennen sie sehr gut, Monsieur le Juge, und Sie wissen am besten, was ihr vorgeworfen wird, doch als gewissenhafter Protokollführer werde ich der Vollständigkeit halber fortfahren. Ihr wird versuchter Mord zur Last gelegt.
+$FAB_021_DOC_01_01
+Gestern stach Mathilde Fidèle mit <a name="2" class="hidden">einem Küchenmesser</a> auf ihren Ehemann, Richter Alexis Fidèle, am Eingang zum Revolutionstribunal ein. Laut Zeugenaussagen wurde sie sofort und ohne Schwierigkeiten überwältigt, da die Angeklagte ihre Waffe rasch zu Boden warf und <a name="3" class="hidden">keinen Widerstand leistete</a>.
+$FAB_021_DOC_01_02
+Leider muss ich noch eine weitere Information zu Protokoll geben. Es scheint, dass der Angeklagte <a name="4" class="hidden">eine Affäre</a> mit dem ehemaligen Oberbefehlshaber der Nationalgarde, François Hanriot, hatte. Ich konnte feststellen, dass sie mehrfach zusammen gesehen wurden, nachdem er sich um das Amt des Oberbefehlshabers beworben hatte. Bei der Durchsuchung von Hanriots Wohnung nach seinem Tod fanden wir Briefe, die auf eine Beziehung zu einer verheirateten Frau hindeuteten. Die Briefe enthielten keine Namen, sodass es zunächst schwierig war, die Geliebte des Kommandanten zu identifizieren, doch nun besteht kein Zweifel mehr. Gleichzeitig hat sich ein mögliches Mordmotiv ergeben – wie wir wissen, wurde Hanriot nach einer <a name="5" class="hidden">Auseinandersetzung bei der Verteidigung Robespierres</a> gegen unsere Truppen getötet.
+$FAB_021_DOC_01_03
+Was andere Gerüchte über Ihre <a name="6" class="hidden">Familienverhältnisse</a> betrifft, so schweige ich lieber – Sie wissen selbst am besten, was daran wahr ist.
+$FAB_021_OnStart_00
+Die Angeklagte möge sich vorstellen.
+$FAB_021_OnStart_01
+Mach keine Witze. Du weißt, wer ich bin.
+$FAB_021_OnStart_02
+Mir ist nicht nach Scherzen zumute. Sprechen Sie lauter.
+$FAB_021_OnStart_03
+Mathilde Fidèle, die Ehefrau des heute vorsitzenden Richters. Bist du jetzt zufrieden?
+$FAB_021_OnGuilty_00
+Ein anderes Urteil ist ausgeschlossen – sie ist schuldig. Es tut mir leid, Mathilde.
+$FAB_021_OnGuilty_01
+Dann rasch zur Guillotine.
+$FAB_021_OnGuilty_02
+Was für ein Drama.
+$FAB_021_OnGuilty_03
+Er ist bereit, seiner eigenen Frau den Kopf abzuschlagen?
+$FAB_021_OnNotGuilty_00
+Lassen Sie sie gehen. Geben Sie meine Frau frei.
+$FAB_021_OnNotGuilty_01
+Es ist nicht das erste Mal, dass du das Gesetz zu deinem eigenen Vorteil brichst. Man gewöhnt sich schnell daran, nicht wahr?
+$FAB_021_OnNotGuilty_02
+Dazu kann ich nichts sagen. Wirklich nichts.
+$FAB_021_OnNotGuilty_03
+Hat er ihr vergeben?
+$FAB_021_01x03_00_QTitle
+Warum waren Sie während der Verhaftung so ruhig?
+$FAB_021_01x03_00_00
+Warum waren Sie bei der Verhaftung so ruhig?
+$FAB_021_01x03_00_01
+Ich habe dich vor aller Augen erstochen. Wie hätte ich entkommen können?
+$FAB_021_01x03_00_02
+Das stimmt. Sie haben Ihren eigenen Ehemann erstochen. Haben Sie dabei überhaupt etwas empfunden?
+$FAB_021_01x03_00_03
+Mir wird nur schlecht, wenn ich meinen Mann sehe. Das ist schon seit langer Zeit so.
+$FAB_021_01x03_00_04
+Sie empfinden also weder Reue noch Gewissensbisse?
+$FAB_021_01x03_00_05
+Mein einziger Fehler war, dass ich ihn nicht fest genug gestochen habe.
+$FAB_021_01x03_00_06
+Eine wahre Bestie.
+$FAB_021_01x03_00_07
+Und das sagen Sie mir direkt ins Gesicht?
+$FAB_021_01x03_00_08
+Du hast den Tod verdient. Wer sonst würde dir das ins Gesicht sagen?
+$FAB_021_01x04_01_QTitle
+War Ihre Affäre der Grund für den Angriff?
+$FAB_021_01x04_01_00
+War Ihre Affäre der Grund für den Angriff?
+$FAB_021_01x04_01_01
+Du weißt wirklich nichts über deine eigene Familie.
+$FAB_021_01x04_01_02
+Antworten Sie!
+$FAB_021_01x04_01_03
+Beherrsche dich, Antoine.
+$FAB_021_01x04_01_04
+Meine Affäre war nicht der Grund – es waren deine: deine Liebschaften mit Frauen, Macht, Geld und Alkohol. Du konntest sie nicht verbergen und wolltest sie auch nicht aufgeben.
+$FAB_021_01x04_01_05
+Es gab keine Affären!
+$FAB_021_01x04_01_06
+Nein? Und was ist mit deinem Machtstreben? Du gierst doch danach! Wie viele Menschen hast du dafür getötet?
+$FAB_021_01x04_01_07
+Unterstellen Sie etwa–
+$FAB_021_01x04_01_08
+Ich unterstelle nichts, ich stelle nur eine Tatsache fest. Dein Machthunger hat unsere Familie an den Rand des Abgrunds geführt, und du fragst mich nach meiner Affäre?
+$FAB_021_04x05_02_QTitle
+Wie lange hat Ihre Affäre gedauert?
+$FAB_021_04x05_02_00
+Wie lange hat Ihre Affäre gedauert?
+$FAB_021_04x05_02_01
+Seit Hanriot damals um deine Unterstützung für seine Bewerbung als Oberbefehlshaber gebeten hat. Also, schon ziemlich lange.
+$FAB_021_04x05_02_02
+Wie konnten Sie das die ganze Zeit geheim halten?
+$FAB_021_04x05_02_03
+Mein Mann war geblendet vom Glanz, der ihn umgab, von Kämpfen und Blutvergießen. Die Einzelheiten waren ihm längst gleichgültig geworden–
+$FAB_021_04x05_02_04
+Ich hätte nie gedacht, dass ich meine eigene Frau im Auge behalten muss.
+$FAB_021_04x05_02_05
+Und ich hätte nie gedacht, dass ich meinen eigenen Mann töten müsste, um ihn loszuwerden. Mich einem anderen hinzugeben hat jedenfalls nichts gebracht, denn du hast es nicht einmal bemerkt! Wenigstens hast du endlich etwas bemerkt, als ich dir das Messer zwischen die Rippen gestoßen habe.
+$FAB_021_02x06_03_QTitle
+Wie haben Sie Ihre Waffe ausgewählt?
+$FAB_021_02x06_03_00
+Wie haben Sie Ihre Waffe ausgewählt?
+$FAB_021_02x06_03_01
+Ich musste nicht lange überlegen. Es sollte etwas Scharfes und Wirksames sein, das ich im Notfall griffbereit hatte.
+$FAB_021_02x06_03_02
+Sie sprechen darüber völlig ohne jede Regung…
+$FAB_021_02x06_03_03
+Was hast du denn erwartet? Du wolltest Entscheidungen treffen – aber welche? Du hast dich über alle anderen erhoben und die Macht erhalten, über Leben und Tod zu bestimmen. Doch im Gegensatz zu uns willst du die Konsequenzen nicht tragen.
+$FAB_021_02x06_03_04
+Es hat dich beinahe gottgleich gemacht, denn nur Er ist frei von der Last Seiner Entscheidungen – doch du bist immer noch ein Mensch. Du verlangst nach Sonderbehandlung, dabei bist du nur einer unter Millionen. Was lässt dich glauben, wichtiger zu sein als jene, die uns erhoben haben?
+$FAB_021_02x06_03_05
+Von wem sprechen Sie?
+$FAB_021_02x06_03_06
+Dein blinder Drang, Entscheidungen zu treffen, hat dich für sie zum notwendigen Übel gemacht – unentbehrlich, um ihr Werk zu vollenden. Du willst Macht, du willst der Erste sein, und doch wirst du nur ernten, was du gesät hast.
+$FAB_021_02x06_03_07
+Dieser Hass ist nicht mehr aufzuhalten. Ihr wirres Gerede zeigt, dass die Frau den Verstand verloren hat.
+$FAB_021_04x06_04_QTitle
+Als du die Affäre hattest, hast du daran gedacht, was das unserer Familie antun würde?
+$FAB_021_04x06_04_00
+Als du die Affäre hattest, hast du darüber nachgedacht, welche Folgen das für unsere Familie haben würde?
+$FAB_021_04x06_04_01
+Ich hatte wirklich gehofft, dass es etwas bewirken würde. Ich hoffte, mein Mann würde verschwinden, fortgehen, und dass meine Familie überleben würde. Wenigstens ein Teil von ihr.
+$FAB_021_04x06_04_02
+Soweit ich weiß, hegen Sie diese Hoffnung noch immer.
+$FAB_021_04x06_04_03
+Soweit Sie wissen. Ich mache mir nichts mehr vor, bald werde ich tot sein, und dass meine Familie zerbricht, wird dann nicht mehr mein Problem sein.
+$FAB_021_04x06_04_04
+Nicht dein Problem? Wie kannst du so etwas sagen? Du bist doch eine Mutter–
+$FAB_021_04x06_04_05
+Wie kannst du es wagen… Wie kannst du nur! Eine Mutter?! Einer meiner Söhne wurde gehenkt, der andere ist nach der Folter im Stuhl für immer gezeichnet. Und warum? Wegen deines Machthungers. Deines! Du, der dort sitzt, bist schuld!
+$FAB_021_04x06_04_06
+Halten Sie Ihre Zunge im Zaum–
+$FAB_021_04x06_04_07
+Ich musste alles mitansehen, alles ertragen, und ich konnte nichts daran ändern. Du hast mit unserem Leben gespielt! Das Messer zwischen deinen Rippen ist das erste Mal, dass ich überhaupt etwas verändern konnte.
+$FAB_021_06x05_05_QTitle
+Wie haben Sie auf den Tod des Verräters Hanriot reagiert?
+$FAB_021_06x05_05_00
+Wie haben Sie auf den Tod des Verräters Hanriot reagiert?
+$FAB_021_06x05_05_01
+…
+$FAB_021_06x05_05_02
+Haben Sie die Frage verstanden?
+$FAB_021_06x05_05_03
+Es traf mich schwer, doch noch schlimmer war es, das Bett mit dem Mann zu teilen, der für seinen Tod verantwortlich war – meinem Ehemann.
+$FAB_021_06x05_05_04
+Hanriot hat Frankreich verraten.
+$FAB_021_06x05_05_05
+Nicht mehr als der Richter dieses Tribunals seine Familie verraten hat – und das hast du wiederholt getan.
+$FAB_021_06x05_05_06
+Du warst mir immer der wichtigste Mensch!
+$FAB_021_06x05_05_07
+Und jetzt verrätst du auch dich selbst. Du weißt nur zu gut, dass Macht auf dem Podest steht. So haben sie dich also gekauft? Erringe Macht in Paris! Sprich Urteile! Haben sie deine Familie etwa verschwiegen?
+$FAB_021_06x05_05_08
+Sie waren...
+$FAB_021_06x05_05_09
+Dann hast du wohl nicht richtig hingehört, denn deine Familie ist gerade zerbrochen.
+$FAB_021_KEY_01
+Mordversuch
+$FAB_021_KEY_02
+Waffe
+$FAB_021_KEY_03
+Kein Widerstand bei der Festnahme
+$FAB_021_KEY_04
+Affäre der Angeklagten
+$FAB_021_KEY_05
+Tod des Geliebten
+$FAB_021_KEY_06
+Familienverhältnisse
+$FAB_021_LastDialog_00
+Ich werde meinen Sohn im Himmel wiedersehen. Wenigstens weiß ich, dass du uns dort nicht finden wirst.

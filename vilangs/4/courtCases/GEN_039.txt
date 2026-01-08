@@ -1,0 +1,158 @@
+$GEN_039_DOC_1_HEADER
+Zusammengestellt von: Charles Étienne
+$GEN_039_DOC_1_00
+Spät am Abend, in einer der dunklen Gassen nahe des Panthéons, trennte eine Patrouille der Nationalgarde <a name="1" class="hidden">eine Prügelei</a> zwischen zwei elegant gekleideten Männern. Als die Soldaten sich den Angreifern näherten, sahen sie, dass einer von ihnen, älter und mit grauem Bart, über seinem am Boden liegenden Gegner stand, ihn wütend anschrie und auf ihn eintrat.
+$GEN_039_DOC_1_01
+Drei kräftige Soldaten waren an der Festnahme der Randalierer beteiligt und mussten ihre Gewehrkolben einsetzen. Die beiden <a name="3" class="hidden">zerzausten und blutenden</a> Männer wurden zur nächsten Wache gebracht, wo der diensthabende Offizier anhand ihres Atems feststellte, dass keiner von ihnen an diesem Abend Wein getrunken hatte.
+$GEN_039_DOC_1_02
+Der Angreifer wurde umgehend verhört, doch er stammelte nur unverständliches Zeug. Der Leutnant konnte lediglich zwei Worte notieren: <a name="5" class="hidden">„Wörterbuch“</a> und „Plagiat“. Als man ihn später bat, seine Aussage zu wiederholen, erklärte der grauhaarige Mann, er sei <a name="6" class="hidden">beraubt</a> worden. Der Name des Geschlagenen ist Léonard Pomeroy. Er lebt, wird aber wegen eines Kieferbruchs eine Weile nicht sprechen können.
+$GEN_039_OnStart_00
+Bitte stellen Sie sich vor.
+$GEN_039_OnStart_01
+Professor Hugo Trottier, einst Dozent an der inzwischen geschlossenen Sorbonne – einer wahren Universität aus der Zeit vor der Revolution.
+$GEN_039_OnStart_02
+Bitte erklären Sie, warum Sie diesen Mann angegriffen haben.
+$GEN_039_OnStart_03
+Wir sind beide Lexikographen. Allerdings habe ich über fünfzehn Jahre an meinem Werk gearbeitet, während er ein Stümper ist – so nennt man jemanden, der aus Unfähigkeit Fehler macht.
+$GEN_039_OnStart_04
+Was hat das mit dem Überfall zu tun?
+$GEN_039_OnStart_05
+Dieses „Opfer“, wie Sie ihn nennen, ist ein Ignorant und ein Dieb! Er hat dutzende Einträge aus meinem Wörterbuch abgeschrieben und dann dreist vor Zeugen geleugnet, es getan zu haben.
+$GEN_039_OnStart_06
+Warum haben Sie dies nicht der Garde gemeldet?
+$GEN_039_OnStart_07
+Ich stattete ihnen einen Besuch ab, doch sie begegneten mir nur mit vollkommener Missachtung, was bedeutet–
+$GEN_039_OnStart_08
+Wir wissen, was „Missachtung“ bedeutet.
+$GEN_039_OnGuilty_00
+Ungeachtet Ihrer Beweggründe haben Sie ein unverzeihliches Verbrechen begangen und werden daher zum Tod durch die Guillotine verurteilt.
+$GEN_039_OnGuilty_01
+Wie mutig! Doch ich verstehe Sie – solchen Leuten dürfen wir keine Nachsicht gewähren.
+$GEN_039_OnGuilty_02
+Die Guillotine wegen einer Schlägerei? Was für Zeiten!
+$GEN_039_OnPrison_00
+Wegen des Angriffs auf Bürger Pomeroy verurteile ich Sie zu Haft. Wachen, führt den Verurteilten ab.
+$GEN_039_OnPrison_01
+Die Gerechtigkeit siegt.
+$GEN_039_OnPrison_02
+Geschieht ihm recht, diesem fetten Sorbonne-Wackelpudding!
+$GEN_039_OnNotGuilty_00
+Der Angeklagte handelte im Affekt. Das Urteil lautet… nicht schuldig.
+$GEN_039_OnNotGuilty_01
+Was, wenn er morgen im Affekt jemanden tötet? Wer trägt dann die Verantwortung für diesen Tod?
+$GEN_039_OnNotGuilty_02
+Das muss ein Irrtum sein! Weiß der Richter überhaupt, was er tut?
+$GEN_039_02x05_00_QTitle
+Ihr seid beide Männer der Wissenschaft. Wie können gebildete Menschen sich so benehmen?
+$GEN_039_02x05_00_00
+Ihr seid doch beide Männer der Wissenschaft. Wie können gebildete Menschen sich so benehmen?
+$GEN_039_02x05_00_01
+Monsieur le Juge, ist Ihnen der Begriff „Verbrechen aus Leidenschaft“ bekannt? Er bedeutet, dass man eine Tat im Zustand plötzlicher, heftiger Erregung begeht. Wer in solch einem Zustand handelt, wird von einer unerwarteten und überwältigenden Aggression erfasst.
+$GEN_039_02x05_00_02
+Und was hat Ihr Verbrechen aus Leidenschaft ausgelöst?
+$GEN_039_02x05_00_03
+Plagiat – „die unrechtmäßige Aneignung der Arbeit einer anderen Person und deren Veröffentlichung unter eigenem Namen.“ Plagiate müssen mit der vollen Härte des Gesetzes verfolgt werden!
+$GEN_039_02x05_00_04
+Vielleicht, aber im Moment verfolgen wir die von Ihnen begangene Körperverletzung.
+$GEN_039_02x05_00_05
+Und ich gebe es zu.
+$GEN_039_02x05_00_06
+Haben Sie das gehört? Er hat einen Mann öffentlich verprügelt und gibt es sogar zu!
+$GEN_039_01x04_01_QTitle
+Haben Sie am Tag des Überfalls Alkohol getrunken?
+$GEN_039_01x04_01_00
+Haben Sie am Tag des Überfalls Alkohol getrunken?
+$GEN_039_01x04_01_01
+Natürlich nicht, ich trinke selten.
+$GEN_039_01x04_01_02
+Es handelte sich also nicht um eine Schlägerei im Rausch?
+$GEN_039_01x04_01_03
+Wir trafen uns zufällig. Ich forderte von Pomeroy, eine Zeitungsseite zu kaufen und öffentlich zuzugeben, dass er mein Wörterbuch plagiiert hat!
+$GEN_039_01x04_01_04
+Und ich nehme an, Bürger Pomeroy hat dem nicht zugestimmt?
+$GEN_039_01x04_01_05
+Natürlich nicht, er ist ein armseliger Mensch, ein Revolutionskläffer. Solche Leute gestehen ihre Fehler nie ein.
+$GEN_039_01x04_01_06
+„Revolutionärer Lautsprecher“? Sollte das etwa eine Beleidigung für die Revolutionäre sein?
+$GEN_039_01x04_01_07
+Nicht alle, nur die Diebe!
+$GEN_039_01x04_01_08
+Senken Sie Ihre Stimme.
+$GEN_039_01x04_01_09
+Sie empfinden dieses Adjektiv also als beleidigend? Ich denke, damit wissen wir alles Nötige über Ihre politischen Ansichten.
+$GEN_039_03x02_02_QTitle
+Im Bericht erwähnte der Ermittler, dass Sie beide Blut an Ihrer Kleidung hatten…
+$GEN_039_03x02_02_00
+Im Bericht erwähnte der Ermittler, dass Sie beide Blut an Ihrer Kleidung hatten, doch zum Zeitpunkt Ihrer Festnahme versuchte Bürger Pomeroy nicht, sich zu verteidigen.
+$GEN_039_03x02_02_01
+Es handelte sich um eine Schlägerei, das heißt: „ein Faustkampf zwischen mindestens zwei Personen, bei dem jeder zugleich Angreifer und Opfer ist.“
+$GEN_039_03x02_02_02
+Wollen Sie damit sagen, dass auch Sie zu Schaden gekommen sind?
+$GEN_039_03x02_02_03
+Natürlich, aber ich habe Pomeroy, diesen wandelnden Fehlschlag, zu Boden gestreckt, bevor er dasselbe mit mir tun konnte.
+$GEN_039_03x02_02_04
+Also waren Sie es, der ihn auf der Straße angesprochen hat?
+$GEN_039_03x02_02_05
+Ganz genau. Ich habe seine Entschuldigung gefordert.
+$GEN_039_03x02_02_06
+Und als er sich weigerte, haben Sie ihn geschlagen?
+$GEN_039_03x02_02_07
+Er hat doch eindeutig angefangen. Und jetzt redet er wirres Zeug von einer Prügelei!
+$GEN_039_03x02_02_08
+Er hat angefangen, indem er mich bestohlen hat.
+$GEN_039_05x06_03_QTitle
+Was hat das Opfer Ihnen gestohlen?
+$GEN_039_05x06_03_00
+Was hat das Opfer Ihnen gestohlen?
+$GEN_039_05x06_03_01
+Pomeroy hat den gesamten Abschnitt „S“ aus meinem Wörterbuch in sein eigenes Büchlein abgeschrieben.
+$GEN_039_05x06_03_02
+Wie können Sie sich da so sicher sein?
+$GEN_039_05x06_03_03
+Sie brauchen nur den Eintrag „Saturium – eine Legierung aus Kupfer, Zink und Gold, die von den alten Römern zur Herstellung von Münzen verwendet wurde“ nachzuschlagen.
+$GEN_039_05x06_03_04
+Und was soll das beweisen?
+$GEN_039_05x06_03_05
+Es war ein Schwindel, das heißt „eine Lüge, die sich absichtlich als Wahrheit ausgibt“. Es gibt kein Saturianisch! Ich habe es erfunden, um herauszufinden, ob jemand jemals gedankenlos mein Wörterbuch abschreibt!
+$GEN_039_05x06_03_06
+Täuschen Sie damit nicht Ihre eigenen Leser?
+$GEN_039_05x06_03_07
+Natürlich nicht. Niemand würde nach diesem Eintrag suchen, denn ich habe ihn erfunden.
+$GEN_039_KEY_01
+Schlägerei
+$GEN_039_KEY_02
+Auf das Opfer eintreten, als es am Boden lag
+$GEN_039_KEY_03
+Zerrissene, blutbefleckte Kleidung
+$GEN_039_KEY_04
+Kein Wein
+$GEN_039_KEY_05
+Wörterbuch
+$GEN_039_KEY_06
+Diebstahl
+$GEN_039_LastDialog_00
+Ihr bestraft mich, damit der Dieb den Rest meines Buches ungestraft stehlen kann?!
+$GEN_039_UNIQUE_QUESTION_00
+Warum hat der Angeklagte das Opfer angegriffen?
+$GEN_039_UNIQUE_ANSWER_CORRECT_00_00
+Wegen Plagiats.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Wegen einer Anschuldigung.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Wegen ehelicher Untreue.
+$GEN_039_UNIQUE_QUESTION_01
+Was wollte der Angeklagte vom Opfer?
+$GEN_039_UNIQUE_ANSWER_CORRECT_01_00
+Entschuldigungen, die in einer Zeitung abgedruckt wurden.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Geld.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ein ehrenhaftes Duell.
+$GEN_039_UNIQUE_QUESTION_02
+Was war Trottiers Rechtfertigung für den Übergriff?
+$GEN_039_UNIQUE_ANSWER_CORRECT_02_00
+Verbrechen aus Leidenschaft.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ein Missverständnis.
+$GEN_039_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Das provozierende Verhalten des Opfers.

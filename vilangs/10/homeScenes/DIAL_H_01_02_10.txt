@@ -1,0 +1,32 @@
+$DIAL_H_01_02_10_001_HANRIOT
+Eşiniz bana, adil insanların desteğini arıyorsam, bunu sizin evinizde bulabileceğimi söyledi.
+$DIAL_H_01_02_10_002_WIFE
+Evet, Yurttaş Hanriot. Kocam, başkomutanlık adaylığınızı desteklemekten büyük mutluluk duyacaktır.
+$DIAL_H_01_02_10_003_JUDGE
+Neden bu, olmuş bitmiş bir iş gibi hissettiriyor?
+$DIAL_H_01_02_10_004_HANRIOT
+Lütfen eşinize kızmayın. Eminim ki o sözleri verirken iyi niyetle hareket etti.
+$DIAL_H_01_02_10_005_WIFE
+Böylesine saygın bir subaya kim destek vermekten geri durabilir ki? Eminim kocam da sizin erdemlerinizi, tıpkı benim gibi, takdir edecektir.
+$DIAL_H_01_02_10_006_JUDGE
+Şüphesiz. Ama bu kadar çok aday varken nasıl emin olabilirim?
+$DIAL_H_01_02_10_007_HANRIOT
+Diğer adaylara elbette saygı duyuyorum, hepsi de düzgün insanlar. Fakat size sunabileceğim en değerli armağan sadakatimdir. Birlikte çalışırsak, hem birbirimize büyük fayda sağlayabiliriz… hem de belki Paris’e.
+$DIAL_H_01_02_10_008_JUDGE
+Ailemizde içtenlik ve sadakat çok değerli, öyle değil mi canım? Ayrıca, birbirimizin sınırlarına da saygı duyarız.
+$DIAL_H_01_02_10_009_WIFE
+Her seferinde.
+$DIAL_H_01_02_10_010_HANRIOT
+Evet. Hakkınızdaki o çirkin bağımlılık dedikodularına bir son verilmeli! Bilin ki bana iyilik yapanları asla unutmam.
+$DIAL_H_01_02_10_011_JUDGE
+Sözler, sözler, sözler, Yurttaş Hanriot.
+$DIAL_H_01_02_10_012_HANRIOT
+Eminim ki başka hiçbir aday sizden destek istemedi. Onlar, dostluklarına layık olduğunuzu düşünmüyor. Ama ben, François Hanriot, farklıyım – sözlerim de öyle.
+$DIAL_H_01_02_10_013_WIFE
+Eminim ki kocam bunu çoktan fark etmiştir.
+$DIAL_H_01_02_10_014_HANRIOT
+Teşekkür ederim. Kalabalıklar ne kadar bağırsa da, Paris ancak seçkinlerinin birliği kadar güçlüdür.
+$DIAL_H_01_02_10_015_JUDGE
+Eşimin verdiği sözden dönmeyeceğim, fakat bundan sonra önce bana gelmelisiniz.
+$DIAL_H_01_02_10_016_HANRIOT
+Elbette…

@@ -1,0 +1,8 @@
+$EVE_031_TITLE
+Ele é nosso!
+$EVE_031_MAIN
+Não há experiência mais humilhante para a Paris Revolucionária do que a fuga do Cidadão Capet. Ele escapou, deslizou por entre seus dedos, e agora a Revolução parece frágil e impotente. O povo se assemelha a uma criança que qualquer um pode enganar. No entanto, a República logo se recompôs graças a um Mestre dos Correios e seus homens, que conseguiram capturar os fugitivos a caminho de Montmédy. Cidadãos comuns derrubaram um monarca. Você também terá a chance de servir à República, pois amanhã o Cidadão Capet enfrentará o Tribunal. Caberá a você decidir como ele será lembrado — como traidor e covarde, ou como um estadista azarado. Se dependesse dos guardas da prisão, só haveria um desfecho...
+$EVE_031_OPTION_A
+Permitir que os guardas maltratem o Cidadão Capeto na prisão
+$EVE_031_OPTION_B
+Deixe-o em paz até o julgamento

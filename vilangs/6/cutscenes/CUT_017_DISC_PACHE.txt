@@ -1,0 +1,78 @@
+$CUT_017_DISC_PACHE_001_JUDGE
+Es un placer por fin conocernos en persona.
+$CUT_017_DISC_PACHE_002_PACHE
+Lamento profundamente que hayas tenido que enfrentar semejante horror.
+$CUT_017_DISC_PACHE_003_PACHE
+Si tan solo supiera quién es el desgraciado detrás de ese vil crimen…
+$CUT_017_DISC_PACHE_003_JUDGE_AGGR
+Me juré a mí mismo que encontraría a quienes intentaron matarme. ¿Quién se atrevió? Saciaré a la guillotina con su sangre.
+$CUT_017_DISC_PACHE_004_JUDGE_MANI
+Estas personas prefieren actuar bajo el amparo de la oscuridad, igual que nosotros cuando buscamos satisfacer nuestras necesidades más mundanas. La noche debe permanecer en manos de… la gente adecuada.
+$CUT_017_DISC_PACHE_005_JUDGE_JOKE
+Mi esposa me insiste para que encuentre a los culpables. Por mi parte, volvería gustoso a mis deberes. ¿Me entiende, ciudadano?
+$CUT_017_DISC_PACHE_006_JUDGE_HUMI
+Quizás este ataque represente la voluntad del pueblo de París, pero es más probable que haya sido planeado por alguien que no ama la Revolución tanto como nosotros dos.
+$CUT_017_DISC_PACHE_007_PACHE_SATI
+Es perfectamente comprensible que desee obtenerlos.
+$CUT_017_DISC_PACHE_008_PACHE_INTR
+Sí, fue un ataque atroz, y con gusto averiguaría quién tuvo el valor de atreverse a algo así.
+$CUT_017_DISC_PACHE_009_PACHE_DOUB
+Dudo que las personas que busca estén aquí en París. O bien han escapado, o han sido asesinadas por quienes los enviaron. Perseguirá fantasmas.
+$CUT_017_DISC_PACHE_010_JUDGE_AGGR
+¡Moveré cielo y tierra para encontrarlos! Exijo que el hombre que dice tener el poder en esta ciudad demuestre de verdad que París está gobernada por la justicia, y no por criminales.
+$CUT_017_DISC_PACHE_011_JUDGE_MANI
+Todos a quienes pregunté me aseguraron que Jean-Nicolas Pache no es un hombre que tolere semejantes vilezas. ¿Acaso se equivocan los parisinos?
+$CUT_017_DISC_PACHE_012_JUDGE_JOKE
+Para ser sincero, no sé por qué te elegí para ayudarme a buscar a los culpables. Parecías el más amable y empático de todos los candidatos.
+$CUT_017_DISC_PACHE_013_JUDGE_HUMI
+¿Quién, si no el alcalde de esta magnífica ciudad, podría devolver la paz y el orden aquí? Usted es el único capaz de detener la brutalidad de la que he sido víctima en las calles.
+$CUT_017_DISC_PACHE_014_PACHE_SATI
+Me halaga que me consideres un defensor tan ilustrado de la ciudad.
+$CUT_017_DISC_PACHE_015_PACHE_INTR
+Veo pasión en tus ojos. No puedo evitar preguntarme qué podríamos lograr juntos.
+$CUT_017_DISC_PACHE_016_PACHE_DOUB
+Como ya le he dicho antes, lamento su situación. Pero dejemos esto en manos de los profesionales; tenemos asuntos más importantes que tratar.
+$CUT_017_DISC_PACHE_017_PACHE_IRRI
+Tu compañero, François Hanriot, podría ayudarte mucho más en este asunto. Sí, sé de tu pequeña alianza. Por eso sospecho que no estás siendo del todo sincero conmigo, ciudadano Fidèle.
+$CUT_017_DISC_PACHE_018_JUDGE_AGGR
+No sé si alguien con principios y valores debería aceptar una recompensa mayor que reparar el daño a los pobres y hacer justicia con los criminales.
+$CUT_017_DISC_PACHE_019_JUDGE_MANI
+Las personas que me atacaron siguen paseando por París y podrían atacar a cualquiera. Da miedo pensar lo que podría ocurrir si alguien, por ejemplo, los contratara para organizar un asalto similar contra el alcalde de París.
+$CUT_017_DISC_PACHE_020_JUDGE_JOKE
+Estas personas ya están muertas, eso ya está decidido. Sin embargo, en vez de ejecutar a sospechosos al azar, prefiero encontrar a los verdaderos culpables desde el principio.
+$CUT_017_DISC_PACHE_021_JUDGE_HUMI
+El futuro de este país dependerá de nuestra determinación. ¿Y merecemos acaso el reconocimiento del pueblo si permanecemos indiferentes ante sus lamentos? Estos asesinos son una amenaza para todos los habitantes.
+$CUT_017_DISC_PACHE_022_JUDGE_AGGR
+Si tu ayuda tiene un precio, que así sea. Te pagaré un porcentaje de las ganancias del establecimiento que confiscamos a Madame Roland. Serás uno de los nuestros.
+$CUT_017_DISC_PACHE_023_JUDGE_MANI
+El establecimiento de Madame Roland necesita administradores de confianza. De lo contrario, podría usarse con fines perversos, o incluso volverse en nuestra contra. Y si pudiera compartir las ganancias con usted…
+$CUT_017_DISC_PACHE_024_JUDGE_JOKE
+El burdel que le quitamos a Madame Roland nos dará suficientes ganancias para todos, y puedo compartirlas contigo. Al fin y al cabo, se supone que debemos hacernos amigos.
+$CUT_017_DISC_PACHE_025_JUDGE_HUMI
+No le pediría ayuda a alguien tan noble como usted sin ofrecerle algo a cambio. Madame Roland se aseguró un buen puesto, Jean, y usted recibirá su parte de las ganancias.
+$CUT_017_DISC_PACHE_026_JUDGE_AGGR
+Ambos necesitamos esta alianza. Nadie rechaza la mano tendida del juez del Tribunal. No aceptaré su negativa.
+$CUT_017_DISC_PACHE_027_JUDGE_MANI
+Atrapar a los asesinos es solo el principio. Gracias a esta alianza, podrías convertirte en el hombre más poderoso de París. Con gusto te ayudaré.
+$CUT_017_DISC_PACHE_028_JUDGE_JOKE
+Es un verdadero placer saber que puedo volver a mis deberes cuando un hombre de bien como usted vela por mi seguridad. Esta alianza es, sin duda, algo positivo. Por favor, hágame este favor.
+$CUT_017_DISC_PACHE_029_JUDGE_HUMI
+Concédame el honor de reconocer nuestra amistad y alianza. Juntos encontraremos a los asesinos y haremos de París un lugar más pacífico.
+$CUT_017_DISC_PACHE_030_PACHE_SATI
+Aceptaré tu ayuda, porque esta alianza traerá una vida mejor para nosotros y para todos los parisinos.
+$CUT_017_DISC_PACHE_031_PACHE_INTR
+Lástima que no nos hayamos conocido antes, eres un hombre realmente intrigante. Unamos nuestras fuerzas.
+$CUT_017_DISC_PACHE_032_PACHE_DOUB
+Te has esforzado mucho por convencerme. No diré que lo hayas logrado del todo, pero… en fin, hazlo a tu manera. Asumiré el riesgo.
+$CUT_017_DISC_PACHE_033_PACHE_IRRI
+No dominas el arte de la oratoria lo suficiente como para ocultar tus verdaderas intenciones. ¿Intentas involucrarme en algo? ¿Quizás planeas matarme? No lo sé, pero dudo que tus intenciones sean buenas. Tu muerte será un regalo para mí. ¿Caballeros?
+$CUT_017_DISC_PACHE_TOPIC_01
+Atentado / Búsqueda de los culpables.
+$CUT_017_DISC_PACHE_TOPIC_02
+Solo Pache puede ayudar.
+$CUT_017_DISC_PACHE_TOPIC_03
+Los principios morales deben prevalecer.
+$CUT_017_DISC_PACHE_TOPIC_04
+El burdel que estamos entregando.
+$CUT_017_DISC_PACHE_TOPIC_06
+En busca de un amigo / Alianza.

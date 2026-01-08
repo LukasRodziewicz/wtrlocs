@@ -1,0 +1,60 @@
+$INTRIGUE_TITLE_003
+Jean-Baptiste Gobel
+$INTRIGUE_003_DESC
+Al ver cómo trataste a los Roland y al alcalde de París, Gobel ahora te considera una amenaza. El burdel solía ser una fuente clave de ingresos e información para él, y como alcalde, Pache le permitía controlar la ciudad. El propio arzobispo planeó tu asesinato y orquestó la muerte de tu hijo, obligando tanto a los Roland como a Pache a participar en estos crímenes.
+$INTR_003_B01_TITLE
+Rumores sobre el hijo de Gobel
+$INTR_003_B01_DESC
+La información sobre el hijo ilegítimo del arzobispo ya no debe seguir siendo un secreto. Debemos asegurarnos de que estos rumores lleguen a oídos del fiscal Tinville y de los parisinos comunes.
+$INTR_003_B02_TITLE
+La investigación de Tinville
+$INTR_003_B02_DESC
+Esperemos que los rumores despierten lo suficiente la imaginación de Tinville como para que investigue oficialmente el caso de Gobel. Es fundamental sembrar dudas sobre el arzobispo, para que los diputados que le temen vean que Gobel también tiene un punto débil.
+$INTR_003_B03_TITLE
+El hijo de Gobel se delata
+$INTR_003_B03_DESC
+Gérard Boutin proclamó frente a la catedral de Notre-Dame que es el hijo ilegítimo del arzobispo Gobel. Lloró por la muerte de su madre en un refugio. El joven no tardó en reunir a un grupo de seguidores que ven en Gobel el símbolo del clero tan odiado. Qué personaje tan interesante… La actuación de Boutin provocó mucho más revuelo del que jamás hubiéramos logrado. Intentaré invitarlo a una reunión para confirmar que es quien dice ser.
+$INTR_003_B04_TITLE
+Comprometiendo a los subordinados
+$INTR_003_B04_DESC
+Es hora de buscar manzanas podridas en el huerto de Gobel. Si sacamos a la luz las faltas de sus subordinados, minaremos la confianza del pueblo en el arzobispo. Tras la rebelión en la Vendée, el clero ha estado bajo ataque constante de quienes culpan a la Iglesia.
+$INTR_003_B05_TITLE
+Arrestar a los sacerdotes y pronunciar un discurso
+$INTR_003_B05_DESC
+¡Es hora de actuar! Arrestemos a la oveja negra del rebaño del arzobispo. Ya no hay razón para ocultarse, debes desafiarlo abiertamente. Sin embargo, para hacerlo, necesitarás un escudo: el pueblo de París. ¡Enciende el fuego en sus corazones!
+$INTR_003_B06_TITLE
+Obtener el apoyo de la Convención
+$INTR_003_B06_DESC
+Incluso con el apoyo del pueblo, no podremos atacar a un sacerdote constitucional sin la ayuda de la única autoridad a la que Gobel responde. Debemos asegurarnos de que los miembros de la Convención den la espalda al clero, o Gobel será intocable. La Iglesia ha sobrevivido siglos de ira de los fieles. Solo obedece a las advertencias del poder.
+$INTR_003_B07_TITLE
+Gobel logra escapar por poco
+$INTR_003_B07_DESC
+Gobel se nos escapó de entre las manos. Durante una sesión de la Convención anunció su renuncia al estado clerical. Con voz firme, declaró sentirse asqueado por la corrupción y la decadencia moral del clero. Para nuestra sorpresa, Hébert le siguió el juego y convirtió a Gobel en el rostro de su grupo. Una multitud “espontánea” vitoreó al apóstata. Con un solo movimiento, el exarzobispo se ganó el apoyo tanto de las calles como de la Convención. Te ha superado. Además, Hébert anunció que él y Gobel tienen una lista de 73 diputados y funcionarios que han aceptado sobornos o actuado como agentes de potencias extranjeras. Hizo una clara alusión a Robespierre, afirmando que no existen personas incorruptibles. Han dado a los culpables cinco días para abandonar el país. Después de ese plazo, publicarán la lista. Algo me dice que tu nombre también aparece allí…
+$INTR_003_B08_TITLE
+El hijo rechazado
+$INTR_003_B08_DESC
+Con un solo y decidido gesto, Gobel se desligó de su pasado. Gérard Boutin quiso reunirse con él en persona, pero el arzobispo lo rechazó, llamándolo traidor y farsante. Dudo mucho que llegue a reconocer la paternidad. Boutin está completamente solo, y no ganaríamos nada involucrándolo en nuestros planes.
+$INTR_003_BLOCK_001_PATH_STR
+Clovis recorrerá las alcantarillas y obligará a algunos indigentes a difundir rumores sobre Gobel.
+$INTR_003_BLOCK_001_PATH_DIP
+David hablará del escándalo con varios compañeros de juego bien conectados.
+$INTR_003_BLOCK_001_PATH_ESP
+Algunos hombres de dudosa reputación le deben un favor a Ramel. Aprovechémoslo.
+$INTR_003_BLOCK_001_PATH_STR_FAILURE
+El problema de quienes duermen en las cunetas es que no cuentan precisamente con amigos influyentes, y eso es justo lo que necesitamos aquí…
+$INTR_003_BLOCK_001_PATH_DIP_FAILURE
+Nuestro diplomático expuso las escandalosas revelaciones sobre la supuesta paternidad de Gobel. Lamentablemente, sus interlocutores las ahogaron en abundante alcohol y concluyeron que no eran más que una broma hilarante. ¡Cómo se rieron!
+$INTR_003_BLOCK_001_PATH_ESP_FAILURE
+Sobreestimamos el valor del honor en el círculo social de Ramel. La mayoría de sus allegados no hizo nada por nuestra causa…
+$INTR_003_BLOCK_004_PATH_STR
+Sin duda, intimidar a unos cuantos exsacerdotes sin carácter nos ayudará a descubrir algunos de los secretos de Gobel.
+$INTR_003_BLOCK_004_PATH_DIP
+Los diputados de la Convención deben saber algo. No habrían hecho a Gobel arzobispo si no tuvieran algo contra él.
+$INTR_003_BLOCK_004_PATH_ESP
+No involucremos a extraños en la búsqueda. Ramel se encargará personalmente de dar caza a quienes se han apartado del rebaño.
+$INTR_003_BLOCK_004_PATH_STR_FAILURE
+Los hombres obligados a renunciar al sacerdocio resultaron ser increíblemente resistentes a los métodos físicos de persuasión. Nadie dijo una palabra.
+$INTR_003_BLOCK_004_PATH_DIP_FAILURE
+Aunque los diputados sepan algo, no soltarán tan fácilmente su carta de negociación. Ni lo sueñes.
+$INTR_003_BLOCK_004_PATH_ESP_FAILURE
+Ramel ha fracasado. Al parecer, la Iglesia sabe ocultar muy bien las huellas de sus pecados. Tu espía no pudo encontrar nada que permitiera iniciar una acusación.

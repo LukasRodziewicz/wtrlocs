@@ -1,0 +1,260 @@
+$GEN_005_DOC_01_HEADER
+Compilé par : Pierre Daquin
+$GEN_005_DOC_01_00
+Devant le tribunal se tient Claude Garnier, résident de Paris et apprenti boulanger, arrêté pour cambriolage. Il menait un groupe qui <a name="1" class="hidden">s'est introduit</a> dans la demeure d'un homme fortuné, le citoyen Dominique Fournier. D'après le témoignage de Fournier, les voleurs l'ont insulté avant de <a name="2" class="hidden">le frapper</a>. 
+$GEN_005_DOC_01_01
+Claude Garnier en a profité pour indiquer à ses complices quels objets de valeur emporter et le groupe a délaissé Fournier. De nombreux témoins ont tout vu. Le <a name="4" class="hidden">serviteur de Fournier</a> était présent, tandis que des passants ont vu la scène par la fenêtre.
+$GEN_005_DOC_01_02
+Garnier a reconnu son rôle de meneur et s'en est même vanté, parlant d'action révolutionnaire dont il était fier. Il prétend avoir découvert que Fournier <a name="5" class="hidden">finançait</a> l'impression de tracts contre-révolutionnaires et avait décidé de le soulager de son argent.  
+$GEN_005_DOC_01_03
+L'accusé n'a pas voulu révéler d'où provenait cette information. Il a donné aux gardes <a name="9" class="hidden">un pamphlet contre Robespierre</a>, affirmant en avoir trouvé des piles entières chez la victime. Garnier prétend les avoir tous brûlés, sauf un qu'il a conservé comme preuve. Lorsque les gardes l'ont arrêté, ils ont remarqué qu'il portait une <a name="8" class="hidden">chevalière dorée</a> appartenant au citoyen Fournier.
+$GEN_005_DOC_01_04
+Garnier prend souvent position lors des rassemblements des enragés, exigeant que tous les riches soient pendus. En 1789, il a participé à <a name="6" class="hidden">la prise de la Bastille</a>.
+$GEN_005_DOC_01_05
+<h1>Dominique Fournier</h1>
+Dominique Fournier
+Fournier est un financier. Il est avéré qu'il était un fervent partisan de Necker, ministre des Finances, jusqu'à la fin de sa carrière. Nous avons établi, ce qui a été confirmé par de nombreuses personnes, qu'il était partisan des Girondins, bien qu'il ne prenne plus part activement à la vie publique depuis quelques années. Nous savons également qu'après le cambriolage, la maison de Fournier a été fouillée de fond en comble et qu'aucun document contre-révolutionnaire n'y a été trouvé.
+$GEN_005_OnStart_00
+Il nous faut plus de citoyens comme Garnier !
+$GEN_005_OnStart_01
+Je te prie de te présenter, citoyen.
+$GEN_005_OnStart_02
+Je m'appelle Claude Garnier.
+$GEN_005_OnStart_03
+Tu es accusé de t'être introduit chez le citoyen Fournier, que tu as violemment agressé et volé.
+$GEN_005_OnStart_04
+Je menais une enquête chez lui. Vive la Révolution !
+$GEN_005_OnStart_05
+Bravo !
+$GEN_005_OnStart_06
+Qui t'a donné le droit de représenter la Révolution ?
+$GEN_005_OnStart_07
+Le peuple de Paris !
+$GEN_005_OnStart_08
+Il a raison !
+$GEN_005_OnGuilty_00
+Je condamne le citoyen Claude Garnier à être guillotiné ! Emmenez le condamné.
+$GEN_005_OnGuilty_01
+Une décision courageuse. Je suis content de ne pas avoir eu à la prendre.
+$GEN_005_OnGuilty_02
+C'est scandaleux !
+$GEN_005_OnPrison_00
+Je condamne le citoyen Claude Garnier à être emprisonné ! Emmenez-le.
+$GEN_005_OnPrison_01
+Quoi ?!
+$GEN_005_OnNotGuilty_00
+Je déclare le citoyen Claude Garnier... non coupable. Que liberté lui soit rendue.
+$GEN_005_OnNotGuilty_01
+Bravo !
+$GEN_005_OnNotGuilty_02
+Une sage décision.
+$GEN_005_OnNotGuilty_03
+Vive la Révolution !
+$GEN_005_OnNotGuilty_04
+Je vois que tu aimes haranguer la foule.
+$GEN_005_01x02_00_QTitle
+Le citoyen Fournier a été violemment battu.
+$GEN_005_01x02_00_00
+Le citoyen Fournier a été violemment battu.
+$GEN_005_01x02_00_01
+Il aurait pu l'éviter. C'est vrai, je l'ai frappé une ou deux fois, mais c'est parce qu'il couinait comme un goret.
+$GEN_005_01x02_00_02
+Et tu en es fier ?
+$GEN_005_01x02_00_03
+Il n'a eu que ce qu'il méritait.
+$GEN_005_01x02_00_04
+Les royalistes sont des bêtes !
+$GEN_005_01x02_00_05
+Il « couinait » quand tu mettais sa maison sens dessus dessous ?
+$GEN_005_01x02_00_06
+Il conspirait contre d'honnêtes Parisiens. N'est-ce pas suffisant ?
+$GEN_005_01x02_00_07
+À mort le porc !
+$GEN_005_01x03_01_QTitle
+Tu prétends que cette action devait servir les idéaux de la Révolution.
+$GEN_005_01x03_01_00
+Tu prétends que cette action devait servir les idéaux de la Révolution. Robespierre ou Danton ont-ils jamais incité leurs partisans à devenir des voleurs ?
+$GEN_005_01x03_01_01
+Pas des voleurs, mais des soldats de la Révolution. J'ai confisqué les biens qui servaient une vile cause. Si je n'avais pas été arrêté, j'aurais tout donné aux autorités.
+$GEN_005_01x03_01_02
+Tu ne l'as pas fait tout de suite après ?
+$GEN_005_01x03_01_03
+Il me semble que nous avions le droit de fêter notre victoire sur toutes les injustices que nous avons subies.
+$GEN_005_01x03_01_04
+De quelles injustices parles-tu ?
+$GEN_005_01x03_01_05
+Toute ma vie je me suis éreinté au travail pendant que Fournier et d'autres comme lui s'engraissaient sur notre dos.
+$GEN_005_01x03_01_06
+Il a raison, les richesses doivent appartenir au peuple !
+$GEN_005_01x06_02_QTitle
+As-tu vraiment participé à la prise de la Bastille ?
+$GEN_005_01x06_02_00
+As-tu vraiment participé à la prise de la Bastille ?
+$GEN_005_01x06_02_01
+Oui.
+$GEN_005_01x06_02_02
+Quel héros ! Il est des nôtres !
+$GEN_005_01x06_02_03
+Tu sembles y avoir beaucoup appris. Il ne manquait plus que la tête de de Launay au bout d'un pieu.
+$GEN_005_01x06_02_04
+C'est là toute la différence, on ne m'a pas arrêté pour ça. Tout le monde savait que notre action était juste.
+$GEN_005_01x06_02_05
+La Bastille était une forteresse. Cette affaire concerne un cambriolage dans la maison d'un homme désarmé, ce pourquoi nous ne sommes pas convaincus.
+$GEN_005_01x06_02_06
+Une ordure royaliste désarmée, tu veux dire.
+$GEN_005_02x04_03_QTitle
+Faites entrer le témoin, le serviteur de la victime, Gaëtan Calvet.
+$GEN_005_02x04_03_00
+Faites entrer le témoin, le serviteur de la victime, Gaëtan Calvet.
+$GEN_005_03x08_04_QTitle
+Tu portais une chevalière dorée lorsque l'on t'a arrêté, citoyen.
+$GEN_005_03x08_04_00
+Tu portais une chevalière dorée lorsque l'on t'a arrêté, citoyen. Je pense qu'elle appartenait à la victime. Est-ce vrai ?
+$GEN_005_03x08_04_01
+Pourquoi parlez-vous tous de victime ? C'est un traître ! La vraie victime, c'est le peuple français !
+$GEN_005_03x08_04_02
+Tu as très bien compris. Nous nous occuperons de son cas le moment venu. Alors, cette chevalière ?
+$GEN_005_03x08_04_03
+Ah, la chevalière... Elle est belle, hein ? Ces pourritures s'engraissent sur notre dos et il refusent de nous donner une infime partie de leur richesse. Pas le moindre sou.
+$GEN_005_03x08_04_04
+Hourra !
+$GEN_005_03x08_04_05
+Que comptais-tu en faire ?
+$GEN_005_03x08_04_06
+Rien, je trouvais qu'elle m'allait bien. Beaucoup mieux qu'à cette ordure.
+$GEN_005_03x08_04_07
+Tu n'as pas pris que la chevalière. Il me semble que tu as emporté tous les objets de valeur de la maison.
+$GEN_005_03x08_04_08
+Les chandeliers dorés me plaisaient particulièrement...
+$GEN_005_05x07_05_QTitle
+Pourquoi penses-tu que la victime était mêlée à des activités contre-révolutionnaires ?
+$GEN_005_05x07_05_00
+Pourquoi penses-tu que la victime était mêlée à des activités contre-révolutionnaires ?
+$GEN_005_05x07_05_01
+Demandez aux gens dans la rue, ils le savaient tous. Mais personne n'avait de preuve et nous commencions à nous impatienter.
+$GEN_005_05x07_05_02
+Comment le savaient-ils ? Ce sont les rats qui le leur ont dit ?
+$GEN_005_05x07_05_03
+Ils le savaient, c'est tout. Le peuple est toujours au courant de tout !
+$GEN_005_05x07_05_04
+On les reconnaît, les sales royalistes !
+$GEN_005_05x07_05_05
+Tu as donc décidé de trouver des preuves de la culpabilité de Fournier ?
+$GEN_005_05x07_05_06
+Lorsque l'on soupçonne quelqu'un d'avoir commis un crime, on fait bien une enquête ? C'est ce que nous avons décidé de faire.
+$GEN_005_05x07_05_07
+Si j'ai bien compris, vous avez agressé le citoyen Fournier à cause d'une rumeur ?
+$GEN_005_05x07_05_08
+Monsieur le juge, tu insinues que les Parisiens sont des menteurs ?
+$GEN_005_05x07_05_09
+C'est moi qui pose les questions ici, pas toi.
+$GEN_005_05x07_05_10
+Le juge est du côté de la bourgeoisie !
+$GEN_005_05x09_06_QTitle
+Après ton arrestation, tu as donné aux gardes un tract diffamatoire sur le citoyen Robespierre.
+$GEN_005_05x09_06_00
+Après ton arrestation, tu as donné aux gardes un tract diffamatoire sur le citoyen Robespierre.
+$GEN_005_05x09_06_01
+Je l'ai trouvé chez ce sale royaliste. Il y en avait des centaines, nous les avons tous brûlés dans la rue.
+$GEN_005_05x09_06_02
+Bravo !
+$GEN_005_05x09_06_03
+Sauf celui-là.
+$GEN_005_05x09_06_04
+Je l'ai gardé, juste au cas où.
+$GEN_005_05x09_06_05
+Qu'est-ce qui nous assure qu'il appartenait à Fournier ?
+$GEN_005_05x09_06_06
+Où donc l'aurais-je trouvé ?
+$GEN_005_05x09_06_07
+Dis-nous où tu l'as trouvé exactement.
+$GEN_005_05x09_06_08
+Il en avait des tas dans une alcôve.
+$GEN_005_05x09_06_09
+Traître !
+$GEN_005_05x09_06_10
+Pourriture !
+$GEN_005_05x09_06_11
+Pourquoi ne pas avoir apporté immédiatement le tract à la Garde ?
+$GEN_005_05x09_06_12
+Pour quoi faire ?
+$GEN_005_05x09_06_13
+Avec une telle preuve, nul doute que Fournier aurait fini à la guillotine.
+$GEN_005_05x09_06_14
+…
+$GEN_005_05x09_06_15
+Il a raison ! Tu aurais dû donner le tract à la Garde !
+$GEN_005_WIT_00_A_QTitle
+Tu travailles pour la victime ?
+$GEN_005_WIT_00_A_00
+Tu travailles pour la victime ?
+$GEN_005_WIT_00_A_01
+Oui, Monsieur le juge, c'est exact.
+$GEN_005_WIT_00_A_02
+As-tu vu l'agres...
+$GEN_005_WIT_00_A_03
+J'ai tout vu ! Ils l'ont frappé, ils lui ont donné des coups de poing et de pied...
+$GEN_005_WIT_00_A_04
+Puis-je finir ma phrase ?
+$GEN_005_WIT_00_A_05
+Et puis l'un d'eux a voulu le frapper avec un bâton. Je me suis mis à crier. Tu sais ce qu'il a fait ? Il a ri. Il trouvait ça drôle...
+$GEN_005_WIT_00_A_06
+As-tu vu l'accusé parmi les agresseurs ?
+$GEN_005_WIT_00_A_07
+Il les menait comme un chef d'orchestre ! D'abord les cordes : hop ! Ensuite, les percussions : boum !
+$GEN_005_WIT_00_A_08
+Ça suffit.
+$GEN_005_WIT_00_B_QTitle
+Pourquoi n'as-tu pas cherché à les interrompre ou à défendre la victime ?
+$GEN_005_WIT_00_B_00
+Pourquoi n'as-tu pas cherché à les interrompre ou à défendre la victime ?
+$GEN_005_WIT_00_B_01
+Moi ?
+$GEN_005_WIT_00_B_02
+Oui.
+$GEN_005_WIT_00_B_03
+Je sers le vin. Qu'aurais-je pu faire contre un groupe de bandits ?
+$GEN_005_WIT_00_B_04
+Toi aussi, ils t'ont attaqué ?
+$GEN_005_WIT_00_B_05
+Dieu merci, ils ne m'ont pas touché.
+$GEN_005_WIT_00_B_06
+Ils en voulaient visiblement aux bourgeois, pas au petit peuple. As-tu appelé à l'aide ?
+$GEN_005_WIT_00_B_07
+J'ai hurlé, mais personne n'est venu.
+$GEN_005_KEY_01
+Effraction
+$GEN_005_KEY_02
+Agression de la victime
+$GEN_005_KEY_03
+Objets de valeur
+$GEN_005_KEY_04
+Serviteur de Fournier
+$GEN_005_KEY_05
+Financement des tracts
+$GEN_005_KEY_06
+Libération des prisonniers de la Bastille
+$GEN_005_KEY_07
+Financier
+$GEN_005_KEY_08
+Chevalière de Fournier
+$GEN_005_KEY_09
+Pamphlet
+$GEN_005_LastDialog_00
+C'est un scandale ! Le juge protège le bourgeois !
+$GEN_005_UNIQUE_QUESTION_00
+Avec quel groupe politique le prévenu sympathisait-il ?
+$GEN_005_UNIQUE_ANSWER_CORRECT_00_00
+Les Girondins.
+$GEN_005_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Les Jacobins.
+$GEN_005_UNIQUE_ANSWER_NOT_CORRECT_00_01
+La Plaine.
+$GEN_005_UNIQUE_QUESTION_01
+À quoi le prévenu doit-il sa réputation aux yeux du peuple ?
+$GEN_005_UNIQUE_ANSWER_CORRECT_01_00
+Il a pris part à la prise de la Bastille.
+$GEN_005_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Il a aidé les pauvres.
+$GEN_005_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il a travaillé à la rédaction d'articles qui ont révélé l'identité de traîtres.

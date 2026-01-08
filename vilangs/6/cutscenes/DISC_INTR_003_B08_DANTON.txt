@@ -1,0 +1,48 @@
+$DISC_INTR_003_B08_DANTON_001_JUDGE_AGGR
+Ya no controlamos la situación en las calles. El caos puede volverse contra cualquiera, y no podemos apaciguar a la multitud con facilidad.
+$DISC_INTR_003_B08_DANTON_002_JUDGE_MANI
+La situación se nos ha ido de las manos. Ayer golpearon a una muchacha porque la gente sospechaba que espiaba para los insurgentes. ¿Quién sabe quién será su próxima víctima? Puede ser usted, puedo ser yo…
+$DISC_INTR_003_B08_DANTON_003_JUDGE_JOKE
+Mientras la gente lanzaba tomates podridos a cualquier objetivo, la situación era aceptable, pero ahora están armados con palos de madera.
+$DISC_INTR_003_B08_DANTON_004_JUDGE_HUMI
+Sé que prometí servir al pueblo y defender la libertad, pero nuestros ciudadanos están yendo demasiado lejos.
+$DISC_INTR_003_B08_DANTON_005_DANTON_SATI
+La situación es inquietante, estoy de acuerdo. La gente teme salir a la calle. Me alegra que quiera ocuparse de este asunto, aunque desconozco su plan.
+$DISC_INTR_003_B08_DANTON_006_DANTON_INTR
+Las personas en nuestra posición no se preocupan por las multitudes, solo por aquellos individuos problemáticos que se interponen en el camino. Supongo que pronto oiré hablar de ellos.
+$DISC_INTR_003_B08_DANTON_007_DANTON_DOUB
+Siempre sentí curiosidad por saber si sacarías provecho de la situación.
+$DISC_INTR_003_B08_DANTON_008_JUDGE_AGGR
+¡Gobel lo arruinó todo! Con un secreto así, debería haber hecho todo lo posible para que nunca saliera a la luz, y en cambio se comportó como un niño.
+$DISC_INTR_003_B08_DANTON_009_JUDGE_MANI
+Si los rumores resultan ser ciertos, la presencia de Gobel solo empeorará la situación. ¿Queremos que la gente piense que las autoridades están corrompidas? Mi reputación está en juego, al igual que la tuya y la de tus amigos del Comité.
+$DISC_INTR_003_B08_DANTON_010_JUDGE_JOKE
+Gobel se ha metido en problemas en el peor momento posible. ¿Será que el Papa por fin se ha vengado? Dios ha escuchado sus plegarias y ha decidido castigar al arzobispo por aceptar el cargo constitucional…
+$DISC_INTR_003_B08_DANTON_011_JUDGE_HUMI
+No quisiera dictar sentencias en ausencia, pero me parece que la furia del pueblo ha sacado a la luz antiguos secretos, como el del arzobispo Gobel. ¿Quizás deberíamos hacer algo al respecto?
+$DISC_INTR_003_B08_DANTON_012_DANTON_SATI
+Debemos ocuparnos de Gobel antes de que la Convención pierda la capacidad de controlar su comportamiento.
+$DISC_INTR_003_B08_DANTON_013_DANTON_INTR
+Gobel se ha vuelto realmente una molestia, pero comprendo su situación: a los ricos siempre se les acusa de más de lo que realmente han hecho.
+$DISC_INTR_003_B08_DANTON_014_DANTON_DOUB
+Aún no sé qué es lo que ganarás con esto.
+$DISC_INTR_003_B08_DANTON_015_JUDGE_AGGR
+No podemos pagar por el comportamiento de un solo grupo. Con todas sus mentiras y decadencia, la Iglesia se ha ganado a pulso la ira del pueblo. Cortémosla de raíz y vivamos por fin en paz.
+$DISC_INTR_003_B08_DANTON_016_JUDGE_MANI
+Al tigre enfurecido conviene lanzarle una presa para que la despedace; así estará lo bastante entretenido y no prestará atención a nada más, y podremos vivir en paz. Y ya que el tigre ansía clavarle los colmillos al clero...
+$DISC_INTR_003_B08_DANTON_017_JUDGE_JOKE
+Realmente no nos queda otra opción. Quieren al clero, así que démosles al clero. Si acusan al clero de traición, repitamos sus palabras. Simple y eficaz.
+$DISC_INTR_003_B08_DANTON_018_JUDGE_HUMI
+No quiero dañar a la Iglesia. Ella misma se hiere a través de los degenerados malditos por nuestros ciudadanos. Debemos cortar todos los lazos con ese grupo. Por el bien común.
+$DISC_INTR_003_B08_DANTON_019_DANTON_SATI
+Encuentro sus argumentos convincentes. La Iglesia debe pagar por su torpe política, y ya que ha decidido involucrarse…
+$DISC_INTR_003_B08_DANTON_020_DANTON_INTR
+Nunca he sido partidario de las soluciones radicales, pues siempre resultan demasiado costosas. Sin embargo, hoy no veo otra salida.
+$DISC_INTR_003_B08_DANTON_021_DANTON_DOUB
+Entiendo que tienes tus motivos, y me parece sensato que prefieras no revelarlos. Sin embargo, tus argumentos no me convencen, pues tengo demasiado que perder.
+$DISC_INTR_003_B08_DANTON_TOPIC_01
+La situación en las calles se vuelve difícil de controlar.
+$DISC_INTR_003_B08_DANTON_TOPIC_02
+El problema con Gobel no ha hecho más que echar leña al fuego.
+$DISC_INTR_003_B08_DANTON_TOPIC_03
+Debemos castigar a alguien y dar un escarmiento, y el pueblo quiere ir contra el clero.

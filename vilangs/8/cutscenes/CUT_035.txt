@@ -1,0 +1,38 @@
+$CUT_035_BROTHER_001
+Você conhece aquele jovem soldado que veio ao resgate?
+$CUT_035_BROTHER_002
+O nome dele é Napoleão Bonaparte.
+$CUT_035_JUDGE_003
+Não o conheço. Mas isso não importa. Eu venci. Paris continua em nossas mãos.
+$CUT_035_BROTHER_004
+Você venceu? Nunca quis tomar o controle da cidade.
+$CUT_035_JUDGE_005
+Eu não entendo.
+$CUT_035_BROTHER_006
+Acabei de apresentar você ao seu novo ditador.
+$CUT_035_BROTHER_007
+Eu venci.
+$CUT_035_BROTHER_008
+O povo receberá Napoleão de braços abertos.
+$CUT_035_BROTHER_009
+Os “novos” virão, apenas para esquecer de você e, daqui a cem anos, afogar o país em sangue mais uma vez.
+$CUT_035_BROTHER_010
+Neste exato momento, o “novo” adentra a cidade à frente de um exército invicto.
+$CUT_035_BROTHER_011
+Eu venci.
+$CUT_035_JUDGE_012
+Enquanto eu estiver vivo, não.
+$CUT_035_BROTHER_013
+Estou armado com uma pistola.
+$CUT_035_JUDGE_014
+Que tal descobrirmos qual de nós é o escolhido de Deus — Caim ou Abel?
+$CUT_035_BROTHER_015
+O favorecido vai matar o perdedor?
+$CUT_035_JUDGE_016
+Atirar na cabeça dele.
+$CUT_035_ROLL_01
+Você acreditou que a Revolução iria libertá-lo, mas não passou de um desejo.
+$CUT_035_ROLL_03
+Todos vocês se deixaram encantar pela ideia romântica dessa rebelião. Diga-me, em que a Revolução foi diferente do que estamos fazendo agora?
+$CUT_035_ROLL_05
+Ela não se tornou uma luta até a morte, um jogo caótico onde só há uma moeda – o acaso?

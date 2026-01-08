@@ -1,0 +1,22 @@
+$EVE_005_TITLE
+Quadrúpedes Deliciosos
+$EVE_005_MAIN_01
+A rua se esvazia ao cair do sol. Você caminha pelo calçamento ainda quente, pensando no delicioso jantar que sua esposa preparou. Está tão relaxado que nem percebe a mulher que surge correndo na esquina. Ela tromba em você com tanta força que ambos vão ao chão. O saco que ela carregava se abre, libertando vários gatos. A mulher se levanta num salto e tenta agarrá-los, mas dois conseguem escapar. “Fugiram!”, ela grita, indecisa sobre qual perseguir primeiro. “Sem dinheiro, sem patê”, acrescenta a mulher, e de repente tudo faz sentido para você…
+$EVE_005_MAIN_01_C1
+Prenda a mulher.
+$EVE_005_MAIN_01_C2
+Deixe a mulher em paz.
+$EVE_005_MAIN_02A
+Você a segura pelo braço e a leva até os Guardas mais próximos. A mulher olha para você, tentando, em voz baixa, convencê-lo de que um pâté vale mais do que a vida de gatos. Os Guardas ficam visivelmente surpresos quando você lhes entrega o pacote. “Eu não os juntei para mim”, diz a mulher apavorada após algum tempo. “São para o filho do açougueiro. Ele é um especialista.” Enquanto os Guardas a levam embora, você reflete sobre o que ela disse. O filho do açougueiro. O que fará com esse mestre da culinária francesa?
+$EVE_005_MAIN_02A_C1
+Prenda o filho do açougueiro.
+$EVE_005_MAIN_02A_C2
+Desmascarar o filho do açougueiro.
+$EVE_005_MAIN_02B
+A mulher se afasta apertando o saco contra o peito. A cada poucos metros, ela olha ao redor, à procura de uma presa — quanto mais gorda, melhor. Você tem assuntos mais urgentes a tratar do que observar alguém caçando carne para patê…
+$EVE_005_MAIN_03A
+Que nojo! O confeiteiro estava servindo carne de gato às pessoas!
+$EVE_005_MAIN_03B
+Os parisienses não gostaram da verdade. Descobriu-se que o engenhoso confeiteiro tinha mais clientes do que se imaginava – e eles ficaram furiosos. Tão furiosos que ele teve que morrer. Um golpe forte bastou para expulsar toda a paixão culinária de sua cabeça. Na verdade, qualquer paixão. Será impossível descobrir quem empunhava o bastão mortal.
+$EVE_005_MAIN_03C
+O delicioso pâté continua sendo presença frequente à mesa de muitos lares parisienses. E não é para menos, é realmente irresistível.

@@ -1,0 +1,69 @@
+$TCUT_023_001_RENARD
+Dziękuję, że zechciałeś przyjąć nasze zaproszenie.
+$TCUT_023_002_JUDGE
+Dlatego właśnie ludzie nienawidzą arystokratów – miałem poczucie, że kazano mi przyjść.
+$TCUT_023_003_RENARD
+Słuszna uwaga. Ale i tak dziękuję.
+$TCUT_023_004_JUDGE
+Piękna rezydencja, cieszę się, że pieniądze z haraczy nie poszły w błoto.
+$TCUT_023_005_JUDGE
+Co tu robię?
+$TCUT_023_006_RENARD
+Chcieliśmy, byś poznał tych, którzy każdego dnia są ścigani za to, kim się urodzili.
+$TCUT_023_007_RENARD
+Niegdyś gnębiono biednych, teraz gnębi się bogatych.
+$TCUT_023_008_JUDGE
+Arystokracja na to zapracowała. 
+$TCUT_023_009_JUDGE
+Każdy ma jakiś powód, by was nienawidzić.
+$TCUT_023_010_RENARD
+Znowu te propagandowe hasła.
+$TCUT_023_011_RENARD
+Czy kiedy rewolucja się zakończy, to będziemy mogli wymordować tych, którzy teraz dybią na nas?
+$TCUT_023_012_JUDGE
+Powodzenia, może traficie na ludzi, którzy zabili mi dziecko.
+$TCUT_023_014_RENARD
+Przyznaję, że mieliśmy wątpliwości, czy wziąć udział w tym morderstwie, ale oferta była zbyt kusząca.
+$TCUT_023_015_JUDGE
+Co to ma znaczyć?
+$TCUT_023_016_RENARD
+Osobiście uważam, że nasz zamaskowany partner przecenia twoją wartość.
+$TCUT_023_017_RENARD
+Pragnie jednak współpracy z sędzią Trybunału.
+$TCUT_023_018_RENARD
+Zapewnił nas również, że nie chce mordować kolejnych członków twojej rodziny.
+$TCUT_023_019_JUDGE
+On zabił mi dziecko?! Wy to zrobiliście?!
+$TCUT_023_020_RENARD
+Widzisz jaką siłę daje nam, wyżej urodzonym, jedność, do której nas zmusiliście?
+$TCUT_023_021_RENARD
+Zagram z tobą w kości, tylko jedną rundę, 
+$TCUT_023_022_RENARD
+a stawką będzie los człowieka, który zdradził twoją rodzinę i pomógł nam zabić twoje dziecko… 
+
+
+$TCUT_023_MINIGAME_YES_001_JUDGE
+Dobrze, zagrajmy.
+$TCUT_023_MINIGAME_YES_002_RENARD
+Prawdziwy duch walki. To mi się podoba.
+
+$TCUT_023_MINIGAME_NO_001_JUDGE
+Nie będę brał udziału w twoich gierkach, Renard.
+$TCUT_023_MINIGAME_NO_002_RENARD
+Jesteś miernotą jak twój ojciec.
+
+$TCUT_023_MINIGAME_ROUND_01_COMM
+Naszego zamaskowanego przyjaciela przepełniał gniew. Zaproponował korzystny układ za pomoc. Zgodziliśmy się.
+$TCUT_023_MINIGAME_ROUND_02_COMM
+Groźny człowiek, zraniony. Niemądrym posunięciem byłoby mu odmawiać.
+$TCUT_023_MINIGAME_ROUND_03_COMM
+Do zabicia twojego dziecka wykorzystał informacje od wskazanej przez nas osoby. Od człowieka, z którym już kiedyś współpracowaliśmy. Wyjątkowy głupiec.
+$TCUT_023_MINIGAME_ROUND_04_COMM
+Damy ci go na tacy – jako gest dobrej woli i dowód na to, że warto się z nami sprzymierzyć.
+$TCUT_023_MINIGAME_ROUND_05_COMM
+Lada dzień arystokracja z dumą powróci do tego miasta, a wtedy rozliczymy tych, którzy nie stali po naszej stronie.
+
+$TCUT_023_MINIGAME_JUDGE_WON
+Wygrałeś, więc dotrzymamy obietnicy – dostaniesz swojego zdrajcę na tacy. A Paryż… Cóż, on nie będzie miał tak dobrze.
+$TCUT_023_MINIGAME_JUDGE_LOST
+Hazardzista prędzej czy później poznaje prawdę, że niczego nie kontroluje. Może tylko patrzeć, jak czas pcha go w stronę porażki. Umowa to umowa – przegrałeś, więc nie zdradzimy ci niczego. A Paryż otrzyma od nas coś… na co zasłużył.

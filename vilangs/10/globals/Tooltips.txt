@@ -1,0 +1,26 @@
+#INFLUENCE_TIP
+Nüfuz
+#INCLUENCE_TIP_SHORT
+IP
+#INFLUENCE_INCOME_TIP
+Artan etki
+#COST_TIP
+Maliyet:
+#SUPPORT_FORMAT_TIP
+Destek: {0}
+#PEOPLE_SUPPORT_TIP
+Halkın Desteği
+#ARISTOCRATS_SUPPORT_TIP
+Aristokratların Desteği
+#REVOLUTIONISTS_SUPPORT_TIP
+Devrimcilerin Desteği
+#REPUTATION_TIP
+İtibar
+#CLOSE_VIEW_TIP
+Görünümü kapat
+#START_DISCUSSION_TOOLTIP
+İkna Etmeye Başla
+#OPEN_DISCUSSION_INFO
+Notlarını Kontrol Et
+#DECISION_NOT_ENOUGH_POINTS
+<color=#ff0000ff>Bu işlemi gerçekleştirmek için yeterli kaynağınız yok.</color>

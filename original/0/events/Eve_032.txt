@@ -1,0 +1,13 @@
+$EVE_032_TITLE
+Monarchistyczny spisek
+$EVE_032_MAIN_01
+Mamy pierwszy element układanki. Kolejne trupy wrogich agentów dostarczą brakujących…
+$EVE_032_MAIN_02
+Jesteśmy już blisko. Niedługo personalia niejakiego “R.” będą nam znane… 
+Muszą tylko pojawić się kolejne trupy…
+$EVE_032_MAIN_03
+Renard. To zawsze był Renard. Przed śmiercią jego agent wyśpiewał grzecznie nazwisko pracodawcy. Renard. Ujawniając te rewelacje z pewnością utrudnisz jego ludziom panoszenie się po Paryżu. Co możesz jednak zyskać na milczeniu? Z pewnością miasto zakotłuje się w konsekwencji otrzymanej wiedzy, zacznie się polowanie na ukrytych zdrajców. Może więc prawdziwa władza wynikać będzie z cichego sojuszu, a nie walki?
+$EVE_032_MAIN_03_C1
+Upublicznij zdobytą wiedzę.
+$EVE_032_MAIN_03_C2
+Zachowaj informacje dla siebie.

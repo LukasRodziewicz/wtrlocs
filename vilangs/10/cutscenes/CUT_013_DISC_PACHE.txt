@@ -1,0 +1,82 @@
+$CUT_013_DISC_PACHE_START_001_PACHE
+Danton, hain! Bunu nasıl yapabildin…
+$CUT_013_DISC_PACHE_START_002_JUDGE
+Merhaba, Pache.
+$CUT_013_DISC_PACHE_START_003_PACHE
+Fidèle. Bu kadar kısa sürede geldiğiniz için teşekkür ederim.
+$CUT_013_DISC_PACHE_START_004_PACHE
+Danton beni aldattı.
+$CUT_013_DISC_PACHE_START_005_PACHE
+Danton... Bir zamanlar müttefiktik.
+$CUT_013_DISC_PACHE_START_006_PACHE
+Ondan yardım istedim, ama hiç gelmedi. Gelen sensin.
+$CUT_013_DISC_PACHE_START_007_JUDGE
+Biz dostuz, Jean.
+$CUT_013_DISC_PACHE_START_008_PACHE
+Onu yok etmeliyim, bedelini ödetmeliyim! Etmeliyiz.
+$CUT_013_DISC_PACHE_001_JUDGE_AGGR
+Devletin hizmetkârına el kaldırmaya cüret eden o alçak kim? Ve hangi sebeple?
+$CUT_013_DISC_PACHE_002_JUDGE_MANI
+Sizi neyle suçladılar? Herhalde sadece yakın dostlarınızın bildiği bir şeydir. Mesela Danton gibi biri. Neyin içine bulaştınız, Jean?
+$CUT_013_DISC_PACHE_003_JUDGE_JOKE
+Burada kesinlikle bir hata olmalı. Endişelenmeyin, akşam yemeğinden önce yine evinizde olacaksınız.
+$CUT_013_DISC_PACHE_004_JUDGE_HUMI
+Anlamıyorum. Sizi neyle suçluyorlar? Herkes Paris’in sizin yönetiminizde geliştiğini biliyorken, hem de sizi?
+$CUT_013_DISC_PACHE_005_PACHE_INTR
+İhanet. Şimdiye kadar anlayabildiğim tek şey bu. Bu suçlamaların kaynağı ya da olası deliller hakkında hiçbir fikrim yok. Ama biliyorum ki Danton yardımıma koşmuyor. Beni aldattı ve kesinlikle bu işin içinde!
+$CUT_013_DISC_PACHE_006_PACHE_DOUBT
+Görünüşe göre Fransa’ya ihanet etmişim. Aziz değilim, biliyorum, ama ihanet mi?! Ve beni kim suçluyor? O siyasi fahişe Danton mu? Kesin olarak bilmiyorum, ama içimde bir his var ki bu suçlamalarda onun parmağı var.
+$CUT_013_DISC_PACHE_007_JUDGE_AGGR
+Eğer o sinsi yılan başınıza gelenlerin sorumlusuysa, şimdi harekete geçmelisiniz. Yarınki davayı bekleyemezsiniz. Danton’un suçlarını kanıtlayacak herhangi bir deliliniz var mı?
+$CUT_013_DISC_PACHE_008_JUDGE_MANI
+Eğer bu saldırıyı Danton düzenlediyse, sana karşı delil uydurmuş olmalı. Karşılık verebilmemiz için elimizde bir şey olmalı. Onun suçlarını kanıtlayan neyin var?
+$CUT_013_DISC_PACHE_009_JUDGE_JOKE
+Danton’la ittifaka gireceğinize, elinizde onun suçlarına dair bir kanıt olmadan asla inanmazdım. Söyleyin, ona karşı kullanılabilecek herhangi bir belgeniz var mı?
+$CUT_013_DISC_PACHE_010_JUDGE_HUMI
+Eğer biri kafası kesilmeyi hak ediyorsa, o da Danton’dur – dostunuzmuş gibi davranıp sizi kandırdığı için. Ona karşı savaşmalıyız. Onun suçlarını kanıtlayacak bir şeyleriniz mutlaka vardır; bize karşı kullanabileceğimiz bir delil.
+$CUT_013_DISC_PACHE_011_PACHE_INTR
+Neden bana geldin? Neden bir hainle görüşmeyi göze aldın? Neden, Fidèle? Sadakati unut ve bırak öleyim. Bu cezayı hak ettim.
+$CUT_013_DISC_PACHE_012_PACHE_DOUBT
+Artık yapamıyorum, bununla savaşacak gücüm kalmadı. Bütün bu Devrim, bitmek bilmeyen entrikalar... Artık kimseye güvenemem... Sadece sana. Artık hiçbir şeyi anlayamıyorum.
+$CUT_013_DISC_PACHE_013_PACHE_IRRI
+Sen de beni aldatmayı mı düşünüyorsun? Yapamazsın! Düşünmüştüm ki, hayır, ummuştum ki bu şehirde gerçek bir dost bulmak mümkün olur.
+$CUT_013_DISC_PACHE_014_JUDGE_AGGR
+Uyan, Jean! Tereddüde ya da kedere yer yok! Danton’a karşılık vermem gerekiyorsa, işe yarar bir şey bulmam şart. Sana yardım edeyim, bana nerede arayacağımı söyle.
+$CUT_013_DISC_PACHE_015_JUDGE_MANI
+Dava başladığında kaderin mühürlenecek. İhanete dair bir delil varsa, sanık artık kurtarılamaz. Ama kanıtların ortaya çıkmamasını sağlayabilirim. Bunun için ise Danton’un suçlarına dair elimde bir belge olmalı. Başka yolu yok. Nerede saklıyorsun, Jean?
+$CUT_013_DISC_PACHE_016_JUDGE_JOKE
+Kendinize acımak istiyorsanız, buyurun. Ama unutmayın, Mahkeme hainleri serbest bırakmaz. Danton’un suçlarına dair bana bir kanıt sunmazsanız size yardım edemem ve yarına çıkamazsınız.
+$CUT_013_DISC_PACHE_017_JUDGE_HUMI
+Ah, sevgili Jean. İşlemediğin bir suç yüzünden ölmeni kabul edemem. Seni ve mirasını kurtaracağım, ama bunun için Danton’u suçlamalarını geri çekmeye zorlamam gerek. Söyle bana, onun suçlarını kanıtlayan belgeleri nerede saklıyorsun?
+$CUT_013_DISC_PACHE_018_JUDGE_AGGR
+Ağlamayı bırakın, her şey bitmiş değil! Gizli bir avantajınız var – size yardım etmeye istekli bir Mahkeme yargıcı. Biz müttefikiz. Bana güvenebilirsiniz.
+$CUT_013_DISC_PACHE_019_JUDGE_MANI
+Kimse Danton’a açıkça karşı çıkmaya cesaret edemez; ihanet delili uydurabileceğini biliyorlar. Herkes korkuyor. Ama ben, dostluğumuzun uzun vadeli faydalarına inandığım için, risk almaya hazırım. Sadece bu bile sizi ikna etmeli.
+$CUT_013_DISC_PACHE_020_JUDGE_JOKE
+Bana bile güvenemiyorsanız, buraya kadar gelmişken, kime güveneceksiniz? Boynunuzu kurtarmak için sıraya giren kimseyi de göremiyorum.
+$CUT_013_DISC_PACHE_021_JUDGE_HUMI
+Jean, sağduyunun sesine kulak ver. Her geçen dakika seni ölüme biraz daha yaklaştırıyor ve burada tutsakken elinden hiçbir şey gelmez. Sana yardım teklif ediyorum. Kabul et.
+$CUT_013_DISC_PACHE_022_PACHE_INTR
+Gerçekten mi? Bana yardım edecek misiniz? Geçmişte korkunç bir şey yaptım. Biri beni buna zorladı ve şimdi pişmanlık içindeyim. Ben... Size büyük bir borçlu olacağım.
+$CUT_013_DISC_PACHE_023_PACHE_DOUB
+Dostluğunu hak ettiğimden emin değilim. Çok... aşağılık bir şey yaptım. Bana emrettiler. Şimdi ise tek umudum sensin.
+$CUT_013_DISC_PACHE_024_PACHE_IRRI
+Herkes benden bir şeyler istemeye devam ediyor. Sen de Danton’un suçlarına dair kanıtı kendi çıkarların için istiyorsun, ama beni kurtarmak bunlardan biri değil. Unut gitsin.
+$CUT_013_DISC_PACHE_025_PACHE_AGGR
+Sana inanmıyorum, sen de herkes gibi beni yarı yolda bırakacaksın. Benden hiçbir şey alamazsın. Defol!
+$CUT_013_DISC_PACHE_TOPIC_01
+Buraya nasıl geldi?
+$CUT_013_DISC_PACHE_TOPIC_02
+Danton’un suçlarına dair elinde ne tür kanıtlar var?
+$CUT_013_DISC_PACHE_TOPIC_03
+Kanıt nerede?
+$CUT_013_DISC_PACHE_TOPIC_04
+Bana güvenebilirsiniz.
+$CUT_013_DISC_PACHE_SUCCESS_001_PACHE
+Danton’a karşı tüm deliller ofisimdeki kasada saklı. Anahtarı almak için asistanıma başvurun.
+$CUT_013_DISC_PACHE_SUCCESS_002_JUDGE
+Teşekkür ederim, Pache. Bununla ne yapacağımı biliyorum.
+$CUT_013_DISC_PACHE_SUCCESS_003_PACHE
+Hayır, asıl ben teşekkür ederim. Seni yanlış değerlendirmişim, Fidèle. Gerçek bir dostsun.
+$CUT_013_DISC_PACHE_SUCCESS_004_JUDGE
+Elbette, Jean. Elbette.

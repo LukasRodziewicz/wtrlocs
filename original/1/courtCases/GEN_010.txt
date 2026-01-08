@@ -1,0 +1,284 @@
+$GEN_010_DOC_1_HEADER
+Compiled by: Bertrand Moreau
+$GEN_010_DOC_1_00
+Alfred Renoir is a 43-year-old baker from the northern Parisian suburbs. Renoir has been accused of causing the death of several children from the neighbourhood. The defendant and his wife have two sons and a daughter. Witnesses claim that he is a man of few words, but sympathetic. He would not refuse to sell bread on credit, neither did he ever add sawdust to flour. During the investigation, his house was searched and no Monarchist materials were found.
+$GEN_010_DOC_1_01
+The lawsuits against the baker were filed by three women that blame him for the death of their children. In total, eight minors were found dead. The cause of death was confirmed by a Parisian doctor as <a name="2" class="hidden">hunger</a>.
+$GEN_010_DOC_1_02
+A week earlier, those women, together with a small group of neighbours, tried to force the baker to sell them bread – or at least some flour. According to witnesses, there were no more than 15 people standing in front of the bakery.
+$GEN_010_DOC_1_03
+Renoir <a name="3" class="hidden">categorically refused</a> and threatened to call the Guard. When the hungry people asked him to increase the production of bread, he refused again. On the next day, the three mothers who are now accusing him once again paid him a visit, and once more were not able to buy any bread.
+$GEN_010_DOC_1_04
+The investigator, assisted by soldiers, found a large supply of flour in the bakery’s stores. It is hard to prove whether the <a name="4" class="hidden">death of the children</a> was caused solely by the baker’s behaviour.
+$GEN_010_DOC_1_05
+The baker testified that he was buying his flour from a <a name="5" class="hidden">peasant in the countryside</a>. However, nobody has ever seen him in Paris. People are gossiping that he is conspiring with the Austrians. Many believe that the Habsburgs are trying to fight the Revolution by starving the Citizens of Paris .
+$GEN_010_DOC_1_06
+The accused couldn’t explain his reasoning for not selling bread, and would only say that he didn’t have a choice.
+$GEN_010_DOC_1_07
+Evidence: <a name="7" class="hidden">A purchase ledger.</a>
+$GEN_010_OnStart_00
+Murdering traitor! We want our bread!
+$GEN_010_OnStart_01
+When hungry and desperate people start discussing possible conspiracies, it is better to stay away from their suspicions.
+$GEN_010_OnStart_02
+The defendant may introduce himself.
+$GEN_010_OnStart_03
+My name is Alfred Renoir. I’m a baker.
+$GEN_010_OnStart_04
+Citizen Renoir, you are accused of causing the death of several children.
+$GEN_010_OnStart_05
+I didn’t kill anybody. I would never hurt a child.
+$GEN_010_OnStart_06
+He may not have used a knife, but he is still guilty.
+$GEN_010_OnStart_07
+Heartless bastard!
+$GEN_010_OnGuilty_00
+I find Alfred Renoir guilty of the deliberate starvation of the Citizens of Paris and causing the death of children. For those crimes, I sentence him to the guillotine.
+$GEN_010_OnGuilty_01
+A wise verdict. We are at war, and war calls for ruthless decisions.
+$GEN_010_OnGuilty_02
+So what? My children are still dead!
+$GEN_010_OnGuilty_03
+Give his flour to the people!
+$GEN_010_OnGuilty_04
+Great! The baker will lose his head and our bellies can finally be full!
+$GEN_010_OnNotGuilty_00
+The defendant has not committed any crime. Please release Citizen Alfred Renoir.
+$GEN_010_OnNotGuilty_01
+Objection! I demand the defendant be punished!
+$GEN_010_OnNotGuilty_02
+Your children don’t know hunger, do they Judge?
+$GEN_010_OnNotGuilty_03
+The judge surely conspires with the Austrians!
+$GEN_010_OnNotGuilty_04
+We want a different judge!
+$GEN_010_01x03_00_QTitle
+Is it true that you refused to sell bread to those three women?
+$GEN_010_01x03_00_00
+Is it true that you refused to sell bread to those three women?
+$GEN_010_01x03_00_01
+Yes, they came to me asking for bread.
+$GEN_010_01x03_00_02
+Were they trying to get it for free?
+$GEN_010_01x03_00_03
+No, they were pushing money into my hands. Even more than they were supposed to.
+$GEN_010_01x03_00_04
+And he yelled at us!
+$GEN_010_01x03_00_05
+Did you tell him that you needed it for your children?
+$GEN_010_01x03_00_06
+Yes, and he still refused.
+$GEN_010_01x03_00_07
+Have you no conscience?
+$GEN_010_01x03_00_08
+I asked them politely, yet they wouldn’t leave…
+$GEN_010_01x03_00_09
+Why did you refuse?
+$GEN_010_01x03_00_10
+I had no other choice…
+$GEN_010_02x06_01_QTitle
+Do you know that our country is at war?
+$GEN_010_02x06_01_00
+Do you know that our country is at war?
+$GEN_010_02x06_01_01
+Yes, I am aware of that.
+$GEN_010_02x06_01_02
+Then why did you refuse to help your fellow Citizens? Your actions are a betrayal of the Republic and I can charge you for treason.
+$GEN_010_02x06_01_03
+Monsieur le juge, do you know that I’m also fighting a personal war?
+$GEN_010_02x06_01_04
+What war?
+$GEN_010_02x06_01_05
+One where I’m struggling for the survival of my family. Any other war can wait. I have three children and a wife, and I cannot betray them.
+$GEN_010_02x06_01_06
+If we lose, every child will be starving.
+$GEN_010_02x06_01_07
+He sold his soul to the Austrians to give a few breadcrumbs to his whore.
+$GEN_010_02x07_02_QTitle
+According to the purchase ledger, you had enough bread…
+$GEN_010_02x07_02_00
+According to the purchase ledger, you had enough bread to sell to those women, and many other clients besides.
+$GEN_010_02x07_02_01
+I have now, but who knows what will happen soon? Will there be another supply? The true hunger has yet to hit us and I have a family to support. How long will they be forced to survive on my current supplies alone?
+$GEN_010_02x07_02_02
+We had children too!
+$GEN_010_02x07_02_03
+You were storing it all for your own use?
+$GEN_010_02x07_02_04
+For my family, yes. Is that really a crime?
+$GEN_010_02x07_02_05
+And you were eating every day?
+$GEN_010_02x07_02_06
+Luckily yes, but I’m not sure how long it will last.
+$GEN_010_02x07_02_07
+Bastard, did you hear him? Imperial sellout!
+$GEN_010_02x04_03_QTitle
+Please call in the witness.
+$GEN_010_02x04_03_00
+Please call in the witness.
+$GEN_010_02x04_03_02
+Please introduce yourself.
+$GEN_010_02x04_03_03
+Arnaud Lemout. I examined the children.
+$GEN_010_03x04_04_QTitle
+These women claim that your refusal was the direct cause…
+$GEN_010_03x04_04_00
+These women claim that your refusal was the direct cause of their children’s death. What do you say to that?
+$GEN_010_03x04_04_01
+Was my bread the last scrap of food in Paris? If they wanted to feed their children, they should have tried harder.
+$GEN_010_03x04_04_02
+He tries to blame those poor women!
+$GEN_010_03x04_04_03
+A traitorous Austrian spy dares to call me a bad mother?
+$GEN_010_03x04_04_04
+Are you suggesting this tragedy was due to the negligence of the parents?
+$GEN_010_03x04_04_05
+I am the father of my own children, not of every child in the neighbourhood.
+$GEN_010_03x04_04_06
+Your attitude shows that you do not understand the Revolutionary ideal of brotherhood.
+$GEN_010_03x04_04_07
+Freedom, equality, brotherhood… and a sharp blade to decapitate the bastards!
+$GEN_010_03x06_05_QTitle
+Are you an Austrian spy?
+$GEN_010_03x06_05_00
+Are you an Austrian spy?
+$GEN_010_03x06_05_01
+…
+$GEN_010_03x06_05_02
+Citizen?
+$GEN_010_03x06_05_03
+I didn’t reply as I would rather not insult you, monsieur le juge, because the only suitable answer is that whoever made this rubbish up must be an idiot. And I apologise, monsieur le juge, if it was your idea.
+$GEN_010_03x06_05_04
+Many people are saying that something was amiss.
+$GEN_010_03x06_05_05
+I can’t even speak their language! Some simpletons have made up this ridiculous accusation because they can’t properly manage their own lives.
+$GEN_010_03x06_05_06
+Who are you calling simpletons, you selfish bastard?!
+$GEN_010_06x05_06_QTitle
+How is your flour delivered?
+$GEN_010_06x05_06_00
+How is your flour delivered?
+$GEN_010_06x05_06_01
+I collect it myself every Saturday.
+$GEN_010_06x05_06_02
+So you regularly travel out of town? Does anybody else go with you?
+$GEN_010_06x05_06_03
+No, why?
+$GEN_010_06x05_06_04
+Because of the suspicions about you being a spy and conspirator…
+$GEN_010_06x05_06_05
+Bravo! The judge has exposed the traitor!
+$GEN_010_06x05_06_06
+Why would it be strange that a baker travels to the countryside once a week to collect flour?
+$GEN_010_06x05_06_07
+Why would it be strange that someone who regularly travels is recruited as a spy?
+$GEN_010_06x05_06_08
+That’s absurd.
+$GEN_010_06x05_06_09
+Call in the witness.
+$GEN_010_06x05_06_11
+You were the one who traded with the defendant? Please introduce yourself.
+$GEN_010_06x05_06_12
+Ruttmann is my name, I’m a peasant and a miller. Yes, I traded with him, monsieur le juge. Why not? Did I do something wrong?
+$GEN_010_WIT_00_A_QTitle
+Could you describe your conclusions after examining the children?
+$GEN_010_WIT_00_A_00
+Could you describe your conclusions after examining the children?
+$GEN_010_WIT_00_A_01
+They were weakened and gaunt, clearly malnourished. They must have been in that state for some time.
+$GEN_010_WIT_00_A_02
+Would a few loaves of bread from the baker have helped to avert the tragedy?
+$GEN_010_WIT_00_A_03
+You cannot give a starving person bread on an empty stomach. That usually has a disastrous effect. And, no, a little bread would simply postpone their death for a few days.
+$GEN_010_WIT_00_A_04
+How dare you!
+$GEN_010_WIT_00_A_05
+Perhaps in those few days the parents would have been able to find more food.
+$GEN_010_WIT_00_A_06
+Perhaps.
+$GEN_010_WIT_01_A_QTitle
+What do you think about the Austrian plan to starve all of Paris?
+$GEN_010_WIT_01_A_00
+What do you think about the Austrian plan to starve all of Paris?
+$GEN_010_WIT_01_A_01
+That is just ridiculous. One baker?
+$GEN_010_WIT_01_A_02
+People talk of dozens.
+$GEN_010_WIT_01_A_03
+In my experience, people often talk nonsense. A large group of uneducated people will always look for a simple answer.
+$GEN_010_WIT_01_A_04
+But let us assume, for a moment, that those rumours are indeed true. Would such a conspiracy of bakers lead to the deaths of a large number of people?
+$GEN_010_WIT_01_A_05
+I guess it would, yes. Many Parisians eat mostly bread, so the number of deaths would increase.
+$GEN_010_WIT_01_A_06
+Have you recently noticed an increase in the number of people starving to death?
+$GEN_010_WIT_01_A_07
+Yes, but I really don’t think that it’s the result of a plot. There are other reasons too – food supply troubles and the war, and the chaos caused by them both too.
+$GEN_010_WIT_01_A_08
+Good thing we figured it out! Treason!
+$GEN_010_WIT_02_A_QTitle
+How long have you been trading?
+$GEN_010_WIT_02_A_00
+How long have you been trading?
+$GEN_010_WIT_02_A_01
+Six or seven years now.
+$GEN_010_WIT_02_A_02
+Did you notice a change in the defendant’s behaviour recently?
+$GEN_010_WIT_02_A_03
+No, he was kind, like always. Though he tried to convince me to trade only with him.
+$GEN_010_WIT_02_A_04
+What did you say? Was that not a suspicious request?
+$GEN_010_WIT_02_A_05
+I agreed. Why would I care? He always paid well and was buying enough. I mean, sure, it was odd that he had that much money with him, but that’s none of my business, right?
+$GEN_010_WIT_02_A_06
+Did any of your other clients regularly buy such quantities of flour?
+$GEN_010_WIT_02_A_07
+It was unusual, yes. I don’t know why he needed so much flour. But these are difficult times and he always paid in advance. Other people often asked for a deferred payment, but he never has.
+$GEN_010_WIT_02_A_08
+Renoir never asked for a deferred payment?
+$GEN_010_WIT_02_A_09
+No.
+$GEN_010_WIT_02_A_10
+The Austrians must have paid the baker well for his information so he could buy all that flour.
+$GEN_010_WIT_03_A_QTitle
+Ruttmann is a strange name for a Frenchman.
+$GEN_010_WIT_03_A_00
+Ruttmann is a strange name for a Frenchman.
+$GEN_010_WIT_03_A_01
+My father came from Hanover.
+$GEN_010_WIT_03_A_02
+Is the Citizen aware that we are also at war with Hanover?
+$GEN_010_WIT_03_A_03
+So what? My father is dead and he can’t fight with anyone. I was born here.
+$GEN_010_KEY_01
+The defendant’s nature
+$GEN_010_KEY_02
+Hunger in Paris
+$GEN_010_KEY_03
+Refusing to help
+$GEN_010_KEY_04
+Death of children
+$GEN_010_KEY_05
+Mysterious supplier
+$GEN_010_KEY_06
+Hostile tactics
+$GEN_010_KEY_07
+Purchase ledger
+$GEN_010_LastDialog_00
+Who will take care of my children now? They will be on your conscience!
+$GEN_010_UNIQUE_QUESTION_00
+What was found during the investigation of the defendant’s house?
+$GEN_010_UNIQUE_ANSWER_CORRECT_00_00
+A supply of flour.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_00
+A large supply of bread.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_01
+A few bags of oats.
+$GEN_010_UNIQUE_QUESTION_01
+Why did the defendant not share his supplies?
+$GEN_010_UNIQUE_ANSWER_CORRECT_01_00
+He kept them for his family.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_00
+He did not like his neighbours.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_01
+He claims that nobody asked him for anything.

@@ -1,0 +1,20 @@
+$DIAL_H_01_03_27_001_FATHER
+Où est Bernard ?
+$DIAL_H_01_03_27_002_WIFE
+Il s'est caché quelque part pour pleurer.
+$DIAL_H_01_03_27_003_JUDGE
+Je ne sais pas quoi…
+$DIAL_H_01_03_27_004_WIFE
+Pourquoi te fatigues-tu à remuer la langue ? C'est ta faute. Tu as risqué nos vies.
+$DIAL_H_01_03_27_005_JUDGE
+J'ai essayé de vous sauver.
+$DIAL_H_01_03_27_006_FATHER
+Nous le savons…
+$DIAL_H_01_03_27_007_WIFE
+Ah oui ? Comment le savez-vous ? Parce que je ne vois que destruction autour de nous. Depuis longtemps.
+$DIAL_H_01_03_27_008_JUDGE
+Je suis désolé, du fond du cœur.
+$DIAL_H_01_03_27_009_FATHER
+Nous devons rester soudés… Nous le devons…
+$DIAL_H_01_03_27_010_WIFE
+Restez soudés, vous. Moi, je dois m'occuper de notre dernier fils. Il ne comprend toujours pas pourquoi on a voulu la mort de son frère. Il le devrait pourtant.

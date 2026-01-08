@@ -1,0 +1,44 @@
+$CUT_027_SPEECH_001_JUDGE_AGGR
+Depuis qu'il est sous la coupe de Robespierre, le Comité a cessé de remplir son rôle. Seule la main ferme de la justice peut y rétablir l'ordre !
+$CUT_027_SPEECH_002_JUDGE_MANI
+Le Comité s'est empêtré dans la concussion et la trahison. Qui d'autre peut trancher ce nœud gordien si ce n'est le gardien de la loi ?
+$CUT_027_SPEECH_003_JUDGE_JOKE
+Le Comité est rempli de vieux politiciens alanguis. Ragaillardissons-les avec du sang neuf !
+$CUT_027_SPEECH_004_JUDGE_HUMI
+Le Comité réunit certes les plus grands d'entre nous, mais même eux peuvent faire erreur. Il leur faut un nouveau capitaine, un jeune capitaine.
+$CUT_027_SPEECH_005_JUDGE_AGGR
+Tous les criminels et les traîtres du Comité trembleront de peur devant le procureur Tinville ! On ne peut rien nous cacher.
+$CUT_027_SPEECH_006_JUDGE_MANI
+Tinville a prouvé à de multiples reprises que rien ne peut l'empêcher de percer à jour les méfaits des corrompus.
+$CUT_027_SPEECH_007_JUDGE_JOKE
+Nous n'avions personne d'assez brave pour cela en dehors du procureur Tinville.
+$CUT_027_SPEECH_008_JUDGE_HUMI
+Estimons-nous chanceux qu'un héros nous soit apparu. Le procureur Tinville a accepté de rétablir l'ordre dans le Comité.
+$CUT_027_SPEECH_009_JUDGE_AGGR
+Si vous aussi, vous en avez assez d'entendre la Convention se justifier sur la difficulté de la situation, aidez-nous à leur simplifier la vie : appuyons la candidature du procureur Tinville !
+$CUT_027_SPEECH_010_JUDGE_MANI
+Danton a décidé de se sacrifier et de laisser la place à Tinville. Êtes-vous prêts à le soutenir, vous aussi ?
+$CUT_027_SPEECH_011_JUDGE_JOKE
+On ne peut pas faire pire de toute façon. Peut-être Tinville sera-t-il notre sauveur ?
+$CUT_027_SPEECH_012_JUDGE_HUMI
+La France a déjà bien trop souffert. Ses citoyens ont trop souffert. Soutiendrez-vous Tinville, notre lueur d'espoir ?
+$CUT_027_SPEECH_013_JUDGE
+Voulez-vous continuer à mourir de faim ? Souhaitez-vous continuer à regarder la corruption se répandre parmi nos gouvernants ?
+$CUT_027_SPEECH_014_CROWD
+Non !
+$CUT_027_SPEECH_015_CROWD
+Nous aurons Robespierre !
+$CUT_027_SPEECH_016_JUDGE
+Tinville nous sauvera !
+$CUT_027_SPEECH_017_CROWD
+Tinville !
+$CUT_027_SPEECH_018_CROWD
+On veut du pain !
+$CUT_027_SPEECH_019_ROBESPIERRE
+Il est grand temps que je m'intéresse à votre juge…
+$CUT_027_SPEECH_TOPIC_01
+Le moment est venu de restaurer l'ordre dans le Comité de salut public.
+$CUT_027_SPEECH_TOPIC_02
+Tinville a accepté de se charger de cette mission difficile.
+$CUT_027_SPEECH_TOPIC_03
+Aura-t-il notre soutien ?

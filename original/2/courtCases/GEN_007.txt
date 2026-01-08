@@ -1,0 +1,292 @@
+$GEN_007_DOC_01_HEADER
+Compilé par : Richard Mounier
+$GEN_007_DOC_01_00
+Patrice Leconte, un <a name="1" class="hidden">médecin réputé de 54 ans,</a> habitant le faubourg parisien de Saint-Ouen, a été accusé de<a name="2" class="hidden">meurtre</a>. La victime est Victor Rabiot, l'époux de Valérie, l'une des patientes de l'accusé.
+$GEN_007_DOC_01_01
+La victime, âgée de 63 ans, <a name="3" class="hidden">rendit visite</a> à l'accusé pour lui faire part de ses soupçons. Il y a quelque temps, Rabiot fut amené à croire que sa femme entretenait une <a name="4" class="hidden">relation inappropriée avec l'accusé</a>.
+$GEN_007_DOC_01_02
+Les témoins ont déclaré avoir vu Victor Rabiot <a name="5" class="hidden">tituber en sortant du cabinet du médecin</a>, tout pâle et tremblant. Il parvint à effectuer quelques pas supplémentaires dans la rue avant de s'écrouler en émettant des borborygmes terrifiants. La patrouille de la Garde nationale, qui arriva en premier sur la scène, fut la première à remarquer que la victime tenait dans la main un verre cassé contenant des gouttes de vin. L'enquête révéla qu'il s'agissait probablement du même vin que Rabiot but lors de son échange avec le médecin.
+$GEN_007_DOC_01_03
+Les accusations de meurtre sont évidemment tombées sur le médecin qui, en vertu de sa profession, <a name="7" class="hidden">dispose de substances</a> pouvant être utilisées pour empoisonner du vin. Nous avons également un mobile, à condition que la liaison avec sa patiente soit avérée. De source officieuse, nous savons que la femme rendait régulièrement visite au médecin. Bien que cela semble douteux, nous n'avons aucune preuve.
+$GEN_007_DOC_01_04
+Rabiot et Leconte sont des citoyens aisés et bien connus de l'aristocratie parisienne, qui exige un jugement rapide et équitable.
+$GEN_007_DOC_01_05
+Pièce à conviction : Un verre cassé contenant du vin <a name="9" class="hidden">Lettre de Valérie</a> à son amant où l'on peut lire : Je t'attendrai ce soir à l'endroit habituel. Signé ta chère V.
+$GEN_007_OnStart_00
+C'est une affaire délicate qui suscite une vaste controverse morale.
+$GEN_007_OnStart_01
+Quel est ton nom, citoyen ?
+$GEN_007_OnStart_02
+Patrice Leconte, Monsieur le juge.
+$GEN_007_OnStart_03
+Tu es accusé de meurtre. Souhaites-tu plaider coupable ?
+$GEN_007_OnStart_04
+D'après mon expertise médicale, M. Rabiot aurait pu être empoisonné par n'importe quel aliment qu'il avait mangé ce jour-là. Nous parlons d'une personne âgée, il faut en tenir compte. Il peut également s'agir d'une mort naturelle.
+$GEN_007_OnStart_05
+Tellement naturelle, comme tu le dis, que cela s'est produit sur le seuil de ton cabinet et tu n'y es pour rien ?
+$GEN_007_OnStart_06
+Simple coïncidence.
+$GEN_007_OnStart_07
+Dois-je comprendre que tu démens les accusations ?
+$GEN_007_OnStart_08
+En effet.
+$GEN_007_OnGuilty_00
+Je condamne le citoyen Patrice Leconte à être guillotiné ! Emmenez le condamné.
+$GEN_007_OnGuilty_01
+Quelle drôle d'histoire...
+$GEN_007_OnPrison_00
+Je condamne le citoyen Patrice Leconte à être emprisonné ! Emmenez le condamné.
+$GEN_007_OnPrison_01
+Quelle drôle d'histoire...
+$GEN_007_OnNotGuilty_00
+Pour le meurtre du citoyen Rabiot, je déclare le citoyen Leconte non coupable ! Veuillez-le libérer.
+$GEN_007_OnNotGuilty_01
+Quelle drôle d'histoire...
+$GEN_007_OnNoComment_00
+Je n'en peux plus, je ne répondrai à aucune question. Tuez-moi maintenant, qu'on en finisse.
+$GEN_007_01x03_00_QTitle
+Que s'est-il passé exactement le jour de la mort du citoyen Rabiot ?
+$GEN_007_01x03_00_00
+Que s'est-il passé exactement le jour de la mort du citoyen Rabiot ?
+$GEN_007_01x03_00_01
+Il est venu me parler, j'en ignorais la raison. Il était pâle et tendu, il semblait extrêmement nerveux.
+$GEN_007_01x03_00_02
+Est-ce la raison pour laquelle tu lui as servi du vin ?
+$GEN_007_01x03_00_03
+Oui, je suis allé chercher une bouteille de vin et je nous en ai servi...
+$GEN_007_01x03_00_04
+L'as-tu versé en présence de la victime ?
+$GEN_007_01x03_00_05
+Non, dans la cuisine. Quelle importance ?
+$GEN_007_01x03_00_06
+Qu'était-il censé faire, traîner l'invité partout dans sa maison ?
+$GEN_007_01x03_00_07
+Très bien. Que s'est-il passé ensuite ?
+$GEN_007_01x03_00_08
+Nous avons bu, puis M. Rabiot est sorti de la maison en criant et en s'agrippant la poitrine.
+$GEN_007_01x03_00_09
+Le décès de cet homme puissant nous importe peu. Le plus important est qu'il soit mort !
+$GEN_007_01x04_01_QTitle
+Entretenais-tu une liaison avec Mme Valérie Rabiot ?
+$GEN_007_01x04_01_00
+Entretenais-tu une liaison avec Mme Valérie Rabiot ?
+$GEN_007_01x04_01_01
+Cette question fait affront à mon professionnalisme ! Mme Rabiot est ma patiente, la nature de notre relation est purement médicale.
+$GEN_007_01x04_01_02
+Un médecin peut très bien tomber amoureux sans remettre en cause son professionnalisme.
+$GEN_007_01x04_01_03
+Je considère mes patients comme des individus en souffrance, mon but est d'essayer de les aider.
+$GEN_007_01x04_01_04
+Peut-être qu'il l'a examinée à diverses reprises... Si tu vois ce que je veux dire...
+$GEN_007_01x04_01_05
+Alors pourquoi Mme Rabiot venait-elle aussi souvent et régulièrement à ton cabinet ?
+$GEN_007_01x04_01_06
+Je ne peux révéler les détails sur l'état de santé de ma patiente. Mme Rabiot est une femme fragile qui doit prendre soin d'elle.
+$GEN_007_01x09_02_QTitle
+Une note se trouvait dans la poche de la victime, où il semblerait que toi et Mme Rabiot aviez rendez-vous à...
+$GEN_007_01x09_02_00
+Une note se trouvait dans la poche de la victime, où il semblerait que toi et Mme Rabiot aviez rendez-vous à...
+$GEN_007_01x09_02_01
+Mon nom y est-il mentionné ?
+$GEN_007_01x09_02_02
+Non. Mais alors avec qui la citoyenne Rabiot avait-elle rendez-vous ?
+$GEN_007_01x09_02_03
+Je suis médecin, pas devin. Mme Rabiot ne me confiait rien qui relevait de sa vie privée dans mon cabinet. C'est une femme très modeste et polie...
+$GEN_007_01x09_02_04
+Toutefois, Victor Rabiot te soupçonnait.
+$GEN_007_01x09_02_05
+Peut-être qu'après m'avoir rendu visite il avait l'intention d'aller voir un autre suspect, mais qu'il n'y est pas parvenu ?
+$GEN_007_01x09_02_06
+Cela n'a aucun sens.
+$GEN_007_02x05_03_QTitle
+Selon toi, quelle est la cause de la mort du citoyen Rabiot ?
+$GEN_007_02x05_03_00
+Selon toi, quelle est la cause de la mort du citoyen Rabiot ?
+$GEN_007_02x05_03_01
+Il l'a tué, voilà la cause !
+$GEN_007_02x05_03_02
+Il est possible qu'il ait été empoisonné, mais je dirais qu'il souffrait d'une angine de poitrine, un problème cardiaque.
+$GEN_007_02x05_03_03
+D'autres médecins ont-ils confirmé cette hypothèse ?
+$GEN_007_02x05_03_04
+Je ne saurais le dire, ne serait-ce pas une question destinée aux enquêteurs ?
+$GEN_007_02x05_03_05
+Comme s'ils allaient faire un effort et bouger le petit doigt...
+$GEN_007_02x05_03_06
+De manière générale, les gens s'enfuient-ils en courant lorsqu'ils souffrent de tels... problèmes cardiaques ?
+$GEN_007_02x05_03_07
+C'est la première fois que je vois ça de toute ma carrière. Mais le corps humain reste un mystère pour nous.
+$GEN_007_02x05_03_08
+Écoutez donc comment il nous amadoue avec ces mots bien choisis !
+$GEN_007_02x07_04_QTitle
+Plusieurs éléments indiquent que tu as empoisonné Victor Rabiot.
+$GEN_007_02x07_04_00
+Plusieurs éléments indiquent que tu as empoisonné Victor Rabiot.
+$GEN_007_02x07_04_01
+Ces éléments ne constituent aucune preuve. Qu'est-ce qui prouve ma culpabilité ?
+$GEN_007_02x07_04_02
+Le mari jaloux buvait du vin en compagnie de l'amant de sa femme et, quelques instants plus tard, il tombe raide mort. N'est-ce pas étrange ?
+$GEN_007_02x07_04_03
+Qu'est-ce qui prouve qu'il n'est pas l'empoisonneur ?
+$GEN_007_02x07_04_04
+Je suis médecin. Je soigne les gens, je ne les tue pas.
+$GEN_007_02x07_04_05
+En tant que docteur, peux-tu confirmer que les gens agissent parfois différemment sous le coup de fortes émotions ?
+$GEN_007_02x07_04_06
+Oui, bien sûr.
+$GEN_007_02x07_04_07
+Tu aurais donc pu faire abstraction de l'éthique médicale en raison de circonstances inattendues ?
+$GEN_007_02x07_04_08
+Le mari de sa maîtresse lui a rendu visite, il a eu peur de se prendre une raclée.
+$GEN_007_02x07_04_09
+Je vois où tu veux en venir, mais à ce moment précis, je n'étais pas nerveux. Je n'avais rien à cacher et n'avait honte de rien.
+$GEN_007_04x09_05_QTitle
+Faites entrer le témoin, Valérie Rabiot.
+$GEN_007_04x09_05_00
+Faites entrer le témoin, Valérie Rabiot.
+$GEN_007_04x09_05_02
+Je te prie de te présenter, citoyenne.
+$GEN_007_04x09_05_03
+Je m'appelle Valérie Rabiot, je suis depuis peu la veuve de feu Victor Rabiot.
+$GEN_007_04x09_05_04
+Un mot a été retrouvé dans la poche du manteau de ton défunt mari. L'as-tu écrit ? Le cas échéant, qui en était le destinataire ?
+$GEN_007_04x09_05_05
+Je suppose que Monsieur le juge veut savoir si le mot était adressé au citoyen Leconte. Eh bien, non.
+$GEN_007_04x09_05_06
+Alors à qui était-il adressé ?
+$GEN_007_04x09_05_07
+À... une femme. Elle n'a rien à voir dans cette histoire et je ne veux pas qu'elle y soit mêlée.
+$GEN_007_04x09_05_08
+C'est à moi de décider de ce qui est important ou non.
+$GEN_007_04x09_05_09
+Il s'agit de... Hélène Betancourt.
+$GEN_007_06x02_06_QTitle
+Quel type de vin as-tu servi ?
+$GEN_007_06x02_06_00
+Quel type de vin as-tu servi ?
+$GEN_007_06x02_06_01
+Je ne suis pas un expert sommelier. Je ne me souviens plus du nom, mais c'était du rouge.
+$GEN_007_06x02_06_02
+Dirais-tu qu'il a un peu trop fluidifié la circulation sanguine de la victime ?
+$GEN_007_06x02_06_03
+Si tu es adepte des plaisanteries de bas étage, alors oui. Cependant, je ne trouve pas cela amusant.
+$GEN_007_06x02_06_04
+Je trouve cela déconcertant que, depuis le début de ce procès, tu n'aies pas sourcillé une seule fois.
+$GEN_007_06x02_06_05
+En tant que médecin, je suis confronté chaque jour à la mort et à la souffrance. On finit par s'y habituer.
+$GEN_007_06x02_06_06
+Es-tu habitué à la mort ?
+$GEN_007_06x02_06_07
+On pourrait dire ça.
+$GEN_007_06x02_06_08
+Le fait de tuer une personne ne te poserait pas de problème ? Tu as tout du parfait tueur.
+$GEN_007_06x02_06_09
+Dans les faits, je serais capable de le faire, mais je ne suis en aucun cas parfait. Tuer ne me procurerait aucun plaisir.
+$GEN_007_06x02_06_10
+Sauf s'il s'agit des époux de tes maîtresses.
+$GEN_007_01x07_07_QTitle
+En tant que médecin, tu as accès à divers types de médicaments et de substances...
+$GEN_007_01x07_07_00
+En tant que médecin, tu as accès à divers types de médicaments et de substances qui, s'ils sont employés à mauvais escient, peuvent entraîner la mort.
+$GEN_007_01x07_07_01
+Toute substance utilisée de manière excessive peut s'avérer dangereuse et, en tant que médecin, je sais comment éviter ce genre d'accidents.
+$GEN_007_01x07_07_02
+Donc tu connaîtrais la substance et sa quantité requise pour tuer quelqu'un ?
+$GEN_007_01x07_07_03
+Si l'on suit cette logique, toutes les femmes au foyer et tous les chefs cuisiniers sont des assassins du seul fait de disposer de couteaux de cuisine, est-ce exact ?
+$GEN_007_01x07_07_04
+Mais toutes les cuisines ne se transforment pas en scène de crime, n'est-ce pas vrai non plus ?
+$GEN_007_01x07_07_05
+En effet.
+$GEN_007_01x07_07_06
+Et Victor Rabiot est mort empoisonné après t'avoir rendu visite.
+$GEN_007_01x07_07_07
+Tout à fait, beaucoup de personnes présentes dans la rue peuvent en témoigner.
+$GEN_007_WIT_01_A_QTitle
+À quelle fréquence voyais-tu le médecin, le citoyen Leconte ?
+$GEN_007_WIT_01_A_00
+À quelle fréquence voyais-tu le médecin, le citoyen Leconte ?
+$GEN_007_WIT_01_A_01
+Ces derniers temps c'était assez récurrent, puisque mon état de santé s'est détérioré. Le citoyen Leconte est un excellent spécialiste.
+$GEN_007_WIT_01_A_02
+Penses-tu que le citoyen Leconte aurait pu empoisonner ton époux ?
+$GEN_007_WIT_01_A_03
+Même s'il n'avait aucun mobile, il existe d'autres preuves pour corroborer cette accusation.
+$GEN_007_WIT_01_A_04
+Je suis convaincue qu'il l'a tué.
+$GEN_007_WIT_01_A_05
+Et pourquoi cela ?
+$GEN_007_WIT_01_A_06
+J'ai rejeté ses avances lorsqu'il m'a confessé son amour. Ma vie sentimentale est assez complexe, mais je voulais rester fidèle à mon mari... malgré ma relation avec Hélène... j'ai fait confiance au citoyen Leconte, mais maintenant mon époux n'est plus de ce monde.
+$GEN_007_WIT_01_A_07
+Merci pour ces aveux.
+$GEN_007_WIT_01_A_09
+Souhaites-tu commenter ces révélations ?
+$GEN_007_WIT_01_A_10
+Je ne sais pas... je ne sais pas quoi dire. Après tout, c'est elle, Monsieur le juge, qui m'a demandé de tuer son mari.
+$GEN_007_WIT_01_A_11
+Qu'est-ce que c'est que ces balivernes ?
+$GEN_007_WIT_01_A_12
+Oui, je suis amoureux de Valérie Rabiot. C'est pourquoi j'ai honoré sa demande et l'ai libérée de son porc de mari. Je l'ai fait... au nom du bonheur de ma bien-aimée.
+$GEN_007_WIT_01_A_13
+L'avez-vous tous entendu ? Cet homme vient d'avouer sa culpabilité.
+$GEN_007_WIT_01_A_14
+On a entendu !
+$GEN_007_WIT_01_A_15
+Assassin !
+$GEN_007_WIT_01_A_16
+Une drôle d'histoire, en effet. Qui croire ? Le citoyen Leconte est au pied du mur...
+$GEN_007_WIT_01_A_17
+Imaginons que je te croie, pourquoi la veuve du citoyen Rabiot témoignerait contre toi ?
+$GEN_007_WIT_01_A_18
+Je suis le seul à pouvoir la dénoncer. Mais je l'aime et je ne ferais jamais une telle chose. Pourquoi veut-elle m'anéantir ?
+$GEN_007_WIT_01_A_19
+Tous deux pourraient être en train de mentir, réfléchis bien avant de prendre ta décision.
+$GEN_007_WIT_01_B_QTitle
+Ton défunt mari t'a laissé une sacrée fortune.
+$GEN_007_WIT_01_B_00
+Ton défunt mari t'a laissé une sacrée fortune.
+$GEN_007_WIT_01_B_01
+Et alors ?
+$GEN_007_WIT_01_B_02
+Hélène, ta maîtresse, ne pourra plus se plaindre d'être pauvre.
+$GEN_007_WIT_01_B_03
+Qu'insinue-t-il ?
+$GEN_007_WIT_01_B_04
+N'oublions pas que le citoyen Rabiot est presque mort au niveau de la porte d'entrée du citoyen Leconte.
+$GEN_007_WIT_01_B_05
+Ces allusions prêtent à confusion. Peut-être que j'aimais quelqu'un d'autre, mais je suis restée avec mon mari même lorsqu'il me maltraitait.
+$GEN_007_WIT_01_B_07
+Souhaites-tu commenter la déclaration du témoin ?
+$GEN_007_WIT_01_B_08
+Je ne pense pas être en mesure d'ajouter quoi que ce soit, sauf que ce n'est pas un hasard s'il manque des preuves tangibles dans cette affaire.
+$GEN_007_WIT_01_B_09
+Il existe, toutefois, de nombreux indices.
+$GEN_007_KEY_01
+Médecin reconnu
+$GEN_007_KEY_02
+Meurtre
+$GEN_007_KEY_03
+Visite
+$GEN_007_KEY_04
+Lien avec l'accusé
+$GEN_007_KEY_05
+Sortie précipitée du cabinet
+$GEN_007_KEY_06
+Alcool au cours de la conversation
+$GEN_007_KEY_07
+Accès à des substances toxiques
+$GEN_007_KEY_08
+Verre cassé
+$GEN_007_KEY_09
+Mot de Valérie Rabiot
+$GEN_007_LastDialog_00
+J'ai sauvé bien plus de personnes que vous en avez tuées avec votre guillotine. J'espère que la culpabilité vous rongera de l'intérieur pour le restant de vos jours.
+$GEN_007_UNIQUE_QUESTION_00
+Que buvaient la victime et le prévenu lors de leur rencontre ?
+$GEN_007_UNIQUE_ANSWER_CORRECT_00_00
+Du vin.
+$GEN_007_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Du thé.
+$GEN_007_UNIQUE_ANSWER_NOT_CORRECT_00_01
+De l'eau.

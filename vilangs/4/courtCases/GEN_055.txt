@@ -1,0 +1,266 @@
+$GEN_055_DOC_01_HEADER
+Zusammengestellt von: Charles Étienne
+$GEN_055_DOC_01_00
+	Percivall Hill, ein 54-jähriger britischer Arzt mit ständigem Wohnsitz in Paris, wird zahlreicher Morde an seinen Patienten beschuldigt. Die Aufmerksamkeit der medizinischen Fachwelt zog der Doktor auf sich, als Pariser Buchhandlungen und Stände sein Werk „Abhandlung über Aufbau und Entwicklung von Tumoren“ zu verkaufen begannen.
+$GEN_055_DOC_01_01
+	Diese Veröffentlichung enthält <a name="3" class="hidden">zahlreiche Kupferstiche</a>, die <a name="4" class="hidden">Wucherungen</a> auf der Haut sowie an inneren Organen der Patienten im Detail zeigen. Wie wir von Buchhändlern erfuhren, war dieses Werk, obwohl es sich an ein spezielles Publikum richtete, <a name="5" class="hidden">rasch aus den Regalen verschwunden</a>.
+$GEN_055_DOC_01_02
+	Etwa einen Monat nach dem Erscheinen der Abhandlung veröffentlichten zwölf Pariser Ärzte eine gemeinsame Anklage gegen den Autor. Ihrer Ansicht nach hatten mindestens drei Viertel der Patienten, an denen Hill <a name="7" class="hidden">eine Autopsie</a> durchführte, keinen Grund, in einem so frühen Stadium der Krankheit zu sterben. Daraus folgerten sie, dass er sie für seine Forschung töten musste.
+$GEN_055_DOC_01_03
+	Die Praxis des Arztes im Bezirk der Brüderlichkeit wurde gründlich durchsucht. Der Behandlungsraum war leer und sorgfältig gereinigt, jedoch stießen wir auf interessante Informationen in <a name="8" class="hidden">den Aufzeichnungen von Dr. Hills Assistenten</a>.
+$GEN_055_DOC_02_00
+Notizen des Assistenten
+$GEN_055_DOC_02_01
+	Die zwölfte Autopsie in diesem Monat war ein voller Erfolg. Im Dickdarm von François Mallet hatte sich gerade erst ein Tumor zu entwickeln begonnen. Wir konnten ihn in einem äußerst frühen Stadium entdecken, das der Wissenschaft bisher unbekannt war. Nun müssen wir einen Patienten im zweiten, höchstens dritten Stadium der Krankheit auswählen und ihn für unsere Forschung „beschaffen“.
+$GEN_055_OnStart_00
+Es scheint, als hätte Dr. Hill vergessen, dass die Wissenschaft den Menschen dienen soll – und nicht umgekehrt.
+$GEN_055_OnStart_01
+Sind Sie Dr. Hill, der Verfasser des „Traktats über Aufbau und Entwicklung von Tumoren“?
+$GEN_055_OnStart_02
+Ja, das bin ich.
+$GEN_055_OnStart_03
+Ihnen wird vorgeworfen, Ihre eigenen Patienten getötet zu haben. Möchten Sie zu Ihrer Verteidigung etwas sagen?
+$GEN_055_OnStart_04
+Ich plädiere auf nicht schuldig.
+$GEN_055_OnStart_05
+Wie erklären Sie dann die große Anzahl an Autopsien, die in Ihrem Büro durchgeführt wurden?
+$GEN_055_OnStart_06
+Hätte ich nur einen vertrauenswürdigen Helfer in Paris, könnte ich viel mehr erreichen.
+$GEN_055_OnStart_07
+Die Aufgabe eines Arztes ist es, die Lebenden zu heilen, nicht die Toten zu zerschneiden!
+$GEN_055_OnStart_08
+Sind all Ihre Patienten an Tumoren gestorben?
+$GEN_055_OnStart_09
+Nein, nicht alle. Manche dieser unglücklichen Seelen starben an Infektionen, Unfällen oder bei betrunkenen Schlägereien.
+$GEN_055_OnGuilty_00
+Dr. Hill, Ihre Taten waren kriminell und abscheulich. Ich verurteile Sie zum Tode.
+$GEN_055_OnGuilty_01
+Er verdient es auch, in Stücke gehackt zu werden!
+$GEN_055_OnPrison_00
+Bürger, Ihre Ziele waren ehrenhaft, doch Ihre Methoden… Ich verurteile Sie zu Gefängnis.
+$GEN_055_OnPrison_01
+Das reicht nicht!
+$GEN_055_OnPrison_02
+Schickt dieses Monster zur Guillotine!
+$GEN_055_OnNotGuilty_00
+Ich sehe nur Neider, die Dr. Hill mit falschen Anschuldigungen überhäufen. Doktor, ich wünsche Ihnen viel Erfolg im weiteren Kampf gegen diese Krankheit. Sie sind frei.
+$GEN_055_OnNotGuilty_01
+Was soll das heißen?
+$GEN_055_OnNotGuilty_02
+Hat er sie nun getötet oder nicht?
+$GEN_055_OnNotGuilty_03
+Ich bin mir nicht sicher, ob ich das verstehe.
+$GEN_055_03x07_00_QTitle
+Hat Ihre Forschung viel Zeit in Anspruch genommen?
+$GEN_055_03x07_00_00
+Hat Ihre Forschung viel Zeit in Anspruch genommen?
+$GEN_055_03x07_00_01
+Natürlich. Schon das Zeichnen allein dauert unglaublich lange.
+$GEN_055_03x07_00_02
+Ich verstehe, dass Sie auch Geld brauchten, um diese Untersuchungen durchzuführen.
+$GEN_055_03x07_00_03
+In der Tat wäre es kaum möglich, solche Forschungen allein mit einer Arztpraxis zu finanzieren.
+$GEN_055_03x07_00_04
+Wie sind Sie dann an das Geld gekommen?
+$GEN_055_03x07_00_05
+Von meinem britischen Verleger, Harold Walter Smith. Wir haben einen Vertrag über die Veröffentlichung unterzeichnet, und er hat mir ein Honorarvorschuss gezahlt.
+$GEN_055_03x07_00_06
+Wer Geld von den Briten nimmt, ist ein Verräter!
+$GEN_055_03x07_00_07
+Ich halte mich von der Politik fern…
+$GEN_055_03x07_00_08
+Wagen Sie es nicht, sich dumm zu stellen. Die Zusammenarbeit mit britischen Verlegern während eines Krieges mit Großbritannien ist Politik – und vielleicht sogar Verrat!
+$GEN_055_05x04_01_QTitle
+Hat Ihr Buch das Thema der Wucherungen erschöpfend behandelt?
+$GEN_055_05x04_01_00
+Hat Ihr Buch das Thema der Wucherungen vollständig erschöpft?
+$GEN_055_05x04_01_01
+Im Gegenteil, wir werden diese Krankheit noch viele Jahre lang erforschen.
+$GEN_055_05x04_01_02
+Indem du Menschen tötest?
+$GEN_055_05x04_01_03
+Schweigen Sie, wenn Sie nicht wissen, wovon Sie sprechen.
+$GEN_055_05x04_01_04
+Bürger, in diesem Gericht sorge ich für Ruhe, nicht Sie.
+$GEN_055_05x04_01_05
+Verzeihung, Unwissenheit bringt mich zur Weißglut.
+$GEN_055_05x04_01_06
+Haben Sie also vor, Ihre Forschungen fortzusetzen?
+$GEN_055_05x04_01_07
+Natürlich. Ich werde alles tun, was nötig ist, und keine Ruhe finden, bis ich eine Waffe finde, die dieses Monster töten kann.
+$GEN_055_05x04_01_08
+Sie werden also weiterhin morden und geben das auch noch offen zu?!
+$GEN_055_05x04_01_09
+Ich arbeite für die Wissenschaft, nicht für Totengräber! Und ebenso gegen Ignoranten wie die hinter mir und diesen Staatsanwalt!
+$GEN_055_05x04_01_10
+Wenn der Richter dieses Ungeheuer nicht zur Strecke bringt, dann tun wir es!
+$GEN_055_04x07_02_QTitle
+Welche Wucherungen haben Sie untersucht?
+$GEN_055_04x07_02_00
+Welche Wucherungen haben Sie untersucht?
+$GEN_055_04x07_02_01
+Es sind Geschwülste. Die Römer nannten diese Krankheit Krebs. Sie ist eine furchterregende Erkrankung.
+$GEN_055_04x07_02_02
+Ist es tödlich?
+$GEN_055_04x07_02_03
+Ja, die Erkrankten sterben unter Qualen.
+$GEN_055_04x07_02_04
+Ist diese Krankheit weit verbreitet?
+$GEN_055_04x07_02_05
+Ganz recht, doch ebenso häufig lebt der Patient jahrelang damit und stirbt, ohne je zu erfahren, dass sein Körper von dieser tödlichen Krankheit befallen war.
+$GEN_055_04x07_02_06
+Unsinn und Scharlatanerie!
+$GEN_055_04x07_02_07
+Ignoranten! Ihr habt ja keine Ahnung, was gut für euch ist!
+$GEN_055_04x07_02_08
+Achten Sie auf Ihre Worte, sonst bringen Sie jene, die Sie beleidigen, schneller aufs Schafott, als Sie blinzeln können!
+$GEN_055_04x07_02_09
+Gewöhnlichen Menschen sollte es nicht gestattet sein, über wissenschaftliche Angelegenheiten zu sprechen.
+$GEN_055_06x03_03_QTitle
+Sie haben fast 150 Obduktionen durchgeführt. Wie erklären Sie das?
+$GEN_055_06x03_03_00
+Sie haben beinahe 150 Obduktionen durchgeführt. Wie erklären Sie das?
+$GEN_055_06x03_03_01
+Es gab weitaus mehr, doch weniger als 150 eigneten sich zur Veröffentlichung.
+$GEN_055_06x03_03_02
+Erklären Sie bitte, wie es Ihnen möglich war, so viele Leichen zu finden, die zum Thema Ihres Buches passen.
+$GEN_055_06x03_03_03
+Ich muss wohl Glück gehabt haben.
+$GEN_055_06x03_03_04
+Er ist geradezu überheblich!
+$GEN_055_06x03_03_05
+Waren sie alle Ihre Patienten?
+$GEN_055_06x03_03_06
+Nein, ich bin in Krankenhäuser gegangen und habe nach Menschen mit bestimmten Beschwerden gesucht, bei denen ich die Krankheit vermutete.
+$GEN_055_06x03_03_07
+Und dann haben Sie darauf gewartet, dass sie sterben?
+$GEN_055_06x03_03_08
+Ja.
+$GEN_055_08x01_04_QTitle
+Rufen Sie Louis Delon herein.
+$GEN_055_08x01_04_00
+Rufen Sie Louis Delon herein.
+$GEN_055_08x01_04_02
+Sind Sie Louis Delon, der Assistent von Dr. Hill?
+$GEN_055_08x01_04_03
+In der Tat, das bin ich.
+$GEN_055_08x01_04_04
+Ihr Arbeitgeber wird beschuldigt, seine eigenen Patienten ermordet zu haben. Was haben Sie dazu zu sagen?
+$GEN_055_08x01_04_05
+Alle kamen zu ihm, um Hilfe zu suchen, und er tat, was er konnte. Mehr gibt es nicht zu sagen.
+$GEN_055_08x01_04_06
+Also waren alle Fälle aus dem Buch Dr. Hills Privatpatienten?
+$GEN_055_08x01_04_07
+Ja, Monsieur Richter.
+$GEN_055_02x05_05_QTitle
+Hat sich Ihr Buch gut verkauft?
+$GEN_055_02x05_05_00
+Hat sich Ihr Buch gut verkauft?
+$GEN_055_02x05_05_01
+Ich will mich nicht beklagen. Die erste Auflage ist fast ausverkauft.
+$GEN_055_02x05_05_02
+Haben Sie damit gut verdient?
+$GEN_055_02x05_05_03
+Er hat all diese Menschen getötet, nur um sich selbst zu bereichern!
+$GEN_055_02x05_05_04
+Natürlich, aber das spielt keine Rolle.
+$GEN_055_02x05_05_05
+Was ist dann von Bedeutung?
+$GEN_055_02x05_05_06
+Diese Krankheit hat mehr Leben gefordert als Brände und wilde Tiere zusammen. Wir müssen sie erforschen, bevor sie uns alle tötet. Wenn Sie mich hier festhalten, verzögern Sie den Fortschritt! Künftige Generationen werden Ihnen das nicht verzeihen.
+$GEN_055_02x05_05_07
+Wären Sie bereit gewesen zu töten, um mehr über die Krankheit zu erfahren?
+$GEN_055_02x05_05_08
+Jedes neue Wissen rettet in Zukunft Hunderte von Leben.
+$GEN_055_02x05_05_09
+Bitte beantworten Sie die Frage.
+$GEN_055_02x05_05_10
+Ich weiß es nicht, da ich niemals eine solche Entscheidung treffen musste.
+$GEN_055_08x03_06_QTitle
+Laut den Aufzeichnungen Ihres Assistenten haben Sie gezielt nach bestimmten Patienten für Ihre Zeichnungen gesucht.
+$GEN_055_08x03_06_00
+Die Aufzeichnungen Ihres Assistenten besagen, dass Sie gezielt nach bestimmten Patienten für Ihre Zeichnungen gesucht haben.
+$GEN_055_08x03_06_01
+Ich wollte möglichst viele verschiedene Tumorarten einbeziehen. Die Krankheit äußert sich anders, wenn sie die Lunge befällt, als wenn sie die Blase betrifft. Das ist für die Wissenschaft von großer Bedeutung.
+$GEN_055_08x03_06_02
+Erlauben Sie mir, aus den Aufzeichnungen zu zitieren: „Wir müssen einen Patienten auswählen … und ihn für unsere Forschung ‚beschaffen‘.“ Das klingt nicht so, als hätten Sie darauf gewartet, dass der richtige Patient stirbt.
+$GEN_055_08x03_06_03
+Die Aufzeichnungen dieses Narren gehen nur ihn selbst etwas an. Ich weiß nichts darüber.
+$GEN_055_08x03_06_04
+Es scheint, als müssten Sie darüber etwas wissen.
+$GEN_055_08x03_06_05
+Ich habe dazu nichts weiter zu sagen.
+$GEN_055_08x03_06_06
+Ein Monster, kein Arzt!
+$GEN_055_WIT_00_A_QTitle
+Haben die Angehörigen der Patienten den Obduktionen zugestimmt?
+$GEN_055_WIT_00_A_00
+Haben die Angehörigen der Patienten den Obduktionen zugestimmt?
+$GEN_055_WIT_00_A_01
+Ja. So mussten sie keinen Arzt bezahlen.
+$GEN_055_WIT_00_A_02
+Das klingt nach Erpressung.
+$GEN_055_WIT_00_A_03
+Es war eher ein faires Geschäft. Die meisten von ihnen waren arm, für sie war es wie ein Geschenk des Himmels.
+$GEN_055_WIT_00_A_04
+Was für Wohltäter!
+$GEN_055_WIT_00_B_QTitle
+In Ihren Aufzeichnungen erwähnten Sie, dass Sie einen neuen Patienten für Ihre Forschung beschaffen mussten.
+$GEN_055_WIT_00_B_00
+In Ihren Aufzeichnungen schreiben Sie, dass Sie einen neuen Patienten für Ihre Forschungen beschaffen mussten. Wie soll ich diese Worte verstehen?
+$GEN_055_WIT_00_B_01
+…
+$GEN_055_WIT_00_B_02
+Beantworten Sie die Frage.
+$GEN_055_WIT_00_B_03
+Das war nur eine Redensart.
+$GEN_055_WIT_00_B_04
+Wie haben Sie Patienten für Ihre Forschungen gewonnen?
+$GEN_055_WIT_00_B_05
+Wir warteten einfach ab, bis jemand bei einem Unfall starb, oder…
+$GEN_055_WIT_00_B_06
+Oder?
+$GEN_055_WIT_00_B_07
+Oder an einer Krankheit, das ist alles. Ich war nur der Assistent.
+$GEN_055_KEY_01
+Patienten
+$GEN_055_KEY_02
+Buch
+$GEN_055_KEY_03
+Stiche
+$GEN_055_KEY_04
+Wucherung
+$GEN_055_KEY_05
+Ausverkaufte Bücher
+$GEN_055_KEY_06
+Pariser Ärzte
+$GEN_055_KEY_07
+Obduktion
+$GEN_055_KEY_08
+Notizen des Assistenten
+$GEN_055_LastDialog_00
+Dann macht nur weiter und schlagt der Wissenschaft den Kopf ab, aus Mitleid mit denen, für die es ohnehin keine Hoffnung gab. Hätten Sie sie retten können? Wird mein Tod andere retten?
+$GEN_055_UNIQUE_QUESTION_00
+Woher hatte der Arzt das Geld für seine Forschungen?
+$GEN_055_UNIQUE_ANSWER_CORRECT_00_00
+Von einem britischen Verlag.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Von einem kranken Reichen, der nach Heilung suchte.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Von der französischen Regierung.
+$GEN_055_UNIQUE_QUESTION_01
+Wie brachte der Arzt die Familien dazu, ihm eine Obduktion zu erlauben?
+$GEN_055_UNIQUE_ANSWER_CORRECT_01_00
+Er verzichtete auf Zahlungen für die Behandlung.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Er hat ihnen gedroht.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Er bot ihnen Geld an.
+$GEN_055_UNIQUE_QUESTION_02
+Wo suchte Dr. Hill nach Fällen, die zu seinem Buch passen würden?
+$GEN_055_UNIQUE_ANSWER_CORRECT_02_00
+In Krankenhäusern.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Er bat seine Kollegen.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_02_01
+In Leichenschauhäusern.

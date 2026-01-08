@@ -1,0 +1,22 @@
+$EVE_005_TITLE
+Lezzetli Dört Ayaklılar
+$EVE_005_MAIN_01
+Güneş batarken sokaklar boşalıyor. Hâlâ sıcak olan kaldırımda yürürken, eşinizin hazırladığı nefis akşam yemeğini düşünüyorsunuz. O kadar dalmışsınız ki, köşeden hızla fırlayan kadını fark etmiyorsunuz. Kadın öyle bir hızla çarpıyor ki, ikiniz de yere savruluyorsunuz. Kadın bir çuval düşürüyor, içinden birkaç kedi fırlayıp kaçışıyor. Kadın hemen ayağa kalkıp kedileri yakalamaya çalışıyor, ama ikisi kaçmayı başarıyor. “Kaçtılar!” diye bağırıyor kadın, hangisini kovalayacağına karar veremeden. “Para yoksa, pate de yok,” diye ekliyor kadın ve bir anda neler döndüğünü anlıyorsunuz…
+$EVE_005_MAIN_01_C1
+Kadını tutuklayın.
+$EVE_005_MAIN_01_C2
+Kadını rahat bırakın.
+$EVE_005_MAIN_02A
+Onu kolundan tutup en yakın Muhafızlara götürüyorsunuz. Kadın size bakıyor, sessizce, pâté’nin kedilerin hayatından daha değerli olduğuna sizi inandırmaya çalışıyor. Paketi teslim ettiğinizde Muhafızlar açıkça şaşkın. Bir süre sonra, dehşet içindeki kadın itiraf ediyor: “Onları kendim için toplamadım. Kasabın oğlu için. O bir uzman.” Muhafızlar kadını götürürken, söylediklerini düşünüyorsunuz. Kasabın oğlu. Bu Fransız mutfağının ustasıyla ne yapacaksınız?
+$EVE_005_MAIN_02A_C1
+Kasabın oğlunu tutukla.
+$EVE_005_MAIN_02A_C2
+Kasabın oğlunu ifşa et.
+$EVE_005_MAIN_02B
+Kadın, torbayı sıkıca kavrayarak uzaklaşıyor. Her birkaç metrede bir etrafına bakınıyor, avını arıyor; ne kadar etliyse o kadar iyi. Birinin pate için et peşinde koşmasını izlemekten daha acil işleriniz var…
+$EVE_005_MAIN_03A
+İğrenç! Pastacı insanlara kedi eti yedirmiş!
+$EVE_005_MAIN_03B
+Paris halkı gerçeği sevmedi. Meğer o becerikli pastacının beklenenden çok daha fazla müşterisi varmış – ve hepsi öfke içindeydi. Öyle ki, adamın ölmesi gerekti. Güçlü bir darbe, kafasındaki mutfak tutkusunu – hatta her türlü tutkuyu – söküp attı. Ölümcül sopayı kimin salladığını bulmak imkânsız olacak.
+$EVE_005_MAIN_03C
+Lezzetli pate hâlâ birçok Parisli ailenin sofrasında yerini koruyor. Gerçekten de nefis.

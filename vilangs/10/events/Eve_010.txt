@@ -1,0 +1,16 @@
+$EVE_010_TITLE
+Alman Saldırgan
+$EVE_010_MAIN_01
+Bir yargıç olarak, gerçeklerle söylentileri ayırt etmek zorundasınız, fakat Paris’in yurttaşları buna pek aldırmaz. Özellikle de dedikodular, şehrin birkaç kilometre ötesinde sözde konuşlanmış ve her an kuşatma başlatacak bir yabancı orduyu içeriyorsa. Dedikodudan ibaret, ama öyle cazip ki, paniğe kapılan bir kalabalık silah deposuna hücum etmeye kalkışıyor. Hazırlıklı olmak istiyorlar.
+$EVE_010_MAIN_01_C1
+Mahkeme Muhafızını Gönder
+$EVE_010_MAIN_01_C2
+Bir konuşma yap
+$EVE_010_MAIN_02A
+Ağır sopalar ve dirgenlerle silahlanmış insanlar, tüfekli askerlere karşı ne kadar etkili olabileceklerini zaten kanıtladı. Neyse ki bu sefer çatışma çıkmadı; saldırganlar, takviye kuvvetleri görünce korkup dağıldı. Cephanelik güvende. İnsanlar kuşatmanın aptalca bir dedikodudan ibaret olduğunu anladıklarında, o silahları kendi şahsi düşmanlarına karşı kullanmaya kalkarlardı.
+$EVE_010_MAIN_02B
+Muhafızlar sizin için bir fıçı hazırlar ve siz de üzerine çıkıp ateşli konuşmanıza başlarsınız. Böyle zorlu zamanlarda kardeşliğin önemine vurgu yapar, topluluğa devrimin düşmanlarının yaydığı paniğe ve dedikodulara kapılmamalarını söylersiniz. Sözleriniz onları dizginlemeye yeter.
+$EVE_010_MAIN_02C
+Konuşmanız öylesine ateşliydi ki, Devrim’in masum kurbanlarını bile diriltebilirdi; yine de Paris Yurttaşları etkilenmedi. Yaklaşan düşmanların tehdidi, sözlerinizin en güçlü imgelerinden bile daha baskın çıktı ve halk, cephaneliği ele geçirme fikrinden vazgeçmeyi reddetti. Askerler, çatışmayla meşgul olduklarından size ulaşamadı; o sırada hain bir bıçak kaburgalarınızın arasını buldu…
+$EVE_010_MAIN_02D
+Cephaneliğin basılması başarıyla sonuçlandı. Hatta, Parislilerin bu konuda ustalaştığını söylemek mümkün. Birkaç asker öldü, geri kalanlar teslim oldu ve ağır yaralanmaktan ya da halk tarafından linç edilmekten bir şekilde kurtuldu. Fakat itibarınız bundan ağır yara alacak. Artık insanlar istediklerini yapabileceklerini düşünüyor gibi görünüyor…

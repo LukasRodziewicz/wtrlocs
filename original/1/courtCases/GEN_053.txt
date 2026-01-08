@@ -1,0 +1,324 @@
+$GEN_053_DOC_01_HEADER
+Compiled by: Charles Étienne
+$GEN_053_DOC_01_00
+	Lucas Adnet, a craftsman and single <a name="1" class="hidden">father of two daughters</a>, has been accused of murder and defiling a dead body. The case was brought to our attention thanks to a denunciation made by a fellow Citizen. During an <a name="2" class="hidden">evening reception</a> a doctor of medical sciences, Jean-Joël Gaumont, was delighted with the beautifully made tableware. The physician asked the hosts for the manufacturer’s address and visited him the following day <a name="3" class="hidden">in his workshop</a>.
+$GEN_053_DOC_01_01
+	When looking at Lucas Adnet’s samples of <a name="4" class="hidden">cutlery with bone handles</a>, he noticed a cleaver with a long handle that, disturbingly, the physician instantly recognised as human bone.
+$GEN_053_DOC_01_02
+	Gaumont bid Adnet farewell and headed to the nearest National Guard station to make a denunciation. During the search, they found bones stored <a name="5" class="hidden">in a shed</a>, sorted by size in wooden boxes. The stench was difficult to bear, even for the most seasoned officers…
+$GEN_053_DOC_01_03
+	The only information revealed during the investigation was that Adnet had bought the bones at a <a name="7" class="hidden">street market</a> from the trader Claudine Plouffe. Doctors brought in from Salpêtrière hospital prepared a bone inspection report that is attached to the case file.
+$GEN_053_DOC_02_00
+The report created by the physicians from Salpêtrière hospital:
+$GEN_053_DOC_02_01
+	The findings near Lucas Adnet’s workshop have vexed us deeply. We discovered both human and animal bones. Despite our best efforts, we were not able to find a complete skeleton. However, the boxes contained <a name="9" class="hidden">two jawbones</a>, two pelvic pieces, several tibias, and femoral bones of various sizes. We estimate that they belonged to four or five people…
+$GEN_053_OnStart_00
+Are you the craftsman, Lucas Adnet?
+$GEN_053_OnStart_01
+Indeed, sir.
+$GEN_053_OnStart_02
+The correct term is “monsieur le juge”.
+$GEN_053_OnStart_03
+I apologise. Yes, monsieur le juge, I have been producing cutlery for at least ten years.
+$GEN_053_OnStart_04
+Were you aware that there were human bones in your workshop?
+$GEN_053_OnStart_05
+Not at all, monsieur le juge. I only looked for quality. I am not a doctor.
+$GEN_053_OnStart_06
+What do you mean by quality?
+$GEN_053_OnStart_07
+That the bones are not fragile or cracked.
+$GEN_053_OnStart_08
+Bet he knows how to use a knife to make sure the bones are intact!
+$GEN_053_OnStart_09
+He must strangle or drown them.
+$GEN_053_OnStart_10
+So you must know which bones best suit your needs?
+$GEN_053_OnStart_11
+Some suit them, some do not, monsieur le juge. I usually buy cow bones in the market. Pig bones are worse, but a boar will do.
+$GEN_053_OnGuilty_00
+The evidence leaves no margin for doubt. Lucas Adnet, I sentence you to the guillotine.
+$GEN_053_OnGuilty_01
+That is too mild a punishment.
+$GEN_053_OnGuilty_02
+Feed his bones to pigs!
+$GEN_053_OnPrison_00
+Citizen Adnet, I find you guilty of murder and defiling corpses. You will spend the rest of your life in prison.
+$GEN_053_OnPrison_01
+He lives while his victims are used by nobles to stir soup.
+$GEN_053_OnNotGuilty_00
+Citizen Adnet, next time you see suspicious bones at the street market, make a denunciation. For now, you are free to go.
+$GEN_053_OnNotGuilty_01
+Why? Nothing that we have heard today stands in his favour.
+$GEN_053_OnNotGuilty_02
+The judge has lost his mind.
+$GEN_053_OnNotGuilty_03
+Hey, craftsman, you’d better stay off them streets, ’cause you ain’t foolin’ us.
+$GEN_053_02x04_00_QTitle
+Call in Dr Gaumont.
+$GEN_053_02x04_00_00
+Call in Dr Gaumont.
+$GEN_053_01x09_01_QTitle
+Citizen Adnet, are you raising two daughters by yourself?
+$GEN_053_01x09_01_00
+Citizen Adnet, are you raising two daughters by yourself?
+$GEN_053_01x09_01_01
+Yes I am, but sometimes my sister helps me.
+$GEN_053_01x09_01_02
+What happened to their mother?
+$GEN_053_01x09_01_03
+She drowned when my youngest was two years old.
+$GEN_053_01x09_01_04
+Where was she buried?
+$GEN_053_01x09_01_05
+Nowhere, the body was never found.
+$GEN_053_01x09_01_06
+He used her to make forks!
+$GEN_053_01x09_01_07
+Do the girls attend school?
+$GEN_053_01x09_01_08
+I don’t trust schools, they teach nothing of use.
+$GEN_053_01x09_01_09
+What about learning to read and write?
+$GEN_053_01x09_01_10
+Anything that’s useful in life I can teach them myself.
+$GEN_053_08x05_02_QTitle
+Did you keep all the bones in the shed?
+$GEN_053_08x05_02_00
+Did you keep all the bones in the shed?
+$GEN_053_08x05_02_01
+Most of them.
+$GEN_053_08x05_02_02
+Why there, of all places?
+$GEN_053_08x05_02_03
+Bones are best stored where maggots can eat away the flesh and fat. They squeeze through the boards and lay eggs, and then their larvae feast. Maggots are real gluttons.
+$GEN_053_08x05_02_04
+They?
+$GEN_053_08x05_02_05
+Flies.
+$GEN_053_08x05_02_06
+Freak!
+$GEN_053_08x05_02_07
+So you are saying that the bones you bought were still covered in flesh?
+$GEN_053_08x05_02_08
+Usually, yes. Fresh ones are easier to carve. They’re soft, delicate…
+$GEN_053_08x05_02_09
+Were you not bothered by the stench?
+$GEN_053_08x05_02_10
+On the contrary, the smell represents both life and death. Sometimes at night I would come to the shed...
+$GEN_053_08x05_02_11
+To smell the rotting meat?
+$GEN_053_08x05_02_12
+Decay is a fascinating process. On dead flesh, insects lay eggs that hatch then grow. Life doesn’t end, but turns into more life. I like to watch it.
+$GEN_053_08x05_02_13
+Does it give you… pleasure?
+$GEN_053_08x05_02_14
+Yes. I guess it’s how a gardener feels when he observes his flowers.
+$GEN_053_07x09_03_QTitle
+You claim to have bought human jawbones at a street market?
+$GEN_053_07x09_03_00
+You claim to have bought human jawbones at a street market?
+$GEN_053_07x09_03_01
+Yes, monsieur le juge, I–
+$GEN_053_07x09_03_02
+I will give you the chance to be honest with me. Whose bones did you store in your shed, and where did you get them?
+$GEN_053_07x09_03_03
+…
+$GEN_053_07x09_03_04
+Pardon?
+$GEN_053_07x09_03_05
+I bought them at a street market in the 6th Section.
+$GEN_053_07x09_03_06
+Liar!
+$GEN_053_07x09_03_07
+How do the vendors store the bones?
+$GEN_053_07x09_03_08
+In wooden boxes, like those used for vegetables.
+$GEN_053_07x09_03_09
+They are rather small. A whole human jaw would surely not fit inside one.
+$GEN_053_07x09_03_10
+…
+$GEN_053_07x09_03_11
+You will not admit your guilt?
+$GEN_053_07x09_03_12
+All I ever wanted was to make beautiful cutlery. Beautiful, and with a soul.
+$GEN_053_03x06_04_QTitle
+How many bones do you use every month?
+$GEN_053_03x06_04_00
+How many bones do you use every month?
+$GEN_053_03x06_04_01
+I’m slow, and crafting takes time. Before you begin the carving process, you need to prepare the raw material. First I soak the bones in sour milk so that–
+$GEN_053_03x06_04_02
+Answer the question.
+$GEN_053_03x06_04_03
+Part of what you found in the shed probably wouldn’t be much use – it’s not possible to spot the cracks in them immediately. I think those materials would last for no longer than a month.
+$GEN_053_03x06_04_04
+Then what?
+$GEN_053_03x06_04_05
+After using about half of what I have, I’d have to go to the street market for more.
+$GEN_053_03x06_04_06
+Or to the cemetery with a shovel!
+$GEN_053_03x06_04_07
+Do you still refuse to admit it? Were you killing people or looking for bones in catacombs?
+$GEN_053_03x06_04_08
+Old bones are not the best carving material.
+$GEN_053_03x06_04_09
+Should we treat that as a confession of murder?
+$GEN_053_03x06_04_10
+What are you talking about? I’ve not killed anyone! I bought bones at a street market.
+$GEN_053_04x07_05_QTitle
+Who do you sell your merchandise to?
+$GEN_053_04x07_05_00
+Who do you sell your merchandise to?
+$GEN_053_04x07_05_01
+Usually to wealthier Citizens. My craftsmanship is incredibly detailed. I would even dare to call it art.
+$GEN_053_04x07_05_02
+To hell with that kind of art!
+$GEN_053_04x07_05_03
+Besides, handles made of bone are impressive.
+$GEN_053_04x07_05_04
+Stop before I throw up on the first row…
+$GEN_053_04x07_05_05
+Do you sell a lot of your products?
+$GEN_053_04x07_05_06
+Quite a lot. Enough to live without fear. Once I sold a whole set to an English diplomat. The bones I process are as white as snow, so I easily convinced him it was made of ivory. I earned several times as much as I do when selling a regular set to French Citizens.
+$GEN_053_04x07_05_07
+Should I also add fraud to the list of charges against you?
+$GEN_053_04x07_05_08
+If it stops you talking nonsense about me killing people, I will admit to deceit.
+$GEN_053_07x08_06_QTitle
+Call in the witness, Claudine Plouffe.
+$GEN_053_07x08_06_00
+Call in the witness, Claudine Plouffe.
+$GEN_053_07x08_06_02
+Claudine Plouffe?
+$GEN_053_07x08_06_03
+Correct.
+$GEN_053_WIT_00_A_QTitle
+How did you recognise a human bone in the workshop?
+$GEN_053_WIT_00_A_00
+How did you recognise a human bone in the workshop?
+$GEN_053_WIT_00_A_01
+It was a tibia. An untrained eye could mistake it for an animal bone, but they differ in thickness and shape. Excuse the simplification, but the human tibia usually has a more triangular cross-section.
+$GEN_053_WIT_00_A_02
+And you had no doubts?
+$GEN_053_WIT_00_A_03
+Monsieur le juge, I have seen enough bones in my life. This one could as well have been my own.
+$GEN_053_WIT_00_A_04
+Was it old?
+$GEN_053_WIT_00_A_05
+Are you asking about the time of its owner’s death? It is hard to say given that the bone had been carved.
+$GEN_053_WIT_00_A_06
+Could you attempt an estimation? It is important.
+$GEN_053_WIT_00_A_07
+If I were to guess, I would say that an old bone, one taken from a grave, would not be good carving material. It would be too brittle and yellowed.
+$GEN_053_WIT_00_A_08
+Are you sure?
+$GEN_053_WIT_00_A_09
+I have never dug up a corpse, so I can only repeat what my intuition tells me.
+$GEN_053_WIT_00_B_QTitle
+Please describe Citizen Adnet’s behaviour during your visit.
+$GEN_053_WIT_00_B_00
+Please describe Citizen Adnet’s behaviour during your visit.
+$GEN_053_WIT_00_B_01
+Now that you ask, monsieur le juge, I remember that he was carving something.
+$GEN_053_WIT_00_B_02
+Did he speak to you or encourage you to buy something?
+$GEN_053_WIT_00_B_03
+After greeting me, he did not pay that much attention to me. I was fine with that, as I truly loathe high-pressure salesmen.
+$GEN_053_WIT_00_B_04
+Did you ask any questions?
+$GEN_053_WIT_00_B_05
+I asked about the price. I don’t remember it exactly, but it struck me as low for the delicate precision of his workmanship.
+$GEN_053_WIT_00_B_06
+Then you saw the human bone?
+$GEN_053_WIT_00_B_07
+That is correct. I first thought that I was imagining it, but then I picked it up and turned it over in my hand…
+$GEN_053_WIT_01_A_QTitle
+Do you know the accused?
+$GEN_053_WIT_01_A_00
+Do you know the accused?
+$GEN_053_WIT_01_A_01
+Yes, he often came to buy bones from me.
+$GEN_053_WIT_01_A_02
+Did you sell him animal bones?
+$GEN_053_WIT_01_A_03
+I… well…
+$GEN_053_WIT_01_A_04
+Citizen?
+$GEN_053_WIT_01_A_05
+Animal, yes, but I don’t know much about bones. Sometimes I got the feeling there was something strange about what the butcher brought us…
+$GEN_053_WIT_01_A_06
+As though it was not taken from an animal?
+$GEN_053_WIT_01_A_07
+I don’t know, just strange.
+$GEN_053_WIT_01_A_08
+How frequent were the butcher’s deliveries?
+$GEN_053_WIT_01_A_09
+Not often. Once, maybe twice a month.
+$GEN_053_WIT_01_B_QTitle
+Did you ever ask the accused why he needed those bones?
+$GEN_053_WIT_01_B_00
+Did you ever ask the accused why he needed those bones?
+$GEN_053_WIT_01_B_01
+I did. He said he’d make cutlery from them. I just tapped my temple like he was crazy and went back to work.
+$GEN_053_WIT_01_B_02
+So you found it strange?
+$GEN_053_WIT_01_B_03
+Yes, but these are strange times. People can get used to anything.
+$GEN_053_WIT_01_B_04
+Was Citizen Adnet carefully picking the bones he bought? As though he were looking for something special?
+$GEN_053_WIT_01_B_05
+Yes, he often stood by the basket and rummaged about. But sometimes when he was in a hurry he’d just buy whole baskets.
+$GEN_053_WIT_01_B_06
+How often did he come for bones?
+$GEN_053_WIT_01_B_07
+He used to come often, but I haven’t seen that much of him in the last six months. He said that he found another supplier.
+$GEN_053_WIT_01_B_08
+Why not kill a few undertakers too, just in case?
+$GEN_053_WIT_01_B_09
+Did he mention a name?
+$GEN_053_WIT_01_B_10
+I didn’t care to ask.
+$GEN_053_WIT_01_B_12
+Who was the other supplier the witness mentioned?
+$GEN_053_WIT_01_B_13
+There was nobody, monsieur le juge. Recently, I have not had that much money and did not want people to know that business is not good…
+$GEN_053_WIT_01_B_14
+He’s lying like the trickster he admitted to being!
+$GEN_053_KEY_01
+Father of two daughters
+$GEN_053_KEY_02
+Reception
+$GEN_053_KEY_03
+Workshop
+$GEN_053_KEY_04
+Cutlery with bone handles
+$GEN_053_KEY_05
+Shed
+$GEN_053_KEY_06
+Wooden boxes
+$GEN_053_KEY_07
+Street market
+$GEN_053_KEY_08
+Animal bones
+$GEN_053_KEY_09
+Human jawbones
+$GEN_053_LastDialog_00
+Who will take care of my daughters? You, you murderers and rapists? That’s right, that’s what you are!
+$GEN_053_UNIQUE_QUESTION_00
+What happened to the craftsman’s wife?
+$GEN_053_UNIQUE_ANSWER_CORRECT_00_00
+She drowned.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_00_00
+She left him for another man.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_00_01
+She was sentenced to the guillotined.
+$GEN_053_UNIQUE_QUESTION_01
+According to the defendant, what kind of bones did he usually buy in the market?
+$GEN_053_UNIQUE_ANSWER_CORRECT_01_00
+Cow bones.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Pig bones.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Dog bones.

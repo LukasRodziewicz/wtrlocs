@@ -1,0 +1,30 @@
+$DIAL_H_01_02_18_001_JUDGE
+Wann haben Sie meinen Bruder Bruno kennengelernt?
+$DIAL_H_01_02_18_002_SPY
+Wir dienten in derselben Brigade, und ich verdanke ihm mein Leben. Er setzte sich selbst der Gefahr aus, als er mich verwundet vom Schlachtfeld zog – doch selbst hatte er nicht so viel Glück.
+$DIAL_H_01_02_18_003_WIFE
+Wir haben diesem Mann bereits viel zu viel Zeit gewidmet, sowohl in unseren Gedanken als auch in unseren Gesprächen.
+$DIAL_H_01_02_18_004_JUDGE
+Ich will es wissen…
+$DIAL_H_01_02_18_005_GRANDFATHER
+Ich ebenso.
+$DIAL_H_01_02_18_006_SPY
+Eine verirrte Kugel hat ihn getötet. Ich hatte nie die Gelegenheit, mich bei ihm für die Rettung meines Lebens zu bedanken. Ich versichere Ihnen, wir waren Freunde.
+$DIAL_H_01_02_18_007_SPY
+Ihr Bruder zog mich aus den Leichen und schleppte mich weit weg vom Schlachtfeld. Kaum hatten wir die Bäume erreicht, traf ihn eine verirrte Kugel in den Rücken.
+$DIAL_H_01_02_18_008_SPY
+Er starb beinahe augenblicklich, und ich… desertierte. Ich dachte, ich sollte Ihnen, seinem Blut, danken und versuchen, diese Schuld mit meinen Taten zu begleichen.
+$DIAL_H_01_02_18_009_JUDGE
+Also hat Bruno für seine Sünden bezahlt.
+$DIAL_H_01_02_18_010_GRANDFATHER
+Mein Sohn…
+$DIAL_H_01_02_18_011_SPY
+Er sagte oft: „Alexis, mein Bruder, nur er zählt.“ Du musst ihm viel bedeutet haben.
+$DIAL_H_01_02_18_BATTLEROUND_1
+Unsere Nachhut kämpfte gegen den Feind und unterlag. Dann drang der Feind in das Lager ein, wo wir Verwundeten versorgt wurden. Wir mussten zu den Waffen greifen.
+$DIAL_H_01_02_18_BATTLEROUND_2
+Ihr Bruder kämpfte wie ein Besessener, die Menschen scharten sich um ihn.
+$DIAL_H_01_02_18_BATTLEROUND_3
+Wir hofften, dass jemand zur Rettung eilte, doch tief in uns wussten wir, dass es zu spät sein würde…
+$DIAL_H_01_02_18_BATTLEROUND_4
+Jemand hat mich mit einem Bajonett aufgespießt. Ich lag dort und verblutete, während meine Freunde einer nach dem anderen von Kugeln niedergestreckt wurden.

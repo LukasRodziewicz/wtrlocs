@@ -1,0 +1,29 @@
+$CUT_036_JUDGE_WON_BROTHER_001
+Las huellas de nuestro crimen serán borradas por la lluvia de la mañana.
+$CUT_036_JUDGE_WON_BROTHER_002
+No estaremos aquí, pues, una vez más, hermano matará a hermano.
+$CUT_036_JUDGE_WON_BROTHER_003
+¿Quién querría ser un héroe en un mundo así?
+$CUT_036_JUDGE_WON_004
+<¡BUM!>
+$CUT_036_JUDGE_LOST_BROTHER_001
+Ha llegado la hora de morir, hermano.
+$CUT_036_JUDGE_LOST_BROTHER_002
+Mañana, cuando la lluvia matinal borre las huellas de nuestros crímenes, la gente volverá a matarse entre sí, 
+justificando que hay una nueva revolución.
+$CUT_036_JUDGE_LOST_003
+<¡BUM!>
+$CUT_036_CROWD_001
+¡Ganador!
+$CUT_036_CROWD_002
+¡Napoleón nos salvó!
+$CUT_036_CROWD_003
+¡Héroe!
+$CUT_036_JUDGE_004
+Héroe…
+$CUT_036_BOY_005
+Héroe.
+$CUT_036_PUPPETEER_006
+¿Quién ganó?
+$CUT_036_PUPPETEER_007
+¿Quién será el siguiente?

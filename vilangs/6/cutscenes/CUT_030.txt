@@ -1,0 +1,138 @@
+$CUT_030_001_JUDGE
+Nunca tus ojos estuvieron tan vacíos.
+$CUT_030_002_JUDGE
+Pero hoy… quiero que te sientas orgullosa de mí.
+$CUT_030_003_THUG
+Venga conmigo, monsieur le juge.
+$CUT_030_004_JUDGE
+¡Hijo!
+$CUT_030_005_BROTHER
+Bienvenido... hermano.
+$CUT_030_006_BROTHER
+Has estado perdido en la oscuridad durante tanto tiempo.
+$CUT_030_007_JUDGE
+¿Bruno? ¿Eres realmente tú? ¿Cómo... cómo es posible?
+$CUT_030_008_BROTHER
+Te dijeron en qué debías creer.
+$CUT_030_009_BROTHER
+Tuve que morir como el hijo predilecto de nuestro padre para poder renacer.
+$CUT_030_010_BROTHER
+Como su némesis.
+$CUT_030_011_JUDGE
+No entiendo... ¿Qué significa todo esto?
+$CUT_030_012_BROTHER
+He regresado para arrebatarte todo lo que perdí por tu culpa. La familia, la felicidad…
+$CUT_030_013_BROTHER
+Mientras usted disfrutaba de una vida familiar apacible, yo me arrastraba por el barro del campo de batalla.
+$CUT_030_014_JUDGE
+Todos pensábamos que estabas muerto.
+$CUT_030_015_BROTHER
+Así era mucho más fácil, ¿verdad? Yo estaba muerto y he pasado por el infierno, querido hermano.
+$CUT_030_016_BROTHER
+París me dio la espalda; al oír mi nombre, todas las puertas se cerraban.
+$CUT_030_017_BROTHER
+Fue entonces cuando el infierno vino por mí.
+$CUT_030_018_BROTHER
+Me alisté en el ejército, esperando una muerte honorable.
+$CUT_030_019_BROTHER
+En cambio, fui capturado. Me llevaron. Y sufrí.
+$CUT_030_020_BROTHER
+Los enemigos jugaron a los dados conmigo.
+$CUT_030_021_BROTHER
+Si ganara, sería libre.
+$CUT_030_022_BROTHER
+Pero por cada ronda perdida, también perdería una mano.
+$CUT_030_023_BROTHER
+Gané la primera…
+$CUT_030_024_BROTHER
+...pero el segundo...
+$CUT_030_025_BROTHER
+Logré escapar y entonces comencé a planear mi venganza: contra nuestra familia, contra nuestro padre.
+$CUT_030_026_BROTHER
+A todos los que me rechazaron.
+$CUT_030_027_JUDGE
+¿Venganza? ¿Contra nosotros? Deberías culpar a Clément Renard, fue él quien…
+$CUT_030_028_BROTHER
+¡Os culpo a todos! A mi padre, a ti, a Francia…
+$CUT_030_029_JUDGE
+¿Quieres hacerle daño a tu propia familia?
+$CUT_030_030_BROTHER
+¡Me repudiaste! Como Dios repudió a Caín.
+$CUT_030_031_BROTHER
+Padre abandonó a su propio hijo, y ni siquiera intentaste defenderme.
+$CUT_030_032_JUDGE
+Era joven…
+$CUT_030_033_BROTHER
+Ahora eres un adulto, y nuestro padre contemplará tu caída en desgracia — hasta lo más bajo que puedas llegar.
+$CUT_030_034_BROTHER
+Tarde o temprano te abandonará, como lo hizo conmigo.
+$CUT_030_035_BROTHER
+He comprendido que la muerte no le dolerá tanto,
+$CUT_030_036_BROTHER
+como ver a su otro hijo tocar fondo y convertirse también en un villano.
+$CUT_030_037_BROTHER
+Y lo hiciste de maravilla. Los destruiste.
+$CUT_030_038_BROTHER
+Los Roland.
+$CUT_030_039_BROTHER
+Pache y su hija.
+$CUT_030_040_BROTHER
+Gobel y su hijo bastardo.
+$CUT_030_041_BROTHER
+Y ahora Robespierre.
+$CUT_030_042_BROTHER
+Seguiste mi plan al pie de la letra. Solo necesitaba despertar en ti el deseo de poder.
+$CUT_030_043_BROTHER
+Me aseguré de que cayeras conmigo, justo delante de nuestro padre.
+$CUT_030_044_BROTHER
+Ahora verá que somos iguales.
+$CUT_030_045_JUDGE
+¿La muerte de mi hijo también formaba parte de tu plan?
+$CUT_030_046_BROTHER
+Lo ejecuté por medio de Renard y de tu querido mentor.
+$CUT_030_047_BROTHER
+Lo visité y le hice creer la historia sobre su hijo encarcelado.
+$CUT_030_048_BROTHER
+Entonces, él también se volvió uno de los nuestros. Un monstruo.
+$CUT_030_049_BROTHER
+Me ayudó a matar a tu hijo para salvar al suyo.
+$CUT_030_050_BROTHER
+Verás, yo necesitaba mi propia revolución.
+$CUT_030_051_BROTHER
+Un lugar para aquellos a quienes llamáis criminales, porque no encajan en vuestra sociedad.
+$CUT_030_052_BROTHER
+Lidero un ejército de marginados en París.
+$CUT_030_053_BROTHER
+Un ejército de hijos e hijas que quedaron huérfanos tras decapitar a sus madres.
+$CUT_030_054_BROTHER
+Personas que lo han perdido todo por culpa de la Revolución y fueron expulsadas, obligadas a buscar refugio en tierras extranjeras.
+$CUT_030_055_BROTHER
+En pocos días atacaremos París y, sobre sus ruinas, construiremos un nuevo hogar. Un lugar donde un padre siempre vigilará a sus dos hijos.
+$CUT_030_056_JUDGE
+¿Estás loco?!
+$CUT_030_057_BROTHER
+Espera a que escuches lo que pienso hacer con tu segundo hijo…
+$CUT_030_058_JUDGE
+¡Él no ha hecho nada!
+$CUT_030_059_BROTHER
+Todos deben pagar por los pecados de sus padres, así como yo pagué por la cobardía del nuestro.
+$CUT_030_060_BROTHER
+Jugaremos dos rondas de dados.
+$CUT_030_061_BROTHER
+Por cada ronda que pierdas, él perderá una mano.
+$CUT_030_062_BROTHER
+Ese es el mismo precio que yo tuve que pagar, y ahora le toca a tu hijo.
+$CUT_030_063_BROTHER
+El precio es justo para los pecados de los que eres culpable.
+$CUT_030_064_JUDGE
+Ramel... mi amigo.
+$CUT_030_065_JUDGE
+Él me salvó.
+$CUT_030_066_JUDGE
+Salvó a mi hijo.
+$CUT_030_067_JUDGE
+Pero no podía salvar lo que ya se había hecho añicos.
+$CUT_030_068_JUDGE
+Sus ojos no estaban vacíos.
+$CUT_030_069_JUDGE
+Sus ojos…

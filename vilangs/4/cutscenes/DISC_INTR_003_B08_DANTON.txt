@@ -1,0 +1,48 @@
+$DISC_INTR_003_B08_DANTON_001_JUDGE_AGGR
+Wir haben die Lage auf den Straßen nicht mehr unter Kontrolle. Das Chaos kann jeden treffen, und es fällt uns schwer, die Menge zu besänftigen.
+$DISC_INTR_003_B08_DANTON_002_JUDGE_MANI
+Die Lage ist außer Kontrolle geraten. Gestern wurde ein Mädchen zusammengeschlagen, weil man sie verdächtigte, für die Aufständischen zu spionieren. Wer weiß, wer ihr nächstes Ziel sein wird – Sie, ich…
+$DISC_INTR_003_B08_DANTON_003_JUDGE_JOKE
+Solange die Leute nur mit faulen Tomaten warfen, war die Lage noch hinnehmbar, aber jetzt sind sie mit Knüppeln bewaffnet.
+$DISC_INTR_003_B08_DANTON_004_JUDGE_HUMI
+Ich weiß, dass ich versprochen habe, dem Volk zu dienen und die Freiheit zu verteidigen, aber unsere Bürger treiben es zu weit.
+$DISC_INTR_003_B08_DANTON_005_DANTON_SATI
+Die Lage ist beunruhigend, da stimme ich zu. Die Menschen fürchten sich, nach draußen zu gehen. Es freut mich, dass Sie sich dieser Situation annehmen wollen, auch wenn ich Ihren Plan nicht kenne.
+$DISC_INTR_003_B08_DANTON_006_DANTON_INTR
+Menschen in unserer Position kümmern sich nicht um die Menge, sondern nur um einzelne Störenfriede, die uns im Weg stehen. Ich nehme an, ich werde bald von ihnen hören.
+$DISC_INTR_003_B08_DANTON_007_DANTON_DOUB
+Ich habe mich immer gefragt, ob Sie aus der Situation einen Vorteil ziehen würden.
+$DISC_INTR_003_B08_DANTON_008_JUDGE_AGGR
+Gobel hat alles ruiniert! Mit so einem Geheimnis hätte er alles tun müssen, damit es niemals ans Licht kommt, aber stattdessen benahm er sich wie ein Kind!
+$DISC_INTR_003_B08_DANTON_009_JUDGE_MANI
+Sollten sich die Gerüchte bewahrheiten, wird Gobels Anwesenheit die Lage nur verschlimmern. Wollen wir wirklich, dass das Volk glaubt, die Behörden seien korrupt? Mein Ruf steht auf dem Spiel – ebenso wie Ihrer und der Ihrer Freunde aus dem Konvent.
+$DISC_INTR_003_B08_DANTON_010_JUDGE_JOKE
+Gobel hat sich im denkbar ungünstigsten Moment in Schwierigkeiten gebracht. Vielleicht hat der Papst endlich seine Rache bekommen? Gott hat seine Gebete erhört und beschlossen, den Erzbischof für seine verfassungsmäßige Ernennung zu bestrafen…
+$DISC_INTR_003_B08_DANTON_011_JUDGE_HUMI
+Ich möchte keine Urteile in Abwesenheit fällen, doch es scheint mir, als hätte der Zorn des Volkes einige alte Geheimnisse ans Licht gebracht – etwa das des Erzbischofs Gobel. Vielleicht sollten wir etwas dagegen unternehmen?
+$DISC_INTR_003_B08_DANTON_012_DANTON_SATI
+Wir sollten uns um Gobel kümmern, bevor der Konvent die Kontrolle über sein Verhalten verliert.
+$DISC_INTR_003_B08_DANTON_013_DANTON_INTR
+Gobel ist wirklich zu einem lästigen Dorn im Auge geworden, aber ich kann seine Lage nachvollziehen – Wohlhabende werden stets für mehr beschuldigt, als sie tatsächlich getan haben.
+$DISC_INTR_003_B08_DANTON_014_DANTON_DOUB
+Ich weiß immer noch nicht, was Sie davon haben werden.
+$DISC_INTR_003_B08_DANTON_015_JUDGE_AGGR
+Wir dürfen nicht für das Verhalten einer einzelnen Gruppe bezahlen. Mit all ihren Lügen und ihrem Verfall hat die Kirche den Zorn des Volkes selbst heraufbeschworen. Lasst uns mit ihr abschließen und endlich in Frieden leben.
+$DISC_INTR_003_B08_DANTON_016_JUDGE_MANI
+Dem wütenden Tiger sollte man eine Beute zum Zerreißen vorwerfen, dann wird er sich auf nichts anderes mehr konzentrieren und wir könnten in Frieden leben. Da der Tiger nun seine Zähne ins Klerus schlagen will…
+$DISC_INTR_003_B08_DANTON_017_JUDGE_JOKE
+Uns bleibt wirklich keine andere Wahl. Sie verlangen nach dem Klerus, also geben wir ihnen den Klerus. Wenn sie den Klerus des Verrats bezichtigen, sollten wir ihre Worte wiederholen. Einfach und wirkungsvoll.
+$DISC_INTR_003_B08_DANTON_018_JUDGE_HUMI
+Ich bin dagegen, der Kirche zu schaden. Sie fügt sich selbst Schaden zu, durch die Hände von Ausgestoßenen, die von unseren Bürgern verflucht werden. Wir müssen alle Verbindungen zu dieser Gruppe kappen. Zum Wohle aller.
+$DISC_INTR_003_B08_DANTON_019_DANTON_SATI
+Ihre Argumente sind überzeugend. Die Kirche muss für ihre ungeschickte Politik bezahlen, und da sie sich nun einmal eingemischt hat…
+$DISC_INTR_003_B08_DANTON_020_DANTON_INTR
+Radikale Lösungen haben mich nie begeistert – sie sind am Ende immer zu kostspielig. Heute jedoch sehe ich keinen anderen Ausweg.
+$DISC_INTR_003_B08_DANTON_021_DANTON_DOUB
+Ich verstehe, dass Sie Ihre Gründe haben, und es zeugt von Klugheit, dass Sie diese nicht offenlegen wollen. Doch Ihre Argumente überzeugen mich nicht, denn ich habe zu viel zu verlieren.
+$DISC_INTR_003_B08_DANTON_TOPIC_01
+Die Lage auf den Straßen gerät zunehmend außer Kontrolle.
+$DISC_INTR_003_B08_DANTON_TOPIC_02
+Die Schwierigkeiten mit Gobel haben nur noch Öl ins Feuer gegossen.
+$DISC_INTR_003_B08_DANTON_TOPIC_03
+Wir müssen jemanden bestrafen und ein Exempel statuieren, und das Volk will sich am Klerus rächen.

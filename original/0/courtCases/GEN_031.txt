@@ -1,0 +1,314 @@
+$GEN_031_DOC_1_HEADER
+Sporządził: Nathan d’Essiraf
+$GEN_031_DOC_1_00
+	Arthur Bonnet, 38-letni dyrektor Teatru Odéon, został oskarżony o stręczycielstwo. O tym, że w Odéonie działa regularny burdel, organy ścigania wiedzą od dawna. Część aktorek sprzedaje się za pieniądze tuż po występie. Wykorzystują one możliwość pojawienia się na scenie nie tylko jako przykrywkę, ale także reklamę. Klientami Odéonu mogą być członkowie Konwentu i oficerowie. Dzięki temu dyrektor Bonnet może czerpać znaczne <a name="2" class="hidden">korzyści finansowe</a>, nie obawiając się konsekwencji. Najnowsze doniesienia wydają się jednak zbyt bulwersujące, by pozostawić je bez odpowiedzi.
+$GEN_031_DOC_1_01
+	Bonnet został <a name="3" class="hidden">oskarżony o stręczenie</a> powierzonej mu pod opiekę 13-letniej Olivii de Nerval. O fakcie tym administrację sądu poinformował Arnaud de Condorcet, przyjaciel skazanego jakiś czas temu na ścięcie ojca dziewczynki.
+$GEN_031_DOC_1_02
+	Według zeznań Arnauda Olivia de Nerval zagrała rolę w <a name="5" class="hidden">zamkniętym spektaklu</a> „Nieszczęścia cnoty”, na który zaproszenie otrzymali tylko wyselekcjonowani goście. Właśnie po tego typu wydarzeniach niektóre aktorki odbywały <a name="6" class="hidden">„indywidualne spotkania”</a> ze swymi wielbicielami. Arnaud widział, jak Maria Deraismes, podwładna Petiota, na jego polecenie <a name="7" class="hidden">odprowadziła Olivię</a> do pokoju, w którym miał czekać znany ze swej lubieżności krytyk teatralny, Gustave Clavel.
+$GEN_031_DOC_1_03
+	Oskarżenia de Condouceta szybko rozpowszechniły się wśród arystokracji, która zażądała aresztowania i surowego ukarania Petiota. Sama <a name="8" class="hidden">Olivia</a> odmówiła składania jakichkolwiek zeznań, natomiast Clavel zniknął.
+$GEN_031_DOC_2_TOOLTIP
+Broszura informacyjna
+$GEN_031_DOC_2_00
+<a name="9" class="hidden">Broszura</a> informacyjna:
+
+Gwiazdy Teatru Odéon przyjmują swych wielbicieli prywatnie: Arthur Bonnet
+Solistki: 500 franków
+Pierwszy plan: 400 franków
+Drugi plan: 300 franków
+Trzeci plan: 200 franków
+Statystki: 50 franków
+Specjalne: 600 franków
+$GEN_031_OnStart_00
+Proszę podać imię i nazwisko.
+$GEN_031_OnStart_01
+Arthur Bonnet, Wysoki Sądzie.
+$GEN_031_OnStart_02
+Jesteś oskarżony o stręczycielstwo nieletniej podopiecznej, Olivii de Nerval, i czerpanie z tego tytułu korzyści majątkowych. Czy masz coś na swoją obronę?
+$GEN_031_OnStart_03
+Nic takiego nie robiłem! Kto śmie tak twierdzić?
+$GEN_031_OnStart_04
+Obecny tutaj obywatel Arnaud de Condorcet twierdzi inaczej.
+$GEN_031_OnStart_05
+Toż to potwarz, spisek uknuty przez tego człowieka przeciwko mnie! Jestem dyrektorem słynnego na cały Paryż teatru, a nie jakimś… sutenerem!
+$GEN_031_OnStart_06
+Znaleziony w trakcie śledztwa cennik wskazuje na co innego.
+$GEN_031_OnStart_07
+Wyciągnęliście bardzo pochopne wnioski.
+$GEN_031_OnStart_08
+Zaraz go stąd wyciągną i zetną, kuplera w dupę bitego.
+$GEN_031_OnGuilty_00
+Skazuję obywatela Arthura Petiota na śmierć na gilotynie! Wyprowadzić skazanego.
+$GEN_031_OnGuilty_01
+Obrzydliwa kreatura. Dobrze, że to się skończy.
+$GEN_031_OnGuilty_02
+Przynajmniej będzie można popatrzeć.
+$GEN_031_OnGuilty_03
+I słusznie, należało mu się.
+$GEN_031_OnNotGuilty_00
+Wyrok w sprawie Arthura Petiota brzmi: niewinny! Wyprowadzić podsądnego.
+$GEN_031_OnNotGuilty_01
+Niewinny? Jak to?!
+$GEN_031_OnNotGuilty_02
+Przecież on burdel pospolity prowadzi!
+$GEN_031_OnNotGuilty_03
+Sędzia też lubi aktorki!
+$GEN_031_OnNotGuilty_04
+Nawet jeśli nie wierzysz w historię z Olivią, to przecież widzisz, że ten teatr to zwyczajny kurwidołek.
+$GEN_031_08x03_00_QTitle
+Jak to się stało, że de Nerval trafiła po śmierci ojca akurat do was?
+$GEN_031_08x03_00_00
+Jak to się stało, że de Nerval trafiła po śmierci ojca akurat do was?
+$GEN_031_08x03_00_01
+To nic niezwykłego. Najpierw umieścili ją w domu dziecka, a stamtąd ją zabrałem, bo zobaczyłem w niej talent.
+$GEN_031_08x03_00_02
+Jaki konkretnie?
+$GEN_031_08x03_00_03
+No… aktorski, a jaki?
+$GEN_031_08x03_00_04
+Dzieci w ochronce urządziły przedstawienie?
+$GEN_031_08x03_00_05
+Nie, ale umiem ocenić talent po głosie, chodzie, sposobie, w jaki dziecko trzyma głowę i się wysławia.
+$GEN_031_08x03_00_06
+Czy on powiedział „wystawia”?
+$GEN_031_08x03_00_07
+Często szukacie aktorek w domach dziecka?
+$GEN_031_08x03_00_08
+Nieczęsto, a szkoda. Wiecznie brakuje na to czasu, a tam można niekiedy spotkać prawdziwe diamenty.
+$GEN_031_01x06_01_QTitle
+Czy spotkania aktorek i widzów kończą się w pościeli?
+$GEN_031_01x06_01_00
+Czy spotkania aktorek i widzów kończą się w pościeli?
+$GEN_031_01x06_01_01
+To są spotkania prywatne i nie mam wiedzy o tym, co się dzieje w ich trakcie. 
+$GEN_031_01x06_01_02
+Czyli można przyjąć, że podczas tych schadzek dochodzi do nawiązania intymnych relacji pomiędzy odwiedzaną i odwiedzającym?
+$GEN_031_01x06_01_03
+Powtórzę, nie widziałem nigdy takiego spotkania na oczy.  Słyszałem plotki, rzecz jasna, ale sądzę, że nasi klienci po prostu fantazjują.
+$GEN_031_01x06_01_04
+Wszyscy?
+$GEN_031_01x06_01_05
+Nasze aktorki obdarzane są uwielbieniem, ze względu na ich sceniczny talent. Myślę, że każdy mężczyzna o nich marzy, ale na marzeniach się kończy.
+$GEN_031_01x06_01_06
+Twierdzicie, że ci mężczyźni płacą po kilkaset franków za samą rozmowę?
+$GEN_031_01x06_01_07
+Niektórzy płacą za dobre wino, inni za ciekawą rozmowę. Co mnie do tego?
+$GEN_031_01x06_01_08
+Jasne, niczego nie widział, niczego nie wie.
+$GEN_031_01x09_02_QTitle
+Pobieracie opłaty za spotkania z aktorkami. Za co dokładnie płacą wasi klienci?
+$GEN_031_01x09_02_00
+Pobieracie opłaty za spotkania z aktorkami. Za co dokładnie płacą wasi klienci? 
+$GEN_031_01x09_02_01
+Za rozmowę, prywatny występ. Czasem nasze panie czytają poezję albo śpiewają. Takie występy bardzo nam pomagają, utrzymanie teatru kosztuje.
+$GEN_031_01x09_02_02
+Ciekawy pomysł na łatanie budżetu. Proszę zatem powiedzieć, w jakich pomieszczeniach są organizowane te spotkania.
+$GEN_031_01x09_02_03
+Nasze gwiazdy mają urządzone specjalne pokoje, w których mogą odpocząć albo przygotować się do występu. 
+$GEN_031_01x09_02_04
+Które, rozumiem, obowiązkowo są wyposażone w łóżka?
+$GEN_031_01x09_02_05
+Oczywiście, po dwóch godzinach występu na scenie, tańca i dialogów, można być zmęczonym, prawda?
+$GEN_031_01x09_02_06
+Jak wielu klientów wasze „gwiazdy” przyjmują jednego wieczora?
+$GEN_031_01x09_02_07
+Jednego, dwóch. W szczególnych wypadkach trzech, ale nie chcę przemęczać aktorek.
+$GEN_031_01x09_02_08
+Czy taka rozmowa jest wyczerpująca?
+$GEN_031_01x09_02_09
+Usta to je bolą, ale nie od rozmowy.
+$GEN_031_01x09_02_10
+Zachowujcie się, ludzie.
+$GEN_031_01x09_02_11
+To delikatne istoty, należy im się szacunek.
+$GEN_031_05x06_03_QTitle
+Czy to po zamkniętych spektaklach odbywają się indywidualne spotkania...
+$GEN_031_05x06_03_00
+Czy to po zamkniętych spektaklach odbywają się indywidualne spotkania widzów z aktorkami?
+$GEN_031_05x06_03_01
+Nie tylko, ale po takich występach jest ich najwięcej.
+$GEN_031_05x06_03_02
+I w jednym z takich spotkań wzięła udział Olivia de Narval?
+$GEN_031_05x06_03_03
+Jeśli tak twierdzi Arnaud, to łże! Nigdy nie pozwoliłbym, aby 13-latka brała udział w spotkaniach z wielbicielami! Nie ten moment życia i kariery!
+$GEN_031_05x06_03_04
+Dlaczego? Przecież to tylko rozmowy.
+$GEN_031_05x06_03_05
+Rozmowy także bywają męczące, a to jeszcze dziecko.
+$GEN_031_05x06_03_06
+Dlaczego de Condorcet miałby kłamać?
+$GEN_031_05x06_03_07
+Od dawna usiłuje przejąć posadę dyrektora Teatru Odéon i groził mi, że zrobi wszystko, aby mnie zniszczyć! No i wymyślił sobie – sutenerstwo!
+$GEN_031_03x07_04_QTitle
+Proszę wezwać świadka, Marię Deraismes.
+$GEN_031_03x07_04_00
+Proszę wezwać świadka, Marię Deraismes.
+$GEN_031_03x07_04_02
+Proszę podać imię i nazwisko świadka.
+$GEN_031_03x07_04_03
+Nazywam się Maria Deraismes.
+$GEN_031_03x07_04_04
+Czym świadek się zajmuje w Teatrze Odéon?
+$GEN_031_03x07_04_05
+Jestem ochmistrzynią, zajmuję się personelem żeńskim teatru.
+$GEN_031_02x09_05_QTitle
+Jaka część dochodów pochodzących z wizyt wielbicieli trafia do kasy teatru?
+$GEN_031_02x09_05_00
+Jaka część dochodów pochodzących z wizyt wielbicieli trafia do kasy teatru?
+$GEN_031_02x09_05_01
+Zgodnie z umową zawartą z personelem 70 procent. Może to i dużo, ale koszty utrzymania pokoi, czasem jedzenie i napitek… To wszystko kosztuje. Poza tym, gdyby nie renoma teatru… Sami rozumiecie.
+$GEN_031_02x09_05_02
+Oskarżony także otrzymuje z tych spotkań odpowiednią premię do swojej pensji?
+$GEN_031_02x09_05_03
+Dzięki moim pomysłom teatr zarabia więcej niż kiedykolwiek. Jestem za to wynagradzany, tak. Sądzę, że to uczciwe.
+$GEN_031_02x09_05_04
+Czyli zależy wam na możliwie dużej liczbie spotkań?
+$GEN_031_02x09_05_05
+Tak, bo to dobre dla teatru.
+$GEN_031_02x09_05_06
+I dla waszej kieszeni.
+$GEN_031_02x09_05_07
+Tak, ale to nie jest dla mnie takie ważne.
+$GEN_031_04x05_06_QTitle
+Czy oskarżony potwierdza, że jego podopieczna wzięła udział w...
+$GEN_031_04x05_06_00
+Czy oskarżony potwierdza, że jego podopieczna wzięła udział w zamkniętym dla szerszej publiczności pokazie „Nieszczęść cnoty”?
+$GEN_031_04x05_06_01
+Oczywiście, a jak inaczej ma się nauczyć gry, jeśli nie na scenie?
+$GEN_031_04x05_06_02
+Podczas spotkania z Clavelem także się uczyła?
+$GEN_031_04x05_06_03
+Pewnie tam też udawała, tylko co innego niż na scenie.
+$GEN_031_04x05_06_04
+Mam nadzieję, ten człowiek to chodząca skarbnica wiedzy o teatrze. Jego uwagi na pewno były bardzo cenne.
+$GEN_031_05x08_07_QTitle
+Proszę powiedzieć, jaką rolę zagrała Olivia de Narval w „Nieszczęściach cnoty”.
+$GEN_031_05x08_07_00
+Proszę powiedzieć, jaką rolę zagrała Olivia de Narval w „Nieszczęściach cnoty”?
+$GEN_031_05x08_07_01
+To nie była znacząca rola, wręcz epizodyczna. Zagrała postać jednej z wieśniaczek napastowanych przez zdemoralizowanego markiza.
+$GEN_031_05x08_07_02
+Zatem skoro była to rola epizodyczna, za spotkanie z nią teatr zainkasował od Clavela 200 franków, zgodnie z broszurą. Tak było?
+$GEN_031_05x08_07_03
+Za statystki bierzemy 50, ale obywatel Clavel spotkał się z Olivią tylko w celach edukacyjnych. Uznałem, że takie spotkanie będzie dobre dla Olivii, i zrezygnowałem z opłaty.
+$GEN_031_05x08_07_04
+Na pewno było dobre dla Clavela.
+$GEN_031_05x08_07_05
+W przyszłości planujecie pobierać opłaty za spotkania z Olivią?
+$GEN_031_05x08_07_06
+Ja… To znaczy… Tak, czemu nie, jeśli tylko zostanie z nami w teatrze, na co mam wielką nadzieję.
+$GEN_031_05x08_07_07
+I wy także będziecie na tym zarabiać?
+$GEN_031_05x08_07_08
+No tak, tak to wygląda.
+$GEN_031_WIT_00_A_QTitle
+Kto zorganizował spotkanie Olivii de Nerval z Gustave’em Clavelem?
+$GEN_031_WIT_00_A_00
+Kto zorganizował spotkanie Olivii de Nerval z Gustave’em Clavelem?
+$GEN_031_WIT_00_A_01
+To nie było zorganizowane spotkanie. Pan Clavel był pod wrażeniem występu aktorki i poprosił o rozmowę.
+$GEN_031_WIT_00_A_02
+I, jak rozumiem, do tego spotkania doszło? Na osobności?
+$GEN_031_WIT_00_A_03
+Tak, oczywiście. Dyrektor pozwolił, więc znalazłam dla nich wolny pokój.
+$GEN_031_WIT_00_A_04
+Czyli wszystko odbyło się za zgodą i wiedzą oskarżonego?
+$GEN_031_WIT_00_A_05
+Wysoki Sądzie, jeśli coś odbywa się w Teatrze Odéon, to wyłącznie za zgodą i wiedzą dyrektora.
+$GEN_031_WIT_00_A_06
+Czyli on wiedział, co dzieje się za zamkniętymi drzwiami podczas spotkań.
+$GEN_031_WIT_00_B_QTitle
+Jaką kwotę Clavel uiścił za umożliwienie rozmowy z de Nerval?
+$GEN_031_WIT_00_B_00
+Jaką kwotę Clavel uiścił za umożliwienie rozmowy z de Nerval?
+$GEN_031_WIT_00_B_01
+Żadną, ten rodzaj rozmowy nie jest objęty cennikiem. Było to zwykłe spotkanie krytyka z adeptką aktorstwa.
+$GEN_031_WIT_01_A_QTitle
+Czy poza Gustave’em Clavelem ktoś jeszcze spotkał się z podopieczną oskarżonego?
+$GEN_031_WIT_01_A_00
+Czy poza Gustave’em Clavelem ktoś jeszcze spotkał się z podopieczną oskarżonego?
+$GEN_031_WIT_01_A_01
+Nie, choć jeszcze przed występem pan Arnaud de Condorcet zgłaszał chęć odbycia takiego spotkania i uiszczenia stosownej opłaty.
+$GEN_031_WIT_01_A_02
+To ciekawe, co świadek mówi. Dyrektor się na to zgodził?
+$GEN_031_WIT_01_A_03
+Nie, odmówił kategorycznie. Powiedział, że Olivia nie jest aktorką w pełnym tego słowa znaczeniu, a poza tym jest za młoda na kontakty z wielbicielami.
+$GEN_031_WIT_01_A_04
+Jak zareagował na to de Condorcet?
+$GEN_031_WIT_01_A_05
+Bardzo nerwowo, wręcz wulgarnie. Po części mu się nie dziwię. Olivia jest… bardzo utalentowaną stażystką.
+$GEN_031_WIT_01_B_QTitle
+Czy Gustave Clavel spotykał się już wcześniej z innymi aktorkami?
+$GEN_031_WIT_01_B_00
+Czy Gustave Clavel spotykał się już wcześniej z innymi aktorkami?
+$GEN_031_WIT_01_B_01
+Owszem, w końcu jest uznanym krytykiem literackim i gustuje… to znaczy umie docenić talent naszych aktorek.
+$GEN_031_WIT_01_B_02
+Sugerujecie, że ten człowiek jest miłośnikiem płatnej miłości?
+$GEN_031_WIT_01_B_03
+Niczego takiego nie powiedziałam.
+$GEN_031_WIT_01_B_04
+Jak długo trwały takie spotkania?
+$GEN_031_WIT_01_B_05
+Od kilkunastu minut do pół godziny.
+$GEN_031_WIT_01_B_06
+A jego wizyta u Olivii de Narval?
+$GEN_031_WIT_01_B_07
+Kilkanaście minut. Zaręczam jednak, że tylko ze sobą rozmawiali.
+$GEN_031_WIT_01_B_08
+Świadek była przy tej rozmowie?
+$GEN_031_WIT_01_B_09
+Nie, ale cały czas kręciłam się na korytarzu. Gdyby coś się… działo, tobym zauważyła.
+$GEN_031_KEY_01
+Nierząd w teatrze
+$GEN_031_KEY_02
+Zyski z prostytucji
+$GEN_031_KEY_03
+Stręczycielstwo
+$GEN_031_KEY_04
+Rola w spektaklu
+$GEN_031_KEY_05
+Zamknięty występ
+$GEN_031_KEY_06
+Spotkania z aktorkami
+$GEN_031_KEY_07
+Schadzka z krytykiem
+$GEN_031_KEY_08
+Olivia
+$GEN_031_KEY_09
+Broszura reklamowa
+
+
+$GEN_031_LastDialog_00
+Chroniłem dziewczynę! Przecież to dziecko…
+
+$GEN_031_UNIQUE_QUESTION_00
+Ile lat ma Olivia de Nerval?
+$GEN_031_UNIQUE_ANSWER_CORRECT_00_00
+Trzynaście.
+$GEN_031_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Czternaście.
+$GEN_031_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Dziesięć.
+
+$GEN_031_UNIQUE_QUESTION_01
+Dlaczego Bonnet, według jego zeznań, zabrał dziewczynkę z domu dziecka?
+$GEN_031_UNIQUE_ANSWER_CORRECT_01_00
+Zobaczył w niej talent.
+$GEN_031_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Zachwyciła go jej uroda.
+$GEN_031_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Bardzo jej współczuł.
+
+$GEN_031_UNIQUE_QUESTION_02
+Gdzie trafiały pieniądze ze spotkań z aktorkami?
+$GEN_031_UNIQUE_ANSWER_CORRECT_02_00
+Były dzielone między nimi a kasą teatru.
+$GEN_031_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Wyłącznie do kasy teatru.
+$GEN_031_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Wyłącznie do kieszeni aktorek.
+
+
+

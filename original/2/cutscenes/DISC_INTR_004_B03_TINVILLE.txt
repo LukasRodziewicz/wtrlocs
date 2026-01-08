@@ -1,0 +1,60 @@
+$DISC_INTR_004_B03_TINVILLE_001_JUDGE
+Danton est prêt à démissionner à tout moment.
+$DISC_INTR_004_B03_TINVILLE_002_TINVILLE
+Tout se passe étrangement vite.
+$DISC_INTR_004_B03_TINVILLE_003_JUDGE
+Tu dis cela parce que tu ne t'y attendais pas. Un observateur dirait que tu as travaillé dur pour obtenir cette promotion.
+$DISC_INTR_004_B03_TINVILLE_004_TINVILLE
+Il pourrait s'agit d'un piège évident.
+$DISC_INTR_004_B03_TINVILLE_005_JUDGE_AGGR
+Tu as juré de défendre les règles de la Révolution, tout comme moi. Tiens ton engagement !
+$DISC_INTR_004_B03_TINVILLE_006_JUDGE_MANI
+Si tu ne nous aides pas, ta conscience devra en supporter les conséquences. Tu seras aussi coupable que Robespierre !
+$DISC_INTR_004_B03_TINVILLE_007_JUDGE_JOKE
+Tu ne sembles pas être un homme pouvant se faire à l'idée que quelqu'un d'autre occupe son poste. Comme je le fais déjà au tribunal.
+$DISC_INTR_004_B03_TINVILLE_008_JUDGE_HUMI
+La ville devient incontrôlable. Je n'ai personne d'autre pour me venir en aide.
+$DISC_INTR_004_B03_TINVILLE_009_TINVILLE_INTR
+Je suis flatté.
+$DISC_INTR_004_B03_TINVILLE_010_TINVILLE_DOUB
+Je ne suis pas la bonne personne pour sauver la réputation du Comité de salut public. Il existe de meilleurs candidats, plus expérimentés.
+$DISC_INTR_004_B03_TINVILLE_011_TINVILLE_IRRI
+C'est absurde. Tu disposes de toute la ville, de tous les héros de la Révolution, et pourtant c'est à moi, simple procureur, que tu demandes de sauver Paris ?
+$DISC_INTR_004_B03_TINVILLE_012_JUDGE_AGGR
+N'es-tu pas aussi fort que Robespierre ou Danton ? Eux aussi ont dû s'opposer à des rivaux mieux placés pour accéder au pouvoir.
+$DISC_INTR_004_B03_TINVILLE_013_JUDGE_MANI
+Comment peux-tu laisser passer une occasion pareille ? Ne songes-tu pas à ta carrière ? Robespierre n'hésiterait pas.
+$DISC_INTR_004_B03_TINVILLE_014_JUDGE_JOKE
+Si Robespierre est parvenu à se hisser au sommet, pourquoi n'en ferais-tu pas autant ? Tu n'es pas pire que lui.
+$DISC_INTR_004_B03_TINVILLE_015_JUDGE_HUMI
+C'est ta chance de rejoindre le panthéon des héros de la Révolution. À toi de saisir cette occasion, comme Danton avant toi.
+$DISC_INTR_004_B03_TINVILLE_016_JUDGE_AGGR
+Si toi, tu as peur, qui d'autre endossera cette responsabilité ? Avec le départ de Danton, les gens se rallient à Robespierre uniquement parce qu'ils le craignent. Ils ont besoin d'un nouveau modèle, d'un nouveau meneur !
+$DISC_INTR_004_B03_TINVILLE_017_JUDGE_MANI
+Le Comité nécessite une supervision, il faut qu'il soit transparent et respectueux du droit. À qui d'autre assigner cette tâche délicate ?
+$DISC_INTR_004_B03_TINVILLE_018_JUDGE_JOKE
+Qui d'autre pourrait le faire ? Ce fou de Marat ? Mon fils ?
+$DISC_INTR_004_B03_TINVILLE_019_JUDGE_HUMI
+Réfléchis bien, je t'en conjure. Nous n'avons pas besoin de ministres experts en guerre ou en trésorerie. Les gens ont besoin de quelqu'un qui leur montre que la justice n'a pas déserté la République.
+$DISC_INTR_004_B03_TINVILLE_020_JUDGE_AGGR
+Ne me tourne pas le dos. J'ai fait bien trop d'efforts pour convaincre ces chicaneurs de Danton et de Hébert de travailler main dans la main et te donner leur appui !
+$DISC_INTR_004_B03_TINVILLE_021_JUDGE_MANI
+Danton et Hébert voient en toi le meilleur candidat possible. Quand ils m'ont demandé mon avis, j'étais bien entendu d'accord avec eux. Tu disposes à présent de puissants soutiens, c'est la chance de ta vie.
+$DISC_INTR_004_B03_TINVILLE_022_JUDGE_JOKE
+Danton et Hébert sont fatigués de mener la charge, ils veulent du sang neuf pour donner vie au changement. Le poste est vacant et ils souhaitent t'y installer, tout comme moi.
+$DISC_INTR_004_B03_TINVILLE_023_JUDGE_HUMI
+Écoute donc la voix d'une France lasse, appelant la liberté de tous ses vœux. Danton, Hébert et moi-même voulons donner à la France cette liberté. Je t'en prie, consens-y et sauve-nous de cette situation.
+$DISC_INTR_004_B03_TINVILLE_024_TINVILLE_INTR
+Très bien. Je vais y réfléchir et je te donnerai ma réponse demain dans la salle d'audience.
+$DISC_INTR_004_B03_TINVILLE_025_TINVILLE_DOUB
+Nul besoin pour moi d'y réfléchir. Je trouve que cette conversation a manqué de clarté.
+$DISC_INTR_004_B03_TINVILLE_026_TINVILLE_IRRI
+J'ai l'impression que tu veux me compromettre, peut-être même me livrer à Robespierre d'une certaine façon. Comme toujours, tes intentions t'appartiennent. Je vais t'offrir une dernière chance. Jouons aux dés : si tu gagnes, je me plierai à ton projet.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_01
+Tu dois nous aider à reprendre le contrôle de la situation.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_02
+Les plus grands s'y sont pris ainsi pour gagner le pouvoir.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_03
+Personne ne convient mieux à la situation que toi.
+$DISC_INTR_004_B03_TINVILLE_TOPIC_04
+Tu as notre appui.

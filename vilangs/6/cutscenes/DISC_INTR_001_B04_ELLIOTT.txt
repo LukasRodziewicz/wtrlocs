@@ -1,0 +1,42 @@
+$DISC_INTR_001_B04_ELLIOTT_001_JUDGE_AGGR
+Roland es una sabandija despreciable. La corrupción no puede convertirse en el sello de las nuevas autoridades.
+$DISC_INTR_001_B04_ELLIOTT_002_JUDGE_MANI
+¿De verdad Roland representa al pueblo? ¿O más bien sirve a Capeto y a sus servidores?
+$DISC_INTR_001_B04_ELLIOTT_003_JUDGE_JOKE
+Debemos deshacernos de Roland por su propio bien. Pronto sus bolsillos reventarán de tanto dinero que lleva encima.
+$DISC_INTR_001_B04_ELLIOTT_004_JUDGE_HUMI
+Francia se desangra y personas como Roland no le permiten sanar sus heridas. Al contrario, solo las hacen más profundas.
+$DISC_INTR_001_B04_ELLIOTT_005_ELLIOTT_INTR
+¿Quién habría imaginado que pasarías de oveja a lobo y captarías tan instintivamente el olor de la presa herida tan rápido?
+$DISC_INTR_001_B04_ELLIOTT_006_ELLIOTT_DOUB
+Conocemos bien a los Roland. Madame Roland manda y su esposo solo cumple sus órdenes. ¿Quizá no sea él el culpable?
+$DISC_INTR_001_B04_ELLIOTT_007_ELLIOTT_IRRI
+Sobreviví en esta ciudad, en gran parte, porque no participé en los juegos sucios de los hombres.
+$DISC_INTR_001_B04_ELLIOTT_008_JUDGE_AGGR
+Roland no solo es culpable de sobornos. Amenazó a un juez del Tribunal Revolucionario. ¡A la propia justicia independiente!
+$DISC_INTR_001_B04_ELLIOTT_009_JUDGE_MANI
+Para eludir el castigo, Roland emprendió una cruzada contra mí. ¿Acaso no declaró así la guerra al nuevo orden?
+$DISC_INTR_001_B04_ELLIOTT_010_JUDGE_JOKE
+El señor y la señora Roland son dos mosquitos: me pican, chupan la sangre de Francia. Nadie soporta a los mosquitos.
+$DISC_INTR_001_B04_ELLIOTT_011_JUDGE_HUMI
+Mi propia antipatía hacia el ministro no cambia el hecho de que debemos reemplazar a este corrupto realista por alguien más justo.
+$DISC_INTR_001_B04_ELLIOTT_012_JUDGE_AGGR
+Si no logras convencer a los diputados, será prueba de que toleras a los traidores que aún extienden su influencia por toda Francia.
+$DISC_INTR_001_B04_ELLIOTT_013_JUDGE_MANI
+Si los diputados ven que quieres deshacerte de Roland, ¿quizás dejen de sospechar que eres un realista?
+$DISC_INTR_001_B04_ELLIOTT_014_JUDGE_JOKE
+Los girondinos suelen tropezar solos. Basta con darles un pequeño empujón.
+$DISC_INTR_001_B04_ELLIOTT_015_JUDGE_HUMI
+A veces, Roland está más cerca del Antiguo Régimen que el propio Luis. Si quieres deshacerte de la vieja orden, ahora es tu oportunidad.
+$DISC_INTR_001_B04_ELLIOTT_016_ELLIOTT_INTR
+Al principio no estaba segura de enfrentarme al ministro Roland, pero debo admitir que has logrado convencerme. Esto puede funcionar, y te ayudaré.
+$DISC_INTR_001_B04_ELLIOTT_017_ELLIOTT_DOUB
+Mis amigos y yo no obtendremos ningún beneficio de un intento de destituir al Ministro del Interior.
+$DISC_INTR_001_B04_ELLIOTT_018_ELLIOTT_IRRI
+¡Roland no es el mayor problema de Francia, sino los ciudadanos hambrientos!
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_01
+¿Qué queremos lograr?
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_02
+¿Por qué lo queremos?
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_03
+¿Qué sacará ella de esto?

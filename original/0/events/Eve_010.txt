@@ -1,0 +1,22 @@
+$EVE_010_TITLE
+Germański najeźdźca
+
+$EVE_010_MAIN_01
+Jako sędzia musisz oddzielać plotki od faktów. Szanowni obywatele Paryża często nie zadają sobie tego trudu. Szczególnie jeśli plotka głosi, że wrogie wojska są ledwie kilka kilometrów od miasta i wkrótce rozpoczną oblężenie. Plotka. Jednak na tyle dobrze sprzedana, że grupa spanikowanych mieszkańców szturmuje właśnie arsenał z bronią. Chcą dozbroić się na własną rękę.
+
+$EVE_010_MAIN_01_C1
+Wyślij straż sądową
+$EVE_010_MAIN_01_C2
+Przemów do ludzi
+
+$EVE_010_MAIN_02A
+Ludzie uzbrojeni w kije i widły już niejeden raz udowodnili, że potrafią sobie poradzić z żołnierzami wyposażonymi w muszkiety. Tym razem jednak do walki nie doszło. Napastnicy rozpierzchli się na widok posiłków – arsenał jest bezpieczny. Ludzie wykorzystaliby tę broń do dręczenia swoich prywatnych wrogów, kiedy już dowiedzieliby się, że nadciągające wojska to głupia plotka.
+
+$EVE_010_MAIN_02B
+Straż ustawiła ci beczkę, z poziomu której mogłeś przemawiać do napastników. W płomiennej mowie naświetlasz potrzebę braterstwa w tych trudnych chwilach. Prosisz o nieuleganie panice i plotkom rozsiewanym przez wrogów rewolucji. To wystarczyło, by ludzie się opanowali.
+
+$EVE_010_MAIN_02C
+Przemowa była ognista, mogłaby poderwać nawet Ludwika XVI z grobu. Zwykli obywatele Paryża pozostali jednak niewzruszeni. Wizja nacierających wrogów była silniejsza niż wyszukane porównania wykrzykiwane z twych ust. Ludzie nie zrezygnowali ze szturmu na arsenał. Zdradliwe ostrze wbiło się między żebra, żołnierze byli zbyt zajęci walką, żeby cię uratować…
+
+$EVE_010_MAIN_02D
+Szturm na arsenał udał się. Można powiedzieć, że staje się to już pewną specjalnością paryżan. Kilku strażników poległo, reszta poddała się i jakimś cudem uniknęła cięższych obrażeń oraz publicznego linczu. Uszczerbku nie uniknie jednak twoja reputacja, skoro ludzie mogą na ulicy robić, co chcą…

@@ -1,0 +1,26 @@
+$DIAL_CO_01_01_02_001_JLDAVID
+Permíteme recordarte que prometiste acompañarme. Siento que esta noche la luna sonríe a los jugadores.
+$DIAL_CO_01_01_02_002_JUDGE
+Aunque no suele favorecer a los esposos…
+$DIAL_CO_01_01_02_003_JLDAVID
+Dios debería bendecirnos con esposas que comprendan la importancia de una partida de dados al anochecer. También deberían saber que la cantidad justa de vino asegura una tirada afortunada…
+$DIAL_CO_01_01_02_004_JUDGE
+Debería irme a casa.
+$DIAL_CO_01_01_02_005_JLDAVID
+Tener un juez en la partida tiene sus ventajas: los demás jugadores seguramente no harán trampas.
+$DIAL_CO_01_01_02_006_JUDGE
+Ese no es un argumento convincente.
+$DIAL_CO_01_01_02_007_JLDAVID
+Permítame presentarme: soy Jacques-Louis David. No soy más que un humilde pintor, no un juez elocuente.
+$DIAL_CO_01_01_02_008_JUDGE
+Eres un político astuto, Jacques.
+$DIAL_CO_01_01_02_009_JLDAVID
+Como político, entiendo la importancia de cumplir las promesas. Y tú, amigo mío, intentas escabullirte de la tuya.
+$DIAL_CO_01_01_02_C1
+Cumple tu promesa
+$DIAL_CO_01_01_02_C2
+Ir a casa
+$DIAL_CO_01_01_02_010_JUDGE
+De acuerdo, pero solo por un momento.
+$DIAL_CO_01_01_02_011_JUDGE
+Esta noche no, Jacques.

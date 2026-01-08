@@ -1,0 +1,308 @@
+$FAB_008_DOC_1_HEADER
+Compilado por: Fabrice Poli
+$FAB_008_DOC_1_00
+La acusada es Jeanne Marie Roland, esposa de un ministro que simpatizaba con el guillotinado Luis Capeto. Se le acusa de instigar la traición y de corromper a los diputados de la Convención. Supuestamente, los sobornó mediante los servicios de prostitutas que trabajaban para ella bajo la fachada de un salón político.
+$FAB_008_DOC_1_01
+Al principio, poco sabíamos sobre las actividades de la acusada. Como mujer, <a name="2" class="hidden">no participaba</a> en la vida política reservada a los hombres; en cambio, supuestamente <a name="3" class="hidden">mantenía un salón político</a>, donde las personalidades de París podían reunirse y debatir la situación social y política del momento. Es cierto que tales encuentros tuvieron lugar, pero, según informantes, las circunstancias eran moralmente cuestionables. Los debatientes eran entretenidos por damas de dudosa reputación. Lujoso o no, en esencia Madame Roland dirigía un <a name="4" class="hidden">burdel</a>.
+$FAB_008_DOC_1_02
+A medida que reuníamos información, los rumores sobre la implicación de la acusada en la carrera de su esposo se volvían cada vez más creíbles. Sabemos que esta mujer ingeniosa supo moverse entre bastidores para ganarse el apoyo de los adversarios políticos del ministro, y a quienes resistían sus persuasivas palabras, los tentaban los cuerpos desnudos de sus muchachas. Al dirigir el salón, también pudo familiarizarse con las <a name="6" class="hidden">diversas opiniones</a> de los destacados diputados de la Convención. Así, logró influir en la carrera de su marido, incluso sin que él lo supiera.
+$FAB_008_DOC_1_03
+Los hechos anteriores han sido confirmados por Isabelle Dugard, quien trabajó para la acusada bajo el alias <a name="7" class="hidden">“Giselle”</a>. Declaró que Madame Roland había recibido en numerosas ocasiones a <a name="8" class="hidden">tres hombres</a> y, aunque no conocía sus nombres, no dudó en calificarlos como “la peor escoria”. Creo que podemos establecer sin duda una relación entre estas personas y los tres asesinos que <a name="9" class="hidden">atacaron al juez Fidèle</a>. Es terrible pensar en cuántas muertes podrían estar implicados.
+$FAB_008_DOC_1_04
+Según nuestra información, podemos concluir que los rumores sobre Madame Roland como uno de los pilares del <a name="10" class="hidden">golpe de Estado</a> planeado por los girondinos son ciertos. Ella influyó notablemente en la carrera de su esposo, y es muy probable que él alcanzara una posición tan destacada gracias a su intervención. Colaboró con personas de reputación dudosa, y sin duda dominó el arte de la mentira si logró <a name="11" class="hidden">mantenerlo todo en secreto</a> durante tanto tiempo.
+$FAB_008_OnStart_00
+La acusada puede presentarse.
+$FAB_008_OnStart_01
+Jeanne Marie Roland.
+$FAB_008_OnStart_02
+¡La esposa del corrupto y traicionero ministro Roland!
+$FAB_008_OnStart_03
+Solo me han pedido que diga mi nombre. No hace falta montar un espectáculo, fiscal.
+$FAB_008_OnStart_04
+Se le acusa de incitar a la traición y la corrupción…
+$FAB_008_OnStart_05
+Y yo, por supuesto, niego esas acusaciones absurdas.
+$FAB_008_OnStart_06
+¡Por supuesto!
+$FAB_008_OnStart_07
+¿Desde cuándo siquiera hablamos con traidores?
+$FAB_008_OnGuilty_00
+Su culpabilidad es incuestionable. Le condeno a muerte.
+$FAB_008_OnGuilty_01
+¡No tengo nada que añadir!
+$FAB_008_OnGuilty_02
+¡Queremos sangre!
+$FAB_008_OnGuilty_03
+¡Que le corten la cabeza!
+$FAB_008_OnGuilty_04
+¡Eso es lo que les pasa a los traidores!
+$FAB_008_OnPrison_00
+No hay justificación alguna para lo que ha hecho. Pasará el resto de su vida en una celda.
+$FAB_008_OnPrison_01
+Dada la gravedad de estas acusaciones, le sugiero que reconsidere su decisión.
+$FAB_008_OnPrison_02
+¡Eso no basta, queremos su sangre!
+$FAB_008_OnNotGuilty_00
+Tras examinar todas las pruebas, le declaro inocente, ciudadana.
+$FAB_008_OnNotGuilty_01
+¿De verdad? ¿Y qué hay de la corrupción? ¿Y las prostitutas? ¿Y el golpe?
+$FAB_008_OnNotGuilty_02
+¡Traición!
+$FAB_008_OnNotGuilty_03
+¡Todos ellos son unos traidores!
+$FAB_008_OnNotGuilty_04
+¡El nuevo gobierno es peor que ese rey de mierda!
+$FAB_008_01x02_00_QTitle
+¿Sintió que la Revolución no le incluía?
+$FAB_008_01x02_00_00
+¿Sintió que la Revolución no le incluía?
+$FAB_008_01x02_00_01
+Creo que no he entendido la pregunta.
+$FAB_008_01x02_00_02
+Permítame explicarme, monsieur le juge. Como mujer, ¿guardó resentimiento hacia la Revolución por las escasas oportunidades que tuvo su sexo para participar en la política?
+$FAB_008_01x02_00_03
+Qué suposición tan absurda. Comparto la opinión del ciudadano Danton, quien resumió claramente el papel de la mujer en la Francia actual: deben dar a luz hijos y criarlos para que sean los futuros guardianes de la República.
+$FAB_008_01x02_00_04
+Un buen discurso.
+$FAB_008_01x02_00_05
+¿Y está criando usted a un guardián así, ciudadana?
+$FAB_008_01x02_00_06
+Una guardiana, sí.
+$FAB_008_01x02_00_07
+Quien tampoco tendrá mucho que decir en el futuro.
+$FAB_008_01x02_00_08
+Esperemos que ella también encuentre un buen marido, como yo lo hice.
+$FAB_008_01x06_01_QTitle
+Como resultado de tu labor, tuviste acceso a las opiniones de destacados políticos.
+$FAB_008_01x06_01_00
+Como resultado de tu labor, tuviste acceso a las opiniones de destacados políticos.
+$FAB_008_01x06_01_01
+Es bastante natural si organiza reuniones a las que asisten políticos para compartir sus opiniones.
+$FAB_008_01x06_01_02
+¿Cuánto de ese conocimiento lo obtuvo dirigiendo un burdel?
+$FAB_008_01x06_01_03
+Muy poco. La mayoría prefiere guardar silencio durante… esas situaciones. Y desde luego, no hablan de política.
+$FAB_008_01x06_01_04
+Sin embargo, gracias a su lupanar, logró obtener información que sería invaluable para una potencia extranjera.
+$FAB_008_01x06_01_05
+No lo sé, podría ser. Pero yo nunca la habría vendido.
+$FAB_008_01x06_01_06
+¿Honestidad desinteresada?
+$FAB_008_01x06_01_07
+Si yo hubiera vendido esa información a alguien, Madame de Staël habría invitado de inmediato a la parte agraviada a su salón.
+$FAB_008_01x06_01_08
+Una bruja egoísta.
+$FAB_008_01x06_01_09
+Cada quien ama a Francia a su manera. Yo no traiciono a mis amigos, y por eso ellos permanecen a mi lado.
+$FAB_008_01x06_01_10
+Y pronto acabarán juntos, de rodillas ante la guillotina.
+$FAB_008_01x10_02_QTitle
+¿Participó usted en la planificación del golpe de Estado?
+$FAB_008_01x10_02_00
+¿Participó usted en la planificación del golpe de Estado?
+$FAB_008_01x10_02_01
+Señor juez, ambos sabemos muy bien que no hubo ningún plan de golpe de Estado. Todo esto ha sido inventado por Robespierre y el Tribunal. Usted ha mirado a mi esposo y ha visto a un enemigo.
+$FAB_008_01x10_02_02
+Nuestros informantes...
+$FAB_008_01x10_02_03
+¿Quiénes son? Por supuesto, no puede darme sus nombres, porque no es más que chismes y pura invención. Un juego político.
+$FAB_008_01x10_02_04
+Eso es, ¿dónde están las pruebas entonces?
+$FAB_008_01x10_02_05
+¡No necesitamos pruebas para los traidores de la nación!
+$FAB_008_01x10_02_06
+Por favor, responda a la pregunta original.
+$FAB_008_01x10_02_07
+No participé en ninguna fase del supuesto golpe de Estado. Ni yo ni mi esposo tuvimos nada que ver con ello. No tienen pruebas, solo suposiciones.
+$FAB_008_02x03_03_QTitle
+¿Cuál fue su motivación para fundar un salón político?
+$FAB_008_02x03_03_00
+¿Cuál fue su motivación para fundar un salón político?
+$FAB_008_02x03_03_01
+Gracias al cargo de mi esposo, conoce a muchas personas interesantes, y yo no quería perder la oportunidad de conversar con algunas de las mentes más brillantes de nuestra época.
+$FAB_008_02x03_03_02
+¿Está de acuerdo con la afirmación de que, durante esas conversaciones, los políticos podían haber cambiado de opinión de una manera que beneficiara a usted y a su esposo?
+$FAB_008_02x03_03_03
+¿Quién no cambia de opinión en política? ¿No es eso precisamente la esencia de la democracia? Permitir el libre intercambio de ideas.
+$FAB_008_02x03_03_04
+Eso es cierto, pero no se trata de manipular a quienes son responsables de nuestro país.
+$FAB_008_02x03_03_05
+¿Y de qué otra cosa trata la política? ¿Y cuál es el verdadero propósito de este juicio?
+$FAB_008_04x03_04_QTitle
+¿Corrompió usted a los diputados de la Convención y…
+$FAB_008_04x03_04_00
+¿Corrompió usted a los diputados de la Convención y…
+$FAB_008_04x03_04_01
+Disculpe que lo interrumpa, monsieur le juge, pero la sola idea de influir en los políticos de una manera tan vil me revuelve el estómago. Que las monarquistas utilicen así a muchachas inocentes...
+$FAB_008_04x03_04_02
+Permítanme señalar que los políticos se aprovecharon de los servicios que estas muchachas ofrecían por voluntad propia. Venían a verme para hablar de política. Con quién se iban después, y para qué, si me permite, no es asunto mío.
+$FAB_008_04x03_04_03
+¿Recibió algo a cambio de organizar tales encuentros?
+$FAB_008_04x03_04_04
+Si acaso, solo su disposición a volver y hablar de política.
+$FAB_008_04x03_04_05
+En otras palabras, se podría decir que eran clientes habituales de su burdel.
+$FAB_008_04x03_04_06
+¡No es un burdel! Es algo mucho más complejo. Más bien, un lugar para el intercambio de ideas modernas.
+$FAB_008_04x03_04_07
+¡Un burdel moderno!
+$FAB_008_04x03_04_08
+Pero no negará usted que, en su salón, los políticos disfrutaban de… placeres sensuales.
+$FAB_008_04x03_04_09
+Este es un país libre, y yo soy una persona tolerante.
+$FAB_008_04x11_05_QTitle
+Has perfeccionado de verdad el arte de ocultarte.
+$FAB_008_04x11_05_00
+Has perfeccionado verdaderamente el arte de ocultarte. Un salón político que no es más que un burdel común.
+$FAB_008_04x11_05_01
+¿Cuál es su pregunta?
+$FAB_008_04x11_05_02
+¿Cómo logró mantener este secreto oculto al pueblo durante tanto tiempo?
+$FAB_008_04x11_05_03
+Organizaba un salón político. A veces se nos unían muchachas hermosas que venían a ganarse un trozo de pan. Se acercaban a los diputados, pero nunca eran insistentes.
+$FAB_008_04x11_05_04
+¿Y eso no le importó?
+$FAB_008_04x11_05_05
+Las comprendía. Las mujeres debemos apoyarnos. ¡Y no permitiré que llames burdel a mi salón político! Era mucho más que un lugar común. Allí se reunían las mentes más brillantes para…
+$FAB_008_04x11_05_06
+Ahórranos la propaganda. Este lugar será reducido a escombros en cuanto te hayan guillotinado.
+$FAB_008_05x07_06_QTitle
+Hagan pasar a Isabelle Dugard.
+$FAB_008_05x07_06_00
+Hagan pasar a Isabelle Dugard.
+$FAB_008_05x07_06_02
+Por favor, preséntese.
+$FAB_008_05x07_06_03
+Me llamo Giselle.
+$FAB_008_05x07_06_04
+Su nombre real, por favor.
+$FAB_008_05x07_06_05
+Pero si ese es mi verdadero... Oh, está bien, mi amor. Me llamo Isabelle Dugard.
+$FAB_008_05x07_06_06
+Debe dirigirse a mí como “monsieur le juge”.
+$FAB_008_05x07_06_07
+Muy bien, mi amor. ¡Y qué bien lo hace!
+$FAB_008_08x09_07_QTitle
+¿Sabe usted del atentado contra mi vida?
+$FAB_008_08x09_07_00
+¿Sabe usted del atentado contra mi vida?
+$FAB_008_08x09_07_01
+Sí, lo escuché. Qué asunto tan terrible…
+$FAB_008_08x09_07_02
+Fui atacado por tres matones, y una de sus protegidas ha declarado que veía con frecuencia a tres hombres de dudosa reputación en su establecimiento.
+$FAB_008_08x09_07_03
+Dudo que esto sea algo más que una simple coincidencia y un malentendido…
+$FAB_008_08x09_07_04
+¿Y qué hay del hecho de que su esposo juró que no descansaría hasta verme muerto?
+$FAB_008_08x09_07_05
+La gente dice muchas cosas cuando está alterada o molesta. Eso no significa que vayan a cumplir sus palabras.
+$FAB_008_08x09_07_06
+Todo París sabe que el ministro no da un solo paso sin las indicaciones de su esposa.
+$FAB_008_08x09_07_07
+Pagarás por haber alzado la mano contra el Juez del Tribunal.
+$FAB_008_08x09_07_08
+¿Oíste eso? ¡Se acerca una ejecución!
+$FAB_008_08x10_08_QTitle
+¿Los tres hombres, a quienes la testigo llamó “la escoria más vil”…
+$FAB_008_08x10_08_00
+¿Los tres hombres, a quienes el testigo llamó “la escoria más vil”, participaron en el intento de asesinato planeado?
+$FAB_008_08x10_08_01
+No hubo ningún asesinato, y esos tres son... vendedores de frutas.
+$FAB_008_08x10_08_02
+¿Fruta?
+$FAB_008_08x10_08_03
+Sí, no hay nada sospechoso en ello, y no juzgo a las personas por su apariencia.
+$FAB_008_08x10_08_04
+¿Entonces no pensaban apuñalar a Robespierre y a sus camaradas hasta matarlos?
+$FAB_008_08x10_08_05
+¡De ninguna manera!
+$FAB_008_08x10_08_06
+Bueno, si no pudieron matar a un juez del Tribunal, ¿cómo iban a poder con los diputados de la Convención?
+$FAB_008_08x10_08_07
+Pregúnteles sobre el intento de asesinato.
+$FAB_008_08x10_08_08
+¿De dónde conseguían la fruta?
+$FAB_008_08x10_08_09
+No lo sé. Pregúnteles a ellos.
+$FAB_008_08x10_08_10
+No hemos podido localizar a estas personas.
+$FAB_008_08x10_08_11
+Bueno, está claro que hacer negocios en París ya no les resulta rentable.
+$FAB_008_WIT_00_A_QTitle
+Dígame, ¿sabe algo sobre la corrupción de los políticos en el salón de la acusada?
+$FAB_008_WIT_00_A_00
+Dígame, ¿sabe algo sobre la corrupción de los políticos en el salón de la acusada?
+$FAB_008_WIT_00_A_01
+Bueno, yo... monsieur le juge. Siempre hacemos lo mismo, pero a veces los clientes tienen ocurrencias, ¿sabe? Hay un diputado que suele pedirme que actúe como una espía española que intenta corromperlo.
+$FAB_008_WIT_00_A_02
+Repugnante.
+$FAB_008_WIT_00_A_03
+Amor mío, pareces tener ganas de jugar con un plátano.
+$FAB_008_WIT_00_A_04
+¿Corrompió Madame Roland...
+$FAB_008_WIT_00_A_05
+¿Y yo cómo voy a saberlo? Nuestros invitados no hablaban mucho. Así es como les gusta divertirse, ¿sabes?
+$FAB_008_WIT_00_B_QTitle
+¿Puede dar un ejemplo de algún incidente que, en su opinión, implique la corrupción de un político?
+$FAB_008_WIT_00_B_00
+¿Puede dar un ejemplo de algún incidente que, en su opinión, implicara la corrupción de un político?
+$FAB_008_WIT_00_B_01
+Si te lo contara, tendría que abandonar la ciudad.
+$FAB_008_WIT_00_B_02
+Pero si no me lo dices, tu cabeza se separará de tu cuerpo.
+$FAB_008_WIT_00_B_03
+Una vez me ordenaron acompañar a un joven a esa casa, la del diputado Pierre Vergniaud, y me dijeron que cuidara de él como si me fuera la vida en ello.
+$FAB_008_WIT_00_B_04
+¿Eso es todo?
+$FAB_008_WIT_00_B_05
+Ese Vergniaud me trató con... toda su fuerza, si se puede decir así. Me dejó llena de moretones después. Al irme, me dijo que le dijera a Madame Roland que puede considerar resuelto el asunto que habían discutido.
+$FAB_008_WIT_00_B_06
+¡Qué cerdo corrupto es Vergniaud!
+$FAB_008_KEY_01
+Traición
+$FAB_008_KEY_02
+Al margen de la política
+$FAB_008_KEY_03
+Dirigir un salón político
+$FAB_008_KEY_04
+Un burdel
+$FAB_008_KEY_05
+Corrupción de diputados
+$FAB_008_KEY_06
+Acceso a las opiniones de los políticos
+$FAB_008_KEY_07
+Giselle
+$FAB_008_KEY_08
+Tres asesinos
+$FAB_008_KEY_09
+Asalto al juez
+$FAB_008_KEY_10
+Golpe de Estado
+$FAB_008_KEY_11
+Ocultación de intenciones
+$FAB_008_LastDialog_00
+¿Vienes a asesinar a tu oponente en persona?
+$FAB_008_UNIQUE_QUESTION_00
+¿Cuál era la tapadera del burdel de los Roland?
+$FAB_008_UNIQUE_ANSWER_CORRECT_00_00
+Un salón político.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_00_00
+La oficina del periódico de Marat.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Un almacén.
+$FAB_008_UNIQUE_QUESTION_01
+¿Cómo explicó la acusada la presencia de los hombres sospechosos en su establecimiento?
+$FAB_008_UNIQUE_ANSWER_CORRECT_01_00
+Ella afirma que eran vendedores de fruta.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Eran bandidos contratados por los adversarios políticos de su esposo.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Eran viajeros cansados, forasteros.
+$FAB_008_UNIQUE_QUESTION_02
+¿Mencionó la testigo el nombre de al menos un político sobornado por la acusada?
+$FAB_008_UNIQUE_ANSWER_CORRECT_02_00
+Diputado Pierre Vergniaud.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Alcalde Jean-Nicolas Pache.
+$FAB_008_UNIQUE_ANSWER_NOT_CORRECT_02_01
+No.

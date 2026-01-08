@@ -1,0 +1,20 @@
+$DIAL_H_01_02_12_001_JUDGE
+I must be dreaming – is that the map from Mugler’s case? You stole evidence from the court?
+$DIAL_H_01_02_12_002_MENTOR
+I did not steal it, only found a use for it. It will be more useful in your room than in the dusty drawers of the court archives. After all, this is a map by Turgot and should be treated with respect.
+$DIAL_H_01_02_12_003_JUDGE
+What a lovely explanation…
+$DIAL_H_01_02_12_004_MENTOR
+Consider it a gift. Now take it, and try not to talk so much. You should be more concerned about the events with the King, because this whole situation just seems peculiar. As your superior, I should be the one judging Louis’s case. I fail to understand why Robespierre asked for your assistance.
+$DIAL_H_01_02_12_005_JUDGE
+You are jealous?
+$DIAL_H_01_02_12_006_MENTOR
+Of course I am jealous! It is an important moment in history, and people will be reading about it for decades to come!
+$DIAL_H_01_02_12_007_JUDGE
+It seems there will be trouble. I have a feeling that someone is toying with my life, as though an unknown force were pushing me into utter chaos.
+$DIAL_H_01_02_12_008_MENTOR
+Keep your eyes open. You came to the political world of the city from out of nowhere, and that means someone will have to step down to make room.
+$DIAL_H_01_02_12_009_WIFE
+Do you have to sound so defeated? My husband is a renowned person now. We should be happy about it.
+$DIAL_H_01_02_12_010_MENTOR
+It is easier to shoot someone in the spotlight…

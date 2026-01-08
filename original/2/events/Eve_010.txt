@@ -1,0 +1,16 @@
+$EVE_010_TITLE
+L'agresseur germanique
+$EVE_010_MAIN_01
+En tant que juge, vous devez vous efforcer de faire la part des choses entre rumeur et réalité, mais les Parisiens ne s'embarrassent pas souvent de ces choses-là, surtout si les rumeurs en question parlent d'une armée étrangère soi-disant postée à quelques kilomètres de la ville, prête à l'assiéger à tout moment. Des racontars, rien de plus, mais assez puissants pour donner à une foule paniquée l'impulsion nécessaire pour forcer une armurerie. Les gens veulent se préparer.
+$EVE_010_MAIN_01_C1
+Envoyer les gardes des tribunaux
+$EVE_010_MAIN_01_C2
+Faire un discours
+$EVE_010_MAIN_02A
+Un peuple armé de gourdins et de fourches à foin a déjà réussi à battre des soldats armés de mousquets. Heureusement, cette fois il n'y a pas eu de combat, car les agresseurs se sont dispersés, effrayés par les renforts. L'armurerie est sauve. Dès que les gens apprendront que le siège n'était qu'une rumeur stupide, ils utiliseront ces armes contre leurs ennemis personnels.
+$EVE_010_MAIN_02B
+Les gardes ont apporté un tonneau sur lequel vous jucher pour vous lancer dans votre discours enflammé. Vous soulignez le besoin de se serrer les coudes en ces temps troublés, et demandez à la foule de ne pas succomber à la panique en croyant les rumeurs répandues par les ennemis de la Révolution. Cela suffit à calmer les gens.
+$EVE_010_MAIN_02C
+Votre discours était assez poignant pour ressusciter les martyrs innocents de la Révolution, mais les citoyens de Paris n'en ont rien eu à faire. La peur d'un ennemi qui s'approche est plus forte que vos images les plus parlantes, et le peuple n'abandonne pas son idée de prendre le contrôle de l'armurerie. Les soldats sont trop occupés à se battre pour vous protéger de la lame perfide qui s'enfonce entre vos côtes…
+$EVE_010_MAIN_02D
+Le peuple a réussi à prendre de force l'armurerie. On peut même dire que c'est devenu une spécialité des Parisiens. Quelques soldats sont morts, le reste s'est rendu et a, on ne sait comment, réussi à éviter de se faire blesser ou lyncher. Votre réputation, elle, est cependant profondément entachée, puisque maintenant on dirait que tout le monde peut faire ce qu'il veut…

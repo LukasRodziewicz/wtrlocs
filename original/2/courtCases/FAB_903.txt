@@ -1,0 +1,217 @@
+$FAB_903_DOC_1_HEADER
+Réquisitoire d'Antoine Quentin Fouquier de Tinville
+$FAB_903_DOC_1_00
+	Mes compatriotes !		
+	Le citoyen Capet, connu auparavant sous le nom de Louis XVI, Roi de France, doit être puni pour avoir conspiré contre le peuple français !
+$FAB_903_DOC_1_01
+Louis Capet a cherché à préserver son pouvoir absolu en complotant contre l'Assemblée nationale constituante et le peuple français. Nous avons tous en mémoire le mois de juillet 1789. Par la suite, il leva une armée avec 15 régiments étrangers et leur commanda de cerner Paris. Ordre avait été donné aux soldats du baron de Besenval de capturer les députés et de faire feu sur les citoyens défendant les réformes ! Ce que fit le régiment Royal-Allemand en versant le premier sang !
+$FAB_903_DOC_1_02
+La conspiration ayant échoué, Louis Capet <a name="3" class="hidden">tenta de fuir</a> le pays avec sa famille et de conspirer avec les monarques étrangers. N'est-ce pas la raison pour laquelle il quitta les Tuileries par le biais d'un faux passeport lors d'une nuit de juin 1791 ? Ne se rendait-il pas à Montmédy, où stationnaient ses armées loyalistes, prêtes à l'escorter en Autriche ? Sans la clairvoyance du maître de poste Douret, cette manigance aurait pu nous être tragique.
+$FAB_903_DOC_1_03
+Louis Capet ne se défera jamais de sa volonté d'<a name="5" class="hidden">écraser la Révolution</a>. Avant les événements de 1792, il ordonna de doubler la Garde suisse postée aux Tuileries. Il conduisit une parade publique devant des citoyens horrifiés. Le peuple n'eut pas le choix, il fallait agir avant que le roi ne lance l'attaque ! On tira sur les Parisiens qui essayèrent de mettre fin à cette folie, même après la dérobade de Louis Capet vers l'Assemblée nationale.
+$FAB_903_DOC_1_04
+Pièces à conviction : Ordre du maréchal de Broglie adressé au baron de Besenval. <a name="6" class="hidden">Instructions</a> dictées par le ministre de l'Intérieur, Jean-Marie Roland <a name="7" class="hidden">Lettre </a>de l'empereur Léopold II <a name="8" class="hidden">Lettre </a>du duc de Brunswick, Charles Guillaume
+$FAB_903_DOC_2_TOOLTIP
+Ordre du maréchal de Broglie adressé au baron de Besenval
+$FAB_903_DOC_2_00
+	Mon seigneur !		
+	
+	Quelle que soit la raison, n'hésitez pas à tirer sur les rebelles, conformément aux ordres de Sa Majesté. Imitez-les, ne faites preuve d'aucune pitié.															
+
+														V.F. de Broglie
+$FAB_903_DOC_3_TOOLTIP
+Instructions dictées par le ministre de l'Intérieur, Jean-Marie Roland
+$FAB_903_DOC_3_00
+	Il importe d'interroger avec soin les députés de la soi-disant Assemblée nationale. Si l'un d'eux faisait preuve de bon sens et cessait de donner soutien à cette Assemblée, remerciez-le d'une gratification généreuse et faites-lui part de la reconnaissance de Sa Majesté.
+	
+$FAB_903_DOC_4_TOOLTIP
+Lettre de l'empereur Léopold II
+$FAB_903_DOC_4_00
+	Nous avons foi qu'avec la grâce et l'aide de Dieu, Sa Majesté gagnera sous peu les frontières de l'Empire, où Sa Majesté et Nos Sœurs bien-aimées trouveront protection et pourront entreprendre le nécessaire pour rétablir l'ordre européen naturel au sein du Royaume de France.
+
+Sa Majesté impériale, Empereur des Romains, Roi de Hongrie et de Bohême etc. - Léopold II de Habsbourg
+le 15e de mai, an 1791
+$FAB_903_DOC_5_TOOLTIP
+Lettre de Charles Guillaume, duc de Brunswick
+$FAB_903_DOC_5_00
+	Votre Majesté !
+	
+	Nous viendrons bientôt à votre secours, mais en attendant je vous prie de rassembler les troupes locales qui vous sont restées loyales. Je vais lancer un avertissement à vos sujets : tous ceux qui osent vous tourner le dos devront subir les plus terribles des conséquences.
+	
+	Mes armées attendent mes ordres afin d'endiguer l'anarchie qui règne sur le royaume de Votre Majesté.
+	
+	Charles William Ferdinand, duc de Brunswick-Lunebourg.
+	9 juin 1792
+	
+$FAB_903_OnStart_GUARD_00
+Monsieur le juge, la foule aux portes du tribunal est révoltée. La situation risque de tourner au massacre.
+$FAB_903_OnStart_GUARD_01
+Le bruit court qu'il existe des preuves secrètes de la trahison du roi. Les gens sont fous de rage.
+$FAB_903_OnStart_KING_00
+Quelles preuves ?
+$FAB_903_OnStart_JUDGE_00
+Je vais aller leur parler. Je vous demande de rester tous à votre place en attendant mon retour.
+$FAB_903_OnStart_MENTOR_00
+Cela est vrai. On a trouvé les preuves de la culpabilité de Capet.
+$FAB_903_OnStart_PROSECUTOR_00
+Vraiment ?!
+$FAB_903_OnStart_00
+L'accusé souhaite-t-il expliquer pourquoi il a dissimulé à la Convention son cabinet blindé et les documents qu'il y cachait ?
+$FAB_903_OnStart_01
+Je n'ai rien dissimulé à la Convention. Nul ne m'a posé de question à ce sujet.
+$FAB_903_OnStart_02
+Tu as mis ta correspondance sous clé. Il n'était possible d'en prendre connaissance qu'avec l'aide d'un maître serrurier.
+$FAB_903_OnStart_03
+Tout Parisien fortuné possède un cabinet verrouillé. Quant à moi, je porte un vif intérêt à la serrurerie.
+$FAB_903_OnGuilty_00
+Je condamne le citoyen Capet à être guillotiné ! Emmenez-le.
+$FAB_903_OnGuilty_01
+Vive le peuple !
+$FAB_903_OnGuilty_02
+Mort au tyran !
+$FAB_903_OnPrison_00
+Je condamne le citoyen Capet à être emprisonné ! Emmenez-le.
+$FAB_903_OnPrison_01
+Arrêtez le juge immédiatement !
+$FAB_903_OnPrison_02
+C'est scandaleux !
+$FAB_903_OnNotGuilty_00
+Je déclare le citoyen Capet… non coupable. Que liberté lui soit rendue.
+$FAB_903_OnNotGuilty_01
+Arrêtez le juge immédiatement !
+$FAB_903_OnNotGuilty_02
+C'est scandaleux !
+$FAB_903_04x05_00_QTitle
+Tu avais connaissance des plans de l'empereur et du prince de Brunswick. Pourquoi n'as-tu pas…
+$FAB_903_04x05_00_00
+Tu avais connaissance des plans de l'empereur et du prince de Brunswick. Pourquoi n'as-tu pas averti l'Assemblée nationale et l'armée ?
+$FAB_903_04x05_00_01
+…
+$FAB_903_04x05_00_02
+Il te faut répondre.
+$FAB_903_04x05_00_03
+J'ai jugé leurs menaces peu sérieuses.
+$FAB_903_04x05_00_04
+Voilà qui empeste la trahison.
+$FAB_903_04x05_00_05
+Permets-moi de relever cette citation : « Mes armées attendent mes ordres ». Cela ne te semble-t-il pas une menace sérieuse ?
+$FAB_903_04x05_00_06
+Le prince Charles est certes impétueux, mais je n'ai pas cru un instant qu'il oserait s'attaquer à la France.
+$FAB_903_01x06_01_QTitle
+L'accusé est-il responsable des tentatives de soudoyer…
+$FAB_903_01x06_01_00
+L'accusé est-il responsable des tentatives de soudoyer les députés de l'Assemblée dans le but de l'abolir ?
+$FAB_903_01x06_01_01
+Je n'ai point signé cette lettre, monsieur.
+$FAB_903_01x06_01_02
+Mais elle a été trouvée parmi les effets cachés de l'accusé. Il y est fait mention de la reconnaissance du roi.
+$FAB_903_01x06_01_03
+J'avais l'intention de traduire en justice le ministre Roland pour abus de pouvoir. C'est pour cette raison que je conservais ce document.
+$FAB_903_01x06_01_04
+Et cela fait trois ans que la justice n'a toujours pas été sollicitée !
+$FAB_903_01x06_01_05
+Justice sera faite. Roland passera aux aveux, puis à la guillotine !
+$FAB_903_01x06_01_06
+La faute en incombe au ministre de la Justice. Je lui ai commandé d'enquêter et de punir le ministre de l'Intérieur.
+$FAB_903_05x03_02_QTitle
+Pourquoi alors l'empereur indique-t-il peu avant ton voyage qu'il attendait la venue…
+$FAB_903_05x03_02_00
+Pourquoi alors l'empereur indique-t-il peu avant ton voyage qu'il attendait ta venue et celle de ta famille avant même ledit voyage ?
+$FAB_903_05x03_02_01
+Simple coïncidence. L'empereur craignait pour la vie de sa sœur, tout bonnement. Ce n'est un secret pour personne que les monarques d'Europe voient la Révolution d'un mauvais œil. Ils estiment qu'elle menace la monarchie.
+$FAB_903_05x03_02_02
+La présence des forces de Montmédy pour escorter l'accusé vers l'Autriche était-elle aussi une simple coïncidence ?
+$FAB_903_05x03_02_03
+Je jure n'y être pour rien !
+$FAB_903_01x07_03_QTitle
+L'accusé avait-il l'intention de mener les forces de l'empereur en France ?
+$FAB_903_01x07_03_00
+L'accusé avait-il l'intention de mener les forces de l'empereur en France ?
+$FAB_903_01x07_03_01
+Certainement pas.
+$FAB_903_01x07_03_02
+Dans sa lettre, l'empereur signifiait clairement son intention de « rétablir l'ordre » en France.
+$FAB_903_01x07_03_03
+J'ignore tout des plans de l'empereur Léopold, mais je sais que je ne permettrais jamais qu'on fasse couler du sang français.
+$FAB_903_01x07_03_04
+Mais tu dois reconnaître que recevoir une telle proposition d'un gouvernement ennemi te discrédite.
+$FAB_903_01x07_03_05
+Mon Dieu, il s'agit d'une correspondance personnelle avec mon beau-frère !
+$FAB_903_01x07_03_06
+Il n'y a plus rien de personnel quand les lettres échangées s'avèrent traiter de sécurité nationale.
+$FAB_903_06x05_04_QTitle
+Citoyen, qualifierais-tu le ministre Jean-Marie Roland de serviteur loyal ?
+$FAB_903_06x05_04_00
+Citoyen, qualifierais-tu le ministre Jean-Marie Roland de serviteur loyal ?
+$FAB_903_06x05_04_01
+Il a toujours été loyal à l'égard de la France et de la Révolution. Il fut un temps où je le tenais en haute estime.
+$FAB_903_06x05_04_02
+Nous avons sous nos yeux une lettre du ministre dans laquelle il incite à corrompre les députés de la Convention. Il m'a été confié que Roland, à la découverte du cabinet contenant les nouvelles pièces, a congédié ses adjoints de sorte à les compulser personnellement…
+$FAB_903_06x05_04_03
+Lors d'une entrevue, je me pris à plaisanter que nous pourrions sauver l'équilibre de la République si nous parvenions à trouver ne serait-ce qu'un honnête homme à la Convention pour me soutenir…
+$FAB_903_06x05_04_04
+Il semblerait que ta plaisanterie douteuse ait été interprétée sérieusement.
+$FAB_903_06x05_04_05
+À en juger par ce qui nous est resté, je n'ose imaginer les documents que le ministre est parvenu à éliminer.
+$FAB_903_06x05_04_06
+J'espère que l'accusé ne perdra pas son poste. Cela serait fort regrettable…
+$FAB_903_02x08_05_QTitle
+Était-il prévu que la Garde suisse épaule l'offensive du prince contre Paris ?
+$FAB_903_02x08_05_00
+Était-il prévu que la Garde suisse épaule l'offensive du prince contre Paris ?
+$FAB_903_02x08_05_01
+Non, sa seule mission était de veiller à la sécurité de ma famille.
+$FAB_903_02x08_05_02
+Tu as doublé la Garde avant les événements du mois d'août. Cela semble en adéquation avec les plans du prince Guillaume…
+$FAB_903_02x08_05_03
+Balivernes ! Je ne peux être tenu responsable des intentions exprimées par le Prince Charles dans sa lettre ! Pourquoi aurais-je intrigué contre mon propre peuple alors même que son attaque était vouée à l'échec ?
+$FAB_903_KEY_01
+Défense de son pouvoir
+$FAB_903_KEY_02
+Rassemblement de troupes
+$FAB_903_KEY_03
+Tentative de fuite
+$FAB_903_KEY_04
+Conspiration internationale
+$FAB_903_KEY_05
+Répression de la Révolution
+$FAB_903_KEY_06
+Ordre du ministre
+$FAB_903_KEY_07
+Lettre de l'empereur
+$FAB_903_KEY_08
+Lettre du prince
+$FAB_903_LastDialog_00
+Je meurs innocent. Je pardonne à mes ennemis.
+$FAB_903_UNIQUE_QUESTION_00
+Qui était responsable de la corruption des hommes politiques sous les ordres du roi ?
+$FAB_903_UNIQUE_QUESTION_01
+D'après le prévenu, pourquoi l'empereur Léopold II lui écrivait-il des lettres ?
+$FAB_903_UNIQUE_QUESTION_02
+Le roi a-t-il expliqué le motif qui se cache derrière la mission de corruption attribuée à Roland ?
+$FAB_903_UNIQUE_QUESTION_03
+Pourquoi le roi n'a-t-il pas averti l'Assemblée nationale des intentions du prince de Brunswick ?
+$FAB_903_UNIQUE_ANSWER_CORRECT_00_00
+Jean-Marie Roland.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Arnaud II de La Porte.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Honoré Gabriel Riqueti.
+$FAB_903_UNIQUE_ANSWER_CORRECT_01_00
+Il avait peur pour la vie de sa sœur, Marie Antoinette.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Il avait peur pour la vie de son ami, le roi.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il avait peur pour la vie de citoyens innocents.
+$FAB_903_UNIQUE_ANSWER_CORRECT_02_00
+Il prétend que ce n'était qu'une plaisanterie.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Il aurait fait une erreur.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Il nie l'existence d'un tel événement.
+$FAB_903_UNIQUE_ANSWER_CORRECT_03_00
+Il n'a pas pris la menace au sérieux.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Il a oublié.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Il affirme avoir émis un avertissement, qui a été ignoré.

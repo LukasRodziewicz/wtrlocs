@@ -1,0 +1,384 @@
+#LANGUAGE
+Langue
+#POLISH
+Polonais
+#ENGLISH
+Anglais
+#INTRO_TEXT
+France. Fin du XVIIIe siècle...
+#INTRO_HOME
+Chez le juge, tard dans la nuit.
+#START
+Démarrer
+#OPTIONS
+Options
+#QUIT
+Quitter
+#CONFIRM
+Confirmer
+#BACK
+Annuler
+#RETURN
+Retour
+#MENU
+Menu
+#ACCEPT
+Accepter
+#REJECT
+Refuser
+#CLOSE
+Fermer
+#GAMEOVER
+Fin
+#TCUT_GAME_OVER_PEOPLE
+La foule vous a traduit en justice
+#TCUT_GAME_OVER_QUIZ
+Vous avez été destitué.
+#TCUT_GAME_OVER_CUT_028
+Vous avez péri au combat.
+#TCUT_GAME_OVER_SECTION
+On vous a tué après la perte de la section principale.
+#TCUT_GAME_OVER_ARISTOCRATS
+L'aristocratie a organisé l'assassinat.
+#IGNORE
+Ignorer
+#RESET
+Annuler les modifications
+#START_NEW_GAME
+Démarrer
+#LOAD_GAME
+Charger la journée
+#CONTINUE
+Continuer
+#END
+Terminer
+#EVENTS
+Événements
+#EMPTY
+Vide
+#SUCCESS
+Réussite
+#DOUBTFUL_SUCCESS
+Réussite douteuse
+#FAILURE
+Échec
+#EFFECTS
+Effets :
+#CHANGE_PROFILE
+Changer de profil
+#GUILTY
+Peine de mort
+#NOTGUILTY
+Disculpation
+#PRISON
+Prison
+#SIGNATURE
+Signature
+#JUDGE_SIGNATURE
+Signature du juge
+#PROLOGUE
+Prologue
+#LOAD_BUTTON_SURVIVAL_TEST
+Jour : {0}
+#LOAD_BUTTON_TEXT
+Acte : {0} Jour : {1}
+#ENTER_PROFILE_NAME
+Entrer le nom du profil…
+#GROUPS_SUPPORT
+Relations
+#REVOLUTIONISTS
+Révolutionnaires
+#REVOLUTIONISTS_NOTIFICATION
+Révolutionnaires : {0}
+#PEOPLE
+Gens du peuple
+#PEOPLE_NOTIFICATION
+Gens du peuple : {0}
+#ARISTOCRATS
+Aristocrates
+#ARISTOCRATS_NOTIFICATION
+Aristocrates : {0}
+#JUSTICE
+Justice
+#INFLUENCE
+Points d'influence
+#INFLUENCE_NOTIFICATION
+Points d'influence : {0}
+#RESOURCES
+Ressources
+#RESOURCES_AVAILABLE
+Propre(s)
+#RESOURCES_INCOME
+Revenus quotidiens
+#DETAILS
+Détails
+#RESOLUTION
+Résolution
+#FULL_SCREEN
+Plein écran
+#ENABLED
+Activé
+#DISABLED
+Désactivé
+#TUTORIAL_LABEL
+Tutoriel
+#GAME_OVER
+FIN
+#END_THX
+Merci d'avoir joué
+#LOST
+VOUS AVEZ PERDU !
+#GAMEOVER_KING_VERDICT
+La foule vous a lynché.
+#GAMEOVER_PEOPLE_SUPPORT
+Le peuple vous a lynché.
+#DAY
+Jour
+#Letter
+Lettre
+#SPEECH_ATTITUDE_REVEAL
+Révéler
+#SPEECH_BONUS_INFLUENCE
+Points d'influence
+#SPEECH_ATTITUDE_AGGR
+Agressivité
+#SPEECH_ATTITUDE_IRRI
+Agacement
+#SPEECH_ATTITUDE_DOUB
+Doute
+#SPEECH_ATTITUDE_INTR
+Curiosité
+#SPEECH_ATTITUDE_SATI
+Satisfaction
+#SUPPORT_VERY_LOW
+Très bas
+#SUPPORT_LOW
+Bas
+#SUPPORT_MEDIUM
+Moyen
+#SUPPORT_HIGH
+Fort
+#SUPPORT_VERY_HIGH
+Très fort
+#JURY
+Jury
+$INTERLUDIUM_GAMBLINGDEN
+Aller au tripot
+$INTERLUDIUM_HOME
+Rentrer chez vous
+$INTERLUDIUM_MAP
+Afficher la carte
+$YES
+Oui.
+$NO
+Non.
+#REPUTATION
+Réputation
+#REPUTATION_NOTIFICATION
+Réputation : {0}
+#REPUTATION_PENDING_TOOLTIP
+Modification du jour :
+$GUILTY_VERDICT_SON
+Coupable
+$GUILTY_VERDICT
+Peine de mort
+$PRISON_VERDICT
+Prison
+$NOTGUILTY_VERDICT
+Disculpation
+$NOTGUILTY_VERDICT_SON
+Non coupable
+#RELATIONSHIP_PLACEHOLDER
+Troubles
+#RELATIONSHIP_TIER_1
+Stabilité
+#RELATIONSHIP_TIER_2
+Troubles
+#RELATIONSHIP_TIER_3
+Hostilité
+#RELATIONSHIP_TIER_4
+Haine
+#NOTIFICATIONS_TITLE
+Notifications
+#MAP_NOTIFICATION_TOOLTIP_ACTIVE
+Rapport des activités
+#STRATEGY_TIER_1
+Dramatiquement
+#STRATEGY_TIER_2
+Dangereusement
+#STRATEGY_TIER_3
+Correctement
+#STRATEGY_TIER_4
+Parfaitement
+#STRATEGY_REMAINING_ATTEMPTS_TOOLTIP
+Le nombre de tentatives dépend de la réputation
+#STRATEGY_TITLE
+Préparer votre stratégie
+#STRATEGY_CHANCE_TITLE
+Probabilités
+#STRATEGY_REMAINING_ATTEMPTS
+Tentatives restantes : {0}
+$STRATEGY_SIDEBAR_HEADER
+Attitude
+$STRATEGY_EMOTIONS_HEADER
+Choix de l'approche
+$STRATEGY_TOPICS_HEADER
+Du sujet
+#STRATEGY_VERY_GOOD_TOOLTIP
+Argument imparable
+#STRATEGY_GOOD_TOOLTIP
+Argument solide
+#STRATEGY_VERY_BAD_TOOLTIP
+Argument nul
+#STRATEGY_BAD_TOOLTIP
+Argument faible
+#STRATEGY_TOPIC_ATTITUDE_LOCKED_NOT_ENOUGHT
+Vous n'avez pas assez de PI pour découvrir l'attitude de votre ennemi ({0} PI)
+#STRATEGY_TOPIC_ATTITUDE_LOCKED
+Cliquez pour découvrir l'attitude de votre ennemi à ce sujet ({0} PI)
+#STRATEGY_TOPIC_ATTITUDE_LOCKED_PERMA
+Vous n'avez pas découvert l'attitude de votre ennemi.
+#STRATEGY_TOPIC_ATTITUDE_01
+En retrait
+#STRATEGY_TOPIC_ATTITUDE_02
+Impétuosité
+#STRATEGY_TOPIC_ATTITUDE_03
+Sans opinion
+#STRATEGY_TOPIC_ATTITUDE_04
+Attachement
+#STRATEGY_TOPIC_ATTITUDE_05
+Susceptibilité
+#STRATEGY_TOPIC_ATTITUDE_06
+Insouciance
+#TAKEN_DISTRICTS_NOTEBOOK
+Sections contrôlées
+#INFLUENCE_NOTEBOOK
+Influence
+#DISCTRICTS_NOTEBOOK
+Sections
+#DEFAULT_ANSWER
+…
+#TOO_FEW_INFLUENCE_POINTS
+Pas assez de Points d'influence
+$PROSECUTOR_QUEST_FAILD
+Opposé à Tinville.
+#CASE_BASIC_MALE_QUESTION_00
+Est-ce que l'accusé a avoué le crime ?
+#CASE_BASIC_MALE_QUESTION_01
+Est-ce que son acte était de nature contre-révolutionnaire ?
+#CASE_BASIC_FEMALE_QUESTION_00
+Est-ce que l'accusée a avoué le crime ?
+#CASE_BASIC_FEMALE_QUESTION_01
+Est-ce que son acte était de nature contre-révolutionnaire ?
+$MAGIC_BUTTON_LOCKED
+Bloqué
+$MAGIC_BUTTON_NEXT
+Suivant
+$MAGIC_BUTTON_END_DAY
+Terminer la journée
+#NOTEBOOK_PERSON_DETAIL_VIEW_EMPTY
+Pour afficher des informations détaillées sur une personne, sélectionnez-la.
+#NOTEBOOK_GLOBAL_MODS_VIEW_EMPTY
+Aucun modificateur général n'affecte votre situation en ce moment.
+#NOTEBOOK_EVENT_HISTORY_VIEW_EMPTY
+Vous trouverez ici des informations sur les décisions prises à chaque événement.
+#ACT1
+Acte I
+#ACT2
+Acte II
+#ACT3
+Acte III
+#ACT1_DESC
+Liberté
+#ACT2_DESC
+Égalité
+#ACT3_DESC
+Fraternité
+#EPILOGUE
+Épilogue
+$WAY_HEADER
+Où voulez-vous aller ?
+$WAY_MAP
+Aller à la carte
+$WAY_DEN
+Aller au tripot
+$WAY_HOME
+Rentrer à la maison
+#UNKNOWN_PERSON
+Personnage inconnu
+#DEAD_PERSON
+Personnage défunt
+#SPEECH_EMO_AGGRESSION
+Agression
+#SPEECH_EMO_MANIPULATION
+Manipulation
+#SPEECH_EMO_HUMILITY
+Humilité
+#SPEECH_EMO_JOKE
+Plaisanterie
+#WAITING_FOR_RESULT
+L'action sera exécutée le lendemain.
+$SPECIAL_VERDICT
+Verdict extraordinaire
+#FAMILY_CARD_MOCK
+Dessin de votre fils
+#HIERARCHY
+Hiérarchie
+#INTRIGUE
+Complot
+#AUTOSAVING_LABEL
+Sauvegarde…
+#CUTSCENE_NOT_WATCHED
+Non vue
+#CUTSCENE_SKIP_LABEL
+Passer
+#COURT_END_TITLE
+Pas d’affaires au tribunal.
+#COURT_END_MAIN
+Tinville a disparu, le jury ne s’est pas présenté. Tout le monde cherche un coin sombre de Paris où se recroqueviller pour se cacher.Ne vous attendez pas à avoir des affaires à juger - Pas tant que Paris est assiégée.
+$LEADERBOARD_TITLE
+Tableau de classement
+$LEADERBOARD_TOP_BUTTON
+Meilleurs joueurs
+$LEADERBOARD_PLAYER_POS_BUTTON
+Mon score
+$PLAYER_NAME_LABEL
+Joueur
+$POINTS_LABEL
+Points
+$DAYS_LABEL
+Jours
+$LEADERBOARD_CONNECTION_ERROR_MSG
+Les résultats n'ont pas pu être téléchargés.
+$LEADERBOARD_FINAL_SCORE_LABEL
+Résultat final
+$LEADERBOARD_INPUT_NAME_LABEL
+Entrez un nom de profil...
+$CREATE_PROFILE_SELECT_HEADER
+Sélectionnez le mode
+$PROFILE_TYPE_SURVIVAL
+Survie
+$PROFILE_TYPE_STORY
+Jeu de rôle
+$PROFILE_TYPE_SURVIVAL_DESC
+La survie est une variante du jeu principal centrée sur les audiences, où le but est de garder le héros en vie et de le faire travailler pendant autant de jours que possible.
+$PROFILE_TYPE_STORY_DESC
+C’est la description pour le jeu de rôle.
+$LEADERBOARD_OUT_OF_TOP100_INFO
+Vous n’avez pas gagné assez de points pour entrer dans le Top 100.
+$SURVIVAL_SCORE_HEADER
+Notation
+$SURVIVAL_SCORE_UNLOCKED_QUESTIONS_LABEL
+Questions débloquées
+$SURVIVAL_SCORE_CORRECT_ANSWERS_LABEL
+Exactitude du rapport
+$SURVIVAL_SCORE_SUM_LABEL
+Total :
+$SURVIVAL_SCORE_ALL_QUESTIONS_BONUS_TOOLTIP
+Bonus pour avoir débloqué toutes les questions
+$SURVIVAL_SCORE_ALL_ANSWERS_TOOLTIP
+Bonus pour toutes les bonnes réponses dans le rapport
+$SURVIVAL_SCORE_MATCH_JURY_TOOLTIP
+Bonus pour accord avec le Jury
+$SURVIVAL_SCORE_AUDIENCE_TOOLTIP
+Bonus pour le maintien de l'ordre dans la Salle

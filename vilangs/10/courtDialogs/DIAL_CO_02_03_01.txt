@@ -1,0 +1,10 @@
+$DIAL_CO_02_03_01_001_GUARD
+Vatandaş Fidèle, bir ceset daha buldular.
+$DIAL_CO_02_03_01_002_JUDGE
+Bu kez kim?
+$DIAL_CO_02_03_01_003_GUARD
+Numara yapmayı bırakın, kimin olduğunu biliyorsunuz.
+$DIAL_CO_02_03_01_004_JUDGE
+Benimle oyun oynama!
+$DIAL_CO_02_03_01_005_GUARD
+Ben sanmıştım ki… öhöm, boş verin. Yurttaş Marat ölü bulundu.

@@ -1,0 +1,22 @@
+$DIAL_H_01_02_19_001_GRANDFATHER
+How are your wounds?
+$DIAL_H_01_02_19_002_JUDGE
+They are healing. All thanks to our new friends.
+$DIAL_H_01_02_19_003_WIFE
+Really?
+$DIAL_H_01_02_19_004_JUDGE
+What is the matter?
+$DIAL_H_01_02_19_005_WIFE
+Let me remind you that you have been resting here, in this house. This is where they carried you, and it is your family that has been waiting on you hand and foot. Us, your family, whom you are putting in danger.
+$DIAL_H_01_02_19_006_JUDGE
+You think I wanted to be stabbed in an alleyway?
+$DIAL_H_01_02_19_007_GRANDFATHER
+Your wife wants what is best for the family. Your brother…
+$DIAL_H_01_02_19_008_JUDGE
+My brother wanted to protect our family by fighting back against those who threatened us, while you just wanted to wait! But I have seen the head of a king roll as easily as a tradesman’s. Only power…
+$DIAL_H_01_02_19_009_GRANDFATHER
+You are a Judge of the Tribunal! You have power!
+$DIAL_H_01_02_19_010_JUDGE
+It is the people who paid these assassins – the Rolands, or whoever they answer to – who have power. They are the ones who wield life and death in this city.
+$DIAL_H_01_02_19_011_WIFE
+Let us hope they do not kill us all before you grab your precious power.

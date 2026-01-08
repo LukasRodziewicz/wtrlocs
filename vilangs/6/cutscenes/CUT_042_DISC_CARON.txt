@@ -1,0 +1,110 @@
+$CUT_042_DISC_CARON_001_CARON
+¡¿Por qué demonios me han secuestrado y atado a una silla?!
+$CUT_042_DISC_CARON_002_CARON
+En París sobran las putas dispuestas a jugar ese juego contigo. Entonces, juez, ¿me vas a responder?
+$CUT_042_DISC_CARON_003_CARON
+¿O acaso quiere que lo mire mientras se toca, viejo asqueroso?
+$CUT_042_DISC_CARON_004_CARON
+¿Nada, eh?
+$CUT_042_DISC_CARON_005_CARON
+He oído que alguien ha intentado matarte.
+$CUT_042_DISC_CARON_006_CARON
+Y ahora te han ascendido al grupo de élite de asesinos, los príncipes de la guillotina.
+$CUT_042_DISC_CARON_007_CARON
+Mis felicitaciones.
+$CUT_042_DISC_CARON_008_JUDGE
+Nunca pedí que me admitieran en el club, pero tampoco llegué allí por casualidad.
+$CUT_042_DISC_CARON_009_CARON
+Sí, me imagino que para eso se necesita algo especial.
+$CUT_042_DISC_CARON_010_CARON
+Ah, ese destello de locura masculina en tus ojos.
+$CUT_042_DISC_CARON_011_JUDGE
+Debe firmar este documento.
+$CUT_042_DISC_CARON_012_CARON
+¿Eso es una historia? ¿Tiene algún giro interesante?
+$CUT_042_DISC_CARON_013_JUDGE
+Traición y espionaje a favor de Austria, cometidos por usted y el alcalde de París.
+$CUT_042_DISC_CARON_014_CARON
+Qué drama tan exagerado...
+$CUT_042_DISC_CARON_015_CARON
+No se va a vender.
+$CUT_042_DISC_CARON_010_JUDGE_AGGR
+En este documento demuestro que eres una puta corrupta, y descubrirás que tengo talento para escribir. Escúchame bien, aquí está en juego tu vida.
+$CUT_042_DISC_CARON_011_JUDGE_MANI
+Este documento llevará su firma, por las buenas o por las malas.
+$CUT_042_DISC_CARON_012_JUDGE_JOKE
+Soy un editor excelente, puedo vender cualquier historia. Firme este documento rápido, los muchachos ya quieren dejar la guardia.
+$CUT_042_DISC_CARON_013_JUDGE_HUMI
+Preferiría no verte sonreír. Este documento es una formalidad necesaria, y lamento que tengamos que firmarlo en estas circunstancias.
+$CUT_042_DISC_CARON_014_CARON_DOUB
+Por alguna razón, no siento ninguna necesidad de firmar nada.
+$CUT_042_DISC_CARON_015_CARON_IRRI
+Quizá mi ironía no fue lo bastante clara. No pienso firmar ningún documento, así que pueden metérselo donde no les quepa. No podrán obligarme.
+$CUT_042_DISC_CARON_016_CARON_AGGR
+No me importa lo que debas hacer ni lo que no quieras hacer. No te tengo miedo. Muchos ciudadanos de París estarán de mi lado.
+$CUT_042_DISC_CARON_017_JUDGE_AGGR
+Has sido traicionado por los Muscadins. Nos contaron sobre tu romance con la hija del alcalde. Créeme, cuando Pache se entere de todo, hará lo imposible para verte condenado a muerte. No hay nadie que te respalde…
+$CUT_042_DISC_CARON_018_JUDGE_MANI
+¿Ves a alguien aquí que esté dispuesto a apoyarte? ¿Ha venido alguien a ayudarte? No. Solo yo puedo ayudarte.
+$CUT_042_DISC_CARON_019_JUDGE_JOKE
+Tu libertad está a solo una firma de distancia. ¿Por qué no hacerlo? El alcalde sufrirá las consecuencias del documento mucho más que tú.
+$CUT_042_DISC_CARON_020_JUDGE_HUMI
+Seguir las órdenes de quienes están por encima de nosotros es algo que hacemos constantemente en la vida. No querrías interponerte en su camino, pues te aplastarían sin siquiera notarlo.
+$CUT_042_DISC_CARON_021_JUDGE_AGGR
+¿Ves a esos guardias? Podría dejarte a solas con ellos durante una hora. Lo más probable es que te violen, tal vez también te golpeen. ¿Eso es lo que tiene que pasar para que abras los ojos?
+$CUT_042_DISC_CARON_022_JUDGE_MANI
+¿Amas a Marie, verdad? Entonces te daré a elegir. ¿Guillotino a ella o a su padre? Me da igual cuál de los dos muera, mientras esa familia pague por el intento de asesinato contra mí.
+$CUT_042_DISC_CARON_023_JUDGE_JOKE
+Sea como sea, su firma aparecerá en ese testimonio. Al papel no le importa si la pluma la sostiene una mano muerta.
+$CUT_042_DISC_CARON_024_JUDGE_HUMI
+El alcalde te matará si tu relación con su hija sale a la luz y pone en peligro su reputación. También intentó deshacerse de mí cuando mis acciones amenazaron sus negocios.
+$CUT_042_DISC_CARON_025_JUDGE_AGGR
+Esta es tu única oportunidad de empezar una nueva vida. Cuando salgas de esta habitación, morirás, pero incluso aquí la muerte te acecha, pues mi paciencia está llegando a su fin.
+$CUT_042_DISC_CARON_026_JUDGE_MANI
+Abandona París. Huye de la tormenta que no tendrá piedad de ti y a la que no le importan tus sentimientos por Marie. América es un buen destino, y la sombra de la Revolución no te alcanzará allí. Firma este documento. Escapa mientras aún puedas.
+$CUT_042_DISC_CARON_027_JUDGE_JOKE
+Piénsalo como una oportunidad para empezar una nueva vida. Cómprate algo bonito para vestir y huye de esta ciudad que nunca fue, ni nunca será, de tu lado.
+$CUT_042_DISC_CARON_028_JUDGE_HUMI
+Cuando todo se calme, parecerá que nada ha pasado. A veces hay que sufrir para salvarse. Para salvar a un ser querido.
+$CUT_042_DISC_CARON_029_CARON_INTR
+¿Puede usted garantizarme que mi nueva vida no terminará de forma abrupta por un accidente? ¿Que no me toparé misteriosamente con un cuchillo, o no acabaré bajo las ruedas de un carruaje?
+$CUT_042_DISC_CARON_030_CARON_DOUB
+¿Acaso parezco alguien que se preocupe demasiado por su propia vida o por lo que piensen los demás?
+$CUT_042_DISC_CARON_031_CARON_IRRI
+…
+$CUT_042_DISC_CARON_032_CARON_AGGR
+No soy una cualquiera. Se equivoca conmigo, tengo demasiado orgullo para eso.
+$CUT_042_DISC_CARON_033_JUDGE_AGGR
+Para el pueblo de París, serás solo otra anomalía. Serán como perros callejeros, despedazando tu carne y tendones solo por placer.
+$CUT_042_DISC_CARON_034_JUDGE_MANI
+América es un buen lugar para usted, es un mundo nuevo, aún en formación. Allí, la gente entiende la libertad solo dentro de los límites de su imaginación.
+$CUT_042_DISC_CARON_035_JUDGE_JOKE
+¿De verdad esperas que Francia acepte una relación entre dos mujeres, como la tuya con Marie? La Revolución ha cambiado la forma de gobierno, pero el pueblo sigue siendo el mismo, y no lucharon por una libertad que no comprenden.
+$CUT_042_DISC_CARON_036_JUDGE_HUMI
+Francia no te dará a ti y a Marie la libertad que necesitan. Puedes gritar y rebelarte cuanto quieras, pero pagarás por ello con tu vida. Y en la guillotina, lo único que oirás será a la multitud gritar: “Monstruo”.
+$CUT_042_DISC_CARON_037_CARON_INTR
+Quizá de verdad sería mejor que me marchara de este país mentiroso, que solo finge que la Revolución nos ha traído la salvación.
+$CUT_042_DISC_CARON_038_CARON_DOUB
+¿Y usted es justo y compasivo? ¿De verdad nos comprende? Francia es de los hombres, jamás sentirá nuestro dolor. Son unos monstruos... todos ustedes.
+$CUT_042_DISC_CARON_039_CARON_IRRI
+Todos ustedes son iguales. Esa pequeña libertad que aún me queda basta para oponerme a todo lo que quieran de mí.
+$CUT_042_DISC_CARON_040_CARON_AGGR
+La Revolución no es más que un cambio de guardia. Los demás se someterán o caerán al abismo. ¡No lo aceptaré, no puedo soportarlo más!
+$CUT_042_DISC_CARON_TOPIC_01
+¿Qué necesitamos?
+$CUT_042_DISC_CARON_TOPIC_02
+Por qué debería firmar [RACIONALMENTE].
+$CUT_042_DISC_CARON_TOPIC_03
+Por qué debería firmar [AMENAZA].
+$CUT_042_DISC_CARON_TOPIC_04
+¿Qué sacará ella de esto?
+$CUT_042_DISC_CARON_TOPIC_05
+Francia no aceptará la unión de dos mujeres.
+$CUT_042_DISC_CARON_DECISION_01
+Tortura
+$CUT_042_DISC_CARON_EVE_DECISION_01
+Todos seríamos más felices si Béatrice fuera más razonable. Su terquedad se interpone en tu venganza. Si le muestras misericordia, corres el riesgo de que Pache vuelva a atacarte algún día, a ti o a tu familia. Esta ciudad no perdona la debilidad. Las torturas quebraron a la muchacha y firmó la declaración. Esperemos que Danton sea menos resistente.
+$CUT_042_DISC_CARON_DECISION_02
+Pagar la huida con los ahorros familiares
+$CUT_042_DISC_CARON_EVE_DECISION_02
+Deberías haberlo pensado desde el principio. Deberías haberlo sabido. Personas como ella no creen en las promesas: han visto demasiadas romperse a lo largo de su vida. No temen las amenazas, porque hace tiempo aprendieron a vivir con miedo y ansiedad constantes. El dinero, eso es lo único en lo que Béatrice confía. El dinero y una nueva vida. Firmó la declaración, obtuviste lo que querías. ¿Y ahora qué dirá tu familia cuando note que el presupuesto familiar se ha agotado?

@@ -1,0 +1,38 @@
+$DIAL_H_01_02_17_001_SPY
+Uzun süre baygındınız.
+$DIAL_H_01_02_17_002_JUDGE
+Hayatımı kurtaran o adam kim, görünüşe bakılırsa?
+$DIAL_H_01_02_17_003_SPY
+Grégory Ramel. Beni tanımıyorsunuz, ama ben sizin hakkınızda epey şey biliyorum. Yanımdaki hanımefendi ise...
+$DIAL_H_01_02_17_004_JUDGE
+Grace Elliott’i tanıyorum... Beni diken siz miydiniz?
+$DIAL_H_01_02_17_005_GRACE_ELLIOTT
+Birinin hayatını ilk kez kurtarmıyorum. Devrim, sandığınızdan çok daha fazla insanı kurban etti.
+$DIAL_H_01_02_17_006_SPY
+Siz Bakan Roland’ın makamına, dahası, girişimci eşinin yönettiği işe göz diktiniz. O işletmeye ki, onların müttefikleri – Paris Belediye Başkanı Jean-Nicolas Pache ve Paris Başpiskoposu Jean-Baptiste Gobel – kârlarından pay alıyordu.
+$DIAL_H_01_02_17_007_JUDGE
+Bilmiyordum…
+$DIAL_H_01_02_17_008_SPY
+Eğer bu bilgiye kolayca ulaşılabiliyorsa, birisi işini düzgün yapmıyor demektir.
+$DIAL_H_01_02_17_009_JUDGE
+Ama siz de biliyorsunuz...
+$DIAL_H_01_02_17_010_SPY
+Evet, çünkü geçimimi sırlar öğrenerek sağlıyorum. Sokakta konuşulanlara göre, Girondinler Konvansiyonu zorla ele geçirmeyi planlıyor. Kralın aşağılanması ve taçlı hainle önde gelen Girondin Roland arasındaki bağlantının ortaya çıkması, onların gücünü zayıflattı. Bu fırsatı Robespierre ve Danton’un önderliğindeki Jakobenler değerlendirebilir. Belki de bekledikleri an budur.
+$DIAL_H_01_02_17_011_JUDGE
+Bunun bir parçası olmak istemiyorum – bu insanlar işin şakası yok.
+$DIAL_H_01_02_17_012_SPY
+Korkarım ki bu konuda söz hakkınız yok, en azından Rolands ailesi hayatta olduğu sürece. Saldırıdan kurtulduğunuzu öğrenir öğrenmez tekrar deneyeceklerdir. Ölüm fermanınız çoktan imzalandı.
+$DIAL_H_01_02_17_013_JUDGE
+Hakkımda çok şey biliyor gibisiniz. Nasıl? Anlamıyorum…
+$DIAL_H_01_02_17_014_GRACE_ELLIOTT
+Şimdilik bu kadar. Dinlenmeli, gücünü toplamalısın. Yaraların…
+$DIAL_H_01_02_17_015_SPY
+Kardeşinizi tanırdım…
+$DIAL_H_01_02_17_016_GRACE_ELLIOTT
+Bay Grégory!
+$DIAL_H_01_02_17_017_SPY
+Haklısınız. Bunu başka bir zaman konuşuruz.
+$DIAL_H_01_02_17_018_JUDGE
+Sana henüz teşekkür etmedim…
+$DIAL_H_01_02_17_019_SPY
+Bir şansınız daha olacak.

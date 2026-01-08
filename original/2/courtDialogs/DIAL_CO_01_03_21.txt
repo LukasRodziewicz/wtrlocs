@@ -1,0 +1,44 @@
+$DIAL_CO_01_03_21_V1_001_PACHE
+Ordure ! Traître ! Danton ne m'a jamais trahi. C'était toi depuis le début !
+$DIAL_CO_01_03_21_V1_002_JUDGE
+Il t'a trahi lui aussi.
+$DIAL_CO_01_03_21_V1_003_PACHE
+Comment as-tu pu faire ça ? Nous étions censés être de bons...
+$DIAL_CO_01_03_21_V1_004_JUDGE
+Amis, oui. Ne perdons pas davantage de temps. Avoue que les accusations de trahison sont avérées et ta fille sera libérée. En ce qui te concerne, je ne peux rien garantir.
+$DIAL_CO_01_03_21_V1_005_PACHE
+Ils m'ont dit de t'attaquer, alors je l'ai fait !
+$DIAL_CO_01_03_21_V1_006_JUDGE
+C'est hors de propos. Tu seras jugé comme n'importe quel assassin.
+$DIAL_CO_01_03_21_V1_007_PACHE
+Ils me crucifieront par ta faute ! Toi qui m'a promis ton amitié ainsi qu'une alliance !
+$DIAL_CO_01_03_21_V1_008_JUDGE
+Ils te démettront sûrement de tes fonctions, mais tu vivras. Marie également. Mais si tu ne cesses de geindre, vous perdrez tous deux votre tête.
+$DIAL_CO_01_03_21_V1_009_PACHE
+Tu me le paieras, sois en sûr.
+$DIAL_CO_01_03_21_V1_010_JUDGE
+Peut-être, mais tu en feras les frais en premier. Ton procès va bientôt commencer, tu n'as plus beaucoup de temps pour réfléchir.
+$DIAL_CO_01_03_21_V2_001_PACHE
+Ma fille est morte.
+$DIAL_CO_01_03_21_V2_002_JUDGE
+Je sais.
+$DIAL_CO_01_03_21_V2_003_PACHE
+Elle s'est tranchée la gorge à cause d'une… amante.
+$DIAL_CO_01_03_21_V2_004_JUDGE
+Je l'ai appris.
+$DIAL_CO_01_03_21_V2_005_PACHE
+Tout cela est de ta faute, salaud ! Je pensais qu'on était amis.
+$DIAL_CO_01_03_21_V2_006_JUDGE
+Je n'ai jamais été ton ami. Il en va de même pour Danton.
+$DIAL_CO_01_03_21_V2_007_PACHE
+Que va-t-il m'arriver ?
+$DIAL_CO_01_03_21_V2_008_JUDGE
+Reconnais les faits et tu seras libéré. Refuse de coopérer et tu seras guillotiné.
+$DIAL_CO_01_03_21_V2_009_PACHE
+L'une de ces options me ramènera-t-elle ma fille ?
+$DIAL_CO_01_03_21_V2_010_JUDGE
+Je ne pense pas.
+$DIAL_CO_01_03_21_V2_011_PACHE
+Alors tu peux aller te faire voir.
+$DIAL_CO_01_03_21_V2_012_JUDGE
+Le procès commencera dans quelques minutes. Tu ferais mieux de réfléchir.

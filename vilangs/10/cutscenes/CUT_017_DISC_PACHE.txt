@@ -1,0 +1,78 @@
+$CUT_017_DISC_PACHE_001_JUDGE
+Sizinle nihayet yüz yüze tanışmak güzel.
+$CUT_017_DISC_PACHE_002_PACHE
+Böylesine bir dehşetle yüzleşmek zorunda kaldığınız için gerçekten üzgünüm.
+$CUT_017_DISC_PACHE_003_PACHE
+Keşke o alçak suçun arkasındaki herifi bilseydim…
+$CUT_017_DISC_PACHE_003_JUDGE_AGGR
+Kendime, beni öldürmek isteyenlerin peşine düşeceğime dair söz verdim. Kimdi o cüret edenler? Giyotini onların kanıyla besleyeceğim.
+$CUT_017_DISC_PACHE_004_JUDGE_MANI
+Bu insanlar karanlığın örtüsünde hareket etmeyi tercih ediyor, ki biz de gündelik ihtiyaçlarımızı karşılamak için sıkça geceden faydalanırız. Gece… doğru insanların elinde kalmalı.
+$CUT_017_DISC_PACHE_005_JUDGE_JOKE
+Eşim, suçluları bulmam için baskı yapıyor. Ben ise görevime dönmeyi memnuniyetle isterdim. Beni anlıyor musunuz, Yurttaş?
+$CUT_017_DISC_PACHE_006_JUDGE_HUMI
+Belki de bu saldırıyla Paris halkı konuştu, fakat muhtemelen bunu, devrimi bizim kadar sevmeyen birileri planladı.
+$CUT_017_DISC_PACHE_007_PACHE_SATI
+Onları elde etmek istemeniz tamamen anlaşılır bir durum.
+$CUT_017_DISC_PACHE_008_PACHE_INTR
+Evet, bu korkunç bir saldırıydı ve böyle bir şeye cüret edecek kadar kararlı olanı memnuniyetle öğrenmek isterim.
+$CUT_017_DISC_PACHE_009_PACHE_DOUB
+Aradığınız kişilerin Paris'te olduğundan şüpheliyim. Ya kaçtılar ya da onları gönderenler tarafından öldürüldüler. Boşuna hayaletlerin peşinden koşuyorsunuz.
+$CUT_017_DISC_PACHE_010_JUDGE_AGGR
+Onlara ulaşmak için yer göğü birbirine katarım! Bu şehrin sözde hâkimi, Paris’i suçluların değil adaletin yönettiğini gerçekten göstersin, bunu talep ediyorum!
+$CUT_017_DISC_PACHE_011_JUDGE_MANI
+Kime sorduysam, Jean-Nicolas Pache’ın böyle alçakça işlere göz yumacak biri olmadığını söyledi. Yoksa Paris halkı yanılıyor mu?
+$CUT_017_DISC_PACHE_012_JUDGE_JOKE
+Dürüst olmak gerekirse, suçluları ararken neden sizi yardımcı olarak seçtiğimi bilmiyorum. Tüm adaylar arasında en dostça ve en anlayışlı görünen sizdiniz.
+$CUT_017_DISC_PACHE_013_JUDGE_HUMI
+Bu görkemli şehrin huzurunu ve düzenini kim sağlayabilir, eğer sağlayamayacaksa belediye başkanı? Sokaklarda kurbanı olduğum vahşeti durdurabilecek tek kişi sizsiniz.
+$CUT_017_DISC_PACHE_014_PACHE_SATI
+Şehrin böylesine aydın bir savunucusu olarak görülmek beni gerçekten onurlandırıyor.
+$CUT_017_DISC_PACHE_015_PACHE_INTR
+Gözlerinizdeki tutkuyu görüyorum. İkimizin birlikte neler başarabileceğini düşünmeden edemiyorum.
+$CUT_017_DISC_PACHE_016_PACHE_DOUB
+Daha önce de söylediğim gibi, sizin için üzülüyorum. Fakat bunu uzmanlara bırakalım, zira konuşmamız gereken daha önemli meseleler var.
+$CUT_017_DISC_PACHE_017_PACHE_IRRI
+Bu konuda size daha fazla yardımcı olabilecek biri var: yoldaşınız François Hanriot. Evet, küçük ittifakınızdan haberdarım. Bu yüzden bana tamamen dürüst olmadığınızdan şüpheleniyorum, Yurttaş Fidèle.
+$CUT_017_DISC_PACHE_018_JUDGE_AGGR
+Ahlak ve değerlere sahip birinin, yoksullara yardım etmek ve suçluları adalete teslim etmekten daha büyük bir ödülü kabul etmesi gerekir mi, bilmiyorum.
+$CUT_017_DISC_PACHE_019_JUDGE_MANI
+Bana saldıran kişiler hâlâ Paris sokaklarında dolaşıyor ve herkese saldırabilirler. Düşünmesi bile korkutucu: Ya birileri onları tutar ve örneğin Paris belediye başkanına benzer bir saldırı düzenletirse?
+$CUT_017_DISC_PACHE_020_JUDGE_JOKE
+Bu insanlar zaten ölü, bu artık karara bağlandı. Yine de, rastgele şüphelileri öldürmektense, ilk seferde doğru kişileri bulmayı tercih ederim.
+$CUT_017_DISC_PACHE_021_JUDGE_HUMI
+Bu ülkenin geleceği, bizim kararlılığımızla şekillenecek. Halkın feryatlarına kayıtsız kalırsak, onların takdirini hak ediyor muyuz? Bu katiller, tüm sakinler için bir tehdittir.
+$CUT_017_DISC_PACHE_022_JUDGE_AGGR
+Eğer yardımınızın bir bedeli varsa, öyle olsun. Madame Roland’dan el koyduğumuz işletmeden elde edilen kârın bir kısmını size ödeyeceğim. Artık bizden biri olacaksınız.
+$CUT_017_DISC_PACHE_023_JUDGE_MANI
+Madame Roland’ın işletmesi güvenilir yöneticilere ihtiyaç duyuyor. Aksi takdirde, kötü amaçlar için kullanılabilir ya da bize karşı çevrilebilir. Üstelik kârı sizinle paylaşabilirim…
+$CUT_017_DISC_PACHE_024_JUDGE_JOKE
+Madame Roland’dan aldığımız genelev hepimize yetecek kadar kâr getiriyor, ben de bunu seninle paylaşabilirim. Sonuçta, dost olmamız bekleniyor.
+$CUT_017_DISC_PACHE_025_JUDGE_HUMI
+Senin gibi iyi birinden karşılıksız yardım istemem. Madame Roland kendine güzel bir yer ayarladı, Jean, ve sen de kârdan payını alacaksın.
+$CUT_017_DISC_PACHE_026_JUDGE_AGGR
+Bu ittifak ikimizin de ihtiyacı olan bir şey. Devrim Mahkemesi yargıcının uzattığı eli kimse geri çevirmez. Reddinizi kabul etmeyeceğim.
+$CUT_017_DISC_PACHE_027_JUDGE_MANI
+Suikastçıları yakalamak sadece bir başlangıç. Bu ittifak sayesinde Paris’in en güçlü adamı olabilirsiniz. Size memnuniyetle yardımcı olacağım.
+$CUT_017_DISC_PACHE_028_JUDGE_JOKE
+Böylesine iyi bir insanın güvenliğimi sağladığını bilmek, görevime dönebileceğimden emin olmak büyük bir mutluluk. Bu ittifak gerçekten de hayırlı bir şey. Lütfen, bana bu iyiliği yapın.
+$CUT_017_DISC_PACHE_029_JUDGE_HUMI
+Dostluğumuzu ve ittifakımızı kabul ederek bana onur verin. Katilleri birlikte bulacak ve Paris’i daha huzurlu bir yer haline getireceğiz.
+$CUT_017_DISC_PACHE_030_PACHE_SATI
+Yardımını kabul edeceğim, çünkü bu ittifak hem bize hem de tüm Parislilere daha iyi bir yaşam sunacak!
+$CUT_017_DISC_PACHE_031_PACHE_INTR
+Keşke daha önce tanışsaydık, siz gerçekten ilgi çekici birisiniz. Güçlerimizi birleştirelim.
+$CUT_017_DISC_PACHE_032_PACHE_DOUB
+Beni ikna etmek için epey çaba harcadınız. Tam anlamıyla başardığınızı söyleyemem ama… peki, sizin istediğiniz olsun. Bu riski alacağım.
+$CUT_017_DISC_PACHE_033_PACHE_IRRI
+Hitabet sanatında ustalaşmamışsınız; gerçek niyetlerinizi gizleyemiyorsunuz. Beni bir şeye mi bulaştırmaya çalışıyorsunuz? Yoksa beni öldürmeyi mi planlıyorsunuz? Bilmiyorum, ama iyi niyetli olduğunuzdan şüpheliyim. Ölümünüz bana bir hediye olacak. Beyler?
+$CUT_017_DISC_PACHE_TOPIC_01
+Suikast / Failler aranıyor.
+$CUT_017_DISC_PACHE_TOPIC_02
+Yalnızca Pache yardım edebilir.
+$CUT_017_DISC_PACHE_TOPIC_03
+Ahlak ilkeleri galip gelmeli.
+$CUT_017_DISC_PACHE_TOPIC_04
+Teslim ettiğimiz genelev.
+$CUT_017_DISC_PACHE_TOPIC_06
+Bir dost / İttifak arayışı.

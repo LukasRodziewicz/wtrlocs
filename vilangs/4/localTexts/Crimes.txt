@@ -1,0 +1,58 @@
+#CRIME_001_NAME
+Anstacheln des Mobs
+#CRIME_002_NAME
+Gegenrevolution
+#CRIME_003_NAME
+Verteidigung der Monarchie
+#CRIME_004_NAME
+Hochverrat
+#CRIME_005_NAME
+Pflichtvernachlässigung
+#CRIME_006_NAME
+Nepotismus
+#CRIME_007_NAME
+Korruption
+#CRIME_008_NAME
+Diebstahl
+#CRIME_009_NAME
+Einbruch
+#CRIME_010_NAME
+Zerstörung von Eigentum
+#CRIME_011_NAME
+Zuhälterei
+#CRIME_012_NAME
+Überfall
+#CRIME_013_NAME
+Verstümmelung
+#CRIME_014_NAME
+Versuchter Mord
+#CRIME_015_NAME
+Mord
+#CRIME_016_NAME
+Folter
+#CRIME_017_NAME
+Schändung einer Leiche
+#CRIME_018_NAME
+Pädophilie
+#CRIME_019_NAME
+Vergewaltigung
+#CRIME_020_NAME
+Verleumdung
+#CRIME_021_NAME
+Betrug
+#CRIME_022_NAME
+Preisspekulation
+#CRIME_023_NAME
+Finanzbetrug
+#CRIME_024_NAME
+Bestechung
+#CRIME_025_NAME
+Ehebruch
+#CRIME_026_NAME
+Fahnenflucht
+#CRIME_027_NAME
+Hexerei
+#CRIME_028_NAME
+Fahren unter Alkoholeinfluss
+#CRIME_029_NAME
+Gefahr für die Verkehrssicherheit

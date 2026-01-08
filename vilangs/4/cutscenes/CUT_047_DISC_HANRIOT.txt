@@ -1,0 +1,62 @@
+$CUT_047_DISC_HANRIOT_001_HANRIOT
+Hast du überhaupt eine Ahnung, wie das klingt? Aristokraten, die mit Robespierre intrigieren? Die Wiederherstellung der Monarchie?
+$CUT_047_DISC_HANRIOT_002_JUDGE
+Vergessen Sie mein Kind nicht. Sie haben mir ins Gesicht gesagt, dass sie an seinem Tod beteiligt waren. Sie fürchten absolut nichts.
+$CUT_047_DISC_HANRIOT_003_HANRIOT
+Zuerst haben Sie sich in den Streit zwischen Hébert und Danton gegen Robespierre verwickelt, und jetzt wollen Sie auch noch mit Renard anlegen! Das gefällt mir ganz und gar nicht.
+$CUT_047_DISC_HANRIOT_004_JUDGE
+Glauben Sie wirklich, Sie werden Ihr Amt behalten… was rede ich… dass Sie Ihren Kopf behalten, wenn sie zurückkehren? Wenn die Monarchie wiederhergestellt wird? Renard muss sterben, und Robespierre ebenso – für seine unglückliche Wahl der Freunde.
+$CUT_047_DISC_HANRIOT_005_HANRIOT
+Das sagen Sie, doch über seine Freundeswahl weiß ich nichts.
+$CUT_047_DISC_HANRIOT_006_JUDGE_AGGR
+Sind Sie taub? Hätte ich Sie hierher geschleppt, wenn ich mir nicht sicher wäre? Renard hat mir das direkt ins Gesicht gesagt.
+$CUT_047_DISC_HANRIOT_007_JUDGE_MANI
+Meine Informationen waren stets zutreffend. Renard sah mir direkt in die Augen, als er mir vom Komplott erzählte. Alles, was ich sah, war ein Raubtier, das Blut gewittert hatte.
+$CUT_047_DISC_HANRIOT_008_JUDGE_JOKE
+Vertraust du mir etwa nicht? Mir? Würdest du etwa an deinem großen Bruder zweifeln, der dich davor warnt, den heißen Ofen anzufassen? Warum sollte ich dich in die Irre führen?
+$CUT_047_DISC_HANRIOT_009_JUDGE_HUMI
+Ich weiß, dass Sie gut informiert sind, aber das hätten Sie unmöglich allein erfahren können. Zum Glück, denn Sie sind kein Spielball in den Plänen von Renard und Robespierre.
+$CUT_047_DISC_HANRIOT_010_JUDGE_AGGR
+Zögern Sie etwa? Sie sollten wissen, dass Renard schon lange versucht, die Kontrolle über Paris an sich zu reißen. Er wollte das Chaos ausnutzen und es, wenn nötig, sogar noch anheizen. Zum Beispiel, indem er das Kind von jemandem tötet!
+$CUT_047_DISC_HANRIOT_011_JUDGE_MANI
+Renard hat eine Grenze überschritten, als er meine Familie angriff. Und er wird es wieder tun. Bist du bereit, alles aufs Spiel zu setzen, wenn das Leben deiner Liebsten auf dem Spiel steht?
+$CUT_047_DISC_HANRIOT_012_JUDGE_JOKE
+Natürlich könnten wir dem verrückten Royalisten freie Hand lassen. Wir könnten so tun, als wäre der Despot unbestechlich. Warum nicht gleich selbst unsere Köpfe abschlagen, noch bevor die offizielle Verkündung kommt?
+$CUT_047_DISC_HANRIOT_013_JUDGE_HUMI
+Nichts wird mein Kind zurückbringen, aber es gibt noch andere, die gerettet werden können. Doch dafür müssen wir uns gegen Tyrannei und Korruption stellen. Jetzt ist unsere Chance.
+$CUT_047_DISC_HANRIOT_014_HANRIOT_DOUB
+Ein vergessener Aristokrat soll ein solches Ungeheuer sein? Wollen Sie etwa andeuten, dass Robespierre Renards Taten billigt? Dass er zulässt, dass Kinder auf den Straßen ermordet werden?
+$CUT_047_DISC_HANRIOT_015_HANRIOT_IRRI
+Als Richter des Tribunals sollten Sie wissen, dass es kein Verbrechen ohne Beweise gibt. Haben Sie welche? Falls nicht, unterlassen Sie umgehend Ihre Verleumdungen gegen einen französischen Bürger.
+$CUT_047_DISC_HANRIOT_016_HANRIOT_AGGR
+Ach, hör auf mit deinem verrückten Gerede, Fidèle! Verschwörungen, Morde… Hältst du mich für ein Kind? Glaubst du wirklich, ein Aristokrat stecke hinter all dem? Vielleicht versteckt er auch gleich einen neuen König in seiner Tasche!
+$CUT_047_DISC_HANRIOT_017_JUDGE_AGGR
+Offenbar fehlt es Ihnen an Antrieb – den werde ich Ihnen gerne verschaffen. Sobald wir sie beseitigt haben, entstehen in den oberen Rängen freie Plätze. Wir werden sie mit oder ohne Sie besetzen, aber lieber hätten wir Sie an unserer Seite. Betrachten Sie das als Ihre dreißig Silberlinge!
+$CUT_047_DISC_HANRIOT_018_JUDGE_MANI
+Sie müssen weiter vorausblicken. Wenn diese beiden Halunken verschwinden, werden wir nicht nur die Verschwörung zerschlagen, sondern auch ein Vakuum schaffen, das gefüllt werden muss. Von uns. Von Ihnen und mir.
+$CUT_047_DISC_HANRIOT_019_JUDGE_JOKE
+Falls Sie noch immer fürchten, keinen Vorteil aus einem Bündnis mit uns zu ziehen, seien Sie unbesorgt: Sobald diese beiden Nichtsnutze verschwunden sind, verschaffen wir Ihnen umgehend einen hohen Posten. Und Sie behalten ihn, solange es Ihnen beliebt. Neue Machthaber, mein Freund.
+$CUT_047_DISC_HANRIOT_020_JUDGE_HUMI
+Renard und Robespierre dürfen mit ihren Verfehlungen nicht weitermachen! Ich weiß, dass auch in Ihrem Innersten Wut lodert. Wir dürfen ihnen nicht die volle Kontrolle überlassen… schon allein, weil wir, die wahren Verteidiger von Paris, sie weit mehr verdienen als sie.
+$CUT_047_DISC_HANRIOT_021_JUDGE_AGGR
+Siehst du diese Hände, Hanriot? In diesen Händen liegt dein Amt, doch durch deinen Eigensinn und deine Unentschlossenheit beginne ich, es zu verlieren. Verstehst du?
+$CUT_047_DISC_HANRIOT_022_JUDGE_MANI
+Soll ich Sie daran erinnern, dass Ihr Sturz ebenso rasant sein könnte wie Ihr Aufstieg auf der Karriereleiter? Ein einziger Befehl von mir würde genügen. Nur einer. Oder ein paar enttäuschte Worte von Danton oder Hébert.
+$CUT_047_DISC_HANRIOT_023_JUDGE_JOKE
+In letzter Zeit haben mich etliche junge, ehrgeizige Menschen aufgesucht, darunter auch Offiziere. Sie baten um meine Unterstützung. Jeder einzelne von ihnen wäre ohne Zögern bereit, seinem Rivalen die Augen auszukratzen, nur um den Posten zu bekommen. Oberbefehlshaber der Nationalgarde zu werden, das wäre wahrlich eine große Ehre…
+$CUT_047_DISC_HANRIOT_024_JUDGE_HUMI
+Danton und Hébert sind der Meinung, ich sollte meine Zeit nicht damit verschwenden, Sie um Unterstützung zu bitten. Sie raten mir, Ihnen mit Entlassung oder gar der Guillotine zu drohen. Ihrer Ansicht nach lassen sich Anklagen wegen konterrevolutionärer Umtriebe immer leicht beweisen.
+$CUT_047_DISC_HANRIOT_025_HANRIOT_DOUB
+Wenn ich Ihnen helfen sollte, dann nur wegen Ihrer Frau, nicht wegen Ihrer Argumente. Sie spielen ein gefährliches Spiel. Ein falscher Zug könnte Sie das Leben kosten.
+$CUT_047_DISC_HANRIOT_026_HANRIOT_IRRI
+Zugegeben, ohne Sie hätte ich meine jetzige Stellung nicht erreicht, aber es ist töricht zu glauben, das mache mich zu Ihrer Marionette. Sie haben nicht genug Macht, um mir zu drohen. Weder Sie, noch Hébert, und schon gar nicht Danton. Betrachten Sie dies als meine Absage. Leben Sie wohl!
+$CUT_047_DISC_HANRIOT_027_HANRIOT_AGGR
+Wollt ihr meinen Tod? Nein, so dumm bin ich nicht! Sucht euch einen anderen Narren, der bereit ist, für euch zu sterben. Ich habe euch vielleicht meine Treue geschworen, aber das heißt noch lange nicht, dass ich mein Leben opfere!
+$CUT_047_DISC_HANRIOT_TOPIC_01
+Die Information ist zuverlässig.
+$CUT_047_DISC_HANRIOT_TOPIC_02
+Renard muss für seine Vergehen zur Rechenschaft gezogen werden.
+$CUT_047_DISC_HANRIOT_TOPIC_03
+Wenn Renard und Robespierre sterben, wird es einen Machtwechsel geben.
+$CUT_047_DISC_HANRIOT_TOPIC_04
+Über Hanriots Entlassung entscheiden wir.

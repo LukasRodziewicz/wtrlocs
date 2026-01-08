@@ -1,0 +1,38 @@
+$INTRIGUE_MINIGAMEBUTTON_ACTIVE
+Realizar una acción
+$INTRIGUE_MINIGAMEBUTTON_INACTIVE
+Acción completada
+$INTRIGUE_SELECTAGENTPATH_NONE
+Elige cómo resolver esto
+$INTRIGUE_SELECTAGENTPATH_DIPLOMAT
+Diplomacia
+$INTRIGUE_SELECTAGENTPATH_SPY
+Espionaje
+$INTRIGUE_SELECTAGENTPATH_GUARD
+Fuerza
+$INTRIGUE_WINCHANCE_HEADER
+Probabilidad de éxito
+$INTRIGUE_CANCLOSESTATE
+A la espera de nuevos acontecimientos
+$INTRIGUE_PENDINGACTIONSSTATE
+Esperando la decisión del jugador
+$INTRIGUE_SELECT_BLOCK
+Elige una acción
+$PERSUASION_BRIBEBUTTONTEXT
+Enviar a un diplomático
+$PERSUASION_PERSUASIONBUTTONTEXT
+Convencer
+$PERSUASION_HEADER_COUNTER
+Aliados obtenidos:
+$INTRIGUE_PERFECT_WIN
+Una intriga perfecta
+$INTRIGUE_WIN
+Intriga exitosa
+$INTRIGUE_DEFEAT
+Una intriga fallida
+$INTR_WIN_COUNTER
+Número de éxitos necesarios para ganar
+$INT_WIN_BONUS_COUNTER
+Número de éxitos requeridos para obtener un bono
+$INTRIGUE_DIPLOMAT_SUCCESS_RATE
+Probabilidad: {0}%

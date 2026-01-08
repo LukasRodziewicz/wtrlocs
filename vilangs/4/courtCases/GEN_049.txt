@@ -1,0 +1,212 @@
+$GEN_049_DOC_01_HEADER
+Zusammengestellt von: Charles Etienne
+$GEN_049_DOC_01_00
+	Nach dem sintflutartigen Regen, der Paris vor zwei Wochen heimsuchte, wurde in einem der Abwasserkanäle zur Seine <a name="1" class="hidden">ein ertrunkener Junge</a> gefunden. Er war höchstens 14 Jahre alt. Seine ordentliche Kleidung ließ vermuten, dass er kein Straßenkind war, also begannen wir, nach seiner Familie zu suchen. Die Suche brachte jedoch nicht das erhoffte Ergebnis.
+$GEN_049_DOC_01_01
+	Einige Tage später wurde bei einem Posten der Nationalgarde eine anonyme Denunziation hinterlegt. Der Verfasser behauptete, die geheimnisvolle Leiche stehe in Verbindung mit einem Herrenhaus in den nördlichen Vororten von Paris. Eine Patrouille, die der Spur nachging, musste sich zurückziehen, als jemand begann, <a name="4" class="hidden">vom Eingang aus auf sie zu schießen</a>.
+$GEN_049_DOC_01_02
+	Die Soldaten kehrten mit Verstärkung zurück und stießen auf einen grauenvollen Anblick. Vier verdächtig wirkende Männer verluden junge, benommene Jungen wie Kartoffelsäcke auf einen Karren. Insgesamt wurden zehn Jungen im Gebäude gefunden, alle vom Land und keiner älter als 15. Der Keller war voller Regale mit Gläsern voller Laudanum. Es gab außerdem <a name="6" class="hidden">einen Pferch mit Schafen, Ziegen, Kühen, Pferden und Hunden</a>.
+$GEN_049_DOC_01_03
+	Zwei der vier Männer wurden lebend gefasst. Sie sagten aus, dass das verstörende Haus eine Art Bordell war, das einem gewissen Raoul Battier gehörte. Die Garde lauerte auf und nahm den Besitzer zusammen mit <a name="7" class="hidden">zwei Kunden</a> fest.
+$GEN_049_OnStart_00
+Bitte stellen Sie sich vor.
+$GEN_049_OnStart_01
+Raoul Battier, zu Ihren Diensten.
+$GEN_049_OnStart_02
+Nein, danke. Habe ich das richtig verstanden, dass Sie als Zuhälter arbeiten?
+$GEN_049_OnStart_03
+So starke Worte würde ich nicht wählen. Wir haben lediglich den Reichen Unterhaltung geboten… und ein paar besonders anspruchsvolle Kunden bedient. Sie wären überrascht, wie viele davon Sie persönlich kennen.
+$GEN_049_OnStart_04
+Bekennen Sie sich schuldig?
+$GEN_049_OnStart_05
+Ich habe lediglich ein Produkt angeboten, das sehr gefragt war.
+$GEN_049_OnStart_06
+Meinen Sie junge Burschen?
+$GEN_049_OnStart_07
+Ich würde eher sagen, mein eigentliches Geschäft war die angenehme Zeit.
+$GEN_049_OnGuilty_00
+Bürger Battier, Sie haben abscheuliche Verbrechen begangen. Diese Stadt wird erleichtert aufatmen, wenn Ihr Kopf endlich die Straße hinabrollt.
+$GEN_049_OnGuilty_01
+Tod dem Ungeheuer!
+$GEN_049_OnGuilty_02
+Kein Leid mehr für die Kinder!
+$GEN_049_OnGuilty_03
+Warum ihn nicht einfach in der Seine ertränken? Das wäre nur gerecht.
+$GEN_049_OnPrison_00
+Bürger Battier, ich spreche Sie schuldig. Von nun an wird das Gefängnis Ihr Zuhause sein.
+$GEN_049_OnPrison_01
+Ich würde es vorziehen, ihn geköpft zu sehen, doch glaube ich, dass er es im Gefängnis nicht leicht haben wird.
+$GEN_049_OnPrison_02
+Nicht genug!
+$GEN_049_OnPrison_03
+Nennen Sie das etwa Gerechtigkeit?
+$GEN_049_OnPrison_04
+Dieses freche Grinsen soll die Guillotine ihm austreiben!
+$GEN_049_OnNotGuilty_00
+Ich spreche Raoul Battier mangels eindeutiger Beweise gegen ihn vom Vorwurf frei.
+$GEN_049_OnNotGuilty_01
+Der Richter ist ein Sodomit!
+$GEN_049_OnNotGuilty_02
+Er wurde für eine Nacht mit einem Schaf gekauft!
+$GEN_049_OnNotGuilty_03
+Der Richter sollte sich schämen!
+$GEN_049_OnNotGuilty_04
+Das muss ein Albtraum sein!
+$GEN_049_04x03_00_QTitle
+Ihre Leute haben das Feuer auf die Nationalgarde eröffnet. Haben Sie den Befehl dazu gegeben?
+$GEN_049_04x03_00_00
+Ihre Leute haben das Feuer auf die Nationalgarde eröffnet. Haben Sie diesen Befehl erteilt?
+$GEN_049_04x03_00_01
+Es gab ein tragisches Missverständnis, mehr nicht…
+$GEN_049_04x03_00_02
+Sie wirken sehr selbstsicher. Wissen Sie, welches Schicksal Sie erwarten könnte?
+$GEN_049_04x03_00_03
+Die Guillotine – und sonst nichts!
+$GEN_049_04x03_00_04
+Sie sind ein vernünftiger Mensch. Das Volk verlangt natürlich nach Blut, doch Sie wissen, dass man Unternehmern kleine Vergehen verzeihen kann.
+$GEN_049_04x03_00_05
+Wie nennen Sie eine kleine Sünde?
+$GEN_049_04x03_00_06
+Meine Leute waren angespannt, nervös, und haben eure Leute wohl mit… nun ja, Einbrechern verwechselt, nehme ich an. So etwas kommt vor.
+$GEN_049_04x03_00_07
+Glauben Sie also wirklich, dass nichts Schlimmes passiert ist?
+$GEN_049_04x03_00_08
+Nun, wenn man jedes kleine Geschäft aus belanglosen Gründen schließen würde, wäre Frankreich bald bankrott.
+$GEN_049_04x03_00_09
+Wechseln Sie nicht das Thema. Hatten Sie vor, die Jungen irgendwohin zu schmuggeln?
+$GEN_049_04x03_00_10
+Sie sind noch so jung und die Schüsse haben ihnen Angst gemacht, deshalb mussten wir sie an einen ruhigeren Ort bringen.
+$GEN_049_06x03_01_QTitle
+Hatten Ihre Kunden nach ihren ausschweifenden Vergnügungen gern ein Festmahl?
+$GEN_049_06x03_01_00
+Hatten Ihre Kunden nach ihren ausschweifenden Vergnügungen gern ein Festmahl?
+$GEN_049_06x03_01_01
+Oh, sie kommen keineswegs wegen des Essens. Die wohlhabenden Bürger von Paris haben wahrlich erstaunliche Vorlieben, wenn es um die Liebe geht…
+$GEN_049_06x03_01_02
+Perversen!
+$GEN_049_06x03_01_03
+Eine gewöhnliche Dirne findet man an jeder zweiten Straßenecke. Zu uns kamen Leute, die nach etwas Besonderem suchten.
+$GEN_049_06x03_01_04
+Wollen Sie etwa behaupten, dass Ihre Mandanten… mit Vieh verkehren?
+$GEN_049_06x03_01_05
+Solch prüde Beschreibungen sind doch nicht nötig. Ihr ruft nach Freiheit und verbietet den Menschen zugleich ein wenig irdisches Vergnügen.
+$GEN_049_06x03_01_06
+Diese Jungen, die in Ihrem, wie nannten Sie es, Geschäft gefangen waren – waren die etwa auch frei?
+$GEN_049_06x03_01_07
+Hatten sie Geschlechtsverkehr oder nicht?
+$GEN_049_06x03_01_08
+Das kann man so sagen. Sie waren willig, sie wurden gut bezahlt – warum also nicht?
+$GEN_049_07x01_02_QTitle
+Sie haben Kinder entführt, betäubt und ermordet. Die Leichen wurden anschließend in die Kanalisation geworfen. Geben Sie das zu, Bürger?
+$GEN_049_07x01_02_00
+Sie haben Kinder entführt, betäubt und ermordet. Die Leichen wurden anschließend in die Kanalisation geworfen. Geben Sie das zu, Bürger?
+$GEN_049_07x01_02_01
+Sie waren verlorene Landjungen. In Paris hätte sie ohnehin jemand ausgenutzt. Am Ende wären sie Gerber oder Fabrikarbeiter geworden, hätten für ein Stück Brot geschuftet. Wir haben ihnen eine weitaus bessere Alternative geboten.
+$GEN_049_07x01_02_02
+Dachten sie genauso? Hast du überhaupt versucht herauszufinden, was sie wollten?
+$GEN_049_07x01_02_03
+Ich weiß es nicht genau, eigentlich hätten meine Leute das erledigen sollen.
+$GEN_049_07x01_02_04
+Wir würden gerne mit ihnen sprechen.
+$GEN_049_07x01_02_05
+Leider haben Sie sie beim Sturm auf meine Villa getötet.
+$GEN_049_07x01_02_06
+Wie praktisch für Sie. Haben Sie die Kinder mit Laudanum betäubt?
+$GEN_049_07x01_02_07
+Ein Glas Wein mit etwas Opium half diesen süßen Jungen, sich vor der Arbeit zu entspannen. Sie haben darum gebettelt – wie hätte ich da nein sagen können?
+$GEN_049_07x01_02_08
+Ich würde nicht nein sagen, ihm mit einem Stock das Gesicht zu polieren!
+$GEN_049_07x01_02_09
+Und sobald sie dir nichts mehr nützten, hast du sie in den Abfluss geworfen?
+$GEN_049_07x01_02_10
+Glauben Sie mir, ich hätte das gern vermieden.
+$GEN_049_02x01_03_QTitle
+Der Junge, der in der Kanalisation gefunden wurde, war gut gekleidet. Wer war er?
+$GEN_049_02x01_03_00
+Der Junge, der in der Kanalisation gefunden wurde, war gut gekleidet. Wer war er?
+$GEN_049_02x01_03_01
+Ich bin mir nicht sicher… Ich habe ihnen die Kleidung gegeben, sie kamen ja in Lumpen zu uns. Außerdem kann ich mich nicht an alle erinnern. Sie sollten unsere Kunden fragen, die plaudern nachher immer gern.
+$GEN_049_02x01_03_02
+Wer hat Ihre Dienste in Anspruch genommen?
+$GEN_049_02x01_03_03
+Markisen, Generäle, Beamte, Pfefferhändler, Bischöfe. Richter.
+$GEN_049_02x01_03_04
+Haben Sie das gehört? Bischöfe sind zu ihm gegangen!
+$GEN_049_02x01_03_05
+Ich will Namen hören.
+$GEN_049_02x01_03_06
+Von mir werden Sie sie nicht hören, selbst wenn Sie den fatalen Fehler begehen und es wagen, mich zum Tode zu verurteilen.
+$GEN_049_02x01_03_07
+Wovor sollte ich mich fürchten?
+$GEN_049_02x01_03_08
+Monsieur le juge, meine Klienten würden Ihnen das niemals verzeihen. Ich bin für diese Stadt ebenso wichtig wie ein Bäcker. Ich stille einen ganz besonderen, aber doch menschlichen Hunger der Elite – und Sie wollen das verhindern. Schon morgen könnten Sie selbst als Feind der Revolution gelten.
+$GEN_049_03x07_04_QTitle
+Woher wissen Ihre Kunden, wo sie Sie finden können?
+$GEN_049_03x07_04_00
+Woher wissen Ihre Kunden, wo sie Sie finden können?
+$GEN_049_03x07_04_01
+Paris ist ein wundervoller Ort. Wer sein Geld für Vergnügen ausgeben will, wird immer jemanden finden, der es ihm verschafft.
+$GEN_049_03x07_04_02
+Ich nehme an, sie haben es mündlich untereinander weitergegeben.
+$GEN_049_03x07_04_03
+Sie sind sehr scharfsinnig!
+$GEN_049_03x07_04_04
+Mit anderen Worten: Fassen wir einen, fassen wir sie alle!
+$GEN_049_03x07_04_05
+Sie können viel gewinnen, wenn Sie mir diese Namen nennen.
+$GEN_049_03x07_04_06
+Ich fürchte, wenn Sie davon wüssten, würden Sie erschrecken, wie Sie mit mir gesprochen haben.
+$GEN_049_03x07_04_07
+Die Gerechtigkeit schert sich nicht um Ihre Beziehungen.
+$GEN_049_03x07_04_08
+Ja, sag es ihm!
+$GEN_049_03x07_04_09
+Die Gerechtigkeit mag sich nicht kümmern… aber Sie sollten es tun.
+$GEN_049_KEY_01
+Ertrunkener Junge
+$GEN_049_KEY_02
+Gepflegte Kleidung
+$GEN_049_KEY_03
+Herrenhaus
+$GEN_049_KEY_04
+Schüsse von der Türschwelle
+$GEN_049_KEY_05
+Gläser aus der Apotheke
+$GEN_049_KEY_06
+Viehgehege
+$GEN_049_KEY_07
+Kunden
+$GEN_049_LastDialog_00
+Du wirst der Nächste sein, der seinen Kopf verliert! Die Begierde wird dich vernichten!
+$GEN_049_UNIQUE_QUESTION_00
+Laut Aussage des Angeklagten, wer nahm seine „Dienste“ in Anspruch?
+$GEN_049_UNIQUE_ANSWER_CORRECT_00_00
+Reiche und besonders anspruchsvolle Kunden.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Das örtliche Unterweltmilieu.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Meistens Ausländer.
+$GEN_049_UNIQUE_QUESTION_01
+Der Zuhälter sagte, seine Leute hätten auf die Wachen geschossen, weil…
+$GEN_049_UNIQUE_ANSWER_CORRECT_01_00
+Sie hielten sie für Einbrecher.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Sie rechneten mit ihren Rivalen.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Die Wache eröffnete zuerst das Feuer auf sie.
+$GEN_049_UNIQUE_QUESTION_02
+Wer waren die Kinder, die von Battier missbraucht wurden?
+$GEN_049_UNIQUE_ANSWER_CORRECT_02_00
+Junge Dorfbewohner auf der Suche nach ihrem Glück in Paris.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Kriegswaisen.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Die Söhne der Volksfeinde.
+$GEN_049_UNIQUE_QUESTION_03
+Battièrs Leute betäubten die Opfer mit…
+$GEN_049_UNIQUE_ANSWER_CORRECT_03_00
+Opium.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Haschisch.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Hochprozentiger Alkohol.

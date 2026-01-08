@@ -1,0 +1,166 @@
+$FAB_022_DOC_01_HEADER
+Hazırlayan: Fabrice Poli
+$FAB_022_DOC_01_00
+Bu zor zamanlarda, Germaine de Staël tutuklandı; taciz, Fransa'ya karşı komplo kurmak ve en iğrenç olanı, çocukların yozlaştırılması ve istismarıyla suçlanıyor.
+$FAB_022_DOC_01_01
+Komplo suçlamasının sağlam bir temeli var. Sanık, yüksek sosyeteden geliyor; eski maliye bakanı Necker’in kızı, ki Necker bu görevi kraliyet döneminde yürütmüştü. Çocukluğundan beri aydınlarla çevrili olan sanık, yetişkinliğinde kendi siyasi salonunu açtı ve burada Paris’e gelen yabancı devlet adamlarıyla, babasını ziyaret edenlerle buluştu. İşte Paris’in “en seçkin” Vatandaşlarının katıldığı bu siyasi tartışmalarda, onları yabancı güçlerle iş birliğine ikna ettiği iddia ediliyor.
+$FAB_022_DOC_01_02
+Siyasi salon da çeşitli iğrençliklere sahne oldu ve sanık bunlarda bizzat yer aldı. Öncelikle, kendisi <a name="3" class="hidden">erkeklere karşı uygunsuz davranış</a> ile suçlanıyor. Misafirlerine sarkıntılık ettiği, hatta bazılarını <a name="4" class="hidden">cinsel ilişkiye zorlama</a> girişiminde bulunduğu söyleniyor.
+$FAB_022_DOC_01_03
+Ancak şüphelerimiz arasında <a name="5" class="hidden">küçük erkek çocuklarına</a> yönelik istismar da bulunmaktadır. Sanık, yetişkinlerle geçen tartışmalarla dolu bir günün ardından bu şekilde rahatlamayı alışkanlık haline getirmiştir. Özellikle sarışın olanları tercih eden sanığın kurbanları sersemlemiş ve yaşananların farkında olmamış, bazı çocukların ise onu defalarca ziyaret ettiği iddia edilmiştir.
+$FAB_022_DOC_01_04
+Elimizdeki tüm bilgiler, sanığı yakından tanıyan bir tanığın ifadesi sayesinde elde edilmiştir. Söz konusu kişi Grace Elliott; bir fahişe ve iddiaya göre bir casus. Robespierre’in terörünün doruğunda tutuklanmış ve serbest bırakılması karşılığında ifade vermeyi kabul etmiştir.
+$FAB_022_OnStart_00
+Lütfen kendinizi tanıtınız.
+$FAB_022_OnStart_01
+Adımı biliyorsunuz, o halde bunu çabucak bitirelim.
+$FAB_022_OnStart_02
+Hemen giyotine gönderilmek ister misiniz?
+$FAB_022_OnStart_03
+Devam edin. Bunu halka nasıl açıklayacağınızı gerçekten merak ediyorum.
+$FAB_022_OnGuilty_00
+Madame de Staël, giyotine gönderileceksiniz!
+$FAB_022_OnGuilty_01
+Orospuyu öldür!
+$FAB_022_OnGuilty_02
+Bir gün ihanetinizin bedelini ödeyeceksiniz…
+$FAB_022_OnNotGuilty_00
+Madame de Staël, suçsuzsunuz ve serbestsiniz.
+$FAB_022_OnNotGuilty_01
+Yani bugün gösteri olmayacak mı?
+$FAB_022_OnNotGuilty_02
+Sizce aramızdaki mesele artık kapanacak mı?
+$FAB_022_01x03_00_QTitle
+Söyler misiniz, seçkinler arasında taciz normal karşılanır mı?
+$FAB_022_01x03_00_00
+Söyler misiniz, seçkinler arasında erkeklere yönelik taciz normal karşılanır mı?
+$FAB_022_01x03_00_01
+Taciz hiçbir yerde kabul edilemez, hele ki elitler arasında asla. Ben kesinlikle onaylamıyor ve teşvik etmiyorum.
+$FAB_022_01x03_00_02
+İtiraf etmeliyim ki, taciz edenin hep erkekler olduğunu, kadınlarınsa mağdur olduğunu düşünürdüm. Fikrimi değiştirdiniz.
+$FAB_022_01x03_00_03
+Savcıların aptal olmadığını düşünürdüm, ama Tinville, fikrimi değiştirdin.
+$FAB_022_01x03_00_04
+Bu iftira dolu konuşmayı derhal kesin!
+$FAB_022_01x03_00_05
+Herhangi bir tacizle hiçbir alakam yok. Muhtemelen biri kendini önemli hissetmek istedi.
+$FAB_022_01x03_00_06
+Çocukları baştan çıkaran bir kadının onları yatağına çekmeye çalıştığını söyleyerek erkeklerin kendilerini pohpohlayacağını mı iddia ediyorsunuz?
+$FAB_022_01x03_00_07
+Beni kırabileceğinizi mi sanıyorsunuz? Hiç kimse biz kadınları yıkamaz!
+$FAB_022_01x03_00_08
+Giyotin herkesi dize getirir.
+$FAB_022_01x04_01_QTitle
+Seçkinler için siyasi salonlar ya da sefahat âlemleri düzenlediniz mi?
+$FAB_022_01x04_01_00
+Seçkinler için siyasi salonlar ya da sefahat geceleri düzenlediniz mi?
+$FAB_022_01x04_01_01
+İtiraf etmek istiyorum.
+$FAB_022_01x04_01_02
+Sonunda, sağduyunun sesi. Dinliyoruz.
+$FAB_022_01x04_01_03
+Bu rezaletlerin sıkça görülen konuklarından birinin, bugün burada bulunan Yargıç Alexis Fidèle olduğunu ifade etmek isterim.
+$FAB_022_01x04_01_04
+Affedersiniz? Ne biçim bir suçlama bu?!
+$FAB_022_01x04_01_05
+Bana yönelttiğiniz suçlamalardan ne daha büyük ne de daha kötü. Evet, bu benim ifademdir: Buradaki Yargıç, orgilere katıldı. Aynı anda birden fazla kişiyle birlikte olmak istedi – erkek çocuklar, kızlar ve bir seferinde hatta bir keçi!
+$FAB_022_01x04_01_06
+Hayatınız tehlikedeyken şaka mı yapıyorsunuz?
+$FAB_022_01x04_01_07
+Bu dava baştan sona bir saçmalık! Beni yargılamak istiyorsunuz, çünkü kadın hakları için mücadele edecek cesarete sahip olduğum için.
+$FAB_022_02x03_02_QTitle
+Müttefik ararken her zaman şantaj mı yaparsınız?
+$FAB_022_02x03_02_00
+Müttefik ararken her zaman şantaja mı başvurursunuz?
+$FAB_022_02x03_02_01
+Ben kimseyi şantajla tehdit etmedim, fakat şu anda siyasi sebeplerle bana şantaj yapılıyor.
+$FAB_022_02x03_02_02
+Ne demek istiyorsunuz?
+$FAB_022_02x03_02_03
+Kadın Hakları Bildirgesi’ne dair destek istedim. Bunun yerine, kamuoyunda beni küçük düşürmek için uydurulan korkunç bir suçlamayla tutuklandım ve buraya getirildim.
+$FAB_022_02x03_02_04
+Delilleri mahkeme değil, müfettişler topladı.
+$FAB_022_02x03_02_05
+Görünüşe göre, onlara halkın gözünde en nefret edilen suçlamanın ne olacağı bildirildi ve ardından bunu doğrulayacak deliller üretildi.
+$FAB_022_02x03_02_06
+Sözünüze güvenmemizi mi bekliyorsunuz?
+$FAB_022_02x03_02_07
+Lekesiz bir itibarım vardı, şimdi ise birdenbire beni kendi zevkim için çocuklara istismar etmekle mi suçluyorsunuz? Beni vazgeçmeye zorlamak istediğiniz açık–
+$FAB_022_02x03_02_08
+Yeter artık bu masallardan. Buradaki sanıkların çoğu, işledikleri suçlardan asla şüphelenilmemişti. Yine de suçluydular.
+$FAB_022_02x04_03_QTitle
+İhanet karşılığında peşin ödeme olarak seks teklif ettiniz mi?
+$FAB_022_02x04_03_00
+İhanet karşılığında peşin ödeme olarak seks teklif ettiniz mi?
+$FAB_022_02x04_03_01
+Ben fahişe değilim.
+$FAB_022_02x04_03_02
+Aslında, ihanetin yolunu açmak ve bedenini satmak için fahişe olmaya gerek yok. Kadınlar zaten bunu yapmıyor mu?
+$FAB_022_02x04_03_03
+Bu aşağılayıcı ve iğrenç bir benzetme, ama bir adamdan başka ne bekleyebilirdim ki?
+$FAB_022_02x04_03_04
+Yani inkâr mı ediyorsunuz?
+$FAB_022_02x04_03_05
+Sizin o iğrenç, hain ağızlarınızdan çıkan her şeyi reddedeceğim. Ne zaman bir kadını karalamak isteseniz, onu ahlaksızlıkla suçluyorsunuz!
+$FAB_022_02x04_03_06
+Birini gözden düşürmek istediğinizde hemen onu zampara ilan ediyorsunuz! Şimdi kendi silahınızın tadına baktınız.
+$FAB_022_02x04_03_07
+Vatandaş Tinville, lütfen sözlerinize dikkat edin.
+$FAB_022_02x04_03_08
+Çocuk gibi kavga ediyorlar...
+$FAB_022_05x06_04_QTitle
+Tanığı çağırın.
+$FAB_022_05x06_04_00
+Tanığı çağırın.
+$FAB_022_05x06_04_02
+Kendinizi tanıtın.
+$FAB_022_05x06_04_03
+Grace Elliot. Ben bir hanımefendi yoldaşıyım.
+$FAB_022_05x06_04_04
+"Bir hanımefendi" ha, iyiymiş.
+$FAB_022_WIT_00_A_QTitle
+Madame de Staël’in haince faaliyetleri hakkında bize bir şey söyleyebilir misiniz?
+$FAB_022_WIT_00_A_00
+Madame de Staël’in haince faaliyetleri hakkında bize bir şey söyleyebilir misiniz?
+$FAB_022_WIT_00_A_01
+Vatandaş de Staël’in Konvansiyon politikacılarını yozlaştırdığını ya da yozlaştırmaya teşebbüs ettiğini doğrulayabilirim.
+$FAB_022_WIT_00_A_02
+Nasıl?
+$FAB_022_WIT_00_A_03
+Siyasi salondaki toplantılardan faydalandı. Birkaç kadeh şarap içildikten sonra, Fransa dışındaki müttefiklerimize yardım etmek üzerine masum görünen sohbetler başlatıyordu.
+$FAB_022_WIT_00_A_04
+Bu politikacılardan herhangi birine bunu doğrulatabilir miyiz?
+$FAB_022_WIT_00_A_05
+Bu zor olabilir. Onları zaten giyotine gönderdiniz.
+$FAB_022_WIT_00_B_QTitle
+Sanığın, küçük erkek çocuklarını cinsel ilişki amacıyla kabul ettiğini doğrulayabilir misiniz?
+$FAB_022_WIT_00_B_00
+Sanığın, genç erkek çocuklarını cinsel amaçla kabul ettiğine dair suçlamayı doğrulayabilir misiniz?
+$FAB_022_WIT_00_B_01
+Ne kadar iğrenç bulsam da, maalesef bunu doğrulamak zorundayım.
+$FAB_022_WIT_00_B_02
+Kendimi çok kötü hissediyorum…
+$FAB_022_WIT_00_B_03
+Genellikle yetimhaneden çocuklardı. Kimse onlarla ilgilenmez, bu yüzden kolay bir hedef olurlar.
+$FAB_022_WIT_00_B_04
+Ve onlar, başlarına ne geleceğini bilerek isteyerek mi geldiler?
+$FAB_022_WIT_00_B_05
+Onlara küçük hediyeler verdi, güzel yemekler yedirdi. Bu çocukların başka hiçbir şeye ihtiyacı yoktu.
+$FAB_022_WIT_00_B_06
+Çoğunlukla sarışın oğlanlar mı?
+$FAB_022_WIT_00_B_07
+Doğru, ama ben de sarışın kızlar gördüm.
+$FAB_022_KEY_01
+Yüksek sosyete
+$FAB_022_KEY_02
+İş birliğine teşvik
+$FAB_022_KEY_03
+Uygunsuz davranış
+$FAB_022_KEY_04
+Cinsel ilişki
+$FAB_022_KEY_05
+Genç oğlanlar
+$FAB_022_KEY_06
+Tanık
+$FAB_022_LastDialog_00
+Kadınlar bunu asla unutmayacak!

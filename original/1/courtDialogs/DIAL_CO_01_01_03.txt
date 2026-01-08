@@ -1,0 +1,18 @@
+$DIAL_CO_01_01_03_001_MENTOR
+Simoneau was a good, loyal officer. Those bastards lynched him for observing the law. Will you join me at the march?
+$DIAL_CO_01_01_03_002_JUDGE
+We ought to show that we oppose the self-appointed executioners and stand alongside of victims.
+$DIAL_CO_01_01_03_003_JUDGE
+I am more interested in the living, even though I do agree that Simoneau’s death was horrible.
+$DIAL_CO_01_01_03_004_MENTOR
+I wonder why the King has taken the trouble to show up? Louis XVI marching arm in arm with the people of Paris. That is… unexpected.
+$DIAL_CO_01_01_03_005_MENTOR
+King Louis…
+$DIAL_CO_01_01_03_006_KING
+Continue, please, I am merely an observer. Do not change your habits for me.
+$DIAL_CO_01_01_03_007_KING
+I heard a thing or two about a young and ambitious judge of the Tribunal. I was curious whether he is guided by justice or by… hmm… entertainment, as some would say.
+$DIAL_CO_01_01_03_LETTER
+Today the people of Paris commemorate Jacques Guillaume Simoneau, Mayor of Étampes. He was lynched by a furious mob for performing his duties to France. This march shall symbolise the unity of our society and the hope that the most violent stage of the Revolution is past us. Let us make sure that no other loyal servant of France becomes a victim of such hatred ever again!
+$DIAL_CO_01_01_03_LETTER_SENDER
+KING LOUIS XVI

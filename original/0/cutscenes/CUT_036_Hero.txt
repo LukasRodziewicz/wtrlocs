@@ -1,0 +1,31 @@
+$CUT_036_JUDGE_WON_BROTHER_001
+Ślady naszych zbrodni zmyje poranny deszcz.
+$CUT_036_JUDGE_WON_BROTHER_002
+Nie będzie nas, a brat znowu zabije brata.
+$CUT_036_JUDGE_WON_BROTHER_003
+Kto chciałby zostać bohaterem w takim świecie?
+$CUT_036_JUDGE_WON_004
+<BUM>
+
+$CUT_036_JUDGE_LOST_BROTHER_001
+Czas, byśmy umarli, mój bracie.
+$CUT_036_JUDGE_LOST_BROTHER_002
+Jutro ludzie znowu będą mogli się zabijać i mówić, że to nowa rewolucja, bo ślady naszych zbrodni zmyje poranny deszcz.
+$CUT_036_JUDGE_LOST_003
+<BUM>
+
+
+$CUT_036_CROWD_001
+Zwycięzca! 
+$CUT_036_CROWD_002
+Napoleon nas uratował! 
+$CUT_036_CROWD_003
+Bohater!
+$CUT_036_JUDGE_004
+Bohater...
+$CUT_036_BOY_005
+Bohater.
+$CUT_036_PUPPETEER_006
+Kto wygrał?
+$CUT_036_PUPPETEER_007
+Kto będzie następny?

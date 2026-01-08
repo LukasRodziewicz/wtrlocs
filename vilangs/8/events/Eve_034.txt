@@ -1,0 +1,8 @@
+$EVE_034_V1_AGENTS_DISAPPEAR_TITLE
+O Guarda Parte
+$EVE_034_V1_AGENTS_DISAPPEAR_MAIN_01
+Você encontra um uniforme de tamanho grande pendurado em um gancho. Só um funcionário seria grande o bastante para vesti-lo — seu guarda favorito do tribunal, Raphaël Clovis. Em um dos bolsos, você acha uma carta curta, com alguns trechos que chamam atenção: “Estou deixando o serviço”, “Não aguento mais isso” e “sangue demais nas minhas mãos”. Os ratos estão abandonando o navio que afunda.
+$EVE_034_V1_AGENTS_LEAVE_TITLE
+O Guarda Parte
+$EVE_034_V1_AGENTS_LEAVE_MAIN_01
+Você encontra um uniforme de tamanho grande pendurado em um gancho. Só um funcionário seria capaz de vesti-lo — seu guarda favorito do tribunal, Raphaël Clovis. Uma carta encontrada no bolso interno revela de que lado Clovis está — o do seu irmão. Ele vai lutar contra você para se salvar. Ou talvez esteja apenas cansado de suas atitudes? Para ter certeza, você precisa encontrá-lo. O pior é que ele conhece suas fraquezas…

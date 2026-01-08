@@ -1,0 +1,30 @@
+$CUT_049_001
+Tu m'avais demandé hier de réduire un agent au silence… C'est fait, mais il y a quelque chose que tu devrais venir voir.
+$CUT_049_002_JUDGE
+Tu comptes me montrer un simple cadavre ?
+$CUT_049_003_GUARDSMAN
+Ce n'est pas qu'un cadavre. Regarde le collier.
+$CUT_049_004_JUDGE
+Une fleur de lys.
+$CUT_049_005_GUARDSMAN
+Ce n'est pas tout, regarde sous ses vêtements.
+$CUT_049_006_GUARDSMAN
+Nous avons trouvé un message dans la poche de sa cape.
+$CUT_049_007_GUARDSMAN
+Quelqu'un lui a ordonné de rallier des soutiens pour un mystérieux « R » présent dans la section.
+$CUT_049_008_JUDGE
+Qui serait assez arrogant pour prendre la place de Louis ?
+$CUT_049_009_GUARDSMAN
+Seuls des aristocrates sont suffisamment puissants pour mobiliser secrètement des gens comme lui.
+$CUT_049_010_JUDGE
+Même eux auraient besoin d'aide au sein de la Convention. Qui est ce dénommé « R » ?
+$CUT_049_011_GUARDSMAN
+Robespierre peut-être ? S'il s'est allié à des aristocrates, nous devons avertir quelqu'un ! Tout le monde !
+$CUT_049_012_JUDGE
+Ce pourrait être le ministre Roland. Tant que nous n'en sommes pas sûrs, c'est la panique que nous risquons.
+$CUT_049_013_GUARDSMAN
+Dans ce cas, nous allons devoir traquer les autres agents. Celui-ci ne nous dira rien.
+$CUT_049_014_JUDGE
+Nous n'avons pas le choix.
+$CUT_049_015_JUDGE
+Si ce « R » cherche à rallier des soutiens, tu dois en faire autant. Pour l'intérêt général…

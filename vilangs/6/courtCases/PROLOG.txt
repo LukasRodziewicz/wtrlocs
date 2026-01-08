@@ -1,0 +1,95 @@
+$PROLOG_PRE_01_MT
+La próxima vez recuérdame que quiero dejar de beber este aguardiente turbio. Recuérdamelo ANTES de que lo beba. Estamos deshonrando a Temis, ja… ¿Viene alguien?
+$PROLOG_PRE_02_WF
+Era inevitable...
+$PROLOG_PRE_03_ES
+Te lo advertí...
+$PROLOG_PRE_04_YS
+Papá, dijiste que iríamos… Lo prometiste…
+$PROLOG_PRE_05_MT
+Papá tenía mucho… trabajo.
+$PROLOG_PRE_06_ES
+Sí, muchos vasos vacíos...
+$PROLOG_PRE_07_WF
+Me lo prometiste… Ya no puedo más… Estoy harta de pedirlo.
+$PROLOG_PRE_08_YS
+Mamá está enfadada porque…
+$PROLOG_PRE_09_ES
+Silencio.
+$PROLOG_PRE_10_WF
+Hoy tu hijo favorito quiso demostrar que tenía más honor que su padre, así que se metió en una pelea. ¡Un niño de cinco años, por el amor de Dios!
+$PROLOG_PRE_11_WF
+Nuestros vecinos querían que les explicaras eso, pero… bueno, estabas luchando por la justicia. En una taberna. Maldito seas, borracho de mierda…
+$PROLOG_PRE_12_ES
+Mamá…
+$PROLOG_DOC_01_HEADER
+Carta de Aurélie Dupond
+$PROLOG_CASE_DOC_HEADER
+Al juez Alexis Fidèle,
+$PROLOG_CASE_DOC_MAIN
+Juez Alexis Fidèle,
+	 no esperábamos este tipo de conducta de su hijo, aunque, al parecer, deberíamos haberlo hecho. Lo que comenzó como <a name="1" class="hidden">un inocente</a> juego de niños terminó en <a name="2" class="hidden">una agresión</a> contra nuestros hijos.
+	
+	 El pequeño, <a name="3" class="hidden">Antoine</a>, ahora tiene <a name="4" class="hidden">una astilla en el diente delantero</a>. Esperamos que castigue a su hijo como corresponde. Si la situación se repite, actuaremos con mayor firmeza. Estoy seguro de que sabremos cómo tratar con un jugador y borracho, aunque sea juez… ¡No permitiremos que lastimen a nuestros hijos!
+$PROLOG_KEYWORD_01
+Juego de niños
+$PROLOG_KEYWORD_02
+Niños peleando
+$PROLOG_KEYWORD_03
+Antoine herido
+$PROLOG_KEYWORD_04
+Diente astillado
+$PROLOG_KEYWORD_05
+Posibilidad de reincidencia
+$PROLOG_01_D1_01_JD
+¿Cómo fue que su juego terminó en una pelea?
+$PROLOG_01_D1_02_YS
+Nuestros vecinos, Antoine y Jean... Decían cosas feas sobre ti. Jugábamos a los guardianes y me pidieron que fingiera ser un borracho al que ellos iban a... ya sabes...
+$PROLOG_01_D1_03_JD
+¿Te enfrentaste a los dos al mismo tiempo?
+$PROLOG_01_D1_04_YS
+Tuve que hacerlo.
+$PROLOG_02_D1_01_JD
+¿Qué decían exactamente?
+$PROLOG_02_D1_02_ES
+¿Estás demasiado borracho para adivinar?
+$PROLOG_02_D1_03_JD
+No te lo estaba preguntando a ti.
+$PROLOG_02_D1_04_YS
+Gritaban que tú eres... bueno... les dije que no era cierto, y empezaron a insultarme. Me llamaron "hijo de un borracho".
+$PROLOG_03_D1_01_JD
+¿Quién empezó la pelea?
+$PROLOG_03_D1_02_ES
+Puedo decirte quién la terminó…
+$PROLOG_03_D1_03_YS
+Eh, creo que fui… yo. Pateé al que estaba a la izquierda, y luego quise ir por el de la derecha, pero…
+$PROLOG_03_D1_04_ES
+Pero ellos pusieron fin a todo.
+$PROLOG_03_D1_05_YS
+Me tiraron al suelo y me devolvieron el golpe.
+$PROLOG_04_D1_01_JD
+¿De verdad le rompiste un diente a Antoine?
+$PROLOG_04_D1_02_ES
+Frédéric es solo un niño.
+$PROLOG_04_D1_03_YS
+No lo sé... No lo creo.
+$PROLOG_04_D1_04_JD
+¿Le pegaste en la cara?
+$PROLOG_04_D1_05_YS
+Creo que lo pateé, pero no tan fuerte...
+$PROLOG_CASE_ON_GUILTY
+Por desgracia, no deberías iniciar peleas, sea cual sea el motivo.
+$PROLOG_CASE_ON_NOTGUILTY
+Lo hiciste bien. Un hombre debe defender el honor de su familia, cueste lo que cueste.
+$PROLOG_POST_01_WF
+Esos niños son tan pequeños, y ya conocen la verdad: el padre de mis hijos es un mentiroso, un borracho y un jugador. Bernard solía admirarte, pero pronto dejó de hacerlo. Ahora le toca a Frédéric descubrir esa verdad que resuena en las calles.
+$PROLOG_POST_02_WF
+¿Y usted, Raymond? Se supone que es el mentor de mi esposo, ¿esto es lo que quería enseñarle? ¿A repetir sus errores y perder a su familia?
+$PROLOG_POST_03_MT
+No sabía que Mathilde tenía un carácter tan fuerte.
+$PROLOG_POST_04_JD
+Como yo…
+$PROLOG_POST_05_WF
+Esperaremos afuera, como siempre.
+$PROLOG_GUILTY
+Culpable

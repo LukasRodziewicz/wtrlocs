@@ -1,0 +1,44 @@
+$SURVIVAL_QUIZ_RESULT_HEADER
+Score
+$SURVIVAL_QUIZ_RESULT_DESC
+Ce sont vos valeurs de départ pour les relations avec les fractions.
+$SURVIVAL_QUIZ_QUESTION_01
+Dans le couloir de la cour, j’ai été heurté par une jeune femme extrêmement belle. Elle portait une robe élégante, mais un peu usée et localement en lambeaux. La femme a commencé à parler avant même que j'aie eu le temps de m'excuser pour la collision. Elle s’est présentée sous le nom de Désirée Plouffe, la fille du comte. Son fiancé a été placé en détention - des actions contre-révolutionnaires ont été données comme une raison, mais aucune accusation détaillée n'a été faite. Mlle Plouffe a sorti une enveloppe avec une note et une voix cassée m'a demandé de la transmettre à l'accusé.
+$SURVIVAL_QUIZ_QUESTION_01_A1
+J'ai enfermé la dame dans une des salles de service et je suis allé chercher la Garde. Je ne veux pas qu'on me juge pour corruption.
+$SURVIVAL_QUIZ_QUESTION_01_A2
+J'ai pris la note et promis de l'aider. Des requérants ordinaires dans le couloir fronçaient les sourcils...
+$SURVIVAL_QUIZ_QUESTION_01_A3
+« Regardez, tout le monde » - j'ai dit à haute voix. « La baronne semble penser qu'elle peut faire plus que les autres ». J'ai déchiré la note et je l'ai jeté à ses pieds.
+$SURVIVAL_QUIZ_QUESTION_02
+Je marchais dans la rue. Je me souviens d'avoir admiré comment Paris était en train de changer. Les enseignes étaient échangées au-dessus des magasins, le peuple prenait les meubles incrustés dans les résidences des magnats. Les gens chargeaient ces biens dans des chariots, les emportaient, les donnaient. Un homme est sorti de la porte avec une bouteille de vin à la main et a crié : « Ça vient du sous-sol de M. Jacquemard. Allez, buvez avec nous ».
+$SURVIVAL_QUIZ_QUESTION_02_A1
+Je suis allé boire avec eux. Nous avons passé toute la nuit au sous-sol à parler des besoins de la France.
+$SURVIVAL_QUIZ_QUESTION_02_A2
+J'ai appelé le Garde pour qu'il saisisse le vin du sous-sol pour les besoins de la révolution.
+$SURVIVAL_QUIZ_QUESTION_02_A3
+Je leur ai dit qui j'étais et je les ai menacés de punition pour vol - ils se sont enfuis comme des dératés. J'ai conseillé au propriétaire de cacher des objets de valeur à la campagne.
+$SURVIVAL_QUIZ_QUESTION_03
+Une fois, j'ai été témoin d'une scène triste dans une cour près de la fontaine. Quelques gars jetaient des pierres vers un jeune homme bien habillé, en criant : « Mangez, comtesse, bon appétit ! ». Un jeune noble, poussé dans un coin, n'a fait que protéger son visage, recevant des balles successives, qui frappaient non seulement lui-même, mais aussi les fenêtres, se brisant en petits morceaux sous l'accompagnement des habitants qui criaient.
+$SURVIVAL_QUIZ_QUESTION_03_A1
+J'ai ramassé quelques pierres du sol et je les ai jetées vers le « comte », puis je suis parti.
+$SURVIVAL_QUIZ_QUESTION_03_A2
+J'ai chassé cette bande, en leur donnant des coups avec ma canne, et j'ai donné un mouchoir au jeune noble pour qu’il puisse essuyer les coupures qui saignaient.
+$SURVIVAL_QUIZ_QUESTION_03_A3
+J'ai fait arrêter les adolescents pour vandalisme. Pour les Parisiens, le temps de la peur est fini.
+$SURVIVAL_QUIZ_QUESTION_04
+Sur une place près de la cathédrale Notre-Dame, j'ai vu un homme ivre. Il marchait dans la rue en hurlant : « Salopards, les salopards ont pris le contrôle de la ville » et en menaçant les gens avec un bâton en ivoire. J'ai vu des gens chuchoter et le pointer du doigt. Les lavandières qui passaient devant lui marchaient autour de lui en décrivant un grand arc de cercle, et quelques briqueteurs-maçons ont saisi des pierres dans leurs mains.
+$SURVIVAL_QUIZ_QUESTION_04_A1
+Je me suis approché de lui et je l'ai frappé au visage jusqu'à ce qu'il s'assoie sur le trottoir.
+$SURVIVAL_QUIZ_QUESTION_04_A2
+Quand j’ai croisé une patrouille de garde, j'ai signalé un individu suspect.
+$SURVIVAL_QUIZ_QUESTION_04_A3
+J'ai pris l’homme par le bras. J'ai dit : « Viens, on va boire du vin », puis je l'ai emmené de la rue, probablement en le sauvant d’un lynchage.
+$SURVIVAL_QUIZ_QUESTION_05
+Quatre gardes se tenaient près de l'étable d'un homme âgé, non loin d'un bâtiment récemment rénové. Les légumes reposaient sur la table, y compris quelques bottes de carottes séchées au soleil et de la laitue. « Vous me chassez parce que M. Moisan vous a payé » - criait le marchand directement vers les gardes aux visages grimaçants. « Un noble préfèrerait probablement que je vende de l'argenterie ou des sculptures anciennes, n'est-ce pas ? Et quoi, un marchand de légumes baisse-t-il la valeur de sa propriété ?! » - continuait le marchand irrité.
+$SURVIVAL_QUIZ_QUESTION_05_A1
+Je me suis présenté et j'ai donné l'ordre aux gardes de laisser le commerçant tranquille.
+$SURVIVAL_QUIZ_QUESTION_05_A2
+Ce n'était pas mon affaire, je suis sûr que les gardes avaient leurs... « raisons ».
+$SURVIVAL_QUIZ_QUESTION_05_A3
+Si les gardes ont reçu l'ordre, ils doivent l'exécuter sans hésitation. J'ai assisté à l'arrestation.

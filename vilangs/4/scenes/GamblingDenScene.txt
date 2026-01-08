@@ -1,0 +1,200 @@
+$GDTIE
+Patt!
+$GDWIN
+Du hast gewonnen!
+$GDLOSE
+Du hast verloren!
+$GDEFFECTS
+Effekte:
+$GDFAVOUR_ALREADY
+Tinville stand bereits in deiner Schuld.
+$GDFAVOUR_LOSE
+Es ist Ihnen nicht gelungen, Tinville für sich zu gewinnen.
+$GDFAVOUR_WON
+Gefallen freigeschaltet!
+$GDRESULT
+Ergebnis:
+$GDBET
+Gebot:
+$GDSCORING
+Punktevergabe-Regeln
+$GDSCOREBOARD_INFO
+Du erhältst Punkte, wenn du auf zwei oder mehr Würfeln die gleiche Zahl würfelst. Je höher die Augenzahl, desto größer ist der Punktmultiplikator. Zum Beispiel: Zwei Sechsen bringen 120 Punkte, zwei Einsen bringen 20 Punkte.
+$GDSCOREBOARD_SPECIALSCORE
+Spezialwertung:
+$GDSELECTION_TITLE
+Titel
+$GDSELECTION_DESCRIPTION
+Beschreibung
+$GDACCEPT_OPPONENT_TOOLTIP
+Spielen
+$GDROLL_TOOLTIP
+Würfle
+$GDREROLL_TOOLTIP
+Noch einmal würfeln
+$GDREROLL_ACCEPT_TOOLTIP
+Annehmen
+$GDREROLL_BACK_TOOLTIP
+Zurück
+$REROLL_CHOOSE_DICES
+Wählen Sie Würfel zum erneuten Würfeln aus
+$GDPASS_TOOLTIP
+Zug des Gegners
+$GDPLAYAGAIN_TOOLTIP
+Nochmal spielen
+$GDEXIT_TOOLTIP
+Beenden
+$GDROLL_PLAYERTURN
+Wurf
+$GDROLL_OPPONENTTURN
+Zug des Gegners
+$GDREROLL
+Wurf wiederholen
+$GDBUYROUND
+Eine Runde ausgeben ({0} IP)
+$GDBUYROUND_LOCKED
+Du kannst dir keine Runde leisten ({0} IP)
+$GDBUYROUND_USED
+Du hast schon eine Runde ausgegeben
+$GD_ONESHOT_INFO
+OneShot-Info
+$GD_ONESHOT_COMMENT
+OneShot-Kommentar
+$GDJUDGE_SHORTNAME
+Richter
+$GDOPPONENT_003_SHORTNAME
+Tinville
+$GDOPPONENT_004_SHORTNAME
+Pache
+$GDOPPONENT_005_SHORTNAME
+Renard
+$GDOPPONENT_010_SHORTNAME
+Bruno
+$GDJUDGE_SHORTNAME_NAME
+Alexis
+#CUT_023_RESULT
+Einsatz: Informationen über den Verräter
+#CUT_030_RESULT
+Einsatz: die Hand des Sohnes
+#CUT_035_RESULT
+Einsatz: Leben
+$GD003_COMMENT_WELCOMEFIRST_01
+Man sagte mir, ich würde Sie hier antreffen. Es ist beruhigend zu wissen, dass selbst die Richter des Tribunals die Schwächen des einfachen Volkes teilen.
+$GD003_COMMENT_WELCOMEJUDGEWON_01
+Verdiene ich nicht eine Revanche?
+$GD003_COMMENT_WELCOMEJUDGEWON_02
+Diesmal wird es nicht so einfach.
+$GD003_COMMENT_WELCOMEJUDGEWON_03
+Für einen Familienmenschen sind Sie hier ein zu häufiger Gast.
+$GD003_COMMENT_WELCOMEJUDGELOST_01
+Ich respektiere Ihren Durchhaltewillen…
+$GD003_COMMENT_WELCOMEJUDGELOST_02
+Tags am Tag, Halunken bei Nacht. Das sind wir.
+$GD003_COMMENT_WELCOMEJUDGELOST_03
+Mein Vater sagte einst, Menschen wie wir dürften keine Makel haben. Nun, ich wage zu widersprechen.
+$GD003_COMMENT_ROLLJUDGEWON_01
+Ein Schwalbe…
+$GD003_COMMENT_ROLLJUDGEWON_02
+Diesmal …
+$GD003_COMMENT_ROLLJUDGEWON_03
+Bedeutet nichts.
+$GD003_COMMENT_ROLLJUDGELOST_01
+Nichts währt ewig. Nur das Chaos.
+$GD003_COMMENT_ROLLJUDGELOST_02
+Alles ist, wie es sein soll.
+$GD003_COMMENT_ROLLJUDGELOST_03
+Nur noch ein wenig.
+$GD003_COMMENT_GAMEJUDGEWON_01
+Die Themis war mir heute nicht hold.
+$GD003_COMMENT_GAMEJUDGEWON_02
+Am Ende verlieren wir alle.
+$GD003_COMMENT_GAMEJUDGEWON_03
+Morgen werde ich mich vor Gericht rächen…
+$GD003_COMMENT_GAMEJUDGELOST_01
+Vielleicht beim nächsten Mal… Falls Sie den Mut haben, noch einmal hierherzukommen.
+$GD003_COMMENT_GAMEJUDGELOST_02
+Es hat nur Ihr Stolz gelitten. Eine bloße Kleinigkeit.
+$GD003_COMMENT_GAMEJUDGELOST_03
+Vielleicht sollten wir das nächste Mal um unsere Seelen spielen? Glaubst du, wir haben sie überhaupt noch?
+$GD003_COMMENT_DRINK_01
+Fühlst du dich einsam wegen deiner Süchte?
+$GD003_COMMENT_DRINK_02
+Ich sehe, Sie wissen, wie man die Menge für sich gewinnt.
+$GD003_COMMENT_DRINK_03
+Achten Sie nur darauf, keine Schulden zu machen. Die Leute trinken gern auf fremde Kosten.
+$GD003_COMMENT_DRINKBET_01
+Zum Teufel damit, nächsten Monat gibt’s ja wieder Gehalt!
+$GD003_COMMENT_DRINKBET_02
+Der Richter kann doch sicher mitspielen, oder?
+$GD003_COMMENT_DRINKBET_03
+Höher! Stapelt meine Münzen noch höher!
+$GD003_COMMENT_REROLL_01
+Fürchten Sie zu verlieren?
+$GD003_COMMENT_REROLL_02
+Wie weit würdest du für den Sieg gehen?
+$GD003_COMMENT_REROLL_03
+Wenn Sie glauben, dass das irgendetwas ändern wird…
+$GD003_COMMENT_CANTREROLL_01
+Schade, ich kann nicht noch einmal würfeln.
+$GD004_MER_VER_HAN_DIAL_MER_01
+Auch wenn ich die luxuriöse Atmosphäre solcher Orte zu schätzen weiß, bin ich doch dem asketischen Leben des Militärs sehr zugetan.
+$GD004_MER_VER_HAN_DIAL_JUDGE_02
+Die Vorliebe des Vorbesitzers für Luxus wurde ihm schließlich zum Verhängnis.
+$GD004_MER_VER_HAN_DIAL_MER_03
+Ich verstehe. Wollen wir spielen?
+$GD004_MER_VER_DAVID_DIAL_MER_01
+Mit Stil entworfen. Meine Glückwünsche.
+$GD004_MER_VER_DAVID_DIAL_JUDGE_02
+Danke. Die Dekoration habe ich Jacques-Louis David anvertraut. Er ist ein Künstler.
+$GD004_MER_VER_DAVID_DIAL_MER_03
+Ja, ich habe gehört, dass ihr Freunde und politische Verbündete seid. Wollen wir spielen?
+$GD004_MER_COMMENT_GAMEJUDGEWON_01
+Ich nahm an, Sie würden mich gewinnen lassen, um mein Vertrauen zu gewinnen. Es freut mich, mich hin und wieder zu irren.
+$GD004_MER_COMMENT_GAMEJUDGELOST_01
+Ich sehe, dass Sie alles tun würden, um mein Vertrauen zu gewinnen – sogar absichtlich verlieren.
+$GD004_MER_COMMENT_ROLLJUDGEWON_01
+Diese Würfel sind gezinkt!
+$GD004_MER_COMMENT_ROLLJUDGEWON_02
+Verdammt, diese Mädchen haben mich verflucht!
+$GD004_MER_COMMENT_ROLLJUDGELOST_01
+Ein wenig Glück könnte nicht schaden.
+$GD004_MER_COMMENT_ROLLJUDGELOST_02
+Los, Würfel. Noch einmal, bitte.
+$GD004_MER_COMMENT_REROLL_01
+Glauben Sie, das Blatt wird sich wenden?
+$GD004_MER_COMMENT_DRINK_01
+Ein Drink käme mir jetzt gelegen.
+$GD004_MER_COMMENT_DRINK_02
+Der Richter wird doch sicher mitspielen, oder?
+$GD005_RENARD_COMMENT_ROUND_01
+Unser maskierter Freund war außer sich vor Wut. Er kam mit einem lukrativen Angebot zu uns, im Austausch für unsere Unterstützung. Wir willigten ein.
+$GD005_RENARD_COMMENT_ROUND_02
+Ein gefährlicher, verletzter Mann. Ihn zurückzuweisen wäre unklug.
+$GD005_RENARD_COMMENT_ROUND_03
+Er bat jemanden, den wir kennen – jemanden, mit dem wir schon zusammengearbeitet haben – ihm dabei zu helfen, Ihr Kind zu töten. Was für ein Narr.
+$GD005_RENARD_COMMENT_ROUND_04
+Wir werden euch seinen Kopf auf einem Silbertablett bringen. Das soll ein Zeichen unseres guten Willens sein und ein Beweis dafür, dass es klug ist, unser Freund zu sein.
+$GD005_RENARD_COMMENT_ROUND_05
+Die Aristokraten werden schon bald mit erhobenem Haupt in die Stadt zurückkehren, und mit jedem, der sich nicht auf unsere Seite stellt, wird abgerechnet.
+$GD005_RENARD_COMMENT_GAMEJUDGEWON_01
+Ihr habt gewonnen. Wir halten unser Versprechen – Ihr bekommt den Kopf des Verräters, und Paris… nun, Paris wird weniger Glück haben.
+$GD005_RENARD_COMMENT_GAMEJUDGELOST_01
+Früher oder später begreift jeder Spieler, dass er keinerlei Kontrolle hat. Er ist dazu verdammt, tatenlos zuzusehen, wie die Zeit ihn in den Untergang treibt. Ein Handel ist ein Handel – Sie haben verloren, also werden wir Ihnen nichts verraten. Und Paris… Paris wird bekommen, was es verdient.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_01
+Bringen Sie ihn zum Schweigen. Es ist noch nicht vorbei.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_02
+Wir sind hier fertig.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_01
+Auch ich habe einmal die erste Runde gewonnen.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_02
+Das war reines Glück.
+$GD011_BRUNO_COMMENT_ROUND_01
+Du hast jeden getötet, der mutig genug gewesen wäre, sich mir entgegenzustellen. Danke.
+$GD011_BRUNO_COMMENT_ROUND_03
+Das Blut klebt an deinen Händen, nicht an meinen. Ich habe wieder gewonnen.
+$GD011_BRUNO_COMMENT_ROUND_06
+Du glaubst, du weißt, was Leiden bedeutet? Warte, bis ich es dir zeige.
+$GD011_BRUNO_COMMENT_ROUND_08
+Du wirst scheitern und das Herz unseres Vaters brechen. Erst dann ist meine Rache vollendet!
+$GD011_Dices_Last_Dialog
+Wir haben die erste Rechnung beglichen, aber das ist längst nicht alles, was ich für dich vorbereitet habe. Ganz und gar nicht.

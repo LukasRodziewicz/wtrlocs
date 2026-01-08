@@ -1,0 +1,256 @@
+$GEN_056_DOC_01_HEADER
+Compilado por: Charles Etienne
+$GEN_056_DOC_01_00
+	Según informan los habitantes del Barrio Latino, un cierto <a name="1" class="hidden">monstruo</a> y <a name="2" class="hidden">ermitaño</a> ha envenenado un pozo local que utilizan varios edificios cercanos. Según consta en la denuncia, varios Ciudadanos han enfermado a causa de este crimen.
+$GEN_056_DOC_01_01
+	El acusado es Gabriel Rouzet, y el soldado enviado a detenerlo confirmó la opinión de los vecinos sobre su excentricidad. El hombre vive con <a name="3" class="hidden">dos sirvientes</a> en el cuarto piso de un edificio en la rue Serpente. En el momento del arresto, su apartamento estaba en <a name="4" class="hidden">oscuridad total</a> y tanto su aspecto como su comportamiento fueron descritos como repulsivos. Podrá comprobarlo usted mismo en la sala del tribunal.
+$GEN_056_DOC_01_02
+	En este expediente se incluye el contenido de la denuncia, donde conocerá más sobre el crimen de Rouzet.
+$GEN_056_DOC_02_00
+Denuncia anónima
+$GEN_056_DOC_02_01
+	Autoridades de París, en los últimos días el agua de <a name="5" class="hidden">nuestro pozo</a> ha empezado a apestar. El hedor es tal que algunos vecinos han comenzado a pagar a los aguadores para traer agua de la fuente pública junto a la universidad. Quienes bebieron del pozo <a name="7" class="hidden">cayeron enfermos</a>, unos peor que otros. Un amigo mío, Lambert Cazale, pasó la noche vomitando en un cubo. Por supuesto, hubo que limpiar todo después.
+$GEN_056_DOC_02_02
+	No cabe duda de quién está detrás del envenenamiento del pozo. Justo enfrente vive Rouzet, un cerdo repugnante y un monstruo. Solo sale de casa al anochecer, y aunque se cubre la cara, todos sabemos qué clase de bestia es. Sin duda odia a la gente, y seguro arrojó un <a name="8" class="hidden">cadáver</a> ahí para que no tengamos agua y caigamos como moscas. ¡Y el monstruo ahora saca agua de la fuente pública!
+$GEN_056_OnStart_00
+No puedo asegurarlo, pero supongo que cualquier cosa podría haber caído al pozo, incluso un gato descuidado.
+$GEN_056_OnStart_01
+¿Se llama usted Rouzet?
+$GEN_056_OnStart_02
+Sí, Gabriel Rouzet.
+$GEN_056_OnStart_03
+Se le acusa de envenenar el pozo. ¿Desea decir algo en su defensa?
+$GEN_056_OnStart_04
+Desde niño he tenido problemas en la piel al exponerme a la luz.
+$GEN_056_OnStart_05
+¿Esta enfermedad tiene algo que ver con su... apariencia?
+$GEN_056_OnStart_06
+Probablemente. No nací siendo así.
+$GEN_056_OnStart_07
+¿Envenenó el pozo o no?
+$GEN_056_OnStart_08
+Por supuesto que no lo hice. Qué acusación tan absurda.
+$GEN_056_OnGuilty_00
+Condeno al ciudadano Rouzet a la guillotina. No volverá a aterrorizar a ningún ciudadano.
+$GEN_056_OnGuilty_01
+¡Por fin se ha hecho justicia!
+$GEN_056_OnGuilty_02
+¡Por fin nos libramos de él!
+$GEN_056_OnPrison_00
+Ciudadano Rouzet, le condeno a 10 años de prisión.
+$GEN_056_OnPrison_01
+Bien, allí sabrán qué hacer con él.
+$GEN_056_OnNotGuilty_00
+El ciudadano Rouzet no es culpable de envenenar el pozo, libérenlo.
+$GEN_056_OnNotGuilty_01
+¡El pozo no se ha envenenado solo!
+$GEN_056_OnNotGuilty_02
+El juez está protegiendo a un engendro del infierno.
+$GEN_056_01x04_00_QTitle
+Los vecinos te llaman un bicho raro y un monstruo.
+$GEN_056_01x04_00_00
+Los vecinos te llaman un bicho raro y un monstruo.
+$GEN_056_01x04_00_01
+¿Le sorprende?
+$GEN_056_01x04_00_02
+¿Alguna vez le has hecho daño a alguien?
+$GEN_056_01x04_00_03
+Ya sufro bastante, no hay razón para hacerle daño a los demás.
+$GEN_056_01x04_00_04
+A la gente le inquietan sus ventanas siempre cubiertas.
+$GEN_056_01x04_00_05
+La luz del sol me causa dolor. No pienso lastimarme solo para parecer normal.
+$GEN_056_06x03_01_QTitle
+¿Puede permitirse pagar aguadores y sirvientes?
+$GEN_056_06x03_01_00
+¿Puede permitirse contratar aguadores y sirvientes?
+$GEN_056_06x03_01_01
+Por suerte, sí puedo.
+$GEN_056_06x03_01_02
+¡Su Señoría Monstruo viste de estameña!
+$GEN_056_06x03_01_03
+Silencio en la sala. ¿Cuál es su profesión?
+$GEN_056_06x03_01_04
+¿En mi estado? Monsieur le juge, a veces no me puedo alejar del orinal durante tres días seguidos, y luego paso los dos siguientes en la cama.
+$GEN_056_06x03_01_05
+¿Entonces no trabaja?
+$GEN_056_06x03_01_06
+No.
+$GEN_056_06x03_01_07
+Entonces, ¿cómo se mantiene usted?
+$GEN_056_06x03_01_08
+Heredé algo de dinero de mi padre. Él era fabricante y vendí la fábrica tras su muerte.
+$GEN_056_06x03_01_09
+¡El padre, un explotador, y el hijo, un monstruo!
+$GEN_056_06x03_01_10
+¿Qué haces todo el día?
+$GEN_056_06x03_01_11
+Principalmente leo literatura.
+$GEN_056_02x07_02_QTitle
+En los archivos consta que rehúye la compañía.
+$GEN_056_02x07_02_00
+Los expedientes indican que rehúye la compañía.
+$GEN_056_02x07_02_01
+Me parece que eso es evidente.
+$GEN_056_02x07_02_02
+Le ruego que responda y evite comentarios. ¿No le gustan las personas?
+$GEN_056_02x07_02_03
+Yo no envenené el pozo.
+$GEN_056_02x07_02_04
+Sus vecinos afirman lo contrario.
+$GEN_056_02x07_02_05
+Si alguien dice que me vio, miente como un perro callejero.
+$GEN_056_02x07_02_06
+Por despreciar así a la gente, deberían cortarle esa fea cabeza.
+$GEN_056_02x07_02_07
+¿Desprecio? ¡Soy yo quien debería vengarse por el desprecio! Por las mujeres que tapan los ojos de sus hijos cuando paso, por mi infancia solitaria, por...
+$GEN_056_02x07_02_08
+Ahora no estamos hablando de su vida, sino del asunto del pozo envenenado.
+$GEN_056_02x07_02_09
+Por supuesto. Nadie habla nunca de mí. Es como si pudieran contagiarse solo con pronunciar mi nombre. Me dan asco todos ustedes.
+$GEN_056_02x07_02_10
+¡Así como estamos contigo, monstruo!
+$GEN_056_01x07_03_QTitle
+Llamen a Lambert Cazale.
+$GEN_056_01x07_03_00
+Hagan pasar a Lambert Cazale.
+$GEN_056_01x07_03_02
+¿Su nombre?
+$GEN_056_01x07_03_03
+Lambert Cazale, señor juez.
+$GEN_056_01x07_03_04
+Ha acusado al ciudadano Rouzet de envenenar el pozo.
+$GEN_056_01x07_03_05
+¡Sí, lo he hecho, y no me avergüenzo de ello!
+$GEN_056_01x07_03_06
+¡Lo hizo bien!
+$GEN_056_01x07_03_07
+¿Hace mucho que son vecinos?
+$GEN_056_01x07_03_08
+Desde que tengo memoria.
+$GEN_056_01x07_03_09
+¿Y hasta ahora no le ha molestado?
+$GEN_056_01x07_03_10
+Claro que sí, pero durante el Antiguo Régimen nadie prestaba atención a nuestras denuncias.
+$GEN_056_08x05_04_QTitle
+¿Admite haber envenenado el pozo arrojando un cadáver?
+$GEN_056_08x05_04_00
+¿Admite haber envenenado el pozo arrojando un cadáver?
+$GEN_056_08x05_04_01
+No, eso es absurdo.
+$GEN_056_08x05_04_02
+¿Tiene pruebas que respalden su inocencia?
+$GEN_056_08x05_04_03
+¿Alguien se ha molestado en sacar ese supuesto cadáver del agua?
+$GEN_056_08x05_04_04
+Allá abajo, en el pozo, está tan oscuro que no se ve absolutamente nada.
+$GEN_056_08x05_04_05
+Aquí las preguntas las hago yo.
+$GEN_056_08x05_04_06
+No, no tengo pruebas de mi inocencia.
+$GEN_056_03x05_05_QTitle
+¿Sus sirvientes le traen agua del pozo?
+$GEN_056_03x05_05_00
+¿Tus sirvientes te traen agua del pozo?
+$GEN_056_03x05_05_01
+Por lo general, sí.
+$GEN_056_03x05_05_02
+¿Por qué solo normalmente?
+$GEN_056_03x05_05_03
+El pozo solía apestar después de la lluvia, así que les daba dinero para que trajeran agua de la fuente.
+$GEN_056_03x05_05_04
+¿Ellos también la bebieron?
+$GEN_056_03x05_05_05
+Por supuesto. Son buenas mujeres, siempre comen y beben lo mismo que yo.
+$GEN_056_03x05_05_06
+Las fulanas del monstruo. Me pregunto qué más habrán hecho juntas.
+$GEN_056_02x04_06_QTitle
+¿Evita a sus vecinos?
+$GEN_056_02x04_06_00
+¿Evita a sus vecinos?
+$GEN_056_02x04_06_01
+Sí, como ellos a mí.
+$GEN_056_02x04_06_02
+¿Alguna vez alguien ha intentado desalojarle de su hogar?
+$GEN_056_02x04_06_03
+Por supuesto. He perdido la cuenta de cuántas veces.
+$GEN_056_02x04_06_04
+¿Puede explicarse mejor? ¿Qué hicieron exactamente?
+$GEN_056_02x04_06_05
+Podría seguir durante un buen rato. Lanzaron piedras a mis ventanas, amenazaron a mis sirvientes, hubo un sádico que mató a mi perro a golpes con un palo cuando tenía quince años. ¿Debería continuar? Una vez, cuando decidí salir a pasear por la noche, tuve que huir de–
+$GEN_056_02x04_06_06
+Entiendo, puedes detenerte ahí.
+$GEN_056_02x04_06_07
+¡Se lo está inventando!
+$GEN_056_02x04_06_08
+Ojalá lo fuera.
+$GEN_056_WIT_00_A_QTitle
+¿Vio usted a Rouzet envenenar el pozo?
+$GEN_056_WIT_00_A_00
+¿Vio usted a Rouzet envenenar el pozo?
+$GEN_056_WIT_00_A_01
+No, pero no pudo haber sido nadie más.
+$GEN_056_WIT_00_A_02
+¿Y eso por qué?
+$GEN_056_WIT_00_A_03
+Todos aquí son normales, pero este… mírenlo bien. ¡Ni siquiera parece humano!
+$GEN_056_WIT_00_A_04
+¿No es humano?
+$GEN_056_WIT_00_A_05
+¡Es un revenant, ha salido de la tumba para aterrorizar a la gente!
+$GEN_056_WIT_00_B_QTitle
+¿Te ha enfermado el agua rancia?
+$GEN_056_WIT_00_B_00
+¿Te ha enfermado el agua rancia?
+$GEN_056_WIT_00_B_01
+Así es.
+$GEN_056_WIT_00_B_02
+¿Pudo percibir el olor?
+$GEN_056_WIT_00_B_03
+A varias calles de distancia.
+$GEN_056_WIT_00_B_04
+Entonces, ¿por qué la bebió?
+$GEN_056_WIT_00_B_05
+Esa agua siempre apesta, así que no noté que ahora también huele a veneno.
+$GEN_056_KEY_01
+Monstruo
+$GEN_056_KEY_02
+Reclusión
+$GEN_056_KEY_03
+Dos sirvientes
+$GEN_056_KEY_04
+Apartamento oscuro
+$GEN_056_KEY_05
+Pozo
+$GEN_056_KEY_06
+Aguadores
+$GEN_056_KEY_07
+Envenenamiento
+$GEN_056_KEY_08
+Cadáver en el pozo
+$GEN_056_LastDialog_00
+Mi vida no ha sido más que tormento, y mi muerte no será menos pesada.
+$GEN_056_UNIQUE_QUESTION_00
+¿De qué medios vive el acusado?
+$GEN_056_UNIQUE_ANSWER_CORRECT_00_00
+Vendió la fábrica de su padre.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Su familia lejana se encarga de mantenerlo.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Es un artesano.
+$GEN_056_UNIQUE_QUESTION_01
+¿Por qué la gente bebía agua podrida del pozo?
+$GEN_056_UNIQUE_ANSWER_CORRECT_01_00
+Siempre olía así.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_01_00
+El agua limpia era más cara.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_01_01
+La fuente estaba demasiado lejos.
+$GEN_056_UNIQUE_QUESTION_02
+Según la denuncia, ¿por qué Rouzet envenenó el agua?
+$GEN_056_UNIQUE_ANSWER_CORRECT_02_00
+Odia a la gente.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Fue un acto de venganza.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Es el mismo demonio.

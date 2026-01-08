@@ -1,0 +1,18 @@
+$DIAL_CO_01_02_11_001_ROLAND
+Nazywam się Jean-Marie Roland. Moje nazwisko nie powinno być ci obce – w końcu spotwarzyłeś je podczas rozprawy króla Ludwika.  
+$DIAL_CO_01_02_11_002_JUDGE
+Obywatela Capeta, nie króla…
+$DIAL_CO_01_02_11_003_ROLAND
+Króla Ludwika Augusta Burbona, księcia de Berry. W efekcie ujawnionych półprawd i domysłów wszyscy pragną mojej głowy. Zarzucają mi korupcję i zdradę! Ty natomiast pniesz się po naszych plecach w hierarchii społecznej.
+$DIAL_CO_01_02_11_004_JUDGE
+Korumpowanie polityków czasem nie popłaca. Ponoć Danton to robi, Molleville próbował, ale wpadłeś ty. Pech.
+$DIAL_CO_01_02_11_005_ROLAND
+Zapewne odwołają mnie ze stanowiska, może nawet zaprowadzą na gilotynę. Ale ja postaram się, żeby ciebie ścięli zaraz po mnie! Będziesz mi towarzyszem w nieszczęściu!
+$DIAL_CO_01_02_11_006_JUDGE
+Grożenie sędziemu Trybunału to jeszcze gorszy pomysł niż popieranie znienawidzonego króla i korumpowanie deputowanych Konwentu.
+$DIAL_CO_01_02_11_007_ROLAND
+Utrącę twojego kandydata na komendanta Gwardii. Później zabierzemy się za ciebie.
+$DIAL_CO_01_02_11_008_ROLAND
+Zbyt długo wraz z żoną walczyliśmy o naszą pozycję! Nie umrę przez jakiegoś zapijaczonego robaka, zwącego się buńczucznie sędzią!
+$DIAL_CO_01_02_11_009_ROLAND
+Zobaczysz, jak wyglądają igrzyska w paryskim stylu, ty psia, zdradziecka mordo!

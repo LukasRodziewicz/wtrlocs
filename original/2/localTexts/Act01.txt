@@ -1,0 +1,67 @@
+#A01C1_D07_LETTER_MAIN
+Le citoyen Capet a été arrêté !
+#A01C2_D09_LETTER_MAIN
+Cher citoyen Fidèle, Je t'écris pour te féliciter d'être entré dans l'histoire de notre pays, le jugement du roi est sur toutes les lèvres. Je voudrais m'entretenir aussi du sujet crucial qu'est la nomination du commandant en chef de la Garde nationale, en remplacement du citoyen Burel. Je pense en toute sincérité être le meilleur candidat. Si tu le veux bien, j'aimerais te rendre visite ce soir.
+#A01C2_D09_LETTER_SENDER
+Longue vie à la République, François Hanriot
+#A01C2_D13_LETTER_MAIN
+Paris devrait s'estimer heureuse d'avoir un défenseur de la justice aussi féroce que toi. Quant à nous, députés de la Convention nationale, devrions-nous redouter quelque chose ?
+#A01C2_D13_LETTER_SENDER
+Longue vie à la République, Robespierre
+#A01C2_D16_LETTER_MAIN
+Cher ami, On m'a rapporté que tu te remets d'une infâme tentative d'assassinat. Ton conflit avec le ministre Roland a conduit les Girondins à se mobiliser pour s'emparer de la Convention, et sans doute restaurer la tyrannie. Mon groupe voudrait, afin de défendre la République, prendre l'initiative et arrêter les instigateurs du coup d'État. Nous n'avons pas encore fixé la liste exacte des suspects, car nous ne savons avec certitude quels Roland nous devons accuser de ton attentat.
+#A01C2_D16_LETTER_SENDER
+Longue vie à la République, Maximilien Robespierre
+#A01C2_D17_LETTER_MAIN
+Ce sont les sbires de Roland qui ont été chargés de t'assassiner. Pache les a payés. J'ignore encore qui a organisé tout cela.
+#A01C2_D17_LETTER_SENDER
+Ramel
+#A01C3_D19_LETTER_MAIN
+À l'attention d'Alexis Fidèle, 
+
+J'ai été informé de ton souhait de t'entretenir de toute urgence sur les suspects de ta tentative d'assassinat. Je serai ravi d'en discuter avec toi.
+
+#A01C3_D19_LETTER_SENDER
+Longue vie à la République, Jean-Nicolas Pache
+#A01C3_D20_NOTE_MAIN
+Marie saisit chaque occasion de rencontrer Béatrice Caron. Elle n'est pas liée aux agissements des Muscadins… mais nous pouvons certainement en donner l'impression. Il est crucial que cette affaire paraisse une opération montée par la Garde. Tu ne dois pas t'impliquer directement.
+#A01C2_D13_MAP_LOCKED
+Vous souffrez d'une blessure. Vous ne pouvez qu'observer passivement les actions de vos ennemis.
+$LETTER_CO_01_03_16_MAIN
+Chers juges du Tribunal révolutionnaire, Chaque jour voit grossir les rangs des ennemis de la République. En sus de nos efforts pour affaiblir les traîtres, le Tribunal doit être plus rapide et plus ferme si nous voulons réussir. Les sentences d'emprisonnement n'ont plus lieu d'être ! Assez de procès qui s'éternisent ! Chaque fois qu'une affaire simple et évidente se présentera, les inspecteurs abrègeront le dossier et, conformément à la Loi du 22 prairial, vous pourrez condamner l'accusé aussitôt qu'il sera identifié. Aucun procès ne sera nécessaire.
+$LETTER_CO_01_03_16_SENDER
+Robespierre
+$LETTER_CO_01_03_23_001_TITLE
+Cher citoyen,
+$LETTER_CO_01_03_23_001_MAIN
+Je tiens à t'exprimer, à la fois à titre personnel et en tant que représentant de la Convention nationale, mon profond chagrin et mes condoléances pour la mort de ton fils.
+$LETTER_CO_01_03_23_001_SENDER
+Maximilien Robespierre
+$LETTER_CO_01_03_23_002_TITLE
+Cher citoyen,
+$LETTER_CO_01_03_23_002_MAIN
+Je ne puis te décrire combien je suis attristé par le crime hideux dont ta famille a été victime. La France se tient à tes côtés !
+$LETTER_CO_01_03_23_002_SENDER
+Georges Danton
+$LETTER_CO_01_03_23_003_TITLE
+Cher ami,
+$LETTER_CO_01_03_23_003_MAIN
+Qui donc a pu commettre un acte aussi horrible ? Je viendrai bientôt te voir, mon ami.
+$LETTER_CO_01_03_23_003_SENDER
+Jacques-Louis David
+$LETTER_CO_01_03_23_004_TITLE
+Cher citoyen,
+$LETTER_CO_01_03_23_004_MAIN
+En des temps pareils, nous ne pouvons nous en remettre qu'à la volonté de Dieu. Nous prions pour ta famille.
+$LETTER_CO_01_03_23_004_SENDER
+Jean-Baptiste Gobel
+$LETTER_CO_01_03_23_005_TITLE
+Cher Fidèle,
+$LETTER_CO_01_03_23_005_MAIN
+Sache que, si tu souhaites remuer tout Paris pour retrouver ces serpents, la Garde se tient à ton service. Seul un dément s'attaquerait à l'enfant d'autrui !
+$LETTER_CO_01_03_23_005_SENDER
+François Hanriot
+$LETTER_CO_01_03_23_006_MAIN
+Les premières condoléances sont-elles déjà arrivées ? Le responsable de l'attentat contre ta famille se trouve certainement parmi leurs auteurs.
+$LETTER_CO_01_03_23_006_SENDER
+Ramel

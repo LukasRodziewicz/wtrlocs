@@ -1,0 +1,32 @@
+$DIAL_H_01_02_10_001_HANRIOT
+Su esposa me dijo que, si busco el apoyo de personas justas, debería encontrarlas en su casa.
+$DIAL_H_01_02_10_002_WIFE
+Así es, ciudadano Hanriot. Mi esposo estará más que encantado de respaldar su candidatura para el puesto de comandante en jefe.
+$DIAL_H_01_02_10_003_JUDGE
+¿Por qué siento que esto ya está decidido?
+$DIAL_H_01_02_10_004_HANRIOT
+Por favor, no se enoje con su esposa. Estoy seguro de que actuó con buenas intenciones al hacer esas promesas.
+$DIAL_H_01_02_10_005_WIFE
+¿Cómo podría alguien negarse a apoyar a un oficial tan respetable? Estoy segura de que mi esposo reconocerá sus méritos, igual que yo.
+$DIAL_H_01_02_10_006_JUDGE
+Sin duda. Pero ¿cómo puedo estar seguro cuando hay tantos candidatos?
+$DIAL_H_01_02_10_007_HANRIOT
+Por supuesto, respeto a los demás candidatos, son personas dignas. Pero yo puedo ofrecerte algo realmente valioso: mi lealtad. Si trabajamos juntos, ambos saldremos beneficiados… y quizás también París.
+$DIAL_H_01_02_10_008_JUDGE
+En nuestra familia valoramos mucho la sinceridad y la lealtad, ¿verdad, querida? Además, respetamos los límites de cada uno.
+$DIAL_H_01_02_10_009_WIFE
+En cada momento.
+$DIAL_H_01_02_10_010_HANRIOT
+Por supuesto. Hay que poner fin a esos repugnantes rumores sobre sus vicios. Sepa que nunca olvido a quien me ha hecho un favor.
+$DIAL_H_01_02_10_011_JUDGE
+Palabras, palabras, palabras, ciudadano Hanriot.
+$DIAL_H_01_02_10_012_HANRIOT
+Estoy seguro de que ningún otro candidato ha solicitado su apoyo. Ellos no creen que usted sea digno de su amistad. Pero yo, François Hanriot, soy diferente, y mis palabras también lo son.
+$DIAL_H_01_02_10_013_WIFE
+Estoy segura de que mi esposo ya se ha dado cuenta de eso.
+$DIAL_H_01_02_10_014_HANRIOT
+Gracias. Por mucho que griten las masas, París solo es fuerte cuando sus élites permanecen unidas.
+$DIAL_H_01_02_10_015_JUDGE
+No voy a retractarme de las promesas de mi esposa, pero en el futuro, asegúrese de acudir a mí primero.
+$DIAL_H_01_02_10_016_HANRIOT
+Por supuesto…

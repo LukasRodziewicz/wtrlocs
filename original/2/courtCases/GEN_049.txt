@@ -1,0 +1,212 @@
+$GEN_049_DOC_01_HEADER
+Compilé par : Charles Étienne
+$GEN_049_DOC_01_00
+	Après les pluies diluviennes qui ont noyé Paris il y a deux semaines, on trouva <a name="1" class="hidden">un garçon noyé</a> dans l'un des égouts se déversant dans la Seine. Il était âgé de 14 ans peu ou prou. De ses habits de bonne tenue nous avons déduit qu'il n'était pas un enfant des rues. Nous nous sommes donc mis à la recherche de sa famille, en vain.
+$GEN_049_DOC_01_01
+	Quelques jours plus tard, une dénonciation anonyme fut déposée à l'un des postes de la Garde nationale. Son auteur prétendait qu'un lien existait entre le cadavre non identifié et un manoir dans les faubourgs nord de Paris. Une patrouille envoyée en inspection fut forcée de reculer face à des <a name="4" class="hidden">coups de feu provenant de la porte d'entrée</a>.
+$GEN_049_DOC_01_02
+	Retournant avec des renforts, les soldats surprirent une scène atroce. Quatre hommes à l'air suspect portaient à l'épaule des garçons étourdis, tels des sacs de pommes de terre. On trouva dans la bâtisse dix garçons, tous venant des campagnes et ne dépassant pas quinze ans. La cave était meublée de nombreuses étagères remplies de bocaux de laudanum provenant de l'apothicaire. Les lieux comprenaient aussi <a name="6" class="hidden">un enclos contenant moutons, chèvres, vaches, chevaux et chiens</a>.
+$GEN_049_DOC_01_03
+D	eux des quatre hommes furent capturés vivants. Ils avouèrent que cet endroit suffocant était une sorte de maison de débauche appartenant à un certain Raoul Battier. La Garde monta ensuite une embuscade et arrêta le maître des lieux avec <a name="7" class="hidden">deux clients</a>.
+$GEN_049_OnStart_00
+Je te prie de te présenter, citoyen.
+$GEN_049_OnStart_01
+Raoul Battier, à ton service.
+$GEN_049_OnStart_02
+Sans façon. J'ai cru comprendre que tu exerçais une activité de souteneur. Est-ce bien le cas ?
+$GEN_049_OnStart_03
+Je n'emploierais pas un tel mot. Nous ne faisions que divertir les riches… et servir des clients particulièrement exigeants. Tu serais surpris du nombre d'entre eux que tu connais en personne.
+$GEN_049_OnStart_04
+Plaides-tu coupable ?
+$GEN_049_OnStart_05
+Je ne faisais que commerce d'un service très prisé.
+$GEN_049_OnStart_06
+Tu parles de jeunes garçons ?
+$GEN_049_OnStart_07
+Je pensais plutôt aux moments d'exaltation que je fournissais.
+$GEN_049_OnGuilty_00
+Citoyen Battier, tu as commis des crimes ignobles. Cette ville soupirera de soulagement lorsque ta tête rebondira sur les pavés.
+$GEN_049_OnGuilty_01
+Mort au monstre !
+$GEN_049_OnGuilty_02
+Finis les sévices infligés aux enfants !
+$GEN_049_OnGuilty_03
+Pourquoi ne pas le noyer dans la Seine ? Ce ne serait que justice.
+$GEN_049_OnPrison_00
+Citoyen Battier, je te déclare coupable. Tu passeras le restant de tes jours en prison.
+$GEN_049_OnPrison_01
+J'aurais préféré le voir guillotiné, mais j'imagine qu'il n'aura pas la vie facile en prison.
+$GEN_049_OnPrison_02
+Ça n'est pas suffisant !
+$GEN_049_OnPrison_03
+Tu appelles ça la justice ?
+$GEN_049_OnPrison_04
+Qu'on efface ce sourire narquois à coup de guillotine !
+$GEN_049_OnNotGuilty_00
+J'innocente Raoul Battier pour insuffisance de preuves formelles contre lui.
+$GEN_049_OnNotGuilty_01
+Le juge est un sodomite !
+$GEN_049_OnNotGuilty_02
+On l'a acheté contre une nuit avec un mouton !
+$GEN_049_OnNotGuilty_03
+Le juge devrait être dévoré par la honte !
+$GEN_049_OnNotGuilty_04
+Suis-je dans un cauchemar ?
+$GEN_049_04x03_00_QTitle
+Tes gens ont ouvert le feu sur la Garde nationale. Leur en as-tu donné l'ordre ?
+$GEN_049_04x03_00_00
+Tes hommes ont ouvert le feu sur la Garde nationale. Leur en as-tu donné l'ordre ?
+$GEN_049_04x03_00_01
+Il s'agit d'un tragique malentendu…
+$GEN_049_04x03_00_02
+Tu sembles bien sûr de toi. Sais-tu à quel sort tu t'exposes ?
+$GEN_049_04x03_00_03
+Rien d'autre que la guillotine !
+$GEN_049_04x03_00_04
+Tu es un homme raisonnable, citoyen juge. La foule veut du sang, bien entendu, mais tu sais qu'il est possible d'absoudre les entrepreneurs des péchés mineurs qu'ils commettent.
+$GEN_049_04x03_00_05
+Qu'appelles-tu un péché mineur ?
+$GEN_049_04x03_00_06
+Mes hommes étaient particulièrement tendus, nerveux, et ont confondu vos hommes avec… des cambrioleurs, j'imagine. Ce sont des choses qui arrivent.
+$GEN_049_04x03_00_07
+Tu crois donc qu'il ne s'est rien passé de grave ?
+$GEN_049_04x03_00_08
+C'est-à-dire que s'il fallait fermer chaque petit commerce pour des raisons triviales, la France ferait aussitôt banqueroute.
+$GEN_049_04x03_00_09
+Ne change pas de sujet. Comptais-tu emmener les garçons quelque part clandestinement ?
+$GEN_049_04x03_00_10
+Ils sont encore jeunes, la fusillade les effrayait. Il fallait que nous les emmenions dans un endroit plus calme.
+$GEN_049_06x03_01_QTitle
+Tes clients aimaient-ils festoyer après s'être adonnés à leurs perversions ?
+$GEN_049_06x03_01_00
+Tes clients aimaient-ils festoyer après s'être adonnés à leurs perversions ?
+$GEN_049_06x03_01_01
+Oh, ils ne venaient pas du tout pour manger. Nos riches concitoyens présentent des préférences surprenantes en matière d'amour…
+$GEN_049_06x03_01_02
+Quels pervers !
+$GEN_049_06x03_01_03
+On trouve une catin ordinaire à chaque coin de rue. Nos visiteurs étaient plus exigeants.
+$GEN_049_06x03_01_04
+Essayes-tu de dire que tes clients… s'accouplaient avec du bétail ?
+$GEN_049_06x03_01_05
+Nul besoin d'être aussi cru. Comment peut-on réclamer la liberté, et en même temps, interdire de petits plaisirs terrestres ?
+$GEN_049_06x03_01_06
+Ces garçons qui étaient détenus dans ton commerce, comme tu l'appelles, étaient-ils libres eux aussi ?
+$GEN_049_06x03_01_07
+Copulaient-ils, oui ou non ?
+$GEN_049_06x03_01_08
+En effet. Ils y consentaient et étaient bien payés, alors pourquoi s'y opposer ?
+$GEN_049_07x01_02_QTitle
+Tu enlevais, droguais et tuais des enfants. Leurs cadavres étaient jetés dans les égouts. Le reconnais-tu, citoyen ?
+$GEN_049_07x01_02_00
+Tu enlevais, droguais et tuais des enfants. Leurs cadavres étaient jetés dans les égouts. Le reconnais-tu, citoyen ?
+$GEN_049_07x01_02_01
+Ce n'étaient que de petits provinciaux perdus. À Paris, on aurait abusé d'eux de toute manière. Ils auraient fini tanneurs ou tâcherons, exploités pour un quignon de pain. Nous leur offrions une bien meilleure alternative.
+$GEN_049_07x01_02_02
+Étaient-ils de cet avis ? As-tu ne serait-ce que cherché à savoir ce qu'ils voulaient ?
+$GEN_049_07x01_02_03
+Je n'en suis pas certain, cela incombait à mes hommes.
+$GEN_049_07x01_02_04
+Nous serions ravis de leur parler.
+$GEN_049_07x01_02_05
+Vous les avez malheureusement tués en attaquant mon manoir.
+$GEN_049_07x01_02_06
+Comme cela est commode pour toi. As-tu drogué les enfants avec du laudanum ?
+$GEN_049_07x01_02_07
+Un verre de vin avec une goutte d'opium aidait ces mignons à se détendre avant leur travail. Ils suppliaient d'en avoir, comment aurais-je pu le leur refuser ?
+$GEN_049_07x01_02_08
+Je ne refuserais pas de lui arranger le portrait à coups de bâton !
+$GEN_049_07x01_02_09
+Et quand ils ne t'étaient plus d'aucune utilité, tu les jetais dans un égout ?
+$GEN_049_07x01_02_10
+Crois-moi, citoyen juge, je voulais l'éviter.
+$GEN_049_02x01_03_QTitle
+Le garçon trouvé dans l'égout était bien habillé. Qui était-il ?
+$GEN_049_02x01_03_00
+Le garçon trouvé dans l'égout était bien habillé. Qui était-il ?
+$GEN_049_02x01_03_01
+Je n'en suis pas certain… Je leur donnais ces vêtements car ils se présentaient à nous en haillons. De surcroît, je ne les connaissais pas tous. Demande à nos clients, ils se plaisaient à bavarder avec eux ensuite.
+$GEN_049_02x01_03_02
+Qui comptais-tu parmi tes clients ?
+$GEN_049_02x01_03_03
+Des marquis, des généraux, des notables, des marchands d'épices, des évêques. Des juges aussi.
+$GEN_049_02x01_03_04
+Vous l'avez entendu ? Des évêques y allaient !
+$GEN_049_02x01_03_05
+Je veux des noms.
+$GEN_049_02x01_03_06
+Tu ne les entendras pas de ma bouche, quand bien même tu commettrais la grossière erreur de me condamner à mort.
+$GEN_049_02x01_03_07
+De quoi devrais-je avoir peur ?
+$GEN_049_02x01_03_08
+Citoyen juge, mes clients ne te le pardonneraient jamais. Je suis aussi important pour cette ville que le boulanger. Je satisfais un appétit humain, quoique très particulier, des élites. Et toi, tu veux y faire obstacle. Ne t'étonne pas d'être désigné dès demain comme ennemi de la Révolution.
+$GEN_049_03x07_04_QTitle
+Comment tes clients savent où te trouver ?
+$GEN_049_03x07_04_00
+Comment tes clients savent où te trouver ?
+$GEN_049_03x07_04_01
+Paris est une ville extraordinaire. Qui veut mettre sa fortune au service du plaisir trouvera toujours quelqu'un pour répondre à sa demande.
+$GEN_049_03x07_04_02
+Je suppose que le bouche-à-oreille assurait ta réputation parmi eux.
+$GEN_049_03x07_04_03
+Tu es d'une grande perspicacité, citoyen juge !
+$GEN_049_03x07_04_04
+En d'autres termes, si nous en attrapons un, nous les attraperons tous !
+$GEN_049_03x07_04_05
+Tu as beaucoup à gagner à me donner ces noms.
+$GEN_049_03x07_04_06
+Je crains que si tu en avais connaissance, tu tremblerais à l'idée de notre échange immédiat.
+$GEN_049_03x07_04_07
+La justice ne fait aucun cas de tes relations.
+$GEN_049_03x07_04_08
+Ouais, parle !
+$GEN_049_03x07_04_09
+La justice peut-être pas… mais toi, tu devrais.
+$GEN_049_KEY_01
+Enfant noyé
+$GEN_049_KEY_02
+Habits de bonne tenue
+$GEN_049_KEY_03
+Manoir
+$GEN_049_KEY_04
+Tirs depuis l'entrée
+$GEN_049_KEY_05
+Bocaux de l'apothicaire
+$GEN_049_KEY_06
+Enclos avec des animaux
+$GEN_049_KEY_07
+Clients
+$GEN_049_LastDialog_00
+Tu seras le prochain à perdre la tête ! La luxure aura raison de toi !
+$GEN_049_UNIQUE_QUESTION_00
+Selon le client, qui sollicitait ses « services » ?
+$GEN_049_UNIQUE_ANSWER_CORRECT_00_00
+Des clients riches et particulièrement exigeants.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Des habitants de la banlieue proche.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Des étrangers, pour la plupart.
+$GEN_049_UNIQUE_QUESTION_01
+Le proxénète a déclaré que ses hommes se sont mis à tirer sur la Garde parce que…
+$GEN_049_UNIQUE_ANSWER_CORRECT_01_00
+Ils les ont pris pour des brigands.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ils s'attendaient à voir arriver leurs rivaux.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_01_01
+La Garde a ouvert le feu.
+$GEN_049_UNIQUE_QUESTION_02
+Qui étaient les enfants que Battier exploitait ?
+$GEN_049_UNIQUE_ANSWER_CORRECT_02_00
+De jeunes villageois aspirant au bonheur à Paris.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Des orphelins de guerre.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Les fils d'ennemis du peuple.
+$GEN_049_UNIQUE_QUESTION_03
+Les hommes de Battier droguaient les victimes avec…
+$GEN_049_UNIQUE_ANSWER_CORRECT_03_00
+De l'opium.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Du haschisch.
+$GEN_049_UNIQUE_ANSWER_NOT_CORRECT_03_01
+De l'eau-de-vie.

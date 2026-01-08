@@ -1,0 +1,282 @@
+$GEN_052_DOC_01_HEADER
+Compilado por: Charles Etienne
+$GEN_052_DOC_01_00
+	Vincent Boulle é um jovem <a name="1" class="hidden">inválido de guerra</a>. Perdeu a perna abaixo do joelho por causa de uma bala de canhão prussiana. Foi dispensado do exército e passou a morar com a mãe e o irmão mais novo, Mathéo, de 14 anos, em um apartamento de cortiço.
+$GEN_052_DOC_01_01
+	Há pouco tempo, o irmão de Vincent <a name="3" class="hidden">caiu de uma janela</a>. Os médicos dizem que ele quebrou as duas pernas e a bacia, e provavelmente nunca mais voltará a andar. Descobrimos que, na noite do incidente, uma briga barulhenta foi ouvida no apartamento da viúva. Pedimos aos médicos do Hôtel-Dieu que examinassem o garoto novamente, e eles encontraram tanto <a name="5" class="hidden">cicatrizes antigas quanto hematomas recentes</a> em seu corpo.
+$GEN_052_DOC_01_02
+	Os vizinhos contaram que, nos primeiros meses após <a name="6" class="hidden">o retorno do soldado ferido</a>, não perceberam nada fora do comum. No entanto, com o tempo, começaram a ouvir gritos durante a noite. Às vezes, viam Vincent com uma garrafa de vinho, exalando álcool e agindo de forma agressiva.
+$GEN_052_DOC_01_03
+	Prendemos Vincent Boulle, na esperança de obter depoimentos incriminadores de sua <a name="8" class="hidden">mãe e irmão</a>. No entanto, ela afirmou que Mathéo é jovem e tolo, e caiu da janela por conta própria. O garoto se recusou a falar conosco.
+$GEN_052_OnStart_00
+Você é o cidadão Vincent Boulle?
+$GEN_052_OnStart_01
+Sou eu.
+$GEN_052_OnStart_02
+Você teve alguma participação na queda do seu irmão da janela?
+$GEN_052_OnStart_03
+O moleque estava brincando no parapeito da janela e simplesmente escorregou.
+$GEN_052_OnStart_04
+Parece que você não sente pena dele.
+$GEN_052_OnStart_05
+Ele teve um acidente. Essas coisas acontecem.
+$GEN_052_OnStart_06
+Um acidente? Então você não teve envolvimento?
+$GEN_052_OnStart_07
+Não conseguiu lidar com os prussianos, então começou a brigar com a própria família.
+$GEN_052_OnStart_08
+Primeiro, minha mãe levou meu pai à morte, e agora mal cuida do meu irmão. Você devia perguntar a ela.
+$GEN_052_OnGuilty_00
+Por violência doméstica, sentencio o cidadão Boulle à morte.
+$GEN_052_OnGuilty_01
+Eu teria me surpreendido se tivesse dado outro veredito.
+$GEN_052_OnGuilty_02
+Tudo bem, mas isso vai curar as pernas da criança?
+$GEN_052_OnPrison_00
+Cidadão Boulle, pelos crimes cometidos contra sua própria família, eu o condeno à prisão.
+$GEN_052_OnPrison_01
+Acorrente esse desgraçado e mande-o para a pedreira!
+$GEN_052_OnNotGuilty_00
+O caso está encerrado. Cidadão Boulle, pode retornar para casa.
+$GEN_052_OnNotGuilty_01
+Compreendo certa indulgência com veteranos de guerra, mas isso já é um exagero.
+$GEN_052_OnNotGuilty_02
+Ele voltará em uma semana, acusado de assassinato.
+$GEN_052_01x07_00_QTitle
+Você se alistou no exército ainda muito jovem?
+$GEN_052_01x07_00_00
+Você se alistou no exército ainda muito jovem?
+$GEN_052_01x07_00_01
+Eu ainda não tinha 20 anos.
+$GEN_052_01x07_00_02
+Perder uma perna deve ter sido uma experiência difícil.
+$GEN_052_01x07_00_03
+Não quero falar sobre isso!
+$GEN_052_01x07_00_04
+Como isso aconteceu?
+$GEN_052_01x07_00_05
+Não quero falar sobre isso!
+$GEN_052_01x07_00_06
+Cidadão, conte-nos como perdeu a perna.
+$GEN_052_01x07_00_07
+Não me lembro.
+$GEN_052_01x07_00_08
+Talvez ele tenha levado um tiro na cabeça, não na perna?
+$GEN_052_01x07_00_09
+Muito bem, vamos supor que você não se lembre daquele exato momento. E quanto ao dia do incidente? Você estava na linha de frente?
+$GEN_052_01x07_00_10
+Isso não tem nada a ver com aquela criança tola caindo da janela!
+$GEN_052_01x07_00_11
+Cidadão, estamos lhe fazendo um favor ao ouvir o que tem a dizer. Seja gentil e não levante a voz.
+$GEN_052_01x07_00_12
+…
+$GEN_052_01x07_00_13
+Você começou a beber por causa da sua perna?
+$GEN_052_01x07_00_14
+Não, é insônia. Ultimamente, só consigo dormir depois de uma taça de vinho.
+$GEN_052_02x06_01_QTitle
+Seus vizinhos dizem que, quando você voltou da guerra, a princípio estava calmo...
+$GEN_052_02x06_01_00
+Seus vizinhos dizem que, ao voltar da guerra, você parecia calmo no início, mas com o tempo foi se tornando cada vez mais agressivo. O que aconteceu?
+$GEN_052_02x06_01_01
+Não entendo a pergunta, monsieur le juge.
+$GEN_052_02x06_01_02
+Claro que não. Esse aí é puro como um anjo.
+$GEN_052_02x06_01_03
+Já faz algum tempo que seus vizinhos vêm reclamando de você. Quando começou a beber, eles passaram a ouvir gritos vindos do seu apartamento.
+$GEN_052_02x06_01_04
+Ultimamente não tenho me dado muito bem com minha mãe, mas não foi nada grave.
+$GEN_052_02x06_01_05
+Vocês não se entendiam? Ou estavam discutindo?
+$GEN_052_02x06_01_06
+Nada de grave, só algumas pequenas divergências.
+$GEN_052_02x06_01_07
+Mas isso não começou logo após o seu retorno?
+$GEN_052_02x06_01_08
+Ultimamente, não consigo dormir direito. Pessoas cansadas costumam se irritar facilmente.
+$GEN_052_08x04_02_QTitle
+Chame a viúva, senhora Boulle, como testemunha.
+$GEN_052_08x04_02_00
+Chame a viúva, senhora Boulle, como testemunha.
+$GEN_052_03x05_03_QTitle
+Como você descreveria sua relação com seu irmão?
+$GEN_052_03x05_03_00
+Como você descreveria sua relação com seu irmão?
+$GEN_052_03x05_03_01
+Mathéo? Aquele fedelho não faz nada além de comer e pedir dinheiro para a mãe porque é preguiçoso demais para trabalhar.
+$GEN_052_03x05_03_02
+Seu irmão nunca trabalhou?
+$GEN_052_03x05_03_03
+Bem, ele foi aprendiz de padeiro ou de açougueiro, não tenho certeza de qual. Mas, seja o que for que levasse para casa, comia tudo na hora.
+$GEN_052_03x05_03_04
+E você? Onde está trabalhando?
+$GEN_052_03x05_03_05
+Sem uma perna, o que eu posso fazer, hein? Enrolar charutos com as mulheres?
+$GEN_052_03x05_03_06
+Seja sincero conosco. Você estava batendo no seu irmão?
+$GEN_052_03x05_03_07
+Ele estava espancando o homem! Dava pra ouvir a duas ruas de distância!
+$GEN_052_03x05_03_08
+Alguém precisa educá-lo para ser um homem. Fui criado pelo meu pai, mas ele morreu quando Mathéo tinha oito anos. Não havia ninguém com pulso firme em casa e agora veja no que ele se tornou.
+$GEN_052_03x05_03_09
+Não que o pai dele tenha feito um grande trabalho ao criá-lo.
+$GEN_052_07x04_04_QTitle
+Na noite em que seu irmão caiu da janela, você estava bebendo?
+$GEN_052_07x04_04_00
+Na noite em que seu irmão caiu da janela, você estava bebendo?
+$GEN_052_07x04_04_01
+Não, monsieur le juge, naquela noite eu estava sóbrio.
+$GEN_052_07x04_04_02
+Seus vizinhos ouviram gritos.
+$GEN_052_07x04_04_03
+Deve ter vindo da rua. Talvez tenha sido mais um linchamento ou algo assim? Não sei, eu estava dormindo.
+$GEN_052_07x04_04_04
+Você levou seu irmão ao hospital?
+$GEN_052_07x04_04_05
+Não, foram nossos vizinhos. Só fiquei sabendo de tudo pela manhã, quando vieram reclamar.
+$GEN_052_07x04_04_06
+Por que não foi você mesmo buscá-lo? Sentiu vergonha?
+$GEN_052_07x04_04_07
+Passei três noites sem dormir. Então, quando finalmente consegui, dormi como uma pedra.
+$GEN_052_07x04_04_08
+Nós ouvimos você gritando!
+$GEN_052_07x04_04_09
+Você visitou seu irmão?
+$GEN_052_07x04_04_10
+Eu estava sentado ao lado dele quando um oficial da Guarda veio interrogá-lo. Fizeram várias perguntas ao Mathéo, mas ele não disse uma palavra. Acho que estava envergonhado por ter arruinado a saúde de forma tão tola.
+$GEN_052_01x06_05_QTitle
+Por quanto tempo serviu no exército?
+$GEN_052_01x06_05_00
+Por quanto tempo você serviu no exército?
+$GEN_052_01x06_05_01
+Mais de um ano. Durante todo esse tempo, só pensava em voltar para minha mãe e meu irmão...
+$GEN_052_01x06_05_02
+E assim que você voltou para casa, os problemas começaram.
+$GEN_052_01x06_05_03
+Eles não me entendiam. Não fazem ideia do que é ter o sangue de um amigo respingando no seu rosto... Reclamavam que eu gritava à noite. Eu chamava por Pinard. Sonhava com ele todas as noites. Uma bala atravessou a bochecha dele.
+$GEN_052_01x06_05_04
+Pinard sobreviveu?
+$GEN_052_01x06_05_05
+Não sei. Dois dias depois, fui atingido por uma bala de canhão. Não faço ideia do que aconteceu com ele.
+$GEN_052_01x06_05_06
+Seus vizinhos também reclamaram dos gritos.
+$GEN_052_01x06_05_07
+Eles nunca precisaram limpar as entranhas de alguém das próprias botas... O que sabem eles sobre gritos e medo?
+$GEN_052_01x06_05_08
+Você quer que sintamos pena de você?
+$GEN_052_01x06_05_09
+Podem todos ir se jogar no rio, por mim tanto faz.
+$GEN_052_WIT_00_A_QTitle
+Como seu filho mais novo caiu da janela?
+$GEN_052_WIT_00_A_00
+Como seu filho mais novo caiu da janela?
+$GEN_052_WIT_00_A_01
+Acho que ele estava brincando no parapeito da janela.
+$GEN_052_WIT_00_A_02
+Aconteceu à noite, certo?
+$GEN_052_WIT_00_A_03
+Bem... sim.
+$GEN_052_WIT_00_A_04
+Ele costumava brincar nesse horário em vez de dormir?
+$GEN_052_WIT_00_A_05
+Meu filho não tem pai. Às vezes, é difícil controlá-lo.
+$GEN_052_WIT_00_A_06
+O que você estava fazendo na noite do incidente, enquanto seu filho brincava?
+$GEN_052_WIT_00_A_07
+Eu estava lavando roupa. Os meninos vivem sujando as roupas e, como trabalho o dia todo, só consigo lavar tudo tarde da noite.
+$GEN_052_WIT_00_A_08
+E o seu filho mais velho? O que ele estava fazendo?
+$GEN_052_WIT_00_A_09
+Não tenho certeza.
+$GEN_052_WIT_00_A_10
+Será que ele estava dormindo?
+$GEN_052_WIT_00_A_11
+Não, não, ele sofre de insônia e–
+$GEN_052_WIT_00_A_12
+Ele está espancando a família.
+$GEN_052_WIT_01_A_QTitle
+Seus filhos se dão bem?
+$GEN_052_WIT_01_A_00
+Seus filhos se dão bem?
+$GEN_052_WIT_01_A_01
+Ah, você sabe como são os meninos. De vez em quando brigam, mas é do jeito deles mesmo.
+$GEN_052_WIT_01_A_02
+Pare de defendê-lo, mulher!
+$GEN_052_WIT_01_A_03
+Seu filho mais velho já não é mais uma criança.
+$GEN_052_WIT_01_A_04
+Para mim, ele sempre será uma criança. Se você tem filhos, sabe do que estou falando.
+$GEN_052_WIT_01_A_05
+O Vincent estava batendo no Mathéo?
+$GEN_052_WIT_01_A_06
+De jeito nenhum, ele é um bom menino. Às vezes eles brigavam, mas é coisa de criança.
+$GEN_052_WIT_01_A_07
+Ele já machucou o Mathieu alguma vez?
+$GEN_052_WIT_01_A_08
+Quando ele tinha 15 anos, ele–
+$GEN_052_WIT_01_A_09
+Você sabe do que estou falando.
+$GEN_052_WIT_01_A_10
+Meu filho é uma pessoa decente. Não entendo de verdade por que ele foi preso.
+$GEN_052_WIT_01_B_QTitle
+O Vincent já te agrediu alguma vez, cidadã?
+$GEN_052_WIT_01_B_00
+O Vincent já levantou a mão para você, cidadã?
+$GEN_052_WIT_01_B_01
+Claro que não, monsieur le juge.
+$GEN_052_WIT_01_B_02
+Ele já gritou com você?
+$GEN_052_WIT_01_B_03
+Ultimamente ele não consegue dormir, e às vezes se exalta, mas isso passa quando consegue descansar direito. A perna dói onde ficaram os pontos, então às vezes compro uma garrafa pra ele. Homem sempre melhora depois de um gole.
+$GEN_052_WIT_01_B_04
+Se você não comprar uma garrafa para ele, ele fica bravo?
+$GEN_052_WIT_01_B_05
+Não, não, meu filho nunca fica bravo comigo, de jeito nenhum.
+$GEN_052_WIT_01_B_06
+Claro que não, ele é um menino tão bom, tão gentil.
+$GEN_052_WIT_01_B_07
+Naquela noite, você pôde comprar uma garrafa para ele?
+$GEN_052_WIT_01_B_08
+Minha memória já não é das melhores, sabe, estou velha. Mas não, acho que não.
+$GEN_052_KEY_01
+Veterano de guerra incapacitado
+$GEN_052_KEY_02
+Cortiço
+$GEN_052_KEY_03
+Queda da janela
+$GEN_052_KEY_04
+Gritos
+$GEN_052_KEY_05
+Cicatrizes e hematomas
+$GEN_052_KEY_06
+Retorno do soldado ferido
+$GEN_052_KEY_07
+Vinho
+$GEN_052_KEY_08
+Mãe e irmão
+$GEN_052_LastDialog_00
+Por favor, corte minha cabeça fora. Quem sabe assim meus pesadelos finalmente parem...
+$GEN_052_UNIQUE_QUESTION_00
+Em que circunstâncias o menino caiu da janela?
+$GEN_052_UNIQUE_ANSWER_CORRECT_00_00
+Ele estava brincando no parapeito da janela.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ele estava discutindo com o irmão.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ele estava limpando.
+$GEN_052_UNIQUE_QUESTION_01
+Os vizinhos reclamaram do veterano?
+$GEN_052_UNIQUE_ANSWER_CORRECT_01_00
+Disseram que ele estava bebendo e agindo de forma agressiva.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Eles testemunharam que ele os roubava.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Não, eles não fizeram nenhuma reclamação.
+$GEN_052_UNIQUE_QUESTION_02
+De acordo com os depoimentos, o que o inválido estava fazendo no momento do acidente?
+$GEN_052_UNIQUE_ANSWER_CORRECT_02_00
+Dormindo.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Encontrando seus amigos do exército.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Passeando às margens do Sena.

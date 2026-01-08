@@ -1,0 +1,358 @@
+$GEN_006_DOC_01_HEADER
+Compiled by: Pierre Daquin
+$GEN_006_DOC_01_00
+The defendant is Valérie Moreau, <a name="1" class="hidden">daughter of advocate Philippe Moreau</a>. She was arrested as a suspect for the murder of Lieutenant Serge Mollet, <a name="2" class="hidden">a cavalry officer</a>. The investigation revealed that they knew each other well and, according to both families, met several times a month. What’s more, Lieutenant Mollet had asked Philippe Moreau <a name="3" class="hidden">for his daughter’s hand</a>.
+$GEN_006_DOC_01_01
+Miss Moreau testified that she had <a name="4" class="hidden">found her friend’s body</a> in his apartment. She was arrested because the servants testified that nobody else had <a name="5" class="hidden">entered Lieutenant Mollet’s apartment</a> on that day, and the servants had seen the victim alive before her arrival.
+$GEN_006_DOC_01_02
+Miss Moreau testified that she was allowed into the house by Lieutenant Mollet’s servants and went directly to his room. She said that she saw him lying in bed in bloodstained bedclothes and his <a name="6" class="hidden">throat had been cut</a>. Even though she supposedly felt faint, she approached him to <a name="7" class="hidden">check his pulse</a>. A few minutes later, she called for help.
+$GEN_006_DOC_01_03
+The servants’ testimonies corroborate her account. When they found her, she was <a name="8" class="hidden">holding Lieutenant Mollet’s body</a> in her arms and sobbing uncontrollably. A bloodstained knife was lying on the floor, and on its still wet hilt there were small, probably female, fingerprints.
+$GEN_006_DOC_01_04
+The case seems simple: Miss Moreau is one of the aggrieved parties, and dragging her to court will only cause her more distress. We should focus on looking for the real murderer, and not harass such fragile and innocent creatures.
+$GEN_006_DOC_01_05
+Evidence: <a name="10" class="hidden">A bloodstained knife.</a>
+$GEN_006_OnStart_00
+Young, pretty, and unhappy. No wonder people take her side.
+$GEN_006_OnStart_01
+Heartless rogues! How can you drag a girl in mourning to court?!
+$GEN_006_OnStart_02
+Silence! Please, introduce yourself.
+$GEN_006_OnStart_03
+My name is Valérie Moreau.
+$GEN_006_OnStart_04
+Miss Moreau, you are accused of murdering Lieutenant Mollet…
+$GEN_006_OnStart_05
+…
+$GEN_006_OnStart_06
+Do you have anything to say?
+$GEN_006_OnStart_07
+I still cannot believe… any of this.
+$GEN_006_OnStart_08
+Spare us the drama please, this is not a theatre.
+$GEN_006_OnStart_09
+Sadist!
+$GEN_006_OnGuilty_00
+I sentence Citizen Valérie Moreau to be guillotined! Lead the condemned out.
+$GEN_006_OnGuilty_01
+We certainly did a fine job.
+$GEN_006_OnGuilty_02
+This is inhuman!
+$GEN_006_OnGuilty_03
+She’s a lunatic, she deserves it!
+$GEN_006_OnPrison_00
+I sentence Citizen Valérie Moreau to prison! Lead the condemned out.
+$GEN_006_OnPrison_01
+We saw right through her, though I would rather see her at the guillotine.
+$GEN_006_OnPrison_02
+This is inhuman!
+$GEN_006_OnPrison_03
+She’s a lunatic, she deserves it!
+$GEN_006_OnNotGuilty_00
+The verdict for the murder of Lieutenant Mollet is… not guilty! Please release Miss Moreau.
+$GEN_006_OnNotGuilty_01
+You let her sweet eyes deceive you?
+$GEN_006_OnNotGuilty_02
+Huzzah!
+$GEN_006_OnNotGuilty_03
+You let a murderer go free?
+$GEN_006_01x02_00_QTitle
+Have you known the victim for a long time?
+$GEN_006_01x02_00_00
+Have you known the victim for a long time?
+$GEN_006_01x02_00_01
+A few years, since his time at Military School.
+$GEN_006_01x02_00_02
+What kind of acquaintance was it?
+$GEN_006_01x02_00_03
+Friendship. Deep, steadfast friendship. Although for Lieutenant Mollet, I knew that it was something more than that.
+$GEN_006_01x02_00_04
+And for you?
+$GEN_006_01x02_00_05
+Why is he tormenting her?
+$GEN_006_01x02_00_06
+…
+$GEN_006_01x02_00_07
+Did you love him? If you did, maybe you murdered him because you were jealous.
+$GEN_006_01x02_00_08
+I do not know… I cannot answer that question.
+$GEN_006_01x02_00_09
+Refusing to answer will only go against you.
+$GEN_006_01x02_00_10
+She’s barely breathing, the poor, traumatised thing.
+$GEN_006_01x03_01_QTitle
+Miss Moreau, I must learn every detail of this case.
+$GEN_006_01x03_01_00
+Miss Moreau, I must learn every detail of this case.
+$GEN_006_01x03_01_01
+I understand. Please, ask your questions.
+$GEN_006_01x03_01_02
+Our investigator has learned from your father that Lieutenant Mollet was in agreement with him about your engagement.
+$GEN_006_01x03_01_03
+Oh…
+$GEN_006_01x03_01_04
+Did you not know of that agreement?
+$GEN_006_01x03_01_05
+I knew that he… But not that soon. No, I did not know.
+$GEN_006_01x03_01_06
+Your family kept it a secret?
+$GEN_006_01x03_01_07
+Apparently so.
+$GEN_006_01x03_01_08
+Maybe you reacted to his proposal by killing him?
+$GEN_006_01x03_01_09
+<sobs>
+$GEN_006_01x03_01_10
+My God, why not just execute her at once, you bastards!
+$GEN_006_01x04_02_QTitle
+Please describe the moment when you found the victim’s body.
+$GEN_006_01x04_02_00
+Please describe the moment when you found the victim’s body.
+$GEN_006_01x04_02_01
+This is inhuman.
+$GEN_006_01x04_02_02
+I received a letter in which he asked me to come. He wrote that he would send everyone away and we could spend some time… on our own. He wanted to confess something.
+$GEN_006_01x04_02_03
+On your own? How should we interpret that?
+$GEN_006_01x04_02_04
+He surely did not mean anything indecent. He was an honourable person, a cavalryman.
+$GEN_006_01x04_02_05
+What happened next?
+$GEN_006_01x04_02_06
+I arrived on time and entered his apartment. The drapes were closed and I felt something slippery beneath my shoe. It was blood…
+$GEN_006_01x04_02_07
+Did anyone see you entering?
+$GEN_006_01x04_02_08
+I do not know. The servants perhaps.
+$GEN_006_01x04_02_09
+Did you sneak in there?
+$GEN_006_01x04_02_10
+I… He asked me to enter quietly, and when I went inside…
+$GEN_006_01x04_02_11
+You immediately saw the body?
+$GEN_006_01x04_02_12
+It was only after a few moments that I saw him. He was lying on the bed… his throat… Excuse me…
+$GEN_006_01x04_02_13
+How awful…
+$GEN_006_10x06_03_QTitle
+Lieutenant Mollet was a soldier. How could someone…?
+$GEN_006_10x06_03_00
+Lieutenant Mollet was a soldier. How could someone have surprised him in his own bed?
+$GEN_006_10x06_03_01
+How would such a child be able to kill him? This trial is a farce.
+$GEN_006_10x06_03_02
+Of course she could. You can kill anyone if you are able to surprise them.
+$GEN_006_10x06_03_03
+Whoever broke into his flat must have approached him very silently to not wake him up.
+$GEN_006_10x06_03_04
+Would he be sleeping right before meeting you?
+$GEN_006_10x06_03_05
+I only know that he was lying in bed. Maybe he decided to take a nap?
+$GEN_006_10x06_03_06
+Do you not find that suspicious?
+$GEN_006_10x06_03_07
+Everything about this case is suspicious.
+$GEN_006_10x06_03_08
+I agree, and your testimony especially.
+$GEN_006_04x07_04_QTitle
+How could you be sure the victim was already dead?
+$GEN_006_04x07_04_00
+How could you be sure the victim was already dead?
+$GEN_006_04x07_04_01
+I was speaking to him, saying, “Wake up, come one, get up.” I was pulling on his sleeve, but he was just lying there… blood dripping…
+$GEN_006_04x07_04_02
+She’s raving, poor child.
+$GEN_006_04x07_04_03
+Leave her alone!
+$GEN_006_04x07_04_04
+Was Lieutenant Mollet dead?
+$GEN_006_04x07_04_05
+I listened for breath, but there was none… I listened for a long time, desperately wanting to hear it…
+$GEN_006_04x07_04_06
+Why did you not call for help?
+$GEN_006_04x07_04_07
+I was in shock.
+$GEN_006_04x07_04_08
+Then why were you not screaming? Women usually scream at the top of their lungs when something shocks them.
+$GEN_006_04x07_04_09
+I cannot explain that.
+$GEN_006_04x07_04_10
+One screams, another doesn’t. What does it prove?
+$GEN_006_09x08_05_QTitle
+When the guards arrived, they found you covered in blood.
+$GEN_006_09x08_05_00
+When the guards arrived, they found you covered in blood. Do you understand how that looks?
+$GEN_006_09x08_05_01
+You think that it was me who killed him. I am not stupid, I know why I am standing here.
+$GEN_006_09x08_05_02
+That is right. Would you like to respond to that?
+$GEN_006_09x08_05_03
+Maybe I really killed him…?
+$GEN_006_09x08_05_04
+She admitted to being guilty!
+$GEN_006_09x08_05_05
+Pardon?
+$GEN_006_09x08_05_06
+Maybe if I came earlier… Maybe he would be still alive?
+$GEN_006_09x08_05_07
+Please do not take your words back.
+$GEN_006_09x08_05_08
+Good God, stop tormenting her!
+$GEN_006_09x08_05_09
+Calm down and answer the question. Did you cut Lieutenant Mollet’s throat?
+$GEN_006_09x08_05_10
+No.
+$GEN_006_09x08_05_11
+Yet, I just heard her say something different.
+$GEN_006_05x09_06_QTitle
+Did Lieutenant Mollet have any enemies?
+$GEN_006_05x09_06_00
+Did Lieutenant Mollet have any enemies?
+$GEN_006_05x09_06_01
+I don’t know. He had friends.
+$GEN_006_05x09_06_02
+Could a friend have killed him?
+$GEN_006_05x09_06_03
+…
+$GEN_006_05x09_06_04
+Only someone he trusted could have got that close to him, no? Yet the servants say there was nobody else in that apartment except for you.
+$GEN_006_05x09_06_05
+I would like to be an officer’s wife… The servants have no such chance.
+$GEN_006_05x09_06_06
+Did you see anyone else in the apartment?
+$GEN_006_05x09_06_07
+No.
+$GEN_006_05x09_06_08
+If it was not you, then who killed Lieutenant Mollet?
+$GEN_006_05x09_06_09
+I would like to know that as much as you…
+$GEN_006_01x10_07_QTitle
+A bloodstained knife was found at the crime scene.
+$GEN_006_01x10_07_00
+A bloodstained knife was found at the crime scene.
+$GEN_006_01x10_07_01
+I know nothing about a knife.
+$GEN_006_01x10_07_02
+It has an imprint of a small, probably female, hand.
+$GEN_006_01x10_07_03
+So he was killed by a woman? He had someone else, but wanted to marry me…?
+$GEN_006_01x10_07_04
+I did not say that.
+$GEN_006_01x10_07_05
+I am rather confused.
+$GEN_006_01x10_07_06
+Poor girl.
+$GEN_006_01x10_07_07
+Monsieur le juge, the accused is trying to deceive us. We know what a woman’s imprint on the murder weapon means.
+$GEN_006_01x10_07_08
+Maybe I left it when Serge was already dead?
+$GEN_006_01x10_07_09
+She probably grabbed it in a shock.
+$GEN_006_PlotTwist_00
+Monsieur le juge! I made it on time. There is something I have to reveal. Please, hear me out!
+$GEN_006_PlotTwist_01
+I know Miss Moreau. I treat her family.
+$GEN_006_PlotTwist_02
+What do you want to reveal?
+$GEN_006_PlotTwist_03
+I think it was this woman who killed Lieutenant Mollet. She is the Devil incarnate!
+$GEN_006_PlotTwist_04
+Madman!
+$GEN_006_WIT_00_A_QTitle
+What brings you to that conclusion?
+$GEN_006_WIT_00_A_00
+What brings you to that conclusion?
+$GEN_006_WIT_00_A_01
+I have been treating her for many years, and have known her since she was a child. Recently, she changed. When Miss Moreau visited me not long ago, she was trembling, constantly getting a fever, and having fits of terror. I prescribed her some herbs to calm her down–
+$GEN_006_WIT_00_A_02
+And what is the connection with–
+$GEN_006_WIT_00_A_03
+Let me tell you! Something was tormenting her inwardly. She told me once that she was too young for marriage.
+$GEN_006_WIT_00_A_04
+We have a motive.
+$GEN_006_WIT_00_A_05
+So she knew what Lieutenant Mollet and her father were planning?
+$GEN_006_WIT_00_A_06
+If she did not, she at least suspected something, as for some time her nerves have been on edge.
+$GEN_006_WIT_00_B_QTitle
+This is a serious accusation…
+$GEN_006_WIT_00_B_00
+This is a serious accusation…
+$GEN_006_WIT_00_B_01
+She has been dealing with trauma. A few years ago, she saw a man die in the street, a victim of a clash between Royalists and Jacobins. She was standing close to him when a stray bullet hit him in the head.
+$GEN_006_WIT_00_B_02
+What does that have to do with the Lieutenant’s death?
+$GEN_006_WIT_00_B_03
+We talked about it many scores of times. In the beginning Valérie was silent. In time she began to share minor details. At one point, however, she started describing the deceased in such detail that you could almost see his body yourself.
+$GEN_006_WIT_00_B_04
+Go on.
+$GEN_006_WIT_00_B_05
+During one of our conversations she admitted to imagining that scene during the night. She wanted to tell the story again and again, and I could see how fascinated she had become with it.
+$GEN_006_WIT_00_B_06
+What could that mean, in your opinion?
+$GEN_006_WIT_00_B_07
+It is possible that she has become fascinated by death and violence.
+$GEN_006_WIT_01_A_QTitle
+How did you react to that?
+$GEN_006_WIT_01_A_00
+How did you react to that?
+$GEN_006_WIT_01_A_01
+I thought she was still in shock after what she had seen and I prescribed her sedative herbs. I assumed that she would get married, have a child, and forget about everything… It was only today that I heard about Lieutenant Mollet’s death and I came here at once.
+$GEN_006_WIT_01_A_02
+Thank you, doctor.
+$GEN_006_WIT_02_A_QTitle
+It seems that you have treated us to quite a performance!
+$GEN_006_WIT_02_A_00
+It seems that you have treated us to quite a performance! The doctor is accusing you–
+$GEN_006_WIT_02_A_01
+Bastard! If he is making a monster of me, perhaps I should butcher him for pleasure?! Stick a knife in his belly and cut upwards! Slash open his throat and…
+$GEN_006_WIT_02_A_02
+What is she talking about?
+$GEN_006_WIT_03_A_QTitle
+What we have here is the serious opinion of a doctor…
+$GEN_006_WIT_03_A_00
+What we have here is the serious opinion of a doctor–
+$GEN_006_WIT_03_A_01
+I just remembered! I know who killed Serge. I recall him telling me that a couple of years ago he duelled another officer who never accepted his defeat. Maybe…
+$GEN_006_WIT_03_A_02
+And maybe that person, infuriated by the denial of an honourable way out, sneaked into Lieutenant Mollet’s home to cut his throat? After so many years?
+$GEN_006_WIT_03_A_03
+…
+$GEN_006_WIT_03_A_04
+Do you know the name of that other officer, Miss?
+$GEN_006_WIT_03_A_05
+Unfortunately, I do not.
+$GEN_006_WIT_03_A_06
+What manner of duel was it? Did they use swords or pistols?
+$GEN_006_WIT_03_A_07
+I… do not remember that either.
+$GEN_006_KEY_01
+Advocate’s daughter
+$GEN_006_KEY_02
+Cavalry officer
+$GEN_006_KEY_03
+Alleged engagement
+$GEN_006_KEY_04
+Discovery of the body
+$GEN_006_KEY_05
+No visitors
+$GEN_006_KEY_06
+Slit throat
+$GEN_006_KEY_07
+Checking for a pulse
+$GEN_006_KEY_08
+Defendant holding the body
+$GEN_006_KEY_09
+Real murderer
+$GEN_006_KEY_10
+Bloodstained knife
+$GEN_006_LastDialog_00
+There’s no justice! You have no proof! You know you don’t!
+$GEN_006_UNIQUE_QUESTION_00
+Who found the body?
+$GEN_006_UNIQUE_ANSWER_CORRECT_00_00
+The defendant.
+$GEN_006_UNIQUE_ANSWER_NOT_CORRECT_00_00
+A servant.
+$GEN_006_UNIQUE_ANSWER_NOT_CORRECT_00_01
+A Guard patrol.

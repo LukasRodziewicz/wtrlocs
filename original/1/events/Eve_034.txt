@@ -1,0 +1,8 @@
+$EVE_034_V1_AGENTS_DISAPPEAR_TITLE
+The Guard Leaves
+$EVE_034_V1_AGENTS_DISAPPEAR_MAIN_01
+You find a large-sized uniform on a hook. Only one employee is big enough to fit it – your favourite court guard, Raphaël Clovis. You find a short letter in one of the pockets, and some parts of it stand out in particular: “I’m leaving the service”, “I can’t do this any longer”, and “too much blood on my hands”. The rats are fleeing the sinking ship.
+$EVE_034_V1_AGENTS_LEAVE_TITLE
+The Guard Leaves
+$EVE_034_V1_AGENTS_LEAVE_MAIN_01
+You find a large-sized uniform on a hook. Only one employee is big enough to fit it – your favourite court guard, Raphaël Clovis. A letter found in the inner pocket proves which side Clovis has chosen – your brother’s. He will fight against you to save himself. Or maybe he is just tired of your actions? To know for sure, you must get to him. The worst thing is that he knows your weaknesses…

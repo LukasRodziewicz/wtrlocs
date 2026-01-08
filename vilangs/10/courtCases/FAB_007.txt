@@ -1,0 +1,346 @@
+$FAB_007_DOC_1_HEADER
+Hazırlayan: Fabrice Poli
+$FAB_007_DOC_1_00
+Jean-Marie Roland, kısa bir süre öncesine kadar içişleri bakanıydı, <a name="1" class="hidden">yolsuzluk</a> ve <a name="2" class="hidden">vatana ihanet</a> ile suçlanıyor.
+$FAB_007_DOC_1_01
+Yolsuzluk suçlaması kapsamında, soruşturmayı Konvansiyon’un önde gelen üyelerini sorgulayarak başlattık. Vatandaş Hébert ve Robespierre özellikle yardımcı oldular. Bakan Roland’ın, başta Britanya ve İspanya olmak üzere bize tehdit oluşturan monarşilere karşı savaşın sürdürülmesi konusunda tutumlarını yumuşatmaları için kendilerine birkaç kez gizlice çıkar sağladığını ifade ettiler. Ancak adı geçen vatandaşların, Roland’ı suçlayacak kesin delilleri yoktu. Ayrıca teklifin doğrudan bakandan gelmediğinden şüpheleniyorlardı. Teklifin kaynağının, Roland’la yakın ilişkileri olan <a name="4" class="hidden">Vatandaş Capet</a> olabileceğini öne sürdüler. Yanlış bir suçlamada bulunmak istemeyen ilgili kişiler, tartışmasız kanıtların ortaya çıkmasını bekliyorlardı.
+$FAB_007_DOC_1_02
+Roland’ın önde gelen Konvansiyon üyelerini rüşvetle ikna etme girişimi başarısız olunca, iddiaya göre daha az etkili milletvekillerine yöneldi. Eşinin, Jeanne Marie Roland’ın desteğiyle onların gönlünü kazanmayı umuyordu. Jeanne Marie, siyasi bir salon düzenliyor, fakat bu salon <a name="6" class="hidden">genelev</a> işletmek için bir paravan görevi görüyordu. Ne yazık ki, Madame Roland ve himayesindekilerin misafirperverliğinden yararlanan herhangi bir milletvekilini tespit edemedik. Yine de, mahalle sakinleri geceleri verilen adrese dolu dolu erkek arabalarının geldiğini doğruladı. Gerçekten siyaset konuşmaya mı geldikleri bilinmiyor, fakat pek olası görünmüyor.
+$FAB_007_DOC_1_03
+	Vatana ihanet suçlaması, Vatandaş Capet’in yargılandığı davada ortaya çıkan meseleye, yani demir kasaya dayanmaktadır. Roland’ın, kendisini ele verebilecek bazı belgeleri kasadan <a name="7" class="hidden">aceleyle aldığı</a> iddia ediliyor. Olayların tanıklarından ve bakanın astlarından Phillipe Côté, tanıklık etmeye hazır olduğunu bildirdi. Onun soğukkanlılığı sayesinde, doğrudan Louis’yle ilgili <a name="8" class="hidden">belgelerin yok edilmesi</a> engellendi.
+$FAB_007_DOC_1_04
+Tüm bunlar yetmezmiş gibi, son anda Yurttaş Saint-Just, Girondinlerin tam iktidara yükselmek için <a name="9" class="hidden">Konvansiyonu zorla devirmeye</a> çalıştıklarını bildirdi. Bu grubun üyelerinin <a name="10" class="hidden">bir ayaklanma çıkarmak</a> için aktif şekilde çalıştıkları, böylece ülkenin diğer bölgelerinde de iktidarı ele geçirmeyi hedefledikleri bildirildi. Sözde, Nantes ve Niort şehirleri onların faaliyetleri nedeniyle ciddi tehdit altındaydı; zira <a name="11" class="hidden">Karşı-Devrimci</a> ve Monarşist eğilimlerin yoğunluğu artmıştı.
+$FAB_007_DOC_1_05
+Bu gerçekler ışığında, Paris halkı, Savcı Tinville tarafından temsil edilerek, bu hainin derhal idama mahkûm edilmesini talep ediyor!
+$FAB_007_OnStart_00
+Sanık hepimizin tanıdığı biri olsa da, lütfen tutanak için kendinizi tanıtınız.
+$FAB_007_OnStart_01
+Jean-Marie Roland, İçişleri Bakanı ve Konvansiyon Milletvekili–
+$FAB_007_OnStart_02
+Artık bir bakan değilsin, hain!
+$FAB_007_OnStart_03
+Suçluluğumu kanıtlamadığınız sürece masumum.
+$FAB_007_OnStart_04
+Bu yılanın başını bir an önce kesin!
+$FAB_007_OnGuilty_00
+Jean-Marie Roland’ı ölüme mahkûm ediyorum! Diğer hainler gibi o da ölsün!
+$FAB_007_OnGuilty_01
+Güzel! Yaşasın Yargıç!
+$FAB_007_OnGuilty_02
+Hükümeti İngiliz casuslarından arındıralım!
+$FAB_007_OnPrison_00
+Jean-Marie Roland hapis cezasına çarptırıldı.
+$FAB_007_OnPrison_01
+Bu davayı fazla hafife almıyor musunuz?
+$FAB_007_OnPrison_02
+Saçmalık! Bunu kabul etmemizi mi bekliyorsunuz?
+$FAB_007_OnNotGuilty_00
+Jean-Marie Roland masumdur. Serbest bırakın.
+$FAB_007_OnNotGuilty_01
+Masum mu?
+$FAB_007_OnNotGuilty_02
+Belki yargıç da hain, ne dersiniz?!
+$FAB_007_OnNotGuilty_03
+Sizi yeterince sert bıçaklamamışlar, öyle değil mi?
+$FAB_007_01x03_00_QTitle
+Vatandaşlar Hébert ve Robespierre, onlara rüşvet teklif ettiğinizi ifade ettiler…
+$FAB_007_01x03_00_00
+Vatandaş Hébert ve Robespierre, dış politikamızın seyrini yumuşatmaları için onlara rüşvet teklif ettiğinizi ifade ettiler. Bu doğru mu?
+$FAB_007_01x03_00_01
+Elbette hayır. İçişleri Bakanı olarak bundan hiçbir çıkarım olmazdı.
+$FAB_007_01x03_00_02
+Bu, Yurttaş Capet’in sizden ne beklediğine bağlı.
+$FAB_007_01x03_00_03
+Eğer Konvansiyonu barış görüşmelerine ikna etseydim, halk her şeyin bittiğini sanacaktı. Tedbirlerini bırakacaklar ve düşman ajanları sınırdan daha kolay sızacaktı. Bu da işimi epeyce zorlaştırırdı.
+$FAB_007_01x03_00_04
+Sanık, eylemlerinin olası gerekçesini bizzat ortaya koyuyor. Tam da bir hainin isteyeceği şey bu: Fransa’yı yok edecek daha fazla düşman casusu!
+$FAB_007_01x03_00_05
+Hain!
+$FAB_007_01x03_00_06
+Daha fazla casus, Avusturyalılardan daha çok para demek!
+$FAB_007_01x03_00_07
+Sus, sen gürültücü ahmak! Benim sayemde Hébertçiler savaşlarını sürdürebildiler, ülkenin otoriter çizmelerinin altında parçalanmasından endişe etmeden!
+$FAB_007_01x03_00_08
+Sessizlik!
+$FAB_007_01x06_01_QTitle
+Soruşturmacıların bulgularına göre, sanığın eşi lüks bir genelev işletiyordu…
+$FAB_007_01x06_01_00
+Soruşturmacıların bulgularına göre, sanığın eşi lüks bir genelev işletiyordu ve burada Konvansiyon üyelerinin yolsuzluk faaliyetleri gerçekleşmiş olabilir.
+$FAB_007_01x06_01_01
+Bu tam anlamıyla saçmalık ve hakarettir! Eşim, erdemli ve saygın bir kadındır; siyasi bir salonun ev sahibiydi. Orası, büyük düşünürlerin güncel meseleler üzerine fikir alışverişinde bulunduğu bir mekândı…
+$FAB_007_01x06_01_02
+Muhbirlerim, müfettişlerin bulgularını doğruladı.
+$FAB_007_01x06_01_03
+Ne kadar da sahtekâr bir herifmiş bu Roland!
+$FAB_007_01x06_01_04
+Birkaç ahmağın lafı umurumda mı? Eğer karım gerçekten Paris’in göbeğinde böyle rezil âlemler düzenleseydi, bunu gizli muhbirlerden öğrenmenize gerek kalmazdı. Bu suçlama tam anlamıyla saçmalık.
+$FAB_007_01x06_01_05
+Yani bu… hizmetleri sunarak hiçbir politikacıyı rüşvetle kandırmadınız mı?
+$FAB_007_01x06_01_06
+Hayır. Kimi ve neden rüşvet vereceğim ki? Siyasette tek bir düşmanım yok.
+$FAB_007_01x06_01_07
+Konvansiyonun çoğunluğu sizi giyotinle ölmüş görmek istiyor, belki de gözlerinizi açıp daha dikkatli olmalısınız. Aldığım bilgilere göre, bu tür rüşvetler Jean Debry ve Brissot’nun desteğini kazanmanızı zaten sağladı.
+$FAB_007_01x06_01_08
+Bu sadece dedikodu ve o devlet adamlarına hakaret!
+$FAB_007_02x04_02_QTitle
+Yurttaş, Louis Capet’in vatana ihanetten suçlu bulunduğunu hatırlıyor musunuz?
+$FAB_007_02x04_02_00
+Yurttaş, Louis Capet’nin vatana ihanetten suçlu bulunduğunu hatırlıyor musunuz?
+$FAB_007_02x04_02_01
+Elbette, hatırlıyorum.
+$FAB_007_02x04_02_02
+Görünüşe göre yolsuzluk teklifleri merhumun fikriydi.
+$FAB_007_02x04_02_03
+Herhangi bir teklif olmadı, eğer Louis böyle bir şey düşündüyse de, bundan haberim yok.
+$FAB_007_02x04_02_04
+Ona adını mı kullanarak hitap ediyorsunuz? Vatandaş Capet sizin hakkınızda övgüyle konuştu, aranızdaki özel ilişkiyi ve iş birliğinizi özellikle vurguladı.
+$FAB_007_02x04_02_05
+Lou... Vatandaş Capet benim üstümdü — ilişkimiz de bundan ibaretti.
+$FAB_007_02x04_02_06
+Koridorlarda, Capet’in elini öyle sık öptüğünüz söylenirdi ki, neredeyse hiç bırakmadığınız konuşulurdu.
+$FAB_007_02x04_02_07
+Neden açıkça adamı memnuniyetle sodomize edeceğini söylemiyorsunuz!
+$FAB_007_02x04_02_08
+Mahkemeyi gücendirmek istemem.
+$FAB_007_02x04_02_09
+Bu bir mahkeme değil, tam bir rezalet!
+$FAB_007_02x07_03_QTitle
+Phillipe Côté’yi mahkemeye çağırın.
+$FAB_007_02x07_03_00
+Phillipe Côté’yi mahkemeye çağırın.
+$FAB_007_02x07_03_02
+Lütfen kendinizi tanıtınız.
+$FAB_007_02x07_03_03
+Ben Phillipe Côté, Bakan Roland için çalışıyorum, ya da doğrusu, çalışıyordum.
+$FAB_007_02x07_03_04
+Pozisyonunuzu belirtebilir misiniz?
+$FAB_007_02x07_03_05
+Pek sayılmaz, bakan için çeşitli işler yürüttüm. Belgeleri düzenledim, mesajlar ilettim, rüşvet verdim...
+$FAB_007_02x07_03_06
+Neden bahsediyor?
+$FAB_007_02x07_03_07
+Bakanın gerçek yüzünü ortaya çıkarıyor.
+$FAB_007_02x07_03_08
+Başta bunların rüşvet olduğunu bilmiyordum. Anlamlarını ancak sonradan kavradım.
+$FAB_007_02x08_04_QTitle
+Vatandaş Capet aleyhindeki delilleri yok etmeye teşebbüs etmekle suçlanıyorsunuz.
+$FAB_007_02x08_04_00
+Vatandaş Capet aleyhindeki delilleri yok etmeye teşebbüs etmekle suçlanıyorsunuz.
+$FAB_007_02x08_04_01
+Bunlar saçmalık ve uydurmadır. O çürük Côté’nin söylediklerine inanmayın – ne düşündüğümü ya da ne niyet ettiğimi bilemez ki, kafamın içinde değildi!
+$FAB_007_02x08_04_02
+Ama sizi oldukça iyi tanıyordu…
+$FAB_007_02x08_04_03
+Zayıf ve kolayca etki altında kalan biriydi, şimdi ise kendini aslan sanan bir sokak kedisi gibi intikam peşinde. Sonuçta belgeler mahkemeye sunulmuştu, öyle değil mi?
+$FAB_007_02x08_04_04
+Vardı, ama sadece şanssızlığınız yüzünden ve Yurttaş Côté beklenenden erken döndüğü için. Bunu beklemiyordunuz ve beceriksizleştiniz!
+$FAB_007_02x08_04_05
+Ve bize böylesine pervasızca yalan söylüyor!
+$FAB_007_02x08_04_06
+Onları teslim etmeyi düşünmediğimi nereden biliyorsunuz?
+$FAB_007_02x09_05_QTitle
+Şimdi dosyalarda yer almayan bir olaya dönmek istiyorum.
+$FAB_007_02x09_05_00
+Şimdi dosyalarda yer almayan bir olaya dönmek istiyorum. Vatandaş Capet’in yargılanmasından sonra beni ziyaret ettiğinizi hatırlıyor musunuz?
+$FAB_007_02x09_05_01
+Hatırlıyorum...
+$FAB_007_02x09_05_02
+Ayrıca bana yaklaşan felaketimi, hatta yakında öleceğimi söylediğinizi de hatırlıyor musunuz?
+$FAB_007_02x09_05_03
+Ne utanmaz bir alçak!
+$FAB_007_02x09_05_04
+Şunu belirtmek isterim ki, o an son derece telaşlıydım...
+$FAB_007_02x09_05_05
+Hakime ölümle mi tehdit etti?
+$FAB_007_02x09_05_06
+Ve tuhaf bir tesadüf olarak, sadece birkaç gün sonra sokakta tanımadığım kişiler tarafından saldırıya uğradım ve karnımdan bıçaklandım!
+$FAB_007_02x09_05_07
+Senin aşağılık bir alçak olduğunu biliyordum, ama bir de katil olduğunu asla düşünmemiştim.
+$FAB_007_02x09_05_08
+Cevap vermeyi reddediyorum.
+$FAB_007_02x09_05_09
+Bu da mı Konvansiyonu devirmek için yapılan planın bir parçasıydı? Sizi giyotine gönderebilecek yargıcı öldürmek mi?!
+$FAB_007_02x09_05_10
+Cevap vermeyi reddediyorum. Suçsuzum!
+$FAB_007_04x05_06_QTitle
+Eşiniz de Yurttaş Capet ile iletişimde kalmaya devam etti mi?
+$FAB_007_04x05_06_00
+Eşiniz de Yurttaş Capet ile irtibatta mı kaldı?
+$FAB_007_04x05_06_01
+Onun verdiği bir iki ziyafete benimle birlikte katılmıştı…
+$FAB_007_04x05_06_02
+Hiçbir hain, aristokratların kıçını yalayarak kendini tutamaz.
+$FAB_007_04x05_06_03
+Savcı Tinville’ın diline hakim olmasını rica ediyorum.
+$FAB_007_04x05_06_04
+Bunların dışında, eşimin Vatandaş Capet ile hiçbir teması olmadı – onunla konuşmak için bir sebebi yoktu.
+$FAB_007_04x05_06_05
+Onun genelevinde neler olup bittiğinden gerçekten emin misiniz?
+$FAB_007_04x05_06_06
+Güzel laf!
+$FAB_007_04x05_06_07
+Karım namuslu bir kadındır!
+$FAB_007_04x05_06_08
+Bu daha da iyi!
+$FAB_007_04x11_07_QTitle
+Ülkenin bazı bölgelerinde Girondin faaliyetlerine dair kanıtlar var…
+$FAB_007_04x11_07_00
+Ülkenin bazı bölgelerinde Girondin faaliyetlerinin Karşı-Devrimci eğilimleri artırdığına dair kanıtlar var.
+$FAB_007_04x11_07_01
+Bununla benim ne alakam var?
+$FAB_007_04x11_07_02
+Başarısız bir darbe girişiminin merkezindeki isim olarak tanındınız, adı geçen grubun bir üyesiydiniz ve ayrıca Yurttaş Capet ile yakın bir ilişkiniz vardı.
+$FAB_007_04x11_07_03
+Kırsaldaki meslektaşlarımın faaliyetlerini kınıyorum. Fransa’nın iyiliği için, ayrılıklardan kaçınmalı ve sorunlarımızı tüfeklerle değil, diyalogla çözmeliyiz.
+$FAB_007_04x11_07_04
+Giyotine gitmekten korkan bir adamın tipik gevezeliği.
+$FAB_007_04x11_07_05
+Ve sizin gevezeliğiniz de, elinde sağlam delil olmayan ve halkı kışkırtmaya çalışan birine özgü!
+$FAB_007_04x11_07_06
+Doğru, hiçbir delil sunmadı...
+$FAB_007_04x11_07_07
+Bir hain için kanıta ihtiyacımız yok!
+$FAB_007_09x10_08_QTitle
+Planlanan darbedeki rolünüz neydi?
+$FAB_007_09x10_08_00
+Planlanan darbedeki göreviniz neydi?
+$FAB_007_09x10_08_01
+Hiçbir şey. Böyle planlardan haberim yoktu, eğer gerçekten böyle bir şey olduysa, milletvekili arkadaşlarım adına utanç duyuyorum.
+$FAB_007_09x10_08_02
+Muhbirlerim, Roland’ın yalnızca plana katılmakla kalmayıp tüm operasyonu yönetmesi için seçildiğini söylüyorlar.
+$FAB_007_09x10_08_03
+Sahtekâr Jakoben suratına şimdi bir yumruk indireceğim!
+$FAB_007_09x10_08_04
+Ne kadar da küstah, görüyor musun!
+$FAB_007_09x10_08_05
+Bizi pek sevmediğiniz doğru mu?
+$FAB_007_09x10_08_06
+Beni öldürmek istiyorsun, çünkü iktidara giden yolda önümde engel olduğumu düşünüyorsun. Peki, bu durumda sana benzemem için bir sebep mi var?
+$FAB_007_09x10_08_07
+Bizi suçlu bulmamız için sebepler veriyorsunuz.
+$FAB_007_09x10_08_08
+Biz bakanların da bir sınırı var – bu sahtekârın lekelemeye çalıştığı bir onurumuz var.
+$FAB_007_09x10_08_09
+İçişleri bakanı olarak, Konvansiyon’daki meslektaşlarınızın hain planlarından haberdar olmanız gerekmez miydi? Doğru kişiye bir iki söz etmek, sorunu çözmeye yeterdi.
+$FAB_007_09x10_08_10
+…
+$FAB_007_09x10_08_11
+Cevap ver, alçak.
+$FAB_007_09x10_08_12
+Bu konuda başka ekleyecek bir şeyim yok.
+$FAB_007_WIT_00_A_QTitle
+Neden bakanı demir dolabın içeriğiyle baş başa bıraktınız?
+$FAB_007_WIT_00_A_00
+Demir dolabın içeriğiyle bakanı neden baş başa bıraktınız?
+$FAB_007_WIT_00_A_01
+Bu onun emriydi. Bana çıkmamı ve kimsenin odaya girmemesini sağlamamı söyledi. Yirmi dakika boyunca geri dönmemem gerekiyordu.
+$FAB_007_WIT_00_A_02
+Bu emirlere uydunuz mu?
+$FAB_007_WIT_00_A_03
+Evet, başta öyleydi, ama şüphelerim oldu. Bakanın gizli belgeleri aradığından şüphelendim, bu yüzden ona daha erken döndüm.
+$FAB_007_WIT_00_A_04
+Peki, ne gördünüz?
+$FAB_007_WIT_00_A_05
+Bakanı belgeleri karıştırırken gördüm. Birkaçını kenara ayırdı, ben içeri girince de onları ceketinin altına saklamaya başladı.
+$FAB_007_WIT_00_A_06
+Herhangi bir ayrıntı fark ettiniz mi? Bu belgelerin neyle ilgili olabileceğine dair bir şüphe uyandıran bir şey var mıydı?
+$FAB_007_WIT_00_A_07
+Sadece hızlıca göz attım ve mühürleri gördüm. Çoğu Vatandaş Capet’e aitti, fakat bana yabancı bazı mühürler de vardı. Muhtemelen yabancı hükümdarların mühürleriydi.
+$FAB_007_WIT_00_B_QTitle
+Sanığı belgeleri saklarken yakaladığınızda nasıl davrandı?
+$FAB_007_WIT_00_B_00
+Sanığı belgeleri saklarken yakaladığınızda nasıl davrandı?
+$FAB_007_WIT_00_B_01
+Öfkeliydi, bana kapının dışında beklememi ve kimseyi içeri almamamı emrettiğini bağırarak söyledi.
+$FAB_007_WIT_00_B_02
+Ama siz, gerçek bir Devrimciye yakışır şekilde kötülüğe karşı başkaldırdınız mı?
+$FAB_007_WIT_00_B_03
+Côté olmasaydı, hain asla yakalanmazdı!
+$FAB_007_WIT_00_B_04
+Odada bir suç işlendiğinden şüphelendim ve buna göz yumamazdım. Fransa'nın çıkarı için, bakanlarının şüpheden uzak olması gerekir.
+$FAB_007_WIT_01_A_QTitle
+Madame Roland’ın kocasının davranışları üzerindeki etkisi hakkında bir bilginiz var mı?
+$FAB_007_WIT_01_A_00
+Madame Roland’ın kocasının davranışları üzerindeki etkisi hakkında bir bilginiz var mı?
+$FAB_007_WIT_01_A_01
+Bence asıl iktidar bakanın eşinin elindeydi.
+$FAB_007_WIT_01_A_02
+Kukla bir bakan! Sanki hain olması yetmiyormuş gibi!
+$FAB_007_WIT_01_A_03
+Bir bakan değil, tam bir fare...
+$FAB_007_WIT_01_A_04
+Neden böyle düşünüyorsunuz?
+$FAB_007_WIT_01_A_05
+Günlük görevleriyle ilgili tüm yazışmaları derhal Madame Roland’a iletmem gerekiyordu.
+$FAB_007_WIT_01_A_06
+Ne alay ama!
+$FAB_007_WIT_01_A_07
+Utanç!
+$FAB_007_WIT_01_A_08
+Cesaretiniz için teşekkür ederim, Fransa size minnettardır.
+$FAB_007_WIT_01_B_QTitle
+Bakanın eşinin Konvansiyon milletvekillerini yozlaştırması hakkında bir bilginiz var mı?
+$FAB_007_WIT_01_B_00
+Bakanın eşinin Konvansiyon milletvekillerini yozlaştırması hakkında bir bilginiz var mı?
+$FAB_007_WIT_01_B_01
+Kesin bir şey yok, ama bir keresinde bana Madame’ın... mekanından Giselle adında bir fahişeyi doğrudan Milletvekili Pierre Vergniaud’nun evinin kapısına götürmem emredildi.
+$FAB_007_WIT_01_B_02
+Bu hain çifti ölüme mahkûm etmek için daha fazla kanıta mı ihtiyacınız var?
+$FAB_007_WIT_01_B_03
+Tüm Girondistler zamparadır!
+$FAB_007_WIT_01_B_04
+Kadını oraya götürmenin amacı neydi?
+$FAB_007_WIT_01_B_05
+Bunu sormasına gerçekten gerek var mı?
+$FAB_007_WIT_01_B_06
+Bana bu açıkça söylenmedi. Yine de, onu daha sonra geri getirmem istendi ve size şunu söyleyebilirim… Geri döndüğünde gözü morarmıştı, tırnaklarının altında kurumuş kan vardı. Ona mendilimi verdim.
+$FAB_007_WIT_01_B_07
+Cesaretiniz için teşekkür ederim, Fransa size minnettardır.
+$FAB_007_KEY_01
+Yolsuzluk
+$FAB_007_KEY_02
+İhanet
+$FAB_007_KEY_03
+Savaşa dair görüşler
+$FAB_007_KEY_04
+Vatandaş Capet ile iletişim
+$FAB_007_KEY_05
+Jeanne Marie Roland
+$FAB_007_KEY_06
+Genelev
+$FAB_007_KEY_07
+Belgeleri gizleme
+$FAB_007_KEY_08
+Delil yok etme
+$FAB_007_KEY_09
+Konvansiyonun Devri
+$FAB_007_KEY_10
+Ayaklanma kışkırtıcılığı
+$FAB_007_KEY_11
+Karşı-Devrimci eğilimler
+$FAB_007_LastDialog_00
+Başımın düşüşünü görmek bu kadar mı çok istiyorsun?
+$FAB_007_UNIQUE_QUESTION_00
+Demir dolapla ilgili olaya tanık olan Côté kimdir?
+$FAB_007_UNIQUE_ANSWER_CORRECT_00_00
+Sanığın astı.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Vatandaş Capet’in astı.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Sanığın arkadaşı.
+$FAB_007_UNIQUE_QUESTION_01
+Sanık, Devrim Mahkemesi Yargıcına yönelik tehditleri nasıl açıklıyor?
+$FAB_007_UNIQUE_ANSWER_CORRECT_01_00
+Bir anlık dürtüyle.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_01_00
+İnkâr ediyor.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Sadece dili sürçtüğünü iddia ediyor.
+$FAB_007_UNIQUE_QUESTION_02
+Rolandların genelevi için hangi örtü kullanılmıştı?
+$FAB_007_UNIQUE_ANSWER_CORRECT_02_00
+Bir siyasi salon.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Marat’nın gazetesinin ofisi.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Bir depo.

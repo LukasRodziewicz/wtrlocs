@@ -1,0 +1,384 @@
+#LOAD_BUTTON_SURVIVAL_TEST
+День: (0)
+$LEADERBOARD_TITLE
+Рейтинг игроков
+$LEADERBOARD_TOP_BUTTON
+Топ игроки
+$LEADERBOARD_PLAYER_POS_BUTTON
+Мой счет
+$PLAYER_NAME_LABEL
+Игрок
+$POINTS_LABEL
+Очки
+$DAYS_LABEL
+Дни
+$LEADERBOARD_CONNECTION_ERROR_MSG
+Результаты невозможно загрузить
+$LEADERBOARD_FINAL_SCORE_LABEL
+Окончательный счет
+$LEADERBOARD_INPUT_NAME_LABEL
+Введите имя профиля
+$CREATE_PROFILE_SELECT_HEADER
+Выберите режим
+$PROFILE_TYPE_SURVIVAL
+Выживание
+$PROFILE_TYPE_STORY
+Сюжетный
+$PROFILE_TYPE_SURVIVAL_DESC
+Выживание - это вариант основной игры, в котором основное внимание уделяется судебным процессам, цель которых состоит в том, чтобы не дать погибнуть главному герою и работать как можно дольше.
+$PROFILE_TYPE_STORY_DESC
+Это описание для сюжетного режима
+$LEADERBOARD_OUT_OF_TOP100_INFO
+Вы набрали слишком мало очков, чтобы попасть в рейтинг 100 лучших.
+$SURVIVAL_SCORE_HEADER
+Подсчет очков
+$SURVIVAL_SCORE_UNLOCKED_QUESTIONS_LABEL
+Разблокированные вопросы
+$SURVIVAL_SCORE_CORRECT_ANSWERS_LABEL
+Правильность отчета
+$SURVIVAL_SCORE_SUM_LABEL
+Итого:
+$SURVIVAL_SCORE_ALL_QUESTIONS_BONUS_TOOLTIP
+Бонус за разблокировку всех вопросов
+$SURVIVAL_SCORE_ALL_ANSWERS_TOOLTIP
+Бонус за все правильные ответы в отчете
+$SURVIVAL_SCORE_MATCH_JURY_TOOLTIP
+Бонус за соответствие присяжным
+$SURVIVAL_SCORE_AUDIENCE_TOOLTIP
+Бонус за поддержание порядка в зале
+#LANGUAGE
+Язык
+#POLISH
+Польский
+#ENGLISH
+Английский
+#INTRO_TEXT
+Франция. Конец XVIII века...
+#INTRO_HOME
+Поздний вечер. Дом судьи.
+#START
+Начать игру
+#OPTIONS
+Настройки
+#QUIT
+Выход
+#CONFIRM
+Подтвердить
+#BACK
+Отменить
+#RETURN
+Вернуться
+#MENU
+В меню
+#ACCEPT
+Принять
+#REJECT
+Отменить
+#CLOSE
+Закрыть
+#GAMEOVER
+Конец
+#TCUT_GAME_OVER_PEOPLE
+Толпа свершила над вами свое правосудие.
+#TCUT_GAME_OVER_QUIZ
+Вас лишили должности.
+#TCUT_GAME_OVER_CUT_028
+Вы погибли в сражении.
+#TCUT_GAME_OVER_SECTION
+Вы были убиты после потери Главной секции.
+#TCUT_GAME_OVER_ARISTOCRATS
+Вас убили по заказу аристократии.
+#IGNORE
+Игнорировать
+#RESET
+Отменить изменения
+#START_NEW_GAME
+Начать
+#LOAD_GAME
+Загрузить день
+#CONTINUE
+Продолжить
+#END
+Завершить
+#EVENTS
+События
+#EMPTY
+Пусто
+#SUCCESS
+Успех
+#DOUBTFUL_SUCCESS
+Сомнительный успех
+#FAILURE
+Неудача
+#EFFECTS
+Эффекты:
+#CHANGE_PROFILE
+Сменить профиль
+#GUILTY
+Смертный приговор
+#NOTGUILTY
+Оправдательный приговор
+#PRISON
+Лишение свободы
+#SIGNATURE
+Подпись
+#JUDGE_SIGNATURE
+Подпись судьи
+#PROLOGUE
+Пролог
+#LOAD_BUTTON_TEXT
+Акт: {0} День: {1}
+#ENTER_PROFILE_NAME
+Введите имя профиля.
+#GROUPS_SUPPORT
+Отношения
+#REVOLUTIONISTS
+Революционеры
+#REVOLUTIONISTS_NOTIFICATION
+Революционеры: {0}
+#PEOPLE
+Простой люд
+#PEOPLE_NOTIFICATION
+Простой люд: {0}
+#ARISTOCRATS
+Аристократы
+#ARISTOCRATS_NOTIFICATION
+Аристократы: {0}
+#JUSTICE
+Правосудие
+#INFLUENCE
+Очки влияния
+#INFLUENCE_NOTIFICATION
+Очки влияния: {0}
+#RESOURCES
+Ресурсы
+#RESOURCES_AVAILABLE
+В наличии
+#RESOURCES_INCOME
+Дневной доход
+#DETAILS
+Подробности
+#RESOLUTION
+Разрешение экрана
+#FULL_SCREEN
+Полноэкранный режим
+#ENABLED
+Вкл
+#DISABLED
+Выкл
+#TUTORIAL_LABEL
+Обучение
+#GAME_OVER
+КОНЕЦ
+#END_THX
+Благодарим за игру!
+#LOST
+ВЫ ПРОИГРАЛИ!
+#GAMEOVER_KING_VERDICT
+Толпа растерзала вас.
+#GAMEOVER_PEOPLE_SUPPORT
+Народ растерзал вас.
+#DAY
+День
+#Letter
+Письмо
+#SPEECH_ATTITUDE_REVEAL
+Раскрыть
+#SPEECH_BONUS_INFLUENCE
+Очки влияния
+#SPEECH_ATTITUDE_AGGR
+Злоба
+#SPEECH_ATTITUDE_IRRI
+Раздражение
+#SPEECH_ATTITUDE_DOUB
+Сомнение
+#SPEECH_ATTITUDE_INTR
+Любопытство
+#SPEECH_ATTITUDE_SATI
+Одобрение
+#SUPPORT_VERY_LOW
+Очень низкое
+#SUPPORT_LOW
+Низкое
+#SUPPORT_MEDIUM
+Среднее
+#SUPPORT_HIGH
+Высокое
+#SUPPORT_VERY_HIGH
+Очень высокое
+#JURY
+Присяжные
+$INTERLUDIUM_GAMBLINGDEN
+Идти в игорный дом
+$INTERLUDIUM_HOME
+Вернуться домой
+$INTERLUDIUM_MAP
+Показать карту
+$YES
+Да.
+$NO
+Нет.
+#REPUTATION
+Репутация
+#REPUTATION_NOTIFICATION
+Репутация: {0}
+#REPUTATION_PENDING_TOOLTIP
+Изменение за сегодня:
+$GUILTY_VERDICT_SON
+Виновен
+$GUILTY_VERDICT
+Смертный приговор
+$PRISON_VERDICT
+Лишение свободы
+$NOTGUILTY_VERDICT
+Оправдательный приговор
+$NOTGUILTY_VERDICT_SON
+Невиновен
+#RELATIONSHIP_PLACEHOLDER
+Волнения
+#RELATIONSHIP_TIER_1
+Стабильность
+#RELATIONSHIP_TIER_2
+Волнения
+#RELATIONSHIP_TIER_3
+Враждебность
+#RELATIONSHIP_TIER_4
+Ненависть
+#NOTIFICATIONS_TITLE
+Уведомления
+#MAP_NOTIFICATION_TOOLTIP_ACTIVE
+Отчет о деятельности
+#STRATEGY_TIER_1
+Трагично
+#STRATEGY_TIER_2
+Беспечно
+#STRATEGY_TIER_3
+Правильно
+#STRATEGY_TIER_4
+Превосходно
+#STRATEGY_REMAINING_ATTEMPTS_TOOLTIP
+Число попыток зависит от Репутации
+#STRATEGY_TITLE
+Подготовьте стратегию
+#STRATEGY_CHANCE_TITLE
+Шанс успеха
+#STRATEGY_REMAINING_ATTEMPTS
+Осталось попыток: {0}
+$STRATEGY_SIDEBAR_HEADER
+Отношение
+$STRATEGY_EMOTIONS_HEADER
+Выберите стиль убеждения
+$STRATEGY_TOPICS_HEADER
+Тема
+#STRATEGY_VERY_GOOD_TOOLTIP
+Неопровержимый аргумент
+#STRATEGY_GOOD_TOOLTIP
+Веский аргумент
+#STRATEGY_VERY_BAD_TOOLTIP
+Очень слабый аргумент
+#STRATEGY_BAD_TOOLTIP
+Слабый аргумент
+#STRATEGY_TOPIC_ATTITUDE_LOCKED_NOT_ENOUGHT
+У вас недостаточно ОВ, чтобы раскрыть отношение оппонента ({0} ОВ)
+#STRATEGY_TOPIC_ATTITUDE_LOCKED
+Нажмите, чтобы раскрыть отношение оппонента к этой теме ({0} ОВ)
+#STRATEGY_TOPIC_ATTITUDE_LOCKED_PERMA
+Вы не раскрыли отношение оппонента.
+#STRATEGY_TOPIC_ATTITUDE_01
+Отстраненное
+#STRATEGY_TOPIC_ATTITUDE_02
+Неподатливое
+#STRATEGY_TOPIC_ATTITUDE_03
+Нет мнения
+#STRATEGY_TOPIC_ATTITUDE_04
+Вовлеченное
+#STRATEGY_TOPIC_ATTITUDE_05
+Сверхчувствительное
+#STRATEGY_TOPIC_ATTITUDE_06
+Легкомысленное
+#TAKEN_DISTRICTS_NOTEBOOK
+Подконтрольные секции
+#INFLUENCE_NOTEBOOK
+Влияние
+#DISCTRICTS_NOTEBOOK
+Секции
+#DEFAULT_ANSWER
+...
+#TOO_FEW_INFLUENCE_POINTS
+Недостаточно Очков влияния
+$PROSECUTOR_QUEST_FAILD
+Пойти против воли Тенвиля.
+#CASE_BASIC_MALE_QUESTION_00
+Подсудимый сознался в преступлении?
+#CASE_BASIC_MALE_QUESTION_01
+Его действия носили контрреволюционный характер?
+#CASE_BASIC_FEMALE_QUESTION_00
+Подсудимая созналась в преступлении?
+#CASE_BASIC_FEMALE_QUESTION_01
+Ее действия носили контрреволюционный характер?
+$MAGIC_BUTTON_LOCKED
+Заблокировано
+$MAGIC_BUTTON_NEXT
+Дальше
+$MAGIC_BUTTON_END_DAY
+Завершить день
+#NOTEBOOK_PERSON_DETAIL_VIEW_EMPTY
+Выберите человека, чтобы посмотреть информацию о нем.
+#NOTEBOOK_GLOBAL_MODS_VIEW_EMPTY
+В данный момент на вашу ситуацию не действуют глобальные модификаторы.
+#NOTEBOOK_EVENT_HISTORY_VIEW_EMPTY
+Здесь вы найдете информацию о решениях, принятых вами во время каждого события.
+#ACT1
+Акт I
+#ACT2
+Акт II
+#ACT3
+Акт III
+#ACT1_DESC
+Свобода
+#ACT2_DESC
+Равенство
+#ACT3_DESC
+Братство
+#EPILOGUE
+Эпилог
+$WAY_HEADER
+Куда вы хотите отправиться?
+$WAY_MAP
+Перейти к карте
+$WAY_DEN
+Идти в игорный дом
+$WAY_HOME
+Идти домой
+#UNKNOWN_PERSON
+Неизвестный персонаж
+#DEAD_PERSON
+Мертвый персонаж
+#SPEECH_EMO_AGGRESSION
+Напористо
+#SPEECH_EMO_MANIPULATION
+Манипулятивно
+#SPEECH_EMO_HUMILITY
+Смиренно
+#SPEECH_EMO_JOKE
+Насмешливо
+#WAITING_FOR_RESULT
+Действие будет выполнено на следующий день.
+$SPECIAL_VERDICT
+Чрезвычайный вердикт
+#FAMILY_CARD_MOCK
+Рисунок вашего сына
+#HIERARCHY
+Иерархия
+#INTRIGUE
+Заговор
+#AUTOSAVING_LABEL
+Сохранение...
+#CUTSCENE_NOT_WATCHED
+Не просмотрено
+#CUTSCENE_SKIP_LABEL
+Пропустить
+#COURT_END_TITLE
+Нет слушаний в суде.
+#COURT_END_MAIN
+Тенвиль исчез, присяжные не явились. Все ищут в Париже укромный уголок, чтобы спрятаться от угрозы. Не ждите новых дел в суде, пока Париж в осаде.

@@ -1,0 +1,56 @@
+#GAME_OPTIONS
+Spieleinstellungen
+#SOUND_OPTIONS
+Audio
+#CREDITS_HEADER
+Mitwirkende
+#CREDITS_BACK
+Zurück
+#CHOOSE_PROFILE
+Profil auswählen
+#NEW_PROFILE
+Profil erstellen
+#EMPTY_PROFILE
+Neues Profil erstellen
+#PROFILE_PLACEHOLDER
+Profilname
+#PROFILE_DELETE_QUESTION_TITLE
+Profil löschen
+#PROFILE_DELETE_QUESTION
+Das Löschen eines Profils ist endgültig. Sind Sie sicher?
+#PROFILE_SUBTITLE
+Akt {0} Tag {1}
+#NEW_GAME_QUESTION_TITLE
+Neustart
+#NEW_GAME_QUESTION
+Ein Neustart führt zum Verlust deines gesamten Fortschritts. Bist du sicher, dass du fortfahren möchtest?
+#SOUND_MAIN_OPTION
+Gesamtlautstärke
+#SOUND_EFFECTS_OPTION
+Lautstärke der Effekte
+#SOUND_MUSIC_OPTION
+Musiklautstärke
+#SOUND_DIALOGS_OPTION
+Stimmenlautstärke
+#AUTOSAVE
+Automatisches Speichern
+#SINGLE_CASES_HEADER
+Anhörung:
+#MULTI_CASES_HEADER
+Anhörungen:
+#CASES_EMPTY
+Keine
+#ACT
+Akt {0}
+#LOAD_GAME_DAY
+Tag {0}
+#LOAD_GAME_PARAMS_INFO
+Situation:
+#LOAD_GAME_QUESTION_TITLE
+Alten Spielstand laden
+#LOAD_GAME_QUESTION
+Wenn Sie einen vorherigen Tag auswählen, wird der Fortschritt der folgenden Tage überschrieben. Sind Sie sicher?
+#SAVE_PROFILE
+Profil erstellen
+#FLASHCARDS_CASES_KEY
+Außerordentliches Urteil

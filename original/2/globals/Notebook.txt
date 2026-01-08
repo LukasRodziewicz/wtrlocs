@@ -1,0 +1,74 @@
+#DEBUG
+[DEBUG]
+#EVENT
+Événement :
+#EVENTCOST
+Prix de l'option choisie :
+#MISSION
+Mission :
+#COURTCASE
+Audience
+#NEWDAY
+Nouveau cycle
+#LASTDAY
+Du cycle précédent
+#ENEMYAGENT
+Agissements d'un agent hostile
+#AGENTCOST
+Coût des agissements de l'agent
+#AGENTMISSION
+Résultat des agissements de l'agent
+#JURY_INFLUENCE
+Influence du jury
+#MENTORHELP
+Aide d'un Mentor
+#GUILLOTINESPEECH
+Discours
+#GAMBLINGDEN
+Jeu de dés
+#SOURCE_INTRIGUE
+Complot
+#NOTEBOOK_INFLUENCE_INCREASE
+Plus de Points d'influence
+#NOTEBOOK_GUILTY_COUNT
+Nombre de personnes condamnées à mort
+#NOTEBOOK_PRISON_COUNT
+Nombre de personnes condamnées à la prison
+#NOTEBOOK_NOTGUILTY_COUNT
+Nombre de personnes disculpées
+#NOTEBOOK_DAYLIST
+Liste de jours
+#NOTEBOOK_SENTENCES
+Verdicts
+#NOTEBOOK_PEOPLE
+Personnes
+#GLOBAL_MODS
+Modificateurs généraux
+#TIME_LEFT
+Temps restant
+#TIME_COUNTER
+Jours restants
+#DAY_FORMAT
+Jour {0}
+#NOTEBOOK_DAY_SELECT_MSG
+Sélectionnez une icône pour afficher les détails.
+#NOTEBOOK_DAY_EMPTY
+Pas de modifications.
+#NOTEBOOK_COST
+Coût
+#NOTEBOOK_INCOME
+Revenus
+#NOTEBOOK_OUTCOME
+Résultat
+#NOTEBOOK
+Carnet
+#ACT_FORMAT
+Acte {0}
+#PERSON_GROUP_FAMILY
+Amis et famille
+#PERSON_GROUP_AGENTS
+Agents
+#PERSON_GROUP_OTHERS
+Autres
+#NOTEBOOK_SURVIVAL_SCORE_LABEL
+Votre score :

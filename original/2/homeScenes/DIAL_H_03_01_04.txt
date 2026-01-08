@@ -1,0 +1,22 @@
+$DIAL_H_03_01_04_001_ELDERSON
+Père, je voudrais dire quelque chose.
+$DIAL_H_03_01_04_002_JUDGE
+Qu’y a-t-il, mon fils ?
+$DIAL_H_03_01_04_003_ELDERSON
+Je t’ai longtemps détesté. J’ai même pensé qu’il était impossible d’éprouver un mépris plus fort. Mais la nuit de notre enlèvement a tout changé pour moi.
+$DIAL_H_03_01_04_004_JUDGE
+Mon fils…
+$DIAL_H_03_01_04_005_ELDERSON
+En toute sincérité, je croyais qu’il ne nous libérerait pas. Regardant la mort en face, j’ai alors compris que vous n’étiez rien d’autre que des gens malades, dominés par des émotions malsaines.
+$DIAL_H_03_01_04_006_ELDERSON
+Toute une génération incapable de s’affranchir du passé, de pardonner, rongée par la colère. Et c’est nous qui récoltons ce que vous avez semé. Pour ma part, je renonce à la haine, car je ne veux pas être comme vous.
+$DIAL_H_03_01_04_007_JUDGE
+Je peux encore tout arranger.
+$DIAL_H_03_01_04_008_ELDERSON
+Tu ne peux rien arranger du tout. Rien ne s'arrangera tant que vous serez en vie et aigris. Ce n’est que quand vous aurez tous disparu que ma génération pourra rendre le monde meilleur.
+$DIAL_H_03_01_04_009_ELDERSON
+Je ne te déteste plus. Peut-être même qu'un jour je finirai par comprendre pourquoi tu n’as pas cherché à être différent des autres.
+$DIAL_H_03_01_04_010_JUDGE
+J’ai essayé, mais cela est plus facile à dire qu’à…
+$DIAL_H_03_01_04_011_ELDERSON
+Je vais partir bientôt et je chercherai alors la réponse à cette question. Sache que tu ne m’en empêcheras pas.

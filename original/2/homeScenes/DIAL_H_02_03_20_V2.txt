@@ -1,0 +1,32 @@
+$DIAL_H_02_03_20_V2_001_JUDGE
+Je te remercie d'être venu.
+$DIAL_H_02_03_20_V2_002_DAVID
+Comment va-t-il ?
+$DIAL_H_02_03_20_V2_003_JUDGE
+Comme un jeune homme qui n’était pas prêt pour ce qui lui est arrivé.
+$DIAL_H_02_03_20_V2_004_DAVID
+Alexis… Ton frère est venu me voir. Celui-là même que l'on supposait mort.
+$DIAL_H_02_03_20_V2_005_JUDGE
+Jacques...
+$DIAL_H_02_03_20_V2_006_DAVID
+Laisse-moi parler. Le souvenir de notre amitié m'est cher. Nous nous sommes aidés de nombreuses manières, mais je sais à présent que ma loyauté à ton égard m'a conduit à prendre part à de grands maux.
+$DIAL_H_02_03_20_V2_007_JUDGE
+Mon frère est un monstre !
+$DIAL_H_02_03_20_V2_008_DAVID
+Les flots de sang versés par la Révolution nous ont tous changés en monstres. Espérons que nous et tous nos méfaits tomberons dans l'oubli à notre mort.
+$DIAL_H_02_03_20_V2_009_JUDGE
+Tu préfères t'allier à l'assassin de mon fils plutôt qu'à moi ?
+$DIAL_H_02_03_20_V2_010_DAVID
+Grâce à lui, j'ai finalement compris ce que nous avons fait à notre pays en donnant le pouvoir à des ignares armés de haches et de torches. Il faut rétablir un équilibre, et ton frère compte précisément faire cela.
+$DIAL_H_02_03_20_V2_011_JUDGE
+C'est un meurtrier !
+$DIAL_H_02_03_20_V2_012_DAVID
+Comme toi et moi. La seule différence entre lui et nous est que nous serons honorés avec des médailles et des statues. Je ne désire pas ce genre de louanges, souillées du crime et de la duperie. Une dernière chance m'est offerte de changer mon destin.
+$DIAL_H_02_03_20_V2_013_JUDGE
+Que comptes-tu faire ?
+$DIAL_H_02_03_20_V2_014_DAVID
+Je ne sais pas. Je vais probablement quitter Paris tant que cela m'est possible, puis patienter et m'adapter. Sache que ta garde s'est enfuie ce matin. Quant à Ramel… Il s'avère qu'il a toujours été de mèche avec ton frère et a fait ce qu'il fallait pour te mettre dans cette situation.
+$DIAL_H_02_03_20_V2_015_JUDGE
+Vous êtes donc tous des traîtres…
+$DIAL_H_02_03_20_V2_016_DAVID
+Si c'est ta manière de voir les choses, tu es déjà condamné. Adieu, mon ami.

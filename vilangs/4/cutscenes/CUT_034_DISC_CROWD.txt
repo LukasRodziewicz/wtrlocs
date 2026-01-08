@@ -1,0 +1,88 @@
+$CUT_034_DISC_CROWD_001_CROWD
+Sie wollen über uns herrschen!
+$CUT_034_DISC_CROWD_002_CROWD
+Was denken die sich nur?!
+$CUT_034_DISC_CROWD_003_CROWD
+Ich werde meiner Frau später schon zeigen, wer das Sagen hat!
+$CUT_034_DISC_CROWD_004_MAN
+Bereite unser Essen zu und gebäre unsere Kinder!
+$CUT_034_DISC_CROWD_005_MAN
+Keine Frau wird über uns herrschen!
+$CUT_034_DISC_CROWD_006_CROWD
+Vergessen Sie nicht Ihren Platz…
+$CUT_034_DISC_CROWD_007_CROWD
+… oder wir werden nachhelfen!
+$CUT_034_DISC_CROWD_004_JUDGE_AGGR
+Was sie getan haben, ist abscheulich, gerade in diesen Zeiten. Aber wir haben keine Wahl. Wir müssen ihren Forderungen nachgeben. Zumindest vorerst…
+$CUT_034_DISC_CROWD_005_JUDGE_MANI
+Geben Sie es zu, Sie haben damit nicht gerechnet – und ich ebenso wenig! Sie schlugen zu, als wir nicht hinsahen, und jetzt müssen wir uns ihnen beugen.
+$CUT_034_DISC_CROWD_006_JUDGE_JOKE
+Alle Hoffnung ist verloren… Wir müssen ihre Bedingungen akzeptieren.
+$CUT_034_DISC_CROWD_007_JUDGE_HUMI
+Ihrem Verhalten nach zu urteilen, sind sie äußerst entschlossen. Sie werden nicht aufgeben. Dieser Schlag wird nicht der letzte sein, wenn wir ihren Forderungen nicht nachgeben.
+$CUT_034_DISC_CROWD_008_JUDGE_AGGR
+Es ist nur eine Kleinigkeit, Bürger. Gebt es ihnen! Lasst euch nicht von Stolz und Instinkt in die Irre führen. Seid keine Narren!
+$CUT_034_DISC_CROWD_009_JUDGE_MANI
+Denken Sie einen Moment darüber nach – Sie geben ihnen ein wenig Macht, doch gewinnen dafür lebenslange Ruhe.
+$CUT_034_DISC_CROWD_010_JUDGE_JOKE
+Sie werden ihnen ein paar Rechte zugestehen, die angesichts der jüngsten Veränderungen in Frankreich kaum von Bedeutung sind. Es ist kaum mehr als Staub aus den Ruinen der Bastille.
+$CUT_034_DISC_CROWD_011_JUDGE_HUMI
+Ich weiß, dass Ihr Blut in Wallung ist, doch in Wahrheit verlangen sie nicht viel. Diese Zustimmung wird Sie kaum etwas kosten.
+$CUT_034_DISC_CROWD_012_CROWD_DOUB
+Ihr habt eure Argumente, wir haben unsere. Die der Männer. Auf ihnen haben wir unsere Welt errichtet, und wir werden sie nicht einfach so aufgeben.
+$CUT_034_DISC_CROWD_013_CROWD_IRRI
+Hast du schon wieder zu viel getrunken? Du redest, als würden wir unsere Frauen nicht kennen. Wenn wir nachgeben, tanzen sie uns auf der Nase herum!
+$CUT_034_DISC_CROWD_014_CROWD_AGGR
+Gib ihnen den kleinen Finger, und sie reißen dir den Arm aus. Reichst du die Hand, entreißen sie dir gleich das Herz. Weißt du denn nicht, wie Frauen sind?
+$CUT_034_DISC_CROWD_015_JUDGE_AGGR
+Für solche Diskussionen bleibt keine Zeit, Bürger. Der Feind steht auf den Straßen, während ihr darüber nachdenkt, ob eure Frauen es verdienen, nicht länger wie Dienstmägde oder Sklavinnen behandelt zu werden!
+$CUT_034_DISC_CROWD_016_JUDGE_MANI
+Versetzen Sie sich in ihre Lage. Im Gegensatz zu Ihnen haben sie kaum etwas von der Revolution gewonnen, und sie landen genauso oft unter der Guillotine. Wer stand an Ihrer Seite, als Sie die Banner der Revolution trugen? Sie trugen sie gemeinsam mit Ihnen!
+$CUT_034_DISC_CROWD_017_JUDGE_JOKE
+Ist es wirklich so schwer, sich das Schlagen der eigenen Frau abzugewöhnen? Sie sind oft klüger als ihr, also lasst sie doch endlich zu Wort kommen, verdammt!
+$CUT_034_DISC_CROWD_018_JUDGE_HUMI
+Bürger, ihr müsst nachgeben. Frauen verdienen eine bessere Behandlung. Sie haben sich ihren Anteil an der Revolution ebenso verdient wie ihr, meine Herren. Sie haben genug gelitten, um dieses Recht zu erhalten.
+$CUT_034_DISC_CROWD_019_CROWD_DOUB
+Aber wir können sie doch nicht noch besser behandeln.
+$CUT_034_DISC_CROWD_020_CROWD_IRRI
+Wir schuften uns ab, um sie zu ernähren, wir schenken ihnen Kinder. Tun wir nicht schon genug? Man sagt, in wilden Ländern haben es die Frauen noch schwerer und beklagen sich nicht.
+$CUT_034_DISC_CROWD_021_CROWD_AGGR
+Nein, wir waren viel zu nachsichtig mit ihnen. Sie brauchen die Peitsche, damit sie nicht vergessen, wer hier Herr im Haus ist! Dann vergeht ihnen die Lust am Aufbegehren!
+$CUT_034_DISC_CROWD_022_JUDGE_AGGR
+Ohne sie hättet ihr eure Revolution niemals gehabt! Ohne ihre Unterstützung würdet ihr noch immer die Ställe eurer Aristokraten ausmisten, statt jeden Sonnenaufgang zu genießen. Sie standen immer an eurer Seite, doch die Revolution hat ihnen nichts zurückgegeben.
+$CUT_034_DISC_CROWD_023_JUDGE_MANI
+Dank der Revolution haben ihr Männer Gleichheit und Freiheit errungen, doch die Frauen sind im Hintergrund geblieben. Sie stehen uns bei, doch kaum haben wir unser Ziel erreicht, drängen wir sie an den Rand! Ist das wirklich der Umgang, den wir unseren Frauen wünschen?
+$CUT_034_DISC_CROWD_024_JUDGE_JOKE
+In der Tat, wir haben es uns gut eingerichtet. Wir haben der Monarchie die Macht entrissen, sie an uns gerissen, und doch waschen unsere Frauen immer noch unsere schmutzige Unterwäsche.
+$CUT_034_DISC_CROWD_025_JUDGE_HUMI
+Die Revolution hat ihnen wenig gebracht. Sie sind noch immer in Ketten, gefesselt von denen, die sie nur zum Kinderkriegen taugen lassen, obwohl sie ebenso Kriegerinnen und Politikerinnen sein könnten.
+$CUT_034_DISC_CROWD_026_JUDGE_AGGR
+Wollt ihr wirklich in die alte Welt und zu den alten Gewohnheiten zurückkehren? Wenn nicht, dann erinnert euch daran, wie ihr den Slogan „Freiheit. Gleichheit. Brüderlichkeit.“ gerufen habt. Brüderlichkeit, verdammt noch mal! Was sind eure Parolen wert, wenn ihr euch weigert, das, was ihr habt, mit den Frauen zu teilen?
+$CUT_034_DISC_CROWD_027_JUDGE_MANI
+Ihr habt die Gelegenheit, die wahre Kraft der revolutionären Bruderschaft zu zeigen. Nur wenn wir gemeinsam für unsere Freiheit kämpfen, wird der Leitspruch „Freiheit. Gleichheit. Brüderlichkeit.“ wirklich erfüllt.
+$CUT_034_DISC_CROWD_028_JUDGE_JOKE
+Der Wahlspruch „Freiheit. Gleichheit. Brüderlichkeit.“ sind nur noch leere Worte. Gerade in dieser entscheidenden Stunde dürfen wir den Frauen das Letzte – die Brüderlichkeit – nicht verwehren. Tun wir es doch, könnten wir ebenso gut rufen: „Kochen. Putzen. Kinder gebären.“
+$CUT_034_DISC_CROWD_029_JUDGE_HUMI
+Die Welt hat sich gewandelt, Bürger. Wenn ihr diese Veränderungen nur für euch selbst gewollt hättet, hättet ihr dafür sorgen können, dass während der Revolution kein weibliches Blut vergossen wird. Nur wenn wir gemeinsam Seite an Seite kämpfen, können wir unseren Traum von einer wahrhaft revolutionären Brüderlichkeit verwirklichen! Wir sind es ihnen schuldig.
+$CUT_034_DISC_CROWD_030_CROWD_DOUB
+Jetzt bringen Sie uns völlig durcheinander. Was um Himmels willen hat Sie dazu gebracht, mit diesen Hexen zu verhandeln?
+$CUT_034_DISC_CROWD_031_CROWD_IRRI
+Wenn sie so klug sind, dann geben wir ihnen doch Musketen und schicken sie an die Front, was meint ihr? Mal sehen, wie sehr sie noch unsere Gleichheit wollen, wenn sie zusehen müssen, wie ihren Freundinnen die Eingeweide von Bajonetten herausgerissen werden!
+$CUT_034_DISC_CROWD_032_CROWD_AGGR
+Sie sollten doch wissen, was passiert, wenn man Frauen Nachsicht zeigt – unsere eigenen Ehefrauen würden uns beim ersten Anlass abstechen, wenn wir sie lassen! Oder sie vergiften uns! Das werden wir nicht zulassen!
+$CUT_034_DISC_CROWD_033_MAN
+Die Herrschaft der Frauen …
+$CUT_034_DISC_CROWD_034_CROWD
+Sollen sie doch ein Bordell führen – dort können sie herrschen, wie sie wollen.
+$CUT_034_DISC_CROWD_035_CROWD
+Für den Ruhm der neuen Welt!
+$CUT_034_DISC_TOPIC_01
+Wir müssen die Forderungen der Frauen akzeptieren.
+$CUT_034_DISC_TOPIC_02
+Sie verlangen nicht viel.
+$CUT_034_DISC_TOPIC_03
+Sie verdienen eine bessere Behandlung.
+$CUT_034_DISC_TOPIC_04
+Die Revolution sollte allen gleiche Rechte bringen.
+$CUT_034_DISC_TOPIC_05
+Nur eine echte Bruderschaft kann uns den Sieg bringen.

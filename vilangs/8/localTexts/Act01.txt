@@ -1,0 +1,74 @@
+#A01C1_D07_LETTER_MAIN
+O cidadão Capeto foi capturado!
+#A01C2_D09_LETTER_MAIN
+Prezado Cidadão Fidèle,
+Escrevo para parabenizá-lo por se tornar parte da história de nosso país. O julgamento do Cidadão Capet está na boca de todos. Gostaria também de tratar do importante assunto da nomeação do novo Comandante-Chefe da Guarda Nacional, que substituirá o Cidadão Burel. Acredito sinceramente ser o melhor candidato para o cargo. Caso me conceda sua permissão, gostaria de visitá-lo esta noite.
+#A01C2_D09_LETTER_SENDER
+Vida longa à República, François Hanriot
+#A01C2_D13_LETTER_MAIN
+Paris deveria se orgulhar de ter em você um defensor tão implacável da justiça. Nós, deputados da Convenção Nacional, devemos temer por nossos cargos?
+#A01C2_D13_LETTER_SENDER
+Vida longa à República, Robespierre
+#A01C2_D16_LETTER_MAIN
+Caro amigo,
+Soube que você está se recuperando de um terrível atentado contra sua vida. Seu conflito com o ministro Roland levou à mobilização dos girondinos, que desejam tomar o controle da Convenção e, muito provavelmente, restaurar a tirania. Para defender a República, meu grupo gostaria de agir primeiro e prender os líderes do golpe. A lista de suspeitos ainda não está completa, pois ainda não sabemos qual dos Rolands deve ser acusado de tentar assassiná-lo.
+#A01C2_D16_LETTER_SENDER
+Vida longa à República,
+Maximiliano Robespierre
+#A01C2_D17_LETTER_MAIN
+Os capangas dos Rolands executaram a tentativa de assassinato. Pache foi quem pagou. Mas ainda não sei quem planejou tudo isso.
+#A01C2_D17_LETTER_SENDER
+Ramel
+#A01C3_D19_LETTER_MAIN
+A Alexis Fidèle,
+Fui informado de que deseja uma reunião urgente para falar sobre os suspeitos do atentado contra sua vida. Ficarei mais do que satisfeito em discutir o assunto.
+#A01C3_D19_LETTER_SENDER
+Vida longa à República.
+Jean-Nicolas Pache
+#A01C3_D20_NOTE_MAIN
+Marie aproveita qualquer oportunidade para se encontrar com Béatrice Caron. Ela não tem ligação com as ações dos Muscadins, mas… certamente podemos fazer parecer o contrário. É fundamental que tudo pareça uma operação da Guarda. Você não deve se envolver diretamente.
+#A01C2_D13_MAP_LOCKED
+Você está ferido. Só pode observar passivamente as ações dos seus inimigos.
+$LETTER_CO_01_03_16_MAIN
+Prezados Juízes do Tribunal Revolucionário,
+A cada dia, os inimigos da República se multiplicam. Estamos nos esforçando para enfraquecer os traidores, mas, para termos sucesso, o Tribunal precisa agir com mais rapidez e decisão. Chega de sentenças de prisão! Basta de julgamentos intermináveis! Sempre que se depararem com um caso claro e evidente, os investigadores resumirão os autos e, conforme a Lei de 22 Prairial, vocês, Juízes, poderão sentenciar o acusado imediatamente após sua identificação. Nenhum julgamento será necessário.
+$LETTER_CO_01_03_16_SENDER
+Robespierre
+$LETTER_CO_01_03_23_001_TITLE
+Prezado Cidadão,
+$LETTER_CO_01_03_23_001_MAIN
+Tanto como indivíduo quanto como representante da Convenção Nacional, lamento profundamente a morte de seu filho e venho oferecer minhas condolências.
+$LETTER_CO_01_03_23_001_SENDER
+Maximilien Robespierre
+$LETTER_CO_01_03_23_002_TITLE
+Prezado Cidadão,
+$LETTER_CO_01_03_23_002_MAIN
+Não consigo expressar o quanto estou consternado com o terrível crime cometido contra sua família. A França está ao seu lado!
+$LETTER_CO_01_03_23_002_SENDER
+Georges Danton
+$LETTER_CO_01_03_23_003_TITLE
+Amigo,
+$LETTER_CO_01_03_23_003_MAIN
+Quem seria capaz de tamanha atrocidade? Em breve nos veremos, meu amigo.
+$LETTER_CO_01_03_23_003_SENDER
+Jacques-Louis David
+$LETTER_CO_01_03_23_004_TITLE
+Prezado Cidadão,
+$LETTER_CO_01_03_23_004_MAIN
+Em tempos como estes, só nos resta confiar na vontade de Deus. Oramos por sua família.
+$LETTER_CO_01_03_23_004_SENDER
+Jean-Baptiste Gobel
+$LETTER_CO_01_03_23_005_TITLE
+Caro Fidèle,
+$LETTER_CO_01_03_23_005_MAIN
+A Guarda está à sua disposição caso queira revirar Paris inteira para encontrar esses desgraçados. Só um louco atacaria o filho de alguém!
+$LETTER_CO_01_03_23_005_SENDER
+François Hanriot
+$LETTER_CO_01_03_23_006_MAIN
+Já chegaram as primeiras condolências? Tenho certeza de que um dos autores é responsável pelo ataque à sua família.
+$LETTER_CO_01_03_23_006_SENDER
+Ramel
+$LETTER_CO_01_01_05_001
+
+$LETTER_CO_01_01_05_002
+

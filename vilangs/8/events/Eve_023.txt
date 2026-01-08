@@ -1,0 +1,26 @@
+$EVE_023_TITLE
+Escola de Esgrima
+$EVE_023_MAIN_01
+Horace Lavalle, um famoso esgrimista, deseja ensinar sua arte em uma escola particular que será aberta em uma das Seções de Paris. No entanto, nem mesmo os nomes mais ilustres podem garantir que conseguirão satisfazer as “necessidades” financeiras dos funcionários locais. Lavalle procurou você depois que os empregados da Prefeitura exigiram um suborno alto demais para liberar todos os documentos e autorizações necessários. Ele não quer citar nomes, pois não deseja expor os funcionários, mas acredita que o apoio de um juiz será suficiente para convencê-los a aceitar um gesto de gratidão mais modesto e adequado.
+$EVE_023_MAIN_01_C1
+Anunciar seu apoio ao esgrimista
+$EVE_023_MAIN_01_C2
+Ignorar o pedido dele
+$EVE_023_MAIN_02A
+Você aproveitou um momento para redigir uma carta sobre o suborno, as necessidades de Paris e de seus cidadãos, os perigos de uma guerra iminente e a corrupção absolutamente monstruosa dos funcionários públicos. Prometeu perseguir os criminosos que impedem pessoas como Horace Lavalle de trabalhar pela glória da República. Sua mensagem deve ter sido clara o bastante, pois os funcionários nem sequer pediram pagamento por seus “esforços”.
+$EVE_023_MAIN_02B
+Como eu disse, Horace Lavalle é um esgrimista muito famoso, e qualquer parisiense que queira ser influente deve buscar o apoio de pessoas assim. Mas, não, não você. Pois bem, Danton também soube do problema e pagou todos os funcionários que estavam incomodando seu novo amigo. Agora Lavalle deve um favor ao seu rival.
+$EVE_023_MAIN_02B_C1
+Ordene a prisão dos funcionários corruptos
+$EVE_023_MAIN_02B_C2
+Desacreditar o esgrimista
+$EVE_023_MAIN_02B_C3
+Prenda os funcionários e desmoralize o esgrimista
+$EVE_023_MAIN_02B_C4
+Esqueça tudo
+$EVE_023_MAIN_03A
+O dinheiro de Danton vale tanto quanto o de qualquer um, e os funcionários pouco se importavam com quem ajudava a equilibrar seus orçamentos domésticos. Como poderiam imaginar que você buscaria vingança por algo tão humano e banal quanto ser “recompensado” por um trabalho bem feito?
+$EVE_023_MAIN_03B
+Gente como Marat sempre se deleita em julgar tolos que chegaram ao topo jogando sujo. Mas ficam ainda mais satisfeitos em escrever sobre depravados que fazem mal às crianças. Basta um sussurro aqui e outro ali — boatos sobre conduta indecente com menores nunca desaparecem. Nosso respeitado mestre de esgrima agora virou um monstro odiado por todos.
+$EVE_023_MAIN_03C
+Isso sim é agir de forma abrangente. Agora, os oficiais saberão que arriscam enfrentar sua retaliação se aceitarem o dinheiro de Danton no futuro. Logo, os parisienses também descobrirão que o respeitado esgrimista gosta de se encontrar com órfãos nus tentando sobreviver. Você destruirá qualquer um que se coloque em seu caminho. Essa postura exige uma força de caráter extraordinária.

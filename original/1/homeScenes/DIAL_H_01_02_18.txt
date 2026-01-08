@@ -1,0 +1,30 @@
+$DIAL_H_01_02_18_001_JUDGE
+When did you meet my brother, Bruno?
+$DIAL_H_01_02_18_002_SPY
+We served in the same brigade, and I owe him my life. He put himself in danger, dragging me away from the battlefield when I was injured, but was not so lucky himself.
+$DIAL_H_01_02_18_003_WIFE
+We have dedicated far too much time to that man already, both in our thoughts and our stories.
+$DIAL_H_01_02_18_004_JUDGE
+I want to know…
+$DIAL_H_01_02_18_005_GRANDFATHER
+As do I.
+$DIAL_H_01_02_18_006_SPY
+A stray bullet killed him. I never even got the chance to thank him for saving my life. I can assure you that we were friends.
+$DIAL_H_01_02_18_007_SPY
+Your brother pulled me from among the dead and dragged me far from the battlefield. The moment we reached the trees, a stray bullet caught him in the back.
+$DIAL_H_01_02_18_008_SPY
+He died almost immediately and I… deserted. I thought that I should thank you, his blood, and try to pay that debt with my actions.
+$DIAL_H_01_02_18_009_JUDGE
+So Bruno has paid for his sins.
+$DIAL_H_01_02_18_010_GRANDFATHER
+My son…
+$DIAL_H_01_02_18_011_SPY
+He often said, “Alexis, my brother, he is the only thing that matters.” You must have been important to him.
+$DIAL_H_01_02_18_BATTLEROUND_1
+Our rearguard fought with the enemy and lost. Then they invaded the camp where we, the injured, were having our wounds dressed. We had to take up arms.
+$DIAL_H_01_02_18_BATTLEROUND_2
+Your brother fought like crazy, people rallied around him.
+$DIAL_H_01_02_18_BATTLEROUND_3
+We hoped that someone was rushing to the rescue, but deep down we knew they would be too late…
+$DIAL_H_01_02_18_BATTLEROUND_4
+Someone stabbed me with a bayonet. I lay there, bleeding to death, while my friends were dropped by bullets, one after another.

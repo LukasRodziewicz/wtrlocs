@@ -1,0 +1,25 @@
+$EVE_009_TITLE
+Rozkaz to rozkaz
+
+$EVE_009_INTRO
+Wysoki Sądzie, dwie ulice dalej rozgrywa się dramat. Ludzie wołają o sędziego!
+$EVE_009_C00
+Wyjdź na ulicę
+
+$EVE_009_MAIN_01
+Strażnik w pośpiechu prowadzi nas na miejsce zdarzenia. Widzisz tłum – rozkrzyczany i agresywnie nastawiony do kilku żołnierzy, których otacza. Mundurowi uzbrojeni w broń palną próbują odpędzić cywili od dwóch mężczyzn stojących twarzami do cegieł tworzących fragment muru. Na miejscu dowiadujesz się, że komendant François Hanriot zaocznie wydał rozkaz rozstrzelania delikwentów za próbę kradzieży broni z wojskowego transportu. Ludzie domagają się naszego wstawiennictwa i sprawiedliwego sądu. Z drugiej jednak strony nieroztropnie jest kwestionować autorytet komendanta, zwłaszcza że to nasze działania wyniosły go na stanowisko…
+
+$EVE_009_MAIN_01_C1
+Każ rozstrzelać więźniów
+
+$EVE_009_MAIN_01_C2
+Każ uwięzić mężczyzn
+
+$EVE_009_MAIN_02A
+Dziesiątki par oczu wpatrywały się w nas ze zdziwieniem, kiedy żołnierze posłusznie przygotowywali się do strzału. BAM! Dwa męskie ciała upadły bezwładnie na ziemię. Nie ma już czego oglądać, odchodzisz…
+
+$EVE_009_MAIN_02B
+Ludzie kiwają głowami z aprobatą. Skołowani żołnierze ostatecznie zgadzają się wykonać nasze polecenie i odprowadzić więźniów do aresztu. Bądź pewny, że nie obejdzie się bez konsekwencji - nawet jeśli to nie ty będziesz ich sądził. Ktoś musi zapłacić za nadszarpnięcie autorytetu komendanta.
+
+$EVE_009_MAIN_03
+Dotarły do mnie wieści, że w efekcie twojej interwencji w sprawie egzekucji, jeden z żołnierzy został przykładnie rozstrzelany za niewykonanie rozkazu komendanta. Tego rozkazu, którego ty zabroniłeś mu wykonywać. Dwóch innych żołnierzy otrzymało kary cielesne. Twój cichy sojusz z Hanriotem lekko się zachwiał.

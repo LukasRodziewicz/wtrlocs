@@ -1,0 +1,38 @@
+$DIAL_H_01_02_17_001_SPY
+You were unconscious for a long while.
+$DIAL_H_01_02_17_002_JUDGE
+Who is the man who - apparently - saved my life?
+$DIAL_H_01_02_17_003_SPY
+Grégory Ramel. You don’t know me, although I know quite a lot about you. The lady next to me is…
+$DIAL_H_01_02_17_004_JUDGE
+I know Grace Elliott... You were the one who sewed me up?
+$DIAL_H_01_02_17_005_GRACE_ELLIOTT
+It is not my first time saving someone’s life. There are more victims of the Revolution than you think.
+$DIAL_H_01_02_17_006_SPY
+You encroached on Minister Roland’s position, and, more importantly, on the business managed by his enterprising wife. On the establishment from which their allies – Jean-Nicolas Pache, the Mayor of Paris, and Jean-Baptiste Gobel the Archbishop of Paris – got cuts of the profits.
+$DIAL_H_01_02_17_007_JUDGE
+I didn’t know…
+$DIAL_H_01_02_17_008_SPY
+If this information was easy to learn, it means that someone is doing their job poorly.
+$DIAL_H_01_02_17_009_JUDGE
+But you know…
+$DIAL_H_01_02_17_010_SPY
+Yes, because I make my living by learning secrets. Word on the street is that the Girondins are planning to take over the Convention by force. The King’s humiliation and the revealing of the connection between the crowned traitor and Roland, a prominent Girondin, weakened them. This chance might be seized on by the Jacobins, with Robespierre and Danton at the helm. This may be their moment.
+$DIAL_H_01_02_17_011_JUDGE
+I want no part in this – these people are not fooling around.
+$DIAL_H_01_02_17_012_SPY
+I am afraid you have no say in the matter, at least as long as the Rolands are alive. As soon as they learn you survived the attack, they will try again. Your death sentence is already signed.
+$DIAL_H_01_02_17_013_JUDGE
+You seem to know much about me. How? I don’t understand…
+$DIAL_H_01_02_17_014_GRACE_ELLIOTT
+Enough for now. You have to rest, regain your strength. Your wounds…
+$DIAL_H_01_02_17_015_SPY
+I knew your brother…
+$DIAL_H_01_02_17_016_GRACE_ELLIOTT
+Monsieur Grégory!
+$DIAL_H_01_02_17_017_SPY
+You are right. We will speak of this another time.
+$DIAL_H_01_02_17_018_JUDGE
+I have yet to thank you for…
+$DIAL_H_01_02_17_019_SPY
+You will have another chance.

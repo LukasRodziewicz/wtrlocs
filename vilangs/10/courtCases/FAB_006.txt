@@ -1,0 +1,260 @@
+$FAB_006_DOC_01_HEADER
+Hazırlayan: Fabrice Poli
+$FAB_006_DOC_01_00
+Paris Belediye Başkanı'nın kızı Marie-Sylvie Pache, Béatrice Caron'un <a name="1" class="hidden">soğukkanlılıkla öldürülmesi</a> suçuyla itham ediliyor.
+$FAB_006_DOC_01_01
+Tutuklama, sanığın mağdurla defalarca cinsel ilişkiye girdiği iddia edilen rue Saint-Maur’daki <a name="2" class="hidden">terk edilmiş bir evde</a> gerçekleştirildi. Bu kulübe, gizli buluşmalar için fazlasıyla elverişliydi. Gözaltı, Yargıç Fidèle’in bizzat yardımıyla yapıldı. Muhafızın ifadesine göre, sanık, öldürülenin üzerinde, cinayet silahı olduğu tespit edilen kanlı bir <a name="4" class="hidden">mutfak bıçağı elinde</a> dururken bulundu. Sanık, tutuklanırken <a name="5" class="hidden">hiçbir direnç göstermedi</a>.
+$FAB_006_DOC_01_02
+Soruşturmacılar, sanık ile mağdurun uzun zamandır birbirlerini tanıdıklarını tespit etti. Sık sık birlikte görülmüşler, ancak sanığın tanıdıkları, onun babasının mevkiini ya da hatta <a name="7" class="hidden">gerçek adını</a> öne çıkarmaktan kaçındığını söylüyor. Öte yandan Béatrice, sanık yokken, iddiaya göre... affınıza sığınıyorum, sayın yargıç, sanıkla <a name="8" class="hidden">“sık sık yattığıyla”</a> övünüyormuş. Bunun genç bir kızın boş gevezeliği olduğunu düşünüyorum. Yine de öğrendiğim her şeyi aktarıyorum.
+$FAB_006_DOC_01_03
+Bu davada pek çok varsayım ve dedikodu var. Béatrice’in Muscadinlerle bazı bağlantıları olmuş, fakat onlardan kayda değer hiçbir bilgi edinemedik. Söylentilere göre, o da bu serseri güruhu gibiymiş: genç, asi, otoriteye saygısız ve aklı başında gençleri yoldan çıkaran biri. Aynı zamanda kendisine halkın savunucusu deme hakkını da gasp etmiş. Béatrice, tam anlamıyla bir Muscadin’di ve görünen o ki sanık da onun yolundan gitmek istemiş.
+$FAB_006_DOC_02_TOOLTIP
+Şantajcının mektubu
+$FAB_006_DOC_02_00
+Marie, senin dünyan tarafından ihanete uğradım. Artık bir hainim, bir Avusturyalı kaltak oldum ve <a name="9" class="hidden">birisi benim utancımın ve acımın bedelini ödemeli</a>. O kişi sensin. Akşam bizim yere <a name="10" class="hidden">3.000 frank</a> ile gel. Gelmezsen, herkese senin de bir casus olduğunu anlatırım ve sen de benim gibi hain bir orospu olarak anılırsın.
+$FAB_006_OnStart_00
+Birçoğunuz bu yüzü zaten tanıyor olsa da, sanıktan kendini tanıtmasını rica ediyorum.
+$FAB_006_OnStart_01
+Marie-Sylvie Pache, kızı–
+$FAB_006_OnStart_02
+Evet, biliyoruz.
+$FAB_006_OnGuilty_00
+Marie-Sylvie Pache’yi cinayet suçundan idama mahkûm ediyorum.
+$FAB_006_OnGuilty_01
+En başından belliydi.
+$FAB_006_OnGuilty_02
+Ona hiç acımıyorum.
+$FAB_006_OnGuilty_03
+Bir adam bulsaydı, her şey bambaşka olurdu.
+$FAB_006_OnPrison_00
+Marie-Sylvie Pache, suçu işlediğinizden hiç şüphem yok. Sizi hapis cezasına çarptırıyorum ve gösterdiğimiz hoşgörüyü takdir edeceğinizi umuyorum.
+$FAB_006_OnPrison_01
+Açıkçası, onun giyotine gitmemesi için bir sebep göremiyorum.
+$FAB_006_OnPrison_02
+Belki hapiste biri ona doğru yolu gösterebilir.
+$FAB_006_OnNotGuilty_00
+İfadenizi dinledim ve sizi suçsuz buluyorum.
+$FAB_006_OnNotGuilty_01
+Ama onu suçüstü yakalayan bizzat sizdiniz!
+$FAB_006_OnNotGuilty_02
+Ne?
+$FAB_006_OnNotGuilty_03
+Neden?
+$FAB_006_OnNotGuilty_04
+Hakim zaten erkeklerden hoşlanıyor, bu yüzden ona arka çıkıyor.
+$FAB_006_01x02_00_QTitle
+Neden kurbanınızı öldürmek için özellikle burayı seçtiniz?
+$FAB_006_01x02_00_00
+Mağdurunuzu öldürmek için neden özellikle burayı seçtiniz?
+$FAB_006_01x02_00_01
+Yeri ben seçmedim, Béatrice seçti... Ve kimseyi öldürmek gibi bir niyetim yoktu.
+$FAB_006_01x02_00_02
+Orada suça tanık olacak kimse olmazdı.
+$FAB_006_01x02_00_03
+Orada her buluştuğumuzda bir suç işlenirdi – uygunsuz bir birliktelik, bedenlerin ve arzunun suçu. Tanık olmamasına güvenirdik.
+$FAB_006_01x02_00_04
+Yani, gerçekten de... şey.
+$FAB_006_01x05_01_QTitle
+Tutuklanırken hiç direnmediniz. Neden bu kadar sakindiniz?
+$FAB_006_01x05_01_00
+Tutuklanırken hiçbir direnç göstermediniz. Neden bu kadar sakindiniz?
+$FAB_006_01x05_01_01
+Ne yaptığımı biliyorum ve hiçbir şeyi inkâr etmiyorum.
+$FAB_006_01x05_01_02
+Ve böyle bir suçun cezasının ölüm olacağının farkındasınız, değil mi? Belki de kendinizi kurtarmayı denemeliydiniz?
+$FAB_006_01x05_01_03
+Ailemin itibarı, babama yöneltilen bu suçlamalarla zaten lekelendi. O kişi ki… Béatrice’in bir şantajcı olduğu ortaya çıktı. Neyi kurtaracaktım? Hayatımı mı? Hangi hayatı?!
+$FAB_006_01x05_01_04
+Yani, ailenize zarar verdiği için bu kadını soğukkanlılıkla öldürdünüz mü?
+$FAB_006_01x05_01_05
+İnkâr bile etmiyor. Ne aptal!
+$FAB_006_01x06_02_QTitle
+İyi bir dostu öldürdünüz.
+$FAB_006_01x06_02_00
+İyi bir dostu öldürdünüz.
+$FAB_006_01x06_02_01
+Bıçak, ona da bir yabancıya saplandığı gibi saplandı.
+$FAB_006_01x06_02_02
+Hiçbir duygu belirtisi olmadan konuşuyorsunuz. Bu nasıl mümkün olabilir?
+$FAB_006_01x06_02_03
+Béatrice’in mektubunu aldığımda, kalbim buz kesti ve dünyanın gerçek yüzünü gördüm: ihanet, bencillik, acımasızlık.
+$FAB_006_01x06_02_04
+Genç, zengin ve akılsız.
+$FAB_006_02x07_03_QTitle
+Buluşmalarınız için işgal ettiğiniz evin sahibi geri dönseydi ne olurdu?
+$FAB_006_02x07_03_00
+Buluşmalarınız için işgal ettiğiniz evin sahibi geri dönseydi ne olurdu?
+$FAB_006_02x07_03_01
+Evi biz almadık, böyle bir iddia saçmalık.
+$FAB_006_02x07_03_02
+Belediye başkanının kızı gücünü göstermek istedi. Ne kadar aristokratça.
+$FAB_006_02x07_03_03
+Ben bir aristokrat değilim, halktan geliyorum. Paris’in yoksul Yurttaşları, onlara gerçekten değer verdiğimi gördükleri için beni kendilerinden biri olarak kabul ettiler.
+$FAB_006_02x07_03_04
+Sizi kabul ettiler, çünkü önemli birinin kızı olduğunuzu bilmiyorlardı.
+$FAB_006_02x07_03_05
+Belki de haklısınız, Savcı Tinville. Gerçekten de hayatımın ve hayallerimin bu kadar zavallı olması mümkün.
+$FAB_006_02x07_03_06
+Evi sırf ne kadar önemli biri olduğunu herkese göstermek için tuttu!
+$FAB_006_02x07_03_07
+Sadece gevezelik ediyorsun...
+$FAB_006_02x04_04_QTitle
+Bıçağı nereden aldınız?
+$FAB_006_02x04_04_00
+Bıçağı nereden aldınız?
+$FAB_006_02x04_04_01
+Bazen acıktığımızda ekmek kesmemiz gerekiyordu. Daha önce oraya ben getirmiştim, öylece duruyordu.
+$FAB_006_02x04_04_02
+Bu suçu önceden planladınız mı?
+$FAB_006_02x04_04_03
+Hayır… Dedim ya… Kimse beni dinlemiyor mu? Evden mutfak bıçağını aldığımı söyledim, çünkü–
+$FAB_006_02x04_04_04
+Bahse girerim hepsi gümüştendi! Duyduğuma göre belediye başkanı zengin bir adammış.
+$FAB_006_02x04_04_05
+Benim söylediklerimin ne önemi var ki, eğer sözlerime kulaklarınızı kapattıysanız?
+$FAB_006_02x04_04_06
+Avusturyalı kaltak!
+$FAB_006_02x04_04_07
+Tribad! Sapık!
+$FAB_006_02x04_04_08
+Halkı aşağılamaya cüret etmeyin!
+$FAB_006_04x05_05_QTitle
+Tutuklama sırasında cinayet silahını bana siz verdiniz.
+$FAB_006_04x05_05_00
+Tutuklama sırasında cinayet silahını bana siz verdiniz.
+$FAB_006_04x05_05_01
+Onu doğru kişiye verdim.
+$FAB_006_04x05_05_02
+Lütfen açıklayın.
+$FAB_006_04x05_05_03
+Bıçağı şehrin baş celladına teslim ettim. Aleti aslında kendisi için olduğunu bilen bir adama. Ölümümden sonra bile kan kokusunu duyacak.
+$FAB_006_04x05_05_04
+O kadına yapılan rezillikler aklını karıştırdı!
+$FAB_006_04x05_05_05
+Sözlerimi unutmayacaksınız, Yargıç Fidèle – bu bıçak bir gün sizi de bulacak.
+$FAB_006_04x05_05_06
+Sanık, yargıcı korkutmaya çalışıyor!
+$FAB_006_06x08_06_QTitle
+Mağdurla ne kadar süre boyunca yakın bir ilişkiniz oldu?
+$FAB_006_06x08_06_00
+Mağdurla ne kadar süredir yakın bir ilişkiniz vardı?
+$FAB_006_06x08_06_01
+Bir yıl boyunca. Bu başladı–
+$FAB_006_06x08_06_02
+Bu sapkın saçmalıkları dinlemek zorunda mıyız?
+$FAB_006_06x08_06_03
+Sanığın kendini savunma hakkı vardır. Eğer onun ifadesi size fazla geliyorsa, Savcı Tinville, bu davayı tek başıma sonuçlandırabilirim.
+$FAB_006_06x08_06_04
+Ben kalacağım.
+$FAB_006_06x08_06_05
+Sanıktan devam etmesini rica ediyorum.
+$FAB_006_06x08_06_06
+Başladı... Hayır, duygularımı doğaya aykırı görenlerin önünde açmak istemiyorum. Zaten beni bir hayvana benzettiniz.
+$FAB_006_06x08_06_07
+Tanıklığınız yardımcı olabilir–
+$FAB_006_06x08_06_08
+Evet, Béatrice’i ben öldürdüm çünkü ben sapkın bir canavarım. Bir ucubeyim! Duymak istediğiniz bu muydu?
+$FAB_006_06x08_06_09
+Aynen öyle, canavar!
+$FAB_006_03x07_07_QTitle
+Toplantınızdan nasıl haberdar olduğumu biliyor musunuz?
+$FAB_006_03x07_07_00
+Toplantınızı nasıl öğrendiğimi biliyor musunuz?
+$FAB_006_03x07_07_01
+Bunu hapishane hücresinde düşünmeye başlamıştım.
+$FAB_006_03x07_07_02
+Béatrice Caron, Avusturya casusu olduğunu ve sizinle yalnızca babanızı gözetlemek için iletişimde kaldığını ifade etti.
+$FAB_006_03x07_07_03
+Bu saçmalık.
+$FAB_006_03x07_07_04
+Gerçeği kabullenmek kolay değildir.
+$FAB_006_03x07_07_05
+Duygularımızı basit bir siyasi oyuna çevirmeye çalışıyorsunuz. Oysa aşk bambaşka bir yerde durur.
+$FAB_006_03x07_07_06
+İğrenç.
+$FAB_006_03x07_07_07
+Birbirlerini öyle çok seviyorlardı ki, sonunda biri diğerini öldürdü.
+$FAB_006_03x07_07_08
+Asıl iğrenç olan sizsiniz – siz ve dar dünyanız. Devrim, ne aklınızı, ne kalbinizi, ne de ruhunuzu açmayı başarabildi.
+$FAB_006_10x09_08_QTitle
+Béatrice’den mektubu aldığınızda neler hissettiniz, lütfen anlatın.
+$FAB_006_10x09_08_00
+Béatrice’den mektubu aldığınızda neler hissettiniz, lütfen anlatın.
+$FAB_006_10x09_08_01
+Kalbim kırıldı.
+$FAB_006_10x09_08_02
+Demek ki, motivasyonun doğruluğu kesinleşti.
+$FAB_006_10x09_08_03
+Gerçekten de olağanüstü birer araştırmacısınız. Sonunda, en başından beri size anlattığım şeyi kavradınız. Béatrice bana çok değerliydi, tıpkı–
+$FAB_006_10x09_08_04
+Bunu yüksek sesle söylemesine izin verme!
+$FAB_006_10x09_08_05
+Lütfen, ayrıntılara girmeyin.
+$FAB_006_10x09_08_06
+Elbette, çünkü o kutsal kalpleriniz iki kadının birlikte olma fikrine dayanamaz. Hani nerede sizin o özgürlüğünüz ve eşitliğiniz?
+$FAB_006_10x07_09_QTitle
+Sizce, mağdur talep ettiği parayı ne amaçla harcamak istemiş olabilir?
+$FAB_006_10x07_09_00
+Sizce, mağdur talep ettiği parayı ne amaçla harcayacaktı?
+$FAB_006_10x07_09_01
+Bilmiyorum, para hakkında pek konuşmadık. Acıdan bahsettik. Daha çok benim acımdan.
+$FAB_006_10x07_09_02
+Görünüşe göre kurbanı çok iyi tanıyordunuz.
+$FAB_006_10x07_09_03
+Para hakkında konuşmadık, birlikte bir gelecek planlamadık – herkes bunun imkânsız olduğunu bilir…
+$FAB_006_10x07_09_04
+Hem de daha iyi!
+$FAB_006_10x07_09_05
+Defolup gitsin bu rezillik!
+$FAB_006_10x07_09_06
+Gördüğünüz gibi…
+$FAB_006_10x07_09_07
+O para muhtemelen Fransa’daki Avusturya casus ağını daha da güçlendirmek için kullanılacaktı.
+$FAB_006_10x07_09_08
+Neden böyle düşündünüz?
+$FAB_006_10x07_09_09
+Burada soruları soran siz değilsiniz.
+$FAB_006_KEY_01
+Soğukkanlı bir cinayet
+$FAB_006_KEY_02
+Terkedilmiş ev
+$FAB_006_KEY_03
+Hakimin yardımı
+$FAB_006_KEY_04
+Elinde bıçak
+$FAB_006_KEY_05
+Direniş yok
+$FAB_006_KEY_06
+Birbirlerini tanıyorlardı
+$FAB_006_KEY_07
+Kimliğini gizleme
+$FAB_006_KEY_08
+Onların yakın ilişkisi
+$FAB_006_KEY_09
+Şantaj
+$FAB_006_KEY_10
+3.000 frank
+$FAB_006_LastDialog_00
+Neden bana öyle bakıyorsun? Burada bir zafer mi görüyorsun?
+$FAB_006_UNIQUE_QUESTION_00
+Muskadenler sanığı tanımadı mı? Neden?
+$FAB_006_UNIQUE_ANSWER_CORRECT_00_00
+Gerçek soyadını gizlemişti.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Onu tanıdılar, ama umursamadılar.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Sanık ustaca kalabalığa karıştı.
+$FAB_006_UNIQUE_QUESTION_01
+Sanık, mağdurla cinsel ilişkiye girdiğini doğruladı mı?
+$FAB_006_UNIQUE_ANSWER_CORRECT_01_00
+Evet.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Hayır.
+$FAB_006_UNIQUE_QUESTION_02
+Sanık cinayet silahını nereden temin etti?
+$FAB_006_UNIQUE_ANSWER_CORRECT_02_00
+Bunu evinden getirdi.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ona bunu Avusturyalı casuslar verdi.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Toplantıdan hemen önce, onu pazardan aldı.

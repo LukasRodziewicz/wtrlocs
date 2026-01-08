@@ -1,0 +1,55 @@
+$DISC_INTR_003_B08_ELLIOTT_001_JUDGE
+Sprawa Gobela… To wszystko wydarzyło się nagle. Brak reakcji z naszej strony wzbudzi podejrzenia.
+$DISC_INTR_003_B08_ELLIOTT_002_ELLIOT
+Że jesteśmy po stronie krętaczy i zdrajców?
+$DISC_INTR_003_B08_ELLIOTT_003_JUDGE
+Zgadza się.
+$DISC_INTR_003_B08_ELLIOTT_004_JUDGE_AGGR
+Nie panujemy już nad tym, co się dzieje na ulicy. Ten chaos może się obrócić przeciw każdemu, a nie możemy tak po prostu pacyfikować tłumów.
+$DISC_INTR_003_B08_ELLIOTT_005_JUDGE_MANI
+Sytuacja wymknęła się spod kontroli. Wczoraj pobili dziewczynę, bo myśleli, że jest szpiegiem powstańców. Kto wie, kogo dopadną jutro – mnie, może ciebie…
+$DISC_INTR_003_B08_ELLIOTT_006_JUDGE_JOKE
+Póki rzucali w losowych ludzi popsutymi pomidorami, to jeszcze było do zniesienia. Teraz chodzą z drewnianymi kijami. Nie wiem, ja się boję.
+$DISC_INTR_003_B08_ELLIOTT_007_JUDGE_HUMI
+Wiem, że przysięgałem służyć ludowi i bronić wolności, ale nasi obywatele chyba przesadzają z korzystaniem z niej…
+$DISC_INTR_003_B08_ELLIOTT_008_ELLIOT_SATI
+Czuję gniew społeczeństwa za każdym razem, kiedy idę przez targ. Ziemia drży, chcą się mścić, ale nie wiedzą na kim.
+$DISC_INTR_003_B08_ELLIOTT_009_ELLIOT_INTR
+Samo się nie stało, ale mów dalej.
+$DISC_INTR_003_B08_ELLIOTT_010_ELLIOT_DOUB
+Jak by na to nie patrzeć, to brałeś w tym udział. Masz ponoć jakieś zatargi z Gobelem.
+$DISC_INTR_003_B08_ELLIOTT_011_JUDGE_AGGR
+Gobel wszystko pogorszył! Jeśli już miał taką tajemnicę, to powinien zadbać, by nie wyszła na jaw. Jak mógł tak wpaść, jak dziecko?!
+$DISC_INTR_003_B08_ELLIOTT_012_JUDGE_MANI
+Obecność Gobela, jeśli plotki o nim okażą się prawdą, tylko pogarsza sytuację. Nie chcemy chyba, żeby ludzie zaczęli podejrzewać, że cała władza jest zdeprawowana? To dotyczy zarówno mnie, jak i twoich przyjaciół w Konwencie. 
+$DISC_INTR_003_B08_ELLIOTT_013_JUDGE_JOKE
+Gobel wpadł jak śliwka w kompot. W najgorszy moment. Może to zemsta papieża? Bóg w końcu wysłuchał jego modlitw o karę dla arcybiskupa za to, że jest konstytucyjny, a nie z nadania Rzymu…
+$DISC_INTR_003_B08_ELLIOTT_014_JUDGE_HUMI
+Nie chcę wydawać wyroków zaocznie, ale wydaje się, że gniew społeczeństwa odsłonił od dawna skrywane tajemnice, jak ta arcybiskupa Gobela. Może trzeba się tym zająć?
+$DISC_INTR_003_B08_ELLIOTT_015_ELLIOT_SATI
+Nigdy go nie lubiłam. Chodziły plotki, że maczał palce w handlu niewolnikami, ale to nic pewnego.
+$DISC_INTR_003_B08_ELLIOTT_016_ELLIOT_INTR
+Zarzucasz sieci na grube ryby. Co proponujesz?
+$DISC_INTR_003_B08_ELLIOTT_017_ELLIOT_DOUB
+Gobel to nie handlarz rybami – nie podda się łatwo, nawet jeśli będziesz miał za sobą tłum.
+$DISC_INTR_003_B08_ELLIOTT_018_JUDGE_AGGR
+Nie możemy płacić wszyscy za zachowanie jednej grupy. Kościół kłamstwami i degeneracją sam zapracował na gniew obywateli. Odetnijmy go i żyjmy dalej. W spokoju.
+$DISC_INTR_003_B08_ELLIOTT_019_JUDGE_MANI
+Wściekły tygrys powinien dostać ofiarę, którą rozszarpie. Nie będzie zwracał wtedy uwagi na rzeczy wokół i będziemy mogli żyć w spokoju. A skoro tygrys zaostrzył pazury na kler…
+$DISC_INTR_003_B08_ELLIOTT_020_JUDGE_JOKE
+Rozwój sytuacji nie pozostawia nam wyjścia. Chcą kleru, to dajmy im go. Oskarżają kler o zdradę kraju – wtórujmy im. Proste i praktyczne.
+$DISC_INTR_003_B08_ELLIOTT_021_JUDGE_HUMI
+Jestem przeciw krzywdzeniu instytucji Kościoła – ona krzywdzi się sama. Rękami ludzi zdegenerowanych, których obywatele przeklinają. Musimy się odciąć od całej grupy. Dla wspólnego dobra.
+$DISC_INTR_003_B08_ELLIOTT_022_ELLIOT_SATI
+Masz moje poparcie, pociągnę za kilka sznurków i kilku przyjaciół w Konwencie.
+$DISC_INTR_003_B08_ELLIOTT_023_ELLIOT_INTR
+Jeśli taki ruch miałby ostudzić gorące głowy, to jestem za. Spokój na ulicach jest ważniejszy niż jeden arcybiskup. 
+$DISC_INTR_003_B08_ELLIOTT_024_ELLIOT_DOUB
+Wolałabym nie porywać się na Gobela, mając wątpliwości co do twoich faktycznych intencji. Przykro mi.
+
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_01
+Sytuacja na ulicy wymyka się spod kontroli.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_02
+Sprawa Gobela dolała oliwy do ognia.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_03
+Trzeba kogoś przykładnie ukarać, a ludzie chcą dopaść kler.

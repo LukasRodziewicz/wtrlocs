@@ -1,0 +1,64 @@
+$TCUT_023_001_RENARD
+Agradeço por aceitar nosso convite.
+$TCUT_023_002_JUDGE
+É por isso que todos odeiam os aristocratas. Eu realmente não senti que tinha escolha.
+$TCUT_023_003_RENARD
+Justo. De qualquer forma, obrigado.
+$TCUT_023_004_JUDGE
+Que bela residência. Fico feliz que todo aquele dinheiro de tributo não tenha sido desperdiçado.
+$TCUT_023_005_JUDGE
+Por que estou aqui?
+$TCUT_023_006_RENARD
+Queríamos que você conhecesse aqueles que são perseguidos apenas por sua origem.
+$TCUT_023_007_RENARD
+Os ricos estão sendo oprimidos assim como os pobres foram no passado.
+$TCUT_023_008_JUDGE
+A aristocracia se esforçou bastante para ser tratada assim.
+$TCUT_023_009_JUDGE
+Todos têm um motivo para odiar você.
+$TCUT_023_010_RENARD
+De novo os mesmos slogans de propaganda.
+$TCUT_023_011_RENARD
+Quando terminarmos essa Revolução, podemos matar todos que agora tentam se livrar de nós?
+$TCUT_023_012_JUDGE
+Boa sorte. Talvez você encontre aqueles que mataram meu filho.
+$TCUT_023_014_RENARD
+Devo admitir que não estávamos totalmente certos se deveríamos participar desse assassinato, mas a proposta era simplesmente irresistível.
+$TCUT_023_015_JUDGE
+O que isso quer dizer?
+$TCUT_023_016_RENARD
+Pessoalmente, acho que nosso parceiro disfarçado superestima você.
+$TCUT_023_017_RENARD
+Ainda assim, ele deseja cooperar com um juiz do Tribunal.
+$TCUT_023_018_RENARD
+Ele também nos assegurou que não pretende matar nenhum outro membro da sua família.
+$TCUT_023_019_JUDGE
+Ele matou meu filho?! Foi você quem fez isso?!
+$TCUT_023_020_RENARD
+Veja o quão poderosos nos tornamos nós, os nobres, desde que vocês nos forçaram a nos unir.
+$TCUT_023_021_RENARD
+Vamos jogar uma única partida de dados, você e eu.
+$TCUT_023_022_RENARD
+Vamos apostar o destino do homem que traiu sua família e nos ajudou a matar seu filho…
+$TCUT_023_MINIGAME_YES_001_JUDGE
+Muito bem, vamos jogar.
+$TCUT_023_MINIGAME_YES_002_RENARD
+Isso sim é espírito de luta. Gosto de ver isso!
+$TCUT_023_MINIGAME_NO_001_JUDGE
+Não vou participar dos seus jogos, Renard.
+$TCUT_023_MINIGAME_NO_002_RENARD
+Você é tão fraco e medíocre quanto seu pai.
+$TCUT_023_MINIGAME_ROUND_01_COMM
+Nosso amigo mascarado estava tomado pela fúria. Ele nos ofereceu um acordo bastante lucrativo em troca da nossa ajuda. Aceitamos.
+$TCUT_023_MINIGAME_ROUND_02_COMM
+Um homem perigoso e ferido. Recusá-lo seria imprudente.
+$TCUT_023_MINIGAME_ROUND_03_COMM
+Para mandar matar seu filho, ele usou informações obtidas de uma pessoa que nós mesmos indicamos. De um homem com quem já colaboramos. Que tolo.
+$TCUT_023_MINIGAME_ROUND_04_COMM
+Trazemos a cabeça dele numa bandeja. Será um sinal da nossa boa vontade, e a prova de que é sábio ser nosso aliado.
+$TCUT_023_MINIGAME_ROUND_05_COMM
+Os aristocratas voltarão à cidade a qualquer momento, cheios de orgulho, e todos que não estiverem ao nosso lado serão punidos.
+$TCUT_023_MINIGAME_JUDGE_WON
+Você venceu. Cumpriremos nossa promessa — a cabeça do traidor será sua. E Paris... bem, Paris não ficará nada contente.
+$TCUT_023_MINIGAME_JUDGE_LOST
+Cedo ou tarde, todo jogador percebe que não tem controle algum. Ele apenas assiste, impotente, enquanto o tempo o empurra para a derrota. Um acordo é um acordo. Você perdeu, então não vamos lhe contar nada. E Paris... Paris terá o que merece.

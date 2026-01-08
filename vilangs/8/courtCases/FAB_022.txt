@@ -1,0 +1,166 @@
+$FAB_022_DOC_01_HEADER
+Compilado por: Fabrice Poli
+$FAB_022_DOC_01_00
+Nestes tempos difíceis, Germaine de Staël foi presa, acusada de assédio, conspiração contra a França e, o mais repugnante de tudo, corrupção e abuso de crianças.
+$FAB_022_DOC_01_01
+A acusação de conspiração possui fundamentos sólidos. A ré pertence à alta sociedade, sendo filha do ex-ministro das finanças Necker, que ocupou o cargo sob o regime real. Cercada por pessoas esclarecidas desde a infância, já adulta abriu seu próprio salão político, onde recebia dignitários estrangeiros que visitavam seu pai durante a estadia em Paris. Foi nesses debates políticos, frequentados pelos “melhores” cidadãos de Paris, que ela supostamente os convenceu a colaborar com potências estrangeiras.
+$FAB_022_DOC_01_02
+O salão político também foi palco de diversas abominações das quais a ré participou. Em primeiro lugar, ela foi acusada de <a name="3" class="hidden">comportamento impróprio</a> em relação aos homens. Dizem que assediava seus convidados, inclusive tentando forçá-los a <a name="4" class="hidden">relações sexuais</a>.
+$FAB_022_DOC_01_03
+No entanto, nossas suspeitas também envolvem o abuso de <a name="5" class="hidden">meninos jovens</a>. A ré costumava se aliviar dessa forma após um dia repleto de debates com adultos. Preferindo aqueles de cabelos claros, suas vítimas estavam entorpecidas e alheias à situação, sendo que alguns desses meninos teriam a visitado diversas vezes.
+$FAB_022_DOC_01_04
+Todas as informações que possuímos foram obtidas graças a uma testemunha que conhece bem a ré. Falamos de Grace Elliott, prostituta e suposta espiã. Ela foi presa no auge do terror de Robespierre e concordou em depor em troca de sua liberdade.
+$FAB_022_OnStart_00
+Por favor, apresente-se.
+$FAB_022_OnStart_01
+Você já sabe meu nome, então vamos terminar com isso rapidamente.
+$FAB_022_OnStart_02
+Deseja ser guilhotinado imediatamente?
+$FAB_022_OnStart_03
+Vá em frente. Estou curioso para ver como você vai explicar isso ao povo.
+$FAB_022_OnGuilty_00
+Madame de Staël, você está condenada à guilhotina!
+$FAB_022_OnGuilty_01
+Matem a vadia!
+$FAB_022_OnGuilty_02
+Um dia você pagará por sua traição…
+$FAB_022_OnNotGuilty_00
+Madame de Staël, a senhora está inocente e pode ir embora.
+$FAB_022_OnNotGuilty_01
+Então não vai ter espetáculo hoje?
+$FAB_022_OnNotGuilty_02
+Acha que isso vai resolver as coisas entre nós?
+$FAB_022_01x03_00_QTitle
+No alto escalão, o assédio contra homens é considerado aceitável?
+$FAB_022_01x03_00_00
+O assédio de homens é considerado aceitável entre a elite?
+$FAB_022_01x03_00_01
+O assédio não deve ser tolerado em lugar algum, especialmente entre a elite. Certamente não concordo nem incentivo esse tipo de conduta.
+$FAB_022_01x03_00_02
+Preciso admitir que sempre achei que apenas homens assediavam mulheres, e não o contrário. Você mudou minha visão.
+$FAB_022_01x03_00_03
+E eu achava que o promotor público não podia ser um idiota, mas Tinville, você me fez mudar de ideia.
+$FAB_022_01x03_00_04
+Pare imediatamente com esse discurso difamatório!
+$FAB_022_01x03_00_05
+Não tenho qualquer relação com assédio de qualquer tipo. Provavelmente alguém quis se engrandecer.
+$FAB_022_01x03_00_06
+Você está sugerindo que homens se vangloriariam dizendo que uma corruptora de menores tentou levá-los para a cama?
+$FAB_022_01x03_00_07
+Acha que vai me quebrar? Ninguém consegue derrotar nós, mulheres!
+$FAB_022_01x03_00_08
+A guilhotina não poupa ninguém.
+$FAB_022_01x04_01_QTitle
+Você organizou salões políticos ou orgias para a elite?
+$FAB_022_01x04_01_00
+Você organizou salões políticos ou orgias para a elite?
+$FAB_022_01x04_01_01
+Gostaria de confessar.
+$FAB_022_01x04_01_02
+Enfim, uma voz sensata. Estamos ouvindo.
+$FAB_022_01x04_01_03
+Gostaria de testemunhar que um frequentador assíduo dessas orgias era o juiz Alexis Fidèle, presente aqui hoje.
+$FAB_022_01x04_01_04
+Como é que é? Que tipo de acusação é essa?!
+$FAB_022_01x04_01_05
+Não é pior nem melhor do que as acusações que você lança contra mim. Então sim, este é meu testemunho: o Juiz aqui participou de orgias. Ele queria ter mais de uma pessoa ao mesmo tempo – meninos, meninas, e uma vez até uma cabra!
+$FAB_022_01x04_01_06
+Você faz piada quando sua vida está em jogo?
+$FAB_022_01x04_01_07
+Este julgamento inteiro é uma farsa! Vocês querem me condenar só porque tive coragem de lutar pelos direitos das mulheres.
+$FAB_022_02x03_02_QTitle
+Você sempre recorre à chantagem quando precisa de aliados?
+$FAB_022_02x03_02_00
+Você sempre recorre à chantagem quando procura aliados?
+$FAB_022_02x03_02_01
+Nunca chantageei ninguém, mas agora estou sendo chantageada por motivos puramente políticos.
+$FAB_022_02x03_02_02
+Como assim?
+$FAB_022_02x03_02_03
+Pedi apoio para a Declaração dos Direitos da Mulher. Em vez disso, fui presa e trazida para cá após uma acusação terrível, inventada apenas para me difamar publicamente.
+$FAB_022_02x03_02_04
+As provas foram coletadas pelos investigadores, não pelo tribunal.
+$FAB_022_02x03_02_05
+Então, ao que parece, informaram a eles qual acusação seria mais odiada pelo público, e depois apresentaram provas para confirmá-la.
+$FAB_022_02x03_02_06
+Devemos confiar apenas na sua palavra?
+$FAB_022_02x03_02_07
+Eu tinha uma reputação impecável, e de repente você surge com essa acusação de que abuso de crianças para meu próprio prazer? Você só quer me forçar a abandonar minha–
+$FAB_022_02x03_02_08
+Chega de ilusões. A maioria dos réus que passaram por este tribunal jamais foi sequer suspeita dos crimes que cometeu. E, ainda assim, eram culpados.
+$FAB_022_02x04_03_QTitle
+Você ofereceu sexo como adiantamento pelo ato de traição?
+$FAB_022_02x04_03_00
+Você ofereceu sexo como adiantamento pelo ato de traição?
+$FAB_022_02x04_03_01
+Eu não sou uma prostituta.
+$FAB_022_02x04_03_02
+Na verdade, não é preciso ser prostituta para vender o próprio corpo e incitar traição. Não é isso que as mulheres fazem?
+$FAB_022_02x04_03_03
+Essa comparação é ofensiva e repugnante, mas o que mais eu poderia esperar de um homem?
+$FAB_022_02x04_03_04
+Então você nega?
+$FAB_022_02x04_03_05
+Negarei tudo o que sair dessas bocas vis e traiçoeiras. Sempre que querem manchar a reputação de uma mulher, a acusam de devassidão!
+$FAB_022_02x04_03_06
+E quando quer manchar a reputação de um homem, chama-o de devasso! Agora provou do próprio veneno.
+$FAB_022_02x04_03_07
+Cidadão Tinville, por favor, modere suas palavras.
+$FAB_022_02x04_03_08
+Estão brigando como crianças...
+$FAB_022_05x06_04_QTitle
+Chame a testemunha.
+$FAB_022_05x06_04_00
+Chame a testemunha.
+$FAB_022_05x06_04_02
+Apresente-se.
+$FAB_022_05x06_04_03
+Grace Elliot. Sou dama de companhia.
+$FAB_022_05x06_04_04
+"Uma dama", essa é boa.
+$FAB_022_WIT_00_A_QTitle
+Pode nos contar algo sobre as atividades traiçoeiras de Madame de Staël?
+$FAB_022_WIT_00_A_00
+Pode nos contar algo sobre as atividades traiçoeiras de Madame de Staël?
+$FAB_022_WIT_00_A_01
+Posso confirmar que a cidadã de Staël corrompeu, ou tentou corromper, políticos da Convenção.
+$FAB_022_WIT_00_A_02
+Como?
+$FAB_022_WIT_00_A_03
+Ela se aproveitava dos encontros no salão político. Depois de alguns copos de vinho, iniciava uma conversa aparentemente inocente sobre prestar auxílio aos nossos aliados fora da França.
+$FAB_022_WIT_00_A_04
+Podemos pedir a algum desses políticos para confirmar isso?
+$FAB_022_WIT_00_A_05
+Isso pode ser complicado. Você já os mandou para a guilhotina.
+$FAB_022_WIT_00_B_QTitle
+Pode confirmar a acusação de que o réu recebia jovens rapazes com a intenção de manter relações sexuais com eles?
+$FAB_022_WIT_00_B_00
+Pode confirmar a acusação de que o réu recebia jovens rapazes com a intenção de manter relações sexuais com eles?
+$FAB_022_WIT_00_B_01
+Por mais que me repugne, infelizmente, preciso confirmar.
+$FAB_022_WIT_00_B_02
+Estou me sentindo enjoado...
+$FAB_022_WIT_00_B_03
+Geralmente eram crianças do orfanato. Ninguém se importa com elas, por isso eram um alvo fácil.
+$FAB_022_WIT_00_B_04
+E vieram de livre vontade, sabendo o que os aguardava?
+$FAB_022_WIT_00_B_05
+Ela lhes dava pequenos presentes e algo gostoso para comer. Essas crianças não precisavam de mais nada.
+$FAB_022_WIT_00_B_06
+Meninos de cabelos claros, na maioria?
+$FAB_022_WIT_00_B_07
+Isso mesmo, embora eu também tenha visto meninas loiras.
+$FAB_022_KEY_01
+Alta sociedade
+$FAB_022_KEY_02
+Incentivo à colaboração
+$FAB_022_KEY_03
+Comportamento inadequado
+$FAB_022_KEY_04
+Relação sexual
+$FAB_022_KEY_05
+Meninos jovens
+$FAB_022_KEY_06
+Testemunha
+$FAB_022_LastDialog_00
+As mulheres não vão esquecer isso!

@@ -1,0 +1,434 @@
+$TUTORIAL_1_01_TITLE
+Belgeler ve Mektuplar
+$TUTORIAL_1_01_MAIN
+Belgelerin yerleşimini düzenlemek için sürükleyip bırakın. İçeriğini görüntülemek için tıklayın.
+$TUTORIAL_1_02_TITLE
+Not Defteri
+$TUTORIAL_1_02_MAIN
+Güncel olaylar, eylemler ve karakterler hakkında ayrıntılı bilgileri inceleyin.
+$TUTORIAL_1_03_TITLE
+Karar
+$TUTORIAL_1_03_MAIN
+Sonuçları göz önünde bulundurun ve sanığın kaderine karar verin.
+$TUTORIAL_1_04_TITLE
+Olaylar
+$TUTORIAL_1_04_MAIN
+Olaylara tepki verin. Onları görmezden gelmek ağır sonuçlara yol açabilir.
+$TUTORIAL_1_05_TITLE
+Tutanak ve Rapor
+$TUTORIAL_1_05_MAIN
+Davanın ayrıntılarını inceleyin ve dosyaları tamamlayın.
+$TUTORIAL_1_06_TITLE
+Nüfuz Puanları
+$TUTORIAL_1_06_MAIN
+Etkili Puanlar oyundaki ana para birimidir. Onları akıllıca kullanın.
+$TUTORIAL_1_07_TITLE
+Hiyerarşi
+$TUTORIAL_1_07_MAIN
+Paris’teki mevcut güç dengesini ve bu dengedeki konumunuzu inceleyin.
+$TUTORIAL_1_08_TITLE
+Ayarlar
+$TUTORIAL_1_08_MAIN
+Oyun ayarlarını değiştirin.
+$TUTORIAL_1_09_TITLE
+Seyirci
+$TUTORIAL_1_09_MAIN
+Sanığı sorgulamak sabırsız seyirciyi kışkırtacaktır. Halk öfkelendiğinde isyan bile çıkarabilir.
+$TUTORIAL_1_10_TITLE
+Jüri
+$TUTORIAL_1_10_MAIN
+Jüri’nin görüşüne sistemli olarak karşı çıkmak ciddi sonuçlara yol açabilir.
+$TUTORIAL_1_11_TITLE
+Devam Et
+$TUTORIAL_1_11_MAIN
+Duruşmadan sonra devam etmek için tıklayın.
+$TUTORIAL_1_12_TITLE
+Protokol
+$TUTORIAL_1_12_MAIN
+Davanın kayıtlarını inceleyin.
+$TUTORIAL_1_13_TITLE
+Rapor
+$TUTORIAL_1_13_MAIN
+Savcının sorularını yanıtlayarak raporu doldurun. Yanlış cevaplar itibarınızı zedeleyebilir ve yargıçlık görevinize mal olabilir!
+$TUTORIAL_1_14_TITLE
+Lütuf
+$TUTORIAL_1_14_MAIN
+Ne kadar çok hata yaparsanız, görevden alınma riskiniz o kadar artar. İleride, Savcı’nın rapor hakkındaki kararını etkileme imkanının kilidini açabilirsiniz.
+$TUTORIAL_1_15_TITLE
+Dosyalar
+$TUTORIAL_1_15_MAIN
+Suçlamaları ve olayları gözden geçirin. Böylece sanığa sorulacak soruları daha kolay açabilirsiniz.
+$TUTORIAL_1_16_TITLE
+Bağlantıları Bulma
+$TUTORIAL_1_16_MAIN
+Sanığa soru sorabilmek için doğru bağlantıları bulun. Bir sorgu hattı seçin ve doğru kategoriyle eşleştirin.
+$TUTORIAL_1_17_TITLE
+Şanslar
+$TUTORIAL_1_17_MAIN
+Soru ve kategori bağlantılarını kurarken sınırlı sayıda hata yapabilirsiniz. Çok fazla hata yaparsanız, tüm sistem kilitlenir.
+$TUTORIAL_1_19_TITLE
+Sorular
+$TUTORIAL_1_19_MAIN
+Bilgi toplayın ve sanığı sorgulayarak Jüri’nin Tutumunu etkileyin.
+$TUTORIAL_1_20_TITLE
+Soruları Aç
+$TUTORIAL_1_20_MAIN
+Soruları sorabilmek için önce sorgu bağlantı menüsünde onları açmanız gerekir.
+$TUTORIAL_1_21_TITLE
+Soru Etkisi
+$TUTORIAL_1_21_MAIN
+Jüri’nin gözüne girmek, bir soru sorduktan sonra hangi tarafa meyledeceklerini öğrenmenizi sağlar.
+$TUTORIAL_1_22_TITLE
+Ceza
+$TUTORIAL_1_22_MAIN
+En önemli kararı verin: sanığı mahkûm edin ya da beraat ettirin.
+$TUTORIAL_1_23_TITLE
+İmza
+$TUTORIAL_1_23_MAIN
+Kararınızı yürürlüğe koymak için belgeyi imzalayın.
+$TUTORIAL_1_24_TITLE
+İstihbarat
+$TUTORIAL_1_24_MAIN
+Bir kararın Fraksiyonlar üzerindeki etkisini görebilirsiniz. Bir Fraksiyonla çok kötü ilişkileriniz varsa, bu konuda hiçbir bilgi alamazsınız.
+$TUTORIAL_1_25_TITLE
+Kararınızı Verin
+$TUTORIAL_1_25_MAIN
+Her eylem farklı sayıda Nüfuz Puanı gerektirebilir ve başarı şansı değişebilir. Dikkatlice değerlendirin!
+$TUTORIAL_1_26_TITLE
+İlişkiler
+$TUTORIAL_1_26_MAIN
+Gruplarla kötü ilişkiler, sizin için olumsuz sonuçlar doğurur (örneğin, Paris’teki ateşin yükselmesi gibi).
+$TUTORIAL_1_27_TITLE
+İtibar
+$TUTORIAL_1_27_MAIN
+İtibar, oyunun dünyasında her şeyi etkiler: Faksiyonlar, aile ilişkileri, halkın tutumu, Bölümler’deki coşku ve hatta diğer karakterleri ikna etme yeteneğiniz.
+$TUTORIAL_1_28_TITLE
+Nüfuz Puanları
+$TUTORIAL_1_28_MAIN
+Her gün belirli sayıda Etki Puanınız olur. İleride bu sınırı artırabileceksiniz.
+$TUTORIAL_1_29_TITLE
+Bildirimler
+$TUTORIAL_1_29_MAIN
+Nüfuzunuzdaki ve Faksiyonlarla olan ilişkilerinizdeki değişikliklere dikkatle göz kulak olun.
+$TUTORIAL_1_30_TITLE
+Küresel Değişkenler
+$TUTORIAL_1_30_MAIN
+Oyundaki bazı kararlarınız ve dünyada yaptığınız değişiklikler, Küresel Değişkenlerin devreye girmesine yol açabilir. Bu etkenler ilişkileri, İtibarı ve nüfuzu etkiler. Onları Defter’de inceleyebilirsiniz.
+$TUTORIAL_1_31_TITLE
+Tuzaklar
+$TUTORIAL_1_31_MAIN
+Bazı davalarda sizi yanıltacak tuzaklar olabilir. Dosyaları dikkatlice okuyun, konu dışı sorgu başlıklarını tespit edin.
+$TUTORIAL_1_32_TITLE
+Hızlı Davalar
+$TUTORIAL_1_32_MAIN
+Her sanığın kaderini dikkatle belirleyin. Verdiğiniz hiçbir kararı geri alamazsınız. Sanığı kimlerin desteklediğine dikkat edin.
+$TUTORIAL_1_33_TITLE
+Beklenen Hüküm
+$TUTORIAL_1_33_MAIN
+Fraksiyonların ve yakınlarınızın hangi kararı beklediğini öğrenin.
+$TUTORIAL_1_34_TITLE
+Entrikalar
+$TUTORIAL_1_34_MAIN
+Entrikalar, sizinle başka bir siyasi oyuncu arasındaki karmaşık çatışmalardır. Bir yenilgi sizin için felaketle sonuçlanabilir.
+$TUTORIAL_1_35_TITLE
+Aristokrasi ortaya çıktı
+$TUTORIAL_1_35_MAIN
+Bundan böyle Paris’te faaliyet gösteren bir başka siyasi grupla da ilişkilerinizi geliştirmek zorundasınız.
+$TUTORIAL_2_01_TITLE
+Aile içi eylemler
+$TUTORIAL_2_01_MAIN
+Eve döndüğünüzde, günün geri kalanını nasıl geçirmek istediğinize siz karar verebilirsiniz.
+$TUTORIAL_2_02_TITLE
+Çeşitli Eylemler
+$TUTORIAL_2_02_MAIN
+Her bir hareketiniz, ailenin diğer üyelerini ve size karşı tutumlarını etkileyecek.
+$TUTORIAL_2_03_TITLE
+Karakterlerin Tutumları
+$TUTORIAL_2_03_MAIN
+Her bir karakterin tutumu, size belirli bonuslar kazandırabilir ya da bunlardan mahrum bırakabilir (örneğin, İtibar veya Faksiyonlarla ilişkiler gibi).
+$TUTORIAL_2_04_TITLE
+En küçük oğul
+$TUTORIAL_2_04_MAIN
+En küçük oğlunuz farklı: tavırları, ailenin diğer üyelerinin size biraz daha yakın olmasını sağlıyor. Ona iyi bakın.
+$TUTORIAL_2_05_TITLE
+Kilitli Eylem
+$TUTORIAL_2_05_MAIN
+Çeşitli önemli olayların ardından, istemeden bir Eylemle karşı karşıya kalabilirsiniz. O gün, kendi kararlarınızın kurbanı olursunuz.
+$TUTORIAL_3_01_TITLE
+Paris Bölümleri
+$TUTORIAL_3_01_MAIN
+Her Bölüm sizin, düşmanınızın kontrolünde olabilir ya da tarafsız kalabilir.
+$TUTORIAL_3_02_TITLE
+Kontrol Edilen Bölümler
+$TUTORIAL_3_02_MAIN
+Ele geçirdiğiniz her Bölge size bir ek Nüfuz Puanı kazandırır. Kendi topraklarınızda görevlerin başarı şansı daha yüksektir.
+$TUTORIAL_3_03_TITLE
+Kilitli Bölümler
+$TUTORIAL_3_03_MAIN
+Bazı Bölümler kilitli. İçlerinde Eylem gerçekleştirmek için herhangi bir Ajan ile kilidi açın.
+$TUTORIAL_3_04_TITLE
+Düşman Bölümleri
+$TUTORIAL_3_04_MAIN
+Düşman ajanları da Bölümlerinizi ele geçirebilir. Düşman kontrolündeki Bölümlerde yapılan eylemlerin başarı şansı daha düşüktür.
+$TUTORIAL_3_05_TITLE
+İsyanlar
+$TUTORIAL_3_05_MAIN
+İsyanlar, Ajanları (Cellat hariç) engeller ve Bölgeden Nüfuz Puanı kazanmanızı önler. Bastırılmazlarsa, isyanlar bir Bölgeyi tarafsız hale getirir ve hızla yayılabilir.
+$TUTORIAL_3_06_TITLE
+Rapor
+$TUTORIAL_3_06_MAIN
+Rapor, Harita çevresinde gerçekleşen tüm olayların özetini içerir.
+$TUTORIAL_3_07_TITLE
+Rapor – kısayol
+$TUTORIAL_3_07_MAIN
+Yeniden açmak için Rapor simgesine tıklayın.
+$TUTORIAL_3_08_TITLE
+Oyuncunun Ajanları
+$TUTORIAL_3_08_MAIN
+Ajanları görevlere gönderin, huzursuz kalabalıkları kontrol edin ve şehirde nüfuz için mücadele edin. Bir Ajana tıklayın ve gerçekleştirmesini istediğiniz Eylemi seçin.
+$TUTORIAL_3_09_TITLE
+Hareket
+$TUTORIAL_3_09_MAIN
+Ajanlarınızı kendi Bölümleriniz arasında özgürce hareket ettirebilirsiniz. Ancak düşman ya da tarafsız Bölümlerde, günde yalnızca bir kare ilerleyebilirler.
+$TUTORIAL_3_10_TITLE
+İri Yarı
+$TUTORIAL_3_10_MAIN
+Kabadayı dövüşte, itibar kazanmada ve asi kalabalıkları kontrol etmede ustadır.
+$TUTORIAL_3_11_TITLE
+Diplomat
+$TUTORIAL_3_11_MAIN
+Bölümleri ele geçirir, Fraksiyonlarla ilişkileri güçlendirir ve Bölümlerdeki ateşi düşürür. Düşman Ajanlara karşı düellolarda daha zayıftır.
+$TUTORIAL_3_12_TITLE
+Casus
+$TUTORIAL_3_12_MAIN
+Düşmanı gözetler, rakipleri tuzağa çeker ve Diplomat’ın bir bölgeyi kontrol etmesine yardımcı olur.
+$TUTORIAL_3_13_TITLE
+Muskadenler
+$TUTORIAL_3_13_MAIN
+Kendi işlerinize ve düşmanlarınızın işlerine karışırlar; bölümlerde kalabalıkları kışkırtarak ortalığı kızıştırırlar.
+$TUTORIAL_3_14_TITLE
+Devrimci Devriye
+$TUTORIAL_3_14_MAIN
+Devriye, sizin Ajanınızı tutuklayabilir ya da Düşman Ajanını yakalayabilir.
+$TUTORIAL_3_15_TITLE
+Bir Bölümün Kilidini Aç
+$TUTORIAL_3_15_MAIN
+Bir Bölümü açmak için önce keşif yapmalısınız. Yalnızca zaten açılmış Bölümlere bitişik olanları açabilirsiniz.
+$TUTORIAL_3_16_TITLE
+Ana Bölüm
+$TUTORIAL_3_16_MAIN
+Ana Bölümünüz hayati öneme sahiptir. Buradaki binalar, oyunun geri kalanını etkilemenizi sağlar. Onu ne pahasına olursa olsun koruyun. Kontrolünüzden çıkarsa oyunu kaybedersiniz.
+$TUTORIAL_3_17_TITLE
+Hararet
+$TUTORIAL_3_17_MAIN
+Her Bölge, oyundaki gelişmelere tepki gösterir ve sakinlerinin coşkusunu artırır ya da azaltır. Coşku aşırı yükselirse, yıkıcı isyanlar patlak verebilir.
+$TUTORIAL_3_18_TITLE
+Düşman Ajanları
+$TUTORIAL_3_18_MAIN
+Düşman ajanlar, bölgeler için kendi ajanlarınızla çatışacak. Sizin veya tarafsız bölgeleri ele geçirebilirler.
+$TUTORIAL_3_19_TITLE
+Çatışma
+$TUTORIAL_3_19_MAIN
+Bir bölgede en az iki düşman Ajan karşılaştığında çatışma başlar. Unutmayın, bir Diplomat acımasız bir dövüşçüye karşı pek şansı yoktur.
+$TUTORIAL_3_20_TITLE
+Yaralı Ajan
+$TUTORIAL_3_20_MAIN
+Bir çatışmada yenildikten sonra Ajanınız yaralanır. Hâlâ hareket edebilir, ancak hiçbir Eylem gerçekleştiremez.
+$TUTORIAL_3_21_TITLE
+Anıt İnşaatı
+$TUTORIAL_3_21_MAIN
+Kontrolünüz altındaki Bölüm sayısı arttıkça anıtın inşası hızlanır. Tamamlanan her yeni aşama, anıtın yakınındaki bir binayı daha ele geçirmenizi sağlar.
+$TUTORIAL_3_22_TITLE
+Binalar
+$TUTORIAL_3_22_MAIN
+Her bina size farklı bir Eylem yapma imkânı sunar. Oyun tarzınıza uygun olanları ele geçirin.
+$TUTORIAL_3_23_TITLE
+Garnizon
+$TUTORIAL_3_23_MAIN
+Garnizon her turda takviye üretir. İtibarınız ne kadar yüksekse, o kadar çok asker size katılır.
+$TUTORIAL_3_24_TITLE
+Kaçaklar
+$TUTORIAL_3_24_MAIN
+Paris’in her bölgesinde insanlar düşmanın zulmünden kaçmaya çalışıyor. Onları mümkün olduğunca uzun süre koruyun – İtibarınız buna bağlı.
+$TUTORIAL_3_25_TITLE
+Düşman Saldırısı
+$TUTORIAL_3_25_MAIN
+Saldırıya uğradınız. Eğer Bölge'de askeriniz yoksa, otomatik olarak kaybedersiniz.
+$TUTORIAL_3_26_TITLE
+Generalinizi Seçin
+$TUTORIAL_3_26_MAIN
+Savaşı kendiniz yönetebilir ya da General Dumas’ın yardımını kabul edebilirsiniz (savaş otomatik olarak gerçekleşecektir).
+$TUTORIAL_3_27_TITLE
+Düşman General
+$TUTORIAL_3_27_MAIN
+Düşman generallerinin her birinin kendine özgü taktikleri ve hileleri vardır.
+$TUTORIAL_3_28_TITLE
+İstatistik görünümü.
+$TUTORIAL_3_28_MAIN
+Bölgelerde kalan mültecilerin görüntüsünü açıp kapat.
+$TUTORIAL_4_01_TITLE
+Giyotin
+$TUTORIAL_4_01_MAIN
+Kalabalığın desteğini kazanmak için bir konuşma yapın ya da doğrudan infaza geçin.
+$TUTORIAL_4_02_TITLE
+Konuşma
+$TUTORIAL_4_02_MAIN
+Unutmayın, konuşmanıza bir kez başladınız mı geri dönüş yoktur. Sarsak ya da beceriksiz bir konuşma, izleyiciden yalnızca alay toplamanıza yol açar.
+$TUTORIAL_4_03_TITLE
+Halkın Tutumu
+$TUTORIAL_4_03_MAIN
+İtibarınıza bağlı olarak, kalabalık daha az ya da daha fazla saldırgan olacaktır.
+$TUTORIAL_4_05_TITLE
+Muhafızlar
+$TUTORIAL_4_05_MAIN
+Muhafızları çağırmak, öfkeli bir kalabalığın saldırısından sizi kurtarabilir.
+$TUTORIAL_5_01_TITLE
+Zar Oyunu
+$TUTORIAL_5_01_MAIN
+Rakibinizi mümkün olan en yüksek puanı alarak yenin. Kaybetmek İtibarınıza zarar verebilir.
+$TUTORIAL_5_02_TITLE
+Hamleler
+$TUTORIAL_5_02_MAIN
+Oyun beş tur sürer ve en yüksek toplam puana sahip oyuncu kazanır.
+$TUTORIAL_5_03_TITLE
+Zar Atışı
+$TUTORIAL_5_03_MAIN
+Altı zar atın ve en yüksek skoru umun!
+$TUTORIAL_5_04_TITLE
+Yeniden Atış
+$TUTORIAL_5_04_MAIN
+Sonucunuzdan memnun değilseniz, oyun boyunca zarları toplamda üç kez yeniden atabilirsiniz.
+$TUTORIAL_5_05_TITLE
+Bir Tur Ismarlamak
+$TUTORIAL_5_05_MAIN
+Rakibinizi sarhoş ederek kazanma şansını azaltın. İçki içmek ayrıca daha fazla zar atmanızı sağlar.
+$TUTORIAL_5_06_TITLE
+Puanlama
+$TUTORIAL_5_06_MAIN
+Aynı değere sahip zarlar attığınızda puan kazanırsınız. Zarların üzerindeki sayı ne kadar yüksekse, puanınız o kadar artar.
+$TUTORIAL_5_07_TITLE
+Ayrıntılı Puan
+$TUTORIAL_5_07_MAIN
+Ayrıntılı puanı inceleyin ve özel skora dikkat edin!
+$TUTORIAL_5_08_TITLE
+İyilik
+$TUTORIAL_5_08_MAIN
+Lütuflar, Savcıyı mahkemede Raporunuzu imzalamaya zorlamanızı sağlar; böylece görevlerinizi yerine getiremezseniz makamınızı kaybetmekten kurtulabilirsiniz.
+$TUTORIAL_6_01_TITLE
+Pozisyonunuz
+$TUTORIAL_6_01_MAIN
+Paris’in siyasi sahnesinde konumunuz ne kadar yüksekse, İtibar bonusunuz da o kadar büyük olur.
+$TUTORIAL_6_07_TITLE
+İlerleme Çubuğu
+$TUTORIAL_6_07_MAIN
+İlerleme çubuğunu doldurmak için doğru hamleleri yapın. Yeterince hamle yapmazsanız kaybedersiniz. Gerekenden fazlasını yaparsanız bonus kazanırsınız.
+$TUTORIAL_6_08_TITLE
+Eylem Blokları
+$TUTORIAL_6_08_MAIN
+Entrika Eylemleri, Eylem blokları olarak gösterilir. Açıklamayı okumak ve bir karar vermek ya da birini ikna etmek için tıklayın.
+$TUTORIAL_6_09_TITLE
+İkna
+$TUTORIAL_6_09_MAIN
+Bir eylemin başarılı olması için, gereken sayıda kişiyi ikna etmelisiniz. Bunu sizin yerinize Diplomatınızı göndererek de yapabilirsiniz. Unutmayın, bunu yalnızca blok aktifken gerçekleştirebilirsiniz.
+$TUTORIAL_6_10_TITLE
+Çözüm yöntemleri
+$TUTORIAL_6_10_MAIN
+Bazı eylemler, taktikler konusunda karar vermenizi gerektirir. Her kararın başarı şansı farklı olabilir.
+$TUTORIAL_6_11_TITLE
+Sonuçlar Bekleniyor
+$TUTORIAL_6_11_MAIN
+Entrikalar birkaç gün içinde sonuçlanır. Bazı Eylem bloklarının sonuçları ise ancak ertesi gün görülebilir.
+$TUTORIAL_6_12_TITLE
+Karşı Saldırılar
+$TUTORIAL_6_12_MAIN
+Zaman zaman düşmanınız planlarınızı bir karşı saldırıyla bozabilir. Böyle durumlarda hızlı ve akılcı tepki vermelisiniz.
+$TUTORIAL_6_13_TITLE
+Önemli Kararlar
+$TUTORIAL_6_13_MAIN
+Bazen tüm Entrikayı etkileyecek bir karar vermeniz gerekir. İyice düşünün.
+$TUTORIAL_7_01_TITLE
+Savaş
+$TUTORIAL_7_01_MAIN
+Savaşlar, iki düşman ordu arasında geçen dinamik çatışmalardır. Piyade, tüfekli birlikler ve topçu bu çatışmalara dahildir.
+$TUTORIAL_7_02_TITLE
+Düşmanlar
+$TUTORIAL_7_02_MAIN
+Düşman generaller, taktikleri konusunda farklı tercihlere sahip olabilirler.
+$TUTORIAL_7_05_TITLE
+Taktik Seçimi
+$TUTORIAL_7_05_MAIN
+Her taktik, saldırı ya da savunmanın nasıl yürütüleceğini belirler ve birliklerinizin savaşta alacağı küçük avantajları etkiler.
+$TUTORIAL_7_06_TITLE
+Hekim
+$TUTORIAL_7_06_MAIN
+Hekim, yaralı askerlerinizi tedavi eder ve sağlık puanlarına bonus sağlar. Unutmayın, askerler ölürse hekim de onlarla birlikte ölür!
+$TUTORIAL_7_08_TITLE
+Mülteciler
+$TUTORIAL_7_08_MAIN
+Bir çatışmanın her turunda, belirli sayıda kişi Bölüm'den kaçacaktır. Savaşı ne kadar uzun sürdürürseniz, o kadar çok insanı kurtarırsınız.
+$TUTORIAL_7_09_TITLE
+Güç Dengesi
+$TUTORIAL_7_09_MAIN
+Çatışmalar sırasında güç dengesi değişebilir. İlgili çubukları takip edin ve edindiğiniz bilgileri doğru taktikleri seçmek için kullanın.
+$TUTORIAL_7_10_TITLE
+Lojistik Uzmanı
+$TUTORIAL_7_10_MAIN
+Bu piyon, Bölümden kaçabilecek kişi sayısını artırır. Savaşta ölürlerse, Ana Bölümde yenisini işe almanız gerekir.
+$TUTORIAL_7_11_TITLE
+Değiştiriciler
+$TUTORIAL_7_11_MAIN
+Çatışmalar sırasında, birliklerinizi veya sivillerin kaçış hızını etkileyen ek koşullarla karşılaşabilirsiniz.
+$TUTORIAL_8_01_TITLE
+Strateji Oluşturma
+$TUTORIAL_8_01_MAIN
+İkna etmeye kalkışmadan önce, konuşmadaki tüm başlıklar için farklı yaklaşımları keşfedebilirsiniz. Tüm duyguları kullandıktan sonra, seçimlerinizin genel bir değerlendirmesini alırsınız.
+$TUTORIAL_8_02_TITLE
+Karakterlerin Tutumları
+$TUTORIAL_8_02_MAIN
+Her tutum, olumlu ya da olumsuz etkiler yaratabilen bir dizi duyguyla birlikte gelir. Etkilerini öğrenin ve Paris halkını dilediğiniz gibi yönlendirin.
+$TUTORIAL_8_03_TITLE
+Karakterlerin Tutumları
+$TUTORIAL_8_03_MAIN
+İtibarınız ne kadar yüksekse, diğer konuşmacıların tutumları hakkında o kadar fazla bilgi sahibi olursunuz. Bu bilgiyi ayrıca Nüfuz Puanları harcayarak da edinebilirsiniz.
+$TUTORIAL_9_01_TITLE
+Hayatta kalma modunda verilen hükümler
+$TUTORIAL_9_01_MAIN
+Hayatta kalma modunda iki tür hüküm vardır: idam cezası veya beraat.
+$TUTORIAL_9_02_TITLE
+Alınan puanlar ve tarih
+$TUTORIAL_9_02_MAIN
+Toplanan puan sayısı ve gün numarası.
+$TUTORIAL_9_03_TITLE
+Jüri görüşü
+$TUTORIAL_9_03_MAIN
+Hayatta kalma modunda, jürinin görüşüne uygun verilen hüküm 60 puan değerindedir.
+$TUTORIAL_9_04_TITLE
+Rapor puanlaması
+$TUTORIAL_9_04_MAIN
+Hayatta kalma modunda rapor, 0-100 arasında puanlanır. Alınan puan miktarı, soru sayısına ve doğru cevaplara göre değişir.
+$TUTORIAL_9_05_TITLE
+Rapor için bonus
+$TUTORIAL_9_05_MAIN
+Tüm raporu doğru şekilde doldurduğunuzda, ekstra 50 puan kazanırsınız.
+$TUTORIAL_9_06_TITLE
+Düzeni sağlamak
+$TUTORIAL_9_06_MAIN
+Mahkeme salonunda düzeni sağladığınız için 25 bonus puan kazandınız.
+$TUTORIAL_9_07_TITLE
+Açılan soruların puanlanması
+$TUTORIAL_9_07_MAIN
+Hayatta kalma modunda, açılan sorular 0-100 arasında puanlanır. Alınan puan miktarı, açılan ve toplam soru sayısına göre ölçeklendirilir.
+$TUTORIAL_9_08_TITLE
+Sorular için bonus
+$TUTORIAL_9_08_MAIN
+Tüm soruları açtığınızda 50 bonus puan kazanırsınız.
+$TUTORIAL_9_09_TITLE
+Kararın etkisi
+$TUTORIAL_9_09_MAIN
+Hayatta kalma modunda, göstergeler verilen bir hükmün fraksiyonla ilişkinizi iyileştirip iyileştirmeyeceğini, kötüleştirip kötüleştirmeyeceğini ya da değiştirmeyeceğini gösterir.
+$TUTORIAL_DISPLAY_MESSAGE
+Eğitimleri göstermek ister misiniz?
+$TUTORIAL_DISPLAY_YES
+Evet
+$TUTORIAL_DISPLAY_NO
+Hayır

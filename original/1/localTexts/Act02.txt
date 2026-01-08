@@ -1,0 +1,54 @@
+#A02C1_D02_LETTER_MAIN
+Archbishop Jean-Baptiste Gobel was the one who made the decision on the death of your child. He should be your next target.
+#A02C1_D02_LETTER_SENDER
+Ramel
+$LETTER_H_02_01_01_001_HEADER
+To Alexis Fidèle,
+$LETTER_H_02_01_01_002_MAIN
+The Revolutionary Tribunal is operating perfectly. The Convention is satisfied with our methods of purifying France, however current circumstances require you to renew your oath of allegiance to the Republic. You shall be visited by our official tomorrow.
+$LETTER_H_02_01_01_003_SENDER
+Your friend, Maximilien Robespierre
+$LETTER_CO_02_01_02_MAIN
+Jean-Baptiste Gobel. He’s responsible for your son’s death.
+$LETTER_CO_02_01_02_SENDER
+Ramel
+$LETTER_H_02_01_03_001_START
+As a Citizen of Paris and a loyal servant of the Revolution, I am anonymously reporting that…
+$LETTER_H_02_01_03_002_P1_BASE
+Denunciation
+$LETTER_H_02_01_03_002_P1_AGGR
+That prudish priest Gobel got some girl pregnant and she gave him a son. From what I heard, he’s an adult now. Meanwhile, Gobel gives sermons about moderation and life in virtue. Can you imagine that?!
+$LETTER_H_02_01_03_003_P1_MANI
+There’s a sinner among the hierarchs. Archbishop Gobel has an illegitimate child. France was supposed to be cleansed of people like him.
+$LETTER_H_02_01_03_004_P1_JOKE
+Archbishop Gobel lay with some girl and she gave him a son. People say she lives in Paris, but the Archbishop doesn’t know.
+$LETTER_H_02_01_03_005_P1_HUMI
+I have heard that Archbishop Gobel has an illegitimate son, and the mother lives in Paris. I am not one to judge others, but this does not seem right to me.
+$LETTER_H_02_01_03_006_P2_BASE
+The informer’s opinion
+$LETTER_H_02_01_03_006_P2_AGGR
+I think that such two-faced liars should have their heads stuck on a pike, just like the defenders of the Bastille.
+$LETTER_H_02_01_03_007_P2_MANI
+We cannot allow such individuals to poison our new society after we have put so much effort into building it on the foundations of truth.
+$LETTER_H_02_01_03_008_P2_JOKE
+I really don’t care who people lie with, or how often, as long as they keep quiet and don’t lecture others.
+$LETTER_H_02_01_03_009_P2_HUMI
+Somebody should deal with it. Do these people even realise how harmful their actions are for our society?
+$INVITATION_CO_02_01_05_001_MAIN
+Dear Judge, This evening we will be holding a ball on the outskirts of Paris. We have invited only the brightest minds of France, the better part of France, and your presence is expected. My associates and I have something to tell you… something important. The cart will be waiting outside court.
+$INVITATION_CO_02_01_05_001_SENDER
+Clément Renard
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_001_MAIN
+Dear Alexis, I cannot live with the burden of a sin that I committed unintentionally. There is something that I need to tell you, Alexis. I was involved in little Frédéric’s death. I was approached by people who told me that my son, my only son, had been caught red-handed during his attempted desertion and was awaiting execution. They showed me proof and promised he would be freed in exchange for a detailed description of your family – your habits, your views. I gave them a few seemingly harmless pieces of information and they used them to kill. I did not want this – I have never killed anyone. They did it, yet I am still haunted by guilt. I cannot continue to live like this, sitting in the same room with you, pretending that nothing happened. I can only hope that one day you will forgive me, that you will understand I was tricked. I have always been your friend, Fidèle. Farewell, my friend.
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_002_SENDER
+Raymond Dévoyé
+$BROTHER_ARMY_POPUP_TITLE
+Warning
+$BROTHER_ARMY_POPUP_MAIN_01
+Your brother's army will arrive in 4 days.
+$BROTHER_ARMY_POPUP_MAIN_02
+Your brother's army will arrive in 3 days.
+$BROTHER_ARMY_POPUP_MAIN_03
+Your brother's army will arrive in 2 days.
+$BROTHER_ARMY_POPUP_MAIN_04
+Your brother's army will arrive tomorrow.

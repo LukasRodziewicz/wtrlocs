@@ -1,0 +1,54 @@
+$DISC_INTR_003_B08_ELLIOTT_001_JUDGE
+That trouble with Gobel… It all happened so suddenly. People will find it suspicious if we do not make a move.
+$DISC_INTR_003_B08_ELLIOTT_002_ELLIOT
+Will they think that we’re on the side of liars and traitors?
+$DISC_INTR_003_B08_ELLIOTT_003_JUDGE
+That is right.
+$DISC_INTR_003_B08_ELLIOTT_004_JUDGE_AGGR
+We do not control the situation on the streets any more. The chaos can turn on anyone, and we cannot easily pacify the crowds.
+$DISC_INTR_003_B08_ELLIOTT_005_JUDGE_MANI
+The situation is beyond our control. A girl was battered yesterday because people suspected that she was spying for the insurgents. Who knows who their next target will be – you, me…
+$DISC_INTR_003_B08_ELLIOTT_006_JUDGE_JOKE
+As long as people were throwing rotten tomatoes at random targets, the situation was acceptable. But now they are armed with wooden sticks. I do not know about you, but I am getting scared.
+$DISC_INTR_003_B08_ELLIOTT_007_JUDGE_HUMI
+I know that I promised to serve the people and defend liberty, but our Citizens are taking things too far.
+$DISC_INTR_003_B08_ELLIOTT_008_ELLIOT_SATI
+I can feel the anger of society whenever I walk through the market. The earth trembles, people want revenge, but they haven’t found their target yet.
+$DISC_INTR_003_B08_ELLIOTT_009_ELLIOT_INTR
+It didn’t just happen, did it? Anyway, go on.
+$DISC_INTR_003_B08_ELLIOTT_010_ELLIOT_DOUB
+You played your part in all this, didn’t you? I heard that you had some issues with Gobel.
+$DISC_INTR_003_B08_ELLIOTT_011_JUDGE_AGGR
+Gobel ruined everything! With a secret like that, he should have been doing everything to make sure it would never get out, and instead he acted like a child!
+$DISC_INTR_003_B08_ELLIOTT_012_JUDGE_MANI
+If the rumours prove to be true, Gobel’s presence will make the situation even worse. Do we want people to think the authorities are corrupted? My reputation is at stake, as is yours and your friends’ from the Convention.
+$DISC_INTR_003_B08_ELLIOTT_013_JUDGE_JOKE
+Gobel has got himself into hot water at the worst possible moment. Maybe the Pope has finally got his revenge? God has listened to his prayers and decided to punish the archbishop for being appointed constitutionally…
+$DISC_INTR_003_B08_ELLIOTT_014_JUDGE_HUMI
+I do not want to make convictions in absentia, but it seems to me that the anger of the people has revealed some old secrets – like that of Archbishop Gobel. Maybe we should do something about it?
+$DISC_INTR_003_B08_ELLIOTT_015_ELLIOT_SATI
+I never liked him. I heard rumours that he used to be involved in the slave trade, though they were never confirmed.
+$DISC_INTR_003_B08_ELLIOTT_016_ELLIOT_INTR
+I see that you’re aiming at the dignitaries. What do you suggest?
+$DISC_INTR_003_B08_ELLIOTT_017_ELLIOT_DOUB
+Gobel may have renounced his faith, but I doubt he would abandon his fellow dignitaries so easily. He will not give up without a fight, even if the crowd is on your side.
+$DISC_INTR_003_B08_ELLIOTT_018_JUDGE_AGGR
+We cannot pay for the behaviour of one group. With all its lies and degeneration, the Church has worked hard for the anger of the people. Let us cut it off and live our lives in peace.
+$DISC_INTR_003_B08_ELLIOTT_019_JUDGE_MANI
+The angry tiger should get some prey to rip apart, then he will not pay attention to anything else and we will be able to live in peace. Since the tiger wants to sink its teeth into the clergy…
+$DISC_INTR_003_B08_ELLIOTT_020_JUDGE_JOKE
+We really do not have another choice. They want the clergy, so let us give it to them. If they are accusing the clergy of treason, then we should echo their words. Simple and efficient.
+$DISC_INTR_003_B08_ELLIOTT_021_JUDGE_HUMI
+I am against hurting the Church. It hurts itself through the hands of degenerates who are cursed by our Citizens. We need to cut ties with that entire group. For the greater good.
+$DISC_INTR_003_B08_ELLIOTT_022_ELLIOT_SATI
+You have my support. I will pull some strings and talk to my friends at the Convention.
+$DISC_INTR_003_B08_ELLIOTT_023_ELLIOT_INTR
+I am willing to make this move if it is enough to calm the firebrands. Peace on the streets means more to me than one archbishop.
+$DISC_INTR_003_B08_ELLIOTT_024_ELLIOT_DOUB
+I’d rather not go against Gobel without knowing your true intentions. I’m sorry.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_01
+The situation on the street is becoming difficult to control.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_02
+The trouble with Gobel has only poured salt on the wound.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_03
+We need to punish someone and set an example, and the people want to get to the clergy.

@@ -1,0 +1,154 @@
+$GEN_040_DOC_01_HEADER
+Zusammengestellt von: Charles Étienne
+$GEN_040_DOC_01_00
+Einer der örtlichen Händler, Guy Deniau, begab sich zur Station der Nationalgarde bei den Hallen. Mit lauter Stimme erklärte er, dass der Besitzer eines benachbarten Standes absichtlich <a name="2" class="hidden">Holzteer</a> in sein Heringsfass gegossen habe. Für dieses angebliche Vergehen forderte Deniau eine angemessene Strafe. Die Soldaten gingen zu den Hallen und stellten fest, dass die Heringe tatsächlich abscheulich schmeckten. Da es jedoch keine Beweise für das Verbrechen gab, unternahmen sie nichts.
+$GEN_040_DOC_01_01
+Einige Stunden später kehrten die Wachen in die Hallen zurück. Diesmal war es der vormals Angeklagte Jean Courbis, der sie rief, und es gab eine Fülle von Beweisen am Tatort. Am deutlichsten war Deniau selbst, der vor Zeugen mit <a name="3" class="hidden">einem langen Holzstab</a> den Stand seines Nachbarn zertrümmerte.
+$GEN_040_DOC_01_02
+Der wütende Händler schüttelte die Faust und rief: „Wo wart ihr, als dieser Halunke meinen Platz <a name="4" class="hidden">am Eingang</a> gestohlen hat?“ Die Wachen hielten sich nicht mit Nachfragen auf, entwaffneten den energischen Händler und brachten ihn ins Gefängnis. Beim Verfassen des Berichts fand einer der Offiziere <a name="5" class="hidden">eine alte Denunziation</a>, die Deniau vor zwei Jahren geschrieben hatte.
+$GEN_040_DOC_02_TOOLTIP
+Anzeige von Guy Deniau:
+$GEN_040_DOC_02_00
+Ich möchte melden, dass Bürger Courbis keine Abgaben für seinen Stand an die Stadt zahlt. Außerdem <a name="6" class="hidden">kritisierte er offen die neue Ordnung</a>, wenn er mit seinen Kunden spricht.
+$GEN_040_OnStart_00
+Ihr Name?
+$GEN_040_OnStart_01
+Deniau. Frischer Fisch seit 1772.
+$GEN_040_OnStart_02
+Und seit gestern auch noch ein Vandale?
+$GEN_040_OnStart_03
+Ich bin nicht stolz auf das, was ich getan habe, aber irgendwann reicht es.
+$GEN_040_OnStart_04
+Ach ja?! So wie damals vor sechs Monaten, als du mir acht Francs aus der Kasse gestohlen hast?
+$GEN_040_OnStart_05
+Irgendein Straßenjunge hat dir das aus der Tasche gezogen, während du gerade–
+$GEN_040_OnStart_06
+Ruhe! Ihr sprecht erst, wenn ihr gefragt werdet.
+$GEN_040_OnPrison_00
+Es sieht so aus, als müssten die Pariser ihren Fisch künftig woanders kaufen. Bürger Deniau, ich verurteile Sie wegen Vandalismus zu einer Gefängnisstrafe.
+$GEN_040_OnPrison_01
+Besser, ihr warnt die Wachen, dass ihr Leben nicht leicht sein wird.
+$GEN_040_OnPrison_02
+Ich glaube nicht, dass das Volk mit einer so harten Strafe zufrieden sein wird.
+$GEN_040_OnNotGuilty_00
+Persönliche Streitigkeiten gehören nicht vor Gericht. Bürger Deniau, Sie dürfen gehen, aber ich befehle Ihnen, Ihren Stand woanders aufzubauen.
+$GEN_040_OnNotGuilty_01
+Gute Idee. Er sollte seine Heringe näher an die Mülltonnen stellen – den Unterschied würde ohnehin niemand riechen.
+$GEN_040_OnNotGuilty_02
+Warum ist bloß niemand früher darauf gekommen, diese beiden Unruhestifter zu trennen?
+$GEN_040_02x03_00_QTitle
+Welche Waren verkauft Bürger Courbis?
+$GEN_040_02x03_00_00
+Welche Waren verkauft Bürger Courbis?
+$GEN_040_02x03_00_01
+Obst und Gemüse.
+$GEN_040_02x03_00_02
+Und Sie verkaufen Fisch?
+$GEN_040_02x03_00_03
+Direkt aus Yport und Petites-Dalles.
+$GEN_040_02x03_00_04
+Verstehe. Warum kam dann einer von euch mit Teer und der andere mit einer Holzstange zu den Hallen?
+$GEN_040_02x03_00_05
+…
+$GEN_040_02x03_00_06
+Bürger?
+$GEN_040_02x03_00_07
+Ich weiß es nicht mehr. Der Stock lag wohl irgendwo beim Stand. Courbis hingegen hatte seine Tat eindeutig geplant.
+$GEN_040_05x04_01_QTitle
+Es scheint, als würde Ihr Konflikt bereits seit einiger Zeit andauern.
+$GEN_040_05x04_01_00
+Es scheint, als würde Ihr Konflikt bereits seit einiger Zeit andauern.
+$GEN_040_05x04_01_01
+Alles begann damit, dass dieser Halunke seinen Stand genau dort aufgestellt hat, wo meiner stehen sollte – direkt am Eingang.
+$GEN_040_05x04_01_02
+Das war nicht dein Platz, du hast ihn nach dem alten Choquette übernommen!
+$GEN_040_05x04_01_03
+Ruhe! Und seitdem konnten Sie sich nicht einigen?
+$GEN_040_05x04_01_04
+Wenn ich so darüber nachdenke, hat es vielleicht sogar noch früher angefangen. Jean weigerte sich einmal, für einen Rotbarben zu bezahlen, den seine Frau mitgenommen hatte.
+$GEN_040_05x04_01_05
+Meine ganze Familie ist wegen diesem faulen Kadaver krank geworden. Sei froh, dass ich nicht–
+$GEN_040_05x04_01_06
+Muss ich mich wiederholen? Schweigt, sonst bekommt ihr beide noch mehr Ärger, als ihr ohnehin schon habt.
+$GEN_040_06x05_02_QTitle
+Wir haben Ihre Denunziation gegen Bürger Courbis gefunden.
+$GEN_040_06x05_02_00
+Wir haben Ihre Denunziation gegen Bürger Courbis gefunden. Warum haben Sie sie verfasst?
+$GEN_040_06x05_02_01
+Er hat es getan, weil ich angefangen habe, Sprotten zu verkaufen!
+$GEN_040_06x05_02_02
+Halt endlich den Mund! Monsieur le juge, ich wollte doch nur der Stadt helfen. Jeder Händler zahlt für seinen Platz in den Hallen, also sollte Courbis auch zahlen.
+$GEN_040_06x05_02_03
+Du Lügner und Gauner! Erinnerst du dich nicht, wie du dich beim Metzger vor dem königlichen Steuereintreiber versteckt hast?
+$GEN_040_06x05_02_04
+Ruhe!
+$GEN_040_06x05_02_05
+Ich habe versucht, den königlichen Abgaben zu entkommen. Du hast erst nach Beginn der Revolution angefangen!
+$GEN_040_06x05_02_06
+Seid still, ihr beide.
+$GEN_040_06x04_03_QTitle
+Bürger Courbis, treten Sie näher.
+$GEN_040_06x04_03_00
+Bürger Courbis, treten Sie näher.
+$GEN_040_WIT_00_A_QTitle
+Stellen Sie die neue Ordnung tatsächlich infrage?
+$GEN_040_WIT_00_A_00
+Stellen Sie die neue Ordnung tatsächlich infrage?
+$GEN_040_WIT_00_A_01
+Das ist üble Nachrede, erfunden von einem Mann, der alte Flundern verkauft!
+$GEN_040_WIT_00_A_02
+Heißt das nein?
+$GEN_040_WIT_00_A_03
+Natürlich ist es so. Ich bin Händler, kein Politiker.
+$GEN_040_WIT_00_B_QTitle
+Stimmt es, dass Sie den Platz von Guy Deniau am Eingang der Hallen eingenommen haben?
+$GEN_040_WIT_00_B_00
+Stimmt es, dass Sie Guy Deniaus Platz am Eingang der Hallen eingenommen haben?
+$GEN_040_WIT_00_B_01
+Er hat sich zuerst den Platz eines toten Händlers genommen. Ich habe es nur zur passenden Gelegenheit ebenso gemacht.
+$GEN_040_WIT_00_B_02
+War das Ihr erster Konflikt?
+$GEN_040_WIT_00_B_03
+Ende der Siebziger hat mich dieser Geizhals um dreißig Francs angebettelt. Zwei Jahre lang musste ich ihm hinterherlaufen, bis ich sie zurückbekam!
+$GEN_040_WIT_00_B_04
+Bürger Deniau, ich sehe, dass Sie etwas hinzufügen möchten, aber ich bitte Sie, davon abzusehen.
+$GEN_040_WIT_01_A_QTitle
+Warum hatten Sie an jenem Tag Teer bei sich?
+$GEN_040_WIT_01_A_00
+Warum hatten Sie an jenem Tag Teer bei sich?
+$GEN_040_WIT_01_A_01
+Ich verkaufe Obst, aber meine Lieferanten kaufen manchmal Holzteer, weil er Schädlinge fernhält.
+$GEN_040_WIT_01_A_02
+Und warum haben Sie es in das Fass von Bürger Deniau gegossen?
+$GEN_040_WIT_01_A_03
+Ich habe so etwas nicht getan! Wahrscheinlich hat er es selbst hineingeschüttet, nur um mich wieder zu verleumden.
+$GEN_040_WIT_01_A_04
+Lügner!
+$GEN_040_WIT_01_A_05
+Beruhigen Sie sich!
+$GEN_040_WIT_01_B_QTitle
+Zwischen dem Besuch von Bürger Deniau auf der Wache und Ihrem Vandalismus vergingen einige Stunden …
+$GEN_040_WIT_01_B_00
+Zwischen dem Besuch von Bürger Deniau auf der Wache und Ihrer Meldung über Vandalismus vergingen einige Stunden. Was geschah in dieser Zeit?
+$GEN_040_WIT_01_B_01
+Was ist passiert? Er hat sich ständig über meine stinkenden Heringe lustig gemacht!
+$GEN_040_WIT_01_B_02
+Nichts Besonderes, nur das übliche Geschäft.
+$GEN_040_WIT_01_B_03
+Und ganz plötzlich griff Guy Deniau nach einem Stock und begann, Ihren Stand zu zerstören?
+$GEN_040_WIT_01_B_04
+Er ist völlig ausgerastet, wie ein wildes Tier.
+$GEN_040_WIT_01_B_05
+Bürger Courbis, halten Sie mich bitte nicht für einen Narren…
+$GEN_040_KEY_01
+Die Hallen
+$GEN_040_KEY_02
+Holzteer
+$GEN_040_KEY_03
+Holzstab
+$GEN_040_KEY_04
+Stand neben dem Eingang
+$GEN_040_KEY_05
+Alte Denunziation
+$GEN_040_KEY_06
+Konterrevolutionäre Propaganda

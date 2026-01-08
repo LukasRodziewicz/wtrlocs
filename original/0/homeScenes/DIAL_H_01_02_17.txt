@@ -1,0 +1,38 @@
+$DIAL_H_01_02_17_001_SPY
+Długo byłeś nieprzytomny.
+$DIAL_H_01_02_17_002_JUDGE
+Kim jest człowiek, który – jak się zdaje – uratował mi życie?
+$DIAL_H_01_02_17_003_SPY
+Grégory Ramel. Nie znasz mnie, choć ja wiem o tobie całkiem sporo. Ta dama obok to…
+$DIAL_H_01_02_17_004_JUDGE
+Znam Grace Elliott… To ty mnie pozszywałaś?
+$DIAL_H_01_02_17_005_GRACE_ELLIOTT
+Nie pierwszy raz ratuję komuś życie. Ofiar rewolucji jest więcej, niż ci się wydaje.
+$DIAL_H_01_02_17_006_SPY
+Naruszyłeś pozycję ministra Rolanda, ale ważniejsze jest, że zagroziłeś biznesowi prowadzonemu przez jego rezolutną żonę. Temu przybytkowi, z którego procent zysków szedł do kieszeni Jeana-Nicolasa Pache’a, mera Paryża, oraz Jeana-Baptiste’a Gobela, arcybiskupa Paryża – sojuszników rodziny Rolandów.
+$DIAL_H_01_02_17_007_JUDGE
+Nie wiedziałem…
+$DIAL_H_01_02_17_008_SPY
+Gdyby takie informacje były łatwo dostępne, toby oznaczało, że ktoś źle wykonuje swoją pracę.
+$DIAL_H_01_02_17_009_JUDGE
+Ale ty wiesz…
+$DIAL_H_01_02_17_010_SPY
+Tak, bo żyję z posiadania takiej wiedzy. Po ulicy chodzą słuchy, że żyrondyści chcą siłą przejąć Konwent. Ośmieszenie króla i wyjawienie powiązań prominentnego żyrodynsty, jakim jest Roland, z koronowanym zdrajcą osłabiło ich. Tę sytuację zapewne spróbują wykorzystać jakobini, z Robespierre’em i Dantonem na czele. To może być ich czas. 
+$DIAL_H_01_02_17_011_JUDGE
+Nie chcę się w to dalej mieszać – ci ludzie nie żartują i nie patyczkują się.
+$DIAL_H_01_02_17_012_SPY
+Obawiam się, że nie masz drogi ucieczki, przynajmniej póki żyją państwo Rolandowie. Kiedy tylko dowiedzą się, że przeżyłeś atak, spróbują czegoś ponownie. Wyrok na ciebie już zapadł. 
+$DIAL_H_01_02_17_013_JUDGE
+Zdajesz się dużo o mnie wiedzieć. Skąd? Nie rozumiem…
+$DIAL_H_01_02_17_014_GRACE_ELLIOTT
+Dość na teraz. Musisz odpocząć, zregenerować się. Twoje rany…
+$DIAL_H_01_02_17_015_SPY
+Znałem twojego brata…
+$DIAL_H_01_02_17_016_GRACE_ELLIOTT
+Panie Grégory!
+$DIAL_H_01_02_17_017_SPY
+Ma pani rację. Wrócimy do tego tematu.
+$DIAL_H_01_02_17_018_JUDGE
+Nie podziękowałem wam za to wszystko…
+$DIAL_H_01_02_17_019_SPY
+Będziesz miał jeszcze szansę.

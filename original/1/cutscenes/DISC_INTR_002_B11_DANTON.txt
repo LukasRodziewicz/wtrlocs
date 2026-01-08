@@ -1,0 +1,80 @@
+$DISC_INTR_002_B11_DANTON_001_V1_DANTON
+Forgive me, but I cannot help but notice that there is blood under your nails and on your cuffs.
+$DISC_INTR_002_B11_DANTON_002_V1_JUDGE
+Sorry, my previous appointment did not go according to plan.
+$DISC_INTR_002_B11_DANTON_003_V1_DANTON
+So we will not be having a friendly tea party?
+$DISC_INTR_002_B11_DANTON_004_V1_JUDGE
+That is up to you.
+$DISC_INTR_002_B11_DANTON_001_V2_DANTON
+I am sure that you are going to explain why you have called for me at such a late hour. Especially when it is pouring outside.
+$DISC_INTR_002_B11_DANTON_004_JUDGE_AGGR
+I know about your alliance with Pache. Do not anger me further by trying to deny it.
+$DISC_INTR_002_B11_DANTON_005_JUDGE_MANI
+Some of my friends have informed me that you have entered into a secret alliance with the Mayor of Paris.
+$DISC_INTR_002_B11_DANTON_006_JUDGE_JOKE
+Who could have thought you would get yourself into such a situation. I know you are plotting something with Pache.
+$DISC_INTR_002_B11_DANTON_007_JUDGE_HUMI
+Do not get me wrong, but your secret alliance with Pache is no longer a secret. I would hate to hinder anything, but I have learned of terrible things about him and thought we should talk…
+$DISC_INTR_002_B11_DANTON_008_DANTON_INTR
+What do you wish to do with that knowledge?
+$DISC_INTR_002_B11_DANTON_009_DANTON_DOUB
+You are overestimating the value of that knowledge. Are you now interested in political alliances between deputies?
+$DISC_INTR_002_B11_DANTON_010_DANTON_IRRI
+Do you realise how many others have attempted to deceive me in this way? What do I care that you know of my political alliances?
+$DISC_INTR_002_B11_DANTON_011_JUDGE_AGGR
+I have a testimony that confirms Pache is an Austrian spy. My friend, with an anchor like that, you will sink.
+$DISC_INTR_002_B11_DANTON_012_JUDGE_MANI
+I have a testimony that says Pache is an Austrian spy. We will pressure him into disclosing the names of his allies. That way, he will avoid decapitation – his accomplices will not.
+$DISC_INTR_002_B11_DANTON_013_JUDGE_JOKE
+The guillotine does not care whether it falls on the necks of traitors or those who helped them. I happen to have evidence of Pache’s collaboration with the Austrians, and since you are working with him…
+$DISC_INTR_002_B11_DANTON_014_JUDGE_HUMI
+It would be a shame if all your hard work for the Revolution was ignored because of a scandal. And there surely will be one if I publish a written testimony that reveals Pache is an Austrian spy. The public will demand that his colleagues also lose their heads.
+$DISC_INTR_002_B11_DANTON_015_DANTON_INTR
+I am listening.
+$DISC_INTR_002_B11_DANTON_016_DANTON_DOUB
+I have been through this before. I was already suspected of espionage.
+$DISC_INTR_002_B11_DANTON_017_DANTON_IRRI
+I hoped for a civil conversation, yet all I hear are threats and insinuations.
+$DISC_INTR_002_B11_DANTON_018_DANTON_AGGR
+Will you say something I have not yet heard from other extortionists?!
+$DISC_INTR_002_B11_DANTON_019_JUDGE_AGGR
+There is also a suspicion, bordering on certainty, that Pache arranged my attempted assassination. He will pay for his crime, but his allies will get a choice, and if they do not choose the path of redemption, they will die.
+$DISC_INTR_002_B11_DANTON_020_JUDGE_MANI
+You could also be involved with a Judge of the Tribunal’s attempted assassination. After all, you have been collaborating with Pache, who paid for the attack…
+$DISC_INTR_002_B11_DANTON_021_JUDGE_JOKE
+Did you really have to make an alliance with the man who tried to assassinate me? Do you think anyone will care if you were really involved in it?
+$DISC_INTR_002_B11_DANTON_022_JUDGE_HUMI
+Pache arranged an attempt on my life. He will be punished accordingly, but you do not have to share his fate. I know that you were not involved, but the people will think of you as a murderer’s accomplice, and your legacy will be destroyed immediately.
+$DISC_INTR_002_B11_DANTON_023_JUDGE_AGGR
+The time has come for Pache to be punished. Leave him and become my ally, or share his fate! Choose, and be thankful that I even gave you the opportunity to do so.
+$DISC_INTR_002_B11_DANTON_024_JUDGE_MANI
+Do you really want to remain at the side of a man who has the guillotine’s blade over his head, instead of joining forces with the person in control of who it falls upon? Your friendship with Pache is the shortest route to sharing his fate. What will be better for your interests?
+$DISC_INTR_002_B11_DANTON_025_JUDGE_JOKE
+Once I get to Pache, the blade will fall. I am offering you an alliance with the person responsible for the guillotine – me. Politics is the art of distancing yourself from those allies that drag you down.
+$DISC_INTR_002_B11_DANTON_026_JUDGE_HUMI
+Pache cannot be saved, but you can. Do not let them decapitate you because of him. An alliance with the person in charge of the guillotine would strongly decrease the risk you are facing.
+$DISC_INTR_002_B11_DANTON_027_DANTON_INTR
+You are right, my acquaintance with Pache is quite the burden. I will gladly do as you please.
+$DISC_INTR_002_B11_DANTON_028_DANTON_DOUB
+You are forgetting that my name is Danton and that I have many friends in the city… On the other hand, things have taken quite an unfortunate turn. Very well, let us see where this collaboration takes us.
+$DISC_INTR_002_B11_DANTON_029_DANTON_IRRI
+You invite me here to make threats? Do not count on any collaboration between us. Goodbye.
+$DISC_INTR_002_B11_DANTON_030_DANTON_AGGR
+You rotten judge! You wish to make me your dog?! My name is Danton, and I am the one who keeps people on a leash!
+$DISC_INTR_002_B11_DANTON_TOPIC_01
+I know about your alliance with Pache.
+$DISC_INTR_002_B11_DANTON_TOPIC_02
+Pache is collaborating with an enemy state.
+$DISC_INTR_002_B11_DANTON_TOPIC_03
+Pache may be involved in the assassination attempt of a Judge.
+$DISC_INTR_002_B11_DANTON_TOPIC_04
+The Judge of the Tribunal is a safer bet.
+$DISC_INTR_002_B11_DANTON_001_SUCCESS_JUDGE
+I need to know what you and Pache were plotting.
+$DISC_INTR_002_B11_DANTON_002_SUCCESS_DANTON
+It was regarding the Pont de la Révolution.
+$DISC_INTR_002_B11_DANTON_003_SUCCESS_JUDGE
+The bridge the builders are not able to finish?
+$DISC_INTR_002_B11_DANTON_004_SUCCESS_DANTON
+It has not been finished because the Mayor and I have been obstructing the process.

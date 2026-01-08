@@ -1,0 +1,205 @@
+$GEN_003_DOC_01_HEADER
+Zusammengestellt von: Raphaël Chalopin
+$GEN_003_DOC_01_00
+Auf der Anklagebank sitzt Lucien Blanchot, wohnhaft in der Section des Gravilliers, rue Meslée. Bürger Blanchot besitzt mehrere Lebensmittelstände. Uns liegen zahlreiche <a name="1" class="hidden">Beschwerden</a> über seine unlauteren Handelspraktiken vor, darunter der Verkauf verdorbener Früchte, Preisspekulation und die Missachtung der <a name="3" class="hidden">gesetzlichen Preisobergrenzen</a>.
+$GEN_003_DOC_01_01
+Herr Blanchot hat alle Vorwürfe zurückgewiesen, doch meine Untersuchung an seinen Ständen ergab, dass zumindest einige Beschwerden berechtigt waren. Er erklärte, die erhöhten Preise seien auf <a name="4" class="hidden">„Fehler der Angestellten“</a> zurückzuführen, und das verdorbene Obst und Gemüse sollte am Tag der Inspektion entsorgt werden. Es sei angemerkt, dass Blanchot, als die Kontrolleure ihn auf die Verstöße hinwiesen, seine Mitarbeiter tadelte und umgehend begann, Ordnung an seinem Stand wiederherzustellen.
+$GEN_003_DOC_01_02
+<h1>Lucien Blanchot</h1>
+Ein junger Händler und überzeugter Anhänger der Jakobiner. Er behauptet, <a name="5" class="hidden">Verbindungen</a> zu Marat und Robespierre zu haben. Bisher ist er mit all seinen zwielichtigen Geschäften davongekommen – vielleicht steckt also doch etwas Wahres in seinem Prahlen.
+$GEN_003_DOC_01_03
+Zeuge 1: „Er hat mir faule Äpfel verkauft. Oben drauf hat er frische gelegt, damit ich es nicht merke!“
+$GEN_003_DOC_01_04
+Zeugin 2: „Mein Mann <a name="7" class="hidden">musste zwei Tage lang ununterbrochen würgen</a>, nachdem er den Sellerie gegessen hatte, den er bei diesem Betrüger gekauft hat!“
+$GEN_003_OnStart_00
+Ich habe die Karotten selbst bei ihm gekauft!
+$GEN_003_OnStart_01
+Bitte stellen Sie sich vor.
+$GEN_003_OnStart_02
+Lucien Blanchot.
+$GEN_003_OnStart_03
+Beruf?
+$GEN_003_OnStart_04
+Zurzeit? Händler. Und vorübergehend auch Gefangener.
+$GEN_003_OnStart_05
+Ihnen wird Preisspekulation, das Überschreiten gesetzlicher Preisgrenzen und der Verkauf von ungenießbaren Waren vorgeworfen.
+$GEN_003_OnStart_06
+War das alles?
+$GEN_003_OnStart_07
+Ich bitte das Gericht, vorsätzliche Vergiftung der Pariser Bürger zur Anklageliste hinzuzufügen.
+$GEN_003_OnStart_08
+Vergiftung? An verdorbenem Gemüse ist noch niemand gestorben.
+$GEN_003_OnStart_09
+Geben Sie damit also die übrigen Anklagepunkte zu?
+$GEN_003_OnStart_10
+Ich bin ein ehrlicher Geschäftsmann, und solche Anschuldigungen werden meinem Handel keinen Schaden zufügen.
+$GEN_003_OnGuilty_00
+Ich verurteile Bürger Lucien Blanchot zur Guillotine! Führt den Verurteilten ab.
+$GEN_003_OnGuilty_01
+Undenkbar! Ein Todesurteil für ein geringfügiges Vergehen? Ich protestiere!
+$GEN_003_OnGuilty_02
+Mal sehen, wie lange er jetzt noch frisch bleibt!
+$GEN_003_OnGuilty_03
+Ich habe mächtige Freunde! Das werden Sie noch bereuen, Sie unfähiger Wicht!
+$GEN_003_OnPrison_00
+Ich verurteile Bürger Lucien Blanchot zu Haft! Führt den Verurteilten ab.
+$GEN_003_OnPrison_01
+Mal sehen, wie lange er hinter Gittern frisch bleibt!
+$GEN_003_OnPrison_02
+Ich habe Freunde in hohen Kreisen. In wenigen Tagen werde ich frei sein. Sie hingegen...
+$GEN_003_OnNotGuilty_00
+Das Urteil im Fall des Bürgers Blanchot… Nicht schuldig! Der Angeklagte ist frei.
+$GEN_003_OnNotGuilty_01
+Ich danke Ihnen für Ihr gerechtes Urteil. Es erfüllt mein Herz mit Wärme zu wissen, dass wir noch so ehrenwerte Richter haben.
+$GEN_003_OnNotGuilty_02
+Das ist doch eine Farce!
+$GEN_003_OnNotGuilty_03
+Nicht schuldig? Die Beweise wurden Ihnen doch auf dem Silbertablett serviert!
+$GEN_003_01x06_00_QTitle
+Geben Sie zu, verdorbene Waren verkauft zu haben?
+$GEN_003_01x06_00_00
+Geben Sie zu, verdorbene Waren verkauft zu haben?
+$GEN_003_01x06_00_01
+Das haben die Inspektoren bereits festgestellt. Es besteht kein Grund, die Angelegenheit erneut zu erörtern.
+$GEN_003_01x06_00_02
+Beantworten Sie die Frage!
+$GEN_003_01x06_00_03
+Ja und nein. Ja, weil ich zugebe, dass solche Vorfälle an meinen Ständen gemeldet wurden. Nein, weil es nicht meine Schuld war.
+$GEN_003_01x06_00_04
+Wessen Schuld war es also?
+$GEN_003_01x06_00_05
+Ich kann nicht dafür verantwortlich gemacht werden, dass die Natur nicht alle Äpfel gleich geschaffen hat. Äpfel sind keine Bürger Frankreichs.
+$GEN_003_01x06_00_06
+Aber Sie sind der Inhaber dieses Geschäfts und können für die von Ihnen verkauften Waren zur Rechenschaft gezogen werden.
+$GEN_003_01x06_00_07
+Ich habe niemals jemanden dazu gezwungen, etwas bei mir zu kaufen.
+$GEN_003_01x06_00_08
+Wollen Sie damit sagen, dass Ihre Kunden verdorbene Lebensmittel bewusst gekauft haben?
+$GEN_003_01x06_00_09
+Sie kaufen Ihnen Karotten ab, schwarz wie Kohle, wenn Sie den Preis um ein paar Franc senken – aber erwarten trotzdem, dass sie schmecken, als kämen sie frisch aus der Erde.
+$GEN_003_01x06_00_10
+Er beleidigt das Volk! Werft den Schurken in Ketten!
+$GEN_003_01x07_01_QTitle
+Wussten Sie, dass Ihre Waren Ihre Kunden krank gemacht haben?
+$GEN_003_01x07_01_00
+Wussten Sie, dass Ihre Waren Ihre Kunden krank gemacht haben?
+$GEN_003_01x07_01_01
+Wenn jemand beweisen kann, dass meine Waren die Ursache waren, übernehme ich gerne die Kosten für seine Behandlung – oder für das Begräbnis. Es braucht nur jemand vorzutreten.
+$GEN_003_01x07_01_02
+Iss diesen Fraß doch selbst, dann hast du deinen Beweis!
+$GEN_003_01x07_01_03
+Ich möchte Sie daran erinnern, dass Zeugenaussagen berücksichtigt werden.
+$GEN_003_01x07_01_04
+Er hat den Leuten Scheiße verkauft, kein Essen.
+$GEN_003_01x07_01_05
+Aussagen von Neidern, die alles tun würden, um einem wohlhabenderen Mann zu schaden. Wahrlich überzeugende Beweise.
+$GEN_003_02x03_02_QTitle
+Kommen wir zum Verstoß gegen die gesetzlichen Preisobergrenzen–
+$GEN_003_02x03_02_00
+Bevor Monsieur der Richter fragt, lassen Sie mich eines klarstellen: An meinen Ständen wurden die gesetzlichen Preisgrenzen niemals vorsätzlich überschritten. Solche Anschuldigungen empfinde ich als böswillig und niederträchtig.
+$GEN_003_02x03_02_01
+Einspruch! Sie haben die Preise erst nach dem Eintreffen der Inspektoren angepasst.
+$GEN_003_02x03_02_02
+Solche wie er gehören im Gefängnis zu verrotten.
+$GEN_003_02x03_02_03
+Die Inspektoren haben mir eine beträchtliche Geldstrafe auferlegt, die ich umgehend bezahlt habe. Für meine Nachlässigkeit habe ich bereits die Folgen getragen.
+$GEN_003_02x03_02_04
+Eine Geldstrafe hält ihn doch nicht davon ab, faule Tomaten zu verkaufen!
+$GEN_003_02x04_03_QTitle
+Es scheint, Ihre Angestellten neigen dazu, häufig Fehler zu machen.
+$GEN_003_02x04_03_00
+Es scheint, dass Ihre Angestellten recht anfällig für Fehler sind.
+$GEN_003_02x04_03_01
+Ich würde alles selbst erledigen, wenn ich könnte, aber das ist unmöglich.
+$GEN_003_02x04_03_02
+Gab es in ganz Paris niemanden, der kompetent genug war? Haltet Ihr Eure Mitbürger wirklich für so unfähig?
+$GEN_003_02x04_03_03
+Nun, die meisten Menschen sind Dummköpfe. Allein die Tatsache, dass ich mich vor Gericht verteidigen muss, beweist das.
+$GEN_003_02x04_03_04
+Hat der Angeklagte seinen Untergebenen ausreichende Anweisungen erteilt?
+$GEN_003_02x04_03_05
+Ich besitze eine Kette von Gemüseständen, keine Armenschule für Schwachköpfe.
+$GEN_003_02x04_03_06
+Er beleidigt uns!
+$GEN_003_02x05_04_QTitle
+Könnten Sie erklären, warum es über die Jahre so viele Beschwerden über Ihr Geschäft gegeben hat…?
+$GEN_003_02x05_04_00
+Können Sie erklären, warum es über die Jahre so viele Beschwerden über Ihr Geschäft gab, und dennoch ist dies das erste Mal, dass Sie sich vor Gericht verantworten müssen?
+$GEN_003_02x05_04_01
+Vielleicht liegt es daran, dass die meisten dieser Beschwerden nichts weiter als haltlose Anschuldigungen neidischer Nichtsnutze waren?
+$GEN_003_02x05_04_02
+Bist du dir so sicher, dass Marat und Robespierre dich beschützen werden?
+$GEN_003_02x05_04_03
+Ich bin überzeugt, dass das Gesetz mich schützen wird. Die Gerechtigkeit ist auf meiner Seite.
+$GEN_003_02x05_04_04
+Wie meinen Sie das?
+$GEN_003_02x05_04_05
+Das Gesetz soll die Unschuldigen schützen. Es muss auf der Seite derer stehen, die zu Unrecht leiden –
+$GEN_003_02x05_04_06
+Verschonen Sie uns mit Ihrer Rede. Das hier ist keine Sitzung des Nationalkonvents.
+$GEN_003_02x05_04_07
+Hat irgendjemand davon etwas verstanden?
+$GEN_003_02x05_04_08
+Verzeihen Sie mir. Meine Seele verlangt nach Gerechtigkeit, damit die von Ihnen genannten Staatsmänner, Marat und Robespierre, nicht an meiner Stelle Recht sprechen müssen.
+$GEN_003_03x04_05_QTitle
+Wir haben Ihre Bücher geprüft und festgestellt, dass Sie regelmäßig die gesetzlichen Preisobergrenzen überschreiten…
+$GEN_003_03x04_05_00
+Wir haben Ihre Bücher geprüft und festgestellt, dass Sie regelmäßig die gesetzlich festgelegten Preisobergrenzen überschritten haben. Bestreiten Sie auch diesen Vorwurf?
+$GEN_003_03x04_05_01
+Diese Bücher werden von einfachen Leuten geführt, die Fehler machen können. Ich werde sie erneut prüfen und entsprechende Maßnahmen ergreifen –
+$GEN_003_03x04_05_02
+Sie befinden sich nicht in einem Verwaltungsbüro, Bürger Blanchot. Diese Aufzeichnungen sind in ihrem jetzigen Zustand Beweismaterial für das Gericht.
+$GEN_003_03x04_05_03
+Das sind doch bloße Buchhaltungsfehler, ein versehentlich falsch gesetztes Komma oder eine Null an der falschen Stelle. Das lässt sich alles erklären. Sind wir hier nicht alle Freunde Frankreichs? Bürger Robespierre hat mir versichert, dass dem so ist.
+$GEN_003_03x04_05_04
+Hat Bürger Robespierre Ihnen etwa auch zugesichert, dass Sie ungestraft Akten fälschen dürfen?
+$GEN_003_03x04_05_05
+Natürlich nicht…
+$GEN_003_03x04_05_06
+Warum haben Sie ihn dann erwähnt?
+$GEN_003_03x04_05_07
+Ich …
+$GEN_003_03x04_05_08
+Robespierre ist doch kein Lakai für solche Krämer wie ihn!
+$GEN_003_03x04_05_09
+Ruhe! Oder ich vertage die Verhandlung!
+$GEN_003_03x04_05_10
+Haben sie etwa auch den Richter bestochen?
+$GEN_003_KEY_01
+Kundenbeschwerden
+$GEN_003_KEY_02
+Unfaire Praktiken
+$GEN_003_KEY_03
+Gesetzliche Preisobergrenzen
+$GEN_003_KEY_04
+Fehler der Angestellten
+$GEN_003_KEY_05
+Die Verbindungen des Angeklagten
+$GEN_003_KEY_06
+Faule Äpfel
+$GEN_003_KEY_07
+Vergiftete Kunden
+$GEN_003_LastDialog_00
+Wegen ein paar fauler Äpfel? Seid ihr verrückt geworden? Wir müssen Robespierre einschalten!
+$GEN_003_UNIQUE_QUESTION_00
+Welche politischen Zugehörigkeiten des Angeklagten sind bestätigt?
+$GEN_003_UNIQUE_QUESTION_01
+Wie stand der Angeklagte zu den verhängten Geldstrafen?
+$GEN_003_UNIQUE_QUESTION_02
+Wie erklärt der Angeklagte seine Missachtung der gesetzlichen Preisobergrenzen?
+$GEN_003_UNIQUE_ANSWER_CORRECT_00_00
+Jakobiner-Anhänger.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Girondistischer Anhänger.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Keine Informationen über politische Zugehörigkeiten.
+$GEN_003_UNIQUE_ANSWER_CORRECT_01_00
+Sofort bezahlt.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Hat die Zahlung hinausgezögert.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Er bestach den Beamten, um dem Bußgeld zu entgehen.
+$GEN_003_UNIQUE_ANSWER_CORRECT_02_00
+Schreibfehler.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Robespierres Unterstützung.

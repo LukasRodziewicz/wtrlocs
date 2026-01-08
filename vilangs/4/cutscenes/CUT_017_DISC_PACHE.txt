@@ -1,0 +1,78 @@
+$CUT_017_DISC_PACHE_001_JUDGE
+Es ist schön, Sie endlich persönlich kennenzulernen.
+$CUT_017_DISC_PACHE_002_PACHE
+Es tut mir aufrichtig leid, dass Sie solch ein Grauen erleben mussten.
+$CUT_017_DISC_PACHE_003_PACHE
+Wenn ich nur wüsste, welcher Schurke hinter diesem abscheulichen Verbrechen steckt…
+$CUT_017_DISC_PACHE_003_JUDGE_AGGR
+Ich habe mir geschworen, die zur Rechenschaft zu ziehen, die mich töten wollten. Wer hat es gewagt? Ich werde die Guillotine mit ihrem Blut tränken.
+$CUT_017_DISC_PACHE_004_JUDGE_MANI
+Diese Leute ziehen es vor, im Schutz der Dunkelheit zu handeln – so wie auch wir die Nacht oft für unsere eigenen Bedürfnisse nutzen. Die Nacht sollte im Besitz der… richtigen Leute bleiben.
+$CUT_017_DISC_PACHE_005_JUDGE_JOKE
+Meine Frau drängt mich, die Schuldigen zu finden. Ich hingegen würde nur zu gern zu meinen Pflichten zurückkehren. Verstehen Sie mich, Bürger?
+$CUT_017_DISC_PACHE_006_JUDGE_HUMI
+Vielleicht hat dieses Attentat den Willen des Pariser Volkes ausgedrückt, doch wahrscheinlicher ist, dass es von jemandem geplant wurde, der die Revolution nicht so liebt wie wir beide.
+$CUT_017_DISC_PACHE_007_PACHE_SATI
+Es ist vollkommen nachvollziehbar, dass Sie sie erreichen wollen.
+$CUT_017_DISC_PACHE_008_PACHE_INTR
+Ja, es war ein schrecklicher Überfall, und ich würde nur zu gern herausfinden, wer den Mut hatte, so etwas zu wagen.
+$CUT_017_DISC_PACHE_009_PACHE_DOUB
+Ich bezweifle, dass die Menschen, die Sie suchen, hier in Paris sind. Entweder sind sie geflohen oder wurden von denen getötet, die sie geschickt haben. Sie jagen Gespenstern nach.
+$CUT_017_DISC_PACHE_010_JUDGE_AGGR
+Ich werde Himmel und Erde in Bewegung setzen, um sie zu fassen! Ich fordere, dass der Mann, der angeblich die Macht über diese Stadt hat, endlich beweist, dass Paris von Gerechtigkeit regiert wird – und nicht von Verbrechern!
+$CUT_017_DISC_PACHE_011_JUDGE_MANI
+Wen auch immer ich fragte, alle sagten mir, Jean-Nicolas Pache sei kein Mann, der solch abscheuliche Taten ignorieren würde. Täuschen sich die Pariser?
+$CUT_017_DISC_PACHE_012_JUDGE_JOKE
+Um ehrlich zu sein, weiß ich nicht, warum ich gerade Sie ausgewählt habe, mir bei der Suche nach den Schuldigen zu helfen. Sie wirkten einfach am freundlichsten und einfühlsamsten von allen Kandidaten.
+$CUT_017_DISC_PACHE_013_JUDGE_HUMI
+Wer, wenn nicht der Bürgermeister dieser großartigen Stadt, könnte hier Frieden und Ordnung wiederherstellen? Nur Sie sind imstande, die Grausamkeit zu beenden, der ich auf den Straßen zum Opfer gefallen bin.
+$CUT_017_DISC_PACHE_014_PACHE_SATI
+Es schmeichelt mir sehr, dass Sie mich als so aufgeklärten Verteidiger der Stadt sehen.
+$CUT_017_DISC_PACHE_015_PACHE_INTR
+Ich sehe das Feuer in deinen Augen. Ich frage mich, was wir gemeinsam erreichen könnten.
+$CUT_017_DISC_PACHE_016_PACHE_DOUB
+Wie ich bereits sagte, tut es mir leid um Sie. Doch überlassen wir das lieber den Fachleuten – wir haben dringendere Angelegenheiten zu besprechen.
+$CUT_017_DISC_PACHE_017_PACHE_IRRI
+Ihr Gefährte, François Hanriot, könnte Ihnen in dieser Angelegenheit weit mehr helfen. Ja, ich weiß von Ihrem kleinen Bündnis. Daher vermute ich, dass Sie mir gegenüber nicht ganz aufrichtig sind, Bürger Fidèle.
+$CUT_017_DISC_PACHE_018_JUDGE_AGGR
+Ich weiß nicht, ob es für jemanden mit Moral und Prinzipien eine größere Belohnung geben kann, als den Bedürftigen zu helfen und Verbrecher zur Rechenschaft zu ziehen.
+$CUT_017_DISC_PACHE_019_JUDGE_MANI
+Die Leute, die mich angegriffen haben, spazieren noch immer durch Paris und könnten jeden überfallen. Es ist beängstigend, sich vorzustellen, was passieren könnte, wenn sie von jemandem angeheuert werden, der zum Beispiel einen ähnlichen Anschlag auf den Bürgermeister von Paris plant.
+$CUT_017_DISC_PACHE_020_JUDGE_JOKE
+Diese Menschen sind bereits tot, das steht fest. Dennoch würde ich lieber gleich beim ersten Mal die Richtigen treffen, anstatt wahllos Unschuldige zu töten.
+$CUT_017_DISC_PACHE_021_JUDGE_HUMI
+Die Zukunft dieses Landes wird von unserer Entschlossenheit bestimmt. Verdienen wir das Lob des Volkes, wenn wir taub bleiben für seine Klagen? Diese Mörder sind eine Bedrohung für alle Einwohner.
+$CUT_017_DISC_PACHE_022_JUDGE_AGGR
+Wenn deine Hilfe einen Preis hat, soll es so sein. Ich werde dir einen Anteil an den Einnahmen des Etablissements zahlen, das wir Madame Roland abgenommen haben. Du wirst einer von uns sein.
+$CUT_017_DISC_PACHE_023_JUDGE_MANI
+Madame Rolands Einrichtung braucht verlässliche Verwalter. Andernfalls könnte sie für üble Zwecke missbraucht oder gar gegen uns gewandt werden. Und wenn ich die Gewinne mit Ihnen teilen würde…
+$CUT_017_DISC_PACHE_024_JUDGE_JOKE
+Das Bordell, das wir Madame Roland abgenommen haben, wirft genug Gewinn ab, um uns alle zu versorgen, und ich kann ihn mit dir teilen. Schließlich sollen wir doch Freunde werden.
+$CUT_017_DISC_PACHE_025_JUDGE_HUMI
+Ich würde jemanden wie dich nicht um Hilfe bitten, ohne dir auch etwas dafür zu geben. Madame Roland hat sich ein schönes Plätzchen geschaffen, Jean, und du wirst deinen Anteil am Gewinn bekommen.
+$CUT_017_DISC_PACHE_026_JUDGE_AGGR
+Dieses Bündnis brauchen wir beide. Niemand schlägt die ausgestreckte Hand des Richters des Tribunals aus. Ihre Ablehnung werde ich nicht akzeptieren.
+$CUT_017_DISC_PACHE_027_JUDGE_MANI
+Die Ergreifung der Attentäter ist erst der Anfang. Durch dieses Bündnis könnten Sie der mächtigste Mann in Paris werden. Ich werde Ihnen gerne helfen.
+$CUT_017_DISC_PACHE_028_JUDGE_JOKE
+Es ist mir eine große Freude zu wissen, dass ich meinen Pflichten nachgehen kann, wenn ein so rechtschaffener Mann wie Sie über meine Sicherheit wacht. Dieses Bündnis ist wahrlich von Vorteil. Bitte, erweisen Sie mir diesen Gefallen.
+$CUT_017_DISC_PACHE_029_JUDGE_HUMI
+Erweisen Sie mir die Ehre, unsere Freundschaft und unser Bündnis anzuerkennen. Gemeinsam werden wir die Mörder finden und Paris zu einem friedlicheren Ort machen.
+$CUT_017_DISC_PACHE_030_PACHE_SATI
+Ich nehme Ihre Hilfe an, denn dieses Bündnis wird unser Leben und das aller Pariser verbessern!
+$CUT_017_DISC_PACHE_031_PACHE_INTR
+Schade, dass wir uns nicht früher begegnet sind – Sie sind ein äußerst faszinierender Mann. Lassen Sie uns unsere Kräfte bündeln.
+$CUT_017_DISC_PACHE_032_PACHE_DOUB
+Sie haben sich große Mühe gegeben, mich zu überzeugen. Ich will nicht behaupten, dass es Ihnen ganz gelungen ist, aber… nun gut, machen wir es auf Ihre Weise. Ich werde das Risiko eingehen.
+$CUT_017_DISC_PACHE_033_PACHE_IRRI
+Ihr beherrscht die Kunst der Rede nicht gut genug, um eure wahren Absichten zu verbergen. Wollt ihr mich in etwas hineinziehen? Plant ihr vielleicht, mich zu töten? Ich weiß es nicht, aber ich bezweifle, dass ihr Gutes im Sinn habt. Euer Tod wäre mir ein Geschenk. Meine Herren?
+$CUT_017_DISC_PACHE_TOPIC_01
+Attentat / Suche nach den Tätern.
+$CUT_017_DISC_PACHE_TOPIC_02
+Nur Pache kann helfen.
+$CUT_017_DISC_PACHE_TOPIC_03
+Die moralischen Grundsätze müssen siegen.
+$CUT_017_DISC_PACHE_TOPIC_04
+Das Bordell, das wir übergeben.
+$CUT_017_DISC_PACHE_TOPIC_06
+Auf der Suche nach einem Freund / Bündnis.

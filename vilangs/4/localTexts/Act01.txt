@@ -1,0 +1,72 @@
+#A01C1_D07_LETTER_MAIN
+Bürger Capet wurde gefasst!
+#A01C2_D09_LETTER_MAIN
+Sehr geehrter Bürger Fidèle,
+Ich schreibe Ihnen, um Ihnen zu gratulieren – Sie sind nun Teil der Geschichte unseres Landes. Der Prozess gegen Bürger Capet ist in aller Munde. Außerdem möchte ich mit Ihnen das wichtige Thema der Ernennung des neuen Oberbefehlshabers der Nationalgarde besprechen, der Bürger Burel ablösen wird. Ich bin aufrichtig überzeugt, dass ich der beste Kandidat für dieses Amt bin. Wenn Sie es gestatten, würde ich Sie heute Abend gerne besuchen.
+#A01C2_D09_LETTER_SENDER
+Es lebe die Republik, François Hanriot
+#A01C2_D13_LETTER_MAIN
+Paris sollte dankbar sein, einen so leidenschaftlichen Verteidiger der Gerechtigkeit wie Sie zu haben. Müssen wir, die Abgeordneten des Nationalkonvents, nun um unsere Posten fürchten?
+#A01C2_D13_LETTER_SENDER
+Es lebe die Republik.
+Robespierre
+#A01C2_D16_LETTER_MAIN
+Mein lieber Freund, ich habe erfahren, dass Sie sich von einem abscheulichen Attentatsversuch erholen. Ihr Streit mit Minister Roland hat zur Mobilisierung der Girondisten geführt, die bestrebt sind, die Konvention zu übernehmen und höchstwahrscheinlich die Tyrannei wiederherzustellen. Um die Republik zu verteidigen, möchte meine Gruppe den ersten Schlag führen und die Anführer des Umsturzes verhaften. Die Liste der Verdächtigen ist noch nicht abschließend, da wir noch nicht sicher wissen, welchem der Rolands der Anschlag auf Ihr Leben zur Last gelegt werden soll.
+#A01C2_D16_LETTER_SENDER
+Es lebe die Republik,
+Maximilien Robespierre
+#A01C2_D17_LETTER_MAIN
+Die Schläger der Rolands führten das Attentat aus. Bezahlt hat Pache. Wer es jedoch geplant hat, weiß ich immer noch nicht.
+#A01C2_D17_LETTER_SENDER
+Ramel
+#A01C3_D19_LETTER_MAIN
+An Alexis Fidèle,
+Mir wurde mitgeteilt, dass Sie ein dringendes Treffen wünschen, um über die Verdächtigen des Anschlags auf Ihr Leben zu sprechen. Ich bin mehr als bereit, dies mit Ihnen zu besprechen.
+#A01C3_D19_LETTER_SENDER
+Es lebe die Republik, Jean-Nicolas Pache
+#A01C3_D20_NOTE_MAIN
+Marie nutzt jede Gelegenheit, sich mit Béatrice Caron zu treffen. Sie ist nicht in die Taten der Muscadins verwickelt, aber… wir können leicht den Anschein erwecken, dass es anders ist. Es ist entscheidend, dass alles wie eine Aktion der Garde wirkt. Sie dürfen nicht direkt beteiligt sein.
+#A01C2_D13_MAP_LOCKED
+Sie sind verletzt. Sie können das Handeln Ihrer Feinde nur passiv beobachten.
+$LETTER_CO_01_03_16_MAIN
+Sehr geehrte Richter des Revolutionstribunals, mit jedem Tag wächst die Zahl der Feinde der Republik. Wir bemühen uns, die Verräter zu schwächen, doch um erfolgreich zu sein, muss das Tribunal schneller und entschlossener handeln. Keine Gefängnisstrafen mehr! Schluss mit langwierigen Prozessen! Bei klaren und offensichtlichen Fällen werden die Ermittler die Akten kürzen, und gemäß dem Gesetz vom 22. Prairial könnt ihr, die Richter, den Angeklagten unmittelbar nach der Identifizierung verurteilen. Ein Prozess ist dann nicht mehr erforderlich.
+$LETTER_CO_01_03_16_SENDER
+Robespierre
+$LETTER_CO_01_03_23_001_TITLE
+Sehr geehrter Bürger,
+$LETTER_CO_01_03_23_001_MAIN
+Sowohl als Privatperson als auch als Vertreter des Nationalkonvents bin ich tief betrübt über den Tod Ihres Sohnes und spreche Ihnen mein Beileid aus.
+$LETTER_CO_01_03_23_001_SENDER
+Maximilien Robespierre
+$LETTER_CO_01_03_23_002_TITLE
+Sehr geehrter Bürger,
+$LETTER_CO_01_03_23_002_MAIN
+Ich kann kaum in Worte fassen, wie tief mich das abscheuliche Verbrechen an Ihrer Familie erschüttert hat. Frankreich steht an Ihrer Seite!
+$LETTER_CO_01_03_23_002_SENDER
+Georges Danton
+$LETTER_CO_01_03_23_003_TITLE
+Freund,
+$LETTER_CO_01_03_23_003_MAIN
+Wer könnte zu einer solch entsetzlichen Tat fähig sein? Wir müssen uns bald treffen, mein Freund.
+$LETTER_CO_01_03_23_003_SENDER
+Jacques-Louis David
+$LETTER_CO_01_03_23_004_TITLE
+Sehr geehrter Bürger,
+$LETTER_CO_01_03_23_004_MAIN
+In Zeiten wie diesen können wir uns nur dem Willen Gottes anvertrauen. Wir beten für Ihre Familie.
+$LETTER_CO_01_03_23_004_SENDER
+Jean-Baptiste Gobel
+$LETTER_CO_01_03_23_005_TITLE
+Lieber Fidèle,
+$LETTER_CO_01_03_23_005_MAIN
+Die Garde steht zu Ihren Diensten, wenn Sie ganz Paris auf den Kopf stellen wollen, um diese Bastarde zu finden. Nur ein Wahnsinniger würde ein Kind angreifen!
+$LETTER_CO_01_03_23_005_SENDER
+François Hanriot
+$LETTER_CO_01_03_23_006_MAIN
+Sind die ersten Beileidsbekundungen schon eingetroffen? Einer der Absender trägt mit Sicherheit die Verantwortung für den Angriff auf Ihre Familie.
+$LETTER_CO_01_03_23_006_SENDER
+Ramel
+$LETTER_CO_01_01_05_001
+
+$LETTER_CO_01_01_05_002
+

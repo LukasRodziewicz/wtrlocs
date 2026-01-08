@@ -1,0 +1,8 @@
+$EVE_034_V1_AGENTS_DISAPPEAR_TITLE
+El guardia se retira
+$EVE_034_V1_AGENTS_DISAPPEAR_MAIN_01
+Encuentras un uniforme de gran tamaño colgado en una percha. Solo hay un empleado lo bastante corpulento para que le quede bien: tu guardia favorito del tribunal, Raphaël Clovis. En uno de los bolsillos hallas una carta breve, y algunas frases resaltan especialmente: “Dejo el servicio”, “ya no puedo seguir con esto” y “tengo demasiada sangre en las manos”. Las ratas huyen del barco que se hunde.
+$EVE_034_V1_AGENTS_LEAVE_TITLE
+El guardia se retira
+$EVE_034_V1_AGENTS_LEAVE_MAIN_01
+Encuentras un uniforme de gran tamaño colgado en una percha. Solo hay un empleado lo bastante corpulento para usarlo: tu guardia favorito del tribunal, Raphaël Clovis. Una carta hallada en el bolsillo interior revela de qué lado está Clovis: el de tu hermano. Luchará contra ti para salvarse. O quizá simplemente está cansado de tus actos. Para saberlo con certeza, tendrás que llegar hasta él. Lo peor es que conoce tus debilidades…

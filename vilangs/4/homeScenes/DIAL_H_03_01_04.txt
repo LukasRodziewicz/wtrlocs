@@ -1,0 +1,22 @@
+$DIAL_H_03_01_04_001_ELDERSON
+Vater, ich muss dir etwas sagen.
+$DIAL_H_03_01_04_002_JUDGE
+Was gibt es?
+$DIAL_H_03_01_04_003_ELDERSON
+Ich habe dich gehasst. Sehr lange sogar. Es gab eine Zeit, da dachte ich, es sei unmöglich, jemanden mehr zu verachten als dich. Aber in jener Nacht, als dein Bruder uns entführte, hat sich alles verändert.
+$DIAL_H_03_01_04_004_JUDGE
+Sohn ...
+$DIAL_H_03_01_04_005_ELDERSON
+Ehrlich gesagt habe ich nicht geglaubt, dass er uns wirklich gehen lassen würde. Ich habe dem Tod ins Auge geblickt und erkannt, dass ihr Menschen einfach so seid – krank, seelisch verstümmelt.
+$DIAL_H_03_01_04_006_ELDERSON
+Eine ganze Generation, unfähig, die Vergangenheit loszulassen, unfähig zu vergeben. Voller Zorn. Und wir sind es, die ernten, was ihr gesät habt. Ich habe mit dem Hass abgeschlossen, weil ich nicht so werden will wie ihr.
+$DIAL_H_03_01_04_007_JUDGE
+Ich kann immer noch alles wieder in Ordnung bringen.
+$DIAL_H_03_01_04_008_ELDERSON
+Ihr seid nicht zu ändern. Es wird sich nichts bessern, bis ihr alle an Alter und Verbitterung zugrunde geht. Erst dann kann meine Generation beginnen, die Welt zum Besseren zu verändern.
+$DIAL_H_03_01_04_009_ELDERSON
+Ich hasse dich nicht mehr, und vielleicht werde ich eines Tages sogar verstehen, warum du nicht anders sein wolltest als die anderen.
+$DIAL_H_03_01_04_010_JUDGE
+Ich habe es versucht, aber das ist leichter gesagt als...
+$DIAL_H_03_01_04_011_ELDERSON
+Bald werde ich diesen Ort verlassen und mich auf die Suche nach der Antwort machen. Du wirst mich nicht aufhalten können...

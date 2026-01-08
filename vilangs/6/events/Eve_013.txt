@@ -1,0 +1,22 @@
+$EVE_013_TITLE
+Alguna vez fui soldado
+$EVE_013_MAIN_01
+El prestigio y la justicia: los supervisores de este noble edificio consideran esas dos virtudes esenciales. El prestigio y la justicia están por encima de todo lo demás. Anteayer tuve el placer de compartir unas copas con uno de sus Guardias y conversamos sobre viejos recuerdos. ¿Sabía usted que servir en el ejército es un requisito indispensable para ingresar en la Guardia del Tribunal? No admite excepciones, así que ese Guardia debió habernos contado una sarta de mentiras sobre su servicio militar, y el certificado que consiguió probablemente sea falso. Claro, habíamos bebido un poco…
+$EVE_013_MAIN_01_C1
+Investigar el asunto
+$EVE_013_MAIN_01_C2
+Destituir al guardia del servicio
+$EVE_013_MAIN_01_C3
+Dejar al Guardia en paz
+$EVE_013_MAIN_02A
+Lo que podrían haber sido desvaríos de un borracho resultó ser cierto. Debió de ser una carga pesada para ese hombre. Por suerte, al fin encontró a alguien en quien confiar: yo. Resolví el asunto con discreción. El certificado de servicio militar era falso, y para estar seguro consulté a quienes debían haberlo conocido en el ejército. Al parecer, a nadie se le ocurrió que algo así debía comprobarse. ¿Quién imaginaría que alguien mentiría sobre algo así? Parece que este hombre realmente deseaba ese puesto.
+$EVE_013_MAIN_02A_C1
+Destituir al guardia de su cargo
+$EVE_013_MAIN_02A_C2
+Acusar al guardia de engaño
+$EVE_013_MAIN_02A_C3
+Dejar al Guardia en paz
+$EVE_013_MAIN_02B
+Prestigio y justicia. Repetía esas palabras una y otra vez en mi mente mientras veía cómo se desmoronaban, junto a sus sueños, las posibilidades de este joven de ganarse la vida. Es una verdadera lástima, pero hay cosas más importantes por las que debemos velar, o no seremos dignos de formar parte de la Revolución.
+$EVE_013_MAIN_02C
+¿Quizás ese sea tu camino hacia la divinidad? Como la diosa hindú Saraswati, deberías centrarte en la sabiduría y la paz.

@@ -1,0 +1,230 @@
+$GDTIE
+Remis!
+$GDWIN
+Wygrałeś!
+$GDLOSE
+Przegrałeś!
+
+$GDEFFECTS
+Efekty:
+
+$GDFAVOUR_ALREADY
+Tinville już był Ci dłużny.
+$GDFAVOUR_LOSE
+Nie zdobyłeś przysługi u Tinville'a.
+$GDFAVOUR_WON
+Przysługa odblokowana!
+
+$GDRESULT
+Wynik
+
+$GDBET
+Stawka:
+$GDSCORING
+Zasady punktacji
+$GDSCOREBOARD_INFO
+Aby otrzymać punkty należy wyrzucić dwie lub więcej kości o tej samej ilości oczek. Czym więcej oczek tym większy mnożnik punktacji. Przykładowo: za dwie kości po 6 oczek otrzymamy 120 punktów, a za dwie kości o jednym oczku: 20.
+$GDSCOREBOARD_SPECIALSCORE
+Wynik specjalny:
+$GDSELECTION_TITLE
+Tytuł
+$GDSELECTION_DESCRIPTION
+Opis
+$GDACCEPT_OPPONENT_TOOLTIP
+Zagraj
+$GDROLL_TOOLTIP
+Wykonaj rzut koścmi
+$GDREROLL_TOOLTIP
+Rzuć jeszcze raz
+$GDREROLL_ACCEPT_TOOLTIP
+Akceptuj
+$GDREROLL_BACK_TOOLTIP
+Powrót
+$REROLL_CHOOSE_DICES
+Wybierz kości do przerzucenia
+$GDPASS_TOOLTIP
+Tura przeciwnika
+$GDPLAYAGAIN_TOOLTIP
+Zagraj jeszcze raz
+$GDEXIT_TOOLTIP
+Wyjdź
+$GDROLL_PLAYERTURN
+Wykonaj rzut
+$GDROLL_OPPONENTTURN
+Tura przeciwnika
+$GDREROLL
+Ponów rzut
+$GDBUYROUND
+Postaw kolejkę ({0} PW)
+$GDBUYROUND_LOCKED
+Nie stać cię na postawienie kolejki ({0} PW)
+$GDBUYROUND_USED
+Postawiłeś kolejkę wcześniej
+$GD_ONESHOT_INFO
+OneShot Info
+$GD_ONESHOT_COMMENT
+OneShot Comment
+$GDJUDGE_SHORTNAME
+Sędzia
+$GDOPPONENT_003_SHORTNAME
+Tinville
+$GDOPPONENT_004_SHORTNAME
+Pache
+$GDOPPONENT_005_SHORTNAME
+Renard
+
+$GDOPPONENT_010_SHORTNAME
+Bruno
+$GDJUDGE_SHORTNAME_NAME
+Alexis
+
+#CUT_023_RESULT
+Stawka: informacja o zdrajcy
+#CUT_030_RESULT
+Stawka: dłoń syna
+#CUT_035_RESULT
+Stawka: życie
+
+
+$GD003_COMMENT_WELCOMEFIRST_01
+Słyszałem, że można cię tutaj znaleźć. Dobrze, że sędzia Trybunału ma słabości jak reszta śmiertelników.
+
+$GD003_COMMENT_WELCOMEJUDGEWON_01
+Zasłużyłem na rewanż, prawda?
+$GD003_COMMENT_WELCOMEJUDGEWON_02
+Tym razem nie pójdzie ci tak łatwo.
+$GD003_COMMENT_WELCOMEJUDGEWON_03
+Chyba bywasz tutaj zbyt często jak na człowieka, który ma rodzinę.
+
+$GD003_COMMENT_WELCOMEJUDGELOST_01
+Szanuję twój upór...
+$GD003_COMMENT_WELCOMEJUDGELOST_02
+Za dnia święci, po zmroku łotry. Tym jesteśmy.
+$GD003_COMMENT_WELCOMEJUDGELOST_03
+Rzekł mi raz ojciec, że osoby naszego pokroju powinny być bez skazy. Ja widzę ich całkiem sporo.
+
+$GD003_COMMENT_ROLLJUDGEWON_01
+Jedna jaskółka…
+$GD003_COMMENT_ROLLJUDGEWON_02
+Tym razem...
+$GD003_COMMENT_ROLLJUDGEWON_03
+To nic nie znaczy.
+
+$GD003_COMMENT_ROLLJUDGELOST_01
+Nic nie trwa wiecznie. Jedynie chaos.
+$GD003_COMMENT_ROLLJUDGELOST_02
+Wszystko na swoim miejscu.
+$GD003_COMMENT_ROLLJUDGELOST_03
+Jeszcze tylko trochę.
+
+$GD003_COMMENT_GAMEJUDGEWON_01
+Dzisiaj Temida nie trzymała za mnie kciuków.
+$GD003_COMMENT_GAMEJUDGEWON_02
+Na końcu wszyscy przegrywamy.
+$GD003_COMMENT_GAMEJUDGEWON_03
+Odbiję to sobie jutro w sądzie...
+
+$GD003_COMMENT_GAMEJUDGELOST_01
+Może następnym razem, jeśli będziesz wystarczająco uparty by przyjść znowu?
+$GD003_COMMENT_GAMEJUDGELOST_02
+Przegrałeś jedynie dumę. Nic wielkiego.
+$GD003_COMMENT_GAMEJUDGELOST_03
+Może następnym razem zagramy o nasze dusze? Myślisz, że jest jeszcze sens?
+
+$GD003_COMMENT_DRINK_01
+Czujesz się samotny ze swoimi nałogami?
+$GD003_COMMENT_DRINK_02
+Widzę, że wiesz jak zdobyć serca tłumu.
+$GD003_COMMENT_DRINK_03
+Żebyś przez to nie popadł w długi - ludzie uwielbiają pić na czyjś koszt.
+
+$GD003_COMMENT_DRINKBET_01
+Aaa tam, za miesiąc znowu żołd dostanę!
+$GD003_COMMENT_DRINKBET_02
+Sędzia to się chyba umie bawić, co nie?
+$GD003_COMMENT_DRINKBET_03
+W górę! W górę kopczyku!
+
+$GD003_COMMENT_REROLL_01
+Boisz się przegranej?
+$GD003_COMMENT_REROLL_02
+Ile potrafiłbyś zrobić dla wygranej?
+$GD003_COMMENT_REROLL_03
+Skoro myślisz, że to coś zmieni...
+
+$GD003_COMMENT_CANTREROLL_01
+Szkoda, że nie mogę rzucić jeszcze raz.
+
+$GD004_MER_VER_HAN_DIAL_MER_01
+Chociaż cenię sobie przepych w takich miejscach, to ten żołnierski ascetyzm ma coś w sobie.
+$GD004_MER_VER_HAN_DIAL_JUDGE_02
+Poprzedni właściciel cenił przepych i to go zgubiło.
+$GD004_MER_VER_HAN_DIAL_MER_03
+Rozumiem. Zagramy?
+
+$GD004_MER_VER_DAVID_DIAL_MER_01
+Wystrój prawdziwie z klasą. Winszuję.
+$GD004_MER_VER_DAVID_DIAL_JUDGE_02
+Dziękuję. Powierzyłem wystrój znanemu artyście, Jacquesowi-Louis Davidowi.
+$GD004_MER_VER_DAVID_DIAL_MER_03
+Tak, słyszałem, że się przyjaźnicie i wspieracie politycznie. Zagramy?
+
+$GD004_MER_COMMENT_GAMEJUDGEWON_01
+Podejrzewałem, że dasz mi wygrać by zyskać moje zaufanie. Miło się czasem pomylić.
+$GD004_MER_COMMENT_GAMEJUDGELOST_01
+Widzę, że zrobisz wszystko by zdobyć moje zaufanie. Gotowy jesteś nawet podłożyć się w grze w kości.
+
+$GD004_MER_COMMENT_ROLLJUDGEWON_01
+Te kości mają krzywe kanty!
+$GD004_MER_COMMENT_ROLLJUDGEWON_02
+A niech to, te dziewczyny przynoszą mi pecha!
+
+$GD004_MER_COMMENT_ROLLJUDGELOST_01
+Trochę szczęścia nie zaszkodzi.
+$GD004_MER_COMMENT_ROLLJUDGELOST_02
+Jeszcze raz kostki, jeszcze raz.
+
+$GD004_MER_COMMENT_REROLL_01
+Myślisz, że los się odmieni?
+
+$GD004_MER_COMMENT_DRINK_01
+A ja się chętnie napiję kapkę.
+$GD004_MER_COMMENT_DRINK_02
+Sędzia to się chyba umie bawić, co nie?
+
+$GD005_RENARD_COMMENT_ROUND_01
+Naszego zamaskowanego przyjaciela przepełniał gniew. Zaproponował korzystny układ za pomoc. Zgodziliśmy się.
+$GD005_RENARD_COMMENT_ROUND_02
+Groźny człowiek, zraniony. Niemądrym posunięciem byłoby mu odmawiać.
+$GD005_RENARD_COMMENT_ROUND_03
+Do zabicia twojego dziecka wykorzystał od wskazanej przez na osoby. Od człowieka, z którym już kiedyś współpracowaliśmy. Wyjątkowy głupiec.
+$GD005_RENARD_COMMENT_ROUND_04
+Damy ci go  na tacy – jako gest dobrej woli i dowód na to, że warto się z nami sprzymierzyć.
+$GD005_RENARD_COMMENT_ROUND_05
+Lada dzień arystokracja z dumą powróci do tego miasta, a wtedy rozliczymy tych, którzy nie stali po naszej stronie.
+
+$GD005_RENARD_COMMENT_GAMEJUDGEWON_01
+Wygrałeś, więc dotrzymamy obietnicy – dostaniesz swojego zdrajcę na tacy. A Paryż… cóż, on nie będzie miał tak dobrze.
+$GD005_RENARD_COMMENT_GAMEJUDGELOST_01
+Hazardzista prędzej czy później poznaje prawdę, że niczego nie kontroluje. Może tylko patrzeć, jak czas pcha go w stronę porażki. Umowa to umowa - przegrałeś, więc nie zdradzimy ci niczego. A Paryż otrzyma od nas coś… na co zasłużył.
+
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_01
+Uciszcie go, to jeszcze nie koniec.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_02
+I po robocie.
+
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_01
+Też kiedyś wygrałem pierwszą rundę.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_02
+Połowa szczęścia.
+
+$GD011_BRUNO_COMMENT_ROUND_01
+Zabiłeś wszystkich, którzy mieliby odwagę stawić mi czoła. Dziękuję.
+$GD011_BRUNO_COMMENT_ROUND_03
+Krew będzie na twoich rękach, a nie moich. Znowu wygrywam.
+$GD011_BRUNO_COMMENT_ROUND_06
+Myślisz, że już wiesz, co to cierpienie? Dopiero się dowiesz.
+$GD011_BRUNO_COMMENT_ROUND_08
+Upadniesz, a nasz ojciec zapłacze. Wtedy dopełni się mój plan.
+$GD011_Dices_Last_Dialog
+Wyrównaliśmy jeden rachunek. Ale to jeszcze nie wszystko, co dla ciebie przygotowałem. Jeszcze nie wszystko.

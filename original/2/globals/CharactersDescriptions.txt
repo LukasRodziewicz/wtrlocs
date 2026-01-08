@@ -1,0 +1,68 @@
+#MathildeFidele_JOB
+Épouse
+#MathildeFidele_DESC_1
+Née à Paris, elle ne s'est jamais aventurée hors de la ville. Cette femme est considérée par beaucoup comme l'épouse parfaite. Elle s'occupe des tâches ménagères et des enfants, ainsi que du père de son époux, qui est très âgé. Elle ne le montre pas ostensiblement, mais elle serait prête à tout pour protéger ses enfants. À ses yeux, ils sont sûrement plus importants que vous.
+#MathildeFidele_DESC_2
+Après la mort de Frédéric, votre épouse est devenue plus silencieuse. Pourtant, un feu intérieur brûle dans ses yeux. Si une femme vient à franchir la limite entre une modeste épouse et une folle imprévisible, elle représente le plus dangereux de tous les ennemis…
+#FredericFidele_JOB
+Plus jeune fils
+#FredericFidele_DESC
+Il est naïf et innocent, ce qui est totalement normal pour un garçon de son âge. Il vous idolâtre et veut devenir comme vous. Même s'il lui arrive de désobéir à sa mère, il respecte la volonté de son père au pied de la lettre. Son jouet préféré est une épée en bois qu'il porte toujours sur lui. Dans son monde imaginaire, il combat les méchants, à la manière de son père dans la vraie vie. Il aime bien sculpter de petites figurines en bois.
+#BernardFidele_JOB
+Fils aîné
+#BernardFidele_DESC
+Un jeune homme beau et élancé. Il commence à prendre conscience des événements actuels qui se déroulent en France. Par conséquent, une flamme révolutionnaire naît en son for intérieur. Selon lui, seuls les membres des classes inférieures de la société devraient être nommés juges révolutionnaires, car ils pourraient être considérés comme étant « non influencés » et aptes à servir le bien commun, non pas leur intérêt personnel. Sa crédulité est plus dangereuse que celle de Frédéric, puisque ses actions peuvent avoir le même impact que celles d'un adulte. Des personnes qui excellent dans l'art de manipuler les esprits jeunes et velléitaires peuvent profiter de son alacrité. C'est un joueur de violon novice mais qui ne manque pas de talent.
+#AldricFidele_JOB
+Père
+#AldricFidele_DESC
+Autrefois, c'était un marchand relativement aisé. Aujourd'hui, ce n'est plus qu'un vieil homme aigri qui a des visions fébriles d'une vengeance impossible contre la famille Renard qui, jadis, l'empêcha de réaliser ses rêves. Il était incapable de subvenir aux besoins de sa famille pendant de nombreuses années. Il ne pouvait plus offrir à ses enfants le mode de vie auquel ils étaient habitués. Depuis votre nomination à la cour, votre famille a retrouvé une vie plutôt acceptable et votre père aspire de nouveau à reprendre son ancienne activité. Toutefois, Aldric est désormais trop vieux et fatigué pour relancer sa carrière révolue. Il fut témoin malgré lui de la montée en puissance de la famille Renard en lieu et place de la famille Fidèle, qui a manqué le prestige et la richesse…
+#BrunoFidele_JOB
+Frère
+#BrunoFidele_DESC_1
+C'est votre frère aîné. Bien qu'il soit absent, son seul nom suffit à faire trembler les murs de la maison. C'est le premier enfant, la fierté et la joie de votre père. Il a été choisi pour hériter du commerce de votre père et s'en servir comme base solide pour accroître la richesse de votre famille. Le crime qu'il a commis a changé la donne et couvert de honte votre nom. Quelques années après que votre père l'a chassé de chez vous, vous avez ouï-dire que Bruno était mort au combat. Son corps pourrit au milieu de milliers d'autres décédés en combattant pour la liberté de leur république.
+#BrunoFidele_DESC_2
+Il a survécu. Votre frère n'est pas mort. Il s'est engagé dans l'armée après son expulsion, mais il a déserté pendant la guerre. Depuis lors, il planifie sa vengeance à l'encontre de sa famille, de votre père. Bruno a été à l'origine de votre misère. Il a planifié votre parcours et vous a profondément motivé…
+#Mentor_JOB
+Mentor
+#Mentor_DESC
+Un homme qui a vécu suffisamment longtemps pour se rendre compte que la justice n'est pas toujours la bonne réponse. Dans le cadre de ses activités en ces temps difficiles, la seule chose qui compte est l'instinct de survie, qui doit parfois aller à contre-courant des intérêts d'autrui. Un homme doté d'un tel état d'esprit sait qu'il doit prêter une oreille attentive aussi bien dans les salons que dans les ruelles. Pour lui, le principe de la Justice aveugle n'est qu'un conte de fées, qui s'adresse au mieux aux jeunes étudiants en droit. Serait-il moralement trop tiraillé pour continuer d'exercer correctement sa fonction de juge ?
+#Jacques-LouisDavid_JOB
+Diplomate
+#Jacques-LouisDavid_DESC
+Les peintures de cet artiste et homme politique font souvent référence à la Révolution. Politiquement parlant, c'est un député efficace de la Convention. Il s'inspire de ses deux domaines professionnels qu'il n'hésite pas à mélanger. Comme la fois où il était chargé de fermer l'Académie française, qui l'avait rejeté pendant si longtemps. C'est un ami de longue date du juge Fidèle.
+#RaphaelClovis_JOB
+Colosse
+#RaphaelClovis_DESC
+En général, les soldats l'évitent en raison de sa carrure. C'est pour cette raison qu'il est devenu un gardien de la cour. Ce n'est peut-être pas le plus intelligent des hommes, mais il est loyal et obéit aux ordres sans broncher.
+#GregoryRamel_JOB
+Espion
+#GregoryRamel_DESC_1
+Il est difficile de qualifier son arrivée dans votre vie comme le simple fruit du hasard. Mais là encore, ne sommes-nous pas trop matures pour croire au destin ? Vous ignorez tout de son passé ou de ses intentions. Pourquoi vous vient-il en aide ? Pourquoi vous et pas un autre ?
+#GregoryRamel_DESC_2
+Né à Cahors, c'est le fils illégitime de Pierre Ramel, procureur et solliciteur de la cour. Le père adopta son fils bâtard, vraisemblablement pour éviter qu'un scandale éclate. Le gamin se prit d'affection pour son frère cadet, Jean-Pierre. Cependant, son frère aîné, qui s'appelle également Jean-Pierre, le détestait. On l'envoya vivre à Paris avec ce dernier alors qu'il n'était encore qu'un jeune garçon. Le plus âgé des Jean-Pierre refusa d'héberger son demi-frère, qui finit par se retrouver à la rue. Il gagnait sa vie au début en mendiant, puis il parvint à s'en sortir en vendant des informations. Lorsque son frère cadet s'engagea dans l'armée à 15 ans, Grégory décida de lui emboîter le pas. Personne n'eut de ses nouvelles pendant de longues années, jusqu'à ce qu'il resurgisse à Londres. Accusé d'espionnage, il dut quitter la ville…
+#MaximiliendeRobespierre_DESC
+En raison de son dévouement passionné envers la cause révolutionnaire, il est communément surnommé « l'Incorruptible ». En tant que chef des Jacobins radicaux, il maintient l'ordre au sein de la Convention nationale d'une main de fer et, si besoin, il a recours à la terreur. Il s'agit sans conteste de l'homme le plus puissant du Paris de la Révolution. Personne n'a encore osé le défier.
+#ClementRenard_DESC
+C'est l'éminence grise de Paris, qui règne sur le commerce de la ville et est impliqué dans toutes les activités rentables possibles. Il réprime le moindre signe de désaccord, comme le prouve l'incident du stand du père d'Alexis Fidèle. Membre de l'aristocratie, il s'est retiré de la vie publique quand la Révolution a éclaté. Personne ne connaît vraiment ses intentions, mis à part qu'il souhaite accroître sa fortune.
+#GeorgesDanton_DESC
+Avocat lui-même, il connaît la loi aussi bien que les juges du tribunal. Pour beaucoup, c'est grâce à cela qu'il est encore en vie malgré les nombreuses accusations de corruption et de trahison dont il fait l'objet. Néanmoins, le fait qu'il soit capable de prononcer des discours passionnés, qui donnent lieu au rejet des charges potentielles, pèse encore plus dans la balance. Sa rivalité avec Robespierre est devenue la source de discussion de la ville. Leur relation officielle est souvent qualifiée « d'amitié hostile ».
+#Jean-PaulMarat_DESC
+Surnommé « la conscience de la nation », il est l'éditeur du journal publié à compte d'auteur « L'ami des gens ». Loin d'être apprécié par les Girondins, considéré comme un mal nécessaire par les Jacobins, il a plus de flair qu'un chien de chasse lorsqu'il s'agit de dénicher des casseroles sur quelqu'un. Il n'hésite pas à publier des dénonciations signalées par des collègues membres de la Convention dans le but de discréditer leurs adversaires politiques.
+#Jean-BaptisteGobel_DESC
+L’archevêque de Paris, un autre caméléon du paysage politique français. Dans le viseur de la Révolution, il s'est allié avec les réformateurs, a prêté allégeance à l'État et a ainsi tourné le dos au Pape. Il s'agit sûrement du Parisien le plus influent après Maximilien de Robespierre. Il privilégie la discrétion, préférant attaquer ses ennemis depuis l'envers du décor. Son réseau d'espions couvre l'ensemble de la ville. Personne ne peut y échapper.
+#Jacques-ReneHebert_DESC
+C'est un homme politique et un journaliste. Il s'est auto-proclamé représentant des sans-culottes et voix du peuple. Il gagne le cœur des gens par le biais du journal qu'il publie, « Le Père Duchesne », célèbre pour son langage cru et ses messages adaptés aux classes sociales les moins élevées. Il se consacre à harceler les prêtres réfractaires. Pour un tribun de la plèbe, il s'habille de manière étonnamment élégante.
+#GermainedeStael_DESC
+Principalement connue à Paris pour diriger un salon politique, elle est exclue de la grande scène diplomatique, et est contrainte d'opérer depuis les coulisses. Ambitieuse et avide de sortir de l'ombre de ses homologues masculins, c'est la bonne personne lorsqu'il s'agit de traiter des affaires qui ne doivent pas émerger de l'intimité du boudoir. Elle est également bien éduquée et est familière des subtilités de la haute société.
+#Jean-NicolasPache_DESC
+Maire de Paris et fervent défenseur des Girondins. Il a atteint son statut en franchissant pas à pas les échelons professionnels au rythme frénétique d'un sens moral qui ne cesse de changer. Il n'hésite pas à prendre des risques et à se lancer dans les activités fructueuses qui se présentent à lui. Il vendrait son âme au diable en échange d'une part des profits.
+#Jean-MarieRoland_DESC
+Ministre des affaires internes. Grâce à son épouse pleine de ressources, qui tire les ficelles de sa carrière, il est parvenu à obtenir un poste au sein du gouvernement et à devenir un membre important de la Gironde. Il ne cache pas son soutien envers la monarchie, assurant que cela créerait un équilibre entre une révolution sanguinaire et la tradition qui unifie toutes les générations françaises.
+#GraceElliott_DESC
+Une courtisane connue dans tous les recoins notables de Paris. Une femme de joie née en Écosse et vivant à Paris, présumée espionne pour les Anglais. Afin de survivre, elle s'est vue contrainte de manier la diplomatie aussi bien qu'un député de la Convention nationale. Il ne fait aucun doute que sa profession l'a grandement aidée à tisser des liens. Officieusement, si un aristocrate souhaite quitter Paris secrètement, il doit s'adresser à Grace Elliott.
+#FrancoisHanriot_DESC
+Ambitieux, bien qu'il ne se tue pas à la tâche, c'est un officier talentueux doté d'un esprit politique incroyable qui lui permet de s'associer uniquement aux personnes qui sont favorables à son ascension. Il sait parfaitement avec qui il vaut mieux s'entendre et les personnes qu'il est préférable d'oublier. Depuis que la Révolution a éclaté, il gravit lentement mais sûrement les échelons professionnels, en vue de devenir commandant de la Garde.
+#MathieuBurel_DESC
+Le commandant vieillissant de la Garde nationale. Il a assez d'expérience pour ne pas faire confiance aux gens ordinaires, même s'ils sont capables de déclencher une révolution.
+#Judge_DESC
+Un juge du tribunal révolutionnaire, considéré par la majorité comme un ivrogne et un parieur. C'est un protégé de Raymond Dévoyé, qui l'a immiscé dans le monde des lois et des régulations. Dans le contexte privé, c'est un personnage quelconque.

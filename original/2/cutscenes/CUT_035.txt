@@ -1,0 +1,38 @@
+$CUT_035_BROTHER_001
+Connais-tu ce jeune soldat venu à la rescousse ?
+$CUT_035_BROTHER_002
+Il s'appelle Napoléon Bonaparte.
+$CUT_035_JUDGE_003
+J'ignore qui il est. Mais peu importe. J'ai gagné. Paris reste sous notre contrôle.
+$CUT_035_BROTHER_004
+Tu as gagné ? Mais je n'ai jamais voulu prendre la ville.
+$CUT_035_JUDGE_005
+Je ne comprends pas.
+$CUT_035_BROTHER_006
+Je viens de te présenter ton nouveau dictateur.
+$CUT_035_BROTHER_007
+C'est moi qui ai gagné.
+$CUT_035_BROTHER_008
+Les gens accueilleront Napoléon à bras ouverts.
+$CUT_035_BROTHER_009
+Le « nouveau » arrive et il t'oubliera aussitôt. Il mettra le pays à feu et à sang une nouvelle fois après un siècle.
+$CUT_035_BROTHER_010
+En ce moment même, le « nouveau » entre dans la ville, à la tête d'une armée invaincue.
+$CUT_035_BROTHER_011
+C'est moi qui ai gagné.
+$CUT_035_JUDGE_012
+Pas de mon vivant, non.
+$CUT_035_BROTHER_013
+J'ai un pistolet sur moi.
+$CUT_035_JUDGE_014
+Et si nous laissions Dieu décider une fois pour toutes qui a ses faveurs : Caïn ou Abel ?
+$CUT_035_BROTHER_015
+Et le favori tuera le perdant ?
+$CUT_035_JUDGE_016
+D'une balle dans la tête.
+$CUT_035_ROLL_01
+Tu pensais que la Révolution te libérerait, mais ce n'était qu'un vœu pieux.
+$CUT_035_ROLL_03
+Vous avez tous cru à cette rébellion romanesque. Dis-moi, qu'y a-t-il de différent entre la Révolution et ce que nous faisons en ce moment ?
+$CUT_035_ROLL_05
+N'est-elle pas devenue un combat à mort, un jeu chaotique soumis à une seule règle : le hasard ?

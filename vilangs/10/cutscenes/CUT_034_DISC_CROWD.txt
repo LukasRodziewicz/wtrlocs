@@ -1,0 +1,88 @@
+$CUT_034_DISC_CROWD_001_CROWD
+Bize hükmetmek istiyorlar!
+$CUT_034_DISC_CROWD_002_CROWD
+Ne düşünüyorlar böyle?!
+$CUT_034_DISC_CROWD_003_CROWD
+Sonra karıma kimin sözünün geçtiğini göstereceğim!
+$CUT_034_DISC_CROWD_004_MAN
+Yemeğimizi hazırla, çocuklarımızı doğur yeter!
+$CUT_034_DISC_CROWD_005_MAN
+Kadınlar bize hükmedemeyecek!
+$CUT_034_DISC_CROWD_006_CROWD
+Yerini unutma…
+$CUT_034_DISC_CROWD_007_CROWD
+… yoksa biz sizi zorlarız!
+$CUT_034_DISC_CROWD_004_JUDGE_AGGR
+Böylesi bir zamanda yaptıkları iğrenç, ama başka seçeneğimiz yok. Taleplerine boyun eğmek zorundayız. En azından şimdilik…
+$CUT_034_DISC_CROWD_005_JUDGE_MANI
+Kabul edin, siz de beklemiyordunuz – ben de! Gözümüzü başka tarafa çevirdiğimizde saldırdılar, şimdi ise onlara boyun eğmek zorundayız.
+$CUT_034_DISC_CROWD_006_JUDGE_JOKE
+Tüm umutlar tükendi… Şartlarını kabul etmek zorundayız.
+$CUT_034_DISC_CROWD_007_JUDGE_HUMI
+Davranışlarına bakılırsa, son derece kararlılar. Pes etmeyecekler. Taleplerine boyun eğmezsek, bu darbe sonuncusu olmayacak.
+$CUT_034_DISC_CROWD_008_JUDGE_AGGR
+Bu önemsiz bir meblağ, Yurttaşlar. Verin gitsin! Gururunuzun ve içgüdülerinizin sizi yanıltmasına izin vermeyin. Aptallık etmeyin!
+$CUT_034_DISC_CROWD_009_JUDGE_MANI
+Bir an düşünün – onlara azıcık bir yetki vereceksiniz, ama karşılığında hayatınızın geri kalanında huzura kavuşacaksınız.
+$CUT_034_DISC_CROWD_010_JUDGE_JOKE
+Onlara vereceğiniz birkaç hak, Fransa’da son zamanlarda yaşanan değişimlerin yanında hiçbir anlam ifade etmiyor. Bastille’in harabelerinden arta kalan tozdan fazlası değil.
+$CUT_034_DISC_CROWD_011_JUDGE_HUMI
+Biliyorum, öfkeniz kabarmış, ama gerçek şu ki, fazla bir şey istemiyorlar. Bu onay size pek bir şeye mal olmayacak.
+$CUT_034_DISC_CROWD_012_CROWD_DOUB
+Sizin de kendinize göre gerekçeleriniz olabilir, ama bizim de var. Erkeklerin gerekçeleri. Dünyamızı bunların üzerine kurduk ve onları öylece bir kenara atmayacağız.
+$CUT_034_DISC_CROWD_013_CROWD_IRRI
+Yine fazla mı içtin? Sanki kadınlarımızı tanımıyormuşuz gibi konuşuyorsun. Buna razı olursak tepemize çıkarlar!
+$CUT_034_DISC_CROWD_014_CROWD_AGGR
+Onlara bir parmak ver, kolunu alırlar. Elini uzat, kalbini sökerler. Kadınların nasıl olduğunu bilmiyor musun?
+$CUT_034_DISC_CROWD_015_JUDGE_AGGR
+Böyle tartışmalara vakit yok, Yurttaşlar. Düşman sokaklarda, siz ise hâlâ eşlerinizin hizmetçi ya da köle gibi muamele görmeyi bırakmayı hak edip etmediğini sorguluyorsunuz!
+$CUT_034_DISC_CROWD_016_JUDGE_MANI
+Kendinizi onların yerine koyun. Devrimden sizin gibi bir kazançları olmadı, ama giyotine en az sizin kadar sık gidiyorlar. Devrimin sancaklarını taşırken size kim destek oldu? Onlar, yanınızda o sancakları birlikte taşıdılar!
+$CUT_034_DISC_CROWD_017_JUDGE_JOKE
+Karınızı dövme alışkanlığından vazgeçmek bu kadar mı zor? Çoğu zaman sizden daha akıllılar, bırakın konuşsunlar artık, kahretsin!
+$CUT_034_DISC_CROWD_018_JUDGE_HUMI
+Vatandaşlar, geri adım atmalısınız. Kadınlar daha iyi bir muameleyi hak ediyor. Devrimden paylarını en az sizin kadar aldılar. Bu hakları için fazlasıyla acı çektiler.
+$CUT_034_DISC_CROWD_019_CROWD_DOUB
+Ama onlara daha iyi davranamayız ki.
+$CUT_034_DISC_CROWD_020_CROWD_IRRI
+Onları doyurmak için canımızı dişimize takıyoruz, çocuk veriyoruz. Daha ne yapalım? Vahşi ülkelerde kadınların durumu daha kötüymüş de, yine de şikâyet etmiyorlarmış.
+$CUT_034_DISC_CROWD_021_CROWD_AGGR
+Hayır, onlara fazlasıyla iyi davrandık. Kamçıyı hak ediyorlar, evin efendisinin kim olduğunu hatırlatmak lazım! O zaman isyan etmeye kalkışamazlar!
+$CUT_034_DISC_CROWD_022_JUDGE_AGGR
+Onlar olmasaydı, asla bir Devriminiz olmazdı! Onların desteği olmadan, hâlâ aristokratlarınızın ahırlarını temizliyor olurdunuz, her yeni güne sevinçle uyanmak yerine. Hep yanınızda oldular, ama Devrim onlara hiçbir karşılık vermedi.
+$CUT_034_DISC_CROWD_023_JUDGE_MANI
+Devrim sayesinde siz erkekler eşitlik ve özgürlük kazandınız, ama kadınlar gölgede kaldı. Bizi destekliyorlar, fakat biz rahatımıza kavuşur kavuşmaz onları bir kenara itiyoruz! Kadınlarımıza böyle mi davranmak istiyoruz?
+$CUT_034_DISC_CROWD_024_JUDGE_JOKE
+Gerçekten de kendimize güzel bir düzen kurduk. Monarşiden iktidarı aldık, kendimize geçirdik, ama kadınlarımız hâlâ kirli çamaşırlarımızı yıkıyor.
+$CUT_034_DISC_CROWD_025_JUDGE_HUMI
+Devrim onlar için pek bir şey değiştirmedi. Hâlâ zincirli, hâlâ yalnızca çocuk doğurmaya layık görenlerin esaretindeler—oysa savaşçı ve siyasetçi de olabilirlerdi.
+$CUT_034_DISC_CROWD_026_JUDGE_AGGR
+Eski dünyaya ve eski düzene dönmek mi istiyorsunuz? İstemiyorsanız, “Özgürlük. Eşitlik. Kardeşlik.” diye haykırdığınızı unutmayın. Kardeşlik, lanet olsun! Sahip olduklarınızı kadınlarla paylaşmayı reddediyorsanız, bu sloganların ne anlamı kalır?
+$CUT_034_DISC_CROWD_027_JUDGE_MANI
+Devrimci kardeşliğin gerçek gücünü gösterme fırsatınız var. Ancak hep birlikte özgürlüğümüz için mücadele edersek, “Özgürlük. Eşitlik. Kardeşlik.” sloganı gerçekten hayat bulur.
+$CUT_034_DISC_CROWD_028_JUDGE_JOKE
+“Özgürlük. Eşitlik. Kardeşlik.” sloganı artık boş bir laf haline geldi. Böyle kritik bir anda, kadınlardan sonuncusunu — kardeşliği — esirgeyemeyiz. Bunu yaparsak, “Yemek yap. Temizlik yap. Çocuk doğur.” diye bağırmamızdan farkı kalmaz.
+$CUT_034_DISC_CROWD_029_JUDGE_HUMI
+Dünya değişti, Yurttaşlar. Eğer bu değişiklikleri yalnızca kendiniz için isteseydiniz, Devrim sırasında kadın kanı dökülmemesini sağlardınız. Ancak birlikte mücadele ederek gerçek bir Devrimci kardeşlik hayalimizi gerçekleştirebiliriz! Bunu onlara borçluyuz.
+$CUT_034_DISC_CROWD_030_CROWD_DOUB
+Şimdi bizi iyice şaşırttınız. Neyinize güvenip o cadılarla pazarlık ettiniz?
+$CUT_034_DISC_CROWD_031_CROWD_IRRI
+Madem bu kadar akıllılar, o zaman onlara da tüfek verip düşmana karşı savaşa gönderelim, ne dersiniz? Bakalım, kadın arkadaşlarının bağırsakları süngülere dolanırken hâlâ bizimle eşit olmak isteyecekler mi!
+$CUT_034_DISC_CROWD_032_CROWD_AGGR
+Kadınlara karşı hoşgörülü olmanın nelere yol açtığını daha iyi bilmelisin – karılarımız fırsatını bulsa bizi bıçaklar, ya da zehirler! Böyle şeylere asla izin vermeyiz!
+$CUT_034_DISC_CROWD_033_MAN
+Kadınların hükmü...
+$CUT_034_DISC_CROWD_034_CROWD
+Genelevleri olsun, orada istedikleri gibi hüküm sürsünler.
+$CUT_034_DISC_CROWD_035_CROWD
+Yeni dünyanın şanı için!
+$CUT_034_DISC_TOPIC_01
+Kadınların şartlarını kabul etmeliyiz.
+$CUT_034_DISC_TOPIC_02
+Çok fazla bir şey istemiyorlar.
+$CUT_034_DISC_TOPIC_03
+Daha iyi bir muameleyi hak ediyorlar.
+$CUT_034_DISC_TOPIC_04
+Devrim, herkese eşit statü kazandıracaktı.
+$CUT_034_DISC_TOPIC_05
+Bize zaferi ancak gerçek bir kardeşlik getirebilir.

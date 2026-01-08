@@ -1,0 +1,200 @@
+$GDTIE
+무승부!
+$GDWIN
+승리하셨습니다!
+$GDLOSE
+패배하셨습니다!
+$GDEFFECTS
+효과:
+$GDFAVOUR_ALREADY
+틴빌은 이미 당신에게 신세를 지고 있었지.
+$GDFAVOUR_LOSE
+틴빌의 호의를 얻지 못했습니다.
+$GDFAVOUR_WON
+호의가 해제되었습니다!
+$GDRESULT
+결과:
+$GDBET
+입찰:
+$GDSCORING
+점수 규칙
+$GDSCOREBOARD_INFO
+두 개 이상의 주사위에서 같은 숫자가 나오면 점수를 얻습니다. 주사위에 나온 숫자가 높을수록 점수 배수도 커집니다. 예를 들어, 6이 두 번 나오면 120점, 1이 두 번 나오면 20점을 받습니다.
+$GDSCOREBOARD_SPECIALSCORE
+특별 점수:
+$GDSELECTION_TITLE
+제목
+$GDSELECTION_DESCRIPTION
+설명
+$GDACCEPT_OPPONENT_TOOLTIP
+플레이
+$GDROLL_TOOLTIP
+주사위를 굴리기
+$GDREROLL_TOOLTIP
+다시 굴리기
+$GDREROLL_ACCEPT_TOOLTIP
+수락
+$GDREROLL_BACK_TOOLTIP
+반환
+$REROLL_CHOOSE_DICES
+다시 굴릴 주사위를 선택하세요
+$GDPASS_TOOLTIP
+상대의 차례
+$GDPLAYAGAIN_TOOLTIP
+다시 플레이
+$GDEXIT_TOOLTIP
+나가기
+$GDROLL_PLAYERTURN
+굴리기
+$GDROLL_OPPONENTTURN
+상대의 차례
+$GDREROLL
+다시 굴리기
+$GDBUYROUND
+한 잔 대접하기 ({0} IP)
+$GDBUYROUND_LOCKED
+라운드를 살 여유가 없습니다 ({0} IP)
+$GDBUYROUND_USED
+이미 한 잔을 샀습니다
+$GD_ONESHOT_INFO
+원샷 정보
+$GD_ONESHOT_COMMENT
+원샷 코멘트
+$GDJUDGE_SHORTNAME
+판사
+$GDOPPONENT_003_SHORTNAME
+틴빌
+$GDOPPONENT_004_SHORTNAME
+파슈
+$GDOPPONENT_005_SHORTNAME
+르나르
+$GDOPPONENT_010_SHORTNAME
+브루노
+$GDJUDGE_SHORTNAME_NAME
+알렉시스
+#CUT_023_RESULT
+내기: 배신자에 대한 정보
+#CUT_030_RESULT
+내기: 아들의 손
+#CUT_035_RESULT
+판돈: 생명
+$GD003_COMMENT_WELCOMEFIRST_01
+여기서 뵐 줄 알았습니다. 혁명 재판소의 판사들도 평범한 이들과 같은 약점을 지녔다는 사실이 반갑군요.
+$GD003_COMMENT_WELCOMEJUDGEWON_01
+제가 재경기를 할 자격이 있지 않습니까?
+$GD003_COMMENT_WELCOMEJUDGEWON_02
+이번에는 그렇게 쉽지 않을 겁니다.
+$GD003_COMMENT_WELCOMEJUDGEWON_03
+가정이 있는 분치고는 여기 너무 자주 오시는군요.
+$GD003_COMMENT_WELCOMEJUDGELOST_01
+당신의 결의에 경의를 표합니다…
+$GD003_COMMENT_WELCOMEJUDGELOST_02
+낮에는 성인, 밤에는 악당. 그게 바로 우리지.
+$GD003_COMMENT_WELCOMEJUDGELOST_03
+아버지는 한때 우리 같은 사람은 결점이 없어야 한다고 말씀하셨죠. 하지만 저는 감히 그 의견에 반대합니다.
+$GD003_COMMENT_ROLLJUDGEWON_01
+한 번의 제비로는…
+$GD003_COMMENT_ROLLJUDGEWON_02
+이번에는…
+$GD003_COMMENT_ROLLJUDGEWON_03
+아무 의미도 없다.
+$GD003_COMMENT_ROLLJUDGELOST_01
+영원한 것은 없다. 오직 혼돈만이 남는다.
+$GD003_COMMENT_ROLLJUDGELOST_02
+모든 것이 예정대로입니다.
+$GD003_COMMENT_ROLLJUDGELOST_03
+조금만 더.
+$GD003_COMMENT_GAMEJUDGEWON_01
+오늘은 테미스께서 제게 힘을 주지 않으셨군요.
+$GD003_COMMENT_GAMEJUDGEWON_02
+결국 우리 모두는 패배하게 된다.
+$GD003_COMMENT_GAMEJUDGEWON_03
+내일 법정에서 반드시 복수할 것이다…
+$GD003_COMMENT_GAMEJUDGELOST_01
+다음 기회에 다시 도전해 보시죠… 다시 올 만큼 용기가 있다면 말입니다.
+$GD003_COMMENT_GAMEJUDGELOST_02
+자존심만 다쳤을 뿐입니다. 그저 사소한 일이지요.
+$GD003_COMMENT_GAMEJUDGELOST_03
+다음엔 우리 영혼을 걸고 내기라도 해볼까요? 아직 우리에게 영혼이 남아 있다고 생각하세요?
+$GD003_COMMENT_DRINK_01
+당신의 중독 때문에 외롭다고 느끼시나요?
+$GD003_COMMENT_DRINK_02
+군중의 마음을 사로잡는 법을 아시는군요.
+$GD003_COMMENT_DRINK_03
+빚을 지지 않도록 조심하세요. 사람들은 남의 돈으로 마시는 걸 좋아하니까요.
+$GD003_COMMENT_DRINKBET_01
+에라 모르겠다, 다음 달이면 또 월급 나오잖아!
+$GD003_COMMENT_DRINKBET_02
+판사께서 당연히 참여하시겠죠, 그렇죠?
+$GD003_COMMENT_DRINKBET_03
+더 높이! 내 동전을 더 쌓아 올려라!
+$GD003_COMMENT_REROLL_01
+질까 봐 두려운가?
+$GD003_COMMENT_REROLL_02
+승리를 위해서라면 무엇까지 내놓을 수 있습니까?
+$GD003_COMMENT_REROLL_03
+이걸로 무언가가 바뀔 거라 생각한다면…
+$GD003_COMMENT_CANTREROLL_01
+다시 굴릴 수 있다면 좋을 텐데.
+$GD004_MER_VER_HAN_DIAL_MER_01
+이런 곳의 호화로운 분위기를 인정하긴 하지만, 나는 여전히 군대의 금욕적인 생활을 더 좋아합니다.
+$GD004_MER_VER_HAN_DIAL_JUDGE_02
+이전 소유주의 사치스러운 취향이 결국 그의 몰락을 불러왔습니다.
+$GD004_MER_VER_HAN_DIAL_MER_03
+알겠습니다. 한 판 두실까요?
+$GD004_MER_VER_DAVID_DIAL_MER_01
+품격이 느껴집니다. 축하드립니다.
+$GD004_MER_VER_DAVID_DIAL_JUDGE_02
+감사합니다. 장식은 자크-루이 다비드에게 맡겼어요. 그는 예술가입니다.
+$GD004_MER_VER_DAVID_DIAL_MER_03
+네, 두 분이 친구이자 정치적 동지라는 얘기를 들었습니다. 한 판 두시겠습니까?
+$GD004_MER_COMMENT_GAMEJUDGEWON_01
+당신이 내 신임을 얻으려고 일부러 져줄 줄 알았습니다. 가끔은 제 예상이 빗나가 기쁩니다.
+$GD004_MER_COMMENT_GAMEJUDGELOST_01
+내 신임을 얻기 위해서라면 일부러 져주는 일도 마다하지 않겠군요.
+$GD004_MER_COMMENT_ROLLJUDGEWON_01
+이 주사위는 사기야!
+$GD004_MER_COMMENT_ROLLJUDGEWON_02
+젠장, 저 여자애들이 나한테 저주를 걸었어!
+$GD004_MER_COMMENT_ROLLJUDGELOST_01
+약간의 행운이 따른다면 나쁠 게 없겠지.
+$GD004_MER_COMMENT_ROLLJUDGELOST_02
+자, 주사위야. 한 번만 더, 제발.
+$GD004_MER_COMMENT_REROLL_01
+이 불운이 곧 지나갈 거라고 생각하십니까?
+$GD004_MER_COMMENT_DRINK_01
+술 한잔 하고 싶군.
+$GD004_MER_COMMENT_DRINK_02
+판사께서 당연히 참여하시겠죠, 그렇죠?
+$GD005_RENARD_COMMENT_ROUND_01
+가면을 쓴 우리의 친구는 분노에 차 있었다. 그는 우리에게 도움을 주는 대가로 이득이 되는 거래를 제안했다. 우리는 그 제안을 받아들였다.
+$GD005_RENARD_COMMENT_ROUND_02
+위험하고 상처 입은 남자. 그를 거부하는 것은 현명하지 않을 것이다.
+$GD005_RENARD_COMMENT_ROUND_03
+그는 우리가 알고 있고, 전에 함께 일했던 사람에게 당신의 아이를 죽이는 데 도움을 청했습니다. 참 어리석군요.
+$GD005_RENARD_COMMENT_ROUND_04
+우리는 그의 머리를 쟁반에 담아 가져올 것입니다. 이것이 우리의 선의의 표시이자, 우리와 손잡는 것이 현명하다는 증거가 될 것입니다.
+$GD005_RENARD_COMMENT_ROUND_05
+귀족들은 머지않아 당당히 도시로 돌아올 것이며, 우리 편에 서지 않은 자는 모두 처단될 것이다.
+$GD005_RENARD_COMMENT_GAMEJUDGEWON_01
+당신이 이겼소. 우리는 약속을 지키겠소—그 반역자의 목은 당신 것이오. 하지만 파리는… 글쎄, 파리는 그리 기뻐하지 않을 것이오.
+$GD005_RENARD_COMMENT_GAMEJUDGELOST_01
+결국 모든 도박꾼은 자신이 아무것도 통제할 수 없다는 사실을 깨닫게 됩니다. 그는 시간이 자신을 패배로 몰아가는 모습을 그저 지켜볼 뿐이죠. 약속은 약속입니다 — 당신은 졌으니, 우리는 아무것도 말해주지 않겠습니다. 그리고 파리는… 파리는 마땅히 받아야 할 것을 받게 될 것입니다.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_01
+입 다물게 해라. 아직 끝나지 않았다.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_02
+여기서 마치겠습니다.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_01
+나도 한때는 1라운드를 이긴 적이 있었지.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_02
+그건 순전히 운이었어.
+$GD011_BRUNO_COMMENT_ROUND_01
+나를 맞설 용기가 있던 자들을 모두 죽였군. 고맙군.
+$GD011_BRUNO_COMMENT_ROUND_03
+피는 네 손에 묻었지, 내 손이 아니야. 또 내가 이겼군.
+$GD011_BRUNO_COMMENT_ROUND_06
+고통이 뭔지 안다고 생각해? 내가 보여줄 때까지 기다려.
+$GD011_BRUNO_COMMENT_ROUND_08
+너는 쓰러져 아버지의 마음을 산산이 부술 거야. 그래야만 내 복수가 완성되지!
+$GD011_Dices_Last_Dialog
+첫 번째 대결은 끝났지만, 내가 준비한 것은 아직 더 남아 있다. 이제 시작일 뿐이야.

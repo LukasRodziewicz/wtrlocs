@@ -1,0 +1,38 @@
+$DIAL_H_01_02_17_001_SPY
+Você ficou inconsciente por um bom tempo.
+$DIAL_H_01_02_17_002_JUDGE
+Quem é o homem que — ao que tudo indica — salvou minha vida?
+$DIAL_H_01_02_17_003_SPY
+Grégory Ramel. Você não me conhece, mas eu sei bastante sobre você. A senhora ao meu lado é...
+$DIAL_H_01_02_17_004_JUDGE
+Eu conheço Grace Elliott... Foi você quem me costurou?
+$DIAL_H_01_02_17_005_GRACE_ELLIOTT
+Não é a primeira vez que salvo a vida de alguém. Há mais vítimas da Revolução do que você imagina.
+$DIAL_H_01_02_17_006_SPY
+Você ameaçou a posição do ministro Roland e, mais importante ainda, os negócios administrados por sua esposa empreendedora. Negócios dos quais seus aliados — Jean-Nicolas Pache, o prefeito de Paris, e Jean-Baptiste Gobel, o arcebispo de Paris — recebiam parte dos lucros.
+$DIAL_H_01_02_17_007_JUDGE
+Eu não sabia...
+$DIAL_H_01_02_17_008_SPY
+Se essa informação fosse fácil de descobrir, significaria que alguém não está fazendo seu trabalho direito.
+$DIAL_H_01_02_17_009_JUDGE
+Mas você sabe...
+$DIAL_H_01_02_17_010_SPY
+Sim, porque é assim que ganho a vida: descobrindo segredos. Ouvi dizer nas ruas que os girondinos planejam tomar a Convenção à força. A humilhação do rei e a revelação da ligação entre o traidor coroado e Roland, um dos principais girondinos, enfraqueceram o grupo. Os jacobinos, liderados por Robespierre e Danton, podem aproveitar essa oportunidade. Talvez este seja o momento deles.
+$DIAL_H_01_02_17_011_JUDGE
+Não quero me envolver nisso – essas pessoas não estão brincando.
+$DIAL_H_01_02_17_012_SPY
+Receio que sua opinião não terá peso nisso, ao menos enquanto os Rolands estiverem vivos. Assim que souberem que você sobreviveu ao atentado, tentarão de novo. Sua sentença de morte já está assinada.
+$DIAL_H_01_02_17_013_JUDGE
+Você parece saber muito sobre mim. Como? Eu não entendo...
+$DIAL_H_01_02_17_014_GRACE_ELLIOTT
+Por ora, basta. Você precisa descansar, recuperar as forças. Seus ferimentos...
+$DIAL_H_01_02_17_015_SPY
+Eu conheci seu irmão...
+$DIAL_H_01_02_17_016_GRACE_ELLIOTT
+Monsieur Grégory!
+$DIAL_H_01_02_17_017_SPY
+Você tem razão. Falaremos sobre isso em outra ocasião.
+$DIAL_H_01_02_17_018_JUDGE
+Ainda não lhe agradeci por...
+$DIAL_H_01_02_17_019_SPY
+Você terá outra chance.

@@ -1,0 +1,48 @@
+$CUT_22_SPEECH_001_CROWD
+Quando é que vamos nos livrar de vez desses santos hipócritas?
+$CUT_22_SPEECH_002_CROWD
+Diga-nos, monsieur le juge!
+$CUT_22_SPEECH_003_CROWD
+Quando Tinville vai finalmente encurralá-los?
+$CUT_22_SPEECH_004_JUDGE_AGGR
+Fique furioso, seja implacável! Se for preciso empalar a cabeça de alguém – faça isso! Esta é sua cidade, seu país!
+$CUT_22_SPEECH_005_JUDGE_MANI
+Veja o que eles te obrigaram a fazer. Você precisou tomar as ruas para que enxergassem você. Sua raiva é mais do que justa, e eles têm motivos para temer quando o fim deles se aproxima!
+$CUT_22_SPEECH_006_JUDGE_JOKE
+Você acha mesmo que suas caras de descontentamento os incomodam? Se quiser que eles sintam medo, aproxime-se de punhos cerrados e tochas erguidas.
+$CUT_22_SPEECH_007_JUDGE_HUMI
+Eu entendo o que você sente e estou ao seu lado. Aqueles que se escondem em prédios de mármore e vestem roupas caras são a fonte do seu sofrimento!
+$CUT_22_SPEECH_008_JUDGE_AGGR
+Esses parasitas viviam às custas do seu suor, do seu sangue! Basta! A Revolução deveria nos tornar iguais, mas o clero mais uma vez nos despreza! A Vendeia provou isso!
+$CUT_22_SPEECH_009_JUDGE_MANI
+O clero nunca fez nada por vocês, sempre viveu apenas para si. Eles precisam da rebelião na Vendeia para recuperar o poder.
+$CUT_22_SPEECH_010_JUDGE_JOKE
+Você realmente precisa de pessoas que se recusam a defender sua fé e, em vez disso, só lhe causam repulsa?
+$CUT_22_SPEECH_011_JUDGE_HUMI
+Cidadãos, vocês pagaram caro demais por sua liberdade e igualdade para entregá-las a quem jamais permitirá que lutem novamente.
+$CUT_22_SPEECH_012_JUDGE_AGGR
+Todo grupo de traidores tem um líder. Desta vez não é diferente. O arcebispo Gobel aguarda que a guerra civil enfraqueça a França, apenas para coroar a si mesmo no momento oportuno! Ele deseja restaurar o antigo regime!
+$CUT_22_SPEECH_013_JUDGE_MANI
+O arcebispo Gobel é mais uma encarnação do mal que vocês mesmos derrubaram! Ele espiona, incita e persegue todos que cruzam seu caminho!
+$CUT_22_SPEECH_014_JUDGE_JOKE
+Se Gobel realmente se importasse com você, ele se contentaria apenas em pregar. Mas ele prefere ver rebeliões e o retorno aos velhos costumes.
+$CUT_22_SPEECH_015_JUDGE_HUMI
+Não permita que transformem todo o seu esforço em cinzas, pois disso surgirão pessoas como Gobel, prontas para governá-lo em nome do papa.
+$CUT_22_SPEECH_016_JUDGE_AGGR
+Exija que ele lhe conte a verdade sobre seu filho ilegítimo! Exija que ele revele seu envolvimento nos distúrbios da Vendeia e no início da guerra civil!
+$CUT_22_SPEECH_017_JUDGE_MANI
+Você vai mesmo permitir que a verdade sobre o filho ilegítimo do arcebispo seja soterrada sob pilhas de sermões sobre uma vida virtuosa? Vai deixar que o clero apoie guerras civis em vez dos fiéis?
+$CUT_22_SPEECH_018_JUDGE_JOKE
+Ouviu os boatos sobre o filho ilegítimo do arcebispo? Então pergunte a ele. Fico curioso para saber que histórias ele vai inventar.
+$CUT_22_SPEECH_019_JUDGE_HUMI
+A França não pode se dar ao luxo de ter padres com filhos ilegítimos, nem arcebispos envolvidos em guerras civis. Diga isso a ele.
+$CUT_22_SPEECH_020_JUDGE
+Ergam-se!
+$CUT_22_SPEECH_TOPIC_01
+Eu sei o quanto você está irritado. A culpa é deles.
+$CUT_22_SPEECH_TOPIC_02
+Eles viveram às custas do seu suor por tantos anos. E ainda continuam!
+$CUT_22_SPEECH_TOPIC_03
+Gobel é o pior entre os mentirosos.
+$CUT_22_SPEECH_TOPIC_04
+Vá até ele. Exija que lhe conte a verdade!

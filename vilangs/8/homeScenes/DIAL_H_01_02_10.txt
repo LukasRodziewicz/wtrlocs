@@ -1,0 +1,32 @@
+$DIAL_H_01_02_10_001_HANRIOT
+Sua esposa me disse que, se eu buscasse o apoio de pessoas justas, deveria procurá-las em sua casa.
+$DIAL_H_01_02_10_002_WIFE
+Sim, cidadão Hanriot. Meu marido ficará mais do que feliz em apoiar sua candidatura ao cargo de comandante-chefe.
+$DIAL_H_01_02_10_003_JUDGE
+Por que isso parece um fato consumado?
+$DIAL_H_01_02_10_004_HANRIOT
+Por favor, não fique zangado com sua esposa. Tenho certeza de que ela agiu de boa fé ao fazer aquelas promessas.
+$DIAL_H_01_02_10_005_WIFE
+Como alguém poderia recusar apoio a um oficial tão respeitável? Tenho certeza de que meu marido reconhecerá seus méritos, assim como eu reconheci.
+$DIAL_H_01_02_10_006_JUDGE
+Sem dúvida. Mas como posso ter certeza com tantos outros candidatos?
+$DIAL_H_01_02_10_007_HANRIOT
+Bem, respeito os outros candidatos, são pessoas decentes. No entanto, posso lhe oferecer o presente mais valioso – lealdade. Trabalhando juntos, podemos beneficiar muito um ao outro... e talvez Paris também.
+$DIAL_H_01_02_10_008_JUDGE
+Nossa família valoriza muito a sinceridade e a lealdade, não é mesmo, minha querida? Além disso, respeitamos os limites uns dos outros.
+$DIAL_H_01_02_10_009_WIFE
+Em cada passo.
+$DIAL_H_01_02_10_010_HANRIOT
+Sim. Esses boatos repugnantes sobre seu vício precisam acabar! Saiba que nunca esqueço quem me faz um favor.
+$DIAL_H_01_02_10_011_JUDGE
+Por enquanto, são só palavras, cidadão Hanriot.
+$DIAL_H_01_02_10_012_HANRIOT
+Tenho plena certeza de que nenhum outro candidato pediu seu apoio. Eles não o consideram digno de sua amizade. Mas eu, François Hanriot, sou diferente – assim como minhas palavras.
+$DIAL_H_01_02_10_013_WIFE
+Tenho certeza de que meu marido já percebeu isso.
+$DIAL_H_01_02_10_014_HANRIOT
+Obrigado. Não importa o que gritem as multidões, Paris só é forte enquanto suas elites estiverem unidas.
+$DIAL_H_01_02_10_015_JUDGE
+Não vou desfazer as promessas da minha esposa, mas daqui em diante, trate de vir falar comigo primeiro.
+$DIAL_H_01_02_10_016_HANRIOT
+Mas é claro...

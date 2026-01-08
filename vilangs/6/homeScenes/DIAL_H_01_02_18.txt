@@ -1,0 +1,30 @@
+$DIAL_H_01_02_18_001_JUDGE
+¿Cuándo conoció usted a mi hermano Bruno?
+$DIAL_H_01_02_18_002_SPY
+Servimos en la misma brigada, y le debo la vida. Se arriesgó para sacarme del campo de batalla cuando yo estaba herido, pero él no tuvo la misma suerte.
+$DIAL_H_01_02_18_003_WIFE
+Ya le hemos dedicado demasiado tiempo a ese hombre, tanto en nuestras ideas como en nuestras conversaciones.
+$DIAL_H_01_02_18_004_JUDGE
+Quiero saber…
+$DIAL_H_01_02_18_005_GRANDFATHER
+Yo también.
+$DIAL_H_01_02_18_006_SPY
+Una bala perdida lo mató. Nunca tuve la oportunidad de agradecerle por salvarme la vida. Le aseguro que éramos amigos.
+$DIAL_H_01_02_18_007_SPY
+Tu hermano me sacó de entre los muertos y me arrastró lejos del campo de batalla. Apenas llegamos a los árboles, una bala perdida le alcanzó por la espalda.
+$DIAL_H_01_02_18_008_SPY
+Murió casi de inmediato y yo… deserté. Pensé que debía agradecerles a ustedes, su sangre, e intentar saldar esa deuda con mis actos.
+$DIAL_H_01_02_18_009_JUDGE
+Así que Bruno ha pagado por sus pecados.
+$DIAL_H_01_02_18_010_GRANDFATHER
+Mi hijo…
+$DIAL_H_01_02_18_011_SPY
+A menudo decía: “Alexis, mi hermano, él es lo único que importa”. Debiste de ser muy importante para él.
+$DIAL_H_01_02_18_BATTLEROUND_1
+Nuestra retaguardia luchó contra el enemigo y fue derrotada. Luego, invadieron el campamento donde nos atendían las heridas. Tuvimos que tomar las armas.
+$DIAL_H_01_02_18_BATTLEROUND_2
+Tu hermano luchó como un poseso, la gente se agrupaba a su alrededor.
+$DIAL_H_01_02_18_BATTLEROUND_3
+Esperábamos que alguien viniera al rescate, pero en el fondo sabíamos que llegarían demasiado tarde…
+$DIAL_H_01_02_18_BATTLEROUND_4
+Alguien me atravesó con una bayoneta. Quedé tendido, desangrándome, mientras mis amigos caían abatidos por las balas, uno tras otro.

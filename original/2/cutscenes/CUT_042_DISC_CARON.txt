@@ -1,0 +1,110 @@
+$CUT_042_DISC_CARON_001_CARON
+Pourquoi diable m'a-t-on enlevée et attachée à une chaise ?!
+$CUT_042_DISC_CARON_002_CARON
+Il y a tant de catins à Paris prêtes à jouer à ce petit jeu. Alors, Monsieur le juge, qu'as-tu à répondre ?
+$CUT_042_DISC_CARON_003_CARON
+Ou veux-tu que je te regarde te tripoter, vieux salace ?
+$CUT_042_DISC_CARON_004_CARON
+Rien, donc ?
+$CUT_042_DISC_CARON_005_CARON
+J'ai entendu dire que quelqu'un cherche à te tuer.
+$CUT_042_DISC_CARON_006_CARON
+Et à présent, tu es promu au peloton d'élite des meurtriers, les princes de la guillotine.
+$CUT_042_DISC_CARON_007_CARON
+Félicitations à toi.
+$CUT_042_DISC_CARON_008_JUDGE
+Je n'ai jamais demandé à en faire partie, mais je ne suis pas non plus arrivé à cette position par hasard.
+$CUT_042_DISC_CARON_009_CARON
+Oui, j'imagine que tu as besoin d'une petite stimulation.
+$CUT_042_DISC_CARON_010_CARON
+Ah, voilà l'étincelle de folie masculine dans tes yeux.
+$CUT_042_DISC_CARON_011_JUDGE
+Tu dois signer ce document.
+$CUT_042_DISC_CARON_012_CARON
+Est-ce une histoire bien écrite ? Quelle est la trame ?
+$CUT_042_DISC_CARON_013_JUDGE
+Trahison et espionnage pour le compte de l'Autriche, avec toi et le maire de Paris comme protagonistes.
+$CUT_042_DISC_CARON_014_CARON
+Tout en exagération…
+$CUT_042_DISC_CARON_015_CARON
+Cela ne se vendra pas.
+$CUT_042_DISC_CARON_010_JUDGE_AGGR
+Sache que ce document prouve que tu es une catin corrompue ; et que j'en suis l'auteur. Écoute-moi bien, ta vie est en jeu.
+$CUT_042_DISC_CARON_011_JUDGE_MANI
+Ce document comportera ta signature, d'une manière ou d'une autre.
+$CUT_042_DISC_CARON_012_JUDGE_JOKE
+Je suis un éditeur de renom, je peux vendre l'histoire qui me plaît. Dépêche-toi de signer ce document, ces bougres attendent que je leur signifie la fin de leur garde.
+$CUT_042_DISC_CARON_013_JUDGE_HUMI
+J'aurais préféré ne pas te voir avec ce sourire. Ce document est une nécessité formelle, il est dommage que nous devions le signer dans de telles circonstances.
+$CUT_042_DISC_CARON_014_CARON_DOUB
+Je n'ai étrangement aucune hâte de signer quoi que ce soit.
+$CUT_042_DISC_CARON_015_CARON_IRRI
+Peut-être ai-je été trop subtile dans mon ironie. Je n'ai l'intention de signer aucun document que ce soit, fourre-le donc où il te sied. Tu ne peux pas m'y forcer.
+$CUT_042_DISC_CARON_016_CARON_AGGR
+Je me fiche de ce que tu dois faire ou de ce que tu ne veux pas faire. Je n'ai pas peur de toi. Les Parisiens en grand nombre me défendront.
+$CUT_042_DISC_CARON_017_JUDGE_AGGR
+Tu as été trahie par les Muscadins, ils nous ont fait part de ta liaison avec la fille du maire. Lorsque la nouvelle arrivera aux oreilles de Pache, il fera tout pour voir ta tête tomber, crois-moi. Et personne ne te défend…
+$CUT_042_DISC_CARON_018_JUDGE_MANI
+Vois-tu quelqu'un qui te défendrait ? Y a-t-il quelqu'un qui soit venu t'aider ? Bien sûr que non. Je suis la seule personne en mesure de le faire.
+$CUT_042_DISC_CARON_019_JUDGE_JOKE
+Ta liberté ne tient qu'à une signature. Pourquoi t'y refuser ? C'est bien davantage le maire, et non toi, qui doit en craindre les conséquences.
+$CUT_042_DISC_CARON_020_JUDGE_HUMI
+Suivre les ordres de nos supérieurs est quelque chose que nous faisons constamment dans la vie. Tu ferais bien de ne pas te dresser sur leur chemin, ils t'écraseraient sans même y prêter attention.
+$CUT_042_DISC_CARON_021_JUDGE_AGGR
+Tu vois ces gardes ? Je pourrais te laisser seule une heure avec eux. Il est fort probable qu'ils te violent, voire qu'ils te passent à tabac. Doit-on vraiment en arriver là pour que tu ouvres les yeux ?
+$CUT_042_DISC_CARON_022_JUDGE_MANI
+Tu aimes Marie, n'est-ce pas ? Je t'offre donc le choix : qui dois-je guillotiner entre elle et son père ? Le nom du condamné m'importe peu, tant que cette famille paie pour avoir tenté de m'assassiner.
+$CUT_042_DISC_CARON_023_JUDGE_JOKE
+Quoi qu'il arrive, ta signature figurera sur le témoignage. Il importe peu au papier que la plume soit tenue par une main morte.
+$CUT_042_DISC_CARON_024_JUDGE_HUMI
+Le maire te tuera si ta liaison avec sa fille s'ébruite et entache à sa réputation. Il a essayé de se défaire aussi de moi lorsque mes actes ont commencé à compromettre sa situation.
+$CUT_042_DISC_CARON_025_JUDGE_AGGR
+C'est ta seule chance de refaire ta vie. Lorsque tu quitteras cette pièce, tu mourras. Mais sache que la mort te guette même ici, car ma patience à ses limites.
+$CUT_042_DISC_CARON_026_JUDGE_MANI
+Quitte Paris. Fuis la tempête qui ne t'épargnera pas et qui n'a cure de tes sentiments pour Marie. Va en Amérique, par exemple. Tu n'auras pas à craindre l'ombre de la Révolution là-bas. Signe ce document. Échappe-toi tant que tu le peux.
+$CUT_042_DISC_CARON_027_JUDGE_JOKE
+Vois cela comme la chance de commencer une nouvelle vie. Achète-toi une toilette coquette et fuis cette ville qui ne t'a jamais défendue, et jamais ne te défendra.
+$CUT_042_DISC_CARON_028_JUDGE_HUMI
+Lorsque le calme retombera, ce sera comme s'il ne s'était jamais rien passé. Il faut parfois souffrir pour sauver sa peau. Pour sauver un être aimé.
+$CUT_042_DISC_CARON_029_CARON_INTR
+Peux-tu m'assurer qu'un mystérieux accident ne mettra pas fin prématurément à ma nouvelle vie ? Que je ne tomberai pas malencontreusement sur un couteau ou sous les roues d'une voiture ?
+$CUT_042_DISC_CARON_030_CARON_DOUB
+Ai-je l'air pour toi d'une femme se souciant de sa vie ou de l'opinion des autres ?
+$CUT_042_DISC_CARON_031_CARON_IRRI
+…
+$CUT_042_DISC_CARON_032_CARON_AGGR
+Je ne suis pas une catin. Tu m'as mal jugée, j'ai trop de fierté pour ça.
+$CUT_042_DISC_CARON_033_JUDGE_AGGR
+Pour les Parisiens, tu ne seras qu'une anomalie de plus. Ils agiront avec toi comme des chiens errants, ils te mettront en lambeaux pour leur simple plaisir.
+$CUT_042_DISC_CARON_034_JUDGE_MANI
+L'Amérique te conviendra tout à fait. C'est un nouveau monde, encore en devenir. Ici, les gens n'appréhendent la liberté que dans les limites de leur imagination.
+$CUT_042_DISC_CARON_035_JUDGE_JOKE
+T'attendais-tu à ce que la France accepte une liaison entre deux femmes, comme la tienne avec Marie ? La Révolution a changé la forme de gouvernement, non pas les gens. Ils n'ont pas lutté pour une liberté qu'ils ne comprennent pas.
+$CUT_042_DISC_CARON_036_JUDGE_HUMI
+La France ne vous donnera pas à toi et Marie la liberté dont vous avez besoin. Tu peux protester et te révolter autant que tu le veux, mais tu le paieras de ta vie. Et sur l'échafaud, tu entendras seulement la foule crier « décadente ».
+$CUT_042_DISC_CARON_037_CARON_INTR
+Peut-être vaut-il mieux vraiment que je quitte ce pays mensonger qui n'a que des louanges à la bouche quand on lui parle de la Révolution.
+$CUT_042_DISC_CARON_038_CARON_DOUB
+Tu te crois juste et clément ? Tu crois nous comprendre ? La France est aux hommes, jamais vous ne ressentirez notre douleur. Monstres que vous êtes… tous.
+$CUT_042_DISC_CARON_039_CARON_IRRI
+Vous êtes tous les mêmes. Le peu de liberté qu'il me reste sera suffisant pour refuser ce que l'homme que tu es veut de moi.
+$CUT_042_DISC_CARON_040_CARON_AGGR
+La Révolution n'est qu'un simple changement de gardes. Les autres se soumettront ou disparaîtront dans l'abîme. Mais moi je m'y refuse, je n'en puis plus !
+$CUT_042_DISC_CARON_TOPIC_01
+De quoi avons-nous besoin ?
+$CUT_042_DISC_CARON_TOPIC_02
+Pourquoi elle devrait signer [PAR RAISON]
+$CUT_042_DISC_CARON_TOPIC_03
+Pourquoi elle devrait signer [PAR MENACE]
+$CUT_042_DISC_CARON_TOPIC_04
+Qu'y gagnera-t-elle ?
+$CUT_042_DISC_CARON_TOPIC_05
+La France n'acceptera pas l'union de deux femmes.
+$CUT_042_DISC_CARON_DECISION_01
+Torture
+$CUT_042_DISC_CARON_EVE_DECISION_01
+Nous nous porterions tous mieux si Béatrice était plus raisonnable. Son entêtement fait obstacle à ta vengeance. Si tu te montres indulgent avec elle, Pache risque de vous attaquer une nouvelle fois, toi et ta famille. Cette ville ne pardonne pas aux faibles. Les tortures ont fait céder la jeune femme, elle a signé le témoignage. Espérons que Danton soit moins coriace.
+$CUT_042_DISC_CARON_DECISION_02
+Payer la fuite au moyen des économies familiales
+$CUT_042_DISC_CARON_EVE_DECISION_02
+Tu aurais dû y penser dès le début. Tu aurais dû le savoir. Les gens comme elle ne croient pas aux promesses, parce qu'ils en ont vu trop n'être pas tenues. Ils n'ont pas peur des menaces, parce qu'ils ont appris depuis longtemps à vivre dans la peur et l'angoisse. L'argent est la seule chose à laquelle Béatrice croit. L'argent et une nouvelle vie. Tu as obtenu ce que tu voulais, elle a signé le témoignage. Mais que diront les tiens lorsqu'ils s'apercevront qu'ils devront se serrer la ceinture ?

@@ -1,0 +1,54 @@
+$CUT_22_SPEECH_001_CROWD
+Kiedy w końcu zrobimy porządek z tymi świętoszkami?
+$CUT_22_SPEECH_002_CROWD
+Panie sędzio, niech pan powie!
+$CUT_22_SPEECH_003_CROWD
+Kiedy Tinville ich przyciśnie?
+
+$CUT_22_SPEECH_004_JUDGE_AGGR
+Bądźcie źli, bądźcie bezlitośni! Jeśli trzeba będzie wbić czyjąś głowę na pal, to wbijcie. To wasze miasto, wasz kraj!
+$CUT_22_SPEECH_005_JUDGE_MANI
+Zobaczcie, do czego doprowadzili. Musieliście wyjść na ulicę, by was zauważyli. Macie prawo być źli, a oni powinni się bać, bo zbliża się ich koniec.
+$CUT_22_SPEECH_006_JUDGE_JOKE
+Myślicie, że ich obchodzą wasze grymasy na twarzach? Oni przestraszą się dopiero pochodni i pięści.
+$CUT_22_SPEECH_007_JUDGE_HUMI
+Wiem, co czujecie, i pochylam się nad wami. To ci ludzie gnieżdżący się w marmurowych budowlach i noszący szlachetne sukna są źródłem waszego żalu!
+
+$CUT_22_SPEECH_008_JUDGE_AGGR
+Tyle lat pasożytowali na waszej pracy, na waszym pocie i krwi! Dosyć! Rewolucja miała nas wszystkich zrównać, tymczasem kler znowu podnosi łeb. Wandea jest najlepszym dowodem!
+$CUT_22_SPEECH_009_JUDGE_MANI
+Kler nic dla was nie zrobił. Zawsze żyli dla siebie samych. Powstanie w Wandei jest im potrzebne, by wrócić do władzy!
+$CUT_22_SPEECH_010_JUDGE_JOKE
+Do czego wam potrzebni ludzie, którzy zamiast bronić waszej wiary, tylko ją wam obrzydzają?
+$CUT_22_SPEECH_011_JUDGE_HUMI
+Obywatele, zbyt dużo was kosztowała walka o wolność i równość, by je teraz oddawać w ręce tych, którzy drugi raz wam nie ulegną.
+
+$CUT_22_SPEECH_012_JUDGE_AGGR
+Na czele zdrajców zawsze stoi jeden człowiek. Tak jest i tym razem – arcybiskup Gobel to ten, który czeka tylko, aż wojna domowa osłabi Francję, by wynieść siebie samego na tron! By wróciły stare układy!
+$CUT_22_SPEECH_013_JUDGE_MANI
+Arcybiskup Gobel jest kolejnym ucieleśnieniem zła, które obaliliście. Mąci, szpieguje i dręczy ludzi, którzy stają na jego drodze!
+$CUT_22_SPEECH_014_JUDGE_JOKE
+Gdyby Gobel się wami przejmował, to poprzestałby na głoszeniu kazań z ambony. Ale jemu się zachciało powstań i układania nowego porządku.
+$CUT_22_SPEECH_015_JUDGE_HUMI
+Nie pozwólcie, by wasza praca obróciła się w proch, z którego tacy ludzie jak Gobel powstaną i rządzić będą wami na polecenie papieża.
+
+$CUT_22_SPEECH_016_JUDGE_AGGR
+Zażądajcie od niego prawdy o jego nieślubnym dziecku! Zażądajcie prawdy o jego udziale w organizacji powstania w Wandei i wywołaniu wojny domowej!
+$CUT_22_SPEECH_017_JUDGE_MANI
+Pozwolicie, by prawda o nieślubnym dziecku arcybiskupa zginęła gdzieś między kazaniami o życiu w cnocie? Pozwolicie, by księża wspierali wojny domowe zamiast swoich wiernych?!
+$CUT_22_SPEECH_018_JUDGE_JOKE
+Słyszeliście plotki o nieślubnym dziecku arcybiskupa? No to idźcie go o to zapytać. Ciekawe, jakie bajki wam opowie.
+$CUT_22_SPEECH_019_JUDGE_HUMI
+Francji nie stać na księży, którzy mają nieślubne dzieci, oraz na biskupów, którzy maczają palce w wojnach domowych. Idźcie i przekażcie mu to.
+
+$CUT_22_SPEECH_020_JUDGE
+Powstańcie!
+
+$CUT_22_SPEECH_TOPIC_01
+Wiemy, że jesteście źli. To przez nich.
+$CUT_22_SPEECH_TOPIC_02
+Przez lata żyli waszym kosztem i nadal tak jest.
+$CUT_22_SPEECH_TOPIC_03
+Gobel jest najgorszym kłamcą.
+$CUT_22_SPEECH_TOPIC_04
+Idźcie i zażądajcie od niego prawdy.

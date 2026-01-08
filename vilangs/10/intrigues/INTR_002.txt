@@ -1,0 +1,78 @@
+$INTRIGUE_TITLE_002
+Jean-Nicolas Pache
+$INTRIGUE_002_DESC
+Hayatınıza kasteden suikastçilerin birileri tarafından tutulduğu açık ve tüm işaretler Paris Belediye Başkanı’nı gösteriyor. O kadar temkinli ki, ona doğrudan saldırmanıza izin vermez. Onu gafil avlamalısınız.
+$INTR_002_B01_TITLE
+Genelevi Hanriot'ya emanet et
+$INTR_002_B01_DESC
+Pache kumar oynamayı ve parasını göstere göstere harcamayı sever. Genelevin hizmetlerine iskambil ve zar oyunlarını da eklemeliyiz – ikincisini ne kadar sevdiğini biliyorum. Güvenlikten Komutan Hanriot sorumlu olacak. Pache kendini yanımızda güvende hissetmeli.
+$INTR_002_B02_TITLE
+David’in genelevi yönetmesine izin ver
+$INTR_002_B02_DESC
+Pache’yi tuzağa düşürmek istiyorsan, bunu zarafetle yapmalısın. Roland’dan alınan genelev mükemmel bir tuzak olurdu, ama orayı daha da cazip kılmak için kumarı da eğlenceler arasına eklemeliyiz. Mesela zar oyunları. Sanatçı David, kesinlikle oraya öyle bir ihtişam katacaktır ki, Pache gibi aylak biri bile dayanamayacak ve şüphelenmeyecektir.
+$INTR_002_B03_TITLE
+Belediye Başkanıyla Görüşme
+$INTR_002_B03_DESC
+Onunla yüz yüze görüşmeli ve hayatınıza yönelik suikasttaki rolünden haberdar olmadığımıza inanmasını sağlamalıyız.
+$INTR_002_B04_TITLE
+Marie Sylvie Pache’yi takip et
+$INTR_002_B04_DESC
+Harekete geçmeden önce, David’in Belediye Başkanının kızıyla Béatrice Caron arasındaki ilişkinin mahiyetini doğrulaması gerekiyor. Eğer aralarında bir ilişki varsa, Pache öfkesinden deliye dönecek ve siz de ona bizim için bu kadar gerekli olan o tek hatayı yaptıracaksınız…
+$INTR_002_B05_TITLE
+Kumarhanede buluşma
+$INTR_002_B05_DESC
+Pache’nin zaferin ve iyi tütünün tadına bakma vakti geldi, hem de yepyeni kumarhanede. Artık kendini… güvende hissetmeli.
+$INTR_002_B06_TITLE
+Béatrice Caron'u tutuklama
+$INTR_002_B06_DESC
+Hanriot’nun muhafızları, Belediye Başkanının kızını ve sevgilisini her zamanki buluşma yerlerinde pusuya düşürecek. Béatrice tutuklanacak ve olup biteni tek başına bekleyecek. Marie’ye ise artık ihtiyacımız kalmadı.
+$INTR_002_B07_TITLE
+Béatrice, hain
+$INTR_002_B07_DESC
+Ona, Avusturya casusu olduğunu, Jean-Nicolas Pache’ın kendisine bilgi kaynağı olduğunu ve ona kızının aracılığıyla ulaştığını belirten bir belgeyi imzalatmamız “gerekiyor”.
+$INTR_002_B08_TITLE
+Danton ile buluşma
+$INTR_002_B08_DESC
+Béatrice’in imzaladığı belgeye rağmen, hâlâ Belediye Başkanı üzerinde tam bir kontrolümüz yok. Hâlâ o laf cambazı dostu Danton’dan yardım isteyebilir. Pache’nin tamamen yalnız kalması gerek. Danton’u kendi tarafımıza çekemezsek kaybederiz.
+$INTR_002_B09_TITLE
+Belediye Başkanını Tutuklamak
+$INTR_002_B09_DESC
+Siyasi bir tutuklama yapmak için gecenin ortasından daha iyi bir zaman yoktur. Şimdi harekete geçmelisiniz!
+$INTR_002_B10_TITLE
+Béatrice Caron – Şantajcı
+$INTR_002_B10_DESC
+Béatrice muhafızlardan kaçmayı başardı ve Marie Pache’ye bir mesaj gönderdi. Ondan, ilişkilerinin yol açtığı zararı telafi etmek için parayla birlikte rue Saint-Maur’da olmasını istedi. Müdahale etmeliyiz. Béatrice akılcı davranmadı – hayatını kurtarıp Avrupa’nın öbür ucuna kaçmak yerine Paris’te kalıp şantaja girişti. Sevdiğini iddia ettiği kişiden para koparmaya çalışıyor. İmzalattığımız ifadeden bahsederse bütün planımız çöker.
+$INTR_002_B10_DECISION_0
+Muhafızlarla birlikte git
+$INTR_002_B10_DECISION_1
+Muhafızları tek başına gönder
+$INTR_002_SLOT_01_DESC
+El konulan genelevi kimin yöneteceğine karar verin.
+$INTR_002_BLOCK_004_PATH_STR
+Muhafızını gönder, halletsinler – saklanmamıza gerek yok.
+$INTR_002_BLOCK_004_PATH_DIP
+David’in varlığı hiçbir şüphe uyandırmamalı.
+$INTR_002_BLOCK_004_PATH_ESP
+Bunu Ramel’e bırak. Şehrin her karanlık köşesini avucunun içi gibi bilir.
+$INTR_002_BLOCK_004_PATH_STR_FAILURE
+Clovis sakar ve… gizlice hareket etmek için fazla iri. Bilgiyi elde etti, ama Muscadins onu fark etti.
+$INTR_002_BLOCK_004_PATH_DIP_FAILURE
+Muskadenler tam bir paranoyak çıktı. Hatta cana yakın David’in varlığı bile onlarda şüphe uyandırdı. Öğrenmek istediğiniz her şeyi öğrendiniz, ama öfkelerini üzerinize çekme pahasına.
+$INTR_002_BLOCK_004_PATH_ESP_FAILURE
+Ramel bu işlerde iyidir, fakat tam çıkarken eski bir dostunu tanıyan sarhoş bir Muscadin tarafından fark edildi. Casusunuz arka sokaklardan kaçmayı başardı, ancak artık Muscadinler çok daha temkinli olacak…
+$INTR_002_BLOCK_006_PATH_STR
+Hanriot ortalığı ayağa kaldıracak! Herkes, hainin tutuklanmasını istediğimizi bilsin.
+$INTR_002_BLOCK_006_PATH_DIP
+Hanriot, Marie’yle görüşmeye gitmeden önce onu nazikçe ve haklarına saygı göstererek tutuklayacak.
+$INTR_002_BLOCK_006_PATH_ESP
+Hanriot'ya, Marie ile buluşmaya giderken onu bir ara sokakta tutuklamasını söyle. Sessizce, göze batmadan.
+$INTR_002_BLOCK_006_PATH_STR_FAILURE
+Muskadenler, kızlarından birini savunmaya kalktı. Silahlar patladı. Caron elimizde, ama iki tarafta da kayıplar var…
+$INTR_002_BLOCK_006_PATH_DIP_FAILURE
+Béatrice çabalarımızı takdir etmedi. Bağırarak saldırıya ve tecavüze uğradığını söyledi, kısa sürede de taş atan kalabalığın desteğini aldı. Muhafızlar şiddet kullanmak zorunda kaldı…
+$INTR_002_BLOCK_006_PATH_ESP_FAILURE
+Muskadenler daha temkinli olmaya başladı ve artık yalnız dolaşmamaya çalışıyorlar. Muhafızlar, kızın birkaç yoldaşının kemiklerini kırmak zorunda kaldı...
+$INTR_002_B10_EVENT_TITLE
+ÖZGÜRLÜK!
+$INTR_002_B10_EVENT_TEXT
+Marie öldürdü. Hem de iki kez. Muhafızlar, Belediye Başkanının kızının bıçakladığı Béatrice’in cesedini buldu. Marie muhafızları fark edince, iddiaya göre “Özgürlük!” diye haykırıp kendi boğazını kesti. Kontrol tamamen kaybedildi. Haber hızla yayılıyor; Belediye Başkanı muhtemelen kızının başına gelenleri, onun kendi günahlarının bedelini ödediğini çoktan öğrenmiştir. Suçluluk hissetme. Yarınki davalara odaklan. Suçluluk hissetme…

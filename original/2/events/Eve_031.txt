@@ -1,0 +1,8 @@
+$EVE_031_TITLE
+Il nous appartient !
+$EVE_031_MAIN
+Pour le peuple de Paris, il n'y a rien de plus avilissant que de voir le citoyen Capet s'enfuir. Il a pris la fuite, leur a échappé, et la Révolution semble désormais affaiblie et fragilisée. Les gens ont fait preuve d'une grande naïveté, à la manière d'un enfant. Toutefois, la République a rapidement pris forme grâce à un maître de poste qui a pu attraper les fuyards qui se dirigeaient vers Montmédy. C'est la grandeur de la République, un seul citoyen provoquant la chute d'un monarque. Vous aurez également l'opportunité de servir la République, car le citoyen Capet comparaîtra devant le tribunal demain. Vous choisirez comment les gens se souviendront de lui : comme un traître, un lâche ou un dirigeant infortuné. Si la décision revenait aux gardiens de prison, il n'y aurait qu'une seule issue...
+$EVE_031_OPTION_A
+Permettez aux gardes de brutaliser le citoyen Capet en prison
+$EVE_031_OPTION_B
+Le laisser tranquille jusqu'au procès

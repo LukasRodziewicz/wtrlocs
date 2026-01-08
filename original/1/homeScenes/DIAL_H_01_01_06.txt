@@ -1,0 +1,30 @@
+$DIAL_H_01_01_06_001_GRANDFATHER
+We made a nice profit. There was a chance of prosperity…
+$DIAL_H_01_01_06_002_ELDERSON
+Why would the Renard family want to take over your shop, grandpapa?
+$DIAL_H_01_01_06_003_GRANDFATHER
+For profit and power. It’s always the same, and it’s no different in these times.
+$DIAL_H_01_01_06_004_ELDERSON
+Today is about equality, so that not only the aristocrats can live with dignity.
+$DIAL_H_01_01_06_005_GRANDFATHER
+Grow up, boy. I only saw the truth when they attempted to sentence my son, your uncle, to death. It suddenly dawned on me that the only things that mattered were the power I never had, and the connections I never cared for.
+$DIAL_H_01_01_06_006_JUDGE
+You wanted to be righteous while the injustice spread like a plague. You should not be sorry for that.
+$DIAL_H_01_01_06_007_GRANDFATHER
+I am not. But I would rather your brother lived so that I still had two sons.
+$DIAL_H_01_01_06_008_YOUNGERSON
+You have a brother, daddy? Where is he?
+$DIAL_H_01_01_06_009_JUDGE
+He died a long time ago, before you were born.
+$DIAL_H_01_01_06_010_YOUNGERSON
+Why did he die?
+$DIAL_H_01_01_06_011_JUDGE
+Do not talk so much while eating.
+$DIAL_H_01_01_06_012_GRANDFATHER
+Your uncle went to war and died in battle. Your generation will soon realise the extent of the damage we inflicted upon the world. In the past, decent people like Pochard never had to worry about courts or Tribunals, but now…
+$DIAL_H_01_01_06_013_JUDGE
+Do you even consider the possibility that Pochard was guilty?
+$DIAL_H_01_01_06_014_YOUNGERSON
+No! Not Mr Pochard!
+$DIAL_H_01_01_06_015_GRANDFATHER
+He was no guiltier than any of us… Son, keep an eye on the Renards.

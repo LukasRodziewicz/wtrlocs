@@ -1,0 +1,286 @@
+$GEN_021_DOC_01_HEADER
+Compilado por: Pierre Daquin
+$GEN_021_DOC_01_00
+Isaac Medelsheim, judeu viúvo de 53 anos, administra três estalagens em Paris e vive de conceder empréstimos. Sua filha, Esther Medelsheim, de 16 anos, o auxilia nos negócios. O comerciante se descreve como um fervoroso <a name="2" class="hidden">apoiador da Revolução</a>, pois acredita que, por meio dela, os judeus finalmente terão os mesmos direitos que os demais cidadãos da França.
+$GEN_021_DOC_01_01
+Devido à escassez de alimentos que assola a cidade, sua principal fonte de renda tornou-se a agiotagem. Medelsheim é suspeito de ter roubado suprimentos militares com a intenção de vendê-los em suas estalagens.
+$GEN_021_DOC_01_02
+O suposto crime foi testemunhado pelo conde Jean-Philippe de Braux, um dos devedores de Medelsheim. Ele informou às autoridades que, tarde da noite de sábado, 12 de setembro, viu Isaac Medelsheim pessoalmente supervisionando a <a name="4" class="hidden">descarga dos veículos</a> pertencentes ao seu primo Herz Medelsheim, enquanto estavam parados em frente ao seu <a name="5" class="hidden">armazém</a>. Todos sabem que Herz fornece suprimentos exclusivamente para o exército francês, e que seus gerentes são visitantes frequentes nas estalagens de Isaac.
+$GEN_021_DOC_01_03
+Os investigadores encontraram <a name="6" class="hidden">baús militares</a> com o selo da empresa de Herz Medelsheim no armazém de Isaac. Seu conteúdo — vinho, carne de cavalo seca e farinha — não constava no <a name="7" class="hidden">inventário</a>. No entanto, esses itens apareciam nas guias de remessa do quartel de Reims. Os registros indicam que Esther Medelsheim é responsável pelo inventário.
+$GEN_021_DOC_01_04
+Isaac Medelsheim foi imediatamente preso e acusado de roubar o exército francês e agir contra os interesses da França.
+$GEN_021_DOC_01_05
+Evidência: <a name="8" class="hidden">O depoimento de Esther</a> Medelsheim.
+$GEN_021_OnStart_00
+Sanguessuga judia!
+$GEN_021_OnStart_01
+Morte aos burgueses!
+$GEN_021_OnStart_02
+Por favor, apresente-se.
+$GEN_021_OnStart_03
+Isaac Medelsheim, monsieur le juge.
+$GEN_021_OnStart_04
+Você é acusado de roubar bens do exército francês e tentar vendê-los.
+$GEN_021_OnStart_05
+Que roubo, monsieur le juge, que crime?!
+$GEN_021_OnStart_06
+Temos uma testemunha que viu tudo com os próprios olhos.
+$GEN_021_OnStart_07
+Isso é calúnia, monsieur le juge, e uma provocação inventada pelo Conde de Braux! Ele me deve dinheiro e não quer pagar!
+$GEN_021_OnStart_08
+Os baús militares encontrados em seu armazém, repletos de suprimentos destinados à guarnição de Reims, são provas bastante contundentes contra você.
+$GEN_021_OnStart_09
+Eu posso explicar!
+$GEN_021_OnGuilty_00
+Condeno o cidadão Isaac Medelsheim à guilhotina! Levem o condenado.
+$GEN_021_OnGuilty_01
+Vamos torcer para que nossos soldados finalmente tenham algo para comer.
+$GEN_021_OnGuilty_02
+Finalmente!
+$GEN_021_OnGuilty_03
+Mandem toda a burguesia para a guilhotina!
+$GEN_021_OnNotGuilty_00
+O veredito para Isaac Medelsheim é... inocente! Retirem o réu.
+$GEN_021_OnNotGuilty_01
+Eu apresento uma objeção formal ao veredicto!
+$GEN_021_OnNotGuilty_02
+Deixaram um ladrão sair impune!
+$GEN_021_OnNotGuilty_03
+Ele é um contrarrevolucionário!
+$GEN_021_OnNotGuilty_04
+O juiz foi subornado!
+$GEN_021_01x04_00_QTitle
+Quantos funcionários trabalham no seu armazém?
+$GEN_021_01x04_00_00
+Quantos funcionários trabalham no seu armazém?
+$GEN_021_01x04_00_01
+Cinco, mas são todos preguiçosos e vagabundos.
+$GEN_021_01x04_00_02
+Como explica o fato de, mesmo tendo cinco empregados e sendo judeu, ter descarregado pessoalmente os baús no sábado, durante o Shabat?
+$GEN_021_01x04_00_03
+O gerente de Herz, Jacob, mandou que ele descarregasse as caixas depressa porque queria pegar a estrada. Corri até o armazém, mas já era tarde e nenhum daqueles inúteis estava trabalhando.
+$GEN_021_01x04_00_04
+Então você decidiu ignorar a sua própria religião?
+$GEN_021_01x04_00_05
+Sábado é sábado, mas negócios são negócios. Eu até poderia ter recusado, mas aí perderia dinheiro. Os tempos estão difíceis.
+$GEN_021_01x04_00_06
+Então você não armou tudo isso para evitar testemunhas?
+$GEN_021_01x04_00_07
+Testemunhas? Do quê? Da descarga?
+$GEN_021_01x04_00_08
+Do roubo de suprimentos militares.
+$GEN_021_01x04_00_09
+Não havia nenhum suprimento militar, tudo isso é um grande mal-entendido.
+$GEN_021_01x04_00_10
+Rato mentiroso!
+$GEN_021_05x06_01_QTitle
+Por que os investigadores encontraram baús militares cheios em seu armazém?
+$GEN_021_05x06_01_00
+Por que os investigadores encontraram baús militares cheios em seu armazém?
+$GEN_021_05x06_01_01
+Comprei esses baús vazios. Herz vende baús militares de alta qualidade pelo mesmo preço que eu pagaria em versões inferiores. Como eu não compraria?
+$GEN_021_05x06_01_02
+Isso é sequer legal? O Exército não precisa deles?
+$GEN_021_05x06_01_03
+Não faço ideia. Se o Herz vende, deve estar tudo certo.
+$GEN_021_05x06_01_04
+Você nem pensou em perguntar?
+$GEN_021_05x06_01_05
+O que eu sou, um investigador? Ele me garantiu que estava tudo certo.
+$GEN_021_05x06_01_06
+Burguês insolente!
+$GEN_021_05x06_01_07
+Judeus sempre mentem!
+$GEN_021_05x06_01_08
+Silêncio!
+$GEN_021_03x06_02_QTitle
+Então por que esses baús estavam cheios de mantimentos…?
+$GEN_021_03x06_02_00
+Então por que os baús estavam cheios de mercadorias listadas nas guias como destinadas ao Exército Francês?
+$GEN_021_03x06_02_01
+Não é só o nosso Exército que compra vinho e carne seca. As caixas estavam cheias de mercadorias adquiridas do meu fornecedor, Marcel Rozier. Ele pode confirmar isso.
+$GEN_021_03x06_02_02
+Marcel Rozier não pode confirmar nada. Como você provavelmente já sabe, ele foi encontrado morto na semana passada.
+$GEN_021_03x06_02_03
+Monsieur le juge, é a primeira vez que ouço falar disso. Mas que–
+$GEN_021_03x06_02_04
+Que conveniente é culpar um homem morto.
+$GEN_021_03x06_02_05
+Talvez para você seja conveniente, mas eu perdi meu principal fornecedor.
+$GEN_021_03x06_02_06
+Você não sabia da morte de Rozier?
+$GEN_021_03x06_02_07
+De jeito nenhum. Tudo isso foi armado pelos meus devedores. Eles querem se livrar de mim!
+$GEN_021_03x06_02_08
+Bem feito.
+$GEN_021_03x06_02_09
+É uma conspiração dos meus devedores, e exijo justiça!
+$GEN_021_06x07_03_QTitle
+Você não registrou no inventário as mercadorias armazenadas nos baús de Herz...
+$GEN_021_06x07_03_00
+Você não registrou em seu inventário as mercadorias guardadas nos baús de Herz para ocultar que vieram dos suprimentos militares, estou certo?
+$GEN_021_06x07_03_01
+Eu os comprei legalmente! Monsieur le juge, pode verificar você mesmo, os livros estão em perfeita ordem. Deve haver algum engano.
+$GEN_021_06x07_03_02
+O tribunal já verificou. As mercadorias não constam no inventário, o que levanta ainda mais suspeitas, já que os registros sempre foram mantidos em ordem no passado.
+$GEN_021_06x07_03_03
+Minha filha Esther é responsável pelos registros. Ela esteve muito doente ultimamente e provavelmente só esqueceu.
+$GEN_021_06x07_03_04
+Talvez você não tenha contado a ela sobre as mercadorias porque não queria envolvê-la no seu crime?
+$GEN_021_06x07_03_05
+Se você não fosse um ladrão, a menina não teria sido deixada sozinha!
+$GEN_021_06x07_03_06
+Não houve crime algum. Ela provavelmente pretendia anotar isso depois.
+$GEN_021_06x07_03_07
+Eu juro que levanto e dou uma surra nele!
+$GEN_021_02x03_04_QTitle
+O que você pensa sobre a Revolução?
+$GEN_021_02x03_04_00
+O que você pensa sobre a Revolução?
+$GEN_021_02x03_04_01
+Como eu poderia não apoiar, quando os bons cidadãos da França querem conceder aos judeus os mesmos direitos que possuem?
+$GEN_021_02x03_04_02
+Então por que está prejudicando a Revolução ao roubar suprimentos militares?
+$GEN_021_02x03_04_03
+Eu dei meu próprio dinheiro para a Revolução, monsieur le juge. Pergunte aos amigos do senhor Robespierre, do senhor Joseph Fouché e do senhor Antoine Simon, eles vão confirmar.
+$GEN_021_02x03_04_04
+Você pagou para fingir que era um de nós.
+$GEN_021_02x03_04_05
+Pessoas como eu não ganham nada ao apoiar a Revolução.
+$GEN_021_02x03_04_06
+Vantagem? Então está dizendo que apoiou o povo para lucrar com isso?
+$GEN_021_02x03_04_07
+Não, não, eu posso expli–
+$GEN_021_02x03_04_08
+Entregue-o para nós, que arrancamos a cabeça dele mesmo sem guilhotina.
+$GEN_021_02x03_04_09
+“Ganhar dinheiro”? Se eu realmente tivesse roubado esses artigos, o que não fiz, e os vendesse nas minhas estalagens, não recuperaria nem de longe o que entreguei aos amigos do senhor Robespierre!
+$GEN_021_07x08_05_QTitle
+Chame a testemunha, cidadã Esther Medelsheim.
+$GEN_021_07x08_05_00
+Chame a testemunha, cidadã Esther Medelsheim.
+$GEN_021_07x08_05_02
+Esther Medelsheim, filha de Isaac Medelsheim.
+$GEN_021_07x08_05_03
+Você consegue testemunhar? Vejo que não está bem.
+$GEN_021_07x08_05_04
+Sim, eu dou conta.
+$GEN_021_05x07_06_QTitle
+Quem é responsável pelo controle do estoque?
+$GEN_021_05x07_06_00
+Quem é responsável pela gestão do inventário?
+$GEN_021_05x07_06_01
+Minha filha Esther, monsieur le juge.
+$GEN_021_05x07_06_02
+Só ela tem acesso a isso?
+$GEN_021_05x07_06_03
+Às vezes dou uma olhada, mas jamais colocaria minha filha em apuros!
+$GEN_021_05x07_06_04
+Então o senhor não revisa seus próprios registros?
+$GEN_021_05x07_06_05
+Confio nela como confio em mim mesmo.
+$GEN_021_05x07_06_06
+No entanto, desta vez as mercadorias não foram registradas.
+$GEN_021_05x07_06_07
+Isso não passa de uma trivialidade.
+$GEN_021_05x07_06_08
+Sua execução será apenas um detalhe insignificante.
+$GEN_021_03x05_07_QTitle
+Por que os veículos pertencentes ao principal fornecedor do exército francês…?
+$GEN_021_03x05_07_00
+Por que os veículos pertencentes ao principal fornecedor do exército francês, Herz Medelsheim, estavam parados em frente ao seu armazém?
+$GEN_021_03x05_07_01
+Eles estavam se preparando para seguir viagem. Os administradores do meu primo Herz gostam de parar na minha estalagem sempre que a rota permite.
+$GEN_021_03x05_07_02
+E coincidiu que eles estavam transportando exatamente o mesmo tipo de mercadoria encontrada nos baús militares, que também batiam com os registros do exército, mas não constavam no seu inventário?
+$GEN_021_03x05_07_03
+Eu sei que parece estranho, mas–
+$GEN_021_03x05_07_04
+Arranquem essa língua mentirosa!
+$GEN_021_WIT_00_A_QTitle
+Descreva suas funções na empresa de seu pai.
+$GEN_021_WIT_00_A_00
+Descreva suas funções na empresa do seu pai.
+$GEN_021_WIT_00_A_01
+Sou responsável pelo inventário e pelo controle das contas dos nossos devedores.
+$GEN_021_WIT_00_A_02
+Por que você não registrou no inventário as mercadorias que estavam guardadas nos baús militares?
+$GEN_021_WIT_00_A_03
+Monsieur le juge, desde que minha saúde piorou, descuidei dos meus deveres e, infelizmente, esqueci de registrar essas mercadorias nos livros.
+$GEN_021_WIT_00_A_04
+Você é tão fraco que nem consegue segurar uma pena?
+$GEN_021_WIT_00_A_05
+Fico cansado rapidamente, sinto tontura... É difícil para mim trabalhar.
+$GEN_021_WIT_00_A_06
+Ou talvez você não quisesse se tornar cúmplice dos crimes do seu pai?
+$GEN_021_WIT_00_A_07
+A comida foi entregue pelo nosso fornecedor habitual, Marcel Rozier. Não registrei os produtos, e essa falha é inteiramente minha.
+$GEN_021_WIT_01_A_QTitle
+O que você sabe sobre as acusações feitas contra seu pai?
+$GEN_021_WIT_01_A_00
+O que você sabe sobre as acusações feitas contra seu pai?
+$GEN_021_WIT_01_A_01
+Elas se baseiam nas mentiras do conde de Braux! Ele deve ao meu pai 400.000 francos e não quer pagar a dívida! Mas o senhor provavelmente já sabe disso, monsieur le juge, já que vocês dois se conhecem muito bem!
+$GEN_021_WIT_01_A_02
+Chamo a testemunha à ordem!
+$GEN_021_WIT_01_A_03
+O próprio conde de Braux mencionou seu relacionamento com monsieur le juge pouco antes do julgamento!
+$GEN_021_WIT_01_A_04
+O Juiz está de conluio com os contrarrevolucionários!
+$GEN_021_WIT_01_A_05
+E você consegue provar essas insinuações?
+$GEN_021_WIT_01_A_06
+Infelizmente, nada além das minhas próprias palavras e da firme convicção de que estou em um lugar onde a justiça deve prevalecer. Meu pai é inocente. Ele comprou legalmente tanto os baús quanto as mercadorias!
+$GEN_021_WIT_01_A_07
+Retirem a testemunha!
+$GEN_021_KEY_01
+Mercador judeu
+$GEN_021_KEY_02
+Apoiador da Revolução
+$GEN_021_KEY_03
+Suprimentos militares
+$GEN_021_KEY_04
+Descarregando os veículos
+$GEN_021_KEY_05
+O armazém do comerciante
+$GEN_021_KEY_06
+Baús militares
+$GEN_021_KEY_07
+Inventário
+$GEN_021_KEY_08
+Depoimento de Esther
+$GEN_021_LastDialog_00
+Que roubo, monsieur le juge, que crime?!
+$GEN_021_UNIQUE_QUESTION_00
+Como o estalajadeiro justificou a ausência de registros no inventário?
+$GEN_021_UNIQUE_ANSWER_CORRECT_00_00
+A doença da filha dele.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Um momento de distração.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ele disse que estava sem tinta.
+$GEN_021_UNIQUE_QUESTION_01
+O que Medelsheim disse sobre o informante?
+$GEN_021_UNIQUE_ANSWER_CORRECT_01_00
+Que ele é seu devedor.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Que ele é alcoólatra.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Que eles nunca se encontraram.
+$GEN_021_UNIQUE_QUESTION_02
+Como a filha do réu reagiu às acusações?
+$GEN_021_UNIQUE_ANSWER_CORRECT_02_00
+Ela assumiu a culpa.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ela negou envolvimento nos negócios do pai.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Ela culpou os funcionários do pai.
+$GEN_021_UNIQUE_QUESTION_03
+O réu e o fornecedor do exército são parentes?
+$GEN_021_UNIQUE_ANSWER_CORRECT_03_00
+Sim, eles são primos.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Não, são apenas conhecidos.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Não.

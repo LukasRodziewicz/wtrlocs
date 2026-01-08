@@ -1,0 +1,18 @@
+$DIAL_CO_01_01_03_001_MENTOR
+L'officier Simoneau était bon et loyal. Ces salauds l'ont lynché alors qu'il ne faisait que respecter la loi. Viendras-tu à la marche de soutien avec moi ?
+$DIAL_CO_01_01_03_002_JUDGE
+Nous devrions montrer notre opposition face aux bourreaux autoproclamés et soutenir les victimes.
+$DIAL_CO_01_01_03_003_JUDGE
+Je suis plus intéressé par le vivant, même si je conçois que Simoneau a souffert une mort atroce.
+$DIAL_CO_01_01_03_004_MENTOR
+Je me demande bien pourquoi le roi a pris la peine de se montrer ? Louis XVI défilant aux côtés des Parisiens. C'est assez... inattendu.
+$DIAL_CO_01_01_03_005_MENTOR
+Le roi Louis…
+$DIAL_CO_01_01_03_006_KING
+Veuillez continuer, je ne suis qu'un simple observateur. Faites comme si je n'étais pas là.
+$DIAL_CO_01_01_03_007_KING
+J'ai entendu parler d'un juge du Tribunal, jeune et ambitieux. J'étais curieux de savoir si ses décisions étaient dictées par un sentiment de justice ou bien… hum… dans le seul but de se divertir, comme diraient certains.
+$DIAL_CO_01_01_03_LETTER
+Aujourd'hui, le peuple de Paris se rassemble en mémoire du maire d'Étampes, Jacques Guillaume Simoneau. Une foule furieuse l'a lynché alors qu'il ne faisait que son devoir envers la France. Cette marche vise à symboliser l'unité de notre société et l'espoir que la phase la plus violente de la Révolution est désormais derrière nous. Faisons en sorte que plus aucun loyal serviteur du pays ne doive perdre la vie à cause d'une telle haine !
+$DIAL_CO_01_01_03_LETTER_SENDER
+ROI LOUIS XVI

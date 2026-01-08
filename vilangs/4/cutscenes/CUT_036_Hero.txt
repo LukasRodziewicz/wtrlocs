@@ -1,0 +1,28 @@
+$CUT_036_JUDGE_WON_BROTHER_001
+Die Spuren unseres Verbrechens werden vom Morgenregen fortgespült.
+$CUT_036_JUDGE_WON_BROTHER_002
+Wir werden nicht mehr da sein, denn wieder einmal wird Bruder Bruder töten.
+$CUT_036_JUDGE_WON_BROTHER_003
+Wer möchte in so einer Welt schon ein Held sein?
+$CUT_036_JUDGE_WON_004
+<BUMM>
+$CUT_036_JUDGE_LOST_BROTHER_001
+Es ist an der Zeit zu sterben, Bruder.
+$CUT_036_JUDGE_LOST_BROTHER_002
+Morgen, wenn der Regen am frühen Tag die Spuren unserer Verbrechen fortwäscht, werden die Menschen wieder einander töten — und behaupten, es sei eine neue Revolution.
+$CUT_036_JUDGE_LOST_003
+<BUMM>
+$CUT_036_CROWD_001
+Sieger!
+$CUT_036_CROWD_002
+Napoleon hat uns gerettet!
+$CUT_036_CROWD_003
+Held!
+$CUT_036_JUDGE_004
+Held…
+$CUT_036_BOY_005
+Held.
+$CUT_036_PUPPETEER_006
+Wer hat gewonnen?
+$CUT_036_PUPPETEER_007
+Wer ist als Nächster an der Reihe?

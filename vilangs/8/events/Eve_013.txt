@@ -1,0 +1,22 @@
+$EVE_013_TITLE
+Um dia já fui soldado
+$EVE_013_MAIN_01
+Prestígio e justiça — são essas as virtudes essenciais para os supervisores deste nobre edifício. Nada está acima delas. Anteontem, tive o prazer de tomar uns drinques com um dos seus Guardas e conversamos sobre velhas lembranças. Você sabia que servir no exército é um requisito indispensável para ingressar na Guarda do Tribunal? Não há exceções, então esse Guarda deve ter nos contado uma história inventada sobre seu serviço militar, e o certificado que apresentou provavelmente é falso. Claro, já tínhamos bebido um pouco...
+$EVE_013_MAIN_01_C1
+Investigar o assunto
+$EVE_013_MAIN_01_C2
+Dispensar o Guarda do serviço
+$EVE_013_MAIN_01_C3
+Deixe o Guarda em paz
+$EVE_013_MAIN_02A
+O que poderia ter sido apenas conversa de bêbado acabou sendo verdade. Deve ter sido um fardo e tanto para ele. Felizmente, ele finalmente encontrou alguém em quem podia confiar – eu. Resolvi a questão de forma discreta. O certificado de serviço militar era falso e, para ter certeza, procurei pessoas que deveriam tê-lo conhecido no exército. Ao que parece, ninguém jamais pensou que algo assim precisasse ser verificado. Quem imaginaria que alguém mentiria sobre isso? Parece que esse homem realmente queria esse emprego.
+$EVE_013_MAIN_02A_C1
+Dispensar o Guarda do serviço
+$EVE_013_MAIN_02A_C2
+Acusar o Guarda de engano
+$EVE_013_MAIN_02A_C3
+Deixe o Guarda em paz
+$EVE_013_MAIN_02B
+Prestígio e justiça. Repeti essas palavras inúmeras vezes em minha mente enquanto via as chances desse jovem de ganhar a vida serem esmagadas junto com seus sonhos. É realmente lamentável, mas há coisas mais importantes pelas quais devemos zelar, ou não seremos dignos de fazer parte da Revolução.
+$EVE_013_MAIN_02C
+Talvez esse seja o seu caminho para a divindade. Como a deusa hindu Saraswati, você deveria buscar a sabedoria e a paz.

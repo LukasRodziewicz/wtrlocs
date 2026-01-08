@@ -1,0 +1,216 @@
+$FAB_010_DOC_01_HEADER
+Compilé par : Fabrice Poli
+$FAB_010_DOC_01_00
+L'accusé qui va se tenir devant nous est Jean-Nicolas Pache, le maire de Paris. Il est soupçonné de trahison par <a name="1" class="hidden">coopération avec des puissances ennemies</a>.
+$FAB_010_DOC_01_01
+Il a été arrêté sur le témoignage écrit de Béatrice Caron, fille d'un tonnelier de la ville plus connue pour ses liens avec ces ordures de Muscadins. La jeune fille a admis qu'elle espionnait pour le compte de l'Autriche, et a déclaré qu'elle obtenait des informations de l'accusé lui-même. Grâce à ces informations, elle aurait été capable de perturber la vie courante des Parisiens. En échange du nom de son informateur, Caron a été expulsée de France sous peine de mort si elle venait à revenir.
+$FAB_010_DOC_01_02
+	L'enquête, menée par le procureur Tinville et moi-même, indique que le citoyen Pache suivait les ordres des maîtres autrichiens de Caron. La fille était chargée de transmettre des lettres entre les deux parties. Nous n'avons pas pu trouver de preuves solides pour de nombreuses décisions suspectes du maire, mais un versant de l'enquête est clair : le <a name="3" class="hidden">retard de construction</a> du Pont de la Révolution. Les forces ennemies souhaitaient empêcher sa création, car cette structure devaitunir les Français et devenir un symbole de renouveau de la flamme révolutionnaire. Les comploteurs espéraient de plus <a name="5" class="hidden">couvrir de honte Robespierre lui-même</a> en tant qu'initiateur et soutien de ce projet.
+$FAB_010_DOC_01_03
+La preuve de ce complot a été découverte. Il s'agit de <a name="6" class="hidden">lettres</a> que nous avons saisies lors d'une fouille du bureau de l'accusé. Toutes étaient signées uniquement avec <a name="7" class="hidden">« D »</a>, et nous n'avons pas pu établir avec exactitude l'identité de cette mystérieuse personne. Nous rejetons la suggestion la plus populaire, qu'il s'agirait de Danton, car il est bien connu que Robespierre et lui sont non seulement alliés politiques, mais aussi amis.
+$FAB_010_DOC_02_TOOLTIP
+Lettre
+$FAB_010_DOC_02_00
+	À J.-N. P. 
+	Ces messieurs de la guilde des maçons ne sont pas prêts à écouter nos arguments et à cesser de travailler sur le pont. Ils devront être convaincus par la force. Fais-le, Pache. Si Robespierre abandonne, tu seras payé. 
+	D.
+$FAB_010_OnStart_00
+Je souhaite revérifier l'identité de l'accusé.
+$FAB_010_OnStart_01
+Je m'appelle Jean-Nicolas Pache. Je suis maire de Paris.
+$FAB_010_OnStart_02
+Citoyen Pache, tu es accusé d'espionnage pour le compte de l'Autriche. Comprends-tu ce qui t'est reproché ?
+$FAB_010_OnStart_03
+Oui, je comprends tout.
+$FAB_010_OnStart_04
+Tu n'es pas nerveux. C'est assez étrange compte tenu de ta situation.
+$FAB_010_OnStart_05
+Je m'attends à un procès équitable.
+$FAB_010_OnGuilty_00
+Je te condamne à mort. Tu vas payer pour mon fils !
+$FAB_010_OnGuilty_01
+Justice est faite !
+$FAB_010_OnGuilty_02
+Voici ce qu'il advient des traîtres !
+$FAB_010_OnGuilty_03
+J'ai respecté notre accord ! Maintenant à toi. Montre-moi que tu es un homme d'honneur !
+$FAB_010_OnPrison_00
+[To jest mock i należy go zmienić!!!!]
+$FAB_010_OnNotGuilty_00
+L'accusé est innocent. Ôtez-le de ma vue.
+$FAB_010_OnNotGuilty_01
+C'est un scandale !
+$FAB_010_OnNotGuilty_02
+Le juge protège ses petits copains !
+$FAB_010_01x02_00_QTitle
+Admets-tu avoir collaboré avec une puissance étrangère ?
+$FAB_010_01x02_00_00
+Admets-tu avoir collaboré avec une puissance étrangère ?
+$FAB_010_01x02_00_01
+Je l'admets.
+$FAB_010_01x02_00_02
+Cela aura été étonnamment simple et rapide.
+$FAB_010_01x02_00_03
+Il est courageux, mais quoi ? Il pense qu'il va échapper à la guillotine grâce à ça ?
+$FAB_010_01x02_00_04
+Qu'as-tu reçu en échange de tes services ?
+$FAB_010_01x02_00_05
+La plupart du temps, de l'argent, mais parfois j'ai reçu d'autres informations en échange des miennes. J'ai ainsi pu découvrir des choses précieuses sur mes opposants.
+$FAB_010_01x02_00_06
+Qu'est-ce que c'est que ces bêtises ?
+$FAB_010_01x02_00_07
+Je coopère entièrement avec la cour.
+$FAB_010_01x05_01_QTitle
+Est-ce que nos ennemis souhaitaient discréditer Robespierre ?
+$FAB_010_01x05_01_00
+Est-ce que nos ennemis souhaitaient discréditer Robespierre ?
+$FAB_010_01x05_01_01
+D'après ce que j'en sais, oui. Il était une épine dans le pied pour eux et les empêchait d'agir. Ils ont tenté de le soudoyer de nombreuses fois...
+$FAB_010_01x05_01_02
+Quelle admiration.
+$FAB_010_01x05_01_03
+Cela vient des Autrichiens plus de que moi-même.
+$FAB_010_01x05_01_04
+Il est modeste, pour un traître.
+$FAB_010_01x05_01_05
+Lorsque le soudoyer n'a pas marché, il a été décidé de prendre des mesures plus radicales. J'étais censé participer.
+$FAB_010_01x05_01_06
+Quelles étaient ces mesures ?
+$FAB_010_01x05_01_07
+Je ne sais pas. J'ai été arrêté avant de pouvoir le découvrir.
+$FAB_010_03x04_02_QTitle
+Réalises-tu le mal que tu as fait à la Révolution...
+$FAB_010_03x04_02_00
+Réalises-tu le mal que tu as fait à la Révolution en compliquant la construction du pont ?
+$FAB_010_03x04_02_01
+Oui. C'était le but de mes employeurs secrets.
+$FAB_010_03x04_02_02
+Le pont était censé relier les deux berges de la Seine, deux zones habitées par des gens très différents qui se seraient retrouvés, égaux...
+$FAB_010_03x04_02_03
+Épargnez-moi la propagande. Je la connais par cœur.
+$FAB_010_03x04_02_04
+Tais-toi et écoute tes supérieurs !
+$FAB_010_03x04_02_05
+Tu ne sembles pas regretter tes actes.
+$FAB_010_03x04_02_06
+Parce que je ne me rabaisse pas en public ? Je regrette mes actes. Ce que je fais ici devrait en être une preuve suffisante.
+$FAB_010_03x04_02_07
+Mais tu veux me faire taire, moi le procureur choisi par le peuple !
+$FAB_010_03x04_02_08
+Il s'est toujours agi de diviser les Français. Ça a fonctionné par le passé et cela continue à fonctionner.
+$FAB_010_06x03_03_QTitle
+As-tu suivi les ordres de tes employeurs et perturbé le travail des ouvriers...
+$FAB_010_06x03_03_00
+As-tu suivi les ordres de tes employeurs et perturbé le travail des ouvriers embauchés pour construire le Pont de la Révolution ?
+$FAB_010_06x03_03_01
+Oui. J'ai fait de mon mieux pour que les employés de toutes les administrations concernées réalisent des inspections sévères sur tous les aspects de la construction...
+$FAB_010_06x03_03_02
+Et le pont n'est toujours pas fini depuis tout ce temps !
+$FAB_010_06x03_03_03
+Salaud ! Traître !
+$FAB_010_06x03_03_04
+J'ai pu intervenir assez efficacement. Cependant, je n'ai malheureusement pas pu garder cela secret.
+$FAB_010_07x06_04_QTitle
+Recevais-tu tous tes ordres par lettre ?
+$FAB_010_07x06_04_00
+Recevais-tu tous tes ordres par lettre ?
+$FAB_010_07x06_04_01
+Oui. Pourquoi cette question, Monsieur le juge ?
+$FAB_010_07x06_04_02
+Je me demande si tu as déjà vu les gens qui te payaient.
+$FAB_010_07x06_04_03
+Non, nous ne nous sommes jamais rencontrés.
+$FAB_010_07x06_04_04
+Ils n'étaient peut-être pas Autrichiens, alors.
+$FAB_010_07x06_04_05
+Que voulez-vous dire ?
+$FAB_010_07x06_04_06
+La rumeur veut que ce mystérieux « D » soit Danton. Il aurait tenté d'affaiblir Robespierre et la France.
+$FAB_010_07x06_04_07
+C'est absurde. Tout le monde sait que Robespierre et Danton sont alliés politiques.
+$FAB_010_07x06_04_08
+Je suis d'accord avec Monsieur le juge. Et puis...
+$FAB_010_07x06_04_09
+Tu connais sans doute la théorie selon laquelle Danton serait un espion anglais. Peut-être qu'il ne s'agit pas des Autrichiens après tout ? Peut-être que le citoyen Pache a été berné afin de servir de bouc émissaire ?
+$FAB_010_07x06_04_10
+Pure spéculation ! Je connais personnellement très bien ces deux hommes, et je peux t'assurer que ces suggestions sont sans fondement.
+$FAB_010_05x07_05_QTitle
+Est-ce que d'autres citoyens français étaient impliqués dans le plan pour affaiblir Robespierre ?
+$FAB_010_05x07_05_00
+Est-ce que d'autres citoyens français étaient impliqués dans le plan pour affaiblir Robespierre ?
+$FAB_010_05x07_05_01
+Je ne sais pas, personne ne m'a donné de détails...
+$FAB_010_05x07_05_02
+Mais tu dois avoir entendu des choses.
+$FAB_010_05x07_05_03
+J'acceptais de l'argent en échange de ma trahison. Je n'étais pas là pour espionner mes employeurs. Cependant, les connaissant, il y avait fort probablement un plan de rechange impliquant un citoyen éminent.
+$FAB_010_05x07_05_04
+Quelle ordure !
+$FAB_010_KEY_01
+Collaboration avec des puissances étrangères
+$FAB_010_KEY_02
+Déstabiliser la vie quotidienne des habitants
+$FAB_010_KEY_03
+Construction du pont retardée
+$FAB_010_KEY_04
+Un symbole d'unité pour la France
+$FAB_010_KEY_05
+Discréditer Robespierre
+$FAB_010_KEY_06
+Lettre mystérieuse
+$FAB_010_KEY_07
+Correspondant secret
+$FAB_010_LastDialog_00
+Je ne suis pas un meurtrier !
+$FAB_010_UNIQUE_QUESTION_00
+Avec qui le prévenu partage-t-il des confidences ?
+$FAB_010_UNIQUE_ANSWER_CORRECT_00_00
+Avec Béatrice Caron.
+$FAB_010_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Avec Danton.
+$FAB_010_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Avec son épouse.
+$FAB_010_UNIQUE_QUESTION_01
+Le prévenu a-t-il révélé l'identité de la personne se surnommant « D » ?
+$FAB_010_UNIQUE_ANSWER_CORRECT_01_00
+Non. Il n'a pas confirmé nos soupçons non plus.
+$FAB_010_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Il s'agit de Danton.
+$FAB_010_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il s'agit du boulanger Demay.
+$FAB_010_PLOT_TWIST_GUARD_01_01
+Citoyen Fidèle, tu dois… il y a quelque chose qu'il faut que tu voies.
+$FAB_010_PLOT_TWIST_JUDGE_01_02
+Salopard ! Mon fils !
+$FAB_010_PLOT_TWIST_MENTOR_01_02
+Alexis, essaie de garder ton calme.
+$FAB_010_PLOT_TWIST_TINVILLE_01_03
+Citoyen Fidèle… Nous avons été informés de la tragédie qui vient de te frapper. Y a-t-il la moindre chose que...
+$FAB_010_PLOT_TWIST_JUDGE_01_04
+Silence, vous tous ! Pache, pourquoi as-tu assassiné mon garçon ?!
+$FAB_010_PLOT_TWIST_PASHE_01_05
+Je n'ai assassiné personne, Monsieur le Juge !
+$FAB_010_PLOT_TWIST_JUDGE_02_QTitle
+Pourquoi as-tu fait cela, Pache ?
+$FAB_010_PLOT_TWIST_JUDGE_02_01
+Pourquoi as-tu fait cela, Pache ?
+$FAB_010_PLOT_TWIST_PASHE_02_02
+De quoi m'accuse-t-on à présent ?
+$FAB_010_PLOT_TWIST_JUDGE_02_03
+D'avoir tué mon fils !
+$FAB_010_PLOT_TWIST_PASHE_02_04
+Je n'ai pas quitté ma cellule un instant. De plus, nous… nous avions un marché. Je n'ai rien entrepris contre toi, je le jure !
+$FAB_010_PLOT_TWIST_TINVILLE_02_05
+Toujours si doucereux, alors même qu'un enfant vient d'être tué !
+$FAB_010_PLOT_TWIST_JUDGE_03_QTitle
+Qui a tué mon fils, Pache ?
+$FAB_010_PLOT_TWIST_JUDGE_03_01
+Qui a tué mon fils, Pache ?
+$FAB_010_PLOT_TWIST_PASHE_03_02
+J'ignore totalement qui aurait pu faire une telle chose ! Je n'ai jamais...
+$FAB_010_PLOT_TWIST_JUDGE_03_03
+Qui a donné l'ordre ? Dis-le-moi sur-le-champ, ou bien tu iras tout droit à l'échafaud !
+$FAB_010_PLOT_TWIST_PASHE_03_04
+Vous voyez ? Le juge me menace de la guillotine pour son propre intérêt. Ce n'est pas un procès, mais une farce !
+$FAB_010_PLOT_TWIST_TINVILLE_03_05
+Tais-toi, infanticide !

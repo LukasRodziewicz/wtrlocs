@@ -1,0 +1,78 @@
+$CUT_21_DISC_TINVILLE_001_JUDGE
+Bitte verzeihen Sie meine kleine Verspätung.
+$CUT_21_DISC_TINVILLE_002_TINVILLE
+Sie haben meine Neugier geweckt, Monsieur le Juge, denn ich kann mir nicht erklären, womit ich diese Einladung verdient habe.
+$CUT_21_DISC_TINVILLE_003_JUDGE
+Sie haben doch sicher schon die Gerüchte über Erzbischof Gobel gehört…
+$CUT_21_DISC_TINVILLE_004_TINVILLE
+Ach, komm schon, Alexis, halte mich nicht für dumm. Wir beide wissen genau, dass du selbst die Denunziation verfasst hast…
+$CUT_21_DISC_TINVILLE_005_JUDGE
+Wie kannst du dir da so sicher sein?
+$CUT_21_DISC_TINVILLE_006_TINVILLE
+Ich bin doch kein Narr. Sie haben Roland und Pache ausgeschaltet, und jetzt ist Gobel an der Reihe. Die Gründe mögen mir entgehen, aber das ist mir gleichgültig…
+$CUT_21_DISC_TINVILLE_007_JUDGE_AGGR
+Solange Ihre Gewinne weiter steigen. Doch es gibt Menschen, denen Gerechtigkeit nicht gleichgültig ist.
+$CUT_21_DISC_TINVILLE_008_JUDGE_MANI
+Ja, ich weiß. Sie werden Ihren Vorteil unter allen Umständen sichern. Glauben Sie mir, der Nutzen dieses Spiels könnte all unsere Erwartungen übertreffen.
+$CUT_21_DISC_TINVILLE_009_JUDGE_JOKE
+Ja, wir wissen ganz genau, was Ihnen am wichtigsten ist. Ich verurteile Sie nicht, Gobel ist da kein Stück besser. Die Frage ist nur, wer von Ihnen zuerst wegen seines Egoismus unter der Guillotine landet.
+$CUT_21_DISC_TINVILLE_010_JUDGE_HUMI
+Ich wende mich mit diesem Anliegen an Sie, weil Sie mich während der Verhandlungen von Ihrer Weisheit überzeugt haben. Wir dürfen Gobel nicht erlauben, das französische Volk mit seinen Geschichten von Tugend und Mäßigung zu täuschen, während er selbst solcher Vergehen schuldig ist.
+$CUT_21_DISC_TINVILLE_011_TINVILLE_DOUB
+Was kümmert mich irgendein Bastard? Das Land steht wegen des Aufstands in der Vendée in Flammen, und ich soll mich mit so etwas beschäftigen? Ein uneheliches Kind in Paris – das ist ja wirklich etwas ganz Neues…
+$CUT_21_DISC_TINVILLE_012_TINVILLE_IRRI
+Wenn Gobel Ihnen auf die Füße getreten ist, ist das Ihre Angelegenheit. Ich sehe keinen Grund, mich mit vielleicht der einflussreichsten Person dieser Stadt anzulegen. Gerade wegen des Gleichgewichts von Nutzen und Verlusten.
+$CUT_21_DISC_TINVILLE_013_JUDGE_AGGR
+Sie haben gesehen, was auf den Straßen geschieht. All dieser Hass muss sich irgendwann entladen. Und wollen Sie wirklich abwarten, nur weil sich der Aufwand nicht sofort auszahlt? Und wenn der Mob Ihren Kopf auf eine Pike steckt, verbuchen Sie das dann als Gewinn oder Verlust?
+$CUT_21_DISC_TINVILLE_014_JUDGE_MANI
+Gobel ist nicht dumm, er versteht die Stimmungslage genau. Er weiß, dass es jetzt sicher ist, sich auf die Seite der Gerechten zu schlagen – und dafür muss er jemanden auf die andere Seite drängen. Bist du sicher, dass er nicht dich auswählt?
+$CUT_21_DISC_TINVILLE_015_JUDGE_JOKE
+Du musst der härteste Mann in ganz Paris sein. Dich schreckt nicht einmal der Mob, der wieder einmal beschlossen hat, dass es schick ist, Würdenträger zu enthaupten. Es reicht, wenn Gobel von seiner Kanzel ruft, du würdest dich auf Staatskosten im Bordell vergnügen, statt Gesetzesbrecher zu richten – und ehe du dich versiehst, bist du selbst einen Kopf kürzer.
+$CUT_21_DISC_TINVILLE_016_JUDGE_HUMI
+Ich vertraue auf Ihren Verstand. Hören Sie, Gobel hat die Seelen von Tausenden Parisern in seiner Gewalt, die jemanden suchen, den sie für den Aufstand in der Vendée und im Süden verantwortlich machen können. Sie brauchen einen Schuldigen, und Sie sind gewiss zu vernünftig, um diese Wahl dem Zufall zu überlassen.
+$CUT_21_DISC_TINVILLE_017_TINVILLE_SATI
+Sie verstehen sich wahrlich auf Überzeugungskunst. Ich höre.
+$CUT_21_DISC_TINVILLE_018_TINVILLE_INTR
+Ihre Worte ergeben durchaus Sinn. In diesen Tagen sind die Menschen tatsächlich voller negativer Gedanken.
+$CUT_21_DISC_TINVILLE_019_TINVILLE_DOUB
+Ihre Sorge um meine Karriere und mein Leben rührt mich. Dennoch sehe ich keinen Grund, mich wegen der von Ihnen genannten Drohungen zu beunruhigen. Ich diene Frankreich treu, und Frankreich weiß das.
+$CUT_21_DISC_TINVILLE_020_TINVILLE_IRRI
+Wenn ich Sie nicht kennen würde, würde ich meinen, Sie sprechen wie ein Ehrenmann. Leider kenne ich Sie gut genug, um zu wissen, dass hinter Ihren Worten mehr steckt, als Sie sagen.
+$CUT_21_DISC_TINVILLE_021_JUDGE_AGGR
+Tu nicht so, als wäre dir deine Karriere egal. In dieser Stadt kommt niemand ohne das Wissen und die Zustimmung des Erzbischofs voran. Du wirst den Ring eines Mannes küssen müssen, der ein noch größerer Opportunist ist als du!
+$CUT_21_DISC_TINVILLE_022_JUDGE_MANI
+Wenn Sie auf einen schnellen Aufstieg hoffen, können Sie das vergessen. An diesem Punkt hängt Ihr Fortkommen von Leuten wie ihm ab. Sie werden ihm Gefälligkeiten erweisen müssen, und er wird dafür einen weit höheren Preis verlangen als ich. Stattdessen könnten Sie Ihre Stärke zeigen und andeuten, dass Sie Ihr Schicksal selbst in die Hand nehmen.
+$CUT_21_DISC_TINVILLE_023_JUDGE_JOKE
+Zeigen Sie, dass Sie mehr geworden sind als nur ein einfacher Ankläger. Es scheint mir, als wäre es Ihnen gleichgültig, dass dieser Mann bald über Ihre Karriere bestimmen wird und dass Sie für die Stadt nur einer von vielen Juristen sind. Dabei wollte ich Ihnen die Chance geben, jemand Bedeutendes zu werden…
+$CUT_21_DISC_TINVILLE_024_JUDGE_HUMI
+Sie verdienen eine weit höhere Stellung als die eines Staatsanwalts – Sie könnten ein Symbol der Gerechtigkeit werden. Doch Gobel wird Sie nicht aufsteigen lassen. Ihr Talent ist ihm gleichgültig. Das Einzige, was ihn interessiert, ist, wie tief Sie sich vor ihm verbeugen können.
+$CUT_21_DISC_TINVILLE_025_JUDGE_AGGR
+Gobel ist ein widerlicher Schürzenjäger. Wenn wir die Untersuchung offiziell ankündigen, geben wir ihm die Gelegenheit, endlich das Richtige zu tun – und wenn nicht, dann ab mit seinem Kopf!
+$CUT_21_DISC_TINVILLE_026_JUDGE_MANI
+Jeder verdient die Möglichkeit zur Wiedergutmachung, besonders ein Katholik wie Gobel. Wir müssen das offenlegen, bevor es jemand anderes gegen Frankreich verwendet.
+$CUT_21_DISC_TINVILLE_027_JUDGE_JOKE
+Wenn Gobel unschuldig ist, wird die Untersuchung das beweisen, nicht wahr? Und wenn nicht, haben wir die Gelegenheit, das Richtige zu tun – am Ende sind alle zufrieden.
+$CUT_21_DISC_TINVILLE_028_JUDGE_HUMI
+Jeder Katholik sollte die Möglichkeit zur Wiedergutmachung erhalten. Als Erzbischof sollte Gobel dies öffentlich tun, um die verletzten Seelen der Pariser zu trösten und vielleicht sogar das Leben vieler Unschuldiger zu retten.
+$CUT_21_DISC_TINVILLE_029_TINVILLE_SATI
+Ja, ja, ich bin bereits überzeugt. Ich werde sehen, was sich machen lässt.
+$CUT_21_DISC_TINVILLE_030_TINVILLE_INTR
+Ich muss zugeben, Ihre Argumente sind durchaus überzeugend. Ich werde mich mit dieser Angelegenheit befassen.
+$CUT_21_DISC_TINVILLE_031_TINVILLE_DOUB
+Du verschweigst mir etwas, und ich werde Gobel nicht ins Visier nehmen, solange ich nicht restlos überzeugt bin. Ich setze zu viel aufs Spiel.
+$CUT_21_DISC_TINVILLE_032_TINVILLE_IRRI
+Du verschweigst mir etwas. Was hat er getan, dass du so wütend bist? Ach, erspare mir die Einzelheiten. In diesen Zeiten ist Unwissenheit besser.
+$CUT_21_DISC_TINVILLE_033_TINVILLE_DOUB_IRRI
+Seien Sie sich bewusst, dass Sie sich dabei nicht besonders geschickt angestellt haben. Andererseits möchte ich nicht, dass Sie denken, ich hätte ein Herz aus Stein – also spielen wir! Wenn Sie gewinnen, leite ich eine offizielle Untersuchung gegen Gobel ein. Vielleicht haben Sie Ihre Raffinesse verloren, aber das Glück ist Ihnen womöglich noch treu geblieben.
+$CUT_21_DISC_TINVILLE_034_TINVILLE_WIN
+Vielleicht ist es gar nicht so schlecht, dass das Glück auf Ihrer Seite steht. Schließlich wollen Sie sich mit Gobel anlegen.
+$CUT_21_DISC_TINVILLE_035_TINVILLE_DEFEAT
+Es scheint, selbst das Glück hat sich von Ihnen abgewandt, doch ich erlaube mir, Ihre Anstiftung zu ignorieren. Eine offizielle Untersuchung wird es nicht geben.
+$CUT_21_DISC_TINVILLE_TOPIC_001
+Falls Gobel ein Kind hat, sollten wir seine Heuchelei offenlegen.
+$CUT_21_DISC_TINVILLE_TOPIC_002
+In Zeiten wie diesen sollten wir zeigen, wer im Recht ist – und wer nicht…
+$CUT_21_DISC_TINVILLE_TOPIC_003
+Er hat eine große Anhängerschaft.
+$CUT_21_DISC_TINVILLE_TOPIC_004
+Gobel sollte die Gelegenheit bekommen, das Richtige zu tun.

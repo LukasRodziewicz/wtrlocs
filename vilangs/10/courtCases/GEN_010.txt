@@ -1,0 +1,284 @@
+$GEN_010_DOC_1_HEADER
+Hazırlayan: Bertrand Moreau
+$GEN_010_DOC_1_00
+Alfred Renoir, Paris’in kuzey banliyölerinden 43 yaşında bir fırıncıdır. Renoir, mahalledeki birkaç çocuğun ölümüne sebep olmakla suçlanıyor. Sanık ve eşi, iki oğul ve bir kız çocuğuna sahip. Tanıklar, onun az konuşan ama anlayışlı biri olduğunu söylüyor. Hiçbir zaman ekmeği veresiye satmaktan kaçınmaz, una asla talaş katmazdı. Soruşturma sırasında evi arandı ve hiçbir Monarşist materyale rastlanmadı.
+$GEN_010_DOC_1_01
+Fırıncıya açılan davalar, çocuklarının ölümünden onu sorumlu tutan üç kadın tarafından başlatıldı. Toplamda sekiz çocuk ölü bulundu. Ölüm nedeni, Parisli bir doktor tarafından <a name="2" class="hidden">açlık</a> olarak doğrulandı.
+$GEN_010_DOC_1_02
+Bir hafta önce, bu kadınlar birkaç komşularıyla birlikte fırıncıyı onlara ekmek – ya da en azından biraz un – satmaya zorlamaya çalışmışlar. Tanıkların ifadesine göre, fırının önünde 15 kişiden fazla yokmuş.
+$GEN_010_DOC_1_03
+Renoir <a name="3" class="hidden">kesin bir dille reddetti</a> ve Muhafızları çağırmakla tehdit etti. Aç halk ekmek üretimini artırmasını istediğinde yine reddetti. Ertesi gün, şimdi onu suçlayan üç anne tekrar onu ziyarete gitti ve yine ekmek alamadan döndüler.
+$GEN_010_DOC_1_04
+Soruşturmacı, askerlerin yardımıyla fırının depolarında büyük miktarda un buldu. Ancak <a name="4" class="hidden">çocukların ölümü</a>nün yalnızca fırıncının davranışlarından kaynaklandığını kanıtlamak zordur.
+$GEN_010_DOC_1_05
+Fırıncı, ununu <a name="5" class="hidden">taşradaki bir köylüden</a> aldığını söyledi. Ancak Paris’te onu gören olmamış. Halk arasında, Avusturyalılarla iş birliği yaptığı konuşuluyor. Birçok kişi, Habsburgların Paris yurttaşlarını aç bırakarak Devrim’le savaşmaya çalıştığına inanıyor.
+$GEN_010_DOC_1_06
+Sanık, ekmek satmama gerekçesini açıklayamadı ve yalnızca başka seçeneği olmadığını söyledi.
+$GEN_010_DOC_1_07
+Delil: <a name="7" class="hidden">Bir satın alma defteri.</a>
+$GEN_010_OnStart_00
+Katil hain! Ekmeğimizi istiyoruz!
+$GEN_010_OnStart_01
+Aç ve umutsuz insanlar olası komploları konuşmaya başladığında, onların şüphelerinden uzak durmak en iyisidir.
+$GEN_010_OnStart_02
+Sanık kendini tanıtabilir.
+$GEN_010_OnStart_03
+Adım Alfred Renoir. Fırıncıyım.
+$GEN_010_OnStart_04
+Vatandaş Renoir, birkaç çocuğun ölümüne sebep olmakla suçlanıyorsunuz.
+$GEN_010_OnStart_05
+Kimseyi öldürmedim. Bir çocuğa asla zarar vermem.
+$GEN_010_OnStart_06
+Bıçağı kullanmamış olabilir, ama yine de suçlu.
+$GEN_010_OnStart_07
+Vicdansız herif!
+$GEN_010_OnGuilty_00
+Alfred Renoir'u, Paris yurttaşlarını kasıtlı olarak aç bırakmak ve çocukların ölümüne sebep olmak suçlarından suçlu buluyorum. Bu suçlar nedeniyle onu giyotine mahkûm ediyorum.
+$GEN_010_OnGuilty_01
+Akıllıca bir hüküm. Savaş halindeyiz ve savaş acımasız kararlar gerektirir.
+$GEN_010_OnGuilty_02
+Ne olmuş yani? Çocuklarım hâlâ ölü!
+$GEN_010_OnGuilty_03
+Onun ununu halka dağıtın!
+$GEN_010_OnGuilty_04
+Harika! Fırıncının kellesi gidecek ve sonunda karnımız doyacak!
+$GEN_010_OnNotGuilty_00
+Sanık herhangi bir suç işlememiştir. Lütfen Yurttaş Alfred Renoir’ı serbest bırakın.
+$GEN_010_OnNotGuilty_01
+İtiraz ediyorum! Sanığın cezalandırılmasını talep ediyorum!
+$GEN_010_OnNotGuilty_02
+Sizin çocuklarınız açlık nedir bilmez, değil mi Yargıç?
+$GEN_010_OnNotGuilty_03
+Yargıç kesinlikle Avusturyalılarla iş birliği yapıyor!
+$GEN_010_OnNotGuilty_04
+Başka bir yargıç istiyoruz!
+$GEN_010_01x03_00_QTitle
+Üç kadına ekmek satmayı gerçekten reddettiniz mi?
+$GEN_010_01x03_00_00
+Üç kadına ekmek satmayı gerçekten reddettiniz mi?
+$GEN_010_01x03_00_01
+Evet, bana gelip ekmek istediler.
+$GEN_010_01x03_00_02
+Bedavaya almaya mı çalışıyorlardı?
+$GEN_010_01x03_00_03
+Hayır, parayı ellerime sıkıştırıyorlardı. Hem de gerekenden fazlasını.
+$GEN_010_01x03_00_04
+Bize bağırdı!
+$GEN_010_01x03_00_05
+Ona, buna çocukların için ihtiyacın olduğunu söyledin mi?
+$GEN_010_01x03_00_06
+Evet, üstelik yine de reddetti.
+$GEN_010_01x03_00_07
+Hiç mi vicdanın yok?
+$GEN_010_01x03_00_08
+Onlardan kibarca rica ettim, ama yine de gitmediler…
+$GEN_010_01x03_00_09
+Neden reddettiniz?
+$GEN_010_01x03_00_10
+Başka seçeneğim yoktu…
+$GEN_010_02x06_01_QTitle
+Ülkemizin savaşta olduğunu biliyor musunuz?
+$GEN_010_02x06_01_00
+Ülkemizin savaşta olduğunu biliyor musunuz?
+$GEN_010_02x06_01_01
+Evet, bunun farkındayım.
+$GEN_010_02x06_01_02
+O halde neden yurttaşlarınıza yardım etmeyi reddettiniz? Davranışlarınız Cumhuriyet’e ihanettir ve sizi vatana ihanetten yargılayabilirim.
+$GEN_010_02x06_01_03
+Bay yargıç, benim de kendi savaşımı verdiğimi biliyor musunuz?
+$GEN_010_02x06_01_04
+Hangi savaş?
+$GEN_010_02x06_01_05
+Ailem için hayatta kalma mücadelesi verdiğim bir savaş bu. Diğer tüm savaşlar bekleyebilir. Üç çocuğum ve bir eşim var, onları asla yüzüstü bırakamam.
+$GEN_010_02x06_01_06
+Kaybedersek, her çocuk aç kalacak.
+$GEN_010_02x06_01_07
+Ruhunu Avusturyalılara sattı, metresine birkaç kırıntı verebilmek için.
+$GEN_010_02x07_02_QTitle
+Satın alma defterine göre, yeterince ekmeğiniz vardı…
+$GEN_010_02x07_02_00
+Satın alma defterine göre, o kadınlara ve daha birçok müşteriye satacak kadar ekmeğiniz vardı.
+$GEN_010_02x07_02_01
+Şu an var, ama yakında ne olacağını kim bilebilir? Yeni bir tedarik olacak mı? Gerçek açlık henüz kapımızı çalmadı ve benim bakmam gereken bir ailem var. Şimdiki erzaklarımla ne kadar idare edebilecekler?
+$GEN_010_02x07_02_02
+Bizim de çocuklarımız vardı!
+$GEN_010_02x07_02_03
+Bunların hepsini kendi kullanımınız için mi saklıyordunuz?
+$GEN_010_02x07_02_04
+Ailem için, evet. Bu gerçekten bir suç mu?
+$GEN_010_02x07_02_05
+Ve her gün yemek yiyebildiniz mi?
+$GEN_010_02x07_02_06
+Neyse ki evet, ama bunun ne kadar süreceğinden emin değilim.
+$GEN_010_02x07_02_07
+O piçi duydun mu? İmparatorun uşağı!
+$GEN_010_02x04_03_QTitle
+Lütfen tanığı çağırın.
+$GEN_010_02x04_03_00
+Lütfen tanığı çağırın.
+$GEN_010_02x04_03_02
+Lütfen kendinizi tanıtınız.
+$GEN_010_02x04_03_03
+Arnaud Lemout. Çocukları muayene ettim.
+$GEN_010_03x04_04_QTitle
+Bu kadınlar, sizin reddinizin doğrudan sebep olduğunu iddia ediyorlar…
+$GEN_010_03x04_04_00
+Bu kadınlar, çocuklarının ölümüne doğrudan sizin ret cevabınızın sebep olduğunu iddia ediyor. Buna ne diyorsunuz?
+$GEN_010_03x04_04_01
+Benim ekmeğim Paris’teki son lokma mıydı? Çocuklarını doyurmak istiyorlarsa, biraz daha çaba göstermeliydiler.
+$GEN_010_03x04_04_02
+O zavallı kadınları suçlamaya çalışıyor!
+$GEN_010_03x04_04_03
+Hain bir Avusturyalı casus bana kötü bir anne demeye nasıl cüret eder?
+$GEN_010_03x04_04_04
+Bu trajedinin sebebinin ebeveynlerin ihmali olduğunu mu ima ediyorsunuz?
+$GEN_010_03x04_04_05
+Ben kendi çocuklarımın babasıyım, mahalledeki her çocuğun değil.
+$GEN_010_03x04_04_06
+Tavrınız, Devrim’in kardeşlik idealini anlamadığınızı gösteriyor.
+$GEN_010_03x04_04_07
+Özgürlük, eşitlik, kardeşlik... ve alçakların kafasını uçuracak keskin bir bıçak!
+$GEN_010_03x06_05_QTitle
+Avusturya adına casusluk mu yapıyorsunuz?
+$GEN_010_03x06_05_00
+Avusturya adına casusluk mu yapıyorsunuz?
+$GEN_010_03x06_05_01
+…
+$GEN_010_03x06_05_02
+Vatandaş?
+$GEN_010_03x06_05_03
+Cevap vermedim, çünkü sizi, sayın yargıç, istemeden de olsa incitmek istemem. Zira bu saçmalığı kim uydurduysa, ancak bir aptal olabilir. Ve eğer bu sizin fikrinizse, sayın yargıç, özür dilerim.
+$GEN_010_03x06_05_04
+Birçok kişi burada bir gariplik olduğunu söylüyor.
+$GEN_010_03x06_05_05
+Onların dilini bile konuşamıyorum! Birkaç ahmak, kendi hayatlarını yoluna koyamadıkları için bu saçma suçlamayı uydurmuş.
+$GEN_010_03x06_05_06
+Kime ahmak diyorsun, seni bencil herif?!
+$GEN_010_06x05_06_QTitle
+Ununuzu nasıl teslim alıyorsunuz?
+$GEN_010_06x05_06_00
+Ununuzu nasıl teslim alıyorsunuz?
+$GEN_010_06x05_06_01
+Her cumartesi kendim toplarım.
+$GEN_010_06x05_06_02
+Yani sık sık şehir dışına mı çıkıyorsunuz? Sizinle birlikte giden başka biri oluyor mu?
+$GEN_010_06x05_06_03
+Hayır, neden?
+$GEN_010_06x05_06_04
+Hakkınızda casusluk ve komplo şüphesi olduğu için...
+$GEN_010_06x05_06_05
+Bravo! Yargıç hainin maskesini düşürdü!
+$GEN_010_06x05_06_06
+Bir fırıncının haftada bir kez un almak için kırsala gitmesi neden tuhaf olsun ki?
+$GEN_010_06x05_06_07
+Sürekli seyahat eden birinin casus olarak tutulmasına kim şaşırır ki?
+$GEN_010_06x05_06_08
+Bu saçmalık.
+$GEN_010_06x05_06_09
+Tanığı çağırın.
+$GEN_010_06x05_06_11
+Sanıkla ticaret yapan siz miydiniz? Lütfen kendinizi tanıtın.
+$GEN_010_06x05_06_12
+Adım Ruttmann, köylüyüm ve değirmenciyim. Evet, onunla ticaret yaptım, sayın yargıç. Neden yapmayayım? Yanlış bir şey mi yaptım?
+$GEN_010_WIT_00_A_QTitle
+Çocukları muayene ettikten sonra vardığınız sonuçları anlatır mısınız?
+$GEN_010_WIT_00_A_00
+Çocukları muayene ettikten sonra vardığınız sonuçları anlatır mısınız?
+$GEN_010_WIT_00_A_01
+Zayıf ve bitkin görünüyorlardı, açıkça yetersiz beslenmişlerdi. Bu halde bir süredir olmalılar.
+$GEN_010_WIT_00_A_02
+Fırıncıdan birkaç somun ekmek, felaketi önlemeye yeter miydi?
+$GEN_010_WIT_00_A_03
+Aç birine boş mideyle ekmek veremezsiniz. Bu genellikle felaketle sonuçlanır. Ve hayır, biraz ekmek sadece ölümlerini birkaç gün geciktirir.
+$GEN_010_WIT_00_A_04
+Buna nasıl cüret edersiniz!
+$GEN_010_WIT_00_A_05
+Belki o birkaç gün içinde aileleri daha fazla yiyecek bulabilirdi.
+$GEN_010_WIT_00_A_06
+Belki.
+$GEN_010_WIT_01_A_QTitle
+Avusturya'nın tüm Paris'i aç bırakma planı hakkında ne düşünüyorsunuz?
+$GEN_010_WIT_01_A_00
+Avusturya'nın tüm Paris'i aç bırakma planı hakkında ne düşünüyorsunuz?
+$GEN_010_WIT_01_A_01
+Bu gerçekten saçmalık. Bir fırıncı mı?
+$GEN_010_WIT_01_A_02
+İnsanlar onlarcasından bahsediyor.
+$GEN_010_WIT_01_A_03
+Tecrübeme göre, insanlar sıkça saçmalıyor. Eğitimsiz bir kalabalık her zaman kolay bir cevap arar.
+$GEN_010_WIT_01_A_04
+Ama diyelim ki, bu söylentiler gerçekten doğru. Böylesi bir fırıncı komplosu çok sayıda insanın ölümüne yol açmaz mıydı?
+$GEN_010_WIT_01_A_05
+Sanırım öyle olurdu, evet. Birçok Parisli neredeyse sadece ekmekle besleniyor, bu yüzden ölümler artardı.
+$GEN_010_WIT_01_A_06
+Son zamanlarda açlıktan ölenlerin sayısında bir artış fark ettiniz mi?
+$GEN_010_WIT_01_A_07
+Evet, ama bunun bir komplonun sonucu olduğunu gerçekten düşünmüyorum. Başka nedenler de var — yiyecek sıkıntısı, savaş ve ikisinin yarattığı kargaşa.
+$GEN_010_WIT_01_A_08
+İyi ki ortaya çıkardık! İhanet!
+$GEN_010_WIT_02_A_QTitle
+Ne zamandır ticaret yapıyorsunuz?
+$GEN_010_WIT_02_A_00
+Ne zamandır ticaret yapıyorsunuz?
+$GEN_010_WIT_02_A_01
+Altı ya da yedi yıl oldu.
+$GEN_010_WIT_02_A_02
+Sanığın davranışlarında son zamanlarda bir değişiklik fark ettiniz mi?
+$GEN_010_WIT_02_A_03
+Hayır, her zamanki gibi nazikti. Yalnızca kendisiyle ticaret yapmam için beni ikna etmeye çalıştı.
+$GEN_010_WIT_02_A_04
+Ne dediniz? Size bu istek şüpheli gelmedi mi?
+$GEN_010_WIT_02_A_05
+Kabul ettim. Bana ne? Her zaman bolca alır, iyi para öderdi. Yani, yanında bu kadar çok parası olması tuhaftı tabii, ama bu benim meselem değil, değil mi?
+$GEN_010_WIT_02_A_06
+Diğer müşterilerinizden biri de bu kadar çok un alır mıydı?
+$GEN_010_WIT_02_A_07
+Evet, alışılmadık bir durumdu. Neden bu kadar çok una ihtiyacı vardı, bilmiyorum. Ama zamanlar zor ve o her zaman peşin öderdi. Başkaları sık sık ödeme ertelemesi isterdi, ama o asla istemedi.
+$GEN_010_WIT_02_A_08
+Renoir hiç ertelenmiş bir ödeme talep etmedi mi?
+$GEN_010_WIT_02_A_09
+Hayır.
+$GEN_010_WIT_02_A_10
+Avusturyalılar, fırıncıya verdiği bilgiler için iyi para ödemiş olmalı ki, o kadar unu alabilmiş.
+$GEN_010_WIT_03_A_QTitle
+Ruttmann, bir Fransız için tuhaf bir isim.
+$GEN_010_WIT_03_A_00
+Bir Fransız için Ruttmann tuhaf bir isim.
+$GEN_010_WIT_03_A_01
+Babam Hannover’den gelmişti.
+$GEN_010_WIT_03_A_02
+Vatandaş, Hannover’le de savaş halinde olduğumuzun farkında mı?
+$GEN_010_WIT_03_A_03
+Ee, ne olmuş? Babam öldü, artık kimseyle savaşamaz. Ben burada doğdum.
+$GEN_010_KEY_01
+Sanığın karakteri
+$GEN_010_KEY_02
+Paris'te Açlık
+$GEN_010_KEY_03
+Yardım etmeyi reddetmek
+$GEN_010_KEY_04
+Çocukların ölümü
+$GEN_010_KEY_05
+Gizemli tedarikçi
+$GEN_010_KEY_06
+Düşmanca taktikler
+$GEN_010_KEY_07
+Satın alma defteri
+$GEN_010_LastDialog_00
+Şimdi çocuklarıma kim bakacak? Onlar artık sizin vicdanınıza emanet!
+$GEN_010_UNIQUE_QUESTION_00
+Sanığın evinde yapılan soruşturmada ne bulundu?
+$GEN_010_UNIQUE_ANSWER_CORRECT_00_00
+Bir miktar un stoğu.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Büyük bir ekmek stoğu.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Birkaç çuval yulaf.
+$GEN_010_UNIQUE_QUESTION_01
+Sanık neden erzaklarını paylaşmadı?
+$GEN_010_UNIQUE_ANSWER_CORRECT_01_00
+Onları ailesi için sakladı.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Komşularından hoşlanmazdı.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Kimsenin ondan hiçbir şey istemediğini söylüyor.

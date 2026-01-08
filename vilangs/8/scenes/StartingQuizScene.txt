@@ -1,0 +1,44 @@
+$SURVIVAL_QUIZ_RESULT_HEADER
+Pontuações
+$SURVIVAL_QUIZ_RESULT_DESC
+Estes são os seus valores iniciais de relacionamento com as facções.
+$SURVIVAL_QUIZ_QUESTION_01
+No corredor do tribunal, uma jovem muito atraente esbarrou em mim. Ela usava um vestido elegante, mas já um pouco gasto e puído em alguns pontos. Antes que eu pudesse me desculpar pelo choque, a mulher começou a falar. Apresentou-se como Désirée Plouffe, filha do conde. Seu noivo havia sido detido — alegaram ações contrarrevolucionárias, mas nenhuma acusação detalhada foi apresentada. A senhorita Plouffe tirou um envelope com um bilhete e, com a voz trêmula, pediu que eu o entregasse ao acusado.
+$SURVIVAL_QUIZ_QUESTION_01_A1
+Tranquei a mulher em uma das salas de serviço e fui chamar a Guarda. Não quero que ninguém me acuse de corrupção.
+$SURVIVAL_QUIZ_QUESTION_01_A2
+Peguei o bilhete e prometi ajudar. Os clientes comuns no salão me lançaram olhares de reprovação...
+$SURVIVAL_QUIZ_QUESTION_01_A3
+Olhem, povo, disse em voz alta. "A nobre acha que pode mais do que os outros." Rasguei o bilhete e joguei aos seus pés.
+$SURVIVAL_QUIZ_QUESTION_02
+Naquele momento, eu caminhava pela rua. Lembro-me de admirar como Paris estava mudando. As placas sobre as lojas haviam sido trocadas, pessoas retiravam móveis incrustados das residências nobres. Carregavam esses bens em carroças, levavam embora, distribuíam. Um homem saiu de um portão com uma garrafa de vinho na mão e gritou: “É do porão do senhor Jacquemard. Venham, bebam conosco.”
+$SURVIVAL_QUIZ_QUESTION_02_A1
+Fui beber com eles. Passamos a noite inteira no porão, conversando sobre as necessidades da França.
+$SURVIVAL_QUIZ_QUESTION_02_A2
+Chamei a Guarda para confiscar o vinho da adega em nome da revolução.
+$SURVIVAL_QUIZ_QUESTION_02_A3
+Disse quem eu era e ameacei-os com punição por roubo – fugiram o mais rápido que puderam, aconselhei o dono a esconder os objetos de valor no campo.
+$SURVIVAL_QUIZ_QUESTION_03
+Certa vez, presenciei uma cena desagradável no pátio, perto da fonte. Alguns jovens atiravam pedras em um rapaz bem vestido, gritando: "Coma, condessa, bom apetite!" O jovem nobre, encurralado, apenas protegia o rosto, enquanto mais projéteis o atingiam — e também as janelas, que se estilhaçavam em pequenos pedaços sob os gritos dos moradores.
+$SURVIVAL_QUIZ_QUESTION_03_A1
+Peguei algumas pedrinhas do chão, joguei-as no “conde” e fui embora.
+$SURVIVAL_QUIZ_QUESTION_03_A2
+Expulsei um grupo de jovens com alguns golpes e entreguei um lenço a um jovem nobre para que limpasse os cortes sangrentos.
+$SURVIVAL_QUIZ_QUESTION_03_A3
+Ordenei a prisão dos adolescentes por vandalismo. Para os parisienses, o tempo do medo chegou ao fim.
+$SURVIVAL_QUIZ_QUESTION_04
+Na praça perto de Notre Dame, vi um homem bêbado. Ele caminhava pela rua, gritando: “Canalhas, canalhas tomaram a cidade”, ameaçando as pessoas com uma bengala de marfim. Vi gente cochichando e apontando para ele. As lavadeiras que passavam faziam um grande desvio, e alguns pedreiros pegaram pedras.
+$SURVIVAL_QUIZ_QUESTION_04_A1
+Fui até ele e lhe dei um tapa tão forte no rosto que ele caiu sentado na calçada.
+$SURVIVAL_QUIZ_QUESTION_04_A2
+Quando encontrei a patrulha da Guarda, denunciei uma pessoa suspeita.
+$SURVIVAL_QUIZ_QUESTION_04_A3
+Peguei o homem pelo braço. “Venha, vamos tomar um vinho”, disse, e o tirei da rua, provavelmente salvando-o de um linchamento.
+$SURVIVAL_QUIZ_QUESTION_05
+Quatro guardas estavam diante da barraca de um homem idoso, perto de um prédio recém-reformado. Sobre o balcão, repousavam legumes: alguns maços de cenoura e alface seca ao sol. “Vocês estão me expulsando porque o senhor Moisan lhes pagou!”, gritou o comerciante direto para as caras fechadas dos guardas. “O nobre provavelmente preferiria que eu vendesse talheres de prata ou esculturas antigas, não é? Mas um vendedor de verduras desvaloriza o imóvel dele?!”, continuou o lojista indignado.
+$SURVIVAL_QUIZ_QUESTION_05_A1
+Apresentei-me e ordenei aos guardas que deixassem o comerciante em paz.
+$SURVIVAL_QUIZ_QUESTION_05_A2
+Não era da minha conta, os guardas provavelmente tinham seus... “motivos”.
+$SURVIVAL_QUIZ_QUESTION_05_A3
+Se os guardas receberam ordens, devem cumpri-las sem hesitar. Eu ajudei na prisão.

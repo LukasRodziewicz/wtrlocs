@@ -1,0 +1,358 @@
+$GEN_006_DOC_01_HEADER
+Compilé par : Pierre Daquin
+$GEN_006_DOC_01_00
+L'accusée est Valérie Moreau, <a name="1" class="hidden">fille de l'avocat Philippe Moreau</a>. Elle est suspectée du meurtre du lieutenant Serge Mollet, <a name="2" class="hidden">officier de cavalerie</a>. L'enquête a révélé qu'ils se connaissaient bien et, d'après leurs familles respectives, qu'ils se retrouvaient plusieurs fois par mois. De plus, le lieutenant Mollet avait demandé à Philippe Moreau <a name="3" class="hidden">la main de sa fille</a>.
+$GEN_006_DOC_01_01
+Mademoiselle Moreau a déclaré avoir <a name="4" class="hidden">trouvé le corps de son ami</a> dans son appartement. Elle a été arrêtée parce que les serviteurs affirment que personne d'autre <a name="5" class="hidden">n'est entré dans l'appartement du lieutenant Mollet</a> ce jour-là et qu'ils ont vu la victime vivante avant l'arrivée de mademoiselle Moreau.
+$GEN_006_DOC_01_02
+Mademoiselle Moreau a déclaré que ce sont les serviteurs du lieutenant Mollet qui l'ont fait entrer et qu'elle s'est rendue directement dans sa chambre. Elle dit l'avoir trouvé allongé dans son lit, vêtu de ses habits de nuit couverts de sang, la <a name="6" class="hidden">gorge tranchée</a>. Bien qu'elle ait manqué de s'évanouir, elle s'est approchée de lui pour <a name="7" class="hidden">vérifier son pouls</a>. Quelques minutes plus tard, elle a appelé à l'aide.
+$GEN_006_DOC_01_03
+Les témoignages des serviteurs corroborent ses déclarations. Lorsqu'ils l'ont trouvée, <a name="6" class="hidden">elle tenait le corps</a> du lieutenant Mollet dans ses bras et ne pouvait s'arrêter de sangloter. Au sol, un couteau sanguinolent dont le manche encore mouillé laissait deviner de petites empreintes, sans doute celles d'une femme.
+$GEN_006_DOC_01_04
+L'affaire semble simple : mademoiselle Moreau est elle aussi une victime, un procès ne ferait que la bouleverser davantage. Nous devrions chercher le véritable meurtrier et non tourmenter une créature si fragile et innocente.
+$GEN_006_DOC_01_05
+Pièce à conviction : <a name="10" class="hidden">Couteau maculé de sang</a>.
+$GEN_006_OnStart_00
+Jeune, belle et triste. Ce n'est pas surprenant que tout le monde ait pitié d'elle.
+$GEN_006_OnStart_01
+Bande de vermines ! Comment osez-vous traîner une femme en deuil au tribunal ?!
+$GEN_006_OnStart_02
+Silence ! Je te prie de te présenter, citoyenne.
+$GEN_006_OnStart_03
+Je m'appelle Valérie Moreau.
+$GEN_006_OnStart_04
+Mademoiselle Moreau, tu es accusée du meurtre du lieutenant Mollet...
+$GEN_006_OnStart_05
+…
+$GEN_006_OnStart_06
+N'as-tu rien à dire ?
+$GEN_006_OnStart_07
+Je n'arrive toujours pas... à y croire.
+$GEN_006_OnStart_08
+Épargne-nous ta comédie, je te prie. Nous ne sommes pas au théâtre.
+$GEN_006_OnStart_09
+Bourreau !
+$GEN_006_OnGuilty_00
+Je condamne la citoyenne Valérie Moreau à être guillotinée ! Emmenez la condamnée.
+$GEN_006_OnGuilty_01
+C'est ce que j'appelle du bon travail.
+$GEN_006_OnGuilty_02
+C'est de la barbarie !
+$GEN_006_OnGuilty_03
+Elle l'a bien mérité, c'est une folle !
+$GEN_006_OnPrison_00
+Je condamne la citoyenne Valérie Moreau à être emprisonnée ! Emmenez la condamnée.
+$GEN_006_OnPrison_01
+Nous l'avons démasquée, mais j'aurais préféré qu'elle finisse à la guillotine.
+$GEN_006_OnPrison_02
+C'est inhumain !
+$GEN_006_OnPrison_03
+C'est tout ce que mérite cette malade !
+$GEN_006_OnNotGuilty_00
+Je déclare la citoyenne Valérie Moreau... non coupable. Que liberté lui soit rendue.
+$GEN_006_OnNotGuilty_01
+Ses beaux yeux vous ont dupé !
+$GEN_006_OnNotGuilty_02
+Hourra !
+$GEN_006_OnNotGuilty_03
+Tu acquittes une meurtrière ?
+$GEN_006_01x02_00_QTitle
+Connaissais-tu la victime depuis longtemps ?
+$GEN_006_01x02_00_00
+Connaissais-tu la victime depuis longtemps ?
+$GEN_006_01x02_00_01
+Quelques années, depuis qu'il était à l'école militaire.
+$GEN_006_01x02_00_02
+Quel genre de relation entreteniez-vous ?
+$GEN_006_01x02_00_03
+Nous étions amis. Des amis loyaux. Cela dit, je savais que le lieutenant Mollet y voyait autre chose.
+$GEN_006_01x02_00_04
+Et toi ?
+$GEN_006_01x02_00_05
+Qu'il la laisse tranquille !
+$GEN_006_01x02_00_06
+…
+$GEN_006_01x02_00_07
+L'aimais-tu ? Si c'était le cas, tu as pu le tuer par jalousie.
+$GEN_006_01x02_00_08
+Je n'en sais rien... Je ne puis répondre à cette question.
+$GEN_006_01x02_00_09
+Un refus ne fera que te desservir.
+$GEN_006_01x02_00_10
+Elle arrive à peine à respirer, pauvre petite.
+$GEN_006_01x03_01_QTitle
+Mademoiselle Moreau, je dois en savoir le plus possible sur cette affaire.
+$GEN_006_01x03_01_00
+Mademoiselle Moreau, je dois en savoir le plus possible sur cette affaire.
+$GEN_006_01x03_01_01
+Je comprends. Posez vos questions.
+$GEN_006_01x03_01_02
+Notre enquêteur a appris de ton père que le lieutenant Mollet et lui s'étaient accordés au sujet de vos fiançailles.
+$GEN_006_01x03_01_03
+Hein...
+$GEN_006_01x03_01_04
+N'étais-tu pas au courant ?
+$GEN_006_01x03_01_05
+Je savais qu'il... Mais pas si tôt. Non, je n'étais pas au courant.
+$GEN_006_01x03_01_06
+Ta famille le gardait secret ?
+$GEN_006_01x03_01_07
+Visiblement.
+$GEN_006_01x03_01_08
+Tu l'as peut-être tué en réaction à sa demande ?
+$GEN_006_01x03_01_09
+<sanglots>
+$GEN_006_01x03_01_10
+Par Dieu, pourquoi ne pas l'exécuter immédiatement, bande de charognes !
+$GEN_006_01x04_02_QTitle
+Je te prie de décrire le moment où tu as trouvé le corps de la victime.
+$GEN_006_01x04_02_00
+Je te prie de décrire le moment où tu as trouvé le corps de la victime.
+$GEN_006_01x04_02_01
+C'est du sadisme.
+$GEN_006_01x04_02_02
+J'ai reçu une lettre dans laquelle il me demandait de venir. Il écrivait qu'il congédierait ses serviteurs et que nous pourrions passer du temps... seuls. Il voulait me dire quelque chose d'important.
+$GEN_006_01x04_02_03
+Seuls ? Que voulait-il dire ?
+$GEN_006_01x04_02_04
+Certainement rien d'indécent, c'était un homme honorable, un véritable gentilhomme.
+$GEN_006_01x04_02_05
+Que s'est-il passé ensuite ?
+$GEN_006_01x04_02_06
+Je suis arrivée à l'heure convenue et je suis entrée dans ses appartements. Les rideaux étaient fermés et j'ai senti quelque chose sous mon pied. C'était du sang...
+$GEN_006_01x04_02_07
+Quelqu'un t'a-t-il vue entrer ?
+$GEN_006_01x04_02_08
+Je l'ignore. Les serviteurs, peut-être.
+$GEN_006_01x04_02_09
+T'es-tu glissée dans sa chambre ?
+$GEN_006_01x04_02_10
+Je... Il m'avait demandé d'entrer discrètement. Quand je suis arrivée...
+$GEN_006_01x04_02_11
+Tu as vu le corps immédiatement ?
+$GEN_006_01x04_02_12
+Je ne l'ai vu qu'après quelques instants. Il était sur le lit... sa gorge... Excusez-moi...
+$GEN_006_01x04_02_13
+Quelle horreur...
+$GEN_006_10x06_03_QTitle
+Le lieutenant Mollet était un soldat. Comment aurait-il pu se faire surprendre dans son propre lit ?
+$GEN_006_10x06_03_00
+Le lieutenant Mollet était un soldat. Comment aurait-il pu se faire surprendre dans son propre lit ?
+$GEN_006_10x06_03_01
+Comment une telle enfant aurait-elle pu le tuer ? Ce procès est une mascarade.
+$GEN_006_10x06_03_02
+On peut tuer n'importe qui si on arrive à le surprendre. Elle aussi le pourrait.
+$GEN_006_10x06_03_03
+La personne qui s'est introduite chez lui a dû se faire particulièrement discrète pour ne pas le réveiller.
+$GEN_006_10x06_03_04
+Il se serait endormi avant ton arrivée ?
+$GEN_006_10x06_03_05
+Tout ce que je sais, c'est qu'il était dans son lit. Il avait peut-être décidé de faire une sieste ?
+$GEN_006_10x06_03_06
+Ne trouves-tu pas cela étrange ?
+$GEN_006_10x06_03_07
+Toute cette affaire est étrange.
+$GEN_006_10x06_03_08
+C'est bien vrai, surtout ton témoignage.
+$GEN_006_04x07_04_QTitle
+Comment savais-tu que la victime était déjà morte ?
+$GEN_006_04x07_04_00
+Comment savais-tu que la victime était déjà morte ?
+$GEN_006_04x07_04_01
+Je lui ai parlé, je lui ai dit de se réveiller, qu'il fallait se lever. Je l'ai pris par la manche, mais il ne bougeait pas... Il y avait du sang partout...
+$GEN_006_04x07_04_02
+Elle délire, la pauvre.
+$GEN_006_04x07_04_03
+Laissez-la tranquille !
+$GEN_006_04x07_04_04
+Le lieutenant Mollet était mort ?
+$GEN_006_04x07_04_05
+J'ai cherché à entendre sa respiration, mais il n'y avait rien... J'ai longtemps écouté, je voulais désespérément l'entendre...
+$GEN_006_04x07_04_06
+Pourquoi n'as-tu pas appelé à l'aide ?
+$GEN_006_04x07_04_07
+J'étais sous le choc.
+$GEN_006_04x07_04_08
+Alors pourquoi n'as-tu pas crié ? Généralement, dans de telles situations, les femmes hurlent à tue-tête.
+$GEN_006_04x07_04_09
+Je ne peux l'expliquer.
+$GEN_006_04x07_04_10
+Il y en a qui crient, d'autres non. Qu'est-ce que ça prouve ?
+$GEN_006_09x08_05_QTitle
+Lorsque les gardes sont arrivés, ils t'ont trouvée couverte de sang.
+$GEN_006_09x08_05_00
+Lorsque les gardes sont arrivés, ils t'ont trouvée couverte de sang. Tu comprends que cela soit suspect ?
+$GEN_006_09x08_05_01
+Vous pensez que c'est moi qui l'ai tué. Je ne suis pas stupide, je sais pourquoi je suis ici.
+$GEN_006_09x08_05_02
+C'est exact. Souhaiterais-tu répondre à cette accusation ?
+$GEN_006_09x08_05_03
+Peut-être est-ce vraiment moi qui l'ai tué...
+$GEN_006_09x08_05_04
+Elle avoue !
+$GEN_006_09x08_05_05
+Pardon ?
+$GEN_006_09x08_05_06
+Si j'étais arrivée plus tôt... peut-être serait-il encore en vie ?
+$GEN_006_09x08_05_07
+Ne retire pas ce que tu as dit.
+$GEN_006_09x08_05_08
+Bon Dieu, cessez de la tourmenter !
+$GEN_006_09x08_05_09
+Calme-toi et réponds à la question. As-tu coupé la gorge du lieutenant Mollet ?
+$GEN_006_09x08_05_10
+Non.
+$GEN_006_09x08_05_11
+Elle vient pourtant de dire le contraire.
+$GEN_006_05x09_06_QTitle
+Le lieutenant Mollet avait-il des ennemis ?
+$GEN_006_05x09_06_00
+Le lieutenant Mollet avait-il des ennemis ?
+$GEN_006_05x09_06_01
+Je n'en sais rien. Il avait des amis.
+$GEN_006_05x09_06_02
+Se pourrait-il qu'un ami l'ait tué ?
+$GEN_006_05x09_06_03
+…
+$GEN_006_05x09_06_04
+Seule une personne de confiance aurait pu l'approcher d'aussi près, n'est-ce pas ? Les serviteurs affirment toutefois que personne d'autre que vous n'était dans l'appartement.
+$GEN_006_05x09_06_05
+J'aimerais épouser un officier... Les serviteurs ne peuvent prétendre à une telle chance.
+$GEN_006_05x09_06_06
+As-tu vu quelqu'un d'autre dans l'appartement ?
+$GEN_006_05x09_06_07
+Non.
+$GEN_006_05x09_06_08
+Si ce n'était pas toi, alors qui a tué le lieutenant Mollet ?
+$GEN_006_05x09_06_09
+J'aimerais le savoir tout autant que vous...
+$GEN_006_01x10_07_QTitle
+Un couteau maculé de sang a été trouvé sur les lieux du crime.
+$GEN_006_01x10_07_00
+Un couteau maculé de sang a été trouvé sur les lieux du crime.
+$GEN_006_01x10_07_01
+J'ignore tout de cela.
+$GEN_006_01x10_07_02
+On peut y voir l'empreinte d'une petite main, sans doute celle d'une femme.
+$GEN_006_01x10_07_03
+Ce serait donc une femme qui l'a tué ? Il avait quelqu'un d'autre, mais il voulait m'épouser moi... ?
+$GEN_006_01x10_07_04
+Ce n'est pas ce que j'ai dit.
+$GEN_006_01x10_07_05
+Je ne comprends pas.
+$GEN_006_01x10_07_06
+Pauvre enfant.
+$GEN_006_01x10_07_07
+Monsieur le juge, l'accusée cherche à nous duper. Nous savons très bien ce que l'empreinte d'une femme sur l'arme du crime signifie.
+$GEN_006_01x10_07_08
+Peut-être l'ai-je pris quand Serge était déjà mort ?
+$GEN_006_01x10_07_09
+Elle l'a sans doute pris sous le choc.
+$GEN_006_PlotTwist_00
+Monsieur le juge ! J'arrive à temps. J'ai une révélation à faire, je t'en prie, écoute-moi !
+$GEN_006_PlotTwist_01
+Je connais mademoiselle Moreau, je m'occupe de sa famille.
+$GEN_006_PlotTwist_02
+Quelle révélation ?
+$GEN_006_PlotTwist_03
+Je pense que c'est cette femme qui a tué le lieutenant Mollet. C'est le diable incarné !
+$GEN_006_PlotTwist_04
+Pauvre fou !
+$GEN_006_WIT_00_A_QTitle
+Qu'est-ce qui te fait dire ça ?
+$GEN_006_WIT_00_A_00
+Qu'est-ce qui te fait dire ça ?
+$GEN_006_WIT_00_A_01
+Cela fait des années que je la traite, je la connais depuis qu'elle est enfant. Dernièrement, quelque chose en elle a changé. Lorsque mademoiselle Moreau est venue me voir il y a peu, elle tremblait, elle avait de la fièvre et faisait des crises de panique. Je lui ai prescrit des herbes pour la calmer...
+$GEN_006_WIT_00_A_02
+Quel est le rapport avec...
+$GEN_006_WIT_00_A_03
+Je vais vous le dire ! Quelque chose la tourmentait profondément. Elle m'a avoué une fois se sentir trop jeune pour se marier.
+$GEN_006_WIT_00_A_04
+Voilà un mobile.
+$GEN_006_WIT_00_A_05
+Elle savait donc ce que préparaient le lieutenant Mollet et son père ?
+$GEN_006_WIT_00_A_06
+En tout cas, elle soupçonnait quelque chose, car elle était particulièrement nerveuse depuis quelque temps.
+$GEN_006_WIT_00_B_QTitle
+C'est une très grave accusation...
+$GEN_006_WIT_00_B_00
+C'est une très grave accusation...
+$GEN_006_WIT_00_B_01
+Elle avait subi un traumatisme. Il y a quelques années, elle a vu un homme mourir dans la rue, une victime d'un affrontement entre royalistes et jacobins. Elle se tenait près de lui lorsqu'une balle perdue l'a atteint en pleine tête.
+$GEN_006_WIT_00_B_02
+Quel est le rapport avec la mort du lieutenant ?
+$GEN_006_WIT_00_B_03
+Nous en avons parlé à de nombreuses reprises. Au début, Valérie était muette, mais avec le temps elle m'a révélé de petits détails. Jusqu'au moment où elle pouvait me décrire la victime si bien que j'aurais pu la voir moi-même.
+$GEN_006_WIT_00_B_04
+Continue.
+$GEN_006_WIT_00_B_05
+Au cours d'une de nos conversations, elle m'a avoué imaginer cette scène la nuit. Elle voulait continuer à raconter cette histoire et je voyais qu'elle était devenue incroyablement fascinée par tout cela.
+$GEN_006_WIT_00_B_06
+À ton avis, qu'est-ce que cela signifie ?
+$GEN_006_WIT_00_B_07
+Il est possible qu'elle soit devenue fascinée par la mort et la violence.
+$GEN_006_WIT_01_A_QTitle
+Quelle a été ta réaction à cela ?
+$GEN_006_WIT_01_A_00
+Quelle a été ta réaction à cela ?
+$GEN_006_WIT_01_A_01
+Je pensais qu'elle était encore ébranlée par ce qu'elle avait vu et je lui ai prescrit des herbes tranquillisantes. Je pensais qu'elle se marierait, qu'elle aurait un enfant et qu'elle oublierait tout cela... Ce n'est qu'aujourd'hui que j'ai appris la mort du lieutenant Mollet, je suis venu aussi vite que j'ai pu.
+$GEN_006_WIT_01_A_02
+Merci, docteur.
+$GEN_006_WIT_02_A_QTitle
+Tu nous as offert une sacrée performance, visiblement !
+$GEN_006_WIT_02_A_00
+Tu nous as offert une sacrée performance, visiblement ! Le docteur t'accuse...
+$GEN_006_WIT_02_A_01
+Misérable vaurien ! Puisqu'il fait de moi un monstre, je devrais peut-être l'écharper ! Lui planter un couteau dans le ventre et remonter vers son cou, l'égorger et...
+$GEN_006_WIT_02_A_02
+De quoi parle-t-elle ?
+$GEN_006_WIT_03_A_QTitle
+Nous avons là l'avis sérieux d'un docteur...
+$GEN_006_WIT_03_A_00
+Nous avons là l'avis sérieux d'un docteur...
+$GEN_006_WIT_03_A_01
+Ça me revient ! Je sais qui a tué Serge. Il m'avait dit avoir affronté en duel il y a quelques années un autre officier qui n'avait jamais accepté sa défaite. Peut-être que...
+$GEN_006_WIT_03_A_02
+Peut-être que cette personne s'est introduite chez le lieutenant Mollet, habité par un désir de venger son honneur bafoué, pour lui trancher la gorge ? Après toutes ces années ?
+$GEN_006_WIT_03_A_03
+…
+$GEN_006_WIT_03_A_04
+Connais-tu le nom de cet officier, mademoiselle ?
+$GEN_006_WIT_03_A_05
+Malheureusement, je l'ignore.
+$GEN_006_WIT_03_A_06
+De quelle sorte de duel s'agissait-il ? Se sont-ils battus à l'épée ou au pistolet ?
+$GEN_006_WIT_03_A_07
+Je... Je ne me souviens pas non plus de cela.
+$GEN_006_KEY_01
+Fille d'avocat
+$GEN_006_KEY_02
+Officier de cavalerie
+$GEN_006_KEY_03
+Fiançailles présumées
+$GEN_006_KEY_04
+Découverte du corps
+$GEN_006_KEY_05
+Pas de visiteurs
+$GEN_006_KEY_06
+Gorge coupée
+$GEN_006_KEY_07
+Recherche du pouls
+$GEN_006_KEY_08
+Accusée tenant le corps
+$GEN_006_KEY_09
+Vrai meurtrier
+$GEN_006_KEY_10
+Couteau maculé de sang
+$GEN_006_LastDialog_00
+C'est injuste ! Vous n'avez aucune preuve ! Vous le savez !
+$GEN_006_UNIQUE_QUESTION_00
+Qui a trouvé le corps ?
+$GEN_006_UNIQUE_ANSWER_CORRECT_00_00
+La prévenue.
+$GEN_006_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Une servante.
+$GEN_006_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Une patrouille de la Garde.

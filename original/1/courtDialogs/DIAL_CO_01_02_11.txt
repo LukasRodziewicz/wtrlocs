@@ -1,0 +1,18 @@
+$DIAL_CO_01_02_11_001_ROLAND
+My name is Jean-Marie Roland. My name shold not be unknown to you - after all, you wiped your shoes on it during King Louis' trial.
+$DIAL_CO_01_02_11_002_JUDGE
+Citizen Capet, not King…
+$DIAL_CO_01_02_11_003_ROLAND
+King Louis-Auguste Bourbon, Duc de Berry. Thanks to you flinging around half-truths and speculation, everyone is calling for my head. Accusing me of corruption and treason! While you used our backs as a step-ladder on your way up the social hierarchy.
+$DIAL_CO_01_02_11_004_JUDGE
+Corrupting politicians does not always work out. Danton does it, Molleville tried to, but they caught you. Happens.
+$DIAL_CO_01_02_11_005_ROLAND
+I will probably be dismissed from my station. I may even end up at the guillotine. But I will make sure your head rolls right after mine! You will be my comrade in misery!
+$DIAL_CO_01_02_11_006_JUDGE
+Threatening a Judge of the Tribunal is an even worse idea than supporting a despised King and corrupting politicians of the Convention.
+$DIAL_CO_01_02_11_007_ROLAND
+I will get rid of your candidate for Captain of the Guard. Then I will go after you.
+$DIAL_CO_01_02_11_008_ROLAND
+It took me and my wife too long to get to where we are! I will not die because of some over-boozed maggot that likes to call himself a Judge!
+$DIAL_CO_01_02_11_009_ROLAND
+You will see how we wage war in Paris’s salons, you treacherous mongrel!

@@ -1,0 +1,8 @@
+$EVE_031_TITLE
+He’s Ours!
+$EVE_031_MAIN
+There can be no more demeaning experience for Revolutionary Paris than the escape of Citizen Capet. He escaped, slipped right from their hands, and the Revolution now seems feeble and weak. The people resemble a child that could easily be duped by anyone. However, the Republic quickly composed itself thanks to a Postmaster and his people, who were able to catch the fugitives escaping to Montmédy. Ordinary Citizens led to the fall of a monarch. You will have a chance to serve the Republic as well, for Citizen Capet will face the Tribunal tomorrow. You will choose how he will be remembered – as a traitor and a coward, or as an unlucky statesman. If it were for the prison guards to decide, there would be only one outcome…
+$EVE_031_OPTION_A
+Allow the guards to rough up Citizen Capet in prison
+$EVE_031_OPTION_B
+Leave him alone until the trial

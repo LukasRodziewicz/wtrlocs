@@ -1,0 +1,78 @@
+$INTRIGUE_TITLE_002
+Jean-Nicolas Pache
+$INTRIGUE_002_DESC
+The assassins who tried to take your life must have been paid by someone, and everything points to the Mayor of Paris. He is too cautious to let you attack him. You must catch him off guard.
+$INTR_002_B01_TITLE
+Let Hanriot Manage the Brothel
+$INTR_002_B01_DESC
+Pache likes to gamble and flaunt his money. We should expand the brothel’s activities to include games of cards and dice – I know how much you like the latter. Commander Hanriot will be responsible for security. Pache must feel safe with us.
+$INTR_002_B02_TITLE
+Let David Manage the Brothel
+$INTR_002_B02_DESC
+If you want to lure Pache, you must do so with class. The brothel taken from Roland would be the perfect trap, but we still have to make it even more luxurious by adding gambling to the range of attractions it offers. Dice, for example. As an artist, David will surely add a certain extravagance that will tempt even an idler like Pache, and he will not expect it.
+$INTR_002_B03_TITLE
+Meeting with the Mayor
+$INTR_002_B03_DESC
+We must meet him face to face in order to make him believe that we do not know about his involvement in the attempt on your life.
+$INTR_002_B04_TITLE
+Following Marie Sylvie Pache
+$INTR_002_B04_DESC
+Before we act, David must confirm the nature of the relationship the Mayor’s daughter has with Béatrice Caron. If they are having an affair, Pache will be furious, and you will help him to make that one mistake we need so much…
+$INTR_002_B05_TITLE
+Meeting in the Gambling Den
+$INTR_002_B05_DESC
+It is time for Pache to get a taste of victory and good tobacco, all in the newly created gambling den. It is time he felt… safe.
+$INTR_002_B06_TITLE
+Arresting Béatrice Caron
+$INTR_002_B06_DESC
+Hanriot’s guards will waylay the Mayor’s daughter and her lover at their usual rendezvous. Béatrice will be arrested, and wait for what happens next in isolation. We will no longer have any use for Marie.
+$INTR_002_B07_TITLE
+Béatrice, traitor
+$INTR_002_B07_DESC
+We must “convince” her to sign a document stating that she is an Austrian spy, that Jean-Nicolas Pache was her source, and that she reached him through his daughter.
+$INTR_002_B08_TITLE
+Meeting with Danton
+$INTR_002_B08_DESC
+Even with the document signed by Béatrice, we still do not have a complete hold on the Mayor. He could still ask his silver-tongued friend Danton for help. Pache needs to be entirely alone. If we do not convince Danton to take our side, we will lose.
+$INTR_002_B09_TITLE
+Arresting the Mayor
+$INTR_002_B09_DESC
+There is no better time to make a political arrest than in the middle of the night. You must strike now!
+$INTR_002_B10_TITLE
+Béatrice Caron – Blackmailer
+$INTR_002_B10_DESC
+Béatrice was able to escape the guards and send a message to Marie Pache. She told her to be at rue Saint-Maur with the money to compensate for the damage done by their relationship. We must intervene. Béatrice turned out to be unreasonable – instead of saving her life and running to the other side of Europe, she remained in Paris to engage in blackmail. She is extorting money from a person she was supposed to love. The entire plan will collapse if she talks about the testimony we made her sign.
+$INTR_002_B10_DECISION_0
+Go with the guards
+$INTR_002_B10_DECISION_1
+Send the guards alone
+$INTR_002_SLOT_01_DESC
+Decide who will manage the seized brothel.
+$INTR_002_BLOCK_004_PATH_STR
+Send your guard to take care of it – we do not have to hide.
+$INTR_002_BLOCK_004_PATH_DIP
+David’s presence should not raise any suspicions.
+$INTR_002_BLOCK_004_PATH_ESP
+Let Ramel handle it. He knows every dark alley of this city.
+$INTR_002_BLOCK_004_PATH_STR_FAILURE
+Clovis is clumsy and… too big to act discreetly. He obtained the information, but the Muscadins noticed him.
+$INTR_002_BLOCK_004_PATH_DIP_FAILURE
+The Muscadins turned out to be paranoid. Even the presence of the gregarious David raised their suspicions. You learned everything you wanted to, but at the price of their anger.
+$INTR_002_BLOCK_004_PATH_ESP_FAILURE
+Ramel is good, but his presence was revealed by a drunken Muscadin who recognised an old friend as he tried to leave. Your spy was able to flee through a back alley, but from now on the Muscadins will be more cautious…
+$INTR_002_BLOCK_006_PATH_STR
+Hanriot will make a show! Let every neighbour know that we want to arrest the traitor.
+$INTR_002_BLOCK_006_PATH_DIP
+Hanriot will arrest her before she leaves to see Marie, politely and respecting her rights.
+$INTR_002_BLOCK_006_PATH_ESP
+Tell Hanriot to arrest her in an alley on her way to meet Marie. Quietly, discreetly.
+$INTR_002_BLOCK_006_PATH_STR_FAILURE
+The Muscadins decided to defend one of their girls. Shots were fired. We have Caron, but there were casualties on both sides…
+$INTR_002_BLOCK_006_PATH_DIP_FAILURE
+Béatrice did not appreciate our efforts. She cried that she was being assaulted and raped, and was soon aided by people throwing stones. The guards were forced to use violence…
+$INTR_002_BLOCK_006_PATH_ESP_FAILURE
+The Muscadins have become more cautious and are trying not to walk alone. The guards were forced to crush the bones of several of the girl’s companions…
+$INTR_002_B10_EVENT_TITLE
+FREEDOM!
+$INTR_002_B10_EVENT_TEXT
+Marie killed. Twice. The guards found Béatrice’s body, stabbed by the Mayor’s daughter. When Marie noticed the guards, she allegedly cried “Freedom!” and cut her own throat. The situation got out of hand. Information travels quickly, and the Mayor is likely to already know what happened to his daughter, that she paid for his sins. Do not feel guilty. Focus on tomorrow’s trials. Do not feel guilty…

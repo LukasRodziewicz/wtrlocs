@@ -1,0 +1,198 @@
+$FAB_019_DOC_01_HEADER
+Compilé par : Pierre Daquin
+$FAB_019_DOC_01_00
+L'accusée est Charlotte Corday, une habitante de Caen. Elle <a name="1" class="hidden">soutient ouvertement les girondins</a>. Cette femme a assassiné Jean-Paul Marat. Elle a été arrêtée sur la scène du crime et a immédiatement avoué.
+$FAB_019_DOC_01_01
+Selon nos informations, cette femme possède une profonde aversion pour les jacobins ainsi que pour tous ceux qui ont contribué à la chute des girondins. Elle a organisé une rencontre avec Marat au prétexte de <a name="2" class="hidden">dénoncer certains de ses camarades</a> qui auraient soi-disant organisé un soulèvement à Caen. Les serviteurs de Marat ont tout d'abord été vigilants et n'ont pas laissé la femme l'approcher, mais leur maître les aurait réprimandés et leur aurait dit de laisser entrer l'informatrice. Marat était assis dans son bain, car selon la rumeur il souffrait d'une maladie de peau qui était apaisée par de longues immersions. Il n'aurait rien soupçonné, car nous n'avons trouvé aucune de ses armes près de la baignoire.
+$FAB_019_DOC_01_02
+Après une brève conversation, Corday a <a name="4" class="hidden">planté un couteau</a> en pleine poitrine de Marat. Celui-ci a appelé à l'aide, mais n'avait que peu de chances de s'en sortir après une telle blessure. Lorsque les serviteurs se sont précipités dans la pièce, Corday regardait par la fenêtre comme si elle admirait le paysage. Elle n'a opposé aucune résistance lors de son arrestation, tenant seulement fermement entre ses mains Les Vies parallèles de Plutarque. Je ne sais pas s'il est bien, je ne l'ai pas lu. En route pour sa cellule, elle a répété plusieurs fois qu'elle avait <a name="6" class="hidden">agi seule</a>, et a tenu à souligner qu'il n'y avait pas d'homme derrière ses actes. Les gardes ne l'ont probablement pas crue, car elle s'est mise à hurler dans le couloir qu'elle était vierge. Enfin, qui voudrait copuler avec une telle folle ?
+$FAB_019_DOC_02_00
+Jean-Paul Marat
+$FAB_019_DOC_02_01
+Il était notre frère, un des chefs informels de la Révolution. Tout le monde l'aimait pour ses articles pertinents, où il mettait en évidence les défauts des ennemis du renouveau. Peut-être était-il un peu trop tranchant parfois dans ses conclusions, mais aurait-il pu faire autrement ?
+$FAB_019_DOC_02_02
+Pièce à conviction :
+$FAB_019_DOC_02_03
+Un couteau à la lame tachée de sang séché et <a name="7" class="hidden">Les Vies parallèles de Plutarque</a>
+$FAB_019_OnStart_00
+Traître !
+$FAB_019_OnStart_01
+Tu vas mourir, salope !
+$FAB_019_OnStart_02
+Je te prie de te présenter, citoyenne.
+$FAB_019_OnStart_03
+Je m'appelle Charlotte Corday.
+$FAB_019_OnStart_04
+Tu es accusée du meurtre du citoyen Marat…
+$FAB_019_OnStart_05
+Oui, c'est vrai. Je l'ai tué.
+$FAB_019_OnStart_06
+On voit rarement des gens avouer si volontiers.
+$FAB_019_OnGuilty_00
+Je condamne la citoyenne Charlotte Corday à être guillotinée ! Emmenez la condamnée.
+$FAB_019_OnGuilty_01
+Il a raison !
+$FAB_019_OnGuilty_02
+Ouais, emmenez-la se faire égorger, cette chienne !
+$FAB_019_OnNotGuilty_00
+Le verdict du procès pour le meurtre du citoyen Marat est… non coupable ! Veuillez libérer Mademoiselle Corday.
+$FAB_019_OnNotGuilty_01
+Le juge est devenu fou ?
+$FAB_019_OnNotGuilty_02
+Paris ne te pardonnera pas.
+$FAB_019_01x02_00_QTitle
+Veux-tu dénoncer tes complices ?
+$FAB_019_01x02_00_00
+Veux-tu dénoncer tes complices ?
+$FAB_019_01x02_00_01
+Je n'ai pas de complices, car il n'y avait aucun projet de soulèvement. Je savais que l'idée d'une grande conspiration convaincrait Marat de me recevoir.
+$FAB_019_01x02_00_02
+C'est une rusée.
+$FAB_019_01x02_00_03
+Tu es venue de Caen ? C'est bien loin de Paris.
+$FAB_019_01x02_00_04
+Le voyage est passé vite, car j'étais concentrée sur mon but et sur le plaisir que j'avais à imaginer Marat se vider de son sang.
+$FAB_019_01x02_00_05
+Tu t'es aussi assurée de porter une belle tenue…
+$FAB_019_01x02_00_06
+Une belle tenue pour la guillotine, pas pour Marat.
+$FAB_019_01x02_00_07
+On dirait que tu veux mourir.
+$FAB_019_01x02_00_08
+Si tel est le prix de la liberté et de l'égalité. Au moins, je suis d'accord avec Marat sur un point : le changement nécessaire pour la France doit être introduit par la force. J'ai utilisé mon inébranlable force de caractère à cet effet.
+$FAB_019_01x06_01_QTitle
+Nous sommes censés croire que tu as agi seule ?
+$FAB_019_01x06_01_00
+Nous sommes censés croire que tu as agi seule ?
+$FAB_019_01x06_01_01
+Pas besoin d'un régiment pour poignarder un homme.
+$FAB_019_01x06_01_02
+Et personne ne t'a aidée à élaborer ton plan ? Tu as insisté…
+$FAB_019_01x06_01_03
+Je le dirai encore une fois clairement : j'ai bien conscience que Monsieur le Juge avait un désaccord avec Marat, mais que tout le monde ici sache que je n'ai pas reçu l'ordre de faire cela du juge Fidèle.
+$FAB_019_01x06_01_04
+Toutes ces coïncidences…
+$FAB_019_01x06_01_05
+Je n'ai pas besoin d'un homme pour administrer la justice. Je n'ai pas besoin d'un homme pour quoi que ce soit. Ma propre volonté de fer est bien suffisante.
+$FAB_019_01x06_01_06
+Pourquoi as-tu souligné…
+$FAB_019_01x06_01_07
+Parce que vous autres faibles d'esprit êtes incapables d'accepter qu'une femme puisse tuer. Marat était pareil.
+$FAB_019_02x04_02_QTitle
+Ce que tu as fait, c'est porter un coup à la France entière. Marat était un citoyen exemplaire…
+$FAB_019_02x04_02_00
+Ce que tu as fait, c'est porter un coup à la France entière. Marat était un citoyen exemplaire, dévoué à la Révolution…
+$FAB_019_02x04_02_01
+C'était un thésauriseur ! Un monstre ! Il n'y a qu'à Paris qu'un homme comme lui peut être considéré comme le sauveur de la nation. Pour nous, à Caen et dans de nombreuses régions de France, il était et sera toujours un simple criminel.
+$FAB_019_02x04_02_02
+Et aussi pour ces compagnons que tu voulais dénoncer ?
+$FAB_019_02x04_02_03
+Vous pensez vraiment que quelqu'un vous dira la vérité ? Vous, qui nourrissez de sang frais la guillotine ?
+$FAB_019_02x04_02_04
+L'action transparente des autorités était censée être la base de la Révolution.
+$FAB_019_02x04_02_05
+Peut-être à Paris, mais dans les campagnes tout est pire que jamais. Avant, nous accusions le roi quand nous avions faim. Maintenant, nous nous accusons nous-mêmes, car nous vous avons mis au pouvoir.
+$FAB_019_02x04_02_06
+Un couteau taché de sang a été trouvé sur les lieux du crime. Est-il à toi ?
+$FAB_019_02x04_02_07
+Oui. Je l'ai acheté peu de temps avant. N'importe qui de secrètement opposé à quelqu'un pourrait porter un tel coup. Avec un simple couteau, et sans ces simagrées que vous organisez chaque jour sur la guillotine.
+$FAB_019_03x04_03_QTitle
+Tuer un homme d'État dans son bain est une insulte pour tout le pays.
+$FAB_019_03x04_03_00
+Tuer un homme d'État dans son bain est une insulte pour tout le pays.
+$FAB_019_03x04_03_01
+Étais-je censée attendre qu'il ait remis sa culotte ?
+$FAB_019_03x04_03_02
+Tu parles d'un grand homme !
+$FAB_019_03x04_03_03
+Pour moi, ce n'était qu'un petit homme bouffi d'arrogance. Je trouve en fait que toute cette situation est bien symbolique.
+$FAB_019_03x04_03_04
+Pourquoi donc ?
+$FAB_019_03x04_03_05
+Il était si démuni. Il ne se doutait de rien, il n'avait pas d'arme… tous comme les victimes de ses articles diffamatoires.
+$FAB_019_03x04_03_06
+Marat ne disait que la vérité…
+$FAB_019_03x04_03_07
+J'ai entendu dire qu'il avait attrapé une maladie de peau en se cachant dans les égouts de Paris. Il en est sorti comme un rat, pour mourir dans sa propre fange.
+$FAB_019_03x04_03_08
+C'est assez.
+$FAB_019_03x04_03_09
+La guillotine va t'accueillir à bras ouverts. Attends un peu !
+$FAB_019_04x06_04_QTitle
+Pourquoi tant de haine envers Marat ?
+$FAB_019_04x06_04_00
+Pourquoi tant de haine envers Marat ?
+$FAB_019_04x06_04_01
+Il était un symbole de tout ce qui gangrène mon pays.
+$FAB_019_04x06_04_02
+Est-ce pour cela que tu es restée après avoir commis le crime ?
+$FAB_019_04x06_04_03
+Je n'ai pas honte. Je n'ai pas à m'enfuir. J'ai tué un homme pour en sauver cent mille, et j'accepterai la mort comme récompense.
+$FAB_019_04x06_04_04
+La chute des girondins était justifiée.
+$FAB_019_04x06_04_05
+Mensonge ! La chute des girondins a été planifiée. Tu as donné ton verdict, et tu es sans doute impliqué là-dedans !
+$FAB_019_04x06_04_06
+Que veux-tu dire ?
+$FAB_019_04x06_04_07
+Le juge que vous voyez ici avait un désaccord avec le ministre Roland, et d'un seul coup les girondins ont été accusés de trahison ! Il n'est pas difficile d'imaginer que le juge Fidèle doit avoir quelque chose à y voir.
+$FAB_019_04x06_04_08
+Assez de ces aspersions.
+$FAB_019_06x07_05_QTitle
+Quand tu as été arrêtée, tu tenais un livre de Plutarque.
+$FAB_019_06x07_05_00
+Quand tu as été arrêtée, tu tenais un livre de Plutarque. Peux-tu nous expliquer ce choix ?
+$FAB_019_06x07_05_01
+Nous connaissons des esprits brillants qui ont grandi avec ce livre et ont appris les idéaux qui y sont décrits. C'est un symbole pour ceux qui doutent.
+$FAB_019_06x07_05_02
+Quel genre de nobles idéaux peuvent justifier l'assassinat d'innocents ?
+$FAB_019_06x07_05_03
+…
+$FAB_019_06x07_05_04
+Réponds à la question !
+$FAB_019_06x07_05_05
+Les rues sont rouges du sang de centaines de victimes innocentes, et vous me posez cette question uniquement pour Marat ? Posez-la aux autres héros de la Révolution… Oh, pardon, c'est vrai qu'ils sont morts aussi. Ils ont déjà été tués par l'idéal qu'ils ont aidé à forger.
+$FAB_019_06x07_05_06
+La mort de cet homme était donc justifiée ?
+$FAB_019_06x07_05_07
+Pas moins que celle des girondins qui ont eu le courage de ne pas être d'accord avec vous. Marat est mort afin que beaucoup d'autres aient une chance de vivre un peu plus longtemps. Quoi ? Vous ne pensiez tout de même pas avoir le monopole de la brutalité ?
+$FAB_019_KEY_01
+Partisane des girondins
+$FAB_019_KEY_02
+La fausse dénonciation
+$FAB_019_KEY_03
+Bain
+$FAB_019_KEY_04
+Coup de couteau
+$FAB_019_KEY_05
+Cris de la victime
+$FAB_019_KEY_06
+Elle a agi seule
+$FAB_019_KEY_07
+Livre de Plutarque
+$FAB_019_LastDialog_00
+Dépêchez-vous.
+$FAB_019_UNIQUE_QUESTION_00
+Quelle était l'arme du crime ?
+$FAB_019_UNIQUE_ANSWER_CORRECT_00_00
+Un couteau.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Une hache.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Une baïonnette.
+$FAB_019_UNIQUE_QUESTION_01
+La prévenue a-t-elle dénoncé ses complices ?
+$FAB_019_UNIQUE_ANSWER_CORRECT_01_00
+Elle a agi seule.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_01_00
+C'étaient des insurgés de Caen.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ce n'était qu'un groupe de criminels parisiens.
+$FAB_019_UNIQUE_QUESTION_02
+Pourquoi la prévenue a-t-elle choisi Marat ?
+$FAB_019_UNIQUE_ANSWER_CORRECT_02_00
+Selon elle, il symbolisait le mal qui étouffait la France.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Il a réclamé dans son journal l'exécution de l'amant de la prévenue.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Elle l'a choisi au hasard.

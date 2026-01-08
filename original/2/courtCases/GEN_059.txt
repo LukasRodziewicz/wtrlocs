@@ -1,0 +1,231 @@
+$GEN_059_DOC_1_HEADER
+Compilé par : Nathan d'Essiraf
+$GEN_059_DOC_1_00
+	Anne de Korff est une <a name="1" class="hidden">veuve</a> de 67 ans qui jouit d'une fortune colossale héritée de son mari défunt, le baron de Clichy. Du temps de l'Ancien Régime, elle comptait parmi les <a name="3" class="hidden">dames de compagnie</a> de Marie-Antoinette. Après la Révolution, elle rompit ses liens avec la cour. Ces derniers temps néanmoins, on l'a vue fréquenter régulièrement <a name="4" class="hidden">les Tuileries</a>, où la famille royale était détenue. Elle a aussi collaboré à l'évasion des Tuileries orchestrée par le comte de Fersen.
+$GEN_059_DOC_1_01
+	Agissant par ordre de de Fersen, de Korff aurait fait l'acquisition d'une <a name="6" class="hidden">nouvelle voiture</a> à son nom. L'achat, commandé à l'atelier de Jean Louis, fut celui d'une berline à six places, suffisante pour transporter la famille royale hors de Paris. Le valet de la baronne, Gilbert, a attesté que la voiture fut livrée au comte peu avant l'évasion.
+$GEN_059_DOC_1_02
+	Il est de notoriété publique que de Fersen, déguisé en cocher, conduisit en personne la voiture jusqu'à Bondy. Lorsqu'on arrêta les monarques à Varennes, Marie-Antoinette détenait curieusement un <a name="7" class="hidden">passeport de fraîche date</a> au nom d'Anne de Korff, identité qu'elle avait adoptée au cours du voyage.
+$GEN_059_DOC_1_03
+	Les rues de Paris font écho à toutes sortes de ragots. On dit que la vieille aristocrate aurait aidé le comte non pas par sympathie envers la famille royale, mais en raison d'une ancienne liaison entre lui et elle, à qui l'on prête un <a name="8" class="hidden">désir inextinguible</a>.
+$GEN_059_DOC_1_04
+Pièce à conviction : <a name="9" class="hidden">Facture </a>émise par Jean Louis
+$GEN_059_DOC_2_TOOLTIP
+Facture
+$GEN_059_DOC_2_00
+Madame la Baronne, 
+	
+	La berline sur mesure que vous avez commandée est prête. Toutes vos instructions ont été suivies à la lettre. Je vous prie de bien vouloir vous acquitter des 70 000 francs par l'entremise de Durand. 
+Soyez assurée de mes plus grands égards, 
+	
+J.L.
+$GEN_059_OnStart_00
+Suppôt de la tyrannie !
+$GEN_059_OnStart_01
+Je te prie de te présenter, citoyenne.
+$GEN_059_OnStart_02
+Je suis la baronne Anne de Korff.
+$GEN_059_OnStart_03
+Anne de Korff, tu es accusée d'avoir pris part à la conspiration ayant mené à l'évasion de la famille royale de France. Plaides-tu coupable ?
+$GEN_059_OnStart_04
+Il s'agit d'une méprise, Monsieur le juge ! Je n'ai rien à voir avec cela !
+$GEN_059_OnStart_05
+Les preuves parlent d'elles-mêmes.
+$GEN_059_OnStart_06
+Impossible !
+$GEN_059_OnGuilty_00
+Je condamne la citoyenne Anne de Korff à être guillotinée ! Emmenez-la.
+$GEN_059_OnGuilty_01
+Voilà comment doivent terminer Capet et sa suite !
+$GEN_059_OnGuilty_02
+Hourra !
+$GEN_059_OnPrison_00
+Je condamne la citoyenne Anne de Korff à être emprisonnée ! Emmenez-la.
+$GEN_059_OnPrison_01
+Quoi ?!
+$GEN_059_OnPrison_02
+Mais où est la justice ?!
+$GEN_059_OnNotGuilty_00
+Je déclare la citoyenne Anne de Korff… non coupable. Que liberté lui soit rendue.
+$GEN_059_OnNotGuilty_01
+C'est un scandale ! Trahison !
+$GEN_059_OnNotGuilty_02
+Peut-être que tu es toi aussi de mèche avec de Fersen ?
+$GEN_059_02x06_00_QTitle
+Combien de voitures y a-t-il dans la remise de l'accusée ?
+$GEN_059_02x06_00_00
+Combien de voitures y a-t-il dans la remise de l'accusée ?
+$GEN_059_02x06_00_01
+Trois, si j'ai bonne mémoire.
+$GEN_059_02x06_00_02
+On arrive pas à se rappeler notre dernière poule au pot et elle sait pas combien de voitures elle a !
+$GEN_059_02x06_00_03
+Pourquoi alors as-tu commandé une autre voiture à l'atelier de Jean Louis ? Une veuve a-t-elle réellement besoin d'une quatrième voiture ?
+$GEN_059_02x06_00_04
+Parce que ma fortune me le permet, Monsieur le juge. Depuis quand les caprices féminins sont-ils des crimes ?
+$GEN_059_02x06_00_05
+Ces caprices le sont dès lors qu'ils servent les conspirations du comte de Fersen. Nous savons qu'il t'a chargée de cet achat.
+$GEN_059_02x06_00_06
+Quelle sottise ! Je l'ai commandée pour mon voyage personnel à Montmédy !
+$GEN_059_06x09_01_QTitle
+Pourrais-tu décrire la voiture que tu as commandée à Jean Louis ?
+$GEN_059_06x09_01_00
+Pourrais-tu décrire la voiture que tu as commandée à Jean Louis ?
+$GEN_059_06x09_01_01
+C'était une berline luxueuse, peinte en vert et jaune.
+$GEN_059_06x09_01_02
+La famille royale a tenté de s'échapper dans une voiture qui correspond exactement à cette description. Où se trouve la voiture à présent ?
+$GEN_059_06x09_01_03
+Je jure n'être en rien liée à l'évasion de Louis et de son épouse !
+$GEN_059_06x09_01_04
+Réponds à la question !
+$GEN_059_06x09_01_05
+Je… voyons… Je l'ai mise à la disposition du comte de Fersen… Mais je jure sur tous les sacrements que j'ignorais le vrai dessein de cette canaille !
+$GEN_059_06x09_01_06
+Tu crois qu'on va tomber dans le panneau ?
+$GEN_059_06x09_01_07
+Quel usage allait-il en faire, selon l'accusée ?
+$GEN_059_06x09_01_08
+Le comte a prétendu qu'elle servirait à l'ambassadeur de Suède. Pourquoi aurais-je dû le mettre en doute ?
+$GEN_059_05x07_02_QTitle
+Comment se fait-il que le passeport de l'accusée était en possession de la reine Marie-Antoinette ?
+$GEN_059_05x07_02_00
+Comment se fait-il que le passeport de l'accusée était en possession de la reine Marie-Antoinette ?
+$GEN_059_05x07_02_01
+Il m'a été dérobé dans mes appartements… Ce doit être l'œuvre du comte de Fersen !
+$GEN_059_05x07_02_02
+Et, bien entendu, tu t'es empressée de signaler ce vol ?
+$GEN_059_05x07_02_03
+J'ai donné ordre à mon valet Gilbert de le faire.
+$GEN_059_05x07_02_04
+La police parisienne n'a reçu aucune plainte, curieusement.
+$GEN_059_05x07_02_05
+Je ne sais que dire… J'ignore complètement pourquoi Gilbert ne s'est exécuté…
+$GEN_059_05x07_02_06
+Et l'accusée ne s'est pas rendu compte qu'il n'en était rien ?
+$GEN_059_05x07_02_07
+Mes journées sont très affairées, voyez-vous, cela a dû me sortir de la tête.
+$GEN_059_05x07_02_08
+Ces pourris d'aristocrates besognent vraiment dur, hein ?
+$GEN_059_04x07_03_QTitle
+Pourquoi l'accusée rendait-elle visite à la famille royale aux Tuileries ?
+$GEN_059_04x07_03_00
+Pourquoi l'accusée rendait-elle visite à la famille royale aux Tuileries ?
+$GEN_059_04x07_03_01
+Par simple désir de compagnie. À mon âge, je dois lutter contre la solitude à Paris.
+$GEN_059_04x07_03_02
+Voilà qui est bien étrange, sachant que l'accusée a pris ses distances avec la cour au début de la Révolution.
+$GEN_059_04x07_03_03
+Je tiens à revoir toutes les personnes que j'ai connues à Versailles avant de mourir. Y a-t-il un mal à cela ?
+$GEN_059_04x07_03_04
+Est-ce durant l'une de ces visites que tu as remis ton passeport à Marie-Antoinette ?
+$GEN_059_04x07_03_05
+Certainement pas ! Un garde était présent et à aucun moment il ne détournait le regard de nous ! Quelle malheureuse, ces terribles gens ne la laissent jamais en paix.
+$GEN_059_04x07_03_06
+Et pourtant, ton passeport a miraculeusement fini entre ses mains.
+$GEN_059_04x07_03_07
+Je n'y suis pour rien !
+$GEN_059_03x05_04_QTitle
+L'accusée a commandé quelque peu précipitamment une voiture et un passeport. Pourquoi donc ?
+$GEN_059_03x05_04_00
+L'accusée a commandé quelque peu précipitamment une voiture neuve et un nouveau passeport. Pourquoi donc ?
+$GEN_059_03x05_04_01
+Madame de Gasperi m'a invitée à Montmédy.
+$GEN_059_03x05_04_02
+Quelle coïncidence, c'est exactement à cette localité que la famille royale devait être conduite !
+$GEN_059_03x05_04_03
+En effet, mais cela ne reste qu'une coïncidence. Elles tendent d'ailleurs à être curieuses et inhabituelles.
+$GEN_059_03x05_04_04
+Elle se moque de nous !
+$GEN_059_05x08_05_QTitle
+De quelle nature est ta relation avec le comte de Fersen ?
+$GEN_059_05x08_05_00
+De quelle nature est ta relation avec le comte de Fersen ?
+$GEN_059_05x08_05_01
+Seulement amicale, Monsieur le juge. À mon âge, il n'y a rien d'autre à attendre… malheureusement.
+$GEN_059_05x08_05_02
+Fut-elle d'une autre nature par le passé ?
+$GEN_059_05x08_05_03
+Pas celle qu'on nous prêtait à la cour, en tout cas.
+$GEN_059_05x08_05_04
+Mais vous vous connaissiez très bien.
+$GEN_059_05x08_05_05
+En quelque sorte, oui. Je lui faisais confiance à l'époque. Mais maintenant, par sa faute, je suis une vieille femme croupissant dans une geôle.
+$GEN_059_03x04_06_QTitle
+Quelle est l'opinion de l'accusée sur la monarchie ?
+$GEN_059_03x04_06_00
+Quelle est l'opinion de l'accusée sur la monarchie ?
+$GEN_059_03x04_06_01
+Je ne m'y connais guère en politique, mais je soutiens la Révolution, si telle est votre question, Monsieur le juge.
+$GEN_059_03x04_06_02
+Est-ce pour cette raison que tu as quitté la cour ?
+$GEN_059_03x04_06_03
+Pour une tout autre raison, qui échappe entièrement à la politique.
+$GEN_059_03x04_06_04
+Laquelle alors ?
+$GEN_059_03x04_06_05
+J'ai eu vent d'insinuations ridicules à mon propos autour d'un petit scandale mêlant un général marié.
+$GEN_059_03x04_06_06
+L'accusée, malgré ces circonstances, a-t-elle entretenu de bonnes relations avec l'épouse du citoyen Capet ? Suffisamment bonnes pour lui venir en aide ?
+$GEN_059_03x04_06_07
+Je ne pouvais que prier pour elle. À mon âge, les forces manquent pour s'employer à des conspirations.
+$GEN_059_01x06_07_QTitle
+Pourquoi une femme seule aurait-elle besoin d'une voiture pouvant accueillir jusqu'à six passagers ?
+$GEN_059_01x06_07_00
+Pourquoi une femme seule aurait-elle besoin d'une voiture pouvant accueillir jusqu'à six passagers ?
+$GEN_059_01x06_07_01
+Parce qu'une femme seule souhaite voyager en compagnie. Il me reste encore des amis que je peux inviter.
+$GEN_059_01x06_07_02
+Ou bien tu comptais aider la famille royale et ses six personnes à s'échapper.
+$GEN_059_01x06_07_03
+Je ne suis pas la seule propriétaire d'une berline à six places dans cette ville, Monsieur le juge.
+$GEN_059_01x06_07_04
+Mais les autres propriétaires ne conspirent pas contre l'État…
+$GEN_059_01x06_07_05
+Avec des voitures, sans doute non.
+$GEN_059_01x06_07_06
+Pour sûr, on est entourés de vipères !
+$GEN_059_KEY_01
+Veuve de 67 ans
+$GEN_059_KEY_02
+Fortune colossale
+$GEN_059_KEY_03
+Dame de compagnie de la reine
+$GEN_059_KEY_04
+Visites fréquentes aux Tuileries
+$GEN_059_KEY_05
+Facilitation de l'évasion
+$GEN_059_KEY_06
+Nouvelle voiture
+$GEN_059_KEY_07
+Nouveau passeport pour la reine
+$GEN_059_KEY_08
+Besoins et désirs de l'accusée
+$GEN_059_KEY_09
+Facture de construction d'une voiture
+$GEN_059_LastDialog_00
+Pourquoi voulez-vous me tuer ? Vous n'avez pas la moindre preuve !
+$GEN_059_UNIQUE_QUESTION_00
+Pourquoi la prévenue avait-elle besoin d'un passeport et d'une voiture ?
+$GEN_059_UNIQUE_ANSWER_CORRECT_00_00
+Elle voulait voyager à Montmédy.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Elle voulait rendre visite à sa famille à Rouen.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Elle comptait acheter une maison à Marseille.
+$GEN_059_UNIQUE_QUESTION_01
+D'après le témoignage, qui utilisait le véhicule de la veuve ?
+$GEN_059_UNIQUE_ANSWER_CORRECT_01_00
+L'ambassadeur de Suède.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Son frère.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Le général Aldric.
+$GEN_059_UNIQUE_QUESTION_02
+Où les inspecteurs ont-ils trouvé le passeport d'Anne de Korff ?
+$GEN_059_UNIQUE_ANSWER_CORRECT_02_00
+Sur Marie-Antoinette.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Sur le comte de Fersen.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Sur l'une des servantes de la reine.

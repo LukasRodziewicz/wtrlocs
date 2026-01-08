@@ -1,0 +1,32 @@
+$DIAL_H_02_03_20_V2_001_JUDGE
+Danke, dass Sie gekommen sind.
+$DIAL_H_02_03_20_V2_002_DAVID
+Wie geht es ihm?
+$DIAL_H_02_03_20_V2_003_JUDGE
+Wie ein junger Mann, der auf das, was ihm widerfahren ist, nicht vorbereitet war.
+$DIAL_H_02_03_20_V2_004_DAVID
+Alexis… Dein Bruder hat mich aufgesucht – der, von dem alle dachten, er sei tot.
+$DIAL_H_02_03_20_V2_005_JUDGE
+Jacques–
+$DIAL_H_02_03_20_V2_006_DAVID
+Lass mich ausreden. Ich achte das Andenken an unsere Freundschaft. Wir haben uns oft gegenseitig geholfen, doch jetzt weiß ich, dass ich aus Loyalität zu dir an etwas sehr Falschem beteiligt war.
+$DIAL_H_02_03_20_V2_007_JUDGE
+Mein Bruder ist ein Monster!
+$DIAL_H_02_03_20_V2_008_DAVID
+Die Revolution hat so viel Blut vergossen, dass wir alle zu Monstern geworden sind. Wir können nur hoffen, dass die Menschen nach unserem Tod uns und all unsere Vergehen vergessen werden.
+$DIAL_H_02_03_20_V2_009_JUDGE
+Du stellst dich lieber auf die Seite des Mörders meines Kindes als auf meine?
+$DIAL_H_02_03_20_V2_010_DAVID
+Dank ihm habe ich endlich begriffen, was wir unserem Land angetan haben, als wir die Macht ungebildeten Menschen mit Äxten und Fackeln überließen. Wir müssen das Gleichgewicht wiederherstellen, und dein Bruder wird genau das tun.
+$DIAL_H_02_03_20_V2_011_JUDGE
+Er ist ein Mörder!
+$DIAL_H_02_03_20_V2_012_DAVID
+So wie du und ich. Der einzige Unterschied zwischen ihm und uns ist, dass man uns mit Medaillen und Statuen ehren wird. Doch ich will keinen solchen Ruhm, der von Verbrechen und Betrug befleckt ist. Jetzt habe ich zum letzten Mal die Chance, mein Schicksal zu wenden.
+$DIAL_H_02_03_20_V2_013_JUDGE
+Was hast du vor?
+$DIAL_H_02_03_20_V2_014_DAVID
+Ich weiß es nicht. Wahrscheinlich werde ich Paris verlassen, solange es noch möglich ist, dann abwarten und mich der neuen Lage anpassen. Dein Gerichtsdiener ist heute Morgen geflohen, und Ramel… Es stellt sich heraus, dass er immer auf der Seite deines Bruders stand und alles getan hat, um dich an diesen Punkt zu bringen.
+$DIAL_H_02_03_20_V2_015_JUDGE
+Also seid ihr alle Verräter …
+$DIAL_H_02_03_20_V2_016_DAVID
+Wenn du die Dinge so siehst, hast du bereits verloren. Leb wohl, mein Freund.

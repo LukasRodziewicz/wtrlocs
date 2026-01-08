@@ -1,0 +1,22 @@
+$EVE_013_TITLE
+I Was a Soldier Once
+$EVE_013_MAIN_01
+Prestige and justice – the supervisors of this noble building find those two virtues essential. Prestige and justice are superior to anything else. The day before yesterday, I had the pleasure of having a few drinks with one of your Guards and we talked about our memories. You are aware that serving in the army is an essential requirement for joining the Court Guard? It is non-negotiable, so this Guard must have sold us a tissue of lies about his military service and the certificate he managed to get is probably forged. Of course, we had had a few drinks…
+$EVE_013_MAIN_01_C1
+Investigate the matter
+$EVE_013_MAIN_01_C2
+Discharge the Guard from service
+$EVE_013_MAIN_01_C3
+Leave the Guard alone
+$EVE_013_MAIN_02A
+What could have been drunken ramblings turn out to be true. It must have been quite a burden for the man. Luckily, he finally found someone he could trust – me. I resolved the matter discreetly. The certificate of military service was forged, and to be certain I asked people who should have known him from the army. Apparently, nobody ever thought such things should be checked. Who would have thought someone could lie about such a thing? It appears this man really wanted this job.
+$EVE_013_MAIN_02A_C1
+Discharge the Guard from service
+$EVE_013_MAIN_02A_C2
+Accuse the Guard of deceit
+$EVE_013_MAIN_02A_C3
+Leave the Guard alone
+$EVE_013_MAIN_02B
+Prestige and justice. I repeated those words over and over again in my mind as I watched this young man's possibilities to make a living become crushed with his dreams. It's a real shame, but there are more important things we should care for, or we won't deserve to be a part of the Revolution.
+$EVE_013_MAIN_02C
+Maybe that is your path to divinity? Like the Hindu goddess Saraswati, you should focus on wisdom and peace.

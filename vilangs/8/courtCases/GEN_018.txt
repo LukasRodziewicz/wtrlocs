@@ -1,0 +1,208 @@
+$GEN_018_DOC_01_HEADER
+Compilado por: Olivier Clementine
+$GEN_018_DOC_01_00
+O réu é Antoine Barnave, político de 32 anos e <a name="1" class="hidden">orador famoso</a>. Os parisienses o recordam por seu discurso inflamado em defesa da monarquia constitucional. É conhecido como um inimigo ferrenho da República e defensor do Rei. Ao perceber que seus esforços políticos eram em vão, juntou-se à Guarda Nacional.
+$GEN_018_DOC_01_01
+Em 1791, durante a notória fuga para Varennes, os Capetos foram detidos pela Guarda. Antoine Barnave e dois outros soldados receberam ordens para <a name="3" class="hidden">escoltar</a> os fugitivos de volta a Paris.
+$GEN_018_DOC_01_02
+Quando Barnave conheceu <a name="4" class="hidden">Maria Antonieta</a>, ficou completamente <a name="5" class="hidden">fascinado</a> por ela. Os dois desenvolveram uma relação que, possivelmente, tinha um teor sexual. Mais tarde, passaram a trocar cartas com frequência. Em suas mensagens, Maria Antonieta frequentemente expressava esperança pela sobrevivência da monarquia absoluta.
+$GEN_018_DOC_01_03
+Pouco tempo depois, Barnave juntou-se aos jacobinos, na esperança de ajudar os Capetos e suavizar a postura radical dos revolucionários em relação ao Cidadão Capeto e Maria Antonieta. No entanto, seus esforços foram em vão.
+$GEN_018_DOC_01_04
+Devido à sua <a name="6" class="hidden">simpatia pela monarquia</a> e pelos Capetos, especialmente por Maria Antonieta, ele esteve sob constante vigilância. Agora, finalmente conseguimos reunir provas suficientes contra ele para apresentar uma acusação.
+$GEN_018_DOC_01_05
+Uma das provas é sua correspondência com Maria Antonieta, que potencialmente revela suas tendências contrarrevolucionárias. Antoine Barnave deve ser punido como qualquer outro inimigo da Revolução!
+$GEN_018_DOC_01_06
+Prova: <a name="8" class="hidden">Cartas</a> que Barnave escreveu para Maria Antonieta.
+$GEN_018_DOC_02_00
+Vossa Alteza! Estou certo de que nossos esforços conjuntos convencerão o povo da França a preservar a Monarquia. A perda de Vossa sabedoria e bondade seria um golpe trágico demais para o Estado suportar. Sempre vosso, Antoine
+$GEN_018_OnStart_00
+Ele se apaixonou por Maria Antonieta!
+$GEN_018_OnStart_01
+Você é o senhor Antoine Barnave?
+$GEN_018_OnStart_02
+Sou eu.
+$GEN_018_OnStart_03
+Você e sua amante, Maria Antonieta, conspiraram contra a França?
+$GEN_018_OnStart_04
+Há tantas mentiras em sua pergunta que não sei qual delas desmentir primeiro.
+$GEN_018_OnStart_05
+Ele tenta se proteger com palavras bonitas.
+$GEN_018_OnStart_06
+Então o senhor não vai confessar a culpa?
+$GEN_018_OnStart_07
+Claro que não.
+$GEN_018_OnGuilty_00
+Não tenho mais perguntas, obrigado.
+$GEN_018_OnGuilty_01
+Condeno o cidadão Antoine Barnave à morte pela guilhotina.
+$GEN_018_OnGuilty_02
+A justiça finalmente foi feita!
+$GEN_018_OnGuilty_03
+É assim que todo tribunal deveria agir. Rápido e decidido!
+$GEN_018_OnPrison_00
+Não tenho mais perguntas, obrigado.
+$GEN_018_OnPrison_01
+Condeno Antoine Barnave à prisão! Levem o condenado e trancem-no em uma cela.
+$GEN_018_OnPrison_02
+Espero que o tempo dele lá não seja nada fácil.
+$GEN_018_OnPrison_03
+Teve sorte!
+$GEN_018_OnPrison_04
+Como você pode ser tão indulgente com os inimigos do Estado?!
+$GEN_018_OnNotGuilty_00
+Não tenho mais perguntas, obrigado.
+$GEN_018_OnNotGuilty_01
+Não vejo culpa no comportamento de Antoine Barnave. Todos têm direito às suas próprias convicções políticas na República.
+$GEN_018_OnNotGuilty_02
+Você serve à Revolução ou não?
+$GEN_018_OnNotGuilty_03
+Esse juiz logo perderá o cargo!
+$GEN_018_OnNotGuilty_04
+Absurdo!
+$GEN_018_OnNotGuilty_05
+O que ele está fazendo aqui?!
+$GEN_018_01x02_00_QTitle
+Há pouco tempo, você estava prestes a alcançar uma carreira brilhante. Lembro-me do seu famoso discurso...
+$GEN_018_01x02_00_00
+Há pouco tempo, você estava destinado a uma carreira brilhante. Lembro do seu famoso discurso em defesa do Cidadão Capet. Seu carisma poderia tê-lo levado ao topo, mas, em vez disso, está aqui. Não se arrepende?
+$GEN_018_01x02_00_01
+Esse discurso não foi contra a Revolução! Eu só quis apelar ao bom senso.
+$GEN_018_01x02_00_02
+Muitos lembram dessa apresentação como um ataque a tudo o que começou na França em 14 de julho.
+$GEN_018_01x02_00_03
+Isso é um absurdo, as mudanças eram indispensáveis. A monarquia constitucional é uma alternativa sensata ao antigo regime.
+$GEN_018_01x02_00_04
+Então, na sua opinião, pessoas que trouxeram desgraça à França deveriam continuar vivendo em palácios?
+$GEN_018_01x02_00_05
+Não acho que devam ser guilhotinados apenas por sua ascendência.
+$GEN_018_03x04_01_QTitle
+Você escoltou os membros da família real fugitivos de volta a Paris.
+$GEN_018_03x04_01_00
+Você escoltou os membros da família real fugitivos de volta a Paris. Viu nisso uma chance de usar seus novos aliados em benefício próprio?
+$GEN_018_03x04_01_01
+De jeito nenhum! Vi pessoas acuadas, apavoradas, e decidi interceder por elas.
+$GEN_018_03x04_01_02
+Onde você estava quando eles nos perseguiam?
+$GEN_018_03x04_01_03
+Talvez tenha sido o seu desejo por Maria Antonieta que o guiou? As circunstâncias não eram nada românticas, mas… quem pode saber…
+$GEN_018_03x04_01_04
+Essa é uma insinuação desnecessária e infundada, sem qualquer relação com o caso.
+$GEN_018_03x04_01_05
+Será que Capeto gostava de assistir a tudo isso…
+$GEN_018_06x07_02_QTitle
+Você não teve medo de apoiar abertamente os monarquistas às vésperas da Revolução?
+$GEN_018_06x07_02_00
+Você não teve medo de apoiar abertamente os monarquistas às vésperas da Revolução? Isso poderia ser interpretado como traição.
+$GEN_018_06x07_02_01
+Posso ser jovem e idealista, mas não sou um traidor!
+$GEN_018_06x07_02_02
+Se isso fosse verdade, você estaria do outro lado.
+$GEN_018_06x07_02_03
+Amo este país e tenho certeza de que a República pela qual os revolucionários lutam não é uma panaceia.
+$GEN_018_06x07_02_04
+Se você luta contra a República, luta contra a própria França!
+$GEN_018_02x08_03_QTitle
+Parece que, em suas cartas para Maria Antonieta, o senhor tentou convencê-la...
+$GEN_018_02x08_03_00
+Parece que, em suas cartas para Maria Antonieta, você tentou convencer ela e seu marido a apoiar a Revolução. O que ganharia com isso?
+$GEN_018_02x08_03_01
+Acreditei que conseguiríamos evitar o terror que agora enfrentamos.
+$GEN_018_02x08_03_02
+Por que você acha que há terror em nosso país?
+$GEN_018_02x08_03_03
+Se fosse diferente, eu não estaria aqui agora.
+$GEN_018_02x08_03_04
+Você está aí porque é um porco realista!
+$GEN_018_02x08_03_05
+Os Capetos não tinham interesse na constituição?
+$GEN_018_02x08_03_06
+Infelizmente, não.
+$GEN_018_02x08_03_07
+E o que você ganharia com isso?
+$GEN_018_02x08_03_08
+Eu só queria o melhor para o meu país.
+$GEN_018_01x03_04_QTitle
+Por que a Guarda escolheu você para escoltar os Capetos?
+$GEN_018_01x03_04_00
+Por que a Guarda escolheu você para escoltar os Capetos?
+$GEN_018_01x03_04_01
+Na Guarda, não se questionam ordens. Mandaram-me cumprir uma tarefa, e foi exatamente isso que fiz.
+$GEN_018_01x03_04_02
+Então você não pediu por isso?
+$GEN_018_01x03_04_03
+Como eu poderia? Só soube da fuga do Cidadão Capet quando recebi a ordem.
+$GEN_018_01x03_04_04
+Ainda assim, o senhor se beneficiou disso, não foi?
+$GEN_018_01x03_04_05
+Considerando onde estou, creio que não é bem assim.
+$GEN_018_05x04_05_QTitle
+Por que Maria Antonieta causou tanta impressão em você quando se conheceram pela primeira vez?
+$GEN_018_05x04_05_00
+Por que Maria Antonieta causou tanta impressão em você quando a conheceu pela primeira vez?
+$GEN_018_05x04_05_01
+Ela é uma mulher de modos impecáveis e uma sofisticação notável. Seria cego quem não percebesse isso.
+$GEN_018_05x04_05_02
+Se apaixonou por ela feito um garoto!
+$GEN_018_05x04_05_03
+Sério?
+$GEN_018_05x04_05_04
+Maria Antonieta era uma mulher casada e eu sou um homem decente. Tire suas próprias conclusões.
+$GEN_018_05x04_05_05
+Ouvi boatos de que a aliança de casamento nunca significou muito para ela.
+$GEN_018_05x04_05_06
+E você sabe que rumores não são a melhor fonte de conhecimento?
+$GEN_018_05x08_06_QTitle
+Você já chegou a declarar seus sentimentos por Maria Antonieta em suas cartas para ela?
+$GEN_018_05x08_06_00
+Você já chegou a declarar seus sentimentos por Maria Antonieta em suas cartas para ela?
+$GEN_018_05x08_06_01
+Você não leu nossas cartas com atenção? Eu jamais ousaria cortejar a Rainha da França!
+$GEN_018_05x08_06_02
+Você escreveu sobre a sabedoria e a bondade dela. Parece que estava elogiando-a.
+$GEN_018_05x08_06_03
+Foram apenas gentilezas.
+$GEN_018_05x08_06_04
+Talvez fosse ela quem o seduzia? Aquela austríaca era insaciável.
+$GEN_018_KEY_01
+Orador famoso
+$GEN_018_KEY_02
+Restabelecimento da monarquia
+$GEN_018_KEY_03
+Escolta do cidadão Capet
+$GEN_018_KEY_04
+Maria Antonieta
+$GEN_018_KEY_05
+Encantado pela Rainha
+$GEN_018_KEY_06
+Simpatia pelos monarquistas
+$GEN_018_KEY_07
+Tendências contrarrevolucionárias
+$GEN_018_KEY_08
+Cartas endereçadas a Maria Antonieta
+$GEN_018_LastDialog_00
+Cumpri meu dever quando o rei era sinônimo da França, e é assim que a França me retribui...
+$GEN_018_UNIQUE_QUESTION_00
+Segundo o cidadão Barnave, que tipo de sistema político a França deveria ter?
+$GEN_018_UNIQUE_ANSWER_CORRECT_00_00
+Monarquia constitucional.
+$GEN_018_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Democracia.
+$GEN_018_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Anarquia.
+$GEN_018_UNIQUE_QUESTION_01
+Quais virtudes da Rainha encantaram o réu?
+$GEN_018_UNIQUE_ANSWER_CORRECT_01_00
+Sua cultura e classe.
+$GEN_018_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Sua beleza e graça.
+$GEN_018_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Seu talento e formação.
+$GEN_018_UNIQUE_QUESTION_02
+Como o réu soube da fuga do cidadão Capet?
+$GEN_018_UNIQUE_ANSWER_CORRECT_02_00
+De uma ordem.
+$GEN_018_UNIQUE_ANSWER_NOT_CORRECT_02_00
+De uma carta que Maria Antonieta lhe escreveu.
+$GEN_018_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Ele ouviu uma conversa dos criados.

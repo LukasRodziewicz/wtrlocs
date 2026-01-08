@@ -1,0 +1,434 @@
+$TUTORIAL_1_01_TITLE
+Dokumente und Briefe
+$TUTORIAL_1_01_MAIN
+Ziehen Sie die Dokumente per Drag & Drop, um ihre Anordnung zu ändern. Klicken Sie, um den Inhalt anzuzeigen.
+$TUTORIAL_1_02_TITLE
+Notizbuch
+$TUTORIAL_1_02_MAIN
+Detaillierte Informationen zu aktuellen Ereignissen, Handlungen und Charakteren einsehen.
+$TUTORIAL_1_03_TITLE
+Urteil
+$TUTORIAL_1_03_MAIN
+Berücksichtigen Sie die Folgen und entscheiden Sie über das Schicksal des Angeklagten.
+$TUTORIAL_1_04_TITLE
+Ereignisse
+$TUTORIAL_1_04_MAIN
+Reagieren Sie auf Ereignisse. Sie zu ignorieren kann schwerwiegende Folgen haben.
+$TUTORIAL_1_05_TITLE
+Protokoll und Bericht
+$TUTORIAL_1_05_MAIN
+Machen Sie sich mit den Einzelheiten des Falls vertraut und vervollständigen Sie die Akten.
+$TUTORIAL_1_06_TITLE
+Einfluss-Punkte
+$TUTORIAL_1_06_MAIN
+Einflusspunkte sind die wichtigste Ressource im Spiel. Setzen Sie sie mit Bedacht ein.
+$TUTORIAL_1_07_TITLE
+Hierarchie
+$TUTORIAL_1_07_MAIN
+Überprüfen Sie das aktuelle Machtgleichgewicht in Paris und Ihre Stellung darin.
+$TUTORIAL_1_08_TITLE
+Optionen
+$TUTORIAL_1_08_MAIN
+Ändern Sie die Spieleinstellungen.
+$TUTORIAL_1_09_TITLE
+Publikum
+$TUTORIAL_1_09_MAIN
+Das Verhör des Angeklagten könnte das ungeduldige Publikum aufwühlen. Ist die Menge erst einmal erzürnt, könnte es sogar zu einem Aufruhr kommen.
+$TUTORIAL_1_10_TITLE
+Geschworene
+$TUTORIAL_1_10_MAIN
+Wer sich systematisch gegen die Meinung der Geschworenen stellt, muss mit ernsthaften Konsequenzen rechnen.
+$TUTORIAL_1_11_TITLE
+Weiter
+$TUTORIAL_1_11_MAIN
+Nach dem Prozess klicken, um zum nächsten Abschnitt zu gelangen.
+$TUTORIAL_1_12_TITLE
+Protokoll
+$TUTORIAL_1_12_MAIN
+Überprüfen Sie die Prozessakten.
+$TUTORIAL_1_13_TITLE
+Bericht
+$TUTORIAL_1_13_MAIN
+Füllen Sie den Bericht aus, indem Sie die Fragen des Staatsanwalts beantworten. Falsche Antworten können Ihren Ruf beeinträchtigen und Sie Ihr Amt als Richter kosten!
+$TUTORIAL_1_14_TITLE
+Gunst
+$TUTORIAL_1_14_MAIN
+Je mehr Fehler Sie im Bericht machen, desto größer ist Ihr Risiko, abberufen zu werden. Später können Sie die Möglichkeit freischalten, Einfluss auf die Entscheidung des Staatsanwalts über den Bericht zu nehmen.
+$TUTORIAL_1_15_TITLE
+Akte
+$TUTORIAL_1_15_MAIN
+Prüfen Sie Anklagepunkte und Fakten. So können Sie leichter Fragen für den Angeklagten freischalten.
+$TUTORIAL_1_16_TITLE
+Verbindungen suchen
+$TUTORIAL_1_16_MAIN
+Finden Sie die richtigen Verbindungen, um Fragen an den Angeklagten freizuschalten. Wählen Sie eine Spur aus und ordnen Sie sie der passenden Kategorie zu.
+$TUTORIAL_1_17_TITLE
+Versuche
+$TUTORIAL_1_17_MAIN
+Beim Verknüpfen von Hinweisen und Kategorien dürfen Sie nur eine begrenzte Anzahl an Fehlern machen. Bei zu vielen Fehlern wird das gesamte System gesperrt.
+$TUTORIAL_1_19_TITLE
+Fragen
+$TUTORIAL_1_19_MAIN
+Sammeln Sie Informationen und beeinflussen Sie die Haltung der Geschworenen, indem Sie den Angeklagten befragen.
+$TUTORIAL_1_20_TITLE
+Fragen freischalten
+$TUTORIAL_1_20_MAIN
+Um Fragen zu stellen, müssen Sie sie zuerst im Verknüpfungsmenü für Nachforschungen freischalten.
+$TUTORIAL_1_21_TITLE
+Frageeffekt
+$TUTORIAL_1_21_MAIN
+Das Wohlwollen der Geschworenen ermöglicht es Ihnen, nach einer gestellten Frage zu erkennen, in welche Richtung ihr Urteil tendiert.
+$TUTORIAL_1_22_TITLE
+Strafe
+$TUTORIAL_1_22_MAIN
+Treffen Sie die wichtigste Entscheidung: Verurteilen Sie den Angeklagten oder sprechen Sie ihn frei.
+$TUTORIAL_1_23_TITLE
+Unterschrift
+$TUTORIAL_1_23_MAIN
+Unterschreiben Sie das Dokument, um Ihr Urteil rechtskräftig zu machen.
+$TUTORIAL_1_24_TITLE
+Intelligenz
+$TUTORIAL_1_24_MAIN
+Sehen Sie, wie ein Urteil die Fraktionen beeinflusst. Sehr schlechte Beziehungen zu einer Fraktion verhindern, dass Sie entsprechende Informationen erhalten.
+$TUTORIAL_1_25_TITLE
+Treffen Sie Ihre Entscheidung
+$TUTORIAL_1_25_MAIN
+Jede Aktion kann eine unterschiedliche Anzahl an Einfluss-Punkten erfordern und hat eine eigene Erfolgschance. Überlegen Sie gut!
+$TUTORIAL_1_26_TITLE
+Beziehungen
+$TUTORIAL_1_26_MAIN
+Schlechte Beziehungen zu Fraktionen bringen Ihnen Nachteile (z. B. steigt die Unruhe in Paris).
+$TUTORIAL_1_27_TITLE
+Ruf
+$TUTORIAL_1_27_MAIN
+Der Ruf beeinflusst alles in der Welt des Spiels: Fraktionen, familiäre Beziehungen, die Stimmung des Publikums, die Leidenschaft in den Sektionen und sogar die Fähigkeit, andere Charaktere zu überzeugen.
+$TUTORIAL_1_28_TITLE
+Einflusspunkte
+$TUTORIAL_1_28_MAIN
+Du hast pro Tag eine festgelegte Anzahl an Einfluss-Punkten. In Zukunft kannst du dieses Limit erhöhen.
+$TUTORIAL_1_29_TITLE
+Benachrichtigungen
+$TUTORIAL_1_29_MAIN
+Achten Sie genau auf Veränderungen Ihres Einflusses und Ihrer Beziehungen zu den Fraktionen.
+$TUTORIAL_1_30_TITLE
+Globale Modifikatoren
+$TUTORIAL_1_30_MAIN
+Einige deiner Entscheidungen und Veränderungen in der Spielwelt können globale Modifikatoren auslösen. Diese Faktoren beeinflussen Beziehungen, Ruf und Einfluss. Du kannst sie im Notizbuch einsehen.
+$TUTORIAL_1_31_TITLE
+Fallen
+$TUTORIAL_1_31_MAIN
+In manchen Fällen können sich irreführende Fallen verbergen. Lies die Akten sorgfältig, um die für den Fall unwichtigen Hinweise zu erkennen.
+$TUTORIAL_1_32_TITLE
+Schnellverfahren
+$TUTORIAL_1_32_MAIN
+Entscheiden Sie mit Bedacht über das Schicksal jedes Angeklagten. Ihre Entscheidung ist unwiderruflich. Achten Sie darauf, wer den Angeklagten unterstützt.
+$TUTORIAL_1_33_TITLE
+Erwartetes Urteil
+$TUTORIAL_1_33_MAIN
+Finden Sie heraus, welches Urteil die Fraktionen und Ihre Angehörigen erwarten.
+$TUTORIAL_1_34_TITLE
+Intrigen
+$TUTORIAL_1_34_MAIN
+Intrigen sind komplexe Auseinandersetzungen zwischen Ihnen und einem anderen politischen Akteur. Eine Niederlage könnte für Sie verheerende Folgen haben.
+$TUTORIAL_1_35_TITLE
+Der Adel tritt hervor
+$TUTORIAL_1_35_MAIN
+Von nun an müssen Sie Beziehungen zu einer weiteren politischen Gruppe in Paris pflegen.
+$TUTORIAL_2_01_TITLE
+Familienaktionen
+$TUTORIAL_2_01_MAIN
+Nach Ihrer Rückkehr nach Hause können Sie entscheiden, wie Sie den Rest des Tages verbringen möchten.
+$TUTORIAL_2_02_TITLE
+Verschiedene Aktionen
+$TUTORIAL_2_02_MAIN
+Jede Handlung wirkt sich auf die anderen Familienmitglieder aus und beeinflusst auch ihre Einstellung Ihnen gegenüber.
+$TUTORIAL_2_03_TITLE
+Einstellungen der Charaktere
+$TUTORIAL_2_03_MAIN
+Die Einstellung jeder Figur kann Ihnen bestimmte Boni verschaffen oder entziehen (z. B. Ruf oder Beziehungen zu Fraktionen).
+$TUTORIAL_2_04_TITLE
+Jüngster Sohn
+$TUTORIAL_2_04_MAIN
+Ihr jüngster Sohn ist etwas Besonderes: Durch seine Art mögen die anderen Familienmitglieder Sie ein wenig mehr. Kümmern Sie sich gut um ihn.
+$TUTORIAL_2_05_TITLE
+Gesperrte Aktion
+$TUTORIAL_2_05_MAIN
+Nach verschiedenen bedeutenden Ereignissen kann es geschehen, dass Ihnen eine Handlung aufgezwungen wird. An diesem Tag ernten Sie, was Sie gesät haben.
+$TUTORIAL_3_01_TITLE
+Sektionen von Paris
+$TUTORIAL_3_01_MAIN
+Jeder Abschnitt kann von Ihnen, vom Feind oder neutral kontrolliert werden.
+$TUTORIAL_3_02_TITLE
+Kontrollierte Abschnitte
+$TUTORIAL_3_02_MAIN
+Jeder von Ihnen übernommene Bezirk verschafft Ihnen einen zusätzlichen Einfluss-Punkt. In Ihrem eigenen Gebiet ist die Erfolgswahrscheinlichkeit von Missionen erhöht.
+$TUTORIAL_3_03_TITLE
+Gesperrte Abschnitte
+$TUTORIAL_3_03_MAIN
+Einige Bereiche sind gesperrt. Schalte sie mit einem beliebigen Agenten frei, um dort Aktionen durchzuführen.
+$TUTORIAL_3_04_TITLE
+Feindliche Abschnitte
+$TUTORIAL_3_04_MAIN
+Feindliche Agenten können auch eure Abschnitte übernehmen. Aktionen in feindlichen Abschnitten haben geringere Erfolgschancen.
+$TUTORIAL_3_05_TITLE
+Aufstände
+$TUTORIAL_3_05_MAIN
+Aufstände blockieren Agenten (außer den Schläger) und verhindern, dass du Einfluss-Punkte aus dem Bezirk erhältst. Werden sie nicht niedergeschlagen, machen Aufstände einen Bezirk neutral und können sich rasch ausbreiten.
+$TUTORIAL_3_06_TITLE
+Bericht
+$TUTORIAL_3_06_MAIN
+Der Bericht enthält eine Zusammenfassung aller Ereignisse auf der Karte.
+$TUTORIAL_3_07_TITLE
+Bericht – Schnellzugriff
+$TUTORIAL_3_07_MAIN
+Um es erneut zu öffnen, klicken Sie auf das Berichtssymbol.
+$TUTORIAL_3_08_TITLE
+Spieleragenten
+$TUTORIAL_3_08_MAIN
+Schicken Sie Agenten auf Missionen, bändigen Sie aufgebrachte Menschenmengen und kämpfen Sie um Einfluss über die Stadt. Klicken Sie auf einen Agenten und wählen Sie die Aktion, die er ausführen soll.
+$TUTORIAL_3_09_TITLE
+Bewegung
+$TUTORIAL_3_09_MAIN
+Sie können Ihre Agenten frei zwischen Ihren Sektoren bewegen. In feindlichen oder neutralen Sektoren können sie sich jedoch nur ein Feld pro Tag fortbewegen.
+$TUTORIAL_3_10_TITLE
+Schläger
+$TUTORIAL_3_10_MAIN
+Der Schläger eignet sich hervorragend für Kämpfe, den Gewinn von Ansehen und das Zügeln aufgebrachter Menschenmengen.
+$TUTORIAL_3_11_TITLE
+Diplomat
+$TUTORIAL_3_11_MAIN
+Übernimmt Bezirke, pflegt Beziehungen zu Fraktionen und senkt die Unruhe in den Bezirken. In Duellen gegen feindliche Agenten weniger stark.
+$TUTORIAL_3_12_TITLE
+Spion
+$TUTORIAL_3_12_MAIN
+Spioniert für den Feind, lockt Gegner in Fallen und unterstützt den Diplomaten bei der Kontrolle eines Gebiets.
+$TUTORIAL_3_13_TITLE
+Muskadiner
+$TUTORIAL_3_13_MAIN
+Sie durchkreuzen Ihre Pläne und die Ihrer Feinde, indem sie die Menge in den Sektionen aufwiegeln.
+$TUTORIAL_3_14_TITLE
+Revolutionspatrouille
+$TUTORIAL_3_14_MAIN
+Die Patrouille kann Ihren Agenten festnehmen oder einen feindlichen Agenten gefangen nehmen.
+$TUTORIAL_3_15_TITLE
+Abschnitt freischalten
+$TUTORIAL_3_15_MAIN
+Um einen Abschnitt freizuschalten, musst du ihn zuerst auskundschaften. Du kannst nur Abschnitte freischalten, die an bereits freigeschaltete angrenzen.
+$TUTORIAL_3_16_TITLE
+Hauptbereich
+$TUTORIAL_3_16_MAIN
+Ihr Hauptsektor ist von entscheidender Bedeutung. Die Gebäude hier ermöglichen es Ihnen, den weiteren Verlauf des Spiels zu beeinflussen. Schützen Sie ihn um jeden Preis. Verlieren Sie die Kontrolle darüber, ist das Spiel verloren.
+$TUTORIAL_3_17_TITLE
+Inbrunst
+$TUTORIAL_3_17_MAIN
+Jede Sektion reagiert auf die Lage im Spiel und lässt die Leidenschaft ihrer Bewohner steigen oder sinken. Wird ihr Eifer zu groß, kann es zu zerstörerischen Aufständen kommen.
+$TUTORIAL_3_18_TITLE
+Feindliche Agenten
+$TUTORIAL_3_18_MAIN
+Feindliche Agenten werden mit deinen Agenten um Gebiete kämpfen. Sie können deine Abschnitte oder neutrale Abschnitte übernehmen.
+$TUTORIAL_3_19_TITLE
+Kampf
+$TUTORIAL_3_19_MAIN
+Treffen mindestens zwei feindliche Agenten in einem Abschnitt aufeinander, kommt es zum Kampf. Denken Sie daran, dass ein Diplomat gegen einen brutalen Kämpfer kaum eine Chance hat.
+$TUTORIAL_3_20_TITLE
+Verwundeter Agent
+$TUTORIAL_3_20_MAIN
+Nach einer Niederlage im Kampf wird dein Agent verletzt. Er kann sich weiterhin bewegen, aber keine Aktionen mehr ausführen.
+$TUTORIAL_3_21_TITLE
+Monumentbau
+$TUTORIAL_3_21_MAIN
+Je mehr Abschnitte Sie kontrollieren, desto schneller schreitet der Bau des Monuments voran. Mit jedem weiteren Bauabschnitt können Sie ein weiteres Gebäude in der Nähe des Monuments übernehmen.
+$TUTORIAL_3_22_TITLE
+Gebäude
+$TUTORIAL_3_22_MAIN
+Jedes Gebäude ermöglicht eine andere Art von Aktion. Übernehmt die Gebäude, die zu eurem Spielstil passen.
+$TUTORIAL_3_23_TITLE
+Garnison
+$TUTORIAL_3_23_MAIN
+Die Garnison stellt in jeder Runde Verstärkungen bereit. Je höher Ihr Ruf, desto mehr Soldaten schließen sich Ihnen an.
+$TUTORIAL_3_24_TITLE
+Überläufer
+$TUTORIAL_3_24_MAIN
+In jedem Bezirk von Paris versuchen Menschen, der Grausamkeit des Feindes zu entkommen. Schützen Sie sie so lange wie möglich – Ihr Ruf steht auf dem Spiel.
+$TUTORIAL_3_25_TITLE
+Feindlicher Angriff
+$TUTORIAL_3_25_MAIN
+Sie wurden angegriffen. Wenn Sie keine Truppen in diesem Bezirk haben, verlieren Sie automatisch.
+$TUTORIAL_3_26_TITLE
+Wählen Sie Ihren General
+$TUTORIAL_3_26_MAIN
+Sie können die Schlacht selbst führen oder die Hilfe von General Dumas annehmen (die Schlacht wird dann automatisch ausgetragen).
+$TUTORIAL_3_27_TITLE
+Feindlicher General
+$TUTORIAL_3_27_MAIN
+Jeder feindliche General hat seine eigenen bevorzugten Taktiken und Kniffe.
+$TUTORIAL_3_28_TITLE
+Statistikansicht.
+$TUTORIAL_3_28_MAIN
+Anzeige der verbleibenden Flüchtlinge in den Bezirken ein- oder ausschalten.
+$TUTORIAL_4_01_TITLE
+Guillotine
+$TUTORIAL_4_01_MAIN
+Gewinnen Sie die Gunst der Menge mit einer Rede oder schreiten Sie direkt zur Hinrichtung.
+$TUTORIAL_4_02_TITLE
+Rede
+$TUTORIAL_4_02_MAIN
+Denken Sie daran: Sobald Sie Ihre Rede beginnen, gibt es kein Zurück mehr. Eine unbeholfene oder ungeschickte Ansprache bringt Ihnen nur Spott des Publikums ein.
+$TUTORIAL_4_03_TITLE
+Stimmung der Menge
+$TUTORIAL_4_03_MAIN
+Je nach deinem Ruf wird die Menge mehr oder weniger aggressiv auftreten.
+$TUTORIAL_4_05_TITLE
+Wachen
+$TUTORIAL_4_05_MAIN
+Wenn Sie die Wachen rufen, könnten Sie einem Angriff durch den wütenden Mob entgehen.
+$TUTORIAL_5_01_TITLE
+Ein Würfelspiel
+$TUTORIAL_5_01_MAIN
+Besiegen Sie Ihren Gegner, indem Sie die höchstmögliche Punktzahl erreichen. Eine Niederlage kann Ihrem Ruf schaden.
+$TUTORIAL_5_02_TITLE
+Züge
+$TUTORIAL_5_02_MAIN
+Das Spiel dauert fünf Runden, und der Spieler mit der höchsten Gesamtpunktzahl gewinnt.
+$TUTORIAL_5_03_TITLE
+Würfeln
+$TUTORIAL_5_03_MAIN
+Würfeln Sie mit sechs Würfeln und hoffen Sie auf das beste Ergebnis!
+$TUTORIAL_5_04_TITLE
+Neu würfeln
+$TUTORIAL_5_04_MAIN
+Wenn Sie mit Ihrem Ergebnis unzufrieden sind, können Sie im gesamten Spiel die Würfel bis zu drei Mal neu werfen.
+$TUTORIAL_5_05_TITLE
+Eine Runde ausgeben
+$TUTORIAL_5_05_MAIN
+Betrinken Sie Ihren Gegner, um seine Gewinnchancen zu verringern. Trinken ermöglicht Ihnen außerdem, mehr Würfel neu zu werfen.
+$TUTORIAL_5_06_TITLE
+Punktewertung
+$TUTORIAL_5_06_MAIN
+Punkte erhältst du, wenn mehrere Würfel denselben Wert zeigen. Je höher die Augenzahl, desto besser dein Ergebnis.
+$TUTORIAL_5_07_TITLE
+Detaillierte Wertung
+$TUTORIAL_5_07_MAIN
+Sehen Sie sich die detaillierte Wertung an und achten Sie auf das besondere Ergebnis!
+$TUTORIAL_5_08_TITLE
+Gefallen
+$TUTORIAL_5_08_MAIN
+Gefälligkeiten ermöglichen es Ihnen, den Staatsanwalt im Gericht dazu zu bringen, Ihren Bericht zu unterzeichnen. Das kann Sie vor dem Verlust Ihres Amtes bewahren, falls Sie Ihren Pflichten nicht nachkommen.
+$TUTORIAL_6_01_TITLE
+Ihre Stellung
+$TUTORIAL_6_01_MAIN
+Je höher Ihr Rang in der politischen Arena von Paris, desto größer ist Ihr Ruf-Bonus.
+$TUTORIAL_6_07_TITLE
+Fortschrittsbalken
+$TUTORIAL_6_07_MAIN
+Führen Sie die richtigen Aktionen aus, um die Fortschrittsleiste zu füllen. Wenn Sie zu wenige ausführen, verlieren Sie. Wenn Sie mehr als nötig erledigen, erhalten Sie einen Bonus.
+$TUTORIAL_6_08_TITLE
+Aktionsfelder
+$TUTORIAL_6_08_MAIN
+Intrigenaktionen werden als Aktionsfelder angezeigt. Klicken Sie, um die Beschreibung zu lesen und eine Entscheidung zu treffen oder jemanden zu überreden.
+$TUTORIAL_6_09_TITLE
+Überzeugung
+$TUTORIAL_6_09_MAIN
+Um eine Aktion erfolgreich durchzuführen, musst du die erforderliche Anzahl an Personen überzeugen. Du kannst auch deinen Diplomaten schicken, um dies für dich zu erledigen. Denk daran: Das ist nur möglich, solange das Feld aktiv ist.
+$TUTORIAL_6_10_TITLE
+Lösungswege
+$TUTORIAL_6_10_MAIN
+Manche Handlungen erfordern taktische Entscheidungen. Jede Wahl kann unterschiedliche Erfolgschancen haben.
+$TUTORIAL_6_11_TITLE
+Ergebnisse werden erwartet
+$TUTORIAL_6_11_MAIN
+Intrigen werden innerhalb weniger Tage ausgeführt. Die Ergebnisse mancher Aktionsfelder sind erst am nächsten Tag sichtbar.
+$TUTORIAL_6_12_TITLE
+Gegenangriffe
+$TUTORIAL_6_12_MAIN
+Von Zeit zu Zeit kann Ihr Feind Ihre Pläne mit einem Gegenangriff durchkreuzen. In solchen Momenten müssen Sie schnell und überlegt reagieren.
+$TUTORIAL_6_13_TITLE
+Wichtige Entscheidungen
+$TUTORIAL_6_13_MAIN
+Manchmal müssen Sie eine Entscheidung treffen, die eine ganze Intrige beeinflusst. Überlegen Sie sorgfältig.
+$TUTORIAL_7_01_TITLE
+Schlachten
+$TUTORIAL_7_01_MAIN
+Schlachten sind dynamische Gefechte zwischen zwei verfeindeten Armeen. Dabei kommen Infanterie, Schützen und Artillerie zum Einsatz.
+$TUTORIAL_7_02_TITLE
+Feinde
+$TUTORIAL_7_02_MAIN
+Feindliche Generäle können unterschiedliche Vorlieben in Bezug auf ihre Taktik haben.
+$TUTORIAL_7_05_TITLE
+Taktik auswählen
+$TUTORIAL_7_05_MAIN
+Jede Taktik bestimmt, wie Angriff oder Verteidigung geführt werden, und beeinflusst die kleinen Boni, die deine Truppen im Kampf erhalten.
+$TUTORIAL_7_06_TITLE
+Arzt
+$TUTORIAL_7_06_MAIN
+Der Arzt versorgt eure verwundeten Truppen und gewährt einen Bonus auf Lebenspunkte. Denkt daran: Sterben die Truppen, stirbt auch der Arzt mit ihnen!
+$TUTORIAL_7_08_TITLE
+Flüchtlinge
+$TUTORIAL_7_08_MAIN
+In jeder Runde eines Kampfes entkommen eine bestimmte Anzahl von Menschen aus der Sektion. Je länger ihr dem Gefecht standhaltet, desto mehr Menschen werdet ihr retten.
+$TUTORIAL_7_09_TITLE
+Machtverhältnisse
+$TUTORIAL_7_09_MAIN
+Das Kräfteverhältnis kann sich während der Schlacht verändern. Behalte die entsprechenden Anzeigen im Blick und nutze die gewonnenen Informationen, um die richtige Taktik zu wählen.
+$TUTORIAL_7_10_TITLE
+Logistik-Spezialist
+$TUTORIAL_7_10_MAIN
+Dieser Spezialist erhöht die Zahl der Menschen, die aus dem Abschnitt entkommen können. Stirbt er im Kampf, musst du in der Hauptsektion einen neuen anwerben.
+$TUTORIAL_7_11_TITLE
+Modifikatoren
+$TUTORIAL_7_11_MAIN
+Während der Kämpfe können zusätzliche Bedingungen auftreten, die deine Truppen oder die Fluchtgeschwindigkeit der Zivilisten beeinflussen.
+$TUTORIAL_8_01_TITLE
+Strategieentwicklung
+$TUTORIAL_8_01_MAIN
+Bevor Sie einen Überzeugungsversuch starten, können Sie verschiedene Herangehensweisen zu allen Gesprächsthemen erkunden. Nachdem Sie jede Gefühlsregung eingesetzt haben, erhalten Sie eine Bewertung Ihrer Entscheidungen.
+$TUTORIAL_8_02_TITLE
+Charaktereigenschaften
+$TUTORIAL_8_02_MAIN
+Jede Haltung bringt eine Reihe von Emotionen mit sich, die sich sowohl positiv als auch negativ auswirken können. Lernen Sie ihre Wirkungen kennen, um die Menschen von Paris ganz nach Ihrem Willen zu lenken.
+$TUTORIAL_8_03_TITLE
+Einstellungen der Charaktere
+$TUTORIAL_8_03_MAIN
+Je höher Ihr Ruf ist, desto mehr erfahren Sie über die Einstellungen der anderen Redner. Diese Informationen können Sie auch erhalten, indem Sie Einfluss-Punkte ausgeben.
+$TUTORIAL_9_01_TITLE
+Urteile im Überlebensmodus
+$TUTORIAL_9_01_MAIN
+Im Überlebensmodus gibt es zwei Arten von Urteilen: Todesstrafe oder Freispruch.
+$TUTORIAL_9_02_TITLE
+Erzielte Punkte und Datum
+$TUTORIAL_9_02_MAIN
+Anzahl der gesammelten Punkte und Tagesnummer.
+$TUTORIAL_9_03_TITLE
+Meinung der Geschworenen
+$TUTORIAL_9_03_MAIN
+Im Überlebensmodus bringt ein Urteil im Einklang mit der Jurymeinung 60 Punkte.
+$TUTORIAL_9_04_TITLE
+Berichtswertung
+$TUTORIAL_9_04_MAIN
+Im Überlebensmodus wird der Bericht auf einer Skala von 0 bis 100 bewertet. Die erreichte Punktzahl richtet sich nach der Anzahl der Fragen und richtigen Antworten.
+$TUTORIAL_9_05_TITLE
+Bonus für den Bericht
+$TUTORIAL_9_05_MAIN
+Für das vollständige und korrekte Ausfüllen des Berichts werden 50 Bonuspunkte vergeben.
+$TUTORIAL_9_06_TITLE
+Aufrechterhaltung der Ordnung
+$TUTORIAL_9_06_MAIN
+Für die Aufrechterhaltung der Ordnung im Gerichtssaal werden 25 Bonuspunkte vergeben.
+$TUTORIAL_9_07_TITLE
+Punktevergabe für freigeschaltete Fragen
+$TUTORIAL_9_07_MAIN
+Im Überlebensmodus werden freigeschaltete Fragen auf einer Skala von 0 bis 100 bewertet. Die erreichte Punktzahl richtet sich nach der Anzahl der freigeschalteten und aller Fragen.
+$TUTORIAL_9_08_TITLE
+Bonus für Fragen
+$TUTORIAL_9_08_MAIN
+Für das Freischalten aller Fragen werden 50 Bonuspunkte vergeben.
+$TUTORIAL_9_09_TITLE
+Auswirkung des Urteils
+$TUTORIAL_9_09_MAIN
+Im Überlebensmodus zeigen Indikatoren an, ob ein bestimmtes Urteil eure Beziehung zur Fraktion verbessert, verschlechtert oder unverändert lässt.
+$TUTORIAL_DISPLAY_MESSAGE
+Möchten Sie die Tutorials anzeigen?
+$TUTORIAL_DISPLAY_YES
+Ja
+$TUTORIAL_DISPLAY_NO
+Nein

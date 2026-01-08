@@ -1,0 +1,10 @@
+$DIAL_CO_01_01_05_001_PROSECUTOR
+Bem-vindo, cidadão Fidéle. Meu nome é Antoine Quentin Fouquier de Tinville, sou o promotor público designado para acompanhar todos os julgamentos do Tribunal a partir de hoje.
+$DIAL_CO_01_01_05_002_PROSECUTOR
+Devo adverti-lo de que não sou dado a concessões, embora espere que encontremos um entendimento rapidamente. Em melhores notícias, a construção da guilhotina foi concluída. Podemos começar a usá-la ainda hoje.
+$DIAL_CO_01_01_05_003_MENTOR
+Sim, nós a vimos...
+$LETTER_CO_01_01_05_001
+O rei desapareceu! Traição! Qualquer um que tenha informações sobre seu paradeiro deve comunicá-las imediatamente às autoridades!
+$LETTER_CO_01_01_05_002
+Robespierre

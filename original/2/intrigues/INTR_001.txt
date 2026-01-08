@@ -1,0 +1,76 @@
+$INTRIGUE_TITLE_001
+Jean-Marie Roland
+$INTRIGUE_DESC_001
+Les documents découverts dans l'armoire de fer de Capet ont jeté le soupçon sur Roland. Ridiculisé ouvertement par le Tribunal, le ministre le déteste et ne vous pardonnera rien. Son ingénieuse épouse voue une rancune encore plus tenace.
+$INTR_BLOCK_001_TITLE
+Convaincre un témoin
+$INTR_BLOCK_001_DESC
+Jusqu'à présent, seules des rumeurs indiquent que Roland aurait détruit les documents. Si nous pouvions les corroborer à l'aide d'un de ses proches, nous bénéficierions d'un puissant levier ! Or nous avons un candidat potentiel : Philippe Côté, qui a assisté à l'ouverture de l'armoire de fer de Capet.
+$INTR_BLOCK_002_TITLE
+Propager des rumeurs
+$INTR_BLOCK_002_DESC
+Lorsque Roland a reconnu ce que l'armoire de fer renfermait, il aurait demandé à rester seul un instant, avec les documents. Étant donné l'inculpation de Louis Capet pour conspiration et le manque de preuves, nous pourrions accuser le ministre de les avoir détruites. Une confirmation de Côté pourrait nous servir…
+$INTR_BLOCK_003_TITLE
+Mobiliser des soutiens
+$INTR_BLOCK_003_DESC
+Cessons de tergiverser, nous laissons à notre ennemi l'occasion de se rétablir. Nous devons employer toutes les rumeurs et accusations possibles, et mettre à contribution les députés de la Convention. Ceux-ci prendront le ministre à partie lors d'une séance.
+$INTR_BLOCK_004_TITLE
+Hanriot maltraite sa famille
+$INTR_BLOCK_004_DESC
+Par prévention contre d'éventuelles attaques de la Convention, Roland a laissé entendre que François Hanriot, qui postule à la charge de commandant en chef de la Garde nationale, maltraite sa famille. Ces divulgations restent à confirmer. Sans doute Roland cherche-t-il à utiliser cette rumeur pour saboter la candidature de Hanriot.
+$INTR_BLOCK_005_TITLE
+Le juge maltraite sa famille
+$INTR_BLOCK_005_DESC
+C'est à peine croyable ! On médit de toi en ville, prétendant que tu maltraites ton épouse et tes enfants ; et que tu enfermes ton père dans une cave pour le cingler régulièrement. De toute évidence, les rumeurs d'ivrognerie qui te visaient n'ont pas suffi à te dénigrer, leur auteur a poussé le vice encore plus loin. Tu sais pertinemment qui en est à l'origine. Dépêche-toi de mettre fin à ces ragots, avant qu'ils ne prennent un bien pire tournant !
+$INTR_BLOCK_006_TITLE
+Démasquer l'épouse du ministre
+$INTR_BLOCK_006_DESC
+C'est Madame Roland qui dirige véritablement sa famille. Incroyablement ambitieuse, elle a joué d'intrigues pour faire progresser la carrière de son mari vers les postes les plus prestigieux. Je doute que le ministre ait pris une seule décision importante sans la consulter. Le prétendu salon politique qu'elle tient s'avère être une maison close sélecte. Voilà notre cible. Privons-les de leurs revenus et de leurs renseignements.
+$INTR_BLOCK_007_TITLE
+Contre-attaque
+$INTR_BLOCK_007_DESC
+Le citoyen Robespierre et ses espions nous signalent que les Girondins ourdiraient une attaque contre les Jacobins, afin d'en arrêter le plus grand nombre, voire les tuer. Si c'est Roland qui s'est allié aux aristocrates, tout commence à prendre sens. Roland sait que tu as survécu. Attends-toi à ce que les événements de la Convention soient suivis d'une autre tentative d'assassinat. Robespierre nous suggère de prendre l'initiative. En arrêtant quelques figures girondines, nous trancherions d'un coup plusieurs têtes de l'hydre !
+$INTR_BLOCK_008_TITLE
+Arrestation
+$INTR_BLOCK_008_DESC
+Jean-Marie Roland t'a clairement attaqué. Comme tu disposes de preuves solides contre lui, le condamner ne devrait poser aucun problème. En revanche, il est possible que son épouse ait eu le temps de s'enfuir, ce qui ne présagerait rien de bon.
+$INTR_BLOCK_009_DESC
+La tentative d'assassinat est l'œuvre d'hommes envoyés par Jeanne Marie Roland. C'est elle qui tire les ficelles depuis le début. En l'arrêtant, tu te délivreras définitivement du problème. Toutefois, tu ne pourras plus rien contre son mari, que la Convention vient d'investir.
+$INDICTMENT_TITLE
+INCULPATION
+$INDICTMENT_INTR001_DESC02
+Antiboul, Boilleau le jeune, Boyer-Fonfrêde, Brissot, Carra, Duchastel, Ducos le jeune, Dufriche de Valazé, Duprat, Fauchet, Gardien, Gensonné, Lacaze, Lasource, Lauze-Deperret, Lehardi, Lesterpt-Beauvais, Minvielle l'ancien, Sillery, Vergniaud, Viger
+$INTR_BLOCK_002_PATH_STR
+Raphaël Clovis, garde des tribunaux qui t'est loyal, va devoir ouvrir grand les yeux à certains pour qu'ils comprennent à quel point Roland est une menace…
+$INTR_BLOCK_002_PATH_DIP
+Il suffirait que le respecté Jacques-Louis David glisse quelques remarques mondaines pour provoquer une avalanche…
+$INTR_BLOCK_004_PATH_STR
+Il vaudrait mieux retrouver ceux qui ont propagé ces rumeurs pour les faire taire !
+$INTR_BLOCK_004_PATH_DIP
+Il faudrait que Hanriot parade avec sa famille. Pour manifester son bonheur.
+$INTR_BLOCK_005_PATH_STR
+Il est défendu de toucher à la famille du juge du Tribunal. Refaire le portrait d'un seul de ces colporteurs de ragots devrait servir de leçon au reste.
+$INTR_BLOCK_005_PATH_DIP
+Ta femme soufflera aux épouses et maîtresses de plusieurs sans-culottes en vue combien tu combles toute ta famille.
+$INTR_BLOCK_006_PATH_STR
+Que les gardes de Hanriot ratissent l'établissement de cette harpie. Ils trouveront sûrement de quoi fermer ce bordel !
+$INTR_BLOCK_006_PATH_DIP
+Les épouses des députés de la Convention découvriront de quelle nature est le « salon politique » que fréquentent leurs maris. On te poussera alors à prononcer la fermeture définitive du bordel de Roland.
+$INTR_BLOCK_002_PATH_STR_FAILURE
+La monarchie a aveuglé les Français. Leur ouvrir grand les yeux ne les rend pas clairvoyants pour autant…
+$INTR_BLOCK_002_PATH_DIP_FAILURE
+Les gens donnent peu de crédit à ce que dit David. Tes messagers n'ont pas encore une réputation suffisante.
+$INTR_BLOCK_004_PATH_STR_FAILURE
+Ton agent n'est pas parvenu à identifier la source des rumeurs. De toute évidence, il n'était pas l'homme de la situation.
+$INTR_BLOCK_004_PATH_DIP_FAILURE
+Les gens ont percé à jour le simulacre et ont raillé la grande révélation.
+$INTR_BLOCK_005_PATH_STR_FAILURE
+Malgré les portraits refaits, la rumeur a pris des proportions folles. Il te faudrait passer à tabac la moitié de Paris pour qu'elle cesse.
+$INTR_BLOCK_005_PATH_DIP_FAILURE
+Les femmes étaient plus appliquées à sucrer leur thé qu'à écouter Mathilde…
+$INTR_BLOCK_006_PATH_STR_FAILURE
+Quelqu'un a dû prévenir Madame Roland du risque qu'elle encourait. Il semblerait qu'elle ait des oreilles parmi la Garde.
+$INTR_BLOCK_006_PATH_DIP_FAILURE
+Seules quelques femmes ont été convaincues. La plupart ne feront rien, trop inquiètes de perdre leur confortable train de vie auprès de leur mari.
+$INTR_SLOT_07_DESC
+Décidez qui traduire en justice.

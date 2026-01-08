@@ -1,0 +1,36 @@
+$DIAL_H_01_03_26_001_SON
+Sag es ihm, Mama.
+$DIAL_H_01_03_26_002_WIFE
+…
+$DIAL_H_01_03_26_003_JUDGE
+Was?!
+$DIAL_H_01_03_26_004_SON
+Sag es ihm, oder ich tue es.
+$DIAL_H_01_03_26_005_JUDGE
+Was soll sie mir denn erzählen?!
+$DIAL_H_01_03_26_006_WIFE
+Wir haben gehört, dass du die Tochter des Bürgermeisters hast …
+$DIAL_H_01_03_26_007_JUDGE
+Ja, die Verhandlung ist für morgen angesetzt.
+$DIAL_H_01_03_26_008_WIFE
+Hängt also alles von dir ab?
+$DIAL_H_01_03_26_009_JUDGE
+Ich werde es nicht tun.
+$DIAL_H_01_03_26_010_WIFE
+Warum nicht?
+$DIAL_H_01_03_26_011_JUDGE
+Das wäre doch ehrlos!
+$DIAL_H_01_03_26_012_WIFE
+Und das Töten unserer Kinder etwa nicht?!
+$DIAL_H_01_03_26_013_JUDGE
+Ich kann nicht, sie trifft keine Schuld.
+$DIAL_H_01_03_26_014_SON
+Töte sie.
+$DIAL_H_01_03_26_015_JUDGE
+Du bist noch so jung, und sprichst über Mord, als wäre es nichts.
+$DIAL_H_01_03_26_016_SON
+Lasst sie leiden wie wir. Tötet sie. Wir verlangen nach ihrem Blut! Meinen Bruder an den Galgen zu schicken, bedeutete ihnen nichts.
+$DIAL_H_01_03_26_017_JUDGE
+Sie machen mir Angst …
+$DIAL_H_01_03_26_018_WIFE
+Du wirst wirklich Angst bekommen, wenn du nicht tust, was wir gesagt haben.

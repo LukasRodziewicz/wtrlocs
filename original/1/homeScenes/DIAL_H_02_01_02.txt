@@ -1,0 +1,30 @@
+$DIAL_H_02_01_02_001_JUDGE
+As long as I have known you, you never were one for small talk.
+$DIAL_H_02_01_02_002_RAMEL
+I believe that actions speak louder than words.
+$DIAL_H_02_01_02_003_JUDGE
+What do our actions say about you and I?
+$DIAL_H_02_01_02_004_RAMEL
+That we don’t allow other people to control our lives. We are in charge of our own destiny.
+$DIAL_H_02_01_02_005_JUDGE
+Could you at least reveal where you are from?
+$DIAL_H_02_01_02_006_RAMEL
+I can tell you that, just like your brother Bruno, I have also spent some time living on the street. My older, half-brother kicked me out, and yet… I miss him.
+$DIAL_H_02_01_02_007_JUDGE
+I am sorry.
+$DIAL_H_02_01_02_008_RAMEL
+You shouldn’t be. At least now I’m strong enough to do something about it. That’s why I’m giving you Archbishop Gobel’s head on a plate.
+$DIAL_H_02_01_02_009_JUDGE
+Why?
+$DIAL_H_02_01_02_010_RAMEL
+Because he was the one who planned your son’s death, and I learned of his deepest secret.
+$DIAL_H_02_01_02_011_JUDGE
+Why did Gobel attack me?
+$DIAL_H_02_01_02_012_RAMEL
+You dealt with the Rolands and almost did the same to Pache.
+$DIAL_H_02_01_02_013_RAMEL
+They were linked, so he must have thought that he would be your next target and decided to send you a message.
+$DIAL_H_02_01_02_014_JUDGE
+Now I will send him one of my own.
+$DIAL_H_02_01_02_015_RAMEL
+Kill everyone who has raised a hand to your family, it's the most precious thing you have. This is your best opportunity to attack as people are blaming the clergy for stirring the rebellion in the Vendée.

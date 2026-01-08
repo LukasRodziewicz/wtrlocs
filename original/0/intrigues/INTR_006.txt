@@ -1,0 +1,37 @@
+$INTRIGUE_TITLE_006
+Germainede de Staël
+$INTRIGUE_006_DESC
+Madame de Staël wykorzystała moment słabości Paryża, by zawalczyć o prawa swoje i kobiet. Nie mnie oceniać motywacje, ale jeśli nie powstrzymamy jej dzisiaj, to jutra możemy nie dożyć.
+
+$INTR_006_B01_TITLE
+Deklaracja Praw Kobiet
+$INTR_006_B01_DESC
+Kobiety wyszły na ulice Paryża. Krzycząc, pomaszerowały pod ratusz, a potem, okupując jeden z korytarzy, debatowały o prawach kobiet w rewolucyjnej Francji. Przewodziła im madame de Staël, wykształcona i ambitna założycielka jednego z paryskich salonów politycznych. Przekonywała swoje sympatyczki, że rewolucja nie obdarzyła kobiet wolnością, równością i braterstwem, więc muszą same o nie zawalczyć. Wykrzykiwane zapowiedzi i groźby doprowadziły do spontanicznego spisania Deklaracji praw kobiet, którą podpisały wszystkie uczestniczki zajścia. Moment nie jest przypadkowy – madame de Staël z całą pewnością wykorzysta naszą sytuację do uzyskania jak największych korzyści dla siebie i kobiet. Spodziewaj się dalszych wieści…
+
+$INTR_006_B02_TITLE
+Przekonanie mężczyzn
+$INTR_006_B02_DESC
+Propozycja, a w zasadzie szantaż de Staël zmusza nas do podjęcia natychmiastowych i co gorsza – niezaplanowanych kroków. De Staël chce naszego podpisu pod Deklaracją praw kobiet, ale jeśli złożysz go, nie mając za sobą poparcia mężczyzn, to jakbyś podpisał na siebie wyrok śmierci. Musisz spróbować ich przekonać, by zaakceptowali zmiany. By odrzucili władzę, którą obiecali swoim synom.
+
+$INTR_006_B03_TITLE
+Skaptowanie Grace Elliott
+$INTR_006_B03_DESC
+Madame de Staël liczy na jedność kobiet. Pora udowodnić, że ich jedność jest tak samo krucha jak więzi między mężczyznami. Kiedy w grę wchodzą władza i pieniądze, to empatia i współczucie przestają mieć znaczenie. Ze wszystkich kobiet, które mogą dostarczyć Ci haków na de Staël, najlepsza będzie Grace Elliott – ona zna najlepiej światek, w którym obraca się madame. Nie ma czasu na delikatność – wsadź ją do więzienia, a następnie obiecaj uwolnienie za informacje.
+
+$INTR_006_B04_TITLE
+Bunt Kobiet
+$INTR_006_B04_DESC
+De Staël najwidoczniej zapragnęła zmotywować Cię do działania. Kobiety w całym mieście odmawiają jakiejkolwiek pracy. Wznowią ją po tym, jak ich liderka potwierdzi podpisanie przez nas Deklaracji. Brak rąk do pracy uderzy w nasze działania obronne. Nie możemy pozwolić sobie na przeciąganie tej sytuacji.
+
+$INTR_006_B05_TITLE
+Spal deklarację i aresztuj de Staël
+$INTR_006_B05_DESC
+Nie można Cię szantażować. Ty szantażujesz. Nie można Cię pokonać. Ty niszczysz przeciwników. Nie potrzebujesz kobiet – niech zostaną w domach, gdzie ich miejsce, a de Staël – w celi więziennej, którą dla niej przygotujemy. Ciekawe, czy będzie taka harda z głową na gilotynie?
+
+$INTR_006_B06_TITLE
+Podpisz deklarację i zdobądź poparcie kobiet
+$INTR_006_B06_DESC
+Francja zmieniła się nieodwracalnie. Ostatni bastion nierówności pada i głupotą byłyby próby powstrzymania tego przebudzenia. Poparcie kobiet Paryża jest niezbędne dla prowadzenia dalszej walki z wrogiem, a Twój podpis pod Deklaracją będzie przejawem prawdziwego braterstwa!
+
+$INTR_006_B06_DECISION
+Zdecyduj, co stanie się z Deklaracją.

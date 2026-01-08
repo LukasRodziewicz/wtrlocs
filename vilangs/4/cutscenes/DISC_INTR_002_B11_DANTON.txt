@@ -1,0 +1,80 @@
+$DISC_INTR_002_B11_DANTON_001_V1_DANTON
+Verzeihen Sie, aber mir ist nicht entgangen, dass Sie Blut unter den Nägeln und an den Manschetten haben.
+$DISC_INTR_002_B11_DANTON_002_V1_JUDGE
+Leider verlief mein vorheriger Termin nicht wie geplant.
+$DISC_INTR_002_B11_DANTON_003_V1_DANTON
+Also wird das wohl kein gemütlicher Plausch bei einer Tasse Tee?
+$DISC_INTR_002_B11_DANTON_004_V1_JUDGE
+Das liegt ganz bei Ihnen.
+$DISC_INTR_002_B11_DANTON_001_V2_DANTON
+Ich bin sicher, Sie werden mir erklären, warum Sie mich zu so später Stunde herbestellt haben – zumal es draußen in Strömen regnet.
+$DISC_INTR_002_B11_DANTON_004_JUDGE_AGGR
+Ich weiß von eurem Bündnis mit Pache. Versucht nicht, es zu leugnen und mich noch weiter zu reizen.
+$DISC_INTR_002_B11_DANTON_005_JUDGE_MANI
+Einige meiner Freunde haben mir berichtet, dass Sie ein geheimes Bündnis mit dem Bürgermeister von Paris eingegangen sind.
+$DISC_INTR_002_B11_DANTON_006_JUDGE_JOKE
+Wer hätte gedacht, dass du dich in so eine Lage bringst. Ich weiß, dass du mit Pache etwas im Schilde führst.
+$DISC_INTR_002_B11_DANTON_007_JUDGE_HUMI
+Verstehen Sie mich nicht falsch, aber Ihr geheimes Bündnis mit Pache ist kein Geheimnis mehr. Ich möchte wirklich nichts behindern, doch ich habe Schreckliches über ihn erfahren und dachte, wir sollten reden…
+$DISC_INTR_002_B11_DANTON_008_DANTON_INTR
+Und was gedenken Sie mit diesem Wissen zu tun?
+$DISC_INTR_002_B11_DANTON_009_DANTON_DOUB
+Sie überschätzen den Wert dieses Wissens. Interessieren Sie sich jetzt etwa für politische Allianzen zwischen den Abgeordneten?
+$DISC_INTR_002_B11_DANTON_010_DANTON_IRRI
+Ist Ihnen klar, wie viele schon versucht haben, mich auf diese Weise zu täuschen? Was kümmert es mich, dass Sie von meinen politischen Allianzen wissen?
+$DISC_INTR_002_B11_DANTON_011_JUDGE_AGGR
+Ich habe eine Aussage, die bestätigt, dass Pache ein österreichischer Spion ist. Mein Freund, mit solch einem Anker gehen Sie unweigerlich unter.
+$DISC_INTR_002_B11_DANTON_012_JUDGE_MANI
+Ich habe eine Aussage, die besagt, dass Pache ein österreichischer Spion ist. Wir werden ihn unter Druck setzen, damit er die Namen seiner Verbündeten preisgibt. So entgeht er der Enthauptung – seine Komplizen jedoch nicht.
+$DISC_INTR_002_B11_DANTON_013_JUDGE_JOKE
+Das Fallbeil der Guillotine schert sich nicht darum, ob es Verräter trifft oder jene, die ihnen halfen. Mir liegen Beweise für Paches Zusammenarbeit mit den Österreichern vor, und da Sie mit ihm gemeinsame Sache machen...
+$DISC_INTR_002_B11_DANTON_014_JUDGE_HUMI
+Es wäre bedauerlich, wenn all Ihre Mühen für die Revolution wegen eines Skandals in Vergessenheit geraten würden. Und ein solcher Skandal ist gewiss, wenn ich ein schriftliches Zeugnis veröffentliche, das Pache als österreichischen Spion entlarvt. Das Volk wird fordern, dass auch seine Mitstreiter ihren Kopf verlieren.
+$DISC_INTR_002_B11_DANTON_015_DANTON_INTR
+Ich höre.
+$DISC_INTR_002_B11_DANTON_016_DANTON_DOUB
+Das ist nichts Neues für mich. Man hat mich schon einmal der Spionage verdächtigt.
+$DISC_INTR_002_B11_DANTON_017_DANTON_IRRI
+Ich hatte auf ein zivilisiertes Gespräch gehofft, doch stattdessen höre ich nur Drohungen und Unterstellungen.
+$DISC_INTR_002_B11_DANTON_018_DANTON_AGGR
+Werden Sie mir etwas sagen, das ich nicht schon von anderen Erpressern gehört habe?!
+$DISC_INTR_002_B11_DANTON_019_JUDGE_AGGR
+Es besteht zudem ein Verdacht, der an Gewissheit grenzt, dass Pache das Attentat auf mich inszeniert hat. Für dieses Verbrechen wird er bezahlen. Doch seine Verbündeten erhalten eine Wahl – und wenn sie nicht den Weg der Läuterung einschlagen, werden sie sterben.
+$DISC_INTR_002_B11_DANTON_020_JUDGE_MANI
+Auch Sie könnten in das Attentat auf einen Richter des Tribunals verwickelt sein. Schließlich haben Sie mit Pache zusammengearbeitet, der den Anschlag finanziert hat…
+$DISC_INTR_002_B11_DANTON_021_JUDGE_JOKE
+Musstest du wirklich ein Bündnis mit dem Mann eingehen, der versucht hat, mich zu ermorden? Glaubst du, es wird jemanden interessieren, ob du tatsächlich darin verwickelt warst?
+$DISC_INTR_002_B11_DANTON_022_JUDGE_HUMI
+Pache hat ein Attentat auf mein Leben organisiert. Er wird dafür bestraft, doch Sie müssen sein Schicksal nicht teilen. Ich weiß, dass Sie nicht beteiligt waren, aber das Volk wird Sie als Komplizen eines Mörders sehen, und Ihr Vermächtnis wird augenblicklich zerstört.
+$DISC_INTR_002_B11_DANTON_023_JUDGE_AGGR
+Die Zeit ist gekommen, Pache zu bestrafen. Lass ihn fallen und schließe dich mir an – oder teile sein Schicksal! Entscheide dich, und sei dankbar, dass ich dir überhaupt diese Wahl lasse.
+$DISC_INTR_002_B11_DANTON_024_JUDGE_MANI
+Willst du wirklich an der Seite eines Mannes bleiben, über dessen Kopf das Fallbeil der Guillotine schwebt, statt dich mit demjenigen zu verbünden, der darüber entscheidet, auf wen es herabsaust? Deine Freundschaft mit Pache ist der schnellste Weg, sein Schicksal zu teilen. Was ist für deine Interessen besser?
+$DISC_INTR_002_B11_DANTON_025_JUDGE_JOKE
+Sobald ich Pache erreiche, wird die Klinge fallen. Ich biete Ihnen ein Bündnis mit demjenigen an, der für die Guillotine verantwortlich ist – mit mir. Politik ist die Kunst, sich von jenen Verbündeten zu distanzieren, die einen in den Abgrund reißen.
+$DISC_INTR_002_B11_DANTON_026_JUDGE_HUMI
+Pache ist verloren, aber Sie können noch gerettet werden. Lassen Sie nicht zu, dass man Sie seinetwegen enthauptet. Ein Bündnis mit dem Verantwortlichen für die Guillotine würde Ihr Risiko erheblich verringern.
+$DISC_INTR_002_B11_DANTON_027_DANTON_INTR
+Sie haben recht, meine Bekanntschaft mit Pache ist wahrlich eine Last. Ich werde Ihrem Wunsch nur zu gern nachkommen.
+$DISC_INTR_002_B11_DANTON_028_DANTON_DOUB
+Sie scheinen zu vergessen, dass mein Name Danton ist und ich viele Freunde in dieser Stadt habe… Andererseits hat sich die Lage recht unglücklich entwickelt. Nun gut, sehen wir, wohin uns diese Zusammenarbeit führt.
+$DISC_INTR_002_B11_DANTON_029_DANTON_IRRI
+Sie laden mich ein, nur um mir zu drohen? Erwarten Sie keine Zusammenarbeit zwischen uns. Lebwohl.
+$DISC_INTR_002_B11_DANTON_030_DANTON_AGGR
+Du elender Richter! Willst du mich zu deinem Schoßhund machen?! Mein Name ist Danton – ich bin es, der die Menschen an der Leine hält!
+$DISC_INTR_002_B11_DANTON_TOPIC_01
+Ich weiß von deinem Bündnis mit Pache.
+$DISC_INTR_002_B11_DANTON_TOPIC_02
+Pache arbeitet mit einem feindlichen Staat zusammen.
+$DISC_INTR_002_B11_DANTON_TOPIC_03
+Pache könnte in das Attentat auf einen Richter verwickelt sein.
+$DISC_INTR_002_B11_DANTON_TOPIC_04
+Mit dem Richter des Tribunals ist man auf der sicheren Seite.
+$DISC_INTR_002_B11_DANTON_001_SUCCESS_JUDGE
+Ich muss wissen, was du und Pache geplant habt.
+$DISC_INTR_002_B11_DANTON_002_SUCCESS_DANTON
+Es ging um die Pont de la Révolution.
+$DISC_INTR_002_B11_DANTON_003_SUCCESS_JUDGE
+Die Brücke, die die Bauleute nicht vollenden konnten?
+$DISC_INTR_002_B11_DANTON_004_SUCCESS_DANTON
+Es wurde nicht fertiggestellt, weil der Bürgermeister und ich den Prozess behindert haben.

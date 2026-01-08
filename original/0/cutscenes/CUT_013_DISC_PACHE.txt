@@ -1,0 +1,93 @@
+$CUT_013_DISC_PACHE_START_001_PACHE
+Danton, jak mogłeś? Zdrajco…
+$CUT_013_DISC_PACHE_START_002_JUDGE
+Witaj, Pache.
+$CUT_013_DISC_PACHE_START_003_PACHE
+Fidéle. Dziękuję, że przybyłeś tak szybko.
+$CUT_013_DISC_PACHE_START_004_PACHE
+Danton zdradził mnie.
+$CUT_013_DISC_PACHE_START_005_PACHE
+Danton… Byliśmy sojusznikami.
+$CUT_013_DISC_PACHE_START_006_PACHE
+Prosiłem go o pomoc, ale on nie przybył. Ty przyszedłeś.
+$CUT_013_DISC_PACHE_START_007_JUDGE
+Jesteśmy przyjaciółmi, Jean.
+$CUT_013_DISC_PACHE_START_008_PACHE
+Muszę go zniszczyć. Odpłacić mu! My musimy.
+
+
+$CUT_013_DISC_PACHE_001_JUDGE_AGGR
+Co za drań odważył się podnieść rękę na sługę narodu? Z jakich powodów?
+$CUT_013_DISC_PACHE_002_JUDGE_MANI
+O co mogą cię oskarżać? To musi być coś, o czym wiedzą tylko twoi przyjaciele, tacy jak Danton. W coś ty się wpakował, Jean?
+$CUT_013_DISC_PACHE_003_JUDGE_JOKE
+Z całą pewnością zaszła jakaś pomyłka. Jeszcze dzisiaj będziesz jadł kolację w domu rodzinnym.
+$CUT_013_DISC_PACHE_004_JUDGE_HUMI
+Nie rozumiem tej sytuacji. Co mogli ci zarzucić? Właśnie tobie, kiedy wszyscy wiedzą, jak Paryż odżył za twojej kadencji.
+
+$CUT_013_DISC_PACHE_005_PACHE_INTR
+Zdrada kraju. Tyle tylko zdążyłem się dowiedzieć, ale nic nie wiem o dowodach czy źródłach tych oskarżeń. A Danton mnie zdradził, nie przybył mi z pomocą. Jestem pewien, że ma coś wspólnego z tymi oskarżeniami!
+$CUT_013_DISC_PACHE_006_PACHE_DOUBT
+Ponoć zdradziłem Francję. Różne rzeczy można mi zarzucać, nie jestem święty. Ale zdradę?! I to jeszcze taka polityczna dziwka jak Danton? Nie mam dowodów, ale czuję przez skórę, że maczał w tym palce.
+
+$CUT_013_DISC_PACHE_007_JUDGE_AGGR
+Jeśli to faktycznie ten śliski wąż stoi za tą farsą, to musisz jakoś odpowiedzieć. Nie możesz czekać do jutrzejszej rozprawy, trzeba działać teraz. Masz jakieś papiery na Dantona?
+$CUT_013_DISC_PACHE_008_JUDGE_MANI
+Jeśli Danton zaatakował w ten sposób, to zapewne spreparował też odpowiednie dowody. My musimy mieć swoje. Daj mi coś na niego.
+$CUT_013_DISC_PACHE_009_JUDGE_JOKE
+Nie wierzę, że poszedłeś na układ z Dantonem, nic wcześniej na niego nie mając. Przyznaj się, masz jakieś kwity?
+$CUT_013_DISC_PACHE_010_JUDGE_HUMI
+Jeśli ktoś zasługuje na ścięcie, to Danton. Za udawanie przyjaciela, którym nie był. Musimy go pokonać, na pewno masz coś, co mógłbym przeciw niemu wykorzystać.
+
+$CUT_013_DISC_PACHE_011_PACHE_INTR
+Dlaczego przyszedłeś? Zaryzykowałeś spotkanie ze zdrajcą? Dlaczego, Fidéle? Porzuć lojalność i daj mi umrzeć, bo przez swoje postępki zasłużyłem…
+$CUT_013_DISC_PACHE_012_PACHE_DOUBT
+Nie mam już sił. Nie mogę… nie dam razy dłużej walczyć. Cała ta rewolucja, te wszystkie knowania. Nikomu nie można już zaufać… tylko tobie mogę. Nie rozumiem już niczego.
+$CUT_013_DISC_PACHE_013_PACHE_IRRI
+Ty też chcesz mnie zdradzić? Nie możesz, myślałem… liczyłem, że można w tym mieście naprawdę z kimś się przyjaźnić.
+
+$CUT_013_DISC_PACHE_014_JUDGE_AGGR
+Ocknij się, Jean! Nie czas na wahania i melancholię! Muszę mieć coś na Dantona, żeby móc kontratakować. Powiedz mi, gdzie to jest, i pozwól mi sobie pomóc.
+$CUT_013_DISC_PACHE_015_JUDGE_MANI
+Jeśli dojdzie do rozprawy, to już nie żyjesz. Nie da się uratować osoby, na którą są dowody o zdradę. Mogę natomiast zablokować ich ujawnienie, mając haki na Dantona – to jedyny sposób. Gdzie je masz, Jean?
+$CUT_013_DISC_PACHE_016_JUDGE_JOKE
+Jeśli chcesz się użalać, to proszę bardzo. Pamiętaj tylko, że Trybunał nie może wypuszczać na wolność zdrajców. Jeśli nie powiesz mi, gdzie trzymasz haki na Dantona, to jutro będziesz trupem i nic z tym nie będę mógł zrobić.
+$CUT_013_DISC_PACHE_017_JUDGE_HUMI
+Jean, drogi Jean. Nie możesz umrzeć za zbrodnię, której nie popełniłeś. Uratuję ciebie i twoje dziedzictwo, ale uda mi się to tylko wtedy, gdy zmuszę Dantona do wycofania się. Gdzie trzymasz haki na niego?
+
+$CUT_013_DISC_PACHE_018_JUDGE_AGGR
+Przestań się mazgaić, bo nie wszystko jeszcze stracone! Masz w rękawie asa – sędziego Trybunału, który ci pomoże. Jesteśmy sojusznikami i możesz mi zaufać.
+$CUT_013_DISC_PACHE_019_JUDGE_MANI
+Nikt nie postawi się otwarcie Dantonowi, skoro potrafi wyciągać z rękawa dowody o zdradzie. Boją się. Ja mogę nadstawić dla ciebie karku, bo liczę na długotrwałe profity naszej przyjaźni, i już to powinno cię przekonać.
+$CUT_013_DISC_PACHE_020_JUDGE_JOKE
+Jeśli nie potrafisz mi zaufać, mimo że tutaj przyszedłem, to zastanów się, komu możesz. Jakoś nie widzę kolejki chętnych do uratowania twojej głowy.
+$CUT_013_DISC_PACHE_021_JUDGE_HUMI
+Jean, pomyśl racjonalnie – każda minuta przybliża cię do śmierci. Co uda ci się zrobić samemu, z celi więziennej? Skorzystaj z mojej wyciągniętej dłoni.
+
+$CUT_013_DISC_PACHE_022_PACHE_INTR
+Naprawdę… naprawdę mi pomożesz? Zrobiłem kiedyś coś bardzo złego, ktoś mi kazał i teraz tego żałuję… Długo będę spłacał dług wobec ciebie.
+$CUT_013_DISC_PACHE_023_PACHE_DOUB
+Nie wiem, czym sobie zasłużyłem na twoją przyjaźń. Kiedyś zrobiłem coś… podłego. Kazali mi. A dzisiaj jesteś moją jedyną nadzieją…
+$CUT_013_DISC_PACHE_024_PACHE_IRRI
+Wszyscy tylko mnie o coś ciągle proszą i proszą. Chcesz dowodów na Dantona dla siebie, a nie by mnie uratować. Nic z tego.
+$CUT_013_DISC_PACHE_025_PACHE_AGGR
+Nie, nie wierzę. Chcesz mnie zdradzić, jak reszta. Nic ode mnie nie dostaniesz. Idź precz!
+
+
+$CUT_013_DISC_PACHE_TOPIC_01
+Dlaczego tu trafił?
+$CUT_013_DISC_PACHE_TOPIC_02
+Co ma na Dantona?
+$CUT_013_DISC_PACHE_TOPIC_03
+Gdzie to jest?
+$CUT_013_DISC_PACHE_TOPIC_04
+Możesz mi zaufać.
+
+$CUT_013_DISC_PACHE_SUCCESS_001_PACHE
+Wszystkie dowody zamknięte są w sejfie w moim gabinecie. Porozmawiaj z moim asystentem – on da ci klucz.
+$CUT_013_DISC_PACHE_SUCCESS_002_JUDGE
+Dziękuję, Pache. Wykorzystam te dowody w odpowiedni sposób.
+$CUT_013_DISC_PACHE_SUCCESS_003_PACHE
+To ja dziękuję. Fidéle… źle cię oceniałem, jesteś prawdziwym przyjacielem.
+$CUT_013_DISC_PACHE_SUCCESS_004_JUDGE
+Naturalnie, Jean. Naturalnie.

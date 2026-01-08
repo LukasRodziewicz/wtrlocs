@@ -1,0 +1,160 @@
+$FAB_021_DOC_01_HEADER
+Hazırlayan: Fabrice Poli
+$FAB_021_DOC_01_00
+Sanık... Efendim yargıç, onu çok iyi tanıdığınızı biliyorum ve neyle suçlandığını en iyi siz bilirsiniz. Yine de titiz bir katip olarak, usulen devam edeceğim. Kendisi, cinayete teşebbüsle suçlanıyor.
+$FAB_021_DOC_01_01
+Dün, Mathilde Fidèle <a name="2" class="hidden">bir mutfak bıçağı</a> ile kocası Yargıç Alexis Fidèle’i Devrimci Mahkeme’nin girişinde bıçakladı. Tanıkların ifadesine göre, sanık silahını hemen yere atıp <a name="3" class="hidden">hiçbir direnç göstermediği</a> için derhal ve kolayca etkisiz hale getirildi.
+$FAB_021_DOC_01_02
+Ne yazık ki, ek bir bilgiyi daha kayda geçmek zorundayım. Görünüşe göre sanık, Ulusal Muhafızların eski Başkomutanı François Hanriot ile <a name="4" class="hidden">bir ilişkisi</a> vardı. Komutanlık görevine başvurduktan sonra birkaç kez birlikte görüldüklerini tespit ettim. Hanriot’nun ölümünden sonra dairesinde yaptığımız aramada, evli bir kadınla ilişkisini ima eden mektuplar bulduk. Mektuplarda isim geçmiyordu, bu yüzden komutanın sevgilisinin kim olduğunu belirlemek kolay olmadı, fakat artık hiçbir şüphemiz yok. Aynı zamanda cinayet için olası bir motivasyon da ortaya çıktı — bildiğimiz üzere, Hanriot <a name="5" class="hidden">Robespierre’i askerlerimizden korumaya çalışırken çıkan çatışmada</a> öldürüldü.
+$FAB_021_DOC_01_03
+<a name="6" class="hidden">Aile ilişkileriniz</a> hakkında çıkan diğer dedikodulara gelince, susmayı tercih ediyorum; neyin doğru olduğunu benden daha iyi biliyorsunuz.
+$FAB_021_OnStart_00
+Sanık kendini tanıtabilir.
+$FAB_021_OnStart_01
+Şaka yapma. Kim olduğumu biliyorsun.
+$FAB_021_OnStart_02
+Şaka yapacak havamda değilim. Yüksek sesle konuşun.
+$FAB_021_OnStart_03
+Bugün burada yargıçlık yapanın eşi, Mathilde Fidèle. Şimdi mutlu musun?
+$FAB_021_OnGuilty_00
+Başka bir hüküm olamaz – suçlu. Üzgünüm, Mathilde.
+$FAB_021_OnGuilty_01
+O halde hemen giyotine.
+$FAB_021_OnGuilty_02
+Ne büyük dram.
+$FAB_021_OnGuilty_03
+Kendi karısının başını kesmeye razı mı?
+$FAB_021_OnNotGuilty_00
+Bırakın onu. Karımı serbest bırakın.
+$FAB_021_OnNotGuilty_01
+Kendi çıkarların için yasayı ilk kez çiğnemiyorsun. Alışkanlık oldu artık, değil mi?
+$FAB_021_OnNotGuilty_02
+Bunu yorumlayamam. Gerçekten yorumlayamam.
+$FAB_021_OnNotGuilty_03
+Onu affetti mi?
+$FAB_021_01x03_00_QTitle
+Tutuklama sırasında neden bu kadar sakindiniz?
+$FAB_021_01x03_00_00
+Tutuklama sırasında neden bu kadar sakindiniz?
+$FAB_021_01x03_00_01
+Seni herkesin önünde bıçakladım. Nasıl kaçabilirdim?
+$FAB_021_01x03_00_02
+Doğru. Kendi kocanı bıçakladın. Hiçbir şey hissettin mi?
+$FAB_021_01x03_00_03
+Kocamı gördüğümde tek hissettiğim şey tiksinti. Uzun zamandır böyle.
+$FAB_021_01x03_00_04
+Yani hiç pişmanlık ya da vicdan azabı hissetmiyor musunuz?
+$FAB_021_01x03_00_05
+Tek pişmanlığım, onu yeterince sert bıçaklamamış olmam.
+$FAB_021_01x03_00_06
+Gerçek bir canavar.
+$FAB_021_01x03_00_07
+Bunu bana yüzüme karşı mı söylüyorsunuz?
+$FAB_021_01x03_00_08
+Ölmeyi hak ettin. Bunu sana kim söyleyebilir ki?
+$FAB_021_01x04_01_QTitle
+Saldırının nedeni ilişkiniz miydi?
+$FAB_021_01x04_01_00
+Saldırının nedeni ilişkiniz miydi?
+$FAB_021_01x04_01_01
+Kendi aileni gerçekten hiç tanımıyorsun.
+$FAB_021_01x04_01_02
+Cevap verin!
+$FAB_021_01x04_01_03
+Kendine hakim ol, Antoine.
+$FAB_021_01x04_01_04
+Sebep benim ilişkim değildi, seninkilerdi – kadınlarla, güçle, parayla, alkolle olan ilişkilerin. Onları gizleyemedin ve vazgeçmek de istemedin.
+$FAB_021_01x04_01_05
+Hiçbir yasak ilişki olmadı!
+$FAB_021_01x04_01_06
+Hayır mı? Ya iktidar hırsın? Onu arzuluyorsun! Kaç kişiyi öldürdün ona ulaşmak için?
+$FAB_021_01x04_01_07
+İma ediyorsunuz–
+$FAB_021_01x04_01_08
+İma etmiyorum, sadece gerçeği söylüyorum. İktidar hırsın ailemizi felaketin eşiğine getirdi, şimdi de gelip bana ilişkimi mi soruyorsun?
+$FAB_021_04x05_02_QTitle
+İlişkiniz ne kadar sürdü?
+$FAB_021_04x05_02_00
+İlişkiniz ne kadar sürdü?
+$FAB_021_04x05_02_01
+Hanriot gelip başkomutanlık için desteğini istediğinden beri. Yani, epey uzun bir zamandır.
+$FAB_021_04x05_02_02
+Bunca zaman bunu nasıl gizli tutabildiniz?
+$FAB_021_04x05_02_03
+Kocam, etrafını saran ihtişamdan, savaşlardan ve dökülen kandan gözleri kör oldu. Artık ayrıntılar umurunda değildi–
+$FAB_021_04x05_02_04
+Kendi karımı gözetmem gerektiğini hiç düşünmemiştim.
+$FAB_021_04x05_02_05
+Kocamdan kurtulmak için onu öldürmem gerekeceğini hiç düşünmemiştim. Kendimi başka birine vermek de işe yaramadı, çünkü bunu bile fark etmedin! En azından bıçağı kaburgalarının arasına sapladığımda nihayet bir şey fark ettin.
+$FAB_021_02x06_03_QTitle
+Silahınızı nasıl seçtiniz?
+$FAB_021_02x06_03_00
+Silahınızı nasıl seçtiniz?
+$FAB_021_02x06_03_01
+Fazla düşünmedim. Keskin, etkili ve gerektiğinde kolayca ulaşabileceğim bir şey olmalıydı.
+$FAB_021_02x06_03_02
+Bu konudan en ufak bir duygu göstermeden bahsediyorsunuz...
+$FAB_021_02x06_03_03
+Ne bekliyordun? Seçimleri sen yapmak istedin, peki hangilerini? Herkesin üstüne çıktın, kimin yaşayacağına, kimin öleceğine karar verme hakkı sana verildi. Ama bizden farklı olarak, sonuçlarına katlanmak istemiyorsun.
+$FAB_021_02x06_03_04
+Seni neredeyse Tanrı gibi yaptı; zira yalnızca O, seçimlerinin yükünden azadedir – ama sen hâlâ bir insansın. Ayrıcalık istiyorsun, oysa milyonlardan yalnızca birisin. Bizi yüceltenlerden daha önemli olduğunu sana düşündüren ne?
+$FAB_021_02x06_03_05
+Kimden bahsediyorsunuz?
+$FAB_021_02x06_03_06
+Kör karar verme arzun, onların işinde bir aksaklık oldun ama aynı zamanda mükemmelliklerine ulaşmaları için gereklisin. Güç istiyorsun, ilk olmak istiyorsun, ama sonunda yalnızca verdiğini alacaksın.
+$FAB_021_02x06_03_07
+Bu nefret artık durdurulamaz. Kadının saçma sapan gevezelikleri aklını yitirdiğini gösteriyor.
+$FAB_021_04x06_04_QTitle
+Aldattığınızda, bunun aileniz üzerinde nasıl bir etkisi olacağını hiç düşündünüz mü?
+$FAB_021_04x06_04_00
+Aldatırken, bunun aileniz üzerinde nasıl bir etkisi olacağını hiç düşündünüz mü?
+$FAB_021_04x06_04_01
+Elbette bir etkisi olmasını ummuştum. Kocamın ortadan kaybolmasını, gitmesini ve ailemin hayatta kalmasını istedim. En azından bir kısmının.
+$FAB_021_04x06_04_02
+Bildiğim kadarıyla, bu umudu hâlâ taşıyorsunuz.
+$FAB_021_04x06_04_03
+Senin bildiğin kadarıyla. Artık kendimi kandırmıyorum, yakında öleceğim ve ailemin dağılması artık benim sorunum olmayacak.
+$FAB_021_04x06_04_04
+Senin sorunun değil mi? Bunu nasıl söyleyebilirsin? Sen bir annesin–
+$FAB_021_04x06_04_05
+Sakın… Sakın yapma! Anne mi?! Oğullarımdan biri asıldı, diğeri işkence sandalyesine bağlanıp travma yaşadı. Neden mi? Senin güç hırsın yüzünden. Senin! Orada oturan sensin, suçlu olan da sensin!
+$FAB_021_04x06_04_06
+Dilinizi tutun–
+$FAB_021_04x06_04_07
+Bunu izlemek, her şeyi kabullenmek zorunda kaldım ve hiçbirine engel olamadım. Hayatlarımızla oynadın! Kaburgalarının arasındaki o bıçak, ilk kez bir şeyi değiştirme fırsatım oldu.
+$FAB_021_06x05_05_QTitle
+Hain Hanriot’un ölümü karşısında nasıl bir tepki verdiniz?
+$FAB_021_06x05_05_00
+Hain Hanriot’un ölümü karşısında nasıl bir tepki verdiniz?
+$FAB_021_06x05_05_01
+…
+$FAB_021_06x05_05_02
+Soruyu anlıyor musunuz?
+$FAB_021_06x05_05_03
+Bunu kaldıramadım, ama oğlumun ölümünden sorumlu olan adamla – kocamla – aynı yatakta uyumak çok daha zordu.
+$FAB_021_06x05_05_04
+Hanriot Fransa’ya ihanet etti.
+$FAB_021_06x05_05_05
+Bu mahkemenin yargıcı ailesini ne kadar ihanet ettiyse, ki bunu defalarca yaptıysan, sen de o kadar ihanet ettin.
+$FAB_021_06x05_05_06
+Sen her zaman benim için en önemli kişi oldun!
+$FAB_021_06x05_05_07
+Ve şimdi kendini de ele veriyorsun. Gücün bir kürsüde durduğunu sen de gayet iyi biliyorsun. Seni böyle mi kandırdılar? Paris’te iktidar kur! Hükümler ver! Ailenden bahsetmeyi unuttular mı?
+$FAB_021_06x05_05_08
+Yaptılar...
+$FAB_021_06x05_05_09
+Demek ki iyi duymamışsın, çünkü ailen az önce paramparça oldu.
+$FAB_021_KEY_01
+Cinayete teşebbüs
+$FAB_021_KEY_02
+Silah
+$FAB_021_KEY_03
+Tutuklama sırasında direnç göstermedi
+$FAB_021_KEY_04
+Sanığın ilişkisi
+$FAB_021_KEY_05
+Aşığın ölümü
+$FAB_021_KEY_06
+Aile ilişkileri
+$FAB_021_LastDialog_00
+Oğlumla Cennet’te buluşacağım. En azından orada bize ulaşamayacağını biliyorum.

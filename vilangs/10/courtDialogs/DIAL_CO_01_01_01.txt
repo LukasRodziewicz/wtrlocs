@@ -1,0 +1,26 @@
+$DIAL_CO_01_01_02_001_JLDAVID
+Sana bana katılacağına söz verdiğini hatırlatabilir miyim? Bu gece ayın kumarbazlardan yana olduğunu hissediyorum.
+$DIAL_CO_01_01_02_002_JUDGE
+Ne yazık ki, eşlere pek lütufkâr davranmaz…
+$DIAL_CO_01_01_02_003_JLDAVID
+Tanrı bize, akşam zar oyunlarının önemini bilen eşler nasip etsin. Bir de, doğru miktarda şarabın şansı artırdığını da bilmeliler...
+$DIAL_CO_01_01_02_004_JUDGE
+Eve gitmeliyim.
+$DIAL_CO_01_01_02_005_JLDAVID
+Oyuna bir hakem getirmek avantaj sağlar – diğer oyuncular kesinlikle hile yapmaz.
+$DIAL_CO_01_01_02_006_JUDGE
+Bu pek güçlü bir argüman değil.
+$DIAL_CO_01_01_02_007_JLDAVID
+Adım Jacques-Louis David. Ben sadece mütevazı bir ressamım, öyle laf cambazı bir yargıç değilim.
+$DIAL_CO_01_01_02_008_JUDGE
+Kurnaz bir siyasetçisin, Jacques.
+$DIAL_CO_01_01_02_009_JLDAVID
+Bir siyasetçi olarak verilen sözlerin tutulmasının ne kadar önemli olduğunu bilirim. Ama sen, dostum, kendi sözünden sıyrılmaya çalışıyorsun.
+$DIAL_CO_01_01_02_C1
+Sözünü tut
+$DIAL_CO_01_01_02_C2
+Eve git
+$DIAL_CO_01_01_02_010_JUDGE
+Peki, ama sadece kısa bir süreliğine.
+$DIAL_CO_01_01_02_011_JUDGE
+Bu gece değil, Jacques.

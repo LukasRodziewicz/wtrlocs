@@ -1,0 +1,16 @@
+$DIAL_H_01_03_20_001_JUDGE
+Was haben Sie über Pache?
+$DIAL_H_01_03_20_002_RAMEL
+Wie so viele andere hat auch er vom Bordell der Rolands profitiert. Nachdem du ihnen das Geschäft abgeschnitten hast, wurde beschlossen, dass Pache deinen Mord arrangieren sollte. Der Bürgermeister hat mächtige Verbündete, darunter sogar Danton, also können wir ihn nicht einfach angreifen. Wir müssen seine Familie ins Visier nehmen.
+$DIAL_H_01_03_20_003_JUDGE
+Wie bitte?
+$DIAL_H_01_03_20_004_RAMEL
+Ich habe gehört, dass seine Tochter in einer Beziehung ist, die viele als… inakzeptabel ansehen würden. Sie ist mit einer anderen Frau liiert, und diese Dame verkehrt zudem mit Muscadins. Wenn du dieses Wissen nutzt, wird Pache aus Angst vor einem Skandal Fehler machen. Seine Verbündeten werden das bemerken und das Vertrauen in ihn verlieren.
+$DIAL_H_01_03_20_005_JUDGE
+Wird das genügen?
+$DIAL_H_01_03_20_006_RAMEL
+Nur wenn du zuerst sein Vertrauen gewinnst. Er muss überzeugt sein, dass du nichts von seiner Beteiligung am Attentatsversuch weißt. Ich habe einen Plan, aber zuerst müssen wir uns um das von den Rolands übernommene Bordell kümmern.
+$DIAL_H_01_03_20_007_JUDGE
+Weshalb?
+$DIAL_H_01_03_20_008_RAMEL
+Pache liebt das Glücksspiel.

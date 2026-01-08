@@ -1,0 +1,44 @@
+$DIAL_CO_01_03_21_V1_001_PACHE
+Soysuz! Sen... sen yılan! Danton bana asla ihanet etmedi. Yapan sendin!
+$DIAL_CO_01_03_21_V1_002_JUDGE
+O da yaptı.
+$DIAL_CO_01_03_21_V1_003_PACHE
+Bunu nasıl yapabildin? Biz aslında...
+$DIAL_CO_01_03_21_V1_004_JUDGE
+Evet, dostlar. Daha fazla vakit kaybetmeyelim. İhanet suçlamalarını kabul edin, kızınız serbest kalacak. Ancak, sizin için aynı sözü veremem.
+$DIAL_CO_01_03_21_V1_005_PACHE
+Sana saldırdım çünkü bana öyle yapmamı söylediler!
+$DIAL_CO_01_03_21_V1_006_JUDGE
+Bu önemsiz. Diğer katiller gibi yargılanacaksınız.
+$DIAL_CO_01_03_21_V1_007_PACHE
+Beni senin yüzünden idam edecekler! Bana dostluğunu, ittifakını vadeden kişi yüzünden!
+$DIAL_CO_01_03_21_V1_008_JUDGE
+Sizi kesinlikle görevden alacaklar, ama hayatta kalacaksınız. Marie de öyle. Ama havlamaya devam ederseniz, ikiniz de başınızı kaybedersiniz.
+$DIAL_CO_01_03_21_V1_009_PACHE
+Bunun bedelini ödeyeceksin, yemin ederim.
+$DIAL_CO_01_03_21_V1_010_JUDGE
+Belki, ama önce bedelini siz ödeyeceksiniz. Duruşmanız her an başlayacak, düşünmek için fazla vaktiniz yok.
+$DIAL_CO_01_03_21_V2_001_PACHE
+Kızım öldü.
+$DIAL_CO_01_03_21_V2_002_JUDGE
+Biliyorum.
+$DIAL_CO_01_03_21_V2_003_PACHE
+Bir… kız yüzünden kendi boğazını kesti.
+$DIAL_CO_01_03_21_V2_004_JUDGE
+Biliyorum.
+$DIAL_CO_01_03_21_V2_005_PACHE
+Hepsi senin yüzünden, alçak! Biz dostuz sanmıştım.
+$DIAL_CO_01_03_21_V2_006_JUDGE
+Hiçbir zaman dostun olmadım. Danton da öyle.
+$DIAL_CO_01_03_21_V2_007_PACHE
+Bana ne olacak?
+$DIAL_CO_01_03_21_V2_008_JUDGE
+İtiraf ederseniz serbest kalırsınız. İşbirliği yapmazsanız giyotine gidersiniz.
+$DIAL_CO_01_03_21_V2_009_PACHE
+Bu seçeneklerden hangisi kızımı geri getirecek?
+$DIAL_CO_01_03_21_V2_010_JUDGE
+Sanmıyorum.
+$DIAL_CO_01_03_21_V2_011_PACHE
+O zaman defolup gidebilirsin.
+$DIAL_CO_01_03_21_V2_012_JUDGE
+Duruşma birkaç dakika içinde başlayacak. İyice düşünseniz iyi olur.

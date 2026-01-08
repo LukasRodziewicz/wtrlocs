@@ -1,0 +1,22 @@
+$EVE_012_TITLE
+Letztes Mittel
+$EVE_012_MAIN_01
+Vor dem Gerichtsgebäude fällt Ihnen eine Frau auf, etwa im Alter Ihrer Frau. Kaum hat sie Sie entdeckt, spricht sie Sie an, und in den nächsten Minuten hören Sie eine Geschichte über einen Ehemann, der Familienerbstücke verkauft und die letzten Francs versäuft. Natürlich hungern auch die Kinder. Nichts daran überrascht Sie – bis die Frau ihre Erzählung damit beendet, dass sie Sie bittet, ihren Mann ins Gefängnis zu schicken. Sie verspricht, alles auszusagen, was nötig ist, solange er hinter Gittern landet.
+$EVE_012_MAIN_01_C1
+Dem Säufer mit dem Gefängnis drohen
+$EVE_012_MAIN_01_C2
+Den Mann verhaften und für eine Weile im Gefängnis behalten
+$EVE_012_MAIN_01_C3
+Sie ignorieren
+$EVE_012_MAIN_02A
+Es ist schwer zu sagen, was den Mann mehr erschreckt hat – der Anblick der bewaffneten Wache oder das Klagelied seiner Frau über all ihre Leiden. Für eine Weile wird er wohl keinen Ärger machen, und sollte er wieder zur Flasche greifen, muss er mit einer Abreibung durch deine Schläger rechnen…
+$EVE_012_MAIN_02B
+Die Statur des Wächters und Ihre überzeugenden Argumente hätten eigentlich ausreichen sollen, doch der Verstand des Betrunkenen war so vernebelt, dass er nichts begriff. Die meiste Zeit hielt er den Wächter für einen alten Trinkkumpan und forderte sogar, dass dieser ihm irgendwelche alten Schulden zurückzahlt. Gut, dass Sie nicht befohlen haben, den armen Kerl zu verprügeln – es hätte ohnehin nichts geändert.
+$EVE_012_MAIN_02B_C1
+Die ganze Situation ignorieren
+$EVE_012_MAIN_02B_C2
+Den Mann verhaften und für eine Weile ins Gefängnis bringen
+$EVE_012_MAIN_02C
+Der Trunkenbold leistete keinen Widerstand bei der Festnahme. Er war so betrunken, dass er vermutlich nicht einmal bemerkte, wer ihn abführte oder wohin er gebracht wurde. Auf halbem Weg zur Wache erbrach er sich auf die Hose des Wächters, was ihm ein paar Tritte einbrachte. Morgen wird er sich wohl fragen, warum ihm der Rücken so schmerzt und ob er in eine Schlägerei geraten ist. Die Zeit im Gefängnis, fern vom Alkohol, sollte ihm Gelegenheit geben, über einiges nachzudenken. Inzwischen kann seine Familie etwas zur Ruhe kommen, und seine Frau wird die Angelegenheiten des Hauses ordnen können.
+$EVE_012_MAIN_02D
+Sie sieht Ihnen direkt in die Augen, als würde sie darin eine Erklärung für Ihr Zögern suchen. Als Sie gehen, hören Sie hinter sich leises Schluchzen.

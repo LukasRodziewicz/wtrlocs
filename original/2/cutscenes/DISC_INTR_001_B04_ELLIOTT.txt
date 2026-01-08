@@ -1,0 +1,42 @@
+$DISC_INTR_001_B04_ELLIOTT_001_JUDGE_AGGR
+Roland est un furoncle pestiféré. Le nouveau régime ne peut se laisser marquer du sceau de la corruption.
+$DISC_INTR_001_B04_ELLIOTT_002_JUDGE_MANI
+Roland représente-t-il réellement le peuple ? Ou bien œuvre-t-il pour le Roi et sa suite ?
+$DISC_INTR_001_B04_ELLIOTT_003_JUDGE_JOKE
+Nous devons nous débarrasser de Roland pour son propre bien. Ses poches ne tarderont pas à éclater sous le poids de l'argent qu'il y entasse.
+$DISC_INTR_001_B04_ELLIOTT_004_JUDGE_HUMI
+La France saigne et les individus comme Roland ne lui permettent pas de panser ses blessures. Ils ne font au contraire que les aggraver.
+$DISC_INTR_001_B04_ELLIOTT_005_ELLIOTT_INTR
+Qui aurait cru que de mouton tu te métamorphoserais si vite en loup, flairant si intuitivement une proie blessée ?
+$DISC_INTR_001_B04_ELLIOTT_006_ELLIOTT_DOUB
+Nous connaissons les Roland. Madame Roland est aux commandes et son mari exécute les ordres. Peut-être n'est-ce pas lui qui est coupable ?
+$DISC_INTR_001_B04_ELLIOTT_007_ELLIOTT_IRRI
+Si j'ai survécu dans cette ville, cela tient principalement à mon refus de prendre part aux jeux malsains des hommes.
+$DISC_INTR_001_B04_ELLIOTT_008_JUDGE_AGGR
+Roland est non seulement coupable de concussion, mais il a aussi menacé un juge du Tribunal révolutionnaire. Un membre du pouvoir judiciaire indépendant !
+$DISC_INTR_001_B04_ELLIOTT_009_JUDGE_MANI
+Pour s'éviter une condamnation, Roland a lancé une croisade contre moi. N'a-t-il pas de la sorte déclaré la guerre contre le nouveau régime ?
+$DISC_INTR_001_B04_ELLIOTT_010_JUDGE_JOKE
+M. et Mme Roland sont deux moustiques qui me piquent, avides du sang de la France. Personne n'aime les moustiques.
+$DISC_INTR_001_B04_ELLIOTT_011_JUDGE_HUMI
+Ma propre antipathie envers le ministre ne change pas le fait que nous devrions remplacer ce royaliste corrompu par un homme plus juste.
+$DISC_INTR_001_B04_ELLIOTT_012_JUDGE_AGGR
+Si vous ne persuadez pas les députés, ce sera la preuve que vous tolérez les traîtres qui continuent d'exercer leur influence à travers la France !
+$DISC_INTR_001_B04_ELLIOTT_013_JUDGE_MANI
+Si les députés voient que vous désirez le départ de Roland, peut-être cesseront-ils de vous suspecter d'être royaliste ?
+$DISC_INTR_001_B04_ELLIOTT_014_JUDGE_JOKE
+Les Girondins s'emmêlent souvent les pieds tout seuls, nous n'avons qu'à leur donner un petit coup de pouce.
+$DISC_INTR_001_B04_ELLIOTT_015_JUDGE_HUMI
+Par moments, Roland est plus proche de l'Ancien Régime que Louis Capet. Si vous voulez vous débarrasser des vestiges de la monarchie, voici l'occasion.
+$DISC_INTR_001_B04_ELLIOTT_016_ELLIOTT_INTR
+Au premier abord, je n'étais pas certaine de vouloir m'opposer au ministre Roland, mais je dois avouer que tu es parvenu à me convaincre. Ton projet peut réussir et je t'y aiderai.
+$DISC_INTR_001_B04_ELLIOTT_017_ELLIOTT_DOUB
+Mes amis et moi-même ne bénéficierons point d'une tentative de révocation du Ministre de l'Intérieur.
+$DISC_INTR_001_B04_ELLIOTT_018_ELLIOTT_IRRI
+Le plus grand problème de la France n'est pas Roland, mais ses citoyens affamés !
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_01
+Que cherchons-nous à obtenir ?
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_02
+Pourquoi le voulons-nous ?
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_03
+Qu'y gagnera-t-elle ?

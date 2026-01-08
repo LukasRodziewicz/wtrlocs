@@ -1,0 +1,38 @@
+$DIAL_H_01_02_17_001_SPY
+Du warst lange bewusstlos.
+$DIAL_H_01_02_17_002_JUDGE
+Wer ist der Mann, dem ich offenbar mein Leben verdanke?
+$DIAL_H_01_02_17_003_SPY
+Grégory Ramel. Sie kennen mich nicht, doch ich weiß einiges über Sie. Die Dame an meiner Seite ist...
+$DIAL_H_01_02_17_004_JUDGE
+Ich kenne Grace Elliott... Sie waren es, die mich wieder zusammengenäht hat?
+$DIAL_H_01_02_17_005_GRACE_ELLIOTT
+Es ist nicht das erste Mal, dass ich jemandem das Leben rette. Die Revolution hat mehr Opfer gefordert, als Sie glauben.
+$DIAL_H_01_02_17_006_SPY
+Sie haben sich nicht nur in die Position von Minister Roland eingemischt, sondern – was noch schwerer wiegt – in das Geschäft, das von seiner tatkräftigen Ehefrau geführt wird. In das Unternehmen, aus dem ihre Verbündeten – Jean-Nicolas Pache, der Bürgermeister von Paris, und Jean-Baptiste Gobel, der Erzbischof von Paris – ihren Anteil am Gewinn erhielten.
+$DIAL_H_01_02_17_007_JUDGE
+Ich wusste das nicht …
+$DIAL_H_01_02_17_008_SPY
+Wenn diese Information leicht herauszufinden war, macht offenbar jemand seinen Job nicht richtig.
+$DIAL_H_01_02_17_009_JUDGE
+Aber Sie wissen doch ...
+$DIAL_H_01_02_17_010_SPY
+Ja, denn ich verdiene meinen Lebensunterhalt damit, Geheimnisse zu erfahren. Auf den Straßen heißt es, die Girondisten planen, die Konvention gewaltsam zu übernehmen. Die Demütigung des Königs und die Enthüllung der Verbindung zwischen dem gekrönten Verräter und Roland, einem führenden Girondisten, haben ihre Stellung geschwächt. Diese Gelegenheit könnten die Jakobiner beim Schopf packen – mit Robespierre und Danton an der Spitze. Vielleicht ist jetzt ihre Stunde gekommen.
+$DIAL_H_01_02_17_011_JUDGE
+Ich will damit nichts zu tun haben – diese Leute verstehen keinen Spaß.
+$DIAL_H_01_02_17_012_SPY
+Ich fürchte, Sie haben in dieser Angelegenheit kein Mitspracherecht – zumindest solange die Rolands am Leben sind. Sobald sie erfahren, dass Sie das Attentat überlebt haben, werden sie es erneut versuchen. Ihr Todesurteil ist bereits unterzeichnet.
+$DIAL_H_01_02_17_013_JUDGE
+Sie scheinen viel über mich zu wissen. Woher? Ich verstehe das nicht…
+$DIAL_H_01_02_17_014_GRACE_ELLIOTT
+Fürs Erste reicht es. Du musst dich ausruhen, wieder zu Kräften kommen. Deine Wunden…
+$DIAL_H_01_02_17_015_SPY
+Ich kannte Ihren Bruder…
+$DIAL_H_01_02_17_016_GRACE_ELLIOTT
+Monsieur Grégory!
+$DIAL_H_01_02_17_017_SPY
+Sie haben recht. Wir sprechen ein andermal darüber.
+$DIAL_H_01_02_17_018_JUDGE
+Ich habe mich noch nicht bei Ihnen bedankt für...
+$DIAL_H_01_02_17_019_SPY
+Sie werden eine weitere Gelegenheit haben.

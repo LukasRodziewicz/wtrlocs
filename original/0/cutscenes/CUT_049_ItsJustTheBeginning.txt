@@ -1,0 +1,30 @@
+$CUT_049_001
+Ten agent, którego kazałeś mi wczoraj uciszyć... udało się, ale musisz coś zobaczyć na własne oczy.
+$CUT_049_002_JUDGE
+Chciałeś mi pokazać pospolitego trupa?
+$CUT_049_003_GUARDSMAN
+To nie jest zwykły nieboszczyk. Spójrz co miał zawieszone na szyi.
+$CUT_049_004_JUDGE
+Królewska lilia.
+$CUT_049_005_GUARDSMAN
+Ukrywana głęboko pod ubraniem. A to nie wszystko.
+$CUT_049_006_GUARDSMAN
+Znaleźliśmy jeszcze wiadomość w wewnętrznej kieszeni płaszcza.
+$CUT_049_007_GUARDSMAN
+To treść rozkazu – ten człowiek miał zbudować w dzielnicy poparcie dla tajemniczego „R”.
+$CUT_049_008_JUDGE
+Kto jest na tyle zuchwały, by zająć puste miejsce po Ludwiku?
+$CUT_049_009_GUARDSMAN
+Tylko arystokraci mają jeszcze na tyle siły, by po cichu organizować ludzi takich jak ten tutaj.
+$CUT_049_010_JUDGE
+Nawet oni w obecnym stanie potrzebowaliby pomocy kogoś z Konwentu. Kim w takim układzie jest ten „R”?
+$CUT_049_011_GUARDSMAN
+Może to Robespierre? Jeśli to on, jeśli układa się z arystokratami, to musimy powiadomić… kogoś, wszystkich!
+$CUT_049_012_JUDGE
+To może też być minister Roland. Nie mając pewności, wywołamy tylko panikę.
+$CUT_049_013_GUARDSMAN
+Będziemy musieli w takim razie dopaść kolejnych agentów, bo ten tutaj nic więcej nam nie powie.
+$CUT_049_014_JUDGE
+Nie mamy wyjścia.
+$CUT_049_015_JUDGE
+Jeśli ten „R” zbiera dla siebie poparcie, to ty powinieneś zrobić to samo. Dla wspólnego dobra…

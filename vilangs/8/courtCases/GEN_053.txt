@@ -1,0 +1,324 @@
+$GEN_053_DOC_01_HEADER
+Compilado por: Charles Étienne
+$GEN_053_DOC_01_00
+	Lucas Adnet, um artesão e <a name="1" class="hidden">pai solteiro de duas filhas</a>, foi acusado de assassinato e profanação de cadáver. O caso chegou ao nosso conhecimento graças à denúncia de um Cidadão. Durante uma <a name="2" class="hidden">recepção noturna</a>, o doutor em ciências médicas Jean-Joël Gaumont ficou encantado com as belas louças expostas. O médico pediu aos anfitriões o endereço do fabricante e, no dia seguinte, foi visitá-lo <a name="3" class="hidden">em sua oficina</a>.
+$GEN_053_DOC_01_01
+	Ao examinar as amostras de <a name="4" class="hidden">talheres com cabos de osso</a> de Lucas Adnet, ele notou um cutelo de cabo longo que, para seu desconforto, o médico reconheceu de imediato como osso humano.
+$GEN_053_DOC_01_02
+	Gaumont despediu-se de Adnet e seguiu para o posto mais próximo da Guarda Nacional para fazer uma denúncia. Durante a busca, encontraram ossos guardados <a name="5" class="hidden">em um galpão</a>, organizados por tamanho em caixas de madeira. O fedor era quase insuportável, até mesmo para os oficiais mais experientes…
+$GEN_053_DOC_01_03
+	A única informação descoberta durante a investigação foi que Adnet comprou os ossos <a name="7" class="hidden">em uma feira</a> da comerciante Claudine Plouffe. Médicos trazidos do hospital Salpêtrière prepararam um laudo de inspeção dos ossos, que está anexado ao processo.
+$GEN_053_DOC_02_00
+Relatório elaborado pelos médicos do hospital Salpêtrière:
+$GEN_053_DOC_02_01
+	As descobertas próximas à oficina de Lucas Adnet nos perturbaram profundamente. Encontramos ossos humanos e de animais. Apesar de todos os nossos esforços, não conseguimos localizar um esqueleto completo. No entanto, as caixas continham <a name="9" class="hidden">duas mandíbulas</a>, dois fragmentos de ossos pélvicos, várias tíbias e fêmures de diferentes tamanhos. Estimamos que pertenciam a quatro ou cinco pessoas...
+$GEN_053_OnStart_00
+É você o artesão, Lucas Adnet?
+$GEN_053_OnStart_01
+De fato, senhor.
+$GEN_053_OnStart_02
+O termo correto é “monsieur le juge”.
+$GEN_053_OnStart_03
+Peço desculpas. Sim, monsieur le juge, já produzo talheres há pelo menos dez anos.
+$GEN_053_OnStart_04
+Você sabia que havia ossos humanos em sua oficina?
+$GEN_053_OnStart_05
+De forma alguma, monsieur le juge. Só procurei pela qualidade. Não sou médico.
+$GEN_053_OnStart_06
+O que você quer dizer com qualidade?
+$GEN_053_OnStart_07
+Que os ossos não são frágeis nem apresentam fissuras.
+$GEN_053_OnStart_08
+Aposto que ele sabe usar uma faca para deixar os ossos intactos!
+$GEN_053_OnStart_09
+Ele deve estrangulá-los ou afogá-los.
+$GEN_053_OnStart_10
+Então você deve saber quais ossos melhor atendem às suas necessidades?
+$GEN_053_OnStart_11
+Alguns servem, outros não, monsieur le juge. Costumo comprar ossos de vaca no mercado. Ossos de porco são piores, mas os de javali servem.
+$GEN_053_OnGuilty_00
+As provas não deixam espaço para dúvidas. Lucas Adnet, eu o sentencio à guilhotina.
+$GEN_053_OnGuilty_01
+Essa punição é branda demais.
+$GEN_053_OnGuilty_02
+Joguem os ossos dele para os porcos!
+$GEN_053_OnPrison_00
+Cidadão Adnet, declaro-o culpado de assassinato e profanação de cadáveres. Você passará o resto de sua vida na prisão.
+$GEN_053_OnPrison_01
+Ele vive, enquanto suas vítimas são usadas pelos nobres para mexer a sopa.
+$GEN_053_OnNotGuilty_00
+Cidadão Adnet, da próxima vez que vir ossos suspeitos na feira, faça uma denúncia. Por ora, está livre para ir.
+$GEN_053_OnNotGuilty_01
+Por quê? Nada do que ouvimos hoje pesa a seu favor.
+$GEN_053_OnNotGuilty_02
+O juiz perdeu o juízo.
+$GEN_053_OnNotGuilty_03
+Ei, trabalhador, é melhor nem pisar na rua, porque a gente te enxerga de longe.
+$GEN_053_02x04_00_QTitle
+Chame o Dr. Gaumont.
+$GEN_053_02x04_00_00
+Chame o Dr. Gaumont.
+$GEN_053_01x09_01_QTitle
+Cidadão Adnet, o senhor está criando duas filhas sozinho?
+$GEN_053_01x09_01_00
+Cidadão Adnet, o senhor está criando duas filhas sozinho?
+$GEN_053_01x09_01_01
+Sim, sou eu, mas às vezes minha irmã me ajuda.
+$GEN_053_01x09_01_02
+O que aconteceu com a mãe deles?
+$GEN_053_01x09_01_03
+Ela se afogou quando minha caçula tinha apenas dois anos.
+$GEN_053_01x09_01_04
+Onde ela foi enterrada?
+$GEN_053_01x09_01_05
+Em lugar nenhum, o corpo nunca foi encontrado.
+$GEN_053_01x09_01_06
+Ele a usou para fazer garfos!
+$GEN_053_01x09_01_07
+As meninas frequentam a escola?
+$GEN_053_01x09_01_08
+Não confio nas escolas, não ensinam nada de útil.
+$GEN_053_01x09_01_09
+Que tal aprender a ler e escrever?
+$GEN_053_01x09_01_10
+Tudo o que for útil na vida, eu mesmo posso ensinar a eles.
+$GEN_053_08x05_02_QTitle
+Você guardou todos os ossos no galpão?
+$GEN_053_08x05_02_00
+Você guardou todos os ossos no galpão?
+$GEN_053_08x05_02_01
+A maioria deles.
+$GEN_053_08x05_02_02
+Por que lá, justamente?
+$GEN_053_08x05_02_03
+O melhor lugar para guardar ossos é onde as larvas podem devorar a carne e a gordura. Elas se esgueiram pelas frestas das tábuas e põem ovos, e então suas crias banqueteiam-se. As larvas são verdadeiras glutonas.
+$GEN_053_08x05_02_04
+Eles?
+$GEN_053_08x05_02_05
+Larvas.
+$GEN_053_08x05_02_06
+Doente!
+$GEN_053_08x05_02_07
+Então você está dizendo que os ossos que comprou ainda estavam cobertos de carne?
+$GEN_053_08x05_02_08
+Na maioria das vezes, sim. As frescas são mais fáceis de esculpir. São macias, delicadas...
+$GEN_053_08x05_02_09
+O cheiro não lhe incomodou?
+$GEN_053_08x05_02_10
+Pelo contrário, o cheiro simboliza tanto a vida quanto a morte. Às vezes, à noite, eu ia até o galpão...
+$GEN_053_08x05_02_11
+Sentir o cheiro da carne apodrecendo?
+$GEN_053_08x05_02_12
+A decomposição é um processo fascinante. Insetos depositam ovos na carne morta, que então eclodem e crescem. A vida não termina, apenas se transforma em mais vida. Gosto de observar isso.
+$GEN_053_08x05_02_13
+Isso lhe dá... prazer?
+$GEN_053_08x05_02_14
+Sim. Imagino que seja assim que um jardineiro se sente ao contemplar suas flores.
+$GEN_053_07x09_03_QTitle
+Alega ter comprado mandíbulas humanas em uma feira de rua?
+$GEN_053_07x09_03_00
+Alega ter comprado mandíbulas humanas em uma feira?
+$GEN_053_07x09_03_01
+Sim, monsieur le juge, eu...
+$GEN_053_07x09_03_02
+Vou lhe dar a chance de ser honesto comigo. De quem eram os ossos que você guardava no galpão, e onde os conseguiu?
+$GEN_053_07x09_03_03
+…
+$GEN_053_07x09_03_04
+Perdão?
+$GEN_053_07x09_03_05
+Comprei eles em uma feira de rua na 6ª Seção.
+$GEN_053_07x09_03_06
+Mentiroso!
+$GEN_053_07x09_03_07
+Como os vendedores armazenam os ossos?
+$GEN_053_07x09_03_08
+Em caixas de madeira, iguais às usadas para legumes.
+$GEN_053_07x09_03_09
+São bem pequenos. Uma mandíbula humana inteira certamente não caberia dentro de um deles.
+$GEN_053_07x09_03_10
+…
+$GEN_053_07x09_03_11
+Você ainda não admite sua culpa?
+$GEN_053_07x09_03_12
+Tudo o que eu sempre quis foi criar talheres belos. Belos, e com alma.
+$GEN_053_03x06_04_QTitle
+Quantos ossos você usa por mês?
+$GEN_053_03x06_04_00
+Quantos ossos você utiliza por mês?
+$GEN_053_03x06_04_01
+Sou lento, e o trabalho exige tempo. Antes de começar a entalhar, é preciso preparar o material bruto. Primeiro, deixo os ossos de molho em leite azedo para que–
+$GEN_053_03x06_04_02
+Responda à pergunta.
+$GEN_053_03x06_04_03
+Parte do que você encontrou no galpão provavelmente não serve para muita coisa — as rachaduras não são visíveis de imediato. Acho que esses materiais não durariam mais de um mês.
+$GEN_053_03x06_04_04
+E depois?
+$GEN_053_03x06_04_05
+Depois de usar cerca de metade do que tenho, vou precisar ir ao mercado de rua para comprar mais.
+$GEN_053_03x06_04_06
+Ou para o cemitério com uma pá!
+$GEN_053_03x06_04_07
+Ainda insiste em negar? Estava matando pessoas ou procurando ossos nas catacumbas?
+$GEN_053_03x06_04_08
+Velhos ossos não são o melhor material para entalhe.
+$GEN_053_03x06_04_09
+Devemos considerar isso uma confissão de assassinato?
+$GEN_053_03x06_04_10
+Do que está falando? Eu não matei ninguém! Comprei ossos numa feira.
+$GEN_053_04x07_05_QTitle
+Para quem você vende suas mercadorias?
+$GEN_053_04x07_05_00
+Para quem você vende suas mercadorias?
+$GEN_053_04x07_05_01
+Geralmente para cidadãos mais abastados. Meu trabalho é feito nos mínimos detalhes. Eu ousaria até chamá-lo de arte.
+$GEN_053_04x07_05_02
+Que se dane esse tipo de arte!
+$GEN_053_04x07_05_03
+Além disso, cabos de osso são impressionantes.
+$GEN_053_04x07_05_04
+Pare antes que eu vomite na primeira fileira...
+$GEN_053_04x07_05_05
+As vendas estão boas?
+$GEN_053_04x07_05_06
+Bastante. O suficiente para viver sem medo. Uma vez vendi um conjunto inteiro para um diplomata inglês. Os ossos que trabalho ficam tão brancos quanto a neve, então o convenci facilmente de que era marfim. Ganhei várias vezes mais do que costumo receber ao vender um conjunto comum para cidadãos franceses.
+$GEN_053_04x07_05_07
+Devo incluir fraude entre as acusações contra você?
+$GEN_053_04x07_05_08
+Se isso fizer você parar de dizer que matei alguém, admito a mentira.
+$GEN_053_07x08_06_QTitle
+Chame a testemunha, Claudine Plouffe.
+$GEN_053_07x08_06_00
+Chame a testemunha, Claudine Plouffe.
+$GEN_053_07x08_06_02
+Claudine Plouffe?
+$GEN_053_07x08_06_03
+Correto.
+$GEN_053_WIT_00_A_QTitle
+Como você percebeu que era um osso humano na oficina?
+$GEN_053_WIT_00_A_00
+Como você reconheceu um osso humano na oficina?
+$GEN_053_WIT_00_A_01
+Era uma tíbia. Um olhar desatento poderia confundi-la com um osso de animal, mas diferem em espessura e formato. Perdoe a simplificação, mas a tíbia humana costuma ter uma seção transversal mais triangular.
+$GEN_053_WIT_00_A_02
+E você não teve nenhuma dúvida?
+$GEN_053_WIT_00_A_03
+Monsieur le juge, já vi ossos demais nesta vida. Este poderia muito bem ser o meu.
+$GEN_053_WIT_00_A_04
+Era velha?
+$GEN_053_WIT_00_A_05
+Você quer saber a hora da morte do dono? É difícil afirmar, já que o osso foi esculpido.
+$GEN_053_WIT_00_A_06
+Você poderia fazer uma estimativa? É importante.
+$GEN_053_WIT_00_A_07
+Se eu tivesse que arriscar, diria que um osso antigo, retirado de uma sepultura, não serviria como material para entalhe. Seria frágil demais e amarelado.
+$GEN_053_WIT_00_A_08
+Tem certeza?
+$GEN_053_WIT_00_A_09
+Nunca desenterrei um cadáver, então só posso repetir o que minha intuição me diz.
+$GEN_053_WIT_00_B_QTitle
+Por favor, descreva o comportamento do cidadão Adnet durante sua visita.
+$GEN_053_WIT_00_B_00
+Por favor, descreva o comportamento do cidadão Adnet durante sua visita.
+$GEN_053_WIT_00_B_01
+Agora que o senhor pergunta, monsieur le juge, lembro que ele estava entalhando alguma coisa.
+$GEN_053_WIT_00_B_02
+Ele falou com você ou tentou lhe vender algo?
+$GEN_053_WIT_00_B_03
+Depois de me cumprimentar, ele praticamente não me deu atenção. Isso não me incomodou, pois detesto vendedores insistentes.
+$GEN_053_WIT_00_B_04
+Você fez alguma pergunta?
+$GEN_053_WIT_00_B_05
+Perguntei sobre o preço. Não me lembro exatamente, mas me chamou a atenção o quão baixo era para a delicadeza e precisão do trabalho dele.
+$GEN_053_WIT_00_B_06
+Então você viu o osso humano?
+$GEN_053_WIT_00_B_07
+Está certo. No começo achei que era coisa da minha cabeça, mas então peguei o objeto e examinei melhor…
+$GEN_053_WIT_01_A_QTitle
+Você conhece o acusado?
+$GEN_053_WIT_01_A_00
+Você conhece o acusado?
+$GEN_053_WIT_01_A_01
+Sim, ele vinha com frequência comprar ossos de mim.
+$GEN_053_WIT_01_A_02
+Você vendeu ossos de animais para ele?
+$GEN_053_WIT_01_A_03
+Eu... bem...
+$GEN_053_WIT_01_A_04
+Cidadão?
+$GEN_053_WIT_01_A_05
+Animais, sim, mas não entendo muito de ossos. Às vezes eu sentia algo estranho com o que o açougueiro trazia pra gente...
+$GEN_053_WIT_01_A_06
+Como se não tivessem sido tirados de um animal?
+$GEN_053_WIT_01_A_07
+Não sei, só achei estranho.
+$GEN_053_WIT_01_A_08
+Com que frequência eram feitas as entregas do açougueiro?
+$GEN_053_WIT_01_A_09
+Não muito. Uma ou duas vezes por mês.
+$GEN_053_WIT_01_B_QTitle
+Você chegou a perguntar ao acusado por que ele precisava desses ossos?
+$GEN_053_WIT_01_B_00
+Você chegou a perguntar ao acusado por que ele precisava desses ossos?
+$GEN_053_WIT_01_B_01
+Perguntei, e ele disse que ia fazer talheres com elas. Só bati o dedo na têmpora, achando ele maluco, e voltei ao trabalho.
+$GEN_053_WIT_01_B_02
+Achou isso estranho?
+$GEN_053_WIT_01_B_03
+Sim, mas estes são tempos estranhos. As pessoas acabam se acostumando com tudo.
+$GEN_053_WIT_01_B_04
+O cidadão Adnet escolhia cuidadosamente os ossos que comprava? Como se estivesse procurando algo especial?
+$GEN_053_WIT_01_B_05
+Sim, ele costumava ficar junto à cesta e remexer nas coisas. Mas às vezes, quando estava com pressa, comprava a cesta inteira.
+$GEN_053_WIT_01_B_06
+Com que frequência ele vinha buscar ossos?
+$GEN_053_WIT_01_B_07
+Ele costumava vir com frequência, mas nos últimos seis meses quase não o vi. Disse que encontrou outro fornecedor.
+$GEN_053_WIT_01_B_08
+Por que não executar alguns coveiros também, só por precaução?
+$GEN_053_WIT_01_B_09
+Ele mencionou algum nome?
+$GEN_053_WIT_01_B_10
+Não me dei ao trabalho de perguntar.
+$GEN_053_WIT_01_B_12
+Quem era o outro fornecedor mencionado pela testemunha?
+$GEN_053_WIT_01_B_13
+Não havia ninguém, monsieur le juge. Ultimamente, não tenho ganhado muito dinheiro e não queria que soubessem que os negócios não vão bem…
+$GEN_053_WIT_01_B_14
+Mente como o vigarista que confessou ser!
+$GEN_053_KEY_01
+Pai de duas filhas
+$GEN_053_KEY_02
+Recepção
+$GEN_053_KEY_03
+Oficina
+$GEN_053_KEY_04
+Talheres com cabos de osso
+$GEN_053_KEY_05
+Barracão
+$GEN_053_KEY_06
+Caixas de madeira
+$GEN_053_KEY_07
+Mercado de rua
+$GEN_053_KEY_08
+Ossos de animais
+$GEN_053_KEY_09
+Mandíbulas humanas
+$GEN_053_LastDialog_00
+Quem vai cuidar das minhas filhas? Vocês, assassinos e estupradores? É isso mesmo, é isso que vocês são!
+$GEN_053_UNIQUE_QUESTION_00
+O que aconteceu com a esposa do artesão?
+$GEN_053_UNIQUE_ANSWER_CORRECT_00_00
+Ela se afogou.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ela o deixou por outro homem.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ela foi condenada à guilhotina.
+$GEN_053_UNIQUE_QUESTION_01
+Segundo o réu, que tipo de ossos ele costumava comprar no mercado?
+$GEN_053_UNIQUE_ANSWER_CORRECT_01_00
+Ossos de vaca.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ossos de porco.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ossos de cachorro.

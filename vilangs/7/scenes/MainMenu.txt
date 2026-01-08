@@ -1,0 +1,56 @@
+#GAME_OPTIONS
+게임 설정
+#SOUND_OPTIONS
+오디오
+#CREDITS_HEADER
+제작진
+#CREDITS_BACK
+돌아가기
+#CHOOSE_PROFILE
+프로필 선택
+#NEW_PROFILE
+프로필 생성
+#EMPTY_PROFILE
+새 프로필 만들기
+#PROFILE_PLACEHOLDER
+프로필 이름
+#PROFILE_DELETE_QUESTION_TITLE
+프로필 삭제
+#PROFILE_DELETE_QUESTION
+프로필을 삭제하면 복구할 수 없습니다. 정말 삭제하시겠습니까?
+#PROFILE_SUBTITLE
+제 {0}막 {1}일
+#NEW_GAME_QUESTION_TITLE
+다시 시작
+#NEW_GAME_QUESTION
+재시작하면 모든 진행 상황이 사라집니다. 정말 계속하시겠습니까?
+#SOUND_MAIN_OPTION
+마스터 볼륨
+#SOUND_EFFECTS_OPTION
+효과음 볼륨
+#SOUND_MUSIC_OPTION
+음악 볼륨
+#SOUND_DIALOGS_OPTION
+음성 볼륨
+#AUTOSAVE
+자동 저장
+#SINGLE_CASES_HEADER
+심리:
+#MULTI_CASES_HEADER
+심리:
+#CASES_EMPTY
+없음
+#ACT
+제{0}막
+#LOAD_GAME_DAY
+{0}일째
+#LOAD_GAME_PARAMS_INFO
+상황:
+#LOAD_GAME_QUESTION_TITLE
+이전 저장 불러오기
+#LOAD_GAME_QUESTION
+이전 날짜를 선택하면 이후 날짜의 진행 상황이 모두 사라집니다. 계속하시겠습니까?
+#SAVE_PROFILE
+프로필 생성
+#FLASHCARDS_CASES_KEY
+특별 판결

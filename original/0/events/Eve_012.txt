@@ -1,0 +1,30 @@
+$EVE_012_TITLE
+Ostatnia deska ratunku
+
+$EVE_012_MAIN_01
+Przed gmachem sądu dostrzegasz kobietę w wieku twojej żony. Gdy tylko cię zauważa, w mgnieniu oka doskakuje i zagradza drogę. Przez następne kilka minut słuchasz historii męża, który przepija ostatnie posiadane przez nich pieniądze i cenne pamiątki rodzinne. Dzieci głodują – klasyka. Niecodzienna jest puenta – kobieta prosi o… zamknięcie jej męża w więzieniu. Jest gotowa zeznać cokolwiek, co posadzi go za kratki.
+
+$EVE_012_MAIN_01_C1
+Postrasz pijaka więzieniem
+$EVE_012_MAIN_01_C2
+Aresztuj i przetrzymaj mężczyznę w więzieniu
+$EVE_012_MAIN_01_C3
+Zignoruj kobietę
+
+
+$EVE_012_MAIN_02A
+Trudno powiedzieć, czy mężczyzna bardziej przestraszył się widoku strażnika pod bronią, czy stojącej obok niego i wykrzykującej swoje bóle żony. W każdym razie sprawa została załatwiona, przynajmniej na jakiś czas. Pijak przed sięgnięciem po butelkę będzie musiał przeliczyć szansę na pogruchotanie mu kości przez twoich osiłków…
+
+$EVE_012_MAIN_02B
+Postura strażnika była słuszna, argumenty trafione. Jednak zapijaczony umysł nie był w stanie niczego zrozumieć. Przez większość czasu pijak widział w strażniku swojego starego kolegę od kieliszka. Chciał nawet żądać od niego zwrotu zaległej pożyczki. Gdybyś kazał pobić biedaka, i tak nic by to nie dało.
+
+$EVE_012_MAIN_02B_C1
+Zignoruj sprawę
+$EVE_012_MAIN_02B_C2
+Aresztuj i przetrzymaj mężczyznę w więzieniu
+
+$EVE_012_MAIN_02C
+Pijak nie opierał się. Był tak odurzony, iż wątpię, żeby zdawał sobie sprawę z faktu, gdzie jest prowadzony i przez kogo. W połowie drogi do aresztu zwymiotował strażnikowi na spodnie, za co został poczęstowany kilkoma kopniakami. Jutro będzie się zastanawiał, z kim wdał się w bójkę i dlaczego bolą go plecy. Pobyt w więzieniu, gdzie nie będzie miał dostępu do alkoholu, powinien rozjaśnić mu kilka spraw, a jego żona uporządkuje sprawy domowe.
+
+$EVE_012_MAIN_02D
+Kobieta spogląda przez chwilę w nasze oczy, szukając wytłumaczenia. Odchodząc, słyszysz za plecami tłumiony płacz.

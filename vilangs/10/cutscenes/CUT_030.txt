@@ -1,0 +1,138 @@
+$CUT_030_001_JUDGE
+Gözlerin hiç bu kadar boş bakmamıştı.
+$CUT_030_002_JUDGE
+Ama bugün… benimle gurur duymanı istiyorum.
+$CUT_030_003_THUG
+Benimle gelin, Mösyö Yargıç.
+$CUT_030_004_JUDGE
+Oğlum!
+$CUT_030_005_BROTHER
+Hoş geldin... kardeşim.
+$CUT_030_006_BROTHER
+Uzun süre karanlıkta kaldın.
+$CUT_030_007_JUDGE
+Bruno? Gerçekten sen misin? Nasıl... bu nasıl mümkün olabilir?
+$CUT_030_008_BROTHER
+Ne düşünmeniz gerektiği size söylendi.
+$CUT_030_009_BROTHER
+Babamızın gözdesi olan oğul olarak ölmem gerekti ki yeniden doğabileyim.
+$CUT_030_010_BROTHER
+Onun ezeli düşmanı olarak.
+$CUT_030_011_JUDGE
+Anlamıyorum... Bütün bunların anlamı ne?
+$CUT_030_012_BROTHER
+Sana yüzünden kaybettiğim her şeyi geri almak için döndüm. Ailemi, mutluluğumu…
+$CUT_030_013_BROTHER
+Siz huzurlu bir aile hayatı sürerken, ben savaş meydanının çamurunda sürünüyordum.
+$CUT_030_014_JUDGE
+Hepimiz öldüğünü sanmıştık.
+$CUT_030_015_BROTHER
+Böylesi çok daha kolaydı, değil mi? Ölüydüm ve cehennemi yaşadım, sevgili kardeşim.
+$CUT_030_016_BROTHER
+Paris beni terk etti, adımın duyulmasıyla her kapı yüzüme kapandı.
+$CUT_030_017_BROTHER
+O anda cehennem beni pençesine aldı.
+$CUT_030_018_BROTHER
+Orduya katıldım, soylu bir ölüm umuduyla.
+$CUT_030_019_BROTHER
+Bunun yerine yakalandım. Alındım. Ve acı çektim.
+$CUT_030_020_BROTHER
+Düşmanlar benimle zar oyunu oynadı.
+$CUT_030_021_BROTHER
+Kazansaydım özgür olacaktım.
+$CUT_030_022_BROTHER
+Ama kaybettiğim her turda bir elimi de kaybederdim.
+$CUT_030_023_BROTHER
+İlkini ben kazandım…
+$CUT_030_024_BROTHER
+… ama ikincisi…
+$CUT_030_025_BROTHER
+Kaçmayı başardım, sonra da intikamımı planlamaya başladım – ailemizden, babamızdan.
+$CUT_030_026_BROTHER
+Beni reddeden herkese.
+$CUT_030_027_JUDGE
+İntikam mı? Bize mi? Suçu Clément Renard’a yüklemelisin, asıl sorumlu olan oydu–
+$CUT_030_028_BROTHER
+Hepinizi suçluyorum! Babamı, seni, Fransa’yı…
+$CUT_030_029_JUDGE
+Kendi ailene zarar mı vermek istiyorsun?!
+$CUT_030_030_BROTHER
+Beni reddettiniz! Tanrı'nın Kabil'i reddettiği gibi.
+$CUT_030_031_BROTHER
+Baba kendi oğlunu terk etti, sen ise beni savunmaya bile çalışmadın.
+$CUT_030_032_JUDGE
+Ben daha çocuktum...
+$CUT_030_033_BROTHER
+Artık bir yetişkinsin ve babamız, senin ne kadar alçalabileceğini izleyerek düşüşüne tanık olacak.
+$CUT_030_034_BROTHER
+Eninde sonunda seni de terk edecek, tıpkı beni terk ettiği gibi.
+$CUT_030_035_BROTHER
+Ölümün ona o kadar acı vermeyeceğini fark ettim,
+$CUT_030_036_BROTHER
+Diğer oğlunun da dibe vurup bir kötülüğe dönüşmesini izlemek gibi.
+$CUT_030_037_BROTHER
+Ve gerçekten çok iyi iş çıkardın. Onları yerle bir ettin.
+$CUT_030_038_BROTHER
+Rolandlar.
+$CUT_030_039_BROTHER
+Pache ve kızı.
+$CUT_030_040_BROTHER
+Gobel ve piç oğlu.
+$CUT_030_041_BROTHER
+Ve şimdi Robespierre.
+$CUT_030_042_BROTHER
+Her şeyi planıma uygun yaptın. Tek yapmam gereken, sende güç arzusunu uyandırmaktı.
+$CUT_030_043_BROTHER
+Senin de benimle birlikte düşeceğinden emin oldum, hem de babamızın gözleri önünde.
+$CUT_030_044_BROTHER
+Şimdi onun gözünde eşitiz.
+$CUT_030_045_JUDGE
+Oğlumun ölümü de planının bir parçası mıydı?
+$CUT_030_046_BROTHER
+Onu Renard’ın ve senin sevgili akıl hocanın elleriyle idam ettirdim.
+$CUT_030_047_BROTHER
+Onu ziyaret ettim ve hapsedilen oğluyla ilgili hikâyeye inanmasını sağladım.
+$CUT_030_048_BROTHER
+Sonra o da bizden biri oldu. Bir cani.
+$CUT_030_049_BROTHER
+Kendi çocuğunu kurtarmak için seninkini öldürmeme yardım etti.
+$CUT_030_050_BROTHER
+Bak, benim de kendi devrimime ihtiyacım vardı.
+$CUT_030_051_BROTHER
+Toplumunuza uymadıkları için suçlu ilan ettiğiniz insanlara ayrılmış bir yer.
+$CUT_030_052_BROTHER
+Paris'te bir sürgünler ordusuna liderlik ediyorum.
+$CUT_030_053_BROTHER
+Annelerini giyotine gönderdiğinizde geride kalan oğulların ve kızların ordusu.
+$CUT_030_054_BROTHER
+Devrim yüzünden her şeyini kaybeden ve yurdundan sürülüp yabancı topraklara gitmeye zorlanan insanlar.
+$CUT_030_055_BROTHER
+Birkaç gün içinde Paris’e saldıracak ve onun küllerinden yeni bir yuva kuracağız. Orada bir baba, iki oğlunu daima gözünün önünde tutacak.
+$CUT_030_056_JUDGE
+Aklını mı kaçırdın?!
+$CUT_030_057_BROTHER
+İkinci oğluna ne yapmayı düşündüğümü bir de duyunca bekle…
+$CUT_030_058_JUDGE
+O hiçbir suç işlemedi!
+$CUT_030_059_BROTHER
+Herkes babasının günahlarının bedelini ödemeli – tıpkı benim, bizimkilerin korkaklığının bedelini ödediğim gibi.
+$CUT_030_060_BROTHER
+İki tur zar oynayacağız.
+$CUT_030_061_BROTHER
+Kaybettiğin her turda, o bir elini kaybedecek.
+$CUT_030_062_BROTHER
+Benim de ödemek zorunda kaldığım bedel buydu, şimdi sıra senin oğlunda.
+$CUT_030_063_BROTHER
+İşlediğin günahlar için uygun bir bedel bu.
+$CUT_030_064_JUDGE
+Ramel... dostum.
+$CUT_030_065_JUDGE
+Beni kurtardı.
+$CUT_030_066_JUDGE
+Oğlumu kurtardı.
+$CUT_030_067_JUDGE
+Ama o, çoktan bin parçaya ayrılmış olanı kurtaramazdı.
+$CUT_030_068_JUDGE
+Gözleri boş değildi.
+$CUT_030_069_JUDGE
+Gözleri...

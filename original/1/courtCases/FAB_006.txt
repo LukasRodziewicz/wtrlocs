@@ -1,0 +1,260 @@
+$FAB_006_DOC_01_HEADER
+Compiled by: Fabrice Poli
+$FAB_006_DOC_01_00
+Marie-Sylvie Pache, daughter of the Mayor of Paris, has been accused of the <a name="1" class="hidden">cold-blooded murder</a> of Béatrice Caron.
+$FAB_006_DOC_01_01
+The arrest was made in an <a name="2" class="hidden">abandoned house</a> on rue Saint-Maur, where the defendant supposedly copulated with the victim many times. The shack was perfectly suited for trysts intended to be kept a secret. The detention took place with the personal assistance of Judge Fidèle. According to the Guard, the defendant was found standing over the deceased with a blood-stained <a name="4" class="hidden">kitchen knife in her hand</a>, ascertained to be the murder weapon. The defendant put up <a name="5" class="hidden">no resistance</a> during her arrest.
+$FAB_006_DOC_01_02
+Investigators have established that the defendant and the victim knew each other for a long time. They were seen together often, however, acquaintances of the defendant suggest that she preferred not to boast about her father’s position, or even her <a name="7" class="hidden">real name</a>. Béatrice, on the other hand, in the absence of the defendant, allegedly bragged about… excuse my language, monsieur le juge, she bragged about having <a name="8" class="hidden">“often fucked”</a> the defendant. I suspect this is just the silly prattle of a young girl. Nevertheless, I am reporting what I have learned.
+$FAB_006_DOC_01_03
+There are plenty of assumptions and gossip in this case. Béatrice had some connections with the Muscadins, but we were unable to learn anything of value from them. Rumour has it she was very much like this mob of delinquents – young, unruly, disrespectful of authority, and depraving the sober-minded youth. At the same time, she usurped the right to call herself a defender of the people. Béatrice was a Muscadin to the core, and it would appear the defendant wished to become much the same.
+$FAB_006_DOC_02_TOOLTIP
+The blackmailer’s letter
+$FAB_006_DOC_02_00
+Marie, I have been betrayed by your world. I have become a traitor, an Austrian bitch, and <a name="9" class="hidden">somebody must pay</a> for my shame and pain. That person is you. Come to our place in the evening with <a name="10" class="hidden">3,000 francs</a>. If you do not, I will tell everyone that you are a spy too, and you will be called a treacherous whore, just as I am now.
+$FAB_006_OnStart_00
+Although many of you know this face already, I call upon the defendant to introduce herself.
+$FAB_006_OnStart_01
+Marie-Sylvie Pache, daughter–
+$FAB_006_OnStart_02
+Yes, we know.
+$FAB_006_OnGuilty_00
+For murder, I sentence Marie-Sylvie Pache to death.
+$FAB_006_OnGuilty_01
+It was clear from the beginning.
+$FAB_006_OnGuilty_02
+I don’t even feel sorry for her.
+$FAB_006_OnGuilty_03
+Had she got herself a man, this would have ended differently.
+$FAB_006_OnPrison_00
+Marie-Sylvie Pache, there is no doubt you committed the crime. I sentence you to prison, and hope you appreciate our lenience.
+$FAB_006_OnPrison_01
+I personally do not see why she should not visit the guillotine.
+$FAB_006_OnPrison_02
+Perhaps someone in prison will help her go straight.
+$FAB_006_OnNotGuilty_00
+I have taken your testimony and find you not guilty.
+$FAB_006_OnNotGuilty_01
+But you caught her red-handed yourself!
+$FAB_006_OnNotGuilty_02
+What?
+$FAB_006_OnNotGuilty_03
+Why?
+$FAB_006_OnNotGuilty_04
+The judge surely prefers boys himself and sympathises with her.
+$FAB_006_01x02_00_QTitle
+Why did you choose this particular place to murder your victim?
+$FAB_006_01x02_00_00
+Why did you choose this particular place to murder your victim?
+$FAB_006_01x02_00_01
+It was not me who chose the place, but Béatrice… And I had no intention of murdering anyone.
+$FAB_006_01x02_00_02
+There would be no witnesses to the crime there.
+$FAB_006_01x02_00_03
+A crime was committed every time we met there – a crime of misalliance, a crime of sex and bodies. We relied on having no witnesses.
+$FAB_006_01x02_00_04
+So, they did in fact… well.
+$FAB_006_01x05_01_QTitle
+You offered no resistance during the arrest. Why were you so calm?
+$FAB_006_01x05_01_00
+You offered no resistance during the arrest. Why were you so calm?
+$FAB_006_01x05_01_01
+I know what I have done, and I do not deny a thing.
+$FAB_006_01x05_01_02
+And you are aware that punishment will be fatal for a crime such as this? Perhaps you should have tried to save yourself?
+$FAB_006_01x05_01_03
+Our family reputation has been tarnished by these accusations against my father, the person whom… Béatrice turned out to be a blackmailer. What would I save? My life? What life?!
+$FAB_006_01x05_01_04
+You mean you murdered this woman in cold blood because she hurt your family?
+$FAB_006_01x05_01_05
+She’s not even denying it. What a fool!
+$FAB_006_01x06_02_QTitle
+You murdered a good friend.
+$FAB_006_01x06_02_00
+You murdered a good friend.
+$FAB_006_01x06_02_01
+The knife went into her as it would any stranger.
+$FAB_006_01x06_02_02
+You speak without any trace of emotion. How is that possible?
+$FAB_006_01x06_02_03
+When I received Béatrice’s letter, my heart turned to ice and I saw the true colours of the world – treachery, egotism, ruthlessness.
+$FAB_006_01x06_02_04
+She’s young, rich, and foolish.
+$FAB_006_02x07_03_QTitle
+What if the owner of the house that you occupied for your trysts had returned?
+$FAB_006_02x07_03_00
+What if the owner of the house that you occupied for your trysts had returned?
+$FAB_006_02x07_03_01
+We did not occupy the house, that conclusion is ridiculous.
+$FAB_006_02x07_03_02
+The mayor’s daughter wanted to demonstrate she had power. How aristocratic.
+$FAB_006_02x07_03_03
+I am not an aristocrat, I come from the common people. The poorer Citizens of Paris accepted me as their own because they could see that I care about them.
+$FAB_006_02x07_03_04
+They accepted you because they did not know you were the daughter of an important figure.
+$FAB_006_02x07_03_05
+Perhaps, Prosecutor Tinville. There is indeed the possibility that my life and dreams were truly that pathetic.
+$FAB_006_02x07_03_06
+She occupied the house because she wanted to show off to others how important she was!
+$FAB_006_02x07_03_07
+You are just babbling…
+$FAB_006_02x04_04_QTitle
+Where did you get the knife?
+$FAB_006_02x04_04_00
+Where did you get the knife?
+$FAB_006_02x04_04_01
+We needed to cut bread sometimes when we were hungry. I had taken it there before and it was just lying around.
+$FAB_006_02x04_04_02
+Did you plan this crime in advance?
+$FAB_006_02x04_04_03
+No… I said… Will anyone listen to me? I said I had taken the kitchen knife from my house to be able to–
+$FAB_006_02x04_04_04
+I bet it was all silver! I heard the mayor was a rich man.
+$FAB_006_02x04_04_05
+Well, what difference does it make what I say if your minds are closed to my words?
+$FAB_006_02x04_04_06
+Austrian bitch!
+$FAB_006_02x04_04_07
+Tribade! Fricatrice!
+$FAB_006_02x04_04_08
+Do not dare to offend the people!
+$FAB_006_04x05_05_QTitle
+During arrest, you handed the murder weapon to me.
+$FAB_006_04x05_05_00
+During arrest, you handed the murder weapon to me.
+$FAB_006_04x05_05_01
+I gave it to the right person.
+$FAB_006_04x05_05_02
+Please explain.
+$FAB_006_04x05_05_03
+I handed the knife to the head butcher of the city. A man who knows that the instrument was meant for him. He will smell blood long after my death.
+$FAB_006_04x05_05_04
+Those atrocities with another woman have mixed up her head!
+$FAB_006_04x05_05_05
+You will remember my words, Judge Fidèle – this knife will get you one day.
+$FAB_006_04x05_05_06
+The defendant is trying to intimidate the Judge!
+$FAB_006_06x08_06_QTitle
+How long had you been in an intimate relationship with the victim?
+$FAB_006_06x08_06_00
+How long had you been in an intimate relationship with the victim?
+$FAB_006_06x08_06_01
+For one year. It started–
+$FAB_006_06x08_06_02
+Do we have to listen to these perverted effusions?
+$FAB_006_06x08_06_03
+The prisoner has the right to defend herself. If her testimony is too much for you, Prosecutor Tinville, I can finish this trial by myself.
+$FAB_006_06x08_06_04
+I will stay.
+$FAB_006_06x08_06_05
+I ask the defendant to continue.
+$FAB_006_06x08_06_06
+It started… no, I do not want to expose my feelings to those who believe them to be something against nature. You have likened me to an animal already.
+$FAB_006_06x08_06_07
+Your testimony could help in–
+$FAB_006_06x08_06_08
+Yes, I killed Béatrice because I am a degenerate monster. A freak! Is that what you wanted to hear?
+$FAB_006_06x08_06_09
+That’s right, monster!
+$FAB_006_03x07_07_QTitle
+Do you know how I learned of your meeting?
+$FAB_006_03x07_07_00
+Do you know how I learned of your meeting?
+$FAB_006_03x07_07_01
+I had begun to wonder about that in the prison cell.
+$FAB_006_03x07_07_02
+Béatrice Caron testified she was an Austrian spy and that she kept in touch with you only to spy on your father.
+$FAB_006_03x07_07_03
+That is absurd.
+$FAB_006_03x07_07_04
+It is not easy to accept the truth.
+$FAB_006_03x07_07_05
+You seek to turn our affections into a mere political game. Love is on a somewhat different level.
+$FAB_006_03x07_07_06
+Disgusting.
+$FAB_006_03x07_07_07
+They loved each other so much that one ended up killing the other.
+$FAB_006_03x07_07_08
+It is you who are disgusting – you and your parochial world. The Revolution has failed at opening your minds, hearts, and souls.
+$FAB_006_10x09_08_QTitle
+Please describe your feelings when you got the letter from Béatrice.
+$FAB_006_10x09_08_00
+Please describe your feelings when you got the letter from Béatrice.
+$FAB_006_10x09_08_01
+My heart broke.
+$FAB_006_10x09_08_02
+So, we have confirmation of the motive.
+$FAB_006_10x09_08_03
+You truly are ingenious investigators. Finally, you have grasped what I have been telling you from the beginning. Béatrice was very dear to me, like–
+$FAB_006_10x09_08_04
+Don’t let her say it aloud!
+$FAB_006_10x09_08_05
+Please, spare us the details.
+$FAB_006_10x09_08_06
+Well, of course, because your holy hearts would not stand the idea of two women being together. Where is that freedom and equality of yours?
+$FAB_006_10x07_09_QTitle
+To the best of your knowledge, how would the victim have spent the money she demanded?
+$FAB_006_10x07_09_00
+To the best of your knowledge, how would the victim have spent the money she demanded?
+$FAB_006_10x07_09_01
+I do not know, we talked little about money. We talked about pain. Mainly my own.
+$FAB_006_10x07_09_02
+You supposedly knew the victim very well.
+$FAB_006_10x07_09_03
+We did not talk about money, we were not planning a future together – everyone knows that would not be possible…
+$FAB_006_10x07_09_04
+And for the better!
+$FAB_006_10x07_09_05
+Away with this abomination!
+$FAB_006_10x07_09_06
+As you can see…
+$FAB_006_10x07_09_07
+That money would likely have been used to further develop the Austrian spy ring in France.
+$FAB_006_10x07_09_08
+What makes you think so?
+$FAB_006_10x07_09_09
+You are not here to ask questions.
+$FAB_006_KEY_01
+A cold-blood murder
+$FAB_006_KEY_02
+An abandoned house
+$FAB_006_KEY_03
+Judge’s assistance
+$FAB_006_KEY_04
+Knife in her hand
+$FAB_006_KEY_05
+No resistance
+$FAB_006_KEY_06
+They knew each other
+$FAB_006_KEY_07
+Concealing her identity
+$FAB_006_KEY_08
+Their intimate relationship
+$FAB_006_KEY_09
+Blackmail
+$FAB_006_KEY_10
+3,000 francs
+$FAB_006_LastDialog_00
+Why are you staring at me? Do you see a victory here?
+$FAB_006_UNIQUE_QUESTION_00
+The Muscadins did not recognise the defendant? Why?
+$FAB_006_UNIQUE_ANSWER_CORRECT_00_00
+She concealed her true surname.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_00_00
+They did recognise her, but did not care.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_00_01
+The defendant skilfully blended into the crowd.
+$FAB_006_UNIQUE_QUESTION_01
+Did the defendant confirm being sexually involved with the victim?
+$FAB_006_UNIQUE_ANSWER_CORRECT_01_00
+Yes.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_01_00
+No.
+$FAB_006_UNIQUE_QUESTION_02
+Where did the accused get the murder weapon?
+$FAB_006_UNIQUE_ANSWER_CORRECT_02_00
+She brought it from her house.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Austrian spies gave it to her.
+$FAB_006_UNIQUE_ANSWER_NOT_CORRECT_02_01
+She bought it at the market right before the meeting.

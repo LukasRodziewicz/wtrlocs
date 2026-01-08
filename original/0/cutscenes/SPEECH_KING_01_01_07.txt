@@ -1,0 +1,39 @@
+$SPEECH_KING_01_01_07_001_JUDGE
+Ludzie, w czym rzecz? Dlaczego jesteście tak wzburzeni?
+$SPEECH_KING_01_01_07_002_AUDIENCE
+Król nas oszukał!
+$SPEECH_KING_01_01_07_003_AUDIENCE
+Tchórz uciekł przed nami, ucieknie też przed sprawiedliwością!
+$SPEECH_KING_01_01_07_004_AUDIENCE
+W pancernej szafie króla znaleziono dowody jego zdrady!
+$SPEECH_KING_01_01_07_005_JUDGE_AGGR
+Król jest w niewoli. Nie wymknie się nam drugi raz. Prędzej zatłukę go tymi rękami!
+$SPEECH_KING_01_01_07_006_JUDGE_MANI
+Ludwik Capet jest tylko człowiekiem, obywatelem jak wy! Nie ma mocy by się wyrwać z rąk sprawiedliwości.
+$SPEECH_KING_01_01_07_007_JUDGE_JOKE
+Nikt na sali nie ma wątpliwości, że sprawiedliwość zostanie dzisiaj wymierzona. Wy też nie powinniście wątpić!
+$SPEECH_KING_01_01_07_008_JUDGE_HUMI
+Od sprawiedliwości w Republice nie ma ucieczki! Nawet królowie kłaniają się woli Temidy i ludu Francji.
+$SPEECH_KING_01_01_07_009_JUDGE_AGGR
+Każda zdrada Francji będzie karana śmiercią! Zbadamy nowe dowody i jeśli plotki o nich się potwierdzą, to osobiście utnę łeb temu zdrajcy!
+$SPEECH_KING_01_01_07_010_JUDGE_MANI
+Nie przymkniemy oczu na nowe dowody. Zbadamy sumiennie każdy wątek, w imię interesów Republiki, niczyich innych. 
+$SPEECH_KING_01_01_07_011_JUDGE_JOKE
+Przecież te nowe dowody nie zginą. Nie zostaną przeoczone. Nie przejmowałbym się na waszym miejscu!
+$SPEECH_KING_01_01_07_012_JUDGE_HUMI
+Każdy nowy dowód będzie dogłębnie zbadany. Tego wymagają ode mnie standardy ustanowione przez Republikę! I będę się ich trzymał!
+$SPEECH_KING_01_01_07_013_JUDGE_AGGR
+Nie zawiodę Was! Jeśli będzie się musiała polać krew zdrajców, to się poleje. Zadbam o to osobiście!
+$SPEECH_KING_01_01_07_014_JUDGE_MANI
+Nikomu bardziej niż sędziemu Trybunału zależy by sprawiedliwość zagościła na stałe do tego kraju.
+$SPEECH_KING_01_01_07_015_JUDGE_JOKE
+Doprowadzę wszystko do końca tak gładko, że jeszcze wieczorem będziecie radośnie świętować pijąc wino w knajpach!
+$SPEECH_KING_01_01_07_016_JUDGE_HUMI
+Wiem, że możecie być źli. Ale wybraliście swoich przedstawicieli by was chronili. Uwierzcie we mnie.
+
+$SPEECH_KING_TOPIC_01
+Król się nie wywinie od sprawiedliwości
+$SPEECH_KING_TOPIC_02
+Dowody z szafy zostaną zbadane
+$SPEECH_KING_TOPIC_03
+Uwierzcie we mnie

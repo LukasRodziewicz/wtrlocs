@@ -1,0 +1,28 @@
+$EVE_007_TITLE
+God Save the Queen
+$EVE_007_MAIN_01
+Que sais-tu sur la personne qu'on appelle « Ramel » ? Tout le monde mérite de savoir qui sont ses collègues. Rendez-vous à 22 h dans la ruelle derrière le Café Procope. Viens seul, et tu découvriras la vérité sur le passé de Ramel. C'est pour ton bien.
+$EVE_007_MAIN_01_C1
+Aller au rendez-vous
+$EVE_007_MAIN_01_C2
+Ne pas aller au rendez-vous
+$EVE_007_MAIN_02A
+Quand vous arrivez sur les lieux du rendez-vous, la rue est presque vide. Seuls un étudiant amusé et un ivrogne sans but déambulent encore. Vous appelez, mais personne ne vous répond. Trop occupé à chercher la personne qui vous a envoyé le mot, vous trébuchez sur quelque chose au sol. Sous vos pieds se trouve le cadavre d'un homme à la gorge tranchée. Il s'agit sans doute de votre ex-futur informateur. Vous fouillez le corps, mais ne trouvez rien qui pourrait expliquer la situation, alors vous vous dépêchez de quitter les lieux en regardant avec précaution par-dessus votre épaule.
+$EVE_007_MAIN_03A
+J'ai grandi dans la rue, mangeant ce que je trouvais ou volais. J'ai commencé à espionner et à vendre des informations pour vivre. Récemment, j'ai passé un certain temps près de la cour d'Angleterre. Je ne vous dirai pas qui m'y a envoyé. On dirait que mon passé tente désormais de me rattraper… Pourquoi maintenant, alors que je fais enfin quelque chose en quoi je crois, pour moi… et pour quelqu'un d'autre ?
+	
+Tu ferais bien d'éviter de rencontrer des inconnus dans des ruelles sombres… Si quelqu'un prétend détenir des informations détaillées sur moi, alors cette personne veut sans doute me voir mort.
+	
+RAMEL.
+$EVE_007_MAIN_04B
+Tu as commis une erreur. Nous voulions te donner l'information gratuitement, en gage de notre bonne foi. Nous t'avons envoyé quelqu'un, un homme qui savait des choses sur ton ami, mais nous avons découvert aujourd'hui qu'il s'est fait trancher la gorge. Nous te laissons une dernière chance. Organise un rendez-vous avec Ramel, quel que soit le nom qu'il porte en ce moment, à moins que tu ne souhaites partager le sort de notre ami. Nous voulons le rencontrer aujourd'hui à 21 h au même endroit.
+$EVE_007_MAIN_04B_C1
+Envoyer l'espion.
+$EVE_007_MAIN_04B_C2
+Envoyer des gardes.
+$EVE_007_MAIN_05A
+Toutes ces gorges tranchées vont sûrement faire monter les statistiques de crimes violents. Les auteurs de la lettre étaient de vieux amis de votre espion. Des amis en colère. On dirait que Ramel a apporté son bon vieux couteau et qu'il l'a utilisé avec efficacité contre le trio qui était venu pour le tuer. Il a réussi à extorquer quelques mots sur les tréfonds de la société parisienne à sa dernière victime avant d'abréger ses souffrances. Vous pourrez peut-être utiliser ces informations d'une manière ou d'une autre.
+$EVE_007_MAIN_05B
+Vous avez dû choisir entre un chat discret et plusieurs taureaux furieux. Vous avez sans doute entendu parler de la bagarre qui a eu lieu près du Procope, maintenant. Le trio que vous deviez rencontrer est mort, une boutique voisine a pris feu et des balles perdues ont blessé un boulanger du quartier et un des gardes. Sans parler de toutes les fenêtres cassées… Le propriétaire actuel du Procope a reconnu les gardes comme étant vos employés. Maintenant, tous les clients du café entendront parler de ce juge du Tribunal qui provoque des fusillades dans les rues de Paris.
+$EVE_007_MAIN_05C
+Trois contre un. Votre espion est doué, mais même lui ne pouvait s'en sortir indemne contre trois agents anglais expérimentés. Considérons qu'il s'agit d'un match nul… cette fois. Le trio est mort, mais Ramel est gravement blessé. Ne sous-estimez pas le danger quand il est juste sous votre nez…

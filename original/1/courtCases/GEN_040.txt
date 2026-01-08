@@ -1,0 +1,154 @@
+$GEN_040_DOC_01_HEADER
+Compiled by: Charles Étienne
+$GEN_040_DOC_01_00
+One of the local merchants, Guy Deniau, went to the National Guard station near The Halls. With a raised voice, he stated that the owner of a neighbouring stall had purposely <a name="2" class="hidden">poured wood tar</a> into his barrel of herrings. For this supposed crime Deniau demanded a proper punishment. Soldiers went to The Halls and established that the herrings did indeed tasted awful. Since there was no evidence of the crime, they did not take any action.
+$GEN_040_DOC_01_01
+A few hours later the Guards returned to The Halls. This time it was the formerly accused Jean Courbis who called for them, and there was a plethora of evidence on site. The clearest being Deniau himself, smashing his neighbour's stall with <a name="3" class="hidden">a long wooden pole</a> in front of witnesses.
+$GEN_040_DOC_01_02
+The furious merchant was shaking his fist and yelling, "Where were you when this scoundrel stole my place <a name="4" class="hidden">near the entrance?</a>” The Guards did not stop to ask for details, but disarmed the vigorous merchant and put him in jail. While drawing up the report, one of the officers found <a name="5" class="hidden">an old denunciation</a> that had been written by Deniau two years ago.
+$GEN_040_DOC_02_TOOLTIP
+Guy Deniau’s denunciation:
+$GEN_040_DOC_02_00
+I would like to report that citizen Courbis does not pay the city for his stall. Furthermore, he openly <a name="6" class="hidden">criticises the new rule</a> when talking to his clients.
+$GEN_040_OnStart_00
+Your name?
+$GEN_040_OnStart_01
+Deniau. Fresh fish since 1772.
+$GEN_040_OnStart_02
+And a vandal since yesterday?
+$GEN_040_OnStart_03
+I’m not proud of what I did, but enough is enough.
+$GEN_040_OnStart_04
+Really?! Like when six months ago you stole eight francs from my revenue?
+$GEN_040_OnStart_05
+Some urchin took that from your pockets while you were–
+$GEN_040_OnStart_06
+Silence! You shall not speak until questioned.
+$GEN_040_OnPrison_00
+It seems that Parisians will have to start buying fish elsewhere. Citizen Deniau, I sentence you to prison for vandalism.
+$GEN_040_OnPrison_01
+Better warn the guards that they won't have an easy life.
+$GEN_040_OnPrison_02
+I do not believe the people will be happy with such a severe penalty.
+$GEN_040_OnNotGuilty_00
+Your personal disputes should not be resolved in court. Citizen Deniau, you are free to go, but I am ordering you to move your stall.
+$GEN_040_OnNotGuilty_01
+Good idea. He should move his herrings closer to the bins – no one would smell the difference.
+$GEN_040_OnNotGuilty_02
+Why did nobody think to separate those two troublemakers sooner?
+$GEN_040_02x03_00_QTitle
+What products does Citizen Courbis sell?
+$GEN_040_02x03_00_00
+What products does Citizen Courbis sell?
+$GEN_040_02x03_00_01
+Fruit and vegetables.
+$GEN_040_02x03_00_02
+And you sell fish?
+$GEN_040_02x03_00_03
+Straight from Yport and Petites-Dalles.
+$GEN_040_02x03_00_04
+I see. Then why did one of you come to The Halls with wood tar, and the other with a wooden pole?
+$GEN_040_02x03_00_05
+…
+$GEN_040_02x03_00_06
+Citizen?
+$GEN_040_02x03_00_07
+I don’t remember. That stick must have been lying near the stall. Courbis, however, clearly planned his actions.
+$GEN_040_05x04_01_QTitle
+It would appear that your conflict has continued for some time now.
+$GEN_040_05x04_01_00
+It would appear that your conflict has continued for some time now.
+$GEN_040_05x04_01_01
+It all started when that scoundrel placed his stall where mine should be, next to the entrance.
+$GEN_040_05x04_01_02
+It wasn’t your place, you took it after old Choquette!
+$GEN_040_05x04_01_03
+Silence! And you have not been able to reach an agreement ever since?
+$GEN_040_05x04_01_04
+Now that I think of it, it may have started even earlier. Jean once refused to pay for a red mullet taken by his wife.
+$GEN_040_05x04_01_05
+My whole family fell ill because of that rotten carcass. You should be happy I didn’t–
+$GEN_040_05x04_01_06
+Must I repeat myself? Be quiet or you will both be in more trouble than you are already.
+$GEN_040_06x05_02_QTitle
+We have found your denunciation of Citizen Courbis.
+$GEN_040_06x05_02_00
+We have found your denunciation of Citizen Courbis. Why did you write it?
+$GEN_040_06x05_02_01
+He did it because I started selling sprats!
+$GEN_040_06x05_02_02
+Shut up already! Monsieur le juge, I just wanted to help the city. Every stallholder pays for their place in The Halls, Courbis should pay too.
+$GEN_040_06x05_02_03
+You liar and crook! Don’t you remember hiding from the Royal collector at the butcher’s?
+$GEN_040_06x05_02_04
+Silence!
+$GEN_040_06x05_02_05
+I was trying to avoid Royal taxes. You only started after the beginning of the Revolution!
+$GEN_040_06x05_02_06
+Be quiet, both of you.
+$GEN_040_06x04_03_QTitle
+Citizen Courbis, come closer.
+$GEN_040_06x04_03_00
+Citizen Courbis, come closer.
+$GEN_040_WIT_00_A_QTitle
+Do you really dispute the new order?
+$GEN_040_WIT_00_A_00
+Do you really dispute the new order?
+$GEN_040_WIT_00_A_01
+It’s slander made up by a man who trades old flounders!
+$GEN_040_WIT_00_A_02
+Is that a no?
+$GEN_040_WIT_00_A_03
+Of course it is. I am a merchant, not a politician.
+$GEN_040_WIT_00_B_QTitle
+Is it true that you took Guy Deniau's place at the entrance of The Halls?
+$GEN_040_WIT_00_B_00
+Is it true that you took Guy Deniau's place at the entrance of The Halls?
+$GEN_040_WIT_00_B_01
+He took the place first from a dead merchant. I only did the same at a convenient time.
+$GEN_040_WIT_00_B_02
+Was that your first conflict?
+$GEN_040_WIT_00_B_03
+In the late seventies, when that tight-fisted churl asked me to lend him 30 francs. It took me two years to get it back!
+$GEN_040_WIT_00_B_04
+Citizen Deniau, I can see that you wish to add something, but please refrain from doing so.
+$GEN_040_WIT_01_A_QTitle
+Why did you have wood tar with you that day?
+$GEN_040_WIT_01_A_00
+Why did you have wood tar with you that day?
+$GEN_040_WIT_01_A_01
+I sell fruit, but my suppliers sometimes buy wood tar because it repels pests.
+$GEN_040_WIT_01_A_02
+And why did you pour it into Citizen Deniau’s barrel?
+$GEN_040_WIT_01_A_03
+I did nothing of the sort! He probably poured it in himself so as to denounce me again.
+$GEN_040_WIT_01_A_04
+Liar!
+$GEN_040_WIT_01_A_05
+Calm down!
+$GEN_040_WIT_01_B_QTitle
+A few hours passed between Citizen Deniau’s visit at the station and your vandalism…
+$GEN_040_WIT_01_B_00
+A few hours passed between Citizen Deniau’s visit at the station and your report of vandalism. What happened during those hours?
+$GEN_040_WIT_01_B_01
+What happened? He continually mocked my stinking herrings!
+$GEN_040_WIT_01_B_02
+Nothing much, only the usual trade.
+$GEN_040_WIT_01_B_03
+And all of a sudden, Guy Deniau reached for a pole and began to destroy your stall?
+$GEN_040_WIT_01_B_04
+He went wild, like an animal.
+$GEN_040_WIT_01_B_05
+Citizen Courbis, please stop making a fool out of me…
+$GEN_040_KEY_01
+The Halls
+$GEN_040_KEY_02
+Wood tar
+$GEN_040_KEY_03
+Wooden pole
+$GEN_040_KEY_04
+Stall next to the entrance
+$GEN_040_KEY_05
+Old denunciation
+$GEN_040_KEY_06
+Counter-Revolutionary propaganda

@@ -1,0 +1,16 @@
+$DIAL_H_01_03_20_001_JUDGE
+Czego się dowiedziałeś o Pache’u?
+$DIAL_H_01_03_20_002_RAMEL
+Czerpał zyski z burdelu Rolandów, nie tylko on zresztą. Kiedy ich odciąłeś, podjęto decyzję, że Pache ma zorganizować zamach na ciebie. Mer ma potężnych sojuszników, na czele z Dantonem, przez co nie możemy go zaatakować z marszu. Musimy dobrać się do jego rodziny.
+$DIAL_H_01_03_20_003_JUDGE
+Słucham?
+$DIAL_H_01_03_20_004_RAMEL
+Chodzą pogłoski, że jego córka utrzymuje… nieakceptowane przez większość społeczeństwa stosunki z inną damą. W dodatku zadającą się z muskadynami. Wykorzystaj to, a Pache zacznie popełniać błędy w obawie przed ujawnieniem skandalu. Jego sojusznicy będą się temu przyglądać i zwątpią w niego.
+$DIAL_H_01_03_20_005_JUDGE
+I to wystarczy?
+$DIAL_H_01_03_20_006_RAMEL
+Tylko jeśli zdobędziesz wcześniej jego zaufanie. Musi być przekonany, że nie wiesz o jego uczestnictwie w zamachu na ciebie. Mam plan, najpierw musimy zrobić coś z przejętym od Rolandów burdelem.
+$DIAL_H_01_03_20_007_JUDGE
+Dlaczego?
+$DIAL_H_01_03_20_008_RAMEL
+Pache kocha hazard.

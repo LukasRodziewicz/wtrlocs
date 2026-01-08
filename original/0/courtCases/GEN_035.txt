@@ -1,0 +1,295 @@
+$GEN_035_DOC_01_HEADER
+Sporządził: Nathan d’Essiraf
+$GEN_035_DOC_01_00
+	Przed sądem za <a name="1" class="hidden">sprowokowanie zamieszek</a> na <a name="2" class="hidden">targowisku przy rue Cler</a> staje Fabrice Cerdan. Oskarżony to 18-letni czeladnik krawiecki, od dziecka pracujący dla Morela Gareau, niegdysiejszego osobistego krawca baronowej de Ronsard. W konsekwencji wydarzeń, do których doprowadził podsądny, doszło do ciężkiego <a name="3" class="hidden">pobicia sierżanta Gwardii Narodowej</a> Charles’a Le Vau. Sam Cerdan także brał udział w zamieszkach. Pojmano go w ich trakcie, i to – co najdziwniejsze – <a name="4" class="hidden">przebranego za kobietę</a>.
+$GEN_035_DOC_01_01
+	Cerdana obciążają  przede wszystkim <a name="5" class="hidden">zeznania handlarki zieleniną</a> Sylvie Martin, którą gwardziści siłą odciągali od maltretowanego sierżanta Le Vau, ale także innych uczestników zamieszek, z których – co dość nietypowe – większość stanowiły kobiety.
+$GEN_035_DOC_01_02
+	Według zeznań Martin czeladnik krawiecki krążył przebrany za kobietę pomiędzy straganami i głośno oraz dramatycznie opowiadał przy tym, jakoby sierżant Le Vau miał <a name="6" class="hidden">próbować go zgwałcić</a>, za co nie może doprosić się sprawiedliwości u jego zwierzchników.  
+$GEN_035_DOC_01_03
+	W efekcie zebrane na targowisku kobiety, w tym Sylvie Martin, w geście solidarności rzuciły się na nadciągającego z pieszym patrolem sierżanta Le Vau. Żołnierze, zaskoczeni napaścią ze strony kobiet, dali się rozbroić i pobić. Cerdan miał brać czynny udział w znęcaniu się nad gwardzistą. Mówiąc ściślej, kopał go w krocze. Choć sprawa może wydawać się błaha, poszkodowany odniósł poważne obrażenia.
+$GEN_035_DOC_01_04
+	Gwardia Narodowa oraz część deputowanych żądają dla prowokatora zamieszek bezwzględnej kary śmierci.
+$GEN_035_OnStart_00
+Zboczeniec! W babskich fatałaszkach lata!
+$GEN_035_OnStart_01
+Przyznam, że nieczęsto trafiają się tutaj takie indywidua. Proszę się przedstawić.
+$GEN_035_OnStart_02
+No więc… Cerdan jestem. Fabrice Cerdan, łaskawy sądzie.
+$GEN_035_OnStart_03
+Na pewno?
+$GEN_035_OnStart_04
+Fabrice, Fabrice, chłop, jak trzeba. Znaczy czeladnik krawiecki. A ta suknia to tylko tak… dla żartu.
+$GEN_035_OnStart_05
+Spodziewam się, że żartem dla oskarżonego są także stawiane mu zarzuty nawoływania do linczu na podoficerze Gwardii Narodowej i aktywny udział w tymże.
+$GEN_035_OnStart_06
+Jako prokurator za napaść na żołnierza Republiki żądam najwyższej możliwej kary.
+$GEN_035_OnStart_07
+Napaść? Ja na nikogo tak naprawdę to nie napadałem, proszę mi uwierzyć.
+$GEN_035_OnStart_08
+A kto na targowisko przybiegł, o Le Vau krzyczał, że zgwałcił?!
+$GEN_035_OnGuilty_00
+Skazuję obywatela Fabrice’a Cerdana na śmierć na gilotynie! Wyprowadzić skazanego.
+$GEN_035_OnGuilty_01
+Brawo!
+$GEN_035_OnGuilty_02
+Tam jest jego miejsce!
+$GEN_035_OnPrison_00
+Skazuję obywatela Fabrice’a Cerdana na więzienie! Wyprowadzić skazanego.
+$GEN_035_OnPrison_01
+A nie można by na szafot?
+$GEN_035_OnPrison_02
+Ciekawe, jakie »żarty« będzie robił, jak wyjdzie?
+$GEN_035_OnNotGuilty_00
+Wyrok w sprawie Fabrice’a Cerdana brzmi: Niewinny! Oskarżony jest wolny.
+$GEN_035_OnNotGuilty_01
+Tak być nie może!
+$GEN_035_OnNotGuilty_02
+A Sylvie nadal w areszcie!
+$GEN_035_OnNotGuilty_03
+Gdzie tu sprawiedliwość?!
+$GEN_035_OnNotGuilty_04
+Protestuję, puszczenie płazem napaści na francuskiego żołnierza jest niezgodne z prawem.
+$GEN_035_02x04_00_QTitle
+Co oskarżony robił w damskiej sukni na targu przy rue Cler?
+$GEN_035_02x04_00_00
+Co oskarżony robił w damskiej sukni na targu przy rue Cler?
+$GEN_035_02x04_00_01
+Na zupę cebulową chętka mnie wzięła, to i na zakupy się wybrałem.
+$GEN_035_02x04_00_02
+Błazen!
+$GEN_035_02x04_00_03
+A dlaczego w sukni?
+$GEN_035_02x04_00_04
+Dla niepoznaki! Bo te stare przekupy, zaraza na nich i trąd, nikomu z naszego zacnego zakładu sprzedawać nic nie chcą.
+$GEN_035_02x04_00_05
+Proszę to wyjaśnić.
+$GEN_035_02x04_00_06
+Sylvie Martin, grube krówsko, rozdarła suknię, a potem obsmarowała nas przed całą rue Cler, że to nasza wina. Interes nam popsuła, ona i reszta tych francowatych przekup, co jej uwierzyły.
+$GEN_035_02x04_00_07
+Odpieprz się od Martin, krawczyku!
+$GEN_035_02x04_00_08
+No dobrze, ale czemu one nie chciały obsługiwać was?
+$GEN_035_02x04_00_09
+No bo my w rewanżu zaczęliśmy rozpowiadać, że po ich warzywach to rosną włosy między palcami u stóp. Zabawne, ale one się obraziły.
+$GEN_035_01x06_01_QTitle
+Czy jest powód, dla którego oskarżony gotów byłby podburzyć tłum przeciwko sierżantowi?
+$GEN_035_01x06_01_00
+Czy jest powód, dla którego oskarżony gotów byłby podburzyć tłum przeciwko sierżantowi? To była zemsta?
+$GEN_035_01x06_01_01
+Skąd! To, jakby nie patrzeć, nasz klient, taka jego mać. Myśmy go wyposażyli w mundur. O, ten sam, co w nim siedzi tutaj, rozparty jak sam cesarz niemiecki.
+$GEN_035_01x06_01_02
+Według świadków sami go kopaliście we wrażliwe części ciała.
+$GEN_035_01x06_01_03
+Ja tego capa w nic nie kopałem.
+$GEN_035_01x06_01_04
+Wysoki Sądzie, protestuję przeciwko takiemu wyrażaniu się o podoficerze Gwardii!
+$GEN_035_01x06_01_05
+Takiego to kijem się ucisza.
+$GEN_035_01x06_01_06
+Oskarżony poskromi język. Czyli jednak istnieje jakiś konflikt pomiędzy oskarżonym a pokrzywdzonym?
+$GEN_035_01x06_01_07
+Konflikt? Ta łajza nie zapłaciła mojemu pryncypałowi za mundur! Ej, Le Vau, jak już tu jesteś, to wyskakuj z tych 300 franków! Nie będziesz dwa razy chodził.
+$GEN_035_01x06_01_08
+To potwarz i kłamstwo, Wysoki Sądzie!
+$GEN_035_01x06_01_09
+Kłamstwo-sramstwo. W mundurze chadza? Chadza! A płacić nie ma komu. Tak że dobrze, że mu babska nieco facjatę przemodelowały. 
+$GEN_035_01x06_01_10
+Na razie sądzimy was, obywatelu Cerdan, więc możecie sobie darować dalsze wywody.
+$GEN_035_03x05_02_QTitle
+Sierżant Le Vau w istocie zgwałcił oskarżonego?
+$GEN_035_03x05_02_00
+Sierżant Le Vau w istocie zgwałcił oskarżonego?
+$GEN_035_03x05_02_01
+Co?! Bzdura jakaś, w kieckę tylko dla hecy się przebrałem. Wolę kobietki.
+$GEN_035_03x05_02_02
+ Łżesz, świadkowie słyszeli, jak wszystko opisujesz ze szczegółami!
+$GEN_035_03x05_02_03
+Faktycznie, na targowisku przy rue Cler oskarżony miał mówić o gwałcie.
+$GEN_035_03x05_02_04
+Pewnie mu się tylko marzyło.
+$GEN_035_03x05_02_05
+Dziwak, czego się spodziewać po chłopie w kiecce.
+$GEN_035_03x05_02_06
+Dawniej to byli mężczyźni.
+$GEN_035_03x05_02_07
+To nie ja tam krzyczałem, tylko Martin, grube krówsko. Taką historię wymyśliła, żeby rękami przekup zemścić się na Le Vau. Cała sekcja wie, że przystawiała się do niego, ale odprawił ją z kwitkiem.
+$GEN_035_03x05_02_08
+Zeznania świadków temu przeczą, znowu łże.
+$GEN_035_03x05_02_09
+Sam jesteś krówsko! 
+$GEN_035_03x05_02_10
+Cisza! Pokrzywdzony zechce to jakoś skomentować?
+$GEN_035_03x05_02_11
+Ja mam narzeczoną, Wysoki Sądzie! I nic mi nie wiadomo o zalotach obywatelki Martin. Ja w ogóle o jej życiu uczuciowym niczego nie wiem.
+$GEN_035_03x05_02_12
+Pokrzywdzony w ogóle zna Sylvię Martin?
+$GEN_035_03x05_02_13
+Jak wszystkie handlarki. Czasem kupiłem u niej warzywa na zupę. 
+$GEN_035_01x05_03_QTitle
+Proszę wezwać świadka Sylvie Martin.
+$GEN_035_01x05_03_00
+Proszę wezwać świadka Sylvie Martin.
+$GEN_035_01x05_03_02
+Proszę się przedstawić.
+$GEN_035_01x05_03_03
+Sylvie Martin.
+$GEN_035_01x05_03_04
+Przypominam obywatelce, że wasz udział w sprawie Cerdana nie ma żadnego związku z waszą sprawą za udział w pobiciu sierżanta Le Vau.
+$GEN_035_01x05_03_05
+Macie mówić całą prawdę i tylko prawdę.
+$GEN_035_01x05_03_06
+Ja wiem, ja tylko chcę, żeby tego oszusta, tego prowokatora, zasrańca nieużytego kara spotkała! Przez niego to wszystko!
+$GEN_035_02x05_04_QTitle
+Oskarżony dość dobrze orientuje się w rozkładzie patroli Gwardii Narodowej?
+$GEN_035_02x05_04_00
+Oskarżony dość dobrze orientuje się w rozkładzie patroli Gwardii Narodowej?
+$GEN_035_02x05_04_01
+A kto z rue Cler się nie orientuje? Oni to wiadomo, przychodzą do roboty dzień w dzień 15 minut spóźnieni.
+$GEN_035_02x05_04_02
+Oskarżanie pokrzywdzonego w niczym wam nie pomoże.
+$GEN_035_02x05_04_03
+Znowu zaczniesz opowiadać, jak Le Vau cię łapał od tyłu?
+$GEN_035_02x05_04_04
+Odpowiedzcie na moje pytanie.
+$GEN_035_02x05_04_05
+Przychodzą spóźnieni, żreją śniadanie, a potem spacerują jedną trasą w kółko. Nawet im się nie chce w zaułki zaglądać, boby jeszcze robotę znaleźli jaką.
+$GEN_035_02x05_04_06
+Zatem oskarżony był w stanie przewidzieć, kiedy na targowisku pojawi się sierżant Le Vau?
+$GEN_035_02x05_04_07
+Jakbym się nad tym zastanowił, to pewnie tak, ale się nie zastanawiałem.
+$GEN_035_02x05_04_08
+On sobie kpi, przez kolano go i pasem!
+$GEN_035_02x05_04_09
+Dziwna zbieżność czasu i miejsca, prawda? Oskarżony w kobiecym przebraniu pojawia się na rue Cler praktycznie tuż przed sierżantem i zaraz wybuchają zamieszki, aLe Vau pada ich ofiarą…
+$GEN_035_02x05_04_10
+Tak wyszło, ja wiem, jak to wygląda, ale zbiegi okoliczności zawsze tak wyglądają.
+$GEN_035_02x05_04_11
+Sędzia nie ma pięciu lat, nie nabierze się na takie bzdury.
+$GEN_035_03x06_05_QTitle
+Oskarżony osobiście brał udział w linczu na sierżancie Le Vau?
+$GEN_035_03x06_05_00
+Oskarżony osobiście brał udział w linczu na sierżancie Le Vau?
+$GEN_035_03x06_05_01
+Nie. Zresztą jaki to był lincz
+$GEN_035_03x06_05_02
+Świadkowie twierdzą, że oskarżony bez pardonu kopał sierżanta, i to w dość nieszczęśliwą część ciała, którą rzekomo miał oskarżonego… zgwałcić.
+$GEN_035_03x06_05_03
+Bzdury jakieś. Stałem z boku i miałem uciechę, ale kopać, to nie kopałem. Nawet jakbym chciał, tobym się nie dostał – tak go gęsto baby obskoczyły. 
+$GEN_035_03x06_05_04
+Patrzcie, on się śmieje, bezczelny.
+$GEN_035_01x04_06_QTitle
+Kobieca suknia, w której oskarżony nadal paraduje, miała mu ułatwić...
+$GEN_035_01x04_06_00
+Kobieca suknia, w której oskarżony nadal paraduje, miała mu ułatwić sprowokowanie tłumu do zamieszek?
+$GEN_035_01x04_06_01
+Mnie tam żadne zamieszki po głowie nie chodziły, chciałem tylko sobie z Martin i jej koleżanek zakpić, tak dla draki.
+$GEN_035_01x04_06_02
+W wyniku tej – jak się wyraził oskarżony – draki ucierpiał człowiek.
+$GEN_035_01x04_06_03
+Ja to jestem winny, że one pobiły Bogu ducha winnego żołnierza?
+$GEN_035_01x03_07_QTitle
+Czy oskarżony ma coś przeciwko Gwardii Narodowej?
+$GEN_035_01x03_07_00
+Czy oskarżony ma coś przeciwko Gwardii Narodowej?
+$GEN_035_01x03_07_01
+Oczywiście, że ma, biorąc pod uwagę to, co zrobił.
+$GEN_035_01x03_07_02
+Nie, dzielnie chłopaki bronią zdobyczy rewolucji, tak trzymać!
+$GEN_035_01x03_07_03
+On się znowu naigrywa!
+$GEN_035_01x03_07_04
+Jakoś ta opinia nie przeszkodziła oskarżonemu w podniesieniu tumultu przeciwko jednemu z gwardzistów.
+$GEN_035_01x03_07_05
+Przecież on się z nas śmieje w żywe oczy.
+$GEN_035_01x03_07_06
+Wiem to i bez was.
+$GEN_035_01x03_07_07
+Nic nie podnosiłem przeciwko nikomu. Zakupy w kiecce – to wszystko, do czego się przyznaję. Liczę się z grzywną za moje czyny.
+$GEN_035_WIT_00_A_QTitle
+Skąd świadek zna oskarżonego Cerdana?
+$GEN_035_WIT_00_A_00
+Skąd świadek zna oskarżonego Cerdana?
+$GEN_035_WIT_00_A_01
+Suknię mi szyli, razem z tym ślepym parchem Morelem! Trzydzieści franków wzięli, a suknia na drugi dzień w szwach trzasnęła! Co ja się wstydu najadłam przez nich…
+$GEN_035_WIT_00_A_02
+Czyli świadek nie jest w najlepszych stosunkach zarówno z oskarżonym, jak i jego przełożonym?
+$GEN_035_WIT_00_A_03
+Świadek wydaje się twierdzić, że ci ludzie to oszuści.
+$GEN_035_WIT_00_A_04
+A i owszem. Zaraza i mór na takich krawców, wszystkich znajomych przed nimi ostrzegłam i mam nadzieję, że zwiną interes, bo takich partaczy świat nie widział.
+$GEN_035_WIT_00_A_05
+Szef ci mówił, głupia kro… kobieto: uszyjmy rozmiar większą, bo na szwach będzie puszczać. Ale nie, po co słuchać… Mniej byś żarła, toby nic się nie pruło.
+
+
+$GEN_035_WIT_01_A_QTitle
+Kiedy świadek rozpoznał w rzekomo zgwałconej kobiecie oskarżonego?
+$GEN_035_WIT_01_A_00
+Kiedy świadek rozpoznał w rzekomo zgwałconej kobiecie oskarżonego?
+$GEN_035_WIT_01_A_01
+Jak mu gwardziści perukę z łba strącili, tom go od razu rozpoznała, wszarza jednego!
+$GEN_035_WIT_01_A_02
+To dowodzi, jak dobrze oskarżony się zamaskował. Widać, że długo przygotowywał się do swojej zbrodni.
+$GEN_035_WIT_01_A_03
+Winny? Powiedzieli, że winny!
+$GEN_035_WIT_01_A_04
+Wcześniej świadek nie zauważył, że coś z tą niby-kobietą jest nie tak?
+$GEN_035_WIT_01_A_05
+Panie, to to jeszcze młode, bez wąsa. Jak on w sukni dopasowanej, w peruce, z barwiczką na mordzie… To i jak miałam rozpoznać?
+$GEN_035_WIT_01_B_QTitle
+Dlaczego świadek uwierzył w rewelacje oskarżonego...
+$GEN_035_WIT_01_B_00
+Dlaczego świadek uwierzył w rewelacje oskarżonego dotyczące zachowania sierżanta Le Vau?
+$GEN_035_WIT_01_B_01
+Oj, panie… Wiem ja, jakie ma lepkie rączki Le Vau… Się słyszy, co mówią o nim na ulicach. A że wrażliwa jestem, to jak tylko na widoku się pokazał, to zaraz pobiegłam z innymi niewiastami, krzyczeć na niego zaczęłam…
+$GEN_035_WIT_01_B_02
+Protestuję! Ta kobieta kłamie!
+$GEN_035_WIT_01_B_03
+Czy ona ma jakieś dowody przeciwko temu żołnierzowi?
+$GEN_035_WIT_01_B_04
+Dowody… Ja mogę wam opowiedzieć, co mi ten żołnierz obiecywał na ławeczce w parku!
+$GEN_035_WIT_01_B_05
+Proszę się natychmiast uspokoić! A wam, sierżancie Le Vau, nie udzielałem głosu!
+$GEN_035_KEY_01
+Sprowokowanie zamieszek
+$GEN_035_KEY_02
+Targowisko
+$GEN_035_KEY_03
+Pobicie gwardzisty
+$GEN_035_KEY_04
+Kobiece przebranie
+$GEN_035_KEY_05
+Zeznanie handlarki
+$GEN_035_KEY_06
+Fałszywe oskarżenie
+
+
+$GEN_035_LastDialog_00
+To był przecież tylko głupi żart! Żart!
+
+$GEN_035_UNIQUE_QUESTION_00
+Jak Cerdan tłumaczył swoje przebranie?
+$GEN_035_UNIQUE_ANSWER_CORRECT_00_00
+Kłótnią z przekupkami.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Przegranym zakładem.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Chęcią ukrycia się przed dłużnikami.
+
+$GEN_035_UNIQUE_QUESTION_01
+O co podsądnego oskarżyła obywatelka Martin?
+$GEN_035_UNIQUE_ANSWER_CORRECT_01_00
+Partactwo i oszustwo.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Pijaństwo.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Pobicie syna.
+
+$GEN_035_UNIQUE_QUESTION_02
+Co wykrzykiwał przebrany za kobietę czeladnik?
+$GEN_035_UNIQUE_ANSWER_CORRECT_02_00
+Że sierżant Le Vau go zgwałcił.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Że obywatelka Martin go okradła.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Że gwardia w pobliżu zabiła kramarza.

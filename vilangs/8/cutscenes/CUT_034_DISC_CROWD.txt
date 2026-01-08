@@ -1,0 +1,88 @@
+$CUT_034_DISC_CROWD_001_CROWD
+Eles querem nos governar!
+$CUT_034_DISC_CROWD_002_CROWD
+O que eles estão pensando?!
+$CUT_034_DISC_CROWD_003_CROWD
+Depois eu mostro pra minha esposa quem manda!
+$CUT_034_DISC_CROWD_004_MAN
+Limite-se a preparar nossa comida e dar-nos filhos!
+$CUT_034_DISC_CROWD_005_MAN
+Nenhuma mulher vai nos governar!
+$CUT_034_DISC_CROWD_006_CROWD
+Lembre-se do seu lugar…
+$CUT_034_DISC_CROWD_007_CROWD
+...ou nós vamos obrigá-lo!
+$CUT_034_DISC_CROWD_004_JUDGE_AGGR
+O que eles fizeram é repugnante, especialmente em tempos como este, mas não temos escolha. Teremos que ceder às exigências deles. Pelo menos por enquanto…
+$CUT_034_DISC_CROWD_005_JUDGE_MANI
+Admita, você não esperava por isso – e eu também não! Eles atacaram quando estávamos distraídos, e agora teremos que ceder a eles.
+$CUT_034_DISC_CROWD_006_JUDGE_JOKE
+Toda esperança se foi... Temos que aceitar as condições deles.
+$CUT_034_DISC_CROWD_007_JUDGE_HUMI
+Pelo comportamento deles, estão extremamente decididos. Não vão desistir. Este golpe não será o último se não cedermos às suas exigências.
+$CUT_034_DISC_CROWD_008_JUDGE_AGGR
+É uma quantia insignificante, cidadãos. Entreguem a eles! Não deixem que o orgulho e o instinto vos ceguem. Não sejam tolos!
+$CUT_034_DISC_CROWD_009_JUDGE_MANI
+Reflitam por um instante — vocês cederão a eles uma pequena parcela de poder, mas garantirão para si a paz pelo resto de suas vidas.
+$CUT_034_DISC_CROWD_010_JUDGE_JOKE
+Você lhes concederá alguns direitos que pouco significam diante das mudanças recentes na França. Não passam de poeira entre as ruínas da Bastilha.
+$CUT_034_DISC_CROWD_011_JUDGE_HUMI
+Sei que você está exaltado, mas, na verdade, eles não pedem muito. Esse consentimento lhe custará pouco.
+$CUT_034_DISC_CROWD_012_CROWD_DOUB
+Você pode ter seus argumentos, mas nós temos os nossos. De homens. Construímos nosso mundo sobre eles, e não vamos abandoná-los assim tão facilmente.
+$CUT_034_DISC_CROWD_013_CROWD_IRRI
+Bebeu demais de novo? Você fala como se não conhecêssemos nossas mulheres. Elas vão nos dominar se cedermos a isso!
+$CUT_034_DISC_CROWD_014_CROWD_AGGR
+Dê um dedo, eles tomam o braço. Estenda a mão, arrancam até o coração. Você não sabe como são as mulheres?
+$CUT_034_DISC_CROWD_015_JUDGE_AGGR
+Não há tempo para tais discussões, cidadãos. O inimigo está nas ruas, enquanto vocês debatem se suas esposas merecem deixar de ser tratadas como criadas ou escravas!
+$CUT_034_DISC_CROWD_016_JUDGE_MANI
+Coloquem-se no lugar deles. Eles não ganharam quase nada com a Revolução, ao contrário de vocês, e acabam na guilhotina com a mesma frequência. Quem esteve ao seu lado quando você carregava os estandartes da Revolução? Foram eles que marcharam junto com você!
+$CUT_034_DISC_CROWD_017_JUDGE_JOKE
+É tão difícil assim largar o hábito de bater em suas esposas? Muitas vezes elas são mais inteligentes que vocês, então deixem-nas falar, pelo amor de Deus!
+$CUT_034_DISC_CROWD_018_JUDGE_HUMI
+Cidadãos, é hora de ceder. As mulheres merecem um tratamento mais digno. Elas conquistaram seu lugar na Revolução tanto quanto os senhores. Já sofreram o bastante para ter esse direito.
+$CUT_034_DISC_CROWD_019_CROWD_DOUB
+Mas não podemos tratá-los melhor do que isso.
+$CUT_034_DISC_CROWD_020_CROWD_IRRI
+Nós nos matamos de trabalhar para alimentá-los, damos a eles filhos. Já não fazemos o bastante? Dizem que, em terras selvagens, as mulheres sofrem mais e ainda assim não reclamam.
+$CUT_034_DISC_CROWD_021_CROWD_AGGR
+Não, já fomos bons demais com eles. Precisam sentir o chicote e lembrar quem manda nesta casa! Assim, não vão pensar em se rebelar!
+$CUT_034_DISC_CROWD_022_JUDGE_AGGR
+Se não fosse por eles, vocês jamais teriam tido sua Revolução! Sem o apoio deles, ainda estariam limpando os estábulos dos aristocratas em vez de celebrar cada novo amanhecer. Eles sempre estiveram ao seu lado, mas a Revolução nada fez para retribuí-los.
+$CUT_034_DISC_CROWD_023_JUDGE_MANI
+Graças à Revolução, vocês, homens, conquistaram igualdade e liberdade, mas as mulheres ficaram à margem. Elas nos apoiam, mas assim que alcançamos nosso descanso, as empurramos para o canto! É assim que queremos tratar nossas mulheres?
+$CUT_034_DISC_CROWD_024_JUDGE_JOKE
+De fato, nos acomodamos muito bem. Tomamos o poder da monarquia, fizemos dele nosso, mas as mulheres continuam lavando nossas roupas sujas.
+$CUT_034_DISC_CROWD_025_JUDGE_HUMI
+A Revolução pouco fez por elas. Continuam acorrentadas, presas por aqueles que as veem apenas como geradoras de filhos, quando poderiam ser guerreiras e políticas.
+$CUT_034_DISC_CROWD_026_JUDGE_AGGR
+Você quer voltar ao velho mundo e aos velhos costumes? Se não, lembre-se de que você gritou o lema “Liberdade. Igualdade. Fraternidade.” Fraternidade, ora bolas! De que valem esses lemas se você se recusa a compartilhar o que tem com as mulheres?
+$CUT_034_DISC_CROWD_027_JUDGE_MANI
+Você tem a chance de mostrar o verdadeiro poder da fraternidade revolucionária. Só quando lutarmos juntos pela nossa liberdade o lema “Liberdade. Igualdade. Fraternidade.” será plenamente realizado.
+$CUT_034_DISC_CROWD_028_JUDGE_JOKE
+O lema “Liberdade. Igualdade. Fraternidade.” agora não passa de palavras vazias. Neste momento crucial, não podemos negar às mulheres a última parte — a fraternidade. Se fizermos isso, é como gritar: “Cozinhar. Limpar. Dar filhos.”
+$CUT_034_DISC_CROWD_029_JUDGE_HUMI
+O mundo mudou, cidadãos. Se vocês desejavam essas mudanças apenas para si, deveriam ter garantido que nenhum sangue feminino fosse derramado durante a Revolução. Só lutando juntos, lado a lado, poderemos realizar nosso sonho de uma verdadeira fraternidade revolucionária! Nós devemos isso a elas.
+$CUT_034_DISC_CROWD_030_CROWD_DOUB
+Agora você nos deixou confusos. O que diabos te levou a negociar com essas bruxas?
+$CUT_034_DISC_CROWD_031_CROWD_IRRI
+Se são tão espertas assim, vamos dar-lhes mosquetes e mandá-las lutar contra o inimigo, que tal? Quero ver se vão querer tanta igualdade quando virem suas amigas tendo as entranhas arrancadas pelas baionetas!
+$CUT_034_DISC_CROWD_032_CROWD_AGGR
+Você devia saber muito bem o que acontece quando se é indulgente com as mulheres — até nossas próprias esposas nos esfaqueariam na primeira oportunidade, se deixássemos! Ou nos envenenariam! Não vamos permitir esse tipo de coisa!
+$CUT_034_DISC_CROWD_033_MAN
+O governo das mulheres...
+$CUT_034_DISC_CROWD_034_CROWD
+Que fiquem com um bordel — que mandem lá, se quiserem.
+$CUT_034_DISC_CROWD_035_CROWD
+Pela glória do novo mundo!
+$CUT_034_DISC_TOPIC_01
+Devemos aceitar as condições das mulheres.
+$CUT_034_DISC_TOPIC_02
+Eles não estão pedindo muito.
+$CUT_034_DISC_TOPIC_03
+Eles merecem um tratamento melhor.
+$CUT_034_DISC_TOPIC_04
+A Revolução deveria tornar todos iguais.
+$CUT_034_DISC_TOPIC_05
+Só uma verdadeira irmandade pode nos trazer a vitória.

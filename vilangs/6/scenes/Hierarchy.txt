@@ -1,0 +1,154 @@
+$HIERARCHY_CONFLICT_MAINHEADER
+Conflictos
+#HIERARCHY_CONFLICT_STATE_NEW
+Nuevo conflicto
+#HIERARCHY_CONFLICT_STATE_PENDING
+En curso
+#HIERARCHY_CONFLICT_STATE_BETREYAL
+Traición
+#HIERARCHY_CONFLICT_STATE_LOCKED
+Bloqueado
+#HIERARCHY_CONFLICT_STATE_RESOLVED
+Finalizado
+$HIERARCHY_SELECTACTION
+Acciones extraordinarias
+$HIERARCHY_CHANCE_TOOLTIP
+Probabilidad de ganar el Conflicto
+$HIERARCHY_CONFLICT_DAYS
+Día {0} de {1}
+$HIERARCHY_CONFLICT_DAYS_END
+Finalizado
+$HIERARCHY_CONFLICT_PENALTIES
+Penalización por derrota
+$HIERARCHY_CONFLICT_REWARDS
+Recompensas
+$HIERARCHY_ACCEPT_CONFLICT_SIDE
+Confirmar elección
+$HIERARCHY_CONFLICT_NOT_ENOUGHT
+No tienes suficientes Puntos de Influencia para participar en el conflicto.
+$HIERARCHY_CONFLICT_SIDE_TITLE
+Apoya a uno de los bandos en el conflicto.
+#HIERARCHY_CONFLICT_WEAKNESS_00
+Creencias controvertidas
+#HIERARCHY_CONFLICT_WEAKNESS_01
+Falta de apoyo político
+#HIERARCHY_CONFLICT_WEAKNESS_02
+Malas relaciones familiares
+#HIERARCHY_CONFLICT_WEAKNESS_03
+Monárquico
+#HIERARCHY_CONFLICT_WEAKNESS_04
+Un ascenso al poder sospechoso
+#HIERARCHY_CONFLICT_ACTION_NAME_DIP
+Diplomático
+#HIERARCHY_CONFLICT_ACTION_NAME_SPY
+Encubierto
+#HIERARCHY_CONFLICT_ACTION_NAME_STR
+Forzoso
+$HIERARCHY_CONFLICT_ACTION_DIP_01
+Criticar a los miembros del salón político.
+$HIERARCHY_CONFLICT_ACTION_DIP_02
+Criticar opiniones en el Café Procope.
+$HIERARCHY_CONFLICT_ACTION_DIP_03
+Pronuncia un discurso crítico durante la sesión de la Convención.
+$HIERARCHY_CONFLICT_ACTION_SPY_01
+Encargar la pintura de imágenes ofensivas en los edificios.
+$HIERARCHY_CONFLICT_ACTION_SPY_02
+Encargar la colocación de carteles difamatorios.
+$HIERARCHY_CONFLICT_ACTION_SPY_03
+Comenzar rumores en el mercado.
+$HIERARCHY_CONFLICT_ACTION_STR_01
+Intimida a los aliados de tu enemigo.
+$HIERARCHY_CONFLICT_ACTION_STR_02
+Sabotea una fuente de ingresos.
+$HIERARCHY_CONFLICT_ACTION_STR_03
+Enviar la patrulla revolucionaria.
+$HIERARCHY_WEAKNESS_TITLE
+Debilidad: {0}
+$HIERARCHY_WEAKNESS_UNKNOWN
+<color="#ff0000">Desconocido</color>
+$HIERARCHY_DEATH_01
+Condenado a la guillotina
+$HIERARCHY_DEATH_02
+Traición
+$HIERARCHY_DEATH_03
+Disparo
+$HIERARCHY_DEATH_04
+Cayó en combate
+$HIERARCHY_DEATH_05
+Suicidio
+$HIERARCHY_DEATH_06
+Cayó durante los disturbios
+$HIERARCHY_DEATH_07
+Asesinado por su hermano
+$HIERARCHY_DEATH_08
+En prisión
+$HIERARCHY_DEATH_09
+Huyó de París
+$HIERARCHY_POPUP_HEADER
+Has derrotado a {0}
+$HIERARCHY_POPUP_MAIN
+Has logrado vencer a {0} en las luchas políticas. Asciendes en la jerarquía.
+$HIERARCHY_CONFLICT_PAX_TITLE
+Robespierre contra Roland
+$HIERARCHY_CONFLICT_PAX_DESCRIPTION
+Robespierre no odia a los girondinos. Simplemente cree que ya han cumplido su función y que deben ser apartados rápidamente de la escena política, por el bien de los jacobinos y de Francia. Sin embargo, Roland es ministro en funciones y garante del equilibrio en el gobierno.
+$HIERARCHY_CONFLICT_001_TITLE
+Burel contra Robespierre
+$HIERARCHY_CONFLICT_001_DESCRIPTION
+Robespierre quiere poner a uno de sus lacayos como comandante en jefe. No sabemos quién será, pero si destituyen a Burel, podemos estar seguros de que su sucesor será un perro fiel del Incorruptible.
+$HIERARCHY_CONFLICT_002_TITLE
+Elliott contra Hébert
+$HIERARCHY_CONFLICT_002_DESCRIPTION
+Por sus raíces escocesas, Grace Elliott es despreciada por muchos parisinos patriotas, especialmente por Hébert y sus “Enragés”. Seguirán acosándola hasta encontrar pruebas de sus actividades de espionaje.
+$HIERARCHY_CONFLICT_003_TITLE
+Danton contra Roland
+$HIERARCHY_CONFLICT_003_DESCRIPTION
+A Danton le encanta cuando la multitud enardecida corea su nombre. En privado, siente admiración por Roland y valora su disposición a saltarse las reglas por el bien común. Sin embargo, en público adopta la postura segura de exigir la dimisión de Roland. Roland no cederá fácilmente, pues aún cuenta con el respaldo de los girondinos, que no han terminado su lucha contra los jacobinos.
+$HIERARCHY_CONFLICT_004_TITLE
+Hébert contra Roland
+$HIERARCHY_CONFLICT_004_DESCRIPTION
+Hébert huele la presa herida como un sabueso. El barco de Roland hace agua y el apoyo de los girondinos pende de un hilo tan fino como la hoja de la guillotina. Para Hébert, este es el momento perfecto para lanzarse al ataque. Su carrera política se alimenta de la caída en desgracia de los poderosos y corruptos. Los sans-culottes lo celebran, pues son su base.
+$HIERARCHY_CONFLICT_005_TITLE
+Elliot contra Marat
+$HIERARCHY_CONFLICT_005_DESCRIPTION
+Durante su carrera como cortesana, Elliott fue insultada con frecuencia por gente de mente estrecha, pero hasta Marat nadie se atrevió a hacerlo en público. Es poco probable que Jean-Paul actuara por iniciativa propia; lo más seguro es que le encargaran escribir ese texto despiadado. Sin embargo, para Grace Elliott eso no cambia nada: fue humillada ante todo París y jamás se lo perdonará a Marat. Aunque, al leer el artículo, cuesta encontrar en él alguna mentira real…
+$HIERARCHY_CONFLICT_006_TITLE
+Danton contra David
+$HIERARCHY_CONFLICT_006_DESCRIPTION
+Danton ha exigido de repente la reapertura de la Academia Francesa, probablemente para ganarse el favor de la alta sociedad, que respalda la idea. Tu amigo Jacques-Louis David se opondrá por razones evidentes: él fue quien impulsó el cierre de la academia. No permitas que otros cuestionen la legitimidad de su decisión, pero ten presente que David no goza de tanta influencia como Danton.
+$HIERARCHY_CONFLICT_007_TITLE
+Hébert contra Renard
+$HIERARCHY_CONFLICT_007_DESCRIPTION
+La gente de Hébert recorre París gritando que su líder ha descubierto un complot aristócrata para restaurar la Monarquía. El propio Hébert asegura que el viejo Renard está detrás de todo. No tenemos forma de saber si hay algo de verdad en esto o si es solo la paranoia innata de los sans-culottes. Renard es un enemigo poderoso, agazapado como una serpiente, y no menos peligroso si se le pisa.
+$HIERARCHY_CONFLICT_008_TITLE
+Marat contra Gobel
+$HIERARCHY_CONFLICT_008_DESCRIPTION
+La revuelta en la Vendée no surgió de la nada. Se está gestando una nueva caza de brujas. Marat afirma que Gobel y el clero conspiran para dar un golpe de Estado y dividir el país. Gobel es poderoso y probablemente saldrá indemne si nadie respalda la cruzada de Marat.
+$HIERARCHY_CONFLICT_009_TITLE
+Hanriot contra David
+$HIERARCHY_CONFLICT_009_DESCRIPTION
+Es difícil decir por qué Hanriot atacó a David. Ambos guardan silencio sobre el asunto, pero al segundo se le ha escuchado decir: “Si no es por dinero, ¿entonces por qué será?” Apostaría a que se trata de una mujer, pues hoy en día difícilmente puede ser cuestión de honor. Dos de tus partidarios se enfrentan entre sí. Debes elegir un bando.
+$HIERARCHY_CONFLICT_010_TITLE
+Robespierre contra Gobel
+$HIERARCHY_CONFLICT_010_DESCRIPTION
+Dos titanes se enfrentan por el título del hombre más poderoso de París. La fortuna ha dejado de sonreír al arzobispo y Robespierre piensa aprovecharlo. Tolerará los sentimientos anticlericales, o incluso avivará sus llamas. Cuando caiga Gobel, el Incorruptible intentará restablecer el equilibrio. Un equilibrio que estará completamente bajo su control.
+$HIERARCHY_CONFLICT_011_TITLE
+De Staël contra Marat
+$HIERARCHY_CONFLICT_011_DESCRIPTION
+Las mujeres de hoy no olvidan fácilmente los agravios de los hombres. De Staël, desde luego, no ha perdonado cómo Marat trató a Grace Elliot. Ahora el charlatán debe enfrentarse a una mujer con tanto acceso a la élite parisina como él mismo. Germaine sin duda lo criticará en el salón político y exigirá tanto destituciones como castigos. Jean-Paul solo podrá contar con el apoyo de aquellos hombres incapaces de soportar la idea de que una mujer triunfe.
+$HIERARCHY_CONFLICT_012_TITLE
+Hanriot contra Hébert
+$HIERARCHY_CONFLICT_012_DESCRIPTION
+Hanriot ha vuelto a enzarzarse en disputas políticas. Oficialmente acusa a Hébert de que su gente imparte justicia en las calles, pasando por encima de su Guardia. Pero los sans-culottes siempre han hecho eso, ¿por qué protesta ahora? Hébert debe de haberle ofendido de otra manera. No siempre podemos saberlo todo, pero no podemos quedarnos al margen.
+$HIERARCHY_CONFLICT_013_TITLE
+Hanriot contra Danton
+$HIERARCHY_CONFLICT_013_DESCRIPTION
+Las calles de París hierven de rumores: dicen que Hanriot aspira a una carrera en el Ministerio del Interior. Sin embargo, sus intentos de cambiar de puesto han sido frustrados por Danton, que no quiere ver a un holgazán en el Ministerio. Esto ha llevado a Hanriot a recopilar meticulosamente información que podría ayudarle a deshacerse de Danton. Parece que por fin tiene suficiente, y si realmente tiene algo con lo que presionarlo, bien podría…
+$HIERARCHY_CONFLICT_014_TITLE
+De Staël contra Robespierre
+$HIERARCHY_CONFLICT_014_DESCRIPTION
+De Staël debe de sentirse poderosa si se atreve a desafiar a Robespierre. En uno de los salones políticos, Germaine pronunció un discurso criticando la idea de una sociedad gobernada por hombres sedientos de sangre y exigió igualdad revolucionaria para las mujeres. Fue un acto audaz, pero la mayoría se burló de ella. Al parecer, de Staël está decidida a demostrar que las mujeres son lo bastante fuertes para derrocar a cualquiera, y ha elegido al Incorruptible como su objetivo.
+$HIERARCHY_CONFLICT_015_TITLE
+Marat contra Renard
+$HIERARCHY_CONFLICT_015_DESCRIPTION
+Al igual que Hébert antes que él, Marat proclama que Renard es el cabecilla de una conspiración aristocrática cuyo objetivo es restaurar el Antiguo Régimen. Sin embargo, nadie presta atención a teorías conspirativas mientras la capital se consume en el caos y el terror. Viendo la situación, el regreso de los aristócratas incluso podría devolver algo de equilibrio...

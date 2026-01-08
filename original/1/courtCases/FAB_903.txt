@@ -1,0 +1,216 @@
+$FAB_903_DOC_1_HEADER
+Speech for the prosecution by Antoine Quentin Fouquier-Tinville
+$FAB_903_DOC_1_00
+Compatriots! Citizen Capet, previously known as King Louis XVI of France, must be punished for conspiring against the people of France!
+$FAB_903_DOC_1_01
+Louis Capet tried todefend his absolute authority by plotting against the National Constituent Assembly and the people of France. We all remember July of 1789. He gathered an army, 15 foreign regiments, and ordered them to surround Paris. Soldiers led by Baron de Besenval were to capture deputies and shoot at Citizens defending the reforms! And so they did! The Royal German Regiment drew first blood!
+$FAB_903_DOC_1_02
+After the plot failed, Louis Capet <a name="3" class="hidden">tried to flee</a> the country with his family and scheme with foreign monarchs abroad. Is that not the reason for him leaving the Tuileries one night in June of 1791 using someone else’s passport? Was he not heading to Montmédy where his loyal armies were stationed, ready to take him to Austria? If it were not for Postmaster Douret, this scheme could have ended tragically for us.
+$FAB_903_DOC_1_03
+Louis Capet will never abandon the thought of <a name="5" class="hidden">suppressing the Revolution by force</a>. Before the events of 1792, he gave orders for the Swiss Guard stationed in the Tuileries to be doubled. He conducted a public muster in front of horrified Citizens. The people had no choice! They had to act before Capet attacked! Citizens of Paris who tried to stop the madness were shot at, even after Capet’s escape to the National Assembly.
+$FAB_903_DOC_1_04
+Evidence: An order issued by Marshall de Broglie to Baron de Besenval. <a name="6" class="hidden">Instructions</a> issued by the Minister of Internal Affairs, Jean-Marie Roland. <a name="7" class="hidden">A letter from</a> Emperor Leopold II. <a name="8" class="hidden">A letter from</a> the Duke of Brunswick, Charles William Ferdinand.
+$FAB_903_DOC_2_TOOLTIP
+An order issued by Marshal de Broglie to Baron de Besenval
+$FAB_903_DOC_2_00
+	My lord! 
+	
+	Should any reason appear, shoot the rebels without hesitation, just as His Majesty ordered. Have no mercy, for they shall have none either. 
+														
+														V.F. de Broglie
+$FAB_903_DOC_3_TOOLTIP
+Instructions issued by the Minister of Internal Affairs, Jean-Marie Roland
+$FAB_903_DOC_3_00
+	The deputies of the so-called National Assembly are to be carefully questioned, and if any of them should display common sense and cease to support the Assembly, reward him with an extraordinarily high allowance and forward His Majesty’s thanks.
+	
+$FAB_903_DOC_4_TOOLTIP
+A letter from Emperor Leopold II:
+$FAB_903_DOC_4_00
+	We trust that with God’s Grace and help, His Majesty will soon arrive within the Imperial borders for us to grant HM as well as Our Beloved Sister safety and to potentially take the steps necessary to re-establish the natural European order within the borders of France. 
+	
+His Imperial Majesty the Holy Roman Emperor, King of Hungary, Bohemia, Croatia, Dalmatia, Slavonia, Galicia, Lodomeria, etc. - Leopold II Habsburg 
+AD 1791, 15th of May.
+$FAB_903_DOC_5_TOOLTIP
+A letter from the Duke of Brunswick, Charles William Ferdinand
+$FAB_903_DOC_5_00
+	Your Grace!
+
+	Soon we will come to Your Majesty’s rescue. However, for the time being I implore YM to muster local troops that remain loyal. I shall issue a warning to YM’s subjects that any and all who dare raise a hand against YM would suffer the direst of consequences.
+
+	My armies await my orders to curb the tide of anarchy in YM’s country.  
+	
+	Duke of Brunswick-Lüneburg, Charles William Ferdinand. 
+	AD 1792, 9th of June.
+	
+$FAB_903_OnStart_GUARD_00
+Monsieur le juge, the crowd in front of the building is enraged. There may soon be a massacre.
+$FAB_903_OnStart_GUARD_01
+A rumour has spread about hidden evidence of Citizen Capet’s treason. People have gone mad.
+$FAB_903_OnStart_KING_00
+What evidence?
+$FAB_903_OnStart_JUDGE_00
+I will go to them. I would ask you all to stay in your seats until I return.
+$FAB_903_OnStart_MENTOR_00
+It is true. Evidence of Capet’s guilt has been found.
+$FAB_903_OnStart_PROSECUTOR_00
+Really?!
+$FAB_903_OnStart_00
+Would the defendant like to explain why he concealed his secure iron cabinet, and the documents hidden within, from the Convention?
+$FAB_903_OnStart_01
+I hid nothing from the Convention. No one asked me about the existence of such things.
+$FAB_903_OnStart_02
+You kept your correspondence well hidden under lock and key. It could only be retrieved with the assistance of a master locksmith.
+$FAB_903_OnStart_03
+Any affluent Parisian has a lockable cabinet. I, for one, am keenly interested in locksmithing.
+$FAB_903_OnGuilty_00
+I sentence Citizen Capet to death by guillotine! Take the convict away.
+$FAB_903_OnGuilty_01
+Long live the people!
+$FAB_903_OnGuilty_02
+Down with the tyrant!
+$FAB_903_OnPrison_00
+I sentence Citizen Capet to prison! Take him away.
+$FAB_903_OnPrison_01
+Arrest the Judge immediately!
+$FAB_903_OnPrison_02
+Outrageous!
+$FAB_903_OnNotGuilty_00
+The verdict in the case of Citizen Capet is… not guilty! The defendant is free to go.
+$FAB_903_OnNotGuilty_01
+Arrest the Judge immediately!
+$FAB_903_OnNotGuilty_02
+Outrageous!
+$FAB_903_04x05_00_QTitle
+You were aware of the plans of the Emperor and the Duke of Brunswick. Why did you not…?
+$FAB_903_04x05_00_00
+You were aware of the plans of the Emperor and the Duke of Brunswick. Why did you not warn the National Assembly and the army?
+$FAB_903_04x05_00_01
+…
+$FAB_903_04x05_00_02
+You need to speak up.
+$FAB_903_04x05_00_03
+I did not deem their threats serious.
+$FAB_903_04x05_00_04
+That reeks of treason.
+$FAB_903_04x05_00_05
+Allow me to quote: “My armies await my orders.” Does that not sound like a serious threat?
+$FAB_903_04x05_00_06
+Prince Charles is impetuous, but I never once thought he would dare attack France.
+$FAB_903_01x06_01_QTitle
+Was the accused responsible for the attempts to bribe…
+$FAB_903_01x06_01_00
+Was the accused responsible for the attempts to bribe deputies of the Assembly in order to abolish it?
+$FAB_903_01x06_01_01
+I did not sign that document, sir.
+$FAB_903_01x06_01_02
+But it was found in a cache belonging to the accused. It speaks of thanks from the King.
+$FAB_903_01x06_01_03
+My intention was to put Minister Roland on trial for abusing his power. I kept the document for that occasion.
+$FAB_903_01x06_01_04
+A trial that has not happened for three years now!
+$FAB_903_01x06_01_05
+A trial that needs to happen. Roland will confess to the guillotine!
+$FAB_903_01x06_01_06
+That is the fault of the minister of justice. I ordered him to carry out an investigation and to punish the minister of internal affairs.
+$FAB_903_05x03_02_QTitle
+Then why would the emperor mention shortly before the journey that he expected to see…
+$FAB_903_05x03_02_00
+Then why would the emperor mention shortly before the journey that he expected to see the accused and his family within his borders shortly before said journey?
+$FAB_903_05x03_02_01
+Mere coincidence. The emperor simply feared for the life of his sister. It is no secret that the European monarchs have a warped view of the Revolution. They see it as a weapon against monarchy.
+$FAB_903_05x03_02_02
+Was the presence of forces in Montmédy intended to escort the accused to Austria also a mere coincidence?
+$FAB_903_05x03_02_03
+I swear I had nothing to do with that!
+$FAB_903_01x07_03_QTitle
+Did the accused intend to lead the emperor’s forces to France?
+$FAB_903_01x07_03_00
+Did the accused intend to lead the emperor’s forces to France?
+$FAB_903_01x07_03_01
+I certainly did not.
+$FAB_903_01x07_03_02
+In his letter, the emperor was quite clear about his intentions to “return order” to France.
+$FAB_903_01x07_03_03
+I do not know the plans of Emperor Leopold, but I do know that I would never allow anyone to spill French blood.
+$FAB_903_01x07_03_04
+But you must admit that such an offer from an enemy government paints you in a bad light.
+$FAB_903_01x07_03_05
+Dear God, it is merely personal correspondence from my brother-in-law!
+$FAB_903_01x07_03_06
+It is not personal when the letters exchanged are by rulers and deal in matters of national security.
+$FAB_903_06x05_04_QTitle
+Citizen, would you call Minister Jean-Marie Roland a loyal servant?
+$FAB_903_06x05_04_00
+Citizen, would you call Minister Jean-Marie Roland a loyal servant?
+$FAB_903_06x05_04_01
+He was always loyal to France and the Revolution. There was a time when I held him in high regard.
+$FAB_903_06x05_04_02
+We have a letter from the minister here in which he encourages bribery of deputies of the Convention. I have heard that when the cabinet containing new evidence was discovered, Roland dismissed his associates so he could carefully go through the contents by himself…
+$FAB_903_06x05_04_03
+During one meeting, I joked that we would be able to save the balance of the Republic if I could find just one honest man in the Convention who would back me…
+$FAB_903_06x05_04_04
+It would seem your humourless joke was taken quite seriously.
+$FAB_903_06x05_04_05
+Judging by what was left, I dread to think what documents the minister succeeded in destroying.
+$FAB_903_06x05_04_06
+I hope the accused does not lose his job. It would be a pity…
+$FAB_903_02x08_05_QTitle
+Was the Swiss Guard going to help during the duke’s attack on Paris?
+$FAB_903_02x08_05_00
+Was the Swiss Guard going to help during the duke’s attack on Paris?
+$FAB_903_02x08_05_01
+No, they were only supposed to keep my family safe.
+$FAB_903_02x08_05_02
+You doubled the numbers of the Guard before the events in August. It seems as though everything was going according to the Duke of Brunswick’s plan…
+$FAB_903_02x08_05_03
+Nonsense! I cannot be held responsible for the intentions Prince Charles stated in this letter! Why would I act against my own people when his attack was already doomed to failure?
+$FAB_903_KEY_01
+Defending his authority
+$FAB_903_KEY_02
+Gathering armed forces
+$FAB_903_KEY_03
+Attempted escape
+$FAB_903_KEY_04
+International plot
+$FAB_903_KEY_05
+Suppressing the Revolution
+$FAB_903_KEY_06
+Minister’s order
+$FAB_903_KEY_07
+Letter from the emperor
+$FAB_903_KEY_08
+Letter from the duke
+$FAB_903_LastDialog_00
+I die as an innocent man. I forgive my enemies.
+$FAB_903_UNIQUE_QUESTION_00
+Who was corrupting politicians at Citizen Capet’s request?
+$FAB_903_UNIQUE_QUESTION_01
+According to the defendant, why did Emperor Leopold II write him letters?
+$FAB_903_UNIQUE_QUESTION_02
+Did Citizen Capet explain his reasoning behind Roland’s mission of corruption?
+$FAB_903_UNIQUE_QUESTION_03
+Why did Citizen Capet not warn the National Assembly about the Duke of Brunswick’s plans?
+$FAB_903_UNIQUE_ANSWER_CORRECT_00_00
+Jean-Marie Roland.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Arnaud II de La Porte.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Honoré Gabriel Riqueti.
+$FAB_903_UNIQUE_ANSWER_CORRECT_01_00
+He was afraid for the life of his sister, Marie Antoinette.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_01_00
+He was afraid for the life of his friend, Citizen Capet.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_01_01
+He was afraid for the life of innocent Citizens.
+$FAB_903_UNIQUE_ANSWER_CORRECT_02_00
+He claims it was merely a jest.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Apparently he misspoke.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_02_01
+He denies the situation took place.
+$FAB_903_UNIQUE_ANSWER_CORRECT_03_00
+He did not consider the threat to be serious.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_03_00
+He forgot.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_03_01
+He claims to having issued the warning but was ignored.

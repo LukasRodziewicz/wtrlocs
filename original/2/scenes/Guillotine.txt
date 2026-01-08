@@ -1,0 +1,46 @@
+$EXECUTION_START_TIP
+Tirer la corde pour procéder à l'exécution
+$SUMMON_GUARDS
+Appeler les gardes
+$SKIP_SPEECH
+Passer le discours
+$PEOPLE_ATTITUDE
+[Attitude du peuple]
+$PEOPLE_ATTITUDE_DESC
+Attitude du peuple : de quoi il s'agit et quelles sont ses règles.
+$PEOPLE_ATTITUDE_LV1
+Agression
+$PEOPLE_ATTITUDE_LV2
+Réprobation
+$PEOPLE_ATTITUDE_LV3
+Indifférence
+$PEOPLE_ATTITUDE_LV4
+Faveur
+$PEOPLE_ATTITUDE_LV5
+Liesse
+$GUILLOTINE_ATTACK_SUCCESS_DESC
+La foule réunie sur la place de l'exécution n'a pas apprécié vos paroles. Des coups de poing et de matraque ont été assénés. Malheureusement, les gardes étaient trop loin et n'ont pas pu intervenir à temps. Vous avez dû faire face à la colère du peuple, seul.
+$GUILLOTINE_ATTACK_FAILURE_DESC
+La foule réunie sur la place de l'exécution n'a pas apprécié vos paroles. Ils ont voulu vous le démontrer à coups de poing. Par chance, les gardes étaient organisés et ont rapidement endigué la situation. Votre réputation a souffert, mais vous pouvez tout de même procéder à l'exécution.
+$GUILLOTINE_START_SPEECH
+Parler aux gens du peuple.
+$GUILLOTINE_SPEECH_START_LOW_JUSTICE
+Ils semblent se méfier…
+$GUILLOTINE_SPEECH_START_NEUTRAL_JUSTICE
+Je pourrais peut-être conquérir les cœurs de la foule.
+$GUILLOTINE_SPEECH_START_HIGH_JUSTICE
+Ils me font confiance, je les tiens en mon pouvoir.
+$GUILLOTINE_HEART_LOW_JUSTICE
+Ils se méfient fortement de moi.
+$GUILLOTINE_HEART_NEUTRAL_JUSTICE
+Ils se méfient de moi.
+$GUILLOTINE_HEART_HIGH_JUSTICE
+Ils me font confiance.
+$TIMERGUARD
+Nous avons pris trop de retard, les gens commencent à s'agiter !
+#GUILLOTINE_COMMENT_000
+Qu'on lui coupe la tête !
+#GUILLOTINE_COMMENT_001
+Tirez la corde !
+#GUILLOTINE_COMMENT_002
+Pour la Révolution !

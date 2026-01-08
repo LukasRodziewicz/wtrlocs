@@ -1,0 +1,86 @@
+$DISC_INTR_005_B02_ELLIOTT_001_ELLIOTT
+Did you come to visit the English whore?
+$DISC_INTR_005_B02_ELLIOTT_002_ELLIOTT
+That’s the new code name they gave me in prison.
+$DISC_INTR_005_B02_ELLIOTT_003_JUDGE
+I am so sorry, Grace. The guards should not–
+$DISC_INTR_005_B02_ELLIOTT_004_ELLIOTT
+Oh, this whole Revolution of yours shouldn’t, but this is who you are.
+$DISC_INTR_005_B02_ELLIOTT_005_ELLIOTT
+If I ever get out of here, I will charge you triple.
+$DISC_INTR_005_B02_ELLIOTT_006_ELLIOTT
+What do you want?
+$DISC_INTR_005_B02_ELLIOTT_007_JUDGE
+To offer you absolution.
+$DISC_INTR_005_B02_ELLIOTT_008_ELLIOTT
+Since you came to offer it, you must want something in return. What?
+$DISC_INTR_005_B02_ELLIOTT_009_JUDGE
+Madame de Staël.
+$DISC_INTR_005_B02_ELLIOTT_010_ELLIOTT
+I’m not a panderer, sorry. The only thing I can currently give you is a rat that I killed yesterday.
+$DISC_INTR_005_B02_ELLIOTT_011_ELLIOTT
+I’m not feeling all that hungry recently.
+$DISC_INTR_005_B02_ELLIOTT_012_JUDGE
+Yet, you are the only person that can help me. That can help Paris.
+$DISC_INTR_005_B02_ELLIOTT_013_ELLIOTT
+Do you remember when someone stabbed you in the middle of the street and I stitched you up?
+$DISC_INTR_005_B02_ELLIOTT_014_ELLIOTT
+Did I still not help you enough?
+$DISC_INTR_005_B02_ELLIOTT_010_JUDGE_AGGR
+I must get to that bitch de Staël! I must see her in the dock, and you will provide evidence of her crime – whether it is true or not.
+$DISC_INTR_005_B02_ELLIOTT_011_JUDGE_MANI
+Every person can be accused of something. I want to know what Madame de Staël did, or could still do. And who else can I ask, if not another woman?
+$DISC_INTR_005_B02_ELLIOTT_012_JUDGE_JOKE
+No single Parisian is lacking evidence that can be used against them. Tell me, what can we charge her with when the need arises? I’m not asking for the truth, only something that would be convincing.
+$DISC_INTR_005_B02_ELLIOTT_013_JUDGE_HUMI
+We used to help each other in the past, let us do so again. Tell me what you have on de Staël, anything that would be worth the guillotine.
+$DISC_INTR_005_B02_ELLIOTT_014_ELLIOTT_INTR
+I would love to help, but I don’t have anything on de Staël. Absolutely nothing.
+$DISC_INTR_005_B02_ELLIOTT_015_ELLIOTT_DOUB
+I doubt you will find anything. De Staël is clean, that’s why women chose her.
+$DISC_INTR_005_B02_ELLIOTT_016_ELLIOTT_IRRI
+This time you may fail, as I don’t have anything on her. Moreover, even if I had something, I doubt anyone would believe in her guilt. Women think she’s a saint.
+$DISC_INTR_005_B02_ELLIOTT_017_JUDGE_AGGR
+You must have something! Do not lie to me!
+$DISC_INTR_005_B02_ELLIOTT_018_JUDGE_MANI
+I do not believe you are telling me the whole truth.
+$DISC_INTR_005_B02_ELLIOTT_019_JUDGE_JOKE
+Stop being so unapproachable, there are bars between us already.
+$DISC_INTR_005_B02_ELLIOTT_020_JUDGE_HUMI
+You have to help me. Only you can fix the situation.
+$DISC_INTR_005_B02_ELLIOTT_021_ELLIOTT_INTR
+Would you lie to achieve your goal?
+$DISC_INTR_005_B02_ELLIOTT_022_ELLIOTT_DOUB
+Ask however many times you wish. I can’t give you what you want, because I don’t have it.
+$DISC_INTR_005_B02_ELLIOTT_023_ELLIOTT_IRRI
+I can’t give you something that doesn’t exist. Don’t you understand what I’m saying?
+$DISC_INTR_005_B02_ELLIOTT_024_JUDGE_AGGR
+Maybe I should motivate you. Help me, and you will leave this place today.
+$DISC_INTR_005_B02_ELLIOTT_025_JUDGE_MANI
+Do you really wish to spend so many more months in this place? Help me, and I will help you.
+$DISC_INTR_005_B02_ELLIOTT_026_JUDGE_JOKE
+I will get to her – with or without you. Except with your help, the process will take less of our valuable time. You should help, too, as you are choosing between leaving this place immediately or after many, many months. Possibly never.
+$DISC_INTR_005_B02_ELLIOTT_027_JUDGE_HUMI
+Only I can get you out of here, people do not care for political prisoners any more. Do not sentence yourself to so many months of prison.
+$DISC_INTR_005_B02_ELLIOTT_028_JUDGE_AGGR
+De Staël does not know whom she attacked! She will regret it! She will pay like all the others who have tried to stab me in the back!
+$DISC_INTR_005_B02_ELLIOTT_029_JUDGE_MANI
+I cannot let her gain power at the expense of our city being brutally torn apart. If she is unable to sacrifice her ambitions in such a situation, then I find her a traitor. And I will not be blackmailed by a traitor.
+$DISC_INTR_005_B02_ELLIOTT_030_JUDGE_JOKE
+De Staël will get burned trying to blackmail me and the people who fight for the freedom of Paris. Though I would delight in making sure she stays in the fire for longer.
+$DISC_INTR_005_B02_ELLIOTT_031_JUDGE_HUMI
+De Staël uses the terrible situation in Paris to achieve her own political goals. I will not let her blackmail me and France.
+$DISC_INTR_005_B02_ELLIOTT_032_ELLIOTT_INTR
+Since there is no evidence of her crime, I’ll create it. Let me go, and I will arm you with a charge strong enough to destroy anyone. Even someone as innocent as de Staël.
+$DISC_INTR_005_B02_ELLIOTT_033_ELLIOTT_DOUB
+I will only help you because I don’t want to die here. I’ll hand you this precious evidence, but don’t count on it being entirely true.
+$DISC_INTR_005_B02_ELLIOTT_034_ELLIOTT_IRRI
+I am still strong enough to listen to my conscience and not betray other women. Who do you think I am? Do you want to break me? Many men before you made a similar attempt, and they failed too. You will all fail. We, women, shall prevail!
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_01
+Give me something I can charge de Staël with.
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_02
+I do not believe that de Staël is so innocent.
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_03
+Help me, and you will be freed.
+$DISC_INTR_005_B02_ELLIOTT_TOPIC_04
+I will not be blackmailed.

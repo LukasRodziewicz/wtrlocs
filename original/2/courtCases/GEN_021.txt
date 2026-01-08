@@ -1,0 +1,286 @@
+$GEN_021_DOC_01_HEADER
+Compilé par : Pierre Daquin
+$GEN_021_DOC_01_00
+Isaac Medelsheim, veuf juif de 53 ans, tient trois auberges parisiennes et propose des prêts sur gages. Sa fille de 16 ans, Esther Medelsheim, l'assiste. Le commerçant se considère comme un fervent <a name="2" class="hidden">partisan de la Révolution</a> car il croit qu'elle permettra aux Juifs d'obtenir les mêmes droits que les autres citoyens français.
+$GEN_021_DOC_01_01
+En raison des problèmes d'approvisionnement de nourriture dans la ville, il vit principalement de son activité d'usurier. Medelsheim est soupçonné du vol de provisions militaires pour les revendre dans ses auberges.
+$GEN_021_DOC_01_02
+Le comte Jean-Philippe de Braux, l'un des débiteurs de Medelsheim, affirme avoir assisté au crime. Il a informé les autorités que tard dans la nuit du samedi 12 septembre, il a vu Isaac Medelsheim mener personnellement le <a name="4" class="hidden">déchargement de véhicules</a> appartenant à son cousin, Herz Medelsheim, devant son <a name="5" class="hidden">entrepôt</a>. Tout le monde sait que Herz fournit uniquement des vivres à l'armée française et que ses supérieurs fréquentent régulièrement les auberges d'Isaac.
+$GEN_021_DOC_01_03
+Les enquêteurs ont trouvé des <a name="6" class="hidden">coffres militaires</a> estampillés de la compagnie de Medelsheim dans l'entrepôt d'Isaac. Leur contenu – du vin, de la viande de cheval séchée et de la farine – était absent de l'<a name="7" class="hidden">inventaire</a>. Il était cependant indiqué sur les feuilles de route de la garnison de Reims. Le dossier indique qu'Esther Medelsheim est responsable de l'inventaire.
+$GEN_021_DOC_01_04
+Isaac Medelsheim a immédiatement été arrêté et accusé de voler du matériel de l'armée française et d'agir à l'encontre des intérêts de la France.
+$GEN_021_DOC_01_05
+Pièce à conviction : <a name="8" class="hidden">Déclaration d'Esther</a> Medelsheim.
+$GEN_021_OnStart_00
+Sale parasite juif !
+$GEN_021_OnStart_01
+À mort les bourgeois !
+$GEN_021_OnStart_02
+Je te prie de te présenter, citoyen.
+$GEN_021_OnStart_03
+Isaac Medelsheim, Monsieur le juge.
+$GEN_021_OnStart_04
+Tu es accusé de voler les biens de l'armée française et de vouloir les revendre.
+$GEN_021_OnStart_05
+Quel vol, Monsieur le juge, quel crime ?!
+$GEN_021_OnStart_06
+Nous avons un témoin qui a tout vu.
+$GEN_021_OnStart_07
+Ce sont des calomnies, Monsieur le juge, une invention du comte de Braux ! Il me doit de l'argent et refuse de me payer !
+$GEN_021_OnStart_08
+Les coffres militaires contenant des provisions destinées à la garnison de Reims, retrouvés dans ton entrepôt, constituent des charges accablantes contre toi.
+$GEN_021_OnStart_09
+Je peux tout expliquer !
+$GEN_021_OnGuilty_00
+Je condamne le citoyen Isaac Medelsheim à être guillotiné ! Emmenez le condamné.
+$GEN_021_OnGuilty_01
+Espérons que nos soldats auront enfin de quoi manger.
+$GEN_021_OnGuilty_02
+Enfin !
+$GEN_021_OnGuilty_03
+La bourgeoisie à la guillotine !
+$GEN_021_OnNotGuilty_00
+Isaac Medelsheim est jugé… non coupable ! Emmenez l'accusé.
+$GEN_021_OnNotGuilty_01
+Je proteste, cette décision est inacceptable !
+$GEN_021_OnNotGuilty_02
+Ils vont laisser partir un voleur !
+$GEN_021_OnNotGuilty_03
+C'est un contre-révolutionnaire !
+$GEN_021_OnNotGuilty_04
+Le juge est un vendu !
+$GEN_021_01x04_00_QTitle
+Combien d'employés travaillent dans ton entrepôt ?
+$GEN_021_01x04_00_00
+Combien d'employés travaillent dans ton entrepôt ?
+$GEN_021_01x04_00_01
+Cinq, mais ce sont tous des fainéants et des tire-au-flanc.
+$GEN_021_01x04_00_02
+Comment expliques-tu qu'en tant que Juif, avec ces cinq employés à ton service, tu aies personnellement déchargé des coffres un jour de shabbat ?
+$GEN_021_01x04_00_03
+Jacob, le supérieur de Herz, lui avait ordonné de décharger les coffres rapidement car il voulait repartir. Je suis allé à l'entrepôt à la hâte, mais il était tard et aucun de ces bons à rien ne travaillait.
+$GEN_021_01x04_00_04
+Tu as préféré manquer à ta religion ?
+$GEN_021_01x04_00_05
+Le shabbat est une chose, les affaires en sont une autre. J'aurais pu refuser, mais j'aurais perdu de l'argent. Les temps sont durs.
+$GEN_021_01x04_00_06
+Tout ceci n'était donc pas fait exprès pour éviter la présence de témoins ?
+$GEN_021_01x04_00_07
+Des témoins ? De quoi ? Du déchargement ?
+$GEN_021_01x04_00_08
+Du vol de provisions militaires.
+$GEN_021_01x04_00_09
+Ce n'était pas des provisions militaires, tout ceci n'est qu'une malheureuse méprise.
+$GEN_021_01x04_00_10
+Vil menteur !
+$GEN_021_05x06_01_QTitle
+Pourquoi les enquêteurs ont-ils trouvé des coffres militaires pleins dans ton entrepôt ?
+$GEN_021_05x06_01_00
+Pourquoi les enquêteurs ont-ils trouvé des coffres militaires pleins dans ton entrepôt ?
+$GEN_021_05x06_01_01
+Je les ai achetés vides. Herz vend des coffres militaires d'excellente qualité au prix de coffres de qualité inférieure. Je ne pouvais pas passer à côté !
+$GEN_021_05x06_01_02
+Tout cela est-il bien légal ? L'armée ne se sert-elle pas de ces coffres ?
+$GEN_021_05x06_01_03
+Je n'en ai aucune idée. Si Herz les vend, c'est que cela doit être légal.
+$GEN_021_05x06_01_04
+Tu ne lui as pas demandé ?
+$GEN_021_05x06_01_05
+Je ne suis pas un inspecteur. Il m'a assuré que tout était en règle.
+$GEN_021_05x06_01_06
+Espèce de bourgeois arrogant !
+$GEN_021_05x06_01_07
+Les Juifs sont des menteurs !
+$GEN_021_05x06_01_08
+Silence !
+$GEN_021_03x06_02_QTitle
+Comment expliques-tu que les coffres étaient pleins de provisions… ?
+$GEN_021_03x06_02_00
+Comment expliques-tu que les coffres pleins de provisions étaient destinés à l'armée française sur les feuilles de route ?
+$GEN_021_03x06_02_01
+Notre armée n'est pas la seule à acheter du vin et de la viande séchée. Les coffres étaient pleins de produits achetés à mon fournisseur, Marcel Rozier. Il pourra le confirmer.
+$GEN_021_03x06_02_02
+Marcel Rozier ne pourra rien confirmer étant donné que, comme tu le sais sans doute, il est mort la semaine dernière.
+$GEN_021_03x06_02_03
+Monsieur le juge, cette nouvelle ne m'était pas parvenue. Quelle...
+$GEN_021_03x06_02_04
+Il est facile de rejeter la faute sur un homme mort.
+$GEN_021_03x06_02_05
+C'est peut-être ce que tu crois, mais j'ai perdu mon meilleur fournisseur.
+$GEN_021_03x06_02_06
+Tu n'étais pas au courant de la mort de Rozier ?
+$GEN_021_03x06_02_07
+Absolument pas. Tout ceci est le fait de mes débiteurs qui cherchent à se débarrasser de moi !
+$GEN_021_03x06_02_08
+Ils ont bien raison !
+$GEN_021_03x06_02_09
+C'est une conspiration de mes débiteurs, il faut absolument que justice soit faite !
+$GEN_021_06x07_03_QTitle
+Tu n'as pas inscrit les provisions que contenaient les coffres de Herz sur ton inventaire…
+$GEN_021_06x07_03_00
+Tu n'as pas inscrit les provisions que contenaient les coffres de Herz sur ton inventaire. Était-ce pour dissimuler le fait qu'elles provenaient de réserves militaires ?
+$GEN_021_06x07_03_01
+Je les ai achetées légalement ! Monsieur le juge, tu peux vérifier par toi-même, nous tenons nos registres minutieusement. C'est sûrement une erreur.
+$GEN_021_06x07_03_02
+La cour a vérifié. Les provisions ne sont pas indiquées sur l'inventaire, ce qui nous semble d'autant plus suspect étant donné que les registres étaient irréprochables auparavant.
+$GEN_021_06x07_03_03
+Ma fille Esther est responsable des registres. Elle a récemment été très malade, elle a sans doute oublié.
+$GEN_021_06x07_03_04
+À moins que tu ne lui aies pas parlé de ces provisions pour ne pas la mêler à ton méfait ?
+$GEN_021_06x07_03_05
+Si tu n'avais rien volé, tu pourrais t'occuper de ta fille !
+$GEN_021_06x07_03_06
+Il n'y a eu aucun méfait. Elle avait sûrement prévu de l'ajouter à l'inventaire ultérieurement.
+$GEN_021_06x07_03_07
+Je le jure, je vais me lever et lui botter le cul !
+$GEN_021_02x03_04_QTitle
+Que penses-tu de la Révolution ?
+$GEN_021_02x03_04_00
+Que penses-tu de la Révolution ?
+$GEN_021_02x03_04_01
+Comment pourrais-je m'y opposer quand les bons citoyens de France sont prêts à accorder les mêmes droits aux Juifs qu'à eux-mêmes ?
+$GEN_021_02x03_04_02
+Dans ce cas, pourquoi lui nuire en volant des provisions militaires ?
+$GEN_021_02x03_04_03
+J'ai fait don de mon propre argent pour la Révolution, Monsieur le juge. Demandez aux amis de MM. Robespierre, Joseph Fouché et Antoine Simon, ils le confirmeront.
+$GEN_021_02x03_04_04
+Tu as payé pour te faire passer pour l'un des nôtres.
+$GEN_021_02x03_04_05
+Les gens comme moi ne retirent aucun bénéfice en soutenant la Révolution.
+$GEN_021_02x03_04_06
+Des bénéfices ? Tu sous-entends que tu as soutenu le peuple pour gagner de l'argent ?
+$GEN_021_02x03_04_07
+Non, non, laissez-moi vous expli...
+$GEN_021_02x03_04_08
+Laissez-le-nous, on va lui couper la tête sans guillotine.
+$GEN_021_02x03_04_09
+Gagner de l'argent ? Si j'avais vraiment volé ces provisions, ce qui n'est pas le cas, pour les vendre dans mes auberges, je n'aurais pas récupéré la moitié de ce que j'ai donné aux amis de M. Robespierre !
+$GEN_021_07x08_05_QTitle
+Faites entrer le témoin, la citoyenne Esther Medelsheim.
+$GEN_021_07x08_05_00
+Faites entrer le témoin, la citoyenne Esther Medelsheim.
+$GEN_021_07x08_05_02
+Esther Medelsheim, fille d'Isaac Medelsheim.
+$GEN_021_07x08_05_03
+Es-tu en mesure de témoigner ? Tu n'as pas l'air très bien.
+$GEN_021_07x08_05_04
+Oui, ça ira.
+$GEN_021_05x07_06_QTitle
+Qui est responsable de l'inventaire ?
+$GEN_021_05x07_06_00
+Qui est responsable de l'inventaire ?
+$GEN_021_05x07_06_01
+Ma fille, Esther, Monsieur le juge.
+$GEN_021_05x07_06_02
+Est-ce la seule personne à y avoir accès ?
+$GEN_021_05x07_06_03
+J'y jette parfois un œil, mais il ne me viendrait pas à l'idée de créer des ennuis à ma fille !
+$GEN_021_05x07_06_04
+Tu n'examines pas tes propres registres ?
+$GEN_021_05x07_06_05
+Ma fille a toute ma confiance.
+$GEN_021_05x07_06_06
+Pourtant, les provisions n'ont pas été notées cette fois-ci.
+$GEN_021_05x07_06_07
+C'est une simple erreur.
+$GEN_021_05x07_06_08
+C'est ton exécution qui va être simple.
+$GEN_021_03x05_07_QTitle
+Pourquoi les véhicules du fournisseur principal de l'armée française... ?
+$GEN_021_03x05_07_00
+Pourquoi les véhicules du fournisseur principal de l'armée française, Herz Medelsheim, se trouvaient-ils devant ton entrepôt ?
+$GEN_021_03x05_07_01
+Ils s'apprêtaient à continuer leur route. Les supérieurs de mon cousin Herz aiment faire une halte dans mon auberge lorsque leur itinéraire le leur permet.
+$GEN_021_03x05_07_02
+Et il se trouve justement qu'ils transportaient les mêmes marchandises que celles trouvées dans les coffres militaires, qui correspondaient aussi aux registres militaires, mais qui avaient été omises de ton inventaire ?
+$GEN_021_03x05_07_03
+Je sais que cela a l'air étrange, mais...
+$GEN_021_03x05_07_04
+Qu'on lui arrache la langue !
+$GEN_021_WIT_00_A_QTitle
+Décris-nous tes responsabilités au sein de l'entreprise de ton père.
+$GEN_021_WIT_00_A_00
+Décris-nous tes responsabilités au sein de l'entreprise de ton père.
+$GEN_021_WIT_00_A_01
+Je suis responsable de l'inventaire et des comptes de nos débiteurs.
+$GEN_021_WIT_00_A_02
+Pourquoi n'as-tu pas ajouté à l'inventaire les provisions qui se trouvaient dans les coffres militaires ?
+$GEN_021_WIT_00_A_03
+Monsieur le juge, étant donné mon état de santé actuel, j'ai manqué à mes devoirs et j'ai malheureusement oublié d'ajouter ces provisions au registre.
+$GEN_021_WIT_00_A_04
+Tenir un crayon est-il si fatigant ?
+$GEN_021_WIT_00_A_05
+Je me fatigue vite, je suis étourdie... Il m'est difficile de travailler.
+$GEN_021_WIT_00_A_06
+Tu ne voulais peut-être pas être mêlée aux méfaits de ton père ?
+$GEN_021_WIT_00_A_07
+La nourriture nous était livrée par notre fournisseur habituel, Marcel Rozier. Je n'ai pas inscrit les provisions sur l'inventaire, j'en suis la seule responsable.
+$GEN_021_WIT_01_A_QTitle
+Que sais-tu des charges qui pèsent contre ton père ?
+$GEN_021_WIT_01_A_00
+Que sais-tu des charges qui pèsent contre ton père ?
+$GEN_021_WIT_01_A_01
+Elles sont basées sur les mensonges du comte de Braux ! Il doit 400 000 francs à mon père et ne veut pas les lui rembourser ! Mais tu le sais sans doute déjà, Monsieur le juge, puisque vous vous connaissez bien tous les deux !
+$GEN_021_WIT_01_A_02
+J'ordonne à la témoin de se taire !
+$GEN_021_WIT_01_A_03
+Le comte de Braux lui-même a évoqué ses liens avec Monsieur le juge juste avant le procès !
+$GEN_021_WIT_01_A_04
+Le juge est de mèche avec les contre-révolutionnaires !
+$GEN_021_WIT_01_A_05
+As-tu des preuves de ce que tu insinues ?
+$GEN_021_WIT_01_A_06
+Hélas, rien de plus que ma parole et une confiance en la justice impartiale de ce lieu. Mon père est innocent, il a acheté les coffres et les provisions en toute légalité !
+$GEN_021_WIT_01_A_07
+Faites sortir la témoin !
+$GEN_021_KEY_01
+Marchand juif
+$GEN_021_KEY_02
+Partisan de la Révolution
+$GEN_021_KEY_03
+Provisions militaires
+$GEN_021_KEY_04
+Déchargement des véhicules
+$GEN_021_KEY_05
+Entrepôt du marchand
+$GEN_021_KEY_06
+Coffres militaires
+$GEN_021_KEY_07
+Inventaire
+$GEN_021_KEY_08
+Témoignage d'Esther
+$GEN_021_LastDialog_00
+Quel vol, Monsieur le juge, quel crime ?!
+$GEN_021_UNIQUE_QUESTION_00
+Comment l'aubergiste a-t-il expliqué les produits manquant dans l'inventaire ?
+$GEN_021_UNIQUE_ANSWER_CORRECT_00_00
+Par la maladie de sa fille.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Par un moment d'étourderie.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Par un manque d'encre.
+$GEN_021_UNIQUE_QUESTION_01
+Qu'a dit Medelsheim au sujet de l'informateur ?
+$GEN_021_UNIQUE_ANSWER_CORRECT_01_00
+Qu'il était son débiteur.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Qu'il était alcoolique.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Qu'ils ne s'étaient jamais rencontrés.
+$GEN_021_UNIQUE_QUESTION_02
+Comment la fille du prévenu a-t-elle réagi aux accusations ?
+$GEN_021_UNIQUE_ANSWER_CORRECT_02_00
+Elle a assumé la responsabilité des actes.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Elle a nié prendre part au commerce de son père.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Elle a rejeté la faute sur les employés de son père.
+$GEN_021_UNIQUE_QUESTION_03
+Le prévenu et le fournisseur de l'armée sont-ils parents ?
+$GEN_021_UNIQUE_ANSWER_CORRECT_03_00
+Oui, ils sont cousins.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Non, ce sont des connaissances.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Non.

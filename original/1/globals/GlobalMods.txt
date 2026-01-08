@@ -1,0 +1,204 @@
+$GM_001_TITLE
+Supply Flow
+$GM_001_MAIN
+The supply of food to the city has been improved. People have become kinder and more friendly.
+$GM_002_TITLE
+The Revolution Marches On
+$GM_002_MAIN
+The Revolutionary Tribunal is widely seen as the Revolution’s ally.
+$GM_003_TITLE
+Good Word
+$GM_003_MAIN
+Someone is putting in a good word about you here or there. Fully out of the goodness of their heart.
+$GM_004_TITLE
+Rat Plague
+$GM_004_MAIN
+Paris is overrun with rats that are spreading an unpleasant skin disease. People are angry and their productivity has decreased drastically.
+$GM_005_TITLE
+Rumours
+$GM_005_MAIN
+Rumours are going around that you are a drunkard and a gambler – nothing new. However, people are starting to think less of you.
+$GM_006_TITLE
+Friend
+$GM_006_MAIN
+Someone is taking care of your reputation behind the scenes. Who could this mystery admirer be?
+$GM_007_TITLE
+Favour
+$GM_007_MAIN
+Sometimes the smallest selfless gesture can mean the world to someone. A flap of your wings has sent a blizzard of positive changes someone’s way.
+$GM_008_TITLE
+Faith
+$GM_008_MAIN
+Some believe that you will be the key to keeping the warring factions in balance.
+$GM_009_TITLE
+Man of the People
+$GM_009_MAIN
+The simple folk see you as one of their own. As if you grew up in the same chamber.
+$GM_011_TITLE
+Counter-Revolutionary Rumours
+$GM_011_MAIN
+“The Tribunal is the Revolution’s enemy,” a fishwife yelled. Nothing relaxes Paris’s Citizens like demolishing a symbol. This time they took their frustrations out on the Palais de Justice, your workplace. It’s a good thing the Guard intervened, or they would have razed the building to the ground and started yet another revolution.
+$GM_012_TITLE
+White Lies
+$GM_012_MAIN
+Your father defended the Tribunal’s honour during a debate at the Café Procope, praising its virtues and achievements. People even believed him.
+$GM_013_TITLE
+Alms to the Orphans
+$GM_013_MAIN
+Your wife showed compassion to the young residents of the local orphanage. Her donation will fill them with hope for a better tomorrow. How noble!
+$GM_014_TITLE
+Quarrel
+$GM_014_MAIN
+Remember the time your wife haggled at the market with that bald trader? He started telling anyone who would listen that you are a scrooge and a boor. You, not your wife. Oh, the joys of marriage.
+$GM_015_TITLE
+Hidden Enemy
+$GM_015_MAIN
+It is impossible to know all your enemies in a big city. One of them is particularly good at disguising themselves.
+$GM_016_TITLE
+Saint-Just Is Lying
+$GM_016_MAIN
+During one of the regular disputes at the Café Procope, the brazen Saint-Just demagogically suggested that all judges are corrupt relics of the Ancien Régime. Unfortunately, he chose to use you as an example. Again.
+$GM_017_TITLE
+Looters
+$GM_017_MAIN
+A pack of thugs is prowling the city at night, breaking into houses. People have come up with wild ways to hide their money. They’re frightened, and the Guard and Tribunal are doing nothing.
+$GM_020_TITLE
+Family Friend
+$GM_020_MAIN
+The usefulness of the Revolutionary Tribunal was discussed during a gathering of the Convention. Your friend, Jacques-Louis David, delivered a speech about the indispensability of your office to the Revolution’s goals.
+$GM_022_TITLE
+Bastille Canard
+$GM_022_MAIN
+A man freed from the Bastille, currently on his third day of binge-drinking, claims he saw you during the liberation of the prison. He is certain you were walking at the front of the crowd. Most listeners just smirked, seeing him for the lush he is, but there were some that believed him.
+$GM_023_TITLE
+Public Enemy
+$GM_023_MAIN
+Your extreme reputation paints you as Paris’s enemy number one. Even stray dogs cross the street when they see you coming.
+$GM_025_TITLE
+Denunciation
+$GM_025_MAIN
+Someone informed the Revolutionary Patrol that you might be an Austrian spy. Now they are keeping an eye on you. Imbeciles.
+$GM_032_TITLE
+Bad Judge!
+$GM_032_MAIN
+People’s patience has its limits. The trial went on for too long and the audience was extremely agitated.
+$GM_033_TITLE
+Intoxication
+$GM_033_MAIN
+Occasionally you treat yourself with a drink or two. Or six. Nobody’s judging you, they aren’t. Except…
+$GM_034_TITLE
+Drunkenness
+$GM_034_MAIN
+A constantly boozing judge is a perfect topic for Sunday gossip.
+$GM_035_TITLE
+Addiction
+$GM_035_MAIN
+People have stopped treating your alcohol problems as mere gossip. You have a problem and you are unable to take care of yourself.
+$GM_051_TITLE
+The Jury’s Support
+$GM_051_MAIN
+The Jury noticed you making the right choices and upholding justice. They speak well of you.
+$GM_052_TITLE
+Enemy at the Courthouse
+$GM_052_MAIN
+The Jury noticed you making the wrong choices and foregoing justice. The rumours spread fast.
+$GM_053_TITLE
+Bad Official!
+$GM_053_MAIN
+Rumours about your careless approach to your duties are spreading. You had better shape up if you want to keep your job.
+$GM_054_TITLE
+Revolutionaries’ Support
+$GM_054_MAIN
+Your relations with the Revolutionaries are very good.
+$GM_055_TITLE
+Revolutionaries’ Hostility
+$GM_055_MAIN
+Your relations with the Revolutionaries are terrible.
+$GM_056_TITLE
+People’s Support
+$GM_056_MAIN
+Your relations with the People are very good.
+$GM_057_TITLE
+People’s Hostility
+$GM_057_MAIN
+Your relations with the People are terrible.
+$GM_058_TITLE
+Aristocrats’ Support
+$GM_058_MAIN
+Your relations with the Aristocrats are very good.
+$GM_059_TITLE
+Aristocrats’ Hostility
+$GM_059_MAIN
+Your relations with the Aristocrats are terrible.
+$GM_060_TITLE
+Good Relationship with Wife
+$GM_060_MAIN
+Things are getting better between the two of you.
+$GM_061_TITLE
+Bad Relationship with Wife
+$GM_061_MAIN
+What was already bad is getting even worse.
+$GM_062_TITLE
+Good Relationship with Younger Son
+$GM_062_MAIN
+Your younger son adores you. Like he used to, back in better days.
+$GM_063_TITLE
+Good Relationship with Elder Son
+$GM_063_MAIN
+Somewhat against himself, your elder son is warming to you.
+$GM_064_TITLE
+Bad Relationship with Elder Son
+$GM_064_MAIN
+Adolescent rebellion is starting to grow into quite adult hatred.
+$GM_065_TITLE
+Good Relationship with Father
+$GM_065_MAIN
+You are his pride and joy. Keep it up.
+$GM_066_TITLE
+Bad Relationship with Father
+$GM_066_MAIN
+Something has gone wrong. Very wrong. You must realise that?
+$GM_100_TITLE
+The King’s Escape
+$GM_100_MAIN
+The King has escaped house arrest. The whole country is after him and the streets are boiling with anger.
+$GM_104_TITLE
+The Minister fled
+$GM_104_MAIN
+Jean-Marie Roland has fled Paris after receiving news of his wife’s arrest. We know for a fact that before he escaped, he spread damning rumours about you.
+$GM_105_TITLE
+The Minister's wife fled
+$GM_105_MAIN
+Jeanne Marie Roland has always ruled from the shadows. She will certainly not let you off the hook for arresting her husband, and will torment you even while in exile.
+$GM_110_TITLE
+Position in Hierarchy
+$GM_110_MAIN
+Your position in the Hierarchy is getting stronger as you reach ever greater heights.
+$GM_202_TITLE
+Supply problems
+$GM_202_MAIN
+There have been problems with food supplies. It’s as though someone wants to starve the capital…
+$GM_203_TITLE
+Hunger in Paris
+$GM_203_MAIN
+Never pick a quarrel with the aristocracy – they know where to strike to make you suffer most.
+$GM_204_TITLE
+Lesser evil
+$GM_204_MAIN
+You may have won the game of dice against the aristocracy, but you merely weakened the blow aimed at the citizens of Paris.
+$GM_205_TITLE
+Vendée
+$GM_205_MAIN
+A Royalist uprising started in Vendée. Paris is in turmoil, and anyone could be accused of trying to start a civil war. Be careful.
+$GM_301_TITLE
+Immortal
+$GM_301_MAIN
+Two assassination attempts, and yet you still live. The new, enlightened society claims it does not believe in superstition, but the streets whisper that you cannot be killed.
+$GM_400_TITLE
+Unfinished Construction
+$GM_400_MAIN
+You did not manage to finish the construction in time!
+$GM_401_TITLE
+Monument Construction Complete
+$GM_401_MAIN
+Once again, you have proven that you are a person that can be relied upon. You took care of everything, and Parisians will never forget.

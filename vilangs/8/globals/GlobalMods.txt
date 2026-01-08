@@ -1,0 +1,204 @@
+$GM_001_TITLE
+Fluxo de Suprimentos
+$GM_001_MAIN
+O abastecimento de alimentos na cidade melhorou. As pessoas estão mais gentis e amigáveis.
+$GM_002_TITLE
+A Revolução Avança
+$GM_002_MAIN
+O Tribunal Revolucionário é amplamente visto como aliado da Revolução.
+$GM_003_TITLE
+Boa palavra
+$GM_003_MAIN
+Alguém anda falando bem de você por aí. E faz isso puramente por bondade.
+$GM_004_TITLE
+Praga de Ratos
+$GM_004_MAIN
+Paris está infestada de ratos que espalham uma doença de pele desagradável. O povo está revoltado e a produtividade caiu drasticamente.
+$GM_005_TITLE
+Boatos
+$GM_005_MAIN
+Circulam boatos de que você é um bêbado e um jogador – nada de novo. No entanto, as pessoas começaram a te ver com outros olhos.
+$GM_006_TITLE
+Amigo
+$GM_006_MAIN
+Alguém está zelando por sua reputação nos bastidores. Quem será esse admirador misterioso?
+$GM_007_TITLE
+Favor
+$GM_007_MAIN
+Às vezes, o menor gesto de altruísmo pode transformar a vida de alguém. Um simples bater de asas seu trouxe uma tempestade de mudanças positivas para alguém.
+$GM_008_TITLE
+Fé
+$GM_008_MAIN
+Alguns acreditam que você será a chave para manter o equilíbrio entre as facções em guerra.
+$GM_009_TITLE
+Homem do Povo
+$GM_009_MAIN
+O povo simples vê você como um dos seus. Como se tivesse crescido no mesmo bairro.
+$GM_011_TITLE
+Boatos Contrarrevolucionários
+$GM_011_MAIN
+“O Tribunal é o inimigo da Revolução!”, gritou uma peixeira. Nada acalma tanto os cidadãos de Paris quanto destruir um símbolo. Desta vez, descontaram sua frustração no Palais de Justice, seu local de trabalho. Ainda bem que a Guarda interveio, ou teriam reduzido o prédio a escombros e iniciado mais uma revolução.
+$GM_012_TITLE
+Mentiras Piedosas
+$GM_012_MAIN
+Durante um debate no Café Procope, seu pai defendeu a honra do Tribunal, exaltando suas virtudes e conquistas. Chegaram até a acreditar nele.
+$GM_013_TITLE
+Esmola para os Órfãos
+$GM_013_MAIN
+Sua esposa demonstrou compaixão pelos jovens do orfanato local. Sua doação lhes dará esperança de um amanhã melhor. Que nobreza!
+$GM_014_TITLE
+Ressentimento
+$GM_014_MAIN
+Lembra daquela vez em que sua esposa pechinchou no mercado com aquele comerciante careca? Ele saiu contando para quem quisesse ouvir que você é um pão-duro e grosseiro. Você, não sua esposa. Ah, as alegrias do matrimônio.
+$GM_015_TITLE
+Inimigo Oculto
+$GM_015_MAIN
+É impossível conhecer todos os seus inimigos em uma cidade grande. Um deles é especialmente habilidoso em se disfarçar.
+$GM_016_TITLE
+Saint-Just está mentindo
+$GM_016_MAIN
+Durante um dos frequentes debates no Café Procope, o audacioso Saint-Just, em tom demagógico, afirmou que todos os juízes são relíquias corruptas do Antigo Regime. Infelizmente, ele escolheu você como exemplo. De novo.
+$GM_017_TITLE
+Saqueadores
+$GM_017_MAIN
+Uma quadrilha de criminosos ronda a cidade à noite, invadindo casas. As pessoas inventam maneiras mirabolantes de esconder seu dinheiro. Estão assustadas, e tanto a Guarda quanto o Tribunal nada fazem.
+$GM_020_TITLE
+Amigo da família
+$GM_020_MAIN
+A utilidade do Tribunal Revolucionário foi debatida durante uma assembleia da Convenção. Seu amigo, Jacques-Louis David, fez um discurso destacando a indispensabilidade de sua função para os objetivos da Revolução.
+$GM_022_TITLE
+O Canard da Bastilha
+$GM_022_MAIN
+Um homem libertado da Bastilha, atualmente em seu terceiro dia de bebedeira, afirma ter visto você durante a tomada da prisão. Ele tem certeza de que você caminhava à frente da multidão. A maioria dos ouvintes apenas sorriu com desdém, enxergando nele apenas mais um bêbado, mas houve quem acreditasse em suas palavras.
+$GM_023_TITLE
+Inimigo Público
+$GM_023_MAIN
+Sua reputação extrema faz de você o inimigo número um de Paris. Até os cães vadios atravessam a rua ao vê-lo se aproximar.
+$GM_025_TITLE
+Denúncia
+$GM_025_MAIN
+Alguém contou à Patrulha Revolucionária que você pode ser um espião austríaco. Agora estão de olho em você. Imbecis.
+$GM_032_TITLE
+Juiz ruim!
+$GM_032_MAIN
+A paciência do povo tem limites. O julgamento se arrastou demais e o público ficou extremamente agitado.
+$GM_033_TITLE
+Intoxicação
+$GM_033_MAIN
+De vez em quando, você se permite um ou dois drinques. Ou seis. Ninguém está te julgando, claro que não. Exceto...
+$GM_034_TITLE
+Embriaguez
+$GM_034_MAIN
+Um juiz que vive bêbado é assunto perfeito para as fofocas de domingo.
+$GM_035_TITLE
+Vício
+$GM_035_MAIN
+As pessoas deixaram de tratar seus problemas com álcool como simples fofoca. Você tem um problema e não consegue cuidar de si mesmo.
+$GM_051_TITLE
+Apoio do Júri
+$GM_051_MAIN
+O Júri percebeu que você toma as decisões corretas e defende a justiça. Falam bem de você.
+$GM_052_TITLE
+Inimigo no Palácio da Justiça
+$GM_052_MAIN
+O Júri percebeu que você tem tomado decisões erradas e deixado a justiça de lado. Os rumores se espalham rapidamente.
+$GM_053_TITLE
+Funcionário irresponsável!
+$GM_053_MAIN
+Estão circulando boatos sobre sua negligência no trabalho. É melhor se empenhar se quiser manter o emprego.
+$GM_054_TITLE
+Apoio dos revolucionários
+$GM_054_MAIN
+Seu relacionamento com os Revolucionários está muito bom.
+$GM_055_TITLE
+Hostilidade dos Revolucionários
+$GM_055_MAIN
+Sua relação com os Revolucionários está péssima.
+$GM_056_TITLE
+Apoio Popular
+$GM_056_MAIN
+Sua relação com o Povo está muito boa.
+$GM_057_TITLE
+Hostilidade Popular
+$GM_057_MAIN
+Sua relação com o Povo está péssima.
+$GM_058_TITLE
+Apoio dos Aristocratas
+$GM_058_MAIN
+Sua relação com os Aristocratas é muito boa.
+$GM_059_TITLE
+Hostilidade dos aristocratas
+$GM_059_MAIN
+Sua relação com os Aristocratas está péssima.
+$GM_060_TITLE
+Bom relacionamento com a esposa
+$GM_060_MAIN
+As coisas estão melhorando entre vocês dois.
+$GM_061_TITLE
+Relação ruim com a esposa
+$GM_061_MAIN
+O que já estava ruim está ficando ainda pior.
+$GM_062_TITLE
+Bom relacionamento com o filho mais novo
+$GM_062_MAIN
+Seu filho mais novo te adora. Como fazia nos velhos tempos.
+$GM_063_TITLE
+Boa relação com o filho mais velho
+$GM_063_MAIN
+Apesar de si mesmo, seu filho mais velho começa a se afeiçoar a você.
+$GM_064_TITLE
+Relação ruim com o filho mais velho
+$GM_064_MAIN
+A rebeldia adolescente começa a se transformar em um ódio verdadeiramente adulto.
+$GM_065_TITLE
+Bom relacionamento com o pai
+$GM_065_MAIN
+Você é o orgulho e a alegria dele. Continue assim.
+$GM_066_TITLE
+Relação ruim com o pai
+$GM_066_MAIN
+Algo deu errado. Muito errado. Você percebe isso, não é?
+$GM_100_TITLE
+A Fuga do Rei
+$GM_100_MAIN
+O rei fugiu da prisão domiciliar. O país inteiro o procura e as ruas fervem de indignação.
+$GM_104_TITLE
+O Ministro fugiu
+$GM_104_MAIN
+Jean-Marie Roland fugiu de Paris após saber da prisão de sua esposa. Sabemos com certeza que, antes de escapar, ele espalhou rumores comprometedores sobre você.
+$GM_105_TITLE
+A esposa do ministro fugiu
+$GM_105_MAIN
+Jeanne Marie Roland sempre comandou das sombras. Ela certamente não vai perdoar você por ter prendido o marido e continuará a atormentá-lo mesmo no exílio.
+$GM_110_TITLE
+Posição na Hierarquia
+$GM_110_MAIN
+Sua posição na Hierarquia se fortalece à medida que você alcança patamares cada vez mais altos.
+$GM_202_TITLE
+Problemas de abastecimento
+$GM_202_MAIN
+Tem havido problemas no abastecimento de alimentos. Parece até que alguém quer deixar a capital morrer de fome…
+$GM_203_TITLE
+Fome em Paris
+$GM_203_MAIN
+Nunca provoque a aristocracia — eles sabem exatamente onde golpear para te fazer sofrer mais.
+$GM_204_TITLE
+Mal menor
+$GM_204_MAIN
+Você pode até ter vencido a aristocracia no jogo de dados, mas apenas suavizou o golpe destinado aos cidadãos de Paris.
+$GM_205_TITLE
+Vendéia
+$GM_205_MAIN
+Uma revolta realista começou na Vendeia. Paris está em tumulto, e qualquer um pode ser acusado de tentar iniciar uma guerra civil. Tenha cuidado.
+$GM_301_TITLE
+Imortal
+$GM_301_MAIN
+Duas tentativas de assassinato, e ainda assim você permanece vivo. A nova sociedade iluminada afirma não acreditar em superstições, mas nas ruas sussurram que você não pode ser morto.
+$GM_400_TITLE
+Construção Inacabada
+$GM_400_MAIN
+Você não conseguiu terminar a construção a tempo!
+$GM_401_TITLE
+Construção do monumento concluída
+$GM_401_MAIN
+Mais uma vez, você provou ser alguém em quem se pode confiar. Cuidou de tudo, e os parisienses jamais esquecerão.

@@ -1,0 +1,277 @@
+$GEN_029_DOC_01_HEADER
+Zusammengestellt von: Nathan d’Essiraf
+$GEN_029_DOC_01_00
+Edmond Malle, 44 Jahre alt, arbeitet als Totengräber auf dem Friedhof von Montmartre. Die Pariser Behörden kennen ihn nur zu gut, denn es ist nicht das erste Mal, dass er auf der Anklagebank sitzt. Zuvor wurde dieser berüchtigte Perversling <a name="2" class="hidden">wegen Belästigung</a> eines jungen Aristokraten verurteilt. Unsere Informanten berichten außerdem, dass er Leichen verkauft – besonders begehrt bei Medizinstudenten. Die Verwaltung sah darüber hinweg, da Malle für einen Hungerlohn arbeitete und nie eine Lohnerhöhung verlangte.
+$GEN_029_DOC_01_01
+Malle wird beschuldigt, Laura Dufort, die Tochter des Marquis de Civrac, ermordet und ihre sterblichen Überreste geschändet zu haben. Sie wird seit zwei Wochen vermisst. Die Nationalgarde erfuhr von dem Fall durch <a name="4" class="hidden">Jules Marot</a>, einen Medizinstudenten, der beim Totengräber einen Schädel kaufte. Was eigentlich als Lernhilfe dienen sollte, entpuppte sich als der Schädel von Marots enger Freundin, der vermissten Laura Dufort.
+$GEN_029_DOC_01_02
+Erschüttert von seiner eigenen Entdeckung, wurde er persönlich in die Ermittlungen verwickelt. Er unterstützte die Polizei bei der Durchsuchung von Malles Haus und war es schließlich, der die enthauptete Leiche des Mädchens <a name="6" class="hidden">im Geräteschuppen versteckt</a> fand.
+$GEN_029_DOC_01_03
+Später sagte der Vater der ermordeten Laura aus, dass sie <a name="7" class="hidden">häufig den Friedhof besuchte</a>. Sie besuchte das Grab ihres Cousins, eines Offiziers der Schweizer Garde, der während der Belagerung der Tuilerien 1792 gefallen war. Es stellte sich heraus, dass das Mädchen sich mehrfach über die örtlichen Totengräber beklagt hatte und behauptete, sie hätten sie <a name="8" class="hidden">auf ungebührliche Weise belästigt</a>. Einer von ihnen soll sie sogar einmal verfolgt haben, doch es war schwierig, den Täter zu ermitteln und zu bestrafen.
+$GEN_029_DOC_01_04
+Beweis:
+<a name="9" class="hidden">Schädel</a> von Laura Dufort.
+$GEN_029_OnStart_00
+Bitte stellen Sie sich vor.
+$GEN_029_OnStart_01
+Man nennt mich… die Leute nennen mich den „Nachtalb“.
+$GEN_029_OnStart_02
+Ich verlange nicht Ihren Spitznamen, sondern Ihren Vor- und Nachnamen.
+$GEN_029_OnStart_03
+Ah… also… meine Mutter hat mich Edmond genannt. Edmond Malle.
+$GEN_029_OnStart_04
+Ihnen wird vorgeworfen, die Tochter des Marquis de Civrac Hector Dufort ermordet, ihre Überreste geschändet und ihren Schädel verkauft zu haben. Wie äußern Sie sich zu diesen Anklagepunkten?
+$GEN_029_OnStart_05
+Die Überreste wurden beim Angeklagten gefunden.
+$GEN_029_OnStart_06
+Ich habe die noch nie zuvor gesehen.
+$GEN_029_OnStart_07
+Wollen Sie damit sagen, dass Sie sie dort nicht versteckt haben?
+$GEN_029_OnStart_08
+Ich? Nein, ich hab ihr nichts getan. Warum sollte ich ihre Leiche verstecken?
+$GEN_029_OnStart_09
+Klar, irgendjemand hat die Leiche bestimmt nur zum Spaß dort abgelegt, oder?
+$GEN_029_OnGuilty_00
+Ich verurteile Bürger Edmond Malle zur Guillotine! Führt den Verurteilten ab.
+$GEN_029_OnGuilty_01
+Paris wird ein sichererer Ort sein.
+$GEN_029_OnGuilty_02
+Wunderbar!
+$GEN_029_OnGuilty_03
+Das geschieht ihm recht!
+$GEN_029_OnGuilty_04
+Verkauft seinen Schädel an die Studenten!
+$GEN_029_OnPrison_00
+[Dies ist ein Platzhalter und muss geändert werden!!!!]
+$GEN_029_OnNotGuilty_00
+Das Urteil für Edmond Malle lautet… nicht schuldig! Führt den Angeklagten ab.
+$GEN_029_OnNotGuilty_01
+Wenn er es nicht war, wer hat sie dann getötet?
+$GEN_029_OnNotGuilty_02
+Wie schade. Es hätte eine so schöne Enthauptung werden können…
+$GEN_029_09x05_00_QTitle
+Ist das der Schädel, den Sie an Jules Marot verkauft haben?
+$GEN_029_09x05_00_00
+Ist das der Schädel, den Sie an Jules Marot verkauft haben?
+$GEN_029_09x05_00_01
+So sah das aber nicht aus, als er’s genommen hat.
+$GEN_029_09x05_00_02
+Wie meinen Sie das?
+$GEN_029_09x05_00_03
+Na ja, das Ding ist so weiß wie Alabaster gebleicht, aber für so einen Quatsch hab ich keine Zeit. Man muss es kochen, in der Sonne trocknen lassen, nochmal kochen, wieder trocknen… und für die schmutzigen zahlen sie kaum weniger.
+$GEN_029_09x05_00_04
+Wer hat dann diesen Schädel gereinigt?
+$GEN_029_09x05_00_05
+Frag doch den, der’s gekauft hat. Den Studenten meine ich.
+$GEN_029_09x05_00_06
+Angesichts Ihres Fachwissens könnten Sie die Knochen wohl selbst reinigen.
+$GEN_029_09x05_00_07
+Früher habe ich das auch gemacht, aber wie gesagt, es lohnt sich nicht.
+$GEN_029_09x05_00_08
+Wo kommen diese Verrückten her?
+$GEN_029_01x08_01_QTitle
+Hat der Angeklagte versucht, Laura Dufort zur Untreue zu verleiten?
+$GEN_029_01x08_01_00
+Hat der Angeklagte versucht, Laura Dufort zum Ehebruch zu verleiten?
+$GEN_029_01x08_01_01
+Ach, wissen Sie, wie man auf dem Dorf sagt: Wenn man einem Mädchen nicht wenigstens hinterherpfeift, wird sie böse. Aber mehr hab ich nicht gemacht.
+$GEN_029_01x08_01_02
+Sprechen Sie klar. Haben Sie sie angesprochen oder nicht?
+$GEN_029_01x08_01_03
+Ich hab’ sowas gesagt… na, so was wie: „Komm doch mit nach oben, Süße.“ Aber das war doch nur Gerede!
+$GEN_029_01x08_01_04
+Und wie hat das Opfer auf dieses… Gerede reagiert?
+$GEN_029_01x08_01_05
+Einmal hat sie mich ganz undamenhaft beschimpft, mit Steinen nach mir geworfen und ist durchs Tor davongelaufen. Da war ich wirklich ziemlich wütend, das stimmt.
+$GEN_029_01x08_01_06
+Da ist das Motiv! Dieser menschenfressende Wilde wollte Rache!
+$GEN_029_01x08_01_07
+Haben Sie sie deshalb getötet?
+$GEN_029_01x08_01_08
+Nein! Ich mag vielleicht ein Frauenheld sein, aber ein Mörder bin ich nicht!
+$GEN_029_02x03_02_QTitle
+Was halten Sie von der Aristokratie?
+$GEN_029_02x03_02_00
+Was halten Sie von der Aristokratie?
+$GEN_029_02x03_02_01
+Diese eitrigen Parasiten sollte man alle köpfen. Das ist doch jetzt in Mode, oder?
+$GEN_029_02x03_02_02
+Die Revolution als Modeerscheinung zu bezeichnen, ist eine Beleidigung für diese edle Bewegung der Unterdrückten, die–
+$GEN_029_02x03_02_03
+Genug! Wir alle wissen, wie die Revolution beschaffen ist. Würden Sie also am liebsten jeden Aristokraten töten, Angeklagter?
+$GEN_029_02x03_02_04
+Ja.
+$GEN_029_02x03_02_05
+Das ist ein eindeutiges Motiv und ein schlüssiger Beweis.
+$GEN_029_02x03_02_06
+Auch Aristokratinnen?
+$GEN_029_02x03_02_07
+Oh nein, nein, ha ha! Die Damen sind schon in Ordnung, Monsieur Richter, wir wissen sie zu gebrauchen. Und adlige Damen, wissen Sie, sind etwas gepflegter.
+$GEN_029_04x05_03_QTitle
+Rufen Sie den Zeugen auf.
+$GEN_029_04x05_03_00
+Rufen Sie den Zeugen auf.
+$GEN_029_04x05_03_02
+Bitte stellen Sie sich vor.
+$GEN_029_04x05_03_03
+Jules Marot, Monsieur der Richter.
+$GEN_029_06x03_04_QTitle
+Wie gelangten die Überreste von Laura Dufort in den Holzschuppen des Angeklagten?
+$GEN_029_06x03_04_00
+Wie gelangten die Überreste von Laura Dufort in den Holzschuppen des Angeklagten?
+$GEN_029_06x03_04_01
+Woher soll ich das wissen?!
+$GEN_029_06x03_04_02
+Gesteh endlich, dann ist es vorbei!
+$GEN_029_06x03_04_03
+Es fällt schwer, offensichtliche Schlüsse zu übergehen, wenn man in einem vom Angeklagten genutzten Gebäude eine enthauptete Leiche findet.
+$GEN_029_06x03_04_04
+Kommen Sie schon, Monsieur! Wenn ich… na ja… Sie wissen schon, dies und das getan hätte, dann hätte ich sie doch begraben, anstatt sie in einem Schuppen zu verstecken! Ich habe die Schlüssel zum Friedhof, ich hätte sie in eine Gruft werfen können, und niemand hätte sie je gefunden.
+$GEN_029_06x03_04_05
+Hören Sie nicht auf seine Ausflüchte. Hätte er sie zu sich gelockt, um sie zu vergewaltigen und zu töten, hätte er die Leiche in seinem Schuppen versteckt, weil dieser ganz in der Nähe ist.
+$GEN_029_06x03_04_06
+Wie antworten Sie darauf?
+$GEN_029_06x03_04_07
+Ich hab niemanden umgebracht! Der Schuppen ist nur mit einem Riegel gesichert. Da kann jeder rein und ’ne Leiche ablegen! Nur weil sie bei mir lag, heißt das noch lange nicht, dass ich sie getötet hab!
+$GEN_029_06x03_04_08
+Wenn der Angeklagte sie nicht getötet hat, wer dann?
+$GEN_029_06x03_04_09
+Ich weiß nicht, vielleicht war es dieser Schüler?
+$GEN_029_06x03_04_10
+Schamloser Vergewaltiger!
+$GEN_029_09x04_05_QTitle
+Geben Sie zu, den Schädel des Opfers entfernt zu haben…?
+$GEN_029_09x04_05_00
+Geben Sie zu, den Schädel des Opfers entfernt und an Bürger Marot verkauft zu haben?
+$GEN_029_09x04_05_01
+Ich hab nichts weggenommen, und der Schädel, den ich verkauft hab, gehörte nicht dieser Dame.
+$GEN_029_09x04_05_02
+Geben Sie also zu, Leichen geschändet zu haben?
+$GEN_029_09x04_05_03
+Ja. Ich muss es tun, sonst könnte ich mir weder Brot noch Wasser leisten. Aber es war nicht ihr Kopf.
+$GEN_029_09x04_05_04
+Wessen Schädel war es dann?
+$GEN_029_09x04_05_05
+Keine Ahnung. Ich hole sie aus den Gräbern der ärmsten Leute, prüfe nur, ob sie unbeschädigt sind.
+$GEN_029_09x04_05_06
+Widerlich!
+$GEN_029_09x04_05_07
+Wer hat das zugelassen?!
+$GEN_029_09x07_06_QTitle
+Kannte der Angeklagte Laura Dufort?
+$GEN_029_09x07_06_00
+Kannte der Angeklagte Laura Dufort?
+$GEN_029_09x07_06_01
+Allerdings. Sie besuchte ständig das Grab des Soldaten, legte immer eine Blume nieder, sprach das Vaterunser. Ein wirklich gutes Mädchen…
+$GEN_029_09x07_06_02
+Würden Sie sagen, dass Sie einander nahestanden?
+$GEN_029_09x07_06_03
+Nein. Ich habe sie immer höflich gegrüßt, wollte mit ihr reden, aber sie hat mich nur angefaucht wie ein Kätzchen. Und ich war nicht der Einzige.
+$GEN_029_09x07_06_04
+Waren Sie ihr gegenüber aggressiv?
+$GEN_029_09x07_06_05
+Ganz und gar nicht, hab nur ein wenig geneckt.
+$GEN_029_09x07_06_06
+Was für ein unverschämter Kerl…
+$GEN_029_09x07_06_07
+Gab es auf dem Friedhof noch jemanden, der sie belästigt hat?
+$GEN_029_09x07_06_08
+Aber sicher! Da waren natürlich wieder die Säufer, und auch der Bursche, der mir den Schädel abgekauft hat und mich jetzt einen Mörder nennt.
+$GEN_029_09x07_06_09
+Kannten Sie ihn, bevor Sie ihm den Schädel verkauft haben?
+$GEN_029_09x07_06_10
+Nur vom Sehen. Ich wusste nicht mal, dass er Medizin studiert.
+$GEN_029_WIT_00_A_QTitle
+Welche Beziehung hatten Sie zur ermordeten Laura Dufort?
+$GEN_029_WIT_00_A_00
+Was für ein Verhältnis hatten Sie zur ermordeten Laura Dufort?
+$GEN_029_WIT_00_A_01
+Sie war der wichtigste Mensch in meinem Leben. Ich kannte sie mein ganzes Leben lang, und dieser abscheuliche Landstreicher… Monsieur le Juge, ich habe sie geliebt.
+$GEN_029_WIT_00_A_02
+Hat sie deine Liebe erwidert?
+$GEN_029_WIT_00_A_03
+Leider nicht, aber ich bin sicher, dass sie früher oder später Gefühle für mich entwickelt hätte!
+$GEN_029_WIT_01_A_QTitle
+Sind Sie sicher, dass der vom Angeklagten erworbene Schädel…?
+$GEN_029_WIT_01_A_00
+Sind Sie sicher, dass der vom Angeklagten erworbene Schädel dem Opfer gehört?
+$GEN_029_WIT_01_A_01
+Absolut.
+$GEN_029_WIT_01_A_02
+Was gibt Ihnen solche Gewissheit in diesem Urteil? Können Sie es beweisen?
+$GEN_029_WIT_01_A_03
+Laura hat als Kind ihren rechten oberen Schneidezahn verloren… leider war es meine Schuld. Daran erkannte ich, dass er ihr gehörte. Mein Gott…
+$GEN_029_WIT_01_A_04
+Es könnte reiner Zufall sein.
+$GEN_029_WIT_01_A_05
+Monsieur le Richter, ich weiß, wovon ich spreche. Alles passt zusammen: der Kiefer, der Abstand zwischen den Augen... Dieser Schurke hat Laura vermutlich vergewaltigt, sie getötet und ihr dann den Kopf abgetrennt!
+$GEN_029_WIT_01_A_06
+Hat Bürger Malle Ihnen gesagt, wo er den Schädel gefunden hat?
+$GEN_029_WIT_01_A_07
+Ja, aber er hat gelogen. Angeblich hat er es auf dem alten Teil des Friedhofs ausgegraben.
+$GEN_029_WIT_01_A_08
+Wann haben Sie bemerkt, wem der Schädel gehörte?
+$GEN_029_WIT_01_A_09
+Nun… Erst als ich begann, es zu skizzieren, fiel mir die Ähnlichkeit auf.
+$GEN_029_WIT_01_B_QTitle
+Wie würden Sie das Verhältnis zwischen dem Angeklagten und dem Opfer beschreiben?
+$GEN_029_WIT_01_B_00
+Wie würden Sie das Verhältnis zwischen dem Angeklagten und dem Opfer beschreiben?
+$GEN_029_WIT_01_B_01
+Dieser Schurke belästigte sie jedes Mal, wenn sie zum Friedhof kam!
+$GEN_029_WIT_01_B_02
+Haben Sie es mit eigenen Augen gesehen?
+$GEN_029_WIT_01_B_03
+Nein, aber… Laura hat es mir erzählt, und das reicht, um sein Motiv zu beweisen. Er verdient die Guillotine!
+$GEN_029_WIT_01_B_04
+Was genau hat sie Ihnen gesagt?
+$GEN_029_WIT_01_B_05
+Dass er sie anschrie, obszöne Gesten machte und ihr ständig den Weg versperrte, sodass sie zwischen den Gräbern ausweichen musste, um ihm zu entgehen.
+$GEN_029_WIT_01_B_06
+Sie haben sie also nicht immer zum Friedhof begleitet?
+$GEN_029_WIT_01_B_07
+Ich habe sie nur ein einziges Mal begleitet, da sie lieber allein kam.
+$GEN_029_KEY_01
+Berüchtigter Perverser
+$GEN_029_KEY_02
+Verurteilt wegen sexueller Belästigung
+$GEN_029_KEY_03
+Vermisstes Mädchen
+$GEN_029_KEY_04
+Jules Marot
+$GEN_029_KEY_05
+Bekanntschaft mit dem Studenten
+$GEN_029_KEY_06
+Leiche im Geräteschuppen
+$GEN_029_KEY_07
+Häufiger Gast auf dem Friedhof
+$GEN_029_KEY_08
+Belästigung des Opfers
+$GEN_029_KEY_09
+Lauras Schädel
+$GEN_029_LastDialog_00
+Ob wohl jemand meinen Kopf kaufen wird…
+$GEN_029_UNIQUE_QUESTION_00
+Wo wurde die Leiche gefunden?
+$GEN_029_UNIQUE_ANSWER_CORRECT_00_00
+In einem Holzschuppen.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Im Keller.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Im Ofen.
+$GEN_029_UNIQUE_QUESTION_01
+Woran hat der Student den Schädel von Laura Dufort erkannt?
+$GEN_029_UNIQUE_ANSWER_CORRECT_01_00
+Sie hatte einen abgebrochenen Zahn.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Nach der Größe des Schädels.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Anhand der Schädelform.
+$GEN_029_UNIQUE_QUESTION_02
+Wie erklärte der Angeklagte die Schändung der Leichen?
+$GEN_029_UNIQUE_ANSWER_CORRECT_02_00
+Sein Gehalt war gering.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Er tat es im Namen der Wissenschaft.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Er verspürte ein ungesundes Verlangen.

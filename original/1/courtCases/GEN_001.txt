@@ -1,0 +1,348 @@
+$GEN_001_DOC_01_HEADER
+Compiled by: Raphaël Chalopin
+$GEN_001_DOC_01_00
+In the dock is Laurent Pascal, arrested for Counter-Revolutionary activity and the assault of a Gendarme that proved fatal. The accused owns a small <a name="1" class="hidden">weaving shop</a> that he lives alone behind on rue Popincourt in the 24th Section. That is where the crime took place.
+$GEN_001_DOC_01_01
+The incident that is the subject of this case happened yesterday evening. Having received a denunciation of Citizen Pascal’s <a name="3" class="hidden">Counter-Revolutionary activity</a> that was directed to the legally chosen authorities of Paris, two gendarmes, Cristobal Rémy and Fabrice Roux, arrived to <a name="4" class="hidden">bring him in</a> for questioning.
+$GEN_001_DOC_01_02
+It is said that Citizen Pascal started a heated discussion with the gendarmes and denied all accusations. He behaved raucously and crudely, threatening the gendarmes <a name="5" class="hidden">with violence</a>. When they attempted to arrest him, he began to struggle and a fight ensued, during which Citizen Pascal smashed Gendarme Roux’s head against a door frame. The impact was so strong that his skull cracked open. Gendarme Rémy then overpowered Pascal, and incapacitated him with a blow from the butt of his musket.
+$GEN_001_DOC_01_03
+<h1>Laurent Pascal</h1> In the course of the investigation, we asked the neighbours of the accused for their opinion of him. They described Pascal as an impulsive person, always ready to fight – at least since the death of his wife. The owner of a local inn revealed that in recent months Pascal has been a frequent guest, and was usually <a name="7" class="hidden">drinking</a> more than he should.
+$GEN_001_DOC_01_04
+<a name="2" class="hidden">The wife</a> of the accused was reportedly decapitated last spring. Unfortunately, there were no records in the archives to indicate what she was sentenced for.
+$GEN_001_DOC_02_HEADER
+Cristobal Rémy’s testimony
+$GEN_001_DOC_02_00
+Fabrice was my friend. Pascal cracked his head open even though Fabrice did nothing to him. We were to bring him in for questioning because they had some doubts about a testimony, which was <a name="8" class="hidden">withdrawn</a> by that degenerate Maxime after Fabrice’s death…
+$GEN_001_DOC_03_HEADER
+Maxime’s testimony
+$GEN_001_DOC_03_00
+Laurent Pascal is a meddling prick and an informer. That’s right, I’m denouncing the snoop. He’s putting up posters and running around with <a name="9" class="hidden">leaflets</a> that make fun of Citizen Robespierre. Of our God-fearing statesman! One of his leaflets shows Robespierre as a pervert and a vampire. I saw it the day before yesterday – a fat fellow dressed like Pascal. It must’ve been him. I bet he’s plotting in that little shop of his. He never lends a franc for a cup of wine, that snooping meddler. Those men always have something to hide, don’t they?
+$GEN_001_OnStart_00
+That man is a murderer, but we cannot be sure of anything else.
+$GEN_001_OnStart_01
+Please introduce yourself.
+$GEN_001_OnStart_02
+Laurent Pascal, weaver by trade.
+$GEN_001_OnStart_03
+You stand accused of murdering Gendarme Roux.
+$GEN_001_OnStart_04
+It was an accident.
+$GEN_001_OnStart_05
+Smashing his skull open was an accident?!
+$GEN_001_OnStart_06
+So you are not pleading guilty?
+$GEN_001_OnStart_07
+I’m saying it was an accident.
+$GEN_001_OnGuilty_00
+I sentence Citizen Laurent Pascal to be guillotined! Lead the condemned out.
+$GEN_001_OnGuilty_01
+An excellent decision. Now they will know not to raise a hand against the National Guard.
+$GEN_001_OnGuilty_02
+Those in power always cover for each other…
+$GEN_001_OnPrison_00
+I sentence Citizen Laurent Pascal to prison! Lead the condemned out.
+$GEN_001_OnPrison_01
+That verdict is definitely too lenient. Murder is murder.
+$GEN_001_OnPrison_02
+Those in power always cover for each other…
+$GEN_001_OnNotGuilty_00
+I acquit Citizen Pascal of all charges! You are free to go.
+$GEN_001_OnNotGuilty_01
+It’s a good thing there’s someone just in this court…
+$GEN_001_OnNotGuilty_02
+He admitted to the murder. Is that still not enough for you?
+$GEN_001_01x02_00_QTitle
+Do you tend to your shop by yourself?
+$GEN_001_01x02_00_00
+Do you tend to your shop by yourself?
+$GEN_001_01x02_00_01
+Yes. I opened it with my wife, but… Now I run it alone.
+$GEN_001_01x02_00_02
+Did you start your Counter-Revolutionary activity when she was alive? Was that the reason for her sentence?
+$GEN_001_01x02_00_03
+There was no reason to decapitate her.
+$GEN_001_01x02_00_04
+They can put you in jail for no reason, but not decapitation.
+$GEN_001_01x03_01_QTitle
+Are you conducting Counter-Revolutionary activity in your shop?
+$GEN_001_01x03_01_00
+Are you conducting Counter-Revolutionary activity in your shop?
+$GEN_001_01x03_01_01
+Of course not, that’s absurd.
+$GEN_001_01x03_01_02
+A denunciation from someone named Maxime suggests something to the contrary.
+$GEN_001_01x03_01_03
+But didn’t he take it back?
+$GEN_001_01x03_01_04
+Yes, but we do not know why.
+$GEN_001_01x03_01_05
+He was probably threatened by other plotters.
+$GEN_001_01x03_01_06
+People, listen, there was no plot.
+$GEN_001_01x03_01_07
+Were you hanging posters on the streets of Paris?
+$GEN_001_01x03_01_08
+The denunciation said he was.
+$GEN_001_01x03_01_09
+Go and look in my shop again, but you won't find any posters or leaflets there.
+$GEN_001_02x07_02_QTitle
+Apparently you have problems with alcohol.
+$GEN_001_02x07_02_00
+Apparently you have problems with alcohol.
+$GEN_001_02x07_02_01
+Do you have a wife?
+$GEN_001_02x07_02_02
+What does that have to do with anything?
+$GEN_001_02x07_02_03
+If you had to watch your wife get her head cut off for no reason, you’d have problems with alcohol as well.
+$GEN_001_02x07_02_04
+The Judge has problems with wine because his wife is still alive!
+$GEN_001_02x07_02_05
+Do you realise that the gendarme you killed was someone’s son and husband? Does your wife’s death excuse what you did?
+$GEN_001_02x07_02_06
+…
+$GEN_001_02x07_02_07
+Murderer!
+$GEN_001_02x03_03_QTitle
+What was your wife sentenced for?
+$GEN_001_02x03_03_00
+What was your wife sentenced for?
+$GEN_001_02x03_03_01
+To this day I don’t know for sure. They said subversive activity, whatever that means.
+$GEN_001_02x03_03_02
+What connections did she have?
+$GEN_001_02x03_03_03
+Were there any connections?
+$GEN_001_02x03_03_04
+Her grandfather was an equerry in the former King’s service. Someone informed on her, just like on me, and that was it…
+$GEN_001_02x03_03_05
+Did you receive instructions and Monarchist leaflets from your wife’s grandfather?
+$GEN_001_02x03_03_06
+He died 15 years ago!
+$GEN_001_02x03_03_07
+Were you present at your wife’s trial?
+$GEN_001_02x03_03_08
+I had to collect goods for the shop and wasn’t home for a few days. But that was enough for them to arrest and try her… They gave us… they gave us ten minutes to have our last conversation. Do you understand? Ten minutes to say goodbye to the woman you love? And the day after… they decapitated her in the square. The head of my beloved Marie… rolling in the dirt like a piece of rubbish…
+$GEN_001_03x08_04_QTitle
+Do you have any idea why Citizen Maxime withdrew his denunciation?
+$GEN_001_03x08_04_00
+Do you have any idea why Citizen Maxime withdrew his denunciation?
+$GEN_001_03x08_04_01
+How would I know? He probably did it when he’d sobered up.
+$GEN_001_03x08_04_02
+Citizen Maxime drinks a lot?
+$GEN_001_03x08_04_03
+He sure does. What, your investigators couldn’t find that out?
+$GEN_001_03x08_04_04
+Those idle blockheads.
+$GEN_001_03x08_04_05
+Maybe we should ask a different question. Tell me, why did he write it in the first place? He surely had good reason.
+$GEN_001_03x08_04_06
+Damned if I know… Though he did insult me once because I refused to buy him wine at the inn.
+$GEN_001_03x09_05_QTitle
+Do you have anything to do with these irreverent leaflets?
+$GEN_001_03x09_05_00
+Do you have anything to do with these irreverent leaflets?
+$GEN_001_03x09_05_01
+The only thing I know about politics is that it killed my Marie.
+$GEN_001_03x09_05_02
+Is that why you decided to become an enemy of the Republic?
+$GEN_001_03x09_05_03
+It does sound like a motive.
+$GEN_001_03x09_05_04
+He probably wanted vengeance for his wife. He should have kept her under control.
+$GEN_001_03x09_05_05
+Why would I? Will those leaflets bring my wife back?
+$GEN_001_03x09_05_06
+I would ask that the accused behave appropriately.
+$GEN_001_03x09_05_07
+Or what? Will you cut my head off for being rude?
+$GEN_001_03x04_06_QTitle
+Gendarmes Roux and Rémy paid you a visit…
+$GEN_001_03x04_06_00
+Gendarmes Roux and Rémy paid you a visit in order to bring you in for questioning, is that correct?
+$GEN_001_03x04_06_01
+Paid me a visit? Well, of course. They knocked on the door, we had some tea, and talked about the good old days. That’s exactly what happened. Come off it! They banged on the door like they wanted the entire neighbourhood to know what was going on, all the time bellowing about how they were coming to arrest me!
+$GEN_001_03x04_06_02
+What happened next?
+$GEN_001_03x04_06_03
+I let them in, of course. They immediately rushed in and pushed me around, trying to restrain me like I was some common thug!
+$GEN_001_03x04_06_04
+That’s how they treat people!
+$GEN_001_03x04_06_05
+If you had simply let them restrain you they would not have had to push you around. Resisting arrest does not paint you in a good light.
+$GEN_001_03x04_06_06
+Did the gendarmes show you the arrest warrant?
+$GEN_001_03x04_06_07
+As if they ever do that. They didn’t show it to my Marie, just came at night, armed, like thugs.
+$GEN_001_04x05_07_QTitle
+Was there a struggle that evening?
+$GEN_001_04x05_07_00
+Was there a struggle that evening?
+$GEN_001_04x05_07_01
+I refused to go. I knew I’d end up like my wife.
+$GEN_001_04x05_07_02
+We know their type! Every other one’s as thick as pig shit!
+$GEN_001_04x05_07_03
+But the gendarmes had the right to arrest you. You should not have resisted.
+$GEN_001_04x05_07_04
+I didn’t plan what happened. When I didn’t let them restrain me, one of them punched me in the face. Then… something in me snapped. I don’t remember it well, everything happened so fast.
+$GEN_001_04x05_07_05
+The whole situation would not have taken place if you had been less aggressive…
+$GEN_001_04x05_07_06
+How did Gendarme Roux die?
+$GEN_001_04x05_07_07
+…
+$GEN_001_04x05_07_08
+Citizen Pascal?
+$GEN_001_04x05_07_09
+We were struggling. My Marie probably struggled too… I pushed that gendarme, he tripped and his face hit something…
+$GEN_001_04x05_07_10
+The door frame.
+$GEN_001_04x05_07_11
+His eyes rolled up and he fell to the floor, shaking. There was blood, a lot of blood…
+$GEN_001_04x05_07_12
+Call in the witness, Cristobal Rémy.
+$GEN_001_04x05_07_14
+For the sake of protocol, please introduce yourself.
+$GEN_001_04x05_07_15
+Cristobal Rémy, soldier in the National Guard.
+$GEN_001_04x07_08_QTitle
+Were you drunk that evening?
+$GEN_001_04x07_08_00
+Were you drunk that evening?
+$GEN_001_04x07_08_01
+I drink something every evening.
+$GEN_001_04x07_08_02
+Speak clearly. Did you drink on that evening?
+$GEN_001_04x07_08_03
+Yes, monsieur le juge. I think I am allowed to drink wine in my own home?
+$GEN_001_04x07_08_04
+Are you always so aggressive after alcohol?
+$GEN_001_04x07_08_05
+I’ve never hurt anyone before.
+$GEN_001_04x07_08_06
+There’s a first time for everything.
+$GEN_001_05x07_09_QTitle
+People say you are prone to violence.
+$GEN_001_05x07_09_00
+People say you are prone to violence.
+$GEN_001_05x07_09_01
+Isn’t that the only option in this filthy city? I know what you’d like to call me – an animal, a beast that ran amok and killed senselessly. But do you know the real beast? Paris. This crazy, bloodthirsty creature.
+$GEN_001_05x07_09_02
+He’s delirious.
+$GEN_001_05x07_09_03
+Everyone has a choice. Thousands of Parisians decide to lead a life where they are neither executioners nor victims.
+$GEN_001_05x07_09_04
+As you like. I know what I know.
+$GEN_001_05x08_10_QTitle
+Did you have anything to do with Maxime withdrawing his denunciation?
+$GEN_001_05x08_10_00
+Did you have anything to do with Maxime withdrawing his denunciation?
+$GEN_001_05x08_10_01
+You know I was in a cell. What kind of stupid question is that?
+$GEN_001_05x08_10_02
+The Judge could at least look at the notes.
+$GEN_001_05x08_10_03
+You were participating in a Monarchist conspiracy. Who was helping you?
+$GEN_001_05x08_10_04
+Conspiracy? I was working like a horse. When was I supposed to have the time to conspire?
+$GEN_001_WIT_00_A_QTitle
+Could you describe what happened that evening?
+$GEN_001_WIT_00_A_00
+Could you describe what happened that evening?
+$GEN_001_WIT_00_A_01
+We went to the address written in the order and knocked on the door. It was supposed to be a routine procedure, we didn’t expect any difficulties.
+$GEN_001_WIT_00_A_02
+How loud were you?
+$GEN_001_WIT_00_A_03
+The knocking was loud, true. I shouted that we were gendarmes, but that’s not unusual. We always announce ourselves so they know they should open the door.
+$GEN_001_WIT_01_A_QTitle
+Did you attack Citizen Pascal?
+$GEN_001_WIT_01_A_00
+Did you attack Citizen Pascal?
+$GEN_001_WIT_01_A_01
+When we told him the reason for our visit he started shouting that he wouldn’t go with us.
+$GEN_001_WIT_01_A_02
+So you decided to use force?
+$GEN_001_WIT_01_A_03
+Fabrice tried to catch him and lead him out, as we always do.
+$GEN_001_WIT_01_A_04
+So you followed the rules.
+$GEN_001_WIT_01_A_05
+Of course.
+$GEN_001_WIT_01_A_06
+Right, because they never break them.
+$GEN_001_WIT_01_A_07
+Did you hit him in the head with your musket?
+$GEN_001_WIT_01_A_08
+Yes. Unfortunately, it was already too late.
+$GEN_001_WIT_01_B_QTitle
+What do you know about the wife of the accused?
+$GEN_001_WIT_01_B_00
+What do you know about the wife of the accused?
+$GEN_001_WIT_01_B_01
+I’m uncomfortable speaking about it…
+$GEN_001_WIT_01_B_02
+Let me make you more comfortable by reminding you that refusing to answer my questions could lead to your dismissal.
+$GEN_001_WIT_01_B_03
+Fabrice once told me that he tried to seduce a woman. He visited her when her husband was away, but she wasn’t interested. So he waited until she was alone again and paid her another visit, but she still refused him. Then he arrested her for assaulting an officer–
+$GEN_001_WIT_01_B_04
+Wait… He arrested her because she was not interested in him?
+$GEN_001_WIT_01_B_05
+That’s right. He thought she’d be scared of jail and have a change of heart. Unfortunately, she was tried by a judge who was quick to sentence people to the guillotine. I didn’t make the connection at first, but when I saw the look in the eyes of the defendant during the arrest… I realised what had happened.
+$GEN_001_WIT_01_B_06
+So Pascal took revenge on the bastard that killed his wife?
+$GEN_001_WIT_01_B_08
+Do you confirm this testimony?
+$GEN_001_WIT_01_B_09
+I can only confirm the words my wife told me from behind her prison bars.
+$GEN_001_WIT_01_B_10
+Speak without fear.
+$GEN_001_WIT_01_B_11
+I killed a man, unintentionally. The fact that it happened to be him… well, I’m glad. Yes, I can confirm what the witness has said…
+$GEN_001_KEY_01
+Weaving shop
+$GEN_001_KEY_02
+Wife
+$GEN_001_KEY_03
+Counter-Revolutionary activity
+$GEN_001_KEY_04
+Bringing in for questioning
+$GEN_001_KEY_05
+Defendant’s violent temperament
+$GEN_001_KEY_06
+Victim’s injuries
+$GEN_001_KEY_07
+Defendant’s alcoholism
+$GEN_001_KEY_08
+Withdrawal of testimony
+$GEN_001_KEY_09
+Slanderous leaflets
+$GEN_001_LastDialog_00
+Hurry up, will you? I want to join my wife already.
+$GEN_001_UNIQUE_QUESTION_00
+What accusations were found in Citizen Maxime’s denunciation?
+$GEN_001_UNIQUE_ANSWER_CORRECT_00_00
+Hanging posters and slanderous leaflets.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Stealing bread from the market.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Counter-Revolutionary views.
+$GEN_001_UNIQUE_QUESTION_02
+Was the defendant under the influence of alcohol during his arrest?
+$GEN_001_UNIQUE_ANSWER_CORRECT_02_00
+He drank wine.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_02_00
+He drank beer.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_02_01
+He was not drinking.
+$GEN_001_UNIQUE_QUESTION_03
+How did the defendant react when he saw the arrest warrant?
+$GEN_001_UNIQUE_ANSWER_CORRECT_03_00
+Nobody showed one to him.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_03_00
+He denied its legitimacy.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_03_01
+He tore it to pieces.

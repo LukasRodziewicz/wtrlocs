@@ -1,0 +1,49 @@
+$DISC_INTR_001_B04_MARAT_001_JUDGE
+Dziękuję za przybycie.
+$DISC_INTR_001_B04_MARAT_002_MARAT
+Czego się nie robi dla sędziów Trybunału…
+$DISC_INTR_001_B04_MARAT_003_JUDGE
+Chciałbym pomówić o ministrze Roland.
+$DISC_INTR_001_B04_MARAT_004_MARAT
+Ach tak…
+$DISC_INTR_001_B04_MARAT_005_JUDGE_AGGR
+Roland to gnida. Korupcja nie może być znakiem rozpoznawczym nowej władzy.
+$DISC_INTR_001_B04_MARAT_006_JUDGE_MANI
+Czy Roland jest faktycznie przedstawicielem ludu, czy może bardziej króla i jego sługusów?
+$DISC_INTR_001_B04_MARAT_007_JUDGE_JOKE
+Musimy pozbyć się Rolanda dla jego własnego dobra – kieszenie mu się rozprują od nadmiaru gotówki.
+$DISC_INTR_001_B04_MARAT_008_JUDGE_HUMI
+Francja krwawi, a obecność ludzi takich jak Roland nie pozwala zaleczyć ran, lecz tylko je pogłębia.
+$DISC_INTR_001_B04_MARAT_009_MARAT_INTR
+Jestem w stanie zrozumieć twoje motywy. Sam nie znoszę ludzi takich jak Roland.
+$DISC_INTR_001_B04_MARAT_010_MARAT_DOUB
+Nadepnąłeś ministrowi na odcisk, on odpowiedział. Gdzie w tym dobro państwa?
+$DISC_INTR_001_B04_MARAT_011_JUDGE_AGGR
+Poza korupcją Roland zagroził też sędziemu Trybunału Rewolucyjnego. Niezawisłemu organowi! 
+$DISC_INTR_001_B04_MARAT_012_JUDGE_MANI
+Roland, by uniknąć kary, zasadza się na mnie osobiście. Ale czy to nie oznacza, że wypowiada wojnę nowemu ładowi?
+$DISC_INTR_001_B04_MARAT_013_JUDGE_JOKE
+Dwa komary – pan i pani Roland – gryząc mnie, chcą pożywić się krwią Francji. Nikt nie lubi komarów.
+$DISC_INTR_001_B04_MARAT_014_JUDGE_HUMI
+Moja osobista niechęć wobec ministra nie zmienia tego, że należy tego skorumpowanego rojalistę zastąpić kimś uczciwym.
+$DISC_INTR_001_B04_MARAT_015_JUDGE_AGGR
+Jeśli nie namówisz deputowanych, będzie to dowód, że tolerujesz zdradziecki element, który panoszy się nadal we Francji!
+$DISC_INTR_001_B04_MARAT_016_JUDGE_MANI
+Czytelnicy powinni wiedzieć, że nie jesteś tylko krzykaczem, któremu chodzi o poklask. Niech wiedzą, że troszczysz się o Francję.
+$DISC_INTR_001_B04_MARAT_017_JUDGE_JOKE
+Żyrondyści potykają się o własne nogi – wystarczy, że pomożesz im upaść.
+$DISC_INTR_001_B04_MARAT_018_JUDGE_HUMI
+Roland ma momentami więcej wspólnego z ancien régime niż król Ludwik. Jeśli chcecie usuwać stare, to teraz jest dobra szansa.
+$DISC_INTR_001_B04_MARAT_019_MARAT_SATI
+Nareszcie znalazł się ktoś gotowy dać popalić tym przeklętym żyrondystom. Sto lat niech żyje sędzia Fidéle!
+$DISC_INTR_001_B04_MARAT_020_MARAT_INTR
+Żyrondyści bardzo stracą na ostatecznym i szybkim upadku ministra Rolanda i jego rezolutnej żony. Możesz liczyć na moje wsparcie.
+$DISC_INTR_001_B04_MARAT_021_MARAT_DOUB
+Wojna z Rolandem to nie moja sprawa. Nic nie zyskam na współpracy ze zwykłym sędzią. 
+
+$DISC_INTR_001_B04_MARAT_TOPIC_01
+Czego chcemy?
+$DISC_INTR_001_B04_MARAT_TOPIC_02
+Dlaczego tego chcemy?
+$DISC_INTR_001_B04_MARAT_TOPIC_03
+Co z tego będzie miał?

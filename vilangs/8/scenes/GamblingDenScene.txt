@@ -1,0 +1,200 @@
+$GDTIE
+Empate!
+$GDWIN
+Você venceu!
+$GDLOSE
+Você perdeu!
+$GDEFFECTS
+Efeitos:
+$GDFAVOUR_ALREADY
+Tinville já lhe devia um favor.
+$GDFAVOUR_LOSE
+Você não conseguiu obter o favor de Tinville.
+$GDFAVOUR_WON
+Favor desbloqueado!
+$GDRESULT
+Resultado:
+$GDBET
+Lance:
+$GDSCORING
+Regras de Pontuação
+$GDSCOREBOARD_INFO
+Você ganha pontos ao tirar o mesmo número em dois ou mais dados. Quanto maior o valor nos dados, maior o multiplicador de pontos. Por exemplo: dois dados com 6 valem 120 pontos; dois dados com 1 valem 20 pontos.
+$GDSCOREBOARD_SPECIALSCORE
+Pontuação especial:
+$GDSELECTION_TITLE
+Título
+$GDSELECTION_DESCRIPTION
+Descrição
+$GDACCEPT_OPPONENT_TOOLTIP
+Jogar
+$GDROLL_TOOLTIP
+Jogar os dados
+$GDREROLL_TOOLTIP
+Rolar novamente
+$GDREROLL_ACCEPT_TOOLTIP
+Aceitar
+$GDREROLL_BACK_TOOLTIP
+Retornar
+$REROLL_CHOOSE_DICES
+Escolha os dados para relançar
+$GDPASS_TOOLTIP
+Turno do oponente
+$GDPLAYAGAIN_TOOLTIP
+Jogar novamente
+$GDEXIT_TOOLTIP
+Sair
+$GDROLL_PLAYERTURN
+Lançar
+$GDROLL_OPPONENTTURN
+Turno do oponente
+$GDREROLL
+Rolar Novamente
+$GDBUYROUND
+Oferecer uma rodada ({0} PI)
+$GDBUYROUND_LOCKED
+Você não pode pagar uma rodada ({0} PI)
+$GDBUYROUND_USED
+Você já pagou uma rodada
+$GD_ONESHOT_INFO
+Informações do OneShot
+$GD_ONESHOT_COMMENT
+Comentário Único
+$GDJUDGE_SHORTNAME
+Juiz
+$GDOPPONENT_003_SHORTNAME
+Tinville
+$GDOPPONENT_004_SHORTNAME
+Pache
+$GDOPPONENT_005_SHORTNAME
+Renard
+$GDOPPONENT_010_SHORTNAME
+Bruno
+$GDJUDGE_SHORTNAME_NAME
+Alexis
+#CUT_023_RESULT
+Aposta: Informação sobre o traidor
+#CUT_030_RESULT
+Aposta: mão do filho
+#CUT_035_RESULT
+Em jogo: Vida
+$GD003_COMMENT_WELCOMEFIRST_01
+Ouvi dizer que encontraria você aqui. É bom saber que os juízes do Tribunal também compartilham as fraquezas do povo comum.
+$GD003_COMMENT_WELCOMEJUDGEWON_01
+Eu mereço uma revanche, não é?
+$GD003_COMMENT_WELCOMEJUDGEWON_02
+Desta vez não será tão fácil.
+$GD003_COMMENT_WELCOMEJUDGEWON_03
+Para um homem de família, você aparece aqui com frequência demais.
+$GD003_COMMENT_WELCOMEJUDGELOST_01
+Respeito a sua determinação…
+$GD003_COMMENT_WELCOMEJUDGELOST_02
+Santos de dia, canalhas à noite. Esse somos nós.
+$GD003_COMMENT_WELCOMEJUDGELOST_03
+Meu pai costumava dizer que pessoas como nós não podem ter falhas. Pois bem, ouso discordar.
+$GD003_COMMENT_ROLLJUDGEWON_01
+Foi só um acaso...
+$GD003_COMMENT_ROLLJUDGEWON_02
+Desta vez...
+$GD003_COMMENT_ROLLJUDGEWON_03
+Não significa nada.
+$GD003_COMMENT_ROLLJUDGELOST_01
+Nada dura para sempre. Só o caos.
+$GD003_COMMENT_ROLLJUDGELOST_02
+Tudo está como deveria estar.
+$GD003_COMMENT_ROLLJUDGELOST_03
+Só mais um pouco.
+$GD003_COMMENT_GAMEJUDGEWON_01
+Têmis não me guiou hoje.
+$GD003_COMMENT_GAMEJUDGEWON_02
+No fim, todos nós perdemos.
+$GD003_COMMENT_GAMEJUDGEWON_03
+Amanhã terei minha vingança no tribunal...
+$GD003_COMMENT_GAMEJUDGELOST_01
+Quem sabe na próxima vez... Se tiver coragem de voltar aqui.
+$GD003_COMMENT_GAMEJUDGELOST_02
+Você só perdeu o orgulho. Uma mera ninharia.
+$GD003_COMMENT_GAMEJUDGELOST_03
+Quem sabe da próxima vez apostamos nossas almas? Você acha que ainda as temos?
+$GD003_COMMENT_DRINK_01
+Você se sente sozinho por causa dos seus vícios?
+$GD003_COMMENT_DRINK_02
+Vejo que você sabe conquistar o público.
+$GD003_COMMENT_DRINK_03
+Só tome cuidado para não se endividar. As pessoas adoram beber às custas dos outros.
+$GD003_COMMENT_DRINKBET_01
+Que se dane, mês que vem recebo de novo!
+$GD003_COMMENT_DRINKBET_02
+O juiz certamente pode jogar, não é?
+$GD003_COMMENT_DRINKBET_03
+Mais alto! Empilhe minhas moedas ainda mais alto!
+$GD003_COMMENT_REROLL_01
+Com medo de perder?
+$GD003_COMMENT_REROLL_02
+O que você estaria disposto a fazer para vencer?
+$GD003_COMMENT_REROLL_03
+Se acha que isso vai mudar alguma coisa...
+$GD003_COMMENT_CANTREROLL_01
+Queria poder jogar de novo.
+$GD004_MER_VER_HAN_DIAL_MER_01
+Mesmo reconhecendo o luxo desses lugares, ainda sou adepto do ascetismo militar.
+$GD004_MER_VER_HAN_DIAL_JUDGE_02
+O gosto do antigo proprietário pelo luxo acabou levando à sua ruína.
+$GD004_MER_VER_HAN_DIAL_MER_03
+Entendo. Vamos jogar?
+$GD004_MER_VER_DAVID_DIAL_MER_01
+Que elegância. Meus parabéns.
+$GD004_MER_VER_DAVID_DIAL_JUDGE_02
+Obrigado. Confiei a decoração aos cuidados de Jacques-Louis David. Ele é um artista.
+$GD004_MER_VER_DAVID_DIAL_MER_03
+Sim, ouvi dizer que vocês são amigos e aliados políticos. Vamos jogar?
+$GD004_MER_COMMENT_GAMEJUDGEWON_01
+Presumi que você me deixaria ganhar para conquistar minha confiança. Fico satisfeito em me enganar de vez em quando.
+$GD004_MER_COMMENT_GAMEJUDGELOST_01
+Vejo que você faria qualquer coisa para conquistar minha confiança – até perder de propósito.
+$GD004_MER_COMMENT_ROLLJUDGEWON_01
+Esses dados são viciados!
+$GD004_MER_COMMENT_ROLLJUDGEWON_02
+Droga, aquelas garotas me jogaram uma praga!
+$GD004_MER_COMMENT_ROLLJUDGELOST_01
+Um pouco de sorte não faria mal.
+$GD004_MER_COMMENT_ROLLJUDGELOST_02
+Vamos lá, dados. Só mais uma vez, por favor.
+$GD004_MER_COMMENT_REROLL_01
+Acha que essa maré de azar vai mudar?
+$GD004_MER_COMMENT_DRINK_01
+Eu aceitaria uma bebida.
+$GD004_MER_COMMENT_DRINK_02
+O juiz certamente pode jogar, não é?
+$GD005_RENARD_COMMENT_ROUND_01
+Nosso amigo mascarado estava furioso. Ele nos procurou com uma proposta vantajosa em troca da nossa ajuda. Aceitamos.
+$GD005_RENARD_COMMENT_ROUND_02
+Um homem perigoso e ferido. Recusá-lo seria imprudente.
+$GD005_RENARD_COMMENT_ROUND_03
+Ele pediu a alguém que conhecemos, alguém com quem já colaboramos antes, para ajudá-lo a matar seu filho. Que tolo.
+$GD005_RENARD_COMMENT_ROUND_04
+Trazemos a cabeça dele numa bandeja. Será um sinal da nossa boa vontade e a prova de que é sábio ser nosso aliado.
+$GD005_RENARD_COMMENT_ROUND_05
+Os aristocratas voltarão à cidade a qualquer momento, cheios de orgulho, e todos que não estiverem ao nosso lado serão tratados como merecem.
+$GD005_RENARD_COMMENT_GAMEJUDGEWON_01
+Você venceu. Cumpriremos nossa promessa – você terá a cabeça do traidor, e Paris... bem, Paris não ficará muito satisfeito.
+$GD005_RENARD_COMMENT_GAMEJUDGELOST_01
+Cedo ou tarde, todo jogador percebe que não tem controle algum. Ele apenas assiste, impotente, enquanto o tempo o empurra para a derrota. Um acordo é um acordo — você perdeu, então não lhe diremos nada. E Paris... Paris receberá o que merece.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_01
+Faça-o calar. Ainda não acabou.
+$GD011_BRUNO_COMMENT_GAMEJUDGELOST_02
+Terminamos aqui.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_01
+Eu também já venci a primeira rodada uma vez.
+$GD011_BRUNO_COMMENT_GAMEJUDGEWIN_02
+Foi pura sorte.
+$GD011_BRUNO_COMMENT_ROUND_01
+Você matou todos que teriam coragem de me enfrentar. Obrigado.
+$GD011_BRUNO_COMMENT_ROUND_03
+O sangue está nas suas mãos, não nas minhas. Eu venci de novo.
+$GD011_BRUNO_COMMENT_ROUND_06
+Acha que sabe o que é sofrer? Espere até eu lhe mostrar.
+$GD011_BRUNO_COMMENT_ROUND_08
+Você vai fracassar e partir o coração do nosso pai. Só então minha vingança estará completa!
+$GD011_Dices_Last_Dialog
+Acertamos as contas pela primeira vez, mas isso está longe de ser tudo o que preparei para você. Muito longe disso.

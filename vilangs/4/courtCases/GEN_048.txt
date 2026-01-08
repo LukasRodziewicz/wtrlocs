@@ -1,0 +1,158 @@
+$GEN_048_DOC_01_HEADER
+Zusammengestellt von: Charles Etienne
+$GEN_048_DOC_01_00
+	Die Tochter von Jean und Marie Picque starb unmittelbar nach der Geburt. Der Vater sagte aus, dass er das Kind laut und eindringlich habe weinen hören. Doch als er das Zimmer betrat, in dem sich seine Frau, eine Dienerin und die Hebamme aufhielten, atmete seine Tochter nicht mehr.
+$GEN_048_DOC_01_01
+	Am nächsten Tag traf der von Herrn und Frau Picque gerufene Arzt ein. Er bemerkte <a name="4" class="hidden">Strangulationsspuren</a> am Hals des Säuglings und war es auch, der die Wache verständigte. Der Ermittler konnte die Eltern nicht befragen, da beide unter Schock standen und von Verzweiflung erfüllt waren.
+$GEN_048_DOC_01_02
+	Im unordentlichen Schlafzimmer fanden wir zahlreiche Spuren einer Geburt. Unter anderem lagen dort <a name="5" class="hidden">Zangen</a>, die von der Hebamme zurückgelassen wurden, welche laut Aussage des Dieners das Haus in großer Eile verließ. Es wirkte, als wäre sie auf der Flucht.
+$GEN_048_DOC_01_03
+	Es gelang uns, die Identität der Hebamme als Claudine Sessier festzustellen. Man sagt, sie habe kein Glück bei Geburten von Mädchen, da die meisten ihrer weiblichen Säuglinge nicht überlebten. Wir beschlossen, sie als Verdächtige festzunehmen. Die Ermittler fanden eine aufgeschlagene <a name="7" class="hidden">Bibel</a> auf ihrem Küchentisch.
+$GEN_048_DOC_01_04
+Beweis:
+$GEN_048_DOC_01_05
+	Sessiers Bibel ist eine alte, billige und völlig abgegriffene Ausgabe. Zahlreiche Passagen hat sie mit Bleistift unterstrichen.
+$GEN_048_OnStart_00
+Hebamme Sessier?
+$GEN_048_OnStart_01
+Ja, das bin ich.
+$GEN_048_OnStart_02
+Haben Sie das Kind von Herrn und Frau Picque erwürgt?
+$GEN_048_OnStart_03
+Ich musste es tun, Monsieur le Juge. Leider wurde das Kind als Mädchen geboren.
+$GEN_048_OnStart_04
+Du wirst in der Hölle brennen!
+$GEN_048_OnStart_05
+Wie meinen Sie das?
+$GEN_048_OnStart_06
+Du bist ein Mann, das kannst du nicht nachvollziehen. Ich will nur, dass Frauen nicht mehr leiden müssen.
+$GEN_048_OnStart_07
+Warum haben Sie sie dann erwürgt?
+$GEN_048_OnStart_08
+Wie ich schon sagte, das würdest du nicht verstehen.
+$GEN_048_OnStart_09
+Sie ist verrückt!
+$GEN_048_OnGuilty_00
+Bürger Sessier, Sie erfüllen mich mit Abscheu, und es ist mir eine große Erleichterung, Sie zum Tode zu verurteilen.
+$GEN_048_OnGuilty_01
+Das reicht nicht! Lasst sie vierteilen!
+$GEN_048_OnGuilty_02
+Ich werde ruhiger schlafen, wenn ich weiß, dass sie ihrem Gewerbe nicht mehr nachgeht.
+$GEN_048_OnNotGuilty_00
+Bürgerin Sessier, ich spreche Sie frei. Sie dürfen gehen.
+$GEN_048_OnNotGuilty_01
+Der Richter steckt mit dieser mörderischen Hexe unter einer Decke!
+$GEN_048_OnNotGuilty_02
+Richter unter die Guillotine!
+$GEN_048_OnNotGuilty_03
+Das ist Verrat!
+$GEN_048_OnNotGuilty_04
+Wenn sie ihren Beruf weiter ausübt, werden die Toten auf Ihr Gewissen gehen.
+$GEN_048_02x04_00_QTitle
+Wurde das Kind lebend geboren?
+$GEN_048_02x04_00_00
+Wurde das Kind lebend geboren?
+$GEN_048_02x04_00_01
+Ja, Monsieur Richter.
+$GEN_048_02x04_00_02
+Haben Sie es mit Ihren eigenen Händen erwürgt?
+$GEN_048_02x04_00_03
+Nein, ich… ich habe eine besondere Perlenkette. Es ginge schneller, ihnen einfach das Genick zu brechen, aber dazu bin ich nicht in der Lage.
+$GEN_048_02x04_00_04
+Ich stelle den Antrag, dieses Verhör umgehend… mit einem Todesurteil zu beenden.
+$GEN_048_02x04_00_05
+Noch nicht. Bürgerin, wie konnten Sie nur etwas so Schreckliches tun?
+$GEN_048_02x04_00_06
+Ich tue es für sie, Monsieur le Juge, nicht für mich. Ich habe genug gelitten, sie sollen es nicht müssen.
+$GEN_048_01x07_01_QTitle
+Glauben Sie an Gott, Frau?
+$GEN_048_01x07_01_00
+Glauben Sie an Gott, Frau?
+$GEN_048_01x07_01_01
+Nein, Monsieur Richter.
+$GEN_048_01x07_01_02
+Wie steht es um die Bibel in Ihrem Haus?
+$GEN_048_01x07_01_03
+Die Bibel ist kein heiliges Buch, sondern ein Handbuch für Männer, um unser Leben zu zerstören!
+$GEN_048_01x07_01_04
+Erläutern Sie.
+$GEN_048_01x07_01_05
+Der Brief an die Epheser lehrt zum Beispiel: „Ihr Frauen, ordnet euch euren Männern unter wie dem Herrn, denn der Mann ist das Haupt der Frau.“ Die Männer hören das in der Kirche und behandeln Frauen danach schlimmer als Tiere!
+$GEN_048_01x07_01_06
+Aber richten Sie nicht noch größeres Unheil an, indem Sie sie töten?
+$GEN_048_01x07_01_07
+Ich helfe ihnen.
+$GEN_048_01x07_01_08
+Wie genau?
+$GEN_048_01x07_01_09
+Die Männer sterben im Krieg, es gibt immer weniger von ihnen, also müssen die Frauen um sie kämpfen. Wenn es weniger Frauen gäbe, würden die Männer sie endlich respektieren!
+$GEN_048_01x07_01_10
+Diese Frau ist vom Teufel besessen!
+$GEN_048_01x07_01_11
+Haben die Männer Sie nicht respektiert?
+$GEN_048_01x07_01_12
+Mein Vater hat mich einem Mann überlassen. Acht Jahre lang hat er mich geschlagen, bis er sich schließlich zu Tode getrunken hat.
+$GEN_048_01x07_01_13
+Die Revolution stellt sich gegen religiösen Aberglauben. Sie müssen es nicht tun.
+$GEN_048_01x07_01_14
+Ach ja? Ihr kämpft für die „Brüderlichkeit“, doch eure Schwestern sind euch gleichgültig.
+$GEN_048_02x05_02_QTitle
+Warum haben Sie das Haus der Picques so eilig verlassen?
+$GEN_048_02x05_02_00
+Warum haben Sie das Haus der Picques so eilig verlassen?
+$GEN_048_02x05_02_01
+Das Kind war tot. Ich konnte ihnen nicht mehr helfen.
+$GEN_048_02x05_02_02
+Haben Sie ihnen die Geburt in Rechnung gestellt?
+$GEN_048_02x05_02_03
+Nein, ich konnte nicht.
+$GEN_048_02x05_02_04
+Warum?
+$GEN_048_02x05_02_05
+…
+$GEN_048_02x05_02_06
+Ich frage Sie noch einmal: Warum haben Sie kein Geld von Herrn und Frau Picque genommen?
+$GEN_048_02x05_02_07
+Hören Sie auf, mich zu quälen! Ich habe das nicht für mich getan. Ich will nur, dass andere Frauen ein besseres Leben haben als ich! Wenn es weniger von uns als Männer gibt, wird unser tausendjähriger Albtraum endlich enden!
+$GEN_048_02x05_02_08
+Das ganze kurze Leben dieses kleinen Mädchens war ein Albtraum.
+$GEN_048_KEY_01
+Tochter
+$GEN_048_KEY_02
+Erster Schrei
+$GEN_048_KEY_03
+Diener
+$GEN_048_KEY_04
+Strangulationsspuren
+$GEN_048_KEY_05
+Zange
+$GEN_048_KEY_06
+Die Flucht der Hebamme
+$GEN_048_KEY_07
+Bibel
+$GEN_048_LastDialog_00
+Schon wieder ein Mann, der Frauen quält! Patriarchat!
+$GEN_048_UNIQUE_QUESTION_00
+Was gestand die Frau während der Anhörung?
+$GEN_048_UNIQUE_ANSWER_CORRECT_00_00
+Ihr Ehemann hatte sie jahrelang geschlagen.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Sie hatte vier Fehlgeburten.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ihre Mutter ist bei einem Brand ums Leben gekommen.
+$GEN_048_UNIQUE_QUESTION_01
+Womit hat sie das Kind getötet?
+$GEN_048_UNIQUE_ANSWER_CORRECT_01_00
+Eine Halskette.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ihre eigenen Hände.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ein Kissen.
+$GEN_048_UNIQUE_QUESTION_02
+Hat der Angeklagte Geld für die Entbindung angenommen?
+$GEN_048_UNIQUE_ANSWER_CORRECT_02_00
+Nein, sie hat abgelehnt.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ja, sie hat sie genommen.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Sie forderte Geld und wurde abgewiesen.

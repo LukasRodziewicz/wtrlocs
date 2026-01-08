@@ -1,0 +1,256 @@
+$GEN_056_DOC_01_HEADER
+Compilé par : Charles Étienne
+$GEN_056_DOC_01_00
+	Comme nous en ont informé les habitants du Quartier latin, un soi-disant <a name="1" class="hidden">monstre</a> et <a name="2" class="hidden">reclus</a> a empoisonné le puits utilisé par les habitants de quelques immeubles. Comme on peut le lire dans la dénonciation, plusieurs citoyens sont tombés malades à cause de ce crime.
+$GEN_056_DOC_01_01
+	L'accusé s'appelle Gabriel Rouzet et le soldat envoyé pour l'arrêter a confirmé l'opinion de ses voisins : c'est un excentrique. Il vit avec <a name="3" class="hidden">deux domestiques</a> au quatrième étage d'un bâtiment rue Serpente. Au moment de son arrestation, son appartement était <a name="4" class="hidden">plongé dans le noir</a> et l'apparence et le comportement du propriétaire des lieux ont été décrits comme répugnants. Vous pourrez l'observer par vous-même dans la salle d'audience.
+$GEN_056_DOC_01_02
+	Ce dossier comprend le contenu de la dénonciation, qui vous en apprendra davantage sur le crime de Rouzet.
+$GEN_056_DOC_02_00
+Dénonciation anonyme
+$GEN_056_DOC_02_01
+	Aux autorités de Paris : ces derniers jours, l'eau de <a name="5" class="hidden">notre puits</a> s'est mise à sentir mauvais. L'odeur est si affreuse que certains se sont mis à payer des porteurs pour obtenir de l'eau de la fontaine publique près de l'université. Ceux qui ont bu l'eau du puits <a name="7" class="hidden">sont tombés malades</a>, certains très gravement. Un homme du nom de Lambert Cazal, mon ami, a vomi dans un seau toute la nuit. Ensuite il a fallu tout nettoyer.
+$GEN_056_DOC_02_02
+	Il n'y a pas de doute à avoir sur qui est derrière l'empoisonnement. De l'autre côté de la rue vit un homme appelé Rouzet. C'est un porc et un monstre. Il ne quitte sa maison que le soir et, même s'il se couvre le visage, tout le monde sait quel genre de monstre il est. Il déteste sans doute les gens et il a dû jeter un <a name="8" class="hidden">cadavre</a> dans le puits pour qu'on n'ait plus rien à boire et qu'on meure. Et ce monstre lui-même s'est mis à boire l'eau de la fontaine publique !
+$GEN_056_OnStart_00
+Je ne peux pas en être certain, mais je suppose que n'importe quoi aurait pu tomber dans ce puits. Un chat imprudent, par exemple.
+$GEN_056_OnStart_01
+Tu t'appelles Rouzet ?
+$GEN_056_OnStart_02
+Oui, Gabriel Rouzet.
+$GEN_056_OnStart_03
+Tu es accusé d'avoir empoisonné le puits. Qu'as-tu à dire pour ta défense ?
+$GEN_056_OnStart_04
+Depuis que je suis enfant, j'ai des problèmes de peau lorsque je m'expose au soleil.
+$GEN_056_OnStart_05
+Est-ce cette maladie qui cause ton... apparence ?
+$GEN_056_OnStart_06
+Sans doute. Je ne suis pas né ainsi.
+$GEN_056_OnStart_07
+As-tu empoisonné le puits, oui ou non ?
+$GEN_056_OnStart_08
+Bien sûr que non. Quelle accusation absurde !
+$GEN_056_OnGuilty_00
+Je condamne le citoyen Rouzet à la guillotine. Il ne terrorisera plus personne.
+$GEN_056_OnGuilty_01
+Justice est enfin faite !
+$GEN_056_OnGuilty_02
+On est enfin débarrassés de lui !
+$GEN_056_OnPrison_00
+Citoyen Rouzet, je te condamne à 10 ans de prison.
+$GEN_056_OnPrison_01
+Bien, ils vont sans doute s'occuper de son cas là-dedans !
+$GEN_056_OnNotGuilty_00
+Le citoyen Rouzet n'est pas responsable de l'empoisonnement du puits. Libérez-le.
+$GEN_056_OnNotGuilty_01
+Le puits ne s'est pas empoisonné tout seul !
+$GEN_056_OnNotGuilty_02
+Le juge protège le monstre.
+$GEN_056_01x04_00_QTitle
+Tes voisins te traitent de monstre et d'erreur de la nature.
+$GEN_056_01x04_00_00
+Tes voisins te traitent de monstre et d'erreur de la nature.
+$GEN_056_01x04_00_01
+Est-ce surprenant ?
+$GEN_056_01x04_00_02
+As-tu déjà fait du mal à qui que ce soit ?
+$GEN_056_01x04_00_03
+Je souffre déjà bien assez moi-même, pas besoin de blesser les autres.
+$GEN_056_01x04_00_04
+Les gens sont effrayés, car tes fenêtres sont toujours fermées.
+$GEN_056_01x04_00_05
+Le soleil me fait mal. Je n'ai pas l'intention de souffrir pour le plaisir de paraître normal.
+$GEN_056_06x03_01_QTitle
+Peux-tu te permettre de payer les porteurs d'eau et domestiques ?
+$GEN_056_06x03_01_00
+Peux-tu te permettre de payer les porteurs d'eau et domestiques ?
+$GEN_056_06x03_01_01
+J'ai cette chance, oui.
+$GEN_056_06x03_01_02
+Ce bourgeois porte de la futaine !
+$GEN_056_06x03_01_03
+Silence ! Quelle est ta profession ?
+$GEN_056_06x03_01_04
+Dans mon état ? Monsieur le juge, parfois je ne peux pas quitter le pot de chambre des yeux pendant trois jours, puis je passe les deux jours suivants alité.
+$GEN_056_06x03_01_05
+Tu ne travailles donc pas ?
+$GEN_056_06x03_01_06
+Non.
+$GEN_056_06x03_01_07
+Alors comment fais-tu pour vivre ?
+$GEN_056_06x03_01_08
+J'ai hérité un peu d'argent de mon père. Il possédait une usine que j'ai vendue après sa mort.
+$GEN_056_06x03_01_09
+Un père exploiteur et un fils monstrueux !
+$GEN_056_06x03_01_10
+Que fais-tu de tes journées ?
+$GEN_056_06x03_01_11
+Je lis, surtout.
+$GEN_056_02x07_02_QTitle
+Le dossier dit que tu évites la compagnie.
+$GEN_056_02x07_02_00
+Le dossier dit que tu évites la compagnie.
+$GEN_056_02x07_02_01
+Je pensais que c'était évident.
+$GEN_056_02x07_02_02
+Réponds et abstiens-toi de commenter. Détestes-tu les gens ?
+$GEN_056_02x07_02_03
+Je n'ai pas empoisonné le puits.
+$GEN_056_02x07_02_04
+Tes voisins disent le contraire.
+$GEN_056_02x07_02_05
+Si quelqu'un dit qu'il m'a vu, c'est un mensonge.
+$GEN_056_02x07_02_06
+Quel dédain pour le peuple. Ils devraient lui couper son horrible tête.
+$GEN_056_02x07_02_07
+Du dédain ? C'est moi qui devrais avoir envie de me venger, pour les femmes qui couvrent les yeux de leurs enfants quand je passe, pour mon enfance solitaire, pour…
+$GEN_056_02x07_02_08
+Nous ne discutons pas ici de ta vie, mais de l'empoisonnement du puits.
+$GEN_056_02x07_02_09
+Bien sûr. On ne parle jamais de moi. C'est comme si on risquait la contamination rien qu'en disant mon nom. Vous me dégoûtez tous.
+$GEN_056_02x07_02_10
+Tu nous dégoûtes aussi, le monstre !
+$GEN_056_01x07_03_QTitle
+Appelez Lambert Cazale.
+$GEN_056_01x07_03_00
+Appelez Lambert Cazale.
+$GEN_056_01x07_03_02
+Quel est ton nom ?
+$GEN_056_01x07_03_03
+Lambert Cazale, Monsieur le Juge.
+$GEN_056_01x07_03_04
+Tu as accusé le citoyen Rouzet d'avoir empoisonné le puits.
+$GEN_056_01x07_03_05
+Exactement ! Et je n'en ai pas honte !
+$GEN_056_01x07_03_06
+Il a bien fait !
+$GEN_056_01x07_03_07
+Êtes-vous voisins depuis longtemps ?
+$GEN_056_01x07_03_08
+Du plus loin que je m'en souvienne.
+$GEN_056_01x07_03_09
+Et jusqu'à présent il ne t'avait pas ennuyé ?
+$GEN_056_01x07_03_10
+Si bien sûr, mais du temps du roi personne ne prêtait attention à nos dénonciations.
+$GEN_056_08x05_04_QTitle
+Admets-tu avoir empoisonné le puits avec un cadavre ?
+$GEN_056_08x05_04_00
+Admets-tu avoir empoisonné le puits avec un cadavre ?
+$GEN_056_08x05_04_01
+Non, c'est absurde.
+$GEN_056_08x05_04_02
+As-tu des preuves de ton innocence ?
+$GEN_056_08x05_04_03
+Et est-ce que quelqu'un a pris la peine de retirer ce soi-disant cadavre de l'eau ?
+$GEN_056_08x05_04_04
+Après tout, on ne voit rien du tout au fond du puits.
+$GEN_056_08x05_04_05
+C'est moi qui pose les questions ici.
+$GEN_056_08x05_04_06
+Non, je n'ai aucune preuve de mon innocence.
+$GEN_056_03x05_05_QTitle
+Est-ce que tes domestiques te rapportent de l'eau du puits ?
+$GEN_056_03x05_05_00
+Est-ce que tes domestiques te rapportent de l'eau du puits ?
+$GEN_056_03x05_05_01
+Généralement, oui.
+$GEN_056_03x05_05_02
+Pourquoi généralement ?
+$GEN_056_03x05_05_03
+Lorsqu'il a plu, le puits sent souvent mauvais, alors je leur donne de l'argent pour payer l'eau de la fontaine.
+$GEN_056_03x05_05_04
+Est-ce qu'elles la boivent aussi ?
+$GEN_056_03x05_05_05
+Bien sûr. Ce sont de braves femmes, elles mangent et boivent toujours la même chose que moi.
+$GEN_056_03x05_05_06
+Les traînées du monstre. Je me demande ce qu'ils font d'autre ensemble.
+$GEN_056_02x04_06_QTitle
+Est-ce que tu évites tes voisins ?
+$GEN_056_02x04_06_00
+Est-ce que tu évites tes voisins ?
+$GEN_056_02x04_06_01
+Je les évite autant qu'ils m'évitent.
+$GEN_056_02x04_06_02
+Est-ce que l'on a essayé de te faire quitter le voisinage ?
+$GEN_056_02x04_06_03
+Assurément. Tant de fois que j'en ai perdu le compte.
+$GEN_056_02x04_06_04
+Peux-tu développer ? Qu'ont-ils fait exactement ?
+$GEN_056_02x04_06_05
+Tout raconter prendrait un bon moment. Ils ont jeté des pierres sur mes fenêtres, menacé mes domestiques. Un sadique a même battu à mort mon chien avec un bâton quand j'avais 15 ans. Dois-je continuer ? Un soir que j'avais décidé de faire une promenade, j'ai dû échapper à…
+$GEN_056_02x04_06_06
+Je vois. Tu peux t'arrêter là.
+$GEN_056_02x04_06_07
+Il invente tout ça !
+$GEN_056_02x04_06_08
+J'aimerais que ce soit le cas.
+$GEN_056_WIT_00_A_QTitle
+As-tu vu Rouzet empoisonner le puits ?
+$GEN_056_WIT_00_A_00
+As-tu vu Rouzet empoisonner le puits ?
+$GEN_056_WIT_00_A_01
+Non, mais ça ne peut être que lui.
+$GEN_056_WIT_00_A_02
+Et pourquoi donc ?
+$GEN_056_WIT_00_A_03
+Tout le monde est normal dans le quartier, sauf lui… Regardez-le, il n'est même pas humain !
+$GEN_056_WIT_00_A_04
+Pas humain ?
+$GEN_056_WIT_00_A_05
+C'est un revenant… Il est sorti de sa tombe pour effrayer les gens !
+$GEN_056_WIT_00_B_QTitle
+Est-ce que cette eau putride t'a rendu malade ?
+$GEN_056_WIT_00_B_00
+Est-ce que cette eau putride t'a rendu malade ?
+$GEN_056_WIT_00_B_01
+En effet.
+$GEN_056_WIT_00_B_02
+L'avais-tu sentie ?
+$GEN_056_WIT_00_B_03
+On la sentait à des rues à la ronde.
+$GEN_056_WIT_00_B_04
+Alors pourquoi l'as-tu bue ?
+$GEN_056_WIT_00_B_05
+L'eau puait régulièrement, alors je n'ai pas pensé que c'était à cause du poison cette fois.
+$GEN_056_KEY_01
+Monstre
+$GEN_056_KEY_02
+Reclus
+$GEN_056_KEY_03
+Deux domestiques
+$GEN_056_KEY_04
+Appartement sombre
+$GEN_056_KEY_05
+Puits
+$GEN_056_KEY_06
+Porteurs d'eau
+$GEN_056_KEY_07
+Empoisonnement
+$GEN_056_KEY_08
+Cadavre dans le puits
+$GEN_056_LastDialog_00
+Ma vie n'a été que tourments, ma mort sera de même.
+$GEN_056_UNIQUE_QUESTION_00
+Comment le prévenu subvient-il à ses besoins ?
+$GEN_056_UNIQUE_ANSWER_CORRECT_00_00
+Il a vendu l'usine de son père.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Sa famille éloignée lui envoie de l'argent.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Il est artisan.
+$GEN_056_UNIQUE_QUESTION_01
+Pourquoi les gens buvaient-ils l'eau insalubre du puits ?
+$GEN_056_UNIQUE_ANSWER_CORRECT_01_00
+Elle a toujours senti cette odeur.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_01_00
+L'eau propre est plus chère.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_01_01
+La fontaine était trop éloignée.
+$GEN_056_UNIQUE_QUESTION_02
+D'après la dénonciation, pourquoi Rouzet a-t-il empoisonné l'eau ?
+$GEN_056_UNIQUE_ANSWER_CORRECT_02_00
+Il déteste les autres.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Par vengeance.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Il est le diable incarné.

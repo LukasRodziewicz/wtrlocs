@@ -1,0 +1,287 @@
+$GEN_029_DOC_01_HEADER
+Sporządził: Nathan d’Essiraf
+$GEN_029_DOC_01_00
+	Edmond Malle, 44-letni grabarz pracujący na cmentarzu Montmartre, to indywiduum dobrze znane paryskim organom ścigania. Już raz zasiadał na ławie oskarżonych. Wtedy ten znany lubieżnik został <a name="2" class="hidden">skazany za molestowanie</a> młodocianej arystokratki. Wiemy także od naszych informatorów, że trudni się handlem zwłokami, które cieszą się popularnością głównie wśród studentów medycyny. Zarząd cmentarza patrzył na proceder przez palce, bo dzięki niemu Malle pracował za głodową pensję i nie domagał się podwyżki.
+$GEN_029_DOC_01_01
+	Malle został oskarżony o zamordowanie i zbezczeszczenie zwłok zaginionej dwa tygodnie temu Laury Dufort, córki markiza de Civraca. Sprawę Gwardii Narodowej zgłosił uczący się na medyka <a name="4" class="hidden">Jules Marot</a>. Kilka dni wcześniej kupił on od grabarza czaszkę, która miała być pomocą naukową. Jak jednak zrządził przypadek, Marot był bliskim znajomym zaginionej i rozpoznał w kościach Laurę Dufort.
+$GEN_029_DOC_01_02
+	Zszokowany własnym odkryciem chłopak intensywnie włączył się do dochodzenia – towarzyszył policji przy przeszukaniu domostwa Malle’a, gdzie osobiście odnalazł <a name="6" class="hidden">ukryte w drewutni</a>, pozbawione głowy zwłoki dziewczyny.
+$GEN_029_DOC_01_03
+	Ojciec zamordowanej zeznał potem, że Laura <a name="7" class="hidden">często odwiedzała cmentarz</a> Montmartre. Przychodziła tam na grób kuzyna, oficera Gwardii Szwajcarskiej, poległego podczas oblężenia Tuileries w roku 1792. Jak się dowiedzieliśmy, dziewczyna niejednokrotnie skarżyła się na miejscowych grabarzy, którzy ją <a name="8" class="hidden">nieprzyzwoicie nagabywali</a>. Pewnego razu jeden z nich miał ją nawet gonić, ale nie udało się wtedy ustalić i ukarać winnego
+$GEN_029_DOC_01_04
+Dowody:
+<a name="9" class="hidden">Czaszka</a> Laury Dufort
+$GEN_029_OnStart_00
+Proszę się przedstawić.
+$GEN_029_OnStart_01
+Wołają mnie… ludzie mnie Dusiołek wołają.
+$GEN_029_OnStart_02
+Nie pytam o przydomek, tylko o imię i nazwisko.
+$GEN_029_OnStart_03
+Aha… No to… mama na chrzcie Edmond mi dała. Edmond Malle.
+$GEN_029_OnStart_04
+Zostaliście oskarżeni o zamordowanie córki Hectora Duforta, markiza de Civraca, oraz zbezczeszczenie jej zwłok, w tym sprzedaż należącej do zamordowanej czaszki. Czy macie coś na swoją obronę?
+$GEN_029_OnStart_05
+Zwłoki znaleziono właśnie u oskarżonego.
+$GEN_029_OnStart_06
+Ja ich wcześniej na oczy nie widziałem.
+$GEN_029_OnStart_07
+Chcecie powiedzieć, że to nie wy je tam ukryliście?
+$GEN_029_OnStart_08
+Ja? Ja jej krzywdy nie uczynił nic. To jak ja miałem ciało chować?
+$GEN_029_OnStart_09
+Trupa to mu pewnie podrzucili dla żartu.
+$GEN_029_OnGuilty_00
+Skazuję obywatela Edmonda Malle’a na śmierć na gilotynie! Wyprowadzić skazanego.
+$GEN_029_OnGuilty_01
+To miasto stanie się odrobinę bardziej bezpieczne.
+$GEN_029_OnGuilty_02
+Słusznie!
+$GEN_029_OnGuilty_03
+Tak powinno być!
+$GEN_029_OnGuilty_04
+Jego czaszkę sprzedać studentom!
+$GEN_029_OnPrison_00
+[To jest mock i należy go zmienić!!!!]
+$GEN_029_OnNotGuilty_00
+Wyrok w sprawie Edmonda Malle’a brzmi: niewinny! Wyprowadzić podsądnego.
+$GEN_029_OnNotGuilty_01
+Jeśli to nie on według ciebie zabił, to kto?
+$GEN_029_OnNotGuilty_02
+A zapowiadało się takie piękne ścięcie…
+$GEN_029_09x05_00_QTitle
+Czy to czaszka, którą oskarżony sprzedał Jules’owi Marotowi?
+$GEN_029_09x05_00_00
+Czy to czaszka, którą oskarżony sprzedał Jules’owi Marotowi?
+$GEN_029_09x05_00_01
+Takiej to on na pewno ode mnie nie kupił.
+$GEN_029_09x05_00_02
+Jak mam to rozumieć?
+$GEN_029_09x05_00_03
+Bo raz, że czaszka jak alabaster, ługowana, a mnie czasu szkoda na takie brewerie. To i gotować trzeba, na słonku suszyć, zaś gotować, suszyć… a płacą niewiele więcej jak za nieługowaną.
+$GEN_029_09x05_00_04
+Kto w takim razie zakonserwował czaszkę?
+$GEN_029_09x05_00_05
+O to trzeba pytać tego, co tę czaszkę przyniósł. Znaczy się studenta.
+$GEN_029_09x05_00_06
+Wasza znajomość tematu pokazuje jednak, że wiecie, jak wyczyścić kości.
+$GEN_029_09x05_00_07
+A bo dawniej mi się zdarzało, ale jak mówię – szkoda zachodu.
+$GEN_029_09x05_00_08
+Skąd się biorą tacy osobnicy?
+$GEN_029_01x08_01_QTitle
+Czy oskarżony nakłaniał Laurę Dufort do cudzołóstwa?
+$GEN_029_01x08_01_00
+Czy oskarżony nakłaniał Laurę Dufort do cudzołóstwa?
+$GEN_029_01x08_01_01
+Wiecie, jak to na wsiach mówią, jak za dziewuchą nie zawołasz, toć się na ciebie obrazi… Ale u mnie jeno na tym się i skończyło.
+$GEN_029_01x08_01_02
+Mówcie jasno: wołaliście za nią czy nie?
+$GEN_029_01x08_01_03
+No coś tam wołałem… Wiecie, takie tam: choć panienko na pięterko, ale to takie gadanie tylko.
+$GEN_029_01x08_01_04
+Jak zamordowana podchodziła do tego… gadania?
+$GEN_029_01x08_01_05
+Raz sklęła mnie sakramencko, kamieniami obrzuciła i za bramę uciekła…  Przyznam, że zeźliło mnie to nieco.
+$GEN_029_01x08_01_06
+Macie motyw! Mścił się, trupojad!
+$GEN_029_01x08_01_07
+I dlatego oskarżony ją zamordował?
+$GEN_029_01x08_01_08
+Nie! Może i ze mnie pies na baby, ale nie morderca!
+$GEN_029_02x03_02_QTitle
+Jaki jest stosunek oskarżonego do arystokracji?
+$GEN_029_02x03_02_00
+Jaki jest stosunek oskarżonego do arystokracji?
+$GEN_029_02x03_02_01
+To darmozjady, których powinno się gilotynować. Zresztą taka teraz moda, prawda?
+$GEN_029_02x03_02_02
+Nazywanie rewolucji modą to czysta obraza dla szlachetnego ruchu ciemiężonych, którzy…
+$GEN_029_02x03_02_03
+Może starczy? Wiemy, czym jest rewolucja. Oskarżony chciałby więc zabić wszystkich szlachciców.
+$GEN_029_02x03_02_04
+Mhm.
+$GEN_029_02x03_02_05
+To jest motyw zbrodni i jednoznaczny dowód winy.
+$GEN_029_02x03_02_06
+Kobiety wywodzące się z tej sfery również?
+$GEN_029_02x03_02_07
+O, kobiety nie, he, he, kobietki są w porządku, Wysoki Sądzie. To już lepiej ich inaczej użyć. Arystokratki to takie nawet, wiecie, mniej sfatygowane.
+$GEN_029_04x05_03_QTitle
+Proszę wezwać świadka.
+$GEN_029_04x05_03_00
+Proszę wezwać świadka.
+$GEN_029_04x05_03_02
+Proszę się przedstawić.
+$GEN_029_04x05_03_03
+Jules Marot, Wysoki Sądzie.
+$GEN_029_06x03_04_QTitle
+Skąd w drewutni oskarżonego znalazły się zwłoki Laury Dufort?
+$GEN_029_06x03_04_00
+Skąd w drewutni oskarżonego znalazły się zwłoki Laury Dufort?
+$GEN_029_06x03_04_01
+A skąd mnie to wiedzieć?!
+$GEN_029_06x03_04_02
+Przyznałbyś się już i to skończył.
+$GEN_029_06x03_04_03
+Trudno zaprzeczyć oczywistym wnioskom płynącym z odnalezienia zdekapitowanego ciała zamordowanej w budynku użytkowanym przez oskarżonego.
+$GEN_029_06x03_04_04
+Panie, jakbym ja ją… ten, tego, tobym ją gdzie zakopał, a nie trzymał w szopce! Klucze mam na cmentarz, podrzucić do krypty i sto lat by jej nie znaleźli.
+$GEN_029_06x03_04_05
+Nie słuchajcie go. Jeśli ją zaciągnął do siebie, zgwałcił i zabił, to ukrył w szopie, bo miał blisko.
+$GEN_029_06x03_04_06
+Co na to powiecie?
+$GEN_029_06x03_04_07
+Nikogo nie zabiłem, a ta szopka to jeno na skobelek jest zamykana. Każdy tam wleźć może i trupa rzucić! To, że u mnie leżała, jeszcze nie znaczy, że ja ją zarzezał!
+$GEN_029_06x03_04_08
+To kto ją zabił, jeśli nie oskarżony?
+$GEN_029_06x03_04_09
+A skąd mnie to wiedzieć? Może ten skubany żak?
+$GEN_029_06x03_04_10
+Bezwstydnik gwałciciel!
+$GEN_029_09x04_05_QTitle
+Czy oskarżony potwierdza, że spreparował czaszkę zamordowanej...
+$GEN_029_09x04_05_00
+Czy oskarżony potwierdza, że spreparował czaszkę zamordowanej i następnie sprzedał ją obywatelowi Marotowi?
+$GEN_029_09x04_05_01
+Nic żem nie preparował, a czaszkę i owszem, sprzedałem, ale to nie była główka tej dziewki.
+$GEN_029_09x04_05_02
+Czyli przyznajecie się do bezczeszczenia zwłok?
+$GEN_029_09x04_05_03
+Przyznaję, bez tego to nawet na chleb by nie starczyło, nie mówiąc o wodzie. Tylko że to nie była jej czaszka.
+$GEN_029_09x04_05_04
+A czyja?
+$GEN_029_09x04_05_05
+A ja nie wiem. Z grobów biedoty wyciągam na chybił trafił, żeby dobrze zachowana była.
+$GEN_029_09x04_05_06
+Ochyda!
+$GEN_029_09x04_05_07
+Kto na to pozwala!?
+$GEN_029_09x07_06_QTitle
+Oskarżony znał Laurę Dufort?
+$GEN_029_09x07_06_00
+Oskarżony znał Laurę Dufort?
+$GEN_029_09x07_06_01
+Ano. Na kurhanik gwardzistów przychodziła, zawsze kwiatek położyła, Ojcze nasz zmówiła. Dobra panienka…
+$GEN_029_09x07_06_02
+Czy to była zażyła znajomość?
+$GEN_029_09x07_06_03
+Nie, ja grzecznie panienkę pozdrawiałem, zagadywałem, panienka za to na mnie sarkała i ofukiwała mnie jak kotka. Zresztą nie mnie jednego.
+$GEN_029_09x07_06_04
+Byliście wobec niej agresywni?
+$GEN_029_09x07_06_05
+A gdzie tam, czasem się droczyłem tylko.
+$GEN_029_09x07_06_06
+Bezczelny łotr…
+$GEN_029_09x07_06_07
+Ktoś jeszcze napastował zamordowaną na terenie cmentarza?
+$GEN_029_09x07_06_08
+No ba! Nie licząc pijaczków, to włóczył się za nią ten młokos, com mu czaszkę sprzedał, a teraz mnie potwarzy przed sądem, żem niby morderca.
+$GEN_029_09x07_06_09
+Znaliście go, zanim sprzedaliście mu czaszkę?
+$GEN_029_09x07_06_10
+Z widzenia, ale nawet nie wiedziałem, że on się uczy na doktora.
+$GEN_029_WIT_00_A_QTitle
+Co łączyło świadka z zamordowaną Laurą Dufort?
+$GEN_029_WIT_00_A_00
+Co łączyło świadka z zamordowaną Laurą Dufort?
+$GEN_029_WIT_00_A_01
+Była mi najbliższą osobą na świecie, znaliśmy się od dziecka, a ten śmieć… Wysoki Sądzie, kochałem ją.
+$GEN_029_WIT_00_A_02
+Z wzajemnością?
+$GEN_029_WIT_00_A_03
+Niestety nie, ale wcześniej czy później pokochałaby mnie niechybnie!
+
+
+$GEN_029_WIT_01_A_QTitle
+Czy świadek jest pewien, że czaszka zakupiona od oskarżonego...
+$GEN_029_WIT_01_A_00
+Czy świadek jest pewien, że czaszka zakupiona od oskarżonego należała do zamordowanej?
+$GEN_029_WIT_01_A_01
+Bezwzględnie.
+$GEN_029_WIT_01_A_02
+Skąd takie silne przekonanie? Macie dowody?
+$GEN_029_WIT_01_A_03
+W dzieciństwie Laura straciła prawą górną jedynkę, niestety przeze mnie. Po tym rozpoznałem, że musiała należeć do niej… Dobry Boże…
+$GEN_029_WIT_01_A_04
+Może być to tylko zwykły zbieg okoliczności.
+$GEN_029_WIT_01_A_05
+Wysoki Sądzie, ja wiem, co mówię. Wszystko się zgadza: linia szczęki, rozstaw oczu… Ten łajdak najpewniej zgwałcił, potem zabił Laurę, a na koniec odciął jej głowę!
+$GEN_029_WIT_01_A_06
+Podczas transakcji Malle mówił, skąd ma czaszkę?
+$GEN_029_WIT_01_A_07
+Mówił, ale kłamał. Powiedział, że wykopał ją w starej części cmentarza.
+$GEN_029_WIT_01_A_08
+Kiedy świadek się zatem zorientował, że czaszka należy do Laury?
+$GEN_029_WIT_01_A_09
+Cóż… Dopiero kiedy zacząłem szkicować ją ołówkiem. Wtedy uderzyło mnie podobieństwo.
+$GEN_029_WIT_01_B_QTitle
+Co świadek może powiedzieć o relacjach łączących oskarżonego i zamordowaną?
+$GEN_029_WIT_01_B_00
+Co świadek może powiedzieć o relacjach łączących oskarżonego i zamordowaną?
+$GEN_029_WIT_01_B_01
+Ten łajdak nagabywał ją za każdym razem, gdy przychodziła na cmentarz!
+$GEN_029_WIT_01_B_02
+Świadek widział to na własne oczy?
+$GEN_029_WIT_01_B_03
+Nie, słyszałem o tym od… od Laury, ale to wystarczający dowód na motywację tego szubrawca. Zasłużył na gilotynę!
+$GEN_029_WIT_01_B_04
+Co dokładnie mówiła wam zamordowana?
+$GEN_029_WIT_01_B_05
+Opowiadała, że do niej krzyczał, wykonywał obrzydliwe gesty, że ciągle zachodził jej drogę i musiała kluczyć między nagrobkami, żeby go wyminąć.
+$GEN_029_WIT_01_B_06
+Czyli świadek nie zawsze towarzyszył zamordowanej w wizytach na cmentarzu?
+$GEN_029_WIT_01_B_07
+Byłem z nią tam tylko raz. Nie chciała, żeby ktokolwiek jej tam towarzyszył.
+$GEN_029_KEY_01
+Znany lubieżnik
+$GEN_029_KEY_02
+Skazany za molestowanie
+$GEN_029_KEY_03
+Zaginiona
+$GEN_029_KEY_04
+Jules Marot
+$GEN_029_KEY_05
+Znajomość ze studentem
+$GEN_029_KEY_06
+Ciało w drewutni
+$GEN_029_KEY_07
+Częsty gość cmentarza
+$GEN_029_KEY_08
+Nagabywanie ofiary
+$GEN_029_KEY_09
+Czaszka Laury
+
+
+$GEN_029_LastDialog_00
+Ciekawe, czy kto mój czerep kupi…
+
+$GEN_029_UNIQUE_QUESTION_00
+Gdzie odnaleziono zwłoki ofiary?
+$GEN_029_UNIQUE_ANSWER_CORRECT_00_00
+W drewutni.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_00_00
+W piwnicy.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_00_01
+W piecu.
+
+$GEN_029_UNIQUE_QUESTION_01
+Po czym żak rozpoznał czaszkę Laury Dufort?
+$GEN_029_UNIQUE_ANSWER_CORRECT_01_00
+Po braku zęba.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Po rozmiarze.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Po kształcie.
+
+$GEN_029_UNIQUE_QUESTION_02
+Czym oskarżony tłumaczył bezczeszczenie zwłok?
+$GEN_029_UNIQUE_ANSWER_CORRECT_02_00
+Niską wypłatą.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Dobrem nauki.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Niezdrową żądzą.
+
+
+

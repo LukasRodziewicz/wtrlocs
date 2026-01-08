@@ -1,0 +1,182 @@
+$GEN_041_DOC_01_HEADER
+Hazırlayan: Nathan d’Essiraf
+$GEN_041_DOC_01_00
+Alain Bras, 37 yaşında dul bir adam, Grenoüillere limanındaki depolardan birinde arabacı olarak çalışıyor. İki yıldır burada görev yapıyor. Sanık, malları meslektaşlarından daha hızlı teslim etmesini sağlayan <a name="1" class="hidden">cesur sürüş tarzıyla</a> tanınıyor.
+$GEN_041_DOC_01_01
+Bras, beş yaşındaki Marcel Gide’yi arabasıyla ezerek öldürmekle suçlanıyor. Çocuk, kazadan kısa bir süre sonra ağır kafa yaraları nedeniyle hayatını kaybetti. Bras’a yalnızca çocuğu ezmek değil, aynı zamanda durup yardım etmemek de suç olarak yöneltiliyor.
+$GEN_041_DOC_01_02
+Tanıkların ifadesine göre, Bras <a name="2" class="hidden">arabasıyla</a> <a name="3" class="hidden">Rue du Croissant</a>’da akıl almaz bir hızla ilerlerken görülmüş; Marcel’in bedeni de orada bulunmuştu. Cesedin incelenmesi hiçbir şüpheye yer bırakmadı – bu denli bir zararı ancak hızla giden bir araba verebilirdi.
+$GEN_041_DOC_01_03
+Bras, cesedin bulunmasından bir buçuk saat sonra gözaltına alındı. Mallarının The Merry Wolf meyhanesi önünde indirilmesini bekliyordu. Sanık <a name="4" class="hidden">tamamen sarhoştu</a> ve ayakta durmakta zorlanıyordu. Arabasının arka tekerlekleri <a name="5" class="hidden">taze kanla kaplıydı</a>.
+$GEN_041_DOC_01_04
+Marcel’in perişan annesi Jeanne Gide, katilin ağır şekilde cezalandırılmasını talep ediyor.
+$GEN_041_OnStart_00
+Vatandaş, adınızı öğrenebilir miyim?
+$GEN_041_OnStart_01
+Benim adım Alain Bras.
+$GEN_041_OnStart_02
+Rue du Gros Chenet ile rue du Croissant kavşağında ölümcül bir kazaya sebep olmakla suçlanıyorsunuz. Ellerinize beş yaşındaki bir çocuğun kanı bulaştı.
+$GEN_041_OnStart_03
+Yemin ederim, o küçük çocuğu ezmedim!
+$GEN_041_OnStart_04
+Pişmanlık göstermemek ya da iş birliğine yanaşmamak hafifletici sebep sayılmaz.
+$GEN_041_OnStart_05
+Vaktimizi harcamayın, suçlu bu adam!
+$GEN_041_OnGuilty_00
+Vatandaş Alain Bras’ı giyotinle ölüme mahkûm ediyorum! Mahkûmu götürün.
+$GEN_041_OnGuilty_01
+Göz göze, kan kana!
+$GEN_041_OnGuilty_02
+Yaptığı şey için bu ceza bile hafif kalır.
+$GEN_041_OnPrison_00
+Vatandaş Alain Bras’ı hapis cezasına çarptırıyorum! Mahkûmu dışarı çıkarın.
+$GEN_041_OnPrison_01
+Umarım orada çürür!
+$GEN_041_OnPrison_02
+Kellesi gitmeli!
+$GEN_041_OnPrison_03
+Yani, anne babalar çocuklarını kaybetti ama o alçak yaşamaya devam edecek öyle mi? Bu adil görünmüyor.
+$GEN_041_OnNotGuilty_00
+Alain Bras hakkında verilen hüküm... beraat! Sanığı götürün.
+$GEN_041_OnNotGuilty_01
+Bu sırada çocuğun annesi gözyaşlarına boğulmuş! Adalet nerede?!
+$GEN_041_OnNotGuilty_02
+Katılamam. Suçlu olduğu herkesin malumu!
+$GEN_041_02x05_00_QTitle
+Arabanızın arka tekerleklerinde kan vardı. Nereden gelmiş?
+$GEN_041_02x05_00_00
+Arabanızın arka tekerleklerinde kan vardı. Nereden gelmiş?
+$GEN_041_02x05_00_01
+Bir köpeğindi. Neşeli Kurt’un yakınlarında bir tanesini ezdim.
+$GEN_041_02x05_00_02
+Gerçekten mi? Her şey, ezilen çocuğun kanının sanık tarafından döküldüğünü gösteriyor.
+$GEN_041_02x05_00_03
+İmkansız! Bir çocuğun tekerlerimin altına düştüğünü bilirdim.
+$GEN_041_02x05_00_04
+Beş yaşındaki bir çocuk, büyük bir köpek kadar büyüktür. Belki de dikkatli bakmadınız?
+$GEN_041_02x05_00_05
+Olmaz, havlamayı duydum.
+$GEN_041_02x05_00_06
+O kadar içki içmişti ki, çocuğu inekten ayırt edemezdi!
+$GEN_041_02x03_01_QTitle
+Croissant Sokağı’ndan geçtiniz mi?
+$GEN_041_02x03_01_00
+Croissant Sokağı’ndan geçtiniz mi?
+$GEN_041_02x03_01_01
+Evet, yaptım. Malları hana götürebilmek için Gros Chenet Sokağı’ndan dönmem gerekti.
+$GEN_041_02x03_01_02
+Ve sanırım etrafı gezip görmeye vakit ayırmadınız?
+$GEN_041_02x03_01_03
+Yani acele mi ettim diyorsunuz? Elbette ettim! Zaman dardı, müşteriler bekliyordu, kaybedecek vaktim yoktu.
+$GEN_041_02x03_01_04
+Kaybedecek vakit yok, çünkü…?
+$GEN_041_02x03_01_05
+Şey... çünkü malların zamanında teslim edilmesi gerekiyor, değil mi?
+$GEN_041_02x03_01_06
+Yani kaza yapmayı göze aldınız?
+$GEN_041_02x03_01_07
+Susamış adam şişeye koştu.
+$GEN_041_02x03_01_08
+Yani atları olabildiğince hızlı sürdüğünüzü kabul ediyorsunuz?
+$GEN_041_02x03_01_09
+Evet, tabii, ama bu beni bir katil yapmaz. Paris'te başka arabacılar da var, benden önce ya da sonra geçen biri de olabilir.
+$GEN_041_02x03_01_10
+Tabii ya, suçu başkasına at, pislik herif!
+$GEN_041_03x04_02_QTitle
+O Cuma günü güzergâhına çıkmadan önce ne kadar içki içtin?
+$GEN_041_03x04_02_00
+O cuma günü güzergâhınıza çıkmadan önce ne kadar içtiniz?
+$GEN_041_03x04_02_01
+Sadece bir küçük kadeh, Mösyö Yargıç.
+$GEN_041_03x04_02_02
+Yani rue du Croissant’a vardığınızda, zaten alkolün etkisi altındaydınız?
+$GEN_041_03x04_02_03
+Dostum, ben iri yarı biriyim. Bir kadeh şarap bana su gibi gelir. Her zamanki gibi ayıktım direksiyonda.
+$GEN_041_03x04_02_04
+Bahse girerim, o arabasına atladığında her zaman kafası güzel oluyordur.
+$GEN_041_03x04_02_05
+Ama yine de, yetkililer sizi Neşeli Kurt'un önünde bulduklarında sırılsıklam sarhoştunuz.
+$GEN_041_03x04_02_06
+Yolumun sonuna gelmiştim, iyi yürekli ev sahibi bana bir şişe brendi getirdi. Tabii ki hemen hallettim onu. Sonuçta iş bitmişti, değil mi?
+$GEN_041_03x04_02_07
+Vicdanını susturmak için içti!
+$GEN_041_03x04_02_08
+Zorlu bir günün ardından bir an önce içki içmek için mi acele ettiniz?
+$GEN_041_03x04_02_09
+Yani, evet, bunda bir şey yo... Dur, hayır, öyle bir şey değil.
+$GEN_041_01x02_03_QTitle
+Kendinize dikkatli bir arabacı demezsiniz herhalde, değil mi?
+$GEN_041_01x02_03_00
+Kendinize ihtiyatlı bir arabacı demezsiniz herhalde, değil mi?
+$GEN_041_01x02_03_01
+Belli bir saatte, belli bir yerde olmam gerekiyor. İşim bu, yavaşlara göre değil.
+$GEN_041_01x02_03_02
+Bütün arabacılar öyle bir hızla mı gidiyor ki sokakta oynayan çocukları fark etmiyorlar?
+$GEN_041_01x02_03_03
+Kimseyi ezmedim! Paris’teki herhangi bir arabacı yapmış olabilir.
+$GEN_041_01x04_04_QTitle
+Alkol aldıktan sonra daha mı iyi araç kullanıyorsunuz?
+$GEN_041_01x04_04_00
+Alkol aldıktan sonra daha mı iyi araç kullanıyorsunuz?
+$GEN_041_01x04_04_01
+Bilmem, ama sağlığın için aç karnına bir kadeh içmelisin. Yoksa ellerin öyle titrer ki dizginleri tutamazsın.
+$GEN_041_01x04_04_02
+Hiç onsuz araba kullanmayı denedin mi?
+$GEN_041_01x04_04_03
+Hey, ne ima ediyorsun? Ben sarhoş değilim!
+$GEN_041_01x04_04_04
+Şuna bak, ne de gururlu!
+$GEN_041_01x04_04_05
+Yeter artık, gevezeliği bırakın ve kafasını kesin!
+$GEN_041_02x04_05_QTitle
+Çok mu içiyorsunuz?
+$GEN_041_02x04_05_00
+Çok mu içiyorsunuz?
+$GEN_041_02x04_05_01
+Karım öldüğünden beri biraz daha fazla, ama diğer arabacılardan fazla değil. Mesleğin gereği bu.
+$GEN_041_02x04_05_02
+Yani, sık sık sarhoşken mi araç kullanıyorsunuz?
+$GEN_041_02x04_05_03
+Yapsam beni kapı önüne koyarlar! İş başlamadan önce bir iki kadehten fazlasını içmem. Asıl eğlence işi bitirince başlar.
+$GEN_041_02x04_05_04
+İkiden fazla olmasın? Sarhoş bir arabacının sizi götürmesini ister miydiniz?
+$GEN_041_02x04_05_05
+Bana ne? Zaten fakirim, kim beni taşıyacak ki.
+$GEN_041_02x04_05_06
+Umurunda değil.
+$GEN_041_KEY_01
+Cesur sürüş tarzı
+$GEN_041_KEY_02
+Araba sürme
+$GEN_041_KEY_03
+Rue du Croissant
+$GEN_041_KEY_04
+Sarhoş arabacı
+$GEN_041_KEY_05
+Taze kan
+$GEN_041_LastDialog_00
+Hayır, hayır, hayır, o ben değildim!
+$GEN_041_UNIQUE_QUESTION_00
+Bras, aracının tekerleklerindeki kanı nasıl açıkladı?
+$GEN_041_UNIQUE_ANSWER_CORRECT_00_00
+Bir köpeği ezdi.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Kanıyordu.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Bu, Muhafızlar tarafından kurulmuş bir tuzaktı.
+$GEN_041_UNIQUE_QUESTION_01
+Sanık, yola çıkmadan önce bir şey içtiğini kabul etti mi?
+$GEN_041_UNIQUE_ANSWER_CORRECT_01_00
+Bir küçük kadeh.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Bir bardak bira.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Birkaç yudum şarap.
+$GEN_041_UNIQUE_QUESTION_02
+Sanık neden bu kadar hızlı sürdü?
+$GEN_041_UNIQUE_ANSWER_CORRECT_02_00
+Malları zamanında teslim etmek istedi.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ailesini görmek için acele ediyordu.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Bir arkadaşıyla iddiaya girmişti.

@@ -1,0 +1,160 @@
+$FAB_021_DOC_01_HEADER
+Compilado por: Fabrice Poli
+$FAB_021_DOC_01_00
+La acusada es... Bueno, usted la conoce muy bien, monsieur le juge, y sabe mejor que nadie de qué se le acusa, pero como secretario diligente, continuaré por el bien de la exhaustividad. Se le acusa de intento de asesinato.
+$FAB_021_DOC_01_01
+Ayer, Mathilde Fidèle utilizó <a name="2" class="hidden">un cuchillo de cocina</a> para apuñalar a su esposo, el juez Alexis Fidèle, en la entrada del Tribunal Revolucionario. Según los testigos, fue reducida de inmediato y sin dificultad, ya que la acusada arrojó rápidamente el arma al suelo y <a name="3" class="hidden">no ofreció resistencia</a>.
+$FAB_021_DOC_01_02
+Lamentablemente, debo añadir otra información. Al parecer, la acusada mantenía <a name="4" class="hidden">una relación amorosa</a> con el excomandante en jefe de la Guardia Nacional, François Hanriot. Pude averiguar que fueron vistos juntos en varias ocasiones después de que él solicitara el cargo de comandante en jefe. Al registrar el apartamento de Hanriot tras su muerte, encontramos cartas que sugerían una relación con una mujer casada. No contenían nombres, por lo que no fue sencillo identificar a la amante del comandante, pero ahora no nos queda duda. Al mismo tiempo, se ha revelado un posible motivo para el asesinato: como sabemos, Hanriot fue asesinado tras <a name="5" class="hidden">un enfrentamiento defendiendo a Robespierre</a> de nuestras tropas.
+$FAB_021_DOC_01_03
+En cuanto a otros rumores sobre sus <a name="6" class="hidden">relaciones familiares</a>, guardaré silencio, pues usted sabe mejor que yo lo que es verdad.
+$FAB_021_OnStart_00
+La acusada puede presentarse.
+$FAB_021_OnStart_01
+No hagas bromas. Sabes quién soy.
+$FAB_021_OnStart_02
+No estoy de humor para bromas. Hable en voz alta.
+$FAB_021_OnStart_03
+Mathilde Fidèle, la esposa del juez que hoy preside aquí. ¿Ya estás satisfecho?
+$FAB_021_OnGuilty_00
+No puede haber otro veredicto: es culpable. Lo siento, Mathilde.
+$FAB_021_OnGuilty_01
+Entonces, directo a la guillotina.
+$FAB_021_OnGuilty_02
+Vaya drama.
+$FAB_021_OnGuilty_03
+¿Está dispuesto a decapitar a su propia esposa?
+$FAB_021_OnNotGuilty_00
+Déjala ir. Liberen a mi esposa.
+$FAB_021_OnNotGuilty_01
+No es la primera vez que infringes la ley por tu propio beneficio. Es cuestión de costumbre, ¿verdad?
+$FAB_021_OnNotGuilty_02
+No puedo comentar sobre eso. Simplemente no puedo.
+$FAB_021_OnNotGuilty_03
+¿La ha perdonado?
+$FAB_021_01x03_00_QTitle
+¿Por qué estaba tan tranquilo durante el arresto?
+$FAB_021_01x03_00_00
+¿Por qué se mostró tan sereno durante el arresto?
+$FAB_021_01x03_00_01
+Te apuñalé delante de todos. ¿Cómo podría haber escapado?
+$FAB_021_01x03_00_02
+Es cierto. Apunaló a su propio esposo. ¿Acaso sintió algo?
+$FAB_021_01x03_00_03
+Solo siento náuseas cuando veo a mi esposo. Y así ha sido desde hace mucho tiempo.
+$FAB_021_01x03_00_04
+¿Así que no siente remordimiento ni conflicto de conciencia?
+$FAB_021_01x03_00_05
+Mi único pesar es no haberlo apuñalado con más fuerza.
+$FAB_021_01x03_00_06
+Una auténtica fiera.
+$FAB_021_01x03_00_07
+¿Y me lo dices así, de frente?
+$FAB_021_01x03_00_08
+Te merecías la muerte. ¿Quién más se atrevería a decírtelo?
+$FAB_021_01x04_01_QTitle
+¿Fue su aventura la causa del ataque?
+$FAB_021_01x04_01_00
+¿Fue su aventura la causa del ataque?
+$FAB_021_01x04_01_01
+De verdad no sabes nada sobre tu propia familia.
+$FAB_021_01x04_01_02
+¡Responda!
+$FAB_021_01x04_01_03
+Contrólate, Antoine.
+$FAB_021_01x04_01_04
+Mi aventura no fue la causa, sino las tuyas: tus asuntos con mujeres, poder, dinero y alcohol. No supiste ocultarlos, y tampoco querías renunciar a ellos.
+$FAB_021_01x04_01_05
+¡No hubo infidelidades!
+$FAB_021_01x04_01_06
+¿No? ¿Y tu sed de poder? ¡La ansías! ¿Cuántas personas has matado para conseguirla?
+$FAB_021_01x04_01_07
+Está insinuando...
+$FAB_021_01x04_01_08
+No insinúo nada, solo expongo un hecho. Tu ansia de poder ha llevado a nuestra familia al borde del desastre, ¿y aún así me preguntas por mi aventura?
+$FAB_021_04x05_02_QTitle
+¿Cuánto tiempo duró su aventura?
+$FAB_021_04x05_02_00
+¿Cuánto tiempo duró su aventura?
+$FAB_021_04x05_02_01
+Desde que Hanriot vino a pedirte apoyo para su candidatura a comandante en jefe. Así que, bastante tiempo.
+$FAB_021_04x05_02_02
+¿Cómo lograste mantenerlo en secreto todo este tiempo?
+$FAB_021_04x05_02_03
+Mi esposo quedó cegado por el esplendor que lo rodeaba, por las luchas y la sangre derramada. Ya no le importaban los detalles…
+$FAB_021_04x05_02_04
+Nunca pensé que tendría que vigilar a mi propia esposa.
+$FAB_021_04x05_02_05
+Y nunca pensé que tendría que matar a mi marido para librarme de él. Entregarme a otro no sirvió de nada, ¡ni siquiera lo notaste! Al menos por fin te diste cuenta de algo cuando hundí el cuchillo entre tus costillas.
+$FAB_021_02x06_03_QTitle
+¿Cómo eligió su arma?
+$FAB_021_02x06_03_00
+¿Cómo eligió su arma?
+$FAB_021_02x06_03_01
+No lo pensé demasiado. Tenía que ser algo afilado y eficaz, y que pudiera tener a mano cuando lo necesitara.
+$FAB_021_02x06_03_02
+Habla de este asunto sin mostrar ninguna emoción…
+$FAB_021_02x06_03_03
+¿Qué esperabas? Querías tomar las decisiones, ¿pero cuáles? Te has elevado por encima de todos, te han dado el poder de decidir quién vivirá y quién no. Pero, a diferencia de nosotros, no quieres cargar con las consecuencias.
+$FAB_021_02x06_03_04
+Casi te ha hecho sentirte como un dios, pues solo Él está libre del peso de sus decisiones; pero sigues siendo humano. Quieres un trato especial, y sin embargo eres solo uno entre millones. ¿Qué te hace sentirte más importante que quienes nos han elevado?
+$FAB_021_02x06_03_05
+¿De quién está hablando?
+$FAB_021_02x06_03_06
+Tu ciego deseo de decidir te ha convertido en una molestia para ellos, pero eres necesario para que su obra alcance la perfección. Quieres poder, quieres ser el primero, pero solo recibirás lo que entregues.
+$FAB_021_02x06_03_07
+Este odio no puede detenerse. Sus desvaríos incoherentes muestran que la mujer ha perdido la razón.
+$FAB_021_04x06_04_QTitle
+Cuando tuviste tu aventura, ¿pensaste en el impacto que tendría en tu familia?
+$FAB_021_04x06_04_00
+Cuando tuviste tu aventura, ¿pensaste en cómo afectaría a tu familia?
+$FAB_021_04x06_04_01
+Por supuesto que esperaba que tuviera algún efecto. Esperaba que mi marido desapareciera, que se marchara, y que mi familia sobreviviera. Al menos una parte de ella.
+$FAB_021_04x06_04_02
+Hasta donde sé, aún conserva esa esperanza.
+$FAB_021_04x06_04_03
+Hasta donde tú sabes. Ya no me engaño, pronto estaré muerto, y el hecho de que mi familia se desmorone ya no será mi problema.
+$FAB_021_04x06_04_04
+¿No es tu problema? ¿Cómo puedes decir eso? Sigues siendo madre…
+$FAB_021_04x06_04_05
+¡Ni se te ocurra… ¡No te atrevas! ¿Madre?! A uno de mis hijos lo ahorcaron, y al otro lo dejaron marcado tras atarlo a una silla de tortura. ¿Y por qué? Por tu sed de poder. ¡La tuya! ¡Tú, sentado ahí, eres el culpable!
+$FAB_021_04x06_04_06
+Cuide su lengua…
+$FAB_021_04x06_04_07
+Tuve que presenciarlo todo, soportarlo todo, y no pude hacer nada para evitarlo. ¡Jugaste con nuestras vidas! Ese cuchillo entre tus costillas es la primera vez que he tenido la oportunidad de cambiar algo.
+$FAB_021_06x05_05_QTitle
+¿Cómo reaccionó ante la muerte del traidor, Hanriot?
+$FAB_021_06x05_05_00
+¿Cómo reaccionó ante la muerte del traidor, Hanriot?
+$FAB_021_06x05_05_01
+…
+$FAB_021_06x05_05_02
+¿Entiende la pregunta?
+$FAB_021_06x05_05_03
+Me dolió mucho, pero fue aún peor tener que compartir la cama con el hombre responsable de su muerte: mi esposo.
+$FAB_021_06x05_05_04
+Hanriot traicionó a Francia.
+$FAB_021_06x05_05_05
+No más que el Juez de este Tribunal ha traicionado a su familia, cosa que ha hecho en repetidas ocasiones.
+$FAB_021_06x05_05_06
+¡Siempre has sido la persona más importante para mí!
+$FAB_021_06x05_05_07
+Y ahora también te traicionas a ti mismo. Sabes muy bien que el poder está en un pedestal. ¿Así fue como te compraron? ¡Construye poder en París! ¡Dicta sentencias! ¿Se olvidaron de mencionar a tu familia?
+$FAB_021_06x05_05_08
+Lo hicieron…
+$FAB_021_06x05_05_09
+Entonces no escuchaste bien, porque tu familia acaba de desmoronarse.
+$FAB_021_KEY_01
+Intento de asesinato
+$FAB_021_KEY_02
+Arma
+$FAB_021_KEY_03
+No ofreció resistencia durante el arresto
+$FAB_021_KEY_04
+Aventura del acusado
+$FAB_021_KEY_05
+Muerte del amante
+$FAB_021_KEY_06
+Relaciones familiares
+$FAB_021_LastDialog_00
+Me reuniré con mi hijo en el Cielo. Al menos sé que allí no podrás encontrarnos.

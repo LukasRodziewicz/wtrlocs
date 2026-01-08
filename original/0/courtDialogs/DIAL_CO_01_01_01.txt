@@ -1,0 +1,28 @@
+$DIAL_CO_01_01_02_001_JLDAVID
+Przypominam, że obiecałeś ze mną pójść. Czuję, że księżyc sprzyja dzisiaj hazardzistom.
+$DIAL_CO_01_01_02_002_JUDGE
+Przestał natomiast sprzyjać relacjom małżeńskim…
+$DIAL_CO_01_01_02_003_JLDAVID
+Bóg powinien nas wyposażyć w żony, które rozumieją wagę wieczornej gry w kości. A także to, że warunkiem koniecznym udanego rzutu jest odpowiednia ilość wina…
+$DIAL_CO_01_01_02_004_JUDGE
+Powinienem wracać do domu.
+$DIAL_CO_01_01_02_005_JLDAVID
+Przyprowadzenie sędziego nie jest zupełnie bezzasadne – mam pewność, że nikt nie będzie oszukiwał.
+$DIAL_CO_01_01_02_006_JUDGE
+Słaby argument.
+$DIAL_CO_01_01_02_007_JLDAVID
+Jestem Jacques-Louis David, skromny malarz, a nie złotousty sędzia.
+$DIAL_CO_01_01_02_008_JUDGE
+Jesteś cwanym politykiem, Jacques.
+$DIAL_CO_01_01_02_009_JLDAVID
+I jako polityk oraz twój przyjaciel rozumiem konieczność dotrzymywania składanych obietnic. A ty ze swojej próbujesz się wymigać.
+
+$DIAL_CO_01_01_02_C1
+Spełnij obietnicę
+$DIAL_CO_01_01_02_C2
+Idź do domu
+
+$DIAL_CO_01_01_02_010_JUDGE
+Eh, w porządku, ale tylko na chwilę.
+$DIAL_CO_01_01_02_011_JUDGE
+Nie dzisiaj, Jacques.

@@ -1,0 +1,42 @@
+$DISC_INTR_001_B04_ELLIOTT_001_JUDGE_AGGR
+Roland tam bir asalak. Yolsuzluk, yeni yönetimin simgesi olamaz.
+$DISC_INTR_001_B04_ELLIOTT_002_JUDGE_MANI
+Roland gerçekten halkı mı temsil ediyor? Yoksa aslında Capet ve hizmetkârlarının çıkarı için mi çalışıyor?
+$DISC_INTR_001_B04_ELLIOTT_003_JUDGE_JOKE
+Roland’dan, kendi iyiliği için kurtulmamız gerek. Cebindeki paralar yüzünden yakında cepleri patlayacak.
+$DISC_INTR_001_B04_ELLIOTT_004_JUDGE_HUMI
+Fransa kan kaybediyor ve Roland gibileri yaralarını sarmasına izin vermiyor. Aksine, onları daha da derinleştiriyorlar.
+$DISC_INTR_001_B04_ELLIOTT_005_ELLIOTT_INTR
+Kim tahmin edebilirdi ki bir koyundan bir kurda dönüşüp, yaralı avın kokusunu bu kadar çabuk alacaksınız?
+$DISC_INTR_001_B04_ELLIOTT_006_ELLIOTT_DOUB
+Rolandları tanırız. Madam Roland yönetir, kocası ise onun emirlerini yerine getirir. Belki de suçlu olan o değildir?
+$DISC_INTR_001_B04_ELLIOTT_007_ELLIOTT_IRRI
+Bu şehirde hayatta kalmamın sebebi, erkeklerin oynadığı kirli oyunlara karışmamış olmamdır.
+$DISC_INTR_001_B04_ELLIOTT_008_JUDGE_AGGR
+Roland yalnızca rüşvet almakla suçlu değil. Devrim Mahkemesi yargıcını tehdit etti. Bağımsız yargı tehlikede!
+$DISC_INTR_001_B04_ELLIOTT_009_JUDGE_MANI
+Cezadan kaçmak için Roland bana karşı bir intikam savaşı başlattı. Bunu yaparak, yeni düzene savaş ilan etmiş olmadı mı?
+$DISC_INTR_001_B04_ELLIOTT_010_JUDGE_JOKE
+Bay ve Bayan Roland, iki sivrisinek gibi, beni ısırıyor, Fransa’nın kanını emiyorlar. Kimse sivrisinekleri sevmez.
+$DISC_INTR_001_B04_ELLIOTT_011_JUDGE_HUMI
+Bakana karşı şahsi antipatim, bu yozlaşmış kralcıyı daha adil biriyle değiştirmemiz gerektiği gerçeğini değiştirmez.
+$DISC_INTR_001_B04_ELLIOTT_012_JUDGE_AGGR
+Eğer milletvekillerini ikna etmezseniz, bu, hâlâ tüm Fransa’da etkisini sürdüren hainlere göz yumduğunuzun kanıtı olacaktır!
+$DISC_INTR_001_B04_ELLIOTT_013_JUDGE_MANI
+Vekiller, Roland’dan kurtulmak istediğini görürse, belki artık seni kralcı olmakla suçlamazlar?
+$DISC_INTR_001_B04_ELLIOTT_014_JUDGE_JOKE
+Girondinler çoğu zaman kendi ayaklarına takılır. Onlara hafifçe itmek yeterlidir.
+$DISC_INTR_001_B04_ELLIOTT_015_JUDGE_HUMI
+Bazen Roland, Eski Rejim’e Louis’den bile daha yakın duruyor. Eski düzeni tamamen ortadan kaldırmak istiyorsanız, işte fırsatınız.
+$DISC_INTR_001_B04_ELLIOTT_016_ELLIOTT_INTR
+Başta Bakan Roland’a karşı mücadele etmekten emin değildim, ama itiraf etmeliyim ki beni ikna ettiniz. Bu iş olabilir, size yardım edeceğim.
+$DISC_INTR_001_B04_ELLIOTT_017_ELLIOTT_DOUB
+Benim ve arkadaşlarımın İçişleri Bakanı’nı görevden almaya çalışmasından bir çıkarımız olmaz.
+$DISC_INTR_001_B04_ELLIOTT_018_ELLIOTT_IRRI
+Fransa’nın en büyük sorunu Roland değil, aç yurttaşlardır!
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_01
+Ne elde etmek istiyoruz?
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_02
+Bunu neden istiyoruz?
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_03
+Bundan ne çıkarı olacak?

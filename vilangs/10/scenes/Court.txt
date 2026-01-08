@@ -1,0 +1,240 @@
+$MENTOR_HELP_AVAIBLE_TIP1
+Mentorunuzun yardımı <color="#ff0000">{0} Nüfuz Puanı</color> tutarındadır
+$MENTOR_HELP_NOT_ENOUGH
+Yeterli Etki Puanınız yok.
+$GUILTY_RAW
+Suçlu
+$NOTGUILTY_RAW
+Suçsuz
+$SIGNATURE_TIP
+Kararı kabul etmek için belgeyi imzalayın.
+$VERDICT_SELECT
+Bir hüküm seçin:
+$GUILTY_VERDICT_MALE
+Sanığı suçlu buluyor ve idama mahkûm ediyorum.
+$PRISON_VERDICT_MALE
+Sanığı suçlu buluyor ve hapis cezasına çarptırıyorum.
+$NOTGUILTY_VERDICT_MALE
+Sanığı suçsuz buluyorum.
+$GUILTY_VERDICT_FEMALE
+Sanığı suçlu buluyor ve idam cezasına çarptırıyorum.
+$PRISON_VERDICT_FEMALE
+Sanığı suçlu buluyor ve onu hapis cezasına çarptırıyorum.
+$NOTGUILTY_VERDICT_FEMALE
+Sanığı suçsuz buluyorum.
+$CASE_FILES
+Dava Dosyası
+$VERDICT
+Karar
+$PROTOCOL
+Protokol
+$VERDICT_FORM
+Karar Formu
+$NEWSPAPER
+Gazete
+$EVENT_ITEM
+Haberler
+$JURY_ON_START_DISEBLE_01
+Bu dava bizim için yeterince önemli değil. Onunla dilediğiniz gibi ilgilenin.
+$JURY_ON_END_TOO_FAST_01
+Bir hüküm mü? Şimdiden mi?! Peki ya duruşma?
+$JURY_ON_END_DISAGREE_01
+Söylediklerimizin bir önemi var mı? Gelecekte bizi dikkate alsanız iyi edersiniz!
+$GROUP_ATTITUDE_HEADER
+Kararın Fraksiyonlar Üzerindeki Etkisi
+$PROSECUTOR_PROTOCOL_SIGNED
+Savcı raporunuzu imzaladı.
+$PROSECUTOR_PROTOCOL_UNSIGNED_DISABLE
+Savcıdan bir iyiliğiniz yok.
+$PROSECUTOR_PROTOCOL_UNSIGNED_ENABLE
+Savcıdan bir iyilik talep et.
+$JURY_HEADER
+Jüri Görüşü
+$JURY_SUPPORT_HIGH
+Dostça
+$JURY_SUPPORT_NEUTRAL
+Tarafsız
+$JURY_SUPPORT_LOW
+Düşmanca
+$JURY_SENTENCE
+Jüri Görüşü
+$JURY_SENTENCE_GUILTY
+Jüri Görüşü: İdam Cezası
+$JURY_SENTENCE_PRISON
+Jüri Görüşü: Hapis
+$JURY_SENTENCE_NOT_GUILTY
+Jüri Görüşü: Beraat
+$JURY_SENTENCE_HIDDEN
+Jüri henüz kararını açıklamadı.
+$JURY_NO_SENTENCE
+Jüri bu davayla ilgili bir görüş belirtmedi.
+$JURY_SUPPORT
+Jüri lehine eğilim.
+$KEYWORD_MATCH_SUCCESS
+Soru ortaya çıktı
+$KEYWORD_MATCH_FAILURE
+Geçersiz bağlantı
+$KEYWORD_MATCH_TRAP
+Tuzakta yakalandı
+$KEYWORD_NO_MORE_CONNECTIONS
+Tüm bağlantılar kullanıldı
+$KEYWORD_ALL_CONNECTIONS_UNLOCKED
+Tüm sorular açıldı
+$KEYWORD_LOCKED_INFORMATION
+Keşfedilmedi
+$DIALOG_SENTENCE_ICON_TIP
+Jüri görüşü üzerindeki etki
+$DISMISS_WITNESS
+Tanığı serbest bırak
+$VERDICT_HEADER_FIRST
+MAHKEME
+$VERDICT_HEADER_SECOND
+DEVRİMCİ
+$MENTOR_FIRSTAGGRESSIONTUTORIAL
+Dikkatli olun, halk huzursuz. Jüriyi ve savcıyı etkilemeye çalışabilirsiniz, ancak kararı ne kadar geciktirirseniz, olası sonuçlar o kadar ağır olur.
+$VERDICTWINDOW_JURY_NONE_MALE
+Jüri henüz bir karara varmadı. Daha fazla soru sorun.
+$VERDICTWINDOW_JURY_GUILTY_MALE
+Jüri, sanığın derhal idam edilmesi lehine oy kullandı.
+$VERDICTWINDOW_JURY_NOTGUILTY_MALE
+Jüri, sanığın beraatine karar verdi. Onu suçsuz buldular.
+$VERDICTWINDOW_JURY_PRISON_MALE
+Jüri, sanığın hapsedilmesi yönünde oy kullandı. Bu cezayı yeterli buluyorlar.
+$VERDICTWINDOW_JURY_NONE_FEMALE
+Jüri henüz bir karara varmadı. Daha fazla soru sorun.
+$VERDICTWINDOW_JURY_GUILTY_FEMALE
+Jüri, sanığın derhal başının kesilmesi lehine oy kullandı.
+$VERDICTWINDOW_JURY_NOTGUILTY_FEMALE
+Jüri, sanığın beraatine karar verdi. Onu suçsuz buldular.
+$VERDICTWINDOW_JURY_PRISON_FEMALE
+Jüri, sanığın hapsedilmesi yönünde oy kullandı. Bu cezayı yeterli buluyorlar.
+$VERDICTWINDOW_JURY_SUPPORT
+Jüri
+$VERDICTWINDOW_PROSECUTOR_SUPPORT
+Savcı
+$TRIAL_SUMMARY
+Duruşma Özeti
+$UNLOCKED_QUESTIONS
+Açılan soru: {0}/{1}
+$VERDICTWINDOW_GROUP_HEADER
+İstihbarat
+$STARTING_TRIAL_DIALOG_HEADER
+Duruşmayı Başlat
+$VERDICT_HEADER
+DEVRİM TRİBÜNALİ
+$AUDIENCE_ATTITUDE_TOOLTIP_0
+Halk memnun
+$AUDIENCE_ATTITUDE_TOOLTIP_1
+Halk sakin
+$AUDIENCE_ATTITUDE_TOOLTIP_2
+Halk tedirgin
+$AUDIENCE_ATTITUDE_TOOLTIP_3
+Halk huzursuz
+$AUDIENCE_ATTITUDE_TOOLTIP_4
+Halk öfkeli
+$VERDICTWINDOW_DESC_VERDICT_NOT_SELECTED
+Bir karar seçerek fraksiyonlar üzerindeki etkisini görebilirsiniz
+$VERDICTWINDOW_DESC_VERDICT_SELECTED
+Kararın sonuçları, Fraksiyon ilişkilerine göre belirlendi
+$VERDICTWINDOW_NO_INFO_TIP
+Bilgi yok
+$VERDICTWINDOW_GAMEOVER_PEOPLE
+Ölüm riski
+$VERDICTWINDOW_GAMEOVER_REVO
+Görevden alınma riski
+$VERDICTWINDOW_ADDITIONAL_REPUTATION
+İtibar bonusu.
+$VERDICTWINDOW_UNLOCK_FROM_MAP_MISSION_TOOLTIP
+Haritada açıldı
+$VERDICTWINDOW_GROUPCHANGE_LOCKED_TOOLTIP
+Etkisini görmek için fraksiyonla ilişkiniz çok düşük
+$DIALOG_HUB_HEADER
+Sanığa sorular
+$WITNESS_QUESTIONS_HUB_HEADER
+Tanığa sorular
+$KEYWORD_LOCKED_TOOLTIP
+Kilidi açmak için dosyaları inceleyin
+$DESIRED_VERDICT_PANEL_HEADER
+Beklenen hüküm
+$PROTOCOL_QUIZ_SUMMARY_CORRECT
+Doğru cevap
+$PROTOCOL_QUIZ_SUMMARY_INCORRECT
+Yanlış cevap
+$PROTOCOL_QUIZ_MENTOR_BUTTON_NOT_ENOUGHT
+Yeterli Etki Puanı yok
+$PROTOCOL_QUIZ_MENTOR_BUTTON_ACTIVE
+Mentorunuzun yardımını <color="#ff0000">{0} IP</color> karşılığında alın
+$PROTOCOL_QUIZ_PROSECUTOR_BUTTON_INACTIVE
+Savcının iyiliğini kullanamazsınız
+$PROTOCOL_SUMMARY_RESULT_TITLE
+Rapor sonuçları:
+$SUMMARY_EFFECTS
+Etkiler
+$SUMMARY_ATTITUDE_POSSITIVE
+Olumlu etki
+$SUMMARY_ATTITUDE_NO_CHANGE
+Etkisi yok
+$SUMMARY_ATTITUDE_NEGATIVE
+Olumsuz etki
+$PROTOCOL_QUIZ_TITLE
+Rapor
+$PROTOCOL_RESULT_WORST
+{0}/{1} Kabul edilemez!
+$PROTOCOL_RESULT_BAD
+{0}/{1} Kötü iş!
+$PROTOCOL_RESULT_GOOD
+{0}/{1} Aferin!
+$PROTOCOL_REASON_01
+Hatalı seçim.
+$PROTOCOL_SIGNATURE_TOOLTIP
+Raporu onayla.
+#FAMILY
+Aile
+$VERDICT_RELATIONSHIP_HEADER
+Yargıç Raporları
+$PROTOCOL_JURY_SENTENCE_CHANGE_TOOLTIP
+Jüri Kararının Değiştirilmesi:
+$PROTOCOL_QUIZ_JUDGE_SIGNATURE
+Yargıcın İmzası
+$PROTOCOL_QUIZ_PROSECUTOR_SIGNATURE
+Savcının İmzası
+$JURY_EFFECT_HEADER
+Jüri Etkisi:
+$PROSECUTOR_QUEST_MAIN
+Dünkü zar oyunundan sonra bana borçlu olduğunuzu hatırlatayım mı? Dün kaybettiniz, hatırladınız mı?
+$PROSECUTOR_QUEST_GUILTY
+Sanık bugün ölecek.
+$PROSECUTOR_QUEST_PRISON
+Sanığın hapse girmesini istiyorum.
+$PROSECUTOR_QUEST_NOT_GUILTY
+Sanık serbest bırakılsın!
+$PROSECUTOR_BAD_QUIZ_POPUP
+Böylesine özensiz bir raporu asla imzalamam. Dikkat edin, bu iş sizi giyotine göndermesin!
+$VERDICT_LOCKED_TEXT
+Bu davada kullanılamaz
+$VERDICT_LOCKED_TEXT_BUILDING
+Birisi üstlerinizi bu raporun zaman kaybı olacağına ikna etmiş.
+$FLASHCARDS_DISABLED_TOOLTIP
+Hızlı Yargılar henüz kullanılamıyor
+$GUILTY_VERDICT_PROLOG
+Sanığı, kendisine yöneltilen suçtan dolayı suçlu buluyorum.
+$FLASHCARDS_PROSECUTOR_ENTER
+Bugün yalnızca birkaç önemsiz davayla ilgileneceğiz.
+$FLASHCARDS_PROSECUTOR_EXIT
+Teşekkür ederim. En güçsüz olanlar bile adaleti hak eder.
+$QUIZ_DIALOG_SOURCE_LOCKED_TOOLTIP
+Sorgu sırasında konuya değinilmedi.
+$KEYWORDVIEW_NUMBER_OF_CHANGES
+Olası hatalar
+$KEYWORDVIEW_NUMBER_OF_TRAPS
+Tuzak sayısı
+$KEYWORD_VIEW_NUMBER_OF_QUESTIONS_LEFT
+Açığa çıkarılacak soru: {0}
+$KEYWORD_VIEW_BUTTON_TOOLTIP
+Soruları aç
+$VERDICT_FLASHCARDS_EMPTY_LABEL
+Bugün başka davanız yok.
+$MAIN_SECTION_MILESTONE_TITLE
+Yarım Kalmış İnşaat
+$MAIN_SECTION_MILESTONE_MAIN
+Heykeli zamanında tamamlamakla yükümlüydünüz, ancak bunu başaramadınız. Paris hayal kırıklığına uğradı.

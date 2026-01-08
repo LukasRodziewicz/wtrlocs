@@ -1,0 +1,22 @@
+$EVE_012_TITLE
+Dernier recours
+$EVE_012_MAIN_01
+Vous remarquez une femme du même âge que votre épouse devant le tribunal. Elle vous intercepte dès qu'elle vous voit, et vous passez les minutes suivantes à écouter l'histoire d'un mari qui vend les bijoux de famille et est en train de boire leurs derniers francs. Les enfants ont faim aussi, bien évidemment. Rien de bien étonnant jusqu'à ce que la femme termine son histoire… en vous demandant d'envoyer son mari en prison. Elle vous promet de témoigner de n'importe quoi du moment qu'il finit en cellule.
+$EVE_012_MAIN_01_C1
+Menacer l'ivrogne d'une peine de prison
+$EVE_012_MAIN_01_C2
+Arrêter l'homme et le garder un moment en prison
+$EVE_012_MAIN_01_C3
+Ignorer la femme
+$EVE_012_MAIN_02A
+Il est difficile de dire si l'homme a été plus effrayé par la vue d'un garde armé ou par la litanie de souffrances récitée par sa femme. Il ne devrait pas faire de mal à qui que ce soit pendant un moment et, s'il lui vient l'idée de boire, il devra se préparer à recevoir des coups de vos armoires à glace…
+$EVE_012_MAIN_02B
+La carrure du garde et vos arguments percutants auraient dû suffire, mais le jugement de l'ivrogne était si altéré qu'il n'a rien compris. La plupart du temps, il était convaincu que le garde était son ancien compagnon de beuverie et a même exigé qu'il lui rembourse une vieille dette. Heureusement que vous n'avez pas ordonné qu'on secoue ce pauvre homme, cela n'aurait rien changé.
+$EVE_012_MAIN_02B_C1
+Ignorer la situation
+$EVE_012_MAIN_02B_C2
+Arrêter l'homme et le garder un moment en prison
+$EVE_012_MAIN_02C
+L'ivrogne n'a pas résisté lors de son arrestation. Il était si saoul qu'il ne s'est probablement pas rendu compte de ce qu'il se passait ni où il allait. À mi-chemin du poste, il a vomi sur le pantalon du garde, ce qui lui a valu quelques coups de pied. Demain, il se demandera probablement pourquoi son dos lui fait si mal, et s'il s'est battu. Pendant le temps qu'il va passer en prison, il ne pourra pas boire d'alcool. Cela devrait lui permettre de comprendre quelques petites choses. Pendant ce temps, sa famille aura un peu de répit et sa femme pourra arranger leurs affaires.
+$EVE_012_MAIN_02D
+Elle vous regarde droit dans les yeux, comme pour y chercher la raison de votre réticence. En partant, vous l'entendez sangloter doucement derrière vous.

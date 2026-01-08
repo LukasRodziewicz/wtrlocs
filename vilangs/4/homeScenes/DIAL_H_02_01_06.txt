@@ -1,0 +1,18 @@
+$DIAL_H_02_01_06_001_RAMEL
+Alles deutete auf Gobel hin.
+$DIAL_H_02_01_06_002_JUDGE
+Wenn tatsächlich Renard für den Tod meines Sohnes verantwortlich war, hätte ich keinen Krieg gegen Gobel beginnen sollen.
+$DIAL_H_02_01_06_003_RAMEL
+Ich habe einen Fehler gemacht. Es tut mir leid.
+$DIAL_H_02_01_06_004_JUDGE
+Auf der einen Seite steht Gobel, auf der anderen wütende, rachsüchtige Aristokraten. Ein Krieg an zwei Fronten zugleich, während unser Land selbst von einem Bürgerkrieg zerrissen wird.
+$DIAL_H_02_01_06_005_RAMEL
+Vielleicht sollten Sie diesem Bündnis zustimmen?
+$DIAL_H_02_01_06_006_JUDGE
+Ich werde mich nicht mit den Mördern meines Kindes verbünden!
+$DIAL_H_02_01_06_007_RAMEL
+Sie haben noch einen weiteren.
+$DIAL_H_02_01_06_008_JUDGE
+Ich werde es nicht tun.
+$DIAL_H_02_01_06_009_RAMEL
+Es ist dein Leben. Aber ich würde es vorziehen, nicht noch mehr Mitglieder deiner Familie zu Grabe tragen zu müssen.

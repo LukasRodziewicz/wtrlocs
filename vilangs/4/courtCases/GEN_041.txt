@@ -1,0 +1,182 @@
+$GEN_041_DOC_01_HEADER
+Zusammengestellt von: Nathan d’Essiraf
+$GEN_041_DOC_01_00
+Alain Bras, ein 37-jähriger Witwer, arbeitet als Fuhrmann in einem der Lagerhäuser am Hafen von Grenoüillere. Seit zwei Jahren ist er dort beschäftigt. Der Angeklagte ist bekannt für seinen <a name="1" class="hidden">waghalsigen Fahrstil</a>, mit dem er Waren schneller liefert als seine Kollegen.
+$GEN_041_DOC_01_01
+Bras wird beschuldigt, den fünfjährigen Marcel Gide mit seinem Wagen getötet zu haben. Der Junge starb kurz nach dem Unfall an schweren Kopfverletzungen. Bras wird nicht nur vorgeworfen, den Jungen überfahren zu haben, sondern auch, dass er nicht anhielt, um ihm zu helfen.
+$GEN_041_DOC_01_02
+Zeugen berichteten, dass Bras <a name="2" class="hidden">seinen Karren</a> mit wahnsinnigem Tempo über die <a name="3" class="hidden">Rue du Croissant</a> lenkte, wo Marcels Leiche gefunden wurde. Die Untersuchung des Körpers ließ keinen Zweifel – nur ein rasender Karren konnte solche Verletzungen verursachen.
+$GEN_041_DOC_01_03
+Bras wurde eineinhalb Stunden nach dem Auffinden der Leiche festgenommen. Er wartete vor dem Gasthaus „Zum Fröhlichen Wolf“ darauf, dass seine Waren entladen wurden. Der Angeklagte war <a name="4" class="hidden">völlig betrunken</a> und konnte kaum auf den Beinen stehen. Die Hinterräder seines Wagens waren <a name="5" class="hidden">mit frischem Blut bedeckt</a>.
+$GEN_041_DOC_01_04
+Die verzweifelte Mutter von Marcel, Jeanne Gide, fordert eine harte Bestrafung für den Mörder.
+$GEN_041_OnStart_00
+Bürger, wie ist Ihr Name?
+$GEN_041_OnStart_01
+Mein Name ist Alain Bras.
+$GEN_041_OnStart_02
+Ihnen wird vorgeworfen, an der Kreuzung der Rue du Gros Chenet und der Rue du Croissant einen tödlichen Unfall verursacht zu haben. An Ihren Händen klebt das Blut eines fünfjährigen Kindes.
+$GEN_041_OnStart_03
+Ich schwöre, ich habe den Jungen nicht überfahren!
+$GEN_041_OnStart_04
+Weder Reue noch Kooperationsbereitschaft gelten als mildernde Umstände.
+$GEN_041_OnStart_05
+Verschwenden Sie nicht unsere Zeit, er ist schuldig!
+$GEN_041_OnGuilty_00
+Ich verurteile Bürger Alain Bras zum Tode durch die Guillotine! Führt den Verurteilten ab.
+$GEN_041_OnGuilty_01
+Auge um Auge!
+$GEN_041_OnGuilty_02
+Ein mildes Urteil für das, was er getan hat.
+$GEN_041_OnPrison_00
+Ich verurteile Bürger Alain Bras zu Gefängnis! Führt den Verurteilten ab.
+$GEN_041_OnPrison_01
+Ich hoffe, er verrottet dort!
+$GEN_041_OnPrison_02
+Er soll seinen Kopf verlieren!
+$GEN_041_OnPrison_03
+Die Eltern haben ihr Kind verloren, und dieses Gesindel lebt weiter? Das erscheint nicht gerecht.
+$GEN_041_OnNotGuilty_00
+Das Urteil für Alain Bras lautet… nicht schuldig! Führt den Angeklagten ab.
+$GEN_041_OnNotGuilty_01
+Währenddessen vergießt die Mutter des Kindes bittere Tränen! Wo bleibt die Gerechtigkeit?!
+$GEN_041_OnNotGuilty_02
+Ich kann nicht zustimmen. Er ist schuldig, das weiß doch jeder!
+$GEN_041_02x05_00_QTitle
+An den Hinterrädern Ihres Wagens wurde Blut gefunden. Woher stammt es?
+$GEN_041_02x05_00_00
+An den Hinterrädern Ihres Wagens wurde Blut gefunden. Woher stammt es?
+$GEN_041_02x05_00_01
+Es war von einem Hund. Ich habe einen in der Nähe vom „Fröhlichen Wolf“ überfahren.
+$GEN_041_02x05_00_02
+Wirklich? Alles deutet darauf hin, dass es tatsächlich das Blut des Kindes war, das vom Angeklagten überfahren wurde.
+$GEN_041_02x05_00_03
+Unmöglich! Ich hätte es bemerkt, wenn mir ein Kind unter die Räder geraten wäre.
+$GEN_041_02x05_00_04
+Ein fünfjähriges Kind ist etwa so groß wie ein großer Hund. Vielleicht haben Sie nicht genau hingesehen?
+$GEN_041_02x05_00_05
+Auf keinen Fall, ich habe das Bellen gehört.
+$GEN_041_02x05_00_06
+Er war so in Wein getränkt, dass er ein Kind nicht von einer Kuh hätte unterscheiden können!
+$GEN_041_02x03_01_QTitle
+Sind Sie durch die Rue du Croissant gefahren?
+$GEN_041_02x03_01_00
+Sind Sie durch die Rue du Croissant geritten?
+$GEN_041_02x03_01_01
+Ja, genau. Ich musste von der Rue du Gros Chenet abbiegen, um die Ware zum Gasthaus zu bringen.
+$GEN_041_02x03_01_02
+Und ich nehme an, Sie haben sich nicht die Zeit genommen, sich umzusehen?
+$GEN_041_02x03_01_03
+Sie meinen, ich hätte mich beeilt? Natürlich habe ich das! Die Zeit war knapp, die Kunden warteten, es gab keine Minute zu verlieren.
+$GEN_041_02x03_01_04
+Keine Zeit zu verlieren, weil…?
+$GEN_041_02x03_01_05
+Nun ja… die Waren mussten doch pünktlich geliefert werden, oder?
+$GEN_041_02x03_01_06
+Sie sind also das Risiko eines Unfalls eingegangen?
+$GEN_041_02x03_01_07
+Der durstige Kerl stürzte sich auf die Flasche.
+$GEN_041_02x03_01_08
+Geben Sie also zu, dass Sie die Pferde so schnell getrieben haben, wie sie nur laufen konnten?
+$GEN_041_02x03_01_09
+Ja, sicher, aber das macht mich noch lange nicht zum Mörder. In Paris gibt es viele Fuhrleute, es könnte einer vor oder nach mir gewesen sein.
+$GEN_041_02x03_01_10
+Na klar, schieb es jemand anderem in die Schuhe, du Bastard!
+$GEN_041_03x04_02_QTitle
+Wie viel haben Sie an jenem Freitag getrunken, bevor Sie Ihre Route antraten?
+$GEN_041_03x04_02_00
+Wie viel haben Sie an jenem Freitag getrunken, bevor Sie Ihre Route antraten?
+$GEN_041_03x04_02_01
+Nur ein kleines Gläschen, Monsieur Richter.
+$GEN_041_03x04_02_02
+Als Sie also in der Rue du Croissant ankamen, standen Sie bereits unter Alkoholeinfluss?
+$GEN_041_03x04_02_03
+Mein Freund, ich bin nun wirklich kein Leichtgewicht. Ein Glas Wein ist für mich wie Wasser. Ich bin wie immer nüchtern gefahren.
+$GEN_041_03x04_02_04
+Ich wette, er ist jedes Mal sturzbetrunken, wenn er auf diesen Karren springt.
+$GEN_041_03x04_02_05
+Und dennoch waren Sie völlig betrunken, als die Behörden Sie vor dem „Fröhlichen Wolf“ auffanden.
+$GEN_041_03x04_02_06
+Ich war am Ziel meiner Reise angekommen, und der freundliche Gastgeber brachte mir eine Flasche Brandy. Natürlich habe ich sie gleich geleert. Die Arbeit war schließlich getan, oder?
+$GEN_041_03x04_02_07
+Er trank, um sein Gewissen zu betäuben!
+$GEN_041_03x04_02_08
+Hatten Sie es eilig, nach einem harten Arbeitstag einen Drink zu nehmen?
+$GEN_041_03x04_02_09
+Ich meine, ja, das ist ja eigent... Moment, nein, überhaupt nicht.
+$GEN_041_01x02_03_QTitle
+Sie würden sich selbst wohl kaum als vorsichtigen Fuhrmann bezeichnen, oder?
+$GEN_041_01x02_03_00
+Würden Sie sich wohl kaum als einen vorsichtigen Fuhrmann bezeichnen, oder?
+$GEN_041_01x02_03_01
+Ich muss zu einer bestimmten Zeit an einem bestimmten Ort sein. Das ist mein Job, und der ist nichts für Langsamdenker.
+$GEN_041_01x02_03_02
+Rasen denn alle Fuhrleute so schnell, dass sie die auf den Straßen spielenden Kinder gar nicht bemerken?
+$GEN_041_01x02_03_03
+Ich habe niemanden überfahren! Das hätte jeder Fuhrmann in Paris gewesen sein können.
+$GEN_041_01x04_04_QTitle
+Fahren Sie nach Alkoholkonsum besser?
+$GEN_041_01x04_04_00
+Fahren Sie nach Alkoholgenuss besser?
+$GEN_041_01x04_04_01
+Keine Ahnung, aber auf nüchternen Magen sollte man ein Gläschen trinken, das ist gut für die Gesundheit. Sonst zittern die Hände so, dass man die Zügel kaum halten kann.
+$GEN_041_01x04_04_02
+Haben Sie schon einmal versucht, ohne das zu fahren?
+$GEN_041_01x04_04_03
+He, was wollen Sie damit sagen? Ich bin doch kein Säufer!
+$GEN_041_01x04_04_04
+Sieh ihn dir an, so stolz!
+$GEN_041_01x04_04_05
+Genug geredet, schlagt ihm endlich den Kopf ab!
+$GEN_041_02x04_05_QTitle
+Trinken Sie viel?
+$GEN_041_02x04_05_00
+Trinken Sie viel?
+$GEN_041_02x04_05_01
+Schon mehr, seit meine Frau gestorben ist, aber nicht mehr als andere Fuhrleute. Das gehört zum Beruf.
+$GEN_041_02x04_05_02
+Fahren Sie also häufig betrunken?
+$GEN_041_02x04_05_03
+Die würden mich rausschmeißen, wenn ich das täte! Vor der Arbeit trinke ich höchstens ein oder zwei Gläser. Richtig gefeiert wird erst, wenn ich fertig bin.
+$GEN_041_02x04_05_04
+Nicht mehr als zwei? Möchten Sie etwa von einem betrunkenen Kutscher gefahren werden?
+$GEN_041_02x04_05_05
+Was kümmert’s mich? Mich fährt doch eh keiner, ich bin viel zu arm.
+$GEN_041_02x04_05_06
+Es ist ihm egal.
+$GEN_041_KEY_01
+Wagemutiger Fahrstil
+$GEN_041_KEY_02
+Kutschfahren
+$GEN_041_KEY_03
+Rue du Croissant
+$GEN_041_KEY_04
+Betrunkener Fuhrmann
+$GEN_041_KEY_05
+Frisches Blut
+$GEN_041_LastDialog_00
+Nein, nein, nein, ich war das nicht!
+$GEN_041_UNIQUE_QUESTION_00
+Wie erklärte Bras das Blut an den Rädern seines Wagens?
+$GEN_041_UNIQUE_ANSWER_CORRECT_00_00
+Er hat einen Hund überfahren.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Er blutete.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Es war eine Falle, inszeniert von der Garde.
+$GEN_041_UNIQUE_QUESTION_01
+Hat der Angeklagte zugegeben, vor der Abfahrt etwas getrunken zu haben?
+$GEN_041_UNIQUE_ANSWER_CORRECT_01_00
+Ein kleines Gläschen.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ein Glas Bier.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ein paar Schlucke Wein.
+$GEN_041_UNIQUE_QUESTION_02
+Warum fuhr der Angeklagte so schnell?
+$GEN_041_UNIQUE_ANSWER_CORRECT_02_00
+Er wollte die Waren pünktlich liefern.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Er eilte, um seine Familie zu sehen.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Er hatte eine Wette mit einem Freund.

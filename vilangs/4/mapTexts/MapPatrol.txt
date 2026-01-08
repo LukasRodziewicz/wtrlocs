@@ -1,0 +1,62 @@
+$MAP_PATROL_001_JUDGE_AGGR
+Das ist nun wirklich zu viel! Ihr seid zu weit gegangen, Bürger! Dieses „Missverständnis“ wird euch den Kopf kosten!
+$MAP_PATROL_002_JUDGE_MANI
+Sie haben den Falschen erwischt. Zum Glück haben Sie ihm nichts angetan… Die Folgen wären verheerend gewesen. Welch ein Missverständnis…
+$MAP_PATROL_003_JUDGE_JOKE
+Zum Glück waren Sie es und nicht irgendwelche ehrgeizigen Gardisten. Wir werden dieses Missverständnis umgehend klären.
+$MAP_PATROL_004_JUDGE_HUMI
+Meine guten Bürger, wir müssen diesen Mann freilassen. Es ist zu einem schrecklichen Missverständnis gekommen – selbst die Revolution ist nicht immer unfehlbar.
+$MAP_PATROL_005_PATROL_INTR
+Und warum das?
+$MAP_PATROL_006_PATROL_DOUB
+Was für ein Spaß. Ich muss wohl schwerhörig werden. Ist die Festnahme eines Spions jetzt ein „Missverständnis“?
+$MAP_PATROL_007_PATROL_IRRI
+Wollen wir dieses ganze Unterfangen etwa unter den Teppich kehren, monsieur le juge?
+$MAP_PATROL_008_JUDGE_AGGR
+Ihr habt einen Mitarbeiter des Revolutionstribunals gefasst!
+$MAP_PATROL_009_JUDGE_MANI
+Sie haben einen verdeckten Agenten des Revolutionstribunals gefasst.
+$MAP_PATROL_010_JUDGE_JOKE
+Unsinn! Euer Gefangener arbeitet in Wahrheit für mich.
+$MAP_PATROL_011_JUDGE_HUMI
+Das ist einer meiner Assistenten. Verzeihen Sie mir, meine Herren, dass ich Sie nicht früher informiert habe.
+$MAP_PATROL_016_JUDGE_AGGR
+Dein Handeln grenzt an Verrat! Überlege dir gut, ob du dich mir in den Weg stellen willst.
+$MAP_PATROL_017_JUDGE_MANI
+Ihr schadet der Revolution und euch selbst! Ich kann euch wegen Hochverrats verhaften lassen.
+$MAP_PATROL_018_JUDGE_JOKE
+Heutzutage verliert man leicht seinen Kopf wegen Verrats. Und meinen Agenten festzuhalten, wird Ihnen dabei ganz sicher helfen.
+$MAP_PATROL_019_JUDGE_HUMI
+Wenn Sie ihn nicht freilassen, muss ich Sie des Hochverrats anklagen. Nehmen Sie es nicht persönlich, aber ich muss die Republik schützen.
+$MAP_PATROL_020_JUDGE_AGGR
+Kümmern Sie sich lieber darum, echte Verräter ausfindig zu machen… und hüten Sie sich davor, meinen Leuten noch einmal auf die Nerven zu gehen. Andernfalls werden wir unser kleines Gespräch wohl wiederholen müssen!
+$MAP_PATROL_021_JUDGE_MANI
+Draußen gibt es echte Verräter. Spüren Sie sie auf und lassen Sie sich von Fehlschlägen wie diesem nicht entmutigen. Doch bei Ihren nächsten Unternehmungen vermeiden Sie es bitte, meine Leute zu verfolgen.
+$MAP_PATROL_022_JUDGE_JOKE
+Jeder kann sich irren. Das ist in Ordnung. Vielleicht haben Sie beim nächsten Mal mehr Glück mit Ihrer Untersuchung?
+$MAP_PATROL_023_JUDGE_HUMI
+Sie leisten wichtige Arbeit für die Republik. Dieser Fehler ändert nichts daran. Sie haben meine Unterstützung bei Ihren Unternehmungen, und es wäre klug, sich dessen zu erinnern.
+$MAP_PATROL_024_PATROL_SATI
+Kaum zu glauben, wir hätten beinahe unseren eigenen Bruder gelyncht! Gut, dass du rechtzeitig gekommen bist – wir hatten schon einen Spieß für seinen Kopf geschärft. Es ist gut, dich auf unserer Seite zu wissen. Geh in Gesundheit!
+$MAP_PATROL_025_PATROL_INTR
+Vielleicht gehört er ja zu euch, ich weiß es nicht, aber offenbar hat er sich in der Stadt verlaufen. Wir haben ihn gefunden und geben ihn euch gerne zurück – über eine kleine… Finderlohn würden wir uns allerdings freuen.
+$MAP_PATROL_026_PATROL_DOUB
+Ich habe das Gefühl, dass Sie uns nicht die ganze Wahrheit sagen. Ich weiß nicht, was für Geschäfte Sie beide treiben, aber das wirkt alles sehr verdächtig. Sie haben mich nicht überzeugt.
+$MAP_PATROL_027_PATROL_IRRI
+Halten Sie uns etwa für Idioten? Warum erzählen Sie uns dann solchen Unsinn?! Warten Sie nur ab, wir werden schon herausfinden, wer Ihr Freund wirklich ist, und Sie des Verrats anklagen!
+$MAP_PATROL_BRIBE_00
+Ich hoffe, dieser Beutel kann Ihren revolutionären Eifer zügeln.
+$MAP_PATROL_BRIBE_01
+Das werden wir ja sehen. Und jetzt verschwindet – und nehmt euren Kumpel gleich mit.
+$MAP_PATROL_TOPIC_01
+Die Festnahme dieses Mannes war lediglich ein Missverständnis.
+$MAP_PATROL_TOPIC_02
+Der Mann, den Sie verhaftet haben, arbeitet für mich.
+$MAP_PATROL_TOPIC_04
+Seine Inhaftierung ist ein Verbrechen gegen die Revolution!
+$MAP_PATROL_TOPIC_05
+Sie sollten nach echten Verbrechern suchen.
+$MAP_PATROL_RESULT_SUCCESS
+Agent freilassen: {0}
+$MAP_PATROL_RESULT_FAILD
+Sie haben keinen Agenten befreit: {0}

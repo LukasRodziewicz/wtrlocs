@@ -1,0 +1,240 @@
+$MENTOR_HELP_AVAIBLE_TIP1
+Die Hilfe Ihres Mentors kostet <color="#ff0000">{0} Einfluss-Punkte</color>
+$MENTOR_HELP_NOT_ENOUGH
+Sie haben nicht genügend Einfluss-Punkte.
+$GUILTY_RAW
+Schuldig
+$NOTGUILTY_RAW
+Nicht schuldig
+$SIGNATURE_TIP
+Unterschreiben Sie das Dokument, um das Urteil zu vollstrecken.
+$VERDICT_SELECT
+Wählen Sie ein Urteil:
+$GUILTY_VERDICT_MALE
+Ich spreche den Angeklagten schuldig und verurteile ihn zum Tode.
+$PRISON_VERDICT_MALE
+Ich spreche den Angeklagten schuldig und verurteile ihn zu einer Gefängnisstrafe.
+$NOTGUILTY_VERDICT_MALE
+Ich spreche den Angeklagten frei.
+$GUILTY_VERDICT_FEMALE
+Ich spreche die Angeklagte schuldig und verurteile sie zum Tode.
+$PRISON_VERDICT_FEMALE
+Ich spreche die Angeklagte schuldig und verurteile sie zu einer Haftstrafe.
+$NOTGUILTY_VERDICT_FEMALE
+Ich spreche den Angeklagten frei.
+$CASE_FILES
+Akte
+$VERDICT
+Urteil
+$PROTOCOL
+Protokoll
+$VERDICT_FORM
+Urteilsformular
+$NEWSPAPER
+Zeitung
+$EVENT_ITEM
+Nachrichten
+$JURY_ON_START_DISEBLE_01
+Dieser Fall ist nicht wichtig genug, als dass wir uns damit befassen müssten. Machen Sie damit, was Sie wollen.
+$JURY_ON_END_TOO_FAST_01
+Ein Urteil? Schon jetzt?! Und was ist mit dem Prozess?
+$JURY_ON_END_DISAGREE_01
+Spielt unsere Meinung für Sie überhaupt eine Rolle? In Zukunft sollten Sie besser auf uns hören!
+$GROUP_ATTITUDE_HEADER
+Der Einfluss des Urteils auf die Fraktionen
+$PROSECUTOR_PROTOCOL_SIGNED
+Der Staatsanwalt hat Ihren Bericht unterschrieben.
+$PROSECUTOR_PROTOCOL_UNSIGNED_DISABLE
+Sie haben beim Staatsanwalt keine Gefälligkeiten offen.
+$PROSECUTOR_PROTOCOL_UNSIGNED_ENABLE
+Einen Gefallen beim Staatsanwalt einfordern.
+$JURY_HEADER
+Meinung der Geschworenen
+$JURY_SUPPORT_HIGH
+Freundlich
+$JURY_SUPPORT_NEUTRAL
+Neutral
+$JURY_SUPPORT_LOW
+Feindselig
+$JURY_SENTENCE
+Meinung der Geschworenen
+$JURY_SENTENCE_GUILTY
+Meinung der Geschworenen: Todesstrafe
+$JURY_SENTENCE_PRISON
+Meinung der Geschworenen: Gefängnis
+$JURY_SENTENCE_NOT_GUILTY
+Meinung der Geschworenen: Freispruch
+$JURY_SENTENCE_HIDDEN
+Die Geschworenen haben ihr Urteil noch nicht verkündet.
+$JURY_NO_SENTENCE
+Die Geschworenen haben zu diesem Fall keine Meinung.
+$JURY_SUPPORT
+Wohlwollen der Geschworenen.
+$KEYWORD_MATCH_SUCCESS
+Frage aufgedeckt
+$KEYWORD_MATCH_FAILURE
+Ungültiger Link
+$KEYWORD_MATCH_TRAP
+In eine Falle geraten
+$KEYWORD_NO_MORE_CONNECTIONS
+Alle Versuche wurden aufgebraucht
+$KEYWORD_ALL_CONNECTIONS_UNLOCKED
+Alle Fragen freigeschaltet
+$KEYWORD_LOCKED_INFORMATION
+Unentdeckt
+$DIALOG_SENTENCE_ICON_TIP
+Einfluss auf die Meinung der Geschworenen
+$DISMISS_WITNESS
+Zeugen entlassen
+$VERDICT_HEADER_FIRST
+TRIBUNAL
+$VERDICT_HEADER_SECOND
+REVOLUTIONÄR
+$MENTOR_FIRSTAGGRESSIONTUTORIAL
+Seien Sie vorsichtig, das Volk ist aufgebracht. Sie können versuchen, die Geschworenen und den Staatsanwalt zu beeinflussen, doch je länger Sie mit dem Urteil zögern, desto schwerwiegender könnten die Folgen sein.
+$VERDICTWINDOW_JURY_NONE_MALE
+Die Geschworenen haben noch kein Urteil gefällt. Stellen Sie weitere Fragen.
+$VERDICTWINDOW_JURY_GUILTY_MALE
+Die Geschworenen stimmen für die sofortige Enthauptung des Angeklagten.
+$VERDICTWINDOW_JURY_NOTGUILTY_MALE
+Die Geschworenen stimmen für einen Freispruch des Angeklagten. Sie halten ihn für unschuldig.
+$VERDICTWINDOW_JURY_PRISON_MALE
+Die Geschworenen stimmen für eine Inhaftierung des Angeklagten. Sie halten die Strafe für angemessen.
+$VERDICTWINDOW_JURY_NONE_FEMALE
+Die Geschworenen haben noch kein Urteil gefällt. Stellen Sie weitere Fragen.
+$VERDICTWINDOW_JURY_GUILTY_FEMALE
+Die Geschworenen stimmen für die sofortige Enthauptung des Angeklagten.
+$VERDICTWINDOW_JURY_NOTGUILTY_FEMALE
+Die Geschworenen stimmen für einen Freispruch der Angeklagten. Sie halten sie für unschuldig.
+$VERDICTWINDOW_JURY_PRISON_FEMALE
+Die Geschworenen stimmen für die Inhaftierung des Angeklagten. Sie halten die Strafe für angemessen.
+$VERDICTWINDOW_JURY_SUPPORT
+Geschworene
+$VERDICTWINDOW_PROSECUTOR_SUPPORT
+Staatsanwalt
+$TRIAL_SUMMARY
+Verhandlungsübersicht
+$UNLOCKED_QUESTIONS
+Freigeschaltete Fragen: {0}/{1}
+$VERDICTWINDOW_GROUP_HEADER
+Intelligenz
+$STARTING_TRIAL_DIALOG_HEADER
+Verhandlung eröffnen
+$VERDICT_HEADER
+REVOLUTIONSTRIBUNAL
+$AUDIENCE_ATTITUDE_TOOLTIP_0
+Das Volk ist zufrieden
+$AUDIENCE_ATTITUDE_TOOLTIP_1
+Die Leute sind ruhig
+$AUDIENCE_ATTITUDE_TOOLTIP_2
+Die Leute sind beunruhigt
+$AUDIENCE_ATTITUDE_TOOLTIP_3
+Das Volk ist verärgert
+$AUDIENCE_ATTITUDE_TOOLTIP_4
+Das Volk ist aufgebracht
+$VERDICTWINDOW_DESC_VERDICT_NOT_SELECTED
+Wählen Sie ein Urteil, um dessen Einfluss auf die Fraktionen zu sehen
+$VERDICTWINDOW_DESC_VERDICT_SELECTED
+Die Folgen des Urteils wurden anhand der Beziehungen zu den Fraktionen festgelegt
+$VERDICTWINDOW_NO_INFO_TIP
+Keine Informationen
+$VERDICTWINDOW_GAMEOVER_PEOPLE
+Todesrisiko
+$VERDICTWINDOW_GAMEOVER_REVO
+Risiko der Amtsenthebung
+$VERDICTWINDOW_ADDITIONAL_REPUTATION
+Rufbonus.
+$VERDICTWINDOW_UNLOCK_FROM_MAP_MISSION_TOOLTIP
+Auf der Karte freigeschaltet
+$VERDICTWINDOW_GROUPCHANGE_LOCKED_TOOLTIP
+Fraktionsansehen zu niedrig, um Einfluss zu sehen
+$DIALOG_HUB_HEADER
+Fragen an den Angeklagten
+$WITNESS_QUESTIONS_HUB_HEADER
+Fragen an den Zeugen
+$KEYWORD_LOCKED_TOOLTIP
+Überprüfen Sie die Akten, um freizuschalten
+$DESIRED_VERDICT_PANEL_HEADER
+Erwartetes Urteil
+$PROTOCOL_QUIZ_SUMMARY_CORRECT
+Richtige Antwort
+$PROTOCOL_QUIZ_SUMMARY_INCORRECT
+Falsche Antwort
+$PROTOCOL_QUIZ_MENTOR_BUTTON_NOT_ENOUGHT
+Nicht genügend Einfluss-Punkte
+$PROTOCOL_QUIZ_MENTOR_BUTTON_ACTIVE
+Erhalte die Hilfe deines Mentors für <color="#ff0000">{0} IP</color>
+$PROTOCOL_QUIZ_PROSECUTOR_BUTTON_INACTIVE
+Sie können das Wohlwollen des Staatsanwalts nicht nutzen
+$PROTOCOL_SUMMARY_RESULT_TITLE
+Berichtsergebnisse:
+$SUMMARY_EFFECTS
+Effekte
+$SUMMARY_ATTITUDE_POSSITIVE
+Positiver Einfluss
+$SUMMARY_ATTITUDE_NO_CHANGE
+Kein Einfluss
+$SUMMARY_ATTITUDE_NEGATIVE
+Negativer Einfluss
+$PROTOCOL_QUIZ_TITLE
+Bericht
+$PROTOCOL_RESULT_WORST
+{0}/{1} Untragbar!
+$PROTOCOL_RESULT_BAD
+{0}/{1} Ungenügend!
+$PROTOCOL_RESULT_GOOD
+{0}/{1} Gut gemacht!
+$PROTOCOL_REASON_01
+Falsche Wahl.
+$PROTOCOL_SIGNATURE_TOOLTIP
+Bericht genehmigen.
+#FAMILY
+Familie
+$VERDICT_RELATIONSHIP_HEADER
+Berichte des Richters
+$PROTOCOL_JURY_SENTENCE_CHANGE_TOOLTIP
+Änderung der Entscheidung der Geschworenen:
+$PROTOCOL_QUIZ_JUDGE_SIGNATURE
+Unterschrift des Richters
+$PROTOCOL_QUIZ_PROSECUTOR_SIGNATURE
+Unterschrift des Staatsanwalts
+$JURY_EFFECT_HEADER
+Einfluss der Geschworenen:
+$PROSECUTOR_QUEST_MAIN
+Soll ich Sie daran erinnern, was Sie mir nach unserem gestrigen Würfelspiel noch schulden? Sie haben verloren, erinnern Sie sich?
+$PROSECUTOR_QUEST_GUILTY
+Der Angeklagte stirbt heute.
+$PROSECUTOR_QUEST_PRISON
+Ich fordere, dass der Angeklagte ins Gefängnis kommt.
+$PROSECUTOR_QUEST_NOT_GUILTY
+Lasst uns den Angeklagten freilassen!
+$PROSECUTOR_BAD_QUIZ_POPUP
+Ich werde so einen miserablen Bericht nicht unterschreiben. Passen Sie auf, dass Sie dafür nicht selbst auf dem Schafott landen!
+$VERDICT_LOCKED_TEXT
+In diesem Fall nicht verfügbar
+$VERDICT_LOCKED_TEXT_BUILDING
+Jemand hat Ihre Vorgesetzten überzeugt, dass dieser Bericht Zeitverschwendung wäre.
+$FLASHCARDS_DISABLED_TOOLTIP
+Schnellurteile sind noch nicht verfügbar
+$GUILTY_VERDICT_PROLOG
+Ich spreche den Angeklagten in Anklagepunkt schuldig.
+$FLASHCARDS_PROSECUTOR_ENTER
+Heute stehen nur einige kleinere Fälle auf der Tagesordnung.
+$FLASHCARDS_PROSECUTOR_EXIT
+Danke. Auch die Schwächsten verdienen Gerechtigkeit.
+$QUIZ_DIALOG_SOURCE_LOCKED_TOOLTIP
+Das Thema wurde während des Verhörs nicht angesprochen.
+$KEYWORDVIEW_NUMBER_OF_CHANGES
+Mögliche Fehler
+$KEYWORDVIEW_NUMBER_OF_TRAPS
+Anzahl der Fallen
+$KEYWORD_VIEW_NUMBER_OF_QUESTIONS_LEFT
+Noch offene Fragen: {0}
+$KEYWORD_VIEW_BUTTON_TOOLTIP
+Fragen freischalten
+$VERDICT_FLASHCARDS_EMPTY_LABEL
+Sie haben heute keine weiteren Fälle mehr.
+$MAIN_SECTION_MILESTONE_TITLE
+Unvollendete Baustelle
+$MAIN_SECTION_MILESTONE_MAIN
+Sie haben Ihre Verpflichtung, den Bau der Statue rechtzeitig zu vollenden, nicht erfüllt. Paris ist enttäuscht.

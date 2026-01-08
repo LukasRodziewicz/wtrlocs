@@ -1,0 +1,48 @@
+$DISC_INTR_001_B04_MARAT_001_JUDGE
+Danke, dass Sie gekommen sind.
+$DISC_INTR_001_B04_MARAT_002_MARAT
+Was tut man nicht alles für die Richter des Tribunals…
+$DISC_INTR_001_B04_MARAT_003_JUDGE
+Ich würde gerne über Minister Roland sprechen.
+$DISC_INTR_001_B04_MARAT_004_MARAT
+So ist das...
+$DISC_INTR_001_B04_MARAT_005_JUDGE_AGGR
+Roland ist ein elender Blutsauger. Korruption darf nicht das Markenzeichen der neuen Obrigkeit werden.
+$DISC_INTR_001_B04_MARAT_006_JUDGE_MANI
+Vertritt Roland wirklich das Volk? Oder arbeitet er vielmehr zum Vorteil von Capet und seinen Dienern?
+$DISC_INTR_001_B04_MARAT_007_JUDGE_JOKE
+Wir müssen Roland zu seinem eigenen Wohl loswerden. Seine Taschen platzen bald vor lauter Geld, das er darin hortet.
+$DISC_INTR_001_B04_MARAT_008_JUDGE_HUMI
+Frankreich blutet, und Menschen wie Roland lassen seine Wunden nicht heilen. Im Gegenteil, sie reißen sie nur noch weiter auf.
+$DISC_INTR_001_B04_MARAT_009_MARAT_INTR
+Ich verstehe Ihre Beweggründe. Persönlich verabscheue ich Menschen wie Roland ebenfalls.
+$DISC_INTR_001_B04_MARAT_010_MARAT_DOUB
+Sie haben ihm auf die Füße getreten, und er hat entsprechend reagiert. Doch welchen Nutzen hat das für den Staat?
+$DISC_INTR_001_B04_MARAT_011_JUDGE_AGGR
+Roland ist nicht nur der Bestechung schuldig. Er hat einem Richter des Revolutionstribunals gedroht. Der unabhängigen Justiz selbst!
+$DISC_INTR_001_B04_MARAT_012_JUDGE_MANI
+Um der Strafe zu entgehen, hat Roland einen Rachefeldzug gegen mich begonnen. Hat er damit nicht dem neuen Ordnungssystem den Krieg erklärt?
+$DISC_INTR_001_B04_MARAT_013_JUDGE_JOKE
+Herr und Frau Roland sind wie zwei Mücken – sie stechen mich, saugen das Blut Frankreichs aus. Niemand mag Mücken.
+$DISC_INTR_001_B04_MARAT_014_JUDGE_HUMI
+Meine persönliche Abneigung gegen den Minister ändert nichts an der Tatsache, dass wir diesen korrupten Royalisten durch jemanden Gerechteren ersetzen sollten.
+$DISC_INTR_001_B04_MARAT_015_JUDGE_AGGR
+Wenn Sie die Abgeordneten nicht überzeugen, wird das als Beweis gelten, dass Sie die Verräter dulden, die ihren Einfluss in ganz Frankreich ausüben!
+$DISC_INTR_001_B04_MARAT_016_JUDGE_MANI
+Zeigen Sie Ihren Lesern, dass Sie mehr sind als ein bloßer Schreihals, der nach Lob giert. Machen Sie deutlich, dass Ihnen Frankreich am Herzen liegt.
+$DISC_INTR_001_B04_MARAT_017_JUDGE_JOKE
+Die Girondisten stolpern oft über ihre eigenen Füße. Man muss sie nur ein wenig anstoßen.
+$DISC_INTR_001_B04_MARAT_018_JUDGE_HUMI
+Manchmal steht Roland dem Ancien Régime näher als Louis selbst. Wenn Sie das alte System loswerden wollen, ist jetzt Ihre Gelegenheit.
+$DISC_INTR_001_B04_MARAT_019_MARAT_SATI
+Endlich habe ich jemanden getroffen, der diese verfluchten Girondisten loswerden will. Hoch lebe Richter Fidèle!
+$DISC_INTR_001_B04_MARAT_020_MARAT_INTR
+Der rasche Sturz von Minister Roland und seiner gerissenen Frau wird die Girondisten hart treffen. Sie können auf meine Unterstützung zählen.
+$DISC_INTR_001_B04_MARAT_021_MARAT_DOUB
+Euer Streit mit Roland geht mich nichts an. Ich habe nichts davon, mit einem gewöhnlichen Richter zusammenzuarbeiten.
+$DISC_INTR_001_B04_MARAT_TOPIC_01
+Was wollen wir erreichen?
+$DISC_INTR_001_B04_MARAT_TOPIC_02
+Warum wollen wir das?
+$DISC_INTR_001_B04_MARAT_TOPIC_03
+Was wird er davon haben?

@@ -1,0 +1,54 @@
+$DISC_INTR_001_B02_001_JUDGE
+Danke, dass Sie gekommen sind, Bürger Côté.
+$DISC_INTR_001_B02_002_COTEY
+Wie könnte ich jemandem einen Wunsch abschlagen, der über das Schicksal von Königen gebietet? Ich nehme an, unser Treffen hat mit Minister Roland zu tun?
+$DISC_INTR_001_B02_003_JUDGE
+Ganz genau. Ich möchte über den Vorfall mit dem eisernen Schrank sprechen.
+$DISC_INTR_001_B02_004_COTEY
+Das ist in der Tat eine unschöne Angelegenheit. Der Minister könnte deswegen seinen Kopf verlieren, auch wenn es bisher nur Gerüchte sind…
+$DISC_INTR_001_B02_005_JUDGE
+Ja, aber was, wenn aus dem Gerede plötzlich Wahrheit würde…?
+$DISC_INTR_001_B02_006_COTEY
+Dann würde es mit Sicherheit hässlich werden.
+$DISC_INTR_001_B02_007_JUDGE_AGGR
+Ich brauche Rolands Kopf. Er ist eine Plage! Durch Bestechung von Politikern hat er ganz Frankreich geschadet! Wir brauchen den Zeugen, der gesehen hat, wie er die eiserne Truhe öffnete, um seine Identität preiszugeben. Wir brauchen Sie, Bürger!
+$DISC_INTR_001_B02_008_JUDGE_MANI
+Ich brauche Rolands Kopf. Seine Tage sind ohnehin gezählt, also lasst uns seinen Sturz beschleunigen, um den Schmerz der Pariser und ganz Frankreichs zu lindern.
+$DISC_INTR_001_B02_009_JUDGE_JOKE
+Die Platte für Rolands Kopf ist bereit. Ich könnte der Koch sein, der daraus ein außergewöhnliches Gericht zaubert, doch ich brauche einen Helfer, der es würzt.
+$DISC_INTR_001_B02_010_JUDGE_HUMI
+Sie und ich, wir dienen beide Frankreich. Es ist unsere Pflicht, dafür zu sorgen, dass Roland stürzt, also müssen wir die Wahrheit ans Licht bringen. Haben wir nicht geschworen, unsere Ideale zu verteidigen?
+$DISC_INTR_001_B02_011_COTEY_SATI
+Roland benimmt sich, als würde er den Tod suchen.
+$DISC_INTR_001_B02_012_COTEY_INTR
+Das ist eine interessante Sichtweise. Ich höre aufmerksam zu.
+$DISC_INTR_001_B02_013_COTEY_DOUB
+Roland hat seine Laster, aber reichen sie aus, um meinen Verrat zu rechtfertigen? Denn genau das verlangt ihr von mir.
+$DISC_INTR_001_B02_014_JUDGE_AGGR
+Wenn Ihnen das Wohl Frankreichs nicht genügt, dann lassen Sie mich Ihnen eines sagen, Bürger: Wenn Sie mir helfen, steigen Ihre Überlebenschancen. Schließlich könnte man Sie der Mittäterschaft an Rolands Verbrechen bezichtigen.
+$DISC_INTR_001_B02_015_JUDGE_MANI
+Minister Roland wird Sie nicht retten, wenn die Dinge brenzlig werden. Ich hingegen kann Sie retten. Zum Beispiel vor dem Vorwurf der Mittäterschaft.
+$DISC_INTR_001_B02_016_JUDGE_JOKE
+Es ist schwer zu sagen, wer der eigentliche Minister ist – Bürger Roland oder seine Frau, Madame Roland. Doch das wird keine Rolle spielen, wenn Sie die Anklage wegen Mittäterschaft hören.
+$DISC_INTR_001_B02_017_JUDGE_HUMI
+Wenn Sie bereit sind, als Zeuge aufzutreten, erweisen Sie Frankreich einen großen Dienst – und Frankreich vergisst nie. Ich vergesse nie.
+$DISC_INTR_001_B02_018_JUDGE_AGGR
+Die Tage von Minister Roland sind gezählt. Wir brauchen nur noch einen Zeugen dieser Ereignisse, und Sie, Bürger, werden seine Verbrechen offenbaren. Andernfalls werden Sie gemeinsam mit ihm enthauptet!
+$DISC_INTR_001_B02_019_JUDGE_MANI
+Stellen Sie sich an die Seite meiner Freunde und seien Sie gewiss, dass die Vorteile dies bei Weitem die unangenehmen Folgen überwiegen – etwa, von der Guillotine hingerichtet zu werden.
+$DISC_INTR_001_B02_020_JUDGE_JOKE
+Roland verdient es, dem Henker ausgeliefert zu werden. Wir müssen die Zahl der Narren in unserer Stadt begrenzen. Sie sind doch kein Narr, oder?
+$DISC_INTR_001_B02_021_JUDGE_HUMI
+Ich glaube, Sie sind ein vernunftbegabter Mensch, Bürger Côté. Hören Sie auf Ihre Vernunft, die Ihnen sagt, dass Sie nicht für Rolands Fehler bezahlen wollen. Und ich möchte auch nicht, dass Sie dafür bezahlen müssen.
+$DISC_INTR_001_B02_022_COTEY_SATI
+So wie ich das sehe, bedeutet es den Tod, Minister Roland beizustehen. Ich sehe, dass Sie entschlossen sind, also willige ich ein. Sie haben Ihren Zeugen gefunden.
+$DISC_INTR_001_B02_023_COTEY_INTR
+Ich werde Ihnen helfen und gegen ihn aussagen. Sehen wir, wohin das führt – hoffentlich bleibt mein Kopf dabei auf meinen Schultern, wie Sie es versprochen haben.
+$DISC_INTR_001_B02_024_COTEY_DOUB
+Ich muss sagen, eure Worte sind wenig überzeugend. Ich werde helfen, aber denkt daran: Jetzt weiß ich mehr über eure Pläne.
+$DISC_INTR_001_B02_COTEY_TOPIC_01
+Ich will Roland haben.
+$DISC_INTR_001_B02_COTEY_TOPIC_02
+Was wird er davon haben?
+$DISC_INTR_001_B02_COTEY_TOPIC_03
+Zuckerbrot und Peitsche.

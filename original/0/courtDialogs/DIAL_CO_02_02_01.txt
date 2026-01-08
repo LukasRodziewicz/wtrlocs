@@ -1,0 +1,24 @@
+$DIAL_CO_02_02_01_001_JUDGE
+Jaka sprawa  przywiodła cię aż tutaj, Marat? Czy nie możemy porozmawiać u mnie w domu, wieczorem?
+$DIAL_CO_02_02_01_002_MARAT
+Wolałbym tutaj, gdzie są ludzie. Boję się, że z twojego domu mógłbym nie wyjść żyw.
+$DIAL_CO_02_02_01_003_JUDGE
+Nie rozumiem.
+$DIAL_CO_02_02_01_004_MARAT
+Otrzymałem od anonimowego źródła plik dokumentów, w którym ten ktoś spisuje twoje zachowanie, odkąd zostałeś sędzią Trybunału.
+$DIAL_CO_02_02_01_005_JUDGE
+…
+$DIAL_CO_02_02_01_006_MARAT
+Zdrady, morderstwa, polityczna korupcja. Czy ty jesteś jeszcze człowiekiem czy już samym diabłem?
+$DIAL_CO_02_02_01_007_JUDGE
+To sprawka Clementa Renarda. Ten człowiek zniszczył mojego ojca, kilka dni temu zagroził, że zabierze się za mnie, jeśli nie będę posłuszny…
+$DIAL_CO_02_02_01_008_MARAT
+Obywatelu Fidéle…
+$DIAL_CO_02_02_01_009_JUDGE
+Cokolwiek jest tam napisane, to kłamstwa, które mają zniszczyć…
+$DIAL_CO_02_02_01_010_MARAT
+Oszczędź sobie! Nie rób ze mnie głupca! Renarda znaleziono dzisiaj martwego na tyłach Café Procope! Wiedz, że będę drążył tę kopalnię wiedzy, aż odkryję każdy twój brudny uczynek. Każde morderstwo, każde oszustwo, każdą zdradę.
+$DIAL_CO_02_02_01_011_JUDGE
+Mogę cię zapewnić…
+$DIAL_CO_02_02_01_012_MARAT
+Nie trzeba. Skup się na zapewnieniu swojej rodziny, że nie jesteś potworem w ludzkiej skórze, bo ja będę bezwzględny.

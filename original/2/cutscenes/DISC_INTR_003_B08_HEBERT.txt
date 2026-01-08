@@ -1,0 +1,48 @@
+$DISC_INTR_003_B08_HEBERT_001_JUDGE_AGGR
+La rue échappe à notre contrôle. L'agitation peut désormais s'emparer de tout un chacun et il devient difficile de pacifier les foules.
+$DISC_INTR_003_B08_HEBERT_002_JUDGE_MANI
+La situation nous échappe. Hier, une jeune fille a été passée à tabac parce qu'on l'a suspectée d'espionnage pour le compte des contre-révolutionnaires. Qui sait qui sera leur prochaine cible… Toi, moi… ?
+$DISC_INTR_003_B08_HEBERT_003_JUDGE_JOKE
+Tant que les gens ne jetaient que des tomates pourries aux boucs émissaires qu'ils se donnaient, la situation était tolérable. Mais ils se sont désormais armés de bâtons. Cela commence à me donner froid dans le dos, pas toi ?
+$DISC_INTR_003_B08_HEBERT_004_JUDGE_HUMI
+Je sais bien que j'ai promis de servir le peuple et défendre la liberté, mais nos citoyens se donnent le même but avec des moyens excessifs.
+$DISC_INTR_003_B08_HEBERT_005_HEBERT_SATI
+Il est grand temps qu'on mate cette clique. La Révolution s'est montrée trop indulgente à leur égard.
+$DISC_INTR_003_B08_HEBERT_006_HEBERT_INTR
+Voilà que quelqu'un s'intéresse enfin à ces oisifs gloutons. Il s'agit peut-être de l'occasion de nous débarrasser de ces superstitions royalistes.
+$DISC_INTR_003_B08_HEBERT_007_HEBERT_DOUB
+J'ai failli croire que tu t'inquiétais de la situation dans les rues…
+$DISC_INTR_003_B08_HEBERT_008_JUDGE_AGGR
+Gobel a tout gâché ! Avec un secret pareil, il aurait dû tout faire pour s'assurer que rien ne s'ébruite. Au lieu de cela, il s'est comporté de la manière la plus puérile qui soit !
+$DISC_INTR_003_B08_HEBERT_009_JUDGE_MANI
+Si les rumeurs s'avèrent vraies, la présence de Gobel ne fera qu'empirer les choses. Voulons-nous que le gouvernement soit corrompu aux yeux du peuple ? Ma réputation est en jeu, tout comme la tienne et celle de tes amis à la Convention.
+$DISC_INTR_003_B08_HEBERT_010_JUDGE_JOKE
+Gobel s'est attiré des ennuis au pire moment possible. Peut-être le Pape a-t-il enfin obtenu vengeance ? Dieu a fini par écouter ses prières et châtier l'archevêque pour avoir prêté serment à la constitution civile…
+$DISC_INTR_003_B08_HEBERT_011_JUDGE_HUMI
+Je ne cherche pas à prononcer de condamnation par contumace, mais il semblerait que la colère du peuple a révélé de vieux secrets. Comme celui de l'archevêque Gobel. Peut-être devrions-nous prendre les choses en main ?
+$DISC_INTR_003_B08_HEBERT_012_HEBERT_SATI
+Rien ne me ferait plus plaisir que d'assister à la chute de ce curé rétrograde. Je retire ce que je viens de dire, sans doute savourerai-je encore davantage la destruction de l'institution papale.
+$DISC_INTR_003_B08_HEBERT_013_HEBERT_INTR
+Tu as un don pour aiguillonner les rêves les plus chers d'autrui. Je n'ai aucune raison de masquer ma satisfaction à l'idée que Gobel puisse quitter le monde des vivants et laisser la place au règne de la raison… Comment puis-je t'aider ?
+$DISC_INTR_003_B08_HEBERT_014_HEBERT_DOUB
+Quand la Commune de Paris avait voulu faire tomber ce porc bouffi, personne n'avait bougé le petit doigt. Maintenant que tout un chacun se rend compte qu'il peut tirer avantage de sa chute, tout le monde veut sa tête.
+$DISC_INTR_003_B08_HEBERT_015_JUDGE_AGGR
+Nous ne pouvons pas payer pour les agissements d'un groupe particulier. Avec tous ses mensonges et sa dégénérescence, l'Église n'a pas eu son pareil pour jeter de l'huile sur le feu. Livrons-la à la colère du peuple et retrouvons la paix.
+$DISC_INTR_003_B08_HEBERT_016_JUDGE_MANI
+Face à un tigre affamé, il convient d'offrir une proie en pâture pour détourner son attention et pouvoir vivre ensuite en paix. Et puisque le tigre désire plonger ses crocs dans le clergé…
+$DISC_INTR_003_B08_HEBERT_017_JUDGE_JOKE
+Nous n'avons guère d'autre choix. Ils en veulent au clergé, offrons-le-leur donc. Les voilà qui accusent le clergé de trahison ? Contentons-nous de porter leur parole. Quoi de plus simple et efficace ?
+$DISC_INTR_003_B08_HEBERT_018_JUDGE_HUMI
+Je suis opposé à l'idée de s'en prendre à l'Église. Elle se délite d'elle-même aux mains de dégénérés, que maudissent nos citoyens. Il devient nécessaire de couper les ponts avec cette institution. Au nom de l'intérêt général.
+$DISC_INTR_003_B08_HEBERT_019_HEBERT_SATI
+Ma plume est à ton service. La raison doit prévaloir contre les superstitions.
+$DISC_INTR_003_B08_HEBERT_020_HEBERT_INTR
+Je me demande bien comment tout cela se finira, mais peu importent mes doutes, tu peux compter sur mon aide.
+$DISC_INTR_003_B08_HEBERT_021_HEBERT_DOUB
+Tes intentions obscures me font craindre qu'il y a plus à perdre qu'à gagner pour la Commune de Paris et le règne de la raison. Je suis navré.
+$DISC_INTR_003_B08_HEBERT_TOPIC_01
+La situation dans les rues devient incontrôlable.
+$DISC_INTR_003_B08_HEBERT_TOPIC_02
+Les troubles autour de Gobel n'ont fait que jeter de l'huile sur le feu.
+$DISC_INTR_003_B08_HEBERT_TOPIC_03
+Quelqu'un doit être puni à titre exemplaire.

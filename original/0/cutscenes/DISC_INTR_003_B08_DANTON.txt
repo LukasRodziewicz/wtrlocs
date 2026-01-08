@@ -1,0 +1,49 @@
+$DISC_INTR_003_B08_DANTON_001_JUDGE_AGGR
+Nie panujemy już nad tym, co się dzieje na ulicy. Ten chaos może się obrócić przeciw każdemu, a nie możemy tak po prostu pacyfikować tłumów.
+$DISC_INTR_003_B08_DANTON_002_JUDGE_MANI
+Sytuacja wymknęła się spod kontroli. Wczoraj pobili dziewczynę, bo myśleli, że jest szpiegiem powstańców. Kto wie, kogo dopadną jutro – mnie, może ciebie…
+$DISC_INTR_003_B08_DANTON_003_JUDGE_JOKE
+Póki ludzie rzucali w losowych ludzi popsutymi pomidorami, to jeszcze było do zniesienia. Teraz chodzą z drewnianymi kijami.
+$DISC_INTR_003_B08_DANTON_004_JUDGE_HUMI
+Wiem, że przysięgałem służyć ludowi i bronić wolności, ale nasi obywatele chyba przesadzają z korzystaniem z niej…
+$DISC_INTR_003_B08_DANTON_005_DANTON_SATI
+To prawda, sytuacja jest nieciekawa, strach wyjść na ulicę. Cieszę się, że chcesz zająć się tym tematem, nie wiem tylko jak.
+$DISC_INTR_003_B08_DANTON_006_DANTON_INTR
+Ludzi na naszych stanowiskach nie interesuje tłum, tylko jednostki stojące nam na drodze. Zakładam, że o nich zaraz usłyszę.
+$DISC_INTR_003_B08_DANTON_007_DANTON_DOUB
+Zawsze mnie zastanawiało, czy masz jakąś osobistą korzyść z tej sytuacji.
+$DISC_INTR_003_B08_DANTON_008_JUDGE_AGGR
+Gobel wszystko pogorszył! Jeśli już miał taką tajemnicę, to powinien zadbać, by nie wyszła na jaw. Jak mógł tak wpaść, jak dziecko?!
+$DISC_INTR_003_B08_DANTON_009_JUDGE_MANI
+Obecność Gobela, jeśli plotki o nim okażą się prawdą, tylko pogarsza sytuację. Nie chcemy chyba, żeby ludzie zaczęli podejrzewać, że cała władza jest zdeprawowana? To dotyczy zarówno mnie, jak i twoich przyjaciół w Konwencie. 
+$DISC_INTR_003_B08_DANTON_010_JUDGE_JOKE
+Gobel wpadł jak śliwka w kompot. W najgorszy moment. Może to zemsta papieża? Bóg w końcu wysłuchał jego modlitw o karę dla arcybiskupa za to, że jest konstytucyjny, a nie z nadania Rzymu…
+$DISC_INTR_003_B08_DANTON_011_JUDGE_HUMI
+Nie chcę wydawać wyroków zaocznie, ale wydaje się, że gniew społeczeństwa odsłonił od dawna skrywane tajemnice, jak ta arcybiskupa Gobela. Może trzeba się tym zająć?
+$DISC_INTR_003_B08_DANTON_012_DANTON_SATI
+Powinniśmy załatwić sprawę Gobela, nim Konwent przestanie kontrolować jego zachowanie.
+$DISC_INTR_003_B08_DANTON_013_DANTON_INTR
+Gobel faktycznie stał się drzazgą w palcu. Znam jego położenie – bogatych zawsze oskarża się o więcej, niż zrobili.
+$DISC_INTR_003_B08_DANTON_014_DANTON_DOUB
+Nadal nie wiem, co osobiście na tym zyskasz.
+$DISC_INTR_003_B08_DANTON_015_JUDGE_AGGR
+Nie możemy płacić wszyscy za zachowanie jednej grupy. Kościół kłamstwami i degeneracją sam zapracował na gniew obywateli. Odetnijmy go i żyjmy dalej. W spokoju.
+$DISC_INTR_003_B08_DANTON_016_JUDGE_MANI
+Wściekły tygrys powinien dostać ofiarę, którą rozszarpie. Nie będzie zwracał wtedy uwagi na rzeczy wokół i będziemy mogli żyć w spokoju. A skoro tygrys zaostrzył pazury na kler…
+$DISC_INTR_003_B08_DANTON_017_JUDGE_JOKE
+Rozwój sytuacji nie pozostawia nam wyjścia. Chcą kleru, to dajmy im go. Oskarżają kler o zdradę kraju – wtórujmy im. Proste i praktyczne.
+$DISC_INTR_003_B08_DANTON_018_JUDGE_HUMI
+Jestem przeciw krzywdzeniu instytucji Kościoła – ona krzywdzi się sama. Rękami ludzi zdegenerowanych, których obywatele przeklinają. Musimy się odciąć od całej grupy. Dla wspólnego dobra.
+$DISC_INTR_003_B08_DANTON_019_DANTON_SATI
+Twoje argumenty przekonują. Kościół powinien zapłacić za nieudolną politykę. Skoro już zachciało im się w niej uczestniczyć…
+$DISC_INTR_003_B08_DANTON_020_DANTON_INTR
+Nigdy nie byłem zwolennikiem skrajnych rozwiązań – zawsze kosztują zbyt dużo. Ale teraz chyba faktycznie nie mamy wyjścia.
+$DISC_INTR_003_B08_DANTON_021_DANTON_DOUB
+Masz swoje powody, rozumiem. Nie chcesz ich wyjawić – mądrze. Ale twoje argumenty nie przekonują, a ja mam za dużo do stracenia.
+
+$DISC_INTR_003_B08_DANTON_TOPIC_01
+Sytuacja na ulicy wymyka się spod kontroli.
+$DISC_INTR_003_B08_DANTON_TOPIC_02
+Sprawa Gobela dolała oliwy do ognia.
+$DISC_INTR_003_B08_DANTON_TOPIC_03
+Trzeba kogoś przykładnie ukarać, a ludzie chcą dopaść kler.

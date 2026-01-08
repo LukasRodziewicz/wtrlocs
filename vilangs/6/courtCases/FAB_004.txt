@@ -1,0 +1,246 @@
+$FAB_004_DOC_1_HEADER
+Compilado por: Nathan d’Essiraf
+$FAB_004_DOC_1_00
+El acusado es Olivier Mugler, un <a name="1" class="hidden">maestro cerrajero</a> de 65 años, célebre entre los ladrones parisinos por su pericia con cerraduras imposibles de abrir.
+$FAB_004_DOC_1_01
+El mes pasado, los propietarios de una cristalería parisina —Jean Rude, Louis Roux y Ferdinand Salan— le encargaron <a name="2" class="hidden">fabricar cerraduras</a> para cofres ornamentados destinados a guardar objetos de valor, presumiblemente como obsequios para sus esposas. El artesano elogió su última creación como “a prueba de ladrones”. Poco después de terminarlas, las casas de los industriales sufrieron <a name="3" class="hidden">una serie de robos</a> perpetrados por un recién llegado a París, Hector Vian. El <a name="4" class="hidden">ladrón de Orleans</a> fue sorprendido en el acto y abatido por Ferdinand Salan.
+$FAB_004_DOC_1_02
+Se encontró en el difunto un costoso mapa de Turgot de París, con las <a name="5" class="hidden">casas</a> de los industriales recientemente robados marcadas en él. Sorprendentemente, Salan le había dado a Mugler un mapa idéntico como pago por adelantado. Este depósito era adicional a la remuneración acordada por parte de todos los empleadores.
+$FAB_004_DOC_1_03
+Información adicional interesante provino de la dueña de la posada Ginger Margot. Recordó que, la noche anterior al robo, el cerrajero se reunió allí con un hombre al que no reconocía. Gracias a su descripción, pudimos identificarlo como el ya mencionado Hector Vian. Al parecer, ambos hombres participaron en una <a name="7" class="hidden">velada de copas</a> patrocinada por Mugler.
+$FAB_004_DOC_1_04
+Prueba:
+$FAB_004_DOC_1_05
+<a name="8" class="hidden">Un mapa de París</a> encontrado en Héctor Vian.
+$FAB_004_OnStart_00
+¡Robar a la burguesía no es ningún crimen!
+$FAB_004_OnStart_01
+Según el expediente, usted es el ciudadano Olivier Mugler. ¿Es correcto?
+$FAB_004_OnStart_02
+Así es, monsieur le juge. ¿Puedo hacerle una petición? Me gustaría sentarme. Verá, soy un hombre mayor...
+$FAB_004_OnStart_03
+El respeto básico al tribunal exige que permanezca de pie. ¿Le dicen algo los nombres Salan, Rude y Roux?
+$FAB_004_OnStart_04
+¿Por qué te empeñas tanto en atormentar a un anciano?
+$FAB_004_OnStart_05
+Suenan como los nombres de mis deudores.
+$FAB_004_OnStart_06
+¿Deudores? Son las víctimas de sus propios actos.
+$FAB_004_OnStart_07
+¿Te refieres a la cerrajería?
+$FAB_004_OnPrison_00
+¡Condeno al ciudadano Mugler a prisión! Llévense al condenado.
+$FAB_004_OnPrison_01
+¡Indignante!
+$FAB_004_OnPrison_02
+¿Cómo puede hacerle eso a un hombre inocente?
+$FAB_004_OnPrison_03
+Tenemos las pistas, pruebas contundentes... y un veredicto conveniente, al menos para el juez. Pero ¿estás realmente seguro de su culpabilidad?
+$FAB_004_OnNotGuilty_00
+¡El veredicto para el ciudadano Olivier Mugler es... inocente! Retiren al acusado.
+$FAB_004_OnNotGuilty_01
+¡Bravo, Mugler!
+$FAB_004_OnNotGuilty_02
+¡Fuera la burguesía!
+$FAB_004_OnNotGuilty_03
+Si soy sincero, esto tiene un aire de justicia social: no le pagaron, así que los hizo robar. Aquí hay equilibrio.
+$FAB_004_02x05_00_QTitle
+Las víctimas le encargaron la fabricación de cerraduras para cofres…
+$FAB_004_02x05_00_00
+Las víctimas le encargaron fabricar cerraduras para los cofres. ¿Quién las instaló?
+$FAB_004_02x05_00_01
+Fui yo, naturalmente, y todo conforme al contrato. Mi tarea era fabricar e instalar las cerraduras, y al empleador solo le correspondía comprobar que el trabajo estuviera hecho. Y pagar, por supuesto.
+$FAB_004_02x05_00_02
+¿Se realizó la instalación en su taller?
+$FAB_004_02x05_00_03
+No, en el lugar, en la propiedad del cliente. Ninguno de esos holgazanes se molestó en llevar los baúles a mi taller, así que tuve que esforzar mis viejas piernas.
+$FAB_004_02x05_00_04
+¿Eso significa que conocía las direcciones de las víctimas?
+$FAB_004_02x05_00_05
+¿Y cómo más habría llegado? ¿Con los ojos vendados y en un carro?
+$FAB_004_04x07_01_QTitle
+¿Conocía usted a Héctor Vian antes?
+$FAB_004_04x07_01_00
+¿Conocía usted a Héctor Vian de antes?
+$FAB_004_04x07_01_01
+Es la primera vez que oigo ese nombre.
+$FAB_004_04x07_01_02
+Vaya, qué curioso, considerando que los vieron juntos vaciando varias botellas de vino en la posada de la Ginger Margot.
+$FAB_004_04x07_01_03
+¿Eso ahora es un delito?
+$FAB_004_04x07_01_04
+No, pero la pregunta es: ¿por qué lo niega ahora? ¿Acaso su borrachera fue solo una tapadera para hablar del robo?
+$FAB_004_04x07_01_05
+Nadie con quien bebí se presentó como Héctor. No planeé ningún robo con un Héctor, un Víctor ni un Hugo. Soy cerrajero y gano bien con mi oficio. Los robos son cosa de vagabundos sin trabajo.
+$FAB_004_06x08_02_QTitle
+¿Reconoce este mapa?
+$FAB_004_06x08_02_00
+¿Reconoce este mapa?
+$FAB_004_06x08_02_01
+No. No recuerdo haberlo visto antes.
+$FAB_004_06x08_02_02
+Ferdinand Salan afirma que le entregó este mapa como adelanto por sus servicios.
+$FAB_004_06x08_02_03
+¿¡Qué dice?! ¡Ese miserable comerciante de segunda! Me pagó por hacerle tres cerraduras con un mísero trozo de papel, ¡y encima asegura que vale más que los 3.000 francos que me debe!
+$FAB_004_06x08_02_04
+¡Se juzga a un trabajador honrado, mientras los estafadores siguen libres!
+$FAB_004_06x08_02_05
+¡Silencio! ¿Así que este mapa le pertenece a usted?
+$FAB_004_06x08_02_06
+No, no pertenece.
+$FAB_004_06x08_02_07
+Entonces, ¿dónde está el mapa que recibió del ciudadano Salan?
+$FAB_004_06x08_02_08
+La perdí, pero no valía ni una miga de pan, así que no voy a llorar por eso. Pero si la tienes, ¡quizás me la robaste! Más vale que anotes que Olivier Mugler exige una compensación de Rude, Roux y Salan.
+$FAB_004_05x08_03_QTitle
+¿Fue usted quien marcó las direcciones de las tres víctimas en el mapa?
+$FAB_004_05x08_03_00
+¿Fue usted quien señaló las direcciones de las tres víctimas en el mapa?
+$FAB_004_05x08_03_01
+No marqué nada.
+$FAB_004_05x08_03_02
+Las casas de tus clientes están marcadas en el mapa.
+$FAB_004_05x08_03_03
+No sé quién los marcó. Quizá deberías preguntarle a la persona a la que le encontraste el mapa.
+$FAB_004_05x08_03_04
+¿Quizás el tribunal hizo las marcas y no recuerda haberlo hecho?
+$FAB_004_05x08_03_05
+¿No le parece que hay demasiadas coincidencias en su relato? Obtiene el mapa, lo pierde, y luego lo encuentran en el ladrón que ha robado a sus clientes.
+$FAB_004_05x08_03_06
+No sé nada de casualidades. Yo solo fabrico cerraduras.
+$FAB_004_01x02_04_QTitle
+¿Cuánto cobró por sus servicios?
+$FAB_004_01x02_04_00
+¿Cuánto cobró por sus servicios?
+$FAB_004_01x02_04_01
+3.000 francos.
+$FAB_004_01x02_04_02
+Nada mal esa suma...
+$FAB_004_01x02_04_03
+Si fueras un maestro cerrajero, tú también cobrarías tanto.
+$FAB_004_01x02_04_04
+Esa es una tarifa bastante considerable…
+$FAB_004_01x02_04_05
+Así es. Eso es lo que cuesta encargar cerraduras de alta calidad a un maestro con casi cincuenta años de experiencia. ¡Y esos desgraciados no me pagaron ni un solo franco!
+$FAB_004_01x02_04_06
+¿Las víctimas no le pagaron la suma acordada?
+$FAB_004_01x02_04_07
+Ni un franco. Les sacaría ese dinero a golpes, pero ya estoy demasiado viejo para eso.
+$FAB_004_04x06_05_QTitle
+¿Le diste el mapa a Hector Vian…?
+$FAB_004_04x06_05_00
+¿Fue usted quien le entregó a Hector Vian el mapa con las casas de las víctimas señaladas?
+$FAB_004_04x06_05_01
+No le di nada a Aquiles, Héctor ni a ningún otro griego.
+$FAB_004_04x06_05_02
+Llamen al testigo, ciudadano Jean Rude.
+$FAB_004_04x06_05_04
+Jean Rude, en persona.
+$FAB_004_04x06_05_05
+No hable a menos que se le pida.
+$FAB_004_04x06_05_06
+Naturalmente, por supuesto.
+$FAB_004_01x03_06_QTitle
+Se rumorea que usted es uno de los mejores cerrajeros de todo París.
+$FAB_004_01x03_06_00
+Se rumorea que usted es uno de los mejores cerrajeros de todo París.
+$FAB_004_01x03_06_01
+Por modestia debería negarlo, pero no lo haré.
+$FAB_004_01x03_06_02
+Eso no puede ser cierto, ya que un simple ladrón de Orleans logró abrir tus cerraduras sin dificultad.
+$FAB_004_01x03_06_03
+Entonces debió de ser uno de los mejores ladrones de Orleans. Seamos sinceros, monsieur le juge, cualquier cerradura puede abrirse con el talento adecuado, incluso las mías.
+$FAB_004_02x04_07_QTitle
+¿Le contó a Hector Vian cómo abrir…?
+$FAB_004_02x04_07_00
+¿Le contó usted a Hector Vian cómo abrir las cerraduras de los baúles de las víctimas?
+$FAB_004_02x04_07_01
+Entiendo lo que insinúas, pero piensa en esto: si él hubiera vendido el secreto de mis cerraduras, mi negocio estaría acabado. Entre ladrones, las noticias corren rápido.
+$FAB_004_WIT_00_A_QTitle
+¿Qué desapareció durante el robo?
+$FAB_004_WIT_00_A_00
+¿Qué desapareció durante el robo?
+$FAB_004_WIT_00_A_01
+Mi casa fue la primera en ser robada, y en mi caso se llevaron sobre todo objetos de valor. En la casa de Roux — él no lo admitirá y yo no quiero acabar en prisión — lo que desapareció fueron las cartas que había intercambiado durante años con el rey Luis…
+$FAB_004_WIT_00_A_02
+¡Maldito monárquico!
+$FAB_004_WIT_00_A_03
+Salan no perdió nada; disparó a esa escoria en pleno acto. Eso fue lo que me dijo.
+$FAB_004_WIT_00_A_04
+¿Qué ocurrió con los objetos que había robado?
+$FAB_004_WIT_00_A_05
+Eso sigue siendo un misterio. Según Salan, Héctor no llevaba nada consigo. Ferdinand sospecha que escondió el resto de los objetos de valor en algún lugar.
+$FAB_004_WIT_00_A_06
+¿Escondió los otros objetos antes de robar la última casa? Qué extraño.
+$FAB_004_WIT_01_A_QTitle
+Pareces preocupado. ¿A qué le temes?
+$FAB_004_WIT_01_A_00
+Pareces preocupado. ¿De qué tienes miedo?
+$FAB_004_WIT_01_A_01
+Señor juez, esa multitud detrás de mí, y, ya sabe…
+$FAB_004_WIT_01_A_02
+¿Sabes qué?
+$FAB_004_WIT_01_A_03
+No quiero ir a la cárcel, y Salan dijo que si decía tonterías en el tribunal, me condenarían a varios años. ¿Es cierto?
+$FAB_004_WIT_01_A_04
+¿El ciudadano Ferdinand Salan le indicó qué debía declarar?
+$FAB_004_WIT_01_A_05
+No. Bueno, quizá podría haber dado algún consejo sobre cómo no meterse en líos por decir tonterías. Soy una persona bastante nerviosa y a veces me cuesta expresarme con claridad.
+$FAB_004_WIT_01_A_07
+Más bufón que testigo. Así es nuestra burguesía.
+$FAB_004_WIT_01_B_QTitle
+Un anticipo en forma de mapa, su desaparición, el asesinato de un ladrón y la falta de pago por los servicios.
+$FAB_004_WIT_01_B_00
+Un adelanto en forma de mapa, su desaparición, el asesinato de un ladrón y la falta de pago por los servicios. Todo esto compone una historia bastante extraña. Y también muy sospechosa.
+$FAB_004_WIT_01_B_01
+Yo no...
+$FAB_004_WIT_01_B_02
+¿Qué estás murmurando?
+$FAB_004_WIT_01_B_03
+Si digo... algo... ¿seré libre?
+$FAB_004_WIT_01_B_04
+¡Él sabe algo!
+$FAB_004_WIT_01_B_05
+¡Por favor, declare de inmediato lo que sabe!
+$FAB_004_WIT_01_B_06
+Ese mapa fue idea de Salan. Le contó al ladrón sobre el adelanto que dimos al cerrajero y propuso que Héctor lo robara.
+$FAB_004_WIT_01_B_07
+¿Y lo hizo?
+$FAB_004_WIT_01_B_08
+Así es, ¡pero luego ese desgraciado nos robó! Después, Salan nos obligó a no pagarle al cerrajero porque él mandó al ladrón tras nosotros. Y ahí fue cuando todo se vino abajo.
+$FAB_004_WIT_01_B_09
+¡Así es la burguesía! Los engañó a todos de un solo golpe.
+$FAB_004_WIT_01_B_10
+Parece que el ciudadano Salan lo tenía todo planeado. Sin embargo, no hay pruebas que respalden esa acusación. ¿Quizá sea el ciudadano Rude quien conspira contra su socio y quiere incriminarlo?
+$FAB_004_WIT_01_B_11
+Y Vian está muerto, así que no podrá arrojar luz sobre nada de esto.
+$FAB_004_WIT_01_B_13
+Si fuera más joven, le daría una paliza a ese Salan. ¡Ese cerdo, inútil, bastardo mentiroso!
+$FAB_004_WIT_01_B_14
+Por favor, contrólese. El testimonio de un testigo no constituye prueba — ni de la culpabilidad del ciudadano Salan, ni de su inocencia.
+$FAB_004_KEY_01
+Maestro cerrajero
+$FAB_004_KEY_02
+Fabricación de cerraduras
+$FAB_004_KEY_03
+Serie de robos
+$FAB_004_KEY_04
+Ladrón famoso
+$FAB_004_KEY_05
+Marcas en el mapa
+$FAB_004_KEY_06
+Anticipo de pago
+$FAB_004_KEY_07
+Noche de borrachera
+$FAB_004_KEY_08
+Mapa de París
+$FAB_004_postCourt_00
+Mira, un auténtico mapa de Turgot. Sería una lástima que se pudriera en una caja fuerte…
+$FAB_004_postCourt_01
+No podemos hacer eso.
+$FAB_004_postCourt_02
+Son depósitos judiciales.
+$FAB_004_postCourt_03
+Bueno, Mathilde ya me había dicho hace tiempo que debía ocuparme de mi despacho en casa…
+$FAB_004_postCourt_04
+Listo. Conozco a alguien que puede quitar esas marcas sin dañar el mapa.

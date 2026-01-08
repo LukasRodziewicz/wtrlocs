@@ -1,0 +1,244 @@
+$GEN_027_DOC_01_HEADER
+Zusammengestellt von: Nathan d'Essiraf
+$GEN_027_DOC_01_00
+Jean-François Vary, ein 38-jähriger ehemaliger Koch, der für den Marquis de Rougé arbeitete, wartet in einer Gefängniszelle auf seinen Prozess. Sein früherer Arbeitgeber war Monarchist und Verschwörer, wurde zum Tod durch die Guillotine verurteilt und seines Vermögens beraubt. Wir haben festgestellt, dass Vary nicht nur Koch, sondern auch <a name="2" class="hidden">ein Freund des Marquis</a> war. Was er nach der Verhaftung seines Arbeitgebers tat, ist uns unbekannt, doch ein Jahr später eröffnete er in Paris <a name="3" class="hidden">ein luxuriöses Restaurant</a> mit dem Namen „Unter der goldenen Chimäre“. Besonders beliebt ist es bei Aristokraten sowie wohlhabenden Kaufleuten und Fabrikanten.
+$GEN_027_DOC_01_01
+Vary wurde von einer wütenden Menge zur Nationalgarde gebracht, nachdem er <a name="4" class="hidden">ein Schild</a> über dem Restaurant angebracht hatte, auf dem stand: „Die besten Bürger sind willkommen“. Die Pariser, die diese eigenmächtige Festnahme durchführten, beschuldigten den Gastwirt, konterrevolutionäre Ansichten zu vertreten und gegen das Volk von Paris zu handeln. Soldaten trafen rasch am Ort des Geschehens ein. Zwar konnten sie das Schild nicht retten, doch verhinderten sie, dass die Menge das Restaurant und seine Gäste in Brand setzte.
+$GEN_027_DOC_01_02
+Die Ermittlungen ergaben, dass Vary Kunden aus den unteren Gesellschaftsschichten <a name="6" class="hidden">mit deutlich weniger Respekt</a> behandelte als Aristokraten. Er verlangte von ihnen sogar überhöhte Preise oder verweigerte ihnen ganz den Service.
+$GEN_027_DOC_01_03
+Einer der aufschlussreichsten Vorfälle betraf die Empörung des wohlhabenden und angesehenen Schuhmachers <a name="7" class="hidden">Paul Idrac</a>, als er öffentlich gezwungen wurde, das Restaurant zu verlassen. Angeblich begleitete Vary Idrac persönlich nach draußen und nannte ihn einen „Pöbel, der es nicht verdient, mit seinen Vorgesetzten zu speisen“.
+$GEN_027_OnStart_00
+Dieser Koch-Heini hält sich wohl für was Besseres als wir!
+$GEN_027_OnStart_01
+Bitte stellen Sie sich vor.
+$GEN_027_OnStart_02
+Mein Name ist Jean-François Vary, Monsieur Richter.
+$GEN_027_OnStart_03
+Jean-François, Ihnen wird vorgeworfen, Ansichten zu vertreten und zu handeln, die den Errungenschaften der Revolution widersprechen. Wie äußern Sie sich zu diesen Anklagen?
+$GEN_027_OnStart_04
+Diese Anschuldigungen sind lächerlich. Das ist bloße Verleumdung und… und… die illegalen Machenschaften von Leuten, die meinem Geschäft den Erfolg neiden!
+$GEN_027_OnStart_05
+Die Akten belegen eindeutig, dass Sie es waren, der das Gesetz gebrochen hat.
+$GEN_027_OnStart_06
+Sagen Sie mir, wann und auf welche Weise habe ich das Gesetz gebrochen?
+$GEN_027_OnStart_07
+Sie haben Bürgern den Dienst verweigert, die Sie als minderwertig erachten. Darüber hinaus haben Sie dies offen vor den Betroffenen und allen Anwesenden zugegeben.
+$GEN_027_OnStart_08
+Das ist lediglich ein Missverständnis zwischen meinen Mandanten und mir, keinesfalls ein Fall für das Gericht.
+$GEN_027_OnGuilty_00
+Ich verurteile Jean-François zur Guillotine! Führt den Verurteilten ab.
+$GEN_027_OnGuilty_01
+Zeig ihm, wo sein Platz ist!
+$GEN_027_OnGuilty_02
+Bravo!
+$GEN_027_OnGuilty_03
+Heute haben wir uns auf die Seite der einfachen Pariser gestellt.
+$GEN_027_OnNotGuilty_00
+Das Urteil im Fall Jean-François lautet… nicht schuldig! Der Angeklagte ist frei.
+$GEN_027_OnNotGuilty_01
+Ist er verrückt?!
+$GEN_027_OnNotGuilty_02
+Sie lassen einen Feind des Volkes frei!
+$GEN_027_OnNotGuilty_03
+Hoffen Sie auf einen guten Tisch und ein kostenloses Abendessen?
+$GEN_027_02x04_00_QTitle
+Welche Bürger bezeichnen Sie als „die Besten“?
+$GEN_027_02x04_00_00
+Welche Bürger bezeichnen Sie als „die Besten“?
+$GEN_027_02x04_00_01
+Diejenigen, die sich mit Etikette auskennen und ihr Mahl bezahlen – zum vollen Preis.
+$GEN_027_02x04_00_02
+Und wer erfüllt diese Anforderungen?
+$GEN_027_02x04_00_03
+Aus eigener Erfahrung weiß ich, dass es meist Aristokraten und Industrielle sind. Die sogenannte feine Gesellschaft, wie man sie manchmal nennt.
+$GEN_027_02x04_00_04
+Heißt das, aus Ihrer Sicht sind Aristokraten die besseren Bürger?
+$GEN_027_02x04_00_05
+Ich hatte niemals vor, Menschen in Überlegene und Unterlegene zu unterteilen.
+$GEN_027_02x04_00_06
+Und doch haben Sie es getan. Ihr Schild verweigerte jenen den Zutritt, die Sie für minderwertig hielten.
+$GEN_027_02x04_00_07
+Haben Sie es mit eigenen Augen gesehen?
+$GEN_027_02x04_00_08
+Nein, die Menge hat sie zerstört.
+$GEN_027_02x04_00_09
+Ich habe doch nur geschrieben, dass im „Zur Goldenen Chimäre“ die besten Bürger speisen. Was soll daran konterrevolutionär sein?
+$GEN_027_02x04_00_10
+Lügner! Wir wissen genau, was wir gesehen haben.
+$GEN_027_02x04_00_11
+Ihr könnt ja nicht einmal lesen, ihr Nichtsnutze!
+$GEN_027_02x05_01_QTitle
+Wie erinnern Sie sich an die Zeit vor der Revolution?
+$GEN_027_02x05_01_00
+Wie erinnern Sie sich an die Zeit vor der Revolution?
+$GEN_027_02x05_01_01
+Als Meister meines Handwerks führte ich ein anständiges Leben.
+$GEN_027_02x05_01_02
+War das alles, worum Sie sich damals gekümmert haben?
+$GEN_027_02x05_01_03
+Nun, so habe ich das doch gar nicht gemeint –
+$GEN_027_02x05_01_04
+Weil du und der Marquis euch an unserem Elend sattgefressen habt!
+$GEN_027_02x05_01_05
+Unterstützen Sie die Revolution also nicht?
+$GEN_027_02x05_01_06
+Das stimmt nicht! Ich wollte nur sagen, dass ich selbst nie jene ungeheure Ungerechtigkeit erlebt habe, wie sie andere erleiden mussten.
+$GEN_027_02x05_01_07
+Natürlich nicht, Sie haben ja in einem Palast gelebt, nicht in einer Scheune.
+$GEN_027_02x05_01_08
+Monsieur le juge, ich habe mir meine Privilegien hart erarbeitet. Ich stamme nicht aus reichem Hause und musste wie alle anderen für mein Brot arbeiten.
+$GEN_027_04x05_02_QTitle
+Haben Sie das Schild über Ihrem Restaurant aufgehängt?
+$GEN_027_04x05_02_00
+Haben Sie das Schild über Ihrem Restaurant aufgehängt?
+$GEN_027_04x05_02_01
+Ja, Herr Richter, das habe ich.
+$GEN_027_04x05_02_02
+Warum haben Sie das getan? Die Botschaft auf dem Schild stand eindeutig im Widerspruch zu den revolutionären Idealen von Gleichheit und Brüderlichkeit.
+$GEN_027_04x05_02_03
+Ich wollte nur allen mitteilen, dass mein Restaurant selbst die Ansprüche der anspruchsvollsten Gäste erfüllt.
+$GEN_027_04x05_02_04
+Und was ist mit dem einfachen Volk und seinen Forderungen?
+$GEN_027_04x05_02_05
+Ich würde dort essen, warum nicht.
+$GEN_027_04x05_02_06
+Es ist nicht das, was Sie denken. Es gibt eine Vielzahl von Restaurants, sowohl günstige als auch teure. Ich wollte meinen Kunden nur zeigen, was sie drinnen erwartet.
+$GEN_027_04x05_02_07
+Das Schild macht deutlich, dass viele Kunden hier nicht erwünscht sind.
+$GEN_027_04x05_02_08
+Jeder ist willkommen, solange er sich zu benehmen weiß und für sein Essen bezahlt. Ich darf doch wohl erwarten, dass man mir das Geschuldete zahlt und sich anständig benimmt, oder etwa nicht?
+$GEN_027_04x05_02_09
+Was für ein eingebildeter, gieriger Mistkerl!
+$GEN_027_04x05_02_10
+Hörst du die Verachtung in seiner Stimme?
+$GEN_027_06x07_03_QTitle
+Rufen Sie den Zeugen Paul Idrac auf.
+$GEN_027_06x07_03_00
+Rufen Sie den Zeugen Paul Idrac herein.
+$GEN_027_06x07_03_02
+Bitte stellen Sie sich vor.
+$GEN_027_06x07_03_03
+Ich bin Paul Idrac.
+$GEN_027_06x07_03_04
+Was ist Ihr Beruf?
+$GEN_027_06x07_03_05
+Ich bin Schuhmacher, Monsieur Richter, wie schon mein Vater und Großvater.
+$GEN_027_05x06_04_QTitle
+Ist es normal, dass ein Restaurantbesitzer Gästen den Service verweigert?
+$GEN_027_05x06_04_00
+Ist es üblich, dass ein Restaurantbesitzer Gästen den Service verweigert?
+$GEN_027_05x06_04_01
+Wenn ein Mann mit nichts als Löchern in den Taschen ein Geschäft betritt und nach einer goldenen Tabatiere fragt, glauben Sie, dass ihn jemand bedienen würde?
+$GEN_027_05x06_04_02
+Sie haben also die Leute gebeten, am Eingang den Inhalt ihrer Taschen zu zeigen?
+$GEN_027_05x06_04_03
+Nein.
+$GEN_027_05x06_04_04
+Woher wussten Sie dann, wem Sie dienen sollten?
+$GEN_027_05x06_04_05
+Das sieht man auf den ersten Blick.
+$GEN_027_05x06_04_06
+Er mochte unsere rauen Gesichter nicht!
+$GEN_027_03x04_05_QTitle
+Hegen Sie Vorurteile gegenüber Menschen, die nicht aus dem Adel stammen?
+$GEN_027_03x04_05_00
+Hegen Sie Vorurteile gegenüber Menschen, die nicht aus dem Adel stammen?
+$GEN_027_03x04_05_01
+Warum sollte ich? Ich stamme selbst nicht von ihnen.
+$GEN_027_03x04_05_02
+Ihr Verhalten lässt auf das Gegenteil schließen.
+$GEN_027_03x04_05_03
+Menschen, die es sich leisten können, in meinem Restaurant zu speisen, genießen Komplimente.
+$GEN_027_03x04_05_04
+Und die anderen lassen sich gern beleidigen?
+$GEN_027_03x04_05_05
+Ich habe niemanden beleidigt!
+$GEN_027_03x04_05_06
+Haben Sie das gehört? Er hat doch niemanden beleidigt.
+$GEN_027_WIT_00_A_QTitle
+Haben Sie dem Angeklagten irgendeinen Anlass gegeben, Sie aus dem Restaurant zu werfen?
+$GEN_027_WIT_00_A_00
+Haben Sie dem Angeklagten irgendeinen Anlass gegeben, Sie aus dem Restaurant zu werfen?
+$GEN_027_WIT_00_A_01
+Ganz und gar nicht! Vary hat mich weggeschickt, weil die Hohen und Mächtigen keinen Schuster in ihrer Gesellschaft dulden!
+$GEN_027_WIT_00_A_02
+Haben Sie sich unangemessen verhalten? Waren Sie vielleicht zu laut?
+$GEN_027_WIT_00_A_03
+Nein, das Einzige, was zählte, war meine Herkunft.
+$GEN_027_WIT_00_A_04
+Woher wissen Sie, dass das der Grund war?
+$GEN_027_WIT_00_A_05
+Vary hat es mir selbst gesagt, noch bevor er die Tür geöffnet hat! Ich habe ihm sogar das Geld gezeigt, um zu beweisen, dass ich zahlen kann, aber er wollte nicht zuhören. Natürlich gefiel es Baron Laval und seiner Geliebten nicht, das Zimmer mit einem Schuster zu teilen.
+$GEN_027_WIT_01_A_QTitle
+Kennen Sie weitere Personen, die gezwungen wurden, das Restaurant zu verlassen?
+$GEN_027_WIT_01_A_00
+Kennen Sie weitere Personen, die gezwungen wurden, das Restaurant zu verlassen?
+$GEN_027_WIT_01_A_01
+Natürlich kenne ich einige Leute, die hinausgeworfen wurden, nur weil sie sich von den anderen Gästen unterschieden – wissen Sie, sie waren eben keine Aristokraten.
+$GEN_027_WIT_01_A_03
+Monsieur le juge, er lügt. Ich habe ihn fortgeschickt, weil ich ihn beim Versuch erwischt habe, das Silberbesteck zu stehlen.
+$GEN_027_WIT_01_A_04
+Haben Sie die zuständigen Behörden benachrichtigt?
+$GEN_027_WIT_01_A_05
+Nun… nein. Ich habe entschieden, dass kein Schaden entstanden ist, da er nichts stehlen konnte.
+$GEN_027_WIT_01_B_QTitle
+Was wissen Sie über die politischen Ansichten des Angeklagten?
+$GEN_027_WIT_01_B_00
+Was wissen Sie über die politischen Ansichten des Angeklagten?
+$GEN_027_WIT_01_B_01
+Monsieur le juge, ich stehe seit Anbeginn auf Seiten der Revolution und erkenne einen Monarchisten schon aus der Ferne. Dieser hier ist ein waschechter Feind der Revolution.
+$GEN_027_WIT_01_B_02
+Woher nimmst du diese Gewissheit?
+$GEN_027_WIT_01_B_03
+Es reichte schon, ihm zuzuhören, als er mich hinauswarf.
+$GEN_027_WIT_01_B_04
+Fahren Sie fort.
+$GEN_027_WIT_01_B_05
+Als ich im Schlamm landete, sagte er, früher hätten die Plebejer ihren Platz gekannt, doch die Revolution habe alles auf den Kopf gestellt – und verflucht sei die Revolution.
+$GEN_027_WIT_01_B_06
+Können Sie das beweisen?
+$GEN_027_WIT_01_B_07
+Bin ich etwa kein Beweis?
+$GEN_027_WIT_01_B_09
+Monsieur le juge, ich kann mich nicht erinnern, solche Worte gebraucht zu haben. Dieser Mann versucht, mich dreist zu verleumden!
+$GEN_027_KEY_01
+Chefkoch
+$GEN_027_KEY_02
+Freund des Marquis
+$GEN_027_KEY_03
+Exklusives Restaurant
+$GEN_027_KEY_04
+Schild
+$GEN_027_KEY_05
+Konterrevolutionäre Ansichten
+$GEN_027_KEY_06
+Umgang mit Klienten
+$GEN_027_KEY_07
+Den Schuster zum Gehen zwingen
+$GEN_027_LastDialog_00
+Das ist ein offensichtliches und schreckliches Missverständnis! Für so etwas darf man doch niemanden töten! Hilfe!
+$GEN_027_UNIQUE_QUESTION_01
+Welche Menschen zählt der Angeklagte zu den „besten Bürgern“?
+$GEN_027_UNIQUE_ANSWER_CORRECT_01_00
+Diejenigen mit feinen Umgangsformen.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Die Bescheidenen und Stillen.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Die Großzügigen und Vornehmen.
+$GEN_027_UNIQUE_QUESTION_02
+Wie begründete der Angeklagte, dass er einigen Kunden den Dienst verweigerte?
+$GEN_027_UNIQUE_ANSWER_CORRECT_02_00
+Er verlangte höhere Preise.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Es mangelte ihm an Tischen.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Er verweigerte armen Bürgern mit schmutzigen Schuhen den Zutritt.
+$GEN_027_UNIQUE_QUESTION_03
+Wessen beschuldigte der Angeklagte Bürger Idrac?
+$GEN_027_UNIQUE_ANSWER_CORRECT_03_00
+Beim Versuch, das Silberbesteck zu stehlen.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Unhöflichkeit gegenüber Damen.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Trunkenheit und Lärmbelästigung.

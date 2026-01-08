@@ -1,0 +1,38 @@
+$SPEECH_KING_01_01_07_001_JUDGE
+Leute, was beunruhigt euch? Warum seid ihr so wütend?
+$SPEECH_KING_01_01_07_002_AUDIENCE
+Der König hat uns belogen!
+$SPEECH_KING_01_01_07_003_AUDIENCE
+Dieser Feigling ist vor uns geflohen! Vor der Gerechtigkeit wird er ebenso fliehen!
+$SPEECH_KING_01_01_07_004_AUDIENCE
+Wir haben im eisernen Schrank Beweise für den Verrat des Königs gefunden!
+$SPEECH_KING_01_01_07_005_JUDGE_AGGR
+Der König wurde gefangen genommen. Diesmal wird er nicht entkommen. Und sollte er es versuchen, bringe ich ihn eigenhändig um!
+$SPEECH_KING_01_01_07_006_JUDGE_MANI
+Louis Capet ist aus Fleisch und Blut – ein Bürger, genau wie Sie! Dem langen Arm des Gesetzes kann er nicht entkommen.
+$SPEECH_KING_01_01_07_007_JUDGE_JOKE
+Zweifellos wird heute Gerechtigkeit ihren Lauf nehmen. Legen Sie also Ihre Zweifel ab!
+$SPEECH_KING_01_01_07_008_JUDGE_HUMI
+Niemand entkommt der Gerechtigkeit der Republik! Selbst Könige müssen sich vor dem Antlitz der Themis und dem Willen des Volkes beugen.
+$SPEECH_KING_01_01_07_009_JUDGE_AGGR
+Jeder Verrat an Frankreich wird mit dem Tode bestraft! Wir werden die neuen Beweise prüfen, und sollten sich die Gerüchte bestätigen, versichere ich Ihnen, dass ich diesen Verräter eigenhändig enthaupten werde!
+$SPEECH_KING_01_01_07_010_JUDGE_MANI
+Wir werden neue Beweise nicht ignorieren. Gewissenhaft werden wir jeder Spur nachgehen – für die Republik, und nur für die Republik.
+$SPEECH_KING_01_01_07_011_JUDGE_JOKE
+Die neuen Beweise werden nicht übersehen. An Ihrer Stelle wäre ich ganz unbesorgt!
+$SPEECH_KING_01_01_07_012_JUDGE_HUMI
+Jedes neue Beweisstück wird sorgfältig geprüft. Die Gesetze der Republik verlangen nichts Geringeres! Ich werde ihnen aufs Genaueste folgen!
+$SPEECH_KING_01_01_07_013_JUDGE_AGGR
+Ich werde Sie nicht enttäuschen! Wenn das Blut der Verräter vergossen werden muss, dann wird es vergossen. Ich werde persönlich dafür sorgen!
+$SPEECH_KING_01_01_07_014_JUDGE_MANI
+Die Gerechtigkeit muss in unser Land zurückkehren und für immer hier bleiben. Niemand sorgt sich mehr um diese Sache als ein Richter des Tribunals.
+$SPEECH_KING_01_01_07_015_JUDGE_JOKE
+Ich werde das so reibungslos erledigen, dass ihr bis tief in die Nacht feiert und fröhlich Wein in den Tavernen schlürft!
+$SPEECH_KING_01_01_07_016_JUDGE_HUMI
+Ich weiß, dass Sie vielleicht wütend sind. Aber Sie haben Ihre Vertreter gewählt, um Sie zu schützen. Vertrauen Sie mir.
+$SPEECH_KING_TOPIC_01
+Bürger Capet wird der Gerechtigkeit nicht entkommen.
+$SPEECH_KING_TOPIC_02
+Die Beweise aus dem Eisenschrank werden geprüft.
+$SPEECH_KING_TOPIC_03
+Glauben Sie mir.

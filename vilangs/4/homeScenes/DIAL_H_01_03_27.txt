@@ -1,0 +1,20 @@
+$DIAL_H_01_03_27_001_FATHER
+Wo ist Bernard?
+$DIAL_H_01_03_27_002_WIFE
+Er hat sich irgendwo versteckt und weint.
+$DIAL_H_01_03_27_003_JUDGE
+Ich weiß nicht, was ich tun soll...
+$DIAL_H_01_03_27_004_WIFE
+Warum öffnest du überhaupt den Mund? Es ist alles deine Schuld! Du hast mit unserem Leben gespielt!
+$DIAL_H_01_03_27_005_JUDGE
+Ich habe versucht, Sie zu retten.
+$DIAL_H_01_03_27_006_FATHER
+Wir wissen ...
+$DIAL_H_01_03_27_007_WIFE
+Weißt du das wirklich? Denn ich sehe nichts mehr außer Zerstörung. Schon seit langer Zeit nicht mehr.
+$DIAL_H_01_03_27_008_JUDGE
+Es tut mir wirklich leid.
+$DIAL_H_01_03_27_009_FATHER
+Wir müssen zusammenhalten… Wir dürfen–
+$DIAL_H_01_03_27_010_WIFE
+Ihr haltet zusammen, ich muss mich um unseren einzigen verbliebenen Sohn kümmern. Er versteht immer noch nicht, warum jemand seinen Bruder töten wollte. Aber er muss es begreifen.

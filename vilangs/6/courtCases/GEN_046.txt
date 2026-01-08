@@ -1,0 +1,164 @@
+$GEN_046_DOC_01_HEADER
+Compilado por: Charles Etienne
+$GEN_046_DOC_01_00
+	La familia de Bastien Baudet, un panadero de 33 años, se mudó a una <a name="1" class="hidden">casa vacía</a> cerca de la sección des Piques. Declararon al investigador que, unos días antes, su vivienda había sido alcanzada por un <a name="2" class="hidden">proyectil de mortero</a>, cuyo impacto derribó el techo y una de las paredes.
+$GEN_046_DOC_01_01
+	Unos días después, Baudet y su familia fueron descubiertos por el dueño de la casa, que parecía abandonada, el ciudadano Solé. Resultó que no se había marchado definitivamente. Unos días antes, un incendio había estallado en el barrio y la familia Solé se había refugiado temporalmente con parientes en las afueras.
+$GEN_046_DOC_01_02
+	El legítimo propietario de la casa pronto se dio cuenta de que su cubertería de plata había desaparecido, sus provisiones habían sido consumidas y parte de los muebles habían sido cortados y quemados en la chimenea. Durante el interrogatorio a ambas familias, supimos que el primer encuentro entre las partes terminó en una <a name="6" class="hidden">pelea</a>, ganada por Baudet. Solo gracias a la intervención de la Guardia, el ciudadano Solé pudo deshacerse de los inquilinos indeseados, y el impulsivo panadero fue detenido.
+$GEN_046_OnStart_00
+¿Se llama usted Bastien Baudet?
+$GEN_046_OnStart_01
+Sí, monsieur le juge.
+$GEN_046_OnStart_02
+Se instaló en el apartamento del ciudadano Solé sin permiso.
+$GEN_046_OnStart_03
+Hay muchos apartamentos vacíos en París. Elegimos uno porque no teníamos a dónde ir.
+$GEN_046_OnStart_04
+¡Un hombre ingenioso siempre encontrará la manera de cuidar a su familia!
+$GEN_046_OnStart_05
+¿Le pidió permiso a alguien?
+$GEN_046_OnStart_06
+No había a quién preguntar. La casa estaba vacía, así que entramos. No podía permitir que mis hijos durmieran a la intemperie.
+$GEN_046_OnGuilty_00
+Ciudadano Baudet, por robo con allanamiento, hurto, vandalismo y agresión, le condeno a la guillotina.
+$GEN_046_OnGuilty_01
+¿Qué hará su familia sin un padre?
+$GEN_046_OnGuilty_02
+El tribunal los llevó a la ruina.
+$GEN_046_OnGuilty_03
+¡Así debe ser! Si toleráramos ese comportamiento, París caería en un solo día.
+$GEN_046_OnNotGuilty_00
+Teniendo en cuenta las circunstancias, no puedo castigarle. Solo me queda esperar que defienda París con la misma determinación con la que protege a su familia.
+$GEN_046_OnNotGuilty_01
+Absorber a la gente es una cosa, pero dime, ¿dónde se quedarán ahora?
+$GEN_046_01x04_00_QTitle
+¿Qué le hizo pensar que el apartamento del ciudadano Solé estaba abandonado?
+$GEN_046_01x04_00_00
+¿Qué le hizo pensar que el apartamento del ciudadano Solé había sido abandonado?
+$GEN_046_01x04_00_01
+No había nadie dentro y la ceniza de la chimenea estaba fría. Estas noches han sido gélidas; si alguien hubiera estado viviendo allí, habría encendido el fuego hace poco.
+$GEN_046_01x04_00_02
+¿Le preguntaste a los vecinos por los dueños? Deberías haber empezado por ahí.
+$GEN_046_01x04_00_03
+No.
+$GEN_046_01x04_00_04
+¿Por qué?
+$GEN_046_01x04_00_05
+Nunca se me pasó por la cabeza hacerlo. Estaba demasiado ocupado buscando comida para mis hijos.
+$GEN_046_01x04_00_06
+¿Es por eso que vendiste su cubertería de plata?
+$GEN_046_01x04_00_07
+¿Has visto el precio de la mantequilla? Nadie me daría comida a cambio de cucharas de madera.
+$GEN_046_01x04_00_08
+¿Y la carne?! ¿Sabes cuánto piden por el cordero?
+$GEN_046_01x04_00_09
+¡Malditos mercaderes!
+$GEN_046_03x01_01_QTitle
+Llame al ciudadano Solé como testigo.
+$GEN_046_03x01_01_00
+Llame al ciudadano Solé como testigo.
+$GEN_046_03x01_01_02
+¿La casa le pertenece?
+$GEN_046_03x01_01_03
+Mi esposa lo heredó de su tío abuelo.
+$GEN_046_03x01_01_04
+¿Por qué huyó de su hogar?
+$GEN_046_03x01_01_05
+Una noche, la gente empezó a gritar que había un incendio. Miré por la ventana y la calle estaba oscura por el humo. Desperté a mi esposa y a mi hija, y escapamos.
+$GEN_046_03x01_01_06
+¿Fue un incendio grande?
+$GEN_046_03x01_01_07
+¡Hasta donde yo sabía, los granaderos podían irrumpir en cualquier momento y empezar a disparar y violar!
+$GEN_046_03x01_01_08
+Deberías haber esperado a ver qué sucedía en vez de huir de quién sabe qué.
+$GEN_046_03x01_01_09
+¿Qué ocurrió después?
+$GEN_046_03x01_01_10
+Después de dos días, quise asegurarme de que nuestra casa no hubiera sido destruida. ¡Para mi sorpresa, vi a ese salvaje dentro, destrozando mis sillas y gritándole a su esposa!
+$GEN_046_03x01_01_11
+¿Lo atacó usted?
+$GEN_046_03x01_01_12
+Creo que estaba gritando, pero al ver la puerta me enfurecí.
+$GEN_046_03x01_01_13
+¿Estaba rota?
+$GEN_046_03x01_01_14
+Por supuesto. Cuando exigí saber qué hacían allí, ese hombre empezó a blandir el hacha.
+$GEN_046_02x01_02_QTitle
+¿Es cierto que su casa fue destruida por el fuego de artillería?
+$GEN_046_02x01_02_00
+¿Es cierto que su casa fue destruida por el fuego de artillería?
+$GEN_046_02x01_02_01
+En efecto.
+$GEN_046_02x01_02_02
+¿Alguien murió?
+$GEN_046_02x01_02_03
+A mi suegro lo aplastaron los escombros y la madera. Gracias a Dios que a los niños no les pasó nada.
+$GEN_046_02x01_02_04
+¿Un proyectil de mortero destruyó su casa, y aun así respondió destruyendo la casa del ciudadano Solé?
+$GEN_046_02x01_02_05
+¿Habla usted de los muebles? Tenía que mantener calientes a mis hijos por la noche y no sabía dónde guardaban la leña.
+$GEN_046_02x01_02_06
+¿No había leña cerca para quemar?
+$GEN_046_02x01_02_07
+¿De verdad tenía que buscarlo cuando había leña por todas partes?
+$GEN_046_02x01_02_08
+París se está muriendo y ellos se preocupan por los muebles.
+$GEN_046_06x04_03_QTitle
+Cuénteme más sobre la disputa entre ustedes dos. ¿Fue por la cubertería?
+$GEN_046_06x04_03_00
+Cuénteme más sobre la disputa entre ustedes. ¿Fue por la cubertería?
+$GEN_046_06x04_03_01
+¿Sabe? Ese tipo entró gritando y husmeando por la casa. Yo no tenía forma de saber si era realmente el dueño o no.
+$GEN_046_06x04_03_02
+No finja que estaba protegiendo los bienes de otra persona.
+$GEN_046_06x04_03_03
+Solo digo que entró y empezó a gritar.
+$GEN_046_06x04_03_04
+¿Así que querías echarlo?
+$GEN_046_06x04_03_05
+En realidad, me agarró de la camisa cuando estaba cortando las sillas, así que le amenacé un poco. Eso es todo lo que hice.
+$GEN_046_06x04_03_06
+¡Qué amable de su parte!
+$GEN_046_06x04_03_07
+¿Lo heriste?
+$GEN_046_06x04_03_08
+En cuanto comprendió lo que sucedía, desapareció. Solo oímos pasos en la escalera y el portazo de una puerta.
+$GEN_046_KEY_01
+Casa vacía
+$GEN_046_KEY_02
+Granada de mortero
+$GEN_046_KEY_03
+Incendio
+$GEN_046_KEY_04
+Cubertería de plata
+$GEN_046_KEY_05
+Muebles destrozados
+$GEN_046_KEY_06
+Pelea
+$GEN_046_LastDialog_00
+¡Espero que cuides de los niños que van a quedarse sin padre por tu culpa, desgraciado!
+$GEN_046_UNIQUE_QUESTION_00
+¿Por qué los Baudet abandonaron su casa?
+$GEN_046_UNIQUE_ANSWER_CORRECT_00_00
+Fue destruido por un disparo de mortero.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Los soldados los echaron.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_00_01
+No tenían nada para comer.
+$GEN_046_UNIQUE_QUESTION_01
+¿Habló Baudet con alguien antes de entrar en la casa?
+$GEN_046_UNIQUE_ANSWER_CORRECT_01_00
+No habló con nadie.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Habló con los vecinos.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Habló con el propietario del edificio.
+$GEN_046_UNIQUE_QUESTION_02
+¿Por qué estaba vacía la casa?
+$GEN_046_UNIQUE_ANSWER_CORRECT_02_00
+El anfitrión huyó del incendio.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Los habitantes fueron desalojados por la Guardia.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_02_01
+La casa estaba vacía desde que falleció la suegra del ciudadano Solé.

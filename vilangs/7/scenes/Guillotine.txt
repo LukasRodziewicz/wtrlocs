@@ -1,0 +1,46 @@
+$EXECUTION_START_TIP
+밧줄을 당겨 처형을 집행하십시오
+$SUMMON_GUARDS
+경비를 부르시오
+$SKIP_SPEECH
+연설 건너뛰기
+$PEOPLE_ATTITUDE
+[서민들의 태도]
+$PEOPLE_ATTITUDE_DESC
+서민의 태도: 의미와 작동 방식
+$PEOPLE_ATTITUDE_LV1
+공격성
+$PEOPLE_ATTITUDE_LV2
+불만
+$PEOPLE_ATTITUDE_LV3
+무관심
+$PEOPLE_ATTITUDE_LV4
+호의
+$PEOPLE_ATTITUDE_LV5
+행복
+$GUILLOTINE_ATTACK_SUCCESS_DESC
+처형장에 모인 군중은 당신의 말에 불만을 품었습니다. 주먹과 곤봉이 난무했습니다. 불행히도 경비병들은 너무 멀리 있어 제때 대응하지 못했습니다. 당신은 분노한 군중을 홀로 마주해야 했습니다.
+$GUILLOTINE_ATTACK_FAILURE_DESC
+처형장에 모인 군중은 당신의 말에 불만을 품었습니다. 그들은 주먹으로 당신의 몸에 분노를 새기려 했습니다. 다행히 경비병들이 준비되어 있었고, 신속히 상황을 진정시켰습니다. 당신의 평판은 손상되었지만, 처형은 계속할 수 있습니다.
+$GUILLOTINE_START_SPEECH
+서민들에게 연설하기.
+$GUILLOTINE_SPEECH_START_LOW_JUSTICE
+그들은 의심스러워 보이는데…
+$GUILLOTINE_SPEECH_START_NEUTRAL_JUSTICE
+군중의 마음을 사로잡을 수 있을지도 모르겠군.
+$GUILLOTINE_SPEECH_START_HIGH_JUSTICE
+그들은 내 손바닥 위에 있어. 나를 믿고 있지.
+$GUILLOTINE_HEART_LOW_JUSTICE
+그들은 나를 믿지 않아.
+$GUILLOTINE_HEART_NEUTRAL_JUSTICE
+불신.
+$GUILLOTINE_HEART_HIGH_JUSTICE
+그들은 나를 믿고 있다.
+$TIMERGUARD
+우리가 너무 오래 지체했어. 민중이 들끓고 있어!
+#GUILLOTINE_COMMENT_000
+목을 쳐라!
+#GUILLOTINE_COMMENT_001
+밧줄을 당겨라!
+#GUILLOTINE_COMMENT_002
+혁명을 위하여!

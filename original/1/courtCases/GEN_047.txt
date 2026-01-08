@@ -1,0 +1,202 @@
+$GEN_047_DOC_01_HEADER
+Compiled by: Charles Étienne
+$GEN_047_DOC_01_00
+	During a <a name="1" class="hidden">fight</a> in the suburbs, four lancers from enemy troops were detained by our militia regiment. Our soldiers first shot down their horses, then <a name="2" class="hidden">stormed the inn</a> which the cavalrymen had run to on foot.
+$GEN_047_DOC_01_01
+	Restrained and gagged, the enemies were taken to the temporary headquarters located in a small <a name="3" class="hidden">farm in the country</a>. There was no time for interrogation, as a counter-offensive was still underway. Instead, the prisoners were detained in a storage cellar guarded by 17-year-old Private Victor Devalle. Following protocol, he was armed with a rifle and pistol.
+$GEN_047_DOC_01_02
+	In the evening, one of the officers wanted to move the lancers to the general staff. He found <a name="5" class="hidden">the guard was sleeping</a> near the door and one of the cavalrymen had managed to escape. His companions must have lifted him up and helped him to remove the old, rusty bars. The escapee gave away the location of our field staff and we lost our prisoners.
+$GEN_047_OnStart_00
+Are you Private Victor Devalle?
+$GEN_047_OnStart_01
+Yes, monsieur le juge.
+$GEN_047_OnStart_02
+How old are you?
+$GEN_047_OnStart_03
+Seventeen, monsieur le juge.
+$GEN_047_OnStart_04
+In my day, children were more responsible than that fellow!
+$GEN_047_OnStart_05
+How long have you been serving in the army?
+$GEN_047_OnStart_06
+For three weeks, monsieur le juge.
+$GEN_047_OnStart_07
+And you have already managed to commit a war crime?
+$GEN_047_OnStart_08
+Do you know the possible consequences that await you? Do you want to say something?
+$GEN_047_OnStart_09
+Yes, sir. I did not intend to let the prisoner go free.
+$GEN_047_OnGuilty_00
+Soldier, your negligent attitude towards your duties could have cost many people their lives. We will make an example of your execution.
+$GEN_047_OnGuilty_01
+What savage kills a kid because he was sleepy?
+$GEN_047_OnNotGuilty_00
+By falling asleep you put many lives in danger, but we still need you in our ranks. You are free to go, Private.
+$GEN_047_OnNotGuilty_01
+We should not be so lenient. We are at war.
+$GEN_047_OnNotGuilty_02
+Yes, soldiers should fight, not rot in a cell!
+$GEN_047_OnNotGuilty_03
+What? The whole unit could have been killed because of him!
+$GEN_047_01x05_00_QTitle
+Why were you so tired on the day of the incident? Were you fighting?
+$GEN_047_01x05_00_00
+Why were you so tired on the day of the incident? Were you fighting?
+$GEN_047_01x05_00_01
+Only in the morning, monsieur le juge.
+$GEN_047_01x05_00_02
+Why?
+$GEN_047_01x05_00_03
+My column found itself under artillery fire. There was panic, and we escaped.
+$GEN_047_01x05_00_04
+In the old days we fought like men. What happened to us?
+$GEN_047_01x05_00_05
+Did you run too, soldier?
+$GEN_047_01x05_00_06
+A man standing right next to me was torn in half by round shot… I…
+$GEN_047_01x05_00_07
+You escaped because you were scared?
+$GEN_047_01x05_00_08
+Yes, I was scared.
+$GEN_047_01x05_00_09
+Let me guess, you were also too scared to shoot the prisoners…
+$GEN_047_01x05_00_10
+If I hadn’t been sleeping–
+$GEN_047_01x05_00_11
+You’d better stop talking, boy.
+$GEN_047_03x04_01_QTitle
+The headquarters were located at a farm?
+$GEN_047_03x04_01_00
+The headquarters were located at a farm?
+$GEN_047_03x04_01_01
+It was an old house, more like a shack, surrounded by a few small buildings – a pigsty, a hen house, a woodshed.
+$GEN_047_03x04_01_02
+How did the prisoner escape?
+$GEN_047_03x04_01_03
+They must have pulled the bars out. The building was barely holding itself together, monsieur le juge. Just a slight push was enough…
+$GEN_047_03x04_01_04
+In houses like that, even the door was likely to fall off.
+$GEN_047_03x04_01_05
+You did not hear anything?
+$GEN_047_03x04_01_06
+No, monsieur le juge. I only wanted to close my eyes for a few minutes. I hadn’t had much sleep at the time.
+$GEN_047_03x04_01_07
+A few weeks in the army, and you are already exhausted?
+$GEN_047_03x04_01_08
+…
+$GEN_047_03x04_01_09
+He’s young. If he didn’t want to sleep, he wouldn’t.
+$GEN_047_03x04_01_10
+An officer woke you up?
+$GEN_047_03x04_01_11
+Captain Berryer. He was so angry that he almost shot me on the spot, monsieur le juge.
+$GEN_047_03x04_01_12
+They could have taken your weapon and killed someone…
+$GEN_047_03x04_01_13
+I know that, sir.
+$GEN_047_02x04_02_QTitle
+I see in the files that the prisoners would not give up without a fight.
+$GEN_047_02x04_02_00
+I see in the files that the prisoners would not give up without a fight.
+$GEN_047_02x04_02_01
+I heard they hid in a house and fought with bayonets.
+$GEN_047_02x04_02_02
+Yet your command decided to lock them in a cellar and leave a lone child to guard them? What would you have done if they had started running?
+$GEN_047_02x04_02_03
+If you were not asleep at that moment, of course.
+$GEN_047_02x04_02_04
+I would have shot them.
+$GEN_047_02x04_02_05
+Sure, that kid would shoot someone.
+$GEN_047_02x04_02_06
+Have you ever killed a man?
+$GEN_047_02x04_02_07
+…
+$GEN_047_02x04_02_08
+Answer the question.
+$GEN_047_02x04_02_09
+Yes, the day before. We were fighting with bayonets and I pierced someone’s head right through…
+$GEN_047_05x03_03_QTitle
+How many soldiers were in the headquarters when the prisoner escaped?
+$GEN_047_05x03_03_00
+How many soldiers were in the headquarters when the prisoner escaped?
+$GEN_047_05x03_03_01
+About 30, I think. And the officers too, but they were sitting a bit further away. The cellar was near the pigsty, under the woodshed.
+$GEN_047_05x03_03_02
+Were there any other guards?
+$GEN_047_05x03_03_03
+Exactly! Thirty culprits but only one scapegoat!
+$GEN_047_05x03_03_04
+I think they were patrolling along the fence.
+$GEN_047_05x03_03_05
+And none of them caught the escapee?
+$GEN_047_05x03_03_06
+Apparently not, monsieur le juge.
+$GEN_047_05x03_03_07
+Call in the witness.
+$GEN_047_05x03_03_09
+Please introduce yourself.
+$GEN_047_05x03_03_10
+Captain Berryer.
+$GEN_047_05x03_03_11
+That is all you have to say about yourself?
+$GEN_047_05x03_03_12
+I do not have time for this. The enemy is coming at us while we are wasting our time on traitors.
+$GEN_047_WIT_00_A_QTitle
+Do you consider this young man to be a traitor?
+$GEN_047_WIT_00_A_00
+Do you consider this young man to be a traitor?
+$GEN_047_WIT_00_A_01
+It is simple. He let a prisoner escape, which allowed the enemy to–
+$GEN_047_WIT_00_A_02
+I read the files.
+$GEN_047_WIT_00_A_03
+Then why are you asking ridiculous questions?
+$GEN_047_WIT_00_A_04
+Is your judgement not too harsh?
+$GEN_047_WIT_00_A_05
+War knows no mercy. We must be aware of the price of victory, and the punishment awaiting those who harm our cause.
+$GEN_047_WIT_00_A_06
+He was well aware of his responsibilities.
+$GEN_047_WIT_00_B_QTitle
+Why did you leave such an inexperienced soldier on watch?
+$GEN_047_WIT_00_B_00
+Why did you leave such an inexperienced soldier on watch?
+$GEN_047_WIT_00_B_01
+So that he would become more experienced. Do you know of an easier task than sitting on a stool and making sure that four exhausted, injured men don’t escape from a locked room?
+$GEN_047_WIT_00_B_02
+Every soldier must be of some use.
+$GEN_047_WIT_00_B_03
+Were you aware of the defendant’s exhaustion when you gave him the order?
+$GEN_047_WIT_00_B_04
+Obviously. That is why I told him to guard the prisoners in a safe place. Meanwhile, I and my people were supporting Colonel de Montigny’s flank, who was engaged with enemy troops.
+$GEN_047_KEY_01
+Fight
+$GEN_047_KEY_02
+Storming an inn
+$GEN_047_KEY_03
+Farm in the country
+$GEN_047_KEY_04
+Storage cellar
+$GEN_047_KEY_05
+Sleeping guard
+$GEN_047_KEY_06
+Rusty bars
+$GEN_047_LastDialog_00
+Don’t do it! Please! I’ll never fall asleep on duty again, I promise!
+$GEN_047_UNIQUE_QUESTION_00
+Was the defendant fighting on the day of the incident?
+$GEN_047_UNIQUE_ANSWER_CORRECT_00_00
+He was, but his unit deserted the battlefield.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_00_00
+He was, and proved to be a hero.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_00_01
+He spent the whole day behind the lines.
+$GEN_047_UNIQUE_QUESTION_01
+How did the lancers manage to escape?
+$GEN_047_UNIQUE_ANSWER_CORRECT_01_00
+They pulled the bars from the window.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_01_00
+They prised the door open.
+$GEN_047_UNIQUE_ANSWER_NOT_CORRECT_01_01
+They dug their way out.

@@ -1,0 +1,10 @@
+$EVE_008_TITLE
+Whisky para antes de dormir
+$EVE_008_MAIN_01
+La noche es cálida, así que decides regresar a casa por el camino largo. Cerca del Café Chantilly presencias una escena divertida: dos borrachos se pelean por una botella de licor, maldiciendo como mozos de cuadra. El primero es bajo y viste un uniforme de oficial desaliñado, quizá un coronel. El segundo, aunque mucho más alto, no es más que un rufián de la calle. Escuchas su palabrería y los insultos enredados, solo para darte cuenta de que en la botella queda apenas un último trago.
+$EVE_008_MAIN_01_C1
+Intenta mediar en la disputa entre los borrachos
+$EVE_008_MAIN_02A
+Los dos enemigos se alían ante la presencia de un desconocido con un abrigo elegante. Para los testigos, la escena resulta sin duda cómica: en un arrebato de solidaridad etílica, uno intenta golpearte en la cabeza con el objeto en disputa, mientras el otro te da una patada en el tobillo. Esquivas la botella, que se estrella contra una pared cercana y derrama el resto del alcohol por todas partes. Sin embargo, la patada acierta y te deja inmovilizado el tiempo suficiente para que los borrachos desaparezcan por un callejón. Los transeúntes tardan un buen rato en dejar de reír.
+$EVE_008_MAIN_02B
+El borracho más alto venció al reunir por fin todas sus fuerzas. El oficial cayó de bruces en el barro, y el último sorbo de licor acarició suavemente la lengua del vencedor. Aquí ya no queda nada por ver. En casa te espera una botella de algo exquisito.

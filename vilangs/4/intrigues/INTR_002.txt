@@ -1,0 +1,78 @@
+$INTRIGUE_TITLE_002
+Jean-Nicolas Pache
+$INTRIGUE_002_DESC
+Die Attentäter, die Ihnen nach dem Leben trachteten, müssen von jemandem bezahlt worden sein, und alles deutet auf den Bürgermeister von Paris hin. Er ist zu vorsichtig, als dass Sie ihn direkt angreifen könnten. Sie müssen ihn überraschen.
+$INTR_002_B01_TITLE
+Hanriot das Bordell verwalten lassen
+$INTR_002_B01_DESC
+Pache liebt das Glücksspiel und prahlt gern mit seinem Geld. Wir sollten das Angebot des Bordells um Karten- und Würfelspiele erweitern – ich weiß, wie sehr du Letztere schätzt. Für die Sicherheit wird Kommandant Hanriot sorgen. Pache muss sich bei uns sicher fühlen.
+$INTR_002_B02_TITLE
+David das Bordell führen lassen
+$INTR_002_B02_DESC
+Wenn du Pache anlocken willst, musst du es mit Stil tun. Das von Roland übernommene Bordell wäre die perfekte Falle, aber wir müssen es noch luxuriöser gestalten, indem wir Glücksspiel zu den Attraktionen hinzufügen. Würfelspiele zum Beispiel. Als Künstler wird David dem Ganzen gewiss eine Extravaganz verleihen, die sogar einen Müßiggänger wie Pache verführt – und er wird nichts ahnen.
+$INTR_002_B03_TITLE
+Treffen mit dem Bürgermeister
+$INTR_002_B03_DESC
+Wir müssen ihm persönlich gegenübertreten, damit er glaubt, wir wüssten nichts von seiner Beteiligung am Anschlag auf Ihr Leben.
+$INTR_002_B04_TITLE
+Marie Sylvie Pache beschatten
+$INTR_002_B04_DESC
+Bevor wir handeln, muss David die Art der Beziehung zwischen der Tochter des Bürgermeisters und Béatrice Caron bestätigen. Falls sie eine Affäre haben, wird Pache außer sich sein – und Sie werden ihm helfen, genau den einen Fehler zu begehen, den wir so dringend brauchen…
+$INTR_002_B05_TITLE
+Treffen im Spielsalon
+$INTR_002_B05_DESC
+Es wird Zeit, dass Pache den Geschmack des Sieges und guten Tabaks genießt – und das alles im neu eröffneten Spielsalon. Es wird Zeit, dass er sich… sicher fühlt.
+$INTR_002_B06_TITLE
+Festnahme von Béatrice Caron
+$INTR_002_B06_DESC
+Hanriots Wachen werden der Tochter des Bürgermeisters und ihrer Geliebten an ihrem gewohnten Treffpunkt auflauern. Béatrice wird verhaftet und in Einzelhaft auf das Weitere warten. Marie werden wir nicht mehr benötigen.
+$INTR_002_B07_TITLE
+Béatrice, Verräterin
+$INTR_002_B07_DESC
+Wir müssen sie „überzeugen“, ein Dokument zu unterschreiben, in dem sie zugibt, eine österreichische Spionin zu sein, dass Jean-Nicolas Pache ihre Informationsquelle war und dass sie über seine Tochter zu ihm gelangt ist.
+$INTR_002_B08_TITLE
+Treffen mit Danton
+$INTR_002_B08_DESC
+Selbst mit dem von Béatrice unterzeichneten Dokument haben wir den Bürgermeister noch nicht völlig in der Hand. Er könnte immer noch seinen wortgewandten Freund Danton um Hilfe bitten. Pache muss vollkommen isoliert sein. Wenn wir Danton nicht auf unsere Seite ziehen, werden wir verlieren.
+$INTR_002_B09_TITLE
+Den Bürgermeister verhaften
+$INTR_002_B09_DESC
+Es gibt keinen besseren Moment für eine politische Verhaftung als mitten in der Nacht. Du musst jetzt zuschlagen!
+$INTR_002_B10_TITLE
+Béatrice Caron – Erpresserin
+$INTR_002_B10_DESC
+Béatrice konnte den Wachen entkommen und schickte eine Nachricht an Marie Pache. Sie forderte sie auf, mit dem Geld für den entstandenen Schaden durch ihre Beziehung zur rue Saint-Maur zu kommen. Wir müssen eingreifen. Béatrice erwies sich als unvernünftig – anstatt ihr Leben zu retten und nach Europa zu fliehen, blieb sie in Paris, um sich auf Erpressung einzulassen. Sie presst Geld aus einer Person, die sie angeblich geliebt hat. Der gesamte Plan wird zusammenbrechen, wenn sie über die Aussage spricht, die wir sie unterschreiben ließen.
+$INTR_002_B10_DECISION_0
+Mit den Wachen mitgehen
+$INTR_002_B10_DECISION_1
+Nur die Wachen schicken
+$INTR_002_SLOT_01_DESC
+Bestimmen Sie, wer das beschlagnahmte Bordell verwalten soll.
+$INTR_002_BLOCK_004_PATH_STR
+Schicken Sie Ihre Wache, um sich darum zu kümmern – wir haben nichts zu verbergen.
+$INTR_002_BLOCK_004_PATH_DIP
+Davids Anwesenheit sollte keinen Verdacht erregen.
+$INTR_002_BLOCK_004_PATH_ESP
+Lass Ramel das übernehmen. Er kennt jede finstere Ecke dieser Stadt.
+$INTR_002_BLOCK_004_PATH_STR_FAILURE
+Clovis ist ungeschickt und… zu groß, um unauffällig zu bleiben. Er hat die Informationen beschafft, aber die Muscadins haben ihn bemerkt.
+$INTR_002_BLOCK_004_PATH_DIP_FAILURE
+Die Muscadins erwiesen sich als äußerst misstrauisch. Sogar der gesellige David weckte ihr Misstrauen. Du hast alles erfahren, was du wolltest, doch der Preis war ihr Zorn.
+$INTR_002_BLOCK_004_PATH_ESP_FAILURE
+Ramel ist geschickt, doch seine Tarnung flog auf, als ein betrunkener Muscadine beim Verlassen einen alten Freund erkannte. Ihr Spion konnte durch eine Hintergasse entkommen, aber von nun an werden die Muscadins vorsichtiger sein…
+$INTR_002_BLOCK_006_PATH_STR
+Hanriot wird ein Spektakel veranstalten! Jeder Nachbar soll wissen, dass wir den Verräter festnehmen wollen.
+$INTR_002_BLOCK_006_PATH_DIP
+Hanriot wird sie festnehmen, bevor sie zu Marie aufbricht – höflich und unter Wahrung ihrer Rechte.
+$INTR_002_BLOCK_006_PATH_ESP
+Sagen Sie Hanriot, er soll sie in einer Gasse auf dem Weg zu Marie festnehmen. Leise, unauffällig.
+$INTR_002_BLOCK_006_PATH_STR_FAILURE
+Die Muscadins wollten eines ihrer Mädchen verteidigen. Es fielen Schüsse. Wir haben Caron, doch es gab Verluste auf beiden Seiten …
+$INTR_002_BLOCK_006_PATH_DIP_FAILURE
+Béatrice wusste unsere Bemühungen nicht zu schätzen. Sie schrie, sie werde überfallen und vergewaltigt, und bald eilten Leute herbei, die mit Steinen warfen. Die Wachen sahen sich gezwungen, Gewalt anzuwenden…
+$INTR_002_BLOCK_006_PATH_ESP_FAILURE
+Die Muscadins sind vorsichtiger geworden und vermeiden es, allein unterwegs zu sein. Die Wachen sahen sich gezwungen, einigen Begleitern des Mädchens die Knochen zu brechen…
+$INTR_002_B10_EVENT_TITLE
+FREIHEIT!
+$INTR_002_B10_EVENT_TEXT
+Marie hat getötet. Zweimal. Die Wachen fanden Béatrices Leiche, erstochen von der Tochter des Bürgermeisters. Als Marie die Wachen bemerkte, soll sie „Freiheit!“ gerufen und sich die Kehle durchgeschnitten haben. Die Lage ist außer Kontrolle geraten. Nachrichten verbreiten sich schnell, und der Bürgermeister weiß vermutlich schon, was mit seiner Tochter geschehen ist – dass sie für seine Sünden bezahlt hat. Fühlen Sie sich nicht schuldig. Konzentrieren Sie sich auf die Verhandlungen von morgen. Fühlen Sie sich nicht schuldig…

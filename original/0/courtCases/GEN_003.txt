@@ -1,0 +1,211 @@
+$GEN_003_DOC_01_HEADER
+Sporządził: Rafael Chalopin
+$GEN_003_DOC_01_00
+    Na ławie oskarżonych zasiada Luc Blanchot, zamieszkały w sekcji Gravilliers, przy rue Meslée. Obywatel Blanchot jest właścicielem kilku sklepów z żywnością. Otrzymaliśmy liczne <a name="1" class="hidden">skargi</a> na jego nieuczciwe praktyki handlowe: sprzedaż zgniłych owoców i spekulowanie cenami, w tym naruszenie ustanowionych <a name="3" class="hidden">cen maksymalnych</a>.  
+$GEN_003_DOC_01_01
+    Pan Blanchot kategorycznie zaprzeczył oskarżeniom, acz przeprowadzona przeze mnie wizja lokalna potwierdza przynajmniej część z zarzucanych mu czynów. Zawyżone ceny tłumaczył <a name="4" class="hidden">„pomyłkami”</a> pracowników, a nieświeże towary miały być wyrzucone akurat tego dnia, którego zjawiła się kontrola. Odnotować należy jednak, że na oczach kontrolerów Blanchot zrugał odpowiedzialnych za stragan pracowników i natychmiast przystąpił do usuwania nieprawidłowości.
+$GEN_003_DOC_01_02
+<h1>Luc Blanchot</h1>
+	Młody marchand, zagorzały zwolennik jakobinów. Łączą go <a name="5" class="hidden">koneksje</a> z Maratem i Robespierre’em. Tak przynajmniej twierdzi. Do tej pory udawało mu się unikać odpowiedzialności za swoje krętactwa, więc możliwe, że to nie czcze przechwałki.
+$GEN_003_DOC_01_03
+Świadek 1: „Dał mi zgniłe jabłka. Przykrył z góry świeżymi, żebym nie poznała!”
+$GEN_003_DOC_01_04
+Świadek 2: „Mój mąż to <a name="7" class="hidden">rzygał dwa dni</a>, jak zjadł seler od tego hochsztaplera!”
+$GEN_003_OnStart_00
+Sam od niego marchew brałem!
+$GEN_003_OnStart_01
+Proszę się przedstawić.
+$GEN_003_OnStart_02
+Luc Blanchot.
+$GEN_003_OnStart_03
+Zawód?
+$GEN_003_OnStart_04
+Aktualnie? Marchand. Przejściowo więzień.
+$GEN_003_OnStart_05
+Jest pan oskarżony o spekulowanie cenami, łamanie ustanowionych cen maksymalnych i handel nienadającą się do spożycia żywnością.
+$GEN_003_OnStart_06
+Tylko tyle?
+$GEN_003_OnStart_07
+Wnoszę o zmianę oskarżenia na świadome trucie paryżan.
+$GEN_003_OnStart_08
+Trucie? Od starych jarzyn się nie umiera.
+$GEN_003_OnStart_09
+Więc do reszty zarzutów się pan przyznaje?
+$GEN_003_OnStart_10
+Jestem uczciwym przedsiębiorcą i nie zniszczycie mojego interesu takimi oskarżeniami.
+$GEN_003_OnGuilty_00
+Skazuję obywatela Luca Blanchota na śmierć na gilotynie! Wyprowadzić skazanego.
+$GEN_003_OnGuilty_01
+Podłość! Śmierć za drobne przewinienie?! Protestuję!
+$GEN_003_OnGuilty_02
+Zobaczymy, jak długo zachowa świeżość! 
+$GEN_003_OnGuilty_03
+Mam wpływowych przyjaciół! Pożałujesz tego, ty sędziowska pchło!
+$GEN_003_OnPrison_00
+Skazuję obywatela Luca Blanchota na więzienie! Wyprowadzić skazanego.
+$GEN_003_OnPrison_01
+Zobaczymy, jak długo zachowa świeżość za kratkami! 
+$GEN_003_OnPrison_02
+Mam wpływowych przyjaciół. Nie spędzę dwóch dni za kratami, ale ty być może…
+$GEN_003_OnNotGuilty_00
+Wyrok w sprawie spekulacji cenowych obywatela Blanchota brzmi: niewinny! Proszę uwolnić oskarżonego.
+$GEN_003_OnNotGuilty_01
+Dziękuję, sprawiedliwy wyrok. Serce rośnie, że mamy takich sędziów.
+$GEN_003_OnNotGuilty_02
+To kpina, nie wyrok!
+$GEN_003_OnNotGuilty_03
+Niewinny? Dowody podaliśmy jak na tacy!
+$GEN_003_01x06_00_QTitle
+Czy przyznaje się obywatel do sprzedaży nieświeżych produktów?
+$GEN_003_01x06_00_00
+Czy przyznaje się obywatel do sprzedaży nieświeżych produktów?
+$GEN_003_01x06_00_01
+To już ustaliła kontrola. Po co znowu wałkować ten temat?
+$GEN_003_01x06_00_02
+Odpowiadać na pytania!
+$GEN_003_01x06_00_03
+Tak i nie. Tak, bo zdarzyły się na moich straganach podobne przypadki, ale nie z mojej winy.
+$GEN_003_01x06_00_04
+Z czyjej więc?
+$GEN_003_01x06_00_05
+Nie mogę wziąć odpowiedzialności za naturę, która nie każde jabłko czyni równym drugiemu. Jabłka to nie obywatele Francji.
+$GEN_003_01x06_00_06
+Ale to wy, jako właściciel, jesteście odpowiedzialni za sprzedawane produkty.
+$GEN_003_01x06_00_07
+A nikt nikogo nie zmuszał, żeby u mnie kupować.
+$GEN_003_01x06_00_08
+I ludzie brali zepsuty towar?
+$GEN_003_01x06_00_09
+Wystarczy opuścić kilka sou i wezmą nawet czarne marchewki. Tacy są ludzie, a potem się dziwią, że niesmaczne.
+$GEN_003_01x06_00_10
+Za obrazę ludu powinien trafić do ciemnicy!
+$GEN_003_01x07_01_QTitle
+Wie obywatel, że klienci zatruli się nieświeżymi artykułami?
+$GEN_003_01x07_01_00
+Wie obywatel, że klienci zatruli się nieświeżymi artykułami?
+$GEN_003_01x07_01_01
+Jeśli ktoś udowodni, że stało się to na skutek spożycia akurat moich towarów, chętnie zwrócę koszty leczenia lub pogrzebu. Czekam na dowody.
+$GEN_003_01x07_01_02
+Sam to zjedz, będziesz miał dowód!
+$GEN_003_01x07_01_03
+Przypominam, że uzasadnieniami będą zeznania świadków.
+$GEN_003_01x07_01_04
+Gównem handlował, nie jedzeniem.
+$GEN_003_01x07_01_05
+Zeznania ludzi, którzy chcą dokopać bogatszemu. Też mi dowód.
+$GEN_003_02x03_02_QTitle
+Odnośnie do zarzutu dotyczącego łamania cen maksymalnych...
+$GEN_003_02x03_02_00
+Zanim sędzia zapyta, chciałbym oświadczyć: na moich straganach nigdy świadomie nie łamano przepisów o maksymalnych cenach. Takie oskarżenia uważam za nikczemne i podłe.
+$GEN_003_02x03_02_01
+Sprzeciw.Korekty pojawiły się tylko dlatego, że przyszła państwowa kontrola.
+$GEN_003_02x03_02_02
+Na takich jak on to tylko bat i więzienie.
+$GEN_003_02x03_02_03
+I wlepiła pokaźny mandat, który zapłaciłem niezwłocznie. Karę już poniosłem i przyjąłem honorowo. 
+$GEN_003_02x03_02_04
+I co nam po mandacie, jak zaraz znowu zgniłe pomidory wyłoży!
+$GEN_003_02x04_03_QTitle
+Wygląda na to, że pana pracownicy należą do najbardziej omylnych w mieście.
+$GEN_003_02x04_03_00
+Wygląda na to, że pana pracownicy należą do najbardziej omylnych w mieście.
+$GEN_003_02x04_03_01
+Robiłbym wszystko sam, gdybym mógł, ale to niemożliwe.
+$GEN_003_02x04_03_02
+W całym Paryżu obywatel nie znalazł nikogo lepszego? To dość pesymistyczne.
+$GEN_003_02x04_03_03
+No cóż, ludzie są głupi, o czym świadczy choćby akt oskarżenia przeciwko mnie. 
+$GEN_003_02x04_03_04
+Czy oskarżony próbował szkolić swoich podwładnych?
+$GEN_003_02x04_03_05
+Ja prowadzę handel warzywami, a nie szkołę przykościelną dla ubogich umysłem.
+$GEN_003_02x04_03_06
+On nam ubliża, gnida!
+$GEN_003_02x05_04_QTitle
+Jak to możliwe, że skargi na oskarżonego spływają od dawna...
+$GEN_003_02x05_04_00
+Jak to możliwe, że skargi na oskarżonego spływają od dawna, a dopiero teraz staje pan przed sądem?
+$GEN_003_02x05_04_01
+Może dlatego, że większość skarg to bezsensowna paplanina zazdrosnych nieudaczników?
+$GEN_003_02x05_04_02
+Myśli obywatel, że Marat i Robespierre go ochronią?
+$GEN_003_02x05_04_03
+W pierwszej kolejności liczę, że ochroni mnie prawo, które stoi po mojej stronie. 
+$GEN_003_02x05_04_04
+Co ma oskarżony na myśli?
+$GEN_003_02x05_04_05
+Podobno prawo zawsze stoi po stronie niewinnych i szykanowanych. Stoi po stronie cierpiących i krzywdzonych przez…
+$GEN_003_02x05_04_06
+Proszę skończyć z tą przemową, nie jest obywatel na obradach Konwentu.
+$GEN_003_02x05_04_07
+Ktoś coś z tego zrozumiał?
+$GEN_003_02x05_04_08
+Przepraszam, moja dusza krzyczy o sprawiedliwość, by przytoczeni mężowie stanu, jakimi są Marat i Robespierre, nie musieli tego robić w moim imieniu.
+$GEN_003_03x04_05_QTitle
+Z analizy ksiąg rachunkowych wynika, że łamie pan systematycznie...
+$GEN_003_03x04_05_00
+Z analizy ksiąg rachunkowych wynika, że łamie pan systematycznie nakaz utrzymania ustawionych cen maksymalnych. Temu też zaprzeczy?
+$GEN_003_03x04_05_01
+Rachunki zapisują zwykli, omylni ludzie. Przeanalizuję je ponownie i złożę korektę…
+$GEN_003_03x04_05_02
+Nie jest pan w urzędzie administracyjnym, panie Blanchot. Te księgi to dowód, a sąd wiąże ich stan obecny. 
+$GEN_003_03x04_05_03
+Zwykła omyłka pisarska, jedno zero czy przecinek w niewłaściwym miejscu. Wszystko da się wyjaśnić, w końcu wszyscy tu jesteśmy przyjaciółmi Francji, czyż nie? Tak przynajmniej zapewniał mnie obywatel Robespierre.
+$GEN_003_03x04_05_04
+Czy obywatel Robespierre powiedział wam osobiście, że możecie oszukiwać w księgach?
+$GEN_003_03x04_05_05
+Ależ nie…
+$GEN_003_03x04_05_06
+Dlaczego więc w ogóle o nim wspominacie?
+$GEN_003_03x04_05_07
+Ja…
+$GEN_003_03x04_05_08
+Robespierre to nie lokaj jakiegoś handlarza zieleniną!
+$GEN_003_03x04_05_09
+Spokój albo przerwę posiedzenie!
+$GEN_003_03x04_05_10
+Sędziego też mają w kieszeni? 
+$GEN_003_KEY_01
+Skargi klientów
+$GEN_003_KEY_02
+Nieuczciwe praktyki
+$GEN_003_KEY_03
+Ceny maksymalne
+$GEN_003_KEY_04
+Pomyłki pracowników
+$GEN_003_KEY_05
+Koneksje oskarżonego
+$GEN_003_KEY_06
+Zgniłe jabłka
+$GEN_003_KEY_07
+Zatrucie klienta
+
+
+$GEN_003_LastDialog_00
+Za kilka zgniłych jabłek? Ludzie, oszaleliście?! Wezwijcie Robespierre’a!
+
+$GEN_003_UNIQUE_QUESTION_00
+Potwierdzone afiliacje polityczne oskarżonego?
+$GEN_003_UNIQUE_QUESTION_01
+Podejście oskarżonego do wystawianych mandatów?
+$GEN_003_UNIQUE_QUESTION_02
+Czym oskarżony tłumaczył łamanie zarządzenia o cenach maksymalnych?
+
+$GEN_003_UNIQUE_ANSWER_CORRECT_00_00
+Zwolennik Jakobinów.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Zwolennik Żyrondystów.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Brak informacji o sympatiach politycznych.
+$GEN_003_UNIQUE_ANSWER_CORRECT_01_00
+Płacił natychmiastowo.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ociągał się z płatnościami.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Przekupił urzędnika by nie wypisywać mandatu.
+$GEN_003_UNIQUE_ANSWER_CORRECT_02_00
+Omyłką pisarską.
+$GEN_003_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Poparciem Robespierre’a.
+
+

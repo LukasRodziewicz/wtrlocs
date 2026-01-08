@@ -1,0 +1,32 @@
+$DIAL_H_02_03_20_V2_001_JUDGE
+Dziękuję, że nas odwiedziłeś.
+$DIAL_H_02_03_20_V2_002_DAVID
+Jak on się czuje?
+$DIAL_H_02_03_20_V2_003_JUDGE
+Jak młody chłopak, który nie jest gotowy na to, co się wydarzyło.
+$DIAL_H_02_03_20_V2_004_DAVID
+Alexis… Odwiedził mnie twój brat. Ten, który nie żył.
+$DIAL_H_02_03_20_V2_005_JUDGE
+Jacques…
+$DIAL_H_02_03_20_V2_006_DAVID
+Daj mi skończyć. Szanuję pamięć o naszej przyjaźni, zrobiliśmy dla siebie wiele dobrego. Ale teraz wiem, że brałem udział w czymś bardzo złym, wiedziony lojalnością wobec ciebie.
+$DIAL_H_02_03_20_V2_007_JUDGE
+Mój brat to potwór!
+$DIAL_H_02_03_20_V2_008_DAVID
+Przez krew, którą przelała rewolucja, wszyscy się nimi staliśmy. Nasza jedyna nadzieja w tym, że po naszej śmierci ludzie nas nie zapamiętają, a nasze uczynki rozwieje wiatr.
+$DIAL_H_02_03_20_V2_009_JUDGE
+Wolisz mordercę mojego dziecka ode mnie?
+$DIAL_H_02_03_20_V2_010_DAVID
+Dzięki niemu zrozumiałem, co zrobiliśmy z naszym krajem, oddając władzę nieukom z siekierami i pochodniami. Musi powrócić równowaga i twój brat ją sprowadzi.
+$DIAL_H_02_03_20_V2_011_JUDGE
+To morderca!
+$DIAL_H_02_03_20_V2_012_DAVID
+Tak jak ty i ja. Różnica jest taka, że nam przypną medale i stawiać będą pomniki. Nie chcę takiej czci, podszytej fałszem i zbrodnią. Dla mnie to ostatni moment, żeby odwrócić swój los.
+$DIAL_H_02_03_20_V2_013_JUDGE
+I co teraz będziesz robił?
+$DIAL_H_02_03_20_V2_014_DAVID
+Nie wiem, zapewne wyjadę z Paryża, póki jeszcze można. Przeczekam i dostosuję się do nowej sytuacji. Twój strażnik sądowy uciekł dzisiaj rano, a Ramel… Wygląda na to, że zawsze był po stronie twojego brata i miał za zadanie doprowadzić cię do tego momentu.
+$DIAL_H_02_03_20_V2_015_JUDGE
+Czyli wszyscy jesteście zdrajcami…
+$DIAL_H_02_03_20_V2_016_DAVID
+Jeśli tak to widzisz, to już jesteś przegrany. Żegnaj, przyjacielu.

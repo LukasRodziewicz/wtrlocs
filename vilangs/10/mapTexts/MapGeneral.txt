@@ -1,0 +1,548 @@
+$END_DAY
+Günü bitir
+$DISTRICT_TEMPERATURE
+Hararet
+$DISTRICT_NEUTRAL_TOOLTIP
+Bu Bölüm tarafsızdır.
+$DISTRICT_OWNER_PEOPLE
+Fraksiyon: Halk
+$DISTRICT_OWNER_REVOLUTIONISTS
+Fraksiyon: Devrimciler
+$DISTRICT_OWNER_PLAYER
+Sizin kontrolünüzde
+$DISTRICT_OWNER_ENEMY
+Düşman tarafından kontrol ediliyor
+$GROUP_SUPPORT_LOW
+Tutum: Düşmanca
+$GROUP_SUPPORT_MEDIUM
+Tutum: Tarafsız
+$GROUP_SUPPORT_HIGH
+Tutum: Dostça
+$AGENT_IDLE
+Etkin değil
+$AGENT_ACTION_BOOST_DISTRICT
+Bölge üzerindeki etkinizi artırın
+$AGENT_ACTION_SABOTAGE
+Düşman Ajanlarını Tuzağa Çek
+$AGENT_ACTION_AMBUSH
+Düşmana pusu kur.
+$AGENT_ACTION_GET_RESOURCES
+Fraksiyon Desteği Kazan
+$AGENT_ACTION_LOWER_TEMPERATURE
+Bölgedeki kalabalığın coşkusunu azalt.
+$AGENT_ACTION_FIGHT_UNREST
+Ayaklanmaları Bastır
+$AGENT_ACTION_GOSSIP
+Olumlu söylentiler yay.
+$AGENT_ACTION_PROTECT
+Müttefik Ajanları koru.
+$AGENT_BLOCKED
+Engellendi
+$AGENT_WOUNDED
+Yaralı
+$PAWN_COMBAT_ACTIVITY_TOOLTIP
+Savaşıyor
+$AGENT_ACTION_BOOST_DISTRICT_TOOLTIP
+Bir Bölümü Ele Geçiriyor
+$AGENT_ACTION_SABOTAGE_TOOLTIP
+Düşman ajanlarını tuzağa çekmeye çalışıyor
+$AGENT_ACTION_LOWER_TEMPERATURE_TOOLTIP
+Kalabalığı sakinleştiriyor
+$AGENT_ACTION_FIGHT_UNREST_TOOLTIP
+Ayaklanmayı bastırıyor
+$AGENT_ACTION_UNLOCK_DISTRICT_TOOLTIP
+Bir Bölümün kilidini açıyor
+$COMBAT_UNIT_01
+Toplu Seferberlik
+$COMBAT_UNIT_02
+Piyade
+$COMBAT_UNIT_03
+Şehir Muhafızları
+$COMBAT_UNIT_04
+Süvariler
+$COMBAT_UNIT_05
+Topçu
+$COMBAT_FIRST_LINE
+Piyade - birinci sıra
+$COMBAT_SECOND_LINE
+Mızraklılar - ikinci sıra
+$COMBAT_THIRD_LINE
+Topçu - üçüncü sıra
+$MAGIC_BUTTON_BATTLE
+Tüm savaşları yap
+$ENEMY_AGENT_NAME_DIPLOMAT
+Düşman diplomat
+$ENEMY_AGENT_NAME_MUSCLE
+Düşman Zorba
+$MAP_PATROL_NAME
+Devrimci Devriye
+$UNLOCK_DISTRICT
+Bölümü Aç
+$MISSION_EXCEPTION_ENEMY_AGENT_TUTORIAL
+Düşman ajanına saldır
+$MISSION_EXCEPTION_DISCOVERY_TUTORIAL
+Düşman bir Bölümü ele geçir.
+$MISSION_EXCEPTION_NO_UNREST
+İsyan yok
+$MISSION_EXCEPTION_MAX_LEVEL
+Bölge tamamen geliştirildi
+$MISSION_EXCEPTION_PLAYER_HQ
+Bölüm size ait
+$MISSION_EXCEPTION_ENEMY_HQ
+Bölüm düşman bir aileye ait
+$MISSION_EXCEPTION_NON_PLAYER_DISTRICT
+Bölüm size ait değil
+$BLOCK_PLAYER_AGENTS_TOOLTIP
+Yaralarınız nedeniyle hiçbir işlem yapamazsınız.
+$MISSION_EXCEPTION_AGENT_IS_WOUNDED
+Ajan yaralandı.
+$MISSION_EXCEPTION_NO_ALLIES
+Müttefik ajan yok.
+$MISSION_EXCEPTION_ACTIVE_UNREST
+Bölümde huzursuzluk
+$ENEMY_AGENT_JOB_DESC
+Bir Bölümü Ele Geçiriyor
+$MAP_PATROL_JOB_DESC
+Devriye geziyor
+$PAWN_MUSCADINES_JOB_DESC
+Kalabalığı kışkırtıyor
+$PAWN_NAME_MUSCADINES
+Muskadenler
+$REPORT_ENEMY_AGENTS_TITLE
+Düşman Ajanları
+$REPORT_DISTRTICT_TITLE
+Bölümler
+$MAP_PATROL_BRIBE_TOOLTIP
+Nüfuz Puanları karşılığında bir ajan satın al
+#FULL_GARRISON
+Garnizon dolu!
+#NO_PLACE_GARRISON
+Yeterli alan yok!
+$REPORT_ACTION_DESCRIPTION_01
+Yükseltilmiş Bölüm {0}
+$REPORT_ACTION_DESCRIPTION_02
+Ayaklanmalar nedeniyle engellendi
+$REPORT_ACTION_DESCRIPTION_03
+Devrimci Devriye tarafından yakalandı
+$REPORT_ACTION_DESCRIPTION_06
+Sabote Edilen Bölüm {0}
+$REPORT_ACTION_DESCRIPTION_07
+Bir Ajan Yenildi: {0}
+$REPORT_ACTION_DESCRIPTION_08
+Bir Ajanı yenmeyi başaramadınız: {0}
+$REPORT_ACTION_DESCRIPTION_09
+Bölüm {0}’de huzursuzluk bastırıldı
+$REPORT_ACTION_DESCRIPTION_10
+Bölge {0}’deki huzursuzluk bastırılamadı
+$REPORT_ACTION_DESCRIPTION_11
+Bölge {0}’deki isyanlar bastırıldı
+$REPORT_ACTION_DESCRIPTION_12
+Bölge {0}'deki isyanları bastırmak başarısız oldu
+$REPORT_ACTION_DESCRIPTION_16
+Düşman ajanı {0}, Devrimci Devriye tarafından etkisiz hale getirildi
+$REPORT_ACTION_DESCRIPTION_17
+Devrimci Devriye {0}. Bölgeye ulaştı!
+$REPORT_ACTION_DESCRIPTION_18
+Bölüm {0}'da düşman ajanı ortaya çıktı: {1}!
+$REPORT_ACTION_DESCRIPTION_19
+{0} kayboldu!
+$REPORT_ACTION_DESCRIPTION_20
+Bölge {0}'de huzursuzluk tespit edildi
+$REPORT_ACTION_DESCRIPTION_21
+{0} Bölgesi'nde isyanlar patlak verdi
+$REPORT_ACTION_DESCRIPTION_22
+{0} Bölgesi'nde isyanlar bastırıldı
+$REPORT_ACTION_DESCRIPTION_23
+Bölüm {0} tamamen geliştirildi!
+$REPORT_ACTION_DESCRIPTION_24
+İsyanlar Bölüm {0} seviyesini düşürdü!
+$REPORT_ACTION_DESCRIPTION_25
+Grupla ilişkiler geliştirildi: {0}
+$REPORT_ACTION_DESCRIPTION_26
+{0} Fraksiyonu ile ilişkiler geliştirilemedi
+$DISTRICTS_COUNTER_TOOLTIP
+Ele geçirilen bölgeler
+$DISTRICT_CONTROL_BAR_TOOLTIP
+Paris Üzerindeki Kontrol
+$MAP_COMBAT_GARRISON
+Garnizon
+#GENERAL_ARMY_STACK_TIER_01
+Küçük
+#GENERAL_ARMY_STACK_TIER_02
+Orta
+#GENERAL_ARMY_STACK_TIER_03
+Büyük
+#GENERAL_QUICK_BATTLE_NAME
+Hızlı Savaş
+#GENERAL_SELECTION_EFFECTIVNESS
+Etkililik:
+#GENERAL_SELECTION_ARMY
+Askerler:
+#GENERAL_SELECTION_TACTIC
+Taktikler:
+$MAIN_SECTION_STATUE_SELECTION_DESC
+Heykelin tasarımı
+$MAIN_SECTION_STATUE_SELECTION_TITLE
+Tasarımı onayla
+$MAIN_SECTION_HEADER
+Ana Bölüm
+$MAIN_SECTION_STATUE_ATTRIBUTE
+Çevre
+$MAIN_SECTION_STATUE_BOTTOM
+Kaide
+$MAIN_SECTION_STATUE_TOP
+Heykel
+$MAIN_SECTION_STATUE_SING
+Tasarımı onaylamak için imzalayın
+$MAIN_SECTION_BUILD_BUTTON
+Binaya el koy
+$MAIN_SECTION_BUILD_INFO
+Binayı ele geçir
+$MAIN_SECTION_REBUILD_HEADER
+Karargâhınız olarak hangi binayı seçeceğinizi belirleyin
+$MAIN_SECTION_REBUILD_BUTTON
+Yeniden inşa et
+$MAIN_SECTION_REBUILD_TOOLTIP_01
+Bu bina yeniden inşa ediliyor.
+$MAIN_SECTION_ACTION_BUTTON
+Bu eylemi {0} AP karşılığında satın al
+$MAIN_SECTION_ACTION_NOT_ENOUGHT
+Bu eylemi karşılayamazsınız ({0} IP)
+$MAIN_SECTION_BUILD_INPROGRESS
+Ele geçirme sürüyor ({0}/{1} gün)
+$MAIN_SECTION_REBUILD_INPROGRESS
+{0} bölgesinde yeniden inşa sürüyor ({1}/{2} gün)
+$MAIN_SECTION_BUILD_BLOCKED
+Bu bina engellendi.
+$MAIN_SECTION_BUILD_SPEED
+Heykelin günlük inşa hızı: {0}%
+$MAIN_SECTION_BUILD_SPEED_TOOLTIP
+Ele geçirilen Bölümlerin sayısı, heykelin inşa hızını etkiler.
+$MAIN_SECTION_BUILD_POPUP
+Yeni fırsatlar
+$MAIN_SECTION_BUILD_POPUP_TEXT
+Heykel bir gelişim aşamasını daha tamamladı. Artık bir bina daha ele geçirebilirsiniz.
+$MAIN_SECTION_REBUILD_POPUP
+Savaşların başlaması
+$MAIN_SECTION_REBUILD_POPUP_TEXT
+Paris’in tamamı savaş halinde! Siyasi salon karargâha, sığınak ise yardım merkezine dönüştürülecek. Matbaa ise faaliyetini durduracak.
+$MAIN_SECTION_FAMILY_POPUP
+Heykelin inşasına destek ol
+$MAIN_SECTION_FAMILY_POPUP_TEXT
+Ailenizin yardım ettiğini gören herkes daha da sıkı çalışıyor!
+$MAIN_SECTION_BUILD_END_POPUP_01
+El koyma başarılı.
+$MAIN_SECTION_BUILD_END_POPUP_02
+Yeniden inşa tamamlandı.
+$MAIN_SECTION_BUILD_END_POPUP_03
+İnşaat tamamlandı
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_01
+Siyasi salon başarıyla ele geçirildi. Oradaki mevcut eylemler mahkemedeki işinizi kolaylaştıracak.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_02
+Sığınak ele geçirildi. Bu, Ajanlarınızın Paris'te daha verimli çalışmasına yardımcı olacak.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_03
+Matbaayı ele geçirdiniz. Artık Paris’teki siyasi grupları etkilemenizi sağlayacak yeni eylemleriniz var.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_05
+Siyasi salon karargâha dönüştürüldü. Paris için mücadeleni kolaylaştıracak eylemleri buradan seç.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_06
+Sığınak artık bir yardım merkezi olarak kullanılıyor. Bundan böyle, bir lojistik uzmanını çatışmada kaybettiğinizde burada yeni birini işe alabileceksiniz.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_07
+Matbaa bir sahra hastanesine dönüştürüldü. Artık her savaşta bir hekim kaybettiğinizde, burada yeni birini görevlendirebilirsiniz.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_08
+Devrimin zaferinin simgesi tamamlandı. Bitmiş anıt şimdiden meraklı Parislileri kendine çekmeye başladı.
+$MAIN_SECTION_MILESTONE_COUNTER
+Denetime kalan gün sayısı: {0}
+$MAIN_SECTION_MILESTONE_EXEEDED
+Denetim devam ediyor
+$MAIN_SECTION_PREMILESTONE_TITLE
+Denetim başlamak üzere!
+$MAIN_SECTION_MILESTONE_TITLE
+Denetime kalan gün:
+$MAIN_SECTION_PREMILESTONE_MAIN
+Üç gün içinde yetkililer anıtın ilerlemesini değerlendirmeye gelecek. Onları etkilemek için elinizden geleni yapın.
+$MAIN_SECTION_MILESTONE_01
+Aşama I: {0}–{1}%
+$MAIN_SECTION_MILESTONE_02
+Aşama II: {0}–{1}%
+$MAIN_SECTION_MILESTONE_03
+Aşama III: {0}–{1}%
+$MAIN_SECTION_MILESTONE_04
+Aşama IV: {0}–{1}%
+$MAIN_SECTION_STATUE_TITLE
+Heykel
+$MAIN_SECTION_STATUE_DESCRIPTION
+Her inşaat aşamasını tamamladığınızda, bir bina daha ele geçirebilirsiniz.
+$MAIN_SECTION_BUILDING_01
+Siyasal Salon
+$MAIN_SECTION_BUILDING_DESC_01
+Bu binadan elde edilen eylemler, mahkemedeki işinizi kolaylaştıracak.
+$MAIN_SECTION_BUILDING_02
+Sığınak
+$MAIN_SECTION_BUILDING_DESC_02
+Sığınak, Ajanlarınızın Paris'te daha verimli çalışmasına yardımcı olacak.
+$MAIN_SECTION_BUILDING_03
+Matbaa
+$MAIN_SECTION_BUILDING_DESC_03
+Matbaa, Muscadins ve Devrimci Devriye'ye karşı eylemleri mümkün kılar.
+$MAIN_SECTION_BUILDING_04
+Eviniz
+$MAIN_SECTION_BUILDING_DESC_04
+Burada aileniz ve ikna ettiğiniz karakterlerle ilgili işlemleri gerçekleştirebilirsiniz.
+$MAIN_SECTION_BUILDING_05
+Karargâh
+$MAIN_SECTION_BUILDING_DESC_05
+Karargâh, savaşlarla ilgili eylemleri mümkün kılar.
+$MAIN_SECTION_BUILDING_06
+Yardım Merkezi
+$MAIN_SECTION_BUILDING_DESC_06
+Bir lojistik uzmanı işe almanıza olanak tanır.
+$MAIN_SECTION_BUILDING_07
+Sahra Hastanesi
+$MAIN_SECTION_BUILDING_DESC_07
+Bu binada hekim piyonunu işe alabilirsiniz.
+$MAIN_SECTION_ACTION_ACTIVE
+Eylem kullanılabilir
+$MAIN_SECTION_ACTION_COOLDOWN
+Eylem {0} gün sonra kullanılabilir
+$MAIN_SECTION_ACTION_TITLE_01
+Raporu doldur
+$MAIN_SECTION_ACTION_TITLE_02
+Jüriyi rüşvetle etkile
+$MAIN_SECTION_ACTION_TITLE_03
+Dokunulmazlık ver
+$MAIN_SECTION_ACTION_TITLE_04
+Kalabalığı sakinleştir
+$MAIN_SECTION_ACTION_TITLE_05
+İhbar Et
+$MAIN_SECTION_ACTION_TITLE_06
+Muskadenleri saldırt
+$MAIN_SECTION_ACTION_TITLE_07
+Ailenizle daha fazla vakit geçirin
+$MAIN_SECTION_ACTION_TITLE_08
+İkna sürecini kolaylaştır
+$MAIN_SECTION_ACTION_TITLE_09
+Düşmanı gözetle
+$MAIN_SECTION_ACTION_TITLE_10
+Barikatlar kur
+$MAIN_SECTION_ACTION_TITLE_11
+Bir lojistik uzmanı işe al
+$MAIN_SECTION_ACTION_TITLE_12
+Bir hekim işe al
+$MAIN_SECTION_ACTION_DESC_01
+Rapor, yarınki duruşma sırasında engellenecek ve sizin endişelenmenize gerek kalmayacak.
+$MAIN_SECTION_ACTION_DESC_02
+Jüri, yarınki davada verilecek karar hakkında bir görüş belirtmeyecek.
+$MAIN_SECTION_ACTION_DESC_03
+Ajanlarınız devriyenin eylemlerinden etkilenmeyecek.
+$MAIN_SECTION_ACTION_DESC_04
+Kontrolünüzdeki Bölümlerdeki ateşi düşürün.
+$MAIN_SECTION_ACTION_DESC_05
+Devrimci Devriye en yakın Düşman Ajanını tutuklayacak.
+$MAIN_SECTION_ACTION_DESC_06
+Bir sonraki turda, Muscadins en yakın düşman Bölgesi’ne gidip isyan çıkaracak.
+$MAIN_SECTION_ACTION_DESC_07
+Rastgele bir aile özel eylemi seçer.
+$MAIN_SECTION_ACTION_DESC_08
+İkna edilen karakterin size karşı başlangıçtaki tutumu daha olumlu olacak.
+$MAIN_SECTION_ACTION_DESC_09
+Saldıran ordunun gücünü gösterir.
+$MAIN_SECTION_ACTION_DESC_10
+Düşman bölümleriyle komşu olan bölümlerdeki birlikler savunma bonusu kazanır.
+$MAIN_SECTION_ACTION_DESC_11
+Bir lojistik uzmanının varlığı sayesinde insanlar daha hızlı kaçacak.
+$MAIN_SECTION_ACTION_DESC_12
+Savaş sırasında doktor askerlerinizin yaralarını tedavi eder.
+$MAIN_SECTION_OPEN_TOOLTIP
+Ana Bölüm görünümüne gitmek için tıklayın
+$MAIN_SECTION_ACTION_ACCEPT_TOOLTIP
+Onaylamak için tıklayın.
+$MAIN_SECTION_BUILD_TOOLTIP
+Bu binaya el koyabilirsiniz.
+$MAIN_SECTION_BUILDING_TOOLTIP
+Bu binayı zaten ele geçiriyorsunuz.
+$MAIN_SECTION_SELECTED_ACTION_TOOLTIP
+Bu eylem zaten seçildi.
+$MAIN_SECTION_LOCKED_TOOLTIP
+Bu binaya henüz el koyamazsınız.
+$MAIN_SECTION_MAGIC_TOOLTIP
+Ana Bölümü ziyaret edin.
+$MAP_REFUGEES_MAGIC_TOOLTIP
+Kaçan mülteciler
+$MAP_REFUGEE_AGENT
+Lojistik uzmanı
+$MAP_MEDIC_AGENT
+Hekim
+$MAP_REFUGEE_AGENT_MISSION
+Kaçışa yardım
+$MAP_REFUGEES_COUNTER_TOOLTIP
+Bölgedeki siviller
+$MAP_REFUGEES_RESCUED_TOOLTIP
+Hayatta kalan Parislilerin sayısı
+$MAP_REFUGEES_CASAULTIES_TOOLTIP
+Öldürülen Parislilerin sayısı
+$MAP_REFUGEES_REPUTATION_TOOLTIP
+İtibar üzerindeki etkisi
+$MAP_REFUGEES_COUNTER_TITLE
+Kaçakların kaderi
+$MAP_INVASION_DAYS_LEFT
+Yardım gelmesine kalan günler:
+$MAP_INVASION_EXEEDED
+Yardım asla gelmedi
+$MAP_REFUGEES_VISIBLE
+Bölümdeki sivil sayısını gizle
+$MAP_REFUGEES_INVISIBLE
+Bölümdeki sivil sayısını göster
+$MAP_ARMY_RAPORT_HEADER
+ASKER ALIMI
+$MAP_ARMY_RAPORT_TITLE
+Size verilen birliklerin sayısı, itibarınıza bağlıdır.
+$MAP_ADDITIONAL_ARMY_RAPORT_HEADER
+Ek birlikler
+$MAP_REPORT_TITLE
+FAALİYET RAPORU
+$MAP_COMBAT_PAWN_TITLE_01
+Halk Seferberliği
+$MAP_COMBAT_PAWN_DESC_01
+Toplumun her kesiminden insanların bir araya gelmesi. Sayının gücü büyüktür.
+$MAP_COMBAT_PAWN_TITLE_02
+Piyade
+$MAP_COMBAT_PAWN_DESC_02
+Eğitilmiş askerler yakın dövüşte ve saldırılara karşı savunmada etkilidir.
+$MAP_COMBAT_PAWN_TITLE_03
+Şehir Muhafızları
+$MAP_COMBAT_PAWN_DESC_03
+Şehri her gün savunan nişancılar. Hem uzaktan hem yakın dövüşte saldırırlar.
+$MAP_COMBAT_PAWN_TITLE_04
+Mızraklılar
+$MAP_COMBAT_PAWN_DESC_04
+Uzak menzilli saldırılarda en etkili olan, ancak yakın dövüşte de savaşabilen eğitimli nişancılar.
+$MAP_COMBAT_PAWN_TITLE_05
+Topçu
+$MAP_COMBAT_PAWN_DESC_05
+Güçlü teknoloji, topçuları saldırı gücünde rakipsiz kılar. Ne yazık ki kolayca hasar görebilirler.
+$MAP_NEWSPAPER_TITLE
+Gazete
+$MAP_NEWSPAPER_A1_05
+İnsanlar bunu günlerdir fısıltılarla ve şüpheyle konuşuyordu, ama bugün artık yüksek sesle haykırabiliriz: Jean-Marie Roland, Louis’nin ihanetiyle ilgili Capet’nin demir kasasında saklanan kanıtları yok etti. Bu rahatsız edici haber, bakan kasayı açarken yanında olan Phillipe Côté tarafından doğrulandı. Roland ayrıca kendisini suçlayan belgeleri de yok etmeye çalıştı. Neyse ki hepsini yok etmeyi başaramadı. Onu, haklı olarak temkinli davranan Robespierre’in gönderdiği muhafızlar durdurdu. Utanç!
+$MAP_NEWSPAPER_A1_03
+Paris’in kahramanı ortaya çıktı! Yargıç Alexis Fidèle, hain eski kral Louis Capet’i yargıladı ve infazını bizzat denetledi. Ne tereddüt etti, ne de merhamet gösterdi. Paris’in artık yeni bir koruyucusu var!
+$MAP_NEWSPAPER_A1_04
+Prusyalılar Fransa kapılarında! Merkez komutanlığı, yaklaşan düşmana karşı koymak için yeni bir asker alımı başlatmaya karar verdi. Yüreğinde cesaret ve Cumhuriyet sevgisi taşıyan herkes, kardeşlerinin yanında savaşacak ve uğruna ölecek…
+$MAP_NEWSPAPER_A1_06
+Düşman kapıda! Bu, uzak ve hayali bir gelecek değil. Toplumumuzu arındırmazsak, tehdit çok yakında kapımızda olacak. Dikkatli olun ve Cumhuriyet’in düşmanlarını arayın – Eski Rejim’in ajanları hâlâ aranızda olabilir! Hain Capet’in ölümü, asla tetikte olmayı bırakmamız için bir sebep değildir!
+$MAP_NEWSPAPER_A2_FIRST_01
+Rolandlar, o pis kokulu yargıcın ilk kurbanlarıydı. Fidèle onları parmağında oynattı, şimdi ise toprağın altındalar.
+$MAP_NEWSPAPER_A2_FIRST_02
+İki kurban onu açıkça tatmin etmemiş olacak ki, pek çok Girondin de giyotine gönderildi. Sözde vatan hainliği yüzünden, ama kim emin olabilir?
+$MAP_NEWSPAPER_A2_FIRST_03
+Pek az kişi bilir ki, Capet’nin kaçışından sonra göstericilere yapılan katliamdan sorumlu olanlardan biri de oydu. O insanlara ateş açılması için izni bizzat kendisi imzaladı!
+$MAP_NEWSPAPER_A2_FIRST_04
+Daha önce, öfkeli kalabalığı yatıştırmasına yardım etmeyerek Başkomutan Burel’i adeta ölüme mahkûm etti.
+$MAP_NEWSPAPER_A2_FIRST_05
+Bakan Roland ve eşiyle yaşanan skandalın ardından, Tribunal onların servetine el koydu; buna Madame Roland’ın işlettiği genelev de dahildi. Peki, bu işi kim yürüttü? Resmi olarak Başkomutan Hanriot, ama söylentilere göre Fidèle de kârından payını almış.
+$MAP_NEWSPAPER_A2_SECOND_01
+Paris Belediye Başkanı da benzer bir akıbeti paylaştı. Fidèle, kendisine yapılan suikast girişiminden Pache’yi sorumlu tutarak onun düşüşüne yol açtı.
+$MAP_NEWSPAPER_A2_SECOND_02
+Pache’ye ulaşmak için Muscadins’i Paris’in üzerine saldı. Belediye başkanının suçlarını öğrenince şehri yağmalamaya başladılar. Hem de Fidèle’in izniyle!
+$MAP_NEWSPAPER_A2_SECOND_03
+Köprünün inşasının tamamlanmasına karşı çıktı [eğer oyuncu bunu seçtiyse] Köprünün tamamlanmasına kesinlikle karşıydı. Oğlunun orada asıldığını biliyorum, ama kişisel duyguları tüm şehri etkilememeli.
+$MAP_NEWSPAPER_A2_SECOND_04
+Béatrice Caron, “Mahkeme Canavarı”nın bir diğer kurbanı. Zavallı kız, Pache’ye karşı komplo ve vatana ihanetle suçlandı. Hayatı bir gecede mahvoldu.
+$MAP_NEWSPAPER_A2_SECOND_05
+Bu, onun ölümüne yol açtı. Aceleyle kurulan komplo, Pache’nin kızı Marie’yi Béatrice’i öldürmeye itti. İki kadın bir ilişki yaşıyordu.
+$MAP_NEWSPAPER_A2_SECOND_06
+Ayrıca Marie Sylvie Pache’nin ölümüne yol açtı. “Mahkemenin Canavarı”, o olayların son tanığını da idama mahkûm ederek susturdu. Artık kendisini rezil edebilecek herkesten kurtulmuş oldu.
+$MAP_NEWSPAPER_A2_THIRD_01
+Sonra, “Mahkemenin Canavarı” Gobel’in gayrimeşru çocuğu hakkında iğrenç söylentiler yaymaya başladı. Bunun ne korkunç sonuçlar doğuracağını kim bilebilirdi? Alexis Fidèle ise çok iyi biliyordu.
+$MAP_NEWSPAPER_A2_THIRD_02
+Eminim ki yargıç, Vendée’deki ayaklanmayı başkenti kışkırtmak ve zaten ruhban sınıfına sırtını dönmüş olan halkı Gobel’e de karşı çevirmek için kullandı.
+$MAP_NEWSPAPER_A2_THIRD_03
+Gobel’in girişimine engel oldu. Toplumun yorgunluğunu hafifletmek isteyen başpiskopos, yoksullara yardım etmeye başlamıştı. Fidèle ise bu girişimi derhal durdurdu. Onun için siyasi hedefleri, halkın iyiliğinden daha önemliydi!
+$MAP_NEWSPAPER_A2_THIRD_04
+Ama “Mahkemenin Canavarı”nın işlediği en korkunç suç henüz yaşanmamıştı. Fidèle, Gobel’in ailesini kaçırarak onu tehdit etti. Hatta denebilir ki, bu eylemleriyle oğlunun kendi babasını öldürmesine yol açan dehşet verici sonuca sebep oldu!
+$MAP_NEWSPAPER_A2_FOURTH_01
+Alexis Fidèle, sarhoşluğu ve kumar tutkusu ile tanınır. Görülüyor ki, dizginlenemeyen bu davranış aileye kök salmış.
+$MAP_NEWSPAPER_A2_FOURTH_02
+Hakimin kardeşi, genç bir oğlanı sakatladığı için şehirden sürgün edildi. Onu neredeyse tahta bir sopayla öldüresiye dövdü. Mağdur, hâlâ günlük işlerini yardımsız yapamıyor.
+$MAP_NEWSPAPER_A2_FOURTH_03
+Bildiğim kadarıyla, yargıç hâlâ İngilizler adına casusluk yapan bir fahişe olan Grace Elliot ile belirsiz ilişkisini sürdürüyor.
+$MAP_NEWSPAPER_A2_FOURTH_04
+Karısı da kocasından geri kalmazdı. Mathilde Fidèle evliliğinde sadık değildi; bazılarına göre Başkomutan Hanriot ile birlikte görülmüştü — Alexis Fidèle’in adaylığını desteklediği ve sonunda Robespierre’in uşağı olduğu ortaya çıkan o adamla.
+$MAP_NEWSPAPER_A2_FOURTH_05
+Fidèle’in, bir zamanlar İngilizler için casusluk yapmış olan Grégory Ramel ile ilişkisi de belirsizliğini koruyor. Ramel’in “Mahkemenin Canavarı” için bilgi topladığı iddia ediliyor ve Fidèle’in, yardımcısının geçmişte İngilizlere çalışmış olmasından rahatsız olmadığı anlaşılıyor.
+$RAPORT_SPY_TAKE_OVER_SECTION
+Daha önce düşmanın elinde olan {0} Bölümü’nün kontrolü ele geçirildi.
+$RAPORT_SPY_BOUNCE_SECTION
+Bölüm {0} etkisiz hale getirildi.
+$RAPORT_SPY_TRAP
+Düşmana pusu kurdu.
+$RAPORT_SPY_SABOTAGE
+Bölüm {0} sabote edildi.
+$RAPORT_MUSCLE_UNREST_SUCC
+Bölge {0}'deki isyanları bastırdı.
+$RAPORT_MUSCLE_UNREST_FAIL
+Bölüm {0}'deki isyan bastırılamadı.
+$RAPORT_MUSCLE_GAIN_REP
+İtibarınızı şu kadar artırdı: {0}.
+$RAPORT_MUSCLE_GAIN_PROT_AGENTS
+Bölüm {0}'deki ajanları yendiniz.
+$RAPORT_DIPLOMAT_TAKE_OVER_SECTION
+Bölüm {0} ele geçirildi.
+$RAPORT_DIPLOMAT_IMPROVE_RELATIONS
+İlişkiler geliştirildi: {0}.
+$RAPORT_DIPLOMAT_IMPROVE_RELATIONS_FAIL
+Şununla ilişkiler geliştirilemedi: {0}.
+$RAPORT_DIPLOMAT_DECREASE_TEMP
+Bölüm {0}'de kalabalığın öfkesini azalttı.
+$RAPORT_AGENT_BLOCKED_UNREST
+Bir Ajan isyanlar tarafından engellendi.
+$RAPORT_AGENT_BLOCKED_PATROL
+Bir Ajan Devrimci Devriye tarafından gözaltına alındı.
+$RAPORT_AGENT_WON_FIGHT_WITH_ENEMY
+Bir Ajan düşmanla olan kavgayı kazandı.
+$RAPORT_AGENT_INJURED
+Bir Ajan yaralandı.
+$RAPORT_AGENT_REVEAL_SECTION
+Bir Ajan, {0} Bölümünü keşfetti.
+$RAPORT_ENEMY_AGENTS_TAKE_OVER_SECTION
+Düşman {0}, {1} Numaralı Bölümü ele geçirdi.
+$RAPORT_ENEMY_AGENTS_DISAPPEAR
+Bir düşman {0} ortadan kayboldu.
+$RAPORT_ENEMY_AGENTS_ARRESTED
+Düşman ajanı {0}, Devrimci Devriye tarafından yakalandı.
+$RAPORT_ENEMY_MUSCADIN_UNREST
+Muskadenler isyan çıkardı.
+$RAPORT_ENEMY_PATROL_SPAWN_SECTION
+Devrimci Devriye, {0}. Bölgeyi arıyor!
+$RAPORT_ENEMY_MUSCADIN_SPAWN_SECTION
+Bölüm {0}'da Muscadins görüldü!
+$RAPORT_ENEMY_AGENT_SPAWN_SECTION
+Bölüm X'e bir Düşman Ajanı geldi: {0}!
+$RAPORT_ENEMY_MUSCADIN_DISAPPEAR
+Muskadenler ortadan kayboldu.
+$RAPORT_ENEMY_PATROL_DISAPPEAR
+Devrimci Devriye ortadan kayboldu.
+$RAPORT_SECTION_SPAWN_UNREST
+{0} Bölgesi'nde isyanlar patlak verdi.
+$RAPORT_SECTION_DESPAWN_UNREST
+{0} Bölgesi'nde isyanlar sona erdi.
+$RAPORT_SECTION_PLAYER_TAKE_OVER_SECTION
+Bölüm {0} kontrolünüzde!
+$RAPORT_SECTION_NEUTRAL_UNREST
+Ayaklanmalar {0}. Bölgeyi etkisiz hale getirdi!
+$RAPORT_SECTION_LOST
+Bölüm {0} kontrolünü kaybettiniz!
+$RAPORT_SECTION_REVEAL
+Bölüm {0} keşfedildi.
+$RAPORT_SECTION_HIGHT_TEMP
+{0} bölümündeki kalabalığın öfkesi tehlikeli seviyede.
+$DISTRICT_INFLUENCE_BONUS
+Nüfuz Puanı: +{0}
+$DISTRICT_CONSTRUCTION_BONUS
+Anıt inşaatı: +{0}%
+$MAP_COMBAT_TUTORIAL_TOOLTIP
+Tehdit altındaki bölüme birliklerinizi konuşlandırın!
+$MAP_COMBAT_END_TITLE
+Savaşmaya devam edin.
+$MAP_COMBAT_END_MAIN
+Takviye birlikleri zamanında gelmedi. Biraz daha dayanmak zorundayız.

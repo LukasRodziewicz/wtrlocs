@@ -1,0 +1,22 @@
+$EVE_012_TITLE
+Último Recurso
+$EVE_012_MAIN_01
+Você repara em uma mulher da mesma idade que sua esposa parada diante do tribunal. Assim que ela o vê, vem ao seu encontro, e pelos próximos minutos você ouve uma história sobre um marido que vende as relíquias da família e bebe até o último franco. Claro, os filhos deles também passam fome. Nada disso o surpreende, até que a mulher termina seu relato… pedindo que você mande o marido para a prisão. Ela promete testemunhar o que for preciso, desde que ele acabe atrás das grades.
+$EVE_012_MAIN_01_C1
+Ameaçar o bêbado com prisão
+$EVE_012_MAIN_01_C2
+Prenda o homem e mantenha-o na prisão por um tempo.
+$EVE_012_MAIN_01_C3
+Ignorar a mulher
+$EVE_012_MAIN_02A
+É difícil dizer o que assustou mais o homem: a visão da Guarda armada ou sua esposa recitando uma ladainha de sofrimentos. Por um tempo, ele não deve causar problemas, e se tentar voltar à garrafa, vai pensar duas vezes antes de enfrentar seus brutamontes…
+$EVE_012_MAIN_02B
+O porte do Guarda e seus argumentos convincentes deveriam ter bastado, mas a mente do bêbado estava tão enevoada que ele não entendeu nada. Quase todo o tempo achou que o Guarda era um velho companheiro de copo, chegando até a cobrar antigas dívidas. Ainda bem que você não mandou espancar o pobre coitado — não teria adiantado em nada.
+$EVE_012_MAIN_02B_C1
+Ignorar toda a situação
+$EVE_012_MAIN_02B_C2
+Prenda o homem e mantenha-o na prisão por um tempo
+$EVE_012_MAIN_02C
+O bêbado não ofereceu resistência à prisão. Estava tão embriagado que provavelmente nem percebeu quem o levava ou para onde ia. No meio do caminho até a delegacia, vomitou nas calças do guarda, o que lhe rendeu alguns chutes. Amanhã, talvez se pergunte por que suas costas doem tanto e se esteve envolvido numa briga. O tempo que passará na prisão, longe do álcool, deve ajudá-lo a refletir sobre algumas coisas. Enquanto isso, sua família terá um momento de paz, e sua esposa poderá cuidar dos assuntos da casa.
+$EVE_012_MAIN_02D
+Ela olha diretamente nos seus olhos, como se buscasse neles uma explicação para sua relutância. Ao sair, você ouve soluços suaves atrás de si.

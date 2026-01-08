@@ -1,0 +1,38 @@
+$SPEECH_KING_01_01_07_001_JUDGE
+People, what vexes you? Why are you so angry?
+$SPEECH_KING_01_01_07_002_AUDIENCE
+The King lied to us!
+$SPEECH_KING_01_01_07_003_AUDIENCE
+That coward ran from us! He’ll surely run from justice as well!
+$SPEECH_KING_01_01_07_004_AUDIENCE
+We found proof of the King’s treachery in his secret iron cabinet!
+$SPEECH_KING_01_01_07_005_JUDGE_AGGR
+The king has been imprisoned. He will not escape a second time. If he tries, I will kill him with my own bare hands!
+$SPEECH_KING_01_01_07_006_JUDGE_MANI
+Louis Capet is just flesh and blood – a Citizen, just like you! He cannot escape the long arm of the law.
+$SPEECH_KING_01_01_07_007_JUDGE_JOKE
+Undisputedly, justice will be duly served today. So cast aside your doubts!
+$SPEECH_KING_01_01_07_008_JUDGE_HUMI
+No one can flee from the justice of the Republic! Even kings must bow before the will of Themis and the will of the people.
+$SPEECH_KING_01_01_07_009_JUDGE_AGGR
+Any treachery committed against France will be punished with death! We shall examine new evidence, and if the rumours turn out to be true, I assure you that I shall behead this traitor myself!
+$SPEECH_KING_01_01_07_010_JUDGE_MANI
+We won’t turn a blind eye to new evidence. We shall dutifully pursue each line of enquiry, for the Republic, and only for the Republic.
+$SPEECH_KING_01_01_07_011_JUDGE_JOKE
+The new evidence will not be ignored. I would not be concerned if I were you!
+$SPEECH_KING_01_01_07_012_JUDGE_HUMI
+Each new piece of evidence will be thoroughly examined. The Republic’s standards demand nothing less! I shall follow them to the letter!
+$SPEECH_KING_01_01_07_013_JUDGE_AGGR
+I will not let you down! If the blood of traitors needs to be spilled, then it will be spilled. I shall see to it personally!
+$SPEECH_KING_01_01_07_014_JUDGE_MANI
+Justice must return to our country and stay here for good. No one is more concerned about this matter than a judge of the Tribunal.
+$SPEECH_KING_01_01_07_015_JUDGE_JOKE
+I shall see this through so smoothly that you will celebrate well into the night, merrily guzzling wine in taverns!
+$SPEECH_KING_01_01_07_016_JUDGE_HUMI
+I know that you might be angry. But you have chosen your representatives to protect you. Believe in me.
+$SPEECH_KING_TOPIC_01
+Citizen Capet shall not escape justice.
+$SPEECH_KING_TOPIC_02
+The evidence from the iron cabinet will be examined.
+$SPEECH_KING_TOPIC_03
+Believe in me.

@@ -1,0 +1,158 @@
+$GEN_048_DOC_01_HEADER
+Compilado por: Charles Etienne
+$GEN_048_DOC_01_00
+	A filha de Jean e Marie Picque morreu logo após o nascimento. O pai declarou ter ouvido o choro alto e intenso da criança. No entanto, ao entrar no quarto onde estavam sua esposa, uma criada e a parteira, encontrou a filha sem respirar.
+$GEN_048_DOC_01_01
+	O médico chamado pelo Sr. e Sra. Picque chegou no dia seguinte. Ele notou <a name="4" class="hidden">marcas de estrangulamento</a> no pescoço do bebê e foi ele quem avisou a Guarda. O investigador não conseguiu interrogar os pais, pois ambos estavam em choque e tomados pelo desespero.
+$GEN_048_DOC_01_02
+	Encontramos vários indícios do parto no quarto desarrumado. Entre eles estavam <a name="5" class="hidden">as pinças</a> deixadas pela parteira, que, segundo o criado, saiu às pressas. Parecia que ela estava fugindo.
+$GEN_048_DOC_01_03
+	Conseguimos identificar a parteira como Claudine Sessier. Dizem que ela não tem sorte ao trazer meninas ao mundo, pois a maioria de suas pacientes recém-nascidas não sobreviveu. Decidimos prendê-la como suspeita. Os investigadores encontraram uma <a name="7" class="hidden">Bíblia</a> aberta sobre a mesa de sua cozinha.
+$GEN_048_DOC_01_04
+Evidência:
+$GEN_048_DOC_01_05
+	A Bíblia de Sessier é uma edição antiga, barata e bastante gasta. Ela sublinhou vários trechos a lápis.
+$GEN_048_OnStart_00
+Parteira Sessier?
+$GEN_048_OnStart_01
+Sim, sou eu.
+$GEN_048_OnStart_02
+Você estrangulou o filho do senhor e da senhora Picque?
+$GEN_048_OnStart_03
+Eu não tive escolha, monsieur le juge. Infelizmente, a criança nasceu menina.
+$GEN_048_OnStart_04
+Você vai queimar no inferno!
+$GEN_048_OnStart_05
+O que você quer dizer?
+$GEN_048_OnStart_06
+Você é homem, não entenderia. Só quero que as mulheres parem de sofrer.
+$GEN_048_OnStart_07
+Então por que você os estrangulou?
+$GEN_048_OnStart_08
+Como eu disse, você não entenderia.
+$GEN_048_OnStart_09
+Ela está louca!
+$GEN_048_OnGuilty_00
+Cidadã Sessier, você me causa repulsa, e é com grande alívio que a sentencio à morte.
+$GEN_048_OnGuilty_01
+Isso não basta! Que a esquartejem!
+$GEN_048_OnGuilty_02
+Vou dormir melhor sabendo que ela não exerce mais sua profissão.
+$GEN_048_OnNotGuilty_00
+Cidadã Sessier, declaro você inocente. Pode ir.
+$GEN_048_OnNotGuilty_01
+O juiz está aliado àquela bruxa assassina!
+$GEN_048_OnNotGuilty_02
+Guilhotina para o Juiz!
+$GEN_048_OnNotGuilty_03
+Isto é traição!
+$GEN_048_OnNotGuilty_04
+Se ela continuar exercendo sua profissão, as mortes pesarão sobre você.
+$GEN_048_02x04_00_QTitle
+A criança nasceu com vida?
+$GEN_048_02x04_00_00
+A criança nasceu com vida?
+$GEN_048_02x04_00_01
+Sim, monsieur le juge.
+$GEN_048_02x04_00_02
+Você o estrangulou com as próprias mãos?
+$GEN_048_02x04_00_03
+Não, eu... eu tenho um colar de contas especial. Seria mais rápido simplesmente quebrar o pescoço delas, mas não sou capaz de fazer isso.
+$GEN_048_02x04_00_04
+Proponho que encerremos imediatamente este interrogatório... com uma sentença de morte.
+$GEN_048_02x04_00_05
+Ainda não. Cidadã, como pôde fazer algo tão terrível?
+$GEN_048_02x04_00_06
+Faço isso por eles, monsieur le juge, não por mim. Já sofri o bastante, eles não precisarão passar por isso.
+$GEN_048_01x07_01_QTitle
+Acredita em Deus, senhora?
+$GEN_048_01x07_01_00
+Você acredita em Deus, mulher?
+$GEN_048_01x07_01_01
+Não, monsieur le juge.
+$GEN_048_01x07_01_02
+E quanto à Bíblia encontrada em sua casa?
+$GEN_048_01x07_01_03
+A Bíblia não é um livro sagrado, mas um manual para os homens destruírem as nossas vidas!
+$GEN_048_01x07_01_04
+Explique.
+$GEN_048_01x07_01_05
+A Carta aos Efésios, por exemplo, ensina: “Mulheres, sujeitem-se a seus maridos como ao Senhor, pois o marido é o cabeça da mulher.” Os homens ouvem isso na igreja e depois tratam as mulheres pior do que animais!
+$GEN_048_01x07_01_06
+Mas não estaria fazendo ainda pior ao matá-los?
+$GEN_048_01x07_01_07
+Estou ajudando eles.
+$GEN_048_01x07_01_08
+De que maneira?
+$GEN_048_01x07_01_09
+Os homens estão morrendo na guerra, então há cada vez menos deles, e por isso as mulheres precisam disputar por eles. Se houver poucas mulheres, aí sim os homens vão começar a respeitá-las!
+$GEN_048_01x07_01_10
+Essa mulher está possuída!
+$GEN_048_01x07_01_11
+Os homens não te respeitavam?
+$GEN_048_01x07_01_12
+Meu pai me entregou a um homem. Ele me espancou por oito anos, até que finalmente bebeu até morrer.
+$GEN_048_01x07_01_13
+A Revolução combate a superstição religiosa. Você não precisa fazer o mesmo.
+$GEN_048_01x07_01_14
+É mesmo? Você luta pela “fraternidade”, mas não se importa com suas irmãs.
+$GEN_048_02x05_02_QTitle
+Por que você saiu tão apressado da casa dos Picque?
+$GEN_048_02x05_02_00
+Por que você saiu tão apressado da casa dos Picque?
+$GEN_048_02x05_02_01
+A criança estava morta. Não havia mais nada que eu pudesse fazer por eles.
+$GEN_048_02x05_02_02
+Você cobrou deles pelo parto?
+$GEN_048_02x05_02_03
+Não, eu não pude.
+$GEN_048_02x05_02_04
+Por quê?
+$GEN_048_02x05_02_05
+…
+$GEN_048_02x05_02_06
+Vou perguntar novamente: por que você não aceitou dinheiro do senhor e da senhora Picque?
+$GEN_048_02x05_02_07
+Parem de me torturar! Eu não fiz isso por mim. Só quero que outras mulheres tenham uma vida melhor do que a minha! Se formos menos do que os homens, nosso pesadelo de mil anos finalmente chegará ao fim!
+$GEN_048_02x05_02_08
+Toda a breve vida daquela garotinha foi um pesadelo.
+$GEN_048_KEY_01
+Filha
+$GEN_048_KEY_02
+Primeiro choro
+$GEN_048_KEY_03
+Criado
+$GEN_048_KEY_04
+Marcas de estrangulamento
+$GEN_048_KEY_05
+Pinça
+$GEN_048_KEY_06
+A fuga da parteira
+$GEN_048_KEY_07
+Bíblia
+$GEN_048_LastDialog_00
+Mais um homem ferindo mulheres! Patriarcado!
+$GEN_048_UNIQUE_QUESTION_00
+O que a mulher confessou durante a audiência?
+$GEN_048_UNIQUE_ANSWER_CORRECT_00_00
+O marido dela a agredia há anos.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ela sofreu quatro abortos espontâneos.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_00_01
+A mãe dela morreu em um incêndio.
+$GEN_048_UNIQUE_QUESTION_01
+Com o que ela matou a criança?
+$GEN_048_UNIQUE_ANSWER_CORRECT_01_00
+Um colar.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Com as próprias mãos.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Um travesseiro.
+$GEN_048_UNIQUE_QUESTION_02
+O réu aceitou dinheiro pelo parto?
+$GEN_048_UNIQUE_ANSWER_CORRECT_02_00
+Não, ela recusou.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Sim, ela pegou.
+$GEN_048_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Ela exigiu dinheiro e foi recusada.

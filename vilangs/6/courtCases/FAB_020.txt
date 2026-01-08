@@ -1,0 +1,260 @@
+$FAB_020_DOC_01_HEADER
+Compilado por: Fabrice Poli
+$FAB_020_DOC_01_00
+El acusado es el joven oficial Gérard Boutin. Pruebas contundentes indican que mató al exarzobispo de París, Jean-Baptiste Gobel.
+$FAB_020_DOC_01_01
+Ayer por la tarde, en la residencia de la víctima, se oyó un <a name="1" class="hidden">disparo de pistola</a>. Los vecinos entraron de inmediato en la habitación de Gobel y encontraron a un joven con un arma humeante en la mano. La víctima yacía en el suelo con un <a name="2" class="hidden">agujero en el pecho</a>. Llamaron a la Guardia de inmediato, ya que el joven se negó a soltar el arma homicida. Debido a la posición de la víctima, al lugar del crimen acudió el propio <a name="3" class="hidden">Comandante en Jefe François Hanriot</a>. Al entrar en la habitación, Hanriot notó que Boutin había terminado de cargar el arma y estaba listo para disparar de nuevo, esta vez con la intención de <a name="4" class="hidden">quitarse la vida</a>. Hanriot inició una negociación y, tras casi veinte minutos, logró convencer al oficial de bajar el arma. Los guardias inmovilizaron de inmediato al asesino antes de conducirlo a prisión.
+$FAB_020_DOC_01_02
+Durante un breve interrogatorio en su celda, <a name="5" class="hidden">el acusado guardó silencio</a>. Hanriot estuvo presente durante este intento de obtener información, lo cual me resulta extraño, pero siendo el comandante en jefe, puede hacer lo que le plazca. Por desgracia, ocurrió un incidente. Tras la salida de los investigadores, uno de los guardias regresó a la celda, se abalanzó sobre el acusado y <a name="6" class="hidden">lo pateó varias veces</a>, gritando: “¿Qué sabes de Robespierre? ¿Qué sabes del Comandante?”
+$FAB_020_DOC_01_03
+Procuro mantenerme al margen de los rumores, pero cierto chisme podría ser clave en este caso. Monsieur le juge, como la mayoría de los parisinos, probablemente no lo sepa, pero se dice que el joven Boutin es <a name="7" class="hidden">hijo ilegítimo</a> de Gobel. El mismo del que tanto se habla últimamente en la ciudad. Si esto es cierto, nos enfrentamos tanto a una tragedia como a un enigma: ¿por qué un hijo mataría a su propio padre? No he logrado descubrir la verdad. Quizá usted lo consiga.
+$FAB_020_OnStart_00
+Solicitamos que el acusado diga su nombre.
+$FAB_020_OnStart_01
+Gérard Boutin, hijo de Jean-Baptiste Gobel.
+$FAB_020_OnStart_02
+Increíble.
+$FAB_020_OnGuilty_00
+¡Es culpable y acabará en la guillotina!
+$FAB_020_OnGuilty_01
+¡No es digno del uniforme!
+$FAB_020_OnGuilty_02
+¡Tráiganlo aquí, yo me encargaré de ese desgraciado!
+$FAB_020_OnNotGuilty_00
+No debemos matar al muchacho. Déjenlo ir.
+$FAB_020_OnNotGuilty_01
+¿Y dejarme vivir en la deshonra?
+$FAB_020_OnNotGuilty_02
+¡Pero si fue él quien disparó el arma!
+$FAB_020_OnNotGuilty_03
+¿Ahora dejan que los asesinos salgan libres?
+$FAB_020_01x02_00_QTitle
+¿Qué ha pasado?
+$FAB_020_01x02_00_00
+¿Qué ha pasado?
+$FAB_020_01x02_00_01
+¿No vio la herida en su pecho?
+$FAB_020_01x02_00_02
+Más bien, ¿qué ocurrió antes del asesinato?
+$FAB_020_01x02_00_03
+Fui a ver a mi padre, que… tenía asuntos más importantes en mente que su propio bastardo.
+$FAB_020_01x02_00_04
+¿Cuál fue el tono de la conversación?
+$FAB_020_01x02_00_05
+Hacía frío. No… Mejor dicho, helaba. Mi padre guardaba rencor contra mí.
+$FAB_020_01x02_00_06
+¿Por qué?
+$FAB_020_01x02_00_07
+Por haber buscado ayuda en otras personas con mis problemas, y eso le trajo dificultades. Él apenas comenzaba una nueva etapa en su carrera…
+$FAB_020_01x02_00_08
+¿Cuándo tuvo lugar el tiroteo?
+$FAB_020_01x02_00_09
+Tras una breve conversación. Todo fue rápido. Para mí, no era más que un pedazo de carne, igual que un enemigo en el frente. ¿De qué otra forma puede uno tratar a un padre que mira a su hijo con tal desprecio?
+$FAB_020_01x04_01_QTitle
+¿Por qué recargó el arma?
+$FAB_020_01x04_01_00
+¿Por qué recargó el arma?
+$FAB_020_01x04_01_01
+He decidido que ya no es necesario que siga viviendo.
+$FAB_020_01x04_01_02
+Eso es evidente, usted ha cometido un crimen atroz.
+$FAB_020_01x04_01_03
+No, no es por eso. Mi madre morirá pronto, el cuerpo de mi padre yacía ante mí, y probablemente me guillotinen por haberle disparado...
+$FAB_020_01x04_01_04
+Lo harás.
+$FAB_020_01x04_01_05
+Y aunque me dejaran en libertad, mi carrera como oficial militar estaría acabada. El tribunal dictaría su sentencia, y luego mis superiores impondrían la suya.
+$FAB_020_01x04_01_06
+Eso sería ilegal.
+$FAB_020_01x04_01_07
+Veo que usted no ha servido en el Ejército, ciudadano. Pero, de cualquier modo que se mire, mi suicidio habría sido considerado un final honorable para este asunto. Eso es lo que pienso.
+$FAB_020_03x05_02_QTitle
+¿Por qué guardó silencio en la celda cuando los guardias le hicieron preguntas?
+$FAB_020_03x05_02_00
+¿Por qué guardó silencio en la celda cuando los guardias le hicieron preguntas?
+$FAB_020_03x05_02_01
+Porque, de repente, muchas figuras importantes empezaron a interesarse por mí. Me visitó el ciudadano Hébert, y luego Hanriot entró con la guardia.
+$FAB_020_03x05_02_02
+¿Qué tiene eso que ver con el asunto?
+$FAB_020_03x05_02_03
+Cada uno de ellos me preguntó si mi padre me había dicho algo inusual antes de morir, algo que me hubiera sorprendido o asustado.
+$FAB_020_03x05_02_04
+¿Y lo hizo?
+$FAB_020_03x05_02_05
+La Revolución aún no ha terminado y solo puede prometerme, monsieur le juge, que cuidará de mi madre.
+$FAB_020_03x05_02_07
+No corresponde a los jueces de este Tribunal hacer ese tipo de promesas. Dígame dónde está y su patria se encargará de ella.
+$FAB_020_03x05_02_08
+…
+$FAB_020_03x05_02_09
+No lo diga, entonces. Como desee.
+$FAB_020_03x06_03_QTitle
+Cuénteme sobre el asalto que sufrió.
+$FAB_020_03x06_03_00
+Cuénteme sobre el asalto que sufrió.
+$FAB_020_03x06_03_01
+Intentaron interrogarme y guardé silencio. El ciudadano Hanriot me hizo preguntas y aun así permanecí callado. Luego todos se marcharon.
+$FAB_020_03x06_03_02
+Vaya al grano, por favor.
+$FAB_020_03x06_03_03
+Unos minutos después, entró un guardia y se presentó dándome un puñetazo en la cara. Luego empezó a hacer preguntas, igual que los demás.
+$FAB_020_03x06_03_04
+¿Qué preguntas?
+$FAB_020_03x06_03_05
+Principalmente si mi padre había dicho algo sobre Robespierre o Hanriot.
+$FAB_020_03x06_03_06
+¿Y qué pasa con esos dos?
+$FAB_020_03x06_03_07
+Supongo que ellos podrían contarte más al respecto que yo.
+$FAB_020_03x06_03_08
+¿Qué sucedió después?
+$FAB_020_03x06_03_09
+Entraron los otros guardias y se lo llevaron. Creo que es evidente que el ciudadano Hanriot realmente quería averiguar si yo sabía algo.
+$FAB_020_03x07_04_QTitle
+Llame al testigo.
+$FAB_020_03x07_04_00
+Llame al testigo.
+$FAB_020_03x07_04_02
+Por favor, preséntese.
+$FAB_020_03x07_04_03
+Por si alguien aquí no me ha reconocido, mi nombre es François Hanriot y soy el Comandante en Jefe de la Guardia Nacional.
+$FAB_020_04x07_05_QTitle
+Por favor, explique los rumores que lo señalan como hijo del arzobispo.
+$FAB_020_04x07_05_00
+Por favor, explique los rumores que lo señalan como hijo del arzobispo.
+$FAB_020_04x07_05_01
+¿Qué rumores? Todo el mundo ya conoce la verdad. ¿Quieres que la exagere y le añada detalles dramáticos para que el rebaño se divierta?
+$FAB_020_04x07_05_02
+¡No somos animales!
+$FAB_020_04x07_05_03
+¿Por qué no dijo la verdad cuando salieron a la luz estas revelaciones?
+$FAB_020_04x07_05_04
+Le hice una promesa a mi madre. Esa era la única razón que necesitaba.
+$FAB_020_04x07_05_05
+¿Pretendías llevarte ese secreto a la tumba?
+$FAB_020_04x07_05_06
+Eso habría sido lo mejor. Los secretos de familia no deben ser discutidos ni ridiculizados por extraños.
+$FAB_020_04x07_05_07
+¿Otra vez hablas de nosotros?
+$FAB_020_04x07_05_08
+¿No va a defenderse?
+$FAB_020_04x07_05_09
+Ya lo he hecho. Al disparar a mi padre, defendí tanto mi honor como el de mi madre. Ahora moriré con dignidad.
+$FAB_020_04x06_06_QTitle
+¿Cómo pudiste arruinar tu carrera militar con tanta facilidad?
+$FAB_020_04x06_06_00
+¿Cómo pudiste arruinar tu carrera militar con tanta facilidad?
+$FAB_020_04x06_06_01
+¿Cómo podría servir a mi nación viviendo con el peso de saber que he sido deshonrado?
+$FAB_020_04x06_06_02
+¿Te refieres a los rumores?
+$FAB_020_04x06_06_03
+Me refiero a mi padre, que jamás abrazó a su hijo. Me refiero a mi madre, que está muriendo esperando el amor de su pasado.
+$FAB_020_04x06_06_04
+¿Y eso es más importante para usted que su vida y su deber hacia la nación?
+$FAB_020_04x06_06_05
+¿Está diciendo, monsieur le juge, que hay algo más importante que la propia familia?
+$FAB_020_04x06_06_06
+¡La nación!
+$FAB_020_04x06_06_07
+¡La guillotina!
+$FAB_020_04x06_06_08
+Quizá por eso prefiero morir antes que vivir entre ustedes, entre quienes han creado este mundo enfermo… Y más aún, sabiendo que mi familia ha sido utilizada en sucios juegos políticos.
+$FAB_020_WIT_00_A_QTitle
+¿Cómo llegó usted a la escena del crimen?
+$FAB_020_WIT_00_A_00
+¿Cómo llegó usted a la escena del crimen?
+$FAB_020_WIT_00_A_01
+Varias personas llegaron a la comisaría gritando sobre un crimen en la casa de Gobel. Como estaba cerca, decidí ocuparme yo mismo.
+$FAB_020_WIT_00_A_02
+¿Casualmente estabas cerca?
+$FAB_020_WIT_00_A_03
+Una coincidencia. A veces suceden.
+$FAB_020_WIT_00_A_04
+¿Llegaron rápido al lugar?
+$FAB_020_WIT_00_A_05
+No sé cuántos minutos pasaron, pero llegué allí poco después de la Guardia.
+$FAB_020_WIT_00_B_QTitle
+¿Cómo logró convencer al acusado de entregarse?
+$FAB_020_WIT_00_B_00
+¿Cómo logró convencer al acusado de entregarse?
+$FAB_020_WIT_00_B_01
+Tuvimos una larga conversación.
+$FAB_020_WIT_00_B_02
+¿Sobre qué?
+$FAB_020_WIT_00_B_03
+Le dije que deshonrar el uniforme militar quitándose la vida era un crimen aún mayor que lo que le hizo a Gobel.
+$FAB_020_WIT_00_B_04
+¿Y eso lo convenció?
+$FAB_020_WIT_00_B_05
+Él es oficial. Nunca has llevado un uniforme, así que no lo entenderías, pero siente un profundo respeto por el Ejército. Sí, eso lo convenció.
+$FAB_020_WIT_01_A_QTitle
+¿Fue usted quien envió al guardia que atacó al acusado?
+$FAB_020_WIT_01_A_00
+¿Fue usted quien envió al guardia que atacó al acusado?
+$FAB_020_WIT_01_A_01
+No diga disparates. El hombre actuó por cuenta propia y será castigado por ello.
+$FAB_020_WIT_01_A_02
+¿Cómo?
+$FAB_020_WIT_01_A_03
+Aún no lo he decidido, pero me resulta curioso que te preocupe más un guardia irascible que un asesino…
+$FAB_020_WIT_01_A_04
+Puede dejar de lado esas insinuaciones. ¿Algún guardia ha mostrado semejante insubordinación antes?
+$FAB_020_WIT_01_A_05
+No, jamás. Algo así nunca ha sucedido bajo mi mando.
+$FAB_020_WIT_01_A_06
+¿Y aun así lo hizo justo cuando un prisionero podía tener información sobre usted que no debía conocer?
+$FAB_020_WIT_01_A_07
+No voy a comentar semejante absurdo.
+$FAB_020_WIT_01_B_QTitle
+¿Qué asuntos le vinculan con el ciudadano Robespierre?
+$FAB_020_WIT_01_B_00
+¿Qué asuntos le vinculan con el ciudadano Robespierre?
+$FAB_020_WIT_01_B_01
+En realidad, ninguno. Solo nos comunicamos una vez por carta: me envió sus felicitaciones cuando fui nombrado comandante en jefe de la Guardia Nacional.
+$FAB_020_WIT_01_B_02
+Sin embargo, su subordinado le preguntó por Robespierre mientras golpeaba al acusado. De todas las preguntas posibles, solo le interesaba saber qué sabía el acusado sobre Robespierre.
+$FAB_020_WIT_01_B_03
+No puedo explicarlo. ¿Te ha contado algo?
+$FAB_020_WIT_01_B_04
+¿Y si es así?
+$FAB_020_WIT_01_B_05
+Preguntaba solo por curiosidad. Pero si no es así, entonces me parece que el guardia debió de equivocarse al pensar que Gérard Boutin poseía información comprometedora.
+$FAB_020_KEY_01
+Pistola
+$FAB_020_KEY_02
+La herida de bala
+$FAB_020_KEY_03
+Comandante en jefe de la Guardia Nacional
+$FAB_020_KEY_04
+Un intento de suicidio
+$FAB_020_KEY_05
+Silencio bajo arresto
+$FAB_020_KEY_06
+Agresión al acusado
+$FAB_020_KEY_07
+Hijo ilegítimo
+$FAB_020_LastDialog_00
+Dejadme morir rápido…
+$FAB_020_UNIQUE_QUESTION_00
+¿Quién llegó primero a la escena del crimen?
+$FAB_020_UNIQUE_ANSWER_CORRECT_00_00
+Comandante François Hanriot.
+$FAB_020_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Una patrulla de guardias.
+$FAB_020_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Pierre, un panadero local.
+$FAB_020_UNIQUE_QUESTION_01
+¿Qué llevó al acusado a cometer el asesinato?
+$FAB_020_UNIQUE_ANSWER_CORRECT_01_00
+La antipatía de la víctima hacia el acusado.
+$FAB_020_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Falta de dinero.
+$FAB_020_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Diferencias en las opiniones políticas.
+$FAB_020_UNIQUE_QUESTION_02
+¿Confirmó el acusado los rumores sobre la paternidad de la víctima?
+$FAB_020_UNIQUE_ANSWER_CORRECT_02_00
+Sí.
+$FAB_020_UNIQUE_ANSWER_NOT_CORRECT_02_00
+No.

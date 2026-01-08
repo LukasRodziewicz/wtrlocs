@@ -1,0 +1,78 @@
+$G_SP_TOPIC_01
+Crime
+$G_SP_TOPIC_02
+Réu
+$G_SP_TOPIC_03
+Revolução
+$G_SP_01_AGGR_01
+A desordem será esmagada pela força implacável da nossa verdade. Não há mais volta!
+$G_SP_01_AGGR_02
+A guilhotina seria quase um perdão, um crime tão hediondo exige tortura! Devemos torturá-lo?!
+$G_SP_01_AGGR_03
+Onde há crime, deve haver punição! E nós a aplicaremos, oh sim! Até os ancestrais dos condenados sentirão o fio gelado da guilhotina cortando seus pescoços!
+$G_SP_01_MANI_01
+As futuras gerações saberão que não fomos covardes! Seremos lembrados por punir com rigor crimes tão hediondos!
+$G_SP_01_MANI_02
+Quem ultrapassa os limites da lei Revolucionária só pode culpar a si mesmo! Só a si mesmo!
+$G_SP_01_MANI_03
+Não existem tons de cinza no crime, apenas culpa ou inocência.
+$G_SP_01_JOKE_01
+Rápido! A ceifadora quer trocar umas palavras com o condenado sobre esse crime terrível.
+$G_SP_01_JOKE_02
+Para este condenado aqui, matar era tão fácil quanto respirar. Assim também é a guilhotina para nós!
+$G_SP_01_JOKE_03
+Para quem desejou provar o sabor do crime, agora serviremos sua merecida sobremesa!
+$G_SP_01_HUMI_01
+Têmis falou por sua boca. Ela clama por “Justiça!” E nós ouviremos sua voz!
+$G_SP_01_HUMI_02
+Como juiz, apenas cumpro a vontade da República.
+$G_SP_01_HUMI_03
+Podemos ser uma nação misericordiosa, mas não devemos esquecer que um crime terrível foi cometido.
+$G_SP_02_AGGR_01
+Assassinos, traidores, impostores — é preciso eliminá-los, ou vidas inocentes estarão em perigo!
+$G_SP_02_AGGR_02
+Vamos decapitar mais um monstro que se alimenta da injustiça!
+$G_SP_02_AGGR_03
+Este indivíduo cospe no rosto de Têmis e do povo. A justiça não tolerará tais insultos!
+$G_SP_02_MANI_01
+Esses criminosos querem o retorno ao passado! Eles defendem isso!
+$G_SP_02_MANI_02
+Você vai simplesmente ficar parado e deixar que criminosos lhe digam o que fazer?
+$G_SP_02_MANI_03
+Não lhes dê ouvidos quando disserem que você não sabe ler. Ouça-os quando suplicarem por misericórdia diante da guilhotina!
+$G_SP_02_JOKE_01
+Venha, deixe o acusado trocar umas palavras com a guilhotina!
+$G_SP_02_JOKE_02
+Hoje temos diante de nós mais um réu que, como todos dizem, é inocente!
+$G_SP_02_JOKE_03
+Uma salva de palmas para a peça <i>“Morto por Nada”</i>!
+$G_SP_02_HUMI_02
+Não lamentamos apenas pela vítima, mas também pela alma do condenado. Porém, não confunda nossa compaixão com fraqueza.
+$G_SP_02_HUMI_03
+Criminosos devem ir para a cova. Só assim construiremos um futuro melhor!
+$G_SP_02_HUMI_04
+Ao executar esta sentença, tornamos nossas ruas mais seguras. Não lamento por quem vai à guilhotina, mas por nós, suas vítimas!
+$G_SP_03_AGGR_01
+Você conquistou o poder na França. Agora derrame o sangue daqueles que se opõem à República!
+$G_SP_03_AGGR_02
+Esses criminosos acham que nossa tolerância é sinal de fraqueza! Basta!
+$G_SP_03_AGGR_03
+Aos inimigos da França, só resta a morte!
+$G_SP_03_MANI_01
+Não somos dignos dessa liberdade se permitirmos que o antigo sistema e a moral apodrecida envenenem nosso país!
+$G_SP_03_MANI_02
+O reinado dos antigos governantes, cujo objetivo era impor injustiça ao povo, termina com suas mortes rápidas.
+$G_SP_03_MANI_04
+As próximas gerações lembrarão que não fomos covardes! Isso precisa ser feito!
+$G_SP_03_JOKE_01
+Alguém viu o carrasco? Tragam-me aquele bêbado, ou vou ter que contratar outro!
+$G_SP_03_JOKE_02
+Vamos, vamos, não há tempo a perder!
+$G_SP_03_JOKE_03
+Matem esse rato imundo e vamos finalmente comer alguma coisa!
+$G_SP_03_HUMI_01
+Aqui, é o povo quem detém o poder.
+$G_SP_03_HUMI_02
+Cidadãos, devemos voltar ao trabalho para construir a nossa nova França! Pela nação!
+$G_SP_03_HUMI_04
+O antigo regime precisa cair. Não há outro caminho. Agora, vocês são os soberanos!

@@ -1,0 +1,434 @@
+$TUTORIAL_1_01_TITLE
+Documentos y cartas
+$TUTORIAL_1_01_MAIN
+Arrastra y suelta los documentos para organizar su disposición. Haz clic para ver su contenido.
+$TUTORIAL_1_02_TITLE
+Cuaderno
+$TUTORIAL_1_02_MAIN
+Consulta información detallada sobre los acontecimientos, acciones y personajes actuales.
+$TUTORIAL_1_03_TITLE
+Veredicto
+$TUTORIAL_1_03_MAIN
+Considere las consecuencias y decida el destino del acusado.
+$TUTORIAL_1_04_TITLE
+Eventos
+$TUTORIAL_1_04_MAIN
+Reacciona ante los acontecimientos. Ignorarlos puede tener graves consecuencias.
+$TUTORIAL_1_05_TITLE
+Protocolo e informe
+$TUTORIAL_1_05_MAIN
+Familiarícese con los detalles del caso y complete los expedientes.
+$TUTORIAL_1_06_TITLE
+Puntos de influencia
+$TUTORIAL_1_06_MAIN
+Los Puntos de Influencia son la moneda principal del juego. Úsalos con sabiduría.
+$TUTORIAL_1_07_TITLE
+Jerarquía
+$TUTORIAL_1_07_MAIN
+Examina el equilibrio actual de poder en París y tu lugar dentro de él.
+$TUTORIAL_1_08_TITLE
+Opciones
+$TUTORIAL_1_08_MAIN
+Cambia la configuración del juego.
+$TUTORIAL_1_09_TITLE
+Público
+$TUTORIAL_1_09_MAIN
+Interrogar al acusado puede agitar a la audiencia impaciente. Si se enfurecen, el pueblo podría incluso iniciar un motín.
+$TUTORIAL_1_10_TITLE
+Jurado
+$TUTORIAL_1_10_MAIN
+Oponerse sistemáticamente a la opinión del Jurado puede acarrear graves consecuencias.
+$TUTORIAL_1_11_TITLE
+Continuar
+$TUTORIAL_1_11_MAIN
+Después del juicio, haz clic para continuar con la siguiente parte.
+$TUTORIAL_1_12_TITLE
+Protocolo
+$TUTORIAL_1_12_MAIN
+Revisa los registros del juicio.
+$TUTORIAL_1_13_TITLE
+Informe
+$TUTORIAL_1_13_MAIN
+Complete el informe respondiendo a las preguntas del Fiscal. Responder incorrectamente puede afectar su reputación y costarle el cargo de juez.
+$TUTORIAL_1_14_TITLE
+Favor
+$TUTORIAL_1_14_MAIN
+Cuantos más errores cometas en el informe, mayor será el riesgo de que te destituyan. Más adelante podrás desbloquear la opción de influir en la decisión del Fiscal sobre el informe.
+$TUTORIAL_1_15_TITLE
+Expedientes
+$TUTORIAL_1_15_MAIN
+Revisa los cargos y los hechos. Así te resultará más fácil desbloquear preguntas para el acusado.
+$TUTORIAL_1_16_TITLE
+Buscando conexiones
+$TUTORIAL_1_16_MAIN
+Encuentra las conexiones correctas para desbloquear preguntas al acusado. Elige una línea de investigación y asígnala a la categoría adecuada.
+$TUTORIAL_1_17_TITLE
+Intentos
+$TUTORIAL_1_17_MAIN
+Al vincular líneas de investigación y categorías, solo puedes cometer un número limitado de errores. Si te equivocas demasiadas veces, todo el sistema quedará bloqueado.
+$TUTORIAL_1_19_TITLE
+Preguntas
+$TUTORIAL_1_19_MAIN
+Reúne información e influye en la actitud del jurado interrogando al acusado.
+$TUTORIAL_1_20_TITLE
+Desbloquear preguntas
+$TUTORIAL_1_20_MAIN
+Para poder hacer preguntas, primero debes desbloquearlas en el menú de enlaces de indagación.
+$TUTORIAL_1_21_TITLE
+Efecto de la pregunta
+$TUTORIAL_1_21_MAIN
+Gozar del favor del jurado te permite ver hacia qué lado se inclinarán tras formular una pregunta.
+$TUTORIAL_1_22_TITLE
+Castigo
+$TUTORIAL_1_22_MAIN
+Tome la decisión más importante: condene al acusado o declárelo inocente.
+$TUTORIAL_1_23_TITLE
+Firma
+$TUTORIAL_1_23_MAIN
+Firme el documento para legitimar su veredicto.
+$TUTORIAL_1_24_TITLE
+Inteligencia
+$TUTORIAL_1_24_MAIN
+Observa cómo un veredicto afectará a las Facciones. Una relación terrible con una Facción te impedirá recibir información al respecto.
+$TUTORIAL_1_25_TITLE
+Toma tu decisión
+$TUTORIAL_1_25_MAIN
+Cada acción puede requerir una cantidad distinta de Puntos de Influencia y tener una probabilidad de éxito diferente. ¡Piénsalo bien!
+$TUTORIAL_1_26_TITLE
+Relaciones
+$TUTORIAL_1_26_MAIN
+Las malas relaciones con las facciones traen consecuencias negativas para ti (por ejemplo, aumenta el fervor en París).
+$TUTORIAL_1_27_TITLE
+Reputación
+$TUTORIAL_1_27_MAIN
+La reputación lo afecta todo en el mundo del juego: las facciones, las relaciones familiares, la actitud del público, el fervor en las Secciones e incluso la capacidad de persuadir a otros personajes.
+$TUTORIAL_1_28_TITLE
+Puntos de influencia
+$TUTORIAL_1_28_MAIN
+Cada día dispones de una cantidad fija de Puntos de Influencia. Más adelante podrás aumentar este límite.
+$TUTORIAL_1_29_TITLE
+Notificaciones
+$TUTORIAL_1_29_MAIN
+Presta mucha atención a los cambios en tu influencia y en tus relaciones con las Facciones.
+$TUTORIAL_1_30_TITLE
+Modificadores globales
+$TUTORIAL_1_30_MAIN
+Algunas de tus decisiones y los cambios en el mundo del juego pueden activar Modificadores Globales. Estos factores afectan las relaciones, la Reputación y la influencia. Puedes consultarlos en el Cuaderno.
+$TUTORIAL_1_31_TITLE
+Trampas
+$TUTORIAL_1_31_MAIN
+Algunos casos pueden contener trampas. Lee los expedientes con atención para identificar las líneas de investigación irrelevantes.
+$TUTORIAL_1_32_TITLE
+Juicios rápidos
+$TUTORIAL_1_32_MAIN
+Decide con cautela el destino de cada acusado. No podrás revertir ninguna decisión. Presta atención a quién respalda al acusado.
+$TUTORIAL_1_33_TITLE
+Sentencia esperada
+$TUTORIAL_1_33_MAIN
+Averigua qué veredicto esperan las facciones y tus seres queridos.
+$TUTORIAL_1_34_TITLE
+Intrigas
+$TUTORIAL_1_34_MAIN
+Las intrigas son conflictos complejos entre usted y otro jugador político. Una derrota podría resultar desastrosa para usted.
+$TUTORIAL_1_35_TITLE
+La aristocracia ha salido a la luz
+$TUTORIAL_1_35_MAIN
+A partir de ahora deberás cultivar relaciones con otro grupo político que opera en París.
+$TUTORIAL_2_01_TITLE
+Acciones familiares
+$TUTORIAL_2_01_MAIN
+Al regresar a casa, puedes decidir cómo quieres pasar el resto del día.
+$TUTORIAL_2_02_TITLE
+Acciones varias
+$TUTORIAL_2_02_MAIN
+Cada acción afectará a los demás miembros de la familia, así como a su actitud hacia ti.
+$TUTORIAL_2_03_TITLE
+Actitudes de los personajes
+$TUTORIAL_2_03_MAIN
+La actitud de cada personaje puede otorgarte ciertos bonos o privarte de ellos (por ejemplo, reputación o relaciones con las facciones).
+$TUTORIAL_2_04_TITLE
+Hijo menor
+$TUTORIAL_2_04_MAIN
+Tu hijo menor es especial: su actitud hace que los demás miembros de la familia te aprecien un poco más. Cuídalo bien.
+$TUTORIAL_2_05_TITLE
+Acción bloqueada
+$TUTORIAL_2_05_MAIN
+Tras atravesar diversos acontecimientos importantes, puede que te veas obligado a realizar una Acción. Ese día, te convertirás en víctima de tus propias decisiones.
+$TUTORIAL_3_01_TITLE
+Secciones de París
+$TUTORIAL_3_01_MAIN
+Cada sección puede estar bajo tu control, bajo control enemigo o ser neutral.
+$TUTORIAL_3_02_TITLE
+Secciones controladas
+$TUTORIAL_3_02_MAIN
+Cada sección que conquistes te otorga un Punto de Influencia adicional. Además, la probabilidad de éxito en las misiones es mayor dentro de tu territorio.
+$TUTORIAL_3_03_TITLE
+Secciones bloqueadas
+$TUTORIAL_3_03_MAIN
+Algunas secciones están bloqueadas. Desblóquealas con cualquier agente para realizar acciones en ellas.
+$TUTORIAL_3_04_TITLE
+Secciones enemigas
+$TUTORIAL_3_04_MAIN
+Los agentes enemigos también pueden tomar el control de tus secciones. Las acciones realizadas en secciones enemigas tienen menos probabilidades de éxito.
+$TUTORIAL_3_05_TITLE
+Disturbios
+$TUTORIAL_3_05_MAIN
+Los disturbios bloquean a los Agentes (excepto al Matón) y te impiden obtener Puntos de Influencia de la Sección. Si no se sofocan, los disturbios vuelven neutral la Sección y pueden propagarse rápidamente.
+$TUTORIAL_3_06_TITLE
+Informe
+$TUTORIAL_3_06_MAIN
+El informe contiene un resumen de todos los acontecimientos que ocurren en el mapa.
+$TUTORIAL_3_07_TITLE
+Informe – acceso rápido
+$TUTORIAL_3_07_MAIN
+Para abrirlo de nuevo, haz clic en el icono de Informe.
+$TUTORIAL_3_08_TITLE
+Agentes del jugador
+$TUTORIAL_3_08_MAIN
+Envía agentes a misiones, controla multitudes rebeldes y lucha por el dominio de la ciudad. Haz clic en un agente y elige la acción que deseas que realice.
+$TUTORIAL_3_09_TITLE
+Movimiento
+$TUTORIAL_3_09_MAIN
+Puedes mover a tus Agentes libremente entre tus Secciones. Sin embargo, en Secciones hostiles o neutrales, solo pueden avanzar un espacio por día.
+$TUTORIAL_3_10_TITLE
+Matón
+$TUTORIAL_3_10_MAIN
+El Matón es hábil en la pelea, gana Reputación y sabe controlar a las multitudes rebeldes.
+$TUTORIAL_3_11_TITLE
+Diplomático
+$TUTORIAL_3_11_MAIN
+Toma el control de secciones, fortalece las relaciones con las facciones y reduce el fervor en las secciones. Es menos eficaz en duelos contra agentes enemigos.
+$TUTORIAL_3_12_TITLE
+Espía
+$TUTORIAL_3_12_MAIN
+Espía al enemigo, atrae a los rivales y ayuda al Diplomático a controlar un territorio.
+$TUTORIAL_3_13_TITLE
+Muscadinos
+$TUTORIAL_3_13_MAIN
+Interfieren en tus asuntos, y en los de tus enemigos, agitando a las multitudes en las Secciones.
+$TUTORIAL_3_14_TITLE
+Patrulla Revolucionaria
+$TUTORIAL_3_14_MAIN
+La patrulla puede arrestar a tu agente o capturar a un agente enemigo.
+$TUTORIAL_3_15_TITLE
+Desbloquear una sección
+$TUTORIAL_3_15_MAIN
+Para desbloquear una Sección, primero debes explorarla. Solo puedes desbloquear Secciones adyacentes a las que ya estén desbloqueadas.
+$TUTORIAL_3_16_TITLE
+Sección principal
+$TUTORIAL_3_16_MAIN
+Tu Sección Principal es fundamental. Los edificios aquí te permiten influir en el resto del juego. Protégela a toda costa. Si pierdes el control sobre ella, perderás la partida.
+$TUTORIAL_3_17_TITLE
+Fervor
+$TUTORIAL_3_17_MAIN
+Cada Sección reacciona a la situación del juego, haciendo que el fervor de sus habitantes aumente o disminuya. Si su fervor se vuelve demasiado intenso, podría desencadenar disturbios destructivos.
+$TUTORIAL_3_18_TITLE
+Agentes enemigos
+$TUTORIAL_3_18_MAIN
+Los agentes enemigos lucharán contra tus agentes por el territorio. Pueden apoderarse de tus secciones o de secciones neutrales.
+$TUTORIAL_3_19_TITLE
+Combate
+$TUTORIAL_3_19_MAIN
+Cuando al menos dos Agentes hostiles se encuentran en una misma Sección, se desata el combate. Recuerda que un Diplomático tiene pocas posibilidades frente a un luchador brutal.
+$TUTORIAL_3_20_TITLE
+Agente herido
+$TUTORIAL_3_20_MAIN
+Tras una derrota en combate, tu Agente queda herido. Puede seguir desplazándose, pero no podrá realizar ninguna Acción.
+$TUTORIAL_3_21_TITLE
+Construcción del monumento
+$TUTORIAL_3_21_MAIN
+Cuantas más secciones controles, más rápido avanzará la construcción del monumento. Cada nueva fase completada te permite tomar el control de otro edificio cercano al monumento.
+$TUTORIAL_3_22_TITLE
+Edificios
+$TUTORIAL_3_22_MAIN
+Cada edificio te permite realizar un tipo distinto de Acción. Elige aquellos que se adapten a tu estilo de juego.
+$TUTORIAL_3_23_TITLE
+Guarnición
+$TUTORIAL_3_23_MAIN
+La guarnición genera refuerzos cada turno. Cuanta mayor sea tu reputación, más tropas se unirán a ti.
+$TUTORIAL_3_24_TITLE
+Desertores
+$TUTORIAL_3_24_MAIN
+En cada sección de París, la gente intenta escapar de la crueldad del enemigo. Protégelos el mayor tiempo posible: tu Reputación depende de ello.
+$TUTORIAL_3_25_TITLE
+Ataque enemigo
+$TUTORIAL_3_25_MAIN
+Has sido atacado. Si no tienes tropas en la Sección, perderás automáticamente.
+$TUTORIAL_3_26_TITLE
+Elige a tu general
+$TUTORIAL_3_26_MAIN
+Puedes librar la batalla por tu cuenta o aceptar la ayuda del general Dumas (la batalla se resolverá automáticamente).
+$TUTORIAL_3_27_TITLE
+General enemigo
+$TUTORIAL_3_27_MAIN
+Cada general enemigo tiene sus propias tácticas y artimañas favoritas.
+$TUTORIAL_3_28_TITLE
+Vista de estadísticas.
+$TUTORIAL_3_28_MAIN
+Activar o desactivar la visualización de los refugiados que quedan en los distritos.
+$TUTORIAL_4_01_TITLE
+Guillotina
+$TUTORIAL_4_01_MAIN
+Gánate el favor de la multitud pronunciando un discurso o pasa directamente a la ejecución.
+$TUTORIAL_4_02_TITLE
+Discurso
+$TUTORIAL_4_02_MAIN
+Recuerda: una vez que comiences tu discurso, no habrá vuelta atrás. Un discurso torpe o desafortunado solo te ganará la burla del público.
+$TUTORIAL_4_03_TITLE
+Actitud de la multitud
+$TUTORIAL_4_03_MAIN
+Según tu reputación, la multitud será más o menos agresiva.
+$TUTORIAL_4_05_TITLE
+Guardias
+$TUTORIAL_4_05_MAIN
+Llamar a la guardia puede salvarte de ser atacado por una turba enfurecida.
+$TUTORIAL_5_01_TITLE
+Un juego de dados
+$TUTORIAL_5_01_MAIN
+Derrota a tu oponente logrando la mayor puntuación posible. Perder puede dañar tu reputación.
+$TUTORIAL_5_02_TITLE
+Turnos
+$TUTORIAL_5_02_MAIN
+La partida dura cinco turnos y gana el jugador con la puntuación total más alta.
+$TUTORIAL_5_03_TITLE
+Lanzamiento de dados
+$TUTORIAL_5_03_MAIN
+Lanza seis dados y espera obtener la mejor puntuación.
+$TUTORIAL_5_04_TITLE
+Volver a tirar
+$TUTORIAL_5_04_MAIN
+Si no estás satisfecho con tu puntuación, puedes volver a tirar los dados tres veces durante toda la partida.
+$TUTORIAL_5_05_TITLE
+Invitar una ronda
+$TUTORIAL_5_05_MAIN
+Haz que tu oponente beba para reducir sus posibilidades de ganar. Beber también te permite volver a tirar más dados.
+$TUTORIAL_5_06_TITLE
+Puntuación
+$TUTORIAL_5_06_MAIN
+Obtén puntos al sacar dados con valores idénticos. Cuanto mayor sea el número en los dados, mejor será tu puntuación.
+$TUTORIAL_5_07_TITLE
+Puntuación detallada
+$TUTORIAL_5_07_MAIN
+Consulta la puntuación detallada y presta atención a la puntuación especial.
+$TUTORIAL_5_08_TITLE
+Favor
+$TUTORIAL_5_08_MAIN
+Los favores te permiten obligar al Fiscal a firmar tu Informe en el tribunal, lo que podría salvarte de perder tu cargo si no cumples con tus deberes.
+$TUTORIAL_6_01_TITLE
+Su posición
+$TUTORIAL_6_01_MAIN
+Cuanto más alto sea tu puesto en la arena política de París, mayor será tu bonificación de Reputación.
+$TUTORIAL_6_07_TITLE
+Barra de progreso
+$TUTORIAL_6_07_MAIN
+Realiza las acciones correctas para llenar la barra de progreso. Si haces muy pocas, perderás. Si realizas más de las necesarias, recibirás una bonificación.
+$TUTORIAL_6_08_TITLE
+Casillas de acción
+$TUTORIAL_6_08_MAIN
+Las acciones de intriga se muestran como bloques de acción. Haz clic para leer la descripción y tomar una decisión o intentar persuadir a alguien.
+$TUTORIAL_6_09_TITLE
+Persuasión
+$TUTORIAL_6_09_MAIN
+Para que una acción tenga éxito, debes convencer al número requerido de personas. También puedes enviar a tu Diplomático para que lo haga por ti. Recuerda que solo puedes hacerlo mientras el bloque esté activo.
+$TUTORIAL_6_10_TITLE
+Métodos de solución
+$TUTORIAL_6_10_MAIN
+Algunas acciones requieren que tomes decisiones tácticas. Cada elección puede tener una probabilidad distinta de éxito.
+$TUTORIAL_6_11_TITLE
+Esperando resultados
+$TUTORIAL_6_11_MAIN
+Las intrigas se tejen en cuestión de días. Los resultados de algunos bloques de Acción pueden verse solo al día siguiente.
+$TUTORIAL_6_12_TITLE
+Contraataques
+$TUTORIAL_6_12_MAIN
+De vez en cuando, tu enemigo puede frustrar tus planes con un contraataque. En esos casos, debes responder con rapidez y sensatez.
+$TUTORIAL_6_13_TITLE
+Decisiones importantes
+$TUTORIAL_6_13_MAIN
+A veces tendrás que tomar decisiones que afectarán a toda una Intriga. Piénsalo detenidamente.
+$TUTORIAL_7_01_TITLE
+Batallas
+$TUTORIAL_7_01_MAIN
+Las batallas son enfrentamientos dinámicos entre dos ejércitos enemigos. Participan infantería, fusileros y artillería.
+$TUTORIAL_7_02_TITLE
+Enemigos
+$TUTORIAL_7_02_MAIN
+Los generales enemigos pueden tener distintas preferencias en cuanto a sus tácticas.
+$TUTORIAL_7_05_TITLE
+Elección de tácticas
+$TUTORIAL_7_05_MAIN
+Cada táctica determina cómo se lleva a cabo el ataque o la defensa y afecta las bonificaciones menores que recibirán tus tropas en combate.
+$TUTORIAL_7_06_TITLE
+Médico
+$TUTORIAL_7_06_MAIN
+El médico cura a tus tropas heridas y otorga un bono a los puntos de salud. Recuerda: si las tropas mueren, el médico perecerá con ellas.
+$TUTORIAL_7_08_TITLE
+Refugiados
+$TUTORIAL_7_08_MAIN
+Durante cada turno de la batalla, un cierto número de personas escapará de la Sección. Cuanto más resistas en la batalla, más personas salvarás.
+$TUTORIAL_7_09_TITLE
+Equilibrio de poder
+$TUTORIAL_7_09_MAIN
+El equilibrio de poder durante las batallas puede cambiar. Observa las barras correspondientes y utiliza la información obtenida para elegir la táctica adecuada.
+$TUTORIAL_7_10_TITLE
+Especialista en logística
+$TUTORIAL_7_10_MAIN
+Este peón aumenta el número de personas que podrán escapar de la Sección. Si muere en combate, tendrás que reclutar a otro en la Sección Principal.
+$TUTORIAL_7_11_TITLE
+Modificadores
+$TUTORIAL_7_11_MAIN
+Durante las batallas, pueden surgir condiciones adicionales que afectan a tus tropas o a la velocidad con la que huyen los civiles.
+$TUTORIAL_8_01_TITLE
+Elaboración de estrategia
+$TUTORIAL_8_01_MAIN
+Antes de intentar persuadir, puedes explorar distintos enfoques para todos los temas de la conversación. Tras emplear cada tipo de emoción, recibirás una evaluación de tus decisiones.
+$TUTORIAL_8_02_TITLE
+Actitudes de los personajes
+$TUTORIAL_8_02_MAIN
+Cada actitud va acompañada de un conjunto de emociones que pueden tener un impacto positivo o negativo. Aprende sus efectos para manipular a los parisinos como desees.
+$TUTORIAL_8_03_TITLE
+Actitudes de los personajes
+$TUTORIAL_8_03_MAIN
+Cuanto mayor sea tu Reputación, más sabrás sobre las actitudes de los demás oradores. También puedes obtener esta información gastando Puntos de Influencia.
+$TUTORIAL_9_01_TITLE
+Veredictos en el modo supervivencia
+$TUTORIAL_9_01_MAIN
+En el modo supervivencia hay dos tipos de sentencia: pena de muerte o absolución.
+$TUTORIAL_9_02_TITLE
+Puntuaciones obtenidas y fecha
+$TUTORIAL_9_02_MAIN
+Cantidad de puntos obtenidos y número de día.
+$TUTORIAL_9_03_TITLE
+Opinión del jurado
+$TUTORIAL_9_03_MAIN
+En el modo supervivencia, el veredicto acorde con la opinión del jurado otorga 60 puntos.
+$TUTORIAL_9_04_TITLE
+Puntuación del informe
+$TUTORIAL_9_04_MAIN
+En el modo supervivencia, el informe se califica en una escala de 0 a 100. La cantidad de puntos obtenidos varía según el número de preguntas y respuestas correctas.
+$TUTORIAL_9_05_TITLE
+Bono por el informe
+$TUTORIAL_9_05_MAIN
+Por completar correctamente todo el informe, se otorgan 50 puntos extra.
+$TUTORIAL_9_06_TITLE
+Mantenimiento del orden
+$TUTORIAL_9_06_MAIN
+Por mantener el orden en la sala del tribunal, se otorgan 25 puntos de bonificación.
+$TUTORIAL_9_07_TITLE
+Puntuación de preguntas desbloqueadas
+$TUTORIAL_9_07_MAIN
+En el modo supervivencia, las preguntas desbloqueadas se puntúan en una escala de 0 a 100. La cantidad de puntos obtenidos varía según el número de preguntas desbloqueadas y el total de preguntas.
+$TUTORIAL_9_08_TITLE
+Bono por preguntas
+$TUTORIAL_9_08_MAIN
+Por desbloquear todas las preguntas, se otorgan 50 puntos extra.
+$TUTORIAL_9_09_TITLE
+Impacto del veredicto
+$TUTORIAL_9_09_MAIN
+En el modo supervivencia, los indicadores muestran si un veredicto mejorará, empeorará o no cambiará tu relación con la facción.
+$TUTORIAL_DISPLAY_MESSAGE
+¿Desea mostrar los tutoriales?
+$TUTORIAL_DISPLAY_YES
+Sí
+$TUTORIAL_DISPLAY_NO
+No

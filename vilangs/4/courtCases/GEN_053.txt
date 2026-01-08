@@ -1,0 +1,324 @@
+$GEN_053_DOC_01_HEADER
+Zusammengestellt von: Charles Étienne
+$GEN_053_DOC_01_00
+	Lucas Adnet, ein Handwerker und alleinstehender <a name="1" class="hidden">Vater zweier Töchter</a>, wird des Mordes und der Schändung einer Leiche beschuldigt. Der Fall gelangte durch eine Anzeige eines Mitbürgers in unser Blickfeld. Während eines <a name="2" class="hidden">Abendempfangs</a> war der Mediziner Jean-Joël Gaumont von dem kunstvoll gefertigten Tafelgeschirr begeistert. Der Arzt bat die Gastgeber um die Adresse des Herstellers und besuchte ihn am folgenden Tag <a name="3" class="hidden">in seiner Werkstatt</a>.
+$GEN_053_DOC_01_01
+	Als er Lucas Adnets Muster von <a name="4" class="hidden">Besteck mit Knochengriffen</a> betrachtete, fiel ihm ein Hackmesser mit langem Griff auf, das der Arzt zu seinem Entsetzen sofort als menschlichen Knochen erkannte.
+$GEN_053_DOC_01_02
+	Gaumont verabschiedete sich von Adnet und begab sich zur nächsten Station der Nationalgarde, um eine Anzeige zu erstatten. Bei der Durchsuchung fanden sie Knochen, die <a name="5" class="hidden">in einem Schuppen</a> lagerten, nach Größe in Holzkisten sortiert. Der Gestank war selbst für die erfahrensten Offiziere kaum zu ertragen…
+$GEN_053_DOC_01_03
+	Die Ermittlungen ergaben lediglich, dass Adnet die Knochen auf einem <a name="7" class="hidden">Straßenmarkt</a> von der Händlerin Claudine Plouffe gekauft hatte. Ärzte des Salpêtrière-Krankenhauses fertigten ein Gutachten über die Knochen an, das der Akte beigefügt ist.
+$GEN_053_DOC_02_00
+Der Bericht, erstellt von den Ärzten des Salpêtrière-Krankenhauses:
+$GEN_053_DOC_02_01
+	Die Funde in der Nähe von Lucas Adnets Werkstatt haben uns zutiefst beunruhigt. Wir entdeckten sowohl menschliche als auch tierische Knochen. Trotz aller Bemühungen gelang es uns nicht, ein vollständiges Skelett zu finden. In den Kisten befanden sich jedoch <a name="9" class="hidden">zwei Kieferknochen</a>, zwei Beckenfragmente, mehrere Schienbeine und Oberschenkelknochen unterschiedlicher Größe. Wir schätzen, dass sie zu vier oder fünf Menschen gehörten…
+$GEN_053_OnStart_00
+Sind Sie der Handwerksmeister, Lucas Adnet?
+$GEN_053_OnStart_01
+In der Tat, mein Herr.
+$GEN_053_OnStart_02
+Die korrekte Anrede ist „Monsieur le Juge“.
+$GEN_053_OnStart_03
+Verzeihung. Ja, Monsieur Richter, ich stelle seit mindestens zehn Jahren Besteck her.
+$GEN_053_OnStart_04
+Wussten Sie, dass sich menschliche Knochen in Ihrer Werkstatt befanden?
+$GEN_053_OnStart_05
+Keineswegs, Monsieur le Juge. Ich habe nur auf die Qualität geachtet. Ich bin kein Arzt.
+$GEN_053_OnStart_06
+Was meinen Sie mit Qualität?
+$GEN_053_OnStart_07
+Dass die Knochen weder brüchig noch rissig sind.
+$GEN_053_OnStart_08
+Wetten, er weiß genau, wie man mit dem Messer umgeht, damit die Knochen unversehrt bleiben!
+$GEN_053_OnStart_09
+Er muss sie erwürgen oder ertränken.
+$GEN_053_OnStart_10
+Dann wissen Sie also, welche Knochen sich am besten für Ihre Zwecke eignen?
+$GEN_053_OnStart_11
+Manche passen, manche nicht, monsieur le juge. Ich kaufe meistens Rinderknochen auf dem Markt. Schweineknochen sind schlechter, aber Wildschwein geht auch.
+$GEN_053_OnGuilty_00
+Die Beweise lassen keinen Zweifel zu. Lucas Adnet, ich verurteile Sie zur Guillotine.
+$GEN_053_OnGuilty_01
+Das ist eine viel zu milde Strafe.
+$GEN_053_OnGuilty_02
+Werft seine Knochen den Schweinen zum Fraß vor!
+$GEN_053_OnPrison_00
+Bürger Adnet, ich spreche Sie des Mordes und der Leichenschändung schuldig. Den Rest Ihres Lebens werden Sie im Gefängnis verbringen.
+$GEN_053_OnPrison_01
+Er bleibt am Leben, während seine Opfer von den Reichen zum Umrühren der Suppe benutzt werden.
+$GEN_053_OnNotGuilty_00
+Bürger Adnet, sollten Sie das nächste Mal verdächtige Knochen auf dem Markt sehen, erstatten Sie Anzeige. Für jetzt dürfen Sie gehen.
+$GEN_053_OnNotGuilty_01
+Warum? Nichts, was wir heute gehört haben, spricht zu seinen Gunsten.
+$GEN_053_OnNotGuilty_02
+Der Richter hat den Verstand verloren.
+$GEN_053_OnNotGuilty_03
+He, Handwerker, bleib besser von den Straßen fern – du täuschst uns nicht.
+$GEN_053_02x04_00_QTitle
+Rufen Sie Dr. Gaumont herein.
+$GEN_053_02x04_00_00
+Rufen Sie Dr. Gaumont herein.
+$GEN_053_01x09_01_QTitle
+Bürger Adnet, ziehen Sie zwei Töchter allein groß?
+$GEN_053_01x09_01_00
+Bürger Adnet, ziehen Sie zwei Töchter alleine groß?
+$GEN_053_01x09_01_01
+Ja, das bin ich, aber manchmal hilft mir meine Schwester.
+$GEN_053_01x09_01_02
+Was ist mit ihrer Mutter geschehen?
+$GEN_053_01x09_01_03
+Sie ist ertrunken, als meine Jüngste erst zwei Jahre alt war.
+$GEN_053_01x09_01_04
+Wo wurde sie begraben?
+$GEN_053_01x09_01_05
+Nirgendwo, die Leiche wurde nie gefunden.
+$GEN_053_01x09_01_06
+Er hat sie zu Gabeln verarbeitet!
+$GEN_053_01x09_01_07
+Gehen die Mädchen zur Schule?
+$GEN_053_01x09_01_08
+Ich traue den Schulen nicht, dort lernt man nichts Nützliches.
+$GEN_053_01x09_01_09
+Wie wäre es, wenn du lesen und schreiben lernst?
+$GEN_053_01x09_01_10
+Alles, was sie im Leben brauchen, kann ich ihnen selbst beibringen.
+$GEN_053_08x05_02_QTitle
+Haben Sie alle Knochen im Schuppen aufbewahrt?
+$GEN_053_08x05_02_00
+Haben Sie alle Knochen im Schuppen aufbewahrt?
+$GEN_053_08x05_02_01
+Die meisten von ihnen.
+$GEN_053_08x05_02_02
+Warum ausgerechnet dort?
+$GEN_053_08x05_02_03
+Knochen lagert man am besten dort, wo Maden das Fleisch und Fett abnagen können. Sie schlüpfen durch die Ritzen in den Brettern und legen ihre Eier, damit ihre Larven sich sattfressen können. Maden sind wahre Vielfraße.
+$GEN_053_08x05_02_04
+Die?
+$GEN_053_08x05_02_05
+Maden.
+$GEN_053_08x05_02_06
+Kranke Kreatur!
+$GEN_053_08x05_02_07
+Sie behaupten also, dass die von Ihnen gekauften Knochen noch mit Fleisch bedeckt waren?
+$GEN_053_08x05_02_08
+Meistens ja. Frische Knochen lassen sich leichter schnitzen. Sie sind weich, nachgiebig…
+$GEN_053_08x05_02_09
+Hat Sie der Gestank nicht gestört?
+$GEN_053_08x05_02_10
+Im Gegenteil, der Geruch steht zugleich für Leben und Tod. Manchmal gehe ich nachts in den Schuppen...
+$GEN_053_08x05_02_11
+Um das faulende Fleisch zu riechen?
+$GEN_053_08x05_02_12
+Verwesung ist ein faszinierender Prozess. In totem Fleisch legen Insekten ihre Eier ab, aus denen neues Leben schlüpft und heranwächst. Das Leben endet nicht, es verwandelt sich in weiteres Leben. Ich sehe dem gern zu.
+$GEN_053_08x05_02_13
+Bereitet Ihnen das… Vergnügen?
+$GEN_053_08x05_02_14
+Ja. Wahrscheinlich fühlt sich ein Gärtner so, wenn er seine Blumen betrachtet.
+$GEN_053_07x09_03_QTitle
+Sie behaupten, Sie hätten auf dem Markt menschliche Kieferknochen gekauft?
+$GEN_053_07x09_03_00
+Sie behaupten, auf dem Markt menschliche Kieferknochen gekauft zu haben?
+$GEN_053_07x09_03_01
+Ja, Monsieur Richter, ich—
+$GEN_053_07x09_03_02
+Ich gebe Ihnen die Gelegenheit, ehrlich zu sein. Wessen Knochen haben Sie in Ihrem Schuppen aufbewahrt, und woher stammen sie?
+$GEN_053_07x09_03_03
+…
+$GEN_053_07x09_03_04
+Wie bitte?
+$GEN_053_07x09_03_05
+Ich habe sie auf einem Straßenmarkt im 6. Bezirk gekauft.
+$GEN_053_07x09_03_06
+Lügner!
+$GEN_053_07x09_03_07
+Wie bewahren die Händler die Knochen auf?
+$GEN_053_07x09_03_08
+In Holzkisten, wie sie sonst für Gemüse verwendet werden.
+$GEN_053_07x09_03_09
+Sie sind ziemlich klein. Ein menschlicher Kiefer würde da sicher nicht vollständig hineinpassen.
+$GEN_053_07x09_03_10
+…
+$GEN_053_07x09_03_11
+Sie gestehen Ihre Schuld also nicht ein?
+$GEN_053_07x09_03_12
+Alles, was ich je wollte, war, schönes Besteck herzustellen. Schönes, mit einer Seele.
+$GEN_053_03x06_04_QTitle
+Wie viele Knochen verbrauchen Sie jeden Monat?
+$GEN_053_03x06_04_00
+Wie viele Knochen verbrauchen Sie jeden Monat?
+$GEN_053_03x06_04_01
+Ich arbeite langsam, und das Schnitzen braucht seine Zeit. Bevor man mit dem Schnitzen beginnt, muss das Rohmaterial vorbereitet werden. Zuerst weiche ich die Knochen in saurer Milch ein, damit–
+$GEN_053_03x06_04_02
+Beantworten Sie die Frage.
+$GEN_053_03x06_04_03
+Ein Teil dessen, was Sie im Schuppen gefunden haben, ist vermutlich kaum zu gebrauchen – die Risse sind nicht sofort zu erkennen. Ich schätze, dieses Material würde höchstens einen Monat halten.
+$GEN_053_03x06_04_04
+Und dann?
+$GEN_053_03x06_04_05
+Nachdem ich etwa die Hälfte meines Vorrats aufgebraucht habe, muss ich zum Straßenmarkt gehen, um Nachschub zu holen.
+$GEN_053_03x06_04_06
+Oder mit der Schaufel auf den Friedhof!
+$GEN_053_03x06_04_07
+Leugnen Sie es immer noch? Haben Sie Menschen getötet oder in den Katakomben nach Knochen gesucht?
+$GEN_053_03x06_04_08
+Alte Knochen taugen nicht als Schnitzmaterial.
+$GEN_053_03x06_04_09
+Sollen wir das als Geständnis eines Mordes werten?
+$GEN_053_03x06_04_10
+Wovon reden Sie? Ich habe niemanden getötet! Ich habe die Knochen auf dem Markt gekauft.
+$GEN_053_04x07_05_QTitle
+An wen verkaufen Sie Ihre Waren?
+$GEN_053_04x07_05_00
+An wen verkaufen Sie Ihre Waren?
+$GEN_053_04x07_05_01
+Meistens für wohlhabende Bürger. Meine Arbeit ist bis ins kleinste Detail ausgefeilt. Ich würde sogar wagen, sie als Kunst zu bezeichnen.
+$GEN_053_04x07_05_02
+Zum Teufel mit solcher Kunst!
+$GEN_053_04x07_05_03
+Außerdem machen Griffstücke aus Knochen Eindruck.
+$GEN_053_04x07_05_04
+Hör auf, sonst übergebe ich mich gleich auf die erste Reihe…
+$GEN_053_04x07_05_05
+Laufen Ihre Geschäfte gut?
+$GEN_053_04x07_05_06
+Ziemlich viel. Genug, um ohne Angst zu leben. Einmal habe ich ein ganzes Set an einen englischen Diplomaten verkauft. Die Knochen, die ich bearbeite, sind schneeweiß, also konnte ich ihn leicht davon überzeugen, dass es Elfenbein ist. Damit habe ich ein Vielfaches von dem verdient, was ich für ein gewöhnliches Set von französischen Bürgern bekomme.
+$GEN_053_04x07_05_07
+Soll ich Betrug ebenfalls zu den Anklagepunkten gegen Sie hinzufügen?
+$GEN_053_04x07_05_08
+Wenn es Sie davon abhält, weiter Unsinn über meine angeblichen Morde zu erzählen, gestehe ich den Betrug ein.
+$GEN_053_07x08_06_QTitle
+Rufen Sie die Zeugin Claudine Plouffe auf.
+$GEN_053_07x08_06_00
+Rufen Sie die Zeugin Claudine Plouffe auf.
+$GEN_053_07x08_06_02
+Claudine Plouffe?
+$GEN_053_07x08_06_03
+Korrekt.
+$GEN_053_WIT_00_A_QTitle
+Woran haben Sie erkannt, dass es im Atelier ein menschlicher Knochen war?
+$GEN_053_WIT_00_A_00
+Woran haben Sie erkannt, dass es sich in der Werkstatt um einen menschlichen Knochen handelte?
+$GEN_053_WIT_00_A_01
+Es war eine Tibia, das Schienbein. Ein ungeübtes Auge könnte sie für einen Tierknochen halten, doch sie unterscheiden sich in Dicke und Form. Verzeihen Sie die Vereinfachung, aber das menschliche Schienbein hat meist einen eher dreieckigen Querschnitt.
+$GEN_053_WIT_00_A_02
+Und Sie hatten keinerlei Zweifel?
+$GEN_053_WIT_00_A_03
+Monsieur le juge, ich habe in meinem Leben genug Knochen gesehen. Dieser hier könnte genauso gut meiner sein.
+$GEN_053_WIT_00_A_04
+War sie alt?
+$GEN_053_WIT_00_A_05
+Fragen Sie nach dem Todeszeitpunkt ihres Besitzers? Das lässt sich schwer sagen, da der Knochen bearbeitet wurde.
+$GEN_053_WIT_00_A_06
+Könnten Sie eine Schätzung abgeben? Es ist wichtig.
+$GEN_053_WIT_00_A_07
+Wenn ich raten müsste, würde ich sagen, dass ein alter Knochen, aus einem Grab entnommen, kein gutes Material zum Schnitzen wäre. Er wäre zu spröde und vergilbt.
+$GEN_053_WIT_00_A_08
+Sind Sie sicher?
+$GEN_053_WIT_00_A_09
+Ich habe selbst noch nie eine Leiche ausgegraben, daher kann ich nur wiedergeben, was mein Gefühl mir sagt.
+$GEN_053_WIT_00_B_QTitle
+Bitte beschreiben Sie das Verhalten von Bürger Adnet während Ihres Besuchs.
+$GEN_053_WIT_00_B_00
+Bitte beschreiben Sie das Verhalten des Bürgers Adnet während Ihres Besuchs.
+$GEN_053_WIT_00_B_01
+Jetzt, wo Sie fragen, Monsieur le Juge, erinnere ich mich, dass er etwas geschnitzt hat.
+$GEN_053_WIT_00_B_02
+Hat er mit Ihnen gesprochen oder Sie zum Kauf von etwas überredet?
+$GEN_053_WIT_00_B_03
+Nachdem er mich begrüßt hatte, schenkte er mir kaum noch Beachtung. Das war mir nur recht, denn ich verabscheue aufdringliche Verkäufer zutiefst.
+$GEN_053_WIT_00_B_04
+Haben Sie ihm Fragen gestellt?
+$GEN_053_WIT_00_B_05
+Ich habe nach dem Preis gefragt. Ich erinnere mich nicht mehr genau, aber er erschien mir erstaunlich niedrig für die feine Präzision seiner Arbeit.
+$GEN_053_WIT_00_B_06
+Und dann haben Sie den menschlichen Knochen gesehen?
+$GEN_053_WIT_00_B_07
+Das stimmt. Zuerst dachte ich, ich bilde es mir nur ein, aber dann hob ich es auf und drehte es in meiner Hand...
+$GEN_053_WIT_01_A_QTitle
+Kennen Sie den Angeklagten?
+$GEN_053_WIT_01_A_00
+Kennen Sie den Angeklagten?
+$GEN_053_WIT_01_A_01
+Ja, er kam oft zu mir, um Knochen zu kaufen.
+$GEN_053_WIT_01_A_02
+Haben Sie ihm Tierknochen verkauft?
+$GEN_053_WIT_01_A_03
+Ich... also...
+$GEN_053_WIT_01_A_04
+Bürger?
+$GEN_053_WIT_01_A_05
+Tiere, ja, aber von Knochen verstehe ich nicht viel. Manchmal hatte ich das Gefühl, dass mit dem, was der Metzger uns brachte, etwas nicht stimmte…
+$GEN_053_WIT_01_A_06
+Als wären sie nicht von einem Tier?
+$GEN_053_WIT_01_A_07
+Ich weiß nicht, es fühlt sich einfach seltsam an.
+$GEN_053_WIT_01_A_08
+Wie häufig waren die Lieferungen des Metzgers?
+$GEN_053_WIT_01_A_09
+Nicht oft. Ein- oder zweimal im Monat.
+$GEN_053_WIT_01_B_QTitle
+Haben Sie den Angeklagten jemals gefragt, wozu er diese Knochen brauchte?
+$GEN_053_WIT_01_B_00
+Haben Sie den Angeklagten jemals gefragt, wozu er diese Knochen brauchte?
+$GEN_053_WIT_01_B_01
+Hab ich. Er meinte, er würde daraus Besteck machen. Ich hab mir nur an die Schläfe getippt, als wär er verrückt, und bin wieder an die Arbeit gegangen.
+$GEN_053_WIT_01_B_02
+Fanden Sie das ungewöhnlich?
+$GEN_053_WIT_01_B_03
+Ja, aber es sind seltsame Zeiten. Die Menschen gewöhnen sich an alles.
+$GEN_053_WIT_01_B_04
+Hat Bürger Adnet die Knochen, die er kaufte, sorgfältig ausgesucht? Als würde er nach etwas Besonderem suchen?
+$GEN_053_WIT_01_B_05
+Ja, oft stand er lange an den Körben und wühlte darin herum. Aber manchmal, wenn er es eilig hatte, kaufte er einfach ganze Körbe.
+$GEN_053_WIT_01_B_06
+Wie oft kam er, um Knochen zu holen?
+$GEN_053_WIT_01_B_07
+Früher kam er oft, aber in den letzten sechs Monaten habe ich ihn kaum gesehen. Er meinte, er habe einen anderen Lieferanten gefunden.
+$GEN_053_WIT_01_B_08
+Warum nicht auch ein paar Totengräber hinrichten, nur für alle Fälle?
+$GEN_053_WIT_01_B_09
+Hat er einen Namen genannt?
+$GEN_053_WIT_01_B_10
+Ich habe nicht danach gefragt.
+$GEN_053_WIT_01_B_12
+Wer war der andere Lieferant, den die Zeugin erwähnt hat?
+$GEN_053_WIT_01_B_13
+Es war niemand da, Monsieur le Juge. In letzter Zeit lief das Geschäft schlecht, und ich wollte nicht, dass die Leute davon erfahren…
+$GEN_053_WIT_01_B_14
+Er lügt, wie es nur ein Gauner kann!
+$GEN_053_KEY_01
+Vater von zwei Töchtern
+$GEN_053_KEY_02
+Empfang
+$GEN_053_KEY_03
+Werkstatt
+$GEN_053_KEY_04
+Besteck mit Griffen aus Knochen
+$GEN_053_KEY_05
+Schuppen
+$GEN_053_KEY_06
+Holzkisten
+$GEN_053_KEY_07
+Straßenmarkt
+$GEN_053_KEY_08
+Tierknochen
+$GEN_053_KEY_09
+Menschliche Kieferknochen
+$GEN_053_LastDialog_00
+Wer wird sich um meine Töchter kümmern? Ihr etwa, ihr Mörder und Vergewaltiger? Genau das seid ihr!
+$GEN_053_UNIQUE_QUESTION_00
+Was ist mit der Frau des Handwerkers geschehen?
+$GEN_053_UNIQUE_ANSWER_CORRECT_00_00
+Sie ist ertrunken.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Sie hat ihn für einen anderen verlassen.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Sie wurde zur Guillotine verurteilt.
+$GEN_053_UNIQUE_QUESTION_01
+Welche Knochen kaufte der Angeklagte nach eigenen Angaben gewöhnlich auf dem Markt?
+$GEN_053_UNIQUE_ANSWER_CORRECT_01_00
+Kuhknochen.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Schweineknochen.
+$GEN_053_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Hundeknochen.

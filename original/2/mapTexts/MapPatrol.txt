@@ -1,0 +1,62 @@
+$MAP_PATROL_001_JUDGE_AGGR
+Vous avez dépassé les bornes, citoyens, et de quelle façon ! Ce « malentendu » va vous coûter la vie !
+$MAP_PATROL_002_JUDGE_MANI
+Vous avez capturé la mauvaise personne. Dieu merci vous ne l'avez pas blessé… Les conséquences d'un tel malentendu seraient terribles…
+$MAP_PATROL_003_JUDGE_JOKE
+Heureusement que c'était vous, et non pas d'autres jeunes gens avides d'avancer dans les rangs de la Garde. Nous allons résoudre ce malentendu immédiatement.
+$MAP_PATROL_004_JUDGE_HUMI
+Mes chers concitoyens, il va falloir libérer cet homme. C'est un terrible malentendu… Même la Révolution n'est pas infaillible.
+$MAP_PATROL_005_PATROL_INTR
+Et pourquoi donc ?
+$MAP_PATROL_006_PATROL_DOUB
+Quelle blague. Mieux vaut entendre ça que d'être sourd. Arrêter un espion c'est un « malentendu » maintenant ?
+$MAP_PATROL_007_PATROL_IRRI
+Vous allez faire disparaître tout ça, n'est-ce pas Votre Honneur ?
+$MAP_PATROL_008_JUDGE_AGGR
+Vous avez capturé un agent du tribunal révolutionnaire !
+$MAP_PATROL_009_JUDGE_MANI
+Vous avez réussi à mettre le grappin sur un agent du tribunal révolutionnaire.
+$MAP_PATROL_010_JUDGE_JOKE
+Absurde ! Votre prisonnier travaille en fait pour moi.
+$MAP_PATROL_011_JUDGE_HUMI
+C'est un de mes assistants. Veuillez m'excuser de ne pas vous en avoir parlé avant, Messieurs.
+$MAP_PATROL_016_JUDGE_AGGR
+Vos actes sont une trahison ! Réfléchissez bien avant de vous opposer à moi.
+$MAP_PATROL_017_JUDGE_MANI
+Vous nuisez à la Révolution et vous vous nuisez à vous-mêmes ! Je pourrais vous faire arrêter pour trahison.
+$MAP_PATROL_018_JUDGE_JOKE
+En ce moment, il n'est pas rare de perdre sa tête pour trahison. Et faire prisonnier un de mes agents est une bonne méthode pour ça.
+$MAP_PATROL_019_JUDGE_HUMI
+Si vous ne le libérez pas, je devrais vous accuser de trahison. Ne le prenez pas personnellement, mais je dois protéger la République.
+$MAP_PATROL_020_JUDGE_AGGR
+Occupez-vous plutôt de débusquer les vrais traîtres… Et faites attention à ne plus ennuyer mes agents. Sinon, je devrais avoir à nouveau une petite conversation avec vous !
+$MAP_PATROL_021_JUDGE_MANI
+Il y a de vrais traîtres ici. Débusquez-les, et ne vous laissez pas décourager par des échecs comme celui-ci. Essayez tout de même d'éviter de maltraiter mes agents lors de vos prochains essais.
+$MAP_PATROL_022_JUDGE_JOKE
+Tout le monde peut se tromper. Ce n'est pas grave. Peut-être que vous aurez plus de chance dans votre enquête la prochaine fois ?
+$MAP_PATROL_023_JUDGE_HUMI
+Votre travail est important pour la République. Cette erreur ne change rien. Vous avez tout mon soutien dans votre mission, ne l'oubliez pas.
+$MAP_PATROL_024_PATROL_SATI
+Quand je pense qu'on a failli lyncher un de nos frères ! Heureusement que vous êtes venus avec lui, on avait déjà préparé une pique pour sa tête. On a de la chance de vous avoir à nos côtés. Au revoir !
+$MAP_PATROL_025_PATROL_INTR
+Peut-être qu'il est à vous, j'en sais rien, mais c'est évident qu'il s'est perdu en allant en ville. On l'a juste trouvé. Et on le relâchera avec joie, mais on ne dirait pas non à une… petite commission en échange.
+$MAP_PATROL_026_PATROL_DOUB
+Moi, j'crois que vous ne dites pas toute la vérité. Je sais pas ce que vous fichez à deux, mais tout ça m'semble bien suspect. Vous me convaincrez pas du contraire.
+$MAP_PATROL_027_PATROL_IRRI
+Vous pensez quand même pas qu'on est des idiots ? Pourquoi vous essayez de nous raconter des salades pareilles, alors ? Attendez un peu, on va trouver qui est ce type et vous accuser de trahison !
+$MAP_PATROL_BRIBE_00
+J'espère que cette bourse calmera votre zèle révolutionnaire.
+$MAP_PATROL_BRIBE_01
+On verra ça. Maintenant, dégagez et emportez votre copain avec vous.
+$MAP_PATROL_TOPIC_01
+L'arrestation de cet homme n'était qu'un simple malentendu.
+$MAP_PATROL_TOPIC_02
+L'homme que vous avez arrêté travaille pour moi.
+$MAP_PATROL_TOPIC_04
+L'emprisonner constitue un crime contre la Révolution !
+$MAP_PATROL_TOPIC_05
+Vous feriez mieux de chercher de vrais criminels.
+$MAP_PATROL_RESULT_SUCCESS
+Libérer un agent : {0}
+$MAP_PATROL_RESULT_FAILD
+Vous n'avez pas libéré d'agent : {0}

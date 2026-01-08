@@ -1,0 +1,78 @@
+$G_SP_TOPIC_01
+Verbrechen
+$G_SP_TOPIC_02
+Angeklagter
+$G_SP_TOPIC_03
+Revolution
+$G_SP_01_AGGR_01
+Unordnung muss mit der unerbittlichen Kraft unserer Wahrheit niedergeschlagen werden. Jetzt gibt es kein Zurück mehr!
+$G_SP_01_AGGR_02
+Die Guillotine käme fast einer Begnadigung gleich – für solch abscheuliche Taten ist Folter angebracht! Sollen wir ihn foltern?!
+$G_SP_01_AGGR_03
+Wo ein Verbrechen ist, muss auch Strafe sein! Und wir werden sie verteilen, oh ja! Selbst die Vorfahren der Verurteilten sollen die kalte Schneide der Guillotine an ihrem Hals spüren!
+$G_SP_01_MANI_01
+Künftige Generationen werden wissen, dass wir keine Feiglinge waren! Sie werden sich daran erinnern, wie wir für solch abscheuliche Verbrechen Vergeltung übten!
+$G_SP_01_MANI_02
+Wer die Grenzen des Revolutionsgesetzes überschreitet, hat nur sich selbst die Schuld zu geben! Nur sich selbst!
+$G_SP_01_MANI_03
+Verbrechen kennen keine Grauzonen – es gibt nur Schuld oder Unschuld.
+$G_SP_01_JOKE_01
+Schnell! Der Sensenmann wartet schon darauf, mit dem Angeklagten über diese schreckliche Tat zu sprechen.
+$G_SP_01_JOKE_02
+Für diesen Angeklagten war das Töten so einfach wie das Atmen. Genauso mühelos ist für uns das Guillotinieren!
+$G_SP_01_JOKE_03
+Wer das Verbrechen kosten wollte, soll nun seine gerechte Nachspeise erhalten!
+$G_SP_01_HUMI_01
+Themis sprach durch euren Mund. Sie ruft nach „Gerechtigkeit!“ Und wir werden ihre Stimme hören!
+$G_SP_01_HUMI_02
+Als Richter folge ich lediglich dem Willen der Republik.
+$G_SP_01_HUMI_03
+Wir können ein barmherziges Volk sein, doch dürfen wir nicht vergessen, welch schreckliches Verbrechen begangen wurde.
+$G_SP_02_AGGR_01
+Mörder, Verräter, Betrüger – sie müssen beseitigt werden, sonst geraten Unschuldige in Gefahr!
+$G_SP_02_AGGR_02
+Wir werden ein weiteres Ungeheuer enthaupten, das sich von Ungerechtigkeit nährt!
+$G_SP_02_AGGR_03
+Dieser Mensch spuckt Themis und dem Volk ins Gesicht. Die Gerechtigkeit wird solche Beleidigungen nicht dulden!
+$G_SP_02_MANI_01
+Diese Verbrecher sehnen sich nach den alten Zeiten! Sie verteidigen sie!
+$G_SP_02_MANI_02
+Werden Sie tatenlos zusehen und Verbrechern erlauben, Ihnen vorzuschreiben, was zu tun ist?
+$G_SP_02_MANI_03
+Hört nicht auf sie, wenn sie euch sagen, ihr könntet nicht lesen. Hört auf sie, wenn sie euch um Gnade an der Guillotine anflehen!
+$G_SP_02_JOKE_01
+Komm, lassen wir den Angeklagten ein paar Worte mit der Guillotine wechseln!
+$G_SP_02_JOKE_02
+Heute haben wir einen Angeklagten, der – wie sie alle behaupten – unschuldig ist!
+$G_SP_02_JOKE_03
+Applaudieren Sie dem Theaterstück <i>„Umsonst getötet“</i>!
+$G_SP_02_HUMI_02
+Wir trauern nicht nur um das Opfer, sondern auch um die Seele des Verurteilten. Doch verwechselt unser Mitgefühl nicht mit Schwäche.
+$G_SP_02_HUMI_03
+Verbrecher gehören ins Grab. Nur so können wir eine bessere Zukunft erschaffen!
+$G_SP_02_HUMI_04
+Mit diesem Urteil machen wir unsere Straßen sicherer. Ich trauere nicht um den, der unter die Guillotine kommt, sondern um uns, seine Opfer!
+$G_SP_03_AGGR_01
+Ihr habt die Macht in Frankreich errungen. Vergießt nun das Blut derer, die sich der Republik widersetzen!
+$G_SP_03_AGGR_02
+Diese Verbrecher glauben, unsere Nachsicht sei ein Zeichen von Schwäche! Es reicht!
+$G_SP_03_AGGR_03
+Frankreichs Feinde erwartet nur der Tod!
+$G_SP_03_MANI_01
+Wir verdienen diese Freiheit nicht, wenn wir das alte System und die verkommene Moral unser Land vergiften lassen!
+$G_SP_03_MANI_02
+Die Herrschaft der früheren Machthaber, deren Ziel das Unrecht am Volk war, endet mit ihrem schnellen Tod.
+$G_SP_03_MANI_04
+Künftige Generationen werden wissen, dass wir keine Feiglinge waren! Es muss getan werden!
+$G_SP_03_JOKE_01
+Hat jemand den Scharfrichter gesehen? Sucht mir diesen Säufer, sonst muss ich jemand anderen anheuern!
+$G_SP_03_JOKE_02
+Los, los, keine Zeit zu verlieren!
+$G_SP_03_JOKE_03
+Töte diese dreckige Ratte, damit wir endlich etwas zu essen bekommen!
+$G_SP_03_HUMI_01
+Hier seid ihr, das Volk, die das Sagen haben.
+$G_SP_03_HUMI_02
+Bürger, wir müssen an die Arbeit zurückkehren, um unser neues Frankreich zu erschaffen! Für die Nation!
+$G_SP_03_HUMI_04
+Das alte System muss stürzen. Es gibt keinen anderen Weg. Jetzt seid ihr die Herrscher!

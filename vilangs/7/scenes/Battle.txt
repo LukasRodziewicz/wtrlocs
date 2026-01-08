@@ -1,0 +1,150 @@
+#BATTLE_TURNS
+턴 {0}
+#LAST_STAND
+마지막 기회입니다!
+#BATTLE_WIN
+승리하셨습니다!
+#BATTLE_LOSE
+당신은 패배했습니다!
+#BATTLE_DRAFT
+무승부!
+#BATTLE_TURN
+턴 {0}
+#BATTLE_TURN_LINE
+턴 {0}
+#BATTLE_SUMMARY_ENEMY
+상대:
+#BATTLE_SUMMARY_PLAYER
+플레이어:
+#START_BATTLE
+전투를 벌인다
+#PENDING_BATTLE
+전투 진행 중
+#BALANCE_OF_POWER
+세력 균형
+#CHOOSE_TACTIC
+전술 선택
+#TACTIC_INACTIVE
+이 전술은 사용할 수 없습니다
+#TACTIC_LOCKED
+이 전술은 보정자에 의해 차단되었습니다
+#MEDIC_USED
+의무병은 이미 파견되었습니다.
+#TACTIC_NEUTRAL
+중립
+#TACTIC_NEUTRAL_DESC
+균형 잡힌 전술입니다. 특별한 이점은 없지만, 병사들의 공격력이 크게 감소하지도 않습니다.
+#TACTIC_BREAK
+전선 돌격
+#TACTIC_BREAK_DESC
+전선에서의 영웅적인 돌격. 사수 병력이 많을 때 특히 효과적입니다. 보병이 약화된 경우에는 효과가 떨어집니다.
+#TACTIC_FIRING
+제압 사격
+#TACTIC_FIRING_DESC
+당신의 사수들이 적의 전열에 탄환을 퍼붓고, 보병은 진지를 사수합니다. 방어에 치중한 적에게 특히 효과적인 전술입니다.
+#TACTIC_DEFENSE
+방어
+#TACTIC_DEFENSE_DESC
+병사들이 덜 맹렬하게 싸우지만, 방어에 큰 보너스를 받습니다. 이 전술은 보병이 많을 때 특히 효과적입니다.
+#TACTIC_TRENCH
+참호 구축
+#TACTIC_TRENCH_DESC
+포병이 더 많은 전열을 공격하고, 나머지 부대는 방어로 전환합니다.
+#BATTLE_STATS_ATTACK_BONUS
+공격 보너스
+#BATTLE_STATS_ATTACK_PENALTY
+공격 페널티
+#BATTLE_STATS_DEFENSE_BONUS
+방어 보너스
+#BATTLE_STATS_DEFENSE_PENALTY
+방어 패널티
+#MUSKETEERS
+머스킷병
+#INFANTRY
+보병
+#ARTILLERY
+포병
+#BATTLE_OPPONENT_01
+공격적
+#BATTLE_OPPONENT_02
+방어
+#BATTLE_OPPONENT_03
+중립
+#TUTORIAL_OPPONENT
+침입자
+#BATTLE_OPPONENT_CUT_22
+고벨 지지자들
+#BATTLE_OPPONENT_CUT_28
+앙리오
+#BATTLE_MEDIC_AVAILABLE
+의무병 파견
+#BATTLE_MEDIC_REWIND
+초기화
+#BATTLE_MEDIC_DISABLED
+사용 가능한 의무병이 없습니다.
+#BATTLE_REFUGEES_HEADER
+구역 내 민간인
+#BATTLE_REFUGEES_TITLE
+기타
+#BATTLE_RESCUED_REFUGEES_TITLE
+생존자
+#BATTLE_SUMMARY_AGENTS_LOST
+사망한 요원
+#BATTLE_SUMMARY_AGENT_MEDIC
+의무병
+#BATTLE_SUMMARY_AGENT_COORDINATOR
+물류 전문가
+#BATTLE_REFUGEES_NEW_TURN
+이번 턴에 민간인 {0}명이 탈출했습니다
+#BATTLE_EVENT_TITLE_01
+폭우
+#BATTLE_EVENT_DESC_01
+사수의 공격력이 50% 감소합니다. 주민들의 탈출 속도가 20% 느려집니다.
+#BATTLE_EVENT_TITLE_02
+좁은 골목
+#BATTLE_EVENT_DESC_02
+공격 전술을 차단합니다.
+#BATTLE_EVENT_TITLE_03
+적군 보급품
+#BATTLE_EVENT_DESC_03
+적이 더욱 맹렬하게 싸웁니다.
+#BATTLE_EVENT_TITLE_04
+바리케이드
+#BATTLE_EVENT_DESC_04
+요새 덕분에 부대의 효율이 향상됩니다.
+#BATTLE_EVENT_TITLE_05
+마비시키는 공포
+#BATTLE_EVENT_DESC_05
+주민들의 탈출 속도가 30% 느려집니다.
+#BATTLE_EVENT_TITLE_06
+용기
+#BATTLE_EVENT_DESC_06
+당신의 부대가 더욱 맹렬하게 싸웁니다.
+#BATTLE_EVENT_TITLE_100
+부상병
+#BATTLE_EVENT_DESC_100
+당신의 병사들은 공격 효율이 50% 감소합니다.
+#BATTLE_EVENT_TITLE_101
+광신
+#BATTLE_EVENT_DESC_101
+적의 민병대가 더욱 거세게 저항하고 있습니다.
+#BATTLE_SUMMARY_REFUGEES_TITLE
+민간인:
+#BATTLE_SUMMARY_REFUGEES_RESCUED
+구조됨: {0}
+#BATTLE_SUMMARY_REFUGEES_DEAD
+사망자: {0}
+$TUTORIAL_BATTLE_DIALOG_01
+우리 후방 부대가 적과 충돌했으나 패배했습니다. 적군이 부상자들이 치료받던 진영까지 돌파해 들어왔습니다. 우리는 어쩔 수 없이 무기를 들었습니다.
+$TUTORIAL_BATTLE_DIALOG_02
+당신의 형제는 마치 홀린 사람처럼 싸웠습니다. 사람들은 그에게 몰려들었죠.
+$TUTORIAL_BATTLE_DIALOG_03
+우리는 지원군이 달려오고 있으리라 믿었습니다. 하지만 그들이 도착하기엔 이미 늦으리란 걸 알고 있었죠…
+$TUTORIAL_BATTLE_DIALOG_04
+총검이 내 몸을 꿰뚫고 지나갔어. 나는 피를 흘리며 쓰러져 있었고, 내 친구들은 하나둘씩 총알에 쓰러져 갔지.
+$GOBEL_BATTLE_OPPONENT_01
+교회를 거스르는 자, 모두 사형에 처하라!
+$GOBEL_BATTLE_JUDGE_02
+교회를 반대하는 게 아니라, 탐욕스러운 성직자들을 반대하는 거야. 프랑스를 나락으로 끌고 가는 자들 말이야!
+$GOBEL_BATTLE_OPPONENT_03
+아무런 차이도 없다. 우리는 이대로 두지 않을 것이다! 진작에 너희 머리를 창끝에 꽂았어야 했어!

@@ -1,0 +1,24 @@
+$DIAL_CO_02_GOBEL_SON_001_GUARD
+Ich habe versucht, ihn aufzuhalten, aber dieser Halunke hat sich gewehrt und wollte so laut schreien, dass das ganze Gericht es hören würde.
+$DIAL_CO_02_GOBEL_SON_002_JUDGE
+Keine Sorge, ich erkenne diesen jungen Mann. Er war es, der das Leben von Erzbischof Gobel völlig auf den Kopf gestellt hat.
+$DIAL_CO_02_GOBEL_SON_003_BOUTIN
+Mein Name ist Boutin. Ich bin sein Sohn.
+$DIAL_CO_02_GOBEL_SON_004_JUDGE
+Ich nehme an, ich weiß, warum Sie hier sind. Sie sollten jedoch wissen, dass Gobel kein Erzbischof mehr ist und nun unantastbar ist.
+$DIAL_CO_02_GOBEL_SON_005_BOUTIN
+Bitte, helfen Sie mir! Wie auch immer Sie können.
+$DIAL_CO_02_GOBEL_SON_006_JUDGE
+Bist du taub, Junge? Hast du nicht gehört, was ich gesagt habe? Gobel ist unantastbar, seit er ein Bündnis mit Hébert geschlossen hat. Wäre du nur früher zu mir gekommen…
+$DIAL_CO_02_GOBEL_SON_007_BOUTIN
+Ich war bei Jacques-Louis David, bei Bürger Danton…
+$DIAL_CO_02_GOBEL_SON_008_JUDGE
+Danton wird dir nicht helfen, da bin ich mir sicher. Hör auf mich, es ist vorbei. Gobel wird ein erfolgreicher Politiker werden, also bring deine Mutter weit weg aus Paris und vergiss alles.
+$DIAL_CO_02_GOBEL_SON_009_BOUTIN
+Meine Mutter starb vor einigen Jahren, verzweifelt und gedemütigt, während sie sich nach ihrer Liebe verzehrte!
+$DIAL_CO_02_GOBEL_SON_010_JUDGE
+Es tut mir wirklich leid um Ihren Verlust, aber ich kann nichts tun. Die Welt verehrt den neuen Erzbischof-Abtrünnigen.
+$DIAL_CO_02_GOBEL_SON_011_BOUTIN
+Also wird mir niemand helfen?
+$DIAL_CO_02_GOBEL_SON_012_JUDGE
+Nein, es tut mir leid. Damit müssen Sie leben.

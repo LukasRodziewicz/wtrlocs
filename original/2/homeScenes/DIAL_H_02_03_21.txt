@@ -1,0 +1,16 @@
+$DIAL_H_02_03_21_001_WIFE
+Il s’en est fallu de peu que mon enfant perde ses mains…
+$DIAL_H_02_03_21_002_JUDGE
+Je ne sais pas quoi te répondre.
+$DIAL_H_02_03_21_003_WIFE
+Est-ce un châtiment pour t’avoir épousé ? Une sorte de punition divine ?
+$DIAL_H_02_03_21_004_JUDGE
+Mon frère s’en prend à nous tous au lieu de ne s’attaquer qu’à moi…
+$DIAL_H_02_03_21_005_WIFE
+Pour quelque chose qui s’est produit avant même que je ne te connaisse. Bernard et moi ne lui avons fait du mal.
+$DIAL_H_02_03_21_006_GRANDFATHER
+Je suis désolé. Désolé pour tout ce qui est arrivé. C’est de ma faute, je n’aurais pas dû le chasser.
+$DIAL_H_02_03_21_007_JUDGE
+Tout est de la faute de Bruno, c’est lui la crapule.
+$DIAL_H_02_03_21_008_WIFE
+En es-tu certain… ?

@@ -1,0 +1,30 @@
+$INTRIGUE_TITLE_006
+Germaine de Staël
+$INTRIGUE_006_DESC
+Madame de Staël a tiré parti du moment de faiblesse de la ville pour porter en avant les droits des femmes. Je me garde bien de juger les motivations des autres, mais dites-vous que si nous ne l'arrêtons pas aujourd'hui, nous ne verrons peut-être pas le lever du soleil.
+$INTR_006_B01_TITLE
+La Déclaration des Droits de la Femme
+$INTR_006_B01_DESC
+Les femmes sont descendues dans la rue. Elles ont pris d'assaut l'hôtel de ville, où elles occupent l'une des salles pour débattre des droits des femmes dans la France révolutionnaire. À leur tête se trouve Madame de Staël, fondatrice ambitieuse de l'un des salons politiques de Paris. Elle a convaincu ses partisanes que la Révolution n'a donné aux femmes ni la liberté, ni l'égalité, ni la fraternité, et qu'elles doivent se battre pour les conquérir. La clameur qui régnait a conduit à la rédaction de la Déclaration des Droits de la Femme, signée par chacune des participantes. Cet évènement n'a rien d'un hasard. Madame de Staël compte certainement tirer avantage de la situation, pour elle et les autres femmes. J'attends d'en savoir plus…
+$INTR_006_B02_TITLE
+Convaincre les hommes
+$INTR_006_B02_DESC
+La proposition, pour ne pas l'appeler chantage, de de Staël nous force à agir sans perdre un instant. Elle veut que nous signions la Déclaration des Droits de la Femme. Si vous y apposez votre signature sans le concours des autres hommes, autant signer votre arrêt de mort. Vous devez les persuader d'accepter ces changements et de renoncer au pouvoir qu'ils avaient promis à leurs fils.
+$INTR_006_B03_TITLE
+Gagner Grace Elliot à votre cause
+$INTR_006_B03_DESC
+Madame de Staël compte sur l'unité entre les femmes. Montrons-lui que l'unité féminine est aussi fragile que celle des hommes. Lorsque pouvoir et argent sont en jeu, l'empathie et la compassion comptent pour peu. De toutes les femmes qui pourraient savoir quelque chose sur Mme de Staël, Grace Elliott est la mieux placée, elle qui connaît bien son entourage. Il n'y a pas de temps à perdre en subtilités : emprisonnez-la, puis promettez-lui la liberté en échange de renseignements.
+$INTR_006_B04_TITLE
+Rébellion des femmes
+$INTR_006_B04_DESC
+De Staël voulait vous forcer à réagir. Aux quatre coins de la ville, les femmes refusent de se mettre au travail. Elles ne le reprendront qu'à la condition que leur cheffe leur confirme que nous avons signé la Déclaration. Nos défenses pourraient pâtir du défaut de leur main-d'œuvre. Cette situation ne peut pas durer.
+$INTR_006_B05_TITLE
+Brûler la Déclaration et arrêter de Staël
+$INTR_006_B05_DESC
+Vous ne subirez pas de chantage, parce que c'est vous qui l'exercez. Vous avez éliminé vos ennemis et restez invincible ! Qui a besoin des femmes ? Qu'elles restent à la maison qu'elles n'auraient pas dû quitter. À l'exception de de Staël. Elle a sa place dans la cellule que nous lui avons préparée. Sera-t-elle aussi têtue avec le couperet de la guillotine au-dessus de la tête ?
+$INTR_006_B06_TITLE
+Signer la Déclaration et gagner le soutien des femmes
+$INTR_006_B06_DESC
+La France connaît un changement irréversible. Le dernier bastion d'iniquité s'écroule, et il serait peu raisonnable d'essayer d'empêcher sa chute. Le soutien des Parisiennes est crucial pour votre guerre acharnée contre l'ennemi. Votre signature sera un symbole d'égalité véritable. Un acte de fraternité !
+$INTR_006_B06_DECISION
+Décidez du sort de la Déclaration

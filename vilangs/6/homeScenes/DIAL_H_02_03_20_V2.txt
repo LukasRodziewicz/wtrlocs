@@ -1,0 +1,32 @@
+$DIAL_H_02_03_20_V2_001_JUDGE
+Gracias por venir.
+$DIAL_H_02_03_20_V2_002_DAVID
+¿Cómo se siente?
+$DIAL_H_02_03_20_V2_003_JUDGE
+Como un joven que no estaba preparado para lo que le sucedió.
+$DIAL_H_02_03_20_V2_004_DAVID
+Alexis... Tu hermano vino a verme, el que se suponía que estaba muerto.
+$DIAL_H_02_03_20_V2_005_JUDGE
+Jacques...
+$DIAL_H_02_03_20_V2_006_DAVID
+Déjame terminar. Respeto el recuerdo de nuestra amistad. Ambos nos hemos ayudado mucho, pero ahora sé que, por mi lealtad hacia ti, participé en algo muy equivocado.
+$DIAL_H_02_03_20_V2_007_JUDGE
+¡Mi hermano es un monstruo!
+$DIAL_H_02_03_20_V2_008_DAVID
+La cantidad de sangre derramada por la Revolución nos ha convertido a todos en monstruos. Solo podemos esperar que, cuando muramos, la gente nos olvide y que todas nuestras fechorías se disipen con el tiempo.
+$DIAL_H_02_03_20_V2_009_JUDGE
+¿Prefieres ponerte del lado del asesino de mi hijo antes que apoyarme a mí?
+$DIAL_H_02_03_20_V2_010_DAVID
+Gracias a él, por fin comprendí lo que le hicimos a nuestro país al entregar el poder a gente ignorante armada con hachas y antorchas. Debemos restaurar el equilibrio, y tu hermano va a lograrlo.
+$DIAL_H_02_03_20_V2_011_JUDGE
+¡Es un asesino!
+$DIAL_H_02_03_20_V2_012_DAVID
+Como tú y yo. La única diferencia entre él y nosotros es que a nosotros nos honrarán con medallas y estatuas. No deseo ese tipo de reconocimiento, manchado por el crimen y el engaño. Ahora es mi última oportunidad de cambiar mi destino.
+$DIAL_H_02_03_20_V2_013_JUDGE
+¿Qué piensas hacer?
+$DIAL_H_02_03_20_V2_014_DAVID
+No lo sé. Probablemente me iré de París mientras aún sea posible, luego esperaré y me adaptaré a la nueva situación. Tu guardia del tribunal huyó esta mañana y Ramel... Resulta que siempre estuvo con tu hermano e hizo lo necesario para llevarte a este momento.
+$DIAL_H_02_03_20_V2_015_JUDGE
+Así que todos ustedes son traidores…
+$DIAL_H_02_03_20_V2_016_DAVID
+Si así ves las cosas, ya has fracasado. Adiós, amigo mío.

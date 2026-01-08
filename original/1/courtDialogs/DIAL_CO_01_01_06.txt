@@ -1,0 +1,30 @@
+$DIAL_CO_01_01_06_001_MENTOR
+People demolished the courtroom yesterday. Be careful.
+$DIAL_CO_01_01_06_002_HEADGUARD
+Tragically, we are losing control of the streets. People feel betrayed by the King, and some believe him to be a spy trying to elude justice. Special means are recommended when suppressing unrest. We only need an opinion from the judges to make sure we are working legally.
+$DIAL_CO_01_01_06_003_MENTOR
+In other words, you need their blessing to shoot at protesters?
+$DIAL_CO_01_01_06_004_HEADGUARD
+People can’t control their emotions and are hurting other Citizens as a result. Look at the windows. Next time, they might do something worse than just throw rocks.
+$DIAL_CO_01_01_06_005_HEADGUARD
+Let’s hope it’s not too late to stop this madness.
+$DIAL_CO_01_01_06_006_MENTOR
+That is an interesting euphemism for musket fire.
+$DIAL_CO_01_01_06_007_HEADGUARD
+Without this document we can only wait for the Citizens of Paris to start killing each other before our very eyes.
+$DIAL_CO_01_01_06_008_MENTOR
+I hope you know what you are doing… The Convention may have issued that decree, but I have no doubt it was Robespierre’s idea.
+$LETTERDECISION_D06_MAINTEXT_00
+It pains us to see unrest growing in the streets of Paris. Commander-in-Chief Burel has informed us that the Guard is no longer able to control the situation through peaceful means. It is recommended that he be allowed to use more immediate methods to protect the innocent civilians, but we would like to know the Tribunal’s opinion on the matter.
+$LETTERDECISION_D06_MAINTEXT_01
+I approve of the National Guard’s use of force against ruffians ruining the capital.
+$LETTERDECISION_D06_SENDER
+Raymond Dévoyé
+$LETTERDECISION_D06_ACCEPTBUTTON
+Sign
+$LETTERDECISION_D06_ACCEPTTEXT
+The Guard is tasked with protecting innocents from those who are unable to control their behaviour. I approve of greater freedom in the use of the National Guard!
+$LETTERDECISION_D06_REJECTBUTTON
+Don’t Sign
+$LETTERDECISION_D06_REJECTTEXT
+The authorities should not use force against the people. If it has to, it has already lost. I do not approve of this decree!

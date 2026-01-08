@@ -1,0 +1,10 @@
+$EVE_008_TITLE
+Whiskey Lullaby
+$EVE_008_MAIN_01
+C'est une chaude soirée, vous décidez donc de prendre votre temps pour rentrer. À proximité du café Le Chantilly, vous remarquez une scène amusante : deux ivrognes se battent pour une bouteille d'alcool et lancent des jurons tels des garçons d'écurie. Le premier est plus petit et porte un uniforme d'officier tout débraillé, peut-être celui d'un colonel. L'autre, même s'il est bien plus grand, n'est qu'un simple voyou. Vous prêtez une oreille au charabia et aux épithètes qui fusent, pour finalement comprendre qu'il ne reste que quelques gouttes dans la bouteille.
+$EVE_008_MAIN_01_C1
+Essayer de régler le différend entre les ivrognes
+$EVE_008_MAIN_02A
+Les deux ennemis font front commun face à un inconnu élégamment habillé. De l'extérieur, la scène peut paraître loufoque : dans un élan de solidarité causé par l'alcool, l'un essaie de vous frapper à la tête avec l'objet du contentieux, tandis que l'autre cherche à vous porter un coup de pied au niveau des chevilles. Vous esquivez la bouteille, qui s'écrase sur un mur à proximité, déversant partout le peu d'alcool qui restait. Cependant, le coup de pied s'est avéré efficace et vous immobilise suffisamment pour que les ivrognes aient le temps de disparaître dans une allée sombre. Il faut un moment aux passants pour arrêter de rire.
+$EVE_008_MAIN_02B
+L'ivrogne le plus grand sort vainqueur en rassemblant toutes ses forces. L'officier atterrit face contre terre dans la boue et la dernière goutte d'alcool vient chatouiller le palais du gagnant. C'en est assez pour vous. Quelque chose de bien meilleur à boire vous attend à la maison.

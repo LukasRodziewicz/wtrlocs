@@ -1,0 +1,158 @@
+$GEN_054_DOC_01_HEADER
+Compilado por: Charles Etienne
+$GEN_054_DOC_01_00
+	À noite, <a name="1" class="hidden">dois cães famintos</a> de raça desconhecida atacaram a comerciante de carnes, cidadã Courbis, no mercado. Ela tentou afugentá-los de suas mercadorias com um bastão, mas não conseguiu assustá-los. Os cães a derrubaram e a atacaram. Quando finalmente conseguiu escapar, eles devoraram suas <a name="3" class="hidden">mercadorias restantes</a>.
+$GEN_054_DOC_01_01
+	A Guarda chegou após alguns minutos, mas os animais já haviam desaparecido. Os moradores imediatamente apontaram para <a name="4" class="hidden">uma casa antiga</a> cercada por um pequeno parque. Descobrimos que ela é ocupada por Gaëtan Thibodeaux, um senhor idoso que trabalha como vigia noturno em uma fábrica próxima.
+$GEN_054_DOC_01_02
+	Prendemos Thibodeaux, mesmo ele negando que os cães fossem seus, mas, para seu azar, os animais voltaram para casa durante a prisão. Os soldados <a name="5" class="hidden">tentaram atirar nos cães agressivos</a>, mas eles sumiram na escuridão.
+$GEN_054_DOC_01_03
+	Que fique registrado que as mãos e o rosto da mulher atacada estavam gravemente mordidos. Por pouco não presenciamos uma tragédia.
+$GEN_054_OnStart_00
+Cidadão Thibodeaux, os cães que atacaram o feirante Courbis são seus?
+$GEN_054_OnStart_01
+Não, monsieur le juge, não são meus.
+$GEN_054_OnStart_02
+A quem pertencem então, se me permite perguntar?
+$GEN_054_OnStart_03
+Meu irmão, Bruno Thibodeaux.
+$GEN_054_OnStart_04
+Onde ele está agora?
+$GEN_054_OnStart_05
+Não sei. Ele saiu faz algum tempo e nunca mais voltou. Provavelmente se envolveu em alguma briga e morreu.
+$GEN_054_OnStart_06
+Foi ele quem pediu para você cuidar dos cães dele?
+$GEN_054_OnStart_07
+Nos últimos anos, mal conversamos. Um dia ele simplesmente foi embora, e ficou por isso mesmo.
+$GEN_054_OnGuilty_00
+Cidadão, não considero suas explicações convincentes. Por sua extrema irresponsabilidade, sentencio você à morte.
+$GEN_054_OnGuilty_01
+Considero este veredicto severo, mas justo.
+$GEN_054_OnGuilty_02
+Não é ele que você deve matar, e sim esses malditos cães.
+$GEN_054_OnNotGuilty_00
+Você não pode ser responsabilizado pelos cães de outra pessoa. Não o considero culpado.
+$GEN_054_OnNotGuilty_01
+Espero que, quando toda essa agitação terminar, possamos retomar este caso.
+$GEN_054_OnNotGuilty_02
+Pois é... E aquela mulher se mordeu sozinha.
+$GEN_054_04x03_00_QTitle
+Você mora em uma casa cercada por um jardim?
+$GEN_054_04x03_00_00
+Você mora em uma casa cercada por um jardim?
+$GEN_054_04x03_00_01
+O que isso tem a ver com o caso?
+$GEN_054_04x03_00_02
+Apenas me pergunto como um vigia que não tem dinheiro nem para alimentar dois cães consegue manter uma casa dessas.
+$GEN_054_04x03_00_03
+Não é um palácio. Nosso pai comprou esta casa há muitos anos por um bom preço. Queria impressionar minha mãe, deixá-la viver como uma condessa.
+$GEN_054_04x03_00_04
+E depois?
+$GEN_054_04x03_00_05
+Depois, nunca tivemos dinheiro suficiente para realmente manter o lugar. Não podíamos consertar o telhado, trocar as janelas velhas...
+$GEN_054_04x03_00_06
+A cerca também está em ruínas, já que os cães conseguem escapar pelos buracos.
+$GEN_054_04x03_00_07
+É verdade, mas você faz ideia de quanto isso me custaria? Que parte do meu salário eu teria que gastar?
+$GEN_054_04x03_00_08
+Por que você não vendeu a casa?
+$GEN_054_04x03_00_09
+Não podíamos fazer isso enquanto nosso pai estava vivo. Teria partido seu coração.
+$GEN_054_04x03_00_10
+E depois da morte dele?
+$GEN_054_04x03_00_11
+Naquela época, a casa já estava em ruínas, como continua até hoje. Quem iria querer comprá-la agora?
+$GEN_054_01x04_01_QTitle
+Como se chamam seus cães?
+$GEN_054_01x04_01_00
+Como se chamam seus cães?
+$GEN_054_01x04_01_01
+Do meu irmão, não meus. Guarda e Oficial.
+$GEN_054_01x04_01_02
+Quem é que dá nomes desses para cachorros?
+$GEN_054_01x04_01_03
+Eles são incrivelmente astutos.
+$GEN_054_01x04_01_04
+Meu irmão os encontrou vagando pelos subúrbios de Paris quando ainda eram filhotes. Até hoje, continuam um pouco selvagens.
+$GEN_054_01x04_01_05
+Eles são lobos, não cães.
+$GEN_054_01x04_01_06
+Eles foram agressivos?
+$GEN_054_01x04_01_07
+Nem tanto, mas as pessoas viviam reclamando que essas feras andavam pelas ruas como se fossem donas do lugar. Não é de se estranhar. Se eu não as conhecesse, também teria medo.
+$GEN_054_01x04_01_08
+Você não fez nada para impedir que eles assustassem as pessoas?
+$GEN_054_01x04_01_09
+Bem... meu irmão uma vez os prendeu por um dia, mas eles fizeram tanto barulho...
+$GEN_054_01x04_01_10
+Ah, não, os nobres no palácio não suportaram o latido!
+$GEN_054_03x06_02_QTitle
+Por que você não alimentou os cães?
+$GEN_054_03x06_02_00
+Por que você não alimentou os cães?
+$GEN_054_03x06_02_01
+Com o quê, monsieur le juge? Não estou nadando em dinheiro, e muitas vezes mal tenho o suficiente para mim mesmo.
+$GEN_054_03x06_02_02
+O que eles têm comido desde o desaparecimento do seu irmão?
+$GEN_054_03x06_02_03
+Como se eu soubesse. Eles somem o dia inteiro e só aparecem quando estou saindo para o trabalho, provavelmente cheios de alguma coisa que acharam por aí.
+$GEN_054_03x06_02_04
+E você nunca pensou se eles machucaram alguém?
+$GEN_054_03x06_02_05
+Eles não são meus.
+$GEN_054_03x06_02_06
+Mas você sabia que eles estavam vagando por aí em busca de comida. Poderia tê-los denunciado.
+$GEN_054_03x06_02_07
+E se tivessem atacado uma criança?
+$GEN_054_03x06_02_08
+Não fui o único a vê-los. Por que não chama aqui todas as outras pessoas que também os viram e não denunciaram?
+$GEN_054_05x01_03_QTitle
+Onde estão seus cães agora?
+$GEN_054_05x01_03_00
+Onde estão seus cães agora?
+$GEN_054_05x01_03_01
+Eles não são meus, e não sei onde estão. Quando os soldados começaram a atirar, o que não deveriam fazer na cidade, os cachorros fugiram.
+$GEN_054_05x01_03_02
+E depois?
+$GEN_054_05x01_03_03
+Me trouxeram aqui acorrentado.
+$GEN_054_05x01_03_04
+Enquanto eles conversam à toa, aquelas feras ainda estão à solta por Paris.
+$GEN_054_05x01_03_05
+Você acha que eles poderiam encontrar seu irmão?
+$GEN_054_05x01_03_06
+Acho que ele foi assassinado e roubado. Você faz ideia do que está acontecendo nesta cidade?
+$GEN_054_05x01_03_07
+Você deve ter ao menos uma ideia de para onde eles foram. Mostre alguma disposição para cooperar, é para o seu próprio bem.
+$GEN_054_05x01_03_08
+Gostavam de aparecer no mercado e ir aos campos nos arredores de Paris. De vez em quando, passeiam por Les Halles.
+$GEN_054_KEY_01
+Dois cães famintos
+$GEN_054_KEY_02
+Cajado
+$GEN_054_KEY_03
+Mercadorias restantes
+$GEN_054_KEY_04
+Casa velha
+$GEN_054_KEY_05
+Tiros
+$GEN_054_KEY_06
+Mordidas nas mãos e no rosto
+$GEN_054_LastDialog_00
+O que está acontecendo? Isso é justiça? Punir alguém por causa dos cachorros de outra pessoa?
+$GEN_054_UNIQUE_QUESTION_00
+Como o réu conseguiu uma casa tão grande?
+$GEN_054_UNIQUE_ANSWER_CORRECT_00_00
+Ele herdou isso do pai.
+$GEN_054_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ele ganhou isso em um jogo de cartas.
+$GEN_054_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ele comprou isso em tempos mais prósperos.
+$GEN_054_UNIQUE_QUESTION_01
+De acordo com o depoimento, o que os cães fazem durante o dia?
+$GEN_054_UNIQUE_ANSWER_CORRECT_01_00
+Passeie por Paris.
+$GEN_054_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Eles estavam acorrentados.
+$GEN_054_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Mendigam por restos na vizinhança.

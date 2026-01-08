@@ -1,0 +1,8 @@
+$EVE_031_TITLE
+Jest nasz!
+$EVE_031_MAIN
+Nie ma chyba dla dumy rewolucyjnego Paryża bardziej poniżającego wydarzenia niż ucieczka króla. Zbiegł, wyślizgnął się, a tym samym rewolucja sprawiła wrażenie słabej. Lud wygląda jak dzieci, które każdy może wykiwać. Rewolucja szybko jednak odzyskała rezon, a to za sprawą zwykłego poczmistrza i jego ludzi, którzy przydybali uciekinierów zmierzających w kierunku Montmédy. Jednostki, szarzy obywatele doprowadzają do upadku monarchy. Ty też będziesz mógł się wykazać, wszak jutro król Ludwik stanie przed Trybunałem i zdecydujesz, jak zapamiętają go potomni – jako zdrajcę i tchórza czy jako męża stanu i pechowca. Gdyby decyzja zależała od strażników więziennych, to wyrok byłby tylko jeden…
+$EVE_031_OPTION_A
+Pozwól strażnikom dać wycisk królowi w więzieniu.
+$EVE_031_OPTION_B
+Zostaw go w spokoju do czasu rozprawy.

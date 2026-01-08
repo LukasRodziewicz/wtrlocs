@@ -1,0 +1,24 @@
+$EVE_007_TITLE
+Dios salve a la Reina
+$EVE_007_MAIN_01
+¿Qué sabe usted sobre la persona que se hace llamar “Ramel”? Todos merecen conocer la verdad sobre sus colegas. Reúnase conmigo a las 10 de la noche en el callejón detrás del Café Procope. Venga solo y descubrirá la verdad sobre el pasado de Ramel. Es por su propio bien.
+$EVE_007_MAIN_01_C1
+Ir a la reunión
+$EVE_007_MAIN_01_C2
+No ir a la reunión
+$EVE_007_MAIN_02A
+La calle está casi desierta; solo se cruzan un borracho o algún estudiante divertido cuando llegas al lugar de la cita. Llamas, pero nadie responde. Tan absorto en buscar a quien te envió la nota, tropiezas con algo en el suelo. A tus pies yace el cuerpo de un hombre, la garganta degollada. Es probable que estés ante tu frustrado informante. Registras el cadáver, pero no encuentras nada que explique la situación, y te apresuras a marcharte, mirando por encima del hombro mientras te alejas.
+$EVE_007_MAIN_03A
+Solía vivir en la calle, comiendo lo que robaba o encontraba. Así empecé a espiar, vendiendo información para sobrevivir. Hace poco pasé un tiempo cerca de la corte británica. No te diré quién me envió allí. Parece que mi pasado intenta alcanzarme… ¿Por qué ahora, justo cuando por fin hago algo en lo que creo, por mí… y por alguien más? Te aconsejo que evites encontrarte con desconocidos en callejones oscuros… Si alguien dice saber detalles sobre mi vida, probablemente quiera verme muerto. RAMEL.
+$EVE_007_MAIN_04B
+Has cometido un error. Queríamos entregarte la información gratis, como muestra de buena voluntad. Enviamos a alguien que sabía ciertas cosas sobre tu amigo, pero hoy nos enteramos de que le cortaron el cuello. Te damos una última oportunidad. Organiza una reunión con Ramel, o como lo llames, a menos que prefieras compartir el destino de nuestro hombre. Queremos verlo hoy a las 9 de la noche, en el mismo lugar.
+$EVE_007_MAIN_04B_C1
+Enviar a un espía
+$EVE_007_MAIN_04B_C2
+Enviar guardias
+$EVE_007_MAIN_05A
+Todas esas gargantas degolladas sin duda harán que aumenten las cifras de criminalidad. Los autores de la carta eran viejos, y furiosos, amigos de tu espía. Al parecer, Ramel tenía un vínculo especial con su cuchillo, y lo usó con despiadada eficacia contra el trío que vino a matarlo. Logró arrancar unas palabras sobre las oscuras profundidades de la sociedad parisina a su última víctima antes de poner fin a su sufrimiento. Quizá puedas encontrar la manera de aprovechar esa información.
+$EVE_007_MAIN_05B
+Te encontrabas eligiendo entre un gato al acecho y varios toros enfurecidos. Sin duda ya habrás oído hablar de las peleas cerca de Le Procope. Todo el trío con el que debías reunirte está muerto. Además, una tienda cercana se incendió y balas perdidas hirieron a un panadero local y a uno de los Guardias. Sin mencionar todos los cristales rotos... El actual dueño de Le Procope reconoció a los Guardias como tus empleados. Ahora, cada invitado oirá hablar del juez del Tribunal que organiza tiroteos en las calles de París.
+$EVE_007_MAIN_05C
+Tres contra uno. Tu espía es hábil, pero ni siquiera él pudo salir ileso al enfrentarse a tres experimentados agentes ingleses. Considéralo un empate... esta vez. El trío ha muerto, pero Ramel está gravemente herido. No subestimes el peligro cuando aparece justo ante tus narices...

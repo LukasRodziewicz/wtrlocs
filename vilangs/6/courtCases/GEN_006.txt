@@ -1,0 +1,359 @@
+$GEN_006_DOC_01_HEADER
+Compilado por: Pierre Daquin
+$GEN_006_DOC_01_00
+La acusada es Valérie Moreau, <a name="1" class="hidden">hija del abogado Philippe Moreau</a>. Fue arrestada como sospechosa del asesinato del teniente Serge Mollet, <a name="2" class="hidden">oficial de caballería</a>. La investigación reveló que se conocían bien y, según ambas familias, se veían varias veces al mes. Además, el teniente Mollet había pedido a Philippe Moreau <a name="3" class="hidden">la mano de su hija</a>.
+$GEN_006_DOC_01_01
+La señorita Moreau declaró que <a name="4" class="hidden">encontró el cuerpo de su amigo</a> en su apartamento. Fue arrestada porque los sirvientes testificaron que nadie más <a name="5" class="hidden">entró al apartamento del teniente Mollet</a> ese día, y que habían visto a la víctima con vida antes de su llegada.
+$GEN_006_DOC_01_02
+La señorita Moreau declaró que los sirvientes del teniente Mollet le permitieron entrar en la casa y fue directamente a su habitación. Dijo que lo vio tendido en la cama, con la ropa de cama manchada de sangre y con la <a name="6" class="hidden">garganta cortada</a>. Aunque supuestamente se sintió mareada, se acercó a él para <a name="7" class="hidden">comprobarle el pulso</a>. Unos minutos después, pidió ayuda.
+$GEN_006_DOC_01_03
+Los testimonios de los sirvientes respaldan su versión. Cuando la encontraron, estaba <a name="8" class="hidden">sosteniendo el cuerpo del teniente Mollet</a> entre sus brazos y sollozando sin control. Un cuchillo ensangrentado yacía en el suelo, y en su empuñadura aún húmeda se distinguían pequeñas huellas dactilares, probablemente femeninas.
+$GEN_006_DOC_01_04
+El caso parece sencillo: la señorita Moreau es también una de las víctimas, y llevarla ante el tribunal solo le causará más sufrimiento. Deberíamos centrarnos en buscar al verdadero asesino, y no atormentar a criaturas tan frágiles e inocentes.
+$GEN_006_DOC_01_05
+Prueba:
+<a name="10" class="hidden">Un cuchillo ensangrentado.</a>
+$GEN_006_OnStart_00
+Joven, hermosa y desdichada. No es de extrañar que la gente esté de su parte.
+$GEN_006_OnStart_01
+¡Desalmados! ¿Cómo pueden arrastrar a una joven de luto ante el tribunal?
+$GEN_006_OnStart_02
+¡Silencio! Por favor, preséntese.
+$GEN_006_OnStart_03
+Me llamo Valérie Moreau.
+$GEN_006_OnStart_04
+Señorita Moreau, se le acusa de asesinar al teniente Mollet…
+$GEN_006_OnStart_05
+…
+$GEN_006_OnStart_06
+¿Tiene algo que decir?
+$GEN_006_OnStart_07
+Aún no puedo creer… nada de esto.
+$GEN_006_OnStart_08
+Por favor, ahórrenos el drama, esto no es un teatro.
+$GEN_006_OnStart_09
+¡Sádico!
+$GEN_006_OnGuilty_00
+¡Condeno a la ciudadana Valérie Moreau a la guillotina! Saquen a la condenada.
+$GEN_006_OnGuilty_01
+Sin duda, hemos hecho un buen trabajo.
+$GEN_006_OnGuilty_02
+¡Esto es inhumano!
+$GEN_006_OnGuilty_03
+¡Está loca, se lo merece!
+$GEN_006_OnPrison_00
+¡Condeno a la ciudadana Valérie Moreau a prisión! Saquen a la condenada.
+$GEN_006_OnPrison_01
+La desenmascaramos, aunque preferiría verla en la guillotina.
+$GEN_006_OnPrison_02
+¡Esto es inhumano!
+$GEN_006_OnPrison_03
+¡Está loca, se lo merece!
+$GEN_006_OnNotGuilty_00
+El veredicto por el asesinato del teniente Mollet es... ¡inocente! Por favor, liberen a la señorita Moreau.
+$GEN_006_OnNotGuilty_01
+¿Dejaste que te engañaran sus dulces ojos?
+$GEN_006_OnNotGuilty_02
+¡Hurra!
+$GEN_006_OnNotGuilty_03
+¿Dejas en libertad a un asesino?
+$GEN_006_01x02_00_QTitle
+¿Conocía a la víctima desde hace mucho tiempo?
+$GEN_006_01x02_00_00
+¿Conocía a la víctima desde hace mucho tiempo?
+$GEN_006_01x02_00_01
+Unos años, desde su época en la Escuela Militar.
+$GEN_006_01x02_00_02
+¿Qué tipo de relación era?
+$GEN_006_01x02_00_03
+Amistad. Una amistad profunda, inquebrantable. Aunque para el teniente Mollet, yo sabía que significaba algo más.
+$GEN_006_01x02_00_04
+¿Y para usted?
+$GEN_006_01x02_00_05
+¿Por qué la está atormentando?
+$GEN_006_01x02_00_06
+…
+$GEN_006_01x02_00_07
+¿Lo amabas? Si es así, tal vez lo mataste por celos.
+$GEN_006_01x02_00_08
+No lo sé... No puedo responder a esa pregunta.
+$GEN_006_01x02_00_09
+Negarse a responder solo jugará en su contra.
+$GEN_006_01x02_00_10
+Apenas respira, la pobre criatura traumatizada.
+$GEN_006_01x03_01_QTitle
+Señorita Moreau, necesito conocer cada detalle de este caso.
+$GEN_006_01x03_01_00
+Señorita Moreau, necesito conocer cada detalle de este caso.
+$GEN_006_01x03_01_01
+Entiendo. Por favor, haga sus preguntas.
+$GEN_006_01x03_01_02
+Nuestro investigador ha sabido por su padre que el teniente Mollet estaba de acuerdo con él respecto a su compromiso.
+$GEN_006_01x03_01_03
+Oh…
+$GEN_006_01x03_01_04
+¿No tenía conocimiento de ese acuerdo?
+$GEN_006_01x03_01_05
+Sabía que él… Pero no tan pronto. No, no lo sabía.
+$GEN_006_01x03_01_06
+¿Tu familia lo mantuvo en secreto?
+$GEN_006_01x03_01_07
+Al parecer, sí.
+$GEN_006_01x03_01_08
+¿Acaso respondiste a su propuesta matándolo?
+$GEN_006_01x03_01_09
+<solloza>
+$GEN_006_01x03_01_10
+¡Dios mío, sería más misericordioso ejecutarla de inmediato, malditos!
+$GEN_006_01x04_02_QTitle
+Por favor, describa el momento en que encontró el cuerpo de la víctima.
+$GEN_006_01x04_02_00
+Por favor, describa el momento en que encontró el cuerpo de la víctima.
+$GEN_006_01x04_02_01
+Esto es inhumano.
+$GEN_006_01x04_02_02
+Recibí una carta en la que me pedía que fuera. Escribió que haría que todos se marcharan y que podríamos pasar un tiempo... a solas. Quería confesarme algo.
+$GEN_006_01x04_02_03
+¿Por tu cuenta? ¿Cómo deberíamos interpretar eso?
+$GEN_006_01x04_02_04
+Seguro que no pretendía nada indecente. Era una persona honorable, un caballero.
+$GEN_006_01x04_02_05
+¿Qué ocurrió después?
+$GEN_006_01x04_02_06
+Llegué a la hora acordada y entré en su apartamento. Las cortinas estaban corridas y sentí algo resbaladizo bajo mi zapato. Era sangre…
+$GEN_006_01x04_02_07
+¿Alguien te vio entrar?
+$GEN_006_01x04_02_08
+No lo sé. Quizá los sirvientes.
+$GEN_006_01x04_02_09
+¿Entraste a escondidas?
+$GEN_006_01x04_02_10
+Yo... Me pidió que entrara en silencio, y cuando entré...
+$GEN_006_01x04_02_11
+¿Vio el cuerpo de inmediato?
+$GEN_006_01x04_02_12
+Solo después de unos instantes lo vi. Estaba tendido en la cama… su garganta… Disculpe…
+$GEN_006_01x04_02_13
+Qué horror…
+$GEN_006_10x06_03_QTitle
+El teniente Mollet era un soldado. ¿Cómo pudo alguien…?
+$GEN_006_10x06_03_00
+El teniente Mollet era un soldado. ¿Cómo pudo alguien sorprenderlo en su propia cama?
+$GEN_006_10x06_03_01
+¿Cómo podría un niño así haberlo matado? Este juicio es una farsa.
+$GEN_006_10x06_03_02
+Por supuesto que podía. Puedes matar a cualquiera si logras sorprenderlo.
+$GEN_006_10x06_03_03
+Quienquiera que entró en su piso debió acercarse con tal sigilo que no lo despertó.
+$GEN_006_10x06_03_04
+¿Se pondría a dormir justo antes de encontrarse contigo?
+$GEN_006_10x06_03_05
+Solo sé que estaba acostado en la cama. ¿Quizá decidió echarse una siesta?
+$GEN_006_10x06_03_06
+¿No le parece sospechoso?
+$GEN_006_10x06_03_07
+Todo en este caso resulta sospechoso.
+$GEN_006_10x06_03_08
+Estoy de acuerdo, y especialmente con su testimonio.
+$GEN_006_04x07_04_QTitle
+¿Cómo pudo estar seguro de que la víctima ya estaba muerta?
+$GEN_006_04x07_04_00
+¿Cómo podía estar seguro de que la víctima ya estaba muerta?
+$GEN_006_04x07_04_01
+Le hablaba, le decía: “Despierta, vamos, levántate.” Tiraba de su manga, pero él solo yacía allí… la sangre goteando…
+$GEN_006_04x07_04_02
+Delira, pobrecita.
+$GEN_006_04x07_04_03
+¡Déjenla en paz!
+$GEN_006_04x07_04_04
+¿El teniente Mollet estaba muerto?
+$GEN_006_04x07_04_05
+Escuché tratando de oír su respiración, pero no había nada... Escuché durante mucho tiempo, deseando desesperadamente percibirla...
+$GEN_006_04x07_04_06
+¿Por qué no pidió ayuda?
+$GEN_006_04x07_04_07
+Estaba en shock.
+$GEN_006_04x07_04_08
+Entonces, ¿por qué no gritó? Las mujeres suelen gritar a todo pulmón cuando algo las conmociona.
+$GEN_006_04x07_04_09
+No puedo explicar eso.
+$GEN_006_04x07_04_10
+Uno grita, otro no. ¿Qué demuestra eso?
+$GEN_006_09x08_05_QTitle
+Cuando llegaron los guardias, te encontraron cubierto de sangre.
+$GEN_006_09x08_05_00
+Cuando llegaron los guardias, te encontraron cubierto de sangre. ¿Entiendes cómo se ve eso?
+$GEN_006_09x08_05_01
+Crees que fui yo quien lo mató. No soy tonta, sé por qué estoy aquí.
+$GEN_006_09x08_05_02
+Así es. ¿Desea responder a eso?
+$GEN_006_09x08_05_03
+¿Acaso de verdad lo maté…?
+$GEN_006_09x08_05_04
+¡Ella admitió su culpabilidad!
+$GEN_006_09x08_05_05
+¿Perdón?
+$GEN_006_09x08_05_06
+Quizá si hubiera llegado antes… ¿Quizá aún estaría vivo?
+$GEN_006_09x08_05_07
+Por favor, no se retracte de sus palabras.
+$GEN_006_09x08_05_08
+¡Dios mío, dejen de torturarla!
+$GEN_006_09x08_05_09
+Cálmese y responda a la pregunta. ¿Fue usted quien degolló al teniente Mollet?
+$GEN_006_09x08_05_10
+No.
+$GEN_006_09x08_05_11
+Sin embargo, acabo de oírle decir algo distinto.
+$GEN_006_05x09_06_QTitle
+¿Tenía el teniente Mollet algún enemigo?
+$GEN_006_05x09_06_00
+¿Tenía el teniente Mollet algún enemigo?
+$GEN_006_05x09_06_01
+No lo sé. Tenía amigos.
+$GEN_006_05x09_06_02
+¿Podría un amigo haberlo matado?
+$GEN_006_05x09_06_03
+…
+$GEN_006_05x09_06_04
+Solo alguien en quien confiara podría haberse acercado tanto, ¿no? Sin embargo, los sirvientes dicen que no había nadie más en ese apartamento aparte de usted.
+$GEN_006_05x09_06_05
+Me gustaría ser la esposa de un oficial... Las sirvientas no tienen esa oportunidad.
+$GEN_006_05x09_06_06
+¿Vio a alguien más en el apartamento?
+$GEN_006_05x09_06_07
+No.
+$GEN_006_05x09_06_08
+Si no fuiste tú, ¿entonces quién mató al teniente Mollet?
+$GEN_006_05x09_06_09
+Me gustaría saberlo tanto como usted…
+$GEN_006_01x10_07_QTitle
+Se encontró un cuchillo ensangrentado en la escena del crimen.
+$GEN_006_01x10_07_00
+Se halló un cuchillo ensangrentado en la escena del crimen.
+$GEN_006_01x10_07_01
+No sé nada sobre un cuchillo.
+$GEN_006_01x10_07_02
+Tiene la huella de una mano pequeña, probablemente de una mujer.
+$GEN_006_01x10_07_03
+¿Entonces lo mató una mujer? Tenía a otra, pero quería casarse conmigo…?
+$GEN_006_01x10_07_04
+Yo no dije eso.
+$GEN_006_01x10_07_05
+Estoy bastante confundido.
+$GEN_006_01x10_07_06
+Pobre niña.
+$GEN_006_01x10_07_07
+Señor juez, la acusada intenta engañarnos. Sabemos lo que significa la huella de una mujer en el arma homicida.
+$GEN_006_01x10_07_08
+¿Quizás lo dejé cuando Serge ya estaba muerto?
+$GEN_006_01x10_07_09
+Probablemente lo tomó por sorpresa.
+$GEN_006_PlotTwist_00
+¡Señor juez! He llegado a tiempo. Hay algo que debo revelar. Por favor, escúcheme.
+$GEN_006_PlotTwist_01
+Conozco a la señorita Moreau. Soy el médico de su familia.
+$GEN_006_PlotTwist_02
+¿Qué desea revelar?
+$GEN_006_PlotTwist_03
+Creo que fue esta mujer quien mató al teniente Mollet. ¡Es el mismo demonio encarnado!
+$GEN_006_PlotTwist_04
+¡Loco!
+$GEN_006_WIT_00_A_QTitle
+¿Y qué le lleva a esa conclusión?
+$GEN_006_WIT_00_A_00
+¿Y qué le lleva a esa conclusión?
+$GEN_006_WIT_00_A_01
+La he estado tratando durante muchos años y la conozco desde que era una niña. Últimamente ha cambiado. Cuando la señorita Moreau me visitó hace poco, temblaba, tenía fiebre constantemente y sufría ataques de pánico. Le receté algunas hierbas para tranquilizarla…
+$GEN_006_WIT_00_A_02
+¿Y qué relación tiene eso con–
+$GEN_006_WIT_00_A_03
+¡Déjame terminar! Algo la atormentaba por dentro. Una vez me confesó que era demasiado joven para casarse.
+$GEN_006_WIT_00_A_04
+Tenemos un motivo.
+$GEN_006_WIT_00_A_05
+¿Entonces sabía lo que planeaban el teniente Mollet y su padre?
+$GEN_006_WIT_00_A_06
+Si no lo sabía, al menos lo sospechaba, pues desde hace un tiempo sus nervios estaban a flor de piel.
+$GEN_006_WIT_00_B_QTitle
+Es una acusación grave…
+$GEN_006_WIT_00_B_00
+Es una acusación grave...
+$GEN_006_WIT_00_B_01
+Ha estado lidiando con un trauma. Hace unos años, presenció la muerte de un hombre en la calle, víctima de un enfrentamiento entre realistas y jacobinos. Estaba cerca de él cuando una bala perdida le alcanzó la cabeza.
+$GEN_006_WIT_00_B_02
+¿Qué tiene que ver eso con la muerte del teniente?
+$GEN_006_WIT_00_B_03
+Hablamos de ello decenas de veces. Al principio Valérie guardaba silencio. Con el tiempo, empezó a compartir pequeños detalles. Sin embargo, llegó un momento en que describió al difunto con tal precisión que casi podías ver su cuerpo ante tus propios ojos.
+$GEN_006_WIT_00_B_04
+Continúe.
+$GEN_006_WIT_00_B_05
+En una de nuestras conversaciones, confesó que se imaginaba aquella escena por las noches. Quería contar la historia una y otra vez, y pude ver lo fascinada que estaba con ella.
+$GEN_006_WIT_00_B_06
+¿Qué podría significar eso, en su opinión?
+$GEN_006_WIT_00_B_07
+Es posible que haya empezado a sentirse atraída por la muerte y la violencia.
+$GEN_006_WIT_01_A_QTitle
+¿Cómo reaccionó ante eso?
+$GEN_006_WIT_01_A_00
+¿Cómo reaccionó ante eso?
+$GEN_006_WIT_01_A_01
+Pensé que aún estaba en estado de shock por lo que había presenciado y le receté hierbas sedantes. Supuse que se casaría, tendría un hijo y lo olvidaría todo... Fue recién hoy que supe de la muerte del teniente Mollet y vine aquí de inmediato.
+$GEN_006_WIT_01_A_02
+Gracias, doctor.
+$GEN_006_WIT_02_A_QTitle
+¡Parece que nos ha ofrecido todo un espectáculo!
+$GEN_006_WIT_02_A_00
+¡Vaya espectáculo nos ha ofrecido! El doctor lo está acusando–
+$GEN_006_WIT_02_A_01
+¡Malnacido! Si pretende convertirte en un monstruo, ¿acaso debería destriparlo solo por placer? ¡Clavarle el cuchillo en el vientre y abrirlo hacia arriba! ¡Cortarle la garganta y…
+$GEN_006_WIT_02_A_02
+¿De qué está hablando?
+$GEN_006_WIT_03_A_QTitle
+Aquí tenemos la opinión fundamentada de un médico…
+$GEN_006_WIT_03_A_00
+Lo que tenemos aquí es la opinión fundamentada de un médico…
+$GEN_006_WIT_03_A_01
+¡Acabo de recordarlo! Sé quién mató a Serge. Recuerdo que me contó que hace un par de años se batió en duelo con otro oficial que nunca aceptó su derrota. Quizás...
+$GEN_006_WIT_03_A_02
+¿Y acaso esa persona, enfurecida por la negación de una salida honorable, se coló en la casa del teniente Mollet para degollarlo? ¿Después de tantos años?
+$GEN_006_WIT_03_A_03
+…
+$GEN_006_WIT_03_A_04
+¿Sabe el nombre de ese otro oficial, señorita?
+$GEN_006_WIT_03_A_05
+Por desgracia, no.
+$GEN_006_WIT_03_A_06
+¿Qué clase de duelo fue? ¿Usaron espadas o pistolas?
+$GEN_006_WIT_03_A_07
+Yo... tampoco recuerdo eso.
+$GEN_006_KEY_01
+Hija del abogado
+$GEN_006_KEY_02
+Oficial de caballería
+$GEN_006_KEY_03
+Compromiso presunto
+$GEN_006_KEY_04
+Descubrimiento del cuerpo
+$GEN_006_KEY_05
+Sin visitantes
+$GEN_006_KEY_06
+Garganta degollada
+$GEN_006_KEY_07
+Comprobando el pulso
+$GEN_006_KEY_08
+El acusado sostenía el cuerpo
+$GEN_006_KEY_09
+El verdadero asesino
+$GEN_006_KEY_10
+Cuchillo ensangrentado
+$GEN_006_LastDialog_00
+¡Esto no es justicia! ¡No tienen pruebas! ¡Y lo saben!
+$GEN_006_UNIQUE_QUESTION_00
+¿Quién encontró el cuerpo?
+$GEN_006_UNIQUE_ANSWER_CORRECT_00_00
+La acusada.
+$GEN_006_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Un sirviente.
+$GEN_006_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Una patrulla de guardias.

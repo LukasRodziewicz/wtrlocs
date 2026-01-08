@@ -1,0 +1,186 @@
+$GEN_044_DOC_01_HEADER
+Zusammengestellt von: Nathan d'Essiraf
+$GEN_044_DOC_01_00
+	Die 19-jährige <a name="1" class="hidden">Witwe des Verschwörers</a> Graf Cyrille de la Montange wird beschuldigt, einen Offizier angegriffen zu haben. Der Vorfall ereignete sich während der öffentlichen Hinrichtung ihres Ehemanns, der drei Monate zuvor zum Tode verurteilt worden war. Laut Akte plante er ein Attentat auf die führenden Köpfe der Revolution.
+$GEN_044_DOC_01_01
+	Die Enthauptung fand vor dem Pariser Rathaus statt. Kurz darauf verlor der Hauptmann der Nationalgarde, Roger Plessis, angeblich durch die Hand der Gräfin de la Montagne ein Auge. Man sagt, die Gräfin habe <a name="3" class="hidden">einen Aufruhr ausgelöst</a> und dann <a name="4" class="hidden">einen Stein</a> in Richtung von Hauptmann Plessis geworfen, der auf dem Schafott stand. Das Opfer erkannte sie in der Menge, und die Gräfin wurde umgehend von den Wachen festgenommen, die während der Hinrichtung anwesend waren.
+$GEN_044_DOC_01_02
+	Alles deutet darauf hin, dass die Verletzung des Kapitäns kein Kollateralschaden war, sondern das direkte Ergebnis eines gezielten Angriffs von de la Montagne. Er war es, der <a name="5" class="hidden">die Verschwörung aufdeckte</a> und den Grafen sowie vier seiner Komplizen verhaftete, allesamt Aristokraten aus dem Umfeld des vorrevolutionären Hofes.
+$GEN_044_DOC_01_03
+	Nun, da er eines seiner Augen verloren hat, ignoriert Hauptmann Plessis das Geschlecht, das Alter und die Schwangerschaft der Gräfin, beschuldigt sie der konterrevolutionären Umtriebe und fordert die härteste Strafe für sie.
+$GEN_044_OnStart_00
+Tötet die Konterrevolutionärin!
+$GEN_044_OnStart_01
+Nieder mit dem Adel!
+$GEN_044_OnStart_02
+Sind die verrückt geworden?
+$GEN_044_OnStart_03
+Richter Nanou entzog sich geschickt diesem Prozess und verwies auf seine Verwandtschaft mit Hauptmann Plessis. Er erklärte: „Ich kann nicht Richter im Verfahren gegen meinen Vetter sein. Ein entfernter Vetter, gewiss, aber doch ein Vetter.“
+$GEN_044_OnStart_04
+Verdammter Feigling… Bürger, wie ist Ihr Name?
+$GEN_044_OnStart_05
+Gräfin Isabelle de la Montagne. Glauben Sie nicht, dass Ihr finsteres Gesicht mir Angst einjagt. Meine Familie und ich haben schon genug unter Ihrer… Revolution gelitten.
+$GEN_044_OnStart_06
+Hast du diese unverschämte Kuh gehört?!
+$GEN_044_OnStart_07
+Ruhe im Saal! Dem Angeklagten wird geraten, mit dem Gericht zu kooperieren. Bedenken Sie, dass nicht nur Ihr Leben auf dem Spiel steht.
+$GEN_044_OnStart_08
+Weder ich noch mein ungeborenes Kind tragen Schuld an Plessis’ Behinderung.
+$GEN_044_OnStart_09
+Natürlich, der Stein ist ganz von selbst durch die Luft geflogen und hat mir ins Auge geschlagen! Und außerdem ist es schlicht empörend, sich hinter einem ungeborenen Kind zu verstecken. Sie sollten sich schämen!
+$GEN_044_OnGuilty_00
+Ich verurteile Bürgerin Isabelle de la Montagne zum Tode! Führt die Verurteilte ab.
+$GEN_044_OnGuilty_01
+Ein passendes Ende für den Adel und seine Bastarde!
+$GEN_044_OnGuilty_02
+Die Beweise waren erdrückend, die Gerechtigkeit hat gesiegt.
+$GEN_044_OnPrison_00
+Ich verurteile Bürgerin Isabelle de la Montagne zu Gefängnis! Führt die Verurteilte ab.
+$GEN_044_OnPrison_01
+Sie soll ihren Kopf verlieren!
+$GEN_044_OnPrison_02
+Das liegt nur daran, dass sie eine Aristokratin ist! Eine gewöhnliche Frau wäre hingerichtet worden!
+$GEN_044_OnPrison_03
+Ihr Kind hat eine Chance bekommen. Hoffen wir, dass sie nicht ungenutzt bleibt.
+$GEN_044_OnNotGuilty_00
+Das Urteil im Fall der Gräfin Isabelle de la Montagne lautet… nicht schuldig! Führt die Angeklagte ab.
+$GEN_044_OnNotGuilty_01
+Was für ein Feigling!
+$GEN_044_OnNotGuilty_02
+Genießen die Aristokraten immer noch solche Privilegien?
+$GEN_044_OnNotGuilty_03
+Weg mit solch einem Gesetz!
+$GEN_044_02x04_00_QTitle
+Haben Sie den Stein geworfen, der das Opfer verletzt hat?
+$GEN_044_02x04_00_00
+Haben Sie den Stein geworfen, der das Opfer verletzt hat?
+$GEN_044_02x04_00_01
+Ich weiß nicht, wer es geworfen hat, aber ich bin froh, dass er getroffen hat.
+$GEN_044_02x04_00_02
+Der Hauptmann behauptet, Sie seien es gewesen. Es fällt schwer, ihm nicht zu glauben, da er das ganze Geschehen vom Schafott aus beobachtet hat.
+$GEN_044_02x04_00_03
+Sehen Sie mich an, schauen Sie genau hin. Ich bin nicht kräftig gebaut, ich bin im fünften Monat schwanger, und zwischen mir und dem Schafott standen Soldaten und eine Menschenmenge. Er war mindestens zwanzig Meter entfernt. Wie hätte ich ihn aus dieser Entfernung treffen können?
+$GEN_044_02x04_00_04
+Sie handelten im Affekt, und wie man weiß, können starke Gefühle ungeahnte Kräfte freisetzen.
+$GEN_044_02x04_00_05
+Ich konnte nichts anderes tun, als zu weinen!
+$GEN_044_02x04_00_06
+Du warst damals genauso wütend wie jetzt.
+$GEN_044_02x04_00_07
+Das sagen Sie, doch in so einer Situation wäre Zorn durchaus nachvollziehbar – und wir wissen, wozu Menschen im Zorn fähig sind.
+$GEN_044_03x04_01_QTitle
+Haben Sie den Aufruhr angezettelt, um sich an dem Opfer zu rächen?
+$GEN_044_03x04_01_00
+Haben Sie den Aufruhr angezettelt, um sich an dem Opfer zu rächen?
+$GEN_044_03x04_01_01
+Ich habe nichts angestiftet. Alles, woran ich mich erinnere, ist, dass ich auf einen Mann gefallen bin, der hinter mir stand… Es gab eine Rangelei… Und dann zogen mich die Soldaten aus der Menge.
+$GEN_044_03x04_01_02
+Sie erinnern sich also an nicht viel.
+$GEN_044_03x04_01_03
+Nein.
+$GEN_044_03x04_01_04
+Dann können Sie nicht mit Sicherheit sagen, dass Sie den Stein nicht geworfen haben.
+$GEN_044_01x05_02_QTitle
+Geben Sie zu, einen Stein in Richtung des Opfers geworfen zu haben…
+$GEN_044_01x05_02_00
+Geben Sie zu, einen Stein in Richtung des Opfers geworfen zu haben, weil er für den Tod Ihres Mannes verantwortlich war?
+$GEN_044_01x05_02_01
+Leider trage ich keine Schuld an der Verletzung dieses Schurken. Er hätte geköpft werden sollen – und das nicht nur wegen des Todes meines Mannes.
+$GEN_044_01x05_02_02
+Wie meinen Sie das?
+$GEN_044_01x05_02_03
+Ich habe mich ihm hingegeben! Ich tat es, weil er mir versprach, meinen Mann zu verschonen, und jetzt trage ich sein Kind in mir! Willst du dazu etwas sagen, Plessis, du Bastard?!
+$GEN_044_01x05_02_04
+Sie lügt, diese verdammte Schlampe!
+$GEN_044_01x05_02_05
+Das ist eine Lüge, Monsieur Richter! Sie sollten ihr den Mund stopfen!
+$GEN_044_01x05_02_06
+Das könnte jede Frau behaupten. Wir brauchen Beweise.
+$GEN_044_01x05_02_07
+Ich werde dieses Kind zur Welt bringen, Plessis, damit jeder die Ähnlichkeit sehen kann!
+$GEN_044_01x05_02_08
+Ruhe, Ruhe! Muss ich mich wirklich wiederholen? Bringen Sie Hauptmann Plessis als Zeugen herein.
+$GEN_044_01x03_03_QTitle
+Beschreiben Sie Ihre Beteiligung an den Unruhen.
+$GEN_044_01x03_03_00
+Beschreiben Sie Ihre Beteiligung an den Unruhen.
+$GEN_044_01x03_03_01
+Ich war überhaupt nicht beteiligt! Warum sollte ich Unruhe stiften oder daran teilnehmen? Würde das meinen Mann zurückbringen?
+$GEN_044_01x03_03_02
+Angesichts der Verbrechen des Grafen fällt es schwer zu glauben, dass seine Frau nicht zu Handlungen neigen würde, die die öffentliche Sicherheit gefährden.
+$GEN_044_01x03_03_03
+Ich hatte nichts mit den Geschäften meines Mannes zu tun. Meine einzige Schuld, wie Sie sehen, ist, dass ich am Hof geboren wurde und nicht auf irgendeinem Marktplatz…
+$GEN_044_WIT_00_A_QTitle
+Wie würden Sie die bemerkenswerte Aussage der Angeklagten kommentieren?
+$GEN_044_WIT_00_A_00
+Wie würden Sie die bemerkenswerte Aussage der Angeklagten kommentieren?
+$GEN_044_WIT_00_A_01
+Schon die Tatsache, dass Sie mich überhaupt danach fragen, ist ein Skandal! Bei meiner Ehre, ich habe dieser Hexe nicht den Bauch gemacht!
+$GEN_044_WIT_00_A_02
+Der Angeklagte scheint sich dessen ziemlich sicher zu sein. Hatten Sie eine Beziehung? Haben Sie ein so ehrloses Bestechungsgeld angenommen?
+$GEN_044_WIT_00_A_03
+Ich habe ein Auge verloren! Wie soll ich dem Land jetzt noch dienen?
+$GEN_044_WIT_00_A_04
+Beantworten Sie die Frage!
+$GEN_044_WIT_00_A_05
+Die Angeklagte besuchte mich am Tag vor dem Prozess ihres Mannes und bat mich, für ihn einzutreten. Ich lehnte ab.
+$GEN_044_WIT_01_A_QTitle
+Wessen Kind ist das dann?
+$GEN_044_WIT_01_A_00
+Wessen Kind ist das dann?
+$GEN_044_WIT_01_A_01
+Des verräterischen Grafen, nehme ich an. Er wurde vor drei Monaten enthauptet. Er hat sich davor wohl noch amüsiert…
+$GEN_044_WIT_01_A_02
+Der Verschwörer wurde vor drei Monaten enthauptet, aber seine Festnahme war bereits vor fünf Monaten.
+$GEN_044_WIT_01_A_03
+Er hat sie also direkt vor der Verhaftung geschwängert!
+$GEN_044_WIT_01_A_04
+Oder vielleicht haben Sie es direkt nach der Verhaftung getan.
+$GEN_044_WIT_01_A_05
+Ungeheuerlich! Jeden Moment werde ich Genugtuung fordern!
+$GEN_044_WIT_01_A_06
+Hier, im Gericht, sind wir es, die etwas von Ihnen verlangen – nicht umgekehrt!
+$GEN_044_WIT_01_B_QTitle
+Wie können Sie sich so sicher sein, dass es der Angeklagte war, der den Stein geworfen hat?
+$GEN_044_WIT_01_B_00
+Wie können Sie sich so sicher sein, dass es der Angeklagte war, der den Stein geworfen hat? Ich habe gehört, dass sich viele Menschen um das Schafott drängten.
+$GEN_044_WIT_01_B_01
+Es wurde nur ein einziger Stein geworfen. Die Menschen schlugen aufeinander ein, doch niemand hätte es gewagt, die Hand gegen einen Offizier zu erheben, der nur seinen Befehl ausführte.
+$GEN_044_WIT_01_B_02
+Das beweist gar nichts.
+$GEN_044_WIT_01_B_03
+Nein, das tut es nicht, aber wenn eine Frau „Tod den verräterischen Gardisten!“ schreit, direkt nachdem Sie ihren Mann enthauptet haben, gibt es keine bessere Erklärung.
+$GEN_044_WIT_01_B_04
+Haben Sie es gesehen?
+$GEN_044_WIT_01_B_05
+Ich habe sie gesehen, und ich sah den Stein aus der Richtung kommen, wo sie stand.
+$GEN_044_WIT_01_B_06
+Was gibt es da noch zu überlegen?
+$GEN_044_KEY_01
+Witwe eines Verschwörers
+$GEN_044_KEY_02
+Verlust eines Auges
+$GEN_044_KEY_03
+Anstiftung zum Aufruhr
+$GEN_044_KEY_04
+Einen Stein werfen
+$GEN_044_KEY_05
+Aufdeckung der Verschwörung
+$GEN_044_LastDialog_00
+Sie töten zwei Unschuldige mit einem einzigen Schlag!
+$GEN_044_UNIQUE_QUESTION_00
+Womit versuchte die Gräfin, Offizier Plessis zu bestechen?
+$GEN_044_UNIQUE_ANSWER_CORRECT_00_00
+Sie hat sich ihm hingegeben.
+$GEN_044_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Sie gab ihm Gold.
+$GEN_044_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Sie hat ihm ihr Haus geschenkt.
+$GEN_044_UNIQUE_QUESTION_01
+Was, so der Zeuge, hat der Angeklagte gerufen?
+$GEN_044_UNIQUE_ANSWER_CORRECT_01_00
+Tod den verräterischen Wachen!
+$GEN_044_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Stirb, Plessis!
+$GEN_044_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Nieder mit der Revolution!

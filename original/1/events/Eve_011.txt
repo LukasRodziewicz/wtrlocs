@@ -1,0 +1,18 @@
+$EVE_011_TITLE
+In the Name of Science
+$EVE_011_MAIN_01
+Rather disturbing news has reached me. The residents of a local graveyard have begun to… leave. Yes, I mean the dead. In the last two weeks, three bodies of different sexes and ages have disappeared. All they have in common is that they were recently buried. Nobody has seen anything; everyone claims they have simply vanished. The Captain of the Guard has refused to assign anyone to keep an eye on the graveyard. As it is, we can only expect that more bodies will disappear soon, and all of us will be in trouble.
+$EVE_011_MAIN_01_C1
+Investigate the matter
+$EVE_011_MAIN_02A
+There was no miracle, and no infernal or heavenly powers were behind the vanishing bodies. It was merely young and inquisitive people. As we were able to establish, the bodies were dug up by medical students who wanted to examine them and conduct experiments that would be impossible with living subjects. We may be glad to see such hunger for knowledge, but is this the right way? And there is the danger that if the families learn the truth, they will surely not share the youngsters’ enthusiasm…
+$EVE_011_MAIN_02A_C1
+Warn the students and forbid such practices
+$EVE_011_MAIN_02A_C2
+Allow the experiments to continue
+$EVE_011_MAIN_02B
+The families will not be happy when they realise that nobody cares about their complaints…
+$EVE_011_MAIN_03A
+The dead have stopped vanishing. You did not rebuke the members of the Convention, but young people who are easy to scare when they know they have been caught. I doubt they will do it again. At least not during your term.
+$EVE_011_MAIN_03B
+The students have promised they will steal bodies from different graveyards to avoid detection. It is something, at least.

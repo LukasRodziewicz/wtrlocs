@@ -1,0 +1,8 @@
+$DIAL_H_01_01_05_001_OFFICIAL
+Due to the establishment of a Revolutionary Tribunal, we need to prepare an official stamp. I was told to ask you, Citizen, because President Dévoyé is… indisposed.
+$DIAL_H_01_01_05_002_WIFE
+How much did he drink?
+$DIAL_H_01_01_05_003_OFFICIAL
+He was not able to say. Shall we?
+$DIAL_H_01_01_05_004_OFFICIAL
+Thank you for your time, I know it’s late. The stamp should be ready tomorrow. Goodnight.

@@ -1,0 +1,54 @@
+#A02C1_D02_LETTER_MAIN
+Erzbischof Jean-Baptiste Gobel war es, der über den Tod Ihres Kindes entschieden hat. Er sollte Ihr nächstes Ziel sein.
+#A02C1_D02_LETTER_SENDER
+Ramel
+$LETTER_H_02_01_01_001_HEADER
+An Alexis Fidèle,
+$LETTER_H_02_01_01_002_MAIN
+Das Revolutionstribunal erfüllt seine Aufgabe vorbildlich. Der Konvent ist mit unseren Methoden zur Reinigung Frankreichs zufrieden, doch die aktuellen Umstände erfordern, dass Sie Ihren Treueeid auf die Republik erneuern. Morgen wird Sie unser Beamter aufsuchen.
+$LETTER_H_02_01_01_003_SENDER
+Ihr ergebener Maximilien Robespierre
+$LETTER_CO_02_01_02_MAIN
+Jean-Baptiste Gobel. Er trägt die Verantwortung für den Tod Ihres Sohnes.
+$LETTER_CO_02_01_02_SENDER
+Ramel
+$LETTER_H_02_01_03_001_START
+Als Bürger von Paris und treuer Diener der Revolution melde ich hiermit anonym, dass…
+$LETTER_H_02_01_03_002_P1_BASE
+Denunziation
+$LETTER_H_02_01_03_002_P1_AGGR
+Dieser prüde Priester Gobel hat irgendein Mädchen geschwängert, und sie hat ihm einen Sohn geboren. Soweit ich weiß, ist der inzwischen erwachsen. Und währenddessen predigt Gobel Mäßigung und ein tugendhaftes Leben. Kannst du dir das vorstellen?!
+$LETTER_H_02_01_03_003_P1_MANI
+Unter den Würdenträgern verbirgt sich ein Sünder. Erzbischof Gobel hat ein uneheliches Kind. Frankreich sollte doch gerade von solchen Menschen gereinigt werden.
+$LETTER_H_02_01_03_004_P1_JOKE
+Erzbischof Gobel hat mit irgendeinem Mädchen das Bett geteilt, und sie hat ihm einen Sohn geboren. Man sagt, sie lebt in Paris, doch der Erzbischof weiß davon nichts.
+$LETTER_H_02_01_03_005_P1_HUMI
+Man sagt, Erzbischof Gobel habe einen unehelichen Sohn, dessen Mutter in Paris lebt. Ich bin nicht dazu da, über andere zu richten, aber das erscheint mir nicht richtig.
+$LETTER_H_02_01_03_006_P2_BASE
+Die Meinung des Informanten
+$LETTER_H_02_01_03_006_P2_AGGR
+Ich finde, solchen doppelzüngigen Heuchlern sollte man den Kopf abschlagen und ihn, wie bei den Verteidigern der Bastille, auf eine Pike spießen.
+$LETTER_H_02_01_03_007_P2_MANI
+Wir dürfen nicht zulassen, dass solche Menschen unsere neue Gesellschaft vergiften, nachdem wir sie mit so viel Mühe auf dem Fundament der Wahrheit errichtet haben.
+$LETTER_H_02_01_03_008_P2_JOKE
+Es ist mir wirklich egal, mit wem die Leute schlafen und wie oft, solange sie still sind und anderen keine Moralpredigten halten.
+$LETTER_H_02_01_03_009_P2_HUMI
+Jemand muss sich darum kümmern. Ist diesen Leuten überhaupt bewusst, wie schädlich ihr Handeln für unsere Gesellschaft ist?
+$INVITATION_CO_02_01_05_001_MAIN
+Sehr geehrter Richter, heute Abend veranstalten wir einen Ball am Rande von Paris. Eingeladen sind nur die klügsten Köpfe Frankreichs, die bessere Gesellschaft unseres Landes, und Ihre Anwesenheit wird erwartet. Meine Gefährten und ich haben Ihnen etwas mitzuteilen… etwas von großer Bedeutung. Die Kutsche wird vor dem Gericht auf Sie warten.
+$INVITATION_CO_02_01_05_001_SENDER
+Clément Renard
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_001_MAIN
+Lieber Alexis, ich kann nicht länger mit der Last einer Schuld leben, die ich ungewollt auf mich geladen habe. Es gibt etwas, das ich dir gestehen muss, Alexis. Ich war in den Tod des kleinen Frédéric verwickelt. Man kam zu mir und sagte, mein Sohn, mein einziger Sohn, sei beim Versuch zu desertieren auf frischer Tat ertappt worden und warte nun auf seine Hinrichtung. Sie zeigten mir Beweise und versprachen, ihn freizulassen, wenn ich ihnen eine genaue Beschreibung deiner Familie gäbe – eurer Gewohnheiten, eurer Ansichten. Ich gab ihnen scheinbar harmlose Informationen, doch sie nutzten sie zum Töten. Das war nie meine Absicht – ich habe nie jemanden getötet. Sie haben es getan, und doch verfolgt mich die Schuld. Ich kann nicht mehr so weiterleben, mit dir im selben Raum sitzen und so tun, als sei nichts geschehen. Ich kann nur hoffen, dass du mir eines Tages vergibst, dass du verstehst, dass ich getäuscht wurde. Ich war immer dein Freund, Fidèle. Leb wohl, mein Freund.
+$LETTER_CO_02_02_SUICIDE_LETTER_MENTOR_002_SENDER
+Raymond Dévoyé
+$BROTHER_ARMY_POPUP_TITLE
+Warnung
+$BROTHER_ARMY_POPUP_MAIN_01
+Die Armee deines Bruders trifft in 4 Tagen ein.
+$BROTHER_ARMY_POPUP_MAIN_02
+Die Armee deines Bruders wird in 3 Tagen eintreffen.
+$BROTHER_ARMY_POPUP_MAIN_03
+Die Armee deines Bruders trifft in 2 Tagen ein.
+$BROTHER_ARMY_POPUP_MAIN_04
+Die Armee Ihres Bruders trifft morgen ein.

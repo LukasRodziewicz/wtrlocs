@@ -1,0 +1,214 @@
+$FAB_903_DOC_1_HEADER
+Savcı Antoine Quentin Fouquier-Tinville’in iddia konuşması
+$FAB_903_DOC_1_00
+Yurttaşlar! Daha önce Fransa Kralı XVI. Louis olarak bilinen Vatandaş Capet, Fransız halkına karşı kurduğu komplonun cezasını çekmelidir!
+$FAB_903_DOC_1_01
+Louis Capet, mutlak otoritesini korumak için Ulusal Kurucu Meclis’e ve Fransız halkına karşı komplo kurdu. Hepimiz 1789 Temmuz’unu hatırlıyoruz. Bir ordu topladı, 15 yabancı alay getirdi ve Paris’i kuşatmalarını emretti. Baron de Besenval’in komutasındaki askerler, meclis üyelerini yakalayıp reformları savunan yurttaşlara ateş açacaktı! Ve öyle de yaptılar! İlk kanı döken Kraliyet Alman Alayı oldu!
+$FAB_903_DOC_1_02
+Planı başarısız olunca, Louis Capet <a name="3" class="hidden">ailesiyle birlikte ülkeden kaçmaya</a> ve yabancı monarklarla iş birliği yapmaya kalkıştı. 1791 yılının Haziran ayında, bir gece Tuileries’den başkasının pasaportuyla ayrılmasının sebebi bu değil miydi? Sadık ordularının konuşlandığı Montmédy’ye, oradan da Avusturya’ya gitmiyor muydu? Eğer Posta Müdürü Douret olmasaydı, bu entrika bizim için felaketle sonuçlanabilirdi.
+$FAB_903_DOC_1_03
+Louis Capet, <a name="5" class="hidden">Devrimi zorla bastırma</a> düşüncesinden asla vazgeçmeyecek. 1792 olaylarından önce, Tuileries’deki İsviçre Muhafızlarının sayısının iki katına çıkarılmasını emretti. Dehşete kapılmış Yurttaşların önünde aleni bir askeri geçit düzenledi. Halkın başka seçeneği yoktu! Capet saldırmadan önce harekete geçmek zorundaydılar! Paris’teki çılgınlığı durdurmaya çalışan yurttaşlara, Capet Ulusal Meclis’e kaçtıktan sonra bile ateş açıldı.
+$FAB_903_DOC_1_04
+Delil: Mareşal de Broglie tarafından Baron de Besenval’e verilen bir emir. <a name="6" class="hidden">Talimatlar</a>, İçişleri Bakanı Jean-Marie Roland tarafından verilmiş. <a name="7" class="hidden">Bir mektup</a> İmparator II. Leopold’dan. <a name="8" class="hidden">Bir mektup</a> Brunswick Dükü Charles William Ferdinand’dan.
+$FAB_903_DOC_2_TOOLTIP
+Mareşal de Broglie’nin Baron de Besenval’e verdiği emir
+$FAB_903_DOC_2_00
+	Efendim! 
+	
+	Herhangi bir sebep ortaya çıkarsa, Majestelerinin emrettiği gibi, isyancılara tereddüt etmeden ateş açın. Merhamet göstermeyin; onlar da göstermeyecektir. 
+														
+														V.F. de Broglie
+$FAB_903_DOC_3_TOOLTIP
+İçişleri Bakanı Jean-Marie Roland tarafından verilen talimatlar
+$FAB_903_DOC_3_00
+	Sözde Ulusal Meclis’in vekilleri dikkatle sorgulanmalı ve içlerinden biri sağduyu gösterip Meclis’i desteklemekten vazgeçerse, ona olağanüstü yüksek bir maaş verilip Majestelerinin şükranları iletilmelidir.
+	
+$FAB_903_DOC_4_TOOLTIP
+İmparator II. Leopold'dan bir mektup:
+$FAB_903_DOC_4_00
+	Tanrı’nın lütfu ve yardımıyla, Majestelerinin yakında İmparatorluk sınırlarına varacağına inanıyoruz; böylece Hem Majestelerine hem de Sevgili Kız Kardeşimize güvenlik sağlayabilir ve Fransa sınırları içinde doğal Avrupa düzenini yeniden tesis etmek için gerekli adımları atabiliriz. 
+	
+Kutsal Roma İmparatoru, Macaristan, Bohemya, Hırvatistan, Dalmaçya, Slavonya, Galiçya, Lodomeria ve diğerlerinin Kralı — II. Leopold Habsburg 
+M.S. 1791, 15 Mayıs.
+$FAB_903_DOC_5_TOOLTIP
+Brunswick Dükü Charles William Ferdinand’dan bir mektup
+$FAB_903_DOC_5_00
+	Yüce Majesteleri!
+	Yakında Majestelerini kurtarmak için geleceğiz. Ancak şimdilik, Majestelerinden sadık kalan yerel birlikleri toplamasını rica ediyorum. Majestelerinin tebaasını da uyaracağım: Kim olursa olsun, Majestelerine el kaldırmaya cüret eden herkes en ağır sonuçlarla karşılaşacaktır.
+	Ordularım, Majestelerinin ülkesindeki anarşi dalgasını bastırmak için emrimi beklemektedir.
+	
+	Braunschweig-Lüneburg Dükü, Charles William Ferdinand.
+	M.S. 1792, 9 Haziran.
+	
+$FAB_903_OnStart_GUARD_00
+Bay yargıç, binanın önündeki kalabalık öfke içinde. Yakında bir katliam çıkabilir.
+$FAB_903_OnStart_GUARD_01
+Vatandaş Capet’in ihanetiyle ilgili gizli delillerin ortaya çıktığına dair bir söylenti yayıldı. Halk çılgına döndü.
+$FAB_903_OnStart_KING_00
+Hangi deliller?
+$FAB_903_OnStart_JUDGE_00
+Onların yanına gideceğim. Dönene kadar hepinizin yerinizde kalmasını rica ediyorum.
+$FAB_903_OnStart_MENTOR_00
+Doğru. Capet’nin suçluluğuna dair kanıtlar bulundu.
+$FAB_903_OnStart_PROSECUTOR_00
+Gerçekten mi?!
+$FAB_903_OnStart_00
+Sanık, güvenli demir dolabını ve içindeki belgeleri Konvansiyon’dan neden gizlediğini açıklamak ister mi?
+$FAB_903_OnStart_01
+Konvansiyon’dan hiçbir şey gizlemedim. Kimse bana böyle şeylerin varlığını sormadı.
+$FAB_903_OnStart_02
+Yazışmalarınızı kilit altında, ustaca gizlemişsiniz. Ancak usta bir çilingirin yardımıyla ele geçirilebildi.
+$FAB_903_OnStart_03
+Varlıklı her Parislinin kilitli bir dolabı vardır. Ben ise, doğrusu, çilingirliğe fazlasıyla ilgi duyuyorum.
+$FAB_903_OnGuilty_00
+Vatandaş Capet’i giyotinle idama mahkûm ediyorum! Mahkûmu götürün.
+$FAB_903_OnGuilty_01
+Halk yaşasın!
+$FAB_903_OnGuilty_02
+Kahrolsun zorba!
+$FAB_903_OnPrison_00
+Vatandaş Capet’i hapse mahkûm ediyorum! Götürün onu.
+$FAB_903_OnPrison_01
+Yargıcı derhal tutuklayın!
+$FAB_903_OnPrison_02
+İnanılmaz!
+$FAB_903_OnNotGuilty_00
+Vatandaş Capet davasında verilen hüküm… suçsuz! Sanık serbest bırakıldı.
+$FAB_903_OnNotGuilty_01
+Yargıcı derhal tutuklayın!
+$FAB_903_OnNotGuilty_02
+İnanılır gibi değil!
+$FAB_903_04x05_00_QTitle
+İmparatorun ve Brunswick Dükü'nün planlarından haberdardınız. Neden siz…?
+$FAB_903_04x05_00_00
+İmparatorun ve Brunswick Dükü'nün planlarından haberdardınız. Neden Ulusal Meclis'i ve orduyu uyarmadınız?
+$FAB_903_04x05_00_01
+…
+$FAB_903_04x05_00_02
+Daha yüksek sesle konuşmalısınız.
+$FAB_903_04x05_00_03
+Tehditlerini ciddiye almadım.
+$FAB_903_04x05_00_04
+Bu ihanete kokuyor.
+$FAB_903_04x05_00_05
+İzin verin alıntı yapayım: “Ordularım emrimi bekliyor.” Sizce de bu ciddi bir tehdit değil mi?
+$FAB_903_04x05_00_06
+Prens Charles acelecidir, ama Fransa'ya saldırmaya cesaret edeceğini asla düşünmemiştim.
+$FAB_903_01x06_01_QTitle
+Sanık, rüşvet girişimlerinden sorumlu muydu…
+$FAB_903_01x06_01_00
+Sanık, Meclis’i feshetmek amacıyla milletvekillerini rüşvetle ayartmaya teşebbüs etmekten sorumlu muydu?
+$FAB_903_01x06_01_01
+O belgeyi ben imzalamadım, efendim.
+$FAB_903_01x06_01_02
+Ama bu, sanığın eşyaları arasında bir gizli bölmede bulundu. Kralın teşekkürlerinden açıkça söz ediyor.
+$FAB_903_01x06_01_03
+Niyetim, Bakan Roland’ı yetkisini kötüye kullandığı için yargılamaktı. Bu belgeyi de o gün için sakladım.
+$FAB_903_01x06_01_04
+Üç yıldır gerçekleşmeyen bir duruşma bu!
+$FAB_903_01x06_01_05
+Olması gereken bir duruşma. Roland, giyotine itiraf edecek!
+$FAB_903_01x06_01_06
+Bunun sorumlusu adalet bakanıdır. Ona soruşturma başlatmasını ve içişleri bakanını cezalandırmasını emrettim.
+$FAB_903_05x03_02_QTitle
+O halde, imparator yolculuktan hemen önce neden görmek istediğini söylemiş olsun…
+$FAB_903_05x03_02_00
+O halde, imparator neden tam da yolculuktan önce, sanık ile ailesini kendi topraklarında görmeyi beklediğini söylemiş olsun?
+$FAB_903_05x03_02_01
+Sadece bir tesadüf. İmparator, yalnızca kız kardeşinin hayatından endişe ediyordu. Avrupa monarklarının Devrim’e bakışı zaten çarpık; onu monarşiye karşı bir silah olarak görüyorlar.
+$FAB_903_05x03_02_02
+Montmédy’deki kuvvetlerin Avusturya’ya kadar sanığı eşlik etmeye hazır olması da tesadüf müydü?
+$FAB_903_05x03_02_03
+Yemin ederim, bununla hiçbir alakam yok!
+$FAB_903_01x07_03_QTitle
+Sanık, imparatorun kuvvetlerini Fransa'ya yönlendirmeyi amaçladı mı?
+$FAB_903_01x07_03_00
+Sanık, imparatorun kuvvetlerini Fransa'ya yönlendirmeyi amaçladı mı?
+$FAB_903_01x07_03_01
+Kesinlikle yapmadım.
+$FAB_903_01x07_03_02
+İmparator, mektubunda Fransa’ya “düzeni geri getirme” niyetini açıkça belirtmişti.
+$FAB_903_01x07_03_03
+İmparator Leopold’un planlarını bilmiyorum, fakat hiç kimsenin Fransız kanı dökmesine asla izin vermem.
+$FAB_903_01x07_03_04
+Ancak düşman bir hükümetten gelen böyle bir teklif sizi kötü bir duruma düşürüyor, kabul etmelisiniz.
+$FAB_903_01x07_03_05
+Tanrım, bu sadece kayınbiraderimle aramdaki özel yazışma!
+$FAB_903_01x07_03_06
+Mektuplar hükümdarlar arasında yazılıp ulusal güvenliği ilgilendiriyorsa, mesele artık kişisel değildir.
+$FAB_903_06x05_04_QTitle
+Vatandaş, Bakan Jean-Marie Roland’ı sadık bir hizmetkâr olarak tanımlar mıydınız?
+$FAB_903_06x05_04_00
+Vatandaş, Bakan Jean-Marie Roland’ı sadık bir hizmetkâr olarak tanımlar mıydınız?
+$FAB_903_06x05_04_01
+Her zaman Fransa'ya ve Devrim'e sadıktı. Bir zamanlar ona büyük saygı duyardım.
+$FAB_903_06x05_04_02
+Burada, bakanın Konvansiyon vekillerine rüşvet verilmesini teşvik ettiği bir mektup var. Ayrıca, yeni delillerin bulunduğu dolap ortaya çıktığında, Roland’ın yardımcılarını dışarı çıkardığını ve içerikleri tek başına dikkatlice incelediğini duydum…
+$FAB_903_06x05_04_03
+Bir toplantıda, Konvansiyon’da beni destekleyecek tek bir dürüst adam bulabilsem, Cumhuriyet’in dengesini kurtarabileceğimizi şakayla söylemiştim…
+$FAB_903_06x05_04_04
+Görünüşe göre, şakanızın mizahsızlığı fazlasıyla ciddiye alınmış.
+$FAB_903_06x05_04_05
+Geriye kalanlara bakınca, bakanın hangi belgeleri yok etmeyi başardığını düşünmek bile korkutucu.
+$FAB_903_06x05_04_06
+Umarım sanık işini kaybetmez. Yazık olurdu...
+$FAB_903_02x08_05_QTitle
+İsviçre Muhafızları, dükün Paris’e saldırısı sırasında yardım etmeyecek miydi?
+$FAB_903_02x08_05_00
+İsviçre Muhafızları, dükün Paris’e saldırısı sırasında yardım etmeyi planlıyor muydu?
+$FAB_903_02x08_05_01
+Hayır, onların tek görevi ailemi korumaktı.
+$FAB_903_02x08_05_02
+Ağustos olaylarından önce Muhafızların sayısını iki katına çıkardınız. Her şey sanki Brunswick Dükü’nün planına göre ilerliyormuş gibi görünüyor…
+$FAB_903_02x08_05_03
+Saçmalık! Prens Charles’ın bu mektupta dile getirdiği niyetlerden ben sorumlu tutulamam! Zaten başarısızlığa mahkûm olan bir saldırıda, kendi halkıma neden karşı çıkayım?
+$FAB_903_KEY_01
+Otoritesini savunmak
+$FAB_903_KEY_02
+Silahlı kuvvetlerin toplanması
+$FAB_903_KEY_03
+Kaçma girişimi
+$FAB_903_KEY_04
+Uluslararası komplo
+$FAB_903_KEY_05
+Devrimi Bastırmak
+$FAB_903_KEY_06
+Bakanın emri
+$FAB_903_KEY_07
+İmparatordan mektup
+$FAB_903_KEY_08
+Dükten mektup
+$FAB_903_LastDialog_00
+Masum bir adam olarak ölüyorum. Düşmanlarımı affediyorum.
+$FAB_903_UNIQUE_QUESTION_00
+Vatandaş Capet’in emriyle politikacıları kim satın alıyordu?
+$FAB_903_UNIQUE_QUESTION_01
+Sanığın ifadesine göre, İmparator II. Leopold ona neden mektup yazmış?
+$FAB_903_UNIQUE_QUESTION_02
+Vatandaş Capet, Roland’a verdiği yolsuzluk görevinin gerekçesini açıkladı mı?
+$FAB_903_UNIQUE_QUESTION_03
+Vatandaş Capet, Brunswick Dükü’nün planları hakkında Ulusal Meclis’i neden uyarmadı?
+$FAB_903_UNIQUE_ANSWER_CORRECT_00_00
+Jean-Marie Roland.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Arnaud II de La Porte.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Honoré Gabriel Riqueti.
+$FAB_903_UNIQUE_ANSWER_CORRECT_01_00
+Kız kardeşi Marie Antoinette’in hayatı için endişeleniyordu.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Arkadaşı Yurttaş Capet’in hayatı için endişeliydi.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Masum Yurttaşların hayatı için endişeliydi.
+$FAB_903_UNIQUE_ANSWER_CORRECT_02_00
+Bunun sadece bir şaka olduğunu iddia ediyor.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Görünüşe göre yanlış konuşmuş.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Durumun yaşandığını inkâr ediyor.
+$FAB_903_UNIQUE_ANSWER_CORRECT_03_00
+Tehdidi ciddiye almadı.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Unuttu.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Uyarıda bulunduğunu, ancak dikkate alınmadığını iddia ediyor.

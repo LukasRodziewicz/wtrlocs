@@ -1,0 +1,162 @@
+$GEN_050_DOC_01_HEADER
+Compilado por: Charles Etienne
+$GEN_050_DOC_01_00
+	<a name="1" class="hidden">Tres soldados rasos</a> de las unidades acantonadas detrás de la prisión Porte-Libre robaron seis gansos de una granja en las afueras. El dueño de la granja, Jean Capel, presenció el robo cometido por los infantes.
+$GEN_050_DOC_01_01
+	Armado con una horca, Capel intentó detener a los soldados. Uno de los soldados apuntó <a name="3" class="hidden">con un mosquete</a> y lo amenazó con disparar. Más tarde, Capel declaró que estaba tan asustado que se sintió mareado y corrió hacia el chiquero.
+$GEN_050_DOC_01_02
+	El campesino informó del robo a un oficial apostado cerca, y de inmediato se dio la orden de encontrar a los culpables. A uno de los soldados lo hallaron pronto en una iglesia abandonada. <a name="5" class="hidden">Asaba tres aves</a> sobre un pequeño fuego. Los gendarmes lo arrestaron y le confiscaron el arma: una bayoneta reglamentaria. El detenido no delató a sus cómplices, ni siquiera cuando le prometieron que evitaría el juicio a cambio.
+$GEN_050_OnStart_00
+¿Soldado Gaubert?
+$GEN_050_OnStart_01
+Soldado Michel Gaubert, monsieur le juge.
+$GEN_050_OnStart_02
+¿Cuánto tiempo lleva en el ejército?
+$GEN_050_OnStart_03
+Un año y cuatro meses, monsieur le juge.
+$GEN_050_OnStart_04
+¿Robó usted los gansos de Jean Capel?
+$GEN_050_OnStart_05
+Yo, eh... bueno... Simplemente pasó que lo hice.
+$GEN_050_OnStart_06
+¿Simplemente ocurrió? ¿Qué significa eso?
+$GEN_050_OnStart_07
+Explíquese.
+$GEN_050_OnStart_08
+Por ese lado de París no pasaba gran cosa, y tampoco teníamos mucho para comer.
+$GEN_050_OnGuilty_00
+Soldado Gaubert, alzaste la mano contra el pueblo que juraste proteger. Solo cabe un veredicto: la muerte.
+$GEN_050_OnGuilty_01
+Eso es lo que les ocurre a los ladrones.
+$GEN_050_OnGuilty_02
+¡Encuentra a los otros dos y córtales la cabeza!
+$GEN_050_OnNotGuilty_00
+No puedo castigar a nuestros soldados solo porque nuestro ejército no puede darles pan. Declaro inocente al soldado Gaubert.
+$GEN_050_OnNotGuilty_01
+¡Lo ha confesado todo! En tiempos de guerra debemos ser más severos, no más indulgentes.
+$GEN_050_OnNotGuilty_02
+Ve al pueblo y cuéntales eso a los campesinos, que ahora serán saqueados por esos bandidos con uniforme.
+$GEN_050_01x05_00_QTitle
+Erais tres, pero os quedasteis con tres de los seis pájaros robados. ¿Por qué?
+$GEN_050_01x05_00_00
+Erais tres, pero os quedasteis con tres de los seis pájaros robados. ¿Por qué?
+$GEN_050_01x05_00_01
+Me dijeron que asara a tres de inmediato mientras ellos iban a esconder el resto del botín. Pero no volvieron.
+$GEN_050_01x05_00_02
+Leí en los archivos que se negó a darnos sus nombres.
+$GEN_050_01x05_00_03
+No los conozco. No eran de los nuestros.
+$GEN_050_01x05_00_04
+¿A qué te refieres?
+$GEN_050_01x05_00_05
+No eran de nuestra unidad. Me encantaría poder describirlos, pero eran… gente común. De mi edad, con uniforme… aunque uno tenía las orejas muy salidas.
+$GEN_050_01x05_00_06
+¿Y ahora van a buscar a los culpables mirando las orejas de la gente? ¡Qué ridiculez!
+$GEN_050_01x05_00_07
+Al menos díganos sus nombres de pila, y tal vez crea que no los está encubriendo.
+$GEN_050_01x05_00_08
+Creo que uno de ellos llamó al otro Louis, pero no estoy seguro.
+$GEN_050_03x06_01_QTitle
+¿Amenazó usted al campesino con su mosquete?
+$GEN_050_03x06_01_00
+¿Amenazó usted al campesino con su mosquete?
+$GEN_050_03x06_01_01
+No fui yo...
+$GEN_050_03x06_01_02
+Claro, eso dicen todos.
+$GEN_050_03x06_01_03
+No mataría a una persona por un simple ganso, monsieur le juge, aunque estuviera hambriento como un lobo.
+$GEN_050_03x06_01_04
+Pero se llevó la bayoneta. ¿Por qué?
+$GEN_050_03x06_01_05
+Tenía que arreglármelas con las aves de alguna manera. Podía romperles el cuello con mis propias manos, pero ¿y después, cómo las destripaba?
+$GEN_050_03x06_01_06
+¿Y si el campesino te hubiera atacado con la horca?
+$GEN_050_03x06_01_07
+¿Y qué?
+$GEN_050_03x06_01_08
+¿Habría intentado defenderse?
+$GEN_050_03x06_01_09
+Bueno, solo si hubiera querido apuñalarme…
+$GEN_050_03x06_01_10
+Se han vuelto locos de hambre.
+$GEN_050_01x04_02_QTitle
+¿Qué órdenes recibieron sus tropas?
+$GEN_050_01x04_02_00
+¿Qué órdenes recibieron sus tropas?
+$GEN_050_01x04_02_01
+Detrás de la prisión hay un camino que va hacia el sur, a Étampes. Nos asegurábamos de que la caballería enemiga no nos atacara desde esa dirección.
+$GEN_050_01x04_02_02
+¿Cuántos de ustedes había allí?
+$GEN_050_01x04_02_03
+Unas trescientas, más o menos. No estoy seguro.
+$GEN_050_01x04_02_04
+¿A qué distancia estaba la iglesia donde fue detenido?
+$GEN_050_01x04_02_05
+¿Por qué no le pregunta también cómo se llaman las vacas de sus padres y qué talla de sombrero usa?
+$GEN_050_01x04_02_06
+Eso fue en otra dirección, más hacia el oeste.
+$GEN_050_01x04_02_07
+¿Por qué no llevaste los gansos a tu campamento? Si tenías que robar comida, al menos podrías haberla compartido.
+$GEN_050_01x04_02_08
+Si lo hubiera llevado al campamento, no me habría tocado ni un bocado. Los oficiales también tienen estómago.
+$GEN_050_02x03_03_QTitle
+Empecemos por el principio: ¿a quién se le ocurrió ir a buscar comida armados?
+$GEN_050_02x03_03_00
+Empecemos por el principio: ¿a quién se le ocurrió la idea de salir en busca de comida armados?
+$GEN_050_02x03_03_01
+¿Importa acaso? Nadie lo obligó a ir.
+$GEN_050_02x03_03_02
+Estaba lavando vendas para los pies con los otros dos y, de una cosa llevó a la otra.
+$GEN_050_02x03_03_03
+¿Una cosa llevó a la otra?
+$GEN_050_02x03_03_04
+Hablamos de lo hambrientos que estábamos y luego empezamos a pensar en lugares donde podríamos conseguir algo de comida.
+$GEN_050_02x03_03_05
+¿Así que simplemente decidiste robar algo?
+$GEN_050_02x03_03_06
+Me habría encantado comprarlo, pero no tenía ni una sola moneda en los bolsillos.
+$GEN_050_02x03_03_07
+¿Por qué trajiste tu mosquete?
+$GEN_050_02x03_03_08
+Hice la misma pregunta, pero uno de ellos dijo que podríamos cazar algo en el camino. Me reí de él, porque ¿qué podríamos encontrar? A lo sumo, un perro o una rata gorda.
+$GEN_050_02x03_03_09
+O un campesino. ¡Un puñado de bandidos disfrazados de soldados!
+$GEN_050_KEY_01
+Tres soldados
+$GEN_050_KEY_02
+Seis gansos
+$GEN_050_KEY_03
+Mosquete
+$GEN_050_KEY_04
+Iglesia abandonada
+$GEN_050_KEY_05
+Asado
+$GEN_050_KEY_06
+Bayoneta
+$GEN_050_LastDialog_00
+Todo eso solo porque tenía hambre. ¿Alguna vez darán de comer a gente como yo? Usted no ha estado en mi lugar…
+$GEN_050_UNIQUE_QUESTION_00
+¿Por qué llevaba el acusado una bayoneta?
+$GEN_050_UNIQUE_ANSWER_CORRECT_00_00
+Destripar un ave.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Amenazar al campesino.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Siempre lo lleva consigo.
+$GEN_050_UNIQUE_QUESTION_01
+¿Qué órdenes recibieron las tropas de Gaubert?
+$GEN_050_UNIQUE_ANSWER_CORRECT_01_00
+Estaban vigilando el camino.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Estaban construyendo fortificaciones.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Se preparaban para flanquear al enemigo.
+$GEN_050_UNIQUE_QUESTION_02
+¿El soldado reveló los nombres de sus cómplices?
+$GEN_050_UNIQUE_ANSWER_CORRECT_02_00
+Solo uno.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Dio los nombres.
+$GEN_050_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Se negó a responder.

@@ -1,0 +1,76 @@
+$INTRIGUE_TITLE_001
+Jean-Marie Roland
+$INTRIGUE_DESC_001
+Capet’nin demir kasasında bulunan belgeler, Roland hakkında şüphe uyandırdı. Bakan, kendisiyle alay eden Mahkemeden nefret ediyor ve bunu size asla affetmeyecek. Zeki eşi ise size karşı çok daha büyük bir kin besliyor.
+$INTR_BLOCK_001_TITLE
+Bir Tanığı İkna Etmek
+$INTR_BLOCK_001_DESC
+Şu ana kadar Roland’ın belgeleri yok ettiğine dair sadece söylentiler var. Eğer çevresinden biri bunu doğrularsa elimizde güçlü bir koz olur! Potansiyel bir adayımız var – Philippe Côté, Capet’nin demir kasasını açanlar arasındaydı.
+$INTR_BLOCK_002_TITLE
+Dedikodu Yaymak
+$INTR_BLOCK_002_DESC
+Roland demir dolabın içeriğini fark ettiğinde, iddiaya göre yalnız kalmak istediğini söylemiş ve kanıtlarla baş başa bırakılmış. Vatandaş Capet’in komplo suçlaması ve delil yetersizliği göz önüne alındığında, bakanı kanıtları yok etmekle suçlamayı deneyebiliriz. Côté’nin bu sansasyonel ayrıntıları doğrulaması kesinlikle işimize yarar…
+$INTR_BLOCK_003_TITLE
+Destek Kazanmak
+$INTR_BLOCK_003_DESC
+Oyalanıp düşmanımızın toparlanmasına izin veremeyiz. Tüm söylentileri ve suçlamaları kullanmalı, oturum sırasında bakana saldıracak Konvansiyon vekilleri üzerinde çalışmalıyız.
+$INTR_BLOCK_004_TITLE
+Hanriot Ailesine Şiddet Uyguluyor
+$INTR_BLOCK_004_DESC
+Kendisini Konvansiyon’dan gelebilecek olası saldırılara karşı korumak için Roland, Ulusal Muhafızlar Başkomutanlığı’na aday olan François Hanriot’nun ailesine kötü davrandığını açıkladı. Bu iddialar henüz doğrulanmadı. Belki de Roland, bu söylentiyi Hanriot’nun adaylığını baltalamak için kullanmaya çalışacaktır.
+$INTR_BLOCK_005_TITLE
+Yargıç Ailesine Şiddet Uyguluyor
+$INTR_BLOCK_005_DESC
+Buna inanabiliyor musun?! Birileri, karına ve çocuklarına kötü davrandığın, babanı ise karanlık bir hücrede tutup düzenli olarak deri kemerle dövdüğün yönünde yalanlar yayıyor. Görünüşe göre, alkolizminle ilgili dedikodular seni küçük düşürmeye yetmemiş, bu yüzden yazar bir adım daha ileri gitmiş. Kim olduğu ise sana gayet açık. Bu dedikodular daha kötü bir şeye dönüşmeden hemen son ver buna!
+$INTR_BLOCK_006_TITLE
+Bakanın Eşinin İfşası
+$INTR_BLOCK_006_DESC
+Ailenin asıl lideri Madame Roland’dır. Son derece hırslı ve kocasının kariyerini ustalıkla yönlendirerek onu daha itibarlı mevkilere taşır. Bakanın, önemli bir kararı önce onunla konuşmadan aldığına hiç inanmıyorum. Onun sözde siyasi salonu ise aslında gizli bir genelevden ibaretmiş. Saldırıya geçmeliyiz. Onları hem gelirlerinden hem de bilgi kaynaklarından mahrum bırakmalıyız.
+$INTR_BLOCK_007_TITLE
+Karşı Saldırı
+$INTR_BLOCK_007_DESC
+Vatandaş Robespierre ve casusları, Jirondenlerin sözde Yakobenlere saldırı hazırlığında olduklarını, onları topluca tutuklayıp öldürmek istediklerini bildiriyor. Eğer aristokratlarla yakınlaşan Roland ise, her şey yerli yerine oturuyor. Roland hayatta kaldığınızı biliyor. Konvansiyon’daki olaylardan sonra yeni bir suikast girişimi bekleyebilirsiniz. Robespierre, ilk hamleyi bizim yapmamızı öneriyor. Önemli Jirondenleri tutuklarsak, bir darbede hydranın birçok başını koparmış oluruz!
+$INTR_BLOCK_008_TITLE
+Tutuklama
+$INTR_BLOCK_008_DESC
+Jean-Marie Roland size açıkça saldırdı. Ona karşı elinizde güçlü kanıtlar var, bu yüzden onu mahkûm etmekte bir sorun yaşamazsınız. Öte yandan, karısının kaçmak için yeterli zamanı olabilir ve bu da istenmeyen sonuçlara yol açabilir.
+$INTR_BLOCK_009_DESC
+Suikast girişimi, Jeanne Marie Roland tarafından tutulmuş kişilerce gerçekleştirildi. Başından beri işin arkasında oydu. Onu tutuklayarak sorunun kaynağını ortadan kaldırmış olacaksınız. Ancak, Konvansiyon tarafından yetkilendirilen kocası, ellerinizden sıyrılacaktır.
+$INDICTMENT_TITLE
+İDDİANAME
+$INDICTMENT_INTR001_DESC02
+Antiboul, Genç Boilleau, Boyer-Fonfrède, Brissot, Carra, Duchastel, Genç Ducos, Dufriche de Valazé, Duprat, Fauchet, Gardien, Gensonné, Lacaze, Lasource, Lauze-Deperret, Lehardi, Lesterpt-Beauvais, Yaşlı Minvielle, Sillery, Vergniaud, Viger
+$INTR_BLOCK_002_PATH_STR
+Sadık yardımcınız mahkeme muhafızı Raphaël Clovis, bazılarına Roland’ın ne kadar büyük bir tehdit olduğunu kafalarına iyice sokmak zorunda kalacak…
+$INTR_BLOCK_002_PATH_DIP
+Saygın Jacques-Louis David’in ağzından çıkacak birkaç sıradan söz, bir çığ başlatmaya yeter…
+$INTR_BLOCK_004_PATH_STR
+Bu söylentileri yayanları bulup onlardan kurtulmak en iyisi olur!
+$INTR_BLOCK_004_PATH_DIP
+Hanriot, mutluluğunu göstermek için ailesiyle birlikte halkın karşısına çıkmak zorundaydı.
+$INTR_BLOCK_005_PATH_STR
+Mahkeme Yargıcının ailesi dokunulmazdır. Bir dedikoducunun kemiklerini kırmak yeterli olur – gerisi hatasını hemen anlar.
+$INTR_BLOCK_005_PATH_DIP
+Eşiniz, birkaç önemli sans-culotte’un eşleri ve sevgileryle fısıldaşıp ailenizin ne kadar kusursuz olduğunu anlatacak.
+$INTR_BLOCK_006_PATH_STR
+Hanriot’nun Muhafızlarının o mekanı altüst etmesini istiyorum. Mutlaka bir şey bulup o genelevi kapatacaklardır!
+$INTR_BLOCK_006_PATH_DIP
+Konvansiyon milletvekillerinin eşleri, kocalarının sıkça uğradığı o “politik salonun” gerçek yüzünü öğrenecek. Ardından Roland’ın genelevinin sonsuza dek kapatılmasını sağlamak için sizi zorlayacaklar.
+$INTR_BLOCK_002_PATH_STR_FAILURE
+Monarşi, sıradan Fransızların kafasını iyice katılaştırdı. Onlara akıl vermek gerçekten zor…
+$INTR_BLOCK_002_PATH_DIP_FAILURE
+Halk, David’in sözlerine temkinli yaklaşıyor. Elçilerinizin henüz güçlü bir itibarı yok.
+$INTR_BLOCK_004_PATH_STR_FAILURE
+Ajansınız dedikoduların kaynağını tespit edemedi. Bu iş kesinlikle ona göre değildi.
+$INTR_BLOCK_004_PATH_DIP_FAILURE
+Halk, durumun bir aldatmaca olduğunu sezdi ve büyük ifşaya alayla yaklaştı.
+$INTR_BLOCK_005_PATH_STR_FAILURE
+Kırılmış kemiklere rağmen, söylenti artık kendi başına bir hayat buldu. Şimdi durdurmak için Paris’in yarısını dövmeniz gerekir.
+$INTR_BLOCK_005_PATH_DIP_FAILURE
+Kadınlar, Mathilde’in sözlerini dinlemekten çok çaylarını karıştırmakla meşguldü…
+$INTR_BLOCK_006_PATH_STR_FAILURE
+Görünüşe göre biri Madame Roland’ı açığa çıkma tehlikesi konusunda uyarmış. Anlaşılan Muhafızlar arasında kaynakları var.
+$INTR_BLOCK_006_PATH_DIP_FAILURE
+Sadece birkaç kadın ikna oldu. Geri kalanlar, kocalarının yanında rahat hayatlarını kaybetmekten korktukları için hiçbir şey yapmayacak.
+$INTR_SLOT_07_DESC
+Adalete kimlerin çıkarılacağına karar verin.

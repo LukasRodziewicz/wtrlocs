@@ -1,0 +1,12 @@
+$EVE_032_TITLE
+Complot monarchiste
+$EVE_032_MAIN_01
+La voilà, la première pièce du puzzle. Remplissons le reste avec les cadavres d'agents ennemis…
+$EVE_032_MAIN_02
+Nous touchons au but. Nous découvrirons bientôt l'identité de « R ». Il ne nous faut plus que quelques cadavres…
+$EVE_032_MAIN_03
+C'était Renard depuis le début. Un agent a crié le nom de son supérieur juste avant de mourir. Renard. Lorsque vous aurez révélé cette information, ses hommes auront du mal à rester dans les rues de Paris. Avez-vous alors quelque chose à gagner en gardant le silence ? Eh bien, il y aura sans doute des troubles dans la ville. Les gens vont se mettre à pourchasser les traîtres. Et si le véritable pouvoir s'obtenait non pas par le combat, mais par une alliance ?
+$EVE_032_MAIN_03_C1
+Révélez l'information
+$EVE_032_MAIN_03_C2
+Gardez l'information pour vous

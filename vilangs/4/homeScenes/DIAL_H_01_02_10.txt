@@ -1,0 +1,32 @@
+$DIAL_H_01_02_10_001_HANRIOT
+Ihre Frau sagte mir, wenn ich die Unterstützung gerechter Menschen suche, sollte ich sie in Ihrem Hause finden.
+$DIAL_H_01_02_10_002_WIFE
+Ja, Bürger Hanriot. Mein Mann wird Ihre Kandidatur für das Amt des Oberbefehlshabers nur zu gern unterstützen.
+$DIAL_H_01_02_10_003_JUDGE
+Warum fühlt sich das an, als wäre alles schon beschlossen?
+$DIAL_H_01_02_10_004_HANRIOT
+Bitte seien Sie Ihrer Frau nicht böse. Ich bin sicher, dass sie in bester Absicht gehandelt hat, als sie diese Versprechen gab.
+$DIAL_H_01_02_10_005_WIFE
+Wie könnte jemand einem so angesehenen Offizier die Unterstützung verweigern? Ich bin sicher, mein Mann wird Ihre Verdienste ebenso anerkennen wie ich.
+$DIAL_H_01_02_10_006_JUDGE
+Zweifellos. Aber wie kann ich mir sicher sein, wenn es so viele andere Bewerber gibt?
+$DIAL_H_01_02_10_007_HANRIOT
+Nun, ich respektiere die anderen Kandidaten, sie sind anständige Menschen. Doch ich kann Ihnen das Wertvollste anbieten – meine Loyalität. Wenn wir zusammenarbeiten, können wir beide davon profitieren… und vielleicht auch Paris.
+$DIAL_H_01_02_10_008_JUDGE
+Unsere Familie schätzt Aufrichtigkeit und Treue sehr, nicht wahr, meine Liebe? Außerdem respektieren wir die Grenzen des anderen.
+$DIAL_H_01_02_10_009_WIFE
+Ganz genau.
+$DIAL_H_01_02_10_010_HANRIOT
+Natürlich. Diese abscheulichen Gerüchte über Ihre angeblichen Laster müssen endlich ein Ende finden! Seien Sie gewiss, ich vergesse niemals, wem ich einen Gefallen schulde.
+$DIAL_H_01_02_10_011_JUDGE
+Bislang sind das nur Worte, Bürger Hanriot.
+$DIAL_H_01_02_10_012_HANRIOT
+Ich bin mir sicher, dass kein anderer Kandidat um Ihre Unterstützung gebeten hat. Sie halten Sie nicht für würdig, ihre Freundschaft zu genießen. Doch ich, François Hanriot, bin anders – und so sind es auch meine Worte.
+$DIAL_H_01_02_10_013_WIFE
+Ich bin sicher, dass mein Mann das längst bemerkt hat.
+$DIAL_H_01_02_10_014_HANRIOT
+Danke. Was auch immer das Volk schreit, Paris ist nur so stark wie seine geeinten Eliten.
+$DIAL_H_01_02_10_015_JUDGE
+Ich werde das Versprechen meiner Frau nicht zurücknehmen, aber künftig kommen Sie bitte zuerst zu mir.
+$DIAL_H_01_02_10_016_HANRIOT
+Aber natürlich…

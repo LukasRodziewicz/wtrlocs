@@ -1,0 +1,246 @@
+$FAB_004_DOC_1_HEADER
+Compilé par : Nathan d'Essiraf
+$FAB_004_DOC_1_00
+L'accusé se nomme Olivier Mugler, <a name="1" class="hidden">un maître serrurier</a> de 65 ans, réputé auprès des cambrioleurs parisiens pour son expertise en matière de serrures inviolables.
+$FAB_004_DOC_1_01
+Le mois dernier, les propriétaires d'une verrerie parisienne - Jean Rude, Louis Roux et Ferdinand Salan - lui confièrent la <a name="2" class="hidden">fabrication de serrures</a> conçues pour des coffres décorés, vraisemblablement en guise de présents pour que leurs épouses puissent y déposer des objets de valeur. L'artisan a porté aux nues sa dernière création, vantant qu'elle était « à l'épreuve des vols ». Peu après la fin de leur installation, les industriels furent victimes <a name="3" class="hidden">d'une série de cambriolages</a>, perpétrés par Hector Vian, arrivé récemment à Paris. Le <a name="4" class="hidden">voleur d'Orléans</a> fut pris en flagrant délit et tué par balle par Ferdinand Salan.
+$FAB_004_DOC_1_02
+Sur le corps de la victime, on retrouva un précieux plan de Turgot de la ville de Paris, sur lequel figuraient les <a name="5" class="hidden">demeures</a> des industriels ayant récemment fait l'objet de cambriolages. Étonnamment, Salan avait fait don d'un plan identique à Mugler, à titre de paiement anticipé. Cet acompte s'ajoutait à la rémunération convenue de la part des employeurs.
+$FAB_004_DOC_1_03
+La propriétaire de l'hôtel Ginger Margot nous a fourni d'autres informations intéressantes. Elle se souvient que, le soir précédant le cambriolage, le serrurier y avait rencontré un homme qu'elle ne connaissait pas. Sa description correspond au susmentionné Hector Vian. Les deux hommes se livrèrent à une <a name="7" class="hidden">nuit de beuverie</a> aux frais de Mugler. 
+$FAB_004_DOC_1_04
+Pièce à conviction :
+$FAB_004_DOC_1_05
+<a name="8" class="hidden">Plan de Paris</a> retrouvé sur Hector Vian.
+$FAB_004_OnStart_00
+Voler les bourgeois n'est pas un crime !
+$FAB_004_OnStart_01
+Selon les informations qui apparaissent dans nos dossiers, tu es le citoyen Olivier Mugler, est-ce exact ?
+$FAB_004_OnStart_02
+C'est bien cela, Monsieur le juge. Puis-je émettre une demande ? Je souhaiterais m'asseoir. Je ne suis plus tout jeune et...
+$FAB_004_OnStart_03
+Se tenir debout est un respect fondamental dans une cour de justice. Les noms Salan, Rude et Roux te sont-ils familiers ?
+$FAB_004_OnStart_04
+Pourquoi vouloir à tout prix persécuter un vieil homme ?
+$FAB_004_OnStart_05
+On dirait les noms de mes débiteurs.
+$FAB_004_OnStart_06
+Débiteurs ? Ils ont été victimes de tes activités.
+$FAB_004_OnStart_07
+De mes activités de serrurier ?
+$FAB_004_OnPrison_00
+Je condamne le citoyen Mugler à être emprisonné ! Emmenez le condamné.
+$FAB_004_OnPrison_01
+C'est scandaleux !
+$FAB_004_OnPrison_02
+Comment peux-tu faire ça à un homme innocent ?
+$FAB_004_OnPrison_03
+Nous disposons d'indices, de preuves tangibles... et d'un verdict qui arrange bien le juge. Mais es-tu absolument convaincu de sa culpabilité ?
+$FAB_004_OnNotGuilty_00
+Le citoyen Olivier Mugler est déclaré... non coupable ! Emmenez l'accusé.
+$FAB_004_OnNotGuilty_01
+Félicitations, Mugler !
+$FAB_004_OnNotGuilty_02
+Mort à la bourgeoisie !
+$FAB_004_OnNotGuilty_03
+Pour être franc, ce verdict porte la marque de la justice sociale. Ils ne voulaient pas le payer, il les a donc volés. C'est équitable.
+$FAB_004_02x05_00_QTitle
+Les victimes t'avaient confié la fabrication de serrures pour des coffrets à bijoux.
+$FAB_004_02x05_00_00
+Les victimes t'avaient confié la fabrication de serrures pour des coffrets renforcés. Qui s'est chargé de leur installation ?
+$FAB_004_02x05_00_01
+Moi-même, naturellement, conformément au contrat. Ma mission était de concevoir et d'installer la serrure. L'employeur, quant à lui, devait simplement venir et vérifier que le travail avait bien été fait. Et me payer, bien entendu.
+$FAB_004_02x05_00_02
+As-tu procédé à l'installation des serrures dans ton atelier ?
+$FAB_004_02x05_00_03
+Non, sur place, chez le client. Aucun de ces fainéants n'a daigné apporter ces coffres à mon atelier. J'ai dû forcer sur mes vieilles cannes.
+$FAB_004_02x05_00_04
+Cela signifie-t-il que tu connaissais l'adresse des victimes ?
+$FAB_004_02x05_00_05
+Comment m'y serais-je rendu sinon ? Au hasard, à bord d'un chariot ?
+$FAB_004_04x07_01_QTitle
+Connaissais-tu Hector Vian avant cela ?
+$FAB_004_04x07_01_00
+Connaissais-tu Hector Vian avant cela ?
+$FAB_004_04x07_01_01
+C'est la première fois que j'entends ce nom.
+$FAB_004_04x07_01_02
+Intéressant, puisque l'on vous a vu vider ensemble plusieurs bouteilles de vin, à l'hôtel Ginger Margot.
+$FAB_004_04x07_01_03
+Est-ce considéré comme un crime ?
+$FAB_004_04x07_01_04
+Non, mais pourquoi prétends-tu le contraire ? Cette beuverie n'était-elle qu'un prétexte pour préparer les cambriolages ?
+$FAB_004_04x07_01_05
+Je n'ai bu aucun verre avec un dénommé Hector. Je n'ai jamais planifié de cambriolages avec un Hector, un Victor ou un Hugo. Je suis un serrurier qui gagne bien sa vie. Seuls les vagabonds sans emploi commettent ce genre d'actes.
+$FAB_004_06x08_02_QTitle
+Reconnais-tu ce plan ?
+$FAB_004_06x08_02_00
+Reconnais-tu ce plan ?
+$FAB_004_06x08_02_01
+Non. Je ne me souviens pas l'avoir déjà vu.
+$FAB_004_06x08_02_02
+Ferdinand Salan prétend qu'il te l'a offert à titre d'acompte pour tes services.
+$FAB_004_06x08_02_03
+Quoi ?! Ce misérable marchand de seconde zone ! Il m'a donné ce bout de papier en guise de paiement pour la fabrication de trois serrures, et il affirme que cela vaut plus que les trois mille francs qu'il me doit ?!
+$FAB_004_06x08_02_04
+Un travailleur honnête fait l'objet d'une procédure judiciaire alors que des escrocs sont toujours dans la nature !
+$FAB_004_06x08_02_05
+Silence ! Ce plan t'appartient-il ?
+$FAB_004_06x08_02_06
+Non.
+$FAB_004_06x08_02_07
+Où se trouve donc le plan que t'a donné le citoyen Salan ?
+$FAB_004_06x08_02_08
+Je l'ai perdu, mais il ne valait même pas le prix d'une miche de pain, je ne vais donc pas verser de larmes. Mais si tu l'as entre les mains, tu me l'as peut-être volé ! Tu ferais mieux de prendre note qu'Olivier Mugler exige une rémunération de la part de Rude, Roux et Salan !
+$FAB_004_05x08_03_QTitle
+As-tu indiqué les adresses des trois victimes sur le plan ?
+$FAB_004_05x08_03_00
+As-tu indiqué les adresses des trois victimes sur le plan ?
+$FAB_004_05x08_03_01
+Je n'ai rien indiqué du tout.
+$FAB_004_05x08_03_02
+Les maisons de tes clients figurent sur le plan.
+$FAB_004_05x08_03_03
+Je ne sais pas qui les a marquées. Tu devrais peut-être interroger la personne qui détenait ce plan.
+$FAB_004_05x08_03_04
+Peut-être que le tribunal est responsable de ces indications et ne s'en rappelle pas ?
+$FAB_004_05x08_03_05
+Ne trouves-tu pas que ton histoire regorge de coïncidences ? Tu as reçu le plan, puis tu l'as perdu, et enfin on le retrouve sur le corps du voleur qui a cambriolé tes clients ?
+$FAB_004_05x08_03_06
+Le terme coïncidence m'est étranger, je fabrique des serrures.
+$FAB_004_01x02_04_QTitle
+Combien as-tu demandé pour tes services ?
+$FAB_004_01x02_04_00
+Combien as-tu demandé pour tes services ?
+$FAB_004_01x02_04_01
+Trois mille francs.
+$FAB_004_01x02_04_02
+C'est une belle somme...
+$FAB_004_01x02_04_03
+Si tu étais maître serrurier, tu demanderais tout autant.
+$FAB_004_01x02_04_04
+C'est une belle somme d'argent...
+$FAB_004_01x02_04_05
+En effet. C'est le prix à payer pour avoir des serrures de très bonne qualité, réalisées par un maître totalisant presque 50 années d'expérience. Et ces ordures ne m'ont jamais versé un seul franc !
+$FAB_004_01x02_04_06
+Les victimes ne t'ont pas payé la somme convenue ?
+$FAB_004_01x02_04_07
+Pas un sou. Si je n'étais pas aussi vieux, j'irais récupérer cet argent à coups de sabot.
+$FAB_004_04x06_05_QTitle
+As-tu donné le plan à Hector Vian...
+$FAB_004_04x06_05_00
+As-tu donné le plan à Hector Vian en y indiquant les maisons des victimes ?
+$FAB_004_04x06_05_01
+Je n'ai rien donné ni à Achille, ni à Hector, ni à aucun autre Grec.
+$FAB_004_04x06_05_02
+Faites entrer le témoin, le citoyen Jean Rude.
+$FAB_004_04x06_05_04
+Jean Rude, lui-même.
+$FAB_004_04x06_05_05
+Tu ne peux pas prendre la parole sans y être invité.
+$FAB_004_04x06_05_06
+Naturellement.
+$FAB_004_01x03_06_QTitle
+On dit que tu es l'un des meilleurs serruriers de Paris.
+$FAB_004_01x03_06_00
+On dit que tu es l'un des meilleurs serruriers de Paris.
+$FAB_004_01x03_06_01
+Je devrais le démentir par modestie, mais je ne le ferai pas.
+$FAB_004_01x03_06_02
+Pourtant, ce ne peut être vrai, puisqu'un vulgaire voleur d'Orléans est facilement parvenu à forcer tes serrures.
+$FAB_004_01x03_06_03
+Et bien ce devait être l'un des meilleurs voleurs d'Orléans. Soyons sérieux, Monsieur le juge, il est possible de forcer toutes les serrures du monde, même les miennes, à condition d'avoir les compétences requises.
+$FAB_004_02x04_07_QTitle
+As-tu révélé à Hector Vian le secret pour ouvrir...
+$FAB_004_02x04_07_00
+As-tu révélé à Hector Vian le secret pour ouvrir les serrures des coffrets des victimes ?
+$FAB_004_02x04_07_01
+Je vois où tu veux en venir, mais dis-toi bien que s'il dévoilait le secret de mes serrures, je ferais faillite. Les combines se répandent à la vitesse de la lumière chez les voleurs.
+$FAB_004_WIT_00_A_QTitle
+Qu'est-ce qui t'a été dérobé au cours du cambriolage ?
+$FAB_004_WIT_00_A_00
+Qu'est-ce qui t'a été dérobé au cours du cambriolage ?
+$FAB_004_WIT_00_A_01
+J'ai été le premier à être cambriolé, et on m'a principalement volé des objets de valeur. Chez Roux, il ne l'admettra pas lui-même et je ne veux pas aller en prison, des lettres qu'il avait échangées ces dernières années avec le roi Louis ont disparu...
+$FAB_004_WIT_00_A_02
+Maudit monarchiste !
+$FAB_004_WIT_00_A_03
+Salan, quant à lui, n'a rien perdu. D'après ses déclarations, il a pris cette vermine en flagrant délit puis l'a tuée par balle.
+$FAB_004_WIT_00_A_04
+Qu'est-il advenu des objets qu'il avait volés ?
+$FAB_004_WIT_00_A_05
+On l'ignore. Selon Salan, Hector n'avait rien sur lui. Ferdinand le soupçonne d'avoir caché les autres objets de valeur ailleurs.
+$FAB_004_WIT_00_A_06
+Il aurait caché les autres biens avant de cambrioler la dernière maison ? Étrange.
+$FAB_004_WIT_01_A_QTitle
+Tu sembles inquiet. De quoi as-tu peur ?
+$FAB_004_WIT_01_A_00
+Tu sembles inquiet. De quoi as-tu peur ?
+$FAB_004_WIT_01_A_01
+Monsieur le juge, cette foule qui se tient derrière moi, vous... Tu sais...
+$FAB_004_WIT_01_A_02
+Je sais quoi ?
+$FAB_004_WIT_01_A_03
+Je ne veux pas aller en prison et Salan a dit que si je racontais des absurdités devant le tribunal, je serais condamné à plusieurs années de prison. Est-ce vrai ?
+$FAB_004_WIT_01_A_04
+Le citoyen Ferdinand Salan t'a-t-il donné des instructions concernant votre témoignage ?
+$FAB_004_WIT_01_A_05
+Non. Enfin, il m'a peut-être émis quelques suggestions sur la manière d'échapper à la prison si je raconte des balivernes. Je suis quelqu'un d'assez tendu. Parfois, ce que je dis n'a aucun sens.
+$FAB_004_WIT_01_A_07
+Un imbécile plus qu'un témoin. Voilà à quoi ressemble notre bourgeoisie.
+$FAB_004_WIT_01_B_QTitle
+Un plan offert à titre d'acompte, sa disparition, le meurtre d'un cambrioleur, et une rémunération non réglée.
+$FAB_004_WIT_01_B_00
+Un plan offert à titre d'acompte, sa disparition, le meurtre d'un cambrioleur, et une rémunération non réglée. C'est une histoire plutôt étrange qui se dégage de tout cela, voire suspecte.
+$FAB_004_WIT_01_B_01
+Je ne...
+$FAB_004_WIT_01_B_02
+Que marmonnes-tu ?
+$FAB_004_WIT_01_B_03
+Si je dis... quelque chose... serai-je libre ?
+$FAB_004_WIT_01_B_04
+Il sait quelque chose !
+$FAB_004_WIT_01_B_05
+Fais immédiatement état de ce que tu sais !
+$FAB_004_WIT_01_B_06
+Ce plan, c'était l'idée de Salan. Il a tout raconté au voleur concernant l'acompte que l'on avait versé au serrurier. Puis, il a suggéré à Hector de le voler.
+$FAB_004_WIT_01_B_07
+Et l'a-t-il fait ?
+$FAB_004_WIT_01_B_08
+Oui, mais ensuite ce fumier nous a cambriolés !
+$FAB_004_WIT_01_B_09
+Voilà une belle image que nous donne la bourgeoisie ! Il les a tous embobinés en un tournemain.
+$FAB_004_WIT_01_B_10
+Il semblerait que le citoyen Salan avait tout prévu. Il n'existe, toutefois, aucune preuve corroborant cette accusation. Pourquoi ne serait-ce pas le citoyen Rude qui comploterait contre son associé et voudrait le piéger ?
+$FAB_004_WIT_01_B_11
+Et Vian est mort, il ne pourra pas faire la lumière sur cette histoire.
+$FAB_004_WIT_01_B_13
+Si j'étais plus jeune, je flanquerais une raclée à ce Salan. Cette ordure n'est bon à rien à part mentir !
+$FAB_004_WIT_01_B_14
+Un peu de retenue, je te prie. Les déclarations d'un témoin ne constituent aucune preuve, que ce soit concernant la culpabilité de Salan ou ton innocence.
+$FAB_004_KEY_01
+Maître serrurier
+$FAB_004_KEY_02
+Fabrication de serrures
+$FAB_004_KEY_03
+Série de cambriolages
+$FAB_004_KEY_04
+Voleur célèbre
+$FAB_004_KEY_05
+Indications sur le plan
+$FAB_004_KEY_06
+Acompte
+$FAB_004_KEY_07
+Soirée de beuverie
+$FAB_004_KEY_08
+Plan de Paris
+$FAB_004_postCourt_00
+Regarde, un plan authentique de Turgot. Ce serait dommage qu'il moisisse dans un coffre-fort...
+$FAB_004_postCourt_01
+On ne peut pas faire ça.
+$FAB_004_postCourt_02
+Ça appartient au tribunal.
+$FAB_004_postCourt_03
+Mathilde me dit depuis longtemps de ranger mon bureau à la maison...
+$FAB_004_postCourt_04
+Voilà qui est réglé. Je connais quelqu'un qui est capable d'effacer ces indications sans abîmer le plan.

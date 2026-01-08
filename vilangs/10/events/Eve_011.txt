@@ -1,0 +1,18 @@
+$EVE_011_TITLE
+Bilim Adına
+$EVE_011_MAIN_01
+Beni oldukça rahatsız eden haberler aldım. Yerel mezarlığın sakinleri… ayrılmaya başlamış. Evet, ölülerden bahsediyorum. Son iki haftada, farklı yaş ve cinsiyetten üç ceset kayboldu. Ortak noktaları, hepsinin yakın zamanda gömülmüş olması. Kimse hiçbir şey görmemiş; herkes cesetlerin bir anda yok olduğunu söylüyor. Muhafız Kaptanı, mezarlığı gözetleyecek kimseyi görevlendirmeyi reddetti. Bu gidişle, yakında daha fazla cesedin kaybolmasını bekleyebiliriz ve hepimiz başımızın belada olacağını biliyoruz.
+$EVE_011_MAIN_01_C1
+Meseleyi araştır
+$EVE_011_MAIN_02A
+Ne bir mucize vardı ortada, ne de kaybolan cesetlerin ardında cehennemî ya da ilahî güçler. Sadece genç ve meraklı insanlar söz konusuydu. Öğrendiğimize göre, cesetleri mezardan çıkaranlar, onları incelemek ve yaşayanlar üzerinde yapılamayacak deneyler yapmak isteyen tıp öğrencileriydi. Böylesine bir bilgi açlığı takdire şayan olabilir, fakat yol bu mu olmalı? Ayrıca, aileler gerçeği öğrenirse, gençlerin hevesini asla paylaşmayacakları da aşikâr…
+$EVE_011_MAIN_02A_C1
+Öğrencileri uyarın ve bu tür uygulamaları yasaklayın
+$EVE_011_MAIN_02A_C2
+Deneylerin devam etmesine izin ver
+$EVE_011_MAIN_02B
+Aileler, şikayetlerinin kimseyi ilgilendirmediğini fark ettiklerinde memnun olmayacaklar…
+$EVE_011_MAIN_03A
+Ölüler artık kaybolmuyor. Konvansiyon üyelerini azarlamadınız, ama yakalandıklarını anladıklarında kolayca korkutulabilen gençleri uyardınız. Sanmıyorum ki bunu tekrar yapsınlar. En azından sizin görev süreniz boyunca.
+$EVE_011_MAIN_03B
+Öğrenciler, izlerini belli etmemek için cesetleri farklı mezarlıklardan çalacaklarına söz verdiler. En azından bir ilerleme.

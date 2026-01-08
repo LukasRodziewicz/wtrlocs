@@ -1,0 +1,349 @@
+$GEN_001_DOC_01_HEADER
+Compilé par : Raphaël Chalopin
+$GEN_001_DOC_01_00
+Sur le banc des accusés se trouve Laurent Pascal, arrêté pour activité contre-révolutionnaire et pour l'agression d'un gendarme, qui a coûté la vie à ce dernier. L'accusé tient un petit <a name="1" class="hidden">atelier de tissage</a> rue Popincourt dans le 24e section de Paris, à l'arrière duquel il vit seul. C'est là-bas qu'a eu lieu le crime.
+$GEN_001_DOC_01_01
+L'incident au centre de cette affaire a eu lieu hier soir. Suite à la réception par les autorités de Paris d'une dénonciation des <a name="3" class="hidden">activités contre-révolutionnaires</a> du citoyen Pascal, deux gendarmes, Cristobal Rémy et Fabrice Roux, sont arrivés chez lui pour <a name="4" class="hidden">l'emmener</a> et l'interroger.
+$GEN_001_DOC_01_02
+Le rapport indique que le citoyen Pascal s'est engagé dans une discussion tendue avec les gendarmes et a nié les accusations. Il était bruyant et grossier, menaçant <a name="5" class="hidden">violemment</a> les gendarmes. Lorsqu'ils ont essayé de l'arrêter, il s'est débattu et, au cours de la lutte, le citoyen Pascal a fracassé la tête du gendarme Roux contre un encadrement de porte. L'impact était si fort que son crâne s'est ouvert. Le gendarme Rémy a réussi à maîtriser Pascal, l'immobilisant d'un coup de la crosse de son mousquet.
+$GEN_001_DOC_01_03
+<h1>Laurent Pascal</h1>
+Au cours de l'enquête, nous avons demandé aux voisins de l'accusé leur opinion à son sujet. Ils ont décrit Pascal comme une personne impulsive, toujours prête à se battre – tout du moins depuis la mort de sa femme. Le patron d'une auberge de la section indiqua qu'il était un client régulier ces derniers mois et qu'il <a name="7" class="hidden">buvait</a> souvent un peu trop.
+$GEN_001_DOC_01_04
+<a name="2" class="hidden">La femme</a> de l'accusé aurait été décapitée l'été dernier. Malheureusement, rien dans les archives n'indique la raison de sa condamnation.
+$GEN_001_DOC_02_HEADER
+Témoignage de Cristobal Rémy
+$GEN_001_DOC_02_00
+Fabrice était mon ami. Pascal lui a brisé le crâne alors que Fabrice ne lui avait rien fait. Nous devions l'emmener au poste pour l'interroger, ayant quelques doutes sur la déposition qui a été <a name="8" class="hidden">retirée</a> par ce dégénéré de Maxime après la mort de Fabrice...
+$GEN_001_DOC_03_HEADER
+Témoignage de Maxime
+$GEN_001_DOC_03_00
+Laurent Pascal est un sale fouineur et un informateur. Tout à fait, je viens le dénoncer. Il placarde des affiches et distribue des <a name="9" class="hidden">tracts</a> raillant le citoyen Robespierre. Notre honorable homme d'État ! L'un de ces tracts fait de Robespierre un pervers et un vampire. J'ai tout vu avant-hier – un gros homme vêtu comme Pascal. Ça ne pouvait être que lui. Je suis sûr qu'il complote dans son petit atelier. Cette fouine ne prête jamais le moindre franc pour un verre de vin. Les gens comme lui ont forcément quelque chose à cacher.
+$GEN_001_OnStart_00
+Cet homme est un meurtrier, mais c'est tout ce dont nous pouvons être sûrs.
+$GEN_001_OnStart_01
+Je te prie de te présenter, citoyen.
+$GEN_001_OnStart_02
+Laurent Pascal, tisserand.
+$GEN_001_OnStart_03
+Tu es accusé du meurtre du gendarme Roux.
+$GEN_001_OnStart_04
+C'était un accident.
+$GEN_001_OnStart_05
+Il lui a accidentellement brisé le crâne ?!
+$GEN_001_OnStart_06
+Tu plaides donc non coupable ?
+$GEN_001_OnStart_07
+Je dis simplement que c'était un accident.
+$GEN_001_OnGuilty_00
+Je condamne le citoyen Laurent Pascal à être guillotiné ! Emmenez-le.
+$GEN_001_OnGuilty_01
+Excellente décision. Les vauriens auront bien trop peur pour s'en prendre à la Garde nationale, maintenant.
+$GEN_001_OnGuilty_02
+Ceux qui ont le pouvoir se protègent toujours les uns les autres...
+$GEN_001_OnPrison_00
+Je condamne le citoyen Laurent Pascal à être emprisonné ! Emmenez-le.
+$GEN_001_OnPrison_01
+Ce verdict est bien trop clément. Un meurtre est un meurtre.
+$GEN_001_OnPrison_02
+Ceux qui ont le pouvoir se protègent toujours les uns les autres...
+$GEN_001_OnNotGuilty_00
+J'acquitte le citoyen Pascal des charges qui pèsent contre lui ! Tu es libre.
+$GEN_001_OnNotGuilty_01
+Heureusement qu'il y a une personne impartiale dans ce tribunal...
+$GEN_001_OnNotGuilty_02
+Il a avoué le meurtre. Que vous fallait-il de plus ?
+$GEN_001_01x02_00_QTitle
+Es-tu seul à travailler dans ton atelier ?
+$GEN_001_01x02_00_00
+Es-tu seul à travailler dans ton atelier ?
+$GEN_001_01x02_00_01
+Oui. Je l'ai ouvert avec ma femme, mais... Maintenant je travaille seul.
+$GEN_001_01x02_00_02
+Avais-tu commencé tes activités contre-révolutionnaires de son vivant ? Est-ce pour cela qu'elle a été condamnée ?
+$GEN_001_01x02_00_03
+Elle a été guillotinée sans aucune raison.
+$GEN_001_01x02_00_04
+On peut se retrouver en prison sans raison, mais pas se faire guillotiner.
+$GEN_001_01x03_01_QTitle
+Diriges-tu tes activités contre-révolutionnaires depuis ton atelier ?
+$GEN_001_01x03_01_00
+Diriges-tu tes activités contre-révolutionnaires depuis ton atelier ?
+$GEN_001_01x03_01_01
+Pas du tout, c'est absurde.
+$GEN_001_01x03_01_02
+La dénonciation d'un dénommé Maxime sous-entend le contraire.
+$GEN_001_01x03_01_03
+Je croyais qu'il l'avait retirée ?
+$GEN_001_01x03_01_04
+En effet, mais nous ignorons pourquoi.
+$GEN_001_01x03_01_05
+Il aura pu être menacé par d'autres comploteurs.
+$GEN_001_01x03_01_06
+Écoutez-moi, il n'y a aucun complot.
+$GEN_001_01x03_01_07
+As-tu placardé des affiches dans les rues de Paris ?
+$GEN_001_01x03_01_08
+C'est ce que dit l'accusation.
+$GEN_001_01x03_01_09
+Retourne voir mon atelier, mais tu n'y trouveras ni affiches ni tracts.
+$GEN_001_02x07_02_QTitle
+Apparemment, tu as un problème d'alcool.
+$GEN_001_02x07_02_00
+Apparemment, tu as un problème d'alcool.
+$GEN_001_02x07_02_01
+Tu as une femme ?
+$GEN_001_02x07_02_02
+Qu'est-ce que cela a à voir avec notre affaire ?
+$GEN_001_02x07_02_03
+Si tu avais vu ta femme se faire guillotiner sans raison, tu aurais sans doute aussi un problème d'alcool.
+$GEN_001_02x07_02_04
+Le juge a un problème d'alcool parce que sa femme est toujours vivante !
+$GEN_001_02x07_02_05
+Te rends-tu bien compte que le gendarme que tu as tué était un mari et un père ? La mort de ta femme peut-elle excuser ce que tu as fait ?
+$GEN_001_02x07_02_06
+…
+$GEN_001_02x07_02_07
+Assassin !
+$GEN_001_02x03_03_QTitle
+De quel crime était accusée ta femme ?
+$GEN_001_02x03_03_00
+De quel crime était accusée ta femme ?
+$GEN_001_02x03_03_01
+Je ne le sais toujours pas exactement. Ils parlaient d'actes subversifs.
+$GEN_001_02x03_03_02
+Quels contacts pouvait-elle avoir ?
+$GEN_001_02x03_03_03
+Avait-elle des liens particuliers ?
+$GEN_001_02x03_03_04
+Son grand-père était un écuyer au service du Roi. Quelqu'un l'a dénoncée, tout comme on m'a dénoncé, cela a suffit...
+$GEN_001_02x03_03_05
+As-tu reçu des consignes et des tracts monarchistes du grand-père de ta femme ?
+$GEN_001_02x03_03_06
+Il est mort il y a 15 ans !
+$GEN_001_02x03_03_07
+Étais-tu présent au procès de ta femme ?
+$GEN_001_02x03_03_08
+Je devais aller récupérer des choses pour l'atelier et j'ai été absent pendant quelques jours. Il ne leur en fallait pas plus pour l'arrêter et la juger... Ils nous ont donné... Nous avons eu droit à dix minutes pour notre dernière conversation. Tu comprends ? Dix minutes pour faire ses adieux à la femme qu'on aime ? Le jour d'après... ils l'ont décapitée sur la place. La tête de ma chère Marie... Jetée au sol comme un vulgaire débris...
+$GEN_001_03x08_04_QTitle
+Sais-tu pourquoi le citoyen Maxime a retiré son accusation ?
+$GEN_001_03x08_04_00
+Sais-tu pourquoi le citoyen Maxime a retiré son accusation ?
+$GEN_001_03x08_04_01
+Comment le saurais-je ? Il a dû le faire après avoir dessaoulé.
+$GEN_001_03x08_04_02
+Le citoyen Maxime boit beaucoup ?
+$GEN_001_03x08_04_03
+Ça oui. Ne me dites pas que tes enquêteurs ne l'ont pas remarqué ?
+$GEN_001_03x08_04_04
+Quelle bande d'imbéciles.
+$GEN_001_03x08_04_05
+Je vais reformuler ma question. Pourquoi t'a-t-il dénoncé ? Il devait avoir une bonne raison de le faire.
+$GEN_001_03x08_04_06
+Si je le savais... Quoique, il m'a insulté une fois parce que j'ai refusé de lui payer un verre à l'auberge.
+$GEN_001_03x09_05_QTitle
+Es-tu responsable de ces tracts irrespectueux ?
+$GEN_001_03x09_05_00
+Es-tu responsable de ces tracts irrespectueux ?
+$GEN_001_03x09_05_01
+La seule chose que je sais de la politique, c'est qu'elle a coûté la vie à ma Marie.
+$GEN_001_03x09_05_02
+Est-ce pour cela que tu as décidé de devenir un ennemi de la République ?
+$GEN_001_03x09_05_03
+Ça pourrait effectivement être un mobile.
+$GEN_001_03x09_05_04
+Il voulait sans doute venger sa femme. Il aurait dû faire plus attention à ses activités.
+$GEN_001_03x09_05_05
+Et pourquoi ? Ces tracts vont-ils me ramener ma femme ?
+$GEN_001_03x09_05_06
+L'accusé est prié de se comporter correctement.
+$GEN_001_03x09_05_07
+Sans quoi ? Tu vas me couper la tête pour impolitesse ?
+$GEN_001_03x04_06_QTitle
+Les gendarmes Roux et Rémy t'ont rendu visite…
+$GEN_001_03x04_06_00
+Les gendarmes Roux et Rémy t'ont rendu visite afin de t'emmener pour t'interroger, est-ce exact ?
+$GEN_001_03x04_06_01
+Rendu visite ? Mais bien sûr. Ils ont toqué à la porte, nous avons pris le thé et évoqué le bon vieux temps. C'est tout à fait ce qu'il s'est passé. Arrêtez ! Ils ont frappé à ma porte comme s'ils voulaient que tout le quartier sache ce qu'il se passait, tout en braillant qu'ils venaient m'arrêter !
+$GEN_001_03x04_06_02
+Que s'est-il passé ensuite ?
+$GEN_001_03x04_06_03
+Je leur ai ouvert la porte, bien sûr. Ils se sont précipités à l'intérieur en me bousculant, en voulant me maîtriser comme si j'étais un vulgaire malfrat !
+$GEN_001_03x04_06_04
+C'est comme ça qu'ils traitent tout le monde !
+$GEN_001_03x04_06_05
+Si tu les avais laissé te maîtriser, ils n'auraient pas eu besoin de te bousculer. Ta résistance ne joue pas en ta faveur.
+$GEN_001_03x04_06_06
+Les gendarmes t'ont-ils montré leur mandat d'arrêt ?
+$GEN_001_03x04_06_07
+Ils ne le font jamais. Ils ne l'ont pas montré à ma Marie, ils sont simplement venus la nuit, armés, comme des bandits.
+$GEN_001_04x05_07_QTitle
+Vous vous êtes battus ce soir-là ?
+$GEN_001_04x05_07_00
+Vous vous êtes battus ce soir-là ?
+$GEN_001_04x05_07_01
+J'ai refusé de les suivre. Je savais que je finirais comme ma femme.
+$GEN_001_04x05_07_02
+On les connaît ! Ils sont presque tous bêtes comme leurs pieds !
+$GEN_001_04x05_07_03
+Mais les gendarmes avaient le droit de t'arrêter. Tu n'aurais pas dû résister.
+$GEN_001_04x05_07_04
+Je ne voulais pas que ça se passe comme ça. Quand j'ai résisté, l'un d'eux m'a frappé au visage. C'est là que j'ai craqué. Je ne me souviens pas très bien, tout s'est passé si vite.
+$GEN_001_04x05_07_05
+Tout ceci ne serait jamais arrivé si tu n'étais pas aussi agressif...
+$GEN_001_04x05_07_06
+Comment est mort le gendarme Roux ?
+$GEN_001_04x05_07_07
+…
+$GEN_001_04x05_07_08
+Citoyen Pascal ?
+$GEN_001_04x05_07_09
+Nous nous sommes battus. Ma Marie s'est sans doute battue, elle aussi... J'ai poussé ce gendarme, il a trébuché et sa tête a cogné quelque chose...
+$GEN_001_04x05_07_10
+L'encadrement de la porte.
+$GEN_001_04x05_07_11
+Ses yeux se sont révulsés et il est tombé au sol, pris de convulsions. Il perdait beaucoup de sang...
+$GEN_001_04x05_07_12
+Faites venir à la barre le témoin, Cristobal Rémy.
+$GEN_001_04x05_07_14
+Afin de respecter le protocole, je te prie de te présenter, citoyen.
+$GEN_001_04x05_07_15
+Cristobal Rémy, soldat de la Garde nationale.
+$GEN_001_04x07_08_QTitle
+Étais-tu saoul ce soir-là ?
+$GEN_001_04x07_08_00
+Étais-tu saoul ce soir-là ?
+$GEN_001_04x07_08_01
+Je bois tous les soirs.
+$GEN_001_04x07_08_02
+Réponds à la question, as-tu bu ce soir-là ?
+$GEN_001_04x07_08_03
+Oui, Monsieur le juge. Il me semble que j'ai le droit de boire du vin chez moi ?
+$GEN_001_04x07_08_04
+Es-tu toujours aussi agressif après avoir bu ?
+$GEN_001_04x07_08_05
+Je n'avais jamais fait de mal à personne jusqu'à présent.
+$GEN_001_04x07_08_06
+Il y a toujours une première fois.
+$GEN_001_05x07_09_QTitle
+Les gens disent que tu es enclin à la violence.
+$GEN_001_05x07_09_00
+Les gens disent que tu es enclin à la violence.
+$GEN_001_05x07_09_01
+Quel autre choix ai-je dans cette ignoble ville ? Je sais ce que tu penses de moi, que je suis un animal, un monstre qui est devenu fou et s'est mis à tuer. Mais savez-vous quel est le véritable monstre ? C'est Paris. C'est cette créature démente et sanguinaire.
+$GEN_001_05x07_09_02
+Il délire.
+$GEN_001_05x07_09_03
+Tout le monde a le choix. Des milliers de parisiens choisissent une vie dans laquelle ils ne sont ni bourreaux ni victimes.
+$GEN_001_05x07_09_04
+Si tu le dis. Je sais ce que je sais.
+$GEN_001_05x08_10_QTitle
+As-tu quelque chose à voir avec le retrait de l'accusation de Maxime ?
+$GEN_001_05x08_10_00
+As-tu quelque chose à voir avec le retrait de l'accusation de Maxime ?
+$GEN_001_05x08_10_01
+Quelle question ! Tu sais très bien que j'étais en prison.
+$GEN_001_05x08_10_02
+Le juge pourrait au moins regarder ses notes.
+$GEN_001_05x08_10_03
+Tu participais à un complot monarchiste. Qui d'autre était avec toi ?
+$GEN_001_05x08_10_04
+Un complot ? Je travaillais comme un forcené, quand aurais-je eu le temps de comploter ?
+$GEN_001_WIT_00_A_QTitle
+Peux-tu nous décrire les événements de cette soirée ?
+$GEN_001_WIT_00_A_00
+Peux-tu nous décrire les événements de cette soirée ?
+$GEN_001_WIT_00_A_01
+Nous nous sommes rendus à l'adresse indiquée sur le mandat et nous avons frappé à la porte. Il ne s'agissait que d'une procédure de routine, nous ne pensions pas rencontrer une quelconque résistance.
+$GEN_001_WIT_00_A_02
+Vous étiez bruyants ?
+$GEN_001_WIT_00_A_03
+C'est vrai que nous avons frappé fort à la porte. J'ai prévenu que nous étions gendarmes, mais cela n'a rien d'inhabituel. Nous le faisons toujours pour que les gens sachent qu'ils doivent ouvrir.
+$GEN_001_WIT_01_A_QTitle
+Avez-vous attaqué le citoyen Pascal ?
+$GEN_001_WIT_01_A_00
+Avez-vous attaqué le citoyen Pascal ?
+$GEN_001_WIT_01_A_01
+Lorsque nous lui avons expliqué la raison de notre visite, il s'est mis à hurler qu'il ne viendrait pas avec nous.
+$GEN_001_WIT_01_A_02
+Vous avez donc décidé d'employer la force ?
+$GEN_001_WIT_01_A_03
+Fabrice a essayé de l'attraper et de le faire sortir, comme nous avons l'habitude de le faire.
+$GEN_001_WIT_01_A_04
+Vous avez agi selon les règles.
+$GEN_001_WIT_01_A_05
+Bien sûr.
+$GEN_001_WIT_01_A_06
+Bien sûr, ils ne les enfreignent jamais.
+$GEN_001_WIT_01_A_07
+L'as-tu frappé à la tête avec ton mousquet ?
+$GEN_001_WIT_01_A_08
+Oui. Hélas, il était déjà trop tard.
+$GEN_001_WIT_01_B_QTitle
+Que sais-tu de la femme de l'accusé ?
+$GEN_001_WIT_01_B_00
+Que sais-tu de la femme de l'accusé ?
+$GEN_001_WIT_01_B_01
+J'aimerais mieux ne pas en parler...
+$GEN_001_WIT_01_B_02
+Et j'aimerais te rappeler que si tu refuses de répondre à mes questions, nous pouvons te faire congédier.
+$GEN_001_WIT_01_B_03
+Fabrice m'avait parlé d'une femme qu'il avait essayé de séduire. Il avait été la voir quand son mari était absent, mais il ne l'intéressait pas. Il a donc attendu qu'elle soit de nouveau seule pour retourner la voir, mais elle a une fois de plus refusé ses avances. Alors il l'a arrêtée sous prétexte qu'elle s'en était prise à un agent...
+$GEN_001_WIT_01_B_04
+Pardon ? Il l'a arrêtée parce qu'elle avait refusé ses avances ?
+$GEN_001_WIT_01_B_05
+C'est exact. Il pensait qu'elle changerait d'avis de peur de finir en prison. Hélas, son procès a été mené par un juge prompt à condamner à la guillotine. Je n'avais pas fait le lien au départ, mais en voyant le regard de l'accusé lorsque nous l'avons arrêté... J'ai compris ce qu'il s'était passé.
+$GEN_001_WIT_01_B_06
+Pascal s'est donc vengé du vaurien qui a tué sa femme ?
+$GEN_001_WIT_01_B_08
+Peux-tu confirmer ce témoignage ?
+$GEN_001_WIT_01_B_09
+Je ne peux que confirmer ce que ma femme m'a dit depuis sa cellule.
+$GEN_001_WIT_01_B_10
+Parle sans peur.
+$GEN_001_WIT_01_B_11
+J'ai tué un homme, c'était un accident. Qu'il s'agisse de cet homme... j'en suis heureux. Oui, je peux confirmer ce qu'a dit le témoin...
+$GEN_001_KEY_01
+Atelier de tissage
+$GEN_001_KEY_02
+Épouse
+$GEN_001_KEY_03
+Activité contre-révolutionnaire
+$GEN_001_KEY_04
+Arrestation pour interrogatoire
+$GEN_001_KEY_05
+Tempérament violent de l'accusé
+$GEN_001_KEY_06
+Blessures de la victime
+$GEN_001_KEY_07
+Alcoolisme de l'accusé
+$GEN_001_KEY_08
+Retrait de l'accusation
+$GEN_001_KEY_09
+Tracts diffamatoires
+$GEN_001_LastDialog_00
+Dépêchez-vous un peu ! Je veux retrouver ma femme.
+$GEN_001_UNIQUE_QUESTION_00
+Quelles accusations ont été trouvées dans la dénonciation du citoyen Maxime ?
+$GEN_001_UNIQUE_ANSWER_CORRECT_00_00
+Pose d'affiches et distribution de tracts calomnieux.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Vol de pain au marché.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Visions contre-révolutionnaires.
+$GEN_001_UNIQUE_QUESTION_02
+Le prévenu était-il en état d'ébriété lors de son arrestation ?
+$GEN_001_UNIQUE_ANSWER_CORRECT_02_00
+Il avait bu du vin.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Il avait bu de la bière.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Il n'avait pas bu.
+$GEN_001_UNIQUE_QUESTION_03
+Comment le prévenu a-t-il réagi à la vue du mandat d'arrêt ?
+$GEN_001_UNIQUE_ANSWER_CORRECT_03_00
+Personne ne le lui a montré.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Il a contesté son bien-fondé.
+$GEN_001_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Il l'a déchiré.

@@ -1,0 +1,10 @@
+$EVE_006_TITLE
+At the Salons
+$EVE_006_MAIN_01
+Dear AF, Speaking on both my own and my fellow artists’ behalf, I would like to invite you to the opening night of our latest play, “XXX”. The performance will take place in three days. It would be our honour to entertain you and your family. If you wish to attend, please respond to this invitation. In faith, XYZ.
+$EVE_006_MAIN_01_C1
+Confirm participation.
+$EVE_006_MAIN_02A
+The opening night was a success – at least your rusty intuition tells you so. Your wife was shining, even though she lacks experience being among the Parisian elites, and your sons were amazed by the expensive outfits worn by the other guests. Thanks to this invitation, you are now belonging to the elite of the capital city. There were a few protesters outside the building, shouting about moral corruption and the necessity of being closer to God, but they were not able to ruin your night.
+$EVE_006_MAIN_02B
+The opening night was a success. People are mostly discussing how Parisian artists have once again proven to be superior to their colleagues from other European countries. The audience was filled with important people whose names will look good in the reviews. There was a small gathering of protesters in front of the building shouting about “moral corruption” and “distancing oneself from God”, but nobody paid them any heed.

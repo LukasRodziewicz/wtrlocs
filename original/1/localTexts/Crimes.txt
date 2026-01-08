@@ -1,0 +1,58 @@
+#CRIME_001_NAME
+Inciting the Mob
+#CRIME_002_NAME
+Counter-Revolution
+#CRIME_003_NAME
+Advocating Monarchy
+#CRIME_004_NAME
+Treason
+#CRIME_005_NAME
+Neglect of Duty
+#CRIME_006_NAME
+Nepotism
+#CRIME_007_NAME
+Corruption
+#CRIME_008_NAME
+Theft
+#CRIME_009_NAME
+Burglary
+#CRIME_010_NAME
+Destruction of Property
+#CRIME_011_NAME
+Pandering
+#CRIME_012_NAME
+Assault
+#CRIME_013_NAME
+Mutilation
+#CRIME_014_NAME
+Attempted Murder
+#CRIME_015_NAME
+Murder
+#CRIME_016_NAME
+Torture
+#CRIME_017_NAME
+Desecration of a Corpse
+#CRIME_018_NAME
+Paedophilia
+#CRIME_019_NAME
+Rape
+#CRIME_020_NAME
+Slander
+#CRIME_021_NAME
+Fraud
+#CRIME_022_NAME
+Price Speculation
+#CRIME_023_NAME
+Financial Fraud
+#CRIME_024_NAME
+Bribery
+#CRIME_025_NAME
+Adultery
+#CRIME_026_NAME
+Defection
+#CRIME_027_NAME
+Witchcraft
+#CRIME_028_NAME
+Driving While Drunk
+#CRIME_029_NAME
+Threat to Road Safety

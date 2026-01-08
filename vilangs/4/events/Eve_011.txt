@@ -1,0 +1,18 @@
+$EVE_011_TITLE
+Im Namen der Wissenschaft
+$EVE_011_MAIN_01
+Beunruhigende Nachrichten haben mich erreicht. Die Bewohner eines örtlichen Friedhofs beginnen… zu verschwinden. Ja, ich spreche von den Toten. In den letzten zwei Wochen sind drei Leichen unterschiedlichen Geschlechts und Alters verschwunden. Das Einzige, was sie verband, war ihre kürzliche Beerdigung. Niemand hat etwas gesehen; alle behaupten, die Körper seien einfach wie vom Erdboden verschluckt. Der Hauptmann der Wache hat sich geweigert, jemanden zur Bewachung des Friedhofs abzustellen. So bleibt uns nur zu erwarten, dass bald noch mehr Leichen verschwinden – und wir alle in Schwierigkeiten geraten.
+$EVE_011_MAIN_01_C1
+Die Angelegenheit untersuchen
+$EVE_011_MAIN_02A
+Kein Wunder und keine höllischen oder himmlischen Mächte steckten hinter dem Verschwinden der Leichen. Es waren lediglich junge, wissbegierige Menschen. Wie wir herausfinden konnten, wurden die Körper von Medizinstudenten ausgegraben, die sie untersuchen und Experimente durchführen wollten, die an Lebenden unmöglich wären. Ein solcher Wissensdurst mag lobenswert sein, doch ist dies der richtige Weg? Und besteht nicht die Gefahr, dass die Familien, sollten sie die Wahrheit erfahren, den Eifer der jungen Leute keinesfalls teilen werden…
+$EVE_011_MAIN_02A_C1
+Die Studenten verwarnen und solche Praktiken untersagen
+$EVE_011_MAIN_02A_C2
+Die Experimente fortsetzen lassen
+$EVE_011_MAIN_02B
+Die Familien werden nicht erfreut sein, wenn sie merken, dass sich niemand um ihre Beschwerden kümmert…
+$EVE_011_MAIN_03A
+Die Toten verschwinden nicht länger. Sie haben nicht die Mitglieder des Konvents zurechtgewiesen, sondern junge Leute, die sich leicht einschüchtern lassen, wenn sie merken, dass sie ertappt wurden. Ich bezweifle, dass sie es noch einmal wagen werden. Zumindest nicht während Ihrer Amtszeit.
+$EVE_011_MAIN_03B
+Die Studenten haben versprochen, die Leichen von verschiedenen Friedhöfen zu stehlen, um nicht aufzufallen. Immerhin ein Anfang.

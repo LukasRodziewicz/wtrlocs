@@ -1,0 +1,10 @@
+$DIAL_CO_02_01_05_DRIVER_001
+Good day, Citizen. I am here to take you to the ball.
+$DIAL_CO_02_01_05_JUDGE_002
+Why are you so sure that I have the intention of going?
+$DIAL_CO_02_01_05_DRIVER_003
+Should you resist, Citizen Renard has asked me to tell you that during the event he will reveal the name of the person who murdered your child.
+$DIAL_CO_02_01_05_JUDGE_004
+What?! I know very well who did it!
+$DIAL_CO_02_01_05_DRIVER_005
+I sincerely doubt it. The carriage awaits you, Citizen. You really have nothing to lose. So please, follow me.

@@ -1,0 +1,220 @@
+#CHOOSE_FAMILY_ACTION
+Exécuter une action
+#CHOOSED_ACTION
+Action choisie
+$STORY_EVENT_LABEL
+Déroulement des faits
+#YoungerSon
+Frédéric
+#ElderSon
+Bernard
+#Father
+Aldric
+#LOCKED_ACTION_TOOLTIP
+Cette action est irréversible.
+$REVOLUTIONARIES_ICON
+Influence sur les Révolutionnaires
+$PEOPLE_ICON
+Influence sur le peuple
+$REPUTATION_ICON
+Influence sur la réputation
+$FAMILY_ICON
+Influence sur les relations familiales
+$FAMILY_ACTION_TITLE
+Relations avec la famille
+$FAMILY_ACTION_HEADER_PLACEHOLDER
+Choisissez une action dans le panneau à gauche.
+$FAMILY_ACTION_DESC_PLACEHOLDER
+Vous devez sélectionner une action pour voir sa description.
+$FAMILY_ACTION_HEADER_COURT
+Influence sur les activités au tribunal.
+$FAMILY_ACTION_DESC_COURT
+Vos décisions au tribunal peuvent influencer vos relations avec les membres de votre famille.
+$FAMILY_ACTION_1000_TITLE
+Une soirée au tripot
+$FAMILY_ACTION_1000_DESC
+Vous avez préféré la boisson et les divertissements à votre famille.
+$FAMILY_ACTION_1001_TITLE
+Travailler sur le procès de demain
+$FAMILY_ACTION_1001_DESC
+Ceci débloquera davantage d'effets de question au tribunal.
+$FAMILY_ACTION_1002_TITLE
+Soutenir la construction de la statue
+$FAMILY_ACTION_1002_DESC
+Ceci augmente le rythme auquel la statue se construit.
+$FAMILY_ACTION_501_TITLE
+Dîner avec des amis de la Convention
+$FAMILY_ACTION_501_DESC
+Quelques députés viendront dîner chez vous. Quelle générosité de votre part de les accueillir ! Quelle générosité de leur part de le raconter à tous leurs amis !
+$FAMILY_ACTION_502_TITLE
+Collecte de fonds pour l'orphelinat
+$FAMILY_ACTION_502_DESC
+Les temps difficiles créent des enfances encore plus difficiles. Bien que nous ne puissions pas rendre à ces enfants leurs parents, nous pouvons leur offrir de l'espoir.
+$FAMILY_ACTION_601_TITLE
+Version préliminaire
+$FAMILY_ACTION_601_DESC
+Des réfugiés ont toujours une lueur d'espoir. Vous arriverez peut-être à en convaincre certains de rejoindre vos rangs ?
+$FAMILY_ACTION_602_TITLE
+Une soirée avec des soldats
+$FAMILY_ACTION_602_DESC
+Les soldats ont besoin de savoir qu'ils se battent pour une personne, non pas pour un monstre sans âme. Passez du temps avec eux autour d'une boisson chaude.
+$FAMILY_ACTION_001_TITLE
+Balade nocturne
+$FAMILY_ACTION_001_DESC
+Vous emmenez votre famille faire une balade nocturne dans les rues de Paris. Votre vieux père pourra ainsi se dégourdir les jambes.
+$FAMILY_ACTION_002_TITLE
+Une soirée de jeu
+$FAMILY_ACTION_002_DESC
+Vous devriez tenir compagnie à votre père de temps à autre. Faites-lui découvrir votre monde. Peut-être qu'il y prendra goût ?
+$FAMILY_ACTION_003_TITLE
+Manifestation
+$FAMILY_ACTION_003_DESC
+Emmenez vos fils à une manifestation en faveur de la révolution. Laissez-les voir la réalité de leurs propres yeux.
+$FAMILY_ACTION_004_TITLE
+Concerto pour alto
+$FAMILY_ACTION_004_DESC
+Bernard doit apprendre à surmonter le trac s'il veut devenir musicien professionnel. Vous allez devoir endurer une heure de vacarme.
+$FAMILY_ACTION_005_TITLE
+Lire en famille
+$FAMILY_ACTION_005_DESC
+Il n'y a rien de tel que de passer du temps en famille auprès du feu avec un bon livre. Même si certains pourraient penser que c'est... ennuyeux.
+$FAMILY_ACTION_006_TITLE
+Une soirée avec grand-père
+$FAMILY_ACTION_006_DESC
+Asseyez-vous à côté de votre père et écoutez-le parler du bon vieux temps.
+$FAMILY_ACTION_007_TITLE
+Paragraphes et codes
+$FAMILY_ACTION_007_DESC
+Nonobstant les intérêts musicaux de Bernard, il doit élargir sa palette de compétences. En soi, le droit est une certaine forme d'art.
+$FAMILY_ACTION_008_TITLE
+Jouer avec les enfants
+$FAMILY_ACTION_008_DESC
+Passez votre soirée et votre énergie de manière insouciante en jouant avec vos fils. Les besoins de votre femme peuvent attendre.
+$FAMILY_ACTION_009_TITLE
+Débat politique
+$FAMILY_ACTION_009_DESC
+Il est temps pour les adultes de parler des accomplissements de la révolution. Cet échange devrait être intéressant.
+$FAMILY_ACTION_010_TITLE
+Première au théâtre
+$FAMILY_ACTION_010_DESC
+Une pièce de théâtre inédite sera jouée ce soir à la Comédie-Française. C'est une bonne occasion de s'évader et de se détendre.
+$FAMILY_ACTION_081_TITLE
+Jeu d'argent au clair de lune
+$FAMILY_ACTION_081_DESC
+Vous êtes allé jouer aux cartes avec David.
+$FAMILY_ACTION_082_TITLE
+Simoneau
+$FAMILY_ACTION_082_DESC
+Vous avez participé à la marche en mémoire de l'officier lynché.
+$FAMILY_ACTION_083_TITLE
+Burel et l'émeute
+$FAMILY_ACTION_083_DESC
+Vous avez approuvé l'usage d'une force mortelle contre les manifestants. Votre famille n'est pas très encline à vous parler ce soir.
+$FAMILY_ACTION_084_TITLE
+Blessé
+$FAMILY_ACTION_084_DESC
+Vous devez vous reposer et récupérer après cette lâche agression.
+$FAMILY_ACTION_085_TITLE
+Une soirée avec le maire
+$FAMILY_ACTION_085_DESC
+Vous avez passé la soirée à embobiner Pache avec vos propositions d'amitié. Personne ne voulait s'attarder et attendre que vous rentriez chez vous à moitié ivre.
+$FAMILY_ACTION_086_TITLE
+Torturer
+$FAMILY_ACTION_086_DESC
+Vous avez passé la soirée à convaincre une jeune femme bornée et un homme politique encore plus têtu de se plier à votre volonté.
+$FAMILY_ACTION_087_TITLE
+Mort de son fils
+$FAMILY_ACTION_087_DESC
+Comment avez-vous pu choisir ce jour pour vous balader ?
+$FAMILY_ACTION_088_TITLE
+Marie survit
+$FAMILY_ACTION_088_DESC
+Vous êtes allé à l'encontre des demandes de votre famille. Il est peu probable qu'ils vous accordent ne serait-ce qu'une seule minute de leur temps aujourd'hui.
+$FAMILY_ACTION_089_TITLE
+La banque a sauté
+$FAMILY_ACTION_089_DESC
+Vous avez dépensé toutes les économies familiales pour soudoyer Béatrice. Il est difficile pour eux de ne pas vous en vouloir.
+$FAMILY_ACTION_101_TITLE
+Balade nocturne
+$FAMILY_ACTION_101_DESC
+Vous emmenez votre famille faire une balade nocturne dans les rues de Paris. Ou du moins, ce qui reste de votre famille...
+$FAMILY_ACTION_102_TITLE
+Concerto pour alto
+$FAMILY_ACTION_102_DESC
+Bernard doit apprendre à surmonter le trac s'il veut devenir musicien professionnel. C'est la dernière lueur d'espoir de votre famille...
+$FAMILY_ACTION_103_TITLE
+Paragraphes et codes
+$FAMILY_ACTION_103_DESC
+Nonobstant les intérêts musicaux de Bernard, il doit élargir sa palette de compétences. En soi, le droit est une certaine forme d'art, et au vu des circonstances récentes, Bernard sera sûrement le seul en mesure de subvenir aux besoins de ses parents vieillissants.
+$FAMILY_ACTION_104_TITLE
+Débat politique
+$FAMILY_ACTION_104_DESC
+Il est temps pour les adultes de parler des accomplissements de la révolution. Cet échange devrait être intéressant. Après la mort de votre fils cadet, ce débat devrait prendre une tournure inhabituelle.
+$FAMILY_ACTION_105_TITLE
+Se rendre sur la tombe de Frédéric
+$FAMILY_ACTION_105_DESC
+Chaque visite est comme un coup de poignard dans le cœur. Certains veulent se souvenir, d'autres s'empressent d'oublier.
+$FAMILY_ACTION_106_TITLE
+Lire en famille
+$FAMILY_ACTION_106_DESC
+Il n'y a rien de tel que de passer du temps en famille auprès du feu avec un bon livre. Même si certains pourraient penser que c'est... ennuyeux.
+$FAMILY_ACTION_107_TITLE
+Première au théâtre
+$FAMILY_ACTION_107_DESC
+Une pièce de théâtre inédite sera jouée ce soir à la Comédie-Française. Le rire sera un bon remède contre le chagrin.
+$FAMILY_ACTION_108_TITLE
+Faire les magasins
+$FAMILY_ACTION_108_DESC
+Cliché ou pas, ce petit plaisir mettra peut-être du baume au cœur déchiré de Mathilde.
+$FAMILY_ACTION_109_TITLE
+Café Procope
+$FAMILY_ACTION_109_DESC
+Vous rassemblez les hommes de Fidèle et assistez à un débat politique au célèbre Café Procope. Espérons qu'aucune bagarre n'éclate cette fois-ci.
+$FAMILY_ACTION_110_TITLE
+Vider le grenier
+$FAMILY_ACTION_110_DESC
+Le grenier est poussiéreux et encombré. Mathilde n'est pas très assidue en matière de tâches domestiques ces derniers temps, mais qui peut lui en vouloir ? Que les membres masculins de la famille se retroussent les manches et se mettent au travail.
+$FAMILY_ACTION_181_TITLE
+Après le bal
+$FAMILY_ACTION_181_DESC
+Pendant que vous preniez du bon temps au bal, votre famille a quitté la ville.
+$FAMILY_ACTION_182_TITLE
+Feu et eau
+$FAMILY_ACTION_182_DESC
+Vous étiez trop occupé à convaincre Danton et Hébert de coopérer. Vous n'aviez plus de temps libre pour votre famille, tout le monde dort déjà.
+$FAMILY_ACTION_183_TITLE
+Véritable ennemi
+$FAMILY_ACTION_183_DESC
+Imaginez-vous inviter quelqu'un pour vous divertir alors que votre fils vient de devenir infirme ?
+$FAMILY_ACTION_184_TITLE
+Le vrai visage du juge
+$FAMILY_ACTION_184_DESC
+Marat a révélé vos péchés au grand jour. Vos proches ne peuvent plus vous regarder dans les yeux.
+$FAMILY_ACTION_185_TITLE
+Le vrai visage du juge 2
+$FAMILY_ACTION_185_DESC
+Marat continue son offensive depuis sa tombe. Votre famille vous méprise encore plus.
+$FAMILY_ACTION_186_TITLE
+Blessures profondes
+$FAMILY_ACTION_186_DESC
+Vous avez sauvé les mains de votre fils, mais un silence de plomb règne chez vous. Le moindre murmure attire l’attention. Toute la famille est sur ses gardes, comme si le cauchemar pouvait resurgir d’un instant à l’autre. 
+$FAMILY_ACTION_201_TITLE
+Chemin sûr
+$FAMILY_ACTION_201_DESC
+Quand il était plus jeune, Bernard sortait souvent en douce pour explorer les rues de Paris. Sa connaissance de la ville pourrait sauver la vie de réfugiés.
+$FAMILY_ACTION_202_TITLE
+Dîner avec des officiers
+$FAMILY_ACTION_202_DESC
+Un repas chaud, cuisiné maison sous un vrai toit ferait énormément de bien à vos officiers les plus fiables. Votre femme a toujours été une excellente cuisinière.
+$FAMILY_ACTION_203_TITLE
+Provisions et médicaments
+$FAMILY_ACTION_203_DESC
+Ceux qui choisissent de rester ne peuvent pas se contenter de regarder les soldats se battre. Ils doivent contribuer... avec ce qu'il leur reste.
+$FAMILY_ACTION_204_TITLE
+Barricades
+$FAMILY_ACTION_204_DESC
+Des meubles, des gravats, des tonneaux : tout peut servir à ériger des barricades. Protégeons nos troupes et barrons les points stratégiques.
+$FAMILY_ACTION_281_TITLE
+Abandonné
+$FAMILY_ACTION_281_DESC
+Votre réputation est si mauvaise que personne ne veut vous fréquenter. Seul votre père se tient à vos côtés, comme toujours.

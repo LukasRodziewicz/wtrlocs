@@ -1,0 +1,10 @@
+$DIAL_CO_02_01_05_DRIVER_001
+Bonjour, citoyen. Je viens te conduire au bal.
+$DIAL_CO_02_01_05_JUDGE_002
+D'où tires-tu la certitude que je compte m'y rendre ?
+$DIAL_CO_02_01_05_DRIVER_003
+Le citoyen Renard m'a demandé, en cas de réticence de ta part, de te prévenir qu'il y révélera l'identité du meurtrier de ton enfant.
+$DIAL_CO_02_01_05_JUDGE_004
+Quoi ?! Je sais très bien qui est la crapule !
+$DIAL_CO_02_01_05_DRIVER_005
+Sincèrement, j'en doute. La voiture est prête, citoyen. Je te prie de me suivre, tu n'as rien à perdre.

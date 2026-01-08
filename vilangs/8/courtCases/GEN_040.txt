@@ -1,0 +1,154 @@
+$GEN_040_DOC_01_HEADER
+Compilado por: Charles Étienne
+$GEN_040_DOC_01_00
+Um dos comerciantes locais, Guy Deniau, foi até o posto da Guarda Nacional perto dos Mercados. Em voz alta, afirmou que o dono da barraca vizinha havia <a name="2" class="hidden">derramado alcatrão de madeira</a> propositalmente em seu barril de arenques. Por esse suposto crime, Deniau exigiu uma punição adequada. Os soldados foram até os Mercados e constataram que os arenques realmente tinham um gosto horrível. Como não havia provas do crime, nenhuma medida foi tomada.
+$GEN_040_DOC_01_01
+Algumas horas depois, os Guardas retornaram ao Les Halles. Desta vez, foi o outrora acusado Jean Courbis quem os chamou, e havia uma abundância de provas no local. A mais evidente era o próprio Deniau, destruindo a barraca do vizinho com <a name="3" class="hidden">um longo bastão de madeira</a> diante de testemunhas.
+$GEN_040_DOC_01_02
+O comerciante furioso agitava o punho e gritava: “Onde vocês estavam quando esse canalha roubou meu lugar <a name="4" class="hidden">perto da entrada?</a>” Os guardas não perderam tempo com explicações, apenas desarmaram o comerciante enérgico e o levaram para a prisão. Ao redigir o relatório, um dos oficiais encontrou <a name="5" class="hidden">uma antiga denúncia</a> escrita por Deniau dois anos atrás.
+$GEN_040_DOC_02_TOOLTIP
+Denúncia de Guy Deniau:
+$GEN_040_DOC_02_00
+Gostaria de informar que o cidadão Courbis não paga à cidade pelo seu balcão. Além disso, ele <a name="6" class="hidden">critica abertamente a nova ordem</a> ao conversar com seus clientes.
+$GEN_040_OnStart_00
+Seu nome?
+$GEN_040_OnStart_01
+Deniau. Peixe fresco desde 1772.
+$GEN_040_OnStart_02
+E virou vândalo desde ontem?
+$GEN_040_OnStart_03
+Não me orgulho do que fiz, mas tudo tem limite.
+$GEN_040_OnStart_04
+Sério?! Tipo aquela vez, há seis meses, quando você pegou oito francos da minha renda?
+$GEN_040_OnStart_05
+Algum moleque pegou isso dos seus bolsos enquanto você estava...
+$GEN_040_OnStart_06
+Silêncio! Você só pode falar quando for questionado.
+$GEN_040_OnPrison_00
+Parece que os parisienses terão que comprar peixe em outro lugar. Cidadão Deniau, eu o sentencio à prisão por vandalismo.
+$GEN_040_OnPrison_01
+É melhor avisar os guardas que a vida deles não será fácil.
+$GEN_040_OnPrison_02
+Não creio que o povo ficará satisfeito com uma punição tão severa.
+$GEN_040_OnNotGuilty_00
+Seus conflitos pessoais não devem ser resolvidos no tribunal. Cidadão Deniau, você está livre para ir, mas ordeno que mude sua barraca de lugar.
+$GEN_040_OnNotGuilty_01
+Boa ideia. Ele devia colocar seus arenques mais perto das lixeiras – ninguém notaria a diferença no cheiro.
+$GEN_040_OnNotGuilty_02
+Por que ninguém pensou em separar esses dois encrenqueiros antes?
+$GEN_040_02x03_00_QTitle
+Quais produtos o cidadão Courbis vende?
+$GEN_040_02x03_00_00
+Quais produtos o cidadão Courbis vende?
+$GEN_040_02x03_00_01
+Frutas e verduras.
+$GEN_040_02x03_00_02
+E você vende peixe?
+$GEN_040_02x03_00_03
+Direto de Yport e Petites-Dalles.
+$GEN_040_02x03_00_04
+Entendi. Então por que um de vocês veio aos Mercados Centrais com piche, e o outro com um bastão de madeira?
+$GEN_040_02x03_00_05
+…
+$GEN_040_02x03_00_06
+Cidadão?
+$GEN_040_02x03_00_07
+Não me lembro. Aquele pedaço de pau devia estar jogado perto da barraca. Já o Courbis, esse sim planejou tudo direitinho.
+$GEN_040_05x04_01_QTitle
+Parece que o conflito entre vocês já se arrasta há algum tempo.
+$GEN_040_05x04_01_00
+Parece que o conflito entre vocês já se arrasta há bastante tempo.
+$GEN_040_05x04_01_01
+Tudo começou quando aquele canalha colocou a barraca dele onde deveria estar a minha, bem ao lado da entrada.
+$GEN_040_05x04_01_02
+Esse lugar não era seu, você o tomou depois do velho Choquette!
+$GEN_040_05x04_01_03
+Silêncio! E desde então não conseguiram chegar a um acordo?
+$GEN_040_05x04_01_04
+Pensando bem, talvez tenha começado ainda antes. Teve uma vez em que Jean se recusou a pagar por um salmonete que a esposa dele levou.
+$GEN_040_05x04_01_05
+Minha família inteira adoeceu por causa daquela carcaça podre. Devia agradecer por eu não ter...
+$GEN_040_05x04_01_06
+Preciso repetir? Silêncio, ou vocês dois terão problemas ainda maiores.
+$GEN_040_06x05_02_QTitle
+Encontramos sua denúncia contra o cidadão Courbis.
+$GEN_040_06x05_02_00
+Encontramos sua denúncia contra o cidadão Courbis. Por que a escreveu?
+$GEN_040_06x05_02_01
+Ele fez isso porque eu comecei a vender sardinhas!
+$GEN_040_06x05_02_02
+Cale a boca de uma vez! Monsieur le juge, eu só queria ajudar a cidade. Todo feirante paga pelo seu lugar nas Halles, o Courbis também deveria pagar.
+$GEN_040_06x05_02_03
+Mentiroso e vigarista! Já se esqueceu de quando se escondeu do cobrador real na casa do açougueiro?
+$GEN_040_06x05_02_04
+Silêncio!
+$GEN_040_06x05_02_05
+Eu tentava escapar dos impostos do rei. Você só começou depois que a Revolução já tinha começado!
+$GEN_040_06x05_02_06
+Fiquem quietos, vocês dois.
+$GEN_040_06x04_03_QTitle
+Cidadão Courbis, aproxime-se.
+$GEN_040_06x04_03_00
+Cidadão Courbis, aproxime-se.
+$GEN_040_WIT_00_A_QTitle
+Você realmente questiona a nova ordem?
+$GEN_040_WIT_00_A_00
+Você realmente questiona a nova ordem?
+$GEN_040_WIT_00_A_01
+É pura calúnia inventada por um sujeito que vende linguados velhos!
+$GEN_040_WIT_00_A_02
+Isso é um não?
+$GEN_040_WIT_00_A_03
+Claro que sim. Sou um comerciante, não um político.
+$GEN_040_WIT_00_B_QTitle
+É verdade que você ocupou o lugar de Guy Deniau na entrada do Les Halles?
+$GEN_040_WIT_00_B_00
+É verdade que você ocupou o lugar de Guy Deniau na entrada de Les Halles?
+$GEN_040_WIT_00_B_01
+Ele tomou o lugar deixado por um comerciante morto. Eu apenas fiz o mesmo quando surgiu a oportunidade.
+$GEN_040_WIT_00_B_02
+Esse foi o seu primeiro conflito?
+$GEN_040_WIT_00_B_03
+No final dos anos setenta, quando aquele mão de vaca me pediu 30 francos emprestados. Levei dois anos para receber de volta!
+$GEN_040_WIT_00_B_04
+Cidadão Deniau, percebo que deseja acrescentar algo, mas peço que se contenha.
+$GEN_040_WIT_01_A_QTitle
+Por que você estava com alcatrão naquele dia?
+$GEN_040_WIT_01_A_00
+Por que você estava com alcatrão naquele dia?
+$GEN_040_WIT_01_A_01
+Eu vendo frutas, mas meus fornecedores às vezes compram alcatrão de madeira porque afasta pragas.
+$GEN_040_WIT_01_A_02
+E por que você despejou isso no barril do cidadão Deniau?
+$GEN_040_WIT_01_A_03
+Eu não fiz nada disso! Provavelmente foi ele mesmo quem colocou, só para me acusar de novo.
+$GEN_040_WIT_01_A_04
+Mentiroso!
+$GEN_040_WIT_01_A_05
+Acalme-se!
+$GEN_040_WIT_01_B_QTitle
+Algumas horas se passaram entre a visita do cidadão Deniau à delegacia e o seu ato de vandalismo...
+$GEN_040_WIT_01_B_00
+Algumas horas se passaram entre a visita do cidadão Deniau à delegacia e o seu relato de vandalismo. O que aconteceu nesse intervalo?
+$GEN_040_WIT_01_B_01
+O que aconteceu? Ele não parava de zombar das minhas arenques estragadas!
+$GEN_040_WIT_01_B_02
+Nada demais, só o comércio de sempre.
+$GEN_040_WIT_01_B_03
+E de repente, Guy Deniau pegou um bastão e começou a destruir sua barraca?
+$GEN_040_WIT_01_B_04
+Ele ficou fora de si, como um animal.
+$GEN_040_WIT_01_B_05
+Cidadão Courbis, por favor, não me faça de tolo…
+$GEN_040_KEY_01
+Os Salões
+$GEN_040_KEY_02
+Alcatrão de madeira
+$GEN_040_KEY_03
+Pau de madeira
+$GEN_040_KEY_04
+Banca ao lado da entrada
+$GEN_040_KEY_05
+Denúncia antiga
+$GEN_040_KEY_06
+Propaganda contrarrevolucionária

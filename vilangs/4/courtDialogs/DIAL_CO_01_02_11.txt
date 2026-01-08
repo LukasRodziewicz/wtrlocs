@@ -1,0 +1,18 @@
+$DIAL_CO_01_02_11_001_ROLAND
+Mein Name ist Jean-Marie Roland. Dieser Name sollte Ihnen nicht unbekannt sein – schließlich haben Sie ihn beim Prozess gegen König Ludwig mit Füßen getreten.
+$DIAL_CO_01_02_11_002_JUDGE
+Bürger Capet, nicht König…
+$DIAL_CO_01_02_11_003_ROLAND
+König Louis-Auguste Bourbon, Herzog von Berry. Durch Ihre Halbwahrheiten und Spekulationen fordert nun jeder meinen Kopf. Man bezichtigt mich der Korruption und des Verrats! Während Sie auf unserem Rücken die gesellschaftliche Leiter emporsteigen.
+$DIAL_CO_01_02_11_004_JUDGE
+Politiker zu bestechen geht nicht immer gut aus. Danton kam damit durch, Molleville hat es versucht, aber Sie wurden erwischt. So ist es eben.
+$DIAL_CO_01_02_11_005_ROLAND
+Wahrscheinlich werde ich meines Amtes enthoben. Vielleicht lande ich sogar unter der Guillotine. Aber ich werde dafür sorgen, dass Ihr Kopf gleich nach meinem fällt! Sie werden mein Leidensgenosse sein!
+$DIAL_CO_01_02_11_006_JUDGE
+Einem Richter des Tribunals zu drohen, ist eine noch schlechtere Idee, als einen verhassten König zu unterstützen oder die Politiker des Konvents zu bestechen.
+$DIAL_CO_01_02_11_007_ROLAND
+Ich werde Ihren Kandidaten für den Hauptmann der Wache beseitigen. Danach komme ich zu Ihnen.
+$DIAL_CO_01_02_11_008_ROLAND
+Meine Frau und ich haben viel zu lange gebraucht, um dahin zu kommen, wo wir jetzt sind! Ich werde doch nicht wegen irgendeines versoffenen Wurms sterben, der sich selbst Richter nennt!
+$DIAL_CO_01_02_11_009_ROLAND
+Du wirst erleben, wie wir in den Pariser Salons Krieg führen, du hinterhältiger Bastard!

@@ -1,0 +1,182 @@
+$GEN_041_DOC_01_HEADER
+Compilado por: Nathan d’Essiraf
+$GEN_041_DOC_01_00
+Alain Bras, un viudo de 37 años, trabaja como carretero en uno de los almacenes del puerto de Grenoüillere. Lleva ya dos años en ese puesto. El acusado es conocido por su <a name="1" class="hidden">audaz forma de conducir</a>, que le permite entregar mercancías más rápido que sus compañeros.
+$GEN_041_DOC_01_01
+Bras está acusado de haber matado al niño de cinco años Marcel Gide con su carreta. El niño falleció poco después del accidente a causa de graves heridas en la cabeza. A Bras se le imputa no solo haber atropellado al niño, sino también no haberse detenido para socorrerlo.
+$GEN_041_DOC_01_02
+Según los testigos, vieron a Bras <a name="2" class="hidden">conduciendo su carreta</a> a una velocidad absurda por la <a name="3" class="hidden">rue du Croissant</a>, donde se halló el cuerpo de Marcel. El examen del cadáver no dejó lugar a dudas: solo una carreta desbocada podría causar semejantes daños.
+$GEN_041_DOC_01_03
+Bras fue detenido una hora y media después del hallazgo del cuerpo. Estaba esperando que descargaran su mercancía frente a la posada El Lobo Alegre. El acusado estaba <a name="4" class="hidden">completamente ebrio</a> y apenas podía mantenerse en pie. Las ruedas traseras de su carreta estaban <a name="5" class="hidden">cubiertas de sangre fresca</a>.
+$GEN_041_DOC_01_04
+La madre destrozada de Marcel, Jeanne Gide, exige un castigo severo para el asesino.
+$GEN_041_OnStart_00
+Ciudadano, ¿cuál es su nombre?
+$GEN_041_OnStart_01
+Me llamo Alain Bras.
+$GEN_041_OnStart_02
+Se le acusa de provocar un accidente mortal en la intersección de la rue du Gros Chenet y la rue du Croissant. Tiene la sangre de un niño de cinco años en sus manos.
+$GEN_041_OnStart_03
+¡Juro que no atropellé a ese niño!
+$GEN_041_OnStart_04
+No mostrar arrepentimiento ni disposición a cooperar no son factores atenuantes.
+$GEN_041_OnStart_05
+¡No pierdas nuestro tiempo, es culpable!
+$GEN_041_OnGuilty_00
+¡Condeno al ciudadano Alain Bras a muerte por guillotina! Llévense al condenado.
+$GEN_041_OnGuilty_01
+¡Ojo por ojo!
+$GEN_041_OnGuilty_02
+Una sentencia indulgente para lo que hizo.
+$GEN_041_OnPrison_00
+¡Condeno al ciudadano Alain Bras a prisión! Saquen al condenado.
+$GEN_041_OnPrison_01
+¡Ojalá se pudra ahí!
+$GEN_041_OnPrison_02
+¡Debe perder la cabeza!
+$GEN_041_OnPrison_03
+Entonces, ¿los padres han perdido a su hijo y esa escoria sigue viva? No parece justo.
+$GEN_041_OnNotGuilty_00
+¡El veredicto para Alain Bras es... inocente! Retiren al acusado.
+$GEN_041_OnNotGuilty_01
+¡Mientras tanto, la madre del niño llora desconsolada! ¿Dónde está la justicia?
+$GEN_041_OnNotGuilty_02
+No puedo estar de acuerdo. ¡Es culpable, todo el mundo lo sabe!
+$GEN_041_02x05_00_QTitle
+Había sangre en las ruedas traseras de su carreta. ¿De dónde proviene?
+$GEN_041_02x05_00_00
+Había sangre en las ruedas traseras de su carreta. ¿De dónde proviene?
+$GEN_041_02x05_00_01
+Era de un perro. Atropellé a uno cerca de El Lobo Alegre.
+$GEN_041_02x05_00_02
+¿De verdad? Todo indica que era, en efecto, la sangre del menor atropellado por el acusado.
+$GEN_041_02x05_00_03
+¡Imposible! Lo sabría si un niño hubiera caído bajo mis ruedas.
+$GEN_041_02x05_00_04
+Un niño de cinco años tiene un tamaño similar al de un perro grande. ¿Quizás no estaba mirando con atención?
+$GEN_041_02x05_00_05
+De ninguna manera, oí los ladridos.
+$GEN_041_02x05_00_06
+¡Estaba tan borracho de vino que no distinguiría a un niño de una vaca!
+$GEN_041_02x03_01_QTitle
+¿Pasaste por la rue du Croissant?
+$GEN_041_02x03_01_00
+¿Pasaste por la rue du Croissant?
+$GEN_041_02x03_01_01
+Claro que sí. Tuve que desviarme de la rue du Gros Chenet para llevar la mercancía a la posada.
+$GEN_041_02x03_01_02
+¿Y supongo que no se tomó el tiempo para mirar a su alrededor?
+$GEN_041_02x03_01_03
+¿Que si tenía prisa? ¡Por supuesto! El tiempo apremiaba, los clientes esperaban, no había un segundo que perder.
+$GEN_041_02x03_01_04
+No hay tiempo que perder, porque…?
+$GEN_041_02x03_01_05
+Bueno... porque hay que entregar la mercancía a tiempo, ¿no?
+$GEN_041_02x03_01_06
+¿Entonces se arriesgó a provocar un accidente?
+$GEN_041_02x03_01_07
+El sediento se abalanzó sobre la botella.
+$GEN_041_02x03_01_08
+¿Entonces admite que conducía tan rápido como los caballos podían correr?
+$GEN_041_02x03_01_09
+Sí, claro, pero eso no me convierte en un asesino. Hay muchos carreteros en París, pudo haber sido cualquiera antes o después de que yo pasara.
+$GEN_041_02x03_01_10
+Claro, échale la culpa a otro, ¡maldito!
+$GEN_041_03x04_02_QTitle
+¿Cuánto bebió antes de comenzar su ruta aquel viernes?
+$GEN_041_03x04_02_00
+¿Cuánto bebió antes de comenzar su ruta aquel viernes?
+$GEN_041_03x04_02_01
+Solo una copita, monsieur le juge.
+$GEN_041_03x04_02_02
+Entonces, ¿cuando llegó a la rue du Croissant ya estaba bajo los efectos del alcohol?
+$GEN_041_03x04_02_03
+Amigo mío, no soy precisamente pequeño. Una copa de vino para mí es como agua. Iba sobrio, como siempre.
+$GEN_041_03x04_02_04
+Apuesto a que siempre está borracho perdido cuando salta a ese carro.
+$GEN_041_03x04_02_05
+Sin embargo, estaba completamente ebrio cuando las autoridades lo encontraron fuera de El Lobo Alegre.
+$GEN_041_03x04_02_06
+Había llegado a mi destino, y el amable anfitrión me ofreció una botella de brandy. Por supuesto, no tardé en encargarme de ella. El trabajo estaba hecho, ¿no?
+$GEN_041_03x04_02_07
+¡Bebía para ahogar su conciencia!
+$GEN_041_03x04_02_08
+¿Tenía prisa por tomar una copa después de un día difícil?
+$GEN_041_03x04_02_09
+Bueno, sí, eso es nor... Espera, no, nada de eso.
+$GEN_041_01x02_03_QTitle
+Probablemente no se consideraría usted un cochero prudente, ¿verdad?
+$GEN_041_01x02_03_00
+Probablemente no se consideraría un cochero prudente, ¿verdad?
+$GEN_041_01x02_03_01
+Tengo que llegar a un lugar concreto a una hora precisa. Ese es el trabajo, y no es para lentos.
+$GEN_041_01x02_03_02
+¿Acaso todos los carreteros van tan deprisa que no ven a los niños jugando en las calles?
+$GEN_041_01x02_03_03
+¡Yo no atropellé a nadie! Podría haber sido cualquier carretero de París.
+$GEN_041_01x04_04_QTitle
+¿Conduce mejor después de beber alcohol?
+$GEN_041_01x04_04_00
+¿Conduce mejor después de beber alcohol?
+$GEN_041_01x04_04_01
+No sé, pero deberías tomarte un vaso en ayunas, es bueno para la salud. Sin eso, te tiemblan tanto las manos que no puedes ni sujetar las riendas.
+$GEN_041_01x04_04_02
+¿Alguna vez has intentado conducir sin eso?
+$GEN_041_01x04_04_03
+¡Eh, ¿qué insinúas? ¡No soy un borracho!
+$GEN_041_01x04_04_04
+¡Míralo, todo orgulloso!
+$GEN_041_01x04_04_05
+¡Basta de charla, córtenle la cabeza de una vez!
+$GEN_041_02x04_05_QTitle
+¿Bebe mucho?
+$GEN_041_02x04_05_00
+¿Bebe mucho?
+$GEN_041_02x04_05_01
+Desde que murió mi esposa, bebo más, aunque no más que otros carreteros. Es parte del oficio.
+$GEN_041_02x04_05_02
+¿Así que suele conducir ebrio?
+$GEN_041_02x04_05_03
+¡Me echarían si lo hiciera! No tomo más que una o dos copas antes de empezar el trabajo. La fiesta solo comienza cuando termino de trabajar.
+$GEN_041_02x04_05_04
+¿No más de dos? ¿Le gustaría que lo llevara un cochero borracho?
+$GEN_041_02x04_05_05
+¿Y a mí qué? De todos modos, soy demasiado pobre para que alguien me lleve.
+$GEN_041_02x04_05_06
+No le importa.
+$GEN_041_KEY_01
+Estilo de conducción audaz
+$GEN_041_KEY_02
+Conducir un carro
+$GEN_041_KEY_03
+Rue du Croissant
+$GEN_041_KEY_04
+Cartero borracho
+$GEN_041_KEY_05
+Sangre fresca
+$GEN_041_LastDialog_00
+¡No, no, no, yo no fui!
+$GEN_041_UNIQUE_QUESTION_00
+¿Cómo explicó Bras la sangre en las ruedas de su vehículo?
+$GEN_041_UNIQUE_ANSWER_CORRECT_00_00
+Atropelló a un perro.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Estaba sangrando.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Fue una trampa tendida por la Guardia.
+$GEN_041_UNIQUE_QUESTION_01
+¿Reconoció el acusado haber bebido algo antes de ponerse en camino?
+$GEN_041_UNIQUE_ANSWER_CORRECT_01_00
+Un vasito.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Un vaso de cerveza.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Unos sorbos de vino.
+$GEN_041_UNIQUE_QUESTION_02
+¿Por qué conducía tan rápido el acusado?
+$GEN_041_UNIQUE_ANSWER_CORRECT_02_00
+Quería entregar la mercancía a tiempo.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Se apresuraba para ver a su familia.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Hizo una apuesta con un amigo.

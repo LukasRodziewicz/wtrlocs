@@ -1,0 +1,30 @@
+$DIAL_H_03_01_02_001_DESTEAL
+Je promets de ne pas prendre de temps. D'autant plus que mon affaire va de soi.
+$DIAL_H_03_01_02_002_JUDGE
+Bien sûr. Que pourrait-il arriver, au pire ?
+$DIAL_H_03_01_02_003_DESTEAL
+Des changements. Vous n'allez pas les aimer, surtout quand vous saurez qu'ils se produiront très bientôt.
+$DIAL_H_03_01_02_004_JUDGE
+Quel genre de changements ?
+$DIAL_H_03_01_02_005_DESTEAL
+La libération des femmes, bien entendu.
+$DIAL_H_03_01_02_006_JUDGE
+Je ne comprends pas. Qui vous asservit ?
+$DIAL_H_03_01_02_007_DESTEAL
+Vous, les hommes, qui décidez de régner sur le pays et sur nos destins. La Déclaration des droits de la femme l'expose clairement…
+$DIAL_H_03_01_02_008_JUDGE
+Ah oui, votre fameuse Déclaration. Votre legs.
+$DIAL_H_03_01_02_009_DESTEAL
+Je n'ai fait que donner quelques suggestions concernant le document. Mon devoir est autre : mener les femmes à leur triomphe suprême.
+$DIAL_H_03_01_02_010_JUDGE
+En foulant les cadavres des hommes, je présume ?
+$DIAL_H_03_01_02_011_DESTEAL
+Il n'est pas nécessaire d'en arriver là. La Déclaration doit être acceptée dans sa forme présente. À prendre ou à laisser. Nous ne consentons à aucun pourparler. Dussiez-vous résister et nous protesterons. Vous apprendrez alors ce que c'est d'affronter l'agresseur sans notre aide.
+$DIAL_H_03_01_02_012_JUDGE
+Vous voulez que je persuade les gens d'accepter un tel bouleversement, surtout en ce moment…
+$DIAL_H_03_01_02_013_DESTEAL
+Depuis la première fois que j'ai entendu votre nom, vous n'avez fait que manipuler et comploter. Vous y arriverez, je n'en doute pas. N'oubliez pas : sans nous, vous perdrez ; avec nous, vous aurez peut-être une chance. Nous ne voulons que la fraternité, voilà tout !
+$DIAL_H_03_01_02_014_JUDGE
+Je crois que vous surestimez le pouvoir des femmes, Madame. Je n'ai guère vu vos semblables sur les champs de bataille, alors même qu'un rien pût faire pencher maints combats.
+$DIAL_H_03_01_02_015_DESTEAL
+Ce qui importe le plus, c'est de savoir si vous êtes prêt à risquer notre révolte ou non. Vous savez ce que nous voulons. Nous allons vous laisser un moment de réflexion… Au revoir, citoyen.

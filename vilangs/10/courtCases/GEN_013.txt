@@ -1,0 +1,244 @@
+$GEN_013_DOC_01_HEADER
+Hazırlayan: Maurice Gaspar
+$GEN_013_DOC_01_00
+Halk arasında büyük nefret uyandıran <a name="1" class="hidden">Ferme générale</a>'nin tasfiyesinin üzerinden bir süre geçti. Bu kurum, önce eski krala vergi öder, ardından da çoğu zaman acımasızca, halktan alacaklarını – genellikle yüksek faizlerle – toplardı. Şimdi ise Ulusal Konvansiyon, çiftçilerden vergi toplayan tüm eski fermier général’lerin yargılanmasına karar verdi. Biz de onlardan biri olan Antoine Lavoisier’ye karşı sunulan delilleri inceleyeceğiz.
+$GEN_013_DOC_01_01
+Onun suçluluğunun en açık kanıtı, makamını tamamen kayırmacılık sayesinde elde etmiş olmasıdır. Açlıktan kırılan köylülerden vergi toplamanın yanı sıra, <a name="3" class="hidden">her türlü işe</a> bulaşmış, üstelik bunların hepsi de dürüst işler değildi. Birkaç tanık, onun sık sık nemli tütünü fahiş fiyatlara sattığını iddia etti. Lavoisier’nin belgelerinde bu söz konusu <a name="4" class="hidden">hileye</a> dair bir iz bulamadık, fakat Paris sokaklarında bu konu dilden dile dolaşıyor.
+$GEN_013_DOC_01_02
+Vergilerden elde edilen parayı, birçok kimyasal deney yaptığı özel laboratuvarını finanse etmek için kullandı. Soruşturma sırasında görüşülen birçok Parisli kimyager, Lavoisier’i <a name="5" class="hidden">parlak bir bilim insanı</a> olarak nitelendirdi.
+$GEN_013_DOC_01_03
+Elbette, bu tek başına ihaneti kanıtlamaz. Ancak sanık, sık sık <a name="6" class="hidden">yabancı bilim insanlarıyla</a> yazışıyordu. Fransız köylülerinden alınan paralarla onları desteklediğini tespit ettik ve muhtemelen <a name="7" class="hidden">araştırmalarının</a> sonuçlarını da paylaşıyordu. Neden hepsini Fransız halkı için saklamadı?
+$GEN_013_DOC_02_00
+<a name="8" class="hidden">Rapor</a> tütün hakkında:
+$GEN_013_DOC_02_01
+Tütünü kuru bir yerde saklamanızı rica ederim. Nemli tütün, müşterileri uzaklaştırır, kalitesini düşürür ve fiyatını azaltır. Saygılarımla, Antoine Lavoisier
+$GEN_013_OnStart_00
+Evet! O pis asalakları cezalandır!
+$GEN_013_OnStart_01
+Bu insanların kesinlikle başı kesilmeli. Onlar, sıradan bir Fransızın isyan ettiği her şeyin sembolü.
+$GEN_013_OnStart_02
+Lütfen kendinizi tanıtınız.
+$GEN_013_OnStart_03
+Benim adım Antoine Lavoisier.
+$GEN_013_OnStart_04
+Mesleğiniz nedir, Bay Lavoisier?
+$GEN_013_OnStart_05
+Ferme générale’de vergi tahsilatına yardımcı oldum, ayrıca bir bilim insanıyım. İtiraf etmeliyim ki, pek çok önemli keşfe de imza attım.
+$GEN_013_OnStart_06
+Mahkeme önünde övünmeyin.
+$GEN_013_OnStart_07
+Tabii, anlat bakalım, paramızla aldığın pastaları nasıl mideye indirdin.
+$GEN_013_OnGuilty_00
+Vatandaş Antoine Lavoisier’i giyotinle ölüme mahkûm ediyorum. Götürün onu.
+$GEN_013_OnGuilty_01
+Fransa'nın tüm düşmanları onun kaderini paylaşacak.
+$GEN_013_OnGuilty_02
+Yaşasın!
+$GEN_013_OnGuilty_03
+Şu asalaklardan kurtulun!
+$GEN_013_OnGuilty_04
+Fransa’yı iyileştirelim!
+$GEN_013_OnPrison_00
+İşlediği suçlar nedeniyle Antoine Lavoisier hapis cezasına çarptırılmıştır. Mahkûmu götürün.
+$GEN_013_OnPrison_01
+Böylesine azılı bir Cumhuriyet düşmanı için bu hüküm fazlasıyla hafif.
+$GEN_013_OnPrison_02
+Sadece hapis mi? Onun gibi bir hain için mi?
+$GEN_013_OnPrison_03
+İmkansız!
+$GEN_013_OnPrison_04
+Bu nasıl bir ceza?!
+$GEN_013_OnNotGuilty_00
+Sanığın beraatine hükmediyorum. Bay Lavoisier’i dışarı çıkarın.
+$GEN_013_OnNotGuilty_01
+Yargıç aklını kaçırmış!
+$GEN_013_OnNotGuilty_02
+Adalet er ya da geç yerini bulacak!
+$GEN_013_OnNotGuilty_03
+Az önce binlerce çiftçinin yüzüne tükürdünüz.
+$GEN_013_01x03_00_QTitle
+Ferme générale’deki göreviniz ve bilimsel çalışmalarınız dışında…
+$GEN_013_01x03_00_00
+Ferme générale’deki göreviniz ve bilimsel çalışmalarınız dışında başka bir uğraşınız var mı?
+$GEN_013_01x03_00_01
+Ayrıca Barut Komisyonu üyesiyim ve Devrim başlamadan önce Caisse d’escompte’un idari kuruluna başkanlık etmem için görevlendirilmiştim.
+$GEN_013_01x03_00_02
+Sizce de bu, tek bir kişi için fazla değil mi?
+$GEN_013_01x03_00_03
+Açgözlü sahtekâr!
+$GEN_013_01x03_00_04
+Beni o görevlere atayan insanlar, işimin kalitesinden asla şikayet etmediler.
+$GEN_013_01x03_00_05
+Herhalde tesadüftür ki, bu insanların çoğu çoktan hapse ya da giyotine gönderildi.
+$GEN_013_01x03_00_06
+O hırsızlara sonunda hak ettikleri ceza veriliyor!
+$GEN_013_01x02_01_QTitle
+Nasıl oldu da fermier général oldunuz? Bu konuda pek çok söylenti dolaşıyor...
+$GEN_013_01x02_01_00
+Fermier général olmayı nasıl başardınız? Bu konuda pek çok söylenti dolaşıyor...
+$GEN_013_01x02_01_01
+Bu makamı kayınbabamdan devraldım.
+$GEN_013_01x02_01_02
+Pis torpilci!
+$GEN_013_01x02_01_03
+Neden kabul ettiniz?
+$GEN_013_01x02_01_04
+Fransa Kralı’na, aslında tüm devlete hizmet ediyordum. Bu benim için bir onurdu. Açıkçası, işimi de severek yapıyordum.
+$GEN_013_01x02_01_05
+Zengin olmayı seviyorsun!
+$GEN_013_01x02_01_06
+Bence evlenmenizin sebebi, kayınpederinizin size o makamı vermesini istemenizdi.
+$GEN_013_01x02_01_07
+Ne kadar aşağılık bir ima!
+$GEN_013_01x02_01_08
+Gerçek şu ki, evlilik sayesinde sıradan birinden çok daha fazla kazanmaya başladınız.
+$GEN_013_01x02_01_09
+Zengin bir kadınla evlenmek suç değildir.
+$GEN_013_01x02_01_10
+Evlendiğinizde eşiniz kaç yaşındaydı?
+$GEN_013_01x02_01_11
+On üç. Eşimin yaşıyla davanın ne ilgisi olduğunu anlamıyorum.
+$GEN_013_04x08_02_QTitle
+Her türlü dolandırıcılık ve hileyle suçlanıyorsunuz. Bunlardan biri de nemli tütün satmak.
+$GEN_013_04x08_02_00
+Her türlü dolandırıcılık ve hileyle suçlanıyorsunuz. Bunlardan biri de nemli tütün satmak.
+$GEN_013_04x08_02_01
+Saçmalık! Tedarikçilerimi şahsen uyardım, tütünün kuru kalmasına özellikle dikkat etmelerini söyledim. Belgelerimi inceleyin, raporları bulacaksınız.
+$GEN_013_04x08_02_02
+Bizi kandırmak için o raporları diğer evrakların arasına koymuş olabilirdiniz.
+$GEN_013_04x08_02_03
+Onun gibiler doğuştan yalancıdır!
+$GEN_013_04x08_02_04
+Her zaman örnek bir evrak tuttum, vicdanıma asla karşı gelmedim.
+$GEN_013_04x08_02_05
+Bir vergi tahsildarının vicdanı… Açlıktan kırılan çiftçilerden para toplarken yolunuza engel olmadı sanırım?
+$GEN_013_04x08_02_06
+Her zaman Fransız vergi mevzuatına uygun davrandım.
+$GEN_013_04x08_02_07
+O yasa korkunçtu!
+$GEN_013_06x04_03_QTitle
+Devlet hazinesinden çaldığınız paradan bahsedelim.
+$GEN_013_06x04_03_00
+Devlet hazinesinden çaldığınız paradan bahsedelim.
+$GEN_013_06x04_03_01
+Çalınan para mı? Bu suçlamanın dayanağı nedir?
+$GEN_013_06x04_03_02
+Fransa’dan çaldığınız paralar, yabancı bilim insanlarını desteklemek için kullanılmış. Neden? Bilmiyoruz…
+$GEN_013_06x04_03_03
+Ama bunun savaşla bir ilgisi olduğunu düşünüyoruz.
+$GEN_013_06x04_03_04
+Yabancı araştırmaları finanse ettim, evet, ama kendi paramla yaptım ve bunun savaşla hiçbir ilgisi yoktu!
+$GEN_013_06x04_03_05
+Devletin çıkarlarına aykırı davrandınız. Bu ihanettir. Hainlere ne yaptığımızı biliyor musunuz?
+$GEN_013_06x04_03_06
+Şunu söyleyeyim ki, bu başı kesmek bir anınızı alır, ama bir benzerini yaratmak için yüz yıl yetmeyebilir.
+$GEN_013_06x04_03_07
+Cumhuriyetin bilim insanlarına ihtiyacı yok!
+$GEN_013_05x07_04_QTitle
+Laboratuvarınızı vergi mükelleflerinin parasıyla mı çalışır durumda tuttunuz?
+$GEN_013_05x07_04_00
+Laboratuvarınızı vergi mükelleflerinin parasıyla çalışır halde mi tuttunuz?
+$GEN_013_05x07_04_01
+Evet, bay yargıç.
+$GEN_013_05x07_04_02
+Tam olarak ne buldunuz? İşe yarar bir şey var mı?
+$GEN_013_05x07_04_03
+Diğerlerinin yanı sıra, yanma olgusunu açıkladım, flogiston teorisini çürüttüm, kalorimetreyi icat ettim...
+$GEN_013_05x07_04_04
+Ne diyor bu adam?
+$GEN_013_05x07_04_05
+Bu keşifler sıradan Yurttaşa yardımcı oluyor mu?
+$GEN_013_05x07_04_06
+Bilim her zaman insanlara hemen fayda sağlamaz, ama bir gün o keşifler...
+$GEN_013_05x07_04_07
+Duydunuz mu? Bilim insanlara fayda sağlamıyor!
+$GEN_013_05x07_04_08
+Araştırmalarınız için ne kadar para harcandı?
+$GEN_013_05x07_04_09
+Hiç ölçmedim. Yıllardır keşiflerim üzerinde çalışıyorum.
+$GEN_013_05x07_04_10
+Biz ödediğimiz için ölçmedi.
+$GEN_013_05x03_05_QTitle
+Neden yalnızca bilime odaklanmadınız?
+$GEN_013_05x03_05_00
+Neden yalnızca bilime odaklanmadınız?
+$GEN_013_05x03_05_01
+Çeşitli işlerle uğraşmak için yeterince vaktim vardı.
+$GEN_013_05x03_05_02
+Eğer tek bir alana odaklansaydınız, daha verimli olabilirdiniz, sizce de öyle değil mi?
+$GEN_013_05x03_05_03
+İlginiz için teşekkür ederim, fakat günlük düzenim bana ait.
+$GEN_013_05x03_05_04
+Hayır, öyle değil. Bir devlet görevlisi olarak tüm zamanınızı ve enerjinizi devlet için çalışmaya harcamalısınız. Ama siz bunu yapmadınız.
+$GEN_013_05x03_05_05
+Şimdi o asalak ne diyecek bakalım?
+$GEN_013_05x03_05_06
+Sıradan insanlar tek bir işe odaklanmak zorunda. Bana gelince, bu yetmez. Sıkıntıdan ölürüm.
+$GEN_013_05x06_06_QTitle
+Yardımınızı ve maddi desteğinizi isteyen yabancı bilim insanları hakkında daha fazla bilgi verin. Kimlerdi onlar?
+$GEN_013_05x06_06_00
+Yardımınız ve maddi desteğiniz için başvuran yabancı bilim insanları hakkında daha fazla bilgi verin. Kimlerdi onlar?
+$GEN_013_05x06_06_01
+Bazıları İtalyan kimyagerlerdi; bilime büyük katkıları vardı ama para bulmakta o kadar başarılı değillerdi. Bartolomeo Beccaria, Diego Petrarca, Daniele Marconi…
+$GEN_013_05x06_06_02
+İtalyanları, Fransa’yla defalarca savaşmış olmalarına rağmen mi desteklediniz?
+$GEN_013_05x06_06_03
+Aynen öyle!
+$GEN_013_05x06_06_04
+Her komşumuzla savaştık. Bunun bilimle ne ilgisi var?
+$GEN_013_05x06_06_05
+Savaş sanatını bütünüyle değiştiren ateşli silahı yaratanlar, sizin gibi bilim insanları değil miydi?
+$GEN_013_05x06_06_06
+Yaptığım iş silahlarla ilgili değildi.
+$GEN_013_05x06_06_07
+Size inanabilir miyiz?
+$GEN_013_KEY_01
+Genel Çiftlik
+$GEN_013_KEY_02
+Mevkiye ulaşmak
+$GEN_013_KEY_03
+Çeşitli işler
+$GEN_013_KEY_04
+Dolandırıcılık
+$GEN_013_KEY_05
+Dâhi bilim insanı
+$GEN_013_KEY_06
+Yabancı bilim insanları
+$GEN_013_KEY_07
+Bilimsel araştırma
+$GEN_013_KEY_08
+Rapor
+$GEN_013_LastDialog_00
+Bunun hiçbir mantığı yok. Beni öldürürseniz, bilimin ilerlemesine engel olursunuz!
+$GEN_013_UNIQUE_QUESTION_00
+Sanık ne tür araştırmalar yapıyordu?
+$GEN_013_UNIQUE_ANSWER_CORRECT_00_00
+Yanma olgusunu araştırdı.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Gelişmiş bir ateşli silah üzerinde çalıştı.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Kurşunu altına çevirmeye çalıştı.
+$GEN_013_UNIQUE_QUESTION_01
+Sanık, vergi tahsildarı olarak yaptığı işi nasıl açıkladı?
+$GEN_013_UNIQUE_ANSWER_CORRECT_01_00
+Fransız yasalarından bahsetti.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_01_00
+İncil'den alıntı yaptı.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Eskiden bunu ailesi için yapardı.
+$GEN_013_UNIQUE_QUESTION_02
+Sanık yabancı bilim insanlarına para gönderdi mi?
+$GEN_013_UNIQUE_ANSWER_CORRECT_02_00
+Evet, ama kendi parasıydı.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Vergi mükelleflerinin parasını gönderdi.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Lavoisier hiç para göndermedi.
+$GEN_013_UNIQUE_QUESTION_03
+Sanık ne satıyordu?
+$GEN_013_UNIQUE_ANSWER_CORRECT_03_00
+Nemli tütün.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Ekşimiş şarap.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Küflü ekmek.

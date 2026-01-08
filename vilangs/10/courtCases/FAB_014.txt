@@ -1,0 +1,304 @@
+$FAB_014_DOC_1_HEADER
+Hazırlayan: Charles Etienne
+$FAB_014_DOC_1_00
+<a name="1" class="hidden">Kızıl Rahip</a> Jacques Roux, siyasetçi ve gazeteci Jean-Paul Marat’ı öldürmeyi planlamakla suçlanıyor. Ayrıca sıradan bir kasaba kadını olan <a name="2" class="hidden">Bayan Beaurepaire’ın dul</a> adına toplanan parayı çalmak ve Vatandaş Capet’in idamından hemen önce kendisine teslim ettiği belgeleri yasa dışı şekilde saklamakla da itham edilmiştir.
+$FAB_014_DOC_1_01
+Son yıllarda Roux, Paris’in en radikal adamlarından biri olarak ün kazandı. Talepleri arasında <a name="3" class="hidden">bedava ekmek dağıtılması</a>, <a name="4" class="hidden">vergilerin kaldırılması</a> ve servetini saklayan herkesin başının vurulması vardı. Sanık, Fransa’nın en aşırı ve saldırgan grubu olan Enragés adlı bir fraksiyon kurdu. Bu insanlar, çoğunlukla en yoksul sans-culotte’lar, Jacques Roux’nun sunduğu kolay çözümlere kolayca inandılar.
+$FAB_014_DOC_1_02
+Konuşmalarında Roux, yaptıklarının Fransa’nın iyiliği için olduğuna insanları inandırdı. Fakat yılın başında, çaresiz bir kalabalığın şehri yağmalayıp talan ettiği gıda isyanlarını kışkırttı; birçok kişi yaralandı. Bu olaylar, Vatandaş Capet’in idamından sadece haftalar sonra yaşandı. Roux, onu giyotine kadar eşlik etti ve iddiaya göre <a name="7" class="hidden">gizemli bir paket</a> aldı. Hükümet üyeleri arasında, paketin düşman monarşiler tarafından gönderilmiş olabileceği, Fransa’da kargaşa çıkarması için emir ve bunun karşılığında ödeme içerdiği yönünde yaygın bir kanaat var.
+$FAB_014_DOC_1_03
+Ayrıca, Kızıl Rahip’in Marat’nın “Halkın Dostu”ndaki makalesine öfkeyle verdiği cevabı basma işini kabul eden matbaacının kısmi ifadesini de sunuyoruz.
+$FAB_014_DOC_1_04
+Bu adam matbaama geldiğinde yüzündeki ifade öylesine tehditkârdı ki, kendimi savunacak bir şey aramaya koyuldum. Bir tomar kağıdı tezgâha öyle bir şiddetle fırlattı ki, yakındaki masadan bir somun ekmek yere sıçradı. Ön sayfada Marat’nın adını gördüm ve ona sordum. “Bunu bas,” dedi. “Yakında o alçağı bir <a name="8" class="hidden">tahta kutuya</a> koyacaklar.”
+$FAB_014_OnStart_00
+Lütfen tam adınızı söyleyin.
+$FAB_014_OnStart_01
+Roux bu!
+$FAB_014_OnStart_02
+Kızıl Rahip’in ta kendisi! Hakim aptal mı, nedir?
+$FAB_014_OnStart_03
+Halkı dinleyin, çünkü söylenmesi gereken her şeyi onlar zaten söyledi.
+$FAB_014_OnStart_04
+Hakkınızda ciddi suçlamalar var, işimizi zorlaştırmaya çalışmayın.
+$FAB_014_OnStart_05
+Bunların hepsi Marat, Robespierre ve o çevrelerindeki grubun uydurması.
+$FAB_014_OnStart_06
+Kendinizi savunma fırsatınız olacak. Önce kayıtlara geçmesi için adınızı söyleyin.
+$FAB_014_OnStart_07
+Jacques Roux!
+$FAB_014_OnStart_08
+Kızıl Rahip!
+$FAB_014_OnStart_09
+Roux!
+$FAB_014_OnStart_10
+Sanığın iş birliği yapmaması nedeniyle duruşma yapılmadan hüküm verilmesini öneriyorum.
+$FAB_014_OnStart_11
+Sana son kez soruyorum.
+$FAB_014_OnStart_12
+Jacques Roux. Bunun amacı insanları küçük düşürmek mi? Monarkı devirdik, ama iktidardakiler için hiçbir şey değişmedi...
+$FAB_014_OnGuilty_00
+Hırsızlık, Vatandaş Capet ile komplo kurmak ve Cumhuriyet’e ihanet suçlarından sizi idam edilmek üzere kafanızın kesilmesine mahkûm ediyorum!
+$FAB_014_OnGuilty_01
+Bunu duydunuz mu?
+$FAB_014_OnGuilty_02
+Sokaklara çıkın!
+$FAB_014_OnGuilty_03
+Bunu asla affetmeyeceğiz!
+$FAB_014_OnGuilty_04
+Adaletsizlik!
+$FAB_014_OnGuilty_05
+Yargıcı giyotine gönderin!
+$FAB_014_OnGuilty_06
+Buna mahkeme mi diyorsunuz?!
+$FAB_014_OnNotGuilty_00
+Jacques Roux masumdur. Burada olup bize kulak verdiğiniz için hepinize teşekkür ederim.
+$FAB_014_OnNotGuilty_01
+Bizden korkuyor!
+$FAB_014_OnNotGuilty_02
+Güçlüyüz!
+$FAB_014_OnNotGuilty_03
+Baba Roux bize önderlik edecek!
+$FAB_014_OnNotGuilty_04
+Zenginlerin devri sona erdi!
+$FAB_014_01x05_00_QTitle
+Radikal konuşmalarınız yüzünden size Kızıl Rahip dediler mi…
+$FAB_014_01x05_00_00
+Radikal konuşmalarınız ve Devrimci faaliyetleriniz yüzünden size Kızıl Rahip diyorlar mı?
+$FAB_014_01x05_00_01
+Evet, ve bununla gurur duyuyorum!
+$FAB_014_01x05_00_02
+Bizim için savaşan tek kişi o!
+$FAB_014_01x05_00_03
+Bunların yanı sıra, herkese yiyecek dağıtılması gerektiğini savunuyor ve eşitlik fikrini de öne sürüyorsunuz?
+$FAB_014_01x05_00_04
+Bunu anladığınıza sevindim.
+$FAB_014_01x05_00_05
+Yine de, Katolik Kilisesi’ne katıldınız; oysa kilise, Louis ve selefleri döneminde Fransa halkını kandırmıştı.
+$FAB_014_01x05_00_06
+Saintes halkına elimden gelen her yardımı yaptım, üstelik devrime katılan ilk din adamı da bendim! Beni halkı ezmekle suçlamak, bir köpeği bütün meyveleri yemekle suçlamak kadar saçma.
+$FAB_014_01x05_00_07
+Ancak ait olduğunuz örgütü ve hizmet ettiğiniz otoriteyi en başından biliyordunuz.
+$FAB_014_01x05_00_08
+Bana, monarşi döneminde benim yüzümden zarar görmüş tek bir insan gösterin.
+$FAB_014_01x05_00_09
+Bize, cemaatinizin hiç ondalık toplamadığına inanmamızı mı istiyorsunuz?!
+$FAB_014_01x05_00_10
+Bu adam, Devrim için bu mahkemenin tamamından daha fazlasını yaptı!
+$FAB_014_02x04_01_QTitle
+Dul Bayan Beaurepaire’i tanık olarak çağırın.
+$FAB_014_02x04_01_00
+Dul Bayan Beaurepaire’i tanık olarak çağırın.
+$FAB_014_03x06_02_QTitle
+Halkı, elinde tahıl olanlardan tahılı almaya çağırdınız mı?
+$FAB_014_03x06_02_00
+Halkı, elinde tahıl olanlardan bunu almaya çağırdınız mı?
+$FAB_014_03x06_02_01
+Tahıl, un, ekmek, sebze. Kimde fazlası varsa, ondan alınacak.
+$FAB_014_03x06_02_02
+Tanrım, bu adam için sana şükürler olsun!
+$FAB_014_03x06_02_03
+Halkı, ihtiyaçları olan yiyeceği almaya teşvik ettiniz mi?
+$FAB_014_03x06_02_04
+Çocukları açsa, taşıyabildikleri kadarını almaya hakları vardır.
+$FAB_014_03x06_02_05
+Peki ya bu insanlar tarafından soyulan dükkân sahiplerinin çocukları? Hepsi zengin değildi.
+$FAB_014_03x06_02_06
+Lütfen bana zengin bir adamı tarif edin. Bana göre zengin, başkaları açken yiyebilen kişidir!
+$FAB_014_03x06_02_07
+Halkı isyana teşvik ederken aç olduğuna inanmamızı mı bekliyorsun?
+$FAB_014_03x06_02_08
+O sırada oruç tutuyordum ve günlük yemeğim zaten oldukça mütevazıdır.
+$FAB_014_03x06_02_09
+Biz ot yerken, savcı, siz neyle besleniyorsunuz?
+$FAB_014_03x06_02_10
+Muhafızların buna sessiz kalmayacağını ve bu insanları soyguna göndererek hayatlarını tehlikeye attığınızı bilmeliydiniz.
+$FAB_014_03x06_02_11
+Gitmeselerdi açlıktan öleceklerdi. En azından onları kurtarmaya çalıştım.
+$FAB_014_04x01_03_QTitle
+Vergilerin kaldırılmasını savundunuz, öyle değil mi?
+$FAB_014_04x01_03_00
+Vergilerin kaldırılmasını savundunuz, değil mi?
+$FAB_014_04x01_03_01
+Yiyecekle ilgili olanların hepsi, evet.
+$FAB_014_04x01_03_02
+Ama siz geçiminizi, mahsullerden alınan onda bir vergiden sağladınız.
+$FAB_014_04x01_03_03
+Halkım! Bana inanın, bu saçma fikrin kaldırılmasını ilk isteyen ben oldum.
+$FAB_014_04x01_03_04
+Doğru! Bu çürümüş şehirde gerçeği söyleyen tek kişi o.
+$FAB_014_04x01_03_05
+Söyleyin, Fransız Ordusu’nu yok etme amacınız neydi?
+$FAB_014_04x01_03_06
+Vergiler olmasaydı, orduya para bulunamazdı.
+$FAB_014_04x01_03_07
+Ordu, devrimcilerden, gerçek Fransızlardan oluşmalı. Onlar para için savaşmazdı.
+$FAB_014_04x01_03_08
+Salt bir vatanseverlikten mi? Elbette, barut kendiliğinden öğütülür, toplar da kendiliğinden dökülür. Şunu anlamalısınız ki vergiler olmadan Fransa kısa sürede düşmanlarımızın eline düşer — ki hatırlatayım, düşmanımız çok.
+$FAB_014_04x01_03_09
+Peder Roux’nun bu radikalizmi yalnızca Britanya ve Avusturya’nın işine yaradı. Halkı kışkırtması için ona mutlaka para ödemişlerdir.
+$FAB_014_04x01_03_10
+Siyasi rakiplerim buna inanmayı kesinlikle isterdi.
+$FAB_014_04x01_03_11
+En azından bizi doyurmak istemişti!
+$FAB_014_06x07_04_QTitle
+Louis’i giyotine götürülürken gerçekten siz mi eşlik ettiniz?
+$FAB_014_06x07_04_00
+Louis’i giyotine götürülürken gerçekten siz mi eşlik ettiniz?
+$FAB_014_06x07_04_01
+Doğru.
+$FAB_014_06x07_04_02
+Tanıklar size bir paket verdiğini söylüyor.
+$FAB_014_06x07_04_03
+Bunu raporda belirttim. Ailesine kişisel eşyalarını içeren bir paket vermemizi istedi, fakat reddettik.
+$FAB_014_06x07_04_04
+Evet, böyle yazmışsınız, fakat ifadenizi değiştirmek ister misiniz? Suçunuzu kabul ederseniz bu sizin yararınıza olabilir.
+$FAB_014_06x07_04_05
+Pakette herhangi bir belge var mıydı? Değerli bir şey çıktı mı?
+$FAB_014_06x07_04_06
+Gerçekten Louis'nin benim gibi birine güveneceğini mi sanıyorsunuz? Onun çabucak ölmesini herkesten çok ben istedim.
+$FAB_014_06x07_04_07
+Bir ajan olsaydınız, şüpheleri uzaklaştırmak için tam da böyle söylerdiniz.
+$FAB_014_06x07_04_08
+Onu gördüm. Orada duruyordu, biz Capet’nin kanını toplarken gülümsüyordu.
+$FAB_014_06x07_04_09
+O halde, kısa süre sonra Paris’te kargaşa çıkarmanız bir tesadüf müydü? Yoksa bu Louis’nin intikamı, bir darbe girişimi miydi?
+$FAB_014_06x07_04_10
+Eğer beni bu suçla itham ediyorsanız, o zaman herkesi suçlayabilirsiniz. Bugün, yarın ya da bir hafta sonra Paris’te yaşayan hiç kimse vatana ihanetten suçlanmaktan muaf değildir! İşte bu, terörün ta kendisi—
+$FAB_014_06x07_04_11
+Halkı Cumhuriyet’e karşı isyana teşvik etmek, şüphesiz hem II. Franz hem de III. George’un size minnettar kalacağı bir davranış olurdu.
+$FAB_014_06x07_04_12
+En çok, sonunda karnını doyurabilen o çocuklardan teşekkür aldım.
+$FAB_014_06x07_04_13
+Defolun, zenginler ve vurguncular!
+$FAB_014_06x07_04_14
+Halka ekmek!
+$FAB_014_01x08_05_QTitle
+Vatandaş Marat ile aranızdaki anlaşmazlığın sebebi neydi?
+$FAB_014_01x08_05_00
+Vatandaş Marat ile aranızdaki anlaşmazlığın sebebi neydi?
+$FAB_014_01x08_05_01
+Bu adam önce misafirperverliğimi suistimal etti, sonra da beni alenen karaladı.
+$FAB_014_01x08_05_02
+Sizin hakkınızda ne yazmış?
+$FAB_014_01x08_05_03
+Örneğin, Tanrı’ya inanmadığım ve yalnızca siyasete karışmak için rahip olduğum söyleniyor.
+$FAB_014_01x08_05_04
+Açıkçası, son zamanlarda siyasete vaazdan daha fazla zaman ayırdınız.
+$FAB_014_01x08_05_05
+Tanrı, konuşanları değil, harekete geçenleri sever.
+$FAB_014_01x08_05_06
+Bir tanığımız, Marat hakkında şöyle dediğinizi beyan ediyor, alıntılıyorum: “O alçağı yakında tahtadan bir kutuya koyacaklar.” Burada tabut mu demek istediniz?
+$FAB_014_01x08_05_07
+Elbette, ama bu onu öldürmek istediğim anlamına gelmez.
+$FAB_014_01x08_05_08
+Yani bunu öfkenizi kontrol edemediğiniz için mi söylediniz?
+$FAB_014_01x08_05_09
+Marat gerçekten de tam bir alçak, sahtekâr, adı devrimci kendi değil, iki yüzlü bir–
+$FAB_014_01x08_05_10
+Ona karşı bir kin beslediğiniz ve kendisini alenen ölümle tehdit ettiğiniz açıkça ortadayken, yine de kötü bir niyetiniz olmadığını mı söylüyorsunuz?
+$FAB_014_01x08_05_11
+Ben bir rahibim. Ona asla dokunmazdım.
+$FAB_014_01x08_05_12
+Hayır, ama destekçilerinizi bunu sizin için yapmaya ikna edebilirdiniz.
+$FAB_014_01x08_05_13
+Rahip Roux için, o alçağı bugün bile öldürürdüm!
+$FAB_014_08x01_06_QTitle
+Beşinci emir nedir?
+$FAB_014_08x01_06_00
+Beşinci emir nedir?
+$FAB_014_08x01_06_01
+Öldürmeyeceksin.
+$FAB_014_08x01_06_02
+İncil’deki Dağ Vaazı’nda da Mesih şöyle der: “Kardeşine öfkelenme, git ve onunla barış.” Öyle değil mi?
+$FAB_014_08x01_06_03
+Bir Devrim Mahkemesi yargıcı için Kutsal Kitap’ı iyi biliyorsunuz.
+$FAB_014_08x01_06_04
+Fakat Marat ile barışmak istemediniz, bunun yerine ona tehditler savurup en kötü akıbeti dilediniz.
+$FAB_014_08x01_06_05
+Günah işledim–
+$FAB_014_08x01_06_06
+Onların önünde pişmanlık göstermeyin!
+$FAB_014_08x01_06_07
+Sessiz olun, duruşma henüz bitmedi. Marat’ı öldürmeyi mi planladınız?
+$FAB_014_08x01_06_08
+Açıkça görülüyor ki itiraf etmeyecek. Yine de, dolaylı deliller güçlü ve onu ele veriyor.
+$FAB_014_08x01_06_09
+Duydunuz mu? Ellerinde somut bir delil yok, sadece hiçbir şey kanıtlamayan dolaylı bilgiler var!
+$FAB_014_08x01_06_10
+Bir anlık içtenlikle, günah işlediğinizi itiraf edersiniz.
+$FAB_014_08x01_06_11
+Elde kanıt yoksa, onu neye dayanarak mahkûm etmek istiyorlar?
+$FAB_014_08x01_06_12
+Bağışlamayı unuttum, işte benim günahım bu. Ama yemin ederim ki, suçlamalarınız gübre çukurundan beter kokan iğrenç yalanlardan ibaret! Benden kurtulmak istiyorsunuz, çünkü halk beni dinliyor!
+$FAB_014_WIT_01_A_QTitle
+Rahip Roux’nun taleplerini destekliyor musunuz?
+$FAB_014_WIT_01_A_00
+Rahip Roux’nun taleplerini destekliyor musunuz?
+$FAB_014_WIT_01_A_01
+Elbette.
+$FAB_014_WIT_01_A_02
+Neden?
+$FAB_014_WIT_01_A_03
+Zenginlerden yiyecek alınmasını istiyor ve ben de bu şehirde her gün kaç kişinin aç olduğunu görüyorum. O iyi bir insan.
+$FAB_014_WIT_01_A_04
+O, şu sözde yetkililerden çok daha iyi!
+$FAB_014_WIT_01_B_QTitle
+Bayan Beaurepaire, Baba Roux sizin için yardım topluyordu, öyle değil mi?
+$FAB_014_WIT_01_B_00
+Bayan Beaurepaire, Baba Roux sizin için yardım topluyordu, öyle değil mi?
+$FAB_014_WIT_01_B_01
+Kocam aniden öldü ve ben yapayalnız kaldım. Oda ve ekmek parası… Anlarsınız ya, benim için hiç kolay olmadı.
+$FAB_014_WIT_01_B_02
+Peki, Roux size yardım etmeyi mi teklif etti?
+$FAB_014_WIT_01_B_03
+Evet, biraz para toplamaya gidiyordu.
+$FAB_014_WIT_01_B_04
+Ne kadar aldınız?
+$FAB_014_WIT_01_B_05
+Sonunda hiçbir şey alamadım.
+$FAB_014_WIT_01_B_06
+Neden olmasın?
+$FAB_014_WIT_01_B_07
+Emin değilim. Belki de bir başkasının paraya benden daha çok ihtiyacı vardı.
+$FAB_014_WIT_01_B_08
+Onu daha fazla suçlamayı bırakın!
+$FAB_014_KEY_01
+Kızıl Rahip
+$FAB_014_KEY_02
+Dul Beaurepaire
+$FAB_014_KEY_03
+Bedava ekmek
+$FAB_014_KEY_04
+Vergiler
+$FAB_014_KEY_05
+Konuşmalar
+$FAB_014_KEY_06
+Yaralılar
+$FAB_014_KEY_07
+Gizemli paket
+$FAB_014_KEY_08
+Tabut
+$FAB_014_LastDialog_00
+Gördünüz mü! İşte zenginlere ve onların mülküne el uzatanların başına gelen budur!
+$FAB_014_UNIQUE_QUESTION_01
+Sanık, geçmişte bizzat topladığı ondalık hakkında ne düşünüyordu?
+$FAB_014_UNIQUE_ANSWER_CORRECT_01_00
+Ona karşıydı.
+$FAB_014_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Yasayı destekledi.
+$FAB_014_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Umursamadı.
+$FAB_014_UNIQUE_QUESTION_02
+Sanık neden Marat’ın ölümünü istedi?
+$FAB_014_UNIQUE_ANSWER_CORRECT_02_00
+Çünkü gazeteci onun hakkında iftiralar yazmaya devam etti.
+$FAB_014_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Önce Marat ona tehditte bulundu.
+$FAB_014_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Marat ona ihanet etti.
+$FAB_014_UNIQUE_QUESTION_03
+Sanık, yiyeceği olanlardan çalmaları için insanları kışkırttığını doğruladı mı?
+$FAB_014_UNIQUE_ANSWER_CORRECT_03_00
+Evet, yaptı.
+$FAB_014_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Hayır, bunu doğrulamadı.

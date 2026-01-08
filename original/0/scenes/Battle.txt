@@ -1,0 +1,168 @@
+#BATTLE_TURNS
+Tura {0}
+#LAST_STAND
+Ostatnia szansa!
+#BATTLE_WIN
+Wygrałeś!
+#BATTLE_LOSE
+Przegrałeś!
+#BATTLE_DRAFT
+Remis!
+
+#BATTLE_TURN
+Tura {0}
+
+#BATTLE_TURN_LINE
+Tura {0}
+
+#BATTLE_SUMMARY_ENEMY
+Przeciwnik:
+#BATTLE_SUMMARY_PLAYER
+Gracz:
+
+#START_BATTLE
+Stocz bitwę
+#PENDING_BATTLE
+Walka trwa
+#BALANCE_OF_POWER
+Układ sił
+#CHOOSE_TACTIC
+Wybierz taktykę
+#TACTIC_INACTIVE
+Taktyka niedostępna
+#TACTIC_LOCKED
+Taktyka zablokowana przez modyfikator
+
+#MEDIC_USED
+Medyk został już wysłany na pole bitwy
+
+#TACTIC_NEUTRAL
+Neutralna
+#TACTIC_NEUTRAL_DESC
+Zbalansowana taktyka, nie daje dużych korzyści, ale również nie ogranicza zbytnio możliwości bojowych wojsk.
+#TACTIC_BREAK
+Przełamanie
+#TACTIC_BREAK_DESC
+Heroiczny atak na frontalną linię. Szczególnie skuteczny, gdy posiadasz dużo strzelców. Mniej skuteczny, gdy Twoja piechota jest osłabiona.
+#TACTIC_FIRING
+Ostrzał
+#TACTIC_FIRING_DESC
+Twoi strzelcy zasypują gradem pocisków wszystkie linie przeciwnika, a piechota próbuje utrzymać pozycję. Taktyka skuteczna na defensywnego wroga.
+#TACTIC_DEFENSE
+Obrona
+#TACTIC_DEFENSE_DESC
+Twoje oddziały walczą mniej zaciekle, ale otrzymują duży bonus do obrony. Taktyka może się okazać szczególnie dobra, gdy dysponujesz dużą ilością piechoty.
+#TACTIC_TRENCH
+Okop
+#TACTIC_TRENCH_DESC
+Artyleria zadaje obrażenia większej ilości rzędów, podczas gdy reszta wojsk przyjmuje postawę obronną.
+
+#BATTLE_STATS_ATTACK_BONUS
+Bonus do ataku
+#BATTLE_STATS_ATTACK_PENALTY
+Minus do ataku
+#BATTLE_STATS_DEFENSE_BONUS
+Bonus do obrony
+#BATTLE_STATS_DEFENSE_PENALTY
+Minus do obrony
+
+#MUSKETEERS
+Muszkieterzy
+#INFANTRY
+Piechota
+#ARTILLERY
+Artyleria
+
+#BATTLE_OPPONENT_01
+Agresywny
+#BATTLE_OPPONENT_02
+Obronny
+#BATTLE_OPPONENT_03
+Neutralny
+#TUTORIAL_OPPONENT
+Najeźdźca
+#BATTLE_OPPONENT_CUT_22
+Sympatycy Gobela
+#BATTLE_OPPONENT_CUT_28
+Hanriot
+
+#BATTLE_MEDIC_AVAILABLE
+Ustaw medyka
+#BATTLE_MEDIC_REWIND
+Reset
+#BATTLE_MEDIC_DISABLED
+Nie dysponujesz medykiem
+
+#BATTLE_REFUGEES_HEADER
+Cywile w dzielnicy
+
+#BATTLE_REFUGEES_TITLE
+Pozostali
+#BATTLE_RESCUED_REFUGEES_TITLE
+Ocaleni
+
+#BATTLE_SUMMARY_AGENTS_LOST
+Zabici agenci
+#BATTLE_SUMMARY_AGENT_MEDIC
+Medyk
+#BATTLE_SUMMARY_AGENT_COORDINATOR
+Logistyk
+
+#BATTLE_REFUGEES_NEW_TURN
+W tej turze uciekło {0} cywilów
+
+#BATTLE_EVENT_TITLE_01
+Ulewa
+#BATTLE_EVENT_DESC_01
+Strzelcy otrzymują karę −50% do ataku. Ludność ucieka o 20% wolniej.
+#BATTLE_EVENT_TITLE_02
+Wąska uliczka
+#BATTLE_EVENT_DESC_02
+Blokuje taktyki ofensywne.
+#BATTLE_EVENT_TITLE_03
+Zaopatrzenie wroga
+#BATTLE_EVENT_DESC_03
+Wróg walczy bardziej zażarcie.
+#BATTLE_EVENT_TITLE_04
+Barykady
+#BATTLE_EVENT_DESC_04
+Twoje jednostki skutecznie się bronią dzięki zbudowanym fortyfikacjom. 
+#BATTLE_EVENT_TITLE_05
+Paraliżujący strach
+#BATTLE_EVENT_DESC_05
+Ludność ucieka o 30% wolniej.
+#BATTLE_EVENT_TITLE_06
+Odwaga
+#BATTLE_EVENT_DESC_06
+Twoje wojska walczą z większą zaciętością.
+#BATTLE_EVENT_TITLE_100
+Ranni żołnierze
+#BATTLE_EVENT_DESC_100
+Twoi żołnierze atakują o 50% słabiej.
+#BATTLE_EVENT_TITLE_101
+Fanatyzm
+#BATTLE_EVENT_DESC_101
+Wrogie pospolite ruszenie walczy zacieklej.
+
+#BATTLE_SUMMARY_REFUGEES_TITLE
+Cywile:
+#BATTLE_SUMMARY_REFUGEES_RESCUED
+Uratowani: {0}
+#BATTLE_SUMMARY_REFUGEES_DEAD
+Zabici: {0}
+
+$TUTORIAL_BATTLE_DIALOG_01
+Straż tylna naszych wojsk starła się z wrogiem i przegrała. Przeciwnik wdarł się do obozu, gdzie opatrywano nas, rannych. Musieliśmy chwycić za broń.
+$TUTORIAL_BATTLE_DIALOG_02
+Twój brat walczył jak szalony. Ludzie gromadzili się wokół niego.
+$TUTORIAL_BATTLE_DIALOG_03
+Wierzyliśmy, że ktoś gna w naszą stronę z odsieczą. Wiedzieliśmy, że nie zdążą…
+$TUTORIAL_BATTLE_DIALOG_04
+Przebił mnie bagnet. Wykrwawiałem się, a moi przyjaciele padali od kul jeden za drugim.
+
+$GOBEL_BATTLE_OPPONENT_01
+Zguba tym, którzy podnoszą rękę na Kościół!
+$GOBEL_BATTLE_JUDGE_02
+Nie podnosimy ręki na Kościół, tylko na opasłych księży. Tych, którzy topią Francję!
+$GOBEL_BATTLE_OPPONENT_03
+Dla nas to to samo. Nie pozwolimy! Powinniśmy już wcześniej porachować wam kości!

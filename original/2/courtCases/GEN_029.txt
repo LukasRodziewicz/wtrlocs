@@ -1,0 +1,277 @@
+$GEN_029_DOC_01_HEADER
+Compilé par : Nathan d'Essiraf
+$GEN_029_DOC_01_00
+Edmond Malle, fossoyeur de 44 ans, travaillant au cimetière de Montmartre. Il est bien connu des forces publiques parisiennes car ce n'est pas la première fois qu'il comparaît devant notre cour. Ce pervers notoire a auparavant été <a name="2" class="hidden">condamné pour avoir tourmenté</a> une jeune aristocrate. Nos indicateurs rapportèrent en outre qu'il vendait des cadavres, très prisés des étudiants de médecine. Le tribunal ferma les yeux cette fois-là, sachant que Malle travaillait pour un salaire de misère sans jamais avoir demandé davantage.
+$GEN_029_DOC_01_01
+Malle est accusé d'avoir assassiné et profané la dépouille de Laure Dufort, fille du marquis de Civrac et portée disparue depuis deux semaines. La Garde nationale fut informée par <a name="4" class="hidden">Jules Marot</a>, étudiant de médecine ayant acheté un crâne auprès du fossoyeur. Ce qui devait servir d'objet d'étude à Marot se révéla être l'ossement de son amie proche, qu'il reconnut comme appartenant à la disparue Laura Dufort.
+$GEN_029_DOC_01_02
+Bouleversé par sa découverte, il s'impliqua personnellement dans l'enquête. Il prêta assistance à la police dans la perquisition du domicile de Malle et fut celui qui trouva le corps décapité de la pauvre fille, <a name="6" class="hidden">caché dans un cabanon</a>.
+$GEN_029_DOC_01_03
+Par la suite, le père de Laure attesta qu'elle <a name="7" class="hidden">se rendait souvent au cimetière</a>. Elle se recueillait sur la tombe de son cousin, un officier de la Garde suisse qui périt en 1792 durant le siège des Tuileries. Il s'avère que la fille se plaignit à maintes reprises des fossoyeurs, affirmant qu'ils <a name="8" class="hidden">l'importunaient cavalièrement</a>. L'un d'eux l'aurait un jour talonnée à son retour, sans qu'il fût possible d'identifier le transgresseur.
+$GEN_029_DOC_01_04
+Pièce à conviction :
+<a name="9" class="hidden">Crâne</a> de Laura Dufort
+$GEN_029_OnStart_00
+Je te prie de te présenter, citoyen.
+$GEN_029_OnStart_01
+On m'appelle… Les gens m'appellent le « Cauchemar ».
+$GEN_029_OnStart_02
+Je ne t'ai pas demandé ton surnom, mais tes nom et prénom.
+$GEN_029_OnStart_03
+Ah… d'accord… Ma mère m'a donné l'nom d'Edmond. Edmond Malle.
+$GEN_029_OnStart_04
+Tu es accusé d'avoir tué la fille de Hector Dufort, marquis de Civrac, profané sa dépouille et vendu son crâne. Comment plaides-tu face à ces chefs d'accusation ?
+$GEN_029_OnStart_05
+La dépouille a été trouvée chez l'accusé.
+$GEN_029_OnStart_06
+Je l'ai jamais vue, sa dépouille.
+$GEN_029_OnStart_07
+Signifies-tu que tu ne l'as pas cachée chez toi ?
+$GEN_029_OnStart_08
+Moi ? Non, je l'y ai rien fait à elle. Pourquoi que j'cacherais son corps ?
+$GEN_029_OnStart_09
+Mais bien sûr, quelqu'un a planqué son corps pour te jouer un tour, hein ?
+$GEN_029_OnGuilty_00
+Je condamne le citoyen Edmond Malle à être guillotiné ! Emmenez-le.
+$GEN_029_OnGuilty_01
+Paris sera plus sûr dorénavant.
+$GEN_029_OnGuilty_02
+Bravo !
+$GEN_029_OnGuilty_03
+Bien fait !
+$GEN_029_OnGuilty_04
+Qu'on vende son crâne aux étudiants !
+$GEN_029_OnPrison_00
+[To jest mock i należy go zmienić!!!!]
+$GEN_029_OnNotGuilty_00
+Edmond Malle est jugé… non coupable ! Emmenez l'accusé.
+$GEN_029_OnNotGuilty_01
+Si ce n'est pas lui, qui est l'assassin ?
+$GEN_029_OnNotGuilty_02
+Dommage, cela aurait fait une belle guillotinade…
+$GEN_029_09x05_00_QTitle
+Est-ce là le crâne que tu as vendu à Jules Marot ?
+$GEN_029_09x05_00_00
+Est-ce là le crâne que tu as vendu à Jules Marot ?
+$GEN_029_09x05_00_01
+Il ressemblait pas à ça quand il l'a pris.
+$GEN_029_09x05_00_02
+Que veux-tu dire ?
+$GEN_029_09x05_00_03
+Bah qu'il est tout blanc comme de l'albâtre, et moi j'ai pas l'temps pour ce genre de gnognote. Faut bouillir l'os, l'faire sécher au soleil, l'rebouillir, l'resécher… Et on va pas m'payer plus que s'il était tout pouacre.
+$GEN_029_09x05_00_04
+Qui a nettoyé ce crâne alors ?
+$GEN_029_09x05_00_05
+Demandez à çui qui l'a apporté. L'étudiant, voyez.
+$GEN_029_09x05_00_06
+Tu sembles parfaitement capable de nettoyer des ossements, sachant tes connaissances en la matière.
+$GEN_029_09x05_00_07
+Je pratiquais ça autrefois, mais comme j'viens de dire, c'en vaut pas la peine.
+$GEN_029_09x05_00_08
+Où est-ce qu'ils trouvent des tordus pareils ?
+$GEN_029_01x08_01_QTitle
+L'accusé a-t-il tenté de persuader Laura Dufort de commettre un adultère ?
+$GEN_029_01x08_01_00
+L'accusé a-t-il tenté de persuader Laura Dufort de commettre un adultère ?
+$GEN_029_01x08_01_01
+Oh, tu sais c'qu'on dit : une môme point sifflée, c'est une môme chagrinée. Mais j'ai rien fait de plus, pour sûr.
+$GEN_029_01x08_01_02
+Sois clair : l'as-tu interpellée, oui ou non ?
+$GEN_029_01x08_01_03
+J'ai crié quelqu'chose… comme « Montons là-haut, ma jolie ». Mais c'était que des paroles en l'air !
+$GEN_029_01x08_01_04
+Comment la victime a-t-elle réagi à ces… paroles ?
+$GEN_029_01x08_01_05
+Elle m'a lancé une fois des noms d'oiseaux bien vilains, puis des pierres, et après elle a couru jusqu'au portail. Ça m'avait un peu chauffé les oreilles, pour sûr.
+$GEN_029_01x08_01_06
+Voilà le motif ! Ce sauvageon voulait se venger !
+$GEN_029_01x08_01_07
+Est-ce pour cette raison que tu l'as tuée ?
+$GEN_029_01x08_01_08
+Oh non ! J'aime peut-être ben taquiner les jupons, mais j'suis pas un tueur !
+$GEN_029_02x03_02_QTitle
+Que penses-tu de l'aristocratie ?
+$GEN_029_02x03_02_00
+Que penses-tu de l'aristocratie ?
+$GEN_029_02x03_02_01
+Faudrait décapiter ces parasites purulants. C'est à la mode maint'nant, pas vrai ?
+$GEN_029_02x03_02_02
+Traiter la Révolution de mode est une injure à ce noble mouvement des opprimés qui --
+$GEN_029_02x03_02_03
+Assez ! Nous connaissons tous la nature de la Révolution. Revenons à notre discussion : l'accusé aimerait-il tuer chacun des aristocrates ?
+$GEN_029_02x03_02_04
+Ouais.
+$GEN_029_02x03_02_05
+Voilà un motif clair et une preuve formelle.
+$GEN_029_02x03_02_06
+Y compris les femmes aristocrates ?
+$GEN_029_02x03_02_07
+Oh non, ha ha, non ! Y a pas de problème avec leurs dames, m'sieur le juge, elles peuvent servir à quelqu'chose. Les aristos sont… bah, elles sont moins pouilleuses.
+$GEN_029_04x05_03_QTitle
+Faites entrer le témoin.
+$GEN_029_04x05_03_00
+Faites entrer le témoin.
+$GEN_029_04x05_03_02
+Je te prie de te présenter, citoyen.
+$GEN_029_04x05_03_03
+Jules Marot, Monsieur le juge.
+$GEN_029_06x03_04_QTitle
+Comment la dépouille de Laura Dufort est-elle apparue dans le cabanon de l'accusé ?
+$GEN_029_06x03_04_00
+Comment la dépouille de Laura Dufort est-elle apparue dans le cabanon de l'accusé ?
+$GEN_029_06x03_04_01
+Comment j'pourrais l'savoir ?!
+$GEN_029_06x03_04_02
+Avoue, qu'on en finisse !
+$GEN_029_06x03_04_03
+Il est difficile d'ignorer certaines conclusions criantes lorsqu'un corps décapité est retrouvé chez l'accusé.
+$GEN_029_06x03_04_04
+Bah voyons, m'sieur ! Si j'avais… fait une chose pareille, j'l'aurais enterrée, j'l'aurais pas gardée dans une remise ! J'ai les clés du cimetière, j'aurais pu la jeter dans un caveau et personne en aurait rien su.
+$GEN_029_06x03_04_05
+N'écoute pas ses justifications. S'il l'a amenée chez lui pour la violer et la tuer, il a alors caché le corps dans le cabanon parce qu'il était tout proche.
+$GEN_029_06x03_04_06
+Que réponds-tu à cela ?
+$GEN_029_06x03_04_07
+J'ai tué personne du tout ! Y a qu'un loquet pour fermer ma remise. N'importe qui peut y entrer et jeter un cadavre ! C'est pas parc'qu'on l'a trouvée chez moi que c'est moi qui l'ai tuée !
+$GEN_029_06x03_04_08
+Si l'accusé n'a pas tué la victime, alors qui est le coupable ?
+$GEN_029_06x03_04_09
+Je sais pas. P't'êt' l'étudiant ?
+$GEN_029_06x03_04_10
+Maudit violeur, tu n'as pas honte ?!
+$GEN_029_09x04_05_QTitle
+Reconnais-tu avoir ôté le crâne de la victime…
+$GEN_029_09x04_05_00
+Reconnais-tu avoir ôté le crâne de la victime et l'avoir vendu au citoyen Marot ?
+$GEN_029_09x04_05_01
+J'ai rien ôté du tout. Et l'crâne que j'ai vendu était pas çui de c'te demoiselle.
+$GEN_029_09x04_05_02
+Tu avoues donc avoir profané des dépouilles ?
+$GEN_029_09x04_05_03
+Oui. Il a fallu que j'le fasse pour pouvoir mettre du pain sur la table. Mais c'était pas son crâne à elle.
+$GEN_029_09x04_05_04
+De quel crâne s'agissait-il ?
+$GEN_029_09x04_05_05
+Aucune idée, m'sieur. J'les prends dans les tombes des pauvres gens et j'm'assure seulement qu'ils sont pas amochés.
+$GEN_029_09x04_05_06
+Quelle horreur !
+$GEN_029_09x04_05_07
+Qui laisse faire ça ?!
+$GEN_029_09x07_06_QTitle
+L'accusé connaissait-il Laura Dufort ?
+$GEN_029_09x07_06_00
+L'accusé connaissait-il Laura Dufort ?
+$GEN_029_09x07_06_01
+Pour sûr. Elle venait souvent à la tombe d'ce garde, toujours en laissant une fleur, toujours en priant le Seigneur. Une bien bonne d'moiselle…
+$GEN_029_09x07_06_02
+Dirais-tu que vous étiez proches, toi et elle ?
+$GEN_029_09x07_06_03
+Non. Je l'ai toujours saluée poliment, j'essayais de lui causer, mais elle me couinait dessus comme un chat. Et j'étais pas l'seul.
+$GEN_029_09x07_06_04
+Étais-tu agressif envers elle ?
+$GEN_029_09x07_06_05
+Pas du tout. Je badinais un peu, c'est tout.
+$GEN_029_09x07_06_06
+Quel malotru…
+$GEN_029_09x07_06_07
+Y avait-il quelqu'un d'autre qui l'importunait dans le cimetière ?
+$GEN_029_09x07_06_08
+Oh oui, ma foi ! Y avait des ivrognes, pour sûr, et aussi le gaillard qui m'a acheté le crâne et m'traite maint'nant de meurtrier.
+$GEN_029_09x07_06_09
+Le connaissais-tu avant de lui vendre le crâne ?
+$GEN_029_09x07_06_10
+De vue seulement. Je savais même pas qu'il étudiait pour être docteur.
+$GEN_029_WIT_00_A_QTitle
+Quelle était ta relation avec la victime, Laura Dufort ?
+$GEN_029_WIT_00_A_00
+Quelle était ta relation avec la victime, Laura Dufort ?
+$GEN_029_WIT_00_A_01
+Elle était la personne la plus proche à mes yeux, je l'ai toujours connue, et ce damné vaurien… J'aimais Laure, Monsieur le juge.
+$GEN_029_WIT_00_A_02
+T'aimait-elle en retour ?
+$GEN_029_WIT_00_A_03
+Malheureusement non, mais je suis certain qu'elle aurait formé tôt ou tard des sentiments à mon égard !
+$GEN_029_WIT_01_A_QTitle
+Es-tu sûr que le crâne acheté à l'accusé…
+$GEN_029_WIT_01_A_00
+Es-tu sûr que le crâne acheté à l'accusé appartient à la victime ?
+$GEN_029_WIT_01_A_01
+Absolument.
+$GEN_029_WIT_01_A_02
+D'où te vient cette conviction ? Peux-tu le prouver ?
+$GEN_029_WIT_01_A_03
+Laure a perdu, toute jeune, son incisive supérieure droite… par ma faute, regrettablement. C'est ce qui m'a permis de l'identifier… Grand Dieu…
+$GEN_029_WIT_01_A_04
+Cela pourrait être une pure coïncidence.
+$GEN_029_WIT_01_A_05
+Je sais de quoi je parle, Monsieur le juge. Tout concorde : le menton, l'écart interoculaire… Cette vermine a sans doute tué Laure, après l'avoir souillée, et lui a arraché la tête !
+$GEN_029_WIT_01_A_06
+Malle t'a-t-il dit où il a trouvé le crâne ?
+$GEN_029_WIT_01_A_07
+Oui, mais il a menti. Il a prétendu l'avoir exhumé dans une des anciennes allées du cimetière.
+$GEN_029_WIT_01_A_08
+Quand as-tu pris conscience de l'origine du crâne en ta possession ?
+$GEN_029_WIT_01_A_09
+Eh bien… Ce n'est qu'au moment où je me suis mis à l'esquisser que j'ai saisi la ressemblance.
+$GEN_029_WIT_01_B_QTitle
+Comment décrirais-tu la relation entre l'accusé et la victime ?
+$GEN_029_WIT_01_B_00
+Comment décrirais-tu la relation entre l'accusé et la victime ?
+$GEN_029_WIT_01_B_01
+Cette crapule ne cessait de la persécuter chaque fois qu'elle allait se recueillir !
+$GEN_029_WIT_01_B_02
+As-tu vu de tes propres yeux ce que tu avances ?
+$GEN_029_WIT_01_B_03
+Non, mais… Laure me l'a confié et ça me suffit pour preuve. Il mérite la guillotine !
+$GEN_029_WIT_01_B_04
+Que t'a-t-elle dit exactement ?
+$GEN_029_WIT_01_B_05
+Qu'il lui criait dessus en faisant des gestes obscènes et qu'il se mettait sans cesse en travers de son chemin, la forçant à bifurquer entre les tombes.
+$GEN_029_WIT_01_B_06
+Si je comprends bien, tu ne l'accompagnais pas au cimetière à chaque occasion ?
+$GEN_029_WIT_01_B_07
+Je ne l'y ai accompagnée qu'une fois, car elle préférait s'y rendre seule.
+$GEN_029_KEY_01
+Pervers notoire
+$GEN_029_KEY_02
+Condamné pour persécution féminine
+$GEN_029_KEY_03
+Disparue
+$GEN_029_KEY_04
+Jules Marot
+$GEN_029_KEY_05
+Connue de l'étudiant
+$GEN_029_KEY_06
+Corps dans un cabanon
+$GEN_029_KEY_07
+Fréquentait souvent le cimetière
+$GEN_029_KEY_08
+Tourmentait la victime
+$GEN_029_KEY_09
+Crâne de Laure Defort
+$GEN_029_LastDialog_00
+J'me demande si ma caboche trouvera acheteur…
+$GEN_029_UNIQUE_QUESTION_00
+Où le cadavre a-t-il été découvert ?
+$GEN_029_UNIQUE_ANSWER_CORRECT_00_00
+Dans un cabanon.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Dans une cave.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Dans un fourneau.
+$GEN_029_UNIQUE_QUESTION_01
+Comment l'étudiant a-t-il reconnu le crâne de Laura Dufort ?
+$GEN_029_UNIQUE_ANSWER_CORRECT_01_00
+Une de ses dents était cassée.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Par la taille de son crâne.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Par la forme de son crâne.
+$GEN_029_UNIQUE_QUESTION_02
+Comment le prévenu a-t-il expliqué le fait qu'il profanait des corps ?
+$GEN_029_UNIQUE_ANSWER_CORRECT_02_00
+Par la faiblesse de son salaire.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Par amour de la science.
+$GEN_029_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Par un désir malsain.

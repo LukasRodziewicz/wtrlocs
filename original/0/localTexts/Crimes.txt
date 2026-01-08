@@ -1,0 +1,58 @@
+#CRIME_001_NAME
+Podburzanie tłumu
+#CRIME_002_NAME
+Kontrrewolucja
+#CRIME_003_NAME
+Popieranie monarchii
+#CRIME_004_NAME
+Zdrada kraju
+#CRIME_005_NAME
+Niedopełnienie obowiązków
+#CRIME_006_NAME
+Nepotyzm
+#CRIME_007_NAME
+Korupcja
+#CRIME_008_NAME
+Kradzież
+#CRIME_009_NAME
+Włamanie
+#CRIME_010_NAME
+Zniszczenie mienia
+#CRIME_011_NAME
+Stręczycielstwo
+#CRIME_012_NAME
+Napaść
+#CRIME_013_NAME
+Okaleczenie
+#CRIME_014_NAME
+Usiłowanie morderstwa
+#CRIME_015_NAME
+Morderstwo
+#CRIME_016_NAME
+Tortury
+#CRIME_017_NAME
+Bezczeszczenie zwłok
+#CRIME_018_NAME
+Pedofilia
+#CRIME_019_NAME
+Gwałt
+#CRIME_020_NAME
+Pomówienie
+#CRIME_021_NAME
+Oszustwo
+#CRIME_022_NAME
+Spekulacja cenowa
+#CRIME_023_NAME
+Nadużycie finansowe
+#CRIME_024_NAME
+Przekupstwo
+#CRIME_025_NAME
+Zdrada małżeńska
+#CRIME_026_NAME
+Dezercja
+#CRIME_027_NAME
+Czarnoksięstwo
+#CRIME_028_NAME
+Jazda po pijanemu
+#CRIME_029_NAME
+Stwarzanie zagrożenia na drodze

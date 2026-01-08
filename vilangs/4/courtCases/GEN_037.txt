@@ -1,0 +1,246 @@
+$GEN_037_DOC_01_HEADER
+Zusammengestellt von: Charles Etienne
+$GEN_037_DOC_01_00
+In den letzten zwei Wochen sind drei Mieterinnen <a name="1" class="hidden">desselben Mietshauses</a> – Blandine Couturier, Abelone Macé und Eugénie Marais – gestorben. Ihrem tragischen Tod gingen stets dieselben entsetzlichen Symptome voraus: Blut erbrechen, Krämpfe, Migräne und starke Muskelschmerzen. Die Nachbarn beklagten mehrere schlaflose Nächte wegen der Schreie der Frauen.
+$GEN_037_DOC_01_01
+Die Ehemänner der Opfer erfuhren erst nachträglich, dass ihre Frauen Kundinnen einer gewissen Marie-Laure Thébault waren, die gegenüber wohnt. Zu Hause fanden sie dieselben <a name="3" class="hidden">Puderdosen, Döschen mit Lippenrot</a> und andere verdächtige Kosmetika, die bei Thébault gekauft worden waren. Jean Macé brachte all diese Dinge zusammen mit einer Anzeige gegen die Witwe Thébault zur Nationalgarde, die er der <a name="4" class="hidden">Hexerei</a> beschuldigte.
+$GEN_037_DOC_01_02
+In der Nachbarschaft kennt man sie als eine einfallsreiche ältere Dame. Mit ihren 74 Jahren verdient sie immer noch ihren Lebensunterhalt, indem sie Schuhcreme, Rouge und andere Mischungen verkauft, die angeblich die weibliche Schönheit fördern. Obwohl sie ihr Haus selten verlässt, <a name="6" class="hidden">empfehlen ihre Kundinnen ihre Produkte</a> ihren Freundinnen weiter, die sie daraufhin aufsuchen.
+$GEN_037_DOC_01_03
+Die alte Frau leistete keinen Widerstand, als drei Soldaten sie festnahmen. Da sie <a name="7" class="hidden">sehbehindert</a> ist, bemerkte sie nicht, dass sie mit der Nationalgarde sprach, und erst als die Männer sie aus der Wohnung führten, hörte sie auf, sie nach den Waren zu fragen, von denen sie dachte, sie wollten sie kaufen.
+$GEN_037_DOC_01_04
+Die Soldaten berichteten den Ermittlern von den verdächtigen Gläsern, die sie auf den Regalen gesehen hatten, gefüllt mit Blut und Knochen.
+$GEN_037_DOC_02_00
+<a name="9" class="hidden">Anzeige von Jean Macé</a>:
+$GEN_037_DOC_02_01
+	Als pflichtbewusster Bürger der Revolution sehe ich mich veranlasst zu melden, dass Thébault, eine Witwe aus unserer Nachbarschaft, gefährliche Hexerei betreibt. Drei fleißige Bürger von Paris sind durch die Magie und Tränke dieser Frau qualvoll gestorben. Alle Nachbarn wissen, dass ihr teuflisches Tun die Ursache war.
+	
+Jean Macé
+$GEN_037_DOC_1_TOOLTIP
+Anzeige von Jean Macé
+$GEN_037_OnStart_00
+Ich gehöre nicht zu denen, die an Hexerei glauben. Dennoch erscheinen mir diese Todesfälle alles andere als natürlich.
+$GEN_037_OnStart_01
+Sind Sie Marie-Laure Thébault?
+$GEN_037_OnStart_02
+Ja, mein Schatz.
+$GEN_037_OnStart_03
+Leben Sie allein?
+$GEN_037_OnStart_04
+Mein Mann kehrte nie aus dem Krieg von 1762 zurück. Der frühere König schickte ihn nach Portugal, wo–
+$GEN_037_OnStart_05
+Waren Sie in irgendeiner Weise an den Todesfällen von Blandine Couturier, Abelone Macé und Eugénie Marais beteiligt?
+$GEN_037_OnStart_06
+Ich würde solchen guten Frauen niemals etwas antun.
+$GEN_037_OnStart_07
+Und dennoch waren sie alle Ihre Mandanten, und sie sind alle tot.
+$GEN_037_OnStart_08
+Sie hat sie vergiftet, so wie sie uns alle vergiftet!
+$GEN_037_OnGuilty_00
+Wegen der Verursachung des grausamen, qualvollen Todes von drei unschuldigen Frauen verurteile ich Marie-Laure Thébault hiermit zur Guillotine!
+$GEN_037_OnGuilty_01
+Ich danke Ihnen für dieses gerechte Urteil.
+$GEN_037_OnGuilty_02
+Wir werden zusehen, wie dein Kopf über das Pflaster rollt!
+$GEN_037_OnGuilty_03
+Man sollte sie in ihren eigenen Tränken ertränken und sie qualvoll sterben lassen!
+$GEN_037_OnPrison_00
+Marie-Laure Thébault, Sie werden den Rest Ihres Lebens im Gefängnis verbringen!
+$GEN_037_OnPrison_01
+Zum Glück bleiben ihr ohnehin nicht mehr viele Tage.
+$GEN_037_OnPrison_02
+Dieses Weib hat es verdient!
+$GEN_037_OnNotGuilty_00
+Marie-Laure Thébault, hiermit spreche ich Sie von allen vorgeworfenen Verbrechen frei. Ich möchte betonen, dass es Bürgern eines aufgeklärten Frankreichs nicht ansteht, sich auf Hexereivorwürfe herabzulassen.
+$GEN_037_OnNotGuilty_01
+Vielleicht ist sie keine Hexe, aber zweifellos hat sie diese Frauen vergiftet.
+$GEN_037_OnNotGuilty_02
+Ich sag’s dir, sie ist eine Hexe!
+$GEN_037_02x06_00_QTitle
+Haben Sie viele Kunden?
+$GEN_037_02x06_00_00
+Haben Sie viele Kunden?
+$GEN_037_02x06_00_01
+Nicht jetzt, mein Lieber, nein. Die Wachen lassen niemanden in meine Zelle.
+$GEN_037_02x06_00_02
+Hören Sie auf, das Gericht zu verhöhnen. Kaufen viele Frauen Ihre Puder?
+$GEN_037_02x06_00_03
+Wenn sie nicht kaufen würden, könnte ich mir nicht einmal Butter leisten. Viele Frauen kommen zu mir.
+$GEN_037_02x06_00_04
+Haben sie sich jemals über Ihre Produkte beschwert?
+$GEN_037_02x06_00_05
+Niemals, mein Lieber. Sie kamen immer wieder und legten mir ihr sauer verdientes Geld nur allzu gern in die Hand.
+$GEN_037_02x06_00_06
+Kommen sie wirklich immer zurück?
+$GEN_037_02x06_00_07
+Nun, manche schon, manche nicht.
+$GEN_037_02x06_00_08
+Ich vermute, einige von ihnen sind einfach gestorben, und niemand konnte den Grund feststellen.
+$GEN_037_02x06_00_09
+Das hat sie verdient!
+$GEN_037_01x03_01_QTitle
+Was haben Sie den Bürgerinnen Couturier, Macé und Marais verkauft?
+$GEN_037_01x03_01_00
+Was haben Sie den Bürgerinnen Couturier, Macé und Marais verkauft?
+$GEN_037_01x03_01_01
+Ein bisschen dies, ein bisschen das. Wer erinnert sich da noch an die Einzelheiten?
+$GEN_037_01x03_01_02
+Wenn Sie von diesem Gericht freigesprochen werden wollen, sollten Sie sich besser erinnern.
+$GEN_037_01x03_01_03
+Ich bin mir sicher, sie haben Puder gekauft. Jede Frau kauft Puder, um so blass wie eine Gräfin zu sein.
+$GEN_037_01x03_01_04
+Haben viele Frauen das bei Ihnen gekauft?
+$GEN_037_01x03_01_05
+Im Laufe der Jahre wohl Hunderte. Ich habe mir fast die Hände wundgerieben beim Anrühren.
+$GEN_037_01x03_01_06
+Gütiger Gott, wir haben Glück, dass sie sie erwischt haben.
+$GEN_037_08x04_02_QTitle
+Wie genau stellen Sie Ihre Kosmetika her?
+$GEN_037_08x04_02_00
+Wie genau stellen Sie Ihre Kosmetika her?
+$GEN_037_08x04_02_01
+Ach, weißt du, mal so, mal so. Meine Großmutter hat mir ein dickes Rezeptbuch hinterlassen. Leider kann ich immer schlechter lesen. In den letzten fünfzehn Jahren wohl kein einziges Wort mehr. Meine Augen sind nicht mehr das, was sie einmal waren.
+$GEN_037_08x04_02_02
+Wie mischen Sie dann Ihre Produkte?
+$GEN_037_08x04_02_03
+Ich erinnere mich an alles, was dort steht. Ich muss es nicht lesen.
+$GEN_037_08x04_02_04
+Muss ich mich wiederholen? Ich habe gefragt, wie genau Sie Ihre Kosmetika herstellen.
+$GEN_037_08x04_02_05
+Ich sage es dir, als wäre ich im Beichtstuhl. Das Rezept für das Gesichtspuder ist kein Geheimnis: Man mischt Bleiweiß mit Kreide. Blei ist gut, es reinigt. Man braucht Kraft, um es zu zerstoßen, aber ich schaffe das noch. Ich bin es gewohnt. Ich arbeite schon mein ganzes Leben.
+$GEN_037_08x04_02_06
+Kommen Sie bitte zur Sache.
+$GEN_037_08x04_02_07
+Lippenrouge besteht aus Wachs und Karmin, verfeinert mit einem Schuss Spiritus. Ach, wie herrlich leuchten die roten Lippen der Frauen, die es benutzen! Das Pigment herzustellen ist nicht einfach, doch ich kenne meine Methoden. Man kann eine Eidechse auskochen oder das Blut eines Igels, einer Ratte oder einer Fledermaus verwenden. Ein wenig Schwefel sorgt zudem dafür, dass die Farbe länger hält.
+$GEN_037_08x04_02_08
+Fledermausblut und Schwefel? Sie braut teuflische Tränke, keine Kosmetika!
+$GEN_037_07x05_03_QTitle
+Die Soldaten berichteten, dass Sie ihre Uniformen nicht erkannt haben.
+$GEN_037_07x05_03_00
+Die Soldaten meldeten, dass Sie ihre Uniformen nicht erkannt haben.
+$GEN_037_07x05_03_01
+Liebling, ich kann dich im Moment kaum sehen.
+$GEN_037_07x05_03_02
+Wie bereiten Sie Ihre Kosmetika zu, wenn Sie nicht sehen können, was Sie tun?
+$GEN_037_07x05_03_03
+Die Rezepte kenne ich auswendig, und die Zutaten erkenne ich am bloßen Tasten.
+$GEN_037_07x05_03_04
+Und nie haben sich Ihre Kundinnen darüber beschwert, dass das Puder ihre Gesichter rot färbte?
+$GEN_037_07x05_03_05
+Wenn so etwas passieren würde, kämen sie einfach nicht mehr zu mir und nähmen ihr Geld woandershin.
+$GEN_037_07x05_03_06
+Was wäre, wenn Sie von einer der Zutaten zu viel hinzugefügt hätten?
+$GEN_037_07x05_03_07
+Ich gebe zu, manchmal schenke ich mehr ein, als ich sollte, aber das macht mir nichts aus. Ich bin nicht gierig und spare bei meinen lieben Damen nicht, selbst wenn die Zutaten teuer sind.
+$GEN_037_02x04_04_QTitle
+Die Ehemänner der Verstorbenen beschuldigen Sie der Hexerei. Stimmt das?
+$GEN_037_02x04_04_00
+Die Ehemänner der Verstorbenen beschuldigen Sie der Hexerei. Stimmt das?
+$GEN_037_02x04_04_01
+Ich kann dir hier und jetzt ein Kreuzzeichen machen, mein Lieber!
+$GEN_037_02x04_04_02
+Wir kommen ohne Aberglauben aus.
+$GEN_037_02x04_04_03
+Sieh dir die Wände meiner Wohnung an. Direkt über dem Tisch mit meinen Mörsern und Stößeln hängt ein Kreuz. Zu Zeiten von König Ludwig–
+$GEN_037_02x04_04_04
+Verlieren Sie kein Wort zu viel, Bürgerin.
+$GEN_037_02x04_04_05
+Ich werde mucksmäuschenstill sein.
+$GEN_037_02x04_04_06
+Nein, fahren Sie fort. Sind Sie Monarchist, Bürger?
+$GEN_037_02x04_04_07
+Dieser stinkende König hat meinen geliebten Mann in den Krieg und in den Tod geschickt. König oder Revolution – für mich ist das alles dasselbe.
+$GEN_037_02x04_04_08
+Die alte Hexe weiß gar nicht, wovon sie redet.
+$GEN_037_04x09_05_QTitle
+Rufen Sie den Zeugen Jean Macé auf.
+$GEN_037_04x09_05_00
+Rufen Sie den Zeugen Jean Macé auf.
+$GEN_037_04x09_05_02
+Jean Macé, der Witwer der verstorbenen Abelone Macé, Monsieur Richter.
+$GEN_037_WIT_00_A_QTitle
+Hat Ihre Frau Kosmetika bei der Witwe Thébault gekauft?
+$GEN_037_WIT_00_A_00
+Hat Ihre Frau Kosmetik bei der Witwe Thébault gekauft?
+$GEN_037_WIT_00_A_01
+Ja, ich habe ihr sogar Geld dafür gegeben. Sie sagte oft, ohne das Puder fühle sie sich wie eine Bäuerin und schäme sich, das Haus zu verlassen.
+$GEN_037_WIT_00_A_02
+Auf welcher Grundlage glauben Sie, dass Ihre Frau Opfer von Hexerei wurde?
+$GEN_037_WIT_00_A_03
+Unsere Frauen waren gesund. Sie alle haben geboren, und das ganz ohne ärztliche Hilfe. Sie waren stark, fleißig. Es muss Hexerei gewesen sein.
+$GEN_037_WIT_00_A_04
+Hat sich Ihre Frau also nie über ihre Gesundheit beklagt?
+$GEN_037_WIT_00_A_05
+Weißt du, sie hatte ihre guten und schlechten Tage, wie wir alle. Aber sie hat sich nie über etwas Ernstes beklagt!
+$GEN_037_WIT_00_A_06
+Die Schwierigkeiten begannen also, als sie zum ersten Mal die von der Witwe gekauften Kosmetika benutzte?
+$GEN_037_WIT_00_A_07
+Woher soll ich wissen, wann sie–
+$GEN_037_WIT_00_A_08
+Konzentration!
+$GEN_037_WIT_00_A_09
+Ja, so war es. Jetzt erinnere ich mich. Alles begann, als sie diese Fläschchen kaufte.
+$GEN_037_WIT_01_A_QTitle
+Könnten Sie näher ausführen, von welcher Teufelei Sie sprechen?
+$GEN_037_WIT_01_A_00
+Könnten Sie näher ausführen, von welcher Teufelei Sie sprechen?
+$GEN_037_WIT_01_A_01
+Im Hinterhof roch es nach Schwefel. Das wird Ihnen jeder bestätigen. Und ein Kind sah, wie die Witwe Thébault mit einem Stock bewaffnet im Keller Ratten jagte und ihnen das Blut abzapfte.
+$GEN_037_WIT_01_A_02
+Haben Sie es mit eigenen Augen gesehen?
+$GEN_037_WIT_01_A_03
+Ich nicht. Ich arbeite den ganzen Tag in der Fabrik und baue Fahrzeuge. Das ist harte Arbeit. Was, wenn ich ein Teil nicht richtig repariere und das Fahrzeug zusammenbricht? Meine Nachbarn haben aber alles gesehen.
+$GEN_037_WIT_01_B_QTitle
+Hatte Ihre Frau schon lange über Schmerzen geklagt?
+$GEN_037_WIT_01_B_00
+Hat sich Ihre Frau schon lange über Schmerzen beklagt?
+$GEN_037_WIT_01_B_01
+Sie hat sich über Kopfschmerzen beklagt, ich glaube, ein oder zwei Monate lang. Sie hatte auch keinen Appetit, aber das ist nichts Besonderes. Nach einem anstrengenden Arbeitstag habe ich selbst oft keinen Appetit.
+$GEN_037_WIT_01_B_02
+Würden Sie sagen, dass Ihre Frau abgesehen von diesen Problemen gesund war?
+$GEN_037_WIT_01_B_03
+Kern gesund war sie. Einen Tag bevor das alles begann, wollte sie mich noch zum Tanzen überreden. Meine Abelone liebte das Tanzen, aber ich sagte immer: „Heute nicht, lass uns nächste Woche gehen. Ich spüre meine Beine kaum.“ Ich hätte… Ich hätte mit ihr gehen sollen.
+$GEN_037_KEY_01
+Nachbarn
+$GEN_037_KEY_02
+Langer, qualvoller Tod
+$GEN_037_KEY_03
+Kosmetik
+$GEN_037_KEY_04
+Hexerei
+$GEN_037_KEY_05
+Alter
+$GEN_037_KEY_06
+Beliebte Waren
+$GEN_037_KEY_07
+Schlechte Sehkraft
+$GEN_037_KEY_08
+Blut und Knochen
+$GEN_037_KEY_09
+Anzeige von Jean Macé
+$GEN_037_LastDialog_00
+Wohin bringt ihr mich, Jungs?
+$GEN_037_UNIQUE_QUESTION_00
+Was kauften die Opfer bei der Angeklagten?
+$GEN_037_UNIQUE_ANSWER_CORRECT_00_00
+Pulver.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Parfüms.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Seife.
+$GEN_037_UNIQUE_QUESTION_01
+Wie verhielt sich der Angeklagte während der Festnahme?
+$GEN_037_UNIQUE_ANSWER_CORRECT_01_00
+Sie erkannte die Uniformen nicht.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Sie hat den Wachmann angegriffen.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Sie war ruhig.
+$GEN_037_UNIQUE_QUESTION_02
+Nach Aussage des Zeugen, was war die Todesursache seiner Frau?
+$GEN_037_UNIQUE_ANSWER_CORRECT_02_00
+Hexerei.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Vergiftung.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Eine Krankheit.

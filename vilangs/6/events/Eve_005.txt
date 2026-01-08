@@ -1,0 +1,22 @@
+$EVE_005_TITLE
+Cuadrúpedos deliciosos
+$EVE_005_MAIN_01
+La calle se vacía al caer el sol. Caminas por el pavimento aún tibio, pensando en la deliciosa cena que ha preparado tu esposa. Estás tan relajado que no notas a una mujer que dobla la esquina a toda prisa. Choca contigo con tal fuerza que ambos salen despedidos. Ella deja caer un saco, liberando a varios gatos. La mujer se pone de pie de un salto e intenta atraparlos, pero dos logran escapar. “¡Se han escapado!”, grita, sin saber a cuál perseguir primero. “Sin dinero, sin paté”, añade la mujer, y de pronto comprendes perfectamente lo que está ocurriendo…
+$EVE_005_MAIN_01_C1
+Arrestad a la mujer.
+$EVE_005_MAIN_01_C2
+Deja a la mujer en paz.
+$EVE_005_MAIN_02A
+La tomas del brazo y la llevas ante los Guardias más cercanos. La mujer te mira, intentando convencerte en voz baja de que el paté vale más que la vida de unos gatos. Los Guardias se muestran visiblemente sorprendidos cuando les entregas el paquete. “No los recogí para mí”, confiesa la mujer aterrada tras un momento. “Son para el hijo del carnicero. Es un especialista.” Mientras los Guardias se la llevan, te quedas pensando en lo que dijo. El hijo del carnicero. ¿Qué harás con este maestro de la cocina francesa?
+$EVE_005_MAIN_02A_C1
+Arresta al hijo del carnicero.
+$EVE_005_MAIN_02A_C2
+Exponer al hijo del carnicero.
+$EVE_005_MAIN_02B
+La mujer se aleja abrazando el saco. Cada pocos metros mira a su alrededor, buscando a su presa, cuanto más carnosa, mejor. Tienes asuntos más urgentes que atender que observar a alguien cazar carne para paté…
+$EVE_005_MAIN_03A
+¡Repugnante! ¡El pastelero ha estado alimentando a la gente con carne de gato!
+$EVE_005_MAIN_03B
+A los parisinos no les gustó la verdad. Resultó que el ingenioso pastelero tenía más clientes de lo esperado, y estaban furiosos. Tan furiosos, de hecho, que tuvo que morir. Un solo golpe bastó para arrancarle de la cabeza toda pasión culinaria. Mejor dicho, cualquier pasión. Será imposible descubrir quién blandió el bate mortal.
+$EVE_005_MAIN_03C
+El delicioso paté sigue siendo un invitado habitual en las mesas de muchos hogares parisinos. Y no es para menos: está exquisito.

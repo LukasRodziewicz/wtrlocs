@@ -1,0 +1,10 @@
+$DIAL_CO_02_01_04_001_RAMEL
+Está pronto para o espetáculo?
+$DIAL_CO_02_01_04_002_JUDGE
+Não é a primeira vez, Ramel.
+$DIAL_CO_02_01_04_003_RAMEL
+Lembre-se, o povo precisa se voltar contra ele. Gobel não é um político medíocre qualquer...
+$DIAL_CO_02_01_04_004_JUDGE
+Confie em mim, eu dou conta disso.
+$DIAL_CO_02_01_04_005_RAMEL
+Muito bem. Vamos.

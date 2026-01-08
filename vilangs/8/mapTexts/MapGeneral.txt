@@ -1,0 +1,548 @@
+$END_DAY
+Encerrar o dia
+$DISTRICT_TEMPERATURE
+Fervor
+$DISTRICT_NEUTRAL_TOOLTIP
+Esta Seção é neutra.
+$DISTRICT_OWNER_PEOPLE
+Facção: O Povo
+$DISTRICT_OWNER_REVOLUTIONISTS
+Facção: Os Revolucionários
+$DISTRICT_OWNER_PLAYER
+Controlado por você
+$DISTRICT_OWNER_ENEMY
+Controlado pelo inimigo
+$GROUP_SUPPORT_LOW
+Atitude: Hostil
+$GROUP_SUPPORT_MEDIUM
+Atitude: Neutra
+$GROUP_SUPPORT_HIGH
+Atitude: Amigável
+$AGENT_IDLE
+Inativo
+$AGENT_ACTION_BOOST_DISTRICT
+Aumente sua influência sobre o distrito
+$AGENT_ACTION_SABOTAGE
+Atrair agentes inimigos
+$AGENT_ACTION_AMBUSH
+Armar uma emboscada para o inimigo.
+$AGENT_ACTION_GET_RESOURCES
+Obter apoio da facção
+$AGENT_ACTION_LOWER_TEMPERATURE
+Reduza o fervor da multidão na Seção.
+$AGENT_ACTION_FIGHT_UNREST
+Reprimir motins
+$AGENT_ACTION_GOSSIP
+Espalhar boatos favoráveis.
+$AGENT_ACTION_PROTECT
+Proteger os agentes aliados.
+$AGENT_BLOCKED
+Bloqueado
+$AGENT_WOUNDED
+Ferido
+$PAWN_COMBAT_ACTIVITY_TOOLTIP
+Está lutando
+$AGENT_ACTION_BOOST_DISTRICT_TOOLTIP
+Está tomando uma Seção
+$AGENT_ACTION_SABOTAGE_TOOLTIP
+Está tentando atrair agentes inimigos
+$AGENT_ACTION_LOWER_TEMPERATURE_TOOLTIP
+Acalmando a multidão
+$AGENT_ACTION_FIGHT_UNREST_TOOLTIP
+Reprime distúrbios
+$AGENT_ACTION_UNLOCK_DISTRICT_TOOLTIP
+Desbloqueia uma Seção
+$COMBAT_UNIT_01
+Levantamento em massa
+$COMBAT_UNIT_02
+Infantaria
+$COMBAT_UNIT_03
+Guarda da Cidade
+$COMBAT_UNIT_04
+Mosqueteiros
+$COMBAT_UNIT_05
+Artilharia
+$COMBAT_FIRST_LINE
+Infantaria — primeira fileira
+$COMBAT_SECOND_LINE
+Mosqueteiros – segunda fileira
+$COMBAT_THIRD_LINE
+Artilharia – terceira fileira
+$MAGIC_BUTTON_BATTLE
+Lutar todas as batalhas
+$ENEMY_AGENT_NAME_DIPLOMAT
+Diplomata inimigo
+$ENEMY_AGENT_NAME_MUSCLE
+Capanga inimigo
+$MAP_PATROL_NAME
+Patrulha Revolucionária
+$UNLOCK_DISTRICT
+Desbloquear Seção
+$MISSION_EXCEPTION_ENEMY_AGENT_TUTORIAL
+Atacar agente inimigo
+$MISSION_EXCEPTION_DISCOVERY_TUTORIAL
+Assuma uma Seção inimiga.
+$MISSION_EXCEPTION_NO_UNREST
+Sem distúrbios
+$MISSION_EXCEPTION_MAX_LEVEL
+Distrito totalmente aprimorado
+$MISSION_EXCEPTION_PLAYER_HQ
+A seção pertence a você
+$MISSION_EXCEPTION_ENEMY_HQ
+A seção pertence a uma família inimiga
+$MISSION_EXCEPTION_NON_PLAYER_DISTRICT
+Esta seção não pertence a você
+$BLOCK_PLAYER_AGENTS_TOOLTIP
+Você não pode realizar nenhuma ação devido aos seus ferimentos.
+$MISSION_EXCEPTION_AGENT_IS_WOUNDED
+O agente foi ferido.
+$MISSION_EXCEPTION_NO_ALLIES
+Nenhum agente aliado.
+$MISSION_EXCEPTION_ACTIVE_UNREST
+Distúrbios na Seção
+$ENEMY_AGENT_JOB_DESC
+Está assumindo uma Seção
+$MAP_PATROL_JOB_DESC
+Está em patrulha
+$PAWN_MUSCADINES_JOB_DESC
+Está incitando a multidão
+$PAWN_NAME_MUSCADINES
+Muscadins
+$REPORT_ENEMY_AGENTS_TITLE
+Agentes inimigos
+$REPORT_DISTRTICT_TITLE
+Seções
+$MAP_PATROL_BRIBE_TOOLTIP
+Comprar um agente por Pontos de Influência
+#FULL_GARRISON
+Guarnição cheia!
+#NO_PLACE_GARRISON
+Espaço insuficiente!
+$REPORT_ACTION_DESCRIPTION_01
+Seção {0} aprimorada
+$REPORT_ACTION_DESCRIPTION_02
+Foi bloqueado por distúrbios
+$REPORT_ACTION_DESCRIPTION_03
+Foi detido pela Patrulha Revolucionária
+$REPORT_ACTION_DESCRIPTION_06
+Seção {0} sabotada
+$REPORT_ACTION_DESCRIPTION_07
+Agente derrotado: {0}
+$REPORT_ACTION_DESCRIPTION_08
+Falha ao derrotar o agente: {0}
+$REPORT_ACTION_DESCRIPTION_09
+Distúrbios contidos na Seção {0}
+$REPORT_ACTION_DESCRIPTION_10
+Falha ao conter a agitação na Seção {0}
+$REPORT_ACTION_DESCRIPTION_11
+Motins reprimidos na Seção {0}
+$REPORT_ACTION_DESCRIPTION_12
+Falha ao reprimir os motins na Seção {0}
+$REPORT_ACTION_DESCRIPTION_16
+Agente inimigo {0} eliminado pela Patrulha Revolucionária
+$REPORT_ACTION_DESCRIPTION_17
+A Patrulha Revolucionária chegou à Seção {0}!
+$REPORT_ACTION_DESCRIPTION_18
+Agente inimigo chegou à Seção {0}: {1}!
+$REPORT_ACTION_DESCRIPTION_19
+{0} desapareceu!
+$REPORT_ACTION_DESCRIPTION_20
+Distúrbios detectados na Seção {0}
+$REPORT_ACTION_DESCRIPTION_21
+Distúrbios irromperam na Seção {0}
+$REPORT_ACTION_DESCRIPTION_22
+Distúrbios reprimidos na Seção {0}
+$REPORT_ACTION_DESCRIPTION_23
+Seção {0} foi totalmente aprimorada!
+$REPORT_ACTION_DESCRIPTION_24
+Os distúrbios reduziram o nível da Seção {0}!
+$REPORT_ACTION_DESCRIPTION_25
+Relação melhorada com a facção: {0}
+$REPORT_ACTION_DESCRIPTION_26
+Não foi possível melhorar a relação com a facção: {0}
+$DISTRICTS_COUNTER_TOOLTIP
+Seções controladas
+$DISTRICT_CONTROL_BAR_TOOLTIP
+Controle sobre Paris
+$MAP_COMBAT_GARRISON
+Guarnição
+#GENERAL_ARMY_STACK_TIER_01
+Pequena
+#GENERAL_ARMY_STACK_TIER_02
+Média
+#GENERAL_ARMY_STACK_TIER_03
+Grande
+#GENERAL_QUICK_BATTLE_NAME
+Batalha Rápida
+#GENERAL_SELECTION_EFFECTIVNESS
+Eficácia:
+#GENERAL_SELECTION_ARMY
+Tropas:
+#GENERAL_SELECTION_TACTIC
+Táticas:
+$MAIN_SECTION_STATUE_SELECTION_DESC
+Projeto da estátua
+$MAIN_SECTION_STATUE_SELECTION_TITLE
+Confirmar o projeto
+$MAIN_SECTION_HEADER
+Seção Principal
+$MAIN_SECTION_STATUE_ATTRIBUTE
+Arredores
+$MAIN_SECTION_STATUE_BOTTOM
+Pedestal
+$MAIN_SECTION_STATUE_TOP
+Estátua
+$MAIN_SECTION_STATUE_SING
+Assine para confirmar o projeto
+$MAIN_SECTION_BUILD_BUTTON
+Tomar o prédio
+$MAIN_SECTION_BUILD_INFO
+- Tomar o prédio -
+$MAIN_SECTION_REBUILD_HEADER
+Escolha qual prédio transformar em sua Sede
+$MAIN_SECTION_REBUILD_BUTTON
+Reconstruir
+$MAIN_SECTION_REBUILD_TOOLTIP_01
+Este prédio está sendo reconstruído.
+$MAIN_SECTION_ACTION_BUTTON
+Compre a ação por {0} PI
+$MAIN_SECTION_ACTION_NOT_ENOUGHT
+Você não pode realizar esta ação ({0} PI)
+$MAIN_SECTION_BUILD_INPROGRESS
+Tomada em andamento ({0}/{1} dias)
+$MAIN_SECTION_REBUILD_INPROGRESS
+Reconstrução em andamento em {0} ({1}/{2} dias)
+$MAIN_SECTION_BUILD_BLOCKED
+Este prédio está bloqueado.
+$MAIN_SECTION_BUILD_SPEED
+Taxa diária de construção da estátua: {0}%
+$MAIN_SECTION_BUILD_SPEED_TOOLTIP
+O número de Seções controladas influencia a velocidade de construção da estátua.
+$MAIN_SECTION_BUILD_POPUP
+Novas oportunidades
+$MAIN_SECTION_BUILD_POPUP_TEXT
+A estátua atingiu um novo estágio de desenvolvimento. Agora você pode tomar controle de mais um prédio.
+$MAIN_SECTION_REBUILD_POPUP
+Início das batalhas
+$MAIN_SECTION_REBUILD_POPUP_TEXT
+Paris inteiro está em guerra! O salão político será transformado em quartel-general, e o esconderijo, em centro de ajuda. A gráfica deixará de funcionar.
+$MAIN_SECTION_FAMILY_POPUP
+Apoiar a construção da estátua
+$MAIN_SECTION_FAMILY_POPUP_TEXT
+Todos se esforçam ainda mais ao ver que sua família está ajudando!
+$MAIN_SECTION_BUILD_END_POPUP_01
+A apreensão foi bem-sucedida.
+$MAIN_SECTION_BUILD_END_POPUP_02
+A reconstrução foi concluída.
+$MAIN_SECTION_BUILD_END_POPUP_03
+Construção concluída
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_01
+O salão político foi tomado com sucesso. As ações disponíveis nele vão facilitar seu trabalho no tribunal.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_02
+O esconderijo foi tomado. Isso ajudará seus Agentes a agir com mais eficiência em Paris.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_03
+Você tomou a gráfica. As ações disponíveis vão ajudá-lo a influenciar os grupos políticos de Paris.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_05
+O salão político foi transformado em quartel-general. Escolha suas ações para fortalecer sua luta por Paris.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_06
+O esconderijo foi transformado em um centro de ajuda. A partir de agora, sempre que você perder um especialista em logística em combate, poderá recrutar um novo aqui.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_07
+A gráfica foi transformada em um hospital de campanha. A partir de agora, sempre que perder um médico em combate, poderá recrutar outro aqui.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_08
+O símbolo da vitória da Revolução foi concluído. O monumento finalizado já começa a atrair os curiosos parisienses.
+$MAIN_SECTION_MILESTONE_COUNTER
+Dias restantes até a inspeção: {0}
+$MAIN_SECTION_MILESTONE_EXEEDED
+A inspeção está em andamento
+$MAIN_SECTION_PREMILESTONE_TITLE
+Inspeção a caminho!
+$MAIN_SECTION_MILESTONE_TITLE
+Dias até a inspeção:
+$MAIN_SECTION_PREMILESTONE_MAIN
+Em 3 dias, autoridades virão avaliar o progresso do monumento. Faça o possível para impressioná-las.
+$MAIN_SECTION_MILESTONE_01
+Etapa I: {0}–{1}%
+$MAIN_SECTION_MILESTONE_02
+Etapa II: {0}–{1}%
+$MAIN_SECTION_MILESTONE_03
+Etapa III: {0}–{1}%
+$MAIN_SECTION_MILESTONE_04
+Etapa IV: {0}–{1}%
+$MAIN_SECTION_STATUE_TITLE
+Estátua
+$MAIN_SECTION_STATUE_DESCRIPTION
+Sempre que concluir uma etapa da construção, poderá tomar posse de outro edifício.
+$MAIN_SECTION_BUILDING_01
+Salão Político
+$MAIN_SECTION_BUILDING_DESC_01
+As ações disponibilizadas por este edifício irão facilitar seu trabalho no tribunal.
+$MAIN_SECTION_BUILDING_02
+Esconderijo
+$MAIN_SECTION_BUILDING_DESC_02
+O esconderijo ajudará seus Agentes a agir com mais eficiência em Paris.
+$MAIN_SECTION_BUILDING_03
+Editora
+$MAIN_SECTION_BUILDING_DESC_03
+A tipografia permite ações contra os Muscadins e a Patrulha Revolucionária.
+$MAIN_SECTION_BUILDING_04
+Sua Residência
+$MAIN_SECTION_BUILDING_DESC_04
+Aqui você pode realizar ações relacionadas à sua família e aos personagens persuadidos.
+$MAIN_SECTION_BUILDING_05
+Quartel-general
+$MAIN_SECTION_BUILDING_DESC_05
+O quartel-general permite ações relacionadas a batalhas.
+$MAIN_SECTION_BUILDING_06
+Central de Ajuda
+$MAIN_SECTION_BUILDING_DESC_06
+Permite recrutar um especialista em logística.
+$MAIN_SECTION_BUILDING_07
+Hospital de Campanha
+$MAIN_SECTION_BUILDING_DESC_07
+Você pode recrutar o peão médico neste prédio.
+$MAIN_SECTION_ACTION_ACTIVE
+Ação disponível para uso
+$MAIN_SECTION_ACTION_COOLDOWN
+Ação disponível em {0} dias
+$MAIN_SECTION_ACTION_TITLE_01
+Preencher o relatório
+$MAIN_SECTION_ACTION_TITLE_02
+Subornar o Júri
+$MAIN_SECTION_ACTION_TITLE_03
+Conceder imunidade
+$MAIN_SECTION_ACTION_TITLE_04
+Acalmar a multidão
+$MAIN_SECTION_ACTION_TITLE_05
+Denunciar
+$MAIN_SECTION_ACTION_TITLE_06
+Enviar os Muscadins
+$MAIN_SECTION_ACTION_TITLE_07
+Passe mais tempo com sua família
+$MAIN_SECTION_ACTION_TITLE_08
+Facilitar as persuasões
+$MAIN_SECTION_ACTION_TITLE_09
+Espionar o inimigo
+$MAIN_SECTION_ACTION_TITLE_10
+Erguer barricadas
+$MAIN_SECTION_ACTION_TITLE_11
+Recrute um especialista em logística
+$MAIN_SECTION_ACTION_TITLE_12
+Recrute um médico
+$MAIN_SECTION_ACTION_DESC_01
+O Relatório ficará bloqueado durante o julgamento de amanhã e você não precisará se preocupar com isso.
+$MAIN_SECTION_ACTION_DESC_02
+O Júri não terá opinião sobre o veredicto no julgamento de amanhã.
+$MAIN_SECTION_ACTION_DESC_03
+Seus agentes ficarão imunes às ações da patrulha.
+$MAIN_SECTION_ACTION_DESC_04
+Reduza o fervor nas Seções sob seu controle.
+$MAIN_SECTION_ACTION_DESC_05
+A Patrulha Revolucionária prenderá o Agente Inimigo mais próximo.
+$MAIN_SECTION_ACTION_DESC_06
+No próximo turno, os muscadinos irão até a Seção inimiga mais próxima e incitarão um motim.
+$MAIN_SECTION_ACTION_DESC_07
+Escolhe aleatoriamente uma ação especial da família.
+$MAIN_SECTION_ACTION_DESC_08
+O personagem persuadido terá uma atitude inicial mais favorável em relação a você.
+$MAIN_SECTION_ACTION_DESC_09
+Mostra a força do exército atacante.
+$MAIN_SECTION_ACTION_DESC_10
+Unidades em Seções vizinhas a Seções inimigas recebem bônus de defesa.
+$MAIN_SECTION_ACTION_DESC_11
+Com a presença de um especialista em logística, as pessoas escaparão mais rápido.
+$MAIN_SECTION_ACTION_DESC_12
+O médico cuida dos seus soldados durante a batalha.
+$MAIN_SECTION_OPEN_TOOLTIP
+Clique para ir para a visualização da Seção Principal
+$MAIN_SECTION_ACTION_ACCEPT_TOOLTIP
+Clique para confirmar.
+$MAIN_SECTION_BUILD_TOOLTIP
+Você pode tomar este prédio.
+$MAIN_SECTION_BUILDING_TOOLTIP
+Você já está tomando este prédio.
+$MAIN_SECTION_SELECTED_ACTION_TOOLTIP
+Esta ação já foi escolhida.
+$MAIN_SECTION_LOCKED_TOOLTIP
+Você ainda não pode tomar este edifício.
+$MAIN_SECTION_MAGIC_TOOLTIP
+Visite a Seção Principal.
+$MAP_REFUGEES_MAGIC_TOOLTIP
+Refugiados em fuga
+$MAP_REFUGEE_AGENT
+Especialista em logística
+$MAP_MEDIC_AGENT
+Médico
+$MAP_REFUGEE_AGENT_MISSION
+Ajudar na fuga
+$MAP_REFUGEES_COUNTER_TOOLTIP
+Civis na Seção
+$MAP_REFUGEES_RESCUED_TOOLTIP
+Número de sobreviventes parisienses
+$MAP_REFUGEES_CASAULTIES_TOOLTIP
+Número de parisienses mortos
+$MAP_REFUGEES_REPUTATION_TOOLTIP
+Influência na reputação
+$MAP_REFUGEES_COUNTER_TITLE
+O destino dos fugitivos
+$MAP_INVASION_DAYS_LEFT
+Dias restantes até a chegada do reforço:
+$MAP_INVASION_EXEEDED
+O reforço nunca chegou
+$MAP_REFUGEES_VISIBLE
+Ocultar o número de civis na Seção
+$MAP_REFUGEES_INVISIBLE
+Mostrar o número de civis na Seção
+$MAP_ARMY_RAPORT_HEADER
+RECRUTAMENTO
+$MAP_ARMY_RAPORT_TITLE
+O número de unidades concedidas a você depende da sua reputação.
+$MAP_ADDITIONAL_ARMY_RAPORT_HEADER
+Tropas adicionais
+$MAP_REPORT_TITLE
+RELATÓRIO DE ATIVIDADES
+$MAP_COMBAT_PAWN_TITLE_01
+Levantamento em Massa
+$MAP_COMBAT_PAWN_DESC_01
+Um grupo formado por pessoas de todas as camadas da sociedade. A força está na união dos muitos.
+$MAP_COMBAT_PAWN_TITLE_02
+Infantaria
+$MAP_COMBAT_PAWN_DESC_02
+Soldados treinados são eficazes no combate corpo a corpo e na defesa contra ataques.
+$MAP_COMBAT_PAWN_TITLE_03
+Guarda da Cidade
+$MAP_COMBAT_PAWN_DESC_03
+Atiradores que defendiam a cidade dia após dia. Atacam tanto à distância quanto corpo a corpo.
+$MAP_COMBAT_PAWN_TITLE_04
+Mosqueteiros
+$MAP_COMBAT_PAWN_DESC_04
+Atiradores treinados, mais eficazes em ataques à distância, mas também capazes de lutar corpo a corpo.
+$MAP_COMBAT_PAWN_TITLE_05
+Artilharia
+$MAP_COMBAT_PAWN_DESC_05
+Tecnologia avançada torna a artilharia imbatível em poder de ataque. Infelizmente, ela pode ser facilmente danificada.
+$MAP_NEWSPAPER_TITLE
+Jornal
+$MAP_NEWSPAPER_A1_05
+As pessoas já comentavam sobre isso há dias, mas sempre em sussurros e cheias de dúvidas. Hoje, podemos gritar a plenos pulmões: Jean-Marie Roland destruiu provas da traição de Luís, provas que estavam guardadas no armário de ferro de Capeto. O inquietante relato foi confirmado por Phillipe Côté, que estava com o ministro quando ele abriu o armário. Roland também tentou destruir os documentos que o incriminavam. Felizmente, não conseguiu eliminar todos. Ele foi detido pelos guardas enviados pelo sempre cauteloso Robespierre. Vergonha!
+$MAP_NEWSPAPER_A1_03
+O herói de Paris revelado! O juiz Alexis Fidèle sentenciou e supervisionou a execução do traidor Louis Capet, o antigo rei. Fez isso sem hesitar, sem piedade. Paris tem um novo defensor!
+$MAP_NEWSPAPER_A1_04
+Prussianos às portas da França! O comando central decidiu iniciar um novo recrutamento para repelir o inimigo que se aproxima. Todo aquele que tiver coragem no peito e amor pela República lutará ao lado de seus irmãos e morrerá por...
+$MAP_NEWSPAPER_A1_06
+O inimigo está às portas! Isso não é um futuro distante e irreal — será iminente se não purificarmos nossa sociedade. Mantenham-se atentos e busquem os inimigos da República — agentes do Antigo Regime ainda podem estar entre vocês! A execução do traidor Capeto não é motivo para baixarmos a guarda!
+$MAP_NEWSPAPER_A2_FIRST_01
+Os Rolands foram as primeiras vítimas daquele juiz fedorento. Fidèle os manipulou como quis, e agora estão debaixo da terra.
+$MAP_NEWSPAPER_A2_FIRST_02
+Duas vítimas não bastaram para satisfazê-lo, pois logo uma série de girondinos também foi enviada à guilhotina. Dizem que por traição, mas quem pode afirmar com certeza?
+$MAP_NEWSPAPER_A2_FIRST_03
+Poucos sabem, mas ele foi um dos responsáveis pelo massacre dos manifestantes após a fuga de Capeto. Foi ele quem assinou a permissão para atirar naquelas pessoas!
+$MAP_NEWSPAPER_A2_FIRST_04
+Antes disso, ele praticamente condenou à morte o comandante-em-chefe Burel ao se recusar a ajudá-lo a conter a multidão enfurecida.
+$MAP_NEWSPAPER_A2_FIRST_05
+Após o escândalo envolvendo o ministro Roland e sua esposa, o Tribunal confiscou toda a fortuna deles, inclusive o bordel administrado por Madame Roland. E quem foi o responsável por isso? Oficialmente, o comandante-em-chefe Hanriot, embora digam que Fidèle também ficou com parte dos lucros.
+$MAP_NEWSPAPER_A2_SECOND_01
+O prefeito de Paris teve o mesmo destino. Fidèle foi a causa de sua queda, acreditando que Pache era o responsável pela tentativa de assassinato contra ele.
+$MAP_NEWSPAPER_A2_SECOND_02
+Para alcançar Pache, ele soltou os Muscadins sobre Paris. Assim que souberam dos crimes do prefeito, começaram a devastar a cidade. Com a permissão de Fidèle!
+$MAP_NEWSPAPER_A2_SECOND_03
+Ele se opôs à conclusão da construção da ponte [caso essa tenha sido a escolha do jogador]. Era terminantemente contra finalizar a obra. Compreendo que seu filho foi enforcado ali, mas sentimentos pessoais não podem afetar toda a cidade.
+$MAP_NEWSPAPER_A2_SECOND_04
+Béatrice Caron é mais uma vítima da “Fera do Tribunal”. Aquela pobre garota foi acusada de conspirar contra Pache e de traição. Sua vida foi destruída da noite para o dia.
+$MAP_NEWSPAPER_A2_SECOND_05
+Isso levou à sua morte. O plano mal elaborado fez com que Marie, filha de Pache, matasse Béatrice. As duas mulheres eram amantes.
+$MAP_NEWSPAPER_A2_SECOND_06
+Ele também levou à morte Marie Sylvie Pache. “A Fera do Tribunal” finalmente silenciou a última testemunha daqueles eventos ao condenar Marie Sylvie Pache à morte. Agora, eliminou todos que poderiam desonrá-lo.
+$MAP_NEWSPAPER_A2_THIRD_01
+Em seguida, “a Fera do Tribunal” começou a espalhar rumores repugnantes sobre o filho ilegítimo de Gobel. Quem poderia imaginar as terríveis consequências que isso traria? Alexis Fidèle sabia muito bem.
+$MAP_NEWSPAPER_A2_THIRD_02
+Tenho certeza de que o juiz se aproveitou da revolta na Vendeia para inflamar a capital e fazer com que o povo, que já havia se afastado do clero, se voltasse também contra Gobel.
+$MAP_NEWSPAPER_A2_THIRD_03
+Ele se opôs à iniciativa de Gobel. O arcebispo, querendo ajudar uma sociedade exausta, começou a socorrer os pobres. Fidèle imediatamente pôs fim a essa iniciativa. Seu objetivo político era mais importante para ele do que o bem-estar do povo!
+$MAP_NEWSPAPER_A2_THIRD_04
+Mas o crime mais hediondo cometido pela “Fera do Tribunal” ainda estava por vir. Fidèle sequestrou a família de Gobel para chantageá-lo. Pode-se até dizer que, ao fazer isso, suas ações levaram ao terrível desfecho de um filho matando o próprio pai!
+$MAP_NEWSPAPER_A2_FOURTH_01
+Alexis Fidèle é conhecido por sua embriaguez e pelo vício em jogos. Fica claro que esse comportamento descontrolado está profundamente enraizado nesta família.
+$MAP_NEWSPAPER_A2_FOURTH_02
+O irmão do juiz foi banido da cidade por mutilar um jovem. Ele quase o espancou até a morte com um porrete de madeira. A vítima ainda não consegue realizar nem as tarefas mais simples do dia a dia sem ajuda.
+$MAP_NEWSPAPER_A2_FOURTH_03
+Até onde sei, o juiz continua mantendo relações ambíguas com Grace Elliot – uma prostituta que espionava para os ingleses.
+$MAP_NEWSPAPER_A2_FOURTH_04
+Sua esposa não era melhor do que ele. Mathilde Fidèle também não foi fiel ao casamento, pois teria sido vista por alguns com o comandante-em-chefe Hanriot — o mesmo cuja candidatura foi apoiada por Alexis Fidèle, e que acabou se revelando um cão de Robespierre.
+$MAP_NEWSPAPER_A2_FOURTH_05
+A relação de Fidèle com um certo Grégory Ramel também permanece obscura. Ramel supostamente obtinha informações para “a Fera do Tribunal”, e Fidèle aparentemente não se importava que seu associado já tivesse espionado para os ingleses.
+$RAPORT_SPY_TAKE_OVER_SECTION
+Assumiu o controle da Seção {0}, anteriormente sob domínio inimigo.
+$RAPORT_SPY_BOUNCE_SECTION
+Seção {0} neutralizada.
+$RAPORT_SPY_TRAP
+Preparou uma emboscada contra o inimigo.
+$RAPORT_SPY_SABOTAGE
+Seção {0} sabotada.
+$RAPORT_MUSCLE_UNREST_SUCC
+Reprimiu distúrbios na Seção {0}.
+$RAPORT_MUSCLE_UNREST_FAIL
+Os distúrbios na Seção {0} não puderam ser contidos.
+$RAPORT_MUSCLE_GAIN_REP
+Sua reputação aumentou em: {0}.
+$RAPORT_MUSCLE_GAIN_PROT_AGENTS
+Defendeu os agentes na seção {0}.
+$RAPORT_DIPLOMAT_TAKE_OVER_SECTION
+Seção {0} tomada.
+$RAPORT_DIPLOMAT_IMPROVE_RELATIONS
+Prestígio aumentado com: {0}.
+$RAPORT_DIPLOMAT_IMPROVE_RELATIONS_FAIL
+Não foi possível melhorar a relação com: {0}.
+$RAPORT_DIPLOMAT_DECREASE_TEMP
+Reduziu a tensão da multidão na Seção {0}.
+$RAPORT_AGENT_BLOCKED_UNREST
+Um agente foi impedido por tumultos.
+$RAPORT_AGENT_BLOCKED_PATROL
+Um agente foi detido pela Patrulha Revolucionária.
+$RAPORT_AGENT_WON_FIGHT_WITH_ENEMY
+Um agente venceu a luta contra o inimigo.
+$RAPORT_AGENT_INJURED
+Um agente foi ferido.
+$RAPORT_AGENT_REVEAL_SECTION
+Um agente descobriu a seção {0}.
+$RAPORT_ENEMY_AGENTS_TAKE_OVER_SECTION
+Um {0} inimigo tomou a Seção {1}.
+$RAPORT_ENEMY_AGENTS_DISAPPEAR
+O inimigo {0} desapareceu.
+$RAPORT_ENEMY_AGENTS_ARRESTED
+Um agente inimigo {0} foi detido pela Patrulha Revolucionária.
+$RAPORT_ENEMY_MUSCADIN_UNREST
+Os Muscadins incitaram distúrbios.
+$RAPORT_ENEMY_PATROL_SPAWN_SECTION
+A Patrulha Revolucionária está vasculhando a Seção {0}!
+$RAPORT_ENEMY_MUSCADIN_SPAWN_SECTION
+Muscadinos avistados na Seção {0}!
+$RAPORT_ENEMY_AGENT_SPAWN_SECTION
+Um agente inimigo chegou à Seção X: {0}!
+$RAPORT_ENEMY_MUSCADIN_DISAPPEAR
+Os Muscadins desapareceram.
+$RAPORT_ENEMY_PATROL_DISAPPEAR
+A Patrulha Revolucionária desapareceu.
+$RAPORT_SECTION_SPAWN_UNREST
+Distúrbios eclodiram na Seção {0}.
+$RAPORT_SECTION_DESPAWN_UNREST
+Os distúrbios cessaram na Seção {0}.
+$RAPORT_SECTION_PLAYER_TAKE_OVER_SECTION
+Você está controlando a Seção {0}!
+$RAPORT_SECTION_NEUTRAL_UNREST
+Distúrbios neutralizaram a Seção {0}!
+$RAPORT_SECTION_LOST
+Você perdeu a Seção {0}!
+$RAPORT_SECTION_REVEAL
+A seção {0} foi descoberta.
+$RAPORT_SECTION_HIGHT_TEMP
+O ânimo da multidão na seção {0} está perigosamente elevado.
+$DISTRICT_INFLUENCE_BONUS
+Pontos de Influência: +{0}
+$DISTRICT_CONSTRUCTION_BONUS
+Construção do monumento: +{0}%
+$MAP_COMBAT_TUTORIAL_TOOLTIP
+Desloque suas tropas para a seção ameaçada!
+$MAP_COMBAT_END_TITLE
+Continue lutando.
+$MAP_COMBAT_END_MAIN
+As tropas de reforço não chegaram a tempo. Precisamos resistir mais um pouco.

@@ -1,0 +1,48 @@
+$DISC_INTR_001_B04_MARAT_001_JUDGE
+Geldiğiniz için teşekkür ederim.
+$DISC_INTR_001_B04_MARAT_002_MARAT
+Tribünal Yargıçları için neler yapmıyoruz ki…
+$DISC_INTR_001_B04_MARAT_003_JUDGE
+Bakan Roland hakkında konuşmak istiyorum.
+$DISC_INTR_001_B04_MARAT_004_MARAT
+Anlıyorum...
+$DISC_INTR_001_B04_MARAT_005_JUDGE_AGGR
+Roland tam bir asalak. Yolsuzluk, yeni yönetimin simgesi olamaz.
+$DISC_INTR_001_B04_MARAT_006_JUDGE_MANI
+Roland gerçekten halkı mı temsil ediyor? Yoksa aslında Capet ve hizmetkârlarının çıkarına mı çalışıyor?
+$DISC_INTR_001_B04_MARAT_007_JUDGE_JOKE
+Roland’dan, onun iyiliği için kurtulmamız gerek. Cebindeki paralar yüzünden yakında cepleri patlayacak.
+$DISC_INTR_001_B04_MARAT_008_JUDGE_HUMI
+Fransa kan kaybediyor ve Roland gibiler, yaralarının iyileşmesine izin vermiyor. Aksine, onları daha da derinleştiriyorlar.
+$DISC_INTR_001_B04_MARAT_009_MARAT_INTR
+Niyetinizi anlıyorum. Açıkçası, ben de Roland gibi insanlardan nefret ediyorum.
+$DISC_INTR_001_B04_MARAT_010_MARAT_DOUB
+Onun ayağına bastınız, o da karşılık verdi. Peki, bunun devlete ne faydası var?
+$DISC_INTR_001_B04_MARAT_011_JUDGE_AGGR
+Roland yalnızca rüşvet almakla suçlu değil. Devrim Mahkemesi yargıcını tehdit etti. Bağımsız yargı tehlikede!
+$DISC_INTR_001_B04_MARAT_012_JUDGE_MANI
+Cezadan kaçmak için Roland bana karşı bir intikam savaşı başlattı. Böyle yaparak, yeni düzene savaş ilan etmiş olmadı mı?
+$DISC_INTR_001_B04_MARAT_013_JUDGE_JOKE
+Bay ve Bayan Roland, iki sivrisinek gibi; beni sokuyor, Fransa’nın kanını emiyorlar. Kimse sivrisinekleri sevmez.
+$DISC_INTR_001_B04_MARAT_014_JUDGE_HUMI
+Bakana karşı şahsi antipatim, bu yozlaşmış Kraliyetçiyi daha adil biriyle değiştirmemiz gerektiği gerçeğini değiştirmez.
+$DISC_INTR_001_B04_MARAT_015_JUDGE_AGGR
+Eğer milletvekillerini ikna etmezseniz, hâlâ tüm Fransa’da etkisini sürdüren hainlere göz yumduğunuzun kanıtı olacak!
+$DISC_INTR_001_B04_MARAT_016_JUDGE_MANI
+Okuyucularınıza yalnızca övgü peşinde koşan bir kışkırtıcı olmadığınızı gösterin. Onlara Fransa için gerçekten çabaladığınızı hissettirin.
+$DISC_INTR_001_B04_MARAT_017_JUDGE_JOKE
+Girondinler çoğu zaman kendi ayaklarına takılır. Onlara hafifçe itmek yeterlidir.
+$DISC_INTR_001_B04_MARAT_018_JUDGE_HUMI
+Bazen Roland, Eski Rejim’e Louis’den bile daha yakın duruyor. Eski düzeni tamamen yıkmak istiyorsanız, işte fırsatınız.
+$DISC_INTR_001_B04_MARAT_019_MARAT_SATI
+Sonunda şu lanet Girondinlerden kurtulmak isteyen birini buldum. Yaşasın Yargıç Fidèle!
+$DISC_INTR_001_B04_MARAT_020_MARAT_INTR
+Bakan Roland’ın ve kurnaz eşinin hızlı düşüşü, Girondinler’in bedelini ağır ödemesine yol açacak. Desteğime güvenebilirsiniz.
+$DISC_INTR_001_B04_MARAT_021_MARAT_DOUB
+Roland’la olan savaşınız beni ilgilendirmez. Sıradan bir yargıçla iş birliği yaparak hiçbir çıkarım olmaz.
+$DISC_INTR_001_B04_MARAT_TOPIC_01
+Ne elde etmek istiyoruz?
+$DISC_INTR_001_B04_MARAT_TOPIC_02
+Bunu neden istiyoruz?
+$DISC_INTR_001_B04_MARAT_TOPIC_03
+Bundan ne çıkarı olacak?

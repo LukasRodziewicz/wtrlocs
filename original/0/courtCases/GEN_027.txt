@@ -1,0 +1,254 @@
+$GEN_027_DOC_01_HEADER
+Sporządził: Nathan d’Essiraf
+$GEN_027_DOC_01_00
+	W więziennej celi na sąd czeka Jean-François Vary, 38-letni były mistrz kuchni markiza de Rougé. Wyjaśnijmy, że dawny pracodawca oskarżonego był monarchistą i spiskowcem, skazanym za działalność antyrewolucyjną na ścięcie i konfiskatę majątku. Udało nam się ustalić, że Vary był nie tylko kucharzem, ale i <a name="2" class="hidden">przyjacielem markiza</a>. Nie wiemy, co oskarżony robił po aresztowaniu swojego pryncypała, po roku objawił się jednak w Paryżu jako <a name="3" class="hidden">właściciel ekskluzywnej restauracji</a> Pod Złotą Chimerą. Lokal ten okazał się szczególnie popularny wśród arystokracji oraz zamożnych kupców i fabrykantów.
+$GEN_027_DOC_01_01
+	Vary został doprowadzony do Gwardii Narodowej przez rozjuszony tłum po tym, jak na swoim lokalu  <a name="4" class="hidden">wywiesił szyld</a> głoszący: „Najlepsi obywatele mile widziani”. Paryżanie, którzy dokonali  samowolnego aresztowania, oskarżyli restauratora o kontrrewolucyjne poglądy i walkę z ludem Paryża. Na miejsce zdarzenia szybko przybyli żołnierze. Nie zdążyli  ocalić szyldu, ale powstrzymali tłum przed podpaleniem lokalu razem z gośćmi.
+$GEN_027_DOC_01_02
+	Jak wykazało późniejsze dochodzenie, Vary już wcześniej miał zauważalnie <a name="6" class="hidden">gorzej traktować</a> w swojej restauracji klientów wywodzących się z niższych warstw społecznych. Dochodziło nawet do tego, że odmawiał im obsługi albo zawyżał ich rachunki.
+$GEN_027_DOC_01_03
+	Ze szczególnym oburzeniem spotkało się wyrzucenie z lokalu <a name="7" class="hidden">Paula Idraca</a>, majętnego i szanowanego szewca. Vary miał osobiście wyprowadzić go na zewnątrz i publicznie zwymyślać mu od plebsu niegodnego obiadowania z lepszymi od siebie.    
+$GEN_027_OnStart_00
+Zafajdany garkotłuk myśli, że jest lepszy od nas!
+$GEN_027_OnStart_01
+Proszę się przedstawić.
+$GEN_027_OnStart_02
+Nazywam się Jeanie-François Vary, Wysoki Sądzie.
+$GEN_027_OnStart_03
+Jeanie Vary, jesteś oskarżony o wyznawanie i wprowadzanie w życie poglądów sprzecznych z osiągnięciami rewolucji. Czy przyznajesz się do winy?
+$GEN_027_OnStart_04
+Te oskarżenia to zwykły absurd, to pomówienia, to… to… to bezprawne działania zazdrosnych o mój interes ludzi!
+$GEN_027_OnStart_05
+Z akt sprawy wynika, że jeśli mowa o bezprawiu, to w wykonaniu oskarżonego.
+$GEN_027_OnStart_06
+Co sprzecznego z prawem zrobiłem?
+$GEN_027_OnStart_07
+Odmawiałeś swoich usług obywatelom, których uznałeś za gorszych, o czym zresztą publicznie poinformowałeś ich samych i wszystkich wokół.
+$GEN_027_OnStart_08
+To tylko nieporozumienie pomiędzy mną i klientami, to nie jest sprawa dla sądu.
+$GEN_027_OnGuilty_00
+Skazuję Jeana Vary’ego na śmierć na gilotynie! Wyprowadzić skazanego.
+$GEN_027_OnGuilty_01
+Tam właśnie jest jego miejsce!
+$GEN_027_OnGuilty_02
+Brawo!
+$GEN_027_OnGuilty_03
+Stanęliśmy dziś po stronie zwykłych paryżan.
+$GEN_027_OnNotGuilty_00
+Wyrok w sprawie Jeana Vary’ego brzmi: niewinny! Podsądny jest wolny.
+$GEN_027_OnNotGuilty_01
+Sędzia zwariował!
+$GEN_027_OnNotGuilty_02
+Uwalniasz wroga ludu!
+$GEN_027_OnNotGuilty_03
+Masz nadzieję na dobry stolik i darmowy obiad?
+$GEN_027_02x04_00_QTitle
+Którzy z obywateli są według oskarżonego tymi najlepszymi?
+$GEN_027_02x04_00_00
+Którzy z obywateli są według oskarżonego tymi najlepszymi?
+$GEN_027_02x04_00_01
+Ci, którzy zachowują się wytwornie i elegancko, a przy tym płacą rachunki. W całości.
+$GEN_027_02x04_00_02
+I kto spełnia te warunki?
+$GEN_027_02x04_00_03
+Z doświadczenia wiem, że takimi ludźmi są głównie arystokraci i przemysłowcy. Wyższe sfery, jak to się mówi.
+$GEN_027_02x04_00_04
+Zatem z punktu widzenia oskarżonego arystokraci są lepszymi obywatelami?
+$GEN_027_02x04_00_05
+Ja nie miałem intencji dzielić ludzi na lepszych i gorszych.
+$GEN_027_02x04_00_06
+Ale to robiliście. Wasz szyld zabraniał wstępu tym gorszym.
+$GEN_027_02x04_00_07
+Rozumiem, że go widzieliście na własne oczy?
+$GEN_027_02x04_00_08
+Nie, zniszczył go tłum.
+$GEN_027_02x04_00_09
+Napisałem na nim jedynie, że najlepsi obywatele stołują się Pod Złotą Chimerą – to nic kontrrewolucyjnego.
+$GEN_027_02x04_00_10
+Kłamca! Wiemy, co widzieliśmy.
+$GEN_027_02x04_00_11
+Przecież nie umiecie czytać, gamonie!
+$GEN_027_02x05_01_QTitle
+Jaki jest pogląd oskarżonego na czasy sprzed rewolucji?
+$GEN_027_02x05_01_00
+Jaki jest pogląd oskarżonego na czasy sprzed rewolucji?
+$GEN_027_02x05_01_01
+Jako mistrzowi w swoim fachu nie powodziło mi się najgorzej.
+$GEN_027_02x05_01_02
+I nic więcej oprócz tego was nie obchodziło?
+$GEN_027_02x05_01_03
+No, to nie tak, że…
+$GEN_027_02x05_01_04
+Bo pasłeś się na naszym nieszczęściu razem z markizem!
+$GEN_027_02x05_01_05
+Zatem oskarżony nie popiera rewolucji?
+$GEN_027_02x05_01_06
+Nic z tych rzeczy! Po prostu przed rewolucją nie dane mi było odczuć ogromu niesprawiedliwości, jaka dotykała innych.
+$GEN_027_02x05_01_07
+Z pewnością, skoro żył oskarżony pod dachem pałacu, a nie pod strzechą.
+$GEN_027_02x05_01_08
+Wysoki Sądzie, jeśli miałem jakieś przywileje, to tylko dlatego, że na nie ciężko zapracowałem. Nie urodziłem się bogaty i musiałem pracować na chleb jak wszyscy.
+$GEN_027_04x05_02_QTitle
+Czy to oskarżony wywiesił szyld na swojej restauracji?
+$GEN_027_04x05_02_00
+Czy to oskarżony wywiesił szyld na swojej restauracji?
+$GEN_027_04x05_02_01
+Zgadza się, Wysokie Sądzie, to ja.
+$GEN_027_04x05_02_02
+Dlaczego to zrobiliście? Treść tego szyldu stoi w jawnej sprzeczności z ideą równości i braterstwa, głoszoną przez rewolucję.
+$GEN_027_04x05_02_03
+Chciałem tylko poinformować, że moja restauracja spełnia wymagania najwybredniejszych klientów. 
+$GEN_027_04x05_02_04
+A wymagań zwykłych klientów nie spełniała?
+$GEN_027_04x05_02_05
+Ja to bym tam chętnie zjadł.
+$GEN_027_04x05_02_06
+To nie tak. Są różne lokale, tanie i drogie. Ja chciałem tylko zawiadomić klientów, czego powinni się spodziewać, przekraczając próg.
+$GEN_027_04x05_02_07
+Z szyldu wynika, że w waszej restauracji duża część klientów nie jest mile widziana.
+$GEN_027_04x05_02_08
+Mile widziani są wszyscy, jeśli mogą zapłacić i potrafią się zachować. Chyba mam prawo oczekiwać od gości restauracji zapłaty i dobrych manier?
+$GEN_027_04x05_02_09
+Butny i pazerny skurwiel!
+$GEN_027_04x05_02_10
+Słyszycie tę pogardę w głosie?
+$GEN_027_06x07_03_QTitle
+Proszę wezwać świadka Paula Idraca.
+$GEN_027_06x07_03_00
+Proszę wezwać świadka Paula Idraca.
+$GEN_027_06x07_03_02
+Proszę się przedstawić.
+$GEN_027_06x07_03_03
+Nazywam się Paul Idrac.
+$GEN_027_06x07_03_04
+Czym się świadek zajmuje?
+$GEN_027_06x07_03_05
+Jestem szewcem, z dziada pradziada zresztą, Wysoki Sądzie.
+$GEN_027_05x06_04_QTitle
+Czy to normalna sytuacja, aby restaurator odmawiał obsługi klientów?
+$GEN_027_05x06_04_00
+Czy to normalna sytuacja, aby restaurator odmawiał obsługi klientów?
+$GEN_027_05x06_04_01
+A jeśli do sklepu przychodzi człowiek, co ma w kieszeni tylko dziury i prosi o złotą tabakierę, to ktoś go obsłuży? 
+$GEN_027_05x06_04_02
+Kazaliście pokazywać zawartość kieszeni przy wejściu?
+$GEN_027_05x06_04_03
+Nie.
+$GEN_027_05x06_04_04
+To skąd wiedzieliście, kogo wpuścić?
+$GEN_027_05x06_04_05
+To widać od razu.
+$GEN_027_05x06_04_06
+Nasze prostackie ryje mu nie pasowały!
+$GEN_027_03x04_05_QTitle
+Czy oskarżony jest uprzedzony do osób spoza stanu szlacheckiego?
+$GEN_027_03x04_05_00
+Czy oskarżony jest uprzedzony do osób spoza stanu szlacheckiego?
+$GEN_027_03x04_05_01
+Nie, dlaczego? Sam przecież pochodzę z rodziny mieszczańskiej.
+$GEN_027_03x04_05_02
+Zachowanie sugeruje coś odmiennego.
+$GEN_027_03x04_05_03
+Ludzie, których stać na jedzenie u mnie, lubią, jak się im pochlebia.
+$GEN_027_03x04_05_04
+A pozostali lubią, jak się ich obraża?
+$GEN_027_03x04_05_05
+Nikogo nie obraziłem!
+$GEN_027_03x04_05_06
+Nikogo nie obraził, to dobre.
+$GEN_027_WIT_00_A_QTitle
+Czy świadek dał oskarżonemu powód do wyrzucenia z lokalu?
+$GEN_027_WIT_00_A_00
+Czy świadek dał oskarżonemu powód do wyrzucenia z lokalu?
+$GEN_027_WIT_00_A_01
+Żadnego! Vary kazał mi się wynosić, bo towarzystwo szewca nie pasowało jaśnie państwu, tfu!
+$GEN_027_WIT_00_A_02
+Zachowywaliście się niewłaściwie? Może zbyt głośno?
+$GEN_027_WIT_00_A_03
+Ależ skąd, chodziło tylko o moje pochodzenie.
+$GEN_027_WIT_00_A_04
+Skąd wiecie, że właśnie dlatego zostaliście wyproszeni?
+$GEN_027_WIT_00_A_05
+Vary mi o tym powiedział! Zanim otworzył mną drzwi! Pokazywałem mu pieniądze, że zapłacę, co trzeba, ale nie słuchał. Bo przecież baronowi Lavalowi i jego metresie krzywo było jeść z szewcem.
+
+
+$GEN_027_WIT_01_A_QTitle
+Czy świadek zna przypadki innych osób wyrzuconych z restauracji oskarżonego?
+$GEN_027_WIT_01_A_00
+Czy świadek zna przypadki innych osób wyrzuconych z restauracji oskarżonego?
+$GEN_027_WIT_01_A_01
+Ba, pewnie. Przynajmniej kilku takich znam, co ich wyrzucono tylko dlatego, że nie pasowali do towarzystwa. Nie byli arystokratami.
+$GEN_027_WIT_01_A_03
+Wysoki Sądzie, on kłamie. Został wyrzucony, bo przyłapałem go na próbie kradzieży srebrnej zastawy.
+$GEN_027_WIT_01_A_04
+Czy oskarżony zgłosił ten fakt odpowiednim organom?
+$GEN_027_WIT_01_A_05
+No… nie. Uznałem sprawę za niebyłą, bo przecież w końcu nic nie ukradł.
+$GEN_027_WIT_01_B_QTitle
+Co świadek wie na temat poglądów politycznych oskarżonego?
+$GEN_027_WIT_01_B_00
+Co świadek wie na temat poglądów politycznych oskarżonego?
+$GEN_027_WIT_01_B_01
+Wysoki Sądzie, ja jestem rewolucjonistą od samych początków. Ja monarchistę wyczuję nosem na odległość, a ten to wróg rewolucji pełną gębą. 
+$GEN_027_WIT_01_B_02
+Skąd ta pewność?
+$GEN_027_WIT_01_B_03
+Wystarczyło posłuchać, co mówił, jak mnie wyrzucał od siebie.
+$GEN_027_WIT_01_B_04
+Proszę rozwinąć myśl.
+$GEN_027_WIT_01_B_05
+Po tym, jak wylądowałem w błocie, usłyszałem, że kiedyś plebs znał swoje miejsce, a teraz, po rewolucji, to wszystko na głowie stanęło i żeby tak szlag trafił rewolucję.
+$GEN_027_WIT_01_B_06
+Czy świadek może to jakoś udowodnić?
+$GEN_027_WIT_01_B_07
+Ja sam jestem dowodem, nie tak?
+$GEN_027_WIT_01_B_09
+Wysoki Sądzie, nie przypominam sobie, żebym użył takich słów. Ten człowiek usiłuje mnie oczernić!
+$GEN_027_KEY_01
+Mistrz kuchni
+$GEN_027_KEY_02
+Przyjaciel markiza
+$GEN_027_KEY_03
+Ekskluzywna restauracja
+$GEN_027_KEY_04
+Szyld
+$GEN_027_KEY_05
+Kontrrewolucyjne poglądy
+$GEN_027_KEY_06
+Traktowanie klientów
+$GEN_027_KEY_07
+Wyrzucenie szewca
+
+
+
+$GEN_027_LastDialog_00
+To jest całkowite i potworne nieporozumienie! Nie można zabijać ludzi za takie rzeczy! Pomocy!
+
+$GEN_027_UNIQUE_QUESTION_01
+Jacy obywatele są według oskarżonego “najlepsi”?
+$GEN_027_UNIQUE_ANSWER_CORRECT_01_00
+Wytworni i eleganccy.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Skromni i cisi.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Szczodrzy i dobrze ubrani.
+
+$GEN_027_UNIQUE_QUESTION_02
+Jak podejrzany tłumaczył odmowę obsługi niektórych klientów?
+$GEN_027_UNIQUE_ANSWER_CORRECT_02_00
+Wysokimi cenami.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Niewielką liczbą stolików.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Brudnymi butami biednych obywateli.
+
+$GEN_027_UNIQUE_QUESTION_03
+Co oskarżony zarzucił obywatelowi Idrac?
+$GEN_027_UNIQUE_ANSWER_CORRECT_03_00
+Kradzież zastawy.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Chamstwo wobec dam.
+$GEN_027_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Pijaństwo i krzyki.
+
+

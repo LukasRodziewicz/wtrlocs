@@ -1,0 +1,16 @@
+$DIAL_CO_01_03_20_001_MENTOR
+Como você está se sentindo? Quando fui te ver, você ainda não tinha recobrado a consciência.
+$DIAL_CO_01_03_20_002_JUDGE
+As feridas ainda não cicatrizaram por completo, mas achei melhor aparecer no trabalho mesmo assim.
+$DIAL_CO_01_03_20_003_MENTOR
+Sim... Olha, preciso conversar com você. Acho que devo. Seu pai já te contou exatamente como seu irmão escapou da forca e acabou indo para a linha de frente?
+$DIAL_CO_01_03_20_004_JUDGE
+Eu perguntei, mas... Tudo o que recebi foi silêncio.
+$DIAL_CO_01_03_20_005_MENTOR
+Fui eu quem foi designado para o caso dele.
+$DIAL_CO_01_03_20_006_MENTOR
+Depois soubemos que Bruno se alistou e morreu na linha de frente. O que quero dizer é...
+$DIAL_CO_01_03_20_007_JUDGE
+O quê…?
+$DIAL_CO_01_03_20_008_MENTOR
+Seu irmão morreu mesmo assim, apesar de eu ter lhe concedido misericórdia. Mas isso não significa que ter mostrado compaixão foi em vão. Lembre-se disso enquanto persegue seus inimigos.

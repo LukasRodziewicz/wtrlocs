@@ -1,0 +1,128 @@
+$GEN_009_DOC_01_HEADER
+Compilé par : Richard Mounier
+$GEN_009_DOC_01_00
+Jean Renard, un aubergiste de 45 ans, a été arrêté pour escroquerie. Il est accusé d'avoir <a name="2" class="hidden">dilué de l'alcool</a> dans sa taverne, incitant ses clients à payer plus cher par la ruse.
+$GEN_009_DOC_01_01
+Les clients venaient avec un objectif bien précis en tête : <a name="3" class="hidden">finir ivres morts</a>. Mais au lieu de ressortir en titubant après avoir descendu deux pichets de vin ou plusieurs pintes de bière, ils fréquentaient l'établissement jusqu'au petit matin, toujours sobres mais complètement fauchés.
+$GEN_009_DOC_01_02
+L'escroquerie de l'aubergiste fut mise au jour quand l'un des clients <a name="4" class="hidden">découvrit</a> la supercherie et surprit l'escroc la main dans le sac. L'homme se retrouva dans la cave de l'hôte et le vit diluer l'alcool dans les fûts avec de <a name="5" class="hidden">l'eau ordinaire</a>. Par conséquent, les clients n'obtenaient que quatre doses de ce qu'ils avaient payé mélangées à une dose d'eau.
+$GEN_009_OnStart_00
+En ces temps difficiles, les gens préfèrent trouver la paix au fond d'un verre...
+$GEN_009_OnStart_01
+Je te prie de te présenter, citoyen.
+$GEN_009_OnStart_02
+Jean Renard, Monsieur le juge.
+$GEN_009_OnStart_03
+Espèce d'escroc !
+$GEN_009_OnPrison_00
+Je condamne le citoyen Jean Renard à être emprisonné ! Emmenez le condamné.
+$GEN_009_OnPrison_01
+Hourra !
+$GEN_009_OnPrison_02
+Longue vie au vin pur !
+$GEN_009_OnNotGuilty_00
+Je déclare le citoyen Renard... non coupable. Libérez-le.
+$GEN_009_OnNotGuilty_01
+Hein ? Ils ont libéré le charlatan ?!
+$GEN_009_OnNotGuilty_02
+C'est injuste !
+$GEN_009_01x02_00_QTitle
+Depuis combien de temps dilues-tu de l'alcool, pratique jugée illégale ?
+$GEN_009_01x02_00_00
+Depuis combien de temps dilues-tu de l'alcool, pratique jugée illégale ?
+$GEN_009_01x02_00_01
+Ce n'est pas une pratique illégale, tout le monde rajoute un peu d'eau.
+$GEN_009_01x02_00_02
+Dans ton cas, c'était un peu de vin mélangé à de l'eau, et non l'inverse.
+$GEN_009_01x02_00_03
+Fais-tu cela depuis longtemps ?
+$GEN_009_01x02_00_04
+Depuis quelques semaines, tout au plus. Ces derniers temps, gagner sa vie n'est pas chose aisée. J'étais un aubergiste honnête, le vin pur débordait des verres dans mon établissement.
+$GEN_009_01x02_00_05
+Peux-tu fournir des preuves pour étayer ta déclaration ?
+$GEN_009_01x02_00_06
+Il a menti à ses clients, pourquoi agirait-il autrement au tribunal.
+$GEN_009_02x05_01_QTitle
+Que ressentais-tu lorsque tu dupais des citoyens exténués ?
+$GEN_009_02x05_01_00
+Que ressentais-tu lorsque tu dupais des citoyens exténués ?
+$GEN_009_02x05_01_01
+Du dégoût. Je voulais uniquement faire survivre mon commerce. La concurrence est rude. Vendre du vin pur ferait couler ma taverne.
+$GEN_009_02x05_01_02
+Tu as donc décidé de frauder pour ne pas perdre d'argent ?
+$GEN_009_02x05_01_03
+Si je perdais ma taverne, ma famille mourrait de faim.
+$GEN_009_02x05_01_04
+As-tu des enfants ?
+$GEN_009_02x05_01_05
+Oui, un fils et deux filles. Il faut que je commence à économiser pour les dots.
+$GEN_009_02x05_01_06
+Alors pourquoi tu ne les fais pas travailler, imbécile !
+$GEN_009_02x04_02_QTitle
+Faites entrer Thomas Leclair.
+$GEN_009_02x04_02_00
+Faites entrer Thomas Leclair.
+$GEN_009_02x04_02_01
+Je te prie de te présenter, citoyen.
+$GEN_009_02x04_02_02
+Thomas Leclair, client régulier de l'établissement de Jean Renard.
+$GEN_009_03x05_03_QTitle
+Tes clients boivent-ils beaucoup ?
+$GEN_009_03x05_03_00
+Tes clients boivent-ils beaucoup ?
+$GEN_009_03x05_03_01
+Les clients réguliers des tavernes ont tendance à boire beaucoup.
+$GEN_009_03x05_03_02
+Tu vends donc une quantité importante de vin.
+$GEN_009_03x05_03_03
+Plutôt, oui.
+$GEN_009_03x05_03_04
+Mais pourtant tu payes des impôts sur la quantité de vin achetée, et non sur la quantité vendue, est-ce exact ?
+$GEN_009_03x05_03_05
+Je ne comprends pas la question.
+$GEN_009_03x05_03_06
+Tu payes des impôts sur quatre barriques de vin, mais en ajoutant un quart d'eau à chacune, tu obtiens une quantité suffisante pour vendre cinq barriques.
+$GEN_009_03x05_03_07
+C'est une manière de voir les choses... j'imagine que c'est vrai... moi et les chiffres, on n'est pas très copains.
+$GEN_009_03x05_03_08
+C'est ce que tu prétends, mais comment as-tu pu te rendre compte que cette escroquerie était rentable ?
+$GEN_009_03x05_03_09
+Je ne le savais pas...
+$GEN_009_03x05_03_10
+J'en prends note.
+$GEN_009_03x05_03_11
+Le juge a exposé cette pourriture au grand jour !
+$GEN_009_WIT_00_A_QTitle
+Depuis combien de temps soupçonnes-tu la présence d'une anomalie dans l'alcool de M. Renard ?
+$GEN_009_WIT_00_A_00
+Depuis combien de temps soupçonnes-tu la présence d'une anomalie dans l'alcool de M. Renard ?
+$GEN_009_WIT_00_A_01
+Cela fait environ un mois. Tous ces pichets de vin vidés me faisaient dessaouler. Ce n'était pas l'effet escompté. Ce n'est qu'à l'aube que je me suis rendu compte que je n'avais plus un sou et que j'étais à jeun comme jamais.
+$GEN_009_WIT_00_A_02
+Comment était-ce possible ?
+$GEN_009_WIT_00_A_03
+J'ignorais alors qu'il servait aux clients une quantité normale d'alcool en premier, avant de diluer de plus en plus les verres suivants avec de l'eau. Un peu ivres, ils ne remarquaient rien.
+$GEN_009_WIT_00_A_04
+Était-ce systématique ?
+$GEN_009_WIT_00_A_05
+Oui.
+$GEN_009_WIT_00_B_QTitle
+Comment as-tu pris le citoyen Renard la main dans le sac, en train de diluer du vin avec de l'eau ?
+$GEN_009_WIT_00_B_00
+Comment as-tu pris le citoyen Renard la main dans le sac, en train de diluer du vin avec de l'eau ?
+$GEN_009_WIT_00_B_01
+Je buvais verre après verre, alors je devais... enfin tu vois, Monsieur le juge...
+$GEN_009_WIT_00_B_02
+Je vois bien.
+$GEN_009_WIT_00_B_03
+Une fois, je me suis perdu et au lieu de... enfin... je me suis retrouvé dans la cave, où j'ai vu Renard ajouter de l'eau aux barriques.
+$GEN_009_KEY_01
+L'aubergiste
+$GEN_009_KEY_02
+Dilue de l'alcool
+$GEN_009_KEY_03
+Ivresse des clients
+$GEN_009_KEY_04
+Expose l'acte de l'aubergiste au grand jour
+$GEN_009_KEY_05
+Ajout d'eau

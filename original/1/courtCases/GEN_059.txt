@@ -1,0 +1,230 @@
+$GEN_059_DOC_1_HEADER
+Compiled by: Nathan d’Essiraf
+$GEN_059_DOC_1_00
+	Anne de Korff, 67, is a <a name="1" class="hidden">widow</a> who currently owns an enormous fortune that she inherited from her late husband, Baron de Clichy. Before the Revolution, she was one of Marie Antoinette’s <a name="3" class="hidden">trusted courtiers</a>. After the events in 1789, she cut ties with the court; however, she recently became a frequent guest at <a name="4" class="hidden">the Tuileries</a>, where the Capets were being kept. She also took part in Count de Fersen’s scheme to facilitate the escape of the monarchs from the Tuileries.
+$GEN_059_DOC_1_01
+	Following de Fersen’s orders, de Korff supposedly bought <a name="6" class="hidden">a new carriage</a> in her own name. The purchase of a berline carriage for six passengers, sufficient to carry the Capets from Paris, was made at Jean Louis’s workshop. The valet of the baroness, Gilbert, testified that the carriage was delivered to the count shortly before the escape.
+$GEN_059_DOC_1_02
+	It is widely known that de Fersen himself, dressed as a coachman, drove the carriage as far as Bondy. Interestingly enough, when the monarchs were stopped in Varennes, Marie-Antoinette had <a name="7" class="hidden">a newly issued passport</a> under the name of Anne de Korff, which she was using during the trip.
+$GEN_059_DOC_1_03
+	The streets of Paris are humming with gossip. They say that Anne helped the count not because of her sympathy towards the monarchs but because of an affair they had in the past, and the elderly aristocrat’s <a name="8" class="hidden">unquenchable desire</a>.
+$GEN_059_DOC_1_04
+Evidence: <a name="9" class="hidden">A receipt</a> produced by Jean Louis.
+$GEN_059_DOC_2_TOOLTIP
+Receipt
+$GEN_059_DOC_2_00
+Dear Baroness,  
+	
+The custom berline carriage you ordered is ready. Your instructions have been attentively followed to the letter. Please pay the outstanding 70,000 francs through Durand.  
+	
+In faith, J. L.
+$GEN_059_OnStart_00
+Supporter of tyranny!
+$GEN_059_OnStart_01
+Please introduce yourself.
+$GEN_059_OnStart_02
+Baroness Anne de Korff.
+$GEN_059_OnStart_03
+Anne de Korff, you have been accused of conspiring to facilitate the escape of the Capets from France. Do you plead guilty?
+$GEN_059_OnStart_04
+Monsieur le juge, there has been a misunderstanding! I had nothing to do with that!
+$GEN_059_OnStart_05
+The evidence speaks against the accused.
+$GEN_059_OnStart_06
+That is impossible!
+$GEN_059_OnGuilty_00
+I sentence Citizen Anne de Korff to be guillotined! Lead the condemned out.
+$GEN_059_OnGuilty_01
+That’s how all of Capet’s followers will end up!
+$GEN_059_OnGuilty_02
+Bravo!
+$GEN_059_OnPrison_00
+I sentence Citizen Anne de Korff to prison! Lead the condemned out.
+$GEN_059_OnPrison_01
+What?!
+$GEN_059_OnPrison_02
+Is there no justice?!
+$GEN_059_OnNotGuilty_00
+The verdict in the case of Anne de Korff is… not guilty! Lead the defendant out.
+$GEN_059_OnNotGuilty_01
+Scandal! Treason!
+$GEN_059_OnNotGuilty_02
+Maybe you’re also scheming with de Fersen?
+$GEN_059_02x06_00_QTitle
+How many carriages are in the defendant’s coach house?
+$GEN_059_02x06_00_00
+How many carriages are in the defendant’s coach house?
+$GEN_059_02x06_00_01
+If I remember correctly, three.
+$GEN_059_02x06_00_02
+We can’t remember the last time we ate meat, and she - how many carriages she owns!
+$GEN_059_02x06_00_03
+Then why would you order another carriage in Jean Louis’s workshop? Does a lonely widow really need a fourth carriage?
+$GEN_059_02x06_00_04
+Because my wealth allowed it, monsieur le juge. Since when is spending money on feminine caprices a crime?
+$GEN_059_02x06_00_05
+It is when those caprices serve Count de Fersen’s conspiracy. We know that he instructed you to buy it.
+$GEN_059_02x06_00_06
+Nonsense! I ordered it for my own trip to Montmédy!
+$GEN_059_06x09_01_QTitle
+Could you describe the carriage you ordered from Jean Louis?
+$GEN_059_06x09_01_00
+Could you describe the carriage you ordered from Jean Louis?
+$GEN_059_06x09_01_01
+It was a luxurious berline, painted green and yellow.
+$GEN_059_06x09_01_02
+The Capets attempted to escape in a carriage that exactly matches this description. Where is the carriage now?
+$GEN_059_06x09_01_03
+I swear that I had nothing to do with the escape of Louis and his wife from the Tuileries!
+$GEN_059_06x09_01_04
+Answer the question!
+$GEN_059_06x09_01_05
+I… Well… I lent it to Count de Fersen… But I swear on all that is sacred I did not know the scoundrel’s true intention!
+$GEN_059_06x09_01_06
+You think anyone will believe that?!
+$GEN_059_06x09_01_07
+What did the accused think he was going to use it for?
+$GEN_059_06x09_01_08
+He said that it would be used by the Swedish ambassador. Why should I have disbelieved the count?
+$GEN_059_05x07_02_QTitle
+How is it possible that the defendant’s passport was being held by Marie-Antoinette?
+$GEN_059_05x07_02_00
+How is it possible that the defendant’s passport was being held by Marie-Antoinette?
+$GEN_059_05x07_02_01
+It was stolen from my apartment… It must have been Count de Fersen!
+$GEN_059_05x07_02_02
+And, of course, you immediately reported the theft?
+$GEN_059_05x07_02_03
+I ordered my valet Gilbert to do that.
+$GEN_059_05x07_02_04
+How interesting that the Parisian police received no such claim.
+$GEN_059_05x07_02_05
+I do not know what to say… I have no idea why Gilbert did not follow my order…
+$GEN_059_05x07_02_06
+And the Citizen did not see that it was done?
+$GEN_059_05x07_02_07
+I am a rather busy person, it must have slipped my mind.
+$GEN_059_05x07_02_08
+Those filthy aristocrats are really hard-working, aren’t they?
+$GEN_059_04x07_03_QTitle
+Why would the accused visit the Capets in the Tuileries?
+$GEN_059_04x07_03_00
+Why would the accused visit the Capets in the Tuileries?
+$GEN_059_04x07_03_01
+The visit was purely social. As an elderly person, I struggle with loneliness in Paris.
+$GEN_059_04x07_03_02
+That is most strange considering that the accused severed relations with the royal court when the Revolution began.
+$GEN_059_04x07_03_03
+I wish to see all the people I met in Versailles before I die. Is that so wrong?
+$GEN_059_04x07_03_04
+Was it during the visit that you handed Marie-Antoinette your passport?
+$GEN_059_04x07_03_05
+Absolutely not! There was a guard who would not look away even for a second! Those terrible people never leave her side, the poor, anguished woman.
+$GEN_059_04x07_03_06
+And yet, by some miracle, your passport still found its way to her.
+$GEN_059_04x07_03_07
+I had nothing to do with it!
+$GEN_059_03x05_04_QTitle
+The accused quite hurriedly ordered a new carriage and passport. Why?
+$GEN_059_03x05_04_00
+The accused quite hurriedly ordered a new carriage and passport. Why?
+$GEN_059_03x05_04_01
+Madame de Gasperi invited me to Montmédy.
+$GEN_059_03x05_04_02
+What a strange coincidence! That is exactly where the Capets were supposed to be taken!
+$GEN_059_03x05_04_03
+Indeed, but it was still only a coincidence. They tend to be peculiar and unusual.
+$GEN_059_03x05_04_04
+She’s mocking us!
+$GEN_059_05x08_05_QTitle
+What is your relationship with Count de Fersen?
+$GEN_059_05x08_05_00
+What is your relationship with Count de Fersen?
+$GEN_059_05x08_05_01
+Only friendship, monsieur le juge. At my age, I cannot expect anything more… unfortunately.
+$GEN_059_05x08_05_02
+Was there something more in the past?
+$GEN_059_05x08_05_03
+Not as much as the people at court like to suppose.
+$GEN_059_05x08_05_04
+But you knew each other well.
+$GEN_059_05x08_05_05
+You could say that, yes, I trusted him then. But now, because of him, I’m an elderly woman stuck in a prison cell.
+$GEN_059_03x04_06_QTitle
+What does the accused think about the monarchy?
+$GEN_059_03x04_06_00
+What does the accused think about the monarchy?
+$GEN_059_03x04_06_01
+I do not know much about politics, but I support the Revolution, if that is what you are asking, monsieur le juge.
+$GEN_059_03x04_06_02
+Is that why you left court?
+$GEN_059_03x04_06_03
+That is a completely different story and not related to politics at all.
+$GEN_059_03x04_06_04
+What was it related to?
+$GEN_059_03x04_06_05
+I faced some baseless accusations of a small scandal involving me and a married general.
+$GEN_059_03x04_06_06
+Did the defendant, despite those circumstances, maintain good relations with Citizen Capet’s wife? Good enough to help her?
+$GEN_059_03x04_06_07
+I could only pray for her. At my age one does not have enough strength for conspiracies.
+$GEN_059_01x06_07_QTitle
+Why would a lonely woman need a carriage for as many as six passengers?
+$GEN_059_01x06_07_00
+Why would a lonely woman need a carriage for as many as six passengers?
+$GEN_059_01x06_07_01
+Because a lonely woman wants to travel with company. There are still some people I can invite.
+$GEN_059_01x06_07_02
+Or you could plan to help the Royal Family, of exactly six people, in their escape.
+$GEN_059_01x06_07_03
+I am not the only person in this city who owns a berline carriage for six people, monsieur le juge.
+$GEN_059_01x06_07_04
+But the other owners are not plotting against the state…
+$GEN_059_01x06_07_05
+Perhaps not with the use of carriages.
+$GEN_059_01x06_07_06
+True, we’re surrounded by serpents!
+$GEN_059_KEY_01
+67-year-old widow
+$GEN_059_KEY_02
+Enormous fortune
+$GEN_059_KEY_03
+Trusted courtier
+$GEN_059_KEY_04
+Frequent guest in the Tuileries
+$GEN_059_KEY_05
+The arrangement of the escape
+$GEN_059_KEY_06
+New carriage
+$GEN_059_KEY_07
+New passport for the Queen
+$GEN_059_KEY_08
+The defendant’s needs and urges
+$GEN_059_KEY_09
+A receipt for the construction of a carriage
+$GEN_059_LastDialog_00
+Why do you want to kill me? You do not have any evidence!
+$GEN_059_UNIQUE_QUESTION_00
+Why did the defendant need a passport and carriage?
+$GEN_059_UNIQUE_ANSWER_CORRECT_00_00
+She wanted to travel to Montmédy.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_00_00
+She wanted to visit her family in Rouen.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_00_01
+She was going to buy a house in Marseille.
+$GEN_059_UNIQUE_QUESTION_01
+According to the testimony, who was using the widow’s vehicle?
+$GEN_059_UNIQUE_ANSWER_CORRECT_01_00
+The Swedish ambassador.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Her brother.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_01_01
+General Aldric.
+$GEN_059_UNIQUE_QUESTION_02
+Where did the investigators find Anne de Korff’s passport?
+$GEN_059_UNIQUE_ANSWER_CORRECT_02_00
+With Marie Antoinette.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_02_00
+With Count de Fersen.
+$GEN_059_UNIQUE_ANSWER_NOT_CORRECT_02_01
+With one of the Queen’s servants.

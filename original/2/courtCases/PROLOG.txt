@@ -1,0 +1,98 @@
+$PROLOG_PRE_01_MT
+La prochaine fois, rappelle-moi que je voulais arrêter de boire ce tord-boyaux. Et rappelle-le-moi AVANT que je le boive. Nous faisons honte à Thémis, hé hé…
+$PROLOG_PRE_02_WF
+Cela devait arriver…
+$PROLOG_PRE_03_ES
+Je te l'avais dit…
+$PROLOG_PRE_04_YS
+Papa, tu avais dit qu'on irait… Tu avais promis…
+$PROLOG_PRE_05_MT
+Papa a beaucoup de… travail.
+$PROLOG_PRE_06_ES
+Beaucoup de verres de vin.
+$PROLOG_PRE_07_WF
+Tu m'avais promis que… Oh et puis… j'en ai assez de te demander.
+$PROLOG_PRE_08_YS
+Maman est en colère parce que…
+$PROLOG_PRE_09_ES
+Tais-toi.
+$PROLOG_PRE_10_WF
+Aujourd'hui, ton fils préféré voulait prouver qu'il avait plus d'honneur que son père, c'est pourquoi il a déclenché une bagarre. Pour l'amour de Dieu, un garçon de cinq ans !
+$PROLOG_PRE_11_WF
+Nos voisins voulaient que tu leur expliques ce qu'il s'est passé, mais… et bien, tu étais occupé à lutter pour la justice. Dans une taverne. Sois maudit, sale ivrogne…
+$PROLOG_PRE_12_ES
+Maman…
+$PROLOG_DOC_01_HEADER
+Lettre d'Aurélie Dupond
+$PROLOG_CASE_DOC_HEADER
+À l'attention du juge Alexis Fidèle,
+
+$PROLOG_CASE_DOC_MAIN
+À l'attention du juge Alexis Fidèle,
+ 
+	nous n'aurions pas imaginé ce genre de comportement de la part de ton fils, mais apparemment nous aurions dû. D'innocents <a name="1" class="hidden">jeux</a> se sont transformés en <a name="2" class="hidden">attaque brutale</a> envers nos enfants.
+	
+	Le plus jeune, <a name="3" class="hidden">Antoine</a>, a perdu une <a name="4" class="hidden">dent de devant</a>. Nous espérons que tu puniras ton fils en conséquence ! Si la situation venait à se reproduire, nous réagirions avec fermeté. Je suis sûre que nous saurons nous charger d'un ivrogne et d'un joueur, même si c'est un juge… Nous ne laisserons pas nos enfants être blessés ! 
+Aurélie Dupond
+$PROLOG_KEYWORD_01
+Jeu d'enfant
+$PROLOG_KEYWORD_02
+Bagarre d'enfants
+$PROLOG_KEYWORD_03
+Antoine blessé
+$PROLOG_KEYWORD_04
+Dent cassée
+$PROLOG_KEYWORD_05
+Possibilité de recommencer
+$PROLOG_01_D1_01_JD
+Comment votre jeu a-t-il dégénéré en bagarre ?
+$PROLOG_01_D1_02_YS
+Nos voisins, Antoine et Jean… Ils disaient des méchancetés sur toi. On jouait aux gardes, et ils m'ont demandé de faire semblant d'être un ivrogne qu'ils auraient… tu sais…
+$PROLOG_01_D1_03_JD
+Tu t'es battu contre eux deux en même temps ?
+$PROLOG_01_D1_04_YS
+J'étais obligé.
+$PROLOG_02_D1_01_JD
+Que disaient-ils exactement ?
+$PROLOG_02_D1_02_ES
+Tu es trop saoûl pour deviner ?
+$PROLOG_02_D1_03_JD
+Ce n'est pas à toi que j'ai posé la question.
+$PROLOG_02_D1_04_YS
+Ils criaient que tu es… eh bien… je leur ai dit que ce n'était pas vrai, et ils ont commencé à m'insulter. Ils m'ont traité de « fils d'ivrogne ».
+$PROLOG_03_D1_01_JD
+Qui a porté le premier coup ?
+$PROLOG_03_D1_02_ES
+Je peux te dire qui a porté le dernier…
+$PROLOG_03_D1_03_YS
+Euh… Je crois que c'est… moi. J'ai donné un coup de pied à celui qui était à ma gauche, et puis j'ai voulu attaquer celui à ma droite, mais…
+$PROLOG_03_D1_04_ES
+Ce sont eux qui ont mis fin à la bagarre.
+$PROLOG_03_D1_05_YS
+Ils m'ont fait tomber au sol et m'ont rendu la monnaie de ma pièce.
+$PROLOG_04_D1_01_JD
+As-tu vraiment cassé la dent d'Antoine ?
+$PROLOG_04_D1_02_ES
+Frédéric n'est qu'un enfant.
+$PROLOG_04_D1_03_YS
+Je ne sais pas… Je ne crois pas.
+$PROLOG_04_D1_04_JD
+Est-ce que tu l'as frappé au visage ?
+$PROLOG_04_D1_05_YS
+Je crois que je lui ai donné un coup de pied, mais pas si fort que ça…
+$PROLOG_CASE_ON_GUILTY
+Je suis désolé, mais tu ne peux pas provoquer des bagarres, quelles qu'en soient les raisons.
+$PROLOG_CASE_ON_NOTGUILTY
+Tu as bien fait. Un homme doit défendre l'honneur de sa famille, quoi qu'il arrive.
+$PROLOG_POST_01_WF
+Ces enfants sont si jeunes, et pourtant ils savent déjà la vérité : leur père est un ivrogne menteur et parieur. Tu étais l’idole de Bernard, mais ça lui a passé. C'est au tour de Frédéric d'apprendre la vérité.
+$PROLOG_POST_02_WF
+Et toi, Raymond ? Tu es supposé être le mentor de mon époux… Est-ce vraiment ce que tu souhaites lui enseigner ? Comment reproduire tes erreurs et perdre sa famille ?
+$PROLOG_POST_03_MT
+Je ne savais pas que Mathilde avait tant de caractère.
+$PROLOG_POST_04_JD
+Moi non plus…
+$PROLOG_POST_05_WF
+Nous t'attendrons dehors, comme d'habitude.
+$PROLOG_GUILTY
+Coupable

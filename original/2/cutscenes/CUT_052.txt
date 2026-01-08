@@ -1,0 +1,32 @@
+$CUT_052_ROBESPIERRE_001
+Bonjour, citoyens.
+$CUT_052_ROBESPIERRE_002
+Tu n'es pas en avance. La nuit a été longue ?
+$CUT_052_MENTOR_003
+Citoyen Robespierre, que nous vaut...
+$CUT_052_ROBESPIERRE_004
+La Vendée. Une rébellion y a éclaté.
+$CUT_052_JUDGE_005
+Comment ?! À qui la doit-on ?
+$CUT_052_ROBESPIERRE_006
+Ah le peuple… si prompt à trahir. Ils pestent contre la terreur, contre la Révolution.
+$CUT_052_ROBESPIERRE_007
+Mais je sais que ce sont des espions, payés par nos voisins, qui ne voient guère la Révolution d'un bon œil !
+$CUT_052_ROBESPIERRE_008
+Certains disent vouloir du pain. D'autres veulent que le clergé continue à les opprimer.
+$CUT_052_MENTOR_009
+Et il y a ceux qui crient « Au diable la terreur de Robespierre »…
+$CUT_052_ROBESPIERRE_010
+Tu prends trop de libertés, citoyen. Assez de verdicts cléments, assez d'indulgence !
+$CUT_052_ROBESPIERRE_011
+Je m'occuperai de la Vendée en personne. Mais pour cela, j'ai besoin que la situation à Paris...
+$CUT_052_ROBESPIERRE_012
+J'ai besoin que tu te débarrasses des indésirables, ceux qui sapent la Révolution.
+$CUT_052_ROBESPIERRE_013
+La peur les aidera à retrouver la raison, à croire en son message.
+$CUT_052_ROBESPIERRE_014
+Tu dois rétablir la paix dans la capitale. Quoi qu'il en coûte.
+$CUT_052_JUDGE_015
+Qu'en est-il de l'égalité devant la loi ? De la justice ?
+$CUT_052_ROBESPIERRE_016
+La Terreur n'est autre chose que la justice prompte.

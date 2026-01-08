@@ -1,0 +1,54 @@
+$DISC_INTR_001_B02_001_JUDGE
+Geldiğiniz için teşekkür ederim, Yurttaş Côté.
+$DISC_INTR_001_B02_002_COTEY
+Kralların hayatını avucunda tutan birine nasıl hayır diyebilirdim ki? Sanırım buluşmamız Bakan Roland’la ilgili, değil mi?
+$DISC_INTR_001_B02_003_JUDGE
+Kesinlikle. Demir dolapla ilgili olayı konuşmak istiyorum.
+$DISC_INTR_001_B02_004_COTEY
+Gerçekten de oldukça çirkin bir durum. Bakan bu yüzden başını kaybedebilir, üstelik şimdilik her şey sadece dedikodudan ibaret...
+$DISC_INTR_001_B02_005_JUDGE
+Evet, ama ya dedikodular birden gerçeğe dönüşürse…?
+$DISC_INTR_001_B02_006_COTEY
+O zaman işler kesinlikle çirkinleşirdi.
+$DISC_INTR_001_B02_007_JUDGE_AGGR
+Roland’ın başını istiyorum. O bir bela! Politikacıları rüşvetle satın alarak tüm Fransa’ya zarar verdi! Onu demir sandığı açarken gören tanığın kimliğini açıklamasına ihtiyacımız var. Sana ihtiyacımız var, Yurttaş!
+$DISC_INTR_001_B02_008_JUDGE_MANI
+Roland’ın başını istiyorum. Zaten günleri sayılı, öyleyse Parislilerin ve tüm Fransa’nın acısını hafifletmek için onun düşüşünü hızlandıralım.
+$DISC_INTR_001_B02_009_JUDGE_JOKE
+Roland’ın başı için tepsi hazır. Onunla harika bir yemek pişirecek şef olabilirim, ama lezzetini tamamlayacak bir yardımcıya ihtiyacım var.
+$DISC_INTR_001_B02_010_JUDGE_HUMI
+Sen ve ben, Fransa’nın hizmetkârlarıyız. Roland’ın düşmesini sağlamak bizim sorumluluğumuz, bu yüzden gerçeği ortaya çıkarmalıyız. İdeallerimizi savunmaya yemin etmedik mi?
+$DISC_INTR_001_B02_011_COTEY_SATI
+Roland, sanki ölmek istiyormuş gibi davranıyor.
+$DISC_INTR_001_B02_012_COTEY_INTR
+Bu ilginç bir bakış açısı. Sizi dikkatle dinliyorum.
+$DISC_INTR_001_B02_013_COTEY_DOUB
+Roland’ın kusurları var, ama bunlar ihanetimi haklı çıkarmaya yeter mi? Çünkü benden istediğiniz tam olarak bu.
+$DISC_INTR_001_B02_014_JUDGE_AGGR
+Eğer Fransa’nın refahı sizin için yeterli değilse, şunu da söyleyeyim Yurttaş: Bana yardım ederseniz, hayatta kalma şansınız artar. Sonuçta, sizi Roland’ın suçlarına ortak olmakla suçlayabilirler.
+$DISC_INTR_001_B02_015_JUDGE_MANI
+İşler sarpa sardığında Bakan Roland sizi kurtaramaz. Ama ben kurtarabilirim. Mesela, suç ortaklığı suçlamalarından.
+$DISC_INTR_001_B02_016_JUDGE_JOKE
+Gerçek bakanın kim olduğunu söylemek zor – Yurttaş Roland mı, yoksa eşi Madame Roland mı? Ama suç ortaklığıyla ilgili ithamları duyduğunuzda bunun bir önemi kalmayacak.
+$DISC_INTR_001_B02_017_JUDGE_HUMI
+Eğer tanık olarak öne çıkmayı kabul ederseniz, Fransa'ya büyük bir iyilik yapmış olacaksınız ve Fransa bunu asla unutmaz. Ben de asla unutmam.
+$DISC_INTR_001_B02_018_JUDGE_AGGR
+Bakan Roland’ın günleri sayılı. O olayların bir tanığına ihtiyacımız var ve sen, Yurttaş, onun suçlarını ortaya çıkaracaksın. Aksi takdirde onunla birlikte senin de başın kesilir!
+$DISC_INTR_001_B02_019_JUDGE_MANI
+Dostlarımın yanında durun ve emin olun ki, bunu yapmanın getirileri, reddetmeniz halinde karşılaşacağınız tatsız sonuçlardan – mesela giyotinle idam edilmekten – çok daha ağır basacaktır.
+$DISC_INTR_001_B02_020_JUDGE_JOKE
+Roland celladın eline düşmeyi hak etti. Şehrimizdeki soytarı sayısını sınırlamamız gerek. Siz bir soytarı değilsiniz, değil mi?
+$DISC_INTR_001_B02_021_JUDGE_HUMI
+Sizin akıl sahibi bir insan olduğunuzu düşünüyorum, Yurttaş Côté. Akıl size, Roland’ın hatalarının bedelini ödemek istemediğinizi söylüyor. Ben de sizi bu hataların bedelini ödemeye zorlamak istemem.
+$DISC_INTR_001_B02_022_COTEY_SATI
+Bana sorarsanız, Bakan Roland’ın yanında durmak ölümle eşdeğer. Kararlı olduğunuzu görüyorum, bu yüzden kabul ediyorum. Tanığınızı buldunuz.
+$DISC_INTR_001_B02_023_COTEY_INTR
+Size yardım edeceğim ve ona karşı tanıklık edeceğim. Bakalım bu nereye varacak, ama umarım söz verdiğiniz gibi başım yerinde kalır.
+$DISC_INTR_001_B02_024_COTEY_DOUB
+Söylemeliyim ki, sözleriniz pek ikna edici değil. Yardım edeceğim, ama artık planlarınız hakkında daha fazla şey bildiğimi unutmayın.
+$DISC_INTR_001_B02_COTEY_TOPIC_01
+Roland’ı istiyorum.
+$DISC_INTR_001_B02_COTEY_TOPIC_02
+Bundan ne çıkarı olacak?
+$DISC_INTR_001_B02_COTEY_TOPIC_03
+Havuç ve sopa.

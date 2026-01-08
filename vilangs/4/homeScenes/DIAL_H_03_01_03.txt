@@ -1,0 +1,18 @@
+$DIAL_H_03_02_03_001_JUDGE
+Wo sind sie? Wo ist mein Sohn?!
+$DIAL_H_03_02_03_002_GRANDFATHER
+Ich weiß es nicht, Mathilde hat nichts gesagt. Es gab ein paar Tränen, aber vor allem herrschte Stille. Ich sah keinen Grund, nach Einzelheiten zu fragen, da ich wusste, dass sie mir ohnehin nichts erzählen würde.
+$DIAL_H_03_02_03_003_JUDGE
+Du hast sie das Haus verlassen lassen?
+$DIAL_H_03_02_03_004_GRANDFATHER
+Warum sollte ich versuchen, sie aufzuhalten? Sind sie meinetwegen gegangen?
+$DIAL_H_03_02_03_005_JUDGE
+Alle haben mich verlassen …
+$DIAL_H_03_02_03_006_GRANDFATHER
+Ich bin immer noch hier. Du bist immer noch mein Sohn.
+$DIAL_H_03_02_03_007_JUDGE
+Ich bin nicht der, den du aus mir machen wolltest.
+$DIAL_H_03_02_03_008_GRANDFATHER
+Nein, aber ich glaube an dich. Und ich werde bis zum Ende an dich glauben.
+$DIAL_H_03_02_03_010_JUDGE
+Das ist das Ende. Zumindest für mich.

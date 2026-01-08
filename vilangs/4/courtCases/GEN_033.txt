@@ -1,0 +1,176 @@
+$GEN_033_DOC_01_HEADER
+Zusammengestellt von: Nathan d'Essiraf
+$GEN_033_DOC_01_00
+Marcel Bloch, ein 26-jähriger Gerichtsdiener aus dem Norden Frankreichs. Unmittelbar vor Beginn der Revolution diente er als Artillerist in der 2. Sektion der 2. Kompanie des 2. Bataillons des Regiments des Oberst-Generals. Nach 1789 zog er nach Paris und <a name="2" class="hidden">trat der Gerichtswache bei</a>, wo er bis heute tätig ist. Vorgesetzte und Kollegen beschreiben ihn als vorbildlichen und engagierten Mitarbeiter.
+$GEN_033_DOC_01_01
+Bei ein paar Gläsern in einem Gasthaus gestand Marcel, dass er all die Jahre <a name="3" class="hidden">gelogen</a> hatte, was seinen Militärdienst anging. Der Militärdienst war Voraussetzung für den Eintritt in die Gerichtswache. Eine gründliche Untersuchung führte zu dem Verdacht, dass Bloch <a name="4" class="hidden">die Unterlagen gefälscht</a> hatte, die seinen Armeedienst belegen sollten.
+$GEN_033_DOC_01_02
+Die Ermittler fanden zwei <a name="5" class="hidden">Artilleristen aus der Einheit</a>, in der Marcel Bloch angeblich diente: Pierre Richard und Michel Montand. Beide bestritten, sich an Bloch zu erinnern, und es wurde ein Schreiben seines ehemaligen Kommandanten eingeholt.
+$GEN_033_DOC_02_00
+Aussage von Oberst Chabert:
+$GEN_033_DOC_02_01
+Hiermit bestätige ich, dass der Name Marcel Bloch weder in den Unterlagen der 2. Halbbrigade noch in den Registern des vorrevolutionären Regiments des Generalobersten zu finden ist. Ich bitte zu berücksichtigen, dass die genannten Aufzeichnungen unvollständig sind – ein Teil der Dokumente wurde zu Beginn der Revolution von Soldaten vernichtet, da das Infanteriekorps die Revolution unterstützte. Oberst J. C. Chabert; Kommandant der 2. Halbbrigade
+$GEN_033_OnStart_00
+Bitte vermerken Sie im Protokoll, dass das Gericht die Identität des Angeklagten, Marcel Bloch, Gerichtsdiener an diesem Gerichtsgebäude, bereits anerkennt. Bürger, verstehen Sie die gegen Sie erhobenen Anklagen?
+$GEN_033_OnStart_01
+Nein, Monsieur Richter…
+$GEN_033_OnStart_02
+Ihnen wird vorgeworfen, ein Dokument gefälscht zu haben, das Ihre militärische Erfahrung belegen sollte. Sie behaupteten, im 2. Bataillon des vorrevolutionären Regiments des Generalobersten gedient zu haben, das heute als 2. Halbbrigade bekannt ist. Laut Anklageschrift haben Sie gelogen, um am Gericht angestellt zu werden.
+$GEN_033_OnStart_03
+Bloch hätte aus seinem Verbrechen weit größeren Nutzen ziehen können.
+$GEN_033_OnStart_04
+Ich werde das berücksichtigen. Wie plädieren Sie?
+$GEN_033_OnStart_05
+Monsieur le Richter, ich schwöre, ich habe niemanden getäuscht!
+$GEN_033_OnStart_06
+Ich fürchte, Beweise und Umstände sprechen dagegen.
+$GEN_033_OnStart_07
+Zu feige für den Krieg, aber nach Orden gierig.
+$GEN_033_OnGuilty_00
+Ich verurteile Marcel Bloch zur Guillotine! Führt den Verurteilten ab.
+$GEN_033_OnGuilty_01
+Armer Kerl.
+$GEN_033_OnGuilty_02
+Machen Sie ihn zum abschreckenden Beispiel für alle, die Ähnliches wagen könnten.
+$GEN_033_OnNotGuilty_00
+Das Urteil im Fall Marcel Bloch lautet… nicht schuldig! Führt den Angeklagten ab.
+$GEN_033_OnNotGuilty_01
+Ich hoffe, sie entlassen ihn wenigstens aus dem Gericht. Andernfalls wird er dir ins Gesicht lachen.
+$GEN_033_OnNotGuilty_02
+Er hatte Glück.
+$GEN_033_04x06_00_QTitle
+Wie haben Sie Ihr Dienstzeugnis im Regiment erhalten?
+$GEN_033_04x06_00_00
+Wie haben Sie Ihr Dienstzeugnis im Regiment erhalten?
+$GEN_033_04x06_00_01
+Es wurde von meinem Kommandanten, Oberst Chabert, ausgestellt.
+$GEN_033_04x06_00_02
+Wir haben Oberst Chabert um eine Stellungnahme gebeten. Er behauptet, Ihr Name tauche in den Unterlagen der Einheit nicht auf. Sollen wir wirklich glauben, dass dieselbe Person Ihnen ein Dokument ausgestellt hat, das das Gegenteil besagt?
+$GEN_033_04x06_00_03
+Es liegen auch die Aussagen gewöhnlicher Soldaten vor.
+$GEN_033_04x06_00_04
+Ich verstehe das alles nicht. Ich habe über ein Jahr in dieser Einheit gedient. Der Colonel hat meine Papiere persönlich unterschrieben!
+$GEN_033_04x06_00_05
+Was verstehen Sie nicht? Sie haben seine Unterschrift gefälscht, das ist alles.
+$GEN_033_04x06_00_06
+Werft diesen Schurken zu den Soldaten. Sollen sie über ihn richten!
+$GEN_033_01x03_01_QTitle
+Haben Sie in der Artillerie gedient?
+$GEN_033_01x03_01_00
+Haben Sie in der Artillerie gedient?
+$GEN_033_01x03_01_01
+Ja, in der berühmten „Doppel-Zwei“ – der 2. Sektion der 2. Kompanie.
+$GEN_033_01x03_01_02
+Welche Kanonen bediente Ihre Abteilung?
+$GEN_033_01x03_01_03
+Nun ja… zwei Achtpfünder.
+$GEN_033_01x03_01_04
+Interessant. Diese Abteilungen setzten, und setzen noch immer, Sechspfünder ein.
+$GEN_033_01x03_01_05
+Sind Sie sicher? Ich muss es wohl vergessen haben, es ist schon so lange her. Der Dienst als Wächter bedeutet mir wirklich viel–
+$GEN_033_01x03_01_06
+Sie sind so stolz auf Ihre Zeit bei der Artillerie, aber wissen nicht einmal mehr, an welcher Kanone Sie standen?
+$GEN_033_01x03_01_07
+Ich erinnere mich genau. Ich hätte sie mit geschlossenen Augen laden können! Es war nur ein Fehler.
+$GEN_033_01x03_01_08
+Er wüsste nicht einmal, wo die Kugel reingehört.
+$GEN_033_03x05_02_QTitle
+Nennen Sie uns die Namen einiger Ihrer damaligen Kameraden.
+$GEN_033_03x05_02_00
+Nennen Sie uns die Namen einiger Ihrer Kameraden aus jener Zeit.
+$GEN_033_03x05_02_01
+Charles Clary und Jean Gayet, meine engsten Freunde aus dem Bezirk.
+$GEN_033_03x05_02_02
+Könnten sie die Echtheit Ihrer Papiere bestätigen?
+$GEN_033_03x05_02_03
+Natürlich könnten sie das, aber ich weiß nicht, wo ich sie jetzt finden soll. Sie kamen alle aus Nordfrankreich, so wie ich.
+$GEN_033_03x05_02_04
+Ihr habt keinen Kontakt mehr? Aber ihr habt sie doch gerade noch eure engsten Freunde genannt.
+$GEN_033_03x05_02_05
+Jeder ging seinen eigenen Weg. So ist es in der Armee meist.
+$GEN_033_03x05_02_06
+Wir konnten Ihre anderen Landsleute, Pierre Richard und Michel Montand, erreichen. Sagen Ihnen diese Namen etwas?
+$GEN_033_03x05_02_07
+Nein, ich erinnere mich nicht an sie.
+$GEN_033_03x05_02_08
+Wirklich? Sie dienten im selben 2. Bataillon wie Sie. Und, welch Überraschung, auch sie können sich nicht an Sie erinnern. Sie sind hier, in Paris.
+$GEN_033_03x05_02_09
+Das beweist gar nichts, durch das Regiment gehen Tausende von Menschen. Ich war nicht mit allen Kameraden befreundet. Mit manchen habe ich nie ein Wort gewechselt. Sie müssen mir glauben…
+$GEN_033_01x02_03_QTitle
+Warum sind Sie der Gerichtswache beigetreten?
+$GEN_033_01x02_03_00
+Warum sind Sie der Gerichtswache beigetreten?
+$GEN_033_01x02_03_01
+Ich kam nach Paris, in der Hoffnung, nach Beginn der Revolution ein besseres Leben zu finden. Der Posten als Gerichtswache war gut bezahlt und… die Leute respektieren die Uniform, Monsieur le Juge.
+$GEN_033_01x02_03_02
+War es Ihnen so wichtig, eine Uniform zu tragen?
+$GEN_033_01x02_03_03
+Mein Vater hat im Krieg gekämpft. Er pflegte zu sagen, dass die Uniform weit mehr ist als nur Kleidung.
+$GEN_033_01x02_03_04
+Er wollte, dass Sie zur Armee gehen?
+$GEN_033_01x02_03_05
+Das hat er nie gesagt, aber er war ohnehin kein Mann vieler Worte. Die Knöpfe von seiner Uniform, weißt du, die glänzenden goldenen, hat er in seiner Schublade aufbewahrt.
+$GEN_033_01x02_03_06
+Haben Sie das Pariser Gericht getäuscht, nur um sich einen Kindheitstraum zu erfüllen?
+$GEN_033_01x02_03_07
+Ich bin einfach zur Armee gegangen und habe mein Leben riskiert. Vater hatte recht – in Uniform fühlt man sich anders, ehrenvoller.
+$GEN_033_01x02_03_08
+Wahrscheinlich wollten sie ihn nicht zur Armee nehmen, also fing er an zu lügen.
+$GEN_033_03x04_04_QTitle
+Haben Sie ein Militärdienstzeugnis gefälscht?
+$GEN_033_03x04_04_00
+Haben Sie ein Militärdienstzeugnis gefälscht?
+$GEN_033_03x04_04_01
+Nein, habe ich nicht, und ich wüsste nicht einmal, wie das geht. Ich habe keine Ahnung von Fälschungen.
+$GEN_033_03x04_04_02
+In der Schenke haben Sie etwas ganz anderes gesagt.
+$GEN_033_03x04_04_03
+Ich war betrunken und dumm. Ich habe nur herumgealbert, um die Leute zu beeindrucken. An die möglichen Folgen habe ich überhaupt nicht gedacht…
+$GEN_033_03x04_04_04
+Einem stolzen Artilleristen wie Ihnen sollten solche Scherze nicht gefallen.
+$GEN_033_03x04_04_05
+Manchmal rede ich, ohne nachzudenken, wenn ich zu viel getrunken habe – und damals hatte ich wirklich viel getrunken.
+$GEN_033_03x04_04_06
+Ich nehme an, Sie haben damals wirklich nicht nachgedacht, immerhin haben Sie das jemandem erzählt, der am Gericht arbeitet.
+$GEN_033_03x04_04_07
+Monsieur le juge, ich bitte vielmals um Entschuldigung, aber muss man Menschen wirklich für das wirre Zeug bestrafen, das sie nach ein paar Gläsern Hochprozentigem von sich geben?
+$GEN_033_03x04_04_08
+Sein Gewissen hat ihn wohl geplagt, und schließlich hat er alles ausgeplaudert.
+$GEN_033_KEY_01
+Artilleriedienst
+$GEN_033_KEY_02
+Dienst bei der Gerichtswache
+$GEN_033_KEY_03
+Lügen
+$GEN_033_KEY_04
+Gefälschte Dokumente
+$GEN_033_KEY_05
+Kameraden
+$GEN_033_KEY_06
+Aussage des Obersts
+$GEN_033_LastDialog_00
+Ich war ein treuer Diener der Revolution. Ich habe für Gerechtigkeit gekämpft. Warum stoßt ihr mich nun ab?
+$GEN_033_UNIQUE_QUESTION_00
+Welche Kanonen bediente die Einheit des Angeklagten?
+$GEN_033_UNIQUE_ANSWER_CORRECT_00_00
+Sechspfünder.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Achtpfünder.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Zehnpfünder.
+$GEN_033_UNIQUE_QUESTION_01
+Warum ist der Angeklagte der Armee beigetreten?
+$GEN_033_UNIQUE_ANSWER_CORRECT_01_00
+Er wollte eine Uniform tragen.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Er wollte sein Dorf verlassen, um dem Hunger zu entkommen.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Er wollte seine Angebetete beeindrucken.
+$GEN_033_UNIQUE_QUESTION_02
+Wem gestand Bloch seine fehlende militärische Erfahrung?
+$GEN_033_UNIQUE_ANSWER_CORRECT_02_00
+Ein Kollege.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Einer Prostituierten.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Einem Fremden.

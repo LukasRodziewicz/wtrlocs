@@ -1,0 +1,286 @@
+$FAB_015_DOC_01_HEADER
+Compilado por: Charles Etienne
+$FAB_015_DOC_01_00
+Antes da Revolução, Claude Fauchet desempenhava funções importantes na Igreja. Como capelão real, era próximo do Cidadão Capet, e como arquidiácono, detinha grande poder e privilégios desconhecidos pela maioria dos franceses.
+$FAB_015_DOC_01_01
+O cardeal percebeu a mudança dos ventos e decidiu que lucraria mais ao se unir ao povo. Participou da <a name="3" class="hidden">tomada da Bastilha</a>, sendo visto armado na linha de frente. Mais tarde, como bispo constitucional de Calvados e deputado da Convenção, foi um dos responsáveis por incitar os <a name="4" class="hidden">Massacres de Setembro</a>.
+$FAB_015_DOC_01_02
+Durante o <a name="5" class="hidden">julgamento do Cidadão Capeto</a>, a quem, relembro, o réu conhecia pessoalmente, ele votou pela prisão e não pela guilhotina. Após a decapitação do malfeitor, protestou abertamente contra a execução no “Journal des amis de la Constitution”.
+$FAB_015_DOC_01_03
+Durante os últimos dias da revolta em Caen, fragmentos de <a name="6" class="hidden">artigos</a> de Fauchet foram encontrados entre os pertences pessoais de Joseph-Geneviève de Puisaye, um dos líderes do motim. Ao investigar os oficiais presos, também foi confirmado que o bispo apoiou abertamente a insurreição.
+$FAB_015_DOC_01_04
+Durante a busca na residência do réu, encontramos <a name="7" class="hidden">grandes quantidades de ouro</a>, uma adega repleta de vinho e vestígios de um <a name="8" class="hidden">banquete para dezesseis pessoas</a>. Durante a investigação, não foi possível determinar a origem da riqueza acumulada pelo padre, nem a identidade daqueles que o acompanhavam em seus festins desmedidos e imorais.
+$FAB_015_DOC_02_00
+Recortes de artigos de Claude Fauchet, encontrados entre os pertences de de Puisaye:
+$FAB_015_DOC_02_01
+É natural que, em um país de igualdade e fraternidade, nenhuma região ou cidade deva exercer autoridade sobre outra parte da França. <a name="9" class="hidden">A Convenção</a> já cumpriu seu papel histórico, e creio ser necessário substituí-la inteiramente por conselhos ou parlamentos regionais. Um Estado fundado no governo do povo deve apoiar-se em <a name="10" class="hidden">autoridades locais</a>, e não centrais.
+$FAB_015_OnStart_00
+Identifique-se para registro.
+$FAB_015_OnStart_01
+Claude Fauchet.
+$FAB_015_OnStart_02
+Só isso? Nada de “bispo”?
+$FAB_015_OnStart_03
+Você pediu meu nome.
+$FAB_015_OnStart_04
+Você é acusado de apoiar um levante contrarrevolucionário.
+$FAB_015_OnStart_05
+Eu apoio o direito dos franceses de decidir seu próprio destino. Se isso é um crime, então admito minha culpa.
+$FAB_015_OnStart_06
+Ele é dos nossos. Eu o vi na Bastilha!
+$FAB_015_OnStart_07
+Mesmo que essa liberdade leve a guerras fratricidas?
+$FAB_015_OnStart_08
+Até onde sei, foi a Convenção que enviou o exército ao norte, não os federalistas da Normandia mandando seus soldados para Paris.
+$FAB_015_OnGuilty_00
+Por apoiar um motim contrarrevolucionário, praticar o monarquismo em segredo e se aproveitar das funções do Estado para aquisição ilegal de propriedades, eu condeno o bispo Fauchet à morte.
+$FAB_015_OnGuilty_01
+Este é um julgamento histórico. Estamos purificando o país dos vestígios do antigo regime.
+$FAB_015_OnGuilty_02
+Queremos sangue!
+$FAB_015_OnGuilty_03
+Todos os bispos à guilhotina!
+$FAB_015_OnGuilty_04
+Esmague o parasita!
+$FAB_015_OnNotGuilty_00
+Não há fundamento para considerar o bispo Fauchet culpado. Você está livre para ir.
+$FAB_015_OnNotGuilty_01
+Essa relíquia do Antigo Regime deve perecer como Capeto.
+$FAB_015_OnNotGuilty_02
+O juiz também é um realista?
+$FAB_015_OnNotGuilty_03
+Juro que esse lacaio está prestes a se ajoelhar diante do bispo!
+$FAB_015_01x05_00_QTitle
+Você era capelão em Versalhes antes da Revolução?
+$FAB_015_01x05_00_00
+Você era capelão em Versalhes antes da Revolução?
+$FAB_015_01x05_00_01
+Eu fui o pregador real.
+$FAB_015_01x05_00_02
+E depois você votou sobre o destino do cidadão Capet, correto?
+$FAB_015_01x05_00_03
+De fato.
+$FAB_015_01x05_00_04
+Diga-me, seu conhecimento pessoal com ele influenciou seu voto?
+$FAB_015_01x05_00_05
+Duvido que alguém acreditasse se eu dissesse que não, então sim, teve influência, embora eu só o conhecesse de vista e raramente conversasse com ele.
+$FAB_015_01x05_00_06
+Você votou contra a decapitação dele?
+$FAB_015_01x05_00_07
+Maldito realista.
+$FAB_015_01x05_00_08
+Aposto que ele sente falta de se empanturrar em Versalhes.
+$FAB_015_01x05_00_09
+Eu não votei a favor da guilhotina, mas fiz isso por todos nós.
+$FAB_015_01x05_00_10
+Por quê?
+$FAB_015_01x05_00_11
+Um rei na prisão, em uma prisão de verdade e não em prisão domiciliar, não representaria mais uma ameaça, certo?
+$FAB_015_01x05_00_12
+Você disse que seu conhecimento de Luís influenciou sua decisão. Se não o conhecesse, teria votado por decapitá-lo?
+$FAB_015_01x05_00_13
+Sim, e eu teria cometido um erro. Fui ao tribunal e vi que os monarcas da Europa eram mais solidários entre si do que com seus próprios súditos.
+$FAB_015_01x03_01_QTitle
+Como foi que um arcediago acabou deixando seu cargo tão confortável…
+$FAB_015_01x03_01_00
+Como foi que um arquidiácono deixou seu cargo confortável para então liderar a revolta do povo?
+$FAB_015_01x03_01_01
+Nunca escondi minhas opiniões políticas em meus sermões, e por causa delas perdi meu cargo na corte.
+$FAB_015_01x03_01_02
+Então você ficou do lado do povo só porque nem Luís nem os aristocratas o queriam mais?
+$FAB_015_01x03_01_03
+Não, foi justamente por eu ter ficado ao lado do povo que eles não me quiseram. Você está confundindo causa e efeito.
+$FAB_015_01x03_01_04
+Você pode apresentar como quiser, mas vamos nos ater aos fatos.
+$FAB_015_01x03_01_05
+Claro, o que deseja saber?
+$FAB_015_01x03_01_06
+Você permaneceu na corte até ser expulso?
+$FAB_015_01x03_01_07
+Fiquei na corte pelo bem do povo! Lembra de como era a França naquela época? Ninguém fazia nada, e eu tentei convencer tanto o rei quanto a corte de que precisavam compartilhar o poder com o povo!
+$FAB_015_01x03_01_08
+Você se empanturrou e encheu a goela de vinho caro, e agora vem nos contar histórias.
+$FAB_015_02x07_02_QTitle
+Uma quantia considerável de ouro foi encontrada em seu palácio. De onde veio esse ouro?
+$FAB_015_02x07_02_00
+Uma quantia considerável de ouro foi encontrada em seu palácio. De onde veio esse ouro?
+$FAB_015_02x07_02_01
+Esse valor considerável existe apenas nos seus registros.
+$FAB_015_02x07_02_02
+Poderia explicar?
+$FAB_015_02x07_02_03
+Guardo algumas joias de ouro apenas para garantir minha renda; os outros objetos dizem respeito à minha fé — um crucifixo e um cálice. Só isso.
+$FAB_015_02x07_02_04
+Ainda bem que não disse “rendimentos modestos”. Como capelão da corte, deve ter acumulado uma fortuna considerável. Depois, como bispo e membro da Convenção, imagino que também teve muitas oportunidades de... aumentar esse patrimônio.
+$FAB_015_02x07_02_05
+Claro que ele roubou! A ocasião faz o ladrão!
+$FAB_015_02x07_02_06
+Se puder apresentar ao povo qualquer prova da minha desonestidade, aguardarei de bom grado.
+$FAB_015_02x07_02_07
+Então você nega ter se aproveitado do seu cargo para obter benefícios pessoais?
+$FAB_015_02x07_02_08
+Não trabalhei todos esses anos por mim, mas sim pelo povo!
+$FAB_015_06x02_03_QTitle
+Temos provas de que você apoiou os organizadores do golpe na Normandia.
+$FAB_015_06x02_03_00
+Temos provas de que você apoiou os organizadores do golpe na Normandia.
+$FAB_015_06x02_03_01
+Defendi a democracia por anos, e essas pessoas queriam colocá-la em prática. Então sim, pode-se dizer que compartilhávamos os mesmos... ideais.
+$FAB_015_06x02_03_02
+A democracia já triunfou aqui em Paris. Não há necessidade de impô-la.
+$FAB_015_06x02_03_03
+Se você chama de democracia uma dúzia de homens em Paris, decidindo nos corredores o destino de milhões, não serei eu a discutir. Foi por essa França que derramamos sangue na Bastilha? Respondam vocês mesmos a essa pergunta.
+$FAB_015_06x02_03_04
+Ele tem razão, trocamos um tirano por vários.
+$FAB_015_06x02_03_05
+Então você admite que planejou mudar o sistema da República?
+$FAB_015_06x02_03_06
+Talvez os insurgentes quisessem isso. Eu apenas escrevia artigos e conversava com as pessoas. Se proibir isso, não será melhor do que Luís.
+$FAB_015_06x02_03_07
+Artigos que incitaram outros a derramar sangue.
+$FAB_015_06x02_03_08
+Se não tivéssemos derramado sangue, teríamos realmente derrubado a monarquia? Não sou partidário da violência, mas é preciso admitir que certas mudanças não acontecem sem ela.
+$FAB_015_10x03_04_QTitle
+Você escreveu sobre transferir a autoridade para as administrações locais.
+$FAB_015_10x03_04_00
+Você escreveu sobre transferir a autoridade para as administrações locais.
+$FAB_015_10x03_04_01
+Isso seria justo.
+$FAB_015_10x03_04_02
+Atualmente, o administrador civil de Paris é o arcebispo Jean-Baptiste Gobel. Você deseja conceder autoridade a ele?
+$FAB_015_10x03_04_03
+Talvez. Se fosse criado um conselho local em Paris, poderia ser chamado de convenção municipal. Mas não entendo aonde você quer chegar.
+$FAB_015_10x03_04_04
+Foi o arcebispo que lhe pediu para promover ideias federalistas? Os padres têm acesso a muita gente no interior. Eles poderiam facilmente influenciar as eleições desses seus conselhos, e o arcebispo acabaria controlando todos os caminhos do poder.
+$FAB_015_10x03_04_05
+Quero uma resposta clara. Você apoiou a revolta armada contra Paris? E fez isso por ordem de Gobel?
+$FAB_015_10x03_04_06
+Não, e não.
+$FAB_015_10x03_04_07
+Você conhece a frase “cui prodest scelus is fecit”? Significa que quem se beneficia do crime é seu autor, e ninguém teria lucrado mais com seu plano do que Gobel.
+$FAB_015_10x03_04_08
+Portanto, quem mais se beneficia com a queda de Gobel é o culpado por essa campanha contra mim. Entendi corretamente?
+$FAB_015_09x06_05_QTitle
+Em seus artigos, você escreveu que a Convenção deveria ser abolida.
+$FAB_015_09x06_05_00
+Em seus artigos, você escreveu que a Convenção deveria ser abolida.
+$FAB_015_09x06_05_01
+Na verdade, substituído.
+$FAB_015_09x06_05_02
+A Convenção não pretende se dissolver, então seria preciso recorrer à força, não é?
+$FAB_015_09x06_05_03
+Peço que reflita por um instante — se eu estivesse planejando um golpe de Estado, não estaria escrevendo artigos sobre isso, mas sim reunindo armas.
+$FAB_015_09x06_05_04
+Ainda assim, você ajudou aqueles que o planejaram.
+$FAB_015_09x06_05_05
+Aquele canalha do clero provavelmente queria se banquetear na corte de novo.
+$FAB_015_09x06_05_06
+Não sei que informações você possui, mas as únicas cartas que escrevi foram para velhos amigos dos tempos da Revolução. Não pode haver em seus arquivos nenhuma carta minha conclamando à rebelião, pois jamais escrevi algo desse tipo.
+$FAB_015_09x06_05_07
+Vou ser claro: sabemos que você trocou cartas com os girondinos, como de Puisaye, por exemplo.
+$FAB_015_09x06_05_08
+Não nego que nos conhecemos.
+$FAB_015_09x06_05_09
+Como explica sua relação com o líder de uma rebelião contrarrevolucionária?
+$FAB_015_09x06_05_10
+Quando o conheci, ele não era nada rebelde.
+$FAB_015_09x06_05_11
+Então você é culpado por não informar a Convenção sobre a rebelião planejada.
+$FAB_015_09x06_05_12
+Ouviu isso? Culpado!
+$FAB_015_07x08_06_QTitle
+Pelo que sei, sua religião prega a moderação à mesa...
+$FAB_015_07x08_06_00
+Acredito que sua religião prega moderação tanto na comida e bebida quanto na acumulação de riquezas.
+$FAB_015_07x08_06_01
+Como está escrito no livro sagrado: “o homem ávido jamais se saciará com dinheiro, e quem ama as riquezas não colherá fruto delas.”
+$FAB_015_07x08_06_02
+Ainda assim, você possuía muitas riquezas e também se entregava aos prazeres.
+$FAB_015_07x08_06_03
+Você viu minha sala de jantar?
+$FAB_015_07x08_06_04
+Aposto que é maior do que todo o meu apartamento.
+$FAB_015_07x08_06_05
+Não, mas pelos registros sabemos que você organizava banquetes suntuosos lá.
+$FAB_015_07x08_06_06
+São João Batista disse: “Quem tiver duas túnicas, dê uma a quem não tem; e quem tiver comida, faça o mesmo.” Em casa, tenho uma mesa para dezesseis pessoas...
+$FAB_015_07x08_06_07
+Devemos compartilhar a comida com os outros, e minha cozinha sempre esteve aberta a todos.
+$FAB_015_07x08_06_08
+Creio que seus convidados não estavam prestes a passar fome. Não teria sido melhor compartilhar com aqueles que não têm pão para dar aos filhos?
+$FAB_015_07x08_06_09
+Fui dormir com fome ontem!
+$FAB_015_07x08_06_10
+Não é culpa minha que as autoridades atuais tenham deixado o povo na miséria.
+$FAB_015_04x01_07_QTitle
+Qual foi o seu papel nos massacres de setembro de 1792?
+$FAB_015_04x01_07_00
+Qual foi o seu papel nos massacres de setembro de 1792?
+$FAB_015_04x01_07_01
+Rezei por todas as vítimas.
+$FAB_015_04x01_07_02
+Isso não foi durante o governo dos girondinos?
+$FAB_015_04x01_07_03
+Nas ruas, quem mandava era a multidão.
+$FAB_015_04x01_07_04
+Você foi um girondino.
+$FAB_015_04x01_07_05
+Pode-se dizer isso, mas não vejo como minhas inclinações políticas poderiam estar ligadas ao assassinato de padres.
+$FAB_015_04x01_07_06
+Por que apenas os padres? Foram poucos padres mortos em comparação ao grande número de vítimas.
+$FAB_015_04x01_07_07
+Poucos? Mais de duzentos foram assassinados!
+$FAB_015_04x01_07_08
+Você estava no poder na época. O que fez para evitar os massacres?
+$FAB_015_04x01_07_09
+Suas acusações não passam de política...
+$FAB_015_04x01_07_10
+Responda à pergunta do promotor.
+$FAB_015_04x01_07_11
+E o que você teria feito no meu lugar? Se alguém estivesse ali para matar e eu tentasse impedir, a única diferença seria mais um cadáver para se livrar.
+$FAB_015_KEY_01
+Capelão real
+$FAB_015_KEY_02
+Privilégios
+$FAB_015_KEY_03
+Tomada da Bastilha
+$FAB_015_KEY_04
+Massacres de Setembro
+$FAB_015_KEY_05
+Julgamento do cidadão Capet
+$FAB_015_KEY_06
+Artigos
+$FAB_015_KEY_07
+Ouro
+$FAB_015_KEY_08
+Jantar suntuoso
+$FAB_015_KEY_09
+A Convenção
+$FAB_015_KEY_10
+Autoridades locais
+$FAB_015_LastDialog_00
+Estive ao seu lado desde o início, e é assim que você me agradece?
+$FAB_015_UNIQUE_QUESTION_01
+Qual era o cargo do réu na corte real?
+$FAB_015_UNIQUE_ANSWER_CORRECT_01_00
+Ele era o pregador da corte.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ele foi conselheiro do cidadão Capet.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ele controlava o tesouro.
+$FAB_015_UNIQUE_QUESTION_02
+Como o réu explicou suas ligações com os girondinos?
+$FAB_015_UNIQUE_ANSWER_CORRECT_02_00
+Ele manteve contato com seus velhos amigos, não com políticos.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ele fez negócios com alguns deles.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Ele tentou inspirá-los a mudar de opinião política.
+$FAB_015_UNIQUE_QUESTION_03
+O réu explicou como adquiriu tanta riqueza?
+$FAB_015_UNIQUE_ANSWER_CORRECT_03_00
+Ele afirma que os investigadores estão exagerando a extensão de sua riqueza.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Ele não consegue explicar. Afirma que alguém deve ter colocado os objetos de valor ali.
+$FAB_015_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Ele se recusou a comentar.

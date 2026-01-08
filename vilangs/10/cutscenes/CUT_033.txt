@@ -1,0 +1,94 @@
+$CUT_033_001_JUDGE
+Mathilde.
+$CUT_033_002_JUDGE
+Anlamıyorum.
+$CUT_033_003_JUDGE
+Baba.
+$CUT_033_004_JUDGE
+Beni duyuyor musun?
+$CUT_033_005_GOD
+Her zaman.
+$CUT_033_006_GOD
+Seni toparladım. Yaşayacaksın… en azından şimdilik.
+$CUT_033_007_JUDGE
+Neredeyim? Siz kimsiniz?
+$CUT_033_008_GOD
+Ben, mutsuzluğun hakkındaki Gerçeğim ve büyüklüğün hakkındaki Yalanım. İkisi de seni buraya getiren sebepler.
+$CUT_033_009_GOD
+Her şeyin başladığı yer.
+$CUT_033_010_JUDGE
+Anlamıyorum.
+$CUT_033_011_GOD
+Tüm hasarı onardım, her zamanki gibi. Yaşayacaksın... ama bunu gerçekten istiyor musun?
+$CUT_033_012_GOD
+Bunun benim gösterim, benim sahnem olduğunu kabul etmeye hazır mısın?
+$CUT_033_013_JUDGE
+Mathilde. Onu öyle çok seviyorum ki...
+$CUT_033_014_GOD
+Biliyorum... Ama o artık sana karşılık vermiyor. Uzun zamandır.
+$CUT_033_015_GOD
+Bundan emin oldum.
+$CUT_033_016_JUDGE
+Sen de kimsin be?
+$CUT_033_017_GOD
+Ben, kendine tekrar tekrar söylediğin Yalanı aşan Gerçeğim. Burada olma sebebinin güç olduğu yalanını.
+$CUT_033_018_GOD
+Onca seçeneğin ve sonun hatırına değil. Seni bunun için yaratmadım.
+$CUT_033_019_JUDGE
+Tasarlandı mı?
+$CUT_033_020_GOD
+Başkalarını güldürmek ya da hüzünlendirmek için acı çekmen gerekiyor.
+$CUT_033_021_GOD
+Hissetmek için.
+$CUT_033_022_GOD
+Şimdi, hayatında gerçekten yapacağın tek seçimi yapacaksın.
+$CUT_033_023_GOD
+Ölmek ve bir daha asla hiçbir şey hissetmemek ya da gerçek bir kahraman olmanın ne demek olduğunu gerçekten hissetmek.
+$CUT_033_024_JUDGE
+Ben bir yargıcım, ama bir–
+$CUT_033_025_GOD
+Söylesene, en son ne zaman bir davayla ilgili tüm dosyaları okudun?
+$CUT_033_026_GOD
+Sanığın söylediklerini en son ne zaman gerçekten dinlediniz?
+$CUT_033_027_GOD
+Bana bir kahraman lazım, bir yargıç değil. İnsanlar kahraman olmak ister.
+$CUT_033_028_JUDGE
+Nasıl yapabilirdim ki? Karım beni öldürmek istedi. Ailem benden nefret ediyor.
+$CUT_033_029_GOD
+Hayatları için savaş.
+$CUT_033_030_JUDGE
+Şehrin yarısı beni öldürmek istiyor.
+$CUT_033_031_GOD
+Paris için savaş.
+$CUT_033_032_JUDGE
+Kardeşim yenilmez bir orduyla geliyor.
+$CUT_033_033_GOD
+O halde, savunacak kimsesi olmayan yoksul ve korkmuş ruhlara kalkan ol.
+$CUT_033_034_JUDGE
+Bir kalkan...
+$CUT_033_035_GOD
+İstersen yaralarını tekrar açabilirim.
+$CUT_033_036_GOD
+ve bir daha asla acı çekmeyeceksin.
+$CUT_033_037_GOD
+Paris düşerdi, ama madem ilgilenmiyorsun, senin yerine birini bulurum.
+$CUT_033_038_GOD
+İşte uğruna böylesine hasret kaldığın seçim.
+$CUT_033_DEATH_DEC
+Ölümü Seç
+$CUT_033_DEATH_DEC_001_GOD
+Ah, ne yazık.
+$CUT_033_DEATH_DEC_002_GOD
+Bunca emeğimden sonra…
+$CUT_033_DEATH_DEC_003_GOD
+Yine de bir karar verdiniz.
+$CUT_033_LIFE_DEC
+Hayatı Seç
+$CUT_033_LIFE_DEC_001_JUDGE
+Beni kabul ederler mi?
+$CUT_033_LIFE_DEC_002_GOD
+Zorunda değiller, ama sen yine de onları savunacaksın.
+$CUT_033_LIFE_DEC_003_GOD
+Bununla bir efsane olacaksın ve bir gün, seni takdir edecekler.
+$CUT_033_LIFE_DEC_004_GOD
+Şimdi ayağa kalk. Onu yenmek zorundasın.

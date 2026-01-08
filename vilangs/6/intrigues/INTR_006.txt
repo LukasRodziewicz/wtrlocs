@@ -1,0 +1,30 @@
+$INTRIGUE_TITLE_006
+Germaine de Staël
+$INTRIGUE_006_DESC
+Madame de Staël ha aprovechado la debilidad de la ciudad para luchar por los derechos de las mujeres. No soy quien para juzgar las motivaciones de los demás, pero si no la detenemos hoy, puede que mañana no despertemos.
+$INTR_006_B01_TITLE
+La Declaración de los Derechos de la Mujer
+$INTR_006_B01_DESC
+Las mujeres salieron a las calles de París. Marcharon hasta el ayuntamiento coreando consignas y ocuparon uno de sus salones para debatir los derechos de la mujer en la Francia revolucionaria. Al frente iba Madame de Staël, culta y ambiciosa fundadora de uno de los salones políticos de París. Convenció a sus seguidoras de que la Revolución no les había otorgado libertad, igualdad ni fraternidad, y que debían luchar por ello por sí mismas. Las amenazas y los encendidos discursos desembocaron en la creación espontánea de la Declaración de los Derechos de la Mujer, firmada por todas las presentes. El momento no fue casual. Madame de Staël sin duda aprovechará nuestra situación actual en beneficio propio y de otras mujeres. Esperad más información…
+$INTR_006_B02_TITLE
+Convencer a los hombres
+$INTR_006_B02_DESC
+La propuesta de De Staël, o quizá su chantaje, nos obliga a actuar de inmediato y sin reflexión. Ella exige que firmemos la Declaración de los Derechos de la Mujer. Si accedes sin el respaldo de los demás hombres, será como firmar tu propia sentencia de muerte. Debes convencerlos de aceptar los cambios y ceder el poder que han prometido a sus hijos.
+$INTR_006_B03_TITLE
+Ganar el apoyo de Grace Elliot
+$INTR_006_B03_DESC
+Madame de Staël confía en la unidad entre mujeres. Demostrémosle que esa unión es tan frágil como los lazos entre hombres. Cuando el poder y el dinero están en juego, la empatía y la compasión dejan de importar. De todas las mujeres que podrían tener algo contra Madame de Staël, Grace Elliott sería la más eficaz. Conoce bien el mundo de la Madame. No hay tiempo para sutilezas. Enciérrala y prométele la libertad a cambio de información.
+$INTR_006_B04_TITLE
+Rebelión de las mujeres
+$INTR_006_B04_DESC
+De Staël claramente quería impulsarte a actuar. En toda la ciudad, las mujeres se niegan a trabajar. Solo retomarán sus tareas cuando su líder confirme que hemos firmado la Declaración. Una fuerza laboral insuficiente perjudicará nuestras defensas. No podemos permitir que esto se prolongue.
+$INTR_006_B05_TITLE
+Quemar la Declaración y arrestar a de Staël
+$INTR_006_B05_DESC
+A ti no te chantajean, eres tú quien chantajea. Aniquilas a tus enemigos y nadie puede derrotarte. ¿Para qué sirven las mujeres? Que se queden en casa, es donde pertenecen. Excepto de Staël. A ella deberíamos encerrarla en la celda que le hemos preparado. Me pregunto si seguirá siendo tan terca cuando su cabeza esté bajo la cuchilla de la guillotina.
+$INTR_006_B06_TITLE
+Firma la Declaración y obtén el apoyo de las mujeres
+$INTR_006_B06_DESC
+Francia ha cambiado de forma irreversible. El último bastión de la desigualdad está cayendo, y tratar de detenerlo sería insensato. Ganar el apoyo de las mujeres de París es esencial para continuar tu lucha contra el enemigo. Tu firma será la expresión de la verdadera igualdad. ¡Un acto de hermandad!
+$INTR_006_B06_DECISION
+Decide qué hacer con la Declaración

@@ -1,0 +1,238 @@
+$GEN_032_DOC_1_HEADER
+Compilado por: Nathan d’Essiraf
+$GEN_032_DOC_1_00
+Ante el tribunal comparece Sébastien Thil, de 19 años, hijo de un carnicero y famoso en toda la Sección por sus <a name="1" class="hidden">excelentes patés</a> preparados según su propia receta. Lamentablemente, últimamente han surgido serios indicios de que los elabora con carne de gato.
+$GEN_032_DOC_1_01
+Las acusaciones se basan en la declaración de <a name="3" class="hidden">Anna Renan</a>, quien fue detenida en la calle con <a name="4" class="hidden">una bolsa de gatos</a>. Ella capturaba animales <a name="5" class="hidden">por encargo de Sébastien Thil</a>, quien los compraba. Se dice que sus famosos patés se elaboraban con estos gatos.
+$GEN_032_DOC_1_02
+Tras el arresto del joven cocinero, los investigadores hallaron <a name="6" class="hidden">cadáveres de gatos</a> en la casa del carnicero, almacenados junto a otros tipos de carne. Debajo de una mesa encontraron una caja llena de ellos.
+$GEN_032_OnStart_00
+¿Alimentar a la gente con gatos muertos? ¡Esto es indignante!
+$GEN_032_OnStart_01
+Ciudadano, ¿cuál es su nombre?
+$GEN_032_OnStart_02
+Sébastien Thil, buen señor.
+$GEN_032_OnStart_03
+Se le acusa de haber alimentado a los ciudadanos de París con paté hecho de gatos. ¿Cómo responde a estos cargos?
+$GEN_032_OnStart_04
+¡¿Qué?! ¿Quién lo dice? Seguro que fue alguno de esos carniceros rivales, ¡esos desgraciados! ¡Mienten! ¡Son unos cerdos sucios y mentirosos, señor!
+$GEN_032_OnStart_05
+Mejor mentir como un cerdo que acabar como comida de gato.
+$GEN_032_OnStart_06
+Eso dice tu proveedora, sorprendida in fraganti con un nuevo cargamento de gatos.
+$GEN_032_OnStart_07
+¿Qué proveedor?
+$GEN_032_OnStart_08
+Fingir inocencia no le servirá de nada. ¿Tiene tantos proveedores que ya ha perdido la cuenta?
+$GEN_032_OnStart_09
+¿Renan, verdad?
+$GEN_032_OnStart_10
+Así es. ¿Confiesa su culpa?
+$GEN_032_OnStart_11
+¡Por supuesto que no! ¿Y si ella misma hace paté de gato?
+$GEN_032_OnGuilty_00
+¡Condeno a Sébastien Thil a la guillotina! Saquen al condenado.
+$GEN_032_OnGuilty_01
+¿Dónde están sus pruebas? ¡¿Y la justicia?!
+$GEN_032_OnGuilty_02
+Es un castigo severo, pero la salud pública no es un juego.
+$GEN_032_OnNotGuilty_00
+¡El veredicto para Sébastien Thil es... no culpable! Retiren al acusado.
+$GEN_032_OnNotGuilty_01
+¡Escándalo! ¡Seguirá vendiéndonos carne de gato!
+$GEN_032_OnNotGuilty_02
+¡Protesto! ¡Esta es una condena para los estómagos parisinos!
+$GEN_032_04x05_00_QTitle
+¿Para qué compró los gatos?
+$GEN_032_04x05_00_00
+¿Para qué compró los gatos?
+$GEN_032_04x05_00_01
+Señor juez, es... por motivos médicos.
+$GEN_032_04x05_00_02
+¿A qué se refiere?
+$GEN_032_04x05_00_03
+Bueno, por sus pieles, su pelaje. Hace maravillas para el dolor de espalda, ¿sabe? Solo quería ganar un poco de dinero extra.
+$GEN_032_04x05_00_04
+¡Mentiroso! ¡La gente venía a ti por tu paté, no por las pieles!
+$GEN_032_04x05_00_05
+¿Estabas matando gatos?
+$GEN_032_04x05_00_06
+Sí, pero no para dárselos de comer a la gente.
+$GEN_032_04x05_00_07
+¿Podría decirnos al menos un cliente que haya acudido a usted por sus paquetes?
+$GEN_032_04x05_00_08
+No tomaba notas, señor. Varias personas iban y venían, compraban pieles y luego se marchaban.
+$GEN_032_04x05_00_09
+No recordar es una estrategia conveniente.
+$GEN_032_01x06_01_QTitle
+Dígame, ¿qué ocurrió con la carne de los gatos que compró?
+$GEN_032_01x06_01_00
+Dígame, ¿qué ocurrió con la carne de los gatos que compró?
+$GEN_032_01x06_01_01
+Se entregaba junto con las demás vísceras a los aristócratas que tienen criaderos de perros.
+$GEN_032_01x06_01_02
+¿Y no los convertía usted en paté?
+$GEN_032_01x06_01_03
+¡Por supuesto que no! ¡Jamás le daría esa porquería a la gente!
+$GEN_032_01x06_01_04
+¿Y cuando no llegaba carne? Últimamente ha habido escasez de alimentos. ¿Nunca añadiste ni siquiera una pequeña cantidad?
+$GEN_032_01x06_01_05
+¿Arruinar mi paté con carne de la calle? ¡Jamás!
+$GEN_032_01x06_01_06
+Si es tan santo, ¿por qué no lo demuestra?
+$GEN_032_01x06_01_07
+¿Los cadáveres de los gatos estaban en el suelo, no? ¡Esa es su prueba! ¡Jamás guardo carne para personas en el suelo!
+$GEN_032_03x05_02_QTitle
+¿Confirma que pagó a Anna Renan para atrapar gatos?
+$GEN_032_03x05_02_00
+¿Confirma que pagó a Anna Renan para atrapar gatos?
+$GEN_032_03x05_02_01
+Vino a verme y me ofreció traerme gatos para despiezar. Por supuesto, acepté. Al fin y al cabo, soy carnicero. Si puedo despiezar un cerdo, ¿por qué no un gato?
+$GEN_032_03x05_02_02
+¡Y luego se lo da al pueblo! ¿No tiene vergüenza?
+$GEN_032_03x05_02_03
+¿No te importa qué animal estás desollando?
+$GEN_032_03x05_02_04
+Bueno, verá, es más fácil degollar un cerdo porque es mucho más grande. Los gatos pequeños requieren más destreza, ya que ellos...
+$GEN_032_03x05_02_05
+¿También vestirías carne humana?
+$GEN_032_03x05_02_06
+¡Dios mío!
+$GEN_032_03x05_02_07
+¡Qué pensamiento tan terrible!
+$GEN_032_03x05_02_08
+¡Soy carnicero, no asesino!
+$GEN_032_01x02_03_QTitle
+¿Qué ingredientes utiliza para preparar su famoso paté?
+$GEN_032_01x02_03_00
+¿Qué ingredientes utiliza para preparar su famoso paté?
+$GEN_032_01x02_03_01
+Solo ingredientes naturales, señor: un poco de hígado, paleta de cerdo, algo de panceta, por supuesto, o quedará demasiado seco. También puede añadir manteca.
+$GEN_032_01x02_03_02
+Basta…
+$GEN_032_01x02_03_03
+Siempre uso cuatro tipos de carne. Para que quede aún más sabroso, puedes añadir un poco de cebolla o una copita de coñac. Es una delicia, te lo juro.
+$GEN_032_01x02_03_04
+El acusado olvidó mencionar a los gatos, una parte fundamental de la receta.
+$GEN_032_01x02_03_05
+Eso no es cierto. ¿Acaso hay una sola persona que haya visto que puse carne de gato en mi paté? ¿Una sola?
+$GEN_032_01x02_03_06
+Estoy seguro de que tuvo cuidado de no dejar testigos. ¡Qué discurso tan dramático!
+$GEN_032_03x04_04_QTitle
+Llamen a la testigo, Anna Renan.
+$GEN_032_03x04_04_00
+Llamen a la testigo, Anna Renan.
+$GEN_032_03x04_04_02
+Por favor, preséntese.
+$GEN_032_03x04_04_03
+Anna Renan, nos encontramos por casualidad…
+$GEN_032_03x04_04_04
+Sí, lo recuerdo…
+$GEN_032_WIT_00_A_QTitle
+¿Cómo sabe que el paté está hecho de carne de gato?
+$GEN_032_WIT_00_A_00
+¿Cómo sabe que el paté está hecho de carne de gato?
+$GEN_032_WIT_00_A_01
+Del joven Thil. Una vez me ladró cuando le llevé unos gatos viejos. Dijo que eran tan viejos, sarnosos y duros que ni los perros los comerían.
+$GEN_032_WIT_00_A_02
+¿Entonces nunca dijo directamente que lo usa para su paté?
+$GEN_032_WIT_00_A_03
+¿Para qué más querría ese muchacho eso, si no era para su antojo? Dijo que la carne vieja es dura, así que le traje gatos para un buen paté.
+$GEN_032_WIT_00_A_04
+¿Alguna vez has visto cómo se prepara el paté?
+$GEN_032_WIT_00_A_05
+No.
+$GEN_032_WIT_00_A_06
+Si lo sabía, ¿por qué no informó de inmediato a la Guardia?
+$GEN_032_WIT_00_A_07
+No lo hice, es culpa mía, pero el pan cada vez está más caro y yo no me hago más rica. Tengo que ganarme la vida de alguna manera, ¿no?
+$GEN_032_WIT_00_B_QTitle
+¿Cuánto tiempo lleva entregando gatos al acusado?
+$GEN_032_WIT_00_B_00
+¿Cuánto tiempo lleva entregando gatos al acusado?
+$GEN_032_WIT_00_B_01
+Apenas llevaba el tercer saco cuando monsieur le juge se topó conmigo en la calle…
+$GEN_032_WIT_00_B_02
+¿Así que empezaste hace poco?
+$GEN_032_WIT_00_B_03
+Hace como una semana oí rumores de que el hijo del carnicero estaba comprando gatos. Pensé que yo también podía ganar unos cuantos deniers.
+$GEN_032_WIT_00_B_04
+¿Dónde escuchó eso?
+$GEN_032_WIT_00_B_05
+De Adele, la que vende verduras en el mercado, y resultó que no lo estaba inventando. Thil me prometió 5 deniers por cada gato.
+$GEN_032_WIT_00_B_06
+¿En vez de informar a la Guardia, acudió directamente a él?
+$GEN_032_WIT_00_B_07
+Bueno... sí. Al final, uno vende lo que sea para tener pan. Hasta un gato sirve.
+$GEN_032_WIT_00_B_08
+¿Chismes… Adele se lo contó? ¡Bah!
+$GEN_032_WIT_01_A_QTitle
+¿Ha probado usted el polémico paté?
+$GEN_032_WIT_01_A_00
+¿Ha probado usted el sospechoso paté?
+$GEN_032_WIT_01_A_01
+¿Con qué dinero? No puedo permitírmelo.
+$GEN_032_WIT_01_A_02
+Y si pudieras, ¿lo intentarías sabiendo de qué está hecho?
+$GEN_032_WIT_01_A_03
+¿Por qué no? No me haría daño. Todos dicen que es delicioso, así que quizá la carne de gato no sea tan mala como pensamos.
+$GEN_032_WIT_01_A_04
+Saquen a la testigo.
+$GEN_032_WIT_01_A_06
+¿Le gustaría comentar al respecto?
+$GEN_032_WIT_01_A_07
+No estoy haciendo paté de gato. Eso es todo lo que tengo que decir.
+$GEN_032_WIT_01_B_QTitle
+Díganos los nombres de las demás personas que traían gatos al acusado.
+$GEN_032_WIT_01_B_00
+Díganos los nombres de las demás personas que llevaban gatos al acusado.
+$GEN_032_WIT_01_B_01
+No los conozco por nombre. Pero no era yo la única que los atrapaba para el pequeño Thil, de eso estoy segura.
+$GEN_032_WIT_01_B_02
+¿Nunca se encontró con otro proveedor en la carnicería?
+$GEN_032_WIT_01_B_03
+No, pero acabo de empezar a trabajar para él.
+$GEN_032_WIT_01_B_04
+Saquen a la testigo.
+$GEN_032_WIT_01_B_06
+¿Le gustaría comentar al respecto?
+$GEN_032_WIT_01_B_07
+Diferentes personas me traen distintos tipos de carne. No tengo empleados fijos.
+$GEN_032_KEY_01
+Paté famoso
+$GEN_032_KEY_02
+Carne de gato
+$GEN_032_KEY_03
+Anna Renan
+$GEN_032_KEY_04
+Gato por liebre
+$GEN_032_KEY_05
+En nombre de Sébastien Thil
+$GEN_032_KEY_06
+Carcasas de gato
+$GEN_032_LastDialog_00
+¡Ayúdame, madre! ¡Quieren matarme!
+$GEN_032_UNIQUE_QUESTION_00
+Según Thil, ¿qué pasó con la carne de gato?
+$GEN_032_UNIQUE_ANSWER_CORRECT_00_00
+Fue enviado a las perreras.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Lo arrojaron al río.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Se entregó a los sin techo.
+$GEN_032_UNIQUE_QUESTION_01
+¿Cómo explicó el carnicero la compra de los gatos?
+$GEN_032_UNIQUE_ANSWER_CORRECT_01_00
+Vendió sus pieles como medicina.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Vendía sus patas como amuletos de la suerte.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Vendía su bilis a los herbolarios del pueblo.
+$GEN_032_UNIQUE_QUESTION_02
+¿Qué llevaba la ciudadana Renan consigo en el momento de su detención?
+$GEN_032_UNIQUE_ANSWER_CORRECT_02_00
+Un saco de gatos.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Carne de gato.
+$GEN_032_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Piel de gato.

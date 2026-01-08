@@ -1,0 +1,246 @@
+$GEN_037_DOC_01_HEADER
+Compiled by: Charles Etienne
+$GEN_037_DOC_01_00
+In the last two weeks, three female tenants of <a name="1" class="hidden">the same tenement</a>, Blandine Couturier, Abelone Macé, and Eugénie Marais, died. Their tragic demise has been preceded by the same dreadful symptoms: vomiting blood, convulsion, migraines, and severe muscle pain. The neighbours complained that they have suffered several sleepless nights because of their screams.
+$GEN_037_DOC_01_01
+The victims’ husbands have, after the fact, found out that their wives were clients of a certain Marie-Laure Thébault, who lives across the street. At home they found the same <a name="3" class="hidden">powder cases, lip rouge jars</a>, and other suspicious cosmetic products purchased from Thébault. Jean Macé brought all of them to the National Guard, along with a denunciation of widow Thébault, whom he accused of <a name="4" class="hidden">witchcraft</a>.
+$GEN_037_DOC_01_02
+In the neighbourhood, she is known as a resourceful elderly woman. At the age of 74, she still makes a living by selling blacking, rouge, and other mixtures supposed to enhance female beauty. Although she rarely left her house, <a name="6" class="hidden">her clients recommended her products</a> to their friends, who then visited her.
+$GEN_037_DOC_01_03
+The elderly woman did not resist when three soldiers arrested her. As she is <a name="7" class="hidden">visually impaired</a>, she did not realise that she was talking to the National Guard, and it was only when the men walked her from the apartment that she stopped asking them about the products she thought they wanted to buy.
+$GEN_037_DOC_01_04
+The soldiers informed the investigating officers about the suspicious jars filled with blood and bones that they saw on the shelves.
+$GEN_037_DOC_02_00
+<a name="9" class="hidden">Jean Macé’s denunciation</a>:
+$GEN_037_DOC_02_01
+	As a Citizen who is obedient to the Revolution, I feel obliged to report that Thébault, a widow living in our neighbourhood, practices harmful witchcraft. Three hard-working Citizens of Paris have died in agony due to that woman’s magic and potions. All our neighbours know that her devilish wrongdoings have been the cause.
+	
+Jean Macé
+$GEN_037_DOC_1_TOOLTIP
+Jean Macé's denunciation
+$GEN_037_OnStart_00
+I am not one to believe in witchcraft. However, those deaths do not strike me as natural.
+$GEN_037_OnStart_01
+Are you Marie-Laure Thébault?
+$GEN_037_OnStart_02
+Yes, dear.
+$GEN_037_OnStart_03
+Do you live alone?
+$GEN_037_OnStart_04
+My husband never returned from the war in 1762. The former King sent him to Portugal where–
+$GEN_037_OnStart_05
+Were you somehow involved in the deaths of Blandine Couturier, Abelone Macé, and Eugénie Marais?
+$GEN_037_OnStart_06
+I would never hurt such good women.
+$GEN_037_OnStart_07
+And yet all were your clients, and they are all dead.
+$GEN_037_OnStart_08
+She poisoned them, like she’s poisoning us all!
+$GEN_037_OnGuilty_00
+For causing the terrible, painful death of three innocent women, I hereby sentence Marie-Laure Thébault to the guillotine!
+$GEN_037_OnGuilty_01
+Thank you for that just verdict.
+$GEN_037_OnGuilty_02
+We’ll come to see your head rolling down the pavement!
+$GEN_037_OnGuilty_03
+They should cover her in her own potions and let her die in pain!
+$GEN_037_OnPrison_00
+Marie-Laure Thébault, you will spend your remaining years in prison!
+$GEN_037_OnPrison_01
+Good thing she doesn’t have many of them left.
+$GEN_037_OnPrison_02
+That shrew deserves it!
+$GEN_037_OnNotGuilty_00
+Marie-Laure Thébault, I hereby declare you not guilty of the accused crimes. Let me put emphasis on the fact that Citizens of an enlightened France should not lower themselves to accusations of witchcraft.
+$GEN_037_OnNotGuilty_01
+She may not be a witch, but without a doubt she poisoned those women.
+$GEN_037_OnNotGuilty_02
+I could tell she’s a witch!
+$GEN_037_02x06_00_QTitle
+Do you have many clients?
+$GEN_037_02x06_00_00
+Do you have many clients?
+$GEN_037_02x06_00_01
+Not right now, dear, no. The guards won’t let them into my cell.
+$GEN_037_02x06_00_02
+Stop mocking the court. Do many women buy your powders?
+$GEN_037_02x06_00_03
+If they didn’t, I wouldn’t be able to afford butter. Many women visit me.
+$GEN_037_02x06_00_04
+Have they ever complained about your products?
+$GEN_037_02x06_00_05
+Never, dear. They always came back for more and gladly left their hard-earned money in my hands.
+$GEN_037_02x06_00_06
+Did they really always come back?
+$GEN_037_02x06_00_07
+Well, some did, some didn’t.
+$GEN_037_02x06_00_08
+I suppose some of them just died and nobody could ascertain why.
+$GEN_037_02x06_00_09
+She had it coming!
+$GEN_037_01x03_01_QTitle
+What did you sell to Citizens Couturier, Macé, and Marais?
+$GEN_037_01x03_01_00
+What did you sell to Citizens Couturier, Macé, and Marais?
+$GEN_037_01x03_01_01
+A bit of this and that. Who would remember the details?
+$GEN_037_01x03_01_02
+If you want to be freed by this court, you had better start remembering.
+$GEN_037_01x03_01_03
+I am sure they bought powder. Every woman buys powder, to be as pale as a countess.
+$GEN_037_01x03_01_04
+Many women bought it?
+$GEN_037_01x03_01_05
+Over the years, probably hundreds. I’ve nearly rubbed my hands to the bone mixing it.
+$GEN_037_01x03_01_06
+Dear God, we’re lucky they caught her.
+$GEN_037_08x04_02_QTitle
+How exactly do you prepare your cosmetics?
+$GEN_037_08x04_02_00
+How exactly do you prepare your cosmetics?
+$GEN_037_08x04_02_01
+Oh, you know, one way or another. My grandmother left me a thick notebook full of recipes. Sadly, I could read less and less. Not a single word in 15 years, I think. My eyes aren’t what they used to be.
+$GEN_037_08x04_02_02
+Then how do you mix your products?
+$GEN_037_08x04_02_03
+I remember everything that’s written there. I don’t need to read it.
+$GEN_037_08x04_02_04
+Need I repeat myself? I asked how exactly you prepare your cosmetics.
+$GEN_037_08x04_02_05
+I will tell you as if I were at confession. The face powder is no secret: you have to mix white lead with chalk. Lead is good, it purifies. You need strength to crush it, but I’m still able to do it. I’m used to it. I’ve been working my whole life.
+$GEN_037_08x04_02_06
+To the point, please.
+$GEN_037_08x04_02_07
+Lip rouge is a mixture of wax and carmine with a dash of spirit. Oh, how beautiful the red lips are of women who use it! The pigment isn’t easy to make, but I have my methods. You can cook a lizard or use the blood of a hedgehog, rat, or bat. You can also add a bit of sulphur to make the colour more durable.
+$GEN_037_08x04_02_08
+Bat’s blood and sulphur? She produces devilish potions, not cosmetics!
+$GEN_037_07x05_03_QTitle
+The soldiers reported that you did not recognise their uniforms.
+$GEN_037_07x05_03_00
+The soldiers reported that you did not recognise their uniforms.
+$GEN_037_07x05_03_01
+Dear, I can barely see you right now.
+$GEN_037_07x05_03_02
+How do you prepare your cosmetics if you cannot see what you are doing?
+$GEN_037_07x05_03_03
+I know the recipes by heart and recognise the ingredients by touch.
+$GEN_037_07x05_03_04
+And at no point have your clients complained that the powder painted their faces red?
+$GEN_037_07x05_03_05
+If anything like that happened, they’d simply go to someone else and take their money with them.
+$GEN_037_07x05_03_06
+What if you added too much of one of the ingredients?
+$GEN_037_07x05_03_07
+I suppose I sometimes pour more than I should, but I don’t mind. I am not a greedy person and I don’t stint my dear ladies, even though the ingredients aren’t cheap.
+$GEN_037_02x04_04_QTitle
+The husbands of the deceased accuse you of witchcraft. Is that true?
+$GEN_037_02x04_04_00
+The husbands of the deceased accuse you of witchcraft. Is that true?
+$GEN_037_02x04_04_01
+I can make the sign of the cross before you right now, dear!
+$GEN_037_02x04_04_02
+We will do without superstitions.
+$GEN_037_02x04_04_03
+Look at the walls of my apartment. Right over the table with my mortars and pestles hangs a cross. During the reign of King Louis–
+$GEN_037_02x04_04_04
+Don’t say one word too many, citizien.
+$GEN_037_02x04_04_05
+I’ll be as quiet as a church mouse.
+$GEN_037_02x04_04_06
+Why, no, continue. Are you a monarchist, citizen?
+$GEN_037_02x04_04_07
+That stinking King sent my dear husband to war, and to his death. The king, the revolution - same difference to me.
+$GEN_037_02x04_04_08
+That crone doesn’t know what she’s talking about.
+$GEN_037_04x09_05_QTitle
+Call in the witness, Jean Macé.
+$GEN_037_04x09_05_00
+Call in the witness, Jean Macé.
+$GEN_037_04x09_05_02
+Jean Macé, the late Abelone Macé’s husband, monsieur le juge.
+$GEN_037_WIT_00_A_QTitle
+Was your wife buying cosmetics from widow Thébault?
+$GEN_037_WIT_00_A_00
+Was your wife buying cosmetics from widow Thébault?
+$GEN_037_WIT_00_A_01
+Yes, I even gave her money to do so. She used to say that without the powder she felt like a peasant and was too embarrassed to leave our home.
+$GEN_037_WIT_00_A_02
+On what grounds do you believe that your wife was the victim of witchcraft?
+$GEN_037_WIT_00_A_03
+Our wives were healthy. They all gave birth, and without the help of a doctor. They were strong, hard-working. It must have been witchcraft.
+$GEN_037_WIT_00_A_04
+So your wife did not complain about her health?
+$GEN_037_WIT_00_A_05
+You know, she had her better and worse days, like we all do. But she never complained about anything serious!
+$GEN_037_WIT_00_A_06
+So the troubles started when she first applied cosmetics purchased from the widow?
+$GEN_037_WIT_00_A_07
+What do I know about when she–
+$GEN_037_WIT_00_A_08
+Focus!
+$GEN_037_WIT_00_A_09
+Yes, that’s how it went. I remember now. It all started when she bought those flasks.
+$GEN_037_WIT_01_A_QTitle
+Could you elaborate on the devilry that you referred to?
+$GEN_037_WIT_01_A_00
+Could you elaborate on the devilry that you referred to?
+$GEN_037_WIT_01_A_01
+You could smell sulphur in the backyard. Everyone will tell you that. And a child saw how widow Thébault, armed with a stick, chased rats in the cellar and drained them of blood.
+$GEN_037_WIT_01_A_02
+Did you see it with your own eyes?
+$GEN_037_WIT_01_A_03
+I didn’t. I work at the factory all day, building vehicles. It’s hard work. What if I don’t fix a part well and the vehicle collapses? My neighbours saw everything, though.
+$GEN_037_WIT_01_B_QTitle
+Had your wife been complaining about pain for a long time?
+$GEN_037_WIT_01_B_00
+Had your wife been complaining about pain for a long time?
+$GEN_037_WIT_01_B_01
+She did complain about headaches, I think for a month or two. She also had no appetite, but that’s nothing. I often have no appetite after a day of hard work myself.
+$GEN_037_WIT_01_B_02
+Would you say that, despite those issues, your wife was healthy?
+$GEN_037_WIT_01_B_03
+Healthy as a horse. A day before it all started, she tried to take me to a dance. My Abelone loved to dance, but I was always telling her, “Not today, let’s go next week. I can barely feel my legs.” I should’ve… I should’ve gone.
+$GEN_037_KEY_01
+Neighbours
+$GEN_037_KEY_02
+Long, painful death
+$GEN_037_KEY_03
+Cosmetics
+$GEN_037_KEY_04
+Witchcraft
+$GEN_037_KEY_05
+Old age
+$GEN_037_KEY_06
+Popular products
+$GEN_037_KEY_07
+Poor eyesight
+$GEN_037_KEY_08
+Blood and bones
+$GEN_037_KEY_09
+Jean Macé’s denunciation
+$GEN_037_LastDialog_00
+Where are you taking me, boys?
+$GEN_037_UNIQUE_QUESTION_00
+What were the victims buying from the defendant?
+$GEN_037_UNIQUE_ANSWER_CORRECT_00_00
+Powder.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Perfumes.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Soap.
+$GEN_037_UNIQUE_QUESTION_01
+How did the defendant behave during the arrest?
+$GEN_037_UNIQUE_ANSWER_CORRECT_01_00
+She did not recognise the uniforms.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_01_00
+She attacked the Guard.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_01_01
+She was calm.
+$GEN_037_UNIQUE_QUESTION_02
+According to the witness, what was the cause of his wife’s death?
+$GEN_037_UNIQUE_ANSWER_CORRECT_02_00
+Witchcraft.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Poisoning.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_02_01
+An illness.

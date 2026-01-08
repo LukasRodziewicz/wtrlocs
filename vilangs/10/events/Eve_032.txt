@@ -1,0 +1,12 @@
+$EVE_032_TITLE
+Monarşist Komplo
+$EVE_032_MAIN_01
+İşte ilk parça ortaya çıktı. Geri kalanını düşman ajanlarının cesetleriyle tamamlayalım…
+$EVE_032_MAIN_02
+Yaklaşıyoruz. Yakında “R”nin kimliğini öğreneceğiz. Sadece birkaç ceset daha lazım...
+$EVE_032_MAIN_03
+Meğer her şeyin arkasında Renard varmış. Bir ajan, ölmeden hemen önce amirinin soyadını haykırdı: Renard. Bu bilgiyi ortaya çıkardığınızda, adamları Paris sokaklarında barınmakta zorlanacak. Peki, suskunluktan bir çıkar elde edilebilir mi? Şehirde büyük bir kargaşa kopar, insanlar gizli hainlerin peşine düşerdi. Belki de gerçek güç, bir çatışmadan değil, sessiz bir ittifaktan doğar?
+$EVE_032_MAIN_03_C1
+Bilgiyi ortaya çıkar
+$EVE_032_MAIN_03_C2
+Bilgiyi kendine sakla

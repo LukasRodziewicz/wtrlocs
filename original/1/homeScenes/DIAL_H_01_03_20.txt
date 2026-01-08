@@ -1,0 +1,16 @@
+$DIAL_H_01_03_20_001_JUDGE
+What do you have on Pache?
+$DIAL_H_01_03_20_002_RAMEL
+Like many others, he was profiting from the Rolands’ whorehouse. When you cut them off, it was decided that Pache would arrange your assassination. The Mayor has strong allies, Danton being one of them, so we cannot simply attack him. We need to target his family.
+$DIAL_H_01_03_20_003_JUDGE
+Pardon?
+$DIAL_H_01_03_20_004_RAMEL
+I heard rumours that his daughter is in a relationship that many would consider… unacceptable. She is involved with another woman and, moreover, the said lady consorts with Muscadins. If you use that knowledge, Pache will begin to make mistakes, terrified that the scandal could be brought to light. His allies will notice and lose faith in him.
+$DIAL_H_01_03_20_005_JUDGE
+Will that be enough?
+$DIAL_H_01_03_20_006_RAMEL
+Only if you gain his trust first. He must be convinced that you know nothing about his involvement in the attempted assassination. I have a plan, but first we need to do something about the whorehouse taken over by the Rolands.
+$DIAL_H_01_03_20_007_JUDGE
+Why is that?
+$DIAL_H_01_03_20_008_RAMEL
+Pache loves gambling.

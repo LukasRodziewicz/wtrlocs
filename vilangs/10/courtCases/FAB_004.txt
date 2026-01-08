@@ -1,0 +1,246 @@
+$FAB_004_DOC_1_HEADER
+Derleyen: Nathan d’Essiraf
+$FAB_004_DOC_1_00
+Sanık, Parisli hırsızlar arasında açılmaz kilitlerin ustası olarak ün salmış 65 yaşındaki <a name="1" class="hidden">usta çilingir</a> Olivier Mugler’dır.
+$FAB_004_DOC_1_01
+Geçen ay, Parisli bir cam atölyesinin sahipleri – Jean Rude, Louis Roux ve Ferdinand Salan – ondan, muhtemelen eşlerine hediye olarak verecekleri değerli eşyalar için süslü sandıklara <a name="2" class="hidden">kilitler yapmasını</a> istemişler. Usta, son eserini “hırsız geçirmez” diye övmüştü. Ancak kilitlerin tamamlanmasından kısa bir süre sonra, sanayicilerin evleri Paris’e yeni gelmiş Hector Vian tarafından gerçekleştirilen <a name="3" class="hidden">bir dizi soyguna</a> uğradı. <a name="4" class="hidden">Orleanslı hırsız</a> suçüstü yakalandı ve Ferdinand Salan tarafından vurularak öldürüldü.
+$FAB_004_DOC_1_02
+Ölenin üzerinde, kısa süre önce soyulan sanayicilerin <a name="5" class="hidden">evlerinin</a> işaretlendiği pahalı bir Turgot Paris haritası bulundu. Şaşırtıcı bir şekilde, Salan da Mugler’e aynısından bir haritayı avans olarak vermişti. Bu teminat, tüm işverenlerden alınacak kararlaştırılmış ücrete ek olarak verilmişti.
+$FAB_004_DOC_1_03
+Zencefilli Margot Hanı'nın sahibinden de ilginç bilgiler edindik. Han sahibi, hırsızlıktan önceki gece çilingirin tanımadığı bir adamla buluştuğunu hatırladı. Tarifine dayanarak, bu kişinin adı geçen Hector Vian olduğunu tespit ettik. İddiaya göre, iki adam <a name="7" class="hidden">akşam boyunca içki içmiş</a> ve masrafları Mugler karşılamış.
+$FAB_004_DOC_1_04
+Delil:
+$FAB_004_DOC_1_05
+<a name="8" class="hidden">Paris haritası</a>, Hector Vian'ın üzerinde bulundu.
+$FAB_004_OnStart_00
+Burjuvaziyi soymak suç değildir!
+$FAB_004_OnStart_01
+Dosyadaki bilgilere göre siz Yurttaş Olivier Mugler’siniz. Doğru mu?
+$FAB_004_OnStart_02
+Evet, benim, sayın yargıç. Bir ricada bulunabilir miyim? Oturmak isterim. Gördüğünüz gibi yaşlı bir adamım...
+$FAB_004_OnStart_03
+Yargıya temel saygı, ayakta durmanızı gerektirir. Salan, Rude ve Roux isimleri size bir şey ifade ediyor mu?
+$FAB_004_OnStart_04
+Neden yaşlı bir adamı bu kadar rahatsız etmeye kararlısınız?
+$FAB_004_OnStart_05
+Bunlar borçlularımın isimlerine benziyor.
+$FAB_004_OnStart_06
+Borçlular mı? Onlar, sizin yürüttüğünüz faaliyetlerin kurbanı.
+$FAB_004_OnStart_07
+Kilitçilikten mi bahsediyorsunuz?
+$FAB_004_OnPrison_00
+Vatandaş Mugler’i hapis cezasına çarptırıyorum! Mahkûmu götürün.
+$FAB_004_OnPrison_01
+İnanılır gibi değil!
+$FAB_004_OnPrison_02
+Bunu masum bir adama nasıl yaparsınız?
+$FAB_004_OnPrison_03
+İpuçlarımız var, sağlam kanıtlarımız… ve en azından yargıç için uygun bir hükmümüz. Ama suçluluğundan gerçekten emin misin?
+$FAB_004_OnNotGuilty_00
+Vatandaş Olivier Mugler hakkında verilen karar… suçsuz! Sanığı götürün.
+$FAB_004_OnNotGuilty_01
+Bravo, Mugler!
+$FAB_004_OnNotGuilty_02
+Burjuvazi defolsun!
+$FAB_004_OnNotGuilty_03
+Açıkçası, bunda toplumsal adaletin izleri var – ona ödeme yapmadılar, o da onları soydurdu. Burada bir denge var.
+$FAB_004_02x05_00_QTitle
+Mağdurlar sizden sandık kilitleri yapmanızı istemiş...
+$FAB_004_02x05_00_00
+Kurbanlar sizden sandık kilitleri yapmanızı istemiş. Peki, onları kim taktı?
+$FAB_004_02x05_00_01
+Elbette, işi ben yaptım, hem de sözleşmeye tamamen uygun şekilde. Benim görevim kilitleri hazırlayıp takmaktı, işvereninse gelip işin bitip bitmediğine bakması gerekiyordu. Ve tabii ki ödemesini yapmak.
+$FAB_004_02x05_00_02
+Kurulum atölyenizde mi gerçekleştirildi?
+$FAB_004_02x05_00_03
+Hayır, müşterinin yerinde, onların mülkünde. O aylakların hiçbiri sandıkları atölyeme getirmeye zahmet etmedi, ben de yaşlı bacaklarımı zorlamak zorunda kaldım.
+$FAB_004_02x05_00_04
+Yani, kurbanların adreslerini biliyor muydunuz?
+$FAB_004_02x05_00_05
+Başka nasıl giderdim ki? Gözlerim bağlı, bir arabada mı?
+$FAB_004_04x07_01_QTitle
+Hector Vian’ı önceden tanıyor muydunuz?
+$FAB_004_04x07_01_00
+Hector Vian’ı önceden tanıyor muydunuz?
+$FAB_004_04x07_01_01
+Bu ismi ilk kez duyuyorum.
+$FAB_004_04x07_01_02
+Bu ilginç, çünkü sizi Ginger Margot Hanı’nda birlikte birkaç şişe şarap içerken görenler olmuş.
+$FAB_004_04x07_01_03
+Bu artık suç mu sayılıyor?
+$FAB_004_04x07_01_04
+Hayır, ama asıl soru şu: Neden şimdi inkâr ediyorsunuz? İçki âleminiz, soygunu konuşmak için bir bahane miydi?
+$FAB_004_04x07_01_05
+Beraber içtiğim kimse kendini Hector olarak tanıtmadı. Ne Hector’la, ne Victor’la, ne de Hugo’yla bir soygun planlamadım. Ben bir çilingirim ve işimden iyi para kazanırım. Hırsızlık, işi gücü olmayan serserilerin işidir.
+$FAB_004_06x08_02_QTitle
+Bu haritayı tanıyor musunuz?
+$FAB_004_06x08_02_00
+Bu haritayı tanıyor musunuz?
+$FAB_004_06x08_02_01
+Hayır. Daha önce gördüğümü hatırlamıyorum.
+$FAB_004_06x08_02_02
+Ferdinand Salan, bu haritayı size hizmetlerinizin peşinatı olarak verdiğini iddia ediyor.
+$FAB_004_06x08_02_03
+Ne diyor?! O aşağılık, ikinci sınıf tüccar! Üç kilit yaptırdım, karşılığında bana bir kağıt parçası verdi, sonra da bunun bana borçlu olduğu üç bin franktan daha değerli olduğunu söylüyor?!
+$FAB_004_06x08_02_04
+Dürüst bir emekçi yargılanıyor, sahtekârlar ise hâlâ dışarıda geziyor!
+$FAB_004_06x08_02_05
+Sessizlik! Demek bu harita size ait?
+$FAB_004_06x08_02_06
+Hayır, ait değil.
+$FAB_004_06x08_02_07
+Peki, Yurttaş Salan’dan aldığınız harita nerede?
+$FAB_004_06x08_02_08
+Onu kaybettim, ama bir somun ekmek bile etmezdi, bu yüzden arkasından gözyaşı dökecek değilim. Ama eğer sizdeyse, belki de benden çaldınız! Şunu not edin: Olivier Mugler, Rude, Roux ve Salan’dan tazminat talep ediyor!
+$FAB_004_05x08_03_QTitle
+Üç kurbanın adreslerini haritada işaretleyen siz miydiniz?
+$FAB_004_05x08_03_00
+Üç kurbanın adreslerini haritada işaretleyen siz miydiniz?
+$FAB_004_05x08_03_01
+Hiçbir şeyi işaretlemedim.
+$FAB_004_05x08_03_02
+Müvekkillerinizin evleri haritada işaretlenmiştir.
+$FAB_004_05x08_03_03
+Kim işaretledi, bilmiyorum. Haritayı bulduğunuz kişiye sorsanız daha iyi olur.
+$FAB_004_05x08_03_04
+Belki de mahkeme işaretleri koydu ve bunu yaptığını hatırlamıyor?
+$FAB_004_05x08_03_05
+Hikayenizde fazla tesadüf yok mu sizce? Haritayı alıyorsunuz, sonra kaybediyorsunuz, ardından da müşterilerinizi soyan hırsızın üzerinde bulunuyor.
+$FAB_004_05x08_03_06
+Tesadüflerden anlamam. Ben sadece kilit yaparım.
+$FAB_004_01x02_04_QTitle
+Hizmetleriniz için ne kadar ücret talep ettiniz?
+$FAB_004_01x02_04_00
+Hizmetleriniz için ne kadar ücret talep ettiniz?
+$FAB_004_01x02_04_01
+3.000 frank.
+$FAB_004_01x02_04_02
+Hatırı sayılır bir meblağ bu...
+$FAB_004_01x02_04_03
+Sen de usta bir çilingir olsan, o kadar ücret alırdın.
+$FAB_004_01x02_04_04
+Bu oldukça yüklü bir ücret...
+$FAB_004_01x02_04_05
+Evet. Neredeyse elli yıllık ustalığı olan birinin yaptığı kaliteli kilitlerin bedeli bu kadar olur. Ama o alçaklar bana tek bir frank bile ödemedi!
+$FAB_004_01x02_04_06
+Mağdurlar size anlaşılan ücreti ödemedi mi?
+$FAB_004_01x02_04_07
+Bir kuruş yok. O parayı zorla alırdım ama artık buna yaşım yetmiyor.
+$FAB_004_04x06_05_QTitle
+Haritayı Hector Vian’a siz mi verdiniz…?
+$FAB_004_04x06_05_00
+Kurbanların evlerinin işaretli olduğu haritayı Hector Vian'a siz mi verdiniz?
+$FAB_004_04x06_05_01
+Ne Akhilleus’a, ne Hektor’a, ne de başka bir Yunan’a hiçbir şey vermedim.
+$FAB_004_04x06_05_02
+Tanık olarak Yurttaş Jean Rude’u çağırın.
+$FAB_004_04x06_05_04
+Jean Rude, bizzat kendisi.
+$FAB_004_04x06_05_05
+Söz hakkı verilmedikçe konuşmayacaksınız.
+$FAB_004_04x06_05_06
+Elbette, tabii ki.
+$FAB_004_01x03_06_QTitle
+Söylentilere göre Paris’in en iyi çilingirlerinden biri sizmişsiniz.
+$FAB_004_01x03_06_00
+Söylentilere göre Paris’in en iyi çilingirlerinden biri sizsiniz.
+$FAB_004_01x03_06_01
+Alçakgönüllülük adına inkâr etmem gerekirdi, ama etmeyeceğim.
+$FAB_004_01x03_06_02
+Ama bu doğru olamaz, çünkü Orléans’tan rastgele bir hırsız bile kilitlerinizi kolayca açabildi.
+$FAB_004_01x03_06_03
+O halde Orleans’ın en iyi hırsızlarından biri olmalı. Ciddiyetle söylüyorum, sayın yargıç, doğru yeteneklerle her kilit açılır, benimkiler bile.
+$FAB_004_02x04_07_QTitle
+Hector Vian’a nasıl açılacağını siz mi söylediniz…?
+$FAB_004_02x04_07_00
+Mağdurların sandıklarının kilitlerini nasıl açacağını Hector Vian’a siz mi söylediniz?
+$FAB_004_02x04_07_01
+Ne demek istediğinizi anlıyorum, ama şunu düşünün: Eğer kilitlerimin sırrını satmış olsaydı, işim biterdi. Hırsızlar arasında böyle şeyler çabuk yayılır.
+$FAB_004_WIT_00_A_QTitle
+Soygun sırasında ne kayboldu?
+$FAB_004_WIT_00_A_00
+Soygun sırasında ne kayboldu?
+$FAB_004_WIT_00_A_01
+Evime ilk kez hırsız girdi, üstelik bende çalınanlar çoğunlukla değerli eşyalardı. Roux’nun evinde ise – kendisi bunu söylemez, ben de hapse girmek istemem – yıllar boyunca Kral Louis ile yaptığı yazışmalardan kalan mektuplar çalındı…
+$FAB_004_WIT_00_A_02
+Lanet olası monarşist!
+$FAB_004_WIT_00_A_03
+Salan hiçbir şey kaybetmedi, o pisliği suçüstü yakalayıp vurmuş. Bana böyle söyledi.
+$FAB_004_WIT_00_A_04
+Çaldığı eşyalar ne oldu?
+$FAB_004_WIT_00_A_05
+Bu hâlâ bilinmiyor. Salan’a göre Hector’un yanında hiçbir şey yokmuş. Ferdinand ise diğer değerli eşyaları bir yere sakladığından şüpheleniyor.
+$FAB_004_WIT_00_A_06
+Son evi soymadan önce diğer eşyaları mı saklamış? Garip.
+$FAB_004_WIT_01_A_QTitle
+Endişeli görünüyorsun. Neyden korkuyorsun?
+$FAB_004_WIT_01_A_00
+Endişeli görünüyorsun. Neyden korkuyorsun?
+$FAB_004_WIT_01_A_01
+Bay yargıç, arkamdaki kalabalık ve, bilirsiniz…
+$FAB_004_WIT_01_A_02
+Biliyor musun?
+$FAB_004_WIT_01_A_03
+Hapishaneye gitmek istemiyorum ve Salan, mahkemede saçma sapan konuşursam birkaç yıl ceza alacağımı söyledi. Bu doğru mu?
+$FAB_004_WIT_01_A_04
+Vatandaş Ferdinand Salan size ne söyleyeceğinizi mi öğütledi?
+$FAB_004_WIT_01_A_05
+Hayır. Yani, başını belaya sokmamak için saçma sapan konuşmaktan kaçınmanın yolları hakkında birkaç öneri verebilirdi. Oldukça gergin biriyim ve bazen söylediklerim pek mantıklı olmuyor.
+$FAB_004_WIT_01_A_07
+Bir tanıktan çok bir soytarı. İşte bizim burjuvazimiz.
+$FAB_004_WIT_01_B_QTitle
+Bir harita şeklinde verilen avans, haritanın kayboluşu, bir hırsızın öldürülmesi ve hizmet bedelinin ödenmemesi.
+$FAB_004_WIT_01_B_00
+Bir harita şeklinde verilen avans, haritanın kayboluşu, bir hırsızın öldürülmesi ve hizmet bedelinin ödenmemesi... Bütün bunlar oldukça tuhaf bir hikâye oluşturuyor. Hem de fazlasıyla şüpheli bir hikâye.
+$FAB_004_WIT_01_B_01
+Ben yapmam...
+$FAB_004_WIT_01_B_02
+Ne mırıldanıyorsun?
+$FAB_004_WIT_01_B_03
+Eğer… bir şey söylersem… serbest kalacak mıyım?
+$FAB_004_WIT_01_B_04
+Bir şey biliyor!
+$FAB_004_WIT_01_B_05
+Lütfen bildiklerinizi derhal anlatın!
+$FAB_004_WIT_01_B_06
+O harita Salan’ın fikriydi. Hırsıza, çilingire verdiğimiz avans ödemesinden bahsetti ve Hector’a onu çalmasını teklif etti.
+$FAB_004_WIT_01_B_07
+Yaptı mı gerçekten?
+$FAB_004_WIT_01_B_08
+Evet, ama sonra o alçak bizi soydu! Sonra Salan, hırsızı üstümüze saldığı için çilingire ödeme yapmamızı yasakladı. İşte o zaman her şey berbat oldu.
+$FAB_004_WIT_01_B_09
+İşte burjuvazi böyle olur! Hepsini bir hamlede kandırdı.
+$FAB_004_WIT_01_B_10
+Görünüşe göre Yurttaş Salan her şeyi önceden planlamış. Ancak bu iddiayı destekleyecek bir kanıt yok. Belki de asıl plan yapan, ortağını suçlu göstermek isteyen Yurttaş Rude'dur?
+$FAB_004_WIT_01_B_11
+Vian da öldü, bu yüzden hiçbirine açıklık getiremeyecek.
+$FAB_004_WIT_01_B_13
+Genç olsaydım, o Salan’ı bir güzel döverdim. O domuz, o işe yaramaz, yalancı herif!
+$FAB_004_WIT_01_B_14
+Lütfen kendinizi tutun. Bir tanığın ifadesi, ne Yurttaş Salan’ın suçluluğuna ne de sizin masumiyetinize kanıt teşkil eder.
+$FAB_004_KEY_01
+Usta çilingir
+$FAB_004_KEY_02
+Kilit yapımı
+$FAB_004_KEY_03
+Bir dizi soygun
+$FAB_004_KEY_04
+Ünlü hırsız
+$FAB_004_KEY_05
+Haritadaki işaretler
+$FAB_004_KEY_06
+Peşin ödeme
+$FAB_004_KEY_07
+Sarhoş akşam
+$FAB_004_KEY_08
+Paris Haritası
+$FAB_004_postCourt_00
+Bak, Turgot’un gerçek bir haritası. Kasada çürüyüp gitmesi yazık olur…
+$FAB_004_postCourt_01
+Bunu yapamayız.
+$FAB_004_postCourt_02
+Bunlar mahkeme emanetleridir.
+$FAB_004_postCourt_03
+Aslında, Mathilde bana çok önce evdeki çalışma odamla ilgilenmemi söylemişti…
+$FAB_004_postCourt_04
+İşte böyle. Bu işaretleri haritaya zarar vermeden silebilecek birini tanıyorum.

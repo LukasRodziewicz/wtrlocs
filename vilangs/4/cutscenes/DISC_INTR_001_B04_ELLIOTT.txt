@@ -1,0 +1,42 @@
+$DISC_INTR_001_B04_ELLIOTT_001_JUDGE_AGGR
+Roland ist ein elender Blutsauger. Korruption darf nicht das Markenzeichen der neuen Obrigkeit werden.
+$DISC_INTR_001_B04_ELLIOTT_002_JUDGE_MANI
+Vertritt Roland wirklich das Volk? Oder arbeitet er vielmehr zum Vorteil von Capet und seinen Dienern?
+$DISC_INTR_001_B04_ELLIOTT_003_JUDGE_JOKE
+Wir müssen Roland loswerden, zu seinem eigenen Wohl. Bald platzen seine Taschen vor lauter Geld, das er darin hortet.
+$DISC_INTR_001_B04_ELLIOTT_004_JUDGE_HUMI
+Frankreich blutet, und Menschen wie Roland lassen seine Wunden nicht heilen. Im Gegenteil, sie reißen sie nur noch weiter auf.
+$DISC_INTR_001_B04_ELLIOTT_005_ELLIOTT_INTR
+Wer hätte gedacht, dass Sie sich so schnell vom Lamm zum Wolf wandeln und verletzte Beute so instinktiv wittern würden?
+$DISC_INTR_001_B04_ELLIOTT_006_ELLIOTT_DOUB
+Wir kennen die Rolands gut. Madame Roland hat das Sagen, ihr Mann führt nur ihre Befehle aus. Vielleicht ist er gar nicht der Schuldige?
+$DISC_INTR_001_B04_ELLIOTT_007_ELLIOTT_IRRI
+Ich habe in dieser Stadt vor allem deshalb überlebt, weil ich mich nicht an den schmutzigen Spielen der Männer beteiligt habe.
+$DISC_INTR_001_B04_ELLIOTT_008_JUDGE_AGGR
+Roland ist nicht nur der Bestechung schuldig. Er hat einem Richter des Revolutionstribunals gedroht. Der unabhängigen Justiz selbst!
+$DISC_INTR_001_B04_ELLIOTT_009_JUDGE_MANI
+Um der Strafe zu entgehen, hat Roland einen Rachefeldzug gegen mich begonnen. Hat er damit nicht dem neuen Ordnung den Krieg erklärt?
+$DISC_INTR_001_B04_ELLIOTT_010_JUDGE_JOKE
+Herr und Frau Roland sind wie zwei Mücken – sie stechen mich, saugen das Blut Frankreichs. Niemand mag Mücken.
+$DISC_INTR_001_B04_ELLIOTT_011_JUDGE_HUMI
+Meine persönliche Abneigung gegen den Minister ändert nichts an der Tatsache, dass wir diesen korrupten Royalisten durch jemanden Gerechteren ersetzen sollten.
+$DISC_INTR_001_B04_ELLIOTT_012_JUDGE_AGGR
+Wenn Sie die Abgeordneten nicht überzeugen, wird das als Beweis gelten, dass Sie die Verräter dulden, die noch immer ihren Einfluss in ganz Frankreich ausüben!
+$DISC_INTR_001_B04_ELLIOTT_013_JUDGE_MANI
+Wenn die Abgeordneten merken, dass Sie Roland loswerden wollen, hören sie vielleicht auf, Sie für eine Royalistin zu halten?
+$DISC_INTR_001_B04_ELLIOTT_014_JUDGE_JOKE
+Die Girondisten stolpern oft von selbst. Man muss ihnen nur einen kleinen Schubs geben.
+$DISC_INTR_001_B04_ELLIOTT_015_JUDGE_HUMI
+Manchmal steht Roland dem Ancien Régime näher als Louis selbst. Wenn Sie das alte System loswerden wollen, ist jetzt Ihre Gelegenheit.
+$DISC_INTR_001_B04_ELLIOTT_016_ELLIOTT_INTR
+Anfangs war ich mir nicht sicher, ob ich wirklich gegen Minister Roland vorgehen sollte, aber ich muss zugeben, Sie haben mich überzeugt. Das kann funktionieren, und ich werde Ihnen helfen.
+$DISC_INTR_001_B04_ELLIOTT_017_ELLIOTT_DOUB
+Weder ich noch meine Freunde würden von einem Versuch profitieren, den Innenminister abzusetzen.
+$DISC_INTR_001_B04_ELLIOTT_018_ELLIOTT_IRRI
+Roland ist nicht Frankreichs größtes Problem, sondern die hungrigen Bürger!
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_01
+Was wollen wir erreichen?
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_02
+Warum wollen wir das?
+$DISC_INTR_001_B04_ELLIOTT_TOPIC_03
+Was wird sie davon haben?

@@ -1,0 +1,246 @@
+$GEN_037_DOC_01_HEADER
+Compilé par : Charles Étienne
+$GEN_037_DOC_01_00
+Ces deux dernières semaines, trois femmes locataires du <a name="1" class="hidden">même immeuble</a>, Blandine Couturier, Abelone Macé et Eugénie Marais, sont mortes. Leur décès tragique a été précédé par les mêmes symptômes terrifiants : vomissements sanglants, convulsions, maux de tête et douleurs musculaires atroces. Les voisins se sont plaints de n'avoir pu dormir pendant plusieurs nuits à cause de leurs cris.
+$GEN_037_DOC_01_01
+Les maris des victimes ont découvert a posteriori que leurs femmes étaient toutes clientes d'une certaine Marie-Laure Thébault, qui habite l'immeuble d'en face. Ils ont trouvé dans leurs affaires les mêmes <a name="3" class="hidden">poudriers, pots de rouge à lèvres</a> et autres produits cosmétiques douteux achetés à Thébault. Jean Macé les a remis à la Garde nationale avec une déposition de la veuve Thébault, qu'il accuse de <a name="4" class="hidden">sorcellerie</a>.
+$GEN_037_DOC_01_02
+Cette vieille femme est connue dans le voisinage pour sa débrouillardise. Âgée de 74 ans, elle gagne encore sa vie en vendant des fards, rouges et autres mixtures censées rehausser la beauté féminine. Bien qu'elle quitte rarement son logis, <a name="6" class="hidden">ses clientes recommandent ses produits</a> à leurs amies qui lui rendent ensuite visite personnellement.
+$GEN_037_DOC_01_03
+Trois soldats ont arrêté la vieille femme, qui n'a pas protesté. Étant <a name="7" class="hidden">presque aveugle</a>, elle n'a pas réalisé qu'elle parlait à des membres de la Garde nationale. Ce n'est que lorsque les hommes l'ont fait sortir de chez elle qu'elle a cessé de leur demander quels produits ils voulaient acheter.
+$GEN_037_DOC_01_04
+Les soldats ont informé les enquêteurs de l'existence de pots inquiétants remplis de sang et d'os sur les étagères.
+$GEN_037_DOC_02_00
+<a name="9" class="hidden">Dénonciation de Jean Macé</a> :
+$GEN_037_DOC_02_01
+	En tant qu'honnête citoyen respectueux de la Révolution, j'ai jugé qu'il était de mon devoir d'informer que la Thébault, une veuve qui vit dans notre quartier, pratique la sorcellerie. Trois habitantes travailleuses de la ville de Paris sont mortes dans d'atroces souffrances à cause des sorts et des potions de cette femme. Tous les voisins savent que ce sont ses diableries qui ont provoqué ça.
+	
+Jean Macé
+$GEN_037_DOC_1_TOOLTIP
+Dénonciation de Jean Macé
+$GEN_037_OnStart_00
+Je ne suis pas du genre à croire à la sorcellerie, mais ces morts ne me semblent pas naturelles.
+$GEN_037_OnStart_01
+Es-tu Marie-Laure Thébault ?
+$GEN_037_OnStart_02
+Oui, mon enfant.
+$GEN_037_OnStart_03
+Vis-tu seule ?
+$GEN_037_OnStart_04
+Mon mari n'est jamais rentré de la guerre de 1762. Le roi l'avait envoyé au Portugal, où il…
+$GEN_037_OnStart_05
+Es-tu impliquée dans les morts de Blandine Couturier, Abelone Macé et Eugénie Marais?
+$GEN_037_OnStart_06
+Je ne ferais jamais de mal à des femmes si bonnes.
+$GEN_037_OnStart_07
+Et pourtant, elles faisaient toutes partie de tes clientes et elles sont toutes mortes.
+$GEN_037_OnStart_08
+Elle les a empoisonnées, comme elle nous empoisonne tous.
+$GEN_037_OnGuilty_00
+Pour avoir causé une mort atroce à trois femmes innocentes, je condamne la citoyenne Marie-Laure Thébault à être guillotinée !
+$GEN_037_OnGuilty_01
+Merci pour cette juste sentence.
+$GEN_037_OnGuilty_02
+On viendra voir ta tête rouler sur le pavé ! 
+$GEN_037_OnGuilty_03
+Ils devraient la recouvrir de ses potions et la laisser mourir de douleur.
+$GEN_037_OnPrison_00
+Marie-Laure Thébault, tu passeras le reste de votre vie en prison !
+$GEN_037_OnPrison_01
+Ce n'est pas comme s'il lui restait longtemps à vivre.
+$GEN_037_OnPrison_02
+Cette sorcière le mérite !
+$GEN_037_OnNotGuilty_00
+Marie-Laure Thébault, au nom du tribunal, je te déclare non coupable des crimes dont tu es accusée. Laissez-moi aussi souligner que des citoyens de la ville des lumières ne devraient pas s'abaisser à accuser leurs voisins de sorcellerie.
+$GEN_037_OnNotGuilty_01
+Ce n'est peut-être pas une sorcière, mais il est clair qu'elle a empoisonné ces trois femmes.
+$GEN_037_OnNotGuilty_02
+J'aurais pu parier que c'était une sorcière !
+$GEN_037_02x06_00_QTitle
+As-tu beaucoup de clientes ?
+$GEN_037_02x06_00_00
+As-tu beaucoup de clientes ?
+$GEN_037_02x06_00_01
+Pas à ce moment même, mon enfant. Les gardes refusent de les laisser rentrer dans ma cellule.
+$GEN_037_02x06_00_02
+Cesse de te moquer de la Cour. Est-ce que de nombreuses femmes achètent tes produits ?
+$GEN_037_02x06_00_03
+Si ce n'était pas le cas, je mourrais de faim. De nombreuses femmes me rendent visite.
+$GEN_037_02x06_00_04
+Se sont-elles déjà plaintes de tes produits ?
+$GEN_037_02x06_00_05
+Jamais, mon enfant. Elles reviennent toujours en acheter et dépenser chez moi leur argent durement gagné.
+$GEN_037_02x06_00_06
+Toutes sont-elles vraiment revenues ?
+$GEN_037_02x06_00_07
+Eh bien, certaines oui, certaines non.
+$GEN_037_02x06_00_08
+Je parie que certaines sont simplement mortes et personne n'a su dire pourquoi.
+$GEN_037_02x06_00_09
+Elle l'a mérité !
+$GEN_037_01x03_01_QTitle
+Qu'as-tu vendu aux citoyennes Couturier, Macé et Marais ?
+$GEN_037_01x03_01_00
+Qu'as-tu vendu aux citoyennes Couturier, Macé et Marais ?
+$GEN_037_01x03_01_01
+Un peu de tout. Je ne me souviens pas en détail.
+$GEN_037_01x03_01_02
+Si tu veux quitter ta cellule, je te conseille de t'en souvenir.
+$GEN_037_01x03_01_03
+Je suis certaine qu'elles ont acheté de la poudre. Toutes les femmes en achètent pour être aussi pâles que des comtesses.
+$GEN_037_01x03_01_04
+De nombreuses femmes en achètent ?
+$GEN_037_01x03_01_05
+Depuis toutes ces années, sans doute des centaines. Je me suis presque usé les mains à en fabriquer.
+$GEN_037_01x03_01_06
+Dieu tout puissant. Nous avons de la chance qu'ils l'aient arrêtée.
+$GEN_037_08x04_02_QTitle
+Comment fais-tu exactement pour préparer vos cosmétiques ?
+$GEN_037_08x04_02_00
+Comment fais-tu exactement pour préparer vos cosmétiques ?
+$GEN_037_08x04_02_01
+Oh, eh bien, comme ci comme ça. Grand-mère m'a laissé un gros cahier plein de recettes. Malheureusement, je peux de moins en moins lire. Je n'ai pas lu depuis 15 ans, je crois. Mes yeux ne sont plus ce qu'ils étaient.
+$GEN_037_08x04_02_02
+Alors comment fais-tu pour préparer tes produits ?
+$GEN_037_08x04_02_03
+Je me souviens de tout ce qui est marqué dedans, pas besoin de lire.
+$GEN_037_08x04_02_04
+Dois-je me répéter ? Je t'ai demandé comment tu fais exactement pour préparer tes cosmétiques.
+$GEN_037_08x04_02_05
+Je vais tout te dire, comme à confesse. La poudre est assez facile, il faut mélanger du blanc de plomb avec de la craie. Le plomb est bon pour la peau, il purifie. Il faut de la force pour l'écraser, mais j'arrive encore à le faire. J'ai l'habitude, j'ai travaillé toute ma vie.
+$GEN_037_08x04_02_06
+Au fait, je te prie.
+$GEN_037_08x04_02_07
+Le rouge à lèvres est un mélange de cire et de carmin avec une goutte d'alcool. Les femmes qui l'utilisent ont des lèvres si magnifiquement rouges. Le pigment n'est pas facile à faire, mais j'ai mes petits secrets. On peut faire cuire un lézard ou utiliser le sang d'un hérisson, d'un rat ou d'une chauve-souris. On peut aussi ajouter une pincée de soufre pour rendre la couleur plus durable.
+$GEN_037_08x04_02_08
+Du sang de chauve-souris et du soufre ? Ce ne sont pas des cosmétiques, mais des potions démoniaques !
+$GEN_037_07x05_03_QTitle
+Les soldats ont rapporté que tu n'as pas reconnu leur uniforme.
+$GEN_037_07x05_03_00
+Les soldats ont rapporté que tu n'as pas reconnu leur uniforme.
+$GEN_037_07x05_03_01
+Mon enfant, je peux à peine te voir.
+$GEN_037_07x05_03_02
+Comment prépares-tu tes cosmétiques, alors, si tu ne vois pas ce que tu fais ?
+$GEN_037_07x05_03_03
+Je connais les recettes par cœur et reconnais les ingrédients au toucher.
+$GEN_037_07x05_03_04
+Et aucune de tes clientes ne s'est jamais plainte d'une poudre qui lui faisait les joues rouges ?
+$GEN_037_07x05_03_05
+Si cela arrivait, elles iraient ailleurs et je ne gagnerais plus rien.
+$GEN_037_07x05_03_06
+Que se passerait-il si tu ajoutais trop d'un ingrédient ?
+$GEN_037_07x05_03_07
+Je suppose que parfois j'en mets plus que je ne le devrais. Ce n'est pas grave, je ne suis pas avare. Je ne vole pas mes chères clientes, même si les ingrédients ne sont pas donnés.
+$GEN_037_02x04_04_QTitle
+Les maris des défuntes t'accusent de sorcellerie. Est-ce vrai ?
+$GEN_037_02x04_04_00
+Les maris des défuntes t'accusent de sorcellerie. Est-ce vrai ?
+$GEN_037_02x04_04_01
+Je peux me signer devant toi, si tu veux !
+$GEN_037_02x04_04_02
+Nous nous passerons de superstitions.
+$GEN_037_02x04_04_03
+Va voir les murs de mon appartement : juste au-dessus de la table où se trouvent mes mortiers, il y a une croix. Pendant le règne du roi Louis…
+$GEN_037_02x04_04_04
+Choisis tes mots avec soin, citoyenne.
+$GEN_037_02x04_04_05
+Je ne dirai plus rien.
+$GEN_037_02x04_04_06
+Non, continue. Es-tu monarchiste, citoyenne ?
+$GEN_037_02x04_04_07
+Ce fichu roi a envoyé mon cher mari à la mort pour ses guerres. Mais maintenant, on envoie aussi les hommes à la guerre. Vous vous valez tous.
+$GEN_037_02x04_04_08
+Cette vieille bique ne sait pas de quoi elle parle.
+$GEN_037_04x09_05_QTitle
+Faites venir à la barre le témoin, Jean Macé.
+$GEN_037_04x09_05_00
+Faites venir à la barre le témoin, Jean Macé.
+$GEN_037_04x09_05_02
+Jean Macé, mari de la défunte Abelone Macé, Monsieur le juge.
+$GEN_037_WIT_00_A_QTitle
+Est-ce que ta femme était cliente de la veuve Thébault ?
+$GEN_037_WIT_00_A_00
+Est-ce que ta femme était cliente de la veuve Thébault ?
+$GEN_037_WIT_00_A_01
+Oui, je lui donnais même de l'argent pour lui acheter des choses. Elle disait que sans sa poudre, elle se sentait comme une paysanne et n'osait pas quitter la maison.
+$GEN_037_WIT_00_A_02
+Qu'est-ce qui te fait dire que ta femme a été maudite ?
+$GEN_037_WIT_00_A_03
+Nos femmes étaient en bonne santé. Elles avaient toutes accouché sans l'aide d'un médecin. Elles étaient fortes et travailleuses. Ce ne peut être que de la sorcellerie.
+$GEN_037_WIT_00_A_04
+Ta femme ne se plaignait donc pas de problèmes de santé ?
+$GEN_037_WIT_00_A_05
+Eh bien, elle avait des jours plus difficiles que d'autres, comme nous tous, mais elle ne s'est jamais plainte de quelque chose de grave !
+$GEN_037_WIT_00_A_06
+Les problèmes ont commencé quand elle s'est mise à utiliser les cosmétiques de la veuve, n'est-ce pas ?
+$GEN_037_WIT_00_A_07
+Qu'est-ce que j'en sais ? Quand elle…
+$GEN_037_WIT_00_A_08
+Concentre-toi.
+$GEN_037_WIT_00_A_09
+Oui, c'est ça. Je m'en souviens maintenant. Tout ça a commencé quand elle a acheté ces flacons.
+$GEN_037_WIT_01_A_QTitle
+Peux-tu expliquer plus en détail ces diableries ?
+$GEN_037_WIT_01_A_00
+Peux-tu expliquer plus en détail ces diableries ?
+$GEN_037_WIT_01_A_01
+Ça sentait le soufre dans l'arrière-cour, tout le monde vous le dira, et un enfant a vu la veuve Thébault, armée d'un bâton, chasser des rats dans la cave pour les vider de leur sang.
+$GEN_037_WIT_01_A_02
+L'as-tu vue de tes yeux ?
+$GEN_037_WIT_01_A_03
+Non, pas moi. Je travaille à l'usine toute la journée, à construire des véhicules. Je travaille dur. Imagine si je ne fabrique pas bien une pièce et que le véhicule s'effondre ? Mais mes voisins ont tout vu.
+$GEN_037_WIT_01_B_QTitle
+Ta femme s'était-elle plainte de douleurs auparavant ?
+$GEN_037_WIT_01_B_00
+Ta femme s'était-elle plainte de douleurs auparavant ?
+$GEN_037_WIT_01_B_01
+Elle a dit qu'elle avait des maux de tête... depuis un mois ou deux, je crois. Parfois, elle n'avait pas faim, mais ce n'est rien. Souvent, moi non plus je n'ai pas d'appétit après une dure journée.
+$GEN_037_WIT_01_B_02
+Dirais-tu que ta femme était en bonne santé malgré ces problèmes ?
+$GEN_037_WIT_01_B_03
+Elle avait une santé de fer. La veille du jour où tout a commencé, elle a même essayé de m'emmener à un bal. Mon Abelone adorait danser, mais je lui disais toujours : « Pas aujourd'hui, on ira la semaine prochaine, je ne sens plus mes jambes. » J'aurais dû… J'aurais dû accepter.
+$GEN_037_KEY_01
+Voisins
+$GEN_037_KEY_02
+Mort lente et douloureuse
+$GEN_037_KEY_03
+Cosmétiques
+$GEN_037_KEY_04
+Sorcellerie
+$GEN_037_KEY_05
+Grand âge
+$GEN_037_KEY_06
+Produits populaires
+$GEN_037_KEY_07
+Mauvaise vue
+$GEN_037_KEY_08
+Sang et os
+$GEN_037_KEY_09
+Dénonciation de Jean Macé
+$GEN_037_LastDialog_00
+Où m'emmenez-vous, mes enfants ?
+$GEN_037_UNIQUE_QUESTION_00
+Qu'achetaient les victimes à la prévenue ?
+$GEN_037_UNIQUE_ANSWER_CORRECT_00_00
+De la poudre.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Des parfums.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Du savon.
+$GEN_037_UNIQUE_QUESTION_01
+Comment la prévenue s'est-elle conduite au cours de son arrestation ?
+$GEN_037_UNIQUE_ANSWER_CORRECT_01_00
+Elle n'a pas reconnu les uniformes.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Elle a attaqué la Garde.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Elle était calme.
+$GEN_037_UNIQUE_QUESTION_02
+Selon le témoin, quelle est la cause de la mort de son épouse ?
+$GEN_037_UNIQUE_ANSWER_CORRECT_02_00
+De la sorcellerie.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Un empoisonnement.
+$GEN_037_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Une maladie.

@@ -1,0 +1,273 @@
+$GEN_016_DOC_01_HEADER
+Compilé par : Bruno Merieles
+$GEN_016_DOC_01_00
+Sur le banc des accusés se trouve Hélène Gignac, une lavandière de 55 ans originaire de Paris. C'est une femme et une mère de famille exemplaire, <a name="1" class="hidden">très croyante</a>, encensée tant par ses voisins que par ses clients.
+$GEN_016_DOC_01_01
+Son <a name="2" class="hidden">époux</a>, un menuisier, est propriétaire de son atelier depuis des années. Le couple ne manque jamais de payer ses impôts.
+$GEN_016_DOC_01_02
+Les accusations ont été portées par Raymond Houllier, le propriétaire de l'apothicairerie où la prévenue fut arrêtée par les gendarmes pourtentative de vol. Gignac brisa la vitrine et essaya de pénétrer dans le magasin. Pour sa défense, elle déclara qu'elle était contrainte de le faire en raison de la pénurie de savon et des prix exorbitants des rares produits disponibles.
+$GEN_016_DOC_01_03
+Elle semblait <a name="4" class="hidden">désespérée</a>. À tel point qu'elle s'est taillée les mains avec les éclats de verre. On l'a retrouvée assise devant la vitrine, en pleurs. Les gendarmes ont pansé ses plaies, puis l'ont arrêtée pour vandalisme et tentative de vol. Nous la soupçonnons d'avoir voulu utiliser des produits volés à des fins <a name="5" class="hidden">spéculatives</a>, bien qu'il est vrai <a name="6" class="hidden">qu'aucun savon</a> n'a été retrouvé dans sa blanchisserie.
+$GEN_016_DOC_01_04
+Raymond Houllier prétend que Mme Gignac l'a agressé avec un morceau de verre alors qu'il arrivait à toute allure depuis son appartement, au-dessus du magasin. Nous ignorons les raisons qui l'auraient poussée à commettre un tel acte. Houllier la soupçonne d'avoir vandalisé son magasin, de l'avoir volé et agressé <a name="7" class="hidden">en guise de vengeance</a>, car il avait refusé de lui vendre à crédit un carton de savons.
+$GEN_016_DOC_01_05
+Pièce à conviction : 
+<a name="8" class="hidden">Morceau de verre maculé de sang</a>.
+$GEN_016_OnStart_00
+Mettez-vous à sa place, les temps sont durs !
+$GEN_016_OnStart_01
+Quel est ton nom, citoyenne ?
+$GEN_016_OnStart_02
+Hélène Gignac. Je suis une lavandière ordinaire qui veut seulement pouvoir faire son travail. Je n'ai jamais voulu blesser personne.
+$GEN_016_OnStart_03
+Elle ne ferait pas de mal à une mouche !
+$GEN_016_OnStart_04
+Je prendrai en compte uniquement les remarques figurant sur mon dossier, pas celles de l'assemblée.
+$GEN_016_OnGuilty_00
+Je condamne la citoyenne Hélène Gignac à être guillotinée.
+$GEN_016_OnGuilty_01
+C'est sévère mais juste.
+$GEN_016_OnGuilty_02
+C'est de la barbarie !
+$GEN_016_OnGuilty_03
+Comment pouvez-vous tuer une femme innocente ?!
+$GEN_016_OnGuilty_04
+Vous êtes des monstres !
+$GEN_016_OnPrison_00
+Je condamne la citoyenne Hélène Gignac à être emprisonnée. Emmenez-la !
+$GEN_016_OnPrison_01
+Ça lui montrera comment on résout des problèmes.
+$GEN_016_OnPrison_02
+Pauvre femme.
+$GEN_016_OnPrison_03
+Prions pour qu'elle survive en prison.
+$GEN_016_OnPrison_04
+La prison est remplie d'innocents !
+$GEN_016_OnNotGuilty_00
+Je déclare la citoyenne Hélène Gignac non coupable. Tu es libre.
+$GEN_016_OnNotGuilty_01
+Je comprends que tu compatisses avec le peuple, mais elle est coupable.
+$GEN_016_OnNotGuilty_02
+Hourra !
+$GEN_016_OnNotGuilty_03
+Enfin un juge charitable !
+$GEN_016_OnNotGuilty_04
+Il nous faut plus de juges comme lui !
+$GEN_016_01x03_00_QTitle
+J'ai cru comprendre que tu étais croyante.
+$GEN_016_01x03_00_00
+J'ai cru comprendre que tu étais croyante, mais je ne vois pas le lien entre ton acte et les Dix Commandements.
+$GEN_016_01x03_00_01
+Mon mari et moi arrivons à peine à joindre les deux bouts. J'ai demandé à M. Raymond de me faire crédit, mais il n'a pas voulu. Je voulais simplement pouvoir faire mon travail. Je lui ai dit que je le rembourserais.
+$GEN_016_01x03_00_02
+Le vol était donc la solution appropriée ?
+$GEN_016_01x03_00_03
+Non, mais mourir de faim non plus.
+$GEN_016_01x03_00_04
+Tu es en train de dire que tu mourrais si tu n'avais pas assez de savon ? Ton époux travaille, lui aussi.
+$GEN_016_01x03_00_05
+Il est menuisier et le bois se fait également très rare.
+$GEN_016_01x03_00_06
+Tu aurais pu changer de métier, demander de l'aide auprès de ta famille ou des autorités… mais tu as préféré voler ?
+$GEN_016_01x03_00_07
+Les autorités ne subviennent qu'à leurs besoins.
+$GEN_016_01x03_00_08
+Pourquoi ne changes-tu pas de métier ?!
+$GEN_016_01x04_01_QTitle
+Peux-tu justifier ton comportement ?
+$GEN_016_01x04_01_00
+Peux-tu justifier ton comportement ?
+$GEN_016_01x04_01_01
+Les clients viennent me voir, mais je ne peux pas travailler sans savon, alors ils vont ailleurs. La blanchisserie, c'est toute ma vie. J'ai déjà été très pauvre par le passé, mais la blanchisserie m'a permis de vivre dignement.
+$GEN_016_01x04_01_02
+Et cette agression relève de la dignité ?
+$GEN_016_01x04_01_03
+Je ne voulais pas que cela se produise.
+$GEN_016_01x04_01_04
+Tu voulais simplement voler ?
+$GEN_016_01x04_01_05
+Je voulais pouvoir acheter du pain.
+$GEN_016_01x04_01_06
+La Révolution aurait dû nous donner une vie meilleure !
+$GEN_016_01x04_01_07
+Ce n'est pas une excuse. Le patron du magasin veut aussi pouvoir acheter du pain.
+$GEN_016_01x04_01_08
+Je ne voulais pas lui dérober grand-chose. De plus, il s'en sort bien mieux que la plupart d'entre nous.
+$GEN_016_03x05_02_QTitle
+Es-tu au courant que, selon la loi, la spéculation est passible de la peine de mort ?
+$GEN_016_03x05_02_00
+Es-tu au courant que, selon la loi, la spéculation est passible de la peine de mort ?
+$GEN_016_03x05_02_01
+Oui, je sais bien, j'avais simplement besoin de savon pour...
+$GEN_016_03x05_02_02
+Pour le travail, oui. Néanmoins, dans ta situation, la spéculation t'aurait été bien plus avantageuse. Tu aurais pu vendre le savon volé à un prix bien supérieur. Tôt ou tard, tu aurais trouvé un acheteur.
+$GEN_016_03x05_02_03
+Le savon n'est pas si cher que cela.
+$GEN_016_03x05_02_04
+Ah bon ? Tu sais personnellement combien il est difficile de s'en procurer. Si tu étais prête à en voler, quelqu'un d'autre aurait été disposé à te payer pour ce produit.
+$GEN_016_03x05_02_05
+Où aurais-je trouvé cet acheteur ? Je ne connais personne. Vous avez déjà vu qu'il n'y avait rien chez moi. Cet homme en uniforme a bien vérifié tous les recoins.
+$GEN_016_03x05_02_06
+Ils spéculent eux-mêmes, ils ne connaissent pas notre situation !
+$GEN_016_03x06_03_QTitle
+Où achetais-tu ton savon auparavant ?
+$GEN_016_03x06_03_00
+Où achetais-tu ton savon auparavant ?
+$GEN_016_03x06_03_01
+Toujours au même endroit, à un entrepôt, dans le faubourg.
+$GEN_016_03x06_03_02
+Pas chez le citoyen Houllier ?
+$GEN_016_03x06_03_03
+L'entrepôt me proposait des prix bien plus intéressants. Mon mari et moi achetions systématiquement un carton entier, cela durait plus longtemps.
+$GEN_016_03x06_03_04
+Pourquoi n'es-tu pas allée à l'entrepôt cette fois-ci ?
+$GEN_016_03x06_03_05
+J'y suis allée, mais il n'y avait plus rien à vendre. J'étais censée faire quoi ? Et puis, au final, je n'ai rien volé…
+$GEN_016_03x06_03_06
+Parce que tu as été arrêtée à temps.
+$GEN_016_03x06_03_07
+Certes, mais le savon est intact. En quoi suis-je coupable ?
+$GEN_016_03x06_03_08
+Ce n'est pas ainsi que fonctionne la loi, citoyenne.
+$GEN_016_07x08_04_QTitle
+M. Houllier prétend que tu l'as agressé avec un morceau de verre. Est-ce la vérité ?
+$GEN_016_07x08_04_00
+M. Houllier prétend que tu l'as agressé avec un morceau de verre. Est-ce la vérité ?
+$GEN_016_07x08_04_01
+Je voulais lui demander de ne pas porter plainte. Je me suis précipitée vers lui, prête à le supplier, mais il m'a repoussée…
+$GEN_016_07x08_04_02
+Tu voulais le convaincre de ne pas porter plainte avec un morceau de verre dans la main ?
+$GEN_016_07x08_04_03
+Je n'ai pas réfléchi, c'est tout…
+$GEN_016_07x08_04_04
+En résumé, tu courais vers un individu, couverte de sang en brandissant un objet pointu ?
+$GEN_016_07x08_04_05
+On peut voir ça comme ça…
+$GEN_016_07x08_04_06
+Allez quoi, ce n'est qu'une vieille dame.
+$GEN_016_07x08_04_07
+M. Houllier prétend qu'il est question d'une tentative d'agression. Il a même laissé entendre qu'il pourrait s'agir d'une vengeance.
+$GEN_016_07x08_04_08
+Absolument pas ! Je ne me suis même pas rendu compte que je tenais un morceau de verre. J'étais sous le choc, et puis il y avait tellement de sang.
+$GEN_016_02x04_05_QTitle
+Qu'en est-il du soutien de ton époux ? N'a-t-il rien remarqué ?
+$GEN_016_02x04_05_00
+Qu'en est-il du soutien de ton époux ? N'a-t-il pas remarqué ta fragilité ou bien soupçonné que tu puisses agir ainsi ?
+$GEN_016_02x04_05_01
+Depuis que la blanchisserie ne fonctionne plus, il doit travailler deux fois plus.
+$GEN_016_02x04_05_02
+Ne penses-tu pas qu'il sera encore plus inquiet, à présent ?
+$GEN_016_02x04_05_03
+Il fallait que je fasse quelque chose ! Après tout ce qu'il a fait pour moi, je ne pouvais pas le regarder se tuer à la tâche.
+$GEN_016_02x04_05_04
+Laissez-les tranquilles ! Ce ne sont pas les vrais criminels qui manquent.
+$GEN_016_04x06_06_QTitle
+Es-tu sûre de ne pas en rajouter... ?
+$GEN_016_04x06_06_00
+Es-tu sûre de ne pas en rajouter ? Tôt ou tard, la situation serait revenue à la normale et les prix se seraient stabilisés. Tu aurais peut-être dû prendre ton mal en patience ?
+$GEN_016_04x06_06_01
+C'est possible, mais je suis une femme modeste et j'essaie de trouver des solutions aussi vite que possible.
+$GEN_016_04x06_06_02
+Viens-tu d'avouer que tu n'as pas pensé aux conséquences de tes actes car tu n'a pas pris le temps d'y réfléchir ? Pourquoi ne pas appeler un chat un chat ? Tu as fait preuve de stupidité.
+$GEN_016_04x06_06_03
+Une telle véhémence n'était peut-être pas nécessaire.
+$GEN_016_04x06_06_04
+J'emploie des mots simples quand je m'adresse à des personnes simples d'esprit.
+$GEN_016_04x06_06_05
+Pour qui nous prennent-ils ?
+$GEN_016_08x03_07_QTitle
+Faites entrer M. Raymond Houllier.
+$GEN_016_08x03_07_00
+Faites entrer M. Raymond Houllier.
+$GEN_016_08x03_07_02
+Connais-tu la prévenue ? A-t-elle déjà fait des courses dans ton magasin par le passé ?
+$GEN_016_08x03_07_03
+Non, je ne l'avais jamais vue jusqu'à récemment.
+$GEN_016_08x03_07_04
+Décris votre première rencontre.
+$GEN_016_08x03_07_05
+Elle voulait acheter du savon, mais elle n'avait pas d'argent.
+$GEN_016_08x03_07_06
+Qu'as-tu fait ?
+$GEN_016_08x03_07_07
+Je lui ai dit de partir ! Les temps sont durs pour tout le monde et personne ne m'aide, moi.
+$GEN_016_08x03_07_08
+A-t-elle promis de te rembourser ?
+$GEN_016_08x03_07_09
+Oui, mais pourquoi lui aurais-je fait confiance ? Je ne la connais pas et elle n'était jamais venue dans ma boutique auparavant. Je ne fais crédit qu'à mes clients réguliers.
+$GEN_016_WIT_00_A_QTitle
+Comment décrirais-tu l'attitude de la citoyenne Gignac ce jour-là ?
+$GEN_016_WIT_00_A_00
+Comment décrirais-tu l'attitude de la citoyenne Gignac ce jour-là ?
+$GEN_016_WIT_00_A_01
+Elle a brisé ma vitrine et essayé de m'agresser avec un morceau de verre. Qu'y a-t-il de plus à décrire ?
+$GEN_016_WIT_00_A_02
+Réponds à la question.
+$GEN_016_WIT_00_A_03
+Elle était énervée et voulait se venger.
+$GEN_016_WIT_00_A_04
+Peut-être qu'elle ne voulait pas t'agresser ?
+$GEN_016_WIT_00_A_05
+Alors pourquoi s'est-elle précipitée sur moi avec un bout de verre ?
+$GEN_016_WIT_00_B_QTitle
+Que disait Mme Gignac lorsque, comme tu l'indiques, elle a essayé de t'agresser avec un morceau de verre ?
+$GEN_016_WIT_00_B_00
+Que disait Mme Gignac lorsque, comme tu l'indiques, elle a essayé de t'agresser avec un morceau de verre ?
+$GEN_016_WIT_00_B_01
+Rien de particulier, elle gémissait, pleurait, criait…
+$GEN_016_WIT_00_B_02
+Te rappelles-tu de certains mots en particulier ?
+$GEN_016_WIT_00_B_03
+Non, la vieille folle marmonnait, c'est tout.
+$GEN_016_WIT_00_B_04
+L'as-tu maîtrisée ?
+$GEN_016_WIT_00_B_05
+On pourrait dire ça.
+$GEN_016_WIT_00_B_06
+Il a battu une vieille dame.
+$GEN_016_WIT_00_B_07
+Avez-vous parlé après l'incident ?
+$GEN_016_WIT_00_B_08
+Non, elle n'a fait que pleurer jusqu'à la gendarmerie.
+$GEN_016_KEY_01
+Femme croyante
+$GEN_016_KEY_02
+Époux
+$GEN_016_KEY_03
+Tentative de vol
+$GEN_016_KEY_04
+Désespoir
+$GEN_016_KEY_05
+Spéculation sur le savon
+$GEN_016_KEY_06
+Pénurie de savon
+$GEN_016_KEY_07
+Vengeance
+$GEN_016_KEY_08
+Morceau de verre maculé de sang
+$GEN_016_LastDialog_00
+Oh, mon dieu, pourquoi ? Qu'adviendra-t-il de ma blanchisserie ? Nous venions tout juste de sortir la tête de l'eau…
+$GEN_016_UNIQUE_QUESTION_00
+La prévenue a-t-elle cherché à acheter du savon ?
+$GEN_016_UNIQUE_ANSWER_CORRECT_00_00
+Oui, mais elle n'avait pas assez d'argent.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Oui, mais Houllier a refusé de lui en vendre.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Non, elle est venue en voler.
+$GEN_016_UNIQUE_QUESTION_01
+La famille de la prévenue tire-t-elle ses seuls revenus des travaux de blanchisserie ?
+$GEN_016_UNIQUE_ANSWER_CORRECT_01_00
+Non, son mari est charpentier.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Non, son fils sert dans l'armée.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Oui, personne d'autre ne travaille dans sa famille.
+$GEN_016_UNIQUE_QUESTION_02
+La prévenue a-t-elle dit quelque mot à la victime au cours de l'agression ?
+$GEN_016_UNIQUE_ANSWER_CORRECT_02_00
+Non, elle a seulement crié des propos incompréhensibles.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Oui, elle lui a dit qu'elle allait le tuer.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Elle lui a dit de lui donner le savon.

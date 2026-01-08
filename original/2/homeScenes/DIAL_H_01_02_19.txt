@@ -1,0 +1,22 @@
+$DIAL_H_01_02_19_001_GRANDFATHER
+Te remets-tu de tes blessures ?
+$DIAL_H_01_02_19_002_JUDGE
+Peu à peu. Tout cela grâce à nos nouveaux amis.
+$DIAL_H_01_02_19_003_WIFE
+Pardon ?!
+$DIAL_H_01_02_19_004_JUDGE
+Qu'est-ce qui te prend ?
+$DIAL_H_01_02_19_005_WIFE
+Laisse-moi te rafraîchir la mémoire : c'est ici, dans cette maison, que tu t'es reposé tout du long. C'est ici qu'on t'a transporté et c'est ta famille qui a été à tes petits soins. Nous, ta famille, que tu mets en danger.
+$DIAL_H_01_02_19_006_JUDGE
+Parce que tu penses que j'ai voulu me faire poignarder dans une ruelle ?
+$DIAL_H_01_02_19_007_GRANDFATHER
+Ta femme souhaite le meilleur pour la famille. Ton frère…
+$DIAL_H_01_02_19_008_JUDGE
+Mon frère a voulu protéger notre famille en ripostant contre ceux qui nous ont menacés ! Tu voulais attendre, mais j'ai vu la tête d'un roi rouler aussi facilement que celle d'un ouvrier. Seul le pouvoir…
+$DIAL_H_01_02_19_009_GRANDFATHER
+Tu es juge du Tribunal ! Tu as du pouvoir !
+$DIAL_H_01_02_19_010_JUDGE
+Ce sont ceux qui ont payé ces assassins, les Roland, ou quiconque à qui ils obéissent, qui ont le pouvoir. Voilà qui décide qui doit vivre ou mourir dans cette ville.
+$DIAL_H_01_02_19_011_WIFE
+Espérons qu'ils ne nous auront pas tous tués avant que tu t'empares de ton précieux pouvoir.

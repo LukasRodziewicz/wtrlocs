@@ -1,0 +1,48 @@
+$CUT_22_SPEECH_001_CROWD
+When will we finally get rid of those holy hypocrites?
+$CUT_22_SPEECH_002_CROWD
+Tell us, monsieur le juge!
+$CUT_22_SPEECH_003_CROWD
+When will Tinville drive them into a corner?
+$CUT_22_SPEECH_004_JUDGE_AGGR
+Be angry, be ruthless! If someone’s head needs to be impaled – do it! It is your city, your country!
+$CUT_22_SPEECH_005_JUDGE_MANI
+Look what they made you do. You had to take to the streets to make them see you. You have every right to be angry, and they should be terrified when their end is fast approaching!
+$CUT_22_SPEECH_006_JUDGE_JOKE
+Do you really think your unhappy faces bother them? If you want them to be scared, you must approach them with clenched fists and torches held high.
+$CUT_22_SPEECH_007_JUDGE_HUMI
+I know what you are feeling and I am with you. Those people who are safely nestled in their marble buildings and dressed in expensive garments are the source of your misery!
+$CUT_22_SPEECH_008_JUDGE_AGGR
+These parasites were living off your hard work, your blood and sweat! Enough! The Revolution was supposed to make us all equal, yet the clergy once again looks down on us! Vendée has proven that!
+$CUT_22_SPEECH_009_JUDGE_MANI
+The clergy has done nothing for you, they have always been living for themselves. They need the rebellion in Vendée to get their power back.
+$CUT_22_SPEECH_010_JUDGE_JOKE
+Do you really need the people who refuse to defend your faith, and instead just disgust you?
+$CUT_22_SPEECH_011_JUDGE_HUMI
+Citizens, you have paid too much for your freedom and equality to hand them over to someone who will not allow you to ever fight again.
+$CUT_22_SPEECH_012_JUDGE_AGGR
+Every group of traitors is led by a single man. This is no exception. Archbishop Gobel is waiting until civil war weakens France, only so he can crown himself at the right moment! He wishes to bring the old way of things back!
+$CUT_22_SPEECH_013_JUDGE_MANI
+Archbishop Gobel is another embodiment of that evil which you yourself have overthrown! He spies, incites, and harasses everyone who stands in his way!
+$CUT_22_SPEECH_014_JUDGE_JOKE
+If Gobel was really worried about you, he would have been satisfied with just preaching. But he would rather see rebellions and a return to the old way of things.
+$CUT_22_SPEECH_015_JUDGE_HUMI
+Do not let them turn all your hard work to ashes, because people like Gobel will rise from it to rule you on behalf of the pope.
+$CUT_22_SPEECH_016_JUDGE_AGGR
+Demand that he tells you the truth about his illegitimate child! Demand that he tells you about his involvement in the unrest at Vendée and the start of the civil war!
+$CUT_22_SPEECH_017_JUDGE_MANI
+Are you really going to let the truth about the archbishop’s illegitimate child disappear under the pile of sermons about a virtuous life? Will you let the clergy support civil wars instead of the faithful?
+$CUT_22_SPEECH_018_JUDGE_JOKE
+Did you hear the rumours about the archbishop’s illegitimate child? Then ask him. I wonder what stories he will tell you instead.
+$CUT_22_SPEECH_019_JUDGE_HUMI
+France cannot afford priests who have illegitimate children, or Archbishops who are involved in civil wars. Tell him that.
+$CUT_22_SPEECH_020_JUDGE
+Rise!
+$CUT_22_SPEECH_TOPIC_01
+I know how angry you are. It is their fault.
+$CUT_22_SPEECH_TOPIC_02
+They have lived off your hard work for so many years. And they still do!
+$CUT_22_SPEECH_TOPIC_03
+Gobel is the worst among liars.
+$CUT_22_SPEECH_TOPIC_04
+Go to him. Demand that he tells you the truth!

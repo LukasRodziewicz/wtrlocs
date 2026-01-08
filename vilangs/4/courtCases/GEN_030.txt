@@ -1,0 +1,280 @@
+$GEN_030_DOC_01_HEADER
+Zusammengestellt von: Nathan d'Essiraf
+$GEN_030_DOC_01_00
+René Mazeaud, 43 Jahre alt. Richter an einem der Pariser Tribunale. Vor der Revolution war er ein geschätzter Berater von Handelstycoons und den wohlhabendsten Adelsfamilien. Nach 1789 ließ er sich von den Idealen der Revolution begeistern und wurde zum Richter ernannt.
+$GEN_030_DOC_01_01
+Das Volk von Paris warf ihm Korruption und Verrat an der Revolution vor, nachdem er <a name="2" class="hidden">Adèle</a> de Maillard freigesprochen hatte. Sie war beschuldigt worden, an der Verschwörung ihres Mannes Emmanuel beteiligt gewesen zu sein. Ihr Komplott führte zum Mord an Gilbert Fuster, dem beim Volk beliebten Vorsitzenden des Revolutionären Komitees.
+$GEN_030_DOC_01_02
+Adèle de Maillards Schuld wurde durch unwiderlegbare Beweise belegt. Sie lockte das Opfer in ihr Jagdhaus, wo es später von ihrem Ehemann getötet wurde. Dennoch begab sich Mazeaud, der <a name="4" class="hidden">Richter im Fall von Adèle</a>, während einer von ihm selbst angeordneten Vertagung des Prozesses, um <a name="5" class="hidden">die Angeklagte im Gefängnis zu besuchen</a>. Solche Besuche sind selbstverständlich äußerst ungewöhnlich. Der Richter wurde von Wächter Roux begleitet. Nach diesem Besuch nahm Mazeaud den Prozess wieder auf und sprach die Angeklagte frei.
+$GEN_030_DOC_01_03
+Der aufgebrachte Mob nahm den Richter unmittelbar nach der Urteilsverkündung fest. Bei einer schnellen Durchsuchung seines Hauses wurde <a name="7" class="hidden">ein Dokument</a> gefunden, das belegte, dass er von Adèle Maillard finanziell profitiert hatte.
+$GEN_030_DOC_01_04
+Dass Mazeaud vor der Revolution <a name="8" class="hidden">der Anwalt von Joseph de Maillard</a>, Adèles Vater, war, verleiht dem Fall zusätzliche Brisanz. Dank Mazeauds Unterstützung wurde der alte Maillard durch den Export von Waren wohlhabend. Was Adèle de Maillard betrifft, so gilt sie derzeit als <a name="9" class="hidden">vermisst</a>.
+$GEN_030_DOC_02_00
+<a name="10" class="hidden">Letzter Wille und Testament von Adèle de Maillard</a>:
+$GEN_030_DOC_02_01
+Ich, die Unterzeichnete Adèle de Maillard, bei klarem Verstand, vermache sämtliche von meinem Vater Joseph de Maillard geerbten Besitztümer dem Bürger René Mazeaud. Ich erkläre, dass das genannte Erbe zu meinem persönlichen Vermögen zählt und somit keinerlei Erbansprüche seitens der Erben meines verstorbenen Ehemanns Emmanuel bestehen. Adèle de Maillard
+$GEN_030_OnStart_00
+Wie ist Ihr Name?
+$GEN_030_OnStart_01
+René Mazeaud, Monsieur Richter. Das Verfahren ist mir bestens bekannt. Können wir direkt zu den Anklagepunkten übergehen?
+$GEN_030_OnStart_02
+Wenn der Angeklagte das Verfahren so gut kennt, sollte er wissen, dass hier ich die Entscheidungen treffe – nicht der Angeklagte.
+$GEN_030_OnStart_03
+Verzeihen Sie mir, alte Gewohnheiten…
+$GEN_030_OnStart_04
+René Mazeaud, Ihnen wird vorgeworfen, ein Bestechungsgeld angenommen zu haben, um Adèle de Maillard freizulassen – eine Feindin des Volkes und der Revolution. Wie erklären Sie sich?
+$GEN_030_OnStart_05
+Bürgerin de Maillard war unschuldig. Ich habe ihren Fall als Richter untersucht und das Urteil gefällt. Was die angebliche Bestechung betrifft, so stützt sich dieser Vorwurf weder auf Beweise noch auf Tatsachen.
+$GEN_030_OnStart_06
+Ich darf Sie daran erinnern, dass wir das Testament von de Maillard besitzen.
+$GEN_030_OnStart_07
+Dieses Dokument steht in keinem Zusammenhang mit dem Fall, und ich kenne seinen Inhalt nicht einmal.
+$GEN_030_OnGuilty_00
+Ich verurteile Bürger René Mazeaud zum Tod durch die Guillotine! Führt den Verurteilten ab.
+$GEN_030_OnGuilty_01
+Sie haben die Ehre Ihres Berufs wiederhergestellt.
+$GEN_030_OnGuilty_02
+Wunderbar!
+$GEN_030_OnGuilty_03
+So soll es sein!
+$GEN_030_OnNotGuilty_00
+René Mazeaud wird für nicht schuldig befunden! Führt den Angeklagten ab.
+$GEN_030_OnNotGuilty_01
+Verrat!
+$GEN_030_OnNotGuilty_02
+Verhaftet den Richter!
+$GEN_030_OnNotGuilty_03
+Ich verstehe. Sie möchten lieber keinen Präzedenzfall schaffen.
+$GEN_030_02x03_00_QTitle
+Warum haben Sie Adèle de Maillard freigesprochen, wenn sie doch ihrem Ehemann geholfen hat…?
+$GEN_030_02x03_00_00
+Warum haben Sie Adèle de Maillard freigesprochen, obwohl sie ihrem Mann geholfen hat, Gilbert Fuster zu töten?
+$GEN_030_02x03_00_01
+Es gab keine stichhaltigen Beweise für eine vorsätzliche Beteiligung von Bürgerin de Maillard.
+$GEN_030_02x03_00_02
+Ebenso gab es keine Beweise dafür, dass sie versucht hätte, ihren Mann von dem Mord abzuhalten.
+$GEN_030_02x03_00_03
+Das ist doch etwas völlig anderes als vorsätzliche Mittäterschaft, nicht wahr?
+$GEN_030_02x03_00_04
+Das Gesetz über Verdächtige unterscheidet nicht zwischen vorsätzlicher und unfreiwilliger Mitschuld an Verbrechen gegen die Revolution.
+$GEN_030_02x03_00_05
+Doch dieses Gesetz darf nicht das Gewissen und den gesunden Menschenverstand des Richters ersetzen. Es ist ein Dekret über Verdächtige, nicht über Verurteilte.
+$GEN_030_01x10_01_QTitle
+War Adèle de Maillards Testament der Preis für ihren Freispruch?
+$GEN_030_01x10_01_00
+War Adèle de Maillards Testament der Preis für ihren Freispruch?
+$GEN_030_01x10_01_01
+Nein, Bürgerin de Maillard hat es eigenständig und aus freien Stücken verfasst. Über den Inhalt war ich nicht informiert.
+$GEN_030_01x10_01_02
+Der Angeklagte kannte den Inhalt nicht, obwohl das Dokument in seinem Besitz war? Interessant.
+$GEN_030_01x10_01_03
+Das Testament wurde während meines Besuchs im Gefängnis aufgesetzt und versiegelt. Erst dann übergab mir Adèle de Maillard das Dokument und bat mich, es beim Notar Jules Costa zu hinterlegen.
+$GEN_030_01x10_01_04
+Aber der Angeklagte war bei der Abfassung anwesend und hatte somit die Möglichkeit, den Inhalt zu beeinflussen!
+$GEN_030_01x10_01_05
+Hätte ich den Inhalt des Testaments gekannt, hätte ich Bürgerin de Maillard zur Guillotine verurteilt, um ihr Vermögen zu erben. Doch das habe ich nicht getan.
+$GEN_030_01x10_01_06
+Warum hat sie dann alles Ihnen vermacht?
+$GEN_030_01x10_01_07
+Das weiß ich nicht, und ich möchte auch nicht spekulieren.
+$GEN_030_01x10_01_08
+Wie nah standen Sie Adèle de Maillard?
+$GEN_030_01x10_01_09
+Wir kannten einander, aber nicht gut genug, um Freunde zu sein.
+$GEN_030_08x10_02_QTitle
+Früher haben Sie für Adèles Vater, Joseph de Maillard, gearbeitet.
+$GEN_030_08x10_02_00
+Sie haben früher für Adèles Vater, Joseph de Maillard, gearbeitet. Können Sie sein Geschäft und Vermögen einschätzen?
+$GEN_030_08x10_02_01
+Als unsere Zusammenarbeit endete, brachten Joseph de Maillards Vermögenswerte ihm etwa zwei Millionen Francs ein, und ich glaube, sie sind bis heute gewinnbringend.
+$GEN_030_08x10_02_02
+Adèle de Maillard hätte also ein beträchtliches Vermögen.
+$GEN_030_08x10_02_03
+Ich verstehe, worauf Sie hinauswollen, aber ich weise entschieden zurück, Bürgerin de Maillard dazu überredet zu haben, mich zu ihrer Erbin zu machen.
+$GEN_030_08x10_02_04
+Sie sind erstaunlich gut über die finanzielle Lage der Familie Maillard informiert.
+$GEN_030_08x10_02_05
+Das überrascht nicht. Ich war ihr vertrauter Rechtsbeistand.
+$GEN_030_08x10_02_06
+Mit ihrem Geld könnten Sie leben wie ein König. Das dürfte eine große Versuchung gewesen sein.
+$GEN_030_08x10_02_07
+Würden Sie ihm erliegen?
+$GEN_030_08x10_02_08
+Niemals.
+$GEN_030_08x10_02_09
+Ganz genau, und ich habe mich ebenfalls nicht beirren lassen.
+$GEN_030_05x06_03_QTitle
+Rufen Sie den Zeugen Simon Roux auf.
+$GEN_030_05x06_03_00
+Rufen Sie den Zeugen Simon Roux auf.
+$GEN_030_05x06_03_02
+Bitte stellen Sie sich vor.
+$GEN_030_05x06_03_03
+Simon Roux, auf Anordnung des Herrn Richters hier erschienen.
+$GEN_030_08x09_04_QTitle
+Kannten Sie Adèle de Maillard?
+$GEN_030_08x09_04_00
+Kannten Sie Adèle de Maillard?
+$GEN_030_08x09_04_01
+Vor der Revolution habe ich einige Geschäfte für ihren Vater abgewickelt. Ich nehme an, sie könnte mich daher gekannt haben.
+$GEN_030_08x09_04_02
+Sie hätte Ihnen also vertrauen und vielleicht auf Ihr Mitgefühl hoffen können?
+$GEN_030_08x09_04_03
+Es ist möglich, aber ich weiß es nicht. Doch bei meinem Urteil gab es kein Erbarmen.
+$GEN_030_08x09_04_04
+Wirklich? Sie haben sie trotz erdrückender Beweise freigesprochen!
+$GEN_030_08x09_04_05
+Damals wirkten sie nicht so überzeugend, aber Sie wissen es wohl besser.
+$GEN_030_08x09_04_06
+Natürlich würde er seinen Freund nicht verurteilen.
+$GEN_030_04x05_05_QTitle
+Warum haben Sie Adèle de Maillard im Gefängnis aufgesucht?
+$GEN_030_04x05_05_00
+Warum haben Sie Adèle de Maillard im Gefängnis aufgesucht? Das ist während eines Prozesses höchst ungewöhnlich.
+$GEN_030_04x05_05_01
+Bürgerin de Maillard ist am ersten Verhandlungstag in Ohnmacht gefallen. Ich wollte sicherstellen, dass sie nicht simuliert und dass ich den Prozess so bald wie möglich fortsetzen kann.
+$GEN_030_04x05_05_02
+Sie könnte das alles geplant haben.
+$GEN_030_04x05_05_03
+Ich glaube nicht. Sie sah sehr krank aus.
+$GEN_030_04x05_05_04
+Sie hätten auf einen Arzt warten können.
+$GEN_030_04x05_05_05
+Und wie Sie wissen, hätte ich wohl sehr lange warten müssen. Ich wollte die Sache auch beschleunigen, denn eine lange Liste von Angeklagten wartete noch auf ihren Prozess.
+$GEN_030_09x10_06_QTitle
+Sind Sie für das Verschwinden von Adèle de Maillard verantwortlich?
+$GEN_030_09x10_06_00
+Sind Sie für das Verschwinden von Adèle de Maillard verantwortlich?
+$GEN_030_09x10_06_01
+Natürlich nicht, ich habe damit nichts zu tun.
+$GEN_030_09x10_06_02
+Das Verschwinden von Bürgerin de Maillard kommt Ihnen doch sehr gelegen, besonders wenn man den Inhalt ihres Testaments bedenkt.
+$GEN_030_09x10_06_03
+Ich frage mich, ob Sie sie getötet oder nur versteckt haben, um schneller an ihr Geld zu kommen?
+$GEN_030_09x10_06_04
+Ich betone erneut, dass mir der Aufenthaltsort von Bürgerin de Maillard nicht bekannt ist und ich nichts mit ihrem Verschwinden zu tun habe. Ich weiß nicht einmal, ob sie lebt oder tot ist.
+$GEN_030_07x10_07_QTitle
+Woher haben Sie das Testament?
+$GEN_030_07x10_07_00
+Woher haben Sie das Testament?
+$GEN_030_07x10_07_01
+Bürgerin de Maillard hat es mir übergeben, als ich sie im Gefängnis besuchte, und mich gebeten, es einem Notar zu überreichen. Daran ist nichts Unrechtmäßiges.
+$GEN_030_07x10_07_02
+Hat sie das während der Unterbrechung ihres Prozesses getan?
+$GEN_030_07x10_07_03
+In der Tat.
+$GEN_030_07x10_07_04
+Warum hat sie so lange gewartet?
+$GEN_030_07x10_07_05
+Ich weiß es nicht. Sie müssten sie selbst finden und fragen.
+$GEN_030_WIT_00_A_QTitle
+Wie oft haben Sie Adèle de Maillard im Gefängnis besucht?
+$GEN_030_WIT_00_A_00
+Wie oft haben Sie Adèle de Maillard im Gefängnis besucht?
+$GEN_030_WIT_00_A_01
+Nur ein einziges Mal, Bürger Richter, während ihrer Verhandlung.
+$GEN_030_WIT_00_A_02
+War der Angeklagte an allen Festgenommenen gleichermaßen interessiert?
+$GEN_030_WIT_00_A_03
+Soweit ich mich erinnere, hatte Richter Mazeaud keinen Kontakt zu anderen Gefangenen. Aber mir wurde befohlen, mich nicht einzumischen.
+$GEN_030_WIT_01_A_QTitle
+Könnten Sie den Besuch von Mazeaud bei der ehemaligen Gefangenen beschreiben?
+$GEN_030_WIT_01_A_00
+Könnten Sie den Besuch von Mazeaud bei der ehemaligen Gefangenen beschreiben?
+$GEN_030_WIT_01_A_01
+Zuerst war es ruhig, dann begannen sie plötzlich, sich gegenseitig anzuschreien. Danach kehrte wieder Ruhe ein.
+$GEN_030_WIT_01_A_02
+Könnten Sie sagen, wer was gerufen hat?
+$GEN_030_WIT_01_A_03
+Richter Mazeaud meinte, das sei unangebracht und gegen die Regeln, und er würde es nicht tun. Ich habe die Worte der Gefangenen nicht verstanden, sie hat nur genuschelt.
+$GEN_030_WIT_01_A_04
+Glauben Sie, dass sie gestritten haben könnten, weil de Maillard versucht hat, ihn mit einem Anteil an ihrem Erbe zu bestechen?
+$GEN_030_WIT_01_A_05
+Das ist doch ziemlich offensichtlich.
+$GEN_030_WIT_01_A_06
+Ich denke schon. Der Richter hatte eine Tasche mit Schreibutensilien bei sich.
+$GEN_030_WIT_01_A_07
+Also hat er das alles geplant!
+$GEN_030_WIT_01_A_09
+Was entgegnen Sie diesen Anschuldigungen?
+$GEN_030_WIT_01_A_10
+Meiner Ansicht nach belegen sie, dass ich niemals eine Belohnung für die Entlastung der Angeklagten verlangt habe.
+$GEN_030_WIT_01_A_11
+Aber Sie hätten auf einen solchen Vorschlag eingehen können, selbst wenn Sie anfangs zögerten.
+$GEN_030_WIT_01_A_12
+Das Einzige, worüber ich zögerte, war, ihr Testament einem Notar zu übergeben.
+$GEN_030_WIT_01_B_QTitle
+Wussten Sie, weshalb der Richter das Gefängnis aufgesucht hat?
+$GEN_030_WIT_01_B_00
+Wussten Sie, warum der Richter das Gefängnis besucht hat?
+$GEN_030_WIT_01_B_01
+Ja, es gab eine offizielle Mitteilung, dass Richter Mazeaud den Gesundheitszustand des Angeklagten überprüfen wollte.
+$GEN_030_WIT_01_B_02
+Und hat er das getan?
+$GEN_030_WIT_01_B_03
+Was gab es da zu untersuchen? Schwindsucht, Bürger Richter, und zwar eine schwere. Sie hatte nicht mehr viel Zeit. Und noch etwas…
+$GEN_030_WIT_01_B_04
+Was?!
+$GEN_030_WIT_01_B_05
+Vor dem Prozess unterzogen wir die Angeklagte einer gründlichen medizinischen Untersuchung und stellten fest, dass sie schwanger war. Noch nicht lange, doch ihr Bauch wuchs bereits sichtbar. Merkwürdigerweise hatte es sonst niemand bemerkt.
+$GEN_030_WIT_01_B_06
+Sie hat ihr Vermögen aufgegeben, um ein Kind zur Welt zu bringen. So einfach ist das.
+$GEN_030_WIT_01_B_07
+Wessen Kind könnte das sein?
+$GEN_030_WIT_01_B_08
+Ich weiß es nicht genau, aber ich habe Gerüchte über Gilbert Fuster gehört.
+$GEN_030_WIT_01_B_10
+Was entgegnen Sie diesen Anschuldigungen?
+$GEN_030_WIT_01_B_11
+Ich denke, wir haben nun genug gehört, um zu begreifen, warum es barbarisch gewesen wäre, Bürgerin de Maillard, wie das Volk es verlangte, zur Guillotine zu schicken. Selbst wenn ihre Schuld eindeutig bewiesen gewesen wäre.
+$GEN_030_WIT_01_B_12
+Wir erkennen auch, wie sehr Sie davon profitiert hätten, als alleiniger Erbe von Adèle de Maillards Vermögen.
+$GEN_030_WIT_01_B_13
+Ich müsste auf ihren Tod und den ihres ungeborenen Kindes warten. Jeder, der sich selbst einen Menschen nennt, würde allein diesen Gedanken abscheulich finden.
+$GEN_030_KEY_01
+Korruptionsvorwürfe
+$GEN_030_KEY_02
+Freispruch der Angeklagten
+$GEN_030_KEY_03
+Unwiderlegbare Beweise für die Schuld
+$GEN_030_KEY_04
+Der Richter im Fall Adèle
+$GEN_030_KEY_05
+Besuch beim Angeklagten
+$GEN_030_KEY_06
+Der Gefängniswärter
+$GEN_030_KEY_07
+Auffinden der Dokumente
+$GEN_030_KEY_08
+Der Anwalt von Adèles Vater
+$GEN_030_KEY_09
+Adèles Verschwinden
+$GEN_030_KEY_10
+Das Testament
+$GEN_030_LastDialog_00
+Wir werden uns bald wiedersehen, lieber Richter…
+$GEN_030_UNIQUE_QUESTION_00
+Wie begründete Mazeaud den Freispruch für Maillard?
+$GEN_030_UNIQUE_ANSWER_CORRECT_00_00
+Mangel an Beweisen.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Die Aussagen der Zeugen.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ein Eingreifen seiner Vorgesetzten.
+$GEN_030_UNIQUE_QUESTION_01
+Laut eigener Aussage des Richters, warum begab er sich in die Zelle des Angeklagten?
+$GEN_030_UNIQUE_ANSWER_CORRECT_01_00
+Er machte sich Sorgen um ihre Gesundheit.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Er wollte sie verhören.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Er suchte nach Beweisen.
+$GEN_030_UNIQUE_QUESTION_02
+In welchem Verhältnis stand der Angeklagte zu der freigesprochenen Frau?
+$GEN_030_UNIQUE_ANSWER_CORRECT_02_00
+Der Anwalt ihres Vaters.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ihr ehemaliger Diener.
+$GEN_030_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Ihr unehelicher Halbbruder.

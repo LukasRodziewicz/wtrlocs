@@ -1,0 +1,32 @@
+$DIAL_H_01_02_10_001_HANRIOT
+Your wife told me that if I seek the support of just people, I should look for them in your house.
+$DIAL_H_01_02_10_002_WIFE
+Yes, Citizen Hanriot. My husband will be more than happy to endorse your candidacy for the post of commander-in-chief.
+$DIAL_H_01_02_10_003_JUDGE
+Why does this feel like a fait accompli?
+$DIAL_H_01_02_10_004_HANRIOT
+Please do not be angry at your wife. I am sure that she acted in good faith when she made those promises.
+$DIAL_H_01_02_10_005_WIFE
+How could anyone refuse to support such a respectable officer? I am certain that my husband will acknowledge your merits, just as I have.
+$DIAL_H_01_02_10_006_JUDGE
+Undoubtedly. But how can I be so sure when there are so many other candidates?
+$DIAL_H_01_02_10_007_HANRIOT
+Well, I respect the other candidates, they are decent people. However, I can offer you the most precious gift – loyalty. Working together we can greatly benefit each other… and maybe Paris too.
+$DIAL_H_01_02_10_008_JUDGE
+Our family has a high regard for sincerity and loyalty, does it not, my dear? Moreover, we respect each other’s boundaries.
+$DIAL_H_01_02_10_009_WIFE
+At every turn.
+$DIAL_H_01_02_10_010_HANRIOT
+Yes. Those ugly rumours about you being an addict should be put to an end! Know that I never forget those who have done me a favour.
+$DIAL_H_01_02_10_011_JUDGE
+Words, words, words, Citizen Hanriot.
+$DIAL_H_01_02_10_012_HANRIOT
+I am certain that no other candidate has asked for your endorsement. They do not think that you are worthy of their friendship. But I, François Hanriot, am different – and so are my words.
+$DIAL_H_01_02_10_013_WIFE
+I am sure that my husband has already noticed that.
+$DIAL_H_01_02_10_014_HANRIOT
+Thank you. Regardless of what the masses are yelling, Paris is only as strong as its united elites.
+$DIAL_H_01_02_10_015_JUDGE
+I will not retract my wife’s promises, but in the future, make sure you come to me first.
+$DIAL_H_01_02_10_016_HANRIOT
+But of course…

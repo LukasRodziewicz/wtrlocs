@@ -1,0 +1,30 @@
+$DIAL_CO_01_01_06_001_MENTOR
+Dün insanlar mahkeme salonunu yerle bir etti. Dikkatli ol.
+$DIAL_CO_01_01_06_002_HEADGUARD
+Ne yazık ki, sokaklardaki kontrolümüzü kaybediyoruz. Halk kendini kral tarafından ihanete uğramış hissediyor, bazıları ise onun adaletten kaçmaya çalışan bir casus olduğuna inanıyor. Ayaklanmaları bastırırken özel yöntemler öneriliyor. Yasal hareket ettiğimizden emin olmak için yalnızca yargıçların görüşüne ihtiyacımız var.
+$DIAL_CO_01_01_06_003_MENTOR
+Yani, göstericilere ateş açmak için onların onayına mı ihtiyacınız var?
+$DIAL_CO_01_01_06_004_HEADGUARD
+İnsanlar duygularını kontrol edemiyor ve bunun sonucunda diğer Yurttaşlara zarar veriyorlar. Pencerelere bir bakın. Bir dahaki sefere sadece taş atmakla kalmayabilirler, daha kötüsünü yapabilirler.
+$DIAL_CO_01_01_06_005_HEADGUARD
+Umarım bu deliliği durdurmak için henüz çok geç değildir.
+$DIAL_CO_01_01_06_006_MENTOR
+Tüfek ateşine ilginç bir isim bulmuşsunuz.
+$DIAL_CO_01_01_06_007_HEADGUARD
+Bu belge olmadan, Paris vatandaşlarının gözlerimizin önünde birbirini öldürmeye başlamasını beklemekten başka çaremiz yok.
+$DIAL_CO_01_01_06_008_MENTOR
+Umarım ne yaptığınızı biliyorsunuzdur… Konvansiyon bu kararı çıkarmış olabilir, ama bunun Robespierre’in fikri olduğundan hiç şüphem yok.
+$LETTERDECISION_D06_MAINTEXT_00
+Paris sokaklarında huzursuzluğun artmasını görmek bizi derinden üzüyor. Başkomutan Burel, Muhafızların artık durumu barışçıl yollarla kontrol edemediğini bildirdi. Masum sivilleri korumak için daha acil yöntemlere başvurmasına izin verilmesi tavsiye edilmektedir, ancak bu konuda Mahkeme’nin görüşünü öğrenmek isteriz.
+$LETTERDECISION_D06_MAINTEXT_01
+Başkentte yıkıma yol açan serserilere karşı Ulusal Muhafız’ın güç kullanmasını onaylıyorum.
+$LETTERDECISION_D06_SENDER
+Raymond Dévoyé
+$LETTERDECISION_D06_ACCEPTBUTTON
+İmzala
+$LETTERDECISION_D06_ACCEPTTEXT
+Muhafızların görevi, masumları davranışlarını kontrol edemeyenlerden korumaktır. Ulusal Muhafız’ın yetkilerinin genişletilmesini onaylıyorum!
+$LETTERDECISION_D06_REJECTBUTTON
+İmzalama
+$LETTERDECISION_D06_REJECTTEXT
+Yetkililer halka karşı güç kullanmamalı. Buna mecbur kalıyorsa, zaten kaybetmiştir. Bu kararı onaylamıyorum!

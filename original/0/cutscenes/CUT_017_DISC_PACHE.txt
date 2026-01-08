@@ -1,0 +1,80 @@
+$CUT_017_DISC_PACHE_001_JUDGE
+Dobrze w końcu spotkać się osobiście.
+$CUT_017_DISC_PACHE_002_PACHE
+Niezwykle współczuję z powodu tego aktu terroru, który cię spotkał.
+$CUT_017_DISC_PACHE_003_PACHE
+Gdybym tylko wiedział, co za drań za tym stoi…
+
+$CUT_017_DISC_PACHE_003_JUDGE_AGGR
+Obiecałem sobie, że dopadnę ludzi, którzy chcieli pozbawić mnie życia. Kto śmiał? Nakarmię gilotynę ich krwią.
+$CUT_017_DISC_PACHE_004_JUDGE_MANI
+Są to ludzie korzystający z osłony nocy, z której często korzystamy ty i ja, żeby zaspokoić swoje przyziemne potrzeby. Noc powinna pozostać we władaniu… właściwych osób.
+$CUT_017_DISC_PACHE_005_JUDGE_JOKE
+Moja żona nalega na odnalezienie sprawców. Ja najchętniej oddałbym się swoim obowiązkom, rozumie obywatel?
+$CUT_017_DISC_PACHE_006_JUDGE_HUMI
+Może i lud Paryża przemówił przez ten zamach, bardziej jednak prawdopodobne, że zaplanował to człowiek, który nie kocha rewolucji tak, jak my dwaj.
+$CUT_017_DISC_PACHE_007_PACHE_SATI
+To zrozumiałe, absolutnie zrozumiałe, że chcesz ich dopaść. 
+$CUT_017_DISC_PACHE_008_PACHE_INTR
+Tak, to był straszny atak, sam chętnie bym się dowiedział, kto miał na tyle głęboką motywację, żeby się poważyć na coś takiego.
+$CUT_017_DISC_PACHE_009_PACHE_DOUB
+Wątpię, by ludzie, których ścigasz, przebywali żywi w Paryżu. Uciekli albo zabił ich zleceniodawca. Gonić będziesz duchy.
+$CUT_017_DISC_PACHE_010_JUDGE_AGGR
+Poruszę niebo i ziemię, żeby ich dopaść. Żądam, by człowiek, który ponoć sprawuje władzę nad miastem, faktycznie pokazał, że w Paryżu rządzi sprawiedliwość, a nie bandyci!
+$CUT_017_DISC_PACHE_011_JUDGE_MANI
+Każdy, kogo pytałem, mówił, że Jean-Nicolas Pache to człowiek, który nie przymyka oka na takie niegodziwości. Czy ludność Paryża się myli w tej kwestii?
+$CUT_017_DISC_PACHE_012_JUDGE_JOKE
+Szczerze mówiąc, nie wiem, dlaczego akurat ciebie wybrałem na pomocnika w odszukaniu sprawców. Wydałeś mi się, obywatelu, najbardziej przyjazny i empatyczny ze wszystkich kandydatów.
+$CUT_017_DISC_PACHE_013_JUDGE_HUMI
+Kto inny niż mer tego wspaniałego miasta mógłby zaprowadzić w nim porządek? Tylko ty możesz powstrzymać panoszącą się na ulicy brutalność, której padłem ofiarą.
+$CUT_017_DISC_PACHE_014_PACHE_SATI
+Schlebia mi to niezmiernie, że widzisz we mnie tak światłego obrońcę miasta.
+$CUT_017_DISC_PACHE_015_PACHE_INTR
+Widzę pasję w twoich oczach. Aż zżera mnie ciekawość, co moglibyśmy wspólnie osiągnąć.
+$CUT_017_DISC_PACHE_016_PACHE_DOUB
+Jak powiedziałem – współczuję. Zostawmy to jednak profesjonalistom. My mamy ważniejsze tematy.
+$CUT_017_DISC_PACHE_017_PACHE_IRRI
+Twój towarzysz François Hanriot miałby większe możliwości w tej sprawie. Tak, wiem o waszym małym sojuszu. Mogę tym samym podejrzewać, że nie do końca jesteś ze mną szczery, obywatelu Fidèle.
+$CUT_017_DISC_PACHE_018_JUDGE_AGGR
+Nie wiem, czy osoba z kręgosłupem moralnym powinna dopuszczać konieczność większej nagrody niż naprawienie krzywd niewinnych i sprowadzenie sprawiedliwości na zbrodniarzy.
+$CUT_017_DISC_PACHE_019_JUDGE_MANI
+Ludzie, którzy mnie zaatakowali, błąkają się teraz po Paryżu i mogą zaatakować każdego. Strach pomyśleć, co się stanie, jeśli wynajmie ich ktoś, kto zechce zaatakować na przykład mera Paryża. 
+$CUT_017_DISC_PACHE_020_JUDGE_JOKE
+Ci ludzie są martwi, to przesądzone. Zamiast jednak zabijać przypadkowych podejrzanych, wolałbym od razu dopaść tych właściwych.
+$CUT_017_DISC_PACHE_021_JUDGE_HUMI
+O przyszłości tego kraju zdecydują nasze kręgosłupy moralne. A czy zasługujemy na dobre imię, które mamy wśród ludu, jeśli nie wsłuchujemy się w ich skargi? Ci zamachowcy zagrażają wszystkim mieszkańcom.
+$CUT_017_DISC_PACHE_022_JUDGE_AGGR
+Jeśli twoja pomoc ma mieć cenę, to dobrze – dostaniesz procent z zysków z przybytku, który zarekwirowaliśmy madame Roland. Będziesz jednym z nas.
+$CUT_017_DISC_PACHE_023_JUDGE_MANI
+Przybytek madame Roland powinien mieć solidnych zarządców. Bez tego może zostać wykorzystany do niecnych celów, na przykład przeciw nam. A jeśli jeszcze mogę się z tobą podzielić zyskami…
+$CUT_017_DISC_PACHE_024_JUDGE_JOKE
+Zysków z burdelu, który zabraliśmy madame Roland, starczy dla wszystkich. Mogę się podzielić tym dobrem z tobą. W końcu ma nas łączyć przyjaźń.
+$CUT_017_DISC_PACHE_025_JUDGE_HUMI
+Nie oczekiwałbym pomocy kogoś tak zacnego, nie przynosząc darów. Madame Roland zbudowała niczego sobie przybytek. Dostaniesz, Jean, swoją część zysków.
+$CUT_017_DISC_PACHE_026_JUDGE_AGGR
+Ten sojusz będzie potrzebny nam obu. Nie odrzuca się wyciągniętej ręki sędziego Trybunału. Nie zaakceptuję odmowy.
+$CUT_017_DISC_PACHE_027_JUDGE_MANI
+Schwytanie zamachowców to początek. Dzięki temu sojuszowi możesz stać się najpotężniejszym człowiekiem w Paryżu. Chętnie ci w tym pomogę.
+$CUT_017_DISC_PACHE_028_JUDGE_JOKE
+To wielka przyjemność, że mogę spokojnie wrócić do swoich obowiązków, gdy o moje bezpieczeństwo zadba taki zacny człowiek jak ty. Ten sojusz to dobra rzecz. Wyświadcz mi tę przysługę.
+$CUT_017_DISC_PACHE_029_JUDGE_HUMI
+Uczyń mi ten zaszczyt i uznaj naszą przyjaźń i sojusz. Razem znajdziemy zamachowców i zapewnimy Paryżowi spokój.
+$CUT_017_DISC_PACHE_030_PACHE_SATI
+Przyjmę wyciągniętą przez ciebie dłoń, bo ten sojusz uczyni lepszym życie nasze i paryżan!
+$CUT_017_DISC_PACHE_031_PACHE_INTR
+Że też nie spotkaliśmy się wcześniej, jesteś ciekawą personą. Kroczmy ramię w ramię.
+$CUT_017_DISC_PACHE_032_PACHE_DOUB
+Zadałeś sobie wiele trudu, żeby mnie przekonać. Może nie przekonałeś mnie do końca, ale cóż… niech stracę. Zaryzykuję.
+$CUT_017_DISC_PACHE_033_PACHE_IRRI
+Nie opanowałeś jeszcze sztuki oratorskiej na tyle, by ukryć swe prawdziwe zamiary. Chcesz mnie w coś wciągnąć? Może nawet zabić? Nie wiem tego, ale wątpię w Twoje dobre intencje. Twoja śmierć będzie dla mnie prezentem. Panowie?
+
+$CUT_017_DISC_PACHE_TOPIC_01
+Zamach / Poszukiwanie sprawców
+$CUT_017_DISC_PACHE_TOPIC_02
+Tylko Pache może pomóc
+$CUT_017_DISC_PACHE_TOPIC_03
+Moralność musi wygrać
+$CUT_017_DISC_PACHE_TOPIC_04
+Podział zysków z burdelu Rolandów
+$CUT_017_DISC_PACHE_TOPIC_06
+Szukanie przyjaciela / Sojusz

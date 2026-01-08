@@ -1,0 +1,282 @@
+$GEN_052_DOC_01_HEADER
+Hazırlayan: Charles Etienne
+$GEN_052_DOC_01_00
+	Vincent Boulle, genç bir <a name="1" class="hidden">savaş gazisi</a>. Dizinin altından Prusya topu ile bacağını kaybetti. Ordudan terhis edildi ve annesiyle 14 yaşındaki küçük kardeşi Mathéo ile birlikte bir apartman dairesine taşındı.
+$GEN_052_DOC_01_01
+	Kısa bir süre önce, Vincent’ın kardeşi <a name="3" class="hidden">pencereden düştü</a>. Doktorlar, her iki bacağını ve kalça kemiğini kırdığını, muhtemelen bir daha yürüyemeyeceğini söylüyor. Olayın yaşandığı gece, dul kadının dairesinden yüksek sesli bir kavga duyulmuş. Hôtel-Dieu’daki doktorlardan çocuğu bir kez daha muayene etmelerini istedik ve vücudunda hem eski <a name="5" class="hidden">yara izleri hem de taze morluklar</a> buldular.
+$GEN_052_DOC_01_02
+	Komşular, <a name="6" class="hidden">yaralı askerin dönüşünden</a> sonraki ilk aylarda rahatsız edici hiçbir şey fark etmediklerini söylediler. Ancak zamanla geceleri çığlıklar duymaya başladılar. Vincent bazen elinde bir şarap şişesiyle, alkol kokarak ve saldırgan davranışlar sergilerken görülüyordu.
+$GEN_052_DOC_01_03
+	Vincent Boulle’ü tutukladık ve <a name="8" class="hidden">annesi ile kardeşinin</a> aleyhine ifade vereceğini umduk. Ancak annesi, Mathéo’nun genç ve düşüncesiz olduğunu, pencereden kendi başına düştüğünü söyledi. Çocuk ise bizimle konuşmayı reddetti.
+$GEN_052_OnStart_00
+Siz Yurttaş Vincent Boulle musunuz?
+$GEN_052_OnStart_01
+Evet, benim.
+$GEN_052_OnStart_02
+Kardeşinizin pencereden düşmesinde sizin bir payınız var mıydı?
+$GEN_052_OnStart_03
+Delikanlı pencere pervazında oynuyordu, bir anda kayıp düştü.
+$GEN_052_OnStart_04
+Ona acıdığınız söylenemez.
+$GEN_052_OnStart_05
+Bir kaza geçirdi. Böyle şeyler olur.
+$GEN_052_OnStart_06
+Bir kaza mıydı? Yani, siz karışmadınız mı?
+$GEN_052_OnStart_07
+Prusyalılarla baş edemeyince, bu sefer ailesiyle kavga etmeye başladı.
+$GEN_052_OnStart_08
+Önce annem babamı mezara soktu, şimdi de kardeşimle ilgilendiği yok. Ona sormalısın.
+$GEN_052_OnGuilty_00
+Ev içi şiddet nedeniyle Yurttaş Boulle’u idama mahkûm ediyorum.
+$GEN_052_OnGuilty_01
+Başka bir hüküm verseydiniz şaşırırdım.
+$GEN_052_OnGuilty_02
+Peki, ama çocuğun bacakları iyileşecek mi?
+$GEN_052_OnPrison_00
+Vatandaş Boulle, kendi ailenize karşı işlediğiniz suçlar nedeniyle sizi hapse mahkûm ediyorum.
+$GEN_052_OnPrison_01
+O alçağı zincire vurun ve taş ocağına götürün!
+$GEN_052_OnNotGuilty_00
+Bu dava düşmüştür. Yurttaş Boulle, evinize dönebilirsiniz.
+$GEN_052_OnNotGuilty_01
+Savaş gazilerine bir dereceye kadar hoşgörü gösterilmesini anlarım, ama bu artık saçmalık.
+$GEN_052_OnNotGuilty_02
+Bir hafta sonra geri dönecek, bu kez cinayetle suçlanarak.
+$GEN_052_01x07_00_QTitle
+Orduya çok genç yaşta mı katıldınız?
+$GEN_052_01x07_00_00
+Orduya çok genç yaşta mı katıldınız?
+$GEN_052_01x07_00_01
+Daha yirmime bile basmamıştım.
+$GEN_052_01x07_00_02
+Bir bacağını kaybetmek zor olmalı.
+$GEN_052_01x07_00_03
+Bunun hakkında konuşmak istemiyorum!
+$GEN_052_01x07_00_04
+Nasıl oldu?
+$GEN_052_01x07_00_05
+Bunun hakkında konuşmak istemiyorum!
+$GEN_052_01x07_00_06
+Vatandaş, bacağınızı nasıl kaybettiğinizi anlatın.
+$GEN_052_01x07_00_07
+Hatırlamıyorum.
+$GEN_052_01x07_00_08
+Belki de bacağına değil, kafasına ateş edilmiştir?
+$GEN_052_01x07_00_09
+Peki, o anı tam olarak hatırlamadığınızı varsayalım. Olay günü ne olacak? Taarruzda mıydınız?
+$GEN_052_01x07_00_10
+O aptal çocuğun pencereden düşmesiyle bunun hiçbir ilgisi yok!
+$GEN_052_01x07_00_11
+Vatandaş, sizi dinleyerek zaten bir iyilik yapıyoruz. Lütfen sesinizi yükseltmeyin.
+$GEN_052_01x07_00_12
+…
+$GEN_052_01x07_00_13
+Bacağınız yüzünden mi içmeye başladınız?
+$GEN_052_01x07_00_14
+Hayır, uykusuzluk. Son zamanlarda bir kadeh şarap olmadan uyuyamıyorum.
+$GEN_052_02x06_01_QTitle
+Komşularınız, savaştan döndüğünüzde başlarda sakin olduğunuzu söylüyor…
+$GEN_052_02x06_01_00
+Komşularınız, savaştan döndüğünüzde başta sakin olduğunuzu, fakat zamanla giderek daha saldırgan hale geldiğinizi söylüyor. Ne oldu?
+$GEN_052_02x06_01_01
+Soruyu anlamadım, sayın yargıç.
+$GEN_052_02x06_01_02
+Tabii ki hayır. O tam bir masum.
+$GEN_052_02x06_01_03
+Bir süredir komşularınız sizden şikayetçi. İçki içmeye başladığınızda dairenizden gelen çığlıkları duymaya başladılar.
+$GEN_052_02x06_01_04
+Son zamanlarda annemle pek anlaşamıyoruz, ama önemli bir şey değil.
+$GEN_052_02x06_01_05
+Anlaşamıyor musunuz? Yoksa tartışıyor musunuz?
+$GEN_052_02x06_01_06
+Önemli bir şey yok, sadece ufak tefek anlaşmazlıklar.
+$GEN_052_02x06_01_07
+Ama dönüşünüzden hemen sonra başlamadı mı?
+$GEN_052_02x06_01_08
+Son zamanlarda hiç uyuyamıyorum. Yorgun insanlar kolayca sinirlenir.
+$GEN_052_08x04_02_QTitle
+Dul Bayan Boulle'ü tanık olarak çağırın.
+$GEN_052_08x04_02_00
+Dul Bayan Boulle’ü tanık olarak çağırın.
+$GEN_052_03x05_03_QTitle
+Kardeşinizle ilişkinizi nasıl tanımlarsınız?
+$GEN_052_03x05_03_00
+Kardeşinizle ilişkinizi nasıl tanımlarsınız?
+$GEN_052_03x05_03_01
+Mathéo mu? O küçük serseri yemek yemekten ve çalışmaya üşendiği için annesinden para istemekten başka bir şey yapmıyor.
+$GEN_052_03x05_03_02
+Kardeşiniz hiç çalışmadı mı?
+$GEN_052_03x05_03_03
+Şey, fırıncı mıydı kasap çırağı mıydı, tam hatırlamıyorum. Ama ne getirirse getirsin, hemen kendi yerdi.
+$GEN_052_03x05_03_04
+Peki ya siz? Nerede çalışıyorsunuz?
+$GEN_052_03x05_03_05
+Bacağı olmayan ben ne yapabilirim, ha? Kadınlarla puro mu sarayım?
+$GEN_052_03x05_03_06
+Bize dürüst olun. Kardeşinizi dövüyor muydunuz?
+$GEN_052_03x05_03_07
+Onu dövüyordu! İki sokak öteden bile duyuluyordu!
+$GEN_052_03x05_03_08
+Birinin onu adam gibi yetiştirmesi lazım. Beni babam büyüttü, ama Mathéo sekiz yaşındayken öldü. Evde otoriter biri yoktu, şimdi de haline bak.
+$GEN_052_03x05_03_09
+Babasının onu pek iyi yetiştirdiği de söylenemez.
+$GEN_052_07x04_04_QTitle
+Kardeşinizin pencereden düştüğü gece siz de içki içiyor muydunuz?
+$GEN_052_07x04_04_00
+Kardeşinizin pencereden düştüğü gece siz de içki içiyor muydunuz?
+$GEN_052_07x04_04_01
+Hayır, yargıç bey, o gece ayıktım.
+$GEN_052_07x04_04_02
+Komşularınız çığlıkları duymuş.
+$GEN_052_07x04_04_03
+Muhtemelen sokaktan geliyordu. Belki yine birilerini linç ettiler ya da başka bir şey oldu? Bilmiyorum, ben uyuyordum.
+$GEN_052_07x04_04_04
+Kardeşini hastaneye sen mi götürdün?
+$GEN_052_07x04_04_05
+Hayır, komşularımız yaptı. Her şeyi sabah öğrendim, şikayet etmeye geldiklerinde.
+$GEN_052_07x04_04_06
+Neden kendin almadın onu? Utandın mı?
+$GEN_052_07x04_04_07
+Üç gece boyunca uyuyamadım. Sonunda uyuyabildiğimde ise taş gibi uyudum.
+$GEN_052_07x04_04_08
+Bağırdığını duyduk!
+$GEN_052_07x04_04_09
+Kardeşinizi ziyaret ettiniz mi?
+$GEN_052_07x04_04_10
+Yanında oturuyordum ki, bir Muhafız subayı gelip onu sorgulamaya başladı. Mathéo'ya bir sürü soru sordular, ama o tek kelime etmedi. Sanırım sağlığını bu kadar aptalca mahvettiği için utanıyordu.
+$GEN_052_01x06_05_QTitle
+Orduda ne kadar süre hizmet ettiniz?
+$GEN_052_01x06_05_00
+Orduda ne kadar süre hizmet ettiniz?
+$GEN_052_01x06_05_01
+Bir yıldan fazla. O süre boyunca hep anneme ve kardeşime dönmeyi düşündüm…
+$GEN_052_01x06_05_02
+Ve eve döndüğünüzde, sıkıntılar başladı.
+$GEN_052_01x06_05_03
+Beni anlamadılar. Bir arkadaşının kanı yüzüne sıçradığında ne hissettiğini bilmiyorlar… Geceleri bağırdığımdan şikayet ediyorlardı. Pinard’ı çağırıyordum. Her gece onu rüyamda görüyordum. Bir kurşun yanağını delip geçmişti.
+$GEN_052_01x06_05_04
+Pinard hayatta kaldı mı?
+$GEN_052_01x06_05_05
+Bilmiyorum. İki gün sonra top mermisiyle vuruldum. Ona ne oldu hiçbir fikrim yok.
+$GEN_052_01x06_05_06
+Komşularınız da çığlıklar hakkında şikayetçi oldu.
+$GEN_052_01x06_05_07
+Onlar hiç ayakkabılarından birinin bağırsaklarını silmek zorunda kalmadı… Çığlıkları ve korkuyu ne bilebilirler ki?
+$GEN_052_01x06_05_08
+Bize acımanızı mı bekliyorsunuz?
+$GEN_052_01x06_05_09
+İsterseniz hepiniz gidip nehre atlayın, umurumda bile değil.
+$GEN_052_WIT_00_A_QTitle
+Küçük oğlunuz nasıl oldu da pencereden düştü?
+$GEN_052_WIT_00_A_00
+Küçük oğlunuz nasıl oldu da pencereden düştü?
+$GEN_052_WIT_00_A_01
+Sanırım pencere pervazında oynuyordu.
+$GEN_052_WIT_00_A_02
+Gece oldu, değil mi?
+$GEN_052_WIT_00_A_03
+Yani... evet.
+$GEN_052_WIT_00_A_04
+Bu saatte uyumak yerine sık sık oyun oynar mıydı?
+$GEN_052_WIT_00_A_05
+Oğlumun babası yok. Bazen onu kontrol etmek zor oluyor.
+$GEN_052_WIT_00_A_06
+Olay gecesi, oğlunuz oynarken siz ne yapıyordunuz?
+$GEN_052_WIT_00_A_07
+Çamaşır yıkıyordum. Çocuklar kıyafetlerini sürekli kirletiyor, ben de bütün gün çalıştığım için onları gece geç saatlerde yıkamak zorunda kalıyorum.
+$GEN_052_WIT_00_A_08
+Peki ya büyük oğlunuz? O neyle meşguldü?
+$GEN_052_WIT_00_A_09
+Emin değilim.
+$GEN_052_WIT_00_A_10
+O sırada uyuyor olabilir miydi?
+$GEN_052_WIT_00_A_11
+Hayır, hayır, uykusuzluk çekiyor ve–
+$GEN_052_WIT_00_A_12
+Ailesini dövüyor.
+$GEN_052_WIT_01_A_QTitle
+Oğullarınız iyi anlaşıyor mu?
+$GEN_052_WIT_01_A_00
+Oğullarınız iyi anlaşıyor mu?
+$GEN_052_WIT_01_A_01
+Bilirsiniz ya, erkek çocukları işte. Arada bir kavga ederler, ama yapıları böyle.
+$GEN_052_WIT_01_A_02
+Onu savunmayı bırak artık, kadın!
+$GEN_052_WIT_01_A_03
+Büyük oğlunuz artık bir çocuk değil.
+$GEN_052_WIT_01_A_04
+Benim için o her zaman bir çocuk olarak kalacak. Eğer sizin de çocuğunuz varsa, ne demek istediğimi bilirsiniz.
+$GEN_052_WIT_01_A_05
+Vincent Mathéo'ya vuruyor muydu?
+$GEN_052_WIT_01_A_06
+Hiç bile, o iyi bir çocuk. Bazen birlikte güreşirlerdi, ama çocuklar böyle şeyler yapar.
+$GEN_052_WIT_01_A_07
+Ona hiç zarar verdi mi?
+$GEN_052_WIT_01_A_08
+On beş yaşındayken, o–
+$GEN_052_WIT_01_A_09
+Neyi sorduğumu gayet iyi biliyorsun.
+$GEN_052_WIT_01_A_10
+Oğlum dürüst bir insandır. Neden tutuklandığını hiç anlamıyorum.
+$GEN_052_WIT_01_B_QTitle
+Vincent sizi hiç dövdü mü, Yurttaş?
+$GEN_052_WIT_01_B_00
+Vincent sizi hiç dövdü mü, Yurttaş?
+$GEN_052_WIT_01_B_01
+Elbette hayır, sayın yargıç.
+$GEN_052_WIT_01_B_02
+Sana hiç bağırıyor mu?
+$GEN_052_WIT_01_B_03
+Son zamanlarda uyuyamıyor, bazen de sesini yükseltiyor ama iyi uyuyunca geçiyor. Dikişlerin olduğu yerden bacağı ağrıyor, ben de bazen ona bir şişe alıyorum. Erkekler içtikten sonra her zaman kendini daha iyi hisseder.
+$GEN_052_WIT_01_B_04
+Ona bir şişe almazsanız, kızıyor mu?
+$GEN_052_WIT_01_B_05
+Hayır, hayır, oğlum bana asla kızmaz, asla.
+$GEN_052_WIT_01_B_06
+Tabii ki yapmaz, o iyi, o nazik çocuk.
+$GEN_052_WIT_01_B_07
+O gece, onun için bir şişe alacak gücünüz var mıydı?
+$GEN_052_WIT_01_B_08
+Pek iyi hatırlamıyorum, biliyorsunuz, yaşlandım. Ama hayır, sanmıyorum.
+$GEN_052_KEY_01
+Savaş gazisi
+$GEN_052_KEY_02
+Gecekondu
+$GEN_052_KEY_03
+Pencereden düşme
+$GEN_052_KEY_04
+Çığlıklar
+$GEN_052_KEY_05
+Yaralar ve morluklar
+$GEN_052_KEY_06
+Yaralı askerin dönüşü
+$GEN_052_KEY_07
+Şarap
+$GEN_052_KEY_08
+Anne ve kardeş
+$GEN_052_LastDialog_00
+Lütfen, başımı kesin. Belki o zaman kâbuslarım sona erer...
+$GEN_052_UNIQUE_QUESTION_00
+Çocuk hangi koşullarda pencereden düştü?
+$GEN_052_UNIQUE_ANSWER_CORRECT_00_00
+Pencerede oynuyordu.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Kardeşiyle tartışıyordu.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Onu temizliyordu.
+$GEN_052_UNIQUE_QUESTION_01
+Komşular, gazi hakkında şikayetçi oldu mu?
+$GEN_052_UNIQUE_ANSWER_CORRECT_01_00
+Onun içki içip saldırgan davrandığını söylediler.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Onlar, kendilerinden hırsızlık yaptığını söylediler.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Hayır, şikayetleri olmadı.
+$GEN_052_UNIQUE_QUESTION_02
+İfadelere göre, kaza sırasında sakat kişi ne yapıyordu?
+$GEN_052_UNIQUE_ANSWER_CORRECT_02_00
+Uyuyor.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Ordudan arkadaşlarıyla buluşmak.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Seine kıyısında yürüyüşe çıkmak.

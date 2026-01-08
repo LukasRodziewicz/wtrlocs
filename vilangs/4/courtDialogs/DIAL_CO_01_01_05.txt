@@ -1,0 +1,10 @@
+$DIAL_CO_01_01_05_001_PROSECUTOR
+Willkommen, Bürger Fidéle. Mein Name ist Antoine Quentin Fouquier de Tinville, ich bin der Staatsanwalt, der ab heute jeder Verhandlung des Tribunals beiwohnen wird.
+$DIAL_CO_01_01_05_002_PROSECUTOR
+Ich muss Sie warnen: Ich bin nicht zu Kompromissen bereit, hoffe jedoch, dass wir rasch eine gemeinsame Basis finden. Und nun zu erfreulicheren Nachrichten – der Bau der Guillotine ist abgeschlossen. Vielleicht werden wir sie schon heute in Betrieb nehmen.
+$DIAL_CO_01_01_05_003_MENTOR
+Ja, wir haben sie gesehen…
+$LETTER_CO_01_01_05_001
+Der König ist verschwunden! Verrat! Jeder, der Informationen über seinen Aufenthaltsort hat, muss diese umgehend den Behörden melden!
+$LETTER_CO_01_01_05_002
+Robespierre

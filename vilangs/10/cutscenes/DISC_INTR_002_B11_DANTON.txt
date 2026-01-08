@@ -1,0 +1,80 @@
+$DISC_INTR_002_B11_DANTON_001_V1_DANTON
+Affınıza sığınırım, fakat tırnaklarınızın altında ve manşetlerinizde kan olduğunu fark etmemek elde değil.
+$DISC_INTR_002_B11_DANTON_002_V1_JUDGE
+Üzgünüm, önceki randevum planladığım gibi gitmedi.
+$DISC_INTR_002_B11_DANTON_003_V1_DANTON
+Yani dostça bir çay sohbeti yapamayacağız, öyle mi?
+$DISC_INTR_002_B11_DANTON_004_V1_JUDGE
+Bu size kalmış.
+$DISC_INTR_002_B11_DANTON_001_V2_DANTON
+Beni bu kadar geç bir saatte çağırmanızın sebebini açıklayacağınızdan eminim. Üstelik dışarıda yağmur bardaktan boşanırcasına yağarken.
+$DISC_INTR_002_B11_DANTON_004_JUDGE_AGGR
+Pache ile ittifakınızı biliyorum. Bunu inkâr ederek beni daha fazla öfkelendirmeyin.
+$DISC_INTR_002_B11_DANTON_005_JUDGE_MANI
+Bazı dostlarım, Paris Belediye Başkanı ile gizli bir ittifaka girdiğinizi bana bildirdi.
+$DISC_INTR_002_B11_DANTON_006_JUDGE_JOKE
+Böyle bir işe bulaşacağını kim tahmin edebilirdi? Pache’yle bir şeyler çevirdiğini biliyorum.
+$DISC_INTR_002_B11_DANTON_007_JUDGE_HUMI
+Beni yanlış anlamayın, fakat Pache ile olan gizli ittifakınız artık gizli değil. Hiçbir şeye engel olmak istemem, ancak onun hakkında korkunç şeyler öğrendim ve konuşmamız gerektiğini düşündüm…
+$DISC_INTR_002_B11_DANTON_008_DANTON_INTR
+Bu bilgiyle ne yapmayı düşünüyorsunuz?
+$DISC_INTR_002_B11_DANTON_009_DANTON_DOUB
+O bilginin değerini abartıyorsunuz. Şimdi de milletvekilleri arasındaki siyasi ittifaklarla mı ilgileniyorsunuz?
+$DISC_INTR_002_B11_DANTON_010_DANTON_IRRI
+Beni bu şekilde kandırmaya kaç kişinin çalıştığını farkında mısın? Siyasi ittifaklarımı biliyor olman umurumda bile değil.
+$DISC_INTR_002_B11_DANTON_011_JUDGE_AGGR
+Pache’nin Avusturya casusu olduğuna dair elimde bir tanıklık var. Dostum, böyle bir demirle dibe batarsın.
+$DISC_INTR_002_B11_DANTON_012_JUDGE_MANI
+Pache'nin Avusturya casusu olduğuna dair bir ifadem var. Onu, müttefiklerinin isimlerini açıklamaya zorlayacağız. Böylece kendisi kafasını kurtaracak, ama suç ortakları kurtulamayacak.
+$DISC_INTR_002_B11_DANTON_013_JUDGE_JOKE
+Giyotin bıçağı, hainlerin mi yoksa onlara yardım edenlerin mi boynuna indiğine aldırmaz. Pache’nin Avusturyalılarla iş birliği yaptığına dair elimde kanıtlar var ve siz de onunla çalıştığınıza göre...
+$DISC_INTR_002_B11_DANTON_014_JUDGE_HUMI
+Tüm emeklerinizin bir skandal yüzünden göz ardı edilmesi ne yazık olurdu. Oysa ben, Pache’nin Avusturya casusu olduğunu ortaya koyan yazılı ifadeyi yayımlarsam, kesinlikle bir skandal patlak verecek. Halk, onun yoldaşlarının da başlarının gitmesini isteyecek.
+$DISC_INTR_002_B11_DANTON_015_DANTON_INTR
+Sizi dinliyorum.
+$DISC_INTR_002_B11_DANTON_016_DANTON_DOUB
+Bunu daha önce de yaşadım. Zaten casuslukla suçlanmıştım.
+$DISC_INTR_002_B11_DANTON_017_DANTON_IRRI
+Medeni bir sohbet ummuştum, fakat duyduğum sadece tehditler ve imalar.
+$DISC_INTR_002_B11_DANTON_018_DANTON_AGGR
+Diğer şantajcılardan duymadığım bir şey söyleyecek misiniz?!
+$DISC_INTR_002_B11_DANTON_019_JUDGE_AGGR
+Ayrıca, Pache’nin bana suikast girişimini düzenlediğine dair neredeyse kesin bir şüphe var. O, işlediği suçun bedelini ödeyecek. Fakat müttefiklerine bir seçim hakkı tanıyacağım; eğer kurtuluş yolunu seçmezlerse, ölecekler.
+$DISC_INTR_002_B11_DANTON_020_JUDGE_MANI
+Siz de bir Tribunal Yargıcı’na suikast girişiminde yer almış olabilirsiniz. Sonuçta, saldırının bedelini ödeyen Pache ile iş birliği yapıyordunuz…
+$DISC_INTR_002_B11_DANTON_021_JUDGE_JOKE
+Gerçekten hayatıma kasteden adamla ittifak kurman şart mıydı? Sence işin içinde olup olmadığın kimsenin umurunda olacak mı?
+$DISC_INTR_002_B11_DANTON_022_JUDGE_HUMI
+Pache hayatıma kastetmek için bir suikast düzenledi. Hak ettiği cezayı alacak, fakat onun kaderini paylaşmak zorunda değilsiniz. Suça karışmadığınızı biliyorum, ancak halk sizi bir katilin suç ortağı olarak görecek ve mirasınız anında yok olacak.
+$DISC_INTR_002_B11_DANTON_023_JUDGE_AGGR
+Pache’nin cezası kesildi. Onu bırak, bana katıl ya da onunla aynı sona razı ol! Seçimini yap ve sana bu fırsatı sunduğum için minnettar ol.
+$DISC_INTR_002_B11_DANTON_024_JUDGE_MANI
+Gerçekten de giyotin bıçağı başının üzerinde sallanan bir adamın yanında mı kalmak istiyorsun, yoksa bıçağın kimin üzerine ineceğine karar verenle mi güçlerini birleştireceksin? Pache ile dostluğun, onun kaderini paylaşmanın en kısa yolu. Senin çıkarların için hangisi daha iyi olacak?
+$DISC_INTR_002_B11_DANTON_025_JUDGE_JOKE
+Pache’ye ulaştığımda, giyotin iner. Size giyotinden sorumlu kişiyle—yani benimle—ittifak teklif ediyorum. Siyaset, sizi aşağı çeken müttefiklerden uzak durma sanatıdır.
+$DISC_INTR_002_B11_DANTON_026_JUDGE_HUMI
+Pache kurtarılamaz, ama siz kurtulabilirsiniz. Onun yüzünden başınızı kestirmeyin. Giyotin başındaki kişiyle yapılacak bir ittifak, karşı karşıya olduğunuz riski büyük ölçüde azaltır.
+$DISC_INTR_002_B11_DANTON_027_DANTON_INTR
+Haklısınız, Pache ile olan tanışıklığım gerçekten de bir yük. Memnuniyetle istediğinizi yapacağım.
+$DISC_INTR_002_B11_DANTON_028_DANTON_DOUB
+Adımı Danton olduğunu ve bu şehirde pek çok dostum bulunduğunu unutuyorsunuz… Öte yandan, işler oldukça talihsiz bir hal aldı. Peki, bakalım bu iş birliği bizi nereye götürecek.
+$DISC_INTR_002_B11_DANTON_029_DANTON_IRRI
+Beni buraya tehdit etmek için mi çağırdınız? Aramızda hiçbir iş birliği beklemeyin. Hoşça kalın.
+$DISC_INTR_002_B11_DANTON_030_DANTON_AGGR
+Sen çürük bir yargıçsın! Beni köpeğin mi yapmak istiyorsun?! Benim adım Danton, insanları tasmasında tutan benim!
+$DISC_INTR_002_B11_DANTON_TOPIC_01
+Pache ile ittifakınızı biliyorum.
+$DISC_INTR_002_B11_DANTON_TOPIC_02
+Pache düşman bir devletle iş birliği yapıyor.
+$DISC_INTR_002_B11_DANTON_TOPIC_03
+Pache, bir yargıca suikast girişimine karışmış olabilir.
+$DISC_INTR_002_B11_DANTON_TOPIC_04
+Devrim Mahkemesi Yargıcı daha güvenli bir tercih.
+$DISC_INTR_002_B11_DANTON_001_SUCCESS_JUDGE
+Seninle Pache ne planlıyordunuz, bilmem gerekiyor.
+$DISC_INTR_002_B11_DANTON_002_SUCCESS_DANTON
+Konu Devrim Köprüsü ile ilgiliydi.
+$DISC_INTR_002_B11_DANTON_003_SUCCESS_JUDGE
+İnşaatçıların bir türlü tamamlayamadığı köprü mü?
+$DISC_INTR_002_B11_DANTON_004_SUCCESS_DANTON
+Henüz tamamlanmadı, çünkü Belediye Başkanı ve ben süreci engelliyorduk.

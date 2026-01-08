@@ -1,0 +1,434 @@
+$TUTORIAL_1_01_TITLE
+Documents and Letters
+$TUTORIAL_1_01_MAIN
+Drag and drop documents to manage their layout. Click to display their contents.
+$TUTORIAL_1_02_TITLE
+Notebook
+$TUTORIAL_1_02_MAIN
+Review detailed information about current events, actions, and characters.
+$TUTORIAL_1_03_TITLE
+Verdict
+$TUTORIAL_1_03_MAIN
+Consider the effects and decide the defendant’s fate.
+$TUTORIAL_1_04_TITLE
+Events
+$TUTORIAL_1_04_MAIN
+React to events. Ignoring them may have severe consequences.
+$TUTORIAL_1_05_TITLE
+Protocol and Report
+$TUTORIAL_1_05_MAIN
+Acquaint yourself with the details of the case and complete the case files.
+$TUTORIAL_1_06_TITLE
+Influence Points
+$TUTORIAL_1_06_MAIN
+Influence Points are the main currency in the game. Use them wisely.
+$TUTORIAL_1_07_TITLE
+Hierarchy
+$TUTORIAL_1_07_MAIN
+Review the current balance of power in Paris and your position therein.
+$TUTORIAL_1_08_TITLE
+Options
+$TUTORIAL_1_08_MAIN
+Change the game settings.
+$TUTORIAL_1_09_TITLE
+Audience
+$TUTORIAL_1_09_MAIN
+Questioning the defendant will stir the impatient audience. Once angered, the people may even start a riot.
+$TUTORIAL_1_10_TITLE
+Jury
+$TUTORIAL_1_10_MAIN
+Systematically opposing the opinion of the Jury may lead to serious consequences.
+$TUTORIAL_1_11_TITLE
+Moving On
+$TUTORIAL_1_11_MAIN
+After a trial, click to move on to the next part.
+$TUTORIAL_1_12_TITLE
+Protocol
+$TUTORIAL_1_12_MAIN
+Review the trial’s records.
+$TUTORIAL_1_13_TITLE
+Report
+$TUTORIAL_1_13_MAIN
+Fill in the report by answering the Prosecutor’s questions. Answering incorrectly may influence your reputation and cost you your position as a judge!
+$TUTORIAL_1_14_TITLE
+Favour
+$TUTORIAL_1_14_MAIN
+The more mistakes you make, the higher your risk of being recalled. In the future you can unlock the possibility to influence the Prosecutor’s decision on the report.
+$TUTORIAL_1_15_TITLE
+Files
+$TUTORIAL_1_15_MAIN
+Review charges and facts. This will make it easier for you to unlock questions for the defendant.
+$TUTORIAL_1_16_TITLE
+Finding Links
+$TUTORIAL_1_16_MAIN
+Find the correct links to unlock questions for the defendant. Choose a line of enquiry and link it to the right category.
+$TUTORIAL_1_17_TITLE
+Chances
+$TUTORIAL_1_17_MAIN
+While linking lines of enquiry and categories, you can make a limited number of mistakes. If you make too many mistakes, the whole system will become locked.
+$TUTORIAL_1_19_TITLE
+Questions
+$TUTORIAL_1_19_MAIN
+Gather information and influence the Jury’s Attitude by questioning the defendant.
+$TUTORIAL_1_20_TITLE
+Unlock Questions
+$TUTORIAL_1_20_MAIN
+To ask questions, you have to first unlock them in the enquiry linking menu.
+$TUTORIAL_1_21_TITLE
+Question Effect
+$TUTORIAL_1_21_MAIN
+Being in the Jury’s good graces allows you to find out which way they will sway after you have asked a question.
+$TUTORIAL_1_22_TITLE
+Punishment
+$TUTORIAL_1_22_MAIN
+Make the most important decision: condemn the defendant, or deem them not guilty.
+$TUTORIAL_1_23_TITLE
+Signature
+$TUTORIAL_1_23_MAIN
+Sign the document to legitimise your verdict.
+$TUTORIAL_1_24_TITLE
+Intelligence
+$TUTORIAL_1_24_MAIN
+See how a verdict will affect Factions. Terrible relations with a Faction will prevent you from receiving any information in this regard.
+$TUTORIAL_1_25_TITLE
+Make Your Decision
+$TUTORIAL_1_25_MAIN
+Each action may require a different number of Influence Points and have a different chance of success. Consider them carefully!
+$TUTORIAL_1_26_TITLE
+Relations
+$TUTORIAL_1_26_MAIN
+Negative relations with Factions mean negative consequences for you (e.g. the fervour in Paris rising).
+$TUTORIAL_1_27_TITLE
+Reputation
+$TUTORIAL_1_27_MAIN
+Reputation impacts everything in the world of the game: Factions, family relations, the audience’s attitude, the fervour in the Sections, and even the ability to persuade other characters.
+$TUTORIAL_1_28_TITLE
+Influence Points
+$TUTORIAL_1_28_MAIN
+You have a set amount of Influence Points per day. In the future, you will be able to increase this limit.
+$TUTORIAL_1_29_TITLE
+Notifications
+$TUTORIAL_1_29_MAIN
+Pay close attention to the changes in your influence and relations with Factions.
+$TUTORIAL_1_30_TITLE
+Global Modifiers
+$TUTORIAL_1_30_MAIN
+Some of your decisions and changes in the world of the game may cause Global Modifiers to come into action. These factors affect relations, Reputation, and influence. You can review them in the Notebook.
+$TUTORIAL_1_31_TITLE
+Traps
+$TUTORIAL_1_31_MAIN
+Some cases may contain traps. Read through the files thoroughly to find the lines of enquiry that are irrelevant.
+$TUTORIAL_1_32_TITLE
+Quick Cases
+$TUTORIAL_1_32_MAIN
+Decide the fate of each defendant with care. You will not be able to take any decision back. Pay attention to who supports the defendant.
+$TUTORIAL_1_33_TITLE
+Expected Sentence
+$TUTORIAL_1_33_MAIN
+Find out which verdict is expected by the Factions and your close ones.
+$TUTORIAL_1_34_TITLE
+Intrigues
+$TUTORIAL_1_34_MAIN
+Intrigues are complex conflicts between you and another political player. A defeat may turn out to be disastrous for you.
+$TUTORIAL_1_35_TITLE
+The aristocracy have been revealed
+$TUTORIAL_1_35_MAIN
+From now on you must nurture relations with another political group operating within Paris.
+$TUTORIAL_2_01_TITLE
+Family actions
+$TUTORIAL_2_01_MAIN
+Upon returning home, you can decide how you would like to spend the rest of the day.
+$TUTORIAL_2_02_TITLE
+Various Actions
+$TUTORIAL_2_02_MAIN
+Each action will affect the other members of the family, as well as their attitude towards you.
+$TUTORIAL_2_03_TITLE
+Characters’ Attitudes
+$TUTORIAL_2_03_MAIN
+Each character’s attitude can provide you with or deprive you of certain bonuses (e.g. Reputation or relations with Factions).
+$TUTORIAL_2_04_TITLE
+Youngest Son
+$TUTORIAL_2_04_MAIN
+Your youngest son is special: his attitude makes the other family members like you slightly more. Take good care of him.
+$TUTORIAL_2_05_TITLE
+Locked Action
+$TUTORIAL_2_05_MAIN
+After various important events, you may find yourself with an Action forced upon you. On this day, you become the victim of your own decisions.
+$TUTORIAL_3_01_TITLE
+Sections of Paris
+$TUTORIAL_3_01_MAIN
+Each Section can be controlled by you, by an enemy, or be neutral.
+$TUTORIAL_3_02_TITLE
+Controlled Sections
+$TUTORIAL_3_02_MAIN
+Each Section you take over provides you with one additional Influence Point. The chance of mission success is higher in your territory.
+$TUTORIAL_3_03_TITLE
+Locked Sections
+$TUTORIAL_3_03_MAIN
+Some Sections are locked. Unlock them with any Agent to carry out Actions within them.
+$TUTORIAL_3_04_TITLE
+Enemy Sections
+$TUTORIAL_3_04_MAIN
+Enemy Agents can also take over your Sections. Actions performed in enemy Sections are less likely to be successful.
+$TUTORIAL_3_05_TITLE
+Riots
+$TUTORIAL_3_05_MAIN
+Riots block Agents (except the Bruiser) and prevent you from gaining Influence Points from the Section. When not quelled, riots make a Section neutral and can quickly spread.
+$TUTORIAL_3_06_TITLE
+Report
+$TUTORIAL_3_06_MAIN
+The Report contains a summary of all the events happening around the Map.
+$TUTORIAL_3_07_TITLE
+Report – shortcut
+$TUTORIAL_3_07_MAIN
+To open it again, click the Report icon.
+$TUTORIAL_3_08_TITLE
+Player Agents
+$TUTORIAL_3_08_MAIN
+Send Agents on missions, manage unruly crowds, and fight for influence over the city. Click an Agent and choose the Action you wish them to carry out.
+$TUTORIAL_3_09_TITLE
+Movement
+$TUTORIAL_3_09_MAIN
+You can move your Agents freely between your Sections. Unfortunately, in hostile or neutral Sections, they can only move one space per day.
+$TUTORIAL_3_10_TITLE
+Bruiser
+$TUTORIAL_3_10_MAIN
+The Bruiser is good at fighting, gaining Reputation, and managing unruly crowds.
+$TUTORIAL_3_11_TITLE
+Diplomat
+$TUTORIAL_3_11_MAIN
+Takes over Sections, nurtures relations with Factions, and lowers fervour in Sections. Weaker in duels against Enemy Agents.
+$TUTORIAL_3_12_TITLE
+Spy
+$TUTORIAL_3_12_MAIN
+Spies on the enemy, lures opponents, and helps the Diplomat control a territory.
+$TUTORIAL_3_13_TITLE
+Muscadins
+$TUTORIAL_3_13_MAIN
+They interfere with your business, and that of your enemies, by stirring up crowds in the Sections.
+$TUTORIAL_3_14_TITLE
+Revolutionary Patrol
+$TUTORIAL_3_14_MAIN
+The Patrol may imprison your Agent or capture an Enemy Agent.
+$TUTORIAL_3_15_TITLE
+Unlock a Section
+$TUTORIAL_3_15_MAIN
+To unlock a Section, you have to scout it first. You can only unlock Sections adjacent to ones that are already unlocked.
+$TUTORIAL_3_16_TITLE
+Main Section
+$TUTORIAL_3_16_MAIN
+Your Main Section is vital. The buildings here enable you to influence the rest of the game. Protect it at all costs. If you let it out of your grasp, you will lose the game.
+$TUTORIAL_3_17_TITLE
+Fervour
+$TUTORIAL_3_17_MAIN
+Each Section reacts to the situation in the game, causing the fervour of its residents to rise or fall. If their fervour becomes too intense, it could result in destructive riots.
+$TUTORIAL_3_18_TITLE
+Enemy Agents
+$TUTORIAL_3_18_MAIN
+Enemy Agents will fight with your Agents for territory. They can take over your Sections or neutral Sections.
+$TUTORIAL_3_19_TITLE
+Combat
+$TUTORIAL_3_19_MAIN
+When at least two hostile Agents meet in one Section, combat ensues. Remember that a Diplomat has little chance against a brutal fighter.
+$TUTORIAL_3_20_TITLE
+Injured Agent
+$TUTORIAL_3_20_MAIN
+After a defeat in combat, your Agent becomes injured. They can still move around, but are not able to perform any Actions.
+$TUTORIAL_3_21_TITLE
+Monument Construction
+$TUTORIAL_3_21_MAIN
+The more Sections under your control, the faster the monument is constructed. Each subsequent stage of completion allows you to take over another building near the monument.
+$TUTORIAL_3_22_TITLE
+Buildings
+$TUTORIAL_3_22_MAIN
+Each building lets you perform a different kind of Action. Take over the ones that support your playstyle.
+$TUTORIAL_3_23_TITLE
+Garrison
+$TUTORIAL_3_23_MAIN
+The Garrison generates reinforcements every turn. The higher your Reputation, the more troops will join you.
+$TUTORIAL_3_24_TITLE
+Defectors
+$TUTORIAL_3_24_MAIN
+People are trying to avoid the enemy’s cruelty in every Section of Paris. Protect them for as long as possible – your Reputation depends on it.
+$TUTORIAL_3_25_TITLE
+Enemy Attack
+$TUTORIAL_3_25_MAIN
+You have been attacked. If you have no troops in the Section, you will automatically lose.
+$TUTORIAL_3_26_TITLE
+Choose Your General
+$TUTORIAL_3_26_MAIN
+You can fight the battle on your own or accept General Dumas’s help (the battle will be fought automatically).
+$TUTORIAL_3_27_TITLE
+Enemy General
+$TUTORIAL_3_27_MAIN
+Each of the Enemy Generals have their favourite tactics and tricks.
+$TUTORIAL_3_28_TITLE
+Statistics view.
+$TUTORIAL_3_28_MAIN
+Toggle the view of refugees remaining in the districts on and off.
+$TUTORIAL_4_01_TITLE
+Guillotine
+$TUTORIAL_4_01_MAIN
+Earn the favour of the crowd by delivering a speech or proceed directly to the execution.
+$TUTORIAL_4_02_TITLE
+Speech
+$TUTORIAL_4_02_MAIN
+Remember, once you start your speech there is no going back. An awkward or clumsy speech will earn you nothing but ridicule from the audience.
+$TUTORIAL_4_03_TITLE
+The Crowd’s Attitude
+$TUTORIAL_4_03_MAIN
+Depending on your Reputation, the crowd will be more or less aggressive.
+$TUTORIAL_4_05_TITLE
+Guards
+$TUTORIAL_4_05_MAIN
+Calling the guards may save you from being attacked by an angry mob.
+$TUTORIAL_5_01_TITLE
+A Game of Dice
+$TUTORIAL_5_01_MAIN
+Defeat your opponent by achieving the best score possible. Losing may damage your Reputation.
+$TUTORIAL_5_02_TITLE
+Turns
+$TUTORIAL_5_02_MAIN
+The game lasts five turns and the player with the highest total score wins.
+$TUTORIAL_5_03_TITLE
+Dice Roll
+$TUTORIAL_5_03_MAIN
+Roll six dice and hope for the best score!
+$TUTORIAL_5_04_TITLE
+Re-Rolling
+$TUTORIAL_5_04_MAIN
+If you are unhappy with your score, you can re-roll the dice three times during the whole game.
+$TUTORIAL_5_05_TITLE
+Buying a Round
+$TUTORIAL_5_05_MAIN
+Get your opponent drunk to reduce their chances of winning. Drinking also lets you re-roll more dice.
+$TUTORIAL_5_06_TITLE
+Scoring
+$TUTORIAL_5_06_MAIN
+Gain points for rolling dice with identical values. The higher the number on the dice, the better your score.
+$TUTORIAL_5_07_TITLE
+Detailed Score
+$TUTORIAL_5_07_MAIN
+Check the detailed score and look out for the special score!
+$TUTORIAL_5_08_TITLE
+Favour
+$TUTORIAL_5_08_MAIN
+Favours allow you to force the Prosecutor to sign your Report in court, which may save you from losing your post if you fail to fulfil your duties.
+$TUTORIAL_6_01_TITLE
+Your Position
+$TUTORIAL_6_01_MAIN
+The higher your position in the political arena of Paris, the bigger your Reputation bonus.
+$TUTORIAL_6_07_TITLE
+Progress Bar
+$TUTORIAL_6_07_MAIN
+Perform Actions correctly to fill the progress bar. If you carry out too few, you will lose. If you perform more than necessary, you will receive a bonus.
+$TUTORIAL_6_08_TITLE
+Action Blocks
+$TUTORIAL_6_08_MAIN
+Intrigue Actions are displayed as Action blocks. Click to read the description and make a decision or persuade someone.
+$TUTORIAL_6_09_TITLE
+Persuasion
+$TUTORIAL_6_09_MAIN
+For an action to be successful, you need to persuade the required number of people. You can also send your Diplomat to do it for you. Remember, you can only do this while the block is active.
+$TUTORIAL_6_10_TITLE
+Methods of solution
+$TUTORIAL_6_10_MAIN
+Some actions require you to make decisions about tactics. Each decision may have a different chance of success.
+$TUTORIAL_6_11_TITLE
+Awaiting Results
+$TUTORIAL_6_11_MAIN
+Intrigues are carried out in a matter of days. The results of some Action blocks may only be seen the next day.
+$TUTORIAL_6_12_TITLE
+Counter-Attacks
+$TUTORIAL_6_12_MAIN
+From time to time your enemy may ruin your plans with a counter-attack. In such cases, you need to respond quickly and rationally.
+$TUTORIAL_6_13_TITLE
+Important Decisions
+$TUTORIAL_6_13_MAIN
+Sometimes you will have to make a decision that will affect an entire Intrigue. Think it through carefully.
+$TUTORIAL_7_01_TITLE
+Battle
+$TUTORIAL_7_01_MAIN
+Battles are dynamic fights between two hostile armies. They include infantry, rifles, and artillery.
+$TUTORIAL_7_02_TITLE
+Enemies
+$TUTORIAL_7_02_MAIN
+Enemy Generals may have different preferences regarding their tactics.
+$TUTORIAL_7_05_TITLE
+Choosing Tactics
+$TUTORIAL_7_05_MAIN
+Each tactic defines the way the attack or defence is conducted and affects the minor bonuses that your troops will receive in battle.
+$TUTORIAL_7_06_TITLE
+Physician
+$TUTORIAL_7_06_MAIN
+The physician treats your injured troops and provides a bonus to health points. Remember, if the troops die, the physician dies with them!
+$TUTORIAL_7_08_TITLE
+Refugees
+$TUTORIAL_7_08_MAIN
+During each turn of a battle, a certain number of people will escape the Section. The longer you hold out in the battle, the more people you will save.
+$TUTORIAL_7_09_TITLE
+Balance of Power
+$TUTORIAL_7_09_MAIN
+The balance of power during battles may change. Watch the respective bars and use the information you gain to choose the right tactics.
+$TUTORIAL_7_10_TITLE
+Logistics Specialist
+$TUTORIAL_7_10_MAIN
+This pawn increases the number of people that will escape the Section. If they die in battle, you will have to recruit a new one in the Main Section.
+$TUTORIAL_7_11_TITLE
+Modifiers
+$TUTORIAL_7_11_MAIN
+During battles, you may encounter additional conditions that affect your troops or the speed at which civilians escape.
+$TUTORIAL_8_01_TITLE
+Strategy Building
+$TUTORIAL_8_01_MAIN
+Before attempting persuasion, you may explore different approaches to all the topics of the conversation. After employing every kind of emotion, you will receive an evaluation of your choices.
+$TUTORIAL_8_02_TITLE
+Characters’ Attitudes
+$TUTORIAL_8_02_MAIN
+Each attitude comes with a set of emotions that can have a positive and negative impact. Learn their effects to manipulate the people of Paris in any way you please.
+$TUTORIAL_8_03_TITLE
+Characters’ Attitudes
+$TUTORIAL_8_03_MAIN
+The higher your Reputation, the more you know about the other speakers’ attitudes. You can also obtain this information by spending Influence Points.
+$TUTORIAL_9_01_TITLE
+Verdicts in the survival mode
+$TUTORIAL_9_01_MAIN
+There are two types of sentences in the survivor mode: death penalty or acquittal.
+$TUTORIAL_9_02_TITLE
+Scores obtained and date
+$TUTORIAL_9_02_MAIN
+Number of collected scores and day number.
+$TUTORIAL_9_03_TITLE
+Jury opinion
+$TUTORIAL_9_03_MAIN
+In survival mode, the verdict in line with the jury's opinion is 60 scores.
+$TUTORIAL_9_04_TITLE
+Report scoring
+$TUTORIAL_9_04_MAIN
+In survival mode, the report is scored on a scale of 0-100. Quantity of scores obtained is scaled depending on the number of questions and correct answers.
+$TUTORIAL_9_05_TITLE
+Bonus for the report
+$TUTORIAL_9_05_MAIN
+For correct completion of the entire report, bonus 50 points are scored.
+$TUTORIAL_9_06_TITLE
+Keeping order
+$TUTORIAL_9_06_MAIN
+For keeping order in the Court room, bonus 25 points are scored.
+$TUTORIAL_9_07_TITLE
+Scoring of unlocked questions
+$TUTORIAL_9_07_MAIN
+In survival mode, the unlocked questions are scored on a scale of 0-100. Quantity of scores obtained is scaled depending on the number of unlocked and all questions.
+$TUTORIAL_9_08_TITLE
+Bonus for questions
+$TUTORIAL_9_08_MAIN
+For unlocking all questions, 50 bonus points are scored.
+$TUTORIAL_9_09_TITLE
+Impact of the verdict
+$TUTORIAL_9_09_MAIN
+In survivor mode, indicators show whether a given verdict will improve, deteriorate or not change your relationship with the fraction.
+$TUTORIAL_DISPLAY_MESSAGE
+Do you want to display tutorials?
+$TUTORIAL_DISPLAY_YES
+Yes
+$TUTORIAL_DISPLAY_NO
+No

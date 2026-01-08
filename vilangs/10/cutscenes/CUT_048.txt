@@ -1,0 +1,28 @@
+$CUT_048_001_MENTOR
+İşte özgürlüğümüzün yeni simgesi. Hâlâ taze ahşap kokusunu alabiliyorsun.
+$CUT_048_002_JUDGE
+Ona bakınca kendini özgür hissediyor musun?
+$CUT_048_003_MENTOR
+Bizim gibi insanlar sembollere ihtiyaç duymaz, ama Fransa'nın buna ihtiyacı var.
+$CUT_048_004_MENTOR
+Günün haberini duydun mu?
+$CUT_048_005_MENTOR
+İnsanlar başı kesik tavuklar gibi koşturup duruyor, Louis ve maiyetinin Paris’ten kaçtığını haykırıyorlar.
+$CUT_048_006_JUDGE
+Demek ki taze odun kokusunun keyfini fazla süremeyeceğiz.
+$CUT_048_007_MENTOR
+Böyle anıtlar yalnızca hırsızları ya da küçük soyluları cezalandırmak için dikilmez.
+$CUT_048_008_JUDGE
+Sence giyotin kraliyet kanının tadına bakmak mı istiyor?
+$CUT_048_009_MENTOR
+Louis’un kaçışı aptalca bir hamleydi, ama görünüşe göre önceden planlanmıştı.
+$CUT_048_010_MENTOR
+Ondan birimizi feda etmemiz gerekecek... Tabii, yakalanırsa.
+$CUT_048_011_JUDGE
+Louis bu yüzden mi mahkememize geldi?
+$CUT_048_012_JUDGE
+Bizi yönlendirmek için mi?
+$CUT_048_013_MENTOR
+Belki de kalbinin derinliklerinde, giyotin ustalarının hissettiklerini o da hissetmiştir…
+$CUT_048_014_MENTOR
+Birinin hain ilan edilmesi gerekiyor, ortada hain olmasa bile.

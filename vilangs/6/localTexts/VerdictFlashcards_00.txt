@@ -1,0 +1,870 @@
+#FLASHCARD_HEADER_01
+Veredictos especiales
+#FLASHCARD_DESC
+Elige un caso y arrástralo a la columna que prefieras.
+#FLASHCARD_HEADER_02
+Casos para revisar
+#FLASHCARD_01_NAME
+Edmond Morin
+#FLASHCARD_01_DESC
+Un joven y acaudalado comerciante estrelló su carruaje descapotable contra el escaparate de una tienda. Varios clientes que se encontraban dentro resultaron heridos por fragmentos de vidrio. El culpable no intentó huir: estaba tan ebrio que perdió el conocimiento inmediatamente después del incidente.
+#FLASHCARD_02_NAME
+Los Hermanos Beaux
+#FLASHCARD_02_DESC
+Sylvain Beaux, de 18 años, y su hermano menor Fabien solían pasar las noches buscando mujeres bien vestidas, a las que arrastraban a callejones oscuros para golpearlas y robarlas. Principalmente se llevaban joyas. Sabemos de al menos nueve víctimas.
+#FLASHCARD_03_NAME
+Olivier Prêtre
+#FLASHCARD_03_DESC
+El comerciante de sal Olivier Prêtre encargó unas pesas especiales, vacías por dentro, que usaba para pesar la sal. Sus clientes perdían 50 gramos por cada kilo que compraban. No solo engañaba a sus clientes, sino que también cometía fraude fiscal.
+#FLASHCARD_04_NAME
+Gérald Lucy
+#FLASHCARD_04_DESC
+Gérald Lucy, de 70 años, engañó a su esposa con una prostituta. Además, para asegurarse de satisfacer sus deseos, gastó 25 francos en una poción hecha con sangre de gato. A los investigadores les dijo: «Esa bruja rancia me prometió hechizos. Y funcionó, pregúntenle a la puta.»
+#FLASHCARD_05_NAME
+Nathan Popelin
+#FLASHCARD_05_DESC
+Nathan Popelin, quien controla a las prostitutas en la Plaza de los Federados, golpeó brutalmente a un cliente de una de sus empleadas. Tras ser detenido, declaró que la víctima “hizo cosas por las que no había pagado”.
+#FLASHCARD_06_NAME
+Duret, Boisselot, Lebas
+#FLASHCARD_06_DESC
+Tres jóvenes aristócratas —Maël Duret, Gilbert Boisselot y Luc Lebas— casi bebieron hasta perder el sentido. Ebrios, desenterraron una tumba reciente, sacaron el cadáver de un condenado, lo arrojaron a un carro y recorrieron París gritando: “¡Mirad, ha perdido la cabeza por la Revolución!”
+#FLASHCARD_07_NAME
+Gaume, Charpe
+#FLASHCARD_07_DESC
+Dos sargentos — Grégory Gaume y Lucien Sharpe — han estado robando pólvora de los almacenes militares. Cada vez que consiguen un pase militar, venden lo robado a cazadores y bandidos. ¡Robar al Ejército es traicionar a Francia!
+#FLASHCARD_08_NAME
+Albane Maurice
+#FLASHCARD_08_DESC
+Una tal Albane Maurice golpeó a Blaise Cellier con un grueso bastón mientras él trabajaba en su puesto de pescado. Según los testigos, los despiadados golpes fueron un castigo por haber dejado caer una cesta de mercancías.
+#FLASHCARD_09_NAME
+René Galopin
+#FLASHCARD_09_DESC
+René Galopin, funcionario municipal, exigió un soborno a un comerciante de harina a cambio de un buen puesto en el mercado. Cuando la hija del comerciante acudió con el dinero, Galopin cerró la puerta y abusó de ella por la fuerza.
+#FLASHCARD_10_NAME
+Cédric Compère
+#FLASHCARD_10_DESC
+Cédric Compere, un niño de 12 años, atropelló a una mujer que pasaba, arruinando su vestido. El muchacho lo encontró sumamente divertido. Luego fue perseguido por el esposo de la víctima. Al ser atrapado, intentó culpar a su amigo menor, quien, según los testigos, no tuvo nada que ver con el incidente.
+#FLASHCARD_11_NAME
+Lucille Picard
+#FLASHCARD_11_DESC
+Lucille Picard, viuda de un zapatero, le dijo a un acreedor que vino a cobrarle: “Antes te podían arrancar la piel, pero al menos no andaban cortando cabezas a todo el mundo.” Cuando el hombre le preguntó si prefería aquellos tiempos, ella supuestamente asintió.
+#FLASHCARD_12_NAME
+Édouard Abadie
+#FLASHCARD_12_DESC
+Édouard Abadie, un tabernero, ha sido acusado de añadir agujas secas de conífera a sus salchichas. La verdad salió a la luz cuando uno de sus clientes, Josselin Monteil, notó un sabor extraño. El posadero, furioso, lo tiró del taburete y lo echó del local.
+#FLASHCARD_13_NAME
+Matthieu Cousteau
+#FLASHCARD_13_DESC
+Matthieu Cousteau, carpintero, visitó al abogado Basile Lazard para tomar medidas de un armario de tres puertas. Aprovechó la ocasión para curiosear el contenido del aparador, y sus manos, por pura casualidad, acabaron aferradas a una botella de coñac.
+#FLASHCARD_14_NAME
+Hector Pierlot
+#FLASHCARD_14_DESC
+Hector Pierlot, dueño de un molino, ha muerto tras una copiosa cena. La esposa de la víctima sospecha que su marido fue envenenado por su cocinero, Sébastien Chevotet. Unos días antes de su muerte, Pierlot había prohibido un encuentro entre Chevotet y su prometida.
+#FLASHCARD_15_NAME
+Corinne Chardin
+#FLASHCARD_15_DESC
+La lavandera Corinne Chardin mató a su vecina, Théophile Portier, con un cuchillo de cocina. La tragedia ocurrió en el apartamento de Chardin. Ella afirma que Portier la atacó primero, pero no hay testigos ni pruebas que lo confirmen.
+#FLASHCARD_16_NAME
+Émilien Bazalgette
+#FLASHCARD_16_DESC
+Émilien Bazalgette, inválido de guerra y mendigo, fue sorprendido intentando convencer a una niña pequeña de que lo acompañara al sótano. Luego trató de huir de la Guardia y, accidentalmente, asustó a un caballo enganchado a un carro. El animal salió corriendo por la calle y dañó gravemente el vehículo.
+#FLASHCARD_17_NAME
+Rapace, Bozonnet
+#FLASHCARD_17_DESC
+Lucas Rapace y Bruno Bozonnet irrumpieron en la casa del marqués de Rouvroy, ataron a su mayordomo a una silla y lo golpearon durante horas para obligarlo a revelar dónde escondía su amo el oro. Al darse cuenta de que no hablaría, tomaron la cubertería de plata de la cocina y huyeron.
+#FLASHCARD_18_NAME
+Paul Dubuisson
+#FLASHCARD_18_DESC
+Paul Dubuisson es un charlatán. Fue sorprendido vendiendo un brebaje hecho de huesos humanos, asegurando que curaría las canas. No solo el remedio resultó inútil contra la pérdida de pigmentación, sino que además provocó numerosos casos de enfermedad, dolor y vómitos.
+#FLASHCARD_19_NAME
+Jean-Noël Pélissier
+#FLASHCARD_19_DESC
+Jean-Noël Pélissier se ganaba la vida robando a los médicos. Solía pedir cita con distintos doctores de París, entraba en las salas de espera, sustraía algún objeto sin importancia y se marchaba. Luego vendía el botín por casi nada en los mercados callejeros.
+#FLASHCARD_20_NAME
+Amaury Boudet
+#FLASHCARD_20_DESC
+Un informante nos ha comunicado que el yerno del general Évrard Grandjean ha sido nombrado jefe del departamento de suministros en la École Militaire. Antes de conocer a la hija del general, Boudet ayudaba a sus padres en la taberna del centro de la ciudad.
+#FLASHCARD_21_NAME
+Philippe Rodier
+#FLASHCARD_21_DESC
+Philippe Rodier regresó a casa y encontró a su hija con su amante, Gaston Picard, un soldado algunos años mayor que ella. El padre, furioso, intentó echar al hombre de su casa. Ambos forcejearon. Cuando la joven trató de separarlos, fue empujada accidentalmente por las escaleras y se rompió el cuello.
+#FLASHCARD_22_NAME
+Marqués Jean-Louis Berthelot
+#FLASHCARD_22_DESC
+El marqués Jean-Louis Berthelot, enfurecido por perder en una partida de cartas en casa de un amigo, atacó a sus propios sirvientes. Le cortó la oreja a la cocinera con un cuchillo de carnicero. Cuando el mayordomo intentó socorrerla, Berthelot lo golpeó hasta matarlo.
+#FLASHCARD_23_NAME
+Barbier, Saunier, Duverger
+#FLASHCARD_23_DESC
+Tres jóvenes, Martin Barbier, Théo Saunier y Daniel Duverger, irrumpieron de noche en una panadería. Robaron un gran saco de harina, que luego intentaron vender en Les Halles. Cabe señalar también que, durante el robo, se rompió una ventana.
+#FLASHCARD_24_NAME
+Rémi Jacquemin
+#FLASHCARD_24_DESC
+Según los informes, el comerciante Rémi Jacquemin sobornó a los administradores del puerto fluvial para retener las mercancías de sus competidores. Así logró vender sus propios productos a precios más altos. Los parisinos pagaron caro por su delito.
+#FLASHCARD_25_NAME
+Delaplace, Micheaux
+#FLASHCARD_25_DESC
+Dos prostitutas de baja reputación, Marie-Laure Delaplace e Yvette Micheaux, agredieron brutalmente a su colega Lucille Joguet, quien supuestamente había seducido a uno de sus clientes. Unos transeúntes encontraron a la víctima en un callejón oscuro. Estaba inconsciente, sangrando y llena de moretones. A causa del ataque, la víctima perdió el ojo izquierdo.
+#FLASHCARD_26_NAME
+Olivia Moineau
+#FLASHCARD_26_DESC
+Olivia Moineau, empleada de una oficina gubernamental, supuestamente les dijo a sus vecinos que su nuevo jefe no es apto para el cargo. Incluso habría afirmado que las nuevas autoridades apuestan por ingenuos y que alguien tendrá que poner orden.
+#FLASHCARD_27_NAME
+Matthieu Besnard
+#FLASHCARD_27_DESC
+Matthieu Besnard ha estado difundiendo rumores en la taberna de la rue Saint-Martin, contando a quien quisiera oírle sobre su relación sexual con la esposa de Luc Haillet. Los investigadores han determinado que, con toda probabilidad, estaba mintiendo.
+#FLASHCARD_28_NAME
+Marianne Garreau
+#FLASHCARD_28_DESC
+El pequeño hijo de Marianne Garreau murió, probablemente a causa de una paliza. Cuando llevó a su hijo al médico, lo único que pudo hacer fue declarar su muerte y llamar a la Guardia. Cuando los investigadores preguntaron por el paradero del padre del niño en el momento del incidente, la sospechosa se negó a responder.
+#FLASHCARD_29_NAME
+René Boutin
+#FLASHCARD_29_DESC
+René Boutin, cocinero al servicio del funcionario municipal Norbert Pasquier, robó ocho kilos de carne ahumada a su patrón. “Quería vender una parte y llevar el resto a mi familia”, explicó el acusado, quien confesó el robo sin vacilar.
+#FLASHCARD_30_NAME
+Hugues Beaufils
+#FLASHCARD_30_DESC
+El doctor Hugues Beaufils fue despertado de su sueño por la esposa de un ciudadano: su marido había caído enfermo durante la cena. El médico tardó en abrir la puerta y se negó a atender al paciente, alegando que estaba demasiado cansado. La mujer no logró encontrar a otro doctor a tiempo, y su esposo murió.
+#FLASHCARD_31_NAME
+Geoffroy Loupe
+#FLASHCARD_31_DESC
+El cerrajero Geoffroy Loupe, encargado de instalar una cerradura en uno de los cofres del barón Boudreaux, dañó la tapa incrustada. El barón evaluó el daño y afirmó que repararlo costaría 50 francos. Loupe sostiene que la tapa ya estaba dañada antes de comenzar su trabajo.
+#FLASHCARD_32_NAME
+Antoine Raoult
+#FLASHCARD_32_DESC
+Al soldado Antoine Raoult le invadía el aburrimiento, así que tomó un palo y empezó a dibujar un motivo de flor de lis en la arena, justo frente a la sastrería donde su esposa hacía compras. Sus compañeros de la Guardia Nacional, que patrullaban la zona, lo sorprendieron en pleno acto.
+#FLASHCARD_33_NAME
+Bethune, Geffroy, Droz
+#FLASHCARD_33_DESC
+Tres jóvenes de 15 años, Solenne Bethune, Adèle Geffroy y Bernard Droz, invocaban espíritus en el sótano de un edificio en la Sección del Faubourg-du-Nord. Las velas que usaban eran robadas. El ritual fue interrumpido por el encargado.
+#FLASHCARD_34_NAME
+Marie-José Dumont
+#FLASHCARD_34_DESC
+Marie-José Dumont, de 16 años, compró dos kilos de cebollas en el mercado callejero, pero solo pagó por uno. La siguiente vez que la joven apareció en el mercado, el vendedor la llevó a la comisaría más cercana.
+#FLASHCARD_35_NAME
+Michel Loup
+#FLASHCARD_35_DESC
+Durante un viaje de negocios al norte de Francia, Mickaël Loup supuestamente mantuvo relaciones con Boissonade, una viuda que dirige un hospicio en Ruan. La denuncia fue presentada por la esposa del acusado. No se aportaron pruebas.
+#FLASHCARD_36_NAME
+Théophile, Cerfbeer
+#FLASHCARD_36_DESC
+Aimée Martin acusa a los hermanos Théophile y Éloi Cerfbeer de haberla violado durante un baile. Supuestamente la arrastraron cerca del Sena y abusaron de ella entre los arbustos. No encontramos testigos del incidente.
+#FLASHCARD_37_NAME
+Amand Peletier
+#FLASHCARD_37_DESC
+Amand Peletier, soldado de la Guardia Nacional, interrumpió su patrulla para ir a una taberna junto al río. Los lugareños lo vieron bebiendo cerveza oscura y extranjera. El propietario declaró que Peletier exigió bebidas gratis, amenazando con que, de lo contrario, “tendría problemas”.
+#FLASHCARD_38_NAME
+Hippolyte Rouanet
+#FLASHCARD_38_DESC
+Hippolyte Rouanet, de 68 años, lleva tiempo acosando a sus vecinos. Recientemente soltó a sus perros contra un grupo de niños que viven en su mismo edificio. Eso fue la gota que colmó el vaso: sus padres decidieron acusarlo de agresión.
+#FLASHCARD_39_NAME
+Denise Asselin
+#FLASHCARD_39_DESC
+Denise Asselin, una mujer mayor y exprostituta, dirige un burdel en su pequeño apartamento. Cuatro chicas del campo trabajaban por turnos en dos habitaciones. Durante la investigación, se quejaron de que Asselin les pagaba apenas unos pocos francos por noche y las alimentaba mal.
+#FLASHCARD_40_NAME
+Fabien Brasseur
+#FLASHCARD_40_DESC
+Hugo Cerf acusó a su vecino, Fabien Brasseur, de haber irrumpido en un cobertizo situado en el jardín que ambos comparten. Durante su detención, Brasseur afirmó que el cobertizo era de todos y que Cerf lo había cerrado ilegalmente. Los investigadores preguntaron a otros habitantes sobre la propiedad del cobertizo, pero dijeron no saberlo.
+#FLASHCARD_41_NAME
+Mathieu Rossignol
+#FLASHCARD_41_DESC
+Mathieu Rossignol, un comerciante de telas, estaba cenando en un restaurante cerca de Sainte-Chapelle cuando un camarero, Florian Boisselot, le derramó salsa accidentalmente. La camisa de seda de Rossignol quedó arruinada.
+#FLASHCARD_42_NAME
+Lucien Ponce
+#FLASHCARD_42_DESC
+Suzanne Ponce murió después de cenar con su esposo, Lucien, un médico de la guarnición. Descubrimos que, unos días antes del incidente, Lucien sorprendió a su esposa en una situación… y posición inequívocas.
+#FLASHCARD_43_NAME
+De Guignes, Joubert, Charbonnier, Vigouroux
+#FLASHCARD_43_DESC
+Cuatro criminales de ascendencia aristocrática —De Guignes, Joubert, Charbonnier y Vigouroux— atacaron de noche a los soldados que estaban de guardia frente a la caseta. Luego entraron, prendieron fuego al edificio y huyeron. No cabe duda de que el crimen fue político.
+#FLASHCARD_44_NAME
+Lionel Bettencourt
+#FLASHCARD_44_DESC
+Al vender un cabriolé de un solo caballo, Lionel Bettencourt ocultó que la parte inferior del vehículo estaba podrida por negligencia y humedad. El desafortunado comprador exigió que le devolvieran el dinero, pero, según sus palabras: “¡Ese bastardo me cerró la puerta en la cara!”
+#FLASHCARD_45_NAME
+Émile Berlioz
+#FLASHCARD_45_DESC
+Milo Berlioz, un vizconde de 22 años, sacó una pistola a plena luz del día e intentó disparar al hermano de su amada, con quien mantenía una fuerte disputa. La bala falló y quedó incrustada en la pared de una casa. El joven aristócrata fue entonces detenido por su propia víctima.
+#FLASHCARD_46_NAME
+Gaël Camille
+#FLASHCARD_46_DESC
+Cuando los intendentes militares llegaron al puerto fluvial para confiscar mercancías necesarias en el frente, uno de los comerciantes comenzó a incitar a los demás. Gaël Camille corría por el puerto, gritando. Por suerte, había suficientes soldados para restablecer el orden.
+#FLASHCARD_47_NAME
+Marthe Cuvillier
+#FLASHCARD_47_DESC
+Marthe Cuvillier, de 56 años, cruzó la calle sin mirar y pasó justo delante de un carro en movimiento. El vehículo transportaba barriles de vino. Para evitar una tragedia, el cochero tuvo que maniobrar bruscamente, lo que provocó que varios barriles cayeran y se rompieran. El tabernero afirma que el vino era de la más alta calidad y muy costoso.
+#FLASHCARD_48_NAME
+Abélard Delafose
+#FLASHCARD_48_DESC
+Gaëtan Barthet ordenó a Abélard Delafose recorrer París difundiendo falsos rumores sobre un químico que había desarrollado una fórmula para producir azúcar a partir de corteza de pino. Así, Barthet logró vender a un precio exorbitante una sección del bosque de pinos al sur de París.
+#FLASHCARD_49_NAME
+Séverin Lebas
+#FLASHCARD_49_DESC
+El borracho Séverin Lebas saltó la valla que rodeaba el almacén de Carbonneau, un comerciante, para acortar camino de regreso a casa. La zona estaba custodiada por perros que ahuyentaron al intruso. Lebas saltó sobre un montón de mercancías y volcó varios cajones de verduras.
+#FLASHCARD_50_NAME
+Tobie Vallotton
+#FLASHCARD_50_DESC
+Tobie Vallotton, un matón infame en su barrio, violó y luego asesinó a su antigua amante en su propio apartamento. El cuerpo fue hallado por su actual amante, quien en el momento del crimen estaba bebiendo vino con sus amigos a unas calles de distancia.
+#FLASHCARD_51_NAME
+Jean-Baptiste Lecerf
+#FLASHCARD_51_DESC
+Jean-Baptiste Lecerf fue robado por Séverin Saunier. El acusado le llevó una prostituta que trabajaba para Saunier. Mientras el dueño del apartamento estaba ocupado con la joven, Saunier regresó, forzó la cerradura de la puerta del despacho y robó varios cientos de francos en efectivo.
+#FLASHCARD_52_NAME
+Deniau, Gaume, Besnard, Delcroix
+#FLASHCARD_52_DESC
+Un grupo de mujeres que hacía fila para recoger agua de una fuente comenzó a discutir. La disputa pronto se tornó física. Las mujeres involucradas en la pelea fueron Deniau, Gaume, Besnard y Delcroix. Se dice que la última fue derribada al suelo y brutalmente pateada.
+#FLASHCARD_53_NAME
+Godefroy Ouvrard
+#FLASHCARD_53_DESC
+Godefroy Ouvrard, un joven artesano, realizó algunas reparaciones menores en la casa del señor y la señora Auberjonois y luego mantuvo relaciones con la dueña de la casa. El señor Auberjonois no se encontraba presente. Al salir, Ouvrard robó una pluma estilográfica y un relicario de oro. Solicitamos castigo para ambos amantes.
+#FLASHCARD_54_NAME
+Claude Ducharme
+#FLASHCARD_54_DESC
+Un alto funcionario postal, según el testimonio de sus compañeros, gastó varios miles de francos en tabaco y coñac. Por supuesto, el dinero lo robó de la oficina de correos.
+#FLASHCARD_55_NAME
+Thomas Levasseur
+#FLASHCARD_55_DESC
+Un aristócrata rural, Thomas Levasseur, fue acusado públicamente y de forma falsa de no haber pagado al sastre Jean-Yves Noir por 13 pares de pantalones. Levasseur, quien presentó la denuncia en su defensa, mostró recibos que demostraban que, en realidad, sí había pagado por los pantalones.
+#FLASHCARD_56_NAME
+Frédéric Bessette
+#FLASHCARD_56_DESC
+El director de uno de los departamentos del Ministerio del Interior ha nombrado a su hermano menor como jefe de la secretaría. Además, Frédéric Bessette le concede regularmente bonificaciones por sus supuestos logros profesionales. Curiosamente, los demás funcionarios afirman que nunca han visto al joven Bessette.
+#FLASHCARD_57_NAME
+Louis Dolbeau
+#FLASHCARD_57_DESC
+El teniente de la Guardia Nacional Louis Dolbeau aceptó un soborno —un reloj de oro— de Gauthier Dufresne. Este último fue arrestado por recorrer París ebrio y agredir a otro cochero con quien discutía en la calle.
+#FLASHCARD_58_NAME
+Félicité Marais
+#FLASHCARD_58_DESC
+Félicité Marais, cocinera, aceptó dinero de un agente austríaco que le pidió envenenar a su patrón, el general Trintignant. Cumplió con la tarea y fue aún más lejos: añadió veneno al paté, matando no solo al general, sino también a su esposa, su hijo menor y su nuera.
+#FLASHCARD_59_NAME
+Charles Renou
+#FLASHCARD_59_DESC
+Jean-Pierre Renou acusó a su propio hermano, Charles Renou, de robar las medallas conmemorativas que pertenecían a su padre. Se registraron minuciosamente los apartamentos de ambos, pero no se hallaron las medallas. El acusado niega toda responsabilidad.
+#FLASHCARD_60_NAME
+Loup Didier
+#FLASHCARD_60_DESC
+Según el testimonio de un niño de siete años, Loup Didier, vicario de la Sección del Mont-Blanc, le pidió que lo ayudara en el campanario. Cuando el niño llegó, el sacerdote presuntamente cometió actos lascivos que preferimos no detallar. Los padres exigen un castigo severo.
+#FLASHCARD_61_NAME
+Jean-Charles Bernier
+#FLASHCARD_61_DESC
+Durante una marcha en apoyo a la Convención Nacional, Jean-Charles Bernier fue visto en la esquina de la Plaza de la Revolución. Testigos y miembros de la Guardia confirmaron que gritaba: “El Rey Sol volverá”. No hace falta añadir nada más.
+#FLASHCARD_62_NAME
+Grégoire Beaubois
+#FLASHCARD_62_DESC
+Convenciendo a dos ancianas condesas de que era un enviado del rey Jorge III, Grégoire Beaubois engañó a las mujeres y les sacó más de doce mil francos. Aunque el hombre era un farsante, ellas creyeron estar apoyando a un agente monárquico en Francia.
+#FLASHCARD_63_NAME
+Renaud Fouquet
+#FLASHCARD_63_DESC
+Renaud Fouquet intentó introducir de contrabando en París cuatro barriles de tabaco seco sin pagar los impuestos correspondientes. Utilizó barriles especiales con fondos falsos; a simple vista, parecían estar completamente llenos de repollo.
+#FLASHCARD_64_NAME
+Bastien LeMahieu
+#FLASHCARD_64_DESC
+Bastien LeMahieu, un furtivo, estaba cazando en los bosques al este de París cuando casi dispara al vizconde Barreau, que cabalgaba por la zona. LeMahieu declaró a los investigadores que había confundido el caballo con un ciervo.
+#FLASHCARD_65_NAME
+Porthos Poullain
+#FLASHCARD_65_DESC
+Porthos Poullain, un pintor talentoso, falsificaba obras famosas y las vendía a precios elevados a clientes ingenuos. Cuando uno de sus aprendices exigió un aumento y amenazó con delatarlo, Poullain contrató a cierto Yves Jeannin para deshacerse de él.
+#FLASHCARD_66_NAME
+Golay y Lagace
+#FLASHCARD_66_DESC
+Se vio a dos jóvenes lanzando piedras contra las ventanas de la casa del diputado de la Convención Rémy Crozier, rompiéndolas. Las piedras cayeron en una habitación donde jugaban los hijos de Crozier. Por suerte, no resultaron heridos.
+#FLASHCARD_67_NAME
+Arnaud Rousselot
+#FLASHCARD_67_DESC
+Dos soldados de la Guardia Nacional, Jean-Pascal Demaret y Bastien Pierrat, tuvieron que intervenir en la casa de Arnaud Rousselot. El hombre había golpeado a su hijo y atacado a un soldado con un cuchillo. Por lo tanto, lo acusamos de agresión y lesiones.
+#FLASHCARD_68_NAME
+Joël Brian
+#FLASHCARD_68_DESC
+Joël Brian compró 16 pieles de oso y 128 pieles de marta en el mercado. Aunque el acusado lo niega, nosotros —junto con un grupo de comerciantes— estamos convencidos de que pretendía especular y enriquecerse a costa de los ciudadanos de París.
+#FLASHCARD_69_NAME
+Honorine Cailloux
+#FLASHCARD_69_DESC
+Honorine Cailloux, de 52 años, golpeaba habitualmente a su madre, que supera los 80. Le arrojaba agua fría y luego la quemaba con un atizador al rojo vivo. También hemos sabido que robaba objetos del apartamento de su madre para venderlos. Con el dinero, se compraba vino y láudano.
+#FLASHCARD_70_NAME
+Mathis Bouhier
+#FLASHCARD_70_DESC
+Mathis Bouhier, hijo del conde Bouhier, fue encontrado deambulando ebrio por París a altas horas de la noche, despertando a la gente al golpear sus puertas y cantar canciones a voz en cuello. Al ser detenido, intentó sobornar sin éxito a un oficial de la Guardia con ocho francos.
+#FLASHCARD_71_NAME
+Paulette Pernet
+#FLASHCARD_71_DESC
+Paulette Pernet supuestamente robó la ropa de su vecina Adrienne Escoffier. Las prendas estaban tendidas en el patio. Se registró el apartamento de la acusada y los investigadores hallaron sábanas que Escoffier reconoció de inmediato; sin embargo, Pernet se niega a confesar.
+#FLASHCARD_72_NAME
+Ignace Lefeuvre
+#FLASHCARD_72_DESC
+Ignace Lefeuvre perdió el control del caballo que tiraba de su carreta. El vehículo derrapó y atropelló a un grupo de transeúntes. Dos personas murieron en el acto y varias más tuvieron que ser llevadas al hospital. Lefeuvre estaba sobrio y fue el primero en socorrer a los heridos.
+#FLASHCARD_73_NAME
+Jean-Marc Massé
+#FLASHCARD_73_DESC
+El doctor Jean-Marc Massé fue llamado para atender a un paciente de 70 años que tenía fiebre. El médico debía practicarle una sangría. El paciente murió durante el tratamiento. Ahora su familia acusa a Massé de asesinato.
+#FLASHCARD_74_NAME
+Yvon Poullain
+#FLASHCARD_74_DESC
+Yvon Poullain, un panadero casado, fue sorprendido en la cama con su joven amante por el padre de esta. Poullain huyó saltando por la ventana hacia el tejado de la casa vecina, rompiendo varias tejas al caer. El agujero que dejó era tan grande que la lluvia arruinó varios objetos guardados en el desván.
+#FLASHCARD_75_NAME
+Marie-Paule Jacquard
+#FLASHCARD_75_DESC
+Marie-Paule Jacquard, viuda de un mayordomo que trabajaba en el Louvre, intentó comprar una gran cantidad de pólvora. Durante el interrogatorio, admitió que planeaba volar el Ayuntamiento.
+#FLASHCARD_76_NAME
+Joseph Compere
+#FLASHCARD_76_DESC
+Tarde en la noche, Joseph Compere fue atacado en su pequeña carnicería. Se defendió con tal destreza usando un cuchillo de carnicero que el agresor murió desangrado a unas calles de allí. Compere no informó del incidente. La Guardia lo encontró tras interrogar a los testigos.
+#FLASHCARD_77_NAME
+Michelle Ménard
+#FLASHCARD_77_DESC
+Según los informes, la ciudadana Michelle Ménard, empleada de correos, ha estado abriendo y leyendo cartas ajenas. Encontramos una suma considerable de dinero en su apartamento; con su modesto salario, sería imposible que hubiera ahorrado tanto. Esto es una prueba clara de su colaboración con agentes extranjeros.
+#FLASHCARD_78_NAME
+Maximilien Crépin
+#FLASHCARD_78_DESC
+Maximilien Crépin, hijo de un aristócrata condenado por actividades contrarrevolucionarias, intentó interrumpir la ejecución de su padre, incitando a la multitud a atacar a la Guardia. Entre otras cosas, gritó: “¡El Rey era un bastardo, pero al menos no decapitaba a cualquiera!”
+#FLASHCARD_79_NAME
+Pierre-Antoine Chuquet
+#FLASHCARD_79_DESC
+El pintor Pierre-Antoine Chuquet pagó al encargado de un cementerio municipal, Able Cochet, para obtener permiso de desenterrar un cadáver al azar y llevarlo a su estudio. Al parecer, Chuquet necesitaba el cuerpo para que “posara” para una pintura.
+#FLASHCARD_80_NAME
+Fouquet, Rigal, Cellier y Boissonade
+#FLASHCARD_80_DESC
+A altas horas de la noche, cuatro jóvenes — Fouquet, Rigal, Cellier y Boissonade — levantaron la tapa de un pozo y… defecaron en él como una broma. El vigilante que los sorprendió declaró que, antes de eso, los muchachos habían intentado ahogar a un gato. Por suerte, el animal logró escapar.
+#FLASHCARD_81_NAME
+Boutet y Abbadie
+#FLASHCARD_81_DESC
+Noël Boutet y Marius Abbadie estaban jugando a la guerra con otros niños en el patio, fingiendo ser, citamos, “los mosqueteros del Rey”. Uno de los vecinos avisó a la Guardia. Cuando los soldados llegaron al lugar, los niños estaban construyendo la Bastilla con viejos baúles: ¡Boutet y Abbadie pensaban defenderla!
+#FLASHCARD_82_NAME
+Anita Lemaître
+#FLASHCARD_82_DESC
+Anita Lemaître, la directora de un orfanato, aceptaba dinero de hombres a cambio de permitirles abusar sexualmente de los niños. Durante una redada, los soldados sorprendieron a tres pervertidos que, lamentablemente, lograron escapar y eludir el castigo.
+#FLASHCARD_83_NAME
+Marine Dupont
+#FLASHCARD_83_DESC
+Marine Dupont, la dueña de un burdel en el centro de París, engañaba habitualmente a sus clientes. Según un informante anónimo, Dupont utilizaba relojes de arena especiales para medir el tiempo que los hombres pasaban con las prostitutas. Dichos relojes no marcaban el tiempo correctamente.
+#FLASHCARD_84_NAME
+Nathanaël Boulet
+#FLASHCARD_84_DESC
+Nathanaël Boulet, carpintero, acompañó a Marie-Claude Adnet, obrera de fábrica, a su casa tras un baile. A pesar de sus claras objeciones, presuntamente entró en su apartamento y la violó.
+#FLASHCARD_85_NAME
+Roger Boissieu
+#FLASHCARD_85_DESC
+Roger Boissieu desertó del ejército y huyó a París, donde fue detenido por la Guardia debido a la embriaguez y las peleas. Los investigadores contactaron a su comandante en jefe. Descubrieron que Boissieu era sospechoso de haber asesinado a un compañero de armas. Lo más probable es que huyera por esta razón.
+#FLASHCARD_86_NAME
+Edgar y Sylvie Blanchet
+#FLASHCARD_86_DESC
+Edgar Blanchet y su esposa Sylvie fueron descubiertos robando posadas y bodegas de manera habitual. También agredieron a varias personas en la calle. Fueron capturados, cargados de vino robado, cuando saltaron de una bodega directamente en brazos de una patrulla de la Guardia.
+#FLASHCARD_87_NAME
+Arnaud Deshaies
+#FLASHCARD_87_DESC
+Arnaud Deshaies, de 68 años, asesinó a su esposa y prendió fuego al edificio donde vivían para borrar las huellas de su crimen. Ocho personas murieron en el incendio y otras 16 resultaron heridas. El acusado no quiso revelar por qué deseaba matar a su esposa.
+#FLASHCARD_88_NAME
+Deshaies y Saunier
+#FLASHCARD_88_DESC
+Robert Deshaies irrumpió en los apartamentos de varios parisinos adinerados. Más tarde, su cómplice, Léonard Saunier, los visitaba y les ofrecía instalar cerraduras nuevas en sus puertas. ¡Vaya negocio próspero!
+#FLASHCARD_89_NAME
+Jean Côté
+#FLASHCARD_89_DESC
+Un sacerdote constitucional, Jean Côté, fue sorprendido fundiendo oro destinado a la Revolución y vendiéndolo. Logramos encontrar testigos que lo vieron frecuentando burdeles y bebiendo. Sospechamos que el sacerdote se divertía a costa del Estado, usando su dinero.
+#FLASHCARD_90_NAME
+Paul Malet
+#FLASHCARD_90_DESC
+El violinista Paul Malet agredió a un músico rival. Tras la actuación del violinista, Malet lo esperó en la calle, lo atacó por la espalda y luego lo golpeó brutalmente con una porra. Podemos informar que el agresor fue especialmente cruel con los dedos de su rival: le rompió siete.
+#FLASHCARD_91_NAME
+Michel Popelin
+#FLASHCARD_91_DESC
+Mickaël Popelin obtuvo su puesto en la cancillería de la Convención Nacional gracias a la intervención de su tío, Blaise Popelin. Para avanzar en su carrera, Mickaël difundió rumores sobre su superior, alegando que apoyaba en secreto a los monárquicos.
+#FLASHCARD_92_NAME
+Flore Favre
+#FLASHCARD_92_DESC
+Flore Favre, camarera de diecisiete años, se peleó con una compañera. Sabemos que hubo un forcejeo y que Favre rompió un vaso en la cara de Claudine Martin. La víctima afirma que nunca podrá deshacerse de las cicatrices.
+#FLASHCARD_93_NAME
+Jean-Luc Mesny
+#FLASHCARD_93_DESC
+El guarnicionero Jean-Luc Mesny ha participado en protestas contra el aumento del precio del pan. Fue visto arrojando piedras a la Guardia e incitando a otros a unirse a él. Una de las piedras alcanzó a un niño de 7 años que se encontraba cerca. El niño falleció.
+#FLASHCARD_94_NAME
+Amaury Jaccoud
+#FLASHCARD_94_DESC
+Amaury Jaccoud cabalgaba por París a altas horas de la noche. Una patrulla de la Guardia notó que apenas podía mantenerse en la silla. Resultó que estaba completamente ebrio. Si el caballo se hubiera asustado, Jaccoud no habría sido capaz de calmarlo.
+#FLASHCARD_95_NAME
+Verninac, Chéron y Trémaux
+#FLASHCARD_95_DESC
+Gracias a un informante anónimo, descubrimos que Carla Verninac, Cécile Chéron y Martin Trémaux intentaban convencer a espíritus malignos de derrocar a las nuevas autoridades. Entre los objetos sospechosos hallados en sus apartamentos había libros escritos en lenguas desconocidas y una variedad de extrañas sustancias en frascos y tarros.
+#FLASHCARD_96_NAME
+Cédric Barnier
+#FLASHCARD_96_DESC
+El comerciante Cédric Barnier visitó a su proveedor en el campo y cargó en su carreta cuatro sacos de harina adicionales por los que no había pagado. Es evidente que no pudo tratarse de un simple error: fue un robo premeditado.
+#FLASHCARD_97_NAME
+Auguste Raoult
+#FLASHCARD_97_DESC
+Durante una disputa familiar, Auguste Raoult, de 40 años, perdió el control. Atacó a su hermana mayor. Cuando su madre intentó intervenir, tomó una sartén y golpeó a la anciana en la cabeza. Ella perdió el conocimiento y falleció unas horas después.
+#FLASHCARD_98_NAME
+Jacques Gavreau
+#FLASHCARD_98_DESC
+Jacques Gavreau, un obrero de la construcción, presenció el intento de robo de sus herramientas. Capturó al ladrón, Jean Gouin, y lo golpeó con una pala. Sus compañeros afirman que, de no haber intervenido, habría matado al delincuente.
+#FLASHCARD_99_NAME
+Leroux y Pasquier
+#FLASHCARD_99_DESC
+Gilbert Leroux, criador de animales destinados a la obtención de pieles, pagó una suma considerable al diputado Gaëtan Pasquier, quien a cambio debía convencer a sus colegas de votar a favor de un aumento en el arancel para las pieles importadas de Europa del Este.
+#FLASHCARD_100_NAME
+Marcel Lucy
+#FLASHCARD_100_DESC
+Marcel Lucy forzó la puerta de un apartamento que planeaba robar. Su propietario estaba fuera de París en ese momento. El ladrón no logró llevarse nada, ya que los vecinos, alertados, entraron al apartamento y lo redujeron mientras buscaba botín en el dormitorio del dueño.
+#FLASHCARD_101_NAME
+Bernadette Gauthier
+#FLASHCARD_101_DESC
+Bernadette Gauthier, la joven esposa de un oficial de la Guardia, fue sorprendida en la cama con el hijo de catorce años de su mayordomo. Por fortuna, el esposo traicionado, Jean-Jacques Gauthier, tuvo la sensatez de abstenerse de castigarlos y se limitó a arrestar a su infiel esposa y a su amante.
+#FLASHCARD_102_NAME
+Gérald Carpentier
+#FLASHCARD_102_DESC
+El carnicero Gérald Carpentier fue descubierto añadiendo carne de caballo a sus embutidos y carnes cocidas. La compraba a bajo precio a los campesinos locales. No se han reportado casos de intoxicación alimentaria, pero creemos que es solo cuestión de tiempo antes de que ocurra alguno.
+#FLASHCARD_103_NAME
+Martine Sartre
+#FLASHCARD_103_DESC
+Martine Sartre, una prostituta, atendía a varios oficiales de la Guardia de alto rango, así como al menos a un agente británico, a quien ya hemos condenado a muerte. Estamos seguros de que le pagaba no solo por sus favores, sino también por los secretos militares que le susurraba en la cama.
+#FLASHCARD_104_NAME
+Léopold LeBeau
+#FLASHCARD_104_DESC
+Léopold LeBeau se dedicaba a vender “piedras exóticas” que, según decía, “reducían la humedad y el hedor de la ciudad”. Sus principales clientes eran ancianos. Las piedras tenían un precio exorbitante, pero bastaba una inspección superficial para comprobar que no eran más que simples guijarros de río.
+#FLASHCARD_105_NAME
+Gaëtan y Lucie Guilloux
+#FLASHCARD_105_DESC
+Los restauradores Gaëtan y Lucie Guilloux fueron sorprendidos sirviendo carne de cerdo de baja calidad y mintiendo a sus clientes, asegurando que era solomillo. Para disfrazar el sabor de la carne, la sazonaron generosamente con especias baratas y salsa.
+#FLASHCARD_106_NAME
+Paul y Gustave de Guignes
+#FLASHCARD_106_DESC
+Paul y Gustave de Guignes obligaron a su hermana menor a vender su propio cuerpo. Sabemos con certeza que gastaban el dinero que ella ganaba en grandes cantidades de opio.
+#FLASHCARD_107_NAME
+Pierre Jauffret
+#FLASHCARD_107_DESC
+Mientras su tropa se preparaba para la batalla, el general Pierre Jauffret visitó la tienda de su amante. Cabe destacar que fueron sorprendidos en pleno acto sexual, rodeados de manjares tan escasos en tiempos de guerra que ni siquiera los oficiales podían acceder a ellos.
+#FLASHCARD_108_NAME
+Hubert Bernier
+#FLASHCARD_108_DESC
+Hubert Bernier contó a todo el vecindario que un destacamento de la Guardia había golpeado ilegalmente a su hermano. Sin embargo, logramos establecer que Pierre Bernier fue quien agredió a los soldados y que ellos solo se defendieron. También descubrimos que el culpable ya había sido castigado.
+#FLASHCARD_109_NAME
+Aubin Massé
+#FLASHCARD_109_DESC
+Aubin Massé abandonó su batería de artillería en pleno combate y huyó al bosque. Tiempo después regresó a su puesto, arrepentido, y fue recibido con grilletes. El acusado declaró que entró en pánico cuando los proyectiles empezaron a caer cerca. Los demás artilleros se mantuvieron en sus posiciones durante la batalla.
+#FLASHCARD_110_NAME
+Hubert Ardouin
+#FLASHCARD_110_DESC
+Hubert Ardouin participó en una pelea borracho, durante la cual mató a Rémy Abbadie al estrellarle la cabeza contra la esquina de una mesa. Al darse cuenta de lo que había hecho, robó un carro que pasaba e intentó huir. Por fortuna, estaba demasiado ebrio para conducir bien y, poco después, una de las ruedas se soltó, lo que permitió su captura.
+#FLASHCARD_111_NAME
+Antoine Bessette
+#FLASHCARD_111_DESC
+Antoine Bessett fue visto corriendo por la zona con dos palos de madera atados a la espalda. Gritaba algo sobre cazar monstruos. Varios comerciantes, un herrero y dos aguadores resultaron heridos.
+#FLASHCARD_112_NAME
+Barnabé Daigre
+#FLASHCARD_112_DESC
+El oficial de la guardia Barnabé Daigre se negó a perseguir a un ladrón que había robado un cofre lleno de bollos de la pastelería. Daigre explicó que, de joven, una flecha le atravesó la rodilla.
+#FLASHCARD_113_NAME
+Corin Faivre
+#FLASHCARD_113_DESC
+El joven Corin Faivre fue acusado de destruir un puesto del mercado. El muchacho intentó saltar desde un tejado a un carro cargado de heno, pero falló y aterrizó sobre el puesto del comerciante Geudre. Corin se rompió un brazo y ambas piernas.
+#FLASHCARD_114_NAME
+Jean-Marie Pollard
+#FLASHCARD_114_DESC
+El comerciante Jean-Marie Pollard ha sido acusado de fraude. Adrienne Guillet le compró un molinillo de café defectuoso. Cuando quiso devolver el objeto averiado, el comerciante le ofreció venderle nueve pequeñas piezas que harían que el molinillo fuera más rápido, más eficiente y… que realmente funcionara.
+#FLASHCARD_115_NAME
+Blaise Hamelin
+#FLASHCARD_115_DESC
+Blaise Hamelin intentó robar a un comerciante. Hamelin cubrió la cabeza de la víctima con un cubo, esperando que no se diera cuenta de que lo estaban asaltando.
+#FLASHCARD_116_NAME
+Julien Lardy
+#FLASHCARD_116_DESC
+Se vio al vicario Julien Lardy golpeando a tres niños que jugaban a las cartas en la calle. El acusado afirma que estaban jugando a la “guerra”, un juego que, en su opinión, incita a la violencia.
+#FLASHCARD_117_NAME
+Abel Clouthier
+#FLASHCARD_117_DESC
+Abel Clouthier, artesano dedicado a la fabricación de juguetes de madera, atacó a Charles Ducré con una barra de metal. La víctima era quien vendía sus productos. El motivo del crimen fue, probablemente, que Clouthier consideraba insuficientes los esfuerzos comerciales de Ducré. Como consecuencia, decidió herirlo y prender fuego a su tienda.
+#FLASHCARD_118_NAME
+Francis Alard
+#FLASHCARD_118_DESC
+Francis Alard, de 72 años, recorría alegremente las calles de Viroflay con su carreta, aunque apenas podía mantenerse en el asiento de lo borracho que estaba. Sus vecinos lograron detenerlo y declararon que los nietos de Alard iban como pasajeros en la carreta, y que la situación pudo haber terminado en tragedia.
+#FLASHCARD_119_NAME
+Abelin Lozé
+#FLASHCARD_119_DESC
+Durante una de sus primeras patrullas, Abelin Lozé, un joven oficial de la Guardia, fue persuadido por sus colegas mayores para disparar su mosquete en plena calle. Por fortuna, nadie resultó herido, pero la bala alcanzó el escaparate de una tienda y destrozó un maniquí junto con las ropas que llevaba puestas.
+#FLASHCARD_120_NAME
+Bacque
+#FLASHCARD_120_DESC
+El marqués Bacque engañó deliberadamente a Jan Poulin, quien le compró una mansión en el campo. Bacque le hizo creer que, por su dinero, recibiría el palacio, el jardín y parte del bosque circundante. En realidad, el bosque pertenece a su vecino. La verdad salió a la luz cuando Poulin se mudó a su nueva casa.
+#FLASHCARD_121_NAME
+Didier Berlioz
+#FLASHCARD_121_DESC
+El campesino Didier Berlioz tuvo una disputa con Perrine Girault, quien cultivaba el campo vecino. Por la noche, Berlioz prendió fuego al terreno. Como resultado, varias decenas de acres de cultivos de distintos agricultores ardieron en llamas. Eso no es simple vandalismo, es un acto en perjuicio de Francia. ¡Traición!
+#FLASHCARD_122_NAME
+Jérémie Lefrançois
+#FLASHCARD_122_DESC
+Jérémy Lefrançois, funcionario municipal, fue sorprendido emitiendo pasaportes — bajo nombres falsos — a delincuentes menores. El acusado se declaró culpable y entregó a los investigadores una lista detallada de todos sus clientes. La lista contenía más de cien nombres.
+#FLASHCARD_123_NAME
+Margaux Bossuet
+#FLASHCARD_123_DESC
+Durante una borrachera, Margaux Bossuet apuñaló a su joven compañero de piso. Los rescatistas lograron salvarlo, aunque había perdido mucha sangre. Tanto la acusada como su víctima son conocidos por ser borrachos y holgazanes.
+#FLASHCARD_124_NAME
+Juliette Chapuis
+#FLASHCARD_124_DESC
+Juliette Chapuis, la querida hija de un acaudalado industrial, envenenó a su padre para heredar su fortuna antes de tiempo. Fuimos informados del complot — urdido por Juliette y un hombre misterioso — tras el entierro de Gaspard Chapuis, por su hermano Jean-Louis.
+#FLASHCARD_125_NAME
+Marcel Manoury
+#FLASHCARD_125_DESC
+Marcel Manoury, impresor, publicó un tratado sin el permiso del autor. El texto gozó de gran popularidad en las librerías parisinas. Resultó imposible recuperar los ejemplares impresos ilegalmente: casi todos ya habían sido vendidos.
+#FLASHCARD_126_NAME
+Camille y Maud Boudon
+#FLASHCARD_126_DESC
+Camille Boudon y su esposa Maud, ambos farmacéuticos, fueron sorprendidos vendiendo láudano sin rastro de opio al precio del producto auténtico. No podemos saber cuántos parisinos fueron engañados.
+#FLASHCARD_127_NAME
+Lajoie y Asselin
+#FLASHCARD_127_DESC
+El conde Marian Lajoie, de 84 años, y su sirviente Alain Asselin fueron sorprendidos en un cementerio intentando robar un ataúd con los restos de Honorine Lajoie, la difunta esposa del conde. Cabe añadir que fue decapitada por propaganda contrarrevolucionaria.
+#FLASHCARD_128_NAME
+Vivienne Lecerf
+#FLASHCARD_128_DESC
+Se descubrió que Vivienne Lecerf envenenó a varios huéspedes de su posada con carne en mal estado. Los investigadores examinaron la comida minuciosamente, la olieron e incluso la probaron, pero aún no logran determinar si era carne de cerdo, de caballo o de perro.
+#FLASHCARD_129_NAME
+Jean-Charles Rousselle
+#FLASHCARD_129_DESC
+Jean-Charles Rousselle, propietario de una panadería, se negó a contratar a Deslys, hijo de un oficial de la Guardia. Tenemos motivos para sospechar que fue discriminado debido a las ideas realistas de Rousselle.
+#FLASHCARD_130_NAME
+Hugues Boissieu
+#FLASHCARD_130_DESC
+El comerciante de sal Hugues Boissieu se niega obstinadamente a sustituir sus viejas pesas por otras que utilicen el nuevo sistema de medidas. Este apego a las antiguas normas demuestra que el acusado es un monárquico.
+#FLASHCARD_131_NAME
+Lisa Mesny
+#FLASHCARD_131_DESC
+Lisa Mesny ha estado vendiendo ilegalmente “pociones mágicas” a mujeres jóvenes embarazadas. La sustancia provocaba abortos espontáneos. Registramos su casa y encontramos varias botellas vacías, hierbas secas y una gran suma de dinero escondida bajo el suelo.
+#FLASHCARD_132_NAME
+Hugues Bassot
+#FLASHCARD_132_DESC
+Uno de los edificios en el centro de París estuvo a punto de incendiarse cuando Hugo Bassot, de 47 años, animado por media botella de anisado, decidió encender una fogata en medio de su apartamento. Por suerte, el denso y oscuro humo alertó a los vecinos, quienes lograron evitar la tragedia.
+#FLASHCARD_133_NAME
+Émile Pleimelding
+#FLASHCARD_133_DESC
+Émile Pleimelding, un barón arruinado, obligó a su esposa a pasar la noche con el hombre al que le debía dinero tras una mala partida de cartas. La mujer acudió a nosotros para denunciar a su marido. «Ese bastardo no se detendrá aquí», declaró la señora Pleimelding.
+#FLASHCARD_134_NAME
+Courtial y Bachelot
+#FLASHCARD_134_DESC
+Colin Courtial y Égide Bachelot compraron en secreto dos mosquetes y varios kilos de plomo para fabricar balas. En el apartamento de uno de los conspiradores encontramos el periódico realista “Les actes des apôtres”. Por supuesto, los acusados aseguran que solo planeaban ir de caza.
+#FLASHCARD_135_NAME
+Gaspard Picard
+#FLASHCARD_135_DESC
+El coronel Gaspard Picard, responsable de la artillería del Ejército Interior, fue sorprendido robando materiales de construcción destinados a levantar nuevos barracones para su brigada, o al menos eso afirman sus subordinados. Según el informe, ordenó transportar varios carros de ladrillos hasta su propia mansión fuera de la ciudad.
+#FLASHCARD_136_NAME
+Pasteur, Anouilh, Caillat y Girault
+#FLASHCARD_136_DESC
+Tres mozos de cuadra y un cocinero —Ernest Pasteur, Paul Anouilh, Josselin Caillat y Damien Girault— supuestamente aprovecharon la ausencia de su patrón para irrumpir en su palacio, donde violaron a su hija. La joven sigue en estado de shock y no ha pronunciado palabra, pero algunos de los otros sirvientes identificaron a los sospechosos.
+#FLASHCARD_137_NAME
+Abraham Toutain
+#FLASHCARD_137_DESC
+Deseando ascender en la fundición de artillería, Abraham Toutain informó a sus superiores que su capataz había sido condenado a la guillotina por asesinato. Pronto se demostró que la información era falsa.
+#FLASHCARD_138_NAME
+Nathan Seyrès
+#FLASHCARD_138_DESC
+Nathan Seyrès supuestamente golpeó a su esposa, quince años menor que él. La acusación proviene de sus padres. Tanto el presunto culpable como la supuesta víctima niegan que tal incidente haya ocurrido. Además, no encontramos moretones en su rostro.
+#FLASHCARD_139_NAME
+Noël Moitessier
+#FLASHCARD_139_DESC
+Noël Moitessier, un experimentado estibador, le arrancó el ojo a Marius Courbet durante una pelea. Según testigos, agarró la cabeza de la víctima y la estrelló contra una pared. Por desgracia, había un clavo sobresaliendo justo allí.
+#FLASHCARD_140_NAME
+Ségolène y Solenne Aubert
+#FLASHCARD_140_DESC
+Las hermanas Ségolène y Solenne Aubert engañaron al ex prometido de una de ellas para que fuera a su apartamento, donde lo encerraron y torturaron. Lo golpearon, le vertieron agua hirviendo en el perineo y lo quemaron con un atizador, todo como castigo por su infidelidad.
+#FLASHCARD_141_NAME
+Marlène Rousselle
+#FLASHCARD_141_DESC
+Marlène Rousselle, una joven esposa, mantuvo relaciones sexuales con el amigo de su marido. Al ser sorprendida en el acto y llevada a la comisaría por un oficial, le ofreció su cuerpo como soborno.
+#FLASHCARD_142_NAME
+Émeric Vidal
+#FLASHCARD_142_DESC
+Émeric Vidal ganaba una buena suma entregando mujeres a espías británicos. Tenemos motivos para creer que tanto Vidal como sus chicas sabían perfectamente quiénes eran sus clientes, pero nunca revelaron esa información.
+#FLASHCARD_143_NAME
+Duret y Pomeroy
+#FLASHCARD_143_DESC
+Mickaël Duret y Jean-Loup Pomeroy, agentes de aduanas, retuvieron durante un tiempo prolongado varios cargamentos de pimienta en la barrera. Lo hicieron para que el hijo de uno de los oficiales, un comerciante de especias, pudiera subir los precios y obtener mayores ganancias.
+#FLASHCARD_144_NAME
+Léopold Astier
+#FLASHCARD_144_DESC
+Léopold Astier, de 21 años, pidió prestados varios miles de francos a su futuro suegro. Prometió invertir el dinero y obtener grandes ganancias. Sin embargo, según varios testigos, lo gastó en vino y prostitutas.
+#FLASHCARD_145_NAME
+Raphaël Mallet
+#FLASHCARD_145_DESC
+El oficial de la guardia Michaël Lagarde fue asesinado de camino a casa tras su turno nocturno. El martillo que probablemente se usó como arma del crimen yacía junto a Raphaël Mallet, quien fue hallado dormido, completamente ebrio, en un oscuro callejón.
+#FLASHCARD_146_NAME
+Hortense Boisselot
+#FLASHCARD_146_DESC
+Hortense Boisselot logró entrar en la casa de los señores Pernet haciéndose pasar por amiga de la familia. Una vez dentro, golpeó al sirviente y robó dinero, cubiertos de plata y un cuadro que descolgó de la pared. Fue arrestada cuando intentaba vender el botín.
+#FLASHCARD_147_NAME
+Thiers y Battier
+#FLASHCARD_147_DESC
+Tras la batalla, Égide Thiers y Milo Battier desobedecieron las órdenes y no marcharon hacia el este con su general. En su lugar, se quedaron atrás para saquear el campo de batalla. Los lugareños informaron que registraban los cadáveres.
+#FLASHCARD_148_NAME
+Marin Brugière
+#FLASHCARD_148_DESC
+Dylan Brugière ha estado tratando las enfermedades femeninas de una manera muy peculiar. Engañaba a sus pacientes diciéndoles que, para curarse, debían comprar medicinas muy costosas y pasar la noche con él. Al menos seis mujeres cayeron en su engaño.
+#FLASHCARD_149_NAME
+Bonnel y Lahaye
+#FLASHCARD_149_DESC
+Dos funcionarios, Alfred Bonnel e Yves Lahaye, golpearon a un mensajero que derramó tinta sobre unos documentos importantes. Encontramos leves moretones y un pequeño chichón en la cabeza de la víctima. Los acusados afirmaron que solo le gritaron, pero que no lo golpearon.
+#FLASHCARD_150_NAME
+Grégoire Courtial
+#FLASHCARD_150_DESC
+El empleado de banco Grégory Courtial ha estado calumniando a su sirvienta y acusándola de robo. Descubrimos que ella renunció, harta de su insolencia y grosería.
+#FLASHCARD_151_NAME
+Jordan Clérico
+#FLASHCARD_151_DESC
+Jordan Clérico, un joven pastor, llevaba sus gansos por las calles de París. En un momento, se puso a conversar con alguien y dejó de prestar atención a las aves por un instante. Así no vio cuando toda la bandada se cruzó delante de unos carros que tuvieron que frenar bruscamente. Solo un golpe de suerte evitó que ocurriera una desgracia.
+#FLASHCARD_152_NAME
+Jean-Pierre Garreau
+#FLASHCARD_152_DESC
+Jean-Pierre Garreau no solo ha maltratado físicamente a una prostituta que trabaja para él, sino que también intentó sobornar a una patrulla de la Guardia para que hiciera la vista gorda ante sus crímenes. Les ofreció no solo una generosa suma de francos, sino también los servicios de la propia víctima.
+#FLASHCARD_153_NAME
+Ludovic Malan
+#FLASHCARD_153_DESC
+Este delito tuvo lugar en nuestro propio tribunal. El encargado de los archivos, Ludovic Malan, contrató al primo de su esposa, al esposo de su hija y a un amigo de la escuela, asignando a cada uno un puesto diferente. El acusado afirma que hasta un perro podría desempeñar esas funciones, así que realmente no importaba a quién eligiera contratar.
+#FLASHCARD_154_NAME
+Eugène Dumont
+#FLASHCARD_154_DESC
+Eugène Dumont invitó a Lambert Maître a cenar en su casa para tratar asuntos de negocios. Cuando la conversación empezó a desviarse, Dumont ordenó a su mayordomo, Hector Bazalgette, que sirviera al invitado una comida envenenada. Maître sobrevivió a la cena, pero aún sufre las consecuencias del incidente.
+#FLASHCARD_155_NAME
+Rémy Chappuis
+#FLASHCARD_155_DESC
+Rémy Chappuis, conocido entre los vecinos como un excéntrico, intentó cortar en secreto un mechón de cabello a una niña en el mercado. Al registrar su casa, encontramos más “trofeos” similares. La víctima y su familia están convencidas de que Chappuis quería maldecirla.
+#FLASHCARD_156_NAME
+Gervais Tomas
+#FLASHCARD_156_DESC
+Gervais Tomas, herrero, mató a su hijo de 15 años en su taller. No hubo testigos del incidente. El acusado declaró que solo intentó abofetear a su hijo, pero el golpe fue tan fuerte que el muchacho perdió el equilibrio y se golpeó contra la dura esquina de la fragua.
+#FLASHCARD_157_NAME
+Loïc Maurice
+#FLASHCARD_157_DESC
+El barón Loïc Maurice arrastró por la fuerza a la hija de 12 años de su cocinero hasta un dormitorio y la violó. La madre de la víctima nos informó que también había agredido regularmente a ella y a otros sirvientes, negándoles días libres, mejor comida y velas adicionales para la cocina.
+#FLASHCARD_158_NAME
+Basile y Clélie Bréguet
+#FLASHCARD_158_DESC
+Basile y Clélie Breguet fueron sorprendidos vendiendo restos humanos. Los trituraban hasta convertirlos en polvo y los anunciaban como remedio para la tisis. También vendían el cabello de los cadáveres, indicando a los clientes que lo quemaran para deshacerse de los insectos. No pudimos averiguar de dónde obtenía la pareja sus “mercancías”.
+#FLASHCARD_159_NAME
+Bernard Beaulne
+#FLASHCARD_159_DESC
+Cuando el juez anunció la sentencia impuesta a Louis Dembélé, un simple ladrón, Bernard Beaulne exigió abiertamente que el criminal fuera decapitado. Pronto la multitud se le unió, provocando una peligrosa conmoción. Para detenerla, la Guardia tuvo que disparar varios tiros de advertencia al aire.
+#FLASHCARD_160_NAME
+Colin Chevalier
+#FLASHCARD_160_DESC
+Colin Chevalier ordenó a sus perros guardianes que atacaran a un desconocido que, por algún motivo, había entrado en su casa de campo. La víctima —no pudimos averiguar su nombre— fue literalmente despedazada. Chevalier afirma que el hombre intentó robarle, pero no hay testigos que respalden su versión.
+#FLASHCARD_161_NAME
+Wilmart y Varlet
+#FLASHCARD_161_DESC
+Jules Wilmart y Vincent Varlet fueron contratados por una de las bandas parisinas para cobrar deudas a varios jóvenes ladrones de la calle Lombards. Tras recibir el dinero, dispararon a los deudores. Los criminales fueron detenidos cuando intentaban huir con el botín.
+#FLASHCARD_162_NAME
+Abelin Delafose
+#FLASHCARD_162_DESC
+Abelin Delafose ha estado amenazando y asaltando a comerciantes de varias secciones de París casi a diario. Sin embargo, no tenía motivos para temer a la Guardia. Los testigos nos informaron que compartía su botín con los soldados a cambio de impunidad.
+#FLASHCARD_163_NAME
+Damien Badeaux
+#FLASHCARD_163_DESC
+En las cercanías de Auxerre, dos convictos escaparon durante el traslado de prisioneros. Badeaux, el jefe del convoy, demostró tal incompetencia que las autoridades locales tardaron varias horas en enterarse del incidente. Los convictos se esfumaron; Badeaux debe rendir cuentas.
+#FLASHCARD_164_NAME
+Valéry Chagnon
+#FLASHCARD_164_DESC
+Valéry Chagnon robó ropa de alta calidad a una lavandera. Vestido con ella, intentó conseguir un préstamo en un banco parisino haciéndose pasar por comerciante. Fue detenido de inmediato: el empleado del banco notó enseguida que Chagnon no sabía nada del oficio que decía ejercer.
+#FLASHCARD_165_NAME
+Dovera Marthe Rousselle
+#FLASHCARD_165_DESC
+Bajo los efectos del polvo, Dovera Marthe Rousselle se quedó dormida literalmente en medio de la calle, provocando un gran alboroto en el tráfico. Cuando por fin recuperó el conocimiento, explicó que el dolor de muelas era insoportable y por eso tomó una dosis fuerte del remedio.
+#FLASHCARD_166_NAME
+Denis Maret
+#FLASHCARD_166_DESC
+Denis Maret robó un caballo que pertenecía a Louis Brochard. El animal fue atado después a un poste frente a un mercado de París. Cuando el dueño comenzó a perseguirlos, el ladrón hizo galopar al caballo, destrozando varias cajas de fruta y botellas de vino a su paso.
+#FLASHCARD_167_NAME
+Pierre Barbet
+#FLASHCARD_167_DESC
+Pierre Barbet, hijo de un comerciante de harina, engañó a su esposa apenas una semana después de la boda. Cuando ella le gritó, Pierre la golpeó varias veces en la cara. La joven ni siquiera se molestó en limpiar la sangre ni en ocultar los moretones. De inmediato denunció el crimen a la Guardia.
+#FLASHCARD_168_NAME
+Grégoire, Milo y Victor Cuvier
+#FLASHCARD_168_DESC
+Los hermanos Grégoire, Milo y Victor Cuvier engañaban a mujeres del campo, prometiéndoles trabajo en la ciudad. Atacaban a sus víctimas, las violaban y amenazaban, y luego las vendían a burdeles en París, Ruan y Amiens. Tenemos constancia de 30 mujeres, pero el número real de víctimas podría ser mayor.
+#FLASHCARD_169_NAME
+Anne Dujardin
+#FLASHCARD_169_DESC
+Anne Dujardin incendió un edificio. Entre los habitantes se encontraban su exmarido y su nueva pareja. Se vio a la incendiaria romper una ventana del sótano y entrar poco antes de que comenzara el fuego. Había alrededor de una docena de personas más en el edificio en ese momento. Solo por pura suerte nadie murió en el incendio.
+#FLASHCARD_170_NAME
+Gilbert Dumont
+#FLASHCARD_170_DESC
+Gilbert Dumont, un ferviente partidario de Sylvain Maréchal, pronunció un encendido discurso para incitar a la multitud a asaltar la residencia de Auguste Millet, un armador. La multitud irrumpió en el palacio, robó muebles y objetos, destrozó puertas y ventanas, y golpeó a los sirvientes y demás miembros de la casa.
+#FLASHCARD_171_NAME
+Jean-Guy Duclos
+#FLASHCARD_171_DESC
+Jean-Guy Duclos vendió a Michaël Duverger una pistola que resultó estar averiada. El interrogatorio reveló que el acusado tenía dos armas idénticas. Tras probar Duverger la pistola que funcionaba, Duclos las intercambió, tomó el dinero y huyó.
+#FLASHCARD_172_NAME
+Jean-Luc Marais
+#FLASHCARD_172_DESC
+Tarde en la noche, Jean-Luc Marais agredió a dos cocineras junto al Sena. Primero las acosó con palabras y silbidos, luego intentó manosearlas. Las mujeres lograron escapar. Poco después, Marais fue detenido en una bodega cercana.
+#FLASHCARD_173_NAME
+Claude Coquelin
+#FLASHCARD_173_DESC
+Claude Coquelin anunció que buscaba contratar albañiles. Luego pidió a los candidatos que pagaran una pequeña suma “por las herramientas” y les indicó presentarse a trabajar en una dirección y hora determinadas. Por supuesto, él nunca apareció. Engañó al menos a cuatro personas.
+#FLASHCARD_174_NAME
+Francis y Josette Brugière
+#FLASHCARD_174_DESC
+Para ahorrar en el agua del pozo o de la fuente, los panaderos Francis y Josette Brugière usaron agua tomada directamente del río en la elaboración de su pan. El pan olía perfectamente bien, y sus clientes no sospecharon nada. Sin embargo, un repentino aumento de problemas digestivos en la zona llevó al descubrimiento de su delito.
+#FLASHCARD_175_NAME
+Adrien Delannoy
+#FLASHCARD_175_DESC
+Adrien Delannoy contrató a una prostituta y la ató. Durante tres días la golpeó, cortó y quemó. Cuando intentaba gritar, él la estrangulaba. La víctima logró escapar; de no ser así, probablemente estaría muerta. Durante el interrogatorio, Delannoy no pronunció una sola palabra.
+#FLASHCARD_176_NAME
+Clément Abadie
+#FLASHCARD_176_DESC
+Clément Abadie robó la bodega de su vecino. Se llevó 16 grandes tarros de mermelada y muchas otras conservas. Cuando la Guardia llamó a su puerta, la mayor parte de la comida ya había sido consumida.
+#FLASHCARD_177_NAME
+Lémery, Celice y Le Sueur
+#FLASHCARD_177_DESC
+Nadine Barreau fue violada en la cocina de una taberna parisina. Los testigos declararon que podían oír sus gritos pidiendo ayuda, incluso estando fuera del edificio. Sin embargo, una patrulla que pasó justo al lado de la posada no hizo nada para socorrer a la víctima. La patrulla estaba formada por Pascal Lémery, Bernard Celice y Henri Le Sueur.
+#FLASHCARD_178_NAME
+Didier Brassard
+#FLASHCARD_178_DESC
+Didier Brassard acusó a su esposa de infidelidad, pero no pudo demostrarlo ante el tribunal. En respuesta, la señora Brassard presentó una acusación contra su marido: afirmó que él había intentado cometer fraude. Como era de esperar, ella tampoco aportó pruebas.
+#FLASHCARD_180_NAME
+Germain Solé
+#FLASHCARD_180_DESC
+El juez Germain Solé aceptó un soborno del comerciante Vérany, conocido por haber engañado a varios de sus clientes. Las pruebas en contra de Solé son unas cartas y una suma considerable de dinero hallada en su despacho poco después de su conversación con Vérany.
+#FLASHCARD_181_NAME
+Jean-Luc Courbis
+#FLASHCARD_181_DESC
+Jean-Luc Courbis escribió una carta a su hermano —que actualmente reside en Austria— en la que relataba la marcha del ejército hacia el este. Curiosamente, mencionó datos muy precisos, como el número exacto de cañones que llevaban en la expedición.
+#FLASHCARD_182_NAME
+Guillaume Vaillancourt
+#FLASHCARD_182_DESC
+Un terrible accidente ocurrió en la fundición de Guillaume Vaillancourt. Uno de sus empleados sufrió graves quemaduras; su rostro ahora parece el de un monstruo salido de una pesadilla. Los demás empleados afirman unánimemente que Vaillancourt es responsable de esta tragedia.
+#FLASHCARD_183_NAME
+Marthe Bettencourt
+#FLASHCARD_183_DESC
+Marthe Bettencourt, una viuda que dirige una funeraria, fue sorprendida extrayendo dentaduras de oro de las mandíbulas de los difuntos. La verdad salió a la luz cuando Étienne Corriveau acudió a “despedirse” de su tío. El joven, que planeaba robar al difunto él mismo, se sintió tan decepcionado al verse adelantado que denunció el delito de Bettencourt.
+#FLASHCARD_184_NAME
+Paulin Solé
+#FLASHCARD_184_DESC
+Paulin Solé, al conducir su carreta de mercancías a gran velocidad, perdió un barril de vino en una curva. Lamentablemente, el barril golpeó a un niño de 7 años y le aplastó las piernas. El niño no puede caminar en este momento.
+#FLASHCARD_185_NAME
+Charles Tomas
+#FLASHCARD_185_DESC
+Julien Boutroux y Charles Tomas se batieron en duelo en Bobigny. Boutroux no sobrevivió. Una bala le atravesó el ojo, matándolo al instante. Ambos hombres contaban con sus respectivos padrinos, y el duelo se llevó a cabo según las reglas no escritas. Sin embargo, a la esposa del difunto poco le importan esos detalles.
+#FLASHCARD_186_NAME
+Olivier y Lisette Béliveau
+#FLASHCARD_186_DESC
+Olivier Béliveau ha estado abusando sexualmente de sus propias hijas de manera regular. Su madre, Lisette, lo sabía, pero nunca hizo nada para detener a su esposo. Es más, según ambas niñas, solía llevarlas hasta la habitación de su padre y cerrar la puerta.
+#FLASHCARD_187_NAME
+Marie-Christine Jacquemoud
+#FLASHCARD_187_DESC
+Encontramos la bula papal Auctorem fidei en la casa de Marie-Christine Jacquemoud. Permítanme recordarles que fue emitida por Pío VI, un papa que reconoció al ciudadano Capeto como mártir y condenó la Revolución. ¿Por qué alguien leería algo así? Creo que la respuesta es evidente.
+#FLASHCARD_189_NAME
+Cédric Bourbeau
+#FLASHCARD_189_DESC
+Cédric Bourbeau irrumpió en la casa del señor y la señora Auger. Se deslizó hasta la cocina y se quedó dormido en la despensa. Por la mañana, la cocinera lo descubrió cuando intentaba escapar. Bourbeau afirmó que solo quería entrar en calor.
+#FLASHCARD_190_NAME
+Alphonse Bouhier
+#FLASHCARD_190_DESC
+Alphonse Bouhier asesinó a su socio comercial e intentó sacar el cadáver de París en secreto. Cuando la Guardia le pidió registrar su carruaje, les ofreció un soborno muy generoso. Los soldados, intrigados, encontraron el cuerpo y arrestaron al asesino.
+#FLASHCARD_191_NAME
+Wilfried Alard
+#FLASHCARD_191_DESC
+Wilfried Alard aceptó imprimir un tratado escrito por un tal Sartre. Sin embargo, la publicación fue cancelada: el tratado intentaba difundir la extraña creencia de que Francia debía dividirse en regiones autónomas gobernadas por los Ciudadanos. No podemos tolerar semejantes subversivos.
+#FLASHCARD_192_NAME
+Gaëtan De Villiers
+#FLASHCARD_192_DESC
+Gaëtan De Villiers se ha jactado en numerosas ocasiones de haber dormido con la esposa de un conocido carnicero, Hugon Vallé, describiendo siempre el acto con todo lujo de detalles. La mujer lo negó — tanto en público como durante una audiencia privada — y afirmó no haber tenido ninguna relación íntima con él.
+#FLASHCARD_193_NAME
+Brunet, Paquin y Matthieu
+#FLASHCARD_193_DESC
+Camille Brunet, Léo Paquin y Pierre-Antoine Matthieu atrajeron a un oficial de la Guardia fuera de servicio a una vieja casa deshabitada, donde lo golpearon hasta dejarlo inconsciente. Los oficiales a cargo del caso no han logrado establecer ningún posible motivo para el crimen.
+#FLASHCARD_194_NAME
+Hugues y Bruno Chardin
+#FLASHCARD_194_DESC
+Hugues Chardin, de 15 años, y Bruno Chardin, de 16, fueron sorprendidos divirtiéndose al lanzar piedras contra las ventanas de casas y comercios. Lograron romper varios cristales antes de ser finalmente detenidos.
+#FLASHCARD_195_NAME
+André Beaux
+#FLASHCARD_195_DESC
+Pierre Couturier compró a André Beaux varias orugas de seda a un precio elevado. Sin embargo, resultaron ser una especie de insecto completamente distinta e inútil. El estafador fue detenido cuando intentaba huir de París con una considerable suma de dinero robado.
+#FLASHCARD_196_NAME
+Jérémie Loup
+#FLASHCARD_196_DESC
+Jérémy Loup discutió con su padre por la herencia de unos familiares fallecidos. Apuñaló al anciano cuatro veces. El hermano de Jérémy, que presenció el incidente, lo golpeó en la cabeza con un taburete y salvó la vida de su padre deteniendo la hemorragia y pidiendo ayuda.
+#FLASHCARD_197_NAME
+Alceste Calvet
+#FLASHCARD_197_DESC
+Alceste Calvet, editor de un periódico parisino, publicó un texto anónimo que criticaba el supuesto exceso de ejecuciones en Francia.
+#FLASHCARD_198_NAME
+Rosa Silvestre
+#FLASHCARD_198_DESC
+Rose Silvestre trabajaba en la posada de Jeana-Loupa Bonhomme cuando arrojó agua hirviendo al rostro de su patrón. La acusada sostiene que el comportamiento de la víctima fue inapropiado y que actuó en defensa propia.
+#FLASHCARD_199_NAME
+Gaspard Pascal
+#FLASHCARD_199_DESC
+El obispo Gaspard Pascal ayudó a su sobrino a obtener un cargo estatal. Para asegurar su puesto, el clérigo utilizó su poderosa influencia y sus conexiones dentro de la administración parisina.
+#FLASHCARD_200_NAME
+Marie-Ange Halphen
+#FLASHCARD_200_DESC
+Marie-Ange Halphen, lavandera, mató a su hijo pequeño arrojándolo al suelo. Sus vecinos declararon que durante muchas semanas oyeron llorar al niño casi todos los días. La acusada afirma que el niño se le cayó de las manos por accidente.
+#FLASHCARD_201_NAME
+Geoffroy Moineau
+#FLASHCARD_201_DESC
+Cerca de Verdún, el coronel Geoffroy Moineau ordenó a sus artilleros avanzar por un prado empapado. Cuando la caballería prusiana llegó al campo de batalla, los cañones franceses ya no podían ser movidos por los soldados en retirada. Tal incompetencia equivale a traición.
+#FLASHCARD_202_NAME
+Philidor y Duverger
+#FLASHCARD_202_DESC
+Dos saqueadores de tumbas, Marius Philidor y Abeau Duverger, se pelearon por una tumba reciente. Duverger salió vencedor y se quedó con la ropa del difunto.
+#FLASHCARD_203_NAME
+René Aubert
+#FLASHCARD_203_DESC
+El panadero René Aubert fue sorprendido horneando deliberadamente la mitad de la cantidad habitual de pan y vendiéndolo a un precio más alto. Durante el interrogatorio, Aubert insistió en que la harina escasea y que por eso subieron los precios. Sin embargo, sabemos bien que intentaba aprovecharse de la situación para ganar más y trabajar menos.
+#FLASHCARD_204_NAME
+Régis Chaufourier
+#FLASHCARD_204_DESC
+Régis Chaufourier propuso un brindis por “nuestra hermosa reina María”. Cuando fue interrogado, negó apoyar a la monarquía. Supuestamente solo “elogió el bello cuerpo de la difunta”. Los testigos afirman que, en el momento del incidente, Chaufourier estaba ebrio.
+#FLASHCARD_205_NAME
+Thierry Mallette
+#FLASHCARD_205_DESC
+Thierry Mallette se hizo pasar por ingeniero para ser nombrado capataz en la construcción de un edificio de viviendas. El edificio que supervisaba se derrumbó antes de terminarse, causando la muerte de varios obreros.
+#FLASHCARD_206_NAME
+Anaïs Barbet
+#FLASHCARD_206_DESC
+Anaïs Barbet ha estado robando pan de varias panaderías. Al ser detenida, explicó que necesitaba el pan para alimentar a sus hijos hambrientos. Sin embargo, sus vecinos nos contaron que lo vendía a mitad de precio en Les Halles y que a menudo estaba ebria.
+#FLASHCARD_207_NAME
+Lorie Édouard
+#FLASHCARD_207_DESC
+Lorie Édouard, esposa del zapatero Timothé Édouard, contó a desconocidos que los zapatos fabricados por un zapatero rival se desharían tras unas semanas. Durante el interrogatorio lloró, alegando que su marido la había obligado a hacerlo.
+#FLASHCARD_208_NAME
+Brunet, Simon y Charbonneau
+#FLASHCARD_208_DESC
+Tres obreros de la serrería — Jean-François Brunet, Alban Simon y Matthieu Charbonneau — violaron a la hija de su empleador. Antes de ese hecho, amenazaron con hacerle daño a su familia si no les pagaba los salarios atrasados.
+#FLASHCARD_209_NAME
+Jordan Maître
+#FLASHCARD_209_DESC
+Jordan Maître, de 76 años, tuvo una pelea con su esposa, con la que llevaba 52 años casado. Enojado, acudió a una prostituta. Fue visto entrando con ella a su apartamento. El acusado afirma que no ocurrió nada, pues no tenía fuerzas físicas. Sin embargo, su esposa mantiene la acusación.
+#FLASHCARD_210_NAME
+Gide y Bouhier
+#FLASHCARD_210_DESC
+Se informa que Lydie Gide y Marie-Laure Bouhier asaltaron a Thaddée Adnet, quien estaba ebrio. Al amenazarlo con un cuchillo, él les entregó rápidamente su cartera. La víctima no resultó herida.
+#FLASHCARD_211_NAME
+Jean-Guy Bruneau
+#FLASHCARD_211_DESC
+Jean-Guy Bruneau, un ladrón profesional, ha sido capturado. Otra vez. Irrumpió en una casa de cambio y robó varios miles de francos. Fue su propia amante quien lo denunció, después de que él se enfureciera y la golpeara.
+#FLASHCARD_212_NAME
+Saint-Yves, Saunier y Camille
+#FLASHCARD_212_DESC
+Un grupo de jinetes desertó del ejército durante los combates en Flandes. At terrorizar a los empleados de una posada, violaron a las sirvientas, bebieron durante tres días y luego regresaron al ejército. Logramos capturar a Louis Saint-Yves, Didier Saunier y Amaury Camille; sin embargo, algunos de sus cómplices lograron escapar.
+#FLASHCARD_213_NAME
+Carole Bissonnette
+#FLASHCARD_213_DESC
+Carole Bissonnette ha estado ocultando en su ático a un sacerdote, Yvon Dubois, quien se negó a prestar juramento y fue desterrado del país. Acusamos a Bissonnette de actuar deliberadamente en contra de la Revolución.
+#FLASHCARD_214_NAME
+Carrel y Crozier
+#FLASHCARD_214_DESC
+Arnaud Carrel y Théodore Crozier vendieron una gran cantidad de barriles de vino a un comerciante local. Le permitieron probar el vino de algunos barriles marcados. Más tarde, él descubrió que los demás recipientes estaban llenos de agua tomada del río.
+#FLASHCARD_215_NAME
+Vincent Duval
+#FLASHCARD_215_DESC
+Vincent Duval, un vendedor ambulante de carne, fue asaltado por un grupo de jóvenes. Llamó a una patrulla de la Guardia. Al no poder atrapar a los culpables, comenzó a gritarles. Amenazó a los agentes y no dejó de hacer gestos agresivos. Los soldados tuvieron que calmarlo poniéndole esposas.
+#FLASHCARD_216_NAME
+Delisle y Blondeau
+#FLASHCARD_216_DESC
+Una prostituta que trabajaba en el burdel de Gaëtan Delisle y Paul Blondeau fue golpeada hasta la muerte y arrojada de un carro en medio de la calle. No conseguimos información de sus compañeras, pero uno de sus clientes habituales nos contó que ella quería dejar de “trabajar” allí. Estamos seguros de que sus jefes son responsables de su muerte.
+#FLASHCARD_217_NAME
+Hector Sartre
+#FLASHCARD_217_DESC
+El barón Hector Sartre robó una valiosa pintura de la casa de su difunto tío, a donde acudió para dar el pésame a la viuda. El ladrón confesó el delito, explicando que su tía habría vendido la obra, mientras que él quería conservarla en la familia.
+#FLASHCARD_218_NAME
+Armand Lebas
+#FLASHCARD_218_DESC
+Armand Lebas es limpiador de alcantarillas. Recientemente permitió que se formara una obstrucción que bloqueó el flujo de desechos. Como resultado, agua maloliente y excrementos inundaron las plazas de la ciudad. Solo podemos imaginar cuántas personas enfermaron debido a esta negligencia.

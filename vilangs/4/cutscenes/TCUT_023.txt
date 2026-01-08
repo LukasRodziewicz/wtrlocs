@@ -1,0 +1,64 @@
+$TCUT_023_001_RENARD
+Vielen Dank, dass Sie unserer Einladung gefolgt sind.
+$TCUT_023_002_JUDGE
+Deshalb verabscheuen alle die Aristokraten. Ich hatte nicht wirklich das Gefühl, eine Wahl zu haben.
+$TCUT_023_003_RENARD
+Guter Einwand. Trotzdem danke.
+$TCUT_023_004_JUDGE
+Was für eine prächtige Residenz. Gut zu sehen, dass all das erpresste Geld nicht umsonst war.
+$TCUT_023_005_JUDGE
+Warum bin ich hier?
+$TCUT_023_006_RENARD
+Wir wollten, dass Sie jene kennenlernen, die allein wegen ihrer Herkunft verfolgt werden.
+$TCUT_023_007_RENARD
+Die Reichen werden nun genauso unterdrückt, wie einst die Armen.
+$TCUT_023_008_JUDGE
+Der Adel hat hart dafür gearbeitet, so behandelt zu werden.
+$TCUT_023_009_JUDGE
+Jeder hat einen Grund, dich zu hassen.
+$TCUT_023_010_RENARD
+Schon wieder die gleichen Propagandaparolen überall.
+$TCUT_023_011_RENARD
+Wenn wir mit dieser Revolution fertig sind, dürfen wir dann all jene töten, die jetzt versuchen, uns loszuwerden?
+$TCUT_023_012_JUDGE
+Viel Glück. Vielleicht begegnest du denen, die mein Kind getötet haben.
+$TCUT_023_014_RENARD
+Ich muss zugeben, wir waren uns nicht ganz sicher, ob wir an diesem Mord teilnehmen sollten, aber das Angebot war einfach zu verlockend.
+$TCUT_023_015_JUDGE
+Wie ist das zu verstehen?
+$TCUT_023_016_RENARD
+Meiner Meinung nach überschätzt unser verkleideter Partner Ihre Bedeutung.
+$TCUT_023_017_RENARD
+Und dennoch will er mit einem Richter des Tribunals zusammenarbeiten.
+$TCUT_023_018_RENARD
+Er hat uns außerdem versichert, dass er nicht vorhat, weitere Mitglieder Ihrer Familie zu töten.
+$TCUT_023_019_JUDGE
+Er hat mein Kind getötet?! Das waren Sie?!
+$TCUT_023_020_RENARD
+Sehen Sie, wie mächtig wir Adligen geworden sind, seit Sie uns zur Einigkeit gezwungen haben?
+$TCUT_023_021_RENARD
+Wir werden ein einziges Mal würfeln, du und ich.
+$TCUT_023_022_RENARD
+Wir werden um das Schicksal jenes Mannes spielen, der Ihre Familie verraten und uns geholfen hat, Ihr Kind zu töten …
+$TCUT_023_MINIGAME_YES_001_JUDGE
+Gut, dann spielen wir.
+$TCUT_023_MINIGAME_YES_002_RENARD
+Ein wahrer Kampfgeist. Das gefällt mir!
+$TCUT_023_MINIGAME_NO_001_JUDGE
+Ich werde deine Spielchen nicht mitmachen, Renard.
+$TCUT_023_MINIGAME_NO_002_RENARD
+Du bist genauso schwach und mittelmäßig wie dein Vater.
+$TCUT_023_MINIGAME_ROUND_01_COMM
+Unser maskierter Freund war außer sich vor Wut. Er bot uns ein äußerst lukratives Geschäft im Austausch für unsere Hilfe an. Wir willigten ein.
+$TCUT_023_MINIGAME_ROUND_02_COMM
+Ein gefährlicher, verletzter Mann. Ihn abzulehnen wäre unklug.
+$TCUT_023_MINIGAME_ROUND_03_COMM
+Um Ihr Kind zu töten, nutzte er Informationen, die er von einer Person erhielt, die wir selbst benannt hatten. Von einem Mann, mit dem wir bereits zusammengearbeitet haben. Was für ein Narr.
+$TCUT_023_MINIGAME_ROUND_04_COMM
+Wir werden euch seinen Kopf auf einem Silbertablett bringen. Das soll ein Zeichen unseres guten Willens sein und beweisen, dass es klug ist, unser Freund zu sein.
+$TCUT_023_MINIGAME_ROUND_05_COMM
+Die Aristokraten werden schon bald mit erhobenem Haupt in die Stadt zurückkehren, und mit jedem, der sich uns nicht anschließt, wird abgerechnet.
+$TCUT_023_MINIGAME_JUDGE_WON
+Ihr habt gesiegt. Wir halten unser Versprechen – ihr bekommt den Kopf des Verräters. Und Paris… nun, Paris wird weniger Glück haben.
+$TCUT_023_MINIGAME_JUDGE_LOST
+Früher oder später begreift jeder Spieler, dass er keinerlei Kontrolle hat. Er ist gezwungen, tatenlos zuzusehen, wie die Zeit ihn in den Untergang treibt. Ein Handel ist ein Handel. Sie haben verloren, also werden wir Ihnen nichts verraten. Und Paris… Paris wird bekommen, was es verdient.

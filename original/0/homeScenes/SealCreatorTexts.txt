@@ -1,0 +1,12 @@
+$SEAL_CREATOR_BASE
+Baza
+$SEAL_CREATOR_EMBLEM
+Emblemat
+$SEAL_CREATOR_TOPDETAIL
+Ozdoba na górze
+$SEAL_CREATOR_BOTTOMDETAIL
+Ozdoba na dole
+$SEAL_CREATOR_HEADERTEXT
+Zaprojektuj swoją pieczęć
+$SEAL_CREATOR_UNDERSCORETEXT
+Podpisz, by zaakceptować

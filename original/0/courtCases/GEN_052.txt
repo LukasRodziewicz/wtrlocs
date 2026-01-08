@@ -1,0 +1,292 @@
+$GEN_052_DOC_01_HEADER
+Sporządził: Charles Etienne
+$GEN_052_DOC_01_00
+	Vincent Boulle jest młodym <a name="1" class="hidden">inwalidą wojennym</a>. Pruska kula armatnia podczas bitwy urwała mu nogę pod kolanem. Po zwolnieniu z wojska i powrocie do Paryża zamieszkał on ze swoją matką wdową oraz młodszym bratem, 14-letnim Mathéo, w mieszkaniu w kamienicy.
+$GEN_052_DOC_01_01
+	Niedawno brat Vincenta <a name="3" class="hidden">wypadł przez okno</a>. Lekarze twierdzą, że ma złamaną miednicę i obie nogi. Dziecko prawdopodobnie nie będzie już nigdy chodziło. Dotarły do nas informacje, że tej nocy z mieszkania wdowy Boulle dochodziły głośne kłótnie. Lekarze z Hôtel-Dieu na naszą prośbę zbadali chłopca jeszcze raz – znaleźli na jego ciele stare <a name="5" class="hidden">blizny i świeże siniaki</a>.
+$GEN_052_DOC_01_02
+	Ustaliliśmy w trakcie rozmów z sąsiadami, że przez pierwsze miesiące po <a name="6" class="hidden">powrocie inwalidy</a> nie działo się nic niepokojącego. Później jednak zaczęły się nocne krzyki. Vincenta widywano czasem z butelką winiaku, a woniejący alkoholem młody weteran zachowywał się agresywnie wobec sąsiadów. 
+$GEN_052_DOC_01_03
+	Aresztowaliśmy Vincenta Boulle’a, licząc na obciążające go zeznania <a name="8" class="hidden">matki i brata</a>. Kobieta uparcie twierdziła jednak, że jej syn sam wypadł z okna, bo jest jeszcze młody i głupi. On z kolei odmówił rozmowy z nami. 
+$GEN_052_OnStart_00
+Vincent Boulle, zgadza się?
+$GEN_052_OnStart_01
+To ja.
+$GEN_052_OnStart_02
+Co mieliście wspólnego z upadkiem waszego młodszego brata?
+$GEN_052_OnStart_03
+Smarkacz bawił się na parapecie, to i wypadł.
+$GEN_052_OnStart_04
+Nie współczujecie mu?
+$GEN_052_OnStart_05
+Miał wypadek, to się zdarza.
+$GEN_052_OnStart_06
+Wypadek? Twierdzicie, że nie mieliście z tym nic wspólnego?
+$GEN_052_OnStart_07
+Nie poradził sobie z Prusakami, to zaczął walczyć z rodziną.
+$GEN_052_OnStart_08
+Nasza matka najpierw wpędziła do grobu ojca, a teraz nie upilnowała mojego brata. To ją wypytujcie.
+$GEN_052_OnGuilty_00
+Za znęcanie się nad rodziną skazuję obywatela Boulle’a na karę śmierci.
+$GEN_052_OnGuilty_01
+Zdziwiłbym się, gdybyś zdecydował inaczej.
+$GEN_052_OnGuilty_02
+Dobrze, tylko kto odda dzieciakowi nogi?
+$GEN_052_OnPrison_00
+Obywatelu Boulle, za to, co zrobiliście rodzinie, skazuję was na więzienie.
+$GEN_052_OnPrison_01
+W łańcuchy to bydlę i do kamieniołomu!
+$GEN_052_OnNotGuilty_00
+Oddalam oskarżenie. Obywatelu Boulle, możecie wrócić do domu.
+$GEN_052_OnNotGuilty_01
+Rozumiem wyrozumiałość dla weteranów, ale to jest niepoważne.
+$GEN_052_OnNotGuilty_02
+Za tydzień wróci tu, oskarżony o morderstwo.
+$GEN_052_01x07_00_QTitle
+Poszliście na wojnę jako bardzo młody człowiek?
+$GEN_052_01x07_00_00
+Poszliście na wojnę jako bardzo młody człowiek?
+$GEN_052_01x07_00_01
+Nie miałem jeszcze 20 lat.
+$GEN_052_01x07_00_02
+Utrata nogi musiała być dla was bardzo trudna.
+$GEN_052_01x07_00_03
+Nie chcę o tym mówić!
+$GEN_052_01x07_00_04
+Jak to się stało?
+$GEN_052_01x07_00_05
+Nie chcę o tym mówić!
+$GEN_052_01x07_00_06
+Proszę opowiedzieć, jak stracił obywatel nogę.
+$GEN_052_01x07_00_07
+Nie pamiętam.
+$GEN_052_01x07_00_08
+Może nie w nogę dostał, tylko w głowę?
+$GEN_052_01x07_00_09
+Dobrze, załóżmy, że nie pamiętacie samego momentu. Opowiedzcie o tym dniu, to była ofensywa? 
+$GEN_052_01x07_00_10
+Pytanie nie ma żadnego związku z tym smarkaczem, który wypadł z okna!
+$GEN_052_01x07_00_11
+Obywatelu, to my wam robimy przysługę, że w ogóle chcemy was wysłuchać. Bądźcie więc tak dobrzy i nie krzyczcie.
+$GEN_052_01x07_00_12
+...
+$GEN_052_01x07_00_13
+Zaczęliście pić z powodu waszej nogi?
+$GEN_052_01x07_00_14
+Nie, to przez bezsenność. Ostatnio zasypiam tylko po kieliszku winiaku.
+$GEN_052_02x06_01_QTitle
+Wasi sąsiedzi twierdzą, że tuż po waszym powrocie z wojny byliście spokojni...
+$GEN_052_02x06_01_00
+Wasi sąsiedzi twierdzą, że tuż po waszym powrocie z wojny byliście spokojni, a dopiero potem zrobiliście się agresywni. Co się stało?
+$GEN_052_02x06_01_01
+Nie rozumiem pytania, wysoki sędzio.
+$GEN_052_02x06_01_02
+Pewnie, że nie rozumie. Co złego, to nie on.
+$GEN_052_02x06_01_03
+W ostatnim czasie sąsiedzi skarżyli się na was. Zaczęliście pić, z waszego mieszkania dobiegały krzyki.
+$GEN_052_02x06_01_04
+Nie zawsze dobrze się ostatnio dogadywałem z matką, ale to nic takiego.
+$GEN_052_02x06_01_05
+Nie dogadywaliście się? Czy się po prostu kłóciliście?
+$GEN_052_02x06_01_06
+To nie było nic poważnego. Drobne spory.
+$GEN_052_02x06_01_07
+Ale to się nie zaczęło od razu po waszym powrocie?
+$GEN_052_02x06_01_08
+Ostatnio po prostu nie mogę spać. Jak człowiek się nie wyśpi, to potrafi być rozdrażniony. 
+$GEN_052_08x04_02_QTitle
+Wzywam na świadka wdowę Boulle.
+$GEN_052_08x04_02_00
+Wzywam na świadka wdowę Boulle.
+$GEN_052_03x05_03_QTitle
+Jak obywatel by opisał relacje z bratem?
+$GEN_052_03x05_03_00
+Jak obywatel by opisał relacje z bratem?
+$GEN_052_03x05_03_01
+Z Mathéo? Ten mały ślimok tylko by żarł i matkę o pieniądze prosił, a pracować to nie miał ochoty.
+$GEN_052_03x05_03_02
+Wasz brat nic nie robił?
+$GEN_052_03x05_03_03
+Ano był tam pomocnikiem piekarza czy masarza. Nie wiem dokładnie, ale to, co przynosił, to od razu przejadał.
+$GEN_052_03x05_03_04
+A gdzie wy pracujecie?
+$GEN_052_03x05_03_05
+Ja, bez nogi, to co miałbym robić? Cygara zwijać z babami?
+$GEN_052_03x05_03_06
+Powiedzcie szczerze, biliście brata?
+$GEN_052_03x05_03_07
+Lał go, było dwie ulice dalej słychać!
+$GEN_052_03x05_03_08
+Ktoś musi wychować mężczyznę. Mnie ojciec wychowywał, ale umarł, jak temu było osiem lat. Brakło w domu silnej ręki i od razu mu się wszystko przesunęło.
+$GEN_052_03x05_03_09
+Za to tego to ojciec wychował, że tylko podziwiać.
+$GEN_052_07x04_04_QTitle
+Tego wieczora, kiedy wasz brat wypadł z okna, piliście?
+$GEN_052_07x04_04_00
+Tego wieczora, kiedy wasz brat wypadł z okna, piliście?
+$GEN_052_07x04_04_01
+Nie, Wysoki Sądzie, tego wieczora nie piłem ani kropli.
+$GEN_052_07x04_04_02
+Wasi sąsiedzi słyszeli krzyki?
+$GEN_052_07x04_04_03
+To pewnie z ulicy, może znowu się wzięli za samosądy, ja nie wiem, spałem wtedy.
+$GEN_052_07x04_04_04
+Wy zanieśliście brata do szpitala?
+$GEN_052_07x04_04_05
+Nie, sąsiedzi. Dowiedziałem się rano, przyszli do mnie z pretensjami.
+$GEN_052_07x04_04_06
+Dlaczego nie zanieśliście? Było wam wstyd?
+$GEN_052_07x04_04_07
+Trzy dni nie mogłem zasnąć. Jak się w końcu udało, to spałem jak zabity.
+$GEN_052_07x04_04_08
+Twoje krzyki też słyszeliśmy!
+$GEN_052_07x04_04_09
+Poszliście odwiedzić brata?
+$GEN_052_07x04_04_10
+Jak tam siedziałem, przyszedł oficer Gwardii. Pytał brata o różne rzeczy, ale młody niczego nie chciał powiedzieć. Pewnie było mu wstyd, że tak głupio zniszczył sobie zdrowie.
+$GEN_052_01x06_05_QTitle
+Ile czasu spędziliście w wojsku?
+$GEN_052_01x06_05_00
+Ile czasu spędziliście w wojsku?
+$GEN_052_01x06_05_01
+Ponad rok. Ale cały czas myślałem, żeby wrócić do matki i brata…
+$GEN_052_01x06_05_02
+A jak już wróciliście, to zaczęły się kłopoty.
+$GEN_052_01x06_05_03
+Oni mnie nie rozumieli. Im twarzy nie ochlapała krew przyjaciela… Skarżyli się, że krzyczę w nocy, a ja po prostu wołałem Pinarda. Śnił mi się co noc. Kula przebiła mu policzek.
+$GEN_052_01x06_05_04
+Przeżył to? Ten Pinard?
+$GEN_052_01x06_05_05
+Nie wiem, dwa dni później ja dostałem armatnią kulą. Nie mam pojęcia, co się z nim stało.
+$GEN_052_01x06_05_06
+Na wasze krzyki skarżyli się również sąsiedzi.
+$GEN_052_01x06_05_07
+Nigdy czyjeś flaki nie upadły im na buty… Co oni wiedzą o krzyku i strachu?
+$GEN_052_01x06_05_08
+Chcecie, żebyśmy wam współczuli?
+$GEN_052_01x06_05_09
+Dla mnie możecie się wszyscy sianem wypchać po gardło.
+$GEN_052_WIT_00_A_QTitle
+W jaki sposób wasz młodszy syn wypadł przez okno?
+$GEN_052_WIT_00_A_00
+W jaki sposób wasz młodszy syn wypadł przez okno?
+$GEN_052_WIT_00_A_01
+On chyba się bawił na parapecie.
+$GEN_052_WIT_00_A_02
+To się stało w nocy, prawda?
+$GEN_052_WIT_00_A_03
+No… No tak było.
+$GEN_052_WIT_00_A_04
+Często się zdarzało, że bawił się tak późno, zamiast spać?
+$GEN_052_WIT_00_A_05
+Syn wychowuje się bez ojca. Czasem ciężko nad nim zapanować.
+$GEN_052_WIT_00_A_06
+I wtedy w nocy, kiedy wasz syn bawił się na parapecie, wy co robiliście?
+$GEN_052_WIT_00_A_07
+Prałam ubrania. Chłopcy bardzo brudzą, a w dzień muszę dużo pracować.
+$GEN_052_WIT_00_A_08
+A pani starszy syn co wtedy robił?
+$GEN_052_WIT_00_A_09
+Nie jestem pewna.
+$GEN_052_WIT_00_A_10
+Może już spał?
+$GEN_052_WIT_00_A_11
+Nie, nie, on cierpi na bezsenność i…
+$GEN_052_WIT_00_A_12
+I bije rodzinę.
+
+
+$GEN_052_WIT_01_A_QTitle
+Wasi synowie dobrze się dogadywali?
+$GEN_052_WIT_01_A_00
+Wasi synowie dobrze się dogadywali?
+$GEN_052_WIT_01_A_01
+Wie pan, to znaczy sąd, jacy są chłopcy. Oni czasem się poszturchali, ale tacy są chłopcy.
+$GEN_052_WIT_01_A_02
+Przestań go bronić, kobieto!
+$GEN_052_WIT_01_A_03
+Wasz starszy syn nie jest już dzieckiem.
+$GEN_052_WIT_01_A_04
+Dla mnie zawsze nim będzie, sami na pewno też macie dzieci. Wiecie.
+$GEN_052_WIT_01_A_05
+Vincent bił Mathéo?
+$GEN_052_WIT_01_A_06
+Ależ skąd, to dobry chłopiec jest. Czasem się trochę szarpali, jak to dzieci.
+$GEN_052_WIT_01_A_07
+Zrobił mu kiedyś krzywdę?
+$GEN_052_WIT_01_A_08
+Jak miał 15 lat, to…
+$GEN_052_WIT_01_A_09
+Wiecie, o co ja pytam.
+$GEN_052_WIT_01_A_10
+Mój synek to porządny człowiek, nie wiem, po co w ogóle go aresztowaliście.
+$GEN_052_WIT_01_B_QTitle
+Czy Vincent kiedyś podniósł na obywatelkę rękę?
+$GEN_052_WIT_01_B_00
+Czy Vincent kiedyś podniósł na obywatelkę rękę?
+$GEN_052_WIT_01_B_01
+Ależ skąd, Wysoki Sądzie.
+$GEN_052_WIT_01_B_02
+Krzyczał na was?
+$GEN_052_WIT_01_B_03
+On ostatnio nie może spać, czasem zdarza mu się podnieść głos. Ale to minie, tylko się wyśpi. Jego noga, wiecie, boli. Tam, gdzie zszyte. Ja mu czasem butelkę kupię. Jak się mężczyzna napije, to mu lepiej.
+$GEN_052_WIT_01_B_04
+A jak mu nie kupicie, jest zły?
+$GEN_052_WIT_01_B_05
+Nie, nie, on się nie złości na mnie, mój synek, nie.
+$GEN_052_WIT_01_B_06
+Na pewno nie, taki dobry chłopak.
+$GEN_052_WIT_01_B_07
+Tamtego wieczora było was stać? Na butelkę dla syna?
+$GEN_052_WIT_01_B_08
+Ja to nie pamiętam, stara już jestem, ale nie, chyba.
+$GEN_052_KEY_01
+Inwalida wojenny
+$GEN_052_KEY_02
+Kamienica
+$GEN_052_KEY_03
+Upadek z okna
+$GEN_052_KEY_04
+Krzyki
+$GEN_052_KEY_05
+Blizny i siniaki
+$GEN_052_KEY_06
+Powrót inwalidy
+$GEN_052_KEY_07
+Winiak
+$GEN_052_KEY_08
+Matka i brat
+
+
+$GEN_052_LastDialog_00
+Zetnijcie mnie. Wreszcie przestanę śnić koszmary…
+
+$GEN_052_UNIQUE_QUESTION_00
+W jakich okolicznościach według zeznań świadka chłopak wypadł z okna?
+$GEN_052_UNIQUE_ANSWER_CORRECT_00_00
+Bawił się na parapecie.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Kłócił się z bratem.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Mył szyby.
+
+$GEN_052_UNIQUE_QUESTION_01
+Sąsiedzi skarżyli się na weterana?
+$GEN_052_UNIQUE_ANSWER_CORRECT_01_00
+Mówili, że pił i bywał agresywny.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Zeznali, że podkradał im rzeczy.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Nie, nie narzekali.
+
+$GEN_052_UNIQUE_QUESTION_02
+Co zgodnie z zeznaniami inwalida robił w czasie wypadku?
+$GEN_052_UNIQUE_ANSWER_CORRECT_02_00
+Spał.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Był na spotkaniu z kolegami z wojska.
+$GEN_052_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Spacerował nad Sekwaną.
+
+
+

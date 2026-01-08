@@ -1,0 +1,12 @@
+$EVE_006_TITLE
+In den Salons
+$EVE_006_MAIN_01
+Sehr geehrter AF,
+Im Namen meiner Künstlerkollegen und auch in meinem eigenen möchte ich Sie herzlich zur Premiere unseres neuesten Stücks „XXX“ einladen. Die Aufführung findet in drei Tagen statt. Es wäre uns eine Ehre, Sie und Ihre Familie unterhalten zu dürfen. Sollten Sie teilnehmen wollen, bitten wir um eine Rückmeldung auf diese Einladung.
+Mit vorzüglicher Hochachtung, XYZ
+$EVE_006_MAIN_01_C1
+Teilnahme bestätigen.
+$EVE_006_MAIN_02A
+Die Premiere war ein Erfolg – zumindest flüstert es Ihnen Ihr eingerosteter Instinkt zu. Ihre Frau strahlte, auch wenn sie wenig Erfahrung im Umgang mit der Pariser Elite hat, und Ihre Söhne staunten über die kostbaren Gewänder der anderen Gäste. Dank dieser Einladung gehören Sie nun selbst zur Elite der Hauptstadt. Vor dem Gebäude standen einige Protestierende, die von moralischem Verfall und der Notwendigkeit, Gott näher zu sein, schrien – doch sie konnten Ihnen den Abend nicht verderben.
+$EVE_006_MAIN_02B
+Die Premiere war ein voller Erfolg. Die Leute sprechen vor allem darüber, dass Pariser Künstler erneut ihre Überlegenheit gegenüber Kollegen aus anderen europäischen Ländern bewiesen haben. Im Publikum saßen zahlreiche bedeutende Persönlichkeiten, deren Namen sich gut in den Kritiken machen werden. Vor dem Gebäude versammelte sich eine kleine Gruppe von Protestierenden, die über „sittlichen Verfall“ und „Abkehr von Gott“ riefen, doch niemand schenkte ihnen Beachtung.

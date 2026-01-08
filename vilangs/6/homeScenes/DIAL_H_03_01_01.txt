@@ -1,0 +1,26 @@
+$DIAL_H_03_01_01_001_JUDGE
+¿Cómo te sientes hoy, Bernard?
+$DIAL_H_03_01_01_002_BERNARD
+¿Qué ves?
+$DIAL_H_03_01_01_003_JUDGE
+¿Perdón?
+$DIAL_H_03_01_01_004_BERNARD
+Te pregunté qué ves.
+$DIAL_H_03_01_01_005_JUDGE
+A ti, mi hijo.
+$DIAL_H_03_01_01_006_BERNARD
+No. Ves a un monstruo. Mutilado, humillado y despojado de sus sueños.
+$DIAL_H_03_01_01_007_JUDGE
+Eso no es cierto. Aún te queda mucho por vivir…
+$DIAL_H_03_01_01_008_BERNARD
+¿Y ahora qué me espera? ¿Una carrera? ¡Mírame! ¡Nunca podré volver a tocar! Eso es lo que querías, ¿verdad? ¡Admítelo!
+$DIAL_H_03_01_01_009_JUDGE
+Nunca.
+$DIAL_H_03_01_01_010_BERNARD
+¡No te creo! Y nunca volveré a hacerlo. Decías que cuidarías de nosotros, pero nadie puede detener esta locura, esta terrible Revolución. Ni a esta maldita familia, con sus cadáveres que se levantan de la tumba para atormentar a los vivos.
+$DIAL_H_03_01_01_011_BERNARD
+¿O acaso es solo el signo de los tiempos? ¿Y qué hay de aquellos que fueron decapitados por tu culpa? ¿También ellos volverán para matarnos? ¡Quizá el propio rey salga de su tumba para arrancarme las piernas, ya que todavía las conservo!
+$DIAL_H_03_01_01_012_JUDGE
+Lo siento, hijo. De verdad lo siento.
+$DIAL_H_03_01_01_013_BERNARD
+Yo también lo lamento. Ahora discúlpame, necesito pensar en cómo desperdiciar el resto de esta vida mía que has perdonado con tu cruel misericordia.

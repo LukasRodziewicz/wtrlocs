@@ -1,0 +1,198 @@
+$FAB_019_DOC_01_HEADER
+Compilado por: Pierre Daquin
+$FAB_019_DOC_01_00
+A ré é Charlotte Corday, residente em Caen, que declara abertamente sua <a name="1" class="hidden">simpatia pelos girondinos</a>. A mulher assassinou Jean-Paul Marat – foi detida no local do crime e confessou imediatamente.
+$FAB_019_DOC_01_01
+Segundo nossas informações, a mulher demonstrava forte aversão aos jacobinos e a todos que contribuíram para a queda dos girondinos. Ela marcou um encontro com Marat sob o pretexto de <a name="2" class="hidden">entregar um grupo de seus companheiros</a> que supostamente planejavam uma revolta em Caen. Os criados de Marat mantiveram-se atentos e, a princípio, não permitiram que a mulher se aproximasse de Jean-Paul, mas, ao que parece, o anfitrião os repreendeu e ordenou que deixassem a suposta informante entrar. O homem estava sentado em sua banheira — segundo rumores, sofria de uma doença de pele aliviada por longos banhos. Ao que tudo indica, ele não suspeitava de nada, pois não encontramos nenhuma arma do falecido próxima à banheira.
+$FAB_019_DOC_01_02
+Após uma breve conversa, Corday <a name="4" class="hidden">cravou uma faca</a> entre suas costelas. Marat gritou por socorro, mas, tão gravemente ferido, tinha poucas chances de sobreviver. Quando os criados entraram correndo, Corday estava de pé junto à janela, olhando para fora como se contemplasse a paisagem. Não ofereceu resistência ao ser presa, mas segurava firmemente um exemplar de “Vidas Paralelas”, de Plutarco — não sei se é bom, nunca li. A caminho da cela, repetiu várias vezes que <a name="6" class="hidden">agiu por conta própria</a>, fazendo questão de enfatizar que nenhum homem estava por trás de seu ato. Os guardas provavelmente não acreditaram totalmente, pois ela começou a gritar no corredor que era virgem. Mas, afinal, quem iria querer se deitar com uma lunática dessas? Marat está morto.
+$FAB_019_DOC_02_00
+Jean-Paul Marat
+$FAB_019_DOC_02_01
+Ele era nosso irmão, um dos líderes informais da Revolução. Todos o admiravam por seus artigos perspicazes, nos quais expunha as falhas dos inimigos do renascimento. Talvez tenha sido duro demais em suas conclusões, mas poderia ele agir de outra forma?
+$FAB_019_DOC_02_02
+Provas:
+$FAB_019_DOC_02_03
+Uma faca com sangue seco na lâmina e <a name="7" class="hidden">um exemplar de “Vidas Paralelas” de Plutarco</a>.
+$FAB_019_OnStart_00
+Traidor!
+$FAB_019_OnStart_01
+Vai apodrecer, vadia!
+$FAB_019_OnStart_02
+Por favor, apresente-se.
+$FAB_019_OnStart_03
+Meu nome é Charlotte Corday.
+$FAB_019_OnStart_04
+Você foi acusado de assassinar o cidadão Marat–
+$FAB_019_OnStart_05
+Sim, fui eu quem fez isso.
+$FAB_019_OnStart_06
+Raramente vemos alguém aqui confessar com tanta disposição.
+$FAB_019_OnGuilty_00
+Condeno a cidadã Charlotte Corday à guilhotina! Levem a condenada.
+$FAB_019_OnGuilty_01
+Isso mesmo!
+$FAB_019_OnGuilty_02
+Sim, levem esse porco para o abate!
+$FAB_019_OnNotGuilty_00
+O veredito no caso do assassinato do cidadão Marat é... inocente! Por favor, libertem a senhorita Corday.
+$FAB_019_OnNotGuilty_01
+O Juiz enlouqueceu?
+$FAB_019_OnNotGuilty_02
+Paris não vai te perdoar por isso.
+$FAB_019_01x02_00_QTitle
+Você deseja entregar seus companheiros?
+$FAB_019_01x02_00_00
+Você deseja entregar seus companheiros?
+$FAB_019_01x02_00_01
+Não havia cúmplices, pois não houve levante algum. Eu sabia que a ideia de uma grande conspiração convenceria Marat a se encontrar comigo.
+$FAB_019_01x02_00_02
+Ela é uma cobra astuta.
+$FAB_019_01x02_00_03
+Veio de Caen? Fica bem longe de Paris...
+$FAB_019_01x02_00_04
+A viagem passou depressa, pois eu estava concentrado em seu propósito e no prazer de imaginar Marat como uma criatura sangrando.
+$FAB_019_01x02_00_05
+Você também fez questão de vestir uma roupa bonita...
+$FAB_019_01x02_00_06
+Um belo traje para a guilhotina, não para Marat.
+$FAB_019_01x02_00_07
+Você está agindo como se quisesse morrer.
+$FAB_019_01x02_00_08
+Esse é o preço da liberdade e da igualdade. Ao menos nisso concordo com Marat: a mudança de que a França precisa só pode ser imposta pela força. Somei a isso minha vontade inabalável.
+$FAB_019_01x06_01_QTitle
+Quer que acreditemos que agiu sozinho?
+$FAB_019_01x06_01_00
+Quer que acreditemos que agiu sozinho?
+$FAB_019_01x06_01_01
+Não é preciso um regimento de soldados para esfaquear alguém.
+$FAB_019_01x06_01_02
+E ninguém ajudou a planejar isso? Você deixou bem claro–
+$FAB_019_01x06_01_03
+Direi isso em alto e bom som – estou ciente da disputa entre monsieur le juge e Marat, mas que todos aqui saibam que não fui instruído a agir assim pelo juiz Fidèle.
+$FAB_019_01x06_01_04
+Tantas coincidências...
+$FAB_019_01x06_01_05
+Não preciso de um homem para fazer justiça. Não preciso de um homem para nada. Minha própria vontade basta.
+$FAB_019_01x06_01_06
+Por que você enfatizou–
+$FAB_019_01x06_01_07
+Porque suas mentes não conseguem aceitar que uma mulher frágil possa matar. Marat era igual a vocês.
+$FAB_019_02x04_02_QTitle
+O que você fez é um golpe contra toda a França. Marat foi um cidadão exemplar de Paris...
+$FAB_019_02x04_02_00
+O que você fez é um golpe contra toda a França. Marat foi um cidadão exemplar de Paris, devotado à Revolução—
+$FAB_019_02x04_02_01
+Ele era um canalha! Um monstro! Só em Paris alguém como ele poderia ser visto como o salvador da nação. Para nós em Caen, e para muitos em toda a França, ele foi e sempre será um criminoso comum.
+$FAB_019_02x04_02_02
+E também para os cúmplices que você pretendia entregar?
+$FAB_019_02x04_02_03
+Acha mesmo que alguém vai lhe dizer a verdade? Para você, que alimenta a guilhotina com sangue fresco?
+$FAB_019_02x04_02_04
+A transparência das ações das autoridades deveria ser o alicerce da Revolução.
+$FAB_019_02x04_02_05
+Talvez em Paris, mas no interior está pior do que antes. Antes culpávamos o Rei pela nossa fome, agora culpamos a nós mesmos, pois fomos nós que colocamos vocês no poder.
+$FAB_019_02x04_02_06
+Uma faca ensanguentada foi encontrada na cena do crime. Ela é sua?
+$FAB_019_02x04_02_07
+Sim, comprei-o não faz muito tempo. Qualquer um que seja seu inimigo em segredo poderia desferir tal golpe. Com uma faca comum, sem precisar do espetáculo que você encena todos os dias na guilhotina.
+$FAB_019_03x04_03_QTitle
+Assassinar um estadista no banho é um insulto ao país.
+$FAB_019_03x04_03_00
+Assassinar um estadista no banho é uma afronta ao país.
+$FAB_019_03x04_03_01
+Era para eu esperar ele vestir as calças?
+$FAB_019_03x04_03_02
+Você está falando de um grande homem aqui!
+$FAB_019_03x04_03_03
+Para mim, ele não passava de um homem pequeno, inflado de arrogância. Na verdade, acho toda essa situação bastante simbólica.
+$FAB_019_03x04_03_04
+Por quê?
+$FAB_019_03x04_03_05
+Ele estava tão indefeso. Não suspeitava de nada, não tinha armas — exatamente como as vítimas de seus artigos difamatórios.
+$FAB_019_03x04_03_06
+Marat só disse a verdade...
+$FAB_019_03x04_03_07
+Ouvi rumores de que ele pegou uma doença de pele se escondendo nos esgotos de Paris. Saiu de lá feito um rato para morrer na própria sujeira.
+$FAB_019_03x04_03_08
+Já chega.
+$FAB_019_03x04_03_09
+A guilhotina já está à sua espera, é só aguardar!
+$FAB_019_04x06_04_QTitle
+Por que você tem tanto ódio do Marat?
+$FAB_019_04x06_04_00
+Por que tanto ódio por Marat?
+$FAB_019_04x06_04_01
+Ele era o símbolo do mal que sufoca meu país.
+$FAB_019_04x06_04_02
+Foi por isso que você permaneceu lá após cometer o crime?
+$FAB_019_04x06_04_03
+Não sinto vergonha, não preciso fugir. Matei um homem para salvar cem mil, e aceitarei a morte como minha recompensa.
+$FAB_019_04x06_04_04
+A queda dos girondinos foi justificada.
+$FAB_019_04x06_04_05
+Isso é mentira! A queda dos girondinos foi planejada. Você deu o veredito e, provavelmente, esteve envolvido em tudo!
+$FAB_019_04x06_04_06
+O que você quer dizer?
+$FAB_019_04x06_04_07
+O juiz daqui se envolveu em uma disputa com o ministro Roland. De repente, os girondinos foram acusados de traição! Não é difícil concluir que o juiz Fidèle teve algo a ver com isso.
+$FAB_019_04x06_04_08
+Chega dessas calúnias.
+$FAB_019_06x07_05_QTitle
+Quando foi preso, estava com um livro de Plutarco nas mãos…
+$FAB_019_06x07_05_00
+Quando foi detido, estava com um livro de Plutarco nas mãos. Pode nos explicar essa escolha?
+$FAB_019_06x07_05_01
+Conhecemos grandes mentes que cresceram lendo este livro, absorvendo os ideais ali descritos. Ele é um farol para aqueles que têm dúvidas.
+$FAB_019_06x07_05_02
+Que tipo de ideia nobre pode justificar o assassinato de pessoas inocentes?
+$FAB_019_06x07_05_03
+…
+$FAB_019_06x07_05_04
+Responda à pergunta!
+$FAB_019_06x07_05_05
+As ruas estão tingidas de vermelho com o sangue de centenas de inocentes, e você me faz essa pergunta apenas por causa do Marat? Pergunte aos outros heróis da Revolução... Ah, é verdade, eles também estão mortos. Já foram mortos pelo ideal que ajudaram a criar.
+$FAB_019_06x07_05_06
+Então a morte desse homem foi justificada?
+$FAB_019_06x07_05_07
+Não menos do que as mortes daqueles girondinos que tiveram coragem de discordar de você. Marat morreu para que tantos outros pudessem viver um pouco mais. O quê, por acaso achou que só você tinha o monopólio da brutalidade?
+$FAB_019_KEY_01
+Uma apoiadora dos girondinos
+$FAB_019_KEY_02
+A suposta denúncia
+$FAB_019_KEY_03
+O banho
+$FAB_019_KEY_04
+Atingido por uma facada
+$FAB_019_KEY_05
+Gritos da vítima
+$FAB_019_KEY_06
+Agindo sozinha
+$FAB_019_KEY_07
+O livro de Plutarco
+$FAB_019_LastDialog_00
+Só faça isso rápido.
+$FAB_019_UNIQUE_QUESTION_00
+Qual foi a arma do crime?
+$FAB_019_UNIQUE_ANSWER_CORRECT_00_00
+Uma faca.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Um machado.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Uma baioneta.
+$FAB_019_UNIQUE_QUESTION_01
+A ré entregou seus cúmplices?
+$FAB_019_UNIQUE_ANSWER_CORRECT_01_00
+Ela agia sozinha.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Eram insurgentes de Caen.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Eram apenas um bando de criminosos de Paris.
+$FAB_019_UNIQUE_QUESTION_02
+Por que o réu escolheu Marat?
+$FAB_019_UNIQUE_ANSWER_CORRECT_02_00
+Na opinião dela, ele era o símbolo do mal que sufocou a França.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Em seu jornal, ele exigiu que o amante dela fosse decapitado.
+$FAB_019_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Ela o escolheu ao acaso.

@@ -1,0 +1,98 @@
+$INTRIGUE_TITLE_005
+Maximilien Robespierre
+$INTRIGUE_005_DESC
+Güç ve nüfuz sahibi geriye kalan herkes, Robespierre’in ortadan kaldırılması gerektiği konusunda hemfikir. Robespierre de biliyor ki, er ya da geç zirvede yalnızca bir kişiye yer kalacak…
+$INTR_005_B01_TITLE
+Üçlü Görüşme
+$INTR_005_B01_DESC
+Danton ve Hébert aynı masada oturuyorsa, kavga çıkma ihtimali yüksektir. Onları suçlamalarla uğraşmak yerine bir ittifak kurmaya yönlendirmek için ustaca davranmalısınız.
+$INTR_005_B02_TITLE
+Gobel’in Ölümü
+$INTR_005_B02_DESC
+Gobel’in oğlu bir kez daha babasını ziyaret etti. Bu sefer tartışmaları daha da alevlendi – ve bir silah işin içine girdi. Görüşmede ne tür suçlamalar yöneltildiğini bilmiyoruz. Ancak komşuların ifadeleri, konuşmanın sonunda bir kavgaya dönüştüğünü ve Gobel’in göğsüne isabet eden bir kurşunla son bulduğunu gösteriyor. Gobel düştüğü yerde can verdi, Boutin ise tutuklandı. Öldürülen çocuğunuzun intikamı alındı. Katili aklayabilirdiniz – sonuçta onu saklandığı yerden çıkmaya siz zorladınız.
+$INTR_005_B03_TITLE
+Kamu Güvenliği Komitesi Savcısı
+$INTR_005_B03_DESC
+Savcı Tinville mükemmel bir canlı kalkan olacak. Danton’un yerini tertemiz bir sicille alacak ve biz de ileride onun minnettarlığından faydalanacağız. Ayrıca, Robespierre’i de kızdırmış olacağız; çünkü muhtemelen bunu, Kamu Güvenliği Komitesi’nin kontrolünü ele geçirmeye yönelik bir hamle olarak görecek.
+$INTR_005_B04_TITLE
+Robespierre Ruhban Sınıfını mı Destekliyor?
+$INTR_005_B04_DESC
+Robespierre’in lekesiz itibarını sarsacak söylentilerle başlayalım. Hébert’in sözlerini kullanıp, Robespierre’in perde arkasında yozlaşmış din adamlarını desteklediğini ima edeceğiz. Hébert’in gazetesi “Le Père Duchesne” kilisenin Robespierre’i satın aldığı ve desteğini parayla aldığı yönünde bazı iddialar ortaya atsın. Sokaklarda, eğer bu doğruysa, putlarını devirmek en doğru hareket olur diye fısıltılar duymak istiyoruz…
+$INTR_005_B05_TITLE
+Savcı Adaylığını Açıklıyor
+$INTR_005_B05_DESC
+Artık Tinville’ı gölgelerden çıkarmanın vakti geldi – perde arkasında iş çevirmek Robespierre’in uzmanlık alanı. Halk, Tinville’ın Kamu Güvenliği Komitesi’nde düzeni yeniden sağlayacağına inanmalı. Konvansiyon ise, Robespierre’den bile daha çok korktukları sokakların etkisiyle, bu inancın peşinden körü körüne gidecek.
+$INTR_005_B06_TITLE
+Robespierre ve Renard İttifakı
+$INTR_005_B06_DESC
+Tinville’i bir kalkan olarak kullanamayabilirsin, ama düşmanların hakkında yayılan söylentilerden bir kalkan yaratabilirsin. Renard gibi iflah olmaz bir aristokrat ile zorba Robespierre’in ittifak kurduğu düşüncesi, sokakları öfkeye boğacaktır. Yolsuzluğa bulaşmamış olan Robespierre, Parislilerin gazabıyla yüzleşmek zorunda kalacak; Renard ise en etkili olduğu gölgelerde saklanamayacak. Son derece riskli bir hamle, ama başka seçeneğin yok.
+$INTR_005_B07_TITLE
+Danton’un Dostlarını Tutuklamak
+$INTR_005_B07_DESC
+François Chabot ve Claude Basire, Danton’un sadık dostları, bugün Robespierre’in talebiyle tutuklandı. Görünüşe göre Robespierre’i uyarı ateşi açmaya kışkırtmayı başardık. Chabot ve Basire’in hemen mahkemeye çıkarılacaklarını sanmıyorum; muhtemelen Danton’u yıpratmak için hapiste tutulacaklar. Biz de hızla yeni bir hamle yapmalıyız.
+$INTR_005_B08_TITLE
+Camille Desmoulins’i kullanmak
+$INTR_005_B08_DESC
+Şimdiye dek Desmoulins, Robespierre’e karşı yürütülen harekâta dahil olmamıştı. Halk arasında korkak olduğu fısıldanmaya başlayınca, bu söylentileri çürütmek için harekete geçti ve Yolsuzluğa Boyun Eğmeyen’i devirmek için yardıma hazır olduğunu ilan etti. “Le Vieux Cordelier” adlı gazetesi, Robespierre’in orduyu Paris sokaklarına sürmek istediğini iddia eden bir makale yayımlamak için mükemmel bir yer. Ayrıca, siyasi mahkûslara kötü muamele, işkence ve cinsel taciz uygulandığına dair söylentileri de kullanmalıyız. Bu, Cabot ve Basire’in tutuklanmasıyla da örtüşecek ve halkın hayal gücünü iyice kışkırtacaktır.
+$INTR_005_B09_TITLE
+Renard’ı ortadan kaldırmak
+$INTR_005_B09_DESC
+Sokakları ateşe vererek büyük bir risk aldınız ve şimdi işi sonuna kadar götürmeniz gerekiyor. Renard’ı ortadan kaldırırsanız, Cumhuriyet’in gerçek bir savunucusu olduğunuzu kanıtlamış olacaksınız. Halk görecek ki, Robespierre’in aksine, siz yurttaşlarla değil, onların düşmanlarıyla savaşıyorsunuz. Ne kadar da zekice. Kimileri, yanlarında acımasız Robespierre yerine adil bir şövalye olmasını tercih edebilir. O şövalye de elbette sizsiniz. Ve Renard, sonunda ailenize yaptığı kötülüklerin bedelini ödeyecek…
+$INTR_005_B10_TITLE
+Hébertistlerin ve Danton’un tutuklanması, Hanriot’nun ihaneti
+$INTR_005_B10_DESC
+Hébert ve en yakınındaki bazı çalışma arkadaşları öğle vakti tutuklandı. Aynı şey, uzun zamandır Robespierre’in başına bela olan Danton’un da başına geldi. Bir dizi suçla itham edildiler ve yarın davaları başlayacak. Bu tutuklamalar, Hanriot’nun bize ihanet ettiğinin kanıtı. Robespierre’le anlaşmaya vardı ve kendisine en çok fayda sağlayan tarafı seçti. Danton ve Hébert senin müttefiklerin, fakat ikisini birden kurtaramayacaksın. Hangisini kurtarmaya çalışacağına karar vermelisin. Diğeri muhtemelen başka bir yargıcın önüne çıkacak ve hızla giyotine gönderilecek. Kendini ihanete uğramış hissedecek. Unutma, birinin müttefiklerine ihanet dediğine, bir başkası toplumsal yükselme der. Yani… sıradan bir şey.
+$INTR_005_B12_TITLE
+Hanriot'nun Tutuklanması
+$INTR_005_B12_DESC
+Tribünal yargıcını satmanın asla iyi sonuçlanmayacağını gösterme vakti geldi. Üstelik, Ulusal Muhafızların desteğinden mahrum kalan Robespierre artık çok daha savunmasız. Askeri kolunu koparalım!
+$INTR_005_B13_TITLE
+Hanriot Kaçıyor
+$INTR_005_B13_DESC
+Ne yazık ki, o kurnaz tilki avcıları atlatmayı başardı. Aldığım bilgilere göre, size karşı silahlı bir müdahaleye katılmaya istekli Paris Komünü üyeleri arıyor. Bir zamanlar sizi kendi tarafına çekebildiyse, şimdi de başarılı olacaktır. Harekete geçmeli, onun planlarına engel olmalısınız.
+$INTR_005_B14_TITLE
+Robespierre’in Tutuklanması
+$INTR_005_B14_DESC
+Artık Paris’in en büyük yırtıcısının avlanma vakti geldi. Robespierre hiç bu kadar zayıf olmamıştı ve halk öfkeli. O toparlanmadan harekete geçmeliyiz. Bunu başarmak için, henüz kontrolünüzde olmayan Konvansiyon’un desteğini kazanmalısınız. Henüz.
+$INTR_005_B15_TITLE
+Konvansiyon Yeni Komite Üyelerini Seçiyor
+$INTR_005_B15_DESC
+Robespierre’in dönemi sona erdi. Şimdi Konvansiyon, Kamu Güvenliği Komitesi’ne yeni üyeler seçmeli ve şehirdeki kaosla başa çıkmalı. Son konuşmanız etkileyiciydi; onları en az bir kez daha ikna edebileceğinizden şüphe yok. Sınırsız güç parmaklarınızın ucunda.
+$INTR_005_BLOCK_004_PATH_STR
+Clovis, birkaç rahibi giyotinle tehdit ederek şantaj yapacak ve dedikoduları yaymalarını sağlayacak.
+$INTR_005_BLOCK_004_PATH_STR_FAILURE
+Robespierre’in dehşeti, sizin öfkenizden daha çok korkutuyor onları.
+$INTR_005_BLOCK_004_PATH_DIP
+David, yerel burjuvaziyi bu ittifakı düşünmeye ikna etmeye çalışacak, onlar bundan ne kadar korksalar da.
+$INTR_005_BLOCK_004_PATH_DIP_FAILURE
+İçten içe, belki de haklı olduğunuzu biliyorlar… ama umursamıyorlar. Beklemeyi tercih ediyorlar.
+$INTR_005_BLOCK_004_PATH_ESP
+Rahip kılığına giren Ramel, Kilise ile Robespierre arasındaki ittifak hakkında söylentiler yayacak.
+$INTR_005_BLOCK_007_PATH_STR
+Gecenin karanlığında, Clovis ve bir grup Muscadin iki mahkumun kaçışını ayarlayacak. Muhtemelen Muscadinler bunu bir çeşit eğlence olarak görecekler.
+$INTR_005_BLOCK_007_PATH_STR_FAILURE
+Muskadenler bunu gerçekten bir oyun sandı – hepsi sırılsıklam sarhoş geldi ve planımız yerle bir oldu…
+$INTR_005_BLOCK_007_PATH_DIP
+Konvansiyon, Robespierre’e haddini aştığını söylemeli. Bu onu korkutacaktır.
+$INTR_005_BLOCK_007_PATH_DIP_FAILURE
+Robespierre’in Chabot ve Basire’ye ulaşmış olması, herkese ulaşabileceğini gösteriyor. Artık tüm milletvekilleri dehşet içinde…
+$INTR_005_BLOCK_007_PATH_ESP
+En önemlisi, onlara karşı delilleri bulmalıyız. Delil olmadan Robespierre onları mahkûm edemez.
+$INTR_005_BLOCK_007_PATH_ESP_FAILURE
+Ramel hiçbir şey bulamadı. Ya Robespierre’in elinde bir şey yok, ya da kanıtları kasada saklıyor.
+$INTR_005_BLOCK_010_PATH_ESP
+Yarın Hébert’i yargılayacaksınız.
+$INTR_005_BLOCK_010_PATH_DIP
+Yarın Danton’u yargılayacaksınız.
+$INTR_005_BLOCK_013_PATH_STR
+Komünün her önde gelen üyesini yakalayıp iyice hırpalamalıyız. Onlar olmadan Hanriot yeterince insan toplayamaz.
+$INTR_005_BLOCK_013_PATH_STR_FAILURE
+Hanriot, ne kadar acımasız olabileceğini herkese anlattı. Bir anda, ne Komün’ü destekleyen kaldı ne de destekçilerin nerede saklandığını bilen.
+$INTR_005_BLOCK_013_PATH_DIP
+Diğer herkes gibi, Komün liderleri de iktidar peşinde. David, Robespierre devrildikten sonra bazılarına parlak bir kariyer vadetsin.
+$INTR_005_BLOCK_013_PATH_DIP_FAILURE
+Robespierre ve Hanriot onlara ne vaat etti, hiçbir fikrim yok; ama ne sundularsa, bizim imkanlarımızı fazlasıyla aşıyor olmalı. Hiçbirini ikna edemedik.
+$INTR_005_BLOCK_013_PATH_ESP
+Eğer Ramel’in Komün üyeleri hakkında elinde bir şeyler varsa, Hanriot’ya katılmaya hevesli olanları şantajla şimdi köşeye sıkıştırmalı.
+$INTR_005_BLOCK_013_PATH_ESP_FAILURE
+Delilleriniz kimsenin umurunda olmadı. Yarın büyük ihtimalle ölmüş olacağınız için onları zamanında kullanamayacağınıza inanıyorlar.

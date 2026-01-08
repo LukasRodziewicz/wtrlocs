@@ -1,0 +1,242 @@
+$GEN_051_DOC_01_HEADER
+Compilado por: Charles Etienne
+$GEN_051_DOC_01_00
+	Marc Pinnet é um viúvo de 42 anos e mestre na produção de pólvora. Os funcionários gostam dele, ele é geralmente respeitado e nunca teve problemas com a lei. Ainda assim, duas de suas funcionárias o acusaram de <a name="4" class="hidden">estupro</a>.
+$GEN_051_DOC_01_01
+	Devido à grande demanda por pólvora em Paris, a oficina está funcionando dia e noite e emprega o dobro de pessoas do que o habitual. As cidadãs Vaganay e Bacque trabalham lá há apenas algumas semanas e não se conheciam antes.
+$GEN_051_DOC_01_02
+	Marc Pinnet teria agredido ambas durante seus turnos noturnos no depósito atrás <a name="3" class="hidden">do moinho</a>. Elas testemunharam que ele as ameaçou com uma faca e ordenou que entrassem no depósito e tirassem as roupas. Depois de terminar, deu a cada uma <a name="5" class="hidden">algumas moedas de cobre</a>.
+$GEN_051_DOC_01_03
+	Só tiveram coragem de denunciá-lo alguns dias depois, quando descobriram que haviam passado pelo mesmo pesadelo.
+$GEN_051_DOC_01_04
+	Queremos expressar nossa solidariedade aos defensores de Paris e pedir a rápida resolução do julgamento de Marc Pinnet. Neste momento, a pólvora é mais valiosa para nós do que o ouro.
+$GEN_051_OnStart_00
+Você é o cidadão Pinnet?
+$GEN_051_OnStart_01
+Sou eu mesmo.
+$GEN_051_OnStart_02
+Você foi acusado de estupro por duas cidadãs.
+$GEN_051_OnStart_03
+Isso é um mal-entendido. Paguei o que lhes era devido. Por que agora guardam rancor de mim?
+$GEN_051_OnStart_04
+Eles pediram esse dinheiro para você?
+$GEN_051_OnStart_05
+Se não quisessem, não teriam colocado no bolso, não é?
+$GEN_051_OnStart_06
+Alegam que você os ameaçou com uma faca.
+$GEN_051_OnStart_07
+Eu sempre ando com ele, mas nunca ameacei ninguém.
+$GEN_051_OnGuilty_00
+Quem fere uma parisiense, fere a todos nós. Mande-o para a guilhotina.
+$GEN_051_OnGuilty_01
+Não tenho nada a acrescentar.
+$GEN_051_OnGuilty_02
+Um especialista morto por algo tão insignificante?
+$GEN_051_OnGuilty_03
+Quem será que vai fabricar a pólvora para nossos canhões agora?
+$GEN_051_OnNotGuilty_00
+Parece que houve um simples mal-entendido. Você está livre para ir, cidadão Pinnet.
+$GEN_051_OnNotGuilty_01
+Espero que mal-entendidos assim não sejam tão frequentes.
+$GEN_051_OnNotGuilty_02
+Correto!
+$GEN_051_OnNotGuilty_03
+Eles achavam que poderiam difamar um homem tão íntegro.
+$GEN_051_04x06_00_QTitle
+Cidadã Bacque, por favor, aproxime-se.
+$GEN_051_04x06_00_00
+Cidadã Bacque, por favor, aproxime-se.
+$GEN_051_01x03_01_QTitle
+Há quanto tempo você trabalha na fábrica?
+$GEN_051_01x03_01_00
+Há quanto tempo você trabalha na fábrica?
+$GEN_051_01x03_01_01
+A vida inteira, monsieur le juge. Comecei como aprendiz, lembro até da época em que passamos para o vapor.
+$GEN_051_01x03_01_02
+Pode descrever como a pólvora é feita?
+$GEN_051_01x03_01_03
+É preciso moer os ingredientes bem finos usando rolos especiais, embora às vezes as pessoas os chamem erroneamente de moedores.
+$GEN_051_01x03_01_04
+E depois?
+$GEN_051_01x03_01_05
+Misture tudo seguindo as proporções indicadas e acrescente um pouco de água. Depois, passe a mistura por uma peneira especial que deixa passar pequenos grumos.
+$GEN_051_01x03_01_06
+Não parece ser um processo complicado.
+$GEN_051_01x03_01_07
+Não sou valorizado pela dificuldade do trabalho, mas porque todo dia precisa sair do serviço o mesmo número de funcionários que entrou de manhã. Num lugar assim, é fácil provocar uma explosão.
+$GEN_051_01x03_01_08
+Ainda assim, em certos dias, seus funcionários deixam o trabalho envergonhados.
+$GEN_051_01x03_01_09
+Mulheres de respeito não vêm trabalhar na fábrica. As que eu contrato já perderam a própria honra.
+$GEN_051_02x05_02_QTitle
+Se estava disposto a pagar pelo amor delas, por que ameaçou aquelas mulheres com uma faca?
+$GEN_051_02x05_02_00
+Se estava disposto a pagar pelo amor delas, por que ameaçou aquelas mulheres com uma faca?
+$GEN_051_02x05_02_01
+Eu não ameacei ninguém.
+$GEN_051_02x05_02_02
+Por que ele mentiria?
+$GEN_051_02x05_02_03
+Então por que eles o acusaram?
+$GEN_051_02x05_02_04
+Como é que eu vou saber? Devem querer mais dinheiro.
+$GEN_051_02x05_02_05
+Você está diante da guilhotina, não de uma multa.
+$GEN_051_02x05_02_06
+Por que você anda pela fábrica com uma faca?
+$GEN_051_02x05_02_07
+É bom ter um. Sempre é útil para alavancar algo ou verificar a qualidade da pólvora.
+$GEN_051_02x05_02_08
+Você estava com ele durante o incidente?
+$GEN_051_02x05_02_09
+Sim, mas eu não o retirei.
+$GEN_051_02x05_02_10
+Você poderia tê-los ameaçado sem demonstrar isso.
+$GEN_051_02x05_02_11
+Se forem tolos, até um calçador assusta.
+$GEN_051_03x02_03_QTitle
+Você levou as cidadãs Bacque e Vaganay ao depósito atrás do moinho. Por que justamente lá?
+$GEN_051_03x02_03_00
+Você levou as cidadãs Bacque e Vaganay ao depósito atrás do moinho. Por que justamente lá?
+$GEN_051_03x02_03_01
+Guardamos sacos lá, e você pode deitar-se neles confortavelmente.
+$GEN_051_03x02_03_02
+O moinho faz muito barulho?
+$GEN_051_03x02_03_03
+Bem alto.
+$GEN_051_03x02_03_04
+Alto o bastante para abafar os gritos?
+$GEN_051_03x02_03_05
+Isso não é óbvio?
+$GEN_051_03x02_03_06
+O amor precisa de um pouco de privacidade.
+$GEN_051_03x02_03_07
+Ele tem razão.
+$GEN_051_03x02_03_08
+Por que você não os convidou para sua casa depois do trabalho? Teria ainda mais privacidade.
+$GEN_051_03x02_03_09
+…
+$GEN_051_03x02_03_10
+Perdão?
+$GEN_051_03x02_03_11
+Nunca tinha pensado nisso.
+$GEN_051_03x02_03_12
+E eles não sugeriram isso quando você conversou educadamente com eles antes do ato?
+$GEN_051_03x02_03_13
+…
+$GEN_051_03x02_03_14
+Como eu imaginei – não houve conversa nenhuma.
+$GEN_051_06x05_04_QTitle
+Essas mulheres o acusam de um crime terrível.
+$GEN_051_06x05_04_00
+Essas mulheres o acusam de um crime terrível. Há algo que queira dizer em sua defesa?
+$GEN_051_06x05_04_01
+O senhor sabe como são as mulheres, monsieur le juge, nunca têm certeza do que querem.
+$GEN_051_06x05_04_02
+Tenho certeza de que elas não queriam ser estupradas.
+$GEN_051_06x05_04_03
+Talvez eu tenha sido um pouco direto, mas isso é realmente tão ruim? Eles não gritaram nem choraram, e aceitaram o dinheiro. Qual é o problema?
+$GEN_051_06x05_04_04
+Eu realmente preciso explicar isso para você?
+$GEN_051_06x05_04_05
+No começo, elas queriam, mas depois ficaram com medo de acabar grávidas ou de que os maridos descobrissem. Mais fácil pôr a culpa no homem, não é? Porque todo mundo sente pena das mulheres, e quem liga se eu perder a cabeça.
+$GEN_051_WIT_00_A_QTitle
+Trabalhar em turnos noturnos numa fábrica de pólvora não parece serviço para mulheres.
+$GEN_051_WIT_00_A_00
+Trabalhar em turnos noturnos numa fábrica de pólvora não parece serviço para mulheres.
+$GEN_051_WIT_00_A_01
+A procura por pólvora está alta, então pagam bem pelos turnos da noite.
+$GEN_051_WIT_00_A_02
+Você precisava de dinheiro?
+$GEN_051_WIT_00_A_03
+Quem não precisa? Está tudo tão caro hoje em dia.
+$GEN_051_WIT_00_A_04
+O cidadão Pinnet lhe ofereceu dinheiro em troca de satisfazer seus desejos?
+$GEN_051_WIT_00_A_05
+Não, monsieur le juge. Ele já chegou com a faca.
+$GEN_051_WIT_00_A_06
+Você ficou com o dinheiro?
+$GEN_051_WIT_00_A_07
+Está comigo. Se quiser, pode dar para algumas crianças pobres, monsieur le juge. Ou simplesmente enfiar na garganta daquele homem.
+$GEN_051_WIT_00_A_08
+Por que você aceitou isso logo de início?
+$GEN_051_WIT_00_A_09
+Não sei, tudo aconteceu tão rápido. Mal me lembro de ter colocado as roupas de volta...
+$GEN_051_WIT_01_A_QTitle
+Você tentou se defender ou gritar?
+$GEN_051_WIT_01_A_00
+Você tentou se defender ou gritar?
+$GEN_051_WIT_01_A_01
+…
+$GEN_051_WIT_01_A_02
+Sei que é difícil voltar àquele momento, mas isso é importante.
+$GEN_051_WIT_01_A_03
+Eu poderia ter tentado, mas não adiantaria. As máquinas fazem tanto barulho, quem ouviria?
+$GEN_051_WIT_01_A_04
+Você se defendeu?
+$GEN_051_WIT_01_A_05
+Se ela realmente quisesse se proteger, não passaria a noite toda trabalhando com homens.
+$GEN_051_WIT_01_A_06
+Mal conseguia mexer as mãos depois do turno. Ele é um sujeito grande, tem dinheiro para carne, e agarrou meu pescoço com uma só mão. Se quisesse, poderia tê-lo quebrado com a mesma facilidade que se torce o pescoço de uma pomba.
+$GEN_051_WIT_01_A_08
+Gostaria de comentar sobre isso?
+$GEN_051_WIT_01_A_09
+Ela não tentou se afastar de mim, e não ouvi nenhum protesto dela no depósito. Se algo a incomodava, devia ter dito antes de entrarmos lá.
+$GEN_051_WIT_01_B_QTitle
+Por que demorou tanto para fazer a denúncia?
+$GEN_051_WIT_01_B_00
+Por que você demorou tanto para fazer a denúncia?
+$GEN_051_WIT_01_B_01
+Eu estava com medo.
+$GEN_051_WIT_01_B_02
+Você continuou trabalhando após o incidente?
+$GEN_051_WIT_01_B_03
+Sim, eu realmente preciso do dinheiro. Tenho irmãos mais novos e meu pai sofre de problemas respiratórios, não pode trabalhar.
+$GEN_051_WIT_01_B_04
+Não é de se estranhar que ela tenha ido com o mestre por uns trocados.
+$GEN_051_WIT_01_B_05
+O que fez você mudar de ideia?
+$GEN_051_WIT_01_B_06
+Até meu pai disse que eu devia deixar pra lá. Mas então vi como Marie, quer dizer, a Cidadã Vaganay, olhava pra ele... e percebi que eu não estava sozinha. Fazer isso sozinha é difícil, mas quando são duas... Você entende do que estou falando, não entende?
+$GEN_051_WIT_01_B_08
+Gostaria de comentar sobre isso?
+$GEN_051_WIT_01_B_09
+Eu sempre ia àquele bordel aconchegante a poucos minutos da fábrica. Agora está fechado, o que eu faço?
+$GEN_051_KEY_01
+Pólvora
+$GEN_051_KEY_02
+Trabalhando dia e noite
+$GEN_051_KEY_03
+Moinho
+$GEN_051_KEY_04
+Estupro
+$GEN_051_KEY_05
+Moedas de cobre
+$GEN_051_KEY_06
+Denúncia
+$GEN_051_LastDialog_00
+Canalhas! Esperem só até a pólvora de vocês acabar. Vão se arrepender!
+$GEN_051_UNIQUE_QUESTION_00
+Por que a vítima trabalhava em uma fábrica de pólvora?
+$GEN_051_UNIQUE_ANSWER_CORRECT_00_00
+Ela precisava sustentar o pai doente e os irmãos.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ela precisava de dinheiro para ajudar o marido a salvar o negócio dele.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_00_01
+A mãe dela se endividou.
+$GEN_051_UNIQUE_QUESTION_01
+Por que o réu estava portando uma faca?
+$GEN_051_UNIQUE_ANSWER_CORRECT_01_00
+Para verificar a qualidade da pólvora.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Para cortar pão.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Para limpar as unhas.
+$GEN_051_UNIQUE_QUESTION_02
+A vítima aceitou dinheiro pela relação?
+$GEN_051_UNIQUE_ANSWER_CORRECT_02_00
+Sim.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Não.
+$GEN_051_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Ela não se lembra de ter recebido dinheiro algum.

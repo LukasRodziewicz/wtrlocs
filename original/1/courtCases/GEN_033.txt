@@ -1,0 +1,176 @@
+$GEN_033_DOC_01_HEADER
+Compiled by: Nathan d'Essiraf
+$GEN_033_DOC_01_00
+Marcel Bloch, a 26-year-old court guard from the north of France. Directly before the beginning of the Revolution, he served as an artilleryman in the 2nd section of the 2nd company, the 2nd battalion of the Colonel-General’s regiment. After 1789, he moved to Paris and <a name="2" class="hidden">joined the court guard</a>, where he still works. His superiors and colleagues describe him as an exemplary and committed employee.
+$GEN_033_DOC_01_01
+During a few drinks at a local inn, Marcel admitted that all these years he has been <a name="3" class="hidden">lying</a> about ever serving in the army. Military service was a prerequisite for joining the court guard. A thorough investigation led to the suspicion that Bloch <a name="4" class="hidden">had forged the documents</a> that proved his experience in the army.
+$GEN_033_DOC_01_02
+The investigators found two <a name="5" class="hidden">artillerymen from the section</a> Marcel Bloch claimed to serve in, Pierre Richard and Michel Montand. They denied remembering Bloch, and a document from his former commander was obtained.
+$GEN_033_DOC_02_00
+Colonel Chabert's statement:
+$GEN_033_DOC_02_01
+I hereby declare that the name Marcel Bloch does not appear in the records of the 2nd demi-brigade. Nor was I able to find him in the records of the pre-Revolutionary Colonel-General’s regiment. Please bear in mind that the aforementioned records are incomplete – part of the documentation was destroyed by soldiers at the beginning of the Revolution in connection with its support by the infantry corps. Colonel J. C. Chabert; Commander of the 2nd demi-brigade
+$GEN_033_OnStart_00
+Please mention in the protocol that the Court already recognises the identity of the defendant, Marcel Bloch, a court guard at this same court house. Citizen, do you understand the charges against you?
+$GEN_033_OnStart_01
+No, monsieur le juge…
+$GEN_033_OnStart_02
+You were accused of forging a document that proved your military experience. You claimed to have served in the 2nd battalion of the pre-Revolutionary Colonel-General’s regiment, currently known as the 2nd demi-brigade. According to the indictment, you lied in order to be hired by the court.
+$GEN_033_OnStart_03
+Bloch could have benefited much more from his crime.
+$GEN_033_OnStart_04
+I will bear that in mind. How do you plead?
+$GEN_033_OnStart_05
+Monsieur le juge, I swear that I have not deceived anyone!
+$GEN_033_OnStart_06
+I am afraid that evidence and circumstance say otherwise.
+$GEN_033_OnStart_07
+Too afraid to go to war, but still hungry for medals.
+$GEN_033_OnGuilty_00
+I sentence Marcel Bloch to be guillotined! Lead the condemned out.
+$GEN_033_OnGuilty_01
+Poor fella.
+$GEN_033_OnGuilty_02
+Make an example of him for others who may try such a thing.
+$GEN_033_OnNotGuilty_00
+The judgement for Marcel Bloch is… not guilty! Take the defendant away.
+$GEN_033_OnNotGuilty_01
+I hope they will at least dismiss him from the court. Otherwise he will be laughing in your face.
+$GEN_033_OnNotGuilty_02
+He got lucky.
+$GEN_033_04x06_00_QTitle
+How did you get your certificate of service in the regiment?
+$GEN_033_04x06_00_00
+How did you get your certificate of service in the regiment?
+$GEN_033_04x06_00_01
+It was issued by Colonel Chabert, my commander.
+$GEN_033_04x06_00_02
+We asked Colonel Chabert for a statement. He claims that your name does not appear in the unit's records. Are we supposed to believe that the same person also issued you a document saying otherwise?
+$GEN_033_04x06_00_03
+There are also the testimonies of ordinary soldiers.
+$GEN_033_04x06_00_04
+I don’t understand any of this. I served in that unit for over a year. The Colonel himself signed my papers!
+$GEN_033_04x06_00_05
+What do you not understand? You forged his signature, that is all.
+$GEN_033_04x06_00_06
+Throw that scoundrel to the soldiers. Let them judge him!
+$GEN_033_01x03_01_QTitle
+Did you serve in the artillery?
+$GEN_033_01x03_01_00
+Did you serve in the artillery?
+$GEN_033_01x03_01_01
+Yes, in the famous double two’s – the 2nd section of the 2nd company.
+$GEN_033_01x03_01_02
+What cannon did the section operate?
+$GEN_033_01x03_01_03
+Well… two eight-pounders.
+$GEN_033_01x03_01_04
+Interesting. Those sections used, and still use, six-pounders.
+$GEN_033_01x03_01_05
+Are you sure? I must have forgotten, it was so long ago. Being a guard is really important to me–
+$GEN_033_01x03_01_06
+You are proud of your past in the artillery, but you cannot remember which cannon you were using?
+$GEN_033_01x03_01_07
+I remember them well. I could load one with my eyes shut! I just made a mistake.
+$GEN_033_01x03_01_08
+He wouldn’t know which end to put the ball in.
+$GEN_033_03x05_02_QTitle
+Tell us the names of some of your comrades from that period.
+$GEN_033_03x05_02_00
+Tell us the names of some of your comrades from that period.
+$GEN_033_03x05_02_01
+Charles Clary and Jean Gayet, my closest friends from the section.
+$GEN_033_03x05_02_02
+Could they confirm the authenticity of your papers?
+$GEN_033_03x05_02_03
+Of course they could, but I don’t know where to find them now. They all came from northern France, like I did.
+$GEN_033_03x05_02_04
+You don’t keep in touch? But you just said they were your closest friends.
+$GEN_033_03x05_02_05
+Everyone went their own way. That usually happens in the Army.
+$GEN_033_03x05_02_06
+We were able to contact your other compatriots, Pierre Richard and Michel Montand. Are those names familiar?
+$GEN_033_03x05_02_07
+No, I don’t remember them.
+$GEN_033_03x05_02_08
+Really? They served in the same 2nd battalion as you. And, what a surprise, they don’t remember you either. They are here, in Paris.
+$GEN_033_03x05_02_09
+That doesn’t prove anything, thousands of people pass through the regiment. I wasn’t friendly with all my comrades. I never even had a chance to talk with some of them. You have to believe me…
+$GEN_033_01x02_03_QTitle
+Why did you join the court guard?
+$GEN_033_01x02_03_00
+Why did you join the court guard?
+$GEN_033_01x02_03_01
+I came to Paris hoping to find a better life after the Revolution began. A court guard seemed well paid and… people respect the uniform, monsieur le juge.
+$GEN_033_01x02_03_02
+Was that important to you? To wear a uniform?
+$GEN_033_01x02_03_03
+My father fought in the war. He used to say that the uniform is much more than just clothing.
+$GEN_033_01x02_03_04
+He wanted to see you in the Army?
+$GEN_033_01x02_03_05
+He didn’t say that, but he wasn’t a man of many words. He kept the buttons from his uniform, you know, the shiny golden ones, in his drawer.
+$GEN_033_01x02_03_06
+Did you trick the Parisian court to fulfil a childhood dream?
+$GEN_033_01x02_03_07
+I simply joined the army and risked my life. Father was right – you feel different in a uniform, more honourable.
+$GEN_033_01x02_03_08
+They probably didn’t want him in the army, so he started lying.
+$GEN_033_03x04_04_QTitle
+Did you forge a certificate of military service?
+$GEN_033_03x04_04_00
+Did you forge a certificate of military service?
+$GEN_033_03x04_04_01
+I didn’t, and I wouldn’t even know how. I don’t know anything about forgery.
+$GEN_033_03x04_04_02
+You said something different in the inn.
+$GEN_033_03x04_04_03
+I was drunk and stupid. I was just messing around to try and impress people. I wasn’t thinking about the possible consequences…
+$GEN_033_03x04_04_04
+As a proud artilleryman, you should not be fond of such jokes.
+$GEN_033_03x04_04_05
+Sometimes when I drink too much I don’t think before I speak, and that time I’d had a lot to drink.
+$GEN_033_03x04_04_06
+I suppose you really did not think much at all since you were telling this to a person who works at the court.
+$GEN_033_03x04_04_07
+Monsieur le juge, I sincerely apologise, but is it really necessary to punish people for whatever gibberish they produce after a few strong glasses?
+$GEN_033_03x04_04_08
+His conscience kept bugging him and he finally spilled the beans.
+$GEN_033_KEY_01
+Artillery service
+$GEN_033_KEY_02
+Joining the court guard
+$GEN_033_KEY_03
+Lying
+$GEN_033_KEY_04
+Forged documents
+$GEN_033_KEY_05
+Comrades
+$GEN_033_KEY_06
+Colonel’s statement
+$GEN_033_LastDialog_00
+I was a loyal servant to the Revolution. I fought for justice. Why do you reject me?
+$GEN_033_UNIQUE_QUESTION_00
+What cannon did the defendant’s section operate?
+$GEN_033_UNIQUE_ANSWER_CORRECT_00_00
+Six-pounders.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Eight-pounders.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ten-pounders.
+$GEN_033_UNIQUE_QUESTION_01
+Why did the defendant join the Army?
+$GEN_033_UNIQUE_ANSWER_CORRECT_01_00
+He wanted to wear a uniform.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_01_00
+He wanted to leave his village to escape hunger.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_01_01
+He wanted to impress his sweetheart.
+$GEN_033_UNIQUE_QUESTION_02
+To whom did Bloch confess his lack of military experience?
+$GEN_033_UNIQUE_ANSWER_CORRECT_02_00
+A colleague.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_02_00
+A prostitute.
+$GEN_033_UNIQUE_ANSWER_NOT_CORRECT_02_01
+A stranger.

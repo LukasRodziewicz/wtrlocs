@@ -1,0 +1,548 @@
+$END_DAY
+하루를 마치기
+$DISTRICT_TEMPERATURE
+열기
+$DISTRICT_NEUTRAL_TOOLTIP
+이 구역은 중립입니다.
+$DISTRICT_OWNER_PEOPLE
+세력: 민중
+$DISTRICT_OWNER_REVOLUTIONISTS
+세력: 혁명파
+$DISTRICT_OWNER_PLAYER
+당신이 조종함
+$DISTRICT_OWNER_ENEMY
+적이 장악함
+$GROUP_SUPPORT_LOW
+태도: 적대적
+$GROUP_SUPPORT_MEDIUM
+태도: 중립
+$GROUP_SUPPORT_HIGH
+태도: 우호적
+$AGENT_IDLE
+비활성화됨
+$AGENT_ACTION_BOOST_DISTRICT
+구역에 대한 영향력 강화
+$AGENT_ACTION_SABOTAGE
+적 요원 유인
+$AGENT_ACTION_AMBUSH
+적을 위한 매복을 준비하십시오.
+$AGENT_ACTION_GET_RESOURCES
+세력의 지지 얻기
+$AGENT_ACTION_LOWER_TEMPERATURE
+구역에서 군중의 열기를 진정시키십시오.
+$AGENT_ACTION_FIGHT_UNREST
+폭동 진압
+$AGENT_ACTION_GOSSIP
+긍정적인 소문을 퍼뜨린다
+$AGENT_ACTION_PROTECT
+아군 요원을 방어하십시오.
+$AGENT_BLOCKED
+차단됨
+$AGENT_WOUNDED
+부상
+$PAWN_COMBAT_ACTIVITY_TOOLTIP
+전투 중
+$AGENT_ACTION_BOOST_DISTRICT_TOOLTIP
+구역을 점령 중
+$AGENT_ACTION_SABOTAGE_TOOLTIP
+적 요원을 유인하려 하고 있음
+$AGENT_ACTION_LOWER_TEMPERATURE_TOOLTIP
+군중을 진정시키는 중
+$AGENT_ACTION_FIGHT_UNREST_TOOLTIP
+소요 진압 중
+$AGENT_ACTION_UNLOCK_DISTRICT_TOOLTIP
+섹션을 잠금 해제합니다
+$COMBAT_UNIT_01
+국민 총동원령
+$COMBAT_UNIT_02
+보병
+$COMBAT_UNIT_03
+도시 경비대
+$COMBAT_UNIT_04
+머스킷병
+$COMBAT_UNIT_05
+포병
+$COMBAT_FIRST_LINE
+보병 - 1열
+$COMBAT_SECOND_LINE
+머스킷병 - 두 번째 열
+$COMBAT_THIRD_LINE
+포병 - 세 번째 줄
+$MAGIC_BUTTON_BATTLE
+모든 전투 진행
+$ENEMY_AGENT_NAME_DIPLOMAT
+적국 외교관
+$ENEMY_AGENT_NAME_MUSCLE
+적 브루저
+$MAP_PATROL_NAME
+혁명 순찰대
+$UNLOCK_DISTRICT
+섹션 잠금 해제
+$MISSION_EXCEPTION_ENEMY_AGENT_TUTORIAL
+적 요원을 공격
+$MISSION_EXCEPTION_DISCOVERY_TUTORIAL
+적의 구역을 점령하십시오.
+$MISSION_EXCEPTION_NO_UNREST
+폭동 없음
+$MISSION_EXCEPTION_MAX_LEVEL
+구역이 완전히 업그레이드되었습니다
+$MISSION_EXCEPTION_PLAYER_HQ
+구역이 당신의 소유입니다
+$MISSION_EXCEPTION_ENEMY_HQ
+구역이 적대 가문에 속해 있습니다
+$MISSION_EXCEPTION_NON_PLAYER_DISTRICT
+섹션이 귀하의 소유가 아닙니다
+$BLOCK_PLAYER_AGENTS_TOOLTIP
+부상으로 인해 아무런 행동도 할 수 없습니다.
+$MISSION_EXCEPTION_AGENT_IS_WOUNDED
+요원이 부상을 입었습니다.
+$MISSION_EXCEPTION_NO_ALLIES
+아군 요원이 없습니다.
+$MISSION_EXCEPTION_ACTIVE_UNREST
+구역 내 소요
+$ENEMY_AGENT_JOB_DESC
+구역을 점령 중
+$MAP_PATROL_JOB_DESC
+순찰 중
+$PAWN_MUSCADINES_JOB_DESC
+군중을 선동하고 있음
+$PAWN_NAME_MUSCADINES
+뮈스카댕
+$REPORT_ENEMY_AGENTS_TITLE
+적대 요원
+$REPORT_DISTRTICT_TITLE
+섹션
+$MAP_PATROL_BRIBE_TOOLTIP
+영향력 점수로 요원을 구매하기
+#FULL_GARRISON
+주둔군이 가득 찼습니다!
+#NO_PLACE_GARRISON
+공간이 부족합니다!
+$REPORT_ACTION_DESCRIPTION_01
+섹션 {0} 업그레이드됨
+$REPORT_ACTION_DESCRIPTION_02
+폭동으로 인해 차단되었습니다
+$REPORT_ACTION_DESCRIPTION_03
+혁명 순찰대에 의해 체포됨
+$REPORT_ACTION_DESCRIPTION_06
+{0} 구역 파괴 공작
+$REPORT_ACTION_DESCRIPTION_07
+요원을 처치함: {0}
+$REPORT_ACTION_DESCRIPTION_08
+요원을 물리치지 못했습니다: {0}
+$REPORT_ACTION_DESCRIPTION_09
+섹션 {0}의 소요 진압
+$REPORT_ACTION_DESCRIPTION_10
+구역 {0}의 소요 진압에 실패함
+$REPORT_ACTION_DESCRIPTION_11
+{0} 구역에서 폭동 진압
+$REPORT_ACTION_DESCRIPTION_12
+{0} 구역의 폭동 진압에 실패했습니다
+$REPORT_ACTION_DESCRIPTION_16
+혁명 순찰대에 의해 적 요원 {0}이 처단됨
+$REPORT_ACTION_DESCRIPTION_17
+혁명 순찰대가 {0} 구역에 도착했습니다!
+$REPORT_ACTION_DESCRIPTION_18
+섹션 {0}에 적 요원이 나타났습니다: {1}!
+$REPORT_ACTION_DESCRIPTION_19
+{0} 사라졌다!
+$REPORT_ACTION_DESCRIPTION_20
+{0} 구역에서 소요 발생 감지
+$REPORT_ACTION_DESCRIPTION_21
+{0} 구역에서 폭동이 발생했습니다
+$REPORT_ACTION_DESCRIPTION_22
+{0} 구역에서 폭동 진압
+$REPORT_ACTION_DESCRIPTION_23
+섹션 {0}이(가) 완전히 업그레이드되었습니다!
+$REPORT_ACTION_DESCRIPTION_24
+폭동으로 인해 {0} 구역의 수준이 하락했습니다!
+$REPORT_ACTION_DESCRIPTION_25
+세력 {0}와의 관계가 개선되었습니다
+$REPORT_ACTION_DESCRIPTION_26
+파벌 {0}와의 관계 개선에 실패했습니다
+$DISTRICTS_COUNTER_TOOLTIP
+점령된 구역
+$DISTRICT_CONTROL_BAR_TOOLTIP
+파리 통제권
+$MAP_COMBAT_GARRISON
+주둔군
+#GENERAL_ARMY_STACK_TIER_01
+작은
+#GENERAL_ARMY_STACK_TIER_02
+중간
+#GENERAL_ARMY_STACK_TIER_03
+큰
+#GENERAL_QUICK_BATTLE_NAME
+빠른 전투
+#GENERAL_SELECTION_EFFECTIVNESS
+효과성:
+#GENERAL_SELECTION_ARMY
+병력:
+#GENERAL_SELECTION_TACTIC
+전술:
+$MAIN_SECTION_STATUE_SELECTION_DESC
+조각상 설계
+$MAIN_SECTION_STATUE_SELECTION_TITLE
+설계를 확인하십시오
+$MAIN_SECTION_HEADER
+메인 섹션
+$MAIN_SECTION_STATUE_ATTRIBUTE
+주변 환경
+$MAIN_SECTION_STATUE_BOTTOM
+받침대
+$MAIN_SECTION_STATUE_TOP
+조각상
+$MAIN_SECTION_STATUE_SING
+도안을 확인하려면 서명하십시오
+$MAIN_SECTION_BUILD_BUTTON
+건물을 점거하라
+$MAIN_SECTION_BUILD_INFO
+- 건물을 점거하라 -
+$MAIN_SECTION_REBUILD_HEADER
+본부로 사용할 건물을 선택하십시오
+$MAIN_SECTION_REBUILD_BUTTON
+복구
+$MAIN_SECTION_REBUILD_TOOLTIP_01
+이 건물은 재건 중입니다.
+$MAIN_SECTION_ACTION_BUTTON
+이 행동을 {0} IP로 구매합니다
+$MAIN_SECTION_ACTION_NOT_ENOUGHT
+이 행동을 할 수 없습니다 ({0} IP)
+$MAIN_SECTION_BUILD_INPROGRESS
+점령 진행 중 ({0}/{1}일)
+$MAIN_SECTION_REBUILD_INPROGRESS
+{0} 복구 진행 중 ({1}/{2}일)
+$MAIN_SECTION_BUILD_BLOCKED
+이 건물은 차단되었습니다.
+$MAIN_SECTION_BUILD_SPEED
+동상 건설 일일 속도: {0}%
+$MAIN_SECTION_BUILD_SPEED_TOOLTIP
+점령한 구역의 수가 동상 건설 속도에 영향을 미칩니다.
+$MAIN_SECTION_BUILD_POPUP
+새로운 기회
+$MAIN_SECTION_BUILD_POPUP_TEXT
+동상 건설이 또 한 단계 진척되었습니다. 이제 건물을 하나 더 점령할 수 있습니다.
+$MAIN_SECTION_REBUILD_POPUP
+전투 시작
+$MAIN_SECTION_REBUILD_POPUP_TEXT
+파리 전체가 전투에 휩싸였습니다! 정치 살롱은 본부로, 은신처는 구호소로 바뀔 것입니다. 인쇄소는 운영을 중단합니다.
+$MAIN_SECTION_FAMILY_POPUP
+동상 건립을 지원하기
+$MAIN_SECTION_FAMILY_POPUP_TEXT
+가족이 돕고 있다는 걸 보면 모두가 더 열심히 일하게 됩니다!
+$MAIN_SECTION_BUILD_END_POPUP_01
+압수에 성공했습니다.
+$MAIN_SECTION_BUILD_END_POPUP_02
+재건이 완료되었습니다.
+$MAIN_SECTION_BUILD_END_POPUP_03
+건설이 완료되었습니다.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_01
+정치 살롱을 성공적으로 장악했습니다. 이용 가능한 행동들이 법정에서의 업무를 도울 것입니다.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_02
+은신처를 점령했습니다. 이제 요원들이 파리에서 더 효율적으로 활동할 수 있습니다.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_03
+인쇄소를 장악했습니다. 사용할 수 있는 행동으로 파리의 정치 집단에 영향력을 행사할 수 있습니다.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_05
+정치 살롱이 본부로 탈바꿈했습니다. 파리를 위한 투쟁에 도움이 될 행동을 선택하세요.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_06
+은신처가 이제 지원 센터로 바뀌었습니다. 앞으로 전투에서 물류 전문가를 잃을 때마다 이곳에서 새로 영입할 수 있습니다.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_07
+인쇄소가 야전 병원으로 바뀌었습니다. 이제 전투에서 의무병을 잃을 때마다 이곳에서 새로 영입할 수 있습니다.
+$MAIN_SECTION_BUILD_END_POPUP_TEXT_08
+혁명의 승리를 상징하는 기념물이 완공되었습니다. 완성된 기념비는 벌써부터 호기심 많은 파리 시민들을 끌어모으고 있습니다.
+$MAIN_SECTION_MILESTONE_COUNTER
+점검까지 남은 일수: {0}
+$MAIN_SECTION_MILESTONE_EXEEDED
+검사가 진행 중입니다
+$MAIN_SECTION_PREMILESTONE_TITLE
+곧 검열이 시작됩니다!
+$MAIN_SECTION_MILESTONE_TITLE
+점검까지 남은 일수:
+$MAIN_SECTION_PREMILESTONE_MAIN
+3일 후에 관리들이 기념비의 진행 상황을 평가하러 올 것입니다. 그들을 감탄하게 하도록 최선을 다하십시오.
+$MAIN_SECTION_MILESTONE_01
+1단계: {0}–{1}%
+$MAIN_SECTION_MILESTONE_02
+2단계: {0}–{1}%
+$MAIN_SECTION_MILESTONE_03
+3단계: {0}–{1}%
+$MAIN_SECTION_MILESTONE_04
+4단계: {0}–{1}%
+$MAIN_SECTION_STATUE_TITLE
+조각상
+$MAIN_SECTION_STATUE_DESCRIPTION
+건설 단계가 완료될 때마다 또 다른 건물을 점령할 수 있습니다.
+$MAIN_SECTION_BUILDING_01
+정치 살롱
+$MAIN_SECTION_BUILDING_DESC_01
+이 건물에서 제공하는 행동들은 법정에서의 업무를 더욱 수월하게 해줄 것입니다.
+$MAIN_SECTION_BUILDING_02
+은신처
+$MAIN_SECTION_BUILDING_DESC_02
+은신처는 당신의 요원들이 파리에서 더 효율적으로 활동할 수 있도록 도와줍니다.
+$MAIN_SECTION_BUILDING_03
+인쇄소
+$MAIN_SECTION_BUILDING_DESC_03
+인쇄소를 통해 뮤스카댕과 혁명 순찰대에 대한 조치를 취할 수 있습니다.
+$MAIN_SECTION_BUILDING_04
+당신의 저택
+$MAIN_SECTION_BUILDING_DESC_04
+여기서 가족과 설득한 인물과 관련된 행동을 할 수 있습니다.
+$MAIN_SECTION_BUILDING_05
+본부
+$MAIN_SECTION_BUILDING_DESC_05
+본부에서는 전투와 관련된 행동을 수행할 수 있습니다.
+$MAIN_SECTION_BUILDING_06
+도움말 센터
+$MAIN_SECTION_BUILDING_DESC_06
+물류 전문가를 영입할 수 있습니다.
+$MAIN_SECTION_BUILDING_07
+야전 병원
+$MAIN_SECTION_BUILDING_DESC_07
+이 건물에서 의사 폰을 모집할 수 있습니다.
+$MAIN_SECTION_ACTION_ACTIVE
+사용할 수 있는 행동
+$MAIN_SECTION_ACTION_COOLDOWN
+{0}일 후에 행동 가능
+$MAIN_SECTION_ACTION_TITLE_01
+보고서 작성
+$MAIN_SECTION_ACTION_TITLE_02
+배심원을 매수한다
+$MAIN_SECTION_ACTION_TITLE_03
+면책 특권 부여
+$MAIN_SECTION_ACTION_TITLE_04
+군중을 진정시키기
+$MAIN_SECTION_ACTION_TITLE_05
+고발
+$MAIN_SECTION_ACTION_TITLE_06
+뮈스카댕을 보낸다
+$MAIN_SECTION_ACTION_TITLE_07
+가족과 더 많은 시간을 보내기
+$MAIN_SECTION_ACTION_TITLE_08
+설득을 용이하게 하다
+$MAIN_SECTION_ACTION_TITLE_09
+적을 감시하다
+$MAIN_SECTION_ACTION_TITLE_10
+바리케이드 건설
+$MAIN_SECTION_ACTION_TITLE_11
+물류 전문가를 영입하십시오
+$MAIN_SECTION_ACTION_TITLE_12
+의사를 영입하십시오
+$MAIN_SECTION_ACTION_DESC_01
+내일 재판 중에는 보고서가 차단되어 더 이상 신경 쓰지 않으셔도 됩니다.
+$MAIN_SECTION_ACTION_DESC_02
+배심원단은 내일 재판의 판결에 대해 별다른 의견을 갖지 않을 것입니다.
+$MAIN_SECTION_ACTION_DESC_03
+당신의 요원들은 순찰대의 행동에 면역이 됩니다.
+$MAIN_SECTION_ACTION_DESC_04
+당신이 통제하는 구역의 열기를 낮춥니다.
+$MAIN_SECTION_ACTION_DESC_05
+혁명 순찰대가 가장 가까운 적 요원을 체포합니다.
+$MAIN_SECTION_ACTION_DESC_06
+다음 턴에 뮈스카댕이 가장 가까운 적 구역으로 이동해 폭동을 선동합니다.
+$MAIN_SECTION_ACTION_DESC_07
+가족 특수 행동 중 하나를 무작위로 선택합니다.
+$MAIN_SECTION_ACTION_DESC_08
+설득에 성공한 인물은 당신에게 더 우호적인 태도로 시작합니다.
+$MAIN_SECTION_ACTION_DESC_09
+공격군의 전력을 표시합니다.
+$MAIN_SECTION_ACTION_DESC_10
+적이 인접한 구역에 있는 부대는 방어 보너스를 받습니다.
+$MAIN_SECTION_ACTION_DESC_11
+물류 전문가가 있으면 사람들이 더 빨리 탈출할 수 있습니다.
+$MAIN_SECTION_ACTION_DESC_12
+의사는 전투 중에 당신의 병사들을 치료합니다.
+$MAIN_SECTION_OPEN_TOOLTIP
+클릭하여 메인 섹션 보기로 이동합니다
+$MAIN_SECTION_ACTION_ACCEPT_TOOLTIP
+클릭하여 확인하세요.
+$MAIN_SECTION_BUILD_TOOLTIP
+이 건물을 점령할 수 있습니다.
+$MAIN_SECTION_BUILDING_TOOLTIP
+이미 이 건물을 점거하고 있습니다.
+$MAIN_SECTION_SELECTED_ACTION_TOOLTIP
+이 행동은 이미 선택되었습니다.
+$MAIN_SECTION_LOCKED_TOOLTIP
+아직 이 건물을 점령할 수 없습니다.
+$MAIN_SECTION_MAGIC_TOOLTIP
+주요 구역을 방문하세요.
+$MAP_REFUGEES_MAGIC_TOOLTIP
+난민 탈출
+$MAP_REFUGEE_AGENT
+물류 전문가
+$MAP_MEDIC_AGENT
+의사
+$MAP_REFUGEE_AGENT_MISSION
+탈출 지원
+$MAP_REFUGEES_COUNTER_TOOLTIP
+구역 내 민간인
+$MAP_REFUGEES_RESCUED_TOOLTIP
+파리 생존자 수
+$MAP_REFUGEES_CASAULTIES_TOOLTIP
+파리 시민 사망자 수
+$MAP_REFUGEES_REPUTATION_TOOLTIP
+평판에 미치는 영향
+$MAP_REFUGEES_COUNTER_TITLE
+도망자들의 운명
+$MAP_INVASION_DAYS_LEFT
+구원이 도착하기까지 남은 일수:
+$MAP_INVASION_EXEEDED
+구원은 끝내 오지 않았다
+$MAP_REFUGEES_VISIBLE
+구역 내 민간인 수 숨기기
+$MAP_REFUGEES_INVISIBLE
+구역 내 민간인 수 표시
+$MAP_ARMY_RAPORT_HEADER
+모집
+$MAP_ARMY_RAPORT_TITLE
+당신에게 배정되는 부대의 수는 평판에 따라 달라집니다.
+$MAP_ADDITIONAL_ARMY_RAPORT_HEADER
+추가 병력
+$MAP_REPORT_TITLE
+활동 보고서
+$MAP_COMBAT_PAWN_TITLE_01
+국민 총동원령
+$MAP_COMBAT_PAWN_DESC_01
+사회 각계각층의 사람들이 모였습니다. 숫자가 곧 힘입니다.
+$MAP_COMBAT_PAWN_TITLE_02
+보병
+$MAP_COMBAT_PAWN_DESC_02
+훈련된 병사들은 근접 전투와 방어에 능합니다.
+$MAP_COMBAT_PAWN_TITLE_03
+도시 경비대
+$MAP_COMBAT_PAWN_DESC_03
+매일 도시를 지켜온 사수들입니다. 원거리와 근접 공격 모두 수행합니다.
+$MAP_COMBAT_PAWN_TITLE_04
+머스킷병
+$MAP_COMBAT_PAWN_DESC_04
+원거리 공격에 가장 능한 숙련된 사수들이지만, 근접전에서도 싸울 수 있습니다.
+$MAP_COMBAT_PAWN_TITLE_05
+포병
+$MAP_COMBAT_PAWN_DESC_05
+첨단 기술 덕분에 포병은 공격력에서 타의 추종을 불허합니다. 하지만 쉽게 손상될 수 있다는 단점이 있습니다.
+$MAP_NEWSPAPER_TITLE
+신문
+$MAP_NEWSPAPER_A1_05
+이 일은 이미 며칠째 사람들 사이에서 속삭임과 의심 속에 오르내렸지만, 오늘 우리는 마침내 목청껏 외칠 수 있습니다. 장 마리 롤랑이 루이의 반역을 입증하는 증거, 카페의 철제 캐비닛에 보관되어 있던 그 증거를 파괴했습니다. 불길한 보고는 롤랑과 함께 캐비닛을 열었던 필리프 코테에 의해 확인되었습니다. 롤랑은 또한 자신을 죄에 몰아넣을 문서들까지 없애려 했으나, 다행히 모든 증거를 훼손하는 데는 실패했습니다. 그를 막은 것은 신중한 로베스피에르가 보낸 경비병들이었습니다. 수치스러운 일입니다!
+$MAP_NEWSPAPER_A1_03
+파리의 영웅이 드러나다! 알렉시 피델 판사는 반역자 루이 카페, 전 국왕에게 형을 선고하고 직접 처형을 감독했다. 그는 망설임도, 자비도 없었다. 파리에는 새로운 수호자가 있다!
+$MAP_NEWSPAPER_A1_04
+프로이센 군이 프랑스의 문턱에 다가왔습니다! 최고 사령부는 다가오는 적을 막기 위해 새로운 징집을 시작하기로 결정했습니다. 용기와 공화국에 대한 사랑을 지닌 모든 이들은 형제들과 함께 싸우고, 필요하다면 목숨을 바쳐야 할 것입니다…
+$MAP_NEWSPAPER_A1_06
+적이 성문 앞에 있습니다! 이는 먼 미래의 허상이 아니라, 우리가 사회를 정화하지 않는다면 곧 닥칠 현실입니다. 경계를 늦추지 말고 공화국의 적, 구체제의 첩자들을 주의 깊게 살피십시오—그들은 아직 우리 곁에 숨어 있을지 모릅니다! 반역자 카페를 처형했다고 해서 결코 방심해서는 안 됩니다!
+$MAP_NEWSPAPER_A2_FIRST_01
+롤랑 가문은 그 악취 나는 판사의 첫 희생자였지. 피델은 그들을 손바닥 위에서 놀렸고, 이제 그들은 땅속에 묻혀 있네.
+$MAP_NEWSPAPER_A2_FIRST_02
+두 명의 희생자로는 분명히 만족하지 못했던 모양이군요. 많은 지롱드파 인사들까지 단두대로 보냈으니 말입니다. 명목상으로는 반역죄라지만, 진실이 무엇인지는 아무도 알 수 없지요.
+$MAP_NEWSPAPER_A2_FIRST_03
+그가 카페의 탈출 이후 시위대 학살에 책임이 있던 인물 중 하나였다는 사실은 거의 알려지지 않았습니다. 그는 그 사람들에게 발포하라는 허가서에 서명했습니다!
+$MAP_NEWSPAPER_A2_FIRST_04
+이전에 그는 격분한 군중을 진정시키는 데 도와주지 않음으로써 사실상 총사령관 뷰렐에게 사형을 선고한 것이나 다름없었습니다.
+$MAP_NEWSPAPER_A2_FIRST_05
+롤랑 장관과 그의 아내를 둘러싼 스캔들 이후, 혁명재판소는 그들의 재산을 몰수했지. 마담 롤랑이 운영하던 사창가도 포함해서 말이야. 그런데 이 일을 누가 처리했는지 아나? 공식적으로는 총사령관 앙리오였지만, 피델도 이익을 챙겼다는 소문이 돌더군.
+$MAP_NEWSPAPER_A2_SECOND_01
+파리 시장도 같은 운명을 맞이했다. 피델은 자신을 암살하려 한 책임이 파슈에게 있다고 믿고 그를 몰락시켰다.
+$MAP_NEWSPAPER_A2_SECOND_02
+파슈에게 다가가기 위해 그는 뮈스카댕들을 파리로 풀어놓았다. 그들이 시장의 비행을 알게 되자, 도시는 난장판이 되었다. 피델의 허락 아래!
+$MAP_NEWSPAPER_A2_SECOND_03
+그는 다리 완공에 강하게 반대했습니다 [플레이어가 이 선택을 했다면]. 그의 아들이 그곳에서 목매달렸다는 건 이해하지만, 개인적인 감정이 도시 전체에 영향을 미쳐서는 안 됩니다.
+$MAP_NEWSPAPER_A2_SECOND_04
+베아트리스 카롱은 또 다른 ‘재판소의 야수’의 희생자입니다. 그 불쌍한 소녀는 파슈에 대한 음모와 반역죄로 누명을 썼죠. 그녀의 인생은 하룻밤 사이에 산산조각 났습니다.
+$MAP_NEWSPAPER_A2_SECOND_05
+이 일로 그녀는 죽음을 맞이했다. 허술하게 짜인 음모로 인해 파슈의 딸 마리(마리-실비)는 베아트리스를 죽이고 말았다. 두 여성은 연인 사이였다.
+$MAP_NEWSPAPER_A2_SECOND_06
+그는 또한 마리 실비 파슈의 죽음에 이르게 했다. “재판소의 야수”는 마리 실비 파슈에게 사형을 선고함으로써 그 사건의 마지막 증인마저 영원히 침묵시켰다. 이제 그를 곤경에 빠뜨릴 수 있는 모든 이를 제거한 셈이다.
+$MAP_NEWSPAPER_A2_THIRD_01
+이어 “재판소의 야수”가 고벨 대주교의 사생아에 대한 역겨운 소문을 퍼뜨리기 시작했다. 그 끔찍한 결과를 누가 예측할 수 있었겠는가? 알렉시 피델만은 모든 것을 꿰뚫고 있었다.
+$MAP_NEWSPAPER_A2_THIRD_02
+나는 재판장이 방데의 소요를 이용해 수도의 민심을 자극하고, 이미 성직자들에게 등을 돌린 평민들마저 고벨에게 등을 돌리게 만들었다고 확신한다.
+$MAP_NEWSPAPER_A2_THIRD_03
+그는 고벨의 계획을 방해했다. 지친 사회를 돕고자 대주교가 가난한 이들을 지원하기 시작했지만, 피델은 즉시 그 시도를 중단시켰다. 그의 정치적 목표가 민중의 안녕보다 더 중요했던 것이다!
+$MAP_NEWSPAPER_A2_THIRD_04
+그러나 “재판소의 야수”가 저지른 가장 끔찍한 범죄는 아직 일어나지 않았다. 피델은 고벨의 가족을 납치해 그를 협박했다. 그로 인해 결국 아들이 아버지를 죽이는 참혹한 결과까지 초래했다고 할 수 있다!
+$MAP_NEWSPAPER_A2_FOURTH_01
+알렉시 피델은 술과 도박에 빠진 인물로 잘 알려져 있습니다. 이처럼 제어할 수 없는 행동은 이 집안에 깊이 뿌리내린 듯합니다.
+$MAP_NEWSPAPER_A2_FOURTH_02
+판사의 형제는 어린 소년을 심하게 구타해 불구로 만든 죄로 도시에서 추방당했다. 그는 나무 곤봉으로 소년을 거의 죽음 직전까지 때렸다. 피해자는 지금도 일상적인 일조차 남의 도움 없이는 해낼 수 없다.
+$MAP_NEWSPAPER_A2_FOURTH_03
+내가 알기로 판사는 여전히 영국을 위해 첩보 활동을 했던 창녀 그레이스 엘리엇과 모호한 관계를 이어가고 있습니다.
+$MAP_NEWSPAPER_A2_FOURTH_04
+그의 아내 역시 남편과 다를 바 없었다. 마틸드 피델은 결혼 생활에 충실하지 않았으며, 일부 사람들에게 총사령관 앙리오와 함께 있는 모습이 목격되었다고 한다. 앙리오는 바로 알렉시 피델이 지지했던 인물이자, 결국 로베스피에르의 충견으로 드러난 자였다.
+$MAP_NEWSPAPER_A2_FOURTH_05
+피델과 그레고리 라멜이라는 인물과의 관계 역시 불분명하다. 라멜은 소위 ‘재판소의 야수’를 위해 정보를 입수했다고 하며, 피델은 자신의 동료가 한때 영국을 위해 첩보 활동을 했다는 사실에도 별로 개의치 않은 듯하다.
+$RAPORT_SPY_TAKE_OVER_SECTION
+적이 점령하고 있던 구역 {0}을(를) 장악했습니다.
+$RAPORT_SPY_BOUNCE_SECTION
+섹션 {0}을 중립화했습니다.
+$RAPORT_SPY_TRAP
+적에게 매복을 설치했습니다.
+$RAPORT_SPY_SABOTAGE
+섹션 {0}을(를) 사보타주했습니다.
+$RAPORT_MUSCLE_UNREST_SUCC
+{0} 구역에서 폭동을 진압했습니다.
+$RAPORT_MUSCLE_UNREST_FAIL
+{0} 구역의 폭동을 진압하지 못했습니다.
+$RAPORT_MUSCLE_GAIN_REP
+평판이 {0}만큼 상승했습니다.
+$RAPORT_MUSCLE_GAIN_PROT_AGENTS
+섹션 {0}에서 요원들을 물리쳤습니다.
+$RAPORT_DIPLOMAT_TAKE_OVER_SECTION
+섹션 {0}을(를) 점령했습니다.
+$RAPORT_DIPLOMAT_IMPROVE_RELATIONS
+{0}와의 관계가 개선되었습니다.
+$RAPORT_DIPLOMAT_IMPROVE_RELATIONS_FAIL
+{0}와(과)의 관계를 개선할 수 없습니다.
+$RAPORT_DIPLOMAT_DECREASE_TEMP
+섹션 {0}의 군중 분위기를 진정시켰습니다.
+$RAPORT_AGENT_BLOCKED_UNREST
+요원이 폭동에 의해 저지당했습니다.
+$RAPORT_AGENT_BLOCKED_PATROL
+혁명 순찰대가 요원을 체포했습니다.
+$RAPORT_AGENT_WON_FIGHT_WITH_ENEMY
+요원이 적과의 싸움에서 승리했습니다.
+$RAPORT_AGENT_INJURED
+요원이 부상을 입었습니다.
+$RAPORT_AGENT_REVEAL_SECTION
+요원이 구역 {0}을(를) 발견했습니다.
+$RAPORT_ENEMY_AGENTS_TAKE_OVER_SECTION
+적 {0}이(가) {1} 구역을 점령했습니다.
+$RAPORT_ENEMY_AGENTS_DISAPPEAR
+적 {0}이 사라졌습니다.
+$RAPORT_ENEMY_AGENTS_ARRESTED
+혁명 순찰대가 적국의 첩자 {0}를 체포했습니다.
+$RAPORT_ENEMY_MUSCADIN_UNREST
+뮈스카댕들이 폭동을 선동했습니다.
+$RAPORT_ENEMY_PATROL_SPAWN_SECTION
+혁명 순찰대가 {0} 구역을 수색 중입니다!
+$RAPORT_ENEMY_MUSCADIN_SPAWN_SECTION
+섹션 {0}에서 뮈스카댕이 목격되었습니다!
+$RAPORT_ENEMY_AGENT_SPAWN_SECTION
+적국의 첩자가 X 구역에 도착했습니다: {0}!
+$RAPORT_ENEMY_MUSCADIN_DISAPPEAR
+뮤스카댕들이 사라졌다.
+$RAPORT_ENEMY_PATROL_DISAPPEAR
+혁명 순찰대가 사라졌습니다.
+$RAPORT_SECTION_SPAWN_UNREST
+{0} 구역에서 폭동이 발생했습니다.
+$RAPORT_SECTION_DESPAWN_UNREST
+{0} 구역의 폭동이 진압되었습니다.
+$RAPORT_SECTION_PLAYER_TAKE_OVER_SECTION
+섹션 {0}을(를) 장악했습니다!
+$RAPORT_SECTION_NEUTRAL_UNREST
+폭동으로 인해 {0} 구역이 중립화되었습니다!
+$RAPORT_SECTION_LOST
+섹션 {0}을(를) 잃었습니다!
+$RAPORT_SECTION_REVEAL
+섹션 {0}이 발견되었습니다.
+$RAPORT_SECTION_HIGHT_TEMP
+{0} 구역의 군중 분위기가 위험할 정도로 고조되었습니다.
+$DISTRICT_INFLUENCE_BONUS
+영향력 포인트: +{0}
+$DISTRICT_CONSTRUCTION_BONUS
+기념비 건설: +{0}%
+$MAP_COMBAT_TUTORIAL_TOOLTIP
+위협받는 구역에 병력을 배치하십시오!
+$MAP_COMBAT_END_TITLE
+계속 싸우십시오.
+$MAP_COMBAT_END_MAIN
+구원군이 제때 도착하지 않았습니다. 우리는 조금만 더 버텨야 합니다.

@@ -1,0 +1,44 @@
+$DIAL_CO_01_03_21_V1_001_PACHE
+You scoundrel! You… you serpent! Danton never betrayed me. It was you!
+$DIAL_CO_01_03_21_V1_002_JUDGE
+He did too.
+$DIAL_CO_01_03_21_V1_003_PACHE
+How could you? We were supposed to be–
+$DIAL_CO_01_03_21_V1_004_JUDGE
+Friends, yes. Let us not waste any more time. Admit that the accusations for treason are true and your daughter shall be freed. I cannot promise the same for you, however.
+$DIAL_CO_01_03_21_V1_005_PACHE
+I attacked you because they told me to do it!
+$DIAL_CO_01_03_21_V1_006_JUDGE
+That is irrelevant. You will be tried like all the other assassins.
+$DIAL_CO_01_03_21_V1_007_PACHE
+They will crucify me because of you! The person who promised me his friendship, an alliance!
+$DIAL_CO_01_03_21_V1_008_JUDGE
+They will surely remove you from office, but you will live. Marie will live too. But if you keep barking, you will both lose your heads.
+$DIAL_CO_01_03_21_V1_009_PACHE
+You will pay for this, I swear.
+$DIAL_CO_01_03_21_V1_010_JUDGE
+Maybe, but you will pay first. Your trial begins any minute, so you do not have much time left to think.
+$DIAL_CO_01_03_21_V2_001_PACHE
+My daughter is dead.
+$DIAL_CO_01_03_21_V2_002_JUDGE
+I know.
+$DIAL_CO_01_03_21_V2_003_PACHE
+She slit her throat because of some… girl.
+$DIAL_CO_01_03_21_V2_004_JUDGE
+I know.
+$DIAL_CO_01_03_21_V2_005_PACHE
+All because of you, you bastard! I thought we were friends.
+$DIAL_CO_01_03_21_V2_006_JUDGE
+I was never your friend. Just like Danton.
+$DIAL_CO_01_03_21_V2_007_PACHE
+What will happen to me?
+$DIAL_CO_01_03_21_V2_008_JUDGE
+Confess, and you will go free. Refuse to cooperate, and you will die at the guillotine.
+$DIAL_CO_01_03_21_V2_009_PACHE
+Will any of those options bring my daughter back?
+$DIAL_CO_01_03_21_V2_010_JUDGE
+I do not think so.
+$DIAL_CO_01_03_21_V2_011_PACHE
+Then you can bugger off.
+$DIAL_CO_01_03_21_V2_012_JUDGE
+The trial will start in a few minutes. You had better think this through.

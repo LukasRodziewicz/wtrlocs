@@ -1,0 +1,150 @@
+#BATTLE_TURNS
+Turn {0}
+#LAST_STAND
+Last chance!
+#BATTLE_WIN
+You won!
+#BATTLE_LOSE
+You lost!
+#BATTLE_DRAFT
+Stalemate!
+#BATTLE_TURN
+Turn {0}
+#BATTLE_TURN_LINE
+Turn {0}
+#BATTLE_SUMMARY_ENEMY
+Opponent:
+#BATTLE_SUMMARY_PLAYER
+Player:
+#START_BATTLE
+Fight a battle
+#PENDING_BATTLE
+Battle in progress
+#BALANCE_OF_POWER
+Balance of power
+#CHOOSE_TACTIC
+Choose tactic
+#TACTIC_INACTIVE
+This tactic is not available
+#TACTIC_LOCKED
+This tactic was blocked by a modifier
+#MEDIC_USED
+The Medic has already been dispatched.
+#TACTIC_NEUTRAL
+Neutral
+#TACTIC_NEUTRAL_DESC
+A balanced tactic; doesn't offer any significant advantages, but doesn't give large penalties to your troops' attack power, either.
+#TACTIC_BREAK
+Frontline assault
+#TACTIC_BREAK_DESC
+A heroic attack on the frontlines. Particularly effective when you have a lot of shooters. Less effective when your infantry is weakened.
+#TACTIC_FIRING
+Suppressive fire
+#TACTIC_FIRING_DESC
+Your shooters rain bullets over all of the enemy's lines, and the infantry tries to hold the line. Tactic particularly effective against a defensive enemy.
+#TACTIC_DEFENSE
+Defence
+#TACTIC_DEFENSE_DESC
+Your troops fight less ferociously, but they receive a large bonus to defense. This tactic can be particularly effective when you have a lot of infantrymen at your disposal.
+#TACTIC_TRENCH
+Entrenchment
+#TACTIC_TRENCH_DESC
+Artillery attacks more lines, while the rest of the rows switch to defense.
+#BATTLE_STATS_ATTACK_BONUS
+Bonus to attack
+#BATTLE_STATS_ATTACK_PENALTY
+Penalty to attack
+#BATTLE_STATS_DEFENSE_BONUS
+Bonus to defence
+#BATTLE_STATS_DEFENSE_PENALTY
+Penalty to defence
+#MUSKETEERS
+Musketeers
+#INFANTRY
+Infantry
+#ARTILLERY
+Artillery
+#BATTLE_OPPONENT_01
+Aggressive
+#BATTLE_OPPONENT_02
+Defensive
+#BATTLE_OPPONENT_03
+Neutral
+#TUTORIAL_OPPONENT
+Invader
+#BATTLE_OPPONENT_CUT_22
+Supporters of Gobel
+#BATTLE_OPPONENT_CUT_28
+Hanriot
+#BATTLE_MEDIC_AVAILABLE
+Dispatch Medic
+#BATTLE_MEDIC_REWIND
+Reset
+#BATTLE_MEDIC_DISABLED
+There is no Medic available.
+#BATTLE_REFUGEES_HEADER
+Civilians in the Section
+#BATTLE_REFUGEES_TITLE
+Others
+#BATTLE_RESCUED_REFUGEES_TITLE
+Survivors
+#BATTLE_SUMMARY_AGENTS_LOST
+Killed Agents
+#BATTLE_SUMMARY_AGENT_MEDIC
+Medic
+#BATTLE_SUMMARY_AGENT_COORDINATOR
+Logistics specialist
+#BATTLE_REFUGEES_NEW_TURN
+{0} civilians escaped during this turn
+#BATTLE_EVENT_TITLE_01
+Downpour
+#BATTLE_EVENT_DESC_01
+Shooters have -50% attack power. Residents escape 20% slower.
+#BATTLE_EVENT_TITLE_02
+Narrow Alley
+#BATTLE_EVENT_DESC_02
+Blocks offensive tactics.
+#BATTLE_EVENT_TITLE_03
+Enemy Supplies
+#BATTLE_EVENT_DESC_03
+The enemy fights more fiercely.
+#BATTLE_EVENT_TITLE_04
+Barricades
+#BATTLE_EVENT_DESC_04
+Your units are more efficient due to fortifications.
+#BATTLE_EVENT_TITLE_05
+Paralysing Fear
+#BATTLE_EVENT_DESC_05
+Residents escape 30% slower.
+#BATTLE_EVENT_TITLE_06
+Bravery
+#BATTLE_EVENT_DESC_06
+Your troops fight with more ferocity.
+#BATTLE_EVENT_TITLE_100
+Injured Soldiers
+#BATTLE_EVENT_DESC_100
+Your soldiers attack with 50% less efficiency.
+#BATTLE_EVENT_TITLE_101
+Fanaticism
+#BATTLE_EVENT_DESC_101
+The enemy's militia is fighting harder.
+#BATTLE_SUMMARY_REFUGEES_TITLE
+Civilians:
+#BATTLE_SUMMARY_REFUGEES_RESCUED
+Rescued: {0}
+#BATTLE_SUMMARY_REFUGEES_DEAD
+Killed: {0}
+$TUTORIAL_BATTLE_DIALOG_01
+Our rearguard clashed with the enemy and lost. They forced their way into the camp where the wounded were being tended to. We had to grab our weapons.
+$TUTORIAL_BATTLE_DIALOG_02
+Your brother fought like a man possessed. People were flocking to him.
+$TUTORIAL_BATTLE_DIALOG_03
+We had faith that reinforcements were rushing to help us. But we knew they would be too late…
+$TUTORIAL_BATTLE_DIALOG_04
+A bayonet went right through me. I was bleeding out, and my friends were being felled by bullets, one after another.
+$GOBEL_BATTLE_OPPONENT_01
+Death to those that dare raise their hands against the Church!
+$GOBEL_BATTLE_JUDGE_02
+Not against the Church, but its greedy priests. The ones who are dragging France underwater!
+$GOBEL_BATTLE_OPPONENT_03
+There is no difference. We will not let this stand! We should have put your heads on pikes long ago!

@@ -1,0 +1,196 @@
+$GEN_008_DOC_01_HEADER
+Compilé par : André Modeste
+$GEN_008_DOC_01_00
+Bruno Hugo est un palefrenier de 26 ans travaillant pour Jean-Claude de Jacquemard, un riche aristocrate doté d'une grande influence. Au cours d'une querelle, des témoins l'ont vu pousser son employeur dans les escaliers, entraînant la mort de ce dernier. Le fait qu'il soit considéré comme <a name="2" class="hidden">« l'idiot du village »</a> au sein du voisinage, en raison de ses origines et de ses faibles qualités intellectuelles, est un élément important de l'enquête.
+$GEN_008_DOC_01_01
+Les témoins ont déclaré que de Jacquemard <a name="3" class="hidden">était revenu mécontent de sa balade</a> à cause de la manière dont Bruno avait préparé son cheval. La selle serait devenue si peu <a name="4" class="hidden">stable</a> que le citoyen de Jacquemard était à deux doigts de tomber de sa monture.
+$GEN_008_DOC_01_02
+La victime appela Bruno pour le réprimander. Il commença à <a name="5" class="hidden">insulter et agresser physiquement le garçon d'écurie</a>, quand, dans un élan, Bruno repoussa son employeur. De fait, le citoyen de Jacquemard atterrit en bas des escaliers, <a name="7" class="hidden">le cou tordu</a>. L'incident se produisit sous les yeux d'autres employés. Bruno Hugo s'enfuit vers l'écurie, où on le retrouva plus tard, tremblant de peur et murmurant à l'oreille de l'un des chevaux.
+$GEN_008_OnStart_00
+C'est une affaire très simple. L'accusé est coupable du meurtre. Le seul problème est que les gens ont pitié de lui.
+$GEN_008_OnStart_01
+Quel est ton nom, citoyen ?
+$GEN_008_OnStart_02
+Bruno Hugo... je m'appelle Bruno Hugo.
+$GEN_008_OnStart_03
+Travaillais-tu pour le citoyen Jean-Claude de Jacquemard ?
+$GEN_008_OnStart_04
+Oui, j'y ai travaillé des années... un bon nombre d'années.
+$GEN_008_OnStart_05
+Laissez-le tranquille, ce n'est qu'un homme enfant.
+$GEN_008_OnStart_06
+Plaides-tu coupable pour le meurtre ? Oui ou non ?
+$GEN_008_OnStart_07
+Mais je...
+$GEN_008_OnStart_08
+Le pauvre, il tremble de partout.
+$GEN_008_OnGuilty_00
+Je condamne le citoyen Hugo à être guillotiné.
+$GEN_008_OnGuilty_01
+Pauvre imbécile...
+$GEN_008_OnGuilty_02
+Il ne s'est même pas rendu compte de ce qu'il s'est passé.
+$GEN_008_OnGuilty_03
+Eh bien, au moins il ne tuera personne d'autre.
+$GEN_008_OnPrison_00
+Je condamne le citoyen Bruno Hugo à être emprisonné pour avoir provoqué un accident ayant entraîné la mort du citoyen Jean-Claude de Jacquemard.
+$GEN_008_OnPrison_01
+L'envoyer en prison, c'est signer son arrêt de mort !
+$GEN_008_OnPrison_02
+Tu as été trop indulgent, il t'a dupé.
+$GEN_008_OnNotGuilty_00
+Je déclare Bruno Hugo non coupable des crimes susmentionnés. En effet, il n'est pas conscient de ce qu'il s'est produit.
+$GEN_008_OnNotGuilty_01
+Et alors ? Un crime est un crime !
+$GEN_008_OnNotGuilty_02
+Il faut se montrer prudent face à de tels énergumènes, son employeur aurait dû le savoir.
+$GEN_008_01x02_00_QTitle
+Sais-tu quel surnom te donne le voisinage ?
+$GEN_008_01x02_00_00
+Sais-tu quel surnom te donne le voisinage ?
+$GEN_008_01x02_00_01
+Bruno ne sait pas. Ne sait pas.
+$GEN_008_01x02_00_02
+« L'idiot du village ». Souhaites-tu commenter cela ?
+$GEN_008_01x02_00_03
+Bruno n'aime pas ce surnom... non.
+$GEN_008_01x02_00_04
+On t'appelle souvent ainsi ?
+$GEN_008_01x02_00_05
+Le tribunal se moque de lui !
+$GEN_008_01x02_00_06
+Je n'aime pas et puis c'est tout. J'ai déjà reçu un nom par ma mère. C'est ma mère qui me l'a donné.
+$GEN_008_01x02_00_07
+Est-ce la raison pour laquelle tu as poussé le citoyen de Jacquemard dans les escaliers ?
+$GEN_008_01x02_00_08
+Le maître me criait dessus et je n'aime pas quand il crie. Non, je n'aime pas ça.
+$GEN_008_01x04_01_QTitle
+En tant que garçon d'écurie, étais-tu chargé de préparer les chevaux pour la victime ?
+$GEN_008_01x04_01_00
+En tant que garçon d'écurie, étais-tu chargé de préparer les chevaux pour la victime ?
+$GEN_008_01x04_01_01
+Oui. Je les brossais et leur donnais à manger. Les chevaux mangent beaucoup d'herbe... je les brossais.
+$GEN_008_01x04_01_02
+La selle était-elle mal fixée ?
+$GEN_008_01x04_01_03
+…
+$GEN_008_01x04_01_04
+Citoyen ?
+$GEN_008_01x04_01_05
+Non, pas possible. J'ai tiré sur les sangles. Il ne faut pas tirer trop fort, sinon ça écrase le ventre du cheval et ça lui fait mal. Les chevaux sont bons, meilleurs que les humains, ils...
+$GEN_008_01x04_01_06
+Voulais-tu que ton maître tombe de cheval ? As-tu délibérément mal fixé la sangle pour te venger de ton employeur ?
+$GEN_008_01x04_01_07
+Jamais de la vie ! J'aimais bien le maître, je ne lui ferais pas de mal. Je l'aimais bien.
+$GEN_008_01x04_01_08
+On voit bien que c'est un gentil garçon.
+$GEN_008_01x05_02_QTitle
+Comment le citoyen de Jacquemard te traitait-il ?
+$GEN_008_01x05_02_00
+Comment le citoyen de Jacquemard te traitait-il ?
+$GEN_008_01x05_02_01
+Il était gentil avec moi... parfois il criait, mais il me donnait à manger et était gentil avec les chevaux. Gentil.
+$GEN_008_01x05_02_02
+Criait-il souvent ?
+$GEN_008_01x05_02_03
+Parfois oui... parfois non.
+$GEN_008_01x05_02_04
+Cette ordure d'aristocrate !
+$GEN_008_01x05_02_05
+Est-ce la raison qui t'a poussé à le tuer ?
+$GEN_008_01x05_02_06
+…
+$GEN_008_01x05_02_07
+Il a d'abord été tourmenté par l'aristocrate, et maintenant par la Révolution.
+$GEN_008_03x05_03_QTitle
+Faites entrer Colin Boufue.
+$GEN_008_03x05_03_00
+Faites entrer Colin Boufue.
+$GEN_008_03x05_03_01
+Présente-toi et indique quelles sont tes fonctions.
+$GEN_008_03x05_03_02
+Je m'appelle Colin Boufue, je suis majordome chez la famille de Jacquemard. J'ai vu ce qu'il s'est passé.
+$GEN_008_05x06_04_QTitle
+Es-tu conscient que tu as tué un homme ? Comprends-tu cela ?
+$GEN_008_05x06_04_00
+Es-tu conscient que tu as tué un homme ? Comprends-tu cela ?
+$GEN_008_05x06_04_01
+Je sais... j'ai balancé mon bras car il me criait dessus. Si fort.
+$GEN_008_05x06_04_02
+Étais-tu conscient que tu pouvais le blesser ?
+$GEN_008_05x06_04_03
+Je ne crois pas. Non.
+$GEN_008_05x06_04_04
+As-tu donné un coup si violent qu'il est tombé ?
+$GEN_008_05x06_04_05
+J'avais très peur, je ne m'en souviens pas. J'ai fermé les yeux, monsieur, et quand je les ai rouverts, il était en bas des escaliers... allongé.
+$GEN_008_06x07_05_QTitle
+Plaides-tu coupable ?
+$GEN_008_06x07_05_00
+Plaides-tu coupable ?
+$GEN_008_06x07_05_01
+Je ne sais pas ce qu'on me reproche. Je ne comprends pas. Ces gens voulaient que je vienne, donc je suis venu... Je n'ai jamais voulu faire du mal à personne... personne.
+$GEN_008_06x07_05_02
+Tu es passible de la peine de mort pour meurtre. T'en rends-tu compte ?
+$GEN_008_06x07_05_03
+Je veux juste retourner avec les chevaux. Je ne sais pas ce qu'ils ont mangé aujourd'hui. Si les chevaux ne mangent pas pendant un certain temps... Le maître n'est pas content lorsque les chevaux ne sont pas nourris.
+$GEN_008_06x07_05_04
+Es-tu plus préoccupé pour les chevaux que pour ton maître ?
+$GEN_008_06x07_05_05
+Le maître est mort, qu'est-ce que je peux faire d'autre ? Les chevaux eux sont encore vivants. Vivants.
+$GEN_008_WIT_00_A_QTitle
+Dis-nous ce qu'il s'est passé entre le citoyen Hugo et le maître de maison lors de cette tragique journée.
+$GEN_008_WIT_00_A_00
+Dis-nous ce qu'il s'est passé entre le citoyen Hugo et le maître de maison lors de cette tragique journée.
+$GEN_008_WIT_00_A_01
+Le citoyen de Jacquemard était furieux après Bruno car il n'avait pas serré la selle. Un accident aurait pu se produire.
+$GEN_008_WIT_00_A_02
+Comment ton employeur a-t-il réagi ?
+$GEN_008_WIT_00_A_03
+Il a commencé à crier sur Bruno, à le secouer dans tous les sens. Bruno a repoussé le citoyen de Jacquemard, provoquant sa chute dans les escaliers où ils se tenaient tous les deux.
+$GEN_008_WIT_00_A_04
+Horrible bourgeois...
+$GEN_008_WIT_00_B_QTitle
+Que penses-tu du palefrenier ?
+$GEN_008_WIT_00_B_00
+Que penses-tu du palefrenier ?
+$GEN_008_WIT_00_B_01
+Il travaille dur, bien qu'il soit quelque peu... limité. Je ne peux rien dire de plus. Personne ne pensait qu'il pourrait être dangereux.
+$GEN_008_WIT_00_B_02
+Limité ? Mais il était conscient de ce qu'il se passait autour de lui ?
+$GEN_008_WIT_00_B_03
+Oui... c'est juste qu'il met du temps à comprendre.
+$GEN_008_WIT_00_B_04
+Es-tu convaincu de sa culpabilité ?
+$GEN_008_WIT_00_B_05
+Oui, j'ai tout vu, il a provoqué la mort du maître.
+$GEN_008_KEY_01
+Palefrenier
+$GEN_008_KEY_02
+Idiot du village
+$GEN_008_KEY_03
+Retour d'une balade
+$GEN_008_KEY_04
+Selle mal fixée
+$GEN_008_KEY_05
+Cris et dispute
+$GEN_008_KEY_06
+Pousser un aristocrate
+$GEN_008_KEY_07
+Cou tordu
+$GEN_008_LastDialog_00
+Je n'ai jamais rien voulu de tout cela. On peut aller nettoyer les chevaux après ?
+$GEN_008_UNIQUE_QUESTION_00
+Pour quelle raison le prévenu s'est-il disputé avec la victime ?
+$GEN_008_UNIQUE_ANSWER_CORRECT_00_00
+Une selle mal fixée.
+$GEN_008_UNIQUE_ANSWER_NOT_CORRECT_00_00
+De l'argenterie nettoyée négligemment.
+$GEN_008_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Une agression contre le cheval.
+$GEN_008_UNIQUE_QUESTION_01
+Le prévenu comprend-il l'inculpation ?
+$GEN_008_UNIQUE_ANSWER_CORRECT_01_00
+Non.
+$GEN_008_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Oui.

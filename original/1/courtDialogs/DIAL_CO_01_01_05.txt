@@ -1,0 +1,10 @@
+$DIAL_CO_01_01_05_001_PROSECUTOR
+Welcome, Citizen Fidéle. My name is Antoine Quentin Fouquier de Tinville, I am the public prosecutor that has been assigned to assist at every Tribunal trial, starting from today.
+$DIAL_CO_01_01_05_002_PROSECUTOR
+I should warn you that I am uncompromising, although I hope that we quickly find common ground. In happier news, the construction of the guillotine has been finished. We may begin using it today.
+$DIAL_CO_01_01_05_003_MENTOR
+Yes we have seen it…
+$LETTER_CO_01_01_05_001
+The King is gone! Treason! Anyone with information about his whereabouts should immediately disclose it to the authorities!
+$LETTER_CO_01_01_05_002
+Robespierre

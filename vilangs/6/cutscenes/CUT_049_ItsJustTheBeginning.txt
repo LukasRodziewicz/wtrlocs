@@ -1,0 +1,30 @@
+$CUT_049_001
+Ese agente al que me pediste que silenciara ayer... Ya lo hice, pero hay algo que deberías ver.
+$CUT_049_002_JUDGE
+¿Quieres mostrarme un simple cadáver?
+$CUT_049_003_GUARDSMAN
+No es solo un cadáver. Mira ese collar.
+$CUT_049_004_JUDGE
+Una flor de lis.
+$CUT_049_005_GUARDSMAN
+Hay más oculto bajo su ropa.
+$CUT_049_006_GUARDSMAN
+Encontramos un mensaje en el bolsillo interior de su capa.
+$CUT_049_007_GUARDSMAN
+Es una orden. Alguien le indicó a ese hombre que reuniera apoyo en el distrito para un misterioso “R”.
+$CUT_049_008_JUDGE
+¿Quién se atreve a ocupar el lugar de Luis?
+$CUT_049_009_GUARDSMAN
+Solo los aristócratas tienen el poder suficiente para organizar en secreto a personas como él.
+$CUT_049_010_JUDGE
+Incluso ellos necesitarían la ayuda de alguien en la Convención. Entonces, ¿quién es “R”?
+$CUT_049_011_GUARDSMAN
+¿Robespierre, tal vez? Si está aliándose con los aristócratas, debemos contárselo… a alguien, ¡a todos!
+$CUT_049_012_JUDGE
+También podría ser el ministro Roland. Mientras no estemos seguros, solo provocaríamos pánico.
+$CUT_049_013_GUARDSMAN
+En ese caso, tendremos que dar caza a otros agentes. Este ya no nos dirá nada.
+$CUT_049_014_JUDGE
+No tenemos otra opción.
+$CUT_049_015_JUDGE
+Si esa “R” busca ganarse el apoyo, tú debes hacer lo mismo. Por el bien común…

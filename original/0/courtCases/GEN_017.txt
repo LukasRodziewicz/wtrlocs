@@ -1,0 +1,280 @@
+$GEN_017_DOC_01_HEADER
+Sporządził: Olivier Carrasco
+$GEN_017_DOC_01_00
+    Na ławie oskarżonych stawiamy wdowę po skazanym obywatelu Ludwiku Capecie. Maria Antonina, 38-letnia Austriaczka, przybyła do Francji w wieku 14 lat jedynie w celu politycznego ślubu z 16-letnim wówczas Ludwikiem. Ich związek miał zacieśnić sojusz między Austrią i Francją.
+$GEN_017_DOC_01_01
+    Zarówno Marii Antoninie, jak i jej ściętemu mężowi nie starczało ani doświadczenia, ani mądrości, by rządzić państwem. Efektem działań nieudolnych władców było wpędzenie Francji w długi, a ludności w głód i ubóstwo. Była królowa oraz jej mąż nie byli w stanie powściągnąć swojego <a name="1" class="hidden">rozpasanego stylu życia</a>, nawet gdy ceny chleba stały się nieznośne dla zwykłych obywateli.   
+$GEN_017_DOC_01_02
+    Maria Antonina oraz Ludwik Capet próbowali <a name="2" class="hidden">uciec</a> z pałacu Tuileries, gdzie królewska rodzina została osadzona przez rewolucjonistów. Monarchowie chcieli wrócić do Francji z wojskami sąsiednich mocarstw, ale zostali złapani, zanim przekroczyli granice.  
+$GEN_017_DOC_01_03
+    Podczas powrotu Ludwika i Marię Antoninę przed linczem uchronił <a name="3" class="hidden">Antoine Barnave</a>. Znany mówca wstawił się za rodziną królewską, co sprowadziło na niego poważne podejrzenia. Powszechnie uznaje się, że Maria Antonina omotała go i wykorzystała do własnych politycznych celów.
+$GEN_017_DOC_01_04
+    Marię Antoninę oskarża się o wieloletnie działanie na szkodę Francji, doprowadzenie do ogromnego deficytu w budżecie, spiskowanie przeciwko rewolucji i próbę <a name="5" class="hidden">odbudowy monarchii</a>.
+$GEN_017_DOC_01_05
+    Francuskie niepowodzenia w walce z Austrią można również tłumaczyć jej zdradą. Choć brakuje dowodów, możemy sądzić, że przekazała ona swojej ojczyźnie <a name="6" class="hidden">francuskie tajemnice wojskowe</a>. 
+$GEN_017_DOC_01_06
+    Obywatelce zarzuca się takżeż <a name="7" class="hidden">rozwiązłość</a>, a co najgorsze, wysnuto podejrzenie, iż molestowała ona swojego 8-letniego syna, <a name="8" class="hidden">Karola Ludwika</a>.
+$GEN_017_OnStart_00
+Teraz dostaniesz za swoje!
+$GEN_017_OnStart_01
+To nie jest sprawa jak każda inna. Od tego wyroku może zależeć twoja przyszłość.
+$GEN_017_OnStart_02
+Proszę się przedstawić.
+$GEN_017_OnStart_03
+Tak?
+$GEN_017_OnStart_04
+To pytanie może zostać uznane za obrazę sądu.
+$GEN_017_OnStart_05
+Maria Antonia Josefa Johanna von Österreich, czyli inaczej Maria Antonina Austriaczka, a najprościej Maria Antonina, ale wolałabym, by zwracano się do mnie per „królowo”.
+$GEN_017_OnStart_06
+Będę się zwracał per „oskarżona”.
+$GEN_017_OnStart_07
+Lepiej: „Ty austriacka ladacznico!”
+$GEN_017_OnGuilty_00
+Skazuję oskarżoną Marię Antoninę Austriaczkę na karę śmierci poprzez ścięcie na gilotynie.
+$GEN_017_OnGuilty_01
+Wczorajszemu ustrojowi dawno trzeba było ukręcić łeb.
+$GEN_017_OnGuilty_02
+Tak jest!
+$GEN_017_OnGuilty_03
+Inaczej nie mogło być!
+$GEN_017_OnPrison_00
+Skazuję Marię Antoninę Austriaczkę na karę więzienia. Wyprowadzić.
+$GEN_017_OnPrison_01
+To zdecydowanie zbyt łagodny wyrok.
+$GEN_017_OnPrison_02
+Miałaś szczęście!
+$GEN_017_OnPrison_03
+Sędzia okazał skruchę?!
+$GEN_017_OnPrison_04
+A niech zdycha w więzieniu!
+$GEN_017_OnNotGuilty_00
+Uznaję oskarżoną za niewinną zarzucanych czynów. Proszę wyprowadzić.
+$GEN_017_OnNotGuilty_01
+Gdzie ty masz oczy, człowieku?
+$GEN_017_OnNotGuilty_02
+On chyba oszalał.
+$GEN_017_OnNotGuilty_03
+Wypuszczenie jej na wolność to i tak wyrok śmierci!
+$GEN_017_01x04_00_QTitle
+Dlaczego oskarżona prowadziła wystawny styl życia...
+$GEN_017_01x04_00_00
+Dlaczego oskarżona prowadziła wystawny styl życia pomimo deficytu w państwowych finansach?
+$GEN_017_01x04_00_01
+Proszę spojrzeć na wydatki poprzedniej królowej i jeszcze wcześniejszej, po czym porównać je z moimi, a okaże się, że wydawałam dużo mniej niż one.
+$GEN_017_01x04_00_02
+Weźmy też pod uwagę ówczesną sytuację mieszkańców oraz tę za rządów oskarżonej i jej męża.
+$GEN_017_01x04_00_03
+Niech sobie też wezmą pod rozwagę moje zgniłe kartofle.
+$GEN_017_01x04_00_04
+Poprzednie królowe jednak, o ile mnie pamięć nie myli, nie oddawały się nałogowo hazardowi.
+$GEN_017_01x04_00_05
+Nikt nie jest doskonały.
+$GEN_017_01x08_01_QTitle
+Oskarżona wiodła rozwiązły tryb życia, ojcostwo syna Ludwika XVI od dawna podawane było w wątpliwość.
+$GEN_017_01x08_01_00
+Oskarżona wiodła rozwiązły tryb życia, ojcostwo syna Ludwika XVI od dawna podawane było w wątpliwość. Czy pozwana odniesie się do tych zarzutów?
+$GEN_017_01x08_01_01
+Zawsze byłam wierna mężowi – reszta to plotki niegodne uwagi.
+$GEN_017_01x08_01_02
+Boicie się o nich rozmawiać?
+$GEN_017_01x08_01_03
+Pewnie mogłaby całą noc gadać.
+$GEN_017_01x08_01_04
+Nie ma o czym.
+$GEN_017_01x08_01_05
+Ludwik XVI ponoć również potwierdzał owe „plotki”.
+$GEN_017_01x08_01_06
+On już nie żyje, więc tę uwagę powinnam uznać za mało... elegancką. Ale i tak odpowiem. Mąż mi ufał. A ja jemu. To wszystko.
+$GEN_017_01x08_01_07
+Król był głupcem, wszyscy to wiedzą.
+$GEN_017_02x05_02_QTitle
+Jak wyobrażała sobie oskarżona swoje losy po udanej ucieczce z kraju?
+$GEN_017_02x05_02_00
+Jak wyobrażała sobie oskarżona swoje losy po udanej ucieczce z kraju?
+$GEN_017_02x05_02_01
+Jedynym planem było spróbować przeżyć. Czuliśmy, że nie czeka nas w tym kraju nic dobrego, i się nie pomyliliśmy.
+$GEN_017_02x05_02_02
+Czyli rozumieliście, że lud chce zemsty za swoje krzywdy.
+$GEN_017_02x05_02_03
+Wielu najchętniej zobaczyłoby mnie martwą.
+$GEN_017_02x05_02_04
+A pewnie!
+$GEN_017_02x05_02_05
+I zaraz zobaczymy!
+$GEN_017_02x05_02_06
+Gdyby nie wasza ucieczka, nie spotkalibyśmy się tutaj, a lud nie straciłby resztek zaufania do was. Wszyscy uwierzyli, że to była część spisku.
+$GEN_017_02x05_02_07
+Proszę przedstawić choćby jeden dowód na nasz spisek.
+$GEN_017_02x05_02_08
+Nam nie trzeba dowodów!
+$GEN_017_02x03_03_QTitle
+Kim był dla pani Antoine Barnave?
+$GEN_017_02x03_03_00
+Kim był dla pani Antoine Barnave?
+$GEN_017_02x03_03_01
+Przyjacielem. Pomagał, jako jeden z niewielu traktował z godnością, gdy wszyscy się od nas odwrócili.
+$GEN_017_02x03_03_02
+Taa, pewnie ona też go w pościeli traktowała z godnością.
+$GEN_017_02x03_03_03
+Wie oskarżona, że prosząc obywatela Barnave’a o pomoc, wciągnęła go w poważne problemy?
+$GEN_017_02x03_03_04
+Nic mu nie obiecywałam, o nic nie prosiłam. Byliśmy po prostu podobni do siebie i chyba za to się lubiliśmy.
+$GEN_017_02x03_03_05
+Łączyły was relacje intymne?
+$GEN_017_02x03_03_06
+Austriacka dziwka!
+$GEN_017_02x03_03_07
+Skądże znowu.
+$GEN_017_02x03_03_08
+Dlaczego więc ten człowiek ryzykował, korespondując z wami?
+$GEN_017_02x03_03_09
+Mam nadzieję, że zostanie uczciwie osądzony i uniewinniony.
+$GEN_017_02x03_03_10
+Trafi pod ostrze!
+$GEN_017_07x08_04_QTitle
+Uważa się obywatelka za wzorową matkę?
+$GEN_017_07x08_04_00
+Uważa się obywatelka za wzorową matkę?
+$GEN_017_07x08_04_01
+Nie umiem odpowiedzieć, nie chcę… Raczej powinno się o to zapytać mojego syna.
+$GEN_017_07x08_04_02
+Najpierw chciałbym spytać, jak oskarżona odniesie się do oskarżenia o molestowanie Ludwika Karola.
+$GEN_017_07x08_04_03
+Sama natura odmawia odpowiedzi na takie oskarżenie wysunięte przeciwko matce.
+$GEN_017_07x08_04_04
+Proszę wprowadzić świadka, syna oskarżonej – Ludwika Karola.
+$GEN_017_07x08_04_06
+Przedstaw się nam.
+$GEN_017_07x08_04_07
+Nazywam się Karol Ludwik.
+$GEN_017_07x08_04_08
+Czy wiesz, dlaczego tutaj jesteś?
+$GEN_017_07x08_04_09
+Nie, dlaczego?
+$GEN_017_03x08_05_QTitle
+Jak wyglądała relacja Antoine’a Barnave’a z synem oskarżonej Karolem Ludwikiem?
+$GEN_017_03x08_05_00
+Jak wyglądała relacja Antoine’a Barnave’a z synem oskarżonej Karolem Ludwikiem?
+$GEN_017_03x08_05_01
+To był przyjaciel całej naszej rodziny. Karol, wydaje mi się, bardzo go lubił i trochę nawet podziwiał. 
+$GEN_017_03x08_05_02
+A wy jak się do niego odnosiliście?
+$GEN_017_03x08_05_03
+Jak do przyjaciela, czy to dziwne?
+$GEN_017_03x08_05_04
+Nas to nie dziwi.
+$GEN_017_02x08_06_QTitle
+Jak mały Karol Ludwik zniósł trudy waszej ucieczki?
+$GEN_017_02x08_06_00
+Jak mały Karol Ludwik zniósł trudy waszej ucieczki?
+$GEN_017_02x08_06_01
+Nie najlepiej. Niestety męczy go gruźlica, więc całe to zamieszanie tylko mu zaszkodziło. 
+$GEN_017_02x08_06_02
+Nie myśleliście o jego zdrowiu, podejmując decyzję o ucieczce?
+$GEN_017_02x08_06_03
+Właśnie o nim myślałam. Mógłby dziś leczyć się u wód, a znów musi tkwić w dusznym Paryżu…
+$GEN_017_02x08_06_04
+Nasze dzieci przez całe życie z wód to tylko Sekwanę zobaczą.
+$GEN_017_03x05_07_QTitle
+Trzeba przyznać, że dobrze dobraliście się z Antoine’em Barnave’em.
+$GEN_017_03x05_07_00
+Trzeba przyznać, że dobrze dobraliście się z Antoinem Barnave. Czy oskarżona podejrzewała, że pomagał on waszej rodzinie dla własnych celów?
+$GEN_017_03x05_07_01
+Niczego takiego nie podejrzewam, to dobry człowiek, który chciał nam pomóc, a jakie ma poglądy – nie mnie osądzać. 
+$GEN_017_03x05_07_02
+Ważne, że nienawidził Francji, tak jak wy.
+$GEN_017_03x05_07_03
+To jakaś bzdura, ja…
+$GEN_017_03x05_07_04
+My żarliśmy korzonki, a wy mięcho.
+$GEN_017_06x02_08_QTitle
+Zdradziła oskarżona Austriakom francuskie tajemnice wojskowe?
+$GEN_017_06x02_08_00
+Zdradziła oskarżona Austriakom francuskie tajemnice wojskowe?
+$GEN_017_06x02_08_01
+Jakież ja mogłam znać tajemnice?
+$GEN_017_06x02_08_02
+Choćby o liczebności i uzbrojeniu wojsk.
+$GEN_017_06x02_08_03
+Toć ja nie odróżniam moździerza od muszkietu… Cóż za dziwne oskarżenie.
+$GEN_017_06x02_08_04
+Nie musicie odróżniać, żeby notować i przekazywać.
+$GEN_017_06x02_08_05
+Byłam królową, nie szpiegiem.
+$GEN_017_06x02_08_06
+Wypiera się łajdaczka!
+$GEN_017_WIT_00_A_QTitle
+Powiedz nam, czy twoja mama robiła coś, co sprawiało, że czułeś się źle?
+$GEN_017_WIT_00_A_00
+Powiedz nam, czy twoja mama robiła coś, co sprawiało, że czułeś się źle?
+$GEN_017_WIT_00_A_01
+Ale co?
+$GEN_017_WIT_00_A_02
+Na przykład coś, przez co czułeś wstyd?
+$GEN_017_WIT_00_A_03
+Hmm, mama lubiła mnie przytulać, przy wszystkich, i wtedy się wstydziłem.
+$GEN_017_WIT_00_A_04
+Często cię przytulała?
+$GEN_017_WIT_00_A_05
+Tak, bardzo często, czasami nawet przytulała mnie w nocy, w mojej komnacie.
+$GEN_017_WIT_00_A_06
+Wtedy też się wstydziłeś?
+$GEN_017_WIT_00_A_07
+Nie, wtedy nie, bo nikt nie widział.
+
+
+$GEN_017_WIT_01_A_QTitle
+Czy mama wspominała przy tobie o ucieczce do Austrii, obaleniu Republiki?
+$GEN_017_WIT_01_A_00
+Czy mama wspominała przy tobie o ucieczce do Austrii, obaleniu Republiki?
+$GEN_017_WIT_01_A_01
+Nie, mama i tata nigdy o tym nie wspominali.
+$GEN_017_WIT_01_A_02
+A czy pan Barnave często u was bywał?
+$GEN_017_WIT_01_A_03
+Tak! Bardzo lubię pana Barnave’a. Zawsze jest dla mnie miły, przynosi mi zabawki. Ostatnio dostałem od niego takiego drewnianego gwardzistę…
+$GEN_017_WIT_01_A_04
+Czy robił z twoją matką rzeczy, które wydały ci się dziwne?
+$GEN_017_WIT_01_A_05
+Mama kazała go szanować jak ojca. Tak mi kiedyś powiedziała.
+
+
+$GEN_017_KEY_01
+Rozpasany styl życia
+$GEN_017_KEY_02
+Ucieczka króla i królowej
+$GEN_017_KEY_03
+Antoine Barnave
+$GEN_017_KEY_04
+Deficyt budżetowy
+$GEN_017_KEY_05
+Odbudowa monarchii
+$GEN_017_KEY_06
+Tajemnice wojskowe
+$GEN_017_KEY_07
+Rozwiązłość królowej
+$GEN_017_KEY_08
+Młodociany książę Ludwik
+
+
+$GEN_017_LastDialog_00
+Nadepnęłam pana? To niechcący.
+
+$GEN_017_UNIQUE_QUESTION_01
+Na co oskarżona trwoniła pieniądze?
+$GEN_017_UNIQUE_ANSWER_CORRECT_01_00
+Hazard.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Pijaństwo.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Kochanków.
+
+$GEN_017_UNIQUE_QUESTION_02
+Kim dla podsądnej był obywatel Barnave?
+$GEN_017_UNIQUE_ANSWER_CORRECT_02_00
+Przyjacielem.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Kuzynem.
+$GEN_017_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Faworytem.

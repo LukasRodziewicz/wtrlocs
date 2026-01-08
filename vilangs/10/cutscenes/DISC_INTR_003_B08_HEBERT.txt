@@ -1,0 +1,48 @@
+$DISC_INTR_003_B08_HEBERT_001_JUDGE_AGGR
+Artık sokaklardaki durumu kontrol edemiyoruz. Kaos herkesi hedef alabilir ve kalabalığı yatıştırmak kolay değil.
+$DISC_INTR_003_B08_HEBERT_002_JUDGE_MANI
+Durum artık bizim kontrolümüzde değil. Dün, isyancılar için casusluk yaptığı şüphesiyle bir kız dövüldü. Sıradaki hedeflerinin kim olacağını kim bilebilir – siz, ben…
+$DISC_INTR_003_B08_HEBERT_003_JUDGE_JOKE
+İnsanlar rastgele hedeflere çürük domates fırlatırken durum kabul edilebilirdi. Ama şimdi ellerinde tahta sopalar var. Bilmiyorum siz ne düşünürsünüz, ama ben korkmaya başladım.
+$DISC_INTR_003_B08_HEBERT_004_JUDGE_HUMI
+Halka hizmet edeceğime ve özgürlüğü savunacağıma söz verdiğimi biliyorum, ama yurttaşlarımız işi fazlasıyla abarttı.
+$DISC_INTR_003_B08_HEBERT_005_HEBERT_SATI
+Bu klikle birinin sonunda hesaplaşmasının vakti geldi. Devrim onlara fazlasıyla hoşgörülü davrandı.
+$DISC_INTR_003_B08_HEBERT_006_HEBERT_INTR
+Sonunda biri o obur aylakları sorgulamaya karar verdi. Bu, o kralcı hurafelerden kurtulmamız için bir fırsat olabilir.
+$DISC_INTR_003_B08_HEBERT_007_HEBERT_DOUB
+Neredeyse sokaklardaki durum için gerçekten endişelendiğine inanacaktım…
+$DISC_INTR_003_B08_HEBERT_008_JUDGE_AGGR
+Her şeyi mahvetti Gobel! Böyle bir sırrı olan biri, bunun asla ortaya çıkmaması için elinden geleni yapmalıydı, ama o ise çocuk gibi davrandı!
+$DISC_INTR_003_B08_HEBERT_009_JUDGE_MANI
+Eğer söylentiler doğruysa, Gobel’in orada olması durumu daha da kötüleştirecek. İnsanların yetkililerin yozlaşmış olduğunu düşünmesini ister miyiz? Söz konusu olan sadece benim itibarım değil, sizin ve Konvansiyon’daki dostlarınızın itibarı da tehlikede.
+$DISC_INTR_003_B08_HEBERT_010_JUDGE_JOKE
+Gobel en talihsiz anda başını belaya soktu. Belki de Papa sonunda intikamını aldı? Tanrı dualarını işitti ve başpiskoposu anayasal olarak atanmanın cezasını vermeye karar verdi…
+$DISC_INTR_003_B08_HEBERT_011_JUDGE_HUMI
+Gıyabında hüküm vermek istemem, fakat halkın öfkesi bazı eski sırları açığa çıkarmış gibi görünüyor – mesela Başpiskopos Gobel’in sırrı. Belki de bu konuda bir şeyler yapmalıyız?
+$DISC_INTR_003_B08_HEBERT_012_HEBERT_SATI
+Bu gerici rahibin düşüşünü izlemekten daha çok hoşuma gidecek bir şey yok. Belki de Papa kurumunu tamamen yok etmek daha da tatlı olurdu.
+$DISC_INTR_003_B08_HEBERT_013_HEBERT_INTR
+Bir insanın en derin arzularına nasıl hitap edeceğinizi biliyorsunuz. Gobel’in yaşayanlar dünyasından ayrılıp aklın egemenliğine yer açması beni memnun etmeyecekmiş gibi davranmanın anlamı yok… Size nasıl yardımcı olabilirim?
+$DISC_INTR_003_B08_HEBERT_014_HEBERT_DOUB
+Paris Komünü o şişkin domuzdan kurtulmayı çok önceden istemişti, ama kimsenin umurunda değildi. Şimdi ise, insanlar onun düşüşünden çıkar sağlayabileceklerini fark edince, herkes onun kellesini istiyor.
+$DISC_INTR_003_B08_HEBERT_015_JUDGE_AGGR
+Bir grubun davranışlarının bedelini ödeyemeyiz. Kilise, yalanları ve çürümüşlüğüyle halkın öfkesini fazlasıyla hak etti. Onunla hesaplaşalım ve sonunda huzur içinde yaşayalım.
+$DISC_INTR_003_B08_HEBERT_016_JUDGE_MANI
+Öfkeli kaplana parçalayacak bir av vermek gerek, o zaman başka hiçbir şeye aldırmaz ve biz de huzur içinde yaşarız. Madem kaplan dişlerini ruhban sınıfına geçirmek istiyor...
+$DISC_INTR_003_B08_HEBERT_017_JUDGE_JOKE
+Gerçekten başka bir seçeneğimiz yok. Din adamlarını istiyorlar, o halde onlara verelim. Din adamlarını ihanetten suçluyorlarsa, biz de onların sözlerini yineleyelim. Basit ve etkili.
+$DISC_INTR_003_B08_HEBERT_018_JUDGE_HUMI
+Kiliseye zarar vermekten yana değilim. Zaten kendi kendine zarar veriyor; yurttaşlarımızın lanetlediği yozların elleriyle. O grupla tüm bağlarımızı koparmalıyız. Toplumun iyiliği için.
+$DISC_INTR_003_B08_HEBERT_019_HEBERT_SATI
+Akıl, hurafeye galip gelecektir. Desteğim sizinle, Mösyö Yargıç.
+$DISC_INTR_003_B08_HEBERT_020_HEBERT_INTR
+Tüm bunların nasıl sonuçlanacağını gerçekten merak ediyorum, fakat şüphelerim ne olursa olsun, yardımımın sizinle olacağından emin olabilirsiniz.
+$DISC_INTR_003_B08_HEBERT_021_HEBERT_DOUB
+Niyetlerinizin belirsizliği yüzünden, Paris Komünü ve Akıl İdaresi burada kazandığından fazlasını kaybedebilir. Üzgünüm.
+$DISC_INTR_003_B08_HEBERT_TOPIC_01
+Sokaktaki durumu kontrol etmek giderek zorlaşıyor.
+$DISC_INTR_003_B08_HEBERT_TOPIC_02
+Gobel’le yaşanan sıkıntılar yaraya tuz basmak oldu.
+$DISC_INTR_003_B08_HEBERT_TOPIC_03
+Birine ibret olsun diye ceza verilmeli.

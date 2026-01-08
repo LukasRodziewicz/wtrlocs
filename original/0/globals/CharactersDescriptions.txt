@@ -1,0 +1,72 @@
+#MathildeFidele_JOB
+Żona
+#MathildeFidele_DESC_1
+Urodzona w Paryżu, nigdy nie wyjeżdżała poza miasto. Kobieta, która dla wielu wyda się żoną idealną - opiekuje się domem i dziećmi, dogląda starego ojca swojego męża. Nie okazuje tego, ale jest gotowa do bronienia swoich dzieci za wszelką cenę. Może nawet bardziej zależy jej na nich, niż na Tobie.
+#MathildeFidele_DESC_2
+Po śmierci Frédérica Twoja żona stała się cichsza, a jednak jej oczy błyszczą ogniem. Wydaje się, że kiedy kobieta przekracza granicę dzielącą spokojną panią domu od zdolnej do wszystkiego furiatki, staje się najbardziej niebezpiecznym wrogiem...
+#FredericFidele_JOB
+Młodszy syn
+#FredericFidele_DESC
+Niewinny i naiwny, zupełnie normalny jak na swój wiek. Jest zapatrzony w Ciebie, chce być taki, jak Ty. Nawet jeśli zdarza mu się nie słuchać poleceń matki, to nakazy ojca wykonuje zawsze bez dyskusji. Jego ulubioną zabawką jest drewniany mieczyk, który zawsze nosi przy boku. Wyobraża sobie, że tak jak ojciec, walczy on z niegodziwcami. Lubi rzeźbić figurki z drewna.
+#BernardFidele_JOB
+Starszy syn
+#BernardFidele_DESC
+Smukły i przystojny młodzieniec. Powoli dociera do niego waga wydarzeń, które mają miejsce we Francji, zapala się do czynu rewolucyjnego. Uważa, że sędziowie rewolucyjni powinni się wywodzić z niższych warstw ludu, gdyż są “czyści”, tylko oni są w stanie działać dla dobra pobratymców, a nie tylko swojego własnego. Jego naiwność jest innego typu, niż małego Frédérica - jest gotowa przerodzić się w czyny o dorosłym ciężarze. Jego gotowość do działania może być idealną pożywką dla ludzi umiejących manipulować młodymi i słabymi umysłami. Jest początkującym, ale utalentowanym skrzypkiem.
+#AldricFidele_JOB
+Ojciec
+#AldricFidele_DESC
+Niegdyś średnio zamożny kupiec, dzisiaj starzec, któremu zostało już tylko wyobrażanie sobie niewykonalnej zemsty na rodzinie Renard, która pozbawiła go marzeń. Przez kilka lat nie był w stanie zapewnić rodzinie poziomu życia, do którego była przyzwyczajona. Rozpoczęcie pracy w sądzie przez Ciebie umożliwiło rodzinie życie na względnie akceptowalnym poziomie. Pozwoliła również na snucie kolejnych marzeń - o powrocie do handlu. Aldric jednak starzał się i wizja powrotu do czynnego handlowania oddalała się wraz z tym procesem. Zamiast prestiżu i bogactwa familii Fidèle, musiał obserwować wzrost potęgi rodziny Renard...
+#BrunoFidele_JOB
+Brat
+#BrunoFidele_DESC_1
+Twój starszy brat. Nieobecny, a jednak wspomnienie o nim nieprzerwanie rozsadza ściany domu. Pierworodny syn, który był ulubieńcem Twego ojca. To on miał przejąć rodzinny interes i budować siłę rodziny Fidèle. Jego zbrodnia zmieniła wszystko, okryła całą familię cieniem wstydu. Kilka lat po tym, jak Twój ojciec wygnał go z domu otrzymaliście informację, że Bruno zginął na wojnie. Jego ciało zgniło z tysiącami innych, które wcześniej walczyły za wolność republiki.
+#BrunoFidele_DESC_2
+Przeżył. Twój brat nigdy nie umarł. Po wygnaniu faktycznie zaciągnął się do wojska, zdezerterował jednak podczas bitwy. Od tego czasu zaczął wprowadzać w życie plan zemsty na swojej rodzinie. Na Twoim ojcu. To Bruno był prawdziwym źródłem Twoich cierpień. Zaplanował całą drogę i motywował Cię do jej przebycia...
+#Mentor_JOB
+Mentor
+#Mentor_DESC
+Człowiek, który żyje wystarczająco długo żeby wiedzieć, że sprawiedliwość nie zawsze jest rozwiązaniem. W jego zawodzie, w tych czasach, liczy się jedynie instynkt przetrwania. Czasami stoi to w sprzeczności z dobrem innych ludzi. Człowiek, który nie wyciąga zbyt pochopnych wniosków, wie, że trzeba być na salonach równie często jak w dokach. Ślepą Temidę ma za świetną bajkę na dobranoc dla studentów prawa. Być może zauważa zbyt wiele odcieni szarości żeby dalej być sędzią?
+
+
+#Jacques-LouisDavid_JOB
+Dyplomata
+#Jacques-LouisDavid_DESC
+Malarz i polityk. Jako artysta często tworzy dzieła odnoszące się do wydarzeń rewolucji. Jako polityk skutecznie działa będąc deputowanym Konwentu. W jego życiu obie sfery przenikają się i nawzajem napędzają, jak choćby wtedy, gdy doprowadził do zamknięcia Akademii Francuskiej, do której przez wiele lat bezskutecznie próbował się dostać. Od wielu lat przyjaźni się z sędzią Fidèle.
+#RaphaelClovis_JOB
+Mięśniak
+#RaphaelClovis_DESC
+Przez swoją tuszę nielubiany przez regularnych żołnierzy. To dzięki głównie ich staraniom mężczyzna trafił do straży sądowej. Nie jest przesadnie rozgarnięty, ale służy wiernie i wykonuje polecenia bez większej dyskusji.
+#GregoryRamel_JOB
+Szpieg
+#GregoryRamel_DESC_1
+Jego pojawienie się w Twoim życiu trudno nazwać zupełnym przypadkiem, ale też jesteśmy zbyt dorośli by wierzyć w przeznaczenie, prawda? Nie masz żadnej wiedzy o jego przeszłości ani motywacjach. Dlaczego Ci pomaga? Akurat Tobie?
+#GregoryRamel_DESC_2
+Urodzony w Cahors, nieślubne dziecko Pierre’a Ramela, prokuratora i królewskiego notariusza. Jako bękart przygarnięty przez ojca zapewne w celu uniknięcia skandalu. Szczególnie zżył z młodszym bratem Jean-Pierrem, znienawidzony przez starszego - również Jean-Pierre’a. Po osiągnięciu wieku młodzieńczego został wysłany do Paryża, gdzie rezydował starszy brat. Na miejscu jednak nie został przyjęty przez przybranego brata i wylądował na ulicy, gdzie początkowo żebrał, by później zacząć żyć z handlu informacjami. Gdy jego młodszy brat, w wieku 15 zaciągnął się do armii, Grégory uczynił to samo. Na długo słuch o nim zaginął, aż nagle wypłynął w Londynie skąd musiał uciekać oskarżony o szpiegostwo...
+
+
+#MaximiliendeRobespierre_DESC
+Przez swoje bezkompromisowe oddanie sprawom rewolucji nabawił się przydomku “Nieprzekupny”. Lider radykalnych Jakobinów, zdecydowaną ręką i, jeśli trzeba, terrorem pilnuje porządku w Konwencie Narodowym. Zdecydowanie najpotężniejsza postać rewolucyjnego Paryża, której nikt do tej pory nie odważył się przeciwstawić…
+#ClementRenard_DESC
+Szara eminencja Paryża. Trzęsie handlem w mieście, trudno odnaleźć zyskowny biznes, w który nie byłby jakoś zaangażowany. Eliminuje każdego, kto mu się sprzeciwi - tak zrobił w sprawie straganu ojca Alexisa Fidèle. Po wybuchu rewolucji, jako przedstawiciel arystokracji skrył się w głębokim cieniu, nikt nie wie czym dokładnie się obecnie zajmuje poza cichym pomnażaniem majątku.
+#GeorgesDanton_DESC
+Jako adwokat zna prawo pewnie nie gorzej niż sami sędziowie Trybunału. Niektórzy tym tłumaczą sobie fakt, że do tej pory, po tylu zarzutach o szpiegostwo i korupcję, jeszcze nie stracił głowy na gilotynie. Kluczowym chyba jednak jest to, że potrafi porwać tłum swoimi przemowami, a ten potrafi mu przez to wybaczyć każdą o nim plotkę. W kuluarach huczy od historii jego rywalizacji z Robespierrem. Oficjalnie łączy ich jednak… szorstka męska przyjaźń.
+#Jean-PaulMarat_DESC
+Naczelne sumienie narodu. Twórca artykułów w “Przyjacielu ludu”, gazetce wydawanej przez siebie. Żyrondyści za nim nie przepadają, Jakobini traktują jako zło konieczne. Jeśli ktoś ma za uszami jakieś brudy, to Marat z pewnością je wyniucha. Bardzo chętnie wykorzystuje również donosy, a z racji, że jest deputowanym Konwentu, to często inni politycy z obu stron przychodzą do niego z tajemnicami przeciwników, które Marat chętnie publikuje.
+#Jean-BaptisteGobel_DESC
+Arcybiskup Paryża, kolejny z kameleonów francuskiej polityki. W obliczu rewolucji opowiedział się po stronie reformatorów, poprzysiągł wierność państwu odwracając się tym samym od papieża. Po Maximilianie de Robespierre najprawdopodobniej najpotężniejsza postać Paryża. Zazwyczaj w cieniu, z niego atakuje swoich przeciwników. Jego siatka szpiegów oplata cały Paryż i nic się przed nią nie ukryje.
+#Jacques-ReneHebert_DESC
+Polityk i redaktor. Przedstawia się jako przedstawiciel sankiulotów, jako głos ludu. Do ich serc trafia wydając „Le père Duchesne” - gazetę słynącą z wulgarnego języka i przekazu dostosowanego do społecznych nizin. Specjalizuje się w tropieniu niepokornych duchownych. Jak na trybuna ludu ubiera się zadziwiająco wystawnie.
+#GermainedeStael_DESC
+W Paryżu znana przede wszystkim z prowadzenia salonu politycznego. Jako kobieta wykluczona ze świata wielkiej polityki, próbuje na nią wpływać z kulis. Ambitna i tylko czekać jak wykorzysta sytuację by wynurzyć się z cienia mężczyzn. Jest odpowiednią osobą do załatwiania spraw, które wymagają atmosfery buduaru. Gruntownie wykształcona, od dziecka obeznawana ze specyfiką życia wyższych sfer.
+#Jean-NicolasPache_DESC
+Mer Paryża, zadeklarowany Żyrondysta. Do władzy doszedł powoli wspinając się po szczebelkach kariery, mocno wyginając przy tym swój moralny kręgosłup. Nie stroni od hazardu, angażuje się w każdy intratny pieniężnie interes, który mu się zaproponuje. Za odpowiedni procent zysków zostanie przyjacielem samego Diabła.
+#Jean-MarieRoland_DESC
+Minister spraw wewnętrznych. Dzięki przedsiębiorczej żonie, która z ukrycia steruje jego karierą, dorobił się stanowiska w rządzie i stał się prominentnym członkiem Żyrondy. Nie ukrywa swoich monarchistycznych sympatii, które żywi w przekonaniu, że jej istnienie zapewni balans między krwawą rewolucją, a tradycją łączącą pokolenia Francuzów.
+#GraceElliott_DESC
+Kurtyzana znana w każdym liczącym się kątku Paryża. Dama do towarzystwa urodzona na terenie Szkocji i żyjąca w Paryżu z łatką angielskiego szpiega. By przetrwać musiała opanować sztukę dyplomacji nie gorzej niż deputowani Konwentu Narodowego. Nie ma wątpliwości, że wykonywana profesja pomogła jej w nawiązywaniu kontaktów. W kuluarach mówi się, że jeśli jakiś arystokrata chce uciec z Paryża, to Grace Elliott jest osobą, do której powinno się udać w pierwszej kolejności.
+#FrancoisHanriot_DESC
+Ambitny, choć nieprzesadnie pracowity oficer. Do niewątpliwych jego darów należy wyczucie politycznej koniunktury - kto idzie w górę, a kto w dół. Do kogo przylgnąć i trzymać się jego holewek, a kogo odciąć i zapomnieć. Od czasu wybuchu rewolucji regularnie pnący się po szczeblach kariery, której zwieńczeniem ma być stanowisko Komendanta Gwardii.
+#MathieuBurel_DESC
+Starzejący się komendant Gwardii Narodowej. Widział już wystarczająco wiele żeby nie pokładać nadziei w prostych ludziach - nawet jeśli potrafią wzniecić rewolucję. 
+#Judge_DESC
+Sędzia Trybunału Rewolucyjnego. Powszechnie postrzegany jako pijak i hazardzista. Protegowany Raymonda Dévoyé, który wprowadził go w świat paragrafów i kodeksów prawa. Prywatnie nie odznaczył się niczym szczególnym.

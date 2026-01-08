@@ -1,0 +1,196 @@
+$GEN_008_DOC_01_HEADER
+Zusammengestellt von: André Modeste
+$GEN_008_DOC_01_00
+Bruno Hugo, 26 Jahre alt, ist Stallbursche im Dienst des wohlhabenden und einflussreichen Aristokraten Jean-Claude de Jacquemard. Während eines Streits soll er seinen Arbeitgeber die Treppe hinuntergestoßen haben, was zum Tod des Aristokraten führte. Für den Fall ist bedeutsam, dass Bruno Hugo aufgrund seiner Herkunft und seines geringen Verstandes in der Gemeinde als <a name="2" class="hidden">„Dorftrottel“</a> bekannt ist.
+$GEN_008_DOC_01_01
+Die Zeugen sagten aus, dass Jacquemard <a name="3" class="hidden">von einem Ausritt zurückkehrte</a> und mit der Vorbereitung seines Pferdes durch Bruno unzufrieden war. Offenbar war der Sattel so <a name="4" class="hidden">locker</a>, dass Bürger de Jacquemard beinahe vom Pferd gestürzt wäre.
+$GEN_008_DOC_01_02
+Das Opfer rief Bruno herbei, um ihn zu tadeln, und begann <a name="5" class="hidden">den Stallburschen zu beschimpfen und körperlich zu misshandeln</a>, woraufhin Bruno, einem Impuls folgend, seinen Arbeitgeber von sich stieß. Infolgedessen landete Bürger de Jacquemard am Fuß der Treppe <a name="7" class="hidden">mit verdrehtem Hals</a>. Der Vorfall ereignete sich vor den anderen Angestellten. Bruno Hugo floh voller Angst in den Stall, wo man ihn später fand – bleich vor Schrecken, während er einem der Pferde etwas zuflüsterte.
+$GEN_008_OnStart_00
+Dies ist ein einfacher Fall. Der Angeklagte ist des Mordes schuldig, und das einzige Problem ist, dass die Leute Mitleid mit ihm haben.
+$GEN_008_OnStart_01
+Wie ist Ihr Name?
+$GEN_008_OnStart_02
+Bruno Hugo... Ich bin Bruno Hugo.
+$GEN_008_OnStart_03
+Haben Sie für Bürger Jean-Claude de Jacquemard gearbeitet?
+$GEN_008_OnStart_04
+Ja, ich habe dort einige Jahre gearbeitet… sogar ziemlich viele.
+$GEN_008_OnStart_05
+Lasst ihn in Ruhe, er ist doch nur ein großes Kind.
+$GEN_008_OnStart_06
+Geben Sie den Mord zu? Ja oder nein?
+$GEN_008_OnStart_07
+Aber ich ...
+$GEN_008_OnStart_08
+Der Arme, er zittert am ganzen Körper.
+$GEN_008_OnGuilty_00
+Ich verurteile Bürger Hugo zur Guillotine.
+$GEN_008_OnGuilty_01
+Armer Narr…
+$GEN_008_OnGuilty_02
+Er weiß nicht einmal, was geschehen ist.
+$GEN_008_OnGuilty_03
+Nun, zumindest wird er niemanden mehr töten.
+$GEN_008_OnPrison_00
+Ich verurteile Bürger Bruno Hugo zu einer Haftstrafe für den Unfall, der zum Tod von Bürger Jean-Claude de Jacquemard führte.
+$GEN_008_OnPrison_01
+Für diesen Mann ist das Gefängnis wie der Tod!
+$GEN_008_OnPrison_02
+Du warst zu nachsichtig, er hat dich ausgetrickst.
+$GEN_008_OnNotGuilty_00
+Ich spreche Bruno Hugo von den genannten Verbrechen frei, da er sich seiner Taten nicht bewusst war.
+$GEN_008_OnNotGuilty_01
+Was spielt das für eine Rolle? Ein Verbrechen bleibt ein Verbrechen!
+$GEN_008_OnNotGuilty_02
+Mit Leuten wie diesem muss man vorsichtig sein – sein Auftraggeber hat das schon zu spüren bekommen.
+$GEN_008_01x02_00_QTitle
+Wissen Sie, wie die Einheimischen Sie nennen?
+$GEN_008_01x02_00_00
+Wissen Sie, wie die Einheimischen Sie nennen?
+$GEN_008_01x02_00_01
+Bruno weiß es nicht. Weiß es nicht.
+$GEN_008_01x02_00_02
+„Dorfdepp.“ Möchten Sie dazu Stellung nehmen?
+$GEN_008_01x02_00_03
+Bruno mag diesen Namen nicht… nein.
+$GEN_008_01x02_00_04
+Werden Sie oft so genannt?
+$GEN_008_01x02_00_05
+Das Gericht macht sich über ihn lustig!
+$GEN_008_01x02_00_06
+Mir gefällt es nicht, und damit basta. Ich habe schon einen Namen, den meine Mutter mir gegeben hat. Sie hat mir einen Namen gegeben.
+$GEN_008_01x02_00_07
+War dieses Spitzname der Grund, warum Sie Bürger de Jacquard die Treppe hinuntergestoßen haben?
+$GEN_008_01x02_00_08
+Der Herr hat geschrien, und ich mag es nicht, wenn er schreit. Ich mag das nicht.
+$GEN_008_01x04_01_QTitle
+Waren Sie als Stallbursche dafür zuständig, die Pferde für das Opfer vorzubereiten?
+$GEN_008_01x04_01_00
+Waren Sie als Stallbursche dafür zuständig, die Pferde für das Opfer vorzubereiten?
+$GEN_008_01x04_01_01
+Ja. Ich habe sie gestriegelt und gefüttert. Pferde fressen eine Menge Gras… Ich habe sie gestriegelt.
+$GEN_008_01x04_01_02
+War der Sattel locker?
+$GEN_008_01x04_01_03
+…
+$GEN_008_01x04_01_04
+Bürger?
+$GEN_008_01x04_01_05
+Nein, das kann nicht sein. Ich habe die Gurte angezogen. Man darf nicht zu fest ziehen, sonst drückt es und tut dem Bauch des Pferdes weh. Pferde sind gut, besser als Menschen, sie–
+$GEN_008_01x04_01_06
+Wollten Sie, dass Ihr Herr vom Pferd stürzt? Haben Sie den Sattelgurt absichtlich locker gelassen, um sich an Ihrem Arbeitgeber zu rächen?
+$GEN_008_01x04_01_07
+Niemals! Ich mochte unseren Herrn, hätte ihm nie etwas angetan. Ich mochte ihn.
+$GEN_008_01x04_01_08
+Man sieht, dass er ein gutmütiges Kind ist.
+$GEN_008_01x05_02_QTitle
+Wie hat Bürger de Jacquemard Sie behandelt?
+$GEN_008_01x05_02_00
+Wie hat Bürger de Jacquemard Sie behandelt?
+$GEN_008_01x05_02_01
+Er war gut zu mir… Manchmal hat er geschrien, aber er hat mich versorgt und war gut zu den Pferden. Gut.
+$GEN_008_01x05_02_02
+Wie oft hat er geschrien?
+$GEN_008_01x05_02_03
+Manchmal schrie er… Manchmal schwieg er.
+$GEN_008_01x05_02_04
+Adeliger Schurke!
+$GEN_008_01x05_02_05
+Ist das der Grund, warum Sie ihn töten wollten?
+$GEN_008_01x05_02_06
+…
+$GEN_008_01x05_02_07
+Erst quälte ihn der Adlige, und jetzt die Revolution.
+$GEN_008_03x05_03_QTitle
+Bitte rufen Sie Colin Boufue herein.
+$GEN_008_03x05_03_00
+Bitte rufen Sie Colin Boufue herein.
+$GEN_008_03x05_03_01
+Bitte stellen Sie sich vor und nennen Sie Ihre Aufgaben.
+$GEN_008_03x05_03_02
+Mein Name ist Colin Boufue, ich bin der Majordomus im Hause der Familie de Jacquemard. Ich habe mit eigenen Augen gesehen, was geschehen ist.
+$GEN_008_05x06_04_QTitle
+Ist Ihnen bewusst, dass Sie einen Menschen getötet haben? Verstehen Sie das?
+$GEN_008_05x06_04_00
+Ist Ihnen bewusst, dass Sie einen Menschen getötet haben? Verstehen Sie das?
+$GEN_008_05x06_04_01
+Ich weiß… Ich habe nur mit dem Arm ausgeschlagen, weil er mich so angeschrien hat. So laut.
+$GEN_008_05x06_04_02
+Waren Sie sich bewusst, dass Sie ihm damit schaden könnten?
+$GEN_008_05x06_04_03
+Das dachte ich mir. Wirklich nicht.
+$GEN_008_05x06_04_04
+Haben Sie so fest zugeschlagen, dass er zu Boden ging?
+$GEN_008_05x06_04_05
+Ich hatte solche Angst, ich kann mich nicht erinnern. Ich habe die Augen zusammengekniffen, Herr, und als ich sie wieder öffnete, lag er da... Unten.
+$GEN_008_06x07_05_QTitle
+Bekennen Sie sich schuldig?
+$GEN_008_06x07_05_00
+Bekennen Sie sich schuldig?
+$GEN_008_06x07_05_01
+Ich weiß nicht, was ich falsch gemacht habe. Ich verstehe es nicht. Diese Leute wollten, dass ich herkomme, also bin ich gekommen… Ich wollte niemandem etwas Böses… Niemandem.
+$GEN_008_06x07_05_02
+Ihnen droht die Todesstrafe wegen Mordes. Ist Ihnen das bewusst?
+$GEN_008_06x07_05_03
+Ich möchte einfach nur zurück zu den Pferden. Ich weiß nicht, ob sie heute gefressen haben. Wenn ein Pferd lange nichts frisst... Der Herr ist nicht zufrieden, wenn die Pferde nicht versorgt werden.
+$GEN_008_06x07_05_04
+Sorgen Sie sich mehr um die Pferde als um Ihren Herrn?
+$GEN_008_06x07_05_05
+Der Herr ist tot, was soll ich jetzt tun? Aber die Pferde leben noch. Sie leben.
+$GEN_008_WIT_00_A_QTitle
+Bitte schildern Sie uns, was sich an jenem unglückseligen Tag zwischen Bürger Hugo und dem Hausherrn zugetragen hat.
+$GEN_008_WIT_00_A_00
+Bitte schildern Sie uns, was sich an jenem unglücklichen Tag zwischen Bürger Hugo und dem Hausherrn ereignet hat.
+$GEN_008_WIT_00_A_01
+Bürger de Jacquemard war wütend auf Bruno, weil er den Sattel nicht festgezogen hatte. Das hätte zu einem Unfall führen können.
+$GEN_008_WIT_00_A_02
+Wie hat Ihr Arbeitgeber darauf reagiert?
+$GEN_008_WIT_00_A_03
+Er begann, Bruno anzuschreien, packte und rüttelte ihn. Daraufhin stieß Bruno Bürger de Jacquemard von sich, sodass dieser die Treppe hinunterstürzte, auf der sie beide standen.
+$GEN_008_WIT_00_A_04
+Verdammtes Bürgertum…
+$GEN_008_WIT_00_B_QTitle
+Was halten Sie vom Bräutigam?
+$GEN_008_WIT_00_B_00
+Was halten Sie vom Bräutigam?
+$GEN_008_WIT_00_B_01
+Er ist ein guter Arbeiter, auch wenn er gewisse… Einschränkungen hat. Ich wüsste sonst nichts weiter über ihn zu sagen. Niemand hätte gedacht, dass er gefährlich sein könnte.
+$GEN_008_WIT_00_B_02
+Einschränkungen? Aber er wusste, was um ihn herum geschah?
+$GEN_008_WIT_00_B_03
+Ja, er ist nur… er begreift die Dinge eben etwas langsam.
+$GEN_008_WIT_00_B_04
+Sind Sie also von seiner Schuld überzeugt?
+$GEN_008_WIT_00_B_05
+Ja, ich habe alles gesehen. Er ist schuld am Tod des Herrn.
+$GEN_008_KEY_01
+Stallbursche
+$GEN_008_KEY_02
+Dorfdepp
+$GEN_008_KEY_03
+Rückkehr vom Ausritt
+$GEN_008_KEY_04
+Lockerer Sattel
+$GEN_008_KEY_05
+Rufe und Streit
+$GEN_008_KEY_06
+Einen Aristokraten gestoßen
+$GEN_008_KEY_07
+Gebrochener Hals
+$GEN_008_LastDialog_00
+Ich wollte das alles nie. Gehen wir später die Pferde waschen?
+$GEN_008_UNIQUE_QUESTION_00
+Was war der Auslöser für den Streit zwischen dem Angeklagten und dem Opfer?
+$GEN_008_UNIQUE_ANSWER_CORRECT_00_00
+Ein lockerer Sattel.
+$GEN_008_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Nachlässig poliertes Silberbesteck.
+$GEN_008_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Gewalttätigkeit gegenüber dem Pferd.
+$GEN_008_UNIQUE_QUESTION_01
+Versteht der Angeklagte die Anklage?
+$GEN_008_UNIQUE_ANSWER_CORRECT_01_00
+Nein.
+$GEN_008_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ja.

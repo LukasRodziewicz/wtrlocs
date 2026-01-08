@@ -1,0 +1,62 @@
+$CUT_047_DISC_HANRIOT_001_HANRIOT
+Bunun nasıl göründüğünün farkında mısın? Aristokratlar Robespierre’le işbirliği yapıyor, monarşiyi geri getirmeye çalışıyorlar!
+$CUT_047_DISC_HANRIOT_002_JUDGE
+Çocuğumu unutmayın. Yüzüme karşı, ölümünde parmağı olduklarını söylediler. Hiçbir şeyden korkmuyorlar.
+$CUT_047_DISC_HANRIOT_003_HANRIOT
+Önce Hébert ve Danton’la birlikte Robespierre’e karşı çatışmaya karıştınız, şimdi de Renard’la mücadeleye girişmek istiyorsunuz! Bundan hiç hoşlanmıyorum.
+$CUT_047_DISC_HANRIOT_004_JUDGE
+Pozisyonunu koruyabileceğini mi sanıyorsun… Ne diyorum ben… Başını koruyabileceğini mi sanıyorsun, onlar geri döndüğünde? Monarşi yeniden kurulduğunda? Renard ölmeli, Robespierre de öyle — talihsiz arkadaş seçimlerinin bedelini ödemeli.
+$CUT_047_DISC_HANRIOT_005_HANRIOT
+Siz öyle diyorsunuz, ama onun arkadaş seçiminden hiç haberim yok.
+$CUT_047_DISC_HANRIOT_006_JUDGE_AGGR
+Sağır mısınız siz? Emin olmasam sizi buraya getirir miydim? Renard da bunu yüzüme karşı söyledi.
+$CUT_047_DISC_HANRIOT_007_JUDGE_MANI
+Bilgilerim her zaman doğru çıkmıştır. Renard bana komployu anlatırken gözlerimin içine baktı. Karşımda kan kokusunu almış bir yırtıcı gördüm.
+$CUT_047_DISC_HANRIOT_008_JUDGE_JOKE
+Bana güvenmiyor musun? Bana? Sıcak sobaya dokunma diyen ağabeyine şüpheyle bakar mısın? Neden seni yanıltayım ki?
+$CUT_047_DISC_HANRIOT_009_JUDGE_HUMI
+Biliyorum, iyi kaynaklarınız var, ama bunu kendi başınıza öğrenemezdiniz. Neyse ki, Renard ve Robespierre’in oyunlarında bir piyon değilsiniz.
+$CUT_047_DISC_HANRIOT_010_JUDGE_AGGR
+Tereddüt mü ediyorsunuz? Bilin ki Renard uzun zamandır Paris’i ele geçirmeye çalışıyor. Kaosu kendi lehine kullanmak, gerekirse daha da büyütmek istiyor. Mesela birinin çocuğunu öldürerek!
+$CUT_047_DISC_HANRIOT_011_JUDGE_MANI
+Renard aileme saldırarak sınırı aştı. Ve bunu tekrar yapacak. Sevdiklerinizin hayatı tehlikedeyken bu riski almaya hazır mısınız?
+$CUT_047_DISC_HANRIOT_012_JUDGE_JOKE
+Elbette, deli bir Kraliyetçiye istediğini yapmasına izin verebiliriz. Zalim sanki yozlaşamazmış gibi davranabiliriz. Resmi duyurudan önce kendi kafamızı kessek daha iyi olmaz mı?
+$CUT_047_DISC_HANRIOT_013_JUDGE_HUMI
+Hiçbir şey çocuğumu geri getirmeyecek, ama hâlâ kurtarılabilecek başkaları var. Bunu sağlamak için ise zorbalığa ve yozlaşmaya karşı durmalıyız. Şimdi bizim fırsatımız.
+$CUT_047_DISC_HANRIOT_014_HANRIOT_DOUB
+Unutulmuş bir aristokrat böyle bir canavar olabilir mi? Robespierre’in Renard’ın eylemlerini onayladığını mı ima ediyorsunuz? Çocukların sokaklarda öldürülmesini kabul edeceğini mi söylüyorsunuz?
+$CUT_047_DISC_HANRIOT_015_HANRIOT_IRRI
+Tribünal yargıcı olarak, kanıt olmadan suç olmayacağını bilmelisiniz. Elinizde bir kanıt var mı? Yoksa, bir Fransız vatandaşına iftira atmayı derhal bırakmalısınız.
+$CUT_047_DISC_HANRIOT_016_HANRIOT_AGGR
+Yeter artık, saçmalamayı bırak Fidèle! Komplolar, cinayetler... Beni çocuk mu sanıyorsun? Tüm bunların arkasında bir aristokrat mı var diyorsun? Belki cebinde yeni bir kral da saklıyordur!
+$CUT_047_DISC_HANRIOT_017_JUDGE_AGGR
+Belli ki biraz motivasyona ihtiyacınız var, o halde size seve seve sağlayacağım. Onları ortadan kaldırdığımızda, üst kademelerde boşluklar oluşacak. Bu boşlukları sizinle ya da siz olmadan dolduracağız, ama sizi yanımızda görmeyi tercih ederiz. Bunu da otuz gümüşünüz olarak kabul edin!
+$CUT_047_DISC_HANRIOT_018_JUDGE_MANI
+Daha ileriyi görmelisiniz. O iki alçak ortadan kaybolduğunda, sadece komployu engellemekle kalmayacak, aynı zamanda doldurulması gereken bir boşluk da yaratacağız. Biz dolduracağız. Siz ve ben.
+$CUT_047_DISC_HANRIOT_019_JUDGE_JOKE
+Eğer hâlâ bizimle ittifak kurmanın size bir fayda sağlamayacağından endişe ediyorsanız, içiniz rahat olsun: O iki aylak ortadan kaybolur kaybolmaz, sizi hemen yüksek bir mevkiye yerleştireceğiz. Hem de dilediğiniz kadar orada kalırsınız. Yeni iktidar, dostum.
+$CUT_047_DISC_HANRIOT_020_JUDGE_HUMI
+Renard ve Robespierre’in yaptıklarına artık göz yumulamaz! Biliyorum, kalbinizin derinliklerinde siz de öfkelisiniz. Onların tüm gücü ele geçirmesine izin veremeyiz… en azından, Paris’in gerçek savunucuları olarak bunu onlardan çok daha fazla hak ediyoruz.
+$CUT_047_DISC_HANRIOT_021_JUDGE_AGGR
+Bu elleri görüyor musun, Hanriot? Senin makamın bu ellerin avucunda, ama inatçılığın ve kararsızlığın yüzünden onu kaybetmek üzereyim. Anlıyor musun?
+$CUT_047_DISC_HANRIOT_022_JUDGE_MANI
+Yükselişiniz kadar hızlı bir düşüş yaşayabileceğinizi hatırlatmam gerekir mi? Tek bir emrim yeterli olur. Sadece bir tane. Ya da hayal kırıklığına uğramış bir Danton ya da Hébert’in birkaç sözü.
+$CUT_047_DISC_HANRIOT_023_JUDGE_JOKE
+Son zamanlarda beni ziyarete gelen genç ve hırslı insanlar oldu, aralarında subaylar da vardı. Hepsi desteğimi istemeye geldiler. Her biri, o makam için rakibinin gözünü oymaya dünden razıydı. Ulusal Muhafızların Başkomutanı olmak ise gerçek bir onur olurdu...
+$CUT_047_DISC_HANRIOT_024_JUDGE_HUMI
+Danton ve Hébert, sizi ikna etmeye çalışarak zaman kaybetmemem gerektiğini düşünüyor. Onlara göre, sizi görevden almakla ya da hatta giyotine göndermekle tehdit etmeliyim. Onların gözünde, Karşı-Devrimci faaliyet suçlamaları her zaman kolayca kanıtlanabilir.
+$CUT_047_DISC_HANRIOT_025_HANRIOT_DOUB
+Size yardım edecek olursam, bu sizin savlarınızdan değil, eşinizden dolayı olur. Tehlikeli bir oyun oynuyorsunuz. Tek bir yanlış hamle ölümünüzle sonuçlanabilir.
+$CUT_047_DISC_HANRIOT_026_HANRIOT_IRRI
+Doğru, şu anki konumuma sizin yardımınız olmadan gelemezdim, ama bunun beni sizin piyonunuz yaptığına inanmak aptallık olurdu. Bana tehdit oluşturacak gücünüz yok. Ne sizde, ne Hébert’de, hele Danton’da hiç yok. Bunu reddim olarak kabul edin. Hoşça kalın!
+$CUT_047_DISC_HANRIOT_027_HANRIOT_AGGR
+Beni öldürmek mi istiyorsun? Hayır, ben aptal değilim! Senin için ölmeye razı başka bir deli bul. Sadakat sözü vermiş olabilirim, ama bu kendi hayatımdan vazgeçeceğim anlamına gelmez!
+$CUT_047_DISC_HANRIOT_TOPIC_01
+Bilgi güvenilir.
+$CUT_047_DISC_HANRIOT_TOPIC_02
+Renard, işlediği suçların hesabını vermeli.
+$CUT_047_DISC_HANRIOT_TOPIC_03
+Renard ve Robespierre öldüğünde, iktidar el değiştirecek.
+$CUT_047_DISC_HANRIOT_TOPIC_04
+Hanriot’nun görevden alınması bizim elimizde.

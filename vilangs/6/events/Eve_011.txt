@@ -1,0 +1,18 @@
+$EVE_011_TITLE
+En nombre de la ciencia
+$EVE_011_MAIN_01
+Me han llegado noticias inquietantes. Los habitantes de un cementerio local han empezado a… marcharse. Sí, me refiero a los muertos. En las últimas dos semanas han desaparecido tres cuerpos de diferentes sexos y edades. Lo único que tienen en común es que fueron enterrados recientemente. Nadie ha visto nada; todos aseguran que simplemente se desvanecieron. El Capitán de la Guardia se ha negado a asignar a alguien para vigilar el cementerio. Así las cosas, solo podemos esperar que pronto desaparezcan más cuerpos, y todos estaremos en problemas.
+$EVE_011_MAIN_01_C1
+Investigar el asunto
+$EVE_011_MAIN_02A
+No hubo milagro alguno, ni fuerzas infernales o celestiales tras la desaparición de los cuerpos. Solo jóvenes llenos de curiosidad. Según hemos podido averiguar, los cadáveres fueron desenterrados por estudiantes de medicina que deseaban examinarlos y realizar experimentos imposibles con sujetos vivos. Podemos alegrarnos de ver semejante sed de conocimiento, pero ¿es este el camino correcto? Además, si las familias llegan a conocer la verdad, difícilmente compartirán el entusiasmo de estos jóvenes…
+$EVE_011_MAIN_02A_C1
+Advertir a los estudiantes y prohibir tales prácticas
+$EVE_011_MAIN_02A_C2
+Permitir que los experimentos continúen
+$EVE_011_MAIN_02B
+Las familias no estarán contentas cuando se den cuenta de que a nadie le importan sus quejas…
+$EVE_011_MAIN_03A
+Los muertos han dejado de desaparecer. No reprendiste a los miembros de la Convención, sino a jóvenes a los que es fácil asustar cuando saben que han sido descubiertos. Dudo que lo vuelvan a intentar. Al menos, no durante tu mandato.
+$EVE_011_MAIN_03B
+Los estudiantes han prometido que robarán cuerpos de distintos cementerios para no levantar sospechas. Al menos es algo.

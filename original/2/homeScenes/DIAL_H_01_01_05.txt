@@ -1,0 +1,8 @@
+$DIAL_H_01_01_05_001_OFFICIAL
+Avec l'établissement du Tribunal révolutionnaire, nous allons devoir préparer un sceau officiel. Il semble que cette tâche t’incombe, Citoyen, car le Président Dévoyé est... indisposé.
+$DIAL_H_01_01_05_002_WIFE
+Combien a-t-il bu ?
+$DIAL_H_01_01_05_003_OFFICIAL
+Il était incapable de le dire. Pouvons-nous procéder ?
+$DIAL_H_01_01_05_004_OFFICIAL
+Merci de m'avoir accordé du temps, je sais qu'il est tard. Le sceau devrait être prêt demain. Bonne nuit.

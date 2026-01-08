@@ -1,0 +1,48 @@
+$DISC_INTR_003_B08_HEBERT_001_JUDGE_AGGR
+Wir haben die Lage auf den Straßen nicht mehr unter Kontrolle. Das Chaos kann jeden treffen, und es fällt uns schwer, die Menge zu besänftigen.
+$DISC_INTR_003_B08_HEBERT_002_JUDGE_MANI
+Die Lage ist außer Kontrolle geraten. Gestern wurde ein Mädchen verprügelt, weil man sie verdächtigte, für die Aufständischen zu spionieren. Wer weiß, wen sie sich als Nächstes vornehmen – Sie, mich…
+$DISC_INTR_003_B08_HEBERT_003_JUDGE_JOKE
+Solange die Leute nur mit faulen Tomaten warfen, war die Lage noch erträglich. Aber jetzt greifen sie zu Knüppeln. Ich weiß nicht, wie es Ihnen geht, aber mir macht das Angst.
+$DISC_INTR_003_B08_HEBERT_004_JUDGE_HUMI
+Ich weiß, dass ich versprochen habe, dem Volk zu dienen und die Freiheit zu verteidigen, aber unsere Bürger treiben es zu weit.
+$DISC_INTR_003_B08_HEBERT_005_HEBERT_SATI
+Es wurde höchste Zeit, gegen diese Clique vorzugehen. Die Revolution ist viel zu nachsichtig mit ihnen gewesen.
+$DISC_INTR_003_B08_HEBERT_006_HEBERT_INTR
+Endlich kümmert sich jemand um diese gefräßigen Nichtsnutze. Das könnte unsere Chance sein, diese royalistischen Vorurteile ein für alle Mal loszuwerden.
+$DISC_INTR_003_B08_HEBERT_007_HEBERT_DOUB
+Ich hätte beinahe geglaubt, dass Ihnen die Lage auf den Straßen am Herzen liegt…
+$DISC_INTR_003_B08_HEBERT_008_JUDGE_AGGR
+Gobel hat alles ruiniert! Mit so einem Geheimnis hätte er alles tun müssen, damit es niemals ans Licht kommt, aber stattdessen hat er sich wie ein Kind benommen!
+$DISC_INTR_003_B08_HEBERT_009_JUDGE_MANI
+Sollten sich die Gerüchte bewahrheiten, wird Gobels Anwesenheit die Lage nur verschlimmern. Wollen wir wirklich, dass das Volk die Behörden für korrupt hält? Mein Ruf steht auf dem Spiel – ebenso wie Ihrer und der Ihrer Freunde aus dem Konvent.
+$DISC_INTR_003_B08_HEBERT_010_JUDGE_JOKE
+Gobel hat sich im denkbar ungünstigsten Moment in Schwierigkeiten gebracht. Vielleicht hat der Papst nun endlich seine Rache bekommen? Gott hat seine Gebete erhört und beschlossen, den Erzbischof für seine verfassungsmäßige Ernennung zu bestrafen…
+$DISC_INTR_003_B08_HEBERT_011_JUDGE_HUMI
+Ich möchte keine Urteile in Abwesenheit fällen, doch es scheint, als hätte der Zorn des Volkes einige alte Geheimnisse ans Licht gebracht – etwa das des Erzbischofs Gobel. Vielleicht sollten wir etwas dagegen unternehmen?
+$DISC_INTR_003_B08_HEBERT_012_HEBERT_SATI
+Nichts würde mir mehr Freude bereiten, als den Sturz dieses fortschrittsfeindlichen Priesters mitanzusehen. Nun, vielleicht wäre die Zerstörung des gesamten Papsttums noch süßer.
+$DISC_INTR_003_B08_HEBERT_013_HEBERT_INTR
+Sie verstehen es, die tiefsten Sehnsüchte eines Menschen anzusprechen. Es wäre sinnlos zu leugnen, dass es mich erfreuen würde, wenn Gobel diese Welt verließe und der Vernunft Platz machte… Wie kann ich helfen?
+$DISC_INTR_003_B08_HEBERT_014_HEBERT_DOUB
+Die Pariser Kommune wollte diesem fetten Schwein schon lange an den Kragen, doch niemanden hat es interessiert. Jetzt, wo alle merken, dass sie von seinem Sturz profitieren können, will jeder seinen Kopf rollen sehen.
+$DISC_INTR_003_B08_HEBERT_015_JUDGE_AGGR
+Wir dürfen nicht für das Verhalten einer einzelnen Gruppe bezahlen. Mit all ihren Lügen und ihrem Verfall hat sich die Kirche den Zorn des Volkes redlich verdient. Lasst uns mit ihr abschließen und endlich in Frieden leben.
+$DISC_INTR_003_B08_HEBERT_016_JUDGE_MANI
+Dem wütenden Tiger sollte man eine Beute zum Zerreißen vorwerfen, dann wird er sich auf nichts anderes mehr konzentrieren und wir können in Frieden leben. Da der Tiger nun seine Zähne ins Klerus schlagen will…
+$DISC_INTR_003_B08_HEBERT_017_JUDGE_JOKE
+Uns bleibt wirklich keine andere Wahl. Sie verlangen nach dem Klerus, also geben wir ihnen den Klerus. Wenn sie den Klerus des Verrats bezichtigen, dann wiederholen wir ihre Worte. Einfach und wirkungsvoll.
+$DISC_INTR_003_B08_HEBERT_018_JUDGE_HUMI
+Ich will der Kirche keinen Schaden zufügen. Sie schadet sich selbst durch die Hände von Ausgestoßenen, die von unseren Bürgern verflucht werden. Wir müssen alle Verbindungen zu dieser Gruppe kappen. Zum Wohle aller.
+$DISC_INTR_003_B08_HEBERT_019_HEBERT_SATI
+Die Vernunft wird über den Aberglauben siegen. Sie haben meine Unterstützung, Monsieur le Juge.
+$DISC_INTR_003_B08_HEBERT_020_HEBERT_INTR
+Ich frage mich wirklich, wie das alles enden wird, doch ungeachtet meiner Zweifel können Sie auf meine Unterstützung zählen.
+$DISC_INTR_003_B08_HEBERT_021_HEBERT_DOUB
+Wegen Ihrer undurchsichtigen Motive könnten die Pariser Kommune und die Herrschaft der Vernunft hier mehr verlieren als gewinnen. Es tut mir leid.
+$DISC_INTR_003_B08_HEBERT_TOPIC_01
+Die Lage auf den Straßen gerät zunehmend außer Kontrolle.
+$DISC_INTR_003_B08_HEBERT_TOPIC_02
+Der Ärger mit Gobel hat nur noch Öl ins Feuer gegossen.
+$DISC_INTR_003_B08_HEBERT_TOPIC_03
+Jemand muss zur Abschreckung bestraft werden.

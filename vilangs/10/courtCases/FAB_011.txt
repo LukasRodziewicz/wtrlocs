@@ -1,0 +1,196 @@
+$FAB_011_DOC_01_HEADER
+Hazırlayan: Fabrice Poli
+$FAB_011_DOC_01_00
+Şimdi huzurumuza çıkacak sanık, Paris Belediye Başkanı Jean-Nicolas Pache’dır; <a name="1" class="hidden">düşman güçlerle iş birliği</a> yoluyla vatana ihanetten şüphelenilmektedir.
+$FAB_011_DOC_01_01
+Bölgedeki bir fıçıcının kızı olan Béatrice Caron’un yazılı ifadesinin ardından tutuklandı; asıl ününü ise yozlaşmış Muscadinlerle olan ilişkileriyle kazanmıştı. Genç kadın, Avusturya casusu olduğunu itiraf etti ve bilgileri doğrudan sanıktan aldığını beyan etti. Sahip olduğu bilgiler sayesinde Parislilerin günlük yaşamını sekteye uğrattığı iddia edildi. Şehir yönetimindeki muhbirini açıklaması karşılığında Caron, Fransa’dan sürgün edildi ve geri dönerse ölümle cezalandırılacağı bildirildi.
+$FAB_011_DOC_01_02
+Savcı Tinville ile birlikte yürüttüğüm soruşturma, Yurttaş Pache’nin Caron’un Avusturyalı işverenlerinin emirlerini yerine getirdiğini ve kızın iki taraf arasında mektupları iletmekten sorumlu olduğunu ortaya koyuyor. Belediye başkanının birçok şüpheli eylemine dair kesin kanıt bulamasak da, soruşturmanın bir yönü açık – Pont de la Révolution’un inşasının gecikmesi. Düşman güçler bu köprünün <a name="4" class="hidden">Fransızları birleştirmesini</a> ve yeniden alevlenen Devrim ateşinin simgesi olmasını engellemek istiyordu. Komplocular ayrıca bu girişimin öncüsü ve destekçisi olan Robespierre’in <a name="5" class="hidden">itibarını zedelemeyi</a> de ummuş olabilirlerdi.
+$FAB_011_DOC_01_03
+Bu komplonun kanıtı, sanığın ofisinde yaptığımız aramada ele geçirdiğimiz <a name="6" class="hidden">mektuplarda</a> ortaya çıktı. Hepsi yalnızca “D” harfiyle imzalanmıştı ve bu gizemli kişinin kimliğini tespit edemedik. En yaygın tahmini – bunun Danton olduğu iddiasını – reddettik; zira Danton ile Robespierre’in hem siyasi müttefik hem de dost oldukları herkesçe bilinir.
+$FAB_011_DOC_02_TOOLTIP
+Mektup
+$FAB_011_DOC_02_00
+	J.-N. P. için 
+	Duvarcı loncasının beyefendileri, argümanlarımızı dinlemeye yanaşmıyor ve köprüdeki çalışmalarını askıya aldılar. Onları zorla ikna etmek gerekecek. Harekete geç, Pache – Robespierre pes edecek ve sen de ödemenin sahibi olacaksın. 
+	D.
+$FAB_011_OnStart_00
+Protokol gereği, lütfen kendinizi tanıtınız.
+$FAB_011_OnStart_01
+Benim adım Jean-Nicolas Pache, Paris Belediye Başkanıyım. Hakkımdaki suçlamaların bu yargıcın kurduğu bir komplonun sonucu olduğunu ilan ediyorum!
+$FAB_011_OnStart_02
+Cesaretin de böylesi, hain.
+$FAB_011_OnStart_03
+Kimin hain olduğunu yakında öğreneceğiz. Sorularını sor, Fidèle!
+$FAB_011_OnGuilty_00
+Sanığı idama mahkûm ediyorum. Götürün onu!
+$FAB_011_OnGuilty_01
+Adalet!
+$FAB_011_OnGuilty_02
+İhanet edenlerin sonu budur!
+$FAB_011_OnGuilty_03
+Cehennemde buluşacağız, Fidèle!
+$FAB_011_OnPrison_00
+[Bu bir örnektir, değiştirilmesi gerekiyor!!!!]
+$FAB_011_OnNotGuilty_00
+Sanık masumdur. Onu gözümün önünden götürün.
+$FAB_011_OnNotGuilty_01
+Bu bir rezalet!
+$FAB_011_01x02_00_QTitle
+Yabancı bir güçle iş birliği yaptığınızı kabul ediyor musunuz?
+$FAB_011_01x02_00_00
+Yabancı bir güçle iş birliği yaptığınızı kabul ediyor musunuz?
+$FAB_011_01x02_00_01
+Hayır, kabul etmiyorum. Bu komployu sen kurdun, Fidèle!
+$FAB_011_01x02_00_02
+Sanıktan en azından biraz saygılı davranmasını rica ediyorum.
+$FAB_011_01x02_00_03
+Belediye başkanı bugün içki içti mi? Ona şarap veren oldu mu?
+$FAB_011_01x02_00_04
+Casusluk karşılığında ne aldınız?
+$FAB_011_01x02_00_05
+Bana hiçbir şey verilmedi, çünkü ben casus değilim! Yargıç, hayatına kast edenin ben olduğuma dair akıl almaz bir fikir uydurdu ve şimdi intikam alıyor!
+$FAB_011_01x02_00_06
+Bu da ne saçmalık?
+$FAB_011_01x02_00_07
+Kanıtım var. Tanıklıklar–
+$FAB_011_01x02_00_08
+Peki, bu şüpheli belgeyi imzalayan kişi nerede?
+$FAB_011_01x02_00_09
+Bu Yurttaş kaçtı–
+$FAB_011_01x02_00_10
+Ne? Onu öldürdünüz mü? Demek sadece hain değil, katil de olmuşsunuz!
+$FAB_011_01x02_00_11
+Neyden bahsediyor?
+$FAB_011_01x05_01_QTitle
+Düşmanlarımız Robespierre’i itibarsızlaştırmak mı istedi?
+$FAB_011_01x05_01_00
+Düşmanlarımız Robespierre’i itibarsızlaştırmak mı istedi?
+$FAB_011_01x05_01_01
+Ne istediklerine dair hiçbir fikrim yok. Ayrıca, böyle bir iş için beni kullanmak tamamen mantıksız olurdu.
+$FAB_011_01x05_01_02
+Neden?
+$FAB_011_01x05_01_03
+Çünkü neredeyse hiç gücüm yoktu. Robespierre ile aramdaki tek bağ o lanet köprüydü ve bildiğim kadarıyla bu, onların sayısız girişiminden sadece biriydi.
+$FAB_011_01x05_01_04
+Bu hiçbir şeyi kanıtlamaz.
+$FAB_011_01x05_01_05
+Mantıklı.
+$FAB_011_01x05_01_06
+Robespierre’i gözden düşürmek isteselerdi, ona daha yakın birini seçerlerdi.
+$FAB_011_01x05_01_07
+Bu argüman pek ikna edici sayılmaz.
+$FAB_011_01x05_01_08
+Sizin saçma suçlamalarınız da öyle! Neden beni Pontius Pilatus’la da ilişkilendirmiyorsunuz? Sadece tahmin yürütüyorsunuz.
+$FAB_011_03x04_02_QTitle
+Devrime ne kadar zarar verdiğinizin farkında mısınız…
+$FAB_011_03x04_02_00
+Köprüdeki aksaklıklar yüzünden Devrim’e ne kadar zarar verdiğinizin farkında mısınız?
+$FAB_011_03x04_02_01
+Aksine, köprü zaten inşa edilecekti. Bu yapının ne kadar önemli olduğunun tamamen farkındaydım ve işçilerin görevlerini profesyonelce yerine getirmelerini sağlamak için projeyi bizzat denetledim ve–
+$FAB_011_03x04_02_02
+Bir dakika! İnşaat işçilerinin profesyonel davranışı mı? Şaka yapıyor olmalısınız! İnşaatın sabotajını ve Fransızların Devrimci ruhunu kırma girişimini bu şekilde mi nitelendiriyorsunuz?
+$FAB_011_03x04_02_03
+Lütfen bu siyasi ajitasyondan beni mahrum edin. Ezbere biliyorum zaten.
+$FAB_011_03x04_02_04
+Belki de kötü bir niyeti yoktu?
+$FAB_011_03x04_02_05
+Çeneni kapa ve büyüklerini dinle!
+$FAB_011_03x04_02_06
+Benim için en önemli mesele, köprünün güvenliğini sağlamak oldu. Ama sembolizmin de en az bunun kadar önemli olduğunu düşünüyorum; bu yüzden köprünün hatalı inşa yüzünden çökmesini engellemek istedim. Böylesi, tam anlamıyla sembolik bir felaket olurdu! İşte bu yüzden bu kadar çok denetim ve duraklama yaşandı.
+$FAB_011_03x04_02_07
+İyi ki o ilgilenmiş.
+$FAB_011_07x06_04_QTitle
+Tüm emirlerinizi mektuplarla mı aldınız?
+$FAB_011_07x06_04_00
+Tüm emirlerinizi mektuplarla mı aldınız?
+$FAB_011_07x06_04_01
+Bu iftiralara son verin. Eğer burada bir hain varsa, o da karşımda oturup kendini adil bir yargıç gibi gösteren kişidir!
+$FAB_011_07x06_04_02
+Buna daha fazla tahammül etmeyeceğim! Ya ifade verin ya da doğrudan giyotine gidin!
+$FAB_011_07x06_04_03
+Şunu beyan ederim ki, daima yalnızca Fransa’ya hizmet ettim, başka hiçbir ülkeye değil!
+$FAB_011_07x06_04_04
+O halde bu mektuplardaki emirler nereden geliyordu?
+$FAB_011_07x06_04_05
+Hiçbir mektup görmedim. Eğer hain olsaydım, suçluluğumun bu kadar açık bir kanıtını gerçekten saklar mıydım sizce?!
+$FAB_011_07x06_04_06
+Sanık, açıkça bir hain olduğu kadar bir ahmaktır da.
+$FAB_011_07x06_04_07
+Ve siz, biri bana karşı sahte deliller uydurup komplo kuruyor diye göremiyorsanız, daha da büyük ahmaklarsınız!
+$FAB_011_KEY_01
+Düşman güçlerle iş birliği
+$FAB_011_KEY_02
+Vatandaşların günlük yaşamını istikrarsızlaştırmak
+$FAB_011_KEY_03
+Köprü inşaatında gecikme
+$FAB_011_KEY_04
+Fransız birliğinin simgesi
+$FAB_011_KEY_05
+Robespierre’i Gözden Düşürmek
+$FAB_011_KEY_06
+Gizemli mektup
+$FAB_011_KEY_07
+Gizli bir muhabir
+$FAB_011_LastDialog_00
+Asıl hain Fidèle!
+$FAB_011_UNIQUE_QUESTION_00
+Sanık gizli bilgileri kiminle paylaşırdı?
+$FAB_011_UNIQUE_ANSWER_CORRECT_00_00
+Béatrice Caron ile.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Danton ile.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Eşiyle birlikte.
+$FAB_011_UNIQUE_QUESTION_01
+Sanık ile “D” arasındaki mektuplar nerede bulundu?
+$FAB_011_UNIQUE_ANSWER_CORRECT_01_00
+Sanığın ofisinde.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Evindeki bodrumda.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Danton’un dairesinde.
+$FAB_011_UNIQUE_QUESTION_04
+Sanık, yabancı bir güçle iş birliği yapmakla ilgili suçlamaya nasıl yanıt verdi?
+$FAB_011_UNIQUE_ANSWER_CORRECT_04_00
+Yargıç Fidèle’in komplosunun kurbanı olduğunu iddia ediyor.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_04_00
+Bunun tamamen Robespierre’in intikamı olduğunu iddia ediyor.
+$FAB_011_UNIQUE_ANSWER_NOT_CORRECT_04_01
+Fransa’yı zayıflatmak isteyen komşu ülkelerin bir komplosunun kurbanı olduğuna inanıyor.
+$FAB_011_PLOT_TWIST_GUARD_01_01
+Vatandaş Fidèle, yapmanız gereken bir şey var... Görmeniz gereken bir şey.
+$FAB_011_PLOT_TWIST_JUDGE_01_02
+Soysuz herif! O benim çocuğum!
+$FAB_011_PLOT_TWIST_MENTOR_01_02
+Alexis, sakinleşmeye çalış.
+$FAB_011_PLOT_TWIST_TINVILLE_01_03
+Yurttaş Fidèle... Trajedinizi duyduk. Size herhangi bir şekilde—
+$FAB_011_PLOT_TWIST_JUDGE_01_04
+Hepiniz susun artık! Pache, neden oğlumu öldürdün?!
+$FAB_011_PLOT_TWIST_PASHE_01_05
+Çocuk öldürmekten anlamam — o daha çok sizin işiniz.
+$FAB_011_PLOT_TWIST_JUDGE_02_QTitle
+Neden yaptın bunu, Pache?
+$FAB_011_PLOT_TWIST_JUDGE_02_01
+Neden yaptın bunu, Pache?
+$FAB_011_PLOT_TWIST_PASHE_02_02
+Şimdi neyle suçlandığımı bilmiyorum.
+$FAB_011_PLOT_TWIST_JUDGE_02_03
+Çocuğumu öldürmekle!
+$FAB_011_PLOT_TWIST_PASHE_02_04
+Bunca zamandır hücredeydim. Dışarıda birini öldürebileceğim fikrine nereden kapıldınız? Yalan ve iftira.
+$FAB_011_PLOT_TWIST_TINVILLE_02_05
+Cinayeti işlemek için birine para vermiş olabilirdiniz. İddianameniz, buna muktedir olduğunuzu gösteriyor!
+$FAB_011_PLOT_TWIST_JUDGE_03_QTitle
+Oğlumu kim öldürdü, Pache?
+$FAB_011_PLOT_TWIST_JUDGE_03_01
+Oğlumu kim öldürdü, Pache?
+$FAB_011_PLOT_TWIST_PASHE_03_02
+Belki de tıpkı bana yaptığınız gibi, sinsice saldırdığınız o insanlar. Kanıtsız suçluyorsunuz, iftira atıyorsunuz. Karşılığını aldınız. Benim onurum buna el vermez; bu yüzden burada, bizzat kendimi savunuyorum.
+$FAB_011_PLOT_TWIST_JUDGE_03_03
+Bunun arkasında kim var? Hemen söyle yoksa doğruca giyotine gidersin!
+$FAB_011_PLOT_TWIST_PASHE_03_04
+Gördünüz mü? Yargıç kendi çıkarı için bana giyotinle tehdit ediyor. Bu bir yargılama değil, tam bir maskaralık!
+$FAB_011_PLOT_TWIST_TINVILLE_03_05
+Sus, çocuk katili!

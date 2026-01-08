@@ -1,0 +1,71 @@
+#GAME_OPTIONS
+Rozgrywka
+#SOUND_OPTIONS
+Dźwięk
+
+#CREDITS_HEADER
+Twórcy
+
+#CREDITS_BACK
+Powrót do menu
+
+#CHOOSE_PROFILE
+Wybierz profil
+#NEW_PROFILE
+Stwórz profil
+#EMPTY_PROFILE
+Stwórz nowy profil
+#PROFILE_PLACEHOLDER
+Nazwa profilu
+#PROFILE_DELETE_QUESTION_TITLE
+Usuń profil
+#PROFILE_DELETE_QUESTION
+Usunięcie profilu jest nieodwracalne.
+Czy na pewno chcesz go skasować?
+#PROFILE_SUBTITLE
+Akt {0} dzień {1}
+
+#NEW_GAME_QUESTION_TITLE
+Rozpocznij od nowa
+#NEW_GAME_QUESTION
+Rozpoczęcie nowej gry spowoduje usunięcie Twojego dotychczasowego postępu. Czy na pewno chcesz to zrobić?
+#SOUND_MAIN_OPTION
+Ogólna głośność
+#SOUND_EFFECTS_OPTION
+Głośność dźwięków
+#SOUND_MUSIC_OPTION
+Głośność muzyki
+#SOUND_DIALOGS_OPTION
+Głośność aktorów
+
+#AUTOSAVE
+Autosave
+
+
+#SINGLE_CASES_HEADER
+Rozprawa:
+#MULTI_CASES_HEADER
+Rozprawy:
+#CASES_EMPTY
+Brak
+
+#ACT
+Akt {0}
+
+#LOAD_GAME_DAY
+dzień {0}
+
+#LOAD_GAME_PARAMS_INFO
+Sytuacja:
+
+#LOAD_GAME_QUESTION_TITLE
+Wczytaj stary zapis
+#LOAD_GAME_QUESTION
+Wybór przeszłego dnia spowoduje nadpisanie stanu gry z dni następujących po nim. 
+Czy jesteś pewien, że chcesz to zrobić?
+
+#SAVE_PROFILE
+Stwórz profil
+
+#FLASHCARDS_CASES_KEY
+Werdykt nadzwyczajny

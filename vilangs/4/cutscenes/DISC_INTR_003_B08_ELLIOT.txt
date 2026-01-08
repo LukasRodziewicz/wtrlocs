@@ -1,0 +1,54 @@
+$DISC_INTR_003_B08_ELLIOTT_001_JUDGE
+Diese Sache mit Gobel… Alles geschah so plötzlich. Die Leute würden es verdächtig finden, wenn wir untätig bleiben.
+$DISC_INTR_003_B08_ELLIOTT_002_ELLIOT
+Werden sie glauben, dass wir auf der Seite von Lügnern und Verrätern stehen?
+$DISC_INTR_003_B08_ELLIOTT_003_JUDGE
+Ganz genau.
+$DISC_INTR_003_B08_ELLIOTT_004_JUDGE_AGGR
+Wir haben die Lage auf den Straßen nicht mehr unter Kontrolle. Das Chaos kann jeden treffen, und es fällt uns schwer, die Menge zu besänftigen.
+$DISC_INTR_003_B08_ELLIOTT_005_JUDGE_MANI
+Die Lage ist außer Kontrolle geraten. Gestern wurde ein Mädchen verprügelt, weil man sie verdächtigte, für die Aufständischen zu spionieren. Wer weiß, wer ihr nächstes Ziel sein wird – Sie, ich…
+$DISC_INTR_003_B08_ELLIOTT_006_JUDGE_JOKE
+Solange die Leute nur mit faulen Tomaten warfen, war die Lage noch erträglich. Aber jetzt greifen sie zu Knüppeln. Ich weiß nicht, wie es Ihnen geht, aber mir macht das Angst.
+$DISC_INTR_003_B08_ELLIOTT_007_JUDGE_HUMI
+Ich weiß, dass ich versprochen habe, dem Volk zu dienen und die Freiheit zu verteidigen, aber unsere Bürger treiben es zu weit.
+$DISC_INTR_003_B08_ELLIOTT_008_ELLIOT_SATI
+Jedes Mal, wenn ich über den Markt gehe, spüre ich den Zorn des Volkes auf meiner Haut. Die Erde bebt, die Menschen verlangen nach Rache, doch ihr Ziel haben sie noch nicht gefunden.
+$DISC_INTR_003_B08_ELLIOTT_009_ELLIOT_INTR
+So etwas geschieht nicht einfach so, oder? Fahren Sie fort.
+$DISC_INTR_003_B08_ELLIOTT_010_ELLIOT_DOUB
+Sie haben doch Ihre Rolle in all dem gespielt, nicht wahr? Ich habe gehört, dass Sie einige Probleme mit Gobel hatten.
+$DISC_INTR_003_B08_ELLIOTT_011_JUDGE_AGGR
+Gobel hat alles ruiniert! Mit so einem Geheimnis hätte er alles tun müssen, damit es niemals ans Licht kommt, aber stattdessen benahm er sich wie ein Kind!
+$DISC_INTR_003_B08_ELLIOTT_012_JUDGE_MANI
+Sollten sich die Gerüchte bewahrheiten, wird Gobels Anwesenheit die Lage nur verschlimmern. Wollen wir wirklich, dass das Volk glaubt, die Obrigkeit sei korrupt? Es steht nicht nur mein Ruf auf dem Spiel, sondern auch euer und der eurer Freunde aus dem Konvent.
+$DISC_INTR_003_B08_ELLIOTT_013_JUDGE_JOKE
+Gobel hat sich im denkbar ungünstigsten Moment in Schwierigkeiten gebracht. Vielleicht hat der Papst endlich seine Rache bekommen? Gott hat seine Gebete erhört und beschlossen, den Erzbischof für seine verfassungsmäßige Ernennung zu bestrafen…
+$DISC_INTR_003_B08_ELLIOTT_014_JUDGE_HUMI
+Ich möchte keine Urteile in Abwesenheit fällen, doch es scheint mir, als hätte der Zorn des Volkes einige alte Geheimnisse ans Licht gebracht – etwa das des Erzbischofs Gobel. Vielleicht sollten wir etwas dagegen unternehmen?
+$DISC_INTR_003_B08_ELLIOTT_015_ELLIOT_SATI
+Ich mochte ihn nie. Ich habe Gerüchte gehört, dass er früher im Sklavenhandel tätig war, auch wenn das nie bestätigt wurde.
+$DISC_INTR_003_B08_ELLIOTT_016_ELLIOT_INTR
+Ich sehe, Sie haben es auf die hohen Tiere abgesehen. Was schlagen Sie vor?
+$DISC_INTR_003_B08_ELLIOTT_017_ELLIOT_DOUB
+Gobel mag seinem Glauben abgeschworen haben, doch ich bezweifle, dass er seine Mitwürden so leicht im Stich lässt. Er wird nicht kampflos aufgeben, selbst wenn das Volk hinter dir steht.
+$DISC_INTR_003_B08_ELLIOTT_018_JUDGE_AGGR
+Wir dürfen nicht für das Verhalten einer einzelnen Gruppe bezahlen. Mit all ihren Lügen und ihrem Verfall hat sich die Kirche den Zorn des Volkes redlich verdient. Lassen wir sie hinter uns und leben endlich in Frieden.
+$DISC_INTR_003_B08_ELLIOTT_019_JUDGE_MANI
+Dem wütenden Tiger sollte man eine Beute zum Zerreißen vorwerfen, dann ist er abgelenkt und wir können in Frieden leben. Da der Tiger nun seine Zähne ins Klerus schlagen will…
+$DISC_INTR_003_B08_ELLIOTT_020_JUDGE_JOKE
+Uns bleibt schlicht keine andere Wahl. Sie verlangen nach dem Klerus, also geben wir ihnen den Klerus. Wenn sie den Klerus des Verrats bezichtigen, dann wiederholen wir ihre Worte. Einfach und wirkungsvoll.
+$DISC_INTR_003_B08_ELLIOTT_021_JUDGE_HUMI
+Ich bin dagegen, der Kirche zu schaden. Sie fügt sich selbst Schaden zu – durch die Hände von Ausgestoßenen, die von unseren Bürgern verflucht werden. Wir müssen alle Verbindungen zu dieser Gruppe kappen. Zum Wohle aller.
+$DISC_INTR_003_B08_ELLIOTT_022_ELLIOT_SATI
+Sie haben meine Unterstützung. Ich werde ein paar Fäden ziehen und mit meinen Freunden im Konvent sprechen.
+$DISC_INTR_003_B08_ELLIOTT_023_ELLIOT_INTR
+Ich bin bereit, diesen Schritt zu gehen, wenn es reicht, die Hitzköpfe zu besänftigen. Frieden auf den Straßen ist mir wichtiger als ein Erzbischof.
+$DISC_INTR_003_B08_ELLIOTT_024_ELLIOT_DOUB
+Ich möchte mich ungern gegen Gobel stellen, ohne deine wahren Absichten zu kennen. Es tut mir leid.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_01
+Die Lage auf den Straßen gerät zunehmend außer Kontrolle.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_02
+Der Ärger mit Gobel hat nur noch Öl ins Feuer gegossen.
+$DISC_INTR_003_B08_ELLIOTT_TOPIC_03
+Wir müssen jemanden bestrafen und ein Exempel statuieren, und das Volk will sich am Klerus rächen.

@@ -1,0 +1,12 @@
+$SEAL_CREATOR_BASE
+Основа
+$SEAL_CREATOR_EMBLEM
+Эмблема
+$SEAL_CREATOR_TOPDETAIL
+Украшение сверху
+$SEAL_CREATOR_BOTTOMDETAIL
+Украшение снизу
+$SEAL_CREATOR_HEADERTEXT
+Создайте свою печать
+$SEAL_CREATOR_UNDERSCORETEXT
+Подпишите для подтверждения

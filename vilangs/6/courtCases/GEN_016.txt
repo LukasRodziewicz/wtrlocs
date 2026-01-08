@@ -1,0 +1,273 @@
+$GEN_016_DOC_01_HEADER
+Compilado por: Bruno Merieles
+$GEN_016_DOC_01_00
+En el banquillo se encuentra Hélène Gignac, una lavandera parisina de 55 años. Es una esposa y madre ejemplar, <a name="1" class="hidden">muy devota</a>, admirada tanto por sus vecinos como por sus clientes.
+$GEN_016_DOC_01_01
+Su <a name="2" class="hidden">esposo</a>, carpintero, ha tenido su taller durante muchos años y ambos pagan sus impuestos puntualmente.
+$GEN_016_DOC_01_02
+Los cargos fueron presentados por Raymond Houllier, el dueño de la botica donde la acusada fue detenida por los gendarmes durante un intento de robo. Gignac rompió el escaparate e intentó entrar en la tienda. Ella declaró que se vio obligada a hacerlo por la escasez de jabón y los precios desorbitados de lo poco que quedaba para comprar.
+$GEN_016_DOC_01_03
+Parecía estar <a name="4" class="hidden">desesperada</a>, hasta el punto de herirse las manos con los cristales rotos. La encontraron sentada frente a la ventana, llorando. Los gendarmes le curaron las heridas y luego la arrestaron, acusándola de vandalismo e intento de robo. Sospechamos que quería usar lo robado para <a name="5" class="hidden">especulación</a>, aunque es cierto que <a name="6" class="hidden">no había jabón</a> en su lavandería.
+$GEN_016_DOC_01_04
+Raymond Houllier afirma que, al bajar corriendo de su apartamento sobre la tienda, la señora Gignac tomó un trozo de vidrio y lo atacó. No sabemos por qué lo haría. Houllier sospecha que, al destrozar la tienda, robar y agredirlo, ella quería <a name="7" class="hidden">vengarse</a> porque él antes se negó a venderle una caja de jabón a crédito.
+$GEN_016_DOC_01_05
+Prueba: 
+<a name="8" class="hidden">Vidrio ensangrentado.</a>
+$GEN_016_OnStart_00
+Intenta comprenderla, son tiempos difíciles para todos.
+$GEN_016_OnStart_01
+¿Cuál es su nombre?
+$GEN_016_OnStart_02
+Hélène Gignac. Soy una simple lavandera que solo desea poder trabajar. Nunca quise hacerle daño a nadie.
+$GEN_016_OnStart_03
+¡Ella no le haría daño ni a una mosca!
+$GEN_016_OnStart_04
+Me basaré en las notas del caso, no en los comentarios del público.
+$GEN_016_OnGuilty_00
+Condeno a la ciudadana Hélène Gignac a muerte por guillotina.
+$GEN_016_OnGuilty_01
+Duro, pero justo.
+$GEN_016_OnGuilty_02
+¡Esto es inhumano!
+$GEN_016_OnGuilty_03
+¡¿Cómo puede usted condenar a muerte a una mujer inocente?!
+$GEN_016_OnGuilty_04
+¡Monstruos!
+$GEN_016_OnPrison_00
+Condeno a la ciudadana Hélène Gignac a prisión. ¡Llévensela!
+$GEN_016_OnPrison_01
+Eso le hará pensar en cómo no se deben resolver los problemas.
+$GEN_016_OnPrison_02
+Pobre mujer.
+$GEN_016_OnPrison_03
+Solo nos queda esperar que sobreviva en prisión.
+$GEN_016_OnPrison_04
+¡Las cárceles están llenas de inocentes!
+$GEN_016_OnNotGuilty_00
+Declaro a la ciudadana Hélène Gignac no culpable. Puede retirarse.
+$GEN_016_OnNotGuilty_01
+Entiendo que simpatizas con el pueblo, pero ella era culpable.
+$GEN_016_OnNotGuilty_02
+¡Hurra!
+$GEN_016_OnNotGuilty_03
+¡Por fin un juez con compasión!
+$GEN_016_OnNotGuilty_04
+¡Necesitamos más jueces como él!
+$GEN_016_01x03_00_QTitle
+He oído que usted es religioso.
+$GEN_016_01x03_00_00
+He oído que es usted religioso, pero no veo la relación entre su acto y los Diez Mandamientos.
+$GEN_016_01x03_00_01
+Mi esposo y yo apenas logramos llegar a fin de mes. Le pedí un préstamo al señor Raymond, pero me lo negó. Solo quería poder seguir trabajando y le aseguré que se lo devolvería.
+$GEN_016_01x03_00_02
+¿Y el robo era la solución?
+$GEN_016_01x03_00_03
+No, pero morir de hambre tampoco lo era.
+$GEN_016_01x03_00_04
+¿Quieres decir que la falta de jabón podría matarte? Tu esposo también trabaja.
+$GEN_016_01x03_00_05
+Es carpintero, y la madera también escasea.
+$GEN_016_01x03_00_06
+¿Podrías haber cambiado de oficio, pedir ayuda a tu familia o a las autoridades… pero preferiste robar?
+$GEN_016_01x03_00_07
+Las autoridades solo se ayudan a sí mismas.
+$GEN_016_01x03_00_08
+¡¿Por qué no cambias de profesión?!
+$GEN_016_01x04_01_QTitle
+¿Puede explicar su comportamiento?
+$GEN_016_01x04_01_00
+¿Puede explicar su comportamiento?
+$GEN_016_01x04_01_01
+Los clientes vienen a verme, pero sin jabón no puedo trabajar, así que se van a otro lado. La lavandería es mi vida entera, y ya conocí la miseria antes. Gracias a la lavandería, pude vivir con dignidad.
+$GEN_016_01x04_01_02
+¿Fue digno ese asalto?
+$GEN_016_01x04_01_03
+De verdad no quería que ocurriera.
+$GEN_016_01x04_01_04
+¿Solo querías robar?
+$GEN_016_01x04_01_05
+Solo quería poder permitirme el pan.
+$GEN_016_01x04_01_06
+¡La Revolución se suponía que iba a mejorar las cosas!
+$GEN_016_01x04_01_07
+Eso no es una excusa. El dueño de la tienda también quiere poder comprar pan.
+$GEN_016_01x04_01_08
+No pretendía quitarle mucho. Además, él está mucho mejor que la mayoría de nosotros.
+$GEN_016_03x05_02_QTitle
+¿Sabe usted que la ley castiga la especulación con la muerte?
+$GEN_016_03x05_02_00
+¿Sabe usted que la ley establece que la especulación se castiga con la muerte?
+$GEN_016_03x05_02_01
+Sí, lo sé, solo necesitaba el jabón para...
+$GEN_016_03x05_02_02
+Para trabajar, sí. Sin embargo, en su situación la especulación sería mucho más rentable. Podría vender el jabón robado y pedir un precio mucho más alto. Tarde o temprano habría encontrado un comprador.
+$GEN_016_03x05_02_03
+El jabón no es tan caro.
+$GEN_016_03x05_02_04
+¿De verdad? Viste con tus propios ojos lo difícil que fue conseguirlo. Si estabas dispuesto a robarlo, alguien más estaría dispuesto a pagarte por ello.
+$GEN_016_03x05_02_05
+¿Y dónde se supone que encontraría a ese comprador? No conozco a nadie. Usted mismo vio que en mi casa no había nada. Ese hombre de uniforme lo revisó todo con cuidado.
+$GEN_016_03x05_02_06
+¡Inventan sus propias especulaciones, ni siquiera saben cómo vivimos!
+$GEN_016_03x06_03_QTitle
+¿Dónde compraba jabón antes?
+$GEN_016_03x06_03_00
+¿Dónde compraba jabón antes?
+$GEN_016_03x06_03_01
+Siempre en el mismo lugar, un almacén en las afueras.
+$GEN_016_03x06_03_02
+¿No de parte del ciudadano Houllier?
+$GEN_016_03x06_03_03
+En el almacén vendían mucho más barato. Mi esposo y yo siempre comprábamos una caja entera porque duraba más.
+$GEN_016_03x06_03_04
+¿Por qué no fuiste al almacén esta vez?
+$GEN_016_03x06_03_05
+Fui, pero no tenían nada para vender. ¿Qué se suponía que debía hacer? Además, al final, no robé nada…
+$GEN_016_03x06_03_06
+Porque te atraparon.
+$GEN_016_03x06_03_07
+Sí, pero el jabón quedó intacto. ¿En qué soy culpable?
+$GEN_016_03x06_03_08
+La ley no funciona así, ciudadano.
+$GEN_016_07x08_04_QTitle
+El señor Houllier afirma que lo atacó con un trozo de vidrio. ¿Es cierto?
+$GEN_016_07x08_04_00
+El señor Houllier afirma que usted lo atacó con un trozo de vidrio. ¿Es cierto?
+$GEN_016_07x08_04_01
+Quise pedirle que no presentara cargos. Corrí hacia él, dispuesta a suplicarle, pero me apartó…
+$GEN_016_07x08_04_02
+¿Querías pedirle que no presentara cargos mientras sostenías un trozo de vidrio afilado?
+$GEN_016_07x08_04_03
+Bueno, simplemente sucedió…
+$GEN_016_07x08_04_04
+¿Entonces corría usted hacia otra persona, cubierta de sangre y con un objeto afilado en las manos?
+$GEN_016_07x08_04_05
+Podría parecer así…
+$GEN_016_07x08_04_06
+Vamos, solo es una anciana.
+$GEN_016_07x08_04_07
+El señor Houllier afirma que fue un intento de agresión. Incluso sugirió que podría tratarse de una venganza.
+$GEN_016_07x08_04_08
+¡En absoluto! Ni siquiera me di cuenta de que tenía ese trozo de vidrio en la mano. Estaba en shock, y había tanta sangre.
+$GEN_016_02x04_05_QTitle
+¿Y el apoyo de su esposo? ¿No notó su…?
+$GEN_016_02x04_05_00
+¿Y el apoyo de su esposo? ¿No notó su estado de fragilidad ni sospechó que pudiera hacer algo drástico?
+$GEN_016_02x04_05_01
+Desde que la lavandería dejó de funcionar, ha tenido que trabajar el doble.
+$GEN_016_02x04_05_02
+¿No cree que ahora estará aún más preocupado?
+$GEN_016_02x04_05_03
+¡Tenía que hacer algo! Después de todo lo que ha hecho por mí, simplemente no podía quedarme mirando cómo cada día se agotaba más.
+$GEN_016_02x04_05_04
+¡Déjalos en paz! ¿Acaso no tienes suficientes criminales de verdad?
+$GEN_016_04x06_06_QTitle
+¿Está seguro de que no está exagerando…?
+$GEN_016_04x06_06_00
+¿No crees que estás exagerando? Tarde o temprano las provisiones habrían vuelto y los precios se habrían estabilizado. ¿Quizás deberías haber tenido más paciencia?
+$GEN_016_04x06_06_01
+Quizá, pero soy una mujer sencilla y trato de resolver los problemas lo antes posible.
+$GEN_016_04x06_06_02
+¿Acaba de admitir que no pensó en las consecuencias porque no lo pensó lo suficiente? ¿Por qué no llamarlo como es? Estupidez.
+$GEN_016_04x06_06_03
+Eso es un poco excesivo, ¿no te parece?
+$GEN_016_04x06_06_04
+Utilizo palabras sencillas cuando hablo con gente sencilla.
+$GEN_016_04x06_06_05
+¿Quiénes se creen que somos?
+$GEN_016_08x03_07_QTitle
+Hagan pasar al señor Raymond Houllier.
+$GEN_016_08x03_07_00
+Haga pasar al señor Raymond Houllier.
+$GEN_016_08x03_07_02
+¿Conoce usted a la acusada? ¿Ha comprado algo en su tienda antes?
+$GEN_016_08x03_07_03
+No, nunca la había visto hasta hace poco.
+$GEN_016_08x03_07_04
+Describe el momento en que se conocieron por primera vez.
+$GEN_016_08x03_07_05
+Quería comprar jabón, pero no tenía dinero.
+$GEN_016_08x03_07_06
+¿Qué hizo usted?
+$GEN_016_08x03_07_07
+¡Le dije que se fuera! Todos tenemos nuestros problemas y nadie me ayuda a mí.
+$GEN_016_08x03_07_08
+¿Ella te prometió devolverte el dinero?
+$GEN_016_08x03_07_09
+Sí, pero ¿por qué habría de creerle? No la conocía, y nunca antes había comprado nada en mi tienda. Solo mis clientes habituales pueden llevarse algo a crédito.
+$GEN_016_WIT_00_A_QTitle
+¿Cómo describiría el comportamiento del ciudadano Gignac ese día?
+$GEN_016_WIT_00_A_00
+¿Cómo describiría el comportamiento de la ciudadana Gignac ese día?
+$GEN_016_WIT_00_A_01
+Rompió mi ventana e intentó apuñalarme con un trozo de vidrio. ¿Qué más hay que contar?
+$GEN_016_WIT_00_A_02
+Responda a la pregunta.
+$GEN_016_WIT_00_A_03
+Estaba furiosa y buscaba venganza.
+$GEN_016_WIT_00_A_04
+¿Quizás en realidad no tenía intención de atacarte?
+$GEN_016_WIT_00_A_05
+¿Entonces por qué correría hacia mí con un trozo de vidrio?
+$GEN_016_WIT_00_B_QTitle
+¿Dijo algo la señora Gignac cuando, según usted, intentó apuñalarle con un trozo de vidrio?
+$GEN_016_WIT_00_B_00
+¿Dijo algo la señora Gignac cuando, según usted, intentó apuñalarle con un trozo de vidrio?
+$GEN_016_WIT_00_B_01
+Nada concreto, solo quejas, llantos, gritos…
+$GEN_016_WIT_00_B_02
+¿Entendiste algo que pudieras citar?
+$GEN_016_WIT_00_B_03
+No, solo eran los balbuceos de una loca, nada más.
+$GEN_016_WIT_00_B_04
+¿La inmovilizó?
+$GEN_016_WIT_00_B_05
+Se podría decir eso.
+$GEN_016_WIT_00_B_06
+Golpeó a una anciana.
+$GEN_016_WIT_00_B_07
+¿Habló con ella después?
+$GEN_016_WIT_00_B_08
+No, lloró todo el camino hasta la comisaría.
+$GEN_016_KEY_01
+Mujer devota
+$GEN_016_KEY_02
+Esposo
+$GEN_016_KEY_03
+Intento de robo
+$GEN_016_KEY_04
+Desesperación
+$GEN_016_KEY_05
+Especulación con jabón
+$GEN_016_KEY_06
+Escasez de jabón
+$GEN_016_KEY_07
+Venganza
+$GEN_016_KEY_08
+Vidrio ensangrentado
+$GEN_016_LastDialog_00
+Ay, Dios mío, ¿por qué? ¿Qué será de mi lavandería? Apenas habíamos empezado a vivir como personas y no como animales…
+$GEN_016_UNIQUE_QUESTION_00
+¿Intentó el acusado comprar jabón?
+$GEN_016_UNIQUE_ANSWER_CORRECT_00_00
+Sí, pero no tenía suficiente dinero.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Sí, pero Houllier se negó a venderlo.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_00_01
+No, vino directamente a robarlo.
+$GEN_016_UNIQUE_QUESTION_01
+¿Es la lavandería la única fuente de ingresos para la familia de la acusada?
+$GEN_016_UNIQUE_ANSWER_CORRECT_01_00
+No, su esposo es carpintero.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_01_00
+No, su hijo está sirviendo en el ejército.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Sí, nadie más en su familia trabaja.
+$GEN_016_UNIQUE_QUESTION_02
+¿Dijo algo el acusado a la víctima durante el ataque?
+$GEN_016_UNIQUE_ANSWER_CORRECT_02_00
+No, solo gritó algo incomprensible.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Sí, dijo que iba a matarlo.
+$GEN_016_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Ella le ordenó que le diera el jabón.

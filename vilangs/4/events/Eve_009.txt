@@ -1,0 +1,18 @@
+$EVE_009_TITLE
+Befehl ist Befehl
+$EVE_009_INTRO
+Monsieur Richter, zwei Straßen weiter hat sich eine Tragödie ereignet. Die Leute rufen nach einem Richter!
+$EVE_009_C00
+Nach draußen gehen
+$EVE_009_MAIN_01
+Der Wachmann führt Sie eilig zum Tatort, wo eine wütende Menschenmenge versammelt ist. Sie haben mehrere bewaffnete Soldaten umringt, die versuchen, die Zivilisten von zwei Männern fernzuhalten, die mit dem Gesicht zur Wand stehen. Schon bald erfahren Sie, dass Kommandant François Hanriot in Abwesenheit die Hinrichtung von Verbrechern angeordnet hat, die versucht hatten, Waffen aus einem Militärtransport zu stehlen. Das Volk fordert Ihr Eingreifen und ein faires Verfahren, doch es wäre unklug, den Befehl eines Kommandanten anzuzweifeln – besonders eines Mannes, der durch Ihr Zutun aufgestiegen ist…
+$EVE_009_MAIN_01_C1
+Befehlen Sie, die Festgenommenen zu erschießen
+$EVE_009_MAIN_01_C2
+Befehlen Sie, die Männer freizulassen
+$EVE_009_MAIN_02A
+Dutzende Menschen starren Sie überrascht an, während die Soldaten zum Schuss anlegen. BAM! Die beiden Männer brechen leblos zusammen. Es gibt nichts mehr zu sehen, und Sie gehen…
+$EVE_009_MAIN_02B
+Die Leute nicken zustimmend. Die verwirrten Soldaten gehorchen schließlich und bringen die Männer ins Gefängnis. Doch täuschen Sie sich nicht: Auch wenn ein anderer Richter über ihren Prozess entscheidet, werden Sie die Folgen zu spüren bekommen. Jemand wird für den Schaden an der Ehre des Kommandanten bezahlen müssen.
+$EVE_009_MAIN_03
+Ich habe gehört, dass nach deinem Eingreifen bei der Hinrichtung ein Soldat erschossen wurde, weil er den Befehl seines Kommandanten verweigerte. Es war genau jener Befehl, dessen Ausführung du untersagt hast, und zwei weitere Soldaten sollen ebenfalls körperlich bestraft werden. Dein stilles Bündnis mit Hanriot könnte in Gefahr sein.

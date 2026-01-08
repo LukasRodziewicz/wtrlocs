@@ -1,0 +1,30 @@
+$CUT_049_001
+Der Agent, den Sie gestern zum Schweigen bringen wollten… Es ist erledigt, aber Sie sollten sich etwas ansehen.
+$CUT_049_002_JUDGE
+Wollen Sie mir etwa eine gewöhnliche Leiche zeigen?
+$CUT_049_003_GUARDSMAN
+Das ist nicht einfach nur eine Leiche. Sehen Sie sich diese Halskette an.
+$CUT_049_004_JUDGE
+Eine Lilie der Bourbonen.
+$CUT_049_005_GUARDSMAN
+Da verbirgt sich noch mehr unter seiner Kleidung.
+$CUT_049_006_GUARDSMAN
+Wir haben eine Nachricht in der Innentasche seines Mantels gefunden.
+$CUT_049_007_GUARDSMAN
+Es ist ein Befehl. Jemand hat diesem Mann aufgetragen, im Viertel Unterstützung für einen geheimnisvollen „R“ zu organisieren.
+$CUT_049_008_JUDGE
+Wer ist so vermessen, Ludwigs Platz einnehmen zu wollen?
+$CUT_049_009_GUARDSMAN
+Nur der Adel ist einflussreich genug, um heimlich Leute wie ihn zu engagieren.
+$CUT_049_010_JUDGE
+Selbst sie bräuchten Unterstützung von jemandem im Konvent. Wer also ist „R“?
+$CUT_049_011_GUARDSMAN
+Robespierre vielleicht? Wenn er sich mit den Aristokraten verbündet, müssen wir es… jemandem sagen, allen!
+$CUT_049_012_JUDGE
+Es könnte auch Minister Roland sein. Solange wir uns nicht sicher sind, würden wir nur Panik auslösen.
+$CUT_049_013_GUARDSMAN
+Wenn das so ist, müssen wir die anderen Agenten aufspüren. Von diesem werden wir nichts mehr erfahren.
+$CUT_049_014_JUDGE
+Wir haben keine andere Wahl.
+$CUT_049_015_JUDGE
+Wenn dieses „R“ versucht, Unterstützung zu gewinnen, musst du es ihm gleichtun. Zum Wohle aller…

@@ -1,0 +1,26 @@
+#INFLUENCE_TIP
+Influence
+#INCLUENCE_TIP_SHORT
+IP
+#INFLUENCE_INCOME_TIP
+Increased influence
+#COST_TIP
+Cost:
+#SUPPORT_FORMAT_TIP
+Endorsement: {0}
+#PEOPLE_SUPPORT_TIP
+Common Folk’s Endorsement
+#ARISTOCRATS_SUPPORT_TIP
+Aristocrats’ Endorsement
+#REVOLUTIONISTS_SUPPORT_TIP
+Revolutionaries’ Endorsement
+#REPUTATION_TIP
+Reputation
+#CLOSE_VIEW_TIP
+Close the view
+#START_DISCUSSION_TOOLTIP
+Commence Persuasion
+#OPEN_DISCUSSION_INFO
+Consult Your Notes
+#DECISION_NOT_ENOUGH_POINTS
+<color=#ff0000ff>You cannot afford to perform this action.</color>

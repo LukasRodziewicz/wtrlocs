@@ -1,0 +1,275 @@
+$GEN_055_DOC_01_HEADER
+Sporządził: Charles Étienne
+$GEN_055_DOC_01_00
+	Percivall Hill, 54-letni medyk brytyjskiego pochodzenia mieszkający na stałe w Paryżu, został oskarżony o liczne morderstwa dokonane na swoich pacjentach. Działalność lekarza przykuła uwagę medycznego świata, gdy do paryskich księgarń i na stoiska bukinistów trafiła jego książka, nosząca tytuł "Traktat o budowie i rozwoju neoplasmy".
+$GEN_055_DOC_01_01
+	Publikacja ta zawiera <a name="3" class="hidden">liczne ryciny</a>, które szczegółowo pokazują <a name="4" class="hidden">narośle</a> powstające zarówno na skórze, jak i na organach wewnętrznych pacjentów. Jak ustaliliśmy w rozmowie z księgarzami, pozycja ta, choć przeznaczona raczej dla specyficznego odbiorcy, szybko <a name="5" class="hidden">znikała z półek</a>.
+$GEN_055_DOC_01_02
+	Około miesiąca po tym, jak traktat ukazał się drukiem, 12 paryskich lekarzy złożyło wspólny donos na autora. Ich zdaniem przynajmniej trzy czwarte pacjentów, na których Hill dokonał <a name="7" class="hidden">sekcji zwłok</a>, nie miało prawa umrzeć w tak wczesnym stadium choroby. Stąd wniosek, że musiał ich zabijać, żeby przeprowadzić badania.
+$GEN_055_DOC_01_03
+	Gabinet medyka, mieszczący się na wyspie Braterstwa, został dokładnie przeszukany. Sala zabiegowa była pusta i wysprzątana. Zainteresowały nas jednak <a name="8" class="hidden">zapiski asystenta</a> doktora Hilla. 
+$GEN_055_DOC_02_00
+Zapiski asystenta
+$GEN_055_DOC_02_01
+	Dwunasta w tym miesiącu sekcja zakończyła się pełnym powodzeniem. W jelicie grubym François Malleta dopiero zaczęła rozwijać się neoplasma. Zdążyliśmy zaobserwować ją w nieznanym dotąd nauce, bardzo wczesnym stadium. Teraz musimy wytypować pacjenta, u którego choroba poczyniła jeden, najwięcej dwa kolejne kroki, i „pozyskać” go do naszych badań.
+$GEN_055_OnStart_00
+Wydaje się, że doktor Hill zapomniał, że nauka ma służyć ludziom, nie ludzie nauce.
+$GEN_055_OnStart_01
+Doktor Hill, autor "Traktatu o budowie i rozwoju neoplasmy", zgadza się?
+$GEN_055_OnStart_02
+To ja.
+$GEN_055_OnStart_03
+Zostaliście oskarżeni o zabójstwo własnych pacjentów. Chcecie coś powiedzieć?
+$GEN_055_OnStart_04
+Nie przyznaję się do winy.
+$GEN_055_OnStart_05
+Jak wytłumaczycie tak dużą liczbę sekcji przeprowadzanych w waszym gabinecie?
+$GEN_055_OnStart_06
+Gdybym tylko w Paryżu miał zaufanego pomocnika, mógłbym przeprowadzać ich znacznie więcej.
+$GEN_055_OnStart_07
+Lekarz ma leczyć, a nie martwych kroić!
+$GEN_055_OnStart_08
+Wszystkich waszych pacjentów zabiła neoplasma?
+$GEN_055_OnStart_09
+Ależ nie, nie wszystkich. Ci nieszczęśliwcy umierali od zakażeń, wypadków czy w trakcie pijackich bijatyk. 
+$GEN_055_OnGuilty_00
+Doktorze Hill, wasza działalność była zbrodnicza i obrzydliwa. Skazuję was na karę śmierci.
+$GEN_055_OnGuilty_01
+Jego ciało też pociąć na kawałki!
+$GEN_055_OnPrison_00
+Obywatelu, wasze cele były słuszne, ale metody… Skazuję was na więzienie.
+$GEN_055_OnPrison_01
+Mało!
+$GEN_055_OnPrison_02
+Potwór na gilotynę!
+$GEN_055_OnNotGuilty_00
+Zawistnicy rzucili na doktora Hilla fałszywe oskarżenia. Obywatelu, życzę powodzenia w dalszej walce z chorobą. Jesteście wolni.
+$GEN_055_OnNotGuilty_01
+Co to ma znaczyć?
+$GEN_055_OnNotGuilty_02
+To on ich zabił w końcu czy nie?
+$GEN_055_OnNotGuilty_03
+Niczego nie rozumiem.
+$GEN_055_03x07_00_QTitle
+Wasze badania zajmowały wam wiele czasu?
+$GEN_055_03x07_00_00
+Wasze badania zajmowały wam wiele czasu?
+$GEN_055_03x07_00_01
+Oczywiście. Samo rysowanie to mrówcza robota.
+$GEN_055_03x07_00_02
+Rozumiem, że potrzebowaliście na te badania także pieniędzy.
+$GEN_055_03x07_00_03
+To prawda, z samej praktyki lekarskiej trudno byłoby je sfinansować.
+$GEN_055_03x07_00_04
+Skąd więc je mieliście?
+$GEN_055_03x07_00_05
+Od mojego brytyjskiego wydawcy, Harolda Waltera Smitha. Podpisałem z nim umowę na publikację, a on wpłacił mi zaliczkę na poczet honorarium.
+$GEN_055_03x07_00_06
+Każdy, kto bierze pieniądze od Brytyjczyków, to zdrajca!
+$GEN_055_03x07_00_07
+Trzymam się z daleka od polityki…
+$GEN_055_03x07_00_08
+Oskarżony raczy nie zgrywać idioty. W dobie wojny z Anglią współpracujecie z tamtejszymi wydawcami. To jest polityka, a w dodatku może nawet zdrada!
+$GEN_055_05x04_01_QTitle
+Wasza książka wyczerpała temat narośli?
+$GEN_055_05x04_01_00
+Wasza książka wyczerpała temat narośli?
+$GEN_055_05x04_01_01
+Ależ skąd, będziemy tę chorobę badać jeszcze przez lata.
+$GEN_055_05x04_01_02
+Zabijając ludzi?
+$GEN_055_05x04_01_03
+Milczcie lepiej, bo nie macie pojęcia, o czym mówicie.
+$GEN_055_05x04_01_04
+Obywatelu, ja będę uciszał ludzi w tym sądzie, a nie wy.
+$GEN_055_05x04_01_05
+Przepraszam, irytuje mnie ignorancja.
+$GEN_055_05x04_01_06
+Planujecie więc kontynuować badania?
+$GEN_055_05x04_01_07
+Oczywiście. Nie spocznę i nie cofnę się przed niczym, dopóki nie znajdę broni, która zabije tego potwora.
+$GEN_055_05x04_01_08
+Czyli dalej będziecie mordować, przyznajecie to otwarcie?!
+$GEN_055_05x04_01_09
+Ja działam dla dobra nauki, a nie grabarzy! Przeciw nieukom jak ci za mną i ten oto prokurator!
+$GEN_055_05x04_01_10
+Jak sędzia nie ukatrupi tego bydlaka, to my to zrobimy!
+$GEN_055_04x07_02_QTitle
+Czym były narośle, które badaliście?
+$GEN_055_04x07_02_00
+Czym były narośle, które badaliście?
+$GEN_055_04x07_02_01
+Starożytni nazywali tę chorobę rakiem lub neoplasmą. To przerażające schorzenie.
+$GEN_055_04x07_02_02
+Śmiertelne?
+$GEN_055_04x07_02_03
+Tak, umiera się od niego w strasznych mękach.
+$GEN_055_04x07_02_04
+Często pojawia się u pacjentów?
+$GEN_055_04x07_02_05
+Dość często, choć równie często pacjent żyje z nim przez lata i umiera, nawet nie wiedząc, że w jego ciele rozwijała się już śmierć.
+$GEN_055_04x07_02_06
+Bzdury i szarlataneria!
+$GEN_055_04x07_02_07
+Ciemniaki! Nie macie pojęcia, co jest dla was dobre!
+$GEN_055_04x07_02_08
+Oskarżony z woli tych, których teraz obraża, znajdzie się lada moment na gilotynie!
+$GEN_055_04x07_02_09
+Zwykłym ludziom nie powinno się dawać prawa głosu, jeśli chodzi o naukę.
+$GEN_055_06x03_03_QTitle
+Dokonaliście niemal 150 sekcji zwłok. Jak to wytłumaczycie?
+$GEN_055_06x03_03_00
+Dokonaliście niemal 150 sekcji zwłok. Jak to wytłumaczycie?
+$GEN_055_06x03_03_01
+Ich było znacznie więcej, lecz tylko niecałe 150 nadawało się do publikacji.
+$GEN_055_06x03_03_02
+Pytam, jak to możliwe, że znaleźliście tak wielu pasujących do waszej książki zmarłych.
+$GEN_055_06x03_03_03
+Musiałem mieć szczęście.
+$GEN_055_06x03_03_04
+On jest bezczelny!
+$GEN_055_06x03_03_05
+Oni wszyscy byli waszymi pacjentami?
+$GEN_055_06x03_03_06
+Nie, chodziłem do szpitali i szukałem ludzi narzekających na konkretne dolegliwości. Takich, u których podejrzewałem chorobę.
+$GEN_055_06x03_03_07
+I czekaliście, aż umrą?
+$GEN_055_06x03_03_08
+Tak.
+$GEN_055_08x01_04_QTitle
+Wzywam na świadka Louisa Delona.
+$GEN_055_08x01_04_00
+Wzywam na świadka Louisa Delona.
+$GEN_055_08x01_04_02
+Louis Delon, asystent doktora Hilla?
+$GEN_055_08x01_04_03
+Tak jest.
+$GEN_055_08x01_04_04
+Wasz pracodawca został oskarżony o mordowanie własnych pacjentów. Co macie na ten temat do powiedzenia?
+$GEN_055_08x01_04_05
+Oni wszyscy przychodzili do doktora po pomoc, a on starał się robić dla nich, co mógł. Nic więcej tu nie ma do powiedzenia.
+$GEN_055_08x01_04_06
+Wszystkie przypadki z książki to byli prywatni pacjenci doktora Hilla?
+$GEN_055_08x01_04_07
+Tak, Wysoki Sądzie.
+$GEN_055_02x05_05_QTitle
+Wasza książka dobrze się sprzedawała?
+$GEN_055_02x05_05_00
+Wasza książka dobrze się sprzedawała?
+$GEN_055_02x05_05_01
+Nie narzekam, pierwszy nakład prawie się wyczerpał.
+$GEN_055_02x05_05_02
+Zarobiliście na tym?
+$GEN_055_02x05_05_03
+Ludzie, na morderstwach kabzę nabijał!
+$GEN_055_02x05_05_04
+Oczywiście, ale to nieważne.
+$GEN_055_02x05_05_05
+A co jest dla was ważne?
+$GEN_055_02x05_05_06
+Ta choroba zabiła więcej ludzi niż ogień i dzikie zwierzęta razem wzięte. Musimy ją poznać, zanim zabije nas wszystkich. Trzymając mnie tutaj, opóźniacie postęp! Przyszłe pokolenia wam za to nie podziękują.
+$GEN_055_02x05_05_07
+Bylibyście gotowi zabić, żeby lepiej poznać tę chorobę?
+$GEN_055_02x05_05_08
+Każdy nowy skrawek wiedzy to setki uratowanych żyć w przyszłości.
+$GEN_055_02x05_05_09
+Odpowiedzcie na pytanie.
+$GEN_055_02x05_05_10
+Nie wiem, bo nigdy nie musiałem podejmować takiej decyzji.
+$GEN_055_08x03_06_QTitle
+Wasz asystent zapisał, że szukaliście do waszych rycin konkretnych pacjentów.
+$GEN_055_08x03_06_00
+Wasz asystent zapisał, że szukaliście do waszych rycin konkretnych pacjentów.
+$GEN_055_08x03_06_01
+Chciałem pokazać różne przypadki neoplasmy. Inaczej choroba wygląda, gdy atakuje płuca, a inaczej na pęcherzu. To ważne dla nauki.
+$GEN_055_08x03_06_02
+Cytuję zapiski: „Musimy wytypować pacjenta i »pozyskać« go do naszych badań”. To nie brzmi, jakbyście czekali, aż właściwy pacjent umrze.
+$GEN_055_08x03_06_03
+Zapiski tego durnia to jego prywatna sprawa, ja nic o tym nie wiem.
+$GEN_055_08x03_06_04
+Wydaje się, że coś musicie jednak o tym wiedzieć.
+$GEN_055_08x03_06_05
+Nie mam niczego do powiedzenia na ten temat.
+$GEN_055_08x03_06_06
+Monstrum, a nie lekarz!
+$GEN_055_WIT_00_A_QTitle
+Krewni pacjentów godzili się na sekcje?
+$GEN_055_WIT_00_A_00
+Krewni pacjentów godzili się na sekcje?
+$GEN_055_WIT_00_A_01
+Tak. Jak się godzili, nie musieli płacić rachunku doktorowi.
+$GEN_055_WIT_00_A_02
+To brzmi jak szantaż.
+$GEN_055_WIT_00_A_03
+Raczej uczciwy układ. Ci ludzie byli najczęściej biedni. To było dla nich jak manna z nieba.
+$GEN_055_WIT_00_A_04
+Wielcy łaskawcy!
+$GEN_055_WIT_00_B_QTitle
+Zapisaliście w notatniku, że musicie pozyskać nowego pacjenta do badań.
+$GEN_055_WIT_00_B_00
+Zapisaliście w notatniku, że musicie pozyskać nowego pacjenta do badań. Jak mam to rozumieć?
+$GEN_055_WIT_00_B_01
+...
+$GEN_055_WIT_00_B_02
+Proszę odpowiedzieć.
+$GEN_055_WIT_00_B_03
+To tylko takie wyrażenie.
+$GEN_055_WIT_00_B_04
+W jaki sposób pozyskiwaliście pacjentów do badań?
+$GEN_055_WIT_00_B_05
+Czekaliśmy, aż ktoś umrze w wypadku albo...
+$GEN_055_WIT_00_B_06
+Albo?
+$GEN_055_WIT_00_B_07
+Albo od choroby, to wszystko. Ja byłem tylko asystentem.
+
+$GEN_055_KEY_01
+Pacjenci
+$GEN_055_KEY_02
+Książka
+$GEN_055_KEY_03
+Ryciny
+$GEN_055_KEY_04
+Narośl
+$GEN_055_KEY_05
+Wyprzedany nakład
+$GEN_055_KEY_06
+Paryscy lekarze
+$GEN_055_KEY_07
+Sekcja zwłok
+$GEN_055_KEY_08
+Zapiski asystenta
+
+
+$GEN_055_LastDialog_00
+Zabijacie naukę, współczując tym, dla których i tak nie było ratunku. Uratowalibyście ich? Moja śmierć uratuje innych?
+
+$GEN_055_UNIQUE_QUESTION_00
+Skąd lekarz miał pieniądze na badania?
+$GEN_055_UNIQUE_ANSWER_CORRECT_00_00
+Od brytyjskiego wydawcy.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Od bogatego chorego, szukającego lekarstwa.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Od francuskiego rządu.
+
+$GEN_055_UNIQUE_QUESTION_01
+Jak lekarz wymuszał na rodzinie zgodę na sekcję zmarłych?
+$GEN_055_UNIQUE_ANSWER_CORRECT_01_00
+Darował im rachunki za leczenie.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Groził im.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Oferował pieniądze.
+
+$GEN_055_UNIQUE_QUESTION_02
+Gdzie doktor Hill szukał przypadków do książki?
+$GEN_055_UNIQUE_ANSWER_CORRECT_02_00
+W szpitalach.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_02_00
+U znajomych lekarzy.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_02_01
+W kostnicach.
+
+
+

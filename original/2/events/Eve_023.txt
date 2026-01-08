@@ -1,0 +1,26 @@
+$EVE_023_TITLE
+École d'escrime
+$EVE_023_MAIN_01
+Horace Lavalle, un célèbre escrimeur, veut enseigner son art dans une école privée qu'il installerait dans une des sections de Paris. Cependant, même les personnes les plus célèbres ne peuvent pas toujours répondre aux… « besoins » des fonctionnaires locaux. Lavalle est venu vous voir lorsque les employés de la mairie ont exigé un pot-de-vin trop élevé en échange des documents et permis nécessaires. Il ne veut pas vous donner de noms, car il ne souhaite pas pointer du doigt des fonctionnaires en particulier, mais il pense que l'appui d'un juge sera suffisant pour les convaincre d'accepter un « cadeau » plus adapté à ses moyens.
+$EVE_023_MAIN_01_C1
+Annoncer que vous soutenez l'escrimeur
+$EVE_023_MAIN_01_C2
+Ignorer sa demande
+$EVE_023_MAIN_02A
+Vous avez pris le temps d'écrire une lettre sur les pots-de-vin, les besoins de Paris et de ses habitants, les dangers d'une guerre imminente et la corruption absolument monstrueuse des fonctionnaires. Vous avez juré de poursuivre les criminels qui empêchent des gens comme Horace Lavalle de travailler à la grandeur de la République. Le message a dû être assez clair, car les fonctionnaires n'ont absolument rien demandé en échange de leurs « efforts ».
+$EVE_023_MAIN_02B
+Vous étiez prévenu, Horace Lavalle est un escrimeur très célèbre, et tout Parisien souhaitant acquérir de l'influence ferait bien de cultiver l'amitié de gens comme lui. Mais vous n'avez rien écouté. Eh bien, Danton a aussi entendu parler de cette affaire et a payé les fonctionnaires qui ennuyaient son nouvel ami. Maintenant, Lavalle doit un service à votre rival.
+$EVE_023_MAIN_02B_C1
+Ordonner d'arrêter les fonctionnaires corrompus
+$EVE_023_MAIN_02B_C2
+Discréditer l'escrimeur
+$EVE_023_MAIN_02B_C3
+Arrêter les fonctionnaires et discréditer l'escrimeur
+$EVE_023_MAIN_02B_C4
+Oublier toute cette affaire
+$EVE_023_MAIN_03A
+L'argent de Danton n'a pas d'odeur et les fonctionnaires se moquent parfaitement de savoir qui renfloue leur budget. Comment auraient-ils pu imaginer que vous vous vengeriez de quelque chose d'aussi courant et humain qu'un « remerciement pour service rendu » ?
+$EVE_023_MAIN_03B
+Les gens comme Marat sont toujours heureux d'organiser le procès d'idiots qui sont montés dans l'échelle sociale par des procédés douteux. Ils sont encore plus heureux d'écrire sur les pervers qui font du mal aux enfants. Un mot discret ici ou là a été suffisant, les rumeurs de comportement indécent envers les jeunes gens ont tendance à rester dans les esprits. Notre cher escrimeur est maintenant connu partout comme un monstre.
+$EVE_023_MAIN_03C
+Voilà ce que j'appelle ne rien manquer : les fonctionnaires ne sont pas près d'oublier qu'ils risquent votre courroux s'ils acceptent l'argent de Danton à l'avenir. Les Parisiens vont aussi découvrir que le respecté escrimeur aime rencontrer seul à seul de pauvres orphelins qui ont du mal à joindre les deux bouts. Vous détruirez quiconque se dresse sur votre chemin. Cette attitude exige une grande force de caractère.

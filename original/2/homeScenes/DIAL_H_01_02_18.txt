@@ -1,0 +1,30 @@
+$DIAL_H_01_02_18_001_JUDGE
+Quand as-tu rencontré mon frère, Bruno ?
+$DIAL_H_01_02_18_002_SPY
+Nous servions dans la même brigade, et il m'a sauvé la vie. Il a mis sa vie en péril, me traînant hors du champ de bataille alors que j'étais blessé. Il n'a malheureusement pas connu le même sort que moi.
+$DIAL_H_01_02_18_003_WIFE
+Nous avons consacré beaucoup trop de temps à cet homme, que ce soit dans nos pensées ou dans nos histoires.
+$DIAL_H_01_02_18_004_JUDGE
+Je veux savoir…
+$DIAL_H_01_02_18_005_GRANDFATHER
+Moi aussi.
+$DIAL_H_01_02_18_006_SPY
+Il est mort d'une balle perdue. Je n'ai jamais pu le remercier de m'avoir sauvé la vie. C'était un véritable ami, je peux te l'assurer.
+$DIAL_H_01_02_18_007_SPY
+Ton frère m'a sauvé et traîné hors du champ de bataille. Alors que nous atteignions les arbres, il reçut une balle perdue dans le dos.
+$DIAL_H_01_02_18_008_SPY
+Il est mort presque sur le coup et j'ai… déserté. Je me devais de te remercier, toi qui partages son sang, et de rembourser cette dette avec mes actions.
+$DIAL_H_01_02_18_009_JUDGE
+Bruno a donc payé le prix de ses péchés.
+$DIAL_H_01_02_18_010_GRANDFATHER
+Mon fils…
+$DIAL_H_01_02_18_011_SPY
+Il disait souvent, « Alexis, mon frère, est ce que j'ai de plus important. » Tu devais beaucoup compter pour lui.
+$DIAL_H_01_02_18_BATTLEROUND_1
+Notre arrière-garde a combattu l'ennemi mais a perdu la bataille. Ils ont envahi le camp où on nous pansait les plaies. Nous avons dû prendre les armes.
+$DIAL_H_01_02_18_BATTLEROUND_2
+Ton frère menait une lutte acharnée, les soldats se rassemblaient autour de lui.
+$DIAL_H_01_02_18_BATTLEROUND_3
+Nous espérions recevoir de l'aide, mais au fond, nous savions qu'il serait trop tard…
+$DIAL_H_01_02_18_BATTLEROUND_4
+Je reçus un coup de baïonnette. Je gisais sur le sol, me vidant de mon sang, tandis que mes camarades se faisaient massacrer les uns après les autres par les balles.

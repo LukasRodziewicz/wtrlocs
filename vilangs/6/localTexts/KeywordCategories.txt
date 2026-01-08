@@ -1,0 +1,28 @@
+$KEYWORD_CATEGORY_001
+Personalidad del acusado
+$KEYWORD_CATEGORY_002
+Motivo
+$KEYWORD_CATEGORY_003
+Circunstancias atenuantes
+$KEYWORD_CATEGORY_004
+Acusación
+$KEYWORD_CATEGORY_005
+Pruebas
+$KEYWORD_CATEGORY_006
+Testimonio
+$KEYWORD_CATEGORY_007
+Escena del crimen
+$KEYWORD_CATEGORY_008
+Testigos
+$KEYWORD_CATEGORY_009
+Método
+$KEYWORD_CATEGORY_010
+Instrumento del crimen
+$KEYWORD_CATEGORY_011
+Contrarrevolución
+$KEYWORD_CATEGORY_012
+Curso de los acontecimientos
+$KEYWORD_CATEGORY_013
+Víctima
+$KEYWORD_CATEGORY_014
+Defensa

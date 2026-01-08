@@ -1,0 +1,62 @@
+$MAP_PATROL_001_JUDGE_AGGR
+Bu artık haddini aşmak! Çok ileri gittiniz, Yurttaşlar! Bu “yanlış anlama” başınıza mal olacak!
+$MAP_PATROL_002_JUDGE_MANI
+Yanlış adamı yakaladınız. Neyse ki ona zarar vermediniz... Sonuçları çok ağır olabilirdi. Ne büyük bir yanlış anlaşılma...
+$MAP_PATROL_003_JUDGE_JOKE
+Neyse ki karşımda siz vardınız, yoksa hırslı Muhafızlardan biri olabilirdi. Bu yanlış anlamayı en kısa sürede çözeceğiz.
+$MAP_PATROL_004_JUDGE_HUMI
+Değerli yurttaşlarım, bu adamı serbest bırakmak zorundayız. Korkunç bir yanlış anlaşılma oldu — ne yazık ki, Devrim bile her zaman yanılmaz değildir.
+$MAP_PATROL_005_PATROL_INTR
+Peki, nedenmiş o?
+$MAP_PATROL_006_PATROL_DOUB
+Ne eğlence. Herhalde kulağımda bir sorun var. Casus yakalamak artık “yanlış anlaşılma” mı oldu?
+$MAP_PATROL_007_PATROL_IRRI
+Bütün bu işi halının altına mı süpürüyorsunuz, sayın yargıç?
+$MAP_PATROL_008_JUDGE_AGGR
+Devrimci Mahkeme’nin bir yardımcısını yakaladınız!
+$MAP_PATROL_009_JUDGE_MANI
+Devrimci Mahkeme'nin gizli bir ajanını yakaladınız.
+$MAP_PATROL_010_JUDGE_JOKE
+Saçmalık! Tutukladığınız kişi aslında benim için çalışıyor.
+$MAP_PATROL_011_JUDGE_HUMI
+Bu, yardımcılarımdan biri. Affedin beni beyler, sizi daha önce bilgilendirmediğim için.
+$MAP_PATROL_016_JUDGE_AGGR
+Yaptıkların ihanet kokuyor! Bana karşı durmadan önce iki kez düşün.
+$MAP_PATROL_017_JUDGE_MANI
+Hem Devrime hem de kendinize zarar veriyorsunuz! Sizi vatana ihanetten tutuklatabilirim.
+$MAP_PATROL_018_JUDGE_JOKE
+Bugünlerde, ihanetten dolayı başını kaybetmek hiç de zor değil. Ajanımı elinizde tutmak ise bu konuda size fazlasıyla yardımcı olur.
+$MAP_PATROL_019_JUDGE_HUMI
+Onu serbest bırakmazsanız, sizi vatana ihanetten suçlamak zorunda kalacağım. Lütfen kişisel algılamayın, Cumhuriyet’i korumak zorundayım.
+$MAP_PATROL_020_JUDGE_AGGR
+Gerçek hainleri aramakla meşgul olun... ve ajanlarımı bir daha rahatsız etmemeye özellikle dikkat edin. Bunu başaramazsanız, küçük sohbetimizi tekrar gözden geçirmek zorunda kalırız!
+$MAP_PATROL_021_JUDGE_MANI
+Dışarıda gerçek hainler var. Onları ortaya çıkarın ve bu tür başarısızlıklar sizi yıldırmasın. Yalnız, bir dahaki sefere benim adamlarımı hedef almamaya özen gösterin.
+$MAP_PATROL_022_JUDGE_JOKE
+Herkes hata yapabilir. Sorun değil. Belki bir dahaki sefere soruşturmanızda daha şanslı olursunuz?
+$MAP_PATROL_023_JUDGE_HUMI
+Cumhuriyet için önemli bir iş yapıyorsunuz. Bu hata bunu değiştirmez. Girişimlerinizde desteğim sizinle, bunu aklınızdan çıkarmayın.
+$MAP_PATROL_024_PATROL_SATI
+Az kalsın kendi kardeşimizi linç ediyorduk, düşünebiliyor musun! İyi ki geldin, onun kafası için mızrağı bile bilemiştik. Senin bizim tarafta olman bizi sevindirdi. Sağlıcakla kal!
+$MAP_PATROL_025_PATROL_INTR
+Belki sizdendir, bilmiyorum, ama belli ki şehirde kaybolmuş. Biz onu bulduk ve memnuniyetle teslim ederiz, fakat ufak bir… buluntu ödülü de fena olmazdı.
+$MAP_PATROL_026_PATROL_DOUB
+Bana kalırsa, bize her şeyi anlatmıyorsunuz. Siz ikinizin ne iş çevirdiğini bilmiyorum ama her şey fazlasıyla şüpheli görünüyor. Beni ikna edemediniz.
+$MAP_PATROL_027_PATROL_IRRI
+Bizi aptal mı sanıyorsun? O zaman neden bu saçmalıkları anlatıyorsun?! Bekle sen, o adamın kim olduğunu öğreneceğiz ve seni vatana ihanetten suçlayacağız!
+$MAP_PATROL_BRIBE_00
+Umarım bu kese, devrimci ateşinizi biraz dindirir.
+$MAP_PATROL_BRIBE_01
+Bakarız. Şimdi defolun ve arkadaşınızı da yanınıza alın.
+$MAP_PATROL_TOPIC_01
+Bu adamın tutuklanması sadece bir yanlış anlaşılmaydı.
+$MAP_PATROL_TOPIC_02
+Tutukladığınız adam benim için çalışıyor.
+$MAP_PATROL_TOPIC_04
+Onu hapse atmak, Devrim’e karşı işlenmiş bir suçtur!
+$MAP_PATROL_TOPIC_05
+Gerçek suçluları aramalısınız.
+$MAP_PATROL_RESULT_SUCCESS
+Bir ajanı serbest bırakma: {0}
+$MAP_PATROL_RESULT_FAILD
+Bir ajanı serbest bırakmadınız: {0}

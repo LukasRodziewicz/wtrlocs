@@ -1,0 +1,218 @@
+$FAB_903_DOC_1_HEADER
+Discurso da acusação por Antoine Quentin Fouquier-Tinville
+$FAB_903_DOC_1_00
+Compatriotas! O cidadão Capet, anteriormente conhecido como rei Luís XVI da França, deve ser punido por conspirar contra o povo francês!
+$FAB_903_DOC_1_01
+Luís Capeto tentou defender sua autoridade absoluta conspirando contra a Assembleia Nacional Constituinte e o povo da França. Todos nos lembramos de julho de 1789. Ele reuniu um exército, quinze regimentos estrangeiros, e ordenou que cercassem Paris. Soldados sob o comando do Barão de Besenval deveriam capturar os deputados e atirar nos cidadãos que defendiam as reformas! E assim o fizeram! O Regimento Real Alemão foi o primeiro a derramar sangue!
+$FAB_903_DOC_1_02
+Após o fracasso do complô, Luís Capeto <a name="3" class="hidden">tentou fugir</a> do país com sua família e conspirar com monarcas estrangeiros no exterior. Não foi por isso que ele deixou as Tulherias numa noite de junho de 1791, usando o passaporte de outro? Não seguia ele para Montmédy, onde seus exércitos fiéis estavam de prontidão para levá-lo à Áustria? Se não fosse pelo mestre dos correios Drouet, esse plano poderia ter terminado em tragédia para nós.
+$FAB_903_DOC_1_03
+Louis Capet jamais abandonará a ideia de <a name="5" class="hidden">reprimir a Revolução pela força</a>. Antes dos acontecimentos de 1792, ele ordenou que a Guarda Suíça estacionada nas Tulherias fosse dobrada. Realizou uma revista pública diante de cidadãos horrorizados. O povo não teve escolha! Precisou agir antes que Capet atacasse! Cidadãos de Paris que tentaram conter a loucura foram alvejados, mesmo após a fuga de Capet para a Assembleia Nacional.
+$FAB_903_DOC_1_04
+Provas:
+Uma ordem emitida pelo marechal de Broglie ao barão de Besenval.
+<a name="6" class="hidden">Instruções</a> dadas pelo Ministro do Interior, Jean-Marie Roland.
+<a name="7" class="hidden">Uma carta de</a> Leopoldo II, Imperador.
+<a name="8" class="hidden">Uma carta de</a> Carlos Guilherme Fernando, Duque de Brunswick.
+$FAB_903_DOC_2_TOOLTIP
+Uma ordem emitida pelo marechal de Broglie ao barão de Besenval
+$FAB_903_DOC_2_00
+	Meu senhor! 
+	
+	Caso surja qualquer motivo, atire nos rebeldes sem hesitar, conforme ordenado por Sua Majestade. Não demonstre piedade, pois eles também não terão nenhuma. 
+														
+														V.F. de Broglie
+$FAB_903_DOC_3_TOOLTIP
+Instruções emitidas pelo Ministro do Interior, Jean-Marie Roland
+$FAB_903_DOC_3_00
+	Os deputados da chamada Assembleia Nacional devem ser interrogados com cautela e, caso algum deles demonstre bom senso e deixe de apoiar a Assembleia, recompense-o com uma pensão extraordinariamente generosa e transmita-lhe os agradecimentos de Sua Majestade.
+	
+$FAB_903_DOC_4_TOOLTIP
+Uma carta do imperador Leopoldo II:
+$FAB_903_DOC_4_00
+	Confiamos que, pela Graça e auxílio de Deus, Sua Majestade em breve chegará às fronteiras do Império, para que possamos garantir a segurança de SM e de Nossa Amada Irmã, bem como tomar as medidas necessárias para restabelecer a ordem natural da Europa dentro das fronteiras da França.
+	
+Sua Majestade Imperial, Imperador do Sacro Império Romano, Rei da Hungria, Boêmia, Croácia, Dalmácia, Eslavônia, Galícia, Lodoméria, etc. – Leopoldo II Habsburgo
+Ano do Senhor de 1791, 15 de maio.
+$FAB_903_DOC_5_TOOLTIP
+Uma carta de Carlos Guilherme Fernando, duque de Brunswick
+$FAB_903_DOC_5_00
+	Vossa Graça!
+	Em breve viremos em socorro de Vossa Majestade. Contudo, por ora, imploro a VM que reúna as tropas locais que ainda lhe são fiéis. Advertirei os súditos de VM de que qualquer um que ouse levantar a mão contra Vossa Majestade sofrerá as mais severas consequências.
+	Meus exércitos aguardam minhas ordens para conter a maré de anarquia no país de VM.
+	
+	Duque de Brunswick-Lüneburg, Charles William Ferdinand.
+	Ano do Senhor de 1792, 9 de junho.
+	
+$FAB_903_OnStart_GUARD_00
+Monsieur le juge, a multidão em frente ao prédio está furiosa. Um massacre pode acontecer a qualquer momento.
+$FAB_903_OnStart_GUARD_01
+Espalhou-se um boato sobre provas ocultas da traição do cidadão Capet. O povo enlouqueceu.
+$FAB_903_OnStart_KING_00
+Que provas?
+$FAB_903_OnStart_JUDGE_00
+Vou até eles. Peço que todos permaneçam em seus lugares até que eu volte.
+$FAB_903_OnStart_MENTOR_00
+É verdade. Foram encontradas provas da culpa de Capet.
+$FAB_903_OnStart_PROSECUTOR_00
+Sério?!
+$FAB_903_OnStart_00
+O réu gostaria de explicar por que ocultou de toda a Convenção o cofre de ferro e os documentos ali escondidos?
+$FAB_903_OnStart_01
+Não escondi nada da Convenção. Ninguém me perguntou sobre a existência dessas coisas.
+$FAB_903_OnStart_02
+Você manteve sua correspondência bem guardada, trancada a sete chaves. Só foi possível recuperá-la com a ajuda de um mestre chaveiro.
+$FAB_903_OnStart_03
+Todo parisiense abastado tem um armário com chave. Eu, por exemplo, tenho grande interesse em serralheria.
+$FAB_903_OnGuilty_00
+Condeno o cidadão Capet à morte na guilhotina! Levem o condenado.
+$FAB_903_OnGuilty_01
+Viva o povo!
+$FAB_903_OnGuilty_02
+Abaixo o tirano!
+$FAB_903_OnPrison_00
+Condeno o cidadão Capet à prisão! Levem-no daqui.
+$FAB_903_OnPrison_01
+Prendam o juiz imediatamente!
+$FAB_903_OnPrison_02
+Ultrajante!
+$FAB_903_OnNotGuilty_00
+O veredicto no caso do cidadão Capet é... inocente! O réu está livre para ir.
+$FAB_903_OnNotGuilty_01
+Prendam o juiz imediatamente!
+$FAB_903_OnNotGuilty_02
+Ultrajante!
+$FAB_903_04x05_00_QTitle
+Você tinha conhecimento dos planos do Imperador e do Duque de Brunswick. Por que não…?
+$FAB_903_04x05_00_00
+Você tinha conhecimento dos planos do Imperador e do Duque de Brunswick. Por que não alertou a Assembleia Nacional e o exército?
+$FAB_903_04x05_00_01
+…
+$FAB_903_04x05_00_02
+Você precisa falar mais alto.
+$FAB_903_04x05_00_03
+Não considerei as ameaças deles sérias.
+$FAB_903_04x05_00_04
+Isso cheira a traição.
+$FAB_903_04x05_00_05
+Permita-me citar: “Meus exércitos aguardam minhas ordens.” Isso não lhe parece uma ameaça séria?
+$FAB_903_04x05_00_06
+O príncipe Charles é impulsivo, mas jamais imaginei que ousaria atacar a França.
+$FAB_903_01x06_01_QTitle
+O réu foi responsável pelas tentativas de suborno…
+$FAB_903_01x06_01_00
+O réu foi responsável pelas tentativas de subornar deputados da Assembleia para dissolvê-la?
+$FAB_903_01x06_01_01
+Eu não assinei esse documento, senhor.
+$FAB_903_01x06_01_02
+Mas foi encontrado em um esconderijo pertencente ao acusado. Fala de agradecimentos do Rei.
+$FAB_903_01x06_01_03
+Minha intenção era levar o ministro Roland a julgamento por abuso de poder. Guardei o documento para esse momento.
+$FAB_903_01x06_01_04
+Um julgamento que não acontece há três anos!
+$FAB_903_01x06_01_05
+Um julgamento que precisa acontecer. Roland confessará diante da guilhotina!
+$FAB_903_01x06_01_06
+A culpa é do ministro da Justiça. Ordenei que ele conduzisse uma investigação e punisse o ministro do Interior.
+$FAB_903_05x03_02_QTitle
+Então por que o imperador mencionaria, pouco antes da viagem, que esperava ver…
+$FAB_903_05x03_02_00
+Então por que o imperador mencionaria, pouco antes da viagem, que esperava ver o acusado e sua família dentro de suas fronteiras?
+$FAB_903_05x03_02_01
+Pura coincidência. O imperador apenas temia pela vida de sua irmã. Não é segredo que os monarcas europeus têm uma visão distorcida da Revolução. Eles a enxergam como uma arma contra a monarquia.
+$FAB_903_05x03_02_02
+A presença de tropas em Montmédy, prontas para escoltar o acusado até a Áustria, também foi mera coincidência?
+$FAB_903_05x03_02_03
+Juro que não tive nada a ver com isso!
+$FAB_903_01x07_03_QTitle
+O réu pretendia conduzir as forças do imperador à França?
+$FAB_903_01x07_03_00
+O réu pretendia conduzir as forças do imperador à França?
+$FAB_903_01x07_03_01
+Com certeza, não foi minha intenção.
+$FAB_903_01x07_03_02
+Em sua carta, o imperador deixou bem claras suas intenções de “restaurar a ordem” na França.
+$FAB_903_01x07_03_03
+Não conheço os planos do imperador Leopoldo, mas sei que jamais permitiria que alguém derramasse sangue francês.
+$FAB_903_01x07_03_04
+Mas é preciso admitir que uma oferta dessas, vinda de um governo inimigo, o coloca sob suspeita.
+$FAB_903_01x07_03_05
+Meu Deus, é apenas uma correspondência pessoal do meu cunhado!
+$FAB_903_01x07_03_06
+Não é algo pessoal quando as cartas trocadas são entre governantes e tratam de assuntos de segurança nacional.
+$FAB_903_06x05_04_QTitle
+Cidadão, você consideraria o ministro Jean-Marie Roland um servo leal?
+$FAB_903_06x05_04_00
+Cidadão, você consideraria o ministro Jean-Marie Roland um servo leal?
+$FAB_903_06x05_04_01
+Ele sempre foi leal à França e à Revolução. Houve um tempo em que eu o tinha em grande estima.
+$FAB_903_06x05_04_02
+Temos aqui uma carta do ministro em que ele incentiva o suborno dos deputados da Convenção. Ouvi dizer que, quando encontraram o armário com novas provas, Roland dispensou seus colegas para vasculhar o conteúdo sozinho...
+$FAB_903_06x05_04_03
+Certa vez, durante uma reunião, brinquei que conseguiríamos salvar o equilíbrio da República se eu encontrasse ao menos um homem honesto na Convenção disposto a me apoiar...
+$FAB_903_06x05_04_04
+Parece que sua piada sem graça foi levada muito a sério.
+$FAB_903_06x05_04_05
+Ao ver o que restou, temo imaginar quais documentos o ministro conseguiu destruir.
+$FAB_903_06x05_04_06
+Espero que o acusado não perca o emprego. Seria uma pena...
+$FAB_903_02x08_05_QTitle
+A Guarda Suíça iria ajudar durante o ataque do duque a Paris?
+$FAB_903_02x08_05_00
+A Guarda Suíça pretendia ajudar durante o ataque do duque a Paris?
+$FAB_903_02x08_05_01
+Não, eles só deveriam proteger minha família.
+$FAB_903_02x08_05_02
+Você dobrou o efetivo da Guarda antes dos acontecimentos de agosto. Parece que tudo seguia conforme o plano do Duque de Brunswick...
+$FAB_903_02x08_05_03
+Absurdo! Não posso ser responsabilizado pelas intenções que o príncipe Charles declarou nesta carta! Por que eu agiria contra meu próprio povo se o ataque dele já estava fadado ao fracasso?
+$FAB_903_KEY_01
+Defendendo sua autoridade
+$FAB_903_KEY_02
+Reunindo forças armadas
+$FAB_903_KEY_03
+Tentativa de fuga
+$FAB_903_KEY_04
+Conspiração internacional
+$FAB_903_KEY_05
+Reprimindo a Revolução
+$FAB_903_KEY_06
+Ordem do Ministro
+$FAB_903_KEY_07
+Carta do imperador
+$FAB_903_KEY_08
+Carta do duque
+$FAB_903_LastDialog_00
+Morro como um homem inocente. Perdoo meus inimigos.
+$FAB_903_UNIQUE_QUESTION_00
+Quem estava corrompendo políticos a mando do cidadão Capet?
+$FAB_903_UNIQUE_QUESTION_01
+Segundo o réu, por que o imperador Leopoldo II lhe escrevia cartas?
+$FAB_903_UNIQUE_QUESTION_02
+O cidadão Capeto explicou o motivo por trás da missão corrupta de Roland?
+$FAB_903_UNIQUE_QUESTION_03
+Por que o cidadão Capeto não alertou a Assembleia Nacional sobre os planos do duque de Brunswick?
+$FAB_903_UNIQUE_ANSWER_CORRECT_00_00
+Jean-Marie Roland.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Arnaud II de La Porte.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Honoré Gabriel Riqueti.
+$FAB_903_UNIQUE_ANSWER_CORRECT_01_00
+Ele temia pela vida de sua irmã, Maria Antonieta.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Ele temia pela vida de seu amigo, cidadão Capet.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Ele temia pela vida dos cidadãos inocentes.
+$FAB_903_UNIQUE_ANSWER_CORRECT_02_00
+Ele afirma que foi apenas uma brincadeira.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Aparentemente, ele se expressou mal.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Ele nega que a situação tenha ocorrido.
+$FAB_903_UNIQUE_ANSWER_CORRECT_03_00
+Ele não considerou a ameaça séria.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Ele se esqueceu.
+$FAB_903_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Ele afirma ter feito o alerta, mas foi ignorado.

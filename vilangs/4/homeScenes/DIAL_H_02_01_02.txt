@@ -1,0 +1,30 @@
+$DIAL_H_02_01_02_001_JUDGE
+Solange ich Sie kenne, waren Sie nie für belanglose Gespräche zu haben.
+$DIAL_H_02_01_02_002_RAMEL
+Ich bin der Meinung, dass Taten mehr sagen als Worte.
+$DIAL_H_02_01_02_003_JUDGE
+Was sagen unsere Taten über Sie und mich aus?
+$DIAL_H_02_01_02_004_RAMEL
+Dass wir nicht zulassen, dass andere über unser Leben bestimmen. Wir lenken unser Schicksal selbst.
+$DIAL_H_02_01_02_005_JUDGE
+Könnten Sie wenigstens verraten, woher Sie stammen?
+$DIAL_H_02_01_02_006_RAMEL
+Ich kann Ihnen sagen, dass ich – genau wie Ihr Bruder Bruno – eine Zeit lang auf der Straße gelebt habe. Mein älterer Halbbruder hat mich hinausgeworfen, und trotzdem… vermisse ich ihn.
+$DIAL_H_02_01_02_007_JUDGE
+Es tut mir leid.
+$DIAL_H_02_01_02_008_RAMEL
+Das musst du nicht. Zumindest bin ich jetzt stark genug, um etwas dagegen zu unternehmen. Deshalb bringe ich dir den Kopf von Erzbischof Gobel auf einem Silbertablett.
+$DIAL_H_02_01_02_009_JUDGE
+Warum?
+$DIAL_H_02_01_02_010_RAMEL
+Weil er den Tod Ihres Sohnes geplant hat – und ich sein dunkelstes Geheimnis erfahren habe.
+$DIAL_H_02_01_02_011_JUDGE
+Warum hat Gobel mich angegriffen?
+$DIAL_H_02_01_02_012_RAMEL
+Sie haben mit den Rolands abgerechnet und waren bereit, das Gleiche mit Pache zu tun.
+$DIAL_H_02_01_02_013_RAMEL
+Sie standen in Verbindung, also muss er geglaubt haben, dass Sie als Nächstes ihn ins Visier nehmen würden, und hat Ihnen deshalb eine Botschaft geschickt.
+$DIAL_H_02_01_02_014_JUDGE
+Jetzt werde ich ihm einen von meinen schicken.
+$DIAL_H_02_01_02_015_RAMEL
+Töte jeden, der es gewagt hat, deine Familie anzugreifen – sie ist das Wertvollste, was du besitzt. Jetzt ist der beste Moment zuzuschlagen, denn das Volk macht den Klerus für den Aufstand in der Vendée verantwortlich.

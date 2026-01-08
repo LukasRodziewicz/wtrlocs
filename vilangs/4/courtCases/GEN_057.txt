@@ -1,0 +1,202 @@
+$GEN_057_DOC_01_HEADER
+Zusammengestellt von: Charles Etienne
+$GEN_057_DOC_01_00
+	Wir klagen Raphaël Gallois der Verschwörung gegen die Revolution an. In seiner <a name="1" class="hidden">Werkstatt</a> hat dieser alte <a name="2" class="hidden">Monarchist</a> Propagandamaterialien angefertigt, die <a name="3" class="hidden">die Capets</a> im Kreis von Hofleuten und Soldaten zeigen.
+$GEN_057_DOC_01_01
+	Der Verdacht gegen ihn kam Anfang des Monats ans Licht. Zu diesem Zeitpunkt stand das Geschäft des Bürgers Gallois bereits unter Beobachtung. Als wir sicher waren, dass der Verdächtige tatsächlich sämtliche Propagandamaterialien selbst hergestellt hatte, wurde ein verkleideter Offizier entsandt, um im Inneren der Werkstatt ein Gespräch zu führen. Auf die Frage des Ermittlers soll Bürger Gallois geantwortet haben, das von ihm angebotene Produkt heiße „Schach“ – ein uraltes Spiel, das vor über tausend Jahren im Osten entstanden sei.
+$GEN_057_DOC_01_02
+	Das wahre Gesicht des Verbrechens offenbarte sich jedoch erst bei der <a name="7" class="hidden">Vorführung der Regeln</a> dieses angeblich östlichen Zeitvertreibs. In dem von Gallois erfundenen Spiel ist der König die zentrale und wichtigste Figur. Der Untersuchende fragte mehrmals nach, doch der Angeklagte beharrte stets darauf, dass die Regeln es untersagen, den König zu schlagen. Die Dame wiederum ist die stärkste Figur auf dem Brett, was ebenfalls Unruhe stiftet. Zu den weiteren Figuren zählen Ritter, also Adlige, sowie Türme, die an die <a name="8" class="hidden">zerstörte Bastille</a> erinnern. Noch schlimmer: Jede neue Partie beginnt der Spieler, der <a name="9" class="hidden">den weißen König</a> führt – ein unverhohlener Verweis auf Ludwig XVI.
+$GEN_057_OnStart_00
+Diesmal scheinen unsere Freunde von der Garde wohl etwas über das Ziel hinausgeschossen zu sein…
+$GEN_057_OnStart_01
+Ich muss ihn trotzdem noch befragen. Stellen Sie sich vor.
+$GEN_057_OnStart_02
+Raphaël Gallois. Ein Handwerker, Eure Ehren.
+$GEN_057_OnStart_03
+Betreiben Sie Propagandatätigkeiten?
+$GEN_057_OnStart_04
+Pro... pa... Was genau?
+$GEN_057_OnStart_05
+Propaganda.
+$GEN_057_OnStart_06
+Haben Sie die Menschen dazu überredet, die Rückkehr zur Monarchie zu unterstützen?
+$GEN_057_OnStart_07
+Ab mit diesem schmierigen königlichen Speichellecker zur Guillotine!
+$GEN_057_OnStart_08
+Ich habe so etwas nicht getan, ich saß nur in meiner Werkstatt und arbeitete wie immer.
+$GEN_057_OnGuilty_00
+Ich verurteile Raphaël Gallois wegen Unterstützung der Monarchie zum Tode.
+$GEN_057_OnGuilty_01
+So ergeht es den Unterstützern der Ungeheuer von Versailles!
+$GEN_057_OnGuilty_02
+Heutzutage kann jeder für alles verurteilt werden.
+$GEN_057_OnPrison_00
+Bürger Gallois wird fünf Jahre im Gefängnis verbringen, weil er monarchistische Propaganda verbreitet hat.
+$GEN_057_OnPrison_01
+Gut, da werden sie sich zweimal überlegen, bevor sie für Capet agitieren!
+$GEN_057_OnPrison_02
+Heutzutage kann jeder für alles verurteilt werden.
+$GEN_057_OnNotGuilty_00
+Hiermit spreche ich Raphaël Gallois frei! Diese Anklage war vollkommen absurd.
+$GEN_057_OnNotGuilty_01
+Der Richter ist ein Schoßhund der Krone!
+$GEN_057_01x09_00_QTitle
+Sind Sie ein Befürworter der Monarchie?
+$GEN_057_01x09_00_00
+Sind Sie ein Befürworter der Monarchie?
+$GEN_057_01x09_00_01
+Ich versuche, meine Steuern pünktlich zu zahlen, der Rest kann mich mal–
+$GEN_057_01x09_00_02
+Benehmen Sie sich!
+$GEN_057_01x09_00_03
+Dieser alte Kauz besitzt die Dreistigkeit, dem Revolutionstribunal zu widersprechen.
+$GEN_057_01x09_00_04
+In deinem Spiel gibt es aber einen weißen König, richtig?
+$GEN_057_01x09_00_05
+Nun, was ist denn daran verkehrt?
+$GEN_057_01x09_00_06
+Weiß war die traditionelle Farbe von Louis Capet – tun Sie also nicht so, als wüssten Sie das nicht.
+$GEN_057_01x09_00_07
+Daran habe ich nie gedacht, ich schwöre. Ich habe nichts gegen die neue Obrigkeit unternommen.
+$GEN_057_02x07_01_QTitle
+Haben Sie Ihr Spiel allen gezeigt, die es sehen wollten?
+$GEN_057_02x07_01_00
+Haben Sie Ihr Spiel allen gezeigt, die es sehen wollten?
+$GEN_057_02x07_01_01
+Schach? Das ist nicht mein Spiel, aber ja, ich habe schon hunderten Menschen das Spielen beigebracht.
+$GEN_057_02x07_01_02
+Auch auf Spielkarten gibt es König und Königin – na und?
+$GEN_057_02x07_01_03
+Geht es in dem Spiel darum, den König zu beschützen?
+$GEN_057_02x07_01_04
+Das ist das Ziel.
+$GEN_057_02x07_01_05
+Warum der König und nicht das Volk?
+$GEN_057_02x07_01_06
+Ich... ich weiß es nicht, dieses Spiel ist schon Hunderte von Jahren alt, ich–
+$GEN_057_02x07_01_07
+Hättest du die Regeln nicht ändern können?
+$GEN_057_02x07_01_08
+Ich wüsste gar nicht, wie. Schließlich bin ich nur ein einfacher Handwerker, nicht–
+$GEN_057_02x07_01_09
+Aber Sie hätten doch auch ein anderes Produkt herstellen können, richtig?
+$GEN_057_02x07_01_10
+Nun, ich hätte es tun können, aber ich habe gar nicht daran gedacht.
+$GEN_057_03x06_02_QTitle
+Gibt es in diesem Spiel einen König und eine Königin?
+$GEN_057_03x06_02_00
+Gibt es in diesem Spiel einen König und eine Königin?
+$GEN_057_03x06_02_01
+In der Tat.
+$GEN_057_03x06_02_02
+Wer hat dieses Spiel erfunden?
+$GEN_057_03x06_02_03
+Ich weiß nicht, man sagt, es sei ein uraltes Spiel aus Persien oder Indien oder so.
+$GEN_057_03x06_02_04
+Lügner! Die Anhänger Ludwigs sind allesamt Lügner!
+$GEN_057_03x06_02_05
+Ich weiß nur, was mein Vater mich gelehrt hat.
+$GEN_057_03x06_02_06
+Hat er dieses Spiel auch gemacht?
+$GEN_057_03x06_02_07
+Im Alter, nachdem er seinen Hof verkauft hatte.
+$GEN_057_04x08_03_QTitle
+Der Vernehmer der Garde behauptet, einige deiner Spielfiguren erinnerten an die Türme der Bastille.
+$GEN_057_04x08_03_00
+Der Vernehmer der Garde behauptet, einige deiner Spielfiguren erinnerten an die Türme der Bastille.
+$GEN_057_04x08_03_01
+So ist es.
+$GEN_057_04x08_03_02
+Warum?
+$GEN_057_04x08_03_03
+Weil man im Schach Türme braucht, wie die auf einer Burg.
+$GEN_057_04x08_03_04
+Aber warum genau wie die Türme der Bastille?
+$GEN_057_04x08_03_05
+Ich kenne keine anderen Türme, also habe ich die gebaut, die ich kannte.
+$GEN_057_04x08_03_06
+Ist dieser Staatsanwalt blind oder einfach dumm?
+$GEN_057_05x02_04_QTitle
+Haben Sie Ihre Werkstatt verborgen?
+$GEN_057_05x02_04_00
+Haben Sie Ihre Werkstatt verborgen?
+$GEN_057_05x02_04_01
+Ganz und gar nicht, sie liegt im Erdgeschoss und hat ein Schild. Die Tür ist schmal und das Schaufenster winzig, aber die Miete ist niedrig, monsieur le juge.
+$GEN_057_05x02_04_02
+Bist du mutig, dreist oder einfach nur dumm?
+$GEN_057_05x02_04_03
+Ich verstehe nicht, Monsieur Staatsanwalt. Ich wollte Kunden anlocken – warum sollte ich mich verstecken?
+$GEN_057_05x02_04_04
+Beantworte die Fragen, Ludwigs Köter!
+$GEN_057_05x02_04_05
+Woher haben Sie so viele Waren? Worauf haben Sie sich vorbereitet?
+$GEN_057_05x02_04_06
+Vorbereiten? Nun, zuerst schnitze ich die Figuren aus Holz, dann bemale ich sie. Aber in letzter Zeit kauft niemand mehr…
+$GEN_057_05x02_04_07
+Wie meinen Sie das?
+$GEN_057_05x02_04_08
+Früher kauften vor allem Adelige und Geistliche Schachspiele, doch inzwischen haben sie offensichtlich andere Sorgen.
+$GEN_057_05x02_04_09
+Habt ihr das gehört? Das ist ein Geständnis!
+$GEN_057_04x01_05_QTitle
+Ist Ihnen aufgefallen, dass die Nationalgarde Sie beobachtet hat?
+$GEN_057_04x01_05_00
+Ist Ihnen aufgefallen, dass die Nationalgarde Sie beobachtet hat?
+$GEN_057_04x01_05_01
+Nein.
+$GEN_057_04x01_05_02
+Und wenn Sie es bemerkt hätten, wären Sie dann geflohen?
+$GEN_057_04x01_05_03
+Daran hätte ich nicht einmal gedacht. Warum sollte ich fliehen?
+$GEN_057_04x01_05_04
+Ihre Regale waren voller konterrevolutionärer Propaganda!
+$GEN_057_04x01_05_05
+Er ist ein ehrlicher Mann, warum sollte er fliehen?
+$GEN_057_04x01_05_06
+Dieser Vorwurf ist lächerlich. Ich habe nichts zu erklären.
+$GEN_057_04x01_05_07
+Nun, dann überlegen Sie es sich gut. Ihr Leben steht auf dem Spiel.
+$GEN_057_KEY_01
+Monarchist
+$GEN_057_KEY_02
+Werkstatt
+$GEN_057_KEY_03
+Die Kapetinger
+$GEN_057_KEY_04
+Überwachung
+$GEN_057_KEY_05
+Propagandamaterialien
+$GEN_057_KEY_06
+Altes Spiel
+$GEN_057_KEY_07
+Demonstration der Regeln
+$GEN_057_KEY_08
+Zerstörte Bastille
+$GEN_057_KEY_09
+Weißer König
+$GEN_057_LastDialog_00
+Leute, das ist ein entsetzlicher Irrtum!
+$GEN_057_UNIQUE_QUESTION_00
+Wer kaufte die Produkte des Angeklagten?
+$GEN_057_UNIQUE_ANSWER_CORRECT_00_00
+Die Hochgeborenen und der Klerus.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Bürger.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Frauen.
+$GEN_057_UNIQUE_QUESTION_01
+Was ist das Ziel beim Schach?
+$GEN_057_UNIQUE_ANSWER_CORRECT_01_00
+Den König schützen.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Die Königin töten.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Mehr Bauern töten als der Gegner.
+$GEN_057_UNIQUE_QUESTION_02
+Hat der Angeklagte für sein Geschäft geworben?
+$GEN_057_UNIQUE_ANSWER_CORRECT_02_00
+Auf der Straße hing ein Schild.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Seine Werkstatt war nur einem ausgewählten Kreis bekannt.
+$GEN_057_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Er hat eine Anzeige in der Zeitung bezahlt.

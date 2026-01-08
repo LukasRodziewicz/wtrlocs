@@ -1,0 +1,94 @@
+$CUT_033_001_JUDGE
+Mathilde.
+$CUT_033_002_JUDGE
+I do not understand.
+$CUT_033_003_JUDGE
+Father.
+$CUT_033_004_JUDGE
+Do you hear me?
+$CUT_033_005_GOD
+Always.
+$CUT_033_006_GOD
+I fixed you. You will live… at least for now.
+$CUT_033_007_JUDGE
+Where am I? Who are you?
+$CUT_033_008_GOD
+I am the Truth about your unhappiness and the Lie about your greatness. They are both the reasons for your presence in this place.
+$CUT_033_009_GOD
+Where everything started.
+$CUT_033_010_JUDGE
+I don’t understand.
+$CUT_033_011_GOD
+I repaired all the damage, as I always do. You will live… but do you want to?
+$CUT_033_012_GOD
+Are you ready to admit that it is my performance, my show?
+$CUT_033_013_JUDGE
+Mathilde. I love her so…
+$CUT_033_014_GOD
+I know… but she no longer returns that love. Not for a long time.
+$CUT_033_015_GOD
+I made sure of that.
+$CUT_033_016_JUDGE
+Who the hell are you?
+$CUT_033_017_GOD
+I am the Truth overcoming the Lie that you keep telling yourself. The Lie that you are here for power.
+$CUT_033_018_GOD
+For the numerous choices and endings. I have not designed you for that.
+$CUT_033_019_JUDGE
+Designed?
+$CUT_033_020_GOD
+You are supposed to suffer to make others laugh or grieve.
+$CUT_033_021_GOD
+To feel.
+$CUT_033_022_GOD
+Now is the only real choice you will ever make.
+$CUT_033_023_GOD
+To die, and never feel anything again, or to really feel what being a true hero is like.
+$CUT_033_024_JUDGE
+I am a judge, not a–
+$CUT_033_025_GOD
+Tell me, when was the last time you read all the files connected to a single case?
+$CUT_033_026_GOD
+The last time you really heard everything the accused had to say?
+$CUT_033_027_GOD
+I need a hero, not a judge. People want to be heroes.
+$CUT_033_028_JUDGE
+How could I? My wife wanted to kill me. My family hates me.
+$CUT_033_029_GOD
+Fight for their lives.
+$CUT_033_030_JUDGE
+Half the city wants me dead.
+$CUT_033_031_GOD
+Fight for Paris.
+$CUT_033_032_JUDGE
+My brother comes with an unconquerable army.
+$CUT_033_033_GOD
+Then be a shield for the poor and terrified souls who do not have anyone else to defend them.
+$CUT_033_034_JUDGE
+A shield…
+$CUT_033_035_GOD
+I could open your wounds instead
+$CUT_033_036_GOD
+and you will never suffer again.
+$CUT_033_037_GOD
+Paris would fall, but since you are not interested, I would find someone in your place.
+$CUT_033_038_GOD
+Here is the choice you craved so dearly for.
+$CUT_033_DEATH_DEC
+Choose Death
+$CUT_033_DEATH_DEC_001_GOD
+Ah, what a pity.
+$CUT_033_DEATH_DEC_002_GOD
+After all my hard work…
+$CUT_033_DEATH_DEC_003_GOD
+You have, however, made a decision.
+$CUT_033_LIFE_DEC
+Choose Life
+$CUT_033_LIFE_DEC_001_JUDGE
+Will they accept me?
+$CUT_033_LIFE_DEC_002_GOD
+They do not have to, but you will defend them anyway.
+$CUT_033_LIFE_DEC_003_GOD
+You will become a legend for it, and one day, they will appreciate you.
+$CUT_033_LIFE_DEC_004_GOD
+Now rise up. You have to defeat him.

@@ -1,0 +1,353 @@
+$FAB_007_DOC_1_HEADER
+Sporządził: Fabrice Poli
+$FAB_007_DOC_1_00
+	Jean-Marie Roland, jeszcze niedawno minister spraw wewnętrznych, oskarżony jest o <a name="1" class="hidden">korupcję</a> oraz <a name="2" class="hidden">zdradę kraju</a>.
+$FAB_007_DOC_1_01
+	W przypadku pierwszego zarzutu śledztwo rozpoczęliśmy od przesłuchania prominentnych członków Konwentu. Szczególnie pomocni okazali się obywatele Hébert oraz Robespierre. Zeznali oni, że minister Roland kilkakrotnie dyskretnie sugerował im korzyści za złagodzenie ich stanowiska wobec kontynuowania wojny z zagrażającymi nam monarchiami, zwłaszcza Anglią i Hiszpanią. Wspomniani obywatele nie mieli twardego dowodu, który by pozwalał oskarżyć Rolanda. Podejrzewali dodatkowo, że oferta nie wyszła bezpośrednio od ministra. Spekulowali, iż pomysłodawcą mógł być sam <a name="4" class="hidden">król</a>, pozostający z Rolandem w bardzo dobrej relacji. Nie chcąc złożyć fałszywego oskarżenia, czekano, aż pojawią się jakieś niepodważalne dowody.
+$FAB_007_DOC_1_02
+	Gdy nie udało mu się skorumpować liderów ugrupowań, Roland miał zwrócić się do deputowanych o uboższych wpływach. W dotarciu do ich serc miała pomóc żona ministra – Jeanne-Marie Roland. Prowadziła ona salon polityczny, który był przykrywką do zarządzania <a name="6" class="hidden">domem uciech</a>. Nie udało nam się niestety ustalić, którzy deputowani mogli korzystać z gościnności madame Roland i jej podopiecznych. Okoliczni mieszkańcy potwierdzili jednak, że nocami zjeżdżały pod podany adres powozy wypełnione mężczyznami. Nie wiemy, czy faktycznie przybywali tam podyskutować o polityce, ale nie wygląda na to.
+$FAB_007_DOC_1_03
+	Zarzut zdrady kraju opiera się na wątku, który ujawniono podczas rozprawy Ludwika Capeta, a mianowicie – temacie żelaznej szafy. Roland miał <a name="7" class="hidden">w pośpiechu zabrać</a> z niej część kompromitujących go dokumentów. Gotowość do zeznań w tej sprawie wyraził Phillipe Côté – jeden z uczestników tamtych wydarzeń i podwładny ministra. Dzięki jego trzeźwości umysłu zapobieżono <a name="8" class="hidden">zniszczeniu dokumentów</a> dotyczących samego króla.
+$FAB_007_DOC_1_04
+	Jakby tego było mało, w ostatniej chwili obywatel Saint-Just zawiadomił o szykowanej przez żyrondystów próbie <a name="9" class="hidden">siłowego przejęcia Konwentu</a> w celu zapewnienia sobie pełni władzy. Doniesiono nam, że członkowie tego ugrupowania aktywnie działali na rzecz <a name="10" class="hidden">wzniecenia powstania</a>, dzięki któremu mieli przejąć władzę w innych częściach kraju. Szczególnie ponoć narażone na ich działalność miały być miasta Nantes oraz Niort. W tych rejonach zanotowano wzrost <a name="11" class="hidden">nastrojów antyrewolucyjnych</a>, a także monarchistycznych.
+$FAB_007_DOC_1_05
+	W świetle powyższych faktów lud Paryża, ustami prokuratora Tinville’a, prosi o bezzwłoczne skazanie tego zdrajcy na śmierć!
+$FAB_007_OnStart_00
+Mimo że wszyscy znamy oskarżonego, proszę przedstawić się do protokołu.
+$FAB_007_OnStart_01
+Jean-Marie Roland, minister spraw wewnętrznych i deputowany Konwentu…
+$FAB_007_OnStart_02
+Nie jesteś już ministrem, zdrajco!
+$FAB_007_OnStart_03
+Póki nie zostanie mi udowodniona wina, jestem niewinny.
+$FAB_007_OnStart_04
+Ściąć tę gnidę czym prędzej!
+$FAB_007_OnGuilty_00
+Skazuję Jeana-Marie Rolanda na śmierć! Niech skończy jak inni zdrajcy!
+$FAB_007_OnGuilty_01
+I dobrze. Wiwat sędzia!
+$FAB_007_OnGuilty_02
+Oczyścić rząd ze szpiegów Anglii!
+$FAB_007_OnPrison_00
+Jean-Marie Roland trafi do więzienia.
+$FAB_007_OnPrison_01
+Czy aby nie za lekko podeszliście do sprawy?
+$FAB_007_OnPrison_02
+Nie podoba nam się to!
+$FAB_007_OnNotGuilty_00
+Jean-Marie Roland jest niewinny. Wypuśćcie go.
+$FAB_007_OnNotGuilty_01
+Niewinny?
+$FAB_007_OnNotGuilty_02
+Może sędzia też zdrajca?!
+$FAB_007_OnNotGuilty_03
+Chyba zbyt płytko pchnęli cię nożem, co?
+$FAB_007_01x03_00_QTitle
+Obywatele Hébert oraz Robespierre zeznali, iż proponował im oskarżony łapówkę...
+$FAB_007_01x03_00_00
+Obywatele Hébert oraz Robespierre zeznali, iż proponował im oskarżony łapówkę w zamian za złagodzenie kursu naszej polityki zagranicznej. Czy to prawda?
+$FAB_007_01x03_00_01
+Oczywiście, że nie. Jako minister spraw wewnętrznych nie miałem w tym interesu.
+$FAB_007_01x03_00_02
+To zależy, czego wymagał od was obywatel Capet.
+$FAB_007_01x03_00_03
+Gdybym namówił konwent do negocjacji pokojowych, ludzie myśleliby, że już po wszystkim, i straciliby czujność, a agenci wroga łatwiej przenikaliby przez granicę. To utrudniłoby mi tylko pracę.
+$FAB_007_01x03_00_04
+Oskarżony sam podsuwa motywy swojego postępowania – jako zdrajca właśnie tego by chciał. Większej liczby wrogich szpiegów niszczących Francję!
+$FAB_007_01x03_00_05
+Zdrajca!
+$FAB_007_01x03_00_06
+Im więcej szpiegów, tym większa wypłata od Austriaków!
+$FAB_007_01x03_00_07
+Ucisz się, krzykaczu! Dzięki mojej pracy hebertyści mogli prowadzić sobie swoje wojny, nie martwiąc się o to, że kraj runie pod ich autorytarnymi buciorami!
+$FAB_007_01x03_00_08
+Proszę o spokój.
+$FAB_007_01x06_01_QTitle
+Z ustaleń śledczych wynika, że żona oskarżonego prowadziła luksusowy burdel...
+$FAB_007_01x06_01_00
+Z ustaleń śledczych wynika, że żona oskarżonego prowadziła luksusowy burdel, w którym mogło dochodzić do korumpowania polityków Konwentu.
+$FAB_007_01x06_01_01
+To bzdura i obelga! Moja żona to szanowana i cnotliwa kobieta, która prowadziła salon polityczny! To miejsce spotkań wielkich umysłów, którzy mogli tam wymieniać się poglądami na rzeczywistość…
+$FAB_007_01x06_01_02
+Moi informatorzy również potwierdzają ustalenia śledczych.
+$FAB_007_01x06_01_03
+Kłamliwy zdrajca z tego Rolanda!
+$FAB_007_01x06_01_04
+Co mnie obchodzą jacyś głupcy? Gdyby żona faktycznie organizowała takie orgie w środku Paryża, nie potrzebowalibyście sekretnych informatorów, żeby o tym wiedzieć. Bzdura kompletna te oskarżenia.
+$FAB_007_01x06_01_05
+Żaden polityk nie został przez was przekupiony w zamian za usługi… tego typu?
+$FAB_007_01x06_01_06
+Żaden. Kogo miałbym przekupywać i po co? Nie mam żadnych wrogów w polityce.
+$FAB_007_01x06_01_07
+Większość Konwentu chce was oddać gilotynie. Zweryfikuj swoje spojrzenie. Z moich informacji wynika, że ta forma przekupstwa zapewniła ci poparcie Brissota oraz Jeana Debry’ego.
+$FAB_007_01x06_01_08
+Plotki obrażające mężów stanu!
+$FAB_007_02x04_02_QTitle
+Czy obywatel pamięta, że Ludwik Capet został skazany za zdradę?
+$FAB_007_02x04_02_00
+Czy obywatel pamięta, że Ludwik Capet został skazany za zdradę?
+$FAB_007_02x04_02_01
+Pamiętam, oczywiście.
+$FAB_007_02x04_02_02
+Ponoć korupcyjne propozycje miały być pomysłem nieboszczyka.
+$FAB_007_02x04_02_03
+Nie było żadnych propozycji, a jeśli Ludwik miał takie myśli, to nic o tym nie wiem.
+$FAB_007_02x04_02_04
+Mówicie o nim po imieniu? Obywatel Capet sam wspominał o waszej szczególnej relacji i współpracy, wypowiadał się ciepło o oskarżonym.
+$FAB_007_02x04_02_05
+Capet był moim przełożonym – na tym opierała się nasza znajomość.
+$FAB_007_02x04_02_06
+Ludzie w korytarzach mówili często, że oskarżony nie może puścić dłoni Capeta, tak często ją całował.
+$FAB_007_02x04_02_07
+Powiedz po prostu, że nie mógł wyjść z jego tyłka.
+$FAB_007_02x04_02_08
+Nie chcę urazić sądu.
+$FAB_007_02x04_02_09
+To skandal, a nie rozprawa sądowa!
+$FAB_007_02x07_03_QTitle
+Wezwać na salę Phillipe’a Côté.
+$FAB_007_02x07_03_00
+Wezwać na salę Phillipe’a Côté.
+$FAB_007_02x07_03_02
+Proszę się przedstawić.
+$FAB_007_02x07_03_03
+Jestem Phillipe Côté, pracuję, a raczej pracowałem dla ministra Rolanda.
+$FAB_007_02x07_03_04
+Może świadek nazwać jakoś swoje stanowisko?
+$FAB_007_02x07_03_05
+Nie, bo byłem człowiekiem od wszystkiego. Porządkowanie dokumentów, dostarczanie wiadomości, łapówek…
+$FAB_007_02x07_03_06
+Co on mówi?
+$FAB_007_02x07_03_07
+Odsłania prawdziwą twarz ministra.
+$FAB_007_02x07_03_08
+Początkowo nie wiedziałem, że to łapówki. Zorientowałem się dopiero później.
+$FAB_007_02x08_04_QTitle
+Zarzuca się obywatelowi chęć zniszczenia dowodów obciążających Ludwika Capeta.
+$FAB_007_02x08_04_00
+Zarzuca się obywatelowi chęć zniszczenia dowodów obciążających Ludwika Capeta.
+$FAB_007_02x08_04_01
+Nic podobnego, bajki. Nieważne, co ten parszywy Cottey nagadał – nie siedział przecież w mojej głowie!
+$FAB_007_02x08_04_02
+Ale znał oskarżonego dość dobrze…
+$FAB_007_02x08_04_03
+Był popychadłem, teraz się mści, jak wesz, która chciałaby być sokołem. A dokumenty przecież ostatecznie trafiły do sądu, prawda?
+$FAB_007_02x08_04_04
+Trafiły, bo miałeś pecha, że Cottey wrócił zbyt szybko. Tego nie przewidziałeś i wpadłeś!
+$FAB_007_02x08_04_05
+W dodatku kłamie nam w żywe oczy!
+$FAB_007_02x08_04_06
+ Skąd wiecie, że nie miałem zamiaru ich oddać?
+$FAB_007_02x09_05_QTitle
+Pragnę wrócić do jednego wydarzenia nieopisanego w aktach.
+$FAB_007_02x09_05_00
+Pragnę wrócić do jednego wydarzenia nieopisanego w aktach. Czy oskarżony przypomina sobie, jak odwiedził mnie po rozprawie Ludwika Capeta?
+$FAB_007_02x09_05_01
+Pamiętam…
+$FAB_007_02x09_05_02
+A pamięta oskarżony, jak zapowiadał moją zgubę, łącznie z sugestią mej rychłej śmierci?
+$FAB_007_02x09_05_03
+A to drań!
+$FAB_007_02x09_05_04
+Chciałem zauważyć, że byłem wtedy wzburzony…
+$FAB_007_02x09_05_05
+Groził śmiercią sędziemu?
+$FAB_007_02x09_05_06
+I dziwnym trafem kilka dni później zostałem zaatakowany na ulicy przez nieznanych sprawców, którzy dźgnęli mnie nożem w brzuch!
+$FAB_007_02x09_05_07
+Wiedziałem, że jesteś gnidą, ale nie przypuszczałem, iż jesteś mordercą.
+$FAB_007_02x09_05_08
+Odmawiam odpowiedzi.
+$FAB_007_02x09_05_09
+Czy to był jeden z elementów przygotowań do zamachu na Konwent? Zabić sędziego, który może was posłać na gilotynę?!
+$FAB_007_02x09_05_10
+Odmawiam odpowiedzi, jestem niewinny!
+$FAB_007_04x05_06_QTitle
+Czy żona oskarżonego również utrzymywała kontakty z Ludwikiem Capetem?
+$FAB_007_04x05_06_00
+Czy żona oskarżonego również utrzymywała kontakty z Ludwikiem Capetem?
+$FAB_007_04x05_06_01
+Kilka razy była ze mną na bankiecie wydanym przez króla…
+$FAB_007_04x05_06_02
+Żaden zdrajca nie może powstrzymać się od całowania arystokratycznych tyłków.
+$FAB_007_04x05_06_03
+Proszę prokuratora Tinville’a o opanowanie swojego języka.
+$FAB_007_04x05_06_04
+Poza tymi sytuacjami moja żona nie miała kontaktu z królem, nie było ku temu żadnych powodów.
+$FAB_007_04x05_06_05
+Jesteś pewien, że wiesz, co się działo w jej burdelu?
+$FAB_007_04x05_06_06
+A to dobre!
+$FAB_007_04x05_06_07
+Moja żona jest porządną kobietą!
+$FAB_007_04x05_06_08
+A to jeszcze lepsze!
+$FAB_007_04x11_07_QTitle
+Są dowody na to, że działalność żyrondystów w niektórych miejscach w kraju...
+$FAB_007_04x11_07_00
+Są dowody na to, że działalność żyrondystów w niektórych miejscach w kraju podbudowała nastroje antyrewolucyjne.
+$FAB_007_04x11_07_01
+Co ja mam z tym wspólnego?
+$FAB_007_04x11_07_02
+Został obywatel uznany za filar udaremnionego zamachu stanu, należał do wspomnianego ugrupowania, a w dodatku pozostawał oskarżony w bliskich stosunkach z obywatelem Capetem.
+$FAB_007_04x11_07_03
+Działalność moich kolegów na prowincji potępiam. Powinniśmy się trzymać razem dla dobra Francji, a problemy rozwiązywać rozmową – nie za pomocą muszkietów.
+$FAB_007_04x11_07_04
+Typowe gadanie człowieka, który boi się zawitać na gilotynie.
+$FAB_007_04x11_07_05
+A twoje gadanie jest typowe dla osoby, która nie ma w ręku twardych dowodów i stara się podburzyć tłum!
+$FAB_007_04x11_07_06
+Faktycznie nie przedstawił dowodów…
+$FAB_007_04x11_07_07
+Na zdrajcę nie potrzeba!
+$FAB_007_09x10_08_QTitle
+Jaki oskarżony miał udział w planowanym zamachu stanu?
+$FAB_007_09x10_08_00
+Jaki oskarżony miał udział w planowanym zamachu stanu?
+$FAB_007_09x10_08_01
+Żadnego. Nic o takich planach nie wiedziałem. Jeśli takowe faktycznie były, to wstyd mi za kolegów deputowanych.
+$FAB_007_09x10_08_02
+Moi informatorzy mówią, że Roland nie tylko brał udział w planowaniu, ale nawet miał dowodzić całą akcją.
+$FAB_007_09x10_08_03
+Zaraz ci przyłożę w ten twój kłamliwy, jakobiński pysk.
+$FAB_007_09x10_08_04
+Patrzcie, jaki hardy!
+$FAB_007_09x10_08_05
+Nie przepada oskarżony za nami, co?
+$FAB_007_09x10_08_06
+Chcecie mnie zabić, bo stoję wam na drodze do władzy. To marny powód do sympatii.
+$FAB_007_09x10_08_07
+Oskarżony sam daje powody, by go skazać.
+$FAB_007_09x10_08_08
+Nawet ministrowie mają swoje granice – wyznacza je honor, który ten drań chce zszargać.
+$FAB_007_09x10_08_09
+A jako minister spraw wewnętrznych nie powinien oskarżony wiedzieć o zdradzieckich planach kolegów z Konwentu? Wystarczyło dać znać komu trzeba i nie byłoby sprawy.
+$FAB_007_09x10_08_10
+…
+$FAB_007_09x10_08_11
+Odpowiedz, draniu.
+$FAB_007_09x10_08_12
+Nie mam nic więcej do powiedzenia w tej sprawie.
+$FAB_007_WIT_00_A_QTitle
+Dlaczego zostawiliście ministra samego z zawartością żelaznej szafy?
+$FAB_007_WIT_00_A_00
+Dlaczego zostawiliście ministra samego z zawartością żelaznej szafy?
+$FAB_007_WIT_00_A_01
+Takie było jego polecenie – kazał mi wyjść za drzwi, pilnować, żeby nikt nie wszedł do pomieszczenia. Miałem nie wracać przez 20 minut.
+$FAB_007_WIT_00_A_02
+Wysłuchał świadek tych poleceń?
+$FAB_007_WIT_00_A_03
+Tak, chociaż nie bez wątpliwości. Podejrzewałem, że minister może chcieć szukać kompromitujących dokumentów, i wróciłem do niego wcześniej.
+$FAB_007_WIT_00_A_04
+I co świadek zobaczył?
+$FAB_007_WIT_00_A_05
+Ministra przeglądającego dokumenty. Kilka z nich miał odłożonych osobno – po moim wejściu jął je chować pod płaszcz.
+$FAB_007_WIT_00_A_06
+Dostrzegł świadek jakiś szczegół? Cokolwiek, żeby domyślić się, czego mogły dotyczyć te dokumenty?
+$FAB_007_WIT_00_A_07
+Widziałem jedynie pieczęcie. Przeważały te należące do Ludwika Capeta. Szybkim rzutem oka dostrzegłem też nieznane mi, należące zapewne do obcych monarchów.
+$FAB_007_WIT_00_B_QTitle
+Jak zachowywał się oskarżony, gdy przyłapaliście go na procederze ukrywania dokumentów?
+$FAB_007_WIT_00_B_00
+Jak zachowywał się oskarżony, gdy przyłapaliście go na procederze ukrywania dokumentów?
+$FAB_007_WIT_00_B_01
+Był zdenerwowany, krzyczał, że wydał mi konkretne polecenie – miałem czekać za drzwiami i nikogo nie wpuszczać.
+$FAB_007_WIT_00_B_02
+Ale wykazał się obywatel prawdziwie rewolucyjnym nieposłuszeństwem wobec zła?
+$FAB_007_WIT_00_B_03
+Bez Côté nie złapalibyśmy zdrajcy!
+$FAB_007_WIT_00_B_04
+Podejrzewałem, że w sali dochodzi do przestępstwa, nie mogłem przymknąć na to oczu. W interesie Francji leży, by ministrowie byli krystaliczni.
+$FAB_007_WIT_01_A_QTitle
+Czy wie coś świadek o wpływach madame Roland na zachowanie jej męża?
+$FAB_007_WIT_01_A_00
+Czy wie coś świadek o wpływach madame Roland na zachowanie jej męża?
+$FAB_007_WIT_01_A_01
+W mojej ocenie to żona pana ministra faktycznie sprawowała władzę.
+$FAB_007_WIT_01_A_02
+Minister marionetką! Jakby bycie zdrajcą mu nie wystarczało!
+$FAB_007_WIT_01_A_03
+Pchła, nie minister…
+$FAB_007_WIT_01_A_04
+Dlaczego świadek tak sądzi?
+$FAB_007_WIT_01_A_05
+Całą korespondencję z danego dnia dotyczącą jego obowiązków miałem zawsze niezwłocznie zawozić do madame Roland.
+$FAB_007_WIT_01_A_06
+Farsa!
+$FAB_007_WIT_01_A_07
+Hańba!
+$FAB_007_WIT_01_A_08
+Dziękuję świadkowi za odwagę. Francja jest wam wdzięczna.
+$FAB_007_WIT_01_B_QTitle
+Czy świadek wie coś o korumpowaniu deputowanych Konwentu przez żonę ministra?
+$FAB_007_WIT_01_B_00
+Czy świadek wie coś o korumpowaniu deputowanych Konwentu przez żonę ministra?
+$FAB_007_WIT_01_B_01
+Nic pewnego, ale swego czasu dostałem polecenie, by spod… przybytku madame Roland przewieźć powozem prostytutkę, niejaką Giselle, pod same drzwi domu deputowanego Pierre’a Vergniauda.
+$FAB_007_WIT_01_B_02
+Czy potrzeba kolejnych dowodów, by uśmiercić to zdradzieckie małżeństwo?
+$FAB_007_WIT_01_B_03
+Wszyscy żyrondyści to dziwkarze!
+$FAB_007_WIT_01_B_04
+W jakim celu przewieziono tam tę kobietę?
+$FAB_007_WIT_01_B_05
+Jeszcze się pyta?
+$FAB_007_WIT_01_B_06
+Nie zostało mi to wyjaśnione. Miałem jednak później dostarczyć ją z powrotem i powiem, że… do powozu weszła z podbitym okiem, a kilka paznokci miała poplamionych zaschłą krwią. Oddałem jej wtedy moją chusteczkę.
+$FAB_007_WIT_01_B_07
+Dziękuję oskarżonemu za odwagę. Francja jest ci wdzięczna.
+$FAB_007_KEY_01
+Korupcja
+$FAB_007_KEY_02
+Zdrada kraju
+$FAB_007_KEY_03
+Stanowisko wobec wojny
+$FAB_007_KEY_04
+Kontakty z królem
+$FAB_007_KEY_05
+Jeanne-Marie Roland
+$FAB_007_KEY_06
+Dom uciech
+$FAB_007_KEY_07
+Ukrycie dokumentów
+$FAB_007_KEY_08
+Zniszczenie dowodów
+$FAB_007_KEY_09
+Zamach na Konwent
+$FAB_007_KEY_10
+Wzniecenie powstania
+$FAB_007_KEY_11
+Nastroje antyrewolucyjne
+
+
+$FAB_007_LastDialog_00
+Chcesz osobiście popatrzeć na moją spadającą głowę?
+
+$FAB_007_UNIQUE_QUESTION_00
+Kim jest Côté, świadek wydarzeń z pancerną szafą?
+$FAB_007_UNIQUE_ANSWER_CORRECT_00_00
+Podwładnym oskarżonego.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Podwładnym króla.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Przyjacielem oskarżonego.
+
+$FAB_007_UNIQUE_QUESTION_01
+Jak oskarżony tłumaczy groźby wobec sędziego Trybunału?
+$FAB_007_UNIQUE_ANSWER_CORRECT_01_00
+Chwilowym wzburzeniem.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Wypiera się.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Twierdzi, że był to lapsus językowy.
+
+$FAB_007_UNIQUE_QUESTION_02
+Jakiej przykrywki używało małżeństwo Roland dla prowadzonego burdelu?
+$FAB_007_UNIQUE_ANSWER_CORRECT_02_00
+Salon polityczny.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Siedziba gazety Marata.
+$FAB_007_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Magazyn.
+
+

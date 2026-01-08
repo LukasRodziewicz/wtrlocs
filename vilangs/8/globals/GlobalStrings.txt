@@ -1,0 +1,384 @@
+#LANGUAGE
+Idioma
+#POLISH
+Polonês
+#ENGLISH
+Inglês
+#INTRO_TEXT
+França. Final do século XVIII...
+#INTRO_HOME
+Fim de noite. Casa do Juiz.
+#START
+Iniciar
+#OPTIONS
+Opções
+#QUIT
+Sair
+#CONFIRM
+Confirmar
+#BACK
+Cancelar
+#RETURN
+Voltar
+#MENU
+Menu
+#ACCEPT
+Aceitar
+#REJECT
+Rejeitar
+#CLOSE
+Fechar
+#GAMEOVER
+O Fim
+#TCUT_GAME_OVER_PEOPLE
+A multidão trouxe você à justiça.
+#TCUT_GAME_OVER_QUIZ
+Você foi destituído do cargo.
+#TCUT_GAME_OVER_CUT_028
+Você morreu em batalha.
+#TCUT_GAME_OVER_SECTION
+Você foi morto após perder a Seção Principal.
+#TCUT_GAME_OVER_ARISTOCRATS
+A aristocracia executou o assassinato.
+#IGNORE
+Ignorar
+#RESET
+Cancelar alterações
+#START_NEW_GAME
+Iniciar
+#LOAD_GAME
+Carregar Dia
+#CONTINUE
+Continuar
+#END
+Concluir
+#EVENTS
+Eventos
+#EMPTY
+Vazio
+#SUCCESS
+Sucesso
+#DOUBTFUL_SUCCESS
+Sucesso Duvidoso
+#FAILURE
+Fracasso
+#EFFECTS
+Efeitos:
+#CHANGE_PROFILE
+Alterar Perfil
+#GUILTY
+Pena de morte
+#NOTGUILTY
+Absolvição
+#PRISON
+Prisão
+#SIGNATURE
+Assinatura
+#JUDGE_SIGNATURE
+Assinatura do Juiz
+#PROLOGUE
+Prólogo
+#LOAD_BUTTON_SURVIVAL_TEST
+Dia: {0}
+#LOAD_BUTTON_TEXT
+Ato: {0} Dia: {1}
+#ENTER_PROFILE_NAME
+Digite o nome do perfil...
+#GROUPS_SUPPORT
+Relações
+#REVOLUTIONISTS
+Revolucionários
+#REVOLUTIONISTS_NOTIFICATION
+Revolucionários: {0}
+#PEOPLE
+Povo Comum
+#PEOPLE_NOTIFICATION
+Povo Comum: {0}
+#ARISTOCRATS
+Aristocratas
+#ARISTOCRATS_NOTIFICATION
+Aristocratas: {0}
+#JUSTICE
+Justiça
+#INFLUENCE
+Pontos de Influência
+#INFLUENCE_NOTIFICATION
+Pontos de Influência: {0}
+#RESOURCES
+Recursos
+#RESOURCES_AVAILABLE
+Em posse
+#RESOURCES_INCOME
+Renda diária
+#DETAILS
+Detalhes
+#RESOLUTION
+Resolução
+#FULL_SCREEN
+Tela cheia
+#ENABLED
+Ativar
+#DISABLED
+Desligado
+#TUTORIAL_LABEL
+Tutorial
+#GAME_OVER
+FIM
+#END_THX
+Obrigado por jogar!
+#LOST
+VOCÊ PERDEU!
+#GAMEOVER_KING_VERDICT
+A multidão o linchou.
+#GAMEOVER_PEOPLE_SUPPORT
+O povo linchou você.
+#DAY
+Dia
+#Letter
+Carta
+#SPEECH_ATTITUDE_REVEAL
+Revelar
+#SPEECH_BONUS_INFLUENCE
+Pontos de Influência
+#SPEECH_ATTITUDE_AGGR
+Agressivo
+#SPEECH_ATTITUDE_IRRI
+Irritado
+#SPEECH_ATTITUDE_DOUB
+Duvidoso
+#SPEECH_ATTITUDE_INTR
+Intrigado
+#SPEECH_ATTITUDE_SATI
+Satisfeito
+#SUPPORT_VERY_LOW
+Muito baixo
+#SUPPORT_LOW
+Baixo
+#SUPPORT_MEDIUM
+Médio
+#SUPPORT_HIGH
+Alto
+#SUPPORT_VERY_HIGH
+Muito alto
+#JURY
+Júri
+$INTERLUDIUM_GAMBLINGDEN
+Ir para o Cassino Ilegal
+$INTERLUDIUM_HOME
+Voltar para casa
+$INTERLUDIUM_MAP
+Mostrar mapa
+$YES
+Sim.
+$NO
+Não.
+#REPUTATION
+Reputação
+#REPUTATION_NOTIFICATION
+Reputação: {0}
+#REPUTATION_PENDING_TOOLTIP
+Alteração de hoje:
+$GUILTY_VERDICT_SON
+Culpado
+$GUILTY_VERDICT
+Pena de morte
+$PRISON_VERDICT
+Prisão
+$NOTGUILTY_VERDICT
+Absolvição
+$NOTGUILTY_VERDICT_SON
+Inocente
+#RELATIONSHIP_PLACEHOLDER
+Agitação
+#RELATIONSHIP_TIER_1
+Estabilidade
+#RELATIONSHIP_TIER_2
+Agitação
+#RELATIONSHIP_TIER_3
+Hostilidade
+#RELATIONSHIP_TIER_4
+Ódio
+#NOTIFICATIONS_TITLE
+Notificações
+#MAP_NOTIFICATION_TOOLTIP_ACTIVE
+Relatório de atividades
+#STRATEGY_TIER_1
+Tragicamente
+#STRATEGY_TIER_2
+Imprudentemente
+#STRATEGY_TIER_3
+Correto
+#STRATEGY_TIER_4
+Perfeito
+#STRATEGY_REMAINING_ATTEMPTS_TOOLTIP
+O número de tentativas depende da Reputação
+#STRATEGY_TITLE
+Prepare sua estratégia
+#STRATEGY_CHANCE_TITLE
+Chance de sucesso
+#STRATEGY_REMAINING_ATTEMPTS
+Tentativas restantes: {0}
+$STRATEGY_SIDEBAR_HEADER
+Atitude
+$STRATEGY_EMOTIONS_HEADER
+Escolha a abordagem
+$STRATEGY_TOPICS_HEADER
+Tópico
+#STRATEGY_VERY_GOOD_TOOLTIP
+Um argumento irrefutável
+#STRATEGY_GOOD_TOOLTIP
+Um argumento sólido
+#STRATEGY_VERY_BAD_TOOLTIP
+Um argumento muito fraco
+#STRATEGY_BAD_TOOLTIP
+Argumento fraco
+#STRATEGY_TOPIC_ATTITUDE_LOCKED_NOT_ENOUGHT
+Você não tem IP suficiente para descobrir a atitude do seu inimigo ({0} IP)
+#STRATEGY_TOPIC_ATTITUDE_LOCKED
+Clique para revelar a atitude do seu adversário sobre este assunto ({0} PI)
+#STRATEGY_TOPIC_ATTITUDE_LOCKED_PERMA
+Você não descobriu a postura do seu adversário.
+#STRATEGY_TOPIC_ATTITUDE_01
+Distante
+#STRATEGY_TOPIC_ATTITUDE_02
+Cabeça-dura
+#STRATEGY_TOPIC_ATTITUDE_03
+Sem opinião
+#STRATEGY_TOPIC_ATTITUDE_04
+Anexado
+#STRATEGY_TOPIC_ATTITUDE_05
+Hipersensível
+#STRATEGY_TOPIC_ATTITUDE_06
+Despreocupado
+#TAKEN_DISTRICTS_NOTEBOOK
+Seções controladas
+#INFLUENCE_NOTEBOOK
+Influência
+#DISCTRICTS_NOTEBOOK
+Seções
+#DEFAULT_ANSWER
+…
+#TOO_FEW_INFLUENCE_POINTS
+Pontos de Influência insuficientes
+$PROSECUTOR_QUEST_FAILD
+Enfrentar Tinville.
+#CASE_BASIC_MALE_QUESTION_00
+O réu confessou o crime?
+#CASE_BASIC_MALE_QUESTION_01
+O ato dele tinha caráter contrarrevolucionário?
+#CASE_BASIC_FEMALE_QUESTION_00
+O réu confessou o crime?
+#CASE_BASIC_FEMALE_QUESTION_01
+O ato dela teve caráter contrarrevolucionário?
+$MAGIC_BUTTON_LOCKED
+Bloqueado
+$MAGIC_BUTTON_NEXT
+Próximo
+$MAGIC_BUTTON_END_DAY
+Encerrar o dia
+#NOTEBOOK_PERSON_DETAIL_VIEW_EMPTY
+Selecione uma pessoa para ver informações detalhadas sobre ela.
+#NOTEBOOK_GLOBAL_MODS_VIEW_EMPTY
+Nenhum modificador global afeta sua situação no momento.
+#NOTEBOOK_EVENT_HISTORY_VIEW_EMPTY
+Aqui você encontrará informações sobre as decisões que tomou em cada evento.
+#ACT1
+Ato I
+#ACT2
+Ato II
+#ACT3
+Ato III
+#ACT1_DESC
+Liberdade
+#ACT2_DESC
+Igualdade
+#ACT3_DESC
+Fraternidade
+#EPILOGUE
+Epílogo
+$WAY_HEADER
+Para onde você gostaria de ir?
+$WAY_MAP
+Ir para o Mapa
+$WAY_DEN
+Ir para a Casa de Jogos
+$WAY_HOME
+Ir para casa
+#UNKNOWN_PERSON
+Personagem desconhecido
+#DEAD_PERSON
+Personagem morto
+#SPEECH_EMO_AGGRESSION
+Agressividade
+#SPEECH_EMO_MANIPULATION
+Manipulação
+#SPEECH_EMO_HUMILITY
+Humildade
+#SPEECH_EMO_JOKE
+Desleixo
+#WAITING_FOR_RESULT
+A ação será realizada no dia seguinte.
+$SPECIAL_VERDICT
+Veredito Extraordinário
+#FAMILY_CARD_MOCK
+O desenho do seu filho
+#HIERARCHY
+Hierarquia
+#INTRIGUE
+Intriga
+#AUTOSAVING_LABEL
+Salvando...
+#CUTSCENE_NOT_WATCHED
+Não assistido
+#CUTSCENE_SKIP_LABEL
+Pular
+#COURT_END_TITLE
+Nenhum caso em julgamento.
+#COURT_END_MAIN
+Tinville desapareceu, o Júri não apareceu. Todos procuram um canto escuro de Paris para se esconder. Não espere por novos casos para julgar – enquanto Paris estiver sitiada, nada chegará ao tribunal.
+$LEADERBOARD_TITLE
+Classificação
+$LEADERBOARD_TOP_BUTTON
+Top Jogadores
+$LEADERBOARD_PLAYER_POS_BUTTON
+Minhas Pontuações
+$PLAYER_NAME_LABEL
+Jogador
+$POINTS_LABEL
+Pontos
+$DAYS_LABEL
+Dias
+$LEADERBOARD_CONNECTION_ERROR_MSG
+Não foi possível baixar os resultados
+$LEADERBOARD_FINAL_SCORE_LABEL
+Pontuação final
+$LEADERBOARD_INPUT_NAME_LABEL
+Digite o nome do perfil...
+$CREATE_PROFILE_SELECT_HEADER
+Selecionar modo
+$PROFILE_TYPE_SURVIVAL
+Sobrevivência
+$PROFILE_TYPE_STORY
+Ficção
+$PROFILE_TYPE_SURVIVAL_DESC
+Sobrevivência é uma variação do jogo principal focada nos julgamentos do tribunal, onde o objetivo é manter o protagonista vivo e trabalhar pelo maior tempo possível.
+$PROFILE_TYPE_STORY_DESC
+Esta é a descrição do modo ficção.
+$LEADERBOARD_OUT_OF_TOP100_INFO
+Você marcou poucos pontos para entrar no Top 100 do ranking.
+$SURVIVAL_SCORE_HEADER
+Pontuação
+$SURVIVAL_SCORE_UNLOCKED_QUESTIONS_LABEL
+Perguntas desbloqueadas
+$SURVIVAL_SCORE_CORRECT_ANSWERS_LABEL
+Correção do relatório
+$SURVIVAL_SCORE_SUM_LABEL
+Total:
+$SURVIVAL_SCORE_ALL_QUESTIONS_BONUS_TOOLTIP
+Bônus por desbloquear todas as perguntas
+$SURVIVAL_SCORE_ALL_ANSWERS_TOOLTIP
+Bônus por todas as respostas corretas no relatório
+$SURVIVAL_SCORE_MATCH_JURY_TOOLTIP
+Bônus por concordância com o Júri
+$SURVIVAL_SCORE_AUDIENCE_TOOLTIP
+Bônus por manter a ordem na sala

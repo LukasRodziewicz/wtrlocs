@@ -1,0 +1,12 @@
+$EVE_032_TITLE
+Conspiração Monarquista
+$EVE_032_MAIN_01
+Aqui está, a primeira peça do quebra-cabeça. Vamos completar o restante com os cadáveres dos agentes inimigos...
+$EVE_032_MAIN_02
+Estamos cada vez mais perto. Logo descobriremos quem é “R”. Só precisamos de mais alguns cadáveres...
+$EVE_032_MAIN_03
+Foi Renard o tempo todo. Um agente gritou o sobrenome de seu superior pouco antes de morrer. Renard. Assim que você revelar essa informação, os aliados dele terão dificuldade para circular pelas ruas de Paris. Haveria algum benefício no silêncio, então? Certamente a cidade seria tomada por alvoroço, as pessoas começariam a caçar os traidores ocultos. Talvez o verdadeiro poder não venha do confronto, mas de uma aliança silenciosa?
+$EVE_032_MAIN_03_C1
+Revelar a informação
+$EVE_032_MAIN_03_C2
+Guarde a informação para si mesmo

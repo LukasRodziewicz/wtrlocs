@@ -1,0 +1,870 @@
+#FLASHCARD_HEADER_01
+Verdict extraordinaire
+#FLASHCARD_DESC
+Sélectionnez une affaire et faites-la glisser dans la colonne de votre choix.
+#FLASHCARD_HEADER_02
+Affaires à examiner
+#FLASHCARD_01_NAME
+Edmond Morin
+#FLASHCARD_01_DESC
+Un jeune et riche marchand aux commandes d'un cabriolet s'est écrasé dans la vitrine d'un commerce, blessant de la sorte plusieurs clients qui furent touchés par des tessons de verre. Le coupable ne chercha pas à s'enfuir. Son ébriété était telle qu'il perdit conscience lors de l'accident.
+#FLASHCARD_02_NAME
+Les frères Beaux
+#FLASHCARD_02_DESC
+Sylvain Beaux, âgé de 18 ans, et son cadet Fabien aiment passer leurs soirées à guetter des femmes coquettement vêtues, qu'ils attirent dans de sombres ruelles pour les dépouiller. Leur butin se résume principalement à des bijoux. Nous avons dénombré au moins neuf victimes.
+#FLASHCARD_03_NAME
+Olivier Prêtre
+#FLASHCARD_03_DESC
+Le saunier Olivier Prêtre s'est doté de poids creux spéciaux dont il se servait pour peser le sel qu'il vendait. Ses clients perdaient 50 grammes par kilo acheté. Non seulement il a abusé sa clientèle, comme il est soupçonné de fraude fiscale.
+#FLASHCARD_04_NAME
+Gérald Lucy
+#FLASHCARD_04_DESC
+Gérald Lucy, âgé de 70 ans, est coupable d'adultère avec une prostituée. Qui plus est, craignant de ne pas être en mesure de satisfaire ses désirs, il a dépensé 25 francs dans une potion à base de sang de chat. Selon ses dires aux enquêteurs : « Cette vieille bique m'a promis un sortilège. Et ça a marché, demandez donc à la catin. »
+#FLASHCARD_05_NAME
+Nathan Popelin
+#FLASHCARD_05_DESC
+Nathan Popelin, proxénète présent à la Place des Fédérés, a roué de coups un client d'une de ses protégées. Il a déclaré après sa détention que la victime « avait fait des choses pour lesquelles il n'avait pas payé ».
+#FLASHCARD_06_NAME
+Duret, de Boisselot, Lebas
+#FLASHCARD_06_DESC
+Trois jeunes aristocrates – Maël Duret, Gilbert de Boisselot et Luc Lebas – se sont enivrés jusqu'à en perdre la raison. Dans leur ébriété, ils exhumèrent le corps d'un condamné récemment enterré et le jetèrent sur une charrette qu'ils tirèrent dans tout Paris en hurlant « Voyez, la Révolution lui a fait perdre la tête ! »
+#FLASHCARD_07_NAME
+Gaume, Charpe
+#FLASHCARD_07_DESC
+Deux sergents – Grégoire Gaume et Lucien Charpe – ont soustrait à plusieurs reprises de la poudre à canon des entrepôts militaires. Chaque laisser-passer qui leur était remis était l'occasion pour eux d'écouler leur butin auprès de chasseurs et de bandits. Voler l'armée est un acte de trahison à l'encontre la France !
+#FLASHCARD_08_NAME
+Albane Maurice
+#FLASHCARD_08_DESC
+Une certaine Albane Meurice a molesté Blaise Cellier, qui travaillait à son étal de poissons, avec un gros bâton. D'après les témoins, c'est la chute malencontreuse d'un panier qui a provoqué la féroce volée de coups.
+#FLASHCARD_09_NAME
+René Galopin
+#FLASHCARD_09_DESC
+René Galopin, agent municipal, a exigé un dessous-de-table à un farinier contre une bonne place au marché. Lorsque la fille du marchand lui apporta l'argent, Galopin s'enferma avec elle dans son bureau pour abuser d'elle.
+#FLASHCARD_10_NAME
+Cédric Compère
+#FLASHCARD_10_DESC
+Cédric Compère, âgé de 12 ans, a renversé une passante, dégradant sa robe par là même et s'amusant de sa friponnerie. Lorsque le mari de la victime, qui l'avait pris en chasse, l'attrapa, il tenta de rejeter la faute sur son ami plus jeune qui, d'après les témoins, n'est nullement en cause.
+#FLASHCARD_11_NAME
+Lucille Picard
+#FLASHCARD_11_DESC
+Lucille Picard, veuve d'un cordonnier, a affirmé à un créancier venu collecter son dû « Dans le temps, on écorchait les gens, mais au moins on vous coupait pas la tête à tout-va ». Lorsque l'homme lui demanda si elle préfèrait l'époque révolue, elle aurait acquiescé.
+#FLASHCARD_12_NAME
+Édouard Abadie
+#FLASHCARD_12_DESC
+Édouard Abadie, tavernier, est accusé d'avoir ajouté des aiguilles de pin à ses saucisses. Le scandale éclata lorsque l'un de ses clients, Josselin Monteil, remarqua qu'elle avait un goût étrange. Courroucé, l'aubergiste le bouscula de son tabouret et le jeta hors de son établissement.
+#FLASHCARD_13_NAME
+Matthieu Cousteau
+#FLASHCARD_13_DESC
+Matthieu Cousteau, charpentier, s'était rendu chez Basile Lazard afin de prendre des mesures pour une garde-robe à trois portes. Profitant de l'occasion pour examiner le contenu du placard, ses mains rencontrèrent fortuitement une bouteille de cognac.
+#FLASHCARD_14_NAME
+Hector Pierlot
+#FLASHCARD_14_DESC
+Hector Pierlot, meunier, est décédé à la suite d'un copieux dîner. L'épouse de la victime pense que son mari a été empoisonné par leur cuisinier, Sébastien Chevotet. Quelques jours auparavant, Pierlot avait défendu Chevotet d'aller retrouver sa fiancée.
+#FLASHCARD_15_NAME
+Corinne Chardin
+#FLASHCARD_15_DESC
+Corinne Chardin, blanchisseuse, a tué son voisin Théophine Portier avec un couteau de cuisine. Le crime a eu lieu chez elle. Elle prétend que Portier l'aurait agressé, mais nous ne disposons d'aucun témoin ni preuve pour étayer ses dires.
+#FLASHCARD_16_NAME
+Émilien Bazalgette
+#FLASHCARD_16_DESC
+Émilien Bazalgette, estropié de guerre et mendiant, a été surpris en train d'inciter une petite fille à le suivre dans une cave. Alors qu'il tentait d'échapper à la Garde, il effraya accidentellement un cheval attelé à une charrette. L'animal dévala la rue, endommageant ce faisant le véhicule.
+#FLASHCARD_17_NAME
+Rapace, Bozonnet
+#FLASHCARD_17_DESC
+Lucas Rapace et Bruno Bozonnet se sont introduits chez le marquis de Rouvroy, ont ligoté son valet sur une chaise et l'ont molesté des heures durant afin qu'il révèle où était caché l'or de son maître. Quand ils comprirent qu'il ne parlerait pas, ils firent main basse sur l'argenterie et s'enfuirent.
+#FLASHCARD_18_NAME
+Paul Dubuisson
+#FLASHCARD_18_DESC
+Paul Dubuisson est un charlatan notoire. Il a été arrêté alors qu'il vendait une concoction à base d'os humains, promettant à ses clients qu'elle guérissait la décoloration des cheveux. Non seulement la potion était inefficace comme elle a causé de nombreux cas de maladie, de douleurs et de vomissements.
+#FLASHCARD_19_NAME
+Jean-Noël Pélissier
+#FLASHCARD_19_DESC
+Jean-Noël Pélissier gagne son pain quotidien au détriment des médecins. Son mode opératoire est de prendre rendez-vous avec l'un d'eux et, une fois dans la salle d'attente, de voler un colifichet qui s'y trouve. Son butin est revendu sur les marchés.
+#FLASHCARD_20_NAME
+Amaury Boudet
+#FLASHCARD_20_DESC
+Un informateur nous a appris que le gendre du général Évrard Grandjean a été nommé à la tête du bureau d'approvisionnement de l'École militaire. Avant de faire la connaissance de la fille du général, Boudet assistait ses parents dans leur taverne en ville.
+#FLASHCARD_21_NAME
+Philippe Rodier
+#FLASHCARD_21_DESC
+Alors qu'il rentrait chez lui, Philippe Rodier surprit sa fille avec son amant, Gaston Picard, soldat plus âgé de quelques années. Le père furieux chercha à mettre le jeune homme à la porte, mais celui-ci se défendit. Lorsque la fille tenta de les séparer, elle fut malencontreusement précipitée du haut des escaliers et se rompit le cou.
+#FLASHCARD_22_NAME
+Marquis Jean-Louis de Berthelot
+#FLASHCARD_22_DESC
+Le marquis Jean-Louis de Berthelot, ulcéré par une partie de cartes perdues chez un ami, s'en prit à ses propres serviteurs. Il trancha l'oreille de sa cuisinière avec un couperet. Lorsque le valet s'interposa pour la sauver, de Berthelot le frappa à mort.
+#FLASHCARD_23_NAME
+Barbier, Saunier, Duverger
+#FLASHCARD_23_DESC
+Trois adolescents, Martin Barbier, Théodore Saunier et Daniel Duverger se sont introduits de nuit dans une boulangerie, dans laquelle ils ont dérobé un grand sac de farine qu'ils tentèrent ensuite de vendre aux Halles. Il convient de mentionner qu'une fenêtre fut brisée durant le cambriolage.
+#FLASHCARD_24_NAME
+Rémi Jacquemin
+#FLASHCARD_24_DESC
+Selon notre rapport, le marchand Rémi Jacquemin a soudoyé les administrateurs du port fluvial pour qu'ils retiennent des marchandises appartenant à ses rivaux, ce qui lui permit de vendre les siennes au prix fort. Son crime a coûté aux Parisiens.
+#FLASHCARD_25_NAME
+Delaplace, Micheaux
+#FLASHCARD_25_DESC
+Deux prostituées communes, Marie-Laure Delaplace et Yvette Micheaux, ont molesté et gravement blessé leur sœur de rue, Lucille Joguet, qui aurait séduit un de leurs clients. Les passants ont trouvé la victime abandonnée dans une ruelle sombre, inconsciente, contusionnée et en sang. L'agression lui a fait perdre son œil gauche.
+#FLASHCARD_26_NAME
+Olivia Moineau
+#FLASHCARD_26_DESC
+Olivia Moineau, employée administrative, aurait raconté à ses voisines que son nouveau supérieur hiérarchique était indigne de sa position. Elle aurait même ajouté que le nouveau gouvernement se fie à des nigauds et qu'il faudrait y mettre bon ordre !
+#FLASHCARD_27_NAME
+Matthieu Besnard
+#FLASHCARD_27_DESC
+Matthieu Besnard a fait courir le bruit parmi les quelques oreilles attentives de la taverne de la rue Martin qu'il aurait une liaison adultère avec l'épouse de Luc Haillet. Les enquêteurs ont établi qu'il mentait très probablement.
+#FLASHCARD_28_NAME
+Marianne Garreau
+#FLASHCARD_28_DESC
+Le petit garçon de Marianne Garreau est décédé, sans doute sous les coups. Lorsqu'elle le porta au médecin, ce dernier constata aussitôt sa mort et appela la Garde. Lorsque les enquêteurs demandèrent au père de l'enfant où il se trouvait au moment de l'incident, le suspect refusa de répondre.
+#FLASHCARD_29_NAME
+René Boutin
+#FLASHCARD_29_DESC
+René Boutin, cuisinier de Norbert Pasquier, fonctionnaire municipal, a dérobé huit kilogrammes de viande fumée chez son maître. « Je voulais en vendre une partie et donner le reste à ma famille », expliqua l'accusé, qui avoua son larcin sans aucune hésitation.
+#FLASHCARD_30_NAME
+Hugues Beaufils
+#FLASHCARD_30_DESC
+Le Dr Hugues Beaufils fut tiré de son sommeil par l'épouse d'un villageois qui avait été pris de malaise au cours de son dîner. Le médecin, qui prit son temps pour répondre à la porte, refusa de se rendre auprès du patient car il était trop fatigué. La femme n'ayant pu trouvé un autre praticien à temps, son mari mourut.
+#FLASHCARD_31_NAME
+Geoffroy Loupe
+#FLASHCARD_31_DESC
+Le baron de Boudreaux engagea le serrurier Geoffroy Loupe pour installer un verrou sur l'un de ses coffres, mais l'artisan endommagea le couvercle serti. Le baron, qui estima les dégâts, affirma que les réparations coûteraient 50 francs. Loupe assure que le couvercle était déjà détérioré avant le début de ses travaux.
+#FLASHCARD_32_NAME
+Antoine Raoult
+#FLASHCARD_32_DESC
+Le soldat Antoine Raoult, alors qu'il attendait une femme devant la boutique de son mari, saisit un bâton sous le poids de l'ennui et se mit à dessiner au sol un motif en fleur de lys. Ses camarades de la Garde nationale, qui patrouillaient le quartier, le prirent sur le fait.
+#FLASHCARD_33_NAME
+Bethune, Geffroy, Droz
+#FLASHCARD_33_DESC
+Trois adolescents de 15 ans, Solenne Béthune, Adèle Geffroy et Bernard Droz, se sont réunis dans la cave d'un immeuble du Faubourg du Nord pour invoquer des créatures de l'au-delà. Ils avaient utilisé pour cela des chandelles volées. C'est le concierge qui mit fin au rituel.
+#FLASHCARD_34_NAME
+Marie-José Dumont
+#FLASHCARD_34_DESC
+Marie-José Dumont, adolescente de 16 ans, avait acheté deux kilogrammes d'oignons au marché, mais ne s'en acquitta que d'un. Quand il la vit réapparaître un jour suivant, le marchand l'emmena au commissariat le plus proche.
+#FLASHCARD_35_NAME
+Michel Loup
+#FLASHCARD_35_DESC
+Lors d'un voyage commercial dans le Nord, Michel Loup aurait eu un rapport adultérin avec Boissonade, une veuve qui s'occupe d'un asile de nuit à Rouen. C'est l'épouse de l'accusé qui a déposé plainte. Le dossier ne contient aucune pièce à conviction.
+#FLASHCARD_36_NAME
+Théophile, Cerfbeer
+#FLASHCARD_36_DESC
+Aimée Martin accuse les frères Théophile et Éloi Cerfbeer de l'avoir violée au cours d'un bal. Ils l'auraient entraînée sur les rives de la Seine et abusé d'elle dans un buisson. Nous n'avons trouvé aucun témoin du crime.
+#FLASHCARD_37_NAME
+Amand Peletier
+#FLASHCARD_37_DESC
+Amand Peletier, soldat de la Garde nationale, interrompit une de ses patrouilles pour entrer dans une auberge au bord du fleuve. On le vit boire une bière sombre étrangère. Le tenancier a attesté que Peletier avait exigé qu'on le servît gratuitement, sans quoi le maître des lieux « aurait des problèmes ».
+#FLASHCARD_38_NAME
+Hippolyte Rouanet
+#FLASHCARD_38_DESC
+Hippolyte Rouanet, âgé de 68 ans, tourmente ses voisins depuis un certain temps. Il a récemment envoyé ses chiens sur un groupe d'enfants vivant dans le même immeuble. Ce fut la goutte de trop pour les parents, qui décidèrent de porter plainte pour agression.
+#FLASHCARD_39_NAME
+Denise Asselin
+#FLASHCARD_39_DESC
+Denise Asselin, ancienne fille publique, tient chez elle une maison de prostitution dans laquelle quatre jeunes campagnardes se livraient tour à tour dans deux chambres. Au cours de l'enquête, celles-ci se plaignirent qu'Asselin ne les payait qu'une poignée de francs par nuit et les nourrissait chichement.
+#FLASHCARD_40_NAME
+Fabien Brasseur
+#FLASHCARD_40_DESC
+Hugo Cerf accuse son voisin Fabien Brasseur de s'être introduit dans un cabanon de leur jardin partagé. Lors de sa détention, Brasseur a assuré que le cabanon appartenait à eux tous et que Cerf l'avait illégalement verrouillé. Les autres habitants que les enquêteurs interrogèrent ont déclaré n'en rien savoir.
+#FLASHCARD_41_NAME
+Mathieu Rossignol
+#FLASHCARD_41_DESC
+Mathieu Rossignol, tisserand, était attablé à un restaurant proche de la Sainte-Chapelle lorsqu'un serveur, Florian Boisselot, renversa par mégarde de la sauce sur lui. La chemise en soie de Rossignol en fut irrémédiablement abîmée.
+#FLASHCARD_42_NAME
+Lucien Ponce
+#FLASHCARD_42_DESC
+Suzanne Ponce est décédé après un dîner avec son mari Lucien, médecin de garnison. Nous avons découvert que quelques jours avant le drame, Lucien avait surpris son épouse dans une des plus univoques situations… et positions.
+#FLASHCARD_43_NAME
+De Guignes, Joubert, Charbonnier, Vigouroux
+#FLASHCARD_43_DESC
+Quatre criminels d'ascendance aristocratique – De Guignes, Joubert, Charbonnier et Vigouroux – se sont attaqués à des soldats en poste de nuit devant le corps de garde. Après quoi ils sont entrés dans le bâtiment, y ont mis le feu et se sont enfuis. Il ne fait aucun doute que leur crime est politiquement motivé.
+#FLASHCARD_44_NAME
+Lionel Bettencourt
+#FLASHCARD_44_DESC
+Lionel Bettencourt, qui négociait la vente d'un cabriolet, ne mentionna pas que l'essieu du véhicule était vermoulue, sous l'action de l'humidité et de la négligence. Le malheureux acheteur exigea d'être remboursé, mais, d'après ses dires : « Le salaud m'a claqué la porte au nez ! »
+#FLASHCARD_45_NAME
+Émile Berlioz
+#FLASHCARD_45_DESC
+Émile Berlioz, vicomte de 22 ans, a cherché à abattre en plein jour le frère de sa bien-aimée, avec qui il était à couteaux tirés. La balle, qui manqua son but, se logea dans le mur d'une maison. Le jeune aristocrate fut ensuite arrêté par la cible de son agression.
+#FLASHCARD_46_NAME
+Gaël Camille
+#FLASHCARD_46_DESC
+Lorsque les intendants militaires se rendirent à un port fluvial afin de réquisitionner des produits pour le front, l'un des marchands, Gaël Camille, sillonna le port pour prêcher la révolte parmi ses pairs. Par chance, les soldats furent suffisamment nombreux pour faire régner l'ordre.
+#FLASHCARD_47_NAME
+Marthe Cuvillier
+#FLASHCARD_47_DESC
+En traversant la rue sans regarder, Marthe Cuvillier, 56 ans, s'est engagée sur le passage d'une charrette en mouvement, qui transportait des fûts de vin. Le charretier, souhaitant éviter un drame, exécuta un écart précipité qui entraîna la chute et la rupture de plusieurs tonneaux. Le tavernier prétend que le vin perdu était d'une grande qualité et très onéreux.
+#FLASHCARD_48_NAME
+Abélard Delafosse
+#FLASHCARD_48_DESC
+Gaëtan Barthet a ordonné à Abélard Delafosse de répandre dans Paris la rumeur qu'un chimiste aurait élaboré une formule permettant de produire du sucre à partir d'écorce de pin. Barthet en tira la possibilité de vendre une pineraie au sud de Paris à un prix exorbitant.
+#FLASHCARD_49_NAME
+Séverin Lebas
+#FLASHCARD_49_DESC
+Ivre, Séverin Lebas enjamba la clôture entourant l'entrepôt du marchand Carbonneau, y voyant un raccourci pour retourner chez lui. Les chiens qui gardaient la propriété pourchassèrent l'intrus. Lebas escalada alors une pile de marchandises, de laquelle il fit tomber plusieurs caisses de légumes.
+#FLASHCARD_50_NAME
+Tobie Vallotton
+#FLASHCARD_50_DESC
+Tobie Vallotton, voyou mal famé dans son quartier, a violé puis tué son ancienne concubine chez elle. C'est son amant actuel, qui buvait avec ses amis à quelques rues de là au moment du crime, qui a trouvé le corps.
+#FLASHCARD_51_NAME
+Jean-Baptiste Lecerf
+#FLASHCARD_51_DESC
+Jean-Baptiste Lecerf a été cambriolé par Séverin Saunier. L'accusé lui amena une de ses prostituées. Profitant que Lecerf était occupé avec la fille de joie, Saunier revint pour briser le verrou de son bureau et s'empara de plusieurs centaines de francs en espèces.
+#FLASHCARD_52_NAME
+Deniau, Gaume, Besnard, Delcroix
+#FLASHCARD_52_DESC
+Une querelle a éclaté parmi un groupe de femmes faisant la file à une fontaine. Elles en sont rapidement venues aux mains. Parmi elles ont été identifiées Deniau, Gaume, Besnard et Delcroix. Cette dernière aurait été jetée au sol et gravement brutalisée.
+#FLASHCARD_53_NAME
+Godefroy Ouvrard
+#FLASHCARD_53_DESC
+Godefroy Ouvrard, jeune artisan qui effectuait quelques réparations chez les Auberjonois a commis un adultère avec la maîtresse de maison, en l'absence du mari. En quittant les lieux, Ouvrard déroba un stylo à plume et un médaillon en or. Nous requérons que les deux amants soient punis.
+#FLASHCARD_54_NAME
+Claude Ducharme
+#FLASHCARD_54_DESC
+Un haut fonctionnaire des postes a, d'après les témoignages de ses collègues, dépensé plusieurs milliers de francs en tabac et cognac. Il a bien évidemment dérobé l'argent au bureau de poste.
+#FLASHCARD_55_NAME
+Thomas Levasseur
+#FLASHCARD_55_DESC
+Thomas Levasseur, aristocrate rural, a été publiquement accusé à tort de ne pas avoir payé au tailleur Jean-Yves Noir 13 paires de culottes. Levasseur, après avoir déposé plainte pour défendre son honneur, a présenté des reçus prouvant qu'il avait bien payé les culottes.
+#FLASHCARD_56_NAME
+Frédéric Bessette
+#FLASHCARD_56_DESC
+Le directeur de l'un des cabinets du Ministère de l'Intérieur a nommé son frère cadet secrétaire général. En outre, Frédéric Besset lui accorde régulièrement une prime pour ses réussites professionnelles. Curieusement, les autres fonctionnaires soutiennent ne jamais avoir vu le jeune Bessette.
+#FLASHCARD_57_NAME
+Louis Dolbeau
+#FLASHCARD_57_DESC
+Louis Dolbeau, lieutenant de la Garde nationale, a accepté un pot-de-vin, sous la forme d'une montre en or, de la part de Gauthier Dufresne. Ce dernier a été arrêté pour conduite en état d'ivresse et agression d'un autre cocher avec lequel il s'était disputé dans la rue.
+#FLASHCARD_58_NAME
+Félicité Marais
+#FLASHCARD_58_DESC
+Félicité Marais, cuisinière, a accepté de l'argent de la part d'un agent autrichien qui voulait qu'elle empoisonnât son maître, le général Trintignant. Elle exécuta son forfait avec grand zèle : le pâté toxique qu'elle prépara causa la mort non seulement du général mais aussi de son épouse, de son plus jeune fils et de sa bru.
+#FLASHCARD_59_NAME
+Charles Renou
+#FLASHCARD_59_DESC
+Jean-Pierre Renou accuse son propre frère, Charles Renou, d'avoir volé des médailles commémoratives appartenant à leur père. Malgré nos inspections minutieuses des appartements des deux hommes, nous n'avons trouvé aucune médaille. L'accusé nie toute responsabilité.
+#FLASHCARD_60_NAME
+Loup Didier
+#FLASHCARD_60_DESC
+D'après le témoignage d'un jeune garçon âgé de 7 ans, Loup Didier, un vicaire de la section du Mont-Blanc, lui a demandé de l'aide avec son clocher. Lorsque le garçon est arrivé, le prêtre s'est livré à des actes lubriques que nous préférons ne pas décrire. Les parents demandent un châtiment sévère.
+#FLASHCARD_61_NAME
+Jean-Charles Bernier
+#FLASHCARD_61_DESC
+Au cours d'un défilé en soutien à la Convention nationale, était présent Jean-Charles Bernier, au coin de la Place de la Révolution. Des témoins et des membres de la Garde attestent l'avoir entendu crier « Le Roi Soleil reviendra ». Inutile d'en dire plus.
+#FLASHCARD_62_NAME
+Grégoire Beaubois
+#FLASHCARD_62_DESC
+Grégoire Beaubois a soutiré douze mille francs à deux femmes, en les persuadant qu'il était un émissaire du roi George III. Quoiqu'ayant eu affaire à un escroc, elles ont cru soutenir un agent monarchiste en France.
+#FLASHCARD_63_NAME
+Renaud Fouquet
+#FLASHCARD_63_DESC
+Renaud Fouquet a essayé de faire entrer quatre tonneaux de tabac sec en contrebande dans Paris, sans payer le moindre droit. Pour ce faire, il a eu recours à des tonneaux spéciaux dotés de faux fonds qui, à première vue, paraissaient remplis de chou.
+#FLASHCARD_64_NAME
+Bastien Le Mahieu
+#FLASHCARD_64_DESC
+Bastien Le Mahieu braconnait dans les bois à l'est de Paris lorsqu'il manqua d'abattre le vicomte Barreau, qui s'y promenait à cheval. Le Mahieu a déclaré aux enquêteurs qu'il avait confondu le cheval avec un cerf.
+#FLASHCARD_65_NAME
+Porthos Poullain
+#FLASHCARD_65_DESC
+Porthos Poullain, peintre talentueux, contrefait des toiles célèbres pour les vendre à haut prix à des clients naïfs. Lorsque l'un de ses apprentis réclama une augmentation en menaçant de dévoiler la supercherie, Poullain recruta un certain Yves Jeannin pour l'assassiner.
+#FLASHCARD_66_NAME
+Golay et Lagace
+#FLASHCARD_66_DESC
+Deux jeunes hommes ont été aperçus en train de jeter des pierres aux fenêtres du domicile du député de la Convention Rémy Crozier. Les pierres, qui brisèrent les vitres, finirent leur chute dans une chambre où jouaient les enfants de Crozier. Par chance, ils ne furent pas blessés.
+#FLASHCARD_67_NAME
+Arnaud Rousselot
+#FLASHCARD_67_DESC
+Deux soldats de la Garde nationale, Jean-Pascal Demaret et Bastien Perrat ont dû intervenir au domicile d'Arnaud Rousselot. L'homme a battu son fils et attaqué un soldat avec un couteau. Nous l'avons donc inculpé pour agression et coups et blessures.
+#FLASHCARD_68_NAME
+Joël Brian
+#FLASHCARD_68_DESC
+Joël Brian a acheté 16 peaux d'ours et 128 fourrures de zibeline au marché. Malgré ses dénégations, nous sommes persuadés – ainsi qu'un groupe de marchands – qu'il cherchait à spéculer et s'enrichir sur le dos des Parisiens.
+#FLASHCARD_69_NAME
+Honorine Cailloux
+#FLASHCARD_69_DESC
+Honorine Cailloux, 52 ans, battait régulièrement sa mère âgée de plus de 80 ans. Elle versait de l'eau froide sur la vieille femme puis la brûlait avec un tisonnier chauffé au rouge. Nous avons appris par ailleurs qu'elle avait revendu divers objets volés chez sa mère. L'argent lui servait ensuite à s'acheter du vin et du laudanum.
+#FLASHCARD_70_NAME
+Matthieu Bouhier
+#FLASHCARD_70_DESC
+Ivre, Matthieu Bouhier a tenté de soudoyer un officier de la Garde avec huit francs. Le fils du comte Bouhier a été arrêté en pleine nuit dans les rues de Paris alors qu'il cognait aux portes et chantait à tue-tête, réveillant ainsi les riverains.
+#FLASHCARD_71_NAME
+Paulette Pernet
+#FLASHCARD_71_DESC
+Paulette Pernet aurait volé le linge de sa voisine Adrienne Escoffier, alors qu'il séchait dans la cour. En fouillant l'appartement de l'accusée, les inspecteurs ont trouvé des draps qu'Escoffier a immédiatement reconnus, sans que Pernet ne passe aux aveux.
+#FLASHCARD_72_NAME
+Ignace Lefeuvre
+#FLASHCARD_72_DESC
+Ignace Lefeuvre ayant perdu momentanément les rênes de son cheval, sa carriole dérapa contre un groupe de passants. Deux personnes moururent sur le coup et plusieurs durent être emmenées à l'hôpital. Lefeuvre était sobre et fut le premier à venir au secours des blessés.
+#FLASHCARD_73_NAME
+Jean-Marc Massé
+#FLASHCARD_73_DESC
+Le Dr Jean-Marc Massé a été appelé au chevet d'un homme de 70 ans souffrant de fièvre. Le médecin était censé pratiquer une saignée sur le patient, qui périt lors du traitement. Sa famille accuse à présent Massé de meurtre.
+#FLASHCARD_74_NAME
+Yvon Poullain
+#FLASHCARD_74_DESC
+Yvon Poullain, boulanger marié, a été surpris dans le lit de son amante par le père de celle-ci. Dans sa fuite, Poullain se jeta à travers la lucarne d'une maison voisine, brisant quelques tuiles au passage. Le trou qu'il laissa était si gros que la pluie détruisit plusieurs objets entreposés dans le grenier.
+#FLASHCARD_75_NAME
+Marie-Paule Jacquard
+#FLASHCARD_75_DESC
+Marie-Paule Jacquard, veuve d'un valet servant au Louvre, a cherché à acquérir une grande quantité de poudre à canon. Elle a avoué au cours de son interrogatoire avoir projeté un attentat contre l'hôtel de ville.
+#FLASHCARD_76_NAME
+Joseph Compère
+#FLASHCARD_76_DESC
+Tard dans la soirée, Joseph Compère a été agressé dans sa petite boucherie. Il se défendit si bien avec un couperet que le brigand s'écroula exsangue quelques rues plus loin. Compère ne dénonça pas son crime. Après avoir interrogé quelques témoins, la Garde vint le trouver.
+#FLASHCARD_77_NAME
+Michelle Ménard
+#FLASHCARD_77_DESC
+Des signalements nous ont révélé que la citoyenne Michelle Ménard, commise des postes, ouvrait des correspondances et les lisait. Nous avons découvert d'importantes sommes d'argent chez elle, loin de ce que son modeste salaire lui aurait permis d'épargner. Il s'agit d'une preuve patente de sa collaboration avec des agents étrangers.
+#FLASHCARD_78_NAME
+Maximilien Crépin
+#FLASHCARD_78_DESC
+Maximilien Crépin, fils d'un aristocrate condamné pour des actes contre-révolutionnaires, a tenté de contrecarrer son exécution en excitant la foule à attaquer la Garde. Il a notamment clamé « Le Roi était certes un salaud, mais il ne décapitait pas tout un chacun ! »
+#FLASHCARD_79_NAME
+Pierre-Antoine Chuquet
+#FLASHCARD_79_DESC
+Le peintre Pierre-Antoine Chuquet a payé le ménager du cimetière municipal, Able Cochet, pour qu'il le laisse exhumer et emporter un cadavre quelconque à son atelier. Il semble que Chuquet avait besoin du corps comme « mannequin » pour une de ses toiles.
+#FLASHCARD_80_NAME
+Fouquet, Rigal, Cellier et Boissonade
+#FLASHCARD_80_DESC
+Au cours de la nuit, quatre adolescents – Fouquet, Rigal, Cellier et Boissonade – ont brisé le couvercle d'un puits et… déféqué dedans, par plaisanterie. Le gardien qui les surprit a attesté que les garçons avaient auparavant tenté de noyer un chat. Heureusement, l'animal était parvenu à leur échapper.
+#FLASHCARD_81_NAME
+Boutet et Abbadie
+#FLASHCARD_81_DESC
+Noël Boutet et Marius Abbadie jouaient à la guerre avec d'autres enfants de leur cour en prétendant imiter, je cite : « les mousquetaires du Roi ». L'un des voisins en informa la Garde. Lorsque les soldats arrivèrent sur les lieux, les enfants reconstruisaient la Bastille à partir de vieux coffres et Boutet et Abbadie se proposaient de la défendre !
+#FLASHCARD_82_NAME
+Anita Lemaître
+#FLASHCARD_82_DESC
+Anita Lemaître, directrice d'un orphelinat, a accepté que des hommes abusent d'enfants contre de l'argent. Une intervention de nos soldats permit de surprendre trois pervers qui, malheureusement, réussirent à s'échapper et à se soustraire au châtiment.
+#FLASHCARD_83_NAME
+Marine Dupont
+#FLASHCARD_83_DESC
+Marine Dupont, propriétaire d'une maison de tolérance au centre de Paris, avait l'habitude de duper sa clientèle. D'après un informateur anonyme, Dupond se servait de sabliers truqués pour mesurer faussement le temps que ses clients passaient avec les prostituées.
+#FLASHCARD_84_NAME
+Nathanaël Boulet
+#FLASHCARD_84_DESC
+Nathanaël Boulet, charpentier, raccompagna chez elle Marie-Claude Adnet, ouvrière, après un bal. Malgré les objections univoques de cette dernière, il se serait invité dans son appartement et l'aurait violée.
+#FLASHCARD_85_NAME
+Roger Boissieu
+#FLASHCARD_85_DESC
+Roger Boissieu a déserté l'armée et fui Paris, où il était détenu par la Garde pour ébriété et rixes. En s'informant auprès de son supérieur, les inspecteurs apprirent que Boissieu était suspecté du meurtre d'un compagnon d'armes. Il s'agit probablement du motif de sa fuite.
+#FLASHCARD_86_NAME
+Edgar et Sylvie Blanchet
+#FLASHCARD_86_DESC
+Il s'est avéré qu'Edgar Blanchet et son épouse Sylvie cambriolaient fréquemment des auberges et des caves. Ils ont également détroussé des passants dans la rue. Une patrouille de la Garde tomba nez à nez sur eux à la sortie d'une cave à vin qu'ils venaient de dévaliser.
+#FLASHCARD_87_NAME
+Arnaud Deshaies
+#FLASHCARD_87_DESC
+Arnaud Deshaies, 68 ans, a tué son épouse et mis le feu à l'immeuble dans lequel ils vivaient afin de ne laisser aucune trace. Huit personnes périrent dans l'incendie et seize autres furent blessées. L'accusé n'a pas souhaité donner la raison de son geste.
+#FLASHCARD_88_NAME
+Deshaies et Saunier
+#FLASHCARD_88_DESC
+Robert Deshaies est entré par effraction chez divers Parisiens fortunés. Par la suite, Léonard Saunier, son complice, leur a rendu visite pour leur proposer d'installer de nouveaux verrous sur leurs portes. Voilà une idée de commerce florissant !
+#FLASHCARD_89_NAME
+Jean Côté
+#FLASHCARD_89_DESC
+Un prêtre constitutionnel, Jean Côté, a été arrêté pour avoir fondu et vendu de l'or destiné aux besoins de la Révolution. Nous sommes parvenus à trouver des personnes l'ayant vu boire et entrer dans des maisons de tolérance. Nous soupçonnons l'ecclésiastique de s'être adonné à la débauche aux frais de l'État.
+#FLASHCARD_90_NAME
+Paul Malet
+#FLASHCARD_90_DESC
+Le violoniste Paul Malet s'en est pris physiquement à un musicien rival après une représentation. Tapi dans un recoin de la rue, Malet l'a attaqué dans le dos et roué de coups de gourdin. Nous pouvons certifier que l'agresseur s'est montré particulièrement cruel envers sa victime, à qui il a brisé sept doigts.
+#FLASHCARD_91_NAME
+Michel Popelin
+#FLASHCARD_91_DESC
+Michel Popelin doit sa place dans la chancellerie de la Convention nationale à son oncle, Blaise Popelin, qui intercéda en sa faveur. Aspirant à monter en grade, Michel a fait courir le bruit que son supérieur appuyait secrètement les monarchistes.
+#FLASHCARD_92_NAME
+Flore Favre
+#FLASHCARD_92_DESC
+Flore Favre, servante de 17 ans, s'est livrée à une dispute avec une collègue, Claudine Martin, qui dégénéra au point que Favre jeta un verre à la figure de Martin. La victime affirme qu'elle restera à jamais marquée de cicatrices.
+#FLASHCARD_93_NAME
+Jean-Luc Mesny
+#FLASHCARD_93_DESC
+Le sellier Jean-Luc Mesny participe à des manifestations contre la hausse du prix du pain. On l'a vu jeter des pierres sur la Garde et encourager d'autres à le rallier. L'un des projectiles a atteint un garçon de sept ans présent sur place. L'enfant est décédé.
+#FLASHCARD_94_NAME
+Amaury Jaccoud
+#FLASHCARD_94_DESC
+Alors qu'il se promenait à cheval de nuit dans Paris, Amaury Jaccoud fut arrêté par une patrouille de la Garde qui remarqua qu'il tenait difficilement en selle. Il s'avéra qu'il était ivre au dernier degré. Si le cheval eut été pris de frayeur, Jaccoud n'aurait pas été en mesure de le maîtriser.
+#FLASHCARD_95_NAME
+Verninac, Chéron et Trémaux
+#FLASHCARD_95_DESC
+Grâce à un informateur anonyme, nous avons découvert que Charlotte Verninac, Cécile Chéron et Martin Trémaux ont cherché à persuader des mauvais esprits de renverser le nouveau gouvernement. Parmi les objets suspects trouvés chez eux figuraient des livres rédigés en langues inconnues et divers flacons de substances étranges.
+#FLASHCARD_96_NAME
+Cédric Barnier
+#FLASHCARD_96_DESC
+Lors d'une visite auprès de son fournisseur en province, le marchand Cédric Barnier a chargé dans sa carriole quatre sacs de farine qu'il n'avait pas payés. De toute évidence, il n'a pu s'agir d'une simple erreur mais d'un vol délibéré.
+#FLASHCARD_97_NAME
+Auguste Raoult
+#FLASHCARD_97_DESC
+Lors d'une dispute domestique, Auguste Raoult, âgé de 40 ans, entra dans une fureur folle. Il s'en prit d'abord à sa sœur aînée, puis, lorsque leur mère s'interposa, saisit une poêle et frappa la vieille femme à la tête. Celle-ci perdit aussitôt conscience et mourut quelques heures plus tard.
+#FLASHCARD_98_NAME
+Jacques Gavreau
+#FLASHCARD_98_DESC
+Jacques Gavreau, maçon, surprit Jean Gouin dans une tentative flagrante de vol de son outillage. Les collègues de Gavreau, qui le virent s'attaquer à Gouin avec une pelle, estiment que sans leur intervention il eût tué le fautif.
+#FLASHCARD_99_NAME
+Leroux et Pasquier
+#FLASHCARD_99_DESC
+Gilbert Leroux, éleveurs d'animaux à fourrures, a versé un dessous-de-table conséquent au député Gaëtan Pasquier, afin que celui-ci exhorte en échange ses pairs à voter une hausse des droits sur les fourrures importées d'Europe orientale.
+#FLASHCARD_100_NAME
+Marcel Lucy
+#FLASHCARD_100_DESC
+Marcel Lucy enfonça la porte d'un appartement qu'il cherchait à cambrioler et dont le propriétaire était absent de Paris. Le larron n'a rien pu dérober, car les voisins vigilants entrèrent dans l'appartement et l'appréhendèrent alors qu'il furetait la chambre à coucher.
+#FLASHCARD_101_NAME
+Bernadette Gauthier
+#FLASHCARD_101_DESC
+Bernadette Gauthier, jeune épouse d'un officier de la Garde, Jean-Jacques Gauthier, a été surprise dans son lit avec le fils de leur valet, âgé de 14 ans. Fort heureusement, le mari trompé sut se contenir et se limiter à arrêter son épouse adultère et son amant au lieu de les punir personnellement.
+#FLASHCARD_102_NAME
+Gérald Carpentier
+#FLASHCARD_102_DESC
+Il s'est avéré que le charcutier Gérald Carpentier préparait ses saucisses et son jambon à partir de carcasses de cochons et de chevaux, qu'il achetait à bas prix auprès des paysans locaux. Aucune intoxication alimentaire n'a été signalée jusqu'à présent, mais nous estimons qu'un tel incident ne saurait tarder.
+#FLASHCARD_103_NAME
+Martine Sartre
+#FLASHCARD_103_DESC
+La prostituée Martine Sartre fréquentait plusieurs hauts gradés de la Garde, ainsi qu'un agent britannique déjà condamné à mort. Nous avons la certitude qu'elle a été payée pour lui confier des secrets militaires à l'occasion de leurs rencontres intimes.
+#FLASHCARD_104_NAME
+Léopold Lebeau
+#FLASHCARD_104_DESC
+Léopold Lebeau faisait commerce de « pierres exotiques » supposées « réduire l'humidité et la puanteur de la ville » et qu'il vendait à prix très élevé. Il démarchait principalement des personnes âgées. Une courte enquête a suffi pour prouver que les pierres n'étaient que des roches fluviales.
+#FLASHCARD_105_NAME
+Gaëtan et Lucie Guilloux
+#FLASHCARD_105_DESC
+Les restaurateurs Gaëtan et Lucie Guilloux servaient trompeusement à leur clientèle du « filet mignon » qui s'est révélé n'être que de la viande de porc de basse qualité. Pour masquer le goût, ils assaisonnaient leurs plats de sauces et d'épices médiocres.
+#FLASHCARD_106_NAME
+Paul et Gustave de Guignes
+#FLASHCARD_106_DESC
+Paul et Gustave de Guignes ont forcé leur sœur à vendre sa pudeur. Nous savons qu'ils ont ensuite utilisé cet argent mal acquis pour acheter une grande quantité d'opium.
+#FLASHCARD_107_NAME
+Pierre Jauffret
+#FLASHCARD_107_DESC
+Tandis que ses hommes se préparaient à la bataille, le général Pierre Jauffret est allé rendre visite à sa maîtresse dans sa tente. Précisons qu'ils furent surpris en pleins ébats intimes et entourés de mets délicats si rares en temps de guerre que même les officiers n'y ont pas accès.
+#FLASHCARD_108_NAME
+Hubert Bernier
+#FLASHCARD_108_DESC
+Hubert Bernier a raconté à tout son voisinage qu'un détachement de la Garde a illégalement malmené son frère. Nous avons cependant établi que Pierre Bernier avait attaqué les soldats, qui se sont simplement défendus. Nous avons également découvert que le fautif a déjà été châtié.
+#FLASHCARD_109_NAME
+Aubin Massé
+#FLASHCARD_109_DESC
+Aubin Massé a déserté sa batterie d'artillerie en pleine bataille en s'enfuyant dans les bois. Pris de remords, il retourna à son poste un peu plus tard mais fut mis aux fers aussitôt. L'accusé prétend avoir paniqué sous l'effet des boulets qui tombaient autour de lui. Les autres artilleurs ont quant à eux gardé leur position durant les combats.
+#FLASHCARD_110_NAME
+Hubert Ardouin
+#FLASHCARD_110_DESC
+Au cours d'une bagarre d'ivrognes à laquelle il participait, Hubert Ardouin a tué Rémy Abbadie en lui fracturant le crâne sur le coin d'une table. Aussitôt qu'il prit conscience de son crime, il s'empara des rênes d'une voiture qui passait là, dans le but de s'échapper. Il était heureusement trop aviné pour conduire correctement et ne tarda pas à perdre une des roues du véhicule, ce qui permit sa capture.
+#FLASHCARD_111_NAME
+Antoine Bessette
+#FLASHCARD_111_DESC
+Antoine Bessett s'est fait remarquer en train de courir avec deux bâtons de bois attachés dans le dos et de s'égosiller à propos de monstres meurtriers. Plusieurs marchands, un forgeron et deux porteurs d'eau ont été blessés.
+#FLASHCARD_112_NAME
+Barnabé Daigre
+#FLASHCARD_112_DESC
+L'officier de la Garde Barnabé Daigre a refusé de poursuivre un voleur qui venait de voler une caisse de viennoiseries chez un pâtissier. Daigre s'est justifié en rappelant qu'il avait été blessé au genou par une flèche dans sa jeunesse.
+#FLASHCARD_113_NAME
+Corin Faivre
+#FLASHCARD_113_DESC
+Le jeune Corin Faivre est accusé d'avoir détruit un étal forain. En cherchant à sauter depuis un toit sur une charrette chargée de foin, le garçon a atterri sur un étal appartenant au marchand Geudre. Corin s'est cassé un bras et les deux jambes.
+#FLASHCARD_114_NAME
+Jean-Marie Pollard
+#FLASHCARD_114_DESC
+Le marchand Jean-Marie Pollard est accusé de supercherie par Adrienne Guillet, qui lui a acheté un moulin à café défectueux. Lorsqu'elle souhaita lui restituer l'objet hors d'usage, le commerçant lui proposa d'acheter neuf petits composants qui auraient rendu l'appareil plus rapide, plus efficace et… capable de remplir sa fonction.
+#FLASHCARD_115_NAME
+Blaise Hamelin
+#FLASHCARD_115_DESC
+Blaise Hamelin a tenté de dévaliser un marchand en lui couvrant la tête avec un seau, dans l'espoir qu'il ne remarque pas le vol.
+#FLASHCARD_116_NAME
+Julien Lardy
+#FLASHCARD_116_DESC
+Le vicaire Julien Lardy a été vu en train de battre trois enfants qui jouaient aux cartes dans la rue. L'accusé prétend qu'ils jouaient à la « guerre », jeu qui, selon lui, excite la violence.
+#FLASHCARD_117_NAME
+Abel Clouthier
+#FLASHCARD_117_DESC
+Abel Clouthier, fabriquant de jouets en bois, a agressé Charles Ducré, un de ses revendeurs, avec une tige métallique. Clouthier jugeait les efforts commerciaux de Ducré insatisfaisants et il s'agit sans doute du motif du crime. Il a donc décidé de s'en prendre à lui et de mettre le feu à son magasin.
+#FLASHCARD_118_NAME
+Francis Alard
+#FLASHCARD_118_DESC
+Francis Alars, âgé de 72 ans, promenait avec plaisir sa voiture dans tout Viroflay même s'il était trop ivre pour tenir en selle. Les voisins qui l'arrêtèrent ont attesté qu'il circulait avec ses petits-enfants et que la situation aurait pu finir tragiquement.
+#FLASHCARD_119_NAME
+Abelin Lozé
+#FLASHCARD_119_DESC
+Durant une de ses premières patrouilles, Abelin Lozé, jeune officier de la Garde s'est laissé convaincre par ses collègues plus anciens de décharger son mousquet dans la rue. Par chance, personne ne fut blessé, mais la balle traversa une vitrine et détruisit un mannequin et les vêtements dont il était paré.
+#FLASHCARD_120_NAME
+Bacque
+#FLASHCARD_120_DESC
+Le marquis Bacque a dupé Jan Poulin, qui lui a acheté un manoir. Bacque lui fit croire qu'il allait acquérir la demeure, le jardin et une partie de la forêt voisine. En réalité, la forêt appartenait au voisin. Poulin découvrit la vérité le jour où il emménagea dans le manoir.
+#FLASHCARD_121_NAME
+Didier Berlioz
+#FLASHCARD_121_DESC
+Le fermier Didier Berlioz, brouillé avec Perrine Girault, mit le feu durant une nuit au champ voisin qu'elle cultivait. En conséquence de cet acte criminel, des dizaines d'hectares cultivés appartenant à divers paysans ont été réduits en fumée. Il ne s'agit pas de simple vandalisme, mais d'un méfait envers la France. Trahison !
+#FLASHCARD_122_NAME
+Jérémie Lefrançois
+#FLASHCARD_122_DESC
+Jérémie Lefrançois, agent municipal, est poursuivi pour avoir délivré de faux passeports à des délinquants. L'accusé a reconnu sa culpabilité et fourni une liste détaillée de tous ses clients aux inspecteurs. La liste recensait plus d'une centaine de noms.
+#FLASHCARD_123_NAME
+Margaux Bossuet
+#FLASHCARD_123_DESC
+Margaux Bossuet a poignardé son jeune ami au cours d'une beuverie. Des secouristes parvinrent à le sauver, malgré un saignement important. L'accusée et sa victime sont notoirement réputés pour leur ivrognerie et leur paresse.
+#FLASHCARD_124_NAME
+Juliette Chapuis
+#FLASHCARD_124_DESC
+Juliette Chapuis, fille chérie d'un riche manufacturier, a empoisonné son père pour toucher prématurément son héritage. Nous avons eu connaissance du complot, fomenté par Juliette et un homme mystérieux, après l'enterrement de Gaspard Chapuis par son frère Jean-Louis.
+#FLASHCARD_125_NAME
+Marcel Manoury
+#FLASHCARD_125_DESC
+Marcel Manoury, imprimeur, a publié un traité sans l'accord de son auteur. L'ouvrage rencontra un grand succès dans les librairies parisiennes et la mise au pilon des livres illégalement imprimés s'avéra impossible, car ils s'étaient presque tous vendus.
+#FLASHCARD_126_NAME
+Camille et Maud Boudon
+#FLASHCARD_126_DESC
+Camille Boudon et son épouse Maud, tous deux pharmaciens, sont poursuivis pour avoir vendu du laudanum sans la moindre trace d'opium au prix du produit usuel. Nous n'avons pas pu déterminer combien de Parisiens ont été abusés.
+#FLASHCARD_127_NAME
+Lajoie et Asselin
+#FLASHCARD_127_DESC
+Le comte Adrien Lajoie et son serviteur Alain Asselin ont été surpris en train de sortir d'un cimetière avec un cercueil contenant la dépouille mortelle d'Honorine Lajoie, son épouse décédée. Précisons qu'elle fut guillotinée pour propagande contre-révolutionnaire.
+#FLASHCARD_128_NAME
+Vivienne Lecerf
+#FLASHCARD_128_DESC
+Vivienne Lecerf est inculpée d'empoisonnement sur plusieurs de ses clients avec de la viande avariée. Même après avoir examiné de près la nourriture, jusqu'à la goûter, les inspecteurs n'ont su déterminer avec certitude s'il s'agissait de viande de porc, de cheval ou de chien.
+#FLASHCARD_129_NAME
+Jean-Charles Rousselle
+#FLASHCARD_129_DESC
+Jean-Charles Rousselle, boulanger, a refusé d'engager Deslys, fils d'un officier de la Garde. Nous sommes fondés à soupçonner que Rousselle l'a écarté en raison d'opinions royalistes.
+#FLASHCARD_130_NAME
+Hugues Boissieu
+#FLASHCARD_130_DESC
+Le saunier Hugues Boissieu s'obstine à refuser de remplacer ses anciens poids avec ceux promus dans le nouveau système. Cet attachement aux normes caduques prouve que l'accusé est un monarchiste.
+#FLASHCARD_131_NAME
+Lise Mesny
+#FLASHCARD_131_DESC
+Lise Mesny a vendu illégalement à de jeunes femmes enceintes des « potions magiques » qui provoquent des fausses couches. La perquisition de son domicile nous a permis de trouver de nombreux flacons vides, des herbes séchées et de grandes sommes d'argent cachées sous le plancher.
+#FLASHCARD_132_NAME
+Hugues Bassot
+#FLASHCARD_132_DESC
+L'un des immeubles centraux de Paris a manqué d'être dévasté par un incendie après que Hugues Bassot, 47 ans et sous l'emprise d'un demi-litre d'anisette, décida de dresser un feu de camp au beau milieu de son appartement. Par chance, l'épaisse fumée noire alerta ses voisins, qui parvinrent à empêcher le drame.
+#FLASHCARD_133_NAME
+Émile Pleimelding
+#FLASHCARD_133_DESC
+Émile Pleimelding, baron ruiné, a forcé son épouse à passer la nuit avec un homme auprès duquel il s'était endetté après une partie de cartes malheureuse. Mme Pleimelding est venue dénoncer son mari : « Ce misérable ne s'arrêtera jamais », nous a-t-elle déclaré.
+#FLASHCARD_134_NAME
+Courtial et Bachelot
+#FLASHCARD_134_DESC
+Colin Courtial et Égide Bachelot ont secrètement acheté deux mousquets et quelques kilogrammes de plomb pour fondre des balles. Nous avons trouvé la gazette royaliste « Les Actes des Apôtres » chez un des conspirateurs. Bien entendu, les accusés prétendent qu'ils préparaient une chasse.
+#FLASHCARD_135_NAME
+Gaspard Picard
+#FLASHCARD_135_DESC
+Le colonel Gaspard Picard, en charge de l'artillerie de la Gendarmerie, est inculpé pour avoir soustrait des matériaux de construction destinés à la construction d'une nouvelle caserne pour sa brigade, du moins selon les dires de ses hommes. Il est écrit dans le rapport qu'il a ordonné le transport de plusieurs convois de briques à son manoir particulier.
+#FLASHCARD_136_NAME
+Pasteur, Anouilh, Caillat et Girault
+#FLASHCARD_136_DESC
+Trois palefreniers et un cuisinier, à savoir Ernest Pasteur, Paul Anouilh, Josselin Caillat et Damien Girault, aurait tiré parti d'une absence de leur maître pour s'introduire dans sa demeure et violer sa fille. Celle-ci est encore fortement commotionnée et n'a pas encore dit mot. Ce sont d'autres serviteurs qui ont identifié les suspects.
+#FLASHCARD_137_NAME
+Abraham Toutain
+#FLASHCARD_137_DESC
+Désirant être promu à la fonderie d'obus, Abraham Toutain a prétendu à ses supérieurs que son contremaître avait été guillotiné pour meurtre. L'information s'avéra rapidement fantaisiste.
+#FLASHCARD_138_NAME
+Nathan Seyrès
+#FLASHCARD_138_DESC
+Nathan Seyrès aurait battu son épouse, de quinze ans sa cadette. La plainte a été déposée par ses parents. L'accusé et sa victime présumée ont tous deux nié la véracité de cette dénonciation. Nous n'avons en outre constaté aucune contusion sur le visage de la jeune femme.
+#FLASHCARD_139_NAME
+Noël Moitessier
+#FLASHCARD_139_DESC
+Noël Moitessier, débardeur exercé, a arraché l'œil de Marius Courbet lors d'une rixe. Selon les témoins, il empoigna la tête de la victime et la précipita contre un mur, dans lequel était malheureusement planté un clou.
+#FLASHCARD_140_NAME
+Ségolène et Solenne Aubert
+#FLASHCARD_140_DESC
+Les sœurs Ségolène et Solenne Aubert ont invité fallacieusement dans leur appartement l'ancien fiancé de l'une d'elles, où elles l'ont séquestré et torturé. Elles l'ont frappé, ébouillanté son périnée et brûlé avec un tisonnier… au motif de punir son infidélité.
+#FLASHCARD_141_NAME
+Marlène Rousselle
+#FLASHCARD_141_DESC
+La jeune femme Marlène Rousselle est accusée d'une liaison adultère avec l'ami de son mari. Après que ce dernier la prit sur le fait et la força à se rendre au commissariat le plus proche, elle tenta de stipendier l'officier en s'offrant à lui.
+#FLASHCARD_142_NAME
+Émeric Vidal
+#FLASHCARD_142_DESC
+Émeric Vidal gagnait des sommes rondelettes en livrant des femmes à des espions britanniques. Nous sommes fondés à croire que Vidal et ses filles connaissaient l'identité de leurs clients, sans pour autant en informer les autorités.
+#FLASHCARD_143_NAME
+Duret et Pomeroy
+#FLASHCARD_143_DESC
+Michel Duret et Jean-Loup Pomeroy, officiers des douanes, ont retenu longuement plusieurs convois d'épices à leur poste de péage. Ils ont agi de la sorte pour que le fils de l'un d'eux, épicier, puisse relever ses prix et s'enrichir davantage.
+#FLASHCARD_144_NAME
+Léopold Astier
+#FLASHCARD_144_DESC
+Léopold Astier, 21 ans, emprunta quelques milliers de francs au père de sa fiancée. Il promit d'en tirer un grand profit en investissant la somme, mais la dilapida en vin et prostituées, selon plusieurs témoins.
+#FLASHCARD_145_NAME
+Raphaël Mallet
+#FLASHCARD_145_DESC
+L'officier de la Garde Michel Lagarde a été tué en rentrant chez lui de nuit après son service. Un marteau, vraisemblablement l'arme du crime, a été trouvé aux côtés de Raphaël Mallet, qui dormait ivre mort dans une ruelle sombre.
+#FLASHCARD_146_NAME
+Hortense Boisselot
+#FLASHCARD_146_DESC
+Hortense Boisselot s'est introduite chez les Pernet en se faisant passer pour une de leurs amies auprès de leur domestique, qu'elle molesta une fois à l'intérieur. Elle déroba ensuite des espèces, de l'argenterie et un tableau qu'elle décrocha du mur. Elle fut arrêtée alors qu'elle cherchait à vendre son butin.
+#FLASHCARD_147_NAME
+Thiers et Battier
+#FLASHCARD_147_DESC
+Après une bataille, Égide Thiers et Émile Battier ont enfreint leurs ordres en ne marchant pas vers l'est à la suite de leur général. Au lieu de cela, ils restèrent en arrière pour piller le champ de bataille et fouiller les corps, comme l'ont attesté des habitants.
+#FLASHCARD_148_NAME
+Marin Brugière
+#FLASHCARD_148_DESC
+Marin Brugière avait une manière bien particulière de traiter les affections féminines : il s'est avéré qu'il prétendait à ses patientes qu'il leur fallait, pour guérir, acheter des médecines onéreuses et passer la nuit avec lui. Nous avons recensé au moins six femmes victimes de sa duperie.
+#FLASHCARD_149_NAME
+Bonnel et Lahaye
+#FLASHCARD_149_DESC
+Deux fonctionnaires, Alfred Bonnel et Yves Lahaye, auraient molesté un coursier qui avait renversé de l'encre sur d'importants documents. Nous avons constaté de légères contusions et une boursoufflure sur la tête de la victime. Les accusés prétendent qu'ils n'ont fait qu'admonester le jeune homme, sans le frapper.
+#FLASHCARD_150_NAME
+Grégoire Courtial
+#FLASHCARD_150_DESC
+Le banquier Grégoire Courtial a calomnié sa servante en l'accusant de vol. Nous avons appris qu'elle a dû quitter son office, exaspérée par l'outrecuidance et la rustrerie de Courtal.
+#FLASHCARD_151_NAME
+Jourdan Clérico
+#FLASHCARD_151_DESC
+Jourdan Clérico, jeune éleveur d'oies, menait son troupeau à travers Paris. Engageant une conversation avec quelqu'un, il cessa de prêter attention à ses volailles. Celles-ci s'étaient alors toutes avancées sur le passage de carrioles, qui durent s'arrêter précipitamment. Ce n'est que grâce à un heureux coup du sort qu'aucun accident ne fut à déplorer.
+#FLASHCARD_152_NAME
+Jean-Pierre Garreau
+#FLASHCARD_152_DESC
+Jean-Pierre Garreau a non seulement abusé d'une prostituée qui travaillait pour lui, mais il a aussi tenté de soudoyer une patrouille de la Garde afin qu'ils ferment l'œil sur ses méfaits. En supplément d'une somme généreuse, il leur proposa les services de la victime.
+#FLASHCARD_153_NAME
+Ludovic Malan
+#FLASHCARD_153_DESC
+Cette infraction s'est déroulée dans notre tribunal. Le directeur de nos archives, Ludovic Malan, a engagé le cousin de son épouse, le mari de sa fille et un ami d'enfance à divers postes. L'accusé prétexte que leurs fonctions pourraient être assurées par un chien, et qu'en conséquence, le choix des personnes importait peu.
+#FLASHCARD_154_NAME
+Eugène Dumont
+#FLASHCARD_154_DESC
+Eugène Dumont convia chez lui Lambert Maître à un dîner d'affaires. Quand la conversation prit une tournure aigre, Dumont ordonna à son valet, Hector Bazalgette, de servir un plat empoisonné à son invité. Maître a survécu au dîner, mais il souffre encore de l'incident.
+#FLASHCARD_155_NAME
+Rémy Chappuis
+#FLASHCARD_155_DESC
+Rémy Chappuis, marginal mal famé, a essayé de couper subrepticement une mèche des cheveux d'une jeune fille un jour de marché. La perquisition de sa maison a abouti à la découverte de « trophées » similaires. La victime et sa famille sont convaincues que Chappuis voulait lui jeter un sort.
+#FLASHCARD_156_NAME
+Gervais Tomas
+#FLASHCARD_156_DESC
+Gervais Tomas, forgeron, a tué son fils de quinze ans dans son atelier. Il n'existe aucun témoin du drame. L'inculpé a déclaré n'avoir cherché qu'à gifler son fils. Son geste fut cependant si fort que le garçon perdit l'équilibre et se cogna la tête sur le coin du fourneau.
+#FLASHCARD_157_NAME
+Loïc Maurice
+#FLASHCARD_157_DESC
+Le baron Loïc Maurice a violemment entraîné la fille de son cuisinier, âgée de douze ans, dans sa chambre pour l'y violer. La mère de la victime nous a affirmé qu'il l'a agressée aussi à maintes reprises, ainsi que d'autres servantes, et rejetait toutes leurs demandes de congés, de meilleurs repas et de chandelles supplémentaires pour la cuisine.
+#FLASHCARD_158_NAME
+Basile et Clélie Bréguet
+#FLASHCARD_158_DESC
+Basile et Clélie Breguet ont été arrêtés pour avoir vendu des restes humains. Il les débitaient en minuscules morceaux qu'ils faisaient passer pour des remèdes. Ils vendaient également les poils en recommandant à leurs clients de les brûler pour repousser les parasites. Nous n'avons pas réussi à établir l'origine de leur « marchandise ».
+#FLASHCARD_159_NAME
+Bernard Beaulne
+#FLASHCARD_159_DESC
+Lorsque le juge annonça la sentence prononcée contre Louis Dembélé, un vulgaire voleur, Bernard Beaulne clama qu'on décapitât le délinquant. La foule ne tarda pas à le rallier, ce qui entraîna une situation tumultueuse. Pour y mettre fin, la Garde dut recourir à quelques tirs de semonce.
+#FLASHCARD_160_NAME
+Colin Chevalier
+#FLASHCARD_160_DESC
+Colin Chevalier a ordonné à ses chiens d'attaquer un inconnu qui était entré chez lui pour une raison ignorée. La victime, que nous n'avons pas pu identifier, a été littéralement mise en pièces. Chevalier prétend que l'homme voulait le cambrioler, mais nous ne disposons d'aucun témoin pour corroborer ses dires.
+#FLASHCARD_161_NAME
+Wilmart et Varlet
+#FLASHCARD_161_DESC
+Jules Wilmart et Vincent Varlet furent recrutés par l'une des pègres parisiennes pour percevoir les dettes de jeunes voleurs de la rue des Lombards. Mais ils ont pris l'argent et assassiné les débiteurs. Nous avons arrêté les bandits alors qu'ils cherchaient à s'enfuir avec le pactole.
+#FLASHCARD_162_NAME
+Abelin Delafosse
+#FLASHCARD_162_DESC
+Abelin Delafosse n'a cessé d'extorquer quotidiennement des commerçants des quatre coins de Paris, sans pour autant avoir eu à craindre la Garde. Des témoins nous ont révélé qu'il partageait son butin avec des soldats en échange d'une impunité.
+#FLASHCARD_163_NAME
+Damien Badeaux
+#FLASHCARD_163_DESC
+Deux condamnés se sont évadés de leur convoi pénitentiaire aux environs d'Auxerre. L'incompétence de Badeaux, qui était à son commandement, fut telle que les autorités locales n'ont été averties de l'incident que plusieurs heures après. Les prisonniers ont disparu et la faute incombe à Badeaux.
+#FLASHCARD_164_NAME
+Valéry Chagnon
+#FLASHCARD_164_DESC
+Valéry Chagnon a dérobé des habits luxueux à une blanchisseuse. Après les avoir revêtus, il a tenté de contracter un prêt auprès d'une banque parisienne. Il fut arrêté sur l'heure, car le commis de la banque s'aperçut rapidement que Chagnon ne connaissait rien à l'affaire pour laquelle il prétendait emprunter.
+#FLASHCARD_165_NAME
+Marthe Rousselle
+#FLASHCARD_165_DESC
+Pleinement sous l'effet d'une drogue, Marthe Rousselle s'est endormie au beau milieu de la rue, perturbant grandement la circulation. Lorsqu'elle reprit finalement ses esprits, elle expliqua avoir pris un remède à haute dose parce que sa dent la faisant atrocement souffrir.
+#FLASHCARD_166_NAME
+Denis Maret
+#FLASHCARD_166_DESC
+Denis Maret a dérobé un cheval appartenant à Louis Brochard. L'animal était attaché à un poteau aux abords du grand marché de Paris. Lorsque son propriétaire se mit à courir après eux, le voleur pressa le cheval qui, dans son galop, faucha plusieurs caisses de fruits et de bouteilles de vin.
+#FLASHCARD_167_NAME
+Pierre Barbet
+#FLASHCARD_167_DESC
+Pierre Barbet, fils d'un farinier, a trompé son épouse à peine une semaine après leur mariage. Tandis qu'elle l'invectivait, Pierre la frappa au visage à plusieurs reprises. La jeune femme ne prit même pas la peine d'éponger le sang sur son visage ou de cacher ses contusions, elle alla immédiatement signaler le crime à la Garde.
+#FLASHCARD_168_NAME
+Grégoire, Émile et Victor Cuvier
+#FLASHCARD_168_DESC
+Les frères Grégoire, Émile et Victor Cuvier ont de toute évidence dupé des provinciales en leur faisant miroiter du travail en ville. Ils agressaient leurs victimes, les violaient et les accablaient de menaces, puis les vendaient à des maisons closes à Paris, Rouen et Amiens. Nous avons dénombré trente de ces femmes, mais il est possible que les victimes soient plus nombreuses.
+#FLASHCARD_169_NAME
+Anne Dujardin
+#FLASHCARD_169_DESC
+Anne Dujardin a mis le feu à un immeuble. Parmi ses occupants figuraient son ancien mari et son compagnon actuel. On a aperçu l'incendiaire briser la fenêtre d'un soupirail et s'y faufiler peu avant que l'alerte ne soit donnée. Une douzaine d'autres personnes étaient présentes dans l'édifice. Ce n'est que par chance que personne n'a péri dans les flammes.
+#FLASHCARD_170_NAME
+Gilbert Dumont
+#FLASHCARD_170_DESC
+Gilbert Dumont, soutien indéfectible de Sylvain Maréchal, a prononcé un discours enflammé pour exhorter son auditoire à prendre d'assaut la résidence de l'armateur Auguste Millet. La foule a envahi le château, pillé mobilier et ornements, saccagé portes et fenêtres, et molesté serviteurs et autres membres de la maisonnée.
+#FLASHCARD_171_NAME
+Jean-Guy Duclos
+#FLASHCARD_171_DESC
+Jean-Guy Duclos a vendu à Michel Duverger un pistolet qui s'est avéré hors d'usage. L'interrogatoire a permis d'établir que l'accusé avait deux armes identiques. Après que Duverger eut éprouvé le pistolet en bon état, Duclos les intervertit, prit l'argent et s'enfuit.
+#FLASHCARD_172_NAME
+Jean-Luc Marais
+#FLASHCARD_172_DESC
+Jean-Luc Marais a agressé deux cuisinières sur les rives de la Seine. Il commença par les importuner verbalement et les siffler, puis il chercha à les caresser sans leur assentiment. Les femmes prirent la fuite. Quelque temps après, Marais fut arrêté dans une cave à vin à proximité.
+#FLASHCARD_173_NAME
+Claude Coquelin
+#FLASHCARD_173_DESC
+Claude Coquelin annonça qu'il cherchait des maçons pour un chantier. Lorsqu'il rencontra les candidats, il leur demanda de payer une caution « pour les outils » puis leur indiqua un lieu et une heure auxquels se présenter pour travailler. Bien entendu, lui ne réapparut jamais. Au moins quatre personnes ont été dupées.
+#FLASHCARD_174_NAME
+Francis et Josette Brugière
+#FLASHCARD_174_DESC
+Dans le but de ménager l'eau prélevée au puits ou à la fontaine, les boulangers Francis et Josette Brugière ont employé pour leurs produits de l'eau puisée directement dans le fleuve. Comme le pain dégageait une odeur ordinaire, leurs clients ne soupçonnèrent rien. Leur fraude éclata au grand jour en raison d'une hausse soudaine des troubles digestifs dans le voisinage.
+#FLASHCARD_175_NAME
+Adrien Delannoy
+#FLASHCARD_175_DESC
+Adrien Delannoy a séquestré chez lui une prostituée dont il avait payé les services. Il l'a molestée, tailladée et brûlée pendant trois jours. Quand elle cherchait à crier, il l'étouffait. La victime est parvenue à s'échapper, sans quoi elle serait probablement morte à cette heure. Delannoy n'a pas prononcé le moindre mot à son interrogatoire.
+#FLASHCARD_176_NAME
+Clément Abadie
+#FLASHCARD_176_DESC
+Clément Abadie a dévalisé la cave de son voisin. Il a dérobé 16 grands pots de confiture et bien d'autres conserves. Lorsque la Garde frappa à sa porte, les vivres avait déjà été presque tous consommés.
+#FLASHCARD_177_NAME
+Lémery, Célice et Le Sueur
+#FLASHCARD_177_DESC
+Nadine Barreau a été violée dans la cuisine d'une brasserie parisienne. Des témoins ont attesté l'avoir entendue crier à l'aide, alors même qu'ils se situaient à l'extérieur du bâtiment. Une patrouille qui passait aux abords de l'établissement ne fit rien pour secourir la victime. Cette patrouille se composait de Pascal Lémery, Bernard Célice et Henri Le Sueur.
+#FLASHCARD_178_NAME
+Didier Brassard
+#FLASHCARD_178_DESC
+Didier Brassard a accusé son épouse d'adultère, sans en apporter la preuve au tribunal. En réponse, elle a dénoncé son mari, qui aurait tenté de commettre une fraude. Sans surprise, elle n'a rien fourni pour étayer son accusation, elle non plus.
+#FLASHCARD_180_NAME
+Germain Solé
+#FLASHCARD_180_DESC
+Le juge Germain Solé a accepté un pot-de-vin du marchand Vérany, connu pour avoir trompé nombre de ses clients. Les pièces à conviction retenues contre Solé sont des lettres et une somme d'argent importante trouvée dans son cabinet peu après son entretien avec Vérany.
+#FLASHCARD_181_NAME
+Jean-Luc Courbis
+#FLASHCARD_181_DESC
+Jean-Luc Courbis a écrit une lettre à son frère, vivant actuellement en Autriche, dans laquelle il décrit la marche vers l'est de l'armée. Il est intéressant de relever qu'il y mentionne quelques détails curieux, comme le nombre exact de canons transportés.
+#FLASHCARD_182_NAME
+Guillaume Vaillancourt
+#FLASHCARD_182_DESC
+Un accident terrible s'est produit dans la fonderie de Guillaume Vaillancourt. Un de ses employés a été gravement brûlé et défiguré au point de paraître un monstre cauchemardesque. Les autres employés soutiennent unanimement que Vaillancourt est responsable de ce drame.
+#FLASHCARD_183_NAME
+Marthe Bettencourt
+#FLASHCARD_183_DESC
+Marthe Bettencourt, veuve dirigeant une maison funéraire, est inculpée pour avoir extrait le dentier en or d'un défunt. Elle fut surprise par Étienne Corriveau, qui était venu « faire ses adieux » à son oncle. Le jeune homme comptait en réalité dégarnir le disparu lui-même. Sa déception fut telle qu'il alla dénoncer Bettencourt.
+#FLASHCARD_184_NAME
+Paulin Solé
+#FLASHCARD_184_DESC
+Paulin Solé, qui conduisait trop vite sa carriole de marchandises, perdit un tonneau de vin au détour d'un carrefour. Celui-ci culbuta malheureusement un enfant de sept ans et lui écrasa les jambes. L'enfant est maintenant incapable de marcher.
+#FLASHCARD_185_NAME
+Charles Tomas
+#FLASHCARD_185_DESC
+Julien Boutroux et Charles Thomas se sont livrés à un duel à Bobigny. Boutroux n'a pas survécu. Une balle lui a traversé l'œil, le tuant sur le coup. Les deux hommes étaient accompagnés de leurs témoins et le duel a été mené de manière régulière. Néanmoins, l'épouse du défunt ne l'entend pas ainsi.
+#FLASHCARD_186_NAME
+Olivier et Lisette Béliveau
+#FLASHCARD_186_DESC
+Olivier Béliveau a abusé à maintes reprises de ses filles. Leur mère Lisette, consciente de cela, n'a rien fait pour arrêter son mari. Qui plus est, selon les deux filles, elle les conduisait régulièrement dans la chambre de leur père en refermant la porte sur elles.
+#FLASHCARD_187_NAME
+Marie-Christine Jacquemoud
+#FLASHCARD_187_DESC
+Nous avons trouvé la bulle pontificale Auctorem fidei chez Marie-Christine Jacquemoud. Rappelons qu'elle provient de Pie VI, pape qui décréta le martyre du citoyen Capet et condamna la Révolution. Qui peut bien vouloir lire de tels écrits ? La réponse ne fait pour moi aucun doute.
+#FLASHCARD_189_NAME
+Cédric Bourbeau
+#FLASHCARD_189_DESC
+Cédric Bourbeau est entré chez les Auger à leur insu. Il se glissa dans la cuisine et s'endormit dans le garde-manger. Le cuisinier le découvrit au petit matin, alors qu'il tentait de s'enfuir. Bourbeau prétend avoir seulement voulu se réchauffer.
+#FLASHCARD_190_NAME
+Alphonse Bouhier
+#FLASHCARD_190_DESC
+Alphonse Bouhier a assassiné son associé et cherché à le faire disparaître hors de Paris. Lorsque la Garde somma une fouille de son véhicule, il leur offrit un pot-de-vin généreux. Les soldats intrigués découvrirent alors le corps et arrêtèrent le meurtrier.
+#FLASHCARD_191_NAME
+Wilfried Alard
+#FLASHCARD_191_DESC
+Wilfried Alard a accepé d'imprimer un traité signé par un certain Sartre. La publication a été interrompue, car le brûlot visait à disséminer l'idée saugrenue que la France devrait être divisée en régions autonomes gouvernées par les citoyens. Nous ne pouvons pas tolérer de tels dissidents.
+#FLASHCARD_192_NAME
+Gaëtan de Villiers
+#FLASHCARD_192_DESC
+Gaëtan de Villiers s'est vanté à de nombreuses occasions d'avoir couché avec l'épouse d'un boucher célèbre, Hugon Vallé, décrivant toujours l'acte avec moult détails. La femme a nié, à la fois en public et dans une audience à huis clos, avoir eu avec lui des relations intimes.
+#FLASHCARD_193_NAME
+Brunet, Paquin et Matthieu
+#FLASHCARD_193_DESC
+Camille Brunet, Léopold Paquin et Pierre-Antoine Matthieu ont emmené un officier de la Garde en permission dans une vieille maison abandonnée, où ils l'ont rossé jusqu'à perdre conscience. Nos enquêteurs n'ont pas encore établi les motifs du crime.
+#FLASHCARD_194_NAME
+Hugues et Bruno Chardin
+#FLASHCARD_194_DESC
+Hugues Chardin, 15 ans, et Bruno Chardin, 16 ans, sont accusés d'avoir jeté des pierres sur des habitations et des commerces pour leur propre amusement. Ils ont pu briser quelques fenêtres avant d'être finalement arrêtés.
+#FLASHCARD_195_NAME
+André Beaux
+#FLASHCARD_195_DESC
+Pierre Couturier a acheté une grande quantité de vers à soie auprès d'André Beaux. Mais ils se sont avérés être d'une espèce entièrement différente et oiseuse. L'escroc a été interpellé alors qu'il tentait de quitter Paris avec d'importantes sommes volées.
+#FLASHCARD_196_NAME
+Jérémie Loup
+#FLASHCARD_196_DESC
+Jérémie Loup s'est disputé avec son père à propos d'un héritage familial et l'a poignardé à quatre reprises. Le frère de Jérémie, qui assista à la scène, l'assomma avec un tabouret et sauva la vie de leur père en arrêtant les saignements et en appelant des secours.
+#FLASHCARD_197_NAME
+Alceste Calvet
+#FLASHCARD_197_DESC
+Alceste Calvet, éditeur d'un journal parisien, imprima un écrit anonyme critiquant le nombre prétendument excessif d'exécutions prononcées en France.
+#FLASHCARD_198_NAME
+Rose Silvestre
+#FLASHCARD_198_DESC
+Rose Silvestre, servante dans la brasserie de Jean-Loup Bonhomme, lui a jeté de l'eau bouillante à la figure. L'accusée a déclaré que la victime s'était comportée de manière inappropriée et qu'elle s'était légitimement défendue.
+#FLASHCARD_199_NAME
+Gaspard Pascal
+#FLASHCARD_199_DESC
+L'évêque Gaspard Pascal a aidé son neveu dans l'obtention d'un poste de fonctionnaire. Pour le favoriser, l'ecclésiastique a fait jouer sa grande influence et ses relations au sein de l'administration parisienne.
+#FLASHCARD_200_NAME
+Marie-Ange Halphen
+#FLASHCARD_200_DESC
+Marie-Ange Halphen, blanchisseuse, aurait tué son nourrisson en le jetant au sol. Ses voisins ont affirmé qu'ils ont entendu le garçon crier presque tous les jours depuis des semaines. L'accusée a déclaré que l'enfant lui est tombé des bras par accident.
+#FLASHCARD_201_NAME
+Geoffroy Moineau
+#FLASHCARD_201_DESC
+Le colonel Geoffroy Moineau a ordonné à ses artilleurs de traverser une prairie inondée aux environs de Verdun. Lorsque la cavalerie prussienne déboula sur le champ de bataille, nos canons ne purent se mettre en position pour assurer la retraite de nos soldats. Une telle incompétence vaut trahison.
+#FLASHCARD_202_NAME
+Philidor et Duverger
+#FLASHCARD_202_DESC
+Deux pilleurs de tombes, Marius Philidor et Abeau Duverger, se sont battus pour une dépouille fraîchement enterrée. À l'issue de l'empoignade, c'est Duverger qui a emporté les vêtements du défunt.
+#FLASHCARD_203_NAME
+René Aubert
+#FLASHCARD_203_DESC
+Le boulanger René Aubert est accusé d'avoir délibérément vendu moitié moins de pain et à prix plus élevé. Lors de son interrogatoire, Aubert a soutenu obstinément que la farine se faisait rare et que cela était la raison de la hausse de ses prix. Nous savons toutefois qu'il a cherché à tourner la situation à son avantage pour gagner plus tout en travaillant moins.
+#FLASHCARD_204_NAME
+Régis Chaufourier
+#FLASHCARD_204_DESC
+Régis Chaufourier a bu à la santé de « notre belle reine Marie ». Lorsqu'on l'interrogea, il nia toute intention monarchiste et prétendit n'avoir fait que « complimenter le beau corps de la défunte ». Des témoins nous ont rapporté que Chaufourier était ivre au moment de l'incident.
+#FLASHCARD_205_NAME
+Thierry Mallette
+#FLASHCARD_205_DESC
+Thierry Mallette s'est fait faussement passer pour un ingénieur afin d'être employé comme contremaître sur un chantier. Il se trouve que l'immeuble auquel il travaillait s'est effondré durant la construction, tuant plusieurs ouvriers.
+#FLASHCARD_206_NAME
+Anaïs Barbet
+#FLASHCARD_206_DESC
+Anaïs Barbet a volé du pain dans plusieurs boulangeries. À son arrestation, elle expliqua que ce pain lui permettait de nourrir ses enfants affamés. Cependant, ses voisins nous ont informé qu'elle le revendait aux Halles à moitié prix et qu'elle s'adonnait à la boisson.
+#FLASHCARD_207_NAME
+Lorie Édouard
+#FLASHCARD_207_DESC
+Lorie Édouard, épouse du cordonnier Timothé Édouard, a assuré à des inconnus que les chaussures confectionnées par un cordonnier rival se défaisaient au bout de quelques semaines. Elle éclata en sanglots durant l'interrogatoire, déclarant que son mari l'avait obligée à cette médisance.
+#FLASHCARD_208_NAME
+Brunet, Simon et Charbonneau
+#FLASHCARD_208_DESC
+Trois scieurs, Jean-François Brunet, Alban Simon et Matthieu Charbonneau, ont violé la fille de leur employeur. Précédemment, ils avaient menacé ce dernier de s'en prendre à sa famille s'il ne payait pas les salaires qu'il leur devait.
+#FLASHCARD_209_NAME
+Jourdan Maître
+#FLASHCARD_209_DESC
+Jourdan Maître, 76 ans, s'est querellé avec son épouse, avec laquelle il est marié depuis 52 ans. Contrarié, il est allé voir une prostituée. On l'a vu la suivre jusque chez elle. L'accusé prétend que rien ne s'est produit, car il lui en manquait la force. Son épouse maintient tout de même la plainte.
+#FLASHCARD_210_NAME
+Gide et Bouhier
+#FLASHCARD_210_DESC
+Lydie Gide et Marie-Laure Bouhier sont inculpées pour avoir détroussé Thaddée Adnet, pendant qu'il était ivre. Lorsqu'elles le menacèrent avec un poignard, il leur remit sans hésiter son portefeuille. La victime n'a pas été blessée.
+#FLASHCARD_211_NAME
+Jean-Guy Bruneau
+#FLASHCARD_211_DESC
+Jean-Guy Bruneau, brigand professionnel, a été arrêté. Encore une fois. Il s'est introduit dans un bureau de change, où il a dérobé plusieurs milliers de francs. C'est sa concubine qui l'a dénoncé, après qu'il l'a battue dans un accès de colère.
+#FLASHCARD_212_NAME
+Saint-Yves, Saunier et Camille
+#FLASHCARD_212_DESC
+Un groupe de cavaliers a déserté au cours de la campagne des Flandres. Ils ont terrorisé les employés d'un relais, violé les servantes, bu pendant trois jours, puis s'en sont retournés à l'armée. Nous sommes parvenus à appréhender Louis Saint-Yves, Didier Saunier et Amaury Camille ; leurs complices se sont toutefois échappés.
+#FLASHCARD_213_NAME
+Carole Bissonnette
+#FLASHCARD_213_DESC
+Carole Bissonnette a caché un prêtre, Yvon Dubois, dans son grenier. Il a refusé de prêter serment et a été banni du pays. Nous accusons Bissonnette d'avoir délibérément agi contre la Révolution.
+#FLASHCARD_214_NAME
+Carrel et Crozier
+#FLASHCARD_214_DESC
+Arnaud Carrel et Théodore Crozier ont vendu une importante cargaison de vin à un commerçant local. Ils lui ont permis de goûter le vin dans quelques fûts marqués. Ce n'est qu'ultérieurement qu'il a découvert que les autres tonneaux étaient remplis d'eau du fleuve.
+#FLASHCARD_215_NAME
+Vincent Duval
+#FLASHCARD_215_DESC
+Quand un groupe d'adolescents commit un vol à son étalage, le rôtisseur Vincent Duval fit aussitôt appel à la Garde. Comme les officiers retournèrent à lui bredouilles, il se mit à leur crier dessus. Non seulement il les menaça, comme il ne cessa de gesticuler avec agressivité. Les gardes durent lui passer les menottes.
+#FLASHCARD_216_NAME
+Delisle et Blondeau
+#FLASHCARD_216_DESC
+Une prostituée de la maison de tolérance tenue par Gaëtan Delisle et Paul Blondeau a été battue à mort et jetée dans une charrette en pleine rue. Nous n'avons rien appris de ses consœurs, mais un de ses clients habituels nous a informé qu'elle voulait arrêter d'y « travailler ». Nous sommes persuadés que ses souteneurs sont responsables de sa mort.
+#FLASHCARD_217_NAME
+Hector Sartre
+#FLASHCARD_217_DESC
+Le baron Hector Sartre a dérobé un tableau précieux chez son oncle défunt, où il rendit visite à la veuve pour présenter ses condoléances. Le voleur a avoué le délit, le justifiant au motif que sa tante aurait vendu l'œuvre d'art tandis qu'il souhaitait qu'elle restât dans la famille.
+#FLASHCARD_218_NAME
+Armand Lebas
+#FLASHCARD_218_DESC
+Armand Lebas, égoutier, a récemment laissé se former une congestion dans le flux des immondices. Cette faute a entraîné la remontée d'eau nauséabonde et d'excréments dans les places de la ville. Nous ne pouvons qu'imaginer le nombre de personnes tombées malades par sa négligence.

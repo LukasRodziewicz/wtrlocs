@@ -1,0 +1,36 @@
+$DIAL_H_01_03_26_001_SON
+Dis-lui, mère.
+$DIAL_H_01_03_26_002_WIFE
+…
+$DIAL_H_01_03_26_003_JUDGE
+Quoi ?!
+$DIAL_H_01_03_26_004_SON
+Dis-lui, ou je le ferai.
+$DIAL_H_01_03_26_005_JUDGE
+Que veux-tu qu'elle me dise ?!
+$DIAL_H_01_03_26_006_WIFE
+On a entendu dire que tu détenais la fille du maire…
+$DIAL_H_01_03_26_007_JUDGE
+Oui, le procès doit avoir lieu demain.
+$DIAL_H_01_03_26_008_WIFE
+Donc tout dépend de toi ?
+$DIAL_H_01_03_26_009_JUDGE
+C'est hors de question.
+$DIAL_H_01_03_26_010_WIFE
+Pourquoi ?
+$DIAL_H_01_03_26_011_JUDGE
+Ce serait déshonorant !
+$DIAL_H_01_03_26_012_WIFE
+Et tuer nos enfants ne l'est pas peut-être ?!
+$DIAL_H_01_03_26_013_JUDGE
+Je ne peux pas, elle n'est pas coupable.
+$DIAL_H_01_03_26_014_SON
+Tue-la.
+$DIAL_H_01_03_26_015_JUDGE
+Tu es si jeune, et pourtant tu parles d'un meurtre comme si de rien n'était.
+$DIAL_H_01_03_26_016_SON
+Laisse-les souffrir, comme nous avons souffert. Tue-la. On veut voir son sang couler ! Pendre mes frères ne leur a fait ni chaud ni froid.
+$DIAL_H_01_03_26_017_JUDGE
+Tu me fais peur…
+$DIAL_H_01_03_26_018_WIFE
+Tu auras vraiment de quoi avoir peur si tu ne nous écoutes pas.

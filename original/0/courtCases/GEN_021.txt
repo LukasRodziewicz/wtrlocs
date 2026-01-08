@@ -1,0 +1,298 @@
+$GEN_021_DOC_01_HEADER
+Sporządził: Pierre Daquin
+$GEN_021_DOC_01_00
+	Żyd Isaac Medelsheim, 53-letni wdowiec, utrzymuje się z prowadzenia trzech paryskich gospód i udzielania pożyczek na procent. W interesach pomaga mu córka, 16-letnia Estera Medelsheim. Handlarz deklaruje się jako gorliwy <a name="2" class="hidden">zwolennik rewolucji</a>, w której upatruje nadziei na przyznanie Żydom takich samych praw, jakie ma reszta obywateli Francji.
+$GEN_021_DOC_01_01
+	Obecnie głównym źródłem utrzymania oskarżonego jest lichwa, z uwagi na problemy zaopatrzeniowe w żywność, z jakimi boryka się całe miasto. Podejrzewa się, że chcąc ratować interes, Medelsheim dopuścił się kradzieży dostaw wojskowych z zamiarem ich sprzedaży w gospodach.
+$GEN_021_DOC_01_02
+	Świadkiem przestępstwa był hrabia Jean-Philippe de Braux, jeden z dłużników Medelsheima. Doniósł władzom, że w sobotę 12 września, późnym popołudniem, widział, jak Isaac Medelsheim osobiście przeprowadzał <a name="4" class="hidden">rozładunek wozów</a> swojego kuzyna Herza Medelsheima, stojących przed jego <a name="5" class="hidden">magazynem</a>. Powszechnie wiadomo, że Herz świadczy dostawy wyłącznie dla wojska francuskiego, a jego rządcy często korzystają z gościnności Isaaca.
+$GEN_021_DOC_01_03
+	Po przeszukaniu magazynu zaopatrzeniowego Isaaca odkryto w nim <a name="6" class="hidden">skrzynie wojskowe</a> sygnowane znakiem przedsiębiorstwa Herza Medelsheima. Ich zawartość – wino, suszona konina i mąka – nie została ujęta w <a name="7" class="hidden">księdze inwentarzowej</a>, a figurowała na listach przewozowych do garnizonu w Reims. Z zapisów wynika, że księga prowadzona jest przez Esterę Medelsheim.
+$GEN_021_DOC_01_04
+	W tej sytuacji Isaac Medelsheim został niezwłocznie ujęty i oskarżony o kradzież własności wojska francuskiego oraz działanie na szkodę ludu Francji. 
+$GEN_021_DOC_01_05
+Dowody:
+<a name="8" class="hidden">Zeznania Estery</a> Medelsheim.
+$GEN_021_OnStart_00
+Żydowski krwiopijca!
+$GEN_021_OnStart_01
+Ściąć burżuja!
+$GEN_021_OnStart_02
+Proszę się przedstawić.
+$GEN_021_OnStart_03
+Isaac Medelsheim, łaskawy sądzie.
+$GEN_021_OnStart_04
+Jesteście oskarżeni o kradzież mienia należącego do wojska Francji i usiłowanie jego sprzedaży.
+$GEN_021_OnStart_05
+Jaka kradzież, łaskawy sądzie, jaka zbrodnia?! 
+$GEN_021_OnStart_06
+Mamy świadka, który wszystko widział na własne oczy.
+$GEN_021_OnStart_07
+To są oszczerstwa i prowokacja hrabiego de Braux! On mnie pieniądze jest winien i nie chce płacić!
+$GEN_021_OnStart_08
+Odnalezione w twoich magazynach skrzynie wojskowe z zawartością przeznaczoną do zaopatrzenia garnizonu w Reims jednoznacznie obciążają oskarżonego.
+$GEN_021_OnStart_09
+Ja wszystko wyjaśnię!
+$GEN_021_OnGuilty_00
+Skazuję obywatela Isaaca Medelsheima na śmierć na gilotynie! Wyprowadzić skazanego.
+$GEN_021_OnGuilty_01
+Może wreszcie nasi żołnierze będą mieli co jeść.
+$GEN_021_OnGuilty_02
+No, w końcu!
+$GEN_021_OnGuilty_03
+Wszystkich ich, burżujów, na gilotynę!
+$GEN_021_OnNotGuilty_00
+Wyrok w sprawie Isaaca Medelsheima brzmi: niewinny! Wyprowadzić skazanego.
+$GEN_021_OnNotGuilty_01
+Protest, wnoszę oficjalny protest przeciwko wyrokowi.
+$GEN_021_OnNotGuilty_02
+Wypuścił złodzieja!
+$GEN_021_OnNotGuilty_03
+To kontrrewolucjonista!
+$GEN_021_OnNotGuilty_04
+Sędzia został przekupiony!
+$GEN_021_01x04_00_QTitle
+Ilu pracowników oskarżony zatrudnia w magazynie zaopatrzeniowym?
+$GEN_021_01x04_00_00
+Ilu pracowników oskarżony zatrudnia w magazynie zaopatrzeniowym?
+$GEN_021_01x04_00_01
+Pięciu robotników, ale to same nicponie i lenie.
+$GEN_021_01x04_00_02
+Jak zatem oskarżony wyjaśni to, że choć ma pięciu pracowników i jest żydem, samodzielnie dokonuje rozładunku skrzyń w sobotę, w szabat?
+$GEN_021_01x04_00_03
+Rządca Herza, Jacob, kazał szybko puste skrzynie wyładować, bo jemu spieszno w drogę. To ja do magazynów pobiegł, ale że wieczór prawie, to żadnego z hultai nie zastałem. 
+$GEN_021_01x04_00_04
+I tylko dlatego zlekceważyliście własną religię?
+$GEN_021_01x04_00_05
+Szabat to szabat, a interes to interes – bym sam tych skrzyń nie wyładował, to byłoby po zyskach, a czasy są ciężkie.
+$GEN_021_01x04_00_06
+Czyli nie chodziło o to, żeby uniknąć świadków?
+$GEN_021_01x04_00_07
+Świadków czego? Wyładunku?
+$GEN_021_01x04_00_08
+Kradzieży wojskowych zapasów.
+$GEN_021_01x04_00_09
+To nie były żadne wojskowe zapasy, to jakieś nieporozumienie.
+$GEN_021_01x04_00_10
+Łże jak pies!
+$GEN_021_05x06_01_QTitle
+Skąd wzięły się wojskowe skrzynie z zawartością w magazynie oskarżonego?
+$GEN_021_05x06_01_00
+Skąd wzięły się wojskowe skrzynie z zawartością w magazynie oskarżonego?
+$GEN_021_05x06_01_01
+Ja kupił te skrzynie, puste. Herz tanio, na ekwiwalent, dobre skrzynie wojskowe zbywa, to jak ja miał nie kupować?
+$GEN_021_05x06_01_02
+To jest w ogóle legalne? Wojsko ich nie potrzebuje?
+$GEN_021_05x06_01_03
+A bo ja to wiem? Sprzedaje, znaczy, że wolno.
+$GEN_021_05x06_01_04
+Nie dopytaliście?
+$GEN_021_05x06_01_05
+A ja co, śledczy czy handlarz? On mnie mówił, że wszystko jest jak trzeba.
+$GEN_021_05x06_01_06
+Bezczelny burżuj!
+$GEN_021_05x06_01_07
+Żydzi zawsze kłamią!
+$GEN_021_05x06_01_08
+Spokój!
+$GEN_021_03x06_02_QTitle
+Co w skrzyniach robiły towary przewidziane...
+$GEN_021_03x06_02_00
+Co w skrzyniach robiły towary, przewidziane listem przewozowym dla francuskiej armii?
+$GEN_021_03x06_02_01
+Albo to tylko nasze wojsko wino i suszone mięso zamawia? W skrzyniach był towar kupiony od mojego dostawcy, Marcela Roziera. On potwierdzi.
+$GEN_021_03x06_02_02
+Marcel Rozier niczego nie potwierdzi, bo zginął tydzień temu, o czym oskarżony zapewne doskonale wie.
+$GEN_021_03x06_02_03
+Łaskawy sądzie, ja pierwsze słyszę, to jest…
+$GEN_021_03x06_02_04
+To jest bardzo wygodne, zrzucać winę na zmarłego, prawda?
+$GEN_021_03x06_02_05
+Dla was może wygodne, ale ja straciłem pierwszorzędnego dostawcę.
+$GEN_021_03x06_02_06
+Nie wiedzieliście o śmierci Roziera?
+$GEN_021_03x06_02_07
+Nie miałem o tym pojęcia, ta cała sprawa to spisek moich dłużników. Chcą się mnie pozbyć!
+$GEN_021_03x06_02_08
+I dobrze robią.
+$GEN_021_03x06_02_09
+To jest spisek! Spisek uknuty przez moich dłużników! Ja się domagam sprawiedliwości!
+$GEN_021_06x07_03_QTitle
+Oskarżony nie wpisał do księgi inwentarzowej towarów składowanych w skrzyniach Herza...
+$GEN_021_06x07_03_00
+Oskarżony nie wpisał do księgi inwentarzowej towarów składowanych w skrzyniach Herza, żeby ukryć, że pochodzą z wojskowych dostaw?
+$GEN_021_06x07_03_01
+Ja to wszystko uczciwie kupiłem! Łaskawy sąd może sprawdzić, jak te księgi są porządnie prowadzone, to na pewno jakaś pomyłka.
+$GEN_021_06x07_03_02
+Łaskawy sąd sprawdził. Towary w księdze nie figurują, co jest tym bardziej podejrzane, że faktycznie wcześniej była prowadzona skrupulatnie.
+$GEN_021_06x07_03_03
+Estera, moja córka, prowadzi tę księgę i ona pewnie zapomniała ją uzupełnić. Ostatnio cięgiem choruje.
+$GEN_021_06x07_03_04
+Może nie powiedzieliście jej o towarach, żeby nie była zamieszana w zbrodnię?
+$GEN_021_06x07_03_05
+Było nie kraść, tak to sama dziewczyna zostanie!
+$GEN_021_06x07_03_06
+Tu nie było żadnej zbrodni. Na pewno planowała wpisać towar później.
+$GEN_021_06x07_03_07
+Zaraz wstanę i mu pokażę!
+$GEN_021_02x03_04_QTitle
+Co oskarżony ma do powiedzenia na temat rewolucji?
+$GEN_021_02x03_04_00
+Co oskarżony ma do powiedzenia na temat rewolucji?
+$GEN_021_02x03_04_01
+Jak ja mam nie popierać rewolucji, skoro dobry lud Francji chce przyznać Żydom takie same prawa jak innym obywatelom?
+$GEN_021_02x03_04_02
+Jeśli tak, to dlaczego oskarżony działa na szkodę rewolucji, przywłaszczając sobie artykuły wojskowe?
+$GEN_021_02x03_04_03
+Ja własnym pieniądzem wsparłem rewolucję, Wysoki Sąd zapyta Josepha Fouché i Antoine’a Simona, przyjaciół pana Robespierre’a, oni poświadczą.
+$GEN_021_02x03_04_04
+Zapłaciliście, żeby teraz móc udawać jednego z nas.
+$GEN_021_02x03_04_05
+A gdzie tam, takim jak ja opłaca się popierać rewolucję.
+$GEN_021_02x03_04_06
+Opłaca? Czyli wspieraliście lud, żeby teraz zarabiać pieniądze, dobrze rozumiem? 
+$GEN_021_02x03_04_07
+Nie, nie, ja wam zaraz…
+$GEN_021_02x03_04_08
+Oddajcie go nam, my go zetniemy i bez gilotyny.
+$GEN_021_02x03_04_09
+Jakie „zarabiać”? Nawet jakbym ja faktycznie ukradł te artykuły i sprzedał w gospodach, to one nie zrekompensowałyby kwot przekazanych przyjaciołom pana Robespierre’a!
+$GEN_021_07x08_05_QTitle
+Proszę wezwać świadka, obywatelkę Esterę Medelsheim.
+$GEN_021_07x08_05_00
+Proszę wezwać świadka, obywatelkę Esterę Medelsheim.
+$GEN_021_07x08_05_02
+Estera Medelsheim, córka Isaaca Medelsheima.
+$GEN_021_07x08_05_03
+Czy świadek jest w stanie zeznawać? Widzę, że obywatelka źle wygląda.
+$GEN_021_07x08_05_04
+Tak, dam radę.
+$GEN_021_05x07_06_QTitle
+Kto jest odpowiedzialny za prowadzenie księgi inwentarzowej?
+$GEN_021_05x07_06_00
+Kto jest odpowiedzialny za prowadzenie księgi inwentarzowej?
+$GEN_021_05x07_06_01
+Moja córka Estera, łaskawy sądzie.
+$GEN_021_05x07_06_02
+I nikt inny nie ma do niej dostępu?
+$GEN_021_05x07_06_03
+Zaglądać to ja czasem zerkam. Ale przecież bym własnej córki w tarapaty nie wpędził przez oszustwo!
+$GEN_021_05x07_06_04
+Nie pilnujecie własnych ksiąg?
+$GEN_021_05x07_06_05
+Ufam jej jak sobie samemu.
+$GEN_021_05x07_06_06
+Ale tym razem towar był niewpisany?
+$GEN_021_05x07_06_07
+To przecież zwykły drobiazg.
+$GEN_021_05x07_06_08
+Twoja egzekucja to będzie drobiazg.
+$GEN_021_03x05_07_QTitle
+Co robiły wozy głównego dostawcy artykułów dla wojska francuskiego...
+$GEN_021_03x05_07_00
+Co robiły wozy głównego dostawcy artykułów dla wojska francuskiego, Herza Medelsheima, przed magazynem oskarżonego?
+$GEN_021_03x05_07_01
+Do dalszej drogi się sposobiły. Rządcy kuzyna Herza zatrzymują się w mojej gospodzie za każdym razem, gdy akurat wypada im tędy droga.
+$GEN_021_03x05_07_02
+I akurat przywiozły jedzenie, które akurat znajdowało się w wojskowych skrzyniach i akurat pasowało do wojskowych dokumentów, jednak nie było ujęte w waszych księgach.
+$GEN_021_03x05_07_03
+To brzmi dziwnie, ale…
+$GEN_021_03x05_07_04
+Obić mu mordę kłamliwą!
+$GEN_021_WIT_00_A_QTitle
+Czym świadek zajmuje się w przedsiębiorstwie ojca?
+$GEN_021_WIT_00_A_00
+Czym świadek zajmuje się w przedsiębiorstwie ojca?
+$GEN_021_WIT_00_A_01
+Prowadzę księgę inwentarzową i rachunki pożyczkobiorców.
+$GEN_021_WIT_00_A_02
+Dlaczego świadek nie wpisała do księgi inwentarzowej towarów znalezionych w skrzyniach wojskowych?
+$GEN_021_WIT_00_A_03
+Wysoki Sądzie, od czasu, jak podupadłam na zdrowiu, zaniedbuję wiele obowiązków. Przyznaję, że zapomniałam uzupełnić księgi o te nieszczęsne towary.
+$GEN_021_WIT_00_A_04
+Nie jesteście w stanie utrzymać pióra w dłoni?
+$GEN_021_WIT_00_A_05
+Szybko się męczę, mam zawroty głowy. Trudno mi pracować.
+$GEN_021_WIT_00_A_06
+A może po prostu nie chcieliście uczestniczyć w machlojkach ojca?
+$GEN_021_WIT_00_A_07
+To było jedzenie od naszego stałego dostawcy, Marcela Roziera. Nie wpisałam towaru i winę za to biorę na siebie.
+
+
+$GEN_021_WIT_01_A_QTitle
+Proszę powiedzieć, co świadek wie o zarzutach stawianych Isaacowi Medelsheimowi.
+$GEN_021_WIT_01_A_00
+Proszę powiedzieć, co świadek wie o zarzutach stawianych Isaacowi Medelsheimowi.
+$GEN_021_WIT_01_A_01
+To wszystko są kłamstwa wymyślone przez hrabiego de Braux! Jest winny mojemu ojcu ponad 400 tysięcy franków, których nie chce zwrócić! Ale Wysoki Sąd powinien o tym wiedzieć, bo przecież znacie się znakomicie!
+$GEN_021_WIT_01_A_02
+Przywołuję świadka do porządku!
+$GEN_021_WIT_01_A_03
+Hrabia de Braux przed rozprawą powoływał się na znajomość z Wysokim Sądem!
+$GEN_021_WIT_01_A_04
+Sędzia trzyma z kontrrewolucjonistami!
+$GEN_021_WIT_01_A_05
+Świadek ma jakiś dowód na potwierdzenie tych pomówień?
+$GEN_021_WIT_01_A_06
+Żałuję, ale tylko swoje słowa i przekonanie, że gdzie jak gdzie, ale w tym miejscu sprawiedliwości musi stać się zadość! Mój ojciec jest niewinny, skrzynie i towar nabył uczciwie!
+$GEN_021_WIT_01_A_07
+Wyprowadzić świadka!
+
+$GEN_021_KEY_01
+Żydowski handlarz
+$GEN_021_KEY_02
+Zwolennik rewolucji
+$GEN_021_KEY_03
+Dostawy dla wojska
+$GEN_021_KEY_04
+Rozładunek wozów
+$GEN_021_KEY_05
+Magazyn handlarza
+$GEN_021_KEY_06
+Skrzynie wojskowe
+$GEN_021_KEY_07
+Księga inwentarzowa
+$GEN_021_KEY_08
+Zeznania Estery
+
+
+$GEN_021_LastDialog_00
+Jaka kradzież, łaskawy sądzie, jaka zbrodnia?!
+
+$GEN_021_UNIQUE_QUESTION_00
+Jak karczmarz tłumaczył braki wpisów w księdze inwentarzowej?
+$GEN_021_UNIQUE_ANSWER_CORRECT_00_00
+Chorobą córki.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Roztargnieniem.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Brakiem atramentu.
+
+$GEN_021_UNIQUE_QUESTION_01
+Co Medelsheim mówił o donosicielu?
+$GEN_021_UNIQUE_ANSWER_CORRECT_01_00
+Że jest jego dłużnikiem.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Że jest alkoholikiem.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Że nigdy w życiu się nie spotkali.
+
+$GEN_021_UNIQUE_QUESTION_02
+Jak na oskarżenia zareagowała córka podsądnego?
+$GEN_021_UNIQUE_ANSWER_CORRECT_02_00
+Wzięła winę na siebie.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Twierdzi, że nie ma nic wspólnego z interesami ojca.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Zrzuciła winę na pracowników.
+
+$GEN_021_UNIQUE_QUESTION_03
+Czy oskarżony jest spokrewniony z dostawcą prowiantu dla wojska?
+$GEN_021_UNIQUE_ANSWER_CORRECT_03_00
+Tak, to jego kuzyn.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Nie, są jedynie znajomymi.
+$GEN_021_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Nie.
+
+

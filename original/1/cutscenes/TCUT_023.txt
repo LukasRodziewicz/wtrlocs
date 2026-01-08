@@ -1,0 +1,64 @@
+$TCUT_023_001_RENARD
+Thank you for accepting our invitation.
+$TCUT_023_002_JUDGE
+That’s why everyone hates aristocrats. I didn’t really feel like having a choice.
+$TCUT_023_003_RENARD
+Fair point. Thank you, anyway.
+$TCUT_023_004_JUDGE
+What a lovely residence. I’m glad that all that tribute money didn’t go to waste.
+$TCUT_023_005_JUDGE
+Why am I here?
+$TCUT_023_006_RENARD
+We wanted you to meet those who are pursued only because of their provenance.
+$TCUT_023_007_RENARD
+The wealthy are being oppressed just like the poor were in the past.
+$TCUT_023_008_JUDGE
+Aristocracy worked hard to be treated that way.
+$TCUT_023_009_JUDGE
+Everyone has a reason to hate you.
+$TCUT_023_010_RENARD
+The same propaganda slogans all over again.
+$TCUT_023_011_RENARD
+Once we’re finished with that Revolution, can we kill all those who are now trying to get rid of us?
+$TCUT_023_012_JUDGE
+Good luck. Maybe you will meet the ones who killed my child.
+$TCUT_023_014_RENARD
+I must admit that we weren’t entirely convinced whether we should take part in that murder, but the offer was just too tempting.
+$TCUT_023_015_JUDGE
+What is that supposed to mean?
+$TCUT_023_016_RENARD
+I personally think that our disguised partner overestimates you.
+$TCUT_023_017_RENARD
+Yet he wishes to cooperate with a judge of the Tribunal.
+$TCUT_023_018_RENARD
+He has also reassured us that he doesn’t intend to kill any other member of your family.
+$TCUT_023_019_JUDGE
+He killed my child?! You did that?!
+$TCUT_023_020_RENARD
+See how powerful we, the highborn, have become since you forced us to unite?
+$TCUT_023_021_RENARD
+We will play one single game of dice, you and I.
+$TCUT_023_022_RENARD
+We will play for the fate of the man who betrayed your family and helped us kill your child…
+$TCUT_023_MINIGAME_YES_001_JUDGE
+Fine, let’s play.
+$TCUT_023_MINIGAME_YES_002_RENARD
+A true fighting spirit. I like that!
+$TCUT_023_MINIGAME_NO_001_JUDGE
+I will not play your games, Renard.
+$TCUT_023_MINIGAME_NO_002_RENARD
+You are as weak and mediocre as your father.
+$TCUT_023_MINIGAME_ROUND_01_COMM
+Our masked friend was filled with rage. He offered us a very lucrative deal in exchange for our help. We agreed.
+$TCUT_023_MINIGAME_ROUND_02_COMM
+A dangerous, wounded man. Rejecting him would be unwise.
+$TCUT_023_MINIGAME_ROUND_03_COMM
+To have your child killed, he used information taken from a person that we indicated. From a man we have already collaborated with. What a fool.
+$TCUT_023_MINIGAME_ROUND_04_COMM
+We will bring you his head on a plate. This will be a token of our good will, and proof that it is wise to be our friend.
+$TCUT_023_MINIGAME_ROUND_05_COMM
+The aristocrats will proudly return to the city any day now, and every person who has not taken our side will be dealt with.
+$TCUT_023_MINIGAME_JUDGE_WON
+You won. We will keep our promise, and you will get that traitor’s head. And Paris… well, Paris will not be too happy.
+$TCUT_023_MINIGAME_JUDGE_LOST
+Sooner or later every gambler learns that he has no control whatsoever. He passively observes how time pushes him into failure. A deal is a deal. You lost, so we will not be telling you anything. And Paris… Paris shall get what it deserves.

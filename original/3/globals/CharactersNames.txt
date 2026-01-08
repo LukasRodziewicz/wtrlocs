@@ -1,0 +1,420 @@
+#Judge
+Алекси Фидель
+#Judge_Shortcut
+Фидель
+#Mentor
+Раймон Девойе
+#Mentor_standing
+Раймон Девойе
+#Audience
+Публика
+#Jury
+Присяжные
+#Prosecutor
+Антуан де Тенвиль
+#Guardsman
+Стражник
+#SpeechAudience
+Толпа
+#TCUT_034_Audience
+Мужчины Парижа
+#TCUT_054_Konwent
+Национальный конвент
+#Official
+Чиновник
+$Official_Court_Standing
+Чиновник
+#MathildeFidele
+Матильда Фидель
+#FredericFidele
+Фредерик Фидель
+#BernardFidele
+Бернар Фидель
+#AldricFidele
+Алдрик Фидель
+#BrunoFidele
+Бруно Фидель
+#Jacques-LouisDavid
+Жак-Луи Давид
+#Jacques-LouisDavid_Shortcut
+Давид
+#RaphaelClovis
+Рафаэль Кловис
+#GregoryRamel
+Грегори Рамель
+#AliceBoutin
+Алис Бутен
+#MaximiliandeRobespierre
+Максимилиан Робеспьер
+#MaximiliendeRobespierre_Shortcut
+Робеспьер
+#ClementRenard
+Клеман Ренар
+#ClementRenard_Shortcut
+Ренар
+#Jean-PaulMarat
+Жан-Поль Марат
+#Jean-PaulMarat_Shortcut
+Марат
+#Jean-BaptisteGobel
+Жан-Батист Гобель
+#Jean-BaptisteGobel_Shortcut
+Гобель
+#Jacques-ReneHebert
+Жак-Рене Эбер
+#Jacques-ReneHebert_Shortcut
+Эбер
+#GermainedeStael
+Жермена де Сталь
+#GermainedeStael_Shortcut
+де Сталь
+#Jean-NicolasPache
+Жан-Николя Паш
+#Jean-NicolasPache_Shortcut
+Паш
+#Jean-MarieRoland
+Жан Мари Ролан
+#Jean-MarieRoland_Shortcut
+Ролан
+#GraceElliott
+Грейс Эллиот
+#GraceElliott_Shortcut
+Эллиот
+#FrancoisHanriot
+Франсуа Анрио
+#FrancoisHanriot_Shortcut
+Анрио
+#MathieuBurel
+Матье Бюрель
+#MathieuBurel_Shortcut
+Бюрель
+#LaurentPascal
+Лоран Паскаль
+#GenevieveLussier
+Женевьева Люсье
+#LucBlanchot
+Люсьен Бланшо
+#EtienneLebeau
+Этьенн Лебо
+#ClaudeGarnier
+Клод Гарнье
+#ValerieMoreau
+Валери Моро
+#BrunoHugo
+Бруно Юго
+#JeanRenard
+Жан Ренар
+#Thomas_de_Mahy
+Тома де Маи
+#AntoineBarnave
+Антуан Барнав
+#OlivierMugler
+Оливье Мюглер
+#ClaudePochard
+Клод Пошар
+#LudwikCapet
+Луи Капет
+#MauriceLortie
+Морис Лорти
+#AnnadeKorff
+Анна де Корф
+#Jeanne-MarieRoland
+Манон Ролан
+#AntoineLavoisier
+Антуан Лавуазье
+#MarkizdeFavras
+Тома де Маи
+#MariaAntonina
+Мария-Антуанетта Австрийская
+#PatriceLeconte
+Патрис Леконт
+#MichalTrandowski
+Михал Трандовский
+#EdmondMalle
+Эдмон Маль
+#Marie-LaureThebault
+Мари-Лор Тебо
+#RaphaelGallois
+Рафаэль Галлуа
+#BonifaceDutoit
+Бонифас Дютуа
+#HenryPires
+Анри Маранвиль
+#MariePache
+Мари-Сильви Паш
+#MariaGimet
+Мари Жиме
+#BlaiseFossett
+Блез Фоссет
+#RolandLussier
+Ролан Люссье
+#GaetanCalvet
+Гаэтан Кальве
+#LudwikdeBourbon
+Луи де Бурбон
+#JacquesRoux
+Жак Ру
+#ClaudeFauchet
+Клод Фоше
+#RaymondDevoye
+Раймон Девойе
+#AlfredRenoir
+Альфред Ренуар
+#JeanIbert
+Жан Ибер
+#EmmaDanet
+Эме Дане
+#MaximeBerot
+Максим Беро
+#ArturPetiot
+Артюр Бонне
+#DidierDevaux
+Дидье Дево
+#GuyDeniau
+Ги Денио
+#FrancoisChabot
+Франсуа Шабо
+#JeanFrancoiseVary
+Жан-Франсуа Вери
+#SebastianThil
+Себастьен Тель
+#HugoTrottier
+Уго Троттье
+#AlainBras
+Ален Бра
+#HubertBacque
+Юбер Баке
+#NicolasPhilippon
+Николя Филиппон
+#HelenGignac
+Элен Жиньяк
+#IsaacMedelsheim
+Исаак Медельсхайм
+#CamillePapin
+Камиль Папен
+#DenisDecoin
+Дени Декуэн
+#GastondeToucy
+Гастон де Туси
+#PiotrMazeaud
+Рене Мазо
+#MarcelBloch
+Марсель Блох
+#FabriceCerdan
+Фабрис Сердан
+#IsabelledelaMontagne
+Изабелла де ла Монтань
+#LucienBeaubois
+Люсьен Бобуа
+#BastienBaudet
+Бастьен Боде
+#VictorDevalle
+Виктор Девалль
+#ClaudineSessier
+Клодин Сессье
+#RaoulBattier
+Рауль Баттье
+#MichelGaubert
+Мишель Гобе
+#MarcusPinnet
+Маркус Пинне
+#VincentBoulle
+Венсан Булль
+#LucasAdnet
+Люка Адне
+#GaetanThibodeaux
+Гаэтан Тибодо
+#PercivallHill
+Персиваль Хилл
+#GabrielRouzet
+Габриэль Рузе
+#GeorgesDanton
+Жорж Жак Дантон
+#GeorgesDanton_Shortcut
+Дантон
+#CharlotteCorday
+Шарлотта Корде
+#GerardBoutin
+Жерар Бутен
+#JeanCourbis
+Жан Курбис
+#CharlesLeVau
+Шарль Лево
+#BeatriceCaron
+Беатрис Карон
+#WicehrabiaDeBeauharnais
+Виконт де Богарне
+#JanRude
+Жан Рюд
+#ThomasLeclear
+Тома Леклер
+#JeanDouret
+Жан Доре
+#AnnaMichel
+Анна Мишель
+#PhillipeCotey
+Филипп Коте
+#IsabelleDugard
+Изабелла Дюгар
+#ColinBoufue
+Колин Бофе
+#KarolLudwik
+Луи-Шарль
+#Boulle
+Вдова Булль
+#CristobalRemy
+Кристобаль Реми
+#ValerieRabiot
+Валери Рабьо
+#CeciledeJarre
+Сесиль де Жарр
+#JulesMarot
+Жюль Маро
+#JeanMace
+Жан Масе
+#Gaumont
+Гомон
+#LouisDelon
+Луи Делон
+#Beaurepaire
+Вдова Борепер
+#AntoineTellier
+Антуан Телье
+#Montilier
+Доктор Монтилье
+#ArtoudLemout
+Арно Лему
+#GeorgineMaillard
+Жоржина Майяр
+#EsteraMedelsheim
+Эстер Медельсхайм
+#MariaDeraismes
+Мария Дерэм
+#PhilippeLeBas
+Филипп Леба
+#RaymondHoullier
+Раймон Улье
+#OlivierFouty
+Оливье Фоте
+#SzymonRoux
+Симон Ру
+#PaulIdrac
+Поль Идрак
+#LambertCazale
+Ламбер Казаль
+#AnnaRenan
+Анна Ренан
+#Bacque
+Мадам Бак
+#Sole
+Соле
+#KapitanBerryer
+Капитан Беррье
+#SylviePapon
+Сильви Мартен
+#GuarinSouliere
+Герен Сульер
+#JLDavid_Standing
+Жак-Луи Давид
+#JLDavid
+Жак-Луи Давид
+#Wife
+Матильда Фидель
+#WifeM
+Матильда Фидель
+#Hanriot
+Франсуа Анрио
+#Ramel
+Грегори Рамель
+#Danton
+Жорж Жак Дантон
+#JudgeCUT
+Алекси Фидель
+#Pache
+Жан-Николя Паш
+#Elder Son
+Бернар Фидель
+#Grandfather
+Алдрик Фидель
+#Marionetkarz
+Кукловод
+#Solider
+Солдат
+#Thug
+Головорез
+#Judge_CUT
+Алекси Фидель
+#JUDGE_SPEECH
+Алекси Фидель
+#Renard
+Клеман Ренар
+#Gobel
+Жан-Батист Гобель
+#ElderSonHandLess
+Бернар Фидель
+#Younger Son
+Фредерик Фидель
+#H_Official
+Чиновник
+#PhilipCotey
+Филипп Коте
+#Desteal
+Жермена де Сталь
+#Boutin
+Жерар Бутен
+#Tinville
+Антуан де Тенвиль
+#Hebert
+Жак-Рене Эбер
+#Marat
+Жан-Поль Марат
+#Elliott
+Грейс Эллиот
+#Cotey
+Филипп Коте
+#Beatrice
+Беатрис Карон
+#Roland_Standing
+Жан Мари Ролан
+#Plessis
+Капитан Плесси
+#PlessisSupport
+Капитан Плесси
+#Ruttmann
+Руттман
+#ClaudinePlouffe
+Клодин Плуф
+#FabriceCerdanSupport
+Фабрис Сердан
+#JeanCourbis_Wittness
+Жан Курбис
+#GuyDeniau_Support
+Ги Денио
+#Driver
+Возница
+#Thomas-AlexandreDumas
+Тома-Александр Дюма
+#Audience2
+Толпа
+#AUDIENCE_SPEECH_1
+Толпа
+#AUDIENCE_SPEECH_2
+Толпа
+#AUDIENCE_SPEECH_3
+Толпа
+#Patrol
+Патруль
+#Crowd
+Толпа
+#Man
+Мужчина
+#Men_01
+Мужчина
+#Konwent
+Национальный конвент
+#Boy
+Мальчик
+#Child
+Ребенок
+#Mother
+Мать

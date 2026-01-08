@@ -1,0 +1,420 @@
+#Judge
+Alexis Fidèle
+#Judge_Shortcut
+Fidèle
+#Mentor
+Raymond Dévoyé
+#Mentor_standing
+Raymond Dévoyé
+#Audience
+Publikum
+#Jury
+Geschworene
+#Prosecutor
+Antoine Tinville
+#Guardsman
+Gardist
+#SpeechAudience
+Die Menge
+#TCUT_034_Audience
+Männer von Paris
+#TCUT_054_Konwent
+Nationalkonvent
+#Official
+Beamter
+$Official_Court_Standing
+Beamter
+#MathildeFidele
+Mathilde Fidèle
+#FredericFidele
+Frédéric Fidèle
+#BernardFidele
+Bernard Fidèle
+#AldricFidele
+Aldric Fidèle
+#BrunoFidele
+Bruno Fidèle
+#Jacques-LouisDavid
+Jacques-Louis David
+#Jacques-LouisDavid_Shortcut
+David
+#RaphaelClovis
+Raphaël Clovis
+#GregoryRamel
+Grégory Ramel
+#AliceBoutin
+Alice Boutin
+#MaximiliandeRobespierre
+Maximilien Robespierre
+#MaximiliendeRobespierre_Shortcut
+Robespierre
+#ClementRenard
+Clément Renard
+#ClementRenard_Shortcut
+Renard
+#Jean-PaulMarat
+Jean-Paul Marat
+#Jean-PaulMarat_Shortcut
+Marat
+#Jean-BaptisteGobel
+Jean-Baptiste Gobel
+#Jean-BaptisteGobel_Shortcut
+Gobel
+#Jacques-ReneHebert
+Jacques-René Hébert
+#Jacques-ReneHebert_Shortcut
+Hébert
+#GermainedeStael
+Germaine de Staël
+#GermainedeStael_Shortcut
+de Staël
+#Jean-NicolasPache
+Jean-Nicolas Pache
+#Jean-NicolasPache_Shortcut
+Pache
+#Jean-MarieRoland
+Jean-Marie Roland
+#Jean-MarieRoland_Shortcut
+Roland
+#GraceElliott
+Grace Elliott
+#GraceElliott_Shortcut
+Elliott
+#FrancoisHanriot
+François Hanriot
+#FrancoisHanriot_Shortcut
+Hanriot
+#MathieuBurel
+Mathieu Burel
+#MathieuBurel_Shortcut
+Burel
+#LaurentPascal
+Laurent Pascal
+#GenevieveLussier
+Geneviève Lussier
+#LucBlanchot
+Lucien Blanchot
+#EtienneLebeau
+Étienne Lebeau
+#ClaudeGarnier
+Claude Garnier
+#ValerieMoreau
+Valérie Moreau
+#BrunoHugo
+Bruno Hugo
+#JeanRenard
+Jean Renard
+#Thomas_de_Mahy
+Thomas de Mahy
+#AntoineBarnave
+Antoine Barnave
+#OlivierMugler
+Olivier Mugler
+#ClaudePochard
+Claude Pochard
+#LudwikCapet
+Louis Capet
+#MauriceLortie
+Maurice Lortie
+#AnnadeKorff
+Anne de Korff
+#Jeanne-MarieRoland
+Jeanne Marie Roland
+#AntoineLavoisier
+Antoine Lavoisier
+#MarkizdeFavras
+Thomas de Mahy
+#MariaAntonina
+Marie Antoinette von Österreich
+#PatriceLeconte
+Patrice Leconte
+#MichalTrandowski
+Michał Trandowski
+#EdmondMalle
+Edmond Malle
+#Marie-LaureThebault
+Marie-Laure Thébault
+#RaphaelGallois
+Raphaël Gallois
+#BonifaceDutoit
+Boniface Dutoit
+#HenryPires
+Henry Maranville
+#MariePache
+Marie-Sylvie Pache
+#MariaGimet
+Marie Gimet
+#BlaiseFossett
+Blaise Fossett
+#RolandLussier
+Roland Lussier
+#GaetanCalvet
+Gaëtan Calvet
+#LudwikdeBourbon
+Louis de Bourbon
+#JacquesRoux
+Jacques Roux
+#ClaudeFauchet
+Claude Fauchet
+#RaymondDevoye
+Raymond Dévoyé
+#AlfredRenoir
+Alfred Renoir
+#JeanIbert
+Jean Ibert
+#EmmaDanet
+Aimée Danet
+#MaximeBerot
+Maxime Bérot
+#ArturPetiot
+Arthur Bonnet
+#DidierDevaux
+Didier Devaux
+#GuyDeniau
+Guy Deniau
+#FrancoisChabot
+François Chabot
+#JeanFrancoiseVary
+Jean Vary
+#SebastianThil
+Sébastien Thil
+#HugoTrottier
+Hugo Trottier
+#AlainBras
+Alain Bras
+#HubertBacque
+Hubert Bacque
+#NicolasPhilippon
+Nicolas Philippon
+#HelenGignac
+Hélène Gignac
+#IsaacMedelsheim
+Isaac Medelsheim
+#CamillePapin
+Camille Papin
+#DenisDecoin
+Denis Decoin
+#GastondeToucy
+Gaston de Toucy
+#PiotrMazeaud
+René Mazeaud
+#MarcelBloch
+Marcel Bloch
+#FabriceCerdan
+Fabrice Cerdan
+#IsabelledelaMontagne
+Isabelle de la Montagne
+#LucienBeaubois
+Lucien Beaubois
+#BastienBaudet
+Bastien Baudet
+#VictorDevalle
+Victor Devalle
+#ClaudineSessier
+Claudine Sessier
+#RaoulBattier
+Raoul Battier
+#MichelGaubert
+Michel Gaubert
+#MarcusPinnet
+Marcus Pinnet
+#VincentBoulle
+Vincent Boulle
+#LucasAdnet
+Lucas Adnet
+#GaetanThibodeaux
+Gaëtan Thibodeaux
+#PercivallHill
+Percivall Hill
+#GabrielRouzet
+Gabriel Rouzet
+#GeorgesDanton
+Georges Danton
+#GeorgesDanton_Shortcut
+Danton
+#CharlotteCorday
+Charlotte Corday
+#GerardBoutin
+Gérard Boutin
+#JeanCourbis
+Jean Courbis
+#CharlesLeVau
+Charles Le Vau
+#BeatriceCaron
+Béatrice Caron
+#WicehrabiaDeBeauharnais
+Vicomte de Beauharnais
+#JanRude
+Jean Rude
+#ThomasLeclear
+Thomas Leclair
+#JeanDouret
+Jean Douret
+#AnnaMichel
+Anne Michel
+#PhillipeCotey
+Phillipe Côté
+#IsabelleDugard
+Isabelle Dugard
+#ColinBoufue
+Colin Boufue
+#KarolLudwik
+Louis-Charles
+#Boulle
+Witwe Boulle
+#CristobalRemy
+Cristobal Rémy
+#ValerieRabiot
+Valérie Rabiot
+#CeciledeJarre
+Cécile de Jarre
+#JulesMarot
+Jules Marot
+#JeanMace
+Jean Macé
+#Gaumont
+Gaumont
+#LouisDelon
+Louis Delon
+#Beaurepaire
+Witwe Beaurepaire
+#AntoineTellier
+Antoine Tellier
+#Montilier
+Doktor Montilier
+#ArtoudLemout
+Arnaud Lemout
+#GeorgineMaillard
+Georgine Maillard
+#EsteraMedelsheim
+Esther Medelsheim
+#MariaDeraismes
+Maria Deraismes
+#PhilippeLeBas
+Philippe Le Bas
+#RaymondHoullier
+Raymond Houllier
+#OlivierFouty
+Olivier Foute
+#SzymonRoux
+Simon Roux
+#PaulIdrac
+Paul Idrac
+#LambertCazale
+Lambert Cazale
+#AnnaRenan
+Anna Renan
+#Bacque
+Mademoiselle Bacque
+#Sole
+Solé
+#KapitanBerryer
+Kapitän Berrier
+#SylviePapon
+Sylvie Martin
+#GuarinSouliere
+Guérin Soulière
+#JLDavid_Standing
+Jacques-Louis David
+#JLDavid
+Jacques-Louis David
+#Wife
+Mathilde Fidèle
+#WifeM
+Mathilde Fidèle
+#Hanriot
+François Hanriot
+#Ramel
+Grégory Ramel
+#Danton
+Georges Danton
+#JudgeCUT
+Alexis Fidèle
+#Pache
+Jean-Nicolas Pache
+#Elder Son
+Bernard Fidèle
+#Grandfather
+Aldric Fidèle
+#Marionetkarz
+Der Puppenspieler
+#Solider
+Soldat
+#Thug
+Schläger
+#Judge_CUT
+Alexis Fidèle
+#JUDGE_SPEECH
+Alexis Fidèle
+#Renard
+Clément Renard
+#Gobel
+Jean-Baptiste Gobel
+#ElderSonHandLess
+Bernard Fidèle
+#Younger Son
+Frédéric Fidèle
+#H_Official
+Beamter
+#PhilipCotey
+Phillipe Côté
+#Desteal
+Germaine de Staël
+#Boutin
+Gérard Boutin
+#Tinville
+Antoine Tinville
+#Hebert
+Jacques-René Hébert
+#Marat
+Jean-Paul Marat
+#Elliott
+Grace Elliott
+#Cotey
+Phillipe Côté
+#Beatrice
+Béatrice Caron
+#Roland_Standing
+Jean-Marie Roland
+#Plessis
+Kapitän Plessis
+#PlessisSupport
+Kapitän Plessis
+#Ruttmann
+Ruttman
+#ClaudinePlouffe
+Claudine Plouffle
+#FabriceCerdanSupport
+Fabrice Cerdan
+#JeanCourbis_Wittness
+Jean Courbis
+#GuyDeniau_Support
+Guy Deniau
+#Driver
+Kutschfahrer
+#Thomas-AlexandreDumas
+Thomas-Alexandre Dumas
+#Audience2
+Die Menge
+#AUDIENCE_SPEECH_1
+Die Menge
+#AUDIENCE_SPEECH_2
+Die Menge
+#AUDIENCE_SPEECH_3
+Die Menge
+#Patrol
+Patrouille
+#Crowd
+Die Menge
+#Man
+Mann
+#Men_01
+Mann
+#Konwent
+Nationalkonvent
+#Boy
+Junge
+#Child
+Kind
+#Mother
+Mutter

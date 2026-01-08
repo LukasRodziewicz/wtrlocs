@@ -1,0 +1,268 @@
+$GEN_026_DOC_01_HEADER
+Compilado por: Nathan d’Essiraf
+$GEN_026_DOC_01_00
+Gaston de Toucy, visconde de Poissy, capitão de artilharia de 37 anos. Ao contrário de outros oficiais da aristocracia, não fugiu da França quando a Revolução começou e, em vez disso, prosseguiu sua carreira militar. Tornou-se famoso após a Batalha de Valmy, que deteve o avanço dos exércitos prussiano e austríaco. Atualmente, comanda a companhia de canhões da 39ª meia-brigada, estacionada nos arredores de Paris. De modo geral, é visto como <a name="1" class="hidden">um oficial experiente</a>, embora seu passado de <a name="2" class="hidden">alcoolismo</a> lance uma sombra sobre sua reputação.
+$GEN_026_DOC_01_01
+Como oficial, ele recebeu a missão de transportar o canhão da companhia até o local da execução em massa dos Contrarrevolucionários. O diretor da prisão de Bicêtre, Alfons d’Outre, o acusou de ter perdido intencionalmente o canhão durante a marcha e de <a name="3" class="hidden">sabotar os veredictos</a> do Tribunal Revolucionário.
+$GEN_026_DOC_01_02
+Contrariando o protocolo, de Toucy emitiu <a name="4" class="hidden">uma ordem para transportar</a> a equipe do canhão nos veículos da companhia, separada do canhão, que foi levado depois junto com os mantimentos. Isso resultou em o canhão ser encontrado nas proximidades de Vaubourg, longe de Porcherons, onde os condenados deveriam ser executados. Quando a equipe do canhão finalmente chegou, o capitão de Toucy estava embriagado. Os soldados testemunharam que de Toucy <a name="5" class="hidden">alterou a rota do transporte</a> junto com o sargento Foute após o início da marcha.
+$GEN_026_DOC_01_03
+D’Outre afirma que de Toucy organizou a operação porque um certo Quentin de Laval, seu <a name="6" class="hidden">companheiro de armas</a>, estava entre os condenados. De Toucy e de Laval lutaram juntos no Exército do Norte. Durante a batalha de Valmy, de Laval carregou o visconde nas costas em meio ao fogo da artilharia prussiana.
+$GEN_026_DOC_01_04
+A princípio, de Toucy seria submetido à corte marcial, mas, devido ao caráter contrarrevolucionário das acusações, decidiu-se que ele deveria responder perante o Tribunal Revolucionário.
+$GEN_026_OnStart_00
+Por favor, apresente-se.
+$GEN_026_OnStart_01
+Capitão Gaston de Toucy, companhia de artilharia, 39ª meia-brigada.
+$GEN_026_OnStart_02
+Lembro ao réu que comparece perante este tribunal como um cidadão comum, despojado de todos os privilégios decorrentes de seu posto e suspenso de suas funções militares até a conclusão deste julgamento.
+$GEN_026_OnStart_03
+Se me permite – não foi o tribunal que me concedeu meu posto, portanto não cabe ao tribunal decidir se sou ou não um oficial.
+$GEN_026_OnStart_04
+Você está respondendo por insubordinação e conduta imprópria a um oficial – controle-se.
+$GEN_026_OnStart_05
+Você é acusado de usar sua posição para impedir a execução de contrarrevolucionários. Você se declara culpado?
+$GEN_026_OnStart_06
+Não. Isso é merda expelida pelo traseiro que é o cidadão d’Outre.
+$GEN_026_OnStart_07
+Deviam cortar sua cabeça por essa boca imunda!
+$GEN_026_OnStart_08
+São vocês que deveriam ser decapitados, seus covardes preguiçosos! Gritam aqui, mas não os vi na frente prussiana!
+$GEN_026_OnGuilty_00
+Condeno Gaston de Toucy à guilhotina! Levem o condenado.
+$GEN_026_OnGuilty_01
+Felizmente, você conseguiu afastar de Toucy antes que ele traísse nosso exército no campo de batalha.
+$GEN_026_OnGuilty_02
+Muito bem!
+$GEN_026_OnGuilty_03
+Você está matando um defensor da França!
+$GEN_026_OnGuilty_04
+Bravo!
+$GEN_026_OnNotGuilty_00
+O veredito para Gaston de Toucy é... inocente! Libertem o réu.
+$GEN_026_OnNotGuilty_01
+Mesmo que você não esteja convencido de que ele conspirou, deveria ao menos mandá-lo para a prisão por sua estupidez.
+$GEN_026_OnNotGuilty_02
+Ultrajante!
+$GEN_026_OnNotGuilty_03
+Neste tribunal, não existe justiça!
+$GEN_026_OnNotGuilty_04
+Você ficou maluco?! Não vê que ele é culpado?!
+$GEN_026_01x03_00_QTitle
+Acho surpreendente que um oficial experiente não tenha previsto os mantimentos…
+$GEN_026_01x03_00_00
+Acho surpreendente que um oficial experiente não tenha previsto que mantimentos e canhões não conseguiriam acompanhar veículos mais leves.
+$GEN_026_01x03_00_01
+Eu não esperava que o sargento Foute se perdesse em território conhecido e levasse o transporte para Vaubourg em vez de Porcherons.
+$GEN_026_01x03_00_02
+Acredito que o réu fez tudo o que pôde para “perder” o canhão e impedir que chegasse ao local da execução.
+$GEN_026_01x03_00_03
+Por que eu faria isso? D’Outre poderia facilmente pedir outra companhia de canhões de seis libras. Isso não ajudaria ninguém, muito menos os condenados.
+$GEN_026_01x03_00_04
+Talvez o adiamento da execução fizesse parte do seu plano.
+$GEN_026_01x03_00_05
+Que plano?
+$GEN_026_01x03_00_06
+Você pretendia libertar o condenado?
+$GEN_026_01x03_00_07
+Que absurdo.
+$GEN_026_01x03_00_08
+Faça-o entregar seus cúmplices!
+$GEN_026_01x04_01_QTitle
+Por que não seguiu o protocolo e ordenou que a tripulação marchasse junto com o canhão?
+$GEN_026_01x04_01_00
+Por que não seguiu o protocolo e ordenou que a tripulação marchasse junto com o canhão?
+$GEN_026_01x04_01_01
+Por ordem do coronel Fabron, a companhia deveria chegar a Porcherons em um dia. Isso era impossível. Não teríamos conseguido a tempo se tivéssemos marchado desde o campo de treinamento seguindo o protocolo.
+$GEN_026_01x04_01_02
+O coronel Fabron não mencionou nada sobre desconsiderar o procedimento padrão de marcha em sua ordem.
+$GEN_026_01x04_01_03
+No entanto, ficou claro que o veredicto do Tribunal não podia esperar e que eu deveria me apressar. A ordem era explícita e as circunstâncias, extraordinárias, então fiz tudo o que estava ao meu alcance para cumpri-la.
+$GEN_026_01x04_01_04
+Separar a tripulação dos canhões era para acelerar a marcha?
+$GEN_026_01x04_01_05
+…
+$GEN_026_01x04_01_06
+Gostaria de ouvir sua explicação.
+$GEN_026_01x04_01_07
+A tripulação teria conseguido executar a sentença mesmo sem o canhão.
+$GEN_026_01x04_01_08
+Eu me lembro de um plano bem diferente.
+$GEN_026_01x04_01_09
+Quis cumprir minhas ordens da forma mais fiel possível.
+$GEN_026_03x06_02_QTitle
+O que você faria para ajudar um companheiro de armas cuja vida está em perigo?
+$GEN_026_03x06_02_00
+O que você faria para ajudar um companheiro de armas cuja vida está em perigo?
+$GEN_026_03x06_02_01
+Tudo o que pude.
+$GEN_026_03x06_02_02
+Então o réu não hesitaria em sabotar a execução de Quentin de Laval, a quem deve a própria vida?
+$GEN_026_03x06_02_03
+Sabotar a execução do tenente de Laval apenas adiaria o inevitável, sem alterar a decisão do Tribunal.
+$GEN_026_03x06_02_04
+Mas isso aliviaria sua consciência, já que você não teria participado da morte dele. Creio que essa é uma justificativa suficiente para a perda do canhão.
+$GEN_026_03x06_02_05
+Na minha opinião, estamos diante de uma conspiração. Ele queria libertar de Laval.
+$GEN_026_03x06_02_06
+Imputações e suposições. Onde estão as suas provas?
+$GEN_026_03x06_02_07
+Se descartarmos todas as possibilidades absurdas, só resta uma conspiração contrarrevolucionária. Dê-me os nomes dos seus cúmplices!
+$GEN_026_03x06_02_08
+Não faço a menor ideia do que está falando.
+$GEN_026_03x06_02_09
+Os cabeças-dura monarquistas não têm nada melhor a fazer além de conspirar.
+$GEN_026_02x01_03_QTitle
+Fico curioso por que, depois de tanto tempo sóbrio, você decidiu se embriagar justamente quando…
+$GEN_026_02x01_03_00
+Fico curioso por que, após tanto tempo sóbrio, você decidiu se embriagar justamente enquanto cumpria a ordem do coronel Fabron.
+$GEN_026_02x01_03_01
+Foi um momento de fraqueza pessoal. É a única coisa que posso admitir.
+$GEN_026_02x01_03_02
+Essa mesma fraqueza momentânea também foi responsável por você ordenar ao sargento Foute que enviasse o canhão para Vaubourg em vez de Porcherons?
+$GEN_026_02x01_03_03
+Não me lembro de ter dado essa ordem. Quem disse isso?
+$GEN_026_02x01_03_04
+Seus subordinados. O tribunal acredita que você tentou usar sua embriaguez como álibi após redirecionar o transporte do canhão.
+$GEN_026_02x01_03_05
+Ou talvez ele precisasse afogar o medo diante da mão infalível da justiça.
+$GEN_026_02x01_03_06
+Vocês não sabem nada sobre justiça.
+$GEN_026_02x01_03_07
+Controle sua insolência ou vamos lhe ensinar o que é disciplina! Estava bebendo para esconder suas verdadeiras intenções?
+$GEN_026_02x01_03_08
+Essa é uma distorção injusta dos fatos.
+$GEN_026_02x01_03_09
+Não precisamos de um defensor assim!
+$GEN_026_02x01_03_10
+Pelo menos ele lutou contra os prussianos.
+$GEN_026_03x04_04_QTitle
+Chame a testemunha, Olivier Foute.
+$GEN_026_03x04_04_00
+Chame a testemunha, Olivier Foute.
+$GEN_026_03x04_04_02
+Por favor, apresente-se.
+$GEN_026_03x04_04_03
+Sargento Olivier Foute, 2ª seção da 1ª companhia de artilharia da 39ª meia-brigada.
+$GEN_026_04x05_05_QTitle
+Por que os artilheiros marcharam antes dos canhões?
+$GEN_026_04x05_05_00
+Por que os artilheiros marcharam antes dos canhões?
+$GEN_026_04x05_05_01
+Porque eles estavam prontos para partir mais cedo. Os artilheiros precisaram preparar as carroças e pegar a munição de bala no arsenal para realizar o sonho de d’Outre de se tornar o segundo Fouché.
+$GEN_026_04x05_05_02
+Você não gostou da ordem de execução?
+$GEN_026_04x05_05_03
+O exército existe para lutar, não para torturar pessoas indefesas.
+$GEN_026_04x05_05_04
+Aqueles “indefesos” representavam uma ameaça para a França.
+$GEN_026_04x05_05_05
+Eles mereciam ser fuzilados.
+$GEN_026_04x05_05_06
+Recebi uma ordem e tentei cumpri-la. Você pediu minha opinião, então eu a dei.
+$GEN_026_03x06_06_QTitle
+O réu direcionou intencionalmente o canhão a Vaubourg para impedir a execução de Quentin de Laval?
+$GEN_026_03x06_06_00
+O réu direcionou intencionalmente o canhão a Vaubourg para impedir a execução de Quentin de Laval?
+$GEN_026_03x06_06_01
+Eu não sabia que o coronel Laval estava entre os condenados.
+$GEN_026_03x06_06_02
+Então foi só estupidez?
+$GEN_026_03x06_06_03
+Eu diria que foi um erro.
+$GEN_026_03x06_06_04
+É verdade, as pessoas cometem erros.
+$GEN_026_03x06_06_05
+Em tempos de guerra, erros assim podem custar a vida dos nossos soldados.
+$GEN_026_03x06_06_06
+Reconheço que, como oficial, sou culpado, mas não agi com más intenções.
+$GEN_026_03x06_06_07
+Você devia cuidar de cavalos, não comandar soldados!
+$GEN_026_WIT_00_A_QTitle
+Testemunha, para onde deveria conduzir o transporte dos canhões?
+$GEN_026_WIT_00_A_00
+Testemunha, para onde deveria conduzir o transporte dos canhões?
+$GEN_026_WIT_00_A_01
+O capitão disse que todos devemos estar em Porcherons às 9h da manhã, ou seremos guilhotinados.
+$GEN_026_WIT_00_A_02
+Colegas da testemunha declararam que, em determinado momento, o acusado alterou o destino do transporte, enviando-o para Vaubourg em vez de Porcherons.
+$GEN_026_WIT_00_A_03
+O capitão se juntou a nós durante uma pausa, me chamou de lado e disse que tínhamos recebido ordens erradas e deveríamos seguir para Vaubourg. Ele cheirava como uma cervejaria.
+$GEN_026_WIT_00_A_04
+E mesmo assim você acreditou nele?
+$GEN_026_WIT_00_A_05
+Os oficiais estão sempre bêbados, mas ainda assim somos obrigados a obedecê-los.
+$GEN_026_WIT_01_A_QTitle
+O acusado costuma abusar do álcool com frequência?
+$GEN_026_WIT_01_A_00
+O acusado costuma abusar do álcool com frequência?
+$GEN_026_WIT_01_A_01
+Para ser sincero, faz tempo que não o vejo bêbado. Mas sei que, quando ele se entrega, não consegue parar de beber.
+$GEN_026_WIT_01_A_02
+Ele teria algum motivo para beber naquele dia?
+$GEN_026_WIT_01_A_03
+Não sei. Talvez ele tenha ficado abalado por causa do de Laval.
+$GEN_026_WIT_01_A_04
+Ele comentou algo sobre isso?
+$GEN_026_WIT_01_A_05
+Com certeza não para um soldado comum como eu.
+$GEN_026_WIT_01_B_QTitle
+O que você sabe sobre a relação entre o réu e Quentin de Laval?
+$GEN_026_WIT_01_B_00
+O que você sabe sobre a relação entre o réu e Quentin de Laval?
+$GEN_026_WIT_01_B_01
+De Laval salvou a vida dele em Valmy, todo o batalhão sabe disso. Depois que ele foi transferido para nossa meia-brigada, continuaram trocando cartas.
+$GEN_026_WIT_01_B_02
+O acusado tinha conhecimento da sentença de de Laval?
+$GEN_026_WIT_01_B_03
+Acho que sim, já que ele estava tão abatido... Mas nunca falou sobre isso. Ele é soldado, não político.
+$GEN_026_WIT_01_B_04
+Ele poderia saber que de Laval estava sendo mantido em Bicêtre junto com os outros condenados que aguardavam a execução?
+$GEN_026_WIT_01_B_05
+Ele certamente sabia que de Laval estava em Bicêtre, mas duvido que soubesse que ele seria executado. Ainda assim, acho que ele poderia ter imaginado.
+$GEN_026_WIT_01_B_06
+Poderia explicar?
+$GEN_026_WIT_01_B_07
+Quando veio mudar o destino de Porcherons para Vaubourg, ele resmungava que não iria participar de algo.
+$GEN_026_WIT_01_B_08
+Ele mencionou algum complô ou citou nomes?
+$GEN_026_WIT_01_B_09
+Não, senhor, não ouvi nada desse tipo.
+$GEN_026_KEY_01
+Oficial experiente
+$GEN_026_KEY_02
+Problemas com álcool
+$GEN_026_KEY_03
+Sabotando o veredito do Tribunal
+$GEN_026_KEY_04
+Transporte de canhões
+$GEN_026_KEY_05
+Alteração da rota do transporte
+$GEN_026_KEY_06
+Companheiro de armas
+$GEN_026_LastDialog_00
+Aceitarei o veredicto com dignidade, mas não permita que isso alivie sua consciência!
+$GEN_026_UNIQUE_QUESTION_00
+Como de Toucy justificou sua decisão de separar a tripulação dos canhões?
+$GEN_026_UNIQUE_ANSWER_CORRECT_00_00
+Foi por ordem do coronel Fabron.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ele seguiu o procedimento.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ele queria evitar sabotagem.
+$GEN_026_UNIQUE_QUESTION_01
+Quem deveria ser executado?
+$GEN_026_UNIQUE_ANSWER_CORRECT_01_00
+Contrarrevolucionários.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Padres.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Bandidos comuns.
+$GEN_026_UNIQUE_QUESTION_02
+Como o soldado descreveu a execução marcada?
+$GEN_026_UNIQUE_ANSWER_CORRECT_02_00
+Torturar pessoas indefesas.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Um desperdício de pólvora.
+$GEN_026_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Uma mancha no uniforme.

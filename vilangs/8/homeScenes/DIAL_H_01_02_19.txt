@@ -1,0 +1,22 @@
+$DIAL_H_01_02_19_001_GRANDFATHER
+Como estão seus ferimentos?
+$DIAL_H_01_02_19_002_JUDGE
+Eles estão se recuperando. Tudo graças aos nossos novos amigos.
+$DIAL_H_01_02_19_003_WIFE
+Sério?
+$DIAL_H_01_02_19_004_JUDGE
+O que houve?
+$DIAL_H_01_02_19_005_WIFE
+Deixe-me te lembrar que é aqui, nesta casa, que você está se recuperando. Foi para cá que te trouxeram, e é a sua família que tem cuidado de você dia e noite. Nós, sua família, que você está colocando em risco.
+$DIAL_H_01_02_19_006_JUDGE
+Você acha que eu queria ser esfaqueado num beco?
+$DIAL_H_01_02_19_007_GRANDFATHER
+Sua esposa quer o melhor para a família. Seu irmão...
+$DIAL_H_01_02_19_008_JUDGE
+Meu irmão queria proteger nossa família enfrentando quem nos ameaçava, enquanto você só queria esperar! Mas eu vi a cabeça de um rei rolar tão facilmente quanto a de um comerciante. Só o poder...
+$DIAL_H_01_02_19_009_GRANDFATHER
+Você é um Juiz do Tribunal! Você tem poder!
+$DIAL_H_01_02_19_010_JUDGE
+O verdadeiro poder está nas mãos daqueles que enviaram esses assassinos — os Rolands, ou quem quer que os comande. São eles que decidem quem vive e quem morre nesta cidade.
+$DIAL_H_01_02_19_011_WIFE
+Vamos torcer para que não nos matem todos antes de você conquistar o seu precioso poder.

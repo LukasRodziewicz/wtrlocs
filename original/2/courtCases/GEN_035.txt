@@ -1,0 +1,288 @@
+$GEN_035_DOC_01_HEADER
+Compilé par : Nathan d'Essiraf
+$GEN_035_DOC_01_00
+Est présenté devant la cour Fabrice Cerdan, accusé d'<a name="1" class="hidden">incitation à l'émeute</a> au <a name="2" class="hidden">marché de la rue Cler</a>. L'accusé, âgé de 18 ans, est apprenti chez maître Morel Gareau, ancien tailleur attitré de la baronne de Ronsard. À la suite des actions de l'accusé, le sergent Charles Le Vau, <a name="3" class="hidden">de la Garde nationale</a>, fut molesté. Cerdan participa en personne à l'émeute. Il fut pris sur le fait, avec ceci de particulier qu'il était <a name="4" class="hidden">vêtu d'habits de femme</a>.
+$GEN_035_DOC_01_01
+Le témoignage le plus compromettant a été recueilli auprès de Sylvie Martin, <a name="5" class="hidden">marchande des quatre-saisons</a>. Il fallut la séparer à toute force du sergent Le Vau, qu'elle rouait de coups de concert avec d'autres émeutiers, ou plutôt, devrais-je ajouter à notre grande surprise, émeutières.
+$GEN_035_DOC_01_02
+La citoyenne Martin a attesté qu'initialement, l'apprenti tailleur déambulait entre les étals en criant d'un ton dramatique que le sergent Le Vau <a name="6" class="hidden">avait tenté de le violer</a> et que ses supérieurs avait refusé de punir le crime.  
+$GEN_035_DOC_01_03
+Par solidarité, Sylvie Martin et les autres femmes présentes sur place se jetèrent sur le sergent Le Vau, de patrouille dans la section. Les soldats furent si décontenancés par l'agression de ces dames qu'ils se laissèrent désarmer et frapper. Il nous a été rapporté que Fabrice Cerdan prit une part active à la molestation du garde. Pour être précis, on l'aurait vu lui asséner un coup de pied dans l'entrejambe. Ce détail semble quelque peu trivial, mais la victime en a souffert gravement.
+$GEN_035_DOC_01_04
+La Garde nationale, avec le soutien de députés de la nation, réclame que la peine capitale soit prononcée contre le responsable de l'émeute.
+$GEN_035_OnStart_00
+Sale pervers ! Quel dévergondage, s'habiller en jupons !
+$GEN_035_OnStart_01
+Je dois admettre que nous voyons rarement ici des personnes aussi excentriques. Je te prie de te présenter, citoyen.
+$GEN_035_OnStart_02
+Eh bien… je m'appelle Cerdan. Fabrice Cerdan, Monsieur le juge.
+$GEN_035_OnStart_03
+« Fabrice », dis-tu ?
+$GEN_035_OnStart_04
+Oui, Fabrice. Je suis un gars -- un apprenti tailleur, pardon, tout à fait normal. Cette robe… ce n'était qu'une plaisanterie.
+$GEN_035_OnStart_05
+L'inculpé est accusé d'avoir exhorté une foule à attaquer un sergent de la Garde nationale et d'avoir ensuite pris part à l'agression. Considère-t-il cela aussi comme une plaisanterie ?
+$GEN_035_OnStart_06
+En ma qualité de procureur, je requiers la peine suprême pour l'attaque d'un soldat de la République.
+$GEN_035_OnStart_07
+Attaque ? Je n'ai attaqué personne, je le jure !
+$GEN_035_OnStart_08
+Qui alors courait le marché en hurlant que le sergent Le Vau était un violeur ?
+$GEN_035_OnGuilty_00
+Je condamne le citoyen Fabrice Cerdan à être guillotiné ! Emmenez-le.
+$GEN_035_OnGuilty_01
+Hourra !
+$GEN_035_OnGuilty_02
+Qu'il y pourrisse !
+$GEN_035_OnPrison_00
+Je condamne le citoyen Fabrice Cerdan à être emprisonné ! Emmenez-le.
+$GEN_035_OnPrison_01
+Pourquoi ne pas le décapiter ?
+$GEN_035_OnPrison_02
+Je me demande quel type de « plaisanterie » fera ce drôle une fois sorti de prison ?
+$GEN_035_OnNotGuilty_00
+Je déclare le citoyen Fabrice Cerdan… non coupable. Que liberté lui soit rendue.
+$GEN_035_OnNotGuilty_01
+C'est inacceptable !
+$GEN_035_OnNotGuilty_02
+Et pendant ce temps-là, Sylvie est encore en cellule !
+$GEN_035_OnNotGuilty_03
+Mais où est la justice ?!
+$GEN_035_OnNotGuilty_04
+Je proteste ! L'accusé a agressé un soldat français, cette remise en liberté est criminelle !
+$GEN_035_02x04_00_QTitle
+Pourquoi l'accusé déambulait-il en robe dans le marché de la rue Cler ?
+$GEN_035_02x04_00_00
+Pourquoi l'accusé déambulait-il en robe dans le marché de la rue Cler ?
+$GEN_035_02x04_00_01
+J'avais envie d'une soupe à l'oignon, je suis donc sorti en chercher une.
+$GEN_035_02x04_00_02
+Quel rigolo !
+$GEN_035_02x04_00_03
+Mais pourquoi en robe ?
+$GEN_035_02x04_00_04
+C'était un déguisement ! Sans cela, ces vieilles marchandes — que la lèpre les emporte — ne m'auraient rien vendu.
+$GEN_035_02x04_00_05
+Que veux-tu dire ?
+$GEN_035_02x04_00_06
+Cette grosse vache de Sylvie Martin, qui avait déchiré sa robe, a fait courir le bruit dans toute la rue que c'était de notre faute. Elles nous ont gâché nos affaires, elle et les autres vieilles biques stupides qui l'ont crue.
+$GEN_035_02x04_00_07
+Ne t'avise pas d'insulter Sylvie, minable couseur de torchons !
+$GEN_035_02x04_00_08
+Admettons. Mais pourquoi ne t'auraient-elles pas servi ?
+$GEN_035_02x04_00_09
+Parce que, en retour, nous avons propagé la rumeur que leurs légumes faisaient pousser des poils entre les orteils. Je trouvais ça hilarant, mais elles n'étaient pas du même avis.
+$GEN_035_01x06_01_QTitle
+Pour quelle raison l'accusé a-t-il voulu dresser la foule contre le sergent ?
+$GEN_035_01x06_01_00
+Pour quelle raison l'accusé a-t-il voulu dresser la foule contre le sergent ? Serait-ce par vengeance ?
+$GEN_035_01x06_01_01
+Pour rien au monde, sacrebleu, c'était notre client ! Nous lui avons confectionné son uniforme, celui-là même qu'il arbore fièrement en ce moment comme s'il était l'empereur des Romains !
+$GEN_035_01x06_01_02
+Des témoins affirment que tu l'as frappé à l'un des points les plus vulnérables de son corps.
+$GEN_035_01x06_01_03
+Mais jamais je n'ai frappé cette andouille !
+$GEN_035_01x06_01_04
+Objection, citoyen juge ! L'accusé ne devrait pas utiliser de tels qualificatifs pour désigner un officier de la Garde nationale !
+$GEN_035_01x06_01_05
+Qu'on lui ferme la bouche à coups de gourdin !
+$GEN_035_01x06_01_06
+L'accusé est tenu de surveiller son langage. Il existe donc un conflit entre l'accusé et la victime ?
+$GEN_035_01x06_01_07
+Un conflit ? Ce branque n'a jamais payé son uniforme à mon maître ! Hé, Le Vau, puisque tu es là, tu n'as qu'à me remettre les trois cents francs. Ça t'épargnera un déplacement.
+$GEN_035_01x06_01_08
+C'est de la diffamation, citoyen juge !
+$GEN_035_01x06_01_09
+Diffamation, mon cul ! Tu portes un uniforme, oui ou non ? Et qui va le payer, hein ? Personne ! Je suis bien content que ces dames t'aient arrangé le portrait.
+$GEN_035_01x06_01_10
+Le procès en cours est le tien, citoyen Cerdan, épargne-nous donc ces digressions.
+$GEN_035_03x05_02_QTitle
+Le sergent Le Vau a-t-il réellement violé l'accusé ?
+$GEN_035_03x05_02_00
+Le sergent Le Vau a-t-il réellement violé l'accusé ?
+$GEN_035_03x05_02_01
+Hein ?! Quelle absurdité ! Je portais cette robe seulement pour rire. Je préfère les dames, qu'on se le dise !
+$GEN_035_03x05_02_02
+Tu mens comme tu respires ! Les témoins t'ont entendu donner un récit détaillé !
+$GEN_035_03x05_02_03
+En effet, plusieurs témoignages concordent sur le fait que l'accusé parlait de viol dans la rue Cler.
+$GEN_035_03x05_02_04
+Il en rêvait, oui !
+$GEN_035_03x05_02_05
+À quoi s'attendre de la part d'un drôle de campagnard en robe ?
+$GEN_035_03x05_02_06
+Mais qu'est-ce qu'il arrive aux hommes ?
+$GEN_035_03x05_02_07
+J'ai rien crié, c'est cette grosse vache de Martin. Elle a tout inventé pour se venger de Le Vau en se servant des autres marchandes. Tout le marché sait qu'elle s'est amourachée de lui et qu'il l'a envoyée paître.
+$GEN_035_03x05_02_08
+Encore un mensonge. Les autres témoins rapportent une tout autre histoire.
+$GEN_035_03x05_02_09
+C'est toi la grosse vache !
+$GEN_035_03x05_02_10
+Silence ! La victime souhaite-t-elle faire un commentaire ?
+$GEN_035_03x05_02_11
+J'ai une fiancée, citoyen juge. Je ne me rappelle pas avoir reçu des avances de la part de la citoyenne Martin et, pour être honnête, je ne sais rien de sa vie intime.
+$GEN_035_03x05_02_12
+La victime connaît-elle Sylvie Martin?
+$GEN_035_03x05_02_13
+Je connais tous les marchands. Elle me vend parfois des légumes pour ma soupe.
+$GEN_035_01x05_03_QTitle
+Faites entrer le témoin, Sylvie Martin.
+$GEN_035_01x05_03_00
+Faites entrer le témoin, Sylvie Martin.
+$GEN_035_01x05_03_02
+Je te prie de te présenter, citoyenne.
+$GEN_035_01x05_03_03
+Sylvie Martin.
+$GEN_035_01x05_03_04
+Je tiens à rappeler au témoin que sa comparution présente n'est pas liée à son agression présumée du sergent Le Vau.
+$GEN_035_01x05_03_05
+Je te demande dès à présent de dire toute la vérité, rien que la vérité.
+$GEN_035_01x05_03_06
+Bien sûr. Je veux seulement que ce gredin, ce provocateur, ce… ce satané voyou dépravé reçoive la juste punition qu'il mérite ! Tout est sa faute !
+$GEN_035_02x05_04_QTitle
+J'ai cru comprendre que l'accusé connaît avec précision la patrouille de la Garde. Est-ce vrai ?
+$GEN_035_02x05_04_00
+J'ai cru comprendre que l'accusé connaît avec précision la patrouille de la Garde. Est-ce vrai ?
+$GEN_035_02x05_04_01
+Qui dans la rue Cler ne la connaît pas ? Tout le monde sait qu'ils débutent leur ronde quotidienne avec un quart d'heure de retard.
+$GEN_035_02x05_04_02
+Accuser la victime ne t'aidera en rien.
+$GEN_035_02x05_04_03
+Pourquoi ne nous dis-tu pas comment le sergent t'a attrapé les fesses ?
+$GEN_035_02x05_04_04
+Réponds à la question.
+$GEN_035_02x05_04_05
+Ils arrivent tardivement, gobent leur petit-déjeuner puis font le même chemin toute la journée. Ils ne s'embêtent même pas à mettre le nez dans les ruelles. À Dieu ne plaise qu'il s'y passe quelque chose.
+$GEN_035_02x05_04_06
+L'accusé était donc capable de prédire quand le sergent Le Vau se trouverait à proximité du marché ?
+$GEN_035_02x05_04_07
+J'aurais pu si je l'avais voulu, mais j'ai d'autres chats à fouetter.
+$GEN_035_02x05_04_08
+Il se paie la tête du juge ! Ce garnement mérite une bonne correction !
+$GEN_035_02x05_04_09
+Voilà une coïncidence fascinante ! L'accusé, vêtu comme une femme, paraît dans la rue Cler quelques minutes avant Le Vau et aussitôt, une émeute éclate, au grand dam du sergent…
+$GEN_035_02x05_04_10
+Écoutez, je sais ce que vous vous dites, mais les coïncidences paraissent toujours bizarres, pas vrai ?
+$GEN_035_02x05_04_11
+Le juge n'est pas né de la dernière pluie !
+$GEN_035_03x06_05_QTitle
+L'accusé a-t-il pris part à l'attaque contre le sergent Le Vau ?
+$GEN_035_03x06_05_00
+L'accusé a-t-il pris part à l'attaque contre le sergent Le Vau ?
+$GEN_035_03x06_05_01
+Non. Mais de quel genre d'attaque parle-t-on au juste ?
+$GEN_035_03x06_05_02
+Les témoins ont déclaré que l'accusé a frappé du pied le sergent dans une partie très délicate de son anatomie. La même partie avec laquelle ce dernier… t'aurait violé.
+$GEN_035_03x06_05_03
+Foutaises. Alors certes, j'étais pas loin à rigoler, mais je ne l'ai pas frappé. Et même si je l'avais voulu, je n'aurais eu aucune chance de l'atteindre. Il était complètement cerné par ces vieilles biques !
+$GEN_035_03x06_05_04
+Regardez-le, il se gausse !
+$GEN_035_01x04_06_QTitle
+La robe que l'accusé portait devait-elle l'aider à…
+$GEN_035_01x04_06_00
+La robe que l'accusé portait devait-elle l'aider à provoquer l'émeute ?
+$GEN_035_01x04_06_01
+Je ne me souciais pas vraiment du remue-ménage, je voulais seulement jouer un drôle de tour à la Martin et ses amies. Ce n'était pas méchant.
+$GEN_035_01x04_06_02
+À cause de ton, selon tes propres dires, « drôle de tour », une personne a souffert.
+$GEN_035_01x04_06_03
+En quoi suis-je responsable de la rossée d'un soldat malhonnête par ces dames ?
+$GEN_035_01x03_07_QTitle
+L'accusé a-t-il le moindre problème avec la Garde nationale ?
+$GEN_035_01x03_07_00
+L'accusé a-t-il le moindre problème avec la Garde nationale ?
+$GEN_035_01x03_07_01
+Bien évidemment, étant donné ce qu'il a fait.
+$GEN_035_01x03_07_02
+Du tout. Ces gars défendent courageusement les conquêtes de la Révolution. Qu'ils continuent comme ça !
+$GEN_035_01x03_07_03
+Il ricane encore !
+$GEN_035_01x03_07_04
+Quoi qu'il en soit, cela n'a pas empêché l'accusé de déclencher un tollé contre l'un des membres de la Garde.
+$GEN_035_01x03_07_05
+Vois son regard, il peine à dissimuler son hilarité !
+$GEN_035_01x03_07_06
+Je le constate en effet.
+$GEN_035_01x03_07_07
+Je n'ai déclenché aucun tollé. Je suis allé faire mes emplettes en robe, mes aveux s'arrêtent là. Je paierai une amende pour ce crime s'il le faut.
+$GEN_035_WIT_00_A_QTitle
+Comment le témoin a-t-elle fait connaissance avec l'accusé, le citoyen Cerdan ?
+$GEN_035_WIT_00_A_00
+Comment le témoin a-t-elle fait connaissance avec l'accusé, le citoyen Cerdan ?
+$GEN_035_WIT_00_A_01
+Il m'a cousu une robe, avec cette vieille croûte de Morel. Je l'ai payée trente francs et, le lendemain, les coutures ont cédé, rendez-vous compte ! Je n'ai jamais eu aussi honte de ma vie…
+$GEN_035_WIT_00_A_02
+Dois-je comprendre que le témoin n'est en bons termes ni avec l'accusé, ni avec son maître ?
+$GEN_035_WIT_00_A_03
+Le témoin semble attester que ce sont des aigrefins.
+$GEN_035_WIT_00_A_04
+Oh que oui, je l'atteste. Peste soit de ces tailleurs ! J'ai prévenu toutes mes amies et j'espère bien qu'ils fermeront boutique, ces charlatans incapables.
+$GEN_035_WIT_00_A_05
+Mon maître t'a dit, pauvre co… sotte, qu'il fallait dessiner un patron plus grand, sinon les coutures ne tiendraient pas. Mais Madame n'a rien voulu entendre… Empiffre-toi moins et tu verras que tes vêtements arrêteront de craquer !
+$GEN_035_WIT_01_A_QTitle
+Quand le témoin a-t-elle reconnu l'accusé ?
+$GEN_035_WIT_01_A_00
+Quand le témoin a-t-elle reconnu l'accusé ?
+$GEN_035_WIT_01_A_01
+J'ai compris qui était ce sac à puces aussitôt que les gardes ont fait tomber sa perruque !
+$GEN_035_WIT_01_A_02
+Cela montre le grand soin avec lequel l'accusé s'était travesti. Il devait concocter son crime depuis un certain temps déjà.
+$GEN_035_WIT_01_A_03
+Coupable ? Ils ont dit qu'il est coupable !
+$GEN_035_WIT_01_A_04
+Le témoin n'avait-elle pas remarqué quelque chose d'étrange au sujet de cette fausse femme ?
+$GEN_035_WIT_01_A_05
+Monsieur, vois comme il est jeune et imberbe. Il portait une robe, une perruque, du maquillage… Comment l'aurais-je reconnu ?
+$GEN_035_WIT_01_B_QTitle
+Pourquoi le témoin a-t-elle cru aux médisances de l'accusé…
+$GEN_035_WIT_01_B_00
+Pourquoi le témoin a-t-elle cru aux médisances que l'accusé colportait sur le sergent Le Vau ?
+$GEN_035_WIT_01_B_01
+Eh bien, monsieur… je sais ce dont sont capables les mains baladeuses du sergent Le Vau ! Les gens parlent. Ma sensibilité m'a conduite à me rallier aux autres femmes qui le houspillaient. Et dès que je l'ai vu --
+$GEN_035_WIT_01_B_02
+Objection ! Elle invente ça de toutes pièces !
+$GEN_035_WIT_01_B_03
+Le témoin a-t-elle des preuves d'écarts de conduite du soldat en question ?
+$GEN_035_WIT_01_B_04
+Des preuves… Eh bien, je peux vous dire qu'il a demandé ma main alors que nous étions assis tous deux sur un banc !
+$GEN_035_WIT_01_B_05
+Silence dans la salle ! Asseyez-vous ! Quant à toi, sergent Le Vau, je ne crois pas t'avoir autorisé à prendre la parole !
+$GEN_035_KEY_01
+Incitation à l'émeute
+$GEN_035_KEY_02
+Marché
+$GEN_035_KEY_03
+Agression d'un garde
+$GEN_035_KEY_04
+Déguisé en femme
+$GEN_035_KEY_05
+Témoignage de la marchande
+$GEN_035_KEY_06
+Fausse accusation
+$GEN_035_LastDialog_00
+Allons donc, ce n'était qu'une plaisanterie idiote ! Une plaisanterie !
+$GEN_035_UNIQUE_QUESTION_00
+Pour quelle raison Cerdan s'était-il accoutré ainsi ?
+$GEN_035_UNIQUE_ANSWER_CORRECT_00_00
+Il s'était disputé avec des marchands.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Il avait perdu un pari.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Il voulait se cacher de gens à qui il avait emprunté de l'argent.
+$GEN_035_UNIQUE_QUESTION_01
+De quoi la citoyenne Martin a-t-elle accusé le prévenu ?
+$GEN_035_UNIQUE_ANSWER_CORRECT_01_00
+D'être un escroc et un bon à rien.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_01_00
+D'ivrognerie.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_01_01
+D'avoir passé son fils à tabac.
+$GEN_035_UNIQUE_QUESTION_02
+Que criait l'apprenti du tailleur alors qu'il était habillé en femme ?
+$GEN_035_UNIQUE_ANSWER_CORRECT_02_00
+Que le sergent Le Vau l'avait violé.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Que le citoyen Martin l'avait volé.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Que la Garde avait tué un marchand dans le quartier.

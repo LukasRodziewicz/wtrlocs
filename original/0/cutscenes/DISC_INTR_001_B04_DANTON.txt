@@ -1,0 +1,43 @@
+$DISC_INTR_001_B04_DANTON_001_JUDGE_AGGR
+Roland to gnida. Korupcja nie może być znakiem rozpoznawczym nowej władzy.
+$DISC_INTR_001_B04_DANTON_002_JUDGE_MANI
+Czy Roland jest faktycznie przedstawicielem ludu, czy może bardziej króla i jego sługusów?
+$DISC_INTR_001_B04_DANTON_003_JUDGE_JOKE
+Musimy pozbyć się Rolanda dla jego własnego dobra – kieszenie mu się rozprują od nadmiaru gotówki.
+$DISC_INTR_001_B04_DANTON_004_JUDGE_HUMI
+Francja krwawi, a obecność ludzi takich jak Roland nie pozwala zaleczyć ran, lecz tylko je pogłębia.
+$DISC_INTR_001_B04_DANTON_005_DANTON_SATI
+Nic mnie nie ucieszy teraz bardziej niż śmierć tej pijawki. Ale dlaczego dla ciebie to takie ważne?
+$DISC_INTR_001_B04_DANTON_006_DANTON_INTR
+Nie sądziłem, że ktoś spoza Konwentu będzie tak mocno zainteresowany jego całkowitym upadkiem.
+$DISC_INTR_001_B04_DANTON_007_DANTON_DOUB
+Roland to pijawka, ale jest ministrem i deputowanym wybranym przez lud.
+$DISC_INTR_001_B04_DANTON_008_JUDGE_AGGR
+Poza korupcją Roland zagroził też sędziemu Trybunału Rewolucyjnego. Niezawisłemu organowi!
+$DISC_INTR_001_B04_DANTON_009_JUDGE_MANI
+Roland, by uniknąć kary, zasadza się na mnie osobiście. Ale czy to nie oznacza, że wypowiada wojnę nowemu ładowi?
+$DISC_INTR_001_B04_DANTON_010_JUDGE_JOKE
+Dwa komary – pan i pani Roland – gryząc mnie, chcą pożywić się krwią Francji. Nikt nie lubi komarów.
+$DISC_INTR_001_B04_DANTON_011_JUDGE_HUMI
+Moja osobista niechęć wobec ministra nie zmienia tego, że należy tego skorumpowanego rojalistę zastąpić kimś uczciwym.
+$DISC_INTR_001_B04_DANTON_012_JUDGE_AGGR
+Jeśli nie namówisz deputowanych, będzie to dowód, że tolerujesz zdradziecki element, który panoszy się nadal we Francji!
+$DISC_INTR_001_B04_DANTON_013_JUDGE_MANI
+Jeśli deputowani zobaczą, że zależy ci na usunięciu Rolanda, to może nawet przestaną cię podejrzewać o sympatie rojalistyczne?
+$DISC_INTR_001_B04_DANTON_014_JUDGE_JOKE
+Żyrondyści potykają się o własne nogi – wystarczy, że pomożesz im upaść.
+$DISC_INTR_001_B04_DANTON_015_JUDGE_HUMI
+Roland ma momentami więcej wspólnego z ancien régime niż król Ludwik. Jeśli chcecie usuwać stare, to teraz jest dobra szansa.
+$DISC_INTR_001_B04_DANTON_016_DANTON_SATI
+Osłabienie żyrondystów jest w żywotnym interesie Francji. Nie ma obecnie miejsca dla umiarkowanych. Dla skorumpowanych nie będzie nigdy. Nie pozwolę! 
+$DISC_INTR_001_B04_DANTON_017_DANTON_INTR
+Wizja dominacji jakobinów jest przyjemna. Ułatwiłoby to rządzenie krajem, Francja powstanie z klęczek. Zgoda, pomogę.
+$DISC_INTR_001_B04_DANTON_018_DANTON_DOUB
+Żyronda i tak słabnie bez naszej pomocy. Poczekam, aż sama upadnie.
+
+$DISC_INTR_001_B04_DANTON_TOPIC_01
+Czego chcemy?
+$DISC_INTR_001_B04_DANTON_TOPIC_02
+Dlaczego tego chcemy?
+$DISC_INTR_001_B04_DANTON_TOPIC_03
+Co z tego będzie miał?

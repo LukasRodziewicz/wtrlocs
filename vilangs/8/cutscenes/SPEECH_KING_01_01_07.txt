@@ -1,0 +1,38 @@
+$SPEECH_KING_01_01_07_001_JUDGE
+Povo, o que os inquieta? Por que tanta raiva?
+$SPEECH_KING_01_01_07_002_AUDIENCE
+O rei nos enganou!
+$SPEECH_KING_01_01_07_003_AUDIENCE
+Esse covarde fugiu de nós! Com certeza vai fugir da justiça também!
+$SPEECH_KING_01_01_07_004_AUDIENCE
+Encontramos provas da traição do rei em seu armário de ferro secreto!
+$SPEECH_KING_01_01_07_005_JUDGE_AGGR
+O rei foi capturado. Ele não escapará uma segunda vez. Se tentar, eu mesmo o mato com as minhas próprias mãos!
+$SPEECH_KING_01_01_07_006_JUDGE_MANI
+Luís Capeto é feito de carne e osso – um cidadão, assim como você! Ele não pode escapar do braço longo da lei.
+$SPEECH_KING_01_01_07_007_JUDGE_JOKE
+Sem dúvida, a justiça será feita hoje. Portanto, afaste qualquer hesitação!
+$SPEECH_KING_01_01_07_008_JUDGE_HUMI
+Ninguém escapa da justiça da República! Até mesmo reis devem se curvar diante de Têmis e da vontade do povo.
+$SPEECH_KING_01_01_07_009_JUDGE_AGGR
+Qualquer traição contra a França será punida com a morte! Analisaremos as novas provas e, se os boatos se confirmarem, asseguro que eu mesmo executarei este traidor!
+$SPEECH_KING_01_01_07_010_JUDGE_MANI
+Não fecharemos os olhos para novas evidências. Cumpriremos nosso dever investigando cada pista, pela República e somente pela República.
+$SPEECH_KING_01_01_07_011_JUDGE_JOKE
+As novas provas não serão ignoradas. Se eu fosse você, não me preocuparia!
+$SPEECH_KING_01_01_07_012_JUDGE_HUMI
+Cada nova prova será examinada minuciosamente. Os padrões da República exigem nada menos! Cumprirei cada um deles à risca!
+$SPEECH_KING_01_01_07_013_JUDGE_AGGR
+Não vou decepcioná-lo! Se o sangue dos traidores precisa ser derramado, então será. Eu mesmo vou garantir isso!
+$SPEECH_KING_01_01_07_014_JUDGE_MANI
+A justiça deve retornar ao nosso país e permanecer aqui para sempre. Ninguém se importa mais com isso do que um juiz do Tribunal.
+$SPEECH_KING_01_01_07_015_JUDGE_JOKE
+Vou resolver isso com tanta destreza que vocês vão comemorar noite adentro, brindando alegremente com vinho nas tavernas!
+$SPEECH_KING_01_01_07_016_JUDGE_HUMI
+Eu sei que você pode estar irritado. Mas foram vocês que escolheram seus representantes para protegê-los. Acreditem em mim.
+$SPEECH_KING_TOPIC_01
+O cidadão Capet não escapará da justiça.
+$SPEECH_KING_TOPIC_02
+As provas do armário de ferro serão analisadas.
+$SPEECH_KING_TOPIC_03
+Acredite em mim.

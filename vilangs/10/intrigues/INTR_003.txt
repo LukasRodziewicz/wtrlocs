@@ -1,0 +1,60 @@
+$INTRIGUE_TITLE_003
+Jean-Baptiste Gobel
+$INTRIGUE_003_DESC
+Rolandlar ve Paris Belediye Başkanı ile nasıl başa çıktığınızı gören Gobel, artık sizi bir tehdit olarak görüyor. Genelev, onun için hem önemli bir gelir hem de bilgi kaynağıydı; Belediye Başkanı Pache ise ona şehri kontrol etme imkânı tanıyordu. Başpiskopos bizzat suikastınızı planladı ve oğlunuzun ölümünü ayarladı, hem Rolandları hem de Pache’yi bu suçlara ortak olmaya zorladı.
+$INTR_003_B01_TITLE
+Gobel’in Oğlu Hakkında Söylentiler
+$INTR_003_B01_DESC
+Başpiskoposun gayrimeşru çocuğuna dair bilgiler artık sır olarak kalmamalı. Bu söylentilerin Savcı Tinville’in ve sıradan Parislilerin kulağına ulaşmasını sağlamalıyız.
+$INTR_003_B02_TITLE
+Tinville’in Soruşturması
+$INTR_003_B02_DESC
+Umarız ki söylentiler Tinville’in hayal gücünü yeterince kışkırtır da Gobel’in davasını resmen incelemeye başlar. Başpiskoposun üzerine bir şüphe gölgesi düşürmek, ondan korkan milletvekillerine Gobel’in de zayıf bir noktası olduğunu göstermek açısından çok önemli.
+$INTR_003_B03_TITLE
+Gobel’in Oğlu Ortaya Çıkıyor
+$INTR_003_B03_DESC
+Gérard Boutin, Notre-Dame Katedrali önünde, Başpiskopos Gobel’in gayrimeşru oğlu olduğunu açıkladı. Annesinin bir sığınakta öldüğünü gözyaşlarıyla anlattı. Genç adam, Gobel’i nefret edilen ruhban sınıfının simgesi olarak gören bir grup destekçiyi hızla etrafına topladı. Ne ilginç bir adam... Boutin’in gösterisi, bizim yaratabileceğimizden çok daha fazla yankı uyandırdı. Kim olduğunu doğrulaması için onu bir görüşmeye davet etmeye çalışacağım.
+$INTR_003_B04_TITLE
+Astlarını Zor Durumda Bırakmak
+$INTR_003_B04_DESC
+Gobel’in bahçesinde çürük elmalar aramanın vakti geldi. Eğer onun astlarının suçlarını ortaya çıkarırsak, başpiskoposa duyulan güveni sarsarız. Vendée’deki isyandan sonra, ruhban sınıfı zaten kiliseyi sorumlu tutanların sürekli saldırısı altında.
+$INTR_003_B05_TITLE
+Rahipleri Tutuklamak ve Konuşma Yapmak
+$INTR_003_B05_DESC
+Vurma zamanı! Başpiskoposun sürüsünden kara koyunu tutuklayalım. Artık saklanmaya gerek yok, ona açıkça meydan okumalıyız. Fakat bunu yapmak için bir kalkan gerek: Paris halkı. Kalplerinde bir ateş yakın!
+$INTR_003_B06_TITLE
+Konvansiyonun Desteğini Kazanmak
+$INTR_003_B06_DESC
+Halkın desteği olsa bile, Gobel’in hesap verdiği tek otoritenin yardımı olmadan anayasal bir rahibe saldırmamız mümkün değil. Konvansiyon üyelerinin ruhban sınıfından yüz çevirmesini sağlamalıyız, yoksa Gobel dokunulmaz kalır. Kilise, yüzyıllardır inananların öfkesinden sağ çıkmayı başardı. Yalnızca otoritenin uyarılarına kulak verir.
+$INTR_003_B07_TITLE
+Gobel kıl payı kurtuldu
+$INTR_003_B07_DESC
+Gobel parmaklarımızın arasından kayıp gitti. Konvansiyon toplantısında kutsal görevlerinden istifa ettiğini açıkladı. Yükselen sesiyle, din adamlarının yozlaşmasından ve ahlaki çöküşünden tiksindiğini ilan etti. Bizi şaşırtan ise Hébert’in ona destek çıkıp Gobel’i kendi grubunun yüzü yapmasıydı. “Kendiliğinden” toplanan bir kalabalık, bu dinden döneni alkışladı. Eski başpiskopos tek hamlede hem sokakların hem de Konvansiyon’un desteğini kazandı. Seni alt etti. Dahası, Hébert Gobel’le birlikte, rüşvet alan ya da yabancı güçler için çalışan 73 milletvekili ve yetkilinin isimlerinin ellerinde olduğunu duyurdu. Robespierre’e açıkça gönderme yaparak, “Hiç kimse yolsuzluğa karşı bağışık değildir,” dedi. Suçlulara ülkeyi terk etmeleri için beş gün verdiler. Sonrasında listeyi açıklayacaklar. İçimde bir his var ki, o listede senin adın da geçiyor...
+$INTR_003_B08_TITLE
+Redde­dilmiş Oğul
+$INTR_003_B08_DESC
+Tek bir kararlı hamleyle Gobel geçmişinden tamamen koptu. Gérard Boutin onunla yüz yüze görüşmek istedi, fakat başpiskopos onu hain ve sahtekâr diyerek geri çevirdi. Babası olduğunu kabul edeceğini hiç sanmıyorum. Boutin tamamen yalnız kaldı ve onu planlarımıza dahil etmek bize hiçbir fayda sağlamaz.
+$INTR_003_BLOCK_001_PATH_STR
+Clovis, lağımları arayacak ve birkaç evsizi Gobel hakkında dedikodu yaymaya zorlayacak.
+$INTR_003_BLOCK_001_PATH_DIP
+David, skandalı birkaç nüfuzlu kumar dostuyla konuşacak.
+$INTR_003_BLOCK_001_PATH_ESP
+Ramel’e borcu olan bazı şüpheli adamlar var. Bu iyiliği kullanalım.
+$INTR_003_BLOCK_001_PATH_STR_FAILURE
+Rögar kenarlarında uyuyan insanların sorunu, üst kademelerde pek dostlarının olmamasıdır; oysa burada ihtiyacımız olan tam da onlar…
+$INTR_003_BLOCK_001_PATH_DIP_FAILURE
+Diplomatımız, Gobel’in sözde babalığıyla ilgili skandal iddiaları ortaya döktü. Ne yazık ki, muhatapları bu dedikoduları bolca alkolle yıkayıp, hepsini komik bir şaka sanarak kahkahalara boğuldular. Nasıl da güldüler!
+$INTR_003_BLOCK_001_PATH_ESP_FAILURE
+Ramel’in çevresindeki onurun değerini abarttık. Dostlarının çoğu davamıza hiçbir katkı sağlamadı…
+$INTR_003_BLOCK_004_PATH_STR
+Birkaç omurgasız eski rahibi tehdit etmek, Gobel’in sırlarından bazılarını öğrenmemize kesinlikle yardımcı olacaktır.
+$INTR_003_BLOCK_004_PATH_DIP
+Konvansiyon delegeleri mutlaka bir şeyler biliyor. Ellerinde bir koz olmasa Gobel’i başpiskopos yapmazlardı.
+$INTR_003_BLOCK_004_PATH_ESP
+Aramaya yabancıları dahil etmeyelim. Sürüden ayrılanları bizzat Ramel bulacak.
+$INTR_003_BLOCK_004_PATH_STR_FAILURE
+Rahiplikten vazgeçmeye zorlanan adamlar, bedensel ikna yöntemlerine karşı şaşırtıcı derecede dirençli çıktı. Hiçbiri tek kelime etmedi.
+$INTR_003_BLOCK_004_PATH_DIP_FAILURE
+Vekiller bir şey biliyor olsalar bile, kozlarını öyle kolay kolay ortaya koymazlar. Hiç şansı yok.
+$INTR_003_BLOCK_004_PATH_ESP_FAILURE
+Ramel başaramadı. Görünüşe göre Kilise, günahlarının izlerini gizlemede oldukça usta. Casusunuz, suçlama için kullanılabilecek hiçbir şey bulamadı.

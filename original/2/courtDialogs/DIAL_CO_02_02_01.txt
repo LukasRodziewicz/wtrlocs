@@ -1,0 +1,24 @@
+$DIAL_CO_02_02_01_001_JUDGE
+Qu'y a-t-il de si important pour te faire venir ici, Marat ? Cela ne pouvait-il pas attendre que nous en discutions chez moi ce soir ?
+$DIAL_CO_02_02_01_002_MARAT
+Je préfère en parler ici, en bonne compagnie, car je crains de ne pas ressortir de chez toi vivant.
+$DIAL_CO_02_02_01_003_JUDGE
+Je ne comprends pas.
+$DIAL_CO_02_02_01_004_MARAT
+Je suis en possession de témoignages anonymes décrivant tes agissements depuis que tu es devenu juge du Tribunal.
+$DIAL_CO_02_02_01_005_JUDGE
+…
+$DIAL_CO_02_02_01_006_MARAT
+Trahisons, meurtres, concussion… Suis-je en présence d'un homme ou du diable en personne ?
+$DIAL_CO_02_02_01_007_JUDGE
+C'est l'œuvre de Clément Renard. Cet homme a déjà anéanti mon père, et voici quelques jours qu'il menace de me réserver le même sort si je ne me soumets pas à lui.
+$DIAL_CO_02_02_01_008_MARAT
+Citoyen Fidèle...
+$DIAL_CO_02_02_01_009_JUDGE
+Tout ce qui y est écrit est faux ! Ces mensonges ne cherchent qu'à détruire...
+$DIAL_CO_02_02_01_010_MARAT
+Ne me prends pas pour un idiot ! On vient de retrouver Renard mort à l'arrière du café Procope. Sache que je vais m'escrimer à dévoiler tous tes méfaits. Chaque meurtre, chaque tromperie, chaque trahison.
+$DIAL_CO_02_02_01_011_JUDGE
+Je t'assure que...
+$DIAL_CO_02_02_01_012_MARAT
+Épargne-toi cette peine. Assure-toi plutôt de persuader ta famille que tu n'es pas un monstre, car je serai impitoyable.

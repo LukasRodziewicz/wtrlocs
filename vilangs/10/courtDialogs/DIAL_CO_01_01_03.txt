@@ -1,0 +1,18 @@
+$DIAL_CO_01_01_03_001_MENTOR
+Simoneau iyi ve sadık bir memurdu. O alçaklar, yasaya uyduğu için onu linç etti. Yürüyüşe benimle katılır mısın?
+$DIAL_CO_01_01_03_002_JUDGE
+Kendini yargıç ilan eden cellatlara karşı durduğumuzu ve mağdurların yanında olduğumuzu göstermeliyiz.
+$DIAL_CO_01_01_03_003_JUDGE
+Ben daha çok hayatta olanlarla ilgileniyorum, yine de Simoneau’nun ölümü gerçekten korkunçtu, buna katılıyorum.
+$DIAL_CO_01_01_03_004_MENTOR
+Kralın neden zahmet edip buraya geldiğini merak ediyorum. XVI. Louis, Paris halkıyla kol kola yürüyor. Bu… beklenmedik bir şey.
+$DIAL_CO_01_01_03_005_MENTOR
+Kral Louis...
+$DIAL_CO_01_01_03_006_KING
+Devam edin lütfen, ben sadece bir gözlemciyim. Benim için alışkanlıklarınızı değiştirmeyin.
+$DIAL_CO_01_01_03_007_KING
+Tribünal’in genç ve hırslı bir yargıcı hakkında bir iki şey duydum. Merak ettim doğrusu, onu adalet mi yönlendiriyor yoksa… hmm… eğlence mi, bazıları öyle söylüyor ya.
+$DIAL_CO_01_01_03_LETTER
+Bugün Paris halkı, Étampes Belediye Başkanı Jacques Guillaume Simoneau’yu anıyor. Simoneau, Fransa’ya olan görevini yerine getirdiği için öfkeli bir kalabalık tarafından linç edildi. Bu yürüyüş, toplumumuzun birliğini ve Devrim’in en kanlı döneminin geride kaldığına dair umudu simgeliyor. Artık hiçbir sadık Fransa hizmetkârı böylesi bir nefrete kurban gitmemeli!
+$DIAL_CO_01_01_03_LETTER_SENDER
+KRAL XVI. LOUIS

@@ -1,0 +1,28 @@
+$CUT_048_001_MENTOR
+Ese es nuestro nuevo símbolo de libertad. Todavía se percibe el aroma de la madera recién cortada.
+$CUT_048_002_JUDGE
+¿Te sientes libre al mirarla?
+$CUT_048_003_MENTOR
+Personas como nosotros no necesitan símbolos, pero Francia sí.
+$CUT_048_004_MENTOR
+¿Has oído la noticia del día?
+$CUT_048_005_MENTOR
+La gente corre de un lado a otro como gallinas sin cabeza y grita que Luis y su séquito han huido de París.
+$CUT_048_006_JUDGE
+Así que no podremos disfrutar mucho tiempo del aroma de la madera recién cortada.
+$CUT_048_007_MENTOR
+Monumentos así no se erigen únicamente para castigar a ladrones o a aristócratas de poca monta.
+$CUT_048_008_JUDGE
+¿Crees que la guillotina ansía probar sangre real?
+$CUT_048_009_MENTOR
+La huida de Luis fue una tontería, pero parece que estuvo planeada.
+$CUT_048_010_MENTOR
+Uno de nosotros tendrá que sacrificarlo... Eso, claro, si logran atraparlo.
+$CUT_048_011_JUDGE
+¿Por eso Luis vino a vernos al tribunal?
+$CUT_048_012_JUDGE
+¿Para manipularnos?
+$CUT_048_013_MENTOR
+Quizá, en lo más profundo de su corazón, sentía lo mismo que los constructores de la guillotina…
+$CUT_048_014_MENTOR
+Que alguien debe ser señalado como traidor, aunque no exista ninguno.

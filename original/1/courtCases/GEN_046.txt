@@ -1,0 +1,164 @@
+$GEN_046_DOC_01_HEADER
+Compiled by: Charles Etienne
+$GEN_046_DOC_01_00
+	The family of a 33-year-old baker, Bastien Baudet, moved into an <a name="1" class="hidden">empty house</a> near section des Piques. They told the investigator that a few days earlier their house had been hit by a <a name="2" class="hidden">mortar round</a> and the shell's impact broke the ceiling and one of the walls.
+$GEN_046_DOC_01_01
+	A few days later, Baudet and his family were discovered by the owner of the seemingly empty house, Citizen Solé. It turned out that he had not left the house permanently. Several days earlier, a fire broke out in the neighbourhood and the Solé family temporarily ran away to stay with relatives in the suburbs.
+$GEN_046_DOC_01_02
+	The legitimate owner of the house soon realised that his silver cutlery was gone, his food supplies were consumed, and some of the furniture had been chopped up and burned in the fireplace. During the interrogation of both families, we learned that the first meeting between the two sides ended with a <a name="6" class="hidden">struggle</a>, won by Baudet. Only with thanks to the intervention of the Guard was Citizen Solé able to be rid of the unwanted tenants, and the impetuous baker was detained.
+$GEN_046_OnStart_00
+Is your name Bastien Baudet?
+$GEN_046_OnStart_01
+Yes, monsieur le juge.
+$GEN_046_OnStart_02
+You moved into Citizen Solé’s apartment without permission.
+$GEN_046_OnStart_03
+There’s lots of empty apartments in Paris. We chose one of them because we didn’t have anywhere else to go.
+$GEN_046_OnStart_04
+A resourceful man will always find a way to care for his family!
+$GEN_046_OnStart_05
+Did you ask anyone for permission?
+$GEN_046_OnStart_06
+There was nobody to ask. It was empty, so we went inside. I couldn’t let my children sleep under the open sky.
+$GEN_046_OnGuilty_00
+Citizen Baudet, for burglary, theft, vandalism, and assault, I sentence you to the guillotine.
+$GEN_046_OnGuilty_01
+What will his family do without a father?
+$GEN_046_OnGuilty_02
+The court brought them all to ruin.
+$GEN_046_OnGuilty_03
+As it should be! If we ignored such behaviour, Paris would fall within a day.
+$GEN_046_OnNotGuilty_00
+Considering the circumstances, I cannot punish you. I can only hope that you will defend Paris with as much determination as you defend your family.
+$GEN_046_OnNotGuilty_01
+To let people go is one thing, but tell me, where will they stay?
+$GEN_046_01x04_00_QTitle
+What made you believe that Citizen Solé’s apartment had been abandoned?
+$GEN_046_01x04_00_00
+What made you believe that Citizen Solé’s apartment had been abandoned?
+$GEN_046_01x04_00_01
+Nobody was inside and the ash in the fireplace was cold. There’s been a bitter chill these nights, so if someone had been living there, there would’ve been a fire recently.
+$GEN_046_01x04_00_02
+Did you ask the neighbours about the owners? You should have started with that.
+$GEN_046_01x04_00_03
+No.
+$GEN_046_01x04_00_04
+Why?
+$GEN_046_01x04_00_05
+It never occurred to me that I should. I was too busy looking for food for my children.
+$GEN_046_01x04_00_06
+Is this why you sold their silver cutlery?
+$GEN_046_01x04_00_07
+Have you seen the price of butter? Nobody would give me food for wooden spoons.
+$GEN_046_01x04_00_08
+What about meat?! Do you know how much they ask for lamb?
+$GEN_046_01x04_00_09
+Bloody merchants!
+$GEN_046_03x01_01_QTitle
+Call in Citizen Solé as a witness.
+$GEN_046_03x01_01_00
+Call in Citizen Solé as a witness.
+$GEN_046_03x01_01_02
+Does the house belong to you?
+$GEN_046_03x01_01_03
+My wife inherited it from her great uncle.
+$GEN_046_03x01_01_04
+Why did you run from your home?
+$GEN_046_03x01_01_05
+One night, people started yelling about a fire. I looked from the window and the street was dark with smoke. I woke my wife and daughter and we escaped.
+$GEN_046_03x01_01_06
+Was it a large fire?
+$GEN_046_03x01_01_07
+As far as I knew, grenadiers could have come inside at any moment and started shooting and raping!
+$GEN_046_03x01_01_08
+You should have waited to see what was going on instead of running away from God knows what.
+$GEN_046_03x01_01_09
+What happened next?
+$GEN_046_03x01_01_10
+After two days, I wanted to make sure that our house wasn’t destroyed. To my surprise I saw that savage inside, chopping up my chairs and yelling at his wife!
+$GEN_046_03x01_01_11
+Did you attack him?
+$GEN_046_03x01_01_12
+I think I was yelling, but when I saw the door I became furious.
+$GEN_046_03x01_01_13
+Was it broken?
+$GEN_046_03x01_01_14
+Of course. When I demanded to know what they were doing there, that man started swinging the axe.
+$GEN_046_02x01_02_QTitle
+Is it true that your house was destroyed by artillery fire?
+$GEN_046_02x01_02_00
+Is it true that your house was destroyed by artillery fire?
+$GEN_046_02x01_02_01
+Indeed.
+$GEN_046_02x01_02_02
+Was anybody killed?
+$GEN_046_02x01_02_03
+My father-in-law was crushed by rubble and timber. Thank God that nothing happened to the children.
+$GEN_046_02x01_02_04
+A mortar round destroyed your house, and yet, you responded by destroying Citizen Solé's house?
+$GEN_046_02x01_02_05
+Are you talking about the furniture? I had to keep my children warm at night and I didn't know where they stored the firewood.
+$GEN_046_02x01_02_06
+Was there no brushwood nearby to burn?
+$GEN_046_02x01_02_07
+Was I really supposed to look for it when there was wood just lying around?
+$GEN_046_02x01_02_08
+Paris is dying and they worry about furniture.
+$GEN_046_06x04_03_QTitle
+Tell me more about the struggle between you two. Was it about the cutlery?
+$GEN_046_06x04_03_00
+Tell me more about the struggle between you two. Was it about the cutlery?
+$GEN_046_06x04_03_01
+You know, that fellow just came inside, yelling and looking around the house. I didn't know if he was really the owner or not.
+$GEN_046_06x04_03_02
+Do not pretend you were guarding another person's possessions.
+$GEN_046_06x04_03_03
+I'm just saying that he walked inside and started yelling.
+$GEN_046_06x04_03_04
+So you wanted to kick him out?
+$GEN_046_06x04_03_05
+Actually, he grabbed me by the shirt when I was chopping up the chairs, so I threatened him a little. That's all I did.
+$GEN_046_06x04_03_06
+How kind of him!
+$GEN_046_06x04_03_07
+Did you hurt him?
+$GEN_046_06x04_03_08
+As soon as he realised what was going on, he disappeared. We only heard footsteps on the stairs and a door slam.
+$GEN_046_KEY_01
+Empty house
+$GEN_046_KEY_02
+Mortar round
+$GEN_046_KEY_03
+Fire
+$GEN_046_KEY_04
+Silver cutlery
+$GEN_046_KEY_05
+Chopped up furniture
+$GEN_046_KEY_06
+Struggle
+$GEN_046_LastDialog_00
+I hope you take care of the children that are losing their father because of you, you bastard!
+$GEN_046_UNIQUE_QUESTION_00
+Why did the Baudets leave their house?
+$GEN_046_UNIQUE_ANSWER_CORRECT_00_00
+It was destroyed by a mortar round.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_00_00
+The soldiers drove them away.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_00_01
+They did not have anything to eat.
+$GEN_046_UNIQUE_QUESTION_01
+Did Baudet talk to anyone before entering the house?
+$GEN_046_UNIQUE_ANSWER_CORRECT_01_00
+He did not talk to anyone.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_01_00
+He talked to the neighbours.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_01_01
+He talked to the owner of the building.
+$GEN_046_UNIQUE_QUESTION_02
+Why was the house empty?
+$GEN_046_UNIQUE_ANSWER_CORRECT_02_00
+The host had fled from a fire.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_02_00
+The inhabitants were evicted by the Guard.
+$GEN_046_UNIQUE_ANSWER_NOT_CORRECT_02_01
+It was empty since the in-laws of Citizen Solé had died.

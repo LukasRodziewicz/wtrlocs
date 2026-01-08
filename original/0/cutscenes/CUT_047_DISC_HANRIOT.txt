@@ -1,0 +1,67 @@
+$CUT_047_DISC_HANRIOT_001_HANRIOT
+Zdajesz sobie sprawę z tego, jak to brzmi? Spisek arystokratów z Robespierre’em? Powrót do czasów monarchii?
+$CUT_047_DISC_HANRIOT_002_JUDGE
+Nie zapominaj o moim dziecku. Pomogli je zabić i oznajmili mi to prosto w twarz. Nie boją się niczego.
+$CUT_047_DISC_HANRIOT_003_HANRIOT
+Najpierw włączyłeś się do sprzeczki Héberta i Dantona z Robespierre’em. Teraz chcesz wszcząć bójkę z Renardem. Nie podoba mi się to.
+$CUT_047_DISC_HANRIOT_004_JUDGE
+Myślisz, że zachowasz stanowisko… co ja mówię… że zachowasz głowę, kiedy oni powrócą? Kiedy monarchia odżyje? Renard musi umrzeć, Robespierre także, skoro się z nimi zbratał.
+$CUT_047_DISC_HANRIOT_005_HANRIOT
+Ty tak twierdzisz, mnie nic o tym nie wiadomo, że się zbratał.
+
+$CUT_047_DISC_HANRIOT_006_JUDGE_AGGR
+Mówię ci, że się zbratał! Głuchy jesteś? Czy ciągnąłbym cię tutaj, gdybym nie był pewien? Renard mi to zasugerował prosto w twarz.
+$CUT_047_DISC_HANRIOT_007_JUDGE_MANI
+Moje informacje zawsze się sprawdzają. Renard przekazał mi informację o spisku prosto w twarz. Ze spojrzeniem drapieżnika czującego krew.
+$CUT_047_DISC_HANRIOT_008_JUDGE_JOKE
+Nie wierzysz? Mnie? To tak, jakbyś nie wierzył starszemu bratu, który cię ostrzega, żebyś nie wkładał ręki do pieca. Po co miałbym cię wprowadzać w błąd?
+$CUT_047_DISC_HANRIOT_009_JUDGE_HUMI
+Wiem, że jesteś nieźle poinformowany, ale tej informacji nie mogłeś uzyskać samodzielnie. Nie mogłeś, bo nie znajdujesz się w planach Renarda i Robespierre’a. Na nasze szczęście.
+
+$CUT_047_DISC_HANRIOT_010_JUDGE_AGGR
+Wahasz się? To wiedz, że Renard próbuje zawładnąć Paryżem od dawna! Wykorzystać chaos, który panuje w Paryżu. A w razie potrzeby wywołać jeszcze większy, na przykład mordując czyjeś dziecko!
+$CUT_047_DISC_HANRIOT_011_JUDGE_MANI
+Renard przekroczył już granicę, atakując moją rodzinę. I zrobi to ponownie. Jesteś gotów zagrać w tę ruletkę, w której stawką mogą być twoi bliscy?
+$CUT_047_DISC_HANRIOT_012_JUDGE_JOKE
+Możemy też szalonemu monarchiście pozwolić działać. Możemy przed żmijowatym despotą udawać, że jest nieprzekupny. Możemy sami odrąbać sobie głowy, żeby nie czekać, aż się oni oficjalnie ustosunkują.
+$CUT_047_DISC_HANRIOT_013_JUDGE_HUMI
+Mojego dziecka nic mi już nie wróci, ale inne mogą żyć, o ile sprzeciwimy się tyranii i korupcji. Teraz mamy szansę.
+$CUT_047_DISC_HANRIOT_014_HANRIOT_DOUB
+Jakiś zapomniany arystokrata miałby być takim potworem? Sugerujesz, że Robespierre pochwala działania tego… Renarda czy jak mu tam? Że niby co… Człowiek morduje dzieci po ulicach?
+$CUT_047_DISC_HANRIOT_015_HANRIOT_IRRI
+Jako sędzia Trybunału powinieneś wiedzieć, że zbrodnia musi być udowodniona. Masz dowody? Jeśli nie, to daruj sobie pomawianie obywateli Francji.
+$CUT_047_DISC_HANRIOT_016_HANRIOT_AGGR
+Nie bredź, Fidèle. Spiski, morderstwa… Czy ty mnie za dziecko uważasz? I co jeszcze robi ten arystokrata? Może króla nowego nosi w kieszeni?
+
+$CUT_047_DISC_HANRIOT_017_JUDGE_AGGR
+Jeśli potrzebujesz motywacji, oto ona: po ich usunięciu stworzy się spora luka na szczytach władzy. Zapełnimy ją z tobą lub bez – wolelibyśmy to pierwsze. Masz więc swoje srebrniki!
+$CUT_047_DISC_HANRIOT_018_JUDGE_MANI
+Musisz patrzeć o trzy kroki do przodu. Zniknięcie tych dwóch drani nie tylko powstrzyma spisek, ale stworzy pustkę, którą trzeba będzie wypełnić. My to zrobimy. Ja i ty.
+$CUT_047_DISC_HANRIOT_019_JUDGE_JOKE
+Jeśli się martwisz, że nic nie zyskasz na współpracy z nami, to uspokajam cię od razu. Gdy ci miglance znikną z piedestału, pstryknięciem palców załatwimy ci stanowisko, na którym zostaniesz, jak długo zechcesz. Zmiana władzy, mój drogi.
+$CUT_047_DISC_HANRIOT_020_JUDGE_HUMI
+Nie mogę dłużej pozwalać na to, co wyczyniają Renard i Robespierre. Wiem, że w głębi serca ty też gotujesz się na ich działania. Nie możemy pozwolić, żeby ci dwaj przejęli pełnię władzy, choćby dlatego, że należy się ona nam, obrońcom Paryża.
+
+$CUT_047_DISC_HANRIOT_021_JUDGE_AGGR
+Widzisz te dłonie, Hanriot? Te dłonie trzymają w garści twoje stanowisko. Twój upór i niezdecydowanie zaczynają boleśnie wżynać mi się w palce. Rozumiesz, co do ciebie mówię?
+$CUT_047_DISC_HANRIOT_022_JUDGE_MANI
+Nie muszę ci chyba przypominać, że twoja podróż na samo dno może być równie szybka co ta na szczyt władzy. Wystarczy jedno moje polecenie. Jeden rozkaz. A nawet jeśli nie mój, to zawiedzionego Dantona czy Héberta.
+$CUT_047_DISC_HANRIOT_023_JUDGE_JOKE
+Ostatnio odwiedza mnie sporo młodych i ambitnych ludzi, czasem oficerów. Proszą o poparcie. Każdy z nich gotów jest wydrapać drugiemu oczy dla stanowiska, władzy. A stołek komendanta Gwardii to, fiu, fiu, nie lada kąsek.
+$CUT_047_DISC_HANRIOT_024_JUDGE_HUMI
+Danton i Hébert są zdania, że niepotrzebnie silę się na przekonywanie cię do pomocy. Powinienem od razu zagrozić ci dymisją, a może nawet gilotyną. Według ich słów kontrrewolucyjne zarzuty zawsze uda się czymś podeprzeć.
+$CUT_047_DISC_HANRIOT_025_HANRIOT_DOUB
+Jeśli ci pomogę, to tylko ze względu na twoją żonę, a nie argumenty. Prowadzisz niebezpieczną grę, w której jeden zły krok może prowadzić do śmierci.
+$CUT_047_DISC_HANRIOT_026_HANRIOT_IRRI
+Masz rację, zrobiłem karierę dzięki tobie. Ale jesteś durniem, sądząc, że masz mnie dzięki temu w kieszeni. Nie masz władzy, którą byś mógł mi zagrozić. Ani ty, ani Hébert, ani tym bardziej Danton. Żegnam. Uznaj to za moje „nie”.
+$CUT_047_DISC_HANRIOT_027_HANRIOT_AGGR
+Chcesz mojej śmierci? Nie, nie jestem durniem! Szukaj sobie innych szaleńców, którzy cię osłonią własną piersią. Obiecywałem lojalność, ale nie to, że pozwolę się dla ciebie zabić!
+
+$CUT_047_DISC_HANRIOT_TOPIC_01
+Informacja jest pewna.
+$CUT_047_DISC_HANRIOT_TOPIC_02
+Renard musi odpowiedzieć za zbrodnie.
+$CUT_047_DISC_HANRIOT_TOPIC_03
+Śmierć Renarda i Robespierre’a doprowadzi do zmiany władzy.
+$CUT_047_DISC_HANRIOT_TOPIC_04
+Dymisja Hanriota jest w naszych rękach.

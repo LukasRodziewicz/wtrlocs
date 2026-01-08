@@ -1,0 +1,30 @@
+$DIAL_H_01_01_06_001_GRANDFATHER
+Tivemos um bom lucro. Havia uma chance de prosperar...
+$DIAL_H_01_01_06_002_ELDERSON
+Por que a família Renard queria tomar conta da sua loja, vovô?
+$DIAL_H_01_01_06_003_GRANDFATHER
+Por lucro e poder. Sempre foi assim, e nestes tempos não é diferente.
+$DIAL_H_01_01_06_004_ELDERSON
+Hoje é sobre igualdade, para que não apenas os aristocratas possam viver com dignidade.
+$DIAL_H_01_01_06_005_GRANDFATHER
+Cresça, garoto. Só enxerguei a verdade quando tentaram condenar meu filho, seu tio, à morte. De repente, percebi que só importavam o poder que nunca tive e as conexões pelas quais nunca me importei.
+$DIAL_H_01_01_06_006_JUDGE
+Você quis ser justo enquanto a injustiça se espalhava como uma praga. Não há motivo para se arrepender disso.
+$DIAL_H_01_01_06_007_GRANDFATHER
+Não me arrependo. Mas preferia que seu irmão estivesse vivo, para que eu ainda tivesse dois filhos.
+$DIAL_H_01_01_06_008_YOUNGERSON
+Você tem um irmão, papai? Onde ele está?
+$DIAL_H_01_01_06_009_JUDGE
+Ele morreu há muito tempo, antes de você nascer.
+$DIAL_H_01_01_06_010_YOUNGERSON
+Por que ele morreu?
+$DIAL_H_01_01_06_011_JUDGE
+Não fale tanto enquanto come.
+$DIAL_H_01_01_06_012_GRANDFATHER
+Seu tio foi para a guerra e morreu em combate. Sua geração logo perceberá a dimensão dos estragos que causamos ao mundo. Antes, pessoas decentes como Pochard jamais precisavam se preocupar com tribunais ou julgamentos, mas agora...
+$DIAL_H_01_01_06_013_JUDGE
+Você ao menos cogita a possibilidade de que Pochard fosse culpado?
+$DIAL_H_01_01_06_014_YOUNGERSON
+Não! Qualquer um, menos o senhor Pochard!
+$DIAL_H_01_01_06_015_GRANDFATHER
+Ele não era mais culpado do que qualquer um de nós... Filho, fique de olho nos Renard.

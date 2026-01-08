@@ -1,0 +1,256 @@
+$GEN_056_DOC_01_HEADER
+Zusammengestellt von: Charles Etienne
+$GEN_056_DOC_01_00
+	Wie uns von den Bewohnern des Quartier Latin berichtet wurde, hat ein gewisser <a name="1" class="hidden">Missgestalteter</a> und <a name="2" class="hidden">Einsiedler</a> einen örtlichen Brunnen vergiftet, der von mehreren benachbarten Mietshäusern genutzt wird. Laut der Denunziation sind infolge dieses Verbrechens mehrere Bürger erkrankt.
+$GEN_056_DOC_01_01
+	Der Angeklagte ist Gabriel Rouzet, und der Soldat, der zu seiner Verhaftung entsandt wurde, bestätigte die Meinung der Nachbarn über seine Exzentrik. Der Mann lebt mit <a name="3" class="hidden">zwei Bediensteten</a> im vierten Stock eines Hauses in der Rue Serpente. Zum Zeitpunkt der Festnahme lag seine Wohnung in <a name="4" class="hidden">vollkommener Dunkelheit</a>, und das äußere Erscheinungsbild sowie das Verhalten des Gastgebers wurden als abstoßend beschrieben. Sie werden dies im Gerichtssaal selbst beobachten können.
+$GEN_056_DOC_01_02
+	Die Akte enthält die Anzeige, aus der Sie mehr über Rouzets Verbrechen erfahren werden.
+$GEN_056_DOC_02_00
+Anonymer Hinweis
+$GEN_056_DOC_02_01
+	Behörden von Paris, in den letzten Tagen fing das Wasser <a name="5" class="hidden">in unserem Brunnen</a> an zu stinken. Es ist so schlimm, dass manche Leute sogar Träger bezahlen, um Wasser vom öffentlichen Brunnen bei der Universität zu holen. Diejenigen, die das Brunnenwasser tranken, <a name="7" class="hidden">wurden krank</a> – manche mehr, manche weniger. Ein Bekannter von mir, Lambert Cazale, hat die ganze Nacht in einen Eimer erbrochen. Das musste natürlich auch noch sauber gemacht werden.
+$GEN_056_DOC_02_02
+	Es besteht kein Zweifel daran, wer hinter der Vergiftung des Brunnens steckt. Gegenüber wohnt Rouzet, ein abscheuliches Schwein und ein Missgeburt. Er verlässt das Haus nur abends, und auch wenn er sein Gesicht verbirgt, wissen wir genau, was für ein Ungeheuer er ist. Sicher hasst er die Menschen und hat wahrscheinlich eine <a name="8" class="hidden">Leiche</a> hineingeworfen, damit wir nichts mehr zu trinken haben und wie die Fliegen krepieren. Und dieses Scheusal holt sich jetzt selbst Wasser vom öffentlichen Brunnen!
+$GEN_056_OnStart_00
+Ich kann es nicht mit Sicherheit sagen, aber in den Brunnen könnte alles Mögliche gefallen sein – sogar eine unachtsame Katze.
+$GEN_056_OnStart_01
+Heißt Ihr Name Rouzet?
+$GEN_056_OnStart_02
+Ja, Gabriel Rouzet.
+$GEN_056_OnStart_03
+Ihnen wird vorgeworfen, den Brunnen vergiftet zu haben. Möchten Sie zu Ihrer Verteidigung etwas sagen?
+$GEN_056_OnStart_04
+Seit meiner Kindheit habe ich Hautprobleme, wenn ich dem Licht ausgesetzt bin.
+$GEN_056_OnStart_05
+Hat diese Krankheit etwas mit Ihrem… Aussehen zu tun?
+$GEN_056_OnStart_06
+Wahrscheinlich. Ich bin nicht so geboren worden.
+$GEN_056_OnStart_07
+Haben Sie den Brunnen nun vergiftet oder nicht?
+$GEN_056_OnStart_08
+Natürlich habe ich das nicht getan. Was für ein absurder Vorwurf.
+$GEN_056_OnGuilty_00
+Ich verurteile Bürger Rouzet zur Guillotine. Er wird keine weiteren Bürger mehr terrorisieren.
+$GEN_056_OnGuilty_01
+Endlich ist Gerechtigkeit geschehen!
+$GEN_056_OnGuilty_02
+Endlich sind wir ihn los!
+$GEN_056_OnPrison_00
+Bürger Rouzet, ich verurteile Sie zu 10 Jahren Gefängnis.
+$GEN_056_OnPrison_01
+Gut, dort wissen sie schon, was mit ihm zu tun ist!
+$GEN_056_OnNotGuilty_00
+Bürger Rouzet ist nicht schuldig des Brunnenvergiftens, lasst ihn frei.
+$GEN_056_OnNotGuilty_01
+Der Brunnen hat sich nicht von selbst vergiftet!
+$GEN_056_OnNotGuilty_02
+Der Richter schützt ein Höllenmonster.
+$GEN_056_01x04_00_QTitle
+Die Nachbarn nennen dich einen Freak und ein Monster.
+$GEN_056_01x04_00_00
+Die Nachbarn nennen dich einen Freak und ein Monster.
+$GEN_056_01x04_00_01
+Überrascht Sie das?
+$GEN_056_01x04_00_02
+Haben Sie jemals jemandem Schaden zugefügt?
+$GEN_056_01x04_00_03
+Ich leide schon genug, da muss ich anderen kein Leid zufügen.
+$GEN_056_01x04_00_04
+Die Menschen beunruhigen Ihre ständig verhängten Fenster.
+$GEN_056_01x04_00_05
+Sonnenlicht bereitet mir Schmerzen. Ich habe nicht vor, mir selbst weh zu tun, nur um normal zu wirken.
+$GEN_056_06x03_01_QTitle
+Können Sie sich Wasserträger und Bedienstete leisten?
+$GEN_056_06x03_01_00
+Können Sie sich Wasserträger und Bedienstete leisten?
+$GEN_056_06x03_01_01
+Glücklicherweise kann ich das.
+$GEN_056_06x03_01_02
+Seine Lordschaft Monster trägt Kattun!
+$GEN_056_06x03_01_03
+Ruhe im Gerichtssaal. Was ist Ihr Beruf?
+$GEN_056_06x03_01_04
+In meinem Zustand? Monsieur le juge, manchmal kann ich drei Tage am Stück das Nachttopf nicht verlassen, und die nächsten zwei verbringe ich dann im Bett.
+$GEN_056_06x03_01_05
+Sie arbeiten also nicht?
+$GEN_056_06x03_01_06
+Nein.
+$GEN_056_06x03_01_07
+Wie bestreiten Sie dann Ihren Lebensunterhalt?
+$GEN_056_06x03_01_08
+Ich habe etwas Geld von meinem Vater geerbt. Er war Fabrikant, und nach seinem Tod habe ich die Fabrik verkauft.
+$GEN_056_06x03_01_09
+Der Vater ein Ausbeuter, und der Sohn ein Missgeburt!
+$GEN_056_06x03_01_10
+Was machen Sie den ganzen Tag?
+$GEN_056_06x03_01_11
+Ich lese meistens Literatur.
+$GEN_056_02x07_02_QTitle
+In den Akten steht, dass Sie Gesellschaft meiden.
+$GEN_056_02x07_02_00
+In den Akten steht, dass Sie Gesellschaft meiden.
+$GEN_056_02x07_02_01
+Das sollte doch wohl offensichtlich sein.
+$GEN_056_02x07_02_02
+Bitte antworten Sie und unterlassen Sie Kommentare. Mögen Sie keine Menschen?
+$GEN_056_02x07_02_03
+Ich habe den Brunnen nicht vergiftet.
+$GEN_056_02x07_02_04
+Ihre Nachbarn behaupten das Gegenteil.
+$GEN_056_02x07_02_05
+Wenn jemand behauptet, er habe mich gesehen, lügt er wie gedruckt.
+$GEN_056_02x07_02_06
+Für solche Verachtung gegenüber den Menschen sollte man ihm den hässlichen Kopf abschlagen.
+$GEN_056_02x07_02_07
+Verachtung? Ich bin derjenige, der sich für Verachtung rächen sollte. Dafür, dass Frauen ihren Kindern das Gesicht zuhalten, wenn ich vorbeigehe, für meine einsame Kindheit, für–
+$GEN_056_02x07_02_08
+Wir sprechen jetzt nicht über Ihr Leben, sondern über den vergifteten Brunnen.
+$GEN_056_02x07_02_09
+Natürlich. Niemand spricht je über mich. Als könnte man sich schon anstecken, wenn man nur meinen Namen ausspricht. Ihr widert mich alle an.
+$GEN_056_02x07_02_10
+So sind wir bei dir, Ungeheuer!
+$GEN_056_01x07_03_QTitle
+Rufen Sie Lambert Cazale herein.
+$GEN_056_01x07_03_00
+Rufen Sie Lambert Cazale herein.
+$GEN_056_01x07_03_02
+Ihr Name?
+$GEN_056_01x07_03_03
+Lambert Cazale, Monsieur der Richter.
+$GEN_056_01x07_03_04
+Sie haben Bürger Rouzet beschuldigt, den Brunnen vergiftet zu haben.
+$GEN_056_01x07_03_05
+Ja, das habe ich, und ich schäme mich nicht dafür!
+$GEN_056_01x07_03_06
+Er hat sich gut geschlagen!
+$GEN_056_01x07_03_07
+Sind Sie schon lange Nachbarn?
+$GEN_056_01x07_03_08
+Solange ich zurückdenken kann.
+$GEN_056_01x07_03_09
+Und er hat Sie bisher nicht gestört?
+$GEN_056_01x07_03_10
+Das hat er durchaus, aber unter dem Ancien Régime hat niemand auf unsere Beschwerden geachtet.
+$GEN_056_08x05_04_QTitle
+Geben Sie zu, den Brunnen vergiftet zu haben, indem Sie eine Leiche hineingeworfen haben?
+$GEN_056_08x05_04_00
+Geben Sie zu, den Brunnen vergiftet zu haben, indem Sie eine Leiche hineingeworfen haben?
+$GEN_056_08x05_04_01
+Nein, das ist Unsinn.
+$GEN_056_08x05_04_02
+Haben Sie Beweise, die Ihre Unschuld belegen?
+$GEN_056_08x05_04_03
+Hat sich überhaupt jemand die Mühe gemacht, diese angebliche Leiche aus dem Wasser zu ziehen?
+$GEN_056_08x05_04_04
+Da unten im Brunnen ist es stockfinster, man sieht keinen einzigen Lichtschein.
+$GEN_056_08x05_04_05
+Hier stelle ich die Fragen.
+$GEN_056_08x05_04_06
+Nein, ich habe keine Beweise für meine Unschuld.
+$GEN_056_03x05_05_QTitle
+Holen Ihre Diener das Wasser aus dem Brunnen für Sie?
+$GEN_056_03x05_05_00
+Tragen Ihre Diener das Wasser aus dem Brunnen für Sie herbei?
+$GEN_056_03x05_05_01
+In der Regel schon.
+$GEN_056_03x05_05_02
+Warum nur meistens?
+$GEN_056_03x05_05_03
+Der Brunnen roch nach Regen meist übel – also gab ich ihnen Geld, damit sie Wasser vom Brunnen holten.
+$GEN_056_03x05_05_04
+Haben sie das auch getrunken?
+$GEN_056_03x05_05_05
+Natürlich. Sie sind gute Frauen, sie essen und trinken immer das Gleiche wie ich.
+$GEN_056_03x05_05_06
+Die Huren des Ungeheuers. Ich frage mich, was sie sonst noch zusammen getrieben haben.
+$GEN_056_02x04_06_QTitle
+Meiden Sie Ihre Nachbarn?
+$GEN_056_02x04_06_00
+Meiden Sie Ihre Nachbarn?
+$GEN_056_02x04_06_01
+Ja, ebenso wie ich ihnen.
+$GEN_056_02x04_06_02
+Hat jemals jemand versucht, Sie aus Ihrer Nachbarschaft zu vertreiben?
+$GEN_056_02x04_06_03
+Gewiss. Ich habe längst aufgehört, mitzuzählen.
+$GEN_056_02x04_06_04
+Können Sie das näher ausführen? Was genau haben sie getan?
+$GEN_056_02x04_06_05
+Ich könnte noch lange so weitermachen. Sie warfen Steine durch meine Fenster, bedrohten meine Bediensteten, und ein Sadist erschlug meinen Hund mit einem Stock, als ich fünfzehn war. Soll ich fortfahren? Einmal, als ich abends spazieren gehen wollte, musste ich fliehen vor–
+$GEN_056_02x04_06_06
+Ich verstehe, Sie können an dieser Stelle aufhören.
+$GEN_056_02x04_06_07
+Er erfindet das doch alles!
+$GEN_056_02x04_06_08
+Ach, wenn es doch so wäre.
+$GEN_056_WIT_00_A_QTitle
+Haben Sie gesehen, wie Rouzet den Brunnen vergiftet hat?
+$GEN_056_WIT_00_A_00
+Haben Sie gesehen, wie Rouzet den Brunnen vergiftet hat?
+$GEN_056_WIT_00_A_01
+Nein, aber es konnte niemand sonst gewesen sein.
+$GEN_056_WIT_00_A_02
+Warum das?
+$GEN_056_WIT_00_A_03
+Alle um uns herum sind normal, aber dieser hier… schaut ihn euch nur an. Er ist doch kein Mensch!
+$GEN_056_WIT_00_A_04
+Kein Mensch?
+$GEN_056_WIT_00_A_05
+Er ist ein Wiedergänger – er ist aus dem Grab gekrochen, um die Menschen zu erschrecken!
+$GEN_056_WIT_00_B_QTitle
+Hat dich das abgestandene Wasser krank gemacht?
+$GEN_056_WIT_00_B_00
+Hat dich das faulige Wasser krank gemacht?
+$GEN_056_WIT_00_B_01
+So ist es.
+$GEN_056_WIT_00_B_02
+Konnten Sie den Geruch wahrnehmen?
+$GEN_056_WIT_00_B_03
+Einige Straßen weiter.
+$GEN_056_WIT_00_B_04
+Warum haben Sie es dann getrunken?
+$GEN_056_WIT_00_B_05
+Dieses Wasser stinkt immer, deshalb habe ich gar nicht gemerkt, dass es diesmal auch nach Gift riecht.
+$GEN_056_KEY_01
+Missgestalt
+$GEN_056_KEY_02
+Einsiedler
+$GEN_056_KEY_03
+Zwei Diener
+$GEN_056_KEY_04
+Dunkle Wohnung
+$GEN_056_KEY_05
+Brunnen
+$GEN_056_KEY_06
+Wasserträger
+$GEN_056_KEY_07
+Vergiftung
+$GEN_056_KEY_08
+Leiche im Brunnen
+$GEN_056_LastDialog_00
+Mein ganzes Leben war eine Qual, und mein Tod wird ihr in nichts nachstehen.
+$GEN_056_UNIQUE_QUESTION_00
+Wovon lebt der Angeklagte?
+$GEN_056_UNIQUE_ANSWER_CORRECT_00_00
+Er hat die Fabrik seines Vaters verkauft.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Seine entfernte Verwandtschaft sorgt für seinen Unterhalt.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Er ist Handwerker.
+$GEN_056_UNIQUE_QUESTION_01
+Warum tranken die Menschen fauliges Wasser aus dem Brunnen?
+$GEN_056_UNIQUE_ANSWER_CORRECT_01_00
+So hat es hier schon immer gerochen.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Sauberes Wasser war teurer.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Der Brunnen war zu weit entfernt.
+$GEN_056_UNIQUE_QUESTION_02
+Laut der Denunziation, warum hat Rouzet das Wasser vergiftet?
+$GEN_056_UNIQUE_ANSWER_CORRECT_02_00
+Er hasst Menschen.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Es war ein Akt der Rache.
+$GEN_056_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Er ist der Teufel.

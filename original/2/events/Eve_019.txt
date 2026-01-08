@@ -1,0 +1,12 @@
+$EVE_019_TITLE
+C'est à vous ?
+$EVE_019_MAIN_01
+La guillotine n'a toujours pas perdu de son attrait depuis le début de la Révolution. Un groupe de Parisiens entourent quelque chose en pleine rue. Votre poste prestigieux vous permet de vous frayer un chemin au milieu de la foule. Vous y trouvez… la tête d'un homme. Cependant, ce qui a attiré l'attention de tout ce monde est l'expression sur son visage : un grand sourire. C'est si inattendu que les gens sont subjugués par ce phénomène inattendu et observent sans rien dire. Vous vous demandez si quelqu'un sait où est passé le reste du corps. Une tête coupée solitaire devrait vraiment attiser davantage la curiosité, ne serait-ce que d'un point de vue scientifique. Et maintenant vous vous retrouvez à observer la tête, aussi fasciné que les autres.
+$EVE_019_MAIN_01_C1
+Ordonner à la Garde de se débarrasser de la tête
+$EVE_019_MAIN_01_C2
+Partir en vous grattant la tête
+$EVE_019_MAIN_02A
+La tête souriante a été retirée. Les gens se sont dispersés. Bienvenue à Paris.
+$EVE_019_MAIN_02B
+J'ignore pendant combien de temps les gens sont restés à observer la tête, ou combien de temps celle-ci a souri.

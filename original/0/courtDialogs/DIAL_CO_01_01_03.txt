@@ -1,0 +1,19 @@
+$DIAL_CO_01_01_03_001_MENTOR
+Simoneau to był dobry urzędnik, lojalny. Dranie zlinczowali go za to, że chciał przestrzegać prawa. Wybierasz się ze mną na pochód?
+$DIAL_CO_01_01_03_002_JUDGE
+Musimy pokazać, że stoimy po stronie ofiar, a nie samozwańczych katów.
+$DIAL_CO_01_01_03_003_JUDGE
+Bardziej mnie interesują żywi. Choć zgadzam się, że Simoneau spotkał wstrętny koniec.
+$DIAL_CO_01_01_03_004_MENTOR
+Jestem ciekaw, dlaczego król pofatygował się osobiście… Ludwik XVI w pochodzie z ludem Paryża – to coś… nieoczekiwanego.
+$DIAL_CO_01_01_03_005_MENTOR
+Król Ludwik…
+$DIAL_CO_01_01_03_006_KING
+Kontynuujcie, proszę. Będę tylko obserwatorem. Nie zmieniajcie dla mnie przyzwyczajeń.
+$DIAL_CO_01_01_03_007_KING
+Słyszałem co nieco o młodym i ambitnym sędzim Trybunału – chciałem się przekonać, czy faktycznie jest sprawiedliwy czy jednak bardziej… hmm… rozrywkowy, jak głoszą plotki.
+
+$DIAL_CO_01_01_03_LETTER
+Lud Paryża wspomina dzisiaj Jacques’a Guillaume’a Simoneau, burmistrza Étampes zakatowanego przez wściekły tłum podczas wykonywania swoich obowiązków wobec Francji. Niech organizowany przez nas marsz pamięci będzie symbolem jedności obywateli i nadziei na to, że najkrwawszy okres przemian mamy już za sobą. Nigdy więcej nie dopuśćmy do takiego przejawu nienawiści wobec wiernych sług Francji!
+$DIAL_CO_01_01_03_LETTER_SENDER
+KRÓL LUDWIK XVI

@@ -1,0 +1,4 @@
+# All text files in this repository must preserve LF line endings
+* text eol=lf
+# ugh
+*.txt text eol=lf

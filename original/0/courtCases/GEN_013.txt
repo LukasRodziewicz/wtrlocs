@@ -1,0 +1,255 @@
+$GEN_013_DOC_01_HEADER
+Sporządził: Maurice Gaspar
+$GEN_013_DOC_01_00
+    <a name="1" class="hidden">Ferme générale</a>, znienawidzona przez Francuzów instytucja, została zlikwidowana już jakiś czas temu. Płaciła ona podatki królowi, by później odebrać sobie należność, często brutalnie i z nawiązką, od podległego monarsze ludu. Teraz Konwent Narodowy podjął sprawiedliwą decyzję o postawieniu przed sądem wszystkich byłych dzierżawców generalnych z tej organizacji pobierających podatki od rolników w imieniu króla. Zebraliśmy dowody obciążające jednego z nich – Antoine’a Lavoisiera.
+$GEN_013_DOC_01_01
+    Pierwsze, co przemawia za jego winą, to już sama kwestia nepotyzmu, dzięki któremu zdobył on swoją posadę. Wiemy też, że oprócz ściągania podatków od głodujących chłopów oskarżony zajmował się także <a name="3" class="hidden">wieloma innymi interesami</a>. Nie zawsze był przy tym uczciwy. Kilku świadków twierdzi, że w składach oskarżonego do sprzedaży regularnie trafiał zawilgocony tytoń w bandyckich cenach. W przejrzanych papierach Lavoisiera nie ma dowodów na to <a name="4" class="hidden">oszustwo</a>, jednak o sprawie mówi się głośno na ulicach Paryża.
+$GEN_013_DOC_01_02
+    Pieniędzmi z podatków finansował on swoje prywatne laboratorium chemiczne, w którym przeprowadzał eksperymenty. Podczas śledztwa wielu paryskich chemików nazwało nawet byłego poborcę podatków <a name="5" class="hidden">wybitnym uczonym</a>.  
+$GEN_013_DOC_01_03
+    To samo w sobie nie jest zdradą. Oskarżony prowadził jednak ożywioną korespondencję z <a name="6" class="hidden">naukowcami z zagranicy</a>. Ustaliliśmy, że wspierał ich pieniędzmi francuskich rolników i być może wysyłał im także rezultaty swoich <a name="7" class="hidden">naukowych badań</a>. Dlaczego nie zachował ich dla ludu Francji?
+$GEN_013_DOC_02_00
+<a name="8" class="hidden">Raport</a> w sprawie tytoniu o treści:
+$GEN_013_DOC_02_01
+	Uprzejmie proszę o przetrzymywanie tytoniu w suchym miejscu. Wilgotny tytoń odstrasza potencjalnych klientów, pogarsza jego jakość i zaniża cenę towaru.
+
+ 
+															Z poważaniem
+															Antoine Lavoisier
+$GEN_013_OnStart_00
+Tak jest, w końcu ukarzą te pijawki podatkowe!
+$GEN_013_OnStart_01
+Tych ludzi po prostu trzeba ściąć. Zbyt wyraźnie symbolizują wszystko to, przeciwko czemu zbuntowali się zwykli Francuzi.
+$GEN_013_OnStart_02
+Proszę się przedstawić.
+$GEN_013_OnStart_03
+Nazywam się Antoine Lavoisier.
+$GEN_013_OnStart_04
+Czym się pan zajmuje, panie Lavoisier?
+$GEN_013_OnStart_05
+Byłem poborcą podatkowym w Ferme générale. Jestem też naukowcem, dodam nieskromnie, że autorem wielu poważnych odkryć.
+$GEN_013_OnStart_06
+Prosimy nie przechwalać się przed sądem.
+$GEN_013_OnStart_07
+Właśnie, niech powie, jak żarł pasztety za nasze pieniądze.
+$GEN_013_OnGuilty_00
+Skazuję obywatela Antoine’a Lavoisiera na karę śmierci poprzez ścięcie na gilotynie. Wyprowadzić skazanego.
+$GEN_013_OnGuilty_01
+Wszyscy wrogowie Francji tak skończą.
+$GEN_013_OnGuilty_02
+Tak jest!
+$GEN_013_OnGuilty_03
+Trzeba pozbyć się tych wszystkich pijawek!
+$GEN_013_OnGuilty_04
+Uzdrowić Francję!
+$GEN_013_OnPrison_00
+Antoine Lavoisier za popełnione czyny trafi do więzienia. Wyprowadzić skazanego.
+$GEN_013_OnPrison_01
+To zbyt łagodny wyrok dla wroga republiki tej rangi.
+$GEN_013_OnPrison_02
+Jak to?! Tylko więzienie dla zdrajcy!?
+$GEN_013_OnPrison_03
+To niemożliwe!
+$GEN_013_OnPrison_04
+To zbyt łagodna kara!
+$GEN_013_OnNotGuilty_00
+Niniejszym uniewinniam oskarżonego. Proszę wyprowadzić pana Lavoisiera.
+$GEN_013_OnNotGuilty_01
+Sędzia oszalał!
+$GEN_013_OnNotGuilty_02
+Sprawiedliwość cię i tak dopadnie!
+$GEN_013_OnNotGuilty_03
+Splunąłeś w twarz tysiącom francuskich rolników.
+$GEN_013_01x03_00_QTitle
+Czy praca poborcy w Ferme générale oraz zajmowanie się nauką...
+$GEN_013_01x03_00_00
+Czy praca poborcy w „Farme Generale” oraz praca naukowa to jedyne pańskie zajęcia?
+$GEN_013_01x03_00_01
+Nie, zasiadam jeszcze w Zarządzie Prochu i Saletry. Ponadto kilka lat temu, tuż przed rewolucją, zostałem przewodniczącym Rady Banku Dyskontowego.
+$GEN_013_01x03_00_02
+To dużo jak na jednego człowieka. Nie uważa pan?
+$GEN_013_01x03_00_03
+Chciwy oszust!
+$GEN_013_01x03_00_04
+Ludzie, którzy powierzyli mi te stanowiska, nie mieli żadnych obiekcji co do mojej pracy.
+$GEN_013_01x03_00_05
+Tak się składa, że większość z tych ludzi trafiła już do celi lub na gilotynę.
+$GEN_013_01x03_00_06
+Nareszcie ktoś się zajął tymi złodziejami!
+$GEN_013_01x02_01_QTitle
+W jaki sposób trafił pan do Ferme générale? Na ten temat krąży wiele plotek.
+$GEN_013_01x02_01_00
+W jaki sposób trafił pan do „Ferme générale”? Na ten temat krąży wiele plotek.
+$GEN_013_01x02_01_01
+Odziedziczyłem miejsce po swoim teściu.
+$GEN_013_01x02_01_02
+Obrzydliwy nepotyzm!
+$GEN_013_01x02_01_03
+Dlaczego zdecydował się pan na przejęcie tego stanowiska?
+$GEN_013_01x02_01_04
+To było zajęcie dla króla Francji i całego państwa. Czułem się zaszczycony, poza tym lubiłem tę pracę. 
+$GEN_013_01x02_01_05
+Pieniądze lubisz!
+$GEN_013_01x02_01_06
+A czy to nie było tak, że ożenił się pan tylko z tego powodu, by objąć posadę po teściu?
+$GEN_013_01x02_01_07
+Toż to oburzająca insynuacja!
+$GEN_013_01x02_01_08
+Fakty są takie, że ożenek zapewnił panu dochody znacznie powyżej normy.
+$GEN_013_01x02_01_09
+Małżeństwo z zamożnymi kobietami nie jest karalne.
+$GEN_013_01x02_01_10
+Ile lat miała wtedy pańska małżonka?
+$GEN_013_01x02_01_11
+Trzynaście, ale nie mam pojęcia, jaki związek ma wiek mojej żony ze sprawą.
+$GEN_013_04x08_02_QTitle
+Zarzuca się panu wiele oszustw, między innymi handel wilgotnym tytoniem.
+$GEN_013_04x08_02_00
+Zarzuca się panu wiele oszustw, między innymi handel wilgotnym tytoniem.
+$GEN_013_04x08_02_01
+Bzdura! Osobiście upominałem dostawców, żeby dbali o niską wilgotność towaru. Poszukajcie w moich papierach, znajdziecie raporty.
+$GEN_013_04x08_02_02
+Te raporty mogliście umieścić w papierach specjalnie po to, żeby nas oszukać.
+$GEN_013_04x08_02_03
+Tacy mają kłamstwo we krwi!
+$GEN_013_04x08_02_04
+Cała moja dokumentacja była prowadzona wzorowo i zgodnie z sumieniem. 
+$GEN_013_04x08_02_05
+Sumienie poborcy podatkowego… Rozumiem, że nie przeszkadzało ono obywatelowi zabierać zboża głodującym rolnikom?
+$GEN_013_04x08_02_06
+Zawsze działałem w zgodzie z francuskim prawem podatkowym.
+$GEN_013_04x08_02_07
+Prawo było zbrodnicze!
+$GEN_013_06x04_03_QTitle
+Porozmawiajmy o pańskich kradzieżach majątku skarbu państwa.
+$GEN_013_06x04_03_00
+Porozmawiajmy o pańskich kradzieżach majątku skarbu państwa.
+$GEN_013_06x04_03_01
+Kradzieżach? Skąd te oskarżenia?
+$GEN_013_06x04_03_02
+Okradał pan Francję i wspierał tymi pieniędzmi jakichś zagranicznych naukowców, nie wiemy jakich i w jakim celu…
+$GEN_013_06x04_03_03
+Możemy jednak podejrzewać, że w celach wojennych.
+$GEN_013_06x04_03_04
+Finansowałem zagraniczne badania, ale z moich własnych pieniędzy i nie miało to nic wspólnego z wojną!
+$GEN_013_06x04_03_05
+Jest to działanie na szkodę państwa, a więc kwalifikuje się jako zdrada stanu. Wie pan, jaka kara czeka zdrajców stanu?
+$GEN_013_06x04_03_06
+Mogę powiedzieć tylko jedno: ścięcie mojej głowy potrwa sekundę, a znalezienie kolejnej takiej może potrwać nawet setki lat.
+$GEN_013_06x04_03_07
+Republika nie potrzebuje uczonych!
+$GEN_013_05x07_04_QTitle
+Oskarżony z pieniędzy podatników utrzymywał laboratorium?
+$GEN_013_05x07_04_00
+Oskarżony z pieniędzy podatników utrzymywał laboratorium?
+$GEN_013_05x07_04_01
+Tak, Wysoki Sądzie.
+$GEN_013_05x07_04_02
+I co oskarżony odkrył, tak w zasadzie? Coś przydatnego?
+$GEN_013_05x07_04_03
+Wyjaśniłem, między innymi, mechanizm spalania, obaliłem teorię flogistonu, skonstruowałem kalorymetr lodowy…
+$GEN_013_05x07_04_04
+Ktoś go rozumie?
+$GEN_013_05x07_04_05
+W jaki sposób te wynalazki pomagają zwykłym obywatelom?
+$GEN_013_05x07_04_06
+Nauka nie pomaga ludziom natychmiast, ale kiedyś dzięki tym odkryciom…
+$GEN_013_05x07_04_07
+Słyszeliście? Nauka nie pomaga ludziom!
+$GEN_013_05x07_04_08
+Jakie były koszty tych badań?
+$GEN_013_05x07_04_09
+Nie wiem, nie spisywałem ich. Moja praca trwa od lat.
+$GEN_013_05x07_04_10
+Nie liczył, bo to my płaciliśmy.
+$GEN_013_05x03_05_QTitle
+Dlaczego nie skupił się pan wyłącznie na nauce?
+$GEN_013_05x03_05_00
+Dlaczego nie skupił się pan wyłącznie na nauce?
+$GEN_013_05x03_05_01
+Miałem dość czasu, by poświęcić się różnym zajęciom.
+$GEN_013_05x03_05_02
+Być może uzyskałby pan lepsze rezultaty, skupiając się na jednej dziedzinie?
+$GEN_013_05x03_05_03
+Dziękuję za troskę, ale mój rozkład dnia to moja sprawa.
+$GEN_013_05x03_05_04
+Błąd – jako funkcjonariusz publiczny powinien pan poświęcić całą energię służbie narodowi, a tego obywatel nie robił.
+$GEN_013_05x03_05_05
+Niech teraz spróbuje tylko coś powiedzieć, krwiopijca.
+$GEN_013_05x03_05_06
+Przeciętni ludzie muszą się skupiać na jednym dziele naraz. Dla mnie to byłoby zbyt mało, zanudziłbym się.
+$GEN_013_05x06_06_QTitle
+A jacyż to naukowcy z zagranicy prosili o pańską pomoc i wsparcie?
+$GEN_013_05x06_06_00
+A jacyż to naukowcy z zagranicy prosili o pańską pomoc i wsparcie?
+$GEN_013_05x06_06_01
+Chociażby Włosi, bardzo biegli w chemii, ale jednak gorzej radzący sobie z finansami. Bartolomeo Beccaria, Diego Petrarca czy Daniele Marconi…
+$GEN_013_05x06_06_02
+Włosi wielokrotnie walczyli z Francją, a oskarżony ich wspierał?
+$GEN_013_05x06_06_03
+Dobrze mówi!
+$GEN_013_05x06_06_04
+Każdy nasz sąsiad kiedyś z nami walczył, ale co to ma wspólnego z nauką?
+$GEN_013_05x06_06_05
+A czy przypadkiem to nie naukowcy, jak pan, stworzyli broń palną, która odmieniła oblicze wojen?
+$GEN_013_05x06_06_06
+Moje prace nie miały nic wspólnego z uzbrojeniem.
+$GEN_013_05x06_06_07
+Tak oskarżony przynajmniej twierdzi.
+$GEN_013_KEY_01
+Ferme générale
+$GEN_013_KEY_02
+Zdobycie posady
+$GEN_013_KEY_03
+Wiele interesów
+$GEN_013_KEY_04
+Oszustwo
+$GEN_013_KEY_05
+Wybitny uczony
+$GEN_013_KEY_06
+Zagraniczni naukowcy
+$GEN_013_KEY_07
+Badania naukowe
+$GEN_013_KEY_08
+Raport
+
+
+$GEN_013_LastDialog_00
+To jest nielogiczne. Nie możecie mnie zabić, wstrzymacie rozwój nauki!
+
+$GEN_013_UNIQUE_QUESTION_00
+Jakie badania prowadził oskarżony?
+$GEN_013_UNIQUE_ANSWER_CORRECT_00_00
+Nad mechanizmem spalania.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Nad ulepszaniem broni palnej.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Nad zamianą ołowiu w złoto.
+
+$GEN_013_UNIQUE_QUESTION_01
+Jak oskarżony tłumaczył swoją działalność poborcy podatkowego?
+$GEN_013_UNIQUE_ANSWER_CORRECT_01_00
+Francuskim prawem.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Cytatami z Biblii.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Chęcią utrzymania własnej rodziny.
+
+$GEN_013_UNIQUE_QUESTION_02
+Czy oskarżony wysyłał pieniądze zagranicznym naukowcom?
+$GEN_013_UNIQUE_ANSWER_CORRECT_02_00
+Wysyłał własne pieniądze.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Wysyłał pieniądze z podatków.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Lavoisier nie przesyłał im pieniędzy.
+
+$GEN_013_UNIQUE_QUESTION_03
+Jakim towarem handlował oskarżony?
+$GEN_013_UNIQUE_ANSWER_CORRECT_03_00
+Zawilgoconym tytoniem.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_03_00
+Skwaśniałym winem.
+$GEN_013_UNIQUE_ANSWER_NOT_CORRECT_03_01
+Spleśniałym chlebem.
+

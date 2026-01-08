@@ -1,0 +1,39 @@
+$CUT_035_BROTHER_001
+Znasz tego młodego oficera, który przybył z odsieczą?
+$CUT_035_BROTHER_002
+Nazywa się Napoleon Bonaparte.
+$CUT_035_JUDGE_003
+Nie znam. Ale to nieważne – wygrałem. Paryż pozostanie nasz.
+$CUT_035_BROTHER_004
+Wygrałeś? Nigdy nie miałem zamiaru zajmować miasta.
+$CUT_035_JUDGE_005
+Nie rozumiem.
+$CUT_035_BROTHER_006
+Właśnie przyprowadziłem wam dyktatora.
+$CUT_035_BROTHER_007
+Ja wygrałem.
+$CUT_035_BROTHER_008
+Ludzie przyjmą Napoleona z otwartymi rękami.
+$CUT_035_BROTHER_009
+Przybędzie „Nowe”, które o was zapomni, by za kolejne 100 lat znowu utopić kraj we krwi.
+$CUT_035_BROTHER_010
+„Nowe” właśnie wkracza do miasta na czele armii, której nikt z was nie pokona.
+$CUT_035_BROTHER_011
+Ja wygrałem. 
+$CUT_035_JUDGE_012
+Nie, póki ja żyję.
+$CUT_035_BROTHER_013
+Ja mam pistolet.
+$CUT_035_JUDGE_014
+Może w takim razie spróbujemy rozstrzygnąć, kto jest ulubieńcem niebios: Kain czy Abel?
+$CUT_035_BROTHER_015
+Ulubieniec zabija przegranego?
+$CUT_035_JUDGE_016
+Strzałem w głowę.
+
+$CUT_035_ROLL_01
+Myśleliście, że rewolucja was uwolni, ale to mrzonka.
+$CUT_035_ROLL_03
+Wszyscy uwierzyliście w ten romantyczny zryw, ale czy rewolucja była czymś innym niż to, co robimy właśnie teraz?
+$CUT_035_ROLL_05
+Czy nie stała się chaotyczną grą na śmierć i życie, w której jedyną walutą jest szansa?

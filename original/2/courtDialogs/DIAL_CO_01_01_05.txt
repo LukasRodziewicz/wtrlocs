@@ -1,0 +1,10 @@
+$DIAL_CO_01_01_05_001_PROSECUTOR
+Bonjour, citoyen Fidèle. Je m'appelle Antoine Quentin Fouquier de Tinville, je suis le procureur qui a été désigné pour participer aux procès, à compter d'aujourd'hui.
+$DIAL_CO_01_01_05_002_PROSECUTOR
+Je me dois de te prévenir, je suis intransigeant. Toutefois, j'espère que nous arriverons rapidement à nous entendre. J'apporte également une bonne nouvelle, la construction de la guillotine est terminée, j'espère que nous allons pouvoir l'utiliser au plus vite.
+$DIAL_CO_01_01_05_003_MENTOR
+Oui, nous l'avons vue...
+$LETTER_CO_01_01_05_001
+Trahison ! Le roi a disparu ! Quiconque possède des informations permettant de le retrouver est sommé de les communiquer immédiatement aux autorités !
+$LETTER_CO_01_01_05_002
+Robespierre

@@ -1,0 +1,284 @@
+$GEN_010_DOC_1_HEADER
+Compilé par : Bertrand Moreau
+$GEN_010_DOC_1_00
+Alfred Renoir est un boulanger de 43 ans vivant en banlieue nord de Paris. Renoir a été accusé d'avoir causé la mort de plusieurs enfants de son quartier. L'accusé et sa femme ont deux fils et une fille. Les témoins le décrivent comme un homme peu bavard, mais sympathique. Il ne refuse pas de faire crédit et n'ajouterait jamais de sciure à sa farine. Les enquêteurs ont fouillé sa maison et n'ont trouvé aucun document monarchiste.
+$GEN_010_DOC_1_01
+Les plaintes à l'encontre du boulanger ont été déposées par trois femmes qui le tiennent responsable de la mort de leurs enfants. Au total, huit mineurs ont trouvé la mort. Un docteur parisien a confirmé qu'ils étaient tous morts de <a name="2" class="hidden">faim</a>.
+$GEN_010_DOC_1_02
+Une semaine auparavant, ces femmes, accompagnées d'un petit groupe de résidents du quartier, ont tenté de forcer le boulanger à leur vendre du pain – ou au moins un peu de farine. D'après les témoins, il n'y avait pas plus de 15 personnes devant la boulangerie.
+$GEN_010_DOC_1_03
+Renoir <a name="3" class="hidden">a refusé catégoriquement</a> et les a menacés d'appeler la Garde. Lorsqu'ils lui ont demandé de produire plus de pain, il a de nouveau refusé. Le jour suivant, les trois mères à l'origine des plaintes sont retournées le voir et n'ont de nouveau rien pu obtenir de lui.
+$GEN_010_DOC_1_04
+Les enquêteurs, aidés par des soldats, ont trouvé d'importantes provisions de farine dans les réserves de la boulangerie. Il est difficile de déterminer si la <a name="4" class="hidden">mort des enfants</a> est uniquement due à la conduite du boulanger.
+$GEN_010_DOC_1_05
+Le boulanger a déclaré qu'il achetait sa farine à un <a name="5" class="hidden">paysan de la campagne</a>, mais personne ne l'a jamais vu à Paris. Les gens disent qu'il est de mèche avec les Autrichiens. Certains pensent que les Habsbourg tentent de lutter contre la Révolution en affamant les citoyens de Paris .
+$GEN_010_DOC_1_06
+L'accusé n'a pas pu donner la raison pour laquelle il a refusé de vendre du pain, prétendant seulement qu'il n'avait pas le choix.
+$GEN_010_DOC_1_07
+Pièce à conviction : <a name="7" class="hidden">Registre des achats</a>.
+$GEN_010_OnStart_00
+Assassin ! Traître ! Nous voulons notre pain !
+$GEN_010_OnStart_01
+Quand des gens affamés et désespérés se mettent à parler de complots, mieux vaut garder ses distances.
+$GEN_010_OnStart_02
+La parole est donnée à l'accusé pour se présenter.
+$GEN_010_OnStart_03
+Je m'appelle Alfred Renoir. Je suis boulanger.
+$GEN_010_OnStart_04
+Citoyen Renoir, tu es accusé d'avoir causé la mort de plusieurs enfants.
+$GEN_010_OnStart_05
+Je n'ai tué personne. Jamais je ne m'en prendrais à un enfant.
+$GEN_010_OnStart_06
+Ils n'ont pas été égorgés, mais sa culpabilité est évidente.
+$GEN_010_OnStart_07
+Bourreau d'enfants !
+$GEN_010_OnGuilty_00
+Je déclare Alfred Renoir coupable de la mort de plusieurs enfants de Paris. Pour ces crimes, il sera guillotiné.
+$GEN_010_OnGuilty_01
+Une juste décision. Nous sommes en guerre, certaines décisions doivent être prises sans pitié.
+$GEN_010_OnGuilty_02
+Qu'est-ce que ça change ? Mes enfants sont toujours morts !
+$GEN_010_OnGuilty_03
+Donnez sa farine au peuple !
+$GEN_010_OnGuilty_04
+Hourra ! À mort le boulanger, à manger pour nous !
+$GEN_010_OnNotGuilty_00
+L'accusé n'est coupable d'aucun crime. Que l'on relâche le citoyen Alfred Renoir.
+$GEN_010_OnNotGuilty_01
+Objection ! L'accusé ne peut rester impuni !
+$GEN_010_OnNotGuilty_02
+Tes enfants ne connaissent sûrement pas la faim, Monsieur le juge !
+$GEN_010_OnNotGuilty_03
+Le juge est avec les Autrichiens !
+$GEN_010_OnNotGuilty_04
+Donnez-nous un autre juge !
+$GEN_010_01x03_00_QTitle
+Est-il vrai que tu as refusé de vendre du pain à ces trois femmes ?
+$GEN_010_01x03_00_00
+Est-il vrai que tu as refusé de vendre du pain à ces trois femmes ?
+$GEN_010_01x03_00_01
+En effet, elles sont venues me demander du pain.
+$GEN_010_01x03_00_02
+Voulaient-elles que tu le leur donnes ?
+$GEN_010_01x03_00_03
+Non, elle étaient prêtes à me payer, bien plus que nécessaire.
+$GEN_010_01x03_00_04
+Et il nous a crié dessus !
+$GEN_010_01x03_00_05
+Lui avez-vous dit que c'était pour vos enfants ?
+$GEN_010_01x03_00_06
+Oui, mais il a quand même refusé.
+$GEN_010_01x03_00_07
+N'as-tu aucun sens moral ?
+$GEN_010_01x03_00_08
+Je leur ai demandé poliment, mais elles ne voulaient pas partir...
+$GEN_010_01x03_00_09
+Pourquoi as-tu refusé ?
+$GEN_010_01x03_00_10
+Je n'avais pas le choix...
+$GEN_010_02x06_01_QTitle
+Tu n'es pas sans savoir que notre pays est en guerre ?
+$GEN_010_02x06_01_00
+Tu n'es pas sans savoir que notre pays est en guerre ?
+$GEN_010_02x06_01_01
+Je suis au courant, en effet.
+$GEN_010_02x06_01_02
+Alors pourquoi as-tu refusé d'aider tes concitoyens ? Tes actes sont ceux d'un traître à la République, je pourrais t'inculper de trahison.
+$GEN_010_02x06_01_03
+Monsieur le juge, sache que j'ai ma propre guerre à mener.
+$GEN_010_02x06_01_04
+Quelle guerre ?
+$GEN_010_02x06_01_05
+Une guerre pour la survie de ma famille. Toute autre guerre peut bien attendre. J'ai trois enfants et une femme, je ne peux pas me permettre de les trahir.
+$GEN_010_02x06_01_06
+Si nous perdons, ce sont tous les enfants qui mourront de faim.
+$GEN_010_02x06_01_07
+Il a vendu son âme aux Autrichiens pour donner quelques miettes de pain à sa catin.
+$GEN_010_02x07_02_QTitle
+D'après le registre des achats, tu avais assez de pain…
+$GEN_010_02x07_02_00
+D'après le registre des achats, tu avais assez de pain pour en vendre à ces femmes et à bien d'autres clients.
+$GEN_010_02x07_02_01
+Pour l'instant, oui, mais qui sait ce qui arrivera ? Allons-nous recevoir d'autres provisions de farine ? La véritable famine est à venir et j'ai une famille à nourrir. Combien de temps devra-t-elle tenir sans autres provisions que les miennes ?
+$GEN_010_02x07_02_02
+Nous aussi nous avions des enfants !
+$GEN_010_02x07_02_03
+Tu gardais tout pour toi ?
+$GEN_010_02x07_02_04
+Pour ma famille, oui. Est-ce vraiment un crime ?
+$GEN_010_02x07_02_05
+Et tu mangeais tous les jours ?
+$GEN_010_02x07_02_06
+Oui, mais je ne sais pas combien de temps cela durera.
+$GEN_010_02x07_02_07
+Avez-vous entendu cette canaille ? Vendu !
+$GEN_010_02x04_03_QTitle
+Faites entrer le témoin.
+$GEN_010_02x04_03_00
+Faites entrer le témoin.
+$GEN_010_02x04_03_02
+Je te prie de te présenter, citoyen.
+$GEN_010_02x04_03_03
+Arnaud Lemout. J'ai examiné les enfants.
+$GEN_010_03x04_04_QTitle
+Ces femmes prétendent que c'est ton refus qui a entraîné la mort de leurs enfants…
+$GEN_010_03x04_04_00
+Ces femmes prétendent que c'est ton refus qui a entraîné la mort de leurs enfants. Qu'as-tu à répondre à cela ?
+$GEN_010_03x04_04_01
+Ne restait-il plus que mon pain dans tout Paris ? Si elles avaient voulu nourrir leurs enfants, elles en auraient trouvé ailleurs.
+$GEN_010_03x04_04_02
+Il va dire que c'est de leur faute !
+$GEN_010_03x04_04_03
+C'est un espion à la solde des Autrichiens qui va me dire que je suis une mauvaise mère, maintenant ?
+$GEN_010_03x04_04_04
+Tu sous-entends que cette tragédie a eu lieu à cause de la négligence des parents ?
+$GEN_010_03x04_04_05
+Je suis le père de mes enfants, pas de tous les enfants du quartier.
+$GEN_010_03x04_04_06
+Ton attitude montre clairement que tu ne comprends pas le concept révolutionnaire de la fraternité.
+$GEN_010_03x04_04_07
+Liberté, égalité, fraternité... et une lame aiguisée pour décapiter les salauds !
+$GEN_010_03x06_05_QTitle
+Es-tu un espion pour le compte des Autrichiens ?
+$GEN_010_03x06_05_00
+Es-tu un espion pour le compte des Autrichiens ?
+$GEN_010_03x06_05_01
+…
+$GEN_010_03x06_05_02
+Citoyen ?
+$GEN_010_03x06_05_03
+Je n'ai pas répondu car je ne voudrais pas te faire affront, Monsieur le juge, parce que la seule réponse possible est que celui qui est à l'origine de cette rumeur absurde est un idiot. Et je te prie de m'excuser, Monsieur le juge, si c'était ton idée.
+$GEN_010_03x06_05_04
+Toute cette histoire a semblé étrange à beaucoup de monde.
+$GEN_010_03x06_05_05
+Je ne parle même pas leur langue ! Ces accusations ridicules viennent de nigauds qui n'ont rien de mieux à faire de leur vie.
+$GEN_010_03x06_05_06
+C'est qui que tu appelles nigauds, espèce de sale rat !
+$GEN_010_06x05_06_QTitle
+Comment est livrée ta farine ?
+$GEN_010_06x05_06_00
+Comment est livrée ta farine ?
+$GEN_010_06x05_06_01
+Je la récupère moi-même tous les samedis.
+$GEN_010_06x05_06_02
+Tu sors donc régulièrement de la ville ? Y vas-tu avec quelqu'un d'autre ?
+$GEN_010_06x05_06_03
+Non, pourquoi ?
+$GEN_010_06x05_06_04
+Pour tenter de répondre aux accusations d'espionnage et de conspiration qui ont été faites à ton encontre...
+$GEN_010_06x05_06_05
+Bravo ! Le juge a démasqué le traître !
+$GEN_010_06x05_06_06
+Qu'y a-t-il d'étrange pour un boulanger d'aller chercher de la farine à la campagne une fois par semaine ?
+$GEN_010_06x05_06_07
+Qu'y a-t-il d'étrange à recruter comme espion une personne qui voyage régulièrement ?
+$GEN_010_06x05_06_08
+C'est absurde.
+$GEN_010_06x05_06_09
+Faites entrer le témoin.
+$GEN_010_06x05_06_11
+Vendais-tu ta farine à l'accusé ? Mais d'abord, je te prie de te présenter.
+$GEN_010_06x05_06_12
+Je m'appelle Ruttmann, je suis paysan et meunier. Oui, je lui vendais ma farine, Monsieur le juge. Pourquoi ? Qu'ai-je fait de mal ?
+$GEN_010_WIT_00_A_QTitle
+Peux-tu nous expliquer ce que tu as découvert en examinant les corps des enfants ?
+$GEN_010_WIT_00_A_00
+Peux-tu nous expliquer ce que tu as découvert en examinant les corps des enfants ?
+$GEN_010_WIT_00_A_01
+Ils étaient affaiblis et décharnés, ils souffraient visiblement de malnutrition. C'était probablement le cas depuis un moment.
+$GEN_010_WIT_00_A_02
+Quelques miches de pain du boulanger leur auraient-elles permis de survivre ?
+$GEN_010_WIT_00_A_03
+Il ne faut pas donner du pain à quelqu'un qui meurt de faim. Les effets sont généralement désastreux. Et dans leur cas, non, un peu de pain n'aurait fait que repousser leur mort de quelques jours.
+$GEN_010_WIT_00_A_04
+Comment oses-tu !
+$GEN_010_WIT_00_A_05
+Ces quelques jours auraient peut-être permis aux parents de trouver plus de nourriture.
+$GEN_010_WIT_00_A_06
+Peut-être.
+$GEN_010_WIT_01_A_QTitle
+Que penses-tu de l'idée que les Autrichiens cherchent à affamer tout Paris ?
+$GEN_010_WIT_01_A_00
+Que penses-tu de l'idée que les Autrichiens cherchent à affamer tout Paris ?
+$GEN_010_WIT_01_A_01
+Tout simplement ridicule. Avec un seul boulanger ?
+$GEN_010_WIT_01_A_02
+On parle de dizaines de boulangers.
+$GEN_010_WIT_01_A_03
+Les gens racontent souvent n'importe quoi. Ceux qui n'ont pas reçu d'instruction cherchent toujours la réponse la plus simple, surtout lorsqu'ils sont en groupe.
+$GEN_010_WIT_01_A_04
+Mais supposons un moment que cette rumeur soit vraie. Une telle conspiration de boulangers pourrait-elle entraîner de nombreuses morts ?
+$GEN_010_WIT_01_A_05
+Oui, je suppose. De nombreux parisiens ne mangent rien d'autre que du pain, ce qui signifie que le nombre de décès augmenterait.
+$GEN_010_WIT_01_A_06
+As-tu récemment observé une augmentation du nombre de personnes qui meurent de faim ?
+$GEN_010_WIT_01_A_07
+Oui, mais je ne crois pas qu'une conspiration en soit l'origine. Il y a d'autres raisons : les problèmes d'approvisionnement et la guerre, ainsi que tout le chaos qu'ils ont engendré.
+$GEN_010_WIT_01_A_08
+On le savait ! Trahison !
+$GEN_010_WIT_02_A_QTitle
+Depuis combien de temps fais-tu affaire avec lui ?
+$GEN_010_WIT_02_A_00
+Depuis combien de temps fais-tu affaire avec lui ?
+$GEN_010_WIT_02_A_01
+Six ou sept ans.
+$GEN_010_WIT_02_A_02
+As-tu remarqué un changement dans le comportement de l'accusé récemment ?
+$GEN_010_WIT_02_A_03
+Non, il était gentil, comme toujours. Il a bien essayé de me convaincre de ne vendre ma farine qu'à lui, cela dit.
+$GEN_010_WIT_02_A_04
+Comment ? N'est-ce pas une demande suspecte ?
+$GEN_010_WIT_02_A_05
+J'ai accepté. Quelle différence ? Il payait toujours bien et il m'achetait assez de farine. Bon, c'est vrai que c'était bizarre qu'il ait autant d'argent, mais ça ne me regarde pas, après tout.
+$GEN_010_WIT_02_A_06
+Avais-tu d'autres clients qui t'achetaient régulièrement autant de farine ?
+$GEN_010_WIT_02_A_07
+Non, c'était inhabituel, je ne sais pas pourquoi il lui en fallait autant. Mais les temps sont durs et il payait toujours d'avance. Les autres demandaient souvent à me payer plus tard, mais pas lui.
+$GEN_010_WIT_02_A_08
+Renoir n'a jamais demandé à payer plus tard ?
+$GEN_010_WIT_02_A_09
+Non.
+$GEN_010_WIT_02_A_10
+Les Autrichiens devaient bien le payer pour qu'il puisse acheter toute cette farine.
+$GEN_010_WIT_03_A_QTitle
+Ruttmann est un nom étrange pour un Français.
+$GEN_010_WIT_03_A_00
+Ruttmann est un nom étrange pour un Français.
+$GEN_010_WIT_03_A_01
+Mon père venait d'Hanovre.
+$GEN_010_WIT_03_A_02
+Le citoyen est-il au courant que nous sommes également en guerre avec Hanovre ?
+$GEN_010_WIT_03_A_03
+Et alors ? Mon père est mort, il ne se battra plus contre personne. Je suis né ici.
+$GEN_010_KEY_01
+La nature du prévenu
+$GEN_010_KEY_02
+Famine à Paris
+$GEN_010_KEY_03
+Refus d'aider
+$GEN_010_KEY_04
+Mort d'enfants
+$GEN_010_KEY_05
+Fournisseur mystérieux
+$GEN_010_KEY_06
+Hostilité
+$GEN_010_KEY_07
+Registre des achats
+$GEN_010_LastDialog_00
+Et qui va s'occuper de mes enfants, hein ? Vous les aurez sur la conscience !
+$GEN_010_UNIQUE_QUESTION_00
+Qu'a-t-on trouvé lors de la perquisition chez le prévenu ?
+$GEN_010_UNIQUE_ANSWER_CORRECT_00_00
+Des réserves de farine.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_00
+De grandes réserves de pain.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Quelques réserves d'avoine.
+$GEN_010_UNIQUE_QUESTION_01
+Pourquoi le prévenu ne partageait-il pas ses réserves ?
+$GEN_010_UNIQUE_ANSWER_CORRECT_01_00
+Il les gardait pour sa famille.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Il n'aimait pas ses voisins.
+$GEN_010_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Il affirme que personne ne lui a demandé quoi que ce soit.

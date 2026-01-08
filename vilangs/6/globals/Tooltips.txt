@@ -1,0 +1,26 @@
+#INFLUENCE_TIP
+Influencia
+#INCLUENCE_TIP_SHORT
+IP
+#INFLUENCE_INCOME_TIP
+Aumento de influencia
+#COST_TIP
+Costo:
+#SUPPORT_FORMAT_TIP
+Apoyo: {0}
+#PEOPLE_SUPPORT_TIP
+Apoyo del pueblo llano
+#ARISTOCRATS_SUPPORT_TIP
+Apoyo de los aristócratas
+#REVOLUTIONISTS_SUPPORT_TIP
+Apoyo de los revolucionarios
+#REPUTATION_TIP
+Reputación
+#CLOSE_VIEW_TIP
+Cerrar vista
+#START_DISCUSSION_TOOLTIP
+Intentar persuadir
+#OPEN_DISCUSSION_INFO
+Consultar tus notas
+#DECISION_NOT_ENOUGH_POINTS
+<color=#ff0000ff>No puedes permitirte realizar esta acción.</color>

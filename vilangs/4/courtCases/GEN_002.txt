@@ -1,0 +1,260 @@
+$GEN_002_DOC_1_HEADER
+Zusammengestellt von: Raphaël Chalopin
+$GEN_002_DOC_1_00
+Auf der Anklagebank sitzt Geneviève Lussier, wohnhaft in der Section Bonne-Nouvelle, rue Poissonnière. Bürgerin Lussier ist als <a name="1" class="hidden">Näherin</a> tätig, arbeitet jedoch jeden Dienstag, Mittwoch und Freitag nachts als Aufseherin in einem Lagerhaus in der rue de Cléry. Auf die Frage, warum er eine Frau für eine eigentlich männliche Stelle eingestellt habe, antwortete der Lagerhausbesitzer Antoine Tellier: „Alle Männer sind in den Krieg gezogen, es ist niemand mehr da, der arbeiten könnte.“
+$GEN_002_DOC_1_01
+Sie wird beschuldigt, <a name="3" class="hidden">ein Sechstel</a> des Inhalts der Fässer mit <a name="4" class="hidden">Rohrzucker</a> gestohlen zu haben, die aus den Kolonien importiert wurden. Bürger Tellier behauptet, der Vorfall habe sich irgendwann zwischen Freitagabend und Samstagmorgen während der Schicht von Geneviève Lussier ereignet. Außerdem möchte er uns über den aktuellen Zuckerpreis aufklären – er ist hoch.
+$GEN_002_DOC_1_02
+Der Eigentümer sagte aus – was durch eine Vor-Ort-Untersuchung bestätigt wurde –, dass weder Fenster eingeschlagen noch die Vorder- oder Hintertür aufgebrochen wurden. Nach Beendigung ihrer Schicht meldete Bürgerin Lussier keinerlei ungewöhnliche Vorkommnisse.
+$GEN_002_DOC_1_03
+Vom Fehlbestand an Zucker berichteten die Arbeiter der Frühschicht. Die Ermittler prüften das Lagerbuch und stellten fest, dass es bereits seit einiger Zeit nach den Nachtschichten zu kleinen Verlusten kam.
+$GEN_002_DOC_1_04
+Geneviève Lussier, Näherin
+ 
+   Verwitwet, mittleren Alters, <a name="6" class="hidden">Mutter von fünf Kindern</a>. Unterstützerin der Jakobiner.
+$GEN_002_DOC_1_05
+Antoine Tellier, Gewürzhändler. Unpolitisch. Viele seiner Lieferanten und Kunden halten ihn für <a name="7" class="hidden">„gierig und gerissen“</a>, doch man muss sagen, dass Händler ohne diese Eigenschaften selten erfolgreich sind.
+$GEN_002_DOC_1_06
+Beweise:
+<a name="8" class="hidden">Lagerbuch</a>.
+Aussage von Antoine Tellier.
+$GEN_002_DOC_2_TOOLTIP
+Aussage von Antoine Tellier
+$GEN_002_DOC_2_00
+Aussage von Antoine Tellier: „Madame Lussier arbeitete schon seit einiger Zeit für mich, und ich hatte <a name="9" class="hidden">volles Vertrauen</a> zu ihr. Deshalb habe ich auch nicht reagiert, als mir kleine Fehlmengen auffielen – ich hielt das für <a name="10">normale Geschäftsausfälle</a>. Doch diesmal wurde eine größere Menge gestohlen, und nur Madame Lussier hatte Zugang zu den betreffenden Waren.“
+$GEN_002_OnStart_00
+Der Fall erscheint mir eindeutig. Oder entgeht uns etwas?
+$GEN_002_OnStart_01
+Bitte stellen Sie sich vor.
+$GEN_002_OnStart_02
+Geneviève Lussier. Ich bin Näherin.
+$GEN_002_OnStart_03
+Ihnen wird vorgeworfen, Zucker aus dem Lager von Bürger Tellier gestohlen zu haben.
+$GEN_002_OnStart_04
+Ich habe nichts gestohlen! Tellier ist ein Lügner!
+$GEN_002_OnStart_05
+Ganz wie ein echter Dieb gesprochen.
+$GEN_002_OnStart_06
+Er will eine Frau ins Gefängnis stecken, weil Ratten seinen Zucker gefressen haben.
+$GEN_002_OnPrison_00
+Ich verurteile Bürgerin Geneviève Lussier zu Gefängnis!
+$GEN_002_OnPrison_01
+Für eine Handvoll Zucker?!
+$GEN_002_OnPrison_02
+Was wird jetzt aus meinen Kindern? Wird das Gericht sich um sie kümmern?!
+$GEN_002_OnPrison_03
+Das Gesetz gilt für alle Menschen, selbst für Eltern.
+$GEN_002_OnPrison_04
+Führt die Verurteilte hinaus.
+$GEN_002_OnPrison_05
+Ein Fluch über dich und deine Familie, Schurke!
+$GEN_002_OnNotGuilty_00
+Das Urteil im Fall des verschwundenen Rohrzuckers aus dem Lager von Bürger Tellier lautet… nicht schuldig! Bitte lassen Sie Madame Lussier frei.
+$GEN_002_OnNotGuilty_01
+Ich bin sicher, Tellier wird das überstehen, dieser Schlitzohr.
+$GEN_002_OnNotGuilty_02
+Mitgefühl darf nicht über Gerechtigkeit stehen!
+$GEN_002_OnGuilty_00
+Bürgerin Lussier, ich verurteile Sie zur Guillotine!
+$GEN_002_OnGuilty_01
+Für eine Handvoll Zucker?!
+$GEN_002_OnGuilty_02
+Was wird jetzt aus meinen Kindern? Wird das Gericht sich um sie kümmern?!
+$GEN_002_OnGuilty_03
+Das Gesetz gilt für alle Menschen, selbst für Eltern.
+$GEN_002_OnGuilty_04
+Führt die Verurteilte ab.
+$GEN_002_OnGuilty_05
+Ein Fluch über dich und deine Familie, Schurke!
+$GEN_002_01x02_00_QTitle
+Warum haben Sie sich entschieden, diesen Nebenjob anzunehmen?
+$GEN_002_01x02_00_00
+Warum haben Sie sich entschieden, diesen Nebenjob anzunehmen?
+$GEN_002_01x02_00_01
+Es war keine Entscheidung – ich muss hungrige Mäuler stopfen.
+$GEN_002_01x02_00_02
+Also hast du im Lager angefangen zu arbeiten, um Essen zu stehlen?
+$GEN_002_01x02_00_03
+Ich weiß nicht einmal, was in diesen Kisten und Fässern steckt.
+$GEN_002_01x02_00_04
+Arbeiten Sie tagsüber als Näherin?
+$GEN_002_01x02_00_05
+Ich nähe, wasche die Kleidung meiner Kinder, koche und putze.
+$GEN_002_01x02_00_06
+Und die Abende verbringst du im Lagerhaus?
+$GEN_002_01x02_00_07
+Die Abende? Nein, Monsieur Richter, ich bin die ganze Nacht dort. Am Morgen komme ich zurück, mache meinen Kindern Frühstück und gehe dann wieder nähen.
+$GEN_002_01x02_00_08
+Die Revolution sollte doch alles besser machen!
+$GEN_002_01x06_01_QTitle
+Wie schaffen Sie es, fünf Kinder zu versorgen?
+$GEN_002_01x06_01_00
+Wie schaffen Sie es, fünf Kinder zu versorgen? In den Akten findet sich kein Hinweis auf einen Herrn Lussier.
+$GEN_002_01x06_01_01
+Herr Lussier folgte dem Ruf der Waffen und zog an die Front. Es muss ihm wohl gefallen haben, denn er beschloss zu bleiben. Er – oder seine Leiche.
+$GEN_002_01x06_01_02
+Versuchen Sie, beim Großen Geschworenengericht Mitgefühl zu erwecken?
+$GEN_002_01x06_01_03
+Dieses Wort hat für mich schon lange keine Bedeutung mehr.
+$GEN_002_01x06_01_04
+Also haben Sie Ihren Mann in den Krieg ziehen lassen, obwohl Sie Kinder zu versorgen hatten?
+$GEN_002_01x06_01_05
+Er hat nicht um meine Erlaubnis gebeten. Er hat einfach verkündet, dass er mit Geld und einer Medaille zurückkommen würde. Ich glaube, er hatte einfach genug vom Lärm und seiner Arbeit.
+$GEN_002_02x09_02_QTitle
+Hat Bürger Tellier sich jemals vor den besagten Ereignissen über Ihre Arbeit beschwert?
+$GEN_002_02x09_02_00
+Hat Bürger Tellier sich jemals vor den betreffenden Ereignissen über Ihre Arbeit beschwert?
+$GEN_002_02x09_02_01
+Nein, niemals. Er hat mich immer angelächelt.
+$GEN_002_02x09_02_02
+Wurden Sie jemals bei etwas Unanständigem ertappt?
+$GEN_002_02x09_02_03
+Niemals. Deshalb hat Herr Tellier den zweiten Hausmeister entlassen, den er früher beschäftigte. Früher hatte er immer zwei Leute, die einander im Auge behielten.
+$GEN_002_02x09_02_04
+Aber man hat Sie allein zurückgelassen.
+$GEN_002_02x09_02_05
+Das stimmt.
+$GEN_002_02x09_02_06
+Das war doch sehr praktisch für Sie, nicht wahr? Waren Sie es, der ihn dazu gebracht hat, den zweiten Wächter loszuwerden?
+$GEN_002_02x09_02_07
+Ich spreche nicht mit ihm. Er hat das Sagen, ich bin nur ein Diener.
+$GEN_002_04x03_03_QTitle
+Wozu brauchten Sie den Zucker?
+$GEN_002_04x03_03_00
+Wozu brauchten Sie den Zucker?
+$GEN_002_04x03_03_01
+Für nichts, ich habe es nämlich nicht genommen.
+$GEN_002_04x03_03_02
+Ein Sechstel eines Fasses ist eine ganze Menge.
+$GEN_002_04x03_03_03
+Ganz genau! Wozu sollte ich das brauchen? Wir leben von Brot und Karotten – wenn es sie überhaupt gibt.
+$GEN_002_04x03_03_04
+Du könntest einfach zum Markt gehen und es verkaufen. Zucker ist teuer, da die Stadt Schwierigkeiten hat, ihn zu importieren.
+$GEN_002_04x03_03_05
+Wie soll ich das machen, wenn ich den ganzen Tag arbeite?
+$GEN_002_04x03_03_06
+Die älteren Kinder könnten gehen. Ein bisschen zusätzliches Geld würde so einer großen Familie sicher nicht schaden, oder?
+$GEN_002_04x03_03_07
+…
+$GEN_002_04x03_03_08
+Der Richter will sie wegen einer Prise Zucker zu den Galeeren verurteilen!
+$GEN_002_05x08_04_QTitle
+Im Register ist vermerkt, dass alle Verluste nach der Nachtschicht auftraten.
+$GEN_002_05x08_04_00
+Im Register steht, dass alle Verluste nach der Nachtschicht auftraten.
+$GEN_002_05x08_04_01
+Na? Genau dann kriechen die Ratten aus ihren Löchern.
+$GEN_002_05x08_04_02
+Haben Sie nur Nachtschichten gearbeitet?
+$GEN_002_05x08_04_03
+Ja, aber manchmal wird die Ware erst spät abends geliefert, da könnten die Träger etwas gestohlen haben. Ich habe doch keine Augen im Hinterkopf!
+$GEN_002_05x08_04_04
+Haben Sie noch jemanden im Verdacht?
+$GEN_002_05x08_04_05
+Nein. Die Träger wechseln ständig, weil die Arbeit so hart ist.
+$GEN_002_05x08_04_06
+Ganz genau. Sie haben sich abgewechselt, aber der Zucker verschwand nur während Ihrer Schichten.
+$GEN_002_05x08_04_07
+…
+$GEN_002_05x08_04_08
+Lasst sie endlich in Ruhe.
+$GEN_002_07x08_05_QTitle
+Rufen Sie den Zeugen Antoine Tellier auf.
+$GEN_002_07x08_05_00
+Rufen Sie den Zeugen Antoine Tellier auf.
+$GEN_002_07x08_05_02
+Bitte stellen Sie sich vor.
+$GEN_002_07x08_05_03
+Antoine Tellier. Ich bin Händler.
+$GEN_002_03x10_06_QTitle
+Ist es möglich, dass dies kein Diebstahl, sondern einfach ein gewöhnlicher Warenverlust ist?
+$GEN_002_03x10_06_00
+Ist es möglich, dass dies kein Diebstahl, sondern einfach der übliche Warenverlust ist?
+$GEN_002_03x10_06_01
+Ich weiß es nicht. Tatsache ist, nachts ist es dunkel, und Tellier will nichts davon wissen, zusätzliche Laternen zu kaufen. Man stolpert oder rutscht leicht aus.
+$GEN_002_03x10_06_02
+Sehen Sie oft, wie die Träger über etwas stolpern?
+$GEN_002_03x10_06_03
+Manchmal, aber meistens halte ich mich von ihnen fern.
+$GEN_002_03x10_06_04
+Könnte es sein, dass jemand den verschwundenen Zucker verschüttet hat?
+$GEN_002_03x10_06_05
+Ich weiß es nicht, aber wenn einer von ihnen aus Versehen ein Fass fallen gelassen und den Inhalt verschüttet hätte, würde er es ganz sicher nicht zugeben.
+$GEN_002_03x10_06_06
+Natürlich nicht, sie würden doch alles dem armen Ding anlasten.
+$GEN_002_WIT_00_A_QTitle
+Haben Sie irgendwelche Beweise dafür, dass es Bürgerin Lussier war…?
+$GEN_002_WIT_00_A_00
+Haben Sie irgendwelche Beweise dafür, dass es Bürgerin Lussier war, die den unglückseligen Zucker gestohlen hat?
+$GEN_002_WIT_00_A_01
+Ich glaube nicht, dass es sonst jemand hätte tun können.
+$GEN_002_WIT_00_A_02
+Der Lagerbesitzer weiß am besten, was dort vor sich geht.
+$GEN_002_WIT_00_A_03
+In jener Nacht wurden Kisten und Fässer von einem der Schiffe entladen. Warum sie – und nicht einer der Träger?
+$GEN_002_WIT_00_A_04
+Sie hatte ein Motiv. Ich habe gehört, ihr Mann ist im Krieg gefallen und hat ihr fünf Kinder hinterlassen. Das ergibt alles Sinn.
+$GEN_002_WIT_00_A_05
+Klingt vernünftig, nicht wahr?
+$GEN_002_WIT_00_B_QTitle
+Könnte es sein, dass die im Register festgestellten Abweichungen einfach dem üblichen Warenverlust entsprechen?
+$GEN_002_WIT_00_B_00
+Könnte es sein, dass die im Register festgestellten Abweichungen einfach der übliche Schwund sind? Etwas wurde fallen gelassen, etwas verschüttet…
+$GEN_002_WIT_00_B_01
+Ja, das wäre möglich. Bis vor Kurzem war ich davon überzeugt.
+$GEN_002_WIT_00_B_02
+Was hat Sie dazu gebracht, über Diebstahl nachzudenken?
+$GEN_002_WIT_00_B_03
+Meine Arbeiter sind kräftige Kerle! Glauben Sie etwa, die lassen jede Nacht etwas fallen und verschütten es? Ich stelle nicht jeden ein – nur Leute mit starken Armen. An guten Mitarbeitern spare ich bestimmt nicht!
+$GEN_002_WIT_00_B_04
+Was, wenn einer von ihnen in einer Notlage war und etwas für seine Kinder gestohlen hat?
+$GEN_002_WIT_00_B_05
+Das glaube ich nicht. Ich bezahle sie besser als die Aufseher, also sollte es ihnen gut gehen.
+$GEN_002_WIT_00_B_06
+Gleichheit und Brüderlichkeit, nicht wahr?
+$GEN_002_KEY_01
+Näherin
+$GEN_002_KEY_02
+[Nebenjob]
+$GEN_002_KEY_03
+Gestohlener Betrag
+$GEN_002_KEY_04
+Rohrzucker
+$GEN_002_KEY_05
+Frühschicht
+$GEN_002_KEY_06
+Mutter von fünf Kindern
+$GEN_002_KEY_07
+Telliers Gerissenheit
+$GEN_002_KEY_08
+Lagerverzeichnis
+$GEN_002_KEY_09
+Vertrauen des Arbeitgebers
+$GEN_002_KEY_10
+[Warenverlust]
+$GEN_002_LastDialog_00
+Für Zucker, den ich nicht gestohlen habe? Was wird nun aus meinen Kindern? Was werden Sie ihnen sagen?
+$GEN_002_UNIQUE_QUESTION_00
+Wann wurde das Fehlen des Zuckers bemerkt?
+$GEN_002_UNIQUE_ANSWER_CORRECT_00_00
+In der Nacht von Freitag auf Samstag.
+$GEN_002_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Sonntag, mittags.
+$GEN_002_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Spät am Donnerstagabend.
+$GEN_002_UNIQUE_QUESTION_01
+Welche Schichten hat der Angeklagte gearbeitet?
+$GEN_002_UNIQUE_ANSWER_CORRECT_01_00
+Nachtschichten.
+$GEN_002_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Tagschichten.
+$GEN_002_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Nacht- und Tagschichten.
+$GEN_002_UNIQUE_QUESTION_02
+Hat jemand versucht, die regelmäßigen Warenverluste zu erklären?
+$GEN_002_UNIQUE_ANSWER_CORRECT_02_00
+Das Lagerhaus war schwach beleuchtet.
+$GEN_002_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Die Angestellten waren körperlich schwach.
+$GEN_002_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Eine solche Erklärung wurde nicht gegeben.

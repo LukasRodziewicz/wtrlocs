@@ -1,0 +1,154 @@
+$HIERARCHY_CONFLICT_MAINHEADER
+갈등
+#HIERARCHY_CONFLICT_STATE_NEW
+새로운 갈등
+#HIERARCHY_CONFLICT_STATE_PENDING
+진행 중
+#HIERARCHY_CONFLICT_STATE_BETREYAL
+반역
+#HIERARCHY_CONFLICT_STATE_LOCKED
+차단됨
+#HIERARCHY_CONFLICT_STATE_RESOLVED
+완료됨
+$HIERARCHY_SELECTACTION
+특별 조치
+$HIERARCHY_CHANCE_TOOLTIP
+분쟁 승리 확률
+$HIERARCHY_CONFLICT_DAYS
+{1}일 중 {0}일
+$HIERARCHY_CONFLICT_DAYS_END
+완료됨
+$HIERARCHY_CONFLICT_PENALTIES
+패배 시 패널티
+$HIERARCHY_CONFLICT_REWARDS
+보상
+$HIERARCHY_ACCEPT_CONFLICT_SIDE
+선택 확인
+$HIERARCHY_CONFLICT_NOT_ENOUGHT
+갈등에 참여하기에 영향력 점수가 부족합니다.
+$HIERARCHY_CONFLICT_SIDE_TITLE
+분쟁의 한 편을 지지합니다.
+#HIERARCHY_CONFLICT_WEAKNESS_00
+논란이 되는 신념
+#HIERARCHY_CONFLICT_WEAKNESS_01
+정치적 지지 부족
+#HIERARCHY_CONFLICT_WEAKNESS_02
+나쁜 가족 관계
+#HIERARCHY_CONFLICT_WEAKNESS_03
+왕당파
+#HIERARCHY_CONFLICT_WEAKNESS_04
+수상쩍은 권력의 길
+#HIERARCHY_CONFLICT_ACTION_NAME_DIP
+외교적
+#HIERARCHY_CONFLICT_ACTION_NAME_SPY
+은밀한
+#HIERARCHY_CONFLICT_ACTION_NAME_STR
+강압적
+$HIERARCHY_CONFLICT_ACTION_DIP_01
+정치 살롱의 구성원들을 비판한다.
+$HIERARCHY_CONFLICT_ACTION_DIP_02
+카페 프로코프에서 신념을 비판하기
+$HIERARCHY_CONFLICT_ACTION_DIP_03
+공회 회의에서 비판적인 연설을 하십시오.
+$HIERARCHY_CONFLICT_ACTION_SPY_01
+건물에 모욕적인 그림을 그리도록 지시한다.
+$HIERARCHY_CONFLICT_ACTION_SPY_02
+비방 포스터 부착을 지시한다.
+$HIERARCHY_CONFLICT_ACTION_SPY_03
+시장에 소문을 퍼뜨린다.
+$HIERARCHY_CONFLICT_ACTION_STR_01
+적의 동조자들을 위협하십시오.
+$HIERARCHY_CONFLICT_ACTION_STR_02
+수입원을 방해하십시오.
+$HIERARCHY_CONFLICT_ACTION_STR_03
+혁명 순찰대를 보낸다.
+$HIERARCHY_WEAKNESS_TITLE
+약점: {0}
+$HIERARCHY_WEAKNESS_UNKNOWN
+<color="#ff0000">알 수 없음</color>
+$HIERARCHY_DEATH_01
+단두대 처형 선고
+$HIERARCHY_DEATH_02
+배신
+$HIERARCHY_DEATH_03
+총에 맞음
+$HIERARCHY_DEATH_04
+전투에서 전사함
+$HIERARCHY_DEATH_05
+자살
+$HIERARCHY_DEATH_06
+폭동 중에 쓰러짐
+$HIERARCHY_DEATH_07
+당신의 형제에게 살해당함
+$HIERARCHY_DEATH_08
+투옥됨
+$HIERARCHY_DEATH_09
+파리에서 도망쳤음
+$HIERARCHY_POPUP_HEADER
+{0}을(를) 쓰러뜨렸습니다
+$HIERARCHY_POPUP_MAIN
+당신은 정치적 암투에서 {0}을(를) 꺾었습니다. 당신은 서열의 정점으로 올라가고 있습니다.
+$HIERARCHY_CONFLICT_PAX_TITLE
+로베스피에르 대 롤랑
+$HIERARCHY_CONFLICT_PAX_DESCRIPTION
+로베스피에는 지롱드파를 미워하지 않습니다. 그는 단지 그들이 더 이상 쓸모없어졌으며, 야코뱅파와 프랑스를 위해 신속히 정치 무대에서 퇴장해야 한다고 생각할 뿐입니다. 하지만 롤랑은 현직 장관이자 정부 내 균형을 보장하는 인물입니다.
+$HIERARCHY_CONFLICT_001_TITLE
+뷔렐 대 로베스피에르
+$HIERARCHY_CONFLICT_001_DESCRIPTION
+로베스피에르는 자신의 앞잡이 중 한 명을 총사령관 자리에 앉히려 하고 있습니다. 누가 될지는 알 수 없지만, 뷰렐이 해임된다면 그 후임자는 틀림없이 그 청렴한 자에게 충성을 바치는 충견일 것입니다.
+$HIERARCHY_CONFLICT_002_TITLE
+엘리엇 대 에베르
+$HIERARCHY_CONFLICT_002_DESCRIPTION
+스코틀랜드 혈통 때문에 그레이스 엘리엇은 많은 애국적인 파리 시민들, 특히 에베르와 그의 ‘격분자들’에게 멸시받고 있습니다. 그들은 그녀의 간첩 행위에 대한 증거를 찾을 때까지 계속 괴롭힐 것입니다.
+$HIERARCHY_CONFLICT_003_TITLE
+당통 대 롤랑
+$HIERARCHY_CONFLICT_003_DESCRIPTION
+당통은 열광적인 군중이 그의 이름을 외치는 순간을 사랑한다. 사적으로는 롤랑을 아끼며, 대의를 위해 규칙을 굽힐 줄 아는 그의 태도를 높이 산다. 그러나 공개석상에서는 안전한 입장을 취해 롤랑의 사임을 요구한다. 롤랑 역시 쉽게 물러서지 않을 것이다. 그는 아직도 지롱드파의 지지를 받고 있으며, 그들 또한 자코뱅과의 싸움을 포기하지 않았다.
+$HIERARCHY_CONFLICT_004_TITLE
+에베르 대 롤랑
+$HIERARCHY_CONFLICT_004_DESCRIPTION
+에베르는 사냥개처럼 상처 입은 먹잇감을 냄새 맡는다. 롤랑의 배는 가라앉고, 지롱드파의 지지도 단두대 칼날만큼 위태롭다. 에베르에게는 지금이야말로 덮칠 완벽한 순간이다. 그의 정치 인생은 권력자와 부패한 자들의 몰락을 먹고 자란다. 산퀼로트들은 이런 걸 열광하고, 그들이 바로 그의 지지자들이다.
+$HIERARCHY_CONFLICT_005_TITLE
+엘리엇 대 마라
+$HIERARCHY_CONFLICT_005_DESCRIPTION
+엘리엇은 평생을 기생으로 살아오며 편협한 이들에게 수없이 모욕을 당했지만, 마라처럼 공개적으로 그녀를 깎아내린 이는 없었다. 장폴이 혼자서 그런 글을 썼다고 보기는 어렵고, 누군가의 의뢰를 받아 그 잔혹한 글을 썼을 가능성이 크다. 하지만 그게 누구의 의도였든, 그레이스 엘리엇에게는 아무런 차이가 없다. 그녀는 온 파리 앞에서 모욕을 당했고, 결코 마라를 용서하지 않을 것이다. 하지만 그 기사를 읽어보면, 정작 거짓이라 할 만한 내용은 좀처럼 찾기 어렵다…
+$HIERARCHY_CONFLICT_006_TITLE
+당통 대 다비드
+$HIERARCHY_CONFLICT_006_DESCRIPTION
+당통이 갑자기 프랑스 아카데미 재개관을 요구했습니다. 이는 아마도 그 아이디어를 지지하는 상류층의 지지를 얻기 위한 것으로 보입니다. 당신의 친구 자크-루이 다비드는 당연한 이유로 이에 반대할 것입니다. 아카데미 폐쇄를 주도한 인물이 바로 그였으니까요. 다른 이들이 그의 결정을 의심하지 못하게 하십시오. 다만, 다비드가 당통만큼 영향력이 크지 않다는 점은 명심해야 합니다.
+$HIERARCHY_CONFLICT_007_TITLE
+에베르 vs 르나르
+$HIERARCHY_CONFLICT_007_DESCRIPTION
+에베르의 사람들이 파리 곳곳을 뛰어다니며, 그들의 지도자가 왕정 복고를 꾀하는 귀족들의 음모를 밝혀냈다고 외치고 있습니다. 에베르 본인은 이 모든 배후에 그 늙은 르나르가 있다고 주장하지요. 이 이야기에 진실이 담겨 있는지, 아니면 그저 상퀼로트 특유의 망상인지 우리는 알 길이 없습니다. 르나르는 강력한 적수로, 뱀처럼 숨어 있다가 밟히면 그만큼 위험한 존재입니다.
+$HIERARCHY_CONFLICT_008_TITLE
+마라 vs 고벨
+$HIERARCHY_CONFLICT_008_DESCRIPTION
+방데의 소요는 결코 우연히 일어난 일이 아닙니다. 새로운 마녀사냥이 시작되었습니다. 마라는 고벨과 성직자들이 나라를 분열시키려는 쿠데타를 모의하고 있다고 주장합니다. 고벨은 권세가 막강하니, 아무도 마라의 성전에 동참하지 않는다면 아마 무사히 빠져나갈 것입니다.
+$HIERARCHY_CONFLICT_009_TITLE
+앙리오 대 다비드
+$HIERARCHY_CONFLICT_009_DESCRIPTION
+앙리오가 왜 다비드를 공격했는지는 알기 어렵습니다. 두 사람 모두 입을 다물고 있지만, 다비드는 “돈 때문이 아니라면, 대체 무엇 때문이겠는가?”라고 말하는 것이 들렸습니다. 요즘 시대에 명예 때문일 리는 없으니, 아마도 여자 문제겠지요. 당신의 지지자 두 명이 서로 싸우고 있습니다. 어느 한쪽을 선택해야 합니다.
+$HIERARCHY_CONFLICT_010_TITLE
+로베스피에르 대 고벨
+$HIERARCHY_CONFLICT_010_DESCRIPTION
+파리에서 가장 강력한 자리를 두고 두 거인이 맞붙는다. 행운은 대주교를 외면했고, 로베스피에는 이를 기회로 삼으려 한다. 그는 반성직자 정서를 묵인하거나, 심지어 불을 지필 수도 있다. 고벨이 무너질 때, 청렴결백한 자는 균형을 되찾으려 할 것이다. 그 균형은 오롯이 그의 손아귀에 들어가게 된다.
+$HIERARCHY_CONFLICT_011_TITLE
+드 스탈 대 마라
+$HIERARCHY_CONFLICT_011_DESCRIPTION
+요즘 여성들은 남성에게 받은 모욕을 쉽게 잊지 않는다. 드 스탈 역시 마라가 그레이스 엘리엇을 어떻게 대했는지 결코 잊지 않았다. 이제 그 수다쟁이는 자신만큼이나 파리의 부유층에 접근할 수 있는 여성을 상대해야 한다. 제르멘은 정치 살롱에서 분명히 그를 비판하고, 사임과 처벌을 요구할 것이다. 장폴은 여성이 승리하는 것을 참을 수 없는 남성들의 지지에 기대야 할 뿐이다.
+$HIERARCHY_CONFLICT_012_TITLE
+앙리오 대 에베르
+$HIERARCHY_CONFLICT_012_DESCRIPTION
+앙리오가 또다시 정치적 다툼을 시작했다. 공식적으로는 에베르가 자신의 경비대를 무시하고 그의 사람들이 거리에서 정의를 집행한다고 비난하고 있다. 하지만 상퀼로트들은 원래 늘 그래왔는데, 왜 하필 지금에서야 문제 삼는 걸까? 에베르가 그를 또 다른 방식으로 자극했음이 틀림없다. 모든 것을 알 수는 없지만, 방관할 수도 없다.
+$HIERARCHY_CONFLICT_013_TITLE
+앙리오 대 당통
+$HIERARCHY_CONFLICT_013_DESCRIPTION
+파리의 거리는 한리오가 내무부에서 경력을 쌓으려 한다는 소문으로 들끓고 있습니다. 하지만 그의 자리 이동 시도는 단통이 막아섰으니, 게으른 자가 부서에 들어오는 걸 원치 않았기 때문입니다. 이에 한리오는 단통을 몰아낼 정보를 체계적으로 모으기 시작했고, 이제는 충분히 모은 듯합니다. 만약 단통을 압박할 무언가를 쥐고 있다면, 이제 그걸…
+$HIERARCHY_CONFLICT_014_TITLE
+드 스탈 대 로베스피에르
+$HIERARCHY_CONFLICT_014_DESCRIPTION
+드 스탈이 로베스피에르에게 맞서려는 걸 보면, 자신이 얼마나 강력한 존재라고 생각하는지 알 수 있다. 어느 정치 살롱에서 제르멘은 피에 굶주린 남성들이 지배하는 사회를 비판하며, 여성에게도 혁명적 평등을 요구하는 연설을 했다. 대담한 행동이었지만, 대부분은 비웃음으로 일관했다. 분명 드 스탈은 여성이 누구든 무너뜨릴 수 있을 만큼 강하다는 것을 증명하려는 듯하고, 그녀는 그 목표로 청렴결백한 자를 선택했다.
+$HIERARCHY_CONFLICT_015_TITLE
+마라 대 르나르
+$HIERARCHY_CONFLICT_015_DESCRIPTION
+에베르에 이어 마라 역시 르나르가 앙시앵 레짐 복원을 꾀하는 귀족 음모의 수장이라고 선언한다. 하지만 수도가 혼돈과 공포에 휩싸인 지금, 음모론에 귀 기울이는 이는 없다. 오히려 이 상황에서는 귀족의 귀환이 오히려 균형을 되찾아줄지도 모른다는 생각마저 든다…

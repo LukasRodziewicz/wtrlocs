@@ -1,0 +1,220 @@
+#CHOOSE_FAMILY_ACTION
+Perform action
+#CHOOSED_ACTION
+Chosen action
+$STORY_EVENT_LABEL
+Story event
+#YoungerSon
+Frédéric
+#ElderSon
+Bernard
+#Father
+Aldric
+#LOCKED_ACTION_TOOLTIP
+You cannot change this action.
+$REVOLUTIONARIES_ICON
+Influence on Revolutionaries
+$PEOPLE_ICON
+Influence on the People
+$REPUTATION_ICON
+Influence on reputation
+$FAMILY_ICON
+Influence on family relations
+$FAMILY_ACTION_TITLE
+Relations with the family
+$FAMILY_ACTION_HEADER_PLACEHOLDER
+Choose an action from the panel on the left.
+$FAMILY_ACTION_DESC_PLACEHOLDER
+You have to choose an action to see its description.
+$FAMILY_ACTION_HEADER_COURT
+The influence of your actions in court
+$FAMILY_ACTION_DESC_COURT
+Your decisions in court can influence your relationships within the family.
+$FAMILY_ACTION_1000_TITLE
+An Evening at the Gambling Den
+$FAMILY_ACTION_1000_DESC
+You chose entertainment and booze over your family.
+$FAMILY_ACTION_1001_TITLE
+Work on Tomorrow’s Trial
+$FAMILY_ACTION_1001_DESC
+You will unlock more question effects in court.
+$FAMILY_ACTION_1002_TITLE
+Support the Construction of the Statue
+$FAMILY_ACTION_1002_DESC
+Increases the rate at which the statue is constructed.
+$FAMILY_ACTION_501_TITLE
+Dinner with Friends from the Convention
+$FAMILY_ACTION_501_DESC
+A couple of deputies will come over for dinner. How nice of you to be such a generous host. How nice of them to tell all their friends as much.
+$FAMILY_ACTION_502_TITLE
+Fund-Raising for the Orphanage
+$FAMILY_ACTION_502_DESC
+Difficult times create even more difficult childhoods. We cannot give these children their parents back, but we can give them some hope.
+$FAMILY_ACTION_601_TITLE
+Draft
+$FAMILY_ACTION_601_DESC
+There is still hope simmering in some of the refugees. Perhaps you will convince at least a couple of them to follow you into battle?
+$FAMILY_ACTION_602_TITLE
+Evening with the Soldiers
+$FAMILY_ACTION_602_DESC
+The soldiers need to see they fight under a person, not a soulless monster. Spend some time with them over a cup of something warming.
+$FAMILY_ACTION_001_TITLE
+Evening Stroll
+$FAMILY_ACTION_001_DESC
+You take your family for an evening stroll around Paris. It will let your father stretch his old bones a little.
+$FAMILY_ACTION_002_TITLE
+Evening Gambling
+$FAMILY_ACTION_002_DESC
+You should spend some time with your father every now and then. Show him your world. Perhaps he will get a taste for it?
+$FAMILY_ACTION_003_TITLE
+Demonstration
+$FAMILY_ACTION_003_DESC
+Take your sons to a pro-Revolution demonstration. Let them see real life up close.
+$FAMILY_ACTION_004_TITLE
+Viola Concerto
+$FAMILY_ACTION_004_DESC
+Bernard needs to learn how to deal with stage fright if he wants to be a professional musician. You will have to endure an hour of racket.
+$FAMILY_ACTION_005_TITLE
+Reading Together
+$FAMILY_ACTION_005_DESC
+There is nothing like sitting with your family and a good book next to a warm fire. Even though some may think it is… dull.
+$FAMILY_ACTION_006_TITLE
+Evening with Grandfather
+$FAMILY_ACTION_006_DESC
+Sit down with your father and listen to stories of days bygone.
+$FAMILY_ACTION_007_TITLE
+Paragraphs and Codes
+$FAMILY_ACTION_007_DESC
+Bernard’s musical interests notwithstanding, he needs to learn some more prospective skills. And law can be an art in its own right.
+$FAMILY_ACTION_008_TITLE
+Playtime with the Children
+$FAMILY_ACTION_008_DESC
+Spend your evening and your energy on carefree playtime with your sons. Your wife’s needs can wait.
+$FAMILY_ACTION_009_TITLE
+Political Debate
+$FAMILY_ACTION_009_DESC
+It is time for the grown men to talk about the Revolution’s achievements. It should be an interesting exchange.
+$FAMILY_ACTION_010_TITLE
+Opening Night at the Theatre
+$FAMILY_ACTION_010_DESC
+There is a new play opening tonight on the stage of the Comédie-Française. It is a good chance to take a breather from reality.
+$FAMILY_ACTION_081_TITLE
+Gambling in the Moonlight
+$FAMILY_ACTION_081_DESC
+You went with David to play cards.
+$FAMILY_ACTION_082_TITLE
+Simoneau
+$FAMILY_ACTION_082_DESC
+You attended the parade in memory of the lynched official.
+$FAMILY_ACTION_083_TITLE
+Burel and the Riot
+$FAMILY_ACTION_083_DESC
+You signed off on the use of deadly force against protesters. Your family is not all that keen on talking to you tonight.
+$FAMILY_ACTION_084_TITLE
+Wounded
+$FAMILY_ACTION_084_DESC
+You need to rest and heal after that treacherous assault.
+$FAMILY_ACTION_085_TITLE
+Evening with the Mayor
+$FAMILY_ACTION_085_DESC
+You spent the evening bamboozling Pache with overtures of friendship. Nobody felt like staying up late and waiting for you to drag your half-drunk self back home.
+$FAMILY_ACTION_086_TITLE
+Torture
+$FAMILY_ACTION_086_DESC
+You spent the evening convincing a stubborn girl and an even more stubborn politician to bend to your will.
+$FAMILY_ACTION_087_TITLE
+Son’s Death
+$FAMILY_ACTION_087_DESC
+How could you possibly go for a stroll on a day like this?
+$FAMILY_ACTION_088_TITLE
+Marie Lives
+$FAMILY_ACTION_088_DESC
+You went against your family’s demands. It is doubtful they will give you even a minute of their time today.
+$FAMILY_ACTION_089_TITLE
+Broken Bank
+$FAMILY_ACTION_089_DESC
+You used up all of your family’s savings to bribe Béatrice. It is hard for them not to feel resentful.
+$FAMILY_ACTION_101_TITLE
+Evening Stroll
+$FAMILY_ACTION_101_DESC
+You take your family for an evening stroll around Paris. Or rather, what’s left of your family…
+$FAMILY_ACTION_102_TITLE
+Viola Concerto
+$FAMILY_ACTION_102_DESC
+Bernard needs to learn how to deal with stage fright if he wants to be a professional musician. Your family’s last ray of hope…
+$FAMILY_ACTION_103_TITLE
+Paragraphs and Codes
+$FAMILY_ACTION_103_DESC
+Bernard’s musical interests notwithstanding, he needs to learn some more prospective skills. Law can be an art in its own right, and due to the recent circumstances, Bernard is likely to be the sole provider for his ageing parents in the future.
+$FAMILY_ACTION_104_TITLE
+Political Debate
+$FAMILY_ACTION_104_DESC
+It is time for the grown men to talk about the Revolution’s achievements. It should be an interesting exchange. In light of your younger son’s death, it might go differently than usual.
+$FAMILY_ACTION_105_TITLE
+Visiting Frédéric’s Grave
+$FAMILY_ACTION_105_DESC
+Each visit twists the knives in your hearts. Some want to remember, some hasten to forget.
+$FAMILY_ACTION_106_TITLE
+Reading Together
+$FAMILY_ACTION_106_DESC
+There is nothing like sitting with your family and a good book next to a warm fire. Even though some may think it is… dull.
+$FAMILY_ACTION_107_TITLE
+Opening Night at the Theatre
+$FAMILY_ACTION_107_DESC
+There is a new play opening tonight on the stage of the Comédie-Française. Perhaps laughter will be a good remedy for grief.
+$FAMILY_ACTION_108_TITLE
+Shopping
+$FAMILY_ACTION_108_DESC
+Stereotypical or not, perhaps this simple pleasure will put a little joy in Mathilde’s torn heart?
+$FAMILY_ACTION_109_TITLE
+Café Procope
+$FAMILY_ACTION_109_DESC
+You gather the Fidèle men and attend a political debate at the one and only Café Procope. Hopefully this time there will not be any fistfights.
+$FAMILY_ACTION_110_TITLE
+Cleaning Out the Attic
+$FAMILY_ACTION_110_DESC
+The attic has grown dusty and cluttered. Mathilde has not been very energetic about housekeeping lately, not that one can blame her. Let the male part of the family roll up their sleeves and clean.
+$FAMILY_ACTION_181_TITLE
+After the Ball
+$FAMILY_ACTION_181_DESC
+While you were enjoying yourself at the ball, your family went out on the town.
+$FAMILY_ACTION_182_TITLE
+Fire and Water
+$FAMILY_ACTION_182_DESC
+You were busy getting Danton and Hébert to cooperate, there was no time left for your family - everyone is already asleep.
+$FAMILY_ACTION_183_TITLE
+True Enemy
+$FAMILY_ACTION_183_DESC
+Can you imagine inviting anyone to spend quality time together when your son just became an invalid?
+$FAMILY_ACTION_184_TITLE
+The Judge’s True Face
+$FAMILY_ACTION_184_DESC
+Marat dragged your sins into the daylight. Your loved ones stopped meeting your eyes.
+$FAMILY_ACTION_185_TITLE
+The Judge’s True Face 2
+$FAMILY_ACTION_185_DESC
+Marat continues his onslaught from beyond the grave. Your family’s contempt for you deepens even more.
+$FAMILY_ACTION_186_TITLE
+Wounds on the inside
+$FAMILY_ACTION_186_DESC
+You saved your son's hands. But the silence in your house is acute, any tiny murmur gets investigated. Everyone is unnaturally alert - as if the nightmare could come back any second.
+$FAMILY_ACTION_201_TITLE
+Safe Path
+$FAMILY_ACTION_201_DESC
+When he was younger, Bernard would often sneak out and explore Paris’ streets. Perhaps now his knowledge could help in saving refugees’ lives.
+$FAMILY_ACTION_202_TITLE
+Dinner with Officers
+$FAMILY_ACTION_202_DESC
+A warm, home-cooked meal under a real roof would do your most dependable officers a lot of good. Your wife has always been an excellent cook.
+$FAMILY_ACTION_203_TITLE
+Provisions and Medicine
+$FAMILY_ACTION_203_DESC
+Those who chose to stay cannot just idly watch the soldiers fight. They need to contribute… with whatever they have left.
+$FAMILY_ACTION_204_TITLE
+Barricades
+$FAMILY_ACTION_204_DESC
+Furniture, rubble, barrels: everything can be used to build barricades. Let us provide protection for our troops and block off the strategic points.
+$FAMILY_ACTION_281_TITLE
+Abandoned
+$FAMILY_ACTION_281_DESC
+Your reputation is so low that nobody wants to spend time with you. Only your father is by your side, as always.

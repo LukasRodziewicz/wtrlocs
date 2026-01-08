@@ -1,0 +1,182 @@
+$GEN_041_DOC_01_HEADER
+Compiled by: Nathan d’Essiraf
+$GEN_041_DOC_01_00
+Alain Bras, a 37-year-old widower, is employed as a carter in one of the warehouses at the Grenoüillere port. He has been working there for two years now. The accused is famous for his <a name="1" class="hidden">bold driving style</a> that enables him to deliver goods faster than his colleagues.
+$GEN_041_DOC_01_01
+Bras has been accused of killing five-year-old Marcel Gide with his cart. The boy died shortly after the accident due to extensive head injuries. Bras is accused of not only running over the boy, but also for not stopping to help him.
+$GEN_041_DOC_01_02
+According to witnesses, Bras had been seen <a name="2" class="hidden">driving his cart</a> at ridiculously high speeds on <a name="3" class="hidden">rue du Croissant</a>, where Marcel's body was found. An examination of the body left no room for doubt – only a speeding cart could damage it to such an extent.
+$GEN_041_DOC_01_03
+Bras was detained an hour and a half after the discovery of the body. He was waiting for his goods to be unloaded in front of The Merry Wolf inn. The accused was <a name="4" class="hidden">completely drunk</a>, and could barely stand on his own. The back wheels of his cart were <a name="5" class="hidden">covered in fresh blood</a>.
+$GEN_041_DOC_01_04
+The devastated mother of Marcel, Jeanne Gide, demands severe punishment for the murderer.
+$GEN_041_OnStart_00
+Citizen, what is your name?
+$GEN_041_OnStart_01
+My name is Alain Bras.
+$GEN_041_OnStart_02
+You are accused of causing a fatal accident at the junction of rue du Gros Chenet and rue du Croissant. You have the blood of a five-year-old on your hands.
+$GEN_041_OnStart_03
+I swear I didn’t run over that little boy!
+$GEN_041_OnStart_04
+Not showing repentance or a willingness to cooperate are not mitigating factors.
+$GEN_041_OnStart_05
+Don’t waste our time, he’s guilty!
+$GEN_041_OnGuilty_00
+I sentence Citizen Alain Bras to death by guillotine! Take the convict away.
+$GEN_041_OnGuilty_01
+An eye for an eye!
+$GEN_041_OnGuilty_02
+A lenient sentence for what he did.
+$GEN_041_OnPrison_00
+I sentence Citizen Alain Bras to prison! Lead the condemned out.
+$GEN_041_OnPrison_01
+I hope he rots there!
+$GEN_041_OnPrison_02
+He should lose his head!
+$GEN_041_OnPrison_03
+So, the parents have lost a child, yet that scum lives? It does not seem fair.
+$GEN_041_OnNotGuilty_00
+The judgement for Alain Bras is… not guilty! Take the defendant away.
+$GEN_041_OnNotGuilty_01
+Meanwhile, the child’s mother is crying her eyes out! What happened to justice?!
+$GEN_041_OnNotGuilty_02
+I cannot agree. He is guilty, everyone knows that!
+$GEN_041_02x05_00_QTitle
+There was blood on the back wheels of your cart. Where did it come from?
+$GEN_041_02x05_00_00
+There was blood on the back wheels of your cart. Where did it come from?
+$GEN_041_02x05_00_01
+It was from a dog. I ran over one near The Merry Wolf.
+$GEN_041_02x05_00_02
+Really? Everything indicates that it was in fact the blood of the minor who was run over by the accused.
+$GEN_041_02x05_00_03
+Impossible! I’d know if a kid fell under my wheels.
+$GEN_041_02x05_00_04
+A five-year-old child is much the same size as a large dog. Maybe you were not looking carefully?
+$GEN_041_02x05_00_05
+No way, I heard the barking.
+$GEN_041_02x05_00_06
+He was so steeped in wine that he wouldn’t know a child from a cow!
+$GEN_041_02x03_01_QTitle
+Did you ride through rue du Croissant?
+$GEN_041_02x03_01_00
+Did you ride through rue du Croissant?
+$GEN_041_02x03_01_01
+Sure I did. I had to turn from rue du Gros Chenet to get the goods to the inn.
+$GEN_041_02x03_01_02
+And I believe you did not take the time to sightsee?
+$GEN_041_02x03_01_03
+You mean I was rushing? Of course I was! Time was scarce, clients were waiting, no time to lose.
+$GEN_041_02x03_01_04
+No time to lose, because…?
+$GEN_041_02x03_01_05
+Well… because the goods have to be delivered on time, right?
+$GEN_041_02x03_01_06
+So you risked having an accident?
+$GEN_041_02x03_01_07
+The thirsty fellow rushed to the bottle.
+$GEN_041_02x03_01_08
+So you admit to driving as fast as the horses would let you?
+$GEN_041_02x03_01_09
+Yeah, sure, but it doesn’t make me a killer. There are other carters in Paris, it could have been one before or after I passed.
+$GEN_041_02x03_01_10
+Right, pin this on someone else, you bastard!
+$GEN_041_03x04_02_QTitle
+How much did you drink before starting your route that Friday?
+$GEN_041_03x04_02_00
+How much did you drink before starting your route that Friday?
+$GEN_041_03x04_02_01
+One small glass, monsieur le juge.
+$GEN_041_03x04_02_02
+So when you arrived at rue du Croissant, you were already under the influence of alcohol?
+$GEN_041_03x04_02_03
+My friend, I’m a big chap. One glass of wine is like water to me. I was driving sober, like always.
+$GEN_041_03x04_02_04
+I bet he’s always three sheets to the wind when he’s jumping on that cart.
+$GEN_041_03x04_02_05
+Yet you were completely drunk when the authorities found you outside The Merry Wolf.
+$GEN_041_03x04_02_06
+It was the end of my route, and the kind host brought me a bottle of brandy. Of course, I immediately dealt with it. I’d finished work, right?
+$GEN_041_03x04_02_07
+He drank to silence his conscience!
+$GEN_041_03x04_02_08
+Were you in a hurry to have a drink after a rough day’s work?
+$GEN_041_03x04_02_09
+I mean, yeah, that's nor… Wait, no, nothing like that.
+$GEN_041_01x02_03_QTitle
+You probably would not call yourself a careful carter, would you?
+$GEN_041_01x02_03_00
+You probably would not call yourself a careful carter, would you?
+$GEN_041_01x02_03_01
+I have to arrive at a certain place at a certain time. That’s the job, and it’s not for slowcoaches.
+$GEN_041_01x02_03_02
+Are all carters rushing at such a speed that they do not notice children playing in the streets?
+$GEN_041_01x02_03_03
+I didn’t run over anyone! It could have been any carter in Paris.
+$GEN_041_01x04_04_QTitle
+Do you drive better after alcohol?
+$GEN_041_01x04_04_00
+Do you drive better after alcohol?
+$GEN_041_01x04_04_01
+Dunno, but you should have a glass on an empty stomach for health. Without it, your hands are too shaky to hold the reins properly.
+$GEN_041_01x04_04_02
+Have you ever tried to drive without it?
+$GEN_041_01x04_04_03
+Hey, what are you suggesting? I’m no drunkard!
+$GEN_041_01x04_04_04
+Look at him, all proud!
+$GEN_041_01x04_04_05
+Enough with that chatter, behead him already!
+$GEN_041_02x04_05_QTitle
+Do you drink a lot?
+$GEN_041_02x04_05_00
+Do you drink a lot?
+$GEN_041_02x04_05_01
+A tot more since my wife died, though no more than other carters. It comes with the job.
+$GEN_041_02x04_05_02
+So you often drive intoxicated?
+$GEN_041_02x04_05_03
+They’d kick me out if I did! I have no more than a glass or two before the job starts. The party only starts after I finish working.
+$GEN_041_02x04_05_04
+No more than two? Would you like to be driven by a drunk carter?
+$GEN_041_02x04_05_05
+What do I care? I’m too poor to be driven, anyway.
+$GEN_041_02x04_05_06
+He doesn’t care.
+$GEN_041_KEY_01
+Bold driving style
+$GEN_041_KEY_02
+Driving a cart
+$GEN_041_KEY_03
+Rue du Croissant
+$GEN_041_KEY_04
+Drunk carter
+$GEN_041_KEY_05
+Fresh blood
+$GEN_041_LastDialog_00
+No, no, no, it wasn’t me!
+$GEN_041_UNIQUE_QUESTION_00
+How did Bras explain the blood on the wheels of his vehicle?
+$GEN_041_UNIQUE_ANSWER_CORRECT_00_00
+He ran over a dog.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_00_00
+He was bleeding.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_00_01
+It was entrapment, prepared by the Guard.
+$GEN_041_UNIQUE_QUESTION_01
+Did the defendant admit to drinking anything before he hit the road?
+$GEN_041_UNIQUE_ANSWER_CORRECT_01_00
+One small glass.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_01_00
+A glass of beer.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_01_01
+A few sips of wine.
+$GEN_041_UNIQUE_QUESTION_02
+Why did the defendant drive so fast?
+$GEN_041_UNIQUE_ANSWER_CORRECT_02_00
+He wanted to deliver the goods on time.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_02_00
+He was hurrying to see his family.
+$GEN_041_UNIQUE_ANSWER_NOT_CORRECT_02_01
+He had a bet with a friend.

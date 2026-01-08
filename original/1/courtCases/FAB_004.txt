@@ -1,0 +1,246 @@
+$FAB_004_DOC_1_HEADER
+Compiled by: Nathan d’Essiraf
+$FAB_004_DOC_1_00
+The defendant is Olivier Mugler, a 65-year-old <a name="1" class="hidden">master locksmith</a> who is famed among Parisian burglars as an expert on unopenable locks.
+$FAB_004_DOC_1_01
+Last month, he was commissioned by the owners of a Parisian glassworks – Jean Rude, Louis Roux, and Ferdinand Salan – to <a name="2" class="hidden">construct locks</a> for ornate chests for valuables, presumably as gifts for their wives. The craftsman praised his latest creation as “thief-proof”. Shortly following their completion, the industrialists’ houses were hit by <a name="3" class="hidden">a series of burglaries</a> committed by a recent newcomer to Paris, Hector Vian. The <a name="4" class="hidden">thief from Orleans</a> was caught in the act and shot by Ferdinand Salan.
+$FAB_004_DOC_1_02
+An expensive Turgot map of Paris with the <a name="5" class="hidden">houses</a> of the recently robbed industrialists marked on it was found on the deceased. Surprisingly, Salan had given Mugler an identical map as advance payment. This deposit was in addition to the agreed remuneration from all the employers.
+$FAB_004_DOC_1_03
+Further interesting information came from the owner of the Ginger Margot Inn. She recalled that on the night preceding the burglary, the locksmith met there with a man she didn’t recognise. Based on her description we were able to identify him as the aforementioned Hector Vian. The men allegedly engaged in an <a name="7" class="hidden">evening of drinking</a> sponsored by Mugler.
+$FAB_004_DOC_1_04
+Evidence:
+$FAB_004_DOC_1_05
+<a name="8" class="hidden">A map of Paris</a> found on Hector Vian.
+$FAB_004_OnStart_00
+Robbing the bourgeoisie is no crime!
+$FAB_004_OnStart_01
+According to the case file, you are Citizen Olivier Mugler. Is that correct?
+$FAB_004_OnStart_02
+Indeed it is, monsieur le juge. May I have a request? I would like to sit down. I’m an old man you see…
+$FAB_004_OnStart_03
+Basic respect for the judiciary requires that you remain standing. Do the names Salan, Rude, and Roux mean anything to you?
+$FAB_004_OnStart_04
+Why are you so determined to harass an old man?
+$FAB_004_OnStart_05
+They sound like the names of my debtors.
+$FAB_004_OnStart_06
+Debtors? They are the victims of activities you conducted.
+$FAB_004_OnStart_07
+You mean locksmithing?
+$FAB_004_OnPrison_00
+I sentence Citizen Mugler to prison! Take the convict away.
+$FAB_004_OnPrison_01
+Outrageous!
+$FAB_004_OnPrison_02
+How can you do that to an innocent man?
+$FAB_004_OnPrison_03
+We have the clues, strong evidence… and a convenient verdict – for the Judge, at least. But are you completely certain of his guilt?
+$FAB_004_OnNotGuilty_00
+The verdict for Citizen Olivier Mugler is… not guilty! Lead the defendant away.
+$FAB_004_OnNotGuilty_01
+Bravo, Mugler!
+$FAB_004_OnNotGuilty_02
+Away with the bourgeoisie!
+$FAB_004_OnNotGuilty_03
+To be honest, this does bear the marks of social justice – they would not pay him, so he had them robbed. There is balance here.
+$FAB_004_02x05_00_QTitle
+You were commissioned by the victims to make chest locks…
+$FAB_004_02x05_00_00
+You were commissioned by the victims to make chest locks. Who installed them?
+$FAB_004_02x05_00_01
+It was me, naturally, and all in agreement with the contract. My job was to prepare and install the locks, and the employer was only to come and see whether the work was completed. And pay, of course.
+$FAB_004_02x05_00_02
+Was the installation carried out at your workshop?
+$FAB_004_02x05_00_03
+No, on site, at the client's property. None of those idlers bothered to deliver the trunks to my workshop, so I had to strain my old legs.
+$FAB_004_02x05_00_04
+Does that mean you knew the addresses of the victims?
+$FAB_004_02x05_00_05
+How else would I get there? Blindfolded and on a wagon?
+$FAB_004_04x07_01_QTitle
+Did you know Hector Vian before?
+$FAB_004_04x07_01_00
+Did you know Hector Vian before?
+$FAB_004_04x07_01_01
+This is the first time I’ve heard the name.
+$FAB_004_04x07_01_02
+That is interesting, as you were seen draining several bottles of wine together at the Ginger Margot Inn.
+$FAB_004_04x07_01_03
+Is that a crime?
+$FAB_004_04x07_01_04
+No, but the question is, why are you denying it now? Was your drinking spree just a deception for discussing the burglary?
+$FAB_004_04x07_01_05
+Nobody I had a drink with introduced themselves as Hector. I didn’t plan any heist with a Hector, Victor, or Hugo. I’m a locksmith and I earn good money from it. Burglaries are for vagrants without a job.
+$FAB_004_06x08_02_QTitle
+Do you recognise this map?
+$FAB_004_06x08_02_00
+Do you recognise this map?
+$FAB_004_06x08_02_01
+No. I don’t recall ever seeing it before.
+$FAB_004_06x08_02_02
+Ferdinand Salan claims that he gave you this map as advance payment for your services.
+$FAB_004_06x08_02_03
+He claims what?! That wicked wretch of a second-rate merchant! He gave me a scrap of paper as payment for making three locks, and says it’s supposed to be worth more than the 3,000 francs he owes me?!
+$FAB_004_06x08_02_04
+An honest labourer is being judged, while frauds remain at large!
+$FAB_004_06x08_02_05
+Silence! So this map does belong to you?
+$FAB_004_06x08_02_06
+It doesn’t.
+$FAB_004_06x08_02_07
+So where is the map that you received from Citizen Salan?
+$FAB_004_06x08_02_08
+I lost it, but it wasn’t even worth a loaf of bread, so I surely won’t shed a tear. But if you have it, maybe you stole it from me! You’d better make a note that Olivier Mugler demands remuneration from Rude, Roux, and Salan!
+$FAB_004_05x08_03_QTitle
+Were you the one who marked the addresses of the three victims on the map?
+$FAB_004_05x08_03_00
+Were you the one who marked the addresses of the three victims on the map?
+$FAB_004_05x08_03_01
+I didn’t mark anything.
+$FAB_004_05x08_03_02
+The houses of your clients are marked on the map.
+$FAB_004_05x08_03_03
+I don’t know who marked them. Maybe you should ask the person you found the map on.
+$FAB_004_05x08_03_04
+Maybe the court made the marks and has no memory of doing so?
+$FAB_004_05x08_03_05
+Do you not think there are too many coincidences in your story? You obtain the map, but lose it, and then it is found on the thief who has robbed your clients?
+$FAB_004_05x08_03_06
+I know nothing of coincidences. I only make locks.
+$FAB_004_01x02_04_QTitle
+How much did you charge for your services?
+$FAB_004_01x02_04_00
+How much did you charge for your services?
+$FAB_004_01x02_04_01
+3,000 francs.
+$FAB_004_01x02_04_02
+Tidy sum, that is…
+$FAB_004_01x02_04_03
+If you were a master locksmith you’d charge that much too.
+$FAB_004_01x02_04_04
+That is quite a substantial fee…
+$FAB_004_01x02_04_05
+Indeed. That’s how much it costs to have high-quality locks made by a master with nearly 50 years of experience. And those bastards never paid me a single franc!
+$FAB_004_01x02_04_06
+The victims did not pay you the agreed amount?
+$FAB_004_01x02_04_07
+Not a franc. I’d beat that money right out of them, but I’m too old for that.
+$FAB_004_04x06_05_QTitle
+Did you give Hector Vian the map…?
+$FAB_004_04x06_05_00
+Did you give Hector Vian the map with the victims’ houses marked on it?
+$FAB_004_04x06_05_01
+I gave nothing to Achilles, Hector, or any other Greek.
+$FAB_004_04x06_05_02
+Call in the witness, Citizen Jean Rude.
+$FAB_004_04x06_05_04
+Jean Rude, in the flesh.
+$FAB_004_04x06_05_05
+You will not speak unless called upon.
+$FAB_004_04x06_05_06
+Naturally, of course.
+$FAB_004_01x03_06_QTitle
+Rumour has it that you are one of the best locksmiths in Paris.
+$FAB_004_01x03_06_00
+Rumour has it that you are one of the best locksmiths in Paris.
+$FAB_004_01x03_06_01
+I should deny it for modesty’s sake, but I will not.
+$FAB_004_01x03_06_02
+That cannot be true, though, as a random thief from Orleans was easily able to open your locks.
+$FAB_004_01x03_06_03
+Well, then he must've been one of the best thieves in Orleans. Let's be serious, monsieur le juge, every lock can be picked with the right talents, even my locks.
+$FAB_004_02x04_07_QTitle
+Did you tell Hector Vian how to open…?
+$FAB_004_02x04_07_00
+Did you tell Hector Vian how to open the locks in the victims’ trunks?
+$FAB_004_02x04_07_01
+I understand what you’re implying, but consider this – if he sold the secret of my locks, then my business would be over. Word spreads fast among thieves.
+$FAB_004_WIT_00_A_QTitle
+What went missing during the burglary?
+$FAB_004_WIT_00_A_00
+What went missing during the burglary?
+$FAB_004_WIT_00_A_01
+My house was the first one to be robbed, and in my case it was mostly valuables. At Roux’s house – he will not say it himself and I do not want to go to prison – it was the letters he had exchanged over the years with King Louis…
+$FAB_004_WIT_00_A_02
+Damn Monarchist!
+$FAB_004_WIT_00_A_03
+Salan did not lose a thing, he shot that vermin in the act. That is what he said.
+$FAB_004_WIT_00_A_04
+What happened to the items he had stolen?
+$FAB_004_WIT_00_A_05
+That still remains unknown. According to Salan, Hector had nothing with him. Ferdinand suspects he had hidden the other valuables somewhere.
+$FAB_004_WIT_00_A_06
+He hid the other items before robbing the last house? Strange.
+$FAB_004_WIT_01_A_QTitle
+You look upset. What are you afraid of?
+$FAB_004_WIT_01_A_00
+You look upset. What are you afraid of?
+$FAB_004_WIT_01_A_01
+Monsieur le juge, that crowd behind me, and, you know…
+$FAB_004_WIT_01_A_02
+Know what?
+$FAB_004_WIT_01_A_03
+I do not want to go to prison, and Salan said that if I were to talk nonsense in court, I would be sentenced to a few years. Is that true?
+$FAB_004_WIT_01_A_04
+Citizen Ferdinand Salan instructed you on what to testify?
+$FAB_004_WIT_01_A_05
+No. Well, he might have offered some suggestions on how not to get into trouble by speaking gibberish. I am a rather nervous person, and I sometimes struggle to make sense.
+$FAB_004_WIT_01_A_07
+A fool more than a witness. That’s our bourgeoisie.
+$FAB_004_WIT_01_B_QTitle
+Advance payment in the form of a map, its disappearance, the murder of a burglar, and a lack of payment for services.
+$FAB_004_WIT_01_B_00
+Advance payment in the form of a map, its disappearance, the murder of a burglar, and a lack of payment for services. It all makes for a rather strange story. A suspicious one too.
+$FAB_004_WIT_01_B_01
+I do not…
+$FAB_004_WIT_01_B_02
+What are you mumbling?
+$FAB_004_WIT_01_B_03
+If I say… something… will I be free?
+$FAB_004_WIT_01_B_04
+He knows something!
+$FAB_004_WIT_01_B_05
+Please testify what you know immediately!
+$FAB_004_WIT_01_B_06
+That map was Salan’s idea. He told the thief about the advance payment we gave to the locksmith and proposed that Hector steal it.
+$FAB_004_WIT_01_B_07
+And he did?
+$FAB_004_WIT_01_B_08
+Indeed, but then the bastard robbed us! Later, we were forced by Salan not to pay the locksmith because he sent the thief after us. And that’s when it all went down the drain.
+$FAB_004_WIT_01_B_09
+That’s the bourgeoisie for you! He fooled them all in one fell swoop.
+$FAB_004_WIT_01_B_10
+It sounds like Citizen Salan had everything planned. However, there is no evidence to support the claim. Perhaps it is Citizen Rude that is plotting against his partner and wants to frame him?
+$FAB_004_WIT_01_B_11
+And Vian is dead, so he will not be able shed light on any of this.
+$FAB_004_WIT_01_B_13
+If I was younger, I’d give that Salan a drubbing. That pig, that good-for-nothing, lying bastard!
+$FAB_004_WIT_01_B_14
+Please, restrain yourself. The testimony of a witness is still not evidence – neither of Citizen Salan’s guilt, nor of your innocence.
+$FAB_004_KEY_01
+Master locksmith
+$FAB_004_KEY_02
+Lock construction
+$FAB_004_KEY_03
+Series of burglaries
+$FAB_004_KEY_04
+Famous thief
+$FAB_004_KEY_05
+Marks on the map
+$FAB_004_KEY_06
+Advance payment
+$FAB_004_KEY_07
+Drunken evening
+$FAB_004_KEY_08
+Map of Paris
+$FAB_004_postCourt_00
+Look, an authentic map by Turgot. It would be a pity if it rotted in a safe-deposit box…
+$FAB_004_postCourt_01
+We cannot do that.
+$FAB_004_postCourt_02
+These are court deposits.
+$FAB_004_postCourt_03
+Well, Mathilde did tell me long ago to take care of my study at home…
+$FAB_004_postCourt_04
+There you go. I know someone who can remove these marks without damaging the map.

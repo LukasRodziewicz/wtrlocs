@@ -1,0 +1,288 @@
+$GEN_035_DOC_01_HEADER
+Compilado por: Nathan d'Essiraf
+$GEN_035_DOC_01_00
+Diante do tribunal está Fabrice Cerdan, acusado de <a name="1" class="hidden">incitar um motim</a> no <a name="2" class="hidden">mercado da rua Cler</a>. O réu é um aprendiz de alfaiate de 18 anos que trabalha para Morel Gareau, ex-alfaiate pessoal da Baronesa de Ronsard. Devido à situação provocada pelas ações do acusado, o sargento Charles Le Vau, <a name="3" class="hidden">membro da Guarda Nacional</a>, foi espancado. O próprio Cerdan participou do motim. Ele foi pego em flagrante e, curiosamente, estava <a name="4" class="hidden">vestido de mulher</a>.
+$GEN_035_DOC_01_01
+O depoimento mais comprometedor veio de Sylvie Martin, <a name="5" class="hidden">uma quitandeira</a>. Ela precisou ser arrancada à força do sargento Le Vau, já bastante machucado, assim como outros revoltosos — para nossa surpresa, quase todas mulheres.
+$GEN_035_DOC_01_02
+Martin declarou que o aprendiz de alfaiate perambulava entre as barracas, gritando de forma dramática que o sargento Le Vau <a name="6" class="hidden">tentou estuprá-lo</a>, e que seus superiores se recusaram a fazer justiça pelo crime.
+$GEN_035_DOC_01_03
+Num gesto de solidariedade, Sylvie Martin e as outras mulheres presentes no mercado atacaram o sargento Le Vau, que patrulhava a pé nas proximidades. Os soldados ficaram tão surpresos com o ataque feminino que logo foram desarmados e espancados. Dizem que Cerdan também participou ativamente dos maus-tratos contra o guarda. Para ser exato, foi visto acertando-lhe um chute na virilha. Pode parecer algo trivial, mas a vítima sofreu ferimentos graves.
+$GEN_035_DOC_01_04
+A Guarda Nacional, junto com vários deputados, exige a pena capital para o responsável por incitar o motim.
+$GEN_035_OnStart_00
+Pervertido! Correndo por aí com roupas de mulher!
+$GEN_035_OnStart_01
+Devo admitir que raramente recebemos pessoas como você aqui. Por favor, apresente-se.
+$GEN_035_OnStart_02
+Bem... Eu sou Cerdan. Fabrice Cerdan, monsieur le juge.
+$GEN_035_OnStart_03
+Tem certeza?
+$GEN_035_OnStart_04
+Sim, Fabrice. Fabrice, um cara absolutamente normal. Aprendiz de alfaiate, quero dizer. Aquele vestido foi... só uma brincadeira.
+$GEN_035_OnStart_05
+O réu é acusado de incitar uma multidão a atacar um oficial da Guarda Nacional e, em seguida, participar desse ataque. Ele também acha isso uma piada?
+$GEN_035_OnStart_06
+Como promotor, exijo a pena máxima pelo ataque a um soldado da República.
+$GEN_035_OnStart_07
+Agressão? Eu não agredi ninguém, eu juro!
+$GEN_035_OnStart_08
+Então quem estava correndo pelo mercado gritando que o sargento Le Vau é um estuprador?
+$GEN_035_OnGuilty_00
+Condeno o cidadão Fabrice Cerdan à guilhotina! Levem o condenado.
+$GEN_035_OnGuilty_01
+Bravo!
+$GEN_035_OnGuilty_02
+Que role a cabeça dele!
+$GEN_035_OnPrison_00
+Condeno o cidadão Fabrice Cerdan à prisão! Levem o condenado.
+$GEN_035_OnPrison_01
+Não pode decapitá-lo?
+$GEN_035_OnPrison_02
+Quero ver quais “piadas” ele vai contar quando sair da prisão.
+$GEN_035_OnNotGuilty_00
+O veredito no caso de Fabrice Cerdan é... inocente! O réu está livre para ir.
+$GEN_035_OnNotGuilty_01
+Inaceitável!
+$GEN_035_OnNotGuilty_02
+E a Sylvie ainda está presa!
+$GEN_035_OnNotGuilty_03
+Onde está a justiça?!
+$GEN_035_OnNotGuilty_04
+Protesto! Permitir que o réu saia impune após agredir um soldado francês é um crime.
+$GEN_035_02x04_00_QTitle
+Por que o réu estava andando pelo mercado da rua Cler usando um vestido?
+$GEN_035_02x04_00_00
+Por que o réu estava andando pelo mercado da rua Cler usando um vestido?
+$GEN_035_02x04_00_01
+Fiquei com vontade de comer sopa de cebola, então fui às compras.
+$GEN_035_02x04_00_02
+Palhaço!
+$GEN_035_02x04_00_03
+Mas por que de vestido?
+$GEN_035_02x04_00_04
+Era um disfarce! Essas velhas mercadoras, que a lepra as leve, de outro jeito não me venderiam nada.
+$GEN_035_02x04_00_05
+Poderia explicar melhor?
+$GEN_035_02x04_00_06
+Aquela vaca gorda da Sylvie Martin rasgou o próprio vestido e saiu espalhando pela rue Cler inteira que a culpa era nossa. Ela e aquelas velhas tolas do mercado que acreditaram nela acabaram com o nosso negócio.
+$GEN_035_02x04_00_07
+Não ouse insultar a Sylvie, seu alfaiate de quinta categoria!
+$GEN_035_02x04_00_08
+Entendo. Mas por que eles não lhe serviriam?
+$GEN_035_02x04_00_09
+Porque começamos a espalhar a ideia de que comer os legumes deles faria crescer pelos entre os dedos dos pés. Eu achei hilário, mas eles não concordaram.
+$GEN_035_01x06_01_QTitle
+Havia algum motivo para o réu querer incitar a multidão contra o sargento?
+$GEN_035_01x06_01_00
+Havia algum motivo para o réu querer incitar a multidão contra o sargento? Talvez vingança?
+$GEN_035_01x06_01_01
+De jeito nenhum! Ele era nosso cliente, pelo amor de Deus! Fomos nós que fizemos o uniforme dele, esse mesmo em que está sentado agora, tão confortável quanto se fosse o próprio imperador romano!
+$GEN_035_01x06_01_02
+Testemunhas afirmaram que você o chutou em uma das partes mais sensíveis do corpo.
+$GEN_035_01x06_01_03
+Eu nunca chutei esse idiota!
+$GEN_035_01x06_01_04
+Senhor juiz, objeção! O réu não deve usar tais epítetos ao se referir a um oficial da Guarda Nacional!
+$GEN_035_01x06_01_05
+Cale a boca dele com o seu cassetete!
+$GEN_035_01x06_01_06
+O réu deve medir suas palavras. Então houve um conflito entre o réu e a vítima?
+$GEN_035_01x06_01_07
+Conflito? Aquele canalha nunca pagou meu patrão pelo uniforme! Ei, Le Vau, já que está aqui, me passa logo os 300 francos, vai. Assim você poupa uma caminhada depois.
+$GEN_035_01x06_01_08
+Isso é calúnia, monsieur le juge!
+$GEN_035_01x06_01_09
+Calúnia, uma ova! Você está de farda ou não? E quem vai pagar por ela? Ninguém! Na verdade, até fico feliz que aquelas senhoras tenham arranhado esse seu rostinho bonito.
+$GEN_035_01x06_01_10
+No momento, quem está sendo julgado é você, cidadão Cerdan, então poupe-nos de mais encenações.
+$GEN_035_03x05_02_QTitle
+O sargento Le Vau realmente estuprou o réu?
+$GEN_035_03x05_02_00
+O sargento Le Vau realmente estuprou o réu?
+$GEN_035_03x05_02_01
+O quê?! Que absurdo. Eu só vesti o vestido por diversão. Eu prefiro as mulheres!
+$GEN_035_03x05_02_02
+Mentiras e mais mentiras! As testemunhas ouviram você descrever tudo em detalhes!
+$GEN_035_03x05_02_03
+De fato, houve vários testemunhos de que o réu falava sobre estupro na rua Cler.
+$GEN_035_03x05_02_04
+Provavelmente ele só estava desejando isso.
+$GEN_035_03x05_02_05
+O que você espera de um camponês estranho usando vestido...
+$GEN_035_03x05_02_06
+O que aconteceu com os homens de verdade?
+$GEN_035_03x05_02_07
+Eu não gritei nada – foi aquela vaca gorda da Martin. Ela inventou tudo isso para se vingar do Le Vau usando os outros comerciantes. Todo o mercado sabe que ela é apaixonada por ele, mas ele deu um fora nela.
+$GEN_035_03x05_02_08
+Ele está mentindo de novo. Os outros depoimentos contam uma história completamente diferente.
+$GEN_035_03x05_02_09
+Você que é a vaca gorda!
+$GEN_035_03x05_02_10
+Silêncio! A vítima deseja comentar sobre isso?
+$GEN_035_03x05_02_11
+Tenho uma noiva, monsieur le juge. Não me recordo de nenhuma investida da Cidadã Martin e, para ser sincero, não sei nada sobre a vida amorosa dela.
+$GEN_035_03x05_02_12
+A vítima conhece Sylvie Martin?
+$GEN_035_03x05_02_13
+Conheço todas as feirantes. Às vezes ela me vende legumes para a sopa.
+$GEN_035_01x05_03_QTitle
+Chame a testemunha, Sylvie Martin.
+$GEN_035_01x05_03_00
+Chame a testemunha, Sylvie Martin.
+$GEN_035_01x05_03_02
+Por favor, apresente-se.
+$GEN_035_01x05_03_03
+Sylvie Martin.
+$GEN_035_01x05_03_04
+Gostaria de lembrar à testemunha que seu envolvimento neste caso não está relacionado à acusação de agressão ao sargento Le Vau.
+$GEN_035_01x05_03_05
+O depoimento que prestará deve ser a verdade, somente a verdade e nada além da verdade.
+$GEN_035_01x05_03_06
+Eu sei, só quero que esse canalha, esse provocador, esse... esse nojento afeminado receba o castigo que merece! A culpa é toda dele!
+$GEN_035_02x05_04_QTitle
+Imagino que o réu conheça bem o horário das patrulhas da Guarda?
+$GEN_035_02x05_04_00
+Acredito que o réu conhece bem o horário das patrulhas da Guarda?
+$GEN_035_02x05_04_01
+Quem na rua Cler não sabe? Todos sabem que eles começam a ronda quinze minutos atrasados todo dia.
+$GEN_035_02x05_04_02
+Acusar a vítima não vai te ajudar.
+$GEN_035_02x05_04_03
+Por que você não nos conta como o sargento Le Vau agarrou a sua bunda?
+$GEN_035_02x05_04_04
+Responda à pergunta.
+$GEN_035_02x05_04_05
+Eles chegam tarde, engolem o café da manhã e passam o dia inteiro andando pelo mesmo caminho. Nem se dão ao trabalho de olhar nos becos. Deus me livre se encontrassem algo para fazer por lá.
+$GEN_035_02x05_04_06
+Então o réu foi capaz de prever quando o sargento Le Vau estaria próximo ao mercado?
+$GEN_035_02x05_04_07
+Com certeza eu conseguiria, se realmente quisesse, mas nem passou pela minha cabeça.
+$GEN_035_02x05_04_08
+Ele está rindo na cara do Juiz! Ponha-o de castigo e dê-lhe uma surra!
+$GEN_035_02x05_04_09
+Não é uma coincidência fascinante? O réu aparece na rua Cler vestido de mulher poucos minutos antes do sargento, e imediatamente estoura um tumulto, tendo Le Vau como vítima...
+$GEN_035_02x05_04_10
+Olha, eu sei como isso parece, mas coincidências sempre soam estranhas, não é?
+$GEN_035_02x05_04_11
+O juiz não é nenhum tolo que vai cair nas suas baboseiras.
+$GEN_035_03x06_05_QTitle
+O réu participou do ataque ao sargento Le Vau?
+$GEN_035_03x06_05_00
+O réu participou do ataque ao sargento Le Vau?
+$GEN_035_03x06_05_01
+Não. Mas afinal, que tipo de ataque foi esse?
+$GEN_035_03x06_05_02
+As testemunhas afirmam que o réu chutou o sargento em uma parte muito delicada do corpo. Justamente a parte com a qual o sargento teria supostamente... lhe violentado.
+$GEN_035_03x06_05_03
+Que bobagem. Eu estava ali perto, rindo à beça, mas não fui eu quem chutou ele. Mesmo que quisesse, não teria como chegar perto. As velhas estavam todas em cima dele!
+$GEN_035_03x06_05_04
+Olhe para ele, ainda acha graça.
+$GEN_035_01x04_06_QTitle
+O vestido que a acusada ainda está usando era para ajudar…?
+$GEN_035_01x04_06_00
+O vestido que o réu ainda está usando deveria ajudá-lo a incitar o motim?
+$GEN_035_01x04_06_01
+Eu não ligava para tumultos. Só queria zoar a Martin e as amigas dela. Era só uma brincadeira.
+$GEN_035_01x04_06_02
+Por causa da sua, permita-me citar o réu, “brincadeira”, uma pessoa saiu prejudicada.
+$GEN_035_01x04_06_03
+Como posso ser culpado por terem espancado um soldado desonesto?
+$GEN_035_01x03_07_QTitle
+O réu teve algum conflito com a Guarda Nacional?
+$GEN_035_01x03_07_00
+O réu teve algum conflito com a Guarda Nacional?
+$GEN_035_01x03_07_01
+É claro que sim, considerando o que ele fez.
+$GEN_035_01x03_07_02
+Não. Esses rapazes defendem corajosamente as conquistas da Revolução. Continuem com o bom trabalho!
+$GEN_035_01x03_07_03
+Ele está zombando de novo!
+$GEN_035_01x03_07_04
+Ainda assim, isso não impediu o réu de incitar um motim contra um dos seus Guardas.
+$GEN_035_01x03_07_05
+Ele não consegue esconder o brilho de diversão nos olhos!
+$GEN_035_01x03_07_06
+Eu posso ver isso.
+$GEN_035_01x03_07_07
+Eu não causei nenhum tumulto. Apenas fui às compras usando um vestido, e é só isso que admito ter feito. Estou disposto a pagar uma multa por esse “crime”.
+$GEN_035_WIT_00_A_QTitle
+Como a testemunha conheceu o acusado, Cerdan?
+$GEN_035_WIT_00_A_00
+Como a testemunha conheceu o acusado, Cerdan?
+$GEN_035_WIT_00_A_01
+Ele costurou um vestido para mim, junto com aquele cego imprestável do Morel. Paguei 30 francos, e no dia seguinte o vestido se desfez nas costuras! Nunca passei tanta vergonha…
+$GEN_035_WIT_00_A_02
+Entendi corretamente que a testemunha não mantém boas relações nem com o réu, nem com seu patrão?
+$GEN_035_WIT_00_A_03
+A testemunha parece estar afirmando que eles são vigaristas.
+$GEN_035_WIT_00_A_04
+De fato, sou mesmo. Que uma praga caia sobre esses alfaiates! Avisei todos os meus amigos sobre o negócio deles e espero que logo fechem as portas, esses charlatães sem talento.
+$GEN_035_WIT_00_A_05
+Meu patrão te avisou, sua idi... mulher, que era pra costurar num tamanho maior, senão os pontos não iam aguentar. Mas não, você sempre sabe mais... Experimente comer menos e suas roupas não vão rasgar!
+$GEN_035_WIT_01_A_QTitle
+Em que momento a testemunha reconheceu o réu?
+$GEN_035_WIT_01_A_00
+Em que momento a testemunha reconheceu o réu?
+$GEN_035_WIT_01_A_01
+Eu reconheci aquele lacaio sarnento no instante em que os guardas arrancaram sua peruca!
+$GEN_035_WIT_01_A_02
+Isso só comprova o quão cuidadosamente o réu se disfarçou. Ele deve ter planejado esse crime por bastante tempo.
+$GEN_035_WIT_01_A_03
+Culpado? Disseram que ele é culpado!
+$GEN_035_WIT_01_A_04
+E a testemunha não percebeu nada estranho nessa suposta mulher antes disso?
+$GEN_035_WIT_01_A_05
+Veja, senhor, ele é tão jovem, nem sinal de bigode. Usava vestido, peruca, rouge... Como eu poderia reconhecê-lo?
+$GEN_035_WIT_01_B_QTitle
+Por que a testemunha acreditaria nas acusações do réu…?
+$GEN_035_WIT_01_B_00
+Por que a testemunha acreditaria nas acusações do réu sobre o comportamento do sargento Le Vau?
+$GEN_035_WIT_01_B_01
+Bem, senhor... Eu já ouvi muito sobre as mãos inquietas do sargento Le Vau. As pessoas comentam, sabe? Então, como uma pessoa sensível, juntei-me às outras mulheres gritando com ele, e no momento em que ele apareceu–
+$GEN_035_WIT_01_B_02
+Protesto! Ela está inventando tudo!
+$GEN_035_WIT_01_B_03
+A testemunha possui alguma prova da má conduta do soldado?
+$GEN_035_WIT_01_B_04
+Provas... Bem, posso lhe contar o que ele me prometeu quando estávamos sentados no banco do parque!
+$GEN_035_WIT_01_B_05
+Silêncio no tribunal! Todos, acalmem-se! E não me lembro de ter lhe dado permissão para falar, sargento Le Vau!
+$GEN_035_KEY_01
+Incitação à revolta
+$GEN_035_KEY_02
+Mercado
+$GEN_035_KEY_03
+Agressão a um guarda
+$GEN_035_KEY_04
+Disfarçado de mulher
+$GEN_035_KEY_05
+O depoimento da comerciante
+$GEN_035_KEY_06
+Acusação falsa
+$GEN_035_LastDialog_00
+Ah, qual é, foi só uma piada boba! Uma piada!
+$GEN_035_UNIQUE_QUESTION_00
+Qual é a explicação para o traje do cidadão Cerdan?
+$GEN_035_UNIQUE_ANSWER_CORRECT_00_00
+Ele se desentendeu com alguns comerciantes.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_00_00
+Ele perdeu uma aposta.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_00_01
+Ele queria se esconder das pessoas de quem havia tomado dinheiro emprestado.
+$GEN_035_UNIQUE_QUESTION_01
+De que o cidadão Martin acusou o réu?
+$GEN_035_UNIQUE_ANSWER_CORRECT_01_00
+Por ser trapaceiro e incompetente.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_01_00
+Embriaguez.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_01_01
+Agredindo o filho dela.
+$GEN_035_UNIQUE_QUESTION_02
+Enquanto estava vestido de mulher, o aprendiz de alfaiate gritava o quê?
+$GEN_035_UNIQUE_ANSWER_CORRECT_02_00
+Que o sargento Le Vau o estuprou.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_02_00
+Que a cidadã Martin o roubou.
+$GEN_035_UNIQUE_ANSWER_NOT_CORRECT_02_01
+Que a Guarda matou um comerciante ali perto.

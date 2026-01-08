@@ -1,0 +1,8 @@
+$DIAL_H_01_01_05_001_OFFICIAL
+Debido a la creación del Tribunal Revolucionario, necesitamos preparar un sello oficial. Me indicaron que acudiera a usted, ciudadano, ya que el presidente Dévoyé está... indispuesto.
+$DIAL_H_01_01_05_002_WIFE
+¿Cuánto bebió?
+$DIAL_H_01_01_05_003_OFFICIAL
+No pudo decirlo. ¿Procedemos?
+$DIAL_H_01_01_05_004_OFFICIAL
+Gracias por su tiempo, sé que es tarde. El sello estará listo mañana. Buenas noches.

@@ -1,0 +1,82 @@
+$CUT_013_DISC_PACHE_START_001_PACHE
+Danton, du Verräter! Wie konntest du nur…
+$CUT_013_DISC_PACHE_START_002_JUDGE
+Guten Tag, Pache.
+$CUT_013_DISC_PACHE_START_003_PACHE
+Fidèle. Danke, dass Sie so kurzfristig kommen konnten.
+$CUT_013_DISC_PACHE_START_004_PACHE
+Danton hat mich verraten.
+$CUT_013_DISC_PACHE_START_005_PACHE
+Danton… Wir waren einst Verbündete.
+$CUT_013_DISC_PACHE_START_006_PACHE
+Ich bat ihn um Hilfe, aber er kam nie. Du bist gekommen.
+$CUT_013_DISC_PACHE_START_007_JUDGE
+Wir sind doch Freunde, Jean.
+$CUT_013_DISC_PACHE_START_008_PACHE
+Ich muss ihn vernichten, ihn bezahlen lassen! Wir müssen.
+$CUT_013_DISC_PACHE_001_JUDGE_AGGR
+Wer ist das Schwein, das es wagte, die Hand gegen einen Diener des Staates zu erheben? Und aus welchem Grund?
+$CUT_013_DISC_PACHE_002_JUDGE_MANI
+Wessen haben sie Sie beschuldigt? Es muss etwas gewesen sein, das nur Ihre Freunde wissen. Jemand wie Danton. Worin haben Sie sich verstrickt, Jean?
+$CUT_013_DISC_PACHE_003_JUDGE_JOKE
+Hier liegt ganz sicher ein Irrtum vor. Keine Sorge, Sie sind noch vor dem Abendessen wieder zu Hause.
+$CUT_013_DISC_PACHE_004_JUDGE_HUMI
+Ich verstehe das nicht. Wessen beschuldigen sie dich? Ausgerechnet dich, wo doch jeder weiß, dass Paris unter deiner Führung aufblüht.
+$CUT_013_DISC_PACHE_005_PACHE_INTR
+Verrat. Das ist alles, was ich herausfinden konnte. Über die Herkunft dieser Anschuldigungen oder mögliche Beweise weiß ich nichts. Aber ich weiß, dass Danton es nicht eilig hat, mir zu helfen. Er hat mich verraten und steckt bestimmt mit drin!
+$CUT_013_DISC_PACHE_006_PACHE_DOUBT
+Anscheinend habe ich Frankreich verraten. Ich bin kein Heiliger, das weiß ich, aber Verrat?! Und wer beschuldigt mich? Dieser politische Hurenbock Danton? Ich weiß es nicht mit Sicherheit, aber ich spüre, dass er in diese Anschuldigungen verwickelt war.
+$CUT_013_DISC_PACHE_007_JUDGE_AGGR
+Wenn dieser listige Schurke für dein Unglück verantwortlich ist, musst du jetzt handeln. Du kannst nicht bis zur morgigen Verhandlung warten. Hast du irgendwelche Beweise für Dantons Vergehen, die dir helfen könnten?
+$CUT_013_DISC_PACHE_008_JUDGE_MANI
+Wenn Danton diesen Angriff inszeniert hat, muss er Beweise gegen Sie gefälscht haben. Wir brauchen etwas, womit wir zurückschlagen können. Welche belastenden Beweise haben Sie gegen ihn?
+$CUT_013_DISC_PACHE_009_JUDGE_JOKE
+Ich kann nicht glauben, dass Sie ein Bündnis mit Danton eingehen würden, ohne belastende Beweise gegen ihn zu haben. Sagen Sie, besitzen Sie irgendwelche Dokumente, die man gegen ihn verwenden könnte?
+$CUT_013_DISC_PACHE_010_JUDGE_HUMI
+Wenn jemand die Guillotine verdient, dann Danton – weil er nur vorgibt, Ihr Freund zu sein. Wir müssen gegen ihn vorgehen. Sie haben doch bestimmt Beweise für seine Vergehen, die wir gegen ihn einsetzen können.
+$CUT_013_DISC_PACHE_011_PACHE_INTR
+Was hat dich zu mir geführt? Warum riskierst du es, einen Verräter zu treffen? Warum, Fidèle? Vergiss die Treue und lass mich sterben. Ich verdiene diese Strafe.
+$CUT_013_DISC_PACHE_012_PACHE_DOUBT
+Ich kann nicht mehr, mir fehlt die Kraft, weiterzukämpfen. Die ganze Revolution, diese endlosen Intrigen. Ich kann niemandem mehr vertrauen… außer dir. Ich verstehe überhaupt nichts mehr.
+$CUT_013_DISC_PACHE_013_PACHE_IRRI
+Hast du auch vor, mich zu verraten? Das kannst du nicht! Ich dachte – nein, ich hoffte –, dass es in dieser Stadt möglich ist, einen wahren Freund zu finden.
+$CUT_013_DISC_PACHE_014_JUDGE_AGGR
+Wach auf, Jean! Jetzt ist keine Zeit für Zögern oder Schwermut! Wenn ich Danton kontern soll, brauche ich etwas, das ich einsetzen kann. Lass mich dir helfen – sag mir, wo ich suchen soll.
+$CUT_013_DISC_PACHE_015_JUDGE_MANI
+Sobald der Prozess beginnt, ist dein Schicksal besiegelt. Gibt es Beweise für Verrat, kann der Angeklagte nicht mehr gerettet werden. Ich könnte jedoch dafür sorgen, dass diese Beweise niemals ans Licht kommen. Dafür brauche ich allerdings Beweise für Dantons Vergehen. Das ist der einzige Weg. Wo bewahrst du sie auf, Jean?
+$CUT_013_DISC_PACHE_016_JUDGE_JOKE
+Wenn Sie sich selbst bemitleiden wollen, nur zu. Doch vergessen Sie nicht: Das Tribunal lässt Verräter nicht laufen. Wenn Sie mir keine Beweise für Dantons Vergehen liefern, kann ich Ihnen nicht helfen – und morgen sind Sie tot.
+$CUT_013_DISC_PACHE_017_JUDGE_HUMI
+Oh, mein lieber Jean. Ich kann nicht zulassen, dass du für ein Verbrechen stirbst, das du nicht begangen hast. Ich werde dich und dein Vermächtnis retten, aber dafür muss ich Danton zwingen, die Anklagen zurückzuziehen. Sag mir, wo bewahrst du die Beweise für seine Vergehen auf?
+$CUT_013_DISC_PACHE_018_JUDGE_AGGR
+Reißen Sie sich zusammen, noch ist nicht alles verloren! Sie haben einen geheimen Vorteil – einen Richter des Tribunals, der bereit ist zu helfen. Wir stehen auf derselben Seite. Sie können mir vertrauen.
+$CUT_013_DISC_PACHE_019_JUDGE_MANI
+Niemand wird Danton offen widersprechen, wenn er Beweise für Verrat fälschen kann. Sie haben Angst. Ich jedoch bin bereit, meinen Kopf dafür hinzuhalten, weil ich an den langfristigen Wert unserer Freundschaft glaube. Allein das sollte Sie überzeugen.
+$CUT_013_DISC_PACHE_020_JUDGE_JOKE
+Wenn Sie mir nicht vertrauen können, obwohl ich hierher gekommen bin, wem können Sie dann überhaupt noch trauen? Ich sehe hier jedenfalls keine Schlange von Leuten, die sich freiwillig melden, um Ihren Kopf zu retten.
+$CUT_013_DISC_PACHE_021_JUDGE_HUMI
+Jean, hör auf die Stimme der Vernunft. Mit jeder Minute rückst du dem Tod näher, und eingesperrt hier kannst du nichts ausrichten. Ich biete dir meine Hilfe an. Nimm sie an.
+$CUT_013_DISC_PACHE_022_PACHE_INTR
+Wirklich? Sie wollen mir helfen? Ich habe einst etwas Schreckliches getan. Jemand hat mich dazu gezwungen, und nun quälen mich die Reue. Ich… Ich stehe tief in Ihrer Schuld.
+$CUT_013_DISC_PACHE_023_PACHE_DOUB
+Ich bin mir nicht sicher, ob ich deine Freundschaft verdiene. Ich habe etwas… Verabscheuungswürdiges getan. Man hat es mir befohlen. Und jetzt bist du meine einzige Hoffnung.
+$CUT_013_DISC_PACHE_024_PACHE_IRRI
+Alle verlangen ständig etwas von mir. Sie wollen Beweise für Dantons Verbrechen, um Ihre eigenen Ziele zu erreichen, aber meine Rettung gehört nicht dazu. Vergessen Sie es.
+$CUT_013_DISC_PACHE_025_PACHE_AGGR
+Ich glaube Ihnen nicht, und wie alle anderen werden Sie mich verraten. Sie bekommen nichts von mir. Verschwinden Sie!
+$CUT_013_DISC_PACHE_TOPIC_01
+Wie ist er hierher gekommen?
+$CUT_013_DISC_PACHE_TOPIC_02
+Welche Beweise hat er für Dantons Vergehen?
+$CUT_013_DISC_PACHE_TOPIC_03
+Wo sind die Beweise?
+$CUT_013_DISC_PACHE_TOPIC_04
+Du kannst mir vertrauen.
+$CUT_013_DISC_PACHE_SUCCESS_001_PACHE
+Alle Beweise gegen Danton liegen in einem Safe in meinem Büro. Bitten Sie meinen Assistenten um den Schlüssel.
+$CUT_013_DISC_PACHE_SUCCESS_002_JUDGE
+Danke, Pache. Ich weiß, was ich damit tun soll.
+$CUT_013_DISC_PACHE_SUCCESS_003_PACHE
+Nein, ich danke dir. Ich habe dich falsch eingeschätzt, Fidèle. Du bist ein wahrer Freund.
+$CUT_013_DISC_PACHE_SUCCESS_004_JUDGE
+Natürlich, Jean. Natürlich.

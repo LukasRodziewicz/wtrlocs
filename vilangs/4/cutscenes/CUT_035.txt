@@ -1,0 +1,38 @@
+$CUT_035_BROTHER_001
+Kennen Sie den jungen Soldaten, der zur Hilfe kam?
+$CUT_035_BROTHER_002
+Sein Name ist Napoleon Bonaparte.
+$CUT_035_JUDGE_003
+Ich kenne ihn nicht. Aber das spielt keine Rolle. Ich habe gesiegt. Paris bleibt in unserer Hand.
+$CUT_035_BROTHER_004
+Du hast gewonnen? Es lag nie in meiner Absicht, die Stadt zu übernehmen.
+$CUT_035_JUDGE_005
+Ich verstehe nicht.
+$CUT_035_BROTHER_006
+Ich habe dich gerade deinem neuen Diktator vorgestellt.
+$CUT_035_BROTHER_007
+Ich habe gewonnen.
+$CUT_035_BROTHER_008
+Die Menschen werden Napoleon mit offenen Armen empfangen.
+$CUT_035_BROTHER_009
+Die „Neuen“ werden kommen, euch vergessen und das Land nach hundert Jahren erneut in Blut ertränken.
+$CUT_035_BROTHER_010
+In diesem Augenblick zieht das „Neue“ mit einer unbesiegten Armee in die Stadt ein.
+$CUT_035_BROTHER_011
+Ich habe gewonnen.
+$CUT_035_JUDGE_012
+Nicht, solange ich lebe, nein.
+$CUT_035_BROTHER_013
+Ich habe eine Pistole bei mir.
+$CUT_035_JUDGE_014
+Warum klären wir nicht, wen von uns Gott bevorzugt – Kain oder Abel?
+$CUT_035_BROTHER_015
+Wird der Begünstigte den Verlierer töten?
+$CUT_035_JUDGE_016
+Ihm in den Kopf schießen.
+$CUT_035_ROLL_01
+Du hast geglaubt, die Revolution würde dich befreien, doch es war nichts weiter als ein Wunschtraum.
+$CUT_035_ROLL_03
+Ihr alle habt euch von der Romantik dieses Aufstands blenden lassen. Sagt mir, worin unterscheidet sich die Revolution von dem, was wir jetzt tun?
+$CUT_035_ROLL_05
+Wurde sie nicht zu einem Kampf auf Leben und Tod, zu einem chaotischen Spiel, in dem nur eines zählt – das Glück?

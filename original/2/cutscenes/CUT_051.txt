@@ -1,0 +1,77 @@
+$CUT_051_DUMAS_001
+« La Terreur n'est autre chose que la justice prompte. »
+$CUT_051_DUMAS_002
+C'est ce que disait Robespierre.
+$CUT_051_DUMAS_003
+Et à présent, une armée de réprouvés marche sur nous pour livrer leur interprétation de ces propos.
+$CUT_051_JUDGE_004
+Es-tu venu m'arrêter ?
+$CUT_051_DUMAS_005
+Je suis venu te dire que certaines personnes croient que tu as agi entièrement pour le bien de la France.
+$CUT_051_JUDGE_006
+Qui es-tu ?
+$CUT_051_DUMAS_007
+Thomas-Alexandre Dumas, officier de l'armée française. À ton service.
+$CUT_051_JUDGE_008
+Crois-tu ce que cette poignée de gens dit sur moi ?
+$CUT_051_DUMAS_009
+La plupart des députés de la Convention ont fui à l'annonce de l'armée en approche.
+$CUT_051_DUMAS_010
+Les renforts en mesure de nous sauver mettront une douzaine de jours à atteindre Paris.
+$CUT_051_JUDGE_011
+Crois-tu que je n'ai agi que pour la France ?
+$CUT_051_DUMAS_012
+Non. Mais à ce qu'on m'a dit, tu connais l'ennemi mieux que quiconque.
+$CUT_051_DUMAS_013
+En tant que commandant, j'apprécie certainement cet atout. Et en tant qu'être humain, 
+je sais que la fraternité est primordiale quand on vient à chuter.
+$CUT_051_DUMAS_014
+Tu as touché le fond. Or des gens sont prêts à te laisser une chance de te racheter.
+$CUT_051_JUDGE_015
+Je crois que tu t'adresses à la mauvaise personne…
+$CUT_051_DUMAS_016
+Je m'adresse à un prédateur !
+$CUT_051_DUMAS_017
+Je m'adresse à quelqu'un qui ne répugne pas à tuer d'autres citoyens.
+$CUT_051_DUMAS_018
+Car c'est ce qui nous attend. Nous allons devoir tuer sans aucune pitié des compatriotes qui se tiendront de l'autre côté des barricades.
+$CUT_051_DUMAS_019
+Je m'adresse à un meurtrier, car c'est ainsi que te voient ceux qui te craignent.
+$CUT_051_DUMAS_020
+La terrible vérité est que tu es précisément celui dont nous avons besoin.
+$CUT_051_JUDGE_021
+Tu as dit toi-même que les renforts se trouvent à une douzaine de jours…
+$CUT_051_DUMAS_022
+Voilà pourquoi j'ai réuni une armée de loyalistes.
+$CUT_051_DUMAS_023
+Je te les confierai à une seule condition.
+$CUT_051_JUDGE_024
+Tu as bien dit « une armée » ?
+$CUT_051_DUMAS_025
+Regarde par toi-même.
+$CUT_051_DUMAS_026
+Une véritable armée révolutionnaire.
+$CUT_051_DUMAS_027
+Pauvres et riches, blancs et noirs, marchant côte à côte.
+$CUT_051_DUMAS_028
+Ils sont venus protéger Paris.
+$CUT_051_JUDGE_029
+Tu as évoqué une condition.
+$CUT_051_DUMAS_030
+Fais-moi général.
+$CUT_051_DUMAS_031
+Le premier commandant de sang noir à occuper un tel rang dans toute la France.
+$CUT_051_DUMAS_032
+Ainsi toi et moi serons égaux, comme des frères.
+$CUT_051_JUDGE_033
+Je n'ai pas ce pouvoir.
+$CUT_051_DUMAS_034
+Bien sûr que si. Il te reste le pouvoir de la guillotine, n'est-ce pas ?
+$CUT_051_DUMAS_035
+Soutiens-moi et l'armée t'appartiendra.
+$CUT_051_DUMAS_036
+Indépendamment de leur origine ou de leur race,
+$CUT_051_DUMAS_037
+ces gens croient que s'ils ont peur de toi, notre ennemi devrait être encore plus terrifié.
+$CUT_051_JUDGE_038
+Apporte-moi une feuille et une plume, Général.

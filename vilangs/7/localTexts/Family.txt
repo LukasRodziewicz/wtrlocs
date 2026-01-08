@@ -1,0 +1,222 @@
+#CHOOSE_FAMILY_ACTION
+행동 수행
+#CHOOSED_ACTION
+선택한 행동
+$STORY_EVENT_LABEL
+스토리 이벤트
+#YoungerSon
+프레데릭
+#ElderSon
+베르나르
+#Father
+알드릭
+#LOCKED_ACTION_TOOLTIP
+이 행동은 변경할 수 없습니다.
+$REVOLUTIONARIES_ICON
+혁명파에 대한 영향
+$PEOPLE_ICON
+민중에 대한 영향
+$REPUTATION_ICON
+평판에 미치는 영향
+$FAMILY_ICON
+가족 관계에 미치는 영향
+$FAMILY_ACTION_TITLE
+가족과의 관계
+$FAMILY_ACTION_HEADER_PLACEHOLDER
+왼쪽 패널에서 행동을 선택하세요.
+$FAMILY_ACTION_DESC_PLACEHOLDER
+행동을 선택해야 설명을 볼 수 있습니다.
+$FAMILY_ACTION_HEADER_COURT
+법정에서의 당신 행동의 영향력
+$FAMILY_ACTION_DESC_COURT
+법정에서 내리는 당신의 결정이 가족과의 관계에 영향을 미칠 수 있습니다.
+$FAMILY_ACTION_1000_TITLE
+도박장 속의 저녁
+$FAMILY_ACTION_1000_DESC
+당신은 가족보다 유흥과 술을 택했습니다.
+$FAMILY_ACTION_1001_TITLE
+내일 재판 준비
+$FAMILY_ACTION_1001_DESC
+법정에서 더 많은 질문 효과를 해금할 수 있습니다.
+$FAMILY_ACTION_1002_TITLE
+조각상 건립 지원
+$FAMILY_ACTION_1002_DESC
+동상 건설 속도가 증가합니다.
+$FAMILY_ACTION_501_TITLE
+공회 친구들과의 저녁 식사
+$FAMILY_ACTION_501_DESC
+몇몇 의원들이 저녁 식사에 올 거예요. 당신이 이렇게 후한 주인이라는 게 참 다정하군요. 그들이 친구들에게 그 사실을 알릴 생각을 하니 더욱 그렇고요.
+$FAMILY_ACTION_502_TITLE
+고아원 기금 모금
+$FAMILY_ACTION_502_DESC
+어려운 시절에는 아이들의 삶이 더욱 고달파집니다. 이 아이들에게 부모를 돌려줄 수는 없지만, 희망만은 줄 수 있습니다.
+$FAMILY_ACTION_601_TITLE
+모집
+$FAMILY_ACTION_601_DESC
+아직 몇몇 난민들 사이에는 희망이 남아 있습니다. 어쩌면 그들 중 몇 명이라도 전장으로 이끌 수 있을지도 모릅니다.
+$FAMILY_ACTION_602_TITLE
+병사들과 함께한 저녁
+$FAMILY_ACTION_602_DESC
+병사들은 자신들이 무정한 괴물이 아닌 한 인간 아래에서 싸우고 있음을 느껴야 합니다. 따뜻한 한 잔을 나누며 그들과 시간을 보내십시오.
+$FAMILY_ACTION_001_TITLE
+저녁 산책
+$FAMILY_ACTION_001_DESC
+가족과 함께 저녁 산책을 위해 파리 거리를 걷습니다. 아버지께서도 오랜만에 굳은 관절을 풀 수 있겠군요.
+$FAMILY_ACTION_002_TITLE
+저녁 도박
+$FAMILY_ACTION_002_DESC
+가끔은 아버지와 시간을 보내세요. 당신의 세상을 보여드리면, 어쩌면 그분도 흥미를 느끼실지 모릅니다.
+$FAMILY_ACTION_003_TITLE
+시위
+$FAMILY_ACTION_003_DESC
+아들들을 혁명 지지 시위에 데려가세요. 현실을 가까이에서 직접 보게 하십시오.
+$FAMILY_ACTION_004_TITLE
+비올라 협주곡
+$FAMILY_ACTION_004_DESC
+베르나르가 전문 음악가가 되려면 무대 공포증을 극복하는 법을 배워야 합니다. 당신은 한 시간 동안 소음을 견뎌야 할 것입니다.
+$FAMILY_ACTION_005_TITLE
+함께 읽기
+$FAMILY_ACTION_005_DESC
+따뜻한 벽난로 옆에서 가족과 함께 좋은 책을 읽으며 앉아 있는 것만큼 좋은 일은 없습니다. 비록 누군가는 그것이… 지루하다고 생각할지라도 말이죠.
+$FAMILY_ACTION_006_TITLE
+할아버지와의 저녁
+$FAMILY_ACTION_006_DESC
+아버지 곁에 앉아 지난 시절의 이야기를 들어보세요.
+$FAMILY_ACTION_007_TITLE
+조항 및 조문
+$FAMILY_ACTION_007_DESC
+베르나르의 음악적 관심과는 별개로, 앞으로를 위해 더 실용적인 기술도 익혀야 합니다. 법 역시 그 자체로 하나의 예술이 될 수 있으니까요.
+$FAMILY_ACTION_008_TITLE
+아이들과의 놀이 시간
+$FAMILY_ACTION_008_DESC
+저녁 시간과 기운을 아들들과의 걱정 없는 놀이에 쓰십시오. 아내의 바람은 잠시 미뤄도 됩니다.
+$FAMILY_ACTION_009_TITLE
+정치 토론
+$FAMILY_ACTION_009_DESC
+이제 어른들이 혁명의 성과에 대해 이야기할 시간이다. 흥미로운 논의가 되겠군.
+$FAMILY_ACTION_010_TITLE
+극장의 개막 밤
+$FAMILY_ACTION_010_DESC
+오늘 밤 코메디 프랑세즈 극장에서 새로운 연극이 막을 올립니다. 현실에서 잠시 벗어나 쉴 수 있는 좋은 기회입니다.
+$FAMILY_ACTION_081_TITLE
+달빛 아래의 도박
+$FAMILY_ACTION_081_DESC
+당신은 데이비드와 함께 카드놀이를 하러 갔습니다.
+$FAMILY_ACTION_082_TITLE
+시모노
+$FAMILY_ACTION_082_DESC
+당신은 린치당한 관리의 추모 퍼레이드에 참석했습니다.
+$FAMILY_ACTION_083_TITLE
+뷔렐과 폭동
+$FAMILY_ACTION_083_DESC
+당신은 시위대에 대한 치명적 무력 사용을 승인했습니다. 오늘 밤 가족들은 당신과 대화하고 싶어하지 않습니다.
+$FAMILY_ACTION_084_TITLE
+부상
+$FAMILY_ACTION_084_DESC
+그 비열한 습격 이후에는 휴식과 치유가 필요합니다.
+$FAMILY_ACTION_085_TITLE
+시장과의 저녁
+$FAMILY_ACTION_085_DESC
+당신은 저녁 내내 파슈에게 우정의 말을 늘어놓으며 그를 현혹했습니다. 가족 중 누구도 당신이 반쯤 취한 채로 집에 돌아오기를 늦게까지 기다릴 마음이 없었습니다.
+$FAMILY_ACTION_086_TITLE
+고문
+$FAMILY_ACTION_086_DESC
+당신은 저녁 내내 고집 센 소녀와 그보다 더 완고한 정치인을 설득해 자신의 뜻에 따르게 만들었습니다.
+$FAMILY_ACTION_087_TITLE
+아들의 죽음
+$FAMILY_ACTION_087_DESC
+이런 날에 어떻게 산책을 생각할 수 있죠?
+$FAMILY_ACTION_088_TITLE
+마리 생존
+$FAMILY_ACTION_088_DESC
+당신은 가족의 기대를 저버렸습니다. 오늘은 그들이 당신에게 단 1분조차 내어줄 것 같지 않습니다.
+$FAMILY_ACTION_089_TITLE
+깨진 저금통
+$FAMILY_ACTION_089_DESC
+당신은 베아트리스를 매수하기 위해 가족의 모든 저축을 써버렸습니다. 가족이 원망을 느끼지 않을 수 없습니다.
+$FAMILY_ACTION_101_TITLE
+저녁 산책
+$FAMILY_ACTION_101_DESC
+당신은 가족과 함께 저녁 산책을 나섭니다, 파리의 거리로. 아니, 어쩌면 가족이라 부를 수 있는 남은 이들과 함께…
+$FAMILY_ACTION_102_TITLE
+비올라 협주곡
+$FAMILY_ACTION_102_DESC
+베르나르는 전문 음악가가 되려면 무대 공포증을 극복하는 법을 배워야 합니다. 당신 가족의 마지막 희망…
+$FAMILY_ACTION_103_TITLE
+조항 및 조문
+$FAMILY_ACTION_103_DESC
+베르나르가 음악에 관심이 많다 해도, 앞으로를 위해 더 실질적인 기술도 익혀야 한다. 법 역시 하나의 예술이 될 수 있으며, 최근의 일들로 미루어 볼 때 베르나르는 장차 나이 든 부모님을 홀로 부양해야 할지도 모른다.
+$FAMILY_ACTION_104_TITLE
+정치 토론
+$FAMILY_ACTION_104_DESC
+이제 어른 남자들끼리 혁명의 성과에 대해 이야기할 시간입니다. 흥미로운 논의가 되겠군요. 막내아들의 죽음 이후로는 평소와는 다르게 흘러갈지도 모릅니다.
+$FAMILY_ACTION_105_TITLE
+프레데릭의 무덤을 찾아서
+$FAMILY_ACTION_105_DESC
+매번 찾아올 때마다 가슴에 비수가 꽂힙니다. 누군가는 기억하려 하고, 누군가는 서둘러 잊으려 하죠.
+$FAMILY_ACTION_106_TITLE
+함께 읽기
+$FAMILY_ACTION_106_DESC
+따뜻한 벽난로 옆에서 가족과 함께 좋은 책을 읽으며 앉아 있는 것만큼 좋은 일은 없습니다. 비록 누군가는 그것이… 지루하다고 생각할지라도 말이죠.
+$FAMILY_ACTION_107_TITLE
+극장의 개막 밤
+$FAMILY_ACTION_107_DESC
+오늘 밤 코메디 프랑세즈 극장에서 새로운 연극이 막을 올립니다. 어쩌면 웃음이 슬픔을 달래줄 좋은 약이 될지도 모르겠군요.
+$FAMILY_ACTION_108_TITLE
+쇼핑
+$FAMILY_ACTION_108_DESC
+진부하게 들릴지 몰라도, 이 소박한 기쁨이 마틸드의 상처 입은 마음에 작은 위안을 줄 수 있지 않을까요?
+$FAMILY_ACTION_109_TITLE
+카페 프로코프
+$FAMILY_ACTION_109_DESC
+당신은 피델 가문의 남자들을 모아 유일무이한 카페 프로코프에서 열리는 정치 토론회에 참석합니다. 이번에는 주먹다짐이 없기를 바랄 뿐입니다.
+$FAMILY_ACTION_110_TITLE
+다락방 정리
+$FAMILY_ACTION_110_DESC
+다락방에는 먼지와 잡동사니가 쌓여 있다. 요즘 마틸드는 집안일에 그다지 힘을 내지 못하고 있다. 물론 누구도 그녀를 탓할 수는 없다. 이제 집안의 남자들이 소매를 걷어붙이고 청소에 나서야 할 때다.
+$FAMILY_ACTION_181_TITLE
+무도회가 끝난 뒤
+$FAMILY_ACTION_181_DESC
+당신이 무도회에서 즐거운 시간을 보내는 동안, 가족은 시내로 나갔습니다.
+$FAMILY_ACTION_182_TITLE
+불과 물
+$FAMILY_ACTION_182_DESC
+당신은 당통과 에베르를 협력시키느라 바빴고, 가족을 돌볼 시간조차 없었습니다. 모두 이미 잠들어 있습니다.
+$FAMILY_ACTION_183_TITLE
+진정한 적
+$FAMILY_ACTION_183_DESC
+아들이 막 불구가 된 상황에서 누군가를 불러 함께 좋은 시간을 보내자고 할 수 있겠어요?
+$FAMILY_ACTION_184_TITLE
+판사의 진짜 얼굴
+$FAMILY_ACTION_184_DESC
+마라가 당신의 죄를 만천하에 드러냈습니다. 사랑하는 이들은 더 이상 당신과 눈을 마주치지 않습니다.
+$FAMILY_ACTION_185_TITLE
+판사의 진짜 얼굴 2
+$FAMILY_ACTION_185_DESC
+마라가 저승에서도 계속 공격을 퍼붓습니다. 가족의 경멸은 더욱 깊어집니다.
+$FAMILY_ACTION_186_TITLE
+내면의 상처
+$FAMILY_ACTION_186_DESC
+당신은 아들의 손을 지켜냈습니다. 하지만 집안에는 날카로운 침묵이 감돌고, 작은 속삭임조차도 모두의 신경을 곤두서게 합니다. 모두가 비정상적으로 예민해져, 마치 악몽이 언제든 다시 찾아올 것만 같습니다.
+$FAMILY_ACTION_201_TITLE
+안전한 길
+$FAMILY_ACTION_201_DESC
+어릴 적, 베르나르는 자주 몰래 빠져나가 파리의 거리를 탐험하곤 했다. 이제 그의 지식이 난민들의 생명을 구하는 데 도움이 될지도 모른다.
+$FAMILY_ACTION_202_TITLE
+장교들과의 만찬
+$FAMILY_ACTION_202_DESC
+진짜 지붕 아래서 먹는 따뜻한 집밥은 가장 믿음직한 장교들에게 큰 힘이 될 것입니다. 당신의 아내는 언제나 훌륭한 요리사였죠.
+$FAMILY_ACTION_203_TITLE
+식량과 약품
+$FAMILY_ACTION_203_DESC
+남아 있기로 한 이들은 군인들이 싸우는 모습을 그저 바라만 볼 수 없습니다. 가진 것이 무엇이든, 마지막까지 힘을 보태야 합니다.
+$FAMILY_ACTION_204_TITLE
+바리케이드
+$FAMILY_ACTION_204_DESC
+가구, 잔해, 통 등 모든 것이 바리케이드를 쌓는 데 쓰일 수 있습니다. 우리 병사들을 보호하고 전략적 거점을 차단합시다.
+$FAMILY_ACTION_281_TITLE
+버려진
+$FAMILY_ACTION_281_DESC
+당신의 평판이 너무나 추락해 아무도 당신과 시간을 보내려 하지 않습니다. 언제나 그랬듯, 오직 아버지만이 곁에 계십니다.
+#Wife
+

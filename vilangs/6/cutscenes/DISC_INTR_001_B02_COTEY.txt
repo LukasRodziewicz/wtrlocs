@@ -1,0 +1,54 @@
+$DISC_INTR_001_B02_001_JUDGE
+Gracias por venir, ciudadano Côté.
+$DISC_INTR_001_B02_002_COTEY
+¿Cómo podría negarme a alguien que tiene el destino de los reyes en la palma de su mano? Supongo que nuestra reunión está relacionada con el ministro Roland.
+$DISC_INTR_001_B02_003_JUDGE
+Exactamente. Me gustaría hablar sobre el incidente del armario de hierro.
+$DISC_INTR_001_B02_004_COTEY
+En verdad es una situación desagradable. El ministro podría perder la cabeza por esto, aunque por ahora no son más que rumores…
+$DISC_INTR_001_B02_005_JUDGE
+Sí, pero ¿y si los rumores de repente se volvieran realidad…?
+$DISC_INTR_001_B02_006_COTEY
+Entonces las cosas se pondrían realmente feas.
+$DISC_INTR_001_B02_007_JUDGE_AGGR
+Necesito la cabeza de Roland. ¡Es una plaga! Al sobornar a políticos, ha perjudicado a toda Francia. Necesitamos al testigo que lo vio abrir el cofre de hierro para revelar su identidad. ¡Te necesitamos, ciudadano!
+$DISC_INTR_001_B02_008_JUDGE_MANI
+Necesito la cabeza de Roland. Sus días ya están contados, así que, para aliviar el sufrimiento de los parisinos y de toda Francia, aceleremos su caída.
+$DISC_INTR_001_B02_009_JUDGE_JOKE
+La bandeja para la cabeza de Roland ya está lista. Puedo ser el chef que prepare un manjar increíble con ella, pero necesito un ayudante que le dé el toque final.
+$DISC_INTR_001_B02_010_JUDGE_HUMI
+Usted y yo somos servidores de Francia. Es nuestro deber asegurar la caída de Roland, así que debemos sacar la verdad a la luz. ¿Acaso no juramos defender nuestros ideales?
+$DISC_INTR_001_B02_011_COTEY_SATI
+Roland se comporta como si deseara morir.
+$DISC_INTR_001_B02_012_COTEY_INTR
+Es un punto de vista interesante. Te escucho atentamente.
+$DISC_INTR_001_B02_013_COTEY_DOUB
+Roland tiene sus vicios, pero ¿son suficientes para justificar mi traición? Porque eso es lo que me pides.
+$DISC_INTR_001_B02_014_JUDGE_AGGR
+Si el bienestar de Francia no le resulta suficiente, permítame decirle, ciudadano, que si me ayuda, sus posibilidades de sobrevivir aumentarán. Después de todo, alguien podría acusarle de complicidad en los crímenes de Roland.
+$DISC_INTR_001_B02_015_JUDGE_MANI
+El ministro Roland no vendrá a salvarte cuando las cosas se compliquen. Yo sí puedo salvarte. Por ejemplo, de cargos de complicidad.
+$DISC_INTR_001_B02_016_JUDGE_JOKE
+Es difícil decir quién es el verdadero ministro: el ciudadano Roland o su esposa, Madame Roland. Pero eso no tendrá importancia cuando escuche los cargos de complicidad.
+$DISC_INTR_001_B02_017_JUDGE_HUMI
+Si acepta presentarse como testigo, le estará haciendo un gran favor a Francia, y Francia nunca lo olvida. Yo nunca lo olvido.
+$DISC_INTR_001_B02_018_JUDGE_AGGR
+Los días del ministro Roland están contados. Solo necesitamos un testigo de sus crímenes, y usted, ciudadano, debe revelarlos. ¡De lo contrario, será decapitado junto a él!
+$DISC_INTR_001_B02_019_JUDGE_MANI
+Apóyame y ten la certeza de que los beneficios de hacerlo superarán con creces las desagradables consecuencias de negarte, como acabar bajo la guillotina.
+$DISC_INTR_001_B02_020_JUDGE_JOKE
+Roland merece caer en manos del verdugo. Hay que limitar la cantidad de bufones en nuestra ciudad. Usted no es un bufón, ¿verdad?
+$DISC_INTR_001_B02_021_JUDGE_HUMI
+Creo que usted es un hombre sensato, ciudadano Côté. Escuche a la razón: no desea cargar con los errores de Roland. Y yo tampoco quiero que pague por ellos.
+$DISC_INTR_001_B02_022_COTEY_SATI
+A mi entender, respaldar al ministro Roland equivale a una sentencia de muerte. Veo que está decidido, así que aceptaré. Ha encontrado a su testigo.
+$DISC_INTR_001_B02_023_COTEY_INTR
+Te ayudaré y testificaré en su contra. Veamos adónde nos lleva esto, aunque espero que mi cabeza siga sobre mis hombros, tal como prometiste.
+$DISC_INTR_001_B02_024_COTEY_DOUB
+Debo decir que tus palabras no resultan muy convincentes. Te ayudaré, pero recuerda que ahora sé más sobre tus planes.
+$DISC_INTR_001_B02_COTEY_TOPIC_01
+Quiero conseguir a Roland.
+$DISC_INTR_001_B02_COTEY_TOPIC_02
+¿Qué sacará él de esto?
+$DISC_INTR_001_B02_COTEY_TOPIC_03
+Zanahoria y palo.

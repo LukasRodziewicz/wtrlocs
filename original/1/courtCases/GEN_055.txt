@@ -1,0 +1,266 @@
+$GEN_055_DOC_01_HEADER
+Compiled by: Charles Étienne
+$GEN_055_DOC_01_00
+	Percivall Hill, a 54-year-old British physician permanently residing in Paris, has been accused of numerous murders of his patients. The doctor’s activities drew the attention of the medical world when Parisian bookshops and stands began to sell his book entitled “Treatise on the Structure and Development of Tumours."
+$GEN_055_DOC_01_01
+	This publication contains <a name="3" class="hidden">numerous engravings</a> that detail <a name="4" class="hidden">growths</a> appearing both on the skin and internal organs of patients. As we were able to ascertain from booksellers, this item, although addressed to a specific audience, quickly <a name="5" class="hidden">disappeared from their shelves</a>.
+$GEN_055_DOC_01_02
+	Around one month after the treatise appeared in print, 12 Parisian doctors made a joint denunciation of the author. In their opinion, at least three-quarters of the patients on whom Hill performed <a name="7" class="hidden">an autopsy</a> had no reason to die at such an early stage of the disease. Hence the conclusion that he had to kill them to conduct the research.
+$GEN_055_DOC_01_03
+	The physician’s office, located in Section de la Fraternité, has been thoroughly searched. The treatment room was empty and cleaned, however we came across some interesting information in <a name="8" class="hidden">notes from Dr Hill’s assistant</a>.
+$GEN_055_DOC_02_00
+Assistant’s notes
+$GEN_055_DOC_02_01
+	The twelfth autopsy performed this month was a complete success. A tumour had just begun to develop in François Mallet’s colon. We were able to detect it at a very early stage, unknown so far to science. Now we have to choose a patient presenting with the disease at stage two, or maximum three, and “obtain them” for our research.
+$GEN_055_OnStart_00
+It seems that Dr Hill has forgotten that science is meant to serve people, and not the other way around.
+$GEN_055_OnStart_01
+Are you Dr Hill, the author of the “Treatise on the Structure and Development of Tumours”?
+$GEN_055_OnStart_02
+I am.
+$GEN_055_OnStart_03
+You are accused of killing your own patients. Do you wish to say something in your defence?
+$GEN_055_OnStart_04
+I plead not guilty.
+$GEN_055_OnStart_05
+Then how would you explain the large number of autopsies carried out in your office?
+$GEN_055_OnStart_06
+If I only had a trusted helper in Paris, I could perform many more.
+$GEN_055_OnStart_07
+A doctor’s role is to treat the living, not cut up the dead!
+$GEN_055_OnStart_08
+Were all your patients killed by tumours?
+$GEN_055_OnStart_09
+Not all, no. Some of those unfortunate souls died from infections, accidents, or during drunken brawls.
+$GEN_055_OnGuilty_00
+Dr Hill, your activities were criminal and disgusting. I sentence you to death.
+$GEN_055_OnGuilty_01
+He deserves to be cut up too!
+$GEN_055_OnPrison_00
+Citizen, your goals were noble, but your methods… I sentence you to prison.
+$GEN_055_OnPrison_01
+It’s not enough!
+$GEN_055_OnPrison_02
+Send that monster to the guillotine!
+$GEN_055_OnNotGuilty_00
+I only see envious people casting false accusations on Dr Hill. Doctor, I wish you luck in the further fight against this disease. You are free to go.
+$GEN_055_OnNotGuilty_01
+What’s that supposed to mean?
+$GEN_055_OnNotGuilty_02
+Did he kill them or not?
+$GEN_055_OnNotGuilty_03
+I’m not sure I understand.
+$GEN_055_03x07_00_QTitle
+Was your research time-consuming?
+$GEN_055_03x07_00_00
+Was your research time-consuming?
+$GEN_055_03x07_00_01
+Of course. The drawing alone takes an extremely long time.
+$GEN_055_03x07_00_02
+I understand that you also needed money to carry out those examinations.
+$GEN_055_03x07_00_03
+Indeed, it would be difficult to finance them with a medical practice alone.
+$GEN_055_03x07_00_04
+Then how did you get the money?
+$GEN_055_03x07_00_05
+From my British publisher, Harold Walter Smith. We signed a contract for the publication, and he gave me an advance payment on the remuneration.
+$GEN_055_03x07_00_06
+Anyone who takes money from the British is a traitor!
+$GEN_055_03x07_00_07
+I stay away from politics…
+$GEN_055_03x07_00_08
+Do not dare play dumb. Cooperating with British publishers during a time of war with Britain is politics, and perhaps even treason!
+$GEN_055_05x04_01_QTitle
+Has your book exhausted the topic of growths?
+$GEN_055_05x04_01_00
+Has your book exhausted the topic of growths?
+$GEN_055_05x04_01_01
+On the contrary, we will be studying this disease for years to come.
+$GEN_055_05x04_01_02
+By killing people?
+$GEN_055_05x04_01_03
+Keep silent when you have no idea what you are talking about.
+$GEN_055_05x04_01_04
+Citizen, I will silence people in this court, not you.
+$GEN_055_05x04_01_05
+I apologise, ignorance vexes me.
+$GEN_055_05x04_01_06
+So you plan to continue your research?
+$GEN_055_05x04_01_07
+Of course. I will do whatever it takes and will not rest until I find a weapon that kills this monster.
+$GEN_055_05x04_01_08
+So you will continue to murder, and you admit it openly?!
+$GEN_055_05x04_01_09
+I work for the sake of science, not gravediggers! As well as against dunces like those behind me and this very prosecutor!
+$GEN_055_05x04_01_10
+If the Judge doesn’t take that monster down, we will!
+$GEN_055_04x07_02_QTitle
+What were the growths you studied?
+$GEN_055_04x07_02_00
+What were the growths you studied?
+$GEN_055_04x07_02_01
+They are tumours. The Romans called this disease cancer. It is a terrifying condition.
+$GEN_055_04x07_02_02
+Is it lethal?
+$GEN_055_04x07_02_03
+Yes, the afflicted die in agony.
+$GEN_055_04x07_02_04
+Is it a widespread condition?
+$GEN_055_04x07_02_05
+Quite so, but equally often the patient lives with it for years and dies without ever knowing that their body was invaded by this deadly disease.
+$GEN_055_04x07_02_06
+Nonsense and quackery!
+$GEN_055_04x07_02_07
+Ignoramuses! You have no idea what is good for you!
+$GEN_055_04x07_02_08
+Watch your words, or in no time you will end up sent to the guillotine by those you are insulting!
+$GEN_055_04x07_02_09
+Ordinary people should not be allowed to speak on matters of science.
+$GEN_055_06x03_03_QTitle
+You have performed nearly 150 autopsies. How do you explain that?
+$GEN_055_06x03_03_00
+You have performed nearly 150 autopsies. How do you explain that?
+$GEN_055_06x03_03_01
+There were many more, but fewer than 150 proved suitable for publication.
+$GEN_055_06x03_03_02
+Please explain how it is possible that you were able to find so many bodies fitting the subject of your book.
+$GEN_055_06x03_03_03
+I must have been lucky.
+$GEN_055_06x03_03_04
+He is downright arrogant!
+$GEN_055_06x03_03_05
+Were all of them your patients?
+$GEN_055_06x03_03_06
+No, I went to hospitals and looked for people complaining of specific ailments whom I suspected to have the disease.
+$GEN_055_06x03_03_07
+And then you waited for them to die?
+$GEN_055_06x03_03_08
+Yes.
+$GEN_055_08x01_04_QTitle
+Call in Louis Delon.
+$GEN_055_08x01_04_00
+Call in Louis Delon.
+$GEN_055_08x01_04_02
+Are you Louis Delon, Dr Hill’s assistant?
+$GEN_055_08x01_04_03
+Indeed, I am.
+$GEN_055_08x01_04_04
+Your employer has been accused of murdering his own patients. What do you have to say about this?
+$GEN_055_08x01_04_05
+They all came to him for help and he tried to do his best. There is nothing more to say.
+$GEN_055_08x01_04_06
+So all the cases from the book were Dr Hill’s private patients?
+$GEN_055_08x01_04_07
+Yes, monsieur le juge.
+$GEN_055_02x05_05_QTitle
+Has your book sold well?
+$GEN_055_02x05_05_00
+Has your book sold well?
+$GEN_055_02x05_05_01
+I am not complaining. The first batch has almost sold out.
+$GEN_055_02x05_05_02
+Have you made money from it?
+$GEN_055_02x05_05_03
+People, he killed all of them to line his own pockets!
+$GEN_055_02x05_05_04
+Of course, but that is irrelevant.
+$GEN_055_02x05_05_05
+What is relevant, then?
+$GEN_055_02x05_05_06
+This disease has taken more lives than fires and wild animals put together. We need to learn about it before it kills us all. By keeping me here, you are delaying progress! Future generations will be sure to hold it against you.
+$GEN_055_02x05_05_07
+Were you ready to kill to learn about the disease?
+$GEN_055_02x05_05_08
+Every new piece of knowledge is a hundred saved lives in the future.
+$GEN_055_02x05_05_09
+Please answer the question.
+$GEN_055_02x05_05_10
+I would not know, as I have never had to make such a decision.
+$GEN_055_08x03_06_QTitle
+Your assistant’s notes state that you sought specific patients for your drawings.
+$GEN_055_08x03_06_00
+Your assistant’s notes state that you sought specific patients for your drawings.
+$GEN_055_08x03_06_01
+I wanted to include various examples of tumours. The disease presents differently when attacking the lungs compared to when it affects the bladder. This is important for science.
+$GEN_055_08x03_06_02
+Allow me to quote the notes: “We have to choose a patient … and ’obtain’ them for our research.” This does not sound like you were waiting for the right patient to die.
+$GEN_055_08x03_06_03
+That fool’s notes are his private matter. I do not know a thing about them.
+$GEN_055_08x03_06_04
+It seems that you must know something about it.
+$GEN_055_08x03_06_05
+I have nothing more to say on the matter.
+$GEN_055_08x03_06_06
+A monster, not a doctor!
+$GEN_055_WIT_00_A_QTitle
+Did the patients’ relatives agree to the autopsies?
+$GEN_055_WIT_00_A_00
+Did the patients’ relatives agree to the autopsies?
+$GEN_055_WIT_00_A_01
+Yes. This way, they did not have to pay a doctor.
+$GEN_055_WIT_00_A_02
+That sounds like blackmail.
+$GEN_055_WIT_00_A_03
+Rather it was a fair deal. They were mostly poor people, so for them it was like manna from heaven.
+$GEN_055_WIT_00_A_04
+Such benefactors!
+$GEN_055_WIT_00_B_QTitle
+You said in your notes that you had to obtain a new patient for your research.
+$GEN_055_WIT_00_B_00
+You said in your notes that you had to obtain a new patient for your research. How should I understand those words?
+$GEN_055_WIT_00_B_01
+…
+$GEN_055_WIT_00_B_02
+Answer the question.
+$GEN_055_WIT_00_B_03
+It was just a figure of speech.
+$GEN_055_WIT_00_B_04
+How did you obtain patients for your research?
+$GEN_055_WIT_00_B_05
+We waited until they died in an accident or…
+$GEN_055_WIT_00_B_06
+Or?
+$GEN_055_WIT_00_B_07
+Or from disease, that’s all. I was only an assistant.
+$GEN_055_KEY_01
+Patients
+$GEN_055_KEY_02
+Book
+$GEN_055_KEY_03
+Engravings
+$GEN_055_KEY_04
+Growth
+$GEN_055_KEY_05
+Sold out books
+$GEN_055_KEY_06
+Parisian physicians
+$GEN_055_KEY_07
+Autopsy
+$GEN_055_KEY_08
+Assistant’s notes
+$GEN_055_LastDialog_00
+Continue to kill science then, sympathising with those for whom there was no hope anyway. Would you have saved them? Will my death save others?
+$GEN_055_UNIQUE_QUESTION_00
+Where did the doctor get the money for his research?
+$GEN_055_UNIQUE_ANSWER_CORRECT_00_00
+From a British publisher.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_00_00
+From a wealthy sick man looking for a cure.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_00_01
+From the French government.
+$GEN_055_UNIQUE_QUESTION_01
+How did the doctor force families to allow him to perform a post-mortem?
+$GEN_055_UNIQUE_ANSWER_CORRECT_01_00
+He waived payments for the treatment.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_01_00
+He threatened them.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_01_01
+He offered them money.
+$GEN_055_UNIQUE_QUESTION_02
+Where did Dr Hill look for cases that would fit his book?
+$GEN_055_UNIQUE_ANSWER_CORRECT_02_00
+In hospitals.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_02_00
+He asked his colleagues.
+$GEN_055_UNIQUE_ANSWER_NOT_CORRECT_02_01
+In mortuaries.

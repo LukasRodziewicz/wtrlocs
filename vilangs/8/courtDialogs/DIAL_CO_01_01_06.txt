@@ -1,0 +1,30 @@
+$DIAL_CO_01_01_06_001_MENTOR
+Ontem o povo destruiu o tribunal. Tome cuidado.
+$DIAL_CO_01_01_06_002_HEADGUARD
+Infelizmente, estamos perdendo o controle das ruas. O povo se sente traído pelo Rei, e alguns já o veem como um espião tentando escapar da justiça. Recomenda-se o uso de meios especiais para conter os distúrbios. Precisamos apenas da opinião dos juízes para garantir que agimos dentro da lei.
+$DIAL_CO_01_01_06_003_MENTOR
+Em outras palavras, você precisa da bênção deles para atirar nos manifestantes?
+$DIAL_CO_01_01_06_004_HEADGUARD
+As pessoas não conseguem controlar suas emoções e acabam ferindo outros cidadãos por isso. Olhe para as janelas. Da próxima vez, podem fazer algo pior do que apenas atirar pedras.
+$DIAL_CO_01_01_06_005_HEADGUARD
+Vamos torcer para que ainda haja tempo de pôr fim a essa loucura.
+$DIAL_CO_01_01_06_006_MENTOR
+Que curioso eufemismo para fuzilamento.
+$DIAL_CO_01_01_06_007_HEADGUARD
+Sem este documento, só nos resta esperar que os cidadãos de Paris comecem a se matar diante dos nossos próprios olhos.
+$DIAL_CO_01_01_06_008_MENTOR
+Espero que saiba o que está fazendo... O decreto pode ter vindo da Convenção, mas não tenho dúvidas de que foi ideia de Robespierre.
+$LETTERDECISION_D06_MAINTEXT_00
+É doloroso para nós ver a inquietação crescer nas ruas de Paris. O comandante-em-chefe Burel nos informou que a Guarda já não consegue mais controlar a situação por meios pacíficos. Recomenda-se que lhe seja permitido recorrer a métodos mais imediatos para proteger os civis inocentes, mas gostaríamos de saber a opinião do Tribunal sobre o assunto.
+$LETTERDECISION_D06_MAINTEXT_01
+Aprovo o uso da força pela Guarda Nacional contra os desordeiros que destroem a capital.
+$LETTERDECISION_D06_SENDER
+Raymond Dévoyé
+$LETTERDECISION_D06_ACCEPTBUTTON
+Assinar
+$LETTERDECISION_D06_ACCEPTTEXT
+É dever da Guarda proteger os inocentes daqueles que não conseguem controlar seu comportamento. Apoio a ampliação da liberdade de ação da Guarda Nacional!
+$LETTERDECISION_D06_REJECTBUTTON
+Não assinar
+$LETTERDECISION_D06_REJECTTEXT
+As autoridades não devem usar a força contra o povo. Se for preciso, já perderam. Não aprovo este decreto!

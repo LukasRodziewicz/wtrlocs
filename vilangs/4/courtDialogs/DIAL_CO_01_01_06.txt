@@ -1,0 +1,30 @@
+$DIAL_CO_01_01_06_001_MENTOR
+Gestern haben die Leute den Gerichtssaal verwüstet. Sei vorsichtig.
+$DIAL_CO_01_01_06_002_HEADGUARD
+Tragischerweise verlieren wir die Kontrolle über die Straßen. Das Volk fühlt sich vom König verraten, und manche halten ihn für einen Spion, der der Gerechtigkeit entkommen will. Beim Niederschlagen der Unruhen werden besondere Maßnahmen empfohlen. Wir benötigen lediglich die Zustimmung der Richter, um sicherzustellen, dass wir im Rahmen des Gesetzes handeln.
+$DIAL_CO_01_01_06_003_MENTOR
+Mit anderen Worten: Sie brauchen deren Segen, um auf Demonstrierende zu schießen?
+$DIAL_CO_01_01_06_004_HEADGUARD
+Die Menschen verlieren die Kontrolle über ihre Gefühle und verletzen dadurch andere Bürger. Sehen Sie sich die Fenster an. Beim nächsten Mal tun sie vielleicht Schlimmeres, als nur Steine zu werfen.
+$DIAL_CO_01_01_06_005_HEADGUARD
+Hoffen wir, dass es noch nicht zu spät ist, diesem Wahnsinn Einhalt zu gebieten.
+$DIAL_CO_01_01_06_006_MENTOR
+Das ist eine interessante Umschreibung für Musketensalven.
+$DIAL_CO_01_01_06_007_HEADGUARD
+Ohne dieses Dokument bleibt uns nichts anderes übrig, als darauf zu warten, dass die Bürger von Paris sich vor unseren Augen gegenseitig umbringen.
+$DIAL_CO_01_01_06_008_MENTOR
+Ich hoffe, Sie wissen, was Sie tun… Das Dekret mag vom Konvent stammen, aber ich bezweifle nicht, dass es Robespierres Idee war.
+$LETTERDECISION_D06_MAINTEXT_00
+Es schmerzt uns, mitanzusehen, wie die Unruhen auf den Straßen von Paris zunehmen. Oberbefehlshaber Burel hat uns darüber informiert, dass die Garde die Lage nicht länger auf friedliche Weise unter Kontrolle halten kann. Es wird empfohlen, ihm den Einsatz unmittelbarer Maßnahmen zum Schutz der unschuldigen Bürger zu gestatten, doch möchten wir zuvor die Meinung des Tribunals zu dieser Angelegenheit einholen.
+$LETTERDECISION_D06_MAINTEXT_01
+Ich befürworte den Einsatz von Gewalt durch die Nationalgarde gegen die Randalierer, die die Hauptstadt verwüsten.
+$LETTERDECISION_D06_SENDER
+Raymond Dévoyé
+$LETTERDECISION_D06_ACCEPTBUTTON
+Unterschreiben
+$LETTERDECISION_D06_ACCEPTTEXT
+Die Aufgabe der Garde ist es, Unschuldige vor denen zu schützen, die ihr Verhalten nicht zügeln können. Ich befürworte mehr Freiheiten für den Einsatz der Nationalgarde!
+$LETTERDECISION_D06_REJECTBUTTON
+Nicht unterschreiben
+$LETTERDECISION_D06_REJECTTEXT
+Die Obrigkeit darf keine Gewalt gegen das Volk anwenden. Muss sie es doch tun, hat sie bereits verloren. Ich billige dieses Dekret nicht!
